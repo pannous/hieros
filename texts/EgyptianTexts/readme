@@ -1,0 +1,176 @@
+Note: in the below, the sign '$' stands for the command-line prompt, 
+and is not to be entered.
+
+===================================================================
+Compiling the code (only necessary after making changes to the code)
+
+If necessary, first download Java 1.4 (or later) from:
+http://java.sun.com/
+
+If Ant has been installed, all that is needed is:
+
+$ ant
+
+in the main directory (in which this README file is located).
+You can download Ant from: 
+http://ant.apache.org
+
+To force recompilation of all classes, one may first
+want to remove all class files. This is done by:
+
+$ ant clean
+
+===================================================================
+Permanently changing the behaviour of the software
+
+If the default settings are not to your liking, you can change
+certain constants in various files called Settings.java
+throughout the code and thereafter do:
+
+$ ant settings
+
+===================================================================
+Viewing texts
+
+In main directory (in which this README file is located) do:
+
+$ ant view
+
+or do:
+
+$ ant appletview
+
+or consult index.html using a Web browser. Only with the first option above
+is it possible to alter texts and generate PDF files.
+
+The above assumes that the corpus is corpus/corpus.xml .
+If a different corpus is to be viewed, do:
+
+$ ant view -Dcorpus=MyCorpusXML
+
+===================================================================
+Converting RES to an image
+
+Run:
+
+$ ant res2image
+
+Instructions for this use are found on the home page of RES.
+
+===================================================================
+Editing RES in a document
+
+Run:
+
+$ ant edit
+
+A file can then be opened containing RES or a new file can be created. 
+Read the electronic manual of the editor for further information.
+
+The file to be edited can also be indicated by:
+
+$ ant edit -Dinfile=MyTextSrc
+
+===================================================================
+OCR of hand-written transcriptions of hieroglyphic
+
+Run:
+
+$ ant ocr
+
+A directory can be opened with scans of pages in PNG format.
+
+The directory to be edited can also be indicated by:
+
+$ ant ocr -Dinfile=MyTextSrc
+
+It is assumed there is a directory
+paleo/sethe containing prototypes of glyphs.
+
+===================================================================
+Converting Manuel de Codage file to RES and PhilologEg
+
+Run:
+
+$ ant mdc2res -Dinfile=MyMdcIn -Doutfile=MyResOut
+
+The conversion uses heuristics, and manual post-editing
+of MyResOut will always be needed to turn the result into
+something that is syntactically and semantically valid, 
+e.g. according to the PhilologEg format.
+
+If errors or unknown constructs in the input are found, 
+the conversion is interrupted and a window is opened 
+allowing you to correct the errors, and resume conversion. 
+
+===================================================================
+If Ant has not been installed
+
+Instead of "ant" run:
+
+$ javac -cp .:lib/itextpdf-5.4.3.jar -d . *.java 
+$ javac -cp .:lib/itextpdf-5.4.3.jar -sourcepath src -d . src/java_cup/*.java
+$ javac -cp .:lib/itextpdf-5.4.3.jar -sourcepath src -d . src/nederhof/res/*.java
+$ javac -cp .:lib/itextpdf-5.4.3.jar -sourcepath src -d . src/nederhof/res/editor/*.java
+$ javac -cp .:lib/itextpdf-5.4.3.jar -sourcepath src -d . src/nederhof/res/mdc/*.java
+$ javac -cp .:lib/itextpdf-5.4.3.jar -sourcepath src -d . src/nederhof/ocr/*.java
+
+[If compiled with Java 1.5, there may be warnings, which can be
+avoided by using instead: javac -encoding cp1252 ... ]
+
+Instead of "ant clean" run:
+
+$ find . -name '*.class' -exec rm {} \;
+
+Instead of "ant settings" run:
+
+$ javac -cp .:lib/itextpdf-5.4.3.jar -sourcepath src -d . src/nederhof/corpus/Settings.java
+$ javac -cp .:lib/itextpdf-5.4.3.jar -sourcepath src -d . src/nederhof/corpus/egyptian/Settings.java
+... etc ...
+
+Instead of "ant view" run:
+
+$ java -cp .:lib/itextpdf-5.4.3.jar AppletViewCorpus corpus/corpus.xml
+
+Instead of "ant view -Dcorpus=MyCorpusXML" run:
+
+$ java -cp .:lib/itextpdf-5.4.3.jar AppletViewCorpus MyCorpusXML
+
+Instead of "ant appletview" run:
+
+$ appletviewer index.html
+
+Instead of "ant res2image" run:
+
+$ java -cp .:lib/itextpdf-5.4.3.jar nederhof/res/ResToImage
+
+Instead of "ant edit -Dinfile=MyTextSrc" run:
+
+$ java -cp .:lib/itextpdf-5.4.3.jar nederhof/res/editor/FreeEditor MyTextSrc
+
+Instead of "ant mdc2res -Dinfile=MyMdcIn -Doutfile=MyResOut" run:
+
+$ java -cp .:lib/itextpdf-5.4.3.jar nederhof/res/mdc/MdcResConverter MyMdcIn MyResOut
+
+Instead of "ant ocr" run:
+
+$ java -cp .:lib/itextpdf-5.4.3.jar nederhof/ocr/Ocr
+
+===================================================================
+Technical remark:
+
+Use is made of CUP v0.10k and jflex-1.4.1. Normally, these programs need not
+be run when installing the package. However, if desired, the parser and lexer 
+can be created anew, by running:
+
+$ ant res_syntax
+
+This creates parser.java and sym.java for the parser,
+and lexer.java for the lexer, in src/nederhof/res and
+files with identical names in src/nederhof/res/editor .
+
+Similarly, the parser and lexer for MdC can be created anew, by:
+
+$ ant mdc_syntax
+
+This creates files with names as above in src/nederhof/res/mdc .

@@ -1,0 +1,55 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2015-08-07
+modified = 2015-08-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the collection of cattle-tax by
+Reneni, following the transcription of Sethe (1927), number 26 (p.
+75).
+
+For published translations, see Sethe (1914), number 26 (p. 39).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<"A"> mAA jrt jry jn jrj-pat HAtj-a
+;
+<"A"> Beholding collection of cattle-tax by prince-regent and count,
+
+jmj-rA [Hmw-]nTr sS ^rnnj wHm anx
+;
+leader of priests, scribe, Reneni, who lives again.
+
+kAw 122 sr 100 anxwt 1200 SAw 1500
+;
+122 oxen, 100 sheep, 1200 goats, 1500 pigs.
+
+<"B"> jt m Hs
+;
+<"B"> Returning, praised
+
+Hr smjt SAyt
+;
+upon reporting the collection,
+
+jn HAtj-a ^rnnj [...]
+;
+by count Reneni [...]

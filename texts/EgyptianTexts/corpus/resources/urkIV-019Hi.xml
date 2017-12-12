@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-11-16"
+  modified="2015-11-08"
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of a text of Ahmose, deputy of Peniati, following the
+transcription of Sethe (1927), number 19 (pp. 52-53).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="1"/><note symbol="67">Looks much like
+<hi>M23</hi>.</note><pos symbol="8" id="0"/>[hlr]M23*[sep=0.5]X8-R4-M17-Y5:[sep=0.5]N35:[sep=0.5]N5*Z1-V30-W11*W11:[fit,size=inf]W11-N16:N16-D37:I9-(O1:[sep=0.5]D21:[sep=0.5]D21)*X1-V30:X1-D2:[sep=0.5]Z1-R3-I9-insert[te](G25*.,Aa1)-F12*[sep=0.5]S29-insert[s](I10,I9)-[sep=0.5]Y1:Z1*Z1*Z1-A51-O34:O34-D36:N35-D8-Aa15-D2*Z1*.:N35-D58*(V30:Z1*Z1*Z1)-N35:[sep=0.5]D28*[sep=0.5]Z1:[sep=0.5]N35-Y4-N12*F31-F21a*W24:N35-F20:[fit]A9-[sep=0.5]N35-O28*(W24:[sep=0.5]O49)-M26-Q3:N35-N30:N30
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]M23*X8-R4-insert[be](insert[bs](G26,X1),Z4)-S38*Y1a-[sep=0.5]Y1a*[sep=0.5]Y1a-(D37:I9)*W14-G43*(X1:N33*[sep=0.5]N33*[sep=0.5]N33)-I9-N35-(D4:D21)*(D2:[sep=0.5]Z1)-N35:[sep=0.5]N35:[sep=0.5]N35-I9-U6*[sep=0.5](X1:Z1*Z1*Z1)-N35-U15-G17*(O4:Z4)-G37-D2*Z1*.:[sep=0.5]I9-N35:[sep=0.5]D28*Z1:[sep=0.5]N35-F21a*W24:N35-F20-A9*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-Q3:N35-N30:N30-A52-Y4-N12-F31*S29-A1-F25*S34
+</texthi>
+</segment>
+</egyptian>

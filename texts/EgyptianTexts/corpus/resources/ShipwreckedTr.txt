@@ -1,0 +1,1030 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2015-01-24
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for The Shipwrecked Sailor, following
+the transcription on pp. 41-48 of Blackman (1932). Blackman omitted
+positions 77 and 110, which we determined by means of De Buck (1948),
+pp. 100-106, and Golénischeff (1912), pp. 1-10.
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Lichtheim (1975), pp. 211-215;
+Parkinson (1997), pp. 89-101; Simpson (1972), pp. 50-56. Also
+considered where the examples from Allen (2000), Gardiner (1957),
+Graefe (1994) and Loprieno (1995).
+
+###
+
+J.P. Allen. <i>Middle Egyptian: An Introduction to the Language and
+Culture of Hieroglyphs</i>. Cambridge University Press, 2000.
+
+A.M. Blackman. <i>Middle-Egyptian Stories -- Part I</i>. Fondation
+Égyptologique Reine Élisabeth, Brussels, 1932.
+
+A. De Buck. <i>Egyptian Readingbook</i>. Ares Publishers, Chicago,
+Illinois, 1948.
+
+A. Gardiner. <i>Egyptian Grammar</i>. Griffith Institute, Ashmolean
+Museum, Oxford, 1957.
+
+M.W. Golénischeff. <i>Le Conte du Naufragé</i>. L'Institut Français
+d'Archéologie Orientale, Le Caire, 1912.
+
+E. Graefe. <i>Mittelägyptische Grammatik für Anfänger</i>.
+Harrassowitz Verlag, Wiesbaden, 1994.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+A. Loprieno. <i>Ancient Egyptian: a linguistic introduction</i>.
+Cambridge University Press, 1995.
+
+M. Lichtheim. <i>Ancient Egyptian Literature -- Volume I: The Old and
+Middle Kingdoms</i>. University of California Press, 1975.
+
+R.B. Parkinson. <i>The Tale of Sinuhe and Other Ancient Egyptian Poems
+1940-1640 BC</i>. Oxford University Press, 1997.
+
+W.K. Simpson (editor). <i>The Literature of Ancient Egypt: An
+Anthology of Stories, Instructions, and Poetry</i>. Yale University
+Press, 1972.
+
+###
+
+<1> Dd.jn Smsw jqr
+;
+<1> An excellent follower says:
+
+wDA-jb=k
+;
+'May it please you,
+
+HAtj-a
+;
+count,
+
+mk pH.n=n <3> Xnw
+;
+we have reached <3> home,
+
+Ssp xrpw <4> Hw mnjt
+;
+the maul has been taken, <4> the mooring post has been driven in,
+
+HAtt rDj.tj <5> Hr tA
+;
+and the prow rope has been thrown <5> on land,
+
+rDj Hknw dwA-nTr
+;
+praise is given, and the god is thanked,
+
+s nb Hr Hpt snnw=f
+;
+every man is embracing his fellow
+
+<7> jswt=n jj.tj aD.tj
+;
+<7> and our crew has come back safe,
+
+nn <8> nhw n mSa=n
+;
+without <8> loss to our expedition.
+
+pH.n=n <9> pHwj ^wAwAt
+;
+We reached <9> the end of Wawat
+
+sn.n=n <10> ^snmt
+;
+and passed <10> Biga,
+
+mk rf n jj=n <11> m Htp
+;
+and now we have come back <11> safely.
+
+tA=n pH=n sw
+;
+Our land, we have reached it!
+
+<12> sDm rk n=j HAtj-a
+;
+<12> Listen to me, count!
+
+jnk Sw <13> HAw
+;
+I am free <13> from exaggeration.
+
+ja Tw jm <14> mw Hr Dbaw=k
+;
+Wash yourself! Put <14> water on your fingers!
+
+jx wSb=k <15> wSd.tw=k
+;
+Then you may reply <15> when you are addressed,
+
+mdw=k n <16> nsw jb=k m-a=k
+;
+speak to <16> the king with self-possession,
+
+wSb=k nn njtjt
+;
+and answer without stammering!
+
+jw rA n s <18> nHm=f sw
+;
+The utterance of a man <18> saves him,
+
+jw mdw<19>=f Dj=f TAm n=f Hr
+;
+his speech gains him indulgence.
+
+<20> jrr=k m xrt-jb=k
+;
+<20> You do as you wish,
+
+swr<21>D pw Dd n=k
+;
+it is tiresome to speak to you.
+
+sDd=j rf <22> n=k mjtt jrj xpr m-a=j <23> Ds=j
+;
+I shall recount <22> to you something similar, which happened to me
+<23> myself.
+
+Sm.kw r bj<24>A n jty
+;
+I had set off for the mining region of the sovereign
+
+hA<25>.kw r wAD-wr
+;
+and I had gone to sea
+
+m dpt <26> nt mH 120 m Aw=s
+;
+in a boat <26> 120 cubits long
+
+mH 40 m sx<27>w=s
+;
+and 40 cubits wide,
+
+sqd 120 jm=s <28> m stp n ^kmt
+;
+with 120 sailors <28> of the pick of Egypt.
+
+mA=sn <29> pt mA=sn tA
+;
+Whether they looked <29> at the sky or looked at the land,
+
+makA-<30>jb=sn r mAjw
+;
+they were more courageous than lions.
+
+sr<31>=sn Da n jjt
+;
+They could foretell a gale before it came
+
+nS<32>nj n xprt=f
+;
+and a thunderstorm before it happened.
+
+Da pr(.w) <33> jw=n m wAD-wr
+;
+A gale came up <33> while we were at sea
+
+tp-a <34> sAH=n tA
+;
+before <34> we had reached land.
+
+fAt TAw <35> jr=f wHmyt
+;
+The wind rose <35> and rose again,
+
+nwyt <36> jm=f nt mH 8
+;
+and a wave <36> with it of 8 cubits.
+
+jn xt Hwj <37> n=j sj
+;
+It was a beam that broke <37> it for me.
+
+aHa.n dpt <38> mwt(.tj)
+;
+Then the boat <38> sank,
+
+ntjw jm=s n sp <39> wa jm
+;
+and of those aboard none remained.
+
+aHa.n=j rDj.kw <40> r jw
+;
+Then I was cast <40> on an island
+
+jn wAw n wAD-<41>wr
+;
+by a wave of the sea.
+
+jr.n=j hrw 3 wa.kw
+;
+I spent three days alone,
+
+<42> jb=j m snnw=j
+;
+<42> my heart being my companion,
+
+sDr.k<43>w m-Xnw n kAp <44> n xt
+;
+and I slept in a shelter <44> of wood
+
+qnj.n=j Sw<45>yt
+;
+embracing the shadows.
+
+aHa.n dwn.n=j rd<46>wj=j
+;
+Then I stretched my legs
+
+r rx Djt=j m rA=j
+;
+to learn what I might put in my mouth.
+
+<47> gm.n=j dAbw jA<48>rrwt jm
+;
+<47> I found figs and grapes there,
+
+jAqt nbt Spst
+;
+and all kinds of fine vegetables,
+
+<49> kAw jm Hna nqawt
+;
+<49> unripe sycamore figs were there as well as ripe ones,
+
+<50> Sspt mj jr.tw=s
+;
+<50> and muskmelon as if cultivated,
+
+rmw <51> jm Hna Apdw
+;
+fish <51> were there as well as fowl,
+
+nn ntt <52> nn st m-Xnw=f
+;
+there was nothing <52> that was not on it.
+
+aHa.n <53> ssA.n(=j) wj
+;
+Then <53> I ate my fill,
+
+rDj.n=j r tA <54> n wr Hr awj=j
+;
+and dropped on the floor <54> because of the abundance on my arms.
+
+Sdt=j DA <55> sxpr.n=j xt
+;
+I took a fire drill, <55> made fire,
+
+jr.n=j <56> sbj-n-sDt n nTrw
+;
+and made <56> a burnt offering to the gods.
+
+aHa.n sDm.n=j <57> xrw qrj
+;
+Then I heard <57> thunder.
+
+jb<58>.kw wAw pw <59> n wAD-wr
+;
+I thought it was a wave <59> of the sea,
+
+xtw Hr gmgm <60> tA Hr mnmn
+;
+trees were breaking, <60> the earth was trembling.
+
+kf.n=j <61> Hr=j
+;
+When I uncovered <61> my face,
+
+gm.n=j HfAw <62> pw jw=f m jjt
+;
+I found it was a serpent coming.
+
+nj-sw <63> mH 30
+;
+He measured <63> 30 cubits,
+
+xbswt=f wr sj <64> r mH 2
+;
+his beard was bigger <64> than 2 cubits,
+
+Haw=f sSr.w <65> m nbw
+;
+his skin was gilded,
+
+jnHwj=fj m xsbD <66> mAa
+;
+his eyebrows were of real lapis lazuli.
+
+arq(.w) sw r-xnt
+;
+He was bent up.
+
+<67> jw wp.n=f rA=f r=j
+;
+<67> He opened his mouth to me,
+
+jw=j <68> Hr Xt=j m-bAH=f
+;
+while I was <68> on my belly before him.
+
+<69> Dd=f n=j
+;
+<69> He said to me:
+
+nm jn Tw sp 2 nDs
+;
+&quot;Who brought you, who brought you, young man?
+
+<70> nm jn Tw
+;
+<70> Who brought you?
+
+jr wdf<71>=k m Dd n=j jn Tw r jw pn
+;
+If you delay telling me who brought you to this island,
+
+<72> rDj=j rx=k Tw jw=k m ss
+;
+<72> I will make you know yourself to be ashes,
+
+<73> xpr.tj m ntj n mA.tw=f
+;
+<73> turned into something that one can't see.&quot;
+
+jw md<74>w=k n=j
+;
+&quot;You speak to me
+
+nn wj Hr sDm <75> st
+;
+but I'm not hearing <75> it.
+
+jw=j m-bAH=k <76> xm.n(=j) wj
+;
+I am before you <76> and do not know myself.&quot;
+
+aHa.n rDj=f wj <77> m rA=f
+;
+Then he put me <77> in his mouth,
+
+jT=f wj r st=f <78> nt snDm
+;
+took me to the place where he lived,
+
+wAH<79>=f wj nn dmjt=j
+;
+and set me down without harming me.
+
+wD<80>A.kw nn jTt jm=j
+;
+I was uninjured, without force applied to me.
+
+<81> jw wp.n=f rA=f r=j
+;
+<81> He opened his mouth to me,
+
+jw=j <82> Hr Xt=j m-bAH=f
+;
+while I was <82> on my belly before him.
+
+<83> aHa.n Dd.n=f n=j
+;
+<83> He then said to me:
+
+nm jn Tw sp 2 <84> nDs
+;
+&quot;Who brought you, who brought you, <84> young man?
+
+nm jn Tw r jw pn <85> n wAD-wr
+;
+Who brought you to his island <85> in the sea,
+
+ntj gs=fj m nw<86>y
+;
+with water on all sides?&quot;
+
+aHa.n wSb.n=j <87> n=f st
+;
+Then I answered <87> this to him,
+
+awj=j xAm(.w) <88> m-bAH=f
+;
+my arms bent <88> before him,
+
+Dd=j n=f
+;
+I said to him:
+
+<89> jnk pw hA.kw
+;
+<89> &quot;It's that I was going
+
+<90> r bjA m wpwt <91> jty
+;
+<90> to the mining region on a mission <91> of the sovereign
+
+m dpt nt <92> mH 120 m Aw=s
+;
+in a boat <92> 120 cubits long
+
+mH 40 m sxw<93>=s
+;
+and 40 cubits wide,
+
+sqd 120 jm=s <94> m stpw n ^kmt
+;
+with 120 sailors <94> of the pick of Egypt.
+
+<95> mA=sn pt mA=sn tA
+;
+<95> Whether they looked at the sky or looked at the land,
+
+<96> makA-jb=sn r mA<97>jw
+;
+<96> they were more courageous than lions.
+
+sr=sn Da <98> n jjt=f
+;
+They could foretell a gale <98> before it came
+
+nSnj n xprt=f
+;
+and a thunderstorm before it happened.
+
+<99> wa jm nb makA-jb=f <100> nxt-a=f
+;
+<99> Each one of them was more courageous <100> and stronger
+
+r snnw=f
+;
+than his fellow.
+
+nn <101> wxA m Hrj-jb=sn
+;
+There was not <101> a fool among them.
+
+Da <102> pr(.w) jw=n m wAD-wr
+;
+A gale <102> came up while we were at sea
+
+<103> tp-a sAH=n tA
+;
+<103> before we had reached land.
+
+fAt <104> TAw jr=f wHmyt
+;
+The wind rose and rose again,
+
+nwyt <105> jm=f nt mH 8
+;
+and a wave <105> with it of 8 cubits.
+
+jn xt Hwj <106> n=j sj
+;
+It was a beam that broke <106> it for me.
+
+aHa.n dpt mwt.tj
+;
+Then the boat sank,
+
+<107> ntjw jm=s n sp wa jm <108> Hr-xw=j
+;
+<107> and of those aboard none remained <108> except myself
+
+mk wj r gs=k
+;
+who is here with you.
+
+<109> aHa.n jn.kw r jw pn
+;
+<109> Then I was brought to this island
+
+<110> jn wAw n wAD-wr
+;
+<110> by a wave of the sea.&quot;
+
+<111> Dd.jn=f n=j
+;
+<111> Then he said to me:
+
+m snD mj sp 2 <112> nDs
+;
+&quot;Fear not, fear not, <112> young man!
+
+m Aytw Hr=k
+;
+Do not turn pale,
+
+<113> pH.n=k wj
+;
+<113> for you have reached me.
+
+mk nTr rDj.n=f <114> anx=k
+;
+Look, the god has let <114> you live
+
+jn=f Tw r jw pn n kA
+;
+and has brought you to this island of the spirit.
+
+<115> nn ntt nn st m-Xnw=f
+;
+<115> There is nothing that is not on it
+
+<116> jw=f mH(.w) Xr nfrwt nbt
+;
+<116> and it is full of all good things.
+
+<117> mk Tw r jrt Abd Hr <118> Abd
+;
+<117> You will spend month upon <118> month
+
+r kmt=k Abd 4 <119> m-Xnw n jw pn
+;
+until you have completed four months <119> on this island.
+
+jw <120> dpt r jjt m Xnw
+;
+Then <120> a boat will come from home
+
+<121> sqdw jm=s rx.n=k
+;
+<121> with sailors whom you know,
+
+<122> Sm=k Hna=sn r Xnw
+;
+<122> and you will go home with them
+
+<123> mwt=k m njwt=k
+;
+<123> and die in your city.
+
+<124> rSwj sDd dpt.n=f
+;
+<124> How happy is he who can recount what he has experienced
+
+sn jxt mr
+;
+when a painful thing has passed.
+
+<125> sDd=j rf n=k mjtt jrj
+;
+<125> I will recount to you something similar,
+
+xprw m jw pn
+;
+which happened on this island,
+
+<126> wn=j jm=f Hna snw=j
+;
+<126> where I was with my relatives,
+
+Xrdw <127> m-qAb=sn
+;
+including children.
+
+km.n=n HfAw 75 m <128> msw=j Hna snw=j
+;
+We were 75 serpents in all with <128> my children and my relatives.
+
+nn sxA=j n=k <129> sAt ktt
+;
+I will not mention to you <129> the youngest daughter,
+
+jnt.n=j m sSA
+;
+whom I had obtained by prayer.
+
+aHa.n sbA <130> hA.w
+;
+Then a star <130> fell,
+
+pr.n nA m xt m-a=f
+;
+and they went up in flames because of it.
+
+xpr.n rs nn wj Hna
+;
+It happened when I wasn't there --
+
+<131> Am.nj nn wj m Hrj-jb=sn
+;
+<131> burnt when I wasn't among them!
+
+aHa.n=j mwt.kw n=sn
+;
+Then I died for them
+
+gm.n=j <132> st m XAyt wat
+;
+when I found <132> them as one heap of corpses.
+
+jr qnn=k rwD jb=k
+;
+If you are brave, be stout-hearted,
+
+<133> mH=k qnj=k m Xrdw=k
+;
+<133> and you will embrace your children,
+
+sn=k <134> Hmt=k
+;
+kiss <134> your wife,
+
+mA=k pr=k
+;
+and see your house.
+
+nfr st r jxt nbt
+;
+This is better than anything.
+
+<135> pH=k Xnw wn=k jm=f
+;
+<135> You will reach home and remain there
+
+<136> m-qAb n snw=k
+;
+<136> among your relatives.&quot;
+
+wn.kw rf <137> dmA.kw Hr Xt=j
+;
+I was <137> stretched out on my belly,
+
+dmj.n=j <138> sATw m-bAH=f
+;
+and touched <138> the ground before him.
+
+Dd=j rf n=k<note>To be emended to <al>n=f</al>.</note>
+;
+I said to him:
+
+<139> sDd=j bAw=k n jty
+;
+<139> &quot;I shall recount your might to the sovereign,
+
+Dj=j SsA=f <140> m aA=k
+;
+I shall make him aware <140> of your greatness,
+
+Dj=j jn.tw n=k jbr Hknw
+;
+I shall have them bring you ladanum, malabathrum,
+
+<141> jwdnb XsAyt snTr n gsw-prw
+;
+<141> terebinth<note>Following Parkinson (1997).</note>, balsam,
+processed incense
+
+<142> sHtpw nTr nb jm=f
+;
+<142> with which every god is pleased.
+
+sDd(=j) rf xprt <143> Hr=j
+;
+I shall recount what has happened <143> to me,
+
+m mAt.n=j m bAw=f
+;
+what I have seen of your might.
+
+dwA.tw n=k nTr
+;
+One will thank the god for you
+
+<144> m njwt xft-Hr qnbt tA r-Dr=f
+;
+<144> in the city before the council of the entire land.
+
+sfT=j <145> n=k kAw m sbj-n-sDt
+;
+I shall slaughter <145> bulls for you as burnt offering,
+
+wSn{n}=j n=k <146> Apdw
+;
+and strangle fowl for you.
+
+Dj=j jn.tw n=k Haww
+;
+I shall have boats brought for you
+
+ATp.w <147> Xr Spssw nb n ^kmt
+;
+laden <147> with all wealth of Egypt,
+
+mj jrrt n nTr mrr <148> rmT
+;
+as done for a god who loves <148> mankind
+
+m tA wA n rx sw rmT
+;
+in a distant land that people do not know.&quot;
+
+<149> aHa.n sbT.n=f jm=j
+;
+<149> Then he laughed at me,
+
+m nn Dd.n=j
+;
+at what I had said,
+
+m nf m jb=f
+;
+which was wrong to his heart.
+
+<150> Dd=f n=j
+;
+<150> He said to me:
+
+n wr n=k antjw
+;
+&quot;You don't have much myrrh,
+
+xprt nb snTr
+;
+or any form of incense.
+
+<151> jnk js HqA ^pwnt
+;
+<151> But I am the ruler of Punt,
+
+antjw n=j-jmy sw
+;
+myrrh is mine.
+
+<152> Hknw pf Dd.n=k jn.tw=f
+;
+<152> That malabathrum that you said would be brought,
+
+bw pw wr n jw pn
+;
+a large quantity is from this island.
+
+<153> xpr js jwd=k Tw r st tn
+;
+<153> Once it happens that you have left this place,
+
+n sp <154> mA=k jw pn
+;
+you will never see this island again,
+
+xpr(.w) m nwy
+;
+which will have become water.&quot;
+
+aHa.n dpt tf <155> jj.tj
+;
+Then that boat <155> came,
+
+mj srt.n=f xnt
+;
+as he had foretold previously.
+
+aHa.n=j Sm.kw
+;
+Then I went
+
+<156> rDj.n(=j) wj Hr xt qA
+;
+<156> and put myself up a tall tree
+
+sjA.n=j ntjw m-Xnw=s
+;
+and I recognized those who were aboard.
+
+<157> aHa.n Sm.kw r smjt st
+;
+<157> Then I went to report this
+
+gm.n=j sw rx(.w) st
+;
+and found that he knew it.
+
+<158> aHa.n Dd.n=f n=j
+;
+<158> Then he said to me:
+
+snb.tj sp 2 nDs
+;
+&quot;Fare well, fare well, young man,
+
+r pr=k mA=k <159> Xrdw=k
+;
+to your house, and see <159> your children!
+
+jm rn=j nfr(.w) m njwt=k
+;
+Let my name be good in your city.
+
+mk Xrt=j <160> pw jm=k
+;
+This is my due from you.&quot;
+
+<161> aHa.n rDj.n(=j) wj Hr Xt=j
+;
+<161> Then I placed myself on my belly,
+
+awj=j xAm(.w) m-bAH=f
+;
+my arms bent before him.
+
+<162> aHa.n rDj.n=f n=j sbt
+;
+<162> Then he gave me a cargo
+
+m antjw Hknw
+;
+of myrrh, malabathrum,
+
+jwdnb <163> XsAyt tjSps
+;
+terebinth<note>Following Parkinson (1997).</note>, <163> balsam,
+camphor,
+
+SAasx msdmt
+;
+<al>SAasx</al>-plants, black eye-paint,
+
+sdw <164> nw mm
+;
+giraffe tails,
+
+mrryt aAt nt snTr
+;
+a great lump of incense,
+
+nDHyt <165> nt Abw
+;
+elephant tusks,
+
+Tsmw gjfw kyw
+;
+hounds, guenons, apes,
+
+Spssw nb nfr
+;
+and all kinds of riches.
+
+<166> aHa.n ATp.n=j st r dpt tn
+;
+<166> Then I loaded this onto the boat,
+
+xpr.n rDjt(=j) wj Hr Xt=j
+;
+and it happened that I placed myself on my belly
+
+<167> r dwA n=f nTr
+;
+<167> to thank the god for him.
+
+aHa.n Dd.n=f n=j
+;
+Then he said to me:
+
+mk Tw r spr r Xnw <168> n Abd 2
+;
+&quot;You will reach home <168> within two months,
+
+mH=k qnj=k m Xrdw=k
+;
+you will embrace your children,
+
+rnpy=k <169> m Xnw
+;
+you will become rejuvenated <169> at home,
+
+qrs.tw=k
+;
+and will be buried.&quot;
+
+aHa.n hA.kw r mryt <170> m-hAw dpt tn
+;
+Then I went down to the shore <170> near this boat.
+
+aHa.n=j Hr aS n mSa <171> ntj m dpt tn
+;
+Then I called to the expedition <171> that was on this boat.
+
+rDj.n=j Hknw Hr mryt n nb n jw pn
+;
+I gave praise on the shore to the lord of this island,
+
+<172> ntjw jm=s r-mjtt-jrj
+;
+<172> and those who were aboard did the same.
+
+nat pw jr.n=n m xd
+;
+Then we sailed north
+
+<173> r Xnw n jty
+;
+<173> to the residence of the sovereign,
+
+spr.n=n r Xnw <174> Hr Abd 2
+;
+and reached the residence <174> within two months,
+
+mj Ddt.n=f nbt
+;
+like everything he had said.
+
+aHa.n aq.kw Hr jty
+;
+Then I entered before the sovereign,
+
+<175> ms.n=j n=f jnw pn
+;
+<175> and presented him with this tribute
+
+jn.n=j m-Xnw n jw pn
+;
+that I had brought from within this island.
+
+<176> aHa.n dwA.n=f n=j nTr
+;
+<176> Then he thanked the god for me
+
+xft-Hr qnbt tA r-Dr=f
+;
+before the council of the entire land.
+
+<177> aHa.n rDj.kw r Smsw
+;
+<177> Then I was appointed as follower
+
+<178> sAH.kw m <179> tpw=f<note>De Buck (1948) has instead <al>tpw
+200</al>.</note>
+;
+<178> and was endowed with <179> his people.
+
+mA wj r-<180>sA sAH=j tA
+;
+See me having reached land,
+
+r-sA <181> mA=j dpt.n=j
+;
+having <181> viewed what I have experienced.
+
+sDm rk <182> [n rA]=j
+;
+Listen <182> to my speech,
+
+mk nfr sDm n rmT
+;
+as it is good to listen to people!'
+
+<183> aHa.n Dd.n=f n=j
+;
+<183> Then he said to me:
+
+m jr jqr <184> xnms
+;
+'Don't act clever, <184> friend!
+
+jn-m rDj.tj mw <185> n Apd
+;
+Who would give water <185> to a goose
+
+HD tA n sfT<186>=f dwA
+;
+when the day dawns of his slaughter in the morning?'
+
+jw=f pw HAt=f <187> r pH=fj
+;
+This was copied from start <187> to finish
+
+mj gmyt m sS
+;
+as found in writing,
+
+<188> m sS sS jqr n Dbaw=f
+;
+<188> the writing of a scribe with skilled fingers,
+
+<189> ^jmny sA ^jmn-aA a.w.s.
+;
+<189> Ameny son of Amenyaa<note>Transcriptions following
+Parkinson.</note> (l.p.h.!).

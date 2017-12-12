@@ -1,0 +1,336 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-05-04
+modified = 2014-05-04
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the stela of king Ahmose honouring
+Tetisheri, following the transcription of Sethe (1927), number 7 (pp.
+26-29).
+
+For published translations, see 
+Breasted (1906), pp. 14-16, §§ 33-37;
+Sethe (1914), number 7 (pp. 14-16).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+^Hr ^kA-m-^wAst
+;
+Horus: Bull in Thebes,
+
+nTr nfr
+;
+good god,
+
+nb tAwj
+;
+lord of the Two Lands,
+
+^nb-pHtj-^ra
+;
+Nebpehtire;
+
+sA-^ra n Xt=f
+;
+Son of Re, of his body:
+
+^jaH-msjw Dj anx Dt
+;
+Ahmose, given life forever.
+
+sA anx HA=f nb
+;
+All protection and life with him.
+
+dbHt-Htp
+;
+A mortuary offering.
+
+Hmt-nsw mwt-nsw ^ttj-Srj anx.tj Dt
+;
+King's wife and king's mother Tetisheri (may she live forever!).
+
+<1> xpr swt snDm Hm=f m DAdw
+;
+<1> It happened that His Majesty sat in the audience-hall,
+
+nsw-bjtj ^nb-pHtj-^ra
+;
+the king of Upper and Lower Egypt: Nebpehtire;
+
+sA-^ra ^jaH-msjw Dj anx
+;
+Son of Re: Ahmose, given life,
+
+<2> jrt-pat
+;
+<2> as the regentess,
+
+wrt Hswt wrt jAmt
+;
+greatly praised and highly regarded,
+
+sAt-nsw snt-nsw
+;
+king's daughter, king's sister,
+
+Hmt-nTr Hmt-nsw wrt
+;
+god's wife and great king's wife,
+
+^jaH-msjw ^nfrt-jrj anx.tj
+;
+Ahmose Nofret-iry (may she live!)
+
+xft Hm=f
+;
+was before His Majesty.
+
+wa Dd=f <3> xft snnw=f
+;
+One spoke <3> to the other,
+
+Hr HHj Axt n ntjw-jm
+;
+considering what would be beneficial to the deceased:
+
+stt mw
+;
+pouring water,
+
+drp Hr xA<4>yt
+;
+offering on the altar,
+
+swAD abA
+;
+refurbishing the offering-stone,
+
+m tp-tr nb
+;
+at every seasonal festival,
+
+m psDntjw
+;
+at the new-moon festival,
+
+m Abd
+;
+at the monthly festival,
+
+prt sm
+;
+the procession of Sem-priests,
+
+<5> jxt-xAwj
+;
+<5> the evening offering,
+
+Abd 5.nwt 6.nwt
+;
+the fifth and sixth days of the month,
+
+hAkr
+;
+the Haker festival,
+
+wAg
+;
+the Wag festival,
+
+DHwty
+;
+the Thoth festival,
+
+tp-<6>tr nb n pt n tA
+;
+and all festivals of heaven and earth.
+
+Dd snt=f
+;
+His sister said
+
+wSb=s xr=f
+;
+in reply to him:
+
+sxA.tw nn Hr sj jSst
+;
+'Why is this mentioned?
+
+<7> sDd.tw mdt tn Hr jx
+;
+<7> Why are these words said?
+
+ptr spr r HAtj=k
+;
+What has come to your mind?'
+
+nsw Ds=f Dd=f xr=s
+;
+The king himself said to her:
+
+jnk <8> pw sxA n=j
+;
+'It is I who reminded myself
+
+mwt mwt=j
+;
+of the mother of my mother,
+
+mwt jt
+;
+and the mother of (my) father,
+
+Hmt-nsw wrt
+;
+great king's wife
+
+mwt-nsw ^ttj-Srj
+;
+and king's mother Tetisheri,
+
+mAa-xrw
+;
+justified.
+
+<9> wnn jsj=s maHat=s
+;
+<9> Her grave and her cenotaph are
+
+m mA-At
+;
+at this moment
+
+Hr sATw ^wAst ^tA-wr
+;
+on the soil of Thebes and Tawer.
+
+Dd.n nn xr=T
+;
+(I) said this to you,
+
+jw Ab.n Hm Djt jrt n=s mr Hwt
+;
+as (My) Majesty wanted to let a pyramid and a temple be built for her
+
+m tA-Dsr
+;
+in the necropolis,
+
+m sAHt mnw nw Hm
+;
+near the monuments of (My) Majesty.'
+
+SAd S=f
+;
+Dug out was its lake,
+
+wd xtw=f
+;
+planted were its trees,
+
+<11> smn pAwt=f
+;
+<11> confirmed was its sacrificial bread,
+
+grg m rmT
+;
+it was staffed with people,
+
+nHbw m AHwt
+;
+it was provided with fields,
+
+sAHw <12> m mnmnt
+;
+it was endowed <12> with cattle,
+
+Hmw-kA Xrjw-Hbt Hr jrt=sn
+;
+mortuary priests and lector priests are at their duty,
+
+s nb rx(.w) tp-rD<13>=f
+;
+every man knows his regulations.
+
+jsT Dd.n Hm=f mdt tn
+;
+That is, His Majesty spoke these words
+
+jw nn xws(.w) m jrt
+;
+when the construction of this was being done.<note>Uncertain.</note>
+
+jr.n Hm=f <14> nn
+;
+His Majesty did <14> this
+
+n-aAt-n mrr=f sj r jxt nbt
+;
+because he loved her more than anything.
+
+n sp jr nsyw tpjw-a mjtt jrj n mwwt=sn
+;
+Never have former kings done anything similar for their mothers.
+
+jsT Hm=f DA=f a=f
+;
+His Majesty stretched out his arm,
+
+qaH=f Drt=f
+;
+reached out his hand,
+
+jr=f n=s
+;
+and recited to her:
+
+Htp-Dj-nsw
+;
+'A royal offering;
+
+<16> ^gbb psDt psDt-nDst
+;
+<16> Geb, the Ennead, the small Ennead,
+
+[...] [^jnpw]
+;
+[...] [Anubis],
+
+<17> xntj-sH-nTr
+;
+<17> the one in god's booth,
+
+1000 m t
+;
+a thousand of bread,
+
+Hnqt kAw Apdw jwA [...]
+;
+beer, oxen, fowl, cows, [...]
+
+<18> n [kA n] [...]
+;
+<18> for [...]'

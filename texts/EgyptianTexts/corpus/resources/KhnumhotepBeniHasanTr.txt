@@ -1,0 +1,1024 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;The biography of Khnumhotpe,
+prince of Beni Hasan&quot;, following the transcription of De Buck
+(1948), pp. 67-72, with line numbers following plates 25 and 26 of
+Newberry (1893) up to line 200, and following plate 11 of Montet
+(1930-1935) from line 200 onward.
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), pp. 279-289, §§
+619-639; Newberry (1893), pp. 57-66. Montet (1930-1935), pp. 131-132,
+offers a translation of the text from line 199 onward.
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume I</i>. The
+University of Chicago Press, 1906.
+
+A. De Buck. <i>Egyptian Readingbook</i>. Ares Publishers, Chicago,
+Illinois, 1948.
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+P. Montet. Les dernières lignes de la grande inscription de Beni
+Hassan. <i>Kêmi</i>, 3:112-132, 1930-1935.
+
+P.E. Newberry. <i>Beni Hasan -- Part I</i>. Kegan Paul, Trench,
+Trübner &amp; Co., London, 1893.
+
+###
+
+<1> jrj-pat HAtj-a rx-nsw
+;
+<1> Prince regent, count, acquaintance of the king,
+
+mrrw nTr=f jmj-rA <2> xAswt jAbtt
+;
+beloved of his god, leader <2> of the eastern lands,
+
+^nHrj sA ^Xnm-Htp mAa-xrw
+;
+Khnumhotep, son of Neheri, justified,
+
+<3> jr.n sAt HAtj-a
+;
+<3> born of a count's daughter,
+
+nbt-pr ^bAqt mAa-xrw
+;
+lady of the house Baqet, justified.
+
+<4> jr.n=f m mnw=f
+;
+<4> He built this as his monument.
+
+sp=f tp m smn<5>x njwt=f
+;
+His foremost deed was adorning his city,
+
+srwD=f rn=f n nHH<note>Read <hi>G43</hi> as <hi>G21</hi>.</note>
+;
+that he might perpetuate his name forever,
+
+<6> smnx=f sw n Dt m js=f <7> n Xrt-nTr
+;
+<6> and that he might adorn it for eternity in his tomb <7> of the
+necropolis.
+
+srwD=f rn n qnbt<8>=f
+;
+He perpetuated the name of his cabinet,
+
+smnx xft jAwt=sn
+;
+elevated according to their offices,
+
+<9> mnxw jmjw nw <10> pr=f
+;
+<9> the excellent ones and inhabitants of <10> his house,
+
+Tn.n=f xnt m<11>rt=f
+;
+whom he raised over his servants,
+
+jAwt nbt xrpt<12>.n=f
+;
+concerning every office that he held
+
+Hmwt nbt mj xpr<13>=s
+;
+and every craft according to its nature.
+
+rA=f Dd=f
+;
+His mouth says:
+
+jw rDj.n wj
+;
+
+<14> Hm n
+;
+<14> 'The majesty of
+
+^Hr ^Hkn-m-mAat
+;
+Horus: Who rejoices in truth;
+
+nbtj ^Hkn-m-<15>mAat
+;
+Two Ladies: Who rejoices in <15> truth;
+
+^bjk-nbw mAa-xrw
+;
+Gold Horus, justified;
+
+nsw-bjtj ^nbw-kAw-^ra
+;
+The king of Upper and Lower Egypt: Nebukaure;
+
+sA-^ra <16> ^jmn-m-HAt
+;
+Son of Re: <16> Amenemhet,
+
+Dj anx Dd wAs mj ^ra Dt
+;
+given life, stability and dominion, like Re forever,
+
+appointed me
+
+r <17> jrj-pat HAtj-a jmj-ra xAswt jAbtt
+;
+to be <17> prince regent, count, leader of the eastern lands,
+
+<18> smA ^Hr ^pAxt
+;
+<18> priest of Horus and Pakhet,
+
+r jwat <19> jt mwt=j
+;
+and to the inheritance <19> of the father of my mother
+
+m ^mn<20>at-^xwfw
+;
+in Menat-Khufu.
+
+smn.n=f <21> n=j wD Sma
+;
+He erected <21> the Upper Egyptian boundary marker for me,
+
+smn<22>x.n=f mHtj mj pt
+;
+while restoring the northern, like heaven.
+
+ps<23>S.n=f jtr aA Hr jAt<24>=f
+;
+He divided the great river along its middle,
+
+mj jrryt n jt <25> mwt=j
+;
+as was done for the father <25> of my mother,
+
+m tpt-<26>rA prt m rA n Hm n
+;
+by the pronouncement that issued from the mouth of the majesty of
+
+<27> ^Hr ^wHm-mswt
+;
+<27> Horus: Who repeats birth;
+
+nbtj ^wHm-mswt
+;
+Two Ladies: Who repeats birth;
+
+<28> ^bjk-nbw (wHm-)mswt
+;
+<28> Gold Horus: Who repeats birth;
+
+nsw-bjtj ^sHtp-jb-^ra
+;
+The king of Upper and Lower Egypt: Sehotepibre;
+
+sA-^ra <29> ^jmn-m-HAt
+;
+Son of Re: <29> Amenemhet,
+
+Dj anx Dd wAs mj ^ra Dt
+;
+given life, stability and dominion, like Re forever.
+
+<30> rDjt=f<note>Written <al>fDjt=f</al>.</note> sw r jrj-pat HAtj-a
+;
+<30> He appointed him to be prince regent, count,
+
+jmj-ra xAswt <31> jAbtt
+;
+leader of the eastern lands,
+
+m ^mnat-^xwfw
+;
+in Menat-Khufu.
+
+<32> smn.n=f wD Sma
+;
+<32> He erected the Upper Egyptian boundary marker,
+
+smnx <33> mHtj mj pt
+;
+while restoring <33> the northern, like heaven.
+
+psS.n=f jtr a<34>A Hr jAt=f
+;
+He divided the great river along its middle,
+
+gs=f jAb <35> n ^Dwt-^Hr
+;
+its eastern side <35> to the Mountain of Horus
+
+r-mn-m xAst jAb<36>tt
+;
+reached as far as the eastern land.
+
+m jt Hm=f
+;
+At the coming of His Majesty,
+
+dr=f js<37>ft
+;
+he repelled evil,
+
+xaw m ^jtm <38> Ds=f
+;
+appearing as Atum <38> himself,
+
+smnx=f gm<39>t.n=f wAs.tj
+;
+and he restored what he found ruined
+
+jTt njwt <40> m snnwt=s
+;
+and what one city had taken <40> from another,
+
+Dj=f rx njwt <41> tAS=s r njwt
+;
+while he let city know <41> its boundary with city,
+
+sm<42>nx wDw=sn <43> mj pt
+;
+restoring their boundary markers <43> like heaven,
+
+rx mw=sn r <44> ntt m sS
+;
+and know their waters according to <44> what was in writing,
+
+sjp r <45> ntt m jswt
+;
+investigating <45> what was of old,
+
+n-aAt-n <46> mrr=f mAat
+;
+because he loved justice so much.
+
+aHa.n rDj.n=f s<47>w r jrj-pat HAtj-a
+;
+Then he appointed him to be prince regent and count,
+
+jmA-a Hrj-tp aA n ^mA-HD
+;
+esteemed assistant and great chief of Ma-hedi.
+
+<48> smn.n=f wDw <49> Sma
+;
+<48> He erected the Upper Egyptian boundary markers
+
+m tAS=f r <50> ^wnt
+;
+as his boundary to <50> Unet,
+
+mHtj=f r ^jnpwt
+;
+and his northern to Input.
+
+psS<51>.n=f jtr aA Hr jAt<52>=f
+;
+He divided the great river along its middle,
+
+mw=f AHwt=f jsr=f S<53>a=f
+;
+its water, its fields, its tamarisks and its sand
+
+r-mn-m xAswt jmntt
+;
+reached as far as the western lands.
+
+<54> rDj.n=f sA=f smsw=f ^nxt
+;
+<54> He appointed his eldest son Nekht,
+
+<55> mAa-xrw nb jmAx
+;
+<55> justified and revered,
+
+r HqA jw<56>at=f m ^mnat-^xwfw
+;
+to be ruler of his inheritance in Menat-Khufu,
+
+<57> m Hst aAt <58> nt xr nsw
+;
+<57> as a great favour <58> of the king,
+
+m wDt pr<59>t rA n Hm n
+;
+by the command that issued from the mouth of the majesty of
+
+^Hr ^anx-mswt
+;
+Horus: Living of birth;
+
+<60> nbtj ^anx-mswt
+;
+<60> Two Ladies: Living of birth;
+
+^bjk-nbw anx-mswt
+;
+Gold Horus: Living of birth;
+
+nsw-bjtj <61> ^xpr-kA-^ra
+;
+The king of Upper and Lower Egypt: <61> Kheperkare;
+
+sA-^ra ^s-n-^wsrt
+;
+Son of Re: Sesostris,
+
+Dj anx <62> Dd wAs mj ^ra Dt
+;
+given life, <62> stability and dominion, like Re forever.
+
+saH=j t<63>p n mswt=j
+;
+The foremost nobility of my birth was
+
+wD<64>A mwt=j r jrt-pat <65> HAtt-a
+;
+that my mother proceeded to become regentess <65> and countess,
+
+m sAt HqA <66> n ^mA-HD
+;
+as the daughter of the ruler <66> of Ma-hedi,
+
+r ^Hwt-^sHtp-jb-^ra
+;
+to Hut-Sehotepibre,
+
+<67> Dj anx Dd wAs mj ^ra Dt
+;
+<67> given life, stability and dominion, like Re forever,
+
+r Hmt <68> n jrj-pat HAtj-a
+;
+and to become the wife <68> of the prince regent, count,
+
+HqA njwwt <69> mAt
+;
+ruler of the new settlements,
+
+mAT.n nsw
+;
+praised by the king of Upper Egypt,
+
+jmt <70> n bjtj
+;
+pupil <70> of the king of Lower Egypt,
+
+r saH=f n jmj-rA njwt
+;
+concerning his rank of leader of the city,
+
+<71> ^nHrj mAa-xrw nb jmAx
+;
+<71> Nehri, justified and revered.
+
+jn <72> wj
+;
+
+nsw-bjtj ^nbw-kAw-^ra
+;
+The king of Upper and Lower Egypt Nebukaure,
+
+Dj anx Dd wAs <73> mj ^ra Dt
+;
+given life, stability and dominion, <73> like Re forever,
+
+brought me
+
+m sA HAtj-a r jwat
+;
+as son of a count into the inheritance
+
+<74> HqAt jt mwt=j
+;
+<74> of the rule of the father of my mother,
+
+n-aA<75>t-n mrr=f mAat
+;
+because he loved justice so much.
+
+^jtm <76> pw Ds=f ^nbw-kAw-^ra
+;
+He is Atum himself, Nebukaure,
+
+Dj anx <77> Dd wAs
+;
+given life, <77> stability, dominion and
+
+Aw-jb=f
+;
+happiness,
+
+mj ^ra Dt
+;
+like Re forever.
+
+Dj.n=f w<78>j r HAtj-a m rnpt-sp 19 m <79> ^mnat-^xwfw
+;
+He appointed me to be count in the year 19, in <79> Menat-Khufu.
+
+aHa.n smn<80>x.n=j sj
+;
+Then I adorned it,
+
+aHa=s xpr.w <81> m jxt nbt
+;
+and it acquired <81> all kinds of things.
+
+srwD<82>.n=j rn n jt=j
+;
+I perpetuated the name of my father.
+
+smnx.n=j Hwwt-<83>kAw jrjw
+;
+I restored their mortuary chapels.
+
+Sms.n=j twtw<84>=j r Hwt-nTr
+;
+I followed my statues to the temple.
+
+smAa.n=j n=sn <85> pAt=sn
+;
+I brought to them <85> their offerings
+
+t Hnqt qbHw jrp snTr <86> wabt
+;
+of bread, beer, libation, wine, incense <86> and meat-offering,
+
+sjp n Hm-kA
+;
+assigned to the mortuary priest.
+
+smnx<87>.n=j sw m AHwt m<88>rt
+;
+I endowed him with fields and servants.
+
+wD.n<89>=j prt-r-xrw
+;
+I commanded a mortuary offering
+
+t Hnqt kA Apdw
+;
+of bread, beer, oxen and fowl,
+
+m Hb nb <90> n Xrt-nTr
+;
+at every feast <90> of the necropolis,
+
+m tpj-rnpt wpt-rnpt
+;
+at New Year's Day, the opening of the year,
+
+rnpt-aAt <91> rnpt-nDst
+;
+the feast of the great year and <91> the feast of the small year,
+
+arq rnpt Hb <92> wr
+;
+the end of the year, the great feast,
+
+m rkH aA <93> m rkH nDs
+;
+at the Great Burning and <93> at the Little Burning,
+
+m 5-Hrj<94>w-rnpt
+;
+at the five epagomenal days,
+
+m Sdt Sa
+;
+at the taking of the sand<note>Reading very uncertain.</note>,
+
+<95> m Abd 12 smdt 12
+;
+<95> at the 12 monthly feasts and the 12 mid-monthly feasts,
+
+Hb <96> nb n tpj-tA nfr tpj-Dw
+;
+every feast of the happy living and of the dead.
+
+jr grt <97> Hm-kA rmT nbt
+;
+As for <97> the mortuary priest or any person
+
+<98> Xnn.tj=sn st
+;
+<98> who shall disturb them,
+
+n wnn=f n <99> wnn sA=f Hr nst=f
+;
+he shall not be, and his son shall not be in his place.
+
+wr <100> Hst=j m stp-sA r smr wa<101>tj nb
+;
+The praise of me in the palace was greater than that of any sole
+companion.
+
+Tn.n=f wj x<102>ntw saHw=f
+;
+He raised me over his nobles.
+
+[Dj].kw <103> Xr-HAt wnw <104> Xr-HAt=j
+;
+I was [placed] <103> before those who had been <104> before me.
+
+jab.n <105> qnbt nt aH
+;
+The cabinet of the palace assembled
+
+<106> r Djt Hstj xftw <107> dhn=j
+;
+<106> to give praise according to <107> my appointment,
+
+xftw <108> Hswt xprt <109> m-bAH
+;
+according to <108> the favour that came to pass <109> in the presence
+of
+
+tpt-rA nt nsw D<110>s=f
+;
+the pronouncement of the king himself.
+
+n xpr mjtt n bA<111>kw pA.n <112> nb=sn Hst <113> st
+;
+Never happened the like to servants whom their lords had praised.
+
+rx.n=f st-ns=j <114> nxn qmA=j
+;
+He knew my eloquence <114> while my appearance was youthful.
+
+j<115>w=j m jmAxy <116> n xr nsw
+;
+I was honoured <116> with the king,
+
+Hst=j <117> xr Snwt=f
+;
+my praise <117> was with his courtiers,
+
+jm<118>At=j m-bAH <119> smrw=f
+;
+and the fondness for me was before <119> his companions.
+
+jrj-pat HAtj-<120>a ^nHrj sA ^Xnm-Htp
+;
+The prince regent and count Khnumhotep son of Nehri,
+
+nb jmAx
+;
+revered.
+
+<121> kt Hswt jryt n=j
+;
+<121> Another favour granted to me:
+
+<122> Dj.tw sA=j smsw ^nxt jr<123>.n ^Xty
+;
+<122> My eldest son Nekhet, born of Kheti, was appointed
+
+r HqA ^jnpwt
+;
+to be ruler of Input,
+
+<124> r jwat jt mwt<125>=f
+;
+<124> and to the inheritance of the father of his mother,
+
+sxpr m smr w<126>atj
+;
+was made sole companion
+
+Djw r HAt nt tA-<127>^Smaw
+;
+and was appointed to be chief of Upper Egypt.
+
+Djw n=f Tn<128>w saH jn Hm n
+;
+Every dignity was conferred on him by the majesty of
+
+<129> ^Hr ^sSmw-tAwj
+;
+<129> Horus: Leader of the Two Lands;
+
+nbtj ^sxaj-mAat
+;
+Two Ladies: Who makes truth appear;
+
+<130> ^bjk-nbw Htp-nTrw
+;
+<130> Gold Horus: Who placates the gods;
+
+nsw-bjtj ^xaj-xpr-^ra
+;
+The king of Upper and Lower Egypt: Khakheperre;
+
+sA-^ra <131> ^s-n-^wsrt
+;
+Son of Re: <131> Sesostris,
+
+Dj anx Dd wAs mj ^ra Dt
+;
+given life, stability and dominion, like Re forever.
+
+jr<132>=f mnw=f m ^jnpwt
+;
+He built his monuments in Input,
+
+m smnx <133> gmt.n=f wS(.tj)
+;
+restoring <133> what he found damaged
+
+jT<134>t.n njwt m snnwtj=s
+;
+and what one city had taken from another,
+
+rDj rx=f <135> tAS=f
+;
+letting it know <135> its boundary
+
+r xdt
+;
+according to the land register,
+
+sjp <136> r ntt m jswt
+;
+investigating <136> what was of old,
+
+<137> Dj wD r tAS<138>=f Sma
+;
+<137> placing a boundary marker at his Upper Egyptian boundary,
+
+smnx mHtj <139> mj pt
+;
+and restoring the northern, <139> like heaven,
+
+smn Hr sxwt <140> nt xrw
+;
+erecting on the fields <140> of the lowland
+
+dmD-smA <141> r wD 15
+;
+a total <141> of 15 boundary markers,
+
+smn Hr A<142>Hwt=f mHtj tAS<143>=f r ^wAbwt
+;
+establishing on its northern fields its boundary as far as Wabut.
+
+psS.n=f <144> jtr aA Hr jAt=f
+;
+He divided <144> the great river along its middle,
+
+<145> gs=f jmntj n ^jnpwt
+;
+<145> its western side to Input
+
+r-mn-m xAs<146>wt jmntt
+;
+reaching as far as the western lands,
+
+xft spr <147> jrj-pat HAtj-a ^Xnm-Htp sA ^nxt <148> mAa-xrw nb jmAx
+r-Dd
+;
+when the prince regent and count Nakht son of Khnumhotep, justified
+and revered, petitioned:
+
+n rx mw=j <149> Hswt wrt nt <150> xr nsw
+;
+&quot;My waters do not know <149> the great favour from the
+king.&quot;
+
+ky wr <151> m nD m smr watj
+;
+Another prince <151> was appointed as sole companion,
+
+<152> aA jm n sm<153>rw
+;
+<152> greatest of the companions,
+
+aSA jn<154>w pr-nsw
+;
+numerous in gifts from the palace,
+
+smr wa
+;
+sole companion,
+
+<155> nn wn Hr xw=f
+;
+<155> whose equal has never been,
+
+sDmw n<156>=f sDmw
+;
+to whom the authorities listen,
+
+rA wa <157> Htm rAw
+;
+only mouth <157> that silences the mouths,
+
+jnn Axt <158> n nb=s
+;
+who brings advantage <158> to its possessor,
+
+rA-aA xAswt
+;
+entry of the foreign lands,
+
+^n<159>Hrj sA ^Xnm-Htp sA Xnm-H<160>tp
+;
+Khnumhotep son of Khnumhotep son of Nehri,
+
+jr.n nbt-pr ^Xty
+;
+born of the lady of the house Kheti.
+
+<161> sanx.n=j rn n jtw<162>=j
+;
+<161> I kept alive the names of my forefathers
+
+gm.n=j wS(.w) <163> Hr sbAw
+;
+that I'd found obliterated <163> upon the doorways,
+
+rx m t<164>jt
+;
+legible,
+
+mtj m Sdt
+;
+accurately spelled,
+
+nn <165> Djt ky m ab k<166>y
+;
+without <165> confusing one with another.
+
+jsT sA pw <167> mnx
+;
+He is an excellent son,
+
+srwD rn n t<168>pjw-a
+;
+who perpetuates the names of the ancestors,
+
+^nHrj sA <169> ^Xnm-Htp mAa-xrw nb jmAx
+;
+Khnumhotep son of Nehri, justified and revered.
+
+<170> saH=j tp m
+;
+<170> My foremost nobility was
+
+smnx<171>.n=j Hrt
+;
+that I built a tomb,
+
+sn <172> s r jrrt jt<173>=f
+;
+as a man should imitate what his father did.
+
+jr.n n=f jt=j Hwt-kA <174> m ^mr-nfrt
+;
+My father built for himself a mortuary chapel <174> in Mer-neferet,
+
+m jnr <175> nfr n anw
+;
+of good limestone,
+
+r srwD <176> rn=f n nHH
+;
+in order to perpetuate <176> his name forever.
+
+s<177>mnx=f sw n Dt
+;
+He adorned it for eternity,
+
+rn=f anx(.w) <178> m rA n pat
+;
+so that his name might live <178> in the mouths of the people,
+
+Dd<179>.w m rA n anxw
+;
+and remain in the mouths of the living
+
+<180> Hr js=f n Xrt-nTr
+;
+<180> and on his tomb of the necropolis,
+
+m pr=f <181> mnx n nHH
+;
+in his excellent house of eternity,
+
+st<182>=f nt Dt
+;
+his place of everlastingness,
+
+xft Hswt nt xr <183> nsw
+;
+according to the favour from <183> the king
+
+mrwt=f m <184> stp-sA
+;
+and the love of him in <184> the palace.
+
+HqA.n=f njwt=f m sDt
+;
+He ruled his city when he was an infant
+
+<185> n fxt=f m TAm
+;
+<185> before his circumcision.
+
+<186> jr.n=f jpt nsw
+;
+<186> He executed a royal commission
+
+Swtj=f jb<187>A=sn
+;
+and his two plumes danced
+
+m xnw <188> n qAbt=f
+;
+when he was a child <188> at his mother's breast,
+
+m rx nsw <189> st-ns=f
+;
+for the king knew <189> his eloquence
+
+nxn qmA=f
+;
+while his appearance was youthful,
+
+^sbk-<190>anx sA ^nHrj
+;
+Nehri son of Sobek-ankh,
+
+mAa-xrw nb jmAx
+;
+justified and revered,
+
+<191> Tn.n=f xnt saHw=f
+;
+<191> whom he raised over his nobles
+
+<192> r HqA njwt=f
+;
+<192> to rule his city.
+
+xprt HAtj-a ^Xnm-Htp
+;
+Achievements of count Khnumhotep:
+
+<193> jr.n(=j) mnw m-Xnw n njwt=j
+;
+<193> I built a monument within my city.
+
+qd<194>.n=j wxA gm<195>.n(=j) m AA
+;
+I rebuilt a colonnaded hall that I found in ruins.
+
+saHa.n=j <196> sw m wxAw n-mAt
+;
+I erected <196> it with columns anew,
+
+<197> sS m rn=j Ds=j
+;
+<197> inscribed with my own name.
+
+<198> sanx.n=j rn n jt=j H<199>r=s[n]
+;
+<198> I kept alive the name of my father upon them.
+
+[sS].n=j jrt=j Hr m<200>nw nb
+;
+I inscribed what I did upon every monument.
+
+jr.n=j aA n mH 7 m <201> aS n ^ngAw
+;
+I made a door of seven cubits of <201> cedar from Negau,
+
+r sbA <202> tp n js
+;
+for the first doorway of the tomb,
+
+aAwj-rA n mH 5 Ssp 2
+;
+and double doors of five cubits and two palms,
+
+<203> r kAr n at Spst
+;
+<203> for the shrine of the august chamber
+
+<204> ntt m-Xnw n js pn
+;
+<204> that is within this tomb.
+
+dbHt-<205>Htp prt-r-xrw t Hnqt kA Apd
+;
+The requisites for a mortuary offering of bread, beer, oxen and fowl,
+
+Hr mn<206>w nb jr.n=j
+;
+were on every monument that I built.
+
+sAp.n=j mr
+;
+I inundated a pond
+
+<207> qd sbxt=f
+;
+<207> and built its portal
+
+DD TAw n w<208>Ax pn
+;
+that gave air to this colonnaded hall.
+
+wr mnw=j <209> m-Xnw n njwt tn r jtw=j
+;
+My monuments within this city were greater that those of my
+forefathers,
+
+<210> sDt njwt tn
+;
+<210> a child of this city,<note>Montet reads some verb in place of
+<al>sDt</al> with the meaning &quot;to bloom&quot;
+(&quot;épanouir&quot;), leading to something like: &quot;This city
+bloomed, as the monuments ...&quot;.</note>
+
+mnx mn<211>w smt=s
+;
+and the monuments of its burial place were more excellent
+
+r tpjw<212>-a jrrw Xr-HA<213>t=j
+;
+than those of the ancestors built before me.
+
+jnk saH mnw
+;
+I was distinguished in monuments.
+
+<214> sbA.n=j Hmwt nb <215> wnt tm.tj
+;
+<214> I taught every craft <215> that had been forgotten
+
+m-Xnw njwt tn
+;
+within this city,
+
+n m<216>rwt mnx rn=j Hr <217> mnw nb jr.n=j
+;
+so that my name might be excellent upon <217> every monument that I
+built,
+
+grg Hr<218>=j
+;
+founded on me
+
+nn mnst jm
+;
+without fault.
+
+shA.<219>n=j jmw ky
+;
+I made the ship of another descend,<note>I take <hi>A50</hi> as
+determinative. Alternatively one could read <al>ky Sps</al>,
+&quot;another nobleman&quot;, as independent phrase.</note>
+
+<220> jrj-pat HAtj-a ^nHrj sA ^Xnm-<221>Htp
+;
+<220> prince regent and count Khnumhotep son of Nehri,
+
+jr.n ^bAqt mAa-xrw nb jmAx
+;
+born of Baqet, justified and revered.
+
+<222> xrp js
+;
+<222> Supervisor of the tomb,
+
+jmj-rA xtmt ^bAqt
+;
+treasurer Baqet.'

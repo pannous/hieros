@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit; image">
+<primary language="eng" name="Ahmose son of Abana, Autobiography of"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="1-16"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="38-39"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="78-82"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="1"/>
+<resource location="../resources/urkIV-001Hi.xml"/>
+<resource location="../resources/urkIV-001Tr.txt"/>
+<resource location="../resources/urkIV-001Im.xml"/>
+<precedence
+  location="../align/AhmoseSonEbana.xml"
+  resource1="../resources/urkIV-001Hi.xml"
+  resource2="../resources/urkIV-001Tr.txt"/>
+<autoalign
+  location1="../resources/urkIV-001Hi.xml"
+  tier1="hieroglyphic"
+  location2="../resources/urkIV-001Tr.txt"
+  tier2="transliteration"/>
+<autoalign
+  location1="../resources/urkIV-001Im.xml"
+  tier1="signplaces"
+  location2="../resources/urkIV-001Hi.xml"
+  tier2="hieroglyphic"/>
+</text>

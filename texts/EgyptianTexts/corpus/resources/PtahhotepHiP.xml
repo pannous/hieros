@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof and Robert Myers"
+  name="Zaba"
+  labelname="Za"
+  created="2009-10-18"
+  modified="2010-05-30"
+  version="P"
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of <i>The Instruction of Ptahhotep</i>, in the version
+of Papyrus Prisse, following Zába (1956). The missing line numbers
+6.1, 8.13, and 17.5 were inserted on the basis of Jéquier (1911). On
+p. 49, line number 12.4 was corrected to 13.4.
+</p>
+<p>
+In lines 7.5 and 12.9, what seems to be <hi>M30</hi> in Zába's
+transcription is here transcribed as <hi>M32</hi>.
+</p>
+</header>
+<bibliography>
+<li>
+G. Jéquier. <i>Le Papyrus Prisse et ses Variantes.</i> Librarie Paul
+Geuthner, Paris, 1911.
+</li>
+<li>
+Z. Zába. <i>Les Maximes de Ptahhotep</i>. Editions de L'Académie
+Tchécoslovaque des Science, Prague, 1956.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<pos id="538"/><coord id="4.1"/><pos symbol="8" id="0"/><pos symbol="23" id="1"/>![red]dwA*[sep=0.3]A-[sep=0.2]i-i-t:Y1-n:t-m:r-niwt:t*Z1-TA-t:Z1-p:t-H-Htp:t-p-A50![black]-x:r-Hm-Z1:n-sw-bit:t*t-open*i*s*s*i*close-anx-insert[b](D,t:[sep=1.2]N17)-r:n-nH-H-H-ra
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="2"/><coord id="4.2"/><pos symbol="18" id="3"/><pos symbol="23" id="4"/>m:r-niwt:t*Z1-TA-t:Z1-p:t-H-Htp:t-p-A50-insert[bs](D,d)-f-I3-I3-G7-nb-A1-t:n-i-A19-xpr-r-i-A-w-A19-h-A-W-D54
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="5"/><coord id="4.3"/><pos symbol="16" id="6"/><pos symbol="30" id="7"/>w-V33-V33-G37-D54-w-i-H-w-G37-Hr-Z1-U1-A-w-Y1-s-Dr:r-A55-n:f-X:d-r:G37-r:a-ra:nb-ir-ir-n:D-s-W-G37
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="4.4"/><pos symbol="9" id="8"/><pos symbol="28" id="9"/>anx-anx-idn-idn-i-U7:r-w-idn-p-H-pH-t:y-A24-Hr*Z1-A-q-G37:D35-wr:r-d-A7-ib*Z1-A1-r*Z1-W11:r-A2:D35-S43:w-d:A2-N35:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="10"/><coord id="5.1"/><pos symbol="16" id="11"/><pos symbol="29" id="12"/><pos symbol="43" id="13"/>ib*Z1-tm-m-W-G37:D35-s-xA-A-A2-N35:f-stack(s,f)-ra-q-s-qs-mn:N35-n:G37-f:n-Aw-w-w-Y1-b-W-nfr-f:r-xpr-r-m-b-W-b-i-N35:G37-d-p:t-ns-A2-nb:t-Sm-m-t:D54
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="14"/><coord id="5.2"/><pos symbol="15" id="15"/><pos symbol="28" id="16"/><pos symbol="39" id="17"/><pos symbol="54" id="18"/><pos symbol="41" id="539"/>ir-r:t-i-A-W-A19-D35-r-T-A1*B1:Z1*Z1*Z1-b-i-n:G37-m-x:t-Y1:Z1*Z1*Z1-nb:t-f:n-d-D19-T25-mDAt:D35-s*s-n:D19-n:f-n-t:n-nw-w-G37-aHa-a:D54-N42-s-t-A7-wD-w:t-mDAt:n-bA:k[mirror]-A1-i*m
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.3"/><pos symbol="5" id="19"/><pos symbol="26" id="20"/><pos symbol="43" id="21"/><pos symbol="56" id="22"/>ir:t-md-A19-A1-i-x-Y1-insert[bs](D,d)-A1:N35:f-S43-d-w-A2-sDm-m-i-i-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-z:x-r-w-Y1:Z1*Z1*Z1-imi-m-w-Z1*Z1*Z1:HAt-t:Z1-p-pA-A-W-Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-sDm*m:[size=inf]n-nTr*[sep=0.0]nTr*[sep=0.0]nTr-i-x:Y1-ir:t-N35:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.4"/><pos symbol="4" id="23"/><pos symbol="29" id="24"/><pos symbol="38" id="25"/><pos symbol="49" id="26"/>mi-t:t-Y1-d-r-A24-t*w-Sn-N35:nw*W-G37:Z1*Z1*Z1-m-r-x-i-i-t-rxyt-A1*B1:Z1*Z1*Z1-bA:k[mirror]-A24-N35:k[mirror]-N20[rotate=15]-N20[rotate=15]-insert[te](w*.,y)-insert[bs](D,d)-i-N35-U36-Z1:N35-nTr*Z1-p:N35![black]-dwA*[fit]A-A24-r:k[mirror]-sw-W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.5"/><pos symbol="10" id="27"/><pos symbol="39" id="28"/>r-S43-d:t-A2-Xr:r-HAt:t*Z1-i-x-Y1-ir:f-b-i-N42-F18:Y1-Z1*Z1*Z1:N35-ms-s-w-B4-A1*B1:Z1*Z1*Z1-sr-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-aq-q-D54-sDm-m-i-m:f-mt:t*t-T14-T14-Y1-ib*Z1-nb
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.6"/><pos symbol="4" id="29"/><pos symbol="16" id="30"/><pos symbol="35" id="31"/><pos symbol="45" id="32"/><pos symbol="55" id="33"/>insert[bs](D,d)-n:f-D35:N35-ms-s-i-i-B4-s-sA-A-W-A2-![red]HAt:a-m-S24:z-w-Y1:Z1*Z1*Z1-N35*.:[size=inf]S43*(d:t)-A2-nfr-f:r:t-insert[bs](D,d)-[fit]t:N35![black]-r-p-a:t-HAt:a-nTr-i-t:f-nTr-U7-r-i-i-A2-sw-t:N35-zA
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.7"/>A20-N35:X-t*Z1:f<etc/>
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos symbol="0" id="34"/><pos symbol="15" id="35"/><pos symbol="31" id="36"/><pos symbol="45" id="37"/>m:r-niwt:t*Z1-TA-t:Z1-p:t-H-Htp:t-p-Sps-m-dwA*[fit]A-A24-x-m-W-D35-A1:Z1*Z1*Z1-r:r-x-Y1-r-tp*Z1-Aa2-Y1:N35-S43-d:t-A2-nfr-f*.:[size=1.3]r*t-m-Ax-x:t-Y1:N35
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.8"/><pos symbol="5" id="38"/><pos symbol="22" id="39"/><pos symbol="32" id="40"/><pos symbol="46" id="41"/>sDm-m-t:f:y-m-V33-V33-t:G37-N35:N35-t:y-r-t-h-t-D56-D54-s-t-insert[bs](D,d)-i-N35:f-x-r-zA-A1:f![black]-m-aA:a-A-Y1-ib*Z1-k[mirror]-Hr*Z1-r-x-Y1-k[mirror]-N35:D-N35:D-nD-A2-r:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.9"/><pos symbol="13" id="42"/><pos symbol="26" id="43"/>H-N35:a-x-m-D35:A1-mi-i-r:x-Y1:A1-D35-W25-N35:t*.-w-Dr-r-w-N31-U24-t:Z1-Y1-D35:N35-U24-w-w-A1:a-p-r-apr-Y1-Ax-x-w-Y1-Z1*Z1*Z1:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="44"/><coord id="5.10"/><pos symbol="15" id="45"/><pos symbol="41" id="46"/>d-W11-A-A4-S43-d:t-A2-nfr-f:r*t-r-M14-O39-i-w-gm-m-t-s-m-a-Hm-t*Z1-B1:Z1*.*Z1*.*Z1-Hr-Z1-b-n:nw-insert[te](w*.,t)-O39:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-![red]i-r-gm-m-k[mirror]-DA-A-i-s-w-A2-A1-m-A-t:Z5a![black]-ra:f![black]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="47"/><coord id="5.11"/><pos symbol="13" id="48"/><pos symbol="29" id="49"/><pos symbol="47" id="50"/>x:r-p:a-ib*Z1-m-i-q:r-Y1-r:k[mirror]-x-xA-A-m-D41-a*Z1-w*y-k[mirror]:X-m-s-sA*Z1-k[mirror]-m-TA-A-A2-ib*Z1-k[mirror]-r:f-D35:N35-mn:N35-D41-N35:f-N35:k[mirror]-z:a-N35:d-G37:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.12"/><pos symbol="6" id="51"/><pos symbol="19" id="52"/><pos symbol="37" id="53"/>insert[bs](D,d)-b-i-N35:G37-m-tm-m-U35-A24-sw-w-m-A-t:Z5a-ra:f-N35-i*s-t-A2-f-m-x-m-D35-x:t-Y1:Z1*Z1*Z1-p-W-r-mn:N35-D41:n-d-A-i-r-rwD-A24-ib*Z1-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.13"/><pos symbol="8" id="54"/><pos symbol="26" id="55"/><pos symbol="47" id="56"/>aHa-a:M35-Y1-Z1*Z1*Z1:f-i-r-gm-m-k[mirror]-DA-A-i-s-w-A2-A1-m-A-t:Z5a-ra:f![black]-mi-t-insert[b](.*w,t)-Y1:k[mirror]-N35:t*y-m-r-mn:N35-nw-w:t-D41:Z1*Z1*Z1-k[mirror]-a:a-k[mirror]-xpr-r-i-q:r-Y1:k[mirror]-r:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5.14"/><pos symbol="4" id="57"/><pos symbol="18" id="58"/><pos symbol="36" id="59"/>m-g-r-A2-i-W:f-Hr-Z1-S43-d:t-A2-b-i-N35:t-G37-wr-r-w-f-A-G38-A2-i-N35-sDm-m-i-i-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-r:N35-k[mirror]-nfr-f:r-m-r:x-Y1:N35-sr-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="60"/><coord id="6.1"/><pos symbol="18" id="61"/><pos symbol="34" id="62"/>![red]i-r-gm-m-k[mirror]-DA-A-i-s-w-A2-A1-m-A-t:Z5a![black]-ra:f-m-H-wr-r-w-G37:A1*.-D35-i-s-mi*t-insert[b](.*w,t)-A1:k[mirror]-m-A-d-I3-ib*Z1-k[mirror]-r:f-x*t:f-X:z-z:G37a:[sep=0.2]f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="63"/><coord id="6.2"/><pos symbol="18" id="64"/><pos symbol="33" id="65"/><pos symbol="49" id="66"/>i-Aa15-G17:D38-sw-w-r:tA-N23*Z1-U35-A24-f:N35-f:[sep=0.2]D-z:f-G17-w-Sd:[sep=0.3]d-A2-sw-w-r-i-s-i-i-ib*Z1-k[mirror]-G17-i-a:N35:N35:N35-ib*Z1-N35:N35-t:y-x:t-f:k[mirror]-q-s-qs-N35:G37-p-W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6.3"/><pos symbol="12" id="67"/><pos symbol="25" id="68"/><pos symbol="40" id="69"/>HD-insert[bs,sep=0.5](D,D)-w-Z9-H-wr-r-w-G37-ib*Z1-t-[sep=0.0]insert[b](.*w,t)-r-ir:t-N35:(t:t)*.-G17-ib*Z1-k[mirror]-H-A24-k[mirror]-sw-W-G17-U35-A24-N35-sr-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-![red]i-r-wn-N35:N35-k[mirror]-G17
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6.4"/><pos symbol="6" id="70"/><pos symbol="25" id="71"/><pos symbol="39" id="72"/>s*[sep=0.0]T33-G17-i-i-D54![black]-Hr*Z1-wD-w-Y1:N35-z:x-r-Y1:N35-aSA-A-t-A1*B1:Z1*Z1*Z1-H-H-D54-N35:k[mirror]-z:p-zp-nb-mn:N35-x*U22-Y1-r-wn-n:t*.-z:x-r-Y1:k[mirror]-D35:N35-E9-w-G37
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6.5"/><pos symbol="3" id="73"/><pos symbol="17" id="74"/><pos symbol="32" id="75"/><pos symbol="50" id="76"/>i-m-f-wr-r-mA:Aa11-a:t*Z5a-mDAt-wAH-H-Y1-M44-t:Y1-D35-D33-N35:N35:t*.-E20-s-Dr:r-r:k[mirror]-ra-ir-Q1-G7-i-w-U35-A24-t*W:N35-Z9-D54-Hr*Z1-h-p-w-Y1:Z1*Z1*Z1-Z9-t-D54
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6.6"/><pos symbol="13" id="77"/><pos symbol="35" id="78"/><pos symbol="57" id="79"/>p-W-m-Hr*Z1-N35:a-wn:N35-A24-ib*Z1-A1-i-N35:N35-D-i-i-t-G37:Z1*Z1*Z1-iTi:t*t-A24-aHa-a:M35-Y1:Z1*Z1*Z1-D35:p-pA-A-DA-A-i-i-t-G37:Z1*Z1*Z1-mn:N35-i-qd-P1-z:p-zp-s-i-W:f-insert[bs](D,d)-f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6.7"/><pos symbol="11" id="80"/><pos symbol="31" id="81"/><pos symbol="46" id="82"/>z:x-t-T26-Y1:[sep=0.4]A1-r:[sep=0.3]A1-insert[bs](D,z)-A1-D35:[sep=0.2]insert[bs](D,d)-N35:f-z:x-t-T26-Y1:[sep=0.2]A1-Hr*Z1-H-Hn-N35:t-V36-Y1:A1-wn:N35-pH-insert[te](w*.,y)-mA:Aa11-a:t*Z5a-mDAt-V29-H-Y1-s-insert[bs](D,d)-w-z:A1*Z1-w-i-t:[sep=0.2]f:[sep=0.1]A1-p-W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="83"/><coord id="6.8"/><pos symbol="18" id="84"/><pos symbol="29" id="85"/><pos symbol="42" id="86"/><pos symbol="61" id="87"/>![red]imi-m-D35:k[mirror]-ir-H-Hr:r-Aa19-A24-m-r:T-A1*B1:Z1*Z1*Z1![black]-x-s-U35-A24-R8*Z1-m-mi-t:t-Y1-i-w-z:A1*Z1-insert[bs](D,d)-f-anx-N35:x-i-m-i-W:f-Sw-w-G37:f-m-t:X3-X5:Z1*Z1*Z1-N35:tp*Z1-rA*Z1-i-w-z:A1*Z1-insert[bs](D,d)-f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6.9"/><pos symbol="4" id="88"/><pos symbol="23" id="89"/><pos symbol="40" id="90"/><pos symbol="56" id="91"/>wsr-s-r:a-i*w-f-insert[bs](D,d)-f-z:x-t-T26-Y1:A1-r:A1-siA-A-t-A2-A1-i-w-z:A1*Z1-insert[bs](D,d)-f-H-w:t-A24:[sep=0.2]f-k[mirror]-i*i-A1-i-W:f-pH-D54:f-r:a-t:f-n:x-m-D35:n:f-D35:p-pA-A
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6.10"/><pos symbol="15" id="92"/><pos symbol="26" id="93"/><pos symbol="43" id="94"/>H-D2:r-Aa19-A24-N35-r:T-A1*B1:Z1*Z1*Z1-xpr:r-wD-w:t-mDAt-R8*Z1-p-W-xpr-r:t-k[mirror]-A-A2-anx-N35:x-m-F26-N35:nw-insert[b](.*w,nw)-pr-h-r:t*.-Y1-ii-M17-M17-D54-a:a:t*.-s-N35:Z1*Z1*Z1-insert[bs](D,z)-i-mDAt
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="95"/><coord id="6.11"/><pos symbol="19" id="96"/><pos symbol="31" id="97"/><pos symbol="57" id="98"/><pos symbol="70" id="99"/>![red]M17-r-wn:N35-N35:k[mirror]-m-z:A1*N35-N42-m-s-A7-A1*B1:Z1*Z1*Z1![black]-r-Q1:t-pr-R3a:t*Z1-wr:r-A1:r:k[mirror]-O42-p:a-a:t*.:f-a:[sep=0.3]w-r:f:n-fnD:k[mirror]-m-d:g-A-ir:r-n:t*y-m-D53:Y1-f-gm-m-H-ir:k[mirror]-r:n:t*t-m-D53-Y1:k[mirror]-m-s-t:[sep=0.3]sti-w:T11-sw-w
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7.1"/><pos symbol="10" id="100"/><pos symbol="27" id="101"/><pos symbol="41" id="102"/><pos symbol="57" id="103"/><pos symbol="72" id="104"/>m-gm-m-H-ir-aSA-A-[sep=0.1]Z1*[sep=0.5,fit].*Z1*[sep=0.5,fit].*Z1-b-w-t:K2-A2-kA*Z1-p-W-w-d:t*.-Z9:a-i-m:f-m-S43-d-w-A2-n:f:r-i-A-S:t*.-A2-f-D35-r:x-Y1:N35-t-w-b-i-N35:t*.:G37a-Hr*Z1-ib-Z1-S43-d-w-A2-k[mirror]-x*t:f-w-Sd:d-A2-f:t-w-i-w-insert[bs](D,d)-t:k[mirror]-r-nfr-f:r-Hr*Z1-ib*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="105"/><coord id="7.2"/><pos symbol="17" id="106"/><pos symbol="30" id="107"/><pos symbol="46" id="108"/><pos symbol="59" id="109"/><pos symbol="72" id="110"/><pos symbol="83" id="111"/>i-r-A19-A1-wn:N35-N35:f-HA-A-tp-t:X3-X5:Z1*Z1*Z1-z:x-r-Y1-x*t:f-wD-w-Y1-kA-Z1:f-i-W:f-r:r-a:t*.:N35-H-W14-z:z-i-i-Y1:f-z:x-r-Y1-p-W-N35-g-r-H-N2-xpr-r-i-N35-kA*Z1-d-wn:N35-V1-a:Z1-insert[te](w*.,y)-f-A19-A1-a:f:D35-pH-D54:N35-z:A1*Z1-i-W-imi-A2-t:X2-X5:Z1*Z1*Z1-Xr:r
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7.3"/><pos symbol="6" id="112"/><pos symbol="21" id="113"/><pos symbol="34" id="114"/><pos symbol="44" id="115"/><pos symbol="62" id="116"/>z:x-r:Y1-nTr*Z1-i-N35:x-m-D35-a:N35-a-i-i-A2:f-Hr:r-s-![red]i-r-wn:N35-N35:k[mirror]-m-z:[size=1.2]A1*n-aq-q-D54![black]-h*A-b-w-D54-A19-A1:N35-A19-A1-mt:t-T14-T14-Y1-Hr*Z1-qd-d:nw*.-Y1-h*A-b-D54:f-t*w-ir-N35:f-wp-p-w:t-A2-mi-i-insert[bs](D,d)-f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="117"/><coord id="7.4"/><pos symbol="14" id="118"/><pos symbol="25" id="119"/><pos symbol="41" id="120"/><pos symbol="54" id="121"/><pos symbol="70" id="122"/>D34-A-[sep=0.0]t:.-A24-m-z:Dw-w-G37-m-S43-d:t-A2-z:k[mirror]:N35-ti-i-A2-A19-A1:N35-A19-A1-n-d:r-A24-mA:Aa11-a:t*Z5a-mDAt-m-z:n-X5-mDAt-s-D35-wHm-m-t-A2-i*s*i-a-mw-n:ib*Z1-m-S43-d-M17*M17-w-A2-r:T-A1*B1:Z1*Z1*Z1-nb:t-A19-A1-k[mirror]:t*t-G37a:[sep=0.4]A1*.
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7.5"/><pos symbol="9" id="123"/><pos symbol="24" id="124"/><pos symbol="34" id="125"/><pos symbol="52" id="126"/><pos symbol="72" id="127"/>b-w-t:K2-A2-kA*Z1-p-W-![red]M17-r-z:kA-U13-a:k[mirror]-d-r-M32-Y1-m-sxt-t:N23![black]-a:[sep=0.3]s*t-nTr*Z1-wr-r-m-a:k[mirror]-m-s-A-A2-r*Z1:k[mirror]-r:Aa16*Z1-O4-A-W-Y1:Z1*Z1*Z1-k[mirror]-wr-r-ir:t-H-Hr:r-i-i-t-Aa19-G37:Z1*Z1*Z1-n:t*.-g-r-A2-i-r-nb-qd-d:nw*.-Y1-G17-nb-x:t-Y1:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="128"/><coord id="7.6"/><pos symbol="18" id="129"/><pos symbol="39" id="130"/><pos symbol="52" id="131"/><pos symbol="68" id="132"/><pos symbol="83" id="133"/>iTi-t:t-A24-f-mi-i-I3-G17-q:n-b-t-O38-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-G17-t-stack(t[scale=0.72],wA)-A-A2-n:D35-t-[sep=0.7]w-G37-ms-s-w-B4-A1*B1:Z1*Z1*Z1-f-G17-H-wr-r-w-A2-G17-a*b-a-A2-i-G17-i-w-wn:N35-wr-r-i-t*.:[sep=0.4]f:[sep=0.3]A1*.-G17-A-h-insert[b](.*w,O4)-G37-mwt-t:B1-F31-s-t-B4-Htp:t*.-p-k[mirror]:t-B1-r-s-i-N35:T21-a:[sep=0.4]A1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7.7"/><pos symbol="7" id="134"/><pos symbol="29" id="135"/><pos symbol="45" id="136"/><pos symbol="61" id="137"/><pos symbol="81" id="138"/>s-xpr-r-w-Y1-nTr*Z1-i-w-nb-w-H-i-i-t-A1*B1:Z1*Z1*Z1-N35-nH-H-A2-s-Sms-s-D54:f-![red]i-r-X:z-G37:k[mirror]-Sms-s-D54-z:A1*Z1-i-q:r-Y1![black]-nfr-f:r-s*[sep=0.0]T30-G17-Y1:Z1*Z1*Z1-k[mirror]-nb-x-r-nTr*Z1-G17-[sep=0.2]r-x-Y1-N35:k[mirror]-N35:D-s-w-.*G37:[sep=0.3,size=inf]A1*Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-xnt-N35:t*.-w-Y1-imi-G17-D35:k[mirror]-aA:a-A-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7.8"/><pos symbol="5" id="139"/><pos symbol="21" id="140"/><pos symbol="33" id="141"/><pos symbol="48" id="142"/><pos symbol="69" id="143"/><pos symbol="83" id="144"/>ib*Z1-k[mirror]-r:f-Hr*Z1-r:x-t-Y1-n:k[mirror]-i-m-f-xnt-n:t-w-Y1-snD-A2-n:f-x*t:f-xpr-r:t-n:f-D35-ii-i-i-D54-i-s-x:t-Y1:Z1*Z1*Z1-insert[bs](D,z)-h*p-Y1-s-N35:Z1*Z1*Z1-p*W:N35-U7-r:r-w-A2-s-N35:Z1*Z1*Z1-i-r-V14:t-f:D54-i-w-sAq-Y1-N35:f-insert[bs](D,z)-i-N35-nTr*Z1-ir-i-q:r-Y1:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="145"/><coord id="7.9"/><pos symbol="14" id="146"/><pos symbol="29" id="147"/><pos symbol="48" id="148"/><pos symbol="62" id="149"/><pos symbol="78" id="150"/>U35-A24-f-Hr:r-Z1:f-i-W:f-s-Dr:r-A55-![red]Sms-s-D54-ib*Z1-k[mirror]-t:r-tr-ra:N35-wn-N35:N35-k[mirror]![black]-m-ir-HA-w-Y1:Z1*Z1*Z1-Hr*Z1-S43-d-d-w:t-A2-Z1*Z1*Z1-m-x*[sep=0.3]b-Z9-t:r-tr-x:N35-Sms-s-D54-ib*Z1-b-w:t-K2-A2-kA*Z1-Q3-W-wD-insert[bs](D,t)-Z9-A-t:f-m-N35-g-b-Z9-z:Q3*zp
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7.10"/><pos symbol="12" id="151"/><pos symbol="27" id="152"/><pos symbol="40" id="153"/><pos symbol="60" id="154"/><pos symbol="74" id="155"/>Xr-r:t-Y1:Z1*Z1*Z1-h-r-w-hrw*Z1-m-HA-A-Y1:Z1*Z1*Z1-N35-g-r-grg-Y1-pr*Z1-k[mirror]-xpr-r-x:t-Y1:Z1*Z1*Z1-Sms-s-D54-ib*Z1-D35:N35-km-m-Y1:N35-x:t-Y1:Z1*Z1*Z1-i-w-z:f-A-G37-A2-f-![red]i-r-wn:N35-N35:k[mirror]-m-z:A1*Z1-i-q:r-Y1![black]-ir-k[mirror]-zA-A1:N35-s-mA-A-m-iAm-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7.11"/><pos symbol="2" id="156"/><pos symbol="22" id="157"/><pos symbol="43" id="158"/><pos symbol="52" id="159"/><pos symbol="68" id="160"/><pos symbol="81" id="161"/>nTr*Z1-i-r-mt:t-T14-T14-Y1:f-Q3:X-r:f-F46a-D54-n:qd*d-nw:Y1-k[mirror]-N35:U19-W24-W-V1-a:f-x:t-Y1:Z1*Z1*Z1-k[mirror]-r-st-t-pr-i-r:y-ir-n:f-b-W-nb-nfr-f:r-zA-A1:k[mirror]-p*W-n:ns-sw-W-s-t-sti-D53-kA*Z1-k[mirror]-imi-m-D35:k[mirror]-E9-w-d-D54-ib*Z1-k[mirror]-r:f-i-w-mt:t-w:t-D53
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7.12"/><pos symbol="8" id="162"/><pos symbol="26" id="163"/><pos symbol="38" id="164"/><pos symbol="53" id="165"/><pos symbol="70" id="166"/>ir-s-Sn:n-ti-i-i-A2-i-r-n:n-nm-m-G37:f-t:h-rd-D54:f-z:x-r-Y1:k[mirror]-b-t:n-fnD-A24-n:f-insert[bs](D,d:t)-nb:t-Sm-m-D54-r*Z1:f-m-S43-d:t-A2-X:z-t:G37a-q-k[mirror]-A24-k[mirror]-sw-W-r:rA*Z1:f-mi-i-qd-d:nw*.-Y1:f-w-d-Z9:a-r:k[mirror]-m-x*[sep=0.2]b-d:G37-n:s*(n:Z1*Z1*Z1)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="167"/><coord id="8.1"/><pos symbol="17" id="168"/><pos symbol="33" id="169"/>wD-w-d:d-Y1-s-d*[sep=0.0]b-Y1-n:f-p-W-m-X:t*Z1-D35:n-n:nm*m-G37:n-insert[b,x=0.6,fix,sep=0.5](s*[sep=0.0](T30:.),m)-D54-s-n:Z1*Z1*Z1-D35-gm-m-n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.2"/><pos symbol="14" id="170"/><pos symbol="27" id="171"/>E9-w-w-P1-s-n:Z1*Z1*Z1-DA-A-t*Z9-P1-![red]i-r-wn:n-n:k[mirror]-m-rw-r-i-i-t-pr-aHa-a:D54-N42-s-A7
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.3"/><pos symbol="5" id="172"/><pos symbol="20" id="173"/>r-D54-D54-D54-k[mirror]-wD-w-d:d-Y1-n:k[mirror]-h-r-w-hrw*Z1-tp*Z1-p-m-s-wA-A-N31-xpr-r-Sn-n:a:t*.-A24-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="174"/><coord id="8.4"/><pos symbol="15" id="175"/><pos symbol="31" id="176"/>z:p-d-M44-Y1-Hr-Z1:n-aq*N29-D54-s-mi-i-A2-w-z:x-W10-Y1-st-t-pr-n:t-i-A-S-A2-n:f-i-w-rw-r
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.5"/><pos symbol="12" id="177"/><pos symbol="25" id="178"/><pos symbol="37" id="179"/>i-i-t:pr-r-tp*Z1-H-s-b-Aa2-Y1-z:x-r:Y1-nb-x*t:f-xA-A-i-i-V1-i-n-nTr*Z1-s-xnt-n:t*.-P1-st-t-pr-D35:ir-r-insert[b](.*w,t)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.6"/><pos symbol="12" id="180"/><pos symbol="28" id="181"/><pos symbol="44" id="182"/>r-di-w-A1*B1:Z1*Z1*Z1-q-a-H-D41-![red]i-r-wn:n-n:k[mirror]-H-n:a-r:T-A1*B1:Z1*Z1*Z1![black]-ir-n:k[mirror]-N36:N23-A1*B1:Z1*Z1*Z1:n-pH-Y1-ib*Z1-A1-pH-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.7"/><pos symbol="3" id="183"/><pos symbol="20" id="184"/><pos symbol="31" id="185"/>ib*Z1-A1-D35:t*.-w-G37-p:X-r-F46a-D54-f-insert[bs](D,d)-m-X:t*Z1-f-xpr-r:f-m-Tz:z-w-A1-insert[bs](D,z)*[fit]f-nb-x:t-Y1:Z1*Z1*Z1-a:A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.8"/><pos symbol="8" id="186"/><pos symbol="23" id="187"/>m:a-m-z:x-r-Y1:f-r-n:k[mirror]-nfr-f:r-D35:n-S43-.:d-w-i-i-A2-k[mirror]-H-a:F51-Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1:k[mirror]-insert[bs](D,f)-A-G42-Y1:Z1*Z1*Z1-Hr*Z1-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.9"/><pos symbol="10" id="188"/><pos symbol="27" id="189"/><pos symbol="39" id="190"/>r-h-A-W-A1*B1:Z1*Z1*Z1-k[mirror]-a*b-w:t-Z5a:Y1-t-W-n:k[mirror]-m-x-m-t:D35-n:k[mirror]-wn-n:n-ib*Z1-sDm-m-n:X-t*Z1:f-a:f-k[mirror]:n:t*.-G37:[sep=0.1]Z1*Z1*Z1:[sep=0.1]f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.10"/><pos symbol="10" id="191"/><pos symbol="29" id="192"/>m-st-t-pr-U7-r-w:t-A2:[sep=0.2]f-ib-Z1:f-A-k[mirror]-w-D3-H-a:F51-Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1:f-X:z-sA-A-D3-i-w-wr-r-ib*Z1-r-rdi-W-A1*B1:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.11"/><pos symbol="2" id="193"/><pos symbol="19" id="194"/><pos symbol="38" id="195"/>nTr*Z1-i-w-sDm*m:n-X*.:[size=1.2]t*Z1*f-n:ns-sw-W-x:t-f:A13-![red]s-W19-i-A2-insert[b,x=0.6,fix](s*[sep=0.0](T30:.),m)-Y1:Z1*Z1*Z1-k[mirror]-D35:n-a-m-A2-ib-Z1![black]-a:z-x-r-Y1:k[mirror]-m
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.12"/><pos symbol="8" id="196"/><pos symbol="24" id="197"/>s-H-O22-Y1:n-nb-A1:k[mirror]-i-r-T:t*.-f:D54-r:f-x*t:f-insert[bs](D,d)-f:D35-n:.-q-s-qs-n:G37-r-wp-p-w-t:y-D54-A1-s-W19-i-t-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="198"/><coord id="8.13"/><pos symbol="17" id="199"/><pos symbol="34" id="200"/>D35:n-w-S*[fit]b-t:Z9-A2-m:D38-A-r:x-Y1:[sep=0.3]A1-s-t-i-n-A19-A1:r-x:t-Y1:Z1*Z1*Z1-f-n:n-nm*m-G37-i-r-k[mirror]-A-A2-f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8.14"/><pos symbol="7" id="201"/><pos symbol="22" id="202"/><pos symbol="35" id="203"/>r-U35-A24-f-Hr:r-s-i-w:f-g-r-A2:[sep=0.3]f-Hr*Z1-i-w-insert[bs](D,d)-n:[sep=0.7]A1-![red]i-r-wn:n-n:k[mirror]-m-insert[b,x=0.6,fix,sep=0.3](s*[sep=0.0](T30:.),m)-i-i-A1![black]-w-s-t:n-D54
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.1"/><pos symbol="15" id="204"/><pos symbol="31" id="205"/>z:x-r-w-Y1:Z1*Z1*Z1-m-wD-w:t-mDAt:n-k[mirror]-ir-r:k[mirror]-x:t-Y1:Z1*Z1*Z1-t:n-nw*W-T14-G41-A2-s-xA-A-A2-n:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.2"/><pos symbol="14" id="206"/>h-r-w-hrw:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-ii-i-D54-Hr*Z1-sA*Z1-D35-ii-i-i-D54-S43-d:t-A2-m-q*A-b-F46a-Y1-H-W14-z:t*Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="207"/><coord id="9.3"/><pos symbol="17" id="208"/><pos symbol="30" id="209"/>b-s-s-K2:D54-k[mirror]:A-p*W-mzH-xpr-r-s-f-A-t:G37a-![red]i-r-wn:n-n:k[mirror]-m-insert[b,x=0.6,fix](s*[sep=0.0](T30:.),m)-i-i-A1![black]-h-r-sDm-m:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.4"/><pos symbol="11" id="210"/><pos symbol="28" id="211"/>S43-d-w-A2-s-p-r-w-spr-A2-A1-m-g:n-A2-f-sw-W-r-s-sk-k[mirror]-t:a-X:t*Z1-f-m-k[mirror]-A-t-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.5"/><pos symbol="8" id="212"/><pos symbol="23" id="213"/><pos symbol="35" id="214"/>n:f-insert[bs](D,d)-n:f-s-t-U7:r-A2-Xr-r-E9-w-G37-i-a:t-mw-ib-Z1:f-r-ir:t-ii-i-t:D54-n:f-Hr:r-s-i-r
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.6"/><pos symbol="16" id="215"/><pos symbol="39" id="216"/>ir-g-n:nw-insert[b](.*w,nw)-A2-s-p-r:t-spr:A2-Z1*Z1*Z1-i-w-insert[bs](D,d)-.:t-insert[b](.*w,t)-i-w-t:r-tr-Y1-r-m:a-t-h-D56-D54:f-s-t-D35:n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.7"/><pos symbol="22" id="217"/><pos symbol="37" id="218"/>s-p-r:t-spr-A2-n:f-nb:t-Hr:r-s-m-xpr-r:t-s-n:Z1*Z1*Z1-z:n-a:a-Y3-Y1-ib*Z1-p*W-sDm-m-nfr-f:r-![red]i-r-U7:r-A2-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.8"/><pos symbol="13" id="219"/><pos symbol="25" id="220"/>s-wA-A-H-wAH-Y1-x:n-nm-m-s-A7-Y1-m-Xn-n:nw-w-pr-aq-q-D54-k[mirror]-r:f-m-nb-A1-m-sn-n:A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.9"/><pos symbol="12" id="221"/><pos symbol="22" id="222"/>m-x:n-nm-m-s-A7-A1-r*Z1-p-W-r-b-W-nb-aq-q-D54-k[mirror]-i-m-aHA-A-t-A24-m-t:k[mirror]-n:D54-m-N42-t:B1:[sep=0.1]Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="223"/><coord id="9.10"/><pos symbol="14" id="224"/><pos symbol="33" id="225"/>D35-nfr-f:r-n-b-W-ir:r-w-s-t-i-m-D35-s-p-d-M44-Y1:n-Hr*Z1-Hr*Z1-p-x-xA-A-V11-Y1-s-t-i-w-n:g-[sep=0.2]b-Z9-t*W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.11"/><pos symbol="10" id="226"/><pos symbol="28" id="227"/>z:A1-xA-r-Ax-x-t:Y1-n:f-A-[sep=0.3]t-Z5a-ra-k[mirror]:t-t:G37-mi-t:t-Y1-r-s-w:t-T13-ir-i-w-pH-D54-t-[sep=0.2]insert[b](.*w,t)-m-t:Z6
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.12"/><pos symbol="7" id="228"/><pos symbol="23" id="229"/>Hr*Z1-r-x-Y1-s-t-Tz:z-Y1-p-W-X:z-G37-s-t-sti-zwn-x*t:f-A13-pr-r-D54-t-W-Hr*Z1-ir*.:t*f-ib*Z1-Hr*Z1-w
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9.13"/><pos symbol="5" id="230"/><pos symbol="19" id="231"/><pos symbol="33" id="232"/>i-in:n-D41:f-i-r-w-h-h-G37-m-z:k[mirror]-n:mzH-Hr:r-s-D35-m:[sep=0.1]a:[sep=0.2]r-Y1:n-z:x-r-Y1-nb-m-a:f-![red]i-r-U7:r-A2-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10.1"/><pos symbol="11" id="233"/><pos symbol="26" id="234"/>nfr-f:r-insert[b,x=0.6,fix,sep=0.5](s*[sep=0.0](T30:.),m)-Y1:Z1*Z1*Z1-k[mirror]![black]-n-N42-m-A24-t-insert[b](.*w,t)-m:a-Dw-w-t:G37a-nb:t-aHA-A-t-A24-Hr*Z1-z:p-zp-n:a-wn:n-A24-ib*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="235"/><coord id="10.2"/><pos symbol="18" id="236"/><pos symbol="28" id="237"/>x-xA-A-t:Aa2-p-W-Ab-m-t:G37a-n:t*.-[sep=0.0]b-iTi:t-w-I14-D35-xpr-r:n-aq-q-D54-i-m-s-i-w-s*s-i-b-t:G37a-i-t:f-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-mt:t-B1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="238"/><coord id="10.3"/><pos symbol="16" id="239"/><pos symbol="31" id="240"/>H-n:a-T22-n:nw*.-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-Hr*Z1-mt:t-B1-i-w-n:S-D54-s-N42-t:B1-TA-A-i-i-D53-A1-TA-A-w:t-A24-p-W-b-i-n:t*.-G37:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10.4"/><pos symbol="2" id="241"/><pos symbol="19" id="242"/><pos symbol="40" id="243"/>nb:t-a:r-f:V33-p*W-n:x-[sep=0.0]b-d:t*.-G37:Z1*Z1*Z1-nb:t-wA-A-H-wAH-Y1-z:A1*Z1-a:q-A-T14-T14-Y1:f-mA:Aa11-a:t*Z5a-Y1-Sm-m-D54-r:n-nm*m-t:t-D54:Z1*Z1*Z1-f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="244"/><coord id="10.5"/><pos symbol="15" id="245"/><pos symbol="28" id="246"/>i-w-f-ir:f-imi-m-t:pr-Y1:Z1*Z1*Z1-i-m-D35:n-wn:n-i-i-pr-a-wn:n-A24-ib*Z1-![red]m-a-wn:n-A24-ib*Z1-k[mirror]-Hr*Z1-p:z-S-t*Z9-Y1:Z1*Z1*Z1![black]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="247"/><coord id="10.6"/><pos symbol="18" id="248"/><pos symbol="36" id="249"/>m-H-Hn-n:t*.-A24-D35-i-s-r-Xr-r:t-Y1:Z1*Z1*Z1-k[mirror]-m-a-wn:n-A24-ib*Z1-k[mirror]-r-h-A-W-A1*B1:Z1*Z1*Z1-k[mirror]-wr-r-t-stack(t[scale=0.75],wA)-A-A30-n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10.7"/><pos symbol="11" id="250"/><pos symbol="32" id="251"/><pos symbol="43" id="252"/>s-f:A-fnD-A2-r:n-xt:x*t-A24-a:n-d:G37-p-W-pr-r:r-D54-Xr-r-h-A-W-A1:B1-Z1*Z1*Z1:f-H6a-w-G37-m-W25-t:n-S43-d:t*.-A2-i-n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10.8"/><pos symbol="16" id="253"/><pos symbol="33" id="254"/>n:h-G37:N33*Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-n:a-wn-n:t*.-A24-Hr:r-s-s-xpr-r-Sn-n-ti-i-i-A24-m-q*[sep=0.1]b-W15-mw-X:t*Z1-![red]i-r-i-q:r-Y1:k[mirror]-g-r-grg-Y1:k[mirror]-pr*Z1-k[mirror]![black]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="255"/><coord id="10.9"/><pos symbol="13" id="256"/><pos symbol="26" id="257"/>U7:r-A2-k[mirror]-N42-t:B1-k[mirror]-m-Xn:n-Aa2:Y1-mH:Y1-X:t*Z1-s-H-b-s-S28-sA*Z1-s-p:X-r:t*.-F46a-Y1:Z1*Z1*Z1-p-W-n:t*.-H-a:F51-Z1*Z1*Z1:[sep=0.5,fit]s-U7:r-H-t-W1:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="258"/><coord id="10.10"/><pos symbol="16" id="259"/><pos symbol="33" id="260"/>s-Aw-w-ib*Z1-s-t:r-tr-ra:n-wn:n-n:t*.-k[mirror]-A-H-t-N23:Z1*Z1*Z1-p-W-Ax-x-t:Y1-n:nb-A1-s-imi-m-D35:k[mirror]-wDa-a:Y1-s-r-i*i-t:Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="261"/><coord id="10.11"/><pos symbol="15" id="262"/><pos symbol="30" id="263"/>s-Hr:r-Aa19-N31:z-r-sxm-m-A24-A-r:d-i-s-insert[bs](D,a)-TAw-s-p-W-ir:t*Z1-s-U2:ir-A-A-s-s-wA-A-H-wAH-Y1-s
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10.12"/><pos symbol="5" id="264"/><pos symbol="16" id="265"/><pos symbol="29" id="266"/>p-W-m-pr-k[mirror]-Sn-n:a-i-i-A24-k[mirror]-s-mw-p-W-kA-A-[sep=0.0]t-F51:a-t-s-n:a*Z1-w-y-s-V7-n:n:t*.-A2-s-ir:n-s-N36:N23
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="267"/><coord id="11.1"/><pos symbol="14" id="268"/><pos symbol="33" id="269"/>![red]s-Htp:t*.-p:Y1-aq-q:A1-B1:Z1*Z1*Z1-k[mirror]-m-xpr-r:t*.-Y1:Z1*Z1*Z1-n:k[mirror]![black]-xpr-r:n-W14-z:z-w-A2-nTr*Z1-i-r-w-h-h-G37-m-s-Htp:t*.-p:Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11.2"/><pos symbol="8" id="270"/><pos symbol="28" id="271"/>aq-q:A1-B1:Z1*Z1*Z1-f-i-w-insert[bs](D,d)-t-insert[b](.*w,t)-kA*Z1-p-W-aA:a-A-b-M19-Y1:Z1*Z1*Z1-D35-r:x-Y1-n:t*.-w-xpr-r:t*.-Z1*Z1*Z1:siA-A2-f-dwA-A-ra
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="272"/><coord id="11.3"/><pos symbol="19" id="273"/><pos symbol="39" id="274"/>kA*Z1-p-W-kA*Z1-n:mt-t-T14-T14-Htp:t*.-p-w-Y1-i-m:f-i-r-xpr-r-z:p-w-zp:Z1*Z1*Z1-nw*Z1-H-W14-z:t*Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-i-n-aq-q:A1-B1:Z1*Z1*Z1-insert[bs](D,d)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11.4"/><pos symbol="5" id="275"/><pos symbol="21" id="276"/>ii-i-D54-w-y-D35-W25-n:t*.-w-Htp:t*.-p:t-Y1-r-d-mi-i-N23*Z1-i-w-W25-n:t*.-w-aq-q-A1*B1:Z1*Z1*Z1-wn:n-A-q-G37
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="277"/><coord id="11.5"/><pos symbol="17" id="278"/><pos symbol="23" id="279"/>![red]imi-m-D35:k[mirror]-wHm-m-A2-ms-s-k[mirror]-i-A2![black]-n-S43-d:t*.-A2![black]-D35-sDm-m-k[mirror]-sw-w-pr-r-w-D54-p*W-N35:t-U30-A-Q7-X:t*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="280"/><coord id="11.6"/><pos symbol="14" id="281"/><pos symbol="28" id="282"/>wHm-m-A2-S43-d:t-A2-U2:ir-A-D35-sDm-m-N35-s-t-r-tA:N23*Z1-m-insert[bs](D,d)-r-s-s-t:N31-m-a:k[mirror]-x*t:f-Hr*Z1-V31[mirror]-r-x-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11.7"/><pos symbol="4" id="283"/><pos symbol="20" id="284"/>i-q:r-Y1-i-w-wD-w-Y1:t-insert[b](.*w,t)-TA-A-w:t-A24-ir:t-s-s-xpr-r-w-Y1-r-iTi-t-A24-s-m-s-d:t-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11.8"/><pos symbol="5" id="285"/><pos symbol="22" id="286"/><pos symbol="30" id="287"/>W19-i-h-p:Y1-m-a:k[mirror]-s-s-wn:n-zwn:G37a-r-s-w:t-Sw-ir-p*W-H-b-s-S28-t-Hr:r-s-![red]i-r-wn:n-n:k[mirror]-m-z:A1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11.9"/><pos symbol="4" id="288"/><pos symbol="16" id="289"/><pos symbol="31" id="290"/>i-q:r-Y1![black]-N42-s-A7-m-s-H-O22-Y1:n-nb-A1:f-s-A-q-sAq-Y1-ib*Z1-nb-r-b-W-i-q:r-Y1-g-r-A2-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11.10"/><pos symbol="14" id="291"/><pos symbol="29" id="292"/>Ax-x-Y1-s-t-r-t:f-t:f-Hn-Z1*Z1*Z1-S43-d-i-i-A2-k[mirror]-r:x-Y1-n:k[mirror]-wHa-a:Y1-k[mirror]-i-n-U24-w-w-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11.11"/><pos symbol="10" id="293"/><pos symbol="29" id="294"/>S43-d-w-w-A2-m-s-H-Z5a:Y1-q-s-qs-n:G37a-S43-d:t*.-A2-r-kA-t-A9-Y1:Z1*Z1*Z1-nb:t-i-n-wHa:a-V1-A2-s-a:a-s-r:xt:t*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="295"/><coord id="11.12"/><pos symbol="13" id="296"/><pos symbol="24" id="297"/>![red]i-r-wsr-s-r:a-k[mirror]-a:a-k[mirror]-snD![black]-A2-k[mirror]![black]-m-r:x-Y1-m-h-r:t*.-Y1-insert[bs](D,d)-m-wD-w-Y1-tp*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11.13"/><pos symbol="11" id="298"/>D35-i-s-r-s*[sep=0.0](T30:.)-m-Y1:Z1*Z1*Z1-i-w-S-tm-m-A2-aq-q-D54:f-n:E9-w:t-G37a:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="299"/><coord id="12.1"/><pos symbol="14" id="300"/>m-q*A-A28-ib*Z1-k[mirror]-tm-m-f-d-H-i-G37a-m-g-r-A2-z:zA-A-W-A47-A24-x:n-rd-D54-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="301"/><coord id="12.2"/><pos symbol="17" id="302"/><pos symbol="33" id="303"/>w-S*[sep=0.0]b-Z9-A2-k[mirror]-S43-d:t*.-A2-m-n:n-ns-s-r-A2-s-Hr:r-Aa19-Y1-Hr:r-k[mirror]-H-Hn:n-V36-Y1:t-insert[b](.*w,t)-i-w-n:ns-s-w:t-Q7:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12.3"/><pos symbol="14" id="304"/>n:t*.-t-U30-A-A24-ib*Z1-z:X-r-T11-a:f-a:n-D5-Y1:A1-x-n:d-w-rd-D54-A35-A24-m:a-t:n-T14-G41-N31:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="305"/><coord id="12.4"/><pos symbol="14" id="306"/><pos symbol="27" id="307"/><pos symbol="42" id="308"/>mn:n-S-Aa2-Z1:n-h-r-w-hrw:r-Aw-W:f-D35:n-ir:n:f-A-t:Z5a-ra-nfr-f:r*t-wn-n:f-S28-ib-Z1:n-h-r-w-ra-r-Aw-W:f-D35:n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12.5"/><pos symbol="7" id="309"/><pos symbol="15" id="310"/><pos symbol="29" id="311"/>g-r-grg-Y1-n:f-pr-s-t-sti-w-zwn:a-mH-Y1-W19-i-ir-N42-m-w-P10-z:p*zp-r-tA:N23*Z1-k[mirror]-i-i-n-Dr:r-w-A24
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="312"/><coord id="12.6"/><pos symbol="14" id="313"/><pos symbol="27" id="314"/>i-w-sDm-m-n:ib*Z1-f:r-H-Hn-n-A2-A-![red]m-U35-A24-t-insert[b](.*w,t)-m-A-t:Z5a-ra-A19-A1![black]-m-s-H-insert[bs](D,n)-nw-insert[b](.*w,nw)-G37-ib*Z1-n:n-t:y
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12.7"/><pos symbol="6" id="315"/><pos symbol="21" id="316"/><pos symbol="34" id="317"/>A-t:p-w-A9-a-xpr-r-s-d*b-i-Y1:f-r-Sn-n:t*.-A24-sw-W-s-f:x-arq:D54-kA-m-U7-r-r-A2-sw-W-a:a-kA-Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-p-W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12.8"/><pos symbol="5" id="318"/><pos symbol="16" id="319"/><pos symbol="34" id="320"/>H-n:a-nTr*Z1-U7:r-r:t*.-A2-f-ir:t*t-n:f-s-qd-r:Y1-r:k[mirror]-Hr*Z1-m-xt:x*t-D54-n:S-n:E20-A24-i-w-Htp:t*.-p-x-r-kA-Z1:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="321"/><coord id="12.9"/><pos symbol="13" id="322"/><pos symbol="28" id="323"/>i-w-s-d*[fit]b-i-G37:x-r:x-.:t-f:A13-kA:N33*[sep=0.5,fit]N33*[sep=0.5,fit]N33-p-W-s-r-d-M32-U7-r-w:t-A2-![red]s-b-dwA*[fit]A-A24-A19-A1:r-Ax-x:t-Y1:Z1*Z1*Z1-n:f![black]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="324"/><coord id="12.10"/><pos symbol="18" id="325"/><pos symbol="34" id="326"/>s-xpr-r-O42-p:a-Z1:f-m-Hr:r-r:T-A1*B1:Z1*Z1*Z1-a:k[mirror]-x:r-xr-s-sA-A-A-A2-f-Hr*Z1-nb-A1:f-wn-n:n-insert[bs](D,f)-A-G42-Y1-n:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12.11"/><pos symbol="5" id="327"/><pos symbol="26" id="328"/><pos symbol="39" id="329"/>x-r-kA-Z1:f-i-w-X:t*Z1-n:t*.-U7:r-w:t-A2-r-Htp:t*.-p-w-Y1:Z1*Z1*Z1-i-W-sA*Z1-k[mirror]-r-H-b-s-S28-Xr:r-s-wn:n-O42-p:a-Z1:f-Hr*Z1-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12.12"/><pos symbol="7" id="330"/><pos symbol="19" id="331"/><pos symbol="27" id="332"/>r-anx-n:x:n-pr-k[mirror]-x:r-s-a:[sep=0.2]H-Sps-k[mirror]-U7-r-r-A2-k[mirror]-anx-n:x-sw-W-Xr:r-s-ir:f-q:a-H-D41-nfr-f:r-i-m-k[mirror]-g-r-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="333"/><coord id="12.13"/><pos symbol="14" id="334"/><pos symbol="31" id="335"/>wAH-H-Y1-g-r:t*.-U7-r-w:t-A2-k[mirror]-p*W-m-X:t*Z1-n:t*.:U7-r:r-w-A2:Z1*Z1*Z1-t-[sep=0.3]insert[b](.*w,t)-m-a:k[mirror]-kA*Z1-p-W-U7:r-r-A2-sDm-m
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="408"/><coord id="13.1"/><pos symbol="17" id="337"/>![red]i-r-ir:k[mirror]-zA-z*.:[size=1.3]A1*n-q:n-b-t-O38![black]-A1:Z1*Z1*Z1-wp-p-w-t:y-D54-A1:n-h-r:t*.-mDAt-aSA-A-t-A1*B1:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="338"/><coord id="13.2"/><pos symbol="15" id="339"/><pos symbol="28" id="340"/>Sd:[sep=0.3]d-a:U2-A-d-w-mn:Z1*Z1*Z1-nw-W-a:Y1-S43-d-i-i-A2-k[mirror]-m-r:a-Hr*Z1-Aa15*Z1-z:zA-A-W-A47-A24
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.3"/><pos symbol="8" id="341"/><pos symbol="30" id="342"/>insert[bs](D,d)-f-z:x-r:Y1-f-s-r-w-sr-A1:Z1*Z1*Z1-r-a:f-S43-d:t*.-A2-Hr*Z1-Aa15*Z1-i-r:y-w-d*[sep=0.3]b-F46a-D54-z:p*zp-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.4"/><pos symbol="9" id="343"/><pos symbol="24" id="344"/>r-w-D-[fit]a:t*.-wDa-A2-Z1*Z1-![red]i-r-s-f-fnD-k[mirror]-Hr*Z1-z:p*zp-xpr-r-w-Y1![black]-g-s-sA-A-F51:k[mirror]-n:z-A1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.5"/><pos symbol="9" id="345"/><pos symbol="24" id="346"/>Hr*Z1-a:q-[fit]A-T14-T14-Y1:f-s-wA-A-N31-Hr:r-Z1:f-G17-s-xA-W-A2-sw-w-Dr:r-g-r-A2-f-n:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.6"/><pos symbol="8" id="347"/><pos symbol="29" id="348"/>h-r-w-ra*Z1-tp-p:Z4-![red]i-r-aA:a-A-Y1-k[mirror]-m-xt:x*t-D54-n:D-s-w-G37a:Z1*Z1*Z1-k[mirror]![black]-ir-k[mirror]-x:t-Y1:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.7"/><pos symbol="14" id="349"/><pos symbol="24" id="350"/>m-xt:x*t-D54-g-A-t:V32-G37-tp*Z1-i-m-m-niwt:t*Z1-r:x-t:Y1-n:k[mirror]-m-z:M8-A-W-Y1:Z1*Z1*Z1-xpr-r:t*.-n:k[mirror]-xnt-n:t*.
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.8"/><pos symbol="2" id="351"/><pos symbol="21" id="352"/><pos symbol="35" id="353"/>w-Y1-m-k[mirror]:f-A-pH-Y1-ib*Z1-k[mirror]-Hr*Z1-aHa-a:M35-Y1:Z1*Z1*Z1-k[mirror]-xpr-r-n:k[mirror]-m-r-di-w-Y1:Z1*Z1*Z1-nTr*Z1-D35:n-t:.-[sep=0.2]w
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.9"/><pos symbol="12" id="354"/><pos symbol="24" id="355"/>HA-A-tp-k[mirror]-i*i-mi-t-insert[b](.*w,t)-A1:k[mirror]-xpr-r-w-n:f-mi-t:t-Y1-i-r:Z4-![red]X-m-D41-sA*Z1-k[mirror]:n-Hr:r-tp:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="356"/><coord id="13.10"/><pos symbol="9" id="357"/><pos symbol="26" id="358"/>m:r-A1-k[mirror]:n-sw-t:n-pr-wn-n:n-pr-k[mirror]-mn-n:Y1-Hr*Z1-x:t-Y1:Z1*Z1*Z1-f-DbA-b-A-W-Y1:Z1*Z1*Z1-k[mirror]-m
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.11"/><pos symbol="6" id="359"/><pos symbol="26" id="360"/>st-t-pr-i-r:Z4-q-s-qs-n:G37a-p-W-i-t:n-nw-insert[b](.*w,nw)-A24-A1-m-Hr:r-tp-A1-anx-n:x-t-[sep=0.3]w-t:r-tr-ra:n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13.12"/><pos symbol="6" id="361"/><pos symbol="22" id="362"/>s-f:t-fnD-A2-f-D35-x-xA-A-Z9:n-q:a-H-D41:n-k[mirror]:f-t:f-S28-m-TA-A-W-i-i-w-A24
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14.1"/><pos symbol="11" id="363"/>pr-s-sA-H-w-D63-A1*B1:Z1*Z1*Z1-m-d*[fit]A-i-r-rwD-A24-x:t-Y1:Z1*Z1*Z1-t:k[mirror]-n:D54-i-m-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="364"/><coord id="14.2"/><pos symbol="15" id="365"/>imi-m-D35:f-s-E9-w-A2-r:k[mirror]-r-sDm-m-t:k[mirror]-imi-m-D35-p*W-n-ib*Z1-b-q*[sep=0.2]b-q*W-D54
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="366"/><coord id="14.3"/><pos symbol="16" id="367"/>i-r-r:x-Y1-s-t-i-w-f:r-Sn-n:i*i-A24-q-s-qs-n:G37a-Q3*W:n-i-t:n-nw*W-A24-m-st-t:pr
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14.4"/><pos symbol="5" id="368"/><pos symbol="20" id="369"/>t:k[mirror]-n:t*.-D54-![red]imi-m-D35:k[mirror]-n:k[mirror]-D53-N42-t:B1-X-r-d-Xrd-A1![black]-r-x-Y1-n:k[mirror]-x
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14.5"/><pos symbol="16" id="370"/><pos symbol="31" id="371"/>s-U35-t-A24-Z1*Z1*Z1:r-mw-Hr*Z1-HAt:t*y-F51:f-D35:n-q*[sep=0.4]b-W15-mw-n:n:t*t-m-X:t*Z1-f-imi-m-D35:f-s-W-x-w-N3
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14.6"/><pos symbol="9" id="372"/><pos symbol="26" id="373"/>r-ir:t-U35-A24-t:Z1*Z1*Z1-q*[sep=0.5]b-W15-mw-f-m-xt:x*t-D54-HD-insert[bs](D,Z9)-f-ib*Z1-f-![red]i-r-insert[bs](D,a)-[fit]r-T14-D54-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14.7"/><pos symbol="12" id="374"/><pos symbol="26" id="375"/>qd-d:nw*.-Y1:n-x-n:nm*m-s-A7-Y1-m-Sn-n:n-A2-r:k[mirror]-t:k[mirror]-n-D54-i-m-f-ir-z:p*zp-H-n:a-f-T21:a-w-G37
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="376"/><coord id="14.8"/><pos symbol="16" id="377"/><pos symbol="34" id="378"/>r:tm-m-t:k[mirror]-mn:n-G37-x-r:t*.-Y1-Z1*Z1*Z1:f-DA-A-i-s-A2-H-n:a-f-m-xt:x*t-D54-aHa-a-[sep=0.0]w-ra-w-S-m-wSm-ib*Z1-f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14.9"/><pos symbol="9" id="379"/><pos symbol="23" id="380"/>m-z:p*zp-n-S43-d:t*.-A2-i-r-pr-r-D54-U2-ir-A-t:n:f-m-D36:f-ir:f-z:p*zp-S-p-t:K4-A2-k[mirror]-Hr:r-Z1:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="381"/><coord id="14.10"/><pos symbol="13" id="382"/><pos symbol="21" id="383"/><pos symbol="37" id="384"/>x:n-nm-m-s-A7-Y1-sw-W-r*Z1-p-W-m-iTi:t-insert[b](.*w,t)-A24-Hr*Z1-s-sA-A-q*W-Y1-m-wbA-bA-Y1-n:f-S43-d:t*.-A2-m
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14.11"/><pos symbol="14" id="385"/><pos symbol="30" id="386"/>w-S-b-Z9-A2-m-z:p*zp-n:z-h-A-A24-m-w-i-D54-t-insert[b](.*w,t)-r:f-m-h*[sep=0.5]b-W-U13-sw-W-D35-p-pA-A
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14.12"/><pos symbol="8" id="387"/><pos symbol="22" id="388"/>z:p*zp-f-tm-m-D54-w-D35-w-h-D41-n:t*.-insert[b](.*w,t)-m-M8-A-Y1-sw-W-![red]HD-insert[b](D,ra)-Hr*Z1-k[mirror]-t:r-tr-ra:n-wn-n:n:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="389"/><coord id="14.13"/><pos symbol="16" id="390"/>i-r-pr-r-D54-m-m:a-Xr:r-pr-D35-aq-q-D54:n-i-n-t:X3-X5:Z1*Z1*Z1-n:p:z-S:t-Z9:Y1:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.1"/><pos symbol="11" id="391"/><pos symbol="27" id="392"/>H-Hn:n-t:y-V36-A24-Hr:r-Z1:f-z:r-x-i-i-A2-Q3-W-H6a-w-G37-m-X:t*Z1-f-xpr-r-i-t:n-nw-w-A24-m-s-A-h-h-w-G37
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="410"/><coord id="15.2"/><pos symbol="12" id="394"/><pos symbol="30" id="395"/><pos symbol="46" id="396"/>m-ir-sw-W-r-t:k[mirror]-n:D54-i-G17-k[mirror]-s-xA-insert[te](A,W)-A2-Q3*W:n-z:A1*Z1-iAm-G17-t-Y1:Z1*Z1*Z1-n:rnp*(t:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1)-imi-G17:t-xt:x*t-D54-wAs-Z1:xt-![red]r:x-Y1-H6a-t:Z1-A1:Z1*Z1*Z1-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.3"/><pos symbol="10" id="397"/><pos symbol="33" id="398"/>wn-n:n-x:t-Y1:Z1*Z1*Z1-k[mirror]-G17-X:z-G37-b-i-t:N42-F18-A2-k[mirror]-r:x-n:nm*G17-s-A7-A1:Z1*Z1*Z1-k[mirror]-H-b-F46a:f-N23*Z1-Q3*W-mH-H-Y1:f-wr-r-sw-W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.4"/><pos symbol="9" id="399"/><pos symbol="26" id="400"/><pos symbol="44" id="401"/>r-Sps-s-s-Y1:Z1*Z1*Z1-f-sw-w-x:t-Y1:Z1*Z1*Z1-k[mirror]-i*i-A1:n-k[mirror]-i*i-A1-Ax-x-Y1-b-i-t*N42-F18-A2-n:t*.-zA-A1-z:A1*Z1-n:f-i-W-qd-d-nw-Y1-nfr-f:r
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.5"/><pos symbol="6" id="402"/><pos symbol="23" id="403"/>r-s-xA-A-W-A2-![red]x-s-U35-A24-Hr*Z1-tp*Z1-dwA*[fit]A-A24-Hr*Z1-qd-d:nw*.-Y1![black]-i-W-n:Dr-r:t*.-A24-x-a-w-G37-r-mn-n:t*.-Y1-b-i-N42-F18-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="409"/><coord id="15.6"/><pos symbol="15" id="405"/><pos symbol="34" id="406"/><pos symbol="41" id="407"/>i-r-z:p*zp-D35-i-s-Hr*Z1-ii-i-i-t:G37a-r:a-xpr-r-a:n-a-i-i-A2-p-W-m-i-t:n-nw*W-A24-![red]i-r-ir-k[mirror]-N42:t-B1-m-S-p-n:t*.-Aa2![black]-wn-n:f-t-S28
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.7"/><pos symbol="2" id="336"/><pos symbol="14" id="393"/><pos symbol="23" id="404"/><pos symbol="33" id="411"/><pos symbol="47" id="412"/>ib*Z1-r-x:t-Y1:n-niwt-A1*B1:Z1*Z1*Z1-s-i-w-s-m-h-p-Y1-w-[sep=0.3]y-a:n-D5-n-s-n:U19-W24-W-ra-m-n:S-D54-s-i-Aa15-m:a-r:k[mirror]-imi-A2-s-i-w-wn-n:f-t
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.8"/><pos symbol="13" id="413"/><pos symbol="26" id="414"/><pos symbol="39" id="415"/>S28-ib*Z1-s-i-p-Y1-s-a-q-A-A-mw-![red]i-r-sDm-m-k[mirror]-M22*M22-insert[bs](D,d)-n:A1-n:k[mirror]![black]-wn-n:n-z:x-r-Y1-k[mirror]-nb-r-HAt-t:Z1-i-r-z:p*zp-n:U2-Aa11:a-t*Z5a:Y1-i-r:y
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.9"/><pos symbol="11" id="416"/><pos symbol="35" id="417"/><pos symbol="53" id="418"/>Sps-s-s-Y1-s-n:Z1*Z1*Z1-p-W-r-w-i-D54-s-xA-A-A2-s-n:Z1*Z1*Z1-m-rA*Z1:n-r:T-A1*B1:Z1*Z1*Z1-m:a-nfr-f:r-n-Tz:z-w-Y1:Z1*Z1*Z1-s-n:Z1*Z1*Z1-W25-n:n-t-w-S43-d:t*.-A2-nb:t
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="419"/><coord id="15.10"/><pos symbol="15" id="420"/><pos symbol="27" id="421"/><pos symbol="41" id="422"/>D35-s-sk-k[mirror]-G37a:n-m-tA:N23*Z1-p:n-insert[b](D,t:N17)-ir:t-s-V6-s-r:t*.-Y1-r-nfr-f:r-S43-d-w-A2-s-r-w-sr-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-r-s-s-b-sbA*[sep=0.5]A-A24-z:A1*Z1-p*W-r-insert[bs](D,d)-n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.11"/><pos symbol="5" id="423"/><pos symbol="19" id="424"/><pos symbol="38" id="425"/>m-xt:x*t-D54-sDm-m-f-s-t-xpr-r-m-Hmt-w-w-sDm-m-w-nfr-f:r-insert[bs](D,d)-n-m-xt:x*t-D54-n:t*.:f-sDm-G17-f-s-t-i-r-xpr-r-z:p*zp-nfr-f:r-m:D36-wn-n:n-m
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.12"/><pos symbol="4" id="426"/><pos symbol="31" id="427"/><pos symbol="44" id="428"/><pos symbol="18" id="432"/>Hr:r-tp*Z1-wn:n-n:f-mn:n-x*mnx-Y1:n-n:H*H-ra-i-w-s-sA-A-A-A2-f-nb-r-insert[b](D,t:N17)-i-n-r:x-Y1:A1-s-F37a[rotate=75]-m-A2-W10a-G29-f-m-s-mn:n-t:Y1-nfr-f:r-Y1:f-i-m-f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15.13"/><pos symbol="5" id="429"/><pos symbol="23" id="430"/><pos symbol="38" id="431"/><pos symbol="48" id="433"/>tp*Z1-tA:N23*Z1-s-sA-A-A2-t-w-r:x-Y1:A1-Hr*Z1-r:x-t:Y1-n:f-i-n-s-r-sr-A1-Hr*Z1-z:Q3*zp-f-nfr-f:r-m-D36:n-ib*Z1-f-n:ns-F51:f-a:q-A-T14-T14-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.1"/><pos symbol="13" id="434"/><pos symbol="23" id="435"/>z:p-t:spty-f:y-i-W:f-Hr*Z1-insert[bs](D,d)-ir-ir-f:y-Hr*Z1-U2-D4-A-A-F21-F21-f-t:t-A53-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.2"/><pos symbol="12" id="436"/>Hr*Z1-F21-m-Ax-x-t:Y1-n:zA-A1:f-ir-r-U2:Aa11-a:t*Z5a-mDAt-H6a-G37-m-g:r-grg:G37a
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="437"/><coord id="16.3"/><pos symbol="11" id="438"/><pos symbol="20" id="439"/>![red]Ax-x-Y1-sDm-m-n:zA-A1-sDm-m-w-aq-q-D54-sDm-m-m-sDm-m-W![black]-xpr-r-sDm-m-[sep=0.5]W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.4"/><pos symbol="5" id="440"/><pos symbol="17" id="441"/><pos symbol="25" id="442"/>m-sDm-m-i-A1-nfr-f:r-sDm-m-nfr-f:r-md-d:t*.-A2-sDm-m-w-nb-Ax-x:t-mDAt-Ax-x-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.5"/><pos symbol="6" id="443"/><pos symbol="17" id="444"/><pos symbol="28" id="445"/>sDm-m-n:sDm-m-w-nfr-f:r-sDm-m-r-n:t*.:t*.-nb:t-xpr-r-U7:r-w:t-A2-nfr-f:r:t*.-nfr-f:r-w-[sep=0.0]y:.
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.6"/><pos symbol="12" id="446"/><pos symbol="24" id="447"/>O42-p:a-zA:A1-insert[bs](D,d)-i-t:[sep=0.5]f:[sep=0.2]A1-f-xpr-r-n:f-i-A-w:t-A19-Xr:r-s-U7:r-r-w-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.7"/><pos symbol="6" id="448"/><pos symbol="18" id="449"/>nTr*Z1-p-W-sDm-m-D35-sDm-m-n-ms-s-d:d-w-A2-nTr-Z1-i-n-ib*Z1-s-xpr-r:Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.8"/><pos symbol="3" id="450"/><pos symbol="11" id="451"/><pos symbol="21" id="452"/>nb-A1:[sep=0.4]f-m-sDm-m-m-tm-m-sDm-m-anx-U28-s-n:z-A1*Z1-ib*Z1-f-i-n-sDm-m-W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.9"/><pos symbol="4" id="453"/><pos symbol="20" id="454"/>sDm-m-insert[bs](D,d)-U7-r:r-A2-sDm-m-p-W-ir-r-insert[bs](D,d)-t:Z1*Z1*Z1-nfr-f:r-w-[sep=0.5]y:.-sDm-m-zA:A1-n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.10"/><pos symbol="5" id="455"/><pos symbol="19" id="456"/>i-t:f-A1:f-r-S-D19-A2-w-y-insert[bs](D,d)-d:y-n:f-M22*M22-zA:A1-a:n-D5-Y1:f-m-nb:A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.11"/><pos symbol="2" id="457"/><pos symbol="21" id="458"/>sDm-m-sDm-m-w-insert[bs](D,d)-w-n:f-s-t-mn:n-x-Y1:f-m-X:t*Z1-i-U2:[sep=0.0]x-.*imAx:[fit]i*i*.-x-r
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.12"/><pos symbol="5" id="459"/><pos symbol="24" id="460"/>i-t:f-A1:[sep=0.3]f-i-w-s-xA-A-A2-f-m-rA*Z1:n-anx-n:x-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-n:t*.-tyw-Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-tp*Z1-tA:N23*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.13"/><pos symbol="9" id="461"/><pos symbol="26" id="462"/>wn-n:n-t-s-n:Z1*Z1*Z1-![red]i-r-O42-p:a-zA:A1-z:A1*Z1-insert[bs](D,d)-i-t:f-A1:f![black]-D35:n-n:nm*m-G37a:n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16.14"/><pos symbol="6" id="463"/>z:x-r-Y1:f-nb-dwA*[fit]A-A24-k[mirror]-m-zA-A1:k[mirror]-sDm-m-w-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="464"/><coord id="17.1"/><pos symbol="20" id="465"/>i-q:r-t:Y1-f:y-Hr*Z1-ib*Z1-n-s-r-w-sr-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-s-[sep=0.0,fix]modify[before=0.2](T30)-m-Y1-rA*Z1:f-r-insert[bs](D,d)-d:t*.-n:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="466"/><coord id="17.2"/><pos symbol="8" id="467"/>U2-D4-A-W-m-sDm-m-W-zA:[sep=0.0]A1-i-q:r-Y1:f-n:nm*m-t:t-D54-Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1:f-t:n-nw-W-T14-G41-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="468"/><coord id="17.3"/><pos symbol="14" id="469"/>n:n-nm-m-G37-b-s-K5:D54-n:tm-m-sDm-m-dwA-A-ra-r:x-Y1:A1-r-s-mn:n-t-Y1:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="470"/><coord id="17.4"/><pos symbol="14" id="471"/>i-w-w-x-xA-A-G37:[sep=0.5]A1-m-insert[bs](D,d)-Aa24-A24-f-![red]i-r-w-x-xA-A-empty[width=0.2,height=0.0]*G37:[sep=0.2]A1[scale=0.8]*empty[width=0.2,height=0.0]-D35:t*W-sDm-m-f![black]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="472"/><coord id="17.5"/><pos symbol="13" id="473"/><pos symbol="24" id="474"/>D35:n-ir-n:f-x:t-Y1:Z1*Z1*Z1-nb:t-U2-D4-A-f-r-x-Y1-m-x-m-D35-Ax-x:t
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="17.6"/><pos symbol="12" id="475"/><pos symbol="25" id="476"/>Y1:Z1*Z1*Z1-m-mn-n:t*.-G37:Z1*Z1*Z1-ir-r:f-x*[sep=0.0]b-d:t-G37:Z1*Z1*Z1-nb:t-r:V14-s*s-t-U39-A2-Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="17.7"/><pos symbol="7" id="477"/><pos symbol="19" id="478"/>i-m:f-r:a-ra:nb-anx-n:x-f-m-m-t*t:Z6-Xr-r-s-aq-W-X5:Z1*Z1*Z1-f-p*W-x*[sep=0.0]b-n:Z9-insert[bs](D,d)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="479"/><coord id="17.8"/><pos symbol="22" id="480"/>b-i-t:N42-F18-A2-f-i-m-m-r:x-Y1:n-s-r-w-sr-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-Hr*Z1-m-t:Z6-anx-n:x-r:a-ra:nb
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="481"/><coord id="17.9"/><pos symbol="15" id="482"/>s-wA-A-Z9-t:N31-Hr*Z1-z:p*zp-Z1*Z1*Z1:f-m:a-aSA-A-Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1:n-ii-i-i-t:G37-Z1*Z1*Z1-Hr:r-f-r:a-ra:nb
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="483"/><coord id="17,10"/><pos symbol="11" id="484"/><pos symbol="24" id="485"/>![red]zA:[sep=0.0]A1-sDm-m-w-m-Sms-s-D54![black]-G5-G7-nfr-f:r-n:f-m-xt:x*t-D54-sDm-m-f-i-A-W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="17.11"/><pos symbol="8" id="486"/><pos symbol="26" id="487"/>w-A19-f-pH-D54:f-imAx:[sep=0.0]Z1-s-insert[bs](D,d)-A2-f-m-mi-t:t-Y1:n-Xrd-A1:B1-Z1*Z1*Z1:f-m-s-U1-A-W-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="17.12"/><pos symbol="9" id="488"/><pos symbol="20" id="489"/>dwA-A-W-A24-i-t:f-A1:f-z:A1*Z1-nb-dwA*[sep=0.5]A-A2-mi-i-ir:f-s-insert[bs](D,d)-A2-f:x-r-ms
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="17.13"/><pos symbol="8" id="490"/><pos symbol="31" id="491"/>s-w-B4-A1*B1:Z1*Z1*Z1-i-x-Y1-insert[bs](D,d:n)-s-n:Z1*Z1*Z1-Xrd-w-A1*B1:Z1*Z1*Z1-s-n:Z1*Z1*Z1-ir-b-i-N42:F18-A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.1"/><pos symbol="12" id="492"/>m-r:a-a:Z1*Z1*Z1-insert[bs](D,V27)-[fit]t-A2-k[mirror]-s-r-w-d-rwD-Y1-U2:Aa11-a:t*Z5a-mDAt:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.2"/><pos symbol="13" id="493"/>anx-n:x-F31-s-w-B4-A1*B1:Z1*Z1*Z1-k[mirror]-i-r-tp*Z1-p-i-Y1-ii-i-i-D54-Xr-r
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.3"/><pos symbol="8" id="494"/>i-s-f:t-G37:Z1*Z1*Z1-i-x-Y1-insert[bs](D,d)-r-T-A1*B1:Z1*Z1*Z1-U2-D4-A-A-t:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-s-n:Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="495"/><coord id="18.4"/><pos symbol="11" id="496"/><pos symbol="26" id="497"/>mi-t:t-Y1-i-s-p:f-A-p-W-insert[bs](D,d)-n:sDm-m-t*y:Z1*Z1*Z1-s-n:Z1*Z1*Z1-mi-t:t-Y1-i-s-p:f-A
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.5"/><pos symbol="4" id="498"/>p-W-g-r-U2-D4-A-A-b-W-nb-A1*B1:Z1*Z1*Z1-s-n:Z1*Z1*Z1-s-g-r-H
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.6"/><pos symbol="10" id="499"/>D41-Y1-aSA-A-t:A1-B1:Z1*Z1*Z1-D35:n-km-m-Y1:n-Sps-s-s-Y1:Z1*Z1*Z1-m-x-mt[scale=0.94]:t
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.7"/><pos symbol="9" id="500"/><pos symbol="21" id="501"/>Z1[rotate=90]:Z1[rotate=90]:Z1[rotate=90]-Y1-s-n:Z1*Z1*Z1-m-iTi-t-A24-S43-d:t*.-A2-m-W25-n:z-m-r:a-k[mirror]:t-m-st-t:pr
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.8"/><pos symbol="2" id="502"/><pos symbol="24" id="503"/>k[mirror]:t-aHA-A-A24-t-insert[b](.*w,t)-m-wn:n-O31:a-i-in:n-i-Hn:Z1*Z1*Z1-i-m-k[mirror]-z:zA-G1-W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.9"/><pos symbol="17" id="504"/>A47-A24-t-w-r-insert[bs](D,d)-r:x-Y1-x:t-Y1:Z1*Z1*Z1-A1-sDm-m-r:k[mirror]-U7-r-A2-k[mirror]-z:mn
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.10"/><pos symbol="4" id="505"/><pos symbol="17" id="506"/>n:t*.-Y1:k[mirror]-m-rA*Z1:n-sDm-m-i-i-w-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-S43-d-w-i-i-A2-k[mirror]-aq-q-D54-n:k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.11"/><pos symbol="9" id="507"/><pos symbol="22" id="508"/>m-z:p*zp-D35-Hmt-w-w-A1-S43-d-w-A2-k[mirror]-r:z-p:zp-n:qn-n:Y1-wn-n:n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.12"/><pos symbol="11" id="509"/>z:x-r:Y1-k[mirror]:nb-r-st-t-pr-f-![red]h-r:p-mw-ib*Z1-k[mirror]-H-Hn-n-V36-G37-r*Z1:k[mirror]![black]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="510"/><coord id="18.13"/><pos symbol="19" id="511"/>i-x-Y1-z:x-r-Y1-k[mirror]-m:a-m-s-r-w-sr-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-mt:t-r-T14-T14-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18.14"/><pos symbol="11" id="512"/>Hr*Z1-qd-d:nw*.-Y1-x-r-nb-A1:k[mirror]-D4-r-insert[bs](D,d)-n:f-zA:[sep=0.0]A1-p:f-G1:Q3*W
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="513"/><coord id="19.1"/><pos symbol="18" id="514"/><pos symbol="34" id="515"/>r-insert[bs](D,d)-N35:sDm-m-t*y:Z1*Z1*Z1-s-N35:Z1*Z1*Z1-s-t-H-Hz-z:Y1-g-r:t*.-ms-s-i-i-B4-N35:f-sw-W-wAH-H-Y1-ib*Z1-k[mirror]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="19.2"/><pos symbol="12" id="516"/><pos symbol="28" id="517"/>t:r-tr-ra:N35-S43-d-w-i-i-A2-k[mirror]-insert[bs](D,d)-k[mirror]-x:t-Y1:Z1*Z1*Z1-t:N35-nw*W-T14-pA-A2-i-x-Y1-insert[bs](D,d)-s-r-w-sr-A1:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="19.3"/><pos symbol="12" id="518"/><pos symbol="25" id="519"/><pos symbol="35" id="520"/>sDm-m-t*y:Z1*Z1*Z1-s-N35:Z1*Z1*Z1-nfr-f:r-w-[sep=0.3]y-pr-r-w-D54:N35-rA*Z1:f-![red]D4-r-insert[bs](D,d)-[fit]t-nb-A1:k[mirror]-r:k[mirror]![black]-nfr-f:r-w-[sep=0.3]y-sbA*[sep=0.5]G1-A24-N35
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="19.4"/><pos symbol="5" id="521"/><pos symbol="23" id="522"/><pos symbol="40" id="523"/>i-t:f-A1:[sep=0.3]f-pr-r-D54-N35:f-i-m-f-xnt-N35:t*.-H-a:F51-Z1*Z1*Z1:f-insert[bs](D,d)-N35:f-N35:f-i-w-f-m-X:t*Z1-r-Aw-W-Y1-wr-r-D4:t-N35:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="19.5"/><pos symbol="10" id="524"/><pos symbol="23" id="525"/><pos symbol="47" id="526"/>r-insert[bs](D,d)-d-t:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-N35:f-m-a:k[mirror]-zA:[sep=0.5]A1-nfr-f:r-N35-a:a-nTr*Z1-r:a-HA-w-Y1:Z1*Z1*Z1-Hr*Z1-insert[bs](D,d)-d:t*.-Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1:N35:f-x-r-nb-A1:[sep=0.5]f-D4:f-U2:Aa11-a:t*Z5a-Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="527"/><coord id="19.6"/><pos symbol="16" id="528"/><pos symbol="34" id="529"/>D4:N35-ib*Z1-f:r-N35:nm*m-t:t-D54-Z1*Z1*Z1:f-W19-i-pH-D54-k[mirror]-w-A1-H-a:F51-Z1*Z1*Z1:k[mirror]-w-DA-G1-Y1-sw-t:N35-G7-Htp-t:Q3-Y1-m-xpr-r:t*.-Y1:Z1*Z1*Z1-nb:t
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="530"/><coord id="19.7"/><pos symbol="13" id="531"/><pos symbol="27" id="532"/><pos symbol="40" id="533"/>iTi-t-A24-k[mirror]-rnp-t:Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-m-anx-N35:x-D35:N35-S-r-G37-D4-t:N35-A1-tp*Z1-tA:N23*Z1-iTi-t-A24-N35:A1-rnp-t:V1-mD-m-anx-N35:x-N35:a-a:N35-A1[tss]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="19.8"/><pos symbol="4" id="534"/><pos symbol="29" id="535"/>sw-t:N35-G7-H-Hz-z:t*Z1*[sep=0.5,fit]Z1*[sep=0.5,fit]Z1-xnt-N35:t*.-tp*Z1-Q3-w-Z1*Z1*Z1:a*Z1-w-[sep=0.5]y-Sps-Z1*Z1*Z1-m:[sep=0.5]a-D4:t-U2:Aa11-a:t*Z5a-mDAt:N35-sw-t:N35-G7-r-st-t-pr-i-U2-x-imAx:[fit]Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<pos id="536"/><coord id="19.9"/><pos symbol="13" id="537"/>![red]D54-w-f-Q3*W-HAt-t:Z1-f-r-pH-f:y-W19-i-gm-m-i-i-t-m-Y3-Y1
+</texthi>
+</segment>
+</egyptian>

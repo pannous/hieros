@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Restoration stela of Tutankhamun"/>
+<collection kind="kings" collect="Tutankhamun"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="772"/>
+<resource location="../resources/RestorationTutankhamunTr.txt"/>
+</text>

@@ -1,0 +1,67 @@
+<html>
+
+<h1>Manual of prototype administrator (for OCR)</h1>
+
+It is assumed that
+a number of prototypes of hieroglyphs are stored in a 
+directory. Each such prototype is in a file with a name such as
+<b>A1-5.png</b>. The first part of that name is a 
+Gardiner name, then a dash, then a number. Only the PNG image
+format is allowed. 
+<p>
+Four modifiers are allowed immediately after the Gardiner name, namely 
+<b>[rotate=90]</b>,
+<b>[rotate=180]</b>,
+<b>[rotate=270]</b>, and
+<b>[mirror]</b>.
+<p>
+It is recommended that different directories are kept for different
+hand writings.
+<p>
+By a right click on a prototype, a prototype is 
+removed from the file system.
+By a left click, a prototype can be moved to have a different
+Gardiner name.
+
+<h1>Buttons in the top menu</h1>
+
+<h2>Open</h2>
+
+Opens a directory with prototypes.
+
+<h2>Close</h2>
+
+Closes the application.
+
+<h2>Prune</h2>
+
+Allows systematic removal of prototypes that are 
+very similar, and thereby largely redundant for the purpose
+of OCR. The user can specify the maximum number
+of prototypes to be kept per hieroglyph.
+<p>
+This process can take a while. It can be prematurely halted.
+
+<h2>Import</h2>
+
+Allows import of prototypes from an OCR project.
+The user can specify the root directory of that OCR
+project, and the maximum number of prototypes
+to be imported. These will be stored in a directory
+called <b>new</b> as subdirectory of the current directory.
+<p>
+A new instance of the administrator is then opened, in which the
+newly import prototypes can be inspected.
+
+<h2>Merge</h2>
+
+Allows two directories of prototypes to be merged. By default,
+it will be the <b>new</b> subdirectory being merged 
+into the main directory.
+
+<h2>Help</h2>
+
+Opens this window.
+
+</html>
+

@@ -1,0 +1,134 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-10-24
+modified = 2015-08-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the stela of Itnefer, following the
+transcription of Sethe (1927), number 17 (pp. 50-51).
+
+For a published translation, see Sethe (1914), number 17 (p. 27).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> nTr nfr
+;
+<1> The good god,
+
+nb tAwj
+;
+lord of the Two Lands
+
+^Dsr-kA-^ra
+;
+Djeserkare,
+
+sA-^ra ^jmn-Htp anx(.w) Dt
+;
+Son of Re: Amenophis (may he live forever!).
+
+<2> Htp-Dj-nsw ^wsjr
+;
+<2> A royal offering of Osiris,
+
+nb ^Ddw
+;
+lord of Busiris,
+
+nTr aA
+;
+great god,
+
+nb ^AbDw
+;
+lord of Abydos.
+
+Dj=f prt-r-xrw
+;
+May he give a mortuary offering
+
+t Hnqt kA Apd
+;
+of bread, beer, oxen, fowl,
+
+snTr mrHt
+;
+incense, oil,
+
+mnxt
+;
+clothing,
+
+jxt nbt nfrt wabt anxt nTr jm
+;
+and all good and pure things on which a god lives,
+
+DDt pt
+;
+what the sky gives,
+
+qmAt tA
+;
+what the land produces,
+
+jnnt Hapj m TpHt=f
+;
+what the Nile brings from its source,
+
+DfAw
+;
+sustenance,
+
+ssnt TAw nDm n mHyt
+;
+smelling the sweet breath of the north wind,
+
+swr mw Hr bAbAt nt mw
+;
+drinking water from the watering-place,
+
+n kA n
+;
+for
+
+HAtj-a n wHAt
+;
+the count of the oasis,
+
+rx-nsw mAa mry=f
+;
+true and beloved acquaintance of the king,
+
+^jt-nfr mAa-xrw
+;
+Itnefer, justified,
+
+Hmt=f mrrt=f ^jy mAa-xrw
+;
+and his beloved wife Iy, justified.
+
+<3> mnw jr.n sn=f
+;
+<3> A monument built by his brother,
+
+sS ^Hr-jm-Axt wHm anx
+;
+scribe Herimakhet, who lives again.

@@ -1,0 +1,167 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-04-12
+modified = 2015-01-19
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of a text on a statue of prince
+Ahmose, son of king Seqenenre and queen Ahhotep, following the
+transcription of Sethe (1927), number 2 (pp. 11-13).
+
+For published translations, see Sethe (1914), number 2 (pp. 6-7).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> sA-nsw ^jaH-msjw
+;
+<1> Prince Ahmose.
+
+<2> Htp-Dj-nsw
+;
+<2> A royal offering;
+
+^ptH ^wsjr Dj=sn prt-r-xrw
+;
+may Ptah and Osiris give a mortuary offering
+
+t Hnqt kA Apdw
+;
+of bread, beer, oxen and fowl,
+
+xrt nbt nfrt [...]
+;
+and every good thing, [...]
+
+<3> jn nTr nfr
+;
+<3> It is the good god,
+
+nb tAwj
+;
+lord of the Two Lands,
+
+sA-^ra ^tA-aA
+;
+Son of Re: Tao,
+
+Dj anx Dt
+;
+given life forever,
+
+sanx rn=f
+;
+who kept his name alive,
+
+jr=k n=f smw nfr m Xrt-hrw
+;
+so that you may do him a good deed every day.
+
+<4> jn snt=f
+;
+<4> It is his sister
+
+sanx rn=f
+;
+who kept his name alive,
+
+sAt-nsw wrt ^jaH-msjw
+;
+the older princess Ahmose,
+
+jr=k n=s sm nb nfr m Xrt-nTr
+;
+so that you may do her every good deed in the necropolis,
+
+sAt-nsw ^jaH-msjw
+;
+the princess Ahmose.
+
+<5> jn snt=f
+;
+<5> It is his sister
+
+sanx rn=f
+;
+who kept his name alive,
+
+sAt-nsw ^jaH-msjw Sr anx.tj
+;
+the younger princess Ahmose (may she live!),
+
+jr=k n=s sm nb nfr m Xrt-nTr
+;
+so that you may do her every good deed in the necropolis,
+
+n sAt-nsw ^jaH-msjw anx.tj
+;
+for the princess Ahmose (may she live!).
+
+<6> Htp-Dj-nsw
+;
+<6> A royal offering;
+
+^ptH ^skr ^wsjr Dj=sn prt-r-xrw
+;
+may Ptah, Sokar and Osiris give a mortuary offering
+
+t Hnqt kAw Apdw
+;
+of bread, beer, oxen and fowl,
+
+{t}jxt nbt nfrt
+;
+and every good thing
+
+anxt nTr jm=sn
+;
+on which a god lives,
+
+n kA n sA-nsw wr ^jaH-msjw mAa-xrw
+;
+for the oldest prince Ahmose, justified.
+
+<7> jn nTr nfr
+;
+<7> It is the good god,
+
+sA-^ra ^tA-aA
+;
+Son of Re: Tao
+
+anx(.w) Dt
+;
+(may he live forever!),
+
+sanx rn=f
+;
+who kept his name alive.
+
+<8> jn sAt-nsw wrt Xnmt-nfr-HDt
+;
+<8> It is the older princess who unites with the white crown,
+
+^jaH-Htp
+;
+Ahhotep,
+
+sanx rn=f
+;
+who kept his name alive.

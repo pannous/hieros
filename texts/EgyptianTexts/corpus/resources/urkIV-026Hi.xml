@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname=""
+  created="2015-08-07"
+  modified="2015-08-08"
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of the collection of cattle-tax by Reneni, following
+Sethe (1927), number 26 (p. 75).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="A"/><note symbol="44">Depicts
+sheep.</note><note symbol="46">Appearance without
+seal.</note>[hlr]D4*[fit]U1-G2-D4:X1-D4-M17*[sep=0.5]M17*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-M17*N35-[sep=0.5]D21:[sep=0.5]Q3:[fit]D36-F4:[sep=0.5]D36-insert[bs](modify[height=1.0](F20:.),R8*[sep=0.5]U36*(Z1:[sep=0.5]Z1:[sep=0.5]Z1))-Y4-N35:D21-[sep=0.5]A2-[sep=0.5]N35:Z4-[sep=0.5]A1-[sep=0.5]F25*S34-E1-Z1:[sep=0.5]Z1:[sep=0.5]Z1-V1:[size=1.2]V20*[sep=0.5]V20*Z15*[sep=0.5]Z15-O34:D21-E8-V1-E31-(Z1:[sep=0.5]Z1:[sep=0.5]Z1)*M12-V1:V1-E12-(Z1:[sep=0.5]Z1:[sep=0.5]Z1)*M12-(V1:[sep=0.5]V1:[sep=0.5]V1)*[sep=0.5](empty[width=0.0,height=0.1]:V1:[sep=0.5]V1:empty[width=0.0,height=0.1])
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="B"/>[hlr]M18*(X1:[sep=0.5]D54)-G17-V28*W14-O34-[sep=0.5]A2-D2:Z1-S29*W19*M17-X1-[sep=0.5]A2-M8-G1-M17*[sep=0.5]M17-X1-Y1:Z1*Z1*Z1-M17*N35-F4:[sep=0.5]D36-D21:N35-A2*(X1:Z4)-empty[shade]
+</texthi>
+</segment>
+</egyptian>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname=""
+  created="2015-08-08"
+  modified="2015-08-08"
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription from the coffin of Rai, nurse of Ahmose Nofret-iry,
+following the transcription of Sethe (1927), number 28 (pp. 77-78).
+</p>
+</header>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="A"/>[hlr]Q2:D4-A41-Y5:N35-D36:X1*[sep=0.5]D27a[rotate=90]-N35:X1-R8*(N41:X1)-cartouche(N12-F31*F35-[sep=0.5]X1*M17-D21:Z4)-Aa11:[sep=0.5]X1:P8[rotate=270]-[sep=0.5]G43-D21:D36-M17*[sep=0.5]B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="B"/>[hlr]Q2:D4-A40-Y5:N35-D36:[sep=0.5]X1*H8-N35:X1-R8*(N41:X1)-D21:D36-M17*B1
+</texthi>
+</segment>
+</egyptian>

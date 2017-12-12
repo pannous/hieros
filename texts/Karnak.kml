@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document id="UCLA ETC Karnak" xmlns:atom="http://www.w3.org/2005/Atom">
+	<name>UCLA ETC Karnak</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>32.65751627103222</longitude>
+		<latitude>25.71785213194075</latitude>
+		<altitude>0</altitude>
+		<range>801.4639841891185</range>
+		<tilt>57.71280816150868</tilt>
+		<heading>88.42943585978968</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Folder>
+		<open>1</open>
+		<NetworkLink>
+			<name>Info Bubbles</name>
+			<Url>
+				<href>http://dlib.etc.ucla.edu/projects/Karnak/kml/features</href>
+			</Url>
+		</NetworkLink>
+		<NetworkLink>
+			<name>3D Models</name>
+			<Url>
+				<href><![CDATA[http://spreadsheets.google.com/pub?key=pb5vdQ2JuGhx9FqAn4ArKAQ&output=txt&gid=2&range=a1]]></href>
+			</Url>
+		</NetworkLink>
+	</Folder>
+</Document>
+</kml>

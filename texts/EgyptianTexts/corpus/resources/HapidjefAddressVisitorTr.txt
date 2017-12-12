@@ -1,0 +1,198 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Address to the visitor of
+the tomb of Hapidjef&quot;, following the transcription of Sethe
+(1924), p. 88.
+
+The transliteration throughout follows Hannig (1995).
+
+###
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Aegyptische Lesestücke</i>. J.C. Hinrichs'sche
+Buchhandlung, Leipzig, 1924.
+
+###
+
+jr rmTt nbt
+;
+As for any people,
+
+sS nb
+;
+any scribe,
+
+rx-jxt nb
+;
+any learned man,
+
+nDs nb
+;
+any commoner
+
+twA nb
+;
+or any poor man
+
+jr.tj=sn Sd-xrw m js pn
+;
+who will disturb this tomb,
+
+HD.tj=sn sS=f
+;
+who will damage its inscriptions,
+
+nss.tj=sn n Xntjw=f
+;
+or who will mutilate its statues,
+
+xr=sn n Dnd n ^DHwtj
+;
+they will succumb to the wrath of Thoth,
+
+spd wn
+;
+effective of being,
+
+jmj nTrw
+;
+who is among the gods.
+
+jw=sn n aDt nt srtjw
+;
+They are to be massacred by the butchers
+
+Hmw-bjtj
+;
+of the servants of the kings of Lower Egypt
+
+jmjw Hwwt-wrwt
+;
+in the courts.
+
+nn Ssp nTrw=sn t-HD=sn
+;
+Their gods will not receive their white bread.
+
+jr swt rmTt nbt
+;
+But as for any people,
+
+sS nb
+;
+any scribe,
+
+rx-jxt nb
+;
+any learned man,
+
+nDs nb
+;
+any commoner
+
+twA nb
+;
+or any poor man
+
+aq.tj=sn r js pn
+;
+who will enter this tomb,
+
+mAA.tj=sn ntt jm=f
+;
+who will see what is in it,
+
+mk.tj=sn sS=f
+;
+who will protect its inscriptions,
+
+twr.tj=sn Xntjw=f
+;
+who will respect its statues,
+
+Dd.tj=sn
+;
+and who will say
+
+Htp-Dj-nsw
+;
+'A royal offering;
+
+1000 m t
+;
+a thousand of bread,
+
+Hnqt
+;
+beer,
+
+kA
+;
+oxen
+
+Apd
+;
+and fowl,
+
+1000 m Ss
+;
+a thousand of alabaster
+
+mnxt
+;
+and clothing,
+
+1000 m Htpt
+;
+a thousand of offerings,
+
+1000 m DfAw
+;
+a thousand of sustenance,
+
+1000 m jxt nb nfr wab
+;
+a thousand of all good and pure things,
+
+n kA n nb n js pn
+;
+for the spirit of the owner of this tomb,
+
+HAtj-a ^Hapj-Df
+;
+count Hapidjef',
+
+jw=f r jAw n njwt=f
+;
+he will become an old man in his city,
+
+jmAx n spAt=f
+;
+revered in his district,
+
+Hr-ntt jnk saH mnx
+;
+because I'm an excellent blessed dead,
+
+nb qd
+;
+a man of virtue.

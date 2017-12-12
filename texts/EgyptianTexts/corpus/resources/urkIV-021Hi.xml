@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-12-26"
+  modified=""
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of the biography of Ineni on a second stela,
+following Sethe (1927), number 21 (pp. 62-66).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="4"/>[hlr]empty[shade]-insert[bs](I10,D46[shade])-A1-N35[shade]-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-empty[shade]-![shade]empty[shade]-D46![noshade]-G1*[sep=0.5]M17-(D21:T12)*S29-D21:I9-Q7-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6"/>[hlr]F25-N35-N35:[sep=0.5]A1-M17*U33*[sep=0.5]M17*[sep=0.5]M17-A23*W14-[sep=0.5]X1*[sep=0.5]G43-N35-[sep=0.5]![shade]G36:[sep=0.5]D21![noshade]-N35![shade]*[sep=0.5]M17-N29:[sep=0.5]D21:[sep=0.5]Y1![noshade]-A1-![shade]D2*F34![noshade]:I9-![shade]D46:O4![noshade]-N35:[sep=0.5]D1-N35:I9-G43-D21-S42*A9-X1*(Y1:Z1*Z1*Z1)-G17:[sep=0.5]D21-D2[shade]:[sep=0.5,shade]D21[shade]:[sep=0.5]N1-D2[shade]*[sep=0.5,shade]D2[shade]:[sep=0.5]D21:[sep=0.5]X1-![shade]N25:I9-empty[shade]-![shade]D21:[sep=0.5]Aa1:[sep=0.5]Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7"/><note symbol="20">Depicts lips from the
+side.</note>[hlr]N35:I9-G43*G17-D52:X1-T14*[sep=0.5]T14*Aa11[rotate=270]-O4:[sep=0.5]D21:[sep=0.5]Y1-F34:[sep=0.5]Z1-N29-W19*M17-O34:[sep=0.5]Q3:[sep=0.5]X1-D25-M16*Q3-S28-D21:Z1-D2:Z1-Aa1:D21-X1:Y1-M23*(X1:O1)-S34*U28*S29-D46:O4-N35:[sep=0.5]D1-V31-G43-D21-F20-O51:O51-F4:[sep=0.5]D36-G17-O49:[sep=0.5]X1:[sep=0.5]Z1-F20:[fit]A9-[sep=0.5]X1*G17-M17*(Q3:X1)-Q1-X1[shade]:Z1*Z1*Z1-O49
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8"/>[hlr]D35-U28*G1-Z9-A1-D21:Z1-(D2:Z1)*R8-R4:X1-X4b:Z1*Z1*Z1-N5*Z1:N35-M12*X1-U9:D40-X8*Z1-U9:Z1*Z1*Z1-M12-U9:D40-X1-[sep=0.5]G43-U11:[fit]X1-G17-G43-N35:[sep=0.5]empty[shade]-R8*(R4:X1)-X4b:Z1*Z1*Z1-D21-Q3:I9-Q7-I9-W4-M17*[sep=0.5]M17*X1-(Y5:[sep=0.5]N35:[sep=0.5]Y1[shade])*U33-D21-P7-G43-(D54:Z1*Z1*Z1)*S29-G17-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9"/>[hlr]G54:[sep=0.5]X1*Z1-R8*A1-G17-F34:[sep=0.5]Z1-A1-D2:D21-M17*[sep=0.5]M17-X1:Aa19-N35:X1-V30-A40-G17-F4:[sep=0.5](.:X1)*F34-A1-D35:N35-S42*G17-F34:[sep=0.5]Z1-W14*G43-V30:[sep=0.5]Z1:[fit]I9-D35:N35-U28*Z9-D21:Z1-W14*S29-N35-R8*(Z1:I9)-D46*V28-D41:[sep=0.5]G37-empty[shade]:[sep=0.5]N35-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10"/>[hlr]F22:N35-X1:N35-M17*[sep=0.5]A19-G17-O49:[sep=0.5]X1:[sep=0.5]Z1-M24-X1:N21-F39:[fit]Z1-A19-G17-Aa1:[sep=0.5]I9:X1*X1-D2:Z1-V30:O34-A40-O49-M17*G43-W14*[sep=0.5]X1-[fit]G43-A1-![shade]Aa1:[sep=0.5]D21-[sep=0.5]A19![noshade]-insert[t](G43*S29,Z1*[sep=0.5]Z1*[sep=0.5]Z1)-U7:[sep=0.5]D21:[sep=0.5]X1-A1-Aa1:D21-N35:[sep=0.5]insert[s](I10,O34)-(G37:[sep=0.5]Z1*Z1*Z1)*S29-D35-D36-V4-D40-[sep=0.5]A1-D35-O34:[sep=0.5]N35[shade]-D58*O36-A1[shade]-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11"/>[hlr]D36-[sep=0.5]D58*(X1:W10)-A24-[sep=0.5]K4:X1-A55-[sep=0.5]A1-G17-[sep=0.5]M3:Aa1*[sep=0.5]X1-Y5:N35-M17*P11-A55-G17-M17*M40-S29*(M2:O1)-[sep=0.5]A1-[sep=0.5]N35:[sep=0.5]R10-O1:D21-D54-insert[t](G29,Z1)-A1-G32-![shade]I9:[sep=0.5]D1*Z1:[sep=0.5]N16-![noshade]Aa1:![shade]N35:[sep=0.5]O34![noshade]-D54:I9-N37:Z1*N21-I9-D21-U7:[sep=0.4]D21:[sep=0.5,fit]D21-I9-D4-A1-L1-G43-Y1:Z1*Z1*Z1-O1:D21-D54-A1-G17-N5:Z1-S29-N29*[sep=0.5]D58*D58-W15-N35[shade]:[sep=0.5,shade]N35[shade]:[sep=0.5]N35-A1-![shade]T28:[sep=0.5]D21-(N35:O4)*X1-[fit]G43-M1*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-![noshade]empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12"/>[hlr]T14*Y1a-W24*X1:N1-S29*(G36:[sep=0.5]D21)-M17*A2-N35:[sep=0.5]N35:[sep=0.5]N35-D21-U7:[sep=0.5]D21:[sep=0.5]D21-A1-D35:N35-V7:N35-D36:U13-A1*M17-N35-[sep=0.5]A47-G43*O29a-O31[rotate=90]*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-(D2:Z1)*N14-O1:Z1*Z1*Z1-W24:Z1-R14-X1:N25-insert[bs](I10,D46)-[sep=0.5]N35-M17*[sep=0.5]S29-M22*[sep=0.5]M22-insert[bs](I10,D46[shade])-[sep=0.5]N35-N35-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-D21-D4-[fit]U1-M23*D58*Z1-V30-D35:N35-W11:D21-U17-(G37:Z1*Z1*Z1)*M17-G17-insert[bs](I10,D46)-[sep=0.5]N35-G17*H6-X1:Y1-D35:N35-G17-![shade]M17*[sep=0.5]G43-F31*[sep=0.5]S29-A2-![shade]D4*[fit]U1![noshade]-X1:N35-![shade]N35-[sep=0.5]X1:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1![noshade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13"/>[hlr]D58*M17-W10*[sep=0.5]X1:Y1-A1-D4:Z1*Z1*Z1-W19-(X1:X1)*Y1a-M17*(D21:Z1*Z1*Z1)-G25*[fit](Aa1:.)-N35-V13:N35-V29*V28-[sep=0.5]Y1a*S34-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-D1*Z1:N17-G43*U28-G1*Y1a-G4-N35:Z4-O35-[sep=0.5]D58*D54-V13:[sep=0.5]N35-M4*(X1:Z1*[sep=0.5]Z1*[sep=0.5]Z1)-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-G17*M29-Y1:[sep=0.5]F34*Z1-S29*V25-insert[s](I10,Y1)-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-O44-X1:Z1*[sep=0.5]Z1*[sep=0.5]Z1-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-N35-F31-[sep=0.5]S29*G43-A17*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-R4:X1*Q3-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-Q1*(X1:O1)-V13:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-N35:X1-![shade]V28*N5*V28
+</texthi>
+</segment>
+</egyptian>

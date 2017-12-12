@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Amenophis I, Anniversary of the reign of"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="15"/>
+<collection kind="kings" collect="Amenophis I"/>
+<resource location="../resources/urkIV-015Hi.xml"/>
+<resource location="../resources/urkIV-015Tr.txt"/>
+</text>

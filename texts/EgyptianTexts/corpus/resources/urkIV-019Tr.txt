@@ -1,0 +1,79 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-11-16
+modified = 2015-11-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of a text of Ahmose, deputy of
+Peniati, following the transcription of Sethe (1927), number 19 (pp.
+52-53).
+
+For a published translation, see Sethe (1914), number 19 (p. 28).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> Htp-Dj-nsw ^jmn <@0>nb ^nswt-tAwj
+;
+<1> A royal offering of Amun, lord of the Thrones of the Two Lands.
+
+Dj=f prrt nbt Hr wdHw=f
+;
+May he give all that comes from his offering table,
+
+Ax wsr DfAw Spss
+;
+glory and might, sustenance and wealth
+
+an m Hr-nb
+;
+that would please anyone,
+
+n kA n sS ^jaH-msjw
+;
+for the scribe Ahmose,
+
+jdnw n jmj-rA kAt n ^jwnw ^Smaw
+;
+deputy of the overseer of works of Heliopolis in Upper Egypt,
+
+^pn-jAtj
+;
+Peniati.
+
+<2> Htp-Dj-nsw ^DHwtj HqA mDAwt
+;
+<2> A royal offering of Djehuti, lord of books.
+
+Dj=f Hswt=f n jr Hr mw=f
+;
+May he give his favour to one who acts faithfully to him,
+
+mrwt n tm mhj Hr=f
+;
+and love to one who doesn't forget him,
+
+n kA n jdnw n jmj-rA kAt ^pn-jAtj
+;
+for the deputy of the overseer of works Peniati,
+
+sS ^jaH-msjw wHm anx
+;
+scribe Ahmose, who lives again.

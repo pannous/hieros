@@ -1,0 +1,683 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2008-11-11
+modified = 2013-05-05
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;The Autobiography of Ahmose
+son of Abana&quot;, following the transcription of Sethe (1927),
+number 1 (pp. 1-11).
+
+For published translations, see Breasted (1906), pp. 3-9, §§ 1-16
+&amp; pp. 17-18, §§ 38-39 &amp; pp. 33-35, §§ 78-82; Lichtheim (1976),
+pp. 12-15; Sethe (1914), number 1 (pp. 1-6).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+M. Lichtheim. <i>Ancient Egyptian Literature -- Volume II: The New
+Kingdom</i>. University of California Press, 1976.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> Hrj-Xnyt ^jaH-msjw sA ^jbAnA mAa-xrw
+;
+<1> Naval commander Ahmose, son of Abana, justified,
+
+<2> Dd=f
+;
+<2> says:
+
+<@6>Dd=j n=Tn rmT nbt
+;
+&quot;I speak to you, all people.
+
+Dj=j rx=Tn Hswt xprt n=j
+;
+I will let you know the favours that were granted to me.
+
+jwa.kw m nbw sp 7
+;
+I have been rewarded with gold seven times
+
+xft-Hr<3>-n tA r-Dr=f
+;
+before the entire land,
+
+Hmw Hmwt r-mjtt-jry
+;
+and with male and female slaves as well.
+
+sAH.kw m AHwt aSAw wrt
+;
+I have been endowed with very many fields.
+
+jw rn n qn m jrt.n=f
+;
+The name of a brave man is in what he has done,
+
+nn Htm <4> m tA pn Dt
+;
+without ever perishing in this land.&quot;
+
+Dd=f r-ntt
+;
+He says:
+
+jr.n=j xprw=j m dmj n ^nxb
+;
+&quot;I grew up in the town of Nekheb.
+
+jw jt=j m waw n nsw-bjtj
+;
+My father was a soldier of the king of Upper and Lower Egypt
+
+^sqnj.n-^ra mAa-xrw
+;
+Seqenenre, justified,
+
+^bAbA <5> sA ^rA-jnt rn=f
+;
+and was called Baba, son of Rainet.
+
+aHa.n=j Hr jrt waw r DbA=f
+;
+Then I became a soldier in his place,
+
+m pA dpt n ^pA-smA
+;
+on the ship 'The Wild Bull',
+
+m hAw nb tAwj ^nb-pHtj-^ra mAa-xrw
+;
+in the time of the lord of the Two Lands Nebpehtire, justified.
+
+<6> jw=j m Srj n jrt=j Hmt
+;
+<6> I was a young man, before I had married,
+
+jw sDr=j m smt Snw
+;
+and I slept in a hammock of net<note>Uncertain.</note>.
+
+xr-m-xt grg.n=j pr
+;
+After I had established a household,
+
+aHa.n=j jT.kw <7> r pA dpt ^mHtj
+;
+I was taken <7> to the ship 'The Northern',
+
+Hr qnn=j
+;
+because I was brave.
+
+wn.xr=j Hr Sms jty a.w.s. Hr-rdwj=j
+;
+Then I followed the sovereign (l.p.h.!) on foot
+
+m-xt swtwt=f Hr wrryt<8>=f
+;
+after him riding on this chariot.
+
+jw Hms.tw Hr dmj n ^Hwt-wart
+;
+When the town of Avaris was besieged,
+
+wn.xr=j Hr qnt Hr rdwj=j m-bAH Hm=f
+;
+I showed valour on foot in His Majesty's presence.
+
+aHa.n=j dhn.k<9>w r ^xa-m-^mn-nfr
+;
+Then I was assigned to 'Rising in Memphis',
+
+wn.jn.tw Hr aHA Hr mw m ^pA-^Ddkw n ^Hwt-wart
+;
+and there was fighting on the water in Padjedku of Avaris.
+
+aHa.n xfa.n=j <10> jn=j Drt
+;
+Then I made a capture <10> and carried off a hand.
+
+smj.tw n wHm-nsw
+;
+When it was reported to the royal herald,
+
+wn.jn.tw Hr rDjt n=j nbw n qnt
+;
+I was given gold of valour.
+
+aHa.n wHmw aHA m st tn
+;
+Then there was more fighting in this place,
+
+wn.jn=j Hr wHm xfa <11> jm jn=j Drt
+;
+again I made a capture <11> there and carried off a hand,
+
+wn.jn.tw Hr rDjt n=j nbw n qnt m wHm-a
+;
+and again I was given gold of valour.
+
+wn.jn.tw Hr aHA m tA ^kmt rst n dmj pn
+;
+Then there was fighting in Egypt south of this town,
+
+<12> aHa.n jn.n=j sqr-anx s
+;
+<12> and I brought away a man as captive.
+
+hA.n=j r pA mw
+;
+I went down into the water,
+
+mk jn.tw=f m mH Hr tA wAt pA <13> dmj
+;
+for he was captured on the side of <13> the town,
+
+DA.n=j Xr=f Hr mw
+;
+and crossed the water carrying him.
+
+smjw n wHm-nsw
+;
+When it was reported to the royal herald,
+
+aHa.n.tw mk<note>Read <al>Hr</al>, according to Breasted
+(1906).</note> jwa=j m nbw Hr snnw=sj
+;
+I was rewarded with gold once more.
+
+wn.jn.tw <14> Hr HAq ^Hwt-wart
+;
+Then Avaris was captured,
+
+wn.jn=j Hr jnt HAqt jm
+;
+and I brought booty from there:
+
+s 1 st-Hmt 3 dmD r tp 4
+;
+one man and three women, altogether four people.
+
+wn.jn Hm=f Hr rDjt st n=j r Hmw
+;
+And His Majesty gave them to me for slaves.
+
+wn<15>.jn.tw Hr Hmst Hr ^SrHn m rnpwt 3
+;
+Then Sharahen was besieged for three years,
+
+wn.jn Hm=f Hr HAq=s
+;
+and His Majesty captured it.
+
+aHa.n jn.n=j HAqt jm
+;
+Then I brought booty from there:
+
+st-Hmt 2 Drt
+;
+two women and a hand.
+
+wn<16>.jn.tw Hr rDjt n=j nbw n qnt
+;
+I was given gold of valour,
+
+mk rDj.tw n=j HAqt r Hmw
+;
+and I was given the captives for slaves.
+
+xr-m-xt smA.n Hm=f mntjw-^sTt
+;
+After His Majesty had slain the bedouin tribes of Asia,
+
+<17> wn.jn=f Hr xntyt r ^xnt-Hn-nfr
+;
+<17> he sailed southward to Khent-hen-nefer
+
+r sksk jwntjw-^stj
+;
+to destroy the Nubian nomads,
+
+wn.jn Hm=f Hr jrt XAt aAt jm=sn
+;
+and His Majesty carried out a large massacre among them.
+
+<18> aHa.n jn.n=j HAqt jm
+;
+<18> Then I brought booty from there:
+
+s anx 2 Drt 3
+;
+two living men and three hands.
+
+wn.jn.tw Hr jwa=j m nbw Hr snnw=sj
+;
+I was rewarded with gold once more,
+
+mk rDj.tw n=j Hmt 2
+;
+and two female slaves were given to me.
+
+na<19>t m xd jn Hm=f
+;
+His Majesty sailed northward,
+
+jb=f Aw(.w) m qnt nxt
+;
+rejoicing in strength and victory,
+
+jT.n=f rsjw mHtjw
+;
+having captured southerners and northerners.
+
+aHa.n ^AAtA jw(.w) n rsj
+;
+Then Aata came to the south,
+
+<20> stkn SAw=f mwt=f
+;
+<20> and his fate brought on his doom
+
+nTrw ^Smaw Hr Am=f
+;
+when the gods of Upper Egypt grasped him.
+
+gm.tw=f jn Hm=f m ^tnt-tA-a
+;
+He was found by His Majesty at Tent-ta-o,
+
+wn.jn Hm=f Hr jnt=f <21> m sqr-anx
+;
+and His Majesty brought him away <21> as captive
+
+rmT=f nb m js-HAq
+;
+and all his people as booty.
+
+aHa.n jn.n=j mgA 2 m mH m pA dpt n ^AAtA
+;
+Then I brought two warriors as captives from the ship of Aata.
+
+wn.jn.tw <22> Hr rDjt n=j tp 5
+;
+I was given five people
+
+Hr dnjw AHt sTAt 5 m njwt=j
+;
+and five arourae of land in my town,
+
+jrw n tA Xnyt r Aw=s m-mjtt
+;
+and the same was done for the whole crew.
+
+aHa.n xr <23> pf jw(.w) ^ttjan rn=f
+;
+Then that enemy called Tetian came,
+
+sHwj.n=f n=f XAkw-jb
+;
+who had drawn together rebels.
+
+wn.jn Hm=f Hr smA=f
+;
+His Majesty slew him
+
+jst=f m tmt xpr
+;
+and his troop was annihilated.
+
+aHa.n rDj<24>.n=j tp 3
+;
+Then I was given three people
+
+AHt sTAt 5 m njwt=j
+;
+and five arourae of land in my town.
+
+wn.jn=j Hr Xnt nsw-bjtj ^Dsr-kA-^ra mAa-xrw
+;
+Then I conveyed the king of Upper and Lower Egypt Djeserkare,
+justified,
+
+jw=f m xntyt r ^kAS
+;
+as he sailed southward to Kush
+
+r swsx <25> tASw ^kmt
+;
+to widen <25> the borders of Egypt.
+
+wn.jn Hm=f Hr sqr jwntj-^stj pf
+;
+Then His Majesty smote that Nubian nomad
+
+m Hrj-jb mSa=f
+;
+in the midst of his army,
+
+jnw m gwAgwA
+;
+taken in a stranglehold,
+
+nn nhw=sn
+;
+none missing,
+
+wtxw <26> m Dy Hr gs
+;
+the fleeing <26> were felled
+
+mj ntjw n xpr
+;
+as though they had never been.
+
+jsT wj m tp n mSa=n
+;
+Now, I was in the van of our army,
+
+jw aHA.n=j r wn-mAa
+;
+where I fought properly,
+
+mA.n Hm=f qnt=j
+;
+and His Majesty saw my valour.
+
+jn=j Drt 2
+;
+I carried off two hands,
+
+m<27>s n Hm=f
+;
+and presented them to His Majesty.
+
+wn.jn.tw Hr HHy rmT=f mnmnt=f
+;
+Then his people and his cattle were pursued.
+
+aHa.n jn.n=j sqr-anx ms n Hm=f
+;
+I brought a captive and presented him to His Majesty.
+
+jn=j Hm=f m hrw 2 r ^kmt <28> m ^Xnmt-Hrw
+;
+I brought His Majesty to Egypt from Upper Well in two days,
+
+aHa.n.tw Hr jwa=j m nbw
+;
+and I was rewarded with gold.
+
+aHa.n jn.n=j Hmt 2 m HAq
+;
+Then I brought away two female slaves as booty,
+
+Hrw nn n ms.n=j <29> n Hm=f
+;
+in addition to those I had presented <29> to His Majesty.
+
+wn.jn.tw Hr rDjt=j r aHAwtj n HqA
+;
+Then I was appointed to be warrior-of-the-ruler.
+
+wn.jn=j Hr Xnt nsw-bjtj ^aA-xpr-kA-^ra mAa-xrw
+;
+Then I conveyed the king of Upper and Lower Egypt Aakheperkare,
+justified,
+
+jw=f m xntyt r ^xnt-Hn-nfr
+;
+as he sailed southward to Khent-hen-nefer,
+
+<30> r sswn HAaj xt xAswt
+;
+<30> to crush rebellion throughout the lands,
+
+r dr bs n a xAst
+;
+and to drive off intrusion from the desert region.
+
+wn.jn=j Hr qnt m-bAH=f m pA mw bjn
+;
+I showed valour in his presence at the cataract,
+
+m pA sAsA <31> pA aHaw Hr tA pnayt
+;
+during the towing <31> of the fleet through the eddy.
+
+wn.jn.tw Hr rDjt=j r Hrj-Xnyt
+;
+Then I was appointed to be naval commander.
+
+wn.jn Hm=f a.w.s. <32> [...]
+;
+Then His Majesty (l.p.h.!) <32> [...]
+
+<33> xar.jn Hm=f r=s mj Aby
+;
+<33> and His Majesty became as enraged as a panther.
+
+wdt Hm=f
+;
+His Majesty shot
+
+Ssr=f tpj mn(.w) m Snbt nt xr pf
+;
+and his first arrow stuck in the chest of that enemy.
+
+wn.jn nn [...]
+;
+Then these [...]
+
+<34> [...] bdS.w n nsrt=f
+;
+<34> [...] despondent on account of his uraeus.
+
+jrw jm m At xbyt
+;
+It was done there in an act of massacre,
+
+jnw Xrw=sn m sqrw-anx
+;
+and their people were brought away as captives.
+
+<35> nat m xd jn Hm=f
+;
+<35> His Majesty sailed northward,
+
+xAswt nbt m Ammt=f
+;
+all foreign lands in his grasp.
+
+jwntj-^stj pf Xs m sxd
+;
+That wretched Nubian nomad hung with his head downward
+
+m HAt bjk n Hm=f
+;
+from the prow of the falcon-ship of His Majesty.
+
+Djw r tA <36> m ^jpt-swt
+;
+One landed <36> at Karnak.
+
+m-xt nn wDA r ^rTnw
+;
+Thereafter one proceeded to Retjenu,
+
+r jat jb=f xt xAswt
+;
+to vent his fury throughout the lands.
+
+spr Hm=f r ^nhrn
+;
+When His Majesty reached Naharina,
+
+<37> gmt Hm=f a.w.s. xrw pf Ts=f skw
+;
+<37> His Majesty (l.p.h.!) found that enemy marshalling troops,
+
+wn.jn Hm=f Hr jrt XAt aAt jm=sn
+;
+and His Majesty carried out a large massacre among them.
+
+<@0>nn <38> Tnwt m sqrw-anx
+;
+Countless were the captives
+
+jnn Hm=f m nxtw=f
+;
+that His Majesty brought away from his victories.
+
+<@1>jsT wj m tp n mSa=n
+;
+Now, I was in the van of our army,
+
+mA.n Hm=f qnn=j
+;
+and His Majesty saw my valour.
+
+<39> jn=j wryt ssm=s
+;
+<39> I brought away a chariot, its horse,
+
+ntj Hr=s m sqr-anx
+;
+and him who was on it as captive,
+
+ms n Hm=f
+;
+and presented them to His Majesty.
+
+<@2>wn.jn.tw Hr jwa=j m nbw Hr snnw=sj
+;
+I was rewarded with gold once more.
+
+<40> tnj.kw pH.n=j jAwj
+;
+<40> I have grown old and reached old age.
+
+Hswt=j mj tpt=s [...] mr [...]
+;
+The favours towards me are as before [...] beloved [...]
+
+Htp=j m Hrt jrt.n=j Ds=j
+;
+I rest in the tomb that I myself built.
+
+<41> [...] <42> [...] <43> [...]
+;
+<41> [...] <42> [...] <43> [...]
+
+<44> [...] <45> m ^bHj
+;
+<44> [...] <45> in Behi.
+
+<@3>wHm rDj.tw n=j jn nsw-bjt [...]
+;
+<@5>Again I was given by the king of Upper and Lower Egypt [...]
+
+<46> sTAt 60 m ^HADAa dmD sTAt [...]
+;
+<46> 60 arourae in Hadjaa, altogether [...] arourae.
+
+<47> jmj-rn=f n nA n Hmw Hmwt n HAqt rDj n=j
+;
+<47> List of names of the male and female slaves from the booty given
+to me:
+
+<48> Hm ^pA-mDAy
+;
+<48> male slave Pamedjai;
+
+<49> Hm ^pAy-^AbDw
+;
+<49> male slave Pajabdju;
+
+<50> Hm ^snb-nb=f
+;
+<50> male slave Senebnebef;
+
+<51> Hm [...]
+;
+<51> male slave [...];
+
+<52> Hm <@4>^qn-pA-HqA
+;
+<52> male slave Qenpakheqa;
+
+<53> Hm ^DHwtj-snbw
+;
+<53> male slave Djehutisenebu;
+
+<54> Hm ^sbk-ms
+;
+<54> male slave Sobekmes;
+
+<55> Hm ^HA-rAy
+;
+<55> male slave Kharai;
+
+<56> Hm ^pA-aAm
+;
+<56> male slave Paam;
+
+<57> Hmt ^tAA
+;
+<57> female slave Taa;
+
+<58> Hmt ^sDm[=s]-n=j
+;
+<58> female slave Sedjemesni;
+
+<59> Hmt ^bkt
+;
+<59> female slave Baket;
+
+<60> Hmt ^kA-[...]=j-sj
+;
+<60> female slave Ka[...]isi;
+
+<61> Hmt ^tA-aA-m-Tw
+;
+<61> female slave Taametju;
+
+<62> Hmt ^wab.n-tA-^sxmt
+;
+<62> female slave Wabentasachmet;
+
+<63> Hmt ^js-tA-rA-jw-mj
+;
+<63> female slave Istarajumi;
+
+<64> Hmt ^jt-nfr
+;
+<64> female slave Itnefer;
+
+<65> Hmt ^hdt-^kwS
+;
+<65> female slave Hadetkush;
+
+<66> Hmt ^jmn-Hr-ssnb
+;
+<66> female slave Amunherseseneb.

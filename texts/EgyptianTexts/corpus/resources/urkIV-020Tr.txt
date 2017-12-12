@@ -1,0 +1,680 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-12-07
+modified = 2014-12-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the biography of Ineni, following
+the transcription of Sethe (1927), number 20 (pp. 53-62).
+
+For published translations, see Breasted (1906), p. 20, §§ 45-46; pp.
+40-44, §§ 99-108; pp. 47-48, §§ 115-118; pp. 142-143, §§ 340-343;
+Sethe (1914), number 20 (pp. 28-33).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+[...] <1> ^Hwt-nbw
+;
+[...] <1> Hatnub.
+
+saHaw aAw=f m xmtj
+;
+Its doors were erected of copper,
+
+qmA m sTAt wa
+;
+made from a single copper plate,
+
+tjtw jrjw m Dam
+;
+its signs of electrum.
+
+jw mA.n=j jr Hm=f [...]
+;
+I saw my majesty making [...]
+
+[...] <2> Hsmn sTt
+;
+[...] <2> bronze, Asian copper,
+
+mnjwt qrHwt wsxw
+;
+menits, vessels, collars.
+
+jw=j m xrp Hmwt nbt
+;
+I was leader of all craftsmen,
+
+jAwt nbt Xr st-Hr=j
+;
+every office was under my command.
+
+wD [...]
+;
+[...] ordered [...]
+
+[hrww wnw Hr] jm
+;
+[...] there,
+
+Hbw tp-trw r-mjtt-jrjw
+;
+calendar festivals as well,
+
+n jt=f ^jmn nb ^nswt-tAwj
+;
+for his father Amun, lord of the Thrones of the Two Lands.
+
+jw=w r-xt=j
+;
+They were under my supervision,
+
+sjp.tw n=j
+;
+entrusted to me.
+
+jnk Hsb r [...]
+;
+It was I who assigned [...]
+
+[...] <4> jm
+;
+[...] <4> there.
+
+sbt Hm=f aHa m nfr rnpwt m Htpw
+;
+His Majesty passed a lifetime with good years in peace,
+
+pr r pt
+;
+went to heaven,
+
+Xnm.n=f jtn
+;
+united with the sun,
+
+Abx.n=f pr.n=f [jm=f]
+;
+and joined him whom he had come [from].
+
+[...]
+;
+[...]
+
+<5> nTr nfr Hw ^sTtjw
+;
+<5> the good god, who smote the Asiatics,
+
+nb pHtj
+;
+lord of strength,
+
+ssH mnTw
+;
+who defeated the bedouin.
+
+jr.n=f tAS=f r wpt-tA
+;
+He established his border to the crest of the world,
+
+pHww m qbH n [^Hr]
+;
+the ends in the void of [Horus],
+
+[jw n=f aS] n xntj-S
+;
+[to whom is brought cedar] from Lebanon,
+
+mj [xtw nw ^tA-mrj]
+;
+as is [wood from Egypt,]
+
+[...] [mj] <6> djdj n ^Abw
+;
+[...] [as is] <6> haematite from Elephantine,
+
+Hrjw-Sa Xr jnw=sn
+;
+the bedouin carrying their gifts,
+
+mj bAkw ^Smaw ^mHw
+;
+as the tributes to Upper and Lower Egypt,
+
+xrp st Hm=f r ^wAst
+;
+so that His Majesty might bring them to Thebes
+
+n jt=f ^jmn
+;
+for his father Amun,
+
+r Tnw rnpt
+;
+every year.
+
+swD.tw n=j jxt nbt xr [nsw-bjtj
+;
+All things were entrusted to me under [the king of Upper and Lower
+Egypt,
+
+nTr pn nfr]
+;
+this good god,]
+
+<7> n mH=f jb jm=j
+;
+<7> because he trusted me.
+
+jn.kw r HAtj-a jmj-rA Snwtj
+;
+I was appointed as count and overseer of the storehouses.
+
+AHwt Htp-nTr Xr st-Hr=j
+;
+The fields of the god's offerings were under my command.
+
+kAt nbt mnxt dmD r-xt=j
+;
+All excellent works together were under my authority.
+
+jw mA.n=j mnw wrw jr.n=f [m ^jpt-swt
+;
+I saw the great works that he built [in Karnak,
+
+saHa jwnyt Spst m wADw
+;
+erecting the magnificent hall of papyrus columns,
+
+saHa] <8> bxnwt wryt Hr gswj
+;
+erecting] <8> great pylons next to it,
+
+m jnr HD nfr n anw
+;
+from beautiful white limestone,
+
+saHa snyt Spswt r rwtj Hwt-nTr
+;
+erecting the magnificent flagstaffs in front of the temple,
+
+m aS mA n tp n xtjw
+;
+from fresh cedar from Lebanon,
+
+tpw=sn m Dam
+;
+its tips from electrum.
+
+jw mA.n[=j saHa] [...]
+;
+I saw erection of [...]
+
+<9> bAk(.w) m Dam
+;
+<9> plated with electrum.
+
+jw mA.n=j saHa sbA aA
+;
+I saw erection of the great gate
+
+^sxm-fAw-^jmn
+;
+Sechem-faw-Amun,
+
+aA=f wr m Hmtj ^sTt
+;
+its large door from Asian copper,
+
+Swt-nTr Hr=f ms m nbw
+;
+the sacred figure thereon made from gold.
+
+jw mA.n=j saHa txnwj [wrwj
+;
+I saw erection of the two [great] obelisks
+
+r rwtj Hwt-nTr m jnr n mAT]
+;
+[in front of the temple from granite.]
+
+jw mA.n=j <10> mDH dpt Spst
+;
+I saw <10> construction of a magnificent ship,
+
+nt mH 120 m Aw=s mH 40 m wsx=s
+;
+120 cubits long and 40 cubits wide,
+
+r Xnt nn n txnw
+;
+to ship these obelisks.
+
+jw=w m Htp aD wDA
+;
+They came in peace, safe and sound,
+
+sAH.n tA r ^jpt-swt
+;
+and arrived in Karnak.
+
+[jw mA.n=j SAd S
+;
+[I saw the digging of a lake,
+
+jr.n n=f Hm=f Hr jmntt] <11> nt njwt
+;
+which His Majesty made for himself on the west side] <11> of the city.
+
+wd mAaw=f m xt nb bnrw
+;
+Its banks were planted with all kinds of sweet trees.
+
+jw mA.n=j SAd Hrt nt Hm=f m waaw
+;
+I saw the digging of the rock tomb of His Majesty in private,
+
+n mAA n sDm
+;
+unseen, unheard.
+
+jw Dar.n=j Axt Hrw
+;
+I investigated what could be useful for this.
+
+[...] m kAt <12> mnxt
+;
+[...] in excellent work.
+
+tp=j rs(.w) Hr HHj Ax.tj=sj
+;
+My mind was vigilant seeking what would be useful.
+
+jw sxpr.n=j AHwt qAH
+;
+I created clay fields,
+
+r sSr jsw=sn nw Xrt-nTr
+;
+to cover their tombs in the necropolis.
+
+kAt pw n jr.tw sj Dr-bAH
+;
+These were works that hadn't been done before.
+
+SA n=j jrt jm xpr(.w) wrt
+;
+What was ordered to me to be done there happened thoroughly.
+
+jdn n=s jnbw [...]
+;
+For this, walls were built [...]
+
+<13> Dar.n=j n jmjw-xt
+;
+<13> I took thought for posterity,
+
+Hmwj pw n jb=j
+;
+which was labour close to my heart.
+
+sp=j m rx
+;
+My character was wise,
+
+n rDj.tw n=j tp-rd jn tnj
+;
+no instruction was given to me by an elder.
+
+Hs.tw=j Hr rx=j
+;
+I will be praised on account of my wisdom
+
+m-xt rnpwt jn ntjw r snt r jrt.n=j
+;
+for years afterwards by those who will emulate what I have done.
+
+xrp.n=j jw=j [...]
+;
+I directed as I [...]
+
+<14> jw=j m rA-Hrj n kAt nbt
+;
+<14> I was highest administrator of all works.
+
+jw Hswt=j mn.tj m aH
+;
+Praise for me endured in the palace,
+
+mrwt=j xr Snyt
+;
+the love for me with the courtiers.
+
+sAH.n wj Hm=f m mrt
+;
+His Majesty endowed me with labourers,
+
+aqw=j Hr Snwt nt pr-nsw m Xrt-hrw nt ra nb
+;
+my provisions were from the storehouse of the palace every day.
+
+Htp nsw m anx
+;
+The king departed from this life
+
+pr r Hrt
+;
+and went to heaven,
+
+km=f rnpwt=f m nDm-jb
+;
+having completed his years in happiness.
+
+bjk jmj sS [...]
+;
+The falcon in the nest [...]
+
+[xa.w Hr st-^Hr
+;
+[had appeared on the Horus-throne,]
+
+<15> nsw-bjtj ^aA-xpr-n-^ra
+;
+<15> the king of Upper and Lower Egypt Aakheperenre,
+
+nsy=f ^kmt
+;
+so that he would govern the Black Land
+
+HqA dSrt
+;
+and rule the Red Land,
+
+jT.n=f jdbwj m mAa-xrw
+;
+having taken possession of the Two Banks in triumph.
+
+jw=j m mH-jb n nsw m st=f nbt
+;
+I was a confidant of the king in each of his offices.
+
+aA jrt.n=f n=j r jmjw-Hat
+;
+He did more for me than others before.
+
+pH.n=j jAwt jmAxyw
+;
+I reached the old age of the honoured elders,
+
+jw=j m Hswt Hm=f m Xrt-hrw
+;
+I was in the favour of His Majesty every day,
+
+snm.tw=j Hr xAwt nt nsw
+;
+I was served from the table of the king,
+
+<16> m t n abw-rA nsw
+;
+<16> with bread from the royal breakfast,
+
+Hnqt mjtt
+;
+also beer,
+
+jwf DdA
+;
+rich meat,
+
+rnpwt
+;
+vegetables,
+
+dqr Sbn
+;
+different kinds of fruit,
+
+bjt
+;
+honey,
+
+Sawt
+;
+cakes,
+
+jrp bAq
+;
+wine and ben oil.
+
+jw nD.tw xrt=j m snb anx
+;
+I was greeted with 'health and life!'
+
+m Dd Hm=f Ds=f n mrt=j
+;
+and His Majesty himself said it, for love for me.
+
+pr r Hrt
+;
+He went to heaven
+
+Xnm.n=f m nTrw
+;
+and united with the gods.
+
+sA=f aHa(.w) m st=f m nsw tAwj
+;
+His son took his place as king of the Two Lands
+
+HqA.n=f Hr nst nt wtT sw
+;
+and he ruled on the throne of his begetter.
+
+<17> snt=f Hmt-nTr ^HAt-Spswt
+;
+<17> His sister, the god's wife Hatshepsut,
+
+Hr jrt mXrw tA
+;
+governed the land;
+
+tAwj Hr sxr=s
+;
+the Two Lands were under her direction.
+
+bAk.tw n=s
+;
+She is served,
+
+^kmt m wAH-tp
+;
+while Egypt is humble,
+
+prt nTr Axt prt xnt=f
+;
+beneficent seed of the god, which came from him,
+
+HAtt nt ^Smaw
+;
+prow rope of Upper Egypt,
+
+mnjt rsw
+;
+mooring post of the southeners,
+
+pHyt pw mnxt nt ^tA-mHw
+;
+she is the excellent stern rope of Lower Egypt,
+
+nbt wD-mdw
+;
+a mistress of command,
+
+mnx sxr=s
+;
+with excellent plans,
+
+hrrt jdbwj xft mdw=s
+;
+who satisfies the Two Banks when she speaks.
+
+Hs.n wj <18> Hmt=s
+;
+Her Majesty praised me,
+
+mr.n=s wj
+;
+she loved me,
+
+rx.n=s jqrw=j m stp-sA
+;
+she recognised my excellence in the palace.
+
+sxwd.n=s wj m xt
+;
+She enriched me with property,
+
+saA.n=s wj
+;
+she advanced me,
+
+mH.n=s jmA=j m HD nbw
+;
+she filled my hut with silver and gold,
+
+m sSrw nb nfr n pr-nsw
+;
+and all good things of the palace,
+
+n Dd=j
+;
+without me saying
+
+HA n=j r jxt nbt
+;
+'O, I wish I had ...!' about anything.
+
+Dd=j n=Tn rmT
+;
+I say to you, people:
+
+sDmw jr=Tn bw-nfr
+;
+'Hear! Do good things.
+
+jr n=j <19> jr=Tn mjtt
+;
+What was done for me <19> will likewise be done for you,
+
+sbt=j aHaw m Htp
+;
+the passing of my lifetime was in peace,
+
+n xpr btA=j
+;
+there was no crime of mine,
+
+rnpwt=j m nDm-jb
+;
+my years were in happiness,
+
+nn SnTy=j
+;
+there was no enmity towards me,
+
+nn srx=j
+;
+there was no accusation against me,
+
+nn kt=j
+;
+I was not feeble,
+
+nn Dbaw=j
+;
+there was no reproach against me,
+
+jnk xrp xrpw
+;
+I was a leader of leaders,
+
+n xpr sk=j
+;
+there was no complaint against me,
+
+mnx jb n nb=f
+;
+loyal to his lord,
+
+Sw m bAg
+;
+free of carelessness.
+
+jnk sDm Ddt.n Hrj-tp=f
+;
+I was one who listened to what his superior had said.
+
+n bq-<20>jb=j r wrw jmjw aH
+;
+I was not full of resentments towards the great ones in the palace.
+
+jw jr.n=j mrrt nTr njwtj
+;
+I did what my city god loved.
+
+Sw=j m DAt rA Hr jxt nTr
+;
+I was free of pilfering from the property of the god.
+
+jr skk rnpwt m Hsy
+;
+As for one who passes years being praised,
+
+wnn bA=f anx(.w) r-a nb-r-Dr
+;
+his soul will live beside the Lord of All,
+
+rn=f nfr m rA anxw
+;
+his good name will be in the mouths of the living,
+
+sxAt=f Ax=f n Dt
+;
+his memory and his blessedness are for eternity.'
+
+jmAxy
+;
+Revered,
+
+HAtj-a
+;
+count,
+
+jmj-rA Snwtj n ^jmn
+;
+overseer of the storehouses of Amun,
+
+sS ^jnnj mAa-xrw
+;
+the scribe Ineni, justified.

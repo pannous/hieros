@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Hymn to the sun"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="732"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 113-115"/>
+<resource location="../resources/HymnSunTr.txt"/>
+</text>

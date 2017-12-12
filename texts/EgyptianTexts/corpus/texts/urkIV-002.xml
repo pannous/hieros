@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Ahmose, prince, son of Seqenenre, Inscription on a statue of"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="2"/>
+<collection kind="kings" collect="Seqenenre"/>
+<resource location="../resources/urkIV-002Hi.xml"/>
+<resource location="../resources/urkIV-002Tr.txt"/>
+</text>

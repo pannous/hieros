@@ -1,0 +1,127 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Magical spell for the
+protection of a baby&quot;, following De Buck (1948), p. 115. The
+positions are added on the basis of Hieratische Papyrus (1911), p.
+XVII. Not considered was the transcription by Sethe (1924), pp. 51-52.
+
+For comments on the text see Sethe (1959), pp. 76-77.
+
+The transliteration throughout follows Hannig (1995).
+
+###
+
+A. De Buck. <i>Egyptian Readingbook</i>. Ares Publishers, Chicago,
+Illinois, 1948.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+<i>Hieratische Papyrus aus den königlichen Museen zu Berlin</i>. J.C.
+Hinrichs'sche Buchhandlung, Leipzig, 1911.
+
+K. Sethe. <i>Aegyptische Lesestücke</i>. J.C. Hinrichs'sche
+Buchhandlung, Leipzig, 1924.
+
+K. Sethe. <i>Erläuterungen zu den Ägyptischen Lesestücken</i>. Georg
+Olms Verlagsbuchhandlung, Hildesheim, 1959.
+
+###
+
+Sp=k
+;
+May you perish,
+
+jj m kkw
+;
+he who comes from the darkness,
+
+aq m Hnmnm
+;
+who creeps in,
+
+fnD=f HA=f
+;
+his nose behind him,
+
+<I.10> Hr=f an.w
+;
+<I.10> his head averted.
+
+wh.w m jjt.n=f r=s
+;
+May he fail what he came for.
+
+Sp=T
+;
+May you perish,
+
+jjt m kkw
+;
+she who comes from the darkness,
+
+aqt m Hnmnm
+;
+who creeps in,
+
+fnD=s HA<II.1>=s
+;
+her nose behind <II.1> her,
+
+Hr=s msnH(.w)
+;
+her head averted.
+
+wh.tj m jjt.n=s r=s
+;
+May she fail what she came for.
+
+jn-jw jj.n=T r sn Xrd pn
+;
+Have you come to kiss this child?
+
+nn Dj=j <II.2> sn=T sw
+;
+I will not let <II.2> you kiss him.
+
+jn-jw jj.n=T r sgr
+;
+Have you come to cause silence?
+
+nn Dj=j Dj=T sgr jm=f
+;
+I will not let you put silence into him!
+
+jn-jw jj.n=T r HDt<II.3>=f
+;
+Have you come to hurt <II.3> him?
+
+nn Dj=j HD=T sw
+;
+I will not let you hurt him!
+
+jn-jw jj.n=T r jTt=f
+;
+Have you come to take him?
+
+nn Dj=j jT=T sw m-a=j
+;
+I will not let you take him from me!
+
+jr.n=j sA=f r=T
+;
+I have provided his protection against you.

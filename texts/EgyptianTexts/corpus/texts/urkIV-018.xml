@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Peniati, Inscription of"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="18"/>
+<collection kind="kings" collect="Amenophis I"/>
+<collection kind="kings" collect="Tuthmosis I"/>
+<collection kind="kings" collect="Tuthmosis II"/>
+<collection kind="kings" collect="Tuthmosis III"/>
+<collection kind="kings" collect="Hatshepsut"/>
+<resource location="../resources/urkIV-018Hi.xml"/>
+<resource location="../resources/urkIV-018Tr.txt"/>
+</text>

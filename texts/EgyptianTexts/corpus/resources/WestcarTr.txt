@@ -1,0 +1,2162 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2008-11-11
+modified = 2015-03-12
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = ignored
+translation = ignored
+lexical = ignored
+
+Transliteration and translation for Papyrus Westcar (Berlin Papyrus
+3033), following the transcription of Blackman (1988). Written between
+square brackets are only those transliterations and translations that
+correspond to restorations of the hieroglyphic other than those given
+on the left-hand side pages of Blackman (1988).
+
+I assume the following correction:
+
+<li>
+After 1,22 read <hi>V30</hi> as <hi>W3</hi>.
+</li>
+
+The transliteration throughout follows Hannig (1995). Transcription of
+personal names, except names of kings given by Hannig (1995), follows
+Parkinson (1997).
+
+For published translations, see Lichtheim (1975), pp. 215-222 (covers
+only the text after 4,7); Parkinson (1997), pp. 102-127; Simpson
+(1972), pp. 15-30; Zonhoven (1992), pp. 273-276 (covers only the text
+after 6,22); Chioffi and Rigamonti (2005). Also considered where the
+examples from Graefe (1994) and Loprieno (1995).
+
+###
+
+A.M. Blackman. <i>The Story of King Kheops and the Magicians</i>. J.V.
+Books, 1988.
+
+M.E. Chioffi and G. Rigamonti. <i>I Racconti di Re Kheope / The Tales
+of king Kheops</i>. Duat Edizioni, 2005.
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+E. Graefe. <i>Mittelägyptische Grammatik für Anfänger</i>.
+Harrassowitz Verlag, Wiesbaden, 1994.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+M. Lichtheim. <i>Ancient Egyptian Literature -- Volume I: The Old and
+Middle Kingdoms</i>. University of California Press, 1975.
+
+A. Loprieno. <i>Ancient Egyptian: a linguistic introduction</i>.
+Cambridge University Press, 1995.
+
+R.B. Parkinson. <i>The Tale of Sinuhe and Other Ancient Egyptian Poems
+1940-1640 BC</i>. Oxford University Press, 1997.
+
+W.K. Simpson (editor). <i>The Literature of Ancient Egypt: An
+Anthology of Stories, Instructions, and Poetry</i>. Yale University
+Press, 1972.
+
+L.M.J. Zonhoven. <i>Middel-Egyptische Grammatica: Een Praktische
+Inleiding in de Egyptische Taal en het Hiërogliefenschrift</i>.
+Leiden, 1992.
+
+###
+
+<1,12> [...] Dd.jn Hm n nsw-bjtj ^xwj=f-wj mAa-xrw
+;
+<1,12> [...] Then the majesty of the king of Upper and Lower Egypt
+Cheops, justified, said:
+
+jm Dj.tw <1,13> mAa t 1000
+;
+'Let an offering be made of a thousand loaves of bread,
+
+Hnqt ds 100
+;
+a hundred jars of beer,
+
+jwA 1 snTr <1,14> pAD 2
+;
+one ox and two balls of incense
+
+n nsw-bjtj ^Dsr mAa-xrw
+;
+to the king of Upper and Lower Egypt Djoser, justified,
+
+Hna rDjt Dj.tw Sns <1,15> 1 Hnqt Dwjw 1
+;
+and let there be given one cake, one jug of beer,
+
+jwf wrj snTr pAD 1
+;
+a large portion of meat and one ball of incense
+
+n Xrj-Hbt <1,16> Hrj-tp [^j-m-Htp]
+;
+to the chief lector priest [Imhotep],
+
+jw mA.n=j sp=f n rx
+;
+as I have seen an example of his learning.'
+
+jr.jn.tw mj wDt <1,17> nbt Hm=f
+;
+And one did as everything that His Majesty had ordered.
+
+aHa pw jr.n sA-nsw ^xaw=f-^ra r mdwt Dd=f
+;
+Then prince Chephren stood up to speak, and said:
+
+<1,18> Dj=j sDm Hm=k bjAyt xprt
+;
+<1,18> 'I will let Your Majesty hear a wonder that happened
+
+m rk jt<1,19>=k ^nb-kA mAa-xrw
+;
+in the time of your forefather Nebka, justified,
+
+wDA=f r Hwt-nTr nt ^ptH
+;
+as he proceeded to the temple of Ptah,
+
+<1,20> nb ^anx-tAwj
+;
+<1,20> lord of Ankh-tawi.
+
+jsT rf jn Hm=f Sm r [...]
+;
+Now, it was His Majesty who went to [...]
+
+<1,21> [...] jn Hm=f jrr [H]nt nt [...]
+;
+<1,21> [...] and it was His Majesty who performed the [rite] of [...]
+
+<1,22> [...] Xrj-Hbt Hrj-tp ^wbA-jnr Hna <1,23> [...]
+;
+<1,22> [...] the chief lector priest Ubainer was with <1,23> [...]
+
+Hmt ^wbA-jnr n [...] <2,1> [...]
+;
+the wife of Ubainer [...] <2,1> [...]
+
+aHa.n rDj.n=s [...].tw n=f pds mH(.w) m Hbsw
+;
+Then she had a chest full of clothes [...] to him.
+
+<2,2> [...] jwt pw jr.n=f Hna tA wbA<2,3>yt
+;
+<2,2> [...] Then he came back with the maid.
+
+xr-m-xt hrww swA(.w) Hr nn
+;
+After (some) days had passed after this --
+
+jsT rf wn Ss<2,4>pt m pA S n ^wbA-jnr
+;
+there was a pavilion in the garden of Ubainer --
+
+aHa.n Dd.n pA nDs <2,5> n tA Hmt ^wbA-jnr
+;
+the commoner said <2,5> to the wife of Ubainer:
+
+jwms wn Sspt <2,6> m pA S n ^wbA-jnr
+;
+&quot;Is there not a pavilion <2,6> in the garden of Ubainer?
+
+mT n<note>Chioffi and Rigamonti (2005) have <al>mTn</al> instead of
+<al>mT n.</al></note> jr=n At jm=s
+;
+Look, let us spend some time in it.&quot;
+
+<2,7> aHa.n hAb.n tA Hmt ^wbA-jnr n Hrj-pr
+;
+<2,7> Then the wife of Ubainer sent a message to the caretaker
+
+ntj <2,8> m-sA pA S r Dd
+;
+who <2,8> was in charge of the garden, to say:
+
+jm sspd.tw tA Sspt <2,9> ntt m pA S [...]
+;
+&quot;Let the pavilion that is in the garden be prepared [...].&quot;
+
+wrS.n=s jm Hr swr <2,10> Hna pA nDs [...]
+;
+And she spent the day there drinking <2,10> with the commoner [...]
+
+xr-m-xt <2,11> mSrw xpr.w jwt pw jr.n=f
+;
+After <2,11> it had become evening, he came out,
+
+wn.jn=f Hr <2,12> hAt r pA S
+;
+and he <2,12> went down to the pool,
+
+wn.jn tA wbAyt <2,13> [...]
+;
+and the maid <2,13> [...]
+
+pA [...] pA Hrj-pr <2,14> [...] ^wbA-jnr
+;
+the [...] the caretaker <2,14> [...] Ubainer
+
+<2,15> xr-m-xt tA HD(.w) n hrw xpr(.w)
+;
+<2,15> When the second day dawned,
+
+SAs pw <2,16> jr.n pA Hrj-pr [...] mdwt tn
+;
+the caretaker went [...] this matter
+
+<2,17> [...] <2,18> [...] pA n [...] <2,19> pA S [...]
+;
+<2,17> [...] <2,18> [...] the [...] <2,19> the pool [...]
+
+rDj.n=f sw n pAy=f nb [...]
+;
+He gave it to his lord [...]
+
+<2,20> HA[yt] nt mw
+;
+<2,20> [bank] of the water.
+
+aHa.n pf [...]
+;
+Then [...]
+
+<2,21> aHa.n Dd.n ^wbA-jnr
+;
+<2,21> And Ubainer said:
+
+jn n=j [...] n hbnj <2,22> Hr Damw [...]
+;
+&quot;Bring me [...] of ebony <2,22> and electrum [...]!&quot;
+
+[...].n=f ms<2,23>H n [...] 7
+;
+[...] crocodile of [...] seven [...]
+
+wn.jn=f Hr Sd <2,24> [...] Sd [...] Hr [...]
+;
+Then he read out <2,24> [...] read out [...]
+
+[...] jwt=f <2,25> r wab m S=j [...] nDs <3,1> [...]
+;
+&quot;[...] he comes <2,25> to wash in my pool [...] commoner <3,1>
+[...].&quot;
+
+aHa.n rDj.n=f sw n pA Hrj-pr Dd.n=f n=f
+;
+Then he gave it to the caretaker, and said to him:
+
+<3,2> jr m-xt hAw nDs r pA S
+;
+<3,2> &quot;As soon as the commoner has gone into the pool,
+
+mj nt-a=f <3,3> nt ra nb
+;
+as is his daily custom,
+
+kA=k xAa=k pA msH <3,4> [...] r-sA=f
+;
+then you will throw this crocodile <3,4> [...] after him.&quot;
+
+SAs pw jr.n pA Hrj-pr
+;
+The caretaker then went
+
+jT.n=f <3,5> pA msH n mnH m-a=f
+;
+and took <3,5> the crocodile of wax with him.
+
+aHa.n hAb.n tA <3,6> Hmt ^wbA-jnr n pA Hrj-pr
+;
+Then the wife of Ubainer sent a message to the caretaker
+
+ntj m-sA pA S r Dd
+;
+who was in charge of the garden, to say:
+
+jm <3,7> sspd.tw tA Sspt ntt m pA S
+;
+&quot;Let <3,7> the pavilion that is in the garden be prepared,
+
+mk wj j<3,8>j.kw r Hmst jm=s
+;
+since I'm coming to sit in it.&quot;
+
+aHa.n sspd tA Sspt <3,9> m bw nb nfr
+;
+Then the pavilion was prepared <3,9> with every good thing,
+
+SAs pw jr.n=sn wn.jn=sn Hr h<3,10>rw nfr Hna pA nDs
+;
+and they went and spent a happy day with the commoner.
+
+xr-m-xt mSr<3,11>w xpr(.w)
+;
+After it had become evening
+
+jwt pw jr.n pA nDs mj nt-a=f <3,12> nt ra nb
+;
+the commoner came out, as was his daily custom.
+
+aHa.n xAa.n pA Hrj-pr pA msH <3,13> n mnH r-sA=f r mw
+;
+Then the caretaker threw the crocodile <3,13> of wax after him into
+the water,
+
+aHa.n xpr.n=f m msH n mH 7
+;
+and it became a crocodile of seven cubits,
+
+<3,14> aHa.n mH.n=f m pA nDs [...]
+;
+<3,14> and it seized the commoner [...]
+
+[j]sT smnw <3,15> ^wbA-jnr
+;
+Now, Ubainer was to remain
+
+Hna Hm n nsw-bjtj ^nb-kA mAa-xrw
+;
+with the majesty of the king of Upper and Lower Egypt Nebka,
+justified,
+
+n hrww 7
+;
+for seven days,
+
+<3,16> pA nDs m [...] <3,17> [...]
+;
+<3,16> while the commoner was [...] <3,17> [...]
+
+xr-m-xt pA hrww 7 xpr(.w)
+;
+After the seven days had passed,
+
+wDA pw <3,18> jr.n nsw-bjtj ^nb-kA mAa-xrw [...]
+;
+the king of Upper and Lower Egypt Nebka, justified, proceeded [...]
+
+aHa.n rDj.n sw Xrj-Hbt <3,19> Hrj-tp ^wbA-jnr m-bAH
+;
+Then the chief lector priest Ubainer placed himself before (His
+Majesty),
+
+aHa.n Dd.n ^wbA-jnr [...] sDd n=j
+;
+and Ubainer said: &quot;[...] told to me.
+
+wDA <3,20> Hm=k mAn=k tA bjAyt
+;
+May your majesty proceed and may you see the wonder
+
+xprt m rk Hm=k [...]
+;
+that has happened in the time of Your Majesty [...]
+
+<3,21> [...] nDs [...] ^wbA-jnr
+;
+<3,21> [...] a commoner [...].&quot; [...] Ubainer.
+
+aHa.n [aS<note>Conjectural.</note>].n <3,22> ^wbA-jnr pA msH r Dd
+;
+Then [...] Ubainer [summoned] the crocodile to say:
+
+jn n=k pA nDs [...]
+;
+&quot;Bring the commoner [...].&quot;
+
+prt <3,23> pw jr.n pA msH [...]
+;
+And the crocodile came out [...]
+
+aHa.n Dd.n Xrj-H<3,24>bt Hrj-tp ^wbA-jnr
+;
+Then the chief lector priest Ubainer said:
+
+[...] sw aHa.n [...].n=f sw
+;
+&quot;[...] him.&quot; And he [...] him.
+
+<3,25> aHa.n rDj.n=f [...] sw
+;
+<3,25> Then it placed [...] him.
+
+Dd.jn Hm n nsw-bjtj <4,1> ^nb-kA mAa-xrw
+;
+Then the majesty of the king of Upper and Lower Egypt Nebka,
+justified, said:
+
+smwn msH pn HA<note>Syntactic function and meaning of <al>HA</al> are
+unclear.</note>
+;
+&quot;Perhaps it is a crocodile.&quot;
+
+kst <4,2> pw jr.n ^wbA-jnr aHa.n TA.n=f sw
+;
+Ubainer then bent down and picked it up,
+
+wn.jn=f <4,3> m Drt=f (m) msH n mnH
+;
+and in his hand it was a crocodile of wax.
+
+wn.jn Xrj-Hbt Hrj-tp ^wbA-jnr <4,4> Hr wHm
+;
+Then, the chief lector priest Ubainer <4,4> recounted
+
+mdwt tn jr.n pA nDs m pr=f Hna tAy=f <4,5> Hmt
+;
+this thing that the commoner had been doing in his house with his
+<4,5> wife
+
+n Hm n nsw-bjtj ^nb-kA mAa-xrw
+;
+to the majesty of the king of Upper and Lower Egypt Nebka, justified.
+
+aHa.n Dd.n Hm=f n pA <4,6> msH
+;
+Then His Majesty said to the <4,6> crocodile:
+
+jn n=k pAy=k
+;
+&quot;Take what is yours!&quot;
+
+hAt pw jr.n pA msH <4,7> r [...] nt pA S
+;
+The crocodile then went down <4,7> to [...] of the pool,
+
+n rx.tw bw Sm.n=f jm Xr=f
+;
+and the place where it went with him never became known.
+
+<4,8> aHa.n rDj.n Hm n nsw-bjtj ^nb-kA mAa-xrw jT.tw tA Hmt <4,9>
+^wbA-jnr
+;
+<4,8> Then the majesty of the king of Upper and Lower Egypt Nebka,
+justified, had the wife of Ubainer taken away
+
+r Sdw mHtj n Xnw
+;
+to a plot of land north of the residence
+
+aHa.n rDj.n=f <4,10> xt jm=s
+;
+and he burnt her,
+
+[...] qmAw n jtrw
+;
+[...] thrown in the river.
+
+mk bjAy<4,11>t xprt
+;
+Look, a wonder that happened
+
+m rk jt=k nsw-bjtj ^nb-kA
+;
+in the time of your forefather the king of Upper and Lower Egypt
+Nebka,
+
+m jryt <4,12> Xrj-Hbt Hrj-tp ^wbA-jnr
+;
+which is something that the chief lector priest Ubainer did.'
+
+Dd.jn Hm n nsw-bjtj ^xwj=f-wj <4,13> mAa-xrw
+;
+Then the majesty of the king of Upper and Lower Egypt Cheops,
+justified, said:
+
+jm Dj.tw mAa t 1000
+;
+'Let an offering be made of a thousand loaves of bread,
+
+Hnqt ds 100
+;
+a hundred jars of beer,
+
+jwA 1 <4,14> snTr pAD 2
+;
+one ox <4,14> and two balls of incense
+
+n nsw-bjtj ^nb-kA mAa-xrw
+;
+to the king of Upper and Lower Egypt Nebka, justified,
+
+Hna rDjt Dj.tw <4,15> Sns 1 Hnqt Dwjw 1
+;
+and let there be given <4,15> one cake, one jug of beer,
+
+jwf wrj snTr pAD 1
+;
+a large portion of meat and one ball of incense
+
+<4,16> n Xrj-Hbt Hrj-tp ^wbA-jnr
+;
+<4,16> to the chief lector priest Ubainer,
+
+jw mA.n=j sp=f <4,17> n rx
+;
+as I have seen an example <4,17> of his learning.'
+
+jr.jn.tw mj wDt nbt Hm=f
+;
+And one did as everything that His Majesty had ordered.
+
+aHa pw jr.n ^bAw<4,18>=f-^ra r mdwt Dd=f
+;
+Then Bauefre stood up to speak, and said:
+
+Dj=j sDm Hm=k bjAyt xprt <4,19> m rk jt=k ^snfr-wj mAa-xrw
+;
+'I will let Your Majesty hear a wonder that happened <4,19> in the
+time of your forefather Snofru, justified,
+
+m jryt Xrj-Hbt <4,20> Hrj-tp ^DADA-m-anx
+;
+and that is something that the chief lector priest Djadjaemankh did.
+
+[...] <4,21> [...] hrw nA n jw<note>Correct transliteration
+uncertain.</note> tmmt xpr <4,22> [...]
+;
+[...] <4,21> [...] day, the things that have not happened <4,22> [...]
+
+[at<note>Probable in light of the occurrence at 4,25.</note>] nbt nt
+pr-nsw a.w.s. r HHj n=f <4,23> st-qbt
+;
+every [room] of the palace (l.p.h.!) to seek distraction for himself,
+
+n gm.n=f sj
+;
+but he couldn't find any.
+
+Dd.jn=f js jn n=j Xrj-Hbt Hrj-tp <4,24> sS mDAt ^DADA-m-anx
+;
+Then he said: &quot;Go and bring me the chief lector priest <4,24> and
+book-scribe Djadjaemankh.&quot;
+
+jn.jn.tw=f n=f Hr-awj
+;
+And he was brought to him immediately.
+
+Dd.jn n=f <4,25> Hm=f
+;
+Then His Majesty said to him:
+
+jw dbn.n=j at nbt nt pr-nsw a.w.s.
+;
+&quot;I've gone through every room of the palace (l.p.h.!)
+
+r HHj n=j st-<5,1>qbt
+;
+to seek distraction for myself,
+
+n gm.n=j sj
+;
+but I couldn't find any.&quot;
+
+Dd.jn n=f ^DADA-m-anx
+;
+Then Djadjaemankh said to him:
+
+Hwj <5,2> A wDA Hm=k r S n pr-aA a.w.s.
+;
+&quot;O <5,2> may Your Majesty proceed to the lake of the palace
+(l.p.h.!),
+
+apr n=k bAw <5,3> m nfrwt nbt nt Xnw aH=k
+;
+and man a ship <5,3> with all beautiful women from inside your palace.
+
+jb n Hm=k r qbb <5,4> n mAA Xnn=sn Xnt m-xd m-xnt
+;
+The heart of Your Majesty will be gladdened <5,4> by seeing them row a
+trip back and forth,
+
+<5,5> jw=k Hr mAA sSw nfrw n S=k
+;
+<5,5> and seeing the beautiful reeds of your lake,
+
+jw=k Hr <5,6> mAA sxwt=f xfAAwt=f nfrw
+;
+and <5,6> seeing its (surrounding) fields and its beautiful
+watersides.
+
+jw jb=k r <5,7> qbb Xr=s
+;
+Your heart will <5,7> be gladdened by this.&quot;
+
+jw=j Hm r jrt Xnt=j
+;
+&quot;So I will arrange my rowing trip.
+
+jm jn.tw n=j <5,8> wsrw 20 n hbnj bAk m nbw
+;
+Let me be brought <5,8> twenty oars of ebony plated with gold,
+
+xmawt jrj <5,9> m sqb bAk m Damw
+;
+with handles <5,9> of <al>sqb</al>-wood plated with electrum.
+
+jm jn.tw n=j st-Hmwt 20 <5,10> m nfrwt nt Haw=sn
+;
+Let me be brought twenty women <5,10> who have beautiful bodies,
+
+m bntwt Hnkytwt
+;
+who have well-developed bosoms, who have braided hair,
+
+<5,11> ntj n wp.tw=sn m mst
+;
+<5,11> and who have not been opened by childbirth.
+
+Hna rDjt jn.tw n=j jAdt <5,12> 20
+;
+And let me be brought twenty nets
+
+Hna rDjt nn jAdwt n nn Hmwt wAH Hbsw<5,13>=sn
+;
+and let these nets be given to these women after their clothes have
+been taken off.&quot;
+
+aHa.n jr mj wDt nbt Hm=f
+;
+And one did as everything that His Majesty had ordered.
+
+wn.jn=sn Hr Xn<5,14>t m-xd m-xnt
+;
+Then they rowed back and forth,
+
+wn.jn jb n Hm=f nfr(.w) n <5,15> mAA Xnn=sn
+;
+and the heart of His Majesty was gladdened by <5,15> seeing them row.
+
+aHa.n wat ntt r Stjw H<5,16>t.n=s m Hnkt=s
+;
+Then one woman who was at the stroke oar got entangled in her braids
+
+aHa.n nxAw n mfkA<5,17>t mAt xr(.w) Hr mw
+;
+and a fish-pendant of new turquoise fell into the water.
+
+aHa.n=s gr.tj nn Xnt
+;
+Then she became still, without rowing,
+
+<5,18> wn.jn pAy=s rmn gr(.w) nn Xnt
+;
+<5,18> and her side became still, without rowing.
+
+Dd.jn <5,19> Hm=f
+;
+Then His Majesty said:
+
+jn n Xnn.n=Tn
+;
+&quot;Can't you row?&quot;
+
+aHa.n Dd.n=sn tAy=n Styt <5,20> gr.tj nn Xnt
+;
+And they said: &quot;Our stroke <5,20> has become still, without
+rowing.&quot;
+
+aHa.n Dd.n n=s Hm=f
+;
+Then His Majesty said to her:
+
+tm=T Xn <5,21> Hr-m
+;
+&quot;Why aren't you rowing?&quot;
+
+aHa.n Dd.n=s
+;
+And she said:
+
+nxAw pw n mfkAt mAt <5,22> xr(.w) Hr mw
+;
+&quot;This fish-pendant of new turquoise <5,22> has fallen into the
+water.&quot;
+
+aHa.n [...] n=s [...] <5,23> [...] DbA
+;
+Then [...] to her: &quot;[...] <5,23> [...] replaced.&quot;
+
+aHa.n Dd.n=s mr=j Hnw<5,24>=j r sntj=f
+;
+And she said: &quot;I prefer my own thing to its substitute.&quot;
+
+Dd.jn Hm=f
+;
+Then His Majesty said:
+
+js jn n=j Xrj-Hbt <5,25> Hrj-tp ^DADA-m-anx
+;
+&quot;Go and bring me the chief lector priest Djadjaemankh.&quot;
+
+jn.jn.tw=f n=f Hr-awj
+;
+And he was brought to him immediately.
+
+Dd.jn <6,1> Hm=f
+;
+Then His Majesty said:
+
+^DADA-m-anx sn=j
+;
+&quot;Djadjaemankh, my brother,
+
+jw jr.n=j mj nA Dd.n=k
+;
+I have done as what you have said,
+
+wn.jn jb n <6,2> Hm=f qb(.w)
+;
+and the heart of <6,2> His Majesty was gladdened
+
+n mAA Xnn=sn
+;
+by seeing them row.
+
+aHa.n nxAw n mfkA<6,3>t mAt nt wat nt Styt
+;
+Then a fish-pendant of new turquoise of one of the strokes
+
+xr(.w) Hr mw
+;
+fell into the water,
+
+aHa.n sgr.tj <6,4> nn Xnt
+;
+and she became still, <6,4> without rowing.
+
+jj.n HD.n=s pAy=s rmn
+;
+And so it happened that she disrupted her side.
+
+aHa.n Dd.n=j n=s
+;
+Then I said to her:
+
+<6,5> tm=T Xn Hr-m
+;
+<6,5> 'Why is it that you're not rowing?'
+
+aHa.n Dd.n=s n=j
+;
+And she said to me:
+
+nxAw pw n mfkAt <6,6> mAt xr(.w) Hr mw
+;
+'This fish-pendant of new turquoise has fallen into the water.'
+
+aHa.n Dd.n=j n=s
+;
+Then I said to her:
+
+Xn mT jnk DbA=j <6,7> sw
+;
+'Row! Look, I myself will replace <6,7> it.'
+
+aHa.n Dd.n=s n=j mr=j Hnw=j r sntj=f
+;
+And she said to me: 'I prefer my own thing to its substitute.' &quot;
+
+aHa.n Dd.n Xrj-H<6,8>bt Hrj-tp ^DADA-m-anx Ddt=f m HkA
+;
+Then the chief lector priest Djadjaemankh said his magic spell
+
+aHa.n rDj.n=f <6,9> rmn n mw n pA S Hr wa=sn
+;
+and put <6,9> one side of the water of the lake on top of the other,
+
+gm.n=f pA nxAw <6,10> wAH(.w) Hr pAqyt
+;
+and found the fish-pendant <6,10> lying on a shard.
+
+aHa.n jn.n=f sw rDj n Hnwt=f
+;
+He then fetched it and gave it to its owner.
+
+jsT rf jr <6,11> pA mw jw=f m mH 12 Hr jAt=f
+;
+Now, as for <6,11> the water, it was twelve cubits in its middle,
+
+Dr.jn=f mH 24 r-sA wDb<6,12>=f
+;
+and it ended up being twenty-four cubits after its folding up.
+
+aHa.n Dd.n=f Ddt=f m HkA
+;
+Then he said his magic spell
+
+aHa.n jn.n=f nA n mw n pA <6,13> S r aHaw=sn
+;
+and returned the parts of water of the <6,13> lake to their positions.
+
+wrS.n Hm=f Hr hrw nfr
+;
+His Majesty spent a day of celebration
+
+Hna <6,14> pr-nsw a.w.s. mj qj=f
+;
+with <6,14> the entire royal household (l.p.h.!),
+
+pr.n fqA.n=f Xrj-Hbt Hrj-tp <6,15> ^DADA-m-anx
+;
+and finally he rewarded the chief lector priest <6,15> Djadjaemankh
+
+m bw nb nfr
+;
+with every good thing.
+
+mk bjAyt xprt <6,16> m rk jt=k nsw-bjtj ^snfr-wj mAa-xrw
+;
+Look, a wonder that happened <6,16> in the time of your forefather the
+king of Upper and Lower Egypt Snofru, justified,
+
+m jryt <6,17> Xrj-Hbt Hrj-tp sS mDAt ^DADA-m-anx
+;
+and that is something that the chief lector priest and book-scribe
+Djadjaemankh did.'
+
+Dd.jn Hm n <6,18> nsw-bjtj ^xwj=f-wj mAa-xrw
+;
+Then the majesty of the king of Upper and Lower Egypt Cheops,
+justified, said:
+
+jm Dj.tw mAa t 1000
+;
+'Let an offering be made of a thousand loaves of bread,
+
+Hnqt ds 100
+;
+a hundred jars of beer,
+
+<6,19> jwA 1 snTr pAD 2
+;
+<6,19> one ox and two balls of incense
+
+n Hm n nsw-bjtj ^snfr-wj
+;
+to the majesty of the king of Upper and Lower Egypt Snofru,
+
+mAa-xrw
+;
+justified,
+
+<6,20> Hna rDjt Dj.tw Sns 1 Hnqt Dwjw 1
+;
+<6,20> and let there be given one cake, one jug of beer
+
+snTr pAD
+;
+and a ball of incense
+
+n Xrj-Hbt <6,21> Hrj-tp sS mDAt ^DADA-m-anx
+;
+to the chief lector priest and book-scribe Djadjaemankh,
+
+jw mA.n=j sp=f n rx
+;
+as I have seen an example of his learning.'
+
+<6,22> jr.jn.tw mj wDt nbt Hm=f
+;
+<6,22> And one did as everything that His Majesty had ordered.
+
+aHa pw jr.n sA-nsw ^Hr-DD=f r <6,23> mdwt Dd=f
+;
+Then prince Hordedef stood up to <6,23> speak, and said:
+
+[...] sp [...] m rxt.n ntjw swA(.w)
+;
+'[...] deed [...] is something known by those who have passed away;
+
+n <6,24> rx.n.tw mAat r grg
+;
+one cannot distinguish truth from falsehood.
+
+jw wn xr Hm=k m hAw=k Ds=k <6,25> n rx=f [...]
+;
+There is (someone) under Your Majesty and in your own time <6,25> who
+does not know [...].'
+
+Dd.jn Hm=f jSst pw <6,26> ^Hr-DD=f sA=j
+;
+And His Majesty said: 'What is this, <6,26> Hordedef, my son?'
+
+Dd.jn sA-nsw ^Hr-DD=f
+;
+Prince Hordedef said:
+
+jw wn nDs <7,1> ^Ddj rn=f
+;
+'There is a commoner <7,1> called Djedi
+
+Hms=f m ^Dd-^snfrw mAa-xrw
+;
+who lives in Djed-Snofru.
+
+jw=f m <7,2> nDs n rnpt 110
+;
+He is <7,2> a commoner a hundred and ten years old,
+
+jw=f Hr wnm t 500 rmn n jH m <7,3> jwf
+;
+who eats five hundred loaves of bread, a shoulder of beef for <7,3>
+meat,
+
+Hna swr Hnqt ds 100 r-mn-m hrw <7,4> pn
+;
+and drinks a hundred jars of beer, up to this day.
+
+jw=f rx(.w) Ts tp Hsq
+;
+He knows how to mend a severed head.
+
+jw=f rx(.w) rDjt Sm <7,5> mAj Hr-sA=f
+;
+He knows how to make a lion walk behind him,
+
+sSd=f Hr tA
+;
+with its leash on the ground.
+
+jw=f rx(.w) Tnw jpAwt <7,6> nt wnt nt ^DHwtj
+;
+He knows the number of chambers <7,6> of the sanctuary of Thoth.'
+
+jsT wrS Hm n nsw-bjtj ^xwj=f-wj mAa-xrw
+;
+Now, the majesty of the king of Upper and Lower Egypt Cheops,
+justified, spent the day
+
+<7,7> Hr HHj n=f nA n jpAwt nt wnt nt ^DHwtj
+;
+<7,7> seeking for himself these chambers of the sanctuary of Thoth,
+
+r jrt n=f mjtt <7,8> jrj n Axt=f
+;
+in order to make something similar for himself, for his 'horizon'.
+
+Dd.jn Hm=f
+;
+His Majesty said:
+
+Ds=k jrf ^Hr-DD=f sA=j jntw=k <7,9> n=j sw
+;
+'You yourself, Hordedef, my son, will bring <7,9> him to me!'
+
+aHa.n sspd aHaw n sA-nsw ^Hr-DD=f
+;
+Then boats were prepared for prince Hordedef,
+
+SAs <7,10> pw jr.n=f m-xnt{X}yt r ^Dd-^snfrw mAa-xrw
+;
+and he went southward to Djed-Snofru.
+
+<7,11> xr-m-xt nA n aHaw mnj(.w) r mryt
+;
+<7,11> After the boats had been moored to the river bank,
+
+SAs pw <7,12> jr.n=f m Hrtj
+;
+he travelled overland
+
+snDm.n=f m qnjw n hbnj
+;
+seated in a palanquin of ebony,
+
+nbAw <7,13> m ssnDm
+;
+with poles <7,13> of <al>ssnDm</al>-wood
+
+gnX rf m nbw
+;
+plated with gold.
+
+xr-m-xt spr=f r ^Ddj
+;
+When he had reached Djedi,
+
+<7,14> aHa.n wAH pA qnjw
+;
+<7,14> the palanquin was set down.
+
+aHa pw jr.n=f r wSd=f
+;
+Then he stood up to greet him.
+
+gm.n=f <7,15> sw sDr(.w) Hr tmA m sS n [...]=f
+;
+He found <7,15> him lying on a mat at the threshold of his [...]
+
+Hmw Xr tp=f <7,16> Hr amam n=f
+;
+while a servant at his head <7,16> was anointing him,
+
+ky Hr sjn rdwj=fj
+;
+and another was rubbing his feet.
+
+aHa.n Dd.n sA-nsw <7,17> ^Hr-DD=f
+;
+Then prince Hordedef said:
+
+jw xrt=k mj anx tp-m tnj
+;
+'Your condition is like that of one who lives before the infirmity of
+old age
+
+xr jAwt <7,18> st-mnj st-qrs st-smA-tA
+;
+(although old age means <7,18> dying, laying to rest, and burial)
+
+sDr r sS<7,19>p Sw m xAt
+;
+and who sleeps till dawn, free from illness,
+
+nn kHkHt nt sryt
+;
+without an old age of coughing.
+
+nD-xrt <7,20> jmAxy pw
+;
+Greeting, <7,20> O blessed one!
+
+jj.n=j aA r njs r=k m wpwt
+;
+I have come here to summon you by order
+
+<7,21> nt jt=j ^xwj=f-wj mAa-xrw
+;
+<7,21> of my father Cheops, justified.
+
+wnm=k Spss n DD nsw
+;
+You will eat delicacies provided by the king,
+
+DfAw <7,22> n jmjw-Smsw=f
+;
+the foods <7,22> of his companions.
+
+sb=f Tw m aHaw nfr
+;
+He will lead you through a good lifetime,
+
+n jtw=k <7,23> jmjw Xrt-nTr
+;
+and to your forefathers <7,23> who are in the necropolis.'
+
+Dd.jn ^Ddj pn m Htp sp sn ^Hr-DD=f
+;
+And this Djedi said: 'Welcome, welcome, Hordedef,
+
+sA-nsw <7,24> mry n jt=f
+;
+prince <7,24> who is beloved of his father!
+
+Hs Tw jt=k ^xwj=f-wj mAa-xrw
+;
+May your father Cheops, justified, favour you.
+
+sxnt=f <7,25> st=k m jAww
+;
+May he advance <7,25> your position among the elders.
+
+SnT kA=k jxt r xft=k
+;
+May your spirit contend with your enemy
+
+rx bA=k <7,26> wAwt afdt r sbxt nt Hbs bAg
+;
+and may your soul know <7,26> the roads that lead to the portal of him
+who shelters the dead.
+
+nD-xrt <8,1> sA-nsw pw
+;
+Greeting, <8,1> O prince!'
+
+aHa.n Aw.n n=f sA-nsw ^Hr-DD=f awj=fj
+;
+Then prince Hordedef held out his arms to him,
+
+aHa.n <8,2> saHa.n=f sw
+;
+and <8,2> raised him up.
+
+wDA pw jr.n=f Hna=f r mryt
+;
+Then he proceeded with him to the river bank,
+
+Hr rDjt n=f a=f
+;
+giving him his arm.
+
+<8,3> aHa.n Dd.n ^Ddj
+;
+<8,3> Djedi then said:
+
+jm Dj.tw n=j wa n qAqAw
+;
+'Let me be given one of the barges
+
+jntw=f n=j Xrdw <8,4> Hr sS=j
+;
+so that it may bring me the children <8,4> and my books.'
+
+aHa.n rDj aHa n=f aHa 2 Hna jst=sn
+;
+Then two boats were made available to him, together with their crew.
+
+jwt pw jr.n <8,5> ^Ddj m-xd
+;
+And Djedi came northward
+
+m wsx ntj sA-nsw ^Hr-DD=f jm=f
+;
+in the barge in which prince Hordedef was.
+
+xr-<8,6>m-xt spr=f r Xnw
+;
+After he had reached the residence,
+
+aq pw jr.n sA-nsw ^Hr-DD=f
+;
+prince Hordedef entered
+
+<8,7> r smjt n Hm n nsw-bjtj ^xwj=f-wj mAa-xrw
+;
+<8,7> to report to the majesty of the king of Upper and Lower Egypt
+Cheops, justified,
+
+Dd.jn sA-nsw <8,8> ^Hr-DD=f
+;
+and prince Hordedef said:
+
+jty a.w.s. nb=j
+;
+'Sovereign (l.p.h.!), my lord,
+
+jw jn.n=j ^Ddj
+;
+I have brought Djedi.'
+
+Dd.jn <8,9> Hm=f
+;
+His Majesty said:
+
+js jn n=j sw
+;
+'Go and bring him to me!'
+
+wDA pw jr.n Hm=f r wAxj n <8,10> pr-aA a.w.s.
+;
+His Majesty then proceeded to the audience hall of <8,10> the palace
+(l.p.h.!),
+
+sTA.jn.tw n=f ^Ddj
+;
+and Djedi was ushered in to him.
+
+Dd.jn Hm=f
+;
+Then His Majesty said:
+
+ptj st ^Ddj <8,11> tm rDj mAn=j Tw
+;
+'How is it, Djedi, <8,11> that I haven't been made to see you
+(before)?'
+
+Dd.jn ^Ddj
+;
+And Djedi said:
+
+njsw pw jy <8,12> jty a.w.s.
+;
+'He comes who is summoned, <8,12> sovereign (l.p.h.!).
+
+njs r=j mk wj jj.kw
+;
+Summon me, and look, I've come.'
+
+Dd.jn Hm=f
+;
+Then His Majesty said:
+
+jn-<8,13>jw mAat pw pA Dd
+;
+'Is it the truth what they say,
+
+jw=k rx.tj Ts tp Hsq
+;
+that you know how to mend a severed head?'
+
+<8,14> Dd.jn ^Ddj
+;
+<8,14> And Djedi said:
+
+tjw jw=j rx.kw jty a.w.s. nb=j
+;
+'Yes, I know how to, sovereign (l.p.h.!), my lord.'
+
+<8,15> Dd.jn Hm=f
+;
+<8,15> Then His Majesty said:
+
+jm jn.tw n=j xnr ntj m xnrt
+;
+'Let me be brought a criminal who is in prison,
+
+wd <8,16> nkn=f
+;
+and let his sentence be executed.'
+
+Dd.jn ^Ddj
+;
+Whereupon Djedi said:
+
+n js n rmT jty a.w.s. nb=j
+;
+'But not to a human, sovereign (l.p.h.!), my lord!
+
+<8,17> mk n wD.tw jrt mnt-jrj n tA awt Spst
+;
+<8,17> Look, doing something like that to the 'noble flock' is not
+ordained.'
+
+aHa.n <8,18> jn n=f smn wDa tp=f
+;
+Then <8,18> a goose was brought to him and its head was cut off.
+
+aHa.n rDj pA smn r gb<8,19>A jmntj n wAxj
+;
+The goose was placed at the west side of the audience hall
+
+DADA=f r gbA <8,20> jAbtj n wAxj
+;
+and its head at the east side of the audience hall.
+
+aHa.n Dd.n ^Ddj Ddt=f m HkA
+;
+Then Djedi said his magic spell,
+
+<8,21> wn.jn pA smn aHa(.w) Hr HbAbA
+;
+<8,21> and the goose stood up, waddling,
+
+DA<8,22>DA=f m-mjtt
+;
+its head likewise.
+
+xr-m-xt spr=f wa r wa
+;
+After one had reached the other,
+
+<8,23> aHa.n pA smn aHa(.w) Hr gAgA
+;
+<8,23> the goose stood up, cackling.
+
+aHa.n rDj.n=f jn.tw <8,24> n=f xt-aA
+;
+Then he had a <al>xt-aA</al>-goose brought to him,
+
+jr.n.tw r=f m-mjtt
+;
+and the same was done to it.
+
+aHa.n rDj.n Hm=f jn.tw n=f kA
+;
+Then His Majesty had a bull brought to him,
+
+<8,25> sxr tp=f r tA
+;
+<8,25> and its head was felled to the ground.
+
+aHa.n Dd.n ^Ddj Ddt=f m HkA
+;
+Then Djedi said his magic spell,
+
+<8,26> aHa.n pA kA aHa(.w) Hr-sA=f
+;
+<8,26> and the bull stood up behind him,
+
+sSd=f xr(.w) r <9,1> {r} tA
+;
+its leash having fallen on <9,1> the ground.
+
+aHa.n Dd.n pA nsw ^xwj=f-wj mAa-xrw
+;
+Then king Cheops, justified, said:
+
+pA jrf Dd
+;
+'Now, what is said is that
+
+jw=k rx.tj <9,2> Tnw nA n jpAwt nt wnt nt ^DHwtj
+;
+you know <9,2> the number of chambers of the sanctuary of Thoth.'
+
+Dd.jn ^Ddj
+;
+And Djedi said:
+
+Hs<9,3>.tj n rx=j Tnw jrj jty a.w.s. nb=j
+;
+'I beg your pardon, I don't know the number thereof, sovereign
+(l.p.h.!), my lord,
+
+jw=j swt rx.kw bw ntj <9,4> st jm
+;
+but I know the place where it is kept.'
+
+Dd.jn Hm=f
+;
+Then His Majesty said:
+
+jw jrf Tn
+;
+'So, where?'
+
+Dd.jn ^Ddj pn
+;
+And this Djedi said:
+
+jw afDt jm <9,5> nt ds m at ^sjptj rn=s m ^jwnw
+;
+'There is a casket <9,5> of flint in a room called the Inventory in
+Heliopolis;
+
+(mk st) m tA afDt
+;
+(well, it is) in that casket.'
+
+(Dd.jn Hm=f js jn n=j sj)
+;
+(Then His Majesty said: 'Go and bring it to me!')
+
+Dd.jn ^Ddj
+;
+And Djedi said:
+
+<9,6> jty a.w.s. nb=j
+;
+<9,6> 'Sovereign (l.p.h.!), my lord,
+
+mk nn jnk js jnn n=k sj
+;
+look, I am not the one who will bring it to you.'
+
+Dd.jn Hm=f
+;
+Then His Majesty said:
+
+jn-m rf <9,7> jn=f n=j sj
+;
+'Who then <9,7> will bring it to me?'
+
+Dd.jn ^Ddj
+;
+And Djedi said:
+
+jn smsw n pA Xrdw 3 ntj m Xt n ^rd-<9,8>Ddt
+;
+'The eldest of the three children who are in the womb of Ruddjedet
+
+jn=f n=k sj
+;
+will bring it to you.'
+
+Dd.jn Hm=f
+;
+Then His Majesty said:
+
+mr=j js st
+;
+'I want it!
+
+nA Ddy=k ptj <9,9> sj tA ^rd-Ddt
+;
+These things you say, who is <9,9> she, this Ruddjedet?'
+
+Dd.jn ^Ddj
+;
+And Djedi said:
+
+Hmt wab pw n ^ra nb ^sAXbw
+;
+'She is the wife of a priest of Re, lord of Sakhbu,
+
+<9,10> jwr.tj m Xrdw 3 n ^ra nb ^sAXbw
+;
+<9,10> who is pregnant with three children of Re, lord of Sakhbu.
+
+jw Dd.n=f r=s
+;
+He has said about it:
+
+jw<9,11>=sn r jrt jAt twy mnxt m tA pn r-Dr=f
+;
+&quot;They will perform this magisterial office in this entire land.
+
+jw smsw n=sn-<9,12>jmy r jrt wr-mAw m ^jwnw
+;
+The eldest of them will be high priest in Heliopolis.&quot; '
+
+wn.jn Hm=f jb=f wA(.w) r Dwt Hr=s
+;
+And His Majesty fell into a bad mood at this.
+
+Dd.jn <9,13> ^Ddj
+;
+Then Djedi said:
+
+ptj jrf pA jb jty a.w.s. nb=j
+;
+'What's this mood, sovereign (l.p.h.!), my lord?
+
+jn jr.tw Hr pA <9,14> Xrdw 3 Dd.n=j
+;
+Was it caused by the <9,14> three children that I mentioned?
+
+kA sA=k kA sA=f kA wa jm=s(n)
+;
+First your son, then his son, then one of them.'
+
+Dd.jn Hm=f
+;
+Then His Majesty said:
+
+<9,15> ms=s jrf sj nw ^rd-Ddt
+;
+<9,15> 'When will Ruddjedet give birth?'
+
+(Dd.jn ^Ddj)
+;
+(And Djedi said:)
+
+ms=s
+;
+'She will give birth
+
+m Abd 1 prt sw 15
+;
+on the fifteenth day of the first month of the Season of Growing.'
+
+Dd.jn <9,16> Hm=f
+;
+Then His Majesty said:
+
+jw jsT<note>Chioffi and Rigamonti (2005) have <al>jw=s tj</al>.</note>
+Tsw nw ^rmwj Hsq(.w)
+;
+'But that's when the sandbanks of Two-Fish Canal are cut off.
+
+bAk=j A n st Ds=j
+;
+Might I visit it myself,
+
+kA <9,17> mAn=j tA Hwt-nTr nt ^ra nb ^sAXbw
+;
+so that <9,17> I could see the temple of Re, lord of Sakhbu!'
+
+Dd.jn ^Ddj
+;
+And Djedi said:
+
+kA rDj=j <9,18> xpr mw nw mH 4 Hr Tsw nw ^rmwj
+;
+'Then I will let <9,18> four cubits of water appear on the sandbanks
+of Two-Fish Canal.'
+
+wDA pw jr.n Hm=f r aH=f
+;
+And His Majesty proceeded to his palace.
+
+<9,19> Dd.jn Hm=f
+;
+<9,19> Then His Majesty said:
+
+jm Dj.tw m-Hr n ^Ddj r<note>The emendation here proposed by Blackman
+(1988) does not seem necessary.</note> pr sA-nsw ^Hr-DD=f
+;
+'Have Djedi assigned to the house of prince Hordedef,
+
+Hms=f <9,20> Hna=f
+;
+he will reside <9,20> with him,
+
+jr aqw=f m t 1000
+;
+and he will be provided with a thousand loaves of bread,
+
+Hnqt ds 100
+;
+a hundred jars of beer,
+
+jwA 1 jAqt <9,21> xrSw 100
+;
+one ox and a hundred bundles of vegetables.'
+
+jr.jn.tw mj wDt nbt Hm=f
+;
+And one did as everything that His Majesty had ordered.
+
+wa m nn hrw xpr(.w)
+;
+One of those days,
+
+wn.jn <9,22> ^rd-Ddt Hr Snt=s
+;
+Ruddjedet was suffering
+
+qsn mss=s
+;
+while her labour was difficult.
+
+Dd.jn Hm n ^ra nb ^sAXbw
+;
+Then the majesty of Re, lord of Sakhbu, said
+
+<9,23> n ^Ast ^nbt-Hwt ^msxnt ^Hqt ^Xnmw
+;
+<9,23> to Isis, Nephthys, Meskhenet, Heqet and Khnum:
+
+Hwj A SAs=Tn
+;
+'O may you go
+
+s<9,24>msy=Tn ^rd-Ddt m pA Xrdw 3 ntj m Xt=s
+;
+and deliver Ruddjedet of the three children who are in her womb,
+
+ntj r jrt jA<9,25>wt twy mnxt m tA pn r-Dr=f
+;
+who will perform this magisterial office in this entire land,
+
+qd=sn rAw-prw=Tn
+;
+for they will build your temples,
+
+<9,26> sDfAy=sn xAwwt=Tn
+;
+<9,26> provision your altars,
+
+swAD=sn wdHww=Tn
+;
+make your libation vessels abundant,
+
+saA<9,27>y=sn Htpw-nTr=Tn
+;
+and increase your divine offerings.'
+
+wDA pw jr.n nn nTrw
+;
+Then these gods proceeded,
+
+jr.n=sn xprw<10,1>=sn m xnyt
+;
+after they had changed their appearance into that of musicians,
+
+^Xnmw Hna=sn Xr qnj
+;
+and Khnum was with them carrying luggage.
+
+spr pw jr.n<10,2>=sn r pr ^ra-wsr
+;
+Then they arrived at the house of Reusre,
+
+gm.n=sn sw aHa(.w) dAjw sxd(.w)
+;
+and found him standing with his kilt upside down.
+
+<10,3> wn.jn=sn Hr ms n=f mnjt=sn sxmw
+;
+<10,3> Then they presented him with their menits and sistra.
+
+aHa.n Dd.n=f n=sn
+;
+He then said to them:
+
+<10,4> Hnwwt=j mTn st pw ntt Hr mn=s
+;
+<10,4> 'My ladies, look, there is a woman who is suffering,
+
+qsn ms=s
+;
+for her labour is difficult.'
+
+aHa.n Dd.n<10,5>=sn
+;
+Then they said:
+
+Dj=k mA=n sj
+;
+'Let us see her,
+
+mk n rx.wjn smsj
+;
+for we are knowledgeable about childbirth.'
+
+aHa.n Dd.n=f n<10,6>=sn wDA
+;
+And he said to <10,6> them: 'Come in!'
+
+aq pw jr.n=sn tp-m ^rd-Ddt
+;
+Then they entered, towards Ruddjedet,
+
+<10,7> aHa.n xtm.n=sn at Hr=s Hna=s(n)
+;
+<10,7> and they locked the room with her and them in it.
+
+aHa.n rDj.n sj ^Ast xft-Hr=s
+;
+Then Isis placed herself before her,
+
+<10,8> ^nbt-Hwt HA=s ^Hqt Hr sxAx mswt
+;
+<10,8> Nephthys behind her, and Heqet was hastening the birth.
+
+aHa.n Dd.n ^Ast
+;
+Then Isis said:
+
+<10,9> jm=k wsr m Xt=s m rn=k pwy n ^wsr=j-r=f<note>Historically, this
+should read <al>^wsr-kA=f</al>, &quot;Userkaf&quot;.</note>
+;
+<10,9> 'May you not be powerful in her womb, in this name of yours of
+Userref!'
+
+war<10,10>.jn Xrd pn tp awj=sj m Xrd n mH 1
+;
+And this child rushed into her arms, a baby of one cubit,
+
+rwD qsw=f nxbt <10,11> awt=f m nbw
+;
+his bones were strong, his limbs were destined to be of gold,
+
+afnt=f m xsbD mAa
+;
+and his scalp of real lapis lazuli.
+
+ja.jn=sn sw Sa<10,12>d XpA=f
+;
+And they washed him, after his umbilical cord had been cut,
+
+rDj Hr jfdj m Dbt
+;
+and he was placed on a couch of brick.
+
+aHa.n ms.n <10,13> sj ^msxnt r=f
+;
+Then Meskhenet approach him
+
+aHa.n Dd.n=s
+;
+and said:
+
+nsw jr.tj=fj nsyt m tA pn <10,14> r-Dr=f
+;
+'A king who will perform the kingship in this entire land!'
+
+^Xnmw Hr swDA Haw=f
+;
+And Khnum made his body healthy.
+
+rDj.jn sj ^Ast xft-<10,15>Hr=s
+;
+Then Isis placed herself before her,
+
+^nbt-Hwt HA=s ^Hqt Hr sxAx mswt
+;
+Nephthys behind her, and Heqet was hastening the birth.
+
+<10,16> Dd.jn ^Ast
+;
+<10,16> Then Isis said:
+
+jm=k sAH m Xt=s m rn=k pw<10,17>y n ^sAHw-^ra
+;
+'May you not kick in her womb, in this name of yours of Sahure!'
+
+war.jn Xrd pn tp awj=sj <10,18> m Xrd n mH 1
+;
+And this child rushed into her arms, <10,18> a baby of one cubit,
+
+rwD qsw=f nxbt awt=f (m nbw)
+;
+his bones were strong, his limbs were destined to be (of gold),
+
+afnt=f m xs<10,19>bD mAa
+;
+and his scalp of real lapis lazuli.
+
+ja.jn=sn sw Sad XpA=f
+;
+And they washed him, after his umbilical cord had been cut,
+
+rDj Hr <10,20> jfdj m Dbt
+;
+and he was placed on <10,20> a couch of brick.
+
+aHa.n ms.n sj ^msxnt r=f
+;
+Then Meskhenet approach him
+
+aHa.n <10,21> Dd.n=s
+;
+and <10,21> said:
+
+nsw jr.tj=fj nsyt m tA pn r-Dr=f
+;
+'A king who will perform the kingship in this entire land!'
+
+wn.jn ^Xnmw Hr <10,22> swDA awt=f
+;
+And Khnum made his limbs healthy.
+
+rDj.jn sj ^Ast xft-Hr=s
+;
+Then Isis placed herself before her,
+
+^nbt-Hwt HA=s <10,23> ^Hqt Hr sxAx mswt
+;
+Nephthys behind her, <10,23> and Heqet was hastening the birth.
+
+Dd.jn ^Ast
+;
+Then Isis said:
+
+jm=k kkw <10,24> m Xt=s m rn=k pwy n ^kkw<note>Historically, this
+should read <al>^kAkAj</al>, &quot;Neferirkare&quot;.</note>
+;
+'May you not stay dark <10,24> in her womb, in this name of yours of
+Keku!'
+
+war.jn Xrd pn tp <10,25> awj=sj m Xrd n mH 1
+;
+And this child rushed into <10,25> her arms, a baby of one cubit,
+
+rwD qsw=f nxbt awt=f m nbw
+;
+his bones were strong, his limbs were destined to be of gold,
+
+<10,26> afnt=f m xsbD mAa
+;
+<10,26> and his scalp of real lapis lazuli.
+
+aHa.n ms.n sj ^msxnt r=f
+;
+Then Meskhenet approach him
+
+<11,1> aHa.n Dd.n=s
+;
+<11,1> and said:
+
+nsw jr.tj=fj nsyt m tA pn r-Dr=f
+;
+'A king who will perform the kingship in this entire land!'
+
+wn.jn <11,2> ^Xnmw Hr swDA awt=f
+;
+And Khnum made his limbs healthy.
+
+ja.jn=sn sw Sad <11,3> XpA=f
+;
+And they washed him, after his umbilical cord had been cut,
+
+rDj Hr jfdj m Dbt
+;
+and he was placed on a couch of brick.
+
+prt pw jr.n <11,4> nn nTrw
+;
+These gods then went out,
+
+sms.n=sn ^rd-Ddt m pA Xrdw 3
+;
+having delivered Ruddjedet of the three children,
+
+<11,5> aHa.n Dd.n=sn
+;
+<11,5> and they said:
+
+nDm jb=k ^ra-wsr
+;
+'Rejoice, Reusre,
+
+mk ms n=k <11,6> Xrdw 3
+;
+for three children have been born to you!'
+
+aHa.n Dd.n=f n=sn
+;
+Then he said to them:
+
+Hnwwt=j ptj jrt=j n<11,7>=Tn
+;
+'My ladies, what can I do for <11,7> you?
+
+HA Dj=Tn pA jt n pAy=Tn Xr qnj
+;
+Please give this barley to your bearer,
+
+<11,8> jT=Tn n=Tn sw r swnt tnmw
+;
+<11,8> and accept it as a tip.'
+
+jwh<11,9>.jn sw ^Xnmw m pA jt
+;
+Then Khnum loaded himself with the barley,
+
+wDA pw jr.n=sn r bw <11,10> jj.n=sn jm
+;
+and they proceeded to where <11,10> they had come from.
+
+aHa.n Dd.n ^Ast n nn nTrw
+;
+Then Isis said to these gods:
+
+ptj nA <11,11> ntt n jj.wjn r=s
+;
+'What is it <11,11> that we have come for,
+
+nn jrt bjAyt n nA n <11,12> Xrdw
+;
+if not to perform a wonder for these <11,12> children
+
+smj=n n pAy=sn jt rDj jwt=n
+;
+that we may report to their father who let us come?'
+
+aHa.n <11,13> ms.n=sn xaww 3 n nb a.w.s.
+;
+Then <11,13> they created three lordly crowns (l.p.h.!),
+
+rDj.jn=sn st m pA <11,14> jt
+;
+and they put them in the <11,14> barley.
+
+aHa.n rDj.n=sn jwt pt m Da Hr Hwyt
+;
+Then they made the sky turn into storm and rain,
+
+<11,15> aHa.n an.n=sn st r pA pr
+;
+<11,15> and they returned to the house.
+
+aHa.n Dd.n=sn
+;
+They said:
+
+HA Dj=T<11,16>n pA jt aA m at xtm.tj
+;
+'Please put the barley here in a sealed room,
+
+r jwt=n <11,17> Hr xnt mHtj
+;
+until we return <11,17> from making music in the north.'
+
+aHa.n rDj.n=sn pA jt m at xtm<11,18>.tj
+;
+And they put the barley in a sealed room.
+
+aHa.n ^rd-Ddt wab.n=s m wab n hrw <11,19> 14
+;
+Then Ruddjedet became pure in a purification of fourteen days.
+
+aHa.n Dd.n=s n wbAt=s
+;
+Then she said to her maid:
+
+jn-jw pA pr <11,20> sspd(.w)
+;
+'Has the house been prepared?'
+
+aHa.n Dd.n=s
+;
+And she said:
+
+jw=f sspd(.w) m bw nb nfr
+;
+'It has been prepared with every good thing
+
+wpw <11,21> Hr hnww
+;
+except <11,21> for the jars;
+
+n jn.tw
+;
+they haven't been brought.'
+
+aHa.n Dd.n ^rd-Ddt
+;
+Then Ruddjedet said:
+
+tm<11,22>.tw ms jn hnww Hr-m
+;
+'But why haven't the jars been brought?'
+
+aHa.n Dd.n tA wbAt
+;
+And the maid said:
+
+<11,23> nfr pw smnx aA
+;
+<11,23> 'There is nothing for contents here,
+
+wpw Hr pA jt n nn <11,24> xnyt
+;
+except for the barley of these <11,24> musicians,
+
+jw=f m at Hr xtm=sn
+;
+which is in a room under their seal.'
+
+aHa.n Dd.n ^rd-<11,25>Ddt
+;
+Then Ruddjedet said:
+
+hA jn jm=f
+;
+'Go down and fetch it from there,
+
+kA jn ^ra-wsr rDj=f n=sn <11,26> DbA jrj m-xt jw=f
+;
+and Reusre will give them <11,26> compensation for it after he
+returns.'
+
+SAs pw jr.n tA wbAt <12,1> wn.n=s tA at
+;
+And the maid went <12,1> and opened the room.
+
+aHa.n sDm.n=s xrw Hsj Sma xbt wAg
+;
+Then she heard the noise of singing, music making, dancing, cheering
+
+<12,2> jrrt nbt n nsw m tA at
+;
+<12,2> and everything that is done for a king, in the room.
+
+SAs pw jr.n=s
+;
+Then she went
+
+wn.jn=s Hr wHm sDmt.n=s nbt <12,3> n ^rd-Ddt
+;
+and recounted everything she had heard <12,3> to Ruddjedet.
+
+wn.jn=s Hr dbn tA at
+;
+Then she went through the room,
+
+n gm.n=s bw jrrw st jm
+;
+but couldn't find the place where it was done.
+
+<12,4> aHa.n rDj.n=s mAa=s r pA XAr
+;
+<12,4> Then she put her ear to the sack,
+
+gm.n=s jr.tw m-Xnw=f
+;
+and found it was being done in it.
+
+aHa.n rDj.n=s <12,5> (sw) r pds
+;
+Then she put <12,5> (it) in a box,
+
+rDj m-Xnw ky xtm
+;
+which was put in another chest,
+
+jstnw m dHr
+;
+bound with leather.
+
+rDj.n=s st <12,6> r at wnnt Xr Hnw=s
+;
+She put it <12,6> in a room containing her belongings,
+
+xtm.n=s Hr=f
+;
+and locked it up.
+
+jwt pw jr.n ^ra-wsr <12,7> m jj m SA
+;
+Then Reusre returned, <12,7> coming from the land,
+
+wn.jn ^rd-Ddt Hr wHm n=f mdwt tn
+;
+and Ruddjedet recounted this matter to him,
+
+wn.jn <12,8> jb=f nfr(.w) r jxt nbt
+;
+and he was exceedingly happy.
+
+Hmst pw jr.n=sn Hr hrw nfr
+;
+Then they sat down for a day of celebration.
+
+xr-m-<12,9>xt hrww swA(.w) Hr nn
+;
+Now, when some days had passed after this,
+
+aHa.n SnT ^rd-Ddt jxt n tA wb<12,10>Ayt
+;
+Ruddjedet had a quarrel with the maid
+
+rDj.n=s xsf.tw n=s m Hwt
+;
+and had her punished with a beating.
+
+aHa.n Dd.n tA wbAyt <12,11> n nA n rmT ntj m pA pr
+;
+Then the maid said <12,11> to the people in the household:
+
+jn jrrt st nA r=j
+;
+'Is it done, this, to me?
+
+jw ms.n=s nsyw <12,12> 3
+;
+She has given birth to three kings;
+
+jw=j r Smt Dd st
+;
+I'll go and tell this
+
+n Hm n nsw-bjtj ^xwj=f-wj
+;
+to the majesty of the king of Upper and Lower Egypt Cheops,
+
+mAa-xrw
+;
+justified!'
+
+SAs <12,13> pw jr.n=s
+;
+And she went
+
+gm.n=s sn=s n mwt=s smsw
+;
+and found her eldest uncle on her mother's side,
+
+Hr mr mHj nwt <12,14> Hr xtjw
+;
+binding flax and yarn <12,14> on the terrace.
+
+aHa.n Dd.n=f n=s
+;
+And he said to her:
+
+jr=T r Tn jdyt Srt
+;
+'Where are you making off to, little girl?'
+
+<12,15> wn.jn=s Hr wHm n=f mdwt tn
+;
+<12,15> And she recounted this matter to him.
+
+aHa.n Dd.n n=s pAy=s sn
+;
+Then her uncle said to her:
+
+jr js <12,16> jrt=T pA jjt tp-jm=j
+;
+'And what is to be done <12,16> is what you do, coming to me,
+
+jw=j Hr snsn wTst
+;
+and I should join in the betrayal?'
+
+aHa.n TA<12,17>.n=f mHj SAj r=s
+;
+Then he took a bundle of flax to her
+
+aHa.n jr.n=f r=s sxt bjnt
+;
+and administered her a nasty blow.
+
+SA<12,18>s pw jr.n tA wbAyt r jnt n=s jkn n mw
+;
+Then the maid went to get a cup of water for herself,
+
+aHa.n jT<12,19>.n sj msH
+;
+and a crocodile snatched her.
+
+SAs pw jry r Dd st n ^rd-Ddt jn <12,20> pAy=s sn
+;
+Her uncle then went to tell this to Ruddjedet,
+
+gm.n=f ^rd-Ddt Hms.tj tp=s Hr mA<12,21>st=s
+;
+and he found Ruddjedet sitting in grief;
+
+jb=s Dw(.w) r jxt nbt
+;
+her mood was exceedingly bad.
+
+aHa.n dd.n=f n=s
+;
+Then he said to her:
+
+Hnwt=j jrr=T pA <12,22> jb Hr-m
+;
+'My lady, why are you in this mood?'
+
+aHa.n Dd.n=s
+;
+And she said:
+
+tA pw ktt xprt m pA pr
+;
+'It's the girl who grew up in this house.
+
+mk ms <12,23> sj Sm.tj r-Dd
+;
+Look, <12,23> she has gone, saying:
+
+jw=j r Smt wTs=j
+;
+&quot;I'll go and betray.&quot; '
+
+aHa.n rDj.n=f tp=f <12,24> m-Xrw
+;
+Then he bent his head <12,24> down
+
+aHa.n Dd.n=f
+;
+and said:
+
+Hnwt=j xn sj jj.tj r Dd n=j [...]
+;
+'My lady, in fact she came to tell me [...]
+
+<12,25> jry=s A r-gs=j
+;
+<12,25> she might go with me.
+
+aHa.n jr.n=j n=s sxt bjnt
+;
+Then I administered her a nasty blow.
+
+aHa.n=s S<12,26>m.tj r jkn n=s nhj n mw
+;
+Then she went to draw some water for herself,
+
+aHa.n jT.n sj msH
+;
+and a crocodile snatched her.'

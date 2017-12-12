@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Ptahhotep, Instruction of"/>
+<resource location="../resources/PtahhotepHiP.xml"/>
+<resource location="../resources/PtahhotepDevaudP.txt"/>
+<resource location="../resources/PtahhotepTrP.txt"/>
+<precedence
+  location="../align/Ptahhotep.xml"
+  resource1="../resources/PtahhotepHiP.xml"
+  resource2="../resources/PtahhotepDevaudP.txt"/>
+</text>

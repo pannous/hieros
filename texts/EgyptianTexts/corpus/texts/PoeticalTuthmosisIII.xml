@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Poetical stela of Tuthmosis III"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="199"/>
+<collection kind="kings" collect="Tuthmosis III"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="655-662"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 53-56"/>
+<resource location="../resources/PoeticalTuthmosisIIITr.txt"/>
+</text>

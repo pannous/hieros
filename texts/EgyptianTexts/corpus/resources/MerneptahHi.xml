@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Rosmorduc"
+  labelname="Ro"
+  created="2008-07-30"
+  modified="2009-06-09"
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Stela Cairo CGC 34025, also called the Merneptah stela or Israel
+stela.
+</p>
+<p>
+From W. F. Petrie, Six Temples at Thebes, 1896, 1897, pl. 13-14.
+</p>
+<p>
+Adopted from Serge Rosmorduc's MdC version, which is reported to
+include corrections proposed in KRI p. 41, l. 6-7. Reworked into RES
+according to Petrie's transcription. Further corrections are needed,
+and the transcription given here may not be reliable.
+</p>
+</header>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="a"/>
+nb:N17:N17-cartouche(C2[mirror]-C12-N36:n:E10)-nb:xa*Z1*Z1*Z1-
+cartouche(C12[mirror]-C10-N36:n:Htp:Hr*Z1)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="b"/> bH:d:t*niwt
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="c"/>x:n-sw*[fit]W-A40
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="d"/>nfr-Htp:t*p
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="e"/>i-mn:n:N5*Z1-sw-(t:Z1*Z1*Z1)*[fit]nTr-nb:pt-HqA*[fit]q-
+R19-T1:n:k-x*p:S:xpS-D40:k:r-q:n-Z9*[fit]D40:Hr*Z1-
+xAst:t*Z1:nb-nb:N17:N17-cartouche(C2[mirror]-C12-N36:n:E10)-
+nb:xa*Z1*Z1*Z1-cartouche(C12[mirror]-C10-N36:n:Htp:Hr*Z1)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="f"/>
+bH:d:t*niwt-sw:t-bit:t-cartouche(C2[mirror]-C12-N36:n:E10)-
+H8*N5:nb:xa*Z1*Z1*Z1-cartouche(C12[mirror]-C10-N36:n:Htp:Hr*Z1)-
+nb-t*[fit]G15-nb:pt-i-Y5:n:N5*Z1-nb:g*g*g:N17:N17-
+D19:i*(p:t)-t:st-O42[mirror]:p:D40-n:k-x*p:S:xpS-D40:r-
+xAst:t*Z1:nb-S23:M-b-T21:Z1*[fit]a
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="1"/>M4*[fit](.:t:zp)-Z1*Z1*Z1:.*Z1*Z1*.-Abd[scale=0.7]:Z1*Z1*Z1-
+S:n:n:n-ra[scale=0.7]:Z1*Z1*Z1-x:r-Hm-Z1:n[scale=0.5]-
+insert[te](G5*.,N6)-[fit].*E1:D40-A28-M:(mAa[mirror,rotate=90]:t)*[sep=0.5,fit]C10-
+M23:t-bit:t-cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+insert[te](zA,N5)-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+z:aA:a:Y1-F9*F9:t*y:D40-s-[fit].:q[scale=0.7]-[fit]
+A28-[sep=0.5,fit]xpS:D40-N-[sep=0.5]insert[te](G5,N6)-[sep=0.5,fit]
+.*E1:D40-[sep=0.5]H-A24-T9a:t*Z1*Z1*Z1:Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]-
+di-V10:f:n-H*[sep=0.5]N5[scale=0.7]*[sep=0.5]H-insert[bs](D,t:.:N17)-
+z*.:[sep=0.1]insert(D,d:t*A2)-[fit]n:A-i*i:N33*N33*N33:[sep=0.1]f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>n:xt:insert(.*t[scale=0.5]:D40,x):Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]-
+M:N17:N17:N17:nb:Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]-
+r:[sep=0.5,fit]di*[fit](a:.:t)-G3-[sep=0.5]M:D6:tA:Z1[scale=0.7]*N21[scale=0.7]:nb-[sep=0.5]
+S23:d:Y1-[sep=0.5]r:di*(.:t)-D6:(.:t)*W-nfr-M:n:A-
+i*i:Z1*Z1*Z1:f-q:n:Z9[scale=0.7]:[fit]D40-Z3-M23:t-
+bit:t-cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+insert[te](zA,N5)-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+pA-E1:nb-F9*F9:D40-T30:D40-xrw-i-i-A14a:N33*N33*N33:f-
+a:n:D6-Hr*Z1:E10:W*y-N21*Z1:n:q:[sep=0.5]n:[sep=0.5]Z9[scale=0.5]:[sep=0.5,fit]D40-
+h:n:d:D41:[sep=0.5]f-xpr:r-Sw-W:N5:Z1-k:f:pH:Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="3"/>Sn:n:a:N4-wn:n:W*Hr*Z1-km:t:niwt-di-[sep=0.5,fit]insert[s](U2,D4):.*D12*D12-
+tA:U7:[sep=0.2,fit]i*tr*(.:niwt:niwt)-[sep=0.1]F29-[sep=0.5]
+W:t:N8-i-[sep=0.5]t:n:.:N5[scale=0.5]-r:i*(W:D54)-
+Dw^&quot;?&quot;:O39*Z1:n:N34[mirror]*(N33:N33*N33*N33)-Hr*Z1*.:nH*H-[sep=0.2]
+b:t:F51-p:[fit]a:A1*B1-Z3-D37:f:TAw*[fit](W:Z1*Z1*Z1)-
+n:G24:Z1*Z1*Z1-[sep=0.4]wn:n:W-n*.:t:F1:D40-[sep=0.8,fit]
+i-a:n:[sep=0.5]n:[sep=0.5]n:ib*Z1-n:Hwtcloseover(p:t-H-empty[width=0.0,height=0.3]:kA:niwt)-
+M:n:A-[fit].*i*i*.:z:n:Z1*Z1*Z1-.*x*t:[sep=0.5,fit]f:A14a[rotate=345]:Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]-[sep=0.5]
+di-r:S:F1:Z1*Z1*Z1-[sep=0.5,fit]C12-M:n:A-.*i*i*.:N33*N33*N33:f-
+s-[fit]b-i-W:[fit]A14a[rotate=345]:Z1*Z1*Z1-wn:n:O31-
+s-[fit]sbA[scale=0.7]*[fit]b-O32:Z1*Z1*Z1-n:inb*(Z1*Z1*Z1:niwt)-
+wn:[sep=0.5]n:DbA*b-[fit]W[scale=0.4]:.-[fit]inb:[fit]D40-
+X8-[sep=0.5,fit]O42:(t:.)*p:[fit].*D40
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="4"/>r*Z1:pr*Z1:niwt[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]:[sep=0.0]f-
+n:A-.*i*i*.:[sep=0.5,fit]z:[sep=0.5]n:[sep=0.5]Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]-[sep=0.5]
+S:b*(W:Y1:Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7])-
+M23:t-[fit]bit:t-[fit]cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+insert[te](zA,ra)-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+T21:a:Z1-s-mn:n:U32*Y1[rotate=270]-HAt:t*W:[sep=0.1]i*i*Z3*.-
+ib:Z3-n:.*Hfn:[fit]nw:Z1*Z1*Z1-aq*.:q*D54-[fit]TAw-[fit]
+empty[width=0.0,height=0.5]:W:Z1*Z1*Z1-r:D19^&quot;?&quot;*W:Z2-
+n:pA-insert[ts](U2,ir):N33*N33*N33:[sep=0.5]f-s-d:bH:Z9[scale=0.7]:[fit]D40-
+pA:tA:Z1*N21-n:U32*m-[sep=0.5]H-[sep=0.5]T14:N25-M:aHa*(a:ra*Z1):f-
+n:anx*(n:x)-di-Hr:r-i-i-Aa19:[sep=0.7]D40:Z2-n:H*ra[scale=0.8]*H
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5"/>M:ib*Z1:M:[sep=0.5]a-SA:A-wA:A-SA:A-[fit]T14:empty[width=0.5,height=0.0]*N25-[fit]
+D37:[sep=0.5]f:xt:[sep=1.5].*x*t-i*i*.:[fit]D55-[fit]
+r*Z1:[fit]b*W*[fit]T14:.*N25-d:g*[fit]A:z:D54-km:t*O49:n:r-
+i*i:[sep=0.3]nr:[sep=0.5,fit]D40-O29[rotate=90]-M:HAt:(t:.*Z1*Z1*.)*[sep=0.5](ib:Z1*Z1*Z1)-
+z:n:Z2:n:tA:[sep=0.5]U7-i-M7-[sep=0.5]O49:O49-n*.:A*[sep=1.0,fit]i*i-
+z:n:Z2:Sm-M:W*[sep=0.3]D54:n-Hr*Z1:w*Z3-xA*A:[sep=0.5]a:[sep=0.5]D54-
+w:Z2-pH:W*W:Z2-b*w:ir:r-r:d:rd*[fit]rd-w:Z2-z:mn:n:U32*Y1[rotate=270]-
+wp:p*W:Y1-Hr*Z1*p:d:rd*[fit]D54-xA*A:[sep=0.5]a:[sep=0.5]W*D54-
+n:A*[fit]i*i:z:[sep=0.4]n:[sep=0.4]Z2-F29*i*i:T11:t*[sep=0.5]D40-
+A2:Z2:.-n:A*i*i:z:n:Z2-T10:t*Z1*Z1*Z1:ib*Z1:n-n:[sep=0.5]A*i*i:z:[sep=0.5]n:Z2-
+z:x:z:rd*[sep=0.5,fit](D54:Z1*Z1*Z1)-X:z:[sep=0.5].*i*i*.
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6"/>G37:M:[sep=0.5]M-a:S:a:[sep=0.5]rd*D54-n:t:[fit]f:[sep=0.5]D40:[sep=0.5]W*Z1*Z1*Z1-
+n:A*[fit]i*i:z:[sep=0.2]n:Z2-F26:n:F27[shade]^&quot;?&quot;*Z1*Z1*Z1-
+H-[sep=0.5]W[scale=0.8]-[sep=0.5]i-i-A27-r:E9:[sep=0.2]t*.:n-
+N21:N33:N33:N33-n:A*i*i:W*Z1*Z1*Z1-g:A-wA[mirror]:A-
+n:A:F51[mirror,rotate=90]*Z2-[fit]T:[fit]t:[sep=0.5]Z9[scale=0.7]:[fit]D40-
+xA*A:[sep=0.5]a:D54-[fit]r:b*w-n:r:N31:D54-pA-A19-
+X:z:G37-x:r:A14a-n:r*Z1:[fit]b*(W*T14*.:[fit].*N25)-
+W:[fit]a:r-rd:D54-M:nfr*(Z1:Y1:Z2)-g:[sep=0.5]r*.:[sep=0.5,fit]H*(N1:[fit]N14)-
+n:[sep=0.5]T21:[sep=0.5]a*Z1:G37:[sep=0.5,fit]f-b*.:n-[fit]
+mH:[sep=0.1]empty[width=0.4,height=0.0]*H*t*Sw-[sep=0.5]
+.*Hr*Z1*.:.*tp*Z1*.:f-[fit]r:d:rd*[fit]rd-f:d:g*[fit]A-
+i-i-G37:D54-i-TA:A-D51:[sep=0.0]D40:n:[sep=0.4]A-i*i:Z2:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7"/>N42:t:B1:Z2-r:[sep=0.5]x:[sep=0.5,fit]f:t:Hr*Z1:[sep=0.2]f-
+n:N42:M:W:[fit]D40-n*empty[width=0.4,height=0.0]:[size=inf]A*[sep=0.5,fit]A-[sep=0.7,fit]
+q:W:empty[width=0.0]-D51:[fit]U9:[fit]N33:Z2-n:pA-[sep=0.5,fit]
+.*i*i*.:[fit]f-[sep=0.5,fit]d:r:[sep=0.3]p*W*.:[sep=0.5].*iw*.:[sep=0.5].*Z1*Z1*Z1*.-[sep=0.5,fit]
+b:n[scale=0.8]-[fit]n:f:n[scale=0.8]:n[scale=0.8]:n[scale=0.8]-
+n:insert[bs](Sd,d):t*W*.-[sep=0.5]n:s*anx-[fit]n[scale=0.7]:x:f-[fit]
+Hr*Z1:n:A-[fit]i*i:Z2:f-sn:.-n:nw*W:[fit]A1*B1:Z2-
+H-s-insert[s](.*A,Aa18)-[fit]i-i-.:D6:D54-r:z:G3-T30[rotate=15]*.:[fit]D40:f-[fit]
+T21:[fit]Z1:[fit].*D40:.*Hr*Z1-aHA:D40:[fit].*Z1*Z1*nw:[sep=0.6,fit]f-
+M:n:A*[fit](i*i:.):Z2-f:[sep=0.5]HAt:W*[fit](t*Z9:(y:.)*[fit]D54)-
+A1:Z2-DA*A*[fit]Q7:[size=1.4]f*.-[sep=0.5]n:A*i*i:W*.*Z1*Z1*Z1-[sep=0.5]
+i-h:i*i-pr[scale=0.5]:Z1*Z1*Z1-ir:w-M:s*s-f:Q7-[sep=0.4,fit]
+.*x*t:Y1:[sep=0.5].*Z1*Z1*Z1:[fit]f:nb-M:imi*[fit]insert[te](m,t)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8"/>A2:Z2-n:mn:n:f-i-i-A12:Z1*Z1*Z1-F42:[fit]r:[sep=0.5]D54:f-
+r:N25:(t:.)*Z1:[fit]f-i*w:f-M:n:(empty[width=0.0,height=0.3]:W)*[fit](x:.)*[fit](empty[width=0.0,height=0.5]:Z1)*(empty[width=0.0,height=0.5]:Z1)-
+A2:Z1*Z1*Z1-z:p*zp:Y1:nb-M:tA:Z1*N20[scale=0.7]:[sep=0.3]f-
+S:p:K4:t*W-D19:Y1:O42:[sep=0.5]p:[fit]D40:[sep=0.2]f-
+A19-[sep=0.2]U35-[sep=0.3]Z9:G37-SA:A-i-i-E14-[fit]
+b-i-n:G37:.-mH:[sep=0.0]H*t*H6-x:r:W*Z1*Z1*Z1-r*.:f:.-[fit]
+r:Dr:r-w:Y1:Z2-[fit]M:n:A-i*i:Z1*Z1*Z1-d:mi*i*[sep=0.5](N21:Z1:f)-
+sw-[fit]w-[fit]M:G30-w:[sep=0.2]Y1:Z2-[fit]n:nTr*(A40:Z1*Z1*Z1)-
+nb:W*Z1*Z1*Z1:[sep=0.4]mn:n-nfr-[sep=0.5]O24:O49-[fit]
+ir:w-[sep=0.5,fit]i-i
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9"/>pA-nb:A40-n:km:(.:t)*O49-s-H-wr:r-A2-r:n:A2[scale=0.7]:[sep=0.5,fit]f-
+M:a:W*(r:Z1)-N36:(N21:Z1)*i*i*T14-[sep=0.2].*A1:M:.-[fit]
+b-w:t*Z1*Z1-K4:Y1:empty[width=0.0,height=0.5]:n-O36-
+HD-O49*.:[fit]T21:[fit]Z1:[fit]a-H8*Z1:T21:[fit]Z1:[fit]a-
+M:a:h[scale=0.7]*[sep=0.5,fit]A-[sep=0.6]A1*B1:.*Z1*Z1*Z1:f-
+r:[sep=0.5,fit]insert[bs](D,t:tA:ir)-cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+M:(Aa18:Z1)*ms*[sep=0.5]s-[sep=0.5,fit]insert[be](A17*[fit].,Z1*Z1*Z1):[sep=0.4]f-
+D37:i*i*t-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+n:f:r:SA-A-[fit]i-i-E14-[fit]sw-[fit]w-[sep=0.6,fit]
+xpr:r-[fit]M:(H:.)*A24:.-t:empty:D40
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10"/>z:[sep=0.7,fit]insert(D,d:t)-A2:Z2-[sep=0.4]n:r*Z1:[sep=0.5,fit](.:b)*W*[sep=0.5](T14:N25)-
+DA*A:M*W-A17:Z1*Z1*Z1-Hr*Z1:[sep=0.5]insert[bs,sep=0.5](D,d:n)-
+DA*insert[te](A,W):M-A17:[sep=0.5]Z1*Z1*Z1-M:n:[sep=0.5]A*[fit]i*i-
+N33*N33*N33:[sep=0.3]f:n:[sep=0.5]insert(xt:D40,x*t):[sep=0.3]N33*N33*N33-
+b:W-ir:r:f-r:r:n:Z2-a:n:D55-Dr*.:pA-[fit]r:ra:Z1-[fit]
+.:A40-[fit]x:r:f-M:i*w-i*i*A19:[sep=0.4,size=inf].*N33*N33*N33-
+nb:Hr*Z1:insert[bs](D,d)-n:insert[te](zA,Z1):f-b:n:d-
+G37:[sep=0.5]n:r:[sep=0.5]Z1-b:W-[sep=0.5]T14:N25-
+Aa8:[sep=0.5]n:Y1:z:[sep=0.5]n:Z1*Z1*Z1-anx-empty[width=0.0,height=0.4]:n:x-[sep=0.5]
+s-[sep=0.5]x:r:Y1-nfr-n:[sep=0.4]qd*(d:d:D54)-M:F26:[sep=0.5]n:nw*W*pr-
+insert[te](A,t):M20*(t:N20[scale=0.5]:Z1)-n:[sep=0.5]N41:[sep=0.5]M:[sep=0.5]W:[fit]D40-
+A*[fit]i*i:z:[sep=0.4]n:[sep=0.5]N33*N33*N33-D54*(t:Z1):M:[sep=0.5]T21:[sep=0.5]Z1:[fit]a
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11"/>h:r:W*ra*Z1-T:H*[sep=0.5,fit](n:.*(nw:W)*T14)-A1*B1:Z1*Z1*Z1*N25-
+r:H*(W:y)*[fit]Q7-M:[size=1.3]rnp*[fit](.:t:Z1)*(T21:[sep=0.6]Z1:[fit]a)-
+xA*A:[sep=0.5]a:[sep=0.5]D54-sw-[sep=0.5]w-t:x-E20-[sep=0.5]
+HA*A:empty[width=0.4,height=0.0]*tp*Z1:[sep=0.5,fit]f-[sep=0.5]
+r:pA:.-i*i:z:n:Z1*Z1*Z1-A19:[sep=0.5]x:[sep=0.5,fit]f-
+V12*.:[fit]D40:n:A-i*i:z:n:Z2-w*[sep=0.7,fit]H*[fit]y*[fit]w:[size=1.4]niwt*Z2-
+Xr*r:[size=1.3]st*(t:pr)*(r:Z1:[fit]f)-[fit]b:n:.-[fit]
+kA:t-A9:Y1:Z2-n:f:insert[te](A,t)*.-[fit]A9:[size=1.5](x:n)*i*D19^&quot;?&quot;-[fit]
+M:n:insert[te](A,y)-[fit].*h:r:[sep=0.5,fit]W*(ra[scale=0.5]:Z1*Z1*Z1)-
+insert[te](Ax,x):Y1-kp:p*W:[sep=0.5,fit]A16-[sep=0.6]
+i-W:t:W-w*DA:Y1-[fit]A:M-t:[sep=0.5]A-[sep=0.5]b:g-
+A:r*Z1-T:i*(t:pr)-pA:nb-aA[rotate=90]-n:(km:t:O49)*[sep=0.2]wsr-
+z:r:[fit]D40
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12"/>n:xt:x*t*.:D40-n:insert[b](F20,z:.*Z1*Z1*.):Y1-[sep=0.5]
+sw-[fit]w-[fit]n:y:M:a-aHA:A*[sep=0.5,fit](W:y)-D40:Hr*Z1:[sep=0.6,fit]r:x:Y1-
+w:z:t:n-nw*W:rd*[fit]D54:f-xA-[sep=0.5]A-[sep=0.2,fit]
+i-[sep=0.5]N-[fit]i-W:G37-[fit]D35:.*(t:Z1*Z1)*HAt:empty[width=0.4,height=0.0]*(t:y)*ib-
+pA:n:t*y-Hr:Z1-O42:p:[fit]D40:[sep=0.3]f-b*w:.*(x:M)-
+D35:.*f:.*n:.*f-[sep=0.5]insert[e](insert[t,x=0.7](insert[s](.*A,dwA),ra)*.,t)-[sep=0.3,fit]
+pA:h-A:rd*[fit]D54-insert[te](t*.:A,U30)-S:Z9[scale=0.8]:[fit]D40:f-
+i-r:km*.:t*O49-x:r:t*W-Dr:r-nTr-A40:Z1*Z1*Z1-t:A-S:r:i-[fit]
+.:t[scale=0.5]*[fit]A17-T21:Z1:[fit]a:W*(t:Z1*Z1)-
+n:[size=1.2]pA*(ra:Z1)-insert[te](zA,Z1):f-pA:[sep=0.0]n:t:y
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13"/>insert[te,sep=0.5](empty[width=0.0,height=0.2]:insert[s](.*A,t),Hr*Z1)-[fit]
+i-s-p*t:pr-n:pA:.-Sw-[fit]insert[te](w,ra)-[sep=0.4]
+A40-b-W:ir:r-HAt:(t:Z1*Z1)*ib-[fit]qd-d:Y1:n:t-h:rd*[fit]D54-
+r:V14:A1*B1-Z2:t*W:z-ir:t*Z1:n-nTr*A40:nb-M:Aa18*Z1:a-
+wn:insert(n:D40,W)-z:n:t:z-W25:n:z-pH:W*y:n:x:[fit]f-
+insert[bs](empty[width=0.3,height=0.0]*A14a,t):Z2:z-
+x:r:W:Z2-M:n:A-insert[te](G38*empty[width=0.4,height=0.0],ir):[fit](.:W)*(Z1:.)*(Z1:.)*(Z1:.)-
+A1:[sep=0.5]n:n-A*i*i:(z:n)*Z1*Z1*Z1-dwA:[fit]A40-
+Z1:(empty[width=0.0,height=0.2]:Z1)*(Z1:.)*(empty[width=0.0,height=0.2]:Z1)-
+r:x:[sep=0.2]i*i-Y1:Z2:r:Z1-z:n:Z2:nb:W*Z1*Z1*Z1-M:n:U19:nw*W-
+D6:r:[sep=0.3]r*W:[sep=0.3]P5*Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14"/>U16:t*Z1*Z1*Z1:aA:t-[fit]xpr:r-ti-[fit]i-n:tA:U7-i-
+M7-O49:O49-D37:D37-pH:D54-[fit]sw-[fit]w-[fit]d:t*Z1:empty[width=0.0,height=0.4]:z-
+M:s*q*i-A13-[sep=0.5]anx-M:z^&quot;?&quot;:zH*Z1-A2:N33*N33*N33:n-
+sw-[sep=0.3]A40-[sep=0.6]nTr-t:r:y-C10-t*y:Y1:r-x[scale=0.8]:[fit]f:(.:t)*[fit]A14a:Z1*Z1*Z1-
+f:M:D53-[sep=0.5]pA-ra:Z1-A40-[sep=0.5]M:a:r*Z1-N36:i*i*T14-
+A19-[sep=0.6]pA:ir-Dw:W*t:G37-Z1*Z1*Z1:s*(d:x)-i-i-
+A14a:N33*N33*N33:n-nTr*A40:nb-n:t*y:m-O36-Z1*Z1*Z1:O49-[sep=0.5,fit]
+sw-[fit]w-[fit]wp:p:W-[fit]i*[sep=1.5,fix]i:Z9:Y1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15"/>H-n:a:f-M:iwn*(nw:O49)-ir:i*i-sw-[fit]w-[fit]insert[te](A,t)-[fit]
+insert[bs,sep=0.2](.*nTr,(N10:t:Z1*Z1*Z1)*empty[width=0.0,height=0.0,firm])-
+M:[sep=0.5]a:[sep=0.5]DA*[fit]A-G37:Hr*Z1-[sep=0.5]
+b-t:U30-A-G37:Z2:f-insert[bs](D,empty[width=0.0,height=0.0,firm]:d:W)-
+nb:r-Dr:r-A40-i-M:M:a-pA:[fit]F23:[sep=0.4]D40-n:insert[te](zA,Z1)-
+A1-[sep=0.5,fit]q:[fit]a:.*T14*T14*Y1[rotate=270]-
+HAt:(t:Z1*Z1)*ib-n:a:D6-[sep=0.7,fit].:.:y[scale=0.6]:.-[sep=0.6,fit]
+A2-s-[fit].*f:.*n:.:y*D19-[sep=0.5]A2-[sep=0.4]cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+pA-n*.:(h[scale=0.7]:.:p)*A2-Hr[scale=0.7]*Z1:Hwtcloseover(p:t-H-kA:O49)-
+W:S-b:t-Z9:A2
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16"/>iwn-nw:O49-wn:n:O31[scale=0.8]:[sep=0.5,fit]D40-d:mi*i*(N21:Z1:Z1*Z1*Z1)-
+wn:n:W:[fit]D40-x*t:M:[sep=0.4]V9[scale=0.7]:[fit]D40-
+wHa:a:[sep=0.3]D40:f-q:n:nw*W:[fit]Y1:Z2-insert[s](D,empty[width=0.0,height=0.0,firm]:d):[sep=0.8,fit]H*(W*.:D40)-
+M:Aa8:(t:Z1)*O49:nb-insert[t](D37,t):f:[fit]Htp:(t:p)*(iw:Z1*Z1*Z1)-
+n:n:[sep=0.3]A-r*Z1:Z2:pr*Z1:Z2-O49:(.:[sep=0.5].:[sep=0.5]Z1)*(.:[sep=0.5]Z1:[sep=0.5].)*(Z1:[sep=0.5].:[sep=0.5].)-
+di:f-[fit]z:[fit].*q[scale=0.8]:[fit]insert[be](aq:D54[scale=0.7]*.,t:W)-
+nTr*sn-N33:N33:N33-M:D53:Y1-nTr-A40-di:f-xA-A-[fit]
+M:.*i*i-D41:D40-sr:Z1*Z1*Z1-x*t:[sep=0.5]Y1:Z2:W*Z1*Z1*Z1-
+di*.:f-[sep=0.5,fit]insert[be]((.*q:[fit]r:i)*.,D54)-[fit]
+n:[size=1.3]nm*m-[sep=0.5]H-[sep=0.2](.:W)*[fit]A17:.*Z1*Z1*Z1-
+n:A*i*i-z:n:Z2:O49*(t:Z1*Z1*Z1)-i*A2:n:[sep=0.5]z:[sep=0.5]n-
+Z2:M:nb:W*Z1*Z1*Z1-iwn-nw:O49
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="17"/>r:insert[te](zA,Z1)-A40:W*Z1*Z1*Z1-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+i-M:M:[sep=0.3]a:n:f-aHa-a:(ra:Z1)*mi-ra:Z1-A40-insert[t](w*b,S)-
+Z9[scale=0.8]*[sep=0.7,fit]A2:[fit]f-pA:[sep=0.5]n:t*y-[sep=0.5]
+i-A-[sep=0.3,fit]d:empty[width=0.3,height=0.0]*wA[mirror]:.-
+G37:M:D37-N25:t*Z1:nb:t-s-V25-insert[bs](D:.,Y1:n:f)-
+km:t*O49:r:Z1-S:t*Z9:n:d-n:V11[scale=0.7]:[sep=0.7]Y1[rotate=270]*sw*[fit]w-
+n:f:[fit]r-H-[sep=0.5]ra[scale=0.8]-[sep=0.5]H-n:[sep=0.5]insert(xt:D40,x*t):f-
+A1*B1:N33*N33*N33:[fit]t*W:[fit]z-M:a:k-N42:s-[fit]
+A17a:[fit](.:t)*W-M:r:k:W*ra-[fit]pA-[sep=0.5,fit]
+ti-n:N33*N33*N33:r:[sep=0.5]Z1:[fit]D40-xpr:r-insert[b,x=0.7,fix](P5*(W[scale=0.7]:.),W)-[sep=0.3]
+Z3
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18"/>n:anx*(n:x)-Hr*Z1:a:Z1*W*Z1*Z1-q:n:D40:z-x:d:W:n:n:n-
+x*t:Y1:Z2:n-pA-mAa:t*y:Y1-b*(g:r):n-i-i-grg:G37-[sep=2.0]
+xA-A:M-[fit]i*i*(n:.):[sep=0.5,fit]D41*.:D40*.-[fit]
+.:A-[fit]i-[sep=0.5]i-Z2:a:f-wn:insert(n:D40,Z9)-ib*Z1:G37:Z2-
+pA:n:y-Hr*Z1:n:U19:[fit]nw*W-i*i:insert[t](.:D40,t)-
+d:n:Z1*Z1*Z1*nw:n-i-iz-s-f:t:G37:[sep=0.5]Z2-pH:t*W:N33*N33*N33:n:k-
+x*t:W:Y1:Z2-D35[scale=1.8]:[size=2.0](n*.:X:[sep=0.1]r)*(W:.)-[fit]
+A17-[sep=0.6]A1*B1:Z2-insert[bs](D,d:t*W)-[fit]sw*[sep=0.3]sw:n:n-
+M:a:.*Z1*Z1:r-Z1*Z1*W*.:[size=0.6]i*i-[sep=0.3]insert[ts](empty[width=0.0,height=0.3]:A19,Z1*Z1)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="19"/>pA:(x:[sep=0.5]M)*[fit]W-X:z:insert[te](G37,y)-x:r:W:D55-
+A14a:n-r*Z1:[fit]b[scale=1.44]*(W*[fit]T14*.:N25)-
+ii*i*i:D54-[fit]r:[size=1.5](.*t:h*.)*[fit]A-[fit]
+rd:D54-O36-[sep=0.5]Z1:Z1*Z1*Z1-A23-[sep=0.5,fit]O49:n:t*y:nb:z-[fit]
+insert[te](w*.,n:.*nw[scale=1.2])*[sep=0.5,fit]b-insert[te](zA,Z1):f-
+r:st*(t:pr:f)-sw*L2:[size=inf].*t*t-cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+insert[te](zA,ra)-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+insert[bs](D,d:W)-p:t-H-r:x:r:W-r*Z1:b*w-[fit]T14:N25-
+z:H*(W:Z1*Z1)-G41:Y1-[fit]b:t-t*U30:A-[fit].*G37:[sep=0.2]Z2:f
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="20"/>nb:V25*b-w:F48:Y1-Hr*Z1:tp*Z1:f-i-M:M:a-sw-[fit]w-[fit]
+M:d:t*Z1-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+D37:f-[sep=0.2]b:.-S:D26:f-a:G3-[fit]M:.*F10*empty[width=0.4,height=0.0]:[fit]f-
+mi-i-d:p:W-[fit]i-i-I3:M:a:k-A-[fit]xA-[fit]insert[te](A,Z9)-[sep=0.5,fit]
+x:D54-[sep=0.2]W25:n:n-xA-A:Z9*x*[sep=0.4,fit]D54-[fit]
+wn:n:nb-A40:r-T26*x:D40:f-r:x:Y1-pH:[size=inf].*t*[fix]y*.:[sep=0.2,fit]D40[scale=1.9]:[sep=0.2,fit]y:[sep=0.2,fit]f[scale=1.3]-
+M:i*(mn:n)-W:[sep=0.5,fit]a:f:D40-[sep=0.5]sw-[sep=0.5,fit]
+W:[size=inf]M:[sep=0.5]d:.*t*Z1*.:[sep=0.4,fit]f[scale=1.4]-
+V25-[sep=0.5,fit](.:W)*i*i:Y1:[sep=0.4]f-n:kA*Z1:f:.
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="21"/>M[scale=1.44]:[size=1.3]iwn*(nw:O49)*[fit]M27-sw*L2:[size=inf]t*t-
+cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+insert[te](zA,ra)-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+r:S:W*D19:Z2-aA:[fit]t:Y1:xpr:[sep=0.4,fit]r-W:i*i-
+Hr*Z1:km:t*O49-n[scale=1.2]:h*A:M[scale=1.2]-W:A2:Z2-
+pr*.:r*.:[sep=0.5]i*i*D54-M:d:mi*i-N21:O49:Z1*Z1*Z1-
+n:tA:U7-i-M7-O49:O49-z:t:Z2:.*Hr*Z1-insert[bs](insert[te,sep=0.5](D[scale=1.44],z):empty[width=0.0,height=0.2],d:[sep=0.6]t*A2:[sep=0.2]Z1*Z1*Z1)-
+M[scale=1.44]:n[scale=1.44]:A*N-xt:.*x*t*.:[sep=0.6,fit]D40:Z2-
+ir:r:W-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+M:(ti[scale=1.44]:.)*H[scale=1.44]*(n:(nw:.*W)*[fit,fix](T14:.))-
+A1*B1:Z1*Z1*Z1*N25-U7[rotate=15]:r:W*y
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="22"/>A2:W*y-[fit]sw-[fit]w-[sep=0.7,fit]HqA*[sep=0.5,fit](.:q[scale=0.8])-[sep=0.5,fit]
+A41-n:xt:x*t:D40-t*[fit]w:[fit]D40-z:aA:a:Y1-y[scale=0.7]*[sep=0.7,fit]w-[sep=0.3]
+sw-[sep=0.5,fit]t:n-[sep=0.4,fit]A41-M:D37-nTr-A40:Z2-
+z:b*q*M1-Y1:W*[fit]y:z-nb:A40*s-H-Hn:n:.*nw*W*.:[fit]D40[scale=1.2]-
+i-H-y*D19:A2-nDm-M:w-N41:z:A3-[sep=0.6,fit]i-W:t:W-
+M[scale=1.44]:[size=1.2]A*[sep=0.6,fit](a[scale=1.4]:[size=inf].*a:.)-
+t*ib:[sep=0.3]A2-i-A2:Sm-M:D54*t:W-M:w*s-t:n:D54:Hr*Z1-
+N31:t*Z1-i*[sep=0.3](.*W[scale=0.8]*[fit]b*.:n)-z:d:G54-
+nb[scale=1.44]:t:M[scale=1.44]:ib*Z1-n:r:T:A1*B1-Z3
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="23"/>mn[scale=1.44]:n[scale=1.44]:nw*W:pr*Z1*Z1*Z1-xA-[fit]
+A:a:D54-n:a:z:n:Z2-[fit]Xnm[mirror]:M:t-n:n:n:N36:Z2-
+wn:n:O31[scale=0.8]:[fit]D40-p:r:[fit]a:W*D54-n[scale=1.44]:(wp:p*W)*[fit](.:t:y)-
+i-i-D54:A1:Z2-[fit]V14:z:M:t-O36*(N33:N33:N33):n-s*[fit]b:.-[fit]
+.:t:y:.-[sep=0.5]inb-[sep=0.5]q[scale=0.8]*[fit]b-
+W15-mw:Y1-M[scale=1.44]:pA-Sw-[fit]W:ra[scale=0.8]:.-[fit]
+A40-[fit]r:[sep=0.5]n:[sep=0.5]h[scale=0.8]:[sep=0.5]z-[fit]
+U40:D6-[fit]n[scale=1.44]:[size=inf]A*i*i-[fit]w:Z1*Z1*Z1-
+U40*W:D6-[fit]A1:Z1*Z1*Z1*.-[fit]M:a:DA*A-[fit]i-i-[sep=0.6]
+T14-A1:Z2-s-[fit]Dr:r-A55:n-qd-d:W*[fit]D6-W:Z1*Z1*Z1-
+n:insert[b](Aw:.,W*t)-rd:D54
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="24"/>A1:Z2-V14*.:k*.:t*Z1*Z1*empty[width=0.3,height=0.0]:n-[fit]
+D6:(W:[fit]D54)*A1:.*Z1*Z1*Z1-M:SA:N20[scale=0.6]*Z1-
+Z3-Ab-[fit]b-[sep=0.5]b-A2:z:n:Z2-[fit]i-A:W*t-[fit]
+O44-[sep=0.4,fit]empty[width=0.0,height=0.7]:F27:Z1*Z1*Z1-
+n:M20:x*t*Z1-xA-[fit]A:[sep=0.3,fit]a:[sep=0.0,fix]D54-[fit]
+M:.*V25*w-i-i-E1:Z1*Z1*Z1*D54-[fit]b:n-[fit]A33-[fit]
+empty[width=0.0,height=0.5]:W:.-i-i-W:[fit]D40:[sep=0.2]A1*Z3-
+Hr:DA-[fit]insert[t,x=0.7,fix](.:[fit]A,Z1)-[fit]P1:mH:[fit]H*[sep=0.5](Z4:n:n)-[fit]
+i-.:t:W-r:n:n:n:N36:N20[scale=0.7]-[sep=0.3]b:n:z-[fit]
+(g:.)*b:[sep=0.5,fit]A-A2:n:[sep=0.4]a:S-[fit]A26-[fit]
+A2:M-[fit]g:H-r:N1:[fit]N14-sk-H-Y1:M:a:k-D54:zp*y:Aa15:r*Z1-[fit]
+n:k:[sep=0.4]A-W*y:A1*B1:[sep=0.2]Z1*Z1*Z1-[sep=0.5,fit]
+i-A2:Sm-M:D54:t*W-[fit]D54[scale=0.5]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="25"/>W:[sep=0.7,fit]t:M-H-Hz-s-[fit].:y[scale=0.6]-A2-[sep=0.5]
+b:n-qs[mirror]-i*i:t-A2:Z2-r:V14:A1*B1-Z3-i-W:t:W-
+i-h:A-[fit]M:W:[fit]G37-d:mi*[fit]i*(O49:Z1*Z1*Z1)-
+g:r:[sep=0.6]grg:Y1-a:n:D55-M:wHm*(M:Y1)-pA:z-kA:insert[te](A,q)-
+U13:D40-S:n:n:n:.*it*Z1*Z1*Z1:[sep=0.1,fit]f-i*w:f-[fit]
+r:imi*[fit](M:W)-[fit]A2:f-[sep=0.5]p:n:a-A24-sw-[fit]
+w-[sep=0.5]ra:Z1-[fit]A40-[sep=0.6]n:km:t:O49-sw-[fit]
+w-[sep=0.5]ms-[sep=0.5]s-[fit]A17-[fit]ti-i-M*.:(SA:.)*[fit]A-[fit]
+W:Y1:n
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="26"/>nD-nw:t:.*Z1*[fix]Z1*.:D40-A40:z-sw:t-[fit]L2:t-cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+insert[te](zA,ra)-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+A19-W:[fit]A1:Z1*Z1*Z1-p*x:d:A15-Hr*Z1:f:d-SA:A-r:M:a-
+A4:Z2-b:n-T21:Z1:[fit]a:Hr*Z1-f:A-[fit]A9:[fit]D40-
+tp*Z1:f:M:t-A:T10:(t:Z1*Z1*Z1)*(Z1*Z1*Z1:Z1*Z1*Z1)-
+x:[fit]f:V12:[fit]D40-n:ti*H*(n:nw:W)-[fit]T14:N25-[fit]
+x*t:(U30:.)*T14:.*N25-Htp:t*p:Y1-HA*A:[fit]insert[t](.:D40,q)-[sep=0.6]
+pA:k-A:n:a-n:a:T14*[sep=0.5](N25:M)-b-i-n:G37:nb
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="27"/>W25:n-w-i-s-[fit]insert[s](.*A,q)-[fit]r^&quot;?&quot;:n:y:empty[width=0.0,height=0.6]-[fit]
+T14:N25-insert(mH:D40,w)-M:insert[s](.*A,q)-DA-A-[fit]
+r:Z1-[fit]T14:N25-[fit]i-i-n:U19:[fit]nw*W-a:G3-M:T14*N25-
+ir:w-M:t:[fit]tm:M-Y1:wn:n-i-i-z:.*Z1*[fix]Z1*.:r-[fit]
+i-A-[fit]r:.*Z1*[fit]T14-A1*B1:Z2-f:k:insert[te](G37,t)-
+b:n-[fit]pr:r:t-N33:Z2:f-xA-A-[sep=0.4,fit]rw:Z1-[fit]
+T14:N25-xpr:r-[fit]w-[fit]M:.*xA*A-r:empty[width=0.4,height=0.0]*t*.:[fit]D3[rotate=15]:Z1*Z1*Z1*Z1*Z1-
+N
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="28"/>tA:[fit]U7[rotate=45]-i-M7-O49:O49-tA[scale=1.44]:tA[scale=1.44]:tA[scale=1.44]:N21*N21*N21-
+nb:insert[te](w*.,Z1*Z1*Z1)-dmD:d:Y1-s-t:Z1*Z1*Z1-
+M:Htp:t*p-w:Z2-pA:n:t*Z4-nb:M:S-G3-W:[fit]rd*(.:D54)-
+i-insert[te](w*.,t)-w-[sep=0.5]Hr:Z1-[fit]w:[sep=0.5]a-
+f:D40:f-i-N-sw:t-[fit]L2:t-[sep=0.6]cartouche(U7[mirror,rotate=300]-C12[mirror]-C2-n:E10)-
+insert[te](zA,ra)-cartouche(U7[mirror,rotate=300]-C12[mirror]-C10-n:Htp:Hr*Z1)-
+di-[fit]anx-mi-[fit]ra*ra:nb
+</texthi>
+</segment>
+</egyptian>

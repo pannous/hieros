@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-04-11"
+  modified="2014-06-04"
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+The hieroglyphic of &quot;The Autobiography of Ahmose son of
+Abana&quot;, following the transcription of Sethe (1927), number 1
+(pp. 1-11).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="1"/>[hlr]D2:D21-N1-D33:[sep=0.5]N35-M17*[sep=0.5](.:X1)*[fit]M17-A1-(Z1:[sep=0.5]Z1:Z1)*N11-F31*[sep=0.5]S29-insert[te](G39,Z1)*M17-[sep=0.5]A2*D58-G29-N35:[sep=0.5]G1-Aa11[rotate=270]*P8
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]insert[s](I10,D46)-[sep=0.5]I9-insert[s](I10,D46)-[sep=0.5]A1-N35-X1:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-D21:V13-A1*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-V30:X1-D37-A1-D21:[sep=0.5]Aa1-Y1-X1:[sep=0.5]N35:Z1*Z1*Z1-W14*W14*W14-L1-D21:X1-N35:[sep=0.5]A1-E9-[sep=0.5]G43-D36:D40-V31-G43*M17-Aa15-S12:N33*N33*N33-O34:Q3*O50-Z15*[sep=0.5]Z15*[sep=0.5]Z15*[sep=0.5]Z15*Z15*[sep=0.5]Z15*[sep=0.5]Z15-Aa1*X1:I9-D2:[sep=0.5]Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="3"/>[hlr]N35-N17:Z1*N21-D21-[sep=0.5]M36:D21-I9-U36*A1:[sep=0.5]Z1*Z1*Z1-U36*[sep=0.5](X1:.)*[fit]B1:[sep=0.5]Z1*Z1*Z1-D21-W19-(X1:X1)*M17-D21:Z1*Z1*Z1-D63*Y1a-V31-G43*M17-Aa15-G1-V28-X1*N21:[sep=0.5]Z1*Z1*Z1-I1:[sep=0.5]Z1*Z1*Z1-G36:D21-X1-M17*G43-D21:N35-[sep=0.5]A2-N35-N29:N35-D40-Aa15-D4:X1-N35:I9-D35:N35-V28*(X1:[sep=0.5]U15)-G17-[sep=0.5]G37
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="4"/>[hlr]Aa15-N17:Z1*N21-Q3:N35-insert[s](I10,X1:N17)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+[hlr]insert[bs](I10,D46)-I9-D21-N35:X1*X1-D4:N35-A1-L1:[sep=0.5]D21-A53-(Z1:Z1:Z1)*M17-Aa15-D46-W19-M17*(N21:Z1)-N35-M22-[fit]O49:.-[fit]D58-M17*G43-M17-X1:I9-A1-[sep=0.5]A1-Aa15-G43-D36-[sep=0.5]G43-D40:N35-M23:X1-L2:[sep=0.5]X1-cartouche(N5:O34-[sep=0.5]N29:N35-[sep=0.5]N35:[sep=0.5]D40)-Aa11[mirror]:P8[rotate=270]-R7*[sep=0.5]insert[t](G29,Z1)-O50:Z4-A52
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5"/>[hlr]insert[t](G39,Z1)-(D21:Z1)*M17-K1:N35-X1:N25-B1-D21:N35:[sep=0.5]I9-P6-D36:N35-A1*(D2:Z1)-D4:X1-[sep=0.5]G43-D36:Z7-D40-D21-T25-D58*Y1a-I9-Aa15-G40-P1:Z1-N35-G40-S31-E1-P1-Aa15-O4-[sep=0.5]G1-[sep=0.5]G43-Y1a*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-V30:N17:N17-cartouche(N5:[sep=0.5]V30-F9:[sep=0.5]X1*X1)-Aa11[mirror]:P8[rotate=270]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6"/>[hlr]M17*G43-A1-Aa15-N37:D21-M17*[sep=0.5]A17-D35-D4:X1-A1-(N41:X1)*B1-M17*G43-S29*(M36:D21)-A55-A1-Aa15-S29*insert[t](G17,X1)-S28-V8-N35:W24-G43-Z7:Z1*Z1*Z1-Aa1:D21-Aa15-M3:Aa1*[sep=0.5]X1-W11:D21-U17:Y1-N35-A1-O1:Z1-P6*(D36:N35)-A1-V15-X1:[sep=0.5]D40-V31-G43*M17
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7"/>[hlr]D21-G40-P1:Z1-insert[s](V22,X1*Z4)-(D2:[sep=0.5]Z1)*[sep=0.5](N29:N35)-N35:[sep=0.5]D40-A1-E34:N35-Aa1:D21-M17*(D2:Z1)-T18*S29-D54*M17-U33*M17*[sep=0.5]M17-A23-S34*[fit]U28*S29-D2:[sep=0.5]Z1-D21:D46-D56*D56-A1-Aa15-M3:Aa1*X1-S29*[sep=0.5]G43-X1-G43*X1-D54:Z1*Z1*Z1-I9-D2:Z1-G36:[sep=0.5]D21-X1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8"/>[hlr]T17-I9-M17*G43-N41:O34-A3-X1*[fit]G43-D2:Z1-D46-W19-M17*(N21:Z1)-N35-O7*(X1:O1)-D56*(X1:O49)-E34:[sep=0.5]N35-(Aa1:D21)*M17-D2:Z1-N29:N35-X1:D40-D2:[sep=0.5]Z1-D21:D46-D56*D56-A1-Aa15-D52:[sep=0.5]Z1-U36*A41-I9-P6*(D36:N35)-A1-D46:[sep=0.5]O4-N35:D41-D40-V31
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9"/>[hlr]G43*M17-D21-N28:[sep=0.5]D36-Aa15-Y5:N35-F35*O24-P1-(E34:[sep=0.5]N35)*M17-S3-[sep=0.5]X1-[fit]G43*(D2:[sep=0.5]Z1)-D34-D40*(D2:[sep=0.5]Z1)-N35:[sep=0.5]N35:[sep=0.5]N35-Aa15*[sep=0.5]G40-insert[bs](I10,D46)-[sep=0.5]V31*[sep=0.5]G43-N35:[sep=0.5]N35:[sep=0.5]N35-N36-N35-O6*(X1:O1)-D56-X1:O49-P6-D36:N35-M12*G1-I9:D36-D40:N35-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10"/>[hlr]W25-N35:[sep=0.5]A1-D46:[sep=0.5]X1*Z1*F51-S29*W19*M17-V13-N35-M23*X1*F25-M42:N35-M17*S3-X1*G43-D2:Z1-D21:[sep=0.5]D37:[sep=0.5]X1-N35-[sep=0.5]A1-S12:N33*N33*N33-N35-N29:N35-X1:[sep=0.5]D40-P6*(D36:N35)-F25*G43-D34-D40-Aa15-Q1*(X1:O1)-X1:N35-M42:N35-M17-N35-A1-(D2:Z1)*F25-M12-G1-I9:D36
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11"/>[hlr]D40-M17*G17-W25-N35-M17-D46:[sep=0.5]X1*Z1*F51-M42:N35-M17-N35:[sep=0.5]X1*[sep=0.5]G43-D2:[sep=0.5]Z1-D21:[sep=0.5]D37:[sep=0.5]X1-N35-A1-S12:N33*N33*N33-N35-N29:N35-X1:[sep=0.5]D40-Aa15-F25-D36:Z1-M42:N35-M17-N35:[sep=0.5]X1*[sep=0.5]G43-D2:Z1-D34-D40-G17-insert[te](G1,X1)-I6-X1:O49-M24*(X1:N21)-N35-D46-W19*M17*(N21:Z1)-Q3:N35
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12"/>[hlr]P6-D36:N35-W25:[sep=0.5]N35-N35-A1*S29-[sep=0.5](N29:D21)*M17-A13-S34-N35:[sep=0.5]Aa1-O34:[sep=0.5]A1*Z1-O4*G1-[sep=0.5]D54:N35-A1-D21-G40-[sep=0.5]N35:N35:N35-G17-D36:V31-W25-N35:X1-G43-I9-G17-V22:[fit]D40-(D2:Z1)*insert[te](G1,X1)-N31:[sep=0.5]X1*Z1-G40-[sep=0.5]G1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13"/>[hlr]D46-W19*[sep=0.5]M17*(N21:Z1)-U28*G1-[sep=0.5]P1:N35-A1-T28:D21-I9-D2:Z1-N35:[sep=0.5]N35:[sep=0.5]N35-S29*W19-M17*G43-A2-N35-M23-X1-F25-P6-D36:N35-X1-[sep=0.5]G43-Aa15:D37-V31-E9-[sep=0.5]G43-D36-A1-Aa15-S12:N33*N33*N33-(D2:[sep=0.5]Z1)*(.*Z15*[sep=0.5]Z15*.:W24)*S29-Z4-M42:N35-M17-N35:[sep=0.5]X1*[sep=0.5]G43
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14"/>[hlr]D2:Z1-M16-N29:D40-O7-X1:O1-D56-X1:O49-M42:N35-M17-N35-A1*(D2:Z1)-W25-N35:X1-M16*[sep=0.5](N29:X1)-(D40:Z1*Z1*Z1)*M17-G17-(O34:A1*Z1)*Z15-O34:X1-(N41:X1)*B1-Z15*Z15*Z15-S23-D21-D1-Z15*[sep=0.5]Z15*[sep=0.5]Z15*[sep=0.5]Z15-(M42:N35)*M17-N35-U36*(Z1:I9)-D2:Z1-(D21:[sep=0.5]D36:[sep=0.5]X1)*S29-X1-N35-A1-D21-U36*(A1:Z1*Z1*Z1)-M42:N35
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="15"/>[hlr]M17-N35:[sep=0.5]X1*[sep=0.5]G43-(D2:Z1)*(N41:O34)-X1-A3-D2:Z1-M8-D21:Z1-M16-N35:[sep=0.5]G1-N25-G17-M4*[sep=0.5](X1*[sep=0.5]Z1*[sep=0.5]Z1*[sep=0.5]Z1:Z15*Z15*Z15)-M42:N35-M17-N35-U36*(Z1:I9)-(D2:Z1)*M16-N29:[sep=0.5]D40-O34-P6-D36:N35-W25:[sep=0.5]N35-N35-A1-M16*(N29:X1)-(D40:[sep=0.5]Z1*Z1*Z1)*M17-G17-O34:X1-N41:X1-B1*Z15*Z15-D46:[sep=0.5]X1*Z1*F51-E34:N35
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="16"/>[hlr]M17*(N35:[sep=0.5]X1*[sep=0.5]G43)-D2:[sep=0.5]Z1-D21:[sep=0.5]D36:[sep=0.5]X1-N35-A1-S12:N33*N33*N33-N35-N29:N35-X1:[sep=0.5]D40-G17-D38:V31-D21:[sep=0.5]D36:[sep=0.5]X1-N35-A1-M16*(N29:X1)-D40-A1*(Z1:Z1:Z1)-D21-U36*(A1:[sep=0.5]Z1*Z1*Z1)-Aa1:D21-Aa15-M3:Aa1*X1-S31-T31:[sep=0.5]D40-N35-U36*(Z1:I9)-Y5:N35-G4*[sep=0.5]T14-A14:[fit]Z1*Z1*Z1-insert[b](S22,X1*[sep=0.5]X1)-N25
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="17"/>[hlr]E34:[sep=0.5]N35-M17*(N35:I9)-D2:[sep=0.5]Z1-[sep=0.5]W17-N35:X1-U33-M17*[fit](.:X1)*[fit]M17-P1-D21-W17-N35:X1-V36*F35-N25-D21-S29*V29-V31*S29-V29-V31-D40-O28*O28-O28*T9a[rotate=90]-X1*.:[sep=0.5]G4-T14*A14:[sep=0.5]Z1*Z1*Z1-E34:N35-M17*N35-U36*(Z1:[sep=0.5]I9)-D2:Z1-D4:X1-[sep=0.5]K4-[sep=0.5]insert[e](G1,X1)-A14*(Z1:Z1:Z1)-O29:X1-M17-G17-O34:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="18"/>[hlr]P6-D36:N35-W25:[sep=0.5]N35-N35-A1-M16*(N29:X1)-D40:Z1*Z1*Z1-M17-G17-O34:A1*Z1-S34-Z15*Z15-D46:[sep=0.5]X1*Z1*F51-Z15*Z15*Z15-M42:[sep=0.5]N35-M17-N35:[sep=0.5]X1*G43-D2:[sep=0.5]Z1-E9-[sep=0.5]G43-D36-A1-Aa15-S12:N33*N33*N33-D2:Z1-(.*Z15*Z15*.:W24)*S29*Z4-G17-D38:V31-D21:[sep=0.5]D36:[sep=0.5]X1-N35-A1*U36-[sep=0.5]X1-B1-Z15*[sep=0.5]Z15-N35:D36
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="19"/>[hlr]X1:P1-Aa15-Aa1:D46-P1*M17-S3*U36-Z1:I9-F34*Z1:[sep=0.5]I9-F40-G43-Y1-Aa15-N29:N35-X1:[sep=0.5]D40-N35:M3-Aa1*[sep=0.5]X1:[sep=0.5]D40-V15-X1:[sep=0.5]D40-N35:I9-M24-G43-N21:Z1*Z1*Z1-V22-G4:[sep=0.5]Z1*Z1*Z1-P6*(D36:N35)-G2-X1*[sep=0.5]G1-D40-A14-D54-[fit]G43-N35-M24*(N21:Z1)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="20"/>[hlr]S29*[sep=0.5](X1:[sep=0.5]V31:[sep=0.5]N35)-D54-M8-G43-Y1:I9-Aa2*[sep=0.5]G43-A14-I9-R8*R8*[sep=0.5]R8-M27*[sep=0.5]O49-[fit]G43-D2:Z1-G1-G17-D49-I9-G28-X1:[sep=0.5]I9-M17*S3*U36-Z1:I9-Aa15*U33-N35:X1-N16:Z1*N21-D36:Z1-N35:[sep=0.5]N35:[sep=0.5]N35-E34:N35-M17-N35-U36*(Z1:[sep=0.5]I9)-(D2:Z1)*W25-N35:X1-G43-I9
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="21"/>[hlr]Aa15-S29*[sep=0.5](N29:Aa7[mirror])-A13-S34-D21:V13-A1*(Z1:[sep=0.5]Z1:Z1)-I9-V30-Aa15-M17-O35-M16-N29:[sep=0.5]D40-P6*(D36:N35)-W25:[sep=0.5]N35-N35-A1-Aa15:D38-W11-G1*[sep=0.5]T14-A14*Z15-Z15*Aa15-insert[b](V22,Y1)-D40-Aa15-[sep=0.5]G40-P1:Z15-N35-G1-[sep=0.5]G1*X1-[sep=0.5]G1-D40-A14-M42:[sep=0.5]N35-M17-N35:[sep=0.5]X1*[sep=0.5]G43
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="22"/>[hlr]D2:Z1-D21:[sep=0.5]D36:[sep=0.5]X1-N35-A1-D1-A1-Z15*[sep=0.5]Z15-Z15*[sep=0.5]Z15*[sep=0.5]Z15-D2:Z1-D46:N35-M17*G43-N18:Z1*Z1*Z1-G1-V28*(X1:N21)-V2:X1*X1-Z15*Z15*[sep=1.5]Z15*Z15*Z15-Aa15-O49:X1*Z1-M17-D4-G43-N35-X1-[fit]G1-D33:[sep=0.5]N35-M17*[sep=0.5](.:X1)*[fit]M17-A1*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-D21-F40:[sep=0.5]Y1-O34-Aa15-W19*(X1:X1)-P6*(D36:N35)-Aa1:D21-A15
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="23"/>[hlr]Q3:[sep=0.5]I9-D54*[sep=0.5]G43-X1:X1-M17*(D36:N35)-D7-A14-D21:[sep=0.5]N35:[sep=0.5]I9-O34-V28*[sep=0.5]Z4-[sep=0.5]G43-Y1-N35:I9-N35:I9-K4-[sep=0.5]G1-[sep=0.5]V31-G43*(F34:[sep=0.5]Z1)-insert[bs,sep=0.5](A14:.,Z1*Z1*Z1)-M42:N35-M17*[sep=0.5]N35-U36*(Z1:I9)-D2:[sep=0.5]Z1-S31-[sep=0.5]T31:[sep=0.5]D40-I9-M40*(X1:Z1)-A14-Z1*Z1*Z1:I9-Aa15-X1:[sep=0.5]U15-X1*L1-P6-D36:N35-D21:[sep=0.5]D36
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="24"/>[hlr]N35-A1-D1-A1-Z15*Z15*Z15-G1-V28*(X1:N21)-V2:[sep=0.5]X1*X1-Z15*Z15*[sep=1.5]Z15*Z15*Z15-Aa15-O49:X1*Z1-M17-M42:N35-M17-N35-A1*(D2:Z1)-D33-N35:X1-D40-M23:[sep=0.5]X1-L2:[sep=0.5]X1-cartouche(N5*D45-D28)-Aa11[mirror]:P8[rotate=270]-M17*[sep=0.5]G43-I9-Aa15-W17-N35:X1-M17*[sep=0.5]M17-X1:P1-D21-V31:[sep=0.5]N37-N25-D21-S29*G43-O34:Aa1*[sep=0.5]W10
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="25"/>[hlr]X1*U30:N37-insert[s,sep=0.5](.*[sep=2.0]G43,N21):[sep=0.5]Z1[scale=0.7]*Z1[scale=0.7]*Z1[scale=0.7]-I6-X1:O49-M42:N35-M17-N35-U36*(Z1:I9)-D2:Z1-S29*(N29:Aa7[mirror])-[sep=0.5]T7-O28*(T9a:X1)-A14-Q3:I9-Aa15*(D2:[sep=0.5]F34)-A12-[sep=0.5]A14-Z1*Z1*Z1:I9-W25:[sep=0.5]N35-G43-Aa15-W11-V4*(O50:Z4)-D1-D35:N35-N35:O4-G43-[sep=0.5]G37-[sep=0.5]O34:[sep=0.5]N35:[sep=0.5]Z1*Z1*Z1-G43-(X1:Aa1)*G43-D56*D54
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="26"/>[hlr]Aa15-D37-M17*[sep=0.5]M17*(D2:Z1)-Aa15:Z1-W19*M17-N35:[sep=0.5]X1*[sep=0.8,fit]G4-D35-L1-M17*S29*[sep=0.5](.:X1)-G43*M17-Aa15-D1:Q3-N35-A12-(Z1:[sep=0.5]Z1:Z1)*(N35:Z1*Z1*Z1)-M17*G43-D34-D40:N35-A1-D21-M42:N35-Aa11*[fit]U1:[fit]D36-D4*[fit]U1-N35-U36*(Z1:I9)-N29:N35-X1:[sep=0.5]D40-A1-W25-N35-A1-D46:[sep=0.5]X1*Z1*F51-Z15*Z15-Aa15:D37
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="27"/>[hlr]O35-D54-N35-U36-Z1:I9-(M42:N35)*M17-N35:[sep=0.5]X1*[sep=0.5]G43-D2:Z1-V28*V28-Z4:D54-D21:V13-A1*[sep=0.5]B1-Z1*Z1*Z1:I9-Y5:N35-Y5:N35-X1-E1-Z1*Z1*Z1:I9-P6-D36:N35-W25:[sep=0.5]N35-N35-[sep=0.5]A1-S29*[sep=0.5](N29:Aa7[mirror])-A13*S34-Aa15:D37-O35*[sep=0.5]D54-N35-U36*(Z1:[sep=0.5]I9)-W25-N35-A1-U36*I9[shade]-Aa15-O4:D21-G43-N5:Z15*[sep=0.5]Z15-D21-I6-X1:O49
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="28"/>[hlr]Aa15-W9:X1-N35:[sep=0.5]N35:[sep=0.5]N35-[sep=0.5]D2:D21-[sep=0.5]G43-N1-P6-D36:N35-X1-[sep=0.5]G43-D2:Z1-E9-[sep=0.5]G43-D36-[sep=0.5]A1-Aa15-S12:N33*N33*N33-P7-N35-[sep=0.5]W25:[sep=0.5]N35-N35-A1-U36*[sep=0.5]X1*[sep=0.5]B1-Z15*[sep=0.5]Z15*Aa15-M16-[sep=0.5]N29[b]:[sep=0.5,shade]D40[t]-D2:D21-G43-N31-M22*M22-N35:N35-Aa15:D37-O35-[sep=0.5]D54-N35-[sep=0.5]A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="29"/>[hlr]N35-U36*(Z1:[sep=0.5]I9)-M42:N35-M17-N35:[sep=0.5]X1*[sep=0.5]G43-D2:Z1-D21:[sep=0.5]D36:[sep=0.5]X1-A1-D21-D34-.:X1:[sep=0.5]Z4:.-[fit]G43-D40-N35-S38*N29-M42:N35-M17-N35-A1*(D2:Z1)-D33-N35:X1-D40-M23:X1-[sep=0.5]L2:X1-cartouche(N5:O29-L1-D28)-Aa11[mirror]:P8[rotate=270]-M17*G43-I9-Aa15-W17-N35:X1-M17*[sep=0.5](.:X1[shade])*[fit]M17-P1-D21-W17-V36*F35-O49
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="30"/>[hlr]D21-S29*[sep=0.5]S29-M42:N35-T11:G37-M16-D36:Z4-G37-M3:[sep=0.5]Aa1*[sep=0.5]X1-N25:X1*Z1*Z1*Z1-D21-D46:D21-D40-D58*S29-K5:D54-N35-D36:Z1-N25:[sep=0.5]X1*Z1-(M42:N35)*M17-N35-A1*(D2:[sep=0.5]Z1)-[sep=0.5]N29:N35-X1:D40-Aa15-D52:[sep=0.5]Z1[shade]-I9-Aa15-[sep=0.5]G40-N35:[sep=0.5]N35:[sep=0.5]N35-D58*M17-N35:[sep=0.5]G37-Aa15-G40-(Aa18:Z1[shade])*(Aa18:Z1[shade])-D54:D40
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="31"/>[hlr]G40-P6-D36-G43-P1:Z1*Z1*Z1-D2:Z1-[sep=0.5]X1-[sep=0.5]G1-Q3:[sep=0.5]N35:[sep=0.5]D36-M17*[sep=0.5]M17-X1:N36-M42:N35-M17-N35:[sep=0.5]X1*[sep=0.5]G43-D2:[sep=0.5]Z1-D21:[sep=0.5]D36:[sep=0.5]X1-A1-D21-D2:D21-N1-D33:[sep=0.5]N35-M17*[sep=0.5](.:X1)*[fit]M17-A1:[sep=0.5]Z1*Z1*Z1-M42:[sep=0.5]N35-M17*S3-U36*(Z1:I9)-S34-U28*S29
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="32"/>[hlr]empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="33"/>[hlr]N28:D36-(D21:D40)*M17-N35-U36*(Z1:I9)-D21:O34-W19*U23-[sep=0.5]D58-M17*[sep=0.5]M17-E24-G43-D46:X1*Z9-D40-U36*(Z1:I9)-V6:O34-D21:T11-I9-D1:[sep=0.5]Q3-Y5:N35-Y1-Aa15*V8-N35:[sep=0.5]D58-X1:F51-N35:X1-[sep=0.5]Aa1:D21-A15-Q3:I9-M42:N35-M17*S3-M22*M22-N35[shade]:[sep=0.5,shade]N35[shade]-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="34"/>[hlr]G43-Z9:D54-D58-(D46:[sep=0.5]N37)*[sep=0.5]G43-[sep=0.5]A7-N35-N35:F20-O34:D21-X1*I12-[sep=0.5]I9-D4-[sep=0.5]G43-M17*G17-G17-F3:[sep=0.5]X1*N5-Aa1*[fit]D58*M17-[sep=0.5](.:X1)*[fit]M17-A14:[sep=0.5]Z1*Z1*Z1-W25-N35[shade]:[sep=0.5]G43-T28[shade]:D21-A1*[sep=0.5]B1:[sep=0.5]Z1*Z1*Z1-O34:[sep=0.5]N35:[sep=0.5]Z1[shade]*[shade]Z1[shade]*[shade]Z1[shade]-Aa15-S29*(N29:Aa7[mirror])-A13*[sep=0.5]S34:[sep=0.5]Z1*Z1*Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="35"/>[hlr]N35:D36-X1:P1-Aa15-Aa1:D46-P1-M17-N35-U36*(Z1:I9)-N25:X1*Z1*Z1*Z1-V30:X1-Aa15-G1-G18-X1:D49-I9-O28*T9a[rotate=90]-X1*A14-Q3:I9-F32:O34-G37-Aa15*S29-Aa1:D46-A29-Aa15-F4:[sep=0.5]X1*Z1-D58*M17-V31[e]:P1-[sep=0.5]N35-U36*[sep=0.5](Z1:I9)-D37-G43-D21-N16:Z1*N21
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="36"/>[hlr]Aa15-M17*(Q3:X1)-Q1-X1:Z1*Z1*Z1-O49-Aa15-M3:[sep=0.5]Aa1*X1-M22*M22-N35:N35-G43*U28-D54-D21-D21:[sep=0.5]V13-N35:[sep=0.5]W24*[sep=0.5]G43-N25-D21-M17*(D36:X1)-N35:[sep=0.5]N35:[sep=0.5]N35-D40-F34*Z1:[sep=0.5]I9-M3:[sep=0.5]Aa1*X1-N25:X1*Z1*[sep=0.5]Z1*[sep=0.5]Z1-N12:D21-D54-U36*(Z1:I9)-D21[shade]-N35:O4-G1-D21:Z4-N35:[sep=0.5]G1-T14-N25
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="37"/>[hlr]X1*[fit]G28-U36*(Z1:I9)-S34*U28*S29-Aa1:D21-G43-A15-Q3:I9-S24:O34-V1:[sep=0.5]D40-I9-S29*V29-V31-G43-D40:Z1*Z1*Z1-E34:[sep=0.5]N35-M17*S3-U36*(Z1:I9)-D2:Z1-D4:X1-[sep=0.5]K4-insert[te](G1,X1)-A14[shade]:[fit]Z1*Z1*Z1-O29:[sep=0.5]D36:[sep=0.5]X1-M17*G17-O34:[sep=0.5]N35:Z1*Z1*Z1-D35:N35
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="38"/>[hlr]X1:N35-W24-[sep=0.5]G43*X1-Y1:Z1*Z1*Z1-Aa15-S29*[sep=0.5](N29:Aa7[mirror])-A13*S34:[sep=0.5]Z1*Z1*Z1-W25*S3-[sep=0.5]U36*[sep=0.5](Z1:I9)-G17-[sep=0.5]N35:[sep=0.5]M3:[sep=0.5]Aa1*X1-G43-D40:[sep=0.5]Z1*Z1*Z1:[sep=0.5]I9-M17*S29*[sep=0.5](.:X1)-G43*M17-Aa15-D1:Q3-N35-A12*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-N35:Z1*Z1*Z1-D4*[fit]U1-N35-U36*(Z1:I9)-N29:N35-N35:D40-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="39"/>[hlr]W25-N35-A1-G36:D21-M17*[sep=0.5](.:X1)*[fit]M17-T17-O34:O34-G17-E6-S29*(N35:X1*Z4)-(D2:D21)*S29-Aa15-S29*[sep=0.5](N29:[sep=0.5]Aa7[mirror])-A13-S34-Aa15:D38-O35-N35-U36[tsb,teb,bst,bet]-[sep=0.5]Z1[shade]:[sep=0.5]I9-M42:[sep=0.5]N35[shade]-M17-N35[shade]:[sep=0.5]X1*[sep=0.5]G43-D2:Z1[shade]-E9-G43-D40-A1-Aa15-S12:N33*N33*N33-D2:Z1-(.*Z15*[sep=0.5]Z15*.:W24)*S29*[sep=0.5](.:Z4)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="40"/>[hlr]X1:N35-M17*A19-V31-G43*M17-F22:N35-A1-M17*G1-insert[te](G43*.,Z4)-A19-W14*[sep=0.5]W14*[sep=0.5]W14-M17-W19*(D1:X1)-O34:empty[width=0.5,shade]*Z1*[sep=0.5]Z1-U7[shade]:[sep=0.5]D21-N36[e]-empty[shade]-M17-empty[shade]-![shade]R4:[sep=0.5]X1*Q3-M17-Aa15![noshade]-(D2:D21)*X1-O11-D4:X1-N35-A1-insert[s](I10,O34)-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="41"/>[hlr]empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="42"/>[hlr]empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="43"/>[hlr]empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="44"/>[hlr]empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="45"/>[hlr]G17-[sep=0.5]D58*V28-Z4:O49-F25-D21:[sep=0.5]D36:[sep=0.5]X1-N35-A1*M17-S3-(M23:X1)*[sep=0.5](L2:X1)-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="46"/>[hlr]V2:[sep=0.5](X1:[sep=0.5]Z9[shade])*[sep=0.5]O39[e]-(V20*V20:V20*[sep=0.5]V20)*(V20:V20)-G17-M16-G1-U28-G1-D36:O49-S23[e]:[sep=0.5]Y1-![shade]V2:[sep=0.5](X1:[sep=0.5]Z9)*[sep=0.5]O39-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="47"/>[hlr]Z11-[sep=0.5]G17-[fit]Z4:.-D21:[sep=0.5]N35:[sep=0.5]I9-N35-N35:[sep=0.5]G1-N35-U36*[sep=0.5]Z1*(A1:[sep=0.5]Z1*Z1*Z1)-U36*(X1:Z1)-B1:[sep=0.5]Z1*Z1*Z1-N35-M16-G1-![shade]N29*[sep=0.5]X1:[fit]D40:[sep=0.5]Z1*[sep=0.5]Z1*[sep=0.5]Z1-D21:[sep=0.5]D36-N35:[sep=0.5]A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="48"/>[hlr]U36*Z1-G40-G17-D38-U28*M17*[sep=0.5]M17-T14*A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="49"/>[hlr]U36*Z1-G40-M17*[sep=0.5]M17-R15-(D58:[sep=0.2]N26)*G43-[fit]O49:.-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="50"/>[hlr]U36*Z1*S29-N35*[sep=0.5]D58-V30:I9[shade]-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="51"/>[hlr]U36*Z15-G40-empty[shade]-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="52"/>[hlr]U36*Z1-N29:N35-D40-[sep=0.5]G40*[sep=0.5]S38-N29-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="53"/>[hlr]U36*Z1-G26-S29*N35-[sep=0.5]D58*G43-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="54"/>[hlr]U36*Z1-S29*[sep=0.5]D58-V31:I5a-F31-[sep=0.5]S29*A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="55"/>[hlr]U36*Z1-M16-[sep=0.5]empty[shade]-(D21:Z1)*M17-[sep=0.5]M17*A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="56"/>[hlr]U36*Z1-G40*T14-G17-A1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="57"/>[hlr]U36*(X1:Z1)-N16:Z1*N21-G1-B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="58"/>[hlr]U36*(X1:Z1)-F21a-G17-empty[shade]:N35-[sep=0.5]A1-B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="59"/>[hlr]U36*(X1:Z1)-G29-V31:X1-B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="60"/>[hlr]U36*(X1:Z1)-V31-G1-empty[shade]-A1*S29-(.:Z4)*B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="61"/>[hlr]U36*(X1:Z15)-N16:Z1*N21-O29:D36-G17-V13-G43-B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="62"/>[hlr]U36*(X1:Z1)-D60:[sep=0.5]N35-N16:Z1*N21-S42*(Aa1:X1)-B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="63"/>[hlr]U36*(X1:Z1)-M17*S29-N16:Z1*N21-D21:Z1-M17*G43-Aa15:D38-B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="64"/>[hlr]U36*(X1:Z1)-M17-X1:I9-F35-I9:D21-B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="65"/>[hlr]U36*(X1:Z1)-O4-D46:X1-D40-(V31:N37)*T14-N25-B1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="66"/>[hlr]U36*(X1:Z1)-M17-Y5:N35-D2:Z1-S29*S29-N35-[sep=0.5]D58-B1
+</texthi>
+</segment>
+</egyptian>

@@ -1,0 +1,23 @@
+	甲  jiǎ		 	Erste Ziffer der Himmelsstämme
+	乙  yǐ		 	Zweite Ziffer der Himmelsstämme
+	丙  bǐng		 	Dritte Ziffer der Himmelsstämme
+	丁  dīng		 	Vierte Ziffer der Himmelsstämme
+	戊  wù		 	Fünfte Ziffer der Himmelsstämme
+	己  jǐ		 	Sechste Ziffer der Himmelsstämme
+	庚  gēng		 	Siebte Ziffer der Himmelsstämme
+	辛  xīn		 	Achte Ziffer der Himmelsstämme	
+	壬  rén		 	Neunte Ziffer der Himmelsstämme
+	癸  guǐ		 	Zehnte Ziffer der Himmelsstämme
+	
+	子  zǐ		 	Erste Ziffer der Erdzweige	SOHN
+	丑  chǒu		 	Zweite Ziffer der Erdzweige	KASPAR
+	寅  yín		 	Dritte Ziffer der Erdzweige  阴  尹 LUST
+	辰  chén		 	Fünfte Ziffer der Erdzweige	DOG
+	卯  mǎo		 	Vierte Ziffer der Erdzweige	CAT
+	巳  sì		 	Sechste Ziffer der Erdzweige	6
+	午  wǔ		 	Siebte Ziffer der Erdzweige		noon
+	未  wèi		 	Achte Ziffer der Erdzweige		waitch not(yet)
+	申  shēn		 	Neunte Ziffer der Erdzweige		Adel  身 body  ~ 中 zhōng? 
+	酉  yǒu		 	Zehnte Ziffer der Erdzweige		You  ( 鱼 yú  雨 yǔ )
+	戌  xū		 	Elfte Ziffer der Erdzweige		rising(Moon/Sun)	
+	亥  hài		 	Zwölfte Ziffer der Erdzweige	Harm body bottom

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Nubian Rebellion, recorded by inscription of Tuthmosis II"/>
+<collection kind="kings" collect="Tuthmosis II"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="55"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="119-122"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 47-48"/>
+<resource location="../resources/urkIV-055Tr.txt"/>
+</text>

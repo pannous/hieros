@@ -1,0 +1,614 @@
+Zend=Avesta
+
+ Person 	Singular 	Dual 	Plural
+1st 	-mi 	- 	-mahi
+2nd 	-hi 	-tha 	-tha
+3rd 	-ti 	-	-ṇti
+
+
+Case 	"normal" endings 	a-stems: (masc. neut.)
+Singular 	Dual 	Plural 	Singular 	Dual 	Plural
+Nominative 	-s 	-ā 	-ō (-as), -ā 	-ō (yasn-ō) 	-a (vīr-a) 	-a (-yasna)
+Vocative 	– 	-ā 	-ō (-as), -ā 	-a (ahur-a) 	-a (vīr-a) 	-a (yasn-a), -ånghō
+Accusative 	-əm 	-ā 	-ō (-as, -ns), -ā 	-əm (ahur-əm) 	-a (vīr-a) 	-ą (haom-ą)
+Instrumental 	-ā 	-byā 	-bīš 	-a (ahur-a) 	-aēibya (vīr-aēibya) 	-āiš (yasn-āiš)
+Dative 	-ē 	-byā 	-byō (-byas) 	-āi (ahur-āi) 	-aēibya (vīr-aēibya) 	-aēibyō (yasn-aēibyō)
+Ablative 	-at 	-byā 	-byō 	-āt (yasn-āt) 	-aēibya (vīr-aēibya) 	-aēibyō (yasn-aēibyō)
+Genitive 	-ō (-as) 	-å 	-ąm 	-ahe (ahur-ahe) 	-ayå (vīr-ayå) 	-anąm (yasn-anąm)
+Locative 	-i 	-ō, -yō 	-su, -hu, -šva 	-e (yesn-e) 	-ayō (zast-ayō) 	-aēšu (vīr-aēšu), -aēšva
+
+θa	tha,thy,you
+θβā	you !?
+vō	vous,you
+mi	me,I		vahi:dual! meine
+mā	me,mich
+mahi	man:we
+ti	it,ta,he,she
+tō	thō		them two	(dual)
+nō 	nous,us
+ṇti	them!
+dim	let <> don(give?) <<
+dīš	let	<> does… ! <<
+ie,iie	let:make << eye!!
+tapai	temper:hot
+ramai	rest
+hacā	follow(!?)
+vatā	weiss:understand
+vātaiia	^^ teach (make wise)
+šiiauua	move?
+drauuāmi	drome.I (run) ƒ-split;)
+barahi	bare,port,… carry (you:hi?)
+baraiti	bare(she)
+mānthra	~mystery
+Saoka	~sharpness,shuch = to shine
+Vanant	Venus! central star in the West, most brilliant. ~Fomalhaut?;) called the opponent of the planet Jupiter.
+
+ashem	Righteous(ness) (M)Aša™  Maath!
+ashāi	Righteousness
+ashāt	Righteousness
+ushtā	Happyness ??
+astī	ist
+vohū	good <>	->best
+vahisht.āi	best(e|r)
+vahisht.em	besten
+ahmāi him??
+hyat	whot
+chīt	et.cet!
+Yathā		Just as
+Ahū			Acher™
+Vairyō	faire
+athā		auch,also,a'so
+*ratush	Dasturān Dastur <<
+
+  chīt7 hachā8, Vanghēush9 dazdā10 mananghō11
+shyaothananãm12 anghēush13 Mazdāi14, Khshathremchā15 Ahurāi16 ā17 yim18 dregubyō19 dadat20 vāstārem21.
+Translation: Just as1 a eKing2 acts according to his will3, so4 does the f5 by means8 of righteousness6 getc.7 (acts according to his own will). The gift10 of Vohu-manah9-11 (i.e. Good mind) is for those working12 for Hormazd14 of this world;13 he who18 hconstitutes himself20 to the protector21 (or the nourisher)21 iof the poor19 (accepts) the sovereign rule15 (of the entire world) (as it were) of Hormazd16.
+
++ áka ‘pain’ (aka-): TS+6
+ańguṣṭha ‘finger, thumb’ (anguštō): Ś Br +.
+apamá ‘most distant’ (apǝmō): 10.39.3, +.
+avasāná ‘stop, rest’ (avahāna-): 10.14.9, +.
+ámavattara ‘more impetuous’ (ǝmavastara-): 10.76.5, +.
+arháṇa- ‘claiming, deserving’ (arǝǰan-): 1.87.1; Su +.
+ávitti ‘non-obtaining’ (ə̄visti): AV +.
+ávithura ‘non lurching’ (αιviθūra-): 1.87.1: Su +.
+aśvasthāna ‘horse-stable’ (aspō.stānō): Su +.
+ā́ kṛti ‘form, existence’ (ākərəti ‘formation’): 10.85.5, +.
+ā́ manas ‘of friendly mind’ (ā.manaŋha-): AV +.
+ā́ śā ‘space’ (asah-): 4.37.7; 6 in late.
++ íṣṭākā ‘(baked) brick’ (ištiia-): VS +.
+(sam-)īha- ‘striving for’ īhate ‘endeavours’ (iziia-, iziieiti): VS +. úṣtra ‘camel’ (uštra-): 1.138.2: 4 in 8.
+c ṛtásya...dhāma ‘abode of ṛta’ (as̆a...dāmąm): 4.7.7; 2 in 1 & 1 in 10. eváthā ‘so, exactly’ (aēuuaθα): 8.24.15.
+ojodā́ ttama ‘most strength-giving’ (aogozdastəma-): 8.92.17. ójasvant ‘powerful’ (aoǰahvant-): 8.76.5.
+odaná ‘brew (doubtfully of rice)’ (aoδa-): 8.58.14; twice in 8.66. See also ódatī ‘shimmering’, epithet for Uṣas in 1 and 8 and ódman ‘flood, wetness’ in VS +. Definitely late formations.
+c aícchat..avindat ‘one wanted [and] found’ (isəmnō...vindāite): Maitrāyaṇī S:
+6 O=Old; AV=Atharva Veda; Br = Brāhmaṇa; P = Paipalāda; pr.n = proper name; Pur = Purāṇa; Ś = Śatapatha; S = Samhitā; Su = Sūtra texts; TS = Taittirīya S (Black YajurVeda); Up = Upanishads; VS = Vājasaneyī S (White Yajur Veda);
+VAV 9
+ collocation (under vinda- in EWA).
++ kádru ‘reddish-brown’ (kadruua-aspa ‘reddish-brown horse’ name of mountain): TS + .kádru ‘wooden vessel’ in 8.45.26; tríkadruka- in 2, 1, 8, 10. Only the colour is common to the two cultures (late in Sanskrit).
++ kapha ‘mucus, phlegm’ (kafa-): Up, Suśruta, +.
++ kaśyápa ‘tortoise, pr.n’ (kasiiapa-): AV +; name of ṛṣi for 1.99 & in 9.114.2.
+kéśa ‘hair’ (gaesa): post-rigvedic, but kéśavant 10.105.5 (& kéśin 3.6.6, 3.41.9; otherwise 17 late: 6 in 1, 3 in 8, 8 in 10).
+c krátvā mánasā ‘with strong mind’ (xrateuš mananhasčā): 4.33.9.
+c krátvā sacate ‘accompanies, unites with strength’ (hacaite...xratuš):
+1.145.2.
+c vardhayanti .. kṣatrám ‘they increase rulership’ (ḫšaþrəm...varƏdaiti): 1.54.8.
+c kṣíprāśva- ‘swift-horse’ (xšuuiβraspa- pr.n): Jaiminīya Br.
++ khára ‘donkey’ (ḫarō/xara-) AV P +.
+gadā ‘club’ (gaδā-): Up, Su +.
+gandhá ‘smel’ (gaiṇti-): 1.162.10 only; +
+gandharvá ‘heavenly being’ (gandarƏwō): 3.38.6 (late hymn); 21 late- 2 in 1, 2 in 8, 4 in 9, 11 in 10; +.
+gā́ thā̆ ‘song’ (gāθā): 5.44.5; then 1, 8-10.
++ gṛdā ‘penis’ (gereδ-a/o-): TS +.
++ cāt-vala ‘pit, dughole’ (cāt- ‘well’): Kāṭhaka S.
++ jáhakā ‘hedgehod’ (dužaka-): VS +.
+takmán ‘fever’ (tafnah-): AV +.
+tanū-kṛ́t/kṛtha ‘attenuating’ (tanukərəta-): 1.31.9; 2 in 8.
+c sváyā tanvā̀ ‘by one-self ’ (hunąm tanūm): AV.
+támasvant ‘having gloom’ (təmahvaṇt): AV.
+tiṣyá/tiṣiya- ‘archer, lunar mansion’ (tištriia): 5.54.13; 10.64.8. tókman ‘sprout, fresh blade’ (taoxman): 10.62.8, +.
+tritá āptyá a deity (θrita aθβiia): 1.105.9; 2 in 8, 1 in 10. traítanā a deity (þraētaona) 1.158.5.
+c na...trātā vidyate ‘no protector is seen’ (nāþrātā ristō): Epic. c ásum...dadātu ‘let one give life’ (ahūm dadāt) 10.59.7. dīrghabāhu ‘longarnaed’ (darəgō.bāzu): Epic.
+dīrghayajña ‘long sacrifice’ (darəγ-yasn-): Epic.
+VAV 10
+ dīrghā́ yu ‘long-life’ (darəgāciu): 1.96.8; 8.70.7; +.
+c devā́ nāṃ devátama- ‘most godly of gods’ (daēuuanąm daēuuo. təmo): 2.24.3. devayáj-/devayajñá ‘god sacrifice’ (daēuua-iiaz/iiasna): VS + (EWA).
+durā́ pa ‘hard to attain’ (duz.āpiia): Ś Br +.
+dúriṣṭi ‘bad offering, defect in sacrifice’ (duž.iiasti) AV +.
+duruktá ‘bad, harsh speech’ (duž.uxta-): Br +.
+dur-dhā́ - ‘plant confusion’ (duž.dā-) 1.40.11; 10.109.4; +.
+durmanas ‘bad disposition’ (dužmanah): Epic +.
+durmánman ‘evil-minded’ (duš.mainiiu-): 8.49.7.
+durvacas ‘abuse/abusive’ (duž.vačah): Epic.
++ niks-, nékṣaṇa ‘piercing instrument’ (naēza-): AV +.
+parikara ‘preparing’ etc (pairikara-): Epic.
+parikarṣa ‘dragging round’ (pairi.karša-): Epic.
+parivāra ‘covering; retinue’ (pairi.vāre-): Epic.
+púccha “tail’ (pusa-): AV +.
+putrada- ‘child giver’ (puþrō.da-): post-vedic.
+putravant ‘having child(ren)’ (puþra.vaṇt): VS +.
+puro-gā̆m- ‘going first’ (frō.gā-): 1.118.11; 3 in 10; Epic +.
+prátipraśna ‘counterquestion’ (paiti.pərƏsn-, frasa-): AV +.
+prábhartṛ ‘procurer’ (frabarətar-): 1.178.3; 8.2.35.
+pramánas ‘careful’ (framanah-): AV +.
+pravā-c/k- ‘declare/declaration’ (fra.vā̆č/k-): Br +.
+pravāra ‘covering’ (fravāra-): Br Up +.
+pratisthāna ‘establishment, fixed stand’ (paiti.štāna): Br +.
+prativacana ‘answer’ (paiti.vac̆a-): Epic.
+pratīpa ‘adverse’ (paitipa-): Epic.
+prā́ rtha ‘eager; equipment’ (fraiþya-) AV +.
+buddhi ‘discrimination, reason’ (-busti-): Su +.
+bhaṅgá ‘hemp’ (baŋha-): AV +.
+marká ‘death’ (mahrka-): 10.27.20; +.
+c devā́ utá mártyāso ‘gods and mortals’ (daēvāišča mašyāišča): 8.48.1. Here, of course, the Avestan is ‘devils and mortals’, since the meaning of daēva changed from deva ‘deity’.
+manasyá- ‘have in mind’ (manahya): Br +.
+VAV 11
+ c manā́ hiraṇyáyā ‘with a golden ornament’ (zarƏmu-...maini): 8.78.2. malhā ‘belly, udder’ (mərəzana-): TS +.
+mithyāvāc- ‘false speech’ (miθah.vac-): Ś Br +.
+mūja- (vat-) name of a people (muža-): AV +. (Also, name of a mountain). varāhá ‘wild bear’ (varāza-): in 1, 8-10.
+vā̆rtraghna ‘victorious’ (vērƏþrazna-): VS, TS. (From vṛtrahán- ‘slayer of demon Vṛtra’ epithet of Indra.
+valka ‘bark’ (varƏka-): TS +. (Appears in Bulgarian & Russian only: late loan?)
+vā́ śī ‘axe, cutter’ (vāsī-): 3 in 1, then 2 in 5, 8,10.
+c vástrā...vásāna ‘wearing clothes’ (vastrā° ...vaŋhatu); 9.97.2.
+vijīvitā ‘dead, lifeless’ (vīǰua-): Ep
+vitasti ‘span’ (length) (vītasti-): Ś Br +.
+vídeva ‘godless’ (vīdaēva): AV +.
+vidyā́ ‘knowledge’ (vaēdya-): 10.71.11; +.
+vídveṣa ‘enmity, hate’ (vidvaiša-): 8.1.2; 22.2; +.
+c (ichán...) avi(n)dat ‘desiring..(s)he found’ (isəmnō...vindāite): 10.46.2; 67.4. viśvatanu ‘having all forms’ (vīspō.tanū-): Pur (EWA under viśva-). visvapati ‘all-lord’ (vīspō.paitiš-): Epic +.
+víśvavā̆su ‘all-riches’ (vīspā.vohū): 10.85.2; and 2 more in 10. viśvavidvaṃs- ‘having known all’ (vīspō.vīduah-): post vedic
+c viśve amṛtās(as) ‘all immortals’ (vīspasča aməšai-): 1.59.1; 4.1.10; 42.1 vṛkká ‘kidney’ (vərəδka): 1.187.10; AV +.
+vṛtratára ‘more than Vṛtra’ (vərƏþramtar-): 1.32.5.
+vṛṣṇí ‘male, vigorous’ (varšni-) 1.102.2; 8.6.6; TS.
+védiṣṭha ‘most-procuring’ (vaēdišta-): 8.2.24.
+véśman ‘abode’ (vaēsmən-) 1.46.3; 10.107.4; +.
++ śarva a demon (saurva-): AV.
+śūka ‘sting’ (sūkā ‘awn of grain’): Epic +.
+[sūcī(́-kā)‘needle’(sūčan):2.32.4;1.191.7:Variantoftheabove] śépa ‘tail’ (xšuuaēpa-): 5.2.7; 1 in 9; 2 in 10.
+sucitrá ‘varied, beautiful’ (hučiþra-): AV.
+sudhāman ‘moon (good abode)’ (huδāman-): Pur.
+sumāyá ‘noble counsel’ pr.n. (humāya): 1.88.1; 167.2; +.
+VAV 12
+susaṃbhŕṭ ‘well-bringing-together’ (huš.hąmbǝrƏt-): TS suṣakhā́ ‘good friend’ (huš.haḫā-): 1.173.9; 1 in 8; 2 in 10. suṣána ‘easily obtained’ (hu.šə̄na-): 1.42.6.
+suṣthú ‘rightly’ (huštu): 8.22.18 +.
+c soma ... vṛtraha ‘O Soma, vṛtra-slayer’ (haomō.. vərƏþraǰā): 9.89.7; 2 more in 9.
+c bhesajā́ nām...sómaḥ ‘soma ... of cure(r)s’ (haomō...baēšazyō): AV.
+c (máde) sómasya ‘in the exhilaration of soma’ (haomahe maδο̄ ): 2.17.1;
+4.26.5; and 5 late
+rúhat sómo na párvatasya pṛṣṭé ‘may soma ascend as if up a mountain- slope’ (paurvatāhva... viraoδahe haomō): 5.36.2.
+c sóma-...sukrátuḥ ‘soma all-/powerful/wise’ (haomō...huḫsatuš): 9.12.4; 10.25.8.
+sómavant ‘having soma’ (haomavaṇt-): 10.97.7; 113.8.
+sthū́ ṇā ‘column, post’ (stūnā-): 1.59.1; 2 in 5, 1 in 8, 1 in 10. snāván ‘sinew’ (snāvarƏ): AV +
+híraṇyapeśas ‘gold-bedecked’ (zaranyō.paēsa-): 8.8.2; 31.8.
+
+A
+Aban (Phl., Pers.): 	water; name of a yazad presiding over water; name of the tenth day of the month according to the Zoroastrian religious calendar; name of the eighth month.
+ab-zohr (Phl.): 	lit. "libation to the waters"; a section of the Yasna. (Y62.11-Y70).
+Achaemenian: 	the dynasty which ruled Iran from the time of Cyrus the Great (559 B.C.) to the invasion of Alexander the Great (330 B.C.) (Var. 'Achaemenid')
+Adar: 	fire; yazad presiding over fire; name of the ninth day of the month according to the Zoroastrian religious calendar. (Var: ader, Pah. 'atash, atesh, adur', Av. 'Atar')
+Adar Burzin (Phl.): 	one of the three greatest sacred fires of Zoroastrianism (the other two being 'Adar Farnbag' and 'Adar Gushasp'). It was placed in a temple by Kay Vishtasp himself, after it had 'revealed many things visibly, in order to propagate the faith' (GBd 18.14). (Var: 'Adur Burzen-Mihr')
+Adar Farnbag 	A Sacred fire.
+Adar Gushasp 	A Sacred fire. (var. Ader Goushasp)
+Adarbad Mahraspandan (Phl.): 	a Zoroastrian High priest, prime minister of Shapur II (309-379 A.C.)
+Aeshma (Av): 	Name of a demon. See Eshm.
+Afrasiyab (Pers.): [use Franrasyan] 	a Turanian king who repeatedly attempted to overthrow the Iranians. (Var: 'Franrasyab')
+afrin (Phl.): 	lit. 'blessing, benediction', specific prayers of blessing (in Pazand). (Contrast with nafrin, a curse.
+afrinagan (Phl.): 	(1) A multi-part ceremony of blessing; (2) specific prayers in the Avesta which are recited during afrinagan ceremonies; (3) a ceremonial vessel in which the sacred fire is tended. (Var: 'afringan, afargan')
+Agerept: 	A particular grade of sin.
+agiary (Guj.): 	lit. 'place of fire', a fire temple. The more traditional term is 'Dar-e Mihr' (Var: 'agiari')
+Ahriman (Phl.): 	the Devil, lit. 'Hostile/Destructive Spirit'. (Var: Phl. 'Ahreman', GAv. 'Angra Mainyu', StdAv. 'Anra Mainyu').
+Ahu (Av.): 	("lord") spiritual lord or master, often found in conjunction with 'ratu'.
+Ahunawad: 	name of the first Gatha; name of the first Gatha day.
+Ahunwar (Phl.): 	the holiest prayer of the Zoroastrians. It begins with the Av. phrase 'yatha ahu vairyo'. (Var: 'Ahunvar, Ahunawar', Av. 'Ahuna vairyo').
+Ahura Mazda (Av.): 	God, lit. 'Wise Lord', the Supreme Being of the Zoroastrians. (Var: Phl. 'Ohrmazd')
+Airik 	(pr n) Son of Faridoon (Var. Iraj)
+Airyaman: 	yazad of friendship and healing.
+Airyanem Vaejah (Av.): 	See Eranvej.
+aiwyaonghana (Av.): 	date palm leaf, used for binding the barsom twigs together.
+Alatgah: 	Ritual table. See Khwan.
+Alburz: 	a cosmic mountain, aka 'Haraiti' or 'Hara Berezaiti'; an actual mountain range in northern Iran.
+Amahraspand (Phl.): 	lit. 'Beneficent Immortals', the highest spiritual beings created by Ahura Mazda. Sometimes referred to as 'archangels'. Their names are (Phl.): Vohuman, Ardwahisht, Shahrewar, Spandarmad, Hordad, Amurdad. (Var. 'Amashaspand, Amahraspand', Av. 'Amesha Spenta')
+Ameretat (Av.) 	see Amurdad.
+Amesha Spenta (Av.) 	See Amahraspand.
+Amurdad (Phl.): 	lit. 'Immortality', the Amahraspand presiding over the Earth; name of the seventh day of the month according to the Zoroastrian religious calendar; name of the fifth month. (Var: Av. 'Ameretat', Phr. 'Amardad')
+Anagran: 	lit. 'endless light', name of a yazad; name of the thirtieth day of the month according to the Zoroastrian religious calendar; (Var. Aneran)
+Andarz (Phl.) 	(lit. 'gnomic, precept') collection of aphorisms, especially of pragmatic advice or moral instruction
+Aneran: 	See Anagran.
+Angra Mainyu: 	(devil) See Ahriman.
+anjoman (Pers.): 	association (Var: 'anjuman')
+anosharawan (Phl.): 	soul of deceased person, as opposed to Zinda-rawan, a living soul. (Var: 'anosheh-ravan')
+Aoshnar 	(pr. n) Name of an illustrious personage
+ard: 	lit. 'good blessings, rewards', name of the yazad presiding over blessings; name of the twenty-fifth day of the month according to the Zoroastrian religious calendar. (Var: 'Ashishwangh, Arshishwang', Av. 'Ashi Vanghuhi')
+ardafrawash (Phl.): 	lit. 'Asha-possessing farohar', i.e. the farohar (guardian angel) of a holy person.
+Ardashir (Pers.): 	a king of ancient Iran, founder of the Sasanian dynasty. (Var. Ardeshir)
+Ardavan 	(pr. n) Artabanus IV/V)
+Arda Viraf (Pers.): 	a priest of the early Sasanian period, author of a Pahlavi book which describes his visions of heaven and hell (Var: Phl. 'Ardag Wiraz')
+Ardibehesht (Pers.): 	see Ardwahisht.
+Ardwahisht (Phl.): 	the Amahraspand presiding over Asha and fire; name of the third day of the month according to the Zoroastrian religious calendar; name of the second month (Var. Av. 'Asha Vahishta', Phl. 'Ashwah, Urdwah, Urdibehesht')
+Aredvi Sura Anahita (Av.): 	lit. 'strong, immaculate Anahita', name of a female yazad; name of a mythical river. (Var: Arduisur)
+Arezahi: 	See karshwar.
+Arjasp: 	(pr. n) King of Turkestan
+Arnavaz: 	(pr. n.)
+Arsacid: 	a royal dynasty founded by Ashk. It is also known as the Parthian dynasty (247 B.C.-226 C.E.)
+Asha (Av.): 	a fundamental concept of Zoroastrianism; there is no adequate translation, although the following are often used: World-order, Truth, Right, righteousness, holiness; Ardwahisht (Skt. 'rta')
+Asha Vahishta (Av.): 	see Ardwahisht.
+ashavan: 	lit. 'possessing Asha', a righteous or just person or being.
+ashem vohu (Av.): 	one of the most sacred prayers of Zoroastrianism, which praises Asha.
+Ashirwad: 	benediction, a prayer of admonitions addressed to a marrying couple. (RCC 37)
+Ashishwangh [Ard]: 	Yazad
+Ashk (Phl.): 	founder of the Arsacid dynasty (Var: 'Arshak', Greek 'Arsaces')
+Ashmogh (Phl.): 	An apostate, a heretic. (Av. Ashemaogha)
+Ashtad (Phl.): 	lit. 'rectitude, justice', name of a yazad presiding over justice; name of the twenty-sixth day of the month according to the Zoroastrian religious calendar. (Var. 'Arshtat')
+Asman (Phl.): 	lit. 'sky', name of the yazad presiding over the sky; name of the twenty-seventh day of the month according to the Zoroastrianism religious calendar.
+Astwihad (Phl.): 	a demon of death. (Var: Phl. 'Astvihad, Astovidad', Av. 'Astovidhotu, Asto-widhatu')
+Astyages: 	(pr. n.) king
+Aspandyar (Parsi Pers.): 	an early hero of the Zoroastrian religion, son of Kay Vishtasp. (Var. Pers. 'Ispandiyar, Isfandiyar')
+atash (Phl., Pers.): 	See Adar.
+Atash Adaran (Pers.): 	the middle grade of consecrated fire.
+Atash Bahram (Pers.): 	lit. 'victorious fire', the highest grade of consecrated fire.
+Atash Dadgah (Pers.): 	the lowest grade of consecrated fire.
+athornan (Paz.): 	a man of priestly class (Var: 'athrawan, athravan').
+Auzobo 	(pr. n.)
+Avesta (Pers.): 	the holy scriptures of Zoroastrianism (Var: Phl. 'abestag, abistag'); the language of the Avesta (Var. 'Avestan');
+ayathrem: 	feast (gahambar) of bringing home the herds.
+Az (Phl., Pers.): 	the demon of greed.
+B
+baga (Pers.):	God.
+Bahman (1) (Pers.):	see Vohuman.
+Bahman (2) (Pers.): 	name of an Achaemenian king.
+Bahram (1) (Pers.): 	See Warharan.
+Bahram (2) (Pers.): 	name of several kings in Iranian history.
+Baj (Pers.) 	ritual silence, lit. 'framing', a ritual utterance or prayer which frames an action with the power of the manthra; a high liturgical service (Dron service); the monthly or anniversary day of the deceased.
+bandagi (Pers.): 	prayer.
+barashnom (Phl.): 	a major ritual of purification lasting nine days. (Var. 'bareshnum, barashnum, barashnum-i no shab').
+baresman (Av.):	see barsom.
+barsom (Phl.): 	a bundle of twigs, tied together with a date-palm cord, traditionally held by laity and priests during prayer, especially at meals. Used by the priest during high liturgies. Traditionally made of pomegranate or tamarisk, but current Parsi practice is to substitute metal wires; grass laid out for the yazads to sit on. (Var. Av. 'baresman')
+behdin (Pers.): 	lit. 'of the Good Religion', a Zoroastrian, especially a lay person.
+behesht (Pers.): 	paradise.
+Bhagaria (Guj.): 	a group of priests noted for upholding ancient traditions. They are headquartered in Navsari.
+bhandar 	the central well of the dakhma
+Bharucha (Guj.): 	a group of priests headquartered in Bharuch.
+bhasam: 	consecrated ash from a Fire-temple, used ritually. RCC 114, 259
+bi-namaz 	lit. 'without prayer', a term for women in menses.
+boy (Phl.): 	lit. 'offering incense', a ceremony of offering sandalwood and frankincense to the consecrated fire during each of the five watches of the day. (Var. 'bui, nirang-i bui dadan, boy dadan')
+Bradrok-resh 	(pr. n.)
+Bundahishn (Phl.): 	a ninth-century Pahlavi text.
+Bushasp (Phl.): 	the demon of sloth (Var: Av. 'Bushyasta')
+C
+Chechast (Phl.) 	mythical lake.
+Chinwad (Phl.): 	a bridge which souls of the dead cross, and where they are judged (Var: Chinvat, Chinvar, Av. Chinavat)
+D
+daena (Av.):	See den.
+daeva (Av.): 	See dew.
+dagli (Guj.): 	A white formal jacket-like garment traditionally worn by Parsi/Irani laymen and priests on formal occasions. Compare jama. (Var. daglo)
+Dahak: (use Zohak)
+Dahm (Phl.) (pl 'dahman') 	a yazad honored on the fourth day after death; the plural, 'dahman' is synonymous with hamkar.
+Dahman Afrin 	embodiment of Prayer
+Daitya (Av.): 	a sacred river in Eranvej.
+dakhma (Av.): 	a tower-like structure on which dead bodies are exposed, also known as 'tower of silence'.
+Damawand (Phl., Pers.): 	a famous mountain in Iran tied with Zoroastrianism. (Var: 'Demavand')
+Dar-e Mihr (Pers.): 	a lesser fire temple; the area of a fire temple where high liturgies are performed. Lit. 'Place of Mihr (Var. Dar-i Mihr, Dar-i-Meher)
+dashtan (Phl., Pers.): 	menstruation.
+dastur (Pers.): 	a high priest (Var: Phl. 'dastwar')
+dawar (Pers.): 	a judge. (Var: Phl. 'dadwar')
+Day-pa-Adar: 	name of the eighth day of the month according to the Zoroastrian religious calendar.
+Day-pa-Den: 	name of the twenty-third day of the month according to the Zoroastrian religious calendar.
+Day-pa-Mihr: 	name of the fifteenth day of the month according to the Zoroastrian religious calendar.
+den/din (Phl., Pers.): 	1. 'religion', 2. 'inner self/conscience', name of the yazad presiding over the religion; name of the twenty-fourth day of the month according to the Zoroastrian religious calendar. (Var: Av. Daena).
+Din Dabireh 	Avestan alphabet. Name of the traditional script used for writing the Avesta. (Var: Din Dabiri, Den Dabiri, Den Dabireh)
+Denkard (Phl.) 	a ninth-century Pahlavi text, comprising a major survey of the religion. (Var. Dinkard, Dinkart, Denkart)
+dew (Phl.): 	a demon. (Var: 'dev', Av. 'daeva', OP. 'daiva')
+dharma-shala (Guj.): 	charitable institution.
+dibache (Pers.) 	lit. 'preface', an preliminary prayer (in Pazand) which names the spiritual being that a ceremony is dedicated to. It also names the benefactor and person in whose honor the ceremony is performed, and the town where it is being performed. Also known as (Phl.) Nirang Ashoan ('rite for the righeous souls'), (Phl.) Nirang i Boy Dadan , or (Guj.) Dhup Nirang ('rite for offering incense'). Also known as Nirang Peroz Bad from the opening words.
+dozakh (Pers.): 	hell.
+dron (Phl.): 	consecrated flat unleavened bread; a service in which bread is consecrated. (Var: 'darun', Av: 'draona, draonangha').
+druj (Av.): 	embodiment of evil and pollution, demon of the lie, falsehood. (Var: 'drug', OP. 'drauga')
+druj i nasush (Phl.): 	the corpse demon.
+Dukdaub (or Dugdov) 	(pr. n.)
+Durasrobo 	(pr. n.)
+duwazdah homast (Phl.): 	a high liturgy consisting of 12 sections, where Vendidad and Yasna is recited. (Var. 'dwazdah-homast, dvazdeh-homast, davazdah hamast')
+E
+Eranvej: 	lit. 'Iranian expanse', home of the Aryans. (Var. 'Eran-wez', Av. 'Airyanem Vaejah, Airyana Waejah')
+Erenavak [use Arnavaz]
+ervad (Parsi Guj.): 	a priest, originally a title used for higher ecclesiastics, currently used to refer to a priest who has undergone the first stage of initiation into priesthood (nawar). (Var: Phl. 'erbad', 'herbad', Av: 'aethrapati')
+Eshm: 	demon of Fury/Wrath. (Var. Av. 'Aeshma', Phl. 'Xeshm')
+F
+Faranghis (Pers.): 	(Pr. n.) daughter of Afrasiyab
+fargard (Phl.) 	lit. 'chapter, section', a term designating sections of the Vendidad and other books of the Avesta. Compare with kardah. (Var. 'fragard')
+Farhad: 	(pr. n.)
+Faridoon (Pers.): 	name of a heroic king of ancient Iran who flourished centuries before Zarathushtra. (Var: Av. 'Thraetaona', Pers. 'Fariydun')
+farohar (Pers.): 	guardian angel, guardian spirits of the living and dead. (Var: Phl. 'frohar, fravard, fravahr', Av. 'fravashi')
+farokhshi (Guj.): 	Parsi name for a ceremony dedicated to the farohars.
+farziyat (Ar.): 	obligatory prayers said in each of the five watches ('gahs') of the day.
+Fasli (Pers., Ar.): 	Zoroastrians who follow a religious calendar which intercalates one day every four years, patterned after the Gregorian calendar. (Compare with Qadimi and Shahanshahi.)
+Firdausi (Pers.): 	author of the Persian epic Shah-nama (Book of Kings) in which many Zoroastrian myths are recorded.
+fireshte (Pers.): 	a spiritual being/angel, used interchangeable with yazad. (Var. 'fireshta, fereshte')
+Fradadhafshu: 	see karshwar.
+Franrasyan: 	(pr. n.)
+Frashegird: 	lit. 'making wonderful', renovation of the universe, the last judgment. (Var: Av. 'Frasho-kereti')
+Frashostar (Phl.): 	(Pr. n.)
+Frasiyav: 	(Pr. n.)
+fravashi (Av.): 	See farohar.
+Frawardigan (Phl.): 	the last ten days of the religious calendar, during which the farohars of the departed are remembered, aka All-Souls days, Mukhtad. (Originally 'rozan Frawardigan'.)
+Frawardin: 	name of the nineteenth day of the month according to the Zoroastrian religious calendar; name of the first month.
+G
+gah (Phl., Pers.): 	one of the five watches or periods of the day (named 'ushahin', 'hawan', 'rapithwin', 'uzerin', and 'aiwisruthrem'); also 'place' or 'area'. (Var: 'geh')
+gahambar (Phl., Pers.): 	six major seasonal festivals, named 'maidyozarem' (mid-spring), 'maidyoshahem' (mid-summer), 'paitishahem' (bringing in the corn), 'ayathrem' (homecoming of cattle), 'maidyarem' (mid-winter), and 'hamaspathmaidyem' (coming of the whole group [of farohars]). (Var. 'gahanbar')
+Gaokerena: 	mythical cosmic tree.
+garothman (Parsi Guj.): 	the 'House of Song', i.e. heaven. (Var: Av. 'Garo-nmana', Phl. 'garodman', 'garotman')
+Garsivaz (Pers.) 	(Pr. n.) brother of Afrasiyab (Av. Keresavazda)
+Gatha (Av.): 	the five sacred hymns of Zarathushtra (Yasna chapters 28-34, 43-51, 53), part of the Avesta; the five supplementary days at the end of the Zoroastrian religious calendar and the fireshtes presiding over them.
+gaw (Phl., Pers.): 	name of a yazad personifying cattle; an ox, bull or cow.
+Gayomard (Phl.): 	lit. 'mortal life', mythical first man according to some Phl. texts. (Var: Av. 'Gayo-maretan')
+geh-sarnu (Parsi Guj.): 	recitation of the Gathas during a funeral service. (Var: Phl. 'geh-sarna, gahan-srayishn')
+gehân 	an iron bier on which a dead body is removed
+getig (Phl.): 	material existence; the world. (Compare with 'menog'.)
+getig-kharid (Pers.): 	a ceremony of redemption, consisting of the recital of nine Yasna services.
+Gewra 	Ceremony which qualifies priests to initiate as candidate into the priesthood. It consists of performing the Yasna ritual for six consecutive days. (RCC, p. 202) (var. Gewrâ)
+giriban (Pers.): 	a small pocket on the throat of the sudre (sacred shirt), also known as "kissa-e kerfa" (the bag of good deeds) (Pers.).
+God: 	see Ahura Mazda.
+Godavara (Guj.): 	one of the Gujarat ecclesiastical groups of priests, serving a large rural area, headquartered in Anklesar.
+gomez (Phl.):	(unconsecrated) bull's urine.
+Goshorun: 	lit. 'the soul of the cow (or settlement)'; name of the fourteenth day of the month according to the Zoroastrian religious calendar; (Av. Geush Urvan)
+Gowad: 	See Wad.
+Gushnasp 	See Adar Gushnasp
+H
+Hadish 	A sacred being.
+hamaspathmaidyem (Av.): 	lit. 'coming of the whole group [of farohars]', feast of All Souls. (Var. Hamaspathmaedaya)
+hamazor (Phl.): 	a ritual greeting.
+hamistagan (Phl.): 	purgatory, a neutral place between heaven and hell where souls go when their good deeds equal their evil deeds. (Var: 'Hameshta-gehan')
+hamkar (Phl.): 	lit. 'co-workers', associates of the yazad which presides over the day. The term 'dahman' is also used.
+haoma (Av.): 	name of a plant with medicinal and spiritual properties; name of the yazad presiding over the haoma plant. (Var: Phl. 'hom').
+Haptoring (Phl.) 	Constellation
+Hara: 	Mythical mountain. (Var: 'Hukairya')
+Hasar (Phl.) (Av. hathra) 	Ameasure of distance, as well as of time
+Hathêvâro:	Hand fastening; part of the marriage ceremony (RCC 33).
+Hathra:	a measure equal to one-half of a charetu, or about 3.5 furlongs.
+Haurvatat (Av.):	see Hordad.
+Hawan (Phl.): 	name of the second watch (gah) of each day (sunrise to midday, i.e., 12 noon); a yazad presiding over the second watch. (Var. 'havan', Av. 'havani')
+hawanim (Av.):	Mortar in which haoma plant is pounded. (Var. Havanim, hâvan&icurc;m
+herbad:	See ervad.
+hom (Phl.):	see haoma.
+Hooshang (Pers.): 	a mythological ruker of ancient Iran, founder of the Peshdadian dynasty, He is credited with the discovery of fire. (Var. 'Hushang', Av. 'Haoshanha')
+Hordad (Phl.): 	lit. 'Perfection or Health', name of an Amahraspand; name of the sixth day of the month according to the Zoroastrian religious calendar; name of the third month. (Var: Av. 'Haurvatat')
+Hormazd (Pers.) 	name of various kings of the Parthian and Sasanian dynasties.
+Hoshedar (use Ushedar) 	(Pr. n.)
+Hoshedarmah (use Ushedarmah) 	One of the future Soshyants.
+Hukairya: 	See Hara.
+Hutos 	(Pr. n.)
+Hvov (Phl.) 	(Pr. n.)
+I
+Ilm-i Khshnoom: 	a Parsi occult movement, heavily influenced by Theosophy and the pseudo-Zoroastrian Azar Kayvani sect.
+Indar: 	Name of a demon. (Var: Skt. 'Indra')
+Iraj: use Airik 	Son of Faridoon
+Iranshah (Pers.) 	the oldest sacred fire (Atash Bahram) in India, now in Udvada.
+Isadvastar: 	(Pr. n.) son of Zarathushtra
+
+J
+jama (Guj.): 	A long white formal garment traditionally worn by Parsi/Irani priests, especially on formal occasions. Compare dagli. Its use has to some extent been replaced by the dagli.
+Jamasp (Phl.): 	an early hero of the Zoroastrian religion. He was King Vishtasp's Prime Minister, and the son-in-law of Zarathushtra. (Var: Av. 'Jamaspa')
+Jamshed (Pers.): 	a famous king of ancient Iran. (Var: 'Jamshid', Av. 'Yima Khshaeta')
+jashan (Phl. Pers.): 	a frequently-performed religious service, in which an afrinagan ceremony is performed. (Var: 'jashn', Parsi 'jasan').
+jizya: 	poll tax levied from non-Muslims.
+juddin: 	non-Zoroastrian. <> Juden!
+
+K
+kabiseh: 	intercalation done to keep calendar consistent with seasons <> mercurion
+Kangdez 	A country.	<> Bal-KANs
+kaplo (kâplô): 	A knife with metallic handle, used for cutting purposes. RCC 288
+karb:	priest of the old religion. (Var: Av. 'Karapan').
+karapan (Av.):	See karb.
+kardah:	A section or division of most Yashts and other books of the Avesta. Compare with fargard.
+karsha: 	A furrow drawn on the ground to isolate impurities. RCC 109
+karshwar (Pah.): 	one of the seven continents of the earth, named 'Arezahi' (West), 'Sawahi' (East), 'Fradadhafshu' (Southeast), 'Widadhafshu' (Southwest), 'Wouru-bareshti' (northwest), 'Wourujareshti' (Northeast), and 'Xwaniratha' (central). Eranvej is located in the latter.
+Kavi Haosravah (Av.) 	(king) (= Pers. Kay Khosraw)
+Kavi Usan (Av.) 	(king) (= Pers. Kay Kavus)
+Kavi Vishtaspa (Av.) 	(king) (= Pers. Kay Gushtasp)
+kay:	See Kayanian.
+Kayanian: 	a prehistoric dynasty of ancient Iran. (Var: 'kay, kayag, kavi', Av. 'kavaya')
+Kay Arsh (Phl.): 	Legendary king
+Kay Kaus (Phl.): 	a Kayanian king. (Var: Av. 'Kavi Usan')
+Kay Khosraw (Pers.): 	a Kayanian king, grandson of Kay Kaus. (Var: Av. 'Kavi Haosravah')
+Kay Kobad (Pers.): 	founder of the Kayanian dynasty. (Var: Av. 'Kavi Kavata.')
+Kay Loharasp (Pers.) 	Legendary king. See Lohrasp. (Av. Aurvat-aspa)
+Kay Vishtasp (Phl.): 	king of ancient Iran, patron of Zarathushtra. (Var: Av. 'Vishtaspa', Pers. 'Gushtasp')
+kem na mazda (Av.): 	an exorcism prayer from the Avesta.
+Keresavazda (Av.) 	(pr. n.) (= Pers. Garsivaz)
+Kersasp (Phl.): 	a king of ancient Iran. (Var: 'Garshasp', Av. 'Keresaspa')
+Keshmak (Phl.): 	(pr. n.) ('the Karb')
+Khambata (Guj.): 	a group of priests, headquartered in Khambat.
+kheshm (Phl., Pers.): 	the a demon of wrath.
+Khorda Avesta (Pers.): 	the 'Small Avesta', a prayer book with excerpts from the Avesta.
+Khordad-sal (Pers.): 	the sixth day of the year.
+Khorshed (Parsi Pers.): 	See Khwarshed.
+Khshathra Vairya (Av.): 	see Shahrewar.
+khshnuman (Phl.): 	lit. 'dedication', a dedicatory section (in Avesta) naming the yazad in whose honor a ceremony is performed. There are two types of khshnumans, nani ("shorter"), and wadi ("longer").
+khwan (Phl., Pers.):	stone table or slab used for rituals. Stands on fout feet, cut from ordinary stone or marble. (Var. Khwân, Khôân) (Modi, RCC 270-4)
+khwarrah (Phl.): 	divine grace or glory. (Var: Phl. 'farr', 'farrah', 'khurra', Av. 'khvarenah', 'khwarenah', 'hvareno').
+Khwarshed: 	'the shining sun'; name of the yazad presiding over the Sun; name of the eleventh day of the month according to the Zoroastrian religious calendar; (Var: Pers: Khurshid)
+khwetodas (Phl.): 	next-of-kin marriage. (Var: Av. 'khvaetvadatha')
+kriya (Skt.): 	ritual action.
+kusti (Pers.): 	sacred cord worn around the waist by Zoroastrians; the short ritual of untying and retying the kusti.
+L
+Lohrasp (Phl.):	a king of ancient Iran, father of Kay Vishtasp. (Var: Av. "Aurvat-aspa")
+M
+maga	A pit, dug during the barashnom ritual. RCC 109
+magus: 	a priest (pl. magi). Compare with "mobed".
+mah (Phl., Pers.): 	moon; month; name of the twelfth day of the month according to the Zoroastrian religious calendar; name of the yazad presiding over the Moon.
+Mah-rui (Pahl.) 	"moon-faced" metallic stands for the barsom (qv) (Var. mah-ruy, mâh-rûî)
+Mahraspand: 	lit. 'Holy Word', name of a yazad who embodies the Holy Word; name of the twenty-ninth day of the month according to the Zoroastrian religious calendar. (Var: Av. 'Manthra Spenta')
+Mahrkus (Pahl.) 	Legendary Sorceror
+maidyarem: 	mid-winter feast (gahambar).
+maidyoshahem: 	mid-summer feast (gahambar).
+maidyozarem: 	mid-spring feast (gahambar).
+Mani (Phl., Pers.): 	founder of Manichaeism, a Gnostic religion with Zoroastrian elements, considered an arch-heretic (lived from 216 A.C.-275 A.C.)
+manthra (Av.): 	Holy Word; specific passages of the Avesta with specific poetic and spiritual properties. Compare with Mahraspand.
+Manuschihar (Phl.) 	(pr. n.) Legendary king. See Minochehr. (Av. 'Manuschithra')
+maratab (Ar.): 	a ceremony which qualifies a priest to perform higher rituals. Compare with nawar. (Var. 'martab')
+margarzan (Phl.): 	mortal sin.
+Mashye-Mashyane (Phl.): 	the first human couple, sprung from the seed of Gayomard, the first man.
+Mazda (Av.): 	see Ahura Mazda.
+Mazdayasni (Av.): 	another term for the Zoroastrian religion, lit. "worship of Mazda".
+Mazendaran: 	A land north of Iran. (Var. 'Mazana'; modern 'Mazandaran')
+menog (Phl.): 	spiritual existence; spiritual world. (Compare with getig.) (Var: Av. 'mainyu')
+Mihr (Phl., Pers.): 	yazad presiding over the contract; name of the sixteenth day of the month according to the Zoroastrian religious calendar; name of the seventh month.
+Mihragan (Phl.): 	a festival honoring the yazad Mihr, celebrated on the 16th day of the seventh month. (Var: Mehragan, Mehregan, MEHREG?N).
+Minocheher (Pers.): 	a king of ancient Iran. (Var: 'Manuchihr', Av. 'Manuschithra')
+mobed (Pers.): 	a Zoroastrian priest, orig. head priest ('Magu-paiti', master of Magi).
+Mukhtad (Pers.?): 	All Souls festival. See Frawardigan.
+myazd (Phl.): 	a ceremonial food offering.
+N
+nahn: 	ablution, a ritual washing of the entire body, a higher form of purification than padyab.
+nama karana 	ceremony for naming a newborn, usually 10-12 days after birth
+namaskar (Guj.): 	a short prayer of homage. (Var: 'nemaskar')
+Nam Stayishn (Phl.):	name of a Pazand prayer praising Ohrmazd, part of the Khorda Avesta.
+naogar (naôgar):	A stick with nine knots, used in purifying ceremonies. RCC 109.
+nasa (Pers.):	dead matter, pollution; demon of putrefaction. (Var: Av. 'nasu', Phl. 'nasush')
+nask (Phl.):	lit. 'book, volume,' one of the 21 volumes into which the Avesta was divided in ancient times; a religious service (Sudgar, Warsht-mansr, bag, damdad, nadar, pazag, ratushtaiti, barish, kishkisrub, Wishtasp-sast, Washtag, Chihrdad, Spand, Bagan-yasn, Nigadum, Duwasrud, Husparum, Sagadum, Jud-dew-dad, Hadokht, Stud-yasn)
+navjote (Parsi Guj.): 	initiation into the Zoroastrian religion, a ceremony of investiture of the sudre and kusti. Also called 'sedra pushun'.
+Navsari (Pers., Guj.): 	a town in Gujarat India, a stronghold of Zoroastrianism.
+nawar (Phl.): 	a four day ceremony which qualifies a candidate for the priesthood. Compare with maratab,
+Nawruz (Pers.): 	New Years Day. (Var: 'Noruz', 'No Roz')
+Neryosang (Phl., Pers.): 	name of a yazad. (Av. 'nairyosangha')
+nirang (Phl.): 	lit. 'formula, spell', a short ritual accompanied by Avestan or Pazand prayers; consecrated gomez.
+nirang-i kusti bastan (Pers.): 	formula for retying the kusti, this short ritual is a necessary prelude to longer prayer.
+nirangdin (Phl.): 	name of the most exalted and elaborate of Zoroastrian high liturgies.
+niyayesh (Pers.): 	one of five Zoroastrian litanies from the Avesta, part of the daily prayers. (Var: 'nyayesh, nyayishn')
+nyayesh: 	see niyayesh.
+O
+Ohrmazd (Phl.): 	God, the supreme being; name of the first day of the month according to the Zoroastrian religious calendar. (Var: Ormazd, Av. 'Ahura Mazda')
+Old Persian: 	language of the Achaemenian empire, recorded in cuneiform inscriptions.
+Osta: 	lit. 'disciple', a candidate for priesthood. (Av. 'havishta')
+Osti: 	a woman of priestly family.
+P
+padan (Pers.) 	a white cloth mask used by a priest during ceremonies to keep his breath from directly touching the fire.
+padyab (Pers.): 	a ritual washing of the exposed parts of the body. Compare with nahn.
+padyab-kusti (Pers.):	a ritual ablution followed by the ritual untying and retyingof the kusti.
+pagdi	traditional headgear (compare pheta).
+Pahlavi 	the Middle Persian language, used between 300 B.C. and 950 A.C, in which many Zoroastrian writings are preserved.
+pairika (Av.): 	a class of malevolent supernatural creature, fairy. Sometimes misleadingly translated as witch or sorceress. Shooting star. (Var. Persian Pari, Peri.)
+paitishahem: 	feast (gahambar) of bringing in the harvest.
+panchayat: 	local association of Zoroastrians.
+Palash (Parsi Pers.): 	a Parthian king (51-80 A.C.). (Var. Greek 'Vologeses I', Phl. 'Walakhsh')
+panj tay (Pers.): 	a ceremony performed with a 'five-wire' barsom, which is prerequisite for performing any high liturgy for the day. (Var: 'baj of panch tai')
+panthak (Guj.):	priestly jurisdiction.
+Paoiryo-tkaesha (Av.):	lit. 'primitive doctrine', forerunner of Zoroastrianism. Alternately, one of the first teachers of the Zoroastrianism. (Var: Phl. 'poryotkesh')
+paragna:	a ceremony which precedes the Yasna. (Var: 'Paragnâ')
+Parsis: 	Zoroastrians who settled in India. Sg: Parsi. (Var: 'Parsees')
+Parthian: 	a royal dynasty ruling Iran from 250 B.C.-226 A.C.
+patet (Phl.): 	prayer of penance (in Pazand).
+pavi (pâvi, pav): 	Lit. "sacred" or consecrated. A permanently constructed ritual furrow (karsha, qv). RCC 115. The platform of the dakhma is divided into separate sections names pavis. RCC 68.
+paywand (Phl.) (paewand, paiwand): 	lit. 'connection,' ritual contact between persons serving as a shield against pollution. A ritual connection. "To hold a "paywand" means to be in close contact or touch. This is done by holding a piece of cloth or cotton tape by two persons to show that they are associated or joined in doing a thing." (Modi, funeral)
+Pazand (Phl.): 	Pahlavi texts in which Aramaic elements are replaced with their Iranian equivalents, transcribed in the Avestan script.
+Peshdadian:	the first dynasty of ancient Iran.
+Peshotan (Pers.):	an early hero of Zoroastrianism, he was the son of Kay Vishtasp.
+Pesho-tanu (Av.):	a 'mortal-sin'; an individual who has committed a mortal sin.
+pheta	traditional headgear. (Var. feta.) (Compare pagdi.)
+Porseh Ceremony	Memorial Service
+Pourushasp (Phl.): 	name of Zarathushtra's father. (Var: Av. 'Paourushaspa')
+Q
+Qadimi (Pers., Ar.): 	one of the three movements within Zoroastrianism which observe different religious calendars (the other two are called Fasli and Shahanshahi). The Qadimi calendar is one month ahead of the Shahanshahi.
+R
+Ram: 	lit. 'joy', name of a yazad; name of the twenty-first day of the month according to the Zoroastrian religious calendar.
+Rapithwin (Av.): 	the period of the day (gah) from noon to mid-afternoon; a yazad presiding over the Rapithwin gah. During five months of the year it is replaced by a second Hawan.
+Rashn (Phl.): 	lit. 'truth, justice', name of a yazad; name of the eighteenth day of the month according to the Zoroastrian religious calendar; (Av. Rashnu).
+Rashnu (Av.): 	see Rashn.
+raspi (Pers.) 	assistant priest.
+ratu (Av.) 	judge, often found in conjunction with 'Ahu'. (Var. Phl. 'rad')
+rawan (Phl.): 	soul. (Var: Av. 'urvan')
+riman (Phl., Pers.): 	something that has become polluted by contact with dead matter; a ceremony of purification, used by Parsees in place of barashnom to purify lay persons.
+Rivayat (Ar.): 	a collection of letters in Persian from Iranian priests in response to questions by their Indian counterparts on a variety of religious topics, written between 1478 and 1773 C.E.
+Rustam (Pers.): 	a hero of ancient Iran.
+S
+sada (Pers.) 	lit. 'pure, simple,' Avestan texts without Pahlavi commentaries.
+sagdid (Phl.): 	lit. 'a dog's gaze', this term refers to the practice of exposing a corpse to the gaze of a dog, which is believed to drive away some of the power of the druj.
+sagri (Guj.): 	a small building near a dakhma where a fire is kept burning.
+Sanjana (Guj.): 	a group of priests headquartered in Udvada.
+Saoshyant (Av.) 	see Soshyant.
+Sasanian: 	the Zoroastrian dynasty which ruled Iran from circa 226 A.C.-651 A.C. (Var: 'Sasanid')
+satum: 	meal offering ritual prayer for dead.
+Second Hawan: 	the third watch (gah) of each day (noonday to 3 p.m.) during part of the year. Compare with Rapithwin.
+sedra-pushun: 	see navjote.
+Shahanshahi (Pers.): 	one of the three movements within Zoroastrianism which observe different religious calendars (the other two are called Fasli and Qadimi.)
+Shahrewar (Phl.): 	lit. 'Desirable Dominion', the Amahraspand presiding over metals; name of the fourth day of the month according to the Zoroastrian religious calendar; name of the sixth month. (Var: Av. 'Khshathra Vairya')
+Shayest Ne-Shayest (Phl.) 	Middle-Persian religious text (Var. Shayast-la-Shayast)
+sijda 	A bow of last respects. RCC 66
+siroza, siruza (Pers.): 	lit. '30 days', a prayer from the Avesta which honors 30 yazads.
+Soshyant (Phl.) 	the (World) Savior. (Var: Av. 'Saoshyant')
+Spandarmad (Phl.): 	lit. 'Holy Devotion', the Amahraspand presiding over the earth; name of the fifth day of the month according to the Zoroastrian religious calendar; name of the twelfth month. (Var: Av. 'Spenta Armaiti')
+spenta (Av.) 	holy, beneficent.
+Spenta Armaiti (Av.): 	see Spandarmad.
+Spenta Mainyu (Av.): 	Holy Spirit. (Var: Phl. 'Spenamino')
+Spentomad: 	name of the third Gatha; name of the third Gatha day.
+Spozgar (Paz.): 	demon of thunderstorms.
+Srosh (Phl.): 	lit. 'Hearkening'; name of a yazad; name of the seventeenth day of the month according to the Zoroastrian religious calendar; a spirit being who guards the soul for three days after death (Var: Av. 'Sraosha')
+stareta (Av.) 	Carpet on which officiating priest sits.
+stum (Parsi Guj.): 	a prayer recited on meals in honor of the dead. (Var: 'satum')
+sudre (Pers.): 	sacred shirt. (Var: 'sudra, sudreh')
+sudre-kusti (Pers.): 	sacred shirt and girdle.
+Siyamak (Phl.): 	a hero of ancient Iran, son of Gayomard, the first king of Iran. (Var: 'Siamak', 'Syamak')
+syaw (Parsi Guj.): 	a suit of white clothes consecrated during the Dron service. (Var: 'siav, shiav')
+Syawakhsh (Phl.): 	name of an ancient Iranian hero, son of Kay Kaus.
+T
+Tahmurasp (Pers.): 	name of an ancient Iranian hero, son of Hooshang.
+tana 	the ceremony of laying the foundation for a new Dakhma.
+tanapuhr (Phl.): 	a mortal sin, or a good deed which can balance a mortal sin.
+tan-dorosti (Paz., Pers.): 	a prayer of benediction (in Pazand).
+Taromaiti (Av.) 	(Phl. Taromat) Name of a demon, opposed to Armaiti.
+Tashta (Av.) 	Metallic plates used in haoma ritual.
+Tâvize (Phl.):	Amulet.
+Tir (Phl.):	see Tishtar.
+Tiragan:	Religious celebration in honor of Tishtar.
+Tishn (Phl.):	demon of thirst.
+Tishtar (Phl.):	the star Sirius; name of the yazad presiding over Sirius; name of the thirteenth day of the month according to the Zoroastrian religious calendar; name of the fourth month. (Var: Phl. 'Tir')
+topi:	traditional skull cap generally worn during prayers.
+Tur (Pers.):	name of an ancient Iranian hero, one of the three sons of Faridoon.
+Tura, Turanian: 	a foreign tribe mentioned in the Avesta, probably originally Scythian, later applied to all Central Asian nomads.
+U
+urvan (Av.):	soul.
+urvaram (Av.):	pomegranate plant.
+urvis:	lit. "turning point" (as in a racecourse). Cosmic racecourse, also, the ritual "circle or the limits within which the celebrants have to remain." Also, the ritual table (altar, khwan) at which the ritual implements (alat) are arranged (Khwan of alat). Urvis-gah (Urviçgâ) is a synonym of Yazashna-gah. [Var. 'rwaisa' (Gathic Avestan), Urviç, Aurves, Aûrvés, Aurvis, urwes, urwis, urwês, urwîs.] (Cf. Modi RCC 263, 271, 277; DD48.13; Windfuhr 2004, pp. 176-7.)
+Ushahin:	name of the first watch (gah) of each day (from midnight to daybreak).
+Ushedar (Phl.): 	(pr. n.) One of three future world saviours (Var. Aushedar, Hoshedar)
+Ushedarmah (Phl.): 	(pr. n.) One of three future world saviours (Var. Aushedar-mah, Hoshedar-mah, Hoshedarmah)
+Ushtawad: 	name of the second Gatha; name of the second Gatha day.
+uthamnu (Guj.): 	a communal service performed on the third night after death. (Var. 'Uthamna')
+Uzerin: 	the fourth watch (gah) of each day (from 3 p.m. to sunset).
+V
+Vanant (Av.) 	Yazad of the Star Vega.
+Vendidad (Pers.): 	one of the books of the Avesta; a high liturgical service in which the Vendidad is recited.
+Vishtasp (Phl.): 	see Kay Vishtasp.
+Vispa Humata (Av.): 	a short prayer from the Khorda Avesta focussing on good thoughts, words, and deeds.
+Visperad (Phl., Pers.): 	one of the books of the Avesta; a high liturgical service dedicated to Ahura Mazda.
+Vohuman (Phl.): 	lit. 'Good Mind', one of the Amahraspands; name of the second day of the month according to the Zoroastrian religious calendar; name of the 11th month. (Var. Av. 'Vohu Manah')
+Vohu Manah (Av.): 	see Vohuman.
+Vourukasha (Av.): 	lit. 'of many bays', mythical ocean.
+W
+Wad: 	lit. 'wind, atmosphere', name of the yazad presiding over the wind; name of the twenty-second day of the month according to the Zoroastrian religious calendar. (Var. Gowad, Govad).
+wahisht (Phl.): 	paradise.
+Wahishtoisht: 	name of the fifth Gatha; name of the fifth Gatha day.
+warasyo (Parsi Guj.): 	a consecrated white bull. Its hair is used for ritual purposes. (Var: 'varasyo', Av. 'varesa')
+Warharan: 	lit. 'victory', name of a yazad; name of the twentieth day of the month according to the Zoroastrian religious calendar. (Var: Pers. Bahram, Behram.)
+Wohukhshathra: 	name of the fourth Gatha; name of the fourth Gatha day.
+Y
+Yasht (Phl.): 	one of the hymns of the Avesta honoring various spiritual beings.
+Yasna (Av.): 	one of the books of the Avesta; the name of a high liturgical service in which the text of the Yasna is recited. (var. Yaçna, yazashna)
+yatha ahu vairyo (Av.): 	the first phrase of the Ahunwar prayer. (var. Ahunvar)
+yazad (Phl.): 	a created spiritual being, worthy of being honored or praised. Used interchangeably with fireshte. (Var: Ijad, Av. 'Yazata')
+Yazdegird (Phl.): 	the last Sasanian king. The Zoroastrian calendars numbers the year based on his reign, and uses the label 'A.Y.' for 'after Yazdegird'.
+yenghe hatam (Av.): 	one of the most sacred prayers of Zoroastrianism.
+Yima (Av.) 	See Jamshed.
+yozdathregar ( Av.): 	lit. 'purifier', the priest who administers the barashnom ceremony of purification. (Var: Av. 'yaozdathragar')
+Z
+Zam: 	lit. 'earth', yazad presiding over the earth; name of the twenty-eighth day of the month according to the Zoroastrian religious calendar. (Var. 'Zamyad')
+Zand: 	translation and exegesis. The term 'Zand-Avesta' or 'Zend-Avesta' refers to an edition of the Avesta which has Zand interspersed with the Avesta text. (Var. Zend.)
+Zaothra: 	libation (Var: Phl. 'zohr')
+Zarathushtra (Av.): 	name of the founder of Zoroastrianism. (Var: Parsi Guj. 'Zarthosht', Phl. 'Zartosht, Zardusht', Greek 'Zoroaster')
+Zarthosht (Parsi Guj.): 	see Zarathushtra.
+Zend-Avesta: 	see Zand.
+Zinda-rawan (Pers.): 	lit. 'living soul' (as distinguished from anosharawan, the soul of a deceased person); 
+Zinda-rawan a ceremony honoring the yazad Srosh on behalf of a living person. (Var, 'Zenda-ravan')
+Zohak (Pers.): 	a mythical tyrant. (Var. 'Zahhak', Av. 'Azi Dahaka')
+Zoroaster (Greek): 	see Zarathushtra.
+Zoroastrianism: 	the religion founded by Zarathushtra (12th century B.C.?), the oldest of the great prophetic religions.
+zot (Phl.): 	officiating priest.

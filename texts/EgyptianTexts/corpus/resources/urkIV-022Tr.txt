@@ -1,0 +1,83 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2015-02-09
+modified = 2015-02-09
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of a third inscription from the tomb
+of Ineni, following the transcription of Sethe (1927), number 22 (pp.
+66-67).
+
+For published translations, see Sethe (1914), number 22 (p. 35).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+[...] ^jnnj Dd=f
+;
+[...] Ineni says:
+
+[jn]k saH gr spx-jb
+;
+'I was a nobleman, quiet and modest,
+
+Sw m sxm jb
+;
+free of insolence.
+
+wnn rn(=j) mn(.w) Hr bjt(=j)
+;
+My name will endure because of my character,
+
+r DAwt jrt.n(=j) tp tA
+;
+according to what I did on earth.
+
+sAx.tw bA(=j) m-xt mnj=j
+;
+My soul will be glorified after my death
+
+m-m jrjw Axt
+;
+among those who did good.
+
+wnn xrw=j mAa(.w) m wsxt
+;
+I will be justified in the hall,
+
+jnk js mAa-xrw tp tA
+;
+as I was justified on earth.
+
+drp.tw n(=j) Hnk Xrt-hrw
+;
+Daily offerings will be made to me,
+
+jnk drp [...] [aH]a(=j)
+;
+as I have made offerings [...] my life.'
+
+jmj-rA Snwtj n ^jmn
+;
+Overseer of the granaries of Amun,
+
+^jnnj mAa-xrw
+;
+Ineni, justified.

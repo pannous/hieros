@@ -1,0 +1,135 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2015-08-07
+modified = 2015-08-07
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the stela of Hormeni, in Florence,
+following the transcription of Sethe (1927), number 27 (pp. 76-77).
+
+For published translations, see 
+Breasted (1906), pp. 20-21, §§ 47-48;
+Sethe (1914), number 27 (p. 40).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> Htp-Dj-nsw ^Hr ^nxn 
+;
+<1> A royal offering of Horus of Hierakonpolis, 
+
+^wsjr Hrj-jb ^nxn
+;
+Osiris in Hierakonpolis,
+
+^jnpw tpj Dw=f jmj-wt
+;
+Anubus on his mountain, the one of embalming,
+
+<2> nb tA-Dsr
+;
+<2> lord of the necropolis.
+
+Dj=sn prt-r-xrw
+;
+May they give a mortuary offering
+
+t Hnqt kAw Apdw
+;
+of bread, beer, oxen and fowl,
+
+jxt nb nfrt wabt anxt nTr jm
+;
+and all good and pure things on which a god lives,
+
+DDt pt
+;
+what the sky gives,
+
+<3> qmAt tA
+;
+<3> what the land produces,
+
+jnnt Hapj m TpHt=f
+;
+what the Nile brings from its source,
+
+ssnt TAw nDm <4> n mHyt
+;
+smelling the sweet breath <4> of the north wind,
+
+swr mw Hr bAbAt nt jtrw
+;
+drinking water from the watering-place of the river,
+
+aq prt <5> m hrw xr tpjw-a 
+;
+coming in and going out <5> by day with the ancestors,
+
+r Ssp prt-r-xrw m Hb nb nfr n ^wsjr
+;
+to receive a mortuary offering at every beautiful feast of Osiris,
+
+n kA n sS <6> ^Hr-mnj
+;
+for the scribe <6> Hormeni.
+
+Dd=f
+;
+He says:
+
+jT.n=j rnpwt aSAt m HAtj-a n ^nxn
+;
+'I spent many years as count of Hierakonpolis.
+
+ms.n=j <7> jnw=s n nb tAwj
+;
+I brought <7> its tributes to the lord of the Two Lands.
+
+Hs.kw
+;
+I was praised,
+
+n gm.tw sp=j
+;
+as no fault of mine was found.
+
+pH.n=j jA<8>wj m ^wAwAt
+;
+I reached old age in Wawat,
+
+jw=j m mH-jb n nbw=j
+;
+while being confidant of my lords.
+
+xdd=j Xr <9> jnw=s n nsw Tnw rnpt
+;
+Every year I sailed north with its tributes to the king.
+
+prr=j jm m mAa-xrw
+;
+I ascended there as one who is justified.
+
+n gm.n.tw DAyt=j
+;
+No wrongdoing by me was found.'

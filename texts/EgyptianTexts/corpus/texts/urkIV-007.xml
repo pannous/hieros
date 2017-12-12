@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Tetisheri, Stela of Ahmose honouring"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="7"/>
+<collection kind="kings" collect="Ahmose"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="33-37"/>
+<resource location="../resources/urkIV-007Hi.xml"/>
+<resource location="../resources/urkIV-007Tr.txt"/>
+</text>

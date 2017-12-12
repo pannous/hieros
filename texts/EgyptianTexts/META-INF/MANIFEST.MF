@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.6
+Created-By: 1.8.0_72-b15 (Oracle Corporation)
+Main-Class: AppletViewCorpus
+Class-Path: lib/itextpdf-5.4.3.jar
+

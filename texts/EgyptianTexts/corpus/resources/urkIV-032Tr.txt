@@ -1,0 +1,406 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2015-08-23
+modified = 2015-09-02
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration for the Tombos stela of Tuthmosis I, following the
+transcription of Sethe (1927), number 32 (pp. 82-86).
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), pp. 27-31, §§ 67-73;
+Goedicke (1996); Sethe (1914), number 32 (pp. 42-44).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+H. Goedicke. The Thutmosis I Inscription near Tomâs. <i>Journal of
+Near Eastern Studies</i>, 55(3): 161-176, 1996.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+###
+
+<1> rnpt-sp 2 Abd 2 Axt sw 15
+;
+<1> Year 2, second month of the Season of Inundation, day 15,
+
+xr Hm n
+;
+under the majesty of
+
+^Hr ^kA-nxt mrj-mAat
+;
+Horus: Mighty bull, beloved of Maat;
+
+nbtj ^xaj-m-nsrt aA-pHtj
+;
+Two Ladies: Shining as a flame, great of strength;
+
+^Hr-nbw ^nfr-rnpwt sanx-jbw
+;
+Gold Horus: Perfect of years, who enlivens the hearts;
+
+nsw-bjtj ^aA-xpr-kA-^ra
+;
+The king of Upper and Lower Egypt: Aakheperkare,
+
+Dj anx
+;
+given life;
+
+sA-^ra ^DHwtj-msjw
+;
+Son of Re: Tuthmosis,
+
+Dt
+;
+forever!
+
+[...] bs.t<2>w=f
+;
+[...] his introduction.
+
+xat=f m Hrj-tp tAwj
+;
+His appearance as chief of the Two Lands
+
+r HqA Snt.n jtn
+;
+to rule what the sun revolves around,
+
+rsw mHw m-rA-a
+;
+the southern and the northern lands as well,
+
+psSwt ^Hr ^stx
+;
+the shares of Horus and Seth,
+
+smAt tAwj
+;
+the union of the two lands,
+
+snDm=f Hr nswt ^gbb
+;
+as he sat on the thrones of Geb,
+
+wTs.tw <3> xaw sxmtj
+;
+and the double crown was raised.
+
+tj Hm=f jT.n=f jwat=f
+;
+As His Majesty took possession of his inheritance,
+
+Htp.n=f TnTAt ^Hr
+;
+he sat down on the dais of Horus,
+
+r swsx tASw ^wAst
+;
+to widen the borders of Thebes
+
+Hnbwt ^xft-Hr-nb=s
+;
+and the fields of Khef-her-nebes,
+
+r bAk n=s Hrjw-Sa
+;
+to enslave to her the bedouin,
+
+<4> xAstjw
+;
+<4> the hill dwellers,
+
+bwjtjw nTr
+;
+those abominated by god,
+
+HAw-nbwt
+;
+the inhabitants of the Aegean Sea,
+
+rtHw-qAbt
+;
+and the <al>rtHw-qAbt</al> people.
+
+rsw m xd
+;
+Southerners are going north
+
+mHtjw m xnt
+;
+and northerners are going south,
+
+xAswt nbt dmDy Xr jnw<5>=sn
+;
+all foreign lands together carrying their gifts
+
+n nTr nfr sp tpj
+;
+to the good god of the primordial time,
+
+^aA-xpr-kA-^ra anx(.w) Dt
+;
+Aakheperkare (may he live forever!).
+
+nxt ^Hr nb tAwj
+;
+Horus, lord of the Two Lands, is victorious.
+
+Hnk n=f xnsw<note>Uncertain.</note> pnw<note>Uncertain.</note> Hrjw
+;
+Tied to him were [???] the chiefs,
+
+wHwt=sn n=f m sn-tA
+;
+their villages to him, kissing the ground.
+
+Hnwtjw m <6> hbt n Hm=f
+;
+The <al>Hnwtjw</al> people are <6> dancing in homage to His Majesty,
+
+ksw n jmt-HAt=f
+;
+bowing to his uraeus.
+
+sxr.n=f wr stjw
+;
+After he had overthrown the chief of the Nubians,
+
+nHsj wSr [???] Ssp=f
+;
+the despoiled Nubian [???] his grip.
+
+sHwj.n=f tAS<7>w gswj=fj
+;
+After he had brought together the borders of its two sides,
+
+n xpr nhw m nbDw-qd
+;
+no losses occurred to the evil ones
+
+jw r nx=f
+;
+who had come to its aid.
+
+n sp wa jm
+;
+Not one thereof remained.
+
+jwntjw xr(.w) n Sat
+;
+When the Troglodytes fell to terror,
+
+Dj(.w) Hr gs xt tAw=sn
+;
+and were thrown aside throughout their lands,
+
+Ajsw=sn baH=f jnwt=sn
+;
+their skulls flooded their valleys,
+
+sSw rAw=sn mj snmw Hwyt
+;
+and their mouths were painted as pooring rain.
+
+HAyw Hr=s aSA.w
+;
+Birds of pray above this were numerous,
+
+nA Apdw Hr xnp jT r ky bw
+;
+and these birds were snatching and taking somewhere else.
+
+<9> TAr sw dpy Hr wtxw
+;
+<9> The crocodile threw himself on the fleeing.
+
+sdgj sw r ^Hr TmA-a
+;
+He who hides himself from Horus with powerful arm
+
+Xr jrtj wa
+;
+is subject to what the Unique One will do,
+
+sA ^jmn
+;
+son of Amun,
+
+wtTw nTr jmn rn=f
+;
+begotten by the god with the secret name,
+
+<10> mstjw kA psDt
+;
+<10> offspring of the bull of the Ennead,
+
+tjt sbqt nt Haw-nTr
+;
+excellent image of the divine body,
+
+jr Hstj bAw ^jwnw
+;
+who does what the souls of Heliopolis praise,
+
+qmA.n nbw Hwt-aAt
+;
+who was fashioned by the lords of the Great House,
+
+mnnw n mSa=f tm
+;
+a fortress for his entire army,
+
+Hsj sw <11> m psDt-pDt dmD(.w)
+;
+who confronts <11> the assembled Nine Bows
+
+mj Aby rnpj m jdr xnj
+;
+like a young panther at a resting herd
+
+Sp.n st bAw Hm=f
+;
+after the might of His Majesty has blinded them,
+
+jn Drw tA Hr ndbwt=f
+;
+who reaches the limits of the entire earth,
+
+xnd pHwj=fj <12> m xpS=f nxt
+;
+who treads its ends <12> with victorious strength
+
+Hr HHj aHA
+;
+seeking battle,
+
+n gm.n=f Hsj.tj=fj Hr jm=f
+;
+finding none who would defy him.
+
+sD jnwt xm.n jmjw-<13>bAH
+;
+He opens valleys unknown to the ancestors,
+
+n mAA st wTsw nbtj
+;
+and unseen by the bearers of the Two Ladies.
+
+tAS=f rsj r xntjw tA pn
+;
+His southern boundary reaches to the beginning of this land,
+
+mHtj r mw pf qdw xddj m xnt<14>y
+;
+his northern to that reversed water flowing south.
+
+n xpr mjtt n kjwj bjtjw
+;
+Such has not happened to other kings.
+
+rn=f spr(.w) r dbnw n pt
+;
+His name has reached the circumference of heaven,
+
+pH.n=f tAwj rxtt
+;
+and it has reached the end of the earth.
+
+anx.tw jm=f m tAw nbw
+;
+One swears by him in all lands,
+
+n-aAt-n bAw Hm=f
+;
+because of the greatness of the might of His Majesty.
+
+n mAA.tw m gnwt nt Drtjw
+;
+Such has never been seen in the annals of the previous kings
+
+Dr Smsw-^Hr
+;
+since the Followers of Horus:
+
+DD TAw=f n Sms sw
+;
+he who gives his breath to one who follows him,
+
+aAbt=f n mDd m<16>Tn=f
+;
+and his great offering to one who is loyal to him.
+
+tj Hm=f m ^Hr
+;
+Now, His Majesty is Horus,
+
+jTw m nsyt=f nt HHw m rnpwt
+;
+who took possession of his kingship of millions of years.
+
+gnX n=f jww nw Sn-wr
+;
+Subservient to him are the islands of the ocean,
+
+tA r-Dr=f Xr Tbtj=f
+;
+and the entire land is under his feet,
+
+<17> sA-^ra n Xt=f
+;
+<17> Son of Re, of his body,
+
+mr=f
+;
+his beloved:
+
+^DHwtj-msjw
+;
+Tuthmosis
+
+anx(.w) Dt r nHH
+;
+(may he live forever until eternity!),
+
+^jmn-^ra nsw nTrw jt=f pw qmA nfrw=f
+;
+Amun-Re, king of the gods, it is his father who fashioned his beauty,
+
+<18> mry psDt nt ^jpt-swt
+;
+<18> beloved of the Ennead of Karnak,
+
+Dj anx Dd wAs snb
+;
+given life, stability, dominion and health,
+
+Aw jb=f Hr st-^Hr
+;
+while he is happy on the Horus-throne,
+
+Hr sSmt anxw nbw mj ^ra Dt
+;
+leading all the living like Re forever.

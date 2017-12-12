@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Sinuhe"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume I"
+    subsection="486-497"/>
+<collection kind="books" collect="Sethe, Ägyptische Lesestücke"
+    section="1"/>
+<collection kind="books" collect="Zonhoven, Literary texts in the hieratic script"
+    section="pp. 6-19"/>
+<resource location="../resources/SinuheTrR.txt"/>
+<resource location="../resources/SinuheTrB.txt"/>
+<resource location="../resources/SinuheTrAOS.txt"/>
+<resource location="../resources/SinuheTrBA.txt"/>
+<resource location="../resources/SinuheTrG.txt"/>
+<resource location="../resources/SinuheTrL.txt"/>
+<precedence
+  location="../align/SinuheBAB.xml"
+  resource1="../resources/SinuheTrBA.txt"
+  resource2="../resources/SinuheTrB.txt"/>
+<precedence
+  location="../align/SinuheBAOS.xml"
+  resource1="../resources/SinuheTrB.txt"
+  resource2="../resources/SinuheTrAOS.txt"/>
+<precedence
+  location="../align/SinuheGR.xml"
+  resource1="../resources/SinuheTrG.txt"
+  resource2="../resources/SinuheTrR.txt"/>
+<precedence
+  location="../align/SinuheLB.xml"
+  resource1="../resources/SinuheTrL.txt"
+  resource2="../resources/SinuheTrB.txt"/>
+<precedence
+  location="../align/SinuheRAOS.xml"
+  resource1="../resources/SinuheTrR.txt"
+  resource2="../resources/SinuheTrAOS.txt"/>
+<precedence
+  location="../align/SinuheRB.xml"
+  resource1="../resources/SinuheTrR.txt"
+  resource2="../resources/SinuheTrB.txt"/>
+<precedence
+  location="../align/SinuheTr.xml"
+  resource1="../resources/SinuheTrBA.txt"
+  resource2="../resources/SinuheTrAOS.txt"/>
+</text>
