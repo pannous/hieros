@@ -1,0 +1,3 @@
+[submodule "wikis"]
+	path = wikis
+	url = git@github.com:pannous/hieros.wiki.git
