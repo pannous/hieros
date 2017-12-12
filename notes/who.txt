@@ -1,0 +1,285 @@
+registro.lacnic.net !?!
+
+Outgoing Log Table	
+LAN IP	Destination URL/IP	Service/Port Number
+192.168.1.15	17.253.54.125	ntp
+192.168.1.15	17.172.208.47	https
+192.168.1.13	194.122.80.39	www
+192.168.1.13	158.85.58.70	5222
+192.168.1.13	74.125.136.188	5228
+192.168.1.13	194.122.80.39	www
+192.168.1.15	199.5.26.46	whois
+192.168.1.15	92.122.207.67	www
+192.168.1.15	184.25.217.146	www
+192.168.1.15	92.122.207.64	www
+192.168.1.15	92.122.207.19	www
+192.168.1.15	2.20.67.154	https
+192.168.1.15	223.165.25.37	www <<<<<<<<<<<<<<<<<<<
+192.168.1.15	179.60.192.3	www
+192.168.1.15	92.122.207.125	www
+192.168.1.15	2.20.78.107	www
+192.168.1.15	92.122.207.64	www
+192.168.1.15	92.122.207.19	www
+192.168.1.15	223.165.25.37	www
+
+me:~$ whois 179.60.192.3
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n 179.60.192.3"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=179.60.192.3?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       179.0.0.0 - 179.255.255.255
+CIDR:           179.0.0.0/8
+NetName:        LACNIC-179
+NetHandle:      NET-179-0-0-0-1
+Parent:          ()
+NetType:        Allocated to LACNIC
+OriginAS:
+Organization:   Latin American and Caribbean IP address Regional Registry (LACNIC)
+RegDate:        2011-01-04
+Updated:        2011-02-08
+Comment:        This IP address range is under LACNIC responsibility
+Comment:        for further allocations to users in LACNIC region.
+Comment:        Please see http://www.lacnic.net/ for further details,
+Comment:        or check the WHOIS server located at http://whois.lacnic.net
+Ref:            http://whois.arin.net/rest/net/NET-179-0-0-0-1
+
+ResourceLink:  http://lacnic.net/cgi-bin/lacnic/whois
+ResourceLink:  whois.lacnic.net
+
+OrgName:        Latin American and Caribbean IP address Regional Registry
+OrgId:          LACNIC
+Address:        Rambla Republica de Mexico 6125
+City:           Montevideo
+StateProv:
+PostalCode:     11400
+Country:        UY
+RegDate:        2002-07-27
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/LACNIC
+
+ReferralServer:  whois://whois.lacnic.net
+ResourceLink:  http://lacnic.net/cgi-bin/lacnic/whois
+
+OrgTechHandle: LACNIC-ARIN
+OrgTechName:   LACNIC Whois Info
+OrgTechPhone:  999-999-9999
+OrgTechEmail:  whois-contact@lacnic.net
+OrgTechRef:    http://whois.arin.net/rest/poc/LACNIC-ARIN
+
+OrgAbuseHandle: LACNIC-ARIN
+OrgAbuseName:   LACNIC Whois Info
+OrgAbusePhone:  999-999-9999
+OrgAbuseEmail:  whois-contact@lacnic.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LACNIC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2015-08-27 19:00:27 (BRT -03:00)
+
+inetnum:     179.60.192/22
+status:      allocated
+aut-num:     AS32934
+owner:       Edge Network Services Ltd
+ownerid:     US-FAIN-LACNIC
+responsible: Diego Veca
+address:     Willow Rd., 1601, --
+address:     94025 - Menlo Park - CA
+country:     US
+phone:       +1 650 7393079 []
+owner-c:     FNA5
+tech-c:      DIV7
+abuse-c:     DIV7
+inetrev:     179.60.192/22
+nserver:     A.NS.FACEBOOK.COM
+nsstat:      20150825 AA
+nslastaa:    20150825
+nserver:     B.NS.FACEBOOK.COM
+nsstat:      20150825 AA
+nslastaa:    20150825
+created:     20130813
+changed:     20130813
+
+nic-hdl:     DIV7
+person:      Diego Veca
+e-mail:      diego.veca@FB.COM
+address:     Willow Rd, 1601,
+address:     94025 - Menlo Park - CA
+country:     US
+phone:       +1 650 7393079 [0]
+created:     20110907
+changed:     20140701
+
+nic-hdl:     FNA5
+person:      Facebook NetEng Admin
+e-mail:      netengbilling@FB.COM
+address:     Willow Rd, 1601,
+address:     94025 - Menlo Park - CA
+country:     US
+phone:       +1 650 7393079 []
+created:     20140701
+changed:     20150817
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+
+
+
+me:~$ whois 223.165.25.37
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n 223.165.25.37"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=223.165.25.37?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       223.0.0.0 - 223.255.255.255
+CIDR:           223.0.0.0/8
+NetName:        APNIC-223
+NetHandle:      NET-223-0-0-0-1
+Parent:          ()
+NetType:        Allocated to APNIC
+OriginAS:
+Organization:   Asia Pacific Network Information Centre (APNIC)
+RegDate:        2003-03-16
+Updated:        2010-07-30
+Ref:            http://whois.arin.net/rest/net/NET-223-0-0-0-1
+
+ResourceLink:  http://wq.apnic.net/whois-search/static/search.html
+ResourceLink:  whois.apnic.net
+
+OrgName:        Asia Pacific Network Information Centre
+OrgId:          APNIC
+Address:        PO Box 3646
+City:           South Brisbane
+StateProv:      QLD
+PostalCode:     4101
+Country:        AU
+RegDate:
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/APNIC
+
+ReferralServer:  whois://whois.apnic.net
+ResourceLink:  http://wq.apnic.net/whois-search/static/search.html
+
+OrgAbuseHandle: AWC12-ARIN
+OrgAbuseName:   APNIC Whois Contact
+OrgAbusePhone:  +61 7 3858 3188
+OrgAbuseEmail:  search-apnic-not-arin@apnic.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AWC12-ARIN
+
+OrgTechHandle: AWC12-ARIN
+OrgTechName:   APNIC Whois Contact
+OrgTechPhone:  +61 7 3858 3188
+OrgTechEmail:  search-apnic-not-arin@apnic.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AWC12-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '223.165.25.0 - 223.165.25.255'
+
+inetnum:        223.165.25.0 - 223.165.25.255
+netname:        INDIATIMES-AS-AP
+descr:          I World Tower, DLF CITY
+descr:          Phase -V, Opposite DLF GOLF Course
+country:        IN
+admin-c:        TILN1-AP
+tech-c:         TILN1-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-INDIATIMES-IN
+mnt-lower:      MAINT-INDIATIMES-IN
+mnt-routes:     MAINT-INDIATIMES-IN
+mnt-irt:        IRT-INDIATIMES-IN
+changed:        nsoc@indiatimes.co.in 20130315
+source:         APNIC
+
+irt:            IRT-INDIATIMES-IN
+address:        I World Tower, Dlf City Phase -V, Opp. Dlf Golf Course,Gurgaon, Haryana
+e-mail:         nsoc@indiatimes.co.in
+abuse-mailbox:  nsoc@indiatimes.co.in
+admin-c:        TILN1-AP
+tech-c:         TILN1-AP
+auth:           # Filtered
+mnt-by:         MAINT-INDIATIMES-IN
+changed:        nsoc@indiatimes.co.in 20120705
+source:         APNIC
+
+role:           TIMES INTERNET LTD - network administrator
+address:        I World Tower, Dlf City Phase -V, Opp. Dlf Golf Course,Gurgaon, Haryana
+country:        IN
+phone:          +919717888310
+e-mail:         nsoc@indiatimes.co.in
+admin-c:        TILN1-AP
+tech-c:         TILN1-AP
+nic-hdl:        TILN1-AP
+mnt-by:         MAINT-INDIATIMES-IN
+changed:        hm-changed@apnic.net 20100806
+changed:        hm-changed@apnic.net 20120410
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+

@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD><TITLE>Download</TITLE></HEAD>
+<BODY>
+
+<a href="index.html"><img src="uparr.jpeg" alt="index"> <B>PhilologEg home</B></a>
+
+<p>
+<h1>Download PhilologEg</h1>
+
+This distribution includes the Java code of PhilologEg,
+as well as resources on several Egyptian texts.
+
+<h2>Basic instructions</h2>
+
+For viewing the included corpus and building your own corpus,
+the following suffices:
+<ul>
+<li> Make sure Java 1.5 or later is installed on your machine. The software
+should work irrespective of platform (Linux, Windows, Mac OS X).
+<li> Create a new directory (a.k.a. 'folder').
+<li> Download <a
+href="http://mjn.host.cs.st-andrews.ac.uk/egyptian/align/PhilologEg-0.5.12.jar">PhilologEg-0.*.jar</a> 
+(25.0 MB)
+and store it in above-mentioned directory.
+<li> One may now view the St Andrews corpus, or create a new corpus.
+Whether one prefers to do this using a command-line interface
+or using the mouse pointer depends on the platform (Linux, Windows, Mac OS X).
+<li> With command-line (preferred for Linux, also Mac OS X):
+<ul>
+<li> For viewing the St Andrews corpus, execute from the command-line: 
+	<blockquote><tt>java -jar PhilologEg-0.*.jar</tt></blockquote>
+<li> For editing a particular corpus, provide an existing corpus file e.g.:
+	<blockquote><tt>java -jar PhilologEg-0.*.jar mypath/corpusdir/corpus.xml</tt></blockquote>
+</ul>
+<li> With mouse (preferred for Windows, also Mac OS X):
+<ul>
+<li> Click on PhilologEg-0.*.jar to view the St Andrews corpus.
+<li> To view another corpus if it is available (e.g. your own), 
+click <b>open</b> and find appropriate XML file.
+</ul>
+<li>
+Before creating a new corpus,
+it is advisable to create a new directory with 
+four subdirectories named <tt>align</tt>,
+<tt>pdf</tt>, <tt>resources</tt>, <tt>texts</tt>.
+Then open the corpus viewer (by command-line or by mouse click), 
+click <b>open</b>, navigate to the
+appropriate main directory, and enter as corpus file name
+for example <tt>corpus.xml</tt>.
+<li> Further read the help pages by clicking on the <b>help</b> button
+of the corpus viewer.
+</ul>
+
+<h2>Instructions for advanced use</h2>
+
+If you want to look at the source code, use specialised features, or
+change default settings:
+<ul>
+<li> Execute (in command-line): <tt>jar xf PhilologEg-0.*.jar</tt>,
+or unpack the jar file using WinZip or WinRAR (on Windows).
+<li> Follow the instructions in the <tt>readme</tt> file.
+</ul>
+
+<h2>Versions</h2>
+
+<ul>
+<li> Version 0.5.12 (2016-01-28):
+<ul>
+<li> Redesigned OCR tool.
+</ul>
+<li> Version 0.5.11 (2015-11-08):
+<ul>
+<li> Fixed problem with boxes in OCR tool, and added IFAO prototypes.
+<li> Updated readme file.
+<li> Added PDF output for ResToImage.
+</ul>
+<li> Version 0.5.10 (2015-05-23):
+<ul>
+<li> Made corrections to orthographic model.
+</ul>
+<li> Version 0.5.9 (2015-04-02):
+<ul>
+<li> Refined orthographic model.
+</ul>
+<li> Version 0.5.8 (2015-02-09):
+<ul>
+<li> Fixed problem with information windows.
+<li> Refined orthographic annotator.
+</ul>
+<li> Version 0.5.7 (2014-12-29):
+<ul>
+<li> Fixed problem with shading of complex groups.
+<li> Fixed bug in RES editor.
+<li> Fixed display of empty hieroglyphic groups.
+</ul>
+<li> Version 0.5.6 (2014-08-28):
+<ul>
+<li> Fixed problem with access to inner JAR file.
+</ul>
+<li> Version 0.5.5 (2014-08-27):
+<ul>
+<li> New type of resource for lexical annotation.
+<li> Interface to lexicon.
+<li> Code to create web pages.
+</ul>
+<li> Version 0.5.4 (2014-07-08):
+<ul>
+<li> Functionality added to link text and images.
+<li> Various improvements to GUI and code structure.
+</ul>
+<li> Version 0.5.3 (2014-04-24):
+<ul>
+<li> OCR functionality completed.
+<li> Prototypes for OCR are now included.
+<li> Patch to RES editor.
+</ul>
+<li> Version 0.5.2 (2013-12-29):
+<ul>
+<li> Tool for OCR of handwritten hieroglyphic transcriptions.
+</ul>
+<li> Version 0.5.1 (2013-11-15):
+<ul>
+<li> Transition from Java 1.4 to Java 1.5.
+<li> Fixed problem with last-modified date.
+<li> Patch to transliteration font.
+<li> Tools for orthographic annotation.
+</ul>
+<li> Version 0.5.0 (2011-12-22):
+<ul>
+<li> xscale and yscale implemented in RES.
+</ul>
+<li> Version 0.4.5 (2010-08-05):
+<ul>
+<li> Patch for Java version 7 and Web addresses.
+<li> Patch to fix bounding box for EPS output.
+<li> ResToImage reimplemented, to accommodate for REStex and REShtml.
+</ul>
+<li> Version 0.4.4 (2010-01-24):
+<ul>
+<li> Added framework for joint translations.
+<li> Added choice between hieroglyphic fonts.
+<li> Corrected two minor bugs in RES editor.
+<li> Corrected bugs in hyperlinks.
+<li> Corrected bug in manual alignment.
+<li> Corrected bug that arose in Windows path names with spaces.
+</ul>
+<li> Version 0.4.3 (2009-09-11):
+<ul>
+<li> Corrected bug with note in empty glyph.
+<li> Close of corpus blocked when resource is open.
+<li> Corrected transliteration fonts.
+<li> Improved scrolling upon reformat.
+</ul>
+<li> Version 0.4.2 (2009-08-31):
+<ul>
+<li> Solved problems with character encoding and keyboard shortcuts.
+<li> Solved problem with focus in glyph chooser.
+</ul>
+<li> Version 0.4.1 (2009-08-23):
+<ul>
+<li> Corrected two minor bugs in RES editor.
+<li> Corrected bug in resource editor.
+<li> Circumvented Java bug affecting path names in Windows.
+<li> Corrected incompatibility Linux versus Windows in text panes.
+<li> Circumvented problems with entities in HTML output.
+</ul>
+<li> Version 0.4.0 (2009-08-18):
+<ul>
+<li> Renamed data formats and software to PhilologEg.
+<li> Almost complete reimplementation of data formats, alignment and rendering.
+<li> Editing of corpus now completely with graphical user interface.
+</ul>
+<li> Version 0.3.3 (2009-01-07):
+<ul>
+<li> Corrected minor bugs in RES editor, and extended
+some features. Corrected bugs in RES rendering.
+<li> Implemented automatic conversion from MdC format to RES/AELalign.
+<li> Started transition to RES 0.4.
+<li> New hieroglyphic font.
+</ul>
+<li> Version 0.3.2 (2008-07-03):
+<ul>
+<li> Corrected minor bugs in RES editor.
+</ul>
+<li> Version 0.3.1 (2007-01-22):
+<ul>
+<li> Introduced Ant.
+<li> Introduced RES editor.
+<li> Added the possibility to include external TrueType fonts in export
+to PDF, to accommodate for e.g. the Polish script.
+<li> Corrected orientation of sign L3 in font.
+</ul>
+<li> Version 0.3 (2005-08-15):
+<ul>
+<li> For AELalign 0.3.
+<li> Incorporates ResToImage for RES 0.3.
+</ul>
+<li> Version 0.2.3 (2005-06-13):
+<ul>
+<li> Added facilities for hieroglyphic and transliteration in resource windows.
+<li> No more pixelization of hieroglyphic in PDF.
+</ul>
+<li> Version 0.2.2 (2005-04-29): 
+<ul>
+<li> For AELalign 0.2. 
+<li> Programmed in Java.
+</ul>
+<li> Version 0.1 (December 2000): 
+<ul>
+<li> For AELalign 0.1.
+<li> Programmed in Perl. Now obsolete.
+</ul>
+</ul>
+
+</BODY>
+</HTML>

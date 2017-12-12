@@ -1,0 +1,66 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-04-13
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transcription and translation of a text on 
+a spearhead of king Kamose,
+following the transcription of Sethe (1927), number 4 (p. 13).
+
+For published translations, see Sethe (1914), number 4 (p. 8).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+nTr nfr 
+;
+The good god,
+
+nb jrt-jxt 
+;
+lord of rituals,
+
+^wAd-xpr-^ra
+;
+Wadjkheperre.
+
+jnk HqA qn mry ^ra
+;
+I am a brave ruler, beloved of Re,
+
+sA ^jaH 
+;
+son of Iah,
+
+ms n ^DHwtj
+;
+born to Thoth,
+
+sA ^ra,
+;
+son of Re,
+
+^kA-msjw
+;
+Kamose
+
+nxt(.w) Dt
+;
+(may he be victorious forever!).

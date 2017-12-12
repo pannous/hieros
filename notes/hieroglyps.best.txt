@@ -1,0 +1,465 @@
+D36    		ah,oh                                        :D36	   í Œí²
+D58    		b,bh,ph                                      :D58	  í Œí³€  
+O34    		c,z,ts,ÃŸ,ss -> V13 th,c                      :O34	   í Œíºƒ  í Œí½¿
+D46    		d,th                                         :D46	   í Œí²§
+M17    		e,a,ey,i short                               :M17    í Œí·‹	    
+I9     		f (ph,v) / SN!                               :I9	  í Œí¶‘ 	    
+W11    		g (hard)                                     :W11	 í Œí¾¼
+O4    		h,ho                                         :O4     í Œí¹”	    
+M17    		i,e,a,ey short                               :M17    í Œí·‹	    
+M4			j,ia  vs y Z4                                :M4   í Œí¶³   í Œí¶´   í Œí¶µ   	    
+V31    		k,c                                          :V31	  í Œí¾¡   
+Z5			EL/IL/KEL/ELn => -en? plural?            	 :Z5 	 í Œí¿¯  
+N35    		m/n                                          :N35      í Œí¸–	    
+U1    		ma/ne                                        :U1 	  í Œí¼³
+V4    		o (vs  í Œí²D36 oh,ah)                           V4 : 	  í Œí½¯
+Q3     		p,ph->f,v                                    :Q3 	 í Œíºª   
+N29    		q,qu (kuh-erz,ger-ste)                       :N29	 í Œí¿˜   
+D21    		r (ar)                                       :D21	  í Œí²‹  
+S29    		s,c,sh,g (soft as in age en/fr)              :S29	 í Œí»¿  í Œí»´
+X1     		t,dt,d                                       :X1 	 í Œí¿  
+G43    		u,uu,w,ou                                    :G43    í Œíµ± U Ãœ	    
+Z9			X=ks/sk			                        	 :Z9 	  í Œí¿´     í Œí¿µ
+Z4/M17A		y                                            :Z4/	  í Œí¿­  í Œí¿®   í Œí·Œ  í Œí·‹í Œí·‹
+O34    		z,ts,ÃŸ,ss,c                                  :O34	   í Œíºƒ
+                                                            
+Extra:           
+D28			KA								 			:D28    í Œí²“                                             
+G1	   		Aa,ahr,air,er                    			:G1     í Œí´¿
+G17    		BR (bird) pr,vr,ver,for,pre,ber, 			:G17    í Œíµ“   
+V28   		H,her,hair,kHr,ch,(flaX)         			:V28   í Œí¾›
+Aa1    		k,kh,chr,kr                      			:Aa1	í í°
+I10    		Dj,tsh,je,sch(l)                 			:I10    í Œí¶“      
+V13    		T,th,c,tsh?                      			:V13    í Œí½¿   
+I9     		SN!! vs I9=f !?                  			:I9     í Œí¶‘
+V1     		(l)UN(dt) ->land,wund,hund(ert)  			:V1    í Œí½¢   
+N37   		sh,sch   						 			:N37    í Œí¸™  VS N39   í Œí¸œ VS O39     í Œí¸š     í Œí¸›
+O39			STone/STein?					 			:O39     í ŒíºŒ <> N37 !!!
+N17    		TA/ter	                         			:N17     í Œí·¿   N18     í Œí¸€ VS ...    í Œí¸    í Œí¸‚ 
+                   
+Other important:
+F32    		scr                                          :F32    í Œí´¡    
+N41    		inn/brunn                                    :N41    í Œí¸ž
+
+N40     í Œí¸
+TOR/PR(t)    í Œí¹
+
+
+D1    í Œí±¶
+D2   í Œí±·
+D3      í Œí±¸
+D4    í Œí±¹    í Œí±º    í Œí±»
+
+D1    í Œí±¶
+D2   í Œí±·
+D3      í Œí±¸
+D4    í Œí±¹    í Œí±º    í Œí±»    í Œí±¼    í Œí±¿    í Œí²€
+D11    í Œí²
+D    í Œí²‚
+D18    í Œí²ˆ  vs F21    í Œí´”
+D19    í Œí²‰
+D20    í Œí²Š
+D21    í Œí²‹    í Œí²Œ    í Œí²
+D25    í Œí²
+D26    í Œí²‘    í Œí²’
+D28		KA    í Œí²“    í Œí²”    í Œí²•
+D32    í Œí²˜
+D33    í Œí²™
+D34    í Œí²š    í Œí²›
+D35    í Œí²œ
+D36    í Œí²
+D37    í Œí²ž
+D38    í Œí²Ÿ
+D39    í Œí² 
+D40    í Œí²¡
+D41    í Œí²¢
+D42    í Œí²£
+D43    í Œí²¤
+D44    í Œí²¥
+D45    í Œí²¦
+D46    í Œí²§    í Œí²¨
+D47    í Œí²©
+D48    í Œí²ª
+D49    í Œí²¬
+D50    í Œí²­
+D51    í Œí²·
+D52    í Œí²¸    í Œí²¹ D53    í Œí²º
+D54    í Œí²»    í Œí²¼
+D55    í Œí²½ -> O35
+D56    í Œí²¾    í Œí²¿
+D58    í Œí³€    í Œí³
+D60    í Œí³‚
+D61    í Œí³ƒ    í Œí³„    í Œí³…
+
+
+F1    í Œí³¾    í Œí³¿
+F2    í Œí´€
+F4    í Œí´‚
+F9    í Œí´‡
+F10!    í Œí´ˆ   í Œí´‰
+F12    í Œí´Š
+F13   í Œí´‹
+F14    í Œí´Œ
+F17    í Œí´      í Œí´
+F18    í Œí´‘
+F19    í Œí´’
+F20    í Œí´“
+F21    í Œí´”    í Œí´•
+F22    í Œí´–  
+F23    í Œí´—    í Œí´˜
+F25    í Œí´™
+F26    í Œí´š
+F27    í Œí´›    í Œí´œ
+F29    í Œí´
+F30    í Œí´ž
+F31    í Œí´Ÿ    í Œí´ 
+F32    í Œí´¡
+F33    í Œí´¢
+F34    í Œí´£ vs UR
+F35    í Œí´¤
+F37    í Œí´¦    í Œí´§
+F40    í Œí´«
+F41    í Œí´¬
+F45    í Œí´°    í Œí´±
+F46    í Œí´²    í Œí´³    í Œí´¶
+F51    í Œí´¹
+
+G1    í Œí´¿
+G4    í Œíµ‚
+G5    í Œíµƒ    í Œíµ…    í ŒíµŠ    í ŒíµŒ
+G14    í Œíµ    í Œíµ‘
+G16    í Œíµ’
+G17    í Œíµ“
+G21    í Œíµ˜
+G22    í Œíµ™
+G23    í Œíµš
+G24    í Œíµ›
+G25    í Œíµœ
+G26    í Œíµ    í Œíµž
+G27    í ŒíµŸ 
+G28    í Œíµ 
+G29    í Œíµ¡
+G31    í Œíµ£    í Œíµ¥
+G35    í Œíµ§
+G36    í Œíµ¨    í Œíµ©
+G37?    í Œíµª    í Œíµ«sparrow
+G38    í Œíµ¬VS !!!
+G39    í Œíµ­
+G40    í Œíµ®
+G41    í Œíµ¯ 
+G43    í Œíµ±
+G47    í Œíµ·
+G51    í Œíµ»
+
+
+H1?    í Œíµ¿    
+H2    í Œí¶€
+H5    í Œí¶ƒ
+H6    í Œí¶„
+H8    í Œí¶‡
+
+I1    í Œí¶ˆ
+I2?    í Œí¶‰
+I3    í Œí¶Š    í Œí¶‹    í Œí¶Œ    í Œí¶
+I6    í Œí¶Ž
+I7    í Œí¶  
+I8    í Œí¶
+I9    í Œí¶‘
+I10    í Œí¶“    í Œí¶”
+I12    í Œí¶—    í Œí¶˜
+I14    í Œí¶™    í Œí¶š
+
+
+K1    í Œí¶›
+K4    í Œí¶ž
+K8    í Œí¶¢
+
+
+L1    í Œí¶£
+L2    í Œí¶¤
+L2A    í Œí¶¥
+L3    í Œí¶¦
+L4    í Œí¶§
+L5    í Œí¶¨
+L6    í Œí¶©
+L7    í Œí¶« L19
+
+M1   í Œí¶­
+M2   í Œí¶°
+M3   í Œí¶±
+M3A?   í Œí¶²
+M4   í Œí¶³   í Œí¶´   í Œí¶µ   í Œí¶¶
+M8   í Œí¶· even, fen?
+M9   í Œí¶¸
+M10    í Œí¶¹    í Œí¶º
+M11    í Œí¶»
+M12    í Œí¶¼
+M13    í Œí·…
+M14    í Œí·†
+M15    í Œí·‡    í Œí·ˆ    í Œí·‰    í Œí·Š
+M17    í Œí·‹
+M17A    í Œí·Œ
+M18    í Œí·
+M19    í Œí·Ž ? egal
+M20   í Œí· past.even, fen, ufe(r)
+M21   í Œí·
+M22   í Œí·‘ nat.ur->hur->hier,here
+M22   í Œí·’ hier(alt)
+M23   í Œí·“ nat.ur->shur->su
+M25   í Œí·•
+M26   í Œí·—
+M29   í Œí·›
+M30   í Œí·œ
+M32    í Œí·Ÿ
+M33    í Œí· 
+M34    í Œí·£
+M36    í Œí·¥
+M37    í Œí·¦
+M38    í Œí·¨
+M40    í Œí·©  VS altair!
+M42?    í Œí·¬
+M43    í Œí·­
+M44    í Œí·®  VS X
+
+
+N1    í Œí·¯
+N2     í Œí·°     í Œí·±
+N4     í Œí·²
+N5     í Œí·³
+N8     í Œí·¶
+N9    í Œí··
+N10     í Œí·¸
+N11     í Œí·¹
+N12     í Œí·º
+N14     í Œí·¼     í Œí·½  í Œí·»
+N16     í Œí·¾ 
+N17     í Œí·¿ 
+N18     í Œí¸€VS ...    í Œí¸    í Œí¸‚
+N20     í Œí¸„
+N21     í Œí¸…
+N22     í Œí¸†
+N23     í Œí¸‡
+N24     í Œí¸ˆ
+N25     í Œí¸‰
+N25A     í Œí¸Š
+N26     í Œí¸‹
+N27     í Œí¸Œ
+N28     í Œí¸
+N29     í Œí¸Ž 
+N31     í Œí¸
+N32     í Œí¸‘
+N33      í Œí¸’     í Œí¸“
+N34      í Œí¸”     í Œí¸•
+N35      í Œí¸–
+N35A     í Œí¸—
+N36     í Œí¸˜
+N37     í Œí¸™  VS O39!     í Œí¸š     í Œí¸›
+N39     í Œí¸œ VS N18x
+N40     í Œí¸
+N41     í Œí¸ž
+N42     í Œí¸Ÿ
+
+O1    í Œí¹
+O4     í Œí¹”
+O5     í Œí¹•     í Œí¹–
+O6     í Œí¹—
+O7     í Œí¹ž     í Œí¹Ÿ  
+O9     í Œí¹ Nephthys 	
+O10     í Œí¹¡Hathor
+O11     í Œí¹¥
+O13     í Œí¹§
+O18     í Œí¹¬
+O22     í Œí¹²
+O23     í Œí¹³
+O24     í Œí¹´  VS     í Œí¹µ     í Œí¹¶     í Œí¹·     í Œí¹¸
+O28?     í Œí¹º
+O29    í Œí¹»
+O29V     í Œí¹¼
+O30     í Œí¹½
+O31     í Œí¹¿
+O34    í Œíºƒ
+O35     í Œíº„
+O36     í Œíº…
+O37     í ŒíºŠ->)36
+O38     í Œíº‹
+O39     í ŒíºŒ <> N39 !!!
+O40     í Œíº VS     í ŒíºŽ
+O42     í Œíº       í Œíº vs
+O48!     í Œíº•   í Œíº”
+O49     í Œíº–
+
+
+P1     í Œíº›     í Œíºœ
+P2     í Œíº
+P3     í Œíºž     í ŒíºŸ
+P4     í Œíº 
+P5     í Œíº¡
+P6     í Œíº¢
+P8     í Œíº¤  P8H?
+P10?     í Œíº¦
+P11     í Œíº§
+
+Q1     í Œíº¨
+Q2     í Œíº©
+Q3     í Œíºª
+Q7     í Œíº®
+
+
+R1     í Œíº¯       í Œíº°     í Œíº±
+R3     í Œíº²     í Œíº³     í Œíº´
+R4     í Œíºµ
+R5     í Œíº¶ VS     í Œíº·
+R8    í Œíº¹     í Œíºº
+R10     í Œíº¼  í Œíº»
+R11   í Œíº½
+R12    í Œíº¾
+R13     í Œíº¿ 
+R14     í Œí»€
+R15     í Œí»
+R16     í Œí»‚     í Œí»ƒ     í Œí»„
+R19     í Œí»†
+R22     í Œí»‰ min     í Œí»Š min
+R24     í Œí»‹ Neith      í Œí»Œ Neith 
+
+
+S1     í Œí»‘
+S4     í Œí»”
+S5     í Œí»•     í Œí»–     í Œí»—
+S9     í Œí»›
+S11     í Œí»
+S12     í Œí»ž
+S16     í Œí»¤ VS
+S19     í Œí»¨
+S21     í Œí»ª
+S22     í Œí»«
+S23     í Œí»¬
+S24     í Œí»­
+S25     í Œí»®
+S2x     í Œí»°     í Œí»±??
+S27     í Œí»²
+S28     í Œí»³
+S29     í Œí»´
+S33    í Œí»¸
+S34     í Œí»¹
+S36     í Œí»º     í Œí»»     í Œí»¼
+S38     í Œí»¾
+S40     í Œí¼€     í Œí¼
+S42     í Œí¼‚
+S43     í Œí¼ƒ
+S44     í Œí¼„
+S45     í Œí¼…
+
+T2    í Œí¼‡
+T3    í Œí¼ˆ    í Œí¼‰
+T6    í Œí¼Ž
+T7    í Œí¼ 
+T8    í Œí¼    í Œí¼‘
+T9    í Œí¼’    í Œí¼“
+T10    í Œí¼”
+T11    í Œí¼•
+T12    í Œí¼–
+T13    í Œí¼—    í Œí¼˜
+T14    í Œí¼™ T15    í Œí¼š
+T16    í Œí¼›    í Œí¼œ
+T17    í Œí¼;0
+T18    í Œí¼ž
+T19    í Œí¼Ÿ    í Œí¼ 
+T21    í Œí¼¡
+T22    í Œí¼¢
+T24    í Œí¼¤
+T28    í Œí¼¨
+T30    í Œí¼ª T31?    í Œí¼«
+T32    í Œí¼¬
+T34    í Œí¼°
+T35    í Œí¼±
+
+U1     í Œí¼³    í Œí¼´   í Œí¼µ    í Œí¼¶    í Œí¼·
+U6	   í Œí¼¸    í Œí¼¹   í Œí¼º    í Œí¼»    í Œí¼¼
+U9 	   í Œí¼½    í Œí¼¾
+U15     í Œí½ƒ 
+U16     í Œí½„ husky
+U17     í Œí½…     í Œí½†
+U19     í Œí½‡
+U20     í Œí½ˆ
+U21     í Œí½‰
+U22     í Œí½Š:
+U23     í Œí½‹     í Œí½Œ
+U24     í Œí½   í Œí½Ž     í Œí½     í Œí½
+U28     í Œí½‘
+U29     í Œí½’
+U30     í Œí½”
+U31     í Œí½•
+U32     í Œí½– ~U28     í Œí½—
+U33     í Œí½˜
+U34?     í Œí½™
+U36     í Œí½›
+U50?    í Œí½¡
+
+V1     í Œí½¢
+V2    í Œí½¬
+V3     í Œí½®
+V4     í Œí½¯
+V6     í Œí½±
+V7     í Œí½²
+V8     í Œí½µ
+V9     í Œí½¶
+V10     í Œí½·
+V11     í Œí½¸
+V12     í Œí½¼
+V13     í Œí½¿
+V15    í Œí¾
+V16     í Œí¾‚
+V17     í Œí¾ƒ
+V19     í Œí¾…
+V20     í Œí¾†
+V22     í Œí¾”     í Œí¾•     í Œí¾–
+V24     í Œí¾—
+V25     í Œí¾˜
+V26     í Œí¾™
+V27     í Œí¾š
+V28     í Œí¾›
+V29     í Œí¾
+V30     í Œí¾Ÿ     í Œí¾ 
+V31     í Œí¾¡     í Œí¾¢
+V32     í Œí¾£?
+
+W10   í Œí¾¸   í Œí¾¹
+W11   í Œí¾º   í Œí¾»->in
+W12   í Œí¾¼
+W14   í Œí¾¿
+W17   í Œí¿ƒ
+W21   í Œí¿‰
+W22   í Œí¿Š
+W23   í Œí¿‹
+W24   í Œí¿Œ
+X1     í Œí¿
+X2     í Œí¿     í Œí¿‘
+X4     í Œí¿’     í Œí¿”
+X     í Œí¿˜ vs N29
+X     í Œí¿™     í Œí¿š
+Y1     í Œí¿›
+Y1A   í Œí¿œ
+Y2     í Œí¿
+Y     í Œí¿ž
+Y5     í Œí¿ 
+Z4     í Œí¿­     í Œí¿®
+Z5     í Œí¿¯    í Œí¿°
+Z6     í Œí¿±
+Z7     í Œí¿²
+Z8     í Œí¿³
+Z     í Œí¿´    í Œí¿µ
+Z     í Œí¿¶
+Z     í Œí¿¸
+
+Aa1		í í°
+Aa2	    í í°Ž
+Aa5	    í í°‘
+Aa	    í í°•
+Aa11    í í°™
+Aa	    í í°š
+Aa15    í í°	    í í°ž
+Aa17    í í°Ÿ	    í í° 
+Aa	    í í°¡
+Aa28    í í°ª
+Aa	    í í°«
+Aa32    í í°®

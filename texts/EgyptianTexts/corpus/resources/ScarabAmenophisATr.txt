@@ -1,0 +1,101 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = LSA1
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for the &quot;marriage&quot; scarab of
+Amenophis III, series A, following LSA 1 (plate 32) of Blankenberg-Van
+Delden (1969).
+
+A slightly different version of the text appears on p. 66 of De Buck
+(1948).
+
+For published translations, see Blankenberg-Van Delden (1969), p. 16;
+Breasted (1906), pp. 344-345, §§ 861-862; Davies (1992), number 579E
+(p. 38); Helck (1961), number 579E (p. 235).
+
+###
+
+C. Blankenberg-Van Delden. <i>The Large Commemorative Scarabs of
+Amenhotep III</i>. E.J. Brill, Leiden, 1969.
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+B.G. Davies. <i>Egyptian Historical Records of the Later Eighteenth
+Dynasty -- Fascicle IV</i>. Aris and Phillips, Warminster, 1992.
+
+A. De Buck. <i>Egyptian Readingbook</i>. Ares Publishers, Chicago,
+Illinois, 1948.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+W. Helck. <i>Urkunden der 18. Dynastie -- Übersetzung zu den Heften
+17-22</i>. Akademie-Verlag, Berlin, 1961.
+
+###
+
+<1> anx
+;
+<1> Live
+
+^Hr ^kA-nxt ^xaj-m-mAat
+;
+Horus: Mighty bull appearing in truth;
+
+<2> nbtj ^smn-hpw <3> sgrH-tAwj
+;
+<2> Two Ladies: Who establishes laws, <3> who pacifies the Two Lands;
+
+^Hr-nbw ^aA-xpS Hwj-^sTtjw
+;
+Gold Horus: Great of strength, who smites the Asiatics;
+
+<4> nsw-bjtj nb tAwj ^nb-mAat-^ra
+;
+<4> The king of Upper and Lower Egypt, lord of the Two Lands:
+Nebmaatre;
+
+sA-^ra ^jmn-Htp HqA-^wAst
+;
+Son of Re: Amenophis, ruler of Thebes,
+
+<5> Dj anx
+;
+<5> given life,
+
+Hmt-nsw wrt ^tjy anx.tj
+;
+and the great king's wife Tiy (may she live!).
+
+rn n jt=s <6> ^ywjA
+;
+The name of her father is <6> Yuia,
+
+rn n mwt=s ^TwjA
+;
+the name of her mother is Tjuia.
+
+<7> Hmt pw nt nsw nxt
+;
+<7> She is the wife of a mighty king,
+
+<8> tAS=f rsj r ^kry
+;
+<8> his southern boundary reaches to Karoy,
+
+<9> mHtj r ^nh<10>rn
+;
+<9> and the northern to Naharina.

@@ -1,0 +1,33 @@
+QuasiCourier (1.07)
+The fonts are copyrighted but free according to the conditions of the GNU
+General Public License, version 2 (http://www.gnu.org/licenses/gpl.txt).
+
+EN:
+  The font family Nimbus Mono L (distributed with Ghostscript under
+  the GNU General Public Licence) augmented complying with QX layout
+  (see 00readme) and modified. The font is based on a popular
+  font from IBM golfball typewriters. Authors of the modification:
+  Bogus\l{}aw Jackowski, Janusz M. Nowacki and Piotr Strzelczyk.
+  The work was sponsored by the Polish TeX Users Group GUST and
+  the Polish State Committee for Scientific Research. The modified
+  font was renamed to QuasiCourier.
+
+  Comments and remarks please send to:
+  Bogus\l{}aw Jackowski, Janusz M. Nowacki, Piotr Strzelczyk
+  <JNSteam@GUST.org.pl>
+
+PL (iso8859-2):
+  Uzupe³niona do uk³adu QX (p. 00readme) i nieco zmodyfikowana rodzina
+  fontów Nimbus Mono L (z dystrybucji programu Ghostscript, rozpowszechniana
+  na zasadach GNU General Public Licence). Jest to replika popularnego
+  kroju pisma, stosowanego w g³owicowych maszynach do pisania firmy IBM.
+  Autorami modyfikacji s±: Bogus³aw Jackowski, Janusz M. Nowacki
+  i Piotr Strzelczyk. Prace nad adaptacj± tego fontu by³y czê¶ciowo
+  sponsorowane przez Polsk± Grupê U¿ytkowników Systemu TeX GUST
+  i Komitet Badañ Naukowych. Zmodyfikowany font otrzyma³ nazwê
+  QuasiCourier.
+
+  Uwagi i komentarze prosimy kierowaæ pod adresem:
+  Bogus³aw Jackowski, Janusz M. Nowacki, Piotr Strzelczyk
+  <JNSteam@GUST.org.pl>
+

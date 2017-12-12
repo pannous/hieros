@@ -1,0 +1,546 @@
+<?xml version="1.0"?>
+<project name="PhilologEg" default="compile" basedir="."> 
+
+	<description>
+		Compilation and execution of PhilologEg
+	</description>
+
+	<property name="src.dir" value="src"/>
+	<property name="build.dir" value="."/>
+	<property name="lib.dir" value="lib"/>
+	<property name="work.dir" value="workinprogress"/>
+	<property name="paleo.dir" value="paleo"/>
+	<property name="corpus.dir" value="corpus"/>
+	<property name="corpuspdf.dir" value="corpus/pdf"/>
+	<property name="corpusweb.dir" value="corpus/web"/>
+	<property name="corpus" value="corpus/corpus.xml"/>
+	<property name="project.dir" value="project"/>
+	<property name="doc.dir" value="doc/html"/>
+	<property name="infiles" value=""/>
+	<property name="infile" value=""/>
+	<property name="outfile" value=""/>
+	<property name="fontsize" value="12"/>
+	<property name="fontstyle" value="s"/>
+
+	<!-- for developer only -->
+	<property name="docsource.dir" value="../align"/>
+	<property name="dist.name" value="PhilologEg-0.5.12.jar"/>
+	<property name="ocr.name" value="ocr.jar"/>
+	<property name="project.name" value="project.jar"/>
+	<property name="backup.prefix" value="backup"/>
+	<property name="webtexts.name"
+				value="/cs/home/mjn/public_html/egyptian/texts"/>
+	<property name="webalign.name"
+				value="/cs/home/mjn/public_html/egyptian/align"/>
+	<property name="webtmp.name"
+				value="/cs/home/mjn/public_html/egyptian/tmp"/>
+
+	<path id="compile.classpath">
+		<pathelement location="${src.dir}"/>
+		<fileset dir="${lib.dir}">
+			<include name="*.jar"/>
+		</fileset>
+	</path>
+
+	<path id="run.classpath">
+		<pathelement location="${build.dir}"/>
+		<fileset dir="${lib.dir}">
+			<include name="*.jar"/>
+		</fileset>
+	</path>
+
+	<property name="mani.dir" value="${lib.dir}/itextpdf-5.4.3.jar"/>
+
+	<target name="compile" 
+			description="compile all Java code"> 
+		<mkdir dir="${build.dir}"/>
+		<javac srcdir="${src.dir}" destdir="${build.dir}"
+				source="1.5" target="1.5"
+				deprecation="on"
+				includeantruntime="false"
+				failonerror="true" encoding="cp1252">
+			<classpath refid="compile.classpath"/>
+			<include name="**/*.java"/>
+			<exclude name="${work.dir}/**/*.java"/>
+			<exclude name="${paleo.dir}/**/*.java"/>
+		</javac>
+	</target> 
+
+	<target name="clean"
+			description="remove all that can be reconstructed">
+		<delete>
+			<fileset dir="${build.dir}">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="${src.dir}" defaultexcludes="no">
+				<include name="**/lexer.java~"/>
+			</fileset>
+			<fileset dir="${corpuspdf.dir}">
+				<include name="*"/>
+			</fileset>
+			<fileset dir="${corpusweb.dir}">
+				<include name="*"/>
+			</fileset>
+		</delete>
+	</target>
+
+	<target name="settings"
+			description="recompile files with settings">
+		<mkdir dir="${build.dir}"/>
+		<delete>
+			<fileset dir="${build.dir}">
+				<include name="nederhof/corpus/Settings.class"/>
+				<include name="nederhof/corpus/egyptian/Settings.class"/>
+				<include name="nederhof/corpus/frame/Settings.class"/>
+				<include name="nederhof/interlinear/egyptian/Settings.class"/>
+				<include name="nederhof/interlinear/pdf/egyptian/Settings.class"/>
+				<include name="nederhof/interlinear/frame/Settings.class"/>
+				<include name="nederhof/interlinear/pdf/frame/Settings.class"/>
+				<include name="nederhof/res/editor/Settings.class"/>
+			</fileset>
+		</delete>
+		<ant target="compile"/>
+	</target> 
+
+	<target name="view" depends="compile" 
+			description="view corpus">
+		<java classname="nederhof/corpus/egyptian/EgyptianCorpusViewer" fork="true"
+				classpathref="run.classpath">
+			<arg value="${corpus}"/>
+		</java>
+	</target>
+
+	<target name="pdf" depends="compile" 
+			description="make corpus into PDF">
+		<java classname="nederhof/corpus/egyptian/EgyptianCorpusExporter" fork="true"
+				classpathref="run.classpath">
+			<arg value="${corpus}"/>
+			<arg value="${corpuspdf.dir}"/>
+		</java>
+	</target>
+
+	<target name="appletview" 
+			description="view texts as applet">
+		<exec executable="sh" failonerror="true">
+			<arg line="-c 'appletviewer index.html'"/>
+		</exec>
+	</target>
+
+	<target name="res2image" depends="compile"
+			description="turn RES into image">
+		<java classname="nederhof/res/ResToImage" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg line="${args}"/>
+		</java>
+	</target>
+
+	<target name="edit" depends="compile"
+			description="activate ResEditor">
+		<java classname="nederhof/res/editor/FreeEditor" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg line="${infile}"/>
+		</java>
+	</target>
+
+	<target name="lex" depends="compile"
+			description="view lexicon">
+		<java classname="nederhof/lexicon/egyptian/LexiconEditWindow" fork="true"
+				classpathref="run.classpath" failonerror="true">
+		</java>
+	</target>
+
+	<target name="mdc2res" depends="compile"
+			description="convert MdC file to PhilologEg file">
+		<java classname="nederhof/res/mdc/MdcResConverter" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg line="${infile}"/>
+			<arg line="${outfile}"/>
+		</java>
+	</target>
+
+	<!-- for developer only -->
+
+	<target name="freshdoc"
+			description="recreate docs from sources (for developer)">
+		<mkdir dir="${doc.dir}"/>
+		<delete>
+			<fileset dir="${doc.dir}"/>
+		</delete>
+		<copy todir="${doc.dir}" failonerror="true">
+			<fileset dir="${docsource.dir}">
+				<exclude name="*.jar"/>
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="pack" depends="clean,freshdoc,pdf"
+			description="pack including PDF for distribution (for developer)">
+		<jar jarfile="${docsource.dir}/${dist.name}">
+			<fileset dir=".">
+				<exclude name="*.jar"/>
+				<exclude name="*.tar"/>
+				<exclude name="${work.dir}/**"/>
+				<exclude name="${project.dir}/**"/>
+			</fileset>
+			<zipgroupfileset dir="${lib.dir}" includes="**/*.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="AppletViewCorpus"/>
+				<attribute name="Class-Path" value="${mani.dir}"/>
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="dist" depends="clean,freshdoc,compile"
+			description="pack for distribution (for developer)">
+		<jar jarfile="${docsource.dir}/${dist.name}">
+			<fileset dir=".">
+				<exclude name="*.jar"/>
+				<exclude name="*.tar"/>
+				<exclude name="${work.dir}/**"/>
+				<exclude name="${project.dir}/**"/>
+			</fileset>
+			<zipgroupfileset dir="${lib.dir}" includes="**/*.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="AppletViewCorpus"/>
+				<attribute name="Class-Path" value="${mani.dir}"/>
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="simpledist" depends="compile"
+			description="pack quickly for distribution (for developer)">
+		<jar jarfile="${dist.name}">
+			<fileset dir=".">
+				<exclude name="*.jar"/>
+				<exclude name="*.tar"/>
+				<exclude name="${work.dir}/**"/>
+				<exclude name="${project.dir}/**"/>
+				<exclude name="${corpuspdf.dir}/**"/>
+				<exclude name="${corpusweb.dir}/**"/>
+			</fileset>
+			<zipgroupfileset dir="${lib.dir}" includes="**/*.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="AppletViewCorpus"/>
+				<attribute name="Class-Path" value="${mani.dir}"/>
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="ocrdist" depends="compile"
+			description="pack OCR tool (for developer)">
+		<jar jarfile="${ocr.name}">
+			<fileset dir=".">
+				<exclude name="*.jar"/>
+				<exclude name="*.tar"/>
+				<exclude name="${work.dir}/**"/>
+				<exclude name="${project.dir}/**"/>
+				<exclude name="${corpuspdf.dir}/**"/>
+				<exclude name="${corpusweb.dir}/**"/>
+			</fileset>
+			<zipgroupfileset dir="${lib.dir}" includes="**/*.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="nederhof/ocr/hiero/HieroOcr"/>
+				<attribute name="Class-Path" value="${mani.dir}"/>
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="project" depends="compile"
+			description="pack for translation project (for developer)">
+		<delete>
+			<fileset dir="${build.dir}">
+				<include name="${project.name}"/>
+			</fileset>
+		</delete>
+		<jar jarfile="${project.name}">
+			<fileset dir=".">
+				<exclude name="*.jar"/>
+				<exclude name="*.tar"/>
+				<exclude name="*index.html"/>
+				<exclude name="${work.dir}/**"/>
+				<exclude name="${paleo.dir}/**"/>
+				<exclude name="${corpus.dir}/**"/>
+				<exclude name="AppletViewCorpus.*"/>
+			</fileset>
+			<manifest>
+				<attribute name="Main-Class" value="AppletViewText"/>
+				<attribute name="Class-Path" value="${mani.dir}"/>
+			</manifest>
+			<zipfileset dir="." includes="project.html" fullpath="index.html"/>
+		</jar>
+	</target>
+
+	<target name="projectpdf" depends="compile"
+			description="make PDF of translation project (for developer)">
+		<java classname="nederhof/corpus/egyptian/EgyptianTextExporter" fork="true"
+				classpathref="run.classpath">
+			<arg line="http://mjn.host.cs.st-andrews.ac.uk/ptahhotep/project/text.php"/>
+		</java>
+	</target>
+
+	<target name="web" depends="simpledist"
+			description="for unjarred file in tmp, put files in right place (for developer)">
+		<delete>
+			<fileset dir="${webtexts.name}">
+				<include name="**/*"/>
+			</fileset>
+			<fileset dir="${webalign.name}">
+				<include name="**/*"/>
+			</fileset>
+		</delete>
+		<move todir="${webalign.name}">
+			<fileset dir="doc/html">
+				<include name="**/*"/>
+			</fileset>
+			<fileset dir="${webtmp.name}">
+				<include name="${dist.name}"/>
+			</fileset>
+		</move>
+		<move todir="${webtexts.name}">
+			<fileset dir="${webtmp.name}">
+				<include name="**/*"/>
+			</fileset>
+		</move>
+		<delete>
+			<fileset dir="${webtmp.name}">
+				<include name="**/*"/>
+			</fileset>
+		</delete>
+	</target>
+
+	<target name="backup" depends="clean,freshdoc"
+			description="pack for backup (for developer)">
+		<delete failonerror="false">
+			<fileset dir=".">
+				<include name="${backup.prefix}*.jar"/>
+			</fileset>
+		</delete>
+		<tstamp>
+			<format property="date" pattern="yyyy-MM-dd"/>
+		</tstamp>
+		<jar destfile="${backup.prefix}${date}.jar">
+			<fileset dir="."/>
+		</jar>
+		<ant target="pdf"/>
+	</target>
+
+	<target name="res_syntax" 
+			description="create CUP and JFlex files (for developer)">
+		<java classname="java_cup/Main" fork="true"
+				classpathref="run.classpath" failonerror="true"
+				dir="${src.dir}/nederhof/res">
+			<arg file="${src.dir}/nederhof/res/ResSyntax.cup"/>
+		</java>
+		<java jar="${lib.dir}/JFlex.jar" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg file="${src.dir}/nederhof/res/ResSyntax.flex"/>
+		</java>
+		<java classname="java_cup/Main" fork="true"
+				classpathref="run.classpath" failonerror="true"
+				dir="${src.dir}/nederhof/res/tmp">
+			<arg file="${src.dir}/nederhof/res/tmp/ResSyntax.cup"/>
+		</java>
+		<java jar="${lib.dir}/JFlex.jar" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg file="${src.dir}/nederhof/res/tmp/ResSyntax.flex"/>
+		</java>
+		<java classname="java_cup/Main" fork="true"
+				classpathref="run.classpath" failonerror="true"
+				dir="${src.dir}/nederhof/res/editor">
+			<arg file="${src.dir}/nederhof/res/editor/ResAlignSyntax.cup"/>
+		</java>
+		<java jar="${lib.dir}/JFlex.jar" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg file="${src.dir}/nederhof/res/editor/ResAlignSyntax.flex"/>
+		</java>
+	</target>
+
+	<target name="mdc_syntax" 
+			description="create CUP and JFlex files (for developer)">
+		<java classname="java_cup/Main" fork="true"
+				classpathref="run.classpath" failonerror="true"
+				dir="${src.dir}/nederhof/res/mdc">
+			<arg file="${src.dir}/nederhof/res/mdc/MdcSyntax.cup"/>
+		</java>
+		<java jar="${lib.dir}/JFlex.jar" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg file="${src.dir}/nederhof/res/mdc/MdcSyntax.flex"/>
+		</java>
+	</target>
+
+	<target name="oldalign" depends="src2xml"
+			description="view given text (obsolete)">
+		<java classname="nederhof/align/Align" fork="true"
+				classpathref="run.classpath">
+			<arg line="${infiles}"/>
+		</java>
+	</target>
+
+	<target name="alight2align" depends="compile"
+			description="turn Alight into Align (obsolete)">
+		<java classname="nederhof/align/convert/AlightAlign" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg line="${infiles}"/>
+		</java>
+	</target>
+
+	<target name="res2rescode" depends="compile"
+			description="turn RES into REScode (obsolete)">
+		<java classname="nederhof/align/convert/REStoREScode" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg line="${infiles}"/>
+		</java>
+	</target>
+
+	<target name="src2xml" depends="compile"
+			description="turn text sources into XML files (obsolete)">
+		<java classname="nederhof/align/convert/TextListing" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg file="${textsrc.dir}"/>
+		</java>
+	</target>
+
+	<target name="src2pdf" depends="compile"
+			description="turn text sources into XML and PDF files (obsolete)">
+		<java classname="nederhof/align/convert/TextListing" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg file="${textsrc.dir}"/>
+		</java>
+	</target>
+
+	<target name="chooser" depends="compile"
+			description="activate glyph chooser">
+		<java classname="nederhof/res/editor/GlyphChooser" fork="true"
+				classpathref="run.classpath" failonerror="true">
+		</java>
+	</target>
+
+	<target name="ocr" depends="compile"
+			description="activate OCR tool">
+		<java classname="nederhof/ocr/hiero/HieroOcr" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg value="${infile}"/>
+		</java>
+	</target>
+
+	<target name="ocradmin" depends="compile"
+			description="activate OCR admin">
+		<java classname="nederhof/ocr/admin/OcrAdmin" fork="true"
+				classpathref="run.classpath" failonerror="true">
+		</java>
+	</target>
+
+	<target name="ocracc" depends="compile"
+			description="test accuracy of OCR for developer)">
+		<java classname="nederhof/ocr/hiero/admin/Experiments" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg line="paleo/sethe"/>
+		</java>
+	</target>
+
+	<target name="ocrtrain" depends="compile"
+			description="train shapes of glyphs for OCR">
+		<java classname="nederhof/ocr/hiero/admin/HieroStatsMaker" fork="true"
+				classpathref="run.classpath" failonerror="true">
+		</java>
+	</target>
+
+	<target name="ocrextr" depends="compile"
+			description="extract prototypes for OCR from corpus)">
+		<java classname="nederhof/ocr/admin/Extractor" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg line="paleo/sethe"/>
+		</java>
+	</target>
+
+	<target name="proto" depends="compile"
+			description="test OCR classification (for developer)">
+		<java classname="nederhof/ocr/guessing/ProtoManager" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg line="paleo/sethe"/>
+		</java>
+	</target>
+
+	<target name="trans2image" depends="compile"
+			description="produce transliteration in image">
+		<java classname="nederhof/images/TransliterationImage" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg value="${text}"/>
+			<arg file="${outfile}"/>
+			<arg value="${fontsize}"/>
+			<arg value="${fontstyle}"/>
+		</java>
+	</target>
+
+	<target name="xmlentities" depends="compile"
+			description="replaces XML entities by characters">
+		<java classname="nederhof/util/xml/LatinEntities" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg value="${infile}"/>
+			<arg file="${outfile}"/>
+		</java>
+	</target>
+
+	<target name="est" depends="compile"
+			description="estimate relative frequencies of signs in corpus">
+		<java
+classname="nederhof/interlinear/egyptian/ortho/CheckerOrtho" fork="true"
+				classpathref="run.classpath" failonerror="true">
+		</java>
+	</target>
+
+	<target name="x" depends="compile" 
+			description="test something (for developer)">
+		<java classname="nederhof/alignment/egyptian/experiments/Experiment" fork="true"
+				classpathref="run.classpath">
+		</java>
+	</target>
+
+	<target name="y" depends="compile" 
+			description="test something (for developer)">
+		<java classname="nederhof/util/math/LogNormalDistribution" fork="true"
+				classpathref="run.classpath">
+		</java>
+	</target>
+
+	<target name="i" depends="compile" 
+			description="edit text of Iy (for developer)">
+		<java classname="nederhof/corpus/egyptian/EgyptianCorpusViewer" fork="true"
+				classpathref="run.classpath">
+			<arg value="workinprogress/Iy/corpus.xml"/>
+		</java>
+	</target>
+	<target name="r" depends="compile" 
+			description="edit text of Ramose (for developer)e">
+		<java classname="nederhof/corpus/egyptian/EgyptianCorpusViewer" fork="true"
+				classpathref="run.classpath">
+			<arg value="workinprogress/Ramose/corpus.xml"/>
+		</java>
+	</target>
+
+
+	<target name="iweb" depends="compile"
+			description="test some class (for testing)">
+		<java classname="nederhof/web/WebMaker" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg value="workinprogress/Iy/webspecs.xml"/>
+			<arg value="workinprogress/Iy/iy"/>
+		</java>
+	</target>
+	<target name="rweb" depends="compile"
+			description="test some class (for testing)">
+		<java classname="nederhof/web/WebMaker" fork="true"
+				classpathref="run.classpath" failonerror="true">
+			<arg value="workinprogress/Ramose/webspecs.xml"/>
+			<arg value="workinprogress/Ramose/ramose"/>
+		</java>
+	</target>
+
+	<target name="ortho" depends="compile"
+			description="build database of orthographical annotation">
+		<java classname="nederhof/interlinear/egyptian/ortho/ExampleOrtho" fork="true"
+				classpathref="run.classpath" failonerror="true">
+		</java>
+	</target>
+
+</project>

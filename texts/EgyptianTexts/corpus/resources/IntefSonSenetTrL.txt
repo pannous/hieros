@@ -1,0 +1,47 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-09-20
+version = L
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Stela of Intef son of
+Senet&quot;, following the transcription of Sethe (1924), pp. 80-81.
+The version treated here is the one in the one in Leiden (L). Only
+fragments are provided where L differs from the version in the British
+Museum (B).
+
+The transliteration throughout follows Hannig (1995).
+
+###
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+M. Lichtheim. <i>Ancient Egyptian Literature -- Volume I: The Old and
+Middle Kingdoms</i>. University of California Press, 1975.
+
+K. Sethe. <i>Aegyptische Lesestücke</i>. J.C. Hinrichs'sche
+Buchhandlung, Leipzig, 1924.
+
+###
+
+<@1> nDnDw
+;
+an advisor
+
+<@2> rDj nD.tw m-a=f 
+;
+to whom people were sent to ask for advise<@0>. <@3>

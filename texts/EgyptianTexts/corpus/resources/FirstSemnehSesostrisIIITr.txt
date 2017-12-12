@@ -1,0 +1,90 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-09-21
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Semneh stela marking the
+southern boundary of the realm of Sesostris III&quot;, Berlin 14753,
+following the transcription of De Buck (1948), p. 78.
+
+For an older transcription, see Aegyptische Inschriften (1913), number
+14753, pp. 255-256.
+
+The transliteration throughout follows Hannig (1995).
+
+For a published translation, see Breasted (1906), pp. 293-294, §§
+651-652. A few lines are also translated by Gardiner (1961), p. 135.
+
+###
+
+<i>Aegyptische Inschriften aus den Königlichen Museen zu Berlin --
+Volume 1</i>. Leipzig, 1913.
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume I</i>. The
+University of Chicago Press, 1906.
+
+A. De Buck. <i>Egyptian Readingbook</i>. Ares Publishers, Chicago,
+Illinois, 1948.
+
+A. Gardiner <i>Egypt of the Pharaohs -- An Introduction</i>. Oxford
+University Press, 1961.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+###
+
+<1> tAS rs jry m rnpt-sp 8 xr Hm n
+;
+<1> Southern boundary, made in year 8 under the majesty of
+
+nsw-bjtj ^xaj-kAw-^ra
+;
+the king of Upper and Lower Egypt Khakaure,
+
+Dj anx Dt <2> r nHH
+;
+given life forever <2> until eternity,
+
+r tm rDj sn sw nHs nb
+;
+to prevent that any Nubian should cross it,
+
+m xd <3> m Hrt
+;
+by sailing north <3> or by land,
+
+m kAj mnmnt nbt nt <4> nHsw
+;
+with a ship, or any herds of <4> the Nubians,
+
+wpw Hr nHs jw.tj=f r jrt swnt m ^jqn
+;
+apart from a Nubian who shall come to trade in Mirgissa,
+
+<5> m jpwt rA-pw
+;
+<5> or with a message,
+
+jrt.tw nbt nfr Hna=sn
+;
+or anything good that may be done with them,
+
+nn swt rDjt <6> swA kAj n nHsw
+;
+but without letting <6> a ship of the Nubians pass
+
+m xd Hr ^HH r nHH
+;
+that sails north past Abu Sir, forever.

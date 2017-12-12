@@ -1,0 +1,186 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Address to the visitor of
+the tomb of Nebipw-Sesostris&quot;, following the transcription of
+Sethe (1924), p. 89.
+
+The transliteration throughout follows Hannig (1995).
+
+###
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Aegyptische Lesestücke</i>. J.C. Hinrichs'sche
+Buchhandlung, Leipzig, 1924.
+
+###
+
+jrj-nfr-HAt
+;
+Keeper of the diadem,
+
+Smsw pr-aA
+;
+follower of the palace
+
+^nb=j-pw-^s-n-^wsrt
+;
+Nebipw-Sesostris,
+
+Dd=f
+;
+says
+
+n wnwt Hwt-nTr nt ^AbDw
+;
+to the priesthood of the temple of Abydos
+
+Hwt=f nt nsw-bjtj
+;
+and its royal funerary chapel:
+
+Hwn nsw m anx=Tn
+;
+'As the king is rejuvenating in your lives,
+
+mn n=Tn mnw n nTrw=Tn njwtjw
+;
+as the monuments of your city gods will last for you,
+
+wnn=Tn Xr Hswt nt jty=Tn
+;
+as you are in the favour of your ruler,
+
+swD=Tn jAwt=Tn n Xrdw=Tn
+;
+as you pass on your offices to your children,
+
+wnn msw=Tn mn(.w) Hr nswt=Tn
+;
+as your children will last in your places
+
+m jAwt=Tn nt Dt
+;
+in your hereditary offices,
+
+nn Hqr=Tn
+;
+as you will not be hungry,
+
+nn jbj=Tn
+;
+as you will not thirsty,
+
+jw wD.n nTr aA
+;
+because the great god has ordained
+
+wnn=Tn tp tA
+;
+that you are on earth
+
+Xr Hswt=f
+;
+in his favour,
+
+nn Sna.tw=Tn m st qsnt
+;
+as you will not be turned back at the difficult place,
+
+Xr Hswt nt nTrw=Tn njwtjw
+;
+in the favour of your city gods,
+
+Dd=Tn
+;
+you say:
+
+Htp-Dj-nsw ^wsjr
+;
+'A royal offering of Osiris,
+
+nb ^AbDw
+;
+lord of Abydos,
+
+nTr aA
+;
+great god,
+
+^wnn-nfr
+;
+Wenen-nefer,
+
+1000 m t
+;
+a thousand of bread,
+
+Hnqt
+;
+beer,
+
+kA
+;
+oxen,
+
+Apd
+;
+fowl,
+
+prt-r-xrw
+;
+a mortuary offering
+
+m Hb
+;
+in festivity,
+
+n kA n
+;
+for the spirit of
+
+jrj-nfr-HAt
+;
+the keeper of the diadem,
+
+Smsw pr-aA
+;
+follower of the palace
+
+^nb=j-pw-^s-n-^wsrt
+;
+Nebipw-Sesostris,
+
+jr.n ^jt
+;
+begotten by It.'
+
+TAw n rA Ax(.w) n saH
+;
+Breath of the mouth is beneficial to the blessed,
+
+nn nw m wrDt Xr=s
+;
+but it does not make one tired,
+
+wnn=Tn m jxm-sk m sbA jmj xAbAs
+;
+and you will be everlasting as star in the sky.

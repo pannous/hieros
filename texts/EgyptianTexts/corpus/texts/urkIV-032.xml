@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Tombos stela of Tuthmosis I"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="32"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="67-73"/>
+<collection kind="kings" collect="Tuthmosis I"/>
+<resource location="../resources/urkIV-032Hi.xml"/>
+<resource location="../resources/urkIV-032Tr.txt"/>
+<autoalign
+  location1="../resources/urkIV-032Hi.xml"
+  tier1="hieroglyphic"
+  location2="../resources/urkIV-032Tr.txt"
+  tier2="transliteration"/>
+</text>

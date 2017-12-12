@@ -1,0 +1,49 @@
+creator = M-J Nederhof
+name = Mackie/Watson
+labelname = 
+created = 2013-10-04
+modified = 2013-10-04
+version = 
+scheme = 
+language = 
+upload = 
+email = 
+password = 
+hieroglyphic = shown
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Translation by Ann Mackie and John Watson.
+
+This is an inscription of Amenhotep IV, dated to the early years of
+the reign preceding his religious revolution, the removal of the court
+to his new capital Akhetaten and his change of name to Akhenaten.
+
+###
+
+###
+
+[vlr]wn:n:n
+,
+wnn
+;
+Existing:
+
+[vlr]insert[te](zA,ra)
+,
+sA ra
+;
+the son of Ra,
+
+[vlr]mr*[sep=0.2]i*[sep=0.2]i-f
+,
+mry=f
+;
+his beloved,
+
+[vlr]cartouche(i*[sep=0.4](mn:.):[sep=0.5,fit]Htp-nTr*[sep=0.4]HqA*[sep=0.3]wAs)
+,
+imn-HTp nTr HqA wAst
+;
+Amenhotep, god and ruler of Thebes...

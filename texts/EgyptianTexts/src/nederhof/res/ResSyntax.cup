@@ -1,0 +1,328 @@
+/***************************************************************************/
+/*                                                                         */
+/*  ResSyntax.cup                                                          */
+/*                                                                         */
+/*  Copyright (c) 2005 Mark-Jan Nederhof                                   */
+/*                                                                         */
+/*  This file is part of the implementation of AELalign, and may only be   */
+/*  used, modified, and distributed under the terms of the                 */
+/*  GNU General Public License (see doc/GPL.TXT).                          */
+/*  By continuing to use, modify, or distribute this file you indicate     */
+/*  that you have read the license and understand and accept it fully.     */
+/*                                                                         */
+/***************************************************************************/
+
+// CUP specification of RES.
+
+package nederhof.res;
+
+import java.io.*;
+import java.util.*;
+
+import java_cup.runtime.*;
+
+parser code {:
+
+    // Used for checking whether glyph names and 
+    // such have been defined.
+    public IParsingContext context;
+
+    // Construct parser by making lexer and storing input string.
+    public parser(String string, IParsingContext context) {
+	super(new lexer(new StringReader(string)));
+	context.setInput(string);
+	this.context = context;
+    }
+
+    // Create error message.
+    public void report_error(String message, Object info) {
+	if (info instanceof java_cup.runtime.Symbol) {
+	    java_cup.runtime.Symbol sym = (java_cup.runtime.Symbol) info;
+	    int charPos = sym.left;
+	    int lineNo = sym.right;
+	    context.reportError(message, charPos, lineNo);
+	} else
+	context.addError(message + "\n");
+    }
+
+    // As above, but terminate parsing.
+    public void report_fatal_error(String message, Object info) {
+	report_error(message, info);
+	done_parsing();
+    }
+
+:};
+
+// Terminals.
+
+terminal MINUS;
+terminal COLON;
+terminal OPEN;
+terminal CLOSE;
+terminal ASTERISK;
+terminal PERIOD;
+terminal COMMA;
+terminal CARET;
+terminal EXCLAM;
+terminal SQ_OPEN;
+terminal SQ_CLOSE;
+terminal EQUALS;
+terminal WHITESPACE;
+
+terminal EMPTY;
+terminal STACK;
+terminal INSERT;
+terminal MODIFY;
+terminal String GLYPH_NAME;
+terminal String NAME;
+terminal String STRING;
+terminal String REAL;
+terminal String NAT_NUM;
+
+terminal ERROR; /* passes scanning error on to parser */
+
+// Nonterminals.
+
+nonterminal ResFragment fragment;
+nonterminal LinkedList optional_header;
+nonterminal LinkedList header;
+nonterminal ResHieroglyphic optional_hieroglyphic;
+nonterminal ResHieroglyphic hieroglyphic;
+nonterminal ResTopgroup top_group;
+nonterminal ResVertgroup vert_group;
+nonterminal ResVertsubgroup vert_sub_group;
+nonterminal ResHorgroup hor_group;
+nonterminal ResHorsubgroup hor_sub_group;
+nonterminal ResBasicgroup basic_group;
+nonterminal ResNamedglyph named_glyph;
+nonterminal ResEmptyglyph empty_glyph;
+nonterminal ResBox box;
+nonterminal ResStack stack;
+nonterminal ResInsert insert;
+nonterminal ResModify modify;
+nonterminal ResNote optional_note;
+nonterminal LinkedList notes;
+nonterminal ResNote note;
+nonterminal ResSwitch ws;
+nonterminal ResSwitch switches;
+nonterminal ResSwitch switch;
+nonterminal LinkedList optional_arg_bracket_list;
+nonterminal LinkedList arg_bracket_list;
+nonterminal LinkedList arg_list;
+nonterminal ResArg arg;
+
+nonterminal whitespaces;
+
+// Grammar.
+
+fragment ::= 
+	whitespaces optional_header:he switches:s optional_hieroglyphic:hi
+		{: RESULT = new ResFragment(he,s,hi,parser.context); :}
+	;
+
+optional_header ::= 
+	/* empty */
+		{: RESULT = new LinkedList(); :} |
+	header:h
+		{: RESULT = h; :}
+	;
+
+header ::= 
+	arg_bracket_list:a whitespaces
+		{: RESULT = a; :}
+	;
+
+optional_hieroglyphic ::=
+	/* empty */
+		{: RESULT = null; :} |
+	hieroglyphic:h
+		{: RESULT = h; :}
+	;
+
+hieroglyphic ::= 
+	top_group:g
+		{: RESULT = new ResHieroglyphic(g,parser.context); :} |
+	top_group:g MINUS optional_arg_bracket_list:a ws:s hieroglyphic:h
+		{: RESULT = h.addGroup(g,a,s,parser.context); :} |
+	error MINUS optional_arg_bracket_list:a ws:s hieroglyphic:h
+		{: RESULT = h; :} |
+	error
+		{: RESULT = null; :}
+	;
+
+top_group ::= 
+	vert_group:g
+		{: RESULT = g; :} |
+	hor_group:g
+		{: RESULT = g; :} |
+	basic_group:g
+		{: RESULT = g; :}
+	;
+
+vert_group ::=
+	vert_sub_group:g1 COLON optional_arg_bracket_list:a ws:s vert_sub_group:g2
+		{: RESULT = new ResVertgroup(g1,a,s,g2,parser.context); :} |
+	vert_group:g1 COLON optional_arg_bracket_list:a ws:s vert_sub_group:g2
+		{: RESULT = g1.addGroup(a,s,g2,parser.context); :}
+	;
+
+vert_sub_group ::= 
+	hor_group:g
+		{: RESULT = new ResVertsubgroup(g); :} |
+	OPEN ws:s1 hor_group:g CLOSE ws:s2
+		{: RESULT = new ResVertsubgroup(s1,g,s2); :} |
+	basic_group:g
+		{: RESULT = new ResVertsubgroup(g); :}
+	;
+
+hor_group ::= 
+	hor_sub_group:g1 ASTERISK optional_arg_bracket_list:a ws:s hor_sub_group:g2
+		{: RESULT = new ResHorgroup(g1,a,s,g2,parser.context); :} |
+	hor_group:g1 ASTERISK optional_arg_bracket_list:a ws:s hor_sub_group:g2
+		{: RESULT = g1.addGroup(a,s,g2,parser.context); :}
+	;
+
+hor_sub_group ::= 
+	OPEN ws:s1 vert_group:g CLOSE ws:s2
+		{: RESULT = new ResHorsubgroup(s1,g,s2); :} |
+	basic_group:g
+		{: RESULT = new ResHorsubgroup(g); :}
+	;
+
+basic_group ::= 
+	named_glyph:g
+		{: RESULT = g; :} |
+	empty_glyph:g
+		{: RESULT = g; :} |
+	box:g
+		{: RESULT = g; :} |
+	stack:g
+		{: RESULT = g; :} |
+	insert:g
+		{: RESULT = g; :} |
+	modify:g
+		{: RESULT = g; :}
+	;
+
+named_glyph ::=
+        GLYPH_NAME:n optional_arg_bracket_list:a whitespaces notes:no switches:s
+		{: RESULT = new ResNamedglyph(n,a,no,s,nleft,nright,parser.context); :} |
+        NAME:n optional_arg_bracket_list:a whitespaces notes:no switches:s
+		{: RESULT = new ResNamedglyph(n,a,no,s,nleft,nright,parser.context); :} |
+        NAT_NUM:n optional_arg_bracket_list:a whitespaces notes:no switches:s
+		{: RESULT = new ResNamedglyph(n,a,no,s,nleft,nright,parser.context); :} |
+        STRING:n optional_arg_bracket_list:a whitespaces notes:no switches:s
+		{: RESULT = new ResNamedglyph(n,a,no,s,nleft,nright,parser.context); :}
+	;
+
+empty_glyph ::=
+        EMPTY optional_arg_bracket_list:a whitespaces optional_note:n switches:s
+		{: RESULT = new ResEmptyglyph(a,n,s,parser.context); :} |
+        PERIOD whitespaces optional_note:n switches:s
+		{: RESULT = new ResEmptyglyph(n,s,parser.context); :}
+	;
+
+box ::=
+        NAME:n optional_arg_bracket_list:a whitespaces
+	OPEN ws:s1 optional_hieroglyphic:h CLOSE whitespaces notes:no switches:s2
+		{: RESULT = new ResBox(n,a,s1,h,no,s2,nleft,nright,parser.context); :}
+	;
+
+stack ::=
+        STACK optional_arg_bracket_list:a whitespaces
+        OPEN ws:s0 top_group:g1 COMMA ws:s1 top_group:g2 CLOSE ws:s2
+		{: RESULT = new ResStack(a,s0,g1,s1,g2,s2,parser.context); :}
+	;
+
+insert ::=
+        INSERT optional_arg_bracket_list:a whitespaces
+	OPEN ws:s0 top_group:g1 COMMA ws:s1 top_group:g2 CLOSE ws:s2
+		{: RESULT = new ResInsert(a,s0,g1,s1,g2,s2,parser.context); :}
+	;
+
+modify ::=
+        MODIFY optional_arg_bracket_list:a whitespaces
+	OPEN ws:s1 top_group:g CLOSE ws:s2
+		{: RESULT = new ResModify(a,s1,g,s2,parser.context); :}	
+	;
+
+optional_note ::= 
+	/* empty */
+		{: RESULT = null; :} |
+	note:n
+		{: RESULT = n; :}
+	;
+
+notes ::= 
+	/* empty */
+		{: RESULT = new LinkedList(); :} |
+	note:n notes:ns
+		{: ns.addFirst(n);
+		   RESULT = ns; :}
+	;
+
+note ::= 
+	CARET STRING:s optional_arg_bracket_list:a whitespaces
+		{: RESULT = new ResNote(s,a,parser.context); :}
+	;
+
+ws ::= 
+	whitespaces switches:s
+		{: RESULT = s; :}
+	;
+
+switches ::= 
+	/* empty */
+		{: RESULT = new ResSwitch(); :} |
+	switch:s1 switches:s2
+		{: RESULT = s1.join(s2); :}
+	;
+
+switch ::= 
+	EXCLAM optional_arg_bracket_list:as whitespaces
+		{: RESULT = new ResSwitch(as,parser.context); :}
+	;
+
+optional_arg_bracket_list ::= 
+	/* empty */
+		{: RESULT = new LinkedList(); :} |
+	arg_bracket_list:as
+		{: RESULT = as; :}
+	;
+
+arg_bracket_list ::= 
+	SQ_OPEN whitespaces arg_list:as SQ_CLOSE
+		{: RESULT = as; :} |
+	SQ_OPEN whitespaces SQ_CLOSE
+		{: RESULT = new LinkedList(); :}
+	;
+
+arg_list ::= 
+	arg:a whitespaces
+		{: LinkedList as = new LinkedList();
+		   as.addFirst(a);
+		   RESULT = as; :} |
+	arg:a whitespaces COMMA whitespaces arg_list:as
+		{: as.addFirst(a);
+		   RESULT = as; :}
+	;
+
+arg ::= 
+	NAME:n1 EQUALS NAME:n2
+		{: RESULT = new ResArg(n1,n2,n1left,n1right); :} |
+	NAME:n1 EQUALS NAT_NUM:n2
+		{: RESULT = new ResArg(n1,n2,n1left,n1right); :} |
+	NAME:n1 EQUALS REAL:n2
+		{: RESULT = new ResArg(n1,n2,n1left,n1right); :} |
+	NAME:n
+		{: RESULT = new ResArg(n,nleft,nright); :} |
+	NAT_NUM:n
+		{: RESULT = new ResArg(n,nleft,nright); :} |
+	REAL:n
+		{: RESULT = new ResArg(n,nleft,nright); :}
+	;
+
+whitespaces ::= 
+	/* empty */ | 
+	whitespaces WHITESPACE
+	;

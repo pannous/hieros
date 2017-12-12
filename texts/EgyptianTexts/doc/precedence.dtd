@@ -1,0 +1,20 @@
+<!ELEMENT precedence (prec1*,prec2*)>
+<!ATTLIST precedence 
+	created CDATA ""
+	modified CDATA "">
+
+<!ELEMENT prec1 EMPTY>
+<!ATTLIST prec1
+	id1 CDATA ""
+	offset1 CDATA "0"
+	type1 CDATA "start"
+	id2 CDATA ""
+	offset2 CDATA "0">
+
+<!ELEMENT prec2 EMPTY>
+<!ATTLIST prec2
+	id1 CDATA ""
+	offset1 CDATA "0"
+	type1 CDATA "start"
+	id2 CDATA ""
+	offset2 CDATA "0">

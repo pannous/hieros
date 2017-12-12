@@ -1,0 +1,182 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2015-07-28
+modified = 2015-07-28
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the title and qualities of Ineni, 
+following the transcription of Sethe (1927), number 23 (pp. 67-69).
+
+For published translations, see Sethe (1914), number 23 (pp. 35-36).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> jrj-pat HAtj-a
+;
+<1> Prince-regent and count,
+
+mH-jb mnx n ^Hr=f
+;
+excellent confidant of his Horus,
+
+nb sArt
+;
+possessor of wisdom,
+
+jqr nDwt-rA
+;
+with trustworthy advice,
+
+jqr Dd Hr jb n nsw
+;
+excellent speaker in the opinion of the king,
+
+skm ns
+;
+wise,
+
+rx-sw m Ddt
+;
+knowing what is said,
+
+HAtj-a
+;
+count,
+
+jmj-rA Snwtj n ^jmn
+;
+overseer of the granaries of Amun,
+
+sS ^jnnj mAa-xrw
+;
+the scribe Ineni, justified.
+
+<2> jrj-pat HAtj-a
+;
+<2> Prince-regent and count,
+
+wa jqr
+;
+singularly excellent,
+
+mrrw nb=f
+;
+beloved of his lord,
+
+jwtj wn=f xr rmT
+;
+without fault with people,
+
+HAtj-a
+;
+count,
+
+jmj-rA Snwtj n ^jmn
+;
+overseer of the granaries of Amun,
+
+^jnnj mAa-xrw
+;
+Ineni, justified.
+
+<3> jrj-pat HAtj-a
+;
+<3> Prince-regent and count,
+
+xrp kAt nbt m ^jpt-swt
+;
+director of all works in Karnak,
+
+prwj-HD Xr st-Hr=f
+;
+under whose supervision the two silver houses are,
+
+prwj-nbw Hr Dbawt=f
+;
+under whose seal the two gold houses are,
+
+xtm xtmt nbt m pr ^jmn
+;
+seal-keeper of all that is sealed in the temple of Amun,
+
+HAtj-a
+;
+count,
+
+jmj-rA Snwtj n ^jmn
+;
+overseer of the granaries of Amun,
+
+^jnnj mAa-xrw
+;
+Ineni, justified.
+
+<4> HAtj-a
+;
+<4> Count,
+
+jmj-rA Snwtj n ^jmn
+;
+overseer of the granaries of Amun,
+
+jmj-rA xtmt nbt m pr ^jmn
+;
+overseer of all that is sealed in the temple of Amun,
+
+sS ^jnnj mAa-xrw
+;
+the scribe Ineni, justified.
+
+<5a> jrj-pat HAtj-a
+;
+<5a> Prince-regent and count,
+
+xrp kAt m Hrt nt nsw 
+;
+director of works at the rock tomb of the king,
+
+jmj-rA jAwt nbt m pr ^jmn
+;
+overseer of every office in the temple of Amun,
+
+HAtj-a
+;
+count,
+
+jmj-rA Snwtj n ^jmn
+;
+overseer of the granaries of Amun,
+
+^jnnj mAa-xrw
+;
+Ineni, justified.
+
+<5b> jmj-rA kAt m Hrt nt nsw
+;
+<5b> Overseer of works at the rock tomb of the king,
+
+sAb
+;
+dignitary,
+
+^jnnj mAa-xrw
+;
+Ineni, justified.

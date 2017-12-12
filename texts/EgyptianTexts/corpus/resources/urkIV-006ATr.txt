@@ -1,0 +1,79 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-05-01
+modified = 
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the first inscription in the
+quarries at Tura, following the transcription of Sethe (1927), number
+6 (pp. 24-25).
+
+For published translations, see Sethe (1914), number 6 (pp. 13-14).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> nsw-bjtj ^nb-pHtj-^ra Dj anx
+;
+<1> The king of Upper and Lower Egypt: Nebpehtire, given life,
+
+<2> ^jtm nb ^jwnw mry
+;
+<2> beloved of Atum, lord of Heliopolis,
+
+<3> ^ptH rsj jnb=f nb mAat mry
+;
+<3> beloved of Ptah, south of his wall, lord of justice,
+
+<4> ^jaH-msjw ^nfrt-jrj anx.tj Dt
+;
+<4> Ahmose Nofret-iry, may she live forever!
+
+<5> Hmt-nTr Hmt-nsw wrt
+;
+<5> God's wife, great king's wife,
+
+nbt tAwj
+;
+mistress of the Two Lands,
+
+<6> sAt-nsw snt-nsw
+;
+<6> king's daughter, king's sister,
+
+mwt-nsw
+;
+king's mother,
+
+Hnwt tAwj
+;
+mistess of the two lands,
+
+<7> Hmt-nsw wrt mwt-nsw
+;
+<7> great king's wife, king's mother,
+
+nbt tAwj
+;
+mistress of the Two Lands,
+
+<8> sAt-nsw snt-nsw jty
+;
+<8> king's daughter, king's sister, sovereign.

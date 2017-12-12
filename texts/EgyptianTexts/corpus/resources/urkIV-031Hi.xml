@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2015-08-18"
+  modified=""
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of title of queen Ahmose,
+following Sethe (1927), number 31 (pp. 81-82).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="1"/>[hlr]D21:[sep=0.5,size=1.3]X1*[sep=0.5]Q3*[sep=0.5]X1:[sep=0.5]D36-insert[t](G36,X1)-W14*[sep=0.5](X1:Z1*[sep=0.5]Z1*[sep=0.5]Z1)*M1-G5-S29*[sep=0.4,fit](empty[width=0.0,height=0.5]:X1:.)*[sep=0.4,fit]U23-N36:[sep=0.5]X1:[sep=0.2]I9
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]V30:X1-D58-M30*X1-O29:[sep=0.5]D36:[sep=0.5]X1-U6-X1-[sep=0.5,fit]G43-W10:X1-M29-F34:Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="3"/>[hlr]W10:X1-N41*[sep=0.5]N41:[size=1.1].*(.:X1)*N41-V30:X1-insert[bs](I10,D46:[sep=0.5]X1)-Aa1*[sep=0.5]X1:[sep=0.5]V30:[sep=0.5]X1-D4-X1-[sep=0.5,fit]G43-N35:O34
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="4"/>[hlr]G5-F36-M17*(.:X1)*[fit]M17-W10*[sep=0.5]X1:N17:[sep=0.5]N17-cartouche(N11-F31*O34)-S34*U33
+</texthi>
+</segment>
+</egyptian>

@@ -1,0 +1,94 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Address to the visitor of
+the tomb of Sesostris&quot;, following the transcription of Sethe
+(1924), p. 87.
+
+The transliteration throughout follows Hannig (1995).
+
+###
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Aegyptische Lesestücke</i>. J.C. Hinrichs'sche
+Buchhandlung, Leipzig, 1924.
+
+###
+
+j anxw tpjw-tA
+;
+O living who are on earth,
+
+mr Tn nsw
+;
+as the king loves you,
+
+Hs Tn xntj jmntjw
+;
+as the foremost of those in the west praises you,
+
+Dd=Tn
+;
+you say:
+
+1000 t
+;
+'A thousand of bread,
+
+Hnqt
+;
+beer,
+
+kA
+;
+oxen,
+
+Apd
+;
+fowl,
+
+jxt nbt
+;
+and all things,
+
+n kA n
+;
+for the spirit of
+
+jrj-at ^s-n-^wsrt
+;
+the hall-keeper Sesostris,
+
+jr.n anxt
+;
+born of Ankhet.'
+
+jr grt jr.tj=sn DAt
+;
+As for those who will put their hands
+
+r Htp pn
+;
+on these offerings,
+
+xr=sn n dsw n ^Hr-jmj-Snwt
+;
+they will succumb to the knives of Horus-imi-shenut.

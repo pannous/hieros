@@ -1,0 +1,371 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Inscription of Tuthmosis II,
+recording a rebellion in Nubia&quot;, following the transcription of
+De Buck (1948), pp. 47-48.
+
+For an older transcription, see Sethe (1906), number 55 (pp. 137-141).
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), pp. 48-50, §§
+119-122; Sethe (1914), number 55 (pp. 67-69).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+A. De Buck. <i>Egyptian Readingbook</i>. Ares Publishers, Chicago,
+Illinois, 1948.
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1906.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+###
+
+<47:2> rnpt-sp 1 Abd 2 Axt sw 8
+;
+<47:2> Year 1, second month of the Season of Inundation, day 8.
+
+xat xr Hm n
+;
+Appearance by the majesty of
+
+^Hr ^kA-nxt wsr-pHtj
+;
+Horus: Mighty bull, powerful in strength;
+
+nbtj ^nTrj-nsyt
+;
+Two Ladies: Divine of kingship;
+
+^Hr-nbw ^sxm-xpr<47:3>w
+;
+Gold Horus: Mighty of being;
+
+nsw-bjtj ^aA-xpr-n-^ra
+;
+The king of Upper and Lower Egypt: Aakheperenre;
+
+sA-^ra ^DHwtj-msjw nfr-xaw
+;
+Son of Re: Tuthmosis, beautiful of appearance,
+
+Hr st-^Hr nt anxw
+;
+on the Horus-throne of the living.
+
+jt=f ^ra m sA=f
+;
+His father Re is his protection,
+
+<47:4> ^jmn nb ^nswt-tAwj
+;
+<47:4> and Amun, lord of the Thrones of the Two Lands,
+
+Hww=sn n=f SnTjw=f
+;
+while they smite his enemies for him.
+
+sT Hm=f m aH
+;
+When His Majesty is in the palace,
+
+bAw=f sxm(.w)
+;
+his fame is mighty,
+
+<47:5> snD=f xt tA
+;
+<47:5> the fear of him is throughout the land,
+
+SfSft m jdbw HAw-nbwt
+;
+the awe is in the Aegean lands,
+
+psStj nbwj Xr st-Hr=f
+;
+the portions of the two lords are under his supervision,
+
+psDt-pDt dmD(.w) <47:6> Xr Tbtj=f
+;
+the Nine Bows are gathered <47:6> under his feet,
+
+jw n=f mntjw Xr jnw
+;
+the bedouin come to him carrying gifts,
+
+jwntjw-^stj Xr gAwt
+;
+and the Nubian nomads are carrying tributes.
+
+tAS=f rs r wpt-tA
+;
+His southern boundary reaches to the crest of the world,
+
+<47:7> mHtj r pHww
+;
+<47:7> the northern to the ends.
+
+^sTt m nDt nt Hm=f
+;
+Asia is subject to His Majesty,
+
+n xsf-a n wpwtj=f xt tAw ^fnxw
+;
+one doesn't repulse his messenger throughout Lebanon.
+
+<47:8> j.tw r rDjt wDA-jb n Hm=f r ntt<note>Written
+<al>nnt</al>.</note>
+;
+<47:8> One came to inform His Majesty:
+
+^kS Xst wA.tj r bST
+;
+'Vile Kush is preparing to rebel.
+
+wnw <47:9> m nDt nt nb tAwj
+;
+Those who are <47:9> subject to the lord of the Two Lands
+
+xmt(.w) n kAt sbjt
+;
+are devising a hostile plan,
+
+wA(.w) r Hwt{f} rmT ^kmt
+;
+preparing to smite the Egyptians,
+
+r xnp <47:10> mnmnt Hr-sA nn mnnww
+;
+to steal <47:10> the cattle behind these fortresses
+
+qd.n jt=k m nxtw=f
+;
+that your father has built during his victories,
+
+nsw-bjtj ^aA-xpr-kA-^ra anx(.w) Dt
+;
+the king of Upper and Lower Egypt Aakheperkare (may he live forever!),
+
+<47:11> r xsf xAswt bSTt
+;
+<47:11> to repel the rebellious lands,
+
+jwntjw-^stj nw ^xnt-Hn-nfr
+;
+the Nubian nomads from Khent-hen-nefer.'
+
+sT wn wr Hr mHtt ^kS Xs<47:12>t
+;
+Now, there was a ruler in the north of vile Kush
+
+wA=f r tr n rqt<note>Written <al>rtt</al>.</note>
+;
+who was preparing a period of hostility
+
+Hna jwntjwj nw ^stj
+;
+together with two Nubian nomads
+
+m msw wr n ^kS <47:13> Xst
+;
+among the children of the ruler of vile Kush,
+
+wtx.w Xr-HAt nb tAwj
+;
+who had flown from the lord of the Two Lands,
+
+hrw Sat nt nTr-nfr
+;
+on the day of the massacre by the good god,
+
+psS xAst tn m dj<47:14>wt
+;
+when this foreign land was divided into five parts,
+
+wa nb m jrj n Xrt=f
+;
+each one as the guardian of its portion.
+
+xa.jn Hm=f r=s
+;
+Then His Majesty acted against it
+
+mj Aby m-xt sDm=f st
+;
+as a panther, after he had heard it.
+
+<47:15> Dd.jn Hm=f
+;
+<47:15> And His Majesty said:
+
+anx=j mr wj ^ra
+;
+'As I live, as Re loves me,
+
+Hs wj jt=j
+;
+as my father praises me,
+
+nb nTrw ^jmn nb ^nswt-tAwj
+;
+the lord of the gods, Amun, the lord of the Thrones of the Two Lands,
+
+n Dj=j <47:16> A anx m TAy=sn
+;
+I will not let <47:16> their men live,
+
+wAH=j A mwt jm=sn
+;
+I will put them to death.'
+
+aHa.n ssb.n Hm=f mSA aSA <48:1> r ^tA-stj
+;
+Then His Majesty sent a numerous army <48:1> to Taseti,
+
+m sp=f tpj nxt
+;
+as his first victory,
+
+r sxrt bSTw Hr Hm=f nbw
+;
+to overthrow all who rebelled against His Majesty,
+
+sbjt Hr nb tAwj
+;
+the rebels against the lord of the Two Lands.
+
+<48:2> aHa.n mSA pn n Hm=f spr(.w) r ^kS Xst
+;
+<48:2> Then this army of His Majesty arrived in vile Kush.
+
+bAw Hm=f sSm.n=f st
+;
+The might of His Majesty guided them
+
+<48:3> nx.n Sat=f nmtt=sn
+;
+<48:3> and his terror protected their march.
+
+wn.jn mSA pn n Hm=f Hr sxrt nn xAstjw
+;
+Then this army of His Majesty overthrew these foreigners;
+
+<48:4> n Dj=sn A anx m TAyw=sn
+;
+<48:4> they didn't let their men live,
+
+mj wDt.n nbt Hm=f
+;
+in accordance with everything that His Majesty had ordered,
+
+wpw Hr wa m nn <48:5> msw nw wr n ^kS Xst
+;
+with the exception of one of these <48:5> children of the ruler of
+vile Kush,
+
+jn anx(.w) m sqr-anx
+;
+who was brought alive as captive,
+
+Hna Xrw=sn
+;
+together with its inhabitants,
+
+r <48:6> bw Xr Hm=f
+;
+to <48:6> the place where His Majesty was,
+
+Djw A Xr rdwj n nTr-nfr
+;
+and who were placed under the feet of the good god.
+
+sT Hm=f xa(.w) Hr TnTAt
+;
+His Majesty appeared on the dais,
+
+xft <48:7> sTA sqrw-anx
+;
+while <48:7> the captives were dragged in
+
+jn.n mSA pn n Hm=f
+;
+whom this army of His Majesty had brought.
+
+jrw xAst tn m nDt nt <48:8> Hm=f
+;
+This foreign land was made subject to <48:8> His Majesty,
+
+mj sp=s jmj-HAt
+;
+as its former state had been.
+
+rxyt Hr hy-hnw
+;
+The people were cheering and exulting,
+
+mnfyt Hr <48:9> rSrS
+;
+the infantry was in <48:9> joy,
+
+Dj=sn jAw n nb tAwj
+;
+they gave praise to the lord of the Two Lands,
+
+swAS=sn nTr pn mnx
+;
+they lauded this excellent god
+
+m spw nw <48:10> nTr=f
+;
+on account of <48:10> his divinity.
+
+xpr.n n bAw Hm=f
+;
+It happened because of the fame of His Majesty,
+
+n-aAt-n mrr sw jt=f ^jmn
+;
+because his father Amun loved him so much,
+
+r nsw nb xpr <48:11> Dr pAt tA
+;
+more than any king who lived <48:11> since the primeval time of the
+land,
+
+nsw-bjtj ^aA-xpr-n-^ra
+;
+the king of Upper and Lower Egypt: Aakheperenre,
+
+sA-^ra ^DHwtj-msjw nfr-xaw
+;
+Son of Re: Tuthmosis, beautiful of appearance,
+
+Dj anx Dd wAs mj ^ra Dt
+;
+given life, stability and dominion, like Re forever.

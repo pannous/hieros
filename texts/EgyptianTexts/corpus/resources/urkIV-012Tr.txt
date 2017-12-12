@@ -1,0 +1,116 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-10-14
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of inscriptions 
+describing the gate built by Amenophis I on the south side of the 
+Amun temple in Karnak,
+following the transcription of Sethe (1927), number 12 (pp. 42-43).
+
+For published translations, see
+Breasted (1906), pp. 19-20, § 44;
+Sethe (1914), number 12 (pp. 22-23).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+anx
+;
+Live
+
+^Hr ^kA-waf-tAw
+;
+Horus: Bull who subjugates the lands;
+
+nbtj ^aA-nrw
+;
+Two Ladies: Great of terror;
+
+nsw-bjtj ^Dsr-kA-^ra
+;
+The king of Upper and Lower Egypt: Djeserkare.
+
+jr.n=f m mnw=f n jt=f ^jmn 
+;
+He created it as his monument for his father Amun,
+
+nb ^nswt-tAwj
+;
+lord of the Thrones of the Two Lands,
+
+saHa.n=f sbA aA n mH 20 r rwtj Hwt-nTr
+;
+when he erected a great gate of 20 cubits in front of the temple,
+
+m jnr HD nfr n anw
+;
+from beautiful white limestone. 
+
+jr n=f sA-^ra ^jmn-Htp anx(.w) Dt
+;
+So did for him Son of Re: Amenophis (may he live forever!). 
+
+<1> [...] Dt
+;
+<1> [...] forever.
+
+jr.n=f m mnw=f n jt=f ^jmn 
+;
+He created it as his monument for his father Amun,
+
+nb ^nswt-tAwj
+;
+lord of the Thrones of the Two Lands,
+
+qd pr=f
+;
+when building his house,
+
+smnx Hwt-nTr=f
+;
+making his temple,
+
+saHa sbA rs ^sqA-Htp
+;
+and erecting the southern gate Seka-Hotep,
+
+mH 20 m jnr HD [nfr n anw]
+;
+of 20 cubits from [beautiful] white [lime]stone.
+
+<2> [...] ^jmn m ^jpt-swt
+;
+<2> [...] Amun in Karnak.
+
+jsT grt rDj.n=f rx Hm=f m bA=f
+;
+He let His Majesty know of his soul,
+
+n-aAt-n mrr=f sw r nTrw nbw
+;
+because he loved him more than all the other gods.
+
+jr n=f nTr nfr ^jmn-Htp Dj anx Dt
+;
+So did for him the good god Amenophis, given life forever.

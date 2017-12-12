@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Hammamat expedition: official record"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume I"
+    subsection="439-443"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume I"
+    subsection="452-453"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 74-75"/>
+<resource location="../resources/Hammamat192Tr.txt"/>
+</text>

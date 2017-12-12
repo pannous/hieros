@@ -1,0 +1,252 @@
+<html>
+
+<h1>Manual of Ancient Egyptian OCR</h1>
+
+The tool allows OCR of hand-written transcriptions of
+hieroglyphic. The input consists of a directory containing
+a number of pages, each in a separate file.
+Usually, these pages are scans of printed text.
+The images need to be in PNG format. 
+Furthermore, the order of the pages
+is assumed to correspond to the lexicographical ordering
+of the filenames.
+For example, appropriate filenames could be '<tt>09.png</tt>' and '<tt>10.png</tt>',
+rather than '<tt>9.png</tt>' and '<tt>10.png</tt>'.
+<p>
+The tool will create a file '<tt>index.xml</tt>' in the
+same directory, containing the (intermediate)
+results of OCR. There will be a subdirectory '<tt>glyphs</tt>' containing individual
+glyphs (again in PNG format). After completion of the process, the resource
+containing the hieroglyphic encoding will be created 
+and stored in the file '<tt>resource.xml</tt>', again in the same
+directory.
+<p>
+One tab will be created for each page. Below each such a tab, there are two 
+more tabs, one allowing selection of lines on a page, the other allowing
+editing of hieroglyphs within lines. All work below the 'lines' tab should be
+fully completed before work below the 'glyphs' tabs, or else efforts may be
+lost.
+
+<h1>Lines</h1>
+
+Lines can be specified manually or automatically (followed by manual
+fine-tuning). By <b>analyze page</b>,
+the page is analyzed, for presence of lines. By
+<b>analyze all</b>, the same is done for all pages in the project. 
+Fully manual creation of a new
+line is by a number of left clicks followed by a right click.
+<p>
+A control point can be dragged by the mouse (left click).
+More points can be added by clicking on a line. A right click
+inside the borders of a line deletes the line.
+<p>
+The order of lines can be changed by clicking inside lines
+in the desired order.
+
+<h1>Glyphs</h1>
+
+At most one line for each page is the focussed line. One
+can change the focus by clicking on a line. The focussed
+line is expanded by showing the results of OCR, and eventually
+the formatted hieroglyphic. By a right-click on a button containing 
+OCR results, one may attach a note to a hieroglyph; this is typically
+used to flag up hieroglyphs that are not in the Unicode set or that 
+have a non-standard appearance.
+<p>
+With appropriate settings, OCR is activated to run in the
+background once lines have been selected, 
+and new results may come in when viewing a certain
+focussed lines. Press <b>update</b> to access the latest
+OCR results.
+<p>
+The results of OCR can be corrected by choosing alternative glyphs.
+One may also remove glyphs by right-click inside a bounding box. 
+Small glyphs (or specks of dust in the scan) can be removed by 
+dragging the mouse (right button) across the relevant area.
+Fine-tuning of an entire line may be done by <b>zoom</b>, and
+fine-tuning of a smaller rectangle can be achieve by dragging the
+mouse (left button) from one corner to an opposite corner. 
+See below for more information on the glyph editor.
+<p>
+Formatted hieroglyphic can be created for one individual
+focussed line, or for all
+lines on a page. Usually this is done only after all hieroglyphs
+are correctly identified, by OCR and subsequent manual correction.
+The formatted hieroglyphic is not updated by changes to the
+OCR results.
+
+<h1>Buttons in the top menu</h1>
+
+<h2>Open</h2>
+
+Opens an OCR project. This is a directory containing images in PNG format.
+
+<h2>Close</h2>
+
+Closes the tool.
+
+<h2>Prototypes</h2>
+
+Allows administration of glyphs, for the purpose of enlarging
+the repertoire of glyphs available for OCR. Two windows are opened,
+first the existing set of prototypes, and second, after entering
+a number, a set of hieroglyphs extracted from the current project.
+The second set can be merged into the first.
+Further follow the help pages of the prototype administrator.
+
+<h2>Export</h2>
+
+Extracts hieroglyphic encoding from the OCR project.
+
+<h2>Analyze page</h2>
+
+Tries to identify lines on a page.
+
+<h2>Analyze all</h2>
+
+Tries to identify lines on all pages of the project.
+
+<h2>Delete lines</h2>
+
+Removes all lines from the current page.
+
+<h2>OCR</h2>
+
+Switches on/off OCR for existing and newly created segments.
+This is a short cut for the corresponding option in the 
+Settings menu.
+
+<h2>Update OCR</h2>
+
+Updates the results from OCR for the line that is the current
+focus. For glyphs where OCR may be uncompleted as yet, a question mark
+may be printed.
+
+<h2>Format line(s)</h2>
+
+Creates formatted hieroglyphic for the line under focus,
+or for all lines on the current page, respectively.
+Numbers in the scanned document are translated to line numbers.
+A left mouse click on a formatted element opens an appropriate editor.
+<p>
+New formatted elements can be added by clicking on the <b>+res</b> 
+or <b>+num</b> buttons between existing formatted elements.
+<p>
+For hieroglyphic components, a right mouse click allows one to attach notes 
+to hieroglyphs (at most one per hieroglyph). 
+Left mouse clicks now select hieroglyphs.
+With <b>left</b> and <b>right</b> one can navigate to hieroglyphs that
+are difficult to select by mouse clicks. Existing notes can also be moved to
+neighbouring hieroglyphs, with <b>backward</b> and <b>forward</b>.
+
+<h2>Line up/down</h2>
+
+Navigates through the lines of a page.
+
+<h2>Glyph left/right</h2>
+
+Navigates through a line.
+
+<h2>Zoom</h2>
+
+Gives detailed view of line, with glyph editor.
+See below for more information.
+
+<h2>Combine</h2>
+
+For current line,
+attempts to combine parts of a single glyph, represented
+by several connected components. 
+
+<h2>Modifiers</h2>
+
+Attaches modifier to current glyph. The '<b>part</b>'
+modifier means the glyph is a connected component
+that is part of a bigger sign; generally this modifier is
+not created manually but results from OCR.
+
+<h2>Settings</h2>
+
+Allows automatic processes, such as
+recognition of glyphs (connected components), 
+OCR, and formatting.
+One may also set the repertoire of prototypes
+for OCR.
+<p>
+The <b>candidates investigated</b> represents an internal
+beam width. OCR is roughly twice as time-consuming for a 
+beam that is twice as large. The <b>candidates returned</b>
+is the maximum number of candidates that is presented as the
+result of OCR.
+
+<h1>Glyph editor</h1>
+
+An enlarged view of a line, or part of a line, is given.
+Identified glyphs are in the upper pannel. The current focus
+contains zero or more glyphs, as indicated by blue borders
+in the upper panel and black pixels in the lower panel. 
+More glyphs can be included
+in the focus by clicking on a button in the upper panel.
+A second click unselects glyphs again.
+<p>
+Pixels can be included or excluded by the <b>paint</b>
+function and dragging with the left or right mouse button
+(left for include, right for exclude). The <b>paint inclusive</b>
+function allows inclusion of pixels that are white in the
+input scan.
+<p>
+The glyph editor has the following buttons in the top menu.
+
+<h2>Close</h2>
+
+Closes the editor.
+
+<h2>Merge</h2>
+
+Merges all glyphs in the current focus.
+
+<h2>Split</h2>
+
+Splits one glyph in the current focus into several
+connected components. If all pixels are connected,
+then this function has no effect.
+
+<h2>Copy</h2>
+
+Creates two copies of the same glyph. This is usually
+followed by erasure of disjoint sets of pixels 
+from both copies.
+
+<h2>Delete</h2>
+
+Deletes a glyph.
+
+<h2>Unshade</h2>
+
+Tries to remove diagonal lines indicating shading.
+
+<h2>Closure</h2>
+
+Adds all pixels connected to the pixels from the glyph that is
+the current focus.
+
+<h2>Paint</h2>
+
+Switches on/off the paint functionality, to be
+used with left/right mouse buttons. 
+Pixels are added to (removed from) the current focus, 
+or a new glyph is created.
+
+<h2>Paint inclusive</h2>
+
+Switches on/off the paint functionality, 
+allowing selection of pixels that are white in the input
+scan. Such pixels will be made blue in the lower panel.
+
+<h2>Radius up/down</h2>
+
+This affects the size of the circle used by the
+paint functionalities.
+
+</html>
+

@@ -1,0 +1,80 @@
+<!ELEMENT ortho (header,bibliography?,tier*,segment*)>
+<!ATTLIST ortho 
+	creator CDATA ""
+	name CDATA ""
+	labelname CDATA ""
+	created CDATA ""
+	modified CDATA ""
+	version CDATA ""
+	language CDATA "">
+
+<!ELEMENT header (p|li)*>
+
+<!ELEMENT tier EMPTY>
+<!ATTLIST tier
+	name CDATA #REQUIRED
+	mode CDATA "shown">
+
+<!ELEMENT bibliography (li)*>
+
+<!ELEMENT p (#PCDATA|i|a|hi|al)*>
+
+<!ELEMENT li (#PCDATA|i|a|hi|al)*>
+
+<!ELEMENT segment (texthi?,textal?,textortho?)>
+
+<!ELEMENT texthi (#PCDATA)>
+
+<!ELEMENT textal (#PCDATA)>
+
+<!ELEMENT hi (#PCDATA)>
+
+<!ELEMENT al (#PCDATA)>
+
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT a (#PCDATA)>
+<!ATTLIST a
+	href CDATA #REQUIRED>
+
+<!ELEMENT textortho (log|det|phon|phondet|mult|sp2|spurious)*>
+<!ATTLIST textortho
+        id CDATA #REQUIRED>
+
+<!ELEMENT log (signs*,letters*)>
+<!ATTLIST log 
+	word CDATA "">
+
+<!ELEMENT det (signs*,letters*)>
+<!ATTLIST det 
+	<!-- only one attribute should be non-empty -->
+	word CDATA ""
+	descr CDATA "">
+
+<!ELEMENT phon (signs*,letters*)>
+<!ATTLIST phon 
+	lit CDATA "">
+
+<!ELEMENT phondet (signs*,letters*)>
+<!ATTLIST phondet 
+	lit CDATA "">
+
+<!ELEMENT mult (signs*,letters*)>
+<!ATTLIST mult 
+	num CDATA "">
+
+<!ELEMENT typ (signs*,letters*)>
+<!ATTLIST typ 
+	descr CDATA "">
+
+<!ELEMENT spurious (signs*)>
+
+<!ELEMENT signs EMPTY>
+<!ATTLIST signs
+	pos CDATA #REQUIRED
+	len CDATA "1">
+
+<!ELEMENT letters EMPTY> 
+<!ATTLIST letters
+	pos CDATA #REQUIRED
+	len CDATA "1">

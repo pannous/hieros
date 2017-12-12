@@ -1,0 +1,750 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for the stela of Tutankhamun
+concerning the restoration of the temple at Karnak, following the
+transcription of Helck (1984a), number 772 (pp. 2025-2032).
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Bennett (1939); Davies (1995), number
+772 (pp. 30-33); van Dijk (2003), pp. 226-237; Helck (1984b), number
+772 (pp. 365-368).
+
+###
+
+J. Bennett. The restoration inscription of Tut'ankhamun. <i>The
+Journal of Egyptian Archaeology</i>, 25:8-15, 1939.
+
+B.G. Davies. <i>Egyptian Historical Records of the Later Eighteenth
+Dynasty -- Fascicle VI</i>. Aris and Phillips, Warminster, 1995.
+
+J. van Dijk. De restauratiestèle van Toetanchamon. In R.J. Demarée and
+K.R. Veenhof, editors, <i>Zij Schreven Geschiedenis</i>. Ex Oriente
+Lux, Leiden, 2003.
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+W. Helck. <i>Urkunden der 18. Dynastie -- Text des Heftes 22</i>.
+Akademie-Verlag, Berlin, 1984a.
+
+W. Helck. <i>Urkunden der 18. Dynastie -- Übersetzung zu den Heften
+17-22</i>. Akademie-Verlag, Berlin, 1984b.
+
+###
+
+<"a"> nsw-bjtj nb tAwj [...]<note>Usurped with <al>^Dsr-xprw-^ra
+stp.n-^ra</al>.</note> [...]<note>Usurped with <al>^Hr-m-Hb
+mrj.n-^jmn</al>.</note>
+;
+<"a"> The king of Upper and Lower Egypt, lord of the Two Lands [...]
+[...],
+
+Dj anx Dt
+;
+given life forever.
+
+<"b"> ^jmn-^ra nb ^nswt-tAwj nb pt
+;
+<"b"> Amun-Re, lord of the Thrones of the Two Lands, lord of heaven,
+
+nsw nTrw
+;
+king of the gods.
+
+<"c"> ^mwt nb ^jSrw Hnwt nTrw nbw
+;
+<"c"> Mut, mistress of Asheru, lady of all the gods.
+
+<"d"> Dj=f anx anx Dd wAs nb
+;
+<"d"> He gives life, all life, stability and dominion.
+
+<"e"> rDjt rnpwt jr=f Dj anx
+;
+<"e"> Giving plants, so that he may be given life.
+
+<"f"> sA anx Dd wAs snb HA=f nb
+;
+<"f"> All protection, life, stability, dominion and health with him,
+
+mj ra Dt
+;
+like Re forever.
+
+<1> [rnpt-sp 1] Abd 4 Axt sw 19
+;
+<1> [Year 1], fourth month of the Season of Inundation, day 19,
+
+xr Hm n
+;
+under the Majesty of
+
+^Hr ^kA-nxt twt-mswwt
+;
+Horus: Mighty bull, perfect of births;
+
+nbtj ^nfr-[hpw sgrH-]tAwj
+;
+Two Ladies: Beautiful of [laws, who pacifies] the Two Lands;
+
+^Hr-nbw ^wTs-xaw sHtp-nTrw
+;
+Gold Horus: Who wears the crown, who placates the gods;
+
+nsw-bjtj [...]<note>Usurped with <al>^Dsr-xprw-^ra
+stp.n-^ra</al>.</note>
+;
+The king of Upper and Lower Egypt: [...];
+
+sA-^ra [...]<note>Usurped with <al>^Hr-m-Hb mrj.n-^jmn</al>.</note>
+;
+Son of Re: [...],
+
+Dj anx mj ^ra Dt [nHH]
+;
+given life like Re forever [and ever],
+
+<2>
+;
+<2> beloved of
+
+[^jmn-^ra] nb ^nswt-tAwj
+;
+[Amun-Re], lord of the Thrones of the Two Lands,
+
+xntj ^jpt-swt
+;
+foremost of Karnak,
+
+^jtm nb tAwj ^jwnw
+;
+of Atum, lord of the Two Lands and Heliopolis,
+
+^ra-^Hr-Axtj
+;
+of Re-Harakhte,
+
+^ptH rsj jnb=f nb [^anx-tAwj]
+;
+of Ptah, south of his wall, lord of [Ankh-tawi],
+
+^DHwtj nb mdw-nTr
+;
+and of Thoth, lord of the sacred word,
+
+mry
+;
+
+xaw [Hr st] ^Hr [nt anx]w
+;
+the one who appears [on] the Horus-[throne] [of the living],
+
+mj jt ^ra ra nb
+;
+like (his) father Re every day.
+
+<3> [nTr] nfr sA ^jmn
+;
+<3> Good [god], son of Amun,
+
+mswtjw n ^kA-mwt=f
+;
+offspring of Kamutef,
+
+prt Axt swH[t] Dsrt
+;
+glorious seed, sacred egg,
+
+wtTjw ^jmn Ds=f
+;
+begotten by Amun himself,
+
+j[t tAwj]
+;
+[father of the Two Lands],
+
+qd qd sw ms ms sw
+;
+who moulds his moulder, who creates his creator,
+
+dmD bAw <4> ^jwnw r mswt=f
+;
+for whose creation the souls of Heliopolis assembled,
+
+r jrt nsw nHH ^Hr wAH n Dt
+;
+to act as king of eternity, a Horus who endures forever,
+
+HqA nfr jrr Axt n jt nTrw nbw
+;
+a good ruler, who does what is beneficial to (his) father and all
+gods.
+
+srwD.n=f ntj wAs(.w)
+;
+He has restored what was in ruins,
+
+m mnw Hn<5>tj nHH
+;
+as monuments of eternal age.
+
+dr.n=f jsft xt tAwj
+;
+He has dispelled injustice throughout the Two Lands
+
+mAat mn.tj [m st=s]
+;
+and justice was established [in its place].
+
+Dj=f wn grg m bwt
+;
+He lets falsehood be an abomination,
+
+tA mj sp=f tpj
+;
+and the land as in its primordial time.
+
+jsT rf xa.n Hm=f m nsw
+;
+Now, when His Majesty arose as king,
+
+<6> [j]w rAw-pr nw nTrw nTryt
+;
+<6> the temples of the gods and goddesses,
+
+SAa m ^Abw [nfryt]-r XAwt jdH[w]
+;
+from Elephantine [to] the lagoons of the Delta,
+
+[...] [wA].w r stp
+;
+[...] had [fallen] into ruin.
+
+<7> x[m]w=sn wA.w r mrH
+;
+<7> Their shrines had fallen into decay
+
+xpr(.w) m jAAw rd m [...]
+;
+and had become ruins overgrown with [...]-plants.
+
+jwnnw=sn mj ntj n xpr
+;
+Their sanctuaries were as if they had never existed,
+
+Hwt=sn m wAt rd
+;
+their temples were foot paths.
+
+wnn <8> tA m snj-mnt
+;
+The land was in distress,
+
+nTrw mkHA=sn tA pn
+;
+the gods were turning away from this land.
+
+jr hAb[.tw mSa] r ^DAhj
+;
+If [an army was] sent to Palestine
+
+r swsx tASw ^kmt
+;
+to widen the borders of Egypt,
+
+n xpr.n rwDt=sn <9> nb
+;
+no success of theirs came about <9> at all.
+
+jr snmH.tw n nTr r nD jxt m-a=f
+;
+If one prayed to a god to ask a thing of him,
+
+nn jj.n=f [rsj]
+;
+he wouldn't come [at all].
+
+jr sSAj.tw n nTrt nb m mjtt
+;
+Similarly, if one prayed to any goddess,
+
+n jj.n=s rsj
+;
+she wouldn't come at all.
+
+jb=sn fn(.w) Hr Dt<10>=sn
+;
+Their hearts were weak in their bodies.
+
+HD=sn jryt
+;
+They destroyed what had been built.
+
+xr-m-xt hrww swA(.w) Hr nn
+;
+After (some) days had passed after this,
+
+xayt [Hm=f] Hr st jt
+;
+[His Majesty] appeared on the throne of (his) father
+
+HqA.n=f jdbw ^Hr
+;
+and he ruled the banks of Horus.
+
+kmt dSrt Xr st-Hr=f
+;
+The black land and the red land were under his dominion,
+
+tA nb m ksw <11> n bAw=f
+;
+and every land was bowing <11> to his might.
+
+jsTw Hm=f m aH=f jmj pr ^aA-xpr-kA-^ra
+;
+Now, His Majesty was in his palace, which is in the House of
+Aakheperkare,
+
+mj ^ra m-Xnw pt
+;
+like Re in heaven,
+
+wn.jn Hm=f Hr jrt sxrw nw tA pn
+;
+and His Majesty was executing the plans of this land
+
+mXrw nw jdbwj
+;
+and the governing of the Two Banks.
+
+wnn.xr Hm=f Hr wAwA <12> sH Hna jb=f
+;
+Then His Majesty took <12> counsel with his heart,
+
+Hr Dar sp nb mnx
+;
+seeking every excellent deed,
+
+Hr HHj Axt n jt ^jmn
+;
+searching what was beneficial to (his) father Amun,
+
+Hr mst tjt=f Spst m Dam mAa
+;
+fashioning his noble image of real electrum.
+
+Dj.n=f HAw Hr jryt Dr
+;
+He surpassed what had been done before.
+
+ms.n=f <13> jt ^jmn Hr nbA 13
+;
+He fashioned <13> (his) father Amun on thirteen carrying poles,
+
+tjt=f Dsrt m Dam xsbD [mfkA]t
+;
+his sacred image being of electrum, lapis lazuli, [turquoise],
+
+aAt nbt Spst
+;
+and every kind of precious stone,
+
+jw grt wn Hm n nTr pn Sps Xr-HAt Hr n<14>bA 11
+;
+whereas formerly the majesty of this noble god had been on eleven
+carrying poles.
+
+ms.n=f ^ptH rsj jnb=f nb ^anx-tAwj
+;
+He fashioned Ptah, south of his wall, lord of Ankh-tawi,
+
+tjt=f Spst m Dam [Hr nbA] 11
+;
+his noble image being of electrum, on eleven carrying poles,
+
+tjt=f Dsr m Dam xsbD mfkAt
+;
+his sacred image being of electrum, lapis lazuli, turquoise,
+
+aAt nb Spst
+;
+and every kind of precious stone,
+
+jw grt wn Hm n nTr <15> pn Sps{t} Xr-HAt Hr nbA [7]
+;
+whereas formerly the majesty of this noble god had been on [seven]
+carrying poles.
+
+wn.jn Hm=f Hr jrt mnw n nTrw
+;
+And His Majesty built monuments for the gods,
+
+[Hr ms]t [a]Xmw=sn m Dam mAa
+;
+[fashioning] their statues of real electrum,
+
+n tpj xAswt
+;
+from the best of the foreign lands,
+
+Hr qd jwnnw=sn m-mA<16>wt
+;
+building their sanctuaries anew
+
+m mnw Hntj nHH
+;
+as monuments of eternal age,
+
+smnx(.w) Hr xrt Dt
+;
+endowed with property forever,
+
+Hr wAH n=sn Htp-nTr m jmnyt nt ra nb
+;
+setting aside offerings for them as daily sacrifices,
+
+Hr sDfA pAwt=sn tp tA
+;
+providing their sacrificial bread on earth.
+
+Dj.n=f HAw Hr <17> wnt m-bAH
+;
+He surpassed <17> what had been before,
+
+sn.[n=f jr]yt Dr rk jmjw-HAt
+;
+he outdid what had been done since the time of the ancestors,
+
+bs.n=f wabw Hmw-nTr
+;
+he initiated priests and prophets,
+
+msw srw nw njwt=sn
+;
+children of officials from their towns,
+
+m sA s rx rx rn=f
+;
+sons of noted men whose names were well-known.
+
+<18> [s]aSA.n=f [wdH]w=sn m nbw HD Hsmn Hmtj
+;
+<18> He multiplied their [alters] with gold, silver, bronze and
+copper,
+
+nn Drw m [jxt nbt]
+;
+without limit of [anything].
+
+mH.n=f Snaw=sn m Hmw Hmwt
+;
+He filled their workhouses with male and female slaves,
+
+m jnw n HAqt Hm=f
+;
+brought as booty of His Majesty.
+
+<19> [saA bAk]t nb n rAw-pr
+;
+<19> All [tributes] to the temples were [increased],
+
+qAb(.w) xmt(.w) jfd.w
+;
+doubled, trebled and quadrupled,
+
+m HD nbw xsbD mfkAt
+;
+with silver, gold, lapis lazuli, turquoise
+
+aAt nbt Spst
+;
+and every kind of precious stone,
+
+Hbs-nsw HDt pAqt bAq
+;
+royal linen, white cloth, fine linen, moringa oil,
+
+qmyt aD
+;
+resin, fat,
+
+<20> [...] snTr jhmt antjw
+;
+<20> [...] incense, balm, myrrh,
+
+nn Dr m jxt nbt nfrt
+;
+without limit of any good thing.
+
+mDH.n Hm=f a.w.s. wjAw=sn
+;
+His Majesty (l.p.h.!) has hewn their barques
+
+n-tp jtrw m aS mA n tp-xt<21>jw
+;
+on the river, from fresh cedar from Lebanon,
+
+m stp n ^ngAw
+;
+the pick of Negau,
+
+bAk.w m nbw n tpj xAswt
+;
+plated with gold from the best of the foreign lands,
+
+sHD=sn jtrw
+;
+so that they may illumine the river.
+
+jw swab.n Hm=f a.w.s. Hmw Hmwt
+;
+His Majesty (l.p.h.!) has consecrated male and female slaves,
+
+Smawt xbywt
+;
+and female singers and dancers
+
+<22> wn m nDtjw m pr-nsw
+;
+<22> who had been maidservants<note>Uncertain.</note> in the palace,
+
+jp.tw bAkw=sn r aH
+;
+and their wages were charged to the palace
+
+r [pr-HD] n nb tAwj
+;
+and to [the treasury] of the lord of the Two Lands.
+
+Dj=j wn=sn xw.w mk.w n jtw
+;
+'I let them be guarded and protected for my forefathers,
+
+nTrw nbw
+;
+all the gods,
+
+<23> m mry sHtp=sn
+;
+<23> in order to placate them,
+
+m jrt mrrt kA=sn
+;
+doing what their spirits like,
+
+xw=sn ^tA-mr[j]
+;
+so that they may protect Egypt.'
+
+nTrw nTryt jmjw tA pn
+;
+The gods and goddesses who are in this land,
+
+jb=sn m rSwt
+;
+their hearts are in joy,
+
+nbw sxmw <24> m Hawt
+;
+the lords of sanctuaries <24> are jubilating,
+
+jdbw m hy-hnw
+;
+the banks are cheering and exulting,
+
+THHwt xt tA r-[Dr=f]
+;
+jubilation is throughout the [entire] land,
+
+[sxr] nfr xpr(.w)
+;
+since a good [state] has come into being.
+
+psDt jmjw Hwt-aAt
+;
+The ennead in the Great Temple,
+
+awj=sn m jAw
+;
+their arms are raised in adoration,
+
+Drwt=sn mH(.w) m Hbw-sd [nw] <25> nHH Dt
+;
+their hands are full of Sed-festivals [of] <25> all eternity.
+
+anx wAs nb xr=sn r fnD n nsw nxt
+;
+All life and dominion with them are at the nostrils of the strong
+king,
+
+^Hr wHm mswt
+;
+Horus who repeats birth,
+
+sA mr [n jt ^jmn-^ra nsw] nTrw
+;
+beloved son [of (his) father Amun-Re, king] of the gods,
+
+ms.n=f sw r mst=f
+;
+who created him for his own creation,
+
+nsw-bjtj [...]<note>Usurped with <al>^Dsr-xprw-^ra
+stp.n-^ra</al>.</note>
+;
+king of Upper and Lower Egypt [...],
+
+mr n ^jmn
+;
+beloved of Amun,
+
+sA=f smsw=[f] <26> mAa
+;
+[his] true eldest son,
+
+mry=f nD Hr jt ms sw
+;
+his beloved, who protects the father who begot him,
+
+nsy=f nswy[t nw] jt ^wsjr
+;
+who exercises the kingship [of] (his) father Osiris,
+
+sA-^ra [...]<note>Usurped with <al>^Hr-m-Hb mrj.n-^jmn</al>.</note>
+;
+son of Re [...],
+
+sA Ax n ms sw
+;
+son who is beneficial to him who created him,
+
+mnwy aSA bjAyt [...]
+;
+rich in monuments, abundant in wonders, [...]
+
+<27> jr mnw m qmA jb=f n jt ^jmn
+;
+<27> who builds monuments on his own initiative for (his) father Amun,
+
+twt msw
+;
+perfect of births,
+
+jty [grg] ^km[t]
+;
+sovereign who [restored] Egypt.
+
+hrw pn jw.tw m aH nfr
+;
+On this day, one is in the good palace,
+
+jmj pr ^aA-xpr-kA-^ra mAa-xrw
+;
+which is in the House of Aakheperkare, justified,
+
+jsTw [Hm=f a.w.s.] <28> rnp.w
+;
+while [His Majesty (l.p.h.!)] <28> is young,
+
+jT wnj Hr Dt=f
+;
+seizing the one who speeds upon his body,
+
+qd.n sw ^Xnmw [...]
+;
+whom Khnum has moulded, [...]
+
+TmA-a pw
+;
+He is mighty of arm,
+
+aA pHtj
+;
+great of strength,
+
+mtnw r nxt
+;
+more distinguished than the victorious,
+
+wr pHtj mj sA ^nwt [...]
+;
+great of strength like the son of Nut, [...]
+
+<29> TmA-a mj ^Hr
+;
+<29> mighty of arm like Horus,
+
+nn xpr.n n=f snnw m qnw nw tA nb dmD
+;
+no equal to him exists among the brave of all lands together,
+
+rx mj ^ra
+;
+he who is knowledgeable like Re,
+
+[Hmww jb mj] ^ptH
+;
+[ingenious like] Ptah,
+
+sjAA mj ^DHwtj
+;
+perceptive like Thoth,
+
+SA hpw
+;
+who ordains laws,
+
+mnx wD [...]
+;
+effective of command, [...]
+
+<30> jqr pr-n-rA
+;
+<30> excellent of judgement,
+
+nsw-bjtj nb tAwj
+;
+the king of Upper and Lower Egypt, lord of the Two Lands,
+
+nb jrt-jxt nb xpS [...]<note>Usurped with <al>^Dsr-xprw-^ra
+stp.n-^ra</al>.</note>
+;
+lord of rituals, lord of strength [....]
+
+sHtp [...]
+;
+who placates [...]
+
+[sA-^ra] n Xt=f mr=f
+;
+[son of Re], of his body, his beloved,
+
+nb n xAst nbt
+;
+lord of every foreign land,
+
+nb xaw [...]<note>Usurped with <al>^Hr-m-Hb mrj.n-^jmn</al>.</note>
+;
+lord of crowns [...]
+
+Dj anx Dd wAs mj ^ra [Dt xr nHH]
+;
+given life, stability and dominion, like Re [forever and ever].

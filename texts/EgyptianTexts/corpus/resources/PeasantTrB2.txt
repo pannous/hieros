@@ -1,0 +1,439 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-15
+version = B2
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for The Eloquent Peasant, following
+the transcription of Parkinson (1991). Version B2 is given where it is
+the main version, or where it differs substantially from the other
+versions.
+
+The transliteration throughout follows Hannig (1995).
+
+###
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+R.B. Parkinson. <i>The Tale of the Eloquent Peasant</i>. Griffith
+Institute, Ashmolean Museum, Oxford, 1991.
+
+###
+
+<@35c> jr twt
+;
+<@1>So act accordingly<@2>! <@35d>
+
+<@36c> jw gs n <13> ATpw=k r Sdt=k
+;
+and your share of the cargo will be what you seize,
+
+<@36d> Hr mryt nbt
+;
+at every embankment.
+
+<14><@36e> jw rx.tw
+;
+<14><@3> It is known<@4>: <@36f>
+
+<@36k> jw hAw=k m nwdw <17> aqA n bw-nb
+;
+and every man in your environment is corrupt<@5>. <@36l>
+
+<@40b> nn sDr srs.n=k
+;
+none sleeping whom you roused,
+
+<@40c><46>
+;
+<46>
+
+<48><@40k> xm sbA.n=k 
+;
+<48> uneducated whom you instructed<@16>. <@40l>
+
+<@42c> n rDj.n snD=k spr=j <62><@42d> n=k
+;
+And the fear of you wouldn't permit me to appeal <62> to you<@6>?
+<@42e>
+
+<63><@42k> r jrt Tst=f
+;
+<63> to make his complaint,
+
+<@42l> n snD.n=k n twA n=k st
+;
+you cannot fear him who submits it to you.
+
+<@42m><64>
+;
+<64>
+
+<67><@42o> Hr rDjt jn n=k
+;
+<67> are giving gifts to you<@7>, <@42p>
+
+<@42q> jn-jw=k rf <68><@42r> m awAy
+;
+Are you a thief then?
+
+<@43b> jn-jw sTA.tw n=k
+;
+Are people ushered in to you,
+
+<@43c> skw <69><@43d> Hna=k
+;
+troops <69> being with you,
+
+<@43e> r psSt m Sdwwt
+;
+for the division of plots of land<@8>? <@43f>
+
+<@43k> nfr nfrt nfr rf nfrt
+;
+When goodness is good, goodness is good indeed<@9>, <@43l>
+
+<@44c> tp-Hsb n mdw-nTr
+;
+The norm of the divine word<@10>: <@44d>
+
+<@44q> n bhA.n=k 
+;
+<@11>you do not flee<@12>, <@44r>
+
+<85><@45c> jr rk n=j mAat 
+;
+<85><@13> Do justice to me<@14>! <@45d>
+
+<@45k> n gsA jwsw 
+;
+A balance cannot be crooke<@15>d <@45l>
+
+<91><@46c> jw.jn rf sxtj pn r spr n=f 9nw sp
+;
+<91><@0> And this peasant came to plead with him for a ninth time,
+
+<92> Dd=f jmj-rA pr wr nb=j
+;
+<92> and said: 'High steward, my lord,
+
+mxAt pw nt <93> rmT ns=sn
+;
+the tongue of people is their 'stand'-balance,
+
+jn jwsw Dar <94> DAt
+;
+and it is the 'hand'-balance that detects <94> deficiency
+
+jrr xsft r xsfw n=f
+;
+and inflicts punishment on him who ought to be punished.
+
+sn.tw tp-Hsb r=k
+;
+One sets the standard after you.
+
+<95> [...] grg xpr Xrt=f
+;
+<95> Falsehood [...] when its need arises,
+
+<96> ann sj mAat r aqA=f
+;
+<96> but the truth returns to correct it.
+
+jxt pw nt <97> grg mAat
+;
+Truth is an aspect of falsehood,
+
+swAD=f pw
+;
+which means it is made to thrive
+
+n nw.tw=f
+;
+but it is not gathered in.
+
+<98> jr Sm grg jw=f tnm=f
+;
+<98> When falsehood sets out, it goes astray.
+
+n <99> DA.n=f m mXnt
+;
+It cannot cross in a ferry
+
+n sSAA.n=f<note>Restored as proposed in the note by Parkinson
+(1991).</note>
+;
+and it cannot row.
+
+<100> jr xwd {x}Xr=f
+;
+<100> As for him who is enriched by it,
+
+nn msw=f <101> nn jwaww=f tp tA
+;
+he has no children <101> and no heirs on earth.
+
+jr sqdd <102> Xr=f
+;
+As for him who sails <102> with it,
+
+n sAH.n=f tA
+;
+he cannot reach land,
+
+n mnj.n <103> dpwt=f r dmj=s
+;
+his boat cannot moor in its harbour.
+
+m dns n js=k
+;
+Don't be heavy, you haven't been light!
+
+<104> m jhm n xAx=k
+;
+<104> Don't delay, you haven't been swift!
+
+m nma
+;
+Don't be partial!
+
+m sDm n <105> jb
+;
+Don't listen to <105> the heart!
+
+m Hbs Hr=k r rx.n=k
+;
+Don't disregard someone you know!
+
+m Sp Hr=k r <106> dg n=k
+;
+Don't be blind to <106> someone who looks to you!
+
+m nj twA Tw
+;
+Don't fend off someone who appeals to you!
+
+hA=k <107> m pA wsf
+;
+May you abandon <107> this neglect,
+
+smj.tw Ts=k
+;
+and may your verdict be accounced!
+
+<108> jr n jrr n=k
+;
+<108> Act for him who acts for you
+
+m sDm n bw-nb r=f
+;
+and don't listen to anyone who is against him!
+
+njs s <109> r sp=f n wn-mAa
+;
+Summon a man <109> concerning his just cause!
+
+nn sf n wsfw
+;
+There is no yesterday for the negligent,
+
+<110> nn xnms n sX mAat
+;
+<110> no friend for him who is deaf to truth
+
+nn hrw <111> nfr n awn-jb
+;
+and no holiday for the greedy.
+
+xpr wTsw m <112> mAry
+;
+The accuser becomes <112> wretched,
+
+mAry r sprw
+;
+wretched to be a suppliant,
+
+<113> xpr xft m smAw
+;
+<113> and the opponent becomes a murderer.
+
+mk wj Hr spr <114> n=k
+;
+Look, I am pleading with <114> you
+
+n sDm.n=k st
+;
+but you do not hear it.
+
+jw=j r Smt spr=j <115> Hr=k n ^jnpw
+;
+I will go and plead <115> concerning you with Anubis.'
+
+rDj.jn jmj-rA pr wr <116> ^mrw sA ^rnsj Sm jmj-sA 2
+;
+Then the high steward Rensi, son of Meru, sent two guards
+
+r an n=f
+;
+to bring him back.
+
+<117> wn.jn sxtj pn snD(.w)
+;
+<117> And this peasant was afraid,
+
+jb=f jrr.tw <118> r xsf n=f
+;
+thinking it was done <118> to punish him
+
+Hr mdt tn Ddt.n=f
+;
+on account of these words that he had said.
+
+Dd.jn sxtj pn
+;
+And this peasant said:
+
+<119> xsfw n jb m mw
+;
+<119> 'A thirsty man's approach of water,
+
+DAt rA <120> n Xrd n sbnt m jrTt
+;
+the reach of a nurseling's mouth for milk,
+
+<121> ntf mwt
+;
+<121> such is death
+
+n nHy mA=f n jy=f
+;
+for him who prays to see it come
+
+<122> jj wdf mwt=f r=f
+;
+<122> when his death comes tardily for him.'
+
+Dd.jn jmj-rA pr wr <123> ^mrw sA ^rnsj
+;
+Then the high steward Rensi, son of Meru, said:
+
+m snD sxtj
+;
+'Don't be afraid, peasant!
+
+mk <124> jrr=k r jrt Hna=j
+;
+Look, <124> you will arrange the matter with me.'
+
+rDj.jn sxtj pn <125> anx Hr
+;
+But this peasant swore <125> an oath:
+
+wnm=j A m t=k
+;
+'So I will eat your bread
+
+swr=j A <126> [Hnqt]=k r nHH
+;
+and drink <126> your [beer] forever!'
+
+Dd.n jmj-rA pr wr <127> ^mrw sA ^rnsj
+;
+The high steward Rensi, son of Meru, said:
+
+sA grt aA
+;
+'Now wait here
+
+<128> sDm=k nAy=k n sprwt
+;
+<128> and hear your petitions!'
+
+rDj.jn=f Sd.tw <129> Hr art mAt sprt nbt
+;
+And from a new papyrus roll he had every petition read out
+
+r Xrt[=s]
+;
+according to [its] content.
+
+<130> saq.jn sj jmj-rA pr wr ^mrw sA ^rnsj
+;
+<130> Then the high steward Rensi, son of Meru, delivered them
+
+<131> n Hm n nsw-bjtj
+;
+<131> to the majesty of the king of Upper and Lower Egypt
+
+^nb-kAw-^ra mAa-xrw
+;
+Nebkaure, justified,
+
+wn.jn nfr st Hr jb=f
+;
+and they pleased his heart
+
+<132> r jxt nbt ntt m tA pn r-Dr=f
+;
+<132> more than anything in this entire land.
+
+Dd.jn Hm=f
+;
+Then His Majesty said:
+
+<133> wDa Tw Ds=k sA ^mrw
+;
+<133> 'Pass judgement yourself, son of Meru!'
+
+rDj.jn jmj-rA pr wr <134> ^mrw sA ^rnsj Sm jmj-sA 2 r [jnt ^nmtj-nxt]
+;
+And the high steward Rensi, son of Meru, sent two guards to [fetch
+Nemtinakht].
+
+<135> aHa.n=f jn(.w)
+;
+<135> Then he was brought
+
+jr wpwt m [...]
+;
+and an inventory was made of [...]
+
+<136> aHa.n gm.n=f tpw 6
+;
+<136> He found six persons
+
+Hrw-r [...] <137> r Sma=f r btj=f r aAw=f
+;
+as well as [...] <137> his barley, his emmer, his donkeys,
+
+<138> r SAw=f r awt[=f] [...]
+;
+<138> his swine, [his] small cattle, [...]
+
+[...] <139> ^nmtj-nxt pn n sxtj pn [...]
+;
+[...] <139> this Nemtinakht [...] to this peasant [...]
+
+[...] <140> [...]=f nbt [...]
+;
+[...] <140> [...] all his [...]
+
+[...] <141> n ^nmtj-nxt pn [...]
+;
+[...] <141> of this Nemtinakht [...]
+
+<142> jw=f pw [HAt=f r pHwj=fj mj gmyt m sS]
+;
+<142> This was copied [from start to finish as found in writing].

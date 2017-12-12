@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-05-02"
+  modified=""
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of the first inscription in the quarries at Tura,
+following the transcription of Sethe (1927), number 6 (pp. 24-25).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="1"/>[hlr]M23:[sep=0.5]X1-L2:[sep=0.5]X1-cartouche(N5:V30-F9:X1*[sep=0.5]X1)-X8-S34
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]X1:[sep=0.5]U15-A40-V30-O28-W24:O49-U6*M17-[sep=0.5]M17
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="3"/>[hlr](Q3:X1)*V28-M23*O36-I9-V30-Aa11:X1-U6-M17*[sep=0.5]M17
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="4"/>[hlr]cartouche(N11*F31-[sep=0.5]F35*[sep=0.5]X1-M17*(D21:Z4))-S34-[sep=0.5]U33*insert[bs](I10,X1:N17)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5"/>[hlr]R8*(N41:X1)-M23*(N41:X1)-insert[t](G36,X1):[sep=0.5]D21-V30:[sep=0.5]X1:[sep=0.5]N17:[sep=0.5]N17
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6"/>[hlr]M23-insert[te](G39,X1)-M23*T22:[sep=0.5,fit]X1-M23-G14-W10*[sep=0.5]X1:[sep=0.5]N17:[sep=0.5]N17-U15
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7"/>[hlr]M23*(N41:X1)-insert[te](G36,X1)-M23*G14-V30:[sep=0.5]X1:[sep=0.5]N17:[sep=0.5]N17
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8"/>[hlr]M23-insert[te](G39,X1)-M23*[sep=0.5]X1*T22-M17*U33-M17*[sep=0.5]M17
+</texthi>
+</segment>
+</egyptian>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="25" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g fill="none" stroke="black" stroke-width="1.5">
+  <title>Layer 1</title>
+  <path d="m7,23a5,5 0 0 0 0,-10a5,5 0 0 0 0,10z"/>
+  <path d="m4,14l14,-10.5l-6.23,16"/>
+ </g>
+</svg>
+

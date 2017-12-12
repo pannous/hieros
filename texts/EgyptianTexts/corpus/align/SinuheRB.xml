@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<precedence
+  created="2009-06-14"
+  modified="2011-12-22">
+<prec1 id1="12e" id2="12e"/>
+<prec1 id1="18a" id2="18a"/>
+<prec1 id1="18c" id2="18c"/>
+<prec1 id1="20d" id2="20d"/>
+<prec1 id1="21a" id2="21a"/>
+<prec1 id1="26b" id2="26b"/>
+<prec1 id1="26c" id2="26c"/>
+<prec1 id1="28f" id2="28f"/>
+<prec1 id1="29a" id2="29a"/>
+<prec1 id1="31aa" id2="31aa"/>
+<prec1 id1="33a" id2="33a"/>
+<prec1 id1="33b" id2="33b"/>
+<prec1 id1="34b" id2="34b"/>
+<prec1 id1="35b" id2="35b"/>
+<prec1 id1="36d" id2="36d"/>
+<prec1 id1="38c" id2="38c"/>
+<prec1 id1="38d" id2="38d"/>
+<prec1 id1="39d" id2="39d"/>
+<prec1 id1="39e" id2="39e"/>
+<prec1 id1="47h" id2="47h"/>
+<prec1 id1="48b" id2="48b"/>
+<prec1 id1="50e" id2="50e"/>
+<prec1 id1="51g" id2="51g"/>
+<prec1 id1="56i" id2="56i"/>
+<prec1 id1="56j" id2="56j"/>
+<prec1 id1="10" type1="after" id2="0"/>
+<prec1 id1="11" type1="after" id2="1"/>
+<prec1 id1="13" type1="after" id2="7"/>
+<prec1 id1="14" type1="after" id2="9"/>
+<prec1 id1="16" type1="after" id2="14"/>
+<prec1 id1="17" type1="after" id2="17"/>
+<prec1 id1="19" type1="after" id2="19"/>
+<prec1 id1="20" type1="after" id2="31b"/>
+<prec1 id1="21" type1="after" id2="22"/>
+<prec1 id1="22" type1="after" id2="23"/>
+<prec1 id1="23" type1="after" id2="36e"/>
+<prec1 id1="24" type1="after" id2="44"/>
+<prec1 id1="25" type1="after" id2="48c"/>
+<prec1 id1="28" type1="after" id2="58"/>
+<prec2 id1="12e" id2="12e"/>
+<prec2 id1="18a" id2="18a"/>
+<prec2 id1="18c" id2="18c"/>
+<prec2 id1="20d" id2="20d"/>
+<prec2 id1="21a" id2="21a"/>
+<prec2 id1="26b" id2="26b"/>
+<prec2 id1="26c" id2="26c"/>
+<prec2 id1="28f" id2="28f"/>
+<prec2 id1="29a" id2="29a"/>
+<prec2 id1="31aa" id2="31aa"/>
+<prec2 id1="33a" id2="33a"/>
+<prec2 id1="33b" id2="33b"/>
+<prec2 id1="34b" id2="34b"/>
+<prec2 id1="35b" id2="35b"/>
+<prec2 id1="36d" id2="36d"/>
+<prec2 id1="38c" id2="38c"/>
+<prec2 id1="38d" id2="38d"/>
+<prec2 id1="39d" id2="39d"/>
+<prec2 id1="39e" id2="39e"/>
+<prec2 id1="47h" id2="47h"/>
+<prec2 id1="48b" id2="48b"/>
+<prec2 id1="50e" id2="50e"/>
+<prec2 id1="51g" id2="51g"/>
+<prec2 id1="56i" id2="56i"/>
+<prec2 id1="56j" id2="56j"/>
+<prec2 id1="5" type1="after" id2="12"/>
+<prec2 id1="13" type1="after" id2="15"/>
+<prec2 id1="18" type1="after" id2="18"/>
+<prec2 id1="48" type1="after" id2="27"/>
+</precedence>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng/nld; translit; ortho">
+<primary language="eng" name="Shipwrecked Sailor"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 100-106"/>
+<collection kind="books" collect="Zonhoven, Literary texts in the hieratic script"
+    section="pp. 1-6"/>
+<resource location="../resources/ShipwreckedHi.xml"/>
+<resource location="../resources/ShipwreckedTr.txt"/>
+<resource location="../resources/ShipwreckedTrNld.txt"/>
+<resource location="../resources/ShipwreckedOrtho.xml"/>
+<precedence
+  location="../align/Shipwrecked.xml"
+  resource1="../resources/ShipwreckedOrtho.xml"
+  resource2="../resources/ShipwreckedHi.xml"/>
+<autoalign
+  location1="../resources/ShipwreckedTr.txt"
+  tier1="translation"
+  location2="../resources/ShipwreckedTrNld.txt"
+  tier2="translation"/>
+<autoalign
+  location1="../resources/ShipwreckedHi.xml"
+  tier1="hieroglyphic"
+  location2="../resources/ShipwreckedTr.txt"
+  tier2="transliteration"/>
+<autoalign
+  location1="../resources/ShipwreckedOrtho.xml"
+  tier1="orthographic"
+  location2="../resources/ShipwreckedHi.xml"
+  tier2="hieroglyphic"/>
+</text>

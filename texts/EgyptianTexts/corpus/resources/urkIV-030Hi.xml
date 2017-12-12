@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2015-08-17"
+  modified="2015-08-17"
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of &quot;Coronation decree of Tuthmosis I&quot;,
+following Sethe (1927), number 30 (pp. 79-81).
+</p>
+<p>
+It was checked against De Buck (1948), p. 46. The sequence of signs is
+identical, apart from minor graphical variations. There are also minor
+differences in positioning of signs.
+</p>
+</header>
+<bibliography>
+<li>
+A. De Buck. <i>Egyptian Readingbook</i>. Ares Publishers, Chicago,
+Illinois, 1948.
+</li>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+[hlr]![shade](M23:X1)*(L2:X1)-cartouche[s,tes,bes](N5*O29-[sep=0.5]L1*D28[noshade])-[noshade]insert[te](G39,N5)-[sep=0.5]cartouche[s,tes,bes](G26-F31*S29)![noshade]-X8*S34-insert[bs](I10,X1:N17)-N14*[fit]R8-O50:Z15*Z15*Z15*Z15-empty[shade]-[shade]cartouche[s](N11[shade]-F31*[sep=0.5]O34)-S34*[sep=0.5]U33-empty[shade]-cartouche(F35*(I9:[sep=0.5]D21:[sep=0.5]X1)-M17*[sep=0.5](D21:Z4)-[sep=0.5]B1)-(S34:[sep=0.5]X1)*[sep=0.5](U28[shade]:[sep=0.5]X1)-![shade]O34:N35-D58*U33
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="1"/>[hlr]M23*V25-Y1:N35-M23-X1:N35-[sep=0.5]insert[t](G39,Z1)-insert[b](F20:empty[width=0.0,height=0.1],N25:[sep=0.5]X1*[sep=0.5]Z1*[sep=0.5]Z1*[sep=0.5]Z1)-M24-X1:N21:[sep=0.5]Z1*[sep=0.5]Z1*[sep=0.5]Z1-X1*G43-D21-M17*A52-Aa15:[sep=0.5]D36:[sep=0.5]V31-W25-N35:[sep=0.3]X1*[sep=0.2]G43-N35:V31
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]V25[shade]*V12-[sep=0.5]Q3:N35-N35*M23-A45-D21-D21:[sep=0.6]X1:[sep=0.2]D37-D21:[sep=0.5]Aa1:[sep=0.5]Y1-V31-N35:X1*X1-U36*A41-S34-[sep=0.5]U28*S29-N28:[sep=0.5]D36-Aa15-M23:[sep=0.5]X1-L2:[sep=0.5]X1-D2-Q1-G5-S3:[sep=0.3]X1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8"/>[hlr]S34*[sep=0.5]G43-D35:N35
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="3"/>[hlr]F25*G43-X1:Z4:[sep=0.2]I9-insert[bs](I10,X1:N17)-D4-N35:Aa1-D58*(X1:Z9)-Y1:Z1*Z1*Z1-A41-G17-G5-E1-N35:[sep=0.5]M3:[sep=0.5]Aa1*[sep=0.5]X1-D40-C10-[sep=0.5]U6-G16-N28:[sep=0.5]D36:[sep=0.5]Y1-G17-[sep=0.5]N35*S29
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="4"/>[hlr]D21:X1-I13-O29-F9*F9-G5-S12:[fit]N33:[sep=0.5]Z1*Z1*Z1-F35-M4*[sep=0.3]M4*[sep=0.3]M4-S29-S34-F34*F34:[fit,size=inf]F34-(M23:X1)*(L2:X1)-cartouche(N5*O29a*L1-D28)-insert[te](G39,N5)-cartouche(G26-F31*[sep=0.5]S29)-S34
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5"/>[hlr]insert[bs](I10,X1:N17)-[sep=0.5]D21:N35-G21-V28*[sep=0.5]N5*[sep=0.5]V28-M17*(Aa1:Y1)-D37:[sep=0.5]D37-V31-X8-X1*[sep=0.3]G43-Aa11*[fit]U1:[sep=0.3,fit,size=1.1]D36-R8*(R4:(.:X1)*Q3)-X4b:.*Z1*Z1*Z1*.-N35-R8*[sep=0.5]R8*[sep=0.5]R8-D1:Z1-M26*U23-[sep=0.5]D58*G43-W7:N25-G17
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6"/>[hlr]D4:X1-V28*W14-S29*S29-[sep=0.5](.:X1)*A2-(Z1:[sep=0.5]Z1:[sep=0.5]Z1)*(D2:D1)-S34*[sep=0.6]U28*S29-M23:[sep=0.5]X1-L2:X1-cartouche(N5*O29a-L1-D28)-X8-S34-M17*[sep=0.5](Aa1:Y1)-D37:D37-V31-D37-X1-[sep=0.2]G43-Y5:[sep=0.5]N35:[sep=0.5]Y1-S34
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7"/>[hlr]N35:Aa1-[fit]A2-G17-[sep=0.5]D21:N35-A2-S3*U36-A41-S34*[sep=0.5]U28*S29-F31*S29-S3-M23-G14*[fit](X1:.)-T22-N35-[sep=0.5]A1-[sep=0.5]A1*S29-N35:[sep=0.5]D58-[sep=0.5]Y1a*B1-S29-N35:D58
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8"/>[hlr]Y1a*U33-O4-G1*D58-D54-Q3*G43-D21-D21:[sep=0.5]D37:[sep=0.5]X1-D21:[sep=0.5]Aa1:[sep=0.5]Y1-V31-O34:X1-N35:X1*X1-M23-X1:N35-O1:Z1-V26:D46:[sep=0.5]Y1-G43*U28
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9"/>[hlr]![shade]stack(S29,F47)-S29-[fit]G17![noshade]-M4*(X1*.:O50*[sep=0.5]Z15)-[sep=1.5]N11:.*Z15*Z15*Z15*.-O1:[sep=0.5]D21:[sep=0.5]X1-N5:V20*[sep=0.5]V20*Z15-O4:D21-G43-.*N5*Z1*.:N35-V28*D58-W4-N35-N28:[sep=0.5]D36-G43-Y1:Z1*Z1*Z1-I12
+</texthi>
+</segment>
+</egyptian>

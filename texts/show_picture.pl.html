@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="show_picture.pl_files/retina_typography.css" rel="stylesheet"><script type="text/javascript" src="show_picture.pl_files/jquery-1.js"></script><script type="text/javascript" src="show_picture.pl_files/imagesloaded.js"></script>
+        
+<link rel="icon" href="https://ixquick.com/ix-favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://ixquick.com/ix-favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="https://ixquick.com/graphics/favicon/ix-apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://ixquick.com/graphics/favicon/ix-apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://ixquick.com/graphics/favicon/ix-apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://ixquick.com/graphics/favicon/ix-apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://ixquick.com/graphics/favicon/ix-apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://ixquick.com/graphics/favicon/ix-apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://ixquick.com/graphics/favicon/ix-apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://ixquick.com/graphics/favicon/ix-apple-touch-icon-152x152.png">
+<link rel="icon" sizes="196x196" href="https://ixquick.com/graphics/favicon/ix-favicon-196x196.png" type="images/png">
+<link rel="icon" sizes="160x160" href="https://ixquick.com/graphics/favicon/ix-favicon-160x160.png" type="images/png">
+<link rel="icon" sizes="96x96" href="https://ixquick.com/graphics/favicon/ix-favicon-96x96.png" type="images/png">
+<link rel="icon" sizes="16x16" href="https://ixquick.com/graphics/favicon/ix-favicon-16x16.png" type="images/png">
+<link rel="icon" sizes="32x32" href="https://ixquick.com/graphics/favicon/ix-favicon-32x32.png" type="images/png">
+<link href="https://ixquick.com/graphics/favicon/ix-favicon-16x16.png" type="images/png" rel="shortcut icon">
+<meta name="msapplication-TileColor" content="#6589c7">
+<meta name="msapplication-TileColor" content="//ixquick.com/graphics/favicon/ix-mstile-144x144.png">
+
+        <style type="text/css"> 
+            html, body {min-height: 320px;position: relative;height: 100%;}
+			.navbar {
+				display: none;
+			}
+			.navbar-brand {
+				float: left;
+				font-size: 18px;
+				line-height: 20px;
+				height: auto;
+				padding: 17px 15px 8px 28px !important;
+			}
+			.ix_logo {
+			  padding: 13px 15px 8px 28px !important;
+			}
+			@media(max-width:900px){
+				body{overflow-x:hidden;}
+				body,#wrapper,.navbar,.main_container{width:100% !important;}
+				.navbar{min-width:100% !important;}
+				.main_container{width:94% !important; margin-right:auto; margin-left:auto;padding-right:0px; !important;padding-left:0px; !important}
+				.navbar{padding-right: 10px;/*padding-left: 10px;*/}
+			}
+            .anonymous-image-msg span {
+                padding: 0 30px;
+                display: block;
+            }
+        </style>
+    </head>
+    <body>   
+		<div id="wrapper">
+			<nav class="navbar navbar-default nav-effect" role="navigation" style="margin-bottom: 0">
+                    <div class="navbar-header" style="padding: 0;">
+                     <div class="logo-container">
+                       <a class="navbar-brand ix_logo" href="https://ixquick.com/eng">
+                        <img src="show_picture.pl_files/no_tm_ixquick_retina_results_page_logo.png" style="width: 126px; height: 35px; margin-top: 2px;">
+                       </a>
+                     </div>
+                    </div>
+                  </nav>
+                  
+            <img id="anon-image" alt="" title="" src="show_picture.pl_files/serveimage.jpg"><div class="anonymous-image-msg" style="display: none;position: relative; width: 100%; top: 160px; text-align: center; font-family: 'Proxima Nova' !important;font-size: 16px;"><span>The webpage will not show this image anonymously. Please click on "Visit Page" to visit the webpage directly.</span></div><script>
+                function updateImageMsgDisplay () {
+                    document.getElementById('anon-image').style.display = 'none';
+                    var navHeader = document.getElementsByClassName('navbar');
+                    navHeader[0].style.display = 'block';
+                    var brokenImgMsg = document.getElementsByClassName('anonymous-image-msg');
+                    brokenImgMsg[0].style.display = 'block';
+                }
+				jQuery(document).ready(function () {
+    				jQuery('#anon-image').imagesLoaded().fail(function () {
+        				jQuery('#anon-image').css('display', 'none');
+        				jQuery('.navbar').css('display', 'block');
+        				jQuery('div.anonymous-image-msg').css('display', 'block');
+    				});
+                    if (typeof imagesLoaded === 'function') {
+                        var imgLoad = imagesLoaded('#anon-image');
+                        var result = '';
+                        imgLoad.on( 'always', function() {
+                            // detect which image is broken
+                            for ( var i = 0, len = imgLoad.images.length; i < len; i++ ) {
+                                var image = imgLoad.images[i];
+                                result = image.isLoaded ? 'loaded' : 'broken';
+                                if (result === 'broken') {
+                                    updateImageMsgDisplay();
+                                }
+                            }
+                        });
+                        setTimeout( function () {
+                            if ((result === 'loaded' && document.getElementById('anon-image').naturalWidth == 0)) {
+                                updateImageMsgDisplay();
+                            }
+                        }, 8000); 
+                    }
+                });
+            </script>
+		</div>
+		<div class="clear"></div>	
+    
+
+</body></html>

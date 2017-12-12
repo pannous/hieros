@@ -1,0 +1,31 @@
+<!ELEMENT schememap (header,bibliography?,mapping)>
+<!ATTLIST schememap 
+	creator CDATA ""
+	name CDATA ""
+	labelname CDATA ""
+	created CDATA ""
+	modified CDATA ""
+	version CDATA ""
+	scheme1 CDATA ""
+	scheme2 CDATA "">
+
+<!ELEMENT header (p|li)*>
+
+<!ELEMENT bibliography (li)*>
+
+<!ELEMENT p (#PCDATA|i|a)*>
+
+<!ELEMENT li (#PCDATA|i|a)*>
+
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT a (#PCDATA)>
+<!ATTLIST a
+	href CDATA #REQUIRED>
+
+<!ELEMENT mapping (map)*>
+
+<!ELEMENT map EMPTY>
+<!ATTLIST map
+	first CDATA ""
+	second CDATA "">

@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<paleo>
+<size mean="0.017284" name="A30" variance="0.010573"/>
+<size mean="-0.239079" name="S10" variance="0.010000"/>
+<size mean="-0.646296" name="S11" variance="0.034621"/>
+<size mean="0.051864" name="S14" variance="0.010000"/>
+<size mean="-0.025143" name="R19" variance="0.031208"/>
+<size mean="-0.931867" name="S12" variance="0.010776"/>
+<size mean="0.042934" name="S18" variance="0.010000"/>
+<size mean="-0.010655" name="R15" variance="0.010000"/>
+<size mean="-0.119430" name="E6" variance="0.029147"/>
+<size mean="-0.399419" name="S19" variance="0.010000"/>
+<size mean="0.065725" name="R14" variance="0.010605"/>
+<size mean="-0.000074" name="R11" variance="0.010000"/>
+<size mean="-0.153500" name="E9" variance="0.029064"/>
+<size mean="-0.598837" name="R12" variance="0.010000"/>
+<size mean="-0.139512" name="R10" variance="0.010000"/>
+<size mean="-1.193486" name="N37[part]" variance="0.010000"/>
+<size mean="-0.901729" name="shade[part]" variance="0.448136"/>
+<size mean="-0.083866" name="E1" variance="0.012184"/>
+<size mean="-0.766371" name="D8a" variance="0.015249"/>
+<size mean="0.276253" name="A29" variance="0.010000"/>
+<size mean="-0.015373" name="A28" variance="0.010000"/>
+<size mean="-0.158279" name="A27" variance="0.011765"/>
+<size mean="-0.123060" name="A25" variance="0.010000"/>
+<size mean="0.010299" name="A24" variance="0.010000"/>
+<size mean="0.103460" name="A23" variance="0.010704"/>
+<size mean="-0.151040" name="hwtcloseunder" variance="0.010000"/>
+<size mean="-1.205446" name="R4[part]" variance="0.355298"/>
+<size mean="0.020065" name="A21" variance="0.010000"/>
+<size mean="-0.120253" name="A40" variance="0.010000"/>
+<size mean="-0.074631" name="A41" variance="0.015074"/>
+<size mean="-0.219995" name="A42" variance="0.023054"/>
+<size mean="-2.318404" name="N1[part]" variance="2.048048"/>
+<size mean="-1.268511" name="T9a" variance="0.010000"/>
+<size mean="-0.120152" name="M23[mirror]" variance="0.010000"/>
+<size mean="-0.647960" name="F9" variance="0.015178"/>
+<size mean="-0.467597" name="circle10" variance="0.010000"/>
+<size mean="-0.632093" name="F1" variance="0.014120"/>
+<size mean="-0.952472" name="3" variance="0.025649"/>
+<size mean="-0.249384" name="circle12" variance="0.010000"/>
+<size mean="-0.818106" name="2" variance="0.014707"/>
+<size mean="-0.384360" name="circle11" variance="0.010000"/>
+<size mean="-0.950879" name="1" variance="0.029454"/>
+<size mean="-0.417967" name="circle14" variance="0.010000"/>
+<size mean="-1.088554" name="0" variance="0.027172"/>
+<size mean="-0.124730" name="circle13" variance="0.015558"/>
+<size mean="-0.530025" name="7" variance="0.018443"/>
+<size mean="-0.181825" name="F5" variance="0.010000"/>
+<size mean="-0.507045" name="circle16" variance="0.010000"/>
+<size mean="-0.420633" name="circle15" variance="0.010000"/>
+<size mean="-0.845841" name="6" variance="0.021104"/>
+<size mean="-0.604474" name="F4" variance="0.010000"/>
+<size mean="-0.419451" name="circle18" variance="0.010000"/>
+<size mean="-0.936505" name="5" variance="0.017692"/>
+<size mean="-0.591258" name="F3" variance="0.010000"/>
+<size mean="-0.383474" name="circle17" variance="0.038483"/>
+<size mean="-0.826543" name="4" variance="0.028426"/>
+<size mean="-0.466090" name="circle19" variance="0.010000"/>
+<size mean="-0.751364" name="9" variance="0.025168"/>
+<size mean="-0.933390" name="Z15" variance="0.049437"/>
+<size mean="-0.797341" name="8" variance="0.011033"/>
+<size mean="-0.087969" name="A32" variance="0.010000"/>
+<size mean="-0.097374" name="A35" variance="0.010000"/>
+<size mean="-0.069792" name="Z11" variance="0.010000"/>
+<size mean="-0.200671" name="S36" variance="0.010000"/>
+<size mean="-1.833203" name="Aa1[part]" variance="0.726542"/>
+<size mean="-0.121446" name="S34" variance="0.010000"/>
+<size mean="-0.895384" name="S32" variance="0.010000"/>
+<size mean="-0.080969" name="S33" variance="0.010000"/>
+<size mean="-0.149240" name="S31" variance="0.010000"/>
+<size mean="-0.890189" name="V25[part]" variance="0.120113"/>
+<size mean="0.330664" name="G7" variance="0.010000"/>
+<size mean="-0.204389" name="T14[mirror]" variance="0.010000"/>
+<size mean="0.052922" name="G8" variance="0.010000"/>
+<size mean="-0.165992" name="S38" variance="0.021481"/>
+<size mean="0.034621" name="S14b" variance="0.010000"/>
+<size mean="-0.934099" name="F21a[part]" variance="0.201228"/>
+<size mean="-0.130385" name="G4" variance="0.014307"/>
+<size mean="-0.113288" name="G5" variance="0.012310"/>
+<size mean="-0.207208" name="G2" variance="0.010000"/>
+<size mean="-0.137760" name="G1" variance="0.010000"/>
+<size mean="-1.428195" name="D28[part]" variance="1.386638"/>
+<size mean="-0.370297" name="S23" variance="0.044121"/>
+<size mean="-0.520172" name="f" variance="0.010000"/>
+<size mean="-1.253362" name="S24" variance="0.010000"/>
+<size mean="-0.906189" name="g" variance="0.010000"/>
+<size mean="-0.928499" name="d" variance="0.032858"/>
+<size mean="-1.371531" name="e" variance="0.029705"/>
+<size mean="-0.907484" name="b" variance="0.027272"/>
+<size mean="-1.523671" name="c" variance="0.019365"/>
+<size mean="-0.225854" name="S20" variance="0.031527"/>
+<size mean="-0.830834" name="S21" variance="0.010000"/>
+<size mean="-0.295669" name="S22" variance="0.010000"/>
+<size mean="-1.544502" name="a" variance="0.018035"/>
+<size mean="-1.593328" name="o" variance="0.013775"/>
+<size mean="-0.131179" name="openbr" variance="0.104184"/>
+<size mean="0.033523" name="S27" variance="0.010000"/>
+<size mean="-0.100257" name="S28" variance="0.010000"/>
+<size mean="-0.132655" name="S29" variance="0.010000"/>
+<size mean="-0.926668" name="H8" variance="0.012896"/>
+<size mean="-0.036152" name="A19" variance="0.010000"/>
+<size mean="-0.242429" name="H6" variance="0.040358"/>
+<size mean="-0.741791" name="H4" variance="0.010000"/>
+<size mean="-1.164973" name="N5[part]" variance="0.651148"/>
+<size mean="-1.607200" name="s" variance="0.010000"/>
+<size mean="-1.057921" name="R8[part]" variance="0.244256"/>
+<size mean="-0.350202" name="H2" variance="0.010000"/>
+<size mean="-0.649485" name="H1" variance="0.010000"/>
+<size mean="-1.132911" name="U21[part]" variance="0.191063"/>
+<size mean="-0.003940" name="A13" variance="0.010000"/>
+<size mean="0.207072" name="A12" variance="0.010000"/>
+<size mean="-0.087999" name="D63" variance="0.010000"/>
+<size mean="-0.523904" name="A15" variance="0.014333"/>
+<size mean="-0.011820" name="A14" variance="0.010000"/>
+<size mean="-0.112186" name="A17" variance="0.011000"/>
+<size mean="-0.099347" name="A2" variance="0.010000"/>
+<size mean="-0.267678" name="A1" variance="0.011200"/>
+<size mean="0.065870" name="A3" variance="0.010000"/>
+<size mean="-0.514620" name="M8[part]" variance="0.162976"/>
+<size mean="-0.011429" name="A6" variance="0.010000"/>
+<size mean="0.000000" name="A7" variance="0.010000"/>
+<size mean="0.002743" name="A9" variance="0.013144"/>
+<size mean="-2.315208" name="B1[part]" variance="5.011636"/>
+<size mean="-0.656537" name="O32[part]" variance="0.126642"/>
+<size mean="-0.008381" name="A70" variance="0.010000"/>
+<size mean="-1.293833" name="G36[part]" variance="1.151952"/>
+<size mean="0.028812" name="B3" variance="0.010000"/>
+<size mean="-0.127944" name="closebr" variance="0.095652"/>
+<size mean="-1.860038" name="closebr[part]" variance="4.086566"/>
+<size mean="-1.013038" name="G41[part]" variance="1.003733"/>
+<size mean="0.048609" name="T21[rotate=90]" variance="0.010000"/>
+<size mean="-0.140504" name="B1" variance="0.012478"/>
+<size mean="0.090985" name="C8" variance="0.010000"/>
+<size mean="-0.677025" name="G5[part]" variance="0.461197"/>
+<size mean="-0.430148" name="R20[part]" variance="0.010000"/>
+<size mean="0.127833" name="C9" variance="0.010000"/>
+<size mean="-0.011173" name="Aa8[rotate=90]" variance="0.010000"/>
+<size mean="-1.747659" name="D2[part]" variance="0.752210"/>
+<size mean="-0.701592" name="S34[part]" variance="0.016937"/>
+<size mean="0.040005" name="T8a" variance="0.010000"/>
+<size mean="-0.048375" name="A53" variance="0.010000"/>
+<size mean="-0.167656" name="A52" variance="0.010000"/>
+<size mean="-0.050654" name="A51" variance="0.010000"/>
+<size mean="0.163296" name="A45" variance="0.010000"/>
+<size mean="0.157388" name="A46" variance="0.011194"/>
+<size mean="0.067711" name="A43" variance="0.010393"/>
+<size mean="-1.675772" name="A2[part]" variance="2.785076"/>
+<size mean="-0.028541" name="A44" variance="0.010000"/>
+<size mean="-0.017094" name="A49" variance="0.010000"/>
+<size mean="-0.068241" name="A47" variance="0.010000"/>
+<size mean="-0.091255" name="A48" variance="0.010000"/>
+<size mean="0.048484" name="C2" variance="0.010000"/>
+<size mean="-0.656407" name="D8" variance="0.010000"/>
+<size mean="-0.599621" name="D7" variance="0.010000"/>
+<size mean="-1.352860" name="D4" variance="0.024323"/>
+<size mean="-0.207923" name="T7a" variance="0.155435"/>
+<size mean="-0.021740" name="O31[rotate=90]" variance="0.010000"/>
+<size mean="-1.292207" name="M23[part]" variance="0.857606"/>
+<size mean="-1.624629" name="R22[part]" variance="0.010000"/>
+<size mean="-0.281738" name="A55" variance="0.010000"/>
+<size mean="0.160682" name="A57" variance="0.010000"/>
+<size mean="-0.103973" name="A58" variance="0.010000"/>
+<size mean="-0.127276" name="T9a[rotate=90]" variance="0.012206"/>
+<size mean="-0.760723" name="D2" variance="0.014745"/>
+<size mean="-0.513946" name="D3" variance="0.010000"/>
+<size mean="-0.811073" name="D1" variance="0.010000"/>
+<size mean="-0.183178" name="M8" variance="0.010000"/>
+<size mean="0.047655" name="M7" variance="0.010000"/>
+<size mean="-0.000609" name="M6" variance="0.010000"/>
+<size mean="-0.086401" name="M5" variance="0.010000"/>
+<size mean="-0.078808" name="M4" variance="0.010000"/>
+<size mean="-1.174318" name="M3" variance="0.016567"/>
+<size mean="-0.715620" name="M2" variance="0.010000"/>
+<size mean="0.092915" name="M1" variance="0.048310"/>
+<size mean="-1.074107" name="L1[part]" variance="0.585087"/>
+<size mean="-0.314257" name="N7" variance="0.010000"/>
+<size mean="-0.627667" name="N6" variance="0.010000"/>
+<size mean="-1.739374" name="Z1[part]" variance="1.327966"/>
+<size mean="-0.853380" name="N9" variance="0.010000"/>
+<size mean="-0.148343" name="N8" variance="0.014444"/>
+<size mean="-1.484367" name="Y1[part]" variance="0.137213"/>
+<size mean="-0.955755" name="N1" variance="0.010000"/>
+<size mean="-0.095310" name="N3" variance="0.010000"/>
+<size mean="0.062520" name="N2" variance="0.010000"/>
+<size mean="-0.912807" name="N5" variance="0.061354"/>
+<size mean="0.082885" name="cartouche" variance="0.010000"/>
+<size mean="-0.079827" name="O7" variance="0.010000"/>
+<size mean="0.009284" name="O6" variance="0.010000"/>
+<size mean="-0.885462" name="O4" variance="0.021211"/>
+<size mean="-1.006405" name="O1" variance="0.014396"/>
+<size mean="-1.036872" name="A14[part]" variance="0.528117"/>
+<size mean="-0.926762" name="K6[rotate=90]" variance="0.010000"/>
+<size mean="-0.672547" name="A21[part]" variance="0.647573"/>
+<size mean="-0.005917" name="Aa28" variance="0.010000"/>
+<size mean="0.002406" name="Aa27" variance="0.010000"/>
+<size mean="-0.066366" name="P8" variance="0.010000"/>
+<size mean="-0.043963" name="Aa22" variance="0.010000"/>
+<size mean="-0.020889" name="P5" variance="0.010000"/>
+<size mean="-1.091407" name="star" variance="0.043815"/>
+<size mean="-0.443003" name="P4" variance="0.010000"/>
+<size mean="-0.037706" name="P7" variance="0.010000"/>
+<size mean="-0.061059" name="P6" variance="0.010000"/>
+<size mean="-0.959134" name="P1" variance="0.010000"/>
+<size mean="-0.767107" name="T32[part]" variance="0.229848"/>
+<size mean="-0.141079" name="Aa30" variance="0.010000"/>
+<size mean="-1.364315" name="O29[rotate=180]" variance="0.010000"/>
+<size mean="-0.875469" name="Aa19" variance="0.010000"/>
+<size mean="-0.666403" name="O44[part]" variance="0.011403"/>
+<size mean="-1.273174" name="O50[part]" variance="0.240507"/>
+<size mean="-0.323105" name="C8[part]" variance="0.160652"/>
+<size mean="-1.492406" name="Aa11" variance="0.013270"/>
+<size mean="-0.328679" name="I1" variance="0.011435"/>
+<size mean="-1.120171" name="Aa15" variance="0.022455"/>
+<size mean="-0.370966" name="Aa18" variance="0.010300"/>
+<size mean="-0.834916" name="I6" variance="0.010000"/>
+<size mean="-1.255714" name="I9" variance="0.016482"/>
+<size mean="-1.261683" name="M17[part]" variance="0.503128"/>
+<size mean="-1.746196" name="Q3[part]" variance="0.030264"/>
+<size mean="-0.388279" name="W17[part]" variance="0.018381"/>
+<size mean="-1.892137" name="U7[part]" variance="1.415560"/>
+<size mean="-0.743478" name="A1[part]" variance="0.010779"/>
+<size mean="-1.485855" name="D7[part]" variance="0.178792"/>
+<size mean="-0.182929" name="O29a" variance="0.011524"/>
+<size mean="-0.858173" name="K1" variance="0.010000"/>
+<size mean="-0.298023" name="circle1_" variance="0.016221"/>
+<size mean="-1.727900" name="star[part]" variance="0.269985"/>
+<size mean="0.091434" name="M15a" variance="0.010000"/>
+<size mean="-1.725627" name="openbr[part]" variance="3.417282"/>
+<size mean="-0.352927" name="circle" variance="0.026078"/>
+<size mean="-0.672007" name="F21a" variance="0.018870"/>
+<size mean="-0.318454" name="circle22" variance="0.010000"/>
+<size mean="-0.790786" name="K5" variance="0.010000"/>
+<size mean="-0.220062" name="circle23" variance="0.010000"/>
+<size mean="-0.278020" name="W17a" variance="0.010000"/>
+<size mean="-0.264683" name="K4" variance="0.012718"/>
+<size mean="-0.456102" name="S3[part]" variance="0.102994"/>
+<size mean="-0.272644" name="circle21" variance="0.010000"/>
+<size mean="-0.316200" name="circle20" variance="0.010000"/>
+<size mean="-0.925083" name="G1[part]" variance="0.417310"/>
+<size mean="-1.051913" name="I1[part]" variance="0.578762"/>
+<size mean="-2.649481" name="I9[part]" variance="1.834422"/>
+<size mean="-1.091016" name="P6[part]" variance="0.277814"/>
+<size mean="-0.167136" name="L1" variance="0.021277"/>
+<size mean="-2.426015" name="D58[part]" variance="4.572468"/>
+<size mean="-0.116027" name="L2" variance="0.010000"/>
+<size mean="-0.262364" name="circle2_" variance="0.010000"/>
+<size mean="0.080969" name="L3" variance="0.010000"/>
+<size mean="-0.894240" name="Aa7" variance="0.010000"/>
+<size mean="-0.871381" name="Aa2" variance="0.010000"/>
+<size mean="-0.894806" name="Aa1" variance="0.014675"/>
+<size mean="-1.071975" name="W3" variance="0.028180"/>
+<size mean="0.046163" name="W4" variance="0.010000"/>
+<size mean="-0.443003" name="G52" variance="0.010000"/>
+<size mean="-0.230856" name="W1" variance="0.010000"/>
+<size mean="-1.031360" name="N10" variance="0.010000"/>
+<size mean="-1.279399" name="N11" variance="0.012376"/>
+<size mean="-0.352307" name="G54" variance="0.013777"/>
+<size mean="-1.263040" name="N12" variance="0.046098"/>
+<size mean="0.000000" name="O10" variance="0.010000"/>
+<size mean="0.005454" name="O11" variance="0.010000"/>
+<size mean="-1.330900" name="G35[part]" variance="1.522879"/>
+<size mean="0.000000" name="O12" variance="0.010000"/>
+<size mean="-0.284938" name="circle9" variance="0.010000"/>
+<size mean="-0.431974" name="circle8" variance="0.019785"/>
+<size mean="-0.659863" name="N14" variance="0.011102"/>
+<size mean="-0.289544" name="circle7" variance="0.025614"/>
+<size mean="-0.464693" name="circle6" variance="0.017606"/>
+<size mean="-0.435786" name="circle5" variance="0.010000"/>
+<size mean="-1.524167" name="N16" variance="0.106695"/>
+<size mean="-0.344554" name="circle4" variance="0.010000"/>
+<size mean="-1.088296" name="N18" variance="0.013396"/>
+<size mean="-0.454515" name="circle2" variance="0.013037"/>
+<size mean="-0.093141" name="V8" variance="0.010000"/>
+<size mean="-1.731381" name="N17" variance="0.050061"/>
+<size mean="-0.304989" name="V7" variance="0.025412"/>
+<size mean="-0.484391" name="circle1" variance="0.010000"/>
+<size mean="-0.646890" name="V6" variance="0.068831"/>
+<size mean="-0.541279" name="V2" variance="0.053738"/>
+<size mean="-0.000413" name="G40" variance="0.010000"/>
+<size mean="-0.104162" name="F12" variance="0.010000"/>
+<size mean="-0.116353" name="V4" variance="0.025367"/>
+<size mean="-1.380647" name="V13[part]" variance="0.120113"/>
+<size mean="-0.209371" name="G43" variance="0.010000"/>
+<size mean="-1.521226" name="P8[rotate=270]" variance="0.016123"/>
+<size mean="-0.094107" name="G41" variance="0.010000"/>
+<size mean="-0.725534" name="V1" variance="0.025112"/>
+<size mean="-0.071718" name="G47" variance="0.010000"/>
+<size mean="-1.014365" name="D8a[part]" variance="0.073072"/>
+<size mean="-1.479643" name="F32[part]" variance="0.347307"/>
+<size mean="0.000000" name="F17" variance="0.010000"/>
+<size mean="-0.150553" name="G45" variance="0.010000"/>
+<size mean="-1.152505" name="F18" variance="0.010085"/>
+<size mean="0.209092" name="F15" variance="0.010000"/>
+<size mean="-1.777524" name="M3[part]" variance="0.333199"/>
+<size mean="-0.450271" name="F16" variance="0.010000"/>
+<size mean="-0.486811" name="G49" variance="0.010000"/>
+<size mean="-0.705166" name="F13" variance="0.010000"/>
+<size mean="-0.510931" name="V4[part]" variance="0.043535"/>
+<size mean="-0.917597" name="U9" variance="0.010000"/>
+<size mean="-0.255781" name="shade" variance="0.055614"/>
+<size mean="-0.069835" name="U6" variance="0.010000"/>
+<size mean="-0.549692" name="G40[part]" variance="0.189603"/>
+<size mean="-0.666587" name="U7" variance="0.022886"/>
+<size mean="-0.090725" name="Y4" variance="0.010000"/>
+<size mean="-1.083162" name="Y1" variance="0.016333"/>
+<size mean="-0.881816" name="Y5" variance="0.010000"/>
+<size mean="-1.123646" name="O31" variance="0.037261"/>
+<size mean="-0.246097" name="O32" variance="0.010000"/>
+<size mean="-0.580110" name="O35" variance="0.010036"/>
+<size mean="-1.283935" name="O34" variance="0.019330"/>
+<size mean="-0.757370" name="N12[rotate=180]" variance="0.016024"/>
+<size mean="-0.215145" name="O36" variance="0.010000"/>
+<size mean="-1.100659" name="O39" variance="0.025286"/>
+<size mean="-0.191055" name="C10a" variance="0.010000"/>
+<size mean="-0.111791" name="X8" variance="0.011199"/>
+<size mean="-2.094689" name="D4[part]" variance="0.017062"/>
+<size mean="-2.547814" name="circle[part]" variance="3.181734"/>
+<size mean="-1.143869" name="V37a" variance="0.010000"/>
+<size mean="-1.482560" name="X1" variance="0.020273"/>
+<size mean="-0.794930" name="X2" variance="0.010000"/>
+<size mean="-0.743465" name="X3" variance="0.010000"/>
+<size mean="-1.225925" name="X4" variance="0.026500"/>
+<size mean="-0.987186" name="X6" variance="0.010000"/>
+<size mean="-0.316527" name="A9[part]" variance="0.087168"/>
+<size mean="-1.632691" name="O51[part]" variance="0.410483"/>
+<size mean="0.000000" name="O21" variance="0.010000"/>
+<size mean="-0.201866" name="O22" variance="0.010000"/>
+<size mean="-0.205648" name="O26" variance="0.063056"/>
+<size mean="-0.160602" name="O25" variance="0.010000"/>
+<size mean="-0.153613" name="O24" variance="0.010000"/>
+<size mean="-1.046787" name="U22[rotate=270]" variance="0.010000"/>
+<size mean="-0.031416" name="O23" variance="0.010000"/>
+<size mean="-1.379307" name="O29" variance="0.018075"/>
+<size mean="-0.019582" name="O28" variance="0.010000"/>
+<size mean="-0.548892" name="W9" variance="0.010000"/>
+<size mean="-0.514429" name="S40[part]" variance="0.105412"/>
+<size mean="-0.058496" name="S2" variance="0.010000"/>
+<size mean="-0.065638" name="S1" variance="0.010000"/>
+<size mean="-0.741567" name="G39[part]" variance="0.120113"/>
+<size mean="-0.119903" name="R8" variance="0.010000"/>
+<size mean="0.049619" name="R10a" variance="0.010000"/>
+<size mean="-0.693374" name="M4[part]" variance="0.451406"/>
+<size mean="-0.515968" name="R7" variance="0.069149"/>
+<size mean="-0.653224" name="R4" variance="0.014387"/>
+<size mean="-0.034289" name="W20" variance="0.010000"/>
+<size mean="-1.237874" name="R5" variance="0.010000"/>
+<size mean="-0.396163" name="R2" variance="0.010000"/>
+<size mean="-0.614567" name="W22" variance="0.011048"/>
+<size mean="-2.345674" name="T22[part]" variance="5.502186"/>
+<size mean="-0.807923" name="W21" variance="0.010000"/>
+<size mean="-0.077084" name="R3" variance="0.016873"/>
+<size mean="-0.633747" name="cartouche[part]" variance="1.218609"/>
+<size mean="-1.019151" name="W24" variance="0.010035"/>
+<size mean="-0.221680" name="W25" variance="0.010000"/>
+<size mean="-1.223258" name="X4b" variance="0.019022"/>
+<size mean="-0.590198" name="Q2[mirror]" variance="0.010000"/>
+<size mean="-1.611129" name="so" variance="0.020766"/>
+<size mean="-1.477976" name="D36[part]" variance="0.120113"/>
+<size mean="-0.404732" name="Q6" variance="0.012817"/>
+<size mean="-0.049812" name="Q7" variance="0.010000"/>
+<size mean="-0.110720" name="Q1" variance="0.010937"/>
+<size mean="-0.926777" name="Q3" variance="0.016219"/>
+<size mean="-0.832302" name="S29[part]" variance="0.887366"/>
+<size mean="-1.795576" name="G37[part]" variance="0.858529"/>
+<size mean="-0.709148" name="N37a" variance="0.010000"/>
+<size mean="-0.977776" name="F46a" variance="0.010000"/>
+<size mean="-0.446913" name="U1" variance="0.043816"/>
+<size mean="-1.098612" name="T7" variance="0.010000"/>
+<size mean="-0.020203" name="W16[mirror]" variance="0.010000"/>
+<size mean="0.000000" name="T8" variance="0.010000"/>
+<size mean="-1.380142" name="E1[part]" variance="0.808447"/>
+<size mean="-1.200413" name="Z4[part]" variance="0.022318"/>
+<size mean="-0.122240" name="T3" variance="0.010000"/>
+<size mean="-0.767683" name="T2" variance="0.015574"/>
+<size mean="-0.234885" name="F37a" variance="0.019307"/>
+<size mean="-0.119863" name="S3" variance="0.010000"/>
+<size mean="-0.955605" name="W11" variance="0.012811"/>
+<size mean="-0.697044" name="V16" variance="0.010000"/>
+<size mean="-0.179389" name="S4" variance="0.010000"/>
+<size mean="-0.906301" name="W10" variance="0.036557"/>
+<size mean="-0.564759" name="V15" variance="0.027939"/>
+<size mean="-1.050976" name="D8[part]" variance="0.140160"/>
+<size mean="-0.961346" name="V13" variance="0.010051"/>
+<size mean="-0.067057" name="Aa11[rotate=270]" variance="0.010000"/>
+<size mean="-0.050195" name="S9" variance="0.036469"/>
+<size mean="-1.491655" name="I6[part]" variance="0.480453"/>
+<size mean="-0.208545" name="V17" variance="0.010000"/>
+<size mean="-0.775060" name="U19[part]" variance="0.013787"/>
+<size mean="-1.288511" name="V1[part]" variance="0.138548"/>
+<size mean="-0.018067" name="W19" variance="0.010000"/>
+<size mean="-0.184200" name="W17" variance="0.010000"/>
+<size mean="-0.707949" name="V12" variance="0.053048"/>
+<size mean="-0.174430" name="W15" variance="0.010000"/>
+<size mean="-0.087249" name="W14" variance="0.010000"/>
+<size mean="-0.804413" name="W12" variance="0.014623"/>
+<size mean="-0.082545" name="M13" variance="0.010000"/>
+<size mean="-0.186259" name="V22" variance="0.020700"/>
+<size mean="-0.038198" name="M12" variance="0.010918"/>
+<size mean="-0.732690" name="V20" variance="0.042017"/>
+<size mean="-1.419170" name="P8[rotate=90]" variance="0.010000"/>
+<size mean="-0.038350" name="V28" variance="0.010000"/>
+<size mean="-0.876624" name="R19[part]" variance="0.946642"/>
+<size mean="-0.027449" name="V29" variance="0.010000"/>
+<size mean="-1.258040" name="V26" variance="0.010000"/>
+<size mean="-0.008479" name="V24" variance="0.010000"/>
+<size mean="-0.026988" name="V25" variance="0.010000"/>
+<size mean="-0.746745" name="T28" variance="0.026999"/>
+<size mean="0.030938" name="T25" variance="0.010000"/>
+<size mean="-0.092019" name="M18" variance="0.010000"/>
+<size mean="-0.112598" name="T22" variance="0.010000"/>
+<size mean="-0.745903" name="T21" variance="0.012607"/>
+<size mean="-0.035032" name="M16" variance="0.013556"/>
+<size mean="-0.136443" name="M17" variance="0.010000"/>
+<size mean="-0.910130" name="V29[part]" variance="0.631417"/>
+<size mean="0.000000" name="M15" variance="0.010000"/>
+<size mean="-1.155319" name="V31" variance="0.015816"/>
+<size mean="-0.656885" name="D19" variance="0.017859"/>
+<size mean="-0.082578" name="P11" variance="0.010000"/>
+<size mean="-1.131084" name="V30" variance="0.014918"/>
+<size mean="-0.384412" name="D17" variance="0.010000"/>
+<size mean="-1.683510" name="Aa15[part]" variance="0.513560"/>
+<size mean="-0.667531" name="unk" variance="0.062296"/>
+<size mean="-0.212674" name="V36" variance="0.010000"/>
+<size mean="-0.018271" name="T34" variance="0.010000"/>
+<size mean="-1.078203" name="T30" variance="0.010000"/>
+<size mean="-0.480313" name="T32" variance="0.037107"/>
+<size mean="-0.340604" name="P10" variance="0.010000"/>
+<size mean="-0.840641" name="T31" variance="0.026565"/>
+<size mean="-1.049970" name="G43[part]" variance="0.781248"/>
+<size mean="0.174520" name="M30" variance="0.019880"/>
+<size mean="0.400160" name="M34" variance="0.010000"/>
+<size mean="-2.329519" name="N16[part]" variance="0.138825"/>
+<size mean="-0.056570" name="U40" variance="0.010000"/>
+<size mean="-0.647817" name="M36" variance="0.023250"/>
+<size mean="-1.527493" name="Y5[part]" variance="0.421459"/>
+<size mean="-0.107631" name="M20" variance="0.010000"/>
+<size mean="-0.164043" name="M22" variance="0.010000"/>
+<size mean="-0.044419" name="M24" variance="0.010000"/>
+<size mean="-0.120982" name="M23" variance="0.010869"/>
+<size mean="-0.012377" name="M1a" variance="0.010000"/>
+<size mean="-0.788532" name="I5a" variance="0.014230"/>
+<size mean="-0.223144" name="M26" variance="0.010000"/>
+<size mean="-0.034232" name="M27" variance="0.010000"/>
+<size mean="0.000010" name="M29" variance="0.010000"/>
+<size mean="-1.173035" name="G18[part]" variance="1.376011"/>
+<size mean="-1.017502" name="D46" variance="0.020574"/>
+<size mean="-0.044783" name="S40" variance="0.010000"/>
+<size mean="-0.356675" name="D44" variance="0.010000"/>
+<size mean="-1.160333" name="Aa7[mirror]" variance="0.011729"/>
+<size mean="-0.459817" name="D45" variance="0.015193"/>
+<size mean="-0.064539" name="R2a" variance="0.010000"/>
+<size mean="-1.442710" name="Aa11[mirror]" variance="0.046523"/>
+<size mean="-0.693147" name="D43" variance="0.010000"/>
+<size mean="-0.816568" name="D40" variance="0.011230"/>
+<size mean="-0.952656" name="D41" variance="0.017891"/>
+<size mean="-0.003119" name="I12" variance="0.010000"/>
+<size mean="-0.530628" name="Z5a" variance="0.010000"/>
+<size mean="-0.056418" name="I13" variance="0.010000"/>
+<size mean="-0.074845" name="I10" variance="0.010000"/>
+<size mean="-0.864997" name="I15" variance="0.010000"/>
+<size mean="-0.892365" name="D49" variance="0.010000"/>
+<size mean="-0.120838" name="G14" variance="0.011593"/>
+<size mean="-0.078524" name="U28" variance="0.010000"/>
+<size mean="-0.049369" name="Y1a" variance="0.010000"/>
+<size mean="-0.345355" name="D60[part]" variance="0.070766"/>
+<size mean="-0.915889" name="U28[part]" variance="0.568296"/>
+<size mean="-0.792031" name="O51" variance="0.014960"/>
+<size mean="0.051954" name="G18" variance="0.010000"/>
+<size mean="-0.935997" name="O50" variance="0.010000"/>
+<size mean="0.022816" name="G17" variance="0.010000"/>
+<size mean="-0.676138" name="F44" variance="0.010000"/>
+<size mean="-0.522522" name="F41" variance="0.010000"/>
+<size mean="-0.117313" name="U23" variance="0.010000"/>
+<size mean="-0.980111" name="U22[rotate=90]" variance="0.010000"/>
+<size mean="0.033346" name="M3[rotate=90]" variance="0.010000"/>
+<size mean="-0.412339" name="F40" variance="0.010000"/>
+<size mean="-0.071841" name="S43" variance="0.010000"/>
+<size mean="0.211577" name="U24" variance="0.010000"/>
+<size mean="-0.010104" name="S42" variance="0.010000"/>
+<size mean="-0.621876" name="U21" variance="0.010000"/>
+<size mean="-0.455624" name="U22" variance="0.023317"/>
+<size mean="0.061244" name="C16" variance="0.010000"/>
+<size mean="-0.800778" name="D55" variance="0.010000"/>
+<size mean="-0.119718" name="D56" variance="0.010409"/>
+<size mean="-0.217243" name="D58" variance="0.011454"/>
+<size mean="-0.961159" name="D52" variance="0.011563"/>
+<size mean="-0.973716" name="D53" variance="0.010000"/>
+<size mean="-0.920521" name="D54" variance="0.012294"/>
+<size mean="-0.779901" name="O49" variance="0.013683"/>
+<size mean="-0.117783" name="M43" variance="0.010000"/>
+<size mean="-0.125477" name="M44" variance="0.010000"/>
+<size mean="-1.465205" name="D21[part]" variance="0.231078"/>
+<size mean="0.000000" name="C10" variance="0.010000"/>
+<size mean="-0.082461" name="M40" variance="0.010000"/>
+<size mean="-0.559833" name="M41" variance="0.023829"/>
+<size mean="-0.455736" name="M42" variance="0.010000"/>
+<size mean="-0.835322" name="O48" variance="0.010000"/>
+<size mean="-0.065488" name="U36" variance="0.010000"/>
+<size mean="-1.262060" name="Z1" variance="0.027276"/>
+<size mean="0.081490" name="O44" variance="0.012528"/>
+<size mean="0.112940" name="U38" variance="0.010000"/>
+<size mean="-1.692066" name="N35[part]" variance="0.153675"/>
+<size mean="-0.162883" name="O40" variance="0.019261"/>
+<size mean="-1.049951" name="Z9" variance="0.015930"/>
+<size mean="-0.999814" name="Z8" variance="0.010000"/>
+<size mean="-0.776665" name="N41" variance="0.010877"/>
+<size mean="-0.888202" name="Z7" variance="0.010000"/>
+<size mean="-0.760888" name="U30" variance="0.011269"/>
+<size mean="-0.184429" name="E17" variance="0.010000"/>
+<size mean="-0.411296" name="N40" variance="0.010000"/>
+<size mean="-0.050778" name="D60" variance="0.010000"/>
+<size mean="-0.005525" name="U32" variance="0.010000"/>
+<size mean="-0.912575" name="N42" variance="0.010000"/>
+<size mean="-1.156244" name="Z4" variance="0.019577"/>
+<size mean="-0.133777" name="U33" variance="0.010000"/>
+<size mean="-0.845493" name="F51" variance="0.011966"/>
+<size mean="-1.358007" name="D21" variance="0.030264"/>
+<size mean="-1.093678" name="N37" variance="0.016108"/>
+<size mean="-0.779090" name="D25" variance="0.010000"/>
+<size mean="-1.348005" name="N35" variance="0.028293"/>
+<size mean="-1.164315" name="N36" variance="0.045983"/>
+<size mean="-0.643790" name="D28" variance="0.023027"/>
+<size mean="-0.975740" name="L2[part]" variance="1.031869"/>
+<size mean="-0.615603" name="D27" variance="0.010000"/>
+<size mean="-0.778305" name="F1a" variance="0.010000"/>
+<size mean="0.252706" name="C22" variance="0.010000"/>
+<size mean="-0.422857" name="E24" variance="0.010000"/>
+<size mean="-0.014599" name="F27" variance="0.010000"/>
+<size mean="-0.779325" name="E23" variance="0.010000"/>
+<size mean="-0.281050" name="F26" variance="0.010000"/>
+<size mean="-0.865344" name="U36[part]" variance="0.338230"/>
+<size mean="-0.204733" name="G39" variance="0.010000"/>
+<size mean="-0.038891" name="F25" variance="0.010000"/>
+<size mean="-0.275706" name="E22" variance="0.010000"/>
+<size mean="-0.177365" name="G38" variance="0.010000"/>
+<size mean="-0.110542" name="E20" variance="0.010000"/>
+<size mean="-0.549519" name="G37" variance="0.010000"/>
+<size mean="-1.515127" name="R22" variance="0.010000"/>
+<size mean="-0.373990" name="G36" variance="0.020948"/>
+<size mean="-0.036814" name="F29" variance="0.010000"/>
+<size mean="-0.198855" name="G35" variance="0.010000"/>
+<size mean="0.000000" name="R20" variance="0.010000"/>
+<size mean="0.041243" name="G34" variance="0.010000"/>
+<size mean="-0.792975" name="N34" variance="0.010000"/>
+<size mean="-1.621576" name="N33" variance="0.049094"/>
+<size mean="0.000000" name="G32" variance="0.010000"/>
+<size mean="-0.154151" name="G30" variance="0.010000"/>
+<size mean="-0.971783" name="G17[part]" variance="1.125250"/>
+<size mean="-0.613055" name="N31" variance="0.010000"/>
+<size mean="-0.175891" name="circle_7" variance="0.010000"/>
+<size mean="-1.053885" name="N30" variance="0.010000"/>
+<size mean="-0.631963" name="F22" variance="0.010000"/>
+<size mean="-0.142252" name="F20" variance="0.022748"/>
+<size mean="-0.932401" name="N28" variance="0.010000"/>
+<size mean="-0.815708" name="A51[part]" variance="0.665380"/>
+<size mean="-0.932543" name="N29" variance="0.013162"/>
+<size mean="-0.196744" name="D33" variance="0.010000"/>
+<size mean="-0.902090" name="N24" variance="0.019508"/>
+<size mean="-0.960956" name="N25" variance="0.010241"/>
+<size mean="-0.220051" name="D34" variance="0.010000"/>
+<size mean="-0.950633" name="N26" variance="0.010000"/>
+<size mean="-1.007507" name="D35" variance="0.013212"/>
+<size mean="-0.973847" name="D36" variance="0.012013"/>
+<size mean="-0.770761" name="N27" variance="0.032688"/>
+<size mean="-0.861772" name="D37" variance="0.010000"/>
+<size mean="-1.048407" name="G54[part]" variance="0.610106"/>
+<size mean="-0.824321" name="D38" variance="0.010000"/>
+<size mean="0.298855" name="NU8" variance="0.010000"/>
+<size mean="-0.128978" name="A19[part]" variance="0.019642"/>
+<size mean="-1.296438" name="D39" variance="0.010000"/>
+<size mean="0.000000" name="serekh" variance="0.010000"/>
+<size mean="-0.394976" name="G28" variance="0.019751"/>
+<size mean="-0.706332" name="U19" variance="0.010000"/>
+<size mean="-0.316860" name="G27" variance="0.010000"/>
+<size mean="-0.136795" name="F35" variance="0.010000"/>
+<size mean="-1.043870" name="D40[part]" variance="0.010000"/>
+<size mean="-0.053737" name="G29" variance="0.010000"/>
+<size mean="-0.497308" name="E34" variance="0.010000"/>
+<size mean="-1.425064" name="T11" variance="0.010000"/>
+<size mean="-0.265062" name="G23" variance="0.010000"/>
+<size mean="-0.619120" name="T12" variance="0.017087"/>
+<size mean="-0.473809" name="U15" variance="0.010051"/>
+<size mean="-0.501865" name="F39" variance="0.010000"/>
+<size mean="-0.186877" name="U16" variance="0.010000"/>
+<size mean="0.102895" name="G26" variance="0.010000"/>
+<size mean="-0.027530" name="E31" variance="0.010000"/>
+<size mean="-0.558275" name="D27a" variance="0.010000"/>
+<size mean="-0.520141" name="U17" variance="0.013899"/>
+<size mean="-0.135035" name="T14" variance="0.017139"/>
+<size mean="-0.100805" name="G25" variance="0.010000"/>
+<size mean="-0.943338" name="N21" variance="0.016898"/>
+<size mean="-0.066496" name="T15" variance="0.010000"/>
+<size mean="-0.182322" name="F29[mirror]" variance="0.010000"/>
+<size mean="-0.068208" name="U11" variance="0.010000"/>
+<size mean="-0.266838" name="F30" variance="0.020093"/>
+<size mean="-1.082244" name="N23" variance="0.011575"/>
+<size mean="-0.179303" name="T17" variance="0.023651"/>
+<size mean="-0.697790" name="U13" variance="0.010000"/>
+<size mean="-0.109918" name="T18" variance="0.010000"/>
+<size mean="0.066030" name="G21" variance="0.010000"/>
+<size mean="-0.085925" name="T19" variance="0.010000"/>
+<size mean="-0.923318" name="F32" variance="0.020349"/>
+<size mean="-0.182889" name="F31" variance="0.013482"/>
+<size mean="-0.648679" name="F34" variance="0.010000"/>
+<size mean="-0.778467" name="U32[part]" variance="0.434440"/>
+<size mean="0.169076" name="C2a" variance="0.010000"/>
+<ratio mean="-0.608611" name="A30" variance="0.050000"/>
+<ratio mean="0.207153" name="S10" variance="0.050000"/>
+<ratio mean="0.215923" name="S11" variance="0.050000"/>
+<ratio mean="-0.055139" name="S14" variance="0.050000"/>
+<ratio mean="-0.763202" name="R19" variance="0.050000"/>
+<ratio mean="0.994000" name="S12" variance="0.050000"/>
+<ratio mean="-0.299204" name="S18" variance="0.050000"/>
+<ratio mean="-0.643483" name="R15" variance="0.050000"/>
+<ratio mean="0.224370" name="E6" variance="0.050000"/>
+<ratio mean="0.219979" name="S19" variance="0.050000"/>
+<ratio mean="-0.759725" name="R14" variance="0.060305"/>
+<ratio mean="-0.744400" name="R11" variance="0.050000"/>
+<ratio mean="0.367799" name="E9" variance="0.050000"/>
+<ratio mean="0.609766" name="R12" variance="0.050000"/>
+<ratio mean="0.084410" name="R10" variance="0.050000"/>
+<ratio mean="0.680277" name="N37[part]" variance="0.063142"/>
+<ratio mean="-0.359321" name="shade[part]" variance="0.050000"/>
+<ratio mean="0.303265" name="E1" variance="0.050000"/>
+<ratio mean="0.872427" name="D8a" variance="0.050000"/>
+<ratio mean="-0.476924" name="A29" variance="0.050000"/>
+<ratio mean="-0.291333" name="A28" variance="0.050000"/>
+<ratio mean="-0.228204" name="A27" variance="0.050000"/>
+<ratio mean="0.011834" name="A25" variance="0.050000"/>
+<ratio mean="-0.339930" name="A24" variance="0.050000"/>
+<ratio mean="-0.091691" name="A23" variance="0.050000"/>
+<ratio mean="0.021506" name="hwtcloseunder" variance="0.050000"/>
+<ratio mean="0.087030" name="R4[part]" variance="0.272847"/>
+<ratio mean="-0.234258" name="A21" variance="0.050000"/>
+<ratio mean="-0.284921" name="A40" variance="0.050000"/>
+<ratio mean="-0.304076" name="A41" variance="0.050000"/>
+<ratio mean="-0.030272" name="A42" variance="0.050000"/>
+<ratio mean="0.072977" name="N1[part]" variance="0.586946"/>
+<ratio mean="1.225952" name="T9a" variance="0.050000"/>
+<ratio mean="-0.701996" name="M23[mirror]" variance="0.050000"/>
+<ratio mean="0.043792" name="F9" variance="0.050000"/>
+<ratio mean="0.019048" name="circle10" variance="0.050000"/>
+<ratio mean="0.079996" name="F1" variance="0.050000"/>
+<ratio mean="-0.297430" name="3" variance="0.050000"/>
+<ratio mean="0.055501" name="circle12" variance="0.050000"/>
+<ratio mean="-0.346610" name="2" variance="0.050000"/>
+<ratio mean="-0.003725" name="circle11" variance="0.050000"/>
+<ratio mean="-0.422314" name="1" variance="0.050000"/>
+<ratio mean="-0.033212" name="circle14" variance="0.050000"/>
+<ratio mean="-0.305191" name="0" variance="0.050000"/>
+<ratio mean="-0.023111" name="circle13" variance="0.050000"/>
+<ratio mean="-0.720220" name="7" variance="0.050000"/>
+<ratio mean="-0.043946" name="F5" variance="0.050000"/>
+<ratio mean="0.018692" name="circle16" variance="0.050000"/>
+<ratio mean="0.048380" name="circle15" variance="0.050000"/>
+<ratio mean="-0.424090" name="6" variance="0.050000"/>
+<ratio mean="0.598376" name="F4" variance="0.050000"/>
+<ratio mean="0.068053" name="circle18" variance="0.050000"/>
+<ratio mean="-0.242814" name="5" variance="0.050000"/>
+<ratio mean="0.456523" name="F3" variance="0.050000"/>
+<ratio mean="-0.020956" name="circle17" variance="0.050000"/>
+<ratio mean="-0.467622" name="4" variance="0.050000"/>
+<ratio mean="0.075223" name="circle19" variance="0.050000"/>
+<ratio mean="-0.532489" name="9" variance="0.050000"/>
+<ratio mean="-1.272658" name="Z15" variance="0.050000"/>
+<ratio mean="-0.534026" name="8" variance="0.050000"/>
+<ratio mean="-0.059189" name="A32" variance="0.050000"/>
+<ratio mean="0.044452" name="A35" variance="0.050000"/>
+<ratio mean="-0.549229" name="Z11" variance="0.050000"/>
+<ratio mean="-0.443205" name="S36" variance="0.050000"/>
+<ratio mean="0.577932" name="Aa1[part]" variance="0.214852"/>
+<ratio mean="-0.526634" name="S34" variance="0.050000"/>
+<ratio mean="0.923164" name="S32" variance="0.050000"/>
+<ratio mean="-0.729961" name="S33" variance="0.050000"/>
+<ratio mean="0.120392" name="S31" variance="0.050000"/>
+<ratio mean="-0.508810" name="V25[part]" variance="0.050000"/>
+<ratio mean="0.038100" name="G7" variance="0.050000"/>
+<ratio mean="-1.609349" name="T14[mirror]" variance="0.050000"/>
+<ratio mean="-0.052922" name="G8" variance="0.050000"/>
+<ratio mean="-0.910934" name="S38" variance="0.050000"/>
+<ratio mean="-0.116199" name="S14b" variance="0.050000"/>
+<ratio mean="-0.773292" name="F21a[part]" variance="0.248362"/>
+<ratio mean="-0.069286" name="G4" variance="0.050000"/>
+<ratio mean="-0.093313" name="G5" variance="0.050000"/>
+<ratio mean="0.292998" name="G2" variance="0.050000"/>
+<ratio mean="-0.050879" name="G1" variance="0.050000"/>
+<ratio mean="-0.306352" name="D28[part]" variance="0.131677"/>
+<ratio mean="0.382597" name="S23" variance="0.050000"/>
+<ratio mean="-0.627661" name="f" variance="0.050000"/>
+<ratio mean="1.380713" name="S24" variance="0.050000"/>
+<ratio mean="-0.170952" name="g" variance="0.050000"/>
+<ratio mean="-0.064592" name="d" variance="0.050000"/>
+<ratio mean="0.340157" name="e" variance="0.050000"/>
+<ratio mean="-0.042053" name="b" variance="0.050000"/>
+<ratio mean="0.017662" name="c" variance="0.050000"/>
+<ratio mean="-0.541401" name="S20" variance="0.064823"/>
+<ratio mean="-0.018586" name="S21" variance="0.050000"/>
+<ratio mean="0.523506" name="S22" variance="0.050000"/>
+<ratio mean="0.493343" name="a" variance="0.050000"/>
+<ratio mean="0.322125" name="o" variance="0.050000"/>
+<ratio mean="-1.100367" name="openbr" variance="0.082459"/>
+<ratio mean="-0.056512" name="S27" variance="0.050000"/>
+<ratio mean="0.033226" name="S28" variance="0.050000"/>
+<ratio mean="-1.237490" name="S29" variance="0.050000"/>
+<ratio mean="-0.190514" name="H8" variance="0.050000"/>
+<ratio mean="-0.205222" name="A19" variance="0.050000"/>
+<ratio mean="-0.790519" name="H6" variance="0.128592"/>
+<ratio mean="0.164618" name="H4" variance="0.050000"/>
+<ratio mean="0.025171" name="N5[part]" variance="0.050000"/>
+<ratio mean="0.195857" name="s" variance="0.050000"/>
+<ratio mean="-0.582339" name="R8[part]" variance="0.050000"/>
+<ratio mean="0.163325" name="H2" variance="0.050000"/>
+<ratio mean="-0.106441" name="H1" variance="0.050000"/>
+<ratio mean="0.635950" name="U21[part]" variance="0.050000"/>
+<ratio mean="-0.319524" name="A13" variance="0.050000"/>
+<ratio mean="-0.178786" name="A12" variance="0.050000"/>
+<ratio mean="0.118585" name="D63" variance="0.050000"/>
+<ratio mean="0.860060" name="A15" variance="0.050000"/>
+<ratio mean="0.029886" name="A14" variance="0.050000"/>
+<ratio mean="-0.145719" name="A17" variance="0.050000"/>
+<ratio mean="-0.339589" name="A2" variance="0.050000"/>
+<ratio mean="0.006138" name="A1" variance="0.050000"/>
+<ratio mean="-0.308417" name="A3" variance="0.050000"/>
+<ratio mean="-0.175299" name="M8[part]" variance="0.327803"/>
+<ratio mean="-0.071459" name="A6" variance="0.050000"/>
+<ratio mean="0.162431" name="A7" variance="0.050000"/>
+<ratio mean="-0.416804" name="A9" variance="0.050000"/>
+<ratio mean="-0.199900" name="B1[part]" variance="0.050000"/>
+<ratio mean="-0.206857" name="O32[part]" variance="0.059796"/>
+<ratio mean="-0.092718" name="A70" variance="0.050000"/>
+<ratio mean="0.501651" name="G36[part]" variance="0.050000"/>
+<ratio mean="-0.028812" name="B3" variance="0.050000"/>
+<ratio mean="-1.095915" name="closebr" variance="0.083079"/>
+<ratio mean="-1.066754" name="closebr[part]" variance="0.139582"/>
+<ratio mean="-0.263912" name="G41[part]" variance="0.075672"/>
+<ratio mean="-1.111458" name="T21[rotate=90]" variance="0.061348"/>
+<ratio mean="-0.275847" name="B1" variance="0.050000"/>
+<ratio mean="-0.166896" name="C8" variance="0.050000"/>
+<ratio mean="-0.304868" name="G5[part]" variance="0.069775"/>
+<ratio mean="-0.056835" name="R20[part]" variance="0.105690"/>
+<ratio mean="-0.385662" name="C9" variance="0.050000"/>
+<ratio mean="-1.156432" name="Aa8[rotate=90]" variance="0.050000"/>
+<ratio mean="0.386595" name="D2[part]" variance="0.149456"/>
+<ratio mean="-0.127228" name="S34[part]" variance="0.050000"/>
+<ratio mean="-0.863773" name="T8a" variance="0.050000"/>
+<ratio mean="-0.755659" name="A53" variance="0.050000"/>
+<ratio mean="-0.051454" name="A52" variance="0.050000"/>
+<ratio mean="-0.108595" name="A51" variance="0.050000"/>
+<ratio mean="-0.379505" name="A45" variance="0.050000"/>
+<ratio mean="-0.243049" name="A46" variance="0.050000"/>
+<ratio mean="-0.281921" name="A43" variance="0.050000"/>
+<ratio mean="-0.341648" name="A2[part]" variance="0.092721"/>
+<ratio mean="-0.123696" name="A44" variance="0.050000"/>
+<ratio mean="-0.189242" name="A49" variance="0.050000"/>
+<ratio mean="-0.117639" name="A47" variance="0.050000"/>
+<ratio mean="-0.338416" name="A48" variance="0.050000"/>
+<ratio mean="-0.367027" name="C2" variance="0.050000"/>
+<ratio mean="0.979566" name="D8" variance="0.050000"/>
+<ratio mean="0.770439" name="D7" variance="0.050000"/>
+<ratio mean="1.367740" name="D4" variance="0.050000"/>
+<ratio mean="-0.248218" name="T7a" variance="0.197962"/>
+<ratio mean="-1.291984" name="O31[rotate=90]" variance="0.050000"/>
+<ratio mean="-0.160243" name="M23[part]" variance="0.066099"/>
+<ratio mean="0.588972" name="R22[part]" variance="0.173550"/>
+<ratio mean="0.254161" name="A55" variance="0.050000"/>
+<ratio mean="-0.198070" name="A57" variance="0.050000"/>
+<ratio mean="0.058999" name="A58" variance="0.050000"/>
+<ratio mean="-1.043680" name="T9a[rotate=90]" variance="0.050000"/>
+<ratio mean="0.059592" name="D2" variance="0.050000"/>
+<ratio mean="0.513946" name="D3" variance="0.050000"/>
+<ratio mean="0.183976" name="D1" variance="0.050000"/>
+<ratio mean="0.282004" name="M8" variance="0.050000"/>
+<ratio mean="-1.222748" name="M7" variance="0.050000"/>
+<ratio mean="-0.237314" name="M6" variance="0.050000"/>
+<ratio mean="-0.550168" name="M5" variance="0.050000"/>
+<ratio mean="-0.981285" name="M4" variance="0.050000"/>
+<ratio mean="1.237979" name="M3" variance="0.050000"/>
+<ratio mean="0.478490" name="M2" variance="0.050000"/>
+<ratio mean="-0.898466" name="M1" variance="0.050000"/>
+<ratio mean="-0.489532" name="L1[part]" variance="0.053296"/>
+<ratio mean="-0.402591" name="N7" variance="0.050000"/>
+<ratio mean="0.278519" name="N6" variance="0.050000"/>
+<ratio mean="-0.254954" name="Z1[part]" variance="0.050000"/>
+<ratio mean="0.102247" name="N9" variance="0.050000"/>
+<ratio mean="-0.485864" name="N8" variance="0.050000"/>
+<ratio mean="0.458294" name="Y1[part]" variance="0.512076"/>
+<ratio mean="0.900426" name="N1" variance="0.050000"/>
+<ratio mean="0.054067" name="N3" variance="0.050000"/>
+<ratio mean="-0.106483" name="N2" variance="0.050000"/>
+<ratio mean="0.093348" name="N5" variance="0.050000"/>
+<ratio mean="0.929212" name="cartouche" variance="0.050000"/>
+<ratio mean="-0.700886" name="O7" variance="0.050000"/>
+<ratio mean="-0.706773" name="O6" variance="0.050000"/>
+<ratio mean="0.320838" name="O4" variance="0.050000"/>
+<ratio mean="0.707737" name="O1" variance="0.050000"/>
+<ratio mean="-0.191496" name="A14[part]" variance="0.251654"/>
+<ratio mean="0.233615" name="K6[rotate=90]" variance="0.050000"/>
+<ratio mean="-0.297580" name="A21[part]" variance="0.050000"/>
+<ratio mean="-1.287098" name="Aa28" variance="0.050000"/>
+<ratio mean="-0.452937" name="Aa27" variance="0.050000"/>
+<ratio mean="-1.379940" name="P8" variance="0.050000"/>
+<ratio mean="-0.119189" name="Aa22" variance="0.050000"/>
+<ratio mean="0.000055" name="P5" variance="0.050000"/>
+<ratio mean="-0.212241" name="star" variance="0.050000"/>
+<ratio mean="0.533517" name="P4" variance="0.050000"/>
+<ratio mean="-0.005709" name="P7" variance="0.050000"/>
+<ratio mean="-0.906328" name="P6" variance="0.050000"/>
+<ratio mean="1.036647" name="P1" variance="0.050000"/>
+<ratio mean="0.266591" name="T32[part]" variance="0.050000"/>
+<ratio mean="-1.262915" name="Aa30" variance="0.050000"/>
+<ratio mean="1.418383" name="O29[rotate=180]" variance="0.050000"/>
+<ratio mean="0.438255" name="Aa19" variance="0.050000"/>
+<ratio mean="-0.659506" name="O44[part]" variance="1.469662"/>
+<ratio mean="0.188647" name="O50[part]" variance="0.050000"/>
+<ratio mean="-0.310522" name="C8[part]" variance="0.050000"/>
+<ratio mean="1.220870" name="Aa11" variance="0.050000"/>
+<ratio mean="0.446474" name="I1" variance="0.050000"/>
+<ratio mean="0.999156" name="Aa15" variance="0.050000"/>
+<ratio mean="-0.071206" name="Aa18" variance="0.050000"/>
+<ratio mean="0.705729" name="I6" variance="0.050000"/>
+<ratio mean="1.245829" name="I9" variance="0.050000"/>
+<ratio mean="-0.544735" name="M17[part]" variance="0.096127"/>
+<ratio mean="0.559677" name="Q3[part]" variance="0.050000"/>
+<ratio mean="-0.451024" name="W17[part]" variance="0.441052"/>
+<ratio mean="0.303068" name="U7[part]" variance="0.091850"/>
+<ratio mean="0.359232" name="A1[part]" variance="0.050000"/>
+<ratio mean="0.926556" name="D7[part]" variance="1.003309"/>
+<ratio mean="-1.176579" name="O29a" variance="0.050000"/>
+<ratio mean="0.887335" name="K1" variance="0.050000"/>
+<ratio mean="0.043702" name="circle1_" variance="0.050000"/>
+<ratio mean="-0.136233" name="star[part]" variance="0.212045"/>
+<ratio mean="-0.344270" name="M15a" variance="0.050000"/>
+<ratio mean="-1.246603" name="openbr[part]" variance="0.050000"/>
+<ratio mean="0.003030" name="circle" variance="0.050000"/>
+<ratio mean="-0.080459" name="F21a" variance="0.050000"/>
+<ratio mean="0.068993" name="circle22" variance="0.050000"/>
+<ratio mean="0.990399" name="K5" variance="0.050000"/>
+<ratio mean="-0.015504" name="circle23" variance="0.050000"/>
+<ratio mean="0.154151" name="W17a" variance="0.050000"/>
+<ratio mean="0.601791" name="K4" variance="0.050000"/>
+<ratio mean="-0.293564" name="S3[part]" variance="0.050000"/>
+<ratio mean="0.014815" name="circle21" variance="0.050000"/>
+<ratio mean="0.082826" name="circle20" variance="0.050000"/>
+<ratio mean="-0.105533" name="G1[part]" variance="0.066231"/>
+<ratio mean="0.621607" name="I1[part]" variance="0.050000"/>
+<ratio mean="0.483202" name="I9[part]" variance="0.163939"/>
+<ratio mean="-0.191013" name="P6[part]" variance="0.150330"/>
+<ratio mean="-0.369596" name="L1" variance="0.050000"/>
+<ratio mean="-0.306552" name="D58[part]" variance="0.093974"/>
+<ratio mean="0.012331" name="L2" variance="0.050000"/>
+<ratio mean="0.028171" name="circle2_" variance="0.050000"/>
+<ratio mean="-0.422272" name="L3" variance="0.050000"/>
+<ratio mean="0.821769" name="Aa7" variance="0.050000"/>
+<ratio mean="0.016428" name="Aa2" variance="0.050000"/>
+<ratio mean="0.119115" name="Aa1" variance="0.050000"/>
+<ratio mean="0.928611" name="W3" variance="0.050000"/>
+<ratio mean="-0.169879" name="W4" variance="0.050000"/>
+<ratio mean="0.779475" name="G52" variance="0.050000"/>
+<ratio mean="-0.557975" name="W1" variance="0.050000"/>
+<ratio mean="0.157629" name="N10" variance="0.050000"/>
+<ratio mean="1.133069" name="N11" variance="0.050000"/>
+<ratio mean="0.295645" name="G54" variance="0.050000"/>
+<ratio mean="1.305430" name="N12" variance="0.050000"/>
+<ratio mean="0.000000" name="O10" variance="0.050000"/>
+<ratio mean="-0.877344" name="O11" variance="0.056956"/>
+<ratio mean="0.610890" name="G35[part]" variance="0.118764"/>
+<ratio mean="0.059189" name="O12" variance="0.050000"/>
+<ratio mean="-0.072051" name="circle9" variance="0.050000"/>
+<ratio mean="-0.090414" name="circle8" variance="0.050000"/>
+<ratio mean="-0.066721" name="N14" variance="0.050000"/>
+<ratio mean="-0.139370" name="circle7" variance="0.050000"/>
+<ratio mean="0.002446" name="circle6" variance="0.050000"/>
+<ratio mean="-0.054325" name="circle5" variance="0.050000"/>
+<ratio mean="1.521257" name="N16" variance="0.115196"/>
+<ratio mean="-0.089921" name="circle4" variance="0.050000"/>
+<ratio mean="1.052822" name="N18" variance="0.050000"/>
+<ratio mean="-0.041057" name="circle2" variance="0.050000"/>
+<ratio mean="-1.005780" name="V8" variance="0.050000"/>
+<ratio mean="1.644449" name="N17" variance="0.050000"/>
+<ratio mean="-0.666692" name="V7" variance="0.050000"/>
+<ratio mean="-0.011296" name="circle1" variance="0.050000"/>
+<ratio mean="-0.339012" name="V6" variance="0.050000"/>
+<ratio mean="0.599956" name="V2" variance="0.050000"/>
+<ratio mean="-0.183998" name="G40" variance="0.050000"/>
+<ratio mean="-0.520459" name="F12" variance="0.050000"/>
+<ratio mean="-0.299643" name="V4" variance="0.050000"/>
+<ratio mean="0.861871" name="V13[part]" variance="0.050000"/>
+<ratio mean="-0.247687" name="G43" variance="0.050000"/>
+<ratio mean="1.436169" name="P8[rotate=270]" variance="0.050000"/>
+<ratio mean="0.061775" name="G41" variance="0.050000"/>
+<ratio mean="-0.085459" name="V1" variance="0.050000"/>
+<ratio mean="-0.119283" name="G47" variance="0.050000"/>
+<ratio mean="0.973485" name="D8a[part]" variance="0.050000"/>
+<ratio mean="0.273047" name="F32[part]" variance="0.460379"/>
+<ratio mean="0.097374" name="F17" variance="0.050000"/>
+<ratio mean="0.275668" name="G45" variance="0.050000"/>
+<ratio mean="1.084414" name="F18" variance="0.050000"/>
+<ratio mean="-0.209092" name="F15" variance="0.050000"/>
+<ratio mean="0.708682" name="M3[part]" variance="0.426840"/>
+<ratio mean="0.088386" name="F16" variance="0.087631"/>
+<ratio mean="0.527633" name="G49" variance="0.050000"/>
+<ratio mean="0.479032" name="F13" variance="0.050000"/>
+<ratio mean="-0.500316" name="V4[part]" variance="0.050000"/>
+<ratio mean="0.470954" name="U9" variance="0.050000"/>
+<ratio mean="0.205598" name="shade" variance="0.106146"/>
+<ratio mean="-0.539755" name="U6" variance="0.050000"/>
+<ratio mean="-0.466406" name="G40[part]" variance="0.333679"/>
+<ratio mean="0.572612" name="U7" variance="0.050000"/>
+<ratio mean="-0.054274" name="Y4" variance="0.050000"/>
+<ratio mean="1.011865" name="Y1" variance="0.050000"/>
+<ratio mean="0.739463" name="Y5" variance="0.050000"/>
+<ratio mean="1.055274" name="O31" variance="0.050000"/>
+<ratio mean="-0.052455" name="O32" variance="0.050000"/>
+<ratio mean="0.506439" name="O35" variance="0.050000"/>
+<ratio mean="1.181407" name="O34" variance="0.050000"/>
+<ratio mean="0.601578" name="N12[rotate=180]" variance="0.050000"/>
+<ratio mean="-0.512135" name="O36" variance="0.050000"/>
+<ratio mean="0.724771" name="O39" variance="0.050000"/>
+<ratio mean="-0.341749" name="C10a" variance="0.050000"/>
+<ratio mean="-0.602067" name="X8" variance="0.050000"/>
+<ratio mean="1.296778" name="D4[part]" variance="0.146757"/>
+<ratio mean="-0.201248" name="circle[part]" variance="0.202136"/>
+<ratio mean="1.143869" name="V37a" variance="0.050000"/>
+<ratio mean="0.597925" name="X1" variance="0.050000"/>
+<ratio mean="-0.241162" name="X2" variance="0.050000"/>
+<ratio mean="-0.441474" name="X3" variance="0.050000"/>
+<ratio mean="1.156914" name="X4" variance="0.050000"/>
+<ratio mean="0.109040" name="X6" variance="0.050000"/>
+<ratio mean="-0.341914" name="A9[part]" variance="0.050000"/>
+<ratio mean="0.297244" name="O51[part]" variance="0.147179"/>
+<ratio mean="-0.479573" name="O21" variance="0.050000"/>
+<ratio mean="0.000000" name="O22" variance="0.050000"/>
+<ratio mean="-0.376703" name="O26" variance="0.050000"/>
+<ratio mean="-0.727365" name="O25" variance="0.050000"/>
+<ratio mean="-0.191171" name="O24" variance="0.050000"/>
+<ratio mean="0.860201" name="U22[rotate=270]" variance="0.050000"/>
+<ratio mean="0.331903" name="O23" variance="0.050000"/>
+<ratio mean="1.412875" name="O29" variance="0.050000"/>
+<ratio mean="-0.804526" name="O28" variance="0.050000"/>
+<ratio mean="-0.195420" name="W9" variance="0.050000"/>
+<ratio mean="-0.991194" name="S40[part]" variance="0.144617"/>
+<ratio mean="0.058496" name="S2" variance="0.050000"/>
+<ratio mean="-0.305228" name="S1" variance="0.050000"/>
+<ratio mean="0.477305" name="G39[part]" variance="0.050000"/>
+<ratio mean="-0.921046" name="R8" variance="0.050000"/>
+<ratio mean="-0.606299" name="R10a" variance="0.050000"/>
+<ratio mean="-0.497714" name="M4[part]" variance="0.050000"/>
+<ratio mean="-0.254206" name="R7" variance="0.076989"/>
+<ratio mean="0.576676" name="R4" variance="0.050000"/>
+<ratio mean="-0.790786" name="W20" variance="0.050000"/>
+<ratio mean="1.237874" name="R5" variance="0.050000"/>
+<ratio mean="0.287682" name="R2" variance="0.050000"/>
+<ratio mean="-0.251621" name="W22" variance="0.050000"/>
+<ratio mean="-0.645075" name="T22[part]" variance="0.416122"/>
+<ratio mean="0.195745" name="W21" variance="0.050000"/>
+<ratio mean="0.153264" name="R3" variance="0.050000"/>
+<ratio mean="0.473400" name="cartouche[part]" variance="0.420012"/>
+<ratio mean="-0.059175" name="W24" variance="0.050000"/>
+<ratio mean="-0.366089" name="W25" variance="0.050000"/>
+<ratio mean="1.156514" name="X4b" variance="0.050000"/>
+<ratio mean="0.366225" name="Q2[mirror]" variance="0.050000"/>
+<ratio mean="0.999033" name="so" variance="0.050000"/>
+<ratio mean="0.558844" name="D36[part]" variance="0.050000"/>
+<ratio mean="0.421860" name="Q6" variance="0.050000"/>
+<ratio mean="-0.316435" name="Q7" variance="0.050000"/>
+<ratio mean="-0.679290" name="Q1" variance="0.050000"/>
+<ratio mean="-0.251364" name="Q3" variance="0.050000"/>
+<ratio mean="-1.024900" name="S29[part]" variance="0.427438"/>
+<ratio mean="0.521795" name="G37[part]" variance="0.062240"/>
+<ratio mean="0.972732" name="N37a" variance="0.050000"/>
+<ratio mean="0.840305" name="F46a" variance="0.050000"/>
+<ratio mean="0.141345" name="U1" variance="0.072004"/>
+<ratio mean="1.454245" name="T7" variance="0.050000"/>
+<ratio mean="-0.350861" name="W16[mirror]" variance="0.050000"/>
+<ratio mean="-0.885832" name="T8" variance="0.050000"/>
+<ratio mean="-0.052489" name="E1[part]" variance="0.178023"/>
+<ratio mean="-0.610151" name="Z4[part]" variance="0.050000"/>
+<ratio mean="-1.349225" name="T3" variance="0.050000"/>
+<ratio mean="0.770470" name="T2" variance="0.050000"/>
+<ratio mean="-0.432369" name="F37a" variance="0.420926"/>
+<ratio mean="-0.316621" name="S3" variance="0.050000"/>
+<ratio mean="0.239511" name="W11" variance="0.050000"/>
+<ratio mean="0.779181" name="V16" variance="0.050000"/>
+<ratio mean="-0.047831" name="S4" variance="0.050000"/>
+<ratio mean="0.294393" name="W10" variance="0.076948"/>
+<ratio mean="0.458161" name="V15" variance="0.050000"/>
+<ratio mean="1.269225" name="D8[part]" variance="0.066753"/>
+<ratio mean="0.874614" name="V13" variance="0.050000"/>
+<ratio mean="-1.471405" name="Aa11[rotate=270]" variance="0.050000"/>
+<ratio mean="-0.276376" name="S9" variance="0.050000"/>
+<ratio mean="0.573407" name="I6[part]" variance="0.081639"/>
+<ratio mean="-0.405465" name="V17" variance="0.050000"/>
+<ratio mean="-0.301474" name="U19[part]" variance="1.312043"/>
+<ratio mean="-0.205371" name="V1[part]" variance="0.050000"/>
+<ratio mean="-0.716384" name="W19" variance="0.050000"/>
+<ratio mean="0.307513" name="W17" variance="0.050000"/>
+<ratio mean="0.550721" name="V12" variance="0.110004"/>
+<ratio mean="-0.361967" name="W15" variance="0.050000"/>
+<ratio mean="-1.014047" name="W14" variance="0.050000"/>
+<ratio mean="0.243023" name="W12" variance="0.050000"/>
+<ratio mean="-0.807113" name="M13" variance="0.050000"/>
+<ratio mean="0.347716" name="V22" variance="0.050000"/>
+<ratio mean="-0.670813" name="M12" variance="0.050000"/>
+<ratio mean="-0.292790" name="V20" variance="0.050000"/>
+<ratio mean="1.435228" name="P8[rotate=90]" variance="0.050000"/>
+<ratio mean="-0.953911" name="V28" variance="0.050000"/>
+<ratio mean="-0.794618" name="R19[part]" variance="0.050000"/>
+<ratio mean="-0.716187" name="V29" variance="0.050000"/>
+<ratio mean="1.299283" name="V26" variance="0.050000"/>
+<ratio mean="-0.479036" name="V24" variance="0.050000"/>
+<ratio mean="-0.969175" name="V25" variance="0.050000"/>
+<ratio mean="0.203291" name="T28" variance="0.050000"/>
+<ratio mean="-0.419464" name="T25" variance="0.050000"/>
+<ratio mean="-0.781254" name="M18" variance="0.050000"/>
+<ratio mean="-1.044911" name="T22" variance="0.050000"/>
+<ratio mean="0.751962" name="T21" variance="0.050000"/>
+<ratio mean="-0.284784" name="M16" variance="0.050000"/>
+<ratio mean="-0.935322" name="M17" variance="0.050000"/>
+<ratio mean="-0.567490" name="V29[part]" variance="0.078292"/>
+<ratio mean="-0.211309" name="M15" variance="0.050000"/>
+<ratio mean="1.050214" name="V31" variance="0.050000"/>
+<ratio mean="-0.102074" name="D19" variance="0.050000"/>
+<ratio mean="-1.246998" name="P11" variance="0.050000"/>
+<ratio mean="0.984513" name="V30" variance="0.050000"/>
+<ratio mean="0.247836" name="D17" variance="0.050000"/>
+<ratio mean="1.248057" name="Aa15[part]" variance="0.744392"/>
+<ratio mean="0.074853" name="unk" variance="0.050000"/>
+<ratio mean="-0.374189" name="V36" variance="0.050000"/>
+<ratio mean="-1.377269" name="T34" variance="0.050000"/>
+<ratio mean="1.078203" name="T30" variance="0.050000"/>
+<ratio mean="0.504708" name="T32" variance="0.050000"/>
+<ratio mean="0.135341" name="P10" variance="0.050000"/>
+<ratio mean="0.841053" name="T31" variance="0.050000"/>
+<ratio mean="-0.047248" name="G43[part]" variance="0.050000"/>
+<ratio mean="-0.765867" name="M30" variance="0.050000"/>
+<ratio mean="-0.759105" name="M34" variance="0.050000"/>
+<ratio mean="0.515644" name="N16[part]" variance="0.478829"/>
+<ratio mean="-0.737078" name="U40" variance="0.050000"/>
+<ratio mean="0.240996" name="M36" variance="0.050000"/>
+<ratio mean="0.381095" name="Y5[part]" variance="0.442443"/>
+<ratio mean="0.117783" name="M20" variance="0.050000"/>
+<ratio mean="-0.609655" name="M22" variance="0.050000"/>
+<ratio mean="-0.271022" name="M24" variance="0.050000"/>
+<ratio mean="-0.637255" name="M23" variance="0.050000"/>
+<ratio mean="0.072165" name="M1a" variance="0.050000"/>
+<ratio mean="0.957600" name="I5a" variance="0.050000"/>
+<ratio mean="-0.585517" name="M26" variance="0.050000"/>
+<ratio mean="-0.015792" name="M27" variance="0.050000"/>
+<ratio mean="-1.282436" name="M29" variance="0.050000"/>
+<ratio mean="0.156533" name="G18[part]" variance="0.050000"/>
+<ratio mean="0.929506" name="D46" variance="0.050000"/>
+<ratio mean="-1.272817" name="S40" variance="0.050000"/>
+<ratio mean="0.367725" name="D44" variance="0.050000"/>
+<ratio mean="1.049010" name="Aa7[mirror]" variance="0.050000"/>
+<ratio mean="0.174510" name="D45" variance="0.050000"/>
+<ratio mean="-0.097980" name="R2a" variance="0.050000"/>
+<ratio mean="1.319659" name="Aa11[mirror]" variance="0.050000"/>
+<ratio mean="0.757072" name="D43" variance="0.050000"/>
+<ratio mean="0.685975" name="D40" variance="0.050000"/>
+<ratio mean="0.900111" name="D41" variance="0.050000"/>
+<ratio mean="-0.206220" name="I12" variance="0.050000"/>
+<ratio mean="-0.040822" name="Z5a" variance="0.050000"/>
+<ratio mean="0.062644" name="I13" variance="0.050000"/>
+<ratio mean="0.183381" name="I10" variance="0.050000"/>
+<ratio mean="0.821980" name="I15" variance="0.050000"/>
+<ratio mean="0.399717" name="D49" variance="0.050000"/>
+<ratio mean="-0.091896" name="G14" variance="0.050000"/>
+<ratio mean="-0.905826" name="U28" variance="0.050000"/>
+<ratio mean="-1.055478" name="Y1a" variance="0.050000"/>
+<ratio mean="-0.211540" name="D60[part]" variance="0.075260"/>
+<ratio mean="-0.487890" name="U28[part]" variance="0.947473"/>
+<ratio mean="0.495483" name="O51" variance="0.050000"/>
+<ratio mean="0.043605" name="G18" variance="0.050000"/>
+<ratio mean="0.052915" name="O50" variance="0.050000"/>
+<ratio mean="-0.241452" name="G17" variance="0.050000"/>
+<ratio mean="0.590573" name="F44" variance="0.050000"/>
+<ratio mean="0.437622" name="F41" variance="0.050000"/>
+<ratio mean="-0.694085" name="U23" variance="0.050000"/>
+<ratio mean="0.820593" name="U22[rotate=90]" variance="0.050000"/>
+<ratio mean="-1.387181" name="M3[rotate=90]" variance="0.050000"/>
+<ratio mean="0.523807" name="F40" variance="0.050000"/>
+<ratio mean="-1.580072" name="S43" variance="0.050000"/>
+<ratio mean="-0.761213" name="U24" variance="0.050000"/>
+<ratio mean="-1.013353" name="S42" variance="0.050000"/>
+<ratio mean="0.719005" name="U21" variance="0.050000"/>
+<ratio mean="-0.528677" name="U22" variance="0.050000"/>
+<ratio mean="-0.395613" name="C16" variance="0.050000"/>
+<ratio mean="0.506270" name="D55" variance="0.050000"/>
+<ratio mean="-0.532092" name="D56" variance="0.050000"/>
+<ratio mean="-0.626315" name="D58" variance="0.050000"/>
+<ratio mean="1.018224" name="D52" variance="0.050000"/>
+<ratio mean="1.089599" name="D53" variance="0.050000"/>
+<ratio mean="0.496863" name="D54" variance="0.050000"/>
+<ratio mean="0.084043" name="O49" variance="0.050000"/>
+<ratio mean="0.171850" name="M43" variance="0.050000"/>
+<ratio mean="-0.629477" name="M44" variance="0.050000"/>
+<ratio mean="0.236978" name="D21[part]" variance="0.249342"/>
+<ratio mean="-0.298493" name="C10" variance="0.050000"/>
+<ratio mean="-1.157205" name="M40" variance="0.050000"/>
+<ratio mean="0.270089" name="M41" variance="0.050000"/>
+<ratio mean="0.112508" name="M42" variance="0.050000"/>
+<ratio mean="0.154151" name="O48" variance="0.050000"/>
+<ratio mean="-1.207871" name="U36" variance="0.050000"/>
+<ratio mean="-1.099069" name="Z1" variance="0.050000"/>
+<ratio mean="-0.353932" name="O44" variance="0.050000"/>
+<ratio mean="0.056619" name="U38" variance="0.050000"/>
+<ratio mean="0.528060" name="N35[part]" variance="0.498182"/>
+<ratio mean="0.000858" name="O40" variance="0.050000"/>
+<ratio mean="0.099259" name="Z9" variance="0.050000"/>
+<ratio mean="0.840064" name="Z8" variance="0.097711"/>
+<ratio mean="-0.057527" name="N41" variance="0.050000"/>
+<ratio mean="0.105246" name="Z7" variance="0.050000"/>
+<ratio mean="0.097566" name="U30" variance="0.050000"/>
+<ratio mean="0.245673" name="E17" variance="0.050000"/>
+<ratio mean="0.287682" name="N40" variance="0.050000"/>
+<ratio mean="0.018902" name="D60" variance="0.050000"/>
+<ratio mean="-0.885570" name="U32" variance="0.050000"/>
+<ratio mean="-0.039656" name="N42" variance="0.050000"/>
+<ratio mean="-0.048406" name="Z4" variance="0.050000"/>
+<ratio mean="-1.319957" name="U33" variance="0.050000"/>
+<ratio mean="-0.416921" name="F51" variance="0.050000"/>
+<ratio mean="1.239121" name="D21" variance="0.050000"/>
+<ratio mean="1.002233" name="N37" variance="0.050000"/>
+<ratio mean="0.207639" name="D25" variance="0.050000"/>
+<ratio mean="1.394239" name="N35" variance="0.050000"/>
+<ratio mean="1.077044" name="N36" variance="0.050000"/>
+<ratio mean="0.118400" name="D28" variance="0.050000"/>
+<ratio mean="-0.223687" name="L2[part]" variance="0.182647"/>
+<ratio mean="-0.163773" name="D27" variance="0.050000"/>
+<ratio mean="0.336472" name="F1a" variance="0.050000"/>
+<ratio mean="-0.432870" name="C22" variance="0.050000"/>
+<ratio mean="1.019544" name="E24" variance="0.050000"/>
+<ratio mean="-0.481838" name="F27" variance="0.050000"/>
+<ratio mean="0.779325" name="E23" variance="0.050000"/>
+<ratio mean="0.235041" name="F26" variance="0.050000"/>
+<ratio mean="-0.543095" name="U36[part]" variance="0.526229"/>
+<ratio mean="0.177334" name="G39" variance="0.050000"/>
+<ratio mean="-1.054302" name="F25" variance="0.050000"/>
+<ratio mean="0.593064" name="E22" variance="0.050000"/>
+<ratio mean="0.180855" name="G38" variance="0.050000"/>
+<ratio mean="0.062914" name="E20" variance="0.050000"/>
+<ratio mean="0.621603" name="G37" variance="0.050000"/>
+<ratio mean="1.740466" name="R22" variance="0.050000"/>
+<ratio mean="0.468308" name="G36" variance="0.050000"/>
+<ratio mean="0.139762" name="F29" variance="0.050000"/>
+<ratio mean="0.247534" name="G35" variance="0.050000"/>
+<ratio mean="-0.257829" name="R20" variance="0.050000"/>
+<ratio mean="-0.020409" name="G34" variance="0.050000"/>
+<ratio mean="0.219876" name="N34" variance="0.050000"/>
+<ratio mean="0.131150" name="N33" variance="0.050000"/>
+<ratio mean="0.000000" name="G32" variance="0.050000"/>
+<ratio mean="0.543615" name="G30" variance="0.050000"/>
+<ratio mean="-0.097017" name="G17[part]" variance="0.068637"/>
+<ratio mean="0.577514" name="N31" variance="0.050000"/>
+<ratio mean="0.062132" name="circle_7" variance="0.050000"/>
+<ratio mean="0.996988" name="N30" variance="0.050000"/>
+<ratio mean="0.474335" name="F22" variance="0.050000"/>
+<ratio mean="0.158718" name="F20" variance="0.050000"/>
+<ratio mean="0.489973" name="N28" variance="0.050000"/>
+<ratio mean="-0.177131" name="A51[part]" variance="0.050000"/>
+<ratio mean="-0.070716" name="N29" variance="0.050000"/>
+<ratio mean="-0.006963" name="D33" variance="0.050000"/>
+<ratio mean="0.807243" name="N24" variance="0.060625"/>
+<ratio mean="0.849615" name="N25" variance="0.050000"/>
+<ratio mean="0.286966" name="D34" variance="0.050000"/>
+<ratio mean="0.461517" name="N26" variance="0.050000"/>
+<ratio mean="1.120334" name="D35" variance="0.050000"/>
+<ratio mean="0.897524" name="D36" variance="0.050000"/>
+<ratio mean="0.458598" name="N27" variance="0.050000"/>
+<ratio mean="0.840270" name="D37" variance="0.050000"/>
+<ratio mean="0.111820" name="G54[part]" variance="0.050000"/>
+<ratio mean="0.804046" name="D38" variance="0.050000"/>
+<ratio mean="-0.443686" name="NU8" variance="0.050000"/>
+<ratio mean="-0.385819" name="A19[part]" variance="0.050000"/>
+<ratio mean="1.034074" name="D39" variance="0.050000"/>
+<ratio mean="0.557735" name="serekh" variance="0.452666"/>
+<ratio mean="0.511187" name="G28" variance="0.050000"/>
+<ratio mean="0.837977" name="U19" variance="0.050000"/>
+<ratio mean="0.403965" name="G27" variance="0.050000"/>
+<ratio mean="-0.970932" name="F35" variance="0.050000"/>
+<ratio mean="0.123918" name="D40[part]" variance="0.050000"/>
+<ratio mean="0.019258" name="G29" variance="0.050000"/>
+<ratio mean="0.516589" name="E34" variance="0.050000"/>
+<ratio mean="1.577648" name="T11" variance="0.050000"/>
+<ratio mean="0.452281" name="G23" variance="0.050000"/>
+<ratio mean="0.395650" name="T12" variance="0.050000"/>
+<ratio mean="0.540754" name="U15" variance="0.050000"/>
+<ratio mean="0.454565" name="F39" variance="0.050000"/>
+<ratio mean="0.284252" name="U16" variance="0.050000"/>
+<ratio mean="-0.131197" name="G26" variance="0.050000"/>
+<ratio mean="0.116406" name="E31" variance="0.050000"/>
+<ratio mean="-0.192654" name="D27a" variance="0.050000"/>
+<ratio mean="0.232355" name="U17" variance="0.050000"/>
+<ratio mean="-1.344057" name="T14" variance="0.050000"/>
+<ratio mean="0.054416" name="G25" variance="0.050000"/>
+<ratio mean="-0.097530" name="N21" variance="0.338135"/>
+<ratio mean="-1.285431" name="T15" variance="0.050000"/>
+<ratio mean="0.011696" name="F29[mirror]" variance="0.050000"/>
+<ratio mean="-0.510826" name="U11" variance="0.050000"/>
+<ratio mean="0.322126" name="F30" variance="0.050000"/>
+<ratio mean="0.359401" name="N23" variance="0.050000"/>
+<ratio mean="0.528147" name="T17" variance="0.050000"/>
+<ratio mean="0.694716" name="U13" variance="0.050000"/>
+<ratio mean="-1.015353" name="T18" variance="0.050000"/>
+<ratio mean="-0.344755" name="G21" variance="0.050000"/>
+<ratio mean="-0.948560" name="T19" variance="0.050000"/>
+<ratio mean="0.979340" name="F32" variance="0.050000"/>
+<ratio mean="-0.520390" name="F31" variance="0.050000"/>
+<ratio mean="-0.054403" name="F34" variance="0.050000"/>
+<ratio mean="-0.303624" name="U32[part]" variance="0.836371"/>
+<ratio mean="-0.474458" name="C2a" variance="0.050000"/>
+<freq name="A30" p="0.000293"/>
+<freq name="S10" p="0.000117"/>
+<freq name="S11" p="0.000235"/>
+<freq name="S14" p="0.000821"/>
+<freq name="R19" p="0.000176"/>
+<freq name="S12" p="0.001994"/>
+<freq name="S18" p="0.000117"/>
+<freq name="R15" p="0.000235"/>
+<freq name="E6" p="0.000117"/>
+<freq name="S19" p="0.000352"/>
+<freq name="R14" p="0.000235"/>
+<freq name="R11" p="0.000117"/>
+<freq name="E9" p="0.000528"/>
+<freq name="R12" p="0.000059"/>
+<freq name="R10" p="0.000117"/>
+<freq name="N37[part]" p="0.000117"/>
+<freq name="shade[part]" p="0.044044"/>
+<freq name="E1" p="0.000762"/>
+<freq name="D8a" p="0.000117"/>
+<freq name="A29" p="0.000059"/>
+<freq name="A28" p="0.000352"/>
+<freq name="A27" p="0.000235"/>
+<freq name="A25" p="0.000059"/>
+<freq name="A24" p="0.000176"/>
+<freq name="A23" p="0.000117"/>
+<freq name="hwtcloseunder" p="0.000059"/>
+<freq name="R4[part]" p="0.000117"/>
+<freq name="A21" p="0.000352"/>
+<freq name="A40" p="0.003050"/>
+<freq name="A41" p="0.000235"/>
+<freq name="A42" p="0.000293"/>
+<freq name="N1[part]" p="0.000117"/>
+<freq name="T9a" p="0.000059"/>
+<freq name="M23[mirror]" p="0.000586"/>
+<freq name="F9" p="0.000821"/>
+<freq name="circle10" p="0.000059"/>
+<freq name="F1" p="0.000411"/>
+<freq name="3" p="0.002991"/>
+<freq name="circle12" p="0.000117"/>
+<freq name="2" p="0.003108"/>
+<freq name="circle11" p="0.000293"/>
+<freq name="1" p="0.003167"/>
+<freq name="circle14" p="0.000117"/>
+<freq name="0" p="0.001114"/>
+<freq name="circle13" p="0.000117"/>
+<freq name="7" p="0.000586"/>
+<freq name="F5" p="0.000117"/>
+<freq name="circle16" p="0.000059"/>
+<freq name="circle15" p="0.000117"/>
+<freq name="6" p="0.002053"/>
+<freq name="F4" p="0.001994"/>
+<freq name="circle18" p="0.000059"/>
+<freq name="5" p="0.002229"/>
+<freq name="F3" p="0.000117"/>
+<freq name="circle17" p="0.000235"/>
+<freq name="4" p="0.002463"/>
+<freq name="circle19" p="0.000059"/>
+<freq name="9" p="0.001173"/>
+<freq name="Z15" p="0.023400"/>
+<freq name="8" p="0.001466"/>
+<freq name="A32" p="0.000059"/>
+<freq name="A35" p="0.000059"/>
+<freq name="Z11" p="0.000352"/>
+<freq name="S36" p="0.000059"/>
+<freq name="Aa1[part]" p="0.000117"/>
+<freq name="S34" p="0.004223"/>
+<freq name="S32" p="0.000059"/>
+<freq name="S33" p="0.000059"/>
+<freq name="S31" p="0.000176"/>
+<freq name="V25[part]" p="0.000117"/>
+<freq name="G7" p="0.000059"/>
+<freq name="T14[mirror]" p="0.000117"/>
+<freq name="G8" p="0.000059"/>
+<freq name="S38" p="0.000645"/>
+<freq name="S14b" p="0.000235"/>
+<freq name="F21a[part]" p="0.000235"/>
+<freq name="G4" p="0.001114"/>
+<freq name="G5" p="0.000938"/>
+<freq name="G2" p="0.000293"/>
+<freq name="G1" p="0.005044"/>
+<freq name="D28[part]" p="0.000586"/>
+<freq name="S23" p="0.000176"/>
+<freq name="f" p="0.000117"/>
+<freq name="S24" p="0.000235"/>
+<freq name="g" p="0.000117"/>
+<freq name="d" p="0.000880"/>
+<freq name="e" p="0.000704"/>
+<freq name="b" p="0.003050"/>
+<freq name="c" p="0.000997"/>
+<freq name="S20" p="0.000704"/>
+<freq name="S21" p="0.000235"/>
+<freq name="S22" p="0.000176"/>
+<freq name="a" p="0.004399"/>
+<freq name="o" p="0.000762"/>
+<freq name="openbr" p="0.008035"/>
+<freq name="S27" p="0.000059"/>
+<freq name="S28" p="0.000235"/>
+<freq name="S29" p="0.016832"/>
+<freq name="H8" p="0.000176"/>
+<freq name="A19" p="0.001408"/>
+<freq name="H6" p="0.000586"/>
+<freq name="H4" p="0.000117"/>
+<freq name="N5[part]" p="0.001525"/>
+<freq name="s" p="0.000762"/>
+<freq name="R8[part]" p="0.000235"/>
+<freq name="H2" p="0.000059"/>
+<freq name="H1" p="0.000352"/>
+<freq name="U21[part]" p="0.000352"/>
+<freq name="A13" p="0.000821"/>
+<freq name="A12" p="0.000235"/>
+<freq name="D63" p="0.000293"/>
+<freq name="A15" p="0.000352"/>
+<freq name="A14" p="0.000938"/>
+<freq name="A17" p="0.000528"/>
+<freq name="A2" p="0.002991"/>
+<freq name="A1" p="0.014896"/>
+<freq name="A3" p="0.000117"/>
+<freq name="M8[part]" p="0.000235"/>
+<freq name="A6" p="0.000059"/>
+<freq name="A7" p="0.000117"/>
+<freq name="A9" p="0.000821"/>
+<freq name="B1[part]" p="0.000117"/>
+<freq name="O32[part]" p="0.000235"/>
+<freq name="A70" p="0.000117"/>
+<freq name="G36[part]" p="0.000117"/>
+<freq name="B3" p="0.000117"/>
+<freq name="closebr" p="0.008035"/>
+<freq name="closebr[part]" p="0.000117"/>
+<freq name="G41[part]" p="0.000117"/>
+<freq name="T21[rotate=90]" p="0.000117"/>
+<freq name="B1" p="0.002874"/>
+<freq name="C8" p="0.000117"/>
+<freq name="G5[part]" p="0.000176"/>
+<freq name="R20[part]" p="0.000117"/>
+<freq name="C9" p="0.000059"/>
+<freq name="Aa8[rotate=90]" p="0.000059"/>
+<freq name="D2[part]" p="0.000117"/>
+<freq name="S34[part]" p="0.000117"/>
+<freq name="T8a" p="0.000059"/>
+<freq name="A53" p="0.000352"/>
+<freq name="A52" p="0.001114"/>
+<freq name="A51" p="0.001114"/>
+<freq name="A45" p="0.000293"/>
+<freq name="A46" p="0.000235"/>
+<freq name="A43" p="0.000235"/>
+<freq name="A2[part]" p="0.000586"/>
+<freq name="A44" p="0.000235"/>
+<freq name="A49" p="0.000059"/>
+<freq name="A47" p="0.000176"/>
+<freq name="A48" p="0.000117"/>
+<freq name="C2" p="0.000411"/>
+<freq name="D8" p="0.000176"/>
+<freq name="D7" p="0.000059"/>
+<freq name="D4" p="0.005747"/>
+<freq name="T7a" p="0.000117"/>
+<freq name="O31[rotate=90]" p="0.000059"/>
+<freq name="M23[part]" p="0.000293"/>
+<freq name="R22[part]" p="0.000176"/>
+<freq name="A55" p="0.000235"/>
+<freq name="A57" p="0.000059"/>
+<freq name="A58" p="0.000117"/>
+<freq name="T9a[rotate=90]" p="0.000176"/>
+<freq name="D2" p="0.009970"/>
+<freq name="D3" p="0.000059"/>
+<freq name="D1" p="0.002756"/>
+<freq name="M8" p="0.000938"/>
+<freq name="M7" p="0.000117"/>
+<freq name="M6" p="0.000411"/>
+<freq name="M5" p="0.000117"/>
+<freq name="M4" p="0.001056"/>
+<freq name="M3" p="0.001935"/>
+<freq name="M2" p="0.000059"/>
+<freq name="M1" p="0.001408"/>
+<freq name="L1[part]" p="0.002522"/>
+<freq name="N7" p="0.000176"/>
+<freq name="N6" p="0.000117"/>
+<freq name="Z1[part]" p="0.001173"/>
+<freq name="N9" p="0.000176"/>
+<freq name="N8" p="0.000645"/>
+<freq name="Y1[part]" p="0.000586"/>
+<freq name="N1" p="0.001056"/>
+<freq name="N3" p="0.000059"/>
+<freq name="N2" p="0.000059"/>
+<freq name="N5" p="0.006334"/>
+<freq name="cartouche" p="0.004340"/>
+<freq name="O7" p="0.000528"/>
+<freq name="O6" p="0.000528"/>
+<freq name="O4" p="0.001994"/>
+<freq name="O1" p="0.006393"/>
+<freq name="A14[part]" p="0.000117"/>
+<freq name="K6[rotate=90]" p="0.000059"/>
+<freq name="A21[part]" p="0.000117"/>
+<freq name="Aa28" p="0.000117"/>
+<freq name="Aa27" p="0.000235"/>
+<freq name="P8" p="0.001525"/>
+<freq name="Aa22" p="0.000059"/>
+<freq name="P5" p="0.000117"/>
+<freq name="star" p="0.000997"/>
+<freq name="P4" p="0.000059"/>
+<freq name="P7" p="0.000235"/>
+<freq name="P6" p="0.001935"/>
+<freq name="P1" p="0.001232"/>
+<freq name="T32[part]" p="0.000117"/>
+<freq name="Aa30" p="0.000059"/>
+<freq name="O29[rotate=180]" p="0.000059"/>
+<freq name="Aa19" p="0.000059"/>
+<freq name="O44[part]" p="0.000117"/>
+<freq name="O50[part]" p="0.000117"/>
+<freq name="C8[part]" p="0.000117"/>
+<freq name="Aa11" p="0.001290"/>
+<freq name="I1" p="0.000352"/>
+<freq name="Aa15" p="0.005102"/>
+<freq name="Aa18" p="0.000235"/>
+<freq name="I6" p="0.000469"/>
+<freq name="I9" p="0.023049"/>
+<freq name="M17[part]" p="0.000645"/>
+<freq name="Q3[part]" p="0.000235"/>
+<freq name="W17[part]" p="0.000117"/>
+<freq name="U7[part]" p="0.000117"/>
+<freq name="A1[part]" p="0.000117"/>
+<freq name="D7[part]" p="0.000176"/>
+<freq name="O29a" p="0.000938"/>
+<freq name="K1" p="0.000293"/>
+<freq name="circle1_" p="0.002405"/>
+<freq name="star[part]" p="0.000235"/>
+<freq name="M15a" p="0.000059"/>
+<freq name="openbr[part]" p="0.000117"/>
+<freq name="circle" p="0.012844"/>
+<freq name="F21a" p="0.000645"/>
+<freq name="circle22" p="0.000059"/>
+<freq name="K5" p="0.000059"/>
+<freq name="circle23" p="0.000059"/>
+<freq name="W17a" p="0.000059"/>
+<freq name="K4" p="0.000235"/>
+<freq name="S3[part]" p="0.000117"/>
+<freq name="circle21" p="0.000059"/>
+<freq name="circle20" p="0.000235"/>
+<freq name="G1[part]" p="0.000293"/>
+<freq name="I1[part]" p="0.000235"/>
+<freq name="I9[part]" p="0.000293"/>
+<freq name="P6[part]" p="0.000117"/>
+<freq name="L1" p="0.002287"/>
+<freq name="D58[part]" p="0.000117"/>
+<freq name="L2" p="0.002874"/>
+<freq name="circle2_" p="0.000059"/>
+<freq name="L3" p="0.000059"/>
+<freq name="Aa7" p="0.000117"/>
+<freq name="Aa2" p="0.000528"/>
+<freq name="Aa1" p="0.010146"/>
+<freq name="W3" p="0.000176"/>
+<freq name="W4" p="0.000586"/>
+<freq name="G52" p="0.000059"/>
+<freq name="W1" p="0.000117"/>
+<freq name="N10" p="0.000059"/>
+<freq name="N11" p="0.000821"/>
+<freq name="G54" p="0.000235"/>
+<freq name="N12" p="0.001349"/>
+<freq name="O10" p="0.000059"/>
+<freq name="O11" p="0.000352"/>
+<freq name="G35[part]" p="0.000117"/>
+<freq name="O12" p="0.000059"/>
+<freq name="circle9" p="0.000117"/>
+<freq name="circle8" p="0.000293"/>
+<freq name="N14" p="0.001056"/>
+<freq name="circle7" p="0.000997"/>
+<freq name="circle6" p="0.000235"/>
+<freq name="circle5" p="0.000235"/>
+<freq name="N16" p="0.001525"/>
+<freq name="circle4" p="0.000176"/>
+<freq name="N18" p="0.000176"/>
+<freq name="circle2" p="0.000528"/>
+<freq name="V8" p="0.000117"/>
+<freq name="N17" p="0.005747"/>
+<freq name="V7" p="0.000352"/>
+<freq name="circle1" p="0.000704"/>
+<freq name="V6" p="0.000469"/>
+<freq name="V2" p="0.000293"/>
+<freq name="G40" p="0.001056"/>
+<freq name="F12" p="0.000176"/>
+<freq name="V4" p="0.000469"/>
+<freq name="V13[part]" p="0.000117"/>
+<freq name="G43" p="0.023987"/>
+<freq name="P8[rotate=270]" p="0.001466"/>
+<freq name="G41" p="0.000411"/>
+<freq name="V1" p="0.000938"/>
+<freq name="G47" p="0.000117"/>
+<freq name="D8a[part]" p="0.000235"/>
+<freq name="F32[part]" p="0.000117"/>
+<freq name="F17" p="0.000059"/>
+<freq name="G45" p="0.000117"/>
+<freq name="F18" p="0.000293"/>
+<freq name="F15" p="0.000059"/>
+<freq name="M3[part]" p="0.000235"/>
+<freq name="F16" p="0.000117"/>
+<freq name="G49" p="0.000059"/>
+<freq name="F13" p="0.000117"/>
+<freq name="V4[part]" p="0.000117"/>
+<freq name="U9" p="0.000235"/>
+<freq name="shade" p="0.004868"/>
+<freq name="U6" p="0.000645"/>
+<freq name="G40[part]" p="0.000293"/>
+<freq name="U7" p="0.001466"/>
+<freq name="Y4" p="0.000762"/>
+<freq name="Y1" p="0.009149"/>
+<freq name="Y5" p="0.006275"/>
+<freq name="O31" p="0.000293"/>
+<freq name="O32" p="0.000528"/>
+<freq name="O35" p="0.000528"/>
+<freq name="O34" p="0.006803"/>
+<freq name="N12[rotate=180]" p="0.000586"/>
+<freq name="O36" p="0.000293"/>
+<freq name="O39" p="0.000821"/>
+<freq name="C10a" p="0.000059"/>
+<freq name="X8" p="0.001525"/>
+<freq name="D4[part]" p="0.000176"/>
+<freq name="circle[part]" p="0.000293"/>
+<freq name="V37a" p="0.000059"/>
+<freq name="X1" p="0.074013"/>
+<freq name="X2" p="0.000059"/>
+<freq name="X3" p="0.000293"/>
+<freq name="X4" p="0.000235"/>
+<freq name="X6" p="0.000176"/>
+<freq name="A9[part]" p="0.000235"/>
+<freq name="O51[part]" p="0.000469"/>
+<freq name="O21" p="0.000059"/>
+<freq name="O22" p="0.000059"/>
+<freq name="O26" p="0.000117"/>
+<freq name="O25" p="0.000176"/>
+<freq name="O24" p="0.000117"/>
+<freq name="U22[rotate=270]" p="0.000059"/>
+<freq name="O23" p="0.000059"/>
+<freq name="O29" p="0.001818"/>
+<freq name="O28" p="0.000586"/>
+<freq name="W9" p="0.000293"/>
+<freq name="S40[part]" p="0.000117"/>
+<freq name="S2" p="0.000059"/>
+<freq name="S1" p="0.000117"/>
+<freq name="G39[part]" p="0.000117"/>
+<freq name="R8" p="0.004750"/>
+<freq name="R10a" p="0.000117"/>
+<freq name="M4[part]" p="0.000117"/>
+<freq name="R7" p="0.000293"/>
+<freq name="R4" p="0.002463"/>
+<freq name="W20" p="0.000059"/>
+<freq name="R5" p="0.000059"/>
+<freq name="R2" p="0.000059"/>
+<freq name="W22" p="0.001056"/>
+<freq name="T22[part]" p="0.000117"/>
+<freq name="W21" p="0.000059"/>
+<freq name="R3" p="0.000235"/>
+<freq name="cartouche[part]" p="0.000235"/>
+<freq name="W24" p="0.005337"/>
+<freq name="W25" p="0.001525"/>
+<freq name="X4b" p="0.000880"/>
+<freq name="Q2[mirror]" p="0.000176"/>
+<freq name="so" p="0.000469"/>
+<freq name="D36[part]" p="0.000117"/>
+<freq name="Q6" p="0.000117"/>
+<freq name="Q7" p="0.000176"/>
+<freq name="Q1" p="0.001642"/>
+<freq name="Q3" p="0.008914"/>
+<freq name="S29[part]" p="0.001056"/>
+<freq name="G37[part]" p="0.000176"/>
+<freq name="N37a" p="0.000059"/>
+<freq name="F46a" p="0.000059"/>
+<freq name="U1" p="0.002580"/>
+<freq name="T7" p="0.000059"/>
+<freq name="W16[mirror]" p="0.000059"/>
+<freq name="T8" p="0.000059"/>
+<freq name="E1[part]" p="0.000352"/>
+<freq name="Z4[part]" p="0.010557"/>
+<freq name="T3" p="0.000645"/>
+<freq name="T2" p="0.000117"/>
+<freq name="F37a" p="0.000235"/>
+<freq name="S3" p="0.001583"/>
+<freq name="W11" p="0.001877"/>
+<freq name="V16" p="0.000352"/>
+<freq name="S4" p="0.000117"/>
+<freq name="W10" p="0.000645"/>
+<freq name="V15" p="0.000293"/>
+<freq name="D8[part]" p="0.000235"/>
+<freq name="V13" p="0.002756"/>
+<freq name="Aa11[rotate=270]" p="0.001466"/>
+<freq name="S9" p="0.000117"/>
+<freq name="I6[part]" p="0.000117"/>
+<freq name="V17" p="0.000059"/>
+<freq name="U19[part]" p="0.000117"/>
+<freq name="V1[part]" p="0.000117"/>
+<freq name="W19" p="0.002229"/>
+<freq name="W17" p="0.000821"/>
+<freq name="V12" p="0.000117"/>
+<freq name="W15" p="0.000176"/>
+<freq name="W14" p="0.002580"/>
+<freq name="W12" p="0.000117"/>
+<freq name="M13" p="0.000645"/>
+<freq name="V22" p="0.001290"/>
+<freq name="M12" p="0.000880"/>
+<freq name="V20" p="0.002874"/>
+<freq name="P8[rotate=90]" p="0.000235"/>
+<freq name="V28" p="0.004985"/>
+<freq name="R19[part]" p="0.000117"/>
+<freq name="V29" p="0.000704"/>
+<freq name="V26" p="0.000059"/>
+<freq name="V24" p="0.000117"/>
+<freq name="V25" p="0.000352"/>
+<freq name="T28" p="0.001173"/>
+<freq name="T25" p="0.000117"/>
+<freq name="M18" p="0.000059"/>
+<freq name="T22" p="0.000821"/>
+<freq name="T21" p="0.000645"/>
+<freq name="M16" p="0.001408"/>
+<freq name="M17" p="0.030204"/>
+<freq name="V29[part]" p="0.000117"/>
+<freq name="M15" p="0.000059"/>
+<freq name="V31" p="0.005572"/>
+<freq name="D19" p="0.000117"/>
+<freq name="P11" p="0.000235"/>
+<freq name="V30" p="0.007683"/>
+<freq name="D17" p="0.000059"/>
+<freq name="Aa15[part]" p="0.000469"/>
+<freq name="unk" p="0.000469"/>
+<freq name="V36" p="0.000176"/>
+<freq name="T34" p="0.000176"/>
+<freq name="T30" p="0.000059"/>
+<freq name="T32" p="0.000117"/>
+<freq name="P10" p="0.000059"/>
+<freq name="T31" p="0.000293"/>
+<freq name="G43[part]" p="0.001349"/>
+<freq name="M30" p="0.000117"/>
+<freq name="M34" p="0.000059"/>
+<freq name="N16[part]" p="0.001114"/>
+<freq name="U40" p="0.000176"/>
+<freq name="M36" p="0.000411"/>
+<freq name="Y5[part]" p="0.000469"/>
+<freq name="M20" p="0.000059"/>
+<freq name="M22" p="0.001525"/>
+<freq name="M24" p="0.000645"/>
+<freq name="M23" p="0.008445"/>
+<freq name="M1a" p="0.000176"/>
+<freq name="I5a" p="0.000469"/>
+<freq name="M26" p="0.000059"/>
+<freq name="M27" p="0.000176"/>
+<freq name="M29" p="0.000411"/>
+<freq name="G18[part]" p="0.000117"/>
+<freq name="D46" p="0.007038"/>
+<freq name="S40" p="0.000117"/>
+<freq name="D44" p="0.000059"/>
+<freq name="Aa7[mirror]" p="0.000411"/>
+<freq name="D45" p="0.000821"/>
+<freq name="R2a" p="0.000059"/>
+<freq name="Aa11[mirror]" p="0.001056"/>
+<freq name="D43" p="0.000117"/>
+<freq name="D40" p="0.006334"/>
+<freq name="D41" p="0.000235"/>
+<freq name="I12" p="0.000586"/>
+<freq name="Z5a" p="0.000059"/>
+<freq name="I13" p="0.000176"/>
+<freq name="I10" p="0.004516"/>
+<freq name="I15" p="0.000059"/>
+<freq name="D49" p="0.000821"/>
+<freq name="G14" p="0.001114"/>
+<freq name="U28" p="0.001525"/>
+<freq name="Y1a" p="0.003050"/>
+<freq name="D60[part]" p="0.001114"/>
+<freq name="U28[part]" p="0.003108"/>
+<freq name="O51" p="0.000880"/>
+<freq name="G18" p="0.000293"/>
+<freq name="O50" p="0.000880"/>
+<freq name="G17" p="0.018533"/>
+<freq name="F44" p="0.000176"/>
+<freq name="F41" p="0.000059"/>
+<freq name="U23" p="0.000586"/>
+<freq name="U22[rotate=90]" p="0.000117"/>
+<freq name="M3[rotate=90]" p="0.000117"/>
+<freq name="F40" p="0.000352"/>
+<freq name="S43" p="0.000528"/>
+<freq name="U24" p="0.000117"/>
+<freq name="S42" p="0.001408"/>
+<freq name="U21" p="0.000176"/>
+<freq name="U22" p="0.000528"/>
+<freq name="C16" p="0.000059"/>
+<freq name="D55" p="0.000059"/>
+<freq name="D56" p="0.000880"/>
+<freq name="D58" p="0.005689"/>
+<freq name="D52" p="0.000411"/>
+<freq name="D53" p="0.000176"/>
+<freq name="D54" p="0.005396"/>
+<freq name="O49" p="0.002932"/>
+<freq name="M43" p="0.000059"/>
+<freq name="M44" p="0.000117"/>
+<freq name="D21[part]" p="0.000117"/>
+<freq name="C10" p="0.000059"/>
+<freq name="M40" p="0.000293"/>
+<freq name="M41" p="0.000117"/>
+<freq name="M42" p="0.001466"/>
+<freq name="O48" p="0.000059"/>
+<freq name="U36" p="0.005278"/>
+<freq name="Z1" p="0.102692"/>
+<freq name="O44" p="0.000411"/>
+<freq name="U38" p="0.000059"/>
+<freq name="N35[part]" p="0.001408"/>
+<freq name="O40" p="0.000117"/>
+<freq name="Z9" p="0.001232"/>
+<freq name="Z8" p="0.000176"/>
+<freq name="N41" p="0.001642"/>
+<freq name="Z7" p="0.000117"/>
+<freq name="U30" p="0.000176"/>
+<freq name="E17" p="0.000059"/>
+<freq name="N40" p="0.000059"/>
+<freq name="D60" p="0.000586"/>
+<freq name="U32" p="0.000117"/>
+<freq name="N42" p="0.000235"/>
+<freq name="Z4" p="0.005572"/>
+<freq name="U33" p="0.001525"/>
+<freq name="F51" p="0.000938"/>
+<freq name="D21" p="0.029969"/>
+<freq name="N37" p="0.002580"/>
+<freq name="D25" p="0.000059"/>
+<freq name="N35" p="0.063515"/>
+<freq name="N36" p="0.000469"/>
+<freq name="D28" p="0.003284"/>
+<freq name="L2[part]" p="0.000762"/>
+<freq name="D27" p="0.000176"/>
+<freq name="F1a" p="0.000059"/>
+<freq name="C22" p="0.000176"/>
+<freq name="E24" p="0.000059"/>
+<freq name="F27" p="0.000059"/>
+<freq name="E23" p="0.000059"/>
+<freq name="F26" p="0.000117"/>
+<freq name="U36[part]" p="0.000117"/>
+<freq name="G39" p="0.002405"/>
+<freq name="F25" p="0.001583"/>
+<freq name="E22" p="0.000059"/>
+<freq name="G38" p="0.000176"/>
+<freq name="E20" p="0.000059"/>
+<freq name="G37" p="0.001525"/>
+<freq name="R22" p="0.000059"/>
+<freq name="G36" p="0.002346"/>
+<freq name="F29" p="0.000059"/>
+<freq name="G35" p="0.000352"/>
+<freq name="R20" p="0.000059"/>
+<freq name="G34" p="0.000059"/>
+<freq name="N34" p="0.000235"/>
+<freq name="N33" p="0.006334"/>
+<freq name="G32" p="0.000059"/>
+<freq name="G30" p="0.000059"/>
+<freq name="G17[part]" p="0.000235"/>
+<freq name="N31" p="0.000293"/>
+<freq name="circle_7" p="0.000059"/>
+<freq name="N30" p="0.000469"/>
+<freq name="F22" p="0.000469"/>
+<freq name="F20" p="0.002522"/>
+<freq name="N28" p="0.000528"/>
+<freq name="A51[part]" p="0.000117"/>
+<freq name="N29" p="0.004516"/>
+<freq name="D33" p="0.000411"/>
+<freq name="N24" p="0.000176"/>
+<freq name="N25" p="0.002580"/>
+<freq name="D34" p="0.000293"/>
+<freq name="N26" p="0.000235"/>
+<freq name="D35" p="0.002287"/>
+<freq name="D36" p="0.012609"/>
+<freq name="N27" p="0.000117"/>
+<freq name="D37" p="0.003108"/>
+<freq name="G54[part]" p="0.000117"/>
+<freq name="D38" p="0.000528"/>
+<freq name="NU8" p="0.000059"/>
+<freq name="A19[part]" p="0.000117"/>
+<freq name="D39" p="0.000059"/>
+<freq name="serekh" p="0.000117"/>
+<freq name="G28" p="0.000352"/>
+<freq name="U19" p="0.000117"/>
+<freq name="G27" p="0.000117"/>
+<freq name="F35" p="0.003284"/>
+<freq name="D40[part]" p="0.000117"/>
+<freq name="G29" p="0.000704"/>
+<freq name="E34" p="0.001290"/>
+<freq name="T11" p="0.000117"/>
+<freq name="G23" p="0.000176"/>
+<freq name="T12" p="0.000235"/>
+<freq name="U15" p="0.000586"/>
+<freq name="F39" p="0.000235"/>
+<freq name="U16" p="0.000059"/>
+<freq name="G26" p="0.000352"/>
+<freq name="E31" p="0.000117"/>
+<freq name="D27a" p="0.000117"/>
+<freq name="U17" p="0.000293"/>
+<freq name="T14" p="0.001525"/>
+<freq name="G25" p="0.000704"/>
+<freq name="N21" p="0.002639"/>
+<freq name="T15" p="0.000176"/>
+<freq name="F29[mirror]" p="0.000059"/>
+<freq name="U11" p="0.000059"/>
+<freq name="F30" p="0.000235"/>
+<freq name="N23" p="0.001349"/>
+<freq name="T17" p="0.000176"/>
+<freq name="U13" p="0.000235"/>
+<freq name="T18" p="0.000821"/>
+<freq name="G21" p="0.000117"/>
+<freq name="T19" p="0.000117"/>
+<freq name="F32" p="0.000704"/>
+<freq name="F31" p="0.002111"/>
+<freq name="F34" p="0.002580"/>
+<freq name="U32[part]" p="0.000117"/>
+<freq name="C2a" p="0.000059"/>
+<prefer less="G4" more="G1"/>
+<prefer less="G38" more="G39"/>
+<prefer less="O50" more="N5"/>
+<prefer less="S21" more="N5"/>
+<prefer less="X6" more="N5"/>
+<prefer less="N16" more="N17"/>
+<prefer less="Z15" more="Z1"/>
+</paleo>

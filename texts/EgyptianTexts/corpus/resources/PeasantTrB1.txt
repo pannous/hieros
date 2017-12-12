@@ -1,0 +1,2280 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2015-08-06
+version = B1
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for The Eloquent Peasant, following
+the transcription of Parkinson (1991). Version B1 is given where it is
+the main version, or where it differs substantially from the other
+versions.
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Lichtheim (1975), pp. 169-184;
+Parkinson (1997), pp. 54-88; Simpson (1972), pp. 31-49. Further,
+Goedicke (1998) covers the second petition (the text from B1 119 to B1
+170); Zonhoven (1992), pp. 271-272, covers the text up to B1 119. Also
+considered where the examples from Allen (2000), Gardiner (1957),
+Graefe (1994) and Loprieno (1995).
+
+###
+
+J.P. Allen. <i>Middle Egyptian: An Introduction to the Language and
+Culture of Hieroglyphs</i>. Cambridge University Press, 2000.
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+A. Gardiner. <i>Egyptian Grammar</i>. Griffith Institute, Ashmolean
+Museum, Oxford, 1957.
+
+H. Goedicke. Comments Concerning the &quot;Story of the Eloquent
+Peasant&quot;. <i>Zeitschrift für ägyptische Sprache und
+Altertumskunde</i>, 125:109-125, 1998.
+
+E. Graefe. <i>Mittelägyptische Grammatik für Anfänger</i>.
+Harrassowitz Verlag, Wiesbaden, 1994.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+A. Loprieno. <i>Ancient Egyptian: a linguistic introduction</i>.
+Cambridge University Press, 1995.
+
+M. Lichtheim. <i>Ancient Egyptian Literature -- Volume I: The Old and
+Middle Kingdoms</i>. University of California Press, 1975.
+
+R.B. Parkinson. <i>The Tale of the Eloquent Peasant</i>. Griffith
+Institute, Ashmolean Museum, Oxford, 1991.
+
+R.B. Parkinson. <i>The Tale of Sinuhe and Other Ancient Egyptian Poems
+1940-1640 BC</i>. Oxford University Press, 1997.
+
+W.K. Simpson (editor). <i>The Literature of Ancient Egypt: An
+Anthology of Stories, Instructions, and Poetry</i>. Yale University
+Press, 1972.
+
+L.M.J. Zonhoven. <i>Middel-Egyptische Grammatica: Een Praktische
+Inleiding in de Egyptische Taal en het Hiërogliefenschrift</i>.
+Leiden, 1992.
+
+###
+
+<33><@10b> n xnd=k Hr Hbsw=j
+;
+<33><@1> you will not step on my clothes!'
+
+Dd.jn sxtj <34> pn
+;
+And this peasant said:
+
+jry=j Hst=k nfr mTn=j
+;
+'I shall do what you wish; my way is good.'
+
+<35> prt pw jr.n=f r Hrw
+;
+<35> And he went up higher.
+
+Dd.jn ^nmtj-nxt pn
+;
+Then this Nemtinakht said:
+
+<36> jn-jw n=k Sma=j r wAt
+;
+<36> 'Is my Upper-Egyptian barley to be a path for you?'
+
+Dd.jn sxtj pn
+;
+And this peasant said:
+
+nfr <37> mTnw=j
+;
+'My ways are good;
+
+jxmt qA.tj m<38>Tnw Xr Sma
+;
+the bank is steep, and <38^pre>the ways<38^post> are under barley
+
+Hn=k rf wAt{t}<39>=n m Hbsw=k
+;
+for you block <39^pre>our path<39^post> with your clothes!
+
+jn nn rf Dj=k swA=n <40> Hr wAt 
+;
+Will you then not allow us to pass <40> on the path?<@27>' <@11c>
+
+<@11d> aHa.n mH.n wa m nA n aA
+;
+<@2>Then one of the donkeys filled
+
+<41> rA=f m bAt nt Sma
+;
+<41> its mouth with a wisp of barley.
+
+Dd.jn ^nmtj-nxt pn
+;
+And this Nemtinakht said:
+
+<42><@11e> mk wj r nHm aA=k sxtj
+;
+<42> 'Look, I shall take away your donkey, peasant,
+
+<@11f> Hr <43> wnm=f Sma=j
+;
+because <43> it ate my barley.
+
+<@11g> mk sw r hbt Hr qn=f
+;
+<@3>It will tread (grain) for its offence.'
+
+<44> Dd.jn sxtj pn
+;
+<44> This peasant then said:
+
+nfr mTnw=j
+;
+'My ways are good!
+
+wat <45> HD.tw=s<note>What Parkinson (1991;1997) reads as <al>10</al>
+is here taken as <al>=s</al>.</note>
+;
+A single thing <45> has been destroyed;
+
+jnn=j aA=j Hr Sna 10
+;
+I will buy my donkey back for 10 times the value
+
+jT=k sw <46> Hr mHw n rA=f m bAt nt Sma
+;
+if you take it away <46> for filling its mouth with a wisp of barley.
+
+jw=j grt <47> rx.kw nb n spAt tn
+;
+Now, I <47> know the lord of this district;
+
+nj sj jmj-rA pr wr ^mrw sA <48> ^rnsj
+;
+it belongs to the high steward <48^pre>Rensi, son of Meru.<48^post>
+
+ntf grt xsf awA nb m tA pn r-<49>Dr=f
+;
+He is the one who restrains every thief in this entire land.
+
+jn awA.tw=j rf m spAt=f
+;
+Shall I now be robbed in his district?'
+
+Dd.jn ^nmtj-nxt <50> pn
+;
+Then this Nemtinakht <50> said:
+
+jn pA pw xn n mdt Ddw rmT
+;
+'Is this not the proverb that people say:
+
+<51> dm.tw rn n Hwrw
+;
+<51> &quot;One mentions the name of a commoner
+
+Hr nb=f
+;
+only on account of his lord.&quot;?
+
+jnk <52> pw mdw n=k
+;
+I <52> am the one who is speaking to you,
+
+jmj-rA pr wr pw sxAy=k
+;
+and it is the high steward whom you are referring to.'
+
+<53> aHa.n TA.n=f n=f jAAyt nt jsr wAD <54> r=f
+;
+<53> Then, he took a rod of fresh tamarisk <54> to him,
+
+aHa.n aAg=f at=f nb jm=s
+;
+and he thrashed all his limbs with it,
+
+nHm aAw=f <55> saq r spAt=f
+;
+took his donkeys away <55> and drove them to his district.
+
+wn.jn sxtj pn Hr <56> rmyt aAw wrt
+;
+Then this peasant proceeded to <56> wail very loudly
+
+n-mr-n jrryt r=f
+;
+on account of the wickedness of what was done to him.
+
+<57> Dd.jn ^nmtj-nxt pn
+;
+<57> But this Nemtinakht then said:
+
+m qA xrw=k sxtj
+;
+'Do not raise your voice, peasant,
+
+<58> mk Tw r dmj n nb sgr
+;
+<58> or you will go to the abode of the Lord of Silence.'
+
+Dd.jn sxtj pn <59> Hw=k wj awA=k Hnw=j
+;
+Then this peasant said: <59> 'You beat me, you rob my goods,
+
+nHm=k rf <60> nxwt m rA=j
+;
+and you even deprive me of <60> the lament from my mouth!
+
+nb sgr Dj=k rk n=j <61> jxt=j
+;
+Lord of Silence, may you give me back <61> my things,
+
+jx tm=j sbH
+;
+so that I need not scream
+
+<@14b> nr=k
+;
+to startle you.'
+
+<62><@14c> jr.jn sxtj pn aHaw {10} r hrw 10
+;
+<62><@4> Then this peasant spent a period of 10 days
+
+Hr spr n <63> ^nmtj-nxt pn
+;
+pleading with <63> this Nemtinakht,
+
+n rDj=f mAa=f r=s
+;
+but he did not pay attention to it.
+
+<@14d> Smt pw <64> jr.n sxtj pn
+;
+This peasant then went
+
+<@14e> r ^nnj-nsw r spr
+;
+<@5>to Herakleopolis in order to plead
+
+n jmj-rA pr wr <65> ^mrw sA ^rnsj
+;
+with the high steward <65> Rensi, son of Meru.
+
+gm.n=f sw Hr prt m sbA <66> n pr=f
+;
+He found him emerging from the door <66> of his house,
+
+r hAt r qAqAw=f n arr<67>yt
+;
+to step into his official boat.
+
+Dd.jn sxtj pn
+;
+And this peasant said:
+
+HA rDj.tw swDA<68>=j jb=k
+;
+'May I be allowed to inform you
+
+Hr pA xn n mdt
+;
+about this grievance.
+
+sp pw <69> rDj.tw jwt n=j Smsw=k n xrt-jb=k
+;
+Perhaps <69> one may have a servant of your choice come to me,
+
+hAb=j <70> n=k sw Hr=s
+;
+so that I may have him report to you about it.'
+
+rDj.jn jmj-rA pr wr ^mrw sA ^rnsj
+;
+And the high steward Rensi, son of Meru, had
+
+<71> Sm Smsw=f n xrt-jb=f tp-jm=f
+;
+<71> a servant of his choice go to him,
+
+hAb <72> sw sxtj pn
+;
+and this peasant had him report back
+
+Hr mdt tn mj qj<73>=s nb
+;
+about this entire matter.
+
+wn.jn jmj-rA pr wr ^mrw sA ^rnsj Hr srxt
+;
+Then the high steward Rensi, son of Meru, accused
+
+<74> ^nmtj-nxt pn n srw ntj r-gs=f
+;
+<74> this Nemtinakht to the officials who were with him.
+
+Dd.jn=sn <75> n=f
+;
+But then they said <75> to him:
+
+smwn sxtj=f pw jw n ky r-gs=f
+;
+'Perhaps it is a peasant of his who went to someone else beside him.
+
+<76> mk jrrt=sn pw r sxtjw=sn
+;
+<76> Look, that is what they do to peasants of theirs
+
+jww n <77> kt-xt r-gs=sn
+;
+who have gone to <77> others beside them.
+
+mk jrrt=sn pw
+;
+That is what they do.
+
+sp pw n <78> xsf.tw n ^nmtj-nxt pn
+;
+Is this a cause for <78> punishing this Nemtinakht,
+
+Hr nh n Hsmn <79> Hna nh n HmAt
+;
+on account of a little natron <79> and a little salt?
+
+wD.tw n=f DbA <80> st DbA=f st
+;
+If he is ordered to replace <80> it, then he will replace it.'
+
+gr pw jr.n <81> jmj-rA pr wr ^mrw sA ^rnsj
+;
+But the high steward Rensi, son of Meru, remained silent.
+
+n wSb=f <82> n nn n srw
+;
+He did not answer <82> these officials,
+
+wSb=f n sxtj pn
+;
+nor did he answer this peasant.
+
+<83><@16f> jw.jn rf sxtj pn
+;
+<83> Then this peasant came
+
+<@16g> r spr n
+;
+to plead with
+
+<@17a> jmj-rA pr wr ^mrw sA <84> ^rnsj
+;
+<@8>the high steward <84^pre>Rensi, son of Meru<@6>.<84^post> <@17b>
+
+<@17c> Dd=f
+;
+<@7>He said:
+
+<@17d> jmj-rA pr wr nb=j wr n wrw
+;
+'High steward, my lord, greatest of the great,
+
+<85><@17e> sSmw n jwtt ntt
+;
+<85><@9> leader of all that is not and all that is,
+
+jr hA=k r S n <86> mAat
+;
+if you go down to the Lake of <86> Truth,
+
+sqd=k jm=f m mAaw
+;
+you will sail on it with a fair wind,
+
+<87> nn kf ndbyt HtA=k
+;
+<87> the bunt will not strip away your sail,
+
+nn jh<88>m dpwt=k
+;
+your ship will not lag,
+
+nn jwt jyt m xt=k
+;
+no disaster will befall your rudder stock,
+
+nn <89> swA sgrgw=k
+;
+your yards will not break,
+
+nn sxm=k HAaa=k Hr tA
+;
+you will not founder when you land,
+
+<90> nn jT Tw nwt
+;
+<90> no wave will carry you off,
+
+nn dp=k Dwt <91> nt jtrw
+;
+you will not taste the evil <91> of the river,
+
+nn mA=k Hr snD
+;
+you will not see the face of fear,
+
+jw n=k <92> rmw Snayw
+;
+but shy fish will come to you
+
+pH=k m Apd <93> DdA
+;
+and you will catch fatted fowl.
+
+Hr ntt ntk jt n nmH
+;
+For you are a father to the orphan,
+
+<94> hAj n xArt
+;
+<94> a husband to the widow,
+
+sn n wDat
+;
+a brother to the divorced
+
+SnDyt <95> nt jwtw mwt=f
+;
+and an apron <95> to the motherless.
+
+jm jry=j rn=k m <96> tA pn r hp nb nfr
+;
+Let me make your name in <96> this land according to every good rule:
+
+sSmw Sw <97> m awn-jb
+;
+leader free <97> of greed,
+
+wr Sw m nDyt
+;
+great one free of arrogance,
+
+<98> sHtm grg sxpr mAat
+;
+<98> destroyer of falsehood, creator of truth,
+
+<@18f> jj Hr <99> xrw DD-rA
+;
+one who comes at <99> the voice of the caller.
+
+<@18g> Dd=j sDm=k
+;
+<@10>I speak so that you will hear.
+
+jr mAat
+;
+Do justice,
+
+Hs<100>y Hss Hsyw
+;
+praised one whom the praised praise!
+
+<@19a> dr sA<101>r
+;
+Relieve the distress,
+
+<@19b> mk wj <@19c> ATp.kw 
+;
+for I <@19d> am burdened<@28>! <@19e>
+
+<@19f> jp <102> wj mk wj <@19g> m nhw
+;
+<@11>Examine <102> me, I am at a loss!'
+
+<@19h> jsT rf <103> Dd.n sxtj pn mdt tn
+;
+<@12>Now, <103> this peasant said these words
+
+m rk Hm n nsw-bjtj <104> ^nb-kAw-^ra mAa-xrw
+;
+in the time of the majesty of the king of Upper and Lower Egypt <104>
+Nebkaure, justified.
+
+Smt pw jr.n jmj-rA pr wr <105> ^mrw sA ^rnsj
+;
+The high steward Rensi, son of Meru, then went
+
+tp-m Hm=f Dd=f
+;
+before His Majesty and said:
+
+nb=j jw <106> gm.n=j wa m nn n sxtj nfr mdw n <107> wn-mAa
+;
+'My lord, <106> I have found one of these peasants who is truly
+eloquent.
+
+awA Hnw=f 
+;
+His goods have been robbe<@29>d <@20a>
+
+<@20b> mk <108> sw jw.w r spr n=j Hr=s
+;
+<@13>and <108> he has come to plead with me about it.'
+
+<109> Dd.jn Hm=f
+;
+<109> And His Majesty said:
+
+m mrr=k mA=j snb.kw
+;
+As you wish to see me in health,
+
+swdf=k sw <110> aA
+;
+you will delay him <110> here
+
+nn wSb r Ddt=f nbt
+;
+without answering anything he says.
+
+jn-mrwt wn=f <111> Hr Dd gr
+;
+So that he keeps <111> speaking, remain silent.
+
+<@20c> jx jn.tw n=n
+;
+Then it will be brought to us
+
+<@20d> m sS
+;
+in writing
+
+<@20e> sDm=n st
+;
+so that we may hear it.
+
+<112><@20f> jr swt anx Hmt=f
+;
+<112> But provide sustenance for his wife
+
+<@20g> Hna Xrdw=f
+;
+and children.
+
+mk jw wa m nA <113> n sxtj
+;
+That one of these peasants comes here
+
+r Swt pr=f r tA 
+;
+is because his house is empty<@30>. <@20h>
+
+<@21a> jr grt anx sxtj pn <114><@21b> m-Haw=f
+;
+Furthermore, provide sustenance for this peasant <114><@21c> himself.
+
+<@21d> wnn=k Hr rDjt Dj.tw n=f aqw
+;
+You will let the provisions be given to him
+
+<@21e> nn rDjt rx=f
+;
+without letting him know
+
+<115><@21f> ntt ntk rDj n=f st 
+;
+<115> that it is you who gave them to him.<@31>' <@21g>
+
+<@21h> wn.jn.tw Hr rDjt n=f t 10 Hnqt ds 2 <116> ra nb
+;
+<@35>And he was given ten loaves of bread and two jars of beer <116>
+every day.
+
+DD st jmj-rA pr wr ^mrw sA ^rnsj
+;
+The high steward Rensi, son of Meru, gave them,
+
+DD=f st n xnms=f ntf <117> DD n=f st
+;
+but he gave them to a friend of his, and it was he <117> who gave them
+to him.
+
+aHa.n hAb.n jmj-rA pr wr ^mrw sA ^rnsj
+;
+Then the high steward Rensi, son of Meru, sent a message
+
+n HqA-Hwt n <118> ^sxt-HmAt
+;
+to the mayor of <118> the Wadi Natrun
+
+Hr jrt aqw n Hmt sxtj pn
+;
+about making provisions for the wife of this peasant,
+
+m jt HqAt 3 ra nb 
+;
+consisting of three gallons of barley every day<@32>. <@21k>
+
+<119><@22a> jw.jn rf sxtj pn r spr n=f sp 2 
+;
+<119> Then this peasant came to plead with him for a second time<@33>,
+<@22b>
+
+<@22c> Dd=f jmj-rA pr wr nb=j wr n wrw
+;
+<@34>and said: 'High steward, my lord, greatest of the great,
+
+<120> xwd n xwdw
+;
+<120> richest of the rich,
+
+ntj wn wr n wrw=f
+;
+whose great ones have one greater,
+
+xwd n <121> xwdw=f
+;
+whose rich ones have one richer,
+
+Hmw n pt <122> sAw n tA
+;
+rudder of heaven, <122> beam of earth,
+
+xAy fA wdnw
+;
+plumb-line that carries the weight!
+
+Hmw m sbn
+;
+Rudder, do not deviate!
+
+<123> sAw m gsA
+;
+<123> Beam, do not tilt!
+
+xAy m jr nwdw
+;
+Plumb-line, do not swing awry!
+
+nb wr <124> Hr jTt m jwtt nb=s
+;
+A great lord <124> takes what is without owner
+
+Hr HaDA Hr wa
+;
+and robs only that.
+
+Xrt=k m pr=k
+;
+Your possessions are in your house.
+
+<125> Hnqt hnw Hna t 3
+;
+<125> Half a litre of beer and three loaves of bread,
+
+ptr pnqt=k m ssAt twA<126>w=k
+;
+what is it you expend to satisfy your dependants?
+
+jn mwt mwt Hna Xrw=f
+;
+A mortal man dies along with his underlings,
+
+jn-jw=k r s n nHH
+;
+or will you be a man of eternity?
+
+n jw <127> js pw
+;
+Is it not wrong,
+
+jwsw gsAw tx nnm
+;
+a balance that is crooked, the pointer of a balance that errs,
+
+mtj <128> mAa xpr m tnbX
+;
+a truly correct man who strays?
+
+mk mAat wtx=s Xr=k
+;
+Look, justice is fleeing from you,
+
+nS.tj m <129> st=s
+;
+expelled from <129> its place.
+
+srw Hr jrt jyt
+;
+Officials are doing evil,
+
+tp-Hsb n mdt Hr rDjt Hr gs
+;
+the norm of speech is biased
+
+<130> sDmyw Hr xnp jTt=f
+;
+<130> and judges are carrying off what it seizes.
+
+sjATj pw n mdt m aqA=s
+;
+This means that he who twists speech from its correct sense
+
+Hr <131> jrt rf nwdw jm=s
+;
+is <131> acting corruptly thereby.
+
+rDj TAw Hr gAt Hr tA
+;
+He who should give breath is suffocating on the ground,
+
+srfw <132> Hr rDjt nSp.tw
+;
+he who should rest <132> is making people pant,
+
+psSw m awnw
+;
+the arbitrator is a cheat,
+
+dr sAr<133>{r} m wD jrt=f
+;
+he who should relieve distress is ordering its creation,
+
+dmj m wDnw=f
+;
+the harbour is flooded,
+
+xsf jw Hr <134> jrt jyt
+;
+he who should punish injustice is <134> doing evil.'
+
+Dd.jn jmj-rA pr wr ^mrw sA ^rnsj
+;
+Then the high steward Rensi, son of Meru, said:
+
+jn aAt pw n=k <135> jmy Hrj-jb=k
+;
+'Is what is on your mind of greater concern to you
+
+r jT Tw Smsw=j
+;
+than that my servant might seize you?'
+
+Dd.jn sxtj pn
+;
+But this peasant said:
+
+xAw n <136> aHaw Hr sjAT n=f
+;
+'He who measures <136> heaps (of corn) is pilfering for himself;
+
+mH n ky Hr hqs hAw=f
+;
+he who fills for another is withholding from his amount;
+
+sSm r <137> hpw Hr wD awAt
+;
+he who should govern according to <137> the laws is ordering theft.
+
+nm jrf xsf=f bw-Hwrw
+;
+Who then will repel evil?
+
+dr <138> nw Hr jrt nwdw
+;
+He who should dispel <138> weakness is acting corruptly;
+
+aqA ky Hr xAbb
+;
+he who should correct another is being crooked;
+
+<139> wfA ky jr jyt
+;
+<139> he who should reproach another is an evildoer.
+
+tr gm=k rk n=k
+;
+Do you find anything for yourself?
+
+Hwa xsf Aw <140> jyt
+;
+Redress is short but evil is long.
+
+jw bj r st=f nt sf
+;
+A good deed returns to its place of yesterday.
+
+wD rf pw
+;
+This is the precept:
+
+jr n jrr <141> r rDjt jr=f
+;
+act for him who acts, <141> to make him act;
+
+dwA-nTr n=f pw Hr jrrt=f
+;
+it is thanking him for what he does;
+
+njt jxt pw tp-a <142> st
+;
+it is parrying a thing before <142> shooting;
+
+wD jxt pw n nb Hnt
+;
+it is commissioning something from a craftsman.
+
+HA A At sHtm<143>=s
+;
+Would that a moment would destroy,
+
+pna m rwj=k
+;
+havoc in your vineyard,
+
+anD m Apdw=k
+;
+decimation of your birds,
+
+xbA <144> m qbHw=k
+;
+destruction <144> among your water-fowl!
+
+pr mAw Sp jrwt
+;
+He who should see has turned blind,
+
+sDmw sXw
+;
+one who should hear deaf,
+
+<145> sSmw xpr(.w) m stnmw
+;
+<145> and one who should lead has gone astray.
+
+<146> anbrw jn tr snb.n=k
+;
+<146> Basket<note>Uncertain, but not altogether implausible if meant
+figuratively as &quot;someone accumulating wealth&quot;; cf. B1
+164.</note>! Have you (not) gone too far?
+
+jrr=k r=k jrf r-<147>m
+;
+Why do you act against yourself?
+
+mk Tw nxt(.tj) wsr.tj a=k pr(.w)
+;
+Look, you are strong and powerful, your arm is strenuous,
+
+<148> jb=k awn(.w)
+;
+<148> but your heart is greedy
+
+sf swA(.w) Hr=k
+;
+and mercy has left you.
+
+nx.wj <149> mAr sky=k
+;
+How lamentable <149> is the poor man you ruin!
+
+twt=k n <150> wpwtj n ^xntj
+;
+You are like <150> the messenger of Khenty.
+
+mk Tw swA.tj Hr <151> nbt jAdw
+;
+Look, you surpass <151> the Lady of Pestilence;
+
+nn n=k nn n=s
+;
+if something is not for you, it is not for her;
+
+nn (r)=s nn r=k
+;
+if something is not against her, it is not against you;
+
+<152> n jrr=k st n jrr=s st
+;
+<152> if you won't do it, she won't do it.
+
+sf nb t
+;
+Who possesses bread should be merciful
+
+nxt n <153> xnr
+;
+whereas brutality is for <153> the criminal.
+
+twt TAwt n jwtw jxt=f
+;
+Theft suits those without belongings,
+
+<154> xnp jxt jn xnr
+;
+<154> things are robbed by a criminal.
+
+sp bjn jwtj Swjw
+;
+But an evil act of someone without need,
+
+<155> nn rf Ts.tw jm=f
+;
+<155> is he not to be rebuked?
+
+HH n=f pw
+;
+It is self-seeking.
+
+jw=k swt sA.tj <156> m t=k
+;
+But you are sated <156> with your bread
+
+tx.tj m Hnqt=k
+;
+and drunk with your beer,
+
+jw=k xwd.tj m sSrw <157> nbw
+;
+and you are rich in every respect.
+
+jw Hr n Hmy r-HAt
+;
+While the face of the helmsman is forward,
+
+sbn dpt r <158> mrr=s
+;
+the ship deviates as <158> it pleases.
+
+jw nsw m xntj
+;
+While the king is in the stateroom
+
+jw Hmw m a=k
+;
+and the helm is in your hand,
+
+<159> rDj.tw jyt m hAw=k
+;
+<159> evil is placed near you.
+
+Aw sprw=j wdn <160> fdq
+;
+My plea is long, and the division is difficult.
+
+jSst pw ntj jm
+;
+&quot;What's with him there?&quot;
+
+kA.tw
+;
+people say.
+
+jr jbw <161> snb mryt=k
+;
+Create shelter <161> so that your shore will be safe,
+
+mk dmj=k Sn.w
+;
+for look, your harbour is surrounded by crocodiles!
+
+<162> aqA ns=k
+;
+<162> May your tongue be truthful
+
+jm=k tnmw
+;
+so that you won't go astray!
+
+tAmw <163> pw n s at jm=f
+;
+That organ in a man is his canker-worm.
+
+m Dd grg
+;
+Don't speak falsehood!
+
+sAw srw
+;
+Beware of officials!
+
+<164> mnDm pw aDyw sDmyw
+;
+<164> The judges are a fattened basket<note>Meant figuratively:
+&quot;rich from bribes&quot;.</note>;
+
+smw=sn <165> pw Dd grg
+;
+speaking falsehood is their herbage,
+
+wn=f js.w Hr jb=sn
+;
+it lies light on their hearts.
+
+rx-jxt <166> n rmTt nbT
+;
+O wisest <166> of all mankind,
+
+jn xm=k m hAw=j
+;
+are you unaware of my case?
+
+<167> dr sAr n mw nb
+;
+<167> Relieve all distress on the water!
+
+<@27b> mk wj Xr <168> mTnw jw
+;
+Look, I am under <168> way without a ship.
+
+mnj mH nb
+;
+Rescue all who are drowning,
+
+<169><@27c> Sd bgAw
+;
+<169> save the shipwrecked,
+
+<@27d> Xdr=k wj m hAw <170> jrj Dr=k
+;
+rescue me in the domain <170> that is within your reach!'
+
+<@27e> jw.jn rf sxtj pn
+;
+And this peasant came
+
+r spr n=f 3nw sp
+;
+to plead with him for a third time.
+
+Dd=f <171> jmj-rA pr wr nb=j
+;
+He said: <171> 'High steward, my lord,
+
+ntk ^ra nb pt Hna Snw<172>t=k
+;
+you are Re, lord of heaven, with your courtiers.
+
+jw Xrt bw-nb jm=k mj <173> nwy
+;
+Everyone has a need for you, like <173> water.
+
+ntk ^Hapj swAD SAw
+;
+You are Hapy, who makes the meadows green
+
+grg <174> jAwt xbAwt
+;
+and restores <174> mounds that have been ravaged.
+
+xsf awA
+;
+Punish theft
+
+<175> nD Hr mAr
+;
+<175> and protect the poor!
+
+m xpr m w<176>Dnw r sprw
+;
+Don't become a flood against the suppliant!
+
+sAw tkn n nHH
+;
+Beware of the approach of eternity.
+
+<177> mr wAH mj Dd
+;
+<177> Desire to last, as is said:
+
+TAw pw n fnD jrt mAat
+;
+&quot;Doing justice is breath for the nose.&quot;
+
+<178> jr xsft r xsfw n=f
+;
+<178> Inflict punishment on him who ought to be punished,
+
+nn sn.tw r tp-<179>Hsb=k
+;
+and none will surpass <179> your rectitude.
+
+jn-jw jwsw nnm=f
+;
+Does the 'hand'-balance<note>&quot;Handwaage&quot;.</note> err?
+
+jn-jw <180> mxAt Hr rDjt Hr gs
+;
+Is <180> the 'stand'-balance<note>&quot;Standwaage&quot;.</note>
+biased?
+
+jn-jw rf ^DHwtj <181> sfn=f
+;
+Is Thoth <181> lenient?
+
+jx {r}<note>To be emended to <hi>Y1</hi> (Parkinson, 1991).</note>
+jr=k jyt
+;
+Then may you do evil!
+
+rDj=k Tw snnw n <182> 3 pn
+;
+You should set yourself equal to <182> these three;
+
+jr sfn 3 xr=k sfn=k
+;
+if the three are lenient, then you must be lenient.
+
+m <183> wSb nfrt m bjnt
+;
+Do not <183> answer good with bad.
+
+m rDj kt m st kt
+;
+Do not put one thing in place of another.
+
+<184> rwD<note>Or <al>rd</al>, &quot;grow&quot;.</note> mdt r snmyt
+;
+<184> The spoken word is more persistent than weed<note>Lit.
+&quot;<al>snmyt</al>-plants&quot;.</note>,
+
+r d<185>mj n xnm m wSb=s
+;
+to <185> reach the smeller with its retort.
+
+ntf jyt <186> r rDjt rd Hbsw
+;
+The one who waters mischief <186> to make
+deception<note>Uncertain.</note> grow,
+
+spw 3 <187> pw r rDjt jr=f
+;
+this is three times <187> to induce him to act!<note>I.e. &quot;this
+is already the third time that I induce him to act!&quot;</note>
+
+jr rk Hmw r ndbyt
+;
+Steer according to the sail.
+
+<188> Sd wDnw r jrt mAat
+;
+<188> Withdraw the flood, so as to do justice.
+
+sAw <189> HA=k rk Hr nfryt
+;
+Be careful that <189> you do not run aground, while at the tiller.
+
+aqAyt nt tA <190> jrt mAat {w}
+;
+To straighten out the land <190> is to do justice.
+
+m Dd grg jw=k wr.tj
+;
+Do not speak falsehood, for you are mighty.
+
+m js <191> jw=k dns.tj
+;
+Do not be light-hearted, <191> for you are weighty.
+
+m Dd grg ntk jwsw
+;
+Do not speak falsehood, for you are the balance.
+
+<192> m tnbXw ntk tp
+;
+<192> Do not be careless, for you are the key.
+
+mk Tw m tp wa <193> Hna jwsw
+;
+You are just <193> like the balance:
+
+jr gsA=f xr=k <194> g{w}sA=k
+;
+if it is crooked, then you must <194> be crooked.
+
+m sbn jr rk Hmw Sd <195> Hr nfryt
+;
+Do not deviate, but operate the rudder, pull <195> on the tiller rope.
+
+m jT jr rk r jTw
+;
+Do not rob, but act against the robber.
+
+<196> n wr js pw wr jm awn-jb
+;
+<196> A great one who is greedy is not (really) great.
+
+tx pw <197> ns=k
+;
+Your tongue is the pointer (of the balance),
+
+dbn pw jb=k rmnw=f pw sptj<198>=kj
+;
+your heart is the weight, and your lips are its arms.
+
+jr Hbs=k Hr=k r nxt-Hr
+;
+But if you shut your eyes to the impudent,
+
+<199> nm jrf xsf=f bw-Hwrw
+;
+<199> then who will repel evil?
+
+mk Tw m <200> Hwrw n rxtj
+;
+Look, you are <200> a dishonourable washerman
+
+awn-jb Hr HDt <201> xnms
+;
+who is keen on destroying <201> friendship,
+
+btA n mHnk=f n twA<202>=f
+;
+one who wrongs his confidant for his client;
+
+sn=f pw jy jn n=f
+;
+anyone who comes and supplies to him is his brother.
+
+mk Tw m<203>Xntj DA nb hmt
+;
+Look, you are a ferryman <203> who ferries across anyone who has the
+fare,
+
+aqAy <204> aqA=f fdq.w
+;
+a righteous man <204> whose righteousness has crumbled.
+
+mk Tw m Hrj Snaw
+;
+Look, you are the chief of a workhouse
+
+<205> n rDj.n=f swA Sw Hr-a
+;
+<205> who won't let an unemployed person through at once.
+
+mk Tw <206> TnHr n rxyt
+;
+Look, you are <206> a hawk to the people,
+
+anx m Hwrww nw <207> Apdw
+;
+one who lives on defenceless <207> birds.
+
+mk Tw wdpw rS=f pw rxs
+;
+Look, you are a cook whose joy is to slaughter,
+
+<208> nn jATjw jrj r=f
+;
+<208> and who is not touched by the gruesomeness thereof.
+
+mk Tw m mnjw
+;
+Look, you are a herdsman;
+
+n Dw=s js <209> r=j
+;
+is it not bad for me then
+
+n jp.n=k
+;
+that you cannot be prudent?
+
+jx jr=k nhw m msH <210> skn
+;
+May you become less like a ravenous crocodile,
+
+jbw tS(.w) r dmj n tA r-Dr=f
+;
+for shelter has vanished from the harbour of the entire land.
+
+<211> sDmw n A sDm.n=k
+;
+<211> Hearer, you do not really hear.
+
+tm=k tr sDm Hr-m
+;
+But why do you not hear?
+
+jw mjn <212> A xsf.n=j Adw
+;
+Now <212> I have spoken out against the aggressor,
+
+jw msH xt=f
+;
+and the crocodile retreats.
+
+ptr rf <213> km jrj n=k
+;
+But what is <213> the gain thereof to you?
+
+gm.tw jmnw mAat
+;
+The secret of the truth will be found,
+
+rDj.tw sA <214> grg r tA
+;
+and falsehood will be cast on the ground.
+
+m grg dwA
+;
+Do not make provision for the following day
+
+n jjt=f
+;
+before it has come,
+
+n <215> rx.n.tw jyt jm=f
+;
+since one cannot know what is going to happen in it.'
+
+jsT rf Dd.n sxtj pn mdt <216> tn
+;
+When this peasant had said these words,
+
+jmj-rA pr wr ^mrw sA ^rnsj
+;
+the high steward Rensi, son of Meru,
+
+r pgA n arryt
+;
+went to the entrance of the portal,
+
+<217> aHa.n rDj.n=f aHa jmj-sA 2 r=f Xr smjw
+;
+<217> and made two guards turn against him with whips,
+
+aHa.n aA<218>g=sn at=f nbt jm
+;
+and they thrashed all his limbs therewith.
+
+Dd.jn sxtj pn
+;
+Then this peasant said:
+
+sA ^mrw <219> tnm.xr=f
+;
+'So the son of Meru <219> must go astray,
+
+Hr=f Sp(.w) r mAAt=f
+;
+since his face is blind to what he sees
+
+sX(.w) r sDmt=f
+;
+and deaf to what he hears,
+
+<220> th(.w) jb Hr sxAyt n=f
+;
+<220> and is straying from what it is reminded of.
+
+mk Tw m njwt <221> nn HqA-Hwt=s
+;
+Look, you are a town <221> without a mayor,
+
+mj Xt nn wr=s
+;
+like a meeting without a chairman,
+
+mj dpt <222> nn sxry jm=s
+;
+like a ship <222> without a captain,
+
+smAyt nn sSmw<223>=s
+;
+like a gang without a leader.
+
+mk Tw m SnT jTA
+;
+Look, you are a policeman who steals,
+
+HqA-Hwt Sspw
+;
+a major who accepts (bribes),
+
+<224> jmj-rA w xsf HaDA
+;
+<224> a district overseer who should restrain robbery
+
+xpr m jmj-HAt n jrr
+;
+but who has become a pattern for the criminal.'
+
+<225> jw.jn rf sxtj pn r spr n=f 4nw sp
+;
+<225> And this peasant came to plead with him for a fourth time,
+
+gm.n sw Hr <226> prt m sbA n Hwt-nTr nt ^Hrj-S=f
+;
+and found him <226> emerging from the gate of the temple of Arsaphes.
+
+<227> Dd=f Hsw
+;
+<227> He said: 'Praised one,
+
+Hs Tw ^Hrj-S=f jj.n=k <228> m pr=f
+;
+may Arsaphes, from whose temple you have come, praise you!
+
+HD bw-nfr nn jabt=f
+;
+Goodness has been harmed; there is no accumulation of it,
+
+ptx sA n <229> grg r tA
+;
+nor is there casting of <229> falsehood on the ground.
+
+jn-jw tA mXnt saq.tj
+;
+Has the ferry sunk?
+
+s<230>DA.tw jrf m
+;
+Who can be ferried across
+
+sxpr sp m msDD
+;
+when the one who should bring about the deed is unwilling?
+
+DAt <231> jtrw m sA Tbtj
+;
+Crossing <231> the river on foot:
+
+DAt nfr nn
+;
+a good crossing, or not?
+
+<232> nm tr sDr r sSp
+;
+<232> Now, who can sleep till dawn?
+
+HD Smt m <233> grH sbj m hrw
+;
+For obstructed are going by <233> night, travelling by day,
+
+rDjt aHa s r <234> sp=f nfr n wn mAat
+;
+and letting a man attend <234> his truly good cause.
+
+mk nn km n Dd <235> n=k st
+;
+Look, it is no use to tell <235> you this,
+
+sf swA(.w) Hr=k
+;
+for mercy has left you.
+
+nx.wj mAr <236> sky=k
+;
+How lamentable is the poor man <236> you ruin!
+
+mk Tw mHw <237> ja jb=f
+;
+Look, you are a hunter <237> who slakes his desire,
+
+wdd r jrt mrt=f
+;
+bent on doing what he wants,
+
+xAa dbw <238> st smAw
+;
+who harpoons hippopotami, <238> shoots wild bulls,
+
+pH rmw sxt <239> Apdw
+;
+catches fish and snares <239> birds.
+
+nn xAx rA Sw m warw
+;
+Yet there is none hasty of speech who is free of spluttering,
+
+<240> nn js-jb dns sxr Xt
+;
+<240> and none light of heart who is weighty of thought.
+
+wAH <241> jb=k rx=k mAat
+;
+Be tender-hearted, so that you will learn justice!
+
+dAr stpt=k r <242> nfr bss grw
+;
+Suppress your choice for <242> the good of him who enters humbly.
+
+nn sXmw <243> mDd bw-jqr
+;
+For there is no brute <243> who attains excellence,
+
+nn wn xAx jb <244> jn.tw
+;
+and there is no impatient man <244> whom one turns to.
+
+sgmH jrtj swDA.tw jb
+;
+Let the eyes see so that the heart be informed.
+
+m kAh<245>sw xft wsr=k
+;
+Don't be haughty in proportion to your might,
+
+tm spr bw-Dw r=k
+;
+so that evil doesn't reach you.
+
+<246> swA Hr sp jw=f r snw
+;
+<246> Tolerate one misdeed, and it will become two.
+
+jn wnm dp <247> jw wSdw wSb=f
+;
+It is the eater who tastes, <247> so one who is questioned replies;
+
+jn sDrw mAA <248> rswt
+;
+it is the sleeper who dreams.
+
+jr wDa-rwt m <249> xsfw n=f
+;
+As for a judge <249> who ought to be punished,
+
+jw=f m jmj-HAt n jrr
+;
+he is a pattern for the criminal.
+
+wxA <250> mk Tw pH.tj
+;
+Fool, <250> look, you are found out!
+
+xm-jxt mk Tw <251> wSd.tj
+;
+Ignoramus, look, you <251> are questioned!
+
+pnqy mw mk Tw aq.tj
+;
+Bailer of water<note>Meant figuratively: &quot;someone
+urinating&quot;.</note>, look, you are noticed!
+
+<252> Hmy m sbn dpwt=k
+;
+<252> Helmsman, don't let your ship go off course!
+
+sanxw <253> m rDj mwt.tw
+;
+Giver of life, <253> don't let people die!
+
+sHtmw m rDj <254> Htm.tw
+;
+Destroyer, don't let <254> people perish!
+
+Swyt m jr m Sw
+;
+Shade, don't be as the blazing sun!
+
+jbw <255> m rDj jT msH
+;
+Shelter, <255> don't let the crocodile snatch!
+
+4nw sp A m spr n=k
+;
+The fourth time already of pleading with you;
+
+<256> jn rf wrS=j r=f
+;
+<256> shall I spend all day at it?'
+
+jw.jn rf sxtj pn r <257> spr n=f 5nw sp
+;
+And this peasant came to <257> plead with him for a fifth time.
+
+Dd=f jmj-rA pr wr nb=j
+;
+He said: 'High steward, my lord,
+
+jw <258> xwDw Hr [...] [mHyt<note>Following the suggestion by
+Parkinson (1991).</note>]
+;
+the netter is [...] [fish],
+
+n<259>yw<note>Uncertain.</note> Hr smA jy
+;
+the <al>nyw</al>-fisherman<note>Uncertain.</note> is killing
+<al>jy</al>-fish,
+
+st rm<260>w Hr xAx awbbw
+;
+the fish-spearer is harpooning <al>awbbw</al>-fish,
+
+DAbHw <261> r pAqrw
+;
+the <al>DAbHw</al>-fisherman <261> is after <al>pAqr</al>-fish.
+
+jw wHa xbA=f jtr<262>w
+;
+The fisherman ravages the river.
+
+mk Tw m mnt-jrj
+;
+Look, you are the same.
+
+m awn Hwrw <263> Hr jxt=f
+;
+Do not defraud a poor man <263> of his property,
+
+fn rx.n=k sw
+;
+a slight man whom you know.
+
+TAw pw n <264> mAr jxt=f
+;
+The belongings of a pauper are his breath,
+
+dbb fnD=f pw nHm <265> st
+;
+to take them away is to stop up his nose.
+
+rDj.n.tw=k r sDm mdt
+;
+You were appointed to hear cases,
+
+r wDa snwj
+;
+to judge between litigants,
+
+r <266> xsf awA-jrr=f
+;
+and to <266> punish the robber.
+
+mk fA pw n jTA <267> jrry=k
+;
+But look, what you are doing is supporting the thief.
+
+jw mH.tw jb jm=k
+;
+You are trusted,
+
+jw=k <268> xpr.tj m thw
+;
+yet you <268> have become a transgressor.
+
+rDj.n.tw=k r dnjt <269> n mAr
+;
+You were appointed to be a dike <269> for the pauper,
+
+sAw mH=f
+;
+so take care that he doesn't drown!
+
+mk Tw <270> m S=f sTAw
+;
+But look, you <270> are the lake that pulls him under.'
+
+jw.jn rf sxtj pn <271> r spr n=f 6nw sp
+;
+And this peasant came <271> to plead with him for a sixth time,
+
+Dd=f jmj-rA pr wr nb=j
+;
+and he said: 'High steward, my lord,
+
+<272> nb sjsf grg
+;
+<272> lord who eradicates falsehood,
+
+sxpr mAat sxpr <273> bw nb nfr
+;
+who creates truth and creates <273> all goodness,
+
+sHtm bw<note>Perhaps meant was <al>bw-Dw</al>.</note>
+;
+who destroys [evil],
+
+mj jw sAw <274> Dr=f Hqr
+;
+like when satiety comes <274> and ends hunger,
+
+Hbsw Dr=f HA<275>wt
+;
+and clothes end nakedness,
+
+mj Htp pt r-sA Da <276> qA
+;
+like when the sky becomes calm after a heavy storm
+
+sSmm=s Hsw nb
+;
+and warms all who are chilled,
+
+<277> mj xt pst wADwt
+;
+<277> like fire that cooks what is raw,
+
+mj <278> mw axm jbt
+;
+like <278> water that quenches thirst!
+
+mAA m <279> Hr=k
+;
+See with <279> your own eyes:
+
+psSw m awnw
+;
+the arbitrator is a cheat,
+
+<280> shrr m jr Ahw
+;
+<280> the appeaser is causing misery,
+
+stw<281>t m jr mnt
+;
+and he who should mitigate is causing suffering.
+
+jw sjAT <282> sSrr=f mAat mH nfr
+;
+Cheating <282> diminishes justice, so render good account,
+
+n hqs <283> n wbn mAat
+;
+and justice will be neither insufficient nor excessive<@14>. <@35c>
+
+<@35d> jr jn=k jm n snnw=k
+;
+<@15>If you acquire, then give to your fellow man,
+
+<284> wgyt Sw.tj m aqA
+;
+<284> for chewing is without merit.
+
+<285> jw Ahw=j sSm=f r jw<286>dt
+;
+<285> My anguish leads to separation
+
+jw srxy=j jn.n=f rww<287>t
+;
+and my accusation brought departure;
+
+n rx.n.tw wnnt m jb
+;
+one cannot know what is in the heart.
+
+<288> m wsf jr rk r smjt
+;
+<288> Don't be negligent, act at the accusation!
+
+fdq=k nm Ts=f
+;
+If you sever, who will join?
+
+<289> aHA-mw m a=k
+;
+<289> The sounding rod is in your hand,
+
+mj xt wn sp n mwy xpr(.w)
+;
+a rod that makes waters accessible that have stayed behind (during low
+tide).
+
+<290> jr aq dpt jw Sd.tw=s
+;
+<290> If a ship goes down, it is looted
+
+<@36c> Aq ATpw=s n tA
+;
+and its cargo perishes on the ground
+
+<291><@36d> Hr mrywt nbt
+;
+<291> at every embankment<@16>. <@36e>
+
+<@36f> jw=k sbA.tj jw=k wbA.tj jw=k <292> twt(.tj)
+;
+You are educated, enlightened <292> and accomplished,
+
+n js n awn
+;
+but not for cheating!
+
+jw=k jrr=k twtw bw-nb
+;
+You act the same as everyone,
+
+<293><@36k> jw hAw=k m nwdw aqA
+;
+<293> and your environment is corrupt.
+
+<@36l> jA<294>Tj n tA r-Dr=f
+;
+<@17>Molester of the entire land!
+
+kAny n bw-Hwrw Hr <295> ntf Hsp=f m jwyt
+;
+The cultivator of wickedness is <295> watering his garden with evil,
+
+r sxpr Hsp=f <296> m grg
+;
+to make his garden grow <296> with falsehood
+
+r ntf jyt n Dt
+;
+and to water everlasting doom.'
+
+<297> jw.jn rf sxtj pn r spr n=f 7nw sp
+;
+<297> And this peasant came to plead with him for a seventh time,
+
+Dd=f <298> jmj-rA pr wr nb=j
+;
+and he said: <298> 'High steward, my lord,
+
+ntk Hmw n tA r-Dr=f
+;
+you are the helm of the entire land,
+
+sqdd <299> tA xft wD=k
+;
+the land sails in accordance with your command.
+
+ntk snnw n ^DHwtj
+;
+You are the equal of Thoth,
+
+<300> wDa nn rDjt Hr gs
+;
+<300> who judges without being partial.
+
+nb=j wAH=k njs Tw s
+;
+My lord, may you condone that a man calls upon you
+
+<301> r sp=f n wn-mAa
+;
+<301> concerning his just cause.
+
+m SnT jb=k n n=k st
+;
+Don't be outrageous, it is not for you!
+
+<302> xpr Aw Hr m Hw jb
+;
+<302> One who was happy becomes anxious.
+
+m wA n ntt n jjt
+;
+Do not scheme for what has not yet come,
+
+<303> m Haw n ntt n xprt
+;
+<303> do not rejoice in what has not yet happened!
+
+jw wxd sAw=f m xnms
+;
+Considerateness extends friendship
+
+<304> sHtm sp xpr
+;
+<304> and dismisses an offence that happens;
+
+n rx.n.tw wnnt m jb
+;
+one cannot know what is in the heart.
+
+<305> xbA hp HD tp-Hsb
+;
+<305> Subverter of the law, destroyer of rectitude!
+
+nn mAr <306> anx
+;
+There will be no poor man <306> alive
+
+HaDAw=f n wSd sw mAat
+;
+if justice does not attend to him when he is robbed.
+
+jw grt <307> Xt=j mH.tj
+;
+Now, <307> my body is full (of misery)
+
+jb=j ATp(.w)
+;
+and my heart is laden (with grief).
+
+pr js m Xt=j n a jrj
+;
+It comes from my body because of the condition thereof:
+
+<308> ngt pw m dnjt mw=s As(.w)
+;
+<308> it is the breach of a dike, its waters pouring through,
+
+wn <309> rA=j r mdt
+;
+as my mouth opens to speak.
+
+aHa A aHA.n=j mrj=j
+;
+So, I have now plied my sounding rod,
+
+pnq.n=j <310> mwy=j
+;
+bailed <310> my water,
+
+snf.n=j ntt m Xt=j
+;
+given vent to what was on my mind
+
+ja.n=j SAmw=j
+;
+and washed my dirty linen.
+
+<311> xn=j xpr(.w)
+;
+<311> My speech is done
+
+mAr=j Dr(.w) xft-Hr=k
+;
+and my misery has ended up before you,
+
+ptr <312> DArw=k
+;
+what (more) <312> do you need?
+
+jw wsf=k r tht=k
+;
+Your neglect will lead you astray,
+
+jw awn-jb=k <313> r swxA=k
+;
+your avarice <313> will befool you
+
+jw snm=k r sxpr xrwyw=k
+;
+and your greed will make you acquire enemies.
+
+<314> jn-jw=k swt r gmt ky sxtj mjtw=j
+;
+<314> Will you even find another peasant like me?
+
+<315> jn-jw wsfw spry r aHa r rA n pr=f
+;
+<315> Or will the lazy petitioner be waiting at the door of his house?
+
+<316> nn gr rDj.n=k mdw=f
+;
+<316> There is none silent whom you let speak,
+
+<@40b> nn sDr rDj.n=k rs=f
+;
+none sleeping whom you roused,
+
+<317><@40c> nn xbA Hr sspd.n=k
+;
+<317> none downcast whom you enlivened,
+
+nn tm rA <318> wn.n=k
+;
+none speechless whose mouth you opened,
+
+nn xm rDj.n=k rx=f
+;
+none ignorant whom you let know,
+
+nn <@40k> wxA sbA.n=k
+;
+none foolish whom you educated.
+
+<319><@40l> xsrw Dwt pw srw
+;
+<319><@36> Yet officials should be people who dispel injustice,
+
+nbw bw-nfr pw
+;
+lords of goodness,
+
+<320> Hmwt pw nt sxpr ntt
+;
+<320> craftsmen in creating what is,
+
+Tsw tp Hsq
+;
+people who mend a severed head.'
+
+jw.jn rf <321> sxtj pn r spr n=f 8nw sp
+;
+And this peasant came to plead with him for an eighth time,
+
+Dd=f jmj-rA pr wr nb=j
+;
+and said: 'High steward, my lord,
+
+jw <322> xr.tw n Hnt wA
+;
+one sinks low through greed.
+
+jw awn-jb Sw=f m sp
+;
+A greedy man is without achievement,
+
+<323> jw wn sp=f n wht
+;
+<323> he achieves only failure.
+
+jw awn jb=k nn n=k st
+;
+You are greedy but it does nothing for you,
+
+jw awA=k <324> nn Ax n=k
+;
+you steal <324> but it's of no benefit to you.
+
+rDj A aHa s r sp=f nfr n wn-mAa
+;
+You who should let a man attend his truly good cause!
+
+<325> Xrt=k pw m pr=k
+;
+<325> In fact, your possessions are in your house
+
+Xt=k mH.tj
+;
+and your stomach is full;
+
+wbn jt Ttf=s
+;
+the barley brims over since it is so abundant
+
+<326> Aq prw=s n tA
+;
+<326> and its excess perishes on the ground.
+
+<327> jTw awA nHmw
+;
+<327> Thief, robber, snatcher!
+
+srw jr.n.tw r {r}<note>Error by Parkinson (1991) or scribal
+error?</note> xsf r <328> jyt
+;
+The officials who were appointed to repel <328> evil
+
+jbww pw n Adw
+;
+should be shelters from the agressor;
+
+srw jr.n.tw r xsf <329> r grg
+;
+the officials who were appointed to eradicate <329> falsehood!
+
+<@42c> n rDj.n snD=k spr <@42d> n=k
+;
+And the fear of you wouldn't permit appealing to you?
+
+<@42e> n sjA.n=k jb=j
+;
+<@18>You do not perceive my heart!
+
+gr <330> ann sw
+;
+The humble man <330> who returns
+
+<@42k> r jrt Tst n=k
+;
+to make a complaint to you,
+
+<@42l> n snD.n=f n twA n=f st
+;
+he cannot fear him to whom it is submitted,
+
+<331><@42m> n jn sn=f r=k
+;
+<331> though no brother of his can be fetched to side against you
+
+m-Xnw mrrt
+;
+in the street.
+
+jw A Sdww=k m sxt
+;
+Your plots of land are in the country,
+
+<332> jw fqA=k m spAt
+;
+<332> your earnings are in the estate
+
+jw aqw=k m Sna
+;
+and your provisions in the storehouse.
+
+jw srw <@42o> Hr rDjt n=k
+;
+Officials are giving to you,
+
+<333><@42p> jw=k Hr jTt
+;
+<333><@19> and you are still robbing.
+
+<@42q> jn-jw=k <@42r> m awAy
+;
+Are you a thief?
+
+<@43b> jw sTA.tw n=k
+;
+People are ushered in to you,
+
+<334><@43c> skw <@43d> Hna=k
+;
+<334> troops being with you,
+
+<@43e> r psSt Sdwwt
+;
+for the division of plots of land.
+
+<@43f> jr mAat n <335> nb mAat
+;
+<@20>Do justice for <335> the Lord of Justice,
+
+ntj wn mAat nt mAat=f
+;
+whose justice has justice!
+
+<336> ar Sfdw gstj ^DHwtj
+;
+<336> Pen, papyrus, palette of Thoth,
+
+<337> Hr.tj r jrt jyt
+;
+<337> beware of doing evil!
+
+<@43k> nfr nfrt nfr r=f
+;
+The goodness of a good man is good to him,
+
+<338><@43l> jw swt mAat r nHH
+;
+<338><@21> but justice is for eternity.
+
+hAA=s <339> m-a jrr sj r Xrt-nTr
+;
+It goes down <339> with him who does it to the necropolis.
+
+jw qrs.tw<340>=f
+;
+When he is buried,
+
+smA tA jm=f
+;
+and earth envelops him,
+
+n sjn.tw <341> rn=f tp tA
+;
+his name is not effaced on earth
+
+{jw=f} jw sxA.tw=f Hr bw-<342>nfr
+;
+and he is remembered on account of the goodness.
+
+<@44c> tp-Hsb pw n mdw-nTr
+;
+This is the norm of the divine word.
+
+<@44d> jn jwsw <343> pw
+;
+If it is a 'hand'-balance,
+
+n g{r}sA.n=f
+;
+then it is not crooked.
+
+jn mxAt <344> pw
+;
+If it is a 'stand'-balance,
+
+n rDj.n=s Hr gs
+;
+then it is not biased.
+
+mk wj <345> r jwt
+;
+Look, I <345> will come,
+
+mk ky r jwt
+;
+and another will come,
+
+wSd=k
+;
+so you should inquire!
+
+<346> m wSbw m wSd gr<347>w
+;
+<346> But do not respond as one who questions a humble man.
+
+m pH ntj n pH.n=f
+;
+Do not attack one who cannot attack.
+
+n sf<348>.n=k n mn.n=k 
+;
+You show no mercy, you are not troubled<@22>, <@44q>
+
+<@44r> n sksk<349>.n=k
+;
+<@23>you do not destroy,
+
+n rDj.n=k n=j DbAw n mdt <350> tn nfrt
+;
+nor do you give me a reward for this good speech
+
+prrt m rA n ^ra Ds=f
+;
+that comes forth from the mouth of Re himself!
+
+<351> Dd mAat jr mAat 
+;
+<351> Speak justice and do justice<@24>! <@45c>
+
+<@45d> Dr-ntt wr sj
+;
+<@25>For it is mighty,
+
+<352> aA sj wAH sj
+;
+<352> it is great, it is enduring,
+
+gmw.tw kft=s
+;
+one will find its trustworthiness,
+
+<353> sbw=s r jmAx
+;
+<353> it will lead to blessedness.
+
+<@45k> jn gsA <354> jwsw
+;
+Can a balance be crooked
+
+<@45l> Hnkww=f pw <355> fAyw jxwt
+;
+<@26>when it is its pans that weigh things?
+
+n xpr.n pr<356>w n tp-Hsb
+;
+There can be no excess of rectitude.
+
+n spr.n sp Xs r <357> {r} dmj
+;
+An evil deed cannot reach <357> harbour,
+
+Xrj-sA r sAH tA
+;
+but the hindermost will reach land.<@0>' <@46c>

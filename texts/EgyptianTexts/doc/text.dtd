@@ -1,0 +1,43 @@
+<!ELEMENT text (primary*,secondary*,collection*,
+		    resource*,precedence*,autoalign*)>
+<!ATTLIST text 
+        description CDATA #REQUIRED>
+
+<!ELEMENT primary EMPTY>
+<!ATTLIST primary
+        language CDATA #REQUIRED
+        name CDATA #REQUIRED>
+
+<!ELEMENT secondary EMPTY>
+<!ATTLIST secondary
+        language CDATA #REQUIRED
+        name CDATA #REQUIRED>
+
+<!ELEMENT collection EMPTY>
+<!ATTLIST collection
+	kind CDATA #REQUIRED
+	collect CDATA #REQUIRED
+	collectkey CDATA #IMPLIED
+	section CDATA #IMPLIED
+	sectionkey CDATA #IMPLIED
+	subsection CDATA #IMPLIED
+	subsectionkey CDATA #IMPLIED
+	subsubsection CDATA #IMPLIED
+	subsubsectionkey CDATA #IMPLIED>
+
+<!ELEMENT resource EMPTY>
+<!ATTLIST resource
+        location CDATA #REQUIRED>
+
+<!ELEMENT precedence EMPTY>
+<!ATTLIST precedence
+        location CDATA #REQUIRED
+        resource1 CDATA #REQUIRED
+        resource2 CDATA #REQUIRED>
+
+<!ELEMENT autoalign EMPTY>
+<!ATTLIST autoalign
+        location1 CDATA #REQUIRED
+        tier1 CDATA #REQUIRED
+        resource2 CDATA #REQUIRED
+	tier2 CDATA #REQUIRED>

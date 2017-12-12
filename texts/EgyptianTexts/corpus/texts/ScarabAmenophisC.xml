@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Lion-hunt scarab of Amenophis III"/>
+<collection kind="kings" collect="Amenophis III"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="865"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="p. 66" sectionkey="66A"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="579D"/>
+<resource location="../resources/ScarabAmenophisCTr.txt"/>
+</text>

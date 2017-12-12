@@ -1,0 +1,702 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-04-20
+modified = 
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transcription and translation of the Karnak stela of king
+Ahmose, following the transcription of Sethe (1927), number 5 (pp.
+14-24).
+
+For published translations, see 
+Breasted (1906), pp. 13-14, §§ 29-32;
+Sethe (1914), number 5 (pp. 8-12).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> ^Hr ^aA-xprw
+;
+<1> Horus: Great of appearances,
+
+nbtj ^twt-mswt
+;
+Two Ladies: Perfect of birth,
+
+^Hr-nbw ^Ts-tAwj
+;
+Gold Horus: Who unites the Two Lands,
+
+nsw-bjtj nb tAwj ^nb-pHtj-^ra
+;
+The king of Upper and Lower Egypt, lord of the Two Lands: Nebpehtire,
+
+sA-^ra mr=f ^jaH-msjw
+;
+Son of Re, his beloved: Ahmose
+
+anx(.w) Dt
+;
+(may he live forever!),
+
+sA ^jmn-^ra n Xt=f mry=f
+;
+son of Amun-Re, of his body, his beloved,
+
+jwa=<2>f rDj n=f nst=f
+;
+his heir, to whom his throne was given,
+
+nTr nfr n wn-mAa
+;
+a truly good god,
+
+TmA-aw
+;
+mighty of arms,
+
+nn grg jm=f
+;
+in whom there is no falsehood,
+
+sxm-jrj=f mjtt ^ra
+;
+a ruler equal of Re,
+
+sAtj ^gbb
+;
+the two children of Geb,
+
+jwaw=f Hkn m Awt-jb
+;
+his heir, who cheers in joy,
+
+mstjw <3> ^ra qmA.n=f
+;
+offspring <3> of Re, which he created,
+
+nDtj rDj.n=f tp tA
+;
+a champion whom he put on earth,
+
+sHD nswt
+;
+who makes kingship shine,
+
+nb Awt-jb
+;
+lord of joy,
+
+DD TAw r fnDw Hmwt
+;
+who gives breath to the noses of women,
+
+wsr pHtj
+;
+powerful of strength,
+
+dAr xnj [...]
+;
+who subjugates the rebels [...]
+
+DD anx
+;
+who gives life,
+
+s<4>mn mAat
+;
+who establishes truth,
+
+nsw nsyw m tAw nbw
+;
+king of kings in all lands,
+
+jty a.w.s. waf jdbwj
+;
+sovereign (l.p.h.!) who controls the Two Banks,
+
+wr qfAt
+;
+great of fame,
+
+sxmw xaw m [...] m ks<5>y
+;
+powerful of appearance in [...] bowing,
+
+nTr=sn Xr anx wAs
+;
+their gods bringing life and happiness,
+
+wa m pt snnw m tA
+;
+the first in heaven, the second on earth,
+
+sxpr jmAw=f HDDwt
+;
+whose radiance creates light,
+
+mrwytj n ^jmn
+;
+beloved of Amun,
+
+smn jAwt mj nfr-<6>Hr
+;
+who establishes offices like the beautiful-of-face,
+
+nb rnpwt mj Hm n ^ra
+;
+lord of years like the majesty of Re,
+
+rDj rx nTr jwnn=f
+;
+who lets the god know his sanctuary
+
+Hbyt nt nTr nb
+;
+and the festival hall of every god,
+
+nsw m ^p
+;
+king of Upper Egypt in Buto,
+
+HqA m ^tA-mrj
+;
+ruler of Egypt,
+
+sAw n pt
+;
+beam of heaven,
+
+Hmw n tA
+;
+rudder of the earth.
+
+<7> HqA.n=f Snt.n jtn
+;
+<7> He governs what the sun revolves around,
+
+HDt dSrt mn.tj m tp=f
+;
+the white crown and the red crown remain on his head,
+
+psSwt ^Hr ^stx Xr st-Hr=f
+;
+the shares of Horus and Seth are under his supervision,
+
+xa jrw m nxnw=f
+;
+shining of form in his youth,
+
+bjAtj <8> Tnw wnwt=f r wrrt
+;
+a miraculousness one <8> each of his hours for the crown,
+
+qA Swtj
+;
+with high feathers,
+
+sxm.n wAdtj n-Hr=f mj ^Hr
+;
+the two serpent-goddesses are powerful before him, like before Horus,
+
+HqA.n=f tAwj=fj
+;
+as he governs his two lands,
+
+jty a.w.<9>s.
+;
+sovereign (l.p.<9>h.!)
+
+jT xaw m ^Ax-bjt
+;
+who took the crowns in Chemmis,
+
+nb ax
+;
+lord of the crown,
+
+^Hr wAH mrt
+;
+Horus, enduring of love,
+
+jw n=f rsw mHtjw jAbtjw jmntjw
+;
+to whom the southeners, the northerners, the easterners, and
+westerners come.
+
+jw=f mn(.w) m nb
+;
+He remains as lord
+
+smn tAwj=fj
+;
+who established his Two Lands.
+
+jT.n=f jwat wtT <10> sw
+;
+He took the inheritance of his begetter.
+
+tAwj-tm Hm.w n=f
+;
+The people retreat from him.
+
+Dj.n n=f st jt=f Spsj
+;
+His noble father gave them to him.
+
+jw xfa.n=f Hnmmt
+;
+He grasped mankind,
+
+Amm.n=f rxyt
+;
+he grabbed common folk,
+
+<11> jw pat Dj=sn n=f jAw
+;
+<11> patricians give him praise.
+
+Hr-nb Hr
+;
+Everyone says:
+
+nb=n pw
+;
+'He is our lord.'
+
+HAw-nbwt Hr
+;
+The islanders say:
+
+Sms=n jm=f
+;
+'The one we follow is in him.'
+
+tAw Hr
+;
+The lands say:
+
+wnn=n n=f
+;
+'We belong to him.'
+
+nsw pw <12> sHqA.n ^ra
+;
+He is a king <12> whom Re made to be a ruler,
+
+saA.n ^jmn
+;
+whom Amun made great.
+
+Dj=sn n=f jdbw tAw m sp wa
+;
+They gave him the shores and the lands in a single moment,
+
+psDt.n ra Hr=s
+;
+and that on which the sun shines.
+
+jw xAstjw m hjms wa
+;
+Foreigners supplicate together,
+
+aHa r <13> arryt=f
+;
+standing at <13> his gate.
+
+jw Sat=f m ^xnt-Hn-nfr
+;
+His terror is in Khent-hen-nefer,
+
+hmhmt=f m tAw ^fnxw
+;
+his war cries are in Lebanon.
+
+snDt Hm=f m-Xnw tA pn
+;
+The fear of His Majesty is in this land
+
+mj <14> ^mnw rnpt iy=f
+;
+as <14> that of Min in a year when he comes.
+
+jn=sn mAaw nfrw
+;
+They bring good produce,
+
+ATp.w m jnw n nsw
+;
+laden with gifts for the king.
+
+prr=f [...]=f Hr gs=fj
+;
+He goes out while his [...] is at his side,
+
+mj <15> ^jAH m Hrj-jb sbAw
+;
+like <15> Iah among the stars,
+
+nfr a r Smt
+;
+with a beautiful bearing while walking,
+
+hr nmtt
+;
+with calm pace,
+
+mn rdwj
+;
+firm strides,
+
+mds Tbt
+;
+and vigorous soles.
+
+Dsrw ^ra xn.w Hr=f
+;
+The sanctity of Re has descended upon him,
+
+^jmn m sA=f
+;
+Amun is his protection.
+
+<16> jt=f Spsj mrr sw Hr jrt n=f mTn
+;
+<16> His noble father, who loves him, is preparing the way for him.
+
+jdbwj
+;
+The Two Banks say:
+
+HA {q}mAn=n sw
+;
+`Would that we might see him!'
+
+Xt nbt mH.tj m mrt=f
+;
+Everybody is filled with his love.
+
+jrtj <17> m gAgAwt Hr nsw pn
+;
+Eyes <17> are amazed by this king,
+
+HAtw Hr ftft n=f
+;
+hearts leap up for him.
+
+dgg.tw=f mj ^ra wbn=f
+;
+He is beheld like Re when he rises,
+
+mj psDw jtn
+;
+like the shining of the sun,
+
+mj xa ^xprj <18> m jrtj
+;
+like Khepri appearing <18> in the eyes.
+
+stwt=f m Hrw mj ^jtm m jAbt pt
+;
+His rays are on faces like Atum in the east of the sky,
+
+njw Hr jbA m jnwt
+;
+when the ostrich dances in the valleys,
+
+mj psD jAxw m <19> Hrj-jb hwr
+;
+like Radiance<note>Personified as god.</note> shines at <19> noon,
+
+Ddft nbt Smm.tj
+;
+when all snakes become hot.
+
+nsw wa sbA.n ^spdw
+;
+Only king raised by Sopdu,
+
+Hsy.n ^sSat
+;
+praised by Seshat.
+
+Sfyt ^DHwtj <20> Hr gs=fj
+;
+The respect of Thoth <20> is in his presence,
+
+Dj=f n=f rx-jxt
+;
+he gives him knowledge.
+
+jw=f sSm=f sSw r tp-Hsb
+;
+He guides the scribes to correctness.
+
+^wr-HkAw pw
+;
+He is the one great-of-magic,
+
+nb mrwt r nsyw nb
+;
+lord of love, more than all other kings.
+
+^Hr ^ra mry
+;
+Horus, beloved of Re,
+
+<21> Dj=f Dj n=f HAtw jaw
+;
+<21> makes the hearts give him reverence,
+
+jbw Hknw m Xwt
+;
+and the hearts praise in the bodies.<note>Exact meaning is
+unclear.</note>
+
+sDmw pat Hnmmt rxyt Hr-nb
+;
+Listen, patricians, people, common folk, everyone,
+
+Sms<22>w nsw pn r nmtt=f
+;
+who follows this king in his strides,
+
+jmj bAw=f n kt-xt
+;
+put his fame in others,
+
+wab Hr rn=f
+;
+purify yourself in his name,
+
+twr Hr anx=f
+;
+cleanse yourself by his oath!
+
+mTn nTr p<23>w m tA
+;
+Look, he is a god on earth.
+
+jmjw n=f jAw mj ^ra
+;
+Give him praise like Re!
+
+dwAw sw mj ^jaH
+;
+Praise him like Iah!
+
+nsw-bjtj ^nb-pHtj-^ra
+;
+The king of Upper and Lower Egypt: Nebpehtire
+
+anx(.w) Dt
+;
+(may he live forever!),
+
+waf <24> xAst nbt
+;
+who controls <24> every foreign land.
+
+jmjw hnw n nbt tA
+;
+Give praise to the lady of the land,
+
+Hnt jdbw HAw-nbwt
+;
+mistress of the Aegean shores,
+
+qAt rn Hr xAst nbt
+;
+with noble name in all foreign lands,
+
+jrt sxr aSAt
+;
+who made the plan for the masses,
+
+Hmt-nsw snt <25> jty a.w.s.
+;
+queen and sister <25> of the sovereign (l.p.h.!),
+
+sAt-nsw mwt-nsw Spst
+;
+daughter of a king and mother of a king, noblewoman,
+
+rxt-jxt
+;
+learned woman,
+
+nwt ^kmt
+;
+who takes care of Egypt.
+
+awA.n=s mnfyt=s
+;
+She recruited its infantry,
+
+nbnb.n=s sj
+;
+she secured it,
+
+<26> nw.n=s wtxw=s
+;
+<26> she took care of its refugees,
+
+jnq=s tSw=s
+;
+she gathered its deserters,
+
+sgrH.n=s ^Smaw
+;
+she calmed Upper Egypt,
+
+dr=s btnw=s
+;
+she drove out its rebels,
+
+Hmt-nsw ^jaH-Htp anx<27>.tj
+;
+Queen Ahhotep (may she live!).
+
+jw grt wD.n Hm=f jrt mnw n jt=f ^jmn-^ra
+;
+His Majesty ordered the creation of monuments for his father Amun-Re:
+
+mAHw aAw n nbw
+;
+large wreaths of gold,
+
+{m}SASAwt nt xsbD mAa
+;
+nacklaces of real lapis lazuli,
+
+wDAw nw nbw
+;
+amulets of gold,
+
+Hst <28> aAt nt nbw
+;
+a large jar of gold,
+
+nmswt Hswt m HD
+;
+vessels and jars of silver,
+
+qbHw m nbw
+;
+a libation vase of gold,
+
+dbHt-Htp m nbw Hr HD
+;
+an altar of gold and silver,
+
+mnjwt m nbw Hr HD
+;
+necklaces of gold and silver,
+
+Sbn(.w) m xsbD <29> Hr mfkAt
+;
+with lapis lazuli <29> and turquoise,
+
+TAb-n-kA m nbw
+;
+a vessel of gold
+
+agn=f m HD
+;
+with a pedestal of silver,
+
+TAb-n-kA m HD
+;
+a vessel of silver
+
+jnH.w m nbw
+;
+with a golden rim
+
+ag<30>n=f m HD
+;
+and a pedestal of silver,
+
+Tnjw m HD
+;
+a bowl of silver,
+
+nmswt nt mAT
+;
+vessels of granite
+
+mH(.w) m mDt
+;
+filled with ointment,
+
+wSmw aA n HD
+;
+large vessels of silver
+
+jnH.w m nbw
+;
+with a golden rim
+
+[...] <31> jrj m HD
+;
+and a [...] of silver,
+
+bnt m hbnj m nbw Hr HD
+;
+a harp of ebony with gold and silver,
+
+Sspw m HD
+;
+sphinxes of silver,
+
+spt m nbw
+;
+an incense jar of gold.
+
+jw wD.n Hm[=j jrt wjA aA n-]<32>tp jtrw
+;
+[My] Majesty ordered [the creation of the large bark on] the river,
+
+^wsr-HAt-^jmn rn=f,
+;
+called Userhat-Amun,
+
+m aS mA n tp-xtjw
+;
+from fresh cedar from Lebanon,
+
+r jrt Xnt[=f nfrt nt tp-rnpt]
+;
+to make [its] beautiful trip [at the beginning of the year.]
+
+[...] [s]<33>aHa.n=j wxAw m as
+;
+[...] I erected columns of cedar,
+
+kApw sAT m-mjtt
+;
+the roof and floor likewise.
+
+rDj.n=j [...]
+;
+I let [...]

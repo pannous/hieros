@@ -1,0 +1,12 @@
+</script>
+</head>
+
+<body>
+<div id="container">
+    <div id="left">
+    <canvas id="zoom_canvas"></canvas>
+    <a href="prev" id="prev">&#8592;</a>
+    <a href="next" id="next">&#8594;</a>
+    <div id="popup">
+    <a href="#links" id="popupclose" title="close"></a>
+	<div id="popupcontent">

@@ -1,0 +1,202 @@
+<html>
+
+<h1>Manual of Text Viewer</h1>
+
+This software is used to view and edit philological texts.
+Texts are made up of textual resources, plus optionally
+alignments between resources. The respective textual resources may
+have been developed by different people, and may contain different
+types of information. It is generally a good thing to separate
+e.g. an hieroglyphic transcription of a text on the one hand
+and the transliteration and translation of the same text
+on the other hand as separate resources.
+
+<h1>Buttons in file menu</h1>
+
+Not all buttons will be enabled all of the time.
+In particular, some buttons are disabled for applets.
+
+<h2>Close</h2>
+
+Closes the viewer.
+
+<h2>Pdf</h2>
+
+Exports the text as PDF file.
+Various parameters can be changed, and the target
+file can be chosen.
+
+<h1>Buttons in resource menu</h1>
+
+<h2>Close</h2>
+
+Closes an edited phrase, or closes a subpanel with 
+viewed or edited properties of a resource.
+
+<h2>Mode</h2>
+
+This toggles between a normal viewing mode to a mode where
+phrases in resources can be edited. In edit mode, phrasal
+boundaries are explicitly indicated as small green boxes.
+
+<h2>left/right</h2>
+
+In edit mode, the last selection of a symbol is moved left or right.
+
+<h2>Prepend</h2>
+
+In edit mode, prepend new phrase before last phrase that received a mouse click.
+
+<h2>Edit</h2>
+
+In edit mode, edit last phrase that received a mouse click.
+
+<h2>Append</h2>
+
+In edit mode, append new phrase after last phrase that received a mouse click.
+
+<h2>Join</h2>
+
+In edit mode, join last phrase that received a mouse click with the phrase 
+following it from the same resource.
+
+<h2>Cut</h2>
+
+In edit mode, cut last phrase that received a mouse click into two phrases.
+Preferably, there must be a mouse click in every tier of the resource.
+
+<h2>1-way precedence</h2>
+
+In edit mode, after clicking on two symbols in different tiers, 
+the first is constrained to appear to the left of the second.
+If the first symbol was clicked on twice, then the precedence refers to the
+horizontal position just <i>after</i> that symbol.
+
+<h2>2-way precedence</h2>
+
+As above, but the symbols must be aligned one below the other.
+
+<h2>0 precedences</h2>
+
+Any precedence between two clicked symbols is removed. Precedences are
+depicted by blue arrows.
+
+<h2>Auto align</h2>
+
+In edit mode, after clicking symbols from two tiers, the tiers are
+automatically aligned. This is provided the implementation offers
+alignment for the types of those tiers. Currently supported are:
+<ul>
+<li> hieroglyphic with transliterations, and
+<li> translations or transliterations with 
+other translations or transliterations.
+</ul>
+
+<h2>No auto align</h2>
+
+Automatic alignment between two tiers is removed.
+
+<h2>Settings</h2>
+
+Properties of rendering can be changed.
+
+<h1>Help</h1>
+
+Opens this window,
+
+<h1>The index pane</h1>
+
+One may add textual resources. Much less frequently, one may want to
+add a mapping between two numbering schemes for a text, e.g. if
+two different schemes exist for numbering lines in one and the same
+manuscript. An added resource may be a new file or an existing file.
+<p>
+For tiers, one may want to indicate which tiers are to be non-empty
+(tick the appropriate boxes). For those that are to be non-empty,
+one may also indicate how they are going to be used.
+A tier can be: 
+<ul>
+<li>normally <b>shown</b>, or</li> 
+<li>it is taken into account for formatting the other tiers while
+it is <b>omitted</b> itself from the output, or</li> 
+<li>empty space is left (e.g. for student exercises) 
+while the actual tier data is <b>erased</b> from the output.</li>
+</ul>
+<p>
+By the <b>view</b> button, properties of the text can be viewed. 
+By the <b>edit</b> button, properties of the text can be edited. 
+(The <b>edit</b> button does not appear when the text or the
+resources are not editable; this is a matter of file permissions.)
+The <b>up</b> and <b>down</b> buttons may be used to change the order
+in the text pane. The <b>delete</b> button removes the textual
+resource from the text. The corresponding file is not erased from the
+file system however; this has to be done manually.
+<p>
+While editing header or bibliography of a textual resource, do a
+right mouse click to see the special fonts and objects that may be
+entered.
+(A right mouse click can also be obtained by a normal (left) mouse click while
+holding down the <b>Ctrl</b> key. This is especially useful on Mac OS X.)
+
+<h1>The text pane</h1>
+
+As mentioned above, the text may be in ordinary viewing mode or
+in editing mode. If in editing mode, do a right mouse click to
+see whether there are any automatic alignments between tiers.
+<p>
+When editing a phrase, a right mouse click on the panel shows the special
+fonts and objects that can be put in the respective tier of the phrase.
+The <b>etc</b> objects can be used in combination with precedence links.
+One may connect such a link to an <b>etc</b> object
+when there are no suitable symbols for this purpose. The
+<b>etc</b> objects are invisible in normal viewing mode.
+<p>
+A right mouse click on the hieroglyphic in an edited phrase opens a window
+for adding footnotes to hieroglyphs. 
+(A right mouse click can also be obtained by a normal (left) mouse click while
+holding down the <b>Ctrl</b> key. This is especially useful on Mac OS X.)
+In that window, first click on a symbol,
+and then enter text. The buttons <b>left</b> and <b>right</b>
+in the menu can be used to move the position that carries the focus.
+The footnote numbered <b>0</b> is a new footnote for the symbol
+that is the focus.
+The buttons <b>backward</b> and <b>forward</b>
+in the menu can be used to move backward or forward
+the footnote that has the cursor. This is done only one position
+at a time.
+<p>
+If hieroglyphic that has footnotes is changed by the hieroglyphic
+editor, heuristics are applied to maintain the positions of associated
+footnotes. 
+
+<h1>Resource viewers</h1>
+
+A resource containing images is shown in a separate window. Such a resource
+also contains a list of signs, as separate interlinear tier that is only shown in 
+editing mode, when alignment with other tiers can be arranged. 
+In viewing mode, one may click on interlinear text, or on an image, 
+to scroll to a nearby position in the image or in the interlinear text, respectively.
+
+<h1>Keyboard shortcuts</h1>
+
+Instead of clicking on e.g. <b>Close</b> one may also type
+<tt>Alt+C</tt>.
+Watch the underlined capital letters on the buttons.
+<p>
+On Mac OS X, the <tt>Command</tt> key must be used instead of the
+<tt>Alt</tt> key for menu items.
+(The <tt>Command</tt> key is the one with the apple and the four-leaf clover
+on it.)
+For buttons, including the buttons
+for opening menus in the menu bar,
+<tt>Alt</tt> (not <tt>Command</tt>) is used irrespective of platform.
+<p>
+In text fields, ligatures and special characters 
+such as '&szlig;' and '&Ouml;'
+can be entered by typing two characters followed by
+<tt>Alt+Z</tt>. The conversion table can be made to appear through
+<tt>Alt+X</tt>.
+On Mac OS X,
+use <tt>Command+Z</tt> and <tt>Command+X</tt> instead.
+
+</html>

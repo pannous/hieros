@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Eloquent peasant"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 88-99"/>
+<collection kind="books" collect="Sethe, Ägyptische Lesestücke"
+    section="2"/>
+<collection kind="books" collect="Zonhoven, Literary texts in the hieratic script"
+    section="pp. 19-36"/>
+<resource location="../resources/PeasantHiR.xml"/>
+<resource location="../resources/PeasantHiB1.xml"/>
+<resource location="../resources/PeasantHiB2.xml"/>
+<resource location="../resources/PeasantTrR.txt"/>
+<resource location="../resources/PeasantTrB1.txt"/>
+<resource location="../resources/PeasantTrB2.txt"/>
+<resource location="../resources/PeasantEqB1.xml"/>
+<resource location="../resources/PeasantEqR.xml"/>
+<precedence
+  location="../align/PeasantB1B2.xml"
+  resource1="../resources/PeasantTrB1.txt"
+  resource2="../resources/PeasantTrB2.txt"/>
+<precedence
+  location="../align/PeasantB1R.xml"
+  resource1="../resources/PeasantTrB1.txt"
+  resource2="../resources/PeasantTrR.txt"/>
+<precedence
+  location="../align/Peasant.xml"
+  resource1="../resources/PeasantHiB1.xml"
+  resource2="../resources/PeasantTrR.txt"/>
+<precedence
+  location="../align/PeasantHi.xml"
+  resource1="../resources/PeasantHiR.xml"
+  resource2="../resources/PeasantHiB1.xml"/>
+<precedence
+  location="../align/PeasantHiB.xml"
+  resource1="../resources/PeasantHiB1.xml"
+  resource2="../resources/PeasantHiB2.xml"/>
+</text>

@@ -1,0 +1,78 @@
+
+body, select {
+  font: 10pt sans;
+}
+#mynetwork {
+  position:relative;
+  width: 800px;
+  height: 600px;
+  border: 1px solid lightgray;
+}
+table.legend_table {
+  font-size: 11px;
+  border-width:1px;
+  border-color:#d3d3d3;
+  border-style:solid;
+}
+table.legend_table,td {
+  border-width:1px;
+  border-color:#d3d3d3;
+  border-style:solid;
+  padding: 2px;
+}
+div.table_content {
+  width:80px;
+  text-align:center;
+}
+div.table_description {
+  width:100px;
+}
+
+#operation {
+  font-size:28px;
+}
+#network-popUp {
+  display:none;
+  position:absolute;
+  top:350px;
+  left:170px;
+  z-index:299;
+  width:250px;
+  height:120px;
+  background-color: #f9f9f9;
+  border-style:solid;
+  border-width:3px;
+  /*border-color: #5394ed;*/
+  padding:10px;
+  text-align: center;
+}
+/* Disable scrollbar */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    max-height: 100%;
+    overflow-y: hidden;
+}
+
+
+
+.vis-item {
+  position: absolute;
+  color: #1A1A1A;
+  border-color: #97B0F8;
+  border-width: 1px;
+  background-color: #D5DDF6;
+  display: inline-block;
+  /*overflow: hidden;*/
+}
+
+.vis-item.vis-selected {
+  border-color: #FFC200;
+  /*background-color: #FFF785;*/
+  background-color: #0000;
+  /* z-index must be higher than the z-index of custom time bar and current time bar */
+  z-index: 2;
+}
+input[type=number]{
+    width: 60px;
+} 

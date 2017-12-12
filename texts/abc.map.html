@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-8"></META>
+<body>
+Hi welt
+<b>good</b>
+<b>hello</b>
+hello
+<script type="text/javascript" src="abc.map.json5"></script>
+<!-- <script type="text/javascript" src="abc.map.js"></script> -->
+<script type="text/javascript">
+function test(){
+	map=maps["greek"]	
+	text="HOwdy!"
+	console.log(text)
+	for(c of text)console.log(map[c]||" ")
+	text=text.toUpperCase()
+	out=""
+	for(c of text){
+
+		// process.stdout.write(c||" ")
+		// process.stdout.write(maps["greek"][c]||" ")
+		out+=maps["greek"][c]||" "
+	}
+	console.log(out)
+// document.body.innerHTML = document.body.innerHTML.replace(/hello/g, out); NOT HTML!
+}
+
+function abc(){
+	map=maps["greek"]
+	for(var key in map)
+	{
+	  if (!map.hasOwnProperty(key))continue;
+	  match=new RegExp(key,"gi")
+	  // brutal:
+	  neu=document.body.innerText.replace(match, map[key]||" ");
+		document.body.innerText = neu
+		// soft:
+		// var elems = document.querySelectorAll("*")
+	 //  for (i = 0; i < elems.length; i++)
+	 //    if (elems[i].childNodes.length<2)
+	 //      elems[i].innerText = elems[i].innerText.replace(match, map[key]||" ");
+	}
+}
+abc()
+</script>
+</body>
+</head>

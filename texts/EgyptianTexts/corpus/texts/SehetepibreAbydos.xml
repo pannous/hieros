@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Sehetepibre, Stela of"/>
+<collection kind="books" collect="Sethe, Ägyptische Lesestücke"
+    section="13"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume I"
+    subsection="743-748"/>
+<resource location="../resources/SehetepibreAbydosTr.txt"/>
+</text>

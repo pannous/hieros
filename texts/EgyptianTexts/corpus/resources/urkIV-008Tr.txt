@@ -1,0 +1,262 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-08-30
+modified = 2015-08-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transcription of a commemorative stone of a man from Edfu, following
+the transcription of Sethe (1927), number 8 (pp. 29-31).
+
+For published translations, see Sethe (1914), number 8 (pp. 16-17).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<A1> Hmt-nTr n ^jmn Hmt-nsw wrt
+;
+<A1> God's wife of Amun and great king's wife,
+
+^jaH-Htp
+;
+Ahhotep,
+
+mAa-xrw
+;
+justified.
+
+<A2> Hmt-nsw snt-nsw
+;
+<A2> King's wife and king's sister,
+
+[^sbk]-m-sA=f
+;
+[Sobek]-em-saf,
+
+mAa-xrw
+;
+justified.
+
+<A3> Htp-Dj-nsw [...]
+;
+<A3> A royal offering [...]
+
+jxt nb wab sp 2
+;
+all pure things are pure
+
+n kA=T jn [...]
+;
+for you by [...]
+
+<A4> sA=f Hm-nTr n ^Saw
+;
+<A4> His son, priest of Shau,
+
+^Hr-Htp
+;
+Her-hotep,
+
+mAa-xrw
+;
+justified.
+
+<1> Htp-Dj-nsw ^Hr-^bHdtj
+;
+<1> A royal offering of Horus of Edfu,
+
+^wsjr ^Ast
+;
+of Osiris, and of Isis,
+
+Dj=sn prt-r-xrw
+;
+may they give a mortuary offering
+
+t Hnqt kAw Apdw
+;
+of bread, beer, oxen and fowl,
+
+jxt nbt nfrt wabt
+;
+and all good and pure things,
+
+n kA n Hmt-nsw wrt <2> mwt-nsw
+;
+for the spirit of the great king's wife <2> and king's mother
+
+^jaH-Htp
+;
+Ahhotep,
+
+mAat-xrw
+;
+justified,
+
+sA=s ^nb-pHtj-^ra
+;
+and her son Nebpehtire,
+
+mAa-xrw
+;
+justified.
+
+Dj=sn n=j Hm-nTr 2nw n ^Saw n xAw[t]
+;
+They made me second priest of Shau of the altar,
+
+jrj-<3>aA n Hwt-nTr wab
+;
+door-keeper of the tempel and priest,
+
+^jw=f sA ^jrt=s
+;
+Iuf son of Irtes.
+
+Dd=f
+;
+He says:
+
+smAwj.n=j js pn n <4> sAt-nsw
+;
+&quot;I renovated this tomb of <4> the king's daughter
+
+^sbk-m-sA=f
+;
+Sobek-em-saf,
+
+m-xt gmt=f wA(.w) r wAs
+;
+after finding it had fallen into ruin.&quot;
+
+aHa.n Dd.n wab pn
+;
+Then this priest said:
+
+j (s)wA<5>.tj=sn Hr wD pn
+;
+&quot;O those who will pass by this stela,
+
+Dd=j n=Tn
+;
+I speak to you
+
+Dj sDm=Tn Hst xr Hmt-nsw wrt
+;
+to let you hear of the favour of the great king's wife
+
+^jaH-Htp
+;
+Ahhotep:
+
+Dj.n<6>[=s] wj r Hnk n=s
+;
+[she] appointed me to make offering to her;
+
+mnj.n=s wj m rpt nt Hmt=s
+;
+she affiliated me with a statue of Her Majesty;
+
+Dj.n=s n=j aq[w=s]
+;
+she gave me [her] provisions,
+
+<7> bjwt 100
+;
+<7> 100 loaves of <al>bjt</al> bread,
+
+psn 13
+;
+13 loaves of <al>psn</al> bread,
+
+Hnqt ds 2
+;
+2 jars of beer,
+
+pdsw m kA nb
+;
+a cut from the back of every bull;
+
+SA.kw [m] <8> qAt m xr
+;
+and I was assigned <8> high fields and low fields.
+
+wHm.n=s n=j kt Hst
+;
+She went on to bestow on me another favour:
+
+rDj.n=s n=j jxt=s nbt m DbA
+;
+she gave me all her property in Edfu,
+
+<9> r xrp st n Hmt=s
+;
+<9> to manage it for Her Majesty.
+
+kt Hst nt Hmt-nsw wrt
+;
+Another favour of the great king's wife
+
+^jaH-Htp
+;
+Ahhotep,
+
+mAat-xrw
+;
+justified,
+
+mrrt nsw <10> ^aA-xpr-kA-^ra
+;
+beloved of king <10> Aakheperkare,
+
+mAa-xrw
+;
+justified:
+
+Dj.n=s wj r sS xtmw-nTr
+;
+she appointed me as scribe of the divine seal-keeper;
+
+mnj.n=s wj m <11> rpt nt Hmt=s
+;
+she affiliated me with <11> a statue of Her Majesty;
+
+Dj.n=s n=j aqw=s
+;
+she gave me [her] provisions,
+
+100
+;
+100 (loaves),
+
+Hnqt ds 2
+;
+2 jars of beer,
+
+wabt m kA nb
+;
+meat-offering of every bull;
+
+<12> SAj.kw m qAt m xrw
+;
+<12> and I was assigned high fields and low fields.&quot;
+
+sS AHwt n ^Hr-^bHdtj ^dlgj
+;
+Scribe of the field management of Horus of Edfu, Delgi.

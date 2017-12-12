@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-10-17"
+  modified=""
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of the calendar from Papyrus Ebers,
+following the transcription of Sethe (1927), number 13 (p. 44).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="1"/>[hlr]M4*(X1:N5)-(Z15:Z15)*(Z15*Z15:Z15*Z15)-Z15*Z15*Z15-(Aa1:D21)*U36-Z1:N35-M23-L2-cartouche(N5*D45-D28*Z1)-S34-insert[bs](I10,X1:N17)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]F15-W3-N12:Z15*Z15*Z15-N37:[sep=0.5]N35:[sep=0.5]N35:[sep=0.5]N35-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-O1:D21-(X1:D54)*M44-X1:[sep=0.5]N14
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="3"/>[hlr]X1:Aa1-Z4-N12:Z15*Z15*Z15*Z15-&quot;.&quot;-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="4"/>[hlr]Y5:N35-Aa1:X1-N12:Z15-M8:[sep=0.5]Aa1*[sep=0.5]X1-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5"/>[hlr]O6:X1-D2:D21-N12:.*Z15*Z15*.-&quot;.&quot;-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6"/>[hlr]D28-D2:Z1-[sep=0.5]D28-N12:.*Z15*Z15*Z15*.-&quot;.&quot;-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7"/>[hlr]N37a:I9-M34-X1:Z1-N12:Z15*Z15*Z15*Z15-&quot;.&quot;-N5-(Z15:Z15)*(Z15:Z15)-(Z15:Z15)*Z15-Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8"/>[hlr]D21:V31-V28-N12:Z15-O1:D21-X1*N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9"/>[hlr]D21:V31-V28-N12:.*Z15*Z15*.-&quot;.&quot;-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10"/>[hlr]D21:N35-G43-X1:X1-N12:Z15*Z15*Z15-&quot;.&quot;-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11"/>[hlr]Aa1:N35-M23-G43-N12:Z15*Z15*Z15*Z15-&quot;.&quot;-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12"/>[hlr]W17-F32:X1-N12:Z15-N37:N35:[sep=0.5]N35:[sep=0.5]N35-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13"/>[hlr]M17-(Q3:X1)*F27-B1-N12:.*Z15*Z15*.-&quot;.&quot;-N5-Z15*Z15*Z15:Z15*Z15*Z15-Z15*Z15*Z15-&quot;.&quot;
+</texthi>
+</segment>
+</egyptian>

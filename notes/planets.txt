@@ -1,0 +1,36 @@
+  German     Sonne     Merkur       Venus     Erde      Mond     Mars     Jupiter   Saturn  
+  Arabic     Shams     Otaared      Zuhra     Ard       Quamar   Merrikh  Mushtarie Zuhal   
+  Babylonian Samas     Sihtu        Delebat   Ersetu    Sin      Salbatanu Neberu   Kayamanu   	 
+  Sumerian   Utu       Udu-idim-gu-ud Nin-si-an-na      Suen     Si-mu-ud Mul-sag-me-gar Udu-idim-sag-us
+  Klingon    Sol       merqurI'     vIneS     tera'     luna     ma'rIS   ju'pIter  Sa'tun   
+  Farsi      Khorshid  Tir          Naheed    Zamin     Mah      Bahram   Berjis    Kayvon     
+  Hebrew     Shemesh   Kochav Chama Nogah     Eretz     Yareach  Ma'adim  Tzedek    Shabtay  
+  Basque     Eguzkia   Merkurio     Artizar   Lurra     Ilargia  Martitza Jupiter   Saturno    
+  Greek      Helios    Hermes       Aphrodite Gaea      Selene   Ares     Zeus      Kronos     
+  Welsh      Haul      Mercher      Gwener    Daear     Lleuad   Mawrth   Iau       Sadwrn     
+  Cantonese  Taiyeung  Suising      Gumsing   Deiqao    Yueqao   Fuosing  Moqsing   Tousing    
+  Breton     Heol      Merc'her     Gwener    Douar     Loar     Meurzh   Yaou      Sadorn     
+  Sanskrit   Surya     Budha        Sukra     Dhara     Chandra  Mangala  Braspat   Sani
+  Gujarati   Surya     Budh         Shukra    Prathivi  Chandra  Man.gal   Guru      Shani
+  Bengali    Surya     Budh         Shukra    Prithivi  Chand    Mangal   Brihaspati Shani
+
+Mars <-> Merrikh !!! WTF
+
+Ar.de [erd deus] -> Dae.ar
+ 	 		 	土   tǔ	 	 	die Erde  kein Pl.
+ 	 		 	大 地 dàdì 	 	die Erde  kein Pl.
+                 
+
+                                                                            
+  Irish      Grian     Mearcair     Véineas   An Domhan Gealach  Mars     Iúpatar   Satarn    
+  Sc. Gaelic Grian     Mearcair     Ribhinn   An Talamh Gealach  Corg     Bliogh    Satarn   
+  Hebrew     Shemesh   Kochav Chama Nogah     Eretz     Yareach  Ma'adim  Tzedek    Shabtay  
+  Arabic     Shams     Otaared      Zuhra     Ard       Quamar   Merrikh  Mushtarie Zuhal    
+  Turkish    Günes     Merkür       Venüs     Dünya     Ay!      Mars                        
+  Uzbek      Quyosh    Utorid       Zuhra     Yer       Oy       Mirrikh  Mushtarij Zuhal    
+  Farsi      Khorshid  Tir          Naheed    Zamin     Mah      Bahram   Berjis    Kayvon   
+  Cantonese  Taiyeung  Suising      Gumsing   Deiqao    Yueqao   Fuosing  Moqsing   Tousing  
+  Mandarin   Taiyang   Shuixing     Jinxing   Diqiu     Yueqiu   Huoxing  Muxing    Tuxing   
+  Korean     Taeyang   Soosung      Kumsung   Jeegoo    Dal      Hwasung  Moksung   Tosung   
+  Japanese   Taiyou    Suisei       Kinsei    Chikyuu   Tsuki    Kasei    Mokusei   Dosei    
+                                                                                             satisfaction

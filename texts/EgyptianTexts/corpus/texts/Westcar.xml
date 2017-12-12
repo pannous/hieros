@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit; ortho">
+<primary language="eng" name="Westcar Papyrus"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 79-88"/>
+<collection kind="books" collect="Sethe, Ägyptische Lesestücke"
+    section="3"/>
+<collection kind="books" collect="Zonhoven, Literary texts in the hieratic script"
+    section="pp. 60-74"/>
+<resource location="../resources/WestcarHi.xml"/>
+<resource location="../resources/WestcarTr.txt"/>
+<resource location="../resources/WestcarOrtho.xml"/>
+<autoalign
+  location1="../resources/WestcarHi.xml"
+  tier1="hieroglyphic"
+  location2="../resources/WestcarTr.txt"
+  tier2="transliteration"/>
+<autoalign
+  location1="../resources/WestcarOrtho.xml"
+  tier1="orthographic"
+  location2="../resources/WestcarHi.xml"
+  tier2="hieroglyphic"/>
+</text>

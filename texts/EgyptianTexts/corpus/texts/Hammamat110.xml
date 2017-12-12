@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Hammamat expedition: first wonder"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume I"
+    subsection="435-438"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 76-77"/>
+<resource location="../resources/Hammamat110Tr.txt"/>
+</text>

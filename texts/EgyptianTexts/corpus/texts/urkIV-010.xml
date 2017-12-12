@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Seni, viceroy of Kush, Fragment of biographical inscription of"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="10"/>
+<collection kind="kings" collect="Ahmose"/>
+<collection kind="kings" collect="Amenophis I"/>
+<collection kind="kings" collect="Tuthmosis I"/>
+<collection kind="kings" collect="Tuthmosis II"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="61-66"/>
+<resource location="../resources/urkIV-010Hi.xml"/>
+<resource location="../resources/urkIV-010Tr.txt"/>
+</text>

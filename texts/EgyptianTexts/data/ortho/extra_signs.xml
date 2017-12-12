@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- In OCR tool, signs that are not hieroglyphs -->
+<extras>
+<!-- boxes -->
+<box name="cartouche"/>
+<box name="oval"/>
+<box name="serekh"/>
+<box name="inb"/>
+<box name="rectangle"/>
+<box name="hwtopenover"/>
+<box name="hwtopenunder"/>
+<box name="hwtcloseover"/>
+<box name="hwtcloseunder"/>        
+<!-- block of shading -->
+<extra name="shade"/>
+<!-- unknown hieroglyph -->
+<extra name="unk"/>
+<!-- footnote markers -->
+<extra name="a"/>
+<extra name="b"/>
+<extra name="c"/>
+<extra name="d"/>
+<extra name="e"/>
+<extra name="f"/>
+<extra name="g"/>
+<extra name="h"/>
+<extra name="i"/>
+<extra name="j"/>
+<extra name="k"/>
+<extra name="l"/>
+<extra name="m"/>
+<extra name="n"/>
+<extra name="o"/>
+<extra name="p"/>
+<extra name="q"/>
+<extra name="r"/>
+<extra name="s"/>
+<extra name="t"/>
+<extra name="u"/>
+<extra name="v"/>
+<extra name="w"/>
+<extra name="x"/>
+<extra name="y"/>
+<extra name="z"/>
+<!-- comments/markers in margin -->
+<extra name="so"/>
+<extra name="star"/>
+<!-- line numbers -->
+<extra name="0"/>
+<extra name="1"/>
+<extra name="2"/>
+<extra name="3"/>
+<extra name="4"/>
+<extra name="5"/>
+<extra name="6"/>
+<extra name="7"/>
+<extra name="8"/>
+<extra name="9"/>
+<!-- circle around line number not attached to digits -->
+<extra name="circle"/>
+<!-- circle with (some) of the digits attached -->
+<extra name="circle1"/>
+<extra name="circle2"/>
+<extra name="circle3"/>
+<extra name="circle4"/>
+<extra name="circle5"/>
+<extra name="circle6"/>
+<extra name="circle7"/>
+<extra name="circle8"/>
+<extra name="circle9"/>
+<extra name="circle10"/>
+<extra name="circle11"/>
+<extra name="circle12"/>
+<extra name="circle13"/>
+<extra name="circle14"/>
+<extra name="circle15"/>
+<extra name="circle16"/>
+<extra name="circle17"/>
+<extra name="circle18"/>
+<extra name="circle19"/>
+<extra name="circle20"/>
+<extra name="circle21"/>
+<extra name="circle22"/>
+<extra name="circle23"/>
+<extra name="circle24"/>
+<extra name="circle25"/>
+<extra name="circle26"/>
+<extra name="circle27"/>
+<extra name="circle28"/>
+<extra name="circle29"/>
+<extra name="circle30"/>
+<extra name="circle31"/>
+<extra name="circle32"/>
+<extra name="circle33"/>
+<extra name="circle34"/>
+<extra name="circle35"/>
+<extra name="circle36"/>
+<extra name="circle37"/>
+<extra name="circle38"/>
+<extra name="circle39"/>
+<extra name="circle1_"/>
+<extra name="circle2_"/>
+<extra name="circle3_"/>
+<extra name="circle_0"/>
+<extra name="circle_1"/>
+<extra name="circle_2"/>
+<extra name="circle_3"/>
+<extra name="circle_4"/>
+<extra name="circle_5"/>
+<extra name="circle_6"/>
+<extra name="circle_7"/>
+<extra name="circle_8"/>
+<extra name="circle_9"/>
+<!-- square brackets -->
+<extra name="openbr"/>
+<extra name="closebr"/>
+</extras>

@@ -1,0 +1,184 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-10-05
+modified =
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of 
+fragment of a biographical inscription of Seni, viceroy of Kush,
+following the transcription of 
+Sethe (1927), number 10 (pp. 39-41).
+
+For published translations, see Sethe (1914), number 10 (pp. 21-22),
+Breasted (1906), pp. 26-27, §§ 61-66.
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> [...] xr nsw nsw-bjtj ^nb-pHtj-^ra
+;
+<1> [...] under the king, the king of Upper and Lower Egypt Nebpehtire.
+
+rDj.n=f wj r jmj[-rA] <2> [...]
+;
+He appointed me as overseer <2> [...]
+
+qd(=j) nfr(.w) Hr jb=f wrt
+;
+my character was very pleasing to his heart.
+
+n wnt sk(=j) m [...] <3> [...]
+;
+There was no complaint against me in [...] <3> [...]
+
+Snyt=f
+;
+his courtiers.
+
+wHm Hswt(=j) jn sA=f
+;
+Another favour was bestowed on me by his son,
+
+nsw-bjtj [^Dsr-kA]-^ra
+;
+the king of Upper and Lower Egypt Djeserkare.
+
+<4> [rDj.n=f wj r jmj-rA Snw]tj n ^jmn
+;
+<4> [He appointed me as overseer of the granaries] of Amun,
+
+r xrp kAt m ^jpt-swt
+;
+and as director of works in Karnak.
+
+aq[.kw <5> Hr jb n Hm=f]
+;
+[I became intimate with His Majesty.]
+
+[rx].n=f mnxt nt jb(=j)
+;
+He [got to know] the excellence of my mind.
+
+Hs.n=f wj Hr jrt mAat=f [...]
+;
+He praised me for carrying out his justice [...]
+
+<6> sp tp n wHm Hswt(=j) nsw-bjtj ^aA-xpr-kA-^ra
+;
+<6> The first time the king of Upper and Lower Egypt Aakheperkare
+bestowed on me another favour,
+
+rDj.n=f wj r sA-nsw
+;
+he appointed me as king's-son,
+
+r[Dj.n=f n(=j)
+;
+and [gave me]
+
+nbw <7> mx]tbt [...]
+;
+an armlet [of gold], [...]
+
+nbw msktw
+;
+and a bracelet of gold.
+
+sp 2nw [n wHm Hswt(=j) nsw-bjtj <8> ^aA-xpr-kA-^ra
+;
+The second time [the king of Upper and Lower Egypt Aakheperkare
+bestowed on me another favour,
+
+wD.n=f r]Djt n(=j) 
+;
+he ordered that] I be given
+
+nbw SAb 2
+;
+two necklaces<note>Assuming this is an alternative form of <al>Sbw</al>.</note> of gold,
+
+nbw awaw 2
+;
+two rings of gold,
+
+mx[tbt] [...]
+;
+an armlet, [...]
+
+<9> [sTn.n=f] wj r wrw aH
+;
+<9> [He distinguished] me more than the great ones of the palace.
+
+rx.n=f jqr(=j) xnt [smrw=f]
+;
+He got to know my excellence before [his friends].
+
+[sjA=f <10> wj m jr Hs]s[wt=f
+;
+[He recognized <10> that I was one who did what he praised,]
+
+tm jr mr[t] m DADAt
+;
+who didn't turn magistrates into servants,
+
+mtj mAa [...]
+;
+a truly righteous man [...]
+
+<11> [...] m st sHtp-jb
+;
+<11> [...] in a place of satisfaction,
+
+pH.n=f jAwt
+;
+when he reached old age,
+
+n [gm wn=f xr <12> rmT]
+;
+without [a fault of his having been found by <12> people].
+
+sp tp n wHm Hswt(=j) nsw-bjtj ^aA-xpr-n-^ra
+;
+The first time the king of Upper and Lower Egypt Aakheperenre
+bestowed on me another favour,
+
+jr.n=f [...]
+;
+he did [...].
+
+<13> [n jry(=j) sp Xs] Hr wpt nt nsw
+;
+<13> [I never acted appalingly] on a mission of the king.
+
+smn rd(=j) m [...]
+;
+My foot became strong [...]
+
+sp 2nw <14> [n wHm Hswt(=j) nsw-bjtj ^aA-xpr-n-^ra]
+;
+The second time [the king of Upper and Lower Egypt Aakheperenre
+bestowed on me another favour,]
+
+saA.n=f wj m Hrj-jb [...]
+;
+he advanced me among [...]

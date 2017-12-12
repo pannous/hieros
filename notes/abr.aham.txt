@@ -1,0 +1,55 @@
+(Comp.)adv.	Adverb (Comparative) 
+Adj		Adjective
+Adj & Adv.		Adjective and Adverb
+Adj. & Comp.adv.		Adjective and Adverb, Comparative
+Adj. & Indec.num.		Adjective and Indeclinable Numeral
+Adj. & n.f. & n.m.		Adjective and Noun, Feminine and Masculin
+Adj. & n.m.		Adjective and Noun, Masculine
+Adj. &v.		Adjective and Verb
+Adv		Adverb 
+Adv. & Irg.adv.	Adverb, Interrogative 
+Adv. & Prep.	ADVerb and PREPosition 
+Adv. & v.		Adverb and Verb
+Aram.		ARAMaic transliterated word
+Aram. & Heb.	ARAMaic or HEBrew transliterated word
+Article		Definite article
+Cj.		CONJunction
+Comp.adv.	Adverb, Comparative
+Cond.		CONDitional + KAI in crasis
+Corr./Irg.pr.	correlative or interrogative pronoun
+Corr.adv.		Adverb, Correlative
+Corr.pr.		Correlative pronoun
+Corr.pr. & Rel.pr.	Correlative pronoun and Relative Pronoun 
+Dem.pr.		Demonstrative pronoun
+Disj.prt.		Particle, disjunctive particle
+Hebr.		HEBrew form
+Ij.		INterJection
+Ij. & n.indcl.	INterJection and Noun
+Indec.num.	Indeclinable
+Indef.pr.		Indefinite pronoun
+Irg.adv.		Adverb, Interrogative
+Irg.pr.		Interrogative pronoun
+Irg.prt.		Particle, interrogative
+Irg.prt. & Neg.prt	Particle, interrogative and Particle, Negative 
+letter		Indeclinable letter (Noun)
+n.f.		Noun, Feminine
+n.f. & n.m.	Noun, Feminine and Masculine
+n.f. & n.n.	Noun, Feminine and Neuter
+n.f. & Prop.n. 	Noun, Feminine and Proper noun, Indeclinable 
+n.indcl.		Noun, Indeclinable
+n.m.		Noun, Masculine
+n.m. & n.n.	Noun, Masculine and Neuter
+n.m. & Prop.n.	Noun, Masculine and Proper noun, Indeclinable		
+n.n.		Noun, Neuter
+Neg.adv.		Adverb, Negative
+Neg.cj.		CONJunction, Negative
+Neg.prt.		Particle, negative
+Pers.pr.		Personal pronoun
+Poss.pr.		Possessive pronoun
+Prep.		PREPosition
+Prop.n.		Proper noun, Indeclinable
+Recip.pr.		reCiprocal pronoun
+Refl.pr.		Reflexive pronoun
+Rel.pr.		Relative pronoun
+Sup.adv.		Adverb, Superlative
+v.		Verb

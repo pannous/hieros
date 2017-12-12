@@ -1,0 +1,990 @@
+abort 		a abandona 
+abstract 		abstract 
+accelerator 		accelerator 
+accept 		a accepta 
+access 		a avea acces la 
+account 		cont 
+active 		activ 
+activate 		a activa 
+active matrix display 		dispozitiv de afișare cu matrice activă 
+actor 		actor 
+adaptive routing 		rutare flexibilă 
+add 		a adăuga 
+additional 		suplimentar 
+address 		adresă 
+address book 		agendă 
+aditive inverse 		inversa aditivă 
+adjust 		a ajusta 
+administration 		administrare 
+aggregate 		agregat 
+aggregate bandwidth 		lățime de bandă cumulată 
+alarm 		alarmă 
+alias 		alias 
+align 		aliniere 
+allow 		a permite 
+alpha 		alfa 
+alpha channel 		canal alfa 
+amplitude modulation 		modulare în amplitudine 
+analog 		analog 
+analysis 		analiză 
+anchor 		ancoră 
+and 		și 
+animation 		animație 
+anonymous 		anonim 
+answer mode 		mod răspundere 
+antialiasing 		antitreaptă 
+appearance 		aspect 
+append 		a adăuga 
+applet 		aplet 
+application 		aplicație 
+application launcher 		lansator de aplicație 
+apply 		a aplica 
+arc 		arc 
+archive 		a arhiva 
+archive file 		arhivă 
+argument 		argument 
+array 		tablou 
+arrow key 		tastă săgeată 
+article 		articol 
+ascending 		crescător 
+aspect ratio 		proporție 
+asserted signal 		semnal asigurat 
+asynchronous 		asincron 
+attach 		a anexa 
+attachment 		anexă 
+attribute 		atribut 
+audio 		audio 
+authentication 		autentificare 
+author 		autor 
+autofill 		umplere automată 
+availability 		disponibilitate 
+average 		mediu 
+axis 		axă 
+baby feeding algorithm 		algoritmul de alimentare la cerere 
+background 		fundal 
+backup 		copie de siguranță 
+backward 		înapoi 
+backward compatibility 		compatibilitate cu versiunile anterioare 
+balance 		balanță 
+bandwidth 		lățime de bandă 
+base 		bază 
+basic 		fundamental 
+batch 		lot 
+batch system 		sistem de prelucrare pe loturi 
+benchmark 		test de performanță 
+best fit algorithm 		algoritmul "cea mai bună potrivire" 
+beta 		beta 
+big endian 		cel-mai-semnificativ-primul 
+binary 		binar 
+bind 		a lega 
+binding 		legătură 
+binomial distribution 		distribuția binomială 
+bit 		bit 
+bitmap 		hartă de biți 
+blank 		blanc 
+blink 		clipește 
+block-level parallelism 		paralelism la nivel de bloc 
+blocked 		blocat 
+blur 		difuz 
+body 		corp 
+bold 		aldin 
+bookmark 		semn de carte 
+boolean 		boolean 
+bottleneck 		gâtuire 
+bottom 		bază 
+bound 		a lega 
+box 		căsuță 
+branch 		ramificație 
+branch history shift register 		registru de deplasare pentru istoria ramificațiilor 
+bricks 		cărămizi 
+browse 		a naviga 
+browser 		navigator 
+buffer 		memorie tampon 
+bug 		scamă 
+build 		versiune compilată 
+built in 		nativ 
+bundle 		a include 
+bus 		magistrală 
+busy 		ocupat 
+button 		buton 
+byte 		octet 
+c 		limbajul de programare c 
+cache 		ascunzătoare 
+calculator 		calculator 
+calendar 		calendar 
+call 		a chema 
+callback 		chemare (în raspuns) 
+cancel 		renunță 
+canvas 		țesătură 
+capability 		capacitate 
+caption 		legendă 
+card 		placă (hardware) 
+caret 		semnul "^" 
+case insensitive 		cu majuscule nesemnificative 
+case sensitive 		cu majuscule semnificative 
+categorie 		categorie 
+cd 		compact disc 
+cell 		celulă 
+cellular 		celular 
+center 		centru 
+channel 		canal 
+character set 		set de caractere 
+chat 		discuție 
+check 		verifică 
+child 		copil 
+chooser 		selector 
+class 		clasă 
+classification 		clasificare 
+clear 		șterge 
+click 		a apăsa 
+clipboard 		planșetă 
+close 		închis 
+cluster 		ciorchine 
+code 		cod 
+coefficient 		coeficient 
+collaboration 		colaborare 
+collapse 		prăbușire 
+collate 		a uni 
+collision 		ciocnire 
+colormap 		hartă de culori 
+command 		comandă 
+command line 		linie de comandă 
+command line options 		parametrii liniei de comandă 
+common properties 		proprietăți comune 
+compare 		a compara 
+compliant 		conform cu 
+computer 		computer 
+concatenate 		a înlănțui 
+condition 		condiție 
+conduit 		conductă 
+confidential 		confidențial 
+configuration 		configurație 
+confirm 		a confirma 
+confirmation 		confirmare 
+connect 		conectare 
+connection 		conexiune 
+constraint 		restricție 
+content 		conținut 
+continue 		continuă 
+control 		control 
+controller 		controlor 
+conversion 		conversie 
+cookie 		fursec 
+copy 		copiază 
+copyright 		drept de autor 
+correlation 		corelație 
+corrupt 		alterat 
+cost 		cost 
+cought 		detectat 
+count 		socoteală 
+covariance 		covariație 
+cpu 		procesor 
+crash 		cădere 
+create 		a crea 
+credits 		credit 
+critical error 		eroare critică 
+crop 		recoltă 
+cumulative 		cumulativ 
+current 		curent 
+cursor 		cursor 
+curve 		curbă 
+customize 		personalizare 
+custom 		personalizat 
+cut 		decupează 
+cyan 		azuriu 
+daemon 		demon 
+data 		dată 
+database 		bază de date 
+deadlock 		punct mort 
+debug 		a depana 
+decimal 		zecimal 
+decrease 		a scădea 
+default 		implicit 
+delete 		a șterge 
+deny 		a refuza 
+dependence 		dependință 
+deploy 		a desfășura 
+deprecated 		învechit 
+derived 		derivat 
+descending sort 		ordonare descrescătoare 
+destination 		destinație 
+destroy 		a distruge 
+detection 		identificare 
+develop 		a dezvolta 
+device 		dispozitiv 
+diagonal 		diagonală 
+diagram 		diagramă 
+dial 		a apela 
+digit 		cifră 
+dimension 		dimensiune 
+direction 		direcție 
+directory 		director 
+disable 		a dezactiva 
+discard 		a anula 
+disclaimer 		declarație de neasumare a responsabiltății 
+disconnect 		deconectare 
+disconnecting 		deconectez 
+discrete 		discret 
+disk 		disc 
+dismiss 		a da afara 
+display 		a afișa 
+dissipation 		risipire 
+distribute 		a distribui 
+dithering 		tremur 
+division by zero 		împărțire la zero 
+dock 		doc 
+document 		document 
+domain 		domeniu 
+done 		gata 
+dot 		punct 
+download 		a descărca 
+downstream 		aval 
+drag and drop 		trage și lasă să cadă 
+draft 		ciornă 
+drawer 		sertar 
+drawing area 		zona de desenat 
+drive 		unitate 
+driver 		pilot 
+drop 		a lasă să cadă 
+druid 		druid 
+dumb terminal 		terminal prost/mut 
+duplicate 		a duplica 
+dynamic 		dinamic 
+e-mail 		poștă electronică 
+echo 		ecou 
+edge 		margine 
+edit 		a modifica 
+effects 		efecte 
+eject 		a scoate 
+electronic mail 		poștă electronică 
+email 		poștă electronică 
+embedded 		încapsulat 
+embossed 		reliefat 
+emulate 		a emula 
+enable 		a activa 
+encapsulated postscript 		postscript încapsulat 
+encoding 		codare 
+engineering 		inginerie 
+enhance 		a imbunătăți 
+entity 		entitate 
+environment variable 		variabilă a mediului 
+equation 		ecuație 
+error 		eroare 
+escape 		a scăpa 
+ethernet 		ethernet 
+event 		eveniment 
+exception 		excepție 
+exclusive or 		sau exclusiv 
+executable file 		fișier executabil 
+execute 		a executa 
+exit 		ieșire 
+expand 		a desfășura 
+expanded memory 		memorie expandată 
+expected location 		locația presupusă 
+explicit state 		statut explicit 
+exponential notation 		notație exponențială 
+export 		a exporta 
+expression 		expresie 
+expunge 		a elimina 
+extension 		extensie 
+extract 		a extrage 
+fail 		a eșua 
+fallback 		reîntoarcere/rezervă 
+faq 		întrebări frecvente 
+favorite 		favorit 
+fax 		fax 
+feature 		facilitate 
+feedback 		reacție 
+field 		cîmp 
+file 		fișier 
+filename 		nume de fișier 
+filesystem 		sistem de fișiere 
+fill 		a umple 
+filter 		filtru 
+find 		a găsi 
+firewall 		firewall 
+flag 		steag 
+float 		a pluti 
+floppy 		dischetă 
+flow analysis 		analiza circuitelor 
+flowchart 		flowchart (hartă a fluxurilor) 
+framerate 		frecventa 
+focus 		a focaliza 
+folder 		dosar 
+font 		literă (cum arată corpul de literă) 
+footer 		subsol 
+forecast 		previziune 
+foreground 		prim plan 
+fork 		a bifurca 
+form 		a forma 
+format 		format 
+formula 		formulă 
+forward 		înainte 
+fourier analysis 		analiză fourier 
+fraction 		fracție 
+frame 		cadru 
+free software 		soft liber 
+Free Software Foundation 		Fundația pentru Software Liber 
+FSF 		Fundația pentru Software Liber 
+freeware 		gratuit 
+frequency 		frecvență 
+ftp 		protocol de transfer de fișiere 
+File Transfer Protocol 		protocol de transder de fișiere 
+full pathname 		cale completă 
+function 		funcție 
+gamma 		gama (litera grecească) 
+gap 		lipsă 
+band gap 		bandă de separare 
+garbage collector 		colector de memorie reziduală 
+gateway 		poartă 
+geometry 		geometrie 
+get 		a primi 
+getting started 		primii pași 
+glitch 		scăpare 
+global 		global 
+glob 		a expanda 
+go 		mergi 
+grab 		a apuca 
+gradient 		pantă 
+graph 		grafic 
+graphical user interface 		interfață grafică pentru utilizator 
+GUI 		interfață grafică pentru utilizator 
+grayscale 		scală de gri 
+grid 		grilă 
+group 		grup 
+guide 		a ghida 
+gutter 		rigolă 
+halt 		oprire 
+handle 		a manevra 
+handler 		descriptor 
+handshake 		strîngere de mînă 
+hard disk 		disc 
+hard 		greu 
+hardware 		fierărie 
+header 		antet 
+hello world 		salut lume 
+help 		ajutor 
+heap 		a încărca 
+hex 		hexazecimal (în baza 16) 
+hidden file 		fișier ascuns 
+hide 		a (se) ascunde 
+hierachy 		ierarhie 
+highlight 		a evidenția 
+hint 		sugestie 
+hyperlink 		hiperlegătură 
+histogram 		histogramă 
+history 		istoric 
+home 		acasă 
+home directory 		directorul personal al unui utilizator 
+home page 		pagină de pornire 
+homogeneous environment 		mediu omogen 
+host 		gazdă 
+hostname 		nume de gazdă 
+hot key 		tastă fierbinte 
+hot link 		legătură fierbinte 
+hot spot 		punct fierbinte 
+housekeeping 		întreținere 
+html 		limbajul de marcare a hipertextului 
+Hypertext Markup Language 		limbajul de marcare a hipertextului 
+http 		protocolul de tranfer a hipertextului 
+Hypertext Transfer Protocol 		protocolul de tranfer a hipertextului 
+hue 		nuanță 
+i/o 		intrări și ieșiri 
+input/output 		intrări și ieșiri 
+i/o subsystem 		subsistemulde intrări și ieșiri 
+icon 		icoană 
+id 		identificator 
+identifier 		identificator 
+idle 		în așteptare 
+illegal 		ilegal 
+image 		imagine 
+implementation 		îndeplinire 
+import 		a importa 
+inactive window 		fereastra inactivă 
+inch 		țol 
+increase 		creștere 
+increment 		creștere 
+incremental update 		o metodă de punere la zi prin reținerea doar a modificărilor ulterioare unei anumite date 
+indent 		a zimțui 
+index 		index 
+indicator 		indicator 
+information 		informație 
+initialization 		inițiere 
+input 		aducere 
+insertion 		introducere 
+insertion point 		punct de inserare 
+install 		instalare 
+interaction 		interacțiune 
+intercept 		a intercepta 
+interface 		interfață 
+internal bug 		problemă internă 
+internal error 		eroare internă 
+international 		internațional 
+internet 		internet 
+interrupt 		întrerupere 
+intersect 		a intersecta 
+interval 		interval 
+intuitive 		intuitiv 
+invalid 		invalid 
+invert 		a inversa 
+invert selection 		inversează selecția 
+invisible 		invizibil 
+ip address 		adresă IP 
+italic 		italic 
+item 		element 
+job 		sarcină 
+justify 		a alinia la margini 
+kernel 		nucleu 
+key 		tastă 
+keyboard 		tastatură 
+keyword 		cuvînt cheie 
+kill 		a omorî 
+kilobyte 		kilobyte 
+kit 		trusă 
+installation kit 		pachet de instalare 
+label 		etichetă 
+lambda 		lambda 
+landscape 		decor 
+language 		limbă 
+laptop 		laptop 
+latency 		latență 
+launch icon 		pictogramă de lansare 
+launcher 		lansator 
+layer 		strat 
+layout 		machetă 
+legacy 		moștenit 
+legacy system 		sistem moștenit 
+legacy application 		aplicație moștenită 
+legal 		legal 
+length 		lungime 
+letter 		literă 
+library 		bibliotecă 
+license agreement 		întelegere contractuală legată de tipul de licență sub care este distribuită o aplicație 
+limit 		limită 
+line 		linie 
+line arguments 		argumentele din linia de comandă 
+linear transfer 		transfer liniar 
+link 		a lega 
+load 		a încărca 
+local 		local 
+location 		locație 
+lock 		a bloca 
+log 		jurnal 
+logical 		logic (adevărat sau fals) 
+logo 		emblemă 
+look 		a se uita 
+lookup 		căutare 
+loop 		ciclu 
+look and feel 		aspect 
+mail 		poștă 
+mail client 		client de postă electronică 
+mail server 		server de poștă electronică 
+mailbox 		cutie poștală 
+main body 		corpul mesajului - mesajul propriu-zis 
+mainframe 		mainframe 
+magenta 		fucsină 
+man page 		pagină de manual 
+manager 		manager 
+manual 		manual 
+manual page 		pagină de manual 
+margin 		margine 
+mark 		marcaj 
+markup 		marcare 
+markup language 		limbaj de marcare 
+matching 		care se potrivește 
+mdi 		interfață cu multiple documente 
+Multiple Document Interface 		interfață cu multiple documente 
+media 		mediu 
+media type 		tip de mediu 
+median 		medie 
+meeting 		întîlnire 
+memory 		memorie 
+menu 		meniu 
+menubar 		bara de meniu 
+merge 		a combina 
+message 		mesaj 
+minimize 		a minimiza 
+minix 		sistem de operare din familia Unix 
+minor faults 		greșeli minore 
+mirror 		oglindă 
+misc 		diverse 
+miscellaneous 		diverse 
+mode 		mod 
+model 		model 
+modem 		modem 
+modifier 		modificator 
+modify 		a modifica 
+module 		modul 
+monitor 		monitor 
+monochrome 		monocrom 
+mount 		a monta 
+mouse 		șoarece 
+move 		a (se) mișca 
+ms 		MicroSoft 
+mtu 		unitatea maximă de tranmisie 
+Maximum Transmission Unit 		unitatea maximă de tranmisie 
+multimedia 		multimedia 
+namespace 		spațiu de nume 
+nested 		îmbricat 
+network 		rețea 
+nibble 		a ciuguli 
+node 		nod 
+none 		nimic 
+normal distribution 		distribuția normală 
+notebook 		agendă 
+notepad 		carnețel 
+notice 		notiță 
+notify 		a înștiința 
+number 		număr 
+number of 		număr de 
+numbered list 		listă (fiecare element primește un număr) 
+numeric 		numeric 
+object code 		cod obiect 
+oblique 		oblic 
+observation 		observații 
+obsolete 		învechit 
+offline 		deconectat 
+offset 		decalaj 
+online 		conectat 
+opacity 		opacitate 
+open 		deschis 
+open source 		sursă deschisă - aplicații ale căror surse sînt publice 
+operating system 		sistem de operare 
+operation 		operație 
+optional 		opțional 
+option 		opțiune 
+or 		sau 
+order 		comandă 
+orientation 		orientare 
+origin 		origine 
+outline 		a sublinia 
+output 		a produce 
+override 		a strivi 
+overstrike 		a tăia 
+overwrite 		a suprascrie 
+owner 		proprietar 
+pack 		a împacheta 
+package 		pachet 
+packet 		pachet (mai mic decît package) 
+padding 		umplutură 
+page 		pagină 
+pager 		paginator 
+palette 		paletă 
+panel 		panou 
+parameter 		parametru 
+parcel 		a împărți 
+parse 		a analiza 
+partition 		împărțire 
+password 		parolă 
+paste 		a lipi 
+patern 		a modela 
+path 		cale 
+peak 		vîrf 
+peer 		seamăn 
+pending 		sespendat 
+pending signal 		semnal suspendat 
+period 		perioadă 
+periodic 		periodic 
+permission 		permisiune 
+physical memory 		memorie fizică 
+pipe 		pipă 
+pixel 		pixel 
+place 		loc 
+plain text 		text simplu 
+play 		a reda 
+please 		vă rog 
+plug 		dop 
+plug-in 		modul 
+plugged 		conectat 
+point 		a indica 
+poisson distribution 		distribuție poisson 
+policy 		politică 
+polygon 		poligon 
+pool 		baltă 
+port 		port 
+portrait 		portret 
+post office 		oficiu poștal 
+postal box 		casuță poștală 
+postscript 		postscript 
+power management 		administrarea curentului electric 
+preemptive 		preemptiv 
+preferences 		preferințe 
+prefix 		prefix 
+preview 		previzualizare 
+primary colors 		culori de bază 
+print 		a tipări 
+print area 		zonă tipăribilă 
+printer 		imprimantă 
+priority 		prioritate 
+privacy 		intimitate 
+private key 		cheie privată/personală 
+private message 		mesaj personal 
+problem 		problemă 
+process 		proces 
+process id 		identificator de proces 
+processor 		procesor 
+prodigy 		semn rău 
+program 		program 
+progress 		progres 
+progress bar 		bară de progres 
+project 		proiect 
+propagation 		propagare 
+properties 		proprietăți 
+proportional font 		caractere proportionale 
+protected 		protejat 
+protection 		protecție 
+protocol 		protocol 
+provision 		măsură 
+proxy 		împuternicire 
+public 		public 
+public key 		cheie publică 
+put 		pune 
+only 		doar 
+query 		întrebare 
+queue 		coadă 
+quit 		ieșire 
+quoting 		citare 
+radio button 		buton radio 
+random 		aleator 
+range 		a înșira 
+rank 		grad 
+rating 		apreciere 
+ratio 		proporție 
+raw 		brut 
+raw data 		date brute 
+raw memory 		memorie brută 
+read out 		a citi cu voce tare 
+ready 		gata 
+real memory 		memorie reală/fizică 
+real path 		calea reală 
+real time 		timp real 
+reboot 		repornire 
+receptivity 		receptivitate 
+receive 		a primi 
+record 		a înregistra 
+recoverable 		recuperabil 
+rectangle 		dreptunghi 
+recurrence 		recurență 
+recursion 		recursivitate 
+redisplay 		a reafișa 
+redo 		refă 
+refresh 		actualizare 
+region 		regiune 
+regular 		obișnuit 
+regular expression 		expresie obișnuită 
+regulate 		a regulariza 
+reject 		a respinge 
+relationship 		relație 
+release 		eliberare 
+remote 		la distanță 
+remove 		a șterge 
+rename 		a redenumi 
+render 		a da 
+repeat 		a repeta 
+replace 		a înlocui 
+report 		raport 
+reserved blocks 		blocuri rezervate 
+reset 		a repune 
+resident 		rezident 
+resident memory 		memorie rezidentă 
+residual 		rezidual 
+resize 		a redimensiona 
+resolution 		rezoluție 
+resource element 		resursă 
+restart 		a reporni 
+restore 		a restabili 
+resume 		a relua 
+retrieve 		a recupera 
+retry 		a reîncerca 
+return 		a întoarce 
+revert 		a reveni 
+require 		a necesita 
+rollback 		a anula 
+root 		rădăcină 
+root directory 		director rădăcină 
+root window 		fereastră rădăcină 
+rotate 		a roti 
+row 		rînd 
+ruler 		riglă 
+run 		a alerga 
+runtime 		la execuție 
+runtime error 		eroare la execuție 
+sample 		eșantion 
+sampling 		eșantionare 
+saturation 		saturație 
+save 		a salva 
+scalable 		scalabil 
+scalar 		scalar 
+scale 		balanța 
+scan 		a examina 
+schedule manager 		administrator orar 
+scientific notation 		notare științifică 
+scope 		proporții 
+screen 		ecran 
+script 		scenariu 
+scroll 		rulou 
+scrollbar 		bară de rulare 
+search 		a căuta 
+search domain 		domeniu căutării 
+search string 		șir de căutat 
+seascape 		(pentru imprimare) orizontal răsturnat 
+secondary color 		culoare secundară 
+secure channel 		canal sigur 
+secure keyboard 		tastatură sigură 
+security 		securitate 
+segment 		segment 
+select 		a alege 
+selection 		alegere 
+send 		a trimite 
+send to 		trimite către 
+sense 		simț 
+sensitive 		sensibil 
+separator 		separator 
+server 		server 
+session 		sesiune 
+set 		a pune 
+setting 		aranjare 
+set-up 		program de instalare a unei aplicații pe calculator 
+severity 		serveritate 
+share 		a împărți 
+shared memory 		memorie partajată 
+sheet 		foaie 
+shell 		scoică 
+shift key 		tasta 'shift' 
+show 		a arăta 
+shrink 		a micșora 
+shut down 		a opri 
+signal 		semnal 
+signature block 		semnătură 
+signature 		semnatură 
+site 		poziție 
+skew 		oblicitate 
+skip 		a sări 
+slant 		a se înclina 
+slave 		sclav 
+shade 		a umbri 
+shared 		comun 
+sleeping 		care doarme 
+slider 		cursor 
+slot 		crăpătură 
+slow terminal 		terminal încet 
+socket 		mufă 
+smart 		deștept 
+smart terminal 		terminal inteligent 
+smooth 		fin 
+snap 		mușcătură 
+snooze 		a ațipi 
+solid model 		model solid 
+solid line 		linie solidă 
+sort 		fel 
+sound card 		placă de sunet 
+source 		sursă 
+source code 		cod sursă 
+space character 		caracterul spațiu 
+spam 		mesaj nedorit (de regula cu caracter publicitar) 
+spawn 		a născoci 
+special character 		caracter special 
+spell 		ortografie 
+spell checker 		corector ortografic 
+splitter 		separator 
+spool 		a bobina 
+spreadsheet 		pagină de calcul tabelar 
+synopsis 		rezultat 
+stabilize 		a stabiliza 
+stack 		stivă 
+standard 		standard 
+standard deviation 		devierea standard 
+start 		start 
+state 		stare 
+statistics 		statistică 
+status 		stare 
+status line 		linie de stare 
+statusbar 		bara de stare 
+stat 		verificare 
+stereotype 		stereotip 
+sticky 		persistent 
+sticky notes 		note lipicioase 
+storage 		depozit 
+strikethrough 		tăiat 
+string 		șir 
+stroke 		lovitură 
+style 		stil 
+stub 		butuc 
+subdirectory 		subdirector 
+subject 		subiect 
+submenu 		submeniu 
+submit 		a trimite 
+subnet 		subrețea 
+subscript 		scris mărunt 
+substring 		subșir 
+subtitle 		subtitrare 
+suffix 		sufix 
+summary 		rezumat 
+supercomputer 		supercomputer 
+superscript 		scris sus (cum este puterea) 
+support 		sprijin 
+suspend 		a suspenda 
+swap 		troc 
+switch 		întrerupător 
+symbol 		simbol 
+symbolic link 		legătură simbolică 
+symmetric control 		control simetric 
+sync 		a sincroniza 
+synchronize 		a sincroniza 
+system call 		apel sistem 
+swallow 		gît 
+syntax error 		eroare de sintaxă 
+system 		sistem 
+system administrator 		administrator de sistem 
+system configuration 		configurația sistemului 
+system settings 		fixarea sistemului 
+table 		tabel 
+table of contents 		cuprins 
+tag 		etichetă 
+talk 		a vorbi 
+tall 		înalt 
+tar archive 		arhivă tar 
+target 		destinație 
+task 		sarcină 
+temp file 		fișier temporar 
+temporary file 		fișier temporar 
+template 		șablon 
+temporary buffer 		tampon temporar 
+term variable 		variabilă a terminalului 
+terminal variable 		variabilă a terminalului 
+terminal 		terminal 
+terminate 		a termina 
+test 		a testa 
+test module 		modul de test 
+text 		text 
+text area 		zonă de text 
+text only 		doar text 
+textual name 		nume textual 
+theme 		temă 
+thread 		fir 
+threshold 		prag 
+thumbnail 		miniatură 
+tier 		armătură 
+multitier 		multistrat 
+tile 		mozaic 
+timer 		cronometru 
+timeslice 		cuantă de timp 
+timezone 		fus orar 
+timing 		cronometrare 
+tip 		pont 
+title 		titlu 
+third party 		terță parte 
+todo 		de făcut 
+toggle 		comutare 
+tolerance 		toleranță 
+token 		semn 
+token-ring 		inel cu jeton (tip de rețea) 
+tool 		unealtă 
+toolkit 		trusă de unelte 
+tool menu 		meniu de unelte 
+toolbar 		bara de unelte 
+toolbox 		trusă (de unelte) 
+tooltip 		pont 
+top 		vîrf 
+topic 		topică 
+track 		a urmări 
+transfer 		transfer 
+transfer statement 		declarație de transfer 
+transitive 		tranzitiv 
+translate 		a traduce 
+transmission channel 		canal de transmisie 
+transparent 		transparent 
+transpose 		transpunere 
+trap 		a captura 
+trash 		gunoi 
+tree 		arbore 
+treeview 		vizualizare arborescentă 
+trigger 		declanșator 
+trim 		în bună stare 
+troubleshoot 		a depana 
+troubleshooting 		depanare 
+tune 		a ajusta 
+turing machine 		mașină turing 
+type 		tip 
+type bindings 		legături de tip 
+type mismatch 		nepotrivire de tip 
+unable to 		nu pot să 
+undelete 		restaurează 
+underline 		a sublinia 
+undo 		anulează 
+unexpected 		neașteptat 
+unexpected end 		sfîrșit neașteptat 
+unexpected error 		eroare neașteptată 
+unicode 		unicode 
+uninstall 		a dezinstala 
+unit 		unitate 
+unix 		UNIX 
+unknown 		necunoscut 
+unknown host 		gazdă necunoscută 
+unload 		a descărca 
+unmount 		a demonta 
+unplugged 		deconectat 
+unshade 		luminează 
+untitled 		fără titlu 
+update 		a actualiza 
+upgrade 		promovare 
+upload 		încărcare 
+upside down 		vertical răsturnat 
+upstream 		amonte 
+urgent 		urgent 
+usage 		utilizare 
+user 		utilizator 
+user defined 		definit de către utilizator 
+user directory 		directorul utilizatorului 
+user interface 		interfață cu utilizatorul 
+username 		numele utilizatorului 
+valid chars 		caractere valide 
+value 		valoare 
+variable 		variabil 
+variance 		variație 
+vector graphics 		grafică vectorială 
+vendor 		vînzător 
+verbose 		vorbăreț 
+verify 		a verifica 
+version 		versiune 
+vertical 		vertical 
+vertical alignment 		aliniere verticală 
+vfs 		sistem de fișiere virtual 
+Virtual File System 		sistem de fișiere virtual 
+video 		video (imagini în mișcare) 
+view 		vizualizare 
+viewer 		vizor 
+viewport 		punct de vedere 
+virtual 		virtual 
+visualization 		vizualizare 
+volume 		volum 
+q&a 		întrebări și răspunsuri 
+wallpaper 		tapet 
+warning 		avertizare 
+watch 		a monitoriza 
+watch dog 		câine de pază 
+watch file 		fișier observator 
+web 		plasă 
+web page 		pagină web 
+weight 		greutate 
+width 		lățime 
+wildcard 		metacaracter 
+window 		fereastră 
+window manager 		administrator de ferestre 
+wizard 		asistent 
+white paper 		carte albă 
+word 		cuvînt 
+work 		muncă 
+workflow 		flux de lucru 
+working directory 		directorul de lucru 
+workspace 		spațiu de lucru 
+wrap 		a înfășura 
+unwrap 		a desfășura 
+write 		a scrie 
+wysiwyg 		occv 
+What You See Is What You Get 		occv 
+x align 		aliniere pe orizontală 
+your 		dvs. 
+your computer 		calculatorul dvs. 
+zero 		zero 
+zigzagline 		linie în zigzag 

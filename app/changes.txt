@@ -1,0 +1,414 @@
+// copied!  deer   O4 𓉔  N35 𓈖  N35 𓈖  F5 𓄃 
+HoNan : Horn Antler
+
+  nightfall, night sky   S29 𓋴  N37 𓈙  F5 𓄃  X1 𓏏  N14 𓇼 
+seschand
+
+  sting, incite   I10 𓆓  D46  𓂧  Aa15 𓐝  T30 𓌪 
+ST[ing!?]
+
+  stand on end (of hair), creep (of flesh)   I10 𓆓  D46  𓂧  I9 𓆑  Y1 𓏛 
+sta'd <> steht:stand
+
+  snake, (internal bodily) worm   I10 𓆓  D46  𓂧  I9 𓆑  X1 𓏏  I14 𓆙 
+<<<
+
+  shut up, imprison   I10 𓆓  D46  𓂧  V28 𓎛  V1 𓍢  D40  𓂡 
+shut+[her-in--]
+
+  (adj.) fat   I10 𓆓  D46  𓂧  G1 𓄿  Aa2 𓐎 
+<>cheddar
+
+  tales   S29 𓋴  I10 𓆓  D46  𓂧  G43 𓅱  A2 𓀁  Z3 𓏪 
+schatten -> ge.schichten
+
+  practice (a virtue), press on (with)   G17 𓅓  D36  𓂝  I10 𓆓  D46  𓂧  Aa24 𓐦  D40  𓂡 
+Prashdice +++ IN
+
+  press hard on, hit, strike (the mouth in funerary ritual)   G17 𓅓  D36  𓂝  I10 𓆓  D46  𓂧  Aa24 𓐦  D40  𓂡 
+PRÆSHD : PRESS 
+
+  (locality) Lebanon   W18 𓏅  X1 𓏏  N37 𓈙  Z1 𓏤  N21 𓈅  N25 𓈉 
+<<<
+
+  garden (with trees)   W18 𓏅  X1 𓏏  N37 𓈙  Z1 𓏤  N21 𓈅 
+<<< <> Lebanon 
+
+  smash   X1 𓏏  N37 𓈙  D58 𓃀  Z9 𓏴 
+<> dash
+
+  crush   X1 𓏏  N37 𓈙  X1 𓏏  N37 𓈙  Z9 𓏴  D40  𓂡 
+<> dash
+
+  orchard ?   Aa1 𓐍  N35 𓈖  X1 𓏏  N37 𓈙  N21 𓈅 
+<> 𓏅 𓏏 𓈙 = garden
+
+  orchard ?   Aa1 𓐍  N35 𓈖  X1 𓏏  N37 𓈙  D19 𓂉  N36 𓈘 
+<> 𓏅 𓏏 𓈙 = garden
+
+  household, crowd   F13 𓄋  Q3 𓊪  X1 𓏏  A1 𓀀  B1 𓁐  Z2 𓏥 
+Häupter ++ DE QED
+
+  business, mission   F13 𓄋  Q3 𓊪  X1 𓏏  D54 𓂻 
+Haupt[_ort_]
+
+  business, mission   F13 𓄋  Q3 𓊪  X1 𓏏  D54 𓂻 
+Haupt[sache]
+
+  business, mission   F13 𓄋  Q3 𓊪  X1 𓏏  D54 𓂻 
+Haupt[gang]
+
+  business, mission   F13 𓄋  Q3 𓊪  X1 𓏏  D54 𓂻 
+ Käufter
+
+  messenger, agent, commissioner, bystander   F13 𓄋  Q3 𓊪  X1 𓏏  Z4 𓏮  D54 𓂻  A1 𓀀 
+Opt-Mann?
+
+  message   F13 𓄋  Q3 𓊪  X1 𓏏  Z9 𓏴  A2 𓀁 
+Offerte?
+
+  punish   D4 𓁹  F13 𓄋  Q3 𓊪  X1 𓏏  A2 𓀁  V28 𓎛  N35 𓈖  D36  𓂝 
+Mach Kaput! con?
+
+  business, mission   F13 𓄋  Q3 𓊪  X1 𓏏  Y2 𓏝 
+𓄋Booten +- DE
+
+  messenger, agent, commissioner, bystander   F13 𓄋  Q3 𓊪  X1 𓏏  Z4 𓏮  Z9 𓏴 
+𓄋Boote +-+ DE
+
+  business, mission   F13 𓄋  Q3 𓊪  X1 𓏏  Z9 𓏴 
+𓄋Bootend +-+ DE <> bowtan?
+
+  message   F13 𓄋  Q3 𓊪  X1 𓏏  Z9 𓏴  A2 𓀁 
+𓄋Bot[schaft?]
+
+  messenger, agent, commissioner, bystander   F13 𓄋  Q3 𓊪  X1 𓏏  Z4 𓏮  Z9 𓏴 
+𓄋Bote? DE +-
+
+  look after, care for ?   D36  𓂝  V4 𓍯  D40  𓂡 
+!!! +++ vs steal !! WTF
+
+  steal (goods), rob (someone)   D36  𓂝  V4 𓍯  D40  𓂡 
+vs look after, care for WTF
+
+  open, open up, inaugurate, part, separate, divide, judge, discern, distinguish, take   F13 𓄋  Q3 𓊪  Z9 𓏴 
+~=   𓄋 𓊪 𓏏 𓏛 ???
+
+  tie on   V13 𓍿  O34 𓊃  S24 𓋭 
+TH?? FASCE, FESSEL
+
+  ford   D39 𓂠  F30 𓄞  D46  𓂧  X1 𓏏 
+<> Shatt
+
+  pool, well, plot (of land)   F30 𓄞  D46  𓂧  X1 𓏏  N23 𓈇 
+Schatt AR ++
+
+  pool, well, plot (of land)   F30 𓄞  D46  𓂧  X1 𓏏  N23 𓈇 
+Scheid DE +
+
+  pool, well, plot (of land)   F30 𓄞  D46  𓂧  X1 𓏏  N23 𓈇 
+[REM]Scheid
+
+  (locality) Crocodilopolis   F30 𓄞  D46  𓂧  X1 𓏏  O49 𓊖 
+Schatt! <> Stadt
+
+  may he live, be prosperous and healthy   S34 𓋹  U28 𓍑  S29 𓋴 
+sank staeda saneb
+
+  payments   M17 𓇋  Q3 𓊪  G43 𓅱  Y1 𓏛  Z2 𓏥 
+<> (locality) Akhmim, <> Iput ?
+
+  payments   M17 𓇋  Q3 𓊪  G43 𓅱  Y1 𓏛  Z2 𓏥 
+TrIbut +++++ IN
+
+  govern, control, administer, act as controller, direct (someone)   Aa1 𓐍  D21 𓂋  Q3 𓊪  D44  𓂥 
+!!! ®®®
+
+  work, construction, craft, profession   D28 𓂓  X1 𓏏  A9 𓀋 
+KrAfT
+
+  work, construction, craft, profession   D28 𓂓  X1 𓏏  A9 𓀋 
+KANT <> Kenntnis
+
+  vagina   D28 𓂓  X1 𓏏  F51 𓄹 
+kant=cunt QED
+
+  work, construction, craft, profession   D28 𓂓  X1 𓏏  A9 𓀋 
+KANT=cunt:vagina D28 𓂓 X1 𓏏 F51 𓄹 qed
+
+  pregnant woman   D58 𓃀  D28 𓂓  X1 𓏏  B2 𓁑 
+Rebeccunt
+
+  ploughland   S29 𓋴  D28 𓂓  X1 𓏏  U13 𓍁  N23 𓈇  Z2 𓏥 
+Scots <> Kat/Kant=Work
+
+  the East   R15 𓋁  D58 𓃀  X1 𓏏  N23 𓈇  X1 𓏏 
+Levante +++ IN
+
+  the east of   R15 𓋁  D58 𓃀  X1 𓏏 G 
+Lebant Lefthand
+
+  left - hand   R15 𓋁  D58 𓃀  X1 𓏏  Z4 𓏮  N23 𓈇 
+Levant
+
+  left (hand), east, eastern, left-side of   R15 𓋁  D58 𓃀  Z4 𓏮  D41 𓂢 
+Levant
+
+  east, eastern, left-hand   R15 𓋁  D58 𓃀  X1 𓏏  Z4 𓏮 
+Levant
+
+  the east wind   R15 𓋁  D58 𓃀  X1 𓏏  P5 𓊡 
+Levant
+
+  east, eastern   R15 𓋁  D58 𓃀  X1 𓏏  O39 𓊌 
+Levant
+
+  east, eastern   R15 𓋁  D58 𓃀  X1 𓏏  N25 𓈉 
+Levante
+
+  the East   R15 𓋁  D58 𓃀  X1 𓏏  N25 𓈉 
+Levante
+
+  finger, toe nail   R15 𓋁  D58 𓃀  T19 𓌟  F51 𓄹  Z1 𓏤 
+Levantoe --
+
+  left (hand), east, eastern, the left side of   R15 𓋁  D58 𓃀  D41 𓂢 
+Levhand
+
+  (enclitic part.) assuredly, indeed   N41 𓈞  G17 𓅓  D36  𓂝 
+IMO (in my opinion) : ƒ
+
+light?
+EASY
+
+  light - minded   M17 𓇋  M40 𓇩  O34 𓊃  M2 𓆰  F34 𓄣  Z1 𓏤 
+EASY
+
+light-hearted
+EASY
+
+  © alight, rest, dwell   S29 𓋴  Aa1 𓐍  N35 𓈖  G41 𓅯 
+sHnore
+
+  lighten (burden), lessen   S29 𓋴  M17 𓇋  O34 𓊃  G37 𓅪 -vål
+s'easy
+
+  lighten (burden), lessen   S29 𓋴  M17 𓇋  O34 𓊃  G37 𓅪 -vål
+s'ease
+
+  lighten (burden), lessen   S29 𓋴  M17 𓇋  M40 𓇩  S29 𓋴  Z4 𓏮  M2 𓆰 
+s'easy
+
+  lighten (burden), lessen   S29 𓋴  M17 𓇋  M40 𓇩  S29 𓋴  Z4 𓏮  M2 𓆰 
+s'ease
+
+  lighten (burden), lessen   S29 𓋴  M17 𓇋  M40 𓇩  S29 𓋴  Z4 𓏮  M2 𓆰 
+siainsi
+
+  make brightness, lighten    S29 𓋴  O42 𓊏  Q3 𓊪  N5 𓇳 
+s'rooi <> RAY
+
+  kindle (light)   S29 𓋴  V13 𓍿  X1 𓏏  S22 𓋫  D40  𓂡 
+Zcünd
+
+  kindle (light)   S29 𓋴  V13 𓍿  X1 𓏏  S22 𓋫  Q7 𓊮 
+Zcünd
+
+lighten?
+Zcünd
+
+  rays (of light)   U1 𓌳  G1 𓄿  F40 𓄫  X1 𓏏  G43 𓅱  Y1 𓏛  Z2 𓏥 
+???
+
+  be delighted   U23 𓍋  D58 𓃀  U23 𓍋  D58 𓃀  A2 𓀁 
+step steep
+
+  (the rite of) torch - lighting   X1 𓏏  D28 𓂓  G1 𓄿  G43 𓅱  Q7 𓊮 
+tokhan <> torch
+
+  alight (from flight), stop, halt, rest (on)   Aa1 𓐍  N35 𓈖  G41 𓅯 
+<<<
+
+  at the proper time   D21 𓂋  N35 𓈖  U19 𓍇  W24 𓏌  G43 𓅱  N5 𓇳 
+a nazar uhren
+
+  awry   G17 𓅓  N35 𓈖  U19 𓍇  W24 𓏌  G43 𓅱  D46  𓂧 
+un-measured (krumm)
+
+  awry   G17 𓅓  N35 𓈖  U19 𓍇  W24 𓏌  Z7 𓏲  D46  𓂧  Z7 𓏲  Z2 𓏥  D54 𓂻 
+un-measured (krumm)
+
+  100 cubits (a rod of cord)   M3 𓆱  X1 𓏏  Z1 𓏤  N35 𓈖  N35 𓈖  U19 𓍇  W24 𓏌  G43 𓅱  V28 𓎛  V1 𓍢 
+Äxt-measure
+
+  rod of cord (linear measure of 100 cubits)   M3 𓆱  X1 𓏏  Z1 𓏤  N35 𓈖  N35 𓈖  U19 𓍇  W24 𓏌  V28 𓎛  V1 𓍢 
+Äxt-measure
+
+  Canaanites   V31 𓎡  Z4 𓏮  N35 𓈖  D36  𓂝  N35 𓈖  U19 𓍇  W24 𓏌 
+Canaanites ++++ QED
+
+  bank (of river)   D36  𓂝  Aa1 𓐍  G14 𓅐  X1 𓏏  N23 𓈇  Z2 𓏥
+Ork Mouth?
+
+  detention   M17 𓇋  O4 𓉔  G14 𓅐  X1 𓏏 
+IhoMaat
+
+  copse, scrub, brushwood ?   N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  M1 𓆭 
+stier <> sterben
+
+  mysterious, secret, hidden, difficult   N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  M17 𓇋  M17 𓇋  Y1V  𓏜  
+Schattiert
+
+  secrets   N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  X1 𓏏 
+Schattiert
+
+  mysterious, secret, hidden, difficult   N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  Y1V  𓏜  
+Schattiert
+
+  secrets, (religious) mysteries   N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  Y1 𓏛  Z2 𓏥 
+Schattiert
+
+  secrets   N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿 Z 
+Schattiert
+
+  secretly   O34 𓊃  N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  G43 𓅱  Y1V  𓏜  
+Schattiert
+
+  © make secret, mysterious   O34 𓊃  N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  Z9 𓏴  Y1 𓏛 
+Schattiert
+
+  © make secret, mysterious, make inaccessible   S29 𓋴  N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  Y1V  𓏜  
+Schattiert
+
+  (adj.) secret   S29 𓋴  N37 𓈙  X1 𓏏  U30 𓍔  G1 𓄿  Y1V  𓏜  
+Schattiert
+
+  lizard   V28 𓎛  M2 𓆰  N35 𓈖  X1 𓏏  U30 𓍔  G1 𓄿  M23 𓇓  G43 𓅱  I1 𓆈 
+Chamtier Sudex (Chameleon)
+
+  (divinity) goddess of weaving   X1 𓏏  U30 𓍔  G1 𓄿  M17 𓇋  M17 𓇋  X1 𓏏  I12 𓆗 
+<<<
+
+  frontier patrol   Q3 𓊪  F32 𓄡  D21 𓂋  X1 𓏏  A1 𓀀  Z2 𓏥 
+~scout <> 𓌬
+
+  prescription, remedy   Q3 𓊪  F32 𓄡  D21 𓂋  X1 𓏏  F46 𓄲  Y1 𓏛  Z2 𓏥 
+<> escort 𓌬
+
+  shoulder, carry, support, match, equal, bearer, supporter   D21 𓂋  Y5 𓏠  N35 𓈖  D41 𓂢 
+remain
+
+  shoulder, arm, uprights (of ladder), side   D21 𓂋  Y5 𓏠  N35 𓈖  D41 𓂢 
+armen
+
+  side, gang (of rowers)   D21 𓂋  Y5 𓏠  N35 𓈖  D41 𓂢  B1 𓁐  Z2 𓏥 
+(left) armen
+
+  side, half (of sheet of water)   D21 𓂋  Y5 𓏠  N35 𓈖  D41 𓂢  N23 𓈇 
+L/R Armen
+
+  (pl.) companions   D21 𓂋  Y5 𓏠  N35 𓈖  W24 𓏌  G43 𓅱  X1 𓏏  D41 𓂢  Z2 𓏥 
+Armn-urens <> amies
+
+  right (-hand), right - side, the West   M17 𓇋  Y5 𓏠  N35 𓈖  R13 𓊿 
+[Right] Armen!
+
+  © settle (endowment), confirm, embellish, restore, efficiently execute, publish   S29 𓋴  Y5 𓏠  N35 𓈖  Aa1 𓐍  U22 𓍊  Y1 𓏛 
+Zement
+
+  (male )nurse   Y5 𓏠  N35 𓈖  D36  𓂝  Z4 𓏮  D27 𓂒 
+Amme
+
+  pleasing to the heart   Y5 𓏠  N35 𓈖  Aa1 𓐍  Y1 𓏛  F34 𓄣  Z1 𓏤 
+[sch]menken/mögen
+
+  trustworthiness   V31 𓎡  I9 𓆑  X1 𓏏  Y1 𓏛  Z2 𓏥 
+Gesundheit?
+
+  indeed   G17 𓅓  V31 𓎡  I9 𓆑  X1 𓏏 
+im ganzen?
+
+  (ritual) procession   O1 𓉐  D21 𓂋  X1 𓏏  X4 𓏒 
+Brot Essen
+
+  forcibly drive (into)   S29 𓋴  Aa17 𓐟  G1 𓄿  Aa1 𓐍  M3 𓆱 
+schmackes ++
+
+  be wise, prudent, be satisfied, be sated   S29 𓋴  Aa17 𓐟  G1 𓄿  A2 𓀁 
+~sopher -+- 
+
+  needy man   S29 𓋴  Aa17 𓐟  G1 𓄿  M1 𓆭 
+schwacher spacko
+
+  words to be spoken, to be pronounced   I10 𓆓  S43 𓌃 
+(Buch)Stabe'
+
+  words to be spoken, to be pronounced   I10 𓆓  S43 𓌃 
+Strophe?
+
+  words to be spoken, to be pronounced   I10 𓆓  S43 𓌃 
+Swear!
+
+  ignorant ones   M17 𓇋  Aa1 𓐍  G17 𓅓  G37 𓅪 -vål Z2 𓏥 
+ignorant
+
+  extinguish, annul   M17 𓇋  Aa1 𓐍  G17 𓅓  D35 𓂜 
+ign_ite?
+
+  (adj.) unwearying   M17 𓇋  Aa1 𓐍  G17 𓅓  Z2 𓏥  A7 𓀉 
+ignorant
+
+  the indestructible star (the circumpolar star)   M17 𓇋  Aa1 𓐍  G17 𓅓  D35 𓂜  S29 𓋴  V31 𓎡  N14 𓇼 
+ign?? star
+
+  indestructible star (the circumpolar)   M17 𓇋  Aa1 𓐍  G17 𓅓  S29 𓋴  V29 𓎝  V31 𓎡  Z2 𓏥 
+ign?? star
+
+  horse   O34 𓊃  O34 𓊃  G17 𓅓  E6 𓃗 
+horze e'zzem izzem hippon 
+
+  horse, mare   O34 𓊃  O34 𓊃  G14 𓅐  X1 𓏏  E6 𓃗 
+zz-MAret
+
+  Hey !   M17 𓇋  M17 𓇋  V28 𓎛  D54 𓂻 
+EyH!
+
+  Ah !   M17 𓇋  V28 𓎛  A2 𓀁 
+aH
+
+player  M17 𓇋  V28 𓎛 A239 
+phi'er
+
+  stare   V6 𓍱  V6 𓍱  G43 𓅱  X1 𓏏  D4 𓁹  Z2 𓏥 
+schauen
+
+  alabaster, vessels of alabaster   V6 𓍱  W3 𓎱 
+jar
+
+  corn   V6 𓍱  Z1 𓏤  U9 𓌽  Z2 𓏥 
+corn
+
+  mummy - wrapping   Aa2 𓐎  X1 𓏏  G43 𓅱  V6 𓍱 
+plating
+
+  bag   N29 𓈎  D21 𓂋  I9 𓆑  X1 𓏏  V6 𓍱 
+Korb
+
+  (facial) wrinkles   N29 𓈎  D21 𓂋  I9 𓆑  G43 𓅱  V6 𓍱  Z2 𓏥 
+kreisen
+
+  strain, squeeze out   S29 𓋴  F32 𓄡  N35 𓈖  V31 𓎡  V6 𓍱  A24 𓀜 
+strain𓎡𓍱  squench! 
+
+  shroud   S29 𓋴  G43 𓅱  V28 𓎛  X1 𓏏  V6 𓍱 
+suhrd ~ shroud
+
+  things, actions, course, manner (of action)   S29 𓋴  V6 𓍱  D21 𓂋  Y1V  𓏜  
+sacher chosen𓂋𓏜 
+
+  white linen   T3 𓌈  X1 𓏏  Z5 𓏯  V6 𓍱  Z3A 𓏨 
+white schnuren
+
+  white linen   T3 𓌈  X1 𓏏  Z5 𓏯  V6 𓍱  Z3A 𓏨 
+white maschen
+

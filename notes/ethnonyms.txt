@@ -1,0 +1,34 @@
+KIN Nation names!
+
+ara:Brother 		الأخ al ach
+ichwan : brothers [ach] Hin ikhvan, Ind ikhwan, Per echwan 
+𓎡𓅱𓀀 !!! 𓎡𓅱𓀁
+
+tur:brother 		kardeş birader erkek 
+
+ces:brother 		krajan 
+ces:brother 		kamarád 
+ces:brother 		kolega 
+gle:brother 		deartháir -- 
+
+afr:brother 		broer 
+tur:brother 		birader! vs kardeş erkek 
+ces:brother 		bratr 
+cym:brother 		brawd 
+deu:brother 		Bruder  
+fra:brother 		frère 
+hin:brother 		भाई bHaii
+hrv:brother 		brat redovnik 
+ita:brother 		fratello 
+lat:brother 		frater 
+lit:brother 		brolis 
+rus:brother 		брат  brat
+srp:brother 		брат 
+spa:brother 		hermano 
+por:brother 		irmão 
+swe:brother 		broder bror 
+
+deu:brother'law Schwager 
+swe:brother 		svåger @ sweder !
+silf : brother-in-law 
+shaqiq : one half; full brother; temple of the head; migraine [shaqqa] Hau shakiki, Per shaqiq(e), Tur sakak 

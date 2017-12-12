@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Ebers Papyrus"/>
+<resource location="../resources/EbersHi.xml"/>
+<resource location="../resources/EbersTr.txt"/>
+<precedence
+  location="../align/Ebers.xml"
+  resource1="../resources/EbersHi.xml"
+  resource2="../resources/EbersTr.txt"/>
+<autoalign
+  location1="../resources/EbersHi.xml"
+  tier1="hieroglyphic"
+  location2="../resources/EbersTr.txt"
+  tier2="transliteration"/>
+</text>

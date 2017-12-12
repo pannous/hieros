@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict descr="basic">
+
+<lemma pos="7" keyal="Apd" keytr="bird" keyfo="n">
+</lemma>
+
+<lemma pos="21" keyal="j" keytr="o" keyfo="interjection">
+</lemma>
+
+<lemma pos="31" keyal="jw" keyfo="particle">
+</lemma>
+
+<lemma pos="48" keyal="jmj-wt" keytr="Imiut" keyfo="n">
+<meaning rank="2">
+<use>
+<tr>the one of embalming</tr> <co>epithet of Anubis</co>
+</use>
+</meaning>
+</lemma>
+
+<lemma pos="70" keyal="jmAxw" keytr="one who is revered" keyfo="n">
+</lemma>
+
+<lemma pos="79" keyal="jnk" keytr="I" keyfo="pron">
+</lemma>
+
+<lemma pos="97" keyal="jxt" keytr="thing" keyfo="n (f/m)">
+</lemma>
+
+<lemma pos="100" keyal="js" keytr="grave" keyfo="n">
+</lemma>
+
+<lemma pos="110" keyal="jt" keytr="father" keyfo="n">
+</lemma>
+
+<lemma pos="145" keyal="anx" keytr="life" keyfo="n">
+</lemma>
+
+<lemma pos="146" keyal="anx" keytr="one who is living" keyfo="n">
+</lemma>
+
+<lemma pos="269" keyal="pt" keytr="heaven" keyfo="n (f)">
+</lemma>
+
+<lemma pos="276" keyal="pn" keytr="this" keyfo="pron">
+</lemma>
+
+<lemma pos="311" keyal="m" keytr="in" keyfo="prep">
+<meaning rank="6c">
+<use>
+<co>partitive</co> <tr>of</tr>
+</use>
+</meaning>
+</lemma>
+
+<lemma pos="330" keyal="mwt" keytr="mother" keyfo="n (f)">
+</lemma>
+
+<lemma pos="341" keyal="mnxt" keytr="clothing" keyfo="n (f)">
+</lemma>
+
+<lemma pos="345" keyal="mrj" keytr="love" keyfo="v (3inf)">
+</lemma>
+
+<lemma pos="360" keyal="msj" keytr="give birth" keyfo="v (3inf)">
+</lemma>
+
+<lemma pos="366" keyal="msDj" keytr="hate" keyfo="v (4inf)">
+</lemma>
+
+<lemma pos="385" keyal="n" keytr="for" keyfo="prep">
+</lemma>
+
+<lemma pos="388" keyal="n" keytr="of" keyfo="adj">
+</lemma>
+
+<lemma pos="401" keyal="nb" keytr="lord" keyfo="n">
+</lemma>
+
+<lemma pos="402" keyal="nb" keytr="all" keyfo="adj">
+</lemma>
+
+<lemma pos="408" keyal="nfr" keytr="good" keyfo="adj-verb">
+</lemma>
+
+<lemma pos="444" keyal="nTr aA" keytr="great god" keyfo="n">
+</lemma>
+
+<lemma pos="453" keyal="r" keytr="to" keyfo="prep">
+<meaning rank="12">
+<use>
+<co>with infinitive: future</co>
+</use>
+</meaning>
+</lemma>
+
+<lemma pos="506" keyal="HAtj-a" keytr="count" keyfo="n">
+</lemma>
+
+<lemma pos="541" keyal="Hnqt" keytr="beer" keyfo="n (f)">
+</lemma>
+
+<lemma pos="557" keyal="Hsj" keytr="praise" keyfo="v (3inf)">
+</lemma>
+
+<lemma pos="567" keyal="Htp-Dj-nsw" keytr="royal offering" keyfo="n">
+</lemma>
+
+<lemma pos="577" keyal="xA" keytr="1000" keyfo="num">
+</lemma>
+
+<lemma pos="593" keyal="xpyt" keytr="death" keyfo="n (f)">
+</lemma>
+
+<lemma pos="610" keyal="xr" keytr="before" keyfo="prep">
+</lemma>
+
+<lemma pos="626" keyal="xtmw-bjtj" keytr="royal seal-keeper" keyfo="n">
+</lemma>
+
+<lemma pos="640" keyal="Xrj-Hbt" keytr="lector priest" keyfo="n">
+</lemma>
+
+<lemma pos="645" keyal="Xkrt" keytr="ornament" keyfo="n (f)">
+<meaning rank="2">
+<use>
+<al>Xkrt-nsw</al> <tr>lady-in-waiting</tr>
+</use>
+</meaning>
+</lemma>
+
+<lemma pos="647" keyal="s" keytr="man" keyfo="n">
+</lemma>
+
+<lemma pos="648:1" keyal="st" keytr="woman" keyfo="n (f)">
+</lemma>
+
+<lemma pos="649:1" keyal="st-jb" keytr="affection" keyfo="n">
+<meaning>
+<use>
+<al>n ~=f</al> <tr>his favourite</tr>
+</use>
+</meaning>
+</lemma>
+
+<lemma pos="651" keyal="sA" keytr="son" keyfo="n">
+</lemma>
+
+<lemma pos="675" keyal="swAj" keytr="pass" keyfo="v (caus 3inf)">
+<meaning rank="1">
+<use>
+<al>Hr</al> <tr>by</tr> <co>a place</co>
+</use>
+</meaning>
+</lemma>
+
+<lemma pos="708" keyal="smr" keytr="friend" keyfo="n">
+<meaning>
+<use>
+<al>smr watj</al> <tr>sole companion</tr> <co>fourth-highest rank at the royal court</co>
+</use>
+</meaning>
+</lemma>
+
+<lemma pos="715" keyal="snwt" keytr="siblings" keyfo="n (f)">
+</lemma>
+
+<lemma pos="872" keyal="kA" keytr="spirit" keyfo="n">
+</lemma>
+
+<lemma pos="873" keyal="kA" keytr="bull" keyfo="n">
+</lemma>
+
+<lemma pos="911" keyal="t" keytr="bread" keyfo="n">
+</lemma>
+
+<lemma pos="912" keyal="tA" keytr="earth" keyfo="n">
+</lemma>
+
+<lemma pos="914" keyal="tA-Dsr" keytr="necropolis" keyfo="n">
+</lemma>
+
+<lemma pos="925" keyal="tpj" keytr="on" keyfo="adj">
+</lemma>
+
+<lemma pos="999" keyal="Dw" keytr="mountain" keyfo="n">
+</lemma>
+
+<lemma pos="1016" keyal="Dd" keytr="say" keyfo="v (2lit)">
+<meaning rank="2">
+<use>
+<al>n</al>
+	<alt>
+		<use><tr>to</tr></use>
+		<use><tr>in favour of</tr></use>
+	</alt>
+</use>
+<use>
+<al>n</al>
+	<alt>
+		<use><tr>about</tr></use>
+	</alt>
+</use>
+</meaning>
+</lemma>
+
+</dict>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Ti, prince, son of Seqenenre, Text on throw sticks of"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="3"/>
+<collection kind="kings" collect="Seqenenre"/>
+<resource location="../resources/urkIV-003Hi.xml"/>
+<resource location="../resources/urkIV-003Tr.txt"/>
+</text>
