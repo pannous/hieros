@@ -1,5 +1,4 @@
-Welcome to the hieros wiki!
-
+Welcome to the hieros wiki!!
 
 
 [[The Alphabet]]
