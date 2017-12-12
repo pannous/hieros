@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="NewGardiner font"
+  labelname=""
+  created="2009-01-07"
+  modified="2009-12-30"
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Version 2.00. For the latest version, see my
+<a href="http://www.cs.st-andrews.ac.uk/~mjn/egyptian/fonts/newgardiner.html">website</a>.
+</p>
+</header>
+<tier name="hieroglyphic" mode="ignored"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="used"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texttr>
+A1: <hi>A1</hi>, A2: <hi>A2</hi>, A3: <hi>A3</hi>, A4: <hi>A4</hi>,
+A5: <hi>A5</hi>, A5a: <hi>A5a</hi>, A6: <hi>A6</hi>, A6a:
+<hi>A6a</hi>, A6b: <hi>A6b</hi>, A7: <hi>A7</hi>, A8: <hi>A8</hi>, A9:
+<hi>A9</hi>, A10: <hi>A10</hi>, A11: <hi>A11</hi>, A12: <hi>A12</hi>,
+A13: <hi>A13</hi>, A14: <hi>A14</hi>, A14a: <hi>A14a</hi>, A15:
+<hi>A15</hi>, A16: <hi>A16</hi>, A17: <hi>A17</hi>, A17a:
+<hi>A17a</hi>, A18: <hi>A18</hi>, A19: <hi>A19</hi>, A20:
+<hi>A20</hi>, A21: <hi>A21</hi>, A22: <hi>A22</hi>, A23: <hi>A23</hi>,
+A24: <hi>A24</hi>, A25: <hi>A25</hi>, A26: <hi>A26</hi>, A27:
+<hi>A27</hi>, A28: <hi>A28</hi>, A29: <hi>A29</hi>, A30: <hi>A30</hi>,
+A31: <hi>A31</hi>, A32: <hi>A32</hi>, A32a: <hi>A32a</hi>, A33:
+<hi>A33</hi>, A34: <hi>A34</hi>, A35: <hi>A35</hi>, A36: <hi>A36</hi>,
+A37: <hi>A37</hi>, A38: <hi>A38</hi>, A39: <hi>A39</hi>, A40:
+<hi>A40</hi>, A40a: <hi>A40a</hi>, A41: <hi>A41</hi>, A42:
+<hi>A42</hi>, A42a: <hi>A42a</hi>, A43: <hi>A43</hi>, A43a:
+<hi>A43a</hi>, A44: <hi>A44</hi>, A45: <hi>A45</hi>, A45a:
+<hi>A45a</hi>, A46: <hi>A46</hi>, A47: <hi>A47</hi>, A48:
+<hi>A48</hi>, A49: <hi>A49</hi>, A50: <hi>A50</hi>, A51: <hi>A51</hi>,
+A52: <hi>A52</hi>, A53: <hi>A53</hi>, A54: <hi>A54</hi>, A55:
+<hi>A55</hi>, A56: <hi>A56</hi>, A57: <hi>A57</hi>, A58: <hi>A58</hi>,
+A59: <hi>A59</hi>, A60: <hi>A60</hi>, A61: <hi>A61</hi>, A62:
+<hi>A62</hi>, A63: <hi>A63</hi>, A64: <hi>A64</hi>, A65: <hi>A65</hi>,
+A66: <hi>A66</hi>, A67: <hi>A67</hi>, A68: <hi>A68</hi>, A69:
+<hi>A69</hi>, A70: <hi>A70</hi>, B1: <hi>B1</hi>, B2: <hi>B2</hi>, B3:
+<hi>B3</hi>, B4: <hi>B4</hi>, B5: <hi>B5</hi>, B5a: <hi>B5a</hi>, B6:
+<hi>B6</hi>, B7: <hi>B7</hi>, B8: <hi>B8</hi>, B9: <hi>B9</hi>, C1:
+<hi>C1</hi>, C2: <hi>C2</hi>, C2a: <hi>C2a</hi>, C2b: <hi>C2b</hi>,
+C2c: <hi>C2c</hi>, C3: <hi>C3</hi>, C4: <hi>C4</hi>, C5: <hi>C5</hi>,
+C6: <hi>C6</hi>, C7: <hi>C7</hi>, C8: <hi>C8</hi>, C9: <hi>C9</hi>,
+C10: <hi>C10</hi>, C10a: <hi>C10a</hi>, C11: <hi>C11</hi>, C12:
+<hi>C12</hi>, C13: <hi>C13</hi>, C14: <hi>C14</hi>, C15: <hi>C15</hi>,
+C16: <hi>C16</hi>, C17: <hi>C17</hi>, C18: <hi>C18</hi>, C19:
+<hi>C19</hi>, C20: <hi>C20</hi>, C21: <hi>C21</hi>, C22: <hi>C22</hi>,
+C23: <hi>C23</hi>, C24: <hi>C24</hi>, D1: <hi>D1</hi>, D2:
+<hi>D2</hi>, D3: <hi>D3</hi>, D4: <hi>D4</hi>, D5: <hi>D5</hi>, D6:
+<hi>D6</hi>, D7: <hi>D7</hi>, D8: <hi>D8</hi>, D8a: <hi>D8a</hi>, D9:
+<hi>D9</hi>, D10: <hi>D10</hi>, D11: <hi>D11</hi>, D12: <hi>D12</hi>,
+D13: <hi>D13</hi>, D14: <hi>D14</hi>, D15: <hi>D15</hi>, D16:
+<hi>D16</hi>, D17: <hi>D17</hi>, D18: <hi>D18</hi>, D19: <hi>D19</hi>,
+D20: <hi>D20</hi>, D21: <hi>D21</hi>, D22: <hi>D22</hi>, D23:
+<hi>D23</hi>, D24: <hi>D24</hi>, D25: <hi>D25</hi>, D26: <hi>D26</hi>,
+D27: <hi>D27</hi>, D27a: <hi>D27a</hi>, D28: <hi>D28</hi>, D29:
+<hi>D29</hi>, D30: <hi>D30</hi>, D31: <hi>D31</hi>, D31a:
+<hi>D31a</hi>, D32: <hi>D32</hi>, D33: <hi>D33</hi>, D34:
+<hi>D34</hi>, D34a: <hi>D34a</hi>, D35: <hi>D35</hi>, D36:
+<hi>D36</hi>, D37: <hi>D37</hi>, D38: <hi>D38</hi>, D39: <hi>D39</hi>,
+D40: <hi>D40</hi>, D41: <hi>D41</hi>, D42: <hi>D42</hi>, D43:
+<hi>D43</hi>, D44: <hi>D44</hi>, D45: <hi>D45</hi>, D46: <hi>D46</hi>,
+D46a: <hi>D46a</hi>, D47: <hi>D47</hi>, D48: <hi>D48</hi>, D48a:
+<hi>D48a</hi>, D49: <hi>D49</hi>, D50: <hi>D50</hi>, D50a:
+<hi>D50a</hi>, D50b: <hi>D50b</hi>, D50c: <hi>D50c</hi>, D50d:
+<hi>D50d</hi>, D50e: <hi>D50e</hi>, D50f: <hi>D50f</hi>, D50g:
+<hi>D50g</hi>, D50h: <hi>D50h</hi>, D50i: <hi>D50i</hi>, D51:
+<hi>D51</hi>, D52: <hi>D52</hi>, D52a: <hi>D52a</hi>, D53:
+<hi>D53</hi>, D54: <hi>D54</hi>, D54a: <hi>D54a</hi>, D55:
+<hi>D55</hi>, D56: <hi>D56</hi>, D57: <hi>D57</hi>, D58: <hi>D58</hi>,
+D59: <hi>D59</hi>, D60: <hi>D60</hi>, D61: <hi>D61</hi>, D62:
+<hi>D62</hi>, D63: <hi>D63</hi>, D64: <hi>D64</hi>, D65: <hi>D65</hi>,
+D66: <hi>D66</hi>, D67: <hi>D67</hi>, D67a: <hi>D67a</hi>, D67b:
+<hi>D67b</hi>, D67c: <hi>D67c</hi>, D67d: <hi>D67d</hi>, D67e:
+<hi>D67e</hi>, D67f: <hi>D67f</hi>, D67g: <hi>D67g</hi>, D67h:
+<hi>D67h</hi>, E1: <hi>E1</hi>, E2: <hi>E2</hi>, E3: <hi>E3</hi>, E4:
+<hi>E4</hi>, E5: <hi>E5</hi>, E6: <hi>E6</hi>, E7: <hi>E7</hi>, E8:
+<hi>E8</hi>, E8a: <hi>E8a</hi>, E9: <hi>E9</hi>, E9a: <hi>E9a</hi>,
+E10: <hi>E10</hi>, E11: <hi>E11</hi>, E12: <hi>E12</hi>, E13:
+<hi>E13</hi>, E14: <hi>E14</hi>, E15: <hi>E15</hi>, E16: <hi>E16</hi>,
+E16a: <hi>E16a</hi>, E17: <hi>E17</hi>, E17a: <hi>E17a</hi>, E18:
+<hi>E18</hi>, E19: <hi>E19</hi>, E20: <hi>E20</hi>, E20a:
+<hi>E20a</hi>, E21: <hi>E21</hi>, E22: <hi>E22</hi>, E23:
+<hi>E23</hi>, E24: <hi>E24</hi>, E25: <hi>E25</hi>, E26: <hi>E26</hi>,
+E27: <hi>E27</hi>, E28: <hi>E28</hi>, E28a: <hi>E28a</hi>, E29:
+<hi>E29</hi>, E30: <hi>E30</hi>, E31: <hi>E31</hi>, E32: <hi>E32</hi>,
+E33: <hi>E33</hi>, E34: <hi>E34</hi>, E34a: <hi>E34a</hi>, E36:
+<hi>E36</hi>, E37: <hi>E37</hi>, E38: <hi>E38</hi>, F1: <hi>F1</hi>,
+F1a: <hi>F1a</hi>, F2: <hi>F2</hi>, F3: <hi>F3</hi>, F4: <hi>F4</hi>,
+F5: <hi>F5</hi>, F6: <hi>F6</hi>, F7: <hi>F7</hi>, F8: <hi>F8</hi>,
+F9: <hi>F9</hi>, F10: <hi>F10</hi>, F11: <hi>F11</hi>, F12:
+<hi>F12</hi>, F13: <hi>F13</hi>, F13a: <hi>F13a</hi>, F14:
+<hi>F14</hi>, F15: <hi>F15</hi>, F16: <hi>F16</hi>, F17: <hi>F17</hi>,
+F18: <hi>F18</hi>, F19: <hi>F19</hi>, F20: <hi>F20</hi>, F21:
+<hi>F21</hi>, F21a: <hi>F21a</hi>, F22: <hi>F22</hi>, F23:
+<hi>F23</hi>, F24: <hi>F24</hi>, F25: <hi>F25</hi>, F26: <hi>F26</hi>,
+F27: <hi>F27</hi>, F28: <hi>F28</hi>, F29: <hi>F29</hi>, F30:
+<hi>F30</hi>, F31: <hi>F31</hi>, F31a: <hi>F31a</hi>, F32:
+<hi>F32</hi>, F33: <hi>F33</hi>, F34: <hi>F34</hi>, F35: <hi>F35</hi>,
+F36: <hi>F36</hi>, F37: <hi>F37</hi>, F37a: <hi>F37a</hi>, F38:
+<hi>F38</hi>, F38a: <hi>F38a</hi>, F39: <hi>F39</hi>, F40:
+<hi>F40</hi>, F41: <hi>F41</hi>, F42: <hi>F42</hi>, F43: <hi>F43</hi>,
+F44: <hi>F44</hi>, F45: <hi>F45</hi>, F45a: <hi>F45a</hi>, F46:
+<hi>F46</hi>, F46a: <hi>F46a</hi>, F47: <hi>F47</hi>, F47a:
+<hi>F47a</hi>, F48: <hi>F48</hi>, F49: <hi>F49</hi>, F50:
+<hi>F50</hi>, F51: <hi>F51</hi>, F51a: <hi>F51a</hi>, F51b:
+<hi>F51b</hi>, F51c: <hi>F51c</hi>, F52: <hi>F52</hi>, F53:
+<hi>F53</hi>, G1: <hi>G1</hi>, G2: <hi>G2</hi>, G3: <hi>G3</hi>, G4:
+<hi>G4</hi>, G5: <hi>G5</hi>, G6: <hi>G6</hi>, G6a: <hi>G6a</hi>, G7:
+<hi>G7</hi>, G7a: <hi>G7a</hi>, G7b: <hi>G7b</hi>, G8: <hi>G8</hi>,
+G9: <hi>G9</hi>, G10: <hi>G10</hi>, G11: <hi>G11</hi>, G11a:
+<hi>G11a</hi>, G12: <hi>G12</hi>, G13: <hi>G13</hi>, G14:
+<hi>G14</hi>, G15: <hi>G15</hi>, G16: <hi>G16</hi>, G17: <hi>G17</hi>,
+G18: <hi>G18</hi>, G19: <hi>G19</hi>, G20: <hi>G20</hi>, G20a:
+<hi>G20a</hi>, G21: <hi>G21</hi>, G22: <hi>G22</hi>, G23:
+<hi>G23</hi>, G24: <hi>G24</hi>, G25: <hi>G25</hi>, G26: <hi>G26</hi>,
+G26a: <hi>G26a</hi>, G27: <hi>G27</hi>, G28: <hi>G28</hi>, G29:
+<hi>G29</hi>, G30: <hi>G30</hi>, G31: <hi>G31</hi>, G32: <hi>G32</hi>,
+G33: <hi>G33</hi>, G34: <hi>G34</hi>, G35: <hi>G35</hi>, G36:
+<hi>G36</hi>, G36a: <hi>G36a</hi>, G37: <hi>G37</hi>, G37a:
+<hi>G37a</hi>, G38: <hi>G38</hi>, G39: <hi>G39</hi>, G40:
+<hi>G40</hi>, G41: <hi>G41</hi>, G42: <hi>G42</hi>, G43: <hi>G43</hi>,
+G43a: <hi>G43a</hi>, G44: <hi>G44</hi>, G45: <hi>G45</hi>, G45a:
+<hi>G45a</hi>, G46: <hi>G46</hi>, G47: <hi>G47</hi>, G48:
+<hi>G48</hi>, G49: <hi>G49</hi>, G50: <hi>G50</hi>, G51: <hi>G51</hi>,
+G52: <hi>G52</hi>, G53: <hi>G53</hi>, G54: <hi>G54</hi>, H1:
+<hi>H1</hi>, H2: <hi>H2</hi>, H3: <hi>H3</hi>, H4: <hi>H4</hi>, H5:
+<hi>H5</hi>, H6: <hi>H6</hi>, H6a: <hi>H6a</hi>, H7: <hi>H7</hi>, H8:
+<hi>H8</hi>, I1: <hi>I1</hi>, I2: <hi>I2</hi>, I3: <hi>I3</hi>, I4:
+<hi>I4</hi>, I5: <hi>I5</hi>, I5a: <hi>I5a</hi>, I6: <hi>I6</hi>, I7:
+<hi>I7</hi>, I8: <hi>I8</hi>, I9: <hi>I9</hi>, I9a: <hi>I9a</hi>, I10:
+<hi>I10</hi>, I10a: <hi>I10a</hi>, I11: <hi>I11</hi>, I11a:
+<hi>I11a</hi>, I12: <hi>I12</hi>, I13: <hi>I13</hi>, I14:
+<hi>I14</hi>, I15: <hi>I15</hi>, K1: <hi>K1</hi>, K2: <hi>K2</hi>, K3:
+<hi>K3</hi>, K4: <hi>K4</hi>, K5: <hi>K5</hi>, K6: <hi>K6</hi>, K7:
+<hi>K7</hi>, K8: <hi>K8</hi>, L1: <hi>L1</hi>, L2: <hi>L2</hi>, L2a:
+<hi>L2a</hi>, L3: <hi>L3</hi>, L4: <hi>L4</hi>, L5: <hi>L5</hi>, L6:
+<hi>L6</hi>, L6a: <hi>L6a</hi>, L7: <hi>L7</hi>, L8: <hi>L8</hi>, M1:
+<hi>M1</hi>, M1a: <hi>M1a</hi>, M1b: <hi>M1b</hi>, M2: <hi>M2</hi>,
+M3: <hi>M3</hi>, M3a: <hi>M3a</hi>, M4: <hi>M4</hi>, M5: <hi>M5</hi>,
+M6: <hi>M6</hi>, M7: <hi>M7</hi>, M8: <hi>M8</hi>, M9: <hi>M9</hi>,
+M10: <hi>M10</hi>, M10a: <hi>M10a</hi>, M11: <hi>M11</hi>, M12:
+<hi>M12</hi>, M12a: <hi>M12a</hi>, M12b: <hi>M12b</hi>, M12c:
+<hi>M12c</hi>, M12d: <hi>M12d</hi>, M12e: <hi>M12e</hi>, M12f:
+<hi>M12f</hi>, M12g: <hi>M12g</hi>, M12h: <hi>M12h</hi>, M13:
+<hi>M13</hi>, M14: <hi>M14</hi>, M15: <hi>M15</hi>, M15a:
+<hi>M15a</hi>, M16: <hi>M16</hi>, M16a: <hi>M16a</hi>, M17:
+<hi>M17</hi>, M17a: <hi>M17a</hi>, M18: <hi>M18</hi>, M19:
+<hi>M19</hi>, M20: <hi>M20</hi>, M21: <hi>M21</hi>, M22: <hi>M22</hi>,
+M22a: <hi>M22a</hi>, M23: <hi>M23</hi>, M24: <hi>M24</hi>, M24a:
+<hi>M24a</hi>, M25: <hi>M25</hi>, M26: <hi>M26</hi>, M27:
+<hi>M27</hi>, M28: <hi>M28</hi>, M28a: <hi>M28a</hi>, M29:
+<hi>M29</hi>, M30: <hi>M30</hi>, M31: <hi>M31</hi>, M31a:
+<hi>M31a</hi>, M32: <hi>M32</hi>, M33: <hi>M33</hi>, M33a:
+<hi>M33a</hi>, M33b: <hi>M33b</hi>, M34: <hi>M34</hi>, M35:
+<hi>M35</hi>, M36: <hi>M36</hi>, M37: <hi>M37</hi>, M38: <hi>M38</hi>,
+M39: <hi>M39</hi>, M40: <hi>M40</hi>, M40a: <hi>M40a</hi>, M41:
+<hi>M41</hi>, M42: <hi>M42</hi>, M43: <hi>M43</hi>, M44: <hi>M44</hi>,
+N1: <hi>N1</hi>, N2: <hi>N2</hi>, N3: <hi>N3</hi>, N4: <hi>N4</hi>,
+N5: <hi>N5</hi>, N6: <hi>N6</hi>, N7: <hi>N7</hi>, N8: <hi>N8</hi>,
+N9: <hi>N9</hi>, N10: <hi>N10</hi>, N11: <hi>N11</hi>, N12:
+<hi>N12</hi>, N13: <hi>N13</hi>, N14: <hi>N14</hi>, N15: <hi>N15</hi>,
+N16: <hi>N16</hi>, N17: <hi>N17</hi>, N18: <hi>N18</hi>, N18a:
+<hi>N18a</hi>, N18b: <hi>N18b</hi>, N19: <hi>N19</hi>, N20:
+<hi>N20</hi>, N21: <hi>N21</hi>, N22: <hi>N22</hi>, N23: <hi>N23</hi>,
+N24: <hi>N24</hi>, N25: <hi>N25</hi>, N25a: <hi>N25a</hi>, N26:
+<hi>N26</hi>, N27: <hi>N27</hi>, N28: <hi>N28</hi>, N29: <hi>N29</hi>,
+N30: <hi>N30</hi>, N31: <hi>N31</hi>, N32: <hi>N32</hi>, N33:
+<hi>N33</hi>, N33a: <hi>N33a</hi>, N34: <hi>N34</hi>, N34a:
+<hi>N34a</hi>, N35: <hi>N35</hi>, N35a: <hi>N35a</hi>, N36:
+<hi>N36</hi>, N37: <hi>N37</hi>, N37a: <hi>N37a</hi>, N38:
+<hi>N38</hi>, N39: <hi>N39</hi>, N40: <hi>N40</hi>, N41: <hi>N41</hi>,
+N42: <hi>N42</hi>, NL1: <hi>NL1</hi>, NL2: <hi>NL2</hi>, NL3:
+<hi>NL3</hi>, NL4: <hi>NL4</hi>, NL5: <hi>NL5</hi>, NL5a:
+<hi>NL5a</hi>, NL6: <hi>NL6</hi>, NL7: <hi>NL7</hi>, NL8:
+<hi>NL8</hi>, NL9: <hi>NL9</hi>, NL10: <hi>NL10</hi>, NL11:
+<hi>NL11</hi>, NL12: <hi>NL12</hi>, NL13: <hi>NL13</hi>, NL14:
+<hi>NL14</hi>, NL15: <hi>NL15</hi>, NL16: <hi>NL16</hi>, NL17:
+<hi>NL17</hi>, NL17a: <hi>NL17a</hi>, NL18: <hi>NL18</hi>, NL19:
+<hi>NL19</hi>, NL20: <hi>NL20</hi>, NU1: <hi>NU1</hi>, NU2:
+<hi>NU2</hi>, NU3: <hi>NU3</hi>, NU4: <hi>NU4</hi>, NU5: <hi>NU5</hi>,
+NU6: <hi>NU6</hi>, NU7: <hi>NU7</hi>, NU8: <hi>NU8</hi>, NU9:
+<hi>NU9</hi>, NU10: <hi>NU10</hi>, NU10a: <hi>NU10a</hi>, NU11:
+<hi>NU11</hi>, NU11a: <hi>NU11a</hi>, NU12: <hi>NU12</hi>, NU13:
+<hi>NU13</hi>, NU14: <hi>NU14</hi>, NU15: <hi>NU15</hi>, NU16:
+<hi>NU16</hi>, NU17: <hi>NU17</hi>, NU18: <hi>NU18</hi>, NU18a:
+<hi>NU18a</hi>, NU19: <hi>NU19</hi>, NU20: <hi>NU20</hi>, NU21:
+<hi>NU21</hi>, NU22: <hi>NU22</hi>, NU22a: <hi>NU22a</hi>, O1:
+<hi>O1</hi>, O1a: <hi>O1a</hi>, O2: <hi>O2</hi>, O3: <hi>O3</hi>, O4:
+<hi>O4</hi>, O5: <hi>O5</hi>, O5a: <hi>O5a</hi>, O6: <hi>O6</hi>, O6a:
+<hi>O6a</hi>, O6b: <hi>O6b</hi>, O6c: <hi>O6c</hi>, O6d: <hi>O6d</hi>,
+O6e: <hi>O6e</hi>, O6f: <hi>O6f</hi>, O7: <hi>O7</hi>, O8:
+<hi>O8</hi>, O9: <hi>O9</hi>, O10: <hi>O10</hi>, O10a: <hi>O10a</hi>,
+O10b: <hi>O10b</hi>, O10c: <hi>O10c</hi>, O11: <hi>O11</hi>, O12:
+<hi>O12</hi>, O13: <hi>O13</hi>, O14: <hi>O14</hi>, O15: <hi>O15</hi>,
+O16: <hi>O16</hi>, O17: <hi>O17</hi>, O18: <hi>O18</hi>, O19:
+<hi>O19</hi>, O19a: <hi>O19a</hi>, O20: <hi>O20</hi>, O20a:
+<hi>O20a</hi>, O21: <hi>O21</hi>, O22: <hi>O22</hi>, O23:
+<hi>O23</hi>, O24: <hi>O24</hi>, O24a: <hi>O24a</hi>, O25:
+<hi>O25</hi>, O25a: <hi>O25a</hi>, O26: <hi>O26</hi>, O27:
+<hi>O27</hi>, O28: <hi>O28</hi>, O29: <hi>O29</hi>, O29a:
+<hi>O29a</hi>, O30: <hi>O30</hi>, O30a: <hi>O30a</hi>, O31:
+<hi>O31</hi>, O32: <hi>O32</hi>, O33: <hi>O33</hi>, O33a:
+<hi>O33a</hi>, O34: <hi>O34</hi>, O35: <hi>O35</hi>, O36:
+<hi>O36</hi>, O36a: <hi>O36a</hi>, O36b: <hi>O36b</hi>, O36c:
+<hi>O36c</hi>, O36d: <hi>O36d</hi>, O37: <hi>O37</hi>, O38:
+<hi>O38</hi>, O39: <hi>O39</hi>, O40: <hi>O40</hi>, O41: <hi>O41</hi>,
+O42: <hi>O42</hi>, O43: <hi>O43</hi>, O44: <hi>O44</hi>, O45:
+<hi>O45</hi>, O46: <hi>O46</hi>, O47: <hi>O47</hi>, O48: <hi>O48</hi>,
+O49: <hi>O49</hi>, O50: <hi>O50</hi>, O50a: <hi>O50a</hi>, O50b:
+<hi>O50b</hi>, O51: <hi>O51</hi>, P1: <hi>P1</hi>, P1a: <hi>P1a</hi>,
+P2: <hi>P2</hi>, P3: <hi>P3</hi>, P3a: <hi>P3a</hi>, P4: <hi>P4</hi>,
+P5: <hi>P5</hi>, P6: <hi>P6</hi>, P7: <hi>P7</hi>, P8: <hi>P8</hi>,
+P9: <hi>P9</hi>, P10: <hi>P10</hi>, P11: <hi>P11</hi>, Q1:
+<hi>Q1</hi>, Q2: <hi>Q2</hi>, Q3: <hi>Q3</hi>, Q4: <hi>Q4</hi>, Q5:
+<hi>Q5</hi>, Q6: <hi>Q6</hi>, Q7: <hi>Q7</hi>, R1: <hi>R1</hi>, R2:
+<hi>R2</hi>, R2a: <hi>R2a</hi>, R3: <hi>R3</hi>, R3a: <hi>R3a</hi>,
+R3b: <hi>R3b</hi>, R4: <hi>R4</hi>, R5: <hi>R5</hi>, R6: <hi>R6</hi>,
+R7: <hi>R7</hi>, R8: <hi>R8</hi>, R9: <hi>R9</hi>, R10: <hi>R10</hi>,
+R10a: <hi>R10a</hi>, R11: <hi>R11</hi>, R12: <hi>R12</hi>, R13:
+<hi>R13</hi>, R14: <hi>R14</hi>, R15: <hi>R15</hi>, R16: <hi>R16</hi>,
+R16a: <hi>R16a</hi>, R17: <hi>R17</hi>, R18: <hi>R18</hi>, R19:
+<hi>R19</hi>, R20: <hi>R20</hi>, R21: <hi>R21</hi>, R22: <hi>R22</hi>,
+R23: <hi>R23</hi>, R24: <hi>R24</hi>, R25: <hi>R25</hi>, R26:
+<hi>R26</hi>, R27: <hi>R27</hi>, R28: <hi>R28</hi>, R29: <hi>R29</hi>,
+S1: <hi>S1</hi>, S2: <hi>S2</hi>, S2a: <hi>S2a</hi>, S3: <hi>S3</hi>,
+S4: <hi>S4</hi>, S5: <hi>S5</hi>, S6: <hi>S6</hi>, S6a: <hi>S6a</hi>,
+S7: <hi>S7</hi>, S8: <hi>S8</hi>, S9: <hi>S9</hi>, S10: <hi>S10</hi>,
+S11: <hi>S11</hi>, S12: <hi>S12</hi>, S13: <hi>S13</hi>, S14:
+<hi>S14</hi>, S14a: <hi>S14a</hi>, S14b: <hi>S14b</hi>, S15:
+<hi>S15</hi>, S16: <hi>S16</hi>, S17: <hi>S17</hi>, S17a:
+<hi>S17a</hi>, S18: <hi>S18</hi>, S19: <hi>S19</hi>, S20:
+<hi>S20</hi>, S21: <hi>S21</hi>, S22: <hi>S22</hi>, S23: <hi>S23</hi>,
+S24: <hi>S24</hi>, S25: <hi>S25</hi>, S26: <hi>S26</hi>, S26a:
+<hi>S26a</hi>, S26b: <hi>S26b</hi>, S27: <hi>S27</hi>, S28:
+<hi>S28</hi>, S29: <hi>S29</hi>, S30: <hi>S30</hi>, S31: <hi>S31</hi>,
+S32: <hi>S32</hi>, S33: <hi>S33</hi>, S34: <hi>S34</hi>, S35:
+<hi>S35</hi>, S35a: <hi>S35a</hi>, S36: <hi>S36</hi>, S37:
+<hi>S37</hi>, S38: <hi>S38</hi>, S39: <hi>S39</hi>, S40: <hi>S40</hi>,
+S41: <hi>S41</hi>, S42: <hi>S42</hi>, S43: <hi>S43</hi>, S44:
+<hi>S44</hi>, S45: <hi>S45</hi>, S46: <hi>S46</hi>, T1: <hi>T1</hi>,
+T2: <hi>T2</hi>, T3: <hi>T3</hi>, T3a: <hi>T3a</hi>, T4: <hi>T4</hi>,
+T5: <hi>T5</hi>, T6: <hi>T6</hi>, T7: <hi>T7</hi>, T7a: <hi>T7a</hi>,
+T8: <hi>T8</hi>, T8a: <hi>T8a</hi>, T9: <hi>T9</hi>, T9a:
+<hi>T9a</hi>, T10: <hi>T10</hi>, T11: <hi>T11</hi>, T11a:
+<hi>T11a</hi>, T12: <hi>T12</hi>, T13: <hi>T13</hi>, T14:
+<hi>T14</hi>, T15: <hi>T15</hi>, T16: <hi>T16</hi>, T16a:
+<hi>T16a</hi>, T17: <hi>T17</hi>, T18: <hi>T18</hi>, T19:
+<hi>T19</hi>, T20: <hi>T20</hi>, T21: <hi>T21</hi>, T22: <hi>T22</hi>,
+T23: <hi>T23</hi>, T24: <hi>T24</hi>, T25: <hi>T25</hi>, T26:
+<hi>T26</hi>, T27: <hi>T27</hi>, T28: <hi>T28</hi>, T29: <hi>T29</hi>,
+T30: <hi>T30</hi>, T31: <hi>T31</hi>, T32: <hi>T32</hi>, T32a:
+<hi>T32a</hi>, T33: <hi>T33</hi>, T33a: <hi>T33a</hi>, T34:
+<hi>T34</hi>, T35: <hi>T35</hi>, T36: <hi>T36</hi>, U1: <hi>U1</hi>,
+U2: <hi>U2</hi>, U3: <hi>U3</hi>, U4: <hi>U4</hi>, U5: <hi>U5</hi>,
+U6: <hi>U6</hi>, U6a: <hi>U6a</hi>, U6b: <hi>U6b</hi>, U7:
+<hi>U7</hi>, U8: <hi>U8</hi>, U9: <hi>U9</hi>, U10: <hi>U10</hi>, U11:
+<hi>U11</hi>, U12: <hi>U12</hi>, U13: <hi>U13</hi>, U14: <hi>U14</hi>,
+U15: <hi>U15</hi>, U16: <hi>U16</hi>, U17: <hi>U17</hi>, U18:
+<hi>U18</hi>, U19: <hi>U19</hi>, U20: <hi>U20</hi>, U21: <hi>U21</hi>,
+U22: <hi>U22</hi>, U23: <hi>U23</hi>, U23a: <hi>U23a</hi>, U24:
+<hi>U24</hi>, U25: <hi>U25</hi>, U26: <hi>U26</hi>, U27: <hi>U27</hi>,
+U28: <hi>U28</hi>, U29: <hi>U29</hi>, U29a: <hi>U29a</hi>, U30:
+<hi>U30</hi>, U31: <hi>U31</hi>, U32: <hi>U32</hi>, U32a:
+<hi>U32a</hi>, U33: <hi>U33</hi>, U34: <hi>U34</hi>, U35:
+<hi>U35</hi>, U36: <hi>U36</hi>, U37: <hi>U37</hi>, U38: <hi>U38</hi>,
+U39: <hi>U39</hi>, U40: <hi>U40</hi>, U41: <hi>U41</hi>, U42:
+<hi>U42</hi>, V1: <hi>V1</hi>, V1a: <hi>V1a</hi>, V1b: <hi>V1b</hi>,
+V1c: <hi>V1c</hi>, V1d: <hi>V1d</hi>, V1e: <hi>V1e</hi>, V1f:
+<hi>V1f</hi>, V1g: <hi>V1g</hi>, V1h: <hi>V1h</hi>, V1i: <hi>V1i</hi>,
+V2: <hi>V2</hi>, V2a: <hi>V2a</hi>, V3: <hi>V3</hi>, V4: <hi>V4</hi>,
+V5: <hi>V5</hi>, V6: <hi>V6</hi>, V7: <hi>V7</hi>, V7a: <hi>V7a</hi>,
+V7b: <hi>V7b</hi>, V8: <hi>V8</hi>, V9: <hi>V9</hi>, V10:
+<hi>V10</hi>, V11: <hi>V11</hi>, V11a: <hi>V11a</hi>, V11b:
+<hi>V11b</hi>, V11c: <hi>V11c</hi>, V12: <hi>V12</hi>, V12a:
+<hi>V12a</hi>, V12b: <hi>V12b</hi>, V13: <hi>V13</hi>, V14:
+<hi>V14</hi>, V15: <hi>V15</hi>, V16: <hi>V16</hi>, V17: <hi>V17</hi>,
+V18: <hi>V18</hi>, V19: <hi>V19</hi>, V20: <hi>V20</hi>, V20a:
+<hi>V20a</hi>, V20b: <hi>V20b</hi>, V20c: <hi>V20c</hi>, V20d:
+<hi>V20d</hi>, V20e: <hi>V20e</hi>, V20f: <hi>V20f</hi>, V20g:
+<hi>V20g</hi>, V20h: <hi>V20h</hi>, V20i: <hi>V20i</hi>, V20j:
+<hi>V20j</hi>, V20k: <hi>V20k</hi>, V20l: <hi>V20l</hi>, V21:
+<hi>V21</hi>, V22: <hi>V22</hi>, V23: <hi>V23</hi>, V23a:
+<hi>V23a</hi>, V24: <hi>V24</hi>, V25: <hi>V25</hi>, V26:
+<hi>V26</hi>, V27: <hi>V27</hi>, V28: <hi>V28</hi>, V28a:
+<hi>V28a</hi>, V29: <hi>V29</hi>, V29a: <hi>V29a</hi>, V30:
+<hi>V30</hi>, V30a: <hi>V30a</hi>, V31: <hi>V31</hi>, V31a:
+<hi>V31a</hi>, V32: <hi>V32</hi>, V33: <hi>V33</hi>, V33a:
+<hi>V33a</hi>, V34: <hi>V34</hi>, V35: <hi>V35</hi>, V36:
+<hi>V36</hi>, V37: <hi>V37</hi>, V37a: <hi>V37a</hi>, V38:
+<hi>V38</hi>, V39: <hi>V39</hi>, V40: <hi>V40</hi>, V40a:
+<hi>V40a</hi>, W1: <hi>W1</hi>, W2: <hi>W2</hi>, W3: <hi>W3</hi>, W3a:
+<hi>W3a</hi>, W4: <hi>W4</hi>, W5: <hi>W5</hi>, W6: <hi>W6</hi>, W7:
+<hi>W7</hi>, W8: <hi>W8</hi>, W9: <hi>W9</hi>, W9a: <hi>W9a</hi>, W10:
+<hi>W10</hi>, W10a: <hi>W10a</hi>, W11: <hi>W11</hi>, W12:
+<hi>W12</hi>, W13: <hi>W13</hi>, W14: <hi>W14</hi>, W14a:
+<hi>W14a</hi>, W15: <hi>W15</hi>, W16: <hi>W16</hi>, W17:
+<hi>W17</hi>, W17a: <hi>W17a</hi>, W18: <hi>W18</hi>, W18a:
+<hi>W18a</hi>, W19: <hi>W19</hi>, W20: <hi>W20</hi>, W21:
+<hi>W21</hi>, W22: <hi>W22</hi>, W23: <hi>W23</hi>, W24: <hi>W24</hi>,
+W24a: <hi>W24a</hi>, W25: <hi>W25</hi>, X1: <hi>X1</hi>, X2:
+<hi>X2</hi>, X3: <hi>X3</hi>, X4: <hi>X4</hi>, X4a: <hi>X4a</hi>, X4b:
+<hi>X4b</hi>, X5: <hi>X5</hi>, X6: <hi>X6</hi>, X6a: <hi>X6a</hi>, X7:
+<hi>X7</hi>, X8: <hi>X8</hi>, X8a: <hi>X8a</hi>, Y1: <hi>Y1</hi>, Y1a:
+<hi>Y1a</hi>, Y2: <hi>Y2</hi>, Y3: <hi>Y3</hi>, Y4: <hi>Y4</hi>, Y5:
+<hi>Y5</hi>, Y6: <hi>Y6</hi>, Y7: <hi>Y7</hi>, Y8: <hi>Y8</hi>, Z1:
+<hi>Z1</hi>, Z2: <hi>Z2</hi>, Z2a: <hi>Z2a</hi>, Z2b: <hi>Z2b</hi>,
+Z2c: <hi>Z2c</hi>, Z2d: <hi>Z2d</hi>, Z3: <hi>Z3</hi>, Z3a:
+<hi>Z3a</hi>, Z3b: <hi>Z3b</hi>, Z4: <hi>Z4</hi>, Z4a: <hi>Z4a</hi>,
+Z5: <hi>Z5</hi>, Z5a: <hi>Z5a</hi>, Z6: <hi>Z6</hi>, Z7: <hi>Z7</hi>,
+Z8: <hi>Z8</hi>, Z9: <hi>Z9</hi>, Z10: <hi>Z10</hi>, Z11:
+<hi>Z11</hi>, Z12: <hi>Z12</hi>, Z13: <hi>Z13</hi>, Z14: <hi>Z14</hi>,
+Z15: <hi>Z15</hi>, Z15a: <hi>Z15a</hi>, Z15b: <hi>Z15b</hi>, Z15c:
+<hi>Z15c</hi>, Z15d: <hi>Z15d</hi>, Z15e: <hi>Z15e</hi>, Z15f:
+<hi>Z15f</hi>, Z15g: <hi>Z15g</hi>, Z15h: <hi>Z15h</hi>, Z15i:
+<hi>Z15i</hi>, Z16: <hi>Z16</hi>, Z16a: <hi>Z16a</hi>, Z16b:
+<hi>Z16b</hi>, Z16c: <hi>Z16c</hi>, Z16d: <hi>Z16d</hi>, Z16e:
+<hi>Z16e</hi>, Z16f: <hi>Z16f</hi>, Z16g: <hi>Z16g</hi>, Z16h:
+<hi>Z16h</hi>, Aa1: <hi>Aa1</hi>, Aa2: <hi>Aa2</hi>, Aa3:
+<hi>Aa3</hi>, Aa4: <hi>Aa4</hi>, Aa5: <hi>Aa5</hi>, Aa6: <hi>Aa6</hi>,
+Aa7: <hi>Aa7</hi>, Aa7a: <hi>Aa7a</hi>, Aa7b: <hi>Aa7b</hi>, Aa8:
+<hi>Aa8</hi>, Aa9: <hi>Aa9</hi>, Aa10: <hi>Aa10</hi>, Aa11:
+<hi>Aa11</hi>, Aa12: <hi>Aa12</hi>, Aa13: <hi>Aa13</hi>, Aa14:
+<hi>Aa14</hi>, Aa15: <hi>Aa15</hi>, Aa16: <hi>Aa16</hi>, Aa17:
+<hi>Aa17</hi>, Aa18: <hi>Aa18</hi>, Aa19: <hi>Aa19</hi>, Aa20:
+<hi>Aa20</hi>, Aa21: <hi>Aa21</hi>, Aa22: <hi>Aa22</hi>, Aa23:
+<hi>Aa23</hi>, Aa24: <hi>Aa24</hi>, Aa25: <hi>Aa25</hi>, Aa26:
+<hi>Aa26</hi>, Aa27: <hi>Aa27</hi>, Aa28: <hi>Aa28</hi>, Aa29:
+<hi>Aa29</hi>, Aa30: <hi>Aa30</hi>, Aa31: <hi>Aa31</hi>, Aa32:
+<hi>Aa32</hi>.
+</texttr>
+</segment>
+</egyptian>

@@ -1,0 +1,47 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-14
+version = BA
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Sinuhe&quot;, following the
+transcription of Koch (1990), version BA. Only fragments are given
+where BA deviates substantially from the main version.
+
+The transliteration throughout follows Hannig (1995).
+
+###
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+R. Koch. <i>Die Erzählung des Sinuhe</i>. Fondation Égyptologique
+Reine Élisabeth, Brussels, 1990.
+
+###
+
+<@73b> wn.kw r=j dmA<4>.kw Hr Xt=j 
+;
+I was stretched out on my bell<@0>y <@73c>
+
+<@74b> Haw=j Ah<8>d.w 
+;
+my limbs failed<@1>, <@74c>
+
+<9><@74d> [...] mwt
+;
+<9> [...] death,
+
+<@74e> n rx(=j) wj r anx <10> [...<@3>] 
+;
+<@2>I could not distinguish myself from life. <10> [...] <@74f>

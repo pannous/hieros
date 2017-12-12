@@ -1,0 +1,4101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ortho
+  creator=""
+  name=""
+  labelname=""
+  created=""
+  modified=""
+  version=""
+  language=""
+>
+<header>
+</header>
+<tier name="orthographic" mode="shown"/>
+<segment id="0">
+<texthi>F40-Z7-S29</texthi>
+<textal>Aw=s</textal>
+<textortho>
+<phon lit="Aw">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="s">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="1">
+<texthi>G1-Q3-D46-G43-G38-Z1-Z1-Z1</texthi>
+<textal>Apdw</textal>
+<textortho>
+<phon lit="A">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="p">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="d">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="(any) bird, flying insect">
+  <signs pos="4"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="5" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="2">
+<texthi>M17-G1-D21-D21-X1-D5-N33-Z1-Z1-Z1</texthi>
+<textal>jArrwt</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="r">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="r">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="t">
+  <signs pos="4"/>
+  <letters pos="5"/>
+</phon>
+<phondet lit="jArr">
+  <signs pos="5"/>
+  <letters pos="0" len="4"/>
+</phondet>
+<det descr="sand, metal, mineral, medicin">
+  <signs pos="6"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="7" len="3"/>
+  <letters pos="4"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="3">
+<texthi>M17-G1-N29-X1-M2-Z1-Z1-Z1</texthi>
+<textal>jAqt</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="q">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="plant, flower">
+  <signs pos="4"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="5" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="4">
+<texthi>M18-M17-X1-D54</texthi>
+<textal>jjt</textal>
+<textortho>
+<log word="jj">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="j">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="movement">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="5">
+<texthi>M18-M17-X1-D54</texthi>
+<textal>jj.tj</textal>
+<textortho>
+<log word="jj">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="j">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<det descr="movement">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="6">
+<texthi>M18-M17-D54-N35-Z1*[sep=2.0]Z1*[sep=2.0]Z1</texthi>
+<textal>jj=n</textal>
+<textortho>
+<log word="jj">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="j">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="movement">
+  <signs pos="2"/>
+</det>
+<phon lit="n">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="7">
+<texthi>M17-D36-N35-N35-N35-D36</texthi>
+<textal>ja</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="a">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="water, liquid and associated actions">
+  <signs pos="2" len="3"/>
+</det>
+<det descr="strike, force, effort">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="8">
+<texthi>M17-G43</texthi>
+<textal>jw</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="9">
+<texthi>N18-N23-Z1</texthi>
+<textal>jw</textal>
+<textortho>
+<log word="jw">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<det descr="irrigated land">
+  <signs pos="1"/>
+</det>
+<typ descr="semogram marker">
+  <signs pos="2"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="10">
+<texthi>M17-G43-I9</texthi>
+<textal>jw=f</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="f">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="11">
+<texthi>M17-G43-N35-Z1-Z1-Z1</texthi>
+<textal>jw=n</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="3" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="12">
+<texthi>M17-D58-E8-V31-G43-A1</texthi>
+<textal>jb.kw</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="b">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phondet lit="jb">
+  <signs pos="2"/>
+  <letters pos="0" len="2"/>
+</phondet>
+<phon lit="k">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="w">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<det descr="first person singular">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="13">
+<texthi>F34-Z1-A1</texthi>
+<textal>jb=j</textal>
+<textortho>
+<log word="jb">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="1"/>
+</typ>
+<log word="=j">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="14">
+<texthi>F34-Z1-V31</texthi>
+<textal>jb=k</textal>
+<textortho>
+<log word="jb">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="1"/>
+</typ>
+<phon lit="k">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="15">
+<texthi>M17-Aa15-G17-D36</texthi>
+<textal>jm</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="jm">
+  <signs pos="1"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="m">
+  <signs pos="2"/>
+  <letters pos="1"/>
+</phon>
+<det descr="strike, force, effort">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="16">
+<texthi>M17-G17</texthi>
+<textal>jm</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="17">
+<texthi>M17-G17-I9</texthi>
+<textal>jm=f</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="f">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="18">
+<texthi>M17-G17-S29</texthi>
+<textal>jm=s</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="s">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="19">
+<texthi>M17-N35</texthi>
+<textal>jn</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="20">
+<texthi>W24-V31-A1</texthi>
+<textal>jnk</textal>
+<textortho>
+<phon lit="jn">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="k">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<det descr="first person singular">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="21">
+<texthi>M17-D21-Z4</texthi>
+<textal>jrj</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="j">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="22">
+<texthi>D4-D21-V31</texthi>
+<textal>jrr=k</textal>
+<textortho>
+<phon lit="jr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="k">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="23">
+<texthi>D4-N35-A1</texthi>
+<textal>jr.n=j</textal>
+<textortho>
+<phon lit="jr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="3"/>
+</phon>
+<log word="=j">
+  <signs pos="2"/>
+  <letters pos="4" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="24">
+<texthi>D4-X1-S29</texthi>
+<textal>jr.tw=s</textal>
+<textortho>
+<phon lit="jr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="s">
+  <signs pos="2"/>
+  <letters pos="6"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="25">
+<texthi>D4-I9</texthi>
+<textal>jr=f</textal>
+<textortho>
+<phon lit="jr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="f">
+  <signs pos="1"/>
+  <letters pos="3"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="26">
+<texthi>M17-Aa1-Y1</texthi>
+<textal>jx</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="x">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="27">
+<texthi>
+M40-G43-X1-A1-Z1*[sep=2.0]Z1*[sep=2.0]Z1-X1-N35-Z1*[sep=2.0]Z1*[sep=2.0]Z1
+</texthi>
+<textal>jswt=n</textal>
+<textortho>
+<phon lit="js">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<det descr="man and his occupations">
+  <signs pos="3"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+<phon lit="t">
+  <signs pos="7"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="n">
+  <signs pos="8"/>
+  <letters pos="5"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="9" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="28">
+<texthi>M17-N29-D21-Y1</texthi>
+<textal>jqr</textal>
+<textortho>
+<phon lit="j">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="q">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="r">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="29">
+<texthi>I3-I3-G7</texthi>
+<textal>jty</textal>
+<textortho>
+<log word="jty">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="3"/>
+</log>
+<det descr="god, king">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="30">
+<texthi>D36-Z1-G43-Z4-A1</texthi>
+<textal>awj=j</textal>
+<textortho>
+<log word="a">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="1"/>
+</typ>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="1"/>
+</phon>
+<typ descr="duality">
+  <signs pos="3"/>
+  <letters pos="2"/>
+</typ>
+<log word="=j">
+  <signs pos="4"/>
+  <letters pos="3" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="31">
+<texthi>P6-D36-N35</texthi>
+<textal>aHa.n</textal>
+<textortho>
+<phon lit="aHa">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="a">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="32">
+<texthi>P6-D36-N35-A1</texthi>
+<textal>aHa.n=j</textal>
+<textortho>
+<phon lit="aHa">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="a">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+<log word="=j">
+  <signs pos="3"/>
+  <letters pos="5" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="33">
+<texthi>V26-D46-X1-Y1</texthi>
+<textal>aD.tj</textal>
+<textortho>
+<det word="aD">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</det>
+<phon lit="d">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="34">
+<texthi>V4-G1-G43-N35-N35-N35</texthi>
+<textal>wAw</textal>
+<textortho>
+<phon lit="wA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="water, liquid and associated actions">
+  <signs pos="3" len="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="35">
+<texthi>V4-V4-X1-N25</texthi>
+<textal>wAwAt</textal>
+<textortho>
+<phon lit="wA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="wA">
+  <signs pos="1"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+<det descr="desert, foreign land">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="36">
+<texthi>M14-G36-D21-N36</texthi>
+<textal>wAD-wr</textal>
+<textortho>
+<phon lit="wAD">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="wr">
+  <signs pos="1"/>
+  <letters pos="4" len="2"/>
+</phon>
+<phon lit="r">
+  <signs pos="2"/>
+  <letters pos="5"/>
+</phon>
+<det descr="river, lake, sea">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="37">
+<texthi>G43-A1</texthi>
+<textal>wj</textal>
+<textortho>
+<phon lit="w">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<det descr="first person singular">
+  <signs pos="1"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="38">
+<texthi>T21-Z7-D36-A1-Z1</texthi>
+<textal>wa</textal>
+<textortho>
+<log word="wa">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="a">
+  <signs pos="2"/>
+  <letters pos="1"/>
+</phon>
+<det descr="man and his occupations">
+  <signs pos="3"/>
+</det>
+<typ descr="semogram marker">
+  <signs pos="4"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="39">
+<texthi>T21-Z7-D36-Z1-G37-V31-A1-Z7</texthi>
+<textal>wa.kw</textal>
+<textortho>
+<log word="wa">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="a">
+  <signs pos="2"/>
+  <letters pos="1"/>
+</phon>
+<typ descr="space filler">
+  <signs pos="3"/>
+</typ>
+<det descr="small, bad, defective">
+  <signs pos="4"/>
+</det>
+<phon lit="k">
+  <signs pos="5"/>
+  <letters pos="3"/>
+</phon>
+<det descr="first person singular">
+  <signs pos="6"/>
+</det>
+<phon lit="w">
+  <signs pos="7"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="40">
+<texthi>G36-D21</texthi>
+<textal>wr</textal>
+<textortho>
+<phon lit="wr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="41">
+<texthi>F25-G17-M17-M17-X1-A2</texthi>
+<textal>wHmyt</textal>
+<textortho>
+<phon lit="wHm">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="y">
+  <signs pos="2" len="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="t">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<det descr="speak, think, feel">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="42">
+<texthi>G43-N37-D58-A2-V31</texthi>
+<textal>wSb=k</textal>
+<textortho>
+<phon lit="w">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="S">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="b">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="speak, think, feel">
+  <signs pos="3"/>
+</det>
+<phon lit="k">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="43">
+<texthi>G43-F30-D46-X1-A2-V31</texthi>
+<textal>wSd.tw=k</textal>
+<textortho>
+<phon lit="w">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="Sd">
+  <signs pos="1"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="d">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="3"/>
+  <letters pos="4"/>
+</phon>
+<det descr="speak, think, feel">
+  <signs pos="4"/>
+</det>
+<phon lit="k">
+  <signs pos="5"/>
+  <letters pos="7"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="44">
+<texthi>G43-U28-G1-Y1-F34-Z1-V31</texthi>
+<textal>wDA-jb=k</textal>
+<textortho>
+<phon lit="w">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="DA">
+  <signs pos="1"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="A">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="3"/>
+</det>
+<log word="jb">
+  <signs pos="4"/>
+  <letters pos="4" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="5"/>
+</typ>
+<phon lit="k">
+  <signs pos="6"/>
+  <letters pos="7"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="45">
+<texthi>D58-M17-N41-F18-N25</texthi>
+<textal>bjA</textal>
+<textortho>
+<phon lit="b">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="j">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="bjA">
+  <signs pos="2"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phondet lit="bjA">
+  <signs pos="3"/>
+  <letters pos="0" len="3"/>
+</phondet>
+<det descr="desert, foreign land">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="46">
+<texthi>Q3-Z7</texthi>
+<textal>pw</textal>
+<textortho>
+<phon lit="p">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="47">
+<texthi>Q3-G43</texthi>
+<textal>pw</textal>
+<textortho>
+<phon lit="p">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="48">
+<texthi>O1-D21-D54</texthi>
+<textal>pr.w</textal>
+<textortho>
+<phon lit="pr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="movement">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="49">
+<texthi>F22-G43-Z4</texthi>
+<textal>pHwj</textal>
+<textortho>
+<log word="pHwj">
+  <signs pos="0"/>
+  <letters pos="0" len="4"/>
+</log>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="j">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="50">
+<texthi>F22-D54-N35-N35-Z1*[sep=2.0]Z1*[sep=2.0]Z1</texthi>
+<textal>pH.n=n</textal>
+<textortho>
+<phon lit="pH">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<det descr="movement">
+  <signs pos="1"/>
+</det>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="n">
+  <signs pos="3"/>
+  <letters pos="5"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="51">
+<texthi>F22-D54-N35-Z1*[sep=2.0]Z1*[sep=2.0]Z1</texthi>
+<textal>pH=n</textal>
+<textortho>
+<phon lit="pH">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<det descr="movement">
+  <signs pos="1"/>
+</det>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="3" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="52">
+<texthi>Q3-X1-N1</texthi>
+<textal>pt</textal>
+<textortho>
+<phon lit="p">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det word="pt">
+  <signs pos="2"/>
+  <letters pos="0" len="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="53">
+<texthi>I9-G1-X1-A9-D36</texthi>
+<textal>fAt</textal>
+<textortho>
+<phon lit="f">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det word="fAj">
+  <signs pos="3"/>
+  <letters pos="0" len="2"/>
+</det>
+<det descr="strike, force, effort">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="54">
+<texthi>G17</texthi>
+<textal>m</textal>
+<textortho>
+<phon lit="m">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="55">
+<texthi>U1-D4-G1-G43-F27-Z1-Z1-Z1</texthi>
+<textal>mAjw</textal>
+<textortho>
+<phon lit="mA">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="A">
+  <signs pos="2"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="skin, mammal">
+  <signs pos="4"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="5" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="56">
+<texthi>U1-D4-G1-S29-N35-Z1-Z1-Z1</texthi>
+<textal>mA=sn</textal>
+<textortho>
+<log word="mA">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="A">
+  <signs pos="2"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="s">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="n">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="5" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="57">
+<texthi>U1-D4-S29-N35-Z1-Z1-Z1</texthi>
+<textal>mA=sn</textal>
+<textortho>
+<log word="mA">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="s">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="n">
+  <signs pos="3"/>
+  <letters pos="4"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="58">
+<texthi>W19-M17</texthi>
+<textal>mj</textal>
+<textortho>
+<phon lit="mj">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="j">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="59">
+<texthi>W19-M17-X1-X1-Y1</texthi>
+<textal>mjtt</textal>
+<textortho>
+<phon lit="mj">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="j">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="60">
+<texthi>G17-D36-V31-G1-D36-F34-Z1-S29-N35-Z1-Z1-Z1</texthi>
+<textal>makA-jb=sn</textal>
+<textortho>
+<phon lit="m">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="a">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="k">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="A">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="strike, force, effort">
+  <signs pos="4"/>
+</det>
+<log word="jb">
+  <signs pos="5"/>
+  <letters pos="5" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="6"/>
+</typ>
+<phon lit="s">
+  <signs pos="7"/>
+  <letters pos="8"/>
+</phon>
+<phon lit="n">
+  <signs pos="8"/>
+  <letters pos="9"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="9" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="61">
+<texthi>N35-N35-N35</texthi>
+<textal>mw</textal>
+<textortho>
+<log word="mw">
+  <signs pos="0" len="3"/>
+  <letters pos="0" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="62">
+<texthi>G17-X1-Z6</texthi>
+<textal>mwt(.tj)</textal>
+<textortho>
+<phon lit="m">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<det descr="die">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="63">
+<texthi>Y5-N35-M17-X1-P11-M3</texthi>
+<textal>mnjt</textal>
+<textortho>
+<phon lit="mn">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="j">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det word="mnjt">
+  <signs pos="4"/>
+  <letters pos="0" len="4"/>
+</det>
+<det descr="wood">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="64">
+<texthi>Y5-N35-Y5-N35-D54</texthi>
+<textal>mnmn</textal>
+<textortho>
+<phon lit="mn">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="mn">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="movement">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="65">
+<texthi>V22-D36</texthi>
+<textal>mH</textal>
+<textortho>
+<log word="mH">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="66">
+<texthi>
+A12-A1-Z1*[sep=2.0]Z1*[sep=2.0]Z1-N35-Z1*[sep=2.0]Z1*[sep=2.0]Z1
+</texthi>
+<textal>mSa=n</textal>
+<textortho>
+<log word="mSa">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<det descr="man and his occupations">
+  <signs pos="1"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="2" len="3"/>
+</typ>
+<phon lit="n">
+  <signs pos="5"/>
+  <letters pos="4"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="6" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="67">
+<texthi>G17-D36-V31</texthi>
+<textal>mk</textal>
+<textortho>
+<phon lit="m">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="k">
+  <signs pos="2"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="68">
+<texthi>S43-D46-G43-A2-I9</texthi>
+<textal>mdw=f</textal>
+<textortho>
+<phon lit="mdw">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="d">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="speak, think, feel">
+  <signs pos="3"/>
+</det>
+<phon lit="f">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="69">
+<texthi>S43-D46-G43-A2-V31</texthi>
+<textal>mdw=k</textal>
+<textortho>
+<phon lit="mdw">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="d">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="speak, think, feel">
+  <signs pos="3"/>
+</det>
+<phon lit="k">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="70">
+<texthi>G17-D36-A1</texthi>
+<textal>m-a=j</textal>
+<textortho>
+<phon lit="m">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<log word="a">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</log>
+<log word="=j">
+  <signs pos="2"/>
+  <letters pos="3" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="71">
+<texthi>G17-D36-V31</texthi>
+<textal>m-a=k</textal>
+<textortho>
+<phon lit="m">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<log word="a">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</log>
+<phon lit="k">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="72">
+<texthi>G17-F26-N35-W24-Z7-O1</texthi>
+<textal>m-Xnw</textal>
+<textortho>
+<phon lit="m">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="Xn">
+  <signs pos="1"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="nw">
+  <signs pos="3"/>
+  <letters pos="3" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<det descr="building, seat, place">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="73">
+<texthi>G17-F26-N35-W24-G43-O1-I9</texthi>
+<textal>m-Xnw=f</textal>
+<textortho>
+<phon lit="m">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="Xn">
+  <signs pos="1"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="nw">
+  <signs pos="3"/>
+  <letters pos="3" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<det descr="building, seat, place">
+  <signs pos="5"/>
+</det>
+<phon lit="f">
+  <signs pos="6"/>
+  <letters pos="6"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="74">
+<texthi>N35</texthi>
+<textal>n</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="75">
+<texthi>N35-Z1*[sep=2.0]Z1*[sep=2.0]Z1</texthi>
+<textal>n</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="1" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="76">
+<texthi>D35</texthi>
+<textal>n</textal>
+<textortho>
+<log word="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="77">
+<texthi>N35-M17-X1-M17-X1-A2</texthi>
+<textal>njtjt</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="j">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="j">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="t">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<det descr="speak, think, feel">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="78">
+<texthi>N35-F20-M23-Z7</texthi>
+<textal>nj-sw</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="ns">
+  <signs pos="1"/>
+  <letters pos="0"/><letters pos="3"/>
+</phon>
+<phon lit="sw">
+  <signs pos="2"/>
+  <letters pos="3" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="79">
+<texthi>N35-U19-W24-Z7-M17-M17-X1-N35-N35-N35</texthi>
+<textal>nwyt</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="nw">
+  <signs pos="1"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="nw">
+  <signs pos="2"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="y">
+  <signs pos="4" len="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="6"/>
+  <letters pos="3"/>
+</phon>
+<det descr="water, liquid and associated actions">
+  <signs pos="7" len="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="80">
+<texthi>V30</texthi>
+<textal>nb</textal>
+<textortho>
+<phon lit="nb">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="81">
+<texthi>V30-X1</texthi>
+<textal>nbt</textal>
+<textortho>
+<phon lit="nb">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="82">
+<texthi>D35-N35</texthi>
+<textal>nn</textal>
+<textortho>
+<log word="nn">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="83">
+<texthi>N35-O4-G43-G37</texthi>
+<textal>nhw</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="h">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="small, bad, defective">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="84">
+<texthi>N35-N42-G17-D36-I9</texthi>
+<textal>nHm=f</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="Hm">
+  <signs pos="1"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="m">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="strike, force, effort">
+  <signs pos="3"/>
+</det>
+<phon lit="f">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="85">
+<texthi>M23-X1-N35-G7</texthi>
+<textal>nsw</textal>
+<textortho>
+<log word="nsw">
+  <signs pos="0" len="3"/>
+  <letters pos="0" len="3"/>
+</log>
+<det descr="god, king">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="86">
+<texthi>N35-N37-N35-Z4-E20-A24</texthi>
+<textal>nSnj</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="S">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="j">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="turmoil">
+  <signs pos="4"/>
+</det>
+<det descr="strike, force, effort">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="87">
+<texthi>N35-N29-G43-X1-N33-Z1-Z1-Z1</texthi>
+<textal>nqawt</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="q">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="t">
+  <signs pos="3"/>
+  <letters pos="4"/>
+</phon>
+<det descr="sand, metal, mineral, medicin">
+  <signs pos="4"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="5" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="88">
+<texthi>N35-X1</texthi>
+<textal>nt</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="89">
+<texthi>N35-X1-G4-Z1-Z1-Z1</texthi>
+<textal>ntjw</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="tjw">
+  <signs pos="2"/>
+  <letters pos="1" len="3"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="3" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="90">
+<texthi>N35-X1-X1</texthi>
+<textal>ntt</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="91">
+<texthi>R8-Z1-Z1-Z1-Z1</texthi>
+<textal>nTrw</textal>
+<textortho>
+<log word="nTr">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="1"/>
+</typ>
+<typ descr="plurality or collectivity">
+  <signs pos="2" len="3"/>
+  <letters pos="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="92">
+<texthi>N35-A1</texthi>
+<textal>n=j</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<log word="=j">
+  <signs pos="1"/>
+  <letters pos="1" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="93">
+<texthi>N35-I9</texthi>
+<textal>n=f</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="f">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="94">
+<texthi>N35-V31</texthi>
+<textal>n=k</textal>
+<textortho>
+<phon lit="n">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="k">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="95">
+<texthi>D21</texthi>
+<textal>r</textal>
+<textortho>
+<phon lit="r">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="96">
+<texthi>D21-Z1</texthi>
+<textal>rA</textal>
+<textortho>
+<log word="rA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="1"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="97">
+<texthi>D21-Z1-A1</texthi>
+<textal>rA=j</textal>
+<textortho>
+<log word="rA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="1"/>
+</typ>
+<log word="=j">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="98">
+<texthi>D21-I9</texthi>
+<textal>rf</textal>
+<textortho>
+<phon lit="r">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="f">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="99">
+<texthi>D21-G17-Z7-K5-Z1-Z1-Z1</texthi>
+<textal>rmw</textal>
+<textortho>
+<phon lit="r">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="fish">
+  <signs pos="3"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="100">
+<texthi>D21-Aa1-Y1</texthi>
+<textal>rx</textal>
+<textortho>
+<phon lit="r">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="x">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="101">
+<texthi>D21-V31</texthi>
+<textal>rk</textal>
+<textortho>
+<phon lit="r">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="k">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="102">
+<texthi>D21-D46-D56-D56-A1</texthi>
+<textal>rdwj=j</textal>
+<textortho>
+<phon lit="r">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="d">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det word="rd">
+  <signs pos="2"/>
+  <letters pos="0" len="2"/>
+</det>
+<mult num="2">
+  <signs pos="2" len="2"/>
+  <letters pos="2" len="2"/>
+</mult>
+<log word="=j">
+  <signs pos="4"/>
+  <letters pos="4" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="103">
+<texthi>D21-D36</texthi>
+<textal>rDj</textal>
+<textortho>
+<log word="rDj">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="3"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="104">
+<texthi>D21-D36-N35-A1</texthi>
+<textal>rDj.n=j</textal>
+<textortho>
+<log word="rDj">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+<log word="=j">
+  <signs pos="3"/>
+  <letters pos="5" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="105">
+<texthi>D21-D36-V31-G43-A1</texthi>
+<textal>rDj.kw</textal>
+<textortho>
+<log word="rDj">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="k">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="5"/>
+</phon>
+<det descr="first person singular">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="106">
+<texthi>D21-D36-X1</texthi>
+<textal>rDj.tj</textal>
+<textortho>
+<log word="rDj">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="107">
+<texthi>O4-G1-D54-V31-G43-A1</texthi>
+<textal>hA.kw</textal>
+<textortho>
+<phon lit="h">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="movement">
+  <signs pos="2"/>
+</det>
+<phon lit="k">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="w">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<det descr="first person singular">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="108">
+<texthi>O4-D21-G43-N5</texthi>
+<textal>hrw</textal>
+<textortho>
+<phon lit="h">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det word="hrw">
+  <signs pos="3"/>
+  <letters pos="0" len="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="109">
+<texthi>M16-G1-G43-Y1-Z1-Z1-Z1</texthi>
+<textal>HAw</textal>
+<textortho>
+<phon lit="HA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="3"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="110">
+<texthi>F4-D36-A1</texthi>
+<textal>HAtj-a</textal>
+<textortho>
+<log word="HAtj-a">
+  <signs pos="0" len="2"/>
+  <letters pos="0" len="6"/>
+</log>
+<det descr="man and his occupations">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="111">
+<texthi>F4-X1-X1-V1</texthi>
+<textal>HAtt</textal>
+<textortho>
+<log word="HAt">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<det descr="rope">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="112">
+<texthi>V28-A25-A24</texthi>
+<textal>Hw</textal>
+<textortho>
+<phon lit="H">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<det word="Hwj">
+  <signs pos="1"/>
+  <letters pos="0" len="2"/>
+</det>
+<det descr="strike, force, effort">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="113">
+<texthi>V28-V28-A25-A24</texthi>
+<textal>Hwj</textal>
+<textortho>
+<phon lit="H">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<mult num="2">
+  <signs pos="0" len="2"/>
+  <letters pos="1" len="2"/>
+</mult>
+<det word="Hwj">
+  <signs pos="2"/>
+  <letters pos="0" len="3"/>
+</det>
+<det descr="strike, force, effort">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="114">
+<texthi>V28-Q3-X1-D32-D36</texthi>
+<textal>Hpt</textal>
+<textortho>
+<phon lit="H">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="p">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="envelop">
+  <signs pos="3"/>
+</det>
+<det descr="arm and movement of arms">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="115">
+<texthi>V28-I9-G1-G43-I14</texthi>
+<textal>HfAw</textal>
+<textortho>
+<phon lit="H">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="f">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="A">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="snake">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="116">
+<texthi>V28-N35-D36</texthi>
+<textal>Hna</textal>
+<textortho>
+<phon lit="H">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="a">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="117">
+<texthi>D2-Z1</texthi>
+<textal>Hr</textal>
+<textortho>
+<log word="Hr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<typ descr="space filler">
+  <signs pos="1"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="118">
+<texthi>D2-Z1</texthi>
+<textal>Hr</textal>
+<textortho>
+<log word="Hr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="1"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="119">
+<texthi>D2-Z1-A1</texthi>
+<textal>Hr=j</textal>
+<textortho>
+<log word="Hr">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="1"/>
+</typ>
+<log word="=j">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="120">
+<texthi>V28-V31-N35-W24-Z7-A2</texthi>
+<textal>Hknw</textal>
+<textortho>
+<phon lit="H">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="k">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="nw">
+  <signs pos="3"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="4"/>
+  <letters pos="3"/>
+</phon>
+<det descr="speak, think, feel">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="121">
+<texthi>R4-X1-Q3-Y1</texthi>
+<textal>Htp</textal>
+<textortho>
+<phon lit="Htp">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="p">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="122">
+<texthi>L1-D21</texthi>
+<textal>xpr</textal>
+<textortho>
+<phon lit="xpr">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="123">
+<texthi>L1-D21-X1-I9</texthi>
+<textal>xprt=f</textal>
+<textortho>
+<phon lit="xpr">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="f">
+  <signs pos="3"/>
+  <letters pos="5"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="124">
+<texthi>Aa1-D21-P8-E23-G43-A2</texthi>
+<textal>xrw</textal>
+<textortho>
+<phon lit="x">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="xrw">
+  <signs pos="2"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="rw">
+  <signs pos="3"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="4"/>
+  <letters pos="2"/>
+</phon>
+<det descr="speak, think, feel">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="125">
+<texthi>Aa1-D21-Q3-Z7-M3</texthi>
+<textal>xrpw</textal>
+<textortho>
+<phon lit="x">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="p">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="wood">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="126">
+<texthi>Aa1-D21-X1-Y1-Z1-Z1-Z1-F34-Z1-V31</texthi>
+<textal>xrt-jb=k</textal>
+<textortho>
+<phon lit="x">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="3"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+<log word="jb">
+  <signs pos="7"/>
+  <letters pos="4" len="2"/>
+</log>
+<typ descr="semogram marker">
+  <signs pos="8"/>
+</typ>
+<phon lit="k">
+  <signs pos="9"/>
+  <letters pos="7"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="127">
+<texthi>M3-X1-Z1</texthi>
+<textal>xt</textal>
+<textortho>
+<log word="xt">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<typ descr="semogram marker">
+  <signs pos="2"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="128">
+<texthi>Aa1-X1-Q7</texthi>
+<textal>xt</textal>
+<textortho>
+<phon lit="x">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="fire, flame, cook">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="129">
+<texthi>M3-X1-Z1-Z1-Z1-Z1</texthi>
+<textal>xtw</textal>
+<textortho>
+<log word="xt">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<typ descr="semogram marker">
+  <signs pos="2"/>
+</typ>
+<typ descr="plurality or collectivity">
+  <signs pos="3" len="3"/>
+  <letters pos="2"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="130">
+<texthi>F26-N35-W24-G43-O1</texthi>
+<textal>Xnw</textal>
+<textortho>
+<phon lit="Xn">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="nw">
+  <signs pos="2"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="2"/>
+</phon>
+<det descr="building, seat, place">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="131">
+<texthi>O34-A1-Z1</texthi>
+<textal>s</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<det descr="man and his occupations">
+  <signs pos="1"/>
+</det>
+<typ descr="semogram marker">
+  <signs pos="2"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="132">
+<texthi>D61-Y1-N35-Z1-Z1-Z1</texthi>
+<textal>sAH=n</textal>
+<textortho>
+<log word="sAH">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="1"/>
+</det>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="3" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="133">
+<texthi>S29</texthi>
+<textal>sj</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="134">
+<texthi>M23-Z7</texthi>
+<textal>sw</textal>
+<textortho>
+<phon lit="sw">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="135">
+<texthi>M23-G43</texthi>
+<textal>sw</textal>
+<textortho>
+<phon lit="sw">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="136">
+<texthi>S29-G36-D21-D46-G37</texthi>
+<textal>swrD</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="wr">
+  <signs pos="1"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="r">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="d">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="small, bad, defective">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="137">
+<texthi>O35-G37-N35-Z9-X1-Q7</texthi>
+<textal>sbj-n-sDt</textal>
+<textortho>
+<log word="sbj">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<det descr="small, bad, defective">
+  <signs pos="1"/>
+</det>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+<phon lit="sD">
+  <signs pos="3"/>
+  <letters pos="6" len="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="4"/>
+  <letters pos="8"/>
+</phon>
+<det descr="fire, flame, cook">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="138">
+<texthi>O34-Q3-O50</texthi>
+<textal>sp</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="p">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="sp">
+  <signs pos="2"/>
+  <letters pos="0" len="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="139">
+<texthi>O34-N35-G14-X1-N25</texthi>
+<textal>snmt</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="mt">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="desert, foreign land">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="140">
+<texthi>T22-N35-W24-G43-A1-Z1-Z1-A1</texthi>
+<textal>snnw=j</textal>
+<textortho>
+<log word="snw">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="nw">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="man and his occupations">
+  <signs pos="4"/>
+</det>
+<typ descr="duality">
+  <signs pos="5" len="2"/>
+</typ>
+<log word="=j">
+  <signs pos="7"/>
+  <letters pos="4" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="141">
+<texthi>T22-N35-W24-G43-A1-Z1*[sep=2.0]Z1-I9</texthi>
+<textal>snnw=f</textal>
+<textortho>
+<log word="snw">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="nw">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="man and his occupations">
+  <signs pos="4"/>
+</det>
+<typ descr="duality">
+  <signs pos="5" len="2"/>
+</typ>
+<phon lit="f">
+  <signs pos="7"/>
+  <letters pos="5"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="142">
+<texthi>O34-N35-X5-D54-N35-N35-Z1*[sep=2.0]Z1*[sep=2.0]Z1</texthi>
+<textal>sn.n=n</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phondet lit="sn">
+  <signs pos="2"/>
+  <letters pos="0" len="2"/>
+</phondet>
+<det descr="movement">
+  <signs pos="3"/>
+</det>
+<phon lit="n">
+  <signs pos="4"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="n">
+  <signs pos="5"/>
+  <letters pos="5"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="6" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="143">
+<texthi>O34-D21-E27-A2-S29-N35-Z1-Z1-Z1</texthi>
+<textal>sr=sn</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="foretell">
+  <signs pos="2"/>
+</det>
+<det descr="speak, think, feel">
+  <signs pos="3"/>
+</det>
+<phon lit="s">
+  <signs pos="4"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="n">
+  <signs pos="5"/>
+  <letters pos="4"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="6" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="144">
+<texthi>S29-Aa1-G43-W10-S29</texthi>
+<textal>sxw=s</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="x">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<phondet lit="sxw">
+  <signs pos="3"/>
+  <letters pos="0" len="3"/>
+</phondet>
+<phon lit="s">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="145">
+<texthi>S29-L1-D21-N35-A1</texthi>
+<textal>sxpr.n=j</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="xpr">
+  <signs pos="1"/>
+  <letters pos="1" len="3"/>
+</phon>
+<phon lit="r">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="n">
+  <signs pos="3"/>
+  <letters pos="5"/>
+</phon>
+<log word="=j">
+  <signs pos="4"/>
+  <letters pos="6" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="146">
+<texthi>S29-S29-Aa18-G1-A2-N35</texthi>
+<textal>ssA.n=j</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="s">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="sA">
+  <signs pos="2"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="A">
+  <signs pos="3"/>
+  <letters pos="2"/>
+</phon>
+<det descr="eat and drink">
+  <signs pos="4"/>
+</det>
+<phon lit="n">
+  <signs pos="5"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="147">
+<texthi>S29-Aa28-D46-A24-A1</texthi>
+<textal>sqd</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="qd">
+  <signs pos="1"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="d">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="strike, force, effort">
+  <signs pos="3"/>
+</det>
+<det descr="man and his occupations">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="148">
+<texthi>S29-X1</texthi>
+<textal>st</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="149">
+<texthi>U21-Y1</texthi>
+<textal>stp</textal>
+<textortho>
+<log word="stp">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="1"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="150">
+<texthi>F21-G17</texthi>
+<textal>sDm</textal>
+<textortho>
+<log word="sDm">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="151">
+<texthi>F21-G17-N35-A1</texthi>
+<textal>sDm.n=j</textal>
+<textortho>
+<log word="sDm">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="4"/>
+</phon>
+<log word="=j">
+  <signs pos="3"/>
+  <letters pos="5" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="152">
+<texthi>O34-M36-D21-A55-V31-G43-A1</texthi>
+<textal>sDr.kw</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="Dr">
+  <signs pos="1"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="r">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det word="sDr">
+  <signs pos="3"/>
+  <letters pos="0" len="3"/>
+</det>
+<phon lit="k">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<phon lit="w">
+  <signs pos="5"/>
+  <letters pos="5"/>
+</phon>
+<det descr="first person singular">
+  <signs pos="6"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="153">
+<texthi>S29-I10-D46-A1</texthi>
+<textal>sDd=j</textal>
+<textortho>
+<phon lit="s">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="D">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="d">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<log word="=j">
+  <signs pos="3"/>
+  <letters pos="3" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="154">
+<texthi>H6-Z7-G37</texthi>
+<textal>Sw</textal>
+<textortho>
+<phon lit="Sw">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="small, bad, defective">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="155">
+<texthi>H6-Z7-M17-M17-X1-N5</texthi>
+<textal>Swyt</textal>
+<textortho>
+<phon lit="Sw">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="y">
+  <signs pos="2" len="2"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="4"/>
+  <letters pos="3"/>
+</phon>
+<det descr="sun, time">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="156">
+<texthi>A50-S29-X1-Y1</texthi>
+<textal>Spst</textal>
+<textortho>
+<log word="Sps">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="s">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<det descr="writing and what is written, abstract notions">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="157">
+<texthi>T18-G43-A1</texthi>
+<textal>Smsw</textal>
+<textortho>
+<log word="Sms">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="3"/>
+</phon>
+<det descr="man and his occupations">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="158">
+<texthi>N40-G17-D54-V31-G43-A1</texthi>
+<textal>Sm.kw</textal>
+<textortho>
+<log word="Sm">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="movement">
+  <signs pos="2"/>
+</det>
+<phon lit="k">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="w">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<det descr="first person singular">
+  <signs pos="5"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="159">
+<texthi>O42-Q3-D36</texthi>
+<textal>Ssp</textal>
+<textortho>
+<phon lit="Ssp">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="p">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<det descr="strike, force, effort">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="160">
+<texthi>O42-Q3-X1-N33-Z1-Z1-Z1</texthi>
+<textal>Sspt</textal>
+<textortho>
+<phon lit="Ssp">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="p">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<det descr="sand, metal, mineral, medicin">
+  <signs pos="3"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="161">
+<texthi>F30-D46-X1-D36-A1</texthi>
+<textal>Sdt=j</textal>
+<textortho>
+<phon lit="Sd">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="d">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="arm and movement of arms">
+  <signs pos="3"/>
+</det>
+<log word="=j">
+  <signs pos="4"/>
+  <letters pos="3" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="162">
+<texthi>N29-N35-M17-D32-D36-N35-A1</texthi>
+<textal>qnj.n=j</textal>
+<textortho>
+<phon lit="q">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="n">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="j">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="envelop">
+  <signs pos="3"/>
+</det>
+<det descr="arm and movement of arms">
+  <signs pos="4"/>
+</det>
+<phon lit="n">
+  <signs pos="5"/>
+  <letters pos="4"/>
+</phon>
+<log word="=j">
+  <signs pos="6"/>
+  <letters pos="5" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="163">
+<texthi>N29-D21-M17-E21-A24</texthi>
+<textal>qrj</textal>
+<textortho>
+<phon lit="q">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="r">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="j">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="turmoil">
+  <signs pos="3"/>
+</det>
+<det descr="strike, force, effort">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="164">
+<texthi>V31-G1-G43-N33-Z1-Z1-Z1</texthi>
+<textal>kAw</textal>
+<textortho>
+<phon lit="k">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="w">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="sand, metal, mineral, medicin">
+  <signs pos="3"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="165">
+<texthi>V31-G1-Q3-V19-O1</texthi>
+<textal>kAp</textal>
+<textortho>
+<phon lit="k">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="p">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="hut">
+  <signs pos="3"/>
+</det>
+<det descr="building, seat, place">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="166">
+<texthi>V31-I9-S28-N35-A1</texthi>
+<textal>kf.n=j</textal>
+<textortho>
+<phon lit="k">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="f">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="clothing">
+  <signs pos="2"/>
+</det>
+<phon lit="n">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<log word="=j">
+  <signs pos="4"/>
+  <letters pos="4" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="167">
+<texthi>I6-G17-X1-O49</texthi>
+<textal>kmt</textal>
+<textortho>
+<phon lit="km">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="inhabited area">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="168">
+<texthi>G28-G17-G28-G17-Z9</texthi>
+<textal>gmgm</textal>
+<textortho>
+<phon lit="gm">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="gm">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</phon>
+<phon lit="m">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<det descr="break, divide, cross, answer">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="169">
+<texthi>G28-G17-N35-A1</texthi>
+<textal>gm.n=j</textal>
+<textortho>
+<phon lit="gm">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="m">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<log word="=j">
+  <signs pos="3"/>
+  <letters pos="4" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="170">
+<texthi>N16-N23-Z1</texthi>
+<textal>tA</textal>
+<textortho>
+<log word="tA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<det descr="irrigated land">
+  <signs pos="1"/>
+</det>
+<typ descr="semogram marker">
+  <signs pos="2"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="171">
+<texthi>N16-N23-Z1-N35-Z1*[sep=2.0]Z1*[sep=2.0]Z1</texthi>
+<textal>tA=n</textal>
+<textortho>
+<log word="tA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<det descr="irrigated land">
+  <signs pos="1"/>
+</det>
+<typ descr="semogram marker">
+  <signs pos="2"/>
+</typ>
+<phon lit="n">
+  <signs pos="3"/>
+  <letters pos="3"/>
+</phon>
+<typ descr="plurality or collectivity">
+  <signs pos="4" len="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="172">
+<texthi>D1-Z1-D36-Z1</texthi>
+<textal>tp-a</textal>
+<textortho>
+<log word="tp">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<typ descr="space filler">
+  <signs pos="1"/>
+</typ>
+<log word="a">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</log>
+<typ descr="space filler">
+  <signs pos="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="173">
+<texthi>P5-G43</texthi>
+<textal>TAw</textal>
+<textortho>
+<log word="TAw">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="174">
+<texthi>G47-G1-G17-S28</texthi>
+<textal>TAm</textal>
+<textortho>
+<phon lit="TA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="m">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="clothing">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="175">
+<texthi>X1-Z7</texthi>
+<textal>Tw</textal>
+<textortho>
+<phon lit="t">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="w">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="176">
+<texthi>D46-G1-D58-M43-N33-Z1-Z1-Z1</texthi>
+<textal>dAbw</textal>
+<textortho>
+<phon lit="d">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="b">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="vine, fruit">
+  <signs pos="3"/>
+</det>
+<det descr="sand, metal, mineral, medicin">
+  <signs pos="4"/>
+</det>
+<typ descr="plurality or collectivity">
+  <signs pos="5" len="3"/>
+  <letters pos="3"/>
+</typ>
+</textortho>
+</segment>
+
+<segment id="177">
+<texthi>R8-N14-G1-A30-A2</texthi>
+<textal>dwA-nTr</textal>
+<textortho>
+<log word="nTr">
+  <signs pos="0"/>
+  <letters pos="4" len="3"/>
+</log>
+<phon lit="dwA">
+  <signs pos="1"/>
+  <letters pos="0" len="3"/>
+</phon>
+<phon lit="A">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="praise, awe, supplicate">
+  <signs pos="3"/>
+</det>
+<det descr="speak, think, feel">
+  <signs pos="4"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="178">
+<texthi>D46-E34-N35-D54-N35-A1</texthi>
+<textal>dwn.n=j</textal>
+<textortho>
+<phon lit="d">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="wn">
+  <signs pos="1"/>
+  <letters pos="1" len="2"/>
+</phon>
+<phon lit="n">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det descr="movement">
+  <signs pos="3"/>
+</det>
+<phon lit="n">
+  <signs pos="4"/>
+  <letters pos="4"/>
+</phon>
+<log word="=j">
+  <signs pos="5"/>
+  <letters pos="5" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="179">
+<texthi>D46-Q3-X1-P1</texthi>
+<textal>dpt</textal>
+<textortho>
+<phon lit="d">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="p">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="t">
+  <signs pos="2"/>
+  <letters pos="2"/>
+</phon>
+<det word="dpt">
+  <signs pos="3"/>
+  <letters pos="0" len="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="180">
+<texthi>U28-G1-Z9-M3</texthi>
+<textal>DA</textal>
+<textortho>
+<log word="DA">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="A">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="break, divide, cross, answer">
+  <signs pos="2"/>
+</det>
+<det descr="wood">
+  <signs pos="3"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="181">
+<texthi>D36-X1-A1</texthi>
+<textal>Djt=j</textal>
+<textortho>
+<log word="Dj">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="t">
+  <signs pos="1"/>
+  <letters pos="2"/>
+</phon>
+<log word="=j">
+  <signs pos="2"/>
+  <letters pos="3" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="182">
+<texthi>D36-I9</texthi>
+<textal>Dj=f</textal>
+<textortho>
+<log word="Dj">
+  <signs pos="0"/>
+  <letters pos="0" len="2"/>
+</log>
+<phon lit="f">
+  <signs pos="1"/>
+  <letters pos="3"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="183">
+<texthi>I10-D36-P5</texthi>
+<textal>Da</textal>
+<textortho>
+<phon lit="D">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="a">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<det descr="wind, sail">
+  <signs pos="2"/>
+</det>
+</textortho>
+</segment>
+
+<segment id="184">
+<texthi>D50-Z1-Z1-Z1-V31</texthi>
+<textal>Dbaw=k</textal>
+<textortho>
+<log word="Dba">
+  <signs pos="0"/>
+  <letters pos="0" len="3"/>
+</log>
+<typ descr="plurality or collectivity">
+  <signs pos="1" len="3"/>
+  <letters pos="3"/>
+</typ>
+<phon lit="k">
+  <signs pos="4"/>
+  <letters pos="5"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="185">
+<texthi>I10-O34-A1</texthi>
+<textal>Ds=j</textal>
+<textortho>
+<phon lit="D">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="s">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<log word="=j">
+  <signs pos="2"/>
+  <letters pos="2" len="2"/>
+</log>
+</textortho>
+</segment>
+
+<segment id="186">
+<texthi>I10-D46</texthi>
+<textal>Dd</textal>
+<textortho>
+<phon lit="D">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="d">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+</textortho>
+</segment>
+
+<segment id="187">
+<texthi>I10-D46-M17-N35</texthi>
+<textal>Dd.jn</textal>
+<textortho>
+<phon lit="D">
+  <signs pos="0"/>
+  <letters pos="0"/>
+</phon>
+<phon lit="d">
+  <signs pos="1"/>
+  <letters pos="1"/>
+</phon>
+<phon lit="j">
+  <signs pos="2"/>
+  <letters pos="3"/>
+</phon>
+<phon lit="n">
+  <signs pos="3"/>
+  <letters pos="4"/>
+</phon>
+</textortho>
+</segment>
+</ortho>

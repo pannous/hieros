@@ -1,0 +1,56 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-11-16
+modified = 
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the inscription of Peniati, 
+in Shatt er Rigal,
+following the transcription of Sethe (1927), number 18 (pp. 51-52).
+
+For a published translation, see Sethe (1914), number 18 (pp. 27-28).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<A1> jmj-rA kAt n ^Dsr-kA-^ra mAa-xrw ^pn-jAtj
+;
+<A1> Overseer of works of Djeserkare, justified, Peniati.
+
+<A2> jmj-rA kAt n ^aA-xpr-kA-^ra ^pn-jAtj
+;
+<A2> Overseer of works of Aakheperkare, Peniati.
+
+<A3> jmj-rA kAt n ^aA-xpr-n-^ra ^pn-jAtj
+;
+<A3> Overseer of works of Aakheperenre, Peniati.
+
+<B1> nsw-bjtj ^mn-xpr-^ra Dj anx
+;
+<B1> The king of Upper and Lower Egypt Menkheperre, given life.
+
+<B2> nTrt nfr ^mAat-kA-^ra wHm anx
+;
+<B2> The good goddess Maatkare, who lives again.
+
+<B3> jmj-rA kAt m pr ^jmn ^pn-jAtj mAa-xrw
+;
+<B3> Overseer of works in the temple of Amun, Peniati, justified.
+

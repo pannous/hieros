@@ -1,0 +1,884 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-12-02
+modified = 2011-12-22
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;The stela of
+Sehetepibre&quot;, following the transcription of Sethe (1924), pp.
+68-70.
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), pp. 324-327, §§
+743-748; Lichtheim (1975), pp. 125-129; Simpson (1972), pp. 198-200
+(covers only the teaching on verso).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume I</i>. The
+University of Chicago Press, 1906.
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+M. Lichtheim. <i>Ancient Egyptian Literature -- Volume I: The Old and
+Middle Kingdoms</i>. University of California Press, 1975.
+
+K. Sethe. <i>Aegyptische Lesestücke</i>. J.C. Hinrichs'sche
+Buchhandlung, Leipzig, 1924.
+
+W.K. Simpson (editor). <i>The Literature of Ancient Egypt: An
+Anthology of Stories, Instructions, and Poetry</i>. Yale University
+Press, 1972.
+
+###
+
+<"v"> jrj-pat
+;
+<"v"> Prince regent,
+
+HAtj-a
+;
+count,
+
+xtmw-bjtj
+;
+royal seal-keeper,
+
+jmj-rA gs-pr
+;
+overseer of the administration,
+
+jdnw n jmj-rA xtmt
+;
+deputy of the treasurer,
+
+^sHtp-jb-^ra
+;
+Sehetepibre,
+
+mAa-xrw
+;
+justified,
+
+Dd=f
+;
+says:
+
+jr.n=j grt maHat tn
+;
+'I built this grave,
+
+sAx.tj smnx st=s
+;
+which was consecrated after its place had been established.
+
+rDj.n=j xtmt DbAw
+;
+I have made contracts for payments
+
+n Hmw-nTr nw ^AbDw
+;
+to the priests of Abydos.
+
+jw jr.n=j sA-mr=f
+;
+I acted as Loving Son,
+
+m sSm Hwt-nbw
+;
+in the service of the House of Gold,
+
+m sStA n nb ^AbDw
+;
+in the mystery of the lord of Abydos.
+
+jw xrp.n(=j) kAt m nSmt
+;
+I directed the works on the Neshmet-barque
+
+ms.n(=j) jn=s
+;
+and fashioned its cordage.
+
+jr.n=j hAkr n nb=f
+;
+I conducted the Haker-ceremony for its lord
+
+prt<note>Read <hi>V30</hi> as <hi>W3</hi>.</note> ^wpj-wAwt
+;
+and the procession of Upwawet.
+
+jr(=j) n=f Hbyt nbt
+;
+I made all festival offerings for him,
+
+Sd(=j) n Hmw-nTr
+;
+and recited to the priests.
+
+DbA.n=j nTr m xaw=f
+;
+I equipped the god with his regalia,
+
+m jAt=j nt Hrj-sStA
+;
+in my function of initiated
+
+jrt=j nt smA
+;
+and my duty of clothing priest.
+
+jnk abA awj
+;
+It is I who presented the hands
+
+m sXkr nTr
+;
+in adorning the god,
+
+sm wab Dbaw
+;
+a Sem-priest with clean fingers,
+
+jx wn=j m Sms n nTr
+;
+so that I might be a follower of the god,
+
+n-mrwt Ax wsr
+;
+in order to be glorious and mighty
+
+r rd n nb ^AbDw
+;
+at the stairway of the lord of Abydos.'
+
+HAt-a m sbAyt
+;
+Beginning of the teaching
+
+jrt.n=f xr msw=f
+;
+that he composed for his children:
+
+Dd=j wrt
+;
+'I say something great,
+
+Dj=j sDm=Tn
+;
+I let you hear,
+
+Dj=j rx=Tn sxr n nHH
+;
+I let you know eternal counsel,
+
+sSr anx mAaw
+;
+the right conduct of life,
+
+sbt aHaw m Htp
+;
+passing a lifetime at peace.
+
+dwA nsw ^nj-mAat-^ra
+;
+Worship king Nimaatre
+
+anx(.w) Dt
+;
+(may he live forever!)
+
+m-Xnw n Xwt=Tn
+;
+in your bodies!
+
+snsn Hm=f m jbw=Tn
+;
+Join with Your Majesty in your hearts!
+
+sjA pw jmj HAtjw
+;
+He is wisdom in the hearts,
+
+jw jrtj=f Dar=sn Xt nbt
+;
+his eyes see after every body.
+
+^ra pw mAAw m stwt=f
+;
+He is Re by whose rays one sees,
+
+sHDw sw tAwj r jtn
+;
+who illumines the Two Lands more than the sun,
+
+swADw sw tA r Hap aA
+;
+who makes the land verdant more than a great Nile flood.
+
+mH.n=f tAwj m nxt anx
+;
+He has filled the Two Lands with life force.
+
+qbb fnDw wA=f r nSn
+;
+Noses turn cold when he starts to rage,
+
+Htp=f r tpj TAw
+;
+he is at peace to let one breathe air.
+
+DD=f kA n ntjw m Sms=f
+;
+He gives food to those who are in his following,
+
+sDfA=f mDd mTn=f
+;
+he nourishes who is loyal to him.
+
+kA pw nsw
+;
+The king is sustenance,
+
+HAw pw rA=f
+;
+his mouth is abundance,
+
+sxpr=f pw wnn.tj=f
+;
+who will be is his creation.
+
+^Xnmw pw n Haw nb
+;
+He is Khnum of everybody,
+
+wtTw sxpr rxyt
+;
+begetter who creates mankind.
+
+^bAstt pw xwt tAwj
+;
+He is Bastet who protects the Two Lands,
+
+jw dwA sw r nhw-a=f
+;
+who worships him will be protected by his arm.
+
+^sxmt pw r th wDt=f
+;
+He is Sakhmet to who defies his command,
+
+jw sfA=f r Xrj SmAw
+;
+whom he hates will bear distress.
+
+aHA Hr rn=f
+;
+Fight for his name,
+
+twr Hr anx=f
+;
+respect his oath,
+
+Sw=Tn m sp n bgsw
+;
+and you will be free of disloyalty.
+
+jw mr n nsw r jmAxy
+;
+The beloved of the king will be blessed.
+
+nn js n sbj Hr Hm=f
+;
+There is no grave for him who rebels against His Majesty,
+
+jw XAt=f m qmA n mw
+;
+his corpse is cast in the water.
+
+jr=Tn nn
+;
+If you do this,
+
+wDA Haw=Tn
+;
+your bodies will be well
+
+gm=Tn st n Dt
+;
+and you will be able to use them forever.'
+
+jrj-pat
+;
+Prince regent,
+
+HAtj-a
+;
+count,
+
+xtmw-bjtj
+;
+royal seal-keeper,
+
+jmj-rA gs-pr
+;
+overseer of the administration,
+
+^sHtp-jb-^ra
+;
+Sehetepibre,
+
+mAa-xrw
+;
+justified,
+
+Dd=f
+;
+says:
+
+mr nsw pw
+;
+'O beloved of the king,
+
+mrw nTr=f njwtj pw
+;
+o beloved of his city god,
+
+wabw n ^wsjr
+;
+priests of Osiris,
+
+xntj jmntjw
+;
+foremost of those in the west,
+
+m ^AbDw
+;
+in Abydos,
+
+wnwt Hwt-nTr nt nTr pn
+;
+priesthood of the temple of this god,
+
+wabw nw nsw-bjtj
+;
+priests of the king of Upper and Lower Egypt
+
+^nj-mAat-^ra
+;
+Nimaatre
+
+anx(.w) Dt r nHH
+;
+(may he live forever until eternity!)
+
+nsw-bjtj
+;
+and the king of Upper and Lower Egypt
+
+^xaj-kAw-^ra
+;
+Khakaure,
+
+mAa-xrw
+;
+justified,
+
+wnwt=sn Hwt-nTr
+;
+their priesthood,
+
+jmjw njwt=Tn
+;
+those in your city,
+
+rmT nb nt ^AbDw
+;
+and all people of Abydos
+
+swA.tj=sn Hr maHat tn
+;
+who will pass by this monument
+
+m-xd m-xntj
+;
+going north or south,
+
+m mrr Tn nsw=Tn
+;
+as your king loves you,
+
+Hs Tn nTrw=Tn njwtjw
+;
+as your city gods praise you,
+
+mn msw=Tn Hr nswt=Tn<note>Read <hi>N23</hi> as <hi>W11</hi>.</note>
+;
+as your children remain in your places,
+
+mrw=Tn anx
+;
+as you love life
+
+smxw=Tn mwt
+;
+and ignore death,
+
+Dd=Tn
+;
+you will say:
+
+1000 m t
+;
+&quot;A thousand of bread,
+
+Hnqt
+;
+beer,
+
+kAw
+;
+oxen,
+
+Apdw
+;
+fowl,
+
+Ss
+;
+alabaster,
+
+mnxt
+;
+clothing,
+
+snTr
+;
+incense,
+
+mrHt
+;
+oil,
+
+rnpwt nb
+;
+all kinds of plants,
+
+Hnkt nb anxt nTr jm
+;
+all kinds of offerings on which a god lives,
+
+n kA n jmAx
+;
+for the spirit of the revered,
+
+jrj-pat
+;
+the prince regent,
+
+HAtj-a
+;
+count,
+
+xtmw-bjtj
+;
+royal seal-keeper,
+
+mry nb=f
+;
+beloved of his lord,
+
+smr watj n mrt
+;
+beloved sole companion,
+
+jdnw n jmj-rA xtmt
+;
+deputy of the treasurer,
+
+^sHtp-^ra
+;
+Sehetep(ib)re,
+
+mAa-xrw
+;
+justified,
+
+jr.n ^DDt-^nxbt
+;
+born of Dedetnekhbet,
+
+mAa-xrw
+;
+justified
+
+nb jmAx
+;
+and revered.&quot; '
+
+<"r"> jrj-pat
+;
+<"r"> Prince regent,
+
+HAtj-a
+;
+count,
+
+xtmw-bjtj
+;
+royal seal-keeper,
+
+smr watj n mrwt
+;
+beloved sole companion,
+
+wr n nsw
+;
+great one of the king of Upper Egypt,
+
+aA n bjtj
+;
+important one of the king of Lower Egypt,
+
+sr m HAt rxyt
+;
+magistrate at the head of the people,
+
+jmj-rA abw wHmw Swt nSmwt
+;
+leader of horn, hoof, feather, scale,
+
+sSwj n sxmx-jb
+;
+and of the two pleasure ponds,
+
+sA jwt=f n Snyt
+;
+whose coming is awaited by the courtiers,
+
+Dd.n n=f Xwt xrt=sn
+;
+to whom people have told their matters,
+
+ptr.n nb tAwj jqr=f
+;
+whose excellence the lord of the Two Lands perceived,
+
+Tn.n=f xnt jdbwj
+;
+whom he raised over the Two Banks,
+
+jrj n HD Hna nbw
+;
+administrator of silver and gold,
+
+nr-jHw n aAtt nbt
+;
+keeper of all precious stones,
+
+s n mAat xnt tAwj
+;
+man of justice before the Two Lands,
+
+mtj mAa mj ^DHwtj
+;
+truly righteous man like Thoth,
+
+Hrj-sStA m rAw-pr
+;
+initiated in the temples,
+
+jmj-rA kAt nb nt pr-nsw
+;
+overseer of all works of the palace,
+
+aqA r tx
+;
+more accurate than a plummet,
+
+mjtj mxAt
+;
+like a scale,
+
+wAH-jb
+;
+patient,
+
+mnx nDwt-rA
+;
+with effective counsel,
+
+Dd nfrt
+;
+who says what is good,
+
+wHm mrrt
+;
+recounts what is desired,
+
+wAH-jb jwtj snnw=f
+;
+patient without equal,
+
+nfr sDm
+;
+good at listening,
+
+jqr Dd
+;
+excellent in speaking,
+
+sr wHa Tsst
+;
+magistrate who solves problems,
+
+Tn.n nb=f xnt HHw
+;
+whom his lord raised over millions,
+
+twt mAa n mrwt
+;
+true image of love,
+
+Sw m jrt jsft
+;
+free from wrongdoing,
+
+wa jb n bjtj
+;
+devoted to the king
+
+smtr n=f
+;
+who has tried him,
+
+jwn Smaw m pr-nsw
+;
+pillar of Upper Egypt in the palace,
+
+Sms nb=f r nmtt=f
+;
+who follows his lord in his strides,
+
+aq-jb=f xnt Snyt
+;
+his intimate before the courtiers,
+
+HA nb=f m waaw
+;
+who attends his lord alone,
+
+^Hr mnx m st aH
+;
+excellent Horus in the palace,
+
+jmj-jb n nb=f mAa
+;
+true favourite of his lord,
+
+Ddw n=f mdt HApt
+;
+to whom secret matters are told,
+
+gm Ts<note>Read <hi>O34</hi> as <hi>S24</hi>.</note>
+;
+who finds the right words
+
+snDm qsnt
+;
+and eases pain,
+
+jr jxt r tp-nfr
+;
+who does things successfully,
+
+xtmw-bjtj
+;
+royal seal-keeper,
+
+jmj-rA gs-pr
+;
+overseer of the administration,
+
+jdnw n jmj-rA xtmt
+;
+deputy of the treasurer,
+
+^sHtp-jb-^ra
+;
+Sehetepibre,
+
+Dd=f
+;
+says:
+
+j HAtj-a jmj-rA Hm-nTr nb
+;
+'O every count and leader of priests,
+
+Hm-nTr aA nb
+;
+every high priest,
+
+Xrj-Hbt
+;
+lector priest,
+
+xtmw nTr
+;
+divine seal-keeper,
+
+wt ^jnpw nb
+;
+every embalmer of Anubis,
+
+Hm-nTr aSA nb
+;
+all many priests,
+
+mtjw-n-sA nb
+;
+all controllers of phyles,
+
+anx nb n njwt tn {nb}
+;
+all who live in this town,
+
+xpr.tj=fj m Hwt-nTr tn
+;
+who will appear in this temple,
+
+swA.tj=sn Hr maHat tn
+;
+who will pass by this monument,
+
+Sd.tj=sn wD pn
+;
+who will read this stela,
+
+m mrr Tn ^wsjr
+;
+as Osiris loves you,
+
+xntj jmntjw
+;
+foremost of those in the west,
+
+wHm=Tn jrt Hbw=f
+;
+as you repeat his feasts,
+
+m mrr Tn ^wpj-wAwt
+;
+as Upwawet loves you,
+
+nTr=Tn bnr mrwt
+;
+your lovable god,
+
+nDm-jb=Tn m nsw r nHH
+;
+as you rejoice in the king forever,
+
+mrw=Tn anx
+;
+as you love life
+
+smxw=Tn mwt
+;
+and ignore death,
+
+snb n=Tn Xrdw=Tn
+;
+and as your children thrive for you,
+
+Dd=Tn m tpt-rA=Tn
+;
+you will say as your utterance:
+
+Htp-Dj-nsw
+;
+&quot;A royal offering:
+
+1000 m t
+;
+A thousand of bread,
+
+Hnqt
+;
+beer,
+
+kAw
+;
+oxen,
+
+Apdw
+;
+fowl,
+
+Ss
+;
+alabaster,
+
+mnxt
+;
+clothing,
+
+jxt nb bnrt
+;
+all sweetness
+
+anxt nTr jm
+;
+on which a god lives
+
+n jmAx
+;
+for the revered
+
+jrj-pat
+;
+the prince regent,
+
+HAtj-a
+;
+count,
+
+xtmw-bjtj
+;
+royal seal-keeper,
+
+jmj-rA gs-pr
+;
+overseer of the administration,
+
+jdnw n jmj-rA xtmt
+;
+deputy of the treasurer,
+
+^sHtp-jb-^ra
+;
+Sehetepibre,
+
+jr.n ^DDt-^nxbt
+;
+born of Dedetnekhbet,
+
+mAa-xrw
+;
+justified.&quot; '

@@ -1,0 +1,87 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-10-18
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the calendar from Papyrus Ebers,
+following the transcription of Sethe (1927), number 13 (p. 44).
+
+For a published translation, see
+Sethe (1914), number 13 (pp. 23-24).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> rnpt-sp 9 xr Hm n 
+;
+<1> Year 9 under the majesty of
+
+nsw-bjtj ^Dsr-kA-^ra anx(.w) Dt
+;
+the king of Upper and Lower Egypt Djeserkare (may he live forever!).
+
+<2> wpt-rnpt Abd 3 Smw sw 9 prt-spdt
+;
+<2> New Year's Day: third month of the Season of Harvest, day 9, Rising of Sothis.
+
+<3> txj Abd 4 <no>""</no> sw 9 <no>""</no>
+;
+<3> Tekhi: fourth month "", day 9, "".
+
+<4> mnxt Abd 1 Axt sw 9 <no>""</no>
+;
+<4> Menkhet: first month of the Season of Inundation, day 9, "".
+
+<5> ^Hwt-^Hr Abd 2 <no>""</no> sw 9 <no>""</no>
+;
+<5> Hathor: second month "", day 9, "".
+
+<6> kA-Hr-kA Abd 3 <no>""</no> sw 9 <no>""</no>
+;
+<6> Koiak: third month "", day 9, "".
+
+<7> Sf-bdt Abd 4 <no>""</no> sw 9 <no>""</no>
+;
+<7> Shef-bedet: fourth month "", day 9, "".
+
+<8> rkH Abd 1 prt sw 9 <no>""</no>
+;
+<8> (Great) Burning: first month of the Season of Growing, day 9, "".
+
+<9> rkH Abd 2 <no>""</no> sw 9 <no>""</no>
+;
+<9> (Little) Burning: second month "", day 9, "".
+
+<10> rnnwtt Abd 3 <no>""</no> sw 9 <no>""</no>
+;
+<10> Renenutet: third month "", day 9, "".
+
+<11> xnsw Abd 4 <no>""</no> sw 9 <no>""</no>
+;
+<11> Khons: fourth month "", day 9, "".
+
+<12> xntj-Xtj Abd 1 Smw sw 9 <no>""</no>
+;
+<12> Khentikheti first month of the Season of Harvest, day 9, "".
+
+<13> jpt Abd 2 <no>""</no> sw 9 <no>""</no>
+;
+<13> Ipet: second month "", day 9, "".
+

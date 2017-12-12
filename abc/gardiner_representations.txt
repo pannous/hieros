@@ -1,0 +1,1054 @@
+A1	seated man	
+A2	seated man with hand to mouth	
+A3	man sitting on heel	
+A4	seated man with hands raised	
+A5	crouching man hiding behind wall	
+A5a	seated man hiding behind wall	
+A6	seated man under vase from which water flows	
+A6a	seated man re
+A6b	seated man re
+A7	fatigued man	
+A8	man performing hnw-rite	
+A9	seated man with  W10 on head	
+A10	seated man holding oar	
+A11	seated man holding  S42 and  S39	
+A12	soldier with bow and quiver	
+A13	man with arms tied behind his back	
+A14	falling man with blood streaming from his head	
+A14a	man whose head is hit with an axe	
+A15	man falling	
+A16	man bowing down	
+A17	child sitting with hand to mouth	
+A17a	child sitting with arms hanging down	
+A18	child wearing  S3	
+A19	bent man leaning on staff	
+A20	man leaning on forked staff	
+A21	man holding staff with handkerchief	
+A22	statue of man with staff and  S42	
+A23	king with staff and  T3	
+A24	man striking with both hands	
+A25	man striking, with left arm hanging behind back	
+A26	man with one arm pointing forward	
+A27	hastening man	
+A28	man with hands raised on either side	
+A29	man upside down	
+A30	man with hands raised in front	
+A31	man with hands raised behind him	
+A32	man dancing with arms to the back	
+A32a	man dancing with arms to the front	
+A33	man with stick and bundle on shoulder	
+A34	man pounding in a mortar	
+A35	man building wall	
+A36	man kneading into vessel	
+A37	man in vessel	
+A38	man holding necks of two emblematic animals with panther heads	
+A39	man on two giraffes	
+A40	seated god	
+A40a	seated god with  S40	
+A41	king with uraeus	
+A42	king with uraeus and  S45	
+A42a	king with uraeus and  S45	
+A43	king wearing  S1	
+A43a	king wearing  S1 with  S40	
+A44	king wearing  S1 with  S45	
+A45	king wearing  S3	
+A45a	king wearing  S3 with  S40	S. Cauville (2001):16 (under the name A45B)	
+A46	king wearing  S3 with  S45	
+A47	shepherd seated and wrapped in mantle, holding stick	
+A48	beardless man seated and holding knife	
+A49	seated Syrian holding stick	
+A50	noble on chair	
+A51	noble on chair with  S45	
+A52	noble squatting with  S45	
+A53	standing mummy	
+A54	lying mummy	
+A55	mummy on bed	
+A56	seated man holding stick	
+A57	man holding  R4	
+A58	man applying hoe to ground	
+A59	man threatening with stick	
+A60	man sowing seeds	
+A61	man looking over his shoulder	
+A62	Asiatic	
+A63	king on throne holding staff	
+A64	man sitting on heels holding forward  W10	
+A65	man wearing tunic with fringes and holding mace	
+A66	man holding  Y8	
+A67	dwarf	
+A68	man holding up knife	
+A69	seated man with raised right arm and left arm hanging down	
+A70	seated man with raised arms	
+B1	seated woman	
+B2	pregnant woman	
+B3	woman giving birth	
+B4	combination of  B3 and  F31	
+B5	woman suckling child	
+B5a	woman suckling child (simplified)	
+B6	woman on chair with child on lap	
+B7	queen wearing diadem and holding flower	
+B8	woman holding  M9	
+B9	woman holding  Y8	
+C1	god with  N6	
+C2	god with head of falcon with sun on head and holding  S34 	
+C2a	god with head of falcon with sun on head	
+C2b	 C2a reversed	
+C2c	 C2 reversed	
+C3	god with head of ibis	
+C4	god with head of ram	
+C5	god with head of ram holding  S34	
+C6	god with head of jackal	
+C7	god with head of Seth-animal	
+C8	ithyphallic god with  S9, uplifted arm and  S45	
+C9	goddess with sun and horns	
+C10	goddess with fe
+C10a	goddess with fe
+C11	god with arms supporting (the sky) and  M4 on head	
+C12	god with  S9 and  S40	
+C13	 C12 reversed	
+C14	god with  S9 and  T16a	
+C15	 C14 reversed	
+C16	god wearing  S3 with  S34	
+C17	god with head of falcon and  S9	
+C18	squatting god	
+C19	mummy-shaped god	
+C20	mummy-shaped god in shrine	
+C21	Bes	
+C22	god with head of falcon and moon disk	
+C23	goddess with head of feline and  N6	
+C24	god wearing  S3 with  S40	
+D1	head in profile	
+D2	face	
+D3	hair	
+D4	eye	
+D5	eye touched up with paint	
+D6	eye with painted upper lid	
+D7	eye with painted lower lid	
+D8	eye enclosed in  N18	
+D8a	eye with painted lower lid enclosed in  N18	
+D9	eye with flowing tears	
+D10	wḏꜣt-eye	
+D11	left part of white of  D10	
+D12	pupil of eye	
+D13	eye-brow	
+D14	right part of white of  D10	
+D15	diagonal marking of  D10	
+D16	vertical marking of  D10	
+D17	combination of  D16 and  D15	
+D18	ear	
+D19	nose, eye and cheek	
+D20	nose, eye and cheek in semi-cursive form	
+D21	mouth	
+D22	mouth with two strokes	
+D23	mouth with three strokes	
+D24	upper lip with teeth	
+D25	lips with teeth	
+D26	liquid issuing from lips	
+D27	small breast	
+D27a	large breast	
+D28	arms in kꜣ-posture	
+D29	combination of  D28 and  R12	
+D30	 D28 with tail	
+D31	combination of  D32 and  U36	
+D31a	combination of  D28 and  U36	
+D32	arms embracing	
+D33	arms rowing	
+D34	arms holding shield and battle-axe	
+D34a	arms holding shield and mace	
+D35	arms in gesture of negation	
+D36	forearm	
+D37	forearm with  X8	
+D38	forearm with rounded loaf	
+D39	forearm with  W24	
+D40	forearm with stick	
+D41	forearm with palm down and bent upper arm	
+D42	forearm with palm down and straight upper arm	
+D43	forearm with  S45	
+D44	forearm with  S42	
+D45	arm with nḥbt-wand	
+D46	hand	
+D46a	liquid falling from hand	
+D47	hand with palm up	
+D48	hand without thumb	
+D48
+D49	fist	
+D50	finger vertically	
+D50a	[unknown]
+D50b	[unknown]
+D50c	[unknown]
+D50d	[unknown]	
+D50e	[unknown]
+D50f	[unknown]
+D50g	[unknown]
+D50h	[unknown]
+D50i	[unknown]
+D51	finger horizontally	
+D52	phallus	
+D52a	combination of  D52 and  S29	
+D53	liquid issuing from phallus	
+D54	legs walking	
+D54
+D55	legs walking backwards	
+D56	leg	
+D57	combination of  D56 and  T30	
+D58	foot	
+D59	combination of  D58 and  D36	
+D60	 D58 under vase from which water flows	
+D61	three toes oriented leftward	
+D62	three toes oriented rightward	
+D63	two toes oriented leftward	
+D64	hand with palm down	
+D65	lock of hair	
+D66	arm with reed pen	
+D67	dot	
+D67a	[unknown]
+D67b	[unknown]
+D67c	[unknown]	
+D67d	[unknown]
+D67e	[unknown]
+D67f	[unknown]
+D67g	[unknown]
+D67h	[unknown]	
+E1	bull	
+E2	bull charging	
+E3	calf	
+E4	sacred ḥsꜣt-cow	
+E5	cow suckling calf	
+E6	horse	
+E7	donkey	
+E8	kid	
+E8a	kid jumping	
+E9	newborn bubalis or hartebeest	
+E9a	mature bovine lying down	
+E10	ram	
+E11	ram	
+E12	pig	
+E13	cat	
+E14	dog (saluki)	
+E15	lying canine	
+E16	lying canine on shrine	
+E16a	lying canine on shrine with  S45	
+E17	jackal	
+E17a	jackal looking back	
+E18	wolf on  R12 with šdšd	
+E19	combination of  E19 and  T3	
+E20	Seth-animal	
+E20	combination of  E20 and  V30	
+E21	lying Seth-animal	
+E22	lion	
+E23	lying lion	
+E24	panther	
+E25	hippopotamus	
+E26	elephant	
+E27	giraffe	
+E28	oryx	
+E28	combination of  E28,  N24 and some type of jar 	
+E29	gazelle	
+E30	ibex	
+E31	goat with collar	
+E32	baboon	
+E33	monkey	
+E34	hare	
+E34
+E36	baboon	
+E37	combination of  E36,  V36 and  V30 	
+E38	long-horned bull	
+F1	head of ox	
+F1
+F2	head of charging ox	
+F3	head of hippopotamus	
+F4	forepart of lion	
+F5	head of bubalis or hartebeest	
+F6	forepart of bubalis or hartebeest	
+F7	head of ram	
+F8	forepart of ram	
+F9	head of leopard	
+F10	head and neck of animal	
+F11	head and neck of animal	
+F12	head and neck of canine	
+F13	horns	
+F13
+F14	combination of  F13 and  M4	
+F15	combination of  F14 and  N5	
+F16	horn	
+F17	combination of  F16 with vase from which water flows	
+F18	tusk	
+F19	lower jaw-bone of ox	
+F20	tongue	
+F21	ear of bovine	
+F21
+F22	hind-quarters of lion	
+F23	foreleg of ox	
+F24	 F23 reversed	
+F25	leg of ox	
+F26	skin of goat	
+F27	skin of cow with bent tail	
+F28	skin of cow with straight tail	
+F29	cow's skin pierced by arrow	
+F30	water-skin	
+F31	three skins tied together	
+F31a	three skins tied together (simplified)	
+F32	animal's belly	
+F33	tail	
+F34	heart	
+F35	heart and windpipe	
+F36	lung and windpipe	
+F37	backbone and ribs and spinal cord	
+F37a	backbone and ribs	
+F38	backbone and ribs	
+F38a	backbone and ribs and spinal cord	
+F39	backbone and spinal cord	
+F40	backbone and spinal cords	
+F41	vertebrae	
+F42	rib	
+F43	ribs	
+F44	leg-bone with meat	
+F45	uterus	
+F45a	uterus (simplified)	
+F46	intestine	
+F46a	intestine	
+F47	intestine	
+F47a	intestine	
+F48	intestine	
+F49	intestine	
+F50	combination of  F46 and  S29	
+F51	piece of flesh	
+F51a	three pieces of flesh horizontally	
+F51b	three pieces of flesh vertically	
+F51c	 F51 reversed	
+F52	excrement	
+F53	divine rod with  F7	
+G1	Egyptian vulture	
+G2	two Egyptian vultures	
+G3	combination of  G1 and  U1	
+G4	buzzard	
+G5	falcon	
+G6	combination of  G5 and  S45	
+G6a	falcon on  V30	
+G7	falcon on  R12	
+G7a	falcon in boat	
+G7b	falcon in boat	
+G8	falcon on  S12	
+G9	falcon with  N5 on head	
+G10	falcon in Sokar barque	
+G11	image of falcon	
+G11a	image of falcon on  R12	
+G12	combination of  G11 and  S45	
+G13	image of falcon with  S9	
+G14	vulture	
+G15	combination of  G14 and  S45	
+G16	vulture and cobra e
+G17	owl	
+G18	two owls	
+G19	combination of  G17 and  D37	
+G20	combination of  G17 and  D36	
+G20a	combination of  G17 and  D21	
+G21	guinea-fowl	
+G22	hoopoe	
+G23	lawping	
+G24	lawping with twisted wings	
+G25	northern bald ibis	
+G26	sacred ibis on  R12	
+G26a	sacred ibis	
+G27	flamingo	
+G28	glossy ibis	
+G29	saddle-billed stork	
+G30	three saddle-billed storks	
+G31	heron	
+G32	heron on perch	
+G33	cattle egret	
+G34	ostrich	
+G35	cormorant	
+G36	swallow	
+G36a	swallow (low)	
+G37	sparrow	
+G37a	sparrow (low)	
+G38	white-fronted goose	
+G39	pintail	
+G40	pintail flying	
+G41	pintail alighting	
+G42	widgeon	
+G43	quail chick	
+G43a	combination of  G43 and  X1	
+G44	two quail chicks	
+G45	combination of  G43 and  D36	
+G45a	combination of  G43 and  D37	
+G46	combination of  G43 and  U1	
+G47	duckling	
+G48	three ducklings in nest	
+G49	three ducklings in pool	
+G50	two plovers	
+G51	bird pecking at fish	
+G52	goose picking up grain	
+G53	human-headed bird with  R7	
+G54	plucked bird	
+H1	head of pintail	
+H2	head of crested bird	
+H3	head of spoonbill	
+H4	head of vulture	
+H5	wing	
+H6	fe
+H6
+H7	claw	
+H8	egg	
+I1	gecko	
+I2	turtle	
+I3	crocodile	
+I4	crocodile on shrine	
+I5	crocodile with curved tail	
+I5a	image of crocodile	
+I6	crocodile scales	
+I7	frog	
+I8	tadpole	
+I9	horned viper	
+I9
+I10	cobra	
+I10a	cobra with fe
+I11	two cobras	
+I11a	combination of  I10,  X1 and  N18	
+I12	erect cobra	
+I13	erect cobra on  V30	
+I14	snake	
+I15	snake	
+K1	tilapia	
+K2	barbel	
+K3	mullet	
+K4	elephant-snout fish	
+K5	Petrocephalus bane	
+K6	fish scale	
+K7	puffer	
+K8	catfish	
+L1	dung beetle	
+L2	bee	
+L2a	combination of  M23,  L2 and two  X1	
+L3	fly	
+L4	locust	
+L5	centipede	
+L6	shell	
+L6a	 L6 reversed	
+L7	scorpion	
+L8		
+M1	tree	
+M1a	combination of  M1 and  M3	
+M1b	combination of  M1 and  I9	
+M2	plant	
+M3	branch	
+M3a	combination of  G17 and  M3	
+M4	palm branch	
+M5	combination of  M4 and  X1	
+M6	combination of  M4 and  D21	
+M7	combination of  M4 and  Q3	
+M8	pool with lotus flowers	
+M9	lotus flower	
+M10	lotus bud with straight stem	
+M10a	lotus bud with winding stem	
+M11	flower on long twisted stalk	
+M12	lotus plant	
+M12a	[unknown]
+M12b	[unknown]
+M12c	[unknown]
+M12d	[unknown]
+M12e	[unknown]
+M12f	[unknown]
+M12g	[unknown]
+M12h	[unknown]
+M13	papyrus	
+M14	combination of  M13 and  I10	
+M15	clump of papyrus with buds	
+M15a	combination of  M15 and  O49	
+M16	clump of papyrus	
+M16a	combination of  M16 and  O49	
+M17	reed	
+M17a	two reeds	
+M18	combination of  M17 and  D54	
+M19	heaped conical cakes between  M17 and  U36	
+M20	field of reeds	
+M21	reeds with root	
+M22	rush	
+M22a	two rushes	
+M23	sedge	
+M24	combination of  M23 and  D21	
+M24a	lily	
+M25	combination of  M26 and  D21	
+M26	flowering sedge	
+M27	combination of  M26 and  D36	
+M28	combination of  M26 and  V20	
+M28a	three lilies on  O49	
+M29	pod	
+M30	root	
+M31	rhizome	
+M31a	 M1 in vase	
+M32	rhizome	
+M33	3 grains horizontally	
+M33a	3 grains vertically	
+M33b	3 grains in triangular arrangement	
+M34	ear of emmer	
+M35	heap of grain	
+M36	bundle of flax showing bolls	
+M37	bundle of flax	
+M38	wide bundle of flax	
+M39	basket of fruit or grain	
+M40	bundle of reeds	
+M40a	bundle of reeds	
+M41	piece of wood	
+M42	flower	
+M43	vine on trellis	
+M44	thorn	
+N1	sky	
+N2	sky with sceptre	
+N3	sky with sceptre	
+N4	sky with rain	
+N5	sun	
+N6	sun with uraeus	
+N7	combination of  N5 and  T28	
+N8	sunshine	
+N9	moon with lower half obscured	
+N10	moon with lower section obscured	
+N11	crescent moon	
+N12	crescent moon	
+N13	combination of  N11 and  N14	
+N14	star	
+N15	star in circle	
+N16	land with grains	
+N17	land	
+N18	sandy tract	
+N18a	combination of  N18 and  N35	
+N18b	combination of  X4b and  O34	
+N19	two sandy tracts	
+N20	tongue of land	
+N21	short tongue of land	
+N22	broad tongue of land	
+N23	irrigation canal	
+N24	irrigation canal system	
+N25	three hills	
+N25a	three hills (low)	
+N26	two hills	
+N27	sun over mountain	
+N28	rays of sun over hill	
+N29	slope of hill	
+N30	mound of earth	
+N31	road with shrubs	
+N32	lump of clay	
+N33	grain	
+N33a	three grains	
+N34	ingot of metal	
+N34a	ingot of metal	
+N35	ripple of water	
+N35a	three ripples of water	
+N36	canal	
+N37	pool	
+N37a	pool	
+N38	deep pool	
+N39	pool with water	
+N40	combination of  N37 and  D54	
+N41	well with ripple of water	
+N42	well with line of water	
+NL1	sign of first nome of Lower Egypt	
+NL2	sign of second nome of Lower Egypt	
+NL3	sign of third nome of Lower Egypt	
+NL4	sign of fourth nome of Lower Egypt	
+NL5	sign of fifth nome of Lower Egypt	
+NL5a	sign of fifth nome of Lower Egypt	
+NL6	sign of sixth nome of Lower Egypt	
+NL7	sign of seventh nome of Lower Egypt	
+NL8	sign of eighth nome of Lower Egypt	
+NL9	sign of ninth nome of Lower Egypt	
+NL10	sign of tenth nome of Lower Egypt	
+NL11	sign of eleventh nome of Lower Egypt	
+NL12	sign of twelfth nome of Lower Egypt	
+NL13	sign of thirteenth nome of Lower Egypt	
+NL14	sign of fourteenth nome of Lower Egypt	
+NL15	sign of fifteenth nome of Lower Egypt	
+NL16	sign of sixteenth nome of Lower Egypt	
+NL17	sign of seventeenth nome of Lower Egypt	
+NL17a	sign of seventeenth nome of Lower Egypt	
+NL18	sign of eighteenth nome of Lower Egypt	
+NL19	sign of nineteenth nome of Lower Egypt	
+NL20	sign of twentieth nome of Lower Egypt	
+NU1	sign of first nome of Upper Egypt	
+NU2	sign of second nome of Upper Egypt	
+NU3	sign of third nome of Upper Egypt	
+NU4	sign of fourth nome of Upper Egypt	
+NU5	sign of fifth nome of Upper Egypt	
+NU6	sign of sixth nome of Upper Egypt	
+NU7	sign of seventh nome of Upper Egypt	
+NU8	sign of eighth nome of Upper Egypt	
+NU9	sign of ninth nome of Upper Egypt	
+NU10	sign of tenth nome of Upper Egypt	
+NU10a	sign of tenth nome of Upper Egypt	
+NU11	sign of eleventh nome of Upper Egypt	
+NU11a	sign of eleventh nome of Upper Egypt	
+NU12	sign of twelfth nome of Upper Egypt	
+NU13	sign of thirteenth nome of Upper Egypt	
+NU14	sign of fourteenth nome of Upper Egypt	
+NU15	sign of fifteenth nome of Upper Egypt	
+NU16	sign of sixteenth nome of Upper Egypt	
+NU17	sign of seventeenth nome of Upper Egypt	
+NU18	sign of eighteenth nome of Upper Egypt	
+NU18a	sign of eighteenth nome of Upper Egypt	
+NU19	sign of nineteenth nome of Upper Egypt	
+NU20	sign of twentieth nome of Upper Egypt	
+NU21	sign of twenty-first nome of Upper Egypt	
+NU22	sign of twenty-second nome of Upper Egypt	
+NU22a	sign of second nome of Upper Egypt	
+O1	house	
+O1a	combination of  O1 and  S34	
+O2	combination of  O1 and  T3	
+O3	combination of  O1,  P8,  X3, and  W22 	
+O4	shelter	
+O5	winding wall from upper-left corner	
+O5a	winding wall from lower-left corner	
+O6	enclosure	
+O6a	opening of ḥwt-enclosure		
+O6b	opening of ḥwt-enclosure		
+O6c	opening of ḥwt-enclosure		
+O6d	closing of ḥwt-enclosure		
+O6e	closing of ḥwt-enclosure		
+O6f	closing of ḥwt-enclosure		
+O7	combination of  O6 and  X1	
+O8	combination of  O7 and  O29	
+O9	combination of  O7 and  V30	
+O10	combination of  O6 and  G5	
+O10a	combination of  O6 and  S34	
+O10b	combination of  O6 and  L2	
+O10c	combination of  O18 and  D2	
+O11	palace	
+O12	combination of  O11 and  D36	
+O13	battlemented enclosure	
+O14	part of battlemented enclosure	
+O15	enclosure with  W10 and  X1	
+O16	gateway with serpents	
+O17	open gateway with serpents	
+O18	shrine in profile	
+O19	shrine with fence	
+O19a	shrine	
+O20	shrine	
+O20a	shrine	
+O21	façade of shrine	
+O22	booth with pole	
+O23	double platform	
+O24	pyramid	
+O24a	pedestal of sun temple	
+O25	obelisk	
+O25a	obelisk and pedestal of sun temple	
+O26	stela	
+O27	hall of columns	
+O28	column	
+O29	horizontal wooden column	
+O29a	vertical wooden column	
+O30	support	
+O30a	four supports	
+O31	door	
+O32	gateway	
+O33	façade of palace	
+O33a	closing of srḫ-enclosure	
+O34	bolt	
+O35	combination of  O34 and  D54	
+O36	wall	
+O36a	opening of oval fortified wall enclosure		
+O36b	closing of oval fortified wall enclosure		
+O36c	opening of square fortified wall enclosure		
+O36d	closure of square fortified wall enclosure		
+O37	falling wall	
+O38	corner of wall	
+O39	stone	
+O40	stairway	
+O41	double stairway	
+O42	fence	
+O43	low fence	
+O44	emblem of Min	
+O45	domed building	
+O46	domed building	
+O47	enclosed mound	
+O48	enclosed mound	
+O49	village	
+O50	threshing floor	
+O50
+O50b	 O50a reversed	
+O51	pile of grain	
+P1	boat	
+P1a	boat upside down	
+P2	ship under sail	
+P3	sacred barque	
+P3a	sacred barque without steering oar	
+P4	boat with net	
+P5	sail	
+P6	mast	
+P7	combination of  P6 and  D36	
+P8	oar	
+P9	combination of  P8 and  I9	
+P10	steering oar	
+P11	mooring post	
+Q1	seat	
+Q2	portable seat	
+Q3	stool	
+Q4	head-rest	
+Q5	chest	
+Q6	coffin	
+Q7	brazier	
+R1	high table with offerings	
+R2	table with slices of bread	
+R2
+R3	low table with offerings	
+R3a	low table	
+R3b	low table with offerings (simplified)	
+R4	loaf on mat	
+R5	narrow censer	
+R6	broad censer	
+R7	bowl with smoke	
+R8	cloth on pole	
+R9	combination of  R8 and  V33	
+R10	combination of  R8,  T28 and  N29	
+R10a	combination of  R8 and  T28	
+R11	reed column	
+R12	standard	
+R13	falcon and fe
+R14	fe
+R15	spear emblem	
+R16	sceptre with fe
+R16a	sceptre with fe
+R17	wig on pole	
+R18	combination of  R17 and  N24	
+R19	 S40 with fe
+R20	flower with horns	
+R21	flower with horns	
+R22	two narrow belemnites	
+R23	two broad belemnites	
+R24	two bows tied horizontally	
+R25	two bows tied vertically	
+R26	combination of  N17,  F36,  M24a and  M13	
+R27	two arrows crossed over a shield	
+R28	Bat	
+R29	niche with serpent	
+S1	white crown	
+S2	combination of  S1 and  V30	
+S2a	combination of  S1 and  O49	
+S3	red crown	
+S4	combination of  S3 and  V30	
+S5	double crown	
+S6	combination of  S5 and  V30	
+S6a	combination of  S3 and  O49	
+S7	blue crown	
+S8	ꜣtf-crown	
+S9	two plumes	
+S10	headband	
+S11	broad collar	
+S12	collar of beads	
+S13	combination of  S12 and  D58	
+S14	combination of  S12 and  T3	
+S14a	combination of  S12 and  S40	
+S14b	combination of  S12 and  S40	
+S15	pectoral	
+S16	pectoral	
+S17	pectoral	
+S17a	girdle	
+S18	necklace with counterpoise	
+S19	necklace with seal from side	
+S20	necklace with seal from front	
+S21	ring	
+S22	shoulder-knot	
+S23	knotted cloth	
+S24	girdle knot	
+S25	garment with ties	
+S26	apron	
+S26a	apron	
+S26b	apron	
+S27	cloth with two strands	
+S28	cloth with fringe on top and  S29	
+S29	folded cloth	
+S30	combination of  S29 and  I9	
+S31	combination of  S29 and  U1	
+S32	cloth with fringe on the side	
+S33	sandle	
+S34	sandle-strap	
+S35	sunshade	
+S35a	sunshade	
+S36	sunshade	
+S37	fan	
+S38	crook	
+S39	shepherd's crook	
+S40	sceptre	
+S41	sceptre with spiral shaft	
+S42	sceptre of authority	
+S43	walking stick	
+S44	walking stick with  S45	
+S45	flagellum	
+S46	covering for head and neck	
+T1	mace with flat head	
+T2	mace with round head diagonally	
+T3	mace with round head vertically	
+T3a	combination of  T3 and  N26	
+T4	mace with strap	
+T5	combination of  T3 and  I10	
+T6	combination of  T3 and two  I10	
+T7	axe	
+T7a	axe	
+T8	dagger	
+T8a	dagger	
+T9	bow	
+T9a	bow	
+T10	composite bow	
+T11	arrow	
+T11	two crossed arrows	
+T12	bow-string	
+T13	joined pieces of wood	
+T14	throw stick vertically	
+T15	throw stick slanted	
+T16	scimitar	
+T16 scimitar	
+T17	chariot	
+T18	crook with package att
+T19	harpoon head	
+T20	harpoon head	
+T21	harpoon	
+T22	arrowhead	
+T23	arrowhead	
+T24	fishing-net	
+T25	floats	
+T26	bird-trap	
+T27	bird-trap	
+T28	butcher's block	
+T29	combination of  T30 and  T28	
+T30	knife	
+T31	knife-sharpener	
+T32	combination of  T31 and  D54	
+T32a	combination of  T31 and  S29	
+T33	knife-sharpener of butcher	
+T33a	combination of  T33 and  S29	
+T34	butcher's knife	
+T35	butcher's knife	
+T36	shield	
+U1	sickle	
+U2	sickle (low)	
+U3	combination of  U1 and  D4	
+U4	combination of  U1 and  Aa11	
+U5	combination of  U2 and  Aa11	
+U6	diagonal hoe	
+U6a	vertical hoe	
+U6b	 U6a reversed	
+U7	horizontal hoe	
+U8	hoe without connecting rope	
+U9	grain-measure with grain	
+U10	 U9 bene
+U11	combination of  S38 and  U9	
+U12	combination of  D50 and  U9	
+U13	plough	
+U14	two joined branches	
+U15	sledge	
+U16	sledge with head of jackal	
+U17	pick in ground	
+U18	pick in basin	
+U19	adze	
+U20	adze	
+U21	adze on wood	
+U22	chisel	
+U23	chisel	
+U23a	chisel	
+U24	drill for stone	
+U25	drill for stone	
+U26	drill for beads	
+U27	drill for beads	
+U28	fire-drill	
+U29	fire-drill	
+U29a	fire-drill with string	
+U30	kiln	
+U31	baker's rake	
+U32	pestle and mortar	
+U32
+U33	pestle	
+U34	spindle	
+U35	combination of  U34 and  I9	
+U36	club	
+U37	razor	
+U38	balance	
+U39	post of balance	
+U40	hieratic post of balance	
+U41	plummet	
+U42	pitchfork	
+V1	coil of rope	
+V1a	[unknown]
+V1b	[unknown]
+V1c	[unknown]
+V1d	[unknown]
+V1e	[unknown]
+V1f	[unknown]
+V1g	[unknown]
+V1h	[unknown]
+V1i	[unknown]
+V2	combination of  O34 and  V1	
+V2
+V3	combination of  O34 and three  V1	
+V4	lasso	
+V5	looped rope	
+V6	cord with ends upward	
+V7	cord with ends downward	
+V7a	cord with ends downward	
+V7b	hieratic cord with ends downward	
+V8	cord downward	
+V9	round cartouche	
+V10	oval cartouche	
+V11	end of cartouche	
+V11a	opening of cartouche	
+V11b	closing of cartouche	
+V11c	closing of knotless cartouche	
+V12	string	
+V12a	string	
+V12b	string	
+V13	rope	
+V14	rope with tick	
+V15	combination of  V13 and  D54	
+V16	looped cord	
+V17	shelter of papyrus	
+V18	shelter of papyrus	
+V19	hobble with cross-bar	
+V20	hobble	
+V20a	[unknown]
+V20b	[unknown]
+V20c	[unknown]
+V20d	[unknown]
+V20e	[unknown]
+V20f	[unknown]
+V20g	[unknown]
+V20h	[unknown]
+V20i	[unknown]
+V20j	[unknown]
+V20k	[unknown]
+V20l	[unknown]
+V21	combination of  V20 and  I10	
+V22	whip	
+V23	whip	
+V23a	whip	
+V24	cord on stick	
+V25	cord on stick with tick	
+V26	netting needle	
+V27	netting needle	
+V28	wick	
+V28a	combination of  V28 and  D36	
+V29	swab	
+V29a	combination of  V29 and  V31	
+V30	basket	
+V30a	basket (low)	
+V31	basket with right handle	
+V31a	basket with left handle	
+V32	frail	
+V33	bag	
+V33a	bundle	
+V34	bag	
+V35	bag	
+V36	receptacle	
+V37	bandage	
+V37a	bandage	
+V38	bandage	
+V39	knot-amulet	
+V40	hobble on its side	
+V40a	two hobbles on their side	
+W1	oil jar with ties	
+W2	oil jar	
+W3	alabaster basin	
+W3a	alabaster basin (low)	
+W4	combination of  O22 and  W3	
+W5	combination of  T28 and  W3	
+W6	metal vessel	
+W7	granite bowl	
+W8	deformed granite bowl	
+W9	jug with left handle	
+W9a	jug with right handle	
+W10	cup	
+W10a	pot with tick	
+W11	round ring stand	
+W12	square ring stand	
+W13	earthenware pot	
+W14	water jar	
+W14a	combination of  V28,  W14 and  O34 	
+W15	water jar with water	
+W16	water jar with water in ring stand	
+W17	three water jars in rack	
+W17a	three water jars in rack (simplified)	
+W18	four water jars in rack	
+W18a	four water jars in rack (simplified)		
+W19	milk jug in net	
+W20	milk jug with leaf	
+W21	twin wine jars	
+W22	beer jug	
+W23	jar with handles	
+W24	bowl	
+W24a	three bowls	
+W25	combination of  W24 and  D54	
+X1	flat loaf	
+X2	tall loaf	
+X3	tall loaf	
+X4	roll of bread	
+X4a	roll of bread	
+X4b	roll of bread	
+X5	hieratic roll of bread	
+X6	round loaf	
+X6a	round loaf	
+X7	half-loaf	
+X8	conical loaf	
+X8
+Y1	scroll with ties	
+Y1a	vertical scroll with ties	
+Y2	scroll	
+Y3	scribe's outfit with palette on left	
+Y4	scribe's outfit with palette on right	
+Y5	game board	
+Y6	game piece	
+Y7	harp	
+Y8	sistrum	
+Z1	stroke	
+Z2	three  Z1 horizontally	
+Z2a	three  Z1 horizontally	
+Z2b	three  D67 horizontally	
+Z2c	three  Z1 in triangular arrangement	
+Z2d	three  Z1 in triangular arrangement		
+Z3	three  Z1 vertically	
+Z3a	three lying  Z1 vertically	
+Z3b	three  D67 vertically	
+Z4	two diagonal strokes	
+Z4a	two  Z1 horizontally	
+Z5	curved diagonal stroke	
+Z5a	diagonal stroke	
+Z6	hieratic substitute for  A13 or  A14	
+Z7	hieratic quail chick	
+Z8	oval	
+Z9	diagonal cross	
+Z10	wide diagonal cross	
+Z11	cross	
+Z12	hieratic striking man	
+Z13	circle	
+Z14	indeterminable hieratic tick	
+Z15	long vertical stroke	
+Z16	long horizontal stroke	
+Aa1	basket from above	
+Aa2	pustule	
+Aa3	pustule with liquid	
+Aa4	pot with two ticks	
+Aa5	navigation instrument	
+Aa6	instrument	
+Aa7	instrument	
+Aa7a	 Aa7 reversed	
+Aa7b	later equivalent of  Aa7	
+Aa8	irrigation canal	
+Aa9	instrument	
+Aa10	unknown	
+Aa11	platform	
+Aa12	platform	
+Aa13	sharp half	
+Aa14	bent half	
+Aa15	blunt half	
+Aa16	short half	
+Aa17	lid	
+Aa18	square lid	
+Aa19	instrument	
+Aa20	bag	
+Aa21	instrument	
+Aa22	combination of  Aa21 and  D36	
+Aa23	high warp between stakes	
+Aa24	low warp between stakes	
+Aa25	unknown	
+Aa26	unknown	
+Aa27	spindle	
+Aa28	level	
+Aa29	instrument	
+Aa30	frieze	
+Aa31	frieze	
+Aa32	archaic bow	

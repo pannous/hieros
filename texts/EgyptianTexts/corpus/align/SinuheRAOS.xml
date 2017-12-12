@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<precedence
+  created="2009-06-14"
+  modified="2011-12-22">
+<prec1 id1="2d" id2="2d"/>
+<prec1 id1="4a" id2="4a"/>
+<prec1 id1="4c" id2="4c"/>
+<prec1 id1="4e" id2="4e"/>
+<prec1 id1="5b" id2="5b"/>
+<prec1 id1="6c" id2="6c"/>
+<prec1 id1="10e" id2="10e"/>
+<prec1 id1="11a" id2="11a"/>
+<prec1 id1="11b" id2="11b"/>
+<prec1 id1="0" type1="after" id2="0"/>
+<prec2 id1="2d" id2="2d"/>
+<prec2 id1="4a" id2="4a"/>
+<prec2 id1="4c" id2="4c"/>
+<prec2 id1="4e" id2="4e"/>
+<prec2 id1="5b" id2="5b"/>
+<prec2 id1="6c" id2="6c"/>
+<prec2 id1="10e" id2="10e"/>
+<prec2 id1="11a" id2="11a"/>
+<prec2 id1="11b" id2="11b"/>
+<prec2 id1="1" type1="after" id2="1"/>
+<prec2 id1="2" type1="after" id2="2"/>
+<prec2 id1="3" type1="after" id2="3"/>
+<prec2 id1="4" type1="after" id2="4"/>
+<prec2 id1="5" type1="after" id2="5"/>
+<prec2 id1="6" type1="after" id2="6"/>
+<prec2 id1="7" type1="after" id2="7"/>
+<prec2 id1="8" type1="after" id2="9"/>
+<prec2 id1="24" type1="after" id2="18"/>
+<prec2 id1="56" type1="after" id2="26"/>
+</precedence>

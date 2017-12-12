@@ -1,0 +1,317 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD><TITLE>XML formats</TITLE></HEAD>
+<BODY>
+
+<a href="index.html"><img src="uparr.jpeg" alt="index"> <B>PhilologEg home</B></a>
+
+<p>
+<H1>XML formats</H1>
+
+This page is mainly intended for developers, as ordinary users
+can create resources through a graphical user interface.
+The XML formats, satisfying a collection of DTDs,
+are discussed using examples. To see the DTDs, download
+the software and look in the <tt>doc</tt> directory.
+<p>
+See also the <a href="Peasant.pdf">PDF output</a> of this example.
+
+<H2>The corpus file</H2>
+
+A file <tt>corpus.xml</tt> could contain:
+
+<pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;corpus type=&quot;Ancient Egyptian&quot; name=&quot;My corpus&quot;&gt;
+&lt;text location=&quot;texts/Peasant.xml&quot;/&gt;
+&lt;tree kind=&quot;texts&quot;&gt;
+ &lt;leaf label=&quot;Eloquent Peasant&quot;
+      name=&quot;Eloquent Peasant&quot; location=&quot;texts/Peasant.xml&quot;
+      post=&quot;&quot;/&gt;
+ &lt;leaf label=&quot;Peasant&quot;
+      name=&quot;Eloquent Peasant&quot; location=&quot;texts/Peasant.xml&quot;
+      post=&quot;&quot;/&gt;
+&lt;/tree&gt;
+&lt;tree kind=&quot;books&quot;&gt;
+ &lt;internal label=&quot;De Buck, Readingbook&quot;&gt;
+  &lt;leaf label=&quot;pp. 88-99&quot;
+       name=&quot;Eloquent Peasant&quot; location=&quot;texts/Peasant.xml&quot;
+       post=&quot;&quot;/&gt;
+ &lt;/internal&gt;
+ &lt;internal label=&quot;Sethe, &Auml;gyptische Lesest&uuml;cke&quot;&gt;
+  &lt;leaf label=&quot;2&quot;
+       name=&quot;Eloquent Peasant&quot; location=&quot;texts/Peasant.xml&quot;
+       post=&quot;&quot;/&gt;
+ &lt;/internal&gt;
+&lt;/tree&gt;
+&lt;/corpus&gt;
+</pre>
+
+The third line mentions the (currently only) file in the corpus. The rest is
+an automatically generated tree, which can be used to navigate through the
+corpus. This tree should never be manually edited.
+
+<H2>A text</H2>
+
+A file for a text (say <tt>Peasant.xml</tt> in directory <tt>texts</tt>) could be:
+
+<pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;text description=&quot;hiero; eng; translit&quot;&gt;
+&lt;primary language=&quot;eng&quot; name=&quot;Eloquent Peasant&quot;/&gt;
+&lt;primary language=&quot;nld&quot; name=&quot;De welsprekende boer&quot;/&gt;
+&lt;secondary language=&quot;eng&quot; name=&quot;Peasant&quot;/&gt;
+&lt;collection kind=&quot;books&quot; collect=&quot;De Buck, Readingbook&quot;
+    section=&quot;pp. 88-99&quot;/&gt;
+&lt;collection kind=&quot;books&quot; collect=&quot;Sethe, &Auml;gyptische Lesest&uuml;cke&quot;
+    section=&quot;2&quot;/&gt;
+&lt;resource location=&quot;../resources/PeasantHi.xml&quot;/&gt;
+&lt;resource location=&quot;../resources/PeasantTr.xml&quot;/&gt;
+&lt;precedence
+  location=&quot;../align/Peasant.xml&quot;
+  resource1=&quot;../resources/PeasantHi.xml&quot;
+  resource2=&quot;../resources/PeasantTr.xml&quot;/&gt;
+&lt;/text&gt;
+</pre>
+
+The description in the second line is an automatically generated description
+of the available resources (here hieroglyphic, English translation, and
+transliteration). Then follow primary names in English and Dutch, and a 
+secondary name. 
+<p>
+Then a number of collections may group the text together with other texts.
+<p>
+Two textual resources are available for this text. They have
+names ending on <tt>Hi</tt> for (hieroglyphic) and <tt>Tr</tt> for
+(translation; the file in fact also contains transliteration).
+I would further recommend using <tt>Al</tt> (alphabetic) for
+transliteration-only files and <tt>Lx</tt> (lexicon) for
+lexical annotation. Behind <tt>Tr</tt> one could append a (3-letter) language code,
+for translations in languages other than English.
+<p>
+Note that the path names of the textual resources are relative to the file of the text.
+Avoidance of absolute path names makes it easier to exchange data with others.
+<p>
+Lastly, there is an alignment file linking positions in different textual resources,
+explained below.
+<p>
+Again, normally one would not manually edit any of the above, except in the
+case of alignment files that are imported from elsewhere.
+
+<H2>Textual resource</H2>
+
+A textual resource is for example the following 
+(<tt>PeasantHi.xml</tt> in directory <tt>resources</tt>):
+
+<pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;egyptian
+  creator=&quot;Mark-Jan Nederhof&quot;
+  name=&quot;Parkinson&quot;
+  labelname=&quot;Pa&quot;
+  created=&quot;2009-08-17&quot;
+  modified=&quot;2009-08-17&quot;
+  version=&quot;R&quot;
+  scheme=&quot;&quot;
+  language=&quot;&quot;&gt;
+&lt;header&gt;
+&lt;p&gt;
+Some hieroglyphs to illustrate the file formats.
+&lt;/p&gt;
+&lt;/header&gt;
+&lt;bibliography&gt;
+&lt;li&gt;
+R.B. Parkinson. &lt;i&gt;The Tale of the Eloquent Peasant&lt;/i&gt;. Griffith
+Institute, Ashmolean Museum, Oxford, 1991.
+&lt;/li&gt;
+&lt;/bibliography&gt;
+&lt;tier name=&quot;hieroglyphic&quot; mode=&quot;shown&quot;/&gt;
+&lt;tier name=&quot;transliteration&quot; mode=&quot;ignored&quot;/&gt;
+&lt;tier name=&quot;translation&quot; mode=&quot;ignored&quot;/&gt;
+&lt;tier name=&quot;lexical&quot; mode=&quot;ignored&quot;/&gt;
+&lt;segment&gt;
+&lt;texthi&gt;
+&lt;coord id=&quot;1.1&quot;/&gt;&lt;note symbol=&quot;5&quot;&gt;A footnote about the hare
+&lt;hi&gt;wn&lt;/hi&gt;.&lt;/note&gt;&lt;pos symbol=&quot;3&quot; id=&quot;0&quot;/&gt;z:A1*Z1-p*W-wn:n
+&lt;/texthi&gt;
+&lt;/segment&gt;
+&lt;/egyptian&gt;
+</pre>
+
+At the beginning a number of properties of the resource are listed.
+The header contains a description and the bibliography may list some
+references. It is further indicated which of the tiers are shown or are
+ignored; other possible values are <tt>omitted</tt> (corresponding
+lines omitted from the interlinear output) and 
+<tt>erased</tt> (the interlinear output
+contains whitespace for the lines to be filled in, 
+as a student exercise).
+One can put tiers with hieroglyphic, transliteration,
+translation and lexical annotation in one resource, but this is not
+encouraged. In the above example, only hieroglyphic is included.
+<p>
+The segment starts with a coordinate, which is a line number in the
+manuscript.
+<p>
+The position <tt>&lt;pos symbol=&quot;3&quot; id=&quot;0&quot;/&gt;</tt>
+attaches a position with label "0" to hieroglyph number 3
+of the following hieroglyphic. (Numbering is from 0.)
+This is used for alignment, discussed further below.
+<p>
+A footnote marks hieroglyph number 5.
+<p>
+Another resource with transliteration and translation is the following
+(<tt>PeasantTr.xml</tt> in directory <tt>resources</tt>):
+
+<pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;egyptian
+  creator=&quot;Mark-Jan Nederhof&quot;
+  name=&quot;Nederhof&quot;
+  labelname=&quot;Ne&quot;
+  created=&quot;2009-08-17&quot;
+  modified=&quot;2009-08-17&quot;
+  version=&quot;R&quot;
+  scheme=&quot;&quot;
+  language=&quot;eng&quot;&gt;
+&lt;header&gt;
+&lt;p&gt;
+This is my translation.
+&lt;/p&gt;
+&lt;/header&gt;
+&lt;bibliography&gt;
+&lt;li&gt;
+R. Hannig. &lt;i&gt;Grosses Handw&ouml;rterbuch &Auml;gyptisch-Deutsch: die
+Sprache der Pharaonen (2800-950 v.Chr.)&lt;/i&gt;. Verlag Philipp von
+Zabern, 1995.
+&lt;/li&gt;
+&lt;/bibliography&gt;
+&lt;tier name=&quot;hieroglyphic&quot; mode=&quot;ignored&quot;/&gt;
+&lt;tier name=&quot;transliteration&quot; mode=&quot;shown&quot;/&gt;
+&lt;tier name=&quot;translation&quot; mode=&quot;shown&quot;/&gt;
+&lt;tier name=&quot;lexical&quot; mode=&quot;ignored&quot;/&gt;
+&lt;segment&gt;
+&lt;textal&gt;
+&lt;coord id=&quot;1.1&quot;/&gt;s &lt;pos id=&quot;0&quot;/&gt;pw wn
+&lt;pos id=&quot;1&quot;/&gt;^xw.n-^jnpw&lt;note&gt;Cf. p. 356 of Allen (2000).&lt;/note&gt;
+&lt;/textal&gt;
+&lt;texttr&gt;
+&lt;coord id=&quot;1.1&quot;/&gt; There was a man called &lt;pos id=&quot;2&quot;/&gt;Khunanup
+&lt;/texttr&gt;
+&lt;prec id1=&quot;1&quot; id2=&quot;2&quot;/&gt;
+&lt;prec id1=&quot;2&quot; id2=&quot;1&quot;/&gt;
+&lt;/segment&gt;
+&lt;/egyptian&gt;
+</pre>
+
+Here only one segment is given. In general the resource includes multiple
+segments. It is a matter of taste how to divide a text into segments.
+It is recommended to make segments short enough to fit on a page of reasonable
+width, when possible shorter. (Hieroglyphic is normally divided into segments
+according to the line numbers, with one segment for each line.)
+<p>
+In the example there is a footnote following <tt>^xw.n-^jnpw</tt>. There are also
+labelled positions. These are linked by the lines at the end of the
+segment, which say that position "1" should occur to the left of
+position "2" and position "2" should occur to the left of
+position "1", which effectively means the positions should
+be aligned one below the other.
+
+<H2>Lexical annotation</H2>
+
+In a resource, one may also include lexical annotations.
+An example of an entry in its most general form is:
+<pre>
+&lt;lx 
+    texthi=&quot;R8-O6&quot; 
+    textal=&quot;Hwt-nTr&quot; 
+    texttr=&quot;Heiligtum&quot;
+    textfo=&quot;honorific transposition&quot;
+    cite=&quot;Dictionary of Ancient Egypt&quot;
+    href=&quot;http://somesite.org/~someuser/someprogram#Hwt&quot;
+    keyhi=&quot;O6&quot; 
+    keyal=&quot;Hwt&quot;
+    keytr=&quot;enclosure&quot; 
+    keyfo=&quot;noun, sing.&quot; 
+    dicthi=&quot;R8-O6-X1:O1&quot;
+    dictal=&quot;Hwt ntr&quot; 
+    dicttr=&quot;tempel&quot;
+    dictfo=&quot;dir. genitive&quot;/&gt;
+</pre>
+The attributes starting with <tt>text</tt> refer to an occurrence
+of a word or phrase in the text at hand.
+One may indicate the hieroglyphic, the transliteration,
+the translation, some indication of the orthographic or
+syntactic form of the occurrence,
+any combination of these, or none at all.
+<p>
+The value of <tt>cite</tt> refers to a dictionary.
+This attribute is typically omitted if the only objective of
+lexical annotation is to develop ones own word list.
+There may also be a hyperlink belonging to the dictionary, or specifically
+to an entry within the dictionary.
+<p>
+The key is the word under which the
+phrase may be found in a dictionary. Typically, <tt>keyal</tt> would be
+either equal to <tt>textal</tt> or to a substring of it (except for example
+in the case of verbs, where <tt>keyal</tt> could contain a weak consonant
+that is not found in <tt>textal</tt>).
+As key one may include any combination of hieroglyphic, transliteration
+or translation.
+One may also specify aspects of the form of the
+key, such as gender and verb class.
+<p>
+Further, by means of the attributes starting with <tt>dict</tt>,
+one may provide the phrase as it is found in the dictionary,
+or as one wants to have it found in ones own word list.
+<p>
+All of the attributes are optional. An example of annotation with
+omitted attributes is:
+<pre>
+&lt;lx
+    textal=&quot;abt=f&quot; 
+    cite=&quot;Faulkner&quot; 
+    keyal=&quot;iab&quot;
+    dicttr=&quot;join s'one&quot;/&gt;
+</pre>
+
+<H2>Alignment file</H2>
+
+An alignment file may be the following
+(e.g. <tt>Peasant.xml</tt> in directory <tt>align</tt>):
+
+<pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;precedence
+  created=&quot;2009-08-17&quot;
+  modified=&quot;&quot;&gt;
+&lt;prec1 id1=&quot;0&quot; id2=&quot;0&quot;/&gt;
+&lt;prec2 id1=&quot;0&quot; id2=&quot;0&quot;/&gt;
+&lt;prec2 id1=&quot;1&quot; type1=&quot;after&quot; id2=&quot;2&quot;/&gt;
+&lt;/precedence&gt;
+</pre>
+
+This indicates that position "0" from the first resource should occur
+to the left of a position "0" from the second resource and vice versa, 
+which requires alignment one below the other.
+Further, the location just after position "1" from the second
+resource should occur to the left of position "2" from the first resource.
+
+<H2>Etc elements</H2>
+
+The <tt>&lt;etc/&gt;</tt> tag indicates that some material 
+was omitted in a tier. Automatic
+alignment between tiers can make use of this.
+
+<H2>Mapping between schemes</H2>
+
+For the Eloquent Peasant, there are two numbering schemes for the line
+numbers. A special resource can be created to map between different such
+numbering schemes, to obtain alignment e.g. between coordinate "1" in the old
+scheme and coordinate "1.1" in the new scheme.
+This is specialized use and not discussed further here. If anyone is
+interested, I would advise them to look at the Eloquent Peasant as it is
+encoded in the St Andrews corpus, which offers a self-explanatory example.
+
+</BODY>
+</HTML>

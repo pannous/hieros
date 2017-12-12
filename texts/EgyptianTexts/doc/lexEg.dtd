@@ -1,0 +1,52 @@
+<!ELEMENT lex (header,bibliography?,tier*,fragment*,segment*)>
+<!ATTLIST lex 
+	creator CDATA ""
+	name CDATA ""
+	labelname CDATA ""
+	created CDATA ""
+	modified CDATA ""
+	version CDATA ""
+	language CDATA "">
+
+<!ELEMENT header (p|li)*>
+
+<!ELEMENT tier EMPTY>
+<!ATTLIST tier
+	name CDATA #REQUIRED
+	mode CDATA "shown">
+
+<!ELEMENT bibliography (li)*>
+
+<!ELEMENT p (#PCDATA|i|a|hi|al)*>
+
+<!ELEMENT li (#PCDATA|i|a|hi|al)*>
+
+<!ELEMENT fragment (#PCDATA)>
+
+<!ELEMENT segment
+(texthi?,textal?,texttr?,textfo?,cite?,href?,keyhi?,keyal?,keytr?,keyfo?,dicthi?,dictal?,dicttr?,dictfo?)>
+
+<!ELEMENT hi (#PCDATA)>
+
+<!ELEMENT al (#PCDATA)>
+
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT a (#PCDATA)>
+<!ATTLIST a
+	href CDATA #REQUIRED>
+
+<!ELEMENT texthi (#PCDATA)>
+<!ELEMENT textal (#PCDATA)>
+<!ELEMENT texttr (#PCDATA)>
+<!ELEMENT textfo (#PCDATA)>
+<!ELEMENT cite (#PCDATA)>
+<!ELEMENT href (#PCDATA)>
+<!ELEMENT keyhi (#PCDATA)>
+<!ELEMENT keyal (#PCDATA)>
+<!ELEMENT keytr (#PCDATA)>
+<!ELEMENT keyfo (#PCDATA)>
+<!ELEMENT dicthi (#PCDATA)>
+<!ELEMENT dictal (#PCDATA)>
+<!ELEMENT dicttr (#PCDATA)>
+<!ELEMENT dictfo (#PCDATA)>

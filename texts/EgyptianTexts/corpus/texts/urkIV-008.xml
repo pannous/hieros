@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Iwf of Edfu, Stela of"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="8"/>
+<collection kind="kings" collect="Ahmose"/>
+<collection kind="kings" collect="Tuthmosis I"/>
+<resource location="../resources/urkIV-008Hi.xml"/>
+<resource location="../resources/urkIV-008Tr.txt"/>
+</text>

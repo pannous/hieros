@@ -1,0 +1,48 @@
+TRANSITIONS
+
+F1  BULL.ox		𓃾    𓃿
+F2  OCHS.thier	𓄀   	stier
+F3	tyrn.HIP.pford  𓄁  hippo, nilpferd
+F4  PART.cat 		𓄂	parther, panther cat
+F5  CATTLE.biest 	𓄃  hartebeest
+F6  iest.ar		𓄄   Ister=Hathor
+F7	ar'RAM.ies    𓄅  aries
+F8  RAM.part     𓄆
+F9  PÅ'ther     𓄇	 power potis panther paw 
+F10	tyrk.NECKt  𓄈   necken, Nacken, neck, MACht :
+F11	neck.MACt   𓄉	 mac, merk, mäck, meck, MACht 
+F12 neck.OOSE   𓄊	 hust Hals goose
+F13 (c)oost.OP	 𓄋  op: top, kopp, dop, ober
+F14 oppo   𓄌   oppo.sition			F15 ?    𓄍   F15A    𓄎
+F16 obHORN     𓄏  ob.horn -> fork!  bu/pu ob=oph=Horn~Huf HuN:unite
+F17 o.POUR.gieß   𓄐  ~W10    <> valpurgis purge ...
+F18	bießer.ZAhn  𓄑	 ß/Z     BEI.ßA(hn)/ZÄ(hn)
+F19 kiefer.JAW	    𓄒
+F20	wathonger    𓄓  watcher, thonge, Zunge, 'Watsche', Angel
+F21	ohr'ears     𓄔    𓄕
+F22	he'qua		 𓄖   Heck, hock, hekto, hoch, Höcker, Hexer, quack, squat:
+F23 mu.squat     𓄗   Muskat <> Moschus Hachse
+F24 maskotie.re  𓄘  
+F25 re.þur.ağa   𓄙  burross=ass(Esel spanish)     þurrœğ
+F26	oxrINder    𓄚   		 	(r)in(d)/(o)xe ?
+F27	leDER leThIER  𓄛     Tier, deer, leder, leather
+F28 shoTIER   𓄜 
+F29 SHOT    𓄝  -> T11 sent:=arrow
+F30 SCHEIDe    𓄞
+F31	MEShut/Nais[sance]=birth    𓄟    𓄠  S16     𓋤  mesh
+F32	SH/CH/Scr(otum)    𓄡   Scrotail?
+F33 tailar   𓄢 <<
+F34	Hearth.Khut   𓄣   ♥ ❤ ♡  😻 💔 💓 💕  vs UR        ⺖ ⺗ ⼼[mind]
+F35 ƓUT.shoner  ,cute,God  	𓄤    <> 𓄣 Ḫat  😻   𓄂 Khat/Pardf
+F36	SOMA.___ / summit / sammeln  𓄥   Σ
+F37	Post.Grat    𓄦  PSD.JRT    𓄧 RückGrat  F37 -> posture!  9 Gods = Pesedjet
+F38   𓄨  Post.coord ~ pesd.iert
+F39	s(pinal)cord    𓄪	F39A  𓄩 
+F40	[spindel]lang    𓄫  lengthen langt long lang-Messer  to long  [lungern, linger, launch, lunch,   death   F40 𓄫  Z7 𓏲  Z6 𓏱 ?
+F41    𓄬 -> R11 𓊽-> pesd.iert ~ Post.Grat->GRAL! F37 -> posture!  9 Gods = Pesedjet
+F42	(a)rib(a)    𓄭 
+F44	haxen (t/r)ation agent  𓄯 
+F45 ach.cat(le)  𓄰    𓄱
+F46	[turn]Over U.ber    𓄲  F46A    𓄳 F46B    𓄴  F47    𓄵	F48    𓄶	F49    𓄷	
+F50	go.ver[n]    𓄸 
+F51	Za.hn/[ge]Sünd!Bein[fleisch]    𓄹    F51B 𓄻 Beine/pine

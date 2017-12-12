@@ -1,0 +1,71 @@
+function log(x) {
+   console.log(x);
+    suggestion.innerHTML=x
+}
+ function selectClick(event){
+    group=event.target.innerText
+    suggestion.innerHTML=group;//+" "+Gardiner_Map[group]+" "
+    if(group)// && !
+       checkGardiner(group)	
+ }
+ function insertClick(event){
+	 // glyph=event.target.innerHTML.replace(/\w*/,"")
+	 glyph=event.target.innerText
+    if(glyph.length>10)	suggestion.innerHTML=""// Heather selected
+    else{
+       glyph=   glyph .replace(/\w*/,"")
+	 // glyph=event.target.text.replace(/\w*/,"")
+	 taxt.value += glyph
+    }
+
+ }
+ 
+ // $("finder").autocomplete(autocompletions);
+ function checkGardiner(glyph) {
+    try{
+       if(glyph.length>50){
+          suggestion.innerHTML=""// Heather selected
+          return
+       }
+    // console.log(finder.value);
+    // 
+    // glyph=glyph.replace(/^[\w]/g,"")
+    glyph=glyph.replace(/[^a-zA-Z\d\t\w\s]/g,"")
+    glyph=glyph.trim().toUpperCase()
+    if(glyph.length<1)return
+       suggest="<table><tr>"+glyph;//""
+    count=0
+    for(a in Gardiner_Map){
+       qi=new RegExp("^"+glyph+"\\d","i")// startsWith(glyph)
+       matches=a.match(qi)||a==q
+       // matches=(a+"").startsWith(glyph)
+       if(matches&&count++<180){
+          suggest+="<td>"+a.replace(/[A-Z]+/,"")+Gardiner_Map[a]+"</td>"
+          if(count%8==0)suggest+="</tr><tr>"
+       }	 
+    }
+    suggest+="</tr></table>"
+    uniq=finder.value.match(/ $/)// || count==1
+    // console.log(suggest);
+    if(uniq){
+       if(Gardiner_Map[glyph]){
+             finder.value=finder.value.replace(/\w+/,"") 
+             taxt.value +=  Gardiner_Map[glyph]
+               suggestion.innerHTML=""
+       }else
+             // taxt.value +=glyph
+             suggestion.innerHTML=""
+    }else{
+       suggestion.innerHTML+=suggest
+    }
+ }catch(x){    log(x) }
+ }
+ 
+ 
+ function postText(h,text){
+    try{
+    var http = new XMLHttpRequest();
+    http.open("GET", "/add?h="+h+"&x="+text, true);
+    http.send();
+     }catch(x){    log(x) }
+ } 

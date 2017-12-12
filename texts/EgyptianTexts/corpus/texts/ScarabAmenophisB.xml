@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="eng; translit">
+<primary language="eng" name="Wild bull-hunt scarab of Amenophis III"/>
+<collection kind="kings" collect="Amenophis III"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="579C"/>
+<collection kind="books" collect="Breasted, Ancient Records of Egypt"
+    section="Volume II"
+    subsection="863-864"/>
+<collection kind="books" collect="De Buck, Readingbook"
+    section="pp. 65-6"/>
+<resource location="../resources/ScarabAmenophisBTr.txt"/>
+</text>

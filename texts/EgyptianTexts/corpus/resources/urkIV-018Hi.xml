@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-11-16"
+  modified=""
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of the inscription of Peniati, following the
+transcription of Sethe (1927), number 18 (pp. 51-52).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="A1"/>[hlr]insert[bs](F20,D28)-S3-cartouche(N5*[sep=0.5]D45-D28)-Aa11[rotate=270]*P8-Q3:N35-N30:[sep=0.5]X1*Z4-A52
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="A2"/>[hlr]insert[bs](F20,D28)-S3-cartouche(N5*O29a-L1*D28)-Q3:N35-N30:X1*Z4-A52
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="A3"/>[hlr]insert[bs](F20,D28)-S3-cartouche(N5*O29a*[sep=0.5]L1-[sep=0.5]S4)-Q3:N35-N30:X1*Z4-A52
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="B1"/>[hlr]M23*S3:[sep=0.5]X1*X1-cartouche(N5*Y5-[sep=0.5]L1)-S34-[sep=0.5]X8
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="B2"/>[hlr]R8*X1*F35-[sep=0.5]cartouche(N5*C10-D28)-S34*F25
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="B3"/>[hlr]F20:[fit]A9-G17-(O1:Z1)*M17-Y5:N35-A40-Q3:N35-N30-A52-Aa11[rotate=270]*P8
+</texthi>
+</segment>
+</egyptian>

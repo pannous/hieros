@@ -1,0 +1,25 @@
+<!ELEMENT corpus (text*,tree*)>
+<!ATTLIST corpus
+        type CDATA #REQUIRED
+        name CDATA #REQUIRED>
+
+<!ELEMENT text EMPTY>
+<!ATTLIST text
+        location CDATA #REQUIRED>
+
+<!ELEMENT tree (internal|leaf)*>
+<!ATTLIST tree
+	kind CDATA #REQUIRED>
+
+<!ELEMENT internal (internal|leaf)*>
+<!ATTLIST internal
+        label CDATA #REQUIRED
+        key CDATA #IMPLIED>
+
+<!ELEMENT leaf EMPTY>
+<!ATTLIST leaf
+        label CDATA #REQUIRED
+        key CDATA #IMPLIED
+        name CDATA #REQUIRED
+        location CDATA #REQUIRED
+        post CDATA #REQUIRED>

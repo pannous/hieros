@@ -1,0 +1,56 @@
+A 𓀁  B 𓁐   C 𓁚  D 𓁶  D2𓁷  D3𓁹  E 𓃒  F 𓃾  G 𓄿  H 𓅿  I 𓆈  J 𓆛  K l𓆣  M 𓆭  N 𓇯  O 𓉐  P 𓊛  Q 𓊨  R 𓊯  S 𓋑  T 𓌇  U 𓌳  V 𓍢  W 𓎯  X 𓏏  Y 𓏛  Z 𓏤  Kaa 𓐍  
+
+A: D42	𓂣	
+B: D58	𓃀	
+C: V13	𓍿	
+D: D46	𓂧	
+E: M17	𓇋	
+F: I9	𓆑   
+G:W11	𓎼	
+H: O4	𓉔	
+I: M17	𓇋	
+J: M4	𓆳	
+K: V31	𓎡	
+L: Z5	𓏯	
+M: U1	𓌳	
+N: N35	𓈖	
+O: V4	𓍯	
+P: Q3	𓊪	
+Q: N29	𓏘	
+R: D21	𓂋	
+S: S29	𓋴	
+T: X1	𓏏	
+U: G43	𓅱	
+X: Z9	𓏴	
+Y: Z4	𓏭	
+Z: O34	𓊃	
+
+A  B  C  D  E  F  G  H  I  J  K  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  Kaa 
+𓀁 𓁐  𓁚  𓁶 𓃒 𓃾 𓄿 𓅿𓆈𓆛𓆣 𓆭 𓇯 𓉐𓊛𓊨 𓊯 𓋑 𓌇𓌳  𓍢  𓎯  𓏏 𓏛   𓏤   𓐍 
+
+A1 𓀁  A2𓀂	3𓀃
+B1 𓁐 
+C1 𓁚
+D1 𓁶  D2𓁷  D3𓁹
+E1 𓃒
+F1 𓃾
+G1 𓄿
+H1 𓅿
+I1 𓆈
+J1 𓆛
+K1 l𓆣
+M1 𓆭
+N1 𓇯
+O1 𓉐
+P1 𓊛
+Q1 𓊨
+R1 𓊯
+S1 𓋑
+T1 𓌇
+U1 𓌳
+V1 𓍢
+W1 𓎯
+X1 𓏏
+Y1 𓏛
+Z1 𓏤
+Kaa 𓐍

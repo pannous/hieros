@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Ahmose, queen, title of"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="31"/>
+<resource location="../resources/urkIV-031Hi.xml"/>
+</text>

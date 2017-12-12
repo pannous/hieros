@@ -1,0 +1,289 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2009-09-19
+modified = 2015-07-28
+version = S
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;Second Semneh stela of
+Sesostris III&quot;. Berlin 1157, following Lepsius (1849-1859), p.
+136.
+
+Other transcriptions are Sethe (1924), pp. 83-84; Aegyptische
+Inschriften (1913), number 1157, pp. 257-258.
+
+The transliteration throughout follows Hannig (1995).
+
+For a published translation, see Breasted (1906), pp. 294-297, §§
+653-660; Lichtheim (1975), pp. 118-120.
+
+###
+
+<i>Aegyptische Inschriften aus den Königlichen Museen zu Berlin --</i>
+<i>Volume 1</i>. Leipzig, 1913.
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume I</i>. The
+University of Chicago Press, 1906.
+
+R.O. Faulkner. <i>A Concise Dictionary of Middle Egyptian</i>.
+Griffith Institute, Ashmolean Museum, Oxford, 1962.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+C. R. Lepsius, <i>Denkmäler aus Ägypten und Äthiopien</i>, Band IV,
+Abtheilung II, 1849-1859.
+
+M. Lichtheim. <i>Ancient Egyptian Literature -- Volume I: The Old and
+Middle Kingdoms</i>. University of California Press, 1975.
+
+K. Sethe. <i>Aegyptische Lesestücke</i>. J.C. Hinrichs'sche
+Buchhandlung, Leipzig, 1924.
+
+###
+
+<1> anx
+;
+<1> Live
+
+^Hr ^nTrj-xprw
+;
+Horus: Divine of being;
+
+nbtj ^nTrj-mswt
+;
+Two Ladies: Divine of birth;
+
+<@0>nsw-bjtj ^xaj-kAw-^ra
+;
+The king of Upper and Lower Egypt: Khakaure,
+
+Dj anx
+;
+given life;
+
+<2> ^bjk-nbw ^anx-xpr
+;
+<2> Gold Horus: Living of being;
+
+sA-^ra n Xt=f mr=f nb tAwj ^s-n-^wsrt
+;
+Son of Re, of his body, his beloved, lord of the Two Lands: Sesostris,
+
+Dj anx Dd wAs Dt
+;
+given life, stability and dominion forever.
+
+<3> rnpt-sp 16 Abd 3
+;
+<3> Year 16, third month of the Season of Growing.
+
+jrt Hm=f tAS rs r ^HH
+;
+His Majesty established the southern border at Heh.
+
+<4> jw jr.n=j tAS=j xnt=j jtw=j
+;
+<4>I established my border further south than my forefathers.
+
+jw rDj.n=j <5> HAw-Hr swDt n=j
+;
+I added to what was bequeathed to me.
+
+jnk nsw Ddw jrrw
+;
+I am a king who speaks and acts.
+
+kAAt <6> jb=j pw xprt m-a=j
+;
+I make happen what I conceive,
+
+Adw r jTt
+;
+eager to seize,
+
+sXmw r <7><no> </no>mar
+;
+hasty to <7> succeed,
+
+tm sDr mdt m jb=f
+;
+in whose heart a matter doesn't slumber,
+
+xmt twAw
+;
+anticipating inferiors,
+
+aHa Hr <8> sf
+;
+suppressing mercy,
+
+tm sfnw n xrwy pH sw
+;
+merciless to the enemy who attacks him,
+
+pHw pH.tj=fj
+;
+who attacks one who would attack,
+
+grw gr.tw
+;
+who is silent when one is silent,
+
+<9> wSbw mdt mj xpr jm=s
+;
+<9> who replies to a matter as befits it.
+
+Dr-ntt jr gr m-xt pH
+;
+For to be idle after an attack
+
+ssxm <10> jb pw n xrwj
+;
+is to strengthen the heart of the enemy.
+
+qnt pw Ad
+;
+Aggression is valour
+
+Xst pw Hm-xt
+;
+and retreat is cowardice.
+
+Hm pw mAa <11> Arw Hr rAS=f
+;
+Who is driven from his border is truly a coward.
+
+Dr-ntt sDm nHs r xr n rA
+;
+For the Nubian listens to the word of mouth.
+
+jn wSb=f DD Hm=f
+;
+Answering him is making him retreat.
+
+Ad.tw r=f DD=f sA=f
+;
+If one acts aggressively towards him, he turns his back.
+
+Hm-xt wA=f r Ad
+;
+Retreat and he will take occasion to act aggressively.
+
+<13> n rmT js nt Sft st
+;
+<13> For they are not respectable people.
+
+Hwrww pw sDw jbw
+;
+They are wretches with broken spirits.
+
+jw <14> mAn st Hm=j
+;
+My Majesty has seen them;
+
+nn m jwms
+;
+it is no lie.
+
+HAq.n=j Hmwt=sn
+;
+I captured their women,
+
+jn.n=j <15> Xrw=sn
+;
+I carried off <15> their underlings,
+
+pr r Xnmwt=sn
+;
+went to their wells,
+
+Hw kAw=sn
+;
+drove off their bulls,
+
+wHA jt=sn
+;
+tore out their barley,
+
+<16> rDj xt jm
+;
+<16> set fire to it.
+
+anx n=j jt=j
+;
+As my father lives for me,
+
+Dd=j m-mAat
+;
+I speak truthfully,
+
+nn xn{n}<note>As explained by Sethe (1928). p 139.</note> jm <17> n
+aba
+;
+there is no boast
+
+pr m rA=j
+;
+that comes from my mouth.
+
+jr grt sA=j nb
+;
+As for any son of mine
+
+srwD.tj=fj tAS <18> pn jr.n Hm=j
+;
+who shall maintain this border that My Majesty established,
+
+sA=j pw ms.tw=f n Hm=j
+;
+he is my son, born to My Majesty.
+
+twt sA nDtj jt=f
+;
+It befits a son that he be the champion of his father,
+
+<19> srwD tAS n wtT sw
+;
+<19> and maintains the border of his begetter.
+
+jr grt fx.tj=fj sw
+;
+As to him who shall lose it,
+
+tm.tj=fj aHA <"20 "> Hr=f
+;
+who shall not fight <20> for it,
+
+n sA=j js
+;
+he is not my son,
+
+n ms.tw=f js n=j
+;
+he was not born to me.
+
+jsT grt rDj.n Hm=j jr.tw twt <21> n Hm=j
+;
+Now, My Majesty had a statue of My Majesty made
+
+Hr tAS pn jr.n Hm=j
+;
+at this border that My Majesty established,
+
+n-mrwt rwD=Tn Hr=f
+;
+so that you may be persistent at it
+
+n-mrwt aHA=Tn Hr=f
+;
+and that you may fight for it.

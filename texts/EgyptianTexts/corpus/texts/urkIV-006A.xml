@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Tura, First inscription in quarries at"/>
+<collection kind="books" collect="Urkunden der 18. Dynastie"
+    section="6A"/>
+<resource location="../resources/urkIV-006ATr.txt"/>
+<resource location="../resources/urkIV-006AHi.xml"/>
+</text>

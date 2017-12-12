@@ -1,0 +1,302 @@
+<!doctype html>
+
+<!--[if IE 7]><html data-ytrk-page="MEDIA PAGE SINGLE" class="no-js  lt-ie10 lt-ie9 lt-ie8 ie7" lang="en"><![endif]-->
+<!--[if IE 8]><html data-ytrk-page="MEDIA PAGE SINGLE" class="no-js  lt-ie10 lt-ie9 ie8" lang="en"><![endif]-->
+<!--[if IE 9]><html data-ytrk-page="MEDIA PAGE SINGLE" class="no-js  lt-ie10 ie9" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html data-ytrk-page="MEDIA PAGE SINGLE" class="no-js " lang="en"><!--<![endif]-->
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
+
+    <!--[if lte IE 9 ]>
+    <script type="text/javascript" src="/resources/js/polyfills.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" data-type="init mendel">
+        Mendel = {};
+        $UI = {};
+        (function() {
+            var html = document.getElementsByTagName('html')[0];
+            html.className = html.className.replace( 'no-js', '');
+        })();
+    </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="description" content="Multimedia for ancient Thamud house. Explore the updated online encyclopedia from Encyclopaedia Britannica with hundreds of thousands of articles, biographies, videos, images, and Web sites." /><meta name="keywords" content="britannica, reference, online, encyclopedia, encyclopaedia, store, dictionary, thesaurus" /><link rel="canonical" href="http://www.britannica.com/topic/Thamud//images-videos/Ancient-Thamud-house-carved-in-a-mountain-Saudi-Arabia/119776" /><meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@britannica" />
+
+<meta property="og:type"  content="website"/>
+<meta property="og:title" content="ancient Thamud house"/>
+<meta property="og:description" content="Photograph"/>
+<meta property="og:site_name" content="Encyclopedia Britannica" />
+<meta property="og:url" content="http://www.britannica.com/topic/Thamud/images-videos/Ancient-Thamud-house-carved-in-a-mountain-Saudi-Arabia/119776"/>
+<meta property="og:image" content="http://media-2.web.britannica.com/eb-media/55/125555-004-74C46C9C.jpg" />
+<meta property="og:image:type" content="image/jpg" />
+<script type="text/javascript" data-type="init opengraph">
+Mendel.openGraph = {
+    type: 'website',
+    title: 'ancient Thamud house',
+    description: 'Photograph',
+    siteName: 'Encyclopedia Britannica',
+    url: 'http://www.britannica.com/topic/Thamud/images-videos/Ancient-Thamud-house-carved-in-a-mountain-Saudi-Arabia/119776',
+    image: 'http://media-2.web.britannica.com/eb-media/55/125555-004-74C46C9C.jpg',
+    imageType: 'image/jpg'
+    
+};
+</script>
+
+<meta property="og:image" content="http://media-2.web.britannica.com/eb-media/55/125555-004-74C46C9C.jpg" />
+        <meta property="og:image:type" content="image/jpg" />
+        <meta property="og:image:width" content="550" />
+        <meta property="og:image:height" content="342" />
+    <title>ancient Thamud house | Encyclopedia Britannica</title>
+
+    <link href="//fonts.googleapis.com/css?family=Coustard|Asap:400,700|Open+Sans:400,700,800" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="/resources/css/libs/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/resources/css/min-mendel.css?v=2.33.47" />
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+
+    <script type="text/javascript" data-type="init mendel config">
+
+Mendel.config = {
+	page: 'Media',
+	testVersion: 'D',
+	server: 'http://www.britannica.com',
+	mediaServer: "http://media.web.britannica.com",
+	currentUrl: 'http://www.britannica.com/topic/Thamud/images-videos/Ancient-Thamud-house-carved-in-a-mountain-Saudi-Arabia/119776',
+	sharedUrl: 'http://www.britannica.com/topic/Thamud/images-videos/Ancient-Thamud-house-carved-in-a-mountain-Saudi-Arabia/119776',
+	userType: 'ANONYMOUS',
+	userInfo: { statId: '-1'
+	           ,userId: ''
+	           ,currency: 'USD'
+	           ,country: 'US'
+	           ,bcomId: '-2644478843965237793'
+	           ,mvst: {
+  "HEADER_UPSELL_IMAGE" : null,
+  "HEADER_UPSELL" : "HU_4",
+  "SMALL_ADDTNL_RESOURCES" : "NO",
+  "RR_STORY_BRITANNICA_STORIES" : "3_STORIES",
+  "GIST_STRIP_POSITION" : "BOTTOM",
+  "BKID_UPSELL_IMAGE" : "http://safe.britannica.com/safeimages/EBOK_300x200A.jpg",
+  "RR_BRITANNICA_STORIES" : "ORIGINAL"
+}
+	           ,provider: 'NONE'
+	           ,preferences: {}
+	},
+	isLoggedInAsUser: false,
+	hasAds: true,
+	hasVideoAds: true,
+	
+	adapTvId: 'nj232',
+	adapTvZid: 'Eb_autoplay-free',
+	
+	n0ticeReturnUrl: 'http://projects.britannica.com/signin/return',
+	
+	logGoogleGPT: false,
+	isMobile: false,
+	isTablet: false,
+	isPhone: false,
+	analytics: [
+	   
+	   { type: 'google', id: 'UA-6636134-11', logClickAction: true, logPageLoad: true, logFakePageLoad: true },
+	   { type: 'eb', logClickAction: false, logPageLoad: false, logFakePageLoad: true }
+	   
+	],
+	logAnalytics: false,
+	includeGigya: true,
+	gigyaProviders: 'facebook,twitter,googleplus,linkedin,yahoo'
+	
+	,mendelCookie: {
+  "pagesViewed" : 2,
+  "topicPagesViewed" : 1,
+  "articlePageUrl" : "http://www.britannica.com/topic/Thamud",
+  "mwQuizGroupNumber" : null,
+  "mwQuizGroupExcept" : null,
+  "vistedTopics" : [ 589948 ],
+  "currentReadingList" : null,
+  "galleryReferrer" : null
+},mediaInfo: {'id':'119776','title':'ancient Thamud house','caption':'<p>Ancient Thamud house carved in a mountain, Saudi Arabia.<\/p>','credit':'Shihab20','hasFull':false,'type':'IMAGE','renditionPaths':['http:\/\/media-2.web.britannica.com\/eb-media\/55\/125555-004-74C46C9C.jpg'],'hasImageMap':false,'width':550,'height':342,'isUgc':false,'urlTitle':'Ancient-Thamud-house-carved-in-a-mountain-Saudi-Arabia'}
+        ,topicId: 589948
+	    ,topicAkw: 'history society,social sciences'
+	    ,topicUrl: '/topic/Thamud'
+        ,topicMediaBrowseUrl: '/topic/Thamud/images-videos'
+};
+
+</script><!--[if lte IE 8]>
+    <script type="text/javascript" data-type="ie8 html5 tags">
+        ( function() {
+            var tags = [ 'header', 'footer', 'aside', 'nav', 'section', 'article', 'figure', 'figcaption', 'time' ];
+            for ( var i = 0; i < tags.length; document.createElement( tags[i++] ) );
+        })();
+    </script>
+    <![endif]-->
+
+</head>
+
+<body class="media-page user-ANONYMOUS md-desktop font-sans leg-d">
+
+    <div class="md-page-wrapper">
+
+        <div class="md-media-overlay-static-content">
+        <figure>
+            <img class="media"  src="http://media-2.web.britannica.com/eb-media/55/125555-004-74C46C9C.jpg" alt="ancient Thamud house"/>
+                <figcaption>
+                <h1>ancient Thamud house</h1>
+                <span class="md-media-overlay-static-caption"><p>Ancient Thamud house carved in a mountain, Saudi Arabia.</p></span>
+                Shihab20</figcaption>
+        </figure>
+    </div>
+<div id="md-media-overlay" class="ui-hidden">
+
+    <a href="#" data-ytrk="607" class="md-media-overlay-close fa-stack" title="Close">
+        <i class="fa fa-stack-2x fa-circle-o"></i>
+        <i class="fa fa-stack-1x fa-times"></i>
+    </a>
+
+	<div class="md-media-overlay-title">
+        <div class="subtitle">MEDIA FOR:</div>
+        <div class="maintitle">Tham<span class="bps-entity">ū</span>d</div>
+    </div>
+
+    <div class="md-media-overlay-content-container">
+
+		<div class="md-media-wrapper">
+			<a data-ytrk="94" href="#" class="md-media-overlay-arrow md-media-overlay-previous"><i class="fa fa-4x fa-angle-left"></i></a>
+            <a data-ytrk="94" href="#" class="md-media-overlay-arrow md-media-overlay-next"><i class="fa fa-4x fa-angle-right"></i></a>
+			<div id="md-media-container">
+				<span></span>
+                <a rel="nofollow" title="See Full Size" id="md-media-overlay-zoom" target="_blank" href="#" data-ytrk="95" class="ui-hidden"><i class="fa fa-search-plus"></i></a>
+			</div>
+		</div>
+
+		<div id="md-media-overlay-caption" class="font-sans-ui">
+			<div id="md-media-overlay-count"></div>
+			<div id="md-media-overlay-caption-title"></div>
+			<div id="md-media-overlay-caption-text" class="fancy-scrollbar white"></div>
+			<div id="md-media-overlay-credit"></div>
+			<div id="md-media-overlay-license"></div>
+		</div>
+
+        <div class="md-media-overlay-toolbar">
+            <a id="md-media-overlay-toolbar-print" data-ytrk="96" href="#" target="_blank" title="Print" rel="nofollow"><i class="fa fa-fw fa-print"></i></a>
+            <span id="md-media-overlay-toolbar-citations" data-ytrk="605" title="Citation"><i class="fa fa-fw fa-quote-right"></i></span>
+            <span id="md-media-overlay-toolbar-email" data-ytrk="604" title="Email"><i class="fa fa-fw fa-envelope"></i></span>
+        </div>
+
+		<div id="md-media-overlay-citations" class="md-media-overlay-box ui-hidden font-sans-ui">
+		    <div class="md-media-overlay-citations-menu">
+			    <div id="md-media-overlay-citations-close" class="md-media-overlay-box-close"><i class="fa fa-stack-1x fa-times"></i></div>
+			    <em>Citation</em>
+                <ul class="md-media-overlay-citations-select">
+                    <li data-value="mla">MLA</li>
+                    <li data-value="apa">APA</li>
+                    <li data-value="harvard">Harvard</li>
+                    <li data-value="chicago">Chicago</li>
+                </ul>
+		    </div>
+			<div id="md-media-overlay-citations-text"></div>
+		</div>
+
+		<div id="md-media-overlay-email" class="md-media-overlay-box ui-hidden font-sans-ui">
+			<em>Email</em>
+			<div id="md-media-overlay-email-close" class="md-media-overlay-box-close"><i class="fa fa-stack-1x fa-times"></i></div>
+			<form id="md-media-overlay-email-form">
+                <input type="hidden" name="assembly_id" />
+                <input type="hidden" name="page_id" />
+				<label for="md-media-overlay-email-to">To:</label>
+				<input type="text" id="md-media-overlay-email-to" name="to" placeholder="Enter an email address" required="true" data-validation="email" />
+				<label for="md-media-overlay-email-from">From:</label>
+				<input type="text" id="md-media-overlay-email-from" name="from" placeholder="Enter an email address" required="true" data-validation="email" />
+				<label for="md-media-overlay-email-comment">Comment:</label>
+				<textarea id="md-media-overlay-email-comment" name="comment" placeholder="Add a comment"></textarea>
+				<input type="submit" value="SEND" />
+			</form>
+		</div>
+
+		<div id="md-media-overlay-submit-email" class="md-media-overlay-box ui-hidden font-sans-ui">
+			<div class="md-media-overlay-submit-email-ok ui-hidden">You have successfully emailed this.</div>
+			<div class="md-media-overlay-submit-email-error">Error when sending the email. Try again later.</div>
+			<input type="button" value="OK" class="btn btn-primary" />
+		</div>
+
+	</div>
+
+	<div class="md-vertical-media-strip ui-hidden"></div>
+
+	<div id="md-media-overlay-ad">
+	        <iframe id="media-overlay-ad-iframe" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" width="160" height="600"></iframe>
+	    </div>
+	</div></div>
+
+	<!--[if lt IE 9]>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/javascript">window.jQuery || document.write('<script src="/resources/js/libs/jquery-1.11.3.min.js"><\/script>');</script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript">window.jQuery || document.write('<script src="/resources/js/libs/jquery-2.1.4.min.js"><\/script>');</script>
+<!--<![endif]--><script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_QkFp1fFi8gwTK97KWaFi_v2eOF3cwcvUA9vC26R9gFKQjRikRuijZ1eOnERznNEN">
+            {
+                siteName: 'britannica.com (Production - Consumer)',
+                enabledProviders: 'facebook,twitter,googleplus,linkedin,yahoo',
+                connectWithoutLoginBehavior: "alwaysLogin"
+            }
+        </script>
+        <script type="text/javascript" src="https://cdns.gigya.com/js/gigyaGAIntegration.js"></script>
+    <script src="/resources/js/min-mendel.js?v=2.33.47"></script>
+
+    <script type="text/javascript" src="/resources/files/jwplayer6/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key='OdjJyYN49OngMGhZzqouyjgt5MnrwNm7fDOTBVeyHVU=';</script><script type="text/javascript" data-type="init page">
+        $( function() {
+            Mendel.Page.init();
+            if ($.isDefined(Mendel.MediaPage)) { Mendel.MediaPage.init(); }
+        });
+
+    </script>
+
+    <!--[if lt IE 8 ]>
+    	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    	<script type="text/javascript">window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+    <![endif]-->
+
+    <script type="text/javascript" data-type="load analytics">
+        var _gaq = _gaq || [];
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+<script type="text/javascript" data-type="init crazyeggs">
+        function CE_READY() {
+            CE2.set( 1, 'ANONYMOUS' );
+            CE2.set( 2, 'D' );
+            CE2.set( 3, 'MEDIA PAGE SINGLE' );
+            
+        }
+    </script>
+    <script type="text/javascript" data-type="load crazyeggs">
+        setTimeout(function(){
+            var a=document.createElement("script");
+            var b=document.getElementsByTagName("script")[0];
+            a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3876.js?"+Math.floor(new Date().getTime()/3600000);
+            a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)
+        }, 1);
+    </script>
+<script src="http://www.britannica.com/webstats/mendelstats.js?v=1"></script>
+    <script type="text/javascript" data-type="eb stats">
+        
+        var EBStat={accountId:-1,host:'www.britannica.com',domain:'www.britannica.com'};
+        try{writeStat(null,{accountId:-1,hostnameOverride:'www.britannica.com',domain:'www.britannica.com',json:''});}
+        catch(err){}
+    </script>
+<script type="text/javascript" src="/resources/js/libs/jquery.scrolldepth.min.js"></script>
+	<script type="text/javascript" data-type="init scrollDepth">
+		$( function() { jQuery.scrollDepth(); } );
+		</script>
+</body>
+</html>

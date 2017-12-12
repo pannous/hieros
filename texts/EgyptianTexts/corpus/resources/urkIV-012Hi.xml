@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-10-13"
+  modified=""
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of inscriptions
+describing the gate built by Amenophis I on the south side of the
+Amun temple in Karnak,
+following the transcription of Sethe (1927), number 12 (pp. 42-43).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+[hlr]S34-G5-E1-G43-D36:I9-N17:[sep=0.5]N17:[sep=0.5]N17-G16-[sep=0.5]O29-N35:D21-H4*G43-(M23:[sep=0.5]X1)*(L2:[sep=0.5]X1)-cartouche(N5:[fit]D45-D28)-D4:N35:[sep=0.5]I9-G17-Y5:W24*[sep=0.5]W24*[sep=0.5]W24-I9-N35:[sep=0.5]X1:[sep=0.5]I9-M17*(Y5:N35)-V30-W11*W11:[sep=0.5]W11-.:N17:[sep=0.5]N17:.-S29*P6-D37-N35:[sep=0.5]I9-S29*D58*N14-O32*O29a-N35-V22:D36-V20:[sep=0.5]V20-D21-[sep=0.5]D21:X1*Z4-O32-O32-R8*O7-G17-M17*(N35:[sep=0.5]D21:[sep=0.5]O39)-T3*F35-N35:[sep=0.5]D8a-D4-N35:I9-insert[te](G39,N5)-cartouche(M17*(Y5:N35)-R4:[sep=0.5]X1*Q3)-S34*[sep=0.5]insert[bs](I10,X1:N17)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="1"/>[hlr]empty[shade]-insert[bs](I10,X1:N17)-D4:[sep=0.5]N35:[sep=0.5]I9-G17-Y5:W24*[sep=0.5]W24*[sep=0.5]W24-I9-N35:[sep=0.5]X1:[sep=0.5]I9-M17-Y5:N35-V30-W11*W11:[size=inf]W11-.:N17:N17:.-Aa28*D46-A35-O1:Z1-I9-S29*(Y5:N35)-(Aa1:[sep=0.5]U22)*Y1a-R8*O7-X1:O1-I9-S29*P6*S29-N14*[sep=0.5]D58-O32-M24*(Z1:N23)-S29*N29-[sep=0.5]G1*[sep=0.5]A28-R4:[sep=0.5](.:X1)*Q3-G17-[sep=0.5]D36:[sep=0.5]V20*V20-G17*M17-N35:[sep=0.5]D21:[sep=0.5]O39-T3*![shade]F35-[sep=0.5]N35:D8a
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]empty[shade]-[shade]M17[shade]-Y5:N35-G17-M17*(Q3:X1)-[sep=0.5]Q1*[sep=0.5]Q1*[sep=0.5]Q1-X1:[sep=0.5]O49-M17*S29-V13-W11:[sep=0.5]D21:[sep=0.5]X1-D21-X8-N35:I9-(D21:[sep=0.5]Aa1)*U36-Z1:[sep=0.5]I9-G17-G29-I9-N35-O29:[sep=0.5]D36-X1:Y1-N35-U6-[sep=0.5]D21:D21-I9*M23-[sep=0.5]G43-D21-R8*[sep=0.5]R8-[sep=0.5]R8*(V30:Z1*Z1*Z1)-D4-N35:I9-R8*F35-cartouche(M17*(Y5:N35)-R4:[sep=0.5]X1*Q3)-X8*S34-[sep=0.5]insert[bs](I10,X1:N17)
+</texthi>
+</segment>
+</egyptian>

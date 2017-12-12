@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-10-05"
+  modified="2014-10-05"
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of fragment of a biographical inscription of Seni,
+viceroy of Kush, following Sethe (1927), number 10 (pp. 39-41).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="1"/>[hlr]empty[shade]-Aa1:D21-M23-X1:N35-M23:[sep=0.5]X1-L2:[sep=0.5]X1-cartouche(N5:[sep=0.5]V30-F9:[sep=0.5]X1*X1)-D21:D37-N35:I9-G43-D21-F20[b]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]empty[shade]-Aa28*(D46:W24)-Y1:Z1*Z1*Z1-F35-D2*F34:I9-insert[te](G36,X1):[sep=0.5]D21-D35-E34:[sep=0.5]N35:[sep=0.5]X1-S29*V29-V31:[sep=0.5]G37-G17-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="3"/>[hlr]empty[shade]-V7[t]-[t]N35[shade]:[sep=0.5,shade]M17[t]*[sep=0.5,t](empty[width=0.0,height=0.4,t]:X1)*[sep=0.5,fit,t]M17[t]-A21-(Z1:[sep=0.5]Z1:[sep=0.5]Z1)*I9-F25*G17-W14*S29-X1:Z1*Z1*Z1-M17*S3-insert[t](G39,Z1)-I9-M23:[sep=0.5]X1-L2:[sep=0.5]X1-V30:N17:[sep=0.5]N17-cartouche[tet,tee,beb,bee](N5-D45[shade]*[shade]D28[shade])
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="4"/>[hlr]![shade]D21:[sep=0.5]D37-N35:[sep=0.5]I9-[sep=0.5]G43-[sep=0.5]D21-insert[b](F20:.,O51)![noshade]-X1:Z4-O1:O1-N35-![shade]M17*(Y5:N35![noshade])-A40-D21-S42*(D28:X1)-[sep=0.5]A9*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-G17-M17*(Q3:X1)-Q1-X1:Z1*[sep=0.5]Z1*[sep=0.5]Z1-O49-insert[s](insert[te](.*G35[b],N29),D54[shade])![shade]-V31:[sep=0.5]G43
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="5"/>[hlr]![shade]D2*[sep=0.5]F34:N35-U36*[sep=0.5](Z1:I9)-![shade]D21:[sep=0.5]Aa1:[sep=0.5]Y1![noshade]-N35:I9-Y5:N35-(Aa1:X1)*U22[rotate=90]-N35:X1-F34:[sep=0.5]Z1-W14*(N35:I9)-G43-D2-D4:X1-insert[s,sep=0.5](U2,Aa11)-D36:X1-Y1:Z1*Z1*Z1-I9-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="6"/>[hlr]![shade]O34:[fit]Q3*[sep=0.5]O50-[sep=0.5]D1*[sep=0.5]Q3:[sep=0.5]N35-[sep=0.5]F25-[sep=0.5]G17*W14-[sep=0.5]S29*[sep=0.5](X1:[sep=0.5]Z1*[sep=0.5]Z1*[sep=0.5]Z1![noshade])-(M23:X1)*[sep=0.5](L2:X1)-cartouche(N5:O29-L1*D28)-D21:D37-N35:[sep=0.5]I9-G43-D21-M23*[sep=0.5]G39-![shade]D21[noshade]:D37-N35:I9-N35-S12:N33*N33*[sep=0.5]N33
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="7"/><note symbol="5">Appearance: square. Depicts:
+armlet.</note><note symbol="12">Depicts
+bracelet.</note>[hlr]![shade]G17-M12![noshade]-U33*[sep=0.5]M17-t:O39:.-[sep=0.5]D58-S12:N33*N33*N33-F31:[sep=0.5]&quot;?&quot;-[sep=0.5]V31:[sep=0.5]X1:[sep=0.5]G43-O34:Q3*O50-Z1*[sep=0.5]Z1*W24:![shade]N35-F25*G17-W14*[sep=0.5]S29-[sep=0.5](X1:Z1*[sep=0.5]Z1*[sep=0.5]Z1)*[sep=0.5](M23:[sep=0.5]X1)-[sep=0.5]L2:[sep=0.5]X1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="8"/><note symbol="33">Appearance: square. Depicts:
+armlet.</note>[hlr]![shade]cartouche(N5:[sep=0.5]O29-[sep=0.5]L1-D28)-![shade]V25*G43-N35:I9-D21![noshade]:D37:[sep=0.5]X1-N35-S12:N33*N33*N33-M8-(empty[shade]:Z15*[sep=0.5]Z15*.)*[sep=0.6]D58-S12:N33*N33*N33-D36:[sep=0.5]D36:[sep=0.5]S21*Z15*[sep=0.5]Z15-G17*[fit](M12:empty[width=0.0,height=0.4])-U33[b]*[b](X1:[sep=0.5]O39[b]:.)-[fit,b]D58[b]-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="9"/>[hlr]![shade]S29*(V13:N35)-[sep=0.5]T14*[sep=0.5]G41*[sep=0.5]Y1a-N35:I9-![noshade]G43-D21-A19*(Z1:[sep=0.5]Z1:[sep=0.5]Z1)-O11*(D36:O1)-D21:[sep=0.5]Aa1:[sep=0.5]Y1-N35:I9-M17*(N29:[sep=0.5]D21:[sep=0.5]Y1)-W17-![shade]S29*[sep=0.5]U23-Z1*Z1*Z1:I9-![shade]S32:[sep=0.5]N35:[sep=0.5]I9
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="10"/>[hlr]![shade]G43-[sep=0.5]G17-[sep=0.5]D4-[sep=0.5]V28*[sep=0.5]W14-S29*[sep=0.5]S29[noshade]*[noshade](X1:Z1[noshade]*[noshade]Z1[noshade]*[noshade]Z1[noshade])-[sep=0.5]I9-![noshade]X1:[sep=0.5]U15-D4-[sep=0.5]N36:[sep=0.5]X1[shade]*[sep=0.5]Z1*[sep=0.5]Z1*[sep=0.5]Z1-G17-U28*U28-(W24:X1)*Aa8[rotate=90]:[sep=0.5]Z1*Z1*Z1-D52:[sep=0.5]X1*Z4-T14*[sep=0.2]T14*Y1[shade]-[sep=0.5]insert[s](U2[bsb,beb],Aa11)-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="11"/>[hlr]empty[shade]-G17-Q1-X1:O1-O34:[sep=0.5]R4-F34:[sep=0.5]Z1-F22-N35:I9-A19*X1-D35-[sep=0.5]G28[shade]-![shade]E34:N35-G37:[sep=0.5]I9-Aa1:D21
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="12"/>[hlr]![shade]D21:V13-A1*[sep=0.5]B1:[sep=0.5]Z1*Z1*Z1-![shade]O34:[sep=0.5]Q3*[sep=0.5]O50![noshade]-D1*Q3:N35-F25*W14-(X1:Z1*[sep=0.5]Z1*[sep=0.5]Z1)*(M23:[sep=0.5]X1)-L2:[sep=0.5]X1-cartouche(N5:[sep=0.5]O29-L1-N35)-D4:[sep=0.5]N35:[sep=0.5]I9[s]-empty[shade]
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="13"/>[hlr]![shade]D35-[sep=0.5]D4:[sep=0.5].*M17*[sep=0.5]M17*.-O34:[sep=0.5]Q3*[sep=0.5]O50-![shade]F32:O34![noshade]-G37-D2-[sep=0.5](F13:[sep=0.5]Q3)*[sep=0.5](X1:Z9)-N35:X1-M23*[sep=0.5](X1:N35)-S29*(Y5:[sep=0.5]N35:[sep=0.5]Y1)-D56[b]-G17-empty[shade]-![shade](O34:[sep=0.5]Q3*[sep=0.5]O50)*(Z1*[sep=0.5]Z1:[sep=0.5]W24)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="14"/>[hlr]![shade]N35-F25*W14-X1:Z1*[sep=0.5,fit]Z1*[sep=0.5]Z1-[sep=0.5]M23:X1-L2:X1-[sep=0.5]cartouche[s,tes,bes](N5:[sep=0.5]O29-[sep=0.5]L1-[fit]N35)-![noshade]S29*(O29:D36)-N35:I9-G43-G17*(D2:[sep=0.5]F34)-empty[shade]
+</texthi>
+</segment>
+</egyptian>

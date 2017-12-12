@@ -1,0 +1,77 @@
+
+Tifinagh[1][2]
+Official Unicode Consortium code chart (PDF)
+  								0 	1 	2 	3 	4 	5 	6 	7 	8 	9 	A 	B 	C 	D 	E 	F
+Tifinagh U+2D3x 	ⴰ 		ⴱ 	ⴲ 	ⴳ 	ⴴ 	ⴵ 	ⴶ 	ⴷ 	ⴸ 	ⴹ 	ⴺ 	ⴻ 	ⴼ 	ⴽ 	ⴾ 	ⴿ
+Tifinagh U+2D4x 	ⵀ 	ⵁ 	ⵂ 		ⵃ 	ⵄ 	ⵅ 	ⵆ 	ⵇ 	ⵈ 	ⵉ	 	ⵊ 		ⵋ 	ⵌ 	ⵍ 		ⵎ 	ⵏ
+Tifinagh U+2D5x 	ⵐ 	ⵑ 		ⵒ 		ⵓ 		ⵔ 	ⵕ 	ⵖ 	ⵗ 	ⵘ 	ⵙ 	ⵚ 	ⵛ 	ⵜ 	ⵝ 	ⵞ 	ⵟ
+Tifinagh U+2D6x 	ⵠ 	ⵡ 	ⵢ 		ⵣ 	ⵤ 	ⵥ 	ⵦ 	ⵧ 								ⵯ
+Tifinagh U+2D7x 	⵰ 														
+
+
+Unicode 	Image 	Font 	Transliteration 	Name
+Latin 	Arabic 	IPA
+ⴰ 	a 	ا 	æ 	ya
+ⴱ 	b 	ب 	b 	yab
+ⴲ 	b 	ٻ 	β 	yab fricative
+ⴳ 	g 	گ 	ɡ 	yag
+ⴴ 	g 	ڲ 	ɣ 	yag fricative
+ⴵ 	dj 	ج 	d͡ʒ 	yadj
+ⴶ 	dj 	ج 	d͡ʒ 	yadj
+ⴷ 	d 	د 	d 	yad
+ⴸ 	d 	ذ 	ð 	yad fricative
+ⴹ 	ḍ 	ض 	dˤ 	yaḍ
+ⴺ 	ḍ 	ظ 	ðˤ 	yaḍ fricative
+ⴻ 	e 	ه 	ə 	yey
+ⴼ 	f 	ف 	f 	yaf
+ⴽ 	k 	ک 	k 	yak
+ⴾ 	k 	ک 	k 	Tuareg yak
+ⴿ 	k 	ک 	x 	yak fricative
+ⵀ 	h
+b 	ھ
+ب 	h
+b 	yah
+= Tuareg yab
+ⵁ 	h 	ھ 	h 	yah
+ⵂ 	h 	ھ 	h 	Tuareg yah
+ⵃ 	ḥ 	ح 	ħ 	yaḥ
+ⵄ 	ʕ (ɛ) 	ع 	ʕ 	yaʕ (yaɛ)
+ⵅ 	kh (x) 	خ 	χ 	yax
+ⵆ 	kh (x) 	خ 	χ 	Tuareg yax
+ⵇ 	q 	ق 	q 	yaq
+ⵈ 	q 	ق 	q 	Tuareg yaq
+ⵉ 	i 	ي 	i 	yi
+ⵊ 	j 	ج 	ʒ 	yaj
+ⵋ 	j 	ج 	ʒ 	Ahaggar yaj
+ⵌ 	j 	ج 	ʒ 	Tuareg yaj
+ⵍ 	l 	ل 	l 	yal  NIL!!!  Nⵍ
+ⵎ 	m 	م 	m 	yam
+ⵏ 	n 	ن 	n 	yan
+ⵐ 	ny 	ني 	nj 	Tuareg yagn
+ⵑ 	ng 	ڭ 	ŋ 	Tuareg yang
+ⵒ 	p 	پ 	p 	yap
+ⵓ 	u : oo ou
+w 	و : woun +++
+ۉ 	w 	yuw vyou ! = Tuareg yaw
+ⵔ 	r 	ر 	r 	yar RAd vs ⵙ Sol !! SunRad <> Sultan? Ratzinger~Helsaenger? 
+ⵕ 	ṛ 	ڕ 	rˤ 	yaṛ  Qr? <<
+ⵖ 	gh (ɣ) 	غ 	ɣ 	yaɣ
+ⵗ 	gh (ɣ) 	غ 	ɣ 	Tuareg yaɣ
+ⵘ 	gh (ɣ) j 	غ ج 	ɣ
+ʒ 	Aïr yaɣ = Adrar yaj
+ⵙ 	s 	س 	s 	yas SoLaRa !!!
+ⵚ 	ṣ 	ص 	sˤ 	yaṣ
+ⵛ 	sh (š) 	ش 	ʃ 	yaš  C! toe zeh lasche l'ⵛ
+ⵞ 	ch (tš) 	تش 	t͡ʃ 	yatš
+ⵜ 	t 	ت 	T 	yat
+ⵝ 	th 	ت 	θ̱ 	yat fricative
+ⵟ 	ṭ 	ط 	tˤ 	yaṭ
+ⵠ 	v 	ۋ 	v 		yav  daVi !!! <<
+ⵡ 	w 	ۉ 	w 	yaw yawuU ⵡⵡ
+ⵢ 	y 	ي 	j 	yay ⵢ G J !! f
+ⵤ 		z 	ز 	z 	Tawellemet yaz ⵤ1 zain ! = Harpoon zahn! yaz <<<
+ⵣ 	z 	ز 	z 	yaz
+ⵥ 	ẓ 	ژ 	zˤ 	yaẓ
+ⵦ 	E 	  	ei 	ye (APT)
+ⵧ 	o 	  	o 	yo (APT)
+ ⵯ 	+ʷ 	+ ٗ 	ʷ 	Labio-velarization mark = Tamatart ≈ <super> 2D61

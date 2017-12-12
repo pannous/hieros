@@ -1,0 +1,71 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2015-08-17
+modified = 2015-08-17
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the inscription of viceroy Turi in
+Uronarti, following the transcription of Sethe (1927), number 29 (p.
+78).
+
+For published translations, see Sethe (1914), number 29 (p. 41).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> rnpt-sp 8
+;
+<1> Year 8
+
+xr Hm n
+;
+under the majesty of
+
+nsw-bjtj ^Dsr-kA-^ra
+;
+the king of Upper and Lower Egypt Djeserkare,
+
+Dj anx Dt
+;
+given life forever.
+
+<2> jrj-pat HAtj-a
+;
+<2> Prince-regent and count,
+
+xtmw-bjtj
+;
+royal seal-keeper,
+
+smr watj
+;
+sole companion,
+
+mH-jb n nsw m xAswt <3> rswt
+;
+confidant of the king in the southern lands,
+
+nHb.n nb tAwj kA=f
+;
+whom the lord of the Two Lands dignified,
+
+sA-nsw (^t)wrj
+;
+prince (T)uri.

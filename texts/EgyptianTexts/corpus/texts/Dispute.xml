@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text description="hiero; eng; translit">
+<primary language="eng" name="Dispute of a man with his ba"/>
+<collection kind="books" collect="Sethe, Ägyptische Lesestücke"
+    section="6"/>
+<collection kind="books" collect="Zonhoven, Literary texts in the hieratic script"
+    section="pp. 51-55"/>
+<resource location="../resources/DisputeTr.txt"/>
+<resource location="../resources/DisputeHi.xml"/>
+</text>

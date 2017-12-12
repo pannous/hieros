@@ -1,0 +1,59 @@
+<!ELEMENT images (header,bibliography?,tier*,image*,sign*,area*)>
+<!ATTLIST images
+        creator CDATA ""
+        name CDATA ""
+        labelname CDATA ""
+        created CDATA ""
+        modified CDATA ""
+	version CDATA "">
+
+<!ELEMENT header (p|li)*>
+
+<!ELEMENT tier EMPTY>
+<!ATTLIST tier
+        name CDATA #REQUIRED
+        mode CDATA "shown">
+
+<!ELEMENT bibliography (li)*>
+
+<!ELEMENT p (#PCDATA|i|a|hi|al)*>
+
+<!ELEMENT li (#PCDATA|i|a|hi|al)*>
+
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT a (#PCDATA)>
+<!ATTLIST a
+        href CDATA #REQUIRED>
+
+<!ELEMENT hi (#PCDATA)>
+
+<!ELEMENT al (#PCDATA)>
+
+<!ELEMENT image EMPTY>
+<!ATTLIST image
+        href CDATA #REQUIRED>
+
+<!ELEMENT sign (place*)>
+<!ATTLIST sign
+	id CDATA #REQUIRED
+	name CDATA #REQUIRED>
+
+<!ELEMENT place EMPTY>
+<!ATTLIST place
+	num CDATA #REQUIRED
+	x CDATA #REQUIRED
+	y CDATA #REQUIRED
+	width CDATA #REQUIRED
+	height CDATA #REQUIRED>
+
+<!ELEMENT area (point*)>
+<!ATTLIST area
+	num CDATA #REQUIRED
+	name CDATA #REQUIRED>
+
+<!ELEMENT point EMPTY>
+<!ATTLIST point
+        x CDATA #REQUIRED
+        y CDATA #REQUIRED
+	type (smooth|ragged) #REQUIRED> 

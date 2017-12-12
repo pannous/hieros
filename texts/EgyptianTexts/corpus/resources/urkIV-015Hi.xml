@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-10-19"
+  modified=""
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of the text on a gate at Karnak
+mentioning the anniversary of the reign of Amenophis I,
+following the transcription of Sethe (1927),
+number 15 (pp. 49-50).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+[hlr]O50*T8-S29*(D46:N21)-[sep=0.5]O23-W4
+</texthi>
+</segment>
+</egyptian>

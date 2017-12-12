@@ -1,0 +1,87 @@
+<html>
+
+<h1>Manual of Lexical Annotator</h1>
+
+Words in a text are annotated with information pointing
+to lemmas (and subentries) in a lexicon, and descriptions
+of the particular use in the text.
+<p>
+The top panel (which may be empty) contains unprocessed hieroglyphic.
+The next panel contains the lexical entries.
+The bottom panel contains several lexica, one per tab.
+<p> 
+Navigation in the lexica annotations, is by clicking the frame of one
+such annotation, or by the left/right arrow buttons. The currently
+focussed lexical entry has a blue border.
+<p> 
+By clicking on a hieroglyph, all preceding hieroglyphs are split off
+and put in the current lexical entry.
+By selecting (part of) a lemma, information from a lexicon is
+transferred to the current lexical entry.
+<p>
+For a selected lexicon,
+one can search in a number of ways, by filling in the fields for
+hieroglyphic (not fully functional at this time), for
+transliteration, for translation and/or for form. Then one can type
+<b>Enter</b> or click the <b>search</b> button.
+<p>
+One can use Java regular expressions. By default, the typed pattern
+is complemented by a following <b>.*</b> so that the emphasis is on
+matching a pattern to a prefix of a record. For example, if one
+fills in <b>.*ea</b> in the translation field, then this is completed
+to <b>.*ea.*</b> so that it would match <b>heaven</b> and <b>great</b>.
+<p>
+By right-clicking on the first line of a lemma, the Lemma Editor
+is opened for that lemma.
+
+<h1>Buttons in file menu</h1>
+
+The buttons are:
+
+<h2>Close</h2>
+
+Closes the editor.
+
+<h2>Import hierglyphic</h2>
+
+Transfers the hieroglyphic from an existing resource to the top panel.
+
+<h2>Import transliteration</h2>
+
+Transfers the transliteration from an existing resource to the middle panel,
+as one lexical entry by per word.
+
+<h1>Buttons in resource menu</h1>
+
+The buttons are:
+
+<h2>Left/right</h2>
+
+Navigate to left or right lexical entry.
+
+<h2>New word</h2>
+
+Create new lexical entry after current one.
+
+<h2>New initial word</h2>
+
+Create new lexical entry at start of text.
+
+<h2>Delete word</h2>
+
+Delete current lexical entry.
+
+<h2>Swap words</h2>
+
+Swap current lexical entry and next.
+
+<h2>Lemma</h2>
+
+Creates a new lemma in the currently selected lexicon, 
+which may subsequently be edited in the Lemma Editor.
+
+<h1>Help</h1>
+
+Opens this window.
+
+</html>

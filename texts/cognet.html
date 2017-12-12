@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-8">
+<html>
+<head>
+	<title>Cognet</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.min.css">
+	<link rel="stylesheet" href="cognet.css">
+</head>
+<!-- <script src="vis.min.js" type="text/javascript" charset="utf-8"></script> -->
+<script src="vis.js" type="text/javascript" charset="utf-8"></script>
+<script src="cognet.trace.js" type="text/javascript" charset="utf-8"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.min.js" type="text/javascript" charset="utf-8"></script> -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.js" type="text/javascript" charset="utf-8"></script> -->
+<!-- <script src="extensions.js" type="text/javascript" charset="utf-8"></script> -->
+<!-- <script src="http://de.netbase.pannous.com:81/js/verbose/gehren" async defer></script> -->
+<!-- http://visjs.org/network_examples.html -->
+<body onkeypress="keydown(event)" onkeyup="keyup()" onmousedown="event=>{ if(event.button==2) return false};">
+<form id=form action="learn" method="get" accept-charset="utf-8" onsubmit="submit(this)" 
+    onmousedown="event=>{ if(event.button==2) return false};"> 
+<!-- <img src="https://de.wikipedia.org/static/images/project-logos/dewiki.png" alt="wiki" width="50" onclick="wiki(from.value)" /> -->
+  <a onclick="wiki(from.value.replace(/\:.*/,''))"><img src="enwiki.png" width="25"></a>
+  <a onclick="wikiData(from_id.value)"><img src="wikidata.png" width="30" /></a>
+
+  <input type="text" name="from" id="from" focus value="" onkeypress="from_id.value=0">
+  <input type="number" name="from_id" id="from_id" value="">
+  <input type="text" name="edge" id="edge" value="" onkeypress="edge_id.value=0">
+  <input type="number" name="edge_id" id="edge_id" value="">
+  <input type="text" name="to" id="to" value="" onkeypress="to_id.value=0">
+  <input type="number" name="to_id" id="to_id" value=0 >
+  <input type="number" id="limit" value=30 >
+  <!-- onmousewheel="this.value+=1" -->
+
+</form>
+<div id="selection"> </div>
+<div id="network-popUp">
+  <span id="operation">node</span> <br>
+  <table style="margin:auto;"><tr> <td>id</td><td><input id="node-id" value="new value" /></td> </tr>
+    <tr> <td>label</td><td><input id="node-label" value="new value" /></td> </tr></table>
+  <input type="button" value="save" id="saveButton" />
+  <input type="button" value="cancel" id="cancelButton" />
+</div>
+<br />
+<div id="mynetwork" width=100% style="width:100%;height:800px"></div>
+</body>
+<script src="cognet.js" type="text/javascript" charset="utf-8" ></script>
+</html>

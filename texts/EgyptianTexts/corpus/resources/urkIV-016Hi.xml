@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<egyptian
+  creator="Mark-Jan Nederhof"
+  name="Sethe"
+  labelname="Se"
+  created="2014-10-23"
+  modified=""
+  version=""
+  scheme=""
+  language=""
+  upload=""
+  email=""
+  password=""
+>
+<header>
+<p>
+Transcription of part of the stela of
+Pentaweret, mentioning Amenophis I,
+following the transcription of Sethe (1927),
+number 16 (p. 50).
+</p>
+</header>
+<bibliography>
+<li>
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+</li>
+</bibliography>
+<tier name="hieroglyphic" mode="shown"/>
+<tier name="transliteration" mode="ignored"/>
+<tier name="translation" mode="ignored"/>
+<tier name="lexical" mode="ignored"/>
+<segment>
+<texthi>
+<coord id="1"/>[hlr]V30:[sep=0.5]N16:[sep=0.5]N16-cartouche(N5*D45-D28)-V30:N28*[sep=0.5]Z1*[sep=0.5]Z1*[sep=0.5]Z1-cartouche(M17*(Y5:N35)-R4:[sep=0.5]X1*[sep=0.5]Q3)
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="2"/>[hlr]N35-D28-[sep=0.5]Z4:D21*[sep=0.5]Z1
+</texthi>
+</segment>
+
+<segment>
+<texthi>
+<coord id="3"/>[hlr]N25-R8*[sep=0.5]F35
+</texthi>
+</segment>
+</egyptian>

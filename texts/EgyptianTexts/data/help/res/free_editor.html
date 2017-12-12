@@ -1,0 +1,273 @@
+<html>
+
+<h1>Manual of RES Editor</h1>
+
+This software is used to edit files containing hieroglyphic
+encoded in RES.
+
+<h1>Text editor</h1>
+
+Fragments of hieroglyphic, encoded in RES, are supposed to occur 
+in a plain text file. Although the editor was specifically designed to edit 
+the RES encodings themselves, one may also directly edit the entire text file,
+with functionality that is a small subset of what is available in
+more mature text editors, such as VI/VIM and EMACS. The main window 
+consists of two halves, the top half of which has the maximum size when you
+open the editor. This top half will contain the plain-text view on the file
+being edited, and will be discussed first. Thereafter, the lower half 
+will be discussed.
+<p>
+Let us go through the menu at the top of the page. 
+
+<h2>File</h2>
+
+Through the <b>File</b> button and then the
+<b>Open</b> button, one may choose to load a plain text file. Instead of loading
+an existing file, one may also create a new text, and just start typing
+in the window.
+<p>
+Once an existing text has been modified, or a new text has been created,
+one may save it, using the buttons <b>File</b> and <b>Save</b>
+in the former case, or the buttons <b>File</b> and <b>save As</b>
+in the latter case. 
+The <b>save As</b> button opens a window by which one may specify the
+target file.
+The buttons <b>File</b> and <b>New</b>
+discard the text that was previously being edited.
+By <b>Quit</b>, the editor is terminated.
+The editor gives a warning before discarding a modified but unsaved text;
+the user may then click <b>cancel</b> to cancel the chosen action and 
+retain the text.
+<p>
+Instead of clicking <b>File</b> and <b>Save</b>, one may also hit
+<tt>Alt+S</tt>.
+Something similar holds for most buttons.
+Watch the underlined capital letters on the buttons.
+<p>
+On Mac OS X, the <tt>Command</tt> key must be used instead of the
+<tt>Alt</tt> key for menu items.
+(The <tt>Command</tt> key is the one with the apple and the four-leaf clover
+on it.)
+For buttons, including the buttons
+for opening menus in the menu bar,
+<tt>Alt</tt> (not <tt>Command</tt>) is used irrespective of platform.
+
+<h2>Mode</h2>
+
+Through the <b>Mode</b> button, a number of other buttons become accessible.
+By <b>Undo</b> and <b>Redo</b> one may undo and redo changes to the plain
+text in the upper panel or the hieroglyphic in the lower panel. 
+Editing of hieroglyphic is activated by
+<b>Edit</b>. If there is a normal caret in the upper panel,
+this will be the location of a new fragment of RES. If however
+text in the upper panel is selected using the mouse, 
+then the selected text is processed
+as hieroglyphic, and can then be changed in the lower panel. 
+Text can also be selected using <b>Grab</b>, which tries to identify
+the longest string of RES starting from the current caret position.
+By <b>Jump</b>, the next such string is selected.
+(Short strings of RES may be overlooked by the heuristics used in this
+functionality.)
+Instead of clicking <b>Grab</b> and <b>Edit</b> one may also click the button
+<b>aCcess</b>. Editing of hieroglyphic is discussed further below.
+<p>
+One may leave the editing of hieroglyphic and
+continue editing plain text by <b>Text</b>.
+<p>
+A fragment of hieroglyphic that is being edited can be normalized by
+clicking <b>normaliZe</b>. This replaces compound signs, such as <tt>N19</tt>,
+by individual signs and rotated signs, such as <tt>U6</tt>,
+by non-rotated signs with rotation expressed as argument.
+The result before and after normalization may not be identical, and
+visual verification of the result is recommended. Nevertheless, the
+normalized form is generally preferred.
+<p>
+A fragment of hieroglyphic that is being edited can be flattened by
+clicking <b>fLatten</b>. This puts every sign in a group by itself.
+<p>
+If the focus is a named glyph, then <b>sWap</b> swaps this and the next
+named glyph.
+
+<h2>Settings</h2>
+
+The settings window allows changing the font sizes of the hieroglyphic
+as presented in the lower panel, to be discussed in more detail
+below. 
+<p>
+The settings also include specification of the default direction and
+size in newly created fragments.
+<p>
+Lastly, if the text being edited is an XML file, it is necessary to
+give special treatment to 5 characters (ampersand, apostrophy, double-quote,
+and angled brackets), which are represented as XML entities in the 
+text, and automatically converted where necessary.
+
+<h2>Help</h2>
+
+Opens this subwindow.
+
+<h1>Hieroglyphic editor</h1>
+
+Fragments of RES are manipulated in the bottom panel. This panel
+is subdivided into:
+<ul>
+<li> a small panel in the top-left or top-right corner,
+for direction and size,
+<li> a narrow preview panel and 
+<li> a main tree panel. 
+</ul> 
+The preview panel presents the fragment
+in graphical form.
+The tree panel presents RES in an hierarchical format;
+below compound expressions we find their subexpressions,
+as square nodes connected by edges.
+<p>
+As soon as the RES expression has at least one group,
+one distinguished subexpression will be the 'focus'. 
+The focus is the target of edit operations.
+In the tree panel, the focus is indicated by a blue boundary
+around a node, as opposed to a gray boundary.
+In the preview panel, the group containing the focus is
+indicated by a blue square. The focus can also be the space 
+between two groups.
+<p>
+In the tree panel, the focus can be changed by clicking on a node.
+In the preview panel, the top-most node of a group can be
+made the focus by clicking on that group; one may also click
+on the white space between two groups. 
+In addition, the four arrow keys can be used to move the focus.
+The 'Home' and 'End' keys move the focus to the first group and
+the last group respectively.
+<p>
+A separate window, which we will call the legend, presents properties
+of the subexpression that is the current focus, and the available
+options to change those properties as well as to make 
+structural changes to the fragment. For most kinds of groups,
+there is a preview of the group at the top of the legend, which displays
+properties of a subexpression as they are changed.
+Changed properties have effect in the tree panel and in the preview
+panel upon clicking <b>apply</b> in the legend, or by changing the
+focus. To restore changed properties that have not yet been propagated to
+the tree and preview panels, click <b>restore</b>. The button
+<b>default</b> sets the properties to their defaults.
+
+<h2>Introductory example</h2>
+
+Groups are constructed from the bottom up, and from left to right
+(or right to left, depending on the text direction).
+For example, to construct
+<tt>cartouche(N5-N28:f)</tt>, one first constructs 
+<tt>N5</tt>, which is then placed in a cartouche.
+Thereafter <tt>N28</tt> is added, then the operator '<tt>:</tt>'
+and sign <tt>f</tt>. In terms of mouse clicks and keyboard input
+in the legend, the group can be obtained by the following:
+<ol>
+<li> Click <b>named</b> and fill in 'N5' as name;
+<li> Click <b>box</b>;
+<li> Click <b>-</b> and fill in 'N28' as name;
+<li> Click <b>:</b> and fill in 'f' as name;
+<li> Click <b>apply</b>.
+</ol>
+
+<h2>Changing the structure</h2>
+
+The legend offers a number of options to change the structure of a
+group, from the viewpoint of the element that currently holds the focus. 
+Not all options are available for all kinds of elements. Let us look 
+at the complete range of structural operations:
+<ul>
+<li> <b>named</b> creates a new group consisting of only a named glyph.
+If the current focus is an empty glyph, it is replaced by the named glyph.
+If the current focus is a box, the new group is placed at the beginning of
+the content of the box.
+<li> <b>empty</b> creates a new group consisting of only an empty glyph,
+and behaves similarly to <b>named</b>.
+<li> '<b>.</b>' creates a point glyph, i.e., a special kind of empty glyph, of
+which the width and height are zero. 
+<li> '<b>*</b>' creates a new horizontal group, 
+of which the current focus becomes the first part, 
+and the second part consists of a newly created named glyph,
+which thereupon receives the focus. If however, the current focus is already
+part of a horizontal group, a new named glyph is created after the element of
+the current focus.
+If the current focus is an operator however, 
+then the groups on either side are merged into a horizontal group.
+<li> '<b>:</b>' behaves similarly, for vertical groups.
+<li> '<b>+</b>' and '<b>;</b>' can be used to insert elements
+<em>before</em> the current focus, in a horizontal group
+and vertical group, respectively.
+<li> '<b>^</b>' creates a note attached to the current focus.
+<li> '<b>!</b>' creates a switch. Observe that switches that have no
+parameters may disappear again after a structural change.
+In a box, there is a distinction between a switch at the beginning of the
+contents, and a switch after the box itself; similarly for
+insert, modify and stack.
+<li> '<b>-</b>' creates a new group following the current one.
+<li> <b>box</b> creates a new box, of which the current focus becomes the
+first part.
+<li> <b>modify</b> creates modification, with the current focus
+as the argument.
+<li> Similarly, <b>insert</b> and <b>stack</b> create
+a new element in the structure, of which the current focus becomes the
+first argument.
+If the current focus is an operator however, 
+then the groups on either side become the two arguments of an insert or
+stack.
+<li> <b>delete</b> removes the current element. This may lead to a 
+cascade of further changes to preserve the integrity of the syntax
+of RES. For example, if <tt>B1</tt> is removed from <tt>A1*B1</tt>,
+then the operator '<tt>*</tt>' also needs to be removed, and <tt>A1</tt> is
+left. Because the integrity of the syntax needs to be preserved,
+not all delete actions can be executed. For example, deleting the horizontal
+node in '<tt>modify(A1*B1)</tt>' cannot be allowed.
+</ul>
+
+<h2>Keyboard shortcuts</h2>
+
+Use of the mouse can to a great extent be avoided by keyboard shortcuts.
+Buttons in the legend that change the structure of groups
+can be activated from the main window by keys (or key combinations) such as
+'<tt>*</tt>', '<tt>:</tt>', '<tt>-</tt>', '<tt>^</tt>', '<tt>!</tt>',
+the 'delete' key for <b>delete</b>, 
+'<tt>a</tt>' for <b>apply</b>,
+'<tt>e</tt>' for <b>empty</b>, 
+'<tt>b</tt>' for <b>box</b>, etc. 
+<p>
+In addition, the name of a glyph can be entered from the keyboard, provided
+the relevant field has the focus; the focus can be toggled by <tt>Enter</tt>.
+The same holds for the text of a note.
+Remark that to activate for example <b>empty</b>
+through key '<tt>e</tt>' in the main window, the text field for the name 
+of a glyph should not have the focus. This is not relevant however for 
+activating <b>menu</b> by key '<tt>u</tt>', as the u may never occur in
+the name of a glyph.
+<p>
+It is important to remember that for the keyboard shortcuts to work, 
+the focus has to be in the main window. 
+If the legend holds the focus, you need to click the buttons instead.
+
+<h1>Glyph chooser</h1>
+
+By clicking the tabs at the top of the window, one may view categories of
+signs according to Gardiner's sign list. Three extra tabs show collections
+of signs according to shape. Alternatively, one may navigate through the tabs
+using the left and right arrow keys. The tab <b>Tall</b> may be activated by
+hitting <tt>Alt+T</tt> (or <tt>Command+T</tt> on Mac OS X);
+broad and narrow signs are activated by <tt>Alt+B</tt> (or <tt>Command+B</tt>)
+and <tt>Alt+A</tt> (or <tt>Command+A</tt>). 
+Left-clicking a glyph selects it, and inserts it in the Legend.
+<p>
+Another way of choosing glyphs is by typing the 'Gardiner' name of a glyph 
+on the keyboard. The name typed so far is represented at the top of the
+window. The name is represented in red unless it is a complete valid sign name in
+the known sign list, in which case it is represented in blue.
+The category 'Aa' should be entered as <tt>J</tt>.
+Upon entering the category, the corresponding tab is activated.
+Activation of a tab is avoided if the category is entered in lower-case
+(<tt>j</tt> for 'Aa'). Typed keys can be undone by hitting <tt>Backspace</tt>.
+A glyph is selected by <tt>Enter</tt>.
+<p>
+Information on signs can be obtained by clicking <b>Info</b> and moving the 
+mouse over a sign.
+
+</html>

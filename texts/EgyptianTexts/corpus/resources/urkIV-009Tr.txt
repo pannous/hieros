@@ -1,0 +1,580 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-09-16
+modified = 
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Inscriptions of Ahmose Pen-Nekhbet, following the transcription of
+Sethe (1927), number 9 (pp. 32-39).
+
+For published translations, see Sethe (1914), number 9 (pp. 17-21).
+For B see Breasted (1906), pp. 11-12, § 25; pp. 143-144, § 344. For C
+see Breasted (1906), p. 10, § 20; p. 18, §§ 41-42; p. 35, §§ 84-85; p.
+51, § 124. For D see Breasted (1906), p. 11, §§ 21-24.
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+[...] n-aA<A1>t-n mnx=f Hr-jb [...]
+;
+[...] because he was so pleasing to the heart [...]
+
+n <A2> gm.tw [wn nDs]
+;
+found [...]
+
+<A3> xr Snyt
+;
+<A3> with the courtiers,
+
+Sfaw <A4> kfaw Hr xAst nbt
+;
+who chased <A4> and captured in every foreign land,
+
+tm <A5> tS{t} r nb tAwj Hr prj
+;
+who did not <A5> desert the lord of the Two Lands on the battlefield,
+
+<A6> nb qrst m Hswt nsw
+;
+<A6> owner of a burial by the favour of the king,
+
+jmj-rA xtmt <A7> ^jaH-msjw Dd.tw n=f ^pn-^nxbt
+;
+treasurer <A7> Ahmose, called Pen-Nekhbet.
+
+<B1> [prt m hrw] [...]
+;
+<B1> [Going out during the day] [...]
+
+[dwA ^ra]
+;
+[praising Re,]
+
+[Htp]=f m anx m Axt <B2> [n]t pt
+;
+when he goes to rest on the horizon <B2> of the sky,
+
+sxr [...]
+;
+[...]
+
+m Hb=sn nb n pt n tA
+;
+at their every feast of the heaven and of the earth,
+
+<B3> jn [...]
+;
+<B3> by [...]
+
+[DD tp-rd m]
+;
+[give instruction as]
+
+[Hrj n jmjw-rA]
+;
+[chief of commanders]
+
+mnfyt
+;
+of the infantry,
+
+<B4> rA shrr m tA r Dr=f
+;
+<B4> the mouth that calms in the entire land,
+
+[...] nb
+;
+[...] every [...]
+
+m Sms nsw r nmtt=f m st nbt
+;
+as follower of the king in his strides at every place,
+
+<B5> Hr mw [Hr tA] Hr xAst [rs]t [mHtt]
+;
+<B5> on water, [on land,] in [southern and northern] lands,
+
+[...]
+;
+[...]
+
+[hrrw nb tAwj] <B6> Hr sx[r]w=f
+;
+with whose plans [the lord of the Two Lands is satisfied,]
+
+xrp n [...]
+;
+leader of [...]
+
+Xrt-hrw nt <B7> ra nb
+;
+every day,
+
+pr m xnt
+;
+who leaves the outer chamber
+
+Hr [shrt aSAt] [...]
+;
+[satisfying the company,] [...]
+
+[aq Hr smjt]
+;
+[who enters to report,]
+
+[pr Xr] wDt
+;
+[who leaves under] orders,
+
+<B8> jAwt nbt Xr st-Hr=f
+;
+<B8> every office is under his command,
+
+xtmt-bjtj
+;
+royal seal-keeper,
+
+[kfaw] <B9> qnj
+;
+brave [captor]
+
+n nsw
+;
+for the king,
+
+^jaH-msjw mAa-xrw
+;
+Ahmose, justified,
+
+Dd.n=f ^pn-^nxbt
+;
+called Pen-Nekhbet,
+
+<B10> Dd=f
+;
+<B10> he says:
+
+jw Sms.n=j nsyw bjt<B11>jw
+;
+'I followed kings of Upper Egypt and kings of Lower Egypt,
+
+nTrw xpr.n[=j xr=sn r nmtt]<B12>=sn
+;
+the gods [under whom] I lived, [in] their [strides],
+
+Hr xAst rst mHtt
+;
+in southern and northern lands,
+
+m bw [nb xpr.n]=sn <B13> jm
+;
+in [every place] they [reached],
+
+nsw-bjtj ^nb-pHtj-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Nebpehtire, justified,
+
+nsw-bjtj ^Dsr-kA-^ra [mAa-xrw]
+;
+the king of Upper and Lower Egypt: Djeserkare, [justified,]
+
+nsw-bjtj <B14> ^aA-xpr-kA-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: <B14> Aakheperkare, justified,
+
+nsw-bjtj ^aA-xpr-n-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Aakheperenre, justified,
+
+nfryt-r nTr pn nfr
+;
+until this good god,
+
+nsw-bjtj ^mn-xpr-^ra
+;
+the king of Upper and Lower Egypt: Menkheperre,
+
+<B15> Dj anx Dt
+;
+<B15> given life forever.
+
+pH.n=j jAwt nfrt
+;
+I reached old age
+
+jw=j m <B16> anx n xr nsw,
+;
+while I <B16> lived with the king
+
+jw m Hswt xr Hmw=sn
+;
+and was in the favour from Their Majesties,
+
+<B17> jw mrwt=j m stp-sA a.w.s.
+;
+<B17> and the love of me was in the palace (l.p.h.!).
+
+wHm.n n<B18>=j Hmt-nTr Hswt Hmt-nsw wrt
+;
+The god's wife bestowed on me another favour, the great king's wife,
+
+^mAat-kA-^ra mAa-xrw
+;
+Maatkare, justified:
+
+jw Sd<B19>.n=j sA(t)=s wrt sAt-nsw
+;
+I reared her eldest daughter, the king's daughter
+
+^nfrw-^ra mAa-xrw
+;
+Neferure, justified,
+
+jw=s m <B20> Xrd jmj mnDj
+;
+when she was <B20> a child being breast-fed.
+
+jmj-rA xtmt
+;
+Treasurer,
+
+wHm
+;
+herald
+
+kfa
+;
+and captor
+
+^jaH-msjw Dd.tw ^pn-^nxbt
+;
+Ahmose, called Pen-Nekhbet.'
+
+<C1> jrj-pat HAtj-a
+;
+<C1> Prince-regent and count,
+
+xtmt-bjtj
+;
+royal seal-keeper,
+
+smr watj
+;
+sole companion,
+
+<C2> jmj-rA xtmt
+;
+<C2> treasurer,
+
+wHmw
+;
+herald
+
+kfaw
+;
+and captor
+
+^jaH-msjw Dd.[t]w n=f ^pn-^nxbt mAa-xrw
+;
+Ahmose, called Pen-Nekhbet, justified,
+
+<C3> Dd=f
+;
+<C3> he says:
+
+jw Sms.n(=j)
+;
+'I followed
+
+nsw-bjtj ^nb-pHtj-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Nebpehtire, justified.
+
+kfa=j n=f Hr ^DAhj
+;
+I captured for him in Djahi:
+
+<C4> anx 1 Drt 1
+;
+<C4> one prisoner and one hand.
+
+jw Sms.n(=j)
+;
+I followed
+
+nsw-bjtj ^Dsr-kA-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Djeserkare, justified.
+
+kfa=j n=f m ^kS
+;
+I captured for him in Kush:
+
+<C5> anx 1
+;
+<C5> one prisoner.
+
+wHm jr.n(=j) n
+;
+I did this again for
+
+nsw-bjtj ^Dsr-kA-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Djeserkare, justified.
+
+kfa(=j) n=f Hr mHtj ^jAmw-<C6>^khk
+;
+I captured for him in the north of Iamu-<C6>Kehek:
+
+Drt 3
+;
+three hands.
+
+jw Sms.n(=j)
+;
+I followed
+
+nsw-bjtj ^aA-xpr-kA-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Aakheperkare, justified.
+
+kfa=j n=f m ^kS
+;
+I captured for him in Kush:
+
+<C7> anx 2
+;
+<C7> two prisoners,
+
+Hrw-r sqrw-anx jn=j m ^kS
+;
+excluding the prisoners that I brought from Kush,
+
+n Hsb.n=j st
+;
+which I couldn't count.
+
+<C8> wHm jr.n(=j) n
+;
+<C8> I did this again for
+
+nsw-bjtj ^aA-xpr-kA-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Aakheperkare, justified.
+
+kfa=j n=f Hr xAst nt ^nhr<C9>n
+;
+I captured for him in the land of Naharina:
+
+Drt 21 ssmt 1 wrryt
+;
+21 hands, one horse, one chariot.
+
+jw Sms.n(=j)
+;
+I followed
+
+nsw-bjtj ^aA-xpr-n-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Aakheperenre, justified.
+
+<C10> jnt.n(=j) Hr ^SAsw sqrw-anx aSA wrt
+;
+<C10> What I brought from Shasu were very many prisoners,
+
+n Hsb.n=j st
+;
+which I couldn't count.'
+
+<D1> [jrj-pat HAtj-a] smr watj smr watj
+;
+<D1> Prince-regent, count, sole companion,
+
+s[aA.n] nsw
+;
+whom the king of Upper Egypt elevated,
+
+sjqr[.n] bjtj
+;
+whom the king of Lower Egypt advanced,
+
+<D2> [jr.n nb tAwj] ka[=f]
+;
+<D2> [whose] personality [was shaped by the lord of the Two Lands],
+
+mn mrt m pr-nsw
+;
+always loved in the royal residence,
+
+nb Hswt m stp-sA a.w.s.
+;
+praised in the palace (l.p.h.!),
+
+<D3> [pr r-]HA [Hr shrt] aSAt
+;
+<D3> [who goes] out [satisfying] the company
+
+wHm=f rA [n] bjtj n sAHw=f
+;
+as he reports the words [of] the king to his nobles,
+
+jmj-rA xtmt
+;
+treasurer,
+
+<D4> [wHm]w
+;
+<D4> [herald],
+
+kfaw
+;
+captor,
+
+^jaH-msjw
+;
+Ahmose
+
+Dd.n=f ^pn-^nxbt
+;
+called Pen-Nekhbet,
+
+Dd=f
+;
+he says:
+
+wAH pA-<D5>HqA anx(.w) Dt
+;
+'As the ruler (may he live forever!) endures,
+
+jw n tS=j r nsw Hr prj
+;
+I did not desert the king on the battlefield,
+
+SAa[-m]
+;
+from
+
+<D6> [nsw]-bjtj ^nb-pHtj-^ra mAa-xrw
+;
+<D6> the king of [Upper] and Lower Egypt: Nebpehtire, justified,
+
+nfryt-r
+;
+until
+
+nsw-bjtj ^aA-xpr-n-^ra mAa-xrw
+;
+the king of Upper and Lower Egypt: Aakheperenre, justified.
+
+jw=j m <D7> Hst nt xr nsw nfryt-r
+;
+I was in <D7> the favour of the king until
+
+nsw-bjtj ^mn-xpr-^ra anx(.w) Dt
+;
+the king of Upper and Lower Egypt: Menkheperre (may he live forever!).
+
+rDj.n n(=j) nsw-bjtj ^Dsr-kA-^ra
+;
+The king of Upper and Lower Egypt Djeserkare gave me:
+
+<D8> nbw awaw 2
+;
+<D8> of gold, two rings,
+
+Sbw 2
+;
+two necklaces,
+
+msktw 1
+;
+one bracelet,
+
+bAgsw
+;
+a dagger,
+
+wAH
+;
+a diadem,
+
+mHt
+;
+a fan,
+
+mxtbt
+;
+one armlet.
+
+<D9> rDj.n n(=j) nsw-bjtj ^aA-xpr-kA-^ra
+;
+<D9> The king of Upper and Lower Egypt Aakheperkare gave me:
+
+nbw awaw 4
+;
+of gold, four rings,
+
+Sbw 4
+;
+four necklaces,
+
+msktw 1
+;
+one bracelet,
+
+aff 6
+;
+six flies,
+
+<D10> mAj 3
+;
+<D10> three lions,
+
+nbw jqHw 2
+;
+of gold, two battle axes.
+
+rDj.n n(=j) nsw-bjtj ^aA-xpr-n-^ra
+;
+The king of Upper and Lower Egypt Aakheperenre gave me:
+
+nbw awaw 4
+;
+of gold, four rings,
+
+<D11> Sbw 6
+;
+<D11> six necklaces,
+
+msktw 3
+;
+three bracelets,
+
+mxtbt 1
+;
+one armlet,
+
+HD jqHw 2
+;
+of silver, two battle axes.'

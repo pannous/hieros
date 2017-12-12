@@ -1,0 +1,465 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2006-11-04
+modified = 2009-06-08
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for &quot;The 'poetical' stela of
+Tuthmosis III&quot;, following the transcription of De Buck (1948),
+pp. 53-56.
+
+For an older transcription, see Sethe (1906), number 199 (pp.
+610-619).
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), pp. 262-266, §§
+655-662; Lichtheim (1976), pp. 35-39; Simpson (1972), pp. 285-288
+(covers only the text from 13 up to 23).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+A. De Buck. <i>Egyptian Readingbook</i>. Ares Publishers, Chicago,
+Illinois, 1948.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+M. Lichtheim. <i>Ancient Egyptian Literature -- Volume II: The New
+Kingdom</i>. University of California Press, 1976.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume II</i>. Hinrichs,
+Leipzig, 1906.
+
+W.K. Simpson (editor). <i>The Literature of Ancient Egypt: An
+Anthology of Stories, Instructions, and Poetry</i>. Yale University
+Press, 1972.
+
+###
+
+<1> Dd-mdw jn ^jmn-^ra
+;
+<1> Words said by Amun-Re,
+
+nb ^nswt-tAwj
+;
+lord of the Thrones of the Two Lands:
+
+jj.tj n=j Ha.tj n mA nfr=j
+;
+'May you come to me and rejoice at seeing my beauty,
+
+sA=j nDtj=j ^mn-xpr-^ra anx(.w) Dt
+;
+my son, my avenger, Menkheperre (may he live forever!).
+
+wbn=j n-mrwt=k
+;
+I shine for your sake,
+
+jb=j <2> Aw(.w)
+;
+my heart <2> is glad
+
+m jww=k nfrw r rA-pr=j
+;
+about your beautiful arrival at my temple.
+
+Xnm awj(=j) Haw=k m sA anx
+;
+My hands have endowed your body with protection and life.
+
+nDm.wj jmAt=k r Snbt=j
+;
+How pleasant is your grace to my breast!
+
+smn=j <3> Tw m jwnn=j bjAj=j n=k
+;
+I established <3> you in my sanctuary and I performed wonders for you.
+
+Dj=j n=k qnt nxt r xAswt nbt
+;
+I gave you valour and strength against all foreign lands.
+
+Dj=j bAw=k snDw=k m tAw nbw
+;
+I put your authority and fear of you in all lands,
+
+Hryt=k r Drw <4> sxnwt nt pt
+;
+and dread of you as far as <4> the four supports of heaven.
+
+saAy=j SfSft=k m Xwt nbt
+;
+I increased awe of you in every body.
+
+Dj=j hmhmt Hm=k xt psDt-pDt
+;
+I put the fame of Your Majesty throughout the Nine Bows.
+
+wrw xAswt nbt dmD(.w) m xfa=k
+;
+The princes of all foreign lands are gathered in your grasp,
+
+<5> Awy=j awj=j Ds=j
+;
+<5> I stretched out my own hands
+
+nwH=j n=k st
+;
+and I bound them for you.
+
+dmA=j jwntjw-^stj m Dbaw xAw
+;
+I tied up the Nubian nomads by tens of thousands and thousands,
+
+mHtjw m Hfnw m sqr-anx
+;
+and the northerners by hundreds of thousands of captives.
+
+<6> Dj=j xr rqyw=k Xr Tbtj=k
+;
+<6> I made your enemies fall under your feet
+
+tjtj=k SnTyw XAkw jb
+;
+so that you could crush the contentious and deceitful,
+
+mj wD=j n=k tA m Aw=f wsx=f
+;
+for I entrusted the earth to you, in its length and its breadth,
+
+jmntjw jAbtjw Xr st-Hr=k
+;
+and westerners and easterners are under your command.
+
+<7> xnd=k xAswt nbt
+;
+<7> You trample all foreign lands
+
+jb=k Aw(.w)
+;
+while your heart is glad.
+
+nn wn Hsj sw m hAw Hm=k
+;
+There is no one who dares come near to Your Majesty,
+
+tj wj m sSmy=k
+;
+but while I was your guide
+
+spr=k r=sn
+;
+you attained them.
+
+DA.n=k mw pXr-wr <8> ^nhrn
+;
+You crossed the water of the Euphrates <8> of Naharina,
+
+m nxt m wsr wD.n=j n=k
+;
+with strength and might that I created for you.
+
+sDm=sn hmhmt=k aq m bAbAw
+;
+They heard your battle-cry and hid in holes.
+
+gA.n=j fnDw=sn m TA n anx
+;
+I deprived their noses of the breath of life.
+
+<9> Dj=j nrwt nw Hm=k xt jbw=sn
+;
+<9> I set the dread of Your Majesty in their hearts.
+
+Axt=j jmt tp=k sswn=s st
+;
+My serpent-diadem on your head consumes them,
+
+jr=s js-HAq m nbDw-qd
+;
+it makes easy prey of the evil-minded,
+
+<10> Am=s jmjw nbwt=sn m nswt=s
+;
+<10> it devours the Aegean islanders with its flame,
+
+dn=s tpw aAmw
+;
+it severs the heads of the Asiatics
+
+nn nhw=sn
+;
+and none of them is spared.
+
+xr mss(.w) n sxmw=s
+;
+The enemy staggers because of its might.
+
+<11> Dj=j pXr nxtw=k m tAw nbw
+;
+<11> I let your power pervade all lands.
+
+sHDt tpt m ndt=k
+;
+The light of the uraeus is your protection.
+
+nn xpr bST=k r Snnt pt
+;
+There will be no rebel against you in what heaven surrounds.
+
+jw=sn Xr jnw<note>Read <hi>W24</hi> rather than <hi>F34</hi>.</note>
+Hr psDw=sn
+;
+They come bearing tributes on their backs,
+
+m k<12>sw n Hm=k mj wD=j
+;
+bowing to Your Majesty as I commanded.
+
+Dj=j bdS tkkw jww m hAw=k
+;
+I let the aggressors who come near you become weak,
+
+mAX n jbw=sn Haw=sn sdA(.w)
+;
+with fearful hearts, their bodies trembling.
+
+<13> jj.n=j Dj=j tjtj=k wrw ^DAhj
+;
+<13> I came to let you crush the princes of Palestine,
+
+sS=j st Xr rdwj=k xt xAswt=sn
+;
+spreading them out under your feet throughout their lands,
+
+Dj=j mA=sn Hm=k m nb stwt
+;
+and to let them see Your Majesty as the lord of radiance,
+
+sHD=k m-Hr=sn m snn=j
+;
+while you shine before them in my likeness.
+
+<14> jj.n=j Dj=j tjtj=k jmjw ^sTt
+;
+<14> I came to let you crush those in Asia
+
+sqr=k tpw aAmw nw ^rTnw
+;
+and strike the heads of the Asiatics of Retjenu,
+
+Dj=j mA=sn Hm=k apr(.w) Xkr=k
+;
+and to let them see Your Majesty equipped with your regalia,
+
+Ssp=k Haw aHA Hr wrryt
+;
+while you carry weapons on a chariot.
+
+<15> jj.n=j Dj=j tjtj=k tA jAbtj
+;
+<15> I came to let you crush the eastern land
+
+xnd=k ntjw m ww nw ^tA-nTr
+;
+and trample those in the districts of the God's Land,
+
+Dj=j mA=sn Hm=k mj sSd
+;
+and to let them see Your Majesty as shooting star,
+
+st bs=f m sDt Dj=f jdt=f
+;
+which sheds its flame in fire and emits its fragrance.
+
+<16> jj.n=j Dj=j tjtj=k tA jmntj
+;
+<16> I came to let you crush the western land,
+
+^kftjw ^jsy Xr SfSft=k
+;
+Keftiu and Isy being in awe of you,
+
+Dj=j mA=sn Hm=k m kA rnp
+;
+and to let them see Your Majesty as a young bull,
+
+mn-jb spd abwj n hA.n.tw=f
+;
+stout-hearted, sharp of horns, invincible.
+
+<17> jj.n=j Dj=j tjtj=k jmjw nbwt=sn
+;
+<17> I came to let you crush the Aegean islanders,
+
+tAw nw ^mTn sdA(.w) Xr snD=k
+;
+the lands of Metjen trembling for fear of you,
+
+Dj=j mA=sn Hm=k m dpy
+;
+and to let them see Your Majesty as a crocodile,
+
+nb snDw m mw n tkn.n.tw=f
+;
+lord of fear in the water, unapproachable.
+
+<18> jj.n=j Dj=j tjtj=k jmjw jww Hrjw-jb
+;
+<18> I came to let you crush those on the 'turtle backs',
+
+wAD-wr Xr hmhmt=k
+;
+the sea people hearing your battle-cry,
+
+Dj=j mA=sn Hm=k m nDtj
+;
+and to let them see Your Majesty as avenger,
+
+xaw Hr psDw n smA=f
+;
+appearing on the backs of his victims.
+
+<19> jj.n=j Dj=j tjtj=k ^THnw
+;
+<19> I came to let you crush Libya,
+
+jww wtntjw n sxm bAw=k
+;
+the islands of the people of Wetnet being in the power of your might,
+
+Dj=j mA=sn Hm=k m mAj-HsA
+;
+and to let them see Your Majesty as a wild lion,
+
+jr=k st m XAwt xt jnt=sn
+;
+while you turn them into corpses throughout their valley.
+
+<20> jj.n=j Dj=j tjtj=k pHww tA
+;
+<20> I came to let you crush the boundaries of the world,
+
+Snnt Sn-wr arf(.w) m xfa=k
+;
+what the ocean surrounds being enfolded in your grasp,
+
+Dj=j mA=sn Hm=k m nb dmAt ^Hr
+;
+and to let them see Your Majesty as possessing the wings of Horus,
+
+jT m dggt=f r mrr=f
+;
+who takes what he sees at will.
+
+<21> jj.n=j Dj=j tjtj=k jmjw HAt tA
+;
+<21> I came to let you crush the border people<note>Following
+Lichtheim (1976).</note>
+
+snH=k Hrjw-Sa m sqr-anx
+;
+and fetter the bedouin as captives,
+
+Dj=j mA=sn Hm=k mj sAb Sma
+;
+and to let them see Your Majesty as an Upper Egyptian jackal,
+
+nb gst Hpwtj xns tAwj
+;
+lord of speed, runner, rover of the Two Lands.
+
+<22> jj.n=j Dj=j tjtj=k jwntjw-^stj
+;
+<22> I came to let you crush the Nubian nomads,
+
+r-mn-m ^SAt m Ammt=k
+;
+who are in your grasp as far as Shat,
+
+Dj=j mA=sn Hm=k mj snwj=k
+;
+and to let them see Your Majesty as your two brothers,
+
+dmD.n=j awj=sn n=k m nxt
+;
+whose hands I joined together for you in victory.
+
+<23> sntj=k Dj.n=j sn m sA HA=k
+;
+<23> I placed your two sisters as protection behind you,
+
+awj Hm=j Hr Hr Hr sHr Dwt
+;
+and the arms of My Majesty are raised, warding off evil.
+
+Dj=j xwt=k
+;
+I gave you protection,
+
+sA=j mrr=j ^Hr ^kA-nxt xaj-m-^wAst
+;
+my son, my beloved, Horus, mighty bull who appears in Thebes,
+
+wtT.n=j m [...]
+;
+whom I have begotten in [...]
+
+<24> ^DHwtj-msjw anx(.w) Dt
+;
+<24> Tuthmosis (may he live forever!),
+
+jr n=j mrrt nbt kA=j
+;
+who does for me all that my spirit desires.
+
+saHa.n=k jwnn=j m kAt nHH
+;
+You have erected my sanctuary as a work of eternity,
+
+sAw.w swsx(.w) r pAt xpr
+;
+made longer and wider than before.
+
+sbA wr [...]
+;
+The great gate &quot;[...]
+
+<25> sHb nfrw=f ^jmn-^ra
+;
+<25> his beauty adorns Amun-Re&quot;<note>Uncertain.</note>.
+
+wr mnw=k r nsw nb xpr
+;
+Your monuments are greater than those of any king who has been.
+
+wD.n=j n=k jrt st
+;
+I commanded you to make them,
+
+Htp.kw Hr=s
+;
+and I am satisfied with them.
+
+smn=j Tw Hr st-^Hr n HHw m rnpwt
+;
+I established you on the Horus throne for millions of years,
+
+sSm=k anxw n Dt
+;
+so that you may lead the living forever.'

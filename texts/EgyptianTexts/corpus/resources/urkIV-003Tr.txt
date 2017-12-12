@@ -1,0 +1,43 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2014-04-13
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of text on throw sticks
+of prince Ti, son of king Seqenenre,
+following the transcription of
+Sethe (1927), number 3 (p. 13).
+
+For published translations, see Sethe (1914), number 3 (p. 7).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> sA-^ra ^tA-aA anx(.w) Dt
+;
+<1> Son of Re: Tao (may he live forever!).
+
+<2> sA-nsw ^twjw
+;
+<2> Prince Ti,
+
+Sms nb=f r nmtt=f
+;
+who followed his lord in his strides.
