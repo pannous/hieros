@@ -1,0 +1,85 @@
+Tifinagh
+
+U+2D30  ⴰ    a   ا   æ   ya
+U+2D31  ⴱ   b   ب   b   yab
+U+2D32  ⴲ   b   ٻ   β   yab fricative
+U+2D33  ⴳ   g   گ   ɡ   yag
+U+2D34  ⴴ   g   ڲ   ɣ   yag fricative
+U+2D35  ⴵ   dj  ج   d͡ʒ   Berber Academy yadj
+U+2D36  ⴶ   dj  ج   d͡ʒ   yadj
+U+2D37  ⴷ   d   د   d   yad   Dal
+U+2D38  ⴸ   d   ذ   ð   yad fricative
+U+2D39  ⴹ   ḍ   ض   dˤ  yaḍ (hand)
+U+2D3A  ⴺ   ḍ   ظ   ðˤ  yaḍ fricative (hand)
+U+2D3B  ⴻ   e   ه   ə   yey
+U+2D3C  ⴼ   f   ف   f   yaf
+U+2D3D  ⴽ   k   ک   q   yak  
+U+2D3E  ⴾ   k   ک   k   Tuareg yak
+U+2D3F  ⴿ   q   ک   x   yak fricative
+U+2D40  ⵀ   h b   ھ ب   h b   yah = Tuareg yab (halb!)
+U+2D41  ⵁ   h   ھ   h   Berber Academy yah (halb!)
+U+2D42  ⵂ   h   ھ   h   Tuareg yah
+U+2D43  ⵃ   ḥ   ح   ħ   yaḥ y! hy
+U+2D44  ⵄ   ʕ (ɛ)   ع   ʕ   yaʕ (yaɛ)
+U+2D45  ⵅ   kh (x)  خ   χX   yax
+U+2D46  ⵆ   kh (x)  خ   χ   Tuareg yax
+U+2D47  ⵇ   q   ق   q   yaq vs ⴿ
+U+2D48  ⵈ   q   ق   q   Tuareg yaq
+U+2D49  ⵉ   i   ي   i   yi Y --
+U+2D4A  ⵊ   j   ج   ʒ   yaj I~J
+U+2D4B  ⵋ   j   ج   ʒ   Ahaggar yaj J
+U+2D4C  ⵌ   j   ج   ʒ   Tuareg yaj  井 jǐng
+U+2D4D  ⵍ   l   ل   l   yaL
+U+2D4E  ⵎ   m   م   m   yaM
+U+2D4F  ⵏ   n   ن   n   yaN
+U+2D50  ⵐ   ny  ني  nj  Tuareg yagn egn
+U+2D51  ⵑ   ng  ڭ   ŋ   Tuareg yang
+U+2D52  ⵒ   p   پ   p   yap
+U+2D53  ⵓ   u w   و ۉ   w   yu = Tuareg yaw
+U+2D54  ⵔ   r   ر   r   yar Rad/Rund vs qReis  vs SunⵙRa
+U+2D55  ⵕ   ṛ   ڕ   rˤ  yaṛ R vs QReis
+U+2D56  ⵖ   gh (ɣ)  غ   ɣ   yaɣ ⴳ ⴴ
+U+2D57  ⵗ   gh (ɣ)  غ   ɣ   Tuareg yaɣ
+U+2D58  ⵘ   gh (ɣ) j   غ ج   ɣ ʒ   Aïr yaɣ = Adrar yaj
+U+2D59  ⵙ   s   س   s   yaSun  vs RA
+U+2D5A  ⵚ   ṣ   ص   sˤ  yaṣun
+U+2D5B  ⵛ   sh (š)  ش   ʃ   yaš
+U+2D5C  ⵜ   t   ت   t   yat T!
+U+2D5D  ⵝ   t   ت   θ̱  yat fricative TH vs CH/X! 
+U+2D5E  ⵞ   ch (tš)   تش  t͡ʃ   yatš   TSCH!
+U+2D5F  ⵟ   ṭ   ط   tˤ  yaṭ  Tm
+U+2D60  ⵠ   v   ۋ   v   yav  vs ⴷel!
+U+2D61  ⵡ   w   ۉ   U!   yaw 
+U+2D62  ⵢ   y   ي   j   yay I
+U+2D63  ⵣ   z   ز   z   yaz
+U+2D64  ⵤ   z   ز   z   Tawellemet yaz = Harpoon yaz vs einz! oonc
+U+2D65  ⵥ   ẓ   ژ   zˤ  yaẓ
+U+2D66  ⵦ   e       e   ye (APT)
+U+2D67  ⵧ   o       o   yo (APT)
+U+2D6F   ⵯ  +ʷ  + ٗ   ʷ   Labio-velarization mark = Tamatart  ≈ <super> 2D61
+
+    0   1   2   3   4   5   6   7   8   9   A   B   C   D   E   F
+U+2D3x  ⴰ   ⴱ   ⴲ   ⴳ   ⴴ   ⴵ   ⴶ   ⴷ   ⴸ   ⴹ   ⴺ   ⴻ   ⴼ   ⴽ   ⴾ   ⴿ
+U+2D4x  ⵀ   ⵁ   ⵂ   ⵃ   ⵄ   ⵅ   ⵆ   ⵇ   ⵈ   ⵉ   ⵊ   ⵋ   ⵌ   ⵍ   ⵎ   ⵏ
+U+2D5x  ⵐ   ⵑ   ⵒ   ⵓ   ⵔ   ⵕ   ⵖ   ⵗ   ⵘ   ⵙ   ⵚ   ⵛ   ⵜ   ⵝ   ⵞ   ⵟ
+U+2D6x  ⵠ   ⵡ   ⵢ   ⵣ   ⵤ   ⵥ   ⵦ   ⵧ                 ⵯ
+U+2D7x  ⵰                                 ⵿  
+
+ⵛ | Tifinagh letter yash (U+2D5B) @ Graphemica
+ⵛⴻⵛⵓⵏⴽ = Sosenk Shishaq Sousik
+
+
+Of ancient Libyan (Meshwesh-Berber) ancestry,[2][3][4] Shoshenq I was the son of Nimlot A, Great Chief of the Ma, and his wife Tentshepeh A, a daughter of a Great Chief of the Ma herself.
+
+pursued an aggressive foreign policy in the adjacent territories of the Middle East, towards the end of his reign. This is attested, in part, by the discovery of a statue base bearing his name from the Lebanese city of Byblos, part of a monumental stela from Megiddo bearing his name, and a list of cities in the region comprising Syria, Philistia, Phoenicia, the Negev, and the Kingdom of Israel, among various topographical lists inscribed on the walls of temples of Amun at al-Hibah and Karnak. There is no mention of either an attack nor tribute from Jerusalem, which has led some to suggest that Sheshonk was not the Biblical Shishak. !?!
+
+The fragment of a stela bearing his cartouche from Megiddo has been interpreted as a monument Shoshenq erected there to commemorate his victory.
+
+Shoshenq's Karnak list does not include Jerusalem—his biggest prize according to the Bible. 
+His list focuses on places either north or south of Judah, as if he did not raid the center.
+Maybe too holy to be mentioned??
+Jerusalem was erased from the list over time. Others believe that Rehoboam's tribute to Shoshenq saved the city from destruction 
+
+the first military action outside Egypt formally commemorated for several centuries.!!!
+
+¬ שישק, Tiberian: [ʃiʃaq], Ancient Greek: Σουσακίμ
