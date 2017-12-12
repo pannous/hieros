@@ -1,147 +1,146 @@
-SIGN CANDRABINDU	ँ
-SIGN ANUSVARA	ं
-SIGN VISARGA	ः
-A	अ
-AA	आ
-O	ओ
-I	इ
-U	उ
-II	ई
-UU	ऊ
-VOCALIC R	ऋ
-VOCALIC L	ऌ
-CANDRA E	ऍ
-SHORT E	ऎ
-E	ए
-AI	ऐ
-CANDRA O	ऑ
-SHORT O	ऒ
-O	ओ
-AU	औ
-
-A	अ
-BA	ब
-BHA	भ
-CA	च
-DA	द
-DHA	ध
-DDA	ड
-DDHA	ढ
-E	ए
-FA	फ़
-GA	ग
-GHA	घ
-HA	ह
-I	इ
-JA	ज
-JHA	झ
-KA	क
-KHA	ख
-L	ल vs म M
-LA	ल
-LLA	ळ
-LLLA	ऴ
-MA	म
-NA	न
-NYA	ञ
-NGA	ङ
-OA	ओ
-PA	प
-PHA	फ
-QA	क़
-RA	र
-RRA	ऱ
-SA	स
-SHA	श
-SSA	ष
-U	उ
-VA	व
-ΩM	ॐ <> O ओ
-ZA	ज़
-
-KA	क
-KHA	ख
-GA	ग
-GHA	घ
-NGA	ङ
-CA	च
-CHA	छ
-JA	ज
-JHA	झ
-NYA	ञ
-TTA	ट
-TTHA	ठ
-DDA	ड
-DDHA	ढ
-NNA	ण
-TA	त
-THA	थ
-DA	द
-DHA	ध
-NA	न
-NNNA	ऩ
-PA	प
-PHA	फ
-BA	ब
-BHA	भ
-MA	म
-YA	य
-MA	म
-RA	र
-RRA	ऱ
-LA	ल
-LLA	ळ
-LLLA	ऴ
-VA	व
-SHA	श
-SSA	ष
-SA	स
-HA	ह
-SIGN NUKTA	़
-SIGN AVAGRAHA	ऽ
-VOWEL SIGN AA	ा
-VOWEL SIGN I	ि
-VOWEL SIGN II	ी
-VOWEL SIGN U	ु
-VOWEL SIGN UU	ू
-VOWEL SIGN VOCALIC R	ृ
-VOWEL SIGN VOCALIC RR	ॄ
-VOWEL SIGN CANDRA E	ॅ
-VOWEL SIGN SHORT E	ॆ
-VOWEL SIGN E	े
-VOWEL SIGN AI	ै
-VOWEL SIGN CANDRA O	ॉ
-VOWEL SIGN SHORT O	ॊ
-VOWEL SIGN O	ो
-VOWEL SIGN AU	ौ
-SIGN VIRAMA	्
-OM	ॐ
-STRESS SIGN UDATTA	॑
-STRESS SIGN ANUDATTA	॒
-GRAVE ACCENT	॓
-ACUTE ACCENT	॔
-QA	क़
-ZA	ज़
-FA	फ़
-KHHA	ख़
-GHHA	ग़
-DDDHA	ड़
-RHA	ढ़
-YYA	य़
-VOCALIC RR	ॠ
-VOCALIC LL	ॡ
-VOWEL SIGN VOCALIC L	ॢ
-VOWEL SIGN VOCALIC LL	ॣ
-DANDA	।
-DOUBLE DANDA	॥
-DIGIT ZERO	०0
-DIGIT ONE	१ 1
-DIGIT TWO	२ 2
-DIGIT THREE	३ 3
-DIGIT FOUR	४ 4 vs 8! shi vs Osh♉ ♄ 𓍱 shi/ba
-DIGIT FIVE	५ 5
-DIGIT SIX	६ 6
-DIGIT SEVEN	७ 7!!! ~ arab ٧ 𐤐 7
-DIGIT EIGHT	८ ba! ~ arab 八 ٨ ~ 8 𐋨
-DIGIT NINE	९ 9
-ABBREVIATION SIGN	॰
+ं	SIGN ANUSVARA
+ः	SIGN VISARGA
+अ	A
+आ	AA
+ओ	O
+इ	I
+उ	U
+ई	II
+ऊ	UU
+ऋ	VOCALIC R
+ऌ	VOCALIC L
+ऍ	CANDRA E
+ऎ	SHORT E
+ए	E
+ऐ	AI
+ऑ	CANDRA O
+ऒ	SHORT O
+ओ	O
+औ	AU
+	
+अ	A
+ब	BA
+भ	BHA
+च	CA
+द	DA
+ध	DHA
+ड	DDA
+ढ	DDHA
+ए	E
+फ़	FA
+ग	GA
+घ	GHA
+ह	HA
+इ	I
+ज	JA
+झ	JHA
+क	KA
+ख	KHA
+ल	L vs म M
+ल	LA
+ळ	LLA
+ऴ	LLLA
+म	MA
+न	NA
+ञ	NYA
+ङ	NGA
+ओ	OA
+प	PA
+फ	PHA
+क़	QA
+र	RA
+ऱ	RRA
+स	SA
+श	SHA
+ष	SSA
+उ	U
+व	VA
+ॐ	ΩM <> O ओ
+ज़	ZA
+	
+क	KA
+ख	KHA
+ग	GA
+घ	GHA
+ङ	NGA
+च	CA
+छ	CHA
+ज	JA
+झ	JHA
+ञ	NYA
+ट	TTA
+ठ	TTHA
+ड	DDA
+ढ	DDHA
+ण	NNA
+त	TA
+थ	THA
+द	DA
+ध	DHA
+न	NA
+ऩ	NNNA
+प	PA
+फ	PHA
+ब	BA
+भ	BHA
+म	MA
+य	YA
+म	MA
+र	RA
+ऱ	RRA
+ल	LA
+ळ	LLA
+ऴ	LLLA
+व	VA
+श	SHA
+ष	SSA
+स	SA
+ह	HA
+़	SIGN NUKTA
+ऽ	SIGN AVAGRAHA
+ा	VOWEL SIGN AA
+ि	VOWEL SIGN I
+ी	VOWEL SIGN II
+ु	VOWEL SIGN U
+ू	VOWEL SIGN UU
+ृ	VOWEL SIGN VOCALIC R
+ॄ	VOWEL SIGN VOCALIC RR
+ॅ	VOWEL SIGN CANDRA E
+ॆ	VOWEL SIGN SHORT E
+े	VOWEL SIGN E
+ै	VOWEL SIGN AI
+ॉ	VOWEL SIGN CANDRA O
+ॊ	VOWEL SIGN SHORT O
+ो	VOWEL SIGN O
+ौ	VOWEL SIGN AU
+्	SIGN VIRAMA
+ॐ	OM
+॑	STRESS SIGN UDATTA
+॒	STRESS SIGN ANUDATTA
+॓	GRAVE ACCENT
+॔	ACUTE ACCENT
+क़	QA
+ज़	ZA
+फ़	FA
+ख़	KHHA
+ग़	GHHA
+ड़	DDDHA
+ढ़	RHA
+य़	YYA
+ॠ	VOCALIC RR
+ॡ	VOCALIC LL
+ॢ	VOWEL SIGN VOCALIC L
+ॣ	VOWEL SIGN VOCALIC LL
+।	DANDA
+॥	DOUBLE DANDA
+०	DIGIT ZERO 0
+१ 1	1
+२ 2	2
+३ 3	3
+४ 4	4 vs 8! shi vs Osh♉ ♄ 𓍱 shi/ba
+५ 5	5
+६ 6	6
+७ 7	7 !!! ~ arab ٧ 𐤐 7 
+८ 8	8 ८ ba! ~ arab 八 ٨ ~ 8 𐋨
+९ 9	9
+॰	ABBREVIATION SIGN
