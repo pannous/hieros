@@ -3029,3 +3029,9 @@ TR/CH/G !?!
 豸 (trĩ, trại, chạy, giải, giãi, trải, trãi, trễ, chải, giại, sải)
 
 dom dharm djustice <≠?> Gendarm gens d' armes  ƒ 
+
+word	relation	related	comment	weight	
+fly	-	fliegen
+fly	-	Fliege
+fly	-	Flug
+Flug	-	Fluch	wegen Auguren?
