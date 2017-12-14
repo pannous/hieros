@@ -1123,30 +1123,35 @@ T21 [harp]oon 1    𓌡
 NUMBERS
 ALL align with coptic, most with Beja!
 
-0 cheiro 𓂧 'empty-hand' 𓅓𓐍nuacht=nought,nix 𓎫 mull/null 𓊪 O <> 𓂋/𓎛 1/∞ -> 𓈒𓏸𓇳 solo1:
-1	I		 𓏤 vs 	𓏮 丫yā fork 以​牙
+0 cheiro 𓂧 'empty-hand' zero
+0 𓅓𓐍nuacht = nought, nyx, nix 
+0 𓎫 mull/null 𓊪 O <> 𓂋/𓎛 1/∞ 
+0 𓈒𓏸𓇳 solo vs
+1 mein 𓀀	mon, I, me, my   𓀀 
+1	I		  𓏤  
+1	I		  𓀀
 1 oon   𓌡		T21 [harp]oon  1 𓌠 vs 𓌟  2
 1 on 𓏤				Babel.on𓃀𓃀𓂋𓏤𓈉  Babylon
+1 mon  greek ma' ?
 1 'uhn 𓅱𓂝		lun,sun,moon,noon	: wa'	
 1 oan  𓌠				vs 𓌟  2   wahed@Arab
 1 one  𓏤
-1 mono  𓏤
-1 first  išten@Akkad! ersten
+1 first  išten@Akkad ersten
 2 toe  𓌟			T19 toe,two,thun  𓌟  
 2 toe  𓃅
 2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT -> cn -> snw/ßwn@EGY! son Sohn çun@Albany zwon kin -> Kind … hunuš Av@Iran
 2 duo 𓏮 		 	duan! 𓌢 down = two [𓊃𓈙𓏮𓅹 gynishdu/zhnízdo=nest]
 2 two  𓏮    	<> twinur/twur T22 𓌢 𐠮𐠯@Cypr!  W24 𓏌 Z4A 𓏮   <> zweien   T+𓏮=TWO 𐠰𓏮=𐠱=TU@Cypriot!
-2	DUAł 𓈋 	dual duo dos 2
-2	Shatwom 𓍏	𓈙𓍃  שְׁתַּיִם	sTwomn 𐎘𐎐𐎎  
+2	DVAł 𓈋 	dual duo dos 2 𓈋 <> tal valley
+2	Shatwom 𓍏	𓈙𓍃  שתים	sTwomn 𐎘𐎐𐎎  
 2 twya 亚   ? 丫yā:fork
-2	ta'owm=twin@SEM ++++
+2	twin  ta'owm@SEM
 2	twau 𓈇 		Tau two: dawlant(AR)=state! vs län.DER
 2 Snwi 𓈙𓈖𓅱𓇋	~ zwei 水 shuǐ  šina@Akkat  eth'nen@Arab
-2 min ___ <<  	𒋰𒈫 MIN 门 門 mén
+2 min ___ <<  	𒋰𒈫 MIN 门 門 mén    3 ~ some Samen 8 ~ ach.men 𓎛𓏠𓈖
 3 𓏪 𓏤𓏤𓏤 𓏼 𓏨 S'men	-ismn -isn  some somne ☾☾☾  三 sān <<< 
 3 shamnt 𓐍𓂸𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT <> Ξ ξan san 三!! 100:CENT=3'rd order!! <> kreis pi *xaynz ++-- 
-3 Samen! 𓇡  'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 vs 7,8
+3 Samen! 𓇡  𓊃 'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 vs 7,8
 3 ter 𓇡 vs ger		ganter𓇡,mutter,bruder <> samen 'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗
 3 cird 𓐍𓏏 third ++ ξÿdth 3rd? vs	ξrs	𐎘𐎍𐎘 threes <> shalosh שָׁלֹשׁ
 3 tra   𓈓 			N33a  𓈓 3 DRA Drei Länder 𓇾 tre thre vs Ξ ξan san 三 sān vs Σan shan 山 shān 单 Mithra
