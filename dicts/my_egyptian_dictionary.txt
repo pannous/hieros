@@ -23520,8 +23520,22 @@ vs pantheon?
    burial   𓊭   𓂝  𓊃  𓏏 
    burial   𓊭  𓏏 
 
+   cook   𓊪  𓆑  𓋴  𓊮 
+   cook   𓊪  𓆑  𓊃  𓊮 
+   cook   𓊪  𓋴  𓊮 
+phoic <> phyro
+pheiss pije / főni to cook @HUN
+ooze 
+fez : make??
+
    cook   𓊮 
-phyr
+phyr burn 
+pije / főni to cook @HUN
+cooq = cook @ Latin
+kukku : cook @Jap
+ϫⲉϥϫⲱϥ⳼ ↔ ϫⲟϥϫⲉϥ   to cook
+644 'aphah aw-faw'   a'bake - √cook, especially to bake: bake(-r, (-meats)).
+2281 chabeth khaw-bayth'   ~“chopped”  <- √cook (~4227); something fried, a griddle-cake: pan.
 hhmm : charm <> therm ^^
 
    be warm, hot, have fever, become feverish   𓊮 
@@ -23539,6 +23553,14 @@ Tisch
 table
 alTar ?
 
+
+   𓊵 pardon, peace, please
+*PδPH 𓊵  𓏏  𓊪 ~ pacify
+pacify 𓊵  𓏏  𓊪  𓇋  𓇋  𓀀  𓏪 
+(non-combatants, 'passauf';) ¬suffer)
+<>passive, philosophy? quiet cvt quit cover?
+
+
    be pleased (with), be happy, be gracious (to), pardon (someone), be at peace, peaceful, become calm   𓊵 
 Māte 
 माफी maphy !?!   [mat+pi]
@@ -23554,6 +23576,9 @@ teuta[tes]
    (v. trans.) satisfy, make content, pacify, occupy (throne), rest in (tomb), assume (titulary)   𓊵 
 
    non-combatants   𓊵  𓇋  𓇋  𓏛  𓏥 
+   non-combatants   𓊵  𓏏  𓊪  𓇋  𓇋  𓀀  𓏪 
+pacifists
+
 Thaiter ~ Teuter 
 
    altar   𓊵
@@ -23580,11 +23605,12 @@ Thaiphoon for Ankh
    peace, contentment, good pleasure   𓊵  𓏏  𓊪  𓅱  𓏛  𓏥 
 Thai-Panther
 
+   non- combatants   𓊵  𓏏  𓊪  𓇋  𓇋  𓅱  𓀃  𓏪 
    non-combatants   𓊵  𓏏  𓊪  𓇋  𓇋  𓀀  𓏪 
+pacifists
 Thaip_yer
 Teupyer
 
-   non- combatants   𓊵  𓏏  𓊪  𓇋  𓇋  𓅱  𓀃  𓏪 
    god's offerings, divine offerings   𓊵  𓏏  𓊪  𓊹  𓏐  𓏊  𓏳 
    bundle (of herbs)   𓊵  𓏏  𓊪  𓏏  𓆰 
    bundle (of herbs)   𓊵  𓏏  𓊪  𓏏 
@@ -35319,6 +35345,7 @@ karacho ;)
    be bent (of arm)   𓐍  𓆼  𓄿  𓃀  𓏴 
 kotauer bend=kowtow QED! +++
 cotauer ~ cotyr, kortier, eskortier, ...
+<> KNIE!?!
 
    bend (arm in respect), bow down   𓐍  𓆼  𓄿  𓅓  𓂢 
 kauer prtel?
@@ -38186,3 +38213,9 @@ set one's heart on   D46  𓂧  F34 𓄣  Z1 𓏤  D21 𓂋
 𓂧 'do' cheir:set!
 
    someone   G17 𓅓  G47 𓅷  G1 𓄿  A2 𓀁  F34 𓄣  Z1 𓏤  D21 𓂋 
+
+
+   be bent (of arm)   𓐍  𓆼  𓄿  𓃀  𓏴 
+kotauer bend=kowtow QED! +++
+cotauer ~ cotyr, kortier, eskortier, ...
+<> KNIE!?!
