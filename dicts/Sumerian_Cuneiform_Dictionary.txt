@@ -3,9 +3,9 @@ https://en.wikibooks.org/wiki/Sumerian/Grammar
 .ĝu 	𒈬 	my 	1st sg  ("MuhKuh")
 .zu 	𒍪 	your (s) 	2nd sg	Thou
 .ani 	𒀀𒉌 	his/her 	3rd sg	Ihn
-.bi 	𒁉 	its 	3rd sg inanimate	Bier
-.me 	𒈨 	our 	1st pl animate	!
-.zu.ne.ne 	𒍪𒉈𒉈 	your (p) 	2nd pl
+.bi 	𒁉 	its 	3rd sg inanimate	Bier er bist
+.me 	𒈨 	our 	1st pl animate	! mwe! mir
+.zu.ne.ne 	𒍪𒉈𒉈 	your (p) 	2nd pl  wir zusammene!
 .a.ne.ne 	𒀀𒉈𒉈 	their 	3rd pl
 
 .ĝa [𒂷] - my (1sg sent., gen & loc)
@@ -13,11 +13,33 @@ https://en.wikibooks.org/wiki/Sumerian/Grammar
 .ana [𒀀𒈾] - his/her (3sg sent., gen & loc)
 .bi.a [𒁉𒀀] or .ba - its (3sg non-sent., gen & loc)
 
-ELAMITE:
-  1st person singular: -k ik ich
-  2nd person singular: -t tu Du
-  3rd person singular: -r or Ø  er
-  3rd person plural: -p (plural;)
+
+ELAMITE <> PERSIAN
+  1st person singular: -k ik ich yek 1
+  2nd person singular: -t tu Du duo  2
+  3rd person singular: -r or Ø  er U 3 : se
+  3rd person plural: -p (plural;) -f -ve plebes plenty plural
+
+
+1 𒀸 ASH  "1"  Einz <> dash 𒀹𒀺   ICH <>  yek    <> dili?? d'aLone?
+2 𒋰  (TAB)MIN  "2" TAB:TavaI:2  𒀻  TUG! <> Du    MIN/-men = plural!
+3 𒀼  (Sr)ESH  "3"  SE@Pers  <> Sie
+4 𒇹   LIMMU(n)  "4"    			??	qvt<>li?
+5 𒄿 pIAnJA "5" [I vowel]  <> INJA
+6 𒐋  (s)ASH  "6" 
+7 𒅓  (s)IMIN (5+2) "7"  sipi.min
+8 𒐍  USSU(min)  "8"   (5+3/6+2) ?
+9 𒑆  ILIMMU(n) (5+4) "9"    <> devyni  девять von NEUem / dreh turn = 10 tis‘a 
+10 𒌋  U  "10" W=And nt~Ten~turn!
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\ persian:
+𐏑 66513 𐏑 103D1 NUMBER ONE
+𐏒 66514 𐏒 103D2 NUMBER TWO
+𐏓 66515 𐏓 103D3 NUMBER TEN
+𐏔 66516 𐏔 103D4 NUMBER TWENTY
+𐏕 66517 𐏕 103D5 NUMBER HUNDRED VS Tausend!
+
+
 
 i.men 	I am 	1st sg.
 i.men 	you(sg) are 	2nd sg.
@@ -51,13 +73,13 @@ na. 	Prohibitive, Affirmative	ent-
 bara. 	Vetitive, Negative Affirmative	be- ab-
 ba.		Vetitive, Involvement
 ga. 	Cohortative	con- syn-
-ha. 	Precative, Affirmative	plea ja- echt-
+ha. 	Precative, Affirmative	plea ja- echt- have- hare-
 sa. 	<see below>
 u. 	Prospective	'futur'
 iri. 	<see below>
 nus. 	<see below>
 <none> 	Indicative
-𒄿 i-	y (there)  "finite aspect"  'past' 
+𒄿 i-	y INJA (in there)  "finite aspect"  'past' 
 𒂊 e. Ergative			"The pasta is cooking" (ergative) vs "I'm cooking" (intransitive)
 
 be-

@@ -7,7 +7,7 @@
 
 A:	D42	𓂝𓂣𓄿𓊪	𐤂Armע *דרא!  <> gabϪ,ḫan Pα<>port,fort! अस aṃs ὦμ	D36	𓂝 O(ben) tra/trou/torm!? shand<>scant?scent æœør 
 B:	D58	𓃀	mBein vEIn wain! ƃþėn by	 vs	ƥleɠ.ƥoeđ 𓂾jambone𓄹𓄻<>schien!-ion! pod,ped,feet  ב𓊪 Bethar 𓉐
-B:	X1	𓏏𓏏Breδt  : Brust, Bread, Brot, Brut 𓏏bt! but bitte apt:fit  (B.lasphemie!) <> 𓏏𓏏TiT
+B:	X1	𓏏𓏏Breδt  : Brust, Bread, Brot, Brut 𓏏bt! but bitte apt:fit  (B.lasphemie!) <> 𓏏𓏏TiT 𓏏 TING/DING
 C:	V13	𓍿𓎠𓎡𓋴𓎛	Ceh ⵛkappa teTHer TS/ST! ṣādē 𐤑 gelicpelt (toe:tztho chinese: x +q+ z c? F??) || δu vs χ vs 𓎡 vs 𓊃
 C:	V31	𓎡can chem/char/khema tcu ħu 𓎡𓈖𓎛𓇰 <> chrome,chrys,kyrie
 D:	X1	𓏏 Dhou! Dell/Tell 𓏏𓏏dad=tit vs 𓂧χειρ 
@@ -34,7 +34,7 @@ Q:	N29	𓏘	Quarꜩ	Kuh.erz Ɠum Ger.ste s'quer <> 𓎼𓏘𓌽
 R:	D21	𓂋 eaR arse rot=Mund@Rus ϱρрот round ro/'ài®  الفم 𓌨𓂋𓂋χόνδρ grain green grin grim keRn χοῖρ<> phRho 𓍯 𓂋𓂌𓂍rayns
 R:	D21	𓂋 MRT/LM: aL'Mut : 𓂋𓅱𓅐!!   <> 𓌳𓅱𓃬 LW/MRW 
 S:	S29	𓋴	S ß Γ ʃ δ 𓏏! Ⲋ𓆓 GS: clo.the se' 𓋴 Kissen,cushion,curse𓊭 <> 𓏏 S! < TH < T < D
-T:	X1	𓏏	Tee/Dell/TH~S! BRδeiidt 𐀴 bThi ψ-ϑ! 𓍿tChEi(n) 𐀯 山 (b)Thai  => -ess S <> 𓏏 te(ll) + (t)ell 𓎠 Tal / all 𓎟 vs Tasse 𓎡TC𓍿𓄑C 𐀲 kadd=jug   𓎛𓏏𓏏=Herz(herts) tick𓏴tag𓏵Tag!
+T:	X1	𓏏	Tee/Dell/DING/THING iSm IT EAT! BRδeiidt 𐀴 bThi ψ-ϑ! 𓍿tChEi(n) 𐀯 山 (b)Thai  => -ess S <> 𓏏 te(ll) + (t)ell 𓎠 Tal / all 𓎟 vs Tasse 𓎡TC𓍿𓄑C 𐀲 kadd=jug   𓎛𓏏𓏏=Herz(herts) tick𓏴tag𓏵Tag!
 U:	G43	𓏌𓅱𓍢𓏲	Ων -(n)oun Ü hUhn ωuν 𓅳 hENn 𓍢 hundert 100 و=u ق bun ph ف WUN 𐀸 wound 𓏲 (L)AN(d/t) 鸡 jī cui zhuī 隹 Kücken chicken 
 V:	M17	𓅱 V' Vł!!!  ννν fun!  𓇋𓇋 VY 𓇋	Feather -> ve -> wh 𓇋 	𓅓Mwū乌  stark gepresstes𓄲 '~ł/n
 W:	G43	𓅱𓍢𓏲	ων µω/ωµ 𓎛wHr! wΩm!  hwn M -mos µn Wn HN 'N	𓍢𓏲ϱ <> R!
@@ -269,7 +269,9 @@ D38+ 𓂟	PhR(Th):pre(sent)/port    𓂟  forget
 D39+ 𓂠𓏏𓉐 port 𒁀𒊏𒅈𒋾 𓅓𓂝𓈙𓂋𓃭𓅱𓇶 parther𓃭 partir𓇶 ...
 D39	𓂠 da:rai.chen	~D37/D38   𓅓𓂠𓏏𓁐 Mutter  vs 𓂠𓏏𓉐 𓂟 Porta (sic!)
 D40	𓂡 (TO/DO)-er (!)	 don™ 𓂧𓅱𓂡 djo𓌂sarah 𓋴𓄊𓂋𓂡  ~ A24 𓀜-ER -en  ~ D44 GRP!  <> 𐀸𐀭-faissa 𐀭𐀵-do 𐀺𐀒-vergo
-D41	𓂢 1. 𓎼𓄿𓃀𓂢 ἀγκάλη arc.elbow 𓂢  kaerb™ <> grab ku‘: / kua:joint  <> curve 𓈎𓎛𓂢 quer : elllang𓊋   arm
+D41	𓂢 hND <> gon corn 𓈎𓂝𓎛𓂢𓈇   levant grind end shank
+D41	𓂢 Gav Kaf@Sem! 𓎼  𓄿  𓃀  𓂢 <> geben <> garb <> ἀγκάλη    armpit   𓎛  𓍿  𓍿  𓏏  𓂢 
+D41	𓂢 1. 𓎼𓄿𓃀𓂢 ἀγκάλη arc.elbow 𓂢  kaerb™ <> grab ku‘: / kua:joint  <> curve 𓈎𓎛𓂢 quer : elllang𓊋   arm [hand]
 D41	𓂢 2. ~D42𓂣~𓂝 D/T.elleb / ale ELb[ow] ⛛eder edram <> arm  vs PRACT 𓂢  ~ branch 𓆱  ~ braquer ~ 𓀙 QED (?)
 D42	𓂣 ~D41𓂢~𓂝 DOwn:ACT! [her]ab=>A vs Oben=>dO D36    𓂣   
 D43 𓂤 GuaD Güt(er) Guard Gut.kund(e)?    𓂤
@@ -334,7 +336,8 @@ E21	𓃪 Seth 𓃫𓁣  𓋴𓏏𓈙 <> δath:death(ert) GHades Höllenhund 𓃪
 E22 𓃫 GHades 𓃪 guard (ra)seth @city ağas Zitter sitter    
 E22	𓃬 E23 𓃭 Bivalenz: 𓌳𓅱𓃬 maru Mähn mahu 𒌨𒈤 Mörder nmar!! Narmer™ nomarch 𓄂𓂝𓀀! Nehmer nMaur +++ MaRaw ->
 E22	𓃬 𓃭 #RW roar.ban(do)  𓂋𓅱rw/lph++ Räuber++ Leower  LW lion/löw labiy'=Löwe = אריה aRier!
-E22 𓃬 𓌳 Schirkan™ shirîkhân™+++ sher رش shachats 𓌳𓇋𓎛𓋴𓃬  <<++ QED !!!!!!!! 
+E22 𓃬 𓌳 Schirkan™ shirîkhân™+++ sher shachal رش shachats 𓌳𓇋𓎛𓋴𓃬  <<++ QED !!!!!!!! 
+E22 𓃬 CAT side 𓃭𓏤𓇋𓏏𓂢 vs Levant LePanther <> 
 E24	𓃮 'Phantier panther panter al'eoPhant	leopard fangTier hunTier
 E25	𓃯 ipher : hippo NilPferd ivory E26	𓃰 ElEphant 'pi@PERS! el'Vieh? alba 𓍋Ypi? <> 𓃯 ipher : hippo << Kiefer-Tier𓆭𓄒Jaw.guar high-fahrn-- hieben- 𓍋 hiefen- helfen'tier
 E27 𓃱 GIR.affe S29: Γroß 𓋴𓂋 quer grow G+R=GIR! 𓃱 guerre! QED 
@@ -658,9 +661,10 @@ O7 	𓉘𓉛 𓉘𓉜 𓉚𓉝 𓉙𓉝  Cut 𓉘T  𓉘uart ḫyλƭ<2>halft �
 O8	𓉞  hutt  𓉟  
 O9  𓉠 Allhüt <> Alice?  Nob+hyt:Nephthys 	<> Neptun?  Naiphshütt+  Νέφθυς <> 𓉠Ia.nefair++ "nursing-mother" of Horus (vs Isis)
 O10 𓉡 Hüthar=>Hathor 𓃿𓃾𓋧 <> 𓏣 zitter Sister Istar Esther <> Braut … 𓃙 ?
-O11	𓉥 bolt?=>palace     𓉥 <> pipe/pile <<
+O11	𓉥 bolt?=>palace 𓉥 <> pipe/pile <<
 O13 𓉧 heim(at)     𓉧
-O18 𓉬 Kadi:court [shrine, TING?]    𓉬
+
+O18 𓉬 Kadi:court Kari carry Krippe 𓂓𓂋𓇋𓉬    𓉬 Pult cRipit  𓍿𓊪𓏏𓉬 c-p-t Sänfte sin-pod?
 O22 𓉲 KN know nous noema 'ναό counsel cir.coūn  Zeit(𓉲𓇳chron*समय) <> 𓐠 knauf,gneiss
 O22 𓉲 feast/fest    𓉲   => W3 Feier 4! 
 O23	𓉳 frogger feast     𓉳 <<
@@ -678,6 +682,7 @@ O35	𓊄 zieh, sair, ziara 𓎁 <> nazuhan mesziah marschier ++ المشي  牵�
 O35	𓊄 zend/sent/ascend/sond/scan[dier] 𓊃𓈖𓏕  𓊄𓇋𓇋 ziehn/走zǒu/行xíng/程chéng 𓈖𓅓𓂝 
 O36	𓊅 bau/ba     𓊅  door  <> dorm/dome 𓊆 wall 𓊇𓊇𓊇 limit 
 O37 𓊊 (cross)bar 𓊊=>)36    
+O38	𓊋 GAM.ma : GON GENUS KNIECKE GON ~ CRN  <> BeuGe 𓃀𓏲𓊋 bow bend
 O38	𓊋 CRN/CRT 𓊋 angle.bent.corn γων  <> 𓀄  Ecke 𐀁𐀐 = wall  ang 𓊋𓆓𓄓𓄏 𓌚 𓌙 ן an N vs on,os,us ς~𓍢𓏲𐀸و
 O39	𓊌 SToNe 𓊌  <> 𓈙 N37 !!!  石​shí -> 知zhī,识shí(knowst𓈙) qairn <> kennen
 O40	𓊍 STR stair, satrap    𓊍 VS O41 𓊎  => ST Q1 𓊨 V33 𓎤 STR stare, string, …  <> T12 𓌗
@@ -906,7 +911,8 @@ V22 𓎔 NAυ.vy North™ 𓎔𓎛𓏏𓇇 papyr 𓎔𓎛𓈗𓋴𓀭 crown 𓋔
 V23 𓎕 na.Vyλ: Phy Phλ Flasche/Flegel(whip)/pysh 𓎔𓏏𓆛𓏥 𓎕  flax/flood 𓎖 V23a   Fla𓎔!𓄞scheD (F30) | flaggela 
 V24+𓎗	(scr)weavt reef(t) writ 𓎗 white #wD word <> T4 𓌉 , V25 𓎘 script (w)rith:rise/rein <> mwød 𓌃
 V26	𓎙 edge,adj  𓂝𓆓𓎚𓈇    𓎙   V27 𓎚  
-V28	𓎛 Her hair wHr whirl | curl!  𓎛  coil,crawl,…
+V28	𓎛 Her hair wHr whirl | cHurn curl!  𓎛  coil,crawl,…  zwirbel quirl wring dwr drw
+V28	𓎛 dHr dreh Dw 𓎛   𓂝  𓅱  𓂢  𓀀  𓏥   Dwarv <> cHurn turn
 V29	𓎝 whirl! WaiH(t) 𓎝 (wix,wäch,wicht,weg:a'weigh,wuch,wig𓎛) | 𓎝 KoRO(n) <> N28 𓈍crown/chrom 𓆭YAmnt:charmant 
 V30	𓎟 (vtk)all 𓎟 𓍿𓎡𓎟 Kuhlen kol~har 𓋞Nub כולם cuwk 𓍿𓎠	Tal vs tell 𓈍crowmn total/ταῦτα(this)/ταὐτό(self)/tout/djug?
 V31	𓎡 𓎢 k/c/ca/tca/tha/ta  𓎡 𓎢
