@@ -166,12 +166,13 @@ aġu buttermilk
 aşud; axna buttocks
 abra button
 ibratn buttons
-su udar by foot	
-by means of :	as 
-as irġnan by necessity	
-iġf nsn; iwadu nsn by themselves
-mas by what : im'was? ma? ma'os
-xs km/ky by yourself
+su udar : by foot	
+by means of :	as  ++
+as irġnan : by necessity	as urgent ++
+iġf nsn; iwadu nsn by themselves  ? one-selfn-
+MAS by what : im'was? ma? ma'os
+xs km/ky by yourself : as cylf-
+
 cactus	aqanaray; tazart n
 cactus	irummin
 cakes	l'gatu
@@ -179,15 +180,16 @@ calandar	l'yawmiya
 calf (cow)	Ta‫ع‬jliyt
 
 ceiling* sqf 
-cement	sima
-cemetary	l'qbur; tamdint	
-census	l'iHşa
-centipede		dad nuašal
+cement	sima++
+cemetary	l'qbur; tamdint	 << kbury++ EG
+census	l'iHşa[n.sus]
+centipede		dad nuašal <<<
 ceremony, baby naming	sib‫ع‬ ??
 
 
-comedian baqšiš
+comedian baqšiš <> Pers
 common hare	tawtult
+
 FFF
 	Commune	
 	community group	l'jama‫ع‬a
@@ -247,7 +249,7 @@ daughter, mine	illi
 daughter-in-law	tislit
 dawn	l'fjr
 
-day	as ⵙ SoLaRa !!!
+day	: AS ⵙ SoLaRa !!! dAS <> dAG
 
 day after tomorrow	nafuska; nif uska; nik waska
 
@@ -255,18 +257,18 @@ December	dujanbir; šar tnaš +++
 
 defense (soccer)	ddif‫ع‬ defen' +++
 
-delicious	yaţfut; taţfut ~ tastefu' ++++
+delicious	yaţfut; taţfut ~ tastefu' ++++ --
 
-democracy ddimuqratia 
+democracy ddimuqratia ++
 
-desert	sHra +++ de Saharat (fem.)
+desert	sHra +++ de'Saharat (fem.)
 
 design, colorful	
 developing nations		dduwal nnamiya ;) ++++
-development	tanmia
+development	tanmia <> tun
 
 devil	š-šitan; ljjn  Satan, al'Jin ++
-devils	ljjnun
+devils	ljjnun  Jinnen (n plural DE ok)
 
 devilish	  devil numia/manner (Geist) ++++
 
