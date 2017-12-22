@@ -1,1 +1,1 @@
-dictionaries/my_egyptian_dictionary.txt
+dicts/my_egyptian_dictionary.txt
