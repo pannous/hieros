@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<text description="hiero; eng; translit">
-<primary language="eng" name="Ebers Papyrus, calendar"/>
-<collection kind="books" collect="Urkunden der 18. Dynastie"
-    section="13"/>
-<collection kind="kings" collect="Amenophis I"/>
-<resource location="../resources/urkIV-013Hi.xml"/>
-<resource location="../resources/urkIV-013Tr.txt"/>
-</text>

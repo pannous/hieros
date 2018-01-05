@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<precedence
-  created="2015-01-25"
-  modified="2015-01-25">
-<prec1 id1="0" id2="52"/>
-<prec2 id1="52" id2="0"/>
-</precedence>
