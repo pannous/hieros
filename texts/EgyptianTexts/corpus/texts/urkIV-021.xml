@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<text description="hiero; eng; translit">
-<primary language="eng" name="Ineni, biography on a second stela"/>
-<collection kind="books" collect="Urkunden der 18. Dynastie"
-    section="21"/>
-<resource location="../resources/urkIV-021Hi.xml"/>
-<resource location="../resources/urkIV-021Tr.txt"/>
-</text>
