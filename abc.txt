@@ -27,7 +27,7 @@ L:	Z5 𓏯 L λ<-Y 𓇋𓇋 𓇌  << D15 𓂅 Locke 𓏲? 𓂢 Elle niL𓈖𓄓�
 L:  N35 𓈖 𓄓𓋴 langue, lanze, lick, lap ﻝ
 M:	𓅓 Musen 𒈪 𓐝𓊗𓐍𓐍𓎡𓎡Galle μa μη 𓀁moiμ𓅱 mwn 𐀖 µ vs ν   Mut:𓂋𓅱𓅐  
 M:	U1 𓈗𓌳 Marinaus 𐀔𐀪𐀚	Mast 𓄱 Mwa.δer Meer.sea/syl 𓈗 mēmn máyim 𐤌 𓀁moiμ𓅱? 𒉡 HNMWU : hnm inημwu 𓁹 𒊩 MUNUS woman whomb Ω <> Maur 𓌻 𓍅 𓄠~Mess… 𓅓 
-N:	N35	μν mNwave 𓈖	نهرnahr! nāru nWa' nyλ NiL	NAUtik 𓈖𓏤=fish! ןነ𐤍נ nūn 𒈾 NAr.mer mean.der 牛 niú 鸟 μνoi niǎo 𒈾 NA 那 nà ɲ~ŋ
+N:	N35	𓈖 μν Menes mNwave 𓈖	نهرnahr! nāru nWa' nyλ NiL	NAUtik 𓈖𓏤=fish! ןነ𐤍נ nūn 𒈾 NAr.mer mean.der 牛 niú 鸟 μνoi niǎo 𒈾 NA 那 nà ɲ~ŋ
 O:	Q3	𓊪 𓉔 V4	 vs	𓂝 D36 Oben 	禸肉⺼R vs 𓂋 Rachen?    O < 𓊪 < OI,AI,EI, phOi/chOu ! 
 Po:	Q3	𓊪 	Phoo Ⲡ𓊪𓏲בP! ἀπο- vuO who fö(nix/dest/l) 𐦈 old: Khou 口! π 𒉺𐠞 匹 pǐ 𐠡𐀡Po Ⳁro PAN,VAN,BAN  𐀃 O
 Q:	N29	𓏘	Quarꜩ	Kuh.erz Ɠum Ger.ste s'quer <> 𓎼𓏘𓌽
@@ -42,8 +42,7 @@ X:	Z9	𓏴	End X	𓏵  𐄂 χ	Ξ ξ 𐠷=KS ✓ ☑ 𓍲  vs 𓍿 𓊃 δ  <> �
 Y:	Z4	𓏭	𓏮	𓇌  𓇋 𓇋 𓆄𓆄 vY->λ! 丫yā:fork ¨ double yodh y~u~w! T+𓏮=TWO!亚II 	义 Yìustice  羽 yǔstice 𓏮 2y 𐀂Y Jodh
 Z:	O34	𓊃 ʒ,Z,Σ,ß,ss,ts,c,δ chain zähn ZU-SAM' ∑ 𓊃𓏤=someone synδεσμ=bond	ζώνη zone szamma tsamad: join +++  𓎛𓆰𓈖con'nect…
  союз:sayus zusam'sym syn ham com connect δji 计 气 qì 带 dài 的 dì ziel… 𓅷|𓅠 Chyn/Féin HHAZAMA:TIE
- ζώνη zone(belt) 带 dài 代 气 qì ji ZSM ZSN 𓊄 𓊃 牵​qiān… -> 𓆓𓆑 𓍿 𓋸 𓋭 𓇪 卐 vs zer 艹 cai qí 一齐	及 jí 既 jì 且 qiě  与 yǔ
- 𓋉 Khmn comme ,,,  𓊃Sesóchris!
+ ζώνη zone(belt) = cammabund! 带 dài 代 气 qì ji ZSM ZSN 𓊄 𓊃 牵​qiān… -> 𓆓𓆑 𓍿 𓋸 𓋭 𓇪 卐 vs zer 艹 cai qí 一齐	及 jí 既 jì 且 qiě  与 yǔ  𓋉 Khmn comme ,,,  𓊃Sesóchris! 
 
 Extra:           
 G1	   	𓄿 ﻝﺍ(V )Air,flyer!,vol𓄛,al'phαir,fair,Voir,oi,Whai,Wa,Aar,aa,ahr,er G1air 𓄿𓎛FL!
@@ -591,7 +590,7 @@ M40X 𓇪 FACION 𓇪   卜 bǔ  confess  latin -bulum -bula
 M41 𓇫
 M42	𓇬  SEN ~ E34 HA.SE[N] 4 SIN vs SAN !
 M43	𓇭 orch[ard]   ten? <<<<    𓇭 != W17 𓏃 W18 𓏅  
-M44	𓇮 3 thorn dorn / DhRai / TRI / TAI 𓇮 vs 	DAI/DAR/DON->tun 𓏙  𓏚  X8 <> 𓄋 𓄏 𓆑 𐇩 𐦜 𐂠 𒋛
+M44	𓇮 3 thorn dorn / DhRai / TRI / TAI 𓇮 vs 	DAI/DAR/DON->tun 𓏙  𓏚 ΔⲆDδ X8 <> 𓄋 𓄏 𓆑 𐇩 𐦜 𐂠 𒋛
 M44 𓇮 SpießHorn / Cophta?~covert~'Sopd'~ceptra~spitz~sPIKa    𓇮 spi' vs pile 𓇤
 
 N Indra noster + Natur pfade vs Moor@M
@@ -733,7 +732,7 @@ R8	𓊹 GOD 𓄤𓊹 nTr/Natur𓇓/AN.dru/In.dra/IN.RI ㊥ incense=𓋴𓊹𓍿�
 R8	𓊹 𒀭Nature 𓈖𓏏𓊖 = 𓈖𓇑𓇑𓏏𓇳 𓈖𓂋𓏏𓅐 Mother Natura νulture ν:Ν~N -> Na𓊹Ture 𓊹 Theo->dio->IO fittra=nature:nVitra+++
 R8	𓊹 P/AN𒀭 Ensi𓊹𓄹𓄹𓄹=king  sun/moon disk 片 piàn = yuan 元 1.st 全 1 wán 完 1 WÀN 卍 MAN 卐 many 万 wàn pan 普 
 R8	𓊹𓍛 tIO-Hannes! Unas Jonatharn 𓊹  𓏏𓆇 Thei 
-R9  𓊺 al'xndr : Alexander  QED
+R9  𓊺 al'xndr : Alexander nTr : Natron Natrium QED  bNaDr𓈒 𓃀   𓂧  𓊺  𓈒  𓏥  <> PNTR 𓊹 
 R8  𓊹 PTR/PNTR: god's father 𓊹𓏏 πατήρ.θε(ος)=Vater/parder/panther/panTr QED vs Matheia ㊥ Center
 R10	𓊼  𓊻 Kurie inquire?     𓊼  𓊻   quarrier (mason) => R50/A21
 R11	𓊽𐤎 (S)Djed Turm/Dur!  stele STEDT 'Tat/tois'@greek! stetig steady 𓊽 => F41 𓊽=> pesd.iert ~ Post.Grat=>GRAL! F37 => posTure!  9 Gods = Pesedjet 
@@ -1179,11 +1178,15 @@ ALL align with coptic, most with Beja!
 7 ßevHen 𓊃𓆑𓐍𓅱𓏮𓏮𓏥 seven "sankt 7"?		 sebe@Akkad   <> 𓋴𓆑𓐍sevHe:Kurzform  
 7 sphere:7stars?  𓋴𓃀𓄿𓇼𓇳 7?  saban=night@pers  𓋴𓃀𓃀 sebb=serve/school sevene <> spine?!
 7 Toth s'Ibis 𓅞		Thoth=Thepth? 𓇼𓏮 5+2 = 6+1=si+en=7  1/7=𓊏S'Pn sieben,span  
-8 oshn 𓍵?				𓋴|𓋴? 	greek:oxta 
-8	Ogdoad	𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓇋𓇋𓅱𓀭𓏪 !		vs Ennead 9
+7 семой semaine семь sevn <>
+8 восьмой bos vox OX bos <> 八 bā
+8  oсьмой  𓎛𓏠𓈖𓅱  Ashmunein الأشمونين‎‎ Ϣⲙⲟⲩⲛⲉⲓⲛ @ coptic
+8  OX.many 𓎛𓏠𓈖𓅱   𓎛 as CH/X <> flax 𓎔𓂝𓎛𓏯  docht 𓎛 8
+8 oshn 𓍵?				𓋴|𓋴? 	greek:oxta  Ogdoad	𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓇋𓇋𓅱𓀭𓏪 !	 (Greek ογδοάς "the eightfold")	vs Ennead 9
 8 oshamana #Hmnw !! 𓎛𓏠𓈖𓅱? 	Akkadian 'samānā shamanu tmanya  8-menno @ coptic  minor? vs  3 𓇡 Samen 'EŠ'𓐍𓂸𓏏 vs 7
 8 Has'many 𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏌𓊖 = 𓃹𓏌𓊖 + 𓏠𓈖𓂝[𓊖]!  Ḫmnw : Ashmunein الأشمونين‎‎ Ϣⲙⲟⲩⲛⲉⲓⲛ   ÀŠ (6) 𒐋+ MIN(2)𒋰𒈫 sASH
-8 hast.emen ~ acht.iemen @PERS!
+8 hast.men ~ acht.iemen  hasht هشت  @PERS!  + men=plural 门 門 mén
+
 9 neun 𓇸 = naun 𓈖 𓈗 anew 𓌳 neu 9! Ennead(9Gods) <> pvasser: duan 2*5 𓇽 = 10 ? 𓇷 Anubis? <> 
 9 #psD(w) 𓊪𓋴𓆓 Poseidon ψ coptic ⲮⲒⲤ  fish phthiδ phthis𓆑snake! <> Akkadian tiše, Arabic “tisa” aššadhig Hydra~sHindra
 9 #psD	𓊽𐤎 Pesedjet F37 => posTure Dura Turm 
