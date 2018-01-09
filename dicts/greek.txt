@@ -5873,6 +5873,21 @@ sἑllėnιsτi    sἑllenisti
 1718 ἐμφανίζ   make visible, report against, appear before
 ἐmphαnic    emphanic voiνίζ <> nvis.ible
 
+ἄχος n. “ fear, pain, grief “
+ache angst an.goose 𓅾𓀁 angaia 𓈖𓅐𓂝
+
+ἄχνυμαι, ἄχομαι “ grieving, sorrowing, mourning “ (Aor. ἥκαχε, ἠκαχόμην, perf. ἀκάχημαι),
+ἀχεύων, ἀχέων “ mourning, groaning “, 
+ἀκαχίζω ‘sadden”; here probably 
+ἄχθος “ load, grief “ (* ἀχτος), thereof 
+ἀχθεσθαι “ to be loaded, be depressed “.
+
+Maybe nasalized Alb. (* aghos ) ankth “fear”  ANGST an.goose angaia 𓈖𓅐𓂝
+O.E. ege m. “fear”,  fear, respect   𓅾  𓀁   fear, dread, disturbance   𓈖  𓅐   𓂝  unMut   ++ DE
+
+egisi-grima gl. “ ghost, spectre, evil spirit “, n. es - stem * agiz = Gk.
+ἄχος “get a fright”;
+
 1719 ἔμφοβ.ος   full of fear, terrified
 ἔmphοbic    in.phοbie in.fearbus
 
@@ -7320,6 +7335,11 @@ euonυmic    eu.o.nymos <<
 
 2184 ἐφήμερ.ος   for the day, daily
 ἐphėmεric    ephemeros
+merin,mero?? <> mintra : maintenent ???
+
+2522 καθημερινής  - daily
+kathimerinís
+
 
 2185 ἐφικνέο      come to, reach as far as
 ἐphικnøīο    epi.knee`
@@ -8422,8 +8442,13 @@ KATHA = Down kata kato katha cat=set-down (on as?) cut-down
 2521 κάθη      sit down, am seated
 κάthė    kathe  cat=sit <> kata=down
 
+
+2522 καθημερινής  - daily
+kathimerinís
+
 2522 καθημερινός       daily
 καthėmεrιnic    kathemerinos
+<> ephemeros
 
 2524 καθίη	let down
 καthiė    kathie ®
@@ -9055,7 +9080,7 @@ pour (water)   F29 𓄝  X1 𓏏  M17 𓇋  M17 𓇋  N35A 𓈗
 κατøīnαnτι    kate.n.anti
 
 2714 κατενώπιον   before the face of
-κατεnoƥιοn    katen.opiοn
+κατεnoƥιοn    kat.eno.piοn under.one.face
 
 2715 κατεξουσιάζ   have power over
 κατεxουsιάc    katexοysias
@@ -9198,15 +9223,15 @@ krauma	<> chrome = 'glanz'  krämer=grocer ? Kram ƒ [huckster der Höker]
 
 
 2756 κενός       empty, vain, hollow
-κεnic    kenos ®™? <> kanne,can <> keines scenicƒ
+κεnic    kenos ®™? <> KEIN,kanne,can <> keines scenicƒ
 2758 κενό   empty, deprive of content, make unreal
 κεno    keno <> kein -- <> xeno?
 
 2754 κενοδοξία vainglory, empty pride
-κεnοδοxiα    keinο.dοxia
+κεnοδοxiα    keine.dοxia
 
 2755 κενόδοξας   vainglorious
-κεnoδοxας    keinο.dοxas
+κεnoδοxας    keine.dοxas
 
 2757 κενοφωνία empty disputing, worthless bab.ble
 κεnοphoniα    keinο.phonia
@@ -11059,25 +11084,26 @@ mιsthoτic    misthotos
 Μιchαėl    michael
 
 3414 μνᾶ, ᾶς a mina
-mnᾶ    mna
-
-3415 μνάο      remember, recollect
-mnάο    mna`
+mnᾶ    mina
 
 3416 Μνάσων, ων.ος     Mnason
 Μnάson    mnason
+
+3420 μνήμη ς memory, remembrance, mention
+mnėmė    mneme ~~ ++
+
+3415 μνάο      remember, recollect
+mnάο    mna`  re-m.mn.a   mneme +-+
+mnάο	  nao : know <> gnost! ++
+
+3419 μνημεῖον   a tomb, sepulcher
+mnėmεjοn    mnemejοn ~ monument +++
 
 3417 μνεία remembrance, recollection
 mnεiα    mneia
 
 3418 μνῆμα   a tomb, monument
-mnimα    mnima
-
-3419 μνημεῖον   a tomb, sepulcher
-mnėmεjοn    mnemejοn
-
-3420 μνήμη ς memory, remembrance, mention
-mnėmė    mneme
+mnimα    mnima ~ monument
 
 3421 μνημονεύ   remember, make mention of
 mnėmοnεύ    mnemοneu
@@ -18958,9 +18984,27 @@ Myriade µ Mile-Horden => Sha Ш  山 shān Scheich   nomen Nummero # Un.ge.Ziff
 八 	bā 
 九 	jiǔ
 
-ϊ ϋ ό ύ ώ ϐ 
-
  	十 	shí
+
+
+Lacedaemon Σπάρτα / Λακεδαίμων 900s–192 BC
+Sparta (Doric Greek: Σπάρτα, Spártā; Attic Greek: Σπάρτη, Spártē) was a prominent city-state in ancient Greece. In antiquity the city-state was known as Lacedaemon (Λακεδαίμων, Lakedaímōn), 
+Lambda was used by the Spartan army as a symbol of Lacedaemon
+
+Bible mentions translator only once: Joseph pretending to be Egyption
+
+Canaanites Phoinicinoi	Phönizier
+Gergahites Graikos Greeks!
+Hittites Skydai "Scots/Skythians!"
+Hivites?? Achaioi	Achaer?
+Amorites Kimmerioi << kAmber !!
+Jebusites? Boiwtoi <<
+Perizzites Phrygoi	Phyrgier?
+Caphtorim Kyprioi ++	Cyper
+Phillistines Pelasgoi Palestiner
+"Patriarchs"!! <<   highest-ranking bishops πατριάρχης
+Hebrew Habiru 'Eber' 
+
 
 431 ἀνεψιός       a cousin
 a'nεpsιic    a'neψiό nephew
@@ -18986,23 +19030,66 @@ Save changes to image.txt before closing?
 σπυρας צפיע dung		זבל zpl tspiy sprüh?  δέμασ δομή dung! domen <> blood/corpse?
 galal <> Gülle
 
-Lacedaemon Σπάρτα / Λακεδαίμων 900s–192 BC
-Sparta (Doric Greek: Σπάρτα, Spártā; Attic Greek: Σπάρτη, Spártē) was a prominent city-state in ancient Greece. In antiquity the city-state was known as Lacedaemon (Λακεδαίμων, Lakedaímōn), 
-Lambda was used by the Spartan army as a symbol of Lacedaemon
+δήμος m (dímos, “municipality, the people”)
+	<?>  rames <> domes di.men[schen]   anDromes roman=human
+δῆμος (dêmos) Das Volk™
+δημώδης
+		di'mundi?
+    demotic, vernacular
+        στη δημώδη γλώσσα ― sti dimódi glóssa ― in the demotic language
+    folk
+        τα δημώδη άσματα ― ta dimódi ásmata ― folk songs (summata,z-m-a)
 
-Bible mentions translator only once: Joseph pretending to be Egyption
+με [me] - with
+πάροδο [párodo] - over << !! <> road,rad?
+παρουσίαζαν [parousíazan] ~ present !!!!! par.essiaζαν[t]   𓅓𓊃𓅭!   𓅱𓂧𓈖𓏏𓆻 
+άλλαζαν  allo.zan altern[ate] !!  állazan - they! were changing
+επειδή [epeidí] - because , as, since, inasmuch, whereas, seeing that, eVideont!! << a-be-so! = because epi.denn
+ásmata songs (summata,z-m-a) << <3
 
-Canaanites Phoinicinoi	Phönizier
-Gergahites Graikos Greeks!
-Hittites Skydai "Scots/Skythians!"
-Hivites?? Achaioi	Achaer?
-Amorites Kimmerioi << kAmber !!
-Jebusites? Boiwtoi <<
-Perizzites Phrygoi	Phyrgier?
-Caphtorim Kyprioi ++	Cyper
-Phillistines Pelasgoi Palestiner
-"Patriarchs"!! <<   highest-ranking bishops πατριάρχης
-Hebrew Habiru 'Eber' 
+των d'von den ~ der:their
+του d'ou  von wo
+του d'ov  of, DE
+
+συχνά [sychná] - often ?
+δηλαδή [diladí] - that is, example, for example, namely, to wit, viz, videlicet, scilicet, id est
+δῆλά δη (dêlá dē) δῆλος (dῆlos, “visible, manifest”) + δή (dí, “truly, exactly, SO!”).
+ήταν [ítan] - it was, were <> it ein, estan, etre
+που [pou] - WOu: where, when, which, 'who', wo ! ++ <> bei
+περίπου ~ περί : about, circa
+ενώ [enó] unite / ein[-die-weil]:gleichsam:while
+αποκαλεί 1. *call 2. appelle ++
+καθ.ημερινής  [kath.imer.inís] - daily, immer!, merines? meridian? quoti.dian  
+χρόνων [chrónon] - years !! <> age! chron<>sun,cyr.on
+χρήσης [chrísis] - use!
+κείμενα [keímena] - texts 1. common  2. khem:black
+επιστολ epistol - letter  <> über.stellen ++ pistol;)
+για [gia] - "via!" : for, about, to, on, unto, about to +++
+περιορισμένη [peri.oris.méni] - limited, narrow, finite, confined, limitation, restrictive << όριο :
+όριο órion BOUND 
+αιωνόβια [aionóvia] - aeonen / ancient / centuries !
+μνημεία [mnimeía] - monuments !
+στις  sotis AT.as
+στην  sotin IN, TO, zum, sein
+στους [stous] - zu/to/as
+από την  ab den : from, since (temporal)
+από την  of den : from (causal)
+επιτρεπόταν [epitrepótan] - was allowed
+ιερείς [iereís] - priests 'hieros' ++
+λαϊκή laike~LEUTE lakaien
+ή i and/or
+η e and/or
+χρησιμο ποιήθηκε [chrisimo poiíthike] - was used
+σύ στημα  system
+διάστημα diastem ~ space
+ανάγνωση [anágnosi] - read, underStand!! <3  <> analyse
+δύσκολη dys'kole : difficult ++ <3
+
+και η ιερατική γραφή επιτρεπόταν μόνο στους ιερείς. - 
+and priestly writing was allowed only to the priests.
+
+η δημώδης γραφή ήταν δύσκολη στην ανάγνωση, επειδή τα γράμματα άλλαζαν με την πάροδο του χρόνου και συχνά παρουσίαζαν μεγάλη ομοιότητα μεταξύ τους. - 
+the writing was difficult to read because the letters changed over time and often displayed great similarity to each other.
 
 Α Ἄ Ἅ Ἀ Ά  
 Ε Ε Ἑ Ἕ Ἐ Ἐ ἘΚ Ἔ Έ 
@@ -19019,6 +19106,7 @@ O O ΟΙ O Ό Ό Ὁ Ὀ Ὄ
 o o οι o ό ό ὁ ὀ ὄ ò
 ω ω ὠ ὡ ῶ ὦ ὥ ᾠ
 ὐ υ ύ ὔ ῦ
+ϊ ϋ ό ύ ώ ϐ 
 
 Έ Ή Ί Ό Ύ Ώ ΐ ϑ ϒ ϓ ϔ ϕ ϖ ϗ Ϛ ϛ Ϝ => ϝ Ϟ ϟ Ϡ ϡ Ϣ ϰ ϱ ϲ ϳ
 Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Ω Π Ρ Σ  Τ Υ Φ Χ Ψ Ϊ Ϋ ά έ ή ί ΰ 
