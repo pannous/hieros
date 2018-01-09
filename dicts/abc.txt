@@ -5,7 +5,7 @@
 
 𓁷𓂋𓏏𓇯 	Airden, garten Eden Erden, Afrisir Oberer officer Aryer 𓁷𓂋𓇯𓊋 <<<<<<<<< cepa afa af ob 
 
-A:	D42	𓂝𓂣𓄿𓊪	𐤂Armע *דרא!  <> gabϪ,ḫan Pα<>port,fort! अस aṃs ὦμ	D36	𓂝 O(ben) tra/trou/torm!? shand<>scant?scent æœør 
+A:	D42	𓂝𓄿𓊪	𐤂Armע *דרא!  <> gabϪ,ḫan Pα<>port,fort! अस aṃs ὦμ	D36	𓂝 O(ben) tra/trou/torm!? shand<>scant?scent æœør 𓂣
 B:	D58	𓃀	mBein vEIn wain! ƃþėn by	 vs	ƥleɠ.ƥoeđ 𓂾jambone𓄹𓄻<>schien!-ion! pod,ped,feet  ב𓊪 Bethar 𓉐
 B:	X1	𓏏𓏏Breδt  : Brust, Bread, Brot, Brut 𓏏bt! but bitte apt:fit  (B.lasphemie!) <> 𓏏𓏏TiT 𓏏 TING/DING
 C:	V13	𓍿𓎠𓎡𓋴𓎛	Ceh ⵛkappa teTHer TS/ST! ṣādē 𐤑 gelicpelt (toe:tztho chinese: x +q+ z c? F??) || δu vs χ vs 𓎡 vs 𓊃
@@ -62,7 +62,7 @@ Aa1     𓐍 Na.Ӄyr !  𓐍𓏮  𓐪𓂧𓂂𓏛 𓎡  ¿Qué pasa tu?    ES!!
 Aa1     𓐍 Nwi Nuit NaIξ: 𓐍𓅓 𓐍𓐍 neck  𓅱𓐍 mooNa / luNa !!?    
 Aa1     𓐍 ballacK:block 𓐍 blue-black = 𓐍𓋴𓃀𓂧𓈒𓏥 kaspian=lapiz! kala.ore=color:kala ghoul.heure 𓐍𓅓mnoon ball=throw
 Aa1     𓐍 THR: throw, δrei ~ three 3!, ξrei!=χrei *xayn tchrei!=kreis 𓐍   𓅓 Schrei/Greif/Tchirp!!
-Aa1     𓐍 prefix  𓐍  ek => ex- !? nuacht
+Aa1     𓐍 prefix  𓐍  ek => ex- !? nuacht vs 𓊖
 V28   	𓎛	H µH,mH,wHr/Mer!?! H,her,hair,har,kHer,flaX       		:V28    𓎛  <> Han,Can,Kan 𓎛𓎸𓈖 con [syn]
 V28B   	𓎛	Lunte: lu,li,'und,'un,hu	       	:V28    𓎛  Synthese: LutHer𓎛 Herlun <> herum Heller?  Hier.Long?
 H6		𓆄	VaShur Weather feaTher Westen𓋀 waste𓋆 <> Phother βß	𓊹𓆄  	vs M17 𓇋 fEther ≠ 𓋛𓋂𓋃𓋄east 𓋛 Shuti fashion  
@@ -472,7 +472,7 @@ H2+	𓆀 cor(moron)    𓆀	beak pan 𓆁
 H4	𓆂 niǎo 鸟 𓈖𓇋𓅱𓅦  !!!!! niaor-vogel<>phobie:φοβέ,θορυβέ[dis]thοrybie  U15  𓍃
 H4	𓆂n*r* fear,folk Necker,Neger? 𓆂  Riten?  𓆂𓅦  ostrich Asterix Optherix
 H4	𓆂 nTr:ἔnτrο.ma <> trauma, tremble << ??
-H5  (Flederner)Flüg(el)    𓆃  ~ N58  𓆃  oPTHer <> feather
+H5  𓆃 swings 𓆓𓈖𓎛𓆃  <> 𓆄 (Flederner)Flüg(el)    𓆃  ~ N58  𓆃  oPTHer <> feather
 H6	(Fea)Shu(r) / Ju.stice    𓆄   =>S/Sei/Shei S36 sha(de) 
 H6A    𓆅      <> Schutz <> Suez Suiss?   R14 V17
 H7  SA? CRA?    𓆆
