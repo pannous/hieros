@@ -1,15 +1,15 @@
 fs=require("fs")
-require('/me/dev/script/javascript/extensions.js')()
+require("./extensions.js")()
 // path="./gardiner.tsv"
-dictionary="../my_egyptian_dictionary.txt"
+dictionary="my_egyptian_dictionary.txt"
 require("./gardiner_map.js")
 console.log(Gardiner_Map['N']);
 console.log(Gardiner_Map['KOPP']);
 
 lines=[]
 gardiners=[]
-// gardiners_tsv="/me/Documents/studies/uruk_egypt/gardiner.csv"
-gardiners_tsv="/data/Documents/uruk_egypt/gardiner.csv"
+// gardiners_tsv="/me/Documents/uruk_egypt/gardiner.csv"
+gardiners_tsv="gardiner.csv"
 
 loadVocab=function () {
 	lines=fs.readFileSync(dictionary).toString().split('\n')

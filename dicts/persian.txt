@@ -31,6 +31,17 @@ https://en.wiktionary.org/wiki/Category:peo:Countries
 https://en.wiktionary.org/wiki/Category:Old_Persian_nouns
 https://en.wiktionary.org/wiki/Category:Old_Persian_lemmas
 
+Zero 	sefro صفر ۰
+One 	yek یک ١
+Two 	do دو ۲
+Three 	s'e سه ۳
+Four 	chāhār چهار ۴
+Five 	panj پنج ۵
+Six 	shesh شش ۶
+Seven 	shaft هفت ۷
+Eight 	hacht هشت ۸
+Nine 	nohn نه ۹
+Ten 	dahn ده ۱۰
 
 
 -ag [-)k' I M      N -ti]	-ed suffix forming agent nouns from present stems.

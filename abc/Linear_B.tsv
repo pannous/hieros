@@ -1,6 +1,6 @@
-𐁂	AU
-𐂊	SAU
-𐂋	ESAU
+𐁂	AU das Schwein hog pig pork
+𐂊	SAU die Sau sow sod gilt
+𐂋	ESAU der Eber boar pig
 
 𐀀	a
 𐀁	e
@@ -16,22 +16,20 @@
 𐁀	A2
 𐁁	A3
 𐁂	AU
-𐁃	DWE
-𐁄	DWO
+𐁃	DWE vs 𐀒koqu 
+𐁄	DWO DEVU
 𐁅	NWA
 𐁇	PTE
 𐁆	PU2
 𐁈	RA2
-𐁉	RA3
-𐁊	RO2
-𐁋	TA2
-𐁌	TWE
-𐁍	TWO
+𐁉	RA3 𐁙𐁉KFR?
+𐁊	RO2 row?
+𐁋	TA2 tower?
+𐁌	TWE TIT/TBI?
+𐁍	TWO tower?
 
 
 
-𐁐	*18
-𐁑	*19
 𐁒	*22
 𐁓	*34
 𐁓'	*35
@@ -44,21 +42,25 @@
 𐁘	*64
 𐀎	JU
 𐀎	*65
-𐁙	ZU
+𐁙	ZU KFR? geZiefer
 𐁙	*79
-𐁚	SWA
+𐁚	SWA SW! Swain 22?
 𐁚	*82
 𐁛	*83
 𐁜	*86
 𐁝	*89
 
 
+
 𐂀	*100
 𐂀	MAN
 𐂀	VIR
+𐁑	*19
 𐂁	*102
 𐂁	MUL
 𐂁	WOMAN
+𐁐	*18
+
 𐂂	*104
 𐂂	DEER
 𐂃	EQUID
@@ -100,7 +102,7 @@
 d
 𐀅	da
 𐀆	de
-𐀇	di
+𐀇	di terr?
 𐀈	do
 𐀉	du
 𐀂	hi
@@ -108,11 +110,11 @@ d
 𐀂	y
 𐀋	hie
 𐀋	ie
-𐀋	ia
-𐀁	he
+𐀋	ia justic
+𐀁	he heap
 
 j
-𐀊	ia
+𐀊	ia eye
 𐀊	ja
 𐀊	aj
 𐀊	ai
@@ -121,13 +123,13 @@ j
 𐀍	as
 𐀍	os
 
-𐀏	ka
+𐀏	ka kar
 𐀐	ke
 𐀑	ki
-𐀒	ko
+𐀒	ko quo 'cock' ;)
 𐀓	ku
 
-𐀔	ma
+𐀔	ma ma!
 𐀕	me
 𐀖	mi
 𐀗	mo
@@ -156,8 +158,7 @@ j
 𐀞	pl
 𐀞	πy
 𐀟	pe
-𐀠	pi
-𐀠	pile
+𐀠	pi pile
 𐀠	pt
 𐀡	po
 𐀡	pho
@@ -168,10 +169,8 @@ j
 𐀷	PO
 
 𐀣	pa2
-𐀣	qa
-𐀣	qu
-𐀣	qua
-𐀒	ko
+𐀣	qua qu
+𐀒	ko qou
 𐀒	CePhal
 𐀤	qe
 𐀤	pe4
@@ -259,7 +258,7 @@ j
 𐁊	*68
 𐁋	tya
 𐁋	*66
-𐁌	twe
+𐁌	twe  tbi? tits?
 𐁌	*87
 𐁍	two
 𐁍	*91
@@ -276,7 +275,7 @@ Units	of	Measurement
 𐂐	OLIV
 𐂐	OLIVE
 𐀛	*30
-𐀛	FIGS
+𐀛	FIGS Fixx ;)
 𐀛	FICUS
 𐀎	*65
 𐀎	FARINA
@@ -359,7 +358,7 @@ cyperus	*124
 𐃬	*213	
 𐃬	LANX
 𐃬	ALL
-𐃬	COOKING	BOWL
+𐃬	COOKING	BOWL <>jug cup ...
 𐃄	*220
 𐃄	scamnum
 𐃄	FOOTSTOOL
@@ -394,7 +393,7 @@ cyperus	*124
 𐃍	CUR
 𐃍	currus
 𐃍	WHEEL-LESS	CHARIOT
-𐃎	*242
+𐃎	*242  qvar : car/CHARIOT
 𐃎	CAPS
 𐃎	capsus
 𐃎	CHARIOT	FRAME
