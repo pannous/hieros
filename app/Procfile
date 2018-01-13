@@ -1,0 +1,1 @@
+web: node vocab.js
