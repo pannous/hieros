@@ -1,3 +1,4 @@
 [submodule "wikis"]
 	path = docs
-	url = git@github.com:pannous/hieros.wiki.git
+	url = https://github.com/pannous/hieros.wiki.git
+#	url = git@github.com:pannous/hieros.wiki.git
