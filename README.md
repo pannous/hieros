@@ -10,3 +10,9 @@ https://pannous.github.io/hieros/
 [[test.md]]
 [test.md]
 [ok](test.md)
+a
+![](https://www.kraken.com/img/facade/monitor.png)
+b
+![[https://www.kraken.com/img/facade/monitor.png]]
+c
+![https://www.kraken.com/img/facade/monitor.png]
