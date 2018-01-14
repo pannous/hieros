@@ -9,6 +9,7 @@
     "start": "node ./vocab.js"
   },
   "dependencies": {
+<<<<<<< Updated upstream
     "body-parser": "",
     "cookie-parser": "",
     "debug": "",
