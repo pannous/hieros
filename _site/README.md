@@ -1,162 +1,79 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=640">
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=f6ba2af2e3f543f3096bab15ce68dd0ca3991ae6" media="screen">
-    <link rel="stylesheet" href="/assets/css/mobile.css" media="handheld, only screen and (max-device-width:640px)">
-    <link rel="stylesheet" href="/assets/css/non-screen.css" media="handheld, only screen and (max-device-width:640px)">
-
-    <script type="text/javascript" src="/assets/js/modernizr.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="/assets/js/headsmart.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function () {
-        $('#main_content').headsmart()
-      })
-    </script>
-
-<!-- Begin Jekyll SEO tag v2.3.0 -->
-<title>hieros | human origins</title>
-<meta property="og:title" content="hieros" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="human origins" />
-<meta property="og:description" content="human origins" />
-<meta property="og:site_name" content="hieros" />
-<script type="application/ld+json">
-{"name":null,"description":"human origins","author":null,"@type":"WebPage","url":"/Home.html","publisher":null,"image":null,"headline":"hieros","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-
-  <body>
-    <a id="forkme_banner" href="http://github.com/pannous/hieros">View on GitHub</a>
-    <div class="shell">
-
-      <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <h1>hieros</h1>
-            <h2>human origins</h2>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-      </header>
-
-      
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      
-
-
-      <span class="banner-fix"></span>
-
-
-      <section id="main_content">
-        <p><strong>Traces of Old Egyptian in Eurasian languages</strong></p>
-
-<p>To linguists in the 19th centuries it came as a revelation when they discovered that the old Persian and Sanscrit words for family members were virtually identical to <a href="PIE">European</a> variants:</p>
-
-<p>𐎶𐎠𐎫𐎠			MaTa 	mother  <a href="𓅓">𓅓</a><a href="𓅱">𓅱</a><a href="𓏏">𓏏</a><a href="𓅐">𓅐</a><br />
-𐎱𐎡𐎫𐎠			PiTa	father  <a href="𓇋">𓇋</a>𓏏𓆑𓀀 <br />
-𐎲𐎼𐎠𐎫𐎠		BraTa	brother  <a href="𓌢">𓌢</a>𓈖𓀀  twin,kin<a href="Genesis">𓅸</a><br />
-*𐎯𐎧𐎬𐎠		Duxtar	daughter <a href="𓅭">𓅭</a><a href="𓏏">𓏏</a>  <br />
-𐎱𐎢𐏂			Pučun   puer/son <a href="𓅭">𓅭</a>⇔<a href="𓇳">𓇳</a><br />
-( 𐎶 = M, 𐎠 = A, 𐎫 = T, 𐎠 = A,   𐎲 = B … e.t.c. )</p>
-
-<p>Even now, 2500 years after Persians hammered those words into stone, the Iranian(Farsi) words are almost identical, surviving an Arabian conquest and millenia of separation, but reinforced by international relationships and intermarriages:<br />
-پدر 	pedar 	father(formal)<br />
-بابا 	bâbâ 	father<br />
-مادر 	mâdar 	mother(formal)<br />
-مامان 	mâmân 	mother<br />
-پسر 	pesar 	son<br />
-دختر 	doxtar 	daughter</p>
-
-<p>This (re)discovery lead to well established theories of <a href="PIE">proto-indoeuropean</a> expansions. Here we investigate the relationship between these <a href="https://www.academia.edu/14001057/Kurgan_Copper_Revolution">pioneers</a> and the Pharaonic Egyptian language and culture.</p>
-
-<p>The roots of the Persian language came via the region of Elam with its capital Susa on the eastern border of Sumeria. Strikingly the cultural artefacts of Egypt and Susa were nearly identical:</p>
-
-<p><img src="/susa-egypt.png" alt="susa-egypt.png" /><br />
-Near identical building plans of the early temples and very similar early Egyptian and Sumerian <a href="Hieros gamos">ceremonies</a> clearly demonstrate that these are not mere trade-artefacts, but in fact proof of a common anchestry of both higher civilizations.<br />
-Some context of this urbanization can be explored in the paper the <a href="https://www.academia.edu/14001057/Kurgan_Copper_Revolution">Kurgan Copper Revolution</a>.<br />
-Only recently has the <a href="https://en.wikipedia.org/wiki/Maykop_culture">Maykop culture</a> been redated to begin at 4000BC. As it contains more gold and artefacts from Uruk(!) than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Especially as it connects our <a href="PIE">European roots</a> with the two great civilizations of Mesopotamia and Egypt. Their <a href="https://en.wikipedia.org/wiki/Kurgan">kurgan</a> mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, <a href="https://en.wikipedia.org/wiki/Tepe_Sialk">Iranian</a> and <a href="https://de.wikipedia.org/wiki/Caral">Peruvian pyramids</a>, which appeared some thousand years later. Central to this revolution were a bag of inventions, including <em>metallurgy</em>, proto-<em>writing</em>, <em>«kingship»</em> and the <em>sail</em> boat, which became a cult object in the <a href="https://en.wikipedia.org/wiki/Ubaid_period">Ubaid period</a> -3800BC.</p>
-
-<p><img src="https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png" alt="https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png" /><br />
-In 5000BC the danube <a href="https://en.wikipedia.org/wiki/Vin%C4%8Da_culture">Vinča civilization</a> pioneered advanced copper technology, in 4200BC the <a href="https://en.wikipedia.org/wiki/Varna_culture">Varna</a> hordes contain more gold artefacts than all other sites of that time combined. By that standard the <a href="https://www.academia.edu/14001057/Kurgan_Copper_Revolution">Kurgan Copper Revolution</a> reached Egypt quite late, though one of its watermark: industrial brewing and cast copper can be found as early as 3700BC.</p>
-
-<p>Varna King, Romania ~4000BC<br />
-<img src="https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png" alt="https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png" /></p>
-
-<p>Here we investigate how deeply the roots go and how the <a href="PIE">system</a>, its <a href="cosmos">cosmology</a> and language are intertwined with our own:</p>
-
-<p>Remember the persian words for mother and father?<br />
-Here are the Egyptian variants:</p>
-
-<p><a href="𓅓">𓅓</a><a href="𓅱">𓅱</a><a href="𓏏">𓏏</a><a href="𓅐">𓅐</a> Muta Gaia / Mother Nature <a href="𓈖">𓈖</a><a href="𓏏">𓏏</a><a href="𓂋">𓂋</a><a href="𓏯">𓏯</a><a href="𓅐">𓅐</a><br />
-<a href="𓊪">𓊪</a><a href="𓏏">𓏏</a><a href="𓇯">𓇯</a>𓀭 Pethair Sky Father <a href="𓇋">𓇋</a>𓏏𓆑𓀀 *feathav</p>
-
-<p>The Egyptian Hieroglyphic writing system  started as a syllabary<a href="https://en.wikipedia.org/wiki/Syllabary">➾</a> but soon converged to a rather small set of frequent signs&amp;sounds plus «determinants» (like <a href="𓈉">𓈉</a> for land).</p>
-
-<p>Babylon is written <a href="𓃀">𓃀</a><a href="𓃀">𓃀</a><a href="𓂋">𓂋</a><a href="𓏤">𓏤</a><a href="𓈉">𓈉</a> B.b.l.<a href="numbers">1</a>(𓈉land)<br />
-‘L’ 𓂋 «lense» «el’lips» actually is normally read as <br />
-‘R’ 𓂋 «rot» = «mouth» in Russian</p>
-
-<p>Barbarion or not, the Egyptian letter ‘b’ <a href="𓃀">𓃀</a> looks almost like a flipped modern ‘b’ in writing (both writing directions were common initially). The word ‘𓃀’ itself is cognate with <a href="PIE">european</a> variants: Bein, Pod, foot, la pierna: lab’ vs leg(𓃀~L) …</p>
-
-<p>Every single letter in this “<a href="Alphabet">Alphabet</a>” of Egyptian hieroglyphs left a tremendous linguistic footprint on most surrounding and quite distant extinct and extant languages!</p>
-
-<p>But other icons are highly recognizable as well:<br />
-<a href="𓃟">𓃟</a> Shu.wn <a href="𓆄">𓆄</a><a href="𓅱">𓅱</a> swine<br />
-<a href="𓆣">𓆣</a> K-ph-r-r <a href="𓐍">𓐍</a><a href="𓊪">𓊪</a><a href="𓂋">𓂋</a>𓂋𓆣  Käfer beetle<br />
-<a href="𓆤">𓆤</a> Horned Beetles <a href="𓃀">𓃀</a><a href="𓇋">𓇋</a><a href="𓇋">𓇋</a><a href="𓏏">𓏏</a> bees<br />
-<a href="𓄛">𓄜</a> Tier deer <br />
-<a href="𓂓">𓂓</a>𓂓 kwerKar work<br />
-<a href="𓂜">𓂜</a><a href="𓈖">𓈖</a> None, mano, no, nay!<br />
-<a href="𓊖">𓊖</a> Court (city quarters)<br />
-<a href="𓇳">𓇳</a> soRay 🌞	<br />
-<a href="𓊛">𓊛</a> Shiphonit <br />
-<a href="𓌵">𓌵</a> Mvoyer<br />
-<a href="𓋬">𓋬</a> MatheMathei<a href="𓆇">𓆇</a><br />
-<a href="𓄟">𓄟</a> Mes mnais Moses<br />
-<a href="𓄣">𓄣</a> Heart<br />
-<a href="𓉡">𓉡</a> Hathor = <a href="𓉗">𓉗</a>hut+<a href="𓅃">𓅃</a>hor Hüter of Herds <a href="𓉔">𓉔</a><a href="𓄿">𓄿</a><a href="𓂋">𓂋</a><a href="𓏏">𓏏</a><a href="𓄛">𓄜</a><a href="𓏥">𓏥</a> <a href="𓃒">𓃒</a><br />
-<a href="𓅭">𓅭</a>𓏏 could be … duckter</p>
-
-<p>This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several <a href="https://www.google.de/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&amp;url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&amp;usg=AOvVaw0RUWGKPhtGirffrH_29yU6">papers</a> on the subject. In fact this connection was much more widely spread before the second world war, which partly explains why it has been a taboo since then. Another reason were the undeniable strong connections to Semitic languages; this however is not a contradiction:</p>
-
-<p>Egyptian had a big influence on Semitic, African <em>and</em> European languages.</p>
-
-<p>The most important sign of early urbanizers was probably <br />
-<img src="https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png" alt="https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png" /><br />
-1.KRad<a href="𓐍">𓐍</a> (wheel)<br />
-2.soRay<a href="𓇳">𓇳</a> (solar wheel / sun)<br />
-3.court<a href="𓊖">𓊖</a>city <br />
-4.quarter<a href="𓊖">𓊖</a>  𓆑𓂧𓅱:ЧⲦⲞⲞⲨ:four see <a href="numbers">numbers</a> and <a href="cosmos">cosmos</a></p>
-
-      </section>
-
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            
-              <p>this project by <a href="http://github.com/pannous">pannous</a> can be found on <a href="http://github.com/pannous/hieros">GitHub</a></p>
-            
-            
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
-      </footer>
-
-    </div>
-
-    
-  </body>
-</html>
+*Traces of Old Egyptian in Eurasian languages*  
+  
+To linguists in the 19th centuries it came as a revelation when they discovered that the old Persian and Sanscrit words for family members were virtually identical to [European](PIE) variants:  
+  
+𐎶𐎠𐎫𐎠			MaTa 	mother  [𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐)  
+𐎱𐎡𐎫𐎠			PiTa	father  [𓇋](𓇋)𓏏𓆑𓀀   
+𐎲𐎼𐎠𐎫𐎠		BraTa	brother  [𓌢](𓌢)𓈖𓀀  twin,kin[𓅸](Genesis)  
+*𐎯𐎧𐎬𐎠		Duxtar	daughter [𓅭](𓅭)[𓏏](𓏏)    
+𐎱𐎢𐏂			Pučun   puer/son [𓅭](𓅭)⇔[𓇳](𓇳)  
+( 𐎶 = M, 𐎠 = A, 𐎫 = T, 𐎠 = A,   𐎲 = B … e.t.c. )  
+  
+Even now, 2500 years after Persians hammered those words into stone, the Iranian(Farsi) words are almost identical, surviving an Arabian conquest and millenia of separation, but reinforced by international relationships and intermarriages:  
+پدر 	pedar 	father(formal)  
+بابا 	bâbâ 	father  
+مادر 	mâdar 	mother(formal)  
+مامان 	mâmân 	mother  
+پسر 	pesar 	son  
+دختر 	doxtar 	daughter  
+  
+This (re)discovery lead to well established theories of [proto-indoeuropean](PIE) expansions. Here we investigate the relationship between these [pioneers](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) and the Pharaonic Egyptian language and culture.  
+  
+The roots of the Persian language came via the region of Elam with its capital Susa on the eastern border of Sumeria. Strikingly the cultural artefacts of Egypt and Susa were nearly identical:  
+  
+![susa-egypt.png](susa-egypt.png)  
+Near identical building plans of the early temples and very similar early Egyptian and Sumerian [ceremonies](Hieros gamos) clearly demonstrate that these are not mere trade-artefacts, but in fact proof of a common anchestry of both higher civilizations.  
+Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution).  
+Only recently has the [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin at 4000BC. As it contains more gold and artefacts from Uruk(!) than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Especially as it connects our [European roots](PIE) with the two great civilizations of Mesopotamia and Egypt. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, proto-*writing*, *«kingship»* and the *sail* boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) -3800BC.   
+  
+![https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png](https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png)  
+In 5000BC the danube [Vinča civilization](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture) pioneered advanced copper technology, in 4200BC the [Varna](https://en.wikipedia.org/wiki/Varna_culture) hordes contain more gold artefacts than all other sites of that time combined. By that standard the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt quite late, though one of its watermark: industrial brewing and cast copper can be found as early as 3700BC.  
+  
+Varna King, Romania ~4000BC  
+![https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png](https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png)  
+  
+Here we investigate how deeply the roots go and how the [system](PIE), its [cosmology](cosmos) and language are intertwined with our own:  
+  
+Remember the persian words for mother and father?  
+Here are the Egyptian variants:  
+  
+[𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) Muta Gaia / Mother Nature [𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)  
+[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 Pethair Sky Father [𓇋](𓇋)𓏏𓆑𓀀 *feathav  
+  
+The Egyptian Hieroglyphic writing system  started as a syllabary[➾](https://en.wikipedia.org/wiki/Syllabary) but soon converged to a rather small set of frequent signs&sounds plus «determinants» (like [𓈉](𓈉) for land).  
+  
+Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) B.b.l.[1](numbers)(𓈉land)  
+'L' 𓂋 «lense» «el'lips» actually is normally read as   
+'R' 𓂋 «rot» = «mouth» in Russian  
+  
+Barbarion or not, the Egyptian letter 'b' [𓃀](𓃀) looks almost like a flipped modern 'b' in writing (both writing directions were common initially). The word '𓃀' itself is cognate with [european](PIE) variants: Bein, Pod, foot, la pierna: lab' vs leg(𓃀~L) …  
+  
+Every single letter in this “[Alphabet](Alphabet)” of Egyptian hieroglyphs left a tremendous linguistic footprint on most surrounding and quite distant extinct and extant languages!   
+  
+But other icons are highly recognizable as well:  
+[𓃟](𓃟) Shu.wn [𓆄](𓆄)[𓅱](𓅱) swine  
+[𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer beetle  
+[𓆤](𓆤) Horned Beetles [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
+[𓄜](𓄛) Tier deer   
+[𓂓](𓂓)𓂓 kwerKar work  
+[𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay!  
+[𓊖](𓊖) Court (city quarters)  
+[𓇳](𓇳) soRay 🌞	  
+[𓊛](𓊛) Shiphonit   
+[𓌵](𓌵) Mvoyer  
+[𓋬](𓋬) MatheMathei[𓆇](𓆇)  
+[𓄟](𓄟) Mes mnais Moses  
+[𓄣](𓄣) Heart  
+[𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor Hüter of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥) [𓃒](𓃒)  
+[𓅭](𓅭)𓏏 could be … duckter  
+  
+This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this connection was much more widely spread before the second world war, which partly explains why it has been a taboo since then. Another reason were the undeniable strong connections to Semitic languages; this however is not a contradiction:  
+  
+Egyptian had a big influence on Semitic, African *and* European languages.  
+  
+The most important sign of early urbanizers was probably   
+![https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png](https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png)  
+1.KRad[𓐍](𓐍) (wheel)  
+2.soRay[𓇳](𓇳) (solar wheel / sun)  
+3.court[𓊖](𓊖)city   
+4.quarter[𓊖](𓊖)  𓆑𓂧𓅱:ЧⲦⲞⲞⲨ:four see [numbers](numbers) and [cosmos](cosmos)
