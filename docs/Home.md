@@ -1,4 +1,6 @@
-*Traces of Old Egyptian in Eurasian languages*  
+---
+---
+**Traces of Old Egyptian in Eurasian languages**
   
 To linguists in the 19th centuries it came as a revelation when they discovered that the old Persian and Sanscrit words for family members were virtually identical to [European](PIE) variants:  
   
@@ -8,7 +10,7 @@ To linguists in the 19th centuries it came as a revelation when they discovered 
 *𐎯𐎧𐎬𐎠		Duxtar	daughter [𓅭](𓅭)[𓏏](𓏏)    
 𐎱𐎢𐏂			Pučun   puer/son [𓅭](𓅭)⇔[𓇳](𓇳)  
 ( 𐎶 = M, 𐎠 = A, 𐎫 = T, 𐎠 = A,   𐎲 = B … e.t.c. )  
-  
+
 Even now, 2500 years after Persians hammered those words into stone, the Iranian(Farsi) words are almost identical, surviving an Arabian conquest and millenia of separation, but reinforced by international relationships and intermarriages:  
 پدر 	pedar 	father(formal)  
 بابا 	bâbâ 	father  
