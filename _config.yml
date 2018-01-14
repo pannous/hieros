@@ -1,1 +1,31 @@
 theme: jekyll-theme-merlot
+exclude: 
+ - abc
+ - abc.txt
+ - AngloSaxa-Stems.txt
+ - app
+ - _config.yml
+ - d2
+ - d3
+ - dicts
+ - docs
+ - fonts
+ - Gemfile
+ - Gemfile.lock
+ - .git
+ - .gitignore
+ - .gitmodules
+ - LICENSE
+ - notes
+ - old
+ - pages
+ - PDFs
+ - pictures
+ - README.md
+ - scripts
+ - tables
+ - test.md
+ - texts
+ - t.js
+ - wiki
+ - wikis
