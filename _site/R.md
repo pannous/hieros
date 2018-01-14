@@ -1,0 +1,1 @@
+[𓍢](𓍢) Rho round ~ wound [W](W) 
