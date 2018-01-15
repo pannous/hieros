@@ -9,7 +9,7 @@ already	yad : yet ++
 also	awd
 although	mkarr
 always	abda 	ever
-always	dima	immer <> time
+always	dima	immer ↔ time
 ambassador*	ssafir
 amulet	l'Harz
 and (time)	u'
@@ -47,7 +47,7 @@ arm	afus; iġil <<
 arms	ifasn
 
 armpit	daw tayt
-arrow	la'fliš <> flieg!
+arrow	la'fliš ↔ flieg!
 art	l'fnn ~ fine phoni
 
 bangs (hair)	tawnza
@@ -72,10 +72,10 @@ blood	idamn	<<
 blood vessel	azġur
 blood vessels	izġuran
 
-blue (adj)	ajnjari; azarqi <> lapis la'zarqi
+blue (adj)	ajnjari; azarqi ↔ lapis la'zarqi
 blue sky	asmawi
 
-board (wood)	talblanšt <> table ++
+board (wood)	talblanšt ↔ table ++
 
 boat	talflukt ;)
 
@@ -90,7 +90,7 @@ bomb	l'qanbula**
 bomb powder*	l'barud
 
 bone	akajmuj; akjij; akzui;
-bones	aqjbab; iġşş  <> osso??
+bones	aqjbab; iġşş  ↔ osso??
 
 boogieman	iġşan; iukzay; ixsan;
 boogiewoman	xuš
@@ -117,11 +117,11 @@ box, wooden	l'karţtun  Karton +++
 box	tazlaft
 box, big	tiHwarin
 
-boy	tarrbi‫ع‬t  <> burs bi‫ع‬ ? +?
+boy	tarrbi‫ع‬t  ↔ burs bi‫ع‬ ? +?
 boys	şşnduq
 
 bra	arba; arva ~++
-brace (for mud form)	ifrgasn <> gießen?? <<
+brace (for mud form)	ifrgasn ↔ gießen?? <<
 brace	 lqum; iširan
 
 bracelet	sutyanat
@@ -130,12 +130,12 @@ bubbles	tibiwlin ;)
 
 bucket	ataš; aţaz; attas; l'kob;
 bucket, measuring (metal)	sstl
-bucket, well	l'‫ع‬brt <> birth:brunn!
+bucket, well	l'‫ع‬brt ↔ birth:brunn!
 buckets	aga
 
 bugs	attasn
 
-building	ibxušn <> b*au
+building	ibxušn ↔ b*au
 bulb	buta	l'bni ~+?
 bulb, meshy, for buta	l'bni
 lamp	taftilt
@@ -143,7 +143,7 @@ lamp	taftilt
 bull	a‫ع‬jliy; igiz; iyiz  ~ ox
 bulls	izyarn
 
-bullets	rşaş <> schieß 
+bullets	rşaş ↔ schieß 
 
 bundle (n)	taymust
 bureau	l'mktab
@@ -187,7 +187,7 @@ centipede		dad nuašal <<<
 ceremony, baby naming	sib‫ع‬ ??
 
 
-comedian baqšiš <> Pers
+comedian baqšiš ↔ Pers
 common hare	tawtult
 
 FFF
@@ -232,7 +232,7 @@ FFF
 	cotton	atig
 	cough (n)	l'markub
 
-curse, magical	taymust <> magit
+curse, magical	taymust ↔ magit
 curtains	l'xamya; rridu
 curve	l'virage <<
 curves	l'virajat
@@ -240,16 +240,16 @@ cut (n)	ubui
 dance (traditional)	aHaydus; aHwaš
 dandruff	l'qšra
 danger (n)	l'-xatar
-dark (n)	tillas <> stille,kelle <<<
+dark (n)	tillas ↔ stille,kelle <<<
 darkness	tabxni
 date (of month)	ttarix
 dates (fruit)	tiyni; tib‫ع‬ušin
-daughter	tarbat   bat@Arab!  tar<>person toch.tar ... !!
+daughter	tarbat   bat@Arab!  tar↔person toch.tar ... !!
 daughter, mine	illi
 daughter-in-law	tislit
 dawn	l'fjr
 
-day	: AS ⵙ SoLaRa !!! dAS <> dAG
+day	: AS ⵙ SoLaRa !!! dAS ↔ dAG
 
 day after tomorrow	nafuska; nif uska; nik waska
 
@@ -265,7 +265,7 @@ desert	sHra +++ de'Saharat (fem.)
 
 design, colorful	
 developing nations		dduwal nnamiya ;) ++++
-development	tanmia <> tun
+development	tanmia ↔ tun
 
 devil	š-šitan; ljjn  Satan, al'Jin ++
 devils	ljjnun  Jinnen (n plural DE ok)
@@ -276,9 +276,9 @@ diarrhea	abrruţ ;)
 
 dictionary	dictionaire; l-munjid mondial ++
 
-dinner i'mnsi <> mensa ++
+dinner i'mnsi ↔ mensa ++
 direction	mani (hand) ++
-director	l'mudir : master <> Mutter +++
+director	l'mudir : master ↔ Mutter +++
 
 dream (n) 
 dress (n)	

@@ -1,4 +1,4 @@
-𓄲𓂋𓅨𓈘		Over²rod : Euphrat!	OR  Tyr𓄲𓂋TaiGveris ! <> 𓌢𓎼𓂋𓈉  Babylonia
+𓄲𓂋𓅨𓈘		Over²rod : Euphrat!	OR  Tyr𓄲𓂋TaiGveris ! ↔ 𓌢𓎼𓂋𓈉  Babylonia
 𒌑𒅁𒊏𒌅𒅖 eU.ePh.RA.TU [𒅖kuš kush kurδ cours!]
 𐎢𐎳𐎼𐎠𐎬𐎢 eU.PH.Ra.A.T.U
 Euphrates !
@@ -8,22 +8,22 @@ https://glosbe.com/akk/en/%F0%92%8A%AD
 
 
 # 	Cardinal numeral (masc.) 	Cardinal numeral (fem.) 	Congruence (Gender agreement of the cardinal numeral) 	Ordinal (masc.) 	Ordinal (fem.)
-1 	ištēn 	išteʾat, ištāt 	<> ersten ais eins
-2 	šinā 	<> twin!  šin vs MIN 𒋰 '2' 𒈫 
-3 	šalāš šalšum  shamnt 𓐍𓂸𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT 𓐍𓂸 SCHAM?  š<>twi/three  EŠ 3 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 ESH : ASH^3
+1 	ištēn 	išteʾat, ištāt 	↔ ersten ais eins
+2 	šinā 	↔ twin!  šin vs MIN 𒋰 '2' 𒈫 
+3 	šalāš šalšum  shamnt 𓐍𓂸𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT 𓐍𓂸 SCHAM?  š↔twi/three  EŠ 3 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 ESH : ASH^3
 4 	erbē(t) rebûm		urb𓊖orbit:erde four.bum	 𓇋𓆑𓂧		𓆑𓂧𓅱 fdjw  ЧⲦⲞⲞⲨ ~ Qvatour   res (“thing”)
 5 	ḫamiš 	ḫamšum  𓂧𓇋𓏏 chanith	𓂧kḫapha Hand=5 !
 6 	šediš 	šiššet 			sis:six! ++
 7 	sebē 	sebēt sebûm			sieben:seven ++
 8 	samānē 	samānat 	 		#Hmnw oxmeno EG  𓍵		𓋴|𓋴   USSU 8 𒐍 '8' 𒑄 2𒐉 osso occo! octo/acht 
 9 	tešē 	tišīt 	tišûm	 ??
-10 	ešer 	ešeret 	ešrum  ?? vs U/TEM 𒌋 ten! <> 𒌓 time 
-60 	šūš 	<> sis:sixty 	<> Zeus? 	δuis	60  𒐑 DIŠ !
+10 	ešer 	ešeret 	ešrum  ?? vs U/TEM 𒌋 ten! ↔ 𒌓 time 
+60 	šūš 	↔ sis:sixty 	↔ Zeus? 	δuis	60  𒐑 DIŠ !
 100 	meʾat, māt 	SUMER: 𒈨 ME ~ mille   𒈨𒌍 mes ~ 𒈦 MAŠ + mas much more
-1000 	līm 		<> mille		<> LIMMU  (4)  𒐼  4th Order
+1000 	līm 		↔ mille		↔ LIMMU  (4)  𒐼  4th Order
 
 PRS: 'to decide, distinguish, separate' 
-<> PART parate <> Arabic stem I (fa‘ala) and Hebrew pa'al  WTF --
+↔ PART parate ↔ Arabic stem I (fa‘ala) and Hebrew pa'al  WTF --
 
 šarr-āta is equivalent to: "you were king", "you are king" and "you will be king". Hence, the stative is independent of time forms.
 
@@ -46,7 +46,7 @@ feminine 	šī "she" 	šina "they" 	šiāti (šuāti;šāti) 	šināti 	šiāši
 anāku~ ante cui/ichu
 nīnu ~ nous
 atta ~ at tu
-šū ~ su/sein "he" 		šuPRuS <> hiph‘il @ Hebrew!
+šū ~ su/sein "he" 		šuPRuS ↔ hiph‘il @ Hebrew!
 šī "she" ++
 šunu ~ them "they" 
 attunu ~ at'thine
@@ -88,10 +88,10 @@ ina (in, on, out, through, under),
 ana (an, too, for, after, approximately), 
 adi (to, da:zu), 
 aššu (cause, because of), 
-eli (up, over, lift <> alive?), 
+eli (up, over, lift ↔ alive?), 
 ištu/ultu (of, *ist, since, ultima “last”?), 
 mala (in accordance with < malike?), 
-itti (*vitt: with, and also <> like?). 
+itti (*vitt: with, and also ↔ like?). 
 -im ~ mi,mit,im,am,und
 
 There are, however, some compound prepositions which are combined with ina and ana (e.g. 
@@ -125,35 +125,35 @@ The Akkadian vocabulary is mostly of Semitic origin.
 Although classified as 'East Semitic', many elements of its basic vocabulary find no parallels in related Semitic languages!!!
 
 For example: 
-māru 'son' (Semitic *bn),  <> maria mama
-qātu 'hand' (Semitic *yd), <> khand khapta!
-šēpu 'foot' (Semitic *rgl), <> step <<
-qabû 'say' (Semitic *qwl),  <> qiz @ Goth
-izuzzu 'stand' (Semitic *qwm),  <> ??
-ana 'to, for' (Semitic *li). <> AN !
+māru 'son' (Semitic *bn),  ↔ maria mama
+qātu 'hand' (Semitic *yd), ↔ khand khapta!
+šēpu 'foot' (Semitic *rgl), ↔ step <<
+qabû 'say' (Semitic *qwl),  ↔ qiz @ Goth
+izuzzu 'stand' (Semitic *qwm),  ↔ ??
+ana 'to, for' (Semitic *li). ↔ AN !
 
 Due to extensive contact with Sumerian and Aramaic, the Akkadian vocabulary contains many loan words from these languages.
 
 Aramaic loan words, however, were limited to the 1st centuries of the 1st millennium BC and primarily in the north and middle parts of Mesopotamia, whereas Sumerian loan words were spread in the whole linguistic area. Beside the previous languages, some nouns were borrowed from Hurrian(𒄷𒌨𒊑), Kassite, Ugaritic and other ancient languages.
 
 Akkadian,	Meaning, 	Source 
-dû 	hill 	Sumerian 	du	<> DAR, DACH
-erēqu 	flee 	Aramaic 	ʿRQ (root)	<> 
-gadalû 	dressed in linen 	Sumerian 	gada lá <> Gala? cut?
+dû 	hill 	Sumerian 	du	↔ DAR, DACH
+erēqu 	flee 	Aramaic 	ʿRQ (root)	↔ 
+gadalû 	dressed in linen 	Sumerian 	gada lá ↔ Gala? cut?
 isinnu 	firmly 	Sumerian 	ezen
-kasulatḫu 	a device of copper 	Hurrian 	kasulatḫ-	<> atlatl ?
+kasulatḫu 	a device of copper 	Hurrian 	kasulatḫ-	↔ atlatl ?
 paraššannu 	part of horse riding gear 	Hurrian 	paraššann- !!
 uriḫullu 	conventional penalty 	Hurrian 	uriḫull-
-kisallu 	court 	Sumerian 	kisal <> Kursaal <<
+kisallu 	court 	Sumerian 	kisal ↔ Kursaal <<
 laqāḫu 	take 	Ugaritic 	LQḤ( root)
-qaṭālu 	kill 	Aramaic 	QṬL (root)	<> K'ILL cattle
-purkullu 	stone cutter 	Sumerian 	bur-gul	<> part-cut?? <<
+qaṭālu 	kill 	Aramaic 	QṬL (root)	↔ K'ILL cattle
+purkullu 	stone cutter 	Sumerian 	bur-gul	↔ part-cut?? <<
 
 šumma		Gesetz, gesetzt:if, SEI... 𓃹	𒅅
 awīl-um		MAN !?!
 kasp-am		kaspian kasilvan silver ++
 ḫurāṣ-am	chyros.am	Gold ++
-ward-am		Warden: slave		<> adam:man <> War.kar = Ur (stadt) <> Kerker
+ward-am		Warden: slave		↔ adam:man ↔ War.kar = Ur (stadt) ↔ Kerker
 warad 		Warden: slave
 balum 		without!  𓅓 
 šīb-ī 		witnesses (seher?)
@@ -172,7 +172,7 @@ awīl-im
 ū lū 	und/or
 riks-ātim		Rechts-Tum contracts
 i-štām-Ø		bought ?
-maṣṣārūt-im 	safekeeping?  <> Sicheru*
+maṣṣārūt-im 	safekeeping?  ↔ Sicheru*
 i-mḫur-Ø		received?
 šū 		sein
 šarrāq 	rogue
@@ -187,7 +187,7 @@ Wow, no business without contract!
 
 Mittani ƒ :  Naharinar 𓈖𒈾𓎛𒈾𓈖   𓈖𓉔𓂋𓈖𓄿𓈘𓈉   !!
 
-𒉺𒇻 	овча́р 𒉺𒇻 ovčár		shepherd  <>  Ovis+care!
+𒉺𒇻 	овча́р 𒉺𒇻 ovčár		shepherd  ↔  Ovis+care!
      	па́стырь 𒉺𒇻 pástyr	pastor=shepherd ++ pad+tier
 
-𒍑𒅆𒈠	salam : well(being) peace <> pasture  𒇻     	
+𒍑𒅆𒈠	salam : well(being) peace ↔ pasture  𒇻     	

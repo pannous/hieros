@@ -14073,7 +14073,7 @@ Character
 𒆔	74132	𒆔	12194	CUNEIFORM SIGN KAD5 OVER KAD5
 𒆕	74133	𒆕	12195	CUNEIFORM SIGN KAK dù -> DO!
 𒆖	74134	𒆖	12196	CUNEIFORM SIGN KAK TIMES IGI GUNU
-𒆗	74135	𒆗	12197	CUNEIFORM SIGN KAL <> GAL : GREAT! Powerful
+𒆗	74135	𒆗	12197	CUNEIFORM SIGN KAL ↔ GAL : GREAT! Powerful
 𒆘	74136	𒆘	12198	CUNEIFORM SIGN KAL TIMES BAD
 𒆙	74137	𒆙	12199	CUNEIFORM SIGN KAL CROSSING KAL
 𒆚	74138	𒆚	1219A	CUNEIFORM SIGN KAM2
@@ -14108,7 +14108,7 @@ Character
 𒆷	74167	𒆷	121B7	CUNEIFORM SIGN LA
 
 𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸
-𒆸  𒅇<>𒌑 šam/und 𒌋 sleep/dream = 𒅇=𒅆𒇻= eye+sheep=sleep~s'ee+ipr,schlummer=sch+lämmer !!!
+𒆸  𒅇↔𒌑 šam/und 𒌋 sleep/dream = 𒅇=𒅆𒇻= eye+sheep=sleep~s'ee+ipr,schlummer=sch+lämmer !!!
 𒆸	74168	𒆸	121B8	CUNEIFORM SIGN LAGAB  niĝin encircle GUR4 : great/big KUR4 : circle ! total?
 𒆹	74169	𒆹	121B9	CUNEIFORM SIGN LAGAB TIMES A    encircled water = marsh , swamp
 𒆺	74170	𒆺	121BA	CUNEIFORM SIGN LAGAB TIMES A PLUS DA PLUS HA 
@@ -14124,7 +14124,7 @@ Character
 𒇄	74180	𒇄	121C4	CUNEIFORM SIGN LAGAB TIMES GA
 𒇅	74181	𒇅	121C5	CUNEIFORM SIGN LAGAB TIMES GAR
 𒇆	74182	𒇆	121C6	CUNEIFORM SIGN LAGAB TIMES GUD
-𒇇	74183	𒇇	121C7	CUNEIFORM SIGN LAGAB TIMES GUD PLUS GUD  ewe; Oh, OHMM! <> Inana !!! Ur-Engur aka Ur-Nammu 
+𒇇	74183	𒇇	121C7	CUNEIFORM SIGN LAGAB TIMES GUD PLUS GUD  ewe; Oh, OHMM! ↔ Inana !!! Ur-Engur aka Ur-Nammu 
 𒇈	74184	𒇈	121C8	CUNEIFORM SIGN LAGAB TIMES HA
 𒇉	74185	𒇉	121C9	CUNEIFORM SIGN LAGAB TIMES HAL : engur [45x] = (cosmic) waters
 𒇊	74186	𒇊	121CA	CUNEIFORM SIGN LAGAB TIMES HI TIMES NUN
@@ -14182,7 +14182,7 @@ Character
 𒈖 74262 𒈖 12216 CUNEIFORM SIGN LU3    mix <!!>  *confuse/wrong:
 𒈂 74242 𒈂 12202 CUNEIFORM SIGN LU2 TIMES GAN2 TENU  šaĝa = wronged person;be slain; afflicted, oppressed
 𒈜 74268 𒈜 1221C CUNEIFORM SIGN LUL  false, criminal 'Lump':) | NAR = song / musician
-𒇽 74237 𒇽 121FD CUNEIFORM SIGN LU2      man! he/who/which <> 𒈗 Lugal:king *Bal.us regalis
+𒇽 74237 𒇽 121FD CUNEIFORM SIGN LU2      man! he/who/which ↔ 𒈗 Lugal:king *Bal.us regalis
 𒇾 74238 𒇾 121FE CUNEIFORM SIGN LU2 TIMES AL
 𒇿 74239 𒇿 121FF CUNEIFORM SIGN LU2 TIMES BAD
 𒈀 74240 𒈀 12200 CUNEIFORM SIGN LU2 TIMES ESH2
@@ -14207,11 +14207,11 @@ Character
 𒈔 74260 𒈔 12214 CUNEIFORM SIGN LU2 SQUARED
 𒈕 74261 𒈕 12215 CUNEIFORM SIGN LU2 SHESHIG
 𒈖 74262 𒈖 12216 CUNEIFORM SIGN LU3    MIX
-𒈗 74263 𒈗 12217 CUNEIFORM SIGN LUGAL    KING! <> 𒇽 LU:MAN+GAL:BIG 
+𒈗 74263 𒈗 12217 CUNEIFORM SIGN LUGAL    KING! ↔ 𒇽 LU:MAN+GAL:BIG 
 𒈘 74264 𒈘 12218 CUNEIFORM SIGN LUGAL OVER LUGAL
 𒈙 74265 𒈙 12219 CUNEIFORM SIGN LUGAL OPPOSING LUGAL
 𒈚 74266 𒈚 1221A CUNEIFORM SIGN LUGAL SHESHIG
-𒈛 74267 𒈛 1221B CUNEIFORM SIGN LUH    <> official 'syr'  𒇽 LU/SIR:MAN   𒈛:lu:laundry wash
+𒈛 74267 𒈛 1221B CUNEIFORM SIGN LUH    ↔ official 'syr'  𒇽 LU/SIR:MAN   𒈛:lu:laundry wash
 𒈝	74269	𒈝	1221D	CUNEIFORM SIGN LUM
 𒈞	74270	𒈞	1221E	CUNEIFORM SIGN LUM OVER LUM
 𒈟	74271	𒈟	1221F	CUNEIFORM SIGN LUM OVER LUM GAR OVER GAR
@@ -14615,18 +14615,18 @@ CUNEIFORM G	𒂷	𒂷	𒂷	𒂷
 CUNEIFORM HU	𒄷	𒄷	𒄷	𒄷			H	𒄩HA AH 								
 CUNEIFORM ḫa	𒄩	𒄩	𒄩	𒄩	Ḫ Ѥ	Ḫ Ѥ		fish!hook? 𒄩aha							
 CUNEIFORM haur	𒌨	𒌨	𒌨	𒌨
-CUNEIFORM SIƒ	𒋛	𒋛	𒋛	𒋛		horn	Hor	<>	Kher.os						
+CUNEIFORM SIƒ	𒋛	𒋛	𒋛	𒋛		horn	Hor	↔	Kher.os						
 CUNEIFORM I 	𒄿	𒄿	𒄿	𒄿	Y	Y		fork… ? sYm? 5? fIftY							
 CUNEIFORM J	𒐊	𒐊	𒐊	𒐊	JA	IA	 𒅀 𒉌 Iani~genie𒉓ni𒃻
 CUNEIFORM K	𒋡	𒋡	𒋡	𒋡	qa	SILA_3	𒌆qu𒆪ku𒌒arqu𒅗𒆠𒆤𒆪𒄩𒆯
 CUNEIFORM ḫal	𒄬	𒄬	𒄬	𒄬			K 	kala/kara hail vs an!							
 CUNEIFORM lal	𒇲	𒇲	𒇲	𒇲	LAL	bind bi 匕 	L!	L 乚 bi 匕 	!!!!!!!!!						
-CUNEIFORM ma	𒈠	𒈠	𒈠	𒈠	µ	µ	meter Maß	𒈣𒈢	<>  𒊑 ra/tal king							
-CUNEIFORM na	𒈾	𒈾	𒈾	𒈾	N na 	ana=to, for, by, of, at	ina=in, into, by	nautik nach onto …  <> FIN@EG?							
+CUNEIFORM ma	𒈠	𒈠	𒈠	𒈠	µ	µ	meter Maß	𒈣𒈢	↔  𒊑 ra/tal king							
+CUNEIFORM na	𒈾	𒈾	𒈾	𒈾	N na 	ana=to, for, by, of, at	ina=in, into, by	nautik nach onto …  ↔ FIN@EG?							
 CUNEIFORM ḫo/ko	𒄭	𒄭	𒄭	𒄭	δ kreis	K	cy(r) kou!sol𒄭šhel 𒄮 𒄯 𒄰 𒄱 𒄲 𒄳 𒄴 𒄵 𒄶
 CUNEIFORM pa	𒉺	𒉺	𒉺	𒉺	p 	face ana-panu𒉡=before	pHat=head 1st 匹 pǐ π	PhR 𓁶 foreHead   vs 𓁷 obHerr leader Bhlai? 𒉺𒉡 Vor-her? GIDRU CUNEIFORM "staff, sceptre", UGULA "overseer", GARZA "office"
 CUNEIFORM pou	𒇥	𒇥	𒇥	𒇥	pu					
-CUNEIFORM qu	𒆪	𒆪	𒆪	𒆪	ku		<>squarea	日 曰 <> kou							
+CUNEIFORM qu	𒆪	𒆪	𒆪	𒆪	ku		↔squarea	日 曰 ↔ kou							
 CUNEIFORM qu	𒌆	𒌆	𒌆	𒌆	qu		𒋡 𒌆𒄖 𒂵𒆥𒄣qu~go vs 𒉇NAM_2
 CUNEIFORM (q)up	𒌒	𒌒	𒌒	𒌒		qup!	acker area AR 𒌒
 CUNEIFORM ru	𒊒	𒊒	𒊒	𒊒	ro		round!									
@@ -14643,7 +14643,7 @@ CUNEIFORM wa	𒉿	𒉿	𒉿	𒉿		W + A	PI
 CUNEIFORM y 	𒄿	𒄿	𒄿	𒄿	Y	Y		fork… ? sYm?							
 CUNEIFORM za	𒍝	𒍝	𒍝	𒍝		Z?𒍞 vs S	/tenû/ zig𒍦𒍧zack?									
 CUNEIFORM ú	𒌑	𒌑	𒌑	𒌑		U	Ü !									
-CUNEIFORM de di	𒁲	𒁲	𒁲	𒁲	δ <> c` 	‘ßed’ 	circle <> kou!								
+CUNEIFORM de di	𒁲	𒁲	𒁲	𒁲	δ ↔ c` 	‘ßed’ 	circle ↔ kou!								
 CUNEIFORM 
 CUNEIFORM //////////////////////////			
 CUNEIFORM 
@@ -14652,18 +14652,18 @@ CUNEIFORM bia	𒁍	𒁍	𒁍	𒁍
 CUNEIFORM du	𒁺	𒁺	𒁺	𒁺											
 CUNEIFORM É	𒂍	𒂍	𒂍	𒂍	ES+SA	house esse mesa Hou	καυχ 	[heat	kaust]	καύσ	casa	οικί	δῶμα	
 CUNEIFORM ge gi	𒄀	𒄀	𒄀	𒄀		g?									
-CUNEIFORM KR	𒉽	𒉽	𒉽	𒉽	KÚR	'PAP'	KREIz? KRieg Streit strut Strategem 𒉡	critic CRI.TIC <>  𓏴 X 𓏵  𐄂 χ ✓☑ 𓍲							
+CUNEIFORM KR	𒉽	𒉽	𒉽	𒉽	KÚR	'PAP'	KREIz? KRieg Streit strut Strategem 𒉡	critic CRI.TIC ↔  𓏴 X 𓏵  𐄂 χ ✓☑ 𓍲							
 CUNEIFORM HR!	𒉡	𒉡	𒉡	𒉡		Heer, war, hostilities vs 𒉽	 𒉺𒉡 Vor-her?  nu.kur.ut = KÚR st.rei.t ? strategem?							
 CUNEIFORM ga	𒂵	𒂵	𒂵	𒂵	gee	gee		vs ge 𒄀							
 CUNEIFORM gal	𒃲	𒃲	𒃲	𒃲	GAL	great									
 CUNEIFORM gu	𒄖	𒄖	𒄖	𒄖											
 CUNEIFORM ḫap	𒆸	𒆸	𒆸	𒆸		cup? vs 𒌒 qup	kou! 口kǒu(phon) vs 𒌓 D!	LAGAB,NIGIN2						
-CUNEIFORM ku	𒆪	𒆪	𒆪	𒆪	qu			日 曰 <> kou							
+CUNEIFORM ku	𒆪	𒆪	𒆪	𒆪	qu			日 曰 ↔ kou							
 CUNEIFORM lu	𒇻	𒇻	𒇻	𒇻				square š𒊮 kou goat							
 CUNEIFORM le	𒇷	𒇷	𒇷	𒇷		leo  𒊺+e+a ƒ									
 CUNEIFORM la	𒆷	𒆷	𒆷	𒆷	LL 	elle									
 CUNEIFORM MAR	𒈥	𒈥	𒈥	𒈥
-CUNEIFORM me / a	𒈨	𒈨	𒈨	𒈨	MO / NO?	¬		<> 𒈨 = M+ES=mes,mas=more							
+CUNEIFORM me / a	𒈨	𒈨	𒈨	𒈨	MO / NO?	¬		↔ 𒈨 = M+ES=mes,mas=more							
 CUNEIFORM mé mi	𒈪	𒈪	𒈪	𒈪											
 CUNEIFORM MIN	𒈫	𒈫	𒈫	𒈫
 CUNEIFORM mu	𒈬	𒈬	𒈬	𒈬											
@@ -14677,7 +14677,7 @@ CUNEIFORM ra	𒊏	𒊏	𒊏	𒊏
 CUNEIFORM ša	𒊭	𒊭	𒊭	𒊭		sh+a / ea									
 CUNEIFORM šú	𒋙	𒋙	𒋙	𒋙		cu kurz									
 CUNEIFORM ši	𒅆	𒅆	𒅆	𒅆		ci kurz									
-CUNEIFORM tab/p,dáb/p	𒋰	𒋰	𒋰	𒋰	TAB	2	TT ! tau:two 2	𒉌ni𒃻2<>er chinese?	 VS 𒈫MIN						
+CUNEIFORM tab/p,dáb/p	𒋰	𒋰	𒋰	𒋰	TAB	2	TT ! tau:two 2	𒉌ni𒃻2↔er chinese?	 VS 𒈫MIN						
 CUNEIFORM ta	𒋫	𒋫	𒋫	𒋫		t+au	TAUR!	vs GUD=COW									
 CUNEIFORM te	𒋼	𒋼	𒋼	𒋼											
 CUNEIFORM ti	𒋾	𒋾	𒋾	𒋾		𒋿tenû											
@@ -14696,7 +14696,7 @@ CUNEIFORM ze zi	𒍣	𒍣	𒍣	𒍣		𒉺+𒊺 ƒ	spha?
 CUNEIFORM 
 CUNEIFORM A															
 CUNEIFORM a	𒀀	𒀀	𒀀	𒀀											
-CUNEIFORM a/na/me	𒈨	𒈨	𒈨	𒈨	MO / NO?	¬		anti <> 𒈨 = M+ES=mes,mas=more 							
+CUNEIFORM a/na/me	𒈨	𒈨	𒈨	𒈨	MO / NO?	¬		anti ↔ 𒈨 = M+ES=mes,mas=more 							
 CUNEIFORM ab	𒀊	𒀊	𒀊	𒀊	
 CUNEIFORM ab	𒀖	𒀖	𒀖	𒀖			𒀗𒀘𒀙𒀚𒀛										
 CUNEIFORM ad	𒀜	𒀜	𒀜	𒀜											
@@ -14754,7 +14754,7 @@ CUNEIFORM ḫal	𒄬	𒄬	𒄬	𒄬			K 	vs an!
 CUNEIFORM ḫab/p	𒆸	𒆸	𒆸	𒆸		cup? vs 𒌒 qup	kou!	口 [口] kǒu(phon) vs 𒌓 D!	LAGAB,NIGIN2						
 CUNEIFORM ḫaš	𒋻	𒋻	𒋻	𒋻	QUT	has ‘7 meanings’	SET? 7 Cḫat?	Ishtar/Isis: ISH+𒋻 iset  am-qut=I-bow (fall/happen)						CUNEIFORM 	
 CUNEIFORM ḫad/t	𒉺	𒉺	𒉺	𒉺	PA	sceptre	hut/hat head! π	UGULA "overseer" 1st 							
-CUNEIFORM ḫul	𒄾	𒄾	𒄾	𒄾	ḪUL	evil	<>kur									
+CUNEIFORM ḫul	𒄾	𒄾	𒄾	𒄾	ḪUL	evil	↔kur									
 CUNEIFORM HU	𒄷	𒄷	𒄷	𒄷			H 								
 CUNEIFORM ḫub/p	𒄸	𒄸	𒄸	𒄸	HU			𒄽 𒄼 hyper?							
 CUNEIFORM ḫé	𒃶	𒃶	𒃶	𒃶											
@@ -14767,7 +14767,7 @@ CUNEIFORM kam/gám	𒄰	𒄰	𒄰	𒄰	TU7	soup			kou+mn
 CUNEIFORM k/gán	𒃷	𒃷	𒃷	𒃷	GÁN	field		game?		area?					
 CUNEIFORM kab/p,gáb/p	𒆏	𒆏	𒆏	𒆏	KAB	left		kabana!							
 CUNEIFORM ka	𒅗	𒅗	𒅗	𒅗	kau/cha	口 kǒu! chew	kau=MOUTH!  k.A. ;) ~ 𒄭口𓂋	chat chew kau Kabale → 𒊕 Kopf 							
-CUNEIFORM ka 	𒅗	𒅗	𒅗	𒅗	CHA	chat → SAG 𒊕	𒅗 KA = chat <> kau …								
+CUNEIFORM ka 	𒅗	𒅗	𒅗	𒅗	CHA	chat → SAG 𒊕	𒅗 KA = chat ↔ kau …								
 CUNEIFORM kar	𒃸	?			find			søux							
 CUNEIFORM k/gàr	𒃼	𒃼	𒃼	𒃼											
 CUNEIFORM k/gaš	𒁉	𒁉	𒁉	𒁉	bi,	KAŠ	beer	chavez							
@@ -14783,7 +14783,7 @@ CUNEIFORM kúl,gul	𒄢	𒄢	𒄢	𒄢	GUL	break
 CUNEIFORM k/gum	𒄣	𒄣	𒄣	𒄣											
 CUNEIFORM kur	𒆳	𒆳	𒆳	𒆳	KUR	land									
 CUNEIFORM kùr/gur	𒄥	𒄥	𒄥	𒄥		KUR	!	CYR?𒄨GURUŠ							
-CUNEIFORM KÚR	𒉽				KREI?	Krieg Streit Strategem	critic ?	KR/REI? CRI.TIC <>  𓏴 X 𓏵  𐄂 χ ✓☑ 𓍲							
+CUNEIFORM KÚR	𒉽				KREI?	Krieg Streit Strategem	critic ?	KR/REI? CRI.TIC ↔  𓏴 X 𓏵  𐄂 χ ✓☑ 𓍲							
 CUNEIFORM 
 CUNEIFORM L															
 CUNEIFORM lal	𒇲	𒇲	𒇲	𒇲	LAL	bind bi 匕 	L!	L 乚 𒇳bi 匕 	!!!!!!!!!						
@@ -14805,7 +14805,7 @@ CUNEIFORM meš	𒈩𒎌	𒈩	𒈩	𒈩		90
 CUNEIFORM mil/mel	𒅖	𒅖	𒅖	𒅖	iš										
 CUNEIFORM miš	𒈩	𒈩	𒈩	𒈩											
 CUNEIFORM mur	𒄯	𒄯	𒄯	𒄯	ḫur										
-CUNEIFORM mut	𒉸	?			blood	BL …	blep blu	-> 𒉭 NUNUZ 𒉶 LAHTAN  <> MUT GAIA?? <> moth?							
+CUNEIFORM mut	𒉸	?			blood	BL …	blep blu	-> 𒉭 NUNUZ 𒉶 LAHTAN  ↔ MUT GAIA?? ↔ moth?							
 CUNEIFORM 
 CUNEIFORM N						N									
 CUNEIFORM nam	𒉆	𒉆	𒉆	𒉆	NAM	district									
@@ -14888,7 +14888,7 @@ CUNEIFORM ITU	𒌚	𒌚	𒌚	𒌚		month
 CUNEIFORM KAM	𒄰	𒄰	𒄰	𒄰		(suffixed)numerals		Count? 7	K+N	++					
 CUNEIFORM KI	𒆠	𒆠	𒆠	𒆠		(suffixed)place	UR 𓊖	𒆢UR+D𒆣=earth/Ort𒆡Bad								
 CUNEIFORM KU6	𒄩	𒄩	𒄩	𒄩		fish	PSI	!!!							
-CUNEIFORM KUR	𒆳	𒆳	𒆳	𒆳		land	TER	TER TRA 3 𒆳 !!! <> 𒌍 30 ‘all’ ? 𓇾𓇿𓈀𓈅𓈇							
+CUNEIFORM KUR	𒆳	𒆳	𒆳	𒆳		land	TER	TER TRA 3 𒆳 !!! ↔ 𒌍 30 ‘all’ ? 𓇾𓇿𓈀𓈅𓈇							
 CUNEIFORM KUŠ	𒋢	𒋢	𒋢	𒋢		hide,	fur	kuschel cushion LEDR							
 CUNEIFORM LÚ	𒇽	𒇽	𒇽	𒇽		man	MAN/SIR?/ER?/ELU?								
 CUNEIFORM MEŠ	𒈨𒌍	𒈨𒌍	𒈨𒌍	𒈨𒌍	(M)AS! A+S	(suffixed)plural	plural	NAIS? -mos -ma -mus mas=more							
@@ -14901,15 +14901,15 @@ CUNEIFORM NINDA	𒃻	𒃻	𒃻	𒃻		bread	TEE	DA!!!!!!!!!!!!!	面包	miànbāo(
 CUNEIFORM PÚ	𒇥	𒇥	𒇥	𒇥	source	qwhu?								
 CUNEIFORM PAN 𒉼 𒉼 𒉼 𒉼	!?!
 CUNEIFORM 
-CUNEIFORM SIƒ	𒋛	𒋛	𒋛	𒋛		horn	Hor	<>	Kher.os						
+CUNEIFORM SIƒ	𒋛	𒋛	𒋛	𒋛		horn	Hor	↔	Kher.os						
 CUNEIFORM TÚG	𒌆	𒌆	𒌆	𒌆		garment	Tuch tex								
 CUNEIFORM SAR	𒊬	𒊬	𒊬	𒊬		(suffixed)plant	herb sar=green sherb shrubs								
 CUNEIFORM SÍG	𒋠	𒋠	𒋠	𒋠		wool	zeug								
 CUNEIFORM TU7	𒄰	𒄰	𒄰	𒄰		soup									
 CUNEIFORM Ú	𒌑	𒌑	𒌑	𒌑		plant									
-CUNEIFORM URU	𒌷	𒌷	𒌷	𒌷		city	Ort UR! <> 𒆠KI Earth U+R?	𓊨 sit = Sitz city							
+CUNEIFORM URU	𒌷	𒌷	𒌷	𒌷		city	Ort UR! ↔ 𒆠KI Earth U+R?	𓊨 sit = Sitz city							
 CUNEIFORM URUDU	𒍐					copper	ERZ! E+R+c	口 [口] kǒu(phon) + per? KOU.PI+							
-CUNEIFORM UZU	𒍜	𒍜	𒍜	𒍜	(body part)	meat/bone		soma? <> 𒁘 <> 𒁮 Dame <> 𒉸 mut/blut 
+CUNEIFORM UZU	𒍜	𒍜	𒍜	𒍜	(body part)	meat/bone		soma? ↔ 𒁘 ↔ 𒁮 Dame ↔ 𒉸 mut/blut 
 CUNEIFORM 田 𐌎, ⊞, 申, 甲 and 由									
 CUNEIFORM ‘colon’	𒑱					:									
 CUNEIFORM ŠAR_2 	𒊹 					TI_2									
@@ -15756,7 +15756,7 @@ CUNEIFORM-𒌙 	U+12319 	UD /gunû/ 	542 	337* 	uncertain
 CUNEIFORM-𒌚 	U+1231A 	UD /šešig/ 	0020 	52 	ITI, UD x EŠ
 CUNEIFORM-𒌛 	U+1231B 	UD /šešig/ x BAD 			
 CUNEIFORM-𒌜 	U+1231C 	UDUG 	833 	577; 578 	
-CUNEIFORM-𒌝 	U+1231D 	UM 	238 	134    reed 	<> 𒈩  UMES Mensch / RID? reed!
+CUNEIFORM-𒌝 	U+1231D 	UM 	238 	134    reed 	↔ 𒈩  UMES Mensch / RID? reed!
 CUNEIFORM-𒌞 	U+1231E 	UM x LAGAB 			
 CUNEIFORM-𒌟 	U+1231F 	UM x ME + DA 	241 		
 CUNEIFORM-𒌠 	U+12320 	UM x ŠA_3 			
@@ -17388,7 +17388,7 @@ Cameroon at the turn of the 19th century. WTF
 𖣷	92407	𖣷	168F7	BAMUM LETTER PHASE-D NJEUT
 𖣸	92408	𖣸	168F8	BAMUM LETTER PHASE-D NSHEE
 𖣹	92409	𖣹	168F9	BAMUM LETTER PHASE-D NGGAAMAE
-𖣺	92410	𖣺	168FA	BAMUM LETTER PHASE-D NYAM	<> Gniu
+𖣺	92410	𖣺	168FA	BAMUM LETTER PHASE-D NYAM	↔ Gniu
 𖣻	92411	𖣻	168FB	BAMUM LETTER PHASE-D WUAEN
 𖣼	92412	𖣼	168FC	BAMUM LETTER PHASE-D NGKUN
 𖣽	92413	𖣽	168FD	BAMUM LETTER PHASE-D SHEE
@@ -21396,32 +21396,32 @@ Character
 ﷼	65020	﷼	FDFC	RIAL SIGN
 ﷽	65021	﷽	FDFD	ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM
 
-A	A	A	α	Α	a ʔ ʕ 	Ⲁ	1	𓂣		1	AY=I->iqh 	Aleph	𐤀	١,1	Ayin 0 / start	一	Аа	א	ܐ	ﺍ	ﺍ ه	ﺍة	አ	Αα	Аа	Aa	ʾālep	ox	ʾ [ʔ]	D42	𓂣	Arm	a / o	𒀀 (𒈨 𒀹 𒀸 𒋻) <> tdášh 𒁹	吖 ā!  阿 ābc	a 	ᚨ 	a 	/a(ː)/ 	*ansuz 	one of the Æsir (gods)	α ἄ ἅ ἀ ά	Α Ἄ Ἅ Ἀ Ά
+A	A	A	α	Α	a ʔ ʕ 	Ⲁ	1	𓂣		1	AY=I->iqh 	Aleph	𐤀	١,1	Ayin 0 / start	一	Аа	א	ܐ	ﺍ	ﺍ ه	ﺍة	አ	Αα	Аа	Aa	ʾālep	ox	ʾ [ʔ]	D42	𓂣	Arm	a / o	𒀀 (𒈨 𒀹 𒀸 𒋻) ↔ tdášh 𒁹	吖 ā!  阿 ābc	a 	ᚨ 	a 	/a(ː)/ 	*ansuz 	one of the Æsir (gods)	α ἄ ἅ ἀ ά	Α Ἄ Ἅ Ἀ Ά
 B	B	B	β	Β	b v β	Ⲃ	2	𓃀		2		Bėth	𐤁	٢,2	zVaer	二	Бб, Вв	B	ב	ܒ	با	ﺏ	በ	Ββ	Bb	Бб, Вв	bēt	house	b [b]	D58	𓃀	Bein vEIn	bod,be,bar	𒁁 𒁇 𒁀 𒁁 pod / pied !	匕 勹 冫卜 比 bi  北 bei(ges𒄑) 阝Bollbau 巴	b 	ᛒ 	b 	/b/ 	*berkanan 	birch	β	Β
 C	C	C	ζ	Ζ		Ⲅ/Ⲥ	3	𓍿		3		Cgimel ztoe	𐤂	٣,3	tSan	三	Гг, Ґґ	C	ג	ܓ	ﺝ	چا	ገ	Γγ	Cc, Gg	Гг, Ґґ	gīml	camel	g [ɡ]	V13	𓍿	Ceh gelicpelt Camel	cez,GIŠ 	𒄑 CUT 𒃰	厂 chǎng 产chǎn 艮 gen. 艹 cǎo 寸 cun  δao刀切qiē	c 	ᚲ 	c/k	/k/ 	*kaunan 	ulcer or *kenaz torch	ζ	Ζ
 D	D	D	δ	Δ		Ⲇ	4	𓂧		4		Daleth d'roit	𐤃	٤,4	Dsiro	四	Дд	D	ד	ܕ	د ط	ذ	ደ	Δδ	Dd	Дд	dālet	door diele	d [d]	D46	𓂧	leδer leDer leaTHer  YODHR!?! droit	ud	𒌓 take 𒆕 de di 𒁲 δ	斗 dou:duell 刀dao刂 歹dai=die	d 	ᛞ 	d 	/d/ 	*dagaz 	day	δ	Δ
 E	E	E	ε	Ε		Ⲉ	5	𓇋		5		fHE*	𐤄	٥,5	vWuhn, fEnpth	五	Ее, Єє, Ээ	E	ה	ܗ	ف	ه Ha	ሀ	Εε	Ee	Ее, Єє, Ээ	hē	window fhen	h [h]	M17	𓇋	fEther light ι,e,i,	e	𒂊	噩 è 堊 è ? 	e 	ᛖ 	e 	/e(ː)/ 	*ehwaz 	horse	ε ἑ ἕ ἐ ἔ έ η	Ε Ἑ Ἕ Ἐ Ἔ Έ Η
-F (v/ph)	F	F	ƒ	Ƒ	pʰ	Ⲋ	6	𓆑		6		Vaw	𐤅	٦,6	sunLeo	六	(Ѵѵ), Уу, Ўў	F	ו	ܘ	ظ فا	ﻭ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook <> jaw	w [w]	I9	𓆑	phython = PhSn	fa	𒉺 → pa,pi	父 fu	f 	ᚠ 	f 	/f/ 	*fehu 	wealth, cattle	ƒ ϝ Ϝ υ fHe 𐤄	Ƒ Ϝ Ϝ Υ
-G	G	G	γ	Γ		Ⲝ	7	𓎼		7	𐤆 se'ėn 7	Ğimel	𐤂	٧,7	Qiembel Śive	七	Гг, Ґґ	G	ג	ܓ	قا	ﺝ	ገ	Γγ	Cc, Gg	Гг, Ґґ	gīml	camel	g [ɡ]	W11	𓎼	Ɠiebel γ,κ,Γ,g (Kübel)	g	𒂷	厂 generate 产chǎn 艮 gen genesis <> Jan♀	g 	ᚷ 	g 	/ɡ/ 	*gebō 	gift	γ	Γ
+F (v/ph)	F	F	ƒ	Ƒ	pʰ	Ⲋ	6	𓆑		6		Vaw	𐤅	٦,6	sunLeo	六	(Ѵѵ), Уу, Ўў	F	ו	ܘ	ظ فا	ﻭ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook ↔ jaw	w [w]	I9	𓆑	phython = PhSn	fa	𒉺 → pa,pi	父 fu	f 	ᚠ 	f 	/f/ 	*fehu 	wealth, cattle	ƒ ϝ Ϝ υ fHe 𐤄	Ƒ Ϝ Ϝ Υ
+G	G	G	γ	Γ		Ⲝ	7	𓎼		7	𐤆 se'ėn 7	Ğimel	𐤂	٧,7	Qiembel Śive	七	Гг, Ґґ	G	ג	ܓ	قا	ﺝ	ገ	Γγ	Cc, Gg	Гг, Ґґ	gīml	camel	g [ɡ]	W11	𓎼	Ɠiebel γ,κ,Γ,g (Kübel)	g	𒂷	厂 generate 产chǎn 艮 gen genesis ↔ Jan♀	g 	ᚷ 	g 	/ɡ/ 	*gebō 	gift	γ	Γ
 H	H	H	η	Η	ħ	ⲎϨ	8	𓉔 𓍱		8	phoeni:	Həth ('otto) hat	𐤇	٨,8	Ba'al OcHe 	八	Ии, Йй	H	ח	ܚ	ها حا	ح, خ	ሐ, ኀ	Ηη	Hh	Ии, Йй	ḥēt 	wall, courtyard	ḥ [ħ]	O4	𓉔	HOu : Hort / Haus / Hof / Hecke	hau hu 	𒌨 𒄷  𒋛? 𒉺Headt->pa	戶 (户,戸) hu door 	后'	h 	ᚺᚻ 	h 	/h/ 	*hagalaz "hail" precipitation	η	Η
 I	I	I	ι	Ι		Ϫ/Ⲍ	9	𓇋		9	𐤈 9	nYodh? tIth?	𐤉	٩,9	Yjioudh	九	Іі, Її, Јј	I	י	ܝ	 يا	ي	የ	Ιι	Ii, Jj	Іі, Її, Јј	yōd	hand	y [j]	M17	𓇋	feather light ι,e, 𓇌 ee = I,y	i	𒄿 Y	一 yi 亅 jué	i 	ᛁ 	i 	/i(ː)/ 	*īsaz 	ice	ι ί ἰ ἱ ἴ ἷ ῖ ΐ ϊ	Ι Ί Ἰ Ἱ Ἴ Ἷ Ι͂ Ϊ́ Ϊ
-J	J	J	ῖ	Ι͂		Ⲓ 	10	𓆳 𓇌		10	10	Yodh	𐤉	10	δix (shix~full?)	什	Іі, Її, Јј	J	י	ܝ	 جو  جا	ي	የ	Ιι	Ii, Jj	Іі, Її, Јј	yōd	hand	y [j]	M4	𓆳	Jana ♀ <>   𓋴 Jagt Jahr	ia	𒐊  <> 𒊩 ?	亅 jué	j,ï,ei 	ᛃ,ᛇ 	j,ï,æ 	/j/ /æː/ 	*eī(h)waz 	yew-tree / *jēra- year,harvest	ῖ	Ι͂
+J	J	J	ῖ	Ι͂		Ⲓ 	10	𓆳 𓇌		10	10	Yodh	𐤉	10	δix (shix~full?)	什	Іі, Її, Јј	J	י	ܝ	 جو  جا	ي	የ	Ιι	Ii, Jj	Іі, Її, Јј	yōd	hand	y [j]	M4	𓆳	Jana ♀ ↔   𓋴 Jagt Jahr	ia	𒐊  ↔ 𒊩 ?	亅 jué	j,ï,ei 	ᛃ,ᛇ 	j,ï,æ 	/j/ /æː/ 	*eī(h)waz 	yew-tree / *jēra- year,harvest	ῖ	Ι͂
 K	K	K	κ	Κ	kʰ	Ⲕ/Ϧ	20	𓎡		10	11	Kaph	𐤊	10|11	δεκατ taKe	٠,	Кк	K	כך	ܟ	كا	ﻙ	ከ	Κκ	Kk	Кк	kāp	palm (of a hand)	k [k]	V31	𓎡	cup κu γru dju jug Krug carpal carpe-diem  vs cap ~ kop!	K ḫal	𒋡 qa 𒄬	犭quǎn = κύων = chien (dog)	k 	ᚲ 	k (c) 	/k/ 	*kaunan 	ulcer" *kenaz "torch	κ	Κ
 L	L	L	λ	Λ	l	Ⲗ	30	𓏯		11	Leo Pharst	Lamedh Ali1	𐤋	1	el levan Ali11	١,1	Лл	L	ל	ܠ	ﻝ	لو لي لا	ለ	Λλ	Ll	Лл	lāmed	goad lamm!	l [l]	Z5	𓏯	L λ 𓍢 lu wu  goad ~ guide lambs 𓋾 𓌀 ~ Lampe	lal	𒇲 !	了 le	l 	ᛚ 	l 	/l/ 	*laguz 	water, lake" *laukaz "leek	λ	Λ
 M	M	M	μ	Μ		Ⲙ	40	𓈗 𓌳		12	𓈖 𓈗 𐤏 	NuMerA	𐤍	2	two-elf	٢,2	Мм	M	מם	ܡ	ما	ﻡ 	መ	Μμ	Mm	Мм	mēm	water!	m [m]	U1	𓈗 𓌳	Mare Mast  μ 𓅱? 𒊩 MUNUS Mund Mumu? vs 𓂋	ma	𒈠  𒈫MIN 𒈪	門men 皿 mǐn  冖 mi 宀 mián 木mu 毛 mao 	m 	ᛗ 	m 	/m/ 	*mannaz 	Man	μ	Μ
 N	N	N	ν	Ν		Ⲛ Ϣ!?	50 60	𓈖		13	𓈗	Mer	𐤌	3	thr3-ten	٣,3	Нн	N	נן	ܢ	نا	ﻥ	ነ	Νν	Nn	Нн	nūn	snake snun	n [n]	N35	𓈖	Nautik 牛 niú 鸟 μνo 乃 nǎi milk 	na	𒈾nar=fish  MUNUS 𒊩	宀 án 	n 	ᚾ 	n 	/n/ 	*naudiz 	need	ν	Ν
 O	O	O	o	OΩ		Ⲟ	70	𓍯		6 | 0	0 = zheiRoh	Ayin	𐤏	4 | 6	40	٤,4	Оо	O	ע	ܥ أ	يو  و	ع, غ	ዐ	Οο, Ωω	Oo	Оо	ʿayin	eye	ʿ [ʕ]	V4	𓍯	Rhoise ϱ vs 𓂝O(ben)	ḫo/ko	𒄭  	口 O / kǒu → 阿 ābc  吖 ā oy!	o 	ᛟ 	o 	/o(ː)/ 	*ōþila-/*ōþala- 	heritage, estate, possession	o ό ό ὁ ὀ ὄ ω	Ω O Ό Ό Ὁ Ὀ Ὄ
-P	P	P	π	Π	pʰ	Ⲡ	80	𓊪		0 | 5	* = primus	Pe(nt)	𐤐	5	70	٥,5	Пп	P	פף	ܦ	ف	ف	ፈ	Ππ	Pp	Пп	pē	mouth ?	p [p]	Q3	𓊪	Phoo(nix) π 𒉺 匹 pi	pha / ḫeadt	𒉺 pou 𒇥 (q)up𒌒	匹 pi  片 piàn <> who 问 文 wén	p 	ᛈ 	p 	/p/ 	*perþ- 	meaning unclear, perhaps "pear-tree".	π	Π
+P	P	P	π	Π	pʰ	Ⲡ	80	𓊪		0 | 5	* = primus	Pe(nt)	𐤐	5	70	٥,5	Пп	P	פף	ܦ	ف	ف	ፈ	Ππ	Pp	Пп	pē	mouth ?	p [p]	Q3	𓊪	Phoo(nix) π 𒉺 匹 pi	pha / ḫeadt	𒉺 pou 𒇥 (q)up𒌒	匹 pi  片 piàn ↔ who 问 文 wén	p 	ᛈ 	p 	/p/ 	*perþ- 	meaning unclear, perhaps "pear-tree".	π	Π
 Q	Q	Q	ϐ	Ϙ		Ϥ/Ϭ	90	𓏘  𓁷 	Iq moi	1	IqhiKopf	Qəph(al) Kuh8	𐤒	8 | 6	100	٦,6	(Ҁҁ)	Q	ק	ܩ	قا	ﻕ	ቀ	(Ϙϙ) Φφ, Ψψ	Qq	(Ҁҁ)	qōp	needle eye=kopf	q kˤ	N29	𓏘  𓁷 	Quarꜩ Kuh.erz Ɠum 𓁷 Kopf 𐤒	qu(p)	𒆪 𒌆 𒌒 𒅗 ka/pu mouth	甲 kōpp gap ‘nail head’ Ϙ QED  曰yuē speaka 月moond 	o 	ᛟ 	o 	/o(ː)/ 	*ōþila-/*ōþala- 	heritage, estate, possession	ϐ	Β
 R	R	R	ρ γ	Ρ		Ⲣ/Ⳁ	100	𓂋 𓁶	tjur𓎡	2	TuphErrst	Resh RaSun	𐤓	6 | 9	SuRa SoLar	٧,7	Рр	R	ר	ܪ	ﺭ	پا	ረ	Ρρ ®	Rr	Рр	rēš	head	r [r]	D21	𓂋 𓁶	(ph)rēš ratio head 𒊕 => 𒅗 Reuse? mouth	ru re ri rad/t	𒊒 𒊑 𒋥 𒊕 res	人 (亻,𠆢)  入 八 日ri	r 	ᚱ 	r 	/r/ 	*raidō 	ride, journey	ρ γ	Ρ Γ
 S	S	S	σ ς	Σ		Ⲋ/Ⲥ/Ϭ	6|200	𓋴	she 𐤑 → 	3	sie San'deg?	Sa'dek	𐤑	7	80	٨,8	Цц, Чч, Џџ	S	צץ	ܨ	سا  س 	ص, ض	ጸ, ጰ, ፀ	Σς (Ϻϻ) sin	—	Цц, Чч, Џџ	ṣādē	(s)hunt 𓄝 shot	ṣ [sˤ]	S29	𓋴	S ß δ Γ shut 𓄝 Jagt schade Saturn 𓄞 vs  𓆰 nat.šar 𒊬 	sa eš eš še 	𒊓 𒌍 𒐁 𒊺	尸 shi 屮 che 殳 shū 𓄝	s 	ᛊᛋ 	s 	/s/ 	*sōwilō 	Sun	σ ς	Σ Σ
 T	T	T	τ θ	Τ		Ⲧ/Ϯ	300	𓏏	it T 𐤕 → 	4	It Tsi	Tawn ten!	𐤕	10	300	٩,9	Тт	T	ת ט	ܬ	ط تا	ت, ث	ተ, ፐ (?)	Ττ	Tt	Тт	tāw	mark	t [t]	X1	𓏏	Tee  broTH breaD  	dáš,tiš	𒁹 𒌓	亠 土 tu 斗 dou:duell 头 tou=top	t 	ᛏ 	t 	/t/ 	*tīwaz/*teiwaz 	the god Tiwaz	τ θ	Τ Θ
 U	U	U	υ	ΥΩ		Ⲱ/Ⲩ	400	𓅱	we, moi	5	Phuor Wu we	Waw	𐤅	9			Ѵѵ, Уу	U	ו	ܘ	و	وا	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]	G43	𓅱	kück.hENn	u ú	𒌋 ! 𒌑		u 	ᚢ 	u 	/u(ː)/ 	*ūruz 	aurochs	υ	Υ
-V	V	v	υφ	ΦΥ		Ⲫ	500	𓆑 	sin	6	Sun, Leu, Ra 	Waw	𐤅				(Ѵѵ), Уу, Ўў	V	ו	ܘ	ف ظ	ف ڤ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]	I9	𓆑 	phython = PhSn	v	𒌋  vu	巫 Voodoo							υ <> φ β	ΦΥ
+V	V	v	υφ	ΦΥ		Ⲫ	500	𓆑 	sin	6	Sun, Leu, Ra 	Waw	𐤅				(Ѵѵ), Уу, Ўў	V	ו	ܘ	ف ظ	ف ڤ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]	I9	𓆑 	phython = PhSn	v	𒌋  vu	巫 Voodoo							υ ↔ φ β	ΦΥ
 W UU	W	W	ω	Ω͂	ō oː	Ⲱ	800	𓅳	them se'm	7	Muun Qi Sie	Waw	𐤅				(Ѵѵ), Уу, Ўў	W	ו	ܘ	ﻭ	ﻭ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]		𓅳	𓅱+𓅱= hUhn  ω 𓍢 wu(n) 乌 wū cui 崔 quick chick	w wa	𒑱 𒉿 𒉼Pan~Wan !?	无 (旡) wu ø 毋 (母, ⺟) wu 巫 witch 乌Wū black							ω ὠ ὡ ῶ ὦ ὥ ᾠ	Ω Ὠ Ὡ Ω͂ Ὦ Ὥ 
 X	X	X	ξχ	ΞΧ		Ⲝ/Ⲭ	7|600	𓏴	X → 	8	oX Ba'al	Samekhx Sat 	𐤎	30	san(3)mekh10?		(Ѯѯ), poss. Хх	X	ס	ܣ, ܤ		—	ሰ	Ξξ,  Χχ	 Xx	(Ѯѯ),  Хх	xsāmeks	support	s [s]	Z9	𓏴	X 𓏵  𐄂 χ ✓☑ 𓍲  v	?	? 𒄬ḫal  𒉽kr kur 𒆳	斤 axe	x 	ᚷ 	g 	/ɡ/ 	*gebō 	gift	ξχ ἐκς	ΞΧ ἘΚΣ
 Y	Y	Y	Ύ	Ύ:Ψ		Ⲩ/Ⲯ	700	𓏭	Y → 𐤅 → 	9	NauYn Yioud	Waw Yp.silon	𐤅				(Ѵѵ), Уу, Ўў	Y	ו	ܘ	يي	ﻭ	ወ	Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]	Z4	𓏭	Y 𓏮 𓇌  𓇋 𓇋 𓆄𓆄 ¨ 义 	y 	𒄿	又 you 义 yi	y 	ᛃ 	y 	/j/ 	*jēra- 	year,harvest	ύ Ύ	Ύ Ύ
-Z	z	z	ζδ	ΖΔ		Ⲍ/Ⳉ	9 | 900	𓊃	Z → 𐤆 →	10	Zeh Zahn Shin	Zayin	𐤆	7 | 10	7! se'ėn vs 𐤂		Жж, Зз	z	ז	ܙ		ﺯ, ذ	ዘ	Ζζ	Zz	Жж, Зз	zayin	weapon	z [z]	O34	𓊃	Z,Σ,ß,ss,ts,c,δ sym	ze zi sse 	𒍝  𒋝s/zig?	左 zuǒ 作zuō ҙ 坐 zuò <> δuo 2 zwo do! 足 zú (too…)	z 	ᛉᛋ 	z 	/z/ 	*algiz 	unclear, possibly "elk"	ζδ	ΖΔ
+Z	z	z	ζδ	ΖΔ		Ⲍ/Ⳉ	9 | 900	𓊃	Z → 𐤆 →	10	Zeh Zahn Shin	Zayin	𐤆	7 | 10	7! se'ėn vs 𐤂		Жж, Зз	z	ז	ܙ		ﺯ, ذ	ዘ	Ζζ	Zz	Жж, Зз	zayin	weapon	z [z]	O34	𓊃	Z,Σ,ß,ss,ts,c,δ sym	ze zi sse 	𒍝  𒋝s/zig?	左 zuǒ 作zuō ҙ 坐 zuò ↔ δuo 2 zwo do! 足 zú (too…)	z 	ᛉᛋ 	z 	/z/ 	*algiz 	unclear, possibly "elk"	ζδ	ΖΔ
 SH	zozo	pho.	γϡ	ΓϢ	ʃ	Ϣ	60	𓄑  𓍱		100	chien Ϡ 	Shin	𐤔	100	Berg 百 bǎi 		Сс, Шш, Щщ	zozo	ש	ܫ		ش, س	ሠ	Σσς	Ss	Сс, Шш, Щщ	šīn	tooth	š [ʃ]		𓄑	ß/Z Zahn	de di	𒍝 𒁲	山 shān  手 (扌,龵) shou	sh 	ᛊᛋ 	sh 	/s/ 	*sōwilō 	Sun" shamesh	γ Ϡ ϡ Ϣ	Γ Ϡ Ϡ Ϣ
 TH 			θ	Θ	tʰ ᚦ /θ/	Ⲑ | Ϧ?	1000?	𓆼		1000		Teth	𐤈	9!			(Ѳѳ)		ט	ܛ		ط, ظ	ጠ	Θθ	—	(Ѳѳ)	ṭēt	wheel	ṭ [tˤ]				za ße 	𒍣		th,þ 	ᚦ 	þ 	/θ/, /ð/ 	*þurisaz 	the god Thor, giant	θ	Θ
 TSH					tʃ			𓆓																																			
@@ -21451,8 +21451,8 @@ rune a 	ᚨ 	a 	/a(ː)/ 	*ansuz 	"one of the Æsir (gods) An*Zeus vs 𐌰 AHSA	G
 rune b 	ᛒ 	b 	/b/ 	*berkanan 	"birch"
 rune c 	ᚲ 	c/k	/k/ 	*kaunan 	"ulcer" *kenaz "torch" ƒƒ
 rune d 	ᛞ 	d 	/d/ 	*dagaz 	"day", "Dächer?"
-rune e 	ᛖ 	e 	/e(ː)/ 	*ehwaz 	"horse" <> ᛖäre
-rune f 	ᚠ 	f 	/f/ 	*fehu 	"wealth, cattle" <> Viech,viel Vieh
+rune e 	ᛖ 	e 	/e(ː)/ 	*ehwaz 	"horse" ↔ ᛖäre
+rune f 	ᚠ 	f 	/f/ 	*fehu 	"wealth, cattle" ↔ Viech,viel Vieh
 rune g 	ᚷ 	g 	/ɡ/ 	*gebō 	"gift" Gabe
 rune h 	ᚺᚻ 	h 	/h/ 	*hagalaz "hail" 
 rune i		ᛁ,ᛇ 	i,æ,eī 	 	/i(ː)//æː/	*īsaz 	"ice", *eī(h)waz 	"yew-tree"
@@ -21648,7 +21648,7 @@ Fraction 	Decimal 	Hexadecimal 	HTML Entity
 ⅒	&#8530; 	  
 <sup>9</sup> &#8260; <sub>11</sub> 
 
-〇 líng <> ring
+〇 líng ↔ ring
  	
 1 ; one 	一 	yī 	
 2 ; two 	二 	èr 	
