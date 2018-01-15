@@ -27,8 +27,8 @@ ti	it,ta,he,she
 tō	thō		them two	(dual)
 nō 	nous,us
 ṇti	them!
-dim	let <> don(give?) <<
-dīš	let	<> does… ! <<
+dim	let ↔ don(give?) <<
+dīš	let	↔ does… ! <<
 ie,iie	let:make << eye!!
 tapai	temper:hot
 ramai	rest
@@ -48,7 +48,7 @@ ashāi	Righteousness
 ashāt	Righteousness
 ushtā	Happyness ??
 astī	ist
-vohū	good <>	->best
+vohū	good ↔	->best
 vahisht.āi	best(e|r)
 vahisht.em	besten
 ahmāi him??
@@ -390,11 +390,11 @@ Jamasp (Phl.): 	an early hero of the Zoroastrian religion. He was King Vishtasp'
 Jamshed (Pers.): 	a famous king of ancient Iran. (Var: 'Jamshid', Av. 'Yima Khshaeta')
 jashan (Phl. Pers.): 	a frequently-performed religious service, in which an afrinagan ceremony is performed. (Var: 'jashn', Parsi 'jasan').
 jizya: 	poll tax levied from non-Muslims.
-juddin: 	non-Zoroastrian. <> Juden!
+juddin: 	non-Zoroastrian. ↔ Juden!
 
 K
-kabiseh: 	intercalation done to keep calendar consistent with seasons <> mercurion
-Kangdez 	A country.	<> Bal-KANs
+kabiseh: 	intercalation done to keep calendar consistent with seasons ↔ mercurion
+Kangdez 	A country.	↔ Bal-KANs
 kaplo (kâplô): 	A knife with metallic handle, used for cutting purposes. RCC 288
 karb:	priest of the old religion. (Var: Av. 'Karapan').
 karapan (Av.):	See karb.

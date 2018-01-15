@@ -366,8 +366,8 @@ H8	𓆇	egg	ei	egg	Tei = Theia
 I1	𓆈	Echse	exe	gecko					
 I2	𓆉	turtle		turtle					
 I3	𓆊	crocodile	merit	crocodile					
-I4	𓆋	Sobek	sbk	crocodile on shrine  <> suspekt?					
-I5	𓆌	Speck	spk	crocodile with curved tail <> spekter👀					
+I4	𓆋	Sobek	sbk	crocodile on shrine  ↔ suspekt?					
+I5	𓆌	Speck	spk	crocodile with curved tail ↔ spekter👀					
 I5A	𓆍	Fresser	tamerit						
 I6	𓆎	Kermit	kmt	crocodile scales					
 I7	𓆏	frog	hequa	frog					
@@ -394,7 +394,7 @@ K8	𓆢	Narmer	cat fish	catfish
 L1	𓆣	Käfer	kfr	dung beetle					
 L2	𓆤	Biene	bee	bee					
 L2A	𓆥	Jupiter	subit	combination of  M23,  L2 and two  X1					
-L3	𓆦	fly		fly			summsen:asinnen[insecten]<>Asseln<>zand=fly		
+L3	𓆦	fly		fly			summsen:asinnen[insecten]↔Asseln↔zand=fly		
 L4	𓆧			locust					
 L5	𓆨			centipede					
 L6	𓆩			shell					
@@ -827,7 +827,7 @@ V22	𓎔	Flaschen	fl	whip
 V23	𓎕	FULL	fill	whip					
 V24	𓎗	fold	weave	cord on stick					
 V25	𓎘	scrit	writ	cord on stick with tick					
-V26	𓎙	edge	atsh	netting needle <> wedge?					
+V26	𓎙	edge	atsh	netting needle ↔ wedge?					
 V27	𓎚	adj	etsh	netting needle					
 V28	𓎛 	her	H 	wick					
 V29	𓎝	WaiHt		swab					

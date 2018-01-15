@@ -8,7 +8,7 @@ G	γ	Γ		Ⲅ	7	𓎼	𐤂	七	ג	ܓ	قا	ﺝ	ገ	Ґ	ґ	gīml	gcamel	Ɠübel	G	�
 H	η	Η	ħ	Ϩ	8	𓉔	𐤇	八	ח	ܚ	حا	ح	ሐ	И	и	ḥēt 	hall	House	Hals	𒄷	𒌨	戶	ᚻ	*haglaz	hail	HOTA	𐎈	H	ח
 I	ι	Ι		Ϫ	9	𓇋	𐤉	九	י	ܝ	 يا	ي	የ	Ї	ї	iōd	i-hand?	vIeder	Ioder	𒄿	𒄿 	一	ᛁ 	*īsaz 	ice	I   ƒI	𐎛	I : EE	י
 J	ῖ	Ι͂		Ⲓ 	10	𓆳	𐤉	什	י	ܝ	 جو	ي	የ	Ї	ј	jōd	j-hand?	Jana	Joder	𒐊	𒐊	亅	ᛇ 	*jeīwaz 	yew	JOD	𐎊	J : Y	י
-K	κ	Κ	kʰ	Ϧ	20	𓎡	𐤊	٠,	כך	ܟ	كا	ﻙ	ከ	К	к	kāp	khand	Korb	Kap	𒋡	𒋡	犭	ᚲ 	*kenaz	kHand	KHA KAF	𐎃 𐎋	K Cth Tß <>S	כך
+K	κ	Κ	kʰ	Ϧ	20	𓎡	𐤊	٠,	כך	ܟ	كا	ﻙ	ከ	К	к	kāp	khand	Korb	Kap	𒋡	𒋡	犭	ᚲ 	*kenaz	kHand	KHA KAF	𐎃 𐎋	K Cth Tß ↔S	כך
 L	λ	Λ	l	Ⲗ	30	𓏯	𐤋	١,1	ל	ܠ	 لا	ﻝ	ለ	Л	л	lāmed	lam-goad 	Leu	L-le	𒇲	𒇲	了	ᛚ 	*laguz 	lake	luMµ MEMƒ	𐎎	LU	ל
 M	μ	Μ		Ⲙ	40	𓌳	𐤍	٢,2	מם	ܡ	ما	ﻡ 	መ	М	м	mēm	mwater	Mast	Mund	𒈫	𒈠	門 	ᛗ 	*mannaz 	man	LAMDAƒ	𐎍	MEL	מם
 N	ν	Ν		Ⲛ	50	𓈖	𐤌	٣,3	נן	ܢ	نا	ﻥ	ነ	Н	н	nūn	natter	Nautik	Nase	𒈾	𒈾	宀	ᚾ 	*naudiz 	need	NUN	𐎐	N	נן
@@ -20,7 +20,7 @@ S	σ	Σ		Ϭ	200	𓋴	𐤑	٨,8	צ 	ܨ	سا	ص	ጸ	Ц	ц	ṣādē	(s)hunt	Shot	Sc
 T	θ	Τ		Ϯ	300	𓏏	𐤕	٩,9	ת ט	ܬ	تا	ت	ተ	Т	т	tāw	tag	Tee	Tete	𒁹	𒁹 	土/头	ᛏ 	*teiwaz 	Theius	TO TET	𐎚 𐎉	T	ת ט
 U	υ	Υ		Ⲩ	400	𓅱	𐤅	20	ו	ܘ	وا	ﻭ	ወ	У	у	uāw	u-hook	Uhun		𒌑	𒌑	乌	ᚢ 	*ūruz 	urochs	U / V~B	𐎜	U	ו
 V	φ	Φ		Ⲫ	500	𓆑 	𐤅	21	ו 	ܘ	ڤ	ﻭ	ወ	Ѵ	ѵ	vāw	v-hook	Vhen		𒌋	𒌋  vu	巫	ᚢ 			V~B / VOW 	𐎁	V	ו
-W	ω	Ω͂	ō	Ⲱ	800	𓅳	𐤅	22	ו 	ܘ	ﻭ	ﻭ	ወ	Ў	ў	wāw	w-hook	Wuhn		𒑱	𒉿	文/无	ᚢ 	<> soWil ᛊ?		UU / WO	𐎜	W	ו
+W	ω	Ω͂	ō	Ⲱ	800	𓅳	𐤅	22	ו 	ܘ	ﻭ	ﻭ	ወ	Ў	ў	wāw	w-hook	Wuhn		𒑱	𒉿	文/无	ᚢ 	↔ soWil ᛊ?		UU / WO	𐎜	W	ו
 X	ξ	Ξ		Ⲝ	600	𓏴	𐤎	23	ס	ܤ	—	—	ሰ	Х	х	xsāmeks	xsupport	X 𓏵		𒉽	𒄬	斤	ᚷ 	*ghebō 	xift	SSU XU	𐎝	X	ס
 Y	γ	Ψ		Ⲯ	700	𓏭	𐤅	24	ו	ܘ	 يا	 يا	ወ	У	у	yāw	y-hook	Yust		𒄿	𒄿	义/又	ᛃ	*yēra	year	YODa  YP	𐎊	Y	ו
 Z	ζ	Ζ		Ⳉ	900	𓊃	𐤆	25	ז  s(z)	ܙ	ﺯ	 ذ	ዘ	Ж	ж	zayin	z-weapon	ZuΣum		𒋝	𒍝	左	ᛋ 	*algiZ	z'elk	ZU / ZETA	𐎑 𐎇	Z	ז

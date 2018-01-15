@@ -19,7 +19,7 @@ pádh (foot)
 bawar (snow, ice)	baice
 bám (dawn) ~-
 bágh (garden)	~Bach -+-
-bágpán (gardener) <<> peasant!
+bágpán (gardener) <↔ peasant!
 cattr (umbrella)		shader
 bacc (son)	puson@Pers
 kánc (knife) ~
@@ -28,12 +28,12 @@ eš (~this)
 cer (below)	@ EGY!
 gařř (urial)
 guřř (last) :	sûr/sous
-guřřag (to chop) ?? <> kill?
+guřřag (to chop) ?? ↔ kill?
 kasán (small) ?
 gapp (talk)	quatsch 'quiz'	qiƒ!!  <?> küssen
 kawwás (learned)	ka?weissend +++
 ganokh (mad)	eunuch? --
-janagh (to beat)	<> Janosh eunuch ???
+janagh (to beat)	↔ Janosh eunuch ???
 hár (flood) Archae!
 máh (~moon)
 koh (mountain)	Kur
@@ -44,7 +44,7 @@ gir (take)	<<
 ímmán (faith) !
 šír (milk)	<<	simila! << šíru : wie!
 pakír (~beggar) -> fakir	++
-samín (breeze) <> Kamin!
+samín (breeze) ↔ Kamin!
 gálí (carpet) ?
 jang (war)	vs yin?? <<
 jing (lark) fink-ling!!! <<<
@@ -52,23 +52,23 @@ ganj (treasure)
 sajjí (roasted meat)
 nákho (uncle)	nuncle
 gwask (calf)	cowsk << ruski?
-láp (stomach)	Lab! ++ <> Leib soma stoma!! <<<<
+láp (stomach)	Lab! ++ ↔ Leib soma stoma!! <<<<
 gal (joy)	galore <<		gal~~joy!
 ghall (party, organization)
 gull (cheek)	Kuhle?
-gul (rose)	<> rosy cheek!
+gul (rose)	↔ rosy cheek!
 mát/más (~mother)
 bám (dawn) -
 camm (eye)	how kan!! <<<<<<< cammuy! camuflage +++++++++ >> ??
 mastir (leader, bigger) ++ Master, most
 nán/nagan/naghan (bread) ™
 nokk (new, new moon)	noch neuhh!
-kwahn (old)	<> kahn!>?!
+kwahn (old)	↔ kahn!>?!
 oštagh (to stop) ~- 
 ožnág (swim)	_naiger
 roc (sun)	raysun +++
 dor (pain)	<<<
-socagh (to burn)	<> Ka-Sachen!! Sarxer scorcher!! surge scorn score
+socagh (to burn)	↔ Ka-Sachen!! Sarxer scorcher!! surge scorn score
 sarag (head)	<<??
 šap (night) <<
 šapád (bare-footed) sha:bar? foot 
@@ -78,10 +78,10 @@ giragh (to get)
 garragh (to bray)
 gurrag (to roar)	gurren;) grölen!! 
 šarr (good)	sehr gut;) sure! << 𒄭 cyr 𓇳 𒄯 𒄮SÙR kyr… ++ <?>
-sarag (head)	sa?? res™	<> ration <<<<<<<<
+sarag (head)	sa?? res™	↔ ration <<<<<<<<
 sarrag (a kind of donkey's braying)  syra <<
-řák (post)	reach <> Reich Rauch?
-řukkál (famine) 	<> 'Rakka' Rache Rauch? verRucht!!! <<<<<<<,
+řák (post)	reach ↔ Reich Rauch?
+řukkál (famine) 	↔ 'Rakka' Rache Rauch? verRucht!!! <<<<<<<,
 
 khass (someone)	quas
 kasán (little)
@@ -93,19 +93,19 @@ dann (outside)	down? <<
 
 šumá (you) !!!! <<<<<<<<
 
-ás (fire) ashes <> agni -+-
+ás (fire) ashes ↔ agni -+-
 šap (night)	??????????
 šád (happy) ;) lol
 wašš (happy, tasty)	quatsch
-meš (sheep)	Määhs;) 	<> Mes Tree (+) ++ mas/mares?
+meš (sheep)	Määhs;) 	↔ Mes Tree (+) ++ mas/mares?
 šuwánag (shepherd)	šu? sheePaner?!!!!?!!! WAN VAN !! ++
 pažm (wool)	basmati pan ???? --
 taghard (mat)	tamat -+__
 thás (bowl)	Tasse +
 kilítt (kay) ??
 masítt (~mosque) 
-battí (lantern)	photi!	<> batiments! <<
-ťung (hole)	<> dung!	井 jǐng !! <<<<
+battí (lantern)	photi!	↔ batiments! <<
+ťung (hole)	↔ dung!	井 jǐng !! <<<<
 žáng (bells)	dongs!
 ťíllo (bell) Schelle	cello;)
 baťť (cooked rice)	basmati?
@@ -124,7 +124,7 @@ dawár (abode) dauer tower
 warag (food, to eat)	würgen;)
 wardin (provision) << warten:wandern
 wádh (salt) 1/water
-hawa (wind)	hawand <> heaven(d)! << +-+
+hawa (wind)	hawand ↔ heaven(d)! << +-+
 Xudá (God)	Guda Buda Goda
 yád (remembrance)
 yár (friend)
@@ -135,14 +135,14 @@ raydyo (radio;)
 zarr (monay) money??
 muzz (wages)
 zí (yesterday)
-moz (banana)	<> Mus?
+moz (banana)	↔ Mus?
 nazzíkk (nearby)	nah___ig
 Zor (power)	Thor! Star.que Stärke
-žand (tired)	<> schande: Sand im Auge;)
+žand (tired)	↔ schande: Sand im Auge;)
 ZINDAGHI (LIFE)	???????????
 zindaghi (life)	syn.days center sankhi <<<<<<<<<<<<<<<<<<
 gažžag (to swell)
-gužnag (hungry)	<> gusto!
+gužnag (hungry)	↔ gusto!
 Mauz (waves)	maures +++
 (h)ayrán (surprise) hay++
 ayrát (distribution)
@@ -150,11 +150,11 @@ may (our), kay (who), šumay (your)
 kawr (river)
 hawr (rain)
 kissaw (story)	qiz@Goth +++ 	gesehen
-dawr (jump)	<> tower
+dawr (jump)	↔ tower
 dawl (sort)
 awlád (off-spring)	af'let	ob'lads ++-+
 kawl (promise)	«call»
-gawk (neck)	<> goose/gawk(Tölpel) <> gucken! gawking  dumm glotzen gaffen 
+gawk (neck)	↔ goose/gawk(Tölpel) ↔ gucken! gawking  dumm glotzen gaffen 
 F/f 	loan words Fráns (France), fármaysí (pharmacy).
 V/v 	(ve) Used in loanwords only, like in the English word service, very.
 Ĝ/ĝ 	(like ĝhaen in Perso-Arabic) Only in loan words Ghair (Others), Ghali (Carpet), Ghaza (Noise)
