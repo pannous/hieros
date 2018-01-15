@@ -14,14 +14,14 @@ The Old Bohairic pronunciation is evidence-based, using archived sound recording
 
 Majuscule 	Minuscule 	Numeric value 	Name 	Greek equivalent 	Translit. (IPA)
 Ⲁ 	ⲁ 	1 	Alphan 	Α, α 	a [a, ʔ, ʕ]		Ⲁ 𓌠 AlVan 	Venus 1	uno venu  ~ 𓌠
-Ⲃ 	ⲃ 	2 	Bētar 	Β, β 	b, v [β~v]		β ν S|2 Beta~Piter  𓋴𓍑𓈖𓊖 Szn : secon! Snwj??ƒ <> San3ƒ Zehn-uhr|2
+Ⲃ 	ⲃ 	2 	Bētar 	Β, β 	b, v [β~v]		β ν S|2 Beta~Piter  𓋴𓍑𓈖𓊖 Szn : secon! Snwj??ƒ ↔ San3ƒ Zehn-uhr|2
 Ⲅ 	ⲅ 	3 	Gammax 	Γ, γ 	g [ɡ]			Ξ ξ Gammerk 3 Sanmesh xµth 𓐍𓂸𓏏  QED  Gammars Genive	Venus vs Ⲉ
 Ⲇ 	ⲇ 	4 	Deltar?	Δ, δ 	d [d]			Δ Fethu 4 𓆑𓂧𓅱 fdw vs δndru 𓆑𓂧𓅱 sndru Andru! Tor fire Syndrom Zynder
 Ⲉ 	ⲉ 	5 	Ei 	Ε, ε 	e [i, e][note 1]	Ϧ 五 sEta 5 δat  𓂧𓇋𓏏 Saturn Datum Ether vs Earth Ditu vs Pent 5 vs Ⲉ ++ Phoonf~Wu
 Ⲋ 	ⲋ 	6 	So 	Ϛ, ϛ (stigma) 	–			σ Sun 6	𓋴𓇋𓋴 Sis Ϭ leo 六 liù
 Ⲍ 	ⲍ 	7 	Zēta 	Ζ, ζ 	z [z]			ζ Sebt 7	 𓋴𓆑𓐍  sevT 七 qība 𓐍:nighT 
-Ⲏ 	ⲏ 	8 	Ēta 	Η, η 	ē / e [eː]		Θƒ Eight 8  𓐍𓏠𓈖 eKhgn ekhTn eighη <> eight
-Ⲑ 	ⲑ 	9 	Pthēta 	Θ, θ 	th / t' [tʰ]	Ψ Psid 9  𓊪𓋴𓂧  QED phish<>nun neu 九 jiǔ  
+Ⲏ 	ⲏ 	8 	Ēta 	Η, η 	ē / e [eː]		Θƒ Eight 8  𓐍𓏠𓈖 eKhgn ekhTn eighη ↔ eight
+Ⲑ 	ⲑ 	9 	Pthēta 	Θ, θ 	th / t' [tʰ]	Ψ Psid 9  𓊪𓋴𓂧  QED phish↔nun neu 九 jiǔ  
 Ⲓ 	ⲓ 	10 	Yota 	Ι, ι 	i [iː~j]		Ⲓ0	10
 Ⲕ 	ⲕ 	20 	Kabba 	Κ, κ 	k [k]
 Ⲗ 	ⲗ 	30 	Lola 	Λ, λ 	l [l]			1
@@ -108,7 +108,7 @@ b. Pluperfect tense, c. Aorist tense.
 a: (1a); imperat prfx of vbs; lo, nau, ouwm, ouwn; or alioui, amou and derivatives, ari, au.
 a-, au-: (1a); adv of indefinitness "about", often with n- prfx.
 a-: (Gk); neg prfx "without, un-".
-aaf v.(2)af - Fly. <> off <> aarf <<
+aaf v.(2)af - Fly. ↔ off ↔ aarf <<
 ab v. (2)af - Fly.	ab, of, op
 abayra: (Gk); n. Bridge, dam; Lit.
 'without base'.
