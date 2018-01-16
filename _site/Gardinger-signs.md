@@ -1,6 +1,6 @@
 [Notes](https://github.com/pannous/hieros/blob/master/abc.txt) should be written back to the master table   
   
-For most common signs see "[The Alphabet](The Alphabet)"  
+For most common signs see  ["The Alphabet"](Alphabet)
   
 [wikipedia](https://en.wikipedia.org/wiki/List_of_hieroglyphs)  
   

@@ -2,8 +2,7 @@
   "name": "hieroglyph-keyboard",
   "version": "0.0.1",
   "description": "Egyptian hieroglyphics keyboard and dictionary search",
-  "repository":"https://git.heroku.com/hieroglyph-keyboard.git",
-
+  "repository": "https://git.heroku.com/hieroglyph-keyboard.git",
   "private": false,
   "scripts": {
     "start": "node ./vocab.js"
@@ -16,10 +15,10 @@
     "express": "",
     "morgan": "",
     "serve-favicon": "",
-    "websocket":"",
-    "node-fetch":"",
-    "request":"",
-    "json5":"",
-    "text-encoding":""
+    "websocket": "",
+    "node-fetch": "",
+    "request": "",
+    "json5": "",
+    "text-encoding": ""
   }
 }

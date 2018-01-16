@@ -21,7 +21,7 @@ for(file of ls("*.textile")){
 	// html=html.replaceAll(/\[\[(.*?)\|(.*?)\]\]/,"<a href='$2' type='text/html'>$1</a>")
 	// html=html.replaceAll(/\[\[(.*?)\]\]/,"<a href='$1' type='text/html'>$1</a>")
 	// html=html.replaceAll(".html.html",".html") // :(
-	html=html.replaceAll("<>","⇔")
+	html=html.replaceAll("↔","⇔")
 	// html=html.replaceAll("```","") // todo
 	html=html.split("\n").join("  \n") // '  ' ~ <br/> !
 	// html=html.split("\n").join("<br/>\n")
