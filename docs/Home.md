@@ -77,3 +77,6 @@ The most important sign of early urbanizers was probably
 2.soRay[𓇳](𓇳) (solar wheel / sun)  
 3.court[𓊖](𓊖)city   
 4.quarter[𓊖](𓊖)  𓆑𓂧𓅱:ЧⲦⲞⲞⲨ:four see [numbers](numbers) and [cosmos](cosmos)
+
+You can search the egytian dictionary here:  
+https://hieroglyph-keyboard.herokuapp.com/
