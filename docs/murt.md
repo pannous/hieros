@@ -1,1 +1,0 @@
-see [𓏱](𓏱) mut muert mord maur mori = death
