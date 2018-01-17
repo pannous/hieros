@@ -1,0 +1,7 @@
+@import "{{ site.theme }}";
+
+@font-face {
+	font-family: 'NewGardiner';
+	src: url('/fonts/NewGardinerSMP.ttf') format('truetype');
+}
+body {    font-family: NewGardiner; }
