@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.idea/
+deploy-heroku.sh
+fonts/Gardiner.css
+fonts/NewGardinerSMP.ttf
+hieroglyps-vocab.js
+node_modules/
+public/images/
+public/javascripts/
