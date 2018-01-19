@@ -1,25 +1,20 @@
+@font-face {
+	font-family: 'NewGardiner';
+	src: url('NewGardinerSMP.ttf') format('truetype');
+}
+
 body {    
 	font-family: Arial,NewGardiner; 
-  background: -moz-linear-gradient(top, #EDB, #FEC) fixed; 
-  background: -o-linear-gradient(top, #EDB, #FFF) fixed; 
   background: -webkit-linear-gradient(top, #EDB, #FFF) fixed; 
-  /*background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#cbccc8)) fixed;*/
-  /*background: gradient(linear, left top, left bottom, from(#fff), to(#cbccc8)) fixed;*/
-  /*background: -moz-gradient(linear, left top, left bottom, from(#fff), to(#cbccc8)) fixed;*/
-	/*background-color: #f5eedc*/
 }
 
 h1{
-    text-transform: capitalize;
-    text-transform: uppercase;
-    text-align: center;
+  text-transform: capitalize;
+  text-transform: uppercase;
+  text-align: center;
   background: -webkit-linear-gradient(top, #eee, #fff);
   border: 1px solid #EEE;
   padding: 6px;
-  /*margin:15px;*/
-  /*height:140%;*/
-  /*height:400;*/
-
 }
 
 img{
@@ -36,12 +31,7 @@ a {
 .markdown-body {
 	margin:3%;
 	padding:20px;
-/*   
-background: -webkit-linear-gradient(top, #fff, #eee);
-background: -ms-linear-gradient(top, #eee, #fff);
-background: -o-linear-gradient(top, #eee, #fff);
-background: linear-gradient(top, #000, #fff);*/
-box-shadow: 2px 4px 8px rgba(0,0,0, .4);
-background-color: #fff;
-	/*background-color: #e5debc !important*/
-	}
+/*background: -webkit-linear-gradient(top, #fff, #eee);*/
+  background-color: #fff;
+  box-shadow: 2px 4px 8px rgba(0,0,0, .4);
+}
