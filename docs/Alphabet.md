@@ -1,6 +1,7 @@
 These are the most frequent signs of the hieroglyphics ordered by the modern roman alphabet. For the complete sign list see [[Gardinger signs]].  
 
-We mostly follow the consensus egyptologist's reading of the signs, with the exception of letter 'f' pth [[𓆑]] vs [[𓇋]]e.  
+We mostly follow the [conventional reading](https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian#Table_of_transliteration_schemes)  
+ of the signs, with the exception of letter 'f' pth [[𓆑]] vs [[𓇋]]e.  
 
 |  [letter](abc.txt)  |gard|  [sign](Gardinger_signs) | comment |  
 |-----|--|--|-------|  
