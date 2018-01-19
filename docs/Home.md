@@ -65,7 +65,7 @@ But other icons are highly recognizable as well:
 [𓄟](𓄟) Mes mnais Moses  
 [𓄣](𓄣) Heart  
 [𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor Hüter of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥) [𓃒](𓃒)  
-[𓅭](𓅭)𓏏 could be … duckter   
+[𓅭](𓅭)𓏏 could be … duckter  
 
 This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this connection was much more widely spread before the second world war, which partly explains why it has been a taboo since then. Another reason were the undeniable strong connections to Semitic languages; this however is not a contradiction:  
 
@@ -78,4 +78,4 @@ The most important sign of early urbanizers was probably
 3.court[𓊖](𓊖)city  
 4.quarter[𓊖](𓊖)  𓆑𓂧𓅱:ЧⲦⲞⲞⲨ:four see [numbers](numbers) and [cosmos](cosmos)  
 
-You can search the Egytian dictionary using the [hieroglyph keyboard](https://hieroglyph-keyboard.herokuapp.com/)
+You can search the Egytian dictionary using the [hieroglyph keyboard](https://hieroglyph-keyboard.herokuapp.com/)  
