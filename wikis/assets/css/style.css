@@ -2,4 +2,36 @@
 	font-family: 'NewGardiner';
 	src: url('NewGardinerSMP.ttf') format('truetype');
 }
-body {    font-family: NewGardiner; }
+
+body {    
+	font-family: Arial,NewGardiner; 
+  background: -webkit-linear-gradient(top, #EDB, #FFF) fixed; 
+}
+
+h1{
+  text-transform: capitalize;
+  text-transform: uppercase;
+  text-align: center;
+  background: -webkit-linear-gradient(top, #eee, #fff);
+  border: 1px solid #EEE;
+  padding: 6px;
+}
+
+img{
+	max-width: 100%
+}
+
+a {
+  border: 0 none;
+  cursor: pointer;
+	text-decoration: underline none;
+	text-decoration:none;
+}
+
+.markdown-body {
+	margin:3%;
+	padding:20px;
+/*background: -webkit-linear-gradient(top, #fff, #eee);*/
+  background-color: #fff;
+  box-shadow: 2px 4px 8px rgba(0,0,0, .4);
+}
