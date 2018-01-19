@@ -22,7 +22,7 @@ bi/du/tu [𓏏](𓏏)𓏏 as syllable for duality already was present in Egypt:
 2 Shatwom 𓈙𓍃 שְׁתַּיִם sTwomn 𐎘𐎐𐎎 𓍏?  
 2 Snwi 𓈙𓈖𓅱𓇋 - zwei 水 shuǐ šina@Akkat eth’nen@Arab  
 2 min 𓏠𓈖𓅱  𒋰 𒈫 MIN 门 門 mén vs many [𓏠](𓏠) smni cmwin twin ?  
-
+2 duo 多 duō
 
 see [numbers](numbers), [cosmos](cosmos)  
 

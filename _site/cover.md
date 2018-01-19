@@ -13,4 +13,4 @@ cavern
 …?  
 ```  
 [Caveat emptor](https://en.wikipedia.org/wiki/Caveat_emptor)  
-[[𓆣]]?
+[[𓆣]]?  
