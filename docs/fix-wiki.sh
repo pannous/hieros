@@ -9,3 +9,5 @@ done
 ./repair-links.js
 git commit -a --allow-empty-message -m '⇔'
 git push
+
+broken-link-checker "http://pannous.github.io/hieros/Home" -ro --get |gv 400|gv "─OK─"
