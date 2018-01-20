@@ -1,6 +1,6 @@
 [Proto-Indo-European](https://en.wikipedia.org/wiki/Proto-Indo-European_language) is the consensus Theory in which many of the commonly spoken languages in the world from English to Hindi derive from one pioneering group of 'settlers' who conquered the world with horses some ~5000 years ago.  
 
-Here this theory is extended in that 'Proto-Indo-Europeans' did not stop at the gates of Sumeria and Egypt, but that they went straight through them. Either by forming the founding brotherhood of the international elite (which is depicted in Egyptian or Armana letters), or at the very least being in continuous strong contact with the ancient superpowers, leaving tremendous marks on all languages of Eurasia [and Egypt](highlights).  
+Here this theory is extended in that 'Proto-Indo-Europeans' did not stop at the gates of Sumeria and Egypt, but that they went straight through them. Either by forming the founding brotherhood of the international elite (which is depicted in Egyptian or Armana letters), or at the very least being in continuous strong contact with the ancient superpowers, leaving tremendous marks on all languages of Eurasia [and Egypt](Highlights).  
 
 [2017 NATURE VOL 546](https://www.nature.com/polopoly_fs/1.22069!/menu/main/topColumns/topLeftColumn/pdf/546017a.pdf)  
 Ancient Egyptians had little to no genetic kinship with sub-Saharan populations.  

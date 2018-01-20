@@ -14,7 +14,7 @@ The Fe rune ᚠ (Old Norse fé; Old English feoh) represents the f-sound in the 
 
 
 compare  
-Letter 'A' [𓄿](𓄿) Aar = eagle / [air](air)  
+Letter 'A' [𓄿](𓄿) Aar = eagle / [air](Air)  
 Letter ‘A’ [𓂝](𓂝) Ar *Arm *Hand vs *Dharma 𓂧 Orm  
 Letter 'R' [𓂋](𓂋) OHR eaRl à  
 𐦃	meroitic O	Ox  

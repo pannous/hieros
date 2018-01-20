@@ -3,7 +3,7 @@
 
 bi/du/tu [𓏏](𓏏)𓏏 as syllable for duality already was present in Egypt:  
 
-1 𓌠𓏤 bone (har)poon𓌡 vs 𓌟𓏤 boin (binary) [𓃀](𓃀)[𓃀](𓃀) [𓄹](𓄹)[𓄻](𓄻)vs  
+1 𓌠𓏤 bone (Har)poon𓌡 vs 𓌟𓏤 boin (binary) [𓃀](𓃀)[𓃀](𓃀) [𓄹](𓄹)[𓄻](𓄻)vs  
 2 𓌟 thun,toe ~ keras [𓈎](𓈎)𓋴𓌟 (horn)  
 2 𓈇 tawi   two-towns | two-lands dawlant(AR)=state! vs län.der[𓇾](𓇾)  
 2 d*,tu,tha  𓂋𓌟 rid reed ritual kathar vs ivory 𓍋𓃀[𓅱](𓅱)𓌟 ai.b.u.ry[d]  
@@ -24,7 +24,7 @@ bi/du/tu [𓏏](𓏏)𓏏 as syllable for duality already was present in Egypt:
 2 min 𓏠𓈖𓅱  𒋰 𒈫 MIN 门 門 mén vs many [𓏠](𓏠) smni cmwin twin ?  
 2 duo 多 duō  
 
-see [numbers](numbers), [cosmos](cosmos)  
+see [numbers](Numbers), [cosmos](cosmos)  
 
 nattura 𓈖𓇑𓇑𓏏[𓇳](𓇳)  (𐦌NE 𓇓shu  出chū 屮chè 子zi 𓇑𓇑tu) see [Nature](Nature)  
 

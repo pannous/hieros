@@ -1,9 +1,9 @@
-infant [[𓇋]][[𓈖]][[𓊪]][[𓅂]] i.n.ph.an' :   royal child  
+infant [𓇋](𓇋)[𓈖](𓈖)[𓊪](𓊪)[𓅂](𓅂) i.n.ph.an' :   royal child  
 
 𓐍𓇋𓇋𓀔 chi𓀔 child  
 
-𓆣[[𓂋]]𓇋𓇋𓀀 ~chard = child 𓐍[[𓈖]]𓀔𓀀 kinner  
-𓈖𓐍𓈖[[𓀔]]𓀀 Ahn Kinder (ancestors)  
+𓆣[𓂋](𓂋)𓇋𓇋𓀀 ~chard = child 𓐍[𓈖](𓈖)𓀔𓀀 kinner  
+𓈖𓐍𓈖[𓀔](𓀔)𓀀 Ahn Kinder (ancestors)  
 𓋴𓈖𓐍𓈖𓀔 nuckeln/nurse/nurture 𓀔 snug  
 𓋴𓂧𓈖  𓋴𓆓𓈖𓈖𓍖 carry (child)  seeden Schienen --  
 

@@ -19,7 +19,7 @@ shaChats see [𓄂](𓄂) cat head chat ~ heart [𓄣](𓄣) ♡
 
 Originally with deep L or 'Reo' as roar:  
 
-[𓂋](𓂋)[𓅱](𓅱)𓃭 RW/L[W](W) Löwe/lion/labiy' = אריה aRier!  
+[𓂋](𓂋)[𓅱](𓅱)𓃭 RW/L[W](w) Löwe/lion/labiy' = אריה aRier!  
 [𓌳](𓌳)𓅱𓃬 LW with 𓌳=לLamed reading (sic)  
 𓌳𓅱𓃬 maru 𒌨maḫu= 𒌨𒈤  
 𓃭𓃭 maruta ⇔ maletta=lions lair…  

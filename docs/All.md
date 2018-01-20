@@ -1,1 +1,1 @@
-see [𓎟](𓎟) [Cosmo](Cosmos)logy  
+see [𓎟](𓎟) [Cosmo](cosmos)logy  
