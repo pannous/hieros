@@ -42,7 +42,7 @@ Here are the Egyptian variants:
 
 The Egyptian Hieroglyphic writing system  started as a syllabary[➾](https://en.wikipedia.org/wiki/Syllabary) but soon converged to a rather small set of frequent signs&sounds plus «determinants» (like [𓈉](𓈉) for land).  
 
-Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) B.b.l.[1](numbers)(𓈉land)  
+Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) B.b.l.[1](Numbers)(𓈉land)  
 'L' 𓂋 «lense» «el'lips» actually is normally read as  
 'R' 𓂋 «rot» = «mouth» in Russian  
 
@@ -76,4 +76,4 @@ The most important sign of early urbanizers was probably
 1.KRad[𓐍](𓐍) (wheel)  
 2.soRay[𓇳](𓇳) (solar wheel / sun)  
 3.court[𓊖](𓊖)city  
-4.quarter[𓊖](𓊖)  𓆑𓂧𓅱:ЧⲦⲞⲞⲨ:four see [numbers](numbers) and [cosmos](cosmos)  
+4.quarter[𓊖](𓊖)  𓆑𓂧𓅱:ЧⲦⲞⲞⲨ:four see [numbers](Numbers) and [cosmos](cosmos)  

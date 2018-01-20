@@ -16,4 +16,4 @@ D6  𓁻 weyn  𓁼  reyn   𓁿    feyn  𓂀 mystery   faire=do=mey
 D7  𓁿 creye rain rayn rays  
 
 𓌵 Mayr  
-𓌶 Ma(ur)  𓌷  
+𓌶 Ma(Ur)  𓌷  
