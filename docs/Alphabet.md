@@ -1,9 +1,9 @@
-These are the most frequent signs of the hieroglyphics ordered by the modern roman alphabet. For the complete sign list see [Gardinger signs](Gardinger signs).  
+These are the most frequent signs of the hieroglyphics ordered by the modern roman alphabet. For the complete sign list see [Gardinger signs](Gardinger-signs).  
 
 We mostly follow the [conventional reading](https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian#Table_of_transliteration_schemes)  
  of the signs, with the exception of letter 'f' pth [𓆑](𓆑) vs [𓇋](𓇋)e.  
 
-|  [letter](abc.txt)  |gard|  [sign](Gardinger_signs) | comment |  
+|  [letter](abc.txt)  |gard|  [sign](Gardinger-signs) | comment |  
 |-----|--|--|-------|  
 a|[𓄿](𓄿)|Aar Adler|al`[air](Air) al'pha[𓃾](𓃾)  
 A|[𓂝](𓂝)|Arm|A&O𓂣דראע𐤂 अस aṃs dharma  
@@ -62,6 +62,6 @@ New York City
 
 In some cases both approaches seem legitimate, in others it seems more natural to include the suffix:  
 
-* 𓍋[𓃀](𓃀)[𓏲](𓏲)[𓄛](𓄛)[𓏪](𓏪) L'Ban[ther](ther)  
+* 𓍋[𓃀](𓃀)[𓏲](𓏲)[𓄛](𓄛)[𓏪](𓏪) L'Ban[ther](𓄛)  
 * 𓍋𓃀𓅱𓃰 El'Phan(ter)  
 * 𓍋𓃀𓏲𓃮 El Panther  
