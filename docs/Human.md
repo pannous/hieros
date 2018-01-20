@@ -1,7 +1,7 @@
 Human race 𓂋𓍿𓏏𓀀𓏥 𐀪 ris 人  
-[khem](khem)[en](men)  
+[khem](Khem)[en](men)  
 chaimans 𓆊𓆌𓏏 caiman, Khmti, Champsai  
-Khmen children of men: 𓃝 Khmun 𓋉 Khmin [𓇋𓏠𓈖](amen) 𓋊 Menes  
+Khmen children of men: 𓃝 Khmun 𓋉 Khmin [𓇋𓏠𓈖](Amen) 𓋊 Menes  
 roman = human ⲣⲱⲙⲓ@coptic!  人民 rénmín  
 commoner  
 homme  
@@ -92,5 +92,5 @@ camel?
 ```  
 Ritter Riten ⇔ [Britten](Ba)  
 
-Hopeless endevour. The only thing pretty certain is that these words have seemingly little to do with «Egyptian», but something with 𓂋𓅓𓍿 Ra[moses](moses) and Misraim 𓅓𓍿𓂋, 𓈖𓂋𓀀.  
+Hopeless endevour. The only thing pretty certain is that these words have seemingly little to do with «Egyptian», but something with 𓂋𓅓𓍿 Ra[moses](Moses) and Misraim 𓅓𓍿𓂋, 𓈖𓂋𓀀.  
 

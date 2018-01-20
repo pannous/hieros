@@ -2,7 +2,7 @@
 
 𒄷 Mus/Hen = Bird  
 [𓅓](𓅓) letter M  (amBi-valent: B.r) mute 🔇 brut ≠ hoot  
-[𓅱](𓅱) letter [W](W):UN *mwn *huhn *hen quail chicken 🎜 moan maulen  
+[𓅱](𓅱) letter [W](w):UN *mwn *huhn *hen quail chicken 🎜 moan maulen  
 [𓅐](𓅐) Mut = Mutter (mother earth) 🔇 mute 🎜 mourn death [𓅞](𓅞)  
 [𓅃](𓅃) chorus 🎜 chrysus [𓋞](𓋞) screetch  
 [𓅂](𓅂) Tweet 🎜 #ty[w](w) thoot [𓅞](𓅞) vs  

@@ -4,7 +4,7 @@ Trinity [𓈉](𓈉)[𓇾](𓇾)
 4-ness [𓊖](𓊖)[𓊽](𓊽)  
 All-ness [𓎟](𓎟) were important.  
 
-also see [numbers](numbers)  
+also see [numbers](Numbers)  
 
 0.) Null 𓏌 nill none mono primodial mound 'mundo' 𓏌𓏌𓏌𓇯[𓈗](𓈗) Nun𓀭 Amun?  
 1.) Erst Air [𓄿](𓄿) [𓇯](𓇯) 𓉔𓄿𓏏𓇯 haute photair first  
@@ -38,7 +38,7 @@ Uranus 𓏎 Thurn Zeus Goth Godam Gießer Geos vs Gaia
 
 Air 𓇯 vs Erde 𓇯𓏏  
 
-𓏌𓏏𓇯𓁐 Nut(air) Mother sky vs Mut𓅐 Mother earth!  
+𓏌𓏏𓇯𓁐 Nut(Air) Mother sky vs Mut𓅐 Mother earth!  
 
 Mother Nature 𓈖𓏏𓂋𓏯𓅐  ⲛⲟϣⲉⲣ = vulture ⇔ nurture vs male andro 'nTr' [𓊹](𓊹)  
 Mother Gaia 𓈖𓏏𓂋𓏯𓅐   (Geier=vulture in German) see 'geo'  
@@ -53,7 +53,7 @@ In the middle of the cosmos is the MES 𓄟 mountain/tree
 At the center of 'Khemter' 𓆎  𓏏  𓊖  𓏏 «cometer» was  
  Medgar [Mutar](𓅐) earth 𓍅 Maß, ground cairn  
 
-𓅐𓋬𓊖 Materie Maß, connecting [𓄟](𓄟) Mnais(birth) [Murt](Murt)(death), Maat and Mess, Order and Inorder, Art and Nature. Urbis and Orbis 𓊖. Connected by [Boten](Ba)𓊛𓊠 ([Messengers](Musen))  
+𓅐𓋬𓊖 Materie Maß, connecting [𓄟](𓄟) Mnais(birth) [Murt](murt)(death), Maat and Mess, Order and Inorder, Art and Nature. Urbis and Orbis 𓊖. Connected by [Boten](Ba)𓊛𓊠 ([Messengers](Musen))  
 
 al.tair  𓏛   at.las  
 𓇾 Terra preserved in terrain, territory, … and of cause 'three' 3  
