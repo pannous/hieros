@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf635f40-6736-41c5-af90-fcd7a9a76af2" name="Default" comment="" />
+    <list default="true" id="cf635f40-6736-41c5-af90-fcd7a9a76af2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/my_egyptian_dictionary.txt" afterPath="$PROJECT_DIR$/my_egyptian_dictionary.txt" />
+      <change beforePath="$PROJECT_DIR$/vocab.html" afterPath="$PROJECT_DIR$/vocab.html" />
+    </list>
     <ignored path="app.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +27,7 @@
       <file leaf-file-name="vocab.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vocab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="916">
               <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
               <folding />
             </state>
@@ -44,7 +47,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
+            <state relative-caret-position="46">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
@@ -54,7 +57,7 @@
       <file leaf-file-name="vocab.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vocab.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
+            <state relative-caret-position="368">
               <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
@@ -64,7 +67,7 @@
       <file leaf-file-name="extensions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extensions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2004">
+            <state relative-caret-position="1794">
               <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="6" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -76,7 +79,7 @@
       <file leaf-file-name="hieroglyps-vocab.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hieroglyps-vocab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
+            <state relative-caret-position="1518">
               <caret line="33" column="45" lean-forward="false" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
               <folding>
                 <marker date="1516059411000" expanded="true" signature="943:1135" ph="..." />
@@ -146,10 +149,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1952" />
-    <option name="y" value="24" />
-    <option name="width" value="3744" />
-    <option name="height" value="2160" />
+    <option name="x" value="64" />
+    <option name="y" value="7" />
+    <option name="width" value="1857" />
+    <option name="height" value="2154" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -206,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,7 +222,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -368,26 +371,30 @@
       <workItem from="1464010990770" duration="92000" />
       <workItem from="1464011114779" duration="9000" />
       <workItem from="1516056415300" duration="4290000" />
+      <workItem from="1517308291645" duration="599000" />
+      <workItem from="1517310959065" duration="701000" />
+      <workItem from="1517946450088" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20452000" />
+    <option name="totallyTimeSpent" value="22349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="98" y="-6" width="3742" height="2166" extended-state="6" />
+    <frame x="113" y="7" width="3728" height="2154" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10064935" sideWeight="0.7759372" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10054348" sideWeight="0.76692915" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10064935" sideWeight="0.22406277" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32878867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10054348" sideWeight="0.23307087" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24970461" sideWeight="0.49735048" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39853173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39853173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -658,7 +665,7 @@
     <entry file="file://$PROJECT_DIR$/fonts/gardiner_input.js" />
     <entry file="file://$PROJECT_DIR$/extensions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2004">
+        <state relative-caret-position="1794">
           <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -672,7 +679,7 @@
     <entry file="file://$PROJECT_DIR$/fonts/gardiner_map2.js" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
+        <state relative-caret-position="46">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -690,13 +697,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="859">
           <caret line="60" column="16" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vocab.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="368">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="39" />
           <folding />
         </state>
@@ -704,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hieroglyps-vocab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
+        <state relative-caret-position="1518">
           <caret line="33" column="45" lean-forward="false" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
           <folding>
             <marker date="1516059411000" expanded="true" signature="943:1135" ph="..." />
@@ -714,7 +720,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vocab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="916">
           <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
           <folding />
         </state>
