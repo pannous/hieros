@@ -86,16 +86,19 @@ T|[𓏏](𓏏)|Tell 𓏏𓏏tit
 U|[𓅱](𓅱)[𓍢](𓍢)𓏲|Huhn/Woun  
 V|[𓆑](𓆑)|Viper Phython  
 W|[𓅳](𓅳)|uu  
-X~Hr|[𓎛](𓎛)|Hair flaX Docht  
+X|[𓎛](𓎛)|flax Hair  
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusam/zone/syn-  
 
 But other icons are highly recognizable as well:  
-[𓃟](𓃟) Shu.wn [𓆄](𓆄)[𓅱](𓅱) swine  
+[𓃟](𓃟) Shu.wn [𓆄](𓆄)[𓅱](𓅱) swine  𓆷𓄿𓂸𓃟  
+[𓆷](𓆷) swamp  
 [𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer beetle  
 [𓆤](𓆤) Horned Beetles [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
 [𓄜](𓄛) Tier deer  
 [𓌹](𓌹) Amur admire marry ♡  
+[𓋺](𓋺)𓏏𓏤 shade  
+[𓈙](𓈙) sea chad 水 shuǐ  
 [𓂓](𓂓)𓂓 kwerKar work  
 [𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay!  
 [𓊖](𓊖) Court (city quarters)  

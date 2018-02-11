@@ -11,7 +11,7 @@ c|[𓍿](𓍿)|Ceh Z𓊃S𓋴| ⵛappa[𓏘](𓏘)[𓎡](𓎡)𓍿 TS/ST!
 D|[𓏏](𓏏)|Delle/Tell|𓏏𓏏dad=tit [𓂧](𓂧)δeirm[𓂝](𓂝)  
 D|[𓂧](𓂧)|Daum| Ⲇ/δr/cheir/χειρo [𓄛](𓄛) dast@Pers  
 E|[𓇋](𓇋)|fEather 𓏭|fEδer leicht (v)ι,e,i,a,ey ו ee↔i  
-F|[𓇋](𓇋)|Fieder[𓆑](𓆑)|𓇌Viper phython=PhSn=:ϝn φϑظ  
+F|[𓇋](𓇋)|Fieder[𓆑](𓆑)|𓇏fen 𓇌Viper phython=PhSn=:ϝn φϑظ  
 G|[𓎼](𓎼)|Ɠiebel[𓏘](𓏘)|Kübel piK γ,κ,Γ,g,χ [𓌨](𓌨)[𓊖](𓊖)  
 H|[𓉔](𓉔)|HOuse| Hair[𓎛](𓎛)𓍢𓏲 Hundreh[𓅱](𓅱)𓏲=100  
 I|[𓇋](𓇋)|fIeder| (v)ι,e,a,ey,𓇌,ee=i,y  
