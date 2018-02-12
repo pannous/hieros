@@ -1,3 +1,15 @@
+[𓅪](𓅪) fowl -foul -full -voll -vol -*vål  (suffix for small, foul or evil things)  
+[𓆑](𓆑)𓏏𓅪 (re)sentful++  
+𓃀𓅱𓅪 bane/foul/evil  
+
+𓅪 Sperber sparrow spärlich Sperling  
+
+𓅪 ★GVAL *cul* foul evil villain ghoul ≠ gavilán  
+𓅨 ★GVER very great Gefahr? ≠ gorrión  
+
+GVER𓅪 gorrión gavilán 𓅫GVAL Sperling vs Sperber sparrow (hawk) Sperberbird;)  
+
+
 The [grammar](Grammar) of the Egyptian language was progressed so much that the suffix for adjectives was mostly condensed as -𓍘𓏤 -ty or just -𓏭 -𓏮 -𓇋𓇋 -y:  
 
 nosy nosey 𓂉𓏤𓇋𓇋  
