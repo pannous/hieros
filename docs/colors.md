@@ -6,7 +6,7 @@
 🍋lemon le moon (yellow color) vs  
 🍋lemon = harbor ⇔ almond (shape+color)  
 🌙 ye lun ~ yellow ⇔ yol.de ⇔ gold  
-SuRa[𓇳](𓇳) Suri=yellow ⇔ sur:yellow-green sar:green! azur:green-blue!  
+SuRa[𓇳](𓇳) Suri=yellow ⇔ sur:yellow-green sar:green azur:green-blue!  
 zař زهڕ gold  
 zeř ڕز gold  
 cyron 𐬰𐬀𐬭𐬀𐬦𐬌𐬌𐬀 (zarańiia-)  vs chrome chroma aroma  

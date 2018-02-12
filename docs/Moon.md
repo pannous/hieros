@@ -19,7 +19,7 @@ neu     𓇸	9 neun	ichneumon
 𓅱𓐍 mooNa / luNa  
 𓅓𓐍 Mu*  
 𓋊 Menes Amon amen Moon Monthu  
-𓀭 Amun “moon god”! 𓀭 DON aDAMon!  
+𓀭 Amun “moon god” 𓀭 DON aDAMon!  
 
 la lune  
 le moon 🍋lemon (yellow [color](color))  

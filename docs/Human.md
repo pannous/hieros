@@ -2,7 +2,7 @@ Human race 𓂋𓍿𓏏𓀀𓏥 𐀪 ris 人
 [khem](Khem)[en](men)  
 chaimans 𓆊𓆌𓏏 caiman, Khmti, Champsai  
 Khmen children of men: 𓃝 Khmun 𓋉 Khmin [𓇋𓏠𓈖](Amen) 𓋊 Menes  
-roman = human ⲣⲱⲙⲓ@coptic!  人民 rénmín  
+roman = human ⲣⲱⲙⲓ@coptic  人民 rénmín  
 commoner  
 homme  
 hombre  
@@ -33,7 +33,7 @@ E-Gypsies:Sinti&Roma vs Römer
 
    mankind, Egyptians   𓂋  𓅓  𓍿  𓈓  
 Ramosser ++ <⇔> 𓂋 ~ Raman Ramund (pre?)Ramses? ⇔ Misraim  
-<!>  
+⇔  
    (collective n.) men, mankind   𓂋  𓍿  𓏏  𓀀  𓏥  𓁐  
    (collective n.) men, mankind   𓂋  𓍿  𓏏  𓀀  𓏥  
    (collective n.) man, men, mankind, Egyptians   𓂋  𓍿  𓏏  𓀀  𓏥  
@@ -47,13 +47,13 @@ Rosster Röter Ritter
 Riten ⇔ Schlitten 𓍃  
 Riesen ⇔ Titanen Teutonen  
 Ris 𐀪 @ Linear B ⇔ risen andRos ante Ross 🐎  
-roman = human @ coptic! 人民 rénmín  
+roman = human @ coptic 人民 rénmín  
 Rest  
 Rechte  
 Reute 𓂋𓍿𓏏 Leute  
 Ramst ⇔ Chems Kemt  
 RMC Ramesser ^^ vs RTTN  Ratten Racker ;)  
-RaTcT ⇔ RMC Ramesser 2* above!  
+RaTcT ⇔ RMC Ramesser 2* above  
    subjects, common folk, mankind   𓅚  𓇋  𓇋  𓏏  
    subjects, common folk, mankind   𓂋  𓐍  𓏏  𓅚  𓀀  𓏥  𓁐  
 Rechts*  
@@ -74,7 +74,7 @@ toumon ⇔ toulemond
 ```  
 KHEM 𓆎 Km(t) timsah champsai 𓆊 #MZH  
 cham=heat 𒈪  charm:warm  
-chompt = 𓆊𓆌 chomet=lizard/lie_@HEB! Kermit 𓆎  
+chompt = 𓆊𓆌 chomet=lizard/lie_@HEB Kermit 𓆎  
 Cometh  ☄ 𓆎 Komet  
 cometheor +Medin?  
 charm : warmth  

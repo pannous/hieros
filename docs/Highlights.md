@@ -17,7 +17,7 @@ But other icons are highly recognizable as well:
 [𓌵](𓌵)Mvoyer  
 [𓋬](𓋬)MatheMathei[𓆇](𓆇)  
 [𓄟](𓄟)Mes mnais Moses  
-[𓂜](𓂜)None,mano,ney!  
+[𓂜](𓂜)None,mano,ney  
 [𓄜](𓄛)Tier  
 [𓄣](𓄣) Heart  
 [𓉡](𓉡)Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor  
