@@ -25,9 +25,11 @@ See [cosmos](cosmos)
 [𓇋](𓇋) Fie(ξ/δ/γ) 飛 fēi(gel) fly flee OPTER [𓇋](𓇋)PTHER  
 [𓅯](𓅯) flu gale gull vol(er)𓅫GVAL/GVER𓅪 𒃲 (s)wal𓅪very fowl viel foul? Vul𓅐 Vieh flieg⇔frog?  
 
+GVER𓅪 gorrión gavilán 𓅫GVAL Sperling vs Sperber sparrow (hawk) Sperberbird;)  
+
 ```  
-G Geier  
--------  
+G Geier GVER𓅪  
+--------------  
 G1	𓄿 Aar=>air,är,er,ara 𐌰𐍂𐌰[Eng erne] eagle   𓄿		G2𓅀 vs 𓅂 tyw 𓅱 BAyê@kurd ⇔ baz bussard bal𓅡Falk  
 G3  𓅁 -Lair Tisch-ler … -gair -gar -ger -er	 -mer -mair: merity Mayor Sir chapel chaperon ~cairc? sick macker???  
 G4	𓅂 1. #tyw tian taner->𓋀𓅂 Westerner  
