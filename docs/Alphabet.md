@@ -6,8 +6,8 @@ We mostly follow the [conventional reading](https://en.wikipedia.org/wiki/Transl
 |-----|--|--|-------|  
 a|[𓄿](𓄿)|Aar Adler|al`[air](Air) al'pha[𓃾](𓃾)  
 A|[𓂝](𓂝)|Arm|A&O𓂣דראע𐤂 अस aṃs dharma  
-b|[𓃀](𓃀)|Bein| ƥođ/ƥleɠ𓂾jambone𓄹𓄻  
-c|[𓍿](𓍿)|Ceh Z𓊃S𓋴| ⵛappa[𓏘](𓏘)[𓎡](𓎡)𓍿 TS/ST!  
+b|[𓃀](𓃀)|Bein| ƥođ/ƥleɠ𓂾jambone𓄹𓄻 le白báinon𓋁  
+c|[𓍿](𓍿)|Ceh Z𓊃S𓋴| ⵛappa[𓏘](𓏘)[𓎡](𓎡)𓍿 TS/ST  
 D|[𓏏](𓏏)|Delle/Tell|𓏏𓏏dad=tit [𓂧](𓂧)δeirm[𓂝](𓂝)  
 D|[𓂧](𓂧)|Daum| Ⲇ/δr/cheir/χειρo [𓄛](𓄛) dast@Pers  
 E|[𓇋](𓇋)|fEather 𓏭|fEδer leicht (v)ι,e,i,a,ey ו ee↔i  
@@ -26,14 +26,15 @@ Po|[𓊪](𓊪)|pool| who𓊪[𓏲](𓏲)  𒉺𐠞匹pǐ πⲠב𐀡𐠡Ⳁϱρ
 Q|[𓏘](𓏘)|Quarꜩ| 𓈎𓏇𓇋𓇋 Gummi 𓌽[𓂋](𓂋)Gersten Korn [𓎡](𓎡)~q [𓎼](𓎼)[𓐎](𓐎)[𓁷](𓁷)𐀣  
 R|[𓂋](𓂋)|eaR|ohR àr arse ϱρрrot=Mund@Rus  [𓏲](𓏲)round roài® 𓂌𓂍rayns  الفم  
 R|𓍢[𓏲](𓏲)ϱ| 𓍯𓍢𓏲 | rhound~100  
-S|[𓋴](𓋴)|[𓏏](𓏏)[𓆓](𓆓)|S'S C'S ß Γ ʃ δ 𓏏! Ⲋ𓆓 Shad[𓈙](𓈙)Sea  
-T|[𓏏](𓏏)|Teig|Dough 𓏏𓏏TiT tick𓏴tag𓏵Tag! [𓏏](𓏏)th~s! [𓄜](𓄜)[𓄛](𓄛)  
+S|[𓋴](𓋴)|[𓏏](𓏏)[𓆓](𓆓)|S'S C'S ß Γ ʃ δ 𓏏 Ⲋ𓆓 Shad[𓈙](𓈙)Sea  
+T|[𓏏](𓏏)|Teig|Dough 𓏏𓏏TiT tick𓏴tag𓏵Tag [𓏏](𓏏)th~s [𓄜](𓄜)[𓄛](𓄛)  
 U|[𓅱](𓅱)|[𓍢](𓍢)𓏲|HUhndert=100 [𓏌](𓏌)Ων ωuν 𓏲𓍢وقف𐀸 wound  
 V|[𓇋](𓇋)|viehder[𓇋𓇋](𓇋𓇋)vaw|vyλ [𓅡](𓅡)phauw ννν:fun  𓄲  𓇋𓇋 va[𓇋](𓇋)  
-W|[𓅳](𓅳)|uu[𓏲](𓏲)𓍢|ων waw 𓍢rwound 𐀸 𓎛wHr! wΩm! -mos µhwn[𓅱](𓅱) [𓅓](𓅓)µwū乌 𓍢𓏲ϱr  
+W|[𓅳](𓅳)|uu[𓏲](𓏲)𓍢|ων waw 𓍢rwound 𐀸 𓎛wHr wΩm -mos µhwn[𓅱](𓅱) [𓅓](𓅓)µwū乌 𓍢𓏲ϱr  
 X|[𓏴](𓏴)|𓏵|𐄂χX 𐠷=CS 𓎡𓋴 𓍲𓏴 ticks✓ [𓂧](𓂧)[end] Ξξ  
 Y|[𓏭](𓏭)|¨𓏮 𓇌 𓇋𓇋 𓆄𓆄|vyλ丫yā:fork yuvw T+𓏮=TWO亚 义羽Yǔstice 𐀂Y [𓎡](𓎡)yek/juɠ  
 Z|[𓊃](𓊃)|Zone| zusam syn [𓍿](𓍿),ʒ,Z,Σ,ß,ss,ts,c,δ 𓄑  
+Sh|[𓈉](𓈉)|Schanze|山ШшЩщ [𓆷](𓆷)swampϢ ∑ 三 sān Karδan [𓂓](𓂓)[𓈋](𓈋)[𓈙](𓈙)  
 
 
 Even in its early form, the Egyptian hieroglyphics system was 'almost alphabetic'. A quite small and easy to learn system of syllables, at least compared to Chinese.  

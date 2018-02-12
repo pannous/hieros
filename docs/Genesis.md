@@ -21,7 +21,7 @@ Genesis 𓊃𓈙𓏮𓅹 zhnízdo=nest [𓆂](𓆂) gynishdu kin + kinners𓅸 (
 G38 𓅬 goosen Gänsen gEnten ganter goo.ßen 𓅬  𐦖 letter 'KA'  
 G38 𓅬 𓋴[𓏠](𓏠)𓈖𓅭 gamen gämsen Gänsen 𓅬 ~ 𓅭 gEnthen++ Ganter  
 G39 𓅭 ~gamnsen=sen=son=gonthe𓅬,genten𓅭,jeun,Jun[g],gynsen  
-G39 𓅭𓏏 duck : **daughter** dough! [𓏏](𓏏) talk 𐎯𐎧𐎬𐎠 Duxtar@Persian  
+G39 𓅭𓏏 duck : **daughter** dough [𓏏](𓏏) talk 𐎯𐎧𐎬𐎠 Duxtar@Persian  
 
 [𓅬](𓅬) Gomns gones cynith cygnos swan zwin twin [𓌢](𓌢)  
 [𓌢](𓌢)𓏏 coult be cynith [𓅬](𓅬)~cys[ther](ther) sister  
@@ -32,14 +32,14 @@ geon ~ crane   [𓍑](𓍑)𓏏𓊌𓅭 ⇔ Phoenis?
 gaia ~ ground  𓊃𓅭𓏏 𓆱?  
 Ziegel Ziggurat Zicke Zetern 𓊃𓅭𓏏 ⇔  Gans <?> ϫⲟⲓ ϫⲱⲓ währ wall [𓅪](𓅪) vål  
 
-𓅭𓇳 Sandra [𓇳](𓇳) !  
+𓅭𓇳 Sandra [𓇳](𓇳)  
 𓅬 sin χήν swan κύκν [𓅱](𓅱) [κύβω](cover) [dumme](𓉐) Gans  
 
 
 𓎛𓅭𓏏 'Hathor'? Dochter? Druit?  
 
 [𓅓](𓅓)[𓊃](𓊃)𓅭 M.SS.Sen messent: present ⇔ message  
-[𓅓](𓅓)𓊃𓅭 Br.SS.Ente present! Exact PIE rendering uncertain:  
+[𓅓](𓅓)𓊃𓅭 Br.SS.Ente present Exact PIE rendering uncertain:  
 𓅓𓊃𓅭 παρουσίαζαν [parousíazan] present  
 
 see [𓌢](𓌢) twin,kin,gyn,generations  

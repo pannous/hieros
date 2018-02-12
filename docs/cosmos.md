@@ -19,7 +19,7 @@ Some hieroglyps/concepts look a bit like puzzle pieces for children:
 [𓈋](𓈋) dval, dual for tell(hill) and Tal(valley) vs [𓏏](𓏏) tell Delle  
 [𓇾](𓇾) ter, terrain: earth  
 
-As in [PIE](PIE) religions, we have a duality between a potent father sky 𓊪𓏏𓇯 and mother earth [𓅐](𓅐)𓏏𓁐, although both often have have partners (dom,dame) or even switch roles 𓏌𓏏𓇯𓁐 Nut vs Mut 𓅐𓏏𓁐! Nun & Naunet.  
+As in [PIE](PIE) religions, we have a duality between a potent father sky 𓊪𓏏𓇯 and mother earth [𓅐](𓅐)𓏏𓁐, although both often have have partners (dom,dame) or even switch roles 𓏌𓏏𓇯𓁐 Nut vs Mut 𓅐𓏏𓁐 Nun & Naunet.  
 
 ```  
    sky, heaven   𓊪  𓏏  𓇯 𓀭  
@@ -38,7 +38,7 @@ Uranus 𓏎 Thurn Zeus Goth Godam Gießer Geos vs Gaia
 
 Air 𓇯 vs Erde 𓇯𓏏  
 
-𓏌𓏏𓇯𓁐 Nut(Air) Mother sky vs Mut𓅐 Mother earth!  
+𓏌𓏏𓇯𓁐 Nut(Air) Mother sky vs Mut𓅐 Mother earth  
 
 Mother Nature 𓈖𓏏𓂋𓏯𓅐  ⲛⲟϣⲉⲣ = vulture ⇔ nurture vs male andro 'nTr' [𓊹](𓊹)  
 Mother Gaia 𓈖𓏏𓂋𓏯𓅐   (Geier=vulture in German) see 'geo'  
@@ -61,7 +61,7 @@ al.tair  𓏛   at.las
 
 The name of this mountain/tree was birch/Berg (first religious center possibly al Burj Elbruz), connected via barges[𓊛](𓊛)  
 
-[𓎛](𓎛)𓎛  eternaty, for ever, dura!  
+[𓎛](𓎛)𓎛  eternaty, for ever, dura  
 
 ```  
 totality of men, everyone   𓇿  𓇿  𓍃  𓅓  𓏛  𓀀  𓁐  𓏪  

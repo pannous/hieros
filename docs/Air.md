@@ -2,7 +2,7 @@
 
 Written as [𓄿](𓄿)[Aar](Aar)/Air  
 
-  𓇯𓏏=Erde! ⇔ pitair  
+  𓇯𓏏=Erde ⇔ pitair  
 
 [𓁷](𓁷) 𓂋 𓇯 𓈙 𓈇 𓆑 𓅆 (divinity) Arsaphes  
 
@@ -22,8 +22,8 @@ Kite 𓇥 𓂋 𓇋 𓇋 𓏏  *ohroit *khorit
 
 [𓅭](𓅭) [𓅨](𓅨)  
 
-𓅣;;benhurun heron !!! ← benu-runner |;Bennu bird | Its name is related to the Egyptian verb wbn, meaning "to rise in brilliance" or "to shine". | ⇔ Bhuto ? | Bhut.ur  
-𓅣;;heron;⇔ HEROS ! URU⇔UHU ⇔ ben.hur | Ardea bennuides is a large extinct heron  
+𓅣;;benhurun heron ! ← benu-runner |;Bennu bird | Its name is related to the Egyptian verb wbn, meaning "to rise in brilliance" or "to shine". | ⇔ Bhuto ? | Bhut.ur  
+𓅣;;heron;⇔ HEROS  URU⇔UHU ⇔ ben.hur | Ardea bennuides is a large extinct heron  
 
 𓅠 𓅓 𓎛 𓋴 𓀭;;hawk; ⇔ faint:find/weak  
 𓅠 𓅓 𓏲 𓅯 𓏥;;(pl.) black ibis ⇔ paint  

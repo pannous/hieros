@@ -9,7 +9,7 @@ clever, ~gewand, buBend
 
    quadruple   𓇋  𓆑   𓂧  𓂢  𓏥  
 qVdt𓂢?  
-1) qV !? maybe already split from early PIE -> fftd 4-drieren ohne q!?  
+1) qV ? maybe already split from early PIE -> fftd 4-drieren ohne q!?  
 2) 𓂢 Endung? -don -tion -ate -ieren ok but normally different suffix  
 other PIE endings:  
 čtyřná.sobný  

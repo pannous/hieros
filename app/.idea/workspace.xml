@@ -149,10 +149,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
-    <option name="y" value="7" />
-    <option name="width" value="1857" />
-    <option name="height" value="2154" />
+    <option name="x" value="1952" />
+    <option name="y" value="24" />
+    <option name="width" value="1888" />
+    <option name="height" value="2136" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -374,12 +374,12 @@
       <workItem from="1517308291645" duration="599000" />
       <workItem from="1517310959065" duration="701000" />
       <workItem from="1517946450088" duration="597000" />
-      <workItem from="1518348917253" duration="36000" />
+      <workItem from="1518348917253" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22385000" />
+    <option name="totallyTimeSpent" value="22947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="113" y="7" width="3728" height="2154" extended-state="6" />
