@@ -21,16 +21,16 @@ This (re)discovery lead to well established theories of [proto-indoeuropean](PIE
 
 The roots of the Persian language came via the region of Elam with its capital Susa on the eastern border of Sumeria. Strikingly the cultural artefacts of Egypt and Susa were nearly identical:  
 
-![susa-egypt.png](susa-egypt.png)  
+[susa-egypt.png](susa-egypt.png)  
 Near identical building plans of the early temples and very similar early Egyptian and Sumerian [ceremonies](Hieros gamos) clearly demonstrate that these are not mere trade-artefacts, but in fact proof of a common anchestry of both higher civilizations.  
 Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution).  
-Only recently has the [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin at 4000BC. As it contains more gold and artefacts from Uruk(!) than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Especially as it connects our [European roots](PIE) with the two great civilizations of Mesopotamia and Egypt. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, proto-*writing*, *«kingship»* and the *sail* boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) -3800BC.  
+Only recently has the [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin at 4000BC. As it contains more gold and artefacts from Uruk() than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Especially as it connects our [European roots](PIE) with the two great civilizations of Mesopotamia and Egypt. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, proto-*writing*, *«kingship»* and the *sail* boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) -3800BC.  
 
-![https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png](https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png)  
+[https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png](https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png)  
 In 5000BC the danube [Vinča civilization](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture) pioneered advanced copper technology, in 4200BC the [Varna](https://en.wikipedia.org/wiki/Varna_culture) hordes contain more gold artefacts than all other sites of that time combined. By that standard the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt quite late, though one of its watermark: industrial brewing and cast copper can be found as early as 3700BC.  
 
 Varna King, Romania ~4000BC  
-![https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png](https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png)  
+[https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png](https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png)  
 
 Here we investigate how deeply the roots go and how the [system](PIE), its [cosmology](cosmos) and language are intertwined with our own:  
 
@@ -48,7 +48,7 @@ Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) 
 
 Barbarion or not, the Egyptian letter 'b' [𓃀](𓃀) looks almost like a flipped modern 'b' in writing (both writing directions were common initially). The word '𓃀' itself is cognate with [european](PIE) variants: Bein, Pod, foot, la pierna: lab' vs leg(𓃀~L) …  
 
-Every single letter in this “[Alphabet](Alphabet)” of Egyptian hieroglyphs left a tremendous linguistic footprint on most surrounding and quite distant extinct and extant languages!  
+Every single letter in this “[Alphabet](Alphabet)” of Egyptian hieroglyphs left a tremendous linguistic footprint on most surrounding and quite distant extinct and extant languages  
 
 But other icons are highly recognizable as well:  
 [𓃟](𓃟) Shu.wn [𓆄](𓆄)[𓅱](𓅱) swine  
@@ -56,7 +56,7 @@ But other icons are highly recognizable as well:
 [𓆤](𓆤) Horned Beetles [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
 [𓄜](𓄛) Tier deer  
 [𓂓](𓂓)𓂓 kwerKar work  
-[𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay!  
+[𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  
 [𓊖](𓊖) Court (city quarters)  
 [𓇳](𓇳) soRay 🌞  
 [𓊛](𓊛) Shiphonit  
@@ -72,7 +72,7 @@ This Discovery is not entirely new, Dr. Christian De Vartavan, former head of th
 Egyptian had a big influence on Semitic, African *and* European languages.  
 
 The most important sign of early urbanizers was probably  
-![https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png](https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png)  
+[https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png](https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png)  
 1.KRad[𓐍](𓐍) (wheel)  
 2.soRay[𓇳](𓇳) (solar wheel / sun)  
 3.court[𓊖](𓊖)city  
