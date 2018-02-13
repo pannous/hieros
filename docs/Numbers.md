@@ -3,6 +3,10 @@ NUMBERS
 [𓍿](𓍿) [𓈖](𓈖) [𓌙](𓌙) [𓅯](𓅯) [𓏌](𓏌) [𓅱](𓅱) [𓏜](𓏜) **count²**, [quantity](Interrogatives)  
 [𓍿](𓍿)=c[𓈖](𓈖)=n[𓌙](𓌙)=tan : count  
 
+[𓆎](𓆎) [𓅓](𓅓) [𓏜](𓏜) ∑ kommt : total up, amount to, complete, put an end to, pay (to), profit, duty  
+∑ compute, comme, kommt zu ... macht Zusammen, Summe, count, compter ⇔ censor  
+
+
 During the amost four millenia in which egyptian hieroglyphics where in use, surely ambivalent readings of the signs developed. Although the exact spoken forms of pharaonic numbers are forever lost to history they seem to be similar to:  
 
 There was and still is significant confusing weather counting should start with 0 or 1.  

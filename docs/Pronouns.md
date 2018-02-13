@@ -1,6 +1,6 @@
 Pronouns  
 
-ürh, tu, she, es, unous, thine, them, sin, sun, su, who, whon, one, all, that  
+ürk, tcyou, she, es, unous, thine, them, sin, sun, su, who, whon, one, all, that  
 
 Egyptian pronouns seem to hint at a linguistic Bridge between Semitic/Berber- languages and European languages:  
 
@@ -15,13 +15,28 @@ Egyptian pronouns seem to hint at a linguistic Bridge between Semitic/Berber- la
 2nd p. 		|𓏏𓈖𓏪	|-tn 	|tn 		|ton,thine  
 3rd p. 		|𓋴𓈖𓏪	|-sn 	|sn 		|semn⋍them  
 
-Independent pronouns are prefixed by [𓈖](𓈖)[𓏏](𓏏) which is similar to latin **ante-** as directional **An**rede (address), compare with ancient greek ἦστ (n?)este forms. The first person form is irregular with variants of 𓅱𓈖𓎡 moi,mon,mine,we,uck…  
+The first person form is irregular with variants of 𓅱𓈖𓎡 moi,mon,mine,we,uck…  
 
 The hypothesized ancient forms of the ‘letters’  𓆑 𓎡 𓇋 𓅱 (see [Alphabet](Alphabet) and [Axioms](Axioms)) with slight shifts and dangling connotations play well into the above table:  
 [𓆑](𓆑) φ pthn⋍s*n:  φίδιn python snake [usually simple transcribed as ‘f’]  
 [𓎡](𓎡) *tcu: Kelle/cup/tasse [alt] vs jug, jar  
 [𓇋](𓇋) *fe feather/vieh ⇨ ve / we  
 [𓅱](𓅱) µω:= u, uu, w, ‘un, ‘en, mwn  
+
+Independent pronouns are prefixed by [𓈖](𓈖)[𓏏](𓏏) which is similar to latin **ante-** as directional **An**rede (address), compare with ancient greek ἦστ (n?)este forms. Possesive pronouns are similar:  
+
+𓏏 𓄿 𓇋 𓇋 𓀀 der/die Meine  
+𓏏 𓄿 𓇋 𓇋 𓎡 der/die Deine  
+𓏏 𓄿 𓇋 𓇋 𓆑der/die Seine  
+𓏏 𓄿  der  
+𓏏 𓅱 𓇋 𓇋 die (this)  
+𓏏 𓅱 𓍿 𓈖 𓏥 Dein (your)  
+𓏏 𓆑 diesen (this)  
+𓏏 𓆑 𓄿 dieser (dort) that (over there)  
+
+Compare "possessive adjectives"  
+-[𓏌](𓏌)[𓅱](𓅱) -URN! nord⇨ northern 𓎔𓎛𓅱𓇇  
+ Late reading of «𓏌» as «o» meaning 'of'  
 
 [Plural](Plural) 𓏪 ‘thir3’ 𓈖𓏪 n.thir⇨unser   ω+𓋴+𓂋  
 [Dual](dual)  
@@ -48,5 +63,22 @@ Berber  nat/nath⋍nas: natche (𓈖𓏏-je) natta (𓈖𓏏-ta) nasse (𓈖𓏏
 Again, this may not forbid links to European languages, rather hint to basal Egyptian intermediate or root forms.  
 
 Oddity: compare Berber natta - هو  with 𓆑 φ pthn⋍s*n:  φίδιn python snake  
+
+𓏏 𓄿  der / dlar : reflexive 'that'  
+
+Grammatical semantic and phonetic continuum  
+
+Der Gin der Genie.  
+Del Gin del Genie.  
+De Gin 的 Genie  
+Le Gin de la Genie.  
+Al gin al genie.  
+El gin El genie.  
+All Genie All Wissend.  
+Genial Alwis Elvis  
+Almighty All-Vater 𓎟 𓊪 𓏏 𓇯  
+Alice Queeneth Potanz 𓎟 𓏏 𓆗 𓊪 𓏏 𓇯  
+
+
 
 Next: [Interrogatives](Interrogatives) / Reflexives  
