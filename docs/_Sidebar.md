@@ -1,5 +1,5 @@
 [Home](/)  
-[Signs](Gardinger-signs)  
+[Signs](Gardiner-signs)  
 [Grammar](Grammar)  
 [Alphabet](Alphabet)  
 

@@ -1,3 +1,1 @@
-[Home](/) |  
-[Alphabet](Alphabet) |  
-[Gardinger-signs](Gardinger-signs)  
+[Home](/) | [Alphabet](Alphabet) | [Gardiner-signs](Gardiner-signs)  

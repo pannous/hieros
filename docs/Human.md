@@ -1,5 +1,5 @@
 Human race 𓂋𓍿𓏏𓀀𓏥 𐀪 ris 人  
-[khem](Khem)[en](men)  
+[Khem](Khem)[en](men) 𓆎 𓏏 𓀀 𓁐 𓏥 Common Kommune kommt ∑ [sum](Numbers) total [𓆎](𓆎) 𓅓 𓏜  
 chaimans 𓆊𓆌𓏏 caiman, Khmti, Champsai  
 Khmen children of men: 𓃝 Khmun 𓋉 Khmin [𓇋𓏠𓈖](Amen) 𓋊 Menes  
 roman = human ⲣⲱⲙⲓ@coptic  人民 rénmín  
