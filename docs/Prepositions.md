@@ -1,17 +1,17 @@
 “Prepositions are among the most idiosyncratic words of any language. Often it is impossible to translate the prepositions of one language exactly into those of another.”  
 Given this observation by a wise Egyptologist it is even more astonishing that we can grasp most Egyptian prepositions just by looking at their alphabetic values, at least if we know some German and very basic Spanish and (à) French:  
 
-𓏏 **t**	to  
-𓈖 **n**	an (of, belonging to, for), na’ (nach, to), in (time)  
-𓂋 **r**	 à (french) at, re (regarding, as for, from, so that), vers, towards, to, until  
-𓂜 **nə** no negation (also 𓂜𓈖 non)  
-𓏇 milk **ꟿi** ~ wie / like / similak  
-𓅓 mñωw  
-	 **im**: in, en, ɘn  
-	 **mi**: mit=com=with  
-	 im prefix **~ing** (im Tanze —> dancing)  
-	 **µo**  don’t … negation at start of sentence  
-	 **mano** 𓂜 negation (keltic/gaelic)  
+[𓏏](𓏏) **t**	to  
+[𓈖](𓈖) **n**	an (of, belonging to, for), na’ (nach, to), in (time)  
+[𓂋](𓂋) **r**	 à (french) at, re, vers, towards, as for, from, so that, to, until  
+[𓂜](𓂜) **nə** no negation (also 𓂜𓈖 non, not 𓂜𓏏 anti-  ⲁⲧ- , ⲁⲑ-)  
+[𓏇](𓏇) **mi**lk ꟿi ~ wie / like / similak similar misma  
+[𓅓](𓅓) mñωw  enigma :  
+𓅓 **im**: in, en, ɘn, im  
+𓅓 **mi**: mit=com=with  
+𓅓 **im**: prefix **~ing** (im Tanze —> dancing)  
+𓅓 **µo**: negation at start of sentence  
+𓅓 **mano** 𓂜 negation (keltic/gaelic)  Schlitten shitem 𓏏𓍃𓅓 ϣⲧⲉⲙ don’t …  
 𓅓𓅓->𓅔 ‘mn': **among**   (𓅓𓅓𓂝 etc variants giving the ‘o’)  
 
 We postulate either an *ambi*guity or trisonant reading of '𓅓' ✴Amber  
@@ -41,11 +41,12 @@ combined:
 𓏏𓏏 ‘**that’**  or  𓏏𓏏 tit 𓂑𓂑 = 𓃀𓏏𓄹 (bust/breast)  
 
 
-[Hr] 𓁷𓂋 car(french) since, before, until, kartam ⇔  
-[Xr] 𓌨𓂋 *care* of, under care, carrying (holding, possessing) ⇔ circa?  ~ 𓎡𓂋|𓐍𓂋  
-[xr] 𓐍𓂋 sûr, share, carry with, near, under (a king), to, by (of agent) ~ [Xr] 𓌨𓂋  
-[Kr] 𓇥𓂋 corear, corner (at an end), carry offer->over (done)  
+[Hr] [𓁷](𓁷)𓂋 ob/car(french) since, over, before, until, kartam ⇔  
+[Kr] [𓇥](𓇥)𓂋 corear, corner (at an end), carry offer->over (done)  
+[Xr] [𓌨](𓌨)𓂋 under, care of, carrying (holding, possessing) ~ 𓎡𓂋 ~  
+[xr] [𓐍](𓐍)𓂋 sûr, share, carry with, near, under (a king), to, by (of agent)  
+⇔ circa?  
 
 𓇋 𓅱 [𓂜](𓂜) 𓍘  𓇋 	anti (what is not)  
 
-还 hái  和 hé  河hé=𓈖  	(Chilli con carne etc)  
+𓎛𓈖𓂝 heno 还 hái  和 hé  河hé=𓈖  (Chilli con carne etc)  ham@Persian  
