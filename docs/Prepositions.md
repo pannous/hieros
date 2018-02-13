@@ -42,10 +42,10 @@ combined:
 𓏏𓏏𓏝 **toute** / **total**  not to be confused with  
 𓏏𓏏 ‘**that’**  or  𓏏𓏏 tit 𓂑𓂑 = 𓃀𓏏𓄹 (bust/breast)  
 
-[Hr] [𓁷](𓁷)𓂋 ob/car(french) since, over, before, until, kartam ⇔  
-[Kr] [𓇥](𓇥)𓂋 corear, corner (at an end), carry offer⇨over (done)  𓇥𓂋𓀜 hinder¿  
-[Xr] [𓌨](𓌨)𓂋 under, charge/care of, carrying (holding, possessing) ⋍ 𓎡𓂋 ⋍  
-[xr] [𓐍](𓐍)𓂋 sûr, share, carry with, near, under (a king), to, by (of agent)  
+[Hr] [𓁷](𓁷)𓂋 ob/**car**(french) since, over, before, until, kartam ⇔  
+[Kr] [𓇥](𓇥)𓂋 corear, **corner** (at an end), **carry** offer⇨over (done)  𓇥𓂋𓀜 hinder¿  
+[Xr] [𓌨](𓌨)𓂋 under **charge**/**care** of, **carry**ing (holding, possessing) ⋍ 𓎡𓂋 ⋍  
+[xr] [𓐍](𓐍)𓂋 sûr, share, **carry** with, near, **kar**tam, under (a king), to, by (of agent)  
 ⇔ circa?  
 
 𓇋 𓅱 [𓂜](𓂜) 𓍘  𓇋 	anti (what is not)  
