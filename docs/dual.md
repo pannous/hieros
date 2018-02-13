@@ -6,7 +6,7 @@ Preseved in some [european](PIE) languages, there is a tendency for the loss of 
 bi/du/tu [𓏏](𓏏)𓏏 as syllable for duality already was present in Egypt:  
 
 1 𓌠𓏤 bone (Har)poon𓌡 vs 𓌟𓏤 boin (binary) [𓃀](𓃀)[𓃀](𓃀) [𓄹](𓄹)[𓄻](𓄻)vs  
-2 𓌟 thun,toe ~ keras [𓈎](𓈎)𓋴𓌟 (horn)  
+2 𓌟 thun,toe ⋍ keras [𓈎](𓈎)𓋴𓌟 (horn)  
 2 𓈇 tawi   two-towns | two-lands dawlant(AR)=state vs län.der[𓇾](𓇾)  
 2 d*,tu,tha  𓂋𓌟 rid reed ritual kathar vs ivory 𓍋𓃀[𓅱](𓅱)𓌟 ai.b.u.ry[d]  
 2 tion 𓎼𓈖𓏌𓅱𓏏𓌟𓌟𓌟𓏛𓏛𓏛 generations*  
