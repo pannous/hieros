@@ -28,11 +28,7 @@ Independent pronouns are prefixed by [𓈖](𓈖)[𓏏](𓏏) which is similar t
 𓏏 𓄿 𓇋 𓇋 𓀀 der/die Meine  
 𓏏 𓄿 𓇋 𓇋 𓎡 der/die Deine  
 𓏏 𓄿 𓇋 𓇋 𓆑der/die Seine  
-𓏏 𓄿  der  
-𓏏 𓅱 𓇋 𓇋 die (this)  
-𓏏 𓅱 𓍿 𓈖 𓏥 Dein (your)  
-𓏏 𓆑 diesen (this)  
-𓏏 𓆑 𓄿 dieser (dort) that (over there)  
+𓏏 𓄿  der (that) see [Reflexives](Reflexives)  
 
 Compare "possessive adjectives"  
 -[𓏌](𓏌)[𓅱](𓅱) -URN! nord⇨ northern 𓎔𓎛𓅱𓇇  
@@ -81,4 +77,4 @@ Alice Queeneth Potanz 𓎟 𓏏 𓆗 𓊪 𓏏 𓇯
 
 
 
-Next: [Interrogatives](Interrogatives) / Reflexives  
+Next: [Interrogatives](Interrogatives) / [Reflexives](Reflexives)  
