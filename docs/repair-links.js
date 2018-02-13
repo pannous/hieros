@@ -8,7 +8,7 @@ for(f of files){
 	if(empty(f)||isDir(f))continue 
 	if(f=="t.md")continue 
 		// f="t.md"
-	console.log(f)
+	// console.log(f)
 	text=read(f)
 	text=text.replace(/\[\[([^\]]+?)\]\]/g,"[$1]($1)")  // no textile links :(
 	for(g of docs)
