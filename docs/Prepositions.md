@@ -5,14 +5,14 @@ Given this observation by a wise Egyptologist it is even more astonishing that w
 [𓈖](𓈖) **n**	an (of, belonging to, for), na’ (nach, to), in (time)  
 [𓂋](𓂋) **r**	 à (french) at, re, vers, towards, as for, from, so that, to, until  
 [𓂜](𓂜) **nə** no negation (also 𓂜𓈖 non, not 𓂜𓏏 anti-  ⲁⲧ- , ⲁⲑ-)  
-[𓏇](𓏇) **mi**lk ꟿi ~ wie / like / similak similar misma  
+[𓏇](𓏇) **mi**lk ꟿi ⋍ wie / like / similak similar misma  
 [𓅓](𓅓) mñωw  enigma :  
 𓅓 **im**: in, en, ɘn, im  
 𓅓 **mi**: mit=com=with  
-𓅓 **im**: prefix **~ing** (im Tanze —> dancing)  
+𓅓 **im**: prefix **⋍ing** (im Tanze —> dancing)  
 𓅓 **µo**: negation at start of sentence  
 𓅓 **mano** 𓂜 negation (keltic/gaelic)  Schlitten shitem 𓏏𓍃𓅓 ϣⲧⲉⲙ don’t …  
-𓅓𓅓->𓅔 ‘mn': **among**   (𓅓𓅓𓂝 etc variants giving the ‘o’)  
+𓅓𓅓⇨𓅔 ‘mn': **among**   (𓅓𓅓𓂝 etc variants giving the ‘o’)  
 
 We postulate either an *ambi*guity or trisonant reading of '𓅓' ✴Amber  
 1.) M  
@@ -23,17 +23,17 @@ The second reading covers nicely the European prepositional megacluster of
 
 Which itself connects with the semitic mega cluster **C-V-R** (meaning cover ...)  
 
-𓁷 [ob/Hr] **cObHerr** 𓁷 Ober, ob, auf, up, upon, on, and, ob->because (german)  
-𓁶 *ƥ’rs first 𓁶𓏤𓈖 presence phrs -> face  
+𓁷 [ob/Hr] **cObHerr** 𓁷 Ober, ob, auf, up, upon, on, and, ob⇨because (german)  
+𓁶 *ƥ’rs first 𓁶𓏤𓈖 presence phrs ⇨ face  
 𓁶 **top** , atop  
-𓁷 **head* -> **at** <-chat ⇔ 𓄂𓏏  
+𓁷 **head* ⇨ **at** ⇦chat ⇔ 𓄂𓏏  
 
 combined:  
 𓎛𓈖𓂝    𓎛𓂝𓈖  **ḫon**, con, com, comme (with + and)  
-𓄂𓏏 pḫanther/cḫat 𓄂 fronter ~ head   (vs 𓄖 back heck hock)  
+𓄂𓏏 pḫanther/cḫat 𓄂 fronter ⋍ head   (vs 𓄖 back heck hock)  
 𓏅𓈖𓏏 **front* / Kante [xnt]   𓏅 FNT/PNT/5 vs 𓏃 FORe/FRo/FROm/FROnt/fourth/4  
 𓏅𓈖𓏏𓏮 **fronty** (adj.) frontier, foremost, pre-eminent in, principal, protruding  
-𓐍𓆑𓏏  **face**in'   front, in front of, towards, according to, as well as, corresponding to, facing “katzen” ~ 面 miàn ?  
+𓐍𓆑𓏏  **face**in'   front, in front of, towards, according to, as well as, corresponding to, facing “katzen” ⋍ 面 miàn ?  
 𓅓  𓏅𓈖𓏏  in front: in the face of, within, out of[xt] (preposition) through, throughout, pervading {M3 Aa1 X1 D54}  
 𓆱𓐍𓏏𓂻 **achter**	 (behind)   [xtx] 𓆱𓏏𓆱𓆱𓏤  through  
 𓂋𓇉𓄿𓁶  **rear**     behind  
@@ -42,8 +42,8 @@ combined:
 
 
 [Hr] [𓁷](𓁷)𓂋 ob/car(french) since, over, before, until, kartam ⇔  
-[Kr] [𓇥](𓇥)𓂋 corear, corner (at an end), carry offer->over (done)  
-[Xr] [𓌨](𓌨)𓂋 under, care of, carrying (holding, possessing) ~ 𓎡𓂋 ~  
+[Kr] [𓇥](𓇥)𓂋 corear, corner (at an end), carry offer⇨over (done)  
+[Xr] [𓌨](𓌨)𓂋 under, care of, carrying (holding, possessing) ⋍ 𓎡𓂋 ⋍  
 [xr] [𓐍](𓐍)𓂋 sûr, share, carry with, near, under (a king), to, by (of agent)  
 ⇔ circa?  
 

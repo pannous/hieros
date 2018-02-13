@@ -88,7 +88,7 @@ There was and still is significant confusing weather counting should start with 
 10 µTen 𓎆 #mDw vs #mDj  ⲘⲎⲦ / ⲘⲦⲈ @copt	umpteen		µ 5? 5x2? µtwon:  ⲘⲎⲦ = THenm backwards  
 20 µTwenty! 𓎆𓎆 #mdwtj		30maabe 40qvame? 50djjw 60sisin 70sevhjn 80 8mene 90 poseidón psdjw  
 100 cent 𓍢 #št #šnt shund' 𓊃 centipede=cenpod𓊃𓊪𓅮!!   ϢⲎⲦ = ShmHt ShHnT = cent  
-100 hund-tau 𓅱𓍢 𓃡 chien 犬 quǎn czien 𓌕 <- ḫunt cent ṣādē 𐤑 ?    whun𓍢dreht/wound𓍢thread  
+100 hund-tau 𓅱𓍢 𓃡 chien 犬 quǎn czien 𓌕 ⇦ ḫunt cent ṣādē 𐤑 ?    whun𓍢dreht/wound𓍢thread  
 1000 #kha 千 1.000 qiān 𓐍𓆼𓄿𓅱     kHazar@Armenian saHasra@Sanskrit   xilia:KILO! vs milia!  Ϣⲟ@Coptic  
 1000 (FRüh)Tow-Zehn 𓍢x𓎆=𓆼  (Tow-cien-tent-oan-nuacht 1111.0 vs 1001 nights)  
 1000 līmi @ Akkad  mille@Ro Lilie𓆼 ⇔ limes   (k?)alif@Arab,Beja xilili@GR lily=sosan. Susan Tausend viel wie Sand?  
@@ -130,7 +130,7 @@ Orders of magniture:
 𓍢	100 Hun3rd/Hun'tau V1 Hand (l)und 𓍢 𓅱 Huhn 𓃡 QED 3rd order 𓊃 centipede cien : hund hantel 巴 百 bǎi  𓐍𓂸𓏏kent=3!! 100cent=3'rd order!!  
 𓆼	1.000 (FRüh)Tow-Zehn (𓍢𓎆)  M12(+T11)  𓆼   fr=>4rth order ♀  早 zǎo ꜩau-cent giant 千 qiān CHIA?  
 千 1.000 qiān 𓐍𓆼𓄿𓅱 +++  
-万 𓆼𓄿 𓆼𓅱𓎸 Wanne = WAN 万! 'Myriade' 10000 𓆼 1000  ⇔ 万 wandern -> fern 不​复 bu.fu = ¬found=lost  
+万 𓆼𓄿 𓆼𓅱𓎸 Wanne = WAN 万! 'Myriade' 10000 𓆼 1000  ⇔ 万 wandern ⇨ fern 不​复 bu.fu = ¬found=lost  
  10,000 𓆓𓃀𓂝𓂭  span 万 wàn  
 𓂭	10.000 pent D50  𓂭 point   'zig' pHan=> 万 wàn =10.000 王 wuáng  戊 wù  5th order Myriade µ  
 𓆐	100.000 (s)hequa  I8   𓆐  I7    𓆏   Heqat frog goddess  6th order  巳 sì  己 jǐ  
@@ -152,7 +152,7 @@ The different writing styles of the plural might indicate different phonetic ins
 
 The transmission of these numbers was amplified via [Phoenicians](https://www.academia.edu/16403755/Phoenician_origins_of_numerals) and arabs, although Indian scholars contributed greatly to the final version of our numerals.  
 
-cent cien ->千 1.000 qiān 𓐍𓆼𓄿𓅱 khan -> giant -> (q)WAN 万 -> quandoƒ ->  
+cent cien ⇨千 1.000 qiān 𓐍𓆼𓄿𓅱 khan ⇨ giant ⇨ (q)WAN 万 ⇨ quandoƒ ⇨  
 
 [𓍿](𓍿) [𓈖](𓈖) [𓌙](𓌙) [𓅯](𓅯) [𓏌](𓏌) [𓅱](𓅱) [𓏜](𓏜) **count²**, [quantity](Interrogatives)  
 [𓍿](𓍿)=c[𓈖](𓈖)=n[𓌙](𓌙)=tan : count  
