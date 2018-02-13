@@ -14,8 +14,8 @@ The [grammar](Grammar) of the Egyptian language was progressed so much that the 
 
 nosy nosey 𓂉𓏤𓇋𓇋  
 compare  
-luck -> lucky  
-fun -> funny  
+luck ⇨ lucky  
+fun ⇨ funny  
 
 
 -artig -*hearty -has -𓄣 ♡𓄤  
@@ -27,4 +27,4 @@ fun -> funny
 
 l#IB ♡ vs like  
 
-肥 féi -> 肥​的 féi-de = fettig  
+肥 féi ⇨ 肥​的 féi-de = fettig  

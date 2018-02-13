@@ -37,6 +37,6 @@ Khmet or Cometheor [𓆎](𓆎)
 
 
 "Founding Father"  
-[𓋉](𓋉) Menes 𓋊 => k'Amon amen Moon Monthu ... Narmer~Norman?  
+[𓋉](𓋉) Menes 𓋊 => k'Amon amen Moon Monthu ... Narmer⋍Norman?  
 Children of [Men](Human)?  
 𓈾 Mensartio  

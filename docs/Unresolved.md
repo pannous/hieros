@@ -5,11 +5,11 @@ However the number of words which are well understood is overwhelming, and well 
 Only recently is the theory of a Eurasian superfamily getting more traction, finding similarities between [proto-indo-european](PIE) and semitic languages.  
 ```  
   crooked 𓆞  𓄿  𓃀𓌳  
-clever, ~gewand, buBend  
+clever, ⋍gewand, buBend  
 
    quadruple   𓇋  𓆑   𓂧  𓂢  𓏥  
 qVdt𓂢?  
-1) qV ? maybe already split from early PIE -> fftd 4-drieren ohne q!?  
+1) qV ? maybe already split from early PIE ⇨ fftd 4-drieren ohne q!?  
 2) 𓂢 Endung? -don -tion -ate -ieren ok but normally different suffix  
 other PIE endings:  
 čtyřná.sobný  

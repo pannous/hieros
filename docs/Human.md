@@ -32,7 +32,7 @@ ní @sumer
 E-Gypsies:Sinti&Roma vs Römer  
 
    mankind, Egyptians   𓂋  𓅓  𓍿  𓈓  
-Ramosser ++ <⇔> 𓂋 ~ Raman Ramund (pre?)Ramses? ⇔ Misraim  
+Ramosser ++ <⇔> 𓂋 ⋍ Raman Ramund (pre?)Ramses? ⇔ Misraim  
 ⇔  
    (collective n.) men, mankind   𓂋  𓍿  𓏏  𓀀  𓏥  𓁐  
    (collective n.) men, mankind   𓂋  𓍿  𓏏  𓀀  𓏥  
@@ -66,7 +66,7 @@ Ar.I.Er
 
 
    totality of men, everyone   𓏏  𓍃  𓅓  𓅱  𓀀  𓏥  𓁐  
-timsah ~ caiman ⇔ human   𓆊 #MZH  
+timsah ⋍ caiman ⇔ human   𓆊 #MZH  
 toumon ⇔ toulemond  
 ```  
 

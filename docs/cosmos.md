@@ -65,7 +65,7 @@ The name of this mountain/tree was birch/Berg (first religious center possibly a
 
 ```  
 totality of men, everyone   𓇿  𓇿  𓍃  𓅓  𓏛  𓀀  𓁐  𓏪  
-~totamadan  
+⋍totamadan  
  todos'men  
  total'adam  
  mada 𓅓  𓏛  𓀀  𓁐  𓏪 ⇔ [𓄟](𓄟) modha mose = born  

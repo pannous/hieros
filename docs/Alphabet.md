@@ -23,11 +23,11 @@ M|[𓅓](𓅓)|[Musen](Musen)𒈪| [𓏇](𓏇)𓇋𓅱[𓃠](𓃠)mµnνuvw𐀖
 N|[𓈖](𓈖)|NiL[𓌳](𓌳)|NAUtik 𓈖𓏤=𒈾 NAr.mer [𓈗](𓈗)mnuwave μν  
 O|[𓍯](𓍯)|όριο|rho ϱ 𓍯rogue 𓂣A&O𓂝 o < p𓊪/k口/m𓂋/r𓂋/w𓊪/wh[𓏲](𓏲)/h𓉔  
 Po|[𓊪](𓊪)|pool| who𓊪[𓏲](𓏲)  𒉺𐠞匹pǐ πⲠב𐀡𐠡Ⳁϱρрro pan ἀπο  
-Q|[𓏘](𓏘)|Quarꜩ| 𓈎𓏇𓇋𓇋 Gummi 𓌽[𓂋](𓂋)Gersten Korn [𓎡](𓎡)~q [𓎼](𓎼)[𓐎](𓐎)[𓁷](𓁷)𐀣  
+Q|[𓏘](𓏘)|Quarꜩ| 𓈎𓏇𓇋𓇋 Gummi 𓌽[𓂋](𓂋)Gersten Korn [𓎡](𓎡)⋍q [𓎼](𓎼)[𓐎](𓐎)[𓁷](𓁷)𐀣  
 R|[𓂋](𓂋)|eaR|ohR àr arse ϱρрrot=Mund@Rus  [𓏲](𓏲)round roài® 𓂌𓂍rayns  الفم  
-R|𓍢[𓏲](𓏲)ϱ| 𓍯𓍢𓏲 | rhound~100  
+R|𓍢[𓏲](𓏲)ϱ| 𓍯𓍢𓏲 | rhound⋍100  
 S|[𓋴](𓋴)|[𓏏](𓏏)[𓆓](𓆓)|S'S C'S ß Γ ʃ δ 𓏏 Ⲋ𓆓 Shad[𓈙](𓈙)Sea  
-T|[𓏏](𓏏)|Teig|Dough 𓏏𓏏TiT tick𓏴tag𓏵Tag [𓏏](𓏏)th~s [𓄜](𓄜)[𓄛](𓄛)  
+T|[𓏏](𓏏)|Teig|Dough 𓏏𓏏TiT tick𓏴tag𓏵Tag [𓏏](𓏏)th⋍s [𓄜](𓄜)[𓄛](𓄛)  
 U|[𓅱](𓅱)|[𓍢](𓍢)𓏲|HUhndert=100 [𓏌](𓏌)Ων ωuν 𓏲𓍢وقف𐀸 wound  
 V|[𓇋](𓇋)|viehder[𓇋𓇋](𓇋𓇋)vaw|vyλ [𓅡](𓅡)phauw ννν:fun  𓄲  𓇋𓇋 va[𓇋](𓇋)  
 W|[𓅳](𓅳)|uu[𓏲](𓏲)𓍢|ων waw 𓍢rwound 𐀸 𓎛wHr wΩm -mos µhwn[𓅱](𓅱) [𓅓](𓅓)µwū乌 𓍢𓏲ϱr  
@@ -39,7 +39,7 @@ Sh|[𓈉](𓈉)|Schanze|山ШшЩщ [𓆷](𓆷)swampϢ ∑ 三 sān Karδan [�
 
 Even in its early form, the Egyptian hieroglyphics system was 'almost alphabetic'. A quite small and easy to learn system of syllables, at least compared to Chinese.  
 The exact phonetic values are impossible to reconstruct, but comparative linguistics can give estimates for the dominant dialects. Even at the time when this language was still spoken most letters were clusters of similar sounds (see different values of 'a' in 'man','made','master',…)  
-For example many Egyptian words which have the character '𓃀' now have a 'b' in its derived coptic forms, or similar bh,ph,p,v,f sounds in modern variants of the word '𓃀' (all meaning ~leg)  
+For example many Egyptian words which have the character '𓃀' now have a 'b' in its derived coptic forms, or similar bh,ph,p,v,f sounds in modern variants of the word '𓃀' (all meaning ⋍leg)  
 
 * Bein | German  
 * pāy, padistān | Persian  

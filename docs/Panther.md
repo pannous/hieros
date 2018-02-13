@@ -6,13 +6,13 @@
 LeoPanther  
 LeoParther  
 LöWen[Tier](𓄛) [𓃬](𓃬) [𓃭](𓃭)  
-@Levant [𓋁](𓋁) ~ 𓍋 ?  
+@Levant [𓋁](𓋁) ⋍ 𓍋 ?  
 
 
 Leopard, Panther, Lion … continuum with different names and species:  
 𓃬𓌳 Schirkan™ shirîkhân@Kurd shachats@Sem shachal رش  jackal  
 
-shaChats see [𓄂](𓄂) cat head chat ~ heart [𓄣](𓄣) ♡  
+shaChats see [𓄂](𓄂) cat head chat ⋍ heart [𓄣](𓄣) ♡  
 
 𓃭 Letter 'L' as Leo:  
 ([𓊪](𓊪)[𓏏](𓏏)[𓍯](𓍯)𓃭[𓐝](𓐝)[𓇋𓇋](𓇋𓇋)[𓋴](𓋴))| = Petro.Leomeis = [Ptolemy](https://en.wikipedia.org/wiki/Ptolemaios)(s)  

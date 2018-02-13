@@ -29,7 +29,7 @@ Only recently has the [Maykop culture](https://en.wikipedia.org/wiki/Maykop_cult
 [https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png](https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png)  
 In 5000BC the danube [Vinča civilization](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture) pioneered advanced copper technology, in 4200BC the [Varna](https://en.wikipedia.org/wiki/Varna_culture) hordes contain more gold artefacts than all other sites of that time combined. By that standard the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt quite late, though one of its watermark: industrial brewing and cast copper can be found as early as 3700BC.  
 
-Varna King, Romania ~4000BC  
+Varna King, Romania ⋍4000BC  
 [https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png](https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png)  
 
 Here we investigate how deeply the roots go and how the [system](PIE), its [cosmology](cosmos) and language are intertwined with our own:  
@@ -46,7 +46,7 @@ Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) 
 'L' 𓂋 «lense» «el'lips» actually is normally read as  
 'R' 𓂋 «rot» = «mouth» in Russian  
 
-Barbarion or not, the Egyptian letter 'b' [𓃀](𓃀) looks almost like a flipped modern 'b' in writing (both writing directions were common initially). The word '𓃀' itself is cognate with [european](PIE) variants: Bein, Pod, foot, la pierna: lab' vs leg(𓃀~L) …  
+Barbarion or not, the Egyptian letter 'b' [𓃀](𓃀) looks almost like a flipped modern 'b' in writing (both writing directions were common initially). The word '𓃀' itself is cognate with [european](PIE) variants: Bein, Pod, foot, la pierna: lab' vs leg(𓃀⋍L) …  
 
 Every single letter in this “[Alphabet](Alphabet)” of Egyptian hieroglyphs left a tremendous linguistic footprint on most surrounding and quite distant extinct and extant languages  
 
