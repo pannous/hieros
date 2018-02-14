@@ -53,7 +53,7 @@ hieroglyps|transcribed|english|letters
 Using the egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
 The Egyptian Hieroglyphic writing system  started as a syllabary[➾](https://en.wikipedia.org/wiki/Syllabary) but soon converged to a rather small set of frequent signs&sounds plus «determinants» (like [𓈉](𓈉) for land).  
 
-Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) B.b.l.[1](Numbers)(𓈉land)  
+Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) b.b.l.[1](Numbers)(𓈉land)  
 'L' 𓂋 «lense» «el'lips» is normally read as  
 'R' 𓂋 «round»  («rot» = mouth in Russian = the meaning of the sign)  
 
