@@ -1,6 +1,6 @@
 Reflexive & Interrogative Pronouns  
 
-variations of the same or similar (reflexive) who(s):  
+variations of the same or similar (reflexive) who(S):  
 
 |english|hieroglyphs|approximation|cognates|  
 |-------|-----------|-------------|--------|  

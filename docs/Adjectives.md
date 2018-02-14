@@ -2,6 +2,7 @@ Adjectives and adverbs are not fully developed, but rather used nominatively, ye
 
 -★hearty -artig -hath -ate -[𓄣](𓄣) ♡𓄤  (chicken-heart𓄣=fearful)  affectionate  
 -tig -ty -de -y -𓍘𓏤 -𓏭 -𓏮 -𓇋𓇋 -ta -ed -et -ter -𓏛 -thern  
+-w -wu -u -on 𓅱  
 -ious -nurwn -𓏌𓅱 -on -ion -[𓏌](𓏌)𓅱 -URN!  nord⇨ northern  
 -mend -mind [𓏇](𓏇)[𓄣](𓄣) -mi -mos -mo  vraiment vachement (similar) -wie -wy -y [𓏇](𓏇)  
 -like -lig -lich -lieb -ly -y -ig [𓏇](𓏇)𓄣♡ -𓏭 -𓏮 -𓇋𓇋?  
@@ -47,5 +48,6 @@ Adjectives verbs and nomen are often interchangable
 𓌷 𓂝 𓏜||(adj. and v.) true  
 𓍋 𓅓 𓂋 𓅪||(adj.) sick  
 𓍯 𓆓 𓇆||(adj.) fortunate  
+𓊃 𓈙 𓏏 𓍔 𓄿 𓅱 𓏜 secretly  vs 𓊃 𓈙 𓏏 𓍔 𓏜  
 
 [causative](causative) 𓋴 se  
