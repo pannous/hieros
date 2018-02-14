@@ -1,5 +1,6 @@
-[Home](/)  
+[Home](Home)  
 [Signs](Gardiner-signs)  
+[Axioms](Axioms)  
 [Grammar](Grammar)  
 [Alphabet](Alphabet)  
 

@@ -11,13 +11,14 @@ Feminine suffix [𓏏](𓏏)  -t ⋍ **-th** ⋍ -ss   prince —> princess
 [Adjectives](Adjectives) via suffix **-ty** [𓏏](𓏏)[𓏮](𓏮)   -𓏏[𓍔](𓍔)  and  **-y** -[𓇋𓇋](𓇋𓇋) -𓏮  fun - funny  
 [Verbs](Verbs) conjugation past+passive  [𓅱](𓅱) **-w** [𓈖](𓈖) **-n** -en see-saw-seen  
 [Verbs](Verbs) conjugation past+passive  [𓏏](𓏏) **-t:** -ed -ty  walk-walked  
+[Nouns](Nouns) and [Determinants](Determinants)  
 [Pronouns](Pronouns) singular ante* 𓇋I 𓎡cou [𓆑](𓆑)fhe/sin*, [𓋴](𓋴)she [𓋴](𓋴)es  
 [Pronouns](Pronouns) plural nous[𓈖](𓈖), [𓍿](𓍿)thine, [𓋴](𓋴)[𓈖](𓈖)them  
 [Interrogatives](Interrogatives) / [Reflexive](Interrogatives)  [𓊪](𓊪)[𓍢](𓍢)who/one  
 [Prepositions](Prepositions) [𓈖](𓈖) in, an, on, [𓅓](𓅓) im, mit, with, [𓂋](𓂋) àr, re-, [𓏏](𓏏) to, at …  
 [Comparatives](Comparatives) via suffix [𓂋](𓂋) -r hard —> harder  
 [Plural](Plural) [𓅱](𓅱) ‘w’:’un / ‘en  Sonne⇨Sonnen  
-[Dual](dual) **-di** -du  
+[Dual](Dual) **-di** -du  
 [Numbers](Numbers) !  
 [Particles](Particles)  
 

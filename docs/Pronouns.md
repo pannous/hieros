@@ -35,7 +35,7 @@ Compare "possessive adjectives"
  Late reading of «𓏌» as «o» meaning 'of'  
 
 [Plural](Plural) 𓏪 ‘thir3’ 𓈖𓏪 n.thir⇨unser   ω+𓋴+𓂋  
-[Dual](dual)  
+[Dual](Dual)  
 
 The following are the personal pronouns of Mehri, an extant language spoken in Yemen and Oman.  
 

@@ -7,7 +7,7 @@ Adjectives and adverbs are not fully developed, but rather used nominatively, ye
 -mend -mind [𓏇](𓏇)[𓄣](𓄣) -mi -mos -mo  vraiment vachement (similar) -wie -wy -y [𓏇](𓏇)  
 -like -lig -lich -lieb -ly -y -ig [𓏇](𓏇)𓄣♡ -𓏭 -𓏮 -𓇋𓇋?  
 -some [𓄥](𓄥)  
--[𓅪](𓅪) -**vål** fowl -foul -full -voll -vol  (suffix for small, foul or evil things)  
+-[𓅪](𓅪) -**vål** fowl -foul -full -voll -vol **-al**  (suffix for small, foul or evil things)  
 -[𓅪](𓅪) ★GVAL cul klein gleich equal evil villain ghoul ≠ gavilán  
 -[𓅨](𓅨) ★GVER wr very great Gefahr? ≠ gorrión  
 
