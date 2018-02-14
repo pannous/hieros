@@ -15,4 +15,4 @@
 
 𓌸 𐀄 'U'=𐀄𐀈𐀫/hydro/hOE/mAU Linear B  
 
-美 měi	 	 	die An[mut](Mut)  
+美 měi	 	 	die An[mut](mut)  
