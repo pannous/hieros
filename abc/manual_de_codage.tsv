@@ -1,3 +1,4 @@
+gard	glyph	codage	reading		
 A12	𓀎	mSa			
 A15	𓀒	xr			
 A17	𓀔	Xrd	child, rich.chard		
@@ -64,12 +65,12 @@ F22	𓄖	pH	back panther pard
 F23	𓄗	xpS			
 F25	𓄙	wHm			
 F26	𓄚	Xn	hind, R-ind		
-F29	𓄝	sti	shot, set(fire,...)	S*T 	
+F29	𓄝	st	shot, set(fire,...)	S*T 	
 F30	𓄞	Sd	Scheide sheath	SH*DH	
 F31	𓄟	ms	Messe, mesut, (re)naissance	MES / NAIS	
 F32	𓄡	X	scrot(um)	SCR / CHR	
 F33	𓄢	sd	stail, tail, steil 𓃩 𓃫 ↔ Seth	ST*	
-F34	𓄣	ibƒ	heart	HT	
+F34	𓄣	ib	heart	HT	
 F35	𓄤	nfr	heart:fair ♡ schön, gut, …	GT / …	
 F36	𓄥	zmA	soma	SM	
 F39	𓄪	imAx	s(pinal)cord?	?	
@@ -108,7 +109,7 @@ G42	𓅰	wSA	ƒ
 G43	𓅱	w	hEN,huhn,chuicwen	wn, wen, un, en, u	
 G44	𓅲	ww			
 G46	𓅴	mAw			
-G47	𓅷	TA	phain.chick	(man)
+G47	𓅷	TA	phain.chick	(man)	
 G54	𓅾	snD			
 H2	𓆀	pq	beak		
 H2	𓆀	wSm	cor(moron) 		
@@ -276,7 +277,7 @@ S42	𓌂	xrp
 S43	𓌃	md			
 S44	𓌄	Ams			
 S45	𓌅	nxxw			
-S56	undefined	K			
+S56	?	K			
 S6	𓋘	sxmty			
 S7	𓋙	xprS			
 S8	𓋚	Atf			
