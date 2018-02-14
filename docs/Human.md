@@ -41,7 +41,7 @@ Ramosser ++ <⇔> 𓂋 ⋍ Raman Ramund (pre?)Ramses? ⇔ Misraim
    (collective n.) man, men, mankind, Egyptians   𓂋  𓍃  𓀀  𓏥  
    (collective n.) man, men, mankind, Egyptians   𓂋  𓏏  𓀀  𓏥  𓁐  
 Recke = Warrior +++  
-Rekka@Edda (Hero)  
+Rekka@Edda (hero)  
 Rassana@Etruskan ⇔ Ross 🐎  
 Rosster Röter Ritter  
 Riten ⇔ Schlitten 𓍃  
@@ -72,7 +72,7 @@ toumon ⇔ toulemond
 
 
 ```  
-KHEM 𓆎 Km(t) timsah champsai 𓆊 #MZH  
+KHEM 𓆎 Km(TR?) timsah champsai 𓆊 #MZH  
 cham=heat 𒈪  charm:warm  
 chompt = 𓆊𓆌 chomet=lizard/lie_@HEB Kermit 𓆎  
 Cometh  ☄ 𓆎 Komet  

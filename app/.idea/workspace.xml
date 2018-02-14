@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf635f40-6736-41c5-af90-fcd7a9a76af2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/gardiner.csv" afterPath="$PROJECT_DIR$/gardiner.csv" />
       <change beforePath="$PROJECT_DIR$/my_egyptian_dictionary.txt" afterPath="$PROJECT_DIR$/my_egyptian_dictionary.txt" />
       <change beforePath="$PROJECT_DIR$/vocab.html" afterPath="$PROJECT_DIR$/vocab.html" />
     </list>
@@ -149,10 +150,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1952" />
-    <option name="y" value="24" />
-    <option name="width" value="1888" />
-    <option name="height" value="2136" />
+    <option name="x" value="64" />
+    <option name="y" value="7" />
+    <option name="width" value="1857" />
+    <option name="height" value="2154" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">

@@ -44,7 +44,7 @@ Ziegel Ziggurat Zicke Zetern 𓊃𓅭𓏏 ⇔  Gans <?> ϫⲟⲓ ϫⲱⲓ währ 
 
 see [𓌢](𓌢) twin,kin,gyn,generations  
 
-[𓅾](𓅾) goose-fur = (g)äŋten-fear 𓅬 (Angst⇔ancious)  
+[𓅾](𓅾) goose-fur = (G)äŋten-fear 𓅬 (Angst⇔ancious)  
 
 𓈙 SHN 𓅸𓅭 nestor = island gynos [gnost](gnost)  
 Gneiss [𓈙](𓈙) gnost 𓈙𓈙𓉐 nest / know  

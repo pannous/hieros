@@ -35,7 +35,7 @@ There was and still is significant confusing weather counting should start with 
 1 first  išten@Akkad ersten vs 𓂬  
 2 toe  𓌟			T19 toe,two,thun  𓌟  
 2 toe  𓃅  
-2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT cn snw/ßwn@EGY son Sohn çun@Albany zwon kin(d)  
+2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT cn snw/ßwn@EGY son Sohn çun@Albany zwon kin(D)  
 2 duo 𓏮 		 	duan 𓌢 down = two [𓊃𓈙𓏮𓅹 gynishdu/zhnízdo=nest]  
 2 deva 𓃅 devine 2@Hindi  
 2 twun  𓏮    	⇔ twinur/twur T22 𓌢 𐠮𐠯@Cypr  W24 𓏌 Z4A 𓏮   ⇔ zweien  
@@ -131,14 +131,14 @@ Orders of magniture:
 𓏤	1.zeh 𓏺  einzeln Z1    1st order	甲 jiǎ  子 zǐ(ffer)  
 𓎆	10 Zehn (tent 𓎆 V20)   2nd order  
 𓎆𓎆𓎆𓎆𓎆     60 shittiyn shit-teen'	𐎌𐎌𐎌iym sixty / three score  
-𓍢	100 Hun3rd/Hun'tau V1 Hand (l)und 𓍢 𓅱 Huhn 𓃡 QED 3rd order 𓊃 centipede cien : hund hantel 巴 百 bǎi  𓐍𓂸𓏏kent=3!! 100cent=3'rd order!!  
+𓍢	100 Hun3rd/Hun'tau V1 Hand (P*L)und 𓍢 𓅱 Huhn 𓃡 QED 3rd order 𓊃 centipede cien : hund hantel 巴 百 bǎi  𓐍𓂸𓏏kent=3!! 100cent=3'rd order!!  
 𓆼	1.000 (FRüh)Tow-Zehn (𓍢𓎆)  M12(+T11)  𓆼   fr=>4rth order ♀  早 zǎo ꜩau-cent giant 千 qiān CHIA?  
 千 1.000 qiān 𓐍𓆼𓄿𓅱 +++  
 万 𓆼𓄿 𓆼𓅱𓎸 Wanne = WAN 万! 'Myriade' 10000 𓆼 1000  ⇔ 万 wandern ⇨ fern 不​复 bu.fu = ¬found=lost  
  10,000 𓆓𓃀𓂝𓂭  span 万 wàn  
 𓂭	10.000 pent D50  𓂭 point   'zig' pHan=> 万 wàn =10.000 王 wuáng  戊 wù  5th order Myriade µ  
-𓆐	100.000 (s)hequa  I8   𓆐  I7    𓆏   Heqat frog goddess  6th order  巳 sì  己 jǐ  
-𓁨	1.000.000  Hohei(t) Hauhet #HH (hoch,high,die Höhe)  C11 𓁨  Mil-IAN ♀  7th order 百​万​=Million 100.Myriaden 1000.Gods  
+𓆐	100.000 (S)hequa  I8   𓆐  I7    𓆏   Heqat frog goddess  6th order  巳 sì  己 jǐ  
+𓁨	1.000.000  Hohei(TR?) Hauhet #HH (hoch,high,die Höhe)  C11 𓁨  Mil-IAN ♀  7th order 百​万​=Million 100.Myriaden 1000.Gods  
 ```  
 Myriade µ Mile-Horden => Sha Ш  山 shān Scheich   nomen Nummero # Un.ge.Ziffert 𓆣 1/re-ziphrok  
 
