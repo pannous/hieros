@@ -23,20 +23,20 @@ Farsi|transcribed|english
 
 This (re)discovery lead to well established theories of [proto-indoeuropean](PIE) expansions. Here we investigate the relationship between these [pioneers](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) and the Pharaonic Egyptian language and culture.  
 
-[https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png](https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png)  
+![https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png](https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png)  
 In 5000BC the danube [Vinča civilization](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture) pioneered advanced copper technology, in 4200BC the [Varna](https://en.wikipedia.org/wiki/Varna_culture) hordes contain more gold artefacts than all other sites of that time combined. By that standard the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt quite late, though one of its watermark: industrial brewing and cast copper can be found as early as 3700BC.  
 
 Varna King, Romania ⋍4000BC  
-[https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png](https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png)  
+![https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png](https://user-images.githubusercontent.com/516118/34747926-924bb1ba-f59a-11e7-90ab-0b95a206ff58.png)  
 
-[copper king homeland](https://user-images.githubusercontent.com/516118/36067430-670c7c6e-0ebd-11e8-9071-702100d3314b.png)  
+![copper king homeland](https://user-images.githubusercontent.com/516118/36067430-670c7c6e-0ebd-11e8-9071-702100d3314b.png)  
 Danube copper kings conquering the world.  
 
 Only recently has the caucasian [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin at 4000BC. As it contains more gold and artefacts from Sumer() than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Especially as it connects our [European roots](PIE) with the two great civilizations of Mesopotamia and Egypt. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, brewing, proto-*writing*, *«kingship»* and the ***sail*** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) -3800BC. The horse/donkey/bull *cart* appeared about the same time.  
 
 The roots of the Persian language came via the region of Elam with its capital Susa on the eastern border of Sumeria. Strikingly the cultural artefacts of Egypt and Susa were nearly identical:  
 
-[susa-egypt.png](susa-egypt.png)  
+![susa-egypt.png](susa-egypt.png)  
 Near identical building plans of the early temples and very similar early Egyptian and Sumerian [ceremonies](Hieros-gamos) clearly demonstrate that these are not mere trade-artefacts, but in fact proof of a common anchestry of both higher civilizations.  
 Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution). Here we investigate how deeply the roots go and how the [system](PIE), its [cosmology](cosmos) and language are intertwined with our own:  
 
@@ -120,7 +120,7 @@ This Discovery is not entirely new, Dr. Christian De Vartavan, former head of th
 Egyptian had a big influence on Semitic, African *and* European languages.  
 
 The most important sign of early urbanizers was probably  
-[https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png](https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png)  
+![https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png](https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png)  
 1.KRad[𓐍](𓐍) (wheel)  
 2.soRay[𓇳](𓇳) (solar wheel / sun)  
 3.court[𓊖](𓊖)city  
