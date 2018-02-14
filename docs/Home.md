@@ -107,7 +107,7 @@ But other icons are highly recognizable as well:
 [𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  
 [𓊖](𓊖) Court (city quarters)  
 [𓇳](𓇳) soRay 🌞  
-[𓊛](𓊛) Shiphonit  
+[𓊛](𓊛) Shiphonit [[𓊝]]  
 [𓌵](𓌵) Mvoyer  
 [𓋬](𓋬) MatheMathei[𓆇](𓆇)  
 [𓄟](𓄟) Mes mnais Moses  
