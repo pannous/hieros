@@ -86,7 +86,7 @@ Po|[𓊪](𓊪)|pool
 Q|[𓏘](𓏘)|kurgan  
 R|[𓂋](𓂋)|round rot  
 S|[𓋴](𓋴)|Sit𓊨  
-T|[𓏏](𓏏)|Tell 𓏏𓏏tit𓂑𓂑   
+T|[𓏏](𓏏)|Tell 𓏏𓏏tit𓂑𓂑  
 U|[𓅱](𓅱)[𓍢](𓍢)𓏲|Huhn/Woun  
 V|[𓆑](𓆑)|Viper Phython  
 W|[𓅳](𓅳)|uu  
@@ -107,7 +107,7 @@ But other icons are highly recognizable as well:
 [𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  
 [𓊖](𓊖) Court (city quarters)  
 [𓇳](𓇳) soRay 🌞  
-[𓊛](𓊛) Shiphonit [[𓊝]]  
+[𓊛](𓊛) Shiphonit [𓊝](𓊝)  
 [𓌵](𓌵) Mvoyer  
 [𓋬](𓋬) MatheMathei[𓆇](𓆇)  
 [𓄟](𓄟) Mes mnais Moses  

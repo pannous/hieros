@@ -42,10 +42,10 @@ The following are the personal pronouns of Mehri, an extant language spoken in Y
 person|english|Mehri|IE  
 ------|-------|-----|--  
 1st sg. 		|"I" 	|hōh 	-ī  
-2nd sg. masc. 	|"you" 	 	|-(a)k  
-3rd sg. masc. 	|"he" 	 	|-(a)h  
-3rd sg. fem. 	|"she" 	 	|-(a)s  
-1st pl.		 |"we" 	|nḥah 	-(a)n	|nous  
+2nd sg. masc. 	|"you" 	 	|-(A)k  
+3rd sg. masc. 	|"he" 	 	|-(A)h  
+3rd sg. fem. 	|"she" 	 	|-(A)s  
+1st pl.		 |"we" 	|nḥah 	-(A)n	|nous  
 2nd pl. fem. 	|"you" 	|tān 	-kan	|thine  
 3rd pl. fem. 	|"they" 	|sān 	-san	|them  
 

@@ -23,7 +23,7 @@ Mystic Mythen
 See [cosmos](cosmos)  
 
 [𓇋](𓇋) Fie(ξ/δ/γ) 飛 fēi(gel) fly flee OPTER [𓇋](𓇋)PTHER  
-[𓅯](𓅯) flu gale gull vol(er)𓅫GVAL/GVER𓅪 𒃲 (s)wal𓅪very fowl viel foul? Vul𓅐 Vieh flieg⇔frog?  
+[𓅯](𓅯) flu gale gull vol(er)𓅫GVAL/GVER𓅪 𒃲 (S)wal𓅪very fowl viel foul? Vul𓅐 Vieh flieg⇔frog?  
 
 GVER𓅪 gorrión gavilán 𓅫GVAL Sperling vs Sperber sparrow (hawk) Sperberbird;)  
 
@@ -38,7 +38,7 @@ G5	𓅃 Horus Har.bicht    𓅃    𓅅    𓅊    𓅌  G12 𓅎 Har.ty?
 G7  𓅆 Greif [god]Ray right 𓅆𓏏𓏮    غَرْب ‎(ḡrb, “west”) ⇔ West 𓋀 𓊿  
 G14	𓅐 𓂋𓅱𓅐 *MRT   𓅓𓏱𓏏murdar@PERS aL'Mut+++ Vultier (vol/woll/fall(k)) 𓅐vulva⋍mumu Mutti 𓅐  𓅑 GAIA  
 G16 𓅒 'nebty' 𓋞2   𓅒  Nepthun vs shubit  
-G17 𓅓 BR(d) בְּ־ bei 𓅓 FR MNWoo עם מ- מן וְ־ im wie mit coMN manner   Wu 𓅖="who?" !!  
+G17 𓅓 BR(D) בְּ־ bei 𓅓 FR MNWoo עם מ- מן וְ־ im wie mit coMN manner   Wu 𓅖="who?" !!  
 G21	𓅘 neck #nH  𓅘 != G29	BV/Pfau/wow Put(her)  
 G22	𓅙 derb/depp    𓅙  
 G23	𓅚 rekh?    𓅚 Phan/voig/Volk  凡fán 番fān pán  𓇪	𓇩? vs 𓅠𓅡  

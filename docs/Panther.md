@@ -15,7 +15,7 @@ Leopard, Panther, Lion … continuum with different names and species:
 shaChats see [𓄂](𓄂) cat head chat ⋍ heart [𓄣](𓄣) ♡  
 
 𓃭 Letter 'L' as Leo:  
-([𓊪](𓊪)[𓏏](𓏏)[𓍯](𓍯)𓃭[𓐝](𓐝)[𓇋𓇋](𓇋𓇋)[𓋴](𓋴))| = Petro.Leomeis = [Ptolemy](https://en.wikipedia.org/wiki/Ptolemaios)(s)  
+([𓊪](𓊪)[𓏏](𓏏)[𓍯](𓍯)𓃭[𓐝](𓐝)[𓇋𓇋](𓇋𓇋)[𓋴](𓋴))| = Petro.Leomeis = [Ptolemy](https://en.wikipedia.org/wiki/Ptolemaios)(S)  
 
 Originally with deep L or 'Reo' as roar:  
 

@@ -1,4 +1,4 @@
-Egypt = [Hut](Hut)-[Ka](Ka)-[Ptah](Ptah)  
+Egypt = [Hut](hut)-[Ka](Ka)-[Ptah](Ptah)  
 
 House of the Soul of Ptah or  
 House of the Copta, predecessors of [Copts](https://en.wikipedia.org/wiki/Copt) ⲁⲫⲱⲧ ↔ ⲉⲫⲱⲧ  
