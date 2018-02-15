@@ -15,7 +15,7 @@ Standard reading of feminine plural swaps the letters 𓅱 and 𓏏:
 sister ⇨ sister*s* 𓏏𓏥  𓏏[𓅱](𓅱)  «-wt»  
 
 Again the most ancient reading of [𓅱](𓅱) might have been -*mwn* -mun -men  
-[plural](Plural) [𓅱](𓅱) manche much many [menge](menge)  [𓏠](𓏠)𓈖 vs  
+[plural](Plural) [𓅱](𓅱) manche much many [menge](Menge)  [𓏠](𓏠)𓈖 vs  
 [dual](Dual) 𒋰 𒈫 MIN 门 門 mén  
 
 In Arabic, bahr**ayn** is the [dual](Dual) form of bahr ("sea")  
