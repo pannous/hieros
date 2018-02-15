@@ -2,6 +2,7 @@
 [Signs](Gardiner-signs)  
 [Axioms](Axioms)  
 [Grammar](Grammar)  
+[Numbers](Numbers)  
 [Alphabet](Alphabet)  
 
 a|[𓄿](𓄿)  

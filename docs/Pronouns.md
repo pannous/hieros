@@ -6,16 +6,16 @@ Egyptian pronouns seem to hint at a linguistic Bridge between Semitic/Berber- la
 
 |	Person	| Sign	| Suffix 	| Dependent 	| Cognates  
 |----------------|-------|---------------|---------------|---------------  
-1st s. 		|𓇋	|-ı͗ 	|wı͗ 		|I,je,we,wo,ich  
-2nd s.m. 	|𓎡	|-c’ 	|t’ 		|you,tu,Du  
-2nd s.f. 	|𓏏	|-t 	|tən 		|te,ton,Dein  
-3rd s.m. 	|𓆑	|-φ/sn 	|pshn		|phe,phis,son,sein,su  
-3rd s.f. 	|𓋴	|-s 	|si 		|she, sie, es  
-1st p. 		|𓈖𓏪	|-nu 	|n 		|nous,uns,on  
-2nd p. 		|𓏏𓈖𓏪	|-tn 	|tn 		|ton,thine  
-3rd p. 		|𓋴𓈖𓏪	|-sn 	|sn 		|semn⋍them  
+1st s. 		|𓇋	|-ı͗ 	|𓍢𓇋 wı͗ 		|I,je,ich,we,wo,[𓅱](𓅱),me,my  
+2nd s.m. 	|𓎡	|-cu’ 	|𓏏𓍢 tu 		|thou,tu,Du  
+2nd s.f. 	|𓏏	|-ta 	|𓏏𓈖 tən 		|ta,tien,Deine  
+3rd s.m. 	|[𓆑](𓆑)	|-φ/sn 	|𓇓𓍢 su		|phe,phis,son,sein,su[𓍢](𓍢)  
+3rd s.f. 	|𓋴	|-s 	|𓋴𓏭 si,𓋴 s 		|she, sie, es  
+1st p. 		|𓈖𓏪	|-nu 	|𓈖𓏤𓏤𓏤 nus 		|nu[𓍢](𓍢),nous,uns,on  
+2nd p. 		|𓏏𓈖𓏪	|-tn 	|𓏏𓈖𓏤𓏤𓏤 tn𓏤𓏤𓏤 		|ton,thine  
+3rd p. 		|𓋴𓈖𓏪	|-sn 	|𓋴𓈖𓏤𓏤𓏤 sn𓏤𓏤𓏤 		|semn⋍them (their)  
 
-The first person form is irregular with variants of 𓅱𓈖𓎡 moi,mon,mine,we,uck…  
+The first person form is irregular with variants of [𓅱](𓅱)𓈖𓎡 moi,mon,mine,manch,mich,ück…  
 
 The hypothesized ancient forms of the ‘letters’  𓆑 𓎡 𓇋 𓅱 (see [Alphabet](Alphabet) and [Axioms](Axioms)) with slight shifts and dangling connotations play well into the above table:  
 [𓆑](𓆑) φ pthn⋍s*n:  φίδιn python snake [usually simple transcribed as ‘f’]  

@@ -1,13 +1,13 @@
 GA	G	shows	short	english	see / vs	speak	prove	gardiner path	cluster
-A1	𓀀	er		seated man					
-A2	𓀁	I		seated man with hand to mouth					
-A3	𓀂	he		man sitting on heel					
-A4	𓀃	em		seated man with hands raised					
-A5	𓀄	hide		crouching man hiding behind wall					
+A1	𓀀	er	man	seated man					
+A2	𓀁	I	mon	seated man with hand to mouth					
+A3	𓀂	he	min	man sitting on heel					
+A4	𓀃	anhail		seated man with hands raised					
+A5	𓀄	hide	cover	crouching man hiding behind wall					
 A6	𓀆	pour		seated man under vase from which water flows					
-A7	𓀉	sit		fatigued man					
-A8	𓀊	vow		man performing hnw-rite					
-A9	𓀋	carrier		seated man with  W10 on head					
+A7	𓀉	sit	hinsetz	fatigued man					
+A8	𓀊	vow	Hand-rite	man performing hnw-rite					
+A9	𓀋	carrier	carry	seated man with  W10 on head					
 A10	𓀌	rower		seated man holding oar					
 A11	𓀍	warrior		seated man holding  S42 and  S39					
 A12	𓀎	bower		soldier with bow and quiver					
@@ -40,23 +40,25 @@ A38	𓀫	qush		man holding necks of two emblematic animals with panther heads
 A39	𓀬	Kish	zirc	man on two giraffes					
 A40	𓀭	IO		seated god					
 A41	𓀮	Amun		king with uraeus					
-A42	𓀯	god		king with uraeus and  S45					
-A43	𓀲			king wearing  S1					
-A44	𓀴			king wearing  S1 with  S45					
-A45	𓀵			king wearing  S3					
-A47	𓀸			shepherd seated and wrapped in mantle, holding stick					
-A48	𓀹			beardless man seated and holding knife					
-A49	𓀺			seated Syrian holding stick					
-A50	𓀻			noble on chair					
-A51	𓀼			noble on chair with  S45					
-A52	𓀽			noble squatting with  S45					
-A53	𓀾			standing mummy					
-A54	𓀿			lying mummy					
-A55	𓁀			mummy on bed					
+A42	𓀯	god	royal child	king with uraeus and  S45					
+A43	𓀲	Satis	Scotty	king wearing  S1	𓋴 𓍿 𓏏 𓄝 𓏏 𓀲				
+A44	𓀴	potentate		king wearing  S1 with  S45	𓏣 𓅓 𓀜 𓁹 𓆑 				
+A45	𓀵	Herrscher	ruler	king wearing  S3	𓋾 𓈎 𓄿 𓀵				
+A47	𓀸	shepherd		shepherd seated and wrapped in mantle, holding stick					
+A48	𓀹	statue	scouter	beardless man seated and holding knife	𓋴 𓌬 𓐝 𓀹	guidance			
+A49	𓀺	guard	ward	seated Syrian holding stick					
+A49	𓀺	Fahrer		seated Syrian holding stick	𓇋 𓂋 𓏮 𓀺	purpose			
+A50	𓀻	cinnamon	amun	noble on chair		cinamon			
+A50	𓀻	Special	spice	noble on chair	𓈙 𓊪 𓋴 𓋴 𓀻 𓏥				
+A51	𓀼	Amon		noble on chair with  S45					
+A52	𓀽	sacher	spiritus	noble squatting with  S45	𓊃 𓂝 𓎛 𓃶 𓀽|	𓅜 𓏤 𓀽|			
+A53	𓀾	statut		standing mummy					
+A54	𓀿	mummy		lying mummy					
+A55	𓁀	corpse		mummy on bed					
 A56	𓁁			seated man holding stick					
-A57	𓁂			man holding  R4					
-A58	𓁃			man applying hoe to ground					
-A59	𓁄			man threatening with stick					
+A57	𓁂	an offering the King gives|		man holding  R4					
+A58	𓁃	spatan	digger	man applying hoe to ground					
+A59	𓁄	Elder of the portal		man threatening with stick					
 A60	𓁅			man sowing seeds					
 A61	𓁆			man looking over his shoulder					
 A62	𓁇	Asiatic		Asiatic					
@@ -64,20 +66,20 @@ A63	𓁈			king on throne holding staff
 A64	𓁉			man sitting on heels holding forward  W10					
 A65	𓁊			man wearing tunic with fringes and holding mace					
 A66	𓁋			man holding  Y8					
-A67	𓁌			dwarf					
+A67	𓁌	Zwerg	dwarf	dwarf					
 A68	𓁍			man holding up knife					
 A69	𓁎			seated man with raised right arm and left arm hanging down 					
-B1	𓁐	ta		seated woman					
-B2	𓁑	IA		pregnant woman					
+B1	𓁐	ta	Thea	seated woman					
+B2	𓁑	IA	Genie	pregnant woman					
 B3	𓁒	mess		woman giving birth					
-B4	𓁔			combination of  B3 and  F31					
+B4	𓁔	Maria		combination of  B3 and  F31					
 B5	𓁕			woman suckling child					
 B6	𓁖			woman on chair with child on lap					
 B7	𓁗			queen wearing diadem and holding flower					
 B8	𓁘			woman holding  M9					
 B9	𓁙			woman holding  Y8					
-C1	𓁛			god with  N6					
-C2	𓁜			god with head of falcon with sun on head and holding  S34					
+C1	𓁛	Sahara		god with  N6					
+C2	𓁜	Shora	Re	god with head of falcon with sun on head and holding  S34					
 C3	𓁟			god with head of ibis					
 C4	𓁠			god with head of ram					
 C5	𓁡			god with head of ram holding  S34					
@@ -161,7 +163,7 @@ D50_8	𓂴		80k
 D50_9	𓂵		90k						
 D50_V	𓂶								
 D51	𓂷	finger		finger horizontally					
-D52	𓂸	pen		phallus					
+D52	𓂸	pen	hannis	phallus					
 D52S	𓂹	penis							
 D53	𓂺	essence		liquid issuing from phallus					
 D54	𓂻	go 	irern	legs walking					
@@ -350,9 +352,9 @@ G47	𓅷	chick	chi	duckling
 G48	𓅸	nest		three ducklings in nest					
 G49	𓅹			three ducklings in pool					
 G50	𓅺			two plovers					
-G51	𓅻			bird pecking at fish					
+G51	𓅻	catchfish		bird pecking at fish					
 G52	𓅼			goose picking up grain					
-G53	𓅽			human-headed bird with  R7					
+G53	𓅽	BaBird	BarBar	human-headed bird with  R7					
 G54	𓅾	goose	oos	plucked bird					
 H1	𓅿	duck	head	head of pintail					
 H2	𓆀	cormorant	kom	head of crested bird					
