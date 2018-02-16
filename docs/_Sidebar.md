@@ -1,11 +1,14 @@
 [Home](Home)  
+[PIE](PIE)  
 [Signs](Gardiner-signs)  
 [Axioms](Axioms)  
 [Grammar](Grammar)  
 [Numbers](Numbers)  
-[Alphabet](Alphabet)  
+[Highlights](Highlights)  
 
-a|[𓄿](𓄿)  
+[Alphabet:](Alphabet)  
+
+ä|[𓄿](𓄿)  
 |-----|----|  
 A|[𓂝](𓂝)  
 b|[𓃀](𓃀)  
@@ -34,3 +37,4 @@ W|[𓅳](𓅳)
 X|[𓎛](𓎛)  
 Y|[𓏭](𓏭)  
 Z|[𓊃](𓊃)  
+SH|[𓈙](𓈙)  
