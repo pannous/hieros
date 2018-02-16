@@ -51,4 +51,6 @@ Häuthe𓏥    Häuser German declination, plural of hut  ([𓂋](𓂋) as à)
 
    (cause) silence   𓋴  𓎼  𓂋  𓀁  
 þegir@Rune = schweiger DE  
+
+𓐍 𓊪 𓏏 𓀐 kapitulieren = 'die' ⇔ kaput, caput, capture  
 ```  
