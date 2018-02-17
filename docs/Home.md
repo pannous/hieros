@@ -96,22 +96,39 @@ Z|[𓊃](𓊃)|Zusam/zone/syn-
 
 But other icons are highly recognizable as well:  
 
+[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  B+e+e+[𓍢](𓍢)  
+
+[𓄝](𓄝)  shot shoot #stA:  
+𓋴 𓄝 𓏏 𓏏 [𓁐](𓁐) Satis (goddess)  S+𓄝+t+th (theia)  
+𓋴 𓄝 𓏏 𓊮 set (fire)  s+𓄝+t  
+𓋴 𓄝 𓏏 𓌕 𓂡 shoot  s+𓄝+t  
+𓋴 [𓄞](𓄞) 𓂧 𓁻 𓉐 window ⋍ shutter ⇔ [𓄞](𓄞) Scheide  
+𓋴 𓄜 𓏏 𓃒 schüttern,gescheckt,stained (dabbled)  
+𓋴 𓄝 𓅂 𓌙 𓀀 A'Siatan ⇔ Scott?  
+𓄝 𓏏 𓏏 𓐎 𓏥||shooting pains  
+𓄝 𓏏 𓏏 𓈇 𓏤||ground|Schotter stones [𓊌](𓊌)  
+𓄝 𓏏 𓁹||stare| “sh+t+eye(R)”  
+𓄝 𓏏 𓇋 𓇋 𓈗||pour (water)| “shty” schütt, shoot, shed  
+
+That was just one sign among a beautiful coherent system:  
+
 [𓌹](𓌹) Amur admire marry ♡  
+[𓃟](𓃟) Shu-wn [𓆄](𓆄)[𓅱](𓅱) swine  
+[𓆷](𓆷) swamp ⇔ swines 𓆷𓄿𓂸[𓃟](𓃟)  
 [𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) bien = sweet bonbon (b:Bein n:Nil)  
 [𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  
 [𓆤](𓆤) Horned Beetles [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
 [𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer beetle  
-[𓋺](𓋺)[𓏏](𓏏)𓏤 shade  
-[𓃟](𓃟) Shu-wn [𓆄](𓆄)[𓅱](𓅱) swine  
-[𓆷](𓆷) swamp ⇔ swine 𓆷𓄿𓂸𓃟  
-[𓄜](𓄛)[𓄛](𓄛) Tier deer  
 [𓈙](𓈙) sea chad 水 shuǐ  
+[𓋺](𓋺)[𓏏](𓏏)𓏤 shade  
+[𓄜](𓄛)[𓄛](𓄛) Tier deer  (e.g. panther)  
+[𓏱](𓏱) Mord mortal … 𓅓𓏱𓏏 (death)  
 [𓈖](𓈖)[𓆑](𓆑)[𓂉](𓂉) niesen (nose⇔snouth)  
 [𓋴](𓋴)[𓈖](𓈖)𓂉[𓏛](𓏛) scent smell  
 [𓂓](𓂓)𓂓 kwerkar work  
-[𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  
+[𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  [𓂜](𓂜)[𓏏](𓏏) not, nada  
 [𓊖](𓊖) Court (city quarters)  
-[𓇳](𓇳) soRay 🌞  
+[𓇳](𓇳) soRay 🌞 日  
 [𓊛](𓊛) Shiphonit [𓊝](𓊝)  
 [𓌵](𓌵) Mvoyer  
 [𓋬](𓋬) MatheMathei[𓆇](𓆇)  
@@ -120,15 +137,15 @@ But other icons are highly recognizable as well:
 [𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor Hüter of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥) [𓃒](𓃒)  
 [𓅭](𓅭)𓏏 could be … duckter  
 
-This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this connection was much more widely spread before the second world war, which partly explains why it has been a taboo since then. Another reason were the undeniable strong connections to Semitic languages; this however is not a contradiction:  
+This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis or because of the undeniable strong connections to Semitic languages; this however is not a contradiction:  
 
-Egyptian had a big influence on Semitic, African *and* European languages.  
+Egyptian had a tremendous influence on Semitic, African *and* European languages.  
 
 The most important sign of early urbanizers was probably  
 ![https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png](https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png)  
-1.KRad[𓐍](𓐍) (wheel)  
+1.KRad[𓐍](𓐍) (circle)  
 2.soRay[𓇳](𓇳) (solar wheel / sun)  
-3.court[𓊖](𓊖)city  
+3.court[𓊖](𓊖) city  
 4.quarter[𓊖](𓊖)  𓆑𓂧𓅱:ЧⲦⲞⲞⲨ:four see [numbers](Numbers) and [cosmos](cosmos)  
 
-You can search the Egytian dictionary using the [hieroglyph keyboard](https://hieroglyph-keyboard.herokuapp.com/)  
+It is important to note that the cognates here are naturally chosen from english and german, yet because of the deep connections within proto-indo-european it would have in many cases also been possible to a pick say Spanish or Russian variants. Also since linguists have shown the closeness of Egyptian to semitic languages, one has to view Egyptian as bridge between these two [Eurasian](https://en.wikipedia.org/wiki/Eurasiatic_languages) superfamilies.  
