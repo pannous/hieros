@@ -85,30 +85,30 @@ O|[𓍯](𓍯)|rhO rogue
 Po|[𓊪](𓊪)|pool  
 Q|[𓏘](𓏘)|kurgan  
 R|[𓂋](𓂋)|round rot  
-S|[𓋴](𓋴)|Sit𓊨  
+S|[𓋴](𓋴)|Sit[𓊨](𓊨)  
 T|[𓏏](𓏏)|Tell 𓏏𓏏tit𓂑𓂑  
 U|[𓅱](𓅱)[𓍢](𓍢)𓏲|Huhn/Woun  
 V|[𓆑](𓆑)|Viper Phython  
 W|[𓅳](𓅳)|uu  
 X|[𓎛](𓎛)|flax Hair  
 Y|[𓏭](𓏭)|𓇌ee  
-Z|[𓊃](𓊃)|Zusam/zone/syn-  
+Z|[𓊃](𓊃)|Zusam/zone/sym-/con-  
 
 But other icons are highly recognizable as well:  
 
-[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  B+e+e+[𓍢](𓍢)  
+[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  B+i/e+[𓍢](𓍢)  
 
-[𓄝](𓄝)  shot shoot #stA:  
+[𓄝](𓄝)  shot shoot #st:  
 𓋴 𓄝 𓏏 𓏏 [𓁐](𓁐) Satis (goddess)  S+𓄝+t+th (theia)  
 𓋴 𓄝 𓏏 𓊮 set (fire)  s+𓄝+t  
 𓋴 𓄝 𓏏 𓌕 𓂡 shoot  s+𓄝+t  
 𓋴 [𓄞](𓄞) 𓂧 𓁻 𓉐 window ⋍ shutter ⇔ [𓄞](𓄞) Scheide  
 𓋴 𓄜 𓏏 𓃒 schüttern,gescheckt,stained (dabbled)  
-𓋴 𓄝 𓅂 𓌙 𓀀 A'Siatan ⇔ Scott?  
-𓄝 𓏏 𓏏 𓐎 𓏥||shooting pains  
-𓄝 𓏏 𓏏 𓈇 𓏤||ground|Schotter stones [𓊌](𓊌)  
-𓄝 𓏏 𓁹||stare| “sh+t+eye(R)”  
-𓄝 𓏏 𓇋 𓇋 𓈗||pour (water)| “shty” schütt, shoot, shed  
+𓋴 𓄝 𓅂 [𓌙](𓌙) 𓀀 A'Siatan  
+𓄝 𓏏 𓏏 𓐎 𓏥 shooting pains  
+𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
+𓄝 𓏏 [𓁹](𓁹) stare : “sh+t+eye(R)”  
+𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shoot, shed  
 
 That was just one sign among a beautiful coherent system:  
 
