@@ -47,34 +47,25 @@ hieroglyps|transcribed|english|letters
 --|--|--|--  
 [𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |Muta (Gaia)|Mother (Nature)| 𓅓=M 𓅱=u 𓏏=t  
 [𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)| Nature| (Mother) vulture |𓈖=N 𓏏=T 𓂋=R  
-[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |Potair (St. Peter)| Sky Father|𓊪=P 𓏏=T 𓇯=Air  
-[𓇋](𓇋)𓏏𓆑𓀀 |*feathav*  | father|[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v  
+[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |Potair|Sky Father|𓊪=P 𓏏=T 𓇯=Air  
+[𓇋](𓇋)𓏏𓆑𓀀 | ★feathav  | father|[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v  
 
-Using the egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
-The Egyptian Hieroglyphic writing system  started as a syllabary[➾](https://en.wikipedia.org/wiki/Syllabary) but soon converged to a rather small set of frequent signs&sounds plus «determinants» (like [𓈉](𓈉) for land).  
+Using the Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages:  
 
-Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) b.b.l.[1](Numbers)(𓈉land)  
-'L' 𓂋 «lense» «el'lips» is normally read as  
-'R' 𓂋 «round»  («rot» = mouth in Russian = the meaning of the sign)  
-
-Barbarion or not, the Egyptian letter 'b' [𓃀](𓃀) looks almost like a flipped modern 'b' in writing (both writing directions were common initially). The word '𓃀' itself is cognate with [european](PIE) variants: Bein, pierna, pod, foot, …  
-
-Every single letter in this “[Alphabet](Alphabet)” of Egyptian hieroglyphs left a tremendous linguistic footprint on most surrounding and quite distant extinct and extant languages  
-
-|letter|glyph|cognate|  
+|letter|glyph|meaning/cognate|  
 |-----|----|-------|  
 a|[𓄿](𓄿)|[Aar](https://dict.leo.org/englisch-deutsch/aar) [air](Air)|  
 A|[𓂝](𓂝)|Arm|  
 b|[𓃀](𓃀)|Bein|  
 c|[𓍿](𓍿)|ⵛeh (toe)|  
-D|[𓏏](𓏏)|Delle 𓏏𓏏dad=tit|  
-δ|[𓂧](𓂧)|Daum/dast/χειρo|  
+D|[𓏏](𓏏)|Delle/dent|  
+δ|[𓂧](𓂧)|Daum/dast|  
 E|[𓇋](𓇋)|fEather|  
 F|[𓇋](𓇋)|Fieder 𓆑Viper|  
-G|[𓎼](𓎼)|Ɠiebel [𓐍](𓐍)|  
-h|[𓉔](𓉔)|House Heim Hof  
+G|[𓎼](𓎼)|Ɠiebel  
+h|[𓉔](𓉔)|House  
 I|[𓇋](𓇋)|fIeder 𓏭|  
-J|[𓆳](𓆳)|Jahr  
+J|[𓆳](𓆳)|Jahr year  
 Dj|[𓆓](𓆓)|djungle Schlangel  
 K|[𓎡](𓎡)|Kelle/cup|  
 Kr|[𓐍](𓐍)|Kreis [𓊖](𓊖)court  
@@ -94,23 +85,28 @@ X|[𓎛](𓎛)|flax Hair
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusam/zone/sym-/con-  
 
-But other icons are highly recognizable as well:  
+The Egyptian Hieroglyphic writing system started as a syllabary[➾](https://en.wikipedia.org/wiki/Syllabary) but soon converged to a rather small set of frequent signs and sounds plus [determinants](Determinants) (like [𓈉](𓈉) for land).  
 
-[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  B+i/e+[𓍢](𓍢)  
+Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) b.b.l.[1](Numbers)(𓈉land) (or b.b.r)  
 
-[𓄝](𓄝)  shot shoot #st:  
+But other words and icons are recognizable as well:  
+
+[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢)  
+
+One cognate match might be coincidence, a whole cluster of words might hint at connections which need refreshed investigations:  
+
+[𓄝](𓄝) is usually transcribed as #st and has the following usages:  
 𓋴 𓄝 𓏏 𓏏 [𓁐](𓁐) Satis (goddess)  S+𓄝+t+th (theia)  
-𓋴 𓄝 𓏏 𓊮 set (fire)  s+𓄝+t  
 𓋴 𓄝 𓏏 𓌕 𓂡 shoot  s+𓄝+t  
-𓋴 [𓄞](𓄞) 𓂧 𓁻 𓉐 window ⋍ shutter ⇔ [𓄞](𓄞) Scheide  
+𓋴 𓄝 𓏏 𓊮 set (fire)  s+𓄝+t  
 𓋴 𓄜 𓏏 𓃒 schüttern,gescheckt,stained (dabbled)  
-𓋴 𓄝 𓅂 [𓌙](𓌙) 𓀀 A'Siatan  
+𓋴 𓄝 𓅂 [𓌙](𓌙) 𓀀 aSiat  
 𓄝 𓏏 𓏏 𓐎 𓏥 shooting pains  
 𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
 𓄝 𓏏 [𓁹](𓁹) stare : “sh+t+eye(R)”  
 𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shoot, shed  
 
-That was just one sign among a beautiful coherent system:  
+
 
 [𓌹](𓌹) Amur admire marry ♡  
 [𓃟](𓃟) Shu-wn [𓆄](𓆄)[𓅱](𓅱) swine  
@@ -134,18 +130,11 @@ That was just one sign among a beautiful coherent system:
 [𓋬](𓋬) MatheMathei[𓆇](𓆇)  
 [𓄟](𓄟) Mes mnais Moses  
 [𓄣](𓄣) Heart / Lieb  
-[𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor Hüter of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥) [𓃒](𓃒)  
-[𓅭](𓅭)𓏏 could be … duckter  
+[𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor  
+[𓉡](𓉡) Hathor = Hüter(Protector) of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥) [𓃒](𓃒)  
+[𓅭](𓅭) sA = son  
+[𓅭](𓅭)𓏏 daughter could be … duckter. Or just sAt.  
 
 This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis or because of the undeniable strong connections to Semitic languages; this however is not a contradiction:  
 
 Egyptian had a tremendous influence on Semitic, African *and* European languages.  
-
-The most important sign of early urbanizers was probably  
-![https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png](https://user-images.githubusercontent.com/516118/34748045-0882e4de-f59b-11e7-9d50-ddf7c57b491a.png)  
-1.KRad[𓐍](𓐍) (circle)  
-2.soRay[𓇳](𓇳) (solar wheel / sun)  
-3.court[𓊖](𓊖) city  
-4.quarter[𓊖](𓊖)  𓆑𓂧𓅱:ЧⲦⲞⲞⲨ:four see [numbers](Numbers) and [cosmos](cosmos)  
-
-It is important to note that the cognates here are naturally chosen from english and german, yet because of the deep connections within proto-indo-european it would have in many cases also been possible to a pick say Spanish or Russian variants. Also since linguists have shown the closeness of Egyptian to semitic languages, one has to view Egyptian as bridge between these two [Eurasian](https://en.wikipedia.org/wiki/Eurasiatic_languages) superfamilies.  
