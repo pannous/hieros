@@ -7,7 +7,7 @@ House of the Copta, predecessors of [Copts](https://en.wikipedia.org/wiki/Copt) 
 gyb ⇔ Egypt  
 
 
-E as abbrevation for Hut(House) compare  
+E as abbrevation for Hut(house) compare  
 [É](https://en.wikipedia.org/wiki/%C3%89_(temple)) (Cuneiform: 𒂍) the Sumerian word or symbol for house  
 
 Other names:  

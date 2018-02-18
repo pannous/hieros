@@ -1,4 +1,4 @@
-𓁹 *mvoye  
+𓁹 *mvoyer  
 1) oye = eye  
 2) voye = see  
 3) moye = möge = like [𓏇](𓏇)mi  

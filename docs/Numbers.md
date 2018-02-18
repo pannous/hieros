@@ -4,7 +4,7 @@ NUMBERS
 [𓍿](𓍿)=c[𓈖](𓈖)=n[𓌙](𓌙)=tan : count, compute[𓅯](𓅯)  
 
 [𓆎](𓆎) [𓅓](𓅓) [𓏜](𓏜) ∑ kommt : total up, amount to, complete, put an end to, pay (to), profit, duty  
-∑ compute, comme, kommt zu ... macht Zusammen, Summe, count, compter ⇔ censor  
+∑ compute, comme, kommt zu ... macht Zusam[men](Menge), Summe, count, compter ⇔ censor  
 
 
 During the amost four millenia in which egyptian hieroglyphics where in use, surely ambivalent readings of the signs developed. Although the exact spoken forms of pharaonic numbers are forever lost to history they seem to be similar to:  
@@ -49,6 +49,7 @@ There was and still is significant confusing weather counting should start with 
 2 men 𒋰𒈫 MIN 门 門 mén zusammen [𓊃](𓊃)  
 3 𓏪 𓏤𓏤𓏤 𓏼 𓏨 S'men	-ismn -isn  some somne ☾☾☾  三 sān <<<  
 3 shamnt 𓐍[𓂸](𓂸)𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT ⇔ Ξ ξan san 三!  
+3 Shams 𐎘𐎍𐎘 Shamas ⇔ threesons 𓇳  
 3'rd order cent=100 ⇔ 𓐍kreis:pi[𓂸] 3.14 ⇔ [𓂸]  
 3 Samen [𓇡](𓇡)  'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 vs 7,8  
 3 Saat 𓇡 säh se  
@@ -56,7 +57,7 @@ There was and still is significant confusing weather counting should start with 
 3 terrassen [𓇾](𓇾) Drei Länder [𓈉](𓈉) tre thre vs 单 Mithraim  
 3 tallassan ⲑⲁⲗⲁⲥⲥⲁ  [𓈗](𓈗) 'tall-ocean'  
 3 tala'ta@Arab taraita 3 šalaš@Akkad   TH-L-TH 𐎘𐎍𐎘  
-3 terra'san 𓈉 shan 山 shān Ξ ξan san 三 sān vs Σan  
+3 terra'san 𓈉 shan 山 shān Ξ ξan san 三 sān vs Σan  shankura[𓈉](𓈉)  
 3 tra   𓈓 			N33a  𓈓 3 DRA  
 3 ter 𓇡 vs ger		ganter𓇡,mutter,bruder ⇔ samen 'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗  
 4 vither 𓇋𓆑𓂧  'jfdt'  vither vier ! +++ ftetra  四 sì.tr  
