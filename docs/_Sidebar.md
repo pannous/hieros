@@ -3,6 +3,7 @@
 [Signs](Gardiner-signs)  
 [Axioms](Axioms)  
 [Grammar](Grammar)  
+[Pronouns](Pronouns)  
 [Numbers](Numbers)  
 [Highlights](Highlights)  
 
