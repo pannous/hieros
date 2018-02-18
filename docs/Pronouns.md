@@ -4,12 +4,12 @@ Egyptian pronouns seem to hint at a linguistic Bridge between Semitic/Berber- la
 
 |	Person	| Sign	| Suffix 	| Dependent 	| Cognates  
 |----------------|-------|---------------|---------------|---------------  
-1st s. 		|𓇋	|-ı͗ 	|𓍢𓇋 wı͗ 		|I,je,ich,we,wo,[𓅱](𓅱),me,my  
-2nd s.m. 	|𓎡	|-cu’ 	|𓏏𓍢 tu 		|thou,tu,Du  
-2nd s.f. 	|𓏏	|-ta 	|𓏏𓈖 tən 		|ta,tien,Deine  
+1st s. 		|[𓇋](𓇋)	|-ı͗ 	|𓍢𓇋 wı͗ 		|I,je,ich,we,wo,[𓅱](𓅱),me,my  
+2nd s.m. 	|[𓎡](𓎡)	|-qu 	|𓏏𓍢 tu 		|you / thou,tu,Du  
+2nd s.f. 	|[𓏏](𓏏)	|-te 	|𓏏𓈖 tən 		|ta,tien,Deine  
 3rd s.m. 	|[𓆑](𓆑)	|-φ/sn 	|𓇓𓍢 su		|phe,phis,son,sein,su[𓍢](𓍢)  
-3rd s.f. 	|𓋴	|-s 	|𓋴𓏭 si,𓋴 s 		|she, sie, es  
-1st p. 		|𓈖𓏪	|-nu 	|𓈖𓏤𓏤𓏤 nu 		|nu[𓍢](𓍢),nous,uns,on  
+3rd s.f. 	|[𓋴](𓋴)	|-s 	|𓋴𓏭 si,𓋴 s 		|she, sie, es  
+1st p. 		|[𓈖](𓈖)𓏪	|-nu 	|𓈖𓏤𓏤𓏤 nu 		|nu[𓍢](𓍢),nous,uns,on  
 2nd p. 		|𓏏𓈖𓏪	|-tn 	|𓏏𓈖𓏤𓏤𓏤 tn𓏤𓏤𓏤 		|ton,thine  
 3rd p. 		|𓋴𓈖𓏪	|-sn 	|𓋴𓈖𓏤𓏤𓏤 sn𓏤𓏤𓏤 		|semn⋍them (their)  
 
