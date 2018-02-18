@@ -23,6 +23,7 @@ Farsi|transcribed|english
 
 This (re)discovery lead to well established theories of [proto-indoeuropean](PIE) expansions. Here we investigate the relationship between these [pioneers](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) and the Pharaonic Egyptian language and culture.  
 
+First we take a step back to the region where the PIE journey begun: The countries surrounding the black sea.  
 ![https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png](https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png)  
 In 5000BC the **Danube [Vinča civilization](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture)** pioneered advanced copper technology, in 4200BC Romanian [Varna](https://en.wikipedia.org/wiki/Varna_culture) hordes contain more gold artefacts than all other sites of that time combined, turning a formerly egalitarian society into a more violent one lead by an **elite**.  
 
@@ -41,14 +42,14 @@ Near identical building plans of the early temples and very similar early Egypti
 Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution). Here we investigate how deeply the roots go and how the [system](PIE), its [cosmology](cosmos) and language are intertwined with our own:  
 
 Remember the persian words for mother and father?  
-Here are the Egyptian variants:  
+Here are the (deified) Egyptian variants:  
 
 hieroglyps|transcribed|english|letters  
 --|--|--|--  
-[𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |Muta (Gaia)|Mother (Nature)| 𓅓=M 𓅱=u 𓏏=t  
-[𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)| Nature| (Mother) vulture |𓈖=N 𓏏=T 𓂋=R  
 [𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |Potair|Sky Father|𓊪=P 𓏏=T 𓇯=Air  
 [𓇋](𓇋)𓏏𓆑𓀀 | ★feathav  | father|[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v  
+[𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |Muta (Gaia)|Mother (Nature)| 𓅓=M 𓅱=u 𓏏=t  
+[𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)| Nature| (Mother) vulture |𓈖=N 𓏏=T 𓂋=R  
 
 Using the Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages:  
 
@@ -72,7 +73,7 @@ Kr|[𓐍](𓐍)|Kreis [𓊖](𓊖)court
 L|[𓏯](𓏯)|[𓃭](𓃭)Leo  
 M|[𓅓](𓅓)|[Musen](Musen)[𓏠](𓏠)men  
 N|[𓈖](𓈖)|Nil  
-O|[𓍯](𓍯)|rhO rogue  
+ϱO|[𓍯](𓍯)|rogue  
 Po|[𓊪](𓊪)|pool  
 Q|[𓏘](𓏘)|kurgan  
 R|[𓂋](𓂋)|round rot  
@@ -106,35 +107,27 @@ One cognate match might be coincidence, a whole cluster of words might hint at c
 𓄝 𓏏 [𓁹](𓁹) stare : “sh+t+eye(R)”  
 𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shoot, shed  
 
-
-
-[𓌹](𓌹) Amur admire marry ♡  
-[𓃟](𓃟) Shu-wn [𓆄](𓆄)[𓅱](𓅱) swine  
+[𓌹](𓌹)[𓅓](𓅓)[𓂋](𓂋) Amur [𓌹](𓌹)+M+R admire marry … (love)  
+[𓃟](𓃟) Shu+wn [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) swine  
 [𓆷](𓆷) swamp ⇔ swines 𓆷𓄿𓂸[𓃟](𓃟)  
-[𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) bien = sweet bonbon (b:Bein n:Nil)  
+[𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) bien = sweet / bonbon (𓃀:Bein 𓈖:Nil)  
 [𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  
 [𓆤](𓆤) Horned Beetles [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
-[𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer beetle  
-[𓈙](𓈙) sea chad 水 shuǐ  
-[𓋺](𓋺)[𓏏](𓏏)𓏤 shade  
-[𓄜](𓄛)[𓄛](𓄛) Tier deer  (e.g. panther)  
-[𓏱](𓏱) Mord mortal … 𓅓𓏱𓏏 (death)  
+[𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer / beetle  
+[𓄜](𓄛)[𓄛](𓄛) Tier deer  (e.g. panther, vulture)  
 [𓈖](𓈖)[𓆑](𓆑)[𓂉](𓂉) niesen (nose⇔snouth)  
 [𓋴](𓋴)[𓈖](𓈖)𓂉[𓏛](𓏛) scent smell  
 [𓂓](𓂓)𓂓 kwerkar work  
-[𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  [𓂜](𓂜)[𓏏](𓏏) not, nada  
+[𓏱](𓏱) Mord mortal … 𓅓𓏱𓏏  M+𓏱+t  
+[𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  [𓂜](𓂜)[𓏏](𓏏) not, nada, njet  
 [𓊖](𓊖) Court (city quarters)  
-[𓇳](𓇳) soRay 🌞 日  
-[𓊛](𓊛) Shiphonit [𓊝](𓊝)  
-[𓌵](𓌵) Mvoyer  
-[𓋬](𓋬) MatheMathei[𓆇](𓆇)  
-[𓄟](𓄟) Mes mnais Moses  
 [𓄣](𓄣) Heart / Lieb  
-[𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor  
+[𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor  (a deity)  
 [𓉡](𓉡) Hathor = Hüter(Protector) of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥) [𓃒](𓃒)  
-[𓅭](𓅭) sA = son  
-[𓅭](𓅭)𓏏 daughter could be … duckter. Or just sAt.  
+[𓅭](𓅭) sA' = son … common expression:  [𓅭](𓅭)[𓇳](𓇳) sA'Ra = sonray = son of the sun  
 
-This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis or because of the undeniable strong connections to Semitic languages; this however is not a contradiction:  
+This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; this however is not a contradiction:  
 
 Egyptian had a tremendous influence on Semitic, African *and* European languages.  
+
+Further reading: [Highlights](Highlights), compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  

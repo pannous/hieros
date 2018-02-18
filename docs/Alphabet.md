@@ -36,7 +36,6 @@ Y|[𓏭](𓏭)|¨𓏮 𓇌 𓇋𓇋 𓆄𓆄|vyλ丫yā:fork yuvw T+𓏮=TWO亚 
 Z|[𓊃](𓊃)|Zone| zusam syn [𓍿](𓍿),ʒ,Z,Σ,ß,ss,ts,c,δ 𓄑  
 Sh|[𓈉](𓈉)|Schanze|山ШшЩщ [𓆷](𓆷)swampϢ ∑ 三 sān Karδan [𓂓](𓂓)[𓈋](𓈋)[𓈙](𓈙)  
 
-
 Even in its early form, the Egyptian hieroglyphics system was 'almost alphabetic'. A quite small and easy to learn system of syllables, at least compared to Chinese.  
 The exact phonetic values are impossible to reconstruct, but comparative linguistics can give estimates for the dominant dialects. Even at the time when this language was still spoken most letters were clusters of similar sounds (see different values of 'a' in 'man','made','master',…)  
 For example many Egyptian words which have the character '𓃀' now have a 'b' in its derived coptic forms, or similar bh,ph,p,v,f sounds in modern variants of the word '𓃀' (all meaning ⋍leg)  

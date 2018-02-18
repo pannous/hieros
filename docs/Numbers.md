@@ -9,9 +9,6 @@ NUMBERS
 
 During the amost four millenia in which egyptian hieroglyphics where in use, surely ambivalent readings of the signs developed. Although the exact spoken forms of pharaonic numbers are forever lost to history they seem to be similar to:  
 
-There was and still is significant confusing weather counting should start with 0 or 1.  
-𓈒𓏸[𓆇](𓆇)𓇳 solo 0 vs 1 mono, single, lonely: being one vs having no-one  
-
 0 none [𓂜](𓂜)𓈖  
 0 null nile 𓂜[𓈖](𓈖)  
 0 [𓅓](𓅓) manu@celtic 𓂜 empty hand  
@@ -84,14 +81,13 @@ There was and still is significant confusing weather counting should start with 
 8 oshamana #Hmnw ! 𓎛𓏠𓈖𓅱? 	Akkadian 'samānā shamanu tmanya  8-menno @ coptic  minor? vs  3 𓇡 Samen 'EŠ'𓐍𓂸𓏏 vs 7  
 8 Has'many 𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏌𓊖 = 𓃹𓏌𓊖 + 𓏠𓈖𓂝[𓊖]  Ḫmnw : Ashmunein الأشمونين‎‎ Ϣⲙⲟⲩⲛⲉⲓⲛ   ÀŠ (6) 𒐋+ MIN(2)𒋰𒈫 sASH  
 8 hast.emen  acht.iemen @PERS  
-9 neun 𓇸 = naun 𓈖 𓈗 anew 𓌳 neu 9 Ennead(9Gods) ⇔ pvasser: duan 2x5 𓇽 = 10 ? 𓇷 Anubis? ⇔  
-9 #psD(w) 𓊪𓋴𓆓 Poseidon ψ coptic ⲮⲒⲤ  fish phthiδ phthis𓆑snake ⇔ Akkadian tiše, Arabic “tisa” aššadhig Hydra sHindra  
-9 #psD	𓊽𐤎 Pesedjet F37 => posTure Dura Turm  
-9 nVie?	𓊽𐤎  
-10 tent 𓎆	2nd order taunt? 𓏏 ten @ sumer ("DON")  
+9 #psD(w) 𓊪𓋴𓆓 Poseidon? ψ coptic ⲮⲒⲤ fish = 𓈖 naun <=> neun … a strech, but *postulated* in [paper](http://www.academia.edu/16403755/Phoenician_origins_of_numerals)  
+9 #psD(w) 𓊪𓋴𓆓 phthiδ phthis𓆑snake ⇔ Akkadian tiše, Arabic “tisa” aššadhig Hydra sHindra  𓊽𐤎  
+9 neun 𓇸 = naun 𓈖 𓈗 anew 𓌳 neu 9 Ennead(9-Gods greekƒ!) ⇔ pvasser: duan 2x5 𓇽 = 10 ? 𓇷 Anubis? ⇔  
+10 tent 𓎆   2nd order  [𓏏](𓏏) ten @ sumer ("DON")  
 10 dent 𓎆 'zahn' Zehn vs Zehen dah@persi  ma.dan :  
 10 µTen 𓎆 #mDw vs #mDj  ⲘⲎⲦ / ⲘⲦⲈ @copt	umpteen		µ 5? 5x2? µtwon:  ⲘⲎⲦ = THenm backwards  
-20 µTwenty! 𓎆𓎆 #mdwtj		30maabe 40qvame? 50djjw 60sisin 70sevhjn 80 8mene 90 poseidón psdjw  
+20 µTwenty! 𓎆𓎆 #mdwtj ! 10*2 / 2*10 30maabe 40qvame? 50djjw 60sisin 70sevhjn 80 8mene 90 poseidón psdjw  
 100 cent 𓍢 #št #šnt shund' 𓊃 centipede=cenpod𓊃𓊪𓅮!!   ϢⲎⲦ = ShmHt ShHnT = cent  
 100 hund-tau 𓅱𓍢 𓃡 chien 犬 quǎn czien 𓌕 ⇦ ḫunt cent ṣādē 𐤑 ?    whun𓍢dreht/wound𓍢thread  
 1000 #kha 千 1.000 qiān 𓐍𓆼𓄿𓅱     kHazar@Armenian saHasra@Sanskrit   xilia:KILO! vs milia!  Ϣⲟ@Coptic  
@@ -101,23 +97,23 @@ There was and still is significant confusing weather counting should start with 
 10000 ešer-līmi @ Akkad xiliami@Gr/Ro  exa-līmi   LTR!!  
 1000000 līm @ Akkad ⇔ MiLlioM   εκα-τομ-μύριο myrio millio million@Beja!  
 𐋠 	𐋡 	𐋢 	𐋣 	𐋤 	𐋥 	𐋦 	𐋧 	𐋨 	𐋩  
-```  
-Extra: 𓆈 𓇋[𓆎](𓆎), ἐχῖν, Echse, exa, Aesche, 𓂝[𓈙](𓈙) ⇔ ἑκατόν 10^^2  
+
+There was and still is significant confusing weather counting should start with 0 or 1.  
+𓈒𓏸[𓆇](𓆇)𓇳 solo 0 vs 1 mono, single, lonely: being one vs having no-one  
+
+
+Extra:  
+
+𓆈 𓇋[𓆎](𓆎), ἐχῖν, Echse, exa, Aesche, 𓂝[𓈙](𓈙) ⇔ ἑκατόν 10^^2  
+
 [𓏠](𓏠) Menge manche number many mega much macha 𓉻𓂝[𓄿](𓄿)𓏜 Acha ⇔ 𓆈  
+
 Add 𒀭 multi 𒄬/2 𒈹 MathemaTheia  
+
 Plus ++ 𒉺 polys phoile viele  
 
 
-ALL align with coptic, most with Beja  
-The relationship to semitic and European languages in most cases likely and in some cases certain:  
-```  
-2 ꜩwin 𓌢	 dvin down twin zwein cin@COPT ⇔ kin  
-4 𓆑𓂧𓅱  ЧⲦⲞⲞⲨ Qvtour quarter = four  
-6 𓋴𓇋𓋴 sis six  
-7 𓋴𓆑𓎛𓅱  svhwn seven  
-10 𓎆 tent dent ⇔ zehnt  
-```  
-There once was a 'number' pre-/-suffix similar to nmn min 𓅱 𓏠𓈖 as still preserved in [8](8) in persian, russian and semitic languages. Also still common as a plural marker -men -en 门 [門] mén which may be related to the portals of cities [𓊖](𓊖) and to *Menge*  𓏠  𓈖  𓏴  𓏌 (measurement). See much, manche, many @Gothic …  
+There once was a 'number' pre-/-suffix similar to nmn min 𓅱 [𓏠](𓏠)𓈖 as still preserved in [8](8) in persian, russian and semitic languages. Also still common as a plural marker -men -en 门 [門] mén which may be related to the portals of cities [𓊖](𓊖) and to *[Menge](Menge)*  𓏠  𓈖  𓏴  𓏌 (measurement). See much, manche, many @Gothic …  
 
 Sanskrit: zehn-cent connection:  
 𓍢:uan  
