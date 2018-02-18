@@ -1,8 +1,8 @@
 “Prepositions are among the most idiosyncratic words of any language. Often it is impossible to translate the prepositions of one language exactly into those of another.”  
 Given this observation by a wise Egyptologist it is even more astonishing that we can grasp most Egyptian prepositions just by looking at their alphabetic values, at least if we know some German and very basic Spanish and (à) French:  
 
-[𓏏](𓏏) **t**	to  
-[𓈖](𓈖) **n**	an (of, belonging to, for), na’ (nach, to), in (time)  
+[𓏏](𓏏) **t**	to, at, ata  
+[𓈖](𓈖) **n**	an (of, belonging to, for), on, na’ (nach, to), in (time), ana 𒀀𒈾  
 [𓂋](𓂋) **r**	 à (french) at, re, vers, towards, as for, from, so that, to, until  
 [𓂜](𓂜) **nə** no negation (also 𓂜𓈖 non, not 𓂜𓏏 anti-  ⲁⲧ- , ⲁⲑ-)  
 [𓏇](𓏇) **mi**lk ꟿi ⋍ wie / like / similak similar misma  

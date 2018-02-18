@@ -22,4 +22,4 @@ Interrogative particle mi is linked to Negative. German: ne? asiatic ma? 马mǎ?
 
 This is not meant to be evidence of a Nostratic anchestoral language, just for linguistic interbreeding between the [Getae](Getae) (Goth) [Saxa](Saxa) and Turks, who undisputedly lived on the same territories for millennia.  
 
-However the [eurasian](eurasian) pool of common syllables and patterns is astonishingly coherent.  
+However the [eurasian](Eurasian) pool of common syllables and patterns is astonishingly coherent.  
