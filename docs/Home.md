@@ -44,7 +44,7 @@ The roots of the Persian language came via the region of Elam with its capital S
 ![susa-egypt.png](susa-egypt.png)  
 Near identical building plans of the early temples and very similar early Egyptian and Sumerian [ceremonies](Hieros-gamos) clearly demonstrate that these are not mere trade-artefacts, but in fact proof of a common anchestry of both higher civilizations.  
 
-In 2006 a tall woman with a golden eye implant was [found in Jiroft](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm), Iran. With an outstanding 1.82 m tall (6 feet) she was much taller than ordinary women of her time. We anticipate that genetic tests will show that she was indeed part of proto-indo-europeans founding stock.  
+In in Jiroft, Iran a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m tall (6 feet) she was much taller than ordinary women of her time. We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock.  
 
 Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution). Here we investigate how deeply the roots go and how the [system](PIE), its [cosmology](cosmos) and language are intertwined with our own:  
 
@@ -56,9 +56,9 @@ Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) 
 
 But other words and icons are recognizable as well:  
 
-[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢)  
+[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢)  bee  
 
-One cognate match might be coincidence, a whole cluster of words might hint at connections which need refreshed investigations:  
+One cognate match might be coincidence, a whole cluster of words hints at connections which need refreshed investigations:  
 
 [𓄝](𓄝) is usually transcribed as #st and has the following usages:  
 𓋴 𓄝 𓏏 𓏏 [𓁐](𓁐) Satis (goddess)  S+𓄝+t+th (theia)  
@@ -70,16 +70,22 @@ One cognate match might be coincidence, a whole cluster of words might hint at c
 𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
 𓄝 𓏏 [𓁹](𓁹) stare : “st+t+eye(R)”  
 𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shed  
+𓅱 𓋴 𓈙 𓏏 urine : us-shit (aus scheid / schütten)  
+[𓈗](𓈗) 𓇋 𓇋 𓏏 𓈗  urine שֶׁתֶ schütten  => 𓈗=sea? one of a couple readings.  
+𓋴 𓄞 𓂧 𓍼 sheath: Scheide  
+𓄞 𓂧 𓊌 vulva: Scheide  
+…  
 
-In fact as the exact pronounciation is mostly unreproducible, we need to follow the consensus reading of the signs and perform some comparative cluster analysis of their consonant roots:  
+Is that some 19th century hoax?  
 
 [𓌹](𓌹)[𓅓](𓅓)[𓂋](𓂋) Amur [𓌹](𓌹)+M+R admire marry … (love)  
 [𓃟](𓃟) Shu+wn [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) swine  
-[𓆷](𓆷) swamp ⇔ swines 𓆷𓄿𓂸[𓃟](𓃟)  
+[𓆷](𓆷) swamp ⇔ swines 𓆷𓄿[𓂸](𓂸)[𓃟](𓃟)  
 [𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) bien = sweet / bonbon (𓃀:Bein 𓈖:Nil)  
 [𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  bee  
-[𓆤](𓆤) Horned Beetles [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
-[𓇇](𓇇)[𓆤](𓆤) HorNeith, a goddess @North  
+[𓆤](𓆤) Horned Beetles 𓎛𓆰𓈖𓄏 horn [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
+[𓇇](𓇇)[𓆤](𓆤) HorNeith  
+[𓆤](𓆤) HorNeith Symbol of North vs [LeBint](LeBint) / LeVant  
 [𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer / beetle  
 [𓏱](𓏱) Mord mortal … [𓅓](𓅓)𓏱[𓏏](𓏏)  M+𓏱+t  
 [𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  [𓂜](𓂜)[𓏏](𓏏) not, nada, njet  
@@ -100,7 +106,6 @@ This Discovery is not entirely new, Dr. Christian De Vartavan, former head of th
 
 Egyptian could be related to Afro-Asiatic *and* Eurasian languages.  
 
-
 Remember the persian words for mother and father?  
 Here are the (deified) Egyptian variants:  
 
@@ -115,7 +120,7 @@ Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is 
 
 Egyptologists followed the path of the lowest common denominator, with the bizarre result that quite a few words are reduced to mere sequences of vowels, i.e. [𓂣](𓂣)[𓉻](𓉻)[𓄿](𓄿) = a.a.a  (magnify)  
 As a working hypothesis one should examine if adaar or amacha might be better reconstructions. This obviously needs further work, but the case should be reopened.  
-Similarily we reject the four signs [𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀(er?) should not be reduced to a mere 'it' as in some modern dictionaries.  
+Similarily we reject that the four signs [𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀(er?) should be reduced to a mere 'it' as in some modern dictionaries.  
 
 In the past linguists focussed on demonstrating that Semitic languages are the mothers of Egyptian. In the future it should be reexamined whether some fathers came from further north. Even before the arrival of the charriot.  
 
