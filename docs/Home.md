@@ -51,7 +51,9 @@ hieroglyps|transcribed|english|letters
 [𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |Muta (Gaia)|Mother (Nature)| 𓅓=M 𓅱=u 𓏏=t  
 [𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)| Nature| (Mother) vulture |𓈖=N 𓏏=T 𓂋=R  
 
-Using the Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages:  
+Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
+
+We subscribe to the idea that central words of frequent use and large semantic clusters have a much lower probability of mutating then other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
 
 |letter|glyph|meaning / cognate?|  
 |-----|----|-------|  
@@ -85,6 +87,16 @@ W|[𓅳](𓅳)|uu
 X|[𓎛](𓎛)|flax Hair  
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusam/zone/sym-/con-  
+
+We propose to slightly alter the reading of  
+*) '𓍿' to be centered in the middle of the distribution t-th-c-ⵛ (kappa), so in the proximity of 'tc'.  
+*) '𓅱','𓍢' (w/u) to contain a dangling 'n' so (w)hun, 𓏲⋍ə.  
+*) [𓇋](𓇋) (a/e/i) to be originally 'fe'  
+*) [𓇋](𓇋)[𓇋](𓇋) ee/ei/ii/y/j to sometimes have a dangling l (lloret)  
+
+In general one should think of those signs as distributions, so 𓃀 is somewhere on the axis p-ph-bh-b-pf-f, the exact pronunciation was probably dependent on dialects and words. The german Bein for '𓃀' conveniently lives in the middle of this distribution, the original reading could have been closer to pod, pierna.  
+
+Fortunately well recognisable words and clusters make the situation less dire than it would seem.  
 
 The Egyptian Hieroglyphic writing system started as a syllabary[➾](https://en.wikipedia.org/wiki/Syllabary) but soon converged to a rather small set of frequent signs and sounds plus [determinants](Determinants) (like [𓈉](𓈉) for land).  
 
