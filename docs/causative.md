@@ -20,6 +20,7 @@ elect ⇨ select
 lune ⇨ selene,  
 Reihe(row) ⇨ serie  
 Halt ⇨ shelter  
+Hut ⇨ Schutz (protection)  
 Himmel ⇨ shimmer  
 dreel(wheel) ⇨ control  
 creel 𓐍𓈖𓏛 ⇨ 𓋴𓈖 𓐍𓈖𓏛 control ©  
