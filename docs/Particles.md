@@ -45,8 +45,8 @@
 𓂋 𓎡||(enclitic) (not translated)|rek / right! / rethn ← tassen  
 𓅱𓂜|mun-|(enclitic negative) not| !! 没 [沒] méi manu  
 𓅱|un-|(enclitic negative) not|un- !! @ EN / mo @ GR ++  
-𓇉 𓄿 𓀁|wäre|(non-enclitic) would that !, O!|hier her! / hieri / schiere Vernunft / Schiri! / !++  
-𓈖 𓈟 𓅓 𓂝 𓈖|NAM++|(non enclitic) surely, assuredly|nämlich!!! DE +++ ←  
+𓇉 𓄿 𓀁|wäre|(non-enclitic) would that !, O!|hier her  
+𓈖 𓈟 𓅓 𓂝 𓈖|NAM++|(non enclitic) surely, assuredly|nämlich!!! DE/LAT +++ ←  
 𓈞 𓅓||(enclitic) assuredly, indeed|  
 𓈞 𓅓 𓀜||(enclitic) assuredly, indeed|  
 𓈞 𓅓 𓂝||(enclitic) assuredly, indeed|  
@@ -54,7 +54,7 @@
 𓍘||(non enclitic) (not translated)|Cinnamon, a tree, (and its) spice ?  
 𓍘 𓇋||(non enclitic) not translated|si, see?  
 𓎡 𓄿|car|(non-enclitic) so, then|ca:co:so ++  
-𓎡 𓄿 𓀁||(non-enclitic) so, then|tha.me ⇔ then  
-𓐍 𓂋|car|(non-enclitic) and, further| car ⇔ course ≠ cause  
-𓎼 𓂋 𓏏|car|(enclitic) moreover, now| car ⇔  course ≠ great!  
-𓐍 𓂋 𓀒||(non-enclitic) and, further|car ⇔ kartumble!  
+𓎡 𓄿 𓀁|car|(non-enclitic) so, then|tha.me ⇔ then  
+𓐍 𓂋|car,gar|(non-enclitic) and, further| car ⇔ course ≠ cause  
+𓎼 𓂋 𓏏|car,gar|(enclitic) moreover, now| car ⇔  course ≠ great!  
+𓐍 𓂋 𓀒|car,gar|(non-enclitic) and, further|car ⇔ kartumble!  

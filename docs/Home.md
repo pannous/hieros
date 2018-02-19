@@ -53,7 +53,7 @@ hieroglyps|transcribed|english|letters
 
 Using the Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages:  
 
-|letter|glyph|meaning/cognate|  
+|letter|glyph|meaning / cognate?|  
 |-----|----|-------|  
 a|[𓄿](𓄿)|[Aar](https://dict.leo.org/englisch-deutsch/aar) [air](Air)|  
 A|[𓂝](𓂝)|Arm|  
@@ -100,7 +100,7 @@ One cognate match might be coincidence, a whole cluster of words might hint at c
 𓋴 𓄝 𓏏 𓏏 [𓁐](𓁐) Satis (goddess)  S+𓄝+t+th (theia)  
 𓋴 𓄝 𓏏 𓌕 𓂡 shoot  s+𓄝+t  
 𓋴 𓄝 𓏏 𓊮 set (fire)  s+𓄝+t  
-𓋴 𓄜 𓏏 𓃒 schüttern,gescheckt,stained (dabbled)  
+𓋴 𓄜 𓏏 𓃒 schüttern, stained (dabbled)  
 𓋴 𓄝 𓅂 [𓌙](𓌙) 𓀀 aSiat  
 𓄝 𓏏 𓏏 𓐎 𓏥 shooting pains  
 𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
@@ -126,8 +126,11 @@ One cognate match might be coincidence, a whole cluster of words might hint at c
 [𓉡](𓉡) Hathor = Hüter(Protector) of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥) [𓃒](𓃒)  
 [𓅭](𓅭) sA' = son … common expression:  [𓅭](𓅭)[𓇳](𓇳) sA'Ra = sonray = son of the sun  
 
-This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; this however is not a contradiction:  
+This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; the later however is not a contradiction:  
 
-Egyptian had a tremendous influence on Semitic, African *and* European languages.  
+Egyptian could be related to Afrosemitic *and* Eurasian languages.  
 
-Further reading: [Highlights](Highlights), compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  
+In the past linguists focussed on demonstrating that Afrosemitic languages are the mothers of Egyptian.  
+In the future it should be reexamined whether the fathers came from further north. Even before the arrival of the charriot.  
+
+Further reading: Compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  
