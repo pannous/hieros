@@ -16,7 +16,7 @@ Egyptian pronouns seem to hint at a linguistic Bridge between Semitic/Berber- la
 The first person form is irregular with variants of [𓅱](𓅱)𓈖𓎡 moi,mon,mine,manch,mich,ück…  
 
 The hypothesized ancient forms of the ‘letters’  𓆑 𓎡 𓇋 𓅱 (see [Alphabet](Alphabet) and [Axioms](Axioms)) with slight shifts and dangling connotations play well into the above table:  
-[𓆑](𓆑) φ pthn⋍s*n:  φίδιn python snake [usually simple transcribed as ‘f’]  
+[𓆑](𓆑) φ pthn⋍s*n:  φίδιn python snake [usually simply transcribed as ‘f’]  
 [𓎡](𓎡) *tcu: Kelle/cup/tasse [alt] vs jug, jar  
 [𓇋](𓇋) *fe feather/vieh ⇨ ve / we  
 [𓅱](𓅱) µω:= u, uu, w, ‘un, ‘en, mwn  
@@ -80,20 +80,5 @@ Contrast this beautiful alignment with [Turk](Turk) grammar.
 Oddity: compare Berber natta - هو  with 𓆑 φ pthn⋍s*n:  φίδιn python snake  
 
 𓏏 𓄿  der / dlar : reflexive 'that'  
-
-Grammatical semantic and phonetic continuum  
-
-Der Gin der Genie.  
-Del Gin del Genie.  
-De Gin 的 Genie  
-Le Gin de la Genie.  
-Al gin al genie.  
-El gin El genie.  
-All Genie All Wissend.  
-Genial Alwis Elvis  
-Almighty All-Vater 𓎟 𓊪 𓏏 𓇯  
-Alice Queeneth Potanz 𓎟 𓏏 𓆗 𓊪 𓏏 𓇯  
-
-
 
 Next: [Interrogatives](Interrogatives) / [Reflexives](Reflexives)  
