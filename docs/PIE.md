@@ -34,6 +34,6 @@ Strikingly, the mummies were more closely related to ancient Europeans and Anato
 
 They set out to conquer the world and conquer they did:  
 ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Indo-European-speaking_world.png)  
-Most of the white countries and the northern light green ones spoke some proto-indo-european through some or much of their history!  
+Most of the white countries and the white northern countries spoke some indo-european through some or much of their history!  
 
 We are all [human](Human)  
