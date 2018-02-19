@@ -2,9 +2,12 @@
 	font-family: 'NewGardiner';
 	src: url('NewGardinerSMP.ttf') format('truetype');
 }
-
+@font-face {
+  font-family: 'Zarathustra';
+  src: url('Zarathustra.ttf') format('truetype');
+}
 body {    
-	font-family: Arial,NewGardiner; 
+	font-family: Arial,NewGardiner,Zarathustra; 
   background: -webkit-linear-gradient(top, #EDB, #FFF) fixed; 
 }
 
