@@ -132,9 +132,9 @@ One cognate match might be coincidence, a whole cluster of words might hint at c
 [𓉗](𓉗) hut 1. house 2. die Hut (protection) ⇔ hotel...  
 [𓁶](𓁶) 𓏤 𓉗 𓏏 𓉐 |roof| "top.hut" Obhut  
 𓉗 𓏏 𓏏 𓈉 Hütte (mine) vs 𓉗 quarry 𓈎𓅱𓂋𓏤 (gold miner) ⇔ chyros  
+𓉗 quarters [𓊖](𓊖) see [Numbers](Numbers)  
 𓉗 𓏲 𓏏 𓉐 𓏥 𓅨 𓂋 𓇋 𓇋 𓉐 𓏏 𓏪  (Law) Courts "Great House"  
-𓉗 quarter Quartier [𓊖](𓊖)  
-[𓉡](𓉡) Hathor ⇔ Hüter(Protector) of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥)[𓃒](𓃒) H+AI+R+D+s  
+[𓉡](𓉡) Hathor ⇔ Hüter(Protector) of Horus and Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥)[𓃒](𓃒) H+AI+R+D+s  
 [𓅭](𓅭) sA' = son … common expression:  [𓅭](𓅭)[𓇳](𓇳) sA'Ra = sonray = son of the sun  
 
 This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; the later however is not a contradiction:  
