@@ -44,7 +44,7 @@ very remote [Eurasian](Eurasian) connections to Tamil :
 3 three (moonu) மூன்று [man](Menge) 𓐍𓏠 (3rd person) 3 moons [☾☾☾](☾☾☾) Ϣomte some  
 4 four (naalu) நான்கு  ? 𒈾[𓈖](𓈖) naul     八 bānara=8 2*4 [𓏌](𓏌) [𓊖](𓊖) arba  
 5 five (anJu) ஐந்து panj 𓂬 (5) vs 𓂧𓇋𓏏 (5)  
-6 six (aaru) ஆறு ?  
+6 six (Aaru) ஆறு ?  
 7 seven (yElu) ஏழு ?  
 8 eight (ettu) எட்டு  octo  
 9 nine (onbathun) ஒன்பது  1 to 10 / 1 不 10 / 1 + 8 八bā  
