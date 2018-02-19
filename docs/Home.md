@@ -70,10 +70,10 @@ One cognate match might be coincidence, a whole cluster of words hints at connec
 𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
 𓄝 𓏏 [𓁹](𓁹) stare : “st+t+eye(R)”  
 𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shed  
-𓅱 𓋴 𓈙 𓏏 urine : us-shit (aus scheid / schütten)  
-[𓈗](𓈗) 𓇋 𓇋 𓏏 𓈗  urine שֶׁתֶ schütten  => 𓈗=sea? one of a couple readings.  
+𓅱 𓋴 𓈙 𓏏 𓈗 urine : 1. wasshe* ⇔ water 2. us-shit (aus-scheid / schütten)  
+[𓈗](𓈗) 𓇋 𓇋 𓏏 𓈗  urine שֶׁתֶ schütten  => 𓈗=sea?  𓈗=𓅱𓋴𓈙 Wasser w.s.sh'  
 𓋴 𓄞 𓂧 𓍼 sheath: Scheide  
-𓄞 𓂧 𓊌 vulva: Scheide  
+𓄞 𓂧 [𓊌](𓊌) vulva: Scheide  
 …  
 
 Is that some 19th century hoax?  
@@ -83,8 +83,9 @@ Is that some 19th century hoax?
 [𓆷](𓆷) swamp ⇔ swines 𓆷𓄿[𓂸](𓂸)[𓃟](𓃟)  
 [𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) bien = sweet / bonbon (𓃀:Bein 𓈖:Nil)  
 [𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  bee  
-[𓆤](𓆤) Horned Beetles 𓎛𓆰𓈖𓄏 horn [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
-[𓇇](𓇇)[𓆤](𓆤) HorNeith  
+[𓆤](𓆤) Horned Beetles [𓎛](𓎛)𓆰𓈖𓄏 horn [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
+[𓇇](𓇇)[𓆤](𓆤) HorNeith  symbol of [Neith](https://en.wikipedia.org/wiki/Neith)  
+𓆤 𓏏 𓏌 𓏥 honey : honeyth ⇔ neithţur nectar  
 [𓆤](𓆤) HorNeith Symbol of North vs [LeBint](LeBint) / LeVant  
 [𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer / beetle  
 [𓏱](𓏱) Mord mortal … [𓅓](𓅓)𓏱[𓏏](𓏏)  M+𓏱+t  
