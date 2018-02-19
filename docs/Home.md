@@ -88,13 +88,7 @@ X|[𓎛](𓎛)|flax Hair
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusam/zone/sym-/con-  
 
-We propose to slightly alter the reading of  
-*) '𓍿' to be centered in the middle of the distribution t-th-c-ⵛ (kappa), so in the proximity of 'tc'.  
-*) '𓅱','𓍢' (w/u) to contain a dangling 'n' so (w)hun, 𓏲⋍ə.  
-*) [𓇋](𓇋) (a/e/i) to be originally 'fe'  
-*) [𓇋](𓇋)[𓇋](𓇋) ee/ei/ii/y/j to sometimes have a dangling l (lloret)  
-
-In general one should think of those signs as distributions, so 𓃀 is somewhere on the axis p-ph-bh-b-pf-f, the exact pronunciation was probably dependent on dialects and words. The german Bein for '𓃀' conveniently lives in the middle of this distribution, the original reading could have been closer to pod, pierna.  
+In general one should think of those signs as distributions, so 𓃀 is somewhere on the axis p-ph-bh-b-pf-f, the exact pronunciation was probably dependent on dialects and words. The german Bein for '𓃀' conveniently lives in the middle of this distribution, the original reading could have been closer to spanish pierna.  
 
 Fortunately well recognisable words and clusters make the situation less dire than it would seem.  
 
@@ -116,8 +110,8 @@ One cognate match might be coincidence, a whole cluster of words might hint at c
 𓋴 𓄝 𓅂 [𓌙](𓌙) 𓀀 aSiat  
 𓄝 𓏏 𓏏 𓐎 𓏥 shooting pains  
 𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
-𓄝 𓏏 [𓁹](𓁹) stare : “sh+t+eye(R)”  
-𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shoot, shed  
+𓄝 𓏏 [𓁹](𓁹) stare : “st+t+eye(R)”  
+𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shed  
 
 [𓌹](𓌹)[𓅓](𓅓)[𓂋](𓂋) Amur [𓌹](𓌹)+M+R admire marry … (love)  
 [𓃟](𓃟) Shu+wn [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) swine  
@@ -134,8 +128,13 @@ One cognate match might be coincidence, a whole cluster of words might hint at c
 [𓂜](𓂜)[𓈖](𓈖) None, mano, no, nay  [𓂜](𓂜)[𓏏](𓏏) not, nada, njet  
 [𓊖](𓊖) Court (city quarters)  
 [𓄣](𓄣) Heart / Lieb  
-[𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor  (a deity)  
-[𓉡](𓉡) Hathor = Hüter(Protector) of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥) [𓃒](𓃒)  
+[𓉡](𓉡) Hathor = [𓉗](𓉗)hut+[𓅃](𓅃)hor (Horus) a deity  ⋍ 𓉞  𓎛𓊨𓏏 Hestair Herster  
+[𓉗](𓉗) hut 1. house 2. die Hut (protection) ⇔ hotel...  
+[𓁶](𓁶) 𓏤 𓉗 𓏏 𓉐 |roof| "top.hut" Obhut  
+𓉗 𓏏 𓏏 𓈉 Hütte (mine) vs 𓉗 quarry 𓈎𓅱𓂋𓏤 (gold miner) ⇔ chyros  
+𓉗 𓏲 𓏏 𓉐 𓏥 𓅨 𓂋 𓇋 𓇋 𓉐 𓏏 𓏪  (Law) Courts "Great House"  
+𓉗 quarter Quartier [𓊖](𓊖)  
+[𓉡](𓉡) Hathor ⇔ Hüter(Protector) of Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥)[𓃒](𓃒) H+AI+R+D+s  
 [𓅭](𓅭) sA' = son … common expression:  [𓅭](𓅭)[𓇳](𓇳) sA'Ra = sonray = son of the sun  
 
 This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; the later however is not a contradiction:  

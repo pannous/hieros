@@ -30,6 +30,8 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 1 whone  𓅱𓂝  
 1 phoone   𓌡		T21 [har]poon  1 𓌠 bone [𓄹](𓄹) vs 𓌟  2  
 1 first  išten@Akkad ersten vs 𓂬  
+2 𓈙𓈖𓅱𓇋 sνnui ⋍ zwein  ⇔ twin  
+2 𓈙𓈖𓅱𓇋 snuni šina@Akkat  eth'nen@Arab  
 2 toe  𓌟			T19 toe,two,thun  𓌟  
 2 toe  𓃅  
 2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT cn snw/ßwn@EGY son Sohn çun@Albany zwon kin(D)  
@@ -42,9 +44,8 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 2       twya 亚   ? 丫yā:fork  
 2	ta'owm=twin@SEM ++++  
 2	twau 𓈇 		Tawi two: dawlant(AR)=state vs län.DER  
-2 Snwi 𓈙𓈖𓅱𓇋	! -- zwei 水 shuǐ  šina@Akkat  eth'nen@Arab  
 2 men 𒋰𒈫 MIN 门 門 mén zusammen [𓊃](𓊃)  
-3 𓏪 𓏤𓏤𓏤 𓏼 𓏨 S'men	-ismn -isn  some somne ☾☾☾  三 sān <<<  
+3 𓏪 𓏤𓏤𓏤 𓏼 𓏨 S'men	-ismn -isn  some somne ☾☾☾ 三 sān  
 3 shamnt 𓐍[𓂸](𓂸)𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT ⇔ Ξ ξan san 三!  
 3 Shams 𐎘𐎍𐎘 Shamas ⇔ threesons 𓇳  
 3'rd order cent=100 ⇔ 𓐍kreis:pi[𓂸] 3.14 ⇔ [𓂸]  
