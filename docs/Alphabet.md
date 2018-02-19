@@ -2,6 +2,8 @@ These are the most frequent signs of the hieroglyphics ordered by the modern rom
 
 We mostly follow the [conventional reading](https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian#Table_of_transliteration_schemes) of the signs, with the exception of letter 'f' pth [𓆑](𓆑) vs [𓇋](𓇋)e.  
 
+The coherence of signs, meaning and 'cognate' sounds is striking, but if nothing else these are excelent mnemonics (for Germans):  
+
 |  [letter](abc.txt)  |gard|  [sign](Gardinger-signs) | comment |  
 |-----|--|--|-------|  
 a|[𓄿](𓄿)|Aar Adler|al`[air](Air) al'pha[𓃾](𓃾)  
@@ -16,7 +18,7 @@ G|[𓎼](𓎼)|Ɠiebel[𓏘](𓏘)|Kübel piK γ,κ,Γ,g,χ [𓌨](𓌨)[𓊖](�
 H|[𓉔](𓉔)|HOuse| Hair[𓎛](𓎛)𓍢𓏲 Hundreh[𓅱](𓅱)𓏲=100  
 I|[𓇋](𓇋)|fIeder| (V)ι,e,a,ey,𓇌,ee=i,y  
 J|[𓆳](𓆳)|𓇋𓇋|Jahr[𓇺](𓇺)year [𓆓](𓆓)dj Ja?𓆶𓆴  
-K|[𓎡](𓎡)|Kelle| [𓆼](𓆼) kilo k-l-l=𓎟 𓎡𓎡𓇰  
+K|[𓎡](𓎡)|Kelle| [𓆼](𓆼) kilo k-l-l=[𓎟](𓎟) 𓎡𓎡𓇰  
 Kr|[𓐍](𓐍)|Kreis|gray[𓊖](𓊖)kur/gyr[𓌨](𓌨)*kar[𓂓](𓂓)  
 L|[𓏯](𓏯)|Leo[𓃭](𓃭)| 𓈖𓇋𓇋yλ niL 𓂅[𓍢](𓍢) 𓂢Elle  [𓌳](𓌳)ל¬laMed [𓂋](𓂋) 𓋴𓆓[𓄓](𓄓) [𓄿](𓄿)lark  
 M|[𓅓](𓅓)|[Musen](Musen)𒈪| [𓏇](𓏇)𓇋𓅱[𓃠](𓃠)mµnνuvw𐀖  Mut:[𓂋](𓂋)[𓅱](𓅱)[𓅐](𓅐)[𓀁](𓀁)  [𓈗](𓈗)[𓏠](𓏠)  
@@ -25,7 +27,7 @@ O|[𓍯](𓍯)|όριο|rho ϱ 𓍯rogue 𓂣A&O𓂝 o < p𓊪/k口/m𓂋/r𓂋/
 Po|[𓊪](𓊪)|pool| who𓊪[𓏲](𓏲)  𒉺𐠞匹pǐ πⲠב𐀡𐠡Ⳁϱρрro pan ἀπο  
 Q|[𓏘](𓏘)|Quarꜩ| 𓈎𓏇𓇋𓇋 Gummi 𓌽[𓂋](𓂋)Gersten Korn [𓎡](𓎡)⋍q [𓎼](𓎼)[𓐎](𓐎)[𓁷](𓁷)𐀣  
 R|[𓂋](𓂋)|eaR|ohR àr arse ϱρрrot=Mund@Rus  [𓏲](𓏲)round roài® 𓂌𓂍rayns  الفم  
-R|𓍢[𓏲](𓏲)ϱ| 𓍯𓍢𓏲 | rhound⋍100  
+R|𓍢[𓏲](𓏲)ϱ| 𓍯𓍢𓏲 |rogue rhound⋍100  
 S|[𓋴](𓋴)|[𓏏](𓏏)[𓆓](𓆓)|S'S C'S ß Γ ʃ δ 𓏏 Ⲋ𓆓 Shad[𓈙](𓈙)Sea  
 T|[𓏏](𓏏)|Teig|Dough 𓏏𓏏TiT tick𓏴tag𓏵Tag [𓏏](𓏏)th⋍s [𓄜](𓄜)[𓄛](𓄛)  
 U|[𓅱](𓅱)|[𓍢](𓍢)𓏲|HUhndert=100 [𓏌](𓏌)Ων ωuν 𓏲𓍢وقف𐀸 wound  
@@ -35,6 +37,9 @@ X|[𓏴](𓏴)|𓏵|𐄂χX 𐠷=CS 𓎡𓋴 𓍲𓏴 ticks✓ [𓂧](𓂧)[end]
 Y|[𓏭](𓏭)|¨𓏮 𓇌 𓇋𓇋 𓆄𓆄|vyλ丫yā:fork yuvw T+𓏮=TWO亚 义羽Yǔstice 𐀂Y [𓎡](𓎡)yek/juɠ  
 Z|[𓊃](𓊃)|Zone| zusam syn [𓍿](𓍿),ʒ,Z,Σ,ß,ss,ts,c,δ 𓄑  
 Sh|[𓈉](𓈉)|Schanze|山ШшЩщ [𓆷](𓆷)swampϢ ∑ 三 sān Karδan [𓂓](𓂓)[𓈋](𓈋)[𓈙](𓈙)  
+
+Is this all a German hoax from the 19th century?  
+The alphabet and the standard reading of signs were developed by French English and Semitic scolars, so it all seems genuine.  
 
 Even in its early form, the Egyptian hieroglyphics system was 'almost alphabetic'. A quite small and easy to learn system of syllables, at least compared to Chinese.  
 The exact phonetic values are impossible to reconstruct, but comparative linguistics can give estimates for the dominant dialects. Even at the time when this language was still spoken most letters were clusters of similar sounds (see different values of 'a' in 'man','made','master',…)  
