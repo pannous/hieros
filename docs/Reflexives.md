@@ -45,5 +45,21 @@ the last words obviously related to
 
 Assuming as axiom a similarity between [𓅮](𓅮) opthe and opter(fly) and between [𓆑](𓆑)ƒn/sn and phython.  
 
-Question particle  ‘𓆵’==‘?’   Whether 𓊪𓏏𓂋𓆵 	Whether Petrus* brings watery weather?  
+Question particle  ‘𓆵’==‘?’  
+Whether 𓊪𓏏𓂋𓆵 	Whether Petrus* brings watery weather?  
+
  *Pater Petairus 𓊪𓏏𓇯 DioPiter 𓏙𓏚 Jupiter ♃ - Skygod - Vater of Gods (now solely a planet)  
+
+
+Crazy afterthought: grammatical semantic and phonetic continuum between articles and deities (dei don el ...)  
+
+Der Gin der Genie.  
+Del Gin del Genie.  
+De Gin 的 Genie  
+Le Gin de la Genie.  
+Al gin al genie.  
+El gin El genie.  
+All Genie All Wissend.  
+Genial Alwis Elvis  
+Almighty All-Vater [𓎟](𓎟) 𓊪 𓏏 𓇯  
+Alice Queeneth Potanz 𓎟 𓏏 𓆗 𓊪 𓏏 𓇯  
