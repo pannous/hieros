@@ -6,7 +6,6 @@ NUMBERS
 [𓆎](𓆎) [𓅓](𓅓) [𓏜](𓏜) ∑ kommt : total up, amount to, complete, put an end to, pay (to), profit, duty  
 ∑ compute, comme, kommt zu ... macht Zusam[men](Menge), Summe, count, compter ⇔ censor  
 
-
 During the amost four millenia in which egyptian hieroglyphics where in use, surely ambivalent readings of the signs developed. Although the exact spoken forms of pharaonic numbers are forever lost to history they seem to be similar to:  
 
 0 none [𓂜](𓂜)𓈖  
@@ -44,12 +43,12 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 2       twya 亚   ? 丫yā:fork  
 2	ta'owm=twin@SEM ++++  
 2	twau 𓈇 		Tawi two: dawlant(AR)=state vs län.DER  
-2 men 𒋰𒈫 MIN 门 門 mén zusammen [𓊃](𓊃)  
+2 men 𒋰𒈫 MIN 门 門 mén zusammen [𓊃](𓊃)  𒋰dab double  
 3 𓏪 𓏤𓏤𓏤 𓏼 𓏨 S'men	-ismn -isn  some somne ☾☾☾ 三 sān  
 3 shamnt 𓐍[𓂸](𓂸)𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT ⇔ Ξ ξan san 三!  
 3 Shams 𐎘𐎍𐎘 Shamas ⇔ threesons 𓇳  
 3'rd order cent=100 ⇔ 𓐍kreis:pi[𓂸] 3.14 ⇔ [𓂸]  
-3 Samen [𓇡](𓇡)  'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 vs 7,8  
+3 Samen [𓇡](𓇡) 三 AS/'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 vs 7,8  
 3 Saat 𓇡 säh se  
 3 cird [𓐍](𓐍)𓏏 third  𐎘𐎍𐎘 [ⲑ](ⲑ)-R-ⲑ threesse 𓐍[𓂸](𓂸)𓏏 ⇔ ⲑ-L-ⲑ shalosh שָׁלֹשׁ  
 3 terrassen [𓇾](𓇾) Drei Länder [𓈉](𓈉) tre thre vs 单 Mithraim  
@@ -105,14 +104,15 @@ There was and still is significant confusing weather counting should start with 
 
 Extra:  
 
-𓆈 𓇋[𓆎](𓆎), ἐχῖν, Echse, exa, Aesche, 𓂝[𓈙](𓈙) ⇔ ἑκατόν 10^^2  
+[𓆈](𓆈) 𓇋[𓆎](𓆎), ἐχῖν, Echse, exa, Aesche, 𓂝[𓈙](𓈙) ⇔ ἑκατόν 10^^2  
 
-[𓏠](𓏠) Menge manche number many mega much macha 𓉻𓂝[𓄿](𓄿)𓏜 Acha ⇔ 𓆈  
+[𓏠](𓏠) Menge manche number many mega much macha 𓉻𓂝[𓄿](𓄿)𓏜 Acha ⇔ [𓆈](𓆈)  
+[𓏶](𓏶) 𒈦 Mas Maß ⇔ more moore [𓃶](𓃶) Gut 𒇻 goat 𒈧 encore [𓋹](𓋹)  
 
-Add 𒀭 multi 𒄬/2 𒈹 MathemaTheia  
-
-Plus ++ 𒉺 polys phoile viele  
-
+Add An 𒀭 * multi 𒀯  
+Half 𒄬/2 Demi  𒈹 MathemaTheia  
+Plus ++ 𒉺 polys phyle viele  
+Reziprok 𓂋=1/x   𓂋/[𓎛](𓎛) 1/∞  
 
 There once was a 'number' pre-/-suffix similar to nmn min 𓅱 [𓏠](𓏠)𓈖 as still preserved in [8](8) in persian, russian and semitic languages. Also still common as a plural marker -men -en 门 [門] mén which may be related to the portals of cities [𓊖](𓊖) and to *[Menge](Menge)*  𓏠  𓈖  𓏴  𓏌 (measurement). See much, manche, many @Gothic …  
 
@@ -159,3 +159,8 @@ cent cien ⇨千 1.000 qiān 𓐍𓆼𓄿𓅱 khan ⇨ giant ⇨ (q)WAN 万 ⇨ 
 [𓍿](𓍿) [𓈖](𓈖) [𓌙](𓌙) [𓅯](𓅯) [𓏌](𓏌) [𓅱](𓅱) [𓏜](𓏜) **count²**, [quantity](Interrogatives)  
 [𓍿](𓍿)=c[𓈖](𓈖)=n[𓌙](𓌙)=tan : count  
 [𓅯](𓅯) [𓏌](𓏌) [𓅱](𓅱) [𓏜](𓏜) qwn.nu.un.ter / [𓏌](𓏌) [𓅱](𓅱) [𓏜](𓏜) nu.mw.ba ?  
+
+𒇻 𒈦 𒈧 goat ⇔ quat count / quadrat  
+𒈦 mas = more «+» MASH / maš [1452x] = interest  
+
+[𓆎](𓆎) kamm ⇔ 𒆚 kám ordinal marker  ⇔ 𓏠𓈖 gMen [Menge](Menge) ⇔ min,men ⇔ number?  
