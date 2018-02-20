@@ -1,11 +1,13 @@
 [Home](Home)  
 [PIE](PIE)  
+[Kur](kur)  
 [Signs](Gardiner-signs)  
 [Axioms](Axioms)  
 [Grammar](Grammar)  
 [Pronouns](Pronouns)  
 [Numbers](Numbers)  
 [Highlights](Highlights)  
+[Cosmos](cosmos)  
 
 [Alphabet:](Alphabet)  
 

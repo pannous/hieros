@@ -2,9 +2,12 @@
 
 Written as [𓄿](𓄿)[Aar](Aar)/Air  
 
-  𓇯𓏏=Erde ⇔ pitair  
-
 [𓁷](𓁷) 𓂋 𓇯 𓈙 𓈇 𓆑 𓅆 (divinity) Arsaphes  
+
+𓇯𓏏=Erde   (tomb garden  𓈙 𓈇 𓁷 𓂋 𓇯 𓏏)  
+⇔ 1/pitair  
+
+
 
 𓄿𓊪𓂧𓅬 bird ⇔ avis++ opther 'airpod' bird  
 

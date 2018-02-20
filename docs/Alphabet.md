@@ -6,16 +6,16 @@ The coherence of signs, meaning and 'cognate' sounds is striking, but if nothing
 
 |  [letter](abc.txt)  |gard|  [sign](Gardinger-signs) | comment |  
 |-----|--|--|-------|  
-a|[𓄿](𓄿)|Aar|Adler=Edler-Aar⇔(Adel) al`[air](Air) al'pha[𓃾](𓃾)  
-A|[𓂝](𓂝)|Arm|PIE *h₂erm  A&O𓂣דראע𐤂 अस aṃs dharma  etc  
-b|[𓃀](𓃀)|Bein| ƥođ/ƥleɠ𓂾jambone𓄹𓄻 le白báinon𓋁  
-c|[𓍿](𓍿)|Ceh Z𓊃S𓋴| ⵛappa[𓏘](𓏘)[𓎡](𓎡)𓍿 TS/ST  
-D|[𓏏](𓏏)|Delle/Tell|𓏏𓏏dad=tit [𓂧](𓂧)δeirm[𓂝](𓂝)  
-D|[𓂧](𓂧)|Daum| Ⲇ/δr/cheir/χειρo [𓄛](𓄛) dast@Pers  
+a|[𓄿](𓄿)|Aar|[Air](Air) al'pha[𓃾](𓃾)  
+A|[𓂝](𓂝)|Arm|á 𒀉 PIE *h₂erm haraṇa (hand)  A&O𓂣דראע𐤂 अस aṃs dharma  etc  
+b|[𓃀](𓃀)|Bein|𒉽𒄬pap-half/pahal/paþ/pâshał/pâshu/ƥođ/ƥleɠ𓂾jambone𓄹𓄻 le白báinon𓋁  𒁇bar/par 𒈦ban  
+c|[𓍿](𓍿)|Ceh Z𓊃S𓋴| ⵛappa[𓏘](𓏘)[𓎡](𓎡)𓍿 TS/ST  ⵛ toe Tau? 𒄑  
+D|[𓏏](𓏏)|Delle/Tell|𓏏𓏏dad=tit [𓂧](𓂧)δeirm[𓂝](𓂝) 𒆕DU=do,build  
+D|[𓂧](𓂧)|Daum| Ⲇ/δr/cheir/χειρo [𓄛](𓄛) dast@Pers  𒋰dab double  
 E|[𓇋](𓇋)|fEather 𓏭|fEδer leicht (V)ι,e,i,a,ey ו ee↔i  
 F|[𓇋](𓇋)|Fieder[𓆑](𓆑)|𓇏fen 𓇌Viper phython=PhSn=:ϝn φϑظ  
-G|[𓎼](𓎼)|Ɠiebel[𓏘](𓏘)|Kübel piK γ,κ,Γ,g,χ [𓌨](𓌨)[𓊖](𓊖)  
-H|[𓉔](𓉔)|HOuse| Hair[𓎛](𓎛)𓍢𓏲 Hundreh[𓅱](𓅱)𓏲=100  
+G|[𓎼](𓎼)|Ɠiebel[𓏘](𓏘)|Kübel piK γ,κ,Γ,g,χ [𓌨](𓌨)[𓊖](𓊖)𒆸Gur  𒂷ĝa Korb  
+H|[𓉔](𓉔)|HOuse| Hair[𓎛](𓎛)𓍢𓏲 Hundreh[𓅱](𓅱)𓏲=100 hE𒂍  
 I|[𓇋](𓇋)|fIeder| (V)ι,e,a,ey,𓇌,ee=i,y  
 J|[𓆳](𓆳)|𓇋𓇋|Jahr[𓇺](𓇺)year [𓆓](𓆓)dj Ja?𓆶𓆴  
 K|[𓎡](𓎡)|Kelle| [𓆼](𓆼) kilo k-l-l=[𓎟](𓎟) 𓎡𓎡𓇰  
