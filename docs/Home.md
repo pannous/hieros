@@ -65,15 +65,15 @@ One cognate match might be coincidence, a whole cluster of words hints at connec
 𓋴 𓄝 𓏏 𓌕 𓂡 shoot  s+𓄝+t  
 𓋴 𓄝 𓏏 𓊮 set (fire)  s+𓄝+t  
 𓋴 𓄜 𓏏 𓃒 schüttern, stained (dabbled)  
-𓋴 𓄝 𓅂 [𓌙](𓌙) 𓀀 aSiat  
+𓋴 𓄝 [𓅂](𓅂) [𓌙](𓌙) 𓀀 aSiat  
 𓄝 𓏏 𓏏 𓐎 𓏥 shooting pains  
 𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
 𓄝 𓏏 [𓁹](𓁹) stare : “st+t+eye(R)”  
 𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shed  
-𓅱 𓋴 𓈙 𓏏 𓈗 urine : 1. wasshe* ⇔ water 2. us-shit (aus-scheid / schütten)  
+𓅱 𓋴 𓈙 𓏏 𓈗 urine : 1. wasshed ⇔ water 2. us-shit (aus-scheid / schütten)  
 [𓈗](𓈗) 𓇋 𓇋 𓏏 𓈗  urine שֶׁתֶ schütten  => 𓈗=sea?  𓈗=𓅱𓋴𓈙 Wasser w.s.sh'  
 𓋴 𓄞 𓂧 𓍼 sheath: Scheide  
-𓄞 𓂧 [𓊌](𓊌) vulva: Scheide  
+𓄞 𓂧 [𓊌](𓊌) vulva: [Scheide](https://dict.leo.org/englisch-deutsch/Scheide)  
 …  
 
 Is that some 19th century hoax?  
@@ -85,7 +85,7 @@ Is that some 19th century hoax?
 [𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  bee  
 [𓆤](𓆤) Horned Beetles [𓎛](𓎛)𓆰𓈖𓄏 horn [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
 [𓇇](𓇇)[𓆤](𓆤) HorNeith  symbol of [Neith](https://en.wikipedia.org/wiki/Neith)  
-𓆤 𓏏 𓏌 𓏥 honey : honeyth ⇔ neithţur nectar  
+𓆤 𓏏 [𓏌](𓏌) 𓏥 1. honeyth 2. neithţur nectar  
 [𓆤](𓆤) HorNeith Symbol of North vs [LeBint](LeBint) / LeVant  
 [𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer / beetle  
 [𓏱](𓏱) Mord mortal … [𓅓](𓅓)𓏱[𓏏](𓏏)  M+𓏱+t  
@@ -101,7 +101,6 @@ Is that some 19th century hoax?
 𓉗 quarters [𓊖](𓊖) see [Numbers](Numbers)  
 𓉗 𓏲 𓏏 𓉐 𓏥 𓅨 𓂋 𓇋 𓇋 𓉐 𓏏 𓏪  (Law) Courts "Great House"  
 [𓉡](𓉡) Hathor ⇔ Hüter(Protector) of Horus and Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥)[𓃒](𓃒) H+AI+R+D+[𓏥](𓏥)  
-[𓅭](𓅭) sA' = son … common expression:  [𓅭](𓅭)[𓇳](𓇳) sA'Ra = sonray = son of the sun  
 
 This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; the later however is not a contradiction:  
 
@@ -113,16 +112,30 @@ Here are the (deified) Egyptian variants:
 hieroglyps|transcribed|english|letters  
 --|--|--|--  
 [𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |P.t.air|Sky Father|𓊪=P 𓏏=T [𓇯](𓇯)=Air  
-[𓇋](𓇋)𓏏𓆑𓀀 | ★feathav  | father|[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v  
+[𓇋](𓇋)𓏏𓆑𓀀 | ★feathav  | father|[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀  
 [𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |Muta (Gaia)|Mother (Nature)| 𓅓=M 𓅱=u 𓏏=t  
 [𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)| Nature| (Mother) vulture |𓈖=N 𓏏=T 𓂋=R  
+[𓅭](𓅭)| sA' | son | 𓅬 sin@Persian [χήν](Genesis)  
+[𓅭](𓅭)[𓏏](𓏏)| sAt? |daughter| 𓅭duck 𓏏ta  
+
+… common expression:  [𓅭](𓅭)[𓇳](𓇳) sA'Ra = ★sonray = son of the sun  
+
 
 Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
 
 Egyptologists followed the path of the lowest common denominator, with the bizarre result that quite a few words are reduced to mere sequences of vowels, i.e. [𓂣](𓂣)[𓉻](𓉻)[𓄿](𓄿) = a.a.a  (magnify)  
 As a working hypothesis one should examine if adaar or amacha might be better reconstructions. This obviously needs further work, but the case should be reopened.  
-Similarily we reject that the four signs [𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀(er?) should be reduced to a mere 'it' as in some modern dictionaries.  
+Similarily we reject that the four signs [𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀 should be reduced to a mere 'it' as in some modern dictionaries.  
 
 In the past linguists focussed on demonstrating that Semitic languages are the mothers of Egyptian. In the future it should be reexamined whether some fathers came from further north. Even before the arrival of the charriot.  
+
+Once you accept that there was some linguistic interbreeding, the question remains: when exactly?  
+1) during the [formation period](https://en.wikipedia.org/wiki/A-Group_culture)  
+2) constantly  
+3) reinterpretation of the glyphs at the hyksos invasion?  
+4) christian religion (re-reading / re-alliance)?  
+
+The influence of written letters on spoken vernacular has probably been underestimated.  
+Ever repeating recitations can shift whole languages.  
 
 Further reading: Compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  
