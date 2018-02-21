@@ -218,10 +218,8 @@ With cognate [cluster analysis](cluster analysis) this becomes plausible.
 
 In order to accept a deep relationship which goes beyond lexical interbreeding, one needs to study the [Grammar](Grammar). It seems surprisingly compatible with Indo European. No feature of the grammar forbids a common ancestry, many similarities corrobate one.  
 
-Suggested reading: [Pronouns](Pronouns) and [Numbers](Numbers)  󳈐  
-
-![image](https://user-images.githubusercontent.com/516118/36503030-10d18802-174c-11e8-96db-219ebc69ab35.png)  
+Suggested reading: [Pronouns](Pronouns) and [Numbers](Numbers) & [Axioms](Axioms)  
 
 For comments, questions, remarks, complaints, love please join the [discussion](https://github.com/pannous/hieros/issues/3)  
 
-[Axioms](Axioms)  
+![image](https://user-images.githubusercontent.com/516118/36503030-10d18802-174c-11e8-96db-219ebc69ab35.png)  
