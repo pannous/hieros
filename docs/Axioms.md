@@ -29,7 +29,7 @@ Linguistic axioms
 * Combinging these distributions can lead to a [wildcard fallacy](wildcard fallacy) {one sign generating all}  
 * In two related languages if two words sound similar they are *probably* related somehow  
 * The alignment of one word alone is rarely evidence enough  
-* The alignment of whole clusters of words can be prove  
+* The alignment of whole [clusters](mutual-evidence) of words can be prove  
 * Deus, Theus and Zeus are related period. Anyone who thinks differently must stop reading  
 * The Egyptian language and [Grammar](Grammar) is rather simple.  
 

@@ -4,9 +4,12 @@ For most common signs see  ["The Alphabet"](Alphabet)
 
 [wikipedia](https://en.wikipedia.org/wiki/List_of_hieroglyphs)  
 
-[link](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/index.html)  
-
-[[gardiner-all]]
+[signs with meaning](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/index.html)  
+[all signs](http://rhbarnhart.net/Aegyptus_character_list.html)  
+[table](gardiner-all)  
+󳈐  
+![image](https://user-images.githubusercontent.com/516118/36503030-10d18802-174c-11e8-96db-219ebc69ab35.png)  
+![](https://user-images.githubusercontent.com/516118/36500583-00f8dd92-1745-11e8-8abb-10ab69c090cb.png)  
 
 Ga.|sign|see|comment  
 ---|--|--|--  

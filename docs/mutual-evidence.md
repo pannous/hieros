@@ -1,1 +1,1 @@
-[[chariot]]
+example [chariot](chariot)  

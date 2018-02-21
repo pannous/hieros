@@ -214,9 +214,10 @@ For the German cognate
 a less corrupted, more original reading probably is:  
 [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋  Cr-bh-𓂋-r [scarabae](https://de.wikipedia.org/wiki/Skarab%C3%A4us)r  (𓐍 as CIRcle not "Kh" )  
 
-With cognate cluster analysis this becomes plausible.  
+With cognate [cluster analysis](cluster analysis) this becomes plausible.  
 
-Further reading: Compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  
+Further reading: Compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  󳈐  
+![image](https://user-images.githubusercontent.com/516118/36503030-10d18802-174c-11e8-96db-219ebc69ab35.png)  
 
 For comments, questions, remarks, complaints, love please join the [discussion](https://github.com/pannous/hieros/issues/3)  
 
