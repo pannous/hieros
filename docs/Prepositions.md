@@ -6,10 +6,10 @@ Given this observation by a wise Egyptologist it is even more astonishing that w
 [𓂋](𓂋) **r**	 à (french) at, re, vers, towards, as for, from, so that, to, until  
 [𓂜](𓂜) **nə** no negation (also 𓂜𓈖 non, not 𓂜𓏏 anti-  ⲁⲧ- , ⲁⲑ-)  
 [𓏇](𓏇) **mi**lk ꟿi ⋍ wie / like / similak similar misma  
-[𓅓](𓅓) mñωw  enigma :  
+[𓅓](𓅓) 'm':  
 𓅓 **im**: in, en, ɘn, im  
 𓅓 **mi**: mit=com=with  
-𓅓 **im**: prefix **⋍ing** (im Tanze —> dancing)  
+𓅓 **im**: gerond prefix **⋍ing** (im Tanze —> dancing)  
 𓅓 **µo**: negation at start of sentence  
 𓅓 **mano** 𓂜 negation (keltic/gaelic)  Schlitten shitem 𓏏𓍃𓅓 ϣⲧⲉⲙ don’t …  
 𓅓𓅓⇨𓅔 ‘mn': **among**   (𓅓𓅓𓂝 etc variants giving the ‘o’)  
@@ -29,13 +29,15 @@ Which itself connects with the semitic mega cluster **C-V-R** (meaning cover ...
 𓁷 **head* ⇨ **at** ⇦chat ⇔ 𓄂𓏏  
 
 combined:  
+[𓈖](𓈖)[𓏏](𓏏)  ante(Latin) an-to towards …  
 𓎛𓈖𓂝    𓎛𓂝𓈖  **ḫon**, con, com, comme (with + and)  
-[𓄂](𓄂)𓏏 **cḫat** pḫanther 𓄂 head⋍fronter     vs  
+[𓄂](𓄂)𓏏 **cḫat**  head  
+[𓄂](𓄂)𓏏 pḫanthr ⋍ front  
 [𓄖](𓄖) **back** heck hock  
 [𓏅](𓏅)𓈖𓏏 **front** / Kante [xnt]   𓏅 FNT/PNT/5 vs 𓏃 FORe/FRo/FROm/FROnt/fourth/4  
 𓏅𓈖𓏏𓏮 **fronty** (adj.) frontier, foremost, pre-eminent in, principal, protruding  
-𓐍𓆑𓏏  **face**in'   front, in front of, towards, according to, as well as, corresponding to, “katzen” ⋍ 面 miàn ?  
-𓅓  𓏅𓈖𓏏  in front: in the face of, within, out of,  throughout, pervading {M3 Aa1 X1 D54}  
+𓐍𓆑𓏏  zu**face**in' front, in front of, towards, according to, as well as, corresponding to, “katzen” ⋍ 面 miàn ?  
+𓅓  𓏅𓈖𓏏  im front: in the face of, within, out of,  throughout, pervading {M3 Aa1 X1 D54}  
 [𓆱](𓆱)𓐍𓏏𓂻 **achter**	 (behind)   [xtx] 𓆱𓏏𓆱𓆱𓏤  through  
 𓂋𓇉𓄿𓁶  **rear**     behind, hinder hinter  
 𓇋𓆛𓈖𓏏 **hind-**𓂾 hinter hinder ⋍  𓎛𓆰𓈖[𓎛](𓎛)𓂽 hinder = detain ⇔ [Schind](Schind)bein 𓆓𓈖𓎛𓂾  
@@ -46,8 +48,10 @@ combined:
 [Kr] [𓇥](𓇥)𓂋 corear, **corner** (at an end), **carry** offer⇨over (done)  𓇥𓂋𓀜 hinder¿  
 [Xr] [𓌨](𓌨)𓂋 under **charge**/**care** of, **carry**ing (holding, possessing) ⋍ 𓎡𓂋 ⋍  
 [xr] [𓐍](𓐍)𓂋 sûr, share, **carry** with, near, **kar**tam, under (a king), to, by (of agent)  
+All related to greek and german '**gar**', see also [Interrogatives](Interrogatives)  
+
 ⇔ circa?  
 
 𓇋 𓅱 [𓂜](𓂜) 𓍘  𓇋 	anti (what is not)  
 
-𓎛𓈖𓂝 heno 还 hái  和 hé  河hé=𓈖  (Chilli con carne etc)  ham@Persian  
+𓎛𓈖𓂝 ḫeno ham@Persian   和 hé  河hé=𓈖 还 hái (Chilli con carne etc)  
