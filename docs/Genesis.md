@@ -1,22 +1,27 @@
-[𓅬](𓅬)[𓅭](𓅭)[𓅐](𓅐)[𓁒](𓁒)[𓄟](𓄟)[𓈖](𓈖)[Moses](Moses)[𓄿](𓄿)  
+𓅭 GEN/SIS : Gyn/sA  
 
-The [Genesis](Genesis) of the Egyptian (and [PIE](PIE)) family is deeply rooted in a bird cult.  
+The Genesis of the Egyptian (and [PIE](PIE)) family is deeply rooted in a bird cult:  
 
-𓅭 GEN/SIS : Gän/son  
-Son 𓅭[𓇳](𓇳) 𓅬 sin@Persian χήν γynhth 𓋴𓅱𓎛𓏏[𓆇](𓆇)  
-Duck 𓅭𓏏  daughter  
-[Mother](Musen) Nature 𓈖𓏏𓂋𓏯[𓅐](𓅐)  
-[Sky](𓇯) Father [𓊪](𓊪)[𓏏](𓏏)[𓎛](𓎛)𓀭  is written [𓄿](𓄿) Air Häher Herr Er 𓊪𓅮𓄿𓏏𓏮𓏗  
+𓅐 Mother 𓅓=M 𓅱=U 𓏏=T' 𓅐  
+𓅭[𓇳](𓇳) Son  𓅬 sin @ Persian  
+𓅭𓏏 daughter  (Duck+ta)  
+[𓄿](𓄿) Aar(n) Air, a writing for [Sky](𓇯) Father [𓊪](𓊪)[𓏏](𓏏)[𓎛](𓎛)𓀭  [𓄿](𓄿) Häher Herr Er  
+𓅮 Photer 𓊪 𓅮 𓄿 𓅱 𓏏 𓏗 𓀭 𓏥  'primeval God'  
 𓅬 Cyneth 𓌢𓈖𓏏𓁐 vs  Co-naith [𓄟](𓄟)𓄠𓋤 Kinders kin 𓎂⋍[𓊃](𓊃)⋍𓎃⋍𓋩⋍[𓋹](𓋹) synkh  
 𓅬 Cwyneth 𓌢𓈖𓏏𓁐 Twin ⇔ Cwyn Queen Swan 𓅬 vs [𓃟](𓃟)  
-𓋴𓅁 Head of family  Shaman [Gamos](Hiros-Gamos) Gon?  
+𓋴𓅁 Head of family   Shaman? [Gamos](Hiros-Gamos) Gon?  
+Gentei χήν γynhth 𓋴𓅱𓎛𓏏[𓆇](𓆇)  
+
+There is no reason to doubt Herodots assessment that [ora](𓁹)[cle](cul)-dom and [au](𓁹)[gur](gur)s originally came from Egypt.  
+
 𓉔𓈖𓏌𓏲𓀀𓁐𓏥 Honuren: Family Co+naith [𓄟](𓄟)𓄠𓋤 conexos Kinnern kin kam,ham⋍[𓊃](𓊃)⋍syn,zyn  
 
+The speculative extension of the system needs further investigation:  
 [𓅓](𓅓) *Oma? [𓅯](𓅯)Opa?  
 [𓅓](𓅓) *Bruta Britta Maris Baratheon Bharat birth [𓅭](𓅭)pata?  
 Genesis 𓊃𓈙𓏮𓅹 zhnízdo=nest [𓆂](𓆂) gynishdu kin + kinners𓅸 (children)  
 
-
+𓌢 𓈖 𓏏 𓁐 𓅭𓏏 sister  
 
 G38 𓅬 goosen Gänsen gEnten ganter goo.ßen 𓅬  𐦖 letter 'KA'  
 G38 𓅬 𓋴[𓏠](𓏠)𓈖𓅭 gamen gämsen Gänsen 𓅬 ⋍ 𓅭 gEnthen++ Ganter  
@@ -54,5 +59,7 @@ Gneiss [𓈙](𓈙) gnost 𓈙𓈙𓉐 nest / know
 [𓃛](𓃛) 𓅱 𓂝 𓂝 𓏏 𓄯 𓏛 𓏥 generations (g)inheritance, (gen)heritage  
 𓋴 𓈖 𓉔 𓊪 𓂻  generate  vs nmove 𓈖𓉔𓊪  
 𓊃 𓈖 𓉔 𓇋 𓇋 𓀁 ⇔ senior kin ... --  
+
+[𓅬](𓅬)[𓅭](𓅭)[𓅐](𓅐)[𓁒](𓁒)[𓄟](𓄟)[𓈖](𓈖)[Moses](Moses)[𓄿](𓄿)  
 
 𒁺 Gon gin Gehen  
