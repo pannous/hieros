@@ -14,16 +14,18 @@ Even now, 2500 years after Persians hammered those words into stone, the Iranian
 
 Farsi|transcribed|english  
 -----|-----------|-------  
-پدر 	|pedar 	|father(formal)  
-بابا 	|bâbâ 	|father  
-مادر 	|mâdar 	|mother(formal)  
 مامان 	|mâmân 	|mother  
+مادر 	|mâdar 	|mother(formal)  
+بابا 	|bâbâ 	|father  
+پدر 	|pedar 	|father(formal)  
+برادر   |barâdar|brother  
+دختر 	|doxtar |daughter  
 پسر 	|pesar 	|son  
-دختر 	|doxtar 	|daughter  
 
 This (re)discovery lead to well established theories of [proto-indoeuropean](PIE) expansions. Here we investigate the relationship between these [pioneers](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) and the Pharaonic Egyptian language and culture.  
 
-First we take a step back to the region where the PIE journey begun: The countries surrounding the black sea.  
+First we take a step back to the region where the PIE journey began:  
+The countries surrounding the black sea.  
 ![https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png](https://user-images.githubusercontent.com/516118/34747856-4410ad5c-f59a-11e7-9487-09e0edb096f6.png)  
 
 In 5000BC the **Danube [Vinča civilization](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture)** pioneered advanced copper technology, in 4200BC Romanian [Varna](https://en.wikipedia.org/wiki/Varna_culture) hordes contain more gold artefacts than all other sites of that time combined, turning a formerly egalitarian society into a more violent one lead by an **elite**.  
@@ -35,9 +37,9 @@ Varna King, Romania ⋍4000BC
 Danube copper kings conquering the world.  
 
 
-One important bridgehead of the 'urban formation period' was [Tell Zeidan](https://en.wikipedia.org/wiki/Tell_Zeidan). In the last decade the scolary opinion has flipped the signs in that now it is believed that Sumerian technology came from the north. (Kingship came from the mountains according to Sumerian tradition).  
+One important bridgehead of the urban formation period was [Tell Zeidan](https://en.wikipedia.org/wiki/Tell_Zeidan) south of the Caucasus. In the last decade the scolary opinion has flipped the signs in that now it is believed that Sumerian technology came from the north. (Kingship came from the mountains according to Sumerian tradition).  
 
-Only recently has the caucasian [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin about 4000BC. As it contains more gold and artefacts from Sumer than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, brewing, proto-*writing*, *«kingship»* and the ***sail*** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) -3800BC. The horse/donkey/bull *cart* appeared about the same time. This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, industrial brewing, can be found as early as 3700BC.  
+Only recently has the caucasian [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin about 4000BC. As it contains more gold and artefacts from Sumer than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, brewing, proto-*writing*, *«kingship»* and the ***sail*** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) -3800BC. The horse/donkey/bull **cart** appeared about the same time. This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, industrial brewing, can be found as early as 3700BC. This new dramatic wave reached remote China a thousand years later, the real push there came with the chariots.  
 
 The roots of the Persian language came via the region of Elam with its capital Susa on the eastern border of Sumeria. Strikingly the cultural artefacts of Egypt and Susa were nearly identical:  
 
@@ -123,7 +125,7 @@ Sumerian / akkadian cuneiform is notorious for having sometimes half a dozen rea
 
 It is impossible to reconstruct the exact phonetic reading, which probably varied within dialects and centuries, so all we can do is align the consonant letters with their cognates:  
 
-[𓆣](𓆣) K-p-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer (beetle)  
+[𓆣](𓆣)[𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣 K-p-r-r Käfer (beetle)  
 [𓌹](𓌹)[𓅓](𓅓)[𓂋](𓂋) Amur [𓌹](𓌹)+M+R  admire marry … (love)  
 [𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  b+i/e+𓅱 ⋍ bee  
 [𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) bien = sweet ⇔ bonbon (𓃀:Bein 𓈖:Nil)  
@@ -205,15 +207,6 @@ Similarily we reject that the four signs [𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀 sh
 
 This obviously needs further work, but the case of [Determinants](Determinants) should be reopened.  
 
-A [hundret](𓅱) words hint at the existence of a dangling 'n' in the letter 𓅱 (think french plural -ons).  
-If you accept this, you get the reading:  
-
-[𓃟](𓃟) Shu+wn [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) swine  
-[𓆷](𓆷) swamp ⇔ swines 𓆷𓄿[𓂸](𓂸)[𓃟](𓃟)  sphaines ⇔ 𓂸 Span Ferkel  
-
-If you are not ready yet you still get:  
-[𓃟](𓃟) Shu+w [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) sow  
-
 In the past linguists focussed on demonstrating that Semitic languages are the mothers of Egyptian. In the future it should be reexamined whether some fathers came from further north. Even before the arrival of the charriot.  
 
 For the German cognate  
@@ -224,3 +217,5 @@ a less corrupted, more original reading probably is:
 With cognate cluster analysis this becomes plausible.  
 
 Further reading: Compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  
+
+For comments, questions, remarks, complaints, love please join the [discussion](https://github.com/pannous/hieros/issues/3)  
