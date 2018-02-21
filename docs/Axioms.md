@@ -15,7 +15,7 @@ Linguistic axioms
 * the words connected with those letters were hyper conserved (changed very little)  
 * the words connected with the signs formed conserving, re-converging clusters  
 * We mostly follow the [conventional reading](https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian#Table_of_transliteration_schemes) of the letters  
-* With the exception of 'v' letters: 'f' pthn/sn [𓆑](𓆑) vs fE[𓇋](𓇋) 𓅱𓍢  as wə with dangling 'n'  
+* With the exception of 'v' letters:  [𓇋](𓇋) as fE, 𓍢𓅱 as wə with dangling 'on', [𓆑](𓆑) as vhe or [φhethn](wildcard-fallacy)  
 * For the [Gardinger signs](Gardinger-signs) we use some different readings.  
 * By its very nature the pronunciation can always only be a cluster approximation  
 * Most [Gardinger signs](Gardinger-signs) assumed to be silent now receive a pronounciation.  
