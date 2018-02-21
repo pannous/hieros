@@ -50,11 +50,9 @@ Some context of this urbanization can be explored in the paper the [Kurgan Coppe
 
 If nothing else the little introduction above demonstrates how well the world was connected even before the building of the pyramids. Proto-indo-european are sometimes treated as if they stopped at the gates of the superpowers of the time (Sumeria, Susa and Egypt) and had little or nothing to do with its elite. Nothing could be further from the truth.  
 
-Here we investigate how deeply the roots go and how the system, its [cosmology](cosmos) and language are intertwined with our own:  
+Here we investigate how deeply the roots go and how the Egyptian system, its [cosmology](cosmos) and language are intertwined with our own:  
 
 The Egyptian Hieroglyphic writing system started as a syllabary[➾](https://en.wikipedia.org/wiki/Syllabary) but soon converged to a rather small set of frequent signs and sounds plus [determinants](Determinants) (like [𓈉](𓈉) for land).  
-
-We subscribe to the idea that central words of frequent use and large semantic clusters have a much lower probability of mutating then other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
 
 One of the most recognizable letters is '𓃀' with the phonetic value 'b':  
 
@@ -62,7 +60,9 @@ Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) 
 
 Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons with the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
 
-(The mnemonics can be ignored if knowledge German/Denglish is absent)  
+We subscribe to the idea that central words of frequent use and large semantic clusters have a much lower probability of mutating then other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
+
+(The mnemonics can be ignored if knowledge German is absent)  
 
 |letter|glyph|mnemonic|  
 |-----|----|-------|  
@@ -87,24 +87,24 @@ N|[𓈖](𓈖)|Nil
 ϱO|[𓍯](𓍯)|rogue  
 Po|[𓊪](𓊪)|pool  
 Q|[𓏘](𓏘)|kurgan  
-R|[𓂋](𓂋)|round rot  
-S|[𓋴](𓋴)|Sit[𓊨](𓊨)  
+R|[𓂋](𓂋)|round  
+S|[𓋴](𓋴)|Sit  
 T|[𓏏](𓏏)|Tell 𓏏𓏏tit  
 U|[𓅱](𓅱)[𓍢](𓍢)𓏲|Woun/Huhn=100  
 V|[𓆑](𓆑)|Viper Phython  
 W|[𓅳](𓅳)|uu  
-X|[𓎛](𓎛)|'Ḫ' cHr Hairlix  
+X|[𓎛](𓎛)|Hairlix  'Ḫ' cHr  
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusym  
 
 With this alphabet, which linguist deciphered 200 years ago, and which only received minor modifications since then, we can start to decipher words:  
 
-[𓆤](𓆤) [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢)  Biene / bee  
+[𓆤](𓆤) [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢) bee  
 
-One cognate match might be coincidence, a whole cluster of words hints at connections which need refreshed investigations:  
+One cognate match might be coincidence, especially one with so few syllables, a whole cluster of words hints at connections which need refreshed investigations:  
 
 [𓄝](𓄝) is usually transcribed as #st and has the following usages:  
-𓋴 𓄝 𓏏 𓏏 [𓁐](𓁐) Satis (goddess)  S+𓄝+t+th (theia)  
+𓋴 𓄝 𓏏 𓏏 [𓁐](𓁐) Satis (goddess)  S+𓄝+t+t(h)  
 𓋴 𓄝 𓏏 𓌕 𓂡 shoot  s+𓄝+t  
 𓋴 𓄝 𓏏 𓊮 set (fire)  s+𓄝+t  
 𓋴 𓄜 𓏏 𓃒 schüttern, stained (dabbled)  
@@ -113,7 +113,7 @@ One cognate match might be coincidence, a whole cluster of words hints at connec
 𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
 𓄝 𓏏 [𓁹](𓁹) stare : “st+t+eye(R)”  
 𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shed  
-𓅱 𓋴 𓈙 𓏏 𓈗 urine : 1. wasshed ⇔ water 2. us-shit (aus-scheid / schütten)  
+𓅱 𓋴 𓈙 𓏏 𓈗 urine : 1. wasshed ⇔ water 2. us-shit (aus-scheid / aus-schütten)  
 [𓈗](𓈗) 𓇋 𓇋 𓏏 𓈗  urine שֶׁתֶ schütten  => 𓈗=sea?  𓈗=𓅱𓋴𓈙 Wasser w.s.sh'  
 𓋴 𓄞 𓂧 𓍼 sheath: Scheide  
 𓄞 𓂧 [𓊌](𓊌) vulva: [Scheide](https://dict.leo.org/englisch-deutsch/Scheide)  
@@ -182,18 +182,19 @@ Given the antiquity of sanskrit and its astonishing similarity to western langua
 The influence of written letters on spoken vernacular has probably been underestimated.  
 Ever repeating recitations can shift whole languages.  
 
-
 Remember the persian words for mother and father?  
 Here are the (deified) Egyptian variants:  
 
-hieroglyps|transcribed|english|letters  
+Because the original phonetics are impossible to reconstruct, the suggested reading must be consumed with salt (though not arbitrairy).  
+
+hieroglyps|transcribed|suggested|english  
 --|--|--|--  
-[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |P.t.air|Sky Father|𓊪=P 𓏏=T [𓇯](𓇯)=Air  
-[𓇋](𓇋)𓏏𓆑𓀀 | ★feathav  | father|[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀  
-[𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |Muta (Gaia)|Mother (Nature)| 𓅓=M 𓅱=u 𓏏=t  
-[𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)| Nature| (Mother) vulture |𓈖=N 𓏏=T 𓂋=R  
-[𓅭](𓅭)| sA' | son | 𓅬 sin@Persian [χήν](Genesis)  
-[𓅭](𓅭)[𓏏](𓏏)| sAt? |daughter| 𓅭duck 𓏏ta  
+[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |𓊪=P 𓏏=T [𓇯](𓇯)=Air|Photair|Sky Father  
+[𓇋](𓇋)𓏏𓆑𓀀 |[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀 | ★feathav  | father  
+[𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |𓅓=M 𓅱=ⲱ 𓏏=t|  Muta (Gaia)|Mother (Nature)|  
+[𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)|𓈖=N 𓏏=T 𓂋=R 𓏯| Nνture| (Mother) vulture |  
+[𓅭](𓅭)| sA' | [χήν](Genesis) | son  
+[𓅭](𓅭)[𓏏](𓏏)| 𓅭 𓏏=t |sAt?|daughter 𓅭=duck𓏏=ta  
 
 Crazy, but possible. If nothing else a fabulous mnemonic which makes Egyptian more accessible than most other languages. In fact giving its relative simplicity in [Grammar](Grammar) and it's central position in the language families every student of linguistics should learn it. Egyptian is riddled with [puns](puns), making formal analysis at times difficult, but not less accessible.  
 
@@ -214,5 +215,12 @@ If you are not ready yet you still get:
 [𓃟](𓃟) Shu+w [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) sow  
 
 In the past linguists focussed on demonstrating that Semitic languages are the mothers of Egyptian. In the future it should be reexamined whether some fathers came from further north. Even before the arrival of the charriot.  
+
+For the German cognate  
+[𓆣](𓆣) K-p-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  ⋍Käfer (beetle)  
+a less corrupted, more original reading probably is:  
+[𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋  Cr-bh-𓂋-r [scarabae](https://de.wikipedia.org/wiki/Skarab%C3%A4us)r  (𓐍 as CIRcle not "Kh" )  
+
+With cognate cluster analysis this becomes plausible.  
 
 Further reading: Compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  
