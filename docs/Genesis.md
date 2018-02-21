@@ -49,3 +49,10 @@ see [𓌢](𓌢) twin,kin,gyn,generations
 𓈙 SHN 𓅸𓅭 nestor = island gynos [gnost](gnost)  
 Gneiss [𓈙](𓈙) gnost 𓈙𓈙𓉐 nest / know  
 [𓆂](𓆂) niǎo 鸟 𓈖𓇋𓅱𓅦  ⇔ nephew?  
+
+𓎼 𓈖 𓏌 𓏏 𓌟 𓌟 𓌟 generations : annals  
+[𓃛](𓃛) 𓅱 𓂝 𓂝 𓏏 𓄯 𓏛 𓏥 generations (g)inheritance, (gen)heritage  
+𓋴 𓈖 𓉔 𓊪 𓂻  generate  vs nmove 𓈖𓉔𓊪  
+𓊃 𓈖 𓉔 𓇋 𓇋 𓀁 ⇔ senior kin ... --  
+
+𒁺 Gon gin Gehen  
