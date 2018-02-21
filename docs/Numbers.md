@@ -34,7 +34,8 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 2 toe  𓌟			T19 toe,two,thun  𓌟  
 2 toe  𓃅  
 2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT cn snw/ßwn@EGY son Sohn çun@Albany zwon kin(D)  
-2 duo 𓏮 		 	duan 𓌢 down = two [𓊃𓈙𓏮𓅹 gynishdu/zhnízdo=nest]  
+2 duo 𓏮 	多 duō duan 𓌢 down = two  
+2 duo 𓊃𓈙𓏮𓅹 zhnízdo/gynishdu=nest  
 2 deva 𓃅 devine 2@Hindi  
 2 twun  𓏮    	⇔ twinur/twur T22 𓌢 𐠮𐠯@Cypr  W24 𓏌 Z4A 𓏮   ⇔ zweien  
 2 two  𓏮  T+𓏮=TWO 𐠰𓏮=𐠱=TU@Cypriot!  
@@ -89,8 +90,8 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 10 µTen 𓎆 #mDw vs #mDj  ⲘⲎⲦ / ⲘⲦⲈ @copt	umpteen		µ 5? 5x2? µtwon:  ⲘⲎⲦ = THenm backwards  
 20 µTwenty! 𓎆𓎆 #mdwtj ! 10*2 / 2*10 30maabe 40qvame? 50djjw 60sisin 70sevhjn 80 8mene 90 poseidón psdjw  
 100 cent 𓍢 #št #šnt shund' 𓊃 centipede=cenpod𓊃𓊪𓅮!!   ϢⲎⲦ = ShmHt ShHnT = cent  
-100 hund-tau 𓅱𓍢 𓃡 chien 犬 quǎn czien 𓌕 ⇦ ḫunt cent ṣādē 𐤑 ?    whun𓍢dreht/wound𓍢thread  
-1000 #kha 千 1.000 qiān 𓐍𓆼𓄿𓅱     kHazar@Armenian saHasra@Sanskrit   xilia:KILO! vs milia!  Ϣⲟ@Coptic  
+100 hund-taut 𓅱𓍢 100 𓃡𓍢 chien 100 犬 quǎn czien 𓌕 ⇦ ḫunt cent ṣādē 𐤑 ?    whun𓍢dreht/wound𓍢thread  
+1000 𓆼 xilia KILO 𓆼calla #kha 千 1.000 qiān 𓐍𓆼𓄿𓅱     kHazar@Armenian saHasra@Sanskrit   ! vs milia!  Ϣⲟ@Coptic  
 1000 (FRüh)Tow-Zehn 𓍢x𓎆=𓆼  (Tow-cien-tent-oan-nuacht 1111.0 vs 1001 nights)  
 1000 līmi @ Akkad  mille@Ro Lilie𓆼 ⇔ limes   (k?)alif@Arab,Beja xilili@GR lily=sosan. Susan Tausend viel wie Sand?  
 10000 𓆓𓃀𓂝𓂭  Dba tba@copt Tva tau? egal  
