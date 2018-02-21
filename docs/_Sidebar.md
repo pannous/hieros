@@ -1,4 +1,5 @@
 [Home](Home)  
+[Live](https://pannous.github.io/hieros/)  
 [PIE](PIE)  
 [Kur](kur)  
 [Signs](Gardiner-signs)  
