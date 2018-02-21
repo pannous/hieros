@@ -1,6 +1,6 @@
 General historical axioms  
 
-* Egypt played a **dominant** role in an international power-network for over 2000 years  
+* Egypt played a dominant role in an international power-network for over 2000 years  
 * The Egyptian culture has strong connections to Semitic, European and African cultures  
 * The Egyptian language has strong connections to Semitic, European and African languages  
 * The Egyptian language(s) continued to influence other languages from 3500BC to 500AD  
@@ -26,8 +26,11 @@ Linguistic axioms
 * The vowels where mostly lost, the consonants blurred out 𓏏 Delle=tell 𓏏𓏏 dad=tit 𓏏 dough=Teig  
 * Some signs had different associated entities  
 * All *phonetic* readings should be understood as instantiations of binomial cluster distributions  
-* Combinging these distributions can lead to a [wildcard fallacy](wildcard fallacy) (one sign generating all 'PTRM=VCLN')  
+* Combinging these distributions can lead to a [wildcard fallacy](wildcard fallacy) {one sign generating all}  
 * In two related languages if two words sound similar they are *probably* related somehow  
 * Deus, Theus and Zeus are related period. Anyone who thinks differently must stop reading  
 * The system fell apart once the number of ambivalences, puns and conventions became too much  
 * The Egyptian language and [Grammar](Grammar) is rather simple.  
+
+mathematical axioms  
+* biased estimators can be more precise than a given unbiased one  

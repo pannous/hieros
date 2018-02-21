@@ -10,6 +10,7 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 
 0 none [𓂜](𓂜)𓈖  
 0 null nile 𓂜[𓈖](𓈖)  
+0 nula nile 𓂜[𓈖](𓈖) => semitic la ¬  
 0 [𓅓](𓅓) manu@celtic 𓂜 empty hand  
 0 𓅓𓐍 mnacht = nought,nix, new-moon  
 0 𓅓 ⲙⲙⲟⲛ  'mais-non' ⇔ 0. Memnon?  
