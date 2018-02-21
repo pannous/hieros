@@ -119,11 +119,7 @@ One cognate match might be coincidence, a whole cluster of words hints at connec
 𓄞 𓂧 [𓊌](𓊌) vulva: [Scheide](https://dict.leo.org/englisch-deutsch/Scheide)  
 …  
 
-Is this all a German hoax from the 19th century?  
-The alphabet and the standard reading of signs were developed by French English and Semitic scolars, so it all seems genuine.  
-
-Sumerian / akkadian cuneiform is notorious for having sometimes half a dozen readings for a single sign.  
-Fortunately in Egyptian there are fewer signs with ambiguous readings, which makes interpretation much less arbitrary, and much less error-prone.  
+Sumerian / akkadian cuneiform is notorious for having sometimes half a dozen readings for a single sign. Fortunately in Egyptian there are fewer signs with ambiguous readings, which makes interpretation much less arbitrary, and much less [error](𓌳)-prone.  
 
 It is impossible to reconstruct the exact phonetic reading, which probably varied within dialects and centuries, so all we can do is align the consonant letters with their cognates:  
 
@@ -155,8 +151,7 @@ It is impossible to reconstruct the exact phonetic reading, which probably varie
 [𓉡](𓉡) Hathor ⇔ Hüter(Protector) of Horus and  
 Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥)[𓃒](𓃒) H+AI+R+D+[𓏥](𓏥)  
 
-[𓃟](𓃟) Shu+wn [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) swine  
-[𓆷](𓆷) swamp ⇔ swines 𓆷𓄿[𓂸](𓂸)[𓃟](𓃟)  sphaines ⇔ 𓂸 Span Ferkel  
+Is this all a German hoax from the 19th century? The alphabet and the standard reading of signs were developed by French, English and Semitic scolars, so it all seems genuine.  
 
 This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; the later however is not a contradiction:  
 
@@ -208,6 +203,15 @@ Egyptologists followed the path of the lowest common denominator, with the bizar
 Similarily we reject that the four signs [𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀 should be reduced to a mere 'it' as in some modern dictionaries.  
 
 This obviously needs further work, but the case of [Determinants](Determinants) should be reopened.  
+
+A [hundret](𓅱) words hint at the existence of a dangling 'n' in the letter 𓅱 (think french plural -ons).  
+If you accept this, you get the reading:  
+
+[𓃟](𓃟) Shu+wn [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) swine  
+[𓆷](𓆷) swamp ⇔ swines 𓆷𓄿[𓂸](𓂸)[𓃟](𓃟)  sphaines ⇔ 𓂸 Span Ferkel  
+
+If you are not ready yet you still get:  
+[𓃟](𓃟) Shu+w [𓆄](𓆄)[𓅱](𓅱)[𓃟](𓃟) sow  
 
 In the past linguists focussed on demonstrating that Semitic languages are the mothers of Egyptian. In the future it should be reexamined whether some fathers came from further north. Even before the arrival of the charriot.  
 

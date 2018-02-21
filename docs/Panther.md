@@ -1,11 +1,12 @@
 𓃮  
 
-*[𓍋](𓍋)[𓃀](𓃀)[𓏲](𓏲)[𓄛](𓄛)𓏪 L’Banther:  
-*𓍋𓃀𓅱𓃰 El’Phanter  
-*𓍋𓃀𓏲𓃮 El Panther  
-LeoPanther  
-LeoParther  
-LöWen[Tier](𓄛) [𓃬](𓃬) [𓃭](𓃭)  
+[𓍋](𓍋)[𓃀](𓃀)[𓏲](𓏲)[𓄛](𓄛)𓏪 L’Banther:  
+𓍋𓃀𓅱𓃰 El’phanter  elefant  
+𓍋𓃀𓏲𓃮 el Panther   panter  
+𓍋𓃀𓏲𓃮 le'panther   𓋁=lebanon,levante  
+𓋁𓃀𓏲𓄛𓏪 leopard  
+
+LöWen[Tier](𓄛) [𓃬](𓃬) [𓃭](𓃭)  Leo = letter 'l'  
 @Levant [𓋁](𓋁) ⋍ 𓍋 ?  
 
 
