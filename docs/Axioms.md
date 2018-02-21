@@ -28,9 +28,12 @@ Linguistic axioms
 * All *phonetic* readings should be understood as instantiations of binomial cluster distributions  
 * Combinging these distributions can lead to a [wildcard fallacy](wildcard fallacy) {one sign generating all}  
 * In two related languages if two words sound similar they are *probably* related somehow  
+* The alignment of one word alone is rarely evidence enough  
+* The alignment of whole clusters of words can be prove  
 * Deus, Theus and Zeus are related period. Anyone who thinks differently must stop reading  
-* The system fell apart once the number of ambivalences, puns and conventions became too much  
 * The Egyptian language and [Grammar](Grammar) is rather simple.  
 
 mathematical axioms  
 * biased estimators can be more precise than a given unbiased one  
+
+If you (dis)agree, please join the [discussion](https://github.com/pannous/hieros/issues/3)  

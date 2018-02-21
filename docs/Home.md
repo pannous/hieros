@@ -39,18 +39,18 @@ Danube copper kings conquering the world.
 
 One important bridgehead of the urban formation period was [Tell Zeidan](https://en.wikipedia.org/wiki/Tell_Zeidan) south of the Caucasus. In the last decade the scolary opinion has flipped the signs in that now it is believed that Sumerian technology came from the north. (Kingship came from the mountains according to Sumerian tradition).  
 
-Only recently has the caucasian [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin about 4000BC. As it contains more gold and artefacts from Sumer than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, brewing, proto-*writing*, *«kingship»* and the ***sail*** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) -3800BC. The horse/donkey/bull **cart** appeared about the same time. This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, industrial brewing, can be found as early as 3700BC. This new dramatic wave reached remote China a thousand years later, the real push there came with the chariots.  
+Only recently has the caucasian [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin about 4000BC. As it contains more gold and artefacts from Sumer than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, *brewing*, proto-*writing*, *kingship* and the ***sail*** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) - 3800BC. The horse|donkey|bull**cart** appeared about the same time. This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, industrial brewing, can be found as early as 3700BC. This new dramatic wave reached remote China a thousand years later, the real push there came with the chariots.  
 
 The roots of the Persian language came via the region of Elam with its capital Susa on the eastern border of Sumeria. Strikingly the cultural artefacts of Egypt and Susa were nearly identical:  
 
 ![susa-egypt.png](susa-egypt.png)  
 Near identical building plans of the early temples and very similar early Egyptian and Sumerian [ceremonies](Hieros-gamos) clearly demonstrate that these are not mere trade-artefacts, but in fact proof of a common anchestry of both higher civilizations.  
 
-In in Jiroft, Iran a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m tall (6 feet) she was much taller than ordinary women of her time. We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock.  
+In in Jiroft, south Iran, a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m tall (6 feet) she was much taller than ordinary women of her time (⋍3000BC). We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock.  
 
 Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution)  
 
-If nothing else the little introduction above demonstrates how well the world was connected even before the building of the pyramids. Proto-indo-european are sometimes treated as if they stopped at the gates of the superpowers of the time (Sumeria, Susa and Egypt) and had little or nothing to do with its elite. Nothing could be further from the truth.  
+If nothing else the little introduction above demonstrates how well the world was connected even before the building of the pyramids. Proto-indo-europeans are sometimes treated as if they stopped at the gates of the superpowers of the time (Sumeria, Susa and Egypt) and had little or nothing to do with its elite. Nothing could be further from the truth.  
 
 Here we investigate how deeply the roots go and how the Egyptian system, its [cosmology](cosmos) and language are intertwined with our own:  
 
@@ -113,7 +113,7 @@ One cognate match might be coincidence, especially one with so few syllables, a 
 𓋴 𓄝 [𓅂](𓅂) [𓌙](𓌙) 𓀀 aSiat  
 𓄝 𓏏 𓏏 𓐎 𓏥 shooting pains  
 𓄝 𓏏 𓏏 𓈇 𓏤 ground : Schotter stones [𓊌](𓊌)  
-𓄝 𓏏 [𓁹](𓁹) stare : “st+t+eye(R)”  
+𓄝 𓏏 [𓁹](𓁹) stare : “st+t+eye{ir}”  
 𓄝 𓏏 𓇋 𓇋 𓈗 pour (water) : “shty” schütt, shed  
 𓅱 𓋴 𓈙 𓏏 𓈗 urine : 1. wasshed ⇔ water 2. us-shit (aus-scheid / aus-schütten)  
 [𓈗](𓈗) 𓇋 𓇋 𓏏 𓈗  urine שֶׁתֶ schütten  => 𓈗=sea?  𓈗=𓅱𓋴𓈙 Wasser w.s.sh'  
@@ -155,7 +155,7 @@ Herds [𓉔](𓉔)[𓄿](𓄿)[𓂋](𓂋)[𓏏](𓏏)[𓄜](𓄛)[𓏥](𓏥)[�
 
 Is this all a German hoax from the 19th century? The alphabet and the standard reading of signs were developed by French, English and Semitic scolars, so it all seems genuine.  
 
-This Discovery is not entirely new, Dr. Christian De Vartavan, former head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; the later however is not a contradiction:  
+This Discovery is not entirely new, Dr. Christian De Vartavan, head of the Armenian Egyptology Centre released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; the later however is not a contradiction:  
 
 Egyptian could be related to Afro-Asiatic *and* Eurasian languages.  
 
@@ -219,3 +219,5 @@ With cognate cluster analysis this becomes plausible.
 Further reading: Compare the [Grammar](Grammar) especially [Pronouns](Pronouns) and [Numbers](Numbers)  
 
 For comments, questions, remarks, complaints, love please join the [discussion](https://github.com/pannous/hieros/issues/3)  
+
+[Axioms](Axioms)  
