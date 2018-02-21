@@ -8,7 +8,7 @@ The coherence of signs, meaning and 'cognate' sounds is striking, but if nothing
 |-----|--|--|-------|  
 a|[𓄿](𓄿)|Aar|[Air](Air) al'pha[𓃾](𓃾)  
 A|[𓂝](𓂝)|Arm|á 𒀉 PIE *h₂erm haraṇa (hand)  A&O𓂣דראע𐤂 अस aṃs dharma  etc  
-b|[𓃀](𓃀)|Bein|𒉽𒄬pap-half/pahal/paþ/pâshał/pâshu/ƥođ/ƥleɠ𓂾jambone𓄹𓄻 le白báinon𓋁  𒁇bar/par 𒈦ban  
+b|[𓃀](𓃀)|Bein|پَا 𒉽𒄬pap-half/pa-demi/ƥođ/ƥleɠ𓂾jambone𓄹𓄻 le白báinon𓋁  𒁇bar/par 𒈦ban  
 c|[𓍿](𓍿)|Ceh Z𓊃S𓋴| ⵛappa[𓏘](𓏘)[𓎡](𓎡)𓍿 TS/ST  ⵛ toe Tau? 𒄑  
 D|[𓏏](𓏏)|Delle/Tell|𓏏𓏏dad=tit [𓂧](𓂧)δeirm[𓂝](𓂝) 𒆕DU=do,build  
 D|[𓂧](𓂧)|Daum| Ⲇ/δr/cheir/χειρo [𓄛](𓄛) dast@Pers  𒋰dab double  
