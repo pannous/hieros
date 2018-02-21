@@ -46,17 +46,21 @@ Near identical building plans of the early temples and very similar early Egypti
 
 In in Jiroft, Iran a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m tall (6 feet) she was much taller than ordinary women of her time. We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock.  
 
-Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution). Here we investigate how deeply the roots go and how the [system](PIE), its [cosmology](cosmos) and language are intertwined with our own:  
+Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution)  
 
-We subscribe to the idea that central words of frequent use and large semantic clusters have a much lower probability of mutating then other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
+If nothing else the little introduction above demonstrates how well the world was connected even before the building of the pyramids. Proto-indo-european are sometimes treated as if they stopped at the gates of the superpowers of the time (Sumeria, Susa and Egypt) and had little or nothing to do with its elite. Nothing could be further from the truth.  
+
+Here we investigate how deeply the roots go and how the system, its [cosmology](cosmos) and language are intertwined with our own:  
 
 The Egyptian Hieroglyphic writing system started as a syllabary[➾](https://en.wikipedia.org/wiki/Syllabary) but soon converged to a rather small set of frequent signs and sounds plus [determinants](Determinants) (like [𓈉](𓈉) for land).  
 
-One of the most recognizable letters is '𓃀' which was identified as 'b'.  
+We subscribe to the idea that central words of frequent use and large semantic clusters have a much lower probability of mutating then other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
+
+One of the most recognizable letters is '𓃀' with the phonetic value 'b':  
 
 Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) b.b.l.[1](Numbers)(𓈉land) (or b.b.r)  
 
-Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons to the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
+Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons with the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
 
 (The mnemonics can be ignored if knowledge German/Denglish is absent)  
 
@@ -89,12 +93,9 @@ T|[𓏏](𓏏)|Tell 𓏏𓏏tit
 U|[𓅱](𓅱)[𓍢](𓍢)𓏲|Woun/Huhn=100  
 V|[𓆑](𓆑)|Viper Phython  
 W|[𓅳](𓅳)|uu  
-X|[𓎛](𓎛)|Hairlix  
+X|[𓎛](𓎛)|'Ḫ' cHr Hairlix  
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusym  
-
-Sumerian / akkadian cuneiform is notorious for having sometimes half a dozen readings for a single sign.  
-Fortunately in Egyptian there are fewer signs with ambiguous readings, which makes interpretation much less arbitrary, and much less error-prone.  
 
 With this alphabet, which linguist deciphered 200 years ago, and which only received minor modifications since then, we can start to decipher words:  
 
@@ -121,11 +122,16 @@ One cognate match might be coincidence, a whole cluster of words hints at connec
 Is this all a German hoax from the 19th century?  
 The alphabet and the standard reading of signs were developed by French English and Semitic scolars, so it all seems genuine.  
 
+Sumerian / akkadian cuneiform is notorious for having sometimes half a dozen readings for a single sign.  
+Fortunately in Egyptian there are fewer signs with ambiguous readings, which makes interpretation much less arbitrary, and much less error-prone.  
+
+It is impossible to reconstruct the exact phonetic reading, which probably varied within dialects and centuries, so all we can do is align the consonant letters with their cognates:  
+
+[𓆣](𓆣) K-p-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer (beetle)  
 [𓌹](𓌹)[𓅓](𓅓)[𓂋](𓂋) Amur [𓌹](𓌹)+M+R  admire marry … (love)  
-[𓆣](𓆣) K-ph-r-r [𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣  Käfer (beetle)  
+[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  b+i/e+𓅱 ⋍ bee  
 [𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) bien = sweet ⇔ bonbon (𓃀:Bein 𓈖:Nil)  
-[𓆤](𓆤) Biene [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  bee  
-[𓎛](𓎛)𓆰𓈖𓄏 horn   H+𓆰+n (heathorn?)  
+[𓎛](𓎛)𓆰𓈖𓄏 horn   Hr+𓆰+n  
 [𓇇](𓇇)[𓆤](𓆤) HorNeith  symbol of [Neith](https://en.wikipedia.org/wiki/Neith)  
 [𓆤](𓆤) Horned Beetles [𓃀](𓃀)[𓇋](𓇋)[𓇋](𓇋)[𓏏](𓏏) bees  
 𓆤 𓏏 [𓏌](𓏌) 𓏥 1. honeyth 2. neithţ[ur](ur) nectar  
