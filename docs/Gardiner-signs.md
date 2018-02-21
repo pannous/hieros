@@ -4,6 +4,8 @@ For most common signs see  ["The Alphabet"](Alphabet)
 
 [wikipedia](https://en.wikipedia.org/wiki/List_of_hieroglyphs)  
 
+[link](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/index.html)  
+
 Ga.|sign|see|comment  
 ---|--|--|--  
 A1| [𓀀](𓀀) | |  
