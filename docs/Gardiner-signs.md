@@ -6,6 +6,8 @@ For most common signs see  ["The Alphabet"](Alphabet)
 
 [link](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/index.html)  
 
+[[gardiner-all]]
+
 Ga.|sign|see|comment  
 ---|--|--|--  
 A1| [𓀀](𓀀) | |  
