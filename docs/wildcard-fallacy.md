@@ -44,7 +44,9 @@ CEPHAL (head) ⇔ KOPPER ⇔ CAPUT.ma
 For [𓆑](𓆑) at least the pain can be alleviated:  
 Axiom 8: Most letters had a full (original) reading and an alphabetic one.  
 
-fortunately these appear in quite specific contexts.  
+𓏶 MAS/PRO/CEN  
+
+fortunately these appear in quite **specific** sequences & contexts.  
 
 In those cases one must be careful abusing the blurriness for words which probably have such sequence.  
 

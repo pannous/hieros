@@ -2,14 +2,14 @@
 Given this observation by a wise Egyptologist it is even more astonishing that we can grasp most Egyptian prepositions just by looking at their alphabetic values, at least if we know some German and very basic Spanish and (à) French:  
 
 [𓏏](𓏏) **t**	to, at, ata  
-[𓈖](𓈖) **n**	an (of, belonging to, for), on, na’ (nach, to), in (time), ana 𒀀𒈾  
+[𓈖](𓈖) **n**	an (of, belonging to, for), on, na’ (nach, to), in (time), ana 𒀀𒈾 ,ina 𒀸,𓈖  
 [𓂋](𓂋) **r**	 à (french) at, re, vers, towards, as for, from, so that, to, until  
 [𓂜](𓂜) **nə** no negation (also 𓂜𓈖 non, not 𓂜𓏏 anti-  ⲁⲧ- , ⲁⲑ-)  
 [𓏇](𓏇) **mi**lk ꟿi ⋍ wie / like / similak similar misma  
 [𓅓](𓅓) 'm':  
 𓅓 **im**: in, en, ɘn, im  
 𓅓 **mi**: mit=com=with  
-𓅓 **im**: gerond prefix **⋍ing** (im Tanze —> dancing)  
+𓅓 **im**: gerund prefix **⋍ing** (im Tanze —> dancing)  
 𓅓 **µo**: negation at start of sentence  
 𓅓 **mano** 𓂜 negation (keltic/gaelic)  Schlitten shitem 𓏏𓍃𓅓 ϣⲧⲉⲙ don’t …  
 𓅓𓅓⇨𓅔 ‘mn': **among**   (𓅓𓅓𓂝 etc variants giving the ‘o’)  
@@ -30,7 +30,8 @@ Which itself connects with the semitic mega cluster **C-V-R** (meaning cover ...
 
 combined:  
 [𓈖](𓈖)[𓏏](𓏏)  ante(Latin) an-to towards …  
-𓎛𓈖𓂝    𓎛𓂝𓈖  **ḫon**, con, com, comme (with + and)  
+𓎛𓈖𓂝 ḫand : and with  
+𓎛𓂝𓈖  **ḫon**, con, com, comme (with + and)  
 [𓄂](𓄂)𓏏 **cḫat**  head  
 [𓄂](𓄂)𓏏 pḫanthr ⋍ front  
 [𓄖](𓄖) **back** heck hock  

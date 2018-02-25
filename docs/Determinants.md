@@ -4,7 +4,13 @@ Determinants parts of [Nouns](Nouns) which help disambiguation the [Alphabet](Al
 New York 𓊖  
 New York City  
 ```  
-Even though they are not always spoken were postulate that they had always one or more phonetic values.  
+Even though they are not always spoken we postulate that they had always one or more phonetic values.  
+
+Most ubiquitous abstract terminal symbol:  
+[𓏛](𓏛) 'ter' general terminal symbol for nouns, verbs,etc see  
+[𓏥](𓏥) III Terminal symbol for [plural](Plural) nouns, verbs etc see [numbers](Numbers)  
+[𓇾](𓇾) Terminal symbol for ‘ter’(terra,terrain) see [𓇿](𓇿)TA/ter, al𓏛TER altair altar  
+
 
 It is not always evident whether the determinants repeat the foregoing letters or complement them:  
 
@@ -20,9 +26,13 @@ We have the suspicion that the value of determinants is usually assumed to be kn
 
 [𓄛](𓄛) Tier deer der (leather) :  
 *) 𓍋𓃀𓏲𓄛𓏪 L'Banther:  
-*) 𓍋𓃀𓏲𓃮 El Panther  
-*) 𓍋𓃀𓅱𓃰 El'Phanter  
+*) 𓍋𓃀𓏲𓃮 el Panther  
+*) 𓍋𓃀𓅱𓃰 El'phanter  
 
 we see how Determinants can also act to *complete* the previous letters.  
 
 𓐍 𓂝 𓅱 𓋴 𓀜 “build” = cons+struck𓀜  
+
+Terminal symbols of [nouns](Nouns)  
+
+[dual](Dual) [plural](Plural)  

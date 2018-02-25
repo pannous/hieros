@@ -1,2 +1,3 @@
-1. [nefer](nefer) schön=fair  
-2. [faire](faire) (do)  
+1. 𓄤 [nefer](nefer) schön=fair  
+2. [𓃀𓍢](𓃀𓍢)𓄤 bein'fair = beauty  
+3. [faire](faire) (do)  

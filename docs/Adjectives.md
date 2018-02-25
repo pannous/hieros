@@ -1,7 +1,7 @@
 Adjectives and adverbs are not fully developed, but rather used nominatively, yet often marked with these suffixes:  
 
 -★hearty -artig -hath -ate -[𓄣](𓄣) ♡𓄤  (chicken-heart𓄣=fearful)  affectionate  
--tig -ty -de -y -𓍘𓏤 -𓏭 -𓏮 -𓇋𓇋 -ta -ed -et -ter -𓏛 -thern  
+-tig -ty -de -y -𓍘𓏤 -𓏭 -𓏮 -𓇋𓇋 -ta -ed -et -ter -的 -𓏛 -thern    𓅪⇨𓅪𓍘𓏤  ǵʰer⇨court,short  
 -w -wu -u -on 𓅱  
 -ious -nurwn -𓏌𓅱 -on -ion -[𓏌](𓏌)𓅱 -URN!  nord⇨ northern  
 -mend -mind [𓏇](𓏇)[𓄣](𓄣) -mi -mos -mo  vraiment vachement (similar) -wie -wy -y [𓏇](𓏇)  
@@ -10,6 +10,11 @@ Adjectives and adverbs are not fully developed, but rather used nominatively, ye
 -[𓅪](𓅪) -**vål** fowl -foul -full -voll -vol **-al**  (suffix for small, foul or evil things)  
 -[𓅪](𓅪) ★GVAL cul klein gleich equal evil villain ghoul ≠ gavilán  
 -[𓅨](𓅨) ★GVER wr very great Gefahr? ≠ gorrión  
+
+great from Proto-Indo-European gʰer- (“to rub, grind, remove”) *gʰrewd-  
+short from Proto-Indo-European ǵʰer (“short”) ^^  [Bad Linguistics](Bad Linguistics)  
+
+big ⇦ [bu](bu)gver(t)  
 
 𓅪 gorrión gavilán 𓅫GVAL Sperling vs Sperber sparrow (hawk) Sperberbird;)  
 𓅪 Sperber sparrow spärlich Sperling  

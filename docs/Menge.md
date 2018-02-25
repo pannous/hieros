@@ -1,5 +1,6 @@
 [Numbers](Numbers) have a strong [𓏶](𓏶) N/M/BR component  
 
+ⲙⲁⲗⲗⲟⲛ more… ⇔ ameliorate  
 mostly M+N Mengen:  
 
 [𓏠](𓏠)  Menge manche many Maß Maat math Mathematik salaMander[𓆈](𓆈)  

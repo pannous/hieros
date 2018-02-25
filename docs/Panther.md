@@ -9,6 +9,7 @@
 LöWen[Tier](𓄛) [𓃬](𓃬) [𓃭](𓃭)  Leo = letter 'l'  
 @Levant [𓋁](𓋁) ⋍ 𓍋 ?  
 
+𒊊 lābu : Löwe,lion ⇔ Rabu : Räuber Raub[katze](cat)  
 
 Leopard, Panther, Lion … continuum with different names and species:  
 𓃬𓌳 Schirkan™ shirîkhân@Kurd shachats@Sem shachal رش  jackal  
