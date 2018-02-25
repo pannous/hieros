@@ -1,4 +1,15 @@
-Human race 𓂋𓍿𓏏𓀀𓏥 𐀪 ris 人  
+Human race 𐀪 人 ris  𓂋𓍿𓏏𓀀𓏥  
+
+Adam Ris 𐀪 (Linear B)  
+Recke = Warrior +++  
+Rekka@Edda (hero)  
+Rassana@Etruskan ⇔ Ross 🐎  
+
+𓂋𓍿𓏏𓀀𓏥 𐩹𐩫𐩧‎ 𐎏𐎋𐎗 ḏkr [mirrored](mirrored) !  
+
+ĝa 𒂷 [𓎡](𓎡)𓍢/𓎡𓅱 ego icke : me mine ⇔ man,men [𓀀](𓀀) 𒂷 ⇔ gamma?  
+ĝa 𒂷 ⇔ lu[gal](gal)  
+
 [Khem](Khem)[en](men) 𓆎 𓏏 𓀀 𓁐 𓏥 Common Kommune kommt ∑ [sum](Numbers) total [𓆎](𓆎) 𓅓 𓏜  
 chaimans 𓆊𓆌𓏏 caiman, Khmti, Champsai  
 Khmen children of men: 𓃝 Khmun 𓋉 Khmin [𓇋𓏠𓈖](Amen) 𓋊 Menes  
