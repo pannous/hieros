@@ -166,3 +166,17 @@ cent cien ⇨千 1.000 qiān 𓐍𓆼𓄿𓅱 khan ⇨ giant ⇨ (q)WAN 万 ⇨ 
 𒈦 mas = more «+» MASH / maš [1452x] = interest  
 
 [𓆎](𓆎) kamm ⇔ 𒆚 kám ordinal marker  ⇔ 𓏠𓈖 gMen [Menge](Menge) ⇔ min,men ⇔ number?  
+
+𐩿	number seperator numb[𓏠](𓏠)min [moyn](moyn)  
+𐩽	word seperator (ein… / al / a…!)  
+𐩽	1  
+𐩭	5	kheth(quinq --)  
+𐩲 10	(z)ayn  
+𐩾 50	Pemb𐩣  
+𐩣 	100   (š)mem(b)  
+𐩱	1000  alef vs 𐩪 	satsa  (al liliv?)  
+
+10 1*10 IO vs 𐩲𐩽 1+10 a 11  
+
+
+𒍣𒈨𒌍 napišātum [☾☾☾](☾☾☾) 𒌍 šeššig 30 thirthyg dreißig|3☾ drei-si vs 60!!  

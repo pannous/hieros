@@ -62,8 +62,6 @@ Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) 
 
 Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons with the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
 
-We subscribe to the idea that central words of frequent use and large semantic clusters have a much lower probability of mutating then other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
-
 (The mnemonics can be ignored if knowledge German is absent)  
 
 |letter|glyph|mnemonic|  
@@ -95,7 +93,7 @@ T|[𓏏](𓏏)|Tell 𓏏𓏏tit
 U|[𓅱](𓅱)[𓍢](𓍢)𓏲|Woun/Huhn=100  
 V|[𓆑](𓆑)|Viper Phython  
 W|[𓅳](𓅳)|uu  
-X|[𓎛](𓎛)|Hairlix  'Ḫ' cHr  
+X|[𓎛](𓎛)|Ḫairlix Ḫr  
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusym  
 
@@ -120,6 +118,8 @@ One cognate match might be coincidence, especially one with so few syllables, a 
 𓋴 𓄞 𓂧 𓍼 sheath: Scheide  
 𓄞 𓂧 [𓊌](𓊌) vulva: [Scheide](https://dict.leo.org/englisch-deutsch/Scheide)  
 …  
+
+We subscribe to the idea that central words of frequent use and large semantic clusters have a much lower probability of mutating then other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
 
 Sumerian / akkadian cuneiform is notorious for having sometimes half a dozen readings for a single sign. Fortunately in Egyptian there are fewer signs with ambiguous readings, which makes interpretation much less arbitrary, and much less [error](𓌳)-prone.  
 

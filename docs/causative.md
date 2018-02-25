@@ -19,9 +19,12 @@ cut ⇨ sect…
 elect ⇨ select  
 lune ⇨ selene,  
 Reihe(row) ⇨ serie  
+Haar/hair⇨Schär 𒋠  
 Halt ⇨ shelter  
 Hut ⇨ Schutz (protection)  
-Himmel ⇨ shimmer  
+halt ⇨ shelter / shield / Schuld?  
+guild/gold/Geld =>  skéltis Schuld  
+Himmel ⇨ schimmer => shine <= Son™ ??  
 dreel(wheel) ⇨ control  
 creel 𓐍𓈖𓏛 ⇨ 𓋴𓈖 𓐍𓈖𓏛 control ©  
 way ⇨ convey  

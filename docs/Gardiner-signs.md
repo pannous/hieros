@@ -7,9 +7,6 @@ For most common signs see  ["The Alphabet"](Alphabet)
 [signs with meaning](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/index.html)  
 [all signs](http://rhbarnhart.net/Aegyptus_character_list.html)  
 [table](gardiner-all)  
-󳈐  
-![image](https://user-images.githubusercontent.com/516118/36503030-10d18802-174c-11e8-96db-219ebc69ab35.png)  
-![](https://user-images.githubusercontent.com/516118/36500583-00f8dd92-1745-11e8-8abb-10ab69c090cb.png)  
 
 Ga.|sign|see|comment  
 ---|--|--|--  
@@ -1095,3 +1092,8 @@ Aa29| [𓐫](𓐫) | |
 Aa30| [𓐬](𓐬) | |  
 Aa31| [𓐭](𓐭) | |  
 Aa32| [𓐮](𓐮) | |  
+
+
+󳈐  
+![image](https://user-images.githubusercontent.com/516118/36503030-10d18802-174c-11e8-96db-219ebc69ab35.png)  
+![](https://user-images.githubusercontent.com/516118/36500583-00f8dd92-1745-11e8-8abb-10ab69c090cb.png)  

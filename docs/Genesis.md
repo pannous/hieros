@@ -1,4 +1,4 @@
-𓅭 GEN/SIS : Gyn/sA  
+𓅭 GEN/SIS : Gyn/sen 𓅬  
 
 The Genesis of the Egyptian (and [PIE](PIE)) family is deeply rooted in a bird cult:  
 
@@ -48,6 +48,11 @@ Ziegel Ziggurat Zicke Zetern 𓊃𓅭𓏏 ⇔  Gans <?> ϫⲟⲓ ϫⲱⲓ währ 
 𓅓𓊃𓅭 παρουσίαζαν [parousíazan] present  
 
 see [𓌢](𓌢) twin,kin,gyn,generations  
+
+
+𓊃 𓂋 𓅱 𓅾 goose Ɣru grau  
+𓋴 𓂋 𓅾 goose : Ɣr Graus  
+𓅾 𓏤 fear :  das Grausen  sen ⇔ 𓅭𓅬! (false plural ok)  
 
 [𓅾](𓅾) goose-fur = (G)äŋten-fear 𓅬 (Angst⇔ancious)  
 

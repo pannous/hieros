@@ -2,9 +2,9 @@
 1) oye = eye  
 2) voye = see  
 3) moye = möge = like [𓏇](𓏇)mi  
-4) maye = make  
+4) maye = make  ⲙⲟⲩⲛⲕ  
 5) Meyer = 𓌵 observer='Aufseher' major …  
-6) Meister = 𓁹 [𓊨](𓊨) 𓀭 (m)'Osir' Master easter? 𓁺 stare stair star  
+6) Meister = 𓁹 [𓊨](𓊨) 𓀭 (m)'Osir' Master easter? 𓁺 stare stair star  ⲙⲁⲛⲕ=maker  
 7) may-I = Frage partikel 𓅓 «[ma](ma)?» 吗 ⇔ mama 妈 mā [𓅐](𓅐) 鸟 niǎo, ne? genau? gnost?  
 目芽  mùyá = eye  
 眸眼  móuyǎn = eye  
