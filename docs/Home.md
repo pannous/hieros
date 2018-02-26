@@ -39,16 +39,14 @@ Danube copper kings conquering the world.
 
 One important bridgehead of the urban formation period was [Tell Zeidan](https://en.wikipedia.org/wiki/Tell_Zeidan) south of the Caucasus. In the last decade the scolary opinion has flipped the signs in that now it is believed that Sumerian technology came from the north. (Kingship came from the mountains according to Sumerian tradition).  
 
-Only recently has the caucasian [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin about 4000BC. As it contains more gold and artefacts from Sumer than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, *brewing*, proto-*writing*, *kingship* and the ***sail*** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) - 3800BC. The horse/donkey/bull**cart** appeared about the same time. This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, industrial brewing, can be found as early as 3700BC. This new dramatic wave reached remote China a thousand years later, the real push there came with the chariots.  
-
-
-In in Jiroft, south Iran, a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m tall (6 feet) she was much taller than ordinary women of her time (⋍3000BC). We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock.  
-
+Only recently has the caucasian [Maykop culture](https://en.wikipedia.org/wiki/Maykop_culture) been redated to begin about 4000BC. As it contains more gold and artefacts from Sumer than the whole rest of Mesopotamia, its central position in the formation of urbanization becomes more and more evident. Their [kurgan](https://en.wikipedia.org/wiki/Kurgan) mounts, some still reaching over 50 meters height, can be seen as predecessors of Egyptian, [Iranian](https://en.wikipedia.org/wiki/Tepe_Sialk) and [Peruvian pyramids](https://de.wikipedia.org/wiki/Caral), which appeared some thousand years later. Central to this revolution were a bag of inventions, including *metallurgy*, *brewing*, proto-*writing*, *kingship* and the ***sail*** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) - 3800BC. The horse|donkey|bull**cart** appeared about the same time. This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, industrial brewing, can be found as early as 3700BC. This new dramatic wave reached remote China a thousand years later, the real push there came with the chariots.  
 
 The roots of the Persian language came via the region of Elam with its capital Susa on the eastern border of Sumeria. Strikingly the cultural artefacts of Egypt and Susa were nearly identical:  
 
 ![susa-egypt.png](susa-egypt.png)  
 Near identical building plans of the early temples and very similar early Egyptian and Sumerian [ceremonies](Hieros-gamos) clearly demonstrate that these are not mere trade-artefacts, but in fact proof of a common anchestry of both higher civilizations.  
+
+In in Jiroft, south Iran, a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m tall (6 feet) she was much taller than ordinary women of her time (⋍3000BC). We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock.  
 
 Some context of this urbanization can be explored in the paper the [Kurgan Copper Revolution](https://www.academia.edu/14001057/Kurgan_Copper_Revolution)  
 
@@ -64,7 +62,7 @@ Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) 
 
 Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons with the derived coptic and demotic languages, as well as comparisons to greek and semitic languages.  
 
-(The mnemonics can be ignored if knowledge of German is absent)  
+(The mnemonics can be ignored if knowledge German is absent)  
 
 |letter|glyph|mnemonic|  
 |-----|----|-------|  
@@ -222,6 +220,6 @@ In order to accept a deep relationship which goes beyond lexical interbreeding, 
 
 Suggested reading: [Pronouns](Pronouns) and [Numbers](Numbers) & [Axioms](Axioms)  
 
-For comments, questions, remarks,… join the [discussion](https://github.com/pannous/hieros/issues/3)  
+For comments, questions, remarks, complaints, love please join the [discussion](https://github.com/pannous/hieros/issues/3)  
 
 ![image](https://user-images.githubusercontent.com/516118/36503030-10d18802-174c-11e8-96db-219ebc69ab35.png)  
