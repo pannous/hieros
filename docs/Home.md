@@ -122,7 +122,7 @@ One cognate match might be coincidence, especially one with so few syllables, a 
 
 We subscribe to the [idea](Eurasian) that central words of frequent use and large semantic clusters have a much lower probability of mutating then other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
 
-Sumerian / akkadian cuneiform is notorious for having sometimes half a dozen readings for a single sign. Fortunately in Egyptian there are fewer signs with ambiguous readings, which makes interpretation much less arbitrary, and much less [error](𓌳)-prone.  
+Sumerian / akkadian cuneiform is notorious for having sometimes half a dozen readings for a single sign. Fortunately in Egyptian there are fewer signs with ambiguous readings, which makes interpretation much less arbitrary, and much less error-prone.  
 
 It is impossible to reconstruct the exact phonetic reading, which probably varied within dialects and centuries, so all we can do is align the consonant letters with their cognates:  
 
