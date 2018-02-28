@@ -48,14 +48,14 @@ HU|[𓅱](𓅱)|𒄷|Huhn
 mušen|[𓅓](𓅓)|𒄷|[Musen](Musen)  
 IN||𒅔|*nine! 9| bin Poseidon 𓊪𓋴𓆓 9  
 IR|𓄭|𒅕|*earth! ask|𓄭𓂋𓇋𓇋 ++ terra 3 [𓇾](𓇾)  
-IS||𒅖|SAḤAR|summer|kuš7 (šuš3) sir/shen𓈉 ?  
+SAḤAR|𓊃𓀀𓏤|𒅖|'syrer': officials summer shen 𓈉 kuš7 šuš3  
 šàr|𓀭|𒈗|Zar sir schar𓊃𓆰𓏤! ++  
 DUG/TUG|𓆓𓂧|𒅗|talk++ djucheir| ⇔ 𒂊 𓌃𓂧𓏲𓏏𓏮 𓌃𓅓𓂧𓅱 mwodug  
-pû/KA||𒅗|𐎔𓊪 mouth!| פֶּה‎ (pe) fam(outh)!  
+pû/KA||𒅗|𐎔𓊪 pho 口 kǒu mouth!| פֶּה‎ (pe) fam(outh)!  
 GU||𒅥|GU⋍Kau! 𒅗|eat graze 𒃻aklu?  
-(pû)UŠ11||𒅜|poison|++  
-UŠ(pû/KA)||𒅜|'spit/spell|Spucke+++  
-awātu|𓁹𓂋|𒅗| *mWoTo|mouth/word!!|++  
+(pû)UŠ11|𓂸𓏏𓏲!|𒅜|poison|++  
+UŠ(pû/KA)|𓂐𓎼|𒅜|'spit/spell|Spucke+++  
+awātu|𓂋𓌃|𒅗| *mWoTo|mouth/word!!|++  
 lišānu|[𓄓](𓄓)|𒅴|glossa:tongue++| 𐎍𐎌𐎐 [lšn](https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/li%C5%A1%C4%81n-) ⇔ lesen … !! SEM/EU  
 KA2|𓊀|𒆍 |gate 𓉻|𒆍 bābu(lon)! <<  
 KIr|[𓊖](𓊖)|𒆠|[KUR](kur)as| qaqqaru  
@@ -105,8 +105,8 @@ PAP||𒉽|father++ first |_brother! male⇨𒋰 𒀊abu=vater
 b|𓃀||𒁇|𒈦bat 𒉽𒄬PaDemi| Hittite:𒉺𒋫 pata|2𒋰part paþ-half/pâshał  
 DÙ/ANŠE||𒀲| donkey|ḥimār马 𐎈𐎎𐎗 (ḥmr) Kramer!  a⋍sian  
 (w)ardu||𒀴| ARAD|𒀵kardan slave qed  
-AN||𒀭|Ahn|DINGIR Dinger| starn  
-ìl||𒀭|Hel All|Herr⇔Stern --  
+AN||𒀭|Ahn| anter𓊹 ankh𓋹 anstar DINGIR Dinger  
+ìl||𒀭|Hel All|El Allah Herr⇔Stern  
 MUL||𒀯|multi ***| kakkabu kabkab ??  
 del|𓏏|𒀸|𓏏 DILI|qed  
 rù/rum|𓂋|𒀸|𒆠𒀸 māt!  rumouth?  
@@ -133,7 +133,7 @@ ERIM||𒂟|yoke| Riemen++ (strap)
 ÉRIN||𒂟|troops| ṣābu  ??  
 nūr ZÁLAG||𒂟|light|nūr@sem ?? 1/noir --  ÉRIN⋍rays?  
 GA||𒂵|geb/carry|𓌨?  
-AMA||𒂼|mother ! ummu femme?  
+AMA|𓅑|𒂼|mother ! ummu femme? |⇔ ĝaia 𒂷𒀭𓅐𓌅  
 du8||𒃮|breast  ?? du8 dad=tit!? << GABA  
 geštin||𒃾|gersten gestande:|    wine    vine -- 𓏉𓇭||  
 QANÛ|𓄪|𒄀|cane|reed/GI⇨grat 𓄫 #length ++!!!  <<  
@@ -205,8 +205,6 @@ ptr||𒌋|petra:stone,batterl,further
 .za [𒍝] -  (s) (2sg sent., gen & loc)  
 .(ps)ana [𒀀𒈾] - his/her (3sg sent., gen & loc)  
 .bi.a [𒁉𒀀] or .ba - its (3sg non-sent., gen & loc)  
-
-
 
 𒈦𒄘𒃼 Tigugar=Tigris  
 𓍿  
