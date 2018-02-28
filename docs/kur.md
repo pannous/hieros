@@ -109,3 +109,5 @@ ZA 𒍝 𓏏𓎡𓍿 thy zain : your ⇔ teu/ton?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1d/Samarra_bowl.jpg)  
 [swastika](swastika) on Samarra bowl (ca. 4000 BC) Mesopotamia  
+And the 4 quarters of the world  
+𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖𓊖  
