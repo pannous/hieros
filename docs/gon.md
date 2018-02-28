@@ -1,4 +1,4 @@
-see [Knieck](Knieck), strong root for 'angle'  
+see [Knieck](Knieck), chin, strong root for 'angle'  
 
 T14 [𓌙](𓌙) GN 𓌙 NG ţangeł 𓄓 angle winkel -tan[i] <sic stickma> 𓆓𓄓 𓌙 qvt ⋍ [𓈎](𓈎) Jia𓄏NG ς𓍢𓏲𐀸و  ⇔ KFT  
 

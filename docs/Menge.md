@@ -3,6 +3,7 @@
 ⲙⲁⲗⲗⲟⲛ more… ⇔ ameliorate  
 mostly M+N Mengen:  
 
+[𓏠](𓏠) 門 mén plural see [Gypsies](Gypsies) or below  
 [𓏠](𓏠)  Menge manche many Maß Maat math Mathematik salaMander[𓆈](𓆈)  
 [𓉻](𓉻) men manche much macha μακεδνοι mega 𒋰𒈫 MIN 门 門 mén zusammen -en  
 [𓇺](𓇺) mond moon months 𓇹 mount mound mountain mont  ⇔ mines menes?  
@@ -23,5 +24,15 @@ mostly M+N Mengen:
 3 Samen 𓇡 'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 vs 7,8  
 9 neun 𓇸 = naun 𓈖 𓈗 anew 𓌳 neu  
 
+𓋬𓂧𓏛𓀀𓁐𓏥 crowd ⇔ Math  
+
 ∑summen remainder [𓏠](𓏠)𓈖𓏛  
+
+[Gypsies](Gypsies) pronouns  
+
+| person | singular |	plural |  
+|--------|----|----|  
+1.ps 	|me kerav| 	a[men](men) keras  
+2.ps 	|tu keres| 	tumen keren  
+3.ps 	|jov kerel| 	jon keren  
 
