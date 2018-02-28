@@ -10,7 +10,7 @@ The Fe rune ᚠ (Old Norse fé; Old English feoh) represents the f-sound in the 
 
 [𓃾](𓃾) α  al'pha : das Vieh,  
 [𓃾](𓃾) α  al'phal : the bull  
-[𓃾](𓃾) α  al'phais : bos (buffallo)  𓐑𓊪[𓃒](𓃒) 'Apis'  
+[𓃾](𓃾) α  al'phais : bos (buffallo)  𓐑𓊪[𓃒](𓃒) '[Apis](Apis)' Bull  
 
 
 compare  

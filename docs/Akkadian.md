@@ -2,15 +2,15 @@ https://en.wiktionary.org/wiki/Category:Cuneiform_block
 
 A laymens alignment:  
 
-ä|[𓄿](𓄿) |𒀀| eau| PIE | note  
-|-----|----|-|---|---|-----|  
+ä|[𓄿](𓄿) |𒀀| eau| note  
+|-----|----|-|---|---------|  
 A|[𓂝](𓂝)|𒀉| á arm| h₂erm|𒀉 ad:hand  ⇔𓂧 dhermo  
-b|[𓃀](𓃀)|𒁇|𒈦bat 𒉽𒄬PaDemi| Hittite:𒉺𒋫 pata|2𒋰𒋻part paþ-half/pâshał  𒀊abu=vater 𒈨!  
-c|[𓍿](𓍿)|𒄑| 'CIS' GIŠ|toe tau tree carbon | 𐎣 Ka 𓂓  𒆪 ku qú tu  
-D|[𓏏](𓏏)|𐎚𒀸|del 𒆕DÙ do|𒀸àš| 𓈖ina 𓂋rù/rum  
-δ|[𓂧](𓂧)|𒋗| šú  |手shǒu cheiro  
+b|[𓃀](𓃀)|𒁇|bat 𒈦bar 𒉽𒄬PaDemi| Hittite:𒉺𒋫 pata 2𒋰𒋻part paþ-half/pâshał  𒀊abu=vater 𒈨!  
+c|[𓍿](𓍿)|𒄑| 'CIS' GIŠ|toe tau cedar 𐎣 Ka 𓂓  𒆪 ku qú tu  
+D|[𓏏](𓏏)|𐎚𒀸|del 𒆕DÙ do|𒀸àš 𓈖ina 𓂋rù/rum  
+δ|[𓂧](𓂧)|𒋗| šú semi⇔[demi](demi) |手shǒu cheiro  
 E|[𓇋](𓇋)|𒂊|say vs 𓆑  
-F|[𓆑](𓆑)[𓇋](𓇋)|𒄿| fei/ia=5|𒉺first,phr |foot=𒉺𒋫   𒀜(f)ad'a=father  
+F|[𓆑](𓆑)[𓇋](𓇋)|𒄿| fei/ia=5|𒉺first,phr foot=𒉺𒋫   𒀜(f)ad'a=father  
 G|[𓎼](𓎼)[𓐍](𓐍)|𒆬|KUG+GI ⋍ GUŠKIN |pure gold  
 h|[𓉔](𓉔)|𒂍| hEi(m)|𒋛Horn! ⇔ Corner 𒄷 Huhn  
 I|[𓇋](𓇋)  |𒄿| fia5|  
@@ -20,22 +20,22 @@ L|[𓏯](𓏯) |𒇲| LAL  𒇳 |little tüttel?
 M|[𓅓](𓅓)|𒈹|𒄷 [Musen](Musen)| 𒅎 IM  
 N|[𓈖](𓈖)|𒈾|nun/naur|navi/fish| 𒀸ina/as/del/rum  
 ϱ|[𓍢](𓍢)[𓍯](𓍯)|𒊒|raus  
-P|[𓊪](𓊪) |𒇥| PÚ bù PÙ |pool pond! 𒆸uPQU/GAB!|白 bái 𒉺bà pá beat, punch  
-Q|[𓏘](𓏘)| 𒌒| (q)up| qvart| corner cover  qpvl 𒇥 quell/pool  
-R|[𓂋](𓂋)|𒊑|reich:give à : Ort  |  𓂋⋍𒊑 !  
-S|[𓋴](𓋴)|𒋗| šú 手 shǒu| 𒂊 say 'E' | 𒀾 ES curse --  
-T|[𓏏](𓏏) |𒁹| tish|dash|𐎚 𒋙 𒁹+𒌋 þ THu:šù=ŠÈ 𒌓ut/tam  𒀸as  
-U|[𓅱](𓅱)[𓍢](𓍢)|𒌋| und vs 𓂝 |𒄷 Huhn  
+P|[𓊪](𓊪) |𒇥| PÚ bù PÙ |pool pond! 𒆸uPQU/GAB! 白 bái 𒉺bà pá beat, punch  
+Q|[𓏘](𓏘)| 𒌒| (q)up| qvart corner cover  qpvl 𒇥 quell/pool  
+R|[𓂋](𓂋)|𒊑|à:Ort|reich:give 𓂋⋍𒊑 !  
+S|[𓋴](𓋴)|𒋗| šú 手 shǒu| 𒂊 say 'E' 𒀾 ES curse --  
+T|[𓏏](𓏏) |𒁹| tish/dash|𐎚 𒋙 𒁹+𒌋 þ THu:šù=ŠÈ 𒌓ut/tam  𒀸as  
+U|[𓅱](𓅱)[𓍢](𓍢)|𒌋| und vs 𓂝 𒄷 Huhn  
 V|[𓆑](𓆑) | 𒌋  
 W|[𓅳](𓅳) |𒑱|𒉼 *VAN |𒉼 PAN  
-X|[𓎛](𓎛) |𐎃𒋧| USHX  | kill  1000?|ausschalt-- /die--  
+X|[𓎛](𓎛) |𐎃𒋧| USHX  | kill  1000? aus-- /die--  
 Y|[𓏭](𓏭)|𒐊| Y  
 Z|[𓊃](𓊃)|𒁴|bind|DIM⋍sym  𐎕𒍝𐩸 zone  
 SH|[𓈙](𓈙) |𒀊|ab abyssea|[𒌍](☾☾☾)30 𒐁 𒊺  
 AT|𓄿𓏏𓇳𓏤|𒌓|late / at time|𓄿𓂾𓁐 tiumbe time UTU 🌣 USU [𒌍](☾☾☾)  
 EYGE|𓁹|𒅆|IGI| eye |𒅆 ší=SI=see! +++  
 EAU||𒀀|A⋍eau mwater/aqua 𒀀⋍heir𓄿babard? 𓎛𓃀𓃀𓏏𓈗 bois?  
-AB|𓃓|𒀖|cow|apis al'pha bull!?|  
+AB|𓃓|𒀖|cow|apis al'pha bull!?  
 Mar/BURU|𓃔|𒀫|calf| Marduk Bal! 𓇋𓃀𓃔iBara++ 𒁇⇔𓃀 𓄑𓊃𓃔  
 AK/AQ|𓀜𓀙|𒀝|act|do  
 GU(D)|𓄱𓃒|𒄞|cow/cattle|𒄞 alpu ⇔ 𒁉  
@@ -81,9 +81,9 @@ MUSH3||[𓏶](𓏶)[𓅓](𓅓)|𒈹 [𓋹](𓋹)
 NA|𓈖𓏤|𒈾|nau,nun,nar |narmer  
 Naga||𒉀|Nager𓇠𓇡𓂋|NorGer𓌽⇔cereal goddess! ;) gÉREŠ 𓋹snack  
 Naga|𓃶|𒀱|𓃶 𓋹 aNaKa|God 𒀭Goat Sanger𓇡 +++  
-DALḪAMUN|𓋩|𒀱|𓋹 Talisman Amun 𒀭El Hammon 𓃶 ram?  
+!|𓋩|𒀱|DALḪAMUN|𓋹 Talisman Amun 𒀭El Hammon 𓃶 ram?  
 NE||𒉈| ne: nar,ni,kúm 𓎡 |  
-ENGAR|𓂓𓂋𓇋𓇋𓇭𓀀|𒀳|Neger:garden| APIN 𓃒 ḥaraθ rise care? -? 𓈙𓏤𓈉  
+ENGAR|𓇭|𒀳|Neger:garden|𓂓𓂋𓇋𓇋𓇭𓀀 APIN 𓃒 ḥaraθ rise care? -? 𓈙𓏤𓈉  
 pil|𓍑𓊮|𒉈|pir:fire! pho?  
 NI|𓈖𓏮|𒉌|nous:uns/our  
 ƒE||𒉎|fear/bird:puluhtu  
@@ -97,7 +97,7 @@ pi/we|𓄔	|𒉿|wear| we=wir|
 uznu|𓄔|𒉿|uðn @sem|𒉿wissen wisdom ⲤⲰⲦⲈⲘ ++  
 pan||𒉼| wan|𒄑𒉼 wood => !  
 !!||𒄑𒉼|weapon|wood+pan  
-!||𒄑𒉼|cow=BOW (𒄑c+𒉼wan/pan) gešpana  +++  
+!||𒄑𒉼|cow-BOW (𒄑c+𒉼wan/pan) gešpana  +++  
 DI/ṭi|𓊵|𒁲| 𓋹𓋹 |体health/trial|𓊵salam 𒃻𒆷𒈬 ša2-la-mu <<  
 TI||𒋾| 𓄜𓉻𓌇𓌕 |tier/tür/tyr/tuer?  𒄑𒉼qaštu𓄝  <<  
 balāṭu||𒋾 | [𓋹](𓋹) 𒈧 𓏶 𒈦 体 <<  
@@ -163,11 +163,11 @@ KUD|𓌪𓌫|𒋻|cut++|schnitt TAR? zi2 𒍢
 TE||𒋼|[?](https://en.wiktionary.org/wiki/%F0%92%8B%BC)  
 TÚG|𓎁|𒌆|take|𒌨𒌆dog⋍TÚG hutu⋍Hund +++  𓎁𓏏𓂡 ⇔ tocharsi 𓌖𓌕𓂚!! τόξον  
 ÍB/TUM||𒌈|? some animal?  
-māru/TUR||𒌉|?? ?DUMU?|small:child,boy  
+māru/TUR|𓀔|𒌉|𓎛𓉼𓂝𓅱 [𓉻](𓉻)!! ?DUMU?|small:child,boy  
 U+GUD||𒌌|aged/ancient|αἶγες aiges : "goats"| ⇔ 𒍚uzud / 𒄞cattle  
 UB/up/ár||𒌒|corner, fame?|ƒ?qoop?  
-UD||𒌒|🌣 UTUme 𒌓 time⇔ aten 🌣 athanna  
-UD/UT/tam!||𒌓|🌣uTuam time|𒌚  ḥiš? par, per?  
+UD|𓊗|𒌒|🌣 UTUme 𒌓 time⇔ aten 🌣 athanna  
+UD/UT/tam!|𓊗 δN|𒌓|🌣uTuam time|𒌚  ḥiš? par, per?  
 ITU|𓆵𓆶𓆴|𒌚|month|itera𓇋𓆵𓇳⇔watera / mwinter month? (Luwian too!)  
 ITI|𓆵𓆶𓆴|𒌗|month|UD×EŠ| 𒌓UD-𒌍šeššig(30)  itud, itid  
 warḫu|𓆵𓆶𓆴|𒌗| a) month(SEM) b) warum?  
@@ -175,9 +175,10 @@ warḫu|𓆵𓆶𓆴|𒌗| a) month(SEM) b) warum?
 UR||𒌨|Phur⇨𒌨𒈤 Puma(𒈤=MAḪ) Bear purr?  
 ḪUL||𒌨|𒌨𒌆 ḪUTÚG Hund(dog) ⇔ howl!++  
 úḥ||𒌔|owl??  
-UM||𒌝|stem of reed|⇔urud𒍏 gil.ga.mes : 𒈩 <<  
-urud||𒍏| pures Erz++ ♀🜠🜢🜣 ⇔ bara 𖧂POON ♀Ven  
-URI|| 𒌵𒆠|Urkidu akkadû| Akkadian   (+jar 𓏌urn?) ⇔ *Urdu  
+UM|𓇅?|𒌝|stem of reed|⇔urud𒍏 𒈩 gil.ga.mes  
+urud|𓇅|𒍏| root,reed,tree 𓏏𓂋𓇋𓆴𓆰  
+urud|𓈔𓏤𓈓𓏸|𒍏| pures Erz++ ♀🜠🜢🜣 ⇔ bara 𖧂POON ♀Ven  
+URI|𓊖| 𒌵𒆠|Urkidu akkadû| Akkadian   (+jar 𓏌urn?) ⇔ *Urdu  
 ĝeš|[𓂸](𓂸)|𒍑|Geschlecht (male)|GÌŠ  NITA…  
 išaru|[𓂺](𓂺)|𒍑| ψišaru/zikaru *ðikar(sem) 𐎏𐎋𐎗 (ḏkr) Decker دكر‎ זָכָר‎  
 ZI|𓂺|𒍣|erection 𓂺 𒉺+𒊺SHE⋍pišar(napištu qed)  
@@ -189,6 +190,16 @@ ZÍZ||𒍩|emmer/wheat?|6?| work team?
 ĝa|𓎡𓍢/𓎡𓅱|𒂷|ego icke|me,mine|man,men[𒂷](𒂷)!  
 ZA|𓏏𓎡𓍿|𒍝|thy zain|your  
 RAŠ||𒆜|road|path 𒉽𒉽*pati  
+Bad|𓏱|𒁁|go bad / up / muert |complete,old,end ?  
+Bad|𓏱|𒁁|bad⋍blood  
+TIL|𓏱|𒁁|tuer die ⋍ dam=blood |laDY𓏏  
+bar|𓌢 |𒈦|bar: block/bind|down  
+parat!|𓌢 |𒈦|part! devide  
+paratsu|𓌢 |𒈦|barata: brother!! 𒈦bar+ta𒈦!  
+bar||𒈦|para/past (beyond/future)  
+mas||𒈦|much ! Mazdar ⋍ Adar  
+wr||𒌋|war  
+ptr||𒌋|petra:stone,batterl,further  
 
 .ĝa [𒂷] - my (1sg sent., gen & loc)  
 .za [𒍝] -  (s) (2sg sent., gen & loc)  

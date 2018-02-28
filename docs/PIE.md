@@ -2,6 +2,7 @@
 
 Here this theory is extended in that 'Proto-Indo-Europeans' did not stop at the gates of Sumeria and Egypt, but that they went straight through them. Either by forming the founding brotherhood of the international elite (which is depicted in Egyptian or Armana letters), or at the very least being in continuous strong contact with the ancient superpowers, leaving tremendous marks on all languages of Eurasia [and Egypt](Highlights).  
 
+[Indo-European_vocabulary](https://en.wikipedia.org/wiki/Indo-European_vocabulary)  
 
 Genetic homeland:  
 ![image](https://user-images.githubusercontent.com/516118/34798436-5a1743aa-f65c-11e7-94a8-0f7ecaf3addf.png)  
@@ -35,5 +36,10 @@ Strikingly, the mummies were more closely related to ancient Europeans and Anato
 They set out to conquer the world and conquer they did:  
 ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Indo-European-speaking_world.png)  
 Most of the white countries and the white northern countries spoke some indo-european through some or much of their history!  
+
+Faces of some conquerers:  
+![](http://www.hs-augsburg.de/⋍harsch/museum/Chronologia/C_a0260/Anchhaf/anchhaf.jpg)  
+![Statue-of-Hemiun](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Statue-of-Hemiun.jpg/380px-Statue-of-Hemiun.jpg)  
+![](http://newsimg.bbc.co.uk/media/images/42806000/jpg/_42806109_bust_getty_416.jpg)  
 
 We are all [human](Human)  

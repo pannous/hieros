@@ -10,6 +10,10 @@ Reflexive & Interrogative [Pronouns](Pronouns)
 𓏏 𓆑 𓄿 dieser (dort) that (over there)  
 𓏇 𓏏 𓏏 𓏛 like that  
 
+𓈖 𓏏  
+1) ante  
+2) 𓈖 nar nam nämä nämliche : these  
+
 |hieroglyphs|x|meaning|cognates|  
 |-----------|-|-------------|--------|  
 𓈖 𓏏 𓏏||that|anthat ⇔ ante  
@@ -27,7 +31,7 @@ variations of the same or similar (reflexive) who(S):
 
 |english|hieroglyphs|approximation|cognates|  
 |-------|-----------|-------------|--------|  
-who? what? |  𓊪   𓅱	|phoo / whou|  who  𓈖𓏏𓅱  
+who? what? |  𓊪   𓅱	|phoo / whou|  who  = Celtic pwy  
 who / what | 𓊪   𓏏   𓂋|whother| ’what are’, welcher, wos, was  
 this, the|  𓊪   𓅮   𓄿 	|whoδer | what, which, welcher, was, ob-der, who’er wer  
 this, which |   𓊪   𓅱	|whoun| whom, when, one, wo (bad German for ‘which‘)  

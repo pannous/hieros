@@ -4,16 +4,23 @@ Egyptian pronouns seem to hint at a linguistic Bridge between Semitic/Berber- la
 
 |	Person	| Sign	| Suffix 	| Dependent 	| Cognates  
 |----------------|-------|---------------|---------------|---------------  
-1st s. 		|[𓇋](𓇋)	|-ı͗ 	|𓍢𓇋 wı͗ 		|I,je,ich,we,wo,[𓅱](𓅱),me,my  
-2nd s.m. 	|[𓎡](𓎡)	|-qu 	|𓏏𓍢 tu 		|you / thou,tu,Du  
-2nd s.f. 	|[𓏏](𓏏)	|-te 	|𓏏𓈖 tən 		|ta,tien,Deine  
-3rd s.m. 	|[𓆑](𓆑)	|-φ/sn 	|𓇓𓍢 su		|phe,phis,son,sein,su[𓍢](𓍢)  
-3rd s.f. 	|[𓋴](𓋴)	|-s 	|𓋴𓏭 si,𓋴 s 		|she, sie, es  
-1st p. 		|[𓈖](𓈖)𓏪	|-nu 	|𓈖𓏤𓏤𓏤 nu 		|nu[𓍢](𓍢),nous,uns,on  
-2nd p. 		|𓏏𓈖𓏪	|-tn 	|𓏏𓈖𓏤𓏤𓏤 tn𓏤𓏤𓏤 		|ton,thine  
+1st s. 		|[𓇋](𓇋)	|-ı͗ 	|𓍢𓇋 wı͗ 		|I,je,ich / we,wo,[𓅱](𓅱),my,me,𒈨  
+2nd s.m. 	|[𓎡](𓎡)	|-qu 	|𓏏𓍢 tu 		|you / thou,tu,Du,thou⋍cou⋍zu𒍪  
+2nd s.f. 	|[𓏏](𓏏)	|-te 	|𓏏𓈖 tən 		|ta,tien,thyn,Deine, 𒌆tu  
+3rd s.m. 	|[𓆑](𓆑)	|-φ/sn 	|𓇓𓍢 su		|phe,phis,son,sein,su[𓍢](𓍢),𒋗su  
+3rd s.f. 	|[𓋴](𓋴)	|-s 	|𓋴𓏭 si,𓋴 s 		|she, sie, es, 𒐼sa, 𒅆si  
+1st p. 		|[𓈖](𓈖)𓏪	|-nu 	|𓈖𓏤𓏤𓏤 nu 		|nu[𓍢](𓍢),nous,uns,on,𒉡,𐎵Nu  
+2nd p. 		|𓏏𓈖𓏪	|-tn 	|𓏏𓈖𓏤𓏤𓏤 tn𓏤𓏤𓏤 		|ton,thine, …  
 3rd p. 		|𓋴𓈖𓏪	|-sn 	|𓋴𓈖𓏤𓏤𓏤 sn𓏤𓏤𓏤 		|semn⋍them (their)  
 
-The first person form is irregular with variants of [𓅱](𓅱)𓈖𓎡 moi,mon,mine,manch,mich,ück…  
+Independent pronouns are prefixed by [𓈖](𓈖)[𓏏](𓏏) which is similar to latin **ante-** as directional **An**rede (address), comparable with ancient greek ἦστ (n)este forms, Albanian un-ë and Hebrew an-i.  
+
+Note the International [plural](Plural) marker -n 𓈖𓏤𓏤𓏤  
+
+The first person form is irregular with variants of  
+[𓅱](𓅱)𓎡[𓀀](𓀀) ück,ego,ĝu𒈬,ĝa𒂷  
+𓅱[𓀀](𓀀) we,moi,mon,mine,manch,mich,…  
+It belongs to the Eurasian superfamilies which use m,w,n,g for first person consonants, but not say b,l,r,t (at least not in a leading position). Like "[mama](https://en.m.wikipedia.org/wiki/Mama_and_papa)" it might be anatomically prewired though.  
 
 The hypothesized ancient forms of the ‘letters’  𓆑 𓎡 𓇋 𓅱 (see [Alphabet](Alphabet) and [Axioms](Axioms)) with slight shifts and dangling connotations play well into the above table:  
 [𓆑](𓆑) φ pthn⋍s*n:  φίδιn python snake [usually simply transcribed as ‘f’]  
@@ -26,7 +33,7 @@ Independent pronouns are prefixed by [𓈖](𓈖)[𓏏](𓏏) which is similar t
 𓏏 𓄿 𓇋 𓇋 𓀀 der/die Meine  
 𓏏 𓄿 𓇋 𓇋 𓎡 der/die Deine  
 𓏏 𓄿 𓇋 𓇋 𓆑der/die Seine  
-𓏏 𓄿 der, that [𓏏](𓏏)[𓏏](𓏏) see [Reflexives](Reflexives)  [𓊪](𓊪)[𓅱](𓅱) who(n)  
+𓏏 𓄿 der, that [𓏏](𓏏)[𓏏](𓏏) see [Reflexives](Reflexives)  [𓊪](𓊪)[𓅱](𓅱) who(n) ⋍ pwy (Celtic)  
 
 Compare "possessive adjectives"  
 -[𓏌](𓏌)[𓅱](𓅱) -URN! nord⇨ northern 𓎔𓎛𓅱𓇇  
@@ -74,6 +81,8 @@ note the second person 𓏏𓎡𓈖𓏪 tkven !
 Also note the [pluralis maiestatis](https://en.wikipedia.org/wiki/Royal_we)​  
 We [𓅱](𓅱) 我  
 Dein 𓏏𓈖 𓍿[𓈖](𓈖) Shenǐ 你  
+
+Looking at [Uralic](https://en.wikipedia.org/wiki/Finnish_grammar), the idea of a [Nostratic](Nostratic) core structure seems very plausible.  
 
 Contrast this beautiful alignment with [Turk](Turk) grammar.  
 
