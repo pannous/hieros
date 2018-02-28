@@ -1,8 +1,9 @@
 KNIECK  
 chok چۆک knee  
 Knie  
+chin  
 Gon  
-Genus (Beugung)  
+Genus (Beugung)  ⇔ [Genesis](Genesis) Abstammung  
 Gen : Abzweigung Abstammung Abgang?  
 Knick  
 Kante  

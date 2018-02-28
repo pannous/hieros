@@ -10,6 +10,8 @@ Feminine suffix [𓏏](𓏏)  -t ⋍ **-tha** ⋍ -ss   prince => princessa
 [Verbs](Verbs) conjugation past+passive  [𓅱](𓅱) **-w** [𓈖](𓈖) **-n** -en see-saw-seen  
 [Verbs](Verbs) conjugation past+passive  [𓏏](𓏏) **-t:** -ed -ty  walk-walked  
 [Nouns](Nouns) and [Determinants](Determinants)  
+[Quantors](Quantors) 𓎡[𓎟](𓎟)kAlle 𓇋𓈖 ∃n/ein [𓃹](𓃹)san [𓂜](𓂜)non/null/not [𓆈](𓆈)𓏥exa la'many[𓏠](𓏠)  
+[Numbers](Numbers) 𓈋[dual](Dual) 3. 𓐍𓏏 cird 4. 𓆑𓂧𓅱 vtoor 6 𓋴𓇋𓋴 sis 7 𓋴𓆑𓎛𓅱 sevhen 8 𓎛[𓏠](𓏠) 10 µDent𓎆 100 𓅱huhn…susan  
 [Pronouns](Pronouns) singular ante* [𓇋](𓇋)=I [𓎡](𓎡)=kyou [𓆑](𓆑)=φhe [𓋴](𓋴)she/es  
 [Pronouns](Pronouns) plural [𓈖](𓈖)𓏪nous [𓍿](𓍿)[𓈖](𓈖)𓏪thine [𓋴](𓋴)[𓈖](𓈖)𓏤𓏤𓏤them  
 [Interrogatives](Interrogatives) / [Reflexive](Interrogatives)  [𓊪](𓊪)[𓍢](𓍢)who/one  

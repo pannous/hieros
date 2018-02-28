@@ -3,14 +3,15 @@
 The Genesis of the Egyptian (and [PIE](PIE)) family is deeply rooted in a bird cult:  
 
 𓅐 Mother 𓅓=M 𓅱=U 𓏏=T' 𓅐  
-𓅭[𓇳](𓇳) Son  𓅬 sin @ Persian  
-𓅭𓏏 daughter  (Duck+ta)  
+𓅭[𓇳](𓇳) Son  𓅬 sin @ Persian  haṁsáḥ "goose" ⇔ sA  
+𓅭𓏏 daughter  (Duck+ta)     Persian ordak = "duck" q.e.d.  
 [𓄿](𓄿) Aar(n) Air, a writing for [Sky](𓇯) Father [𓊪](𓊪)[𓏏](𓏏)[𓎛](𓎛)𓀭  [𓄿](𓄿) Häher Herr Er  
 𓅮 Photer 𓊪 𓅮 𓄿 𓅱 𓏏 𓏗 𓀭 𓏥  'primeval God'  
-𓅬 Cyneth 𓌢𓈖𓏏𓁐 vs  Co-naith [𓄟](𓄟)𓄠𓋤 Kinders kin 𓎂⋍[𓊃](𓊃)⋍𓎃⋍𓋩⋍[𓋹](𓋹) synkh  
+𓅬 Cyneth 𓌢𓈖𓏏𓁐 vs  CoNaith [𓄟](𓄟)𓄠𓋤 Kinders kin 𓎂⋍[𓊃](𓊃)⋍𓎃⋍𓋩⋍[𓋹](𓋹) synkh  
 𓅬 Cwyneth 𓌢𓈖𓏏𓁐 Twin ⇔ Cwyn Queen Swan 𓅬 vs [𓃟](𓃟)  
 𓋴𓅁 Head of family   Shaman? [Gamos](Hiros-Gamos) Gon?  
 Gentei χήν γynhth 𓋴𓅱𓎛𓏏[𓆇](𓆇)  
+
 
 There is no reason to doubt Herodots assessment that [ora](𓁹)[cle](cul)-dom and [au](𓁹)[gur](gur)s originally came from Egypt.  
 
@@ -21,8 +22,6 @@ The speculative extension of the system needs further investigation:
 [𓅓](𓅓) *Bruta Britta Maris Baratheon Bharat birth [𓅭](𓅭)pata?  
 Genesis 𓊃𓈙𓏮𓅹 zhnízdo=nest [𓆂](𓆂) gynishdu kin + kinners𓅸 (children)  
 
-𓌢 𓈖 𓏏 𓁐 𓅭𓏏 sister  
-
 G38 𓅬 goosen Gänsen gEnten ganter goo.ßen 𓅬  𐦖 letter 'KA'  
 G38 𓅬 𓋴[𓏠](𓏠)𓈖𓅭 gamen gämsen Gänsen 𓅬 ⋍ 𓅭 gEnthen++ Ganter  
 G39 𓅭 ⋍gamnsen=sen=son=gonthe𓅬,genten𓅭,jeun,Jun[g],gynsen  
@@ -30,6 +29,8 @@ G39 𓅭𓏏 duck : **daughter** dough [𓏏](𓏏) talk 𐎯𐎧𐎬𐎠 Duxtar
 
 [𓅬](𓅬) Gomns gones cynith cygnos swan zwin twin [𓌢](𓌢)  
 [𓌢](𓌢)𓏏 coult be cynith [𓅬](𓅬)⋍cys[ther](ther) sister  
+𓌢 𓈖 𓏏 𓁐 𓅭𓏏 sister x̌aŋta ⇔ [x̌aŋhar](https://en.wikipedia.org/wiki/Indo-European_vocabulary)  
+
 
 [𓊃](𓊃)𓏏𓅭 Synte Gynte Ente  
 menue-pigeon   𓏠𓈖𓏌𓏏𓅭  

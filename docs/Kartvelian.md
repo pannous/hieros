@@ -37,7 +37,7 @@ compare 4,5 with
 восемь  ("vo-syem")  
 Old double system: x, wo+x = one±x  
 
-very remote [Eurasian](Eurasian) connections to Tamil :  
+very remote [Eurasian](Eurasian) connections to [Tamil](Dravidian) :  
 
 1 one (onnu) ஒன்று  one  
 2 two (இendu) இரண்டு second / ir 儿 二 èr  
