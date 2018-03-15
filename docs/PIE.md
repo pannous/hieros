@@ -6,7 +6,11 @@ Here this theory is extended in that 'Proto-Indo-Europeans' did not stop at the 
 
 Genetic homeland:  
 ![image](https://user-images.githubusercontent.com/516118/34798436-5a1743aa-f65c-11e7-94a8-0f7ecaf3addf.png)  
-In other countries the brotherhood of kings formed a superimposed international elite ruling the natives. A queen of [Jiroft](https://en.wikipedia.org/wiki/Jiroft_culture) in Iran ⋍3000BC was 1.80 tall with red hair and a golden eye implant. 99% of modern [R1a](https://www.eupedia.com/europe/Haplogroup_R1a_Y-DNA.shtml) descends from R1a1a (M417), a subclade that clearly expanded from the Bronze Age onwards. R1b Maykop, Mosopotamia, Levant, GB! J2 Tyre, Ray, Elam vs J1 Arab. Admixture of R1a,R1b,J2 moving SE.  
+In other countries the brotherhood of kings formed a superimposed international elite ruling the natives. A queen of [Jiroft](https://en.wikipedia.org/wiki/Jiroft_culture) in Iran ⋍3000BC was 1.80 tall with red hair and a golden eye implant. 
+
+The first predynastic mummy in Egyptian Gebelein had [red hair](https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies) too. 
+
+99% of modern [R1a](https://www.eupedia.com/europe/Haplogroup_R1a_Y-DNA.shtml) descends from R1a1a (M417), a subclade that clearly expanded from the Bronze Age onwards. R1b Maykop, Mosopotamia, Levant, GB! J2 Tyre, Ray, Elam vs J1 Arab. Admixture of R1a,R1b,J2 moving SE.  
 
 These genetic traits were carried by the Copper Kings:  
 R1b1a1* 6400bp [L23](https://www.yfull.com/tree/R-L23/)  
@@ -37,9 +41,12 @@ They set out to conquer the world and conquer they did:
 ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Indo-European-speaking_world.png)  
 Most of the white countries and the white northern countries spoke some indo-european through some or much of their history!  
 
+The first predynastic mummy in Gebelein []https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies)
+
 Faces of some conquerers:  
 ![](http://www.hs-augsburg.de/⋍harsch/museum/Chronologia/C_a0260/Anchhaf/anchhaf.jpg)  
 ![Statue-of-Hemiun](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Statue-of-Hemiun.jpg/380px-Statue-of-Hemiun.jpg)  
 ![](http://newsimg.bbc.co.uk/media/images/42806000/jpg/_42806109_bust_getty_416.jpg)  
 
 We are all [human](Human)  
+
