@@ -1,7 +1,3 @@
-npm install sleep
-npm install fs-readfile-promise  for readFileAsync
-npm install sleep
-npm install fs-readfile-promise  for readFileAsync
 Etymological Dictionary
 of Hungarian (EDH)
 BY
@@ -1569,7 +1565,7 @@ kúm „hot” (Halloran/Hámori, K 42)
 
 84
 
-égni
+égni agni™
 
 ug „burning heat” (Bobula, Herencia, p. 43)
 é „house, temple”/ág „to measure”/e8 „to be dried
@@ -1611,13 +1607,11 @@ rusu, urudu (Halloran/Hámori, p. 122)
 87a
 
 vörös
-
-si4 „dark read” (Gostony, no. 177)
-
-pîlû „dark read” (Gostony, no. 177; Zakar, p. 50)
-
 russu „red-shining clothes”, urudu „copper;
 red”, rus „red” (Zakar, p. 50)
+si4 „dark read” (Gostony, no. 177)
+pîlû „dark read” (Gostony, no. 177; Zakar, p. 50)
+
 
 
 88
@@ -1675,7 +1669,7 @@ gi-e „night” (Zakar, p. 51)
 
 93
 
-forró
+forró feuer++
 
 bar „to burn” (Bobula, Herencia, p. 54)
 

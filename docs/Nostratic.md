@@ -1,0 +1,3 @@
+The idea that most if not all European and Asian languages are somewhat related to a common ancestor from the fertile Crescent or even to the groups which left Africa.  
+
+Dravidian is one of the primary language families in the [Nostratic](Nostratic) proposal, which would link most languages in North Africa, Europe and Western Asia into a family with its origins in the Fertile Crescent sometime between the last Ice Age and the emergence of proto-Indo-European 4–6 thousand years BCE. However, the general consensus is that such deep connections are not, or not yet, demonstrable.  

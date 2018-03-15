@@ -13,7 +13,7 @@
 𓌸 mur ⇔ [𓏠](𓏠)mourn ment mind [𓄣](𓄣) mHeart  
 𓌻 mAUR [𓏠](𓏠) mun [𓃓](𓃓) vs  
 𓌻 tAUR 𓃓=𓌻𓂋𓂺 throat 𓌻𓂋𓄈𓏏𓆱 tow:täuen  
-𓌸 𓌻⋍𓁹[moyer](𓁹)  
+𓌸 𓌻 𐤀 alef ≠ 𐩲 ayn 𓁹[moyer](𓁹) 𐩱? 
 
 Hoe [𓍁](𓍁)  
 𓌸 𐀄 'U'=𐀄𐀈𐀫/hydro/hOE/mAU Linear B  

@@ -24,7 +24,7 @@ Farsi|transcribed|english
 دختر 	|doxtar |daughter  
 پسر 	|pesar 	|son  
 
-This (re)discovery lead to well established theories of [Proto-Indo-European](PIE) expansions. Here we investigate the relationship between these [pioneers](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) and the Pharaonic Egyptian language and culture.  
+This (re)discovery lead to well established theories of [Proto-Indo-European](PIE)(PIE) expansions. Here we investigate the relationship between these [pioneers](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) and the Pharaonic Egyptian language and culture.  
 
 First, we take a step back to the region where the PIE journey began:  
 The countries surrounding the black sea.  
@@ -63,14 +63,16 @@ Babylon is written [𓃀](𓃀)[𓃀](𓃀)[𓂋](𓂋)[𓏤](𓏤)[𓈉](𓈉) 
 
 Using the conventional Egyptian [alphabet](Alphabet) in its late form, which is preserved to us by comparisons with the derived Coptic and demotic languages, as well as comparisons to Greek and Semitic languages.  
 
+Each of these letters, in use for roughly 3000 years, had tremendous influence on far-reaching countries and cultures, was a linguistic center of gravity and ultimately [contributed](Ugaritic) to the formation of our modern alphabets:
+
 (The mnemonics can be ignored if knowledge of German is absent)  
 
 |letter|glyph|mnemonic|  
 |-----|----|-------|  
 a|[𓄿](𓄿)|[Aar](https://dict.leo.org/englisch-deutsch/aar) [air](Air)|  
 A|[𓂝](𓂝)|Arm|  
-b|[𓃀](𓃀)|Bein|  
-c|[𓍿](𓍿)|ⵛeh/Tau|  
+b|[𓃀](𓃀)|bein/boot|  
+c|[𓍿](𓍿)|ⵛord/Tau|  
 D|[𓏏](𓏏)|Delle/dent|  
 δ|[𓂧](𓂧)|Daum/dast|  
 E|[𓇋](𓇋)|fEather|  
@@ -82,7 +84,7 @@ J|[𓆳](𓆳)|Jahr
 Dj|[𓆓](𓆓)|djungle  
 K|[𓎡](𓎡)|Kelle/cup|  
 Kr|[𓐍](𓐍)|Kreis [𓊖](𓊖)court  
-L|[𓏯](𓏯)|[𓃭](𓃭)Leo  
+L|[𓃭](𓃭)[𓏯](𓏯)|Leo  
 M|[𓅓](𓅓)|[Musen](Musen)  
 N|[𓈖](𓈖)|Nil  
 ϱO|[𓍯](𓍯)|rogue  
@@ -98,9 +100,9 @@ X|[𓎛](𓎛)|Ḫairlix
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusym  
 
-With this alphabet, which linguist deciphered 200 years ago, and which only received minor modifications since then, we can start to decipher words:  
+With this alphabet, which linguists deciphered 200 years ago, and which only received minor modifications since then, we can start to decipher words:  
 
-[𓆤](𓆤) [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢) bee  
+[𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢) [𓆤](𓆤) bee  
 
 One cognate match might be coincidence, especially one with so few syllables, a whole cluster of words hints at connections which need refreshed investigations:  
 
