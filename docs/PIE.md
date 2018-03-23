@@ -8,8 +8,6 @@ Genetic homeland:
 ![image](https://user-images.githubusercontent.com/516118/34798436-5a1743aa-f65c-11e7-94a8-0f7ecaf3addf.png)  
 In other countries the brotherhood of kings formed a superimposed international elite ruling the natives. A queen of [Jiroft](https://en.wikipedia.org/wiki/Jiroft_culture) in Iran ⋍3000BC was 1.80 tall with red hair and a golden eye implant. 
 
-The first predynastic mummy in Egyptian Gebelein had [red hair](https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies) too. 
-
 99% of modern [R1a](https://www.eupedia.com/europe/Haplogroup_R1a_Y-DNA.shtml) descends from R1a1a (M417), a subclade that clearly expanded from the Bronze Age onwards. R1b Maykop, Mosopotamia, Levant, GB! J2 Tyre, Ray, Elam vs J1 Arab. Admixture of R1a,R1b,J2 moving SE.  
 
 These genetic traits were carried by the Copper Kings:  
@@ -48,5 +46,11 @@ Faces of some conquerers:
 ![Statue-of-Hemiun](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Statue-of-Hemiun.jpg/380px-Statue-of-Hemiun.jpg)  
 ![](http://newsimg.bbc.co.uk/media/images/42806000/jpg/_42806109_bust_getty_416.jpg)  
 
-We are all [human](Human)  
 
+[[Moral]]:
+Famous DNA researcher [Reich](https://www.theatlantic.com/science/archive/2018/03/ancient-dna-history/554798/?single_page=true) once had German collaborators drop out of a study when the findings seemed to mirror too closely Nazi propaganda about the Aryan race.
+The first predynastic mummy in Egyptian Gebelein had [red hair](https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies) too. 
+
+"DNA is doing is it’s forcing the hand of this discussion in archaeology, showing that in fact, major movements of people do occur. They are sometimes sharp and dramatic, and they involve large-scale population replacements over a relatively short period of time."
+
+We are all [human](Human)  
