@@ -1,1 +1,1 @@
-see [𓏠](𓏠) Gamen [Menge](Menge)  
+see [𓏠](𓏠) Gamen [[Menge]]

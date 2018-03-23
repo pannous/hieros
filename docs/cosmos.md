@@ -14,7 +14,7 @@ also see [numbers](Numbers)
 ∞) 𓅘𓎛𓇳𓎛 eternal ∞ 𓎛[𓎛](𓎛)[𓇳](𓇳) dura vs 𓆓𓂧𓊽 steady 𓆓𓏏𓏤𓆓𓏏𓇾  [𓊨](𓊨)[𓊖](𓊖)  
 
 Some hieroglyps/concepts look a bit like puzzle pieces for children:  
-[𓇯](𓇯) air, the word for air is often simply written as Air [𓄿](𓄿)  
+[𓇯](𓇯) air, the word for air is simply written as Air [𓄿](𓄿)  
 [𓎟](𓎟) all, the word for all is related to [𓎡](𓎡) kalla=all@Hebrew Kelle=jug@german  
 [𓈋](𓈋) dval, dual for tell(hill) and Tal(vale) vs [𓏏](𓏏) tell Delle  
 [𓇾](𓇾) ter, terra, terrain: earth  
