@@ -26,9 +26,7 @@ PIE qvr(t)² 𓊖
 [𓇳](𓇳) hoRay 𒂉 𒄭 ḪI HI ḫo High HEILIO  
 
 𒆳 KUR land  
-𒆠 KI kurth earth ⇔ qvter:terra [[𓇾]]
-𒆠 kUR/KIr  𒌵𒆠 Urkidu akkadû uruki iraq  
-𒆠 (k)UR n+ur=𒈾 naur vs [[𓏌]] [[𓊖]]
+𒆠 KI kurth earth  ⇔ 𒌵𒆠 Urkidu akkadû  
 𒊮 cœur še ŠÀ [heart](heart) center  
 𒃼 Gar [Karum](https://en.wikipedia.org/wiki/Karum_(trade_post)) 𒈦𒄘𒃼 Tigugar=Tigris  
 𒆸 *Berg / *Gebail : 𒆸 GaB 𒆸 uPQu block *PAQ 𒇇 bock (ewe) book?  

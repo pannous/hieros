@@ -38,7 +38,6 @@ EAU||𒀀|A⋍eau mwater/aqua 𒀀⋍heir𓄿babard? 𓎛𓃀𓃀𓏏𓈗 bois?
 AB|𓃓|𒀖|cow|apis al'pha bull!?  
 Mar/BURU|𓃔|𒀫|calf| Marduk Bal! 𓇋𓃀𓃔iBara++ 𒁇⇔𓃀 𓄑𓊃𓃔  
 AK/AQ|𓀜𓀙|𒀝|act|do  
-Pa*|𓏴|𒉽𒈦|pa/bar|𓏴=pass/break!
 GU(D)|𓄱𓃒|𒄞|cow/cattle|𒄞 alpu ⇔ 𒁉  
 BI|𓏊|𒁉|beer|𓎛𓈎𓏏𓏊 heqat 𒄞𓄱! ⇔ 𒉺 + 𒄞 Cow : GU = *Bull  ⋍ BI  𒄞 alpu!!  
 IB…EP||𒅁|oval? corner?|𓉐?  

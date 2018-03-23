@@ -37,7 +37,7 @@ R:	D21	𓂋 MRT/LM: aL'Mut : 𓂋𓅱𓅐!!   ↔ 𓌳𓅱𓃬 LW/MRW
 S:	S29	𓋴	S ß Γ ʃ δ 𓏏! Ⲋ𓆓 GS: clo.the se' 𓋴 Kissen,cushion,curse𓊭 ↔ 𓏏 S! < TH < T < D
 T:	X1	𓏏	Tee/Dell/DING/THING iSm IT EAT! BRδeiidt 𐀴 bThi ψ-ϑ! 𓍿tChEi(n) 𐀯 山 (b)Thai  => -ess S ↔ 𓏏 te(ll) + (t)ell 𓎠 Tal / all 𓎟 vs Tasse 𓎡TC𓍿𓄑C 𐀲 kadd=jug   𓎛𓏏𓏏=Herz(herts) tick𓏴tag𓏵Tag!
 U:	G43	𓏌𓅱𓍢𓏲	Ων -(n)oun Ü hUhn ωuν 𓅳 hENn 𓍢 hundert 100 و=u ق bun ph ف WUN 𐀸 wound 𓏲 (L)AN(d/t) 鸡 jī cui zhuī 隹 Kücken chicken 
-V:	M17	𓅱 V' Vł!!!  ννν fun!  𓇋𓇋 VY 𓇋	Feather -> 𓆑 ve -> wh 𓇋 	𓅓Mwū乌  stark gepresstes𓄲 '~ł/n
+V:	M17	𓅱 V' Vł!!!  ννν fun!  𓇋𓇋 VY 𓇋	Feather -> ve -> wh 𓇋 	𓅓Mwū乌  stark gepresstes𓄲 '~ł/n
 W:	G43	𓅱𓍢𓏲	ων µω/ωµ 𓎛wHr! wΩm!  hwn M -mos µn Wn HN 'N	𓍢𓏲ϱ ↔ R!
 X:	Z9	𓏴	End X	𓏵  𐄂 χ	Ξ ξ 𐠷=KS ✓ ☑ 𓍲  vs 𓍿 𓊃 δ  ↔ 𓏴 tau:token:tag טייג! 𒁇𒈦 bar? KR?
 Y:	Z4	𓏭	𓏮	𓇌  𓇋 𓇋 𓆄𓆄 vY->λ! 丫yā:fork ¨ double yodh y~u~w! T+𓏮=TWO!亚II 	义 Yìustice  羽 yǔstice 𓏮 2y 𐀂Y Jodh
@@ -199,7 +199,7 @@ A19	𓀗 hier=old  𓀗
 A20	𓀘 senior 𓀘  #SR 𓀙 :
 A21 𓀙 AQUER~(PR)ACTER!! q-hiery GER-MAN!!! A21A (auf) qua-hier qu-ARIER !!       𓀙 ↔ act pract brace 𓂢
 A24 𓀜 HRD:herd,hard,hurt,height 𓎛𓏷𓀜
-A24 𓀜 TWEIN@Baltic TUN (to/do/-EN) (𓈄𓍱dreschen...) twen tun@Prussian MAK@Turk (vs er?) -len   𓀜 => D40  twig?
+A24 𓀜 -EN(to/do) (𓈄𓍱dreschen...) (vs er?) -len   𓀜 => D40  
 A25	𓀝 hui(t)=hau~ho(ch)
 A26 𓀞 O,hoch      𓀞
 A28	𓀠 quer~sûr¬𓌨 ↔ KUR™!! lang -ker/-wer(person++) 𓀠 *qwair' kweary -> cover 𓂓 kar! work ↔ fauqa:above↔  𓈎𓄿𓀠 !!
@@ -239,7 +239,7 @@ D2	𓁷 (t/c/k)Ob(v)Herr[leader] 𐀣 Qōph 𓁷 אף! 𓐎?  头 tóup-head ↔
 D3	𓁸ḫaput-Haar  ḫar: شعرschær kebsyt [destroy]    𓁸   F33    𓄢
 D4	𓁹 (µ)ə'n 𓂝𓈖𓁹! ayin meyen.seen SUWM *δoymac ὄμματ 目眼 mùyǎn  augen (m/v)øyr𓄿 mvoir  eyen عين עין  
 D5	[g]rey     𓁺  stare stair weye
-D6  𓁻  weyn   𓁼  reyn   𓁿𓇶  feyn  𓂀 mystery   faire=do=mey (may I? Ja mai! Meister=Macher ma'ke you!)
+D6  𓁻  weyn   𓁼  reyn   𓁿    feyn  𓂀 mystery   faire=do=mey (may I? Ja mai! Meister=Macher ma'ke you!)
 D6  𓁿 creye !   'lacrima cry.ma  δάκρυον cry.on™ 🌢 💧 swear 𓎛𓅱𓅱 crui 𓊤𓅱𓀁 voice/noise ↔ 𓎼𓂋𓇋 grain/gram
 D7 	𓁼  payn(t)   black eye paint (maska-ra)
 D8	𓁾  scheyn (schön! n+eyes=nice) qed
@@ -398,7 +398,7 @@ F29 𓄝 shot    𓄝  => T11 arrow
 F30 𓄞 Scheid.e    𓄞
 F31	𓄟 Mes(sut)/Naiss𓂉=atem/birth 𓄟 𓄠 S16 Nässe 𓋤 vs Messe 𓊵 Moot, Maput Maß 𐀔𐀪𐀚 
 F31	𓄟 ψ psp birth / spin spoon serve 𓋴𓃀𓃀   Nephthys 𓈖𓄟𓋴𓅱𓏏𓏥𓉠 Neffe+Nifte=niece 
-F32	𓄡 SH/CH/Scrotum/чрѣво:črěvo/karın/курсак …   𓄡 belly
+F32	𓄡 SH/CH/Scr(otum)  𓄡
 F33 𓄢  𓋴𓂧tail~spear   𓄢 <<
 F34 𓄣 Hearth -haft hate/hass: 𓄣 hhasa(ba)=feel/think!! was hast du? 𓎛𓄿𓏏𓏮𓄣 𓇉𓏏𓄣 𓄂𓏏𓏮𓄣 😻 qed*3 𐌰𐌷𐌰𐍊 𓅜 𐌰𐌷𐌼𐌰  ♥ ❤   💔 💓 💕 𓃹? 
 F34 𓄣 l#IB ♡ 𓏇𓃀𓏏𓌏  𓏇𓄣𓏏𓌏  lieb,leap,liver 
@@ -463,10 +463,7 @@ G43	𓅱 vu,un,en: Huhn,Kück.hen  𓅱     鸡 Hahn 汉 HÀN  又 'Hand'  G45 �
 G47	𓅷 BAN/Phain.dick.chick?? [male] ↔ 𐇑@Phaistos   
 G47	𓅷 GAN?? <<
 G51	𓅻 +catch-fish  𓅻 vs to cat fish ;) catfish ~ 𒄩 Hafiδ الحفيد -> grandson, descendant H 𒄷 𒄩 𒄫 𒆒 𒅋 
-G54	𓅾 goose-fur=<>frier  = 𓈖𓆓𓏏𓅾 Angst *Angustafar عصفور‎ għasfur=bird a'ghast!  graus خوف gross 𓋴𓂋𓅾 أو huge  
-G54	𓅾 fear ~ ftier طير‎ tyr=bird tars,tirs رس = terror +++  bim:bammel,bumba@berber  𓅾~𒉎 ní
-G54	𓅾 fear:(fe)ahr@pers  ¬Fell: félni@hung ϣⲉⲗϥ ϩⲉⲗⲓ  phobie ⲫⲟⲃⲟⲥ <>  भयि phaie fear   għoosfur~خوف 'goof'  
-!!
+G54	𓅾 goose-fur=fear = 𓈖𓆓𓏏𓅾 graus خوف gross 𓋴𓂋𓅾 أو huge
 
 
 H Hälsei
