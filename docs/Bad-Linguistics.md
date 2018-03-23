@@ -1,4 +1,4 @@
-1/[Good Linguistics](Good Linguistics)  
+1/[Good Linguistics](Good-Linguistics)  
 
 Sometimes wiktionary fails miserably,  
 connecting  
@@ -8,3 +8,4 @@ Deus, Theus and Zeus are not related
 
 Scheibe *skey- ⇔ dískeis missing  
 
+https://en.wiktionary.org/wiki/look not connecting with Celtic *lukato- 	lagad 	lagas 	llygad (eye)
