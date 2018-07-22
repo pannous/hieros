@@ -9759,5 +9759,9 @@ Alb = Albanian, Bul = Bulgarian, Eng = English, Fre = French, Gre = Greek, Hun =
 Aze = Azerbaijani, Ful = Fulani, Hau = Hausa, Hin = Hindi and/or Urdu, Ind = Indonesian and/or Malay, Kar = Karachay-Balkar, Kaz = Kazakh, Kyr = Kyrgyz, Mal = Maltese, Per = Persian, Som = Somali, Swa = Swahili, Taj = Tajik, Tat = Tatar, Tur = Turkish, Tuv = Tuvan, Uzb = Uzbek
 Sum = Sumerian, Skt = Sanskrit
 
+dhikr dekret D+Chr (EG) : short devotional phrases like
+لا اله الاّ الله ("Lā ilāha illā -llāh"; There is no deity but God)
+
+
 kitabu 'book' (from Arabic kitab)
 Swa = Swahili "Sahel" african Bantu language with many Arabic loanwords!!!
