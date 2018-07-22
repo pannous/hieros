@@ -3008,22 +3008,22 @@ part
 925 bahiyr baw-here'
 <- √(bright); shining: bright.
 
-926 bahal baw-hal'
-√tremble inwardly (or palpitate), i.e.  be (causative, make) (suddenly) alarmed or agitated; -> to hasten anxiously: be (make)
- affrighted (afraid, amazed, dismayed, rash), (be, get, make) haste(-n, -y, -ily), (give) speedy(-ily), thrust out, trouble, vex.
-
-927 bhal be-hal'
+926 bahal baw-hal' beEil! √beHeil ++++++ <> bellum ballarm √palpitate  
+926 bahal baw-hal' 
+√tremble inwardly (or palpitate), i.e.  be (causative, make) (suddenly) alarmed or agitated; -> to hasten anxiously: be (make) affrighted (afraid, amazed, dismayed, rash), (be, get, make) haste(-n, -y, -ily), (give) speedy(-ily), thrust out, trouble, vex.
+927 bhal be-hal'  beeil/ballarm √beHeil  ++
 ܐܪܡ ~=926; to terrify, hasten: in haste, trouble.
 
-928 behalah beh-haw-law'
+928 behalah beh-haw-law'  √bellum +++
 <- 926; panic, destruction: terror, trouble. 
-929 bhemah be-hay-maw'
+
+929 bhemah be-hay-maw' behemoth beast +++
 <- √(mute); a dumb beast; especially any large quadruped or animal (often collective): beast, cattle.
 
-930 bhemowth be-hay-mohth'
+930 bhemowth be-hay-mohth'  ba-muh (water-ox) Behemoth +++
 in form a plural or 929, but really a singular (Egyptian); a water-ox, i.e. the hippopotamus or Nile- horse: Behemoth.
 
-931 bohen bo'-hen  𓃀𓂾 photoe/toemb:thumb 𓌟bi/two𓃅! Bohen/Zehen   𓋴𓐟𓄿𓎛𓃃𓄹𓏤  Speiche toe=špička @ CES!
+931 bohen bo'-hen  𓃀𓂾 photoen toe:thumb 𓌟bi/two𓃅! Bohen/Zehen   𓋴𓐟𓄿𓎛𓃃𓄹𓏤  Speiche toe=špička @ CES! +++
 <- √thick; the thumb of the hand or great toe of the foot: thumb, great toe.
 <>
 al i'bahm الإبهام <> palm, balm <~~> thumb
@@ -3043,12 +3043,12 @@ fem.=925; a whitish spot on the skin: bright spot.
 936 buwz booz	Buhs;) ++
 √disrespect: contemn, despise, X utterly.
 
-937 buwz booz
+937 buwz booz √boo des-buwz = despised  √buh +++
 <- 936; disrespect: contempt(-uously), despised, shamed. 
 938 Buwz booz
 =937; Buz, the name of a son of Nahor, & of an Israelite: Buz.
 
-939 buwzah boo-zaw'
+939 buwzah boo-zaw √boo ++
 936; something scorned; an object of contempt: despised.
 
 940 Buwziy boo-zee'
@@ -3061,8 +3061,9 @@ fem.=925; a whitish spot on the skin: bright spot.
 943 buwk book
 √involve : be entangled, (perplexed).
 
-944 buwl bool
+944 buwl bool <> bowl of … produce
 for 2981; produce (of the earth, etc.): food, stock. 
+
 945 Buwl bool
 =944 (rain); Bul, the eighth Hebrew month: Bul.
 
