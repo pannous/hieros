@@ -24,3 +24,5 @@ notes.txt
 notes/best
 pictures/
 update.sh
+fonts/*.zip
+**/*.zip
