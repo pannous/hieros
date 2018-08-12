@@ -1,0 +1,114 @@
+Kharoshthi[1][2]
+
+BAD
+
+
+𐨀 A
+𐨨𐨁	I
+𐨨𐨂	U
+𐨨𐨃	R
+𐨨𐨅	E
+𐨨𐨆	O
+
+𐨐   KA
+𐨑   KHA
+𐨒   GA
+𐨓   GHA
+𐨕   CA
+𐨖   CHA
+𐨗   JA
+𐨙   NYA
+𐨚   TTA
+𐨛   TTHA
+𐨜   DDA
+𐨝   DDHA
+𐨞   NNA
+𐨟   TA
+𐨠   THA
+𐨡   DA
+𐨢   DHA
+𐨣   NA
+𐨤   PA
+𐨥   PHA
+𐨦   BA
+𐨧   BHA
+𐨨   MA
+𐨩   YA
+𐨪   RA
+𐨫   LA
+𐨬   VA
+𐨭   SHA
+𐨮   SSA
+𐨯   SA
+𐨰   ZA
+𐨱   HA
+𐨲   KKA
+𐨳   TTTHA
+
+𐨨𐨌	LENGTH MARK
+𐨨𐨍	DOUBLE RING BELOW
+𐨨𐨎	ANUSVARA
+𐨨𐨏	VISARGA
+𐨨𐨸	BAR ABOVE
+𐨨𐨹	CAUDA
+𐨨𐨺	DOT BELOW
+	VIRAMA
+𐩐	DOT
+𐩑	SMALL CIRCLE
+𐩒	CIRCLE
+𐩔	MANGALAM
+𐩀	ONE
+𐩁	TWO
+𐩂	THREE
+𐩃	FOUR
+𐩕	LOTUS
+𐩄	TEN
+𐩅	TWENTY
+𐩆	ONE HUNDRED
+𐩇	ONE THOUSAND
+𐩓	CRESCENT BAR
+𐩖	DANDA
+𐩗	DOUBLE DANDA
+𐩘	LINES
+
+
+
+Official Unicode Consortium code chart (PDF)
+  	0 	1 	2 	3 	4 	5 	6 	7 	8 	9 	A 	B 	C 	D 	E 	F
+U+10A0x 	𐨀 	 𐨁 	 𐨂 	 𐨃 		 𐨅 	 𐨆 						 𐨌 	 𐨍 	 𐨎 	 𐨏
+U+10A1x 	𐨐 	𐨑 	𐨒 	𐨓 		𐨕 	𐨖 	𐨗 		𐨙 	𐨚 	𐨛 	𐨜 	𐨝 	𐨞 	𐨟
+U+10A2x 	𐨠 	𐨡 	𐨢 	𐨣 	𐨤 	𐨥 	𐨦 	𐨧 	𐨨 	𐨩 	𐨪 	𐨫 	𐨬 	𐨭 	𐨮 	𐨯
+U+10A3x 	𐨰 	𐨱 	𐨲 	𐨳 	𐨴 	𐨵 			 𐨸 	 𐨹 	 𐨺 					 𐨿 
+U+10A4x 	𐩀 	𐩁 	𐩂 	𐩃 	𐩄 	𐩅 	𐩆 	𐩇 	𐩈 							
+U+10A5x 	𐩐 	𐩑 	𐩒 	𐩓 	𐩔 	𐩕 	𐩖 	𐩗 	𐩘 							
+Notes
+
+Velar
+𐨐 	k 	/k/
+𐨑 	kh
+𐨒 	g 	/ɡ/
+𐨓 	gh 	
+Palatal
+𐨕 	c 	/c/
+𐨖 	ch
+𐨗 	j 	/ɟ/
+𐨙 	ñ 	/ɲ/
+Retroflex
+𐨚 	ṭ 	/ʈ/
+𐨛 	ṭh
+𐨜 	ḍ 	/ɖ/
+𐨝 	ḍh
+𐨞 	ṇ 	/ɳ/
+Dental
+𐨟 	t 	/t/
+𐨠 	th
+𐨡 	d 	/d/
+𐨢 	dh
+𐨣 	n 	/n/
+Labial
+𐨤 	p 	/p/
+𐨥 	ph
+𐨦 	b 	/b/
+𐨧 	bh
+𐨨 	m 	/m/
+
