@@ -1,208 +1,217 @@
-No 	English 	Turkish 	Eurasian	Kyrgyz (Cyrillic) 	Mongolian (Cyrillic) 	Oroqen (IPA) 	Manchu (MT) 	Korean (RRK) 	Japanese (Hepburn romanization)
-1	I 	ben 	me, bin	мен 	би 	bi: 	bi 	na jeo 	watakushi, watashi, atashi ware ore
-2	you (sing.) 	sen 	sen, thine	сен, сиз 	чи 	ʃi: 	si 	neo geudae janae 	anata kimi omae
-3	he 	o 	der, er!	ал 	тэр 	tarɪ, nɔ:nin 	i, tere 	geu 	kare
-4	we 	biz 	we(s), mir	биз 	бид 	bu:, mir 	be, muse 	uri jeohui(deul) 	watashitachi wareware orera
-5	you (plural) 	siz 	ʃu 	силер, сиздер 	та 	ʃu 	suwe 	neohui(deul) 	anatagata, kimitachi, omaera
-6	they 	onlar 	on, leur, 	алар 	тэд нар 	nɔ:tɪn 	ce, tese 	geudeul 	karera
-7	this 	bu 	ptu!	бул, бу, ушул, берки (this side), мобу 	энэ 	əri 	ere 	i 	kono (attr.), kore (subst.)
-8	that 	o şu ki (relative pronoun) 	der	тиги, ошо, аркы (that side) 	тэр 	tarɪ 	tere 	geu (mesial) jeo (distal) 	sono (mesial), ano (distal) [attributive] sore (mesial), are (distal) [substantive]
-9	here 	burada 	obar da! Bei ort (*rada!)	мында, бул жерде 	энд 	ədu 	uba 	yeogi 	koko
-10	there 	orada 	ort	тиги/ошол жакта, тиги/ошол жерде, анда, тээ 	тэнд 	tadu 	tuba 	geogi (mesial) jeogi (distal) 	soko (mesial) asoko (distal)
-11	who 	kim 	quim	ким 	хэн 	ni: 	we 	nugu nuga (nom.) 	dare
-12	what 	ne 	phon, nar!	эмне, не 	юу 	ikun 	ai 	mueot 	nani
-13	where 	nerede 	an ort	кайда, кана 	хаана 	ilə, idu 	yabade, aibide 	eodi 	doko
-14	when 	ne zaman	in time, quan	качан 	хэзээ 	alɪ 	atanggi 	eonje 	itsu
-15	how 	nasıl 		кандай, кантип 	яаж 	ɔ:n 	absi, adarame 	eotteohge, eojji 	ikani, ikaga dō
-16	not 	değil 	Nu, na, anti! Mis, bis, dis	эмес, жок 	бус 	ə- 	waka, akū 	ani, an eops- ('be not (in a certain place), have not') 	-na-, -nu na- ('be not (in a certain place), have not')
-17	all 	bütün, her 	pan, g’monde	баары, бардык, бүт, бүткүл 	бүх, бүтэн 	banbʊr ɔ:rin 	eiten gemu 	da modeun (attr.), modu (adv.) mojori mongttang joeda on, ontong 	subete mina
-18	many 	çok 	manh- 	көп 	олон 	bara:n 	labdu geren 	manh- 	oo-
-19	some 	bazı 	Peut ?	бир нече 	зарим 	adɪ: 	ememu ududu 	eotteon 	ikuraka (uncountable), ikutsuka (countable) nanraka
-20	few 	Az <> kʿičʿ ?	(f)ewz, some	аз 	хэдхэн, цөөхөн 	atʃʊkʊn 	komso 	jeog- jogeum, jom ('a few, a bit') 	sukuna- wazuka sukoshi ('a few, a bit')
-21	other 	diğer 	?	башка 	бусад 	oŋtu 	gūwa 	dareun 	hoka
-22	one 	bir 	бир  first	бир 	нэг 	umun 	emu 	han (attr.), hana (subst.) 	hito(tsu)
-23	two 	iki 	secon, du!	эки 	хоёр 	dʒu:r 	juwe 	du (attr.), dul (subst.) 	futa(tsu)
-24	three 	üç 	thyrs, thres	үч 	гурав 	ɪlan 	ilan 	se (attr.), ses (subst.) 	mit(tsu)
-25	four 	dört 	tetra, nau!	төрт 	дөрөв 	diyin 	duin 	ne (attr.), nes (subst.) 	yot(tsu)
-26	five 	beş 	pent, peth	беш 	тав 	tʊŋŋa 	sunja 	daseos 	itsu(tsu)
-27	big 	büyük 	Biiig, ample	чоң 	их, том, үлэг 	əgdiŋə 	amba 	keu- 	ooki-
-28	long 	uzun 		узун 	урт 	ŋʊnʊm 	golmin 	gil- 	naga-
-29	wide 	geniş 		кең 	өргөн 	əŋŋəl, aɣum, awam 	onco, letehun, leli 	neolb- 	hiro-
-30	thick 	kalın 		калың 	өтгөн 	dɪram 	jiramin 	dukkeop-/dukkeow- (of layers or depth) gulg- (of diameter or circumference) jit- (of concentration or density) 	atsu- (of layers or depth) futo- (of diameter or circumference) ko-, koyu- (of concentration or density)
-31	heavy 	ağır 	!	оор 	хүнд 	urgə 	ujen 	mugeop-/mugeow- 	omo-
-32	small 	küçük 	chiculn! 𓅱 nietsh!	кичине, кичинекей, чакан 	жижиг 	nitʃukun 	ajige 	jag- 	chīsa-
-33	short 	kısa 	Kurz / chiculn!	кыска 	ахар, богино 	nəktəkun, wurumkun 	foholon (of length) fangkala (of height) 	jjalb- 	mijika- (of length) hiku- (of height)
-34	narrow 	dar 	darben?	тар 	нарийхан 	ʃiləmkun 	hafirahūn, is'heliyen 	job- 	sema-
-35	thin 	ince 	~! winz 	ичке, жука 	шингэн 	nəmkun 	nekeliyen 	yalb- (of layers or depth) ganeul- (of diameter or circumference) yeolb- (of color, lips, density of hair, etc.) mulg- (of concentration or density of a fluid) 	usu- (of layers, depth, concentration, or density) hoso- (of diameter or circumference)
-36	woman 	kadın 	girl, kardin:work, ische, amne	аял 	эм 	aʃɪ 	hehe 	gyejib 	onna
-37	man (male) 	er, erkek 	ER! < vir san~sir	эркек 	эр 	ɲɪray 	haha 	sanai, sanae 	otoko
-38	man (human being) 	kişi киши адам	<<	хүн, хүмүүн 	bəyə 	niyalma 	saram nam ('another person, other people') nom ('guy') 	hito	
-39	child 	çocuk 	chiculn! 𓅱 	бала 	хүүхэд 	kɔ:kan 	jui 	ai, ae eorini 	ko
-40	wife 	karı (eş) 	girl, kardin	аял, катын 	хань, авгай 	atɪrkan 	sargan 	anae 	tsuma
-41	husband 	koca (eş) 	HusHer?	күйөө, эр 	нөхөр 	ətirkən 	eigen 	sanae ('man') nampyeon (< Chinese) 	otto
-42	mother 	anne 	ana, ama	эне, апа 	эх, ээж 	ənin 	eme, eniye 	eomeoni 	haha (hehe = woman)
-43	father 	baba 	papa, vata ! VS AMA!	ата 	эцэг, аав 	amɪn 	ama 	abeoji 	chichi
-44	animal 	hayvan 		жаныбар, айбан, аң 	амьтан 	bəyiŋə 	aššara jaka, ergengge (living things) 	jimseung (< Chinese Buddhistic 衆生 "the masses of living things") 	kemono, kedamono
-45	fish 	balık 	bei.lake (l’aqua) !! uralic!	балык 	загас 	ɔlɔ 	nimaha 	mulkkogi 	uo, io sakana
-46	bird 	kuş 	cuch! 𓅱 	куш 	шувуу 	tʃinəkə 	gas'ha ('large bird, fowl') cecike ('small bird, songbird') 	sae 	tori
-47	dog 	it, köpek 	Hunt : ит ! Köter 	ит 	нохой 	ŋanakin 	indahūn 	gae 	inu
-48	louse 	bit 	bit ~ beetle!	бит 	хуурс, бөөс 	kuŋkə: 	cihe 	i 	shirami
-49	snake 	yılan 	schlange!! kʊlɪn  curlen	жылан 	могой 	kʊlɪn 	meihe 	baem 	hebi mi (Chinese zodiac)
-50	worm 	kurt 	Curled !	курт 	өт 	kʊlikan 	umiyaha 	beolle ('bug') jireong'i ('earthworm') 	mushi ('bug') mimizu ('earthworm')
-51	tree 	ağaç 	Mwood ++, borke	бак, жыгач (wood) 	мод 	mɔ: 	moo, hailan 	namu 	ki
-52	forest 	orman 	mùs 木	токой 	ой 	mɔ:ʃa 	bujan, weji 	sup 	mori
-53	stick 	değnek, çubuk (rod) 	мод 木	таяк, чыбык 	мод 	lata 	mukšan 	makdaegi 	bō (< Chinese 棒 bàng) tsue ('walking stick')
-54	fruit 	yemiş meyve (Persian) 		жемиш 	жимс 	tubiɣə 	tubihe 	yeolmae 	kudamono mi
-55	seed 	tohum tane (Persian) 	𓂋 !!!	урук, үрөн 	үр 	urə 	use 	ssi 	tane mi
-56	leaf 	yaprak 	𓌾 	жалбырак 	навч 	abdana 	abdaha 	ip 	ha
-57	root 	kök 		тамыр 	уг, үндэс 	təkən 	fulehe, da 	ppuri 	ne
-58	bark 	kabuk 	*karbe кора (kora) barka	кабык 	хуцалт, холтос 	kə:rə, talu 	notho 	kkeopjil 	kawa
-59	flower 	çiçek 	Sisil <<	гүл 	цэцэг 	ɪlga, ɲandʒa 	ilha 	kkoch 	hana
-60	grass 	ot 	cUT, ?	чөп 	өвс 	ɔrɔktɔ 	orho 	pul 	kusa
-61	rope 	ip 	𓎛 	аркан 	олс 	uʃikən, ʊrkʊn 	futa 	batjul 	nawa
-62	skin 	ten, deri 	derma++	тери 	арьс 	nana, ilə 	sukū 	salkkach gajug 	hada kawa
-63	meat 	et 	meat! Мах/эт	эт 	мах, хоол 	ulə 	yali 	sal gogi 	niku (< Chinese 肉 ròu) shishi
-64	blood 	kan 	sang!	кан 	цус, угсаа 	ʃə:kʃə 	senggi 	pi 	chi
-65	bone 	kemik 		сөөк 	яс 	gɪramna 	giranggi 	ppyeo 	hone
-66	fat (noun) 	yağ 	yog(hurt)	май 	(өөх) тос 	imukʃə 	tarhūn 	gireum 	abura
-67	egg 	yumurta 	<< ¬murt?	жумуртка 	өндөг 	ʊmʊkta 	umhan 	al 	tamago
-68	horn 	boynuz 		мүйүз 	эвэр, бүрээ 	i:gə 	uihe 	ppul 	tsuno
-69	tail 	kuyruk 	<> curl?	куйрук 	сүүл, гэзэг 	irgi 	uncehen 	kkori kkorangji kkongji kkongmuni 	o shippo
-70	feather 	tüy 	tail! toll@ural	жүн 	өд 	ʃuptʃu 	dethe, funggala 	gis 	hane
-71	hair 	kıl (in general) saç (of the head) 	sack	түк (in general) чач (of the head) 	үс 	ɲuriktə 	funiyehe 	teol (in general) meori (of the head) 	ke (in general) kami (of the head)
-72	head 	baş, kafa , төбө	boss! Kopf++ TOP!	баш 	толгой 	dɪl 	uju 	meori 	atama kashira kōbe
-73	ear 	kulak 	Khoures ++	кулак 	чих 	ʃɛ:n 	šan 	gwi 	mimi
-74	eye 	göz 	gaze ogeyes!	көз 	нүд 	yɛ:ʃa 	yasa 	nun 	me
-75	nose 	burun 	hana~nasha	мурун 	хамар 	ɔŋɔktɔ 	oforo 	ko 	hana
-76	mouth 	ağız 	𓂋 !!! am/os	ооз 	ам 	amŋa 	angga 	ib 	kuchi
-77	tooth 	diş 	Teeth +++	тиш 	шүд 	iktə 	weihe 	i 	ha
-78	tongue 	dil 	D << ++	тил 	хэл 	iŋi 	ilenggu 	hyeo 	shita
-79	fingernail 	tırnak 	tir.nagel	тырмак 	хумс 	ʊʃɪkta 	hitahūn 	sontob 	tsume
-80	foot 	ayak 	bethe bal al.gan 𓃀 аяк ferse? 	аяк 	хөл 	algan 	bethe 	bal 	ashi
-81	leg 	bacak 	bacak! 𓃀	бут 	хөл 	algan 	bethe 	dari 	ashi
-82	knee 	diz 	térd@hun 	тизе 	өвдөг 	əŋŋən 	tobgiya 	mureup 	hiza
-83	hand 	el, kol (arm) 	Elle, Garbel	кол 	гар 	ŋa:la 	gala, falanggū (palm of the hand) 	son 	te
-84	wing 	kanat 	qwingas!! кан~qwan!	канат 	далавч 	dəktilə, aʃakɪ: 	as'ha 	nalgae 	tsubasa hane
-85	belly 	karın 	𓄡 črěvo coeur-sack!	курсак, ич 	гэдэс 	gudə: 	hefeli 	bae 	hara
-86	guts 	bağırsak 	bags+ sacks	ичеги 	гэдэс 	ʃɪlʊkta 	duha 	ae 	wata
-87	neck 	boyun 	neck nɪkɪmna 	моюн 	хүзүү 	nɪkɪmna 	monggon, gen 	mog 	kubi
-88	back 	arka, sırt 	ARC!	арка 	ар, нуруу 	ʃɔgdɔnɔ 	fisa 	deung 	se
-89	breast 	meme, göğüs 	mamma chestum!	көкүрөк ('chest') эмчек ('breast') 	мээм, хөх 	ukun 	tunggen (chest) huhun (breasts) 	gaseum ('chest') jeoj ('breast') 	mune ('chest') chichi ('breast')
-90	heart 	yürek 	coeur сүрэх ++	жүрөк 	зүрх 	mɛɣan 	niyaman 	yeomtong 	shinzō (< Chinese 心臟 'cardiac organ') kokoro ('seat of the mind')
-91	liver 	karaciğer 	liBoor	боор 	элэг 	a:kin 	fahūn 	gan (< Chinese 肝 'liver') 	kanzō (< Chinese 肝臟 'hepatic organ') kimo
-92	to drink 	içmek 	…make! 𓂋 Nomnom;)	ич- 	уух 	um- 	omi- 	masi- 	nom-
-93	to eat 	yemek 	…make!	же- 	идэх 	dʒəb- 	je-/jefu ('eat!') 	meog- 	kuw- tabe- (polite; < 'to have' < 'to be granted')
-94	to bite 	ısırmak 	Ыт bisser make! snack	тиште- 	урах, хазах 	kɪk- 	sai- 	mul- 	kam-
-95	to suck 	emmek 	mamma	эм-, сор- 	хөхөх 	lʊpkʊ- 	goci- 	ppal- 	suw-
-96	to spit 	tükürmek 	…make!	түкүр- 	нулимах 	tə: 	cifele- 	baet- 	hak-
-97	to vomit 	kusmak 	kotz…make! ++	кус- 	бөөлжих 	iʃə- 	fuyakiya-, oksi-, juru- 	ge'u- 	hak-
-98	to blow 	esmek, üflemek 		үйлө- 	үлээх 	u:- 	fulgiye- 	bul- 	fuk-
-99	to breathe 	soluk almak, nefes almak 	aдем atem ++	дем ал- 	амьсгалах 	əri:- 	ergen gai- 	(sum)swi- 	iki-o suru
-100	to laugh 	gülmek 	jol, күл kill;)	күл-, каткыр- 	инээх, хөхрөх 	iɲə- 	inje- 	us- 	waraw-
-101	to see 	görmek 	eygör! Sseeh үзэх 	көр- 	үзэх 	itʃə- 	sabu- 	bo- 	mi-
-103	to hear 	duymak 	s’Dm!	ук- 	сонсох, дуулах 	dɔ:ldi- 	donji- 	deut-/deur- 	kik-
-104	to know 	bilmek 	saba! Savoir	бил- 	мэдэх 	ʃa:- 	sa- 	al- 	shir-
-106	to think 	düşünmek 	Şün saengga think!!!	ойло- 	бодох 	bɔdɔ- 	gūni-, bodo- 	saenggak-ha- 	omow-
-105	to smell 	koklamak 		жытта- 	үнэрлэх 	ŋɔkɔ- 	wangkiya- 	mat- ('to sense (a smell)') punggi- ('to emit (a smell)') 	kag- ('to sense a smell, to sniff') niow- ('to emit a smell')
-102	to fear 	korkmak 	<<	корк- 	айх 		gele- olho- golo- 	duryeowo ha- museowo ha- 	osore- kowagar-
-107	to sleep 	uyumak 	haia,nickt ++	укта- 	унтах, нойрсох 	a:ʃɪn- 	amga- šabura- 	ja- 	nemur- ne-
-108	to live 	yaşamak 	Yashen <<	жаша- 	амьдрах 	i:nikin 	banji- 	sal- 	iki-
-109	to die 	ölmek 	mör→öl? Old	өл- 	үхэх 	bu- 	buce- 	jug- 	shin-
-110	to kill 	öldürmek 	old!	өлтүр- 	алах 	wa:- 	wa- 	jugi- 	koros-
-111	to fight 	savaşmak 	warus++ vuruşmaq,döyüşmək 	согуш-, мушташ- 	байлдах, зодолдох 	wa:ldɪ- 	afa- 	ssau- 	tatakaw-
-112	to hunt 	avlamak 	abala- 	уула- 	авлах 	bəyu:- 	abala- 	sanyang-ha- sanyang-ga- (< Sino-Korean 山行 sanhaeng 'going to the mountains') 	kar-
-113	to hit 	vurmak, patlamak, согар	beatle, charge	ур-, сок- 	цохих, балбах 	mʊnda:- 	tanta- 	chi- ttaeri- dudeuri- galgi- 	ut-, but- uchitsuke-, buttsuke-, butsuke- tatak-, hatak- nagur- tsuk- atar- (v.i.), ate- (v.t.)
-114	to cut 	kesmek 	Кес ~ cut	кес-, кырк-, тил- 	огтлох, хэсэглэх 	dʒig- 	faita- furu- 	be- jareu-/jall- 	kir- tat- kar- nag-
-115	to split 	yarmak 	yaw!	бөл-, ажырат-, жар- (of firewood) 	хагалах, ярах 	i:wə:- 	delhebu- dendebu- 	gareu-/gall- 	war-
-116	to stab 	batırmak 	Bat! <> beat, push	сай- 	хутгалах, шаах 	gɪdala:- 	toko- gidala- (with a spear) huwesile- (with a dagger) 	jjireu-/jjill- 	sas- tsuk-
-117	to scratch 	tırnamak çizmek 		тырма- 	маажих 	ʊkɪ:- 	waša- wasihala- 	geulg- halkwi- 	kak-
-118	to dig 	kazmak 	Kaspian, kratz, carve	каз- 	малтах ухах 	ulə:- 	fete- 	pa- 	hor-
-119	to swim 	yüzmek 	<> juice!	сүз- 	сэлэх 	əlbi- 	ebiše- muke selbi- 	he- 	oyog-
-120	to fly 	uçmak 		уч- 	нисэх 	dəyli- dəg- 	deye- 	nal- 	tob-
-121	to walk 	yürümek 	jire++	бас- 	алхах 	girani- 	okso- yabu- 	geot-/geor- 	aruk-
-122	to come 	gelmek 	kel,ko’ +	кел- 	ирэх 	əmə- 	ji- 	o- 	ko-, ku-
-123	to lie 	yatmak 	shut	жат- 	хэвтэх 	ulə:- 	dedu- 	nup-/nuw- 	ne- yokotawar-
-124	to sit 	oturmak 	<<>> 	отур- 	суух 	tə: 	te- 	anj- 	suwar-
-125	to stand 	durmak 	Dura, turm!! ++	тур- 	зогсох 	ɪlɪ- 	ili- 	seo- 	tat-
-126	to turn 	dönmek 	turn.make  бур+dön QED	бур-, бурул- 	эргэх 	ukukin- 	forgošo- 	dol- 	mawar-
-127	to fall 	düşmek 	dussel, kill <<	кула-, түш-, жыгыл- 	унах 	tik- 	tuhe- 	tteoleoji- 	ochi-
-128	to give 	vermek 	fair, dar, poner	бер- 	өгөх 	bu:- 	bu- 	ju- 	okur- yar- kure- age- kudasar- tamaw- atae-
-129	to hold 	tutmak 	grab++	карма- 	барих 	dʒɔ:tʃa- 	jafa- 	jab- deul- gaji- 	mot-
-130	to squeeze 	ezmek 	sq.ez	сык- 	шахах 	ʃir- 	hafita- 	jja- 	shibor- shime- mom-
-131	to rub 	ovmak 	oýka<>eyes qed	ышкы-, укала- 	үрэх 	iki- 	monji-, monjira- 	munjireu-/munjill- 	sur- kosur- nasur- mom-
-132	to wash 	yıkamak 	jew!  ýuwmak 	жуу- 	угаах 	ʃɪlkɪ- 	obo- 	ppal- ssis- 	araw-
-133	to wipe 	silmek 	wish+  awʊ- fu	аарчы-, сүрт- 	арчих 	awʊ- 	fu- (loanword from Chinese?) mabula- 	dakk- humchi- 	fuk- nuguw-
-134	to pull 	çekmek 	Track, Tata <> tau?	тарт-, чой- 	татах 	ta:n- 	tata- 	kkeul- 	hik-
-135	to push 	itmek 	treat? An	түрт- 	түлхэх, чихэх 	ana- 	ana- 	mil- 	os-
-136	to throw 	atmak 		ыргыт-, ташта- 	хаях, шидэх 	garʊnda:- 	makta- waliyabu- 	deonji- 	nage-
-137	to tie 	bağlamak 	<< burgle … ?	байла- 	уях, баглах 	u:yi-, ərkə- 	huthu- hūwaita- 	mae- 	musub-
-138	to sew 	dikmek 	Tack! Stick ++	тик- 	оёх, хадах 	uli:- 	ufi- 	gip-/giw- 	nuw-
-139	to count 	saymak 	say~ zähl ~count ~сана total !!	сана- 	тоолох 	taŋ- 	tolo- 	se- 	kazoe-
-140	to say 	söylemek 	say~söy~sell!	айт-, де- 	хэлэх, өгүүлэх 	un-, gun- 	hendu- gisure- se- 	mal-ha- ha- 	iw- mōs- (polite) mōshiage- (humble) osshar- (colloquial honorific) notamaw- (colloquial sarcastic honorific or literary honorific)
-141	to sing 	şarkı söylemek 	Ucule-le ;)	ырда- 	дуулах 	dʒa:nda- 	ucule- 	norae-ha- 	utaw-
-142	to play 	oynamak 	𓏠! n-m-k / g-m-n	ойно- 	наадах, тоглох 	əwi- 	efi- 	nol- 	asob-
-143	to float 	yüzmek 	fließ	калкы- 	хөвөх 	kəpə:n- 	dekde- 	tteu- 	uk-
-144	to flow 	akmak 	aqua++	ак- 	урсах 	əyə:- 	eye- 	heureu-/heull- 	nagare-
-145	to freeze 	donmak 	≠tauen	тоң- 	хөлдөх 	dɔŋɔtɔ- 	gece- juhe jafa- 	eol- 	koor- ite- kogoe-
-146	to swell 	şişmek 	шиши swell!!	шиши- 	хөөх, хавдах 	awul 	aibi- dukdure- 	but-/bu- bupul- 	fukuram- fukure- hare-
-147	SUN!!!	güneş 	Gün šun ʃiwun SUN / HEL 	күн  sun!   𐬓𐬇𐬧𐬔‎ xᵛə̄ṇg	Нар  1. HEL 2. NAPO	dɪlatʃa, ʃiwun 	šun 	hae 	hi
-148	moON	ay 	lun al.ай moon ma.ай biga:god!?	ай 	сар 	bɛga 	biya 	dal 	tsuki
-149	star 	yıldız 	<> gild!	жылдыз 	од 	ɔʃɪkta 	usiha 	byeol 	hoshi
-150	water 	su 	mwuca wasser	суу 	ус 	mu: 	muke 	mul 	mizu
-151	rain 	yağmur 	yaqua pour бороо 	жамгыр, жаан 	бороо 	tigdə 	aga 	bi 	ame
-152	river 	ırmak 	bhitra bira kawa aqua	дарыя, өзөн 	гол 	bira 	bira ula 	nae 	kawa
-153	lake 	göl 	Kuhle!	көл 	нуур 	amʊdʒi 	omo tenggin noor 	mos 	mizuumi
-154	sea 	deniz 	DONac	деңиз 	далай, тэнгис 	dalay 	mederi namu 	bada 	umi
-155	salt 	tuz 	Thyssand? <> tozan 1000-sand!	туз 	давс 	dɔ:sun, katagan 	dabsun 	sogeum 	shio
-156	stone 	taş 	Dash T-s / s-t ++	таш 	чулуу 	dʒɔlɔ 	wehe 	dol 	ishi
-157	sand 	kum 	Krüm.el ++	кум 	элс 	ʃirgi 	yonggan 	morae 	suna
-158	dust 	toz 	Dust ++	чаң, тоз 	тоос 	tɔ:rag 	buraki 	meonji 	chiri hokori
-159	earth 	toprak 	Terr.as +++	топурак 	дэлхий, товрог, этүгэн 	tʊkala 	na 	heulg 	tsuchi
-160	cloud 	bulut 	Pquloud!! <<	булут 	үүл 	tukʃu 	tugi 	gureum 	kumo
-161	fog 	sis, duman (smoke) 	dunst	туман 	манан, будан 	tamna 	talman 	angae 	kiri
-162	SKY	gök! 	𓇯 𓎟 kak=all@	көк, асман 	огторгуй, хөх тэнгэр 	bʊwa 	abka 	haneul 	sora
-163	wind 	yel 	Schumal <<	шамал, жел 	салхи 	ədin 	edun 	baram 	kaze
-164	snow 	kar 	Kryo@kar ++	кар 	цас 	ɪmana 	nimanggi 	nun 	yuki
-165	ice 	buz 	b’ice ++ m’ice	муз 	мөс 	umukʃu 	juhe 	eoleum 	koori
-166	smoke 	duman, tütün 	dunst	түтүн 	утаа 	ʃaŋŋan 	šanggiyan 	nae 	kemuri
-167	fire 	od 	HOT!!	от 	гал 	tɔɣɔ 	tuwa 	Bul < burn	Hi <> hotuwa
-168	ash 	kül 	gülle?	күл 	үнс 	uləptən 	fulenggi 	jae 	hai
-169	to burn (v.i.) 	yan- 	koch++  sHot …	күйгүз-, өрттө- 	шатах 	dalga- 	deiji- 	ta- 	moe-
-170	road 	yol 	jallah	жол 	зам 	ɔktɔ 	jugūn 	gil 	michi
-171	mountain 	dağ 	Dağ <> dar / tai = tall	тоо 	уул, таг 	urə 	alin 	me eondeog ('slope, incline; hill') 	yama
-172	red 	al, kızıl 	KIRSCH.al ++	кызыл 	улаан 	ʊla:rɪn 	fulgiyan 	bulg- ppalgah- 	aka
-173	green 	yeşil 	yelSAR	жашыл 	ногоон 	tʃuturin 	niowanggiyan 	pureu-/pureur-, parah- 	midori
-174	yellow 	sarı 	sarı™ sar=green 	сары 	шар 	ʃɪŋarɪn 	suwayan 	norah- 	ki
-175	white 	ak 	ash!	ак 	цагаан 	bagdarɪn 	šanyan 	hui- 	shiro
-176	black 	kara 	char.a	кара 	хар 	kɔŋnɔrɪn 	sahaliyan 	geom- 	kuro
-177	night 	gece 	<> gök!  𓐍𓆼	түн 	шөнө 	dɔlbɔ 	dobori 	bam 	yoru yo
-178	day 	gün 	<> sun	күн 	өдөр 	inəŋ 	inenggi 	nal ('day,	
-179	year 	yıl 	Year <> yeal ++	жыл 	жил 	aŋŋanɪ 	aniya 	hae 	toshi
-180	warm 	sıcak 	schwühls++	жылуу 	халуун, бүлээн 	ɲama 	bulukan, halukan 	ttatteut-ha- 	atataka-
-181	cold 	soğuk 	soak	суук 	хүйтэн, сэрүүн 	iŋin 	šahūrun 	cha- chagap-/chagaw- chup-/chuw- (of the weather) sig- ('to cool off') 	tsumeta- samu- (of the weather) same- ('to cool off') hie- ('to get cold')
-182	full 	dolu 	Doll ~ voll < dval, schwell ++	толук, толтура 	дүүрэн 	dʒalʊm 	jaluka 	cha- bureu-/bull- (of one's stomach) 	michi- ippai
-183	new 	yeni 	Yenew ++	жаңы 	шинэ 	irkəkin 	ice 	sae saerop-/saerow- 	atarashi- arata
-184	old 	eski 	Eskaldi = alt ++	эски; кары (people) 	хөгшин 	ʃagdɪ 	fe, sakda 	yes nalg- neulg- 	furu- ('old, used, worn') oi- ('to grow old, to age')
-185	good 	iyi 	AY,JA,SI ++	жакшы 	сайн 	aya 	sain 	joh- 	yo-, ii
-186	bad 	kötü 		жаман 	муу 	əru 	ehe 	nappeu- 	waru-
-187	rotten 	bozuk 	bug’d sauerig чирик ++	чирик 	ялзарсан 	nukuntʃa 	niyaha, ibtenehe 	sseog- 	kusar-
-188	dirty 	kirli 	<> khir=black ++	кир 	бохир, хиртэй 	bʊdʒar 	nantuhūn langse 	deoreop-/deoreow- 	kitana-
-189	straight 	düz 		түз 	шулуун 	tʃitʃur 	sijirhūn 	god- bareu-/ball- 	sugu
-190	round 	yuvarlak 	@	тегерек, тоголок, жумуру 	дугуй, дүгэриг 	boŋbəlin 	muheliyen 	dunggeul- 	maru-
-191	sharp 	keskin 		курч 	хурц 	əmər 	dacun, šulihun, šolonggo 	nalkarop-/nalkarow- 	surudo-
-192	dull 	kör (keskin değil) 		мокок 	мохоо 	mampa 	modo 	mudi- 	nibu-
-193	smooth 	düz 		тегиз 	гөлгөр 	burtʃurin 	necin, bišun 	maekkeureop-/maekkeureow- 	nameraka
-194	wet 	ıslak 	Lak <> aqua	ным 	нойтон 	wʊlapkʊn 	derbehun, usihin 	jeoj- 	nure-
-195	dry 	kuru 	кургак Karga qry dry 	кургак 	хуурай 	ɔlgɔkin, iləŋ 	olhon 	mareu-/mall- 	kawak-
-196	correct 	doğru (yanlış değil) 	d’agree ++	туура 	зөв 	tədʒə: 	acanaha, tob giyangga 	olh- bareu-/ball- olbareu-/olball- 	tadashi-
-197	near 	yakın 	<<	жакын 	ойр 	daga 	hanci, hamika 	gakkap-/gakkaw- 	chika-
-198	far 	uzak 	kozak?	алыс, ыраак, узак 	хол 	gɔrɔ 	goro 	meol- 	too-
-199	right 	sağ 		оң 	баруун 	a:n 	ici 	oreun bareun 	migi
-200	left 	sol 		сол 	зүүн 	dʒəyin 	has'hū 	oen 	hidari
-201	at 	-da/-de, -ta/-te 	++	-да (-де, -до, -дө; -та, -те, -то, -тө) 	-д, -т 		-de 	-eseo (with a place) -e (with a time) -ege, -kke, -hante (with an indirect object) 	-de (with a place) -ni (with a time or an indirect object)
-203	in 	-da/-de, -ta/-te 	𓏏	-да (-де, -до, -дө; -та, -те, -то, -тө) 	-д, -т 		dolo 	-eseo, an-eseo -e, an-e, sog-e -ro/-euro, an-euro 	-de, -no naka-de -ni, -no naka-ni
-204	with 	ile 	mon mit	менен 	хамт, -тай/-тэй/-той 		...i emgi, ...i sasa 	-hago, -gwa/-wa (comitative) -ro/-euro (instrumental) 	-to (comitative) -de (instrumental)
-206	and 	ve 	con~жана  ad da@slov	жана 	ба 		jai 	-hago, -gwa/-wa, geurigo 	-to soshite
-205	if 	eğer, şayet 	𓇋 𓂋	эгер, -са (-се, -со, сө) 	хэрэв 		aika, aikabade 	manyag(-e), -myeon 	moshi -nara -ba
-202	because 	çünkü 	since++	анткени, -гандыктан 	учраас 	dʒa:lin 	...jalin (+ de), ...be dahame, ...turgunde, adarame seci, ... 	ttaemun(-e) -ni/-euni -nikka/-eunikka -seo/-eoseo/-aseo 	-kara -tame -node
-207	name 	ad, isim 	gebu given.name, ad+res address	ат, ысым 	нэр 	gərbi 	gebu 	ireum 	na
+No 	English 	Turkish 	Eurasian	Kyrgyz (Cyrillic) 	Mongolian (Cyrillic) 	Oroqen (IPA) 	Manchu (MT) 	Korean (RRK) 	Kor PIE		Japanese (Hepburn romanization)												
+1	I 	ben 	me, bin	мен 	би 	bi: 	bi 	na jeo 	ana(I) je!		watakushi, watashi, atashi ware ore												
+2	you (sing.) 	sen 	sen, thine	сен, сиз 	чи 	ʃi: 	si 	neo geudae janae 	ni, youne		anata kimi omae												
+3	he 	o 	der, er!	ал 	тэр 	tarɪ, nɔ:nin 	i, tere 	geu 	ghe		kare												
+4	we 	biz 	we(s), mir	биз 	бид 	bu:, mir 	be, muse 	uri jeohui(deul) 	ware vri wir! 		watashitachi wareware orera												
+5	you (plural) 	siz 	ʃu 	силер, сиздер 	та 	ʃu 	suwe 	neohui(deul) 	ante ga/hui 𓈖𓏏 !!!		anatagata, kimitachi, omaera												
+6	they 	onlar 	on, leur, 	алар 	тэд нар 	nɔ:tɪn 	ce, tese 	geudeul 			karera												
+7	this 	bu 	ptu!	бул, бу, ушул, берки (this side), мобу 	энэ 	əri 	ere 	i 	(th)ee, ko*		kono (attr.), kore (subst.)												
+8	that 	o şu ki (relative pronoun) 	der	тиги, ошо, аркы (that side) 	тэр 	tarɪ 	tere 	geu (mesial) jeo (distal) 	ceu geu jeu sor there		sono (mesial), ano (distal) [attributive] sore (mesial), are (distal) [substantive]												
+9	here 	burada 	obar da! Bei ort (*rada!)	мында, бул жерде 	энд 	ədu 	uba 	yeogi 			koko												
+10	there 	orada 	ort	тиги/ошол жакта, тиги/ошол жерде, анда, тээ 	тэнд 	tadu 	tuba 	geogi (mesial) jeogi (distal) 			soko (mesial) asoko (distal)												
+11	who 	kim 	quim	ким 	хэн 	ni: 	we 	nugu nuga (nom.) 	nvgwho		dare												
+12	what 	ne 	phon, nar!	эмне, не 	юу 	ikun 	ai 	mueot 	Mwhat ++		nani												
+13	where 	nerede 	an ort	кайда, кана 	хаана 	ilə, idu 	yabade, aibide 	eodi 	wodenn?		doko												
+14	when 	ne zaman	in time, quan	качан 	хэзээ 	alɪ 	atanggi 	eonje 	whenje		itsu												
+15	how 	nasıl 		кандай, кантип 	яаж 	ɔ:n 	absi, adarame 	eotteohge, eojji 	howii 		ikani, ikaga dō												
+16	not 	değil 	Nu, na, anti! Mis, bis, dis	эмес, жок 	бус 	ə- 	waka, akū 	ani, an eops- 	ani!		-na-, -nu na- ('be not (in a certain place), have not')												
+17	all 	bütün, her 	pan, g’monde	баары, бардык, бүт, бүткүл 	бүх, бүтэн 	banbʊr ɔ:rin 	eiten gemu 	da modeun (attr.), modu (adv.) mojori mongttang joeda on, ontong 	Tout-de Monde!		subete mina												
+18	many 	çok 	manh- 	көп 	олон 	bara:n 	labdu geren 	manh- 	many		oo-												
+19	some 	bazı 	Peut ?	бир нече 	зарим 	adɪ: 	ememu ududu 	eotteon 			ikuraka (uncountable), ikutsuka (countable) nanraka							Number 	Sino-Korean cardinals 	Native Korean cardinals			
+20	few 	Az <> kʿičʿ ?	(f)ewz, some	аз 	хэдхэн, цөөхөн 	atʃʊkʊn 	komso 	jeog- jogeum, jom ('a few, a bit') 			sukuna- wazuka sukoshi ('a few, a bit')							Hanja 	Hangul 	Latin 	Hangul 	Latin	
+21	other 	diğer 	?	башка 	бусад 	oŋtu 	gūwa 	dareun 			hoka							0	零[1]/空 	영, 령, 공 	yeong, ryeong, gong 	— 	—
+22	one 	bir 	бир  first	бир 	нэг 	umun 	emu 	han (attr.), hana (subst.) 	hain		hito(tsu)	hersto (tzahl)	1	一 	ichi / いち 	hito(tsu) / ひと・つ 	ichi	1	一 	일 	il 	하나 	hana
+23	two 	iki 	secon, du!	эки 	хоёр 	dʒu:r 	juwe 	du (attr.), dul (subst.) 	duo		futa(tsu)	Zfueita 2.	2	二 	ni / に 	futa(tsu) / ふた・つ 	ni	2	二 	이 	i 	둘 	dul
+24	three 	üç 	thyrs, thres	үч 	гурав 	ɪlan 	ilan 	se (attr.), ses (subst.) 	Se > san		mit(tsu)	Mitte !	3	三 	san / さん 	mit(tsu) / みっ・つ 	san	3	三 	삼 	sam 	셋 	set
+25	four 	dört 	tetra, nau!	төрт 	дөрөв 	diyin 	duin 	ne (attr.), nes (subst.) 	nau---		yot(tsu)	Fhyot 4.	4	四 	shi / し 	yon, yot(tsu) / よん、よっ・つ 	yon	4	四 	사 	sa 	넷 	net
+26	five 	beş 	pent, peth	беш 	bəyə 	tʊŋŋa 	sunja 	daseos 	2+3		itsu(tsu)	Whole 5.	5	五 	go / ご 	itsu(tsu) / いつ・つ 	go	5	五 	오 	o 	다섯 	daseot
+	6							yeoseot	1-to-7			roku 𓇳	6	六 	roku / ろく 	mut(tsu) / むっ・つ 	roku	6	六 	육, 륙 	yuk, ryuk 	여섯 	yeoseot
+	7							ilgop	???			nanna 𓇸	7	七 	shichi / しち 	nana(tsu) / なな・つ 	nana	7	七 	칠 	chil 	일곱 	ilgop
+	8							Yeo.deol	------			(b)hacht!	8	八 	hachi / はち 	yat(tsu) / やっ・つ 	hachi	8	八 	팔 	pal 	여덟 	yeodeol
+	9							ahop				kyū  きゅう 	9	九 	ku, kyū / く, きゅう 	kokono(tsu) / ここの・つ 	kyū	9	九 	구 	gu 	아홉 	ahop
+	10							yeol	y’all ;)			tō / とお 10	10	十 	jū / じゅう 	tō / とお 	jū 	10	十 	십 	sip 	열 	yeol
+	100											Hyaku 100	100	百 	hyaku / ひゃく 	(momo / もも) 	hyaku						
+	1000											tau.send	1000	千 	sen / せん 	(chi / ち) 	sen						
+	10000											many	10000	万 	man / まん 	(yorozu / よろず) 	man 						
+27	big 	büyük 	Biiig, ample	чоң 	их, том, үлэг 	əgdiŋə 	amba 	keu- 	keur goroß		ooki-												
+28	long 	uzun 		узун 	урт 	ŋʊnʊm 	golmin 	gil- 	goliath		naga-												
+29	wide 	geniş 	¬eng!	кең 	өргөн 	əŋŋəl, aɣum, awam 	onco, letehun, leli 	neolb- 			hiro-												
+30	thick 	kalın 		калың 	өтгөн 	dɪram 	jiramin 	dukkeop-/dukkeow- gulg- jit- 	dick!		atsu- (of layers or depth) futo- (of diameter or circumference) ko-, koyu- (of concentration or density)												
+31	heavy 	ağır 	!	оор 	хүнд 	urgə 	ujen 	mugeop-/mugeow- 	mugha!		omo-	Ωmog											
+32	small 	küçük 	chiculn! 𓅱 nietsh!	кичине, кичинекей, чакан 	жижиг 	nitʃukun 	ajige 	jag- 	chjücsa 𓅱 		chīsa-	chīcsa 𓅱 											
+33	short 	kısa 	Kurz / chiculn!	кыска 	ахар, богино 	nəktəkun, wurumkun 	foholon (of length) fangkala (of height) 	jjalb- 	Shalb ~ shorbt		mijika- (of length) hiku- (of height)	micro heigh¬											
+34	narrow 	dar 	darben?	тар 	нарийхан 	ʃiləmkun 	hafirahūn, is'heliyen 	job- 	chopped		sema-	semi											
+35	thin 	ince 	~! winz 	ичке, жука 	шингэн 	nəmkun 	nekeliyen 	yalb- ganeul- ø yeolb- (color) mulg- 	halb, gelb!		usu- (of layers, depth, concentration, or density) hoso- (of diameter or circumference)												
+36	woman 	kadın 	girl, kardin:work, ische, amne	аял 	эм 	aʃɪ 	hehe 	gyejib 	gyne!		onna												
+37	man (male) 	er, erkek 	ER! < vir san~sir	эркек 	эр 	ɲɪray 	haha   HERR	sanai, sanae 	senior, saram!		otoko												
+38	man (human being) 	kişi киши адам	<<	хүн, хүмүүн 	bəyə 	niyalma 	saram nam ('another person, other people') nom ('guy') 	hito	siram, nam~man!														
+39	child 	çocuk 	chiculn! 𓅱 	бала 	хүүхэд 	kɔ:kan 	jui 	ai, ae eorini 	chai’    孩子 háizi		ko	𓐍 𓏤 𓀔											
+40	wife 	karı (eş) 	girl, kardin	аял, катын 	хань, авгай 	atɪrkan 	sargan 	anae 	Anne™		tsuma												
+41	husband 	koca (eş) 	HusHer?	күйөө, эр 	нөхөр 	ətirkən 	eigen 	sanae ('man') nampyeon (< Chinese) 	senior, mnamn!		otto	;)											
+42	mother 	anne 	ana, ama	эне, апа 	эх, ээж 	ənin 	eme, eniye 	eomeoni 			haha (hehe = woman)												
+43	father 	baba 	papa, vata ! VS AMA!	ата 	эцэг, аав 	amɪn 	ama 	abeoji 			chichi												
+44	animal 	hayvan 		жаныбар, айбан, аң 	амьтан 	bəyiŋə 	aššara jaka, ergengge (living things) 	jimseung 衆生 	 gene 眾𓋹 zoong 生		kemono, kedamono	common𓊃|											
+45	fish 	balık 	bei.lake (l’aqua) !! uralic!	балык 	загас 	ɔlɔ 	nimaha 	mulkkogi 	/		uo, io sakana												
+46	bird 	kuş 	cuch! 𓅱 	куш 	шувуу 	tʃinəkə 	gas'ha ('large bird, fowl') cecike ('small bird, songbird') 	sae 	Tier ←		Tori !!	tyr *ɸatar txori թռչուն tchirp طير‎, عصفور‎  ṭayr											
+47	dog 	it, köpek 	Hunt : ит ! Köter 	ит 	нохой 	ŋanakin 	indahūn 	gae 	guon		inu												
+48	louse 	bit 	bit ~ beetle!	бит 	хуурс, бөөс 	kuŋkə: 	cihe 	i 			shirami	krumm!!											
+49	snake 	yılan 	schlange!! kʊlɪn  curlen	жылан 	могой 	kʊlɪn 	meihe 	baem 	hebim?		hebi mi (Chinese zodiac)												
+50	worm 	kurt 	Curled !	курт 	өт 	kʊlikan 	umiyaha 	beolle ('bug') jireong'i ('earthworm') 			mushi ('bug') mimizu ('earthworm')												
+51	tree 	ağaç 	Mwood ++, borke	бак, жыгач (wood) 	мод 	mɔ: 	moo, hailan 	namu 	na? 木 mù		ki												
+52	forest 	orman 	mùs 木	токой 	ой 	mɔ:ʃa 	bujan, weji 	sup 			mori	木 mù moor 											
+53	stick 	değnek, çubuk (rod) 	мод 木	таяк, чыбык 	мод 	lata 	mukšan 	makdaegi 			bō (< Chinese 棒 bàng) tsue ('walking stick')												
+54	fruit 	yemiş meyve (Persian) 		жемиш 	жимс 	tubiɣə 	tubihe 	yeolmae 	pota!		kudamono mi												
+55	seed 	tohum tane (Persian) 	𓂋 !!!	урук, үрөн 	үр 	urə 	use 	ssi 	Ssieed ++		tane mi												
+56	leaf 	yaprak 	𓌾 	жалбырак 	навч 	abdana 	abdaha 	ip 	al’iph leaf!		ha												
+57	root 	kök 		тамыр 	уг, үндэс 	təkən 	fulehe, da 	ppuri 	bury?  本 běne		ne	本 běnée !											
+58	bark 	kabuk 	*karbe кора (kora) barka	кабык 	хуцалт, холтос 	kə:rə, talu 	notho 	kkeopjil 	*karberk кора 		kawa	++ cover+++											
+59	flower 	çiçek 	Sisil <<	гүл 	цэцэг 	ɪlga, ɲandʒa 	ilha 	kkoch 	花儿 huār 		hana	花 huāna											
+60	grass 	ot 	cUT, ?	чөп 	өвс 	ɔrɔktɔ 	orho 	pul 			kusa	kraussa											
+61	rope 	ip 	𓎛 	аркан 	олс 	uʃikən, ʊrkʊn 	futa 	batjul 			nawa												
+62	skin 	ten, deri 	derma++	тери 	арьс 	nana, ilə 	sukū 	salkkach gajug 	sukūn! 		hada kawa	Haut cover!											
+63	meat 	et 	meat! Мах/эт	эт 	мах, хоол 	ulə 	yali 	sal gogi 			niku (< Chinese 肉 ròu) shishi												
+64	blood 	kan 	sang!	кан 	цус, угсаа 	ʃə:kʃə 	senggi 	pi 	pi.lad blood ½ 		chi												
+65	bone 	kemik 		сөөк 	яс 	gɪramna 	giranggi 	ppyeo 	Ppyeon ~ bone		hone	Bhone ++											
+66	fat (noun) 	yağ 	yog(hurt)	май 	(өөх) тос 	imukʃə 	tarhūn 	gireum 	yoghur!		abura												
+67	egg 	yumurta 	<< ¬murt?	жумуртка 	өндөг 	ʊmʊkta 	umhan 	al 	algg		tamago	tar𓅓eggo											
+68	horn 	boynuz 		мүйүз 	эвэр, бүрээ 	i:gə 	uihe 	ppul 			tsuno	Zahn											
+69	tail 	kuyruk 	<> curl?	куйрук 	сүүл, гэзэг 	irgi 	uncehen 	kkori kkorangji kkongji kkongmuni 			o shippo												
+70	feather 	tüy 	tail! toll@ural	жүн 	өд 	ʃuptʃu 	dethe, funggala 	gis 			hane												
+71	hair 	kıl (in general) saç (of the head) 	sack	түк (in general) чач (of the head) 	үс 	ɲuriktə 	funiyehe 	teol (in general) meori (of the head) 	tail, mähne 毛 máori 		ke (in general) kami (of the head)	kHer 𓎛 Kamm 𓆎											
+72	head 	baş, kafa , төбө	boss! Kopf++ TOP!	баш 	толгой 	dɪl 	uju 	meori 	毛 máo.Ris!		atama kashira kōbe	Kōbe = Kopf											
+73	ear 	kulak 	Khoures ++	кулак 	чих 	ʃɛ:n 	šan 	gwi 	Gwear / dhear! ++		mimi												
+74	eye 	göz 	gaze ogeyes!	көз 	нүд 	yɛ:ʃa 	yasa 	nun 			me	meye											
+75	nose 	burun 	hana~nasha	мурун 	хамар 	ɔŋɔktɔ 	oforo 	ko  𓋴𓈖𓂉  	konase  𓐍𓈖𓏏𓂉		hana	hanase											
+76	mouth 	ağız 	𓂋 !!! am/os	ооз 	ам 	amŋa 	angga 	ib 	al’iph Lippe		kuchi												
+77	tooth 	diş 	Teeth +++	тиш 	шүд 	iktə 	weihe 	i 	(z)ain		ha	(z)hain											
+78	tongue 	dil 	D << ++	тил 	хэл 	iŋi 	ilenggu 	hyeo 	(z)hyeong		shita	舌头 shétou											
+79	fingernail 	tırnak 	tir.nagel	тырмак 	хумс 	ʊʃɪkta 	hitahūn 	sontob 			tsume												
+80	foot 	ayak 	bethe 𓃀 bal al.gan 𓃀 аяк ferse? 	аяк 	хөл 	algan 	bethe 	bal 	bethe 𓃀 bal, boot!!		ashi												
+81	leg 	bacak 	bacak! 𓃀	бут 	хөл 	algan 	bethe 	dari 	darich~direc(tion),reg		ashi												
+82	knee 	diz 	térd@hun 	тизе 	өвдөг 	əŋŋən 	tobgiya 	mureup 			hiza	knhiza											
+83	hand 	el, kol (arm) 	Elle, Garbel	кол 	гар 	ŋa:la 	gala, falanggū (palm of the hand) 	son 	手 shǒun.de		te												
+84	wing 	kanat 	qwingas!! кан~qwan!	канат 	далавч 	dəktilə, aʃakɪ: 	as'ha 	nalgae 	???		tsubasa hane												
+85	belly 	karın 	𓄡 črěvo coeur-sack!	курсак, ич 	гэдэс 	gudə: 	hefeli 	bae 	belly+		hara	chara 𓄡 !?!											
+86	guts 	bağırsak 	bags+ sacks	ичеги 	гэдэс 	ʃɪlʊkta 	duha 	ae 	aeinner?		wata												
+87	neck 	boyun 	neck nɪkɪmna 	моюн 	хүзүү 	nɪkɪmna 	monggon, gen 	mog 	nack(en)		kubi	kopp^^											
+88	back 	arka, sırt 	ARC!	арка 	ар, нуруу 	ʃɔgdɔnɔ 	fisa 	deung  𓂧 𓈖  Damm!	dumo@Romani Dinda		se												
+89	breast 	meme, göğüs 	mamma chestum!	көкүрөк ('chest') эмчек ('breast') 	мээм, хөх 	ukun 	tunggen (chest) huhun (breasts) 	gaseum ('chest') jeoj ('breast') 	gaseum ('chest')		mune ('chest') chichi ('breast')	mamma, chest											
+90	heart 	yürek 	coeur сүрэх ++	жүрөк 	зүрх 	mɛɣan 	niyaman 	yeomtong 	som 𓄥		shinzō (心臟 ) kokoro (mind')	coeuro!											
+91	liver 	karaciğer 	liBoor	боор 	элэг 	a:kin 	fahūn 	gan (< Chinese 肝 'liver') 	𓎬 ♀𓋹 生 gen/san		kanzō (< Chinese 肝臟 'hepatic organ') kimo	𓎬 ♀𓋹 生 gen/zoon											
+92	to drink 	içmek 	…make! 𓂋 Nomnom;)	ич- 	уух 	um- 	omi- 	masi- 	m’esse;)		nom-	Nomnom ;)											
+93	to eat 	yemek 	…make!	же- 	идэх 	dʒəb- 	je-/jefu ('eat!') 	meog- 	messe, möge		kuw- tabe- (‘to have')	kauw, to’habe!!!											
+94	to bite 	ısırmak 	Ыт bisser make! snack	тиште- 	урах, хазах 	kɪk- 	sai- 	mul- 	maul!		kam-	kauem											
+95	to suck 	emmek 	mamma	эм-, сор- 	хөхөх 	lʊpkʊ- 	goci- 	ppal- 	---		suw-	suwck!											
+96	to spit 	tükürmek 	…make!	түкүр- 	нулимах 	tə: 	cifele- 	baet- 	beat, part!		hak-	hack!											
+97	to vomit 	kusmak 	kotz…make! ++	кус- 	бөөлжих 	iʃə- 	fuyakiya-, oksi-, juru- 	ge'u- 			hak-	hackotz!											
+98	to blow 	esmek, üflemek 		үйлө- 	үлээх 	u:- 	fulgiye- 	bul- 	Bulow ~ blow		fuk-												
+99	to breathe 	soluk almak, nefes almak 	aдем atem ++	дем ал- 	амьсгалах 	əri:- 	ergen gai- 	(sum)swi- 			iki-o suru												
+100	to laugh 	gülmek 	jol, күл kill;)	күл-, каткыр- 	инээх, хөхрөх 	iɲə- 	inje- 	us- 			waraw-												
+101	to see 	görmek 	eygör! Sseeh үзэх 	көр- 	үзэх 	itʃə- 	sabu- 	bo- 	voy		mi-	moy											
+103	to hear 	duymak 	s’Dm!	ук- 	сонсох, дуулах 	dɔ:ldi- 	donji- 	deut-/deur- 	dhear!		kik-												
+104	to know 	bilmek 	saba! Savoir	бил- 	мэдэх 	ʃa:- 	sa- 	al- 			shir-	scir™											
+106	to think 	düşünmek 	Şün saengga think!!!	ойло- 	бодох 	bɔdɔ- 	gūni-, bodo- 	saenggak-ha- 	δenkek		omow-	Omm omown.ta 											
+105	to smell 	koklamak 		жытта- 	үнэрлэх 	ŋɔkɔ- 	wangkiya- 	mat- ('to sense (a smell)') punggi- ('to emit (a smell)') 	Mat?? pugnant!		kag- ('to sense a smell, to sniff') niow- ('to emit a smell')												
+102	to fear 	korkmak 	<<	корк- 	айх 		gele- olho- golo- 	duryeowo ha- museowo ha- 			osore- kowagar-												
+107	to sleep 	uyumak 	haia,nickt ++	укта- 	унтах, нойрсох 	a:ʃɪn- 	amga- šabura- 	ja- 			nemur- ne-	née											
+108	to live 	yaşamak 	Yashen <<	жаша- 	амьдрах 	i:nikin 	banji- 	sal- 	𓋹 生 san/salive!		iki-												
+109	to die 	ölmek 	mör→öl? Old	өл- 	үхэх 	bu- 	buce- 	jug- 			shin-	尸 shī scheiden	++										
+110	to kill 	öldürmek 	old!	өлтүр- 	алах 	wa:- 	wa- 	jugi- 			koros-	⛰ cair<>keil/kill	++										
+111	to fight 	savaşmak 	warus++ vuruşmaq,döyüşmək 	согуш-, мушташ- 	байлдах, зодолдох 	wa:ldɪ- 	afa- 	ssau- 	<>		tatakaw-	<>											
+112	to hunt 	avlamak 	abala- 	уула- 	авлах 	bəyu:- 	abala- 	Sanyang-ga/ha 山行 sanhaeng 	山 Schuntze-go ⛰ 		kar-	⛰ 	++										
+113	to hit 	vurmak, patlamak, согар	beatle, charge	ур-, сок- 	цохих, балбах 	mʊnda:- 	tanta- 	chi- ttaeri- dudeuri- galgi- 			ut-, but- uchitsuke-, buttsuke-, butsuke- tatak-, hatak- nagur- tsuk- atar- (v.i.), ate- (v.t.)	beat 	++										
+114	to cut 	kesmek 	Кес ~ cut	кес-, кырк-, тил- 	огтлох, хэсэглэх 	dʒig- 	faita- furu- 	be- jareu-/jall- 			kir- tat- kar- nag-	carve! Notch tcat	++-										
+115	to split 	yarmak 	yaw!	бөл-, ажырат-, жар- (of firewood) 	хагалах, ярах 	i:wə:- 	delhebu- dendebu- 	gareu-/gall- 	Gwar-  < gpar!		war-												
+116	to stab 	batırmak 	Bat! <> beat, push	сай- 	хутгалах, шаах 	gɪdala:- 	toko- gidala- (with a spear) huwesile- (with a dagger) 	jjireu-/jjill- 			sas- tsuk-												
+117	to scratch 	tırnamak çizmek 		тырма- 	маажих 	ʊkɪ:- 	waša- wasihala- 	geulg- halkwi- 	chalkwi 𓈔		kak-	kalk 𓈔											
+118	to dig 	kazmak 	Kaspian, kratz, carve	каз- 	малтах ухах 	ulə:- 	fete- 	pa- 			hor-	√chorve											
+119	to swim 	yüzmek 	<> juice!	сүз- 	сэлэх 	əlbi- 	ebiše- muke selbi- 	he- 			oyog-												
+120	to fly 	uçmak 		уч- 	нисэх 	dəyli- dəg- 	deye- 	nal- 			tob-												
+121	to walk 	yürümek 	jire++	бас- 	алхах 	girani- 	okso- yabu- 	geot-/geor- 			aruk-	airukgo!											
+122	to come 	gelmek 	kel,ko’ +	кел- 	ирэх 	əmə- 	ji- 	o- 	(c)o!		ko-, ku-	co’me											
+123	to lie 	yatmak 	shut	жат- 	хэвтэх 	ulə:- 	dedu- 	nup-/nuw- 	noptial nove 𓂉		ne- yokotawar-												
+124	to sit 	oturmak 	<<>> 	отур- 	суух 	tə: 	te- 	anj- 	hinsi.te		suwar-												
+125	to stand 	durmak 	Dura, turm!! ++	тур- 	зогсох 	ɪlɪ- 	ili- 	seo- 	steo		tat-	Stat! ++											
+126	to turn 	dönmek 	turn.make  бур+dön QED	бур-, бурул- 	эргэх 	ukukin- 	forgošo- 	dol- 	Dor ~ turn		mawar-												
+127	to fall 	düşmek 	dussel, kill <<	кула-, түш-, жыгыл- 	унах 	tik- 	tuhe- 	tteoleoji- 	fteol		ochi-												
+128	to give 	vermek 	fair, dar, poner	бер- 	өгөх 	bu:- 	bu- 	ju- 			okur- yar- kure- age- kudasar- tamaw- atae-												
+129	to hold 	tutmak 	grab++	карма- 	барих 	dʒɔ:tʃa- 	jafa- 	jab- deul- gaji- 	geb dar		mot-												
+130	to squeeze 	ezmek 	sq.ez	сык- 	шахах 	ʃir- 	hafita- 	jja- 			shibor- shime- mom-												
+131	to rub 	ovmak 	oýka<>eyes qed	ышкы-, укала- 	үрэх 	iki- 	monji-, monjira- 	munjireu-/munjill- 			sur- kosur- nasur- mom-												
+132	to wash 	yıkamak 	jew!  ýuwmak 	жуу- 	угаах 	ʃɪlkɪ- 	obo- 	ppal- ssis- 			araw-												
+133	to wipe 	silmek 	wish+  awʊ- fu	аарчы-, сүрт- 	арчих 	awʊ- 	fu- (loanword from Chinese?) mabula- 	dakk- humchi- 			fuk- nuguw-												
+134	to pull 	çekmek 	Track, Tata <> tau?	тарт-, чой- 	татах 	ta:n- 	tata- 	kkeul- 			hik-												
+135	to push 	itmek 	treat? An	түрт- 	түлхэх, чихэх 	ana- 	ana- 	mil- 			os-												
+136	to throw 	atmak 		ыргыт-, ташта- 	хаях, шидэх 	garʊnda:- 	makta- waliyabu- 	deonji- 			nage-												
+137	to tie 	bağlamak 	<< burgle … ?	байла- 	уях, баглах 	u:yi-, ərkə- 	huthu- hūwaita- 	mae- 			musub-												
+138	to sew 	dikmek 	Tack! Stick ++	тик- 	оёх, хадах 	uli:- 	ufi- 	gip-/giw- 			nuw-												
+139	to count 	saymak 	say~ zähl ~count ~сана total !!	сана- 	тоолох 	taŋ- 	tolo- 	se- 	Zähl <> scri`		kazoe-												
+140	to say 	söylemek 	say~söy~sell!	айт-, де- 	хэлэх, өгүүлэх 	un-, gun- 	hendu- gisure- se- 	mal-ha- ha- 	maul!		iw- mōs- (polite) mōshiage- (humble) osshar- (colloquial honorific) notamaw- (colloquial sarcastic honorific or literary honorific)												
+141	to sing 	şarkı söylemek 	Ucule-le ;)	ырда- 	дуулах 	dʒa:nda- 	ucule- 	norae-ha- 			utaw-												
+142	to play 	oynamak 	𓏠! n-m-k / g-m-n	ойно- 	наадах, тоглох 	əwi- 	efi- 	nol- 	null?		asob-												
+143	to float 	yüzmek 	fließ	калкы- 	хөвөх 	kəpə:n- 	dekde- 	tteu- 			uk-												
+144	to flow 	akmak 	aqua++	ак- 	урсах 	əyə:- 	eye- 	heureu-/heull- 			nagare-	nagar~swim!	+++										
+145	to freeze 	donmak 	≠tauen	тоң- 	хөлдөх 	dɔŋɔtɔ- 	gece- juhe jafa- 	eol- 	eils		koor- ite- kogoe-	kyro@kor	+++										
+146	to swell 	şişmek 	шиши swell!!	шиши- 	хөөх, хавдах 	awul 	aibi- dukdure- 	but-/bu- bupul- 	brut, burst boppel ;)	+:)	fukuram- fukure- hare-												
+147	SUN!!!	güneş 	Gün šun ʃiwun SUN / HEL 	күн  sun!   𐬓𐬇𐬧𐬔‎ xᵛə̄ṇg	1. HEL 2. NAPO	dɪlatʃa, ʃiwun 	šun 	hae 	HEL	+++	hi	HEL	+++										
+148	moON	ay 	lun al.ай moon ma.ай biga:god!?	ай 	сар 	bɛga 	biya 	dal 	多 duōl <> mount !	++<	tsuki	--											
+149	star 	yıldız 	<> gild!	жылдыз 	од 	ɔʃɪkta 	usiha 	byeol 	ball, bhyel	++<	hoshi	hastra hoshine	++<										
+150	water 	su 	mwuca wasser	суу 	ус 	mu: 	muke 	mul 	mwar𓈗ta @ maul	++<	mizu	𓈗𓄟𓄠𓋤  mnässe	++										
+151	rain 	yağmur 	yaqua pour бороо 	жамгыр, жаан 	бороо 	tigdə 	aga 	bi 	Bi ⾬ Bian 𖧂𖧂 !! pleuvir	++<	ame												
+152	river 	ırmak 	bhitra bira kawa aqua	дарыя, өзөн 	гол 	bira 	bira ula 	nae 	nau++	+++	kawa	Aqva kawa.shui gewásser  	+++										
+153	lake 	göl 	Kuhle!	көл 	нуур 	amʊdʒi 	omo tenggin noor 	mos 	𓈗𓄟𓄠𓋤  mnässe moos moor	+-	mizuumi	𓈗𓄟𓄠𓋤  mnässe											
+154	sea 	deniz 	DONac	деңиз 	далай, тэнгис 	dalay 	mederi namu 	bada 	bad𓈗bvata 	+++	umi												
+155	salt 	tuz 	Thyssand? <> tozan 1000-sand!	туз 	давс 	dɔ:sun, katagan 	dabsun 	sogeum 	Sargom ~ salz	+-	shio	Shio @ shui/shaliz											
+156	stone 	taş 	Dash T-s / s-t ++	таш 	чулуу 	dʒɔlɔ 	wehe 	dol 	Dolmen! 𓊌𓈚𓈛𓈜𓏠 таш 	+++	ishi	石shí											
+157	sand 	kum 	Krüm.el ++	кум 	элс 	ʃirgi 	yonggan 	morae 	moor/maur=desert!	+++	suna	sunad											
+158	dust 	toz 	Dust ++	чаң, тоз 	тоос 	tɔ:rag 	buraki 	meonji 	mansch;)		chiri hokori												
+159	earth 	toprak 	Terr.as +++	топурак 	дэлхий, товрог, этүгэн 	tʊkala 	na 	heulg 	Soil / ghorg	+-	tsuchi												
+160	cloud 	bulut 	Pquloud!! <<	булут 	үүл 	tukʃu 	tugi 	gureum 	Gur = 𓈎 𓂋 𓂋 𓊡	+++	kumo	kumulus	+++										
+161	fog 	sis, duman (smoke) 	dunst	туман 	манан, будан 	tamna 	talman 	angae 	Angel ;) ---		kiri												
+162	SKY	gök! 	𓇯 𓎟 kak=all@	көк, асман 	огторгуй, хөх тэнгэр 	bʊwa 	abka 	haneul 	HIMEUL HANEUL	+++	sora	skyra 𓇶 !!											
+163	wind 	yel 	Schumal <<	шамал, жел 	салхи 	ədin 	edun 	baram 	bar.am		kaze	kaspi?											
+164	snow 	kar 	Kryo@kar ++	кар 	цас 	ɪmana 	nimanggi 	nun 	snown 𓈖 		yuki												
+165	ice 	buz 	b’ice ++ m’ice	муз 	мөс 	umukʃu 	juhe 	eoleum 	oileum		koori	kyro!											
+166	smoke 	duman, tütün 	dunst	түтүн 	утаа 	ʃaŋŋan 	šanggiyan 	nae 			kemuri												
+167	fire 	od 	HOT!!	от 	гал 	tɔɣɔ 	tuwa 	Bul < burn	Bul < burn, bhyro	++	Hi <> hotuwa												
+168	ash 	kül 	gülle?	күл 	үнс 	uləptən 	fulenggi 	jae 	Haijae < heiz	++	hai	heiz											
+169	to burn (v.i.) 	yan- 	koch++  sHot …	күйгүз-, өрттө- 	шатах 	dalga- 	deiji- 	ta- 	√hotta hotata!!	++	moe-												
+170	road 	yol 	jallah	жол 	зам 	ɔktɔ 	jugūn 	gil 	giro.de +++ 𒆜	++	michi												
+171	mountain 	dağ 	Dağ <> dar / tai = tall	тоо 	уул, таг 	urə 	alin 	me eondeog ('slope, incline; hill') 	<<		yama™	𓇺!! yamount											
+172	red 	al, kızıl 	KIRSCH.al ++	кызыл 	улаан 	ʊla:rɪn 	fulgiyan 	bulg- ppalgah- 	Bull-color! Falk?		aka												
+173	green 	yeşil 	yelSAR	жашыл 	ногоон 	tʃuturin 	niowanggiyan 	pureu-/pureur-, parah- 	pure (copper) para.dies		midori												
+174	yellow 	sarı 	sarı™ sar=green 	сары 	шар 	ʃɪŋarɪn 	suwayan 	norah- 	¬🌣 	+-	ki	kyr 𓋞 											
+175	white 	ak 	ash!	ак 	цагаан 	bagdarɪn 	šanyan 	hui- 	whui.de! Hell^^	++	shiro	shiro skyra  𓇶											
+176	black 	kara 	char.a	кара 	хар 	kɔŋnɔrɪn 	sahaliyan 	geom- 	𓐍	++-	kuro	(ne)𓐍kara	+++										
+177	night 	gece 	<> gök!  𓐍𓆼	түн 	шөнө 	dɔlbɔ 	dobori 	bam 	¬beam –		yoru yo	Yuer <> year 月 yuè											
+178	day 	gün 	<> sun	күн 	өдөр 	inəŋ 	inenggi 	nal ('day,		<<<													
+179	year 	yıl 	Year <> yeal ++	жыл 	жил 	aŋŋanɪ 	aniya 	hae 	Yhear 2. nyean 年 nián	++	toshi												
+180	warm 	sıcak 	schwühls++	жылуу 	халуун, бүлээн 	ɲama 	bulukan, halukan 	ttatteut-ha- 	hotta	+-™	atataka-	hotataka											
+181	cold 	soğuk 	soak	суук 	хүйтэн, сэрүүн 	iŋin 	šahūrun 	cha- chagap-/chagaw- chup-/chuw- (of the weather) sig- ('to cool off') 	chill chold	++	tsumeta- samu- (of the weather) same- ('to cool off') hie- ('to get cold')												
+182	full 	dolu 	Doll ~ voll < dval, schwell ++	толук, толтура 	дүүрэн 	dʒalʊm 	jaluka 	cha- bureu-/bull- (of one's stomach) 	chaque bull~full++	+++	michi- ippai												
+183	new 	yeni 	Yenew ++	жаңы 	шинэ 	irkəkin 	ice 	sae saerop-/saerow- 	sehr=gut/neu/viel 	++™	atarashi- arata												
+184	old 	eski 	Eskaldi = alt ++	эски; кары (people) 	хөгшин 	ʃagdɪ 	fe, sakda 	yes nalg- neulg- 	years, nyean 年 nián	+++	furu- ('old, used, worn') oi- ('to grow old, to age')	furie, fhier!, vuru=ALT (v)oi~OLD!											
+185	good 	iyi 	AY,JA,SI ++	жакшы 	сайн 	aya 	sain 	joh- 	Joy ~ EU	++	yo-, ii	Joy ~ EU											
+186	bad 	kötü 		жаман 	муу 	əru 	ehe 	nappeu- 	na’ppeu ¬¬不  pfui (^^eops)	++	waru-	weary											
+187	rotten 	bozuk 	bug’d sauerig чирик ++	чирик 	ялзарсан 	nukuntʃa 	niyaha, ibtenehe 	sseog- 	suck;)	;)	kusar-												
+188	dirty 	kirli 	<> khir=black ++	кир 	бохир, хиртэй 	bʊdʒar 	nantuhūn langse 	deoreop-/deoreow- 	Dirty ~ deor-wty	++	kitana-												
+189	straight 	düz 		түз 	шулуун 	tʃitʃur 	sijirhūn 	god- bareu-/ball- 	god! (gut/go-right)	++	sugu												
+190	round 	yuvarlak 	@	тегерек, тоголок, жумуру 	дугуй, дүгэриг 	boŋbəlin 	muheliyen 	dunggeul- 	♀ dvanger 𒀭 	++	maru-	marund 𓈗											
+191	sharp 	keskin 		курч 	хурц 	əmər 	dacun, šulihun, šolonggo 	nalkarop-/nalkarow- 	Null-karo		surudo-	surudo~sharpdo											
+192	dull 	kör (keskin değil) 		мокок 	мохоо 	mampa 	modo 	mudi- 	mute	+-	nibu-												
+193	smooth 	düz 		тегиз 	гөлгөр 	burtʃurin 	necin, bišun 	maekkeureop-/maekkeureow- 	me¬kero~meraka:		nameraka												
+194	wet 	ıslak 	Lak <> aqua	ным 	нойтон 	wʊlapkʊn 	derbehun, usihin 	jeoj- 	Feucht ~ jeoj-		nure-	naur 𓈖											
+195	dry 	kuru 	кургак Karga qry dry 	кургак 	хуурай 	ɔlgɔkin, iləŋ 	olhon 	mareu-/mall- 	𓈗 mull 𓂜 		kawak-												
+196	correct 	doğru (yanlış değil) 	d’agree ++	туура 	зөв 	tədʒə: 	acanaha, tob giyangga 	olh- bareu-/ball- olbareu-/olball- 			tadashi-												
+197	near 	yakın 	<<	жакын 	ойр 	daga 	hanci, hamika 	gakkap-/gakkaw- 			chika-												
+198	far 	uzak 	kozak?	алыс, ыраак, узак 	хол 	gɔrɔ 	goro 	meol- 	𓈗 mvar muli		too-												
+199	right 	sağ 		оң 	баруун 	a:n 	ici 	oreun bareun 			migi												
+200	left 	sol 		сол 	зүүн 	dʒəyin 	has'hū 	oen 			hidari												
+201	at 	-da/-de, -ta/-te 	++	-да (-де, -до, -дө; -та, -те, -то, -тө) 	-д, -т 		-de 	-eseo (with a place) -e (with a time) -ege, -kke, -hante (with an indirect object) 	atho -a -e -ecke -hante 	++++	-de (with a place) -ni (with a time or an indirect object)												
+203	in 	-da/-de, -ta/-te 	𓏏	-да (-де, -до, -дө; -та, -те, -то, -тө) 	-д, -т 		dolo 	-eseo, an-eseo -e, an-e, sog-e -ro/-euro, an-euro 	𓂋ro/euro in-a zugegen In-esse 	++++	-de, -no naka-de -ni, -no naka-ni												
+204	with 	ile 	mon mit	менен 	хамт, -тай/-тэй/-той 		...i emgi, ...i sasa 	-hago, -gwa/-wa (comitative) -ro/-euro (instrumental) 	Gwan, hagon (con) 𓂋ro/euro 	++	-to (comitative) -de (instrumental)												
+206	and 	ve 	con~жана  ad da@slov	жана 	ба 		jai 	-hago, -gwa/-wa, geurigo 	Gwan, hagon (con) 𓂋geuro 		-to soshite												
+205	if 	eğer, şayet 	𓇋 𓂋	эгер, -са (-се, -со, сө) 	хэрэв 		aika, aikabade 	manyag(-e), -myeon 	<<<		moshi -nara -ba												
+202	because 	çünkü 	since++	анткени, -гандыктан 	учраас 	dʒa:lin 	...jalin (+ de), ...be dahame, ...turgunde, adarame seci, ... 	ttaemun(-e) -ni/-euni -nikka/-eunikka -seo/-eoseo/-aseo 	da.man ^^ so…		-kara -tame -node	car!! tam=denn	+++										
+207	name 	ad, isim 	gebu given.name, ad+res address	ат, ысым 	нэр 	gərbi 	gebu 	ireum 	𓂋𓅓 REIM	++++	na												
+									曰 yuē 														

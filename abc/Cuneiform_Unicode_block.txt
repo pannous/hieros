@@ -1,3 +1,4 @@
+https://en.wiktionary.org/wiki/Appendix:Unicode/Cuneiform
 https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒀀 	U+12000 	A 	839 	579 	
 𒀁 	U+12001 	A x A 	845 	583 	EDURU

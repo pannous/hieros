@@ -4,6 +4,27 @@
 א ב  כך טטד	הע וףפב  ג      חה  י וי קכך ל מם נןמ   אוסע פףר  ק גר סצץש דתחט עו וב וו סכ ייוע  זצז  ש
 α βv γΓ δסτ ηε ηfζ Γγרלλע  ηחθ ι υ  κ  λ μ  νυuvη ωοπ πφρ ξρ Γρ σςύώ τπυσ  υ υ ω χ  υעy τζז	 ψש 
 
+
+0 		nihil
+1 	I 	ūnus
+2 	II 	duo
+3 	III 	trēs
+4 	IV 	quattuor
+5 	V 	quīnque
+6 	VI 	sex
+7 	VII 	septem
+8 	VIII 	octō
+9 	IX 	novem
+10 	X 	decem
+16 	XVI 	sēdecim
+17 	XVII 	septendecim
+18 	XVIII 	duodēvīgintī
+19 	XIX 	ūndēvīgintī
+10 	X 	decem/gintī ↔ centi
+20 	XX 	[t]vīgintī
+30 	XXX 	trīgintā
+100 	C 	centum
+
 http://www.omniglot.com/language/colours/multilingual.ht
 
 венгерский
@@ -341,6 +362,8 @@ Germanic/līką : body Lithuanian lygus
 lich/lych Dutch lijk, German Leiche, Norwegian lik, Swedish lik, Danish lig., FroschLaich lac FroschGeLege | Leche(Milk) ↔ MoorLoch?? lake MilchSee?? ↔ lynch 1835, from Lynch law --
 
 AAA
+ATTICA HattiKar = 𒌷𒄩𒀜𒌅𒊭 Ḫattuša Ḫa-at-tu-ša 𒊭=𓊖 OK! ghAttikar!!! Attica Αττική Antike antiquus <> equus!
+Attica : Hatti ~ Bretagne : Brittain
 Amt		ADMin
 andro die Anderen™ anērān, meaning "non-Iran(ian)"
 -tion	-ation -action!
@@ -372,6 +395,8 @@ Anatolia	HannaTauria Hannah-Kattahha~Katharina @ Hatti 2 cats! *IM *OM *M Ohma �
 Anna		kommt von dem Vornamen Hannah und bedeutet „Die Begnadete“
 Andreas		Ανδρέας „Der Erstberufene“ ↔ Andros anthropo nTr ! Indra!
 accident	-> accidō ‎(“happen”); 	ad ‎(“to”) + cadō ‎(“fall”)   cedo “go” SIT 
+ancient  ante-essent
+ancestor ante-estor  ancientor
 Axa,Aga,Acha,Orga,...   siehe oben
 München		erstmaligen urkundlichen Erwähnung im Augsburger Schied 1158  Petersbergl  Schäftlarn Michaelskirche Monaco (di Baviera) 
 aber		abīre
@@ -389,6 +414,9 @@ attack	 attach << a'stakka (“stick”) / a'touch	ⲁⲧϯⲁⲥⲟ 	 adj. unsp
 
 
 BBB
+Bank 	  bench branch bank -> bronze binz Bonze (Buddhist priest in Japan) Bonzenträne @ Venus!?
+Bonze 	凡僧 (bonzō) 凡(b)hâm=common 僧~生 shēng monk Sanskrit bhikṣuṇī bigotte > bozu 坊主 via Gabriel de Magalhães (Portugal)
+bigot 	2-God Bei-Gott (neben Gott) ≠ bhikṣuṇī = Bonze
 Bussarde	Harbicht *BushHar ≠ Bustards Kranich korhaans Krähen Krabicht: Rabe khorbeak Kolk
 bronze 	PUR BAR ⲃⲁⲣⲟⲧ ↔ ⲃⲁⲣⲱⲧ  ~brass ~ bronze ++++++++ baryoth бронза μπρούντζος UNIVERSAL
 Beduin	bytdwd «Beyth David» ~ Israeli  بَدَوِيُّون‏ (badawiyyūn) بَدْو‏ (badw, “desert, camp”) ↔ bayth
@@ -456,10 +484,17 @@ Chemie		Alchemy (Arabic: الخيمياء al-khimia) “kimia” from the Coptic
 Christ		Χrιsτιαn crystal χρυσοῦς golden shiny κρύσταλλ Crœsus Κροῖσος Kreisch Criś Körös Kreis/disc Argyro = Argent = Silber
 colour		coal Kohle kohlerisch „schwarz“ -> Kohldampf, koller Galle Kala color:black calamari κάλαμος kálamos “reed, ink pen”
 con.cern	thern=strahl/shun-shine-schön: discern,cherno,CERN Strahlen !!!
-comic			Comeths
+comic			Comeths comedia
+cromlech  KrummFläche ɸlikkā QED <> DolMen  red Floor coverings were divided into 'Quartiere' Sicily->SHIPS!
+CROWN 		ⲁⲛϫⲱϫ AnKuron 円𐘮~京  東京 ToKyon 10^7 경 *KRAŊ=京 +++!!! vs  円 En 元 yuán jīng? kRinɠ 𓄚𓈖𓉐interior
 
 DDD
 deem/dammen	Daumen!! 👍 👎 🖒 🖓 dome/-dom:reicht/recht/court@Goth dom:king ↔ dome(Kuppel/Home!?) ↔ Timo@GR! estimate esteem
+Dad 		Djudge Druide
+DolMen  Korean: 고인돌 goindol "dol(stone)", "dolmaengj"!!    גלעד‎ granit Granja! anta <> ante!! jentilak: giants gHünen!
+DolMen  kornisch tolmen, deutsch ‚Steintisch‘ Grabstätte "HünenBett" Skelett von Kurgan! <> menhiren Báculo BEIL
+DoorMen  门 [門] mén  früher auch als Opfertische, Altarsteine oder Druidenaltäre interpretiert 台子 táizi Tisch
+doll		Dorothy: 𓂞𓏏𓀭𓊹	  δῶρο+θεός(dôro, “gift”) stone^^
 Daniel		bedeutet wörtlich: Gott sei mein Richter
 Daniel		 <<  DON.IEL  daniy-él [daniy=Judge!]
 Dany		DON.YI ;)
@@ -482,6 +517,7 @@ Drama		drom: road / action 'running'  δράω ‎(dráō, “to act, to take ac
 Drost		Truchseß/Droid-sess ~ Freisass vs Insasse
 dunkel	dun ~down 淡dàn vs 黑 hēi ¬ hell! <?> taint tan 丹 dān -> dumb <?> δem khem kammer zimmer schimmer?
 dog			duck dackeln. ↔ Huskillion ski σκύλος  s'kyon κύων κυν	chien kill-lionx lynx lux lykos
+DRUID   dru-wid true-wise! greatly-witted +++
 
 EEE
 enough  jenouch genug
@@ -528,7 +564,10 @@ Fieber		fever febris(tremble) =>ferveō(hot,burn,boil) fear φέβο phobie vive
 fluorescence		floresce Flower!
 Feuer		ferveō(hot,burn,boil)	=> fear, Fieber, vive
 fork    <*pirouc ~ piroun@Greek > pilic > vilic@Slav <?> vidlec *cutlec? catal@turk  VS GARB>Gabel,garfo@portu garfork?
+food		victuals = vitals provisions <> video vita(live)
 Freund	friend φρήν ‎(phrḗn, “mind, heart)   ↔  σχίζω ‎(schízō, “to split”) 
+Froh 	  fröhlich Frog-like? please	> felix, felicity 
+
 Ver			Wurm worm ↔ borm~baum	[fig]warmer Bruder ;)
 verdure		grün	verve vive	sinople			:dur			hart (resistant)
 verre		Grünglas [Grün-sonne]
@@ -538,6 +577,7 @@ Frisör		frisher	frisch Hair
 Furlong		4-length	Haar-lang
 
 GGG
+Galatian 	Celts/Gauls@Anatol Volcae Völker@Volga?  language, almost the same as the Treveri(Trier) 120 words
 goal			gal=roll~ball~wheel *gwal Wallen & Grollen
 Galle			Kala color:black bad ↔ bitter galle
 Gabriel		„Gott ist mein Held“ oder auch „Mann Gottes“
@@ -558,7 +598,7 @@ ge-richt	[food]S+A?
 Geld		Gold, Gelb ~ Gilde ↔ Geltung gelt? geil Gold Gord Kord Kurd Kult Kelt!  *ǵʰelh₃- ‎(->yellow; gleam; shine) celt,zelt
 Geister		Ja.ister *ǵʰeysd-, *ǵʰisd- ‎(“anger, agitation”) gist gish Gischt gastly garstig Geysir Icelandic verb geysa, "to gush"
 ghoust		IO.stars?
-Geste		gesture gerere bear,act gerieren "grrr" ;)  ger-eyre D4 iri ® faire   eyri=do good   eyrer=do bad (err)
+Geste		gesture gerere bear,act gerieren "grr" ;)  ger-eyre D4 iri ® faire   eyri=do good   eyrer=do bad (err)
 gestern		gestra "yesterday" geh-stern ;)
 German		0) CornKreisCours->Kyr.manen <-> 1)Ger.ste[ck] 2)HierGerAlt 3)Ia-man 4)Gir(affe,groß) 5)gurr[EN-pun] Engeln->Enten=kids: ENKEL!
 Jäger		HierGer / IA-Ger-Manen:
@@ -574,13 +614,17 @@ HHH
 Häher Harawî (Two Hawks) ↔ Harbicht Bussard   *Hawrk Hokus Pokus
 Heini	↔ Heinikel=Enkel=Kanickel + Kaninchen
 herb		Harbaqi Karbek :  black-roots! vs sweet-roots! vs bitter? vs sour ↔ hanf hemp!   𓆰 Hanf 𓎛𓆰𓈖  wine   𓎛  𓄿  𓈗
+heal 		herb hue hua (pigment flowers for healing)
 hill		*Hillt Heit@Arab height ++
 hate		heated fury fiery anger ign🔥 🜂 chema@sem ↔ cham charm
 hāmn		harmonie hamnfe;) / symn come common commune... Abraham „Vater der Menge“) 𒄯𒌑 𓎛𓆰𓈖 Hemp
+Heim 		√Dome! neimed?
 Hu			Nu! How, Hm?	Danun foren= von Dannen / daHin!
 HIGH		Çatalhöyük höyük mound (çatal "fork")
 Hybris  hyper über... Mut,Stolz etc  Hybrisma Frevel  ...issima ;)
 harass		[AR]hharassa : long for, want↔  harasse ‎(large shield; harer”). ↔ hhrr (burn)
+harvest Herbst HePhaestos Festival!! 
+harvest HePhaestos & Ergane Ernte! @ Herbst Haar-Festival!! fēstum FEAST <> passa, passover
 Hagenkamp	Hagen='Zaun':Hecke~Hagebutte~Gehege~Hang?~ Hain  Hagestolz, hagestalt ↔ Gestalt! vom lateinischen campus für „Fläche“, „Feld“, „Flur“ oder „Ebene“.  Der Begriff Kamp ist erst seit dem Jahr 1100 nachweisbar und war im Mittelalter ein „Modewort“ für jeden neugewonnenen Acker. Ein Kamp war oft durch Hecken(Hagen) oder Erdwälle eingefriedet .
 Lohe		lo, loh, Loch und zahlreiche Varianten sind alte deutsche Toponyme in der Bedeutung Wald oder Feuchtgebiet.
 Halleluja 	הַלְּלוּיָהּ (hallelu jah) „Preiset Jah!“
@@ -604,6 +648,7 @@ hope 	𓌻 HOEb  אהוב aHab  أحب Heb = LOVE/HOPE vapor(WTF,linguists!) cup
 hope	↔help:ἐλπ,ἐlƥ=hope@GR ↔urge! أحب Heb = hope ↔ HAVE!?
 help  ↔hope=ἐλπ@GR~help Elve! eil! heil!
 hesperar? ↔ hope?
+Henge Hinkel Stein Carahunge Քարա:stone հունջ:sound/treasure/foundation/collection@Armenia  hinge/Hang:suspended limb
 Hussein		goodness ح س ن ‎(ḥ-s-n) God, Ghut.sein !?!  ↔ Khattin
 γῆ ‎(gê, “earth”) +‎ ἔργον ‎(érgon, “work”).
 
@@ -687,6 +732,9 @@ maccaroni μακαρία makarían ~ vom-Korn ~ EinKorn : “food made from barl
 maize		Mais misir/misraim : Egypt / Tuareg "Turk" Berbers!  vs  Taíno word for the plant: mahiz  vs cucaraca("cone")
 Mathe		Ma.thematik : ma? #uma ~ 1 VOM… Maat=Order Arithma-Tik  Mama
 Masochist	= Mathe.Lairerin
+mercury Margyr ☿⚚♂ Magier? Merchant:argent argyron Erz-iron=silver Marko Mars vs  ☿⚚ Hermes  ☿ Magyr vs Magin ♀ ? Merhgarh
+Merkur  =Messenger=Malak@SEM Malik:King Marduk<>Malakbêl, مالاکبل HEL!
+Magic 	Margyr^^ Merlin (Welsh: Myrddin) Martin? night-mare? 
 Mama 		Omega womb NIN-UR.MAH.MEŠ, named the "Lady" of the (two) Lions! ↔ Kattahha: deia SUN-goddess Furu'ŠEMU @ Hatti
 MAN			® MAN 卐 WÀN 卍 MWAN 1 ... => VAN moi we wo men ... Min God ... Mohn=Rot;)
 Männer		Mähner = Löwen = Lau.sitzer !!! moi Mönche Müncher Mannschaft Menschen Minerva Munster Monster:
@@ -714,7 +762,8 @@ MORD		*mwrt mavet morir mat muert mort …
 
 NNN			𓈖 / naḥash	𓆑 Cnd:conda,cNatter,cnake	-> hNatter -> naḥash
 niger 	negro nkara noir ne-chrom? karam karum@Tamil chem? kala color colour ↔ chlor : green!? ↔ black-root! kuor cheerakam
-niger 	noir nai night not?!  
+niger 	noir nai night not?! 
+Nieten 	knoten Nagel 
 Nord		Nur Mountains Zaphon=north@Sem. 北 běi Beilan=Belen Pass Syrian Gates (Geçidi) ↔ Baal 
 Nord		1/南​北​对话 nán běi duìhuà 		 	der Nord-Süd-Dialog
 Nadia		DiaNa Nachtgöttin Juno Moneta Monighta  Наде́жда~ (“hope”) since 20th-century!!! WTF vs Natascha Наташа
@@ -749,6 +798,7 @@ NATHUR		nurture native nature nathur mother mesut nascent nation
 OOO
 Opfer	offer 𓂝𓃀𓌂𓏜 … << upper! 𓂝𓃀𓎛 fill up	  *arbher garbe
 Ozean		ocean o'sean 𑀣 Tha𑀑O θάλασσα thalassa tHelei sHali tele ↔ tall+sun+salt+far+high  abyssean
+Orange  NaRange vs TauRange=bull-colored geoluhread (yellow-red).  orange tawny (brown) <> tan,tone,taint
 
 PPP
 polit poly:viel popularity polis 𓉺𓏌𓇋𓇋𓏏𓉐 pillar  𓉺𓏌𓊖 Heliopolis = Sun-pillars! 𓉺  vs 𓉺𓏏𓌔bow[ly]
@@ -773,21 +823,29 @@ pure		® pur -> pour pull purple? purr-cat kata-rina katharsis
 pour		® ~ pur pull pürieren
 Platte 		Brett	board	brdt<->plt plate, Platte	Wild-Bret/Bird
 Pleite		פליט (Palit, [pa'lit])	pleta (Flucht)  ↔ Greek / EG
+please	> felix, felicity < fröhlich ?
 Pelle		pelle,piel, to peal off, 皮 pí , 表 皮 biǎopí Pelz falx? 	贝 壳 bèiké	pile 匹 pǐ M35 𓇤 pile 疋 (⺪) pǐ piece of cloth / peal 
 Pelz		pellis pelle Haut *pel- ‎cover πέλμα ‎pélma “sole” palm Fell! pelt ↔ fold falt Falz ↔ pale? piece 片 piàn 疋 ⺪pǐ  
 pool	= 𓊪+le (-[k]lein) ↔ Pfuhl
 pile		->viel,poly,fill... 匹 pǐ M35 𓇤 pile 疋 (⺪) pǐ piece of cloth / peal
 Pfand		sponδ™ s'pfand σπονδὰς	surety spondeō ‎(“vow, pledge”) ↔ sponsion = Bürgschaft ↔ Sponsor ↔ re.sponse = ant.vow 
+penny Pfennig Wenig ≠ pound? pendant? Punic 𐤐𐤍‎ (pn, pane, “face”) to mean "coin"
+phoney : fawney (“gilt brass ring used by swindlers”) from Irish fáinne (“ring”).  
+вне vNE ¬ UN/EIN!! phoney BUt'NO! ne'pas ne不bù boo pfui! 非 fēi! false 卜 Bǔ 弗 fú 负 負 fù -- (negative) 复 fù  wieder : wider!!  
+PURE 		bare <> pale/bei/bu white/not ??
 Produkt		vor.führ to duck=lead [chicks]
 Prinz		PhR princeps ‎(“first head”), from prime(“first”) + capere caput~head/top  ceps?
 punch		panj, meaning “five [ingredients for drink]”
 
 QQQ
 quasseln 	qis@Goth cwaeth question quiz
+Quetzalcoatl (Feathered Serpent) 𓆑 python 
 
 RRR
+range 	rang1 گsره color  taurange(bull-color = red in Turk) Jap. iro “color” ⲁⲟⲩⲁⲛ 	 color  ≠ ⲁⲃⲁⲛ  
 ransom	ransoun, Old French raençon, Latin redemption  vs handsome 𓂧 汉又
-riech		rikku	rekha	reho	smell
+riech		rhynkhos=nose rikku	rekha	reho	smell
+ring 	  rhynkhos=nose ~ nkhos el BahNasa! Ὀξυρρύγχου "town of the sharp-snouted fish" NARMER!?
 ratio		reshu	resha	resho	head, beginning ratio ↔ ration™ ++
 rot 		red rust root!! carrot!!!  <>  CAR:crimson/carmine/cherry/kirmiz@turk <> chrome@greek!
 Rabbi 	רב (rav) רבּי (rabbí) „mein Lehrer“ rubbo	rub		chief, leader, Rabbi™ ↔ rabu	raba	rabo	great@AKK
@@ -804,10 +862,16 @@ Reise		↔ raise:	Reise reise: Weckruf am Morgen (Marinesprache)
 
 
 SSS
-smith			ferrari, coppers->covar,koval  copper->Seppel! Mars->Demirci@Turk Zargar@Pers Haddad!@Sem
-shark			karchari<>sharkari Greek schurkerl->haikarl -> akula@RUS   ~harequin   
 SEIEN			1) *shyond hand h& 🖖 -> 汉 HÀN han ham con syn sym sein … 𐤉 yod 又 yòu 手 shǒu schutz schande schame schinden schund 
 SEIEN			2) seem scheinen sehen 👁👁 seyen 👀  EYE	⺫👁	 ↔ sehr schar? ↔ I am : I ham, mi sham san 🖖
+Sabbat	 	שבת (schabbat) „Ruhepause“ ↔ Sebt 7 seven 
+Saphir	  sapphire, sopure! chrysoberyl, sober, sauber~clear -> soprano, super klare suppe vs saufen
+Salz			Salt: Sa.lut (low land lut nur bitter desert 	芦 lú  Schilf Reiher Luta~Talu=Tal!
+Saxen			Sasainn Assasin? Sax=knife! Wessex Sussex („Südsachsen“) Middlesex Chauken! -Sagen? Seekers see celtic tribe names!
+Trimarcisia three horsemen(Celtic and Germanic)  Persian Athanatoi elite force Immortals (Persian: Gārd-e Jāvidān; 
+Leine			loin	Lunte  櫓 lǔ 
+saugen		soak,suck,saufen,Seufer,sop,sob,Seufzen,sopa ‎(“sopped bread”) ->Suppe super,supra,supreme (hoch)
+shark			karchari<>sharkari Greek schurkerl->haikarl -> akula@RUS   ~harequin   
 semi			1/2 demi समा samā, “a half-year” << summer >> 𓊗 zam : ∑+some time!
 Samstag		sambet@Pers cumartesi@Turk~ zuSam-Bet-Tag -> sabath@Sem 	laVad:wasch-Tag@Scandi => zuSamBAD-Tag!!!
 sweat			sūdāre@lat
@@ -820,21 +884,19 @@ Schere		scut skizzor : scuScher skardaz scār scar
 scar			escare (“scab”) eschara ἐσχάρα eskhára skarð sceard shard score 20 !! <<
 skardaz*	gap, cut	(notch, chink, ...)
 Scharte	  shard ↔ scare?
+smith			ferrari, coppers->covar,koval  copper->Seppel! Mars->Demirci@Turk Zargar@Pers Haddad!@Sem
 SUN 			Beit Shemesh ↔ SUN-goddess Furu'ŠEMU leoParth + Tigris! ↔  Mama
 so				#swa zwar
 Süden			<< Sun'de shat:water/land? ~Hel->Kiel@vikings?
 summer		chammah=cham™ma~therma heat!!! šammaš   समा samā, “a half-year” semi?  ամառ (amaṙ, “summer”) anno,am:year!
-Sabbat	 	שבת (schabbat) „Ruhepause“ ↔ Sebt 7 seven 
-Saphir	  sapphire, sopure! chrysoberyl, sober, sauber~clear -> soprano, super klare suppe vs saufen
-Salz			Salt: Sa.lut (low land lut nur bitter desert 	芦 lú  Schilf Reiher Luta~Talu=Tal!
-Leine			loin	Lunte  櫓 lǔ 
-saugen		soak,suck,saufen,Seufer,sop,sob,Seufzen,sopa ‎(“sopped bread”) ->Suppe super,supra,supreme (hoch)
 Segel     sea-gull(v)
-Sepulchre	sepultura = grave
+Seti 			Seth-y : 19.th DYN Red haired sect -> 20.th DYN Ramses : red hair Q.E.D.
+Sepulchre	Chapel.Cura!! sepultura = grave
 Schuld		s'gyld [Goth] guild ent-geld entgelten vs vergelten gildet nicht
 Schenken	chen (hebr. חֵן, „Gnade“, „Anmut“) -> Johannes, Hanna		↔ Schenke ausSchank : Gabe DE !! shink ‎(“to pour”) -> give
 Schopf		首 shǒu = Kopf γoφ qop=head↔ shoulders rathiopf Zopf
 Scorpion	skorpíos σκορπίος PIE sker=cut ↔ scar ...
+Senke 		山 [山] shān Schanze
 Siberia		Latin silvi- (forest) Trans.silvania  ↔ s'abre? iberia? cyper↔levante-trees?
 Sklave		σκλάβος ‎sklábos ↔ labor / liber(free) -> slab/klopp(hit) skalp!(head)
 sort			sortriaged↔sortiera ↔ tier
@@ -846,10 +908,13 @@ Speer			Speer -> spek sphan!! s'phan ↔ shine
 special		spaceial 𓐖𓏏𓊖 +++ (rich) ↔ sparta? 𓐖 sportƒ (measure) vs disport(amuse) deport
 sport			disport(amuse) deport(carry-away) != (𓐖 measure ƒ) spartaƒ
 Sparta		Spāhbed (Middle Persian: 𐭮𐭯𐭠𐭧𐭯𐭲)
+square		s'quadrat Saqqara
 Sünden		sunton	sund,sundr:Trennung sonder-bar: sun-tan;) :( :(   sun-don = Sonnen-gott = EVIL!!! 'Trennung' plausibler
 Sündenfall	Verzehr der verbotenen Frucht des Baums der Erkenntnis (eigtl. Baum der Erkenntnis des Guten und des Bösen) 
 Suppe		soup,zuppa,sopa,zupa,minestra, nebbione,sudore,potage, 湯 tāng,sūpan(“to sup, sip”) PIE*sūpaną,saufen,suck,sop,supper
-Suppe		sober, sauber~clear -> soprano, super! klare suppe vs saufen ↔ Saphir, sapphire, sopure! chrysoberyl
+Soap 		I18N! PIE*seyb-, *seyp- sip, ship schütt <>  Gaul:GallSeife sulfur?
+Suppe		sroup@Latvian<>S-R-P@SEM! sober, sauber~clear -> soprano, super! klare suppe vs saufen ↔ Saphir, sapphire, sopure!
+sulfor	<>soup? --
 Suppenschüssel	zuppiera	
 super		uber über hyper sober -> super Saphir => sauber sober klare Suppe 
 sanctimonialis nun :  (lis		sis)
@@ -862,7 +927,11 @@ wer-is		query
 Santa Klaus	Klau.dius (Claude Claudia Klau Kleo Hiera.k.leo Irak.leo Ur.ech
 shut		shot shoot skudra#Latvian : sharp cutting S'CUT !!
 schießen	schiessen => Schuss => shut S'CUT cutting ↔ Scots cutter/dark?  cut sunlight?
-ST			=> *STEH: ST___ wie STOCK!
+
+ST			=> *STEH: ST___ wie STOCK! STAB  STANDING STONES Orthostaten Steinen 
+street   stratum/*stornō, PIE *str̥-n-h₃- *sterh₃- आस्तॄ (āstṝ, “spread”),
+sterbe	stabbed@star
+Tsits(Ցից:stand) 
 
 SCHSCH vs SSS
 schachern	sakar שכר sa'χaʀ „Lohn“
@@ -904,6 +973,7 @@ Schaufel	H6 𓆄 + fall? [werf?]
 Schauer		H6 𓆄 + ER     水 shuǐ ↔ Schu = Petrus
 Scheich		H6 𓆄 + IL + TAN
 Schiff		H6 𓆄 + ? fahrt? = WindFahrt  vs Boot
+Schiff		石 shí-fare "moving rocks" boater < petra  shipboat/shiphoni@Arab  <> ski:glide?
 schön		shun-shine-schön ->discern shimmern   H6 𓆄  ~ shine
 schein		shun-shine-schön H6 𓆄  ~ cherno strahl -> cern : celn celt kult gold gelt yelt yellow
 Schrieb		<-Schrift/script<- skrit®  oder scripht->skrit ?  scr-piter Worte/Ruf Gottes ?
@@ -918,6 +988,7 @@ bing	bei'an 凉 涼 liáng 淒 qī ↔ chill
 gleiten *galeiδ galacio [лед led] jalida = ice  
 
 TTT
+trade 	(über)tragen trahere traction track:zug “traduttore, traditore” (“translator, traitor”) old Italian pun
 Taur 		Celtic taur meaning "mountain" ↔ tower Turm ↔ Sturm Tür Tor Tell! ↔ Khorn
 Tauri		Scythotauri, Tauri Scythae, Tauroscythae Taurica, Taurida and Tauris = KRIM!!  Taurisci @ Slovenia (Carniola)
 Taurini Celts@western!Alps!
@@ -936,39 +1007,21 @@ texture	textil
 Taurus	1)Stier	2)tHorse : Centaur,Minotaur! ↔ Thorso
 thieve	Thebes = Luxor?
 think		zinken 川chuān↔ denk? auf √Zacke! zakar@HEB! xiang thank xie(xie)  
+Tiramisu	tiramesù; Italian tiramisù ‎(“pick-me-up”)
 Schuh		Ski 一​只​鞋 yī zhī xié鞋 shoe ↔ 串chuàn Schnur Senkel sank <?>  川chuān zinken  	 	
 Ski			1. shoe 2. chill s'kyro …
 Tonne		Don(Regen/Dunst) fänger?
 total		tout-all  
 Tafel		table Tabhl	tablet Tablett
 Tablett		table Tabhl	tablet Tablett
-Tiramisu	tiramesù; Italian tiramisù ‎(“pick-me-up”)
 Tobacko		Chew-Backo	Tobak?
-Trainer		train: trahere ‎(“to pull, to draw”) -> Traktor track drain
-Tür			Tor/Port ® door
-Trampolin	trampoline: trampeln-in
 Tschüß	cease 𒍗 = 𓏱 cedie @ latin
+Traube	derb 𓂧 𓄿 𓃀 𓆳 Tropfen drop Tropen τροπή (tropḗ, “turning; solstice”) trope  “a manner, style, turn, way” *dʰrew- (“grind”) ? <> cherry 𓂧 𓄿 𓃀 𓆳 ? <> irp  פרי‎ 	p'ri fruit ph-r-t t-r-b ++
+Trainer		train: trahere ‎(“to pull, to draw”) -> Traktor track drain
+Trampolin	trampoline: trampeln-in
+Tür			Tor/Port ® door
 Twenty	tvingt vīgintī ↔ latin+france SIDE branches!
 
-0 		nihil
-1 	I 	ūnus
-2 	II 	duo
-3 	III 	trēs
-4 	IV 	quattuor
-5 	V 	quīnque
-6 	VI 	sex
-7 	VII 	septem
-8 	VIII 	octō
-9 	IX 	novem
-10 	X 	decem
-16 	XVI 	sēdecim
-17 	XVII 	septendecim
-18 	XVIII 	duodēvīgintī
-19 	XIX 	ūndēvīgintī
-10 	X 	decem/gintī ↔ centi
-20 	XX 	[t]vīgintī
-30 	XXX 	trīgintā
-100 	C 	centum
 
 UUU
 
@@ -978,7 +1031,9 @@ UR			©® 𓊖 𒆠𒅒卍𒈔𒇫𒆟 𒀱 Four Urban Quarters QVRQVR KWRKWR
 USE			util, jod = hand YADah	↔ ideo: know praise, thank
 
 VVV
+verehrt revered (reversed;)  Ge-August=GeAchtet! √𓁹	
 vie		via: Lauf des Lebens livei liway ?
+VIE 		VIS(strength) vita victa victuals = vitals vivid provisions <> video food Futter vita <> VIR:fire
 violin	< Fiedel? yes,  viola:fiđla@Norse! fidhealin@Scott!  vs skrypk:screek@SLAV
 Vieh		VIEL   manymähn Schar Horde Schabe  Schwall'ber vermin (Wurm) ≠ Rot-wild vermillion
 Venus		Vianna ↔ Gianna Gina vagina venus clams
@@ -1017,6 +1072,7 @@ yell		call grell hell ἐξαγγέλθη exaggelated exa.yelled=aus.gerufen , g
 yellow		helvus! hel-gelb Geld Gold guld goud gut! Curd~CELT! celt zelts zóloto zard zarn zêrr cern cherno! khlōrós chrys
 
 ZZZ
+Zorn 		Zahn<>Chorn <> z'warnen?
 Zeremonie	kara.monia (IA.mon la lune!)
 zocken		צחוקן zchocken „spielen“ צחוק „lachen“ schocken 
 Zoff		sa'af זעף Streit, Zank
