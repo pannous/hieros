@@ -1,208 +1,214 @@
- No. 	English 	Southern Quechua runa simi
-1 	I 	ñuqa
-2 	you (singular) 	qam
-3 	he 	pay
-4 	we 	ñuqanchik (inclusive), ñuqayku (exclusive)
-5 	you (plural) 	qamkuna
-6 	they 	paykuna
-7 	this 	kay
-8 	that 	chay (medial), haqay (distal)
-9 	here 	kaypi
-10 	there 	chaypi (medial), haqaypi (distal)
-11 	who 	pi (interrogative)
-12 	what 	ima (interrogative), hay (asking for repetition)
-13 	where 	may (interrogative)
-14 	when 	mayk'ap (interrogative)
-15 	how 	imahina (interrogative)
-16 	not 	mana ...-chu (negative), ama ...-chu (prohibitive)
-17 	all 	tukuy, lliw, llapa
-18 	many 	achka
-19 	some 	tumpa, waki
-20 	few 	aslla, tumpa
-21 	other 	huk, waki
-22 	one 	huk
-23 	two 	iskay
-24 	three 	kimsa
-25 	four 	tawa
-26 	five 	pichqa
-27 	big 	hatun, suni
-28 	long 	suni, llañu, suyt'u
-29 	wide 	kimra, luqhu, llapha, phanlli, sakha
-30 	thick 	raku
-31 	heavy 	llasa
-32 	small 	uchuy
-33 	short 	chutu, kuru
-34 	narrow 	k'ichki
-35 	thin 	ñañu
-36 	woman 	warmi
-37 	man (adult male) 	qhari
-38 	man (human being) 	runa
-39 	child 	irqi
-40 	wife 	warmi
-41 	husband 	qusa
-42 	mother 	mama
-43 	father 	tayta, yaya
-44 	animal 	uywa
-45 	fish 	challwa
-46 	bird 	lluta
-47 	dog 	allqu
-48 	louse 	usa
-49 	snake 	mach'aqway, katari, amaru
-50 	worm 	kuru
-51 	tree 	sacha
-52 	forest 	sachakuna
-53 	stick 	kaspi
-54 	fruit 	ruru
-55 	seed 	muhu
-56 	leaf 	laqi
-57 	root 	sapi
-58 	bark (of a tree) 	qara
-59 	flower 	wayta
-60 	grass 	qura
-61 	rope 	waska
-62 	skin 	qara
-63 	meat 	aycha
-64 	blood 	yawar
-65 	bone 	tullu
-66 	fat (noun) 	wira
-67 	egg 	runtu
-68 	horn 	waqra
-69 	tail 	chupa
-70 	feather 	puru
-71 	hair 	chukcha
-72 	head 	uma
-73 	ear 	rinri
-74 	eye 	ñawi
-75 	nose 	sinqa
-76 	mouth 	simi
-77 	tooth 	kiru
-78 	tongue (organ) 	qallu
-79 	fingernail 	sillu
-80 	foot 	chaki
-81 	leg 	chanka
-82 	knee 	qunquri
-83 	hand 	maki
-84 	wing 	rapra
-85 	belly 	wiksa
-86 	guts 	chunchul
-87 	neck 	kunka
-88 	back 	wasa
-89 	breast 	qasqu
-90 	heart 	sunqu
-91 	liver 	kiwcha, k'ipchan
-92 	to drink 	upyay
-93 	to eat 	mikhuy
-94 	to bite 	kaniy
-95 	to suck 	chunqay
-96 	to spit 	tuqay
-97 	to vomit 	aqtuy
-98 	to blow 	phukuy, wayray (wind)
-99 	to breathe 	samay
-100 	to laugh 	asiy
-101 	to see 	rikuy
-102 	to hear 	uyariy
-103 	to know 	yachay
-104 	to think 	yuyay
-105 	to smell 	mutkiy
-106 	to fear 	manchay
-107 	to sleep 	puñuy
-108 	to live 	kawsay
-109 	to die 	wañuy
-110 	to kill 	wañuchiy
-111 	to fight 	awqay
-112 	to hunt 	chakuy, kasachiy
-113 	to hit 	maqay
-114 	to cut 	p'itiy, kuchuy
-115 	to split 	laray
-116 	to stab 	chusyay
-117 	to scratch 	aspiy
-118 	to dig 	allay
-119 	to swim 	wayt'ay
-120 	to fly 	phaway
-121 	to walk 	puriy
-122 	to come 	hamuy
-123 	to lie (as in a bed) 	sirikuy (action), waqtapay (state)
-124 	to sit 	tiyakuy (action)
-125 	to stand 	sayariy (action)
-126 	to turn (intransitive) 	muyuy
-127 	to fall 	urmay
-128 	to give 	quy
-129 	to hold 	tiyaway
-130 	to squeeze 	qapiy
-131 	to rub 	kituy
-132 	to wash 	maqchiy, taqsay
-133 	to wipe 	chakichiy
-134 	to pull 	aysay
-135 	to push 	tanqay
-136 	to throw 	wichuy, chamqay
-137 	to tie 	watay
-138 	to sew 	siray
-139 	to count 	yupay
-140 	to say 	niy
-141 	to sing 	takiy
-142 	to play 	pukllay
-143 	to float 	tuytuy
-144 	to flow 	tinkukuy
-145 	to freeze 	qasay
-146 	to swell 	punkiy
-147 	sun 	inti
-148 	moon 	killa
-149 	star 	quyllur
-150 	water 	unu, yaku
-151 	rain 	para
-152 	river 	mayu
-153 	lake 	qucha
-154 	sea 	mama qucha
-155 	salt 	kachi
-156 	stone 	rumi
-157 	sand 	t'iyu
-158 	dust 	hallp'a
-159 	earth 	allpa
-160 	cloud 	puyu
-161 	fog 	phuya
-162 	sky 	hawa
-163 	wind 	wayra
-164 	snow 	rit'i
-165 	ice 	qasa
-166 	smoke 	qusñi
-167 	fire 	nina
-168 	ash 	uchpa
-169 	to burn 	rawray
-170 	road 	ñan
-171 	mountain 	urqu
-172 	red 	puka
-173 	green 	qumir
-174 	yellow 	qillu
-175 	white 	yuraq
-176 	black 	yana
-177 	night 	tuta
-178 	day 	p'unchaw
-179 	year 	wata
-180 	warm 	illi
-181 	cold 	chiri
-182 	full 	hunt'a
-183 	new 	musuq
-184 	old 	machu, tanta
-185 	good 	kusa (things), sumaq (persons)
-186 	bad 	mana allin
-187 	rotten 	ismusqa
-188 	dirty 	qanra
-189 	straight 	chiqa
-190 	round 	muyu
-191 	sharp (as a knife) 	kachi
-192 	dull (as a knife) 	ruqu
-193 	smooth 	lluspi
-194 	wet 	huq'u
-195 	dry 	chaki
-196 	correct 	chanin
-197 	near 	sichpa
-198 	far 	karu
-199 	right 	paña
-200 	left 	lluqi
-201 	at 	-pi
-202 	in 	-pi
-203 	with 	-yuq
-204 	and 	-wan
-205 	if 	-pti-, sichus, manapiqa
-206 	because 	-rayku
-207 	name 	suti
+ No. 	English 	Southern Quechua runa simi	PIE / PERU		
+1	I 	ñuqa	an.iqh	++	
+2	you (singular) 	qam	kya	++	
+3	he 	pay	pho	++	
+4	we 	ñuqanchik (inclusive), ñuqayku (exclusive)	nou	++	
+5	you (plural) 	qamkuna	kyoun	++	
+6	they 	paykuna			
+7	this 	kay	ce	++	
+8	that 	chay (medial), haqay (distal)	ca	++	
+9	here 	kaypi	chere		
+10	there 	chaypi (medial), haqaypi (distal)	chare		
+11	who 	pi (interrogative)	pho	++	
+12	what 	ima (interrogative), hay (asking for repetition)	ma?	++	
+13	where 	may (interrogative)	Ma-y?	++	
+14	when 	mayk'ap (interrogative)	Ma-quand?	++	
+15	how 	imahina (interrogative)	Ma-hina?	++	
+16	not 	mana ...-chu (negative), ama ...-chu (prohibitive)	mano!!!	++++	
+17	all 	tukuy, lliw, llapa	touty tchaque	++	
+18	many 	achka	𓂝 𓈙 𓆈 Exa < macha	++++	
+19	some 	tumpa, waki	thum~some, wenigki	+-	
+20	few 	aslla, tumpa	some	+-	
+21	other 	huk, waki			
+22	one 	huk	𓀀 ek	++	
+23	two 	iskay	𓌢 ϩⲥⲛⲁⲩ иккĕ secon’ 	+++	
+24	three 	kimsa	𓐍𓂸𓏏 Ϣomte@COPT 	++x 	
+25	four 	tawa	𓂧𓅱 ЧⲦⲞⲞⲨ qtwr tetwra	++	
+26	five 	pichqa	𓏅  penta пѧть *qpinkʷe qinque	+++	
+	six	suxta	𓋴𓇋𓋴 6 six	+++	
+	seven	qant’is	𓋴𓆑𓎛𓅱  svhn < Gvan < quantities	++?	Sambes? 1+6?
+	eight	Pusax / kimsa.qalqo	Pus? Acht 𓎛𓏠𓈖𓅱 pushaman 5+3 3+5		
+	nine	'aa-tunka	1 to 10	+:	
+	ten	tunka	𓎆 10	++	
+					
+27	big 	hatun, suni	?		
+28	long 	llañu, suyt'u, suni	llonge	++	
+29	wide 	kimra, luqhu, llapha, phanlli, sakha			
+30	thick 	raku	ries	+-	
+31	heavy 	llasa			
+32	small 	uchuy	cute:		
+33	short 	chutu, kuru	Cut, cute, short	++	
+34	narrow 	k'ichki	^^		
+35	thin 	ñañu	n’eng!	++	
+36	woman 	warmi	~	++	
+37	man (adult male) 	qhari	Kherrl!	+++	
+38	man (human being) 	runa	rénmín 人民 	++	
+39	child 	irqi			
+40	wife 	warmi	~ woman	+ 	
+41	husband 	qusa	qhusband	+ 	
+42	mother 	mama	mama	++	
+43	father 	tayta, yaya	daddy	++	
+44	animal 	uywa	ħayawān  حيوان‎  gyanwar@pers	+++	
+45	fish 	challwa			
+46	bird 	lluta	Flute <> Leute?	<<	
+47	dog 	allqu	al gǒu 狗   	+?	
+48	louse 	usa	lausa	++!-	
+49	snake 	mach'aqway, katari, amaru			
+50	worm 	kuru	Krumm kwurm™	++	
+51	tree 	sacha	s’Esche <> Saxen!?	+<<	
+52	forest 	sachakuna	^^		
+53	stick 	kaspi			
+54	fruit 	ruru	fruru		
+55	seed 	muhu			
+56	leaf 	laqi	~		
+57	root 	sapi	Sap <> saft		
+58	bark (of a tree) 	qara	kara@slavic ርፍት 	qərəft@Sem	+++	
+59	flower 	wayta	~ vlayta flower/blühte	++?	
+60	grass 	qura	qurass grass		
+61	rope 	waska	όριον	-<	
+62	skin 	qara	carne χρώς		
+63	meat 	aycha	Fleischa		
+64	blood 	yawar	𓇋 𓃀 𓃔 𓎛	!!! <<	
+65	bone 	tullu	Teil?	--	
+66	fat (noun) 	wira		--	
+67	egg 	runtu	rund;) arrautza@bask--	+-?	
+68	horn 	waqra	wa’qran qhorn	++?	
+69	tail 	chupa	οὐρά  *copra 	<<	
+70	feather 	puru	Pôr @ Indo-Aryan <> fur,pter	+++	
+71	hair 	chukcha	𓎛𓎛 chuchar	++	
+72	head 	uma	Ommel 	;)	
+73	ear 	rinri			
+74	eye 	ñawi	Nvi <> nvidia	+-	
+75	nose 	sinqa	Zinke	;)	
+76	mouth 	simi			
+77	tooth 	kiru	𓄑 chorn 	++	
+78	tongue (organ) 	qallu	qa? zu.longue	+-<	
+79	fingernail 	sillu			
+80	foot 	chaki			
+81	leg 	chanka	Schenkel		
+82	knee 	qunquri	gon.knie		
+83	hand 	maki		--	
+84	wing 	rapra	Ptra : feather		
+85	belly 	wiksa		;)	
+86	guts 	chunchul			
+87	neck 	kunka	knick: k’neck	++<	
+88	back 	wasa			
+89	breast 	qasqu			
+90	heart 	sunqu			
+91	liver 	kiwcha, k'ipchan			
+92	to drink 	upyay	-ay -uy = (I?)do 		
+93	to eat 	mikhuy			
+94	to bite 	kaniy	kaun		
+95	to suck 	chunqay	chunk		
+96	to spit 	tuqay	Tuq ~ spuck	-	
+97	to vomit 	aqtuy	kotz	-+	
+98	to blow 	phukuy, wayray (wind)	pust		
+99	to breathe 	samay			
+100	to laugh 	asiy			
+101	to see 	rikuy	recon		
+102	to hear 	uyariy	hör.iy	+-	
+103	to know 	yachay	yach yad vyd wiss	+- SEM	
+104	to think 	yuyay			
+105	to smell 	mutkiy			
+106	to fear 	manchay	m’angst		
+107	to sleep 	puñuy			
+108	to live 	kawsay			
+109	to die 	wañuy	Vanish @ Vana™		
+110	to kill 	wañuchiy	Vinci <> vanish		
+111	to fight 	awqay			
+112	to hunt 	chakuy, kasachiy			
+113	to hit 	maqay	machete™		
+114	to cut 	p'itiy, kuchuy	kuch~cut		
+115	to split 	laray			
+116	to stab 	chusyay			
+117	to scratch 	aspiy			
+118	to dig 	allay			
+119	to swim 	wayt'ay	water	++	
+120	to fly 	phaway	phlay away @ Sem	+++<	
+121	to walk 	puriy	𓂾uriy	+?	
+122	to come 	hamuy	cham come	++	
+123	to lie (as in a bed) 	sirikuy (action), waqtapay (state)	slip sleep	- 	
+124	to sit 	tiyakuy (action)	tisch?	-	
+125	to stand 	sayariy (action)	s…	-	
+126	to turn (intransitive) 	muyuy			
+127	to fall 	urmay			
+128	to give 	quy	Quy ~ give	+-	
+129	to hold 	tiyaway	Tiya ~ take	-	
+130	to squeeze 	qapiy			
+131	to rub 	kituy			
+132	to wash 	maqchiy, taqsay			
+133	to wipe 	chakichiy			
+134	to pull 	aysay			
+135	to push 	tanqay	tank		
+136	to throw 	wichuy, chamqay			
+137	to tie 	watay			
+138	to sew 	siray	~	+ 	
+139	to count 	yupay	yuppie 	;)	
+140	to say 	niy	nounce	+-	
+141	to sing 	takiy			
+142	to play 	pukllay	Puklay ~ play	++<!?	
+143	to float 	tuytuy			
+144	to flow 	tinkukuy			
+145	to freeze 	qasay	√q’ice kalt	++	
+146	to swell 	punkiy			
+147	sun 	inti	hindi? Sinti?	<	
+148	moon 	killa	killer moon KiLilith ⚸	++	
+149	star 	quyllur	⚸ ≠ colour		
+150	water 	unu, yaku	run, wakur	--<	
+151	rain 	para	parain plluvia@Peru,latin	++<	
+152	river 	mayu	mayim מים	+++	
+153	lake 	qucha	Kuhle кӳлĕ 	+?	
+154	sea 	mama qucha	Marmara Meer	++	
+155	salt 	kachi			
+156	stone 	rumi	rome?		
+157	sand 	t'iyu			
+158	dust 	hallp'a			
+159	earth 	allpa		<<	
+160	cloud 	puyu	Phuyag ~ fog  *pew blow, billow	++<	
+161	fog 	phuya	Phuyag ~ fog  *pew blow, billow	+++	
+162	sky 	hawa	heaven	+++	
+163	wind 	wayra	win’ra	<	
+164	snow 	rit'i		--	
+165	ice 	qasa	q’ice 雪糕 xuěgāo 	++	
+166	smoke 	qusñi			
+167	fire 	nina		--	
+168	ash 	uchpa	ashpa aspen!	+?	
+169	to burn 	rawray		--	
+170	road 	ñan			
+171	mountain 	urqu	Urqu < kurkur	++++	
+172	red 	puka			
+173	green 	qumir			
+174	yellow 	qillu	qyellow	++	
+175	white 	yuraq	Iraq < fire?	<	
+176	black 	yana	Iah’nax 🌒 negro	+++	
+177	night 	tuta			
+178	day 	p'unchaw			
+179	year 	wata	warte@Wende	+?	
+180	warm 	illi	≠chilli	>>	
+181	cold 	chiri	chryo chilly	++	
+182	full 	hunt'a			
+183	new 	musuq	𓌳 	+++	
+184	old 	machu, tanta	macha, senil	+/	
+185	good 	kusa (things), sumaq (persons)	Khudh : good / kuss		
+186	bad 	mana allin	mean		
+187	rotten 	ismusqa			
+188	dirty 	qanra			
+189	straight 	chiqa			
+190	round 	muyu			
+191	sharp (as a knife) 	kachi			
+192	dull (as a knife) 	ruqu			
+193	smooth 	lluspi			
+194	wet 	huq'u			
+195	dry 	chaki			
+196	correct 	chanin			
+197	near 	sichpa			
+198	far 	karu		<	
+199	right 	paña			
+200	left 	lluqi	levko	++	
+201	at 	-pi	Bei @ sem	++	
+202	in 	-pi	Bei @ sem	++	
+203	with 	-yuq	Y @ sem	++	
+204	and 	-wan	wand	+++	
+205	if 	-pti-, sichus, manapiqa	𓇋 !  si… sei…	+?	
+206	because 	-rayku			
+207	name 	suti			

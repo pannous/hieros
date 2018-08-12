@@ -1,10 +1,10 @@
-↔ δ λ Ϛζ α δ ~ σ ȳ ł := ɽ/ר/𐬭/λ/r/Ր/l/ƪ
+↔ δ λ Ϛζ α δ ɠ ~ σ ȳ ł := ɽ/ר/𐬭/λ/r/Ր/l/ƪ
 √ Ḫ ḫ ι ə γ δ φ ϑ Θ θ χ ψ ţ χ ξ
 | 
 DI/ṭi|𓊵|𒁲 𝟋
-α β ζγ δ ε ϝ γζ η ι  θ κ λ μ νξ οω π ξ  ϱ ςσ ψ τ υ φ ω χ υ ζ ϊ ϋ ό ύ ώ ϐ 
-Α Β ΖΓ Δ Ε Ϝ ΓΖ Η Ι  Θ Κ Λ Μ ΝΞ ΟΩ Π Ξ  ρ ΣΣ Ψ Τ Υ Φ Ω Χ Υ Ζ Ϊ Ϋ Ό Ύ Ώ Β 
-A B CG D E F GZ H I JT K L M NX OW P Xu R S ps T Y V W X Y Z
+α β ζγ δ ε ϝφ γζ η ι  θ κ λ μ νξ οω πφ ξ  ϱ ςσ ψ τ υ φ ω χ υ ζ ϊ ϋ ό ύ ώ ϐ 
+Α Β ΖΓ Δ Ε ϜΦ ΓΖ Η Ι  Θ Κ Λ Μ ΝΞ ΟΩ ΠΦ Ξ  ρ ΣΣ Ψ Τ Υ Φ Ω Χ Υ Ζ Ϊ Ϋ Ό Ύ Ώ Β 
+A B CG D E Fø GZ H I JT K L M NX OW PH Xu R S ps T Y V W X Y Z
 
 F ϝ digamma: enough => enaϝ ϑβ  𐀣 γκϝέ.si.le.u = basileus !
 ζ zoo deer tier
@@ -576,8 +576,7 @@ ajsthytyrion ®
 
 
 152 αἰσχύνη ς shame
-ashyn
-<> a'sünd
+ashyn a'shamen <> a'sünd
 
 153 αἰσχύν     ashamed, am put to shame
 ashano.moi
@@ -728,7 +727,7 @@ a'kǒu 口 echo <> ερέ hear say
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 1325 δίδ	
-cess ® = HAND offer, give OK (τήδ χυσ)
+cess ® = HAND xeir share offer, give OK (τήδ χυσ)
 cedo / cess ®  "set out" <!NOT!> seß SIT-down sedo !
 zession "move out"
 cession assignment Trennung®   vs
@@ -1000,22 +999,23 @@ Reue remordi.miento remorse      penitence repentance skrucha  rueful regret
 
 
 269 ἄμαχ.ος   not quarrelsome, peaceable
-un-machos
+un-machos, a¬MARCOs <> MARS! ¬Marsch!
 
 270 ἀμά   mow, reap
-mow ++
+a'mow ++
 
 271 ἀμέθυστ.ος   amethyst
-+
+a¬methyl : not drunk (magic property of amethyst, rlly)
+
 272 ἀμελέ   neglect
-?
+a¬meliorate?
+
 273 ἄμεμπτ.ος   blameless
 274 ἀμέμπτως   blamelessly
-un-mempti ?<
+un-mempti ?< @ Memphis?
 
 275 ἀμέριμν.ος   free from anxiety
-a-merimn
-no mares
+a-merimn  ohn-mares
 
 276 ἀμετάθετ.ος   unchanged, unchangeable
 a-meta-thetos <
@@ -18021,7 +18021,7 @@ how likely is it that a language adopted a lean-word for 'hand' !?!
  manus
    
 hand, handle (of jar)  D46D 𓂧 X1 𓏏  Z1 𓏤 
-hanD [vs chiro]
+hanD [vs chiro] χειρο, χειρό, χειρα
 leaD
 
 5496 χειραγωγέ   lead by the hand

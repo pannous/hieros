@@ -1,213 +1,214 @@
-No 	English 	IE		Aymara 	Kunza 		WichÃ­ languages (Guisnay, Nocten and Vejoz) 	Mapudungun 	Rapa Nui (Austronesian)	Spanish
-1	I * 	an.aI  na.I <> nous	ğŸ—¸ğŸ—¸!?	naya 	ackcka 		nâ€™lham 	iÃ±che 	(ko)au 	yo
-2	you (sing.) 	tchju! Yjou.ma	ğŸ—¸ğŸ—¸!?	juma 	tchema 		am 	eymi 	(ko)koe 	tÃº, usted (formal)
-3	he 	lham, elâ€™hem, (ha)Ã®a 	ğŸ—¸ğŸ—¸!?	jupa 	? 		lham 	fey 	(ko)/(a)Ã®a 	Ã©l
-4	we * 	nous, ickun	ğŸ—¸ğŸ—¸!?	nanaka, jiwasa, jiwasanaka 	ckun 		namilh (incl.), tolhamilh (excl.) 	iÃ±chiÃ±, iÃ±chiw (dual) 	(ko)tÃ¢tou (inclusive), (ko)matou (exclusive), taÃ»a (dual: you and I), maÃ»a (dual: he and I) 	nosotros, nosotras 
-5	you pl 	you.men! Ka?	ğŸ—¸ğŸ—¸!?	jumanaka 	tchÃ­mi 		amilh 	eymÃ¼n, eymu (dual) 	korua, korua arurua (dual) 	vosotros, vosotras, ustedes (formal)
-6	they 	--		jupanaka 	ickota 		lhamilh 	feyengÃ¼n, feyengu (dual) 	(ko)raÃ»a, raÃ»a arurua (dual) 	ellos, ellas
-7	this * 	aqui	ğŸ—¸ğŸ—¸	aka 	aÃ¢ya, anta 		tojha 	(tÃ¼)fachi, (tÃ¼)fa 	nei 	este
-8	that * 	aqui, acÃ¡	ğŸ—¸ğŸ—¸	uka 	? 			(tÃ¼)feychi 	ena, era 	ese, aquel
-9	here 	aqui, acÃ¡	ğŸ—¸ğŸ—¸	akana, akja 	aiss, ap-ps 		ikana 	tÃ¼famew, fa(me)w 	Ã®, inei 	aquÃ­, acÃ¡
-10	there 			khÃ¤na 	? 		iknhi 	tiyemew, eye, uye eyew 	(nai)nÃ¡, airÃ¡-era 	ahÃ­, allÃ­, allÃ¡
-11	who * 	khwit	ğŸ—¸ğŸ—¸	khiti 	? 		atâ€™e 	iney, iÃ±ey 	aai 	quien
-12	what * 	kv*	ğŸ—¸ğŸ—¸	kuna 	? 		atâ€™ep 	chem 	aha 	que
-13	where 	kv*	ğŸ—¸ğŸ—¸	kawki 	? 		eâ€™ihi 	chew 	(i)hÃ©, i kona hÃ© 	donde
-14	when 	kv*	ğŸ—¸ğŸ—¸	? 	? 		eâ€™ihinaji 	chumÃ¼l 	agahÃ© 	cuando
-15	how 	kv*	ğŸ—¸ğŸ—¸	? 	? 		eâ€™wuye 	chum(á¹‰echi) 	pehea 	como
-16	not * 	la! niwu! 	ğŸ—¸ğŸ—¸!?	janiwa 	[[]] 			-la 	kai 	no
-17	all * 	Kall !!!!! panâ€™i	ğŸ—¸ğŸ—¸!?	q'ala 	baini 		nufwu 	fill, kom 	ana(kea)nake 	todo
-18	many * 	panta		ancha, anchaki 	? 		nitokw 	alÃ¼á¹‰, fent(r)en 	? 	muchos
-19	some 			yaqhipa 	? 		mayek 	kiÃ±eke 	? 	algunos, unos
-20	few 	Â¬alle!	ğŸ—¸ğŸ—¸!?	k'atalla 	? 		lhimphaj, niwefwa 	pichi 	? 	poco
-21	other 	Wother <> both?	ğŸ—¸ğŸ—¸!?	wasa, yaqha 	? 		elh 	kangelu 	tahi 	otro
-22	one* 	mein, unu, iÃ±e, uma@port 	ğŸ—¸ğŸ—¸	maya 	semma 	uno	unu 	kiÃ±e 	(e)/(ka)tahi @NZ	uno
-23	two* 	bi?	ğŸ—¸ğŸ—¸!?	paya 	ppoya 	dus	lus 	epu 	(e)/(ka)rua ER!	dos
-24	three 	ğ“ğ“‚¸ğ“ khmtha!!!!	ğŸ—¸ğŸ—¸!?	kimsa 	ppÃ¡lama 	tares	tales 	kÃ¼la 	(e)/(ka)toru  !	tres
-25	four 	fouâ€™	ğŸ—¸ğŸ—¸	pusi 	? 	katro	kwatlu 	meli 	(e)/(ka)hÃ¡  kaha	cuatro
-26	five 	Pes, fiqve ++ cinqa	ğŸ—¸ğŸ—¸	phisqa 	? 	cinco	sinku 	kechu 	(e)/(ka)rima 	cinco
-	6	sixt!!	ğŸ—¸ğŸ—¸	suxta		â€¦				
-	7	2+5	(ğŸ—¸)	paqalqu						
-	8	3+5	(ğŸ—¸)	kimsaqalqu						
-	9	Â¬10	ğŸ—¸ğŸ—¸!?	llatunka						
-	10	ten! Deka!	ğŸ—¸ğŸ—¸	tunka						
-27	big * 	acha!		jach'a 	ckapur 		wefw 	futa, fucha, buta, buka 	nui nui 	grande
-28	long * 			suyt'u, sayt'u, jach'a 	? 		pitaj 	wif 	roa 	largo
-29	wide 	tall, gar, thickar	~ğŸ—¸? 	t'alpha 	ckackar 		chitsajhu, chitsajpho 	fÃ¼charume, fÃ¼charupa 	lau 	ancho
-30	thick 	thiâ€™  thorough?	~ğŸ—¸? 	thuru 	? 		tachâ€™upway 	fÃ¼charume, fÃ¼charupa 	matoru 	grueso
-31	heavy 	Peso, ?	<<	jathi 	[[]] 		nichuyhat 	fane 	pagaha'a 	pesado
-32	small * 	pico, newch, ?	ğŸ—¸ğŸ—¸ Â½ 	jisk'a 	[[]] 		niwefwa, lhomsaj 	pichi 	iti (iti) 	pequeÃ±o
-33	short 	pico, nipt?	ğŸ—¸ğŸ—¸	[[]] 	[[]] 		niptaja 	pichi, pÃ¼tru 	poto 	corto
-34	narrow 	culâ€™cui!	~ğŸ—¸? 	k'ullk'u 	[[]] 		ilupenche, niktsajahu 	pichirume, pichirupa 	rikiriki, vakavaka 	estrecho, angosto
-35	thin 	schlank? Tisin++	~ğŸ—¸-	juchusa, sillp'a, tisi 	[[]] 		ilupen 	pichirume, pichirupa 	ra'i 	delgado, flaco
-36	woman * 	waâ€™min!	ğŸ—¸ğŸ—¸!?	warmi, tawaqu (young woman) 	lickau 		atsinha 	domo (che), Ã¼llcha domo (young woman) 	vi'e 	mujer
-37	man (adult male) 	wandro!! vainâ„¢ Sascha?	ğŸ—¸ğŸ—¸!?	chacha, wayna (young man) 	sima 		hin'u 	wentru 	tangata 	hombre
-38	man * (human being) 	Tongatha : gath.tan! Jaqi?		jaqi 	? 			che, wentru 	tangata 	hombre
-39	child 	pico wandro!! ;)	ğŸ—¸ğŸ—¸!?	lala (boy), lulu (girl) 	(p)pauna 		haâ€™noâ€™fwaj 	pichi wentru (boy), pichi domo (girl) 	poki tamaaroa/poki tane (boy), poki tamahahine/poki vahine (girl) 	niÃ±o, niÃ±a
-40	wife 	waâ€™min!	ğŸ—¸ğŸ—¸!?	warmi 	? 		tochâ€™efwa atsinha 	kure, Ã±adu (brother's), fillka (older brother's), Ã¼mwe (younger brother's), pÃ¼Ã±mo (son's, daughter-in-law) 	vi'e 	esposa, mujer
-41	husband 			chacha, jaynu 	sima 		tochâ€™efwa hinâ€™u 	fÃ¼ta, ngillaÃ± (sister's), kurum (older sister's), ngillaÃ±wentru (younger sister's), chedkuy (daughter's, son-in-law) 	kenu 	esposo, marido
-42	mother 	mama	ğŸ—¸ğŸ—¸	tayka, mama 	? 		toku 	Ã±uke, chuchu (mother's), kuku (father's), llalla (wife's) 	nua (archaic), matu'a vahine/matu'a poreko 	madre
-43	father 	tata	ğŸ—¸ğŸ—¸	awki, tata 	tickan 		tofwcha 	chao, cheche (mother's), á¸»aku (father's), chedkuy (wife's) 	koro (archaic), matu'a tane/matu'a tamaaroa 	padre
-44	animal 	warqa! ğ’Œ¨~ğ’Œ· Ä§ayawÄn !!	ğŸ—¸ğŸ—¸!?	uywa (domestic), warqa (wild) 	[[]] 		tshowet 	kulliÃ± 	ika, manu 	animal
-45	fish* 	kaul@Uralic,DE!	ğŸ—¸ğŸ—¸!?	challwa, chawlla 	ckacktchi 		wâ€™ahat 	challwa 	ika 	pez, pescado
-46	bird* 	Musi! Tchir(p)!!! <> much, many!!	~ğŸ—¸? 	ja.mach'i 	la(a)tchir 		afwenche 	Ã¼Ã±Ã¼m 	manu 	ave, pÃ¡jaro
-47	dog* 	hunâ€™	~ğŸ—¸? -	anu, anuqara 	lockma 		asinoj 	trewa 	paihenga 	Perro <> bello!?
-48	louse* 	laupsa	~ğŸ—¸? -	lap'a 	hebir, horckan 		lhaâ€™ 	tÃ¼n 	kutu 	piojo
-49	snake 	kaâ€™ar!  Cnatter!	~ğŸ—¸ !!!!?	katari, asiru 	[[]] 		afwotsaj 	filu, vilu 	? 	serpiente, culebra
-50	worm 	lauqse	~ğŸ—¸? -	laq'u 	? 		iwus, fwinayhay 	piru 	o'i o'i 	gusano
-51	tree* 	mu	~ğŸ—¸	quqa 	? 		hal'o 	mamÃ¼ll, mamill, aliweá¹‰ (native tree) 	miro 	Ã¡rbol
-52	forest 	mu	~ğŸ—¸	? 	[[]] 		tayhi 	lemu 	? 	bosque
-53	stick 	laâ€™acha : ast! <> leash? â€“		lawa 	? 		lhacha (branch) 	mamÃ¼ll 	kohoa, miro 	palo
-54	fruit 			achu 	? 		lha 	fÃ¼á¹‰mamÃ¼ll 	kai 	fruta
-55	seed* 	1.thaed karun:Kern	~ğŸ—¸?? Â½ ğŸ—¸ğŸ—¸!?	ja.tha, muju 	? 		tokoslhuâ€™ 	fÃ¼á¹‰, fÃ¼n 	karu 	semilla
-56	leaf* 	lleapqe lawul leaf <> raupÃ¡!!	~ğŸ—¸? ğŸ—¸ğŸ—¸!	llaqa 	ckatta 		lawule 	tapÃ¼l 	rau, raupÃ¡ 	hoja
-57	root* 	ÅšÉ™rw@semit	ğŸ—¸ğŸ—¸	saphi 	ckapar 		lafwettsi 	folil 	aka 	raÃ­z
-58	bark* (from tree) 	kiri~kar,cortez	ğŸ—¸ğŸ—¸	? 	tchacktchastur 			trolÃ¼f 	kiri 	corteza
-59	flower 	<< 5? O?		panqara 	putchur, tticka 		lhawu 	rayen 	pua, tiare (Tahitian) 	flor
-60	grass 	<>cut, chop	~ğŸ—¸?? Â½ 	chhuxlla 	ckautcha 		hep 	kachu 	mouku 	hierba, pasto
-61	rope 	Tau! >>	~ğŸ—¸?? Â½ 	phala 	misckar 		niyokw 	zef 	taura 	cuerda
-62	skin* 	1.nchi~skin	~ğŸ—¸?? Â½ 	janchi 	ckati 		totâ€™oj 	Trawa ~~ derma	kiri 	piel
-63	meat 	Chicarne â€“	~ğŸ—¸?? Â½ 	ay.cha, chichi 	? 		tâ€™isan 	ilo 	kiko 	carne
-64	blood* 	bilaod!	~ğŸ—¸?? Â½ 	wila 	laari 		wâ€™uyis 	mollfÃ¼Ã± 	toto 	sangre
-65	bone* 	<<		ch'akha 	? 		lhile 	foro 	ivi 	hueso
-66	fat* (n.) 			lik'i 	? 		tulupeâ€™ (Spanish) 	yiwiÃ± 	nako 	grasa
-67	egg* 	huhnvo!!!! huevo <>	~ğŸ—¸?	k'anwa, k'awna 	ckauti 		lhechâ€™e 	kuram 	mamari 	huevo
-68	horn* 	<< ğ“„¦ğ“„ªğ“„§  		waxra 	backra 		tochâ€™e 	mÃ¼ta  ğ“± 	? 	cuerno
-69	tail* 	<> winken, winseln < pinsel	~ğŸ—¸?	wich'inkha 	[[]] 	cola	tochos 	kÃ¼len 	hiku 	cola
-70	feather* 	phuru!!!	~ğŸ—¸?	phuyu 	ack-iu 		afwenche wâ€™ule 	pichun, pichuÃ± 	huru huru 	pluma
-71	hair* 	schnitt/schurte !?!		Ã±ik'uta 	? 		towâ€™uley 	(kaá¸») longko 	rauoho 	cabello, pelo
-72	head* 	Qop | piq pickel(haube@prus â€“)	?	p'iqi 	? 		tolhetek 	longko 	puoko 	cabeza
-73	ear* 	<> muschel?		jinchu 	ckaickai 		tochâ€™uteâ€™ 	pilun 	taringa 	oreja
-74	eye* 	mnoyra!!!! aunge ++++++	ğŸ—¸ğŸ—¸	nayra 	ckepe, ckepi 		tottelhu 	nge 	mata 	ojo
-75	nose* 	Nase!! +++	ğŸ—¸ğŸ—¸	nasa 	seppi 		tonhes 	yu 	ihu 	nariz
-76	mouth* 	la.kau! Gueule +++	~ğŸ—¸	laka 	? 		tokâ€™aj 	wÃ¼á¹‰ 	haha 	boca
-77	tooth* 	CkÃ©nia ~ ZÃ¤hne ++ ;)	~ğŸ—¸	laka ch'akha 	ckÃ©nia 		totsute 	foro 	niho 	diente
-78	tongue* 	languar	~ğŸ—¸	laxra 	? 		tokâ€™ajlhechâ€™e 	kewÃ¼á¹‰, kewen 	arero 	lengua
-79	fingernail 			sillu 	ckenni 		tofwefwtâ€™oj 	wili 	akikuku, maikuku 	uÃ±a
-80	foot* 	go-- kÄja@Balt!!   qad@sem ayak,algan@altai 	~ğŸ—¸	kayu 	ckutchir 		topachâ€™u 	á¹‰amuá¹‰ 	va'e 	pie
-81	leg 	~kayu,kÄja,kuoja @Baltic !!	~ğŸ—¸	chara 	? 		totkolo 	chang 	horeko va'e 	pierna
-82	knee* 	qunie	~ğŸ—¸	qunquri 	? 		topâ€™ulhak 	luku 	turi va'e 	rodilla
-83	hand* 	am! rima â‰ amputier	<	ampara 	suy-i 		totkwe 	kÃ¼wÃ¼ 	rima 	mano
-84	wing 	<> chick;)	?	chhiqha 	ack-iu 		tolhefw 	mÃ¼pÃ¼ 	karÃ¡ 	ala
-85	belly* 	barriga@ES, panza!	ğŸ—¸ğŸ—¸	puraka, phathanka (stomach) 	ckani 		totsâ€™e 	pÃ¼tra 	kopÃº (stomach), manava 	barriga, vientre, panza
-86	guts 	1.fÃ¼ll?		jiphilla 	? 		totkosley 	kÃ¼llche 	kokoma 	entraÃ±as, tripas
-87	neck* 	negao!!! knick?	ğŸ—¸ğŸ—¸!?	kunka 	? 		towâ€™u 	peá¸» 	ngao 	cuello
-88	back 	arci!		ati 	? 		towhu 	furi 	(tu'a)/(tua')ivi 	espalda
-89	breast* 	mama, nunuckel, tit!	ğŸ—¸ğŸ—¸	Ã±uÃ±u 	aytiackatnu 		totâ€™ate 	moyo, ruku 	Ã» 	pecho, seno
-90	heart* 	lopque loeb lieb love luck		lluqu 	tchitack 		totâ€™utle 	piwke 	inanga, mahatu (Tahitian) 	corazÃ³n
-91	liver* 	<<		k'iwcha 	himri 		totonek 	ke 	ate (Ã¡nu Ã¡nu)/(hio hio) 	hÃ­gado
-92	drink* 	manger--	<<	umaÃ±a 	haitatur, ckacktur 		iyoyej 	putun 	unu 	beber, tomar
-93	eat* 	manger++ munchâ€™en	ğŸ—¸ğŸ—¸!?	manq'aÃ±a 	holm' tur 		tefw 	in 	kai 	comer
-94	bite* 	ngau: kau <> neck!	ğŸ—¸ğŸ—¸!?	achuraÃ±a (bite one by one) 	[[]] 		yukwaj 	Ã¼nan 	ngau 	morder
-95	suck 			[[]] 	[[]] 		hitsâ€™e 	fochÃ¼dÃ¼n 	omo 	chupar
-96	spit 	~ 		thusarpaÃ±a 	[[]] 		ifwatsâ€™enchoâ€™ 	tofkÃ¼n 	aanu 	escupir
-97	vomit 	kotz!!	ğŸ—¸ğŸ—¸!?	kutuyaÃ±a 	ppotuntur 		tachâ€™eylhi 	rapin 	rua 	vomitar
-98	blow 	pusten!! @baltic	ğŸ—¸ğŸ—¸!?	phusaÃ±a 	ppÃºputur 		yafwit 	pimun 	puhi 	soplar
-99	breathe 			[[]] 	hatckatchatur, hatratchatur 		tâ€™iyalh 	á¹‰eyÃ¼n 	haa 	respirar
-100	laugh 	lachen!!!  -EN !!!!!! +++++++++	ğŸ—¸ğŸ—¸!?	laruÃ±a  -uÃ±a -aÃ±a  !!!!!!!	[[]] 		tâ€™ischey 	ayen 	kata 	reÃ­r
-101	see* 	uin.aÃ±a  oyn.aÃ±a  oille.aÃ±a +++	ğŸ—¸ğŸ—¸!?	uÃ±aÃ±a, ullaÃ±a 	[[]] 		hiwâ€™en 	kintun 	tikea 	ver
-102	hear* 	sDm!!	ğŸ—¸ğŸ—¸!?	ist'aÃ±a 	yÃ©bitur 		ilota 	allkÃ¼n 	ngaro'a 	oÃ­r
-103	know* (a fact) 	<<		yatiÃ±a 	[[]] 		yihanej 	kimÃ¼n 	agi 	saber
-104	think 			lup'iÃ±a, amuyt'aÃ±a 	[[]] 		tichunlhi 	rakiduamÃ¼n 	mana'u 	pensar
-105	smell 	~ 		musuÃ±a 	[[]] 		tanâ€™isinej 	nÃ¼mÃ¼n 	hongi 	oler
-106	fear 			mulla 	[[]] 		nuway 	llÃ¼kan 	mataku 	temer
-107	sleep* 			ikiÃ±a 	[[]] 		imo 	umawtun 	moe 	dormir
-108	live 	sarn.anqa!!! <<<<<>>>>	ğŸ—¸ğŸ—¸!?	qamaÃ±a, sarnaqaÃ±a 	[[]] 		iloy, ihi 	mongelen 	ora 	vivir
-109	die* 	nirwana!  Mate	~ğŸ—¸!?	jiwaÃ±a 	[[]] 		y'ilh, ileyej hunhat 	á¸»aá¹‰, á¸»ay 	mate 	morir
-110	kill* 			jiwarpÃ¤Ã±a, jiwarpayaÃ±a 	lattatur 		ilon 	á¸»angÃ¼mÃ¼n 	tinga'i 	matar
-111	fight 	zick? Tollen keb?	~ğŸ—¸?	sillqiÃ±a 	[[]] 		tolâ€™ey 	kewan 	[[]] 	pelear
-112	hunt 	hnun htun hunt	~ğŸ—¸?	[[]] 	[[]] 		chel 	nÃ¼n, tun 	poko 	cazar chase<>nezar!
-113	hit 	Golpear@sem!! <<>>		k'uphaÃ±a, nuwaÃ±a 	[[]] 		yikojlhi 	mÃ¼trongÃ¼n, palolpaloltun 	tu'u 	golpear
-114	cut 	katrÃ¼n cortar	ğŸ—¸ğŸ—¸	khariÃ±a 	[[]] 		yiset 	katrÃ¼n 	tarai, vahi 	cortar
-115	split 	part	~ğŸ—¸?	pachjaÃ±a 	[[]] 		hichâ€™esaj 	triran 	ngahaa 	partir
-116	stab 			[[]] 	[[]] 		itsonhu 	chÃ¼ngarÃ¼n 	oka 	apuÃ±alar
-117	scratch 	J-r-qh-n  sc-r-tch-n  jucken!!	ğŸ—¸ğŸ—¸!?	jurqhiÃ±a, jurqhiraÃ±a 	[[]] 		chasmajlhi 	Ã¼nan 	raku 	araÃ±ar, rascar
-118	dig 	buddel!?+	ğŸ—¸ğŸ—¸!?	p'ataÃ±a, alliÃ±a, jat'iÃ±a 	[[]] 		tishi 	rÃ¼ngan 	karo 	cavar
-119	swim* 	thun, kaul		tuyuÃ±a, tuykataÃ±a 	[[]] 		tâ€™ilin 	weyelÃ¼n 	kau 	nadar
-120	fly* (v.) 	tyr.una	~ğŸ—¸?	t'uyuÃ±a, jalsuÃ±a 	[[]] 		wiyâ€™o 	mÃ¼pÃ¼n 	rere 	volar
-121	walk* 	track, sar~gir +-	~ğŸ—¸?	saraÃ±a 	[[]] 		yik 	trekan, marchay 	haere 	caminar
-122	come* 			jutaÃ±a 	hautur 		nom 	kÃ¼pan 	tu'u 	venir
-123	lie* 			ikintaÃ±a 	[[]] 		lhipiyen, imokatsi 	tranawÃ¼n, kuzun 	moe 	echarse, acostarse, tenderse
-124	sit* 	qun@	~ğŸ—¸?	qunuÃ±a 	[[]] 		tataypho 	anÃ¼n 	noho 	sentarse
-125	stand* 	Â¬sit-		[[]] 	[[]] 		takasit 	witrapÃ¼ran 	tu'u 	estar de pie
-126	turn 	taviri 	ğŸ—¸ğŸ—¸!?	[[]] 	[[]] 		ilenejlhi 	chÃ¼wÃ¼zÃ¼n 	taviri 	voltear
-127	fall 	TÃ¶lpel ~ sâ€™tolhpho stolpern tylppÃ¤ dull	ğŸ—¸ğŸ—¸!?	jalaqtaÃ±a 	[[]] 		tolhpho 	Ã¼trÃ¼naqÃ¼n 	hinga 	caer
-128	give* 	cheiro! kâ€™hand !	ğŸ—¸ğŸ—¸!?	churaÃ±a 	ckantur 		hiwâ€™enhu 	wÃ¼lÃ¼n 	[[]] 	dar
-129	hold 			[[]] 	[[]] 		ichojlhi 	nÃ¼nien 	aaru 	sostener
-130	squeeze 			q'upjaÃ±a 	[[]] 		hitsâ€™ifwin 	kÃ¼trÃ¼n, ngÃ¼trarÃ¼n 	ngatu 	apretar
-131	rub 			khakhuraÃ±a 	[[]] 		ifwetlhi 	ngÃ¼llfÃ¼n 	[[]] 	frotar
-132	wash 	<>jar	~ğŸ—¸?	jariÃ±a 	[[]] 		ilej 	kÃ¼chan 	[[]] 	lavar
-133	wipe 	wischen!!	ğŸ—¸ğŸ—¸!?	phiskhuÃ±a 	[[]] 		isek (sweep) 	lipÃ¼mÃ¼n 	[[]] 	limpiar
-134	pull 	tir~-	<<	t'ajsaÃ±a, mithaÃ±a 	[[]] 		itunhi 	witran 	[[]] 	tirar
-135	push 			nukhuÃ±a 	[[]] 		yihetche 	rÃ¼ltren 	[[]] 	empujar
-136	throw 			[[]] 	[[]] 		tafwumej 	Ã¼trÃ¼fentun 	vero 	tirar, arrojar
-137	tie 	<<		Ã±ach'aÃ±a, yapiÃ±a 	[[]] 		inayhit 	trarin 	haha'u 	atar
-138	sew 			chhithaÃ±a 	[[]] 		itsek 	Ã±Ã¼zÃ¼fÃ¼n 	tui 	coser
-139	count 	--		wakhuÃ±a 	[[]] 		kunta (Spanish) 	rakin 	tataku 	contar
-140	say * 	---		[[]] 	hammatur 		yuk, fwelh 	pin 	ki 	Decir !!!
-141	sing 	jalla;) jodl		waruruÃ±a, jaylliÃ±a 	[[]] 		tâ€™ichâ€™uylhi 	Ã¼á¸»kantun 	[[]] 	cantar
-142	play 	<-		anataÃ±a 	[[]] 		yikuy 	awkantun 	(ko)kori 	jugar
-143	float 			[[]] 	[[]] 		ipeâ€™not 	zeÃ±oyÃ¼n 	[[]] 	flotar
-144	flow 			[[]] 	[[]] 		yik 	witrun 	tehe 	fluir
-145	freeze 			ch'uÃ±jaÃ± (freeze potatoes) 	[[]] 			trangliÃ±Ã¼n 	[[]] 	helar
-146	swell 			p'asatatasna 	[[]] 		tâ€™ikwa (noun) 	ponkwin, iÃ±chalen 	[[]] 	hincharse
-147	sun* 	raÃ¡!! sunti aá¹‰á¹¯Ã¼ <<	ğŸ—¸ğŸ—¸!?	willka (ritual), inti 	ckaÃ¢pin, ckapin 		fwala 	aá¹‰á¹¯Ã¼ 	raÃ¡ 	sol
-148	moon* 	mahina!!, amur, ***Si ---	ğŸ—¸ğŸ—¸!? ??	phaxsi 	ckamur 		welâ€™a 	kÃ¼yeá¹‰ 	mahina 	luna
-149	star* 	kwarkwar kawkva@Syriac!!	ğŸ—¸ğŸ—¸!?	warawara 	haalar 		kates 	wangÃ¼len 	hetu'u 	estrella
-150	water* 	ackua, pour, apa, umwa@	ğŸ—¸ğŸ—¸!?	uma 	ack, puri, puye, yacko 		inot 	ko 	vai 	agua
-151	rain* 	(p)lluvia? <> flow  zaÃ¯re?	?	jallu 	saire, sairi 		inot litak 	maw 	ua 	lluvia
-152	river 	jrivera!	~ğŸ—¸?	jawira 	back-cka 		tewuk 	lewfÃ¼, á¸»ewfÃ¼ 	? 	rÃ­o
-153	lake 	Aquata !! ^^	ğŸ—¸ğŸ—¸!?	quta 	? 		lawumek, lhemchitaj 	pichiá¸»afkeá¹‰ 	rano 	lago
-154	sea 	la.mar (spanish) quta 	ğŸ—¸ğŸ—¸!?	mama quta, lamarquta (Spanish) 	? 		inot litak 	á¸»afkeá¹‰ 	tai 	mar
-155	salt 	Chadi ~ salt	ğŸ—¸ğŸ—¸!?	jayu 	ckuta, ckutta 		nisuy 	chadi 	miti 	sal
-156	stone* 	kura!! qala<>Ä¡ebla, Ä§aÄ¡ra ++!!	ğŸ—¸ğŸ—¸!?	qala 	ckaitchi 		tente 	kura 	ma'ea 	piedra
-157	sand* 	salâ€™	ğŸ—¸ğŸ—¸!?	ch'alla 	horckte 		alena 	kuyum 	one 	arena
-158	dust 			? 	[[]] 		hulu, lamukw 	trufÃ¼r, trufken 	hunga 	polvo
-159	earth* 	uraqi earthi !!! ++++	ğŸ—¸ğŸ—¸!?	pacha, uraqi 	? 		hunhat 	mapu 	henua, kaÃ­Å‹a 	tierra
-160	cloud* 			qinaya 	[[]] 		pele 	tromÃ¼ 	rangi 	nube
-161	fog 			[[]] 	[[]] 		tetsetaj 	trukur 	kapua 	niebla
-162	sky 	la.qampu?? pele peâ€™er <<	??	laqampu 	[[]] 		pele 	kallfÃ¼ wenu 	rangi 	cielo
-163	wind 	thurika tokerau ?	<	thaya 	[[]] 		ihwok 	kÃ¼rÃ¼f 	tokerau 	viento
-164	snow 	shunuw! Kyron	ğŸ—¸ğŸ—¸!?	khunu 	? 			pire, Ã¼Ã±i 	? 	nieve
-165	ice 	;)		chhullunkhiya 	? 		fwiyâ€™et 	trangliÃ± 	? 	hielo
-166	smoke* 	fitr<>fire		jiq'i, jiwq'i 	? 		tetsey 	fitrun 	au 	humo
-167	fire* 	Ù†Ø§Ø±â€ nÄrâ€™nÄr 	!?	nina 	humur, ckelar 		itoj 	kÃ¼tral 	ahi 	fuego
-168	ash* 	chill kÃ¼l@Turk!!	ğŸ—¸ğŸ—¸!?	qhilla 	[[]] 		itoj mukw 	trufken 	Ã©o Ã©o, ikuvera 	cenizas
-169	burn* 	PÃ¼tren ~ burnen	~ğŸ—¸?	phichhaÃ±a 	[[]] 		hipâ€™u 	pÃ¼tren, lÃ¼pÃ¼mÃ¼n 	tutu 	quemar
-170	road* 	track, rupu~	~ğŸ—¸?	thaki 	[[]] 		nâ€™oyij 	rÃ¼pÃ¼ 	ara 	camino
-171	mountain* 	qar qullu! Quelle?	ğŸ—¸ğŸ—¸!?	qullu 	[[]] 		tachenaj 	mawida 	[[]] 	montaÃ±a
-172	red* 	<<		wila; chupika (poppy red) 	lari 		ichot 	kelÃ¼ 	henga henga, hero hero, mea mea, reto reto 	rojo
-173	green* 	gxun,karÃ¼n!!!!!! <> sari!!! +++++++	ğŸ—¸ğŸ—¸!?	ch'uxÃ±a 	ckaÃ¢ri 		wâ€™atshan 	karÃ¼ 	rito mata 	verde
-174	yellow* 	q'illu qyelluw +++	ğŸ—¸ğŸ—¸!?	q'illu; churi (pale yellow) 	? 		kaâ€™te 	chod; podkura, polkura (pale yellow) 	toua mamari 	amarillo
-175	white* 	--- ipelaj~bei-		janq'u 	? 		ipelaj 	lig, l(i)Ã¼g, fÃ¼lang 	tea tea 	blanco
-176	black* 	char! Kara++++	ğŸ—¸ğŸ—¸!?	ch'iyÃ¤ra 	atchi, haatchi 		chalaj 	kurÃ¼ 	kere kere, uri uri 	negro
-177	night* 	-- aten-ra? Â¬ra?	~ğŸ—¸?	aruma 	atÃ¡n 		hunatsi 	puá¹‰, trafuya 	po 	noche
-178	day 	houra, raÃ¡, mahana, suntag !!!!!!!	ğŸ—¸ğŸ—¸!?	uru 	ckaÃ¢pin 		fwala 	aá¹‰á¹¯u 	raÃ¡, mahana 	dÃ­a
-179	year 	<<		mara 	[[]] 		nekchom 	tripaá¹‰á¹¯Ã¼ 	matahiti, ta'u (archaic) 	aÃ±o
-180	warm* 			junt'u (hot) 	[[]] 		nichayâ€™ukwe, nichayâ€™uhi 	are 	hana 	cÃ¡lido, tibio
-181	cold* 	~-	~ğŸ—¸?	ch'uch'u 	[[]] 		nitechojche, nitechojhi 	wÃ¼tre, fÃ¼rkÃ¼ 	takeo 	frÃ­o
-182	full* 	fuâ€™	~ğŸ—¸?	phuqha 	[[]] 		tapuyej 	apon 	[[]] 	lleno
-183	new* 	macha Æ’		machaqa 	? 		nechâ€™ayik 	we 	ho'ou 	nuevo
-184	old 	Sense@baltic +++	ğŸ—¸ğŸ—¸!?	thantha 	[[]] 		thalokw, lawemek 	fÃ¼cha, kuse 	koroua, tuuai 	viejo
-185	good* 	summa cum +++	ğŸ—¸ğŸ—¸!?	suma 	ckaÃ¢ya, ckaya; ckackchi, ckacktchir (food) 		is 	kÃ¼me 	riva 	bueno
-186	bad 	<<		Ã±anqha 	[[]] 		fwitsaj 	Ã¼Ã±fi, weda 	kino, rake rake 	malo
-187	rotten 			Ã±usata 	becktchi, ckaimaiÃ±ir 		najhet 	funa 	piro 	podrido
-188	dirty 	<> kir:black++	ğŸ—¸ğŸ—¸!?	k'ank'a, qirari 	[[]] 		kukâ€™apho 	pod 	hava hava, ingo ingo 	sucio
-189	straight 			[[]] 	[[]] 		tatshepiche 	itro 	[[]] 	recto
-190	round* 	<<		muruqu 	[[]] 		lhipâ€™unlhi 	chÃ¼ngkÃ¼z 	[[]] 	redondo
-191	sharp 			[[]] 	[[]] 		yâ€™ey 	yungelen 	ka'i 	afilado
-192	dull 			[[]] 	[[]] 			[[]] 	puni 	desafilado
-193	smooth 			illawa, llusq'a 	[[]] 		talichâ€™i 	paÃ±ush 	[[]] 	suave, liso
-194	wet 	^^		juri 	[[]] 		tasey 	kÃ¼ltraf 	lali 	mojado
-195	dry * 			qhulu, phara 	ckein-tcha 		tamchoy 	piwÃ¼n 	paka 	seco
-196	correct 	check tikkars@baltic match!!!!	ğŸ—¸ğŸ—¸!?	chiqaki 	[[]] 		matche 	rÃ¼f 	titika 	correcto
-197	near 			[[]] 	[[]] 		nitufwayey 	pÃ¼lle 	hahine, tupuaki 	cerca
-198	far 			[[]] 	[[]] 		atufwey 	kamapu 	kumi 	lejos
-199	right 			kupi 	ckonnir 		tofwumkat 	man 	(rara) mata'u 	derecha
-200	left 			ch'iqa 	ckapir 		totsâ€™amkat 	wele 	(rara) maui 	izquierda
-201	at 		???â€¦	[[]] 	[[]] 			mew 	i 	a, en, ante
-202	in 			[[]] 	ay 		ikfwi (inside) 	mew 	i 	en
-203	with 			[[]] 	ckol 		lhoyâ€™a 	mew 	[[]] 	con
-204	and 			[[]] 	[[]] 		wet 	ka 	me, e, pe, piri 	y
-205	if 			[[]] 	[[]] 		che 	[[]] 	ana 	si
-206	because 			kunalayku ("why?") 	[[]] 		latesej 	porke 	[[]] 	porque
-207	name* 	sâ€™heiÃŸe -		suti 	tchei 		lhey 	Ã¼y 	ingoa 	nombre
+No ,English , ,,Aymara ,Kunza ,Southern Quechua runa simi,PIE / PERU,,,"Wichí languages (Guisnay, Nocten and Vejoz) ",Rapa Nui (Austronesian),Spanish,Mapudungun ,Paraguayan Guaraní avañe'?,,
+1,I * ,an.aI  icke na.I <> nous,??!?,naya ,ackcka ,ñuqa,an.iqh,++,,n’lham ,(ko)au ,yo,iñche ,che,je iche,+++
+2,you (sing.) ,tchju! Yjou.ma,??!?,juma ,tchema ,qam,kya,++,,am ,(ko)koe ,"tú, usted (formal)",eymi ,nde,ante du,+++
+3,he ,"lham, el’hem, (ha)îa ",??!?,jupa ,? ,pay,pho,++,,lham ,(ko)/(a)îa ,él,fey ,ha'e,he,+++
+4,we * ,"nous, ickun",??!?,"nanaka, jiwasa, jiwasanaka ",ckun ,"ñuqanchik (inclusive), ñuqayku (exclusive)",nou,++,,"namilh (incl.), tolhamilh (excl.) ","(ko)tâtou (inclusive), (ko)matou (exclusive), taûa (dual: you and I), maûa (dual: he and I) ","nosotros, nosotras ","iñchiñ, iñchiw (dual) ","ñande (inclusive), ore (exclusive)",nouns,++
+5,you pl ,you.men! Ka?,??!?,jumanaka ,tchími ,qamkuna,kyoun,++,,amilh ,"korua, korua arurua (dual) ","vosotros, vosotras, ustedes (formal)","eymün, eymu (dual) ",pe?,'we’,
+6,they ,--,,jupanaka ,ickota ,paykuna,,,,lhamilh ,"(ko)raûa, raûa arurua (dual) ","ellos, ellas","feyengün, feyengu (dual) ",ha'ekuéra,'hey,
+7,this * ,aqui,??,aka ,"aâya, anta ",kay,ce,++,,tojha ,nei ,este,"(tü)fachi, (tü)fa ",ko,ce,+++
+8,that * ,"aqui, acá",??,uka ,? ,"chay (medial), haqay (distal)",ca,++,,,"ena, era ","ese, aquel",(tü)feychi ,pe,pho,
+9,here ,"aqui, acá",??,"akana, akja ","aiss, ap-ps ",kaypi,chere,,,ikana ,"î, inei ","aquí, acá","tüfamew, fa(me)w ",ko'ápe,,
+10,there ,,,khäna ,? ,"chaypi (medial), haqaypi (distal)",chare,,,iknhi ,"(nai)ná, airá-era ","ahí, allí, allá","tiyemew, eye, uye eyew ",upépe,,
+11,who * ,khwit,??,khiti ,? ,pi (interrogative),pho,++,,at’e ,aai ,quien,"iney, iñey ",mávapa (interrogative),mwho?,++
+12,what * ,kv*,??,kuna ,? ,"ima (interrogative), hay (asking for repetition)",ma?,++,,at’ep ,aha ,que,chem ,mba'épa (interrogative),mwhat?,++
+13,where ,kv*,??,kawki ,? ,may (interrogative),Ma-y?,++,,e’ihi ,"(i)hé, i kona hé ",donde,chew ,"mamópa (no movement, interrogative)",ma move?,++
+14,when ,kv*,??,? ,? ,mayk'ap (interrogative),Ma-quand?,++,,e’ihinaji ,agahé ,cuando,chumül ,araka'épa (interrogative),,
+15,how ,kv*,??,? ,? ,imahina (interrogative),Ma-hina?,++,,e’wuye ,pehea ,como,chum(?echi) ,mba'éichapa (interrogative),mwelch?,++
+16,not * ,la! niwu! ,??!?,janiwa ,[[]] ,"mana ...-chu (negative), ama ...-chu (prohibitive)",mano!!!,++++,,,kai ,no,-la ,"ani, nd- -i",anti not,++
+17,all * ,Kall !!!!! pan’i,??!?,q'ala ,baini ,"tukuy, lliw, llapa",touty tchaque,++,,nufwu ,ana(kea)nake ,todo,"fill, kom ",pa,pan,++
+18,many * ,Panta / manche,??,"ancha, anchaki ",? ,achka,? ? ? Exa < macha,++++,,nitokw ,? ,muchos,"alü?, fent(r)en ",eta,exa,++
+19,some ,,,yaqhipa ,? ,"tumpa, waki","thum~some, wenigki",+-,,mayek ,? ,"algunos, unos",kiñeke ,,,
+20,few ,¬alle!,??!?,k'atalla ,? ,"aslla, tumpa",some,+-,,"lhimphaj, niwefwa ",? ,poco,pichi ,mbovy,,
+21,other ,Wother <> both?,??!?,"wasa, yaqha ",? ,"huk, waki",einige ein-anderer,,,elh ,tahi ,otro,kangelu ,ambue,ambi!,
+22,one* ,"mein, unu, iñe, uma@port ",??,maya ,semma ,huk,? ek,++,uno,unu ,(e)/(ka)tahi @NZ,uno,kiñe ,pete?,,
+23,two* ,bi?,??!?,paya ,ppoya ,iskay,? ????? ???? secon’ ,+++,dus,lus ,(e)/(ka)rua ER!,dos,epu ,mokõi,,
+24,three ,??? khmtha!!!!  kim.san,??!?,kimsa ,ppálama ,kimsa,??? ?omte@COPT ,++x ,tares,tales ,(e)/(ka)toru  !,tres,küla ,mbohapy,,
+25,four ,fourth,??,pusi ,? ,tawa,?? ????? qtwr tetwra,++,katro,kwatlu ,(e)/(ka)há  kaha,cuatro,meli ,irundy,,
+26,five ,"Pes, fiqve ++ cinqa",??,phisqa ,? ,pichqa,?  penta ???? *qpink?e qinque,+++,cinco,sinku ,(e)/(ka)rima ,cinco,kechu ,po,,
+,6,sixt!!,??,suxta,,suxta,??? 6 six,+++,…,,,,,"tuicha, guasu",,
+,7,2+5  calculate? <> quantity!?,(?),paqalqu,qant’is,qant’is,????  svhn < Gvan < quantities,++?,,,,,,puku,,
+,8,3+5,(?),kimsaqalqu,,Pusax / kimsa.qalqo,PusAcht? 5+3 3+5,,,,,,,pe,,
+,9,¬10,??!?,llatunka,,'aa-tunka,1 to 10,+:,,,,,,kyra,,
+,10,ten! Deka!,??,tunka,,tunka,? 10,++,,,,,,pohıi,pound,
+27,big * ,acha!,,jach'a ,ckapur ,,,,,wefw ,nui nui ,grande,"futa, fucha, buta, buka ",mich?,micri,
+28,long * ,,,"suyt'u, sayt'u, jach'a ",? ,"hatun, suni",?,,,pitaj ,roa ,largo,wif ,mbyky,,
+29,wide ,"tall, gar, thickar",~?? ,t'alpha ,ckackar ,"llañu, suyt'u, suni",llonge,++,,"chitsajhu, chitsajpho ",lau ,ancho,"fücharume, fücharupa ",po'i,,
+30,thick ,thi’  thorough?,~?? ,thuru ,? ,"kimra, luqhu, llapha, phanlli, sakha",,,,tach’upway ,matoru ,grueso,"fücharume, fücharupa ",perer?,,
+31,heavy ,"Peso, ?",<<,jathi ,[[]] ,raku,ries,+-,,nichuyhat ,pagaha'a ,pesado,fane ,kuña,gyne,
+32,small * ,"pico, newch, ?",?? ½ ,jisk'a ,[[]] ,llasa,,,,"niwefwa, lhomsaj ",iti (iti) ,pequeño,pichi ,kuimba'e,hombre,
+33,short ,"pico, nipt?",??,[[]] ,[[]] ,uchuy,cute:,,,niptaja ,poto ,corto,"pichi, pütru ",tekove,,
+34,narrow ,cul’cui!,~?? ,k'ullk'u ,[[]] ,"chutu, kuru","Cut, cute, short",++,,"ilupenche, niktsajahu ","rikiriki, vakavaka ","estrecho, angosto","pichirume, pichirupa ",mitã'i,??Maisen ,
+35,thin ,schlank? Tisin++,~?-,"juchusa, sillp'a, tisi ",[[]] ,k'ichki,^^,,,ilupen ,ra'i ,"delgado, flaco","pichirume, pichirupa ",tembireko,d’hombre?,
+36,woman * ,wa’min!,??!?,"warmi, tawaqu (young woman) ",lickau ,ñañu,n’eng!,++,,atsinha ,vi'e ,mujer,"domo (che), üllcha domo (young woman) ",ména,man,
+37,man (adult male) ,wandro!! vain™ Sascha?,??!?,"chacha, wayna (young man) ",sima ,warmi,~,++,,hin'u ,tangata ,hombre,wentru ,sy,sie,
+38,man * (human being) ,Tongatha : gath.tan! Jaqi?,,jaqi ,? ,qhari,Kherrl!,+++,,,tangata ,hombre,"che, wentru ","ru, túva","er, atav",
+39,child ,pico wandro!! ;),??!?,"lala (boy), lulu (girl) ",(p)pauna ,runa,rénmín ?? ,++,,ha’no’fwaj ,"poki tamaaroa/poki tane (boy), poki tamahahine/poki vahine (girl) ","niño, niña","pichi wentru (boy), pichi domo (girl) ","mymba, tymba",,
+40,wife ,wa’min!,??!?,warmi ,? ,irqi,,,,toch’efwa atsinha ,vi'e ,"esposa, mujer","kure, ñadu (brother's), fillka (older brother's), ümwe (younger brother's), püñmo (son's, daughter-in-law) ",pira,,
+41,husband ,,,"chacha, jaynu ",sima ,warmi,~ woman,+ ,,toch’efwa hin’u ,kenu ,"esposo, marido","füta, ngillañ (sister's), kurum (older sister's), ngillañwentru (younger sister's), chedkuy (daughter's, son-in-law) ",guyra,,
+42,mother ,mama,??,"tayka, mama ",? ,qusa,qhusband,+ ,,toku ,"nua (archaic), matu'a vahine/matu'a poreko ",madre,"ñuke, chuchu (mother's), kuku (father's), llalla (wife's) ",jagua,jag?ur ?,
+43,father ,tata,??,"awki, tata ",tickan ,mama,mama,++,,tofwcha ,"koro (archaic), matu'a tane/matu'a tamaaroa ",padre,"chao, cheche (mother's), ?aku (father's), chedkuy (wife's) ",,,
+44,animal ,warqa! ?~? ?ayaw?n !!,??!?,"uywa (domestic), warqa (wild) ",[[]] ,"tayta, yaya",daddy,++,,tshowet ,"ika, manu ",animal,kulliñ ,mbói,,
+45,fish* ,"kaul@Uralic,DE!",??!?,"challwa, chawlla ",ckacktchi ,uywa,?ayaw?n  ??????  gyanwar@pers,+++,,w’ahat ,ika ,"pez, pescado",challwa ,taso,,
+46,bird* ,"Musi! Tchir(p)!!! <> much, many!!",~?? ,ja.mach'i ,la(a)tchir ,challwa,,,,afwenche ,manu ,"ave, pájaro",üñüm ,yvyra,,
+47,dog* ,hun’,~?? -,"anu, anuqara ",lockma ,lluta,Flute <> Leute?,<<,,asinoj ,paihenga ,Perro <> bello!?,trewa ,ka'aguy,,
+48,louse* ,laupsa,~?? -,lap'a ,"hebir, horckan ",allqu,al g?u ?   ,+?,,lha’ ,kutu ,piojo,tün ,pokoka,poke,
+49,snake ,ka’ar!  Cnatter!,~? !!!!?,"katari, asiru ",[[]] ,usa,lausa,++!-,,afwotsaj ,? ,"serpiente, culebra","filu, vilu ",yva,,
+50,worm ,lauqse,~?? -,laq'u ,? ,"mach'aqway, katari, amaru",,,,"iwus, fwinayhay ",o'i o'i ,gusano,piru ,ta'?i,,
+51,tree* ,mu,~?,quqa ,? ,kuru,Krumm kwurm™,++,,hal'o ,miro ,árbol,"mamüll, mamill, aliwe? (native tree) ",togue,,
+52,forest ,mu,~?,? ,[[]] ,sacha,s’Esche <> Saxen!?,+<<,,tayhi ,? ,bosque,lemu ,tapo,,
+53,stick ,la’acha : ast! <> leash? –,,lawa ,? ,sachakuna,^^,,,lhacha (branch) ,"kohoa, miro ",palo,mamüll ,,,
+54,fruit ,,,achu ,? ,kaspi,,,,lha ,kai ,fruta,fü?mamüll ,yvoty,,
+55,seed* ,1.thaed karun:Kern,~??? ½ ??!?,"ja.tha, muju ",? ,ruru,fruru,,,tokoslhu’ ,karu ,semilla,"fü?, fün ","ka'a, ñana",,
+56,leaf* ,lleapqe lawul leaf <> raupá!!,~?? ??!,llaqa ,ckatta ,muhu,,,,lawule ,"rau, raupá ",hoja,tapül ,sã,seil,
+57,root* ,??rw@semit,??,saphi ,ckapar ,laqi,~,,,lafwettsi ,aka ,raíz,folil ,pire,peal  ? pí,
+58,bark* (from tree) ,"kiri~kar,cortez",??,? ,tchacktchastur ,sapi,Sap <> saft,,,,kiri ,corteza,trolüf ,so'o,corne,
+59,flower ,<< 5? O?,,panqara ,"putchur, tticka ",qara,kara@slavic ??? q?r?ft@Sem,+++,,lhawu ,"pua, tiare (Tahitian) ",flor,rayen ,tuguy,,
+60,grass ,"<>cut, chop",~??? ½ ,chhuxlla ,ckautcha ,wayta,~ vlayta flower/blühte,++?,,hep ,mouku ,"hierba, pasto",kachu ,kangue,,
+61,rope ,Tau! >>,~??? ½ ,phala ,misckar ,qura,qurass grass,,,niyokw ,taura ,cuerda,zef ,ñandy,,
+62,skin* ,1.nchi~skin,~??? ½ ,janchi ,ckati ,waska,?????,-<,,tot’oj ,kiri ,piel,Trawa ~~ derma,tupi'a,,
+63,meat ,Chicarne –,~??? ½ ,"ay.cha, chichi ",? ,qara,carne ????,,,t’isan ,kiko ,carne,ilo ,jepoka,poke^^,
+64,blood* ,bilaod!,~??? ½ ,wila ,laari ,aycha,Fleischa,,,w’uyis ,toto ,sangre,mollfüñ ,tuguái,~,
+65,bone* ,<<,,ch'akha ,? ,yawar,? ? ? ?,!!! <<,,lhile ,ivi ,hueso,foro ,tague,tag,
+66,fat* (n.) ,,,lik'i ,? ,tullu,Teil?,--,,tulupe’ (Spanish) ,nako ,grasa,yiwiñ ,áva,avhaar,
+67,egg* ,huhnvo!!!! huevo <>,~??,"k'anwa, k'awna ",ckauti ,wira,,--,,lhech’e ,mamari ,huevo,kuram ,akã,a’kop,
+68,horn* ,<< ???  ,,waxra ,backra ,runtu,rund;) arrautza@bask--,+-?,,toch’e ,? ,cuerno,müta  ? ,nambi,,
+69,tail* ,"<> winken, winseln < pinsel",~??,wich'inkha ,[[]] ,waqra,wa’qran qhorn,++?,cola,tochos ,hiku ,cola,külen ,tesa,,
+70,feather* ,phuru!!!,~??,phuyu ,ack-iu ,chupa,????  *copra ,<<,,afwenche w’ule ,huru huru ,pluma,"pichun, pichuñ ",t?,,
+71,hair* ,schnitt/schurte !?!,,ñik'uta ,? ,puru,"Pôr @ Indo-Aryan <> fur,pter",+++,,tow’uley ,rauoho ,"cabello, pelo",(ka?) longko ,juru,,
+72,head* ,Qop | piq pickel(haube@prus –),?,p'iqi ,? ,chukcha,?? chuchar,++,,tolhetek ,puoko ,cabeza,longko ,tãi,zain dent tai,
+73,ear* ,<> muschel?,,jinchu ,ckaickai ,uma,Ommel ,;),,toch’ute’ ,taringa ,oreja,pilun ,k?,,
+74,eye* ,mnoyra!!!! aunge ++++++,??,nayra ,"ckepe, ckepi ",rinri,,,,tottelhu ,mata ,ojo,nge ,pyap?,,
+75,nose* ,Nase!! +++,??,nasa ,seppi ,ñawi,Nvi <> nvidia,+-,,tonhes ,ihu ,nariz,yu ,py,pod,
+76,mouth* ,la.kau! Gueule +++,~?,laka ,? ,sinqa,Zinke,;),,tok’aj ,haha ,boca,wü? ,tetyma,,
+77,tooth* ,Ckénia ~ Zähne ++ ;),~?,laka ch'akha ,ckénia ,simi,,,,totsute ,niho ,diente,foro ,,,
+78,tongue* ,languar,~?,laxra ,? ,kiru,? chorn ,++,,tok’ajlhech’e ,arero ,lengua,"kewü?, kewen ",po,Pfote ^^ pod,
+79,fingernail ,,,sillu ,ckenni ,qallu,qa? zu.longue,+-<,,tofwefwt’oj ,"akikuku, maikuku ",uña,wili ,pepo,Opter ^^ pod,
+80,foot* ,"go-- k?ja@Balt!!   qad@sem ayak,algan@altai ",~?,kayu ,ckutchir ,sillu,,,,topach’u ,va'e ,pie,?amu? ,,,
+81,leg ,"~kayu,k?ja,kuoja @Baltic !!",~?,chara ,? ,chaki,,,,totkolo ,horeko va'e ,pierna,chang ,py'akue,,
+82,knee* ,qunie,~?,qunquri ,? ,chanka,Schenkel,,,top’ulhak ,turi va'e ,rodilla,luku ,ajúra,,
+83,hand* ,am! rima ?amputier,<,ampara ,suy-i ,qunquri,gon.knie,,,totkwe ,rima ,mano,küwü ,ape,,
+84,wing ,<> chick;),?,chhiqha ,ack-iu ,maki,,--,,tolhefw ,kará ,ala,müpü ,káma,k’mamma,
+85,belly* ,"barriga@ES, panza!",??,"puraka, phathanka (stomach) ",ckani ,rapra,Ptra : feather,,,tots’e ,"kopú (stomach), manava ","barriga, vientre, panza",pütra ,ñe'ã,ge.nea,
+86,guts ,1.füll?,,jiphilla ,? ,wiksa,,;),,totkosley ,kokoma ,"entrañas, tripas",küllche ,py'akue,,
+87,neck* ,negao!!! knick?,??!?,kunka ,? ,chunchul,,,,tow’u ,ngao ,cuello,pe? ,-'u,abu,
+88,back ,arci!,,ati ,? ,kunka,knick: k’neck,++<,,towhu ,(tu'a)/(tua')ivi ,espalda,furi ,"karu, -'u",kau,
+89,breast* ,"mama, nunuckel, tit!",??,ñuñu ,aytiackatnu ,wasa,,,,tot’ate ,û ,"pecho, seno","moyo, ruku ",su'u,Zu-beiß,
+90,heart* ,lopque loeb lieb love luck,,lluqu ,tchitack ,qasqu,,,,tot’utle ,"inanga, mahatu (Tahitian) ",corazón,piwke ,pyte,babyt,
+91,liver* ,<<,,k'iwcha ,himri ,sunqu,,,,totonek ,ate (ánu ánu)/(hio hio) ,hígado,ke ,ndyvu,,
+92,drink* ,manger--,<<,umaña ,"haitatur, ckacktur ","kiwcha, k'ipchan",,,,iyoyej ,unu ,"beber, tomar",putun ,,,
+93,eat* ,manger++ munch’en,??!?,manq'aña ,holm' tur ,upyay,-ay -uy = (I?)do ,,,tefw ,kai ,comer,in ,peju,,
+94,bite* ,ngau: kau <> neck!,??!?,achuraña (bite one by one) ,[[]] ,mikhuy,,,,yukwaj ,ngau ,morder,ünan ,pytuh?,,
+95,suck ,,,[[]] ,[[]] ,kaniy,kaun,,,hits’e ,omo ,chupar,fochüdün ,puka,,
+96,spit ,~ ,,thusarpaña ,[[]] ,chunqay,chunk,,,ifwats’encho’ ,aanu ,escupir,tofkün ,hecha,,
+97,vomit ,kotz!!,??!?,kutuyaña ,ppotuntur ,tuqay,Tuq ~ spuck,-,,tach’eylhi ,rua ,vomitar,rapin ,hendu,,
+98,blow ,pusten!! @baltic,??!?,phusaña ,ppúputur ,aqtuy,kotz,-+,,yafwit ,puhi ,soplar,pimun ,kuaa,know kunde,
+99,breathe ,,,[[]] ,"hatckatchatur, hatratchatur ","phukuy, wayray (wind)",pust,,,t’iyalh ,haa ,respirar,?eyün ,mo'ã,mind,
+100,laugh ,lachen!!!  -EN !!!!!! +++++++++,??!?,laruña  -uña -aña  !!!!!!!,[[]] ,samay,,,,t’ischey ,kata ,reír,ayen ,het?,,
+101,see* ,uin.aña  oyn.aña  oille.aña +++,??!?,"uñaña, ullaña ",[[]] ,asiy,,,,hiw’en ,tikea ,ver,kintun ,kyhyje,,
+102,hear* ,sDm!!,??!?,ist'aña ,yébitur ,rikuy,recon,,,ilota ,ngaro'a ,oír,allkün ,ke,,
+103,know* (a fact) ,<<,,yatiña ,[[]] ,uyariy,hör.iy,+-,,yihanej ,agi ,saber,kimün ,kove,,
+104,think ,,,"lup'iña, amuyt'aña ",[[]] ,yachay,yach yad vyd wiss,+- SEM,,tichunlhi ,mana'u ,pensar,rakiduamün ,mano,morn,
+105,smell ,~ ,,musuña ,[[]] ,yuyay,,,,tan’isinej ,hongi ,oler,nümün ,juka,jukill,+?
+106,fear ,,,mulla ,[[]] ,mutkiy,,,,nuway ,mataku ,temer,llükan ,ñorairõ,,
+107,sleep* ,,,ikiña ,[[]] ,manchay,m’angst,,,imo ,moe ,dormir,umawtun ,,,
+108,live ,sarn.anqa!!! <<<<<>>>>,??!?,"qamaña, sarnaqaña ",[[]] ,puñuy,,,,"iloy, ihi ",ora ,vivir,mongelen ,japete,,
+109,die* ,nirwana!  Mate,~?!?,jiwaña ,[[]] ,kawsay,,,,"y'ilh, ileyej hunhat ",mate ,morir,"?a?, ?ay ",kyt?,cut,++++
+110,kill* ,,,"jiwarpäña, jiwarpayaña ",lattatur ,wañuy,Vanish @ Vana™,,,ilon ,tinga'i ,matar,?angümün ,,,
+111,fight ,zick? Tollen keb?,~??,sillqiña ,[[]] ,wañuchiy,Vinci <> vanish,,,tol’ey ,[[]] ,pelear,kewan ,,,
+112,hunt ,hnun htun hunt,~??,[[]] ,[[]] ,awqay,,,,chel ,poko ,cazar chase<>nezar!,"nün, tun ",karãi,s’karaix,++
+113,hit ,Golpear@sem!! <<>>,,"k'uphaña, nuwaña ",[[]] ,"chakuy, kasachiy",,,,yikojlhi ,tu'u ,golpear,"mütrongün, palolpaloltun ",jo'o,,
+114,cut ,katrün cortar,??,khariña ,[[]] ,maqay,machete™,,,yiset ,"tarai, vahi ",cortar,katrün ,yta,,
+115,split ,part,~??,pachjaña ,[[]] ,"p'itiy, kuchuy",kuch~cut,,,hich’esaj ,ngahaa ,partir,triran ,veve,~,
+116,stab ,,,[[]] ,[[]] ,laray,,,,itsonhu ,oka ,apuñalar,chüngarün ,guata,go.itir,++
+117,scratch ,J-r-qh-n  sc-r-tch-n  jucken!!,??!?,"jurqhiña, jurqhiraña ",[[]] ,chusyay,,,,chasmajlhi ,raku ,"arañar, rascar",ünan ,ju,,
+118,dig ,buddel!?+,??!?,"p'ataña, alliña, jat'iña ",[[]] ,aspiy,,,,tishi ,karo ,cavar,rüngan ,ty (action),die;),
+119,swim* ,"thun, kaul",,"tuyuña, tuykataña ",[[]] ,allay,,,,t’ilin ,kau ,nadar,weyelün ,guapy (action),,
+120,fly* (v.) ,tyr.una,~??,"t'uyuña, jalsuña ",[[]] ,wayt'ay,water,++,,wiy’o ,rere ,volar,müpün ,pu'ã (action),,
+121,walk* ,"track, sar~gir +-",~??,saraña ,[[]] ,phaway,phlay away @ Sem,+++<,,yik ,haere ,caminar,"trekan, marchay ",pyryr?i,,
+122,come* ,,,jutaña ,hautur ,puriy,?uriy,+?,,nom ,tu'u ,venir,küpan ,-'a,fa’,
+123,lie* ,,,ikintaña ,[[]] ,hamuy,cham come,++,,"lhipiyen, imokatsi ",moe ,"echarse, acostarse, tenderse","tranawün, kuzun ",me'?,meno,
+124,sit* ,qun@,~??,qunuña ,[[]] ,"sirikuy (action), waqtapay (state)",slip sleep,- ,,tataypho ,noho ,sentarse,anün ,reko,reich,
+125,stand* ,¬sit-,,[[]] ,[[]] ,tiyakuy (action),tisch?,-,,takasit ,tu'u ,estar de pie,witrapüran ,jopy,,
+126,turn ,taviri ,??!?,[[]] ,[[]] ,sayariy (action),s…,-,,ilenejlhi ,taviri ,voltear,chüwüzün ,kyty,,
+127,fall ,Tölpel ~ s’tolhpho stolpern tylppä dull,??!?,jalaqtaña ,[[]] ,muyuy,,,,tolhpho ,hinga ,caer,ütrünaqün ,johéi,,
+128,give* ,cheiro! k’hand !,??!?,churaña ,ckantur ,urmay,,,,hiw’enhu ,[[]] ,dar,wülün ,ky'a'o,,
+129,hold ,,,[[]] ,[[]] ,quy,Quy ~ give,+-,,ichojlhi ,aaru ,sostener,nünien ,noh?,,
+130,squeeze ,,,q'upjaña ,[[]] ,tiyaway,Tiya ~ take,-,,hits’ifwin ,ngatu ,apretar,"kütrün, ngütrarün ",muaña,,
+131,rub ,,,khakhuraña ,[[]] ,qapiy,,,,ifwetlhi ,[[]] ,frotar,ngüllfün ,ty,~,
+132,wash ,<>jar,~??,jariña ,[[]] ,kituy,,,,ilej ,[[]] ,lavar,küchan ,ñapyt?,,
+133,wipe ,wischen!!,??!?,phiskhuña ,[[]] ,"maqchiy, taqsay",,,,isek (sweep) ,[[]] ,limpiar,lipümün ,mbovyvy,,
+134,pull ,tir~-,<<,"t'ajsaña, mithaña ",[[]] ,chakichiy,,,,itunhi ,[[]] ,tirar,witran ,papa,,
+135,push ,,,nukhuña ,[[]] ,aysay,,,,yihetche ,[[]] ,empujar,rültren ,-e,s’ey,
+136,throw ,,,[[]] ,[[]] ,tanqay,tank,,,tafwumej ,vero ,"tirar, arrojar",ütrüfentun ,purahéi,,
+137,tie ,<<,,"ñach'aña, yapiña ",[[]] ,"wichuy, chamqay",,,,inayhit ,haha'u ,atar,trarin ,ñembosarái,,
+138,sew ,,,chhithaña ,[[]] ,watay,,,,itsek ,tui ,coser,ñüzüfün ,,,
+139,count ,--,,wakhuña ,[[]] ,siray,~,+ ,,kunta (Spanish) ,tataku ,contar,rakin ,syry,,
+140,say * ,---,,[[]] ,hammatur ,yupay,yuppie ,;),,"yuk, fwelh ",ki ,Decir !!!,pin ,,,
+141,sing ,jalla;) jodl,,"waruruña, jaylliña ",[[]] ,niy,nounce,+-,,t’ich’uylhi ,[[]] ,cantar,ü?kantun ,,,
+142,play ,<-,,anataña ,[[]] ,takiy,,,,yikuy ,(ko)kori ,jugar,awkantun ,kuarahy,soray ? ,+++
+143,float ,,,[[]] ,[[]] ,pukllay,Puklay ~ play,++<!?,,ipe’not ,[[]] ,flotar,zeñoyün ,jasy,Iah.sin,+++
+144,flow ,,,[[]] ,[[]] ,tuytuy,,,,yik ,tehe ,fluir,witrun ,mbyja,,
+145,freeze ,,,ch'uñjañ (freeze potatoes) ,[[]] ,tinkukuy,,,,,[[]] ,helar,trangliñün ,y,,+ 
+146,swell ,,,p'asatatasna ,[[]] ,qasay,?q’ice kalt,++,,t’ikwa (noun) ,[[]] ,hincharse,"ponkwin, iñchalen ",ama,mayim ???,+ 
+147,sun* ,raá!! sunti a??ü <<,??!?,"willka (ritual), inti ","ckaâpin, ckapin ",punkiy,,,,fwala ,raá ,sol,a??ü ,ysyry,wysyr ither,+++
+148,moon* ,"mahina!!, amur, ***Si ---",??!? ??,phaxsi ,ckamur ,inti,hindi? Sinti?,<,,wel’a ,mahina ,luna,küye? ,ypa,,
+149,star* ,kwarkwar kawkva@Syriac!!,??!?,warawara ,haalar ,killa,killer moon KiLilith ?,++,,kates ,hetu'u ,estrella,wangülen ,para,,
+150,water* ,"ackua, pour, apa, umwa@",??!?,uma ,"ack, puri, puye, yacko ",quyllur,? ? colour,,,inot ,vai ,agua,ko ,juky,,
+151,rain* ,(p)lluvia? <> flow  zaïre?,?,jallu ,"saire, sairi ","unu, yaku","run, wakur",--<,,inot litak ,ua ,lluvia,maw ,ita,,<
+152,river ,jrivera!,~??,jawira ,back-cka ,para,"parain plluvia@Peru,latin",++<,,tewuk ,? ,río,"lewfü, ?ewfü ",yvyku'i,eve=earth,
+153,lake ,Aquata !! ^^,??!?,quta ,? ,mayu,mayim ???,+++,,"lawumek, lhemchitaj ",rano ,lago,pichi?afke? ,yvytimbo,eve=earth,
+154,sea ,la.mar (spanish) quta ,??!?,"mama quta, lamarquta (Spanish) ",? ,qucha,Kuhle ???? ,+?,,inot litak ,tai ,mar,?afke? ,yvy,eve,
+155,salt ,Chadi ~ salt,??!?,jayu ,"ckuta, ckutta ",mama qucha,Marmara Meer,++,,nisuy ,miti ,sal,chadi ,arai,a’rain,
+156,stone* ,"kura!! qala<>?ebla, ?a?ra ++!!",??!?,qala ,ckaitchi ,kachi,,,,tente ,ma'ea ,piedra,kura ,tatatína,,
+157,sand* ,sal’,??!?,ch'alla ,horckte ,rumi,rome?,,,alena ,one ,arena,kuyum ,yvága,,
+158,dust ,,,? ,[[]] ,t'iyu,,,,"hulu, lamukw ",hunga ,polvo,"trufür, trufken ",yvytu,,
+159,earth* ,uraqi earthi !!! ++++,??!?,"pacha, uraqi ",? ,hallp'a,,,,hunhat ,"henua, kaí?a ",tierra,mapu ,yrypy'a,,
+160,cloud* ,,,qinaya ,[[]] ,allpa,,<<,,pele ,rangi ,nube,tromü ,yrypy'a,,
+161,fog ,,,[[]] ,[[]] ,puyu,"Phuyag ~ fog  *pew blow, billow",++<,,tetsetaj ,kapua ,niebla,trukur ,"tatat?, timbo",,
+162,sky ,la.qampu?? pele pe’er <<,??,laqampu ,[[]] ,phuya,"Phuyag ~ fog  *pew blow, billow",+++,,pele ,rangi ,cielo,kallfü wenu ,tata,Hottal <> haku,--
+163,wind ,thurika tokerau ?,<,thaya ,[[]] ,hawa,heaven,+++,,ihwok ,tokerau ,viento,kürüf ,"kusugue, tanimbu",,
+164,snow ,shunuw! Kyron,??!?,khunu ,? ,wayra,win’ra,<,,,? ,nieve,"pire, üñi ",,,
+165,ice ,;),,chhullunkhiya ,? ,rit'i,,--,,fwiy’et ,? ,hielo,trangliñ ,tape,,
+166,smoke* ,fitr<>fire,,"jiq'i, jiwq'i ",? ,qasa,q’ice ?? xu?g?o ,++,,tetsey ,au ,humo,fitrun ,"yvaty, yvyty",,
+167,fire* ,???? n?r’n?r ,!?,nina ,"humur, ckelar ",qusñi,,,,itoj ,ahi ,fuego,kütral ,pytã,,
+168,ash* ,chill kül@Turk!!,??!?,qhilla ,[[]] ,nina,,--,,itoj mukw ,"éo éo, ikuvera ",cenizas,trufken ,sa'yky,sar,++
+169,burn* ,Pütren ~ burnen,~??,phichhaña ,[[]] ,uchpa,ashpa aspen!,+?,,hip’u ,tutu ,quemar,"pütren, lüpümün ",sa'yju,sar,++
+170,road* ,"track, rupu~",~??,thaki ,[[]] ,rawray,,--,,n’oyij ,ara ,camino,rüpü ,morot?,,--
+171,mountain* ,qar qullu! Quelle?,??!?,qullu ,[[]] ,ñan,,,,tachenaj ,[[]] ,montaña,mawida ,h?,? h?i,
+172,red* ,<<,,wila; chupika (poppy red) ,lari ,urqu,Urqu < kurkur,++++,,ichot ,"henga henga, hero hero, mea mea, reto reto ",rojo,kelü ,pyhare,fire?,
+173,green* ,"gxun,karün!!!!!! <> sari!!! +++++++",??!?,ch'uxña ,ckaâri ,puka,,,,w’atshan ,rito mata ,verde,karü ,ára,Hora a’ray ? ,+++
+174,yellow* ,q'illu qyelluw +++,??!?,q'illu; churi (pale yellow) ,? ,qumir,,,,ka’te ,toua mamari ,amarillo,"chod; podkura, polkura (pale yellow) ",ary,Year a’ray ? ,+++
+175,white* ,--- ipelaj~bei-,,janq'u ,? ,qillu,qyellow,++,,ipelaj ,tea tea ,blanco,"lig, l(i)üg, fülang ",haku,hot ,+?
+176,black* ,char! Kara++++,??!?,ch'iyära ,"atchi, haatchi ",yuraq,Iraq < fire?,<,,chalaj ,"kere kere, uri uri ",negro,kurü ,ro'y,kryo,++
+177,night* ,-- aten-ra? ¬ra?,~??,aruma ,atán ,yana,Iah’nax ? negro,+++,,hunatsi ,po ,noche,"pu?, trafuya ",enyh?,,
+178,day ,"houra, raá, mahana, suntag !!!!!!!",??!?,uru ,ckaâpin ,tuta,,,,fwala ,"raá, mahana ",día,a??u ,pyahu,,
+179,year ,<<,,mara ,[[]] ,p'unchaw,,,,nekchom ,"matahiti, ta'u (archaic) ",año,tripa??ü ,tuja,,
+180,warm* ,,,junt'u (hot) ,[[]] ,wata,warte@Wende,+?,,"nichay’ukwe, nichay’uhi ",hana ,"cálido, tibio",are ,"porã, pupu",pure,++
+181,cold* ,~-,~??,ch'uch'u ,[[]] ,illi,?chilli,>>,,"nitechojche, nitechojhi ",takeo ,frío,"wütre, fürkü ",vai,bae bad verwest,
+182,full* ,fu’,~??,phuqha ,[[]] ,chiri,chryo chilly,++,,tapuyej ,[[]] ,lleno,apon ,tuju,,
+183,new* ,macha ƒ,,machaqa ,? ,hunt'a,,,,nech’ayik ,ho'ou ,nuevo,we ,ky'a,,
+184,old ,Sense@baltic +++,??!?,thantha ,[[]] ,musuq,? ,+++,,"thalokw, lawemek ","koroua, tuuai ",viejo,"fücha, kuse ",,,
+185,good* ,summa cum +++,??!?,suma ,"ckaâya, ckaya; ckackchi, ckacktchir (food) ","machu, tanta","macha, senil",+/,,is ,riva ,bueno,küme ,apu'a,,--
+186,bad ,<<,,ñanqha ,[[]] ,"kusa (things), sumaq (persons)",Khudh : good / kuss,,,fwitsaj ,"kino, rake rake ",malo,"üñfi, weda ",haimbe,,
+187,rotten ,,,ñusata ,"becktchi, ckaimaiñir ",mana allin,mean,,,najhet ,piro ,podrido,funa ,,,
+188,dirty ,<> kir:black++,??!?,"k'ank'a, qirari ",[[]] ,ismusqa,,,,kuk’apho ,"hava hava, ingo ingo ",sucio,pod ,s?i,~,
+189,straight ,,,[[]] ,[[]] ,qanra,,,,tatshepiche ,[[]] ,recto,itro ,hykue,,
+190,round* ,<<,,muruqu ,[[]] ,chiqa,,,,lhip’unlhi ,[[]] ,redondo,chüngküz ,kã,,
+191,sharp ,,,[[]] ,[[]] ,muyu,,,,y’ey ,ka'i ,afilado,yungelen ,,,
+192,dull ,,,[[]] ,[[]] ,kachi,,,,,puni ,desafilado,[[]] ,agu?,,
+193,smooth ,,,"illawa, llusq'a ",[[]] ,ruqu,,,,talich’i ,[[]] ,"suave, liso",pañush ,mombyry,,
+194,wet ,^^,,juri ,[[]] ,lluspi,,,,tasey ,lali ,mojado,kültraf ,akatúape,,
+195,dry * ,,,"qhulu, phara ",ckein-tcha ,huq'u,,,,tamchoy ,paka ,seco,piwün ,asúpe,,
+196,correct ,check tikkars@baltic match!!!!,??!?,chiqaki ,[[]] ,chaki,,,,matche ,titika ,correcto,rüf ,-pe,bei,+++
+197,near ,,,[[]] ,[[]] ,chanin,,,,nitufwayey ,"hahine, tupuaki ",cerca,pülle ,"-pe, pıpe",bei,+++
+198,far ,,,[[]] ,[[]] ,sichpa,,,,atufwey ,kumi ,lejos,kamapu ,ndive,and,+++
+199,right ,,,kupi ,ckonnir ,karu,,<,,tofwumkat ,(rara) mata'u ,derecha,man ,ha,he,+++
+200,left ,,,ch'iqa ,ckapir ,paña,,,,tots’amkat ,(rara) maui ,izquierda,wele ,... rõ,??,+-
+201,at ,,???…,[[]] ,[[]] ,lluqi,levko,++,,,i ,"a, en, ante",mew ,ajeve,,
+202,in ,,,[[]] ,ay ,-pi,Bei @ sem,++,,ikfwi (inside) ,i ,en,mew ,téra ,,
+203,with ,,,[[]] ,ckol ,-pi,Bei @ sem,++,,lhoy’a ,[[]] ,con,mew ,,,
+204,and ,,,[[]] ,[[]] ,-yuq,Y @ sem,++,,wet ,"me, e, pe, piri ",y,ka ,,,
+205,if ,,,[[]] ,[[]] ,-wan,wand,+++,,che ,ana ,si,[[]] ,,,
+206,because ,,,"kunalayku (""why?"") ",[[]] ,"-pti-, sichus, manapiqa",? !  si… sei…,+?,,latesej ,[[]] ,porque,porke ,,,
+207,name* ,s’heiße -,,suti ,tchei ,-rayku,,,,lhey ,ingoa ,nombre,üy ,,,
+,,,,,,suti,,,,,,,,,,
