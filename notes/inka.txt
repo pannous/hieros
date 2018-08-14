@@ -1,0 +1,20 @@
+The Norte Chico civilization of Peru is the oldest known andean civilization dating back to 3200 BCE.
+
+formation of the first city generally dated to around 3500 BC, at Huaricanga
+
+city of Caral (Caral-Chupacigarro)
+
+./dicts/swadesh/Peru.csv
+./dicts/swadesh/Quechuan.csv
+
+Moche culture
+Sican culture  Sican = "temple of the Moon"
+
+
+Quipu (also spelled khipu) or talking knots,[1] were recording devices fashioned from strings historically used by a number of cultures, particularly in the region of Andean South America.[2]
+
+similar systems were also used by the ancient Chinese and native Hawaiians
+
+The cords stored numeric and other values encoded as knots, often in a base ten positional system. A quipu could have only a few or up to 2,000 cords.
+
+Objects that can be identified unambiguously as quipus first appear in the archaeological record in the first millennium AD. 
