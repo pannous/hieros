@@ -115,12 +115,12 @@
 114	第	di4	digit	(prefix before a number, for ordering numbers, e.g. 'first', 'number two', etc)		
 115	公	gong1	KOIÑE 公共阝𠂤官合广厂工	public/common[KOINE]/just/honorable (designation)/	GOING GANG / HANGar	
 116	此	ci3	THE.SE	this/these		
-117	已	yi3	已	already/to stop/then/afterwards		
-118	工	gong1	™	work/worker/skill/profession/trade/craft/labor		
+117	已	yi3	已 Y+?	already/to stop/then/afterwards		
+118	工	gong1	™ < ergon < werken	work/worker/skill/profession/trade/craft/labor		
 119	使	shi3	< USE, SEI	to make/to cause/to enable/to use/to employ/messenger		
-120	情	qing2	emo.tion	feeling/emotion/passion/situation		
-121	明	ming2	< mooñ	clear/bright/to understand/next/the Ming dynasty		
-122	性	xing4	< sheng	sex/nature/surname/suffix corresponding to -ness or -ity		
+120	情	qing2	emo.tion XIN 心	feeling/emotion/passion/situation		
+121	明	ming2	Moin < mooñ > √meng:more	clear/bright/to understand/next/the Ming dynasty		
+122	性	xing4	-THING -ING sheng	sex/nature/surname/suffix corresponding to -ness or -ity		
 123	知	zhi1	vSIR savoir	to know/to be aware		
 124	全	quan2	∑	all/whole/entire/every/complete		
 125	三	san1	∑	three/3		
@@ -137,7 +137,7 @@
 136	由	you2	due	follow/from/it is for...to/reason/cause/because of/due to/by/to/to leave it (to sb)		
 137	问	wen4	问	to ask		
 138	很	hen3	HEN	very/extremely		
-139	最	zui4	-EST	(the) most/-est		
+139	最	zui4	Sehr -ISSIU -EST	(the) most/-est		
 140	重	chong2/zhong4	重	to double/to repeat/repetition/iteration/again/a layer, heavy/serious	<> CHANGE	
 141	并	bing4	both	and/furthermore/(not) at all/simultaneously/also/together with/to combine/to join/to merge, amalgamate/combine, and/also/together with		
 142	物	wu4	mwuter 	thing/object/matter		
@@ -209,8 +209,8 @@
 208	义	yi4	justice	justice/righteousness/meaning		
 209	各	ge4	JE	each/every		
 210	入	ru4	REIN	to enter		
-211	几	ji1/ji3	几	small table, almost, a few/how many, how much/how many/several/a few		
-212	口	kou3	口	mouth/(a measure word)		
+211	几	ji1/ji3	几 tisch queue que?	small table, almost, a few/how many, how much/how many/several/a few		
+212	口	kou3	口 kop’	mouth/(a measure word)		
 213	认	ren4	recon	to recognize/to know/to admit		
 214	条	tiao2	TALL	measure word for long, thin things (i.e. ribbon, river, etc.)/a strip/item/article		
 215	平	ping2	PLAIN	flat/level/equal/to make the same score/to tie/to draw/calm/peaceful		
@@ -1863,227 +1863,227 @@
 1862	讼	song4		litigation		
 1863	氧	yang3		oxygen		
 1864	浩	hao4	hao:huge ++	grand/vast (water)		
-1865	羽	yu3		feather		
-1866	斤	jin1		catty/weight equal to 0 kg		
-1867	酷	ku4		ruthless/strong (as of wine)/(slang loan from English) cool, great		
-1868	掠	lue4/lue3		plunder		
-1869	妖	yao1		goblin/witch/devil/bewitching/enchanting/monster/phantom		
-1870	祸	huo4		disaster		
-1871	侍	shi4		attend on		
-1872	乙	yi3		'B' (in a sequence of examples involving 'A', 'B', 'C', etc.)/2nd heavenly stem/2nd in order		
-1873	妨	fang2		hinder/harm		
-1874	贪	tan1		greedy		
-1875	挣	zheng1/zheng4		struggle, to earn/to make (money)		
-1876	汪	wang1		(surname)/expanse of water/ooze		
-1877	尿	sui1/niao4		urinate/urine		
-1878	莉	li4		jasmine		
-1879	悬	xuan2		hang/suspend		
-1880	唇	chun2		lip		
-1881	翰	han4		pen		
-1882	仓	cang1		barn/granary/storehouse/cabin/hold (in ship)		
-1883	轨	gui3		course/path/track/rail		
-1884	枚	mei2		M for small objects		
+1865	羽	yu3	𓇌  𓇋𓇋 𓆄𓆄	feather		
+1866	斤	jin1	≠ ting	catty/weight equal to 0 kg		
+1867	酷	ku4	cool (loan)	ruthless/strong (as of wine)/(slang loan from English) cool, great		
+1868	掠	lue4/lue3	< 	plunder		
+1869	妖	yao1	< 	goblin/witch/devil/bewitching/enchanting/monster/phantom		
+1870	祸	huo4	火 huǒ	disaster		
+1871	侍	shi4	zu	attend on		
+1872	乙	yi3	乙 ~ 2nd 	'B' (in a sequence of examples involving 'A', 'B', 'C', etc.)/2nd heavenly stem/2nd in order		
+1873	妨	fang2	fang	hinder/harm		
+1874	贪	tan1	<> sugar?	greedy		
+1875	挣	zheng1/zheng4	coin	struggle, to earn/to make (money)		
+1876	汪	wang1	wasser wanne … ?	(surname)/expanse of water/ooze		
+1877	尿	sui1/niao4	SCHÜTT!!! SHUI uriniao	urinate/urine		
+1878	莉	li4	lily	jasmine		
+1879	悬	xuan2	xhuang	hang/suspend		
+1880	唇	chun2	/	lip		
+1881	翰	han4	Hand:pen -	pen		
+1882	仓	cang1	仓 ~	barn/granary/storehouse/cabin/hold (in ship)		
+1883	轨	gui3	guide course	course/path/track/rail		
+1884	枚	mei2	mini micro	M for small objects		
 1885	盐	yan2		salt		
-1886	览	lan3		look over/to view		
-1887	傅	fu4		(surname)/tutor		
-1888	帅	shuai4		handsome/graceful/smart/commander in chief		
-1889	庙	miao4		temple/monastery		
-1890	芬	fen1		fragrant		
+1886	览	lan3	linsen (peep)	look over/to view		
+1887	傅	fu4	™	(surname)/tutor		
+1888	帅	shuai4	schön	handsome/graceful/smart/commander in chief		
+1889	庙	miao4	miaonasty!	temple/monastery		
+1890	芬	fen1	~	fragrant		
 1891	屏	bing3/ping2		get rid of/put aside/reject/keep control/hold back, (standing) screen		
-1892	寺	si4		Buddhist temple		
-1893	胖	pang4		fat/plump		
-1894	璃	li2		colored glaze/glass		
-1895	愚	yu2		stupid		
-1896	滴	di1		a drop/to drip		
-1897	疏	shu1		negligent/sparse/thin		
+1892	寺	si4	Sil : ciel/saal	Buddhist temple		
+1893	胖	pang4	~	fat/plump		
+1894	璃	li2	Li : gliss : glass <> lü:grün	colored glaze/glass		
+1895	愚	yu2	[idea]yud!	stupid		
+1896	滴	di1	drip	a drop/to drip		
+1897	疏	shu1	schwach	negligent/sparse/thin		
 1898	萧	xiao1		mournful		
-1899	姿	zi1		beauty/disposition/looks/appearance		
+1899	姿	zi1	SEE:schön	beauty/disposition/looks/appearance		
 1900	颤	zhan4/chan4		to tremble/to shiver/to shake/to vibrate		
-1901	丑	chou3		2nd Earthly Branch/clown/Chou (surname), shameful/ugly/disgraceful		
+1901	丑	chou3	~	2nd Earthly Branch/clown/Chou (surname), shameful/ugly/disgraceful		
 1902	劣	lie4		inferior		
-1903	柯	ke1		(surname)/handle of axe/stem		
-1904	寸	cun4		a unit of length/inch/thumb		
-1905	扔	reng1		throw		
-1906	盯	ding1		stare/gaze		
-1907	辱	ru3		disgrace/insult		
-1908	匹	pi1/pi3		mate/one of a pair, (measure word for horses, mules, a bolt of cloth)/ordinary person		
-1909	俱	ju1/ju4		entirely/without exception, a social club		
-1910	辨	bian4		distinguish/recognize		
-1911	饿	e4		to be hungry/hungry		
-1912	蜂	feng1		bee/wasp		
-1913	哦	e2/o2/o4		to chant, oh is that so		
-1914	腔	qiang1		cavity of body/tune		
+1903	柯	ke1	ke:cut	(surname)/handle of axe/stem		
+1904	寸	cun4	寸 centi… inch	a unit of length/inch/thumb		
+1905	扔	reng1	@range™	throw		
+1906	盯	ding1	盯	stare/gaze		
+1907	辱	ru3	rude!	disgrace/insult		
+1908	匹	pi1/pi3	Peer, pair, person !?!	mate/one of a pair, (measure word for horses, mules, a bolt of cloth)/ordinary person		
+1909	俱	ju1/ju4	joined	entirely/without exception, a social club		
+1910	辨	bian4	B2	distinguish/recognize		
+1911	饿	e4	ESS! Faim/fan	to be hungry/hungry		
+1912	蜂	feng1	fang<	bee/wasp		
+1913	哦	e2/o2/o4	OH	to chant, oh is that so		
+1914	腔	qiang1	~tune	cavity of body/tune		
 1915	郁	yu4		(surname)/elegant, dense (growth)/melancholy		
-1916	溃	kui4		be dispersed/break down		
+1916	溃	kui4	< 	be dispersed/break down		
 1917	谨	jin3		cautious		
 1918	糟	zao1		dregs/to waste/spoil, to waste/spoil		
 1919	葛	ge2/ge3		coarse grass linen, (surname)		
 1920	苗	miao2		(surname)/Miao tribe/sprout		
 1921	肠	chang2		intestines		
-1922	忌	ji4		avoid as taboo/jealous		
-1923	溜	liu1		slip away/to skate		
-1924	鸿	hong2		eastern bean goose/great/large		
-1925	爵	jue2		nobility/(ancient wine holder with 3 legs and loop handle)		
+1922	忌	ji4	jealous	avoid as taboo/jealous		
+1923	溜	liu1	lys<rutsch	slip away/to skate		
+1924	鸿	hong2	hong:king:GREAT huge	eastern bean goose/great/large		
+1925	爵	jue2	JADE	nobility/(ancient wine holder with 3 legs and loop handle)		
 1926	鹏	peng2	phoenix!	large fabulous bird		
-1927	鹰	ying1		eagle/falcon/hawk		
-1928	笼	long2		basket/cage		
-1929	丘	qiu1		Confucius/given name/mound, earthenware, earthenware vessel		
-1930	桂	gui4		Cinnamonum cassia		
-1931	滋	zi1		excite/nourish/this		
-1932	聊	liao2		to chat/to have a chat/to kill time		
+1927	鹰	ying1	wing? 𓇌 𓇋 𓆄𓆄	eagle/falcon/hawk		
+1928	笼	long2	[]	basket/cage		
+1929	丘	qiu1	QIU® < KUR	Confucius/given name/mound, earthenware, earthenware vessel		
+1930	桂	gui4	~	Cinnamonum cassia		
+1931	滋	zi1	zi the this ++	excite/nourish/this		
+1932	聊	liao2	lauschig plauschen	to chat/to have a chat/to kill time		
 1933	挡	dang3/dang4		hinder/resist/obstruct/hinder/cover/keep off/a cover/to block/to get in the way of, arrange/put in order		
 1934	纲	gang1		head rope of a fishing net/guiding principle/key link/class (taxonomy)/outline/program		
-1935	肌	ji1		flesh/muscle		
-1936	茨	ci2		Tribulus terrestris/thatched hut		
-1937	壳	ke2/qiao4		shell, shell		
+1935	肌	ji1	肌 jir > carne	flesh/muscle		
+1936	茨	ci2	Ci : ciel/diele/saal	Tribulus terrestris/thatched hut		
+1937	壳	ke2/qiao4	~	shell, shell		
 1938	痕	hen2		scar/traces		
-1939	碗	wan3		bowl/cup		
-1940	穴	xue2		hole/cave		
-1941	膀	bang3/bang4/pang1/pang2		upper arm/wing, to flirt, puffed (swollen), bladder		
-1942	卓	zhuo2		(surname)/outstanding		
-1943	贤	xian2		worthy (person)		
+1939	碗	wan3	WANNE	bowl/cup		
+1940	穴	xue2	CAVE 穴 xueve	hole/cave		
+1941	膀	bang3/bang4/pang1/pang2	Pang > wing ! Bang!	upper arm/wing, to flirt, puffed (swollen), bladder		
+1942	卓	zhuo2	Zhour ~ kur	(surname)/outstanding		
+1943	贤	xian2	X1	worthy (person)		
 1944	卧	wo4		to lie/to crouch		
-1945	膜	mo2		(n) membrane; film		
+1945	膜	mo2	<~	(n) membrane; film		
 1946	毅	yi4		perseverance		
-1947	锦	jin3		brocade/embroidered work/bright		
-1948	欠	qian4		deficient/owe/to lack/yawn		
-1949	哩	li1/li3/li		(onomat.), mile, (part. for continued state)		
-1950	函	han2		envelope/case/letter		
-1951	茫	mang2		vague/vast		
-1952	昂	ang2		high/raise (head), high/soaring/raise/lift/expensive/to raise one's head		
+1947	锦	jin3	shine	brocade/embroidered work/bright		
+1948	欠	qian4	欠 <<	deficient/owe/to lack/yawn		
+1949	哩	li1/li3/li	ma.li = mile	(onomat.), mile, (part. for continued state)		
+1950	函	han2	'hand’ ≠ hangar	Letter/envelope/case/		
+1951	茫	mang2	MANCH! Magna	vague/vast		
+1952	昂	ang2	< 	high/raise (head), high/soaring/raise/lift/expensive/to raise one's head		
 1953	薛	xue1		(surname)/wormwood		
 1954	皱	zhou4		to wrinkle/wrinkled/to crease		
-1955	夸	kua1		to boast		
+1955	夸	kua1	Kua <> call kur^	to boast		
 1956	豫	yu4		beforehand/prepare		
-1957	胃	wei4		stomach		
-1958	舌	she2		tongue		
-1959	剥	bo1/bao1		peel/to skin		
-1960	傲	ao4		proud/overbearing/insolent/arrogant		
+1957	胃	wei4	< 	stomach		
+1958	舌	she2	~	tongue		
+1959	剥	bo1/bao1	bauch peel ~	peel/to skin		
+1960	傲	ao4	Ao-gant ;)	proud/overbearing/insolent/arrogant		
 1961	拾	shi2		pick up/ten (fraud-proof)		
-1962	窝	wo1		nest		
+1962	窝	wo1	< 	nest		
 1963	睁	zheng1		to open (eye)		
-1964	携	xie2		to carry/to take along/to bring along/to hold (hands)		
-1965	陵	ling2		mound/tomb/hill/mountain		
-1966	哼	heng1/hng		hum, (interj. of contempt)		
-1967	棉	mian2		cotton		
-1968	晴	qing2		clear/fine (weather)		
-1969	铃	ling2		(small) bell		
+1964	携	xie2	zieh	to carry/to take along/to bring along/to hold (hands)		
+1965	陵	ling2	RING!	mound/tomb/hill/mountain		
+1966	哼	heng1/hng	hum	hum, (interj. of contempt)		
+1967	棉	mian2	毛	cotton		
+1968	晴	qing2	Clean / shining	clear/fine (weather)		
+1969	铃	ling2	RING!	(small) bell		
 1970	填	tian2		to fill in		
-1971	饲	si4		to raise/to rear/to feed		
-1972	渴	ke3		thirsty		
-1973	吻	wen3		kiss/mouth		
-1974	扮	ban4		to disguise oneself/to dress up/adorn		
-1975	逆	ni4		contrary/opposite/backwards/to go against/to oppose/to betray/to rebel		
-1976	脆	cui4		crisp/brittle/clear and loud voice		
-1977	喘	chuan3		to gasp/to pant/asthma		
+1971	饲	si4	ess:SI	to raise/to rear/to feed		
+1972	渴	ke3	<> he:drink	thirsty		
+1973	吻	wen3	< 	kiss/mouth		
+1974	扮	ban4	b2 band ~-	to disguise oneself/to dress up/adorn		
+1975	逆	ni4	NI! <<	contrary/opposite/backwards/to go against/to oppose/to betray/to rebel		
+1976	脆	cui4	clear	crisp/brittle/clear and loud voice		
+1977	喘	chuan3	< 	to gasp/to pant/asthma		
 1978	罩	zhao4		cover/fish trap (basket)/shade		
-1979	卜	bo/bu3		turnip, to divine/foretell		
+1979	卜	bo/bu3	卜	turnip, to divine/foretell		
 1980	炉	lu2		stove		
-1981	柴	chai2		(surname)/firewood		
-1982	愉	yu2		pleased		
-1983	绳	sheng2		rope		
+1981	柴	chai2	CHAR/COAL	(surname)/firewood		
+1982	愉	yu2	JOY	pleased		
+1983	绳	sheng2	<> chain	rope		
 1984	胎	tai1		fetus/litter		
 1985	蓄	xu4		to store		
-1986	眠	mian2	MOON 🌝	sleep		
+1986	眠	mian2	MOON 🌝 somn…	sleep		
 1987	竭	jie2		exhaust		
-1988	喂	wei4		(interjection) hello/to feed (someone or some animal)/hey/telephone greeting, to feed		
-1989	傻	sha3		foolish		
-1990	慕	mu4		admire		
+1988	喂	wei4	WHY!	(interjection) hello/to feed (someone or some animal)/hey/telephone greeting, to feed		
+1989	傻	sha3	schaf	foolish		
+1990	慕	mu4	MUR AMORE MIRE !!!	admire		
 1991	浑	hun2		muddy		
 1992	奸	jian1		traitor, adultery		
-1993	扇	shan1/shan4		to fan, (a measure word for doors, windows, etc.)		
-1994	柜	gui4/ju3		cupboard/cabinet/wardrobe, Salix multinervis		
-1995	悦	yue4		pleased		
-1996	拦	lan2		cut off/hinder		
-1997	诞	dan4		birth/birthday/brag/boast/to increase		
-1998	饱	bao3		to eat till full/satisfied		
-1999	乾	gan1/qian2		dry, (surname)/male/strong/one of the Eight Trigrams		
-2000	泡	pao1/pao4		puffed/swollen, to steep/soak/bubble(s)/foam		
-2001	贼	zei2		thief		
-2002	亭	ting2		pavilion		
-2003	夕	xi1/xi4		evening, dusk		
-2004	爹	die1		dad		
+1993	扇	shan1/shan4	Shun <> shade! Shangle	to fan, (a measure word for doors, windows, etc.)		
+1994	柜	gui4/ju3	< 	cupboard/cabinet/wardrobe, Salix multinervis		
+1995	悦	yue4	JOY	pleased		
+1996	拦	lan2	LINE	cut off/hinder		
+1997	诞	dan4	DOWN(¬!)	birth/birthday/brag/boast/to increase		
+1998	饱	bao3	FILL BAUCH!	to eat till full/satisfied		
+1999	乾	gan1/qian2	ganter	dry, (surname)/male/strong/one of the Eight Trigrams		
+2000	泡	pao1/pao4	pao! Foam+ puff	puffed/swollen, to steep/soak/bubble(s)/foam		
+2001	贼	zei2	thief	thief		
+2002	亭	ting2	TING 厅  táng 堂 tíng 廷  亭	pavilion		
+2003	夕	xi1/xi4	夕	evening, dusk		
+2004	爹	die1	diedy daddy	dad		
 2005	酬	chou2		entertain/repay/return/reward/compensate		
 2006	儒	ru2		scholar/Confucian		
-2007	姻	yin1		marriage connections		
-2008	卵	luan3		ovum		
-2009	氛	fen1		miasma/vapor		
+2007	姻	yin1	JOIN 	marriage connections		
+2008	卵	luan3	卵 !	ovum		
+2009	氛	fen1	faint vapor	miasma/vapor		
 2010	泄	xie4		divulge/leak out		
-2011	杆	gan1/gan3		pole, measure for guns, stick/pole		
-2012	挨	ai1/ai2		lean to/in order/in sequence, next to/suffer (hunger)/endure/drag out/delay/stall/play for time		
-2013	僧	seng1		monk		
-2014	蜜	mi4		honey		
-2015	吟	yin2		moan/to hum		
+2011	杆	gan1/gan3	gun! Grenz Gang	pole, measure for guns, stick/pole		
+2012	挨	ai1/ai2	挨 Á !	lean to/in order/in sequence, next to/suffer (hunger)/endure/drag out/delay/stall/play for time		
+2013	僧	seng1	SANKt!	monk		
+2014	蜜	mi4	miel	honey		
+2015	吟	yin2	joyn jing	moan/to hum		
 2016	猩	xing1		ape		
-2017	遂	sui4/sui2		forthwith		
-2018	狭	xia2		narrow/narrow-minded		
-2019	肖	xiao4/xiao1		similar/resembling/to resemble/to be like		
-2020	甜	tian2		sweet		
-2021	霞	xia2		red clouds		
-2022	驳	bo2		argue/parti-colored/tranship/dispute/contradict/refute, argue/parti-colored/tranship		
-2023	裕	yu4		abundant		
-2024	顽	wan2		mischievous/obstinate/to play/stupid/stubborn/naughty		
+2017	遂	sui4/sui2	so…	forthwith		
+2018	狭	xia2	small--	narrow/narrow-minded		
+2019	肖	xiao4/xiao1	so similar	similar/resembling/to resemble/to be like		
+2020	甜	tian2	<> tang=sugar	sweet		
+2021	霞	xia2	xiar:RED	red clouds		
+2022	驳	bo2	B2 (dis)pute	argue/parti-colored/tranship/dispute/contradict/refute, argue/parti-colored/tranship		
+2023	裕	yu4	Y+ 	abundant		
+2024	顽	wan2	vain? Evan bane	mischievous/obstinate/to play/stupid/stubborn/naughty		
 2025	於	yu1/yu2		(surname)		
-2026	摘	zhai1		to borrow/to pick (flowers, fruit)/to pluck/to take/to select		
+2026	摘	zhai1	ZIEH	to borrow/to pick (flowers, fruit)/to pluck/to take/to select		
 2027	矮	ai3		short (not tall)		
-2028	秒	miao3		(a measure word)/second		
-2029	卿	qing1		(old) minister/(old) term of endearment between spouses/thou (poet.)		
-2030	畜	chu4/xu4		livestock/domesticated animal/domestic animal, to raise (animals)		
+2028	秒	miao3	¬MINor	(a measure word)/second		
+2029	卿	qing1	KING	(old) minister/(old) term of endearment between spouses/thou (poet.)		
+2030	畜	chu4/xu4	COW cattle grow	livestock/domesticated animal/domestic animal, to raise (animals)		
 2031	咽	yan1/yan4/ye4		narrow pass/throat, to swallow, to choke (in crying)		
 2032	披	pi1		scatter/separate/to open/to unroll/to spread out		
-2033	辅	fu3		to assist/to complement/auxiliary		
-2034	勾	gou1/gou4		to cancel/to delineate/hook, affair/to reach for (with hand)		
-2035	盆	pen2		basin		
-2036	疆	jiang1		border/boundary		
+2033	辅	fu3	fu:pfote  	to assist/to complement/auxiliary		
+2034	勾	gou1/gou4	GOU:GAMMA!	to cancel/to delineate/hook, affair/to reach for (with hand)		
+2035	盆	pen2	pen (wanne)	basin		
+2036	疆	jiang1	ZAUN	border/boundary		
 2037	赌	du3		bet/gamble		
 2038	塑	su4		to model (a figure) in clay		
-2039	畏	wei4		to fear		
-2040	吵	chao3		to quarrel/to make a noise/noisy/to disturb by making a noise		
+2039	畏	wei4	Oh wei! Oh fear!	to fear		
+2040	吵	chao3	~	to quarrel/to make a noise/noisy/to disturb by making a noise		
 2041	囊	nang2		sack		
 2042	嗯	en1/ng/en4		(a groaning sound)		
-2043	泊	bo2		to anchor/touch at/to moor		
-2044	肺	fei4		lung		
-2045	骤	zhou4		sudden/suddenly		
+2043	泊	bo2	To boat 	to anchor/touch at/to moor		
+2044	肺	fei4	< 	lung		
+2045	骤	zhou4	So ~	sudden/suddenly		
 2046	缠	chan2		to bother/wind around/wrap round/coil/involve/annoy/tangle		
-2047	冈	gang1		ridge/mound		
-2048	羞	xiu1		shy/ashamed/shame/bashful		
+2047	冈	gang1	gang:ridge 冈	ridge/mound		
+2048	羞	xiu1	shy	shy/ashamed/shame/bashful		
 2049	瞪	deng4		stare at		
-2050	吊	diao4		to hang a person, condole with/hang		
-2051	贾	gu3/jia3		merchant/to buy, (surname)		
-2052	漏	lou4		funnel/to leak/to let out/to divulge		
-2053	斑	ban1		variegated		
-2054	涛	tao1		big wave		
+2050	吊	diao4	DOWN dangle	to hang a person, condole with/hang		
+2051	贾	gu3/jia3	GUI : BUY KAUF coins	merchant/to buy, (surname)		
+2052	漏	lou4	leak let	funnel/to leak/to let out/to divulge		
+2053	斑	ban1	BUNT!	variegated		
+2054	涛	tao1	TALL / tsu.nami	big wave		
 2055	悠	you1		at ease/long (in time)/sad		
-2056	鹿	lu4		deer		
+2056	鹿	lu4	< 	deer		
 2057	俘	fu2		prisoner of war		
-2058	锡	xi2/xi1		tin		
-2059	卑	bei1		low/base/vulgar/inferior/humble		
+2058	锡	xi2/xi1	xin zinn tin !!!	tin		
+2059	卑	bei1	BASE	low/base/vulgar/inferior/humble		
 2060	葬	zang4		bury (the dead)		
-2061	铭	ming2		inscribed motto		
-2062	滩	tan1		beach/shoal		
-2063	嫁	jia4		marry (a husband)		
+2061	铭	ming2	MIND	inscribed motto		
+2062	滩	tan1	< 	beach/shoal		
+2063	嫁	jia4	JOIN@house	marry (a husband)		
 2064	催	cui1		urge/press/expedite/prompt/hurry		
-2065	璇	xuan2		(jade)		
-2066	翅	chi4		wing		
-2067	盒	he2		small box/case		
-2068	蛮	man2		barbarian/bullying/very/quite/rough/reckless		
-2069	矣	yi3		final part.		
-2070	潘	pan1		(surname)		
-2071	歧	qi2		divergent/side road		
-2072	赐	ci4		confer/bestow/grant		
-2073	鲍	bao4		abalone		
-2074	锅	guo1		pot/pan/boiler		
-2075	廊	lang2		porch		
-2076	拆	chai1		to tear open/to tear down/to tear apart/to open		
-2077	灌	guan4		irrigate/pour		
+2065	璇	xuan2	schoen	(jade)		
+2066	翅	chi4	< 	wing		
+2067	盒	he2	case	small box/case		
+2068	蛮	man2	MAN! MANCH=MUCH mean	barbarian/bullying/very/quite/rough/reckless		
+2069	矣	yi3	Y+ 矣 Y?	final part.		
+2070	潘	pan1	PETER	(surname)		
+2071	歧	qi2	SIDE	divergent/side road		
+2072	赐	ci4	cis:con – 	confer/bestow/grant		
+2073	鲍	bao4	~/	abalone		
+2074	锅	guo1	guß?	pot/pan/boiler		
+2075	廊	lang2	line	porch		
+2076	拆	chai1	ZIEH tear	to tear open/to tear down/to tear apart/to open		
+2077	灌	guan4	@garden	irrigate/pour		
 2078	勉	mian3	Mahnen +++	exhort		
 2079	盲	mang2	MVOYN mono¬	blind		
 2080	宰	zai3	宰 zai ~~ cutll	slaughter/butcher/govern/rule/official		
 2081	佐	zuo3	a’SITZT 𓊨  坐 zuo4 	assist		
 2082	啥	sha2	QUA? CUI?	(dialect) what		
-2083	胀	zhang4		dropsical/swollen/to swell/to be bloated		
-2084	扯	che3		pull/tear/to talk casually		
-2085	禧	xi3		joy		
+2083	胀	zhang4	> KING	dropsical/swollen/to swell/to be bloated		
+2084	扯	che3	tear zieh	pull/tear/to talk casually		
+2085	禧	xi3	joy	joy		
 2086	辽	liao2		Liaoning/name of a dynasty		
 2087	抹	mo3/mo4		play/to smear, girdle/brassiere/to plaster		
 2088	筒	tong3		tube/cylinder		
