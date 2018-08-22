@@ -262,7 +262,7 @@ D33 𓂙 (b)row[n]   𓂙  bronze!? brenn!   ->sombrero!!<<<
 D34 𓂚 Toch[arxer]   𓂚  tochair:take care 𓂛 => N27	Akher     𓈌
 D35	𓂜 nein/not/nain=remote    𓂜
 D36	𓂝 *DRAHM ARM Sem dh-r-‘  drOben=>O 𓂝 [her]ab=>A  𓂣 D42	 <>	𐤉 yōd
-D37	𓂞 RE'™ reach rachaq!	𓂋𓂝 𓂠 grant:granda! DA.re.ich, re.nt reim / [sp]rech    𓂞 𓂋𓅱𓇋𓂾𓂻  𐀈 donn/dor
+D37	𓂞𓂠 RE'™ reach rachaq!	𓂋𓂝 𓂠 grant:granda! DA.re.ich, re.nt reim / [sp]rech    𓂞 𓂋𓅱𓇋𓂾𓂻  𐀈 donn/dor
 D37	𓂞 DO 𓏙 DON™ 𓂧𓅱𓂡  +++ EN / ES / I18N / URARTU : ar-du !
 D38+ 𓂟	PhR(Th):pre(sent)/port    𓂟  forget
 D39+ 𓂠𓏏𓉐 port 𒁀𒊏𒅈𒋾 𓅓𓂝𓈙𓂋𓃭𓅱𓇶 parther𓃭 partir𓇶 ...
@@ -598,7 +598,7 @@ M44 𓇮 SpießHorn / Cophta?~covert~'Sopd'~ceptra~spitz~sPIKa    𓇮 spi' vs p
 
 N Indra noster + Natur pfade vs Moor@M
 --------------
-N1	𓇯 air/area<>Urea  𓇯𓏏=Erde! <> pitair
+N1	𓇯 air/area<>Urea  cover 𓈎𓃀𓎛𓏂𓈗 Kipper  𓇯𓏏=Erde! <> pitair
 N2  n*ghT zuckair? ~ Sokr    𓇰   <> khmer
 N3	𓇱 Noir,Nuit,NU : Nubia  |  Thundair Donner Thor Shamair?
 N4	airain     𓇲  <> train
