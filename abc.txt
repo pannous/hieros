@@ -39,7 +39,7 @@ U:	G43	𓏌𓅱𓍢𓏲	Ων -(n)oun Ü hUhn ωuν 𓅳 hENn 𓍢 hundert 100 و
 V:	M17	𓅱 V' Vł!!!  ννν fun!  𓇋𓇋 VY 𓇋	Feather -> ve -> wh 𓇋 	𓅓Mwū乌  stark gepresstes𓄲 '~ł/n
 W:	G43	𓅱𓍢𓏲	ων µω/ωµ 𓎛wHr! wΩm!  hwn M -mos µn Wn HN 'N	𓍢𓏲ϱ <> R!
 X:	Z9	𓏴	Endig X	𓏵  𐄂 χ	Ξ ξ 𓎛 FlexHair Ḫχ𐀭 𐠷=KS ✓ ☑ 𓍲  vs 𓍿 𓊃 δ  <> 𓏴 tau:token:tag טייג! 𒁇𒈦 bar? KR?
-Y:	Z4	𓏭	𓏮	𓇌  𓇋 𓇋 𓆄𓆄 vY->λ! 丫yā:fork ¨ double yodh y~u~w! T+𓏮=TWO!亚II 	义 Yìustice  羽 yǔstice 𓏮 2y 𐀂Y Jodh
+Y:	Z4	𓏭	𓏮	𓇌 𓇋 𓆄𓆄 vY->λ! 丫yā:fork ¨ double yodh y~u~w! T+𓏮=TWO!亚II 	义 Yìustice  羽 yǔstice 𓏮 2y 𐀂Y Jodh
 Z:	O34	𓊃 ʒ,Z,Σ,ß,ss,ts,c,δj,코 𐦔	SA chain zähn ZU-SAM' ∑ 𓊃𓏤=someone synδεσμ=bond	ζώνη zone szamma tsamad: join +++  𓎛𓆰𓈖con'nect…
  союз:sayus zusam'sym syn ham com connect δji 计 气 qì 带 dài 的 dì ziel… 𓅷|𓅠 Chyn/Féin HHAZAMA:TIE
  ζώνη zone(belt) = cammabund! 带 dài 代 气 qì ji ZSM ZSN 𓊄 𓊃 牵​qiān… -> 𓆓𓆑 𓍿 𓋸 𓋭 𓇪 卐 vs zer 艹 cai qí 一齐	及 jí 既 jì 且 qiě  与 yǔ  𓋉 Khmn comme ,,,  𓊃Sesóchris! 
@@ -391,7 +391,7 @@ F22	𓄖 #bH bheck back *behintail! BACK BASE  He.qua, hock, hoch :phrog 𓄖  <
 F23 ƒƒƒ mu.squat Muskat <> Moschus Hachse   𓄗    𓄘  Maskot
 F24 𓄗 chops! 𓄘 BiCeps: 𓐍𓊪𓈙𓄗  𓄗 CPS|KFTh 𓄘 = Kraft chazaq@HEB Haxe <𓄙> KFTh=Crete <𓄘> Taur!?! 
 F25	𓄙 ferse/רסה/þrğ verse:=re.faire.ça  𓄙 burro=ass 𓃘 perser => #WXM!?
-F26	(r)in(d)/(o)xe    𓄚   rInner hInder andaron@P! <> ante
+F26	(r)in(d)/(o)xe    𓄚   rInner hInder andaron@P! <> ante <> arka…sından@Turk
 F27	𓄛 ThIER=>deer: Le.der/Le.ther  𓄛    F28    𓄜 stier straight
 F29 𓄝 shot    𓄝  => T11 arrow 
 F30 𓄞 Scheid.e    𓄞
@@ -728,7 +728,7 @@ R Rest Regale
 R1 𓊯       𓊰     𓊱
 R3 𓊲     𓊳     𓊴
 R4 𓊰 𓆼𓐍𓏏𓏏 Lichter lächter <<<  SCHLICHT! <> Schlacht@altar … schlecht schlucht …
-R4 𓊵 hotep written 𓊵 𓊪 𓏏 'peace' 1900 BC all good! Ophis@greek +++
+R4 𓊵 hotep  𓉔𓂋𓏏𓀁hourtep…! written 𓊵 𓊪 𓏏 'peace' 1900 BC all good! Ophis@greek +++
 R5  𓊶 Kaba-cover@[Coppa]Kabana@Levant חפף!!! QED*10  𓊶 VS     𓊷 ++
 R7 𓊸 Ram = Bock 𓃜 Geweih(rauch)
 R8	𓊹 GOD 𓄤𓊹 nTr/Natur𓇓/AN.dru/In.dra/IN.RI ㊥  𓊹 incense=𓋴𓊹𓍿𓂋𓈒 1000 names? 𓊹𓌨 尸shī(corpse) 'necro𓊹𓌨𓂋𓈉polis 𓊹𓍿𓃀𓊖7-Mütter?
