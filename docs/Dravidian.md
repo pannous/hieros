@@ -4,14 +4,13 @@ Dravidian languages display typological similarities with the Uralic language gr
 
 
 
-In the early 1970s, the linguist David McAlpin produced a detailed proposal of a genetic relationship between Dravidian and the extinct Elamite language of ancient [Elam](Elam) (present-day southwestern Iran).[46] The Elamo-Dravidian hypothesis was supported in the late 1980s by the archaeologist Colin Renfrew and the geneticist Luigi Luca Cavalli-Sforza, who suggested that Proto-Dravidian was brought to India by farmers from the Iranian part of the Fertile Crescent.[47][48] (In his 2000 book, Cavalli-Sforza suggested western India, northern India and northern Iran as alternative starting points.[49]) However, linguists have found McAlpin's cognates unconvincing and criticized his proposed phonological rules as ad hoc.[50][51][52] Elamite is generally believed by scholars to be a language isolate, and the theory has had no effect on studies of the language.[53]  
+In the early 1970s, the linguist David McAlpin produced a detailed proposal of a genetic relationship between Dravidian and the extinct Elamite language of ancient [Elam](Elam) (present-day southwestern Iran). The Elamo-Dravidian hypothesis was supported in the late 1980s by the archaeologist Colin Renfrew and the geneticist Luigi Luca Cavalli-Sforza, who suggested that Proto-Dravidian was brought to India by farmers from the Iranian part of the Fertile Crescent. Many linguists have found McAlpin's cognates unconvincing and criticized his proposed phonological rules as ad hoc. 
+
+This page takes the stands that not enough is known about the Elamite languages yet to make any firm assertions, however the Archaeological record clearly shows that Elam(Susa & [[Anshan]]) was central to the Urban expansion, and was linked to the [proto-indo-european](PIE) founding stock.
 
 Dravidian is one of the primary language families in the [Nostratic](Nostratic) proposal, which would link most languages in North Africa, Europe and Western Asia into a family with its origins in the Fertile Crescent sometime between the last Ice Age and the emergence of proto-Indo-European 4–6 thousand years BCE. However, the general consensus is that such deep connections are not, or not yet, demonstrable.  
 
-The Indus Valley civilisation (3,300-1,900 BCE), located in Northwestern Indian subcontinent, is often identified as having been Dravidian.[57] Cultural and linguistic similarities have been cited by researchers Henry Heras, Kamil Zvelebil, Asko Parpola and Iravatham Mahadevan as being strong evidence for a proto-Dravidian origin of the ancient Indus Valley civilisation.[58][59] The discovery in Tamil Nadu of a late Neolithic (early 2nd millennium BCE, i.e. post-dating Harappan decline) stone celt allegedly marked with Indus signs has been considered by some to be significant for the Dravidian identification.[60][61]  
-
-Fish is reconstructed as "min", compare Nem=🌢 𓈖 Mean [Menes](Menes)⋍Narmer and nun=fish in semitic groups.  
-𓎔 𓎛 𓇋 𓇋 𓏏 𓆛 𓏥 Nauhrith ⇔ [Narmer](Narmer)  or Filhith ⇔ fillet fi'ish filth 𓊠  
+The Indus Valley civilisation (3,300-1,900 BCE), located in Northwestern Indian subcontinent, is often identified as having been Dravidian.[57] Cultural and linguistic similarities have been cited by researchers Henry Heras, Kamil Zvelebil, Asko Parpola and Iravatham Mahadevan as being strong evidence for a proto-Dravidian origin of the ancient Indus Valley civilisation.[58][59] The discovery in Tamil Nadu of a late Neolithic (early 2nd millennium BCE, i.e. post-dating Harappan decline) stone celt allegedly marked with Indus signs has been considered by some to be significant for the Dravidian identification.  
 
 Very remote but recognisable connections:  
 
@@ -53,3 +52,7 @@ maaNavi 	student ⇔ ⲙⲁⲑⲏⲧⲏⲥ mathe maat:truth
 десять dyes-yat  
 
 вять ⇔ bathun?  
+
+Fish is reconstructed as "min", compare Nem=🌢 𓈖 Mean [Menes](Menes)⋍Narmer and nun=fish in semitic groups.  
+𓎔 𓎛 𓇋 𓇋 𓏏 𓆛 𓏥 Nauhrith ⇔ [Narmer](Narmer)  or Filhith ⇔ fillet fi'ish filth 𓊠  
+

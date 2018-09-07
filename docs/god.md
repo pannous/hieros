@@ -1,5 +1,7 @@
 [𓀯](𓀯)  
 
+𓊹 𓄤		the good God (gut)
+
 A40	𓀭	IO		seated god  
 A41	𓀮	Amun		king with uraeus  
 A42	𓀯	god		king with uraeus and  S45  

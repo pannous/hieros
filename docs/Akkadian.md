@@ -5,31 +5,33 @@ A laymens alignment:
 ä|[𓄿](𓄿) |𒀀| eau| note  
 |-----|----|-|---|---------|  
 A|[𓂝](𓂝)|𒀉| á arm| h₂erm|𒀉 ad:hand  ⇔𓂧 dhermo  
-b|[𓃀](𓃀)|𒁇|bat 𒈦bar 𒉽𒄬PaDemi| Hittite:𒉺𒋫 pata 2𒋰𒋻part paþ-half/pâshał  𒀊abu=vater 𒈨!  
-c|[𓍿](𓍿)|𒄑| 'CIS' GIŠ|toe tau cedar 𐎣 Ka 𓂓  𒆪 ku qú tu  
+b|[𓃀](𓃀)|𒁇|𒍗𒁁bad/pod  𒈦bar 𒉽𒄬PaDemi| Hittite:𒉺𒋫 pata 2𒋰𒋻part 𒁀~𒀊abu am/be𒈨  
+c|[𓍿](𓍿)|𒄑| 'CIS' GIŠ|cypress cedar 口 kǒu  𐎣 Ka 𓂓  𒆪 ku qú tu  
 D|[𓏏](𓏏)|𐎚𒀸|del 𒆕DÙ do|𒀸àš 𓈖ina 𓂋rù/rum  
 δ|[𓂧](𓂧)|𒋗| šú semi⇔[demi](demi) |手shǒu cheiro  
-E|[𓇋](𓇋)|𒂊|say vs 𓆑  
-F|[𓆑](𓆑)[𓇋](𓇋)|𒄿| fei/ia=5|𒉺first,phr foot=𒉺𒋫   𒀜(f)ad'a=father  
+E|[𓇋](𓇋)|𒂊|say vs 𓆑 |𒂍Heim/hall (p)hort𓉐 -> 𓉔 H/Pr
+F|[𓇋](𓇋)[𓆑](𓆑)|𒉺𒄿| feia=5|𒉺first,phr foot=𒉺𒋫   𒀜'ada=father  
 G|[𓎼](𓎼)[𓐍](𓐍)|𒆬|KUG+GI ⋍ GUŠKIN |pure gold  
-h|[𓉔](𓉔)|𒂍| hEi(m)|𒋛Horn! ⇔ Corner 𒄷 Huhn  
+h|[𓉔](𓉔)|𒂍| hEi(m) |𒋛Horn! ⇔ Corner 𒄷 Huhn  
 I|[𓇋](𓇋)  |𒄿| fia5|  
 J|[𓆓](𓆓)|𒐊|𒅆 eye vs 𒉿 ear  
 K|[𓎡](𓎡)|𒋡|kaf/cup|𓍿)|𐎣 Ka 𓂓 𒄑 CIS 𒋡 SILA 1l ⇔ kilo  
 L|[𓏯](𓏯) |𒇲| LAL  𒇳 |little tüttel?  
 M|[𓅓](𓅓)|𒈹|𒄷 [Musen](Musen)| 𒅎 IM  
+M|[𓈗](𓈗)|𒈠|𒈠 Mar Meer Mwather 
 N|[𓈖](𓈖)|𒈾|nun/naur|navi/fish| 𒀸ina/as/del/rum  
 ϱ|[𓍢](𓍢)[𓍯](𓍯)|𒊒|raus  
-P|[𓊪](𓊪) |𒇥| PÚ bù PÙ |pool pond! 𒆸uPQU/GAB! 白 bái 𒉺bà pá beat, punch  
-Q|[𓏘](𓏘)| 𒌒| (q)up| qvart corner cover  qpvl 𒇥 quell/pool  
-R|[𓂋](𓂋)|𒊑|à:Ort|reich:give 𓂋⋍𒊑 !  
-S|[𓋴](𓋴)|𒋗| šú 手 shǒu| 𒂊 say 'E' 𒀾 ES curse --  
+P|[𓊪](𓊪) |𒇥| PÚ bù PÙ 𒉿(p)ear𓄕𓂌pure|白 bái 𒉺bà pá beat, punch 𓇤pile 𒈠口kou𒆸Cph 
+Q|[𓏘](𓏘)|𒋡 𒌒 𒆪| (q)up| qvart corner cover  qpvl 𒇥 quell/pool  
+R|[𓂋](𓂋)|𒊑|à:Ort rad𒋥𓊖 |reich:give 𓂋⋍𒊑 rib!  
+S|[𓋴](𓋴)|𒋙 𒋗| šú 手 shǒu| 𒂊 say 'E' 𒀾 ES curse --  
 T|[𓏏](𓏏) |𒁹| tish/dash|𐎚 𒋙 𒁹+𒌋 þ THu:šù=ŠÈ 𒌓ut/tam  𒀸as  
 U|[𓅱](𓅱)[𓍢](𓍢)|𒌋| und vs 𓂝 𒄷 Huhn  
 V|[𓆑](𓆑) | 𒌋  
-W|[𓅳](𓅳) |𒑱|𒉼 *VAN |𒉼 PAN  
+W|[𓅳](𓅳) |𒑱 𒉿|a'wear𓄕 𒉼 *VAN |𒉼 PAN  
 X|[𓎛](𓎛) |𐎃𒋧| USHX  | kill  1000? aus-- /die--  
 Y|[𓏭](𓏭)|𒐊| Y  
+Z|𓍿𓊃𓏏𓄑|𒍝|zain:Zahn|thy:dein 𒁹𒁹 𒄑
 Z|[𓊃](𓊃)|𒁴|bind|DIM⋍sym  𐎕𒍝𐩸 zone  
 SH|[𓈙](𓈙) |𒀊|ab abyssea|[𒌍](☾☾☾)30 𒐁 𒊺  
 AT|𓄿𓏏𓇳𓏤|𒌓|late / at time|𓄿𓂾𓁐 tiumbe time UTU 🌣 USU [𒌍](☾☾☾)  
@@ -60,7 +62,7 @@ lišānu|[𓄓](𓄓)|𒅴|glossa:tongue++| 𐎍𐎌𐎐 [lšn](https://en.wikti
 KA2|𓊀|𒆍 |gate 𓉻|𒆍 bābu(lon)! <<  
 KIr|[𓊖](𓊖)|𒆠|[KUR](kur)as| qaqqaru  
 erṣetu|𓊖|𒆠|EARTH| SEM:[arṣ́](https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%CA%BEar%E1%B9%A3%CC%81-)  
-KU|𓍿|𒆪|ku, qú, tuš| !!?<< trust  
+KU|𓍿|𒆪|ku, qú, tuš|𒄑 certain << truth/trust  
 zēru|[𓂋](𓂋)|𒆰| NUMUN|0 seed [𓍁](𓍁)𓂋 corn|𓉻𓂝𓄿𓂝𓂺 zaäro 0 ⇔ saat 𒆳!? 𒐼  𓏠?  
 LA|𓂜𓈖|𒆷|¬ LA! 𒉡NU ¬| NULLA 𓂜𓈖| 𒌑𒌌 UL ⋍ UN¬  
 LAM|𓍟𓌘?|𒇴|rise| ?? ⇔ 𒈝  
@@ -82,7 +84,9 @@ NA|𓈖𓏤|𒈾|nau,nun,nar |narmer
 Naga||𒉀|Nager𓇠𓇡𓂋|NorGer𓌽⇔cereal goddess! ;) gÉREŠ 𓋹snack  
 Naga|𓃶|𒀱|𓃶 𓋹 aNaKa|God 𒀭Goat Sanger𓇡 +++  
 !|𓋩|𒀱|DALḪAMUN|𓋹 Talisman Amun 𒀭El Hammon 𓃶 ram?  
-NE||𒉈| ne: nar,ni,kúm 𓎡 |  
+NE|𓅮𓄿?|𒉈|ne,nar,ni: ante:𓈖𓏏 this|vs 𓏏𓈖,𓊪𓈖,𓇑𓇑𓈖,𓈖𓆑
+NE|𓈖𓍇𓏌𓏲𓐍𓊮|𒉈|ne…? heat vs𓃀'𓐍𓐍𓅱𓊮->chem:
+kúm|𓊪𓋴𓊮|𒉈 (H/M𒄭) cHaM  (heat,cook)|𓐍𓏏𓊮~𓎛𓏏𓊮heat carry 𒅗 𒆍 see 𒄑  
 ENGAR|𓇭|𒀳|Neger:garden|𓂓𓂋𓇋𓇋𓇭𓀀 APIN 𓃒 ḥaraθ rise care? -? 𓈙𓏤𓈉  
 pil|𓍑𓊮|𒉈|pir:fire! pho?  
 NI|𓈖𓏮|𒉌|nous:uns/our  
@@ -118,6 +122,7 @@ ina|𓈖|𒀸|in!
 GE23||𒀹| Ger? 𒀺 GE22|#area 𒁹 dash turned: DIŠ tenû  
 GIŠ2||𒁹|60 sixty|,GIDA,  GEŠ2  
 ištēn||𒁹| 1st|ersten ++| 𒀸AŠ 1𓏏  
+GIM||𒁶|gim:comme=wie
 DIŠ||𒁹|dash  
 pu||𒁍| pull|sír zieher| ++ full⇔long?  
 DA/ṭa|𓏏𓇿|𒁕|𓇿Tau:line 𓇾tear 𓏛termi𓏥  | e.g. in (v)ad-da = father, dad ++  
@@ -171,7 +176,8 @@ UD/UT/tam!|𓊗 δN|𒌓|🌣uTuam time|𒌚  ḥiš? par, per?
 ITU|𓆵𓆶𓆴|𒌚|month|itera𓇋𓆵𓇳⇔watera / mwinter month? (Luwian too!)  
 ITI|𓆵𓆶𓆴|𒌗|month|UD×EŠ| 𒌓UD-𒌍šeššig(30)  itud, itid  
 warḫu|𓆵𓆶𓆴|𒌗| a) month(SEM) b) warum?  
-šeššig|[☾☾☾](☾☾☾)|𒌍|30 thirthyg dreißig|3☾ drei-sickle SIN = moon  
+šeššig|[☾☾☾](☾☾☾)|𒌍|30 thirthyg dreißig|3☾ drei-sickle SIN = moon 
+mad|𓇹𓇼𓂧𓇳𓏤|𒆳|mad~month ☾^^^|𓏠𓈖𓐍𓏏 third month
 UR||𒌨|Phur⇨𒌨𒈤 Puma(𒈤=MAḪ) Bear purr?  
 ḪUL||𒌨|𒌨𒌆 ḪUTÚG Hund(dog) ⇔ howl!++  
 úḥ||𒌔|owl??  
@@ -194,10 +200,10 @@ Bad|𓏱|𒁁|go bad / up / muert |complete,old,end ?
 Bad|𓏱|𒁁|bad⋍blood  
 TIL|𓏱|𒁁|tuer die ⋍ dam=blood |laDY𓏏  
 bar|𓌢 |𒈦|bar: block/bind|down  
-parat!|𓌢 |𒈦|part! devide  
-paratsu|𓌢 |𒈦|barata: brother!! 𒈦bar+ta𒈦!  
-bar||𒈦|para/past (beyond/future)  
-mas||𒈦|much ! Mazdar ⋍ Adar  
+parat!|𓌢|𒈦|part! devide  
+paratsu|𓌢|𒈦|barata: brother!! 𒈦bar+ta𒈦!  
+bar|[𓏶](𓏶)|𒈦|para/past (beyond/future)  
+mas|[𓏶](𓏶)|𒈦|much ! Mazdar ⋍ Adar  
 wr||𒌋|war  
 ptr||𒌋|petra:stone,batterl,further  
 

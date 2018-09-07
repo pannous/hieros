@@ -1,4 +1,4 @@
-abstract [𓃀𓍢](𓃀𓍢)𓇩 [bu](bu)ch to turn adjectives into verbs [nouns](Nouns)  
+[[abstract]] [𓃀𓍢](𓃀𓍢)𓇩 [bu](bu)ch to turn adjectives into verbs [nouns](Nouns)  
 
 𓃀𓍢 **being-**  
 

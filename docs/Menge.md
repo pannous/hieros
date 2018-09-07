@@ -1,14 +1,15 @@
-[Numbers](Numbers) have a strong [𓏶](𓏶) N/M/BR component  
+[Numbers](Numbers) have a strong [𓏶](𓏶) M/N/BR component  
 
 ⲙⲁⲗⲗⲟⲛ more… ⇔ ameliorate  
 mostly M+N Mengen:  
 
 [𓏠](𓏠) 門 mén plural see [Gypsies](Gypsies) or below  
 [𓏠](𓏠)  Menge manche many Maß Maat math Mathematik salaMander[𓆈](𓆈)  
+[𓏠](𓏠)  mânâ ܡܢܐ‎  manû = count = [għadd](cut) ~ cut<>cattle Q.E.D.  
 [𓉻](𓉻) men manche much macha μακεδνοι mega 𒋰𒈫 MIN 门 門 mén zusammen -en  
 [𓇺](𓇺) mond moon months 𓇹 mount mound mountain mont  ⇔ mines menes?  
 [𓏶](𓏶) 'M' medi mitte middle metric measure manger mangel mas++ minus-- [𓅓](𓅓)[𓃺](𓃺)  
-𒀭 multi 𒄬 𒈹 MathemaTheia  
+𒀭 multi 𒄬 𒈹 MathemaTheia  𒈠𒆷 many/multa
 
 0 [𓅓](𓅓) [𓅱](𓅱) manu@celtic [𓂜](𓂜) empty hand  
 0 𓅓𓐍 mnacht = nought,nix, new-moon  
