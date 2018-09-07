@@ -1,3 +1,5 @@
+2 dvał [[𓈋]] dual duo dos 2 多 🌙 Tal dale valley  
+
 A grammatical form between singular and [plural](Plural),  
 the dual is preseved in some [european](PIE) languages.  
 In Egyptian it is written as 𓏮 𓏭 𓇌 𓇋𓇋, read as ee,ei,ii,j  
@@ -18,7 +20,7 @@ bi/du/tu [𓏏](𓏏)𓏏 as syllable for duality already was present in Egypt:
 2 𓌟 thun,toe ⋍ keras [𓈎](𓈎)𓋴𓌟 (horn)  
 2 𓈇 tawi   two-towns | two-lands dawlant(AR)=state vs län.der[𓇾](𓇾)  
 2 toe 𓃅  endow(dotier) deva 𓃅 devine [𓊹](𓊹)𓊹@Hindi vs 𓃃 𓊹𓊹𓊹 nTr  
-2 dvał 𓈋 dual duo dos 2 tal valley  
+2 dvał [[𓈋]] dual duo dos 2 tal dale! valley  
 2 d*,tu,tha  𓂋𓌟 rid reed ritual kathar vs ivory 𓍋𓃀[𓅱](𓅱)𓌟 ai.b.u.ry[d]  
 2 tion 𓎼𓈖𓏌𓅱𓏏𓌟𓌟𓌟𓏛𓏛𓏛 generations*  
 2 tyà 亚 丫yā:fork 亞 [tyre](tyre) asia  

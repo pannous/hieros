@@ -25,7 +25,7 @@ K:	V31	𓂓/𓎡	cup/Korb:cover~kappa ⵛcκ! γ(r) χ !cr->gr->jr Krug que ţju
 K:	𓐍 qapha cover<>qadar gray 	kWn𓏲kWr?	 raw-khake	𓍯𓄿𓏲𓏲𓈐𓂻
 L:	Z5 𓏯 L λ<-Y 𓇋𓇋 𓇌  << D15 𓂅 Locke 𓏲? 𓂢 Elle niL𓈖𓄓𓋴langue لا𓄿Lär 𓃭Leo 𓌳לlamed=goad(t) ¬ ł/Ր/r?
 L:  N35 𓈖 𓄓𓋴 langue, lanze, lick, lap ﻝ
-M:	𓅓𐦨 Musen 𒈪 𓐝𓊗𓐍𓐍𓎡𓎡Galle μa μη 𓀁moiμ𓅱 mwn 𐀖 µ vs ν   Mut:𓂋𓅱𓅐  
+M:	𓅓𐦨枭  Musen 𒈪 𓐝𓊗𓐍𓐍𓎡𓎡Galle μa μη 𓀁moiμ𓅱 mwn 𐀖 µ vs ν   Mut:𓂋𓅱𓅐  
 M:	U1 𓈗𓌳 Marinaus 𐀔𐀪𐀚	Mast 𓄱 Mwa.δer Meer.sea/syl 𓈗 mēmn máyim 𐤌 𓀁moiμ𓅱? 𒉡 HNMWU : hnm inημwu 𓁹 𒊩 MUNUS woman whomb Ω <> Maur 𓌻 𓍅 𓄠~Mess… 𓅓 
 N:	N35	𓈖𐦊 μν Menes mNwave 𓈖	نهرnahr! nadī nāru nWa' nyλ NiL	NAUtik 𓈖𓏤=fish! ןነ𐤍נ nūn 𒈾 NAr.mer mean.der 牛 niú 鸟 μνoi niǎo 𒈾 NA 那 nà ɲ~ŋ 
 O:	Q3	𓊪 𓉔 V4	 vs	𓂝 D36 Oben 	禸肉⺼R vs 𓂋 Rachen?    O < 𓊪 < OI,AI,EI, phOi/chOu ! 
@@ -442,7 +442,8 @@ G25	𓅜 𐌰𐌷𐌼𐌰!Acha/Macht/axa/akra/ace/8 𓅜 ~ KYR AGT: GUT! Acker, 
 G26 𓅞 Thoth/Toth/ḏḥwt:DRUID! The.right tpth 7'Ibis  𓅝  𓅞  != 𓅠 xen.FAI?  "𓅝 𓅓𓂝𓎡𓅱𓀀 froguer 𓆏"!  𓅷|𓅠 Chyn/Féin vs ASEN!
 G27	𓅟 dash'ryt = flamin'go    𓅟
 G28	𓅠 FAI: faint, fang, find, fire VS zünd zyn xeno!   vs 𓅡𓅚梵fàn ? tyr/tach??<<
-G29	𓅡 BA! Βούβαστις = Bubastis = 𓃀𓅡𓊨𓏏𓊖 !!! QED**10 BauBastion! βαστ~Faust!?  βα=va =>  𓃝bal@Kurd! 𓅽brain
+G29	𓅡 BA! Βούβαστις = Bubastis = 𓃀𓅡𓊨𓏏𓊖 !!! QED**10 BauBastion! βαστ~Faust!?  βα=va =>  𓃝bal@Kurd!
+G29	𓅽 BAbird 𓅽brain! bal=mind@SEM barbar
 G29	𓅡 Pfau.Xa OK ~ 'Bahu' BV/PF.au.hEN=>bwork     Wer~man 𓅡 ~≠~ G21  G29A
 G30 𓅢 Power frawahr@PERSIA! po'work 𓅡𓎡𓅂 𓅢 Ba Wow 𓅨 pāo 🏐
 G30 𓅡 po'mwer mharpoon  𓅓𓂝𓅡𓎆𓎆𓎆𓌡 30!  powder pomerans 'moringa

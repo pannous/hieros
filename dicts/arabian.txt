@@ -768,32 +768,36 @@ azraq : gray; blue [zariqa] Per azraq
 
 B
 
+B roots: BE… PART PROTO:1 BAD POD 
+
 ba : the letter b [Sem b-y-t, Heb bet] Ind ba, Per be 
-ba : return [Sem b-w, Akk bau (come), Heb ba, Tig bea (enter), Uga bw’ (come), Phoen bw’]
+BA : return √POD [Sem b-w, Akk bau (come), Heb ba, Tig bea (enter), Uga bw’ (come), Phoen bw’]
 
-ba‘a : sell [Mal biegh] <<
+ba‘a : sell [Mal biegh] << ¬buy bakshish
 ba‘aqa : cut [Sem b-‘-q]
-ba‘atha : send, delegate 
+ba‘atha : BOTE send, delegate 
 
-BAB : DOOR; chapter [Sem b-b, Mal bieb, Akk babu, Aram bb] Hau babi, Hin bab, Ind bab, Per bab 
-<<
+BAB : DOOR; chapter [Sem b-b, Mal bieb, Akk babu, Aram bb] Hau babi, Hin bab, Ind bab, Per bab  <<
 
 babgha : PAPAGEI!?! <<< +++ popinjay, parrot [from Per]
 babunaj : chamomile [from Middle Per babunag]
 babur : locomotive [from Ita vapore (steam)]
 
-bacha : rot [Sem b-w-ch]
-bachil : miserly [bachila] Ind bakhil, Per bakhil, Swa bahili, Uzb bakhil 
+ba‘du : later (PART:after)[ba‘uda]
+ba‘d : after (apoda:after) [ba‘uda] Hin bad, Per ba‘d, Swa baada 
+bachil : miserly BAD^ [bachila] Ind bakhil, Per bakhil, Swa bahili, Uzb bakhil 
 bachila : be miserly 
 
-ba‘d : after [ba‘uda] Hin bad, Per ba‘d, Swa baada 
-
 bada : begin [OS bada, Hrs bedo]
-bada : perish [Sem b-y-d]
-badaha : appear unexpectedly 
-bada‘a : do the first time [bada]
+bada : perish BAD/PART [Sem b-y-d]
+bacha : rot BAD[Sem b-w-ch]
+
+badaha : appear unexpectedly √POD
+bada‘a : do the FIRST time [bada]
+
+badala : replace, exchange √1part? [Sem b-d-l, Mal bidel, Heb hevdel (difference), Uga bdlm] Hin badalna, Swa badili 
+
 badal : change; substitute [badala] Hin badal, Per badal, Swa badala 
-badala : replace, exchange [Sem b-d-l, Mal bidel, Heb hevdel (difference), Uga bdlm (reserves)] Hin badalna, Swa badili 
 badawi : Beduin+++ [badia] Ind badui, Per badawi 
 
 badda‘a : charge with heresy 
@@ -812,14 +816,13 @@ badiha : improvisation, cleverness [badaha]
 badihi : natural [badaha]
 badla : suit, costume [badala]
 badr : full moon  Ind badar, Per badr 
-badrum : cellar [from Gre hypodrome] Alb bodrum, Ser podrum, Tur bodrum 
-ba‘du : later [ba‘uda]
+badrum : cellar [from Gre hypodrome++ bathroom;)] Alb bodrum, Ser podrum, Tur bodrum 
+
 Badw : Beduins [badia] Ind Badui 
 badzr : clitoris [Akk bissuru (vulva)]
 bafta : calico [from Per] Ind bafta, Swa bafta 
 baghata : come unexpectedly; surprise [Heb ba‘at (frighten)]
 baghisza : be hated 
-baghl : mule [Sem b-gh-l, Mal baghal, Aram bgl, Hrs be‘elet, Amh beqlo, Tig beqel] Ind baghal, Per baghl 
 baghta : surprise [baghata]
 bahala : curse [Sem b-h-l, Akk balu (supplicate), Heb nivhal (be frightened), Hrs behelet (word)]
 bahaq : leprosy [Sem b-h-q, Aram bhq (bright spot, a skin disease), Hrs bihoq, Tig behaq (blisters)]
@@ -832,7 +835,7 @@ BAHA : be BEAUtiful [Sem b-h-w (shine), Heb bahu (hall)]
 bagha : desire (↔beg?) [Sem b-gh-y, Akk bu‘‘u (look for), Syr b’a (ask for), BAram b‘h, b‘w, Hrs beayt (wish)]
 baghi[m] : prostitute [bagha]
 
-bahhatha : look for; research; discuss [Akk be’eshu (stir), Heb bachash]
+bahhatha : look for; research; discuss √BVOIR [Akk be’eshu (stir), Heb bachash]
 bahhith : researcher [bahhatha]
 
 bahhr : sea ↔ BACH [Sem b-hh-r, Mal bahar, Syr bachra, Amh baher, Tig behar] Ful bahar, Hin bahr, Ind bahar, Per bahhr, Swa bahari 
@@ -841,35 +844,46 @@ bahhri : naval, marine [bahhr] ↔ BACH Hin bahri, Ind bahri, Per bahhri, Swa ba
 bahhth : dispute, discussion [bahhatha] Hin bahs, Ind bahas, Per bahhth, Tur bahis 
 battle+-+
 
-bahima : beast+---, BA++: cattle [Sem b-h-m, Mal bhima, Heb behema, JNA bihema, Gez behema (be dumb), Tig behame, Uga bhmt (animal)] Ful bahime, Per bahime 
-BAHIM : DARK [abhama]
-bahim : toe [ibham]
-bahir : bright [bahara] Per baher 
-bahit : pale [bahita]
-bahita : be pale 
-bahw : saloon [baha]
-bai‘ : seller; sale [ba‘a] Per baye‘ 
-ba‘id : remote [ba‘uda]
-bain : between [bana] Per bein, Swa baina 
+baghl : mule BUCKEL[Sem b-gh-l, Mal baghal, Aram bgl, Hrs be‘elet, Amh beqlo, Tig beqel] Ind baghal, Per baghl
+bakr : young camel PACKER [bakara]
 ba‘ir : camel [Sem b-‘-r, Akk biru (bull), Syr ba‘ira (camel), Hrs be‘ir] Per ba‘ir 
-bais : miserable [baisa]
+bahima : beast+---, BA++: cattle [Sem b-h-m, Mal bhima, Heb behema, JNA bihema, Gez behema (be dumb), Tig behame, Uga bhmt (animal)] Ful bahime, Per bahime 
+bahim : toe [ibham]
+
+BAHIM : DARK [abhama]
+bahir[de] : bright [bahara] Per baher ~++
+bahit : pale WHITE 白色báisè [bahita] +++++
+bahita : be pale ~
+bahw : saloon [baha] √Bad?
+bai‘ : seller; sale [ba‘a] Per baye‘  ¬buy
+
+bain : between ++be`een [bana] Per bein, Swa baina ++
+
+ba‘id : remote [ba‘uda]
+
+bais : miserable BAD [baisa]
 baisa : be miserable 
+
+bait : house BETT/PORT[bata] Hau baiti, Ind bait, Per beit 
+
 baisz : egg [basza]
-bait : house [bata] Hau baiti, Ind bait, Per beit 
+
 ba‘ith : motive, reason [ba‘atha] Hin bais, Per ba‘ith 
-baittari : veterinarian [from Late Lat vetarius]
+
+baittari : veterinarian [from Late Lat vetarius ƒ] ++
+
 bajjala : honor 
 
-bakir : early [bakara] ↔
+bakir : early [bakara] BWAKE ↔
+bakara : BWAKE / 1. PACK
 bakara : get up early bwake!!!+++ [Sem b-k-r, Akk bukru (son), bakru (first-born; young camel), Heb boqer (morning), bekher (young camel), bachur (youngster), boger (bachelor), JNA bukhra (first-born), Hrs boker (young camel), Amh bekwer (first-born), Tig bekret (young camel), Uga bkr, bchr (youngster)]
-bakr : young camel [bakara]
 bakur : coming early [bakara]
 
 bakima : be dumb [Tig behame]
 baka : weep [Sem b-k-y, Mal beka, Akk baku, Heb bakha, Syr baka, JNA bkhy, Uga bky]
 bakra : spool [Amh bekera] Bul makara, Ser makara, Tur makara 
 
-bal : sense, mind [Syr bala]
+bal : sense, mind 𓅽	! [Syr bala] 
 bal : nevertheless [bila]
 ba‘l : master Baal™++ [Sem b-‘-l, Akk belu, Heb ba‘al, Syr ba‘la, Hrs bal (husband), Meh bal, Amh bal, Tig beal, Uga b‘l, Phoen b‘l]
 

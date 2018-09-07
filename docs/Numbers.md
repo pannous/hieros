@@ -4,9 +4,26 @@ NUMBERS
 [𓍿](𓍿)=c[𓈖](𓈖)=n[𓌙](𓌙)=tan : count, compute[𓅯](𓅯)  
 
 [𓆎](𓆎) [𓅓](𓅓) [𓏜](𓏜) ∑ kommt : total up, amount to, complete, put an end to, pay (to), profit, duty  
-∑ compute, comme, kommt zu ... macht Zusam[men](Menge), Summe, count, compter ⇔ censor  
+∑ compute, comme, kommt zu ... macht Zusam[men](Menge), Summe, count, compter ⇔ censor    
+[[𓎸]] common Kommun Khnum (unite)  
 
 During the amost four millenia in which egyptian hieroglyphics where in use, surely ambivalent readings of the signs developed. Although the exact spoken forms of pharaonic numbers are forever lost to history they seem to be similar to:  
+
+0 none [𓂜](𓂜)𓈖  nile nulla 
+1 wa'  𓅱𓂝
+2 tvi 𓏮 = 𓍘𓇋 
+3 cird [𓐍](𓐍)𓏏 third 𐎘𐎍𐎘 Shams 𓇾𓈉
+4 ƒeaThDur	𓇋𓆑𓂧 ЧⲦⲞⲞⲨ 𓆑𓂧𓅱 < quartēr/qvrth 𓊖𓏴		
+5 phntiu? 𓏆𓈖𓏏 qvind 𓇼𓂭point 5th χoit 𓂧𓇋𓏏 [sic] khamsa@Arab   𓎼𓈖𓄡𓏏𓇼
+6 sis	𓋴𓇋𓋴 			greek:shexa		ce/cooyg@copt   šeššet@Akkad  seta@Arab  
+7 sevHwn 𓋴𓆑𓎛[[𓅱]]	 	greek:sebta?	七 qība seba@Arab  ßevḪvn 𓊃𓆑𓐍𓅱𓏮𓏮𓏥  sephthen: sebt/cept 𓁶
+8 acha.many 𓎛𓏠𓈖𓅱 < восьмой ⋍ bosmony  丷♉𓃒𐂍	  'samānā@Akkad
+9 Poseidonon? 𓊪𓋴𓆓 #psD(w) 𓇸 = naun 𓌳𓈖𓈗 new/neun  
+10 µTen 𓎆 #mDν ⲘⲦⲈ@copt	umpteen =1x10  tent 𓎆 dent [𓏏](𓏏) ten @ sumer ("DON") dah@persi  ma.dan 
+20 µTwenty! 𓎆𓎆 #mdwtj ! 10*2 / 2*10 30maabe 40qvame? 50djjw 60sisin 70sevhjn 80 8mene 90 poseidón psdjw  
+100 cent ϢⲎⲦ #šẽt #šnt Ḫunda 𓅱𓍢𓃡 chien 犬 quǎn czien centipede=cenpod𓊃𓊪𓅮!!   
+1000 𓐍𓆼𓄿𓅱 kh𓆼au KILO 𓆼calla  千 1.000 qiān 𓐍𓆼𓄿𓅱   Ϣⲟ@Coptic  
+
 
 0 none [𓂜](𓂜)𓈖  
 0 null nile 𓂜[𓈖](𓈖)  
@@ -29,11 +46,16 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 1 oan  𓌠				vs 𓌟  2   wahed@Arab  
 1 whone  𓅱𓂝  
 1 phoone   𓌡		T21 [har]poon  1 𓌠 bone [𓄹](𓄹) vs 𓌟  2  
-1 first  išten@Akkad ersten vs 𓂬  
+1 first  išten@Akkad ersten vs fist 𓂬  
+1 pirst first@Turk  𓌡 pierce
+2 tvi 𓏮 = 𓍘𓇋 !
+2 tei/tou 𓏮 = 𓏏
+2 toe  𓃅  (toe=Zeh!)
+2 toe  𓌟			T19 toe,two,thun  𓌟  
+2	ta'owm=twin@SEM ++++  
+2	twau 𓈇 		Tawi two: dawlant(AR)=state vs län.DER  
 2 𓈙𓈖𓅱𓇋 sνnui ⋍ zwein  ⇔ twin  
 2 𓈙𓈖𓅱𓇋 snuni šina@Akkat  eth'nen@Arab  
-2 toe  𓌟			T19 toe,two,thun  𓌟  
-2 toe  𓃅  
 2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT cn snw/ßwn@EGY son Sohn çun@Albany zwon kin(D)  
 2 duo 𓏮 	多 duō duan 𓌢 down = two  
 2 duo 𓊃𓈙𓏮𓅹 zhnízdo/gynishdu=nest  
@@ -42,9 +64,7 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 2 two  𓏮  T+𓏮=TWO 𐠰𓏮=𐠱=TU@Cypriot!  
 2	DVAł 𓈋 	dual duo dos 2 tal valley  
 2	Shatwom 𓍏	𓈙𓍃  שְׁתַּיִם	sTwomn 𐎘𐎐𐎎  
-2       twya 亚   ? 丫yā:fork  
-2	ta'owm=twin@SEM ++++  
-2	twau 𓈇 		Tawi two: dawlant(AR)=state vs län.DER  
+2	twya 亚   ? 丫yā:fork  
 2 men 𒋰𒈫 MIN 门 門 mén zusammen [𓊃](𓊃)  𒋰dab double  
 3 𓏪 𓏤𓏤𓏤 𓏼 𓏨 S'men	-ismn -isn  some somne ☾☾☾ 三 sān  
 3 shamnt 𓐍[𓂸](𓂸)𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT ⇔ Ξ ξan san 三!  
@@ -64,6 +84,7 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 4 fodu 𓆑𓂧𓅱  ЧⲦⲞⲞⲨ  Qvatour  𓆑𓂧𓅱 fdw kvetur four  
 4 ftd 𓇋𓆑𓂧𓂢𓏥 4uadrieren  
 4 qvart 𓊖𐀏𐃏𐀤 	 fåhrt 4  cart quart 4  fiat💸 ? ⇔ KUR  
+4 qvrth 𓊖𓏴		quarter <> qvrth : cross 𓏴𓊖 Kreis
 4 Kurt/Fort 𓊖	⇔ 4 portas  𓎳𓊮𓅨  Kurt 𓊖 Qus  
 4 fʷaɗə		Proto-Chadic ⇔ fourth fdw fâzw-  
 4 for	𓏃			fore, vor, … vs  𓏅 phnt  
@@ -111,7 +132,7 @@ Extra:
 [𓏠](𓏠) Menge manche number many mega much macha 𓉻𓂝[𓄿](𓄿)𓏜 Acha ⇔ [𓆈](𓆈)  
 [𓏶](𓏶) 𒈦 Mas Maß ⇔ more moore [𓃶](𓃶) Gut 𒇻 goat 𒈧 encore [𓋹](𓋹)  
 
-Add An 𒀭 * multi 𒀯  
+Add An 𒀭 * multi *** 𒀯  
 Half 𒄬/2 Demi  𒈹 MathemaTheia  
 Plus ++ 𒉺 polys phyle viele  
 Reziprok 𓂋=1/x   𓂋/[𓎛](𓎛) 1/∞  
@@ -177,6 +198,8 @@ cent cien ⇨千 1.000 qiān 𓐍𓆼𓄿𓅱 khan ⇨ giant ⇨ (q)WAN 万 ⇨ 
 𐩱	1000  alef vs 𐩪 	satsa  (al liliv?)  
 
 10 1*10 IO vs 𐩲𐩽 1+10 a 11  
+
+森 	もり 	mori  multi 𒀯 
 
 
 𒍣𒈨𒌍 napišātum [☾☾☾](☾☾☾) 𒌍 šeššig 30 thirthyg dreißig|3☾ drei-si vs 60!!  
