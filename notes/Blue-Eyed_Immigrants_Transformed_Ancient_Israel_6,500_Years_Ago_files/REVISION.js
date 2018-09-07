@@ -1,0 +1,1 @@
+!function(){var a=function(){if(window.cs_cmd)for(var a=0;a<window.cs_cmd.length;a++)"function"==typeof window.cs_cmd[a]&&window.cs_cmd[a]()};if(window.Purch&&window.Purch.LOE)a();else{var b=document.createElement("script");b.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(b),b.onload=a,b.src="//assets.purch.com/loe/1.0.16-101/clickstream/lib.js"}}();
