@@ -1,1 +1,1 @@
-[[𓅫]] foul / 煞 shā 刹 shā [[SAR]]
+[[𓅫]] foul / 煞 shā 刹 shā [[SAR]]  

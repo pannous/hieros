@@ -4,7 +4,7 @@ Adam Ris 𐀪 (Linear B)
 Recke = Warrior +++  
 Rekka@Edda (hero)  
 Rassana@Etruskan ⇔ Ross 🐎  
-rag raġel رجل‎ rájul rmṯ @ Semitic!!
+rag raġel رجل‎ rájul rmṯ @ Semitic!!  
 
 
 𓂋𓍿𓏏𓀀𓏥 𐩹𐩫𐩧‎ 𐎏𐎋𐎗 ḏkr [mirrored](mirrored) !  

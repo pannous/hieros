@@ -6,10 +6,10 @@
 𓍋𓃀𓏲𓃮 le'panther   𓋁=lebanon,levante  
 𓋁𓃀𓏲𓄛𓏪 leopard  
 
- 
+
 𓎡𓇋𓇋𓃷𓄛 Chimpanther  vs  
 𓎼𓅱𓆑𓃷 Qoõphen Gibbon gApen Affen 𐡒𐤒 𐩤𐭒  
-猫熊 Pantha-Bär māoxióng  𐀞田 Pantian ~ 猫    匕匕厶 Bär ~熊  䏍~bver:worm  ཕོ་ཉ pho-nya Booten  
+猫熊 Pantha-Bär māoxióng  𐀞田 Pantian ⋍ 猫    匕匕厶 Bär ⋍熊  䏍⋍bver:worm  ཕོ་ཉ pho-nya Booten  
 
 
 LöWen[Tier](𓄛) [𓃬](𓃬) [𓃭](𓃭)  Leo = letter 'l'  

@@ -18,7 +18,7 @@ Reflexive & Interrogative [Pronouns](Pronouns)
 |-----------|-|-------------|--------|  
 𓈖 𓏏 𓏏||that|anthat ⇔ ante  
 𓈖 𓏏 𓊪 𓏲||it is the fact that.......|ante whun  
-𓈖 𓆑||(demon.) that, those|  von / diesen
+𓈖 𓆑||(demon.) that, those|  von / diesen  
 𓈖 𓆑||(demon.) that, those  G|na'then nar+den -- / nause ⇔ those / Unsinn, Niesen / nilosn ⇔ los ...  
 𓈖 𓆑 𓀁||wrongfully|Unsinn ++ / nvadim ظالم / nesprávný / ^^^ e.g. those ^^^  
 𓈖 𓆑 𓂝 𓂻||remove|nevor ? / aphαnic aphan / ?⇔un-sen  

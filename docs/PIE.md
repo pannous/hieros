@@ -37,10 +37,10 @@ They set out to conquer the world and conquer they did:
 ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Indo-European-speaking_world.png)  
 Most of the white countries and the white northern countries spoke some indo-european through some or much of their history!  
 
-The first predynastic mummy in [Gebelein](https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies) had red hair. So did Ramesses II!
-![](https://www.beyondsciencetv.com/wp-content/uploads/2017/08/download-44.jpg) 
+The first predynastic mummy in [Gebelein](https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies) had red hair. So did Ramesses II!  
+![](https://www.beyondsciencetv.com/wp-content/uploads/2017/08/download-44.jpg)  
 
-There is a theory suggesting that before 2000 BC, Egyptians were of Caucasoid-European ethnicity. This is supported by the physical anthropology of the oldest mummies that have been found, the busts and statues of several pharaohs and their wives, the colored wall paintings discovered, and the descriptions provided in historical accounts.
+There is a theory suggesting that before 2000 BC, Egyptians were of Caucasoid-European ethnicity. This is supported by the physical anthropology of the oldest mummies that have been found, the busts and statues of several pharaohs and their wives, the colored wall paintings discovered, and the descriptions provided in historical accounts.  
 
 Faces of some conquerers:  
 ![](http://www.hs-augsburg.de/⋍harsch/museum/Chronologia/C_a0260/Anchhaf/anchhaf.jpg)  
@@ -48,51 +48,51 @@ Faces of some conquerers:
 ![](http://newsimg.bbc.co.uk/media/images/42806000/jpg/_42806109_bust_getty_416.jpg)  
 
 
-[[Moral]]:
-Famous DNA researcher David [Reich](https://www.theatlantic.com/science/archive/2018/03/ancient-dna-history/554798/?single_page=true) once had German collaborators drop out of a study when the findings seemed to mirror too closely Nazi propaganda about the Aryan race.
+[[Moral]]:  
+Famous DNA researcher David [Reich](https://www.theatlantic.com/science/archive/2018/03/ancient-dna-history/554798/?single_page=true) once had German collaborators drop out of a study when the findings seemed to mirror too closely Nazi propaganda about the Aryan race.  
 
-A queen of [Jiroft](https://en.wikipedia.org/wiki/Jiroft_culture) in Iran ⋍3000BC was 1.80 tall with red hair and a [golden eye implant](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). The first predynastic mummy in Egyptian Gebelein had [red hair](https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies) too. 
+A queen of [Jiroft](https://en.wikipedia.org/wiki/Jiroft_culture) in Iran ⋍3000BC was 1.80 tall with red hair and a [golden eye implant](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). The first predynastic mummy in Egyptian Gebelein had [red hair](https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies) too.  
 
-"DNA is doing is it’s forcing the hand of this discussion in archaeology, showing that in fact, major movements of people do occur. They are sometimes sharp and dramatic, and they involve large-scale population replacements over a relatively short period of time."
+"DNA is doing is it’s forcing the hand of this discussion in archaeology, showing that in fact, major movements of people do occur. They are sometimes sharp and dramatic, and they involve large-scale population replacements over a relatively short period of time."  
 
-Hitler maybe forever destroyed the opportunity for scientists to have a rational unpolitical discussion about finds like these in Ancient Israel (then called Galilee) : https://www.livescience.com/63396-ancient-israel-immigration-turkey-iran.html
+Hitler maybe forever destroyed the opportunity for scientists to have a rational unpolitical discussion about finds like these in Ancient Israel (then called Galilee) : https://www.livescience.com/63396-ancient-israel-immigration-turkey-iran.html  
 
-Haplogroups of the Egyptian population:
-![image](https://user-images.githubusercontent.com/516118/44716239-480ff380-aaa9-11e8-893a-2a926c6719af.png)
+Haplogroups of the Egyptian population:  
+![image](https://user-images.githubusercontent.com/516118/44716239-480ff380-aaa9-11e8-893a-2a926c6719af.png)  
 
-[Ancient Egyptians were closely related to Anatolian and Neolithic European populations](https://www.nature.com/articles/ncomms15694). Sub-Saharan and Arabian influences only became strong after the fall of the Roman Empire.
+[Ancient Egyptians were closely related to Anatolian and Neolithic European populations](https://www.nature.com/articles/ncomms15694). Sub-Saharan and Arabian influences only became strong after the fall of the Roman Empire.  
 
-MtDNA haplogroups
-* [Haplogroup H](https://www.eupedia.com/europe/Haplogroup_H_mtDNA.shtml) Old Bask Baltic Alps Wales H6=Bronze Age
-* [Haplogroup HV](https://www.eupedia.com/europe/Haplogroup_HV_mtDNA.shtml) Sumeria Balkan Ukraine 
-* [Haplogroup I](https://www.eupedia.com/europe/Haplogroup_I_mtDNA.shtml) Neolithic Anatolia -> Europe (see N1a)   
-* [Haplogroup J](https://www.eupedia.com/europe/Haplogroup_J_mtDNA.shtml) J2 Anatolia, Caucasus, Persia (not Arab!) J2b Ural,Greek 
+MtDNA haplogroups  
+* [Haplogroup H](https://www.eupedia.com/europe/Haplogroup_H_mtDNA.shtml) Old Bask Baltic Alps Wales H6=Bronze Age  
+* [Haplogroup HV](https://www.eupedia.com/europe/Haplogroup_HV_mtDNA.shtml) Sumeria Balkan Ukraine  
+* [Haplogroup I](https://www.eupedia.com/europe/Haplogroup_I_mtDNA.shtml) Neolithic Anatolia ⇨ Europe (see N1a)  
+* [Haplogroup J](https://www.eupedia.com/europe/Haplogroup_J_mtDNA.shtml) J2 Anatolia, Caucasus, Persia (not Arab!) J2b Ural,Greek  
 * [Haplogroup K](https://www.eupedia.com/europe/Haplogroup_K_mtDNA.shtml) I18N GOBEKLI!, EU, Palestine/Kurds/Celts Caucasus  
-* [Haplogroup T1](https://www.eupedia.com/europe/Haplogroup_T_mtDNA.shtml) VINCA[0](https://www.eupedia.com/forum/threads/31362-Neolithic-western-Carpathian-Basin-356-pages?highlight=Vinca+dna)! VAN Ural Sumeria Lebanon Egypt ≠
+* [Haplogroup T1](https://www.eupedia.com/europe/Haplogroup_T_mtDNA.shtml) VINCA[0](https://www.eupedia.com/forum/threads/31362-Neolithic-western-Carpathian-Basin-356-pages?highlight=Vinca+dna)! VAN Ural Sumeria Lebanon Egypt ≠  
 * [Haplogroup T2](https://www.eupedia.com/europe/Haplogroup_T_mtDNA.shtml) Ural Udmurts Maykop Dutch Syria  
-* [Haplogroup U2](https://www.eupedia.com/europe/Haplogroup_U2_mtDNA.shtml) Caucasus, Jordan!  U5 Sami U6 Marocco 
-* [Haplogroup W](https://www.eupedia.com/europe/Haplogroup_W_mtDNA.shtml) Finland + West Slaws + Coastal Cities!
-* [Haplogroup X](https://www.eupedia.com/europe/Haplogroup_X_mtDNA.shtml) North Italy, Damaskus!, Maykop, Anatolia, Spain, Scotland!
-* [Haplogroup G](https://www.eupedia.com/europe/Haplogroup_G2a_Y-DNA.shtml) "Luwian" Mediterranean: absent
-* [Haplogroup V](https://www.eupedia.com/europe/Haplogroup_V_mtDNA.shtml) Sami! HV0 Europe Berber Israel: absent/HV
-* Non-European haplogroups ~30% :
-* R0 Arab! see HV ≠ R1
-* [L](https://i.pinimg.com/originals/e8/3e/a5/e83ea568a53b810c0bb606d5b08776d0.png) Berber!, Elam, Ethiopian, Arab   
-* M Indian, Arab
-* Other, especially Arabian and African haplogroups are mostly ABSENT!
+* [Haplogroup U2](https://www.eupedia.com/europe/Haplogroup_U2_mtDNA.shtml) Caucasus, Jordan!  U5 Sami U6 Marocco  
+* [Haplogroup W](https://www.eupedia.com/europe/Haplogroup_W_mtDNA.shtml) Finland + West Slaws + Coastal Cities!  
+* [Haplogroup X](https://www.eupedia.com/europe/Haplogroup_X_mtDNA.shtml) North Italy, Damaskus!, Maykop, Anatolia, Spain, Scotland!  
+* [Haplogroup G](https://www.eupedia.com/europe/Haplogroup_G2a_Y-DNA.shtml) "Luwian" Mediterranean: absent  
+* [Haplogroup V](https://www.eupedia.com/europe/Haplogroup_V_mtDNA.shtml) Sami! HV0 Europe Berber Israel: absent/HV  
+* Non-European haplogroups ⋍30% :  
+* R0 Arab! see HV ≠ R1  
+* [L](https://i.pinimg.com/originals/e8/3e/a5/e83ea568a53b810c0bb606d5b08776d0.png) Berber!, Elam, Ethiopian, Arab  
+* M Indian, Arab  
+* Other, especially Arabian and African haplogroups are mostly ABSENT!  
 
 
-Y-DNA
-* [Haplogroup I1](https://www.eupedia.com/europe/Haplogroup_I1_Y-DNA.shtml) VAN, Alban, FINƒ Scandinavian
-* [Haplogroup I2](https://www.eupedia.com/europe/Haplogroup_I2_Y-DNA.shtml) Neolithic Albania to Ukraine I2b=I2a2: German/Scot!
-* [Haplogroup J1](https://www.eupedia.com/europe/Haplogroup_J1_Y-DNA.shtml) Arab! Some southern Europe
-* [Haplogroup J2](https://www.eupedia.com/europe/Haplogroup_J2_Y-DNA.shtml) Kura-Araxes!, Anatolia, Troy!, Italy, Maykop, Minoan
-* [Haplogroup N1c](https://www.eupedia.com/europe/Haplogroup_N1c_Y-DNA.shtml) Russian, Fin, Lithuania
-* [Haplogroup Q](https://www.eupedia.com/europe/Haplogroup_Q_Y-DNA.shtml) Sweden, Sicilly! Lyon/Genf!?
-* [Haplogroup R1a](https://www.eupedia.com/europe/Haplogroup_R1a_Y-DNA.shtml) Poland+Russia (Slaves)
-* R0~H R1a-Z93 Hindukush!  Z283:Germanic(Corded Ware) Z94:Iran+Mittani
-* [Haplogroup R1b](https://www.eupedia.com/europe/Haplogroup_R1b_Y-DNA.shtml) West Europe, Ireland, east of Ural, Sahel!, Red Hair (Ramses, Gebelein) 
-* [Haplogroup T](https://www.eupedia.com/europe/Haplogroup_T_Y-DNA.shtml) Tigris, Syria, Southern Europe (≠T1)
+Y-DNA  
+* [Haplogroup I1](https://www.eupedia.com/europe/Haplogroup_I1_Y-DNA.shtml) VAN, Alban, FINƒ Scandinavian  
+* [Haplogroup I2](https://www.eupedia.com/europe/Haplogroup_I2_Y-DNA.shtml) Neolithic Albania to Ukraine I2b=I2a2: German/Scot!  
+* [Haplogroup J1](https://www.eupedia.com/europe/Haplogroup_J1_Y-DNA.shtml) Arab! Some southern Europe  
+* [Haplogroup J2](https://www.eupedia.com/europe/Haplogroup_J2_Y-DNA.shtml) Kura-Araxes!, Anatolia, Troy!, Italy, Maykop, Minoan  
+* [Haplogroup N1c](https://www.eupedia.com/europe/Haplogroup_N1c_Y-DNA.shtml) Russian, Fin, Lithuania  
+* [Haplogroup Q](https://www.eupedia.com/europe/Haplogroup_Q_Y-DNA.shtml) Sweden, Sicilly! Lyon/Genf!?  
+* [Haplogroup R1a](https://www.eupedia.com/europe/Haplogroup_R1a_Y-DNA.shtml) Poland+Russia (Slaves)  
+* R0⋍H R1a-Z93 Hindukush!  Z283:Germanic(Corded Ware) Z94:Iran+Mittani  
+* [Haplogroup R1b](https://www.eupedia.com/europe/Haplogroup_R1b_Y-DNA.shtml) West Europe, Ireland, east of Ural, Sahel!, Red Hair (Ramses, Gebelein)  
+* [Haplogroup T](https://www.eupedia.com/europe/Haplogroup_T_Y-DNA.shtml) Tigris, Syria, Southern Europe (≠T1)  
 
 
 
