@@ -32,19 +32,19 @@ Numbers partly ok with leading k⇨c⇨s sound shift
 
 *source:  Vladimir Skalitcka  
 
-all but two numbers align nicely with European languages. 
-'5' is more closely related to Slavic languages where penta is reduced to n-less peta~phiti.
-Interestingly '4' shows a similar abnormality as [[Dravidian]]. 
+all but two numbers align nicely with European languages.  
+'5' is more closely related to Slavic languages where penta is reduced to n-less peta⋍phiti.  
+Interestingly '4' shows a similar abnormality as [[Dravidian]].  
 
-Negation: nem, ei, а, абу, at 
+Negation: nem, ei, а, абу, at  
 
-vocabulary sample:
-```
-because koska	
-because sest  c’est 
-because sillä sendäh sentän žentäh žentän si
-dull: tylppä  Tölpel!
-dumb tompa
-rotten korhadt: corroden
-rotten mäda: 	Madig ^^
-```
+vocabulary sample:  
+```  
+because koska  
+because sest  c’est  
+because sillä sendäh sentän žentäh žentän si  
+dull: tylppä  Tölpel!  
+dumb tompa  
+rotten korhadt: corroden  
+rotten mäda: 	Madig ^^  
+```  

@@ -3,10 +3,10 @@
 𓃀 𓈖 𓏌 [𓅱](𓅱) 𓅣 heron ben.huron  
 
 鹏 peng2	phoenix!  
-凤 feng4 
+凤 feng4  
 凰 huang2 (red-horange-yellow  fire-bird)  
 网 wǎng fang 𓅂 fangs  
-匚 方 ^2
+匚 方 ^2  
 
 
 heron ⇔ [frank](frank) ± 𓃀𓈖𓏌𓅂  

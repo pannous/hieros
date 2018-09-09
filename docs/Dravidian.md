@@ -4,9 +4,9 @@ Dravidian languages display typological similarities with the Uralic language gr
 
 
 
-In the early 1970s, the linguist David McAlpin produced a detailed proposal of a genetic relationship between Dravidian and the extinct Elamite language of ancient [Elam](Elam) (present-day southwestern Iran). The Elamo-Dravidian hypothesis was supported in the late 1980s by the archaeologist Colin Renfrew and the geneticist Luigi Luca Cavalli-Sforza, who suggested that Proto-Dravidian was brought to India by farmers from the Iranian part of the Fertile Crescent. Many linguists have found McAlpin's cognates unconvincing and criticized his proposed phonological rules as ad hoc. 
+In the early 1970s, the linguist David McAlpin produced a detailed proposal of a genetic relationship between Dravidian and the extinct Elamite language of ancient [Elam](Elam) (present-day southwestern Iran). The Elamo-Dravidian hypothesis was supported in the late 1980s by the archaeologist Colin Renfrew and the geneticist Luigi Luca Cavalli-Sforza, who suggested that Proto-Dravidian was brought to India by farmers from the Iranian part of the Fertile Crescent. Many linguists have found McAlpin's cognates unconvincing and criticized his proposed phonological rules as ad hoc.  
 
-This page takes the stands that not enough is known about the Elamite languages yet to make any firm assertions, however the Archaeological record clearly shows that Elam(Susa & [[Anshan]]) was central to the Urban expansion, and was linked to the [proto-indo-european](PIE) founding stock.
+This page takes the stands that not enough is known about the Elamite languages yet to make any firm assertions, however the Archaeological record clearly shows that Elam(Susa & [[Anshan]]) was central to the Urban expansion, and was linked to the [proto-indo-european](PIE) founding stock.  
 
 Dravidian is one of the primary language families in the [Nostratic](Nostratic) proposal, which would link most languages in North Africa, Europe and Western Asia into a family with its origins in the Fertile Crescent sometime between the last Ice Age and the emergence of proto-Indo-European 4–6 thousand years BCE. However, the general consensus is that such deep connections are not, or not yet, demonstrable.  
 

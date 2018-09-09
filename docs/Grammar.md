@@ -3,7 +3,7 @@ Middle Egyptian is an astonishingly simple language, one might even say primitiv
 Negative [𓂜](𓂜) **’n'** no, **𓂜𓈖non**, nein, not 𓂜𓏏 anti- **un-** [𓅱](𓅱)-  
 Negation [𓂜](𓂜) **m**anu-(keltic) ma- mo-(greek) [𓅱](𓅱)- [𓅓](𓅓)- don’t 𓏏[𓍃](𓍃)  
 Feminine suffix [𓏏](𓏏)  -t ⋍ **-tha** ⋍ -ss   prince => princessa  
-[Prepositions](Prepositions) [𓈖](𓈖) in, an, on, ina𒀸 [𓅓](𓅓) im, mi⋍mit=with, [𓂋](𓂋) r:à, re-, [𓏏](𓏏) to, at …   
+[Prepositions](Prepositions) [𓈖](𓈖) in, an, on, ina𒀸 [𓅓](𓅓) im, mi⋍mit=with, [𓂋](𓂋) r:à, re-, [𓏏](𓏏) to, at …  
 [Comparatives](Comparatives) via suffix [𓂋](𓂋) -r hard —> harder  
 [Adjectives](Adjectives) via suffix **-y** -[𓇋𓇋](𓇋𓇋) -𓏮  fun => funny  
 [Adjectives](Adjectives) via suffix **-ty** [𓏏](𓏏)[𓏮](𓏮) -𓏏[𓍔](𓍔) -다 high => haugh*ty*  
@@ -19,10 +19,10 @@ Feminine suffix [𓏏](𓏏)  -t ⋍ **-tha** ⋍ -ss   prince => princessa
 Conjunction 1 implicit 𓅓𓅱𓏏𓅐 𓇋𓏏𓆑𓀀  Muta (,) (F)atav :  Mother and Father  
 Conjunction 2 explicit 𓅓𓅱𓏏𓅐 𓎛𓈖𓂝 𓇋𓏏𓆑𓀀 … Muta ḫand Fatav   Mother and/with Father …  
 Gerund prefix 𓅓 **im** Tanze —> danc**ing**  
-[Dual](Dual) **-di** -du    
+[Dual](Dual) **-di** -du  
 [Numbers](Numbers) !  
 [Particles](Particles)  
-[Plural](Plural) [𓅱](𓅱) ‘w’ wə ⋍ ən marche=>marchons⋍marchə ⋍ Sonne⇨Sonnen 
+[Plural](Plural) [𓅱](𓅱) ‘w’ wə ⋍ ən marche=>marchons⋍marchə ⋍ Sonne⇨Sonnen  
 
 Some authors, notoriously James P. Allen, project 'a few' more grammatical categories on the very limited set of suffixes, but this set covers approximately 95% of all texts.  
 

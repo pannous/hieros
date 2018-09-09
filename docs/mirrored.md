@@ -5,5 +5,5 @@ Human race 𐀪 人 ris 𓂋𓍿𓏏𓀀𓏥 = 𐩹𐩫𐩧‎ [ḏkr](https://e
 𓄛Ther+𓅓M+𓎡+I = ⲑⲁⲣⲙⲓ   [wrong-way](wrong-way) [mirrored](mirrored)  
 cuirass (der Kürass = Brustharnisch ⲑⲁⲣⲙⲓ ⋍ tharnisch :)))  
 
-имѧ  NAME!	jméno 
+имѧ  NAME!	jméno  
 
