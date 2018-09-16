@@ -6,6 +6,7 @@
 𓊡 #TA[[w]] Taue 𓏲   ⇔ [[𓍲]]𓈖𓍢 schnur  
 𓊡 #TA[[w]] storm-wind  
 
+宛	 wan3	wind!
 𠘨 (风風)	fēng  
 几 bow 几 fang!	𓊪𓃀𓆑  phi⋍fāng 匚冂凵匹 pan  
 凡 fán PAN 盘  
@@ -50,3 +51,14 @@ KUR
 
 𓋴 𓆓 𓏴||break up (hailstorm)  
 𓊃 𓂧 𓏴||break up (hailstorm)  
+
+返	fan3	wend	to return (to)		
+贩	fan4	√wend	deal in/trade in/to peddle/to sell		
+翻	fan1	WEND	flit about/translate/turn over		
+变	bian4	BEND WEND	to change/to become different/to transform/to vary/rebellion
+屁	pi4	~ phind	fart/to break wind/to fart	
+弯	wan1	wend:bend!	bend/bent		
+宛	wan3	winding ~1
+绕	rao4	'round!	go around/to wind (around)		
+飕	sou1		blow (as of wind)/sound of wind
+飒	sa4		declining/sound of wind		
