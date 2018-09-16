@@ -55,6 +55,8 @@ KUR international mega root of urbanization (and Egyptian variants)
 器 qì®™ gear Gerät *kʰrɯd 그릇 geureut QED  
 家 jiā gear -ier  
 郊 jīao® suburb  
+崔	 cuī® KUR > cairn  
+崎	 qi2	qi®	mountainous  
 丘 qiū® KUR grave Kurgan cairn  
 谷 gǔ® corn grain  
 扩 kuò® grow  
@@ -75,6 +77,7 @@ KUR international mega root of urbanization (and Egyptian variants)
 屈 qū®um krumm curved quer  
 器官 qì'guān=Organ ⇔ 犬 quǎn 狗gǒun 4 Canopic jars 器 crater gratia™  
 孔​丘 Kǒng Qiū Konquerer Konfuzi!?  
+岑	 cén	cairn
 
 
 거리 Gøri 𓊖 court quarters / city grid …  

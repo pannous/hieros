@@ -65,14 +65,15 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 2	DVAł 𓈋 	dual duo dos 2 tal valley  
 2	Shatwom 𓍏	𓈙𓍃  שְׁתַּיִם	sTwomn 𐎘𐎐𐎎  
 2	twya 亚   ? 丫yā:fork  
-2 men 𒋰𒈫 MIN 门 門 mén zusammen [𓊃](𓊃)  𒋰dab double  
+2 men 𒋰𒈫 MIN 门 門 mén zusammen [𓊃](𓊃)  𒋰dab double 
+2 nier 𐦊 2✕2@Sin > ńila  𐦊𐦊 4/0
 3 𓏪 𓏤𓏤𓏤 𓏼 𓏨 S'men	-ismn -isn  some somne ☾☾☾ 三 sān  
-3 shamnt 𓐍[𓂸](𓂸)𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT ⇔ Ξ ξan san 三!  
+3 shamnt 𓐍[𓂸](𓂸)𓏏 𓐍𓅓𓏏 chnt/khmt/shamn𓏏 Ϣomte@COPT 𓐍𓅓 khárom@Uralic ⇔ Ξ ξan san 三!  𓐍[𓂸](𓂸)𓏏 cut:  
+3 cird [𓐍](𓐍)𓏏 third  𐎘𐎍𐎘 [ⲑ](ⲑ)-R-ⲑ threesse 𓐍[𓂸](𓂸)𓏏 ⇔ ⲑ-L-ⲑ shalosh שָׁלֹשׁ  
 3 Shams 𐎘𐎍𐎘 Shamas ⇔ threesons 𓇳  
 3'rd order cent=100 ⇔ 𓐍kreis:pi[𓂸] 3.14 ⇔ [𓂸]  
 3 Samen [𓇡](𓇡) 三 AS/'EŠ' 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 vs 7,8  
 3 Saat 𓇡 säh se  
-3 cird [𓐍](𓐍)𓏏 third  𐎘𐎍𐎘 [ⲑ](ⲑ)-R-ⲑ threesse 𓐍[𓂸](𓂸)𓏏 ⇔ ⲑ-L-ⲑ shalosh שָׁלֹשׁ  
 3 terrassen [𓇾](𓇾) Drei Länder [𓈉](𓈉) tre thre vs 单 Mithraim  
 3 tallassan ⲑⲁⲗⲁⲥⲥⲁ  [𓈗](𓈗) 'tall-ocean'  
 3 tala'ta@Arab taraita 3 šalaš@Akkad   TH-L-TH 𐎘𐎍𐎘  
@@ -88,6 +89,8 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 4 Kurt/Fort 𓊖	⇔ 4 portas  𓎳𓊮𓅨  Kurt 𓊖 Qus  
 4 fʷaɗə		Proto-Chadic ⇔ fourth fdw fâzw-  
 4 for	𓏃			fore, vor, … vs  𓏅 phnt  
+4 ńila  𐦊𐦊 @Uralic,Drawidian < nier 𐦊 2✕2@ Korean,Chinese,…
+4 ńvir  𐦊𐦊 > ^^
 5 phnt	𓏅			Pfund,front,… 𓏺𓏺𓏺𓏺𓏺   Ⲧⲟⲩ ƒoyf  
 5 punch 𓏅 panj pent  
 5 point 𓂧 𓇋 𓏏  [sic] 𓇼 χoit 𓂭 point 5th order pent planet phunfth 5 五 wǔ 	PAN-theon 𓇼 = 5 AN 𓇻  
