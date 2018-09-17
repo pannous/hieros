@@ -75,6 +75,7 @@ KUR international mega root of urbanization (and Egyptian variants)
 古 Gǔ geo ♁ gero ghier 𓄤 gvair  
 苦 kǔ kummer(lich) 枯 kū karg  
 屈 qū®um krumm curved quer  
+傀	 guī® kuǐ® queer quer
 器官 qì'guān=Organ ⇔ 犬 quǎn 狗gǒun 4 Canopic jars 器 crater gratia™  
 孔​丘 Kǒng Qiū Konquerer Konfuzi!?  
 岑	 cén	cairn
