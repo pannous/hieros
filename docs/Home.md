@@ -45,7 +45,7 @@ Only recently has the Caucasian [Maykop culture](https://en.wikipedia.org/wiki/M
 # Inventions  
 
 Central to the chalcolithic revolution were a bag of inventions, including **metallurgy**, **brewing**, proto-*writing*, **kingship** and the **sail** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) - 3800BC. The first **carts** pulled by bulls, donkeys or horses appeared about the same time. Trade exploded in the so called [secondary products revolution](https://en.wikipedia.org/wiki/Secondary_products_revolution): Industrial **milk**, **wool** **wheel** and **wine** production, the first **leather** shoes in Europe and Armenia…  
-<!-- **CHEESE!** -⇨  
+<!-- **CHEESE!** -⇨  -⇨  
 ![](http://www.irregularminiatures.co.uk/images6/OXcart.jpg)  
 
 This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, [industrial brewing](https://www.researchgate.net/publication/298191529_City_of_the_hawk_-_From_ancient_breweries_to_the_earliest_mummies_excavations_at_Hierakonpolis_are_rewriting_the_origins_of_Egyptian_civilization), can be found as early as 3700BC.  
