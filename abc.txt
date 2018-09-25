@@ -16,7 +16,7 @@ E:	M17	𓇋	fEδer leicht (v)ι,e,i,a,ey <> 𓏭𓂝𓊪
 F:	I9	𓇋 / 𓆑 ϝιn ظ vd! phython=PhSn FeatherSerpent φθϑδν φαίν=shine!  Cnd:conda,cNatter,cnake 𐀟 naḥash@sem!
 G:	W11	𓎼	piK 🂡 KÜ/Ɠiebel=gawg 𓎼𓎼 γ,κ,Γ,g,χϱ,KÜ,blEIg! <> 𓍱,𓏏 BRδeiig pequliar qp φ βλέπ ~ blick 𓃀𓅡𓄿𓎼𓁹 
 G:	GR 𓈎 QR χϱ:g λ:y ?? <<<<<<<     QP/PQ 🂡 Skarten legen @ EGYPT!?!
-H:	O4	𓉔	HOu𓎛ξ Ḫχ𐀭 DOME 𐦛TE𐦚 Hort / Haus / home חהמם/ Heth 𓎛 𐤇 = Hof , Hecke gaz:casa𒂷𒍑	báyṯh@sem djHo𓉔->jour,youm,dayn?
+H:	O4	𓉔	HOu 𓎛ξ Ḫχ𐀭 DOME 𐦛TE𐦚 Hort / Haus / home חהמם/ Heth 𓎛 𐤇 = Hof , Hecke gaz:casa𒂷𒍑	báyṯh@sem djHo𓉔->jour,youm,dayn?
 I:	M17	𓇋	feather lIght (v)ι,e,i,a,yǔ羽 𓏤 𓇌 ee = i,y φτερò πέτομοι
 J:	M4	𓆳 𓍇tj	Jana ♀ <> Jahr, Ja? << 𓄏 角 jiǎon Journ year  Ϫ𓆓
 J:	V31	𓎡jɠ jug jego ≠ youg ++  𓎡𓃀𓁸 Jammer<>Kummer	𓍿𓈖𓏥  𓂾 jump 𓍿𓉔𓃀
@@ -63,7 +63,7 @@ Aa1     𓐍 Nwi Nuit NaIξ: 𓐍𓅓 𓐍𓐍 neck  𓅱𓐍 mooNa / luNa !!?
 Aa1     𓐍 ballacK:block 𓐍 blue-black = 𓐍𓋴𓃀𓂧𓈒𓏥 kaspian=lapiz! kala.ore=color:kala ghoul.heure 𓐍𓅓mnoon ball=throw
 Aa1     𓐍 THR: throw, δrei ~ three 3!, ξrei!=χrei *xayn tchrei!=kreis 𓐍   𓅓 Schrei/Greif/Tchirp!!
 Aa1     𓐍 prefix  𓐍  ek => ex- !? nuacht vs 𓊖
-V28   	𓎛	H µH,mH,wHr/Mer!?! H,her,hair,har,kHer,flaX       		:V28    𓎛  <> Han,Can,Kan 𓎛𓎸𓈖 con [syn]
+V28   	𓎛	H µH,mH,wHr/Mer!?! Harpi H,her,hair,har,kHer,flaX       		:V28    𓎛  <> Han,Can,Kan 𓎛𓎸𓈖 con [syn]
 V28B   	𓎛	Lunte: lu,li,'und,'un,hu	       	:V28    𓎛  Synthese: LutHer𓎛 Herlun <> herum Heller?  Hier.Long?
 H6		𓆄	VaShur Weather feaTher Westen𓋀 waste𓋆 <> Phother βß	𓊹𓆄  	vs M17 𓇋 fEther ≠ 𓋛𓋂𓋃𓋄east 𓋛 Shuti fashion  
 W24		𓏌	moURne 𓏌𓅱 Ων -oun noun naun𓈖 'of'  𓏌 => ul=oil <> Kanne jår? aber Mutter Nin.Urtair 𓏌𓏏𓇯 != Mutter Natur?!
@@ -521,7 +521,7 @@ L7	𓆫	 scorpion!	<> scarabeon 𓆣 corpse
 M Moor Fauna flower Blumen
 --------------------------
 M1	𓆭 JUniper:ya`owr,yew,jew-tree,Ashur 𓂝𓈙𓐎 aspen Esche ʻēṣ,ʻiṣ́@semit 树shù,​株​zhū ,jewel 𓋣𓈍𓎝, jupr ♃?, jaw <> Kneifer kIEFER:
-M1	𓆭 junIPER->conifer fir <> arbra <> hebrew : jewbrw𓆭𓅓𓅱𓉐 tent  <> 𓆱 ACHt,eight 8 Äste 木*
+M1	𓆭 junIPER->conifer fir <> arbra <> hebrew : jewbrw𓆭𓅓𓅱𓉐 tent  <> 𓆱 ACHt,eight 8 Äste 木* MU meshu 术 𓄠𓄟 wood=mote@Portu
 M1	𓆭 arab abraham=wood-home=tent <> ibrahim <> hebrew  JU:jewel,YAmnt: diamant/charmant!
 M2	𓆰 Hanf/𓎛𓆰𓈖/hemphy/NatHurb Herbaum  𓆰𓆭 	nat.šar nat.iua 𓆶 nat.ive!	𒊬 shrubs Henna holy Henbane nightshade!
 M3	𓆱 grät? √cut!?! (br)an.Che' ACHt,eight 8 Äste Ast [often silent!] << 𓆱 杈 chà 支 zhī 叉枝 chāzhī Gabel! Twig:Zweig II fork:furch  <??> 

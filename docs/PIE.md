@@ -91,8 +91,8 @@ Y-DNA
 * [Haplogroup Q](https://www.eupedia.com/europe/Haplogroup_Q_Y-DNA.shtml) Sweden, Sicilly! Lyon/Genf!?  
 * [Haplogroup R1a](https://www.eupedia.com/europe/Haplogroup_R1a_Y-DNA.shtml) Poland+Russia (Slaves)  
 * R0⋍H R1a-Z93 Hindukush!  Z283:Germanic(Corded Ware) Z94:Iran+Mittani  
-* [Haplogroup R1b](https://www.eupedia.com/europe/Haplogroup_R1b_Y-DNA.shtml) West Europe, Ireland, east of Ural, Sahel!, Red Hair (Ramses, Gebelein)  
 * [Haplogroup T](https://www.eupedia.com/europe/Haplogroup_T_Y-DNA.shtml) Tigris, Syria, Southern Europe (≠T1)  
+* [Haplogroup R1b](https://www.eupedia.com/europe/Haplogroup_R1b_Y-DNA.shtml) West Europe, Ireland, east of Ural, Sahel!, Red Hair (Ramses, Usermontu, Gebelein mummy, …?)  
 
 
 

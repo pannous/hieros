@@ -1,6 +1,6 @@
 KUR international mega root of urbanization (and Egyptian variants)  
 
-𓊖 √qvr(t)²  
+𓊖 √qvr(t)² ⊕  
 
 [𓀠](𓀠) qR(t) heigh(t)⋍great 𓈎𓄿𓏏𓀠  চওরা  
 [[𓅨]] very great [[𓅨]]𓂋𓏏 √gVrt  
@@ -48,7 +48,8 @@ KUR international mega root of urbanization (and Egyptian variants)
 〇 clear pure bei.de Hei vs Hel  
 
 口 kǒu®  
-古 Gǔ geo ♁ gero ghier 𓄤 gvair  
+古 Gǔ ♁ geo gero ⊕ gaia ghier 𓄤 gvair  
+国 guó Gau  
 巨 kîr jù® gú® great  
 囚 qiú® KUR Kerker JURA  (口人kǒurén)  
 區 qū® 区 Kur district country cir-3 vs qvrt-4 :  
@@ -75,10 +76,10 @@ KUR international mega root of urbanization (and Egyptian variants)
 古 Gǔ geo ♁ gero ghier 𓄤 gvair  
 苦 kǔ kummer(lich) 枯 kū karg  
 屈 qū®um krumm curved quer  
-傀	 guī® kuǐ® queer quer
+傀	 guī® kuǐ® queer quer  
 器官 qì'guān=Organ ⇔ 犬 quǎn 狗gǒun 4 Canopic jars 器 crater gratia™  
 孔​丘 Kǒng Qiū Konquerer Konfuzi!?  
-岑	 cén	cairn
+岑	 cén	cairn  
 
 
 거리 Gøri 𓊖 court quarters / city grid …  
@@ -189,6 +190,17 @@ K-R-T / G-R-T Grotte 𓈎 𓂋 𓂋 𓏏 𓂂 (cavern)
 M-R-T (cave)  … מערת  Malat  
 
 C-R-C-L גִּלְגַּל רְפָאִים‬ Gilgal? Wheel indeed!!!  
+
+Carthago itself is from Phoenician Qart-ḥadašt, 'New City' => Château castell kar:city  
+Külaküla, Estonia, translated literally as "Village village".  
+
+Garmendia: Garr- Mendi(a) (mount-mountain) fossil & modern Basque!  
+Montcuq cuq<Kurq   vs Fall Filefjell fellsfjall fadja  
+Maunganui = Mount Big  
+Ōyaman = Ōya Mount  
+"Kirinyaga", 'white mountain' ⇨ "Kenya" is from Kikuyu  
+Kilimanjaro = Kir.mount.njaro !!  
+Pendleton Hill = (Hill Hill Hill Hill) or ton=town  
 
 har = cardō “hinge” Scharnier 閃 shǎn shine ⇔ henge?  
 Kur Kopper Kuppel! P=R/P  

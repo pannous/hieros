@@ -25,8 +25,8 @@ No. 	English 	Albanian shqip
 24	three 	tre	trei	✔ 			
 25	four 	katër	qvater	✔ 			
 26	five 	pesë	peso penc pans pes	✔ 			
-27	big 	madh	macha!	✔ !			
-28	long 	gjatë	Greatall	✔ 			
+27	big 	madh	much maha	✔ !			
+28	long 	gjatë	Greatall	✔ 	Gräte?		
 29	wide 	i gjerë	𓅨 𓅩 Schere!?	✔ !	 serus ‘late’		
 30	thick 	i trashë	thrick?	✔ ~			
 31	heavy 	rëndë	agyron.de barion.de xxx	x			
@@ -122,9 +122,9 @@ No. 	English 	Albanian shqip
 121	to walk 	eci	cesse, wego	✔			
 122	to come 	vij	veni via	✔			
 123	to lie (as in a bed) 	shtrihem	s’drehen s’träumen!	✔!<	snorchen		
-124	to sit 	ulem					
+124	to sit 	ulem	stuhlen?	?			
 125	to stand 	rri	Rise! Rest	✔+	<> resit! Residue		
-126	to turn (intransitive) 	kthej	~~change , k’turn –				
+126	to turn (intransitive) 	kthej	~~change , k’turn –	~			
 127	to fall 	bie	beil! Bein	✔!?			
 128	to give 	jap	geben	✔			
 129	to hold 	mbaj	~em.port…				
@@ -138,10 +138,10 @@ No. 	English 	Albanian shqip
 137	to tie 	lidh	lid?	✔?			
 138	to sew 	qep	𐤒 qoph = needle (kopf)	✔!			
 139	to count 	numëroj, njeh (Gheg: njef)	Nummer +	✔			
-140	to say 	them	Thema! <	✔			
-141	to sing 	këndoj	chant	✔			
+140	to say 	them	Thema!  𓆓 𓅓 𓀁	✔	Stimme 𓊥 𓏮 rudder> utter 𓊤 𓆑 𓏮 > Otter 𓆑		
+141	to sing 	këndoj	chant doj	✔			
 142	to play 	luaj	Lazy play!	✔			
-143	to float 	pluskoj	phluss k?	✔			
+143	to float 	pluskoj	Phluss < flushk	✔			
 144	to flow 	rrjedh	Road = river 𓈘𓏤	✔/			
 145	to freeze 	ngrij	angry!? Gries? GrIce? <<	✔<			
 146	to swell 	enjtem		--			
@@ -155,8 +155,8 @@ No. 	English 	Albanian shqip
 154	sea 	det	Depth! ≠ Dead sea	✔~~+	𓇆 draya(t)@Pers Jura	DONac@Altai	tuz=salt@turk
 155	salt 	kripë	krúpa Graupel =(s)hail(t)	✔~~+	 gatz, khur! :		
 156	stone 	gur	khur! Chert <<	✔~			
-157	sand 	rërë	šꜥy syriri rieseln? << grere^^	-	Arēna = sand (k)har.en grain++		
-158	dust 	pluhur	plume?	/			
+157	sand 	rërë	grere^^	𓂋 	grain++ Arēna = sand (k)har.en 	šꜥy syriri rieseln? << 	
+158	dust 	pluhur	plume?	/	pleur:rain?		
 159	earth 	dhe, tokë	dher ter	✔?! <	Tolkin;)		
 160	cloud 	re, shtëllungë	Ray! Stellung!!!	✔!!!	stellung~auf-wollkung!		
 161	fog 	mjegull	mnebell!	✔?-			
@@ -166,27 +166,27 @@ No. 	English 	Albanian shqip
 165	ice 	akull	Cool kryo	✔			
 166	smoke 	tym	steam	✔			
 167	fire 	zjarr	<<< char, fjarr	✔?			
-168	ash 	hi	-	-			
-169	to burn 	djeg	<<< charg-	-<			
+168	ash 	hi	Fhi huo 火	!			
+169	to burn 	djeg	Ég @Ural <> Ash dash=red	<	dahati@IndoAryan! 타다 huotadash		
 170	road 	rrugë, (r)udhë	𓈘𓏤 	✔-			
 171	mountain 	mal	moun.al, malström?	✔?			
 172	red 	i kuq	kirsch@turk	✔~			
 173	green 	blertë, blerë	vert! Bleu!	✔~			
 174	yellow 	verdhë	vert!	✔~			
-175	white 	bardhë	白báir.de Bärte <> vert! 	✔!!			
+175	white 	bardhë	白báir.de Bärte <> vert! 	✔!!	Barden board birch		
 176	black 	zi	𒊹 cyr kir gray asher	✔-			
 177	night 	natë	notte, night	✔			
 178	day 	ditë	daytag	✔			
 179	year 	vit, mot	mond, vita! Vitera<<	✔			
-180	warm 	i ngrohtë	Negro? Të <> de  的从自	<<			
+180	warm 	i ngrohtë	Negro? Të <> de  的从自	<<	¬grotte ¬kryo		
 181	cold 	ftohtë	frosty	✔~			
 182	full 	i mbushur, i plotë	Full ~ plo.de	✔~			
 183	new 	ri	ren	✔			
 184	old 	plak, i moshuar	paleoc, moses?	✔<			
 185	good 	mirë	ad.mire merit 𓌸!!	✔!			
 186	bad 	keq	kackeo	✔			
-187	rotten 	kalbur		/			
-188	dirty 	i pistë		/			
+187	rotten 	kalbur	Carne ¬ pure	/			
+188	dirty 	i pistë	Pissed ;)	/			
 189	straight 	drejt, ping	s’traight! <<   平	✔!			
 190	round 	rrumbullakët	1) round 2)boule !	✔-			
 191	sharp (as a knife) 	i mprehtë	𓈖𓊪𓆓𓏏𓌪 !!	✔?			
@@ -205,4 +205,4 @@ No. 	English 	Albanian shqip
 204	and 	dhe, e	an.de, et	✔			
 205	if 	nëse, në qoftë se, vallë	in.si, falls! For 𓇋𓂋	✔			
 206	because 	sepse, se	car, c’est	✔			
-207	name 	emën, emër	(n)emen, reimer! Amen!?	✔			
+207	name 	emën, emër	(n)emen, 𓂋 reimer! Amen!?	✔	Emmer 𓌽 𓇠 		

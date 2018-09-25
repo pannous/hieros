@@ -3918,14 +3918,14 @@ jaib : breast; pocket; sinus [jib] Per jeyb
 jaish : army [jassha] Per jeysh, Swa jeshi 
 jaiz : allowable, permitted [jaza] Hin jayaz, Per jayez 
 jaiza : examination; award, acknowledgement [jaza] Hin jayza, Per jayeze 
-ja‘ja‘a : honk, make noise [Heb gi‘ge‘a]
+ja‘ja‘a : honk, make noise [Heb gi‘ge‘a] ;)
 ja‘l : remake; imitation, falsification [ja‘ala] Hin jal, Per ja‘l 
 jala : clean, polish, make clear [Sem g-l-y, Heb gilla (uncover), Syr gela, JNA gly, Phoen gly]
 jala : remove [Sem g-l-y, Akk galu (be deported), Heb gala (go into exile), Aram gly (open), Uga gly]
-jala : wander, go round [Sem g-w-l, g-l-l, Akk galalu (roll), Heb galgel, Syr ‘ala‘la (whirlwind), JNA gigla (spindle), Aram gwl (roll up), Uga glgl (roll)]
-jala : clarity [jala] Per jala 
+jala : wander, go round [Sem g-w-l, g-l-l, Akk galalu ([g]roll), Heb galgel<>CIRCLE++, Syr ‘ala‘la (whirlwind), JNA gigla (spindle), Aram gwl (roll up), Uga glgl (roll)]
+jala : clarity [jala] Per jala  <> jolie?
 jala : emigration [jala] Per jala 
-jalaba : catch; bring, fetch [Sem g-l-b]
+jalaba : catch; bring, fetch [Sem g-l-b]<GRAB
 jalacha : whet 
 jalada : firmness [jaluda] Per jaladat 
 jalal : might, glory, pomp [jalla] Aze calal, Hin jalal, Per jalal 
@@ -6780,7 +6780,7 @@ qassassa : retaliate [JNA qyss (shear)]
 qassara : miss, fail [fall short] [qassura]
 qassura : be short [Sem q-s-r, LiAr ‘assir (short), Mal qasir, Heb qatzar (cut short), Uga qssr, Phoen qssr (harvest)]
 qassh : straw[cut] [Heb qash, JNA qirsha]
-qassr : castle [from Lat castrum+] Per qassr, Uzb qasr from Ara ++
+qassr : castle [from Lat castrum+] Per qassr, Uzb qasr from Ara ++ Qal'at Yahud = Jewish Castle
 qassab : butcher [qassaba] Bul kasapin, Gre hasapes, Hin kassab, Per qassab, Ser kasapin, Tur kasap, Uzb qassob 
 qassafa : <butcher?> revel, eat and drink 
 qasa : measure; compare [Mal qies]
@@ -7652,15 +7652,15 @@ silm : peace [salima] Per selm  salem salamu ++
 silsila : chain [salsala] Aze silsile, Hin silsila, Ind salasilah, Per selsele, Tur silsile 
 sima : sign, character [from Gre sema] Per sima, Tur sima 
 sima‘ : hearing; listening [sami‘a] Per sema‘ 
-simsim : sesame [Akk shamashamu, Heb shumshom, JNA sushme, Uga shshmn, Phoen shshmn]
+simsim : sesame +[Akk shamashamu, Heb shumshom, JNA sushme, Uga shshmn, Phoen shshmn]
 simtt : cord [Syr shmata (shoelace)]
-sin : the letter s [Heb sin] Per sin 
+sin : the letter S ∑ [Heb sin] Per sin 
 sinan : tip (of a lance) [sanna] Per senan 
 sindan : anvil [Shuwa Ar sindala] Per sendan 
-sinima : cinema [from Eng cinema]
-sinn : tooth [Sem s-n, Mal sinna, Akk shinnu, Heb shen, Syr shena, Uga shn, Ebl shinnu] Per senn 
-sinn: age [sana] Per senn 
-sinnaur : cat [BAram shunra, Hrs sennoreh]
+sinima : cinema +[from Eng cinema]
+sinn : tooth Zähn'[Sem s-n, Mal sinna, Akk shinnu, Heb shen, Syr shena, Uga shn, Ebl shinnu] Per senn 
+sinn: age SENIL++ [sana] Per senn 
+sinnaur : cat SCHNURR++ [BAram shunra, Hrs sennoreh]
 si‘r : price [sa‘ara] Per se‘r 
 siraj : lamp [from Per cheragh] Hin siraj, Per seraj 
 sirbal : skirt [from Per serwal] Per serbal 

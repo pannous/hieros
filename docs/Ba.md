@@ -11,4 +11,4 @@ ___ 𓎻𓅡[𓏱](𓏱) Mind
 Often conflated with  
 𓅢 Power frawahr@Persia po'work [𓂓](𓂓) 𓅡𓎡𓅂 𓅢 Ba Wow 𓅨 pāo 🏐  
 
-魄 	po4	BA! 𓅽 Pòwer 𓅢	soul
+魄 	po4	BA! 𓅽 Pòwer 𓅢	soul  
