@@ -8270,7 +8270,7 @@ szahhia : sacrifice [szahha]
 szahhika : laugh [Sem sz-hh-q, Mal dahak, Heb tzachaq, Hrs zohhak, Amh saqe, Tig sehhaqe, Uga ss’hhq, dzhhq]
 szahhika : ridicule [szahhika] Swa dhihaki 
 szaif : guest [szafa] Ind daif, Per szeif 
-sza‘if : weak, feeble, impotent [sza‘ufa] Aze zayif, Hau laifi, Ind daif, Per sza‘if, Swa dhaifu, Tat zegiyf, Tur zayif 
+sza‘if : weak, feeble, impotent √SOFT++[sza‘ufa] Aze zayif, Hau laifi, Ind daif, Per sza‘if, Swa dhaifu, Tat zegiyf, Tur zayif 
 szaiq : strait, narrows; distress [szaqa] Per szeiq, Swa dhiki 
 szaja‘a : recline [Sem sz-g-‘]
 szajja : make noise 
@@ -8297,7 +8297,7 @@ szarra : force, make necessary
 szarura : need, want, necessity, constraint [szarra] Hau larura, Hin zarurat, Ind darurat, Kyr zarurat, Per szarurat, Tur zaruret, Uzb zaruriyat 
 szaruri : necessary [szarra] Per szaruri, szarur, Tur zaruri, Uzb zarur 
 szau : light [sza]
-sza‘ufa : be weak [OS lam (be soft), Amh lef (soft)]
+sza‘ufa : be weak √SOFT++ [OS lam (be SOFT), Amh lef (soft)]
 szausza : noise
 szaya‘ : loss [sza‘a] Per szaya‘, Tur ziya 
 szayaqa : disturb [szaka]
@@ -8311,7 +8311,7 @@ szil‘ : rib [Sem sz-l-‘, Akk sselu, Heb tzela‘, Hrs szala‘, Uga ssl‘]
 szimad : bandage [szamada] Per szemad  ↔ Szameit Sam+aid Sani <<<<<<<<<<<<<+++
 szimn : interior  Per szemn 
 szirs : tooth [Sem sz-r-s, Mal darsa, Amh tters]
-szu‘f : weakness [sza‘ufa]
+szu‘f : weakness √SOFT++[sza‘ufa]
 szuhhan : morning [szahha]
 T
 ta : the letter t [Heb tav]
