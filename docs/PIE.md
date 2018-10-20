@@ -97,3 +97,8 @@ Y-DNA
 
 
 We are all [human](Human)  
+
+Next up: The famous "Tamer of two beasts" 𓀪 𓀫 𓀬 in Jirof & Indus:
+![](https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1440,f_auto/MA_00515492_11_lp8bso.jpg)
+![](https://i.ytimg.com/vi/ugvxB86biCU/maxresdefault.jpg)
+Better trace symbol than the [[swastika]]
