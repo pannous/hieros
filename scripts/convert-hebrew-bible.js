@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 require('/me/dev/js/extensions.js')()
 
-hebrew={a:"א",bv:"ב",c:"ג",d:"ד",h:"ה",f:"ו",g:"ג",ḫ:"ח",i:"י",j:"ו",k:"כ",k:"ך",l:"ל",mn:"ם",m:"מ",n:"נ",on:"ן",y:"ע",p:"ף",p:"פ",q:"ק",r:"ר",th:"ץ",tz:"צ",t:"ת",δ:"ט",u:"ו",vo:"ו",w:".ו",x:"ס",z:"ז",sh:"ש",' ':' '}
+hebrew={a:"א",bv:"ב",c:"ג",d:"ד",h:"ה",f:"ו",g:"ג",ḫ:"ח",aĩ:"י",j:"ו",k:"כ",k:"ך",l:"ל",mn:"ם",m:"מ",n:"נ",on:"ן",y:"ע",p:"ף",p:"פ",q:"ק",r:"ר",th:"ץ",tz:"צ",t:"ת",δ:"ט",u:"ו",vo:"ו",w:".ו",x:"ס",z:"ז",sh:"ש",' ':' '}
 roman=invert(hebrew) //flip()
 pies={}
 map={}
@@ -11,8 +11,8 @@ for(line of readlines(file)){
 	[nr,word,pie,phon,trans,...rest]=line.split("\t")
 	if(!word||!trans){console.log(line);break}
 	word=word.trim()
-	trans=trans.replace("to ","").replace(/,.*/,"").replace("(plural)","").replace("  "," ").replace(/&\s\w.*/,"")
-	pie=(pie||"?").replace(/\++/,"")
+	trans=trans.trim().replace("to ","").replace(/,.*/,"").replace("(plural)","").replace(/ .*/,"").replace(/&\s\w.*/,"")
+	pie=(pie||"").trim().replace(/\++/,"").replace(/ .*/,"")
 	if(pie=='?')pie=false
 	map[word]=trans
 	pies[word]=pie
@@ -29,7 +29,7 @@ for(line of readlines(file)){
 
 
 i=0
-for(line of read_lines("~/uruk_egypt/texts/Bibles/Hebrew.me.txt")){
+for(line of read_lines("~/uruk_egypt/texts/Hebrew_Bible.me.txt")){
 	line=line.replace(/.*\|/,"").trim()
 	console.log(line)
 	console.log(line.map(c=>roman[c]))
@@ -42,6 +42,6 @@ for(line of read_lines("~/uruk_egypt/texts/Bibles/Hebrew.me.txt")){
 	}
 	console.log()
 	console.log()
-	if(i++>0)break
+	if(i++>4)break
 }
 console.log(map['א'])
