@@ -47,6 +47,6 @@ for(line0 of read_lines("~/uruk_egypt/texts/Hebrew_Bible.me.txt")){
 	}
 	console.log()
 	console.log()
-	if(i++>13)break
+	if(i++>22)break
 }
 console.log(map['א'])
