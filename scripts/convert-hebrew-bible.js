@@ -1,7 +1,12 @@
 #!/usr/bin/env node
 require('/me/dev/js/extensions.js')()
 
-hebrew={a:"א",bv:"ב",c:"כ",d:"ד",h:"ה",f:"ו",g:"ג",ḫ:"ח",aĩ:"י",j:"ו",k:"כ",k:"ך",l:"ל",mn:"ם",m:"מ",n:"נ",on:"ן",y:"ע",p:"ף",p:"פ",q:"ק",r:"ר",th:"ץ",tz:"צ",t:"ת",δ:"ט",u:"ו",vo:"ו",w:".ו",x:"ס",z:"ז",sh:"ש",' ':' '}
+// ע:= Y Silent lost letter <> wildcard 
+// ע:= γ DGR / dy / dj leder= תחש decer=עשור (decade)
+// ע DANGER zone עבדה Arbeit / Robota / Dra.. ?
+
+
+hebrew={a:"א",bv:"ב",c:"כ",d:"ד",h:"ה",f:"ו",g:"ג",ḫ:"ח",aĩ:"י",j:"ו",k:"כ",k:"ך",l:"ל",mn:"ם",m:"מ",n:"נ",on:"ן",Δ:"ע",p:"ף",p:"פ",q:"ק",r:"ר",th:"ץ",tz:"צ",t:"ת",δ:"ט",u:"ו",vo:"ו",w:".ו",x:"ס",z:"ז",sh:"ש",' ':' '}
 roman=invert(hebrew) //flip()
 pies={}
 map={}
@@ -15,7 +20,7 @@ for(line of readlines(file)){
 	pie=(pie||"").trim().replace(/\++/,"").replace(/ .*/,"")
 	if(pie=='?')pie=false
 	map[word]=trans
-	pies[word]=pie
+	if(pie)pies[word]=pie
 }
 file="/me/Documents/uruk_egypt/dicts/hebrew.me.tsv"
 for(line of readlines(file)){
@@ -29,9 +34,9 @@ for(line of readlines(file)){
 
 
 i=0
-for(line of read_lines("~/uruk_egypt/texts/Hebrew_Bible.me.txt")){
-	line=line.replace(/.*\|/,"").trim()
-	console.log(line)
+for(line0 of read_lines("~/uruk_egypt/texts/Hebrew_Bible.me.txt")){
+	line=line0.replace(/.*\|/,"").replace(/\s+/," ").trim()
+	console.log(line0.replace("| ו","\nו"))
 	console.log(line.map(c=>roman[c]))
 	for(word of line.split(" ")){
 		print((pies[word]||word)+" ")
@@ -42,6 +47,6 @@ for(line of read_lines("~/uruk_egypt/texts/Hebrew_Bible.me.txt")){
 	}
 	console.log()
 	console.log()
-	if(i++>4)break
+	if(i++>13)break
 }
 console.log(map['א'])
