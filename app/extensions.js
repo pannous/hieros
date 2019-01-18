@@ -1048,8 +1048,6 @@ globalize = clazz => {
 is_empty = object => !Object.keys(object).length || len(object) == 0
 
 
-// wast2wasm simple.wat -o simple.wasm
-// wast2wasm simple.wat -v // show assembly
 wat = `(module
  (func $i (import "imports" "imported_func") (param i32))
  (func (export "exported_func")
@@ -1057,6 +1055,8 @@ wat = `(module
   call $i
  )
 )`
+// wast2wasm simple.wat -o simple.wasm
+// wast2wasm simple.wat -v // show assembly
 
 // # /usr/bin/wasmx!
 wasm = async (_wasm, imports = {}) => {
@@ -1074,10 +1074,6 @@ wasm = async (_wasm, imports = {}) => {
 	}
 	else _wasm = new Uint8Array(_wasm)
 		
-	const memory = new WebAssembly.Memory({initial: 16384, maximum: 65536}); // 100000000 is above the upper bound wtf
-	const table = new WebAssembly.Table({initial: 2, element: "anyfunc"});
-	// var buffer = new Uint8Array(instance.exports.memory.buffer,offset,1000);
-
 	// if (imports == {} ) // if(imports.length==0)
 	stringy=(offset)=>{
 		var str = '';
@@ -1122,21 +1118,29 @@ wasm = async (_wasm, imports = {}) => {
 	logc = x => process.stdout.write(x?String.fromCodePoint(x):"\n"),
 	logs = (x,len) => console.log(str(x,len)) 
 	// logs: x => console.log(stringy(x)),
-	if (!Object.keys(imports).length) imports = {
+	// if (!Object.keys(imports).length) 
+
+
+	
+	const memory = new WebAssembly.Memory({initial: 16384, maximum: 65536}); // 100000000 is above the upper bound wtf
+	const table = new WebAssembly.Table({initial: 2, element: "anyfunc"});
+	// var buffer = new Uint8Array(instance.exports.memory.buffer,offset,1000);
+
+	imports = {
 		global: {NaN: NaN, Infinity: Infinity},
 		console:{
 			raise:(x)=>{console.error(backtrace());exit() },
-			// raise:(x)=>{throw new Error("WASM threw ERROR "+x)},
-			// log:(x,type) => console.log(parse(x,type)),// todo : any pointer
 			logc, _logc:logc, logs, _logs:logs, logi: log, _logi:log, log, _log:log,
 			logx: x => console.log(hex(x)),
-
 		},
 		env: {memory,table,abort:nop, nullFunc_X: log, abortStackOverflow: log, // (x => {throw "stack overflow:" + x }),
 			DYNAMICTOP_PTR: 100, tempDoublePtr: 0, ABORT: 100, memoryBase: 0, tableBase: 0, 
+			__cxa_throw:nop,__cxa_allocate_exception:nop
 		},
 	}
 		try{
+
+  load_wasm_dependencies(_wasm, imports)
 	module = await WebAssembly.compile(_wasm)// global
 	instance = await WebAssembly.instantiate(module, imports,memory).catch(ex=>console.error(trimStack(ex))||quit())
 	global.instance = instance
