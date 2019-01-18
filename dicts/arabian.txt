@@ -4,6 +4,20 @@ JUST NOT MANY ALIGNMENTS WITH ENGLISH 1/20 has ANY alignment,
 SOME are possibly legitimate:
 house:mension manzil منزل manshar
 
+it is a difficult language, but anything gendered is frustrating and difficult.
+
+Arabic is the fifth-most-spoken language in the world, with more than 313m speakers.
+
+Except that its fragmentation makes each dialekt marginal!!
+
+There are three times as many articles in French on Wikipedia as in Arabic, with five times as many edits. The Arabic book market is about a quarter the size of Belgium’s.
+
+Five approximate categories: north African, Egyptian, Mesopotamian, Levantine and Peninsular Arabic.
+
+Arabic dialects are not mutually intelligable. MSA in the internet made things better.
+Arabic can be difficult but simple. English can be easy but complex.
+If in 1200 romance languages were named Neo-Latin, this language wouldn't be very mutually intelligible either.
+
  does that justify searching for needles in the haystack?
 DON'T WASTE too much time is the outcome this very uncertain.
  on the other hand one good find can be really rewarding:
@@ -22,7 +36,7 @@ thaba 		7	שִׁבְעָה sab‘a sabat sheva' shiva Seven Sven
 thamania	8	שְׁמוֹנָה shmone Simone		man moon?
 thaisha*	9	תִּשְׁעָה tis‘a	tesha'	fish	Téscha vs Sascha  :
 thAshar 	10 ‘ashar ‘ashra  Ashar™ 什 'shír vs 十 shín zehn ***
-thae.n*		10 
+thae*n		10 
 twen'tae	‘ishruna
 thir'tae	thalaTHIN
 …
@@ -46,6 +60,55 @@ Mirrich : Mars♂ ++ vs Mercury Ful Mirriha, Ind Marikh, Per Merrich, Tur Merih 
 Mushtarin : MU.Stern: Jupiter 木星 mùxīng  Ful Mustari!!, Hin Mushtari, Per Moshtari ↔ Moishe Moses?? ↔ hharaj=wood? shajara 
 木↔jew 𓆭 JUniper Jupiter *木* !!
 
+The pattern system is two way:
+m--a-a 	place name 	مكتبة	maktaba (library)
+-aa-i- 	active participle 	كاتب 	kaatib (writer)
+ma--uu- 	passive participle 	مكتوب	maktuub (written)
+-a-a-a 	basic verb 	كتب	kataba (to write)
+a--a-a 	causative verb 	أكتب	aktaba (to dictate)
+-i-aa- 	noun 	كتاب	kitaab (book)
+-u-u- 	plural noun 	كتب	kutub (books)
+
+these transformations are super algorithmic
+
+There are only about a total of 6000 lexical root words in Arabic, so on a computer you can represent each word by encoding it's lexical root, and the grammatical transformation on it. 
+
+Yamli is a popular tool which automatically transliterates Arabic that has been written phonetically in Roman characters back to correctly spelled Arabic letters, so if you've heard a word but don't know how to spell it you can still Google it.
+
+The root/pattern approach really goes crazy with verbs. There are ten common verb patterns in Arabic, and each one alters the base meaning in a semi-predictable way. you can use them to make very good guesses about new vocabulary. 
+
+Because of this rich structure Arabic is too rigid for new vocabulary
+
+http://idlewords.com/2011/08/why_arabic_is_terrific.htm
+Broken Plurals
+foot -> feet the norm
+Plurals mostly change the structure of the word quite dramatically: 
+kitaab 	->	kutub	(book)
+ustaath 	->	asaatitha	(teacher)
+maqha 	-> 	maqaahi	(café)
+dukkan 	-> 	dakaakiin	(store)
+ahdar 	-> 	hudur	(green)
+
+ككك تتت ععع ممم
+
+all non-human plurals are grammatically feminine singular:
+al-kutub hadra' (الكتب خضراء)
+
+"The books, she is green"
+
+MSA is further from region arabic than Latin is from Spanish.
+
+MSA is the official language of newspapers, news segments, and legal documents, governments speeches even wedding invitations and not to forget the Quran and the Arabic bible.
+
+Egyptian being so different as to sound like a separate language.
+
+Some scholars make the case that the dialects are not really dialects, they are their OWN LANGUAGE that were influenced by Arabic.
+
+See for example Taleb's argument on Lebanese being a language of its own.
+
+Arabic has 4-12 million speakers in Europe depending on how you count. If we take the most generous estimation (12 million) which compares 2nd and 3rd generation immigrants to native speakers it's at best the 13th most spoken language in Europe[2].
+
+Historically it makes some sense because North Africa and the Laventine didn't have much in common with Arabia before Islam so they must've had their own local languages (say Berber or Aramaic) that was influenced by Arabic. 
 
 
 Version 2.1
@@ -9779,3 +9842,6 @@ dhikr dekret D+Chr (EG) : short devotional phrases like
 
 kitabu 'book' (from Arabic kitab)
 Swa = Swahili "Sahel" african Bantu language with many Arabic loanwords!!!
+
+French was a minority language in France until the 20th century. The other languages were basically beaten and shamed out of school children.
+RLLY?

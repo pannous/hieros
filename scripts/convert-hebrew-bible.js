@@ -11,9 +11,10 @@ roman=invert(hebrew) //flip()
 pies={}
 map={}
 // file="/me/Documents/uruk_egypt/
+
 file="/me/Documents/uruk_egypt/dicts/hebrew.tsv"
 for(line of readlines(file)){
-	[nr,word,pie,phon,trans,...rest]=line.split("\t")
+	[nr,word,pie,phon,trans, ...rest]=line.split("\t")
 	if(!word||!trans){console.log(line);break}
 	word=word.trim()
 	trans=trans.trim().replace("to ","").replace(/,.*/,"").replace("(plural)","").replace(/ .*/,"").replace(/&\s\w.*/,"")
@@ -24,18 +25,39 @@ for(line of readlines(file)){
 }
 file="/me/Documents/uruk_egypt/dicts/hebrew.me.tsv"
 for(line of readlines(file)){
+	if(line[0]=='#' || len(line)<3){continue }
 	[word,pie,trans]=line.trim().split("\t")
+	trans=trans.trim()
+	// trans=trans||pie
 	// console.log([word,pie,trans])
-	if(!word||!trans){console.log(line);continue }
+	if(!word||!trans){console.log(line);exit();continue }
 	word=word.trim()
 	map[word]=trans
 	pies[word]=pie
+	if(!map["י"+word])map["י"+word]="he "+trans
+	if(!pies["י"+word])pies["י"+word]="he "+pie
+
+	if(!map[word+'ה'])map[word+'ה']=trans+"se"
+	if(!pies[word+'ה'])pies[word+'ה']=pie+"se"
+		
 }
+
+english={}
+bibles="/me/uruk_egypt/texts/Bibles/"
+// english_bible=bibles+"English__Basic_English_Bible__basicenglish__LTR.txt"
+english_bible=bibles+"English__Young___s_Literal_Translation__ylt__LTR.txt"
+for(line of readlines(english_bible)){
+	[book,nr,phrase,...rest]=line.split("||")
+	english[book+nr+"."+phrase]=rest[0]
+}
+
 
 
 i=0
 for(line0 of read_lines("~/uruk_egypt/texts/Hebrew_Bible.me.txt")){
+	let [book,nr,phrase,...bla]=line0.split("| ")
 	line=line0.replace(/.*\|/,"").replace(/\s+/," ").trim()
+	trans=english[book+nr+"."+phrase]
 	console.log(line0.replace("| ו","\nו"))
 	console.log(line.map(c=>roman[c]))
 	for(word of line.split(" ")){
@@ -46,7 +68,8 @@ for(line0 of read_lines("~/uruk_egypt/texts/Hebrew_Bible.me.txt")){
 		print((map[word]||word)+" ")
 	}
 	console.log()
+	console.log(trans)
 	console.log()
-	if(i++>22)break
+	if(i++>69	)break
 }
-console.log(map['א'])
+// console.log(map['א'])

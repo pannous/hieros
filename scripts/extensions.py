@@ -55,6 +55,11 @@ def rand(n=1): return _random() * n
 def random(n=1): return _random() * n
 
 
+# def random_range_i(fro,to): return randint(fro,to)
+def randomfloat=random.uniform
+def random_range_f(fro,to): return fro + random() * (to-fro)
+def rands(fro,to): return fro + random() * (to-fro)
+
 def random_array(l): return np.random.rand(l)  # (0,1) x,y don't work ->
 
 
