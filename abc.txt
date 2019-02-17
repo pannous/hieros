@@ -1,5 +1,5 @@
 ↔ 𓊾 ϝƒ ϛ δ ð đ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ḫ ţ ʃ=š ɟ ι ɽ ṛ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḩ ɦ ꜣ ḏ ṯ š ð þ ϋ υ
-
+Þþ pthorn?
 א ב  כך טטד	הע וףפב  ג      חה  י וי קכך ל מם נןמ   אוסע פףר  ק גר סצץש דתחט עו וב וו סכ ייוע  זצז  ש
 α βv γΓ δסτ ηε ηfζ Γγרלλע  ηחθ ι υ  κ  λ μ  νυuvη ωοπ πφρ ξρ Γρ σςύώ τπυσ  υ υ ω χ  υעy τζז	 ψש 
 
@@ -14,7 +14,7 @@ D:	X1	𓏏 Dhou! Dell/Tell 𓏏𓏏dad=tit vs 𓂧χειρ
 D:	D46	𓂧 𐤉yoD &Ⲇ/Dr/δwr/cheuir/shyond/𒋗hand手shǒu/δer!! da:don:𓂧dast@PERS! þ AR:chaf[t] kappa leDer leTher llodr 𓊃 ** ~tz
 E:	M17	𓇋	fEδer leicht (v)ι,e,i,a,ey <> 𓏭𓂝𓊪
 F:	I9	𓇋 / 𓆑 ϝιn ظ vd! phython=PhSn FeatherSerpent φθϑδν φαίν=shine!  Cnd:conda,cNatter,cnake 𐀟 naḥash@sem!
-G:	W11	𓎼	piK 🂡 KÜ/Ɠiebel=gawg 𓎼𓎼 γ,κ,Γ,g,χϱ,KÜ,blEIg! <> 𓍱,𓏏 BRδeiig pequliar qp φ βλέπ ~ blick 𓃀𓅡𓄿𓎼𓁹 
+G:	W11	𓎼	piK 🂡 KÜ/Ɠiebel=gawg 𓎼𓄿𓏏𓊖=Kar 𓎼𓎼 γ,κ,Γ,g,χϱ,KÜ,blEIg! <> 𓍱,𓏏 BRδeiig pequliar qp φ βλέπ ~ blick 𓃀𓅡𓄿𓎼𓁹 
 G:	GR 𓈎 QR χϱ:g λ:y ?? <<<<<<<     QP/PQ 🂡 Skarten legen @ EGYPT!?!
 H:	O4	𓉔	HOu 𓎛ξ Ḫχ𐀭 DOME 𐦛TE𐦚 Hort / Haus / home חהמם/ Heth 𓎛 𐤇 = Hof , Hecke gaz:casa𒂷𒍑	báyṯh@sem djHo𓉔->jour,youm,dayn?
 I:	M17	𓇋	feather lIght (v)ι,e,i,a,yǔ羽 𓏤 𓇌 ee = i,y φτερò πέτομοι
@@ -35,7 +35,7 @@ R:	D21	𓂋 ore@lat=👄 eaR Ähre Reis Kornt 𐦑KHA arse rot=Mund@Rus ϱρро
 R:	D21	𓂋 MRT/LM: aL'Mut : 𓂋𓅱𓅐!!   <> 𓌳𓅱𓃬 LW/MRW 
 S:	S29	𓋴	S-ence 𓍲 ß Γ ʃ δ 𓏏! Ⲋ𓆓 GS: clo.the se' 𓋴 Kissen,cushion,curse𓊭 <> 𓏏 S! < TH < T < D
 T:	X1	𓏏	Tee/Dell/DING/THING iSm IT EAT! BRδeiidt 𐀴 bThi ψ-ϑ! 𓍿tChEi(n) 𐀯 山 (b)Thai  => -ess S <> 𓏏 te(ll) + (t)ell 𓎠 Tal / all 𓎟 vs Tasse 𓎡TC𓍿TO𐦜𓄑THCZ 𐀲 kadd=jug   𓎛𓏏𓏏=Herz(herts) tick𓏴tag𓏵Tag!  P𓎡=portion/ration!
-U:	G43	𓏌𓅱𓍢𓏲	Ων -(n)oun Ü hUhn ωuν 𓅳 hENn 𓍢 hundert 100 و=u ق bun ph ف WUN 𐀸 wound 𓏲 (L)AN(d/t) 鸡 jī cui zhuī 隹 Kücken chicken 
+U:	G43	𓏌𓅱𓍢𓏲	Ων -(n)oun Ü hUhn ωuν 𓅳 hENn 𓍢 hundert 100 و=wun ق bun ph ف WUN 𐀸 wound 𓏲 (L)AN(d/t) 鸡 jī cui zhuī 隹 Kücken chicken 
 V:	M17	𓅱 V' Vł!!!  ννν fun!  𓇋𓇋 VY 𓇋	Feather -> ve -> wh 𓇋 	𓅓Mwū乌  stark gepresstes𓄲 '~ł/n
 W:	G43	𓅱𓍢𓏲	ων µω/ωµ 𓎛wHr! wΩm!  hwn M -mos µn Wn HN 'N	𓍢𓏲ϱ <> R!
 X:	Z9	𓏴	Endig X	𓏵  𐄂 χ	Ξ ξ 𓎛 FlexHair Ḫχ𐀭 𐠷=KS ✓ ☑ 𓍲  vs 𓍿 𓊃 δ  <> 𓏴 tau:token:tag טייג! 𒁇𒈦 bar? KR?
@@ -69,9 +69,10 @@ H6		𓆄	VaShur Weather feaTher Westen𓋀 waste𓋆 <> Phother βß	𓊹𓆄  	
 W24		𓏌	moURne 𓏌𓅱 Ων -oun noun naun𓈖 'of'  𓏌 => ul=oil <> Kanne jår? aber Mutter Nin.Urtair 𓏌𓏏𓇯 != Mutter Natur?!
 S24		𓋭 fasce,face,Fessel,vice-versa [knot,bond]   𓋭𓃀 שפט Schafott   vs bǔ 𓇩 𓏜 𓇪 卜 fascie 𓋭 𓊃 δεσμ  
 V1/Z7 	𓍢 	*UN(dt) => Lunt,Land,wund,hund(ert)	:V1 	𓍢      =>	Z7 L'an(d/t)  𓏲 [length] 
-N37		𓈙 sea! شط Shatt~river shadir: ghadir : pond<>garden jardin !! 识shí(wisse)
-N37		𓈙 [alu']sh->S+t=st!,sch<-k,x edg loch.nest!		:N37    𓈙  VS N39   𓈜 VS O39  𓊌   𓈚   𓈛 [lok,lush,loch,lösh,ochse,ocean,exe] vs Linear b 𐃑 
-N37		𓈙 SHN:GNeisst chanal? knows 𓄃,𓐠,𓅸𓅭 -> ffeNestre  schnau:schlauG! 𓈙 <> shin ש <> 𓄑!? garden 𓈙𓏤𓈉 !?!
+N37		𓈙 sea! شط Shatt/Chad shadir: ghadir : pond<>garden 𓈙𓏤𓈉 jardin !! 识shí(wisse) <> swamp 𓆷 𐦓 Letter 'SvA'
+N37		𓈙 seCRet 𓋴𓈙𓏏𓏜 seç'et kachat@SEM! 
+N37   𓈙  VS N39   𓈜 VS O39  𓊌   𓈚   𓈛 [lok,lush,loch,lösh,ochse,ocean,exe] vs Linear b 𐃑 𓈙 SCR
+N37		𓈙 SHN:GNeisst chanal? knows 𓄃,𓐠,𓅸𓅭 -> ffeNestre  schnau:schlauG! 𓈙 <> shin ש <> 𓄑 𓎛𓆰𓈖𓏏𓏯𓈘𓈇
 O39		𓊌	 STN									:O39    𓊌 <> N37 !!!
 Y1		𓏛	TER									:Y1     𓏛  al.tair vs at.las  
 N17   𓇿	TA/ter	                       		:N17    𓇿  VS 𓈖!  N18 𓈀 VS …    𓈁ten    𓈂tez
@@ -334,7 +335,7 @@ E20	𓃩 rasheth [r]age,acha,agga,ass << 𓃘  burross esel [<>salz?] <> rage Ra
 E21	𓃪 Seth 𓃫𓁣 SATAN 𓋴𓏏𓈙 Chaos δath:death(ert) GHades Höllenhund 𓃪 Sasha Saxen~Welfen guard 𓃫 => Monthy C7 
 E22 𓃫 GHades 𓃪 guard (ra)seth @city ağas Zitter sitter    
 E22	𓃬 E23 𓃭 Bivalenz: 𓌳𓅱𓃬 maru Mähn mahu 𒌨𒈤 Mörder nmar!! Narmer™ nomarch 𓄂𓂝𓀀! Nehmer nMaur +++ MaRaw ->
-E22	𓃬 𓃭 #RW roar.ban(do)  𓂋𓅱rw/lph++ Räuber++ Leower  LW lion/löw labiy'=Löwe = אריה aRier!
+E22	𓃬 𓃭 #RW roar.ban(do)  𓂋𓅱rw/lph++ Räuber++ Leower  LW lion/löw labiy'=Löwe = אריה aRier! 𓆼𓈖𓏥𓃭𓏤𓄛reins
 E22 𓃬 𓌳 Schirkan™ shirîkhân™+++ sher shachal رش shachats 𓌳𓇋𓎛𓋴𓃬  <<++ QED !!!!!!!! 
 E22 𓃬 CAT side 𓃭𓏤𓇋𓏏𓂢 vs Levant LePanther <> 
 E24	𓃮 'Phantier panther panter al'eoPhant	leopard fangTier hunTier

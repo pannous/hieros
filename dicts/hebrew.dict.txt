@@ -11067,29 +11067,26 @@ or (feminine) Kuwthah {koo-thaw'}; (foreign); Cuth or Cuthah, a province of Assy
 or (Dan. 11:6) kowach {ko'-akh}; <- √firm; vigor,  (force, in a good or a bad sense)
 or  (capacity, means, produce); also (<- its hardiness) a large lizard: -ability, able, chameleon, force, fruits, might, power(-ful), strength, substance, wealth.
 
-3582 kachad kaw-khad'
+3582 kachad kaw-khad' 	ka'HIDE koscher cache conceal
 √secrete, by act or word; ->(intensively) to destroy: conceal, cut down (off), desolate, hide.
 
-3583 kachal kaw-khal'
+3583 kachal kaw-khal' (mem: coral Kachel --
 √paint (with stibium): -paint.
 
 3584 kachash kaw-khash'
-√untrue, in word (to lie, feign,
-disown) or deed (to disappoint, fail, cringe): deceive, deny, dissemble, fail, deal falsely, be found liars, (be-)lie,
-lying, submit selves.
+√untrue, in word (to lie, feign, disown) or deed (to disappoint, fail, cringe): deceive, deny, dissemble, fail, deal falsely, be found liars, (be-)lie, lying, submit selves.
 
 3585 kachash kakh'-ash
 <- 3584; , a failure of flesh, i.e. emaciation; hypocrisy: leanness, lies, lying.
 
 3586 kechash kekh-awsh'
 <- 3584; faithless: lying. 
+
 3587 kiy kee
 <- 3554; a brand or scar: burning. 
-3588 kiy kee
-a primitive particle (the full form of the prepositional
-prefix) indicating causal relations of all kinds, antecedent
-or consequent; () very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed: and, + (forasmuch, inasmuch, where-)as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al- )though, + till, truly, + until, when,
-whether, while, whom, yea, yet.
+
+3588 kiy kee QUI, QUE, CE, COM, CON, quand...
+a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent; () very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed: and, + (forasmuch, inasmuch, where-)as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al- )though, + till, truly, + until, when, whether, while, whom, yea, yet.
 
 3589 kiyd keed
 <- √ strike: a crushing; calamity: destruction.
@@ -11138,22 +11135,26 @@ a form for 3564 (only in the dual); a cooking range (consisting of two parallel 
 
 3604 kikker kik-kare'
 ܐܪܡ ~=3603; a talent: talent. 
-3605 kol kole
+
+3605 kol kole 	 kWHOLE, all ++++
 or (Jer. 33:8) kowl {kole}; <- 3634; the whole -> all, any or every (in the singular only, but often in a plural sense): (in) all (manner, (ye)), altogether, any (manner), enough, every (one, place, thing), howsoever, as many as, (no-)thing, ought, whatsoever, (the) whole, whoso(-ever).
 
-3606 kol kole
+3606 KOL kole kWHOLE, all ++++
 ܐܪܡ ~=3605: all, any, + (forasmuch) as, + be-(for this) cause, every, + no (manner, -ne), + there (where)-fore, + though, what (where, who)-soever, (the) whole. 
+
 3607 kala' kaw-law'
 √restrict, by act (hold back or in) or word (prohibit): finish, forbid, keep (back), refrain, restrain, retain, shut up, be stayed, withhold.
 
-3608 kele' keh'-leh
+3608 kele' keh'-leh  Kuhle,Kluft,Kerker
 <- 3607; a prison: prison. ~3610, 3628. 
+
 3609 Kil'ab kil-awb'
 <=3607 & 1; restraint of (his) father; Kilab, an Israelite: Chileab.
 
 3610 kil'ayim kil-ah'-yim
 dual of 3608 separation; two heterogeneities: divers seeds (-e kinds), mingled (seed). 
-3611 keleb keh'-leb
+
+3611 keleb keh'-leb   Kläff[er]
 <- √means. to yelp, or else to attack; a dog; ->(by euphemism) a male prostitute: dog.
 
 3612 Kaleb kaw-labe'
@@ -11190,44 +11191,49 @@ a form of 3612; Kelubai, an Israelite: -Chelubai.
 3623 kluwlah kel-oo-law'
 passive participle <- 3618; bridehood (only plural): espousal.
 
-3624 kelach keh'-lakh
-<- √complete; maturity: full (old) age.
 
 3625 Kelach keh'-lakh
 =3624; Kelach, a place in Assyria: -Calah. 
+
 3626 Kol-Chozeh kol-kho-zeh'
 <- 3605 & 2374; every seer; Col- Chozeh, an Israelite: Col-hozeh.
 
-3627 kliy kel-ee'
-<- 3615; something prepared, i.e. any apparatus (as an
- implement, utensil, dress, vessel or weapon): armour ((-bearer)), artillery, bag, carriage, + furnish, furniture, instrument, jewel, that is made of, X one <- another, that which pertaineth, pot, + psaltery, sack, stuff, thing, tool, vessel, ware, weapon, + whatsoever.
+3627 kliy kel-ee'  Kleie--
+<- 3615; something prepared, i.e. any apparatus (as an implement, utensil, dress, vessel or weapon): armour ((-bearer)), artillery, bag, carriage, + furnish, furniture, instrument, jewel, that is made of, X one <- another, that which pertaineth, pot, + psaltery, sack, stuff, thing, tool, vessel, ware, weapon, + whatsoever.
 
-3628 kliy' kel-ee'
+3628 kliy' kel-ee' < Kluft,KerKer
 or kluw1 {kel-oo'}; <- 3607 (~3608); a prison: prison.
 
-3629 kilyah kil-yaw'
+3629 kilyah kil-yaw' ~kidney--
 fem.3627 (only plural); a kidney (as an essential organ); the mind (as the interior self): kidneys, reins.
 
 3630 Kilyown kil-yone'
 a form of 3631; Kiljon, an Israelite: Chilion. 
-3631 killayown kil-law-yone'
+3631 killayown kil-law-yone' kill;)
 <- 3615; pining, destruction: -consumption, failing. 
-3632 kaliyl kaw-leel'
+
+3632 kaliyl kaw-leel' c'all
 <- 3634; complete; as noun, the whole (specifically, a sacrifice entirely consumed); as fully: all, every
  whit, flame, perfect(-ion), utterly, whole burnt offering (sacrifice), wholly.
 
 3633 Kalkol kal-kole'
 <- 3557; sustenance; Calcol, an Israelite: Calcol, Chalcol.
 
-3634 kalal kaw-lal'
+/// K'ALL = whole
+
+3624 kelach keh'-lakh k'all
+<- √complete; maturity: full (old) age.
+
+3634 kalal kaw-lal' c'all
 √complete: (make) perfect.
 
-3635 klal kel-al'
+3635 klal kel-al' c'all
 ܐܪܡ ~=3634; to complete: finish, make (set) up.
 
-3636 Klal kel-awl'
+3636 Klal kel-awl' c'all
 <- 3634; complete; Kelal, an Israelite: Chelal. 
-3637 kalam kaw-lawm'
+
+3637 kalam kaw-lawm' calamnity++
 √wound; but only ,
 to taunt or insult: be (make) ashamed, blush, be confounded, be put to confusion, hurt, reproach, (do, put to) shame.
 

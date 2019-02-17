@@ -48,13 +48,13 @@ Central to the chalcolithic revolution were a bag of inventions, including **met
 <!-- **CHEESE!** -⇨  -⇨  -->
 ![](http://www.irregularminiatures.co.uk/images6/OXcart.jpg)  
 
-This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, [industrial brewing](https://www.researchgate.net/publication/298191529_City_of_the_hawk_-_From_ancient_breweries_to_the_earliest_mummies_excavations_at_Hierakonpolis_are_rewriting_the_origins_of_Egyptian_civilization), can be found as early as 3700BC.  
-
-In in Jiroft, south Iran, a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m (6 feet) she was much taller than ordinary women of her time (⋍3000BC). We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock. In the mean time we have new finds of [blue eyed immigrants](https://www.livescience.com/63396-ancient-israel-immigration-turkey-iran.html) bringing bronze to Galilee, red haired mummies in Egypt (Ramses and Gebelein), and a landmark study of [mummy DNA](https://www.nature.com/articles/ncomms15694), revealing that Egyptians where **closest related to Copper Age European**, Anatolian and Levant cultures:  
+In Jiroft, south Iran, a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m (6 feet) she was much taller than ordinary women of her time (⋍3000BC). We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock. In the mean time we have new finds of [blue eyed immigrants](https://www.livescience.com/63396-ancient-israel-immigration-turkey-iran.html) bringing bronze to Galilee, red haired mummies in Egypt (Ramses and Gebelein), and a landmark study of [mummy DNA](https://www.nature.com/articles/ncomms15694), revealing that Egyptians where **closest related to Copper Age European**, Anatolian and Levant cultures:  
 ![](https://user-images.githubusercontent.com/516118/44733984-5295b180-aad8-11e8-84a4-e49911efcbdd.png)  
 Genetic affinities of el-Meleq mummies from New Kingdom {[Nature Communications May 2017](https://www.nature.com/articles/ncomms15694)}  
 
 Further East the Copper Age quickly spread via [[Maykop]] and Sumeria to Susa/Iran and by 4000BC had reached [[Mehrgarh]], the gate of the Indus Valley civilization: The oldest known example of the lost-wax technique comes from a 6,000-year-old copper, wheel-shaped amulet found at Mehrgarh, Pakistan. On their way they picked up the technology of **channel** building, a most important addition to their already impressive technological bag of inventions. The brotherhood of copper kings should soon apply it to many renowned rivers.  
+
+This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, [industrial brewing](https://www.researchgate.net/publication/298191529_City_of_the_hawk_-_From_ancient_breweries_to_the_earliest_mummies_excavations_at_Hierakonpolis_are_rewriting_the_origins_of_Egyptian_civilization),can be found as early as 3700BC, especially in the so called South Egyptian [A-Group](https://en.wikipedia.org/wiki/A-Group_culture). Unfortunately 
 
 The roots of the Persian language came via the region of Elam, south Iran, with its capital Susa on the eastern border of Sumeria. Strikingly, the cultural artifacts of Egypt and Susa were nearly identical:  
 
@@ -110,25 +110,11 @@ X|[𓎛](𓎛)|Ḫairlix
 Y|[𓏭](𓏭)|𓇌ee  
 Z|[𓊃](𓊃)|Zusym  
 
-With this alphabet, which linguist deciphered 200 years ago, and which only received minor modifications since then, we can start to decipher words:  
+With this alphabet, which linguist deciphered 200 years ago, and which received only minor modifications since then, we can start to decipher words:  
 
-[𓆤](𓆤) [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢) bee  
+[𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨  [𓃀](𓃀)=b [𓇋](𓇋)=i/e [𓅱](𓅱)=[𓍢](𓍢) bee [𓆤](𓆤)  
 
 One cognate match might be coincidence, especially one with so few syllables, a whole cluster of words hints at connections which need refreshed investigations:  
-
-Remember the Persian words for mother and father?  
-Here are the (deified) Egyptian variants:  
-
-hieroglyphs|transcribed|suggested|english  
---|--|--|--  
-[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |𓊪=P 𓏏=T [𓇯](𓇯)=Air|Photair|Sky Father  
-[𓇋](𓇋)𓏏𓆑𓀀 |[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀 | ★feathav  | father  
-[𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |𓅓=M 𓅱=ⲱ 𓏏=t|  Muta (Gaia)|Mother (Nature)|  
-[𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)|𓈖=N 𓏏=T 𓂋=R 𓏯| Nνture| (Mother) vulture |  
-[𓅭](𓅭)| sA' | [χήν](Genesis) x̌aŋ| son  
-[𓅭](𓅭)[𓏏](𓏏)| 𓅭 𓏏=t |sAta/[δ](demi)Ata ?|daughter 𓅭=duck𓏏=ta  
-
-Because the original phonetics are impossible to reconstruct, the suggested reading must be consumed with fine Sahara salt (though not arbitrary).  
 
 We subscribe to the [idea](Eurasian) that central words of frequent use and large semantic clusters have a much lower probability of mutating than other words, similar to ultra-conserved genes. Especially if they are codefied as those words that had a glyph of their own.  
 
@@ -152,7 +138,7 @@ Glyphs|letters|cognate|meaning
 𓈖𓄓𓋴𓂋𓀁|‘n+Γ+r|⋍anger|anger  
 [𓃀](𓃀)[𓃀](𓃀)|*BT|ⲃϯ beide podes|both feet
 [[𓃀]][[𓈞]][[𓄑]] |b+*in+ze||bronze, brass, ⲃⲁⲣⲟⲧ  
-𓃀 𓇋 𓄿 𓅱 𓊌 𓏥|b+i+A+wn+s|bronze|brass, ⲃⲁⲣⲟⲧ  
+𓃀 𓇋 𓄿 𓅱 𓊌 𓏥|b+i+air+wn+s|bronze|brass, ⲃⲁⲣⲟⲧ  
 𓃀 𓇋 𓈅 𓄑 𓊌 𓈓|b+i+𓈅+za+s|⋍bronze|bronze  
 𓂋 𓋴 𓌘 𓁹|r+s+𓌘𓁹|rise|wake  
 𓂝 𓈎 𓂭 𓂭 𓏜|a+qr+𓂭𓂭𓏜||accurate  
@@ -225,6 +211,19 @@ Given the antiquity of Sanskrit and its astonishing similarity to western langua
 The influence of written letters on spoken vernacular has probably been underestimated.  
 Ever repeating recitations can preserve or shift whole languages.  
 
+Remember the Persian words for mother and father?  
+Here are the (deified) Egyptian variants:  
+
+hieroglyphs|transcribed|suggested|english  
+--|--|--|--  
+[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |𓊪=P 𓏏=T [𓇯](𓇯)=Air|Photair|Sky Father "*Ptah" 
+[𓇋](𓇋)𓏏𓆑𓀀 |[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀 | ★feathav  | father / attav  
+[𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |𓅓=M 𓅱=ⲱ 𓏏=t|  Muta (Geier)|Mother (Gaia:Nature)|  
+[𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)|𓈖=𐊎𐊪 𓏏=T 𓂋=R 𓏯| Nνture| (Mother) vulture |  
+[𓅭](𓅭)| sA' | [χήν](Genesis) x̌aŋ| son  
+[𓅭](𓅭)[𓏏](𓏏)| 𓅭 𓏏=t |sAta/[δ](demi)Ata ?|daughter 𓅭=duck𓏏=ta  
+
+Because the exact original phonetics are impossible to reconstruct, the suggested reading must be consumed with fine Sahara salt.  
 
 Crazy, but possible: The suspicious looking 𓅭=duck in the word 𓅭𓏏 daughter (𓅭=duck𓏏=ta) is part of the [Indo-European vocabulary](https://en.wikipedia.org/wiki/Indo-European_vocabulary), i.e. in Persian duck = ordak . If nothing else, a fabulous mnemonic which makes Egyptian more accessible than most other languages. In fact, given its relative simple [Grammar](Grammar) and it's central position in the language families, every student of linguistics should learn it. Egyptian is riddled with [puns](puns), making formal analysis at times difficult, but not less accessible.  
 
