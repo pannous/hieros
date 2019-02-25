@@ -45,7 +45,7 @@ Only recently has the Caucasian [Maykop culture](https://en.wikipedia.org/wiki/M
 # Inventions  
 
 Central to the chalcolithic revolution were a bag of inventions, including **metallurgy**, **brewing**, proto-*writing*, **kingship** and the **sail** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) - 3800BC. The first **carts** pulled by bulls, donkeys or horses appeared about the same time. Trade exploded in the so called [secondary products revolution](https://en.wikipedia.org/wiki/Secondary_products_revolution): Industrial **milk**, **wool** **wheel** and **wine** production, the first **leather** shoes in Europe and Armenia…  
-<!-- **CHEESE!** -⇨  -⇨  -->
+<!-- **CHEESE!** -⇨  -⇨  -⇨  
 ![](http://www.irregularminiatures.co.uk/images6/OXcart.jpg)  
 
 In Jiroft, south Iran, a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m (6 feet) she was much taller than ordinary women of her time (⋍3000BC). We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock. In the mean time we have new finds of [blue eyed immigrants](https://www.livescience.com/63396-ancient-israel-immigration-turkey-iran.html) bringing bronze to Galilee, red haired mummies in Egypt (Ramses and Gebelein), and a landmark study of [mummy DNA](https://www.nature.com/articles/ncomms15694), revealing that Egyptians where **closest related to Copper Age European**, Anatolian and Levant cultures:  
@@ -54,7 +54,7 @@ Genetic affinities of el-Meleq mummies from New Kingdom {[Nature Communications 
 
 Further East the Copper Age quickly spread via [[Maykop]] and Sumeria to Susa/Iran and by 4000BC had reached [[Mehrgarh]], the gate of the Indus Valley civilization: The oldest known example of the lost-wax technique comes from a 6,000-year-old copper, wheel-shaped amulet found at Mehrgarh, Pakistan. On their way they picked up the technology of **channel** building, a most important addition to their already impressive technological bag of inventions. The brotherhood of copper kings should soon apply it to many renowned rivers.  
 
-This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, [industrial brewing](https://www.researchgate.net/publication/298191529_City_of_the_hawk_-_From_ancient_breweries_to_the_earliest_mummies_excavations_at_Hierakonpolis_are_rewriting_the_origins_of_Egyptian_civilization),can be found as early as 3700BC, especially in the so called South Egyptian [A-Group](https://en.wikipedia.org/wiki/A-Group_culture). Unfortunately 
+This [Curgan Copper Conquest](https://www.academia.edu/14001057/Kurgan_Copper_Revolution) reached Egypt comparatively late, though one of its watermarks, [industrial brewing](https://www.researchgate.net/publication/298191529_City_of_the_hawk_-_From_ancient_breweries_to_the_earliest_mummies_excavations_at_Hierakonpolis_are_rewriting_the_origins_of_Egyptian_civilization),can be found as early as 3700BC, especially in the so called South Egyptian [A-Group](https://en.wikipedia.org/wiki/A-Group_culture). Unfortunately  
 
 The roots of the Persian language came via the region of Elam, south Iran, with its capital Susa on the eastern border of Sumeria. Strikingly, the cultural artifacts of Egypt and Susa were nearly identical:  
 
@@ -127,16 +127,16 @@ Glyphs|letters|cognate|meaning
 [[𓂧]][[𓈙]][[𓂋]][[𓏏]][[𓈉]]|d.š.r.t|desert|desert/dashred(red-stones)  
 [𓌹](𓌹)[𓅓](𓅓)[𓂋](𓂋)|[𓌹](𓌹)+M+R|Amur marry|admire love …  
 [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨 |b+i/e+𓅱[𓆤](𓆤)|Biene|bee  
-[𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) |b+𓇜+n| bien ⇔ bonbon|good/sweet  
+[𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) |b+𓇜+n| bien ⇔ bonbon|sweet/good  
 [𓎛](𓎛)𓆰𓈖𓄏|Hr+𓆰+n |horn|horn  
-[𓆣](𓆣)[𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣|K-p-r-r|Käfer,κάραβ|scarab,beetle
+[𓆣](𓆣)[𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣|K-p-r-r|Käfer,κάραβ|scarab,beetle  
 𓈎𓄿𓇋𓇋𓈒𓏥 |   q+air+y+[𓈒](𓈒)+[𓏥](Plural)|grains / corn|grains  
 𓈎𓄿𓅱[𓊎](𓊎)|𓈎q 𓄿air 𓅱wun|cairn|cairn  
 [𓈎](𓈎)𓄿𓅱𓏏[𓀠](𓀠)|q+air+wu+t|great(f.)|great,big …  
 𓈎 𓌳 𓄿 𓌙 𓅯 𓏜|q+m+air+iang|qvmerang|boomerang 𓌚  
 𓋴𓂋𓃱 | Γ+R+𓃱|𓋴 soft Γsh like giant |giraffe  
 𓈖𓄓𓋴𓂋𓀁|‘n+Γ+r|⋍anger|anger  
-[𓃀](𓃀)[𓃀](𓃀)|*BT|ⲃϯ beide podes|both feet
+[𓃀](𓃀)[𓃀](𓃀)|*BT|ⲃϯ beide podes|both feet  
 [[𓃀]][[𓈞]][[𓄑]] |b+*in+ze||bronze, brass, ⲃⲁⲣⲟⲧ  
 𓃀 𓇋 𓄿 𓅱 𓊌 𓏥|b+i+air+wn+s|bronze|brass, ⲃⲁⲣⲟⲧ  
 𓃀 𓇋 𓈅 𓄑 𓊌 𓈓|b+i+𓈅+za+s|⋍bronze|bronze  
@@ -154,7 +154,7 @@ Glyphs|letters|cognate|meaning
 𓉔𓂋𓅱𓇳𓏤|Ho+r+u|hour/jour|hour / day  
 𓈖 𓍇 𓏌 𓁹|nvιδur|videor,nadzar|see  
 𓎛 𓄿 𓏏 𓏮 𓄣|H+ar+t|heart|heart (vs Lieb♡)  
-[𓉗](𓉗)|h.t|1. hut  2. die Hut|1. house 2. [protection](hotel)
+[𓉗](𓉗)|h.t|1. hut  2. die Hut|1. house 2. [protection](hotel)  
 [𓉡](𓉡)|[𓉗](𓉗)hut+[𓅃](𓅃)hor(us)|Hathor|Hathor  
 [𓁶](𓁶) 𓏤 𓉗 𓏏 𓉐 |top.hut| Obhut |roof  
 𓉗 𓏲 𓏏 𓉐 𓏥 𓅨 𓂋 𓇋 𓇋 𓉐 𓏏 𓏪|hout𓏥 (g)veryt|House Gvreat|(Law) Courts "Great House"  
@@ -172,7 +172,7 @@ Glyphs|letters|cognate|meaning
 
 Is this all a German hoax from the 19th century? The alphabet and the standard reading of signs were developed by French, English and Semitic scholars, so it all seems genuine.  
 
-The list goes [on and on](https://github.com/pannous/hieros/raw/master/dicts/my_egyptian_dictionary.csv), most interesting are the Egyptian [[Grammar]] and [[Numbers]].
+The list goes [on and on](https://github.com/pannous/hieros/raw/master/dicts/my_egyptian_dictionary.csv), most interesting are the Egyptian [[Grammar]] and [[Numbers]].  
 
 This Discovery is not entirely new, Dr. Christian De Vartavan, head of the Armenian Egyptology Center released several [papers](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA0MjT2dDYAhUEJlAKHa-8C0MQFggzMAA&url=http%3A%2F%2Fwww.academia.edu%2F357726%2FSeveral_Ancient_Egyptian_numerals_are_cognates_of_Indo_European_or_Proto_Indo_European_equivalents&usg=AOvVaw0RUWGKPhtGirffrH_29yU6) on the subject. In fact this observation was more widely spread before the second world war, after which it became taboo. Either because the Nazis abused the Indo-Europaen data for their ideology, or because of the undeniable strong connections between Egyptian and Semitic languages; the later however is not a contradiction:  
 
@@ -216,7 +216,7 @@ Here are the (deified) Egyptian variants:
 
 hieroglyphs|transcribed|suggested|english  
 --|--|--|--  
-[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |𓊪=P 𓏏=T [𓇯](𓇯)=Air|Photair|Sky Father "*Ptah" 
+[𓊪](𓊪)[𓏏](𓏏)[𓇯](𓇯)𓀭 |𓊪=P 𓏏=T [𓇯](𓇯)=Air|Photair|Sky Father "*Ptah"  
 [𓇋](𓇋)𓏏𓆑𓀀 |[𓇋](𓇋)=(f)e 𓏏=t 𓆑=v 𓀀 | ★feathav  | father / attav  
 [𓅓](𓅓)[𓅱](𓅱)[𓏏](𓏏)[𓅐](𓅐) |𓅓=M 𓅱=ⲱ 𓏏=t|  Muta (Geier)|Mother (Gaia:Nature)|  
 [𓈖](𓈖)[𓏏](𓏏)[𓂋](𓂋)[𓏯](𓏯)[𓅐](𓅐)|𓈖=𐊎𐊪 𓏏=T 𓂋=R 𓏯| Nνture| (Mother) vulture |  
