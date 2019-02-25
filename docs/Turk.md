@@ -2,6 +2,10 @@ The Turk language family is an oddity which can still be linked to the superfami
 
 Science even puts it at the [root of PIE](https://www.nature.com/news/a-turkish-origin-for-indo-european-languages-1.11270)  
 
+The [case system](  
+http://laktoz.yogurtcultures.org/?subject=Abbas&case=dative&predicate=A%C5%9F%C4%B1k&perfective=true&whom=third_person_singular) looks exactly like Latin, except for the Possessive case.  
+
+
  see [Pronouns](Pronouns)  
 
 beni/eyim 	bin ich / I am !  

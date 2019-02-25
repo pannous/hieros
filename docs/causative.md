@@ -4,6 +4,7 @@ English:
  saint ⇨ sanctify (faire=do)  
  glad  ⇨ gladden (dan,done,do)  
 
+Related to perfective completive  
 
 
 In Egyptian the causative is marked by prefix 𓋴 's' or 𓅨(faire) or suffix 𓇋𓀁(faire)  

@@ -1,6 +1,6 @@
 KUR international mega root of urbanization (and Egyptian variants)  
 
-𓊖 √qvr(t)² ⊕  
+𓊖 √QVR(t)² ⊕  < G-B-R 🏔  
 
 [𓀠](𓀠) qR(t) heigh(t)⋍great 𓈎𓄿𓏏𓀠  চওরা  
 [[𓅨]] very great [[𓅨]]𓂋𓏏 √gVrt  
@@ -11,7 +11,6 @@ KUR international mega root of urbanization (and Egyptian variants)
 [𓈎](𓈎)𓄿𓇋𓇋𓈒𓏥𓊎 grains / cairns  
 [𓊖](𓊖) Gorod 𓊖𓏏𓏤 ⋍ city quarters 𓊖 (tall tell Teil 𓇸𓇷𓊕𓈇𓏤 town 장 [[ting]])  
 [𓊖](𓊖) court 거리 hoard hOrt 京 Kyo® 서울  
-[𓋓](𓋓)[[𓋘]] crown ⲁⲛϫⲱϫ AnKuron 円𐘮⋍京 *KRAŊ=京  
 [𓐍](𓐍)[[𓇳]] KurRad 𐀏𐃏𐀤𓊕〇 Kreis Gyros circle [[𓐍]] gray grau  
 [[𓇾]] 𒆳 KUR cer ter terrain territory [[3]] 𐀳 𓇾 𓈉 ≠ 𓈊 山 三 shanze sān  
 [𓌨](𓌨)𓌨 Kerker = Karzer Kur™ ⋍ gaol   vs  
@@ -26,6 +25,7 @@ KUR international mega root of urbanization (and Egyptian variants)
 [𓐍](𓐍)𓂋𓉐 ⛼ kurgan/grave/churche  𒆠𒈤 : tomb karner charnel  
 [𓊻](𓊻) KurNugia carnārium netherworld necropolis 𒀭𒆠𒁴 anecearth 𓃶𓋹 curse=bury  
 [𓊹](𓊹)𓌨𓂋𓈉 negro  netherworld khell⇔kill?  
+[𓋓](𓋓)[[𓋘]] crown ⲁⲛϫⲱϫ AnKuron 円𐘮⋍京 *KRAŊ=京  
 𓈎𓂋𓂋𓊡  storm (-cloud)|coort कोहरा kohrā.di grottig > cloudy  4 Kur-Winde™  
 𓌨 𒆠 country, lower 𓌨, down below  
 𒊹 ŠAR 3600 ⋍ [𓅨](𓅨) Schar ⇔ [𓐍](𓐍) Gyro  
