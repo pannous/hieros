@@ -4,6 +4,8 @@ https://en.wikipedia.org/wiki/Aramaic_alphabet
 Aramaic
 Arāmāyā
 ‎
+L2R rendering of semitic in Sublime
+
 Hebrew:
 ארמיא
 Armia
@@ -17,6 +19,8 @@ Arabic:
 Aramyo
 
 L2R rendering of semitic in Sublime
+
+בר 1. pure 2. puer (son)
 
 
 AKKADIAN words in asSyriac:
