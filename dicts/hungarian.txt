@@ -1,12 +1,8 @@
-npm install sleep
-npm install fs-readfile-promise  for readFileAsync
-npm install sleep
-npm install fs-readfile-promise  for readFileAsync
 Etymological Dictionary
 of Hungarian (EDH)
 BY
 
-P ROF . D R . A LFRÉD T ÓTH
+PROF . DR . ALFRÉD TÓTH
 
 Mikes International
 The Hague, Holland
@@ -1384,8 +1380,10 @@ ri „to throw” (Halloran/Hámori, R 8)
 menni
 
 mud „beeilt sich” (Bobula, Herencia, p. 51)
+meander
 
 ki-min „to go” (Zakar, p. 44)
+come-on ;)
 
 en „to go”, men/me „to be; to move”
 me-en/ma-an „there is” (Zakar, p. 44)
@@ -1396,7 +1394,7 @@ me-en/ma-an „there is” (Zakar, p. 44)
 jönni
 
 gin „to go” (Bobula, Herencia, p. 51; Gostony, no. 255;
-cf. dial. gyönni!, Zakar, p. 44)
+cf. dial. gyönni!, Zakar, p. 44) going!
 du „goes” (Zakar, p. 44)
 
 
@@ -3206,7 +3204,7 @@ sydäna
 
 südaa
 
-wa'imuob
+wáimuob
 
 soac
 
@@ -32345,14 +32343,14 @@ Tur iş in: iş-bu “ecce!”
 
 2
 
-adni “to give”
+adni “to give” DON
 Sum ag, ang
 Tur atmak “to throw”
 
 
 3
 
-ág “branch”
+ág “branch” AST
 Sum á
 Tur ağaç “tree, wood”
 
@@ -32362,7 +32360,7 @@ Tur ağaç “tree, wood”
 agy “brain”
 Sum ugu
 Tur beyin “brain”
-
+=> bagy.on
 
 5
 
@@ -32374,14 +32372,14 @@ Tur yatak “bed”
 6
 
 aj “fold”, ajak “lip”, ajazni “to carve”
-Sum a-zu
 Tur ağiz “mouth, mouth of a river”
+Sum a-zu
 
 - 603 -
 
 7
 
-akarni “to want”
+akarni “to want” CARE
 Sum ag, aka
 Tur yakarmak “to want”
 
@@ -32389,15 +32387,15 @@ Tur yakarmak “to want”
 8
 
 akol “fence for sheep”
-Sum udul, utul
 Tur okol “pen, fold”
+Sum udul, utul
 
 
 9
 
-ál- “false”
-Sum alam, alan
+ál- “false” FAL.sch
 Tur al “false”
+Sum alam, alan FAIL.ing
 
 
 10
@@ -32409,23 +32407,22 @@ Tur kılık “out(side)”
 
 11
 
-állni “to stand”
+állni “to stand” HALt.en
 Sum gal, al
 Tur ulu “big”
 
 
 12
 
-álom “sleep; dream”
+álom “sleep; dream”  <> CHOLEM, GOLEM, Schlummer, Salam Doleam dream
 Sum a-a-lum, alam, alan
-Tur uyku “sleep”
 
 
 13
 
 aludni, alszik, aluv- “to sleep”
 Sum alam, alan
-Tur uyumak “to sleep”
+Tur uyumak “to sleep” Haia.make ;)
 
 - 604 -
 
@@ -32433,21 +32430,21 @@ Tur uyumak “to sleep”
 
 ám “well”
 Sum am
-Tur ama “but, though”
+Tur ama “but, though”  abba aber ähm;)
 
 
 15
 
 ángy “sister-in-law”
 Sum e-gi4-a
-Tur yenge “sister-in-law”
+Tur yenge “sister-in-law” <> Enkel eng vs Next Nichte
 
 
 16
 
 anya “mother”
-Sum ama
 Tur ene “mother”
+Sum ama
 
 
 17
@@ -32461,19 +32458,18 @@ Tur aba “father”
 
 apró “small”, aprólék “small parts of meat”, aprólékos “meticulous”, apróság “trifle”
 Sum amar
-Tur ufatmak “to cut in small pieces, to hash”
 
 
 19
 
 ár “flood”
-Sum a, a-ma-ru
+Sum a, a-ma-ru  mAre noAh
 Tur artmak “to get bigger, to rise”
 
 
 20
 
-ár “price”
+ár “price” <> ware.house = ar.haz
 Sum har(-ra)
 Tur oramak “to measure”
 
@@ -32481,15 +32477,15 @@ Tur oramak “to measure”
 
 21
 
-arany “gold”
+arany “gold” AURA,OR @ Iran
 Sum ar, ará
-Tur zerrin “golden”
+Tur zerrin “golden” chyrion grain?
 
 
 22
 
 aratni “to harvest”
-Sum ur4, uru
+Sum ur4, uru ++
 Tur oramak “to harvest”
 
 
@@ -32497,19 +32493,19 @@ Tur oramak “to harvest”
 
 árnyék “shadow”
 Sum ar
-Tur arık “bad”
+Tur arık “bad” ároc,raw = bad
 
 
 24
 
 ásni “to dig”, ásó “spade”
-Sum al-zu
 Tur eşmek “to dig”
+Sum al-zu
 
 
 25
 
-asszony “woman”
+asszony “woman”  ny
 Sum gal, gašan
 Old Tur oxšaγu “woman”
 
@@ -32524,21 +32520,21 @@ Tur itik “sharp, insulting, rude”
 27
 
 atya “father”
-Sum ad, ad-da
+Sum ad, ad-da  ++
 Tur ata “father”
 
 - 606 -
 
 28
 
-baj “trouble”
-Sum bal
+baj “trouble” <> Pech! <> bad?
+Sum bal <> poor
 Tur belâ “disluck, poverty” (Arabic)
 
 
 29
 
-báj “charme”
+báj “charme” <> Pech?
 Sum ba
 Old Tur baγ “bandage, bundle, shackle”
 
@@ -32546,15 +32542,15 @@ Old Tur baγ “bandage, bundle, shackle”
 30
 
 bal “left”, balog “left-handed””
-Sum bal, ba
+Sum bal, ba ++
 Old Tur alyγ “bad”
 
 
 31
 
 balta “axe”
+Tur balta “axe” ++
 Sum bal
-Tur balta “axe”
 
 
 32
@@ -37846,3 +37842,198 @@ were researched in this book, 13 are agglutinative.
 
 
 
+Istanbul    American         Hungarian
+Turkish     English
+-------    ----------       -----------
+ach   open                   .........
+ak    flow                   .........
+al    take, buy              .........
+an    remember, cite         .........
+as    hang                   .........
+at    throw                  .........
+az    become furious, mad    ......... hass
+bak   look                   ......... voi
+bas   step, press            ......... ~
+bay   make sbdy. pass out    báj      charm, cause faint
+
+bük   bend, twist            ......... <> break
+bich  cut (grass, cloth)     .........
+bIch  cut (wood, etc)        .........
+boz   spoil, break down      .........
+böl   divide                 .........
+
+bil   know                   bir       have the power
+bin   mount, ride            .........
+bit   grow (for plants)      ......... phyt
+bit   end                    .........
+bur   wring,twist(helically).........
+cay   give up                .........
+chak  strike together, nail  .........
+chal  play (an instrument)   .........
+chal  steal                  csal      cheat
+charp slap, hit, run into    csap      slap, hit, strike
+chat  fit together; build    csat      buckle
+chek  pull                   .........
+chel  trip (verb)            .........
+chim  bathe                  .........
+chök squat; collapse        .........
+chöz untie                  .........
+de    say                    ......... DIRE
+del   bore (a hole)          ......... DRILL
+dil   slice                  .........
+der   collect                ......... D'arm
+desh  open up(a hole,wound)  ......... dash
+dik   erect; plant           .........
+din   end                    ......... done
+diz   put in order           ......... direx?
+dogh  rise (sun)             ......... TOp?
+dogh  be born (i.e. child)   ......... 
+dol   get filled             tel       fill, full
+doy   get full (stomach)     .........
+dögh beat                   ......... tough, schlag
+dök  pour                   .........
+dur   stop                   ......... ≠ dura
+duy   hear                   ......... dohrm
+dür  fold                   tür      fold Tür?
+ek    plant (plants)         ......... Esche
+em    suck                   emlö     tit, nipple
+er    reach                  e'r       reach erreich
+es    blow (for wind)        ......... Esche
+esne  yawn                   áshi't   yawn
+esh   dig                    ásh      dig
+et    do                     ......... ~
+ez    crush                  .........
+ger   stretch                ......... <
+gez   walk around; travel    ......... geh*
+gel   come                   jer, gyer come, geh*
+git   go                     gyi       go [for horses]
+gör  see                    ......... <<
+ich   drink                  isz       drink
+in    ascend; go down        ......... down/un.der
+it    push                   ......... hit
+kal   stay                   all...... HALT
+kar   mix                    kavar, kever stir
+kat   add                    ......... ~k'add
+kay   slide; ski             ......... ~s'kay ~ ski
+kaz   dig                    .........
+kIr   break                  tör      tear, break
+kIy   mince                  .........
+kIs   squeeze;pinch;diminish ......... ~
+kIz   grow hot; get angry    tüz      fire (noun & vb. root)
+kosh  run                    ......... kusch!
+KUR   erect; wind            ......... !++
+ogh   scrub; polish          .........
+oku   read                   ......... okul/occur
+on    get better             ......... <
+oy    carve                  ......... *
+öl   die                    öl       ~ kill
+öp   kiss                   ......... lip
+ör   weave                  .........
+öt   sing (for a bird)      ......... flöt/tröt
+sal   let go                 ......... sail? sel=wide 
+sar   wrap                   ......... <
+sat   sell                   .........
+say   count                  szám     number (noun) say, SUMERO
+say   respect                ......... 
+sek   skip                   szök     ~skip, jump
+sil   erase                  .........
+sok   insert                 .........
+sögh swear                  ......... ~
+sök  rip open; tear down    ......... zack;)
+tak   attach                 ......... tag +++
+tat   taste                  ......... ~ ++
+tut   hold                   tart      hold <> TEnT
+tüt  give off smoke         ......... toot ;)
+yak   burn                   .........
+yat   lay                    .........
+yaz   write                  ir....... 
+yogh  condense               .........
+yoghur knead                 gyu'r     knead, squeeze ! 
+yont  cut, chip              .........
+ 
+Also compare
+sayI   number                    szám        number
+sayIm  counting, poll, census    .....
+ 
+
+
+
+ 
+Possible borrowings from Turkish:
+
+
+Turkish   American               Hungarian    English
+(mainly   English
+Istanbul)
+--------  ---------------------  ----------   --------
+
+bas       press, step            basz         sex act
+bIchak    knife                  bicsak,bicska folding knife
+(bIchkI   saw                    .......
+.......                          csákány    pickaxe
+chalan    striking               csalán      nettle
+chalI     bush, shrub; thicket
+(IsIrgan  nettle                 .......)
+betik (1) book                   betü        letter, character
+eke       let him sow            eke          plough
+kechi     goat                   kecske       she-goat
+koch      ram                    kos          he-goat
+teke      he-goat                .......
+koy       sheep  (asiatic Tr.)
+koyun     sheep
+arpa      barley                 árpa        oats
+yulaf     oats
+.....                            gyu'mo'lcs   fruit
+meyve     fruit                  ......
+yemish    fruit                  ......
+......                           szölö      vine, grapes
+üzüm    grapes                 .......
+asma      grape vine             .......
+töre (2)   custom               törve'ny    law
+tüzük   by-law                 ......
+yasa (2)  law
+yas  (3)  mourning               gyász       mourning
+batur (4) brave                  bátor       brave
+ 
+ 
+
+arIk > arok
+arpa > arpa
+balta > balta
+bitik > betU
+buGday > buza
+burCak > borso
+buzaGI > borju
+dana > tino
+deniz > tenger
+deve > teve
+dingil > tengely
+elma > alma
+erdem > erdem
+es (us) > esz
+gObek > kOldOk
+ikiz > iker
+kapI > kapu
+kepenek > kOpOnyeg
+koCan > kocsany
+kurum > korom
+Odh (zaman) > idO
+oGlak > ollo
+OkUz > OkOr
+sakal > szakal
+sarI > sarga
+saz (Camur) > sar
+sIrt > szirt
+sirke (bit yumurtasI) > serke
+tanIk > tanu
+tarla > tarlo
+tekne > teknO
+yaka (boyun) > nyak
+yapaGI > gyapju
+yel > szel
+yUksUk > gyUszU
+
+
+9% of Hungarian words have a Turkish origin.
+
+This layer of Turkic loans is large and varied (e.g. szó "word", from Turkic; and daru "crane", from the related Permic languages), and includes words borrowed from Oghur Turkic; e.g. borjú "calf" (cf. Chuvash păru, părăv vs. Turkish buzağı);[14] dél ‘noon; south’ (cf. Chuvash tĕl vs. Turkish dial. düš).[15] Many words related to agriculture,[16] state administration and even family relationships

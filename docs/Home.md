@@ -45,8 +45,9 @@ Only recently has the Caucasian [Maykop culture](https://en.wikipedia.org/wiki/M
 # Inventions  
 
 Central to the chalcolithic revolution were a bag of inventions, including **metallurgy**, **brewing**, proto-*writing*, **kingship** and the **sail** boat, which became a cult object in the [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period) - 3800BC. The first **carts** pulled by bulls, donkeys or horses appeared about the same time. Trade exploded in the so called [secondary products revolution](https://en.wikipedia.org/wiki/Secondary_products_revolution): Industrial **milk**, **wool** **wheel** and **wine** production, the first **leather** shoes in Europe and Armenia…  
-<!-- **CHEESE!** -⇨  -⇨  -⇨  
+
 ![](http://www.irregularminiatures.co.uk/images6/OXcart.jpg)  
+Cheese transport
 
 In Jiroft, south Iran, a 5000 year old woman with a golden eye implant was [discovered](http://www.iranreview.org/content/Documents/Iran_s_Burnt_City.htm). With an outstanding 1.82 m (6 feet) she was much taller than ordinary women of her time (⋍3000BC). We anticipate that genetic tests will show that she was indeed part of the proto-indo-european founding stock. In the mean time we have new finds of [blue eyed immigrants](https://www.livescience.com/63396-ancient-israel-immigration-turkey-iran.html) bringing bronze to Galilee, red haired mummies in Egypt (Ramses and Gebelein), and a landmark study of [mummy DNA](https://www.nature.com/articles/ncomms15694), revealing that Egyptians where **closest related to Copper Age European**, Anatolian and Levant cultures:  
 ![](https://user-images.githubusercontent.com/516118/44733984-5295b180-aad8-11e8-84a4-e49911efcbdd.png)  
@@ -128,7 +129,8 @@ Glyphs|letters|cognate|meaning
 [𓌹](𓌹)[𓅓](𓅓)[𓂋](𓂋)|[𓌹](𓌹)+M+R|Amur marry|admire love …  
 [𓃀](𓃀)[𓇋](𓇋)[𓅱](𓅱)[𓆤](𓆤)𓏨 |b+i/e+𓅱[𓆤](𓆤)|Biene|bee  
 [𓃀](𓃀)[𓇜](𓇜)[𓈖](𓈖) |b+𓇜+n| bien ⇔ bonbon|sweet/good  
-[𓎛](𓎛)𓆰𓈖𓄏|Hr+𓆰+n |horn|horn  
+[𓎛](𓎛)𓆰𓈖𓄏|Ḫ+𓆰+n |horn,κέρας,शृङ्ग (śṛṅga)|horn  
+[[𓎛]][[𓆰]][[𓈖]][[𓏌]][[𓏲]]𓈗 𓈘 𓈇 𓏤|Ḫ+n+𓏲|channel,قناة|canal
 [𓆣](𓆣)[𓐍](𓐍)[𓊪](𓊪)[𓂋](𓂋)𓂋𓆣|K-p-r-r|Käfer,κάραβ|scarab,beetle  
 𓈎𓄿𓇋𓇋𓈒𓏥 |   q+air+y+[𓈒](𓈒)+[𓏥](Plural)|grains / corn|grains  
 𓈎𓄿𓅱[𓊎](𓊎)|𓈎q 𓄿air 𓅱wun|cairn|cairn  
@@ -159,11 +161,11 @@ Glyphs|letters|cognate|meaning
 [𓁶](𓁶) 𓏤 𓉗 𓏏 𓉐 |top.hut| Obhut |roof  
 𓉗 𓏲 𓏏 𓉐 𓏥 𓅨 𓂋 𓇋 𓇋 𓉐 𓏏 𓏪|hout𓏥 (g)veryt|House Gvreat|(Law) Courts "Great House"  
 𓉗𓏏𓏏𓈉|hut.t.t|die Hütte| mine  
-[[𓎡]][[𓄿]][[𓊪]][[𓄿]]|c+A+ph+A|cover חפז châpha  
-[[𓎛]][[𓆰]][[𓈖]][[𓏌]][[𓏲]]𓈗 𓈘 𓈇 𓏤|Ḫ+n+𓏲|قناة|canal, channel  
 [[𓈎]]𓅱𓂋𓏤|𓈎q 𓅱u r𓂋𓏤 qur𓏤|𓉗,quarry,chyros |gold miner  
+[[𓎡]][[𓄿]][[𓊪]][[𓄿]]|c+A+ph+A|cover חפז châpha|cover  
 [[𓋴]][[𓍿]][[𓎤]]|𓋴𓌢𓈖𓂉|scent|smell  
-[[𓋴]]𓆓 𓎛 𓂾|s+S+Ḫ+𓂾|Schienbein|shin-bone,ⲥⲏⲃⲓ,shank,الساق  
+[[𓉐]]|Pr(t)|porta,Pforte|door
+[[𓉐]]𓂋𓂻|pr(t)ier|partier|part,leave
 [[𓉐]][[𓂋]][[𓏏]]𓍁 𓈓|P-R+R+T|phárat,φρούτ,Brut|fruit,offspring  
 [[𓂧]][[𓄿]][[𓃀]][[𓆳]]|D+air+b|Traube|figs/fruits/vines  
 [[𓏏]][[𓈖]][[𓌰]][[𓅓]][[𓅱]]𓇰|d+n+𓌰…|dunkel/tenebre/temnota|dark,taint-less  
