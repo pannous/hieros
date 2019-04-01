@@ -393,7 +393,7 @@
 
 |-  
 | <hiero>D45</hiero> || D45 || U+130A6 || &#x130A6; || djsr<br>tchsr<br>--<br>([Egyptian triliteral signs|tril.](Egyptian triliteral signs|tril.))  || arm<br>w/ sceptre  
-  || ''to be holy'', ''to segregate''<br>See [Djsr (arm with powerstick)](Djsr (arm with powerstick))<!--Betro profile, pg. 60-⇨  
+  || ''to be holy'', ''to segregate''<br>See [Djsr (arm with powerstick)](Djsr (arm with powerstick))
 
 |-  
 | <hiero>D46</hiero> || D46 || U+130A7 || &#x130A7; || d(sh)  ||  
@@ -445,7 +445,7 @@
 | <hiero>D55</hiero> || D55 || U+130BD || &#x130BD; ||   ||   ||  
 |-  
 | <hiero>D56</hiero> || D56 || U+130BE || &#x130BE; || rd  || leg<br>(Human)  
-  || [Ideogram|Ideo.](Ideogram|Ideo.), [determinative|det.](determinative|det.) for ''rd'', "leg"; Det. "to tread";<br>(see Foot)<br>Also: for ''pds'', ''w'rt'', ''sbq''<!--Pg 659B-Budge-Q-⇨.  
+  || [Ideogram|Ideo.](Ideogram|Ideo.), [determinative|det.](determinative|det.) for ''rd'', "leg"; Det. "to tread";<br>(see Foot)<br>Also: for ''pds'', ''w'rt'', ''sbq''
 
 |-  
 | <hiero>D57</hiero> || D57 || U+130BF || &#x130BF; ||   ||   ||  
@@ -1409,7 +1409,7 @@
 |-  
 | <hiero>O28</hiero> || O28 || U+1327A || &#x1327A; ||   ||   ||  
 |-  
-| <hiero>O29</hiero> || O29 || U+1327B || &#x1327B; ||    || column?, club?  || 'Great'<br>(wooden)-column<!--Betro, pg.186-⇨  
+| <hiero>O29</hiero> || O29 || U+1327B || &#x1327B; ||    || column?, club?  || 'Great'<br>(wooden)-column
 |-  
 | <hiero>O29A</hiero> || O29A || U+1327C || &#x1327C; ||   ||   ||  
 |-  
