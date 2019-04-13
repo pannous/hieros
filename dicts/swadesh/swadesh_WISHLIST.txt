@@ -8,6 +8,14 @@
 1000
 10^4
 10^6
+is
+was
+have
+had
+do
+did
+make
+made
 yes
 no
 not
@@ -20,3 +28,11 @@ next
 age
 young !!!
 fresh <> green
+
+go
+walk
+run
+carry
+bring
+take
+get
