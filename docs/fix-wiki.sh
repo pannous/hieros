@@ -7,9 +7,9 @@ for f in `ls *.md`; do
  sed -i 's/->/⇨/g' $f
  sed -i 's/~/⋍/g' $f
  sed -i 's/^  $//' $f
- # sed -i 's/\[\[\(.*?\)\]\]/[\1](\1)/g' $f gehtnet
+ # sed -i 's/\[\[\(.*?\)\]\]/[\1](\1)/g' $f gehtnet => use js
 done
-./repair-links.js
+# ./repair-links.js not neccessary?
 git commit -a --allow-empty-message -m '⇔'
 git push
 
