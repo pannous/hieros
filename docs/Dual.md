@@ -38,6 +38,8 @@ bi/du/tu [𓏏](𓏏)𓏏 as syllable for duality already was present in Egypt:
 see [numbers](Numbers), [cosmos](cosmos)  
 2 tit [𓏏](𓏏) dad=breast  
 
+Super roots:  
+[[𓃀]]𓃀 BEIDE BOTH PODES/PODEN ⇔ apart, but  
 [𓏏](𓏏)𓏏|B'D'T| [dual](Dual) dough/teig D/Telle breδt breast/tit𓏏𓏏  
 bone 𓌠𓏤 vs 𓌟𓏤 Nepthune?  
 

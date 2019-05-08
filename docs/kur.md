@@ -34,11 +34,11 @@ circle⇨𓊖𓐍𓇳⇨ ... 𓂻 gir ⇔ [[𓇾]]TER > CER
 [[𓆷]]𓈇𓏤 𐀀𐀒𐀫𐀸 a-ko-ro-we γεώργιον georgion ⲓⲟϩⲓⲭ  
 [𓐍](𓐍)𓂋𓉐 ⛼ kurgan/grave/churche  𒆠𒈤 : tomb karner charnel  
 [𓊻](𓊻) KurNugia carnārium netherworld necropolis 𒀭𒆠𒁴 anecearth 𓃶𓋹 curse=bury ⇔ 𓏌𓏌𓏌 (n)urn  
-[𓊹](𓊹)𓌨𓂋𓈉 negro necropolis नगर nagar vs शहर śahar Naukratis? netherworld khell⇔kill? քաղաք 𓈖𓌰𓅓𓂝𓁀 nächten  
+[𓊹](𓊹)𓌨𓂋𓈉 Grab negro necropolis नगर nagar vs शहर śahar Naukratis? netherworld khell⇔kill? քաղաք 𓈖𓌰𓅓𓂝𓁀 nächten  
 [[𓊭]] 𓈎𓂋𓋴𓅱𓊭 grave गृह curse™ Sarg@kurgan@Kasach qabaru qbara qboro = bury 𓏂  𓐍𓊪𓏏𓏱 [death]?  
 [[𓁀]] cradle 𓊃𓇥𓂋𓇋𓇋𓏏 𓁀 vs snore  
 [𓊿](𓊿) ערב = غراب ghurab Rabe [[𓅆]] Greif > Horvs > avis  
-[𓊿](𓊿) ערב = غَرْب‎  ḡarb (west𓋀) Arb = Abend-Land  ⇔ garb=part 𓋴𓁷𓂋𓀜?  
+[𓊿](𓊿) ערב = غَرْب‎  Grab@ḡarb (west𓋀) Arb = Abend-Land  ⇔ garb=part 𓋴𓁷𓂋𓀜?  
 [𓋓](𓋓)[[𓋘]] crown ⲁⲛϫⲱϫ AnKuron 円𐘮⋍京 *KRAŊ=京  
 [𓐍](𓐍) gray kara kala[de]: dark color  𓋴𓈎𓂋𓌪 scar ⇔ 𓊿𓊻  
 𓈎𓂋𓂋𓊡  storm (-cloud)|coort कोहरा kohrā.di grottig > cloudy  4 Kur-Winde™  
@@ -211,7 +211,7 @@ ZA 𒍝 𓏏𓎡𓍿 thy zain : your ⇔ teu/ton?
 [[𓊖]] κτῆμα 𐀀𐀒𐀨 agora=market ⇔ tauscher togir 서독 deutger 게르만  
 𓐎 cure?  
 
-K-B-R / G-B-R (Gebirge, gabre, gebail, Giebel, Gipfel) ⇨  
+K-B-R / G-B-R (Gebirge, gabre, gebail, Giebel, Gipfel, grabis@Latvi) ⇨  
 K-V-R [[cover]] KVRN cavern 𓍿 𓊪 𓎛 𓏏 saver salvat temphel? 𓏏 𓊪 𓎛 𓉐  
 K-R-T / G-R-T Grotte 𓈎 𓂋 𓂋 𓏏 𓂂 (cavern)  
 M-R-T (cave)  … מערת  Malat  
