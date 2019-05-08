@@ -136,12 +136,12 @@ motorist		मोटरि  mvottri  : motorist
 mudar		मदारि  mdari  : mudar
 mull		मलि  mli  : mull
 muslin		मलमलि  mlmli  : muslin
-name		नामि  nami  : name
+name		नामि  nami  : name 
 narcissus		नरगिसि  nrgisi  : narcissus
 negation		नकारि  nkari  : negation
-negative		नकारि  nkari  : negative
+negative		नकारि  nkari  : negative ++
 nirvana		निर्वाणि  nirvanni  : nirvana
-nor		नि  ni  : nor
+nor		नि  ni  : nor ++
 notary		नोटरीि  nvottryi  : notary
 pajama		पजामाि  pjamai  : pajama
 pantsuit		पैंटि  pvaitti  : pantsuit
@@ -149,7 +149,7 @@ papist		पोपि  pvopi  : papist
 paraffin		पराफिनि  praphini  : paraffin
 paranoid		पागलि  pagli  : paranoid
 parkin		अदरकि  adrki  : parkin
-parole		परि  pri  : parole
+parole		परि  pri  : parole <
 parsee		पारसीि  parsyi  : parsee
 parson		पादरीि  padryi  : parson
 passbook		पासबुकि  pasbvuki  : passbook
@@ -160,27 +160,26 @@ peritonitis		पेटि  pertti  : peritonitis
 pertain		सेि  seri  : pertain
 pessary		पेसरीि  persryi  : pessary
 phut		फटि  phtti  : phut
-pin		पिनि  pini  : pin
+pin		पिनि  pini  : pin !
 pincushion		पिनगद्दीि  pingddyi  : pincushion
 pipette		पिपेटि  pipertti  : pipette
 pistachio		पिस्ताि  pistai  : pistachio
 piston		पिस्टनि  pisttni  : piston
 plastic		प्लास्टिकि  plasttiki  : plastic
 platoon		पलटनि  plttni  : platoon
-plug		प्लगि  plgi  : plug
+plug		प्लगि  plgi  : plug !
 polythene		पालिथीनि  palithyni  : polythene
 popadum		पापडि  papddi  : popadum
 poplin		पॉपलीनि  poplyni  : poplin
 poppadam		पापडि  papddi  : poppadam
-premiere		प्रथमि  prthmi  : premiere
+premiere		प्रथमि  prthmi  : premiere  protho.mi ! ++
 programmer		प्रोग्रमि  prvogrmi  : programmer
 programming		प्रोग्रमि  prvogrmi  : programming
 progress		प्रगमनि  prgmni  : progress
 pronomial		सर्वनामि  srvnami  : pronomial
 propitiate		प्रसादिति  prsaditi  : propitiate
-proprietorial		proprietorि  proprietori  : proprietorial
 pudding		पुडिंगि  pvuddigi  : pudding
-pump		पम्पि  pmpi  : pump
+pump		पम्पि  pmpi  : pump !
 pundit		पण्डिति  pnndditi  : pundit
 purdah		परदाि  prdai  : purdah
 pygmy		पिग्मि  pigmi  : pygmy
@@ -192,7 +191,7 @@ restrain		रोकनाि  rvoknai  : restrain
 rickshaw		रिक्शाि  rikshai  : rickshaw
 rubber		रबरि  rbri  : rubber
 ruling		प्रबलि  prbli  : ruling
-safari		शिकारि  shikari  : safari
+safari		शिकारि  shikari  : safari !
 salad		सलादि  sladi  : salad
 saliva		लारि  lari  : saliva
 salmon		सामनि  samni  : salmon

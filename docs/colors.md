@@ -1,18 +1,107 @@
+
+https://en.m.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian  
+
+Many hieroglyphs are coloured, though the paint has worn off most stone inscriptions. Colors vary, but many glyphs are predominantly one colour or another, or a particular combination (such as red on the top and blue on the bottom). In some cases, two graphically similar glyphs may be distinguished solely by colour, though in other cases it's not known if the choice of colour had any meaning.  
+
+
 𓌈  𓏏 mwhite mweißel  
 𓎗 white #wD word writ weavt reeft mwoD mot@French  
 𓋑  wHUT white hat (#HDT)  
 𓌉 white rute #HD  
+𓍿 𓅓 𓋴 𓏞|kırmızı|red, ruddy, violet| kırmızı ⇔ Kirsch karmir karim chroma carnelian (skin/meat)  
+𓎡 𓄿 𓅱|carun|GREEN/GRÜN| gwyrdd@cym!!  
 
-⚫ kara kala : black color 𓐍 汚い ki'tan  
-𓐍 grau ≠ chrome chroma carne(skin/meat)  
+
+𓈍 crown chroma ⋍ x*range rain-bow  
+
+⚫ kara kala : black color 𓐍 汚い ki'tan 黒 kuro काली kaalee сиёҳ কালো kalo  
+𓈎 kara kala kaspian blue(que)  
+𓐍 grau ≠ chrome chroma carne(skin/meat) 黒 kuro 灰色 haiiro hēi  
+𓐍 graun Green [[https://en.m.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian#𓐍]]  
+𓎡 carun Green  
+𓎟 calla 𓎡 chlor color (green)  
+𓍿 carun Green ⇔ cyan  
 🍏 gouron 果 grün ⇔ grass *range  
-🍎 gourd  果 red karim kirsche 果水 guǒrshui  
-💗 cared cardi coeur carne(skin/meat) 肉 ròu.de red ⇔ tan 卵  
+𓇥 Korn Korb green 𓇧𓇦 leav/flax? 𓏜𓇩𓇪  
+𓎛 𓆰 𓈖  green Hrn  
+𓆰 Hrn green  
+𓇉 Hr green / noire?  
+𓇅 (g)rein green reed  
+𓆼 ChA green  
+𓆭 green verd vs red  
+𓏭 bi blue vs 𓇌 𓎛 𓇋 𓐍 green  
+𓊪  pool 青 (ao) blau/green!  
+𓈙 azure wasser blue pool 𓈜 𓈛 vs 𓈙 schwatt  
+𓆷 swamp schwatt 𓈙  
+𓈞𓈟 braune brühe Brunnen ? ⇔ blaun-braun  
+𓆅 verd fur 𓇋  vs shur 𓆄 schu jaune (green+yellow)  
+
+𓅱 Huhn 🐤 huáng 黄黃焕  𓏲 🌔  
+𓄣 men 💛 moon 🌔 🍋 𓏠  
+𓏲 warqu = red@  
+𓆈 salamander (green)  
+𓆄 schur jaun  
+
+𓍿𓅓𓋴𓏞 crimson kırmızı クリムゾン  🔴⚫  
+𓍃 Schlitten tan den = oxi ⋍ 赤 aka rot⇔not  
+𓂝 dan 丹 tan tain dar der(red)  
+𓃓 taurind (red) vs 𓄛𓄜?  
+𓂧 dar der(red) ^^  
+𓂧 'chir kir 🔴 🍎 vs 𓐍 kara/gry  
+𓇳 red sun-rad 🔴  
+𓆱 ast ⋍ 赤 aka®  
+𓆱 ast ⋍ ocker ocre  
+𓎼 grimson red  
+𓎼 axe 🔺 𓎼 赤 aka® vs 𓆈 Echse (green?)  
+𓋴 𓊃 crimson red  
+𓋴 červen ⇔ KIR Red :  
+𓋴 ṣafrāʾ ʾáṣfar red safran!  
+🍎 gourd  果 red karim kirsche kırmızı 𓍿𓅓𓋴𓏞 果水 guǒrshui  
+💗 cared cardi coeur carne(skin/meat) kırmızı 𓍿𓅓𓋴𓏞 肉 ròu.de red ⇔ tan 卵  
+lolo le'lun লাল lal red vs lemon  
+𓂋 orange? ≠ mandel 🔸 ⇨ red  
+𓂋 rot core-mouth CRMTH ^^  vs  
+𓐍 charamde chromet KMT 'ballque' green/gray/blue/black  
+𓐍 kry 🍏 gray-green  
+𓆎 km green kermit  
+𓃀 red? but!? body color  
+𓄟 meso brown animals  
+
 🔸 'ourange 果 ⿈ 虫 chóng 紅 红 hóng vs gong 노랑 norange ƒ: sharad 🌞 💥  
 𓊖  赤 あか aka® ocre @ acre ⇔ 田,町,思,留,略,番 tian tan 丹 dunkel  
-〇 kyro:ice,snow clear pure bei.de Hei vs Hellicht  
+〇 kyro:ice,snow clear pure bei.de Hei vs Hellicht 🔵 vs 𓐍 kry 🍏 gray-green  
 🌣 cara clara sharad 🌞 shine ☼ sun 🌞 sonne jaune  
 𓇯 Patara PaRang = blue Assur Azur!  
+𓉔 Blue beith bhau 青 (ao) ⇔ hei? / huang : orange @wenzel  
+𓏏 	Blue ⇔ ptoma=bread?  
+𓋹 sank cyan ankerun : green  
+𓎿 base/vase black+red :(  
+𓏌 urn/noir black (+red :())  
+𓌀 𓌁 𓋾 giraffe cepter ⇨ yellow chryo  hexa vs 赤  
+🍋lemon le moon (yellow color) vs  
+🍋lemon = harbor ⇔ almond (shape+color)  
+𓇹 𓇺 🌙 ye lun ⋍ yellow ⇔ yol.de ⇔ gold  
+𓇺 Iahn Janus jaune (yellow)  
+𓆓 Djungelb jaune (yellow) 𓆑  
+𓄝 shot jaune (vs 𓄛𓄜 ??)  
+
+𓊽 djed JEDE Farbe (BPBGYR) rain reign  
+𓈐 rod RGB! :(  
+
+𓈎 blue/yellow ?  
+𓊪 pao ⋍ 青 (ao) blau / lü 绿  
+𓃀𓆓𓂂 > blue  نيرو  
+𓃀𓂧 > black  
+𓐍𓋴 > kara > gray > cir 𓐍 > sahrā > siyah > schwarz أسود‎, سوداء‎ ʾaswad sawdāʾ Schwatt  
+𓐍𓋴 > kék = blue @ HUN  
+𓐍 𓋴 𓃀 𓆓 𓈒 𓏥||lapis lazuli|caspic ore @ Caspian ⇔ azul azur أزرق 'azraq ⇔ iraq=green  
+𓐍 𓋴 𓃀 𓂧 𓈒 𓏥||blue, blue-black (of hair)|  
+𓐍 𓋴 𓃀 𓆓 𓂂||blue, blue-black (of hair)|  al'bastru 𓃀 𓆓 𓂂 @Romanian  
+𓇋 𓁹 𓏏 𓅂 𓈒 𓏥||blue| iridescent ⇔ iris cyan? žìlas  
+𓇋 𓁹 𓏏 𓅂 𓈒 𓏥||blue, colour, blue mineral ?|iridescent 파리 푸른 pearl ⋍white ← mavi[t]  ???  
+𓇋 𓁹 𓏏 𓏏 𓏊||milk| ferment?  
+𓇋 𓂋 𓏏 𓏏 𓏈||milk|←? yourthe / Fetter ⇔ butter / Euter Eiter / blue  
+
 
 SuRa[𓇳](𓇳) Suri=yellow ⇔ sur:yellow-green sar:green azur:green-blue!  
 zař زهڕ gold  
@@ -57,15 +146,39 @@ lefkonyha (levkos= white)
 
 Schwan swan gwen = white  
 
+
+
 𓇳 Hel hell hue 划 huà 画 huà (art) stroke s'dreck  
 𓇳 Hell hell ⋍ 𓎛  𓌈  𓆓  𓇶 white, bright ⇔ eyen 𓌈𓂂 oyn onion moyl 𓌈𓆓 milk mace 𓌈𓏤 mweiß Meissel 𓌈  𓏤  𓉐  Messe Muse  𓌈  𓏤  𓉐  𓅁 (bird - chapel)  
+
 
 [𓏠](𓏠)𓈖 Mauern (enclosures)  Mem-phis = "mauern-weiß" = white-walls 𓏠𓈖  
 𓄤 𓆑 𓂋 𓉴 schön/shine:fair⇔phis/weiß  
 
 54	fruit 	果物 	くだもの 	kudamono	Gourdamon!果木 🌔🍋 木.da.ment	thing of tree!!  
-🍋lemon le moon (yellow color) vs  
-🍋lemon = harbor ⇔ almond (shape+color)  
-🌙 ye lun ⋍ yellow ⇔ yol.de ⇔ gold  
 
-Conclusion: Colors are strongly linked with metals, ores and celestial bodies.  
+Watercolors shuiro>水色 se/iro = color/range/jronj/  
+
+オレンジ (orenji) orange  
+青 (ao) blau ⇔ 藍色 (aiiro)  
+シアン (shian) cyan  
+褐色 (kasshoku) kastanie  
+茶色 (chairo) chai:tee  
+ピンク (pinku) pink  
+マゼンタ (mazenta) magenta  
+黄色 (kiiro) chyro gold/gelb クリーム色 (kurīmuiro)  
+水色 (mizuiro) mwasser ⋍ blue shuiro>色 se/iro = color  
+緑 (midori) mwood/tree : green  [iro=color]  
+クリーム色 (kurīmuiro) chyro-green cremate 𓅓 Yellow-green  
+インジゴ (injigo) indigo ⋍  
+菫色 (sumireiro) violet  
+
+クリムゾン (kurimuzon) crimson ⋍ 紅色 (kurenaiiro)  
+赤 (aka/chì) RED ^^ ;  
+深紅 (shinku) zink  shēn.ku deep red/yellow :  
+紅色 (beniiro) brown/[b]hóng  
+
+
+Conclusion: Colors are strongly linked with metals, fruites, ores and celestial bodies.  
+
+⚫𓐍 kara kuro is a perfect wanderword > 灰色 gray haiiro hēi  

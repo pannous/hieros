@@ -12,7 +12,7 @@ f	ЧϤ чϥ	-> phth 90
 g	Ⲍ	ⲍ	7	ϬZēbta	Ζ, ζ	z [z]  'Gji'	↔ Ⲅ	ⲅ	3	Gamma	Γ, γ	g [ɡ]  ⲌⲌ~NΓ~ng!
 [	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ
 h	Ϩ	ϩ	_	Hōri	(none)	h [h, ħ] ϩⲟⲟⲩ : hour/heuer/dhaoy/day
-K	Ϧ	ϧ _	Khay	(none)	x [x]  חה Schlaf~ ⲥϧⲏⲗⲟ
+K	Ϧ	ϧ _	Khay	(none)	x [x]  חה Schlaf~ ⲥϧⲏⲗⲟ, scrit~ⲥϧⲏⲧ⳼ (write)
 H	Ⲏ	ⲏ	8	hĒta	Η, η	ē / e [eː] *huηn	 Ϩϩ		Hōri:djhour!  ϢⲎⲦ = cent   N component (russian)  
 ;	Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ	th / t' [tʰ] circle turn
 i	Ⲓ	ⲓ	10	zaIn jYotan 	Ιj, ι	i [iː~j]  Mdj Ϫ	ϫ	ʒ
@@ -6228,8 +6228,8 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲥϧⲉ	 ↔ cqai 
 ⲥϧⲏⲟⲩⲧ (q) ↔ ⲥϧⲁⲓ 	 to be written
 ⲥϧⲏⲧ	 ↔ cqai 
-ⲥϧⲏⲧ⳼ ↔ ⲥϧⲁⲓ 	 to write
-ⲥqⲓ ↔ ⲥϧⲁⲓ 	 written copy
+ⲥϧⲏⲧ⳼ ↔ ⲥϧⲁⲓ 	 to write~scrit~ⲥϧⲏⲧ⳼
+ⲥqⲓ ↔ ⲥϧⲁⲓ 	 written copy~ⲥqⲓ
 ⲥϧⲟ 	 	m. plough-handle
 ⲥϧⲟⲩⲓ ↔ ⲥϧⲁⲓ 	 teachers
 ⲥϩⲓⲙⲓ , pl. ϩⲓⲟⲙⲓ 	 	f. woman, wife,female of animals
@@ -7451,11 +7451,11 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲭⲁⲕ 	 	pl. part of a bird
 ⲭⲁⲕ ⲉⲃⲟⲗ ↔  ⲥⲱⲕ 	 to pause
 ⲭⲁⲕⲑⲓ ↔ ⲕⲁⲕⲑⲓ 	 louse
-ⲭⲁⲕⲓ 	 	m darkness
+ⲭⲁⲕⲓ 	 	m darkness kaka@GR khaki ख़ाकी (xākī) / خاکی‎ (xākī), from Persian خاکی‎ (xâki)
 ⲉⲣⲭⲁⲕⲓ 	 vb to be, become dark
-ⲭⲁⲕⲕⲁⲙⲁⲩ , ⲕⲁⲕⲕⲁⲙⲁⲩ 	 	fsmall night owl
-ⲭⲁⲗⲏⲛⲟⲩⲥ 	 🇬🇷 m. bridle, harness
-ⲭⲁⲙⲉ ↔ ⲭⲙⲟⲙ 	 black
+ⲭⲁⲕⲕⲁⲙⲁⲩ , ⲕⲁⲕⲕⲁⲙⲁⲩ 	 	small night owl <<
+ⲭⲁⲗⲏⲛⲟⲩⲥ 	 🇬🇷 m. bridle, harness ~ ⲭⲁⲗⲏⲛⲟⲩⲥ ++++
+ⲭⲁⲙⲉ ↔ ⲭⲙⲟⲙ 	 black chemie/chrome/grayma/schwamtz
 ⲭⲁⲙⲉⲩ ↔ ⲭⲙⲟⲙ 	 black
 ⲭⲁⲙⲏ ↔ ⲭⲙⲟⲙ 	 black
 ⲭⲁⲛⲥⲣⲱϥ 	 	n. name of a field pest
@@ -7474,15 +7474,15 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲭⲃⲁ 	 	n. compulsion, forced labor
 ⲭⲃⲟⲃ , (q) ⲕⲏⲃ , (q) ⲕⲏⲡ 	 	vi tobe, become cool; qual. cool; makecool
  	 m. coolness
-ϯⲭⲃⲟⲃ 	 make cool
-ϭⲓⲭⲃⲟⲃ 	 get cooling,refreshment,
-ⲕⲃⲱⲟⲩ 	 n. coolness
-ⲧⲕⲃⲟ 	 make cool
+ ϭⲓⲭⲃⲟⲃ 	 get cooling,refreshment,
+ⲕⲃⲱⲟⲩ 	 n. coolness < cvoor
+ ⲧⲕⲃⲟ 	 make cool
+ ϯⲭⲃⲟⲃ 	 make cool
 ⲭⲉ	 ↔  qa 
 ⲭⲉⲗⲙⲓ 	 	f. unknown
 ⲭⲉⲗⲭⲁⲭⲱϥ 	 	pl. abscess, tumor
-ⲭⲉⲙⲓ ↔ ⲭⲙⲟⲙ 	 black
-ⲭⲉⲙⲥ ↔ ⲭⲣⲉⲙⲣⲱⲙ 	 darkness
+ⲭⲉⲙⲓ ↔ ⲭⲙⲟⲙ 	 black : chemie : ++
+ⲭⲉⲙⲥ ↔ ⲭⲣⲉⲙⲣⲱⲙ 	 darkness <> chrome/khmer χμηρ ++
 ⲭⲉⲙⲧⲥ ↔ ⲭⲣⲉⲙⲣⲱⲙ 	 darkness
 ⲭⲉⲡ	 ↔ ,wp 
 ⲭⲉⲣ	 ↔ ,wr 
