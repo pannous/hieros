@@ -1,2 +1,2 @@
 [𓏁](𓏁)  
-[[Bad Linguistics]]
+[[Bad Linguistics]]  
