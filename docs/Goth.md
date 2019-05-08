@@ -1,3 +1,5 @@
+See [[Getae]]  
+
 Experts of proto-indo-european say that the word GOD comes from gush  
 
 Egyptian offers no evidence here:  

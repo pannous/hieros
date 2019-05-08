@@ -1,4 +1,6 @@
-Naga 𒀱 𓃶 aNKar [[𓋹]]𓈖𓐍 ankaras cross 🕂  
+Nagar 𒀱 𓃶 aN[[Kar]] ⚓ [[𓋹]]𓈖𓐍 ankaras cross 🕂  
+
+Nagar = Sahar [[𓊖]] sacred holy court!  
 
 [𓊻](𓊻) KurNugia netherworld necropolis 𒀭𒆠𒁴 anecearth 𓃶𓋹 curse=bury  
 [𓊹](𓊹)𓌨𓂋𓈉 Negro  netherworld khell⇔kill?  
