@@ -11,6 +11,7 @@
 𓇋𓏏𓂋𓈘 water>vtr>iter  
 
 The double Feather was a prominent symbol for Westerners:  
+![Egyptian_races](https://user-images.githubusercontent.com/516118/57413658-84712300-71e4-11e9-9abf-aa2ace4098ac.jpg)
 
 The double Feather was a prominent symbol of power: 𓋛  
 𓋛 'Shuti' feather crown vs 𓋚 ꜣtf-crown  

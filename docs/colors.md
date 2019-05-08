@@ -1,14 +1,13 @@
-
 https://en.m.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian  
 
 Rang/range = color  
+see rank/[[race]]  
 
 rəng reňk renk rengarenk 𐭫𐭭𐭢‎ (rang) রং (rông) رنگ‎ (rang)  
 ... orange naranga tauranga ኣረንጓዴ (ʾarängʷade) = har'ranga=green ⇔ hari<sari<sahari<gari<kari>kaji...  
 
 වර්ණ (varṇa) <<  
 barba, barva, Farbe!!  
-
 Many hieroglyphs are coloured, though the paint has worn off most stone inscriptions. Colors vary, but many glyphs are predominantly one colour or another, or a particular combination (such as red on the top and blue on the bottom). In some cases, two graphically similar glyphs may be distinguished solely by colour, though in other cases it's not known if the choice of colour had any meaning.  
 
 well attested color words:  
