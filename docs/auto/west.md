@@ -1,6 +1,6 @@
-[[𓊿]] Amun #IMNT #immense  
-[[𓅆]] Greif غَرْب ‎ḡrb غُرَاب‎ ḡurāb Rabe 𓅂 [[big]]  
-[[𓅆]] غَرْب ‎ḡrb qərb ... ⇔  ערובה‎ ʿrōbā Europe  
+[[𓊿]] Amun #IMNT immense “west” 
+[[𓅆]] Greif غَرْب ‎ḡrb غُرَاب‎ ḡurāb Rabe [[big]]  
+[[𓅆]] غَرْب‎ gharb “west” qərb ... ⇔  ערובה‎ ʿrōbā Europe  
 𓆄𓅱𓏏𓁸||feather| 𓆄v𓅱t𓏏3[[𓁸]] vs shoot [[𓄝]] ⇔ Scots  
 𓆄𓏏𓏤 feather 𓆄𓅱𓏏𓆃  
 [[𓆄]][[𓏏]]⋍𓋀 փետուր pʿetur թեպուր >  [[feather]] पश्चिम paści باختر‎ bāxtár > вест, vest > West ⇔ vast  
@@ -34,6 +34,7 @@ The modern connotations of 'Lybians' have little to do with the Egyptian [[ethno
 𓍿 𓅓 𓎛 𓌙 𓀀||Libyan| Domehr ⇔ Demos 'Free Folks' @Liberia ?  
 𓍿 𓅓 𓎛 𓌙 𓀀||Libyan| Commoner ⇔ [[Human]]  
 𓍿 𓅓 𓎛 𓌙 𓀀||Libyan| Cimbri vs Karsaha?  
+𓍿 𓅓 𓎛 𓌙 𓀀||Libyan| Cembri > 𐤏𐤓𐤁‎ ʿereb > **Serbian**?  
 𓍿 𓅓 𓎛 𓌙 𓀀||Libyan| Cambretan vs Saxons? ⇔ [[tin]] !  
 𓍿 𓌙 𓎛 𓏌 𓏌 𓈀 𓏌||(locality) Libya|⋍Sahara!  
 𓍘 𓅓 𓎛 𓇋 𓌙 𓀀 𓏥 𓁐||Libyans| *Admahians ? Tamericans? ⲙⲉϩⲓ=feather  
@@ -61,7 +62,7 @@ The modern connotations of 'Lybians' have little to do with the Egyptian [[ethno
 غَرَبَ‎ ḡaraba, “to set”, “to go down” ⇔ [[gir]] [[Geber]]  
 غَرْب‎ gharb, “occident, west”  
 𒌓[[𒋙]] erebu, “to set, occident, west” (Akkadian)  
-𐤏𐤓𐤁‎ ʿereb Abend  
+𐤏𐤓𐤁‎ ʿereb Abend vs Arab! 
 [[𓊿]] ምዕራብ məʿrab מערבא‎ ma‘rbā  
 мағриб (tg) (maġrib) => Magreb  
 மேற்கு (ta) (mēṟku) ⇔ [[Merkur]] [[Amerika]]  
