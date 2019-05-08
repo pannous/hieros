@@ -8,7 +8,7 @@ tat = this
 tatra = there, in that, that-r
 tu = too (and, moreover)
 purusa = pure awareness
-atha = now
+atha = after
 yoga = process of yoking; union 
 ânusâsanam = anu.session; teaching, exposition
 vrtti = patterning, turnings, movements ~ vrrt=[Ge]Fährt:chariot
@@ -84,13 +84,45 @@ sva = own	[sualf]
 vâhî = flowing  [water way]
 vidu.sah = wise sage
 rûdhah = rooted
+teṣām =  twosome (sex)
+adhyāpyaḥ ? taught
+na = not
+
+
 II.10 ...
 
 https://en.wikipedia.org/wiki/List_of_Sanskrit_and_Persian_roots_in_Hindi
+suffixes:
+-अ -a -von ~= :
+-य -y -von/de
+-व -va -von
+-अक 'ak = 's
+-क -aka '-cul' diminutive: e.g. puer > पुत्र → पुत्रक putra → putraka 'little son/darling'
+-मय -made
+-त्व -tum
+-तुम् -tum -tvm / -en eat->Essen खादितुम्
+-त्वा -tva ~ -ed -en [done]  (conquerEd, eaTen)
+-ति -ty भव be -> भवति bhavati being/become <> posess पास 'pass' > 
+
+भवति bhavati happen => HAVE / Hat > has > yes
+Magadhi Prakrit: [script needed] (>>hoti<<)
+        Assamese: হয় (hoy)
+        Bengali: হয় (hôy)
+    Maharastri Prakrit: 𑀳𑁄𑀇 (hoi)
+        Marathi: असणे (asṇe), होणे (hoṇe)
+    Sauraseni Prakrit: 𑀪𑁄𑀤𑀺 (bhodi)
+        Old Hindi: अहै (ahai)
+            Hindi: है (hai)
+        Sindhi: आहे (āhe)
+        Punjabi: ਹੈ (hai)
+        Nepali: हो (ho)
+        Gujarati: હોય (hoy)
+
+तद् that
 अग्नि- (agni-)
 अभि- (abhi-) 	ambi-/ἀμφί-	अभि (above, over, upon!, to, towards, into, a-bi:both) <> 
 अधि- (adhi-) 	*aftir epi-, meta-	
-अति- (ati-) 	*aftir super-
+अति- (ati-) 	*after super-  अधि (over, above, upon, after)
 आत्म- (ātma-) 	automa auto-, self-
 अप- (ap-) 	ab-
 अव- (av-)		ab- (down, off, away)
@@ -109,7 +141,7 @@ https://en.wikipedia.org/wiki/List_of_Sanskrit_and_Persian_roots_in_Hindi
 अंतर- (antar-) 	inter-
 अंश- (amsh-)	part??
 kālik	clock:time
-कम- (kam-) 	min- 	Persian 	کم (kam)  (low, little, small) <<
+कम- (kam-) 	min- KAUM- 	Persian 	کم (kam)  (low, little, small) ++
 कठ- (kath-), काठ- (kaath-) 	wood-cut-  xylo-
 काष्ट- (kāṣt-)	cut! (wood) Kastanie
 -काय (-kāya) 	-Körper! -some, -soma
@@ -118,17 +150,17 @@ kālik	clock:time
 ख़ुश- (khuś-) 	good-, eu-
 ख़ून- (khoon-) 	خون (xun) (blood, gore) 	血 [血] xuè [ZOOL.]	chong:RED!
 पीत- (pīt-) 	xanth- 	Sanskrit 	पीत (yellow)
-गाव- (gaav-)	cow/gau Kuh
 गो- (go-)	cow/Kuh
+गाव- (gaav-)	cow/gau Kuh	 गावशुमारी (gaavśumārī) = cow census
 ग़ैर- (ġair-) 	non- 	KEIrN! Arabic 	غير (ghayr) (non-, un-)
-चल- (chal-)	<> car:move!  schalten&walten
+चल- (chal-)	<> car:move!  shall...schalten&walten
 चित्र- (chitra-)  picture <> titur title! @ EG!!
-छद्म- (chadm-) 	pseudo- ^^ camouflage
+छद्म- (chadm-) 	pseudo- ^^ छद्मावरण (chadmāvaraɳ) = camouflage
 -ज़दा (-zadā)	زده (beaten, hit) <> zeit?
 -जन (-jan) 	-gen !!! <<<
 जन- (jan-)	-ian!! जन (people) <> genesis gonies=familie!
 जीव- (jīva-) 	bio- live- +++
-जल- (jal-) 	aqua- ^^ <<??? schwall??<<<
+जल- (jal-) 	aqua- QUELL^^ > schwall
 ताप- (tāp-)	temp- therm- (heat)
 तारा- (tārā-)	 star- astra- stellar-
 तुषार- (tuṣār) 	cryo- 	तुषार (cold, ice, frigid)???
