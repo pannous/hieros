@@ -6,7 +6,7 @@ For most common signs see  ["The Alphabet"](Alphabet)
 
 [signs with meaning](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/index.html)  
 [all signs](http://rhbarnhart.net/Aegyptus_character_list.html)  
-[table](gardiner-all)  
+[unicode table](gardiner-all)  
 
 Ga.|sign|see|comment  
 ---|--|--|--  

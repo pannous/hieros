@@ -1,6 +1,8 @@
-Mummy (sˁḥ) zaher Sarmh Charm Saḩar?  
+𓀿 Mummy (sˁḥ) zaher Sarmh Charm Saḩar?  
 
-The English word mummy is derived from medieval Latin mumia, a borrowing of the medieval Arabic word mūmiya (مومياء) and from a Persian word mūm (wax/bitumen)  
+The English word mummy is derived from medieval Latin mumia, a borrowing of the medieval Arabic word mūmiya (مومياء) and from a Persian word mūm (wax/bitumen). Really?  
+
+𓏠𓈖𓇋𓐪𓁀 'die'  ⇔ Memnon, Amun, muer[death] ?  
 
 Natural mummies Ötzi and in Sahara ≥ 3500 BC.  
 
@@ -29,3 +31,5 @@ The radiocarbon dates from one of the skeletons were older than the dates obtain
 
 ### Mexico  
 Intentional mummification in pre-Columbian Mexico was practiced by the Aztec culture. These bodies are collectively known as Aztec mummies.  
+
+See [[PIE]] for red haired mummies in egypt.  

@@ -1,7 +1,7 @@
 Gypsies have they name from the fact that they claim to come from Egypt.  
 Their ancestry goes back to India: Sinthi and [Roma](https://en.wikipedia.org/wiki/Romani_people)  
 Thus ethnically they are grouped as indo-aryan.  
-The Dom (also called "Doma" and "Domi"; Arabic: دومي‎ / ALA-LC: Dūmī , دومري / Dūmrī ; Egyptian Arabic: هناجره‎ Hanagra )  
+The Dom (also called "Doma" and "Domi"; Arabic: دومي‎ Dūmī , دومري / Dūmrī ; Egyptian Arabic: هناجره‎ Hanagra )  
 they speak the [Romani](https://en.wikipedia.org/wiki/Romani_language) language  
 Interestingly Roman(ⲣⲱⲙⲓ) in coptic means human.  
 
@@ -12,7 +12,7 @@ present imperative - ker! ⇔ [𓂓](𓂓) kar = work
 te ker.el -to do ⇔ [𓂓](𓂓) ⇔ kardan karman …  "takecare"  suffix -l 3rd person  
 te [ha](Hase).l - to eat  
 
-[pronouns](Pronouns) are quite European:  
+Being an Indo-Aryan language, their [pronouns](Pronouns) are quite European:  
 
 | person | singular |	plural |  
 |--------|----|----|  

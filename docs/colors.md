@@ -1,91 +1,103 @@
 
 https://en.m.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian  
 
+Rang/range = color  
+
+rəng reňk renk rengarenk 𐭫𐭭𐭢‎ (rang) রং (rông) رنگ‎ (rang)  
+... orange naranga tauranga ኣረንጓዴ (ʾarängʷade) = har'ranga=green ⇔ hari<sari<sahari<gari<kari>kaji...  
+
+වර්ණ (varṇa) <<  
+barba, barva, Farbe!!  
+
 Many hieroglyphs are coloured, though the paint has worn off most stone inscriptions. Colors vary, but many glyphs are predominantly one colour or another, or a particular combination (such as red on the top and blue on the bottom). In some cases, two graphically similar glyphs may be distinguished solely by colour, though in other cases it's not known if the choice of colour had any meaning.  
 
+well attested color words:  
 
-𓌈  𓏏 mwhite mweißel  
-𓎗 white #wD word writ weavt reeft mwoD mot@French  
-𓋑  wHUT white hat (#HDT)  
-𓌉 white rute #HD  
 𓍿 𓅓 𓋴 𓏞|kırmızı|red, ruddy, violet| kırmızı ⇔ Kirsch karmir karim chroma carnelian (skin/meat)  
-𓎡 𓄿 𓅱|carun|GREEN/GRÜN| gwyrdd@cym!!  
+𓎡 𓄿 𓅱|carun|GREEN/GRÜN|grün ⋍ gwyrdd@cym ⋍ verd  
 
-
-𓈍 crown chroma ⋍ x*range rain-bow  
-
-⚫ kara kala : black color 𓐍 汚い ki'tan 黒 kuro काली kaalee сиёҳ কালো kalo  
-𓈎 kara kala kaspian blue(que)  
+⚫ kara kala : black color 𓐍 黒 kuro काली কালো kalo  
+𓐍 graun Green color chlora [[𓐍|https://en.m.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian#𓐍]]  
 𓐍 grau ≠ chrome chroma carne(skin/meat) 黒 kuro 灰色 haiiro hēi  
-𓐍 graun Green [[https://en.m.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian#𓐍]]  
 𓎡 carun Green  
 𓎟 calla 𓎡 chlor color (green)  
 𓍿 carun Green ⇔ cyan  
 🍏 gouron 果 grün ⇔ grass *range  
-𓇥 Korn Korb green 𓇧𓇦 leav/flax? 𓏜𓇩𓇪  
+𓇥 Korn Korb green 𓇧𓇦 leaf/fresh:flax? 𓏜𓇩𓇪  
 𓎛 𓆰 𓈖  green Hrn  
 𓆰 Hrn green  
 𓇉 Hr green / noire?  
 𓇅 (g)rein green reed  
 𓆼 ChA green  
 𓆭 green verd vs red  
-𓏭 bi blue vs 𓇌 𓎛 𓇋 𓐍 green  
+𓐍 kry 🍏 gray-green  
+𓆎 km green-black kermit 검 𓐍 𓆈  
+𓆈 salamander (green-yellow yashil/sary) zeleno Selen = moon (silent)  
+𓆅 verd first 𓇋 fur 𓇌  vs 𓆄 schu:  
+𓆄 shu yellow+green schur/jaun ^^  
+𓇌 𓇋 [green 𓆅] vs 𓏭 baby blue flieder fiedern  
+
 𓊪  pool 青 (ao) blau/green!  
 𓈙 azure wasser blue pool 𓈜 𓈛 vs 𓈙 schwatt  
 𓆷 swamp schwatt 𓈙  
 𓈞𓈟 braune brühe Brunnen ? ⇔ blaun-braun  
-𓆅 verd fur 𓇋  vs shur 𓆄 schu jaune (green+yellow)  
+
+𓌈  𓏏 mwhite mweißel  
+𓎗 white #wD word writ weavt reeft mwoD mot@French  
+𓋑  wHUT white hat (#HDT)  
+𓌉 white rute #HD  
 
 𓅱 Huhn 🐤 huáng 黄黃焕  𓏲 🌔  
 𓄣 men 💛 moon 🌔 🍋 𓏠  
-𓏲 warqu = red@  
-𓆈 salamander (green)  
-𓆄 schur jaun  
+𓇺 Iahn Janus jaune (yellow-silver) ⇔ argent  
+𓇹 𓇺 🌙 ye lun ⋍ yellow ⇔ yol.de ⇔ gold  
+𓇹 𓇺 🌔 zeleno Selen = moon (silent) żółty  
+🍋 lemon le moon (yellow color) vs  
+🍋 lemon = harbor ⇔ almond (shape+color) ≠ 𓂋 red orange  
+𓌀 𓌁 𓋾 giraffe cepter ⇨ yellow chryo  hexa vs 赤  
+𓆓 Djungelb jaune (yellow) 𓆑  
+𓄝 shot ⇔ scot?  (vs 𓄛𓄜 ??)  
 
-𓍿𓅓𓋴𓏞 crimson kırmızı クリムゾン  🔴⚫  
+𓍿𓅓𓋴𓏞 crimson kırmızı クリムゾン [[charm]] 🔴⚫ Kirsch-Rot  
+𓂓 kar Körper-Rot [[𓆣]] 𓂓 καρκίνος 🦀  
+𓇳 [[red]] sun-rad 🔴  vs 🌞 Sára/sary@Turk,Ural,Sem > žǎlt > geld  
 𓍃 Schlitten tan den = oxi ⋍ 赤 aka rot⇔not  
 𓂝 dan 丹 tan tain dar der(red)  
-𓃓 taurind (red) vs 𓄛𓄜?  
 𓂧 dar der(red) ^^  
 𓂧 'chir kir 🔴 🍎 vs 𓐍 kara/gry  
-𓇳 red sun-rad 🔴  
+𓃓 taurind (red) vs 𓄛𓄜?  
 𓆱 ast ⋍ 赤 aka®  
 𓆱 ast ⋍ ocker ocre  
 𓎼 grimson red  
 𓎼 axe 🔺 𓎼 赤 aka® vs 𓆈 Echse (green?)  
-𓋴 𓊃 crimson red  
-𓋴 červen ⇔ KIR Red :  
-𓋴 ṣafrāʾ ʾáṣfar red safran!  
+𓊃 kymson ⋍ crimson / zafran 𓋴 Red   𓎭𓎆𓎅?  
+𓋴 červen ⇔ KIR Red ⇔ 𓋴 Sofa Kissen  
+𓋴 ṣafrāʾ ʾáṣfar red/yellow safran!  
+𓏲 warqu = red/yellow safran  
 🍎 gourd  果 red karim kirsche kırmızı 𓍿𓅓𓋴𓏞 果水 guǒrshui  
 💗 cared cardi coeur carne(skin/meat) kırmızı 𓍿𓅓𓋴𓏞 肉 ròu.de red ⇔ tan 卵  
 lolo le'lun লাল lal red vs lemon  
 𓂋 orange? ≠ mandel 🔸 ⇨ red  
 𓂋 rot core-mouth CRMTH ^^  vs  
 𓐍 charamde chromet KMT 'ballque' green/gray/blue/black  
-𓐍 kry 🍏 gray-green  
-𓆎 km green kermit  
-𓃀 red? but!? body color  
+𓃀 b'n ⋍ brown punic@FIN pink body red⇔regel 𓃀  
 𓄟 meso brown animals  
 
 🔸 'ourange 果 ⿈ 虫 chóng 紅 红 hóng vs gong 노랑 norange ƒ: sharad 🌞 💥  
 𓊖  赤 あか aka® ocre @ acre ⇔ 田,町,思,留,略,番 tian tan 丹 dunkel  
 〇 kyro:ice,snow clear pure bei.de Hei vs Hellicht 🔵 vs 𓐍 kry 🍏 gray-green  
 🌣 cara clara sharad 🌞 shine ☼ sun 🌞 sonne jaune  
-𓇯 Patara PaRang = blue Assur Azur!  
+𓇯 Patara PaRang = blue Assur Azur!  🔵 Jupiter?  
 𓉔 Blue beith bhau 青 (ao) ⇔ hei? / huang : orange @wenzel  
 𓏏 	Blue ⇔ ptoma=bread?  
 𓋹 sank cyan ankerun : green  
 𓎿 base/vase black+red :(  
 𓏌 urn/noir black (+red :())  
-𓌀 𓌁 𓋾 giraffe cepter ⇨ yellow chryo  hexa vs 赤  
-🍋lemon le moon (yellow color) vs  
-🍋lemon = harbor ⇔ almond (shape+color)  
-𓇹 𓇺 🌙 ye lun ⋍ yellow ⇔ yol.de ⇔ gold  
-𓇺 Iahn Janus jaune (yellow)  
-𓆓 Djungelb jaune (yellow) 𓆑  
-𓄝 shot jaune (vs 𓄛𓄜 ??)  
 
+𓈍 crown chroma ⋍ x*range rain-bow  
 𓊽 djed JEDE Farbe (BPBGYR) rain reign  
+𓋛 bunte plume blume? 𓋛 Shuti ⇔ 2*𓆄 Schutz  
+𓅭 bunte bint (Tochter)  
 𓈐 rod RGB! :(  
 
 𓈎 blue/yellow ?  

@@ -1,12 +1,17 @@
 KUR international mega root of urbanization (and Egyptian variants)  
 
-𓊖 √QVR(t)² ⊕  < G-B-R 🏔  
+𓊖 √QVR(t)² ⊕  < G-B-R 🏔  > G-R-B [[𓅨]]  
+
+The central meaning of KUR was:  
+Height,center⇨mountain,hill,city,land⇨culture,court,work𓂓⇨...  
+center,core⇨grain,heart,meat⇨...  
+circle⇨𓊖𓐍𓇳⇨ ... 𓂻 gir ⇔ [[𓇾]]TER > CER  
 
 [𓀠](𓀠) qR(t) heigh(t)⋍great 𓈎𓄿𓏏𓀠  চওরা  
 [[𓅨]] very great [[𓅨]]𓂋𓏏 √gVrt  
 [𓈊](𓈊) kur(t) ⋍ (high)land 𒆳 KUR 𓈉 ≠ 𓈊 山  
-[𓈉](𓈉) kur ⋍ mountain (kur, gora, гора, gaara, ghor, har, 'ariya, 'urqu, ἄκρα, кӯҳ, koh,  
- сан …)  
+[𓈉](𓈉) kur ⋍ mountain (kur, gora, гора, gaara, ghor, girí, kĩrĩma, кӯҳ, koh, har הר‎, 'ariya, 'urqu, ἄκρα,  
+ сан սար sɑɾ cerro ܛܘܪܐ‎ … पहाड़ pahāṛ, grabis)  
 [𓊎](𓊎) cairn of grain 𓇤  
 [𓈎](𓈎)𓄿𓇋𓇋𓈒𓏥𓊎 grains / cairns  
 [𓊖](𓊖) Gorod 𓊖𓏏𓏤 ⋍ city quarters 𓊖 (tall tell Teil 𓇸𓇷𓊕𓈇𓏤 town 장 [[ting]])  
@@ -15,19 +20,39 @@ KUR international mega root of urbanization (and Egyptian variants)
 [[𓇾]] 𒆳 KUR cer ter terrain territory [[3]] 𐀳 𓇾 𓈉 ≠ 𓈊 山 三 shanze sān  
 [𓌨](𓌨)𓌨 Kerker = Karzer Kur™ ⋍ gaol   vs  
 [𓌨](𓌨) Kurgan | church ⋍ care, cure  
-[𓂓](𓂓) Kar = kWerken ergon urge work ⇔ kardan कर्मन् kárman …  
+[𓄤](𓄤)[𓄣](𓄣)♡ cardio > heart care core  
+[𓌨](𓌨) Kvr קיר 𓇤 郭 > Wehr, wall 𓉖 𓊋  
+[𓊨](𓊨) Kar = Stand/Stadt  
+[𓉗](𓉗) guard горт gort घर = Home गृह Gare [[𓉔]] 𓉐 gida koti 家 = gaa (vs dom=pig) fogar  
 [𓉗](𓉗)𓏏𓏏𓈉 quarry / Hütte @ KUR 𓈉 church ⲉⲕⲕⲗⲏⲥⲓⲁ [[𓊹]] ?  
 [𓉗](𓉗) 𓊖 qvr 4 vs [[𓈉]] cir 3,14 𓊖  
-[𓊔](𓊔) carne ⋍ provisions 𓂋 corn kern grain 𓇤 𓇠 𓈒𓈒𓈒 𓈒 𓌽 gerste  
+[𓊋](𓊋) court curved corner ⇔ 𓀄 [[cover]]  
+[𓂓](𓂓) Kar = kWerken ergon urge work ⇔ kardan कर्मन् kárman …  
+[𓊔](𓊔) carne 𓉓 খানা ⋍ food caro (“flesh”) red 𓂋 ⇔ 𓂋 corn kern grain 𓇤 𓇠 𓈒𓈒𓈒 𓈒 𓌽 gerste  
 [[𓇤]] cairn [𓊎](𓊎) of grain 𓊘 grainery  
 [[𓇏]]  χώρα χωρίον ἀγρός Acker acre agro akura ⲕⲟⲓ scot? 𓐍𓏏[[𓇏]]𓈅 𐀏𐁀  
 [[𓆷]]𓈇𓏤 𐀀𐀒𐀫𐀸 a-ko-ro-we γεώργιον georgion ⲓⲟϩⲓⲭ  
 [𓐍](𓐍)𓂋𓉐 ⛼ kurgan/grave/churche  𒆠𒈤 : tomb karner charnel  
-[𓊻](𓊻) KurNugia carnārium netherworld necropolis 𒀭𒆠𒁴 anecearth 𓃶𓋹 curse=bury  
-[𓊹](𓊹)𓌨𓂋𓈉 negro  netherworld khell⇔kill?  
+[𓊻](𓊻) KurNugia carnārium netherworld necropolis 𒀭𒆠𒁴 anecearth 𓃶𓋹 curse=bury ⇔ 𓏌𓏌𓏌 (n)urn  
+[𓊹](𓊹)𓌨𓂋𓈉 negro necropolis नगर nagar vs शहर śahar Naukratis? netherworld khell⇔kill? քաղաք 𓈖𓌰𓅓𓂝𓁀 nächten  
+[[𓊭]] 𓈎𓂋𓋴𓅱𓊭 grave गृह curse™ Sarg@kurgan@Kasach qabaru qbara qboro = bury 𓏂  𓐍𓊪𓏏𓏱 [death]?  
+[[𓁀]] cradle 𓊃𓇥𓂋𓇋𓇋𓏏 𓁀 vs snore  
+[𓊿](𓊿) ערב = غراب ghurab Rabe [[𓅆]] Greif > Horvs > avis  
+[𓊿](𓊿) ערב = غَرْب‎  ḡarb (west𓋀) Arb = Abend-Land  ⇔ garb=part 𓋴𓁷𓂋𓀜?  
 [𓋓](𓋓)[[𓋘]] crown ⲁⲛϫⲱϫ AnKuron 円𐘮⋍京 *KRAŊ=京  
+[𓐍](𓐍) gray kara kala[de]: dark color  𓋴𓈎𓂋𓌪 scar ⇔ 𓊿𓊻  
 𓈎𓂋𓂋𓊡  storm (-cloud)|coort कोहरा kohrā.di grottig > cloudy  4 Kur-Winde™  
-𓌨 𒆠 country, lower 𓌨, down below  
+current  
+[𓎼](𓎼)𓎼𓂋𓎛 кар (kar) deaf ⇔ 𓋴𓎼𓂋𓎛𓂢𓏛 secure  
+[[𓌗]] cord,Kord ⇔ 𓋴𓌗𓂋𓎗𓅱𓆓𓏛 secure = 𓋴𓂋𓌗 ⋍ 𓊃𓐍 ⇔ 𓊃𓈎𓄿𓀏𓋹  
+[[𓎡]]𓄿𓀁 care / calm ϥⲁⲓⲣ ⇔ ϫⲓⲛϥⲓⲣ anxiety/thinker ⲱⲟⲩϣ worries  
+[[𓂝]] cheiro => care 𓂝𓍯𓂡 careful! 𓁹𓉔𓂋𓏜  𓎔? ⇔ 𓍿𓎛𓅱𓄑𓏥 ?  
+[[𓇥]] Korb / cure / kerker ⇔ carpet?  
+[[𓂙]] crew ⇔ 𓐑 𓏥 oar  
+[[𓂚]] guerre/archer  
+[[𓂋]] core/corn/grain ⇨ ghair עִיר ⇨ UR ⇨ 'R' ⇔ (pi)rinç, oriz, rice चावल 쌀 ≠ [[saat]]  
+𓐍𓂋/𓎼𓂋 car gar cause core > और and/or for gar>ja  
+𓌨 KUR 𒆠 country, lower 𓌨, down below kar-dan  
 𒊹 ŠAR 3600 ⋍ [𓅨](𓅨) Schar ⇔ [𓐍](𓐍) Gyro  
 
 1000 connotations but all lead to above 4 roots connected with 𓊖  
@@ -53,18 +78,19 @@ KUR international mega root of urbanization (and Egyptian variants)
 巨 kîr jù® gú® great  
 囚 qiú® KUR Kerker JURA  (口人kǒurén)  
 區 qū® 区 Kur district country cir-3 vs qvrt-4 :  
-器 qì®™ gear Gerät *kʰrɯd 그릇 geureut QED  
-家 jiā gear -ier  
+器 qì® gear Gerät *kʰrɯd 그릇 geureut QED  
+家 jiā -ier  vs Sau/[[dom]] طوموز‎  
 郊 jīao® suburb  
-崔	 cuī® KUR > cairn  
-崎	 qi2	qi®	mountainous  
+崔 cuī® KUR > cairn  
+崎 qi2	qi® mountainous  
 丘 qiū® KUR grave Kurgan cairn  
 谷 gǔ® corn grain  
 扩 kuò® grow  
-豪 haó 浩	haò 好 haǒ huge great  
+豪 haó 浩 haò 好 haǒ huge great  
 秋 qiū® kHerbst COURT  
 果 guǒir 과일 gourd ⛒ guava gvruit fruit  
 求 qiú® court query ⇔ shire 水  
+郭 guo® קיר > Wehr, wall 𓉖 𓊋 𓌨 Kvr  
 球 qiú® ⛒ Kugel ⇔ jouer jour jur jeu joy  
 舆 yú® world  
 구 GU® ⛒ Kugel (ball, balloon [[𓇷]][[𓇸]]) ¬soccer 축구공 golf 열  
@@ -76,10 +102,11 @@ KUR international mega root of urbanization (and Egyptian variants)
 古 Gǔ geo ♁ gero ghier 𓄤 gvair  
 苦 kǔ kummer(lich) 枯 kū karg  
 屈 qū®um krumm curved quer  
+过 [過] guò queren  
 傀	 guī® kuǐ® queer quer  
 器官 qì'guān=Organ ⇔ 犬 quǎn 狗gǒun 4 Canopic jars 器 crater gratia™  
 孔​丘 Kǒng Qiū Konquerer Konfuzi!?  
-岑	 cén	cairn  
+岑 cén	cairn  > shan [[𓈉]]  
 
 
 거리 Gøri 𓊖 court quarters / city grid …  
