@@ -1,0 +1,19 @@
+require('/me/dev/js/extensions.js')()
+for(line of read_csv("CELTIC.csv")){
+	if(!line.English)continue 
+	word=line.English.replace(/ .*/,"").trim()
+	console.log(word)
+	// continue 
+	for(eg of read_csv("../../my_egyptian_dictionary.csv")){
+		if(!eg[2])continue 
+			// console.log(eg[2])
+		// if(str(eg[2]).contains(word))
+		// if(eg[2].contains(word))
+		// 	console.log("~~~~~",word,eg.join("\t"))
+		if(eg[2].match(new RegExp("\\b"+word+"\\b")))
+			console.log(word,eg.join("\t"))
+	}
+	// console.log(line)
+	// console.log(len(line))
+// console.log(line[1])
+}

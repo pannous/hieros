@@ -1,66 +1,6 @@
 Sumerian Lexicon
 
 Version 3.0
-
-by
-John A. Halloran
-
-The following lexicon contains 1,255 Sumerian logogram words and 2,511 Sumerian compound words. A logogram is a reading of a cuneiform sign which represents a word in the spoken language. Sumerian scribes invented the practice of writing in cuneiform on clay tablets sometime around 3400 B.C. in the Uruk/Warka region of southern Iraq. The language that they spoke, Sumerian, is known to us through a large body of texts and through bilingual cuneiform dictionaries of Sumerian and Akkadian, the language of their Semitic successors, to which Sumerian is not related. These bilingual dictionaries date from the Old Babylonian period (1800-1600 B.C.), by which time Sumerian had ceased to be spoken, except by the scribes. The earliest and most important words in Sumerian had their own cuneiform signs, whose origins were pictographic, making an initial repertoire of about a thousand signs or logograms. Beyond these words, two-thirds of this lexicon now consists of words that are transparent compounds of separate logogram words. I have greatly expanded the section containing compounds in this version, but I know that many more compound words could be added.
-
-BCE-System
-Many cuneiform signs can be pronounced in more than one way and often two or more signs share the same pronunciation, in which case it is necessary to indicate in the transliteration which cuneiform sign is meant; Assyriologists have developed a system whereby the second homophone is marked by an acute accent ( ́), the third homophone by a grave accent (`), and the remainder by subscript numerals. [If the small font size prevents you from seeing whether the accent is acute or grave, click on View and Zoom and scroll up to 125%.] The homophone numeration here follows the 'BCE-System' developed by Borger, Civil, and Ellermeier. The 'accents' and subscript numerals do not affect the pronunciation. The numeration system is a convention to inform Assyriologists which, for example, of the many cuneiform signs that have the reading 'du' actually occurs on the tablet. A particular sign can often be transcribed in a long way, such asdug4, or in a short way, such asdu11, because Sumerian was like French in omitting certain amissable final consonants except before a following vowel. Due to this lexicon's etymological orientation, you will usually find a word listed under its fullest phonetic form. Transcriptions of texts often contain the short forms, however, because Sumerologists try to accurately represent the spoken language. Short forms are listed, but you are told where to confer.
-
-The vowels may be pronounced as follows: a as in father, u as in pull, e as in peg, and i as in hip. Of the special consonants, ñ is pronounced like ng in rang, þ is pronounced like ch in German Buch or Scottish loch, and š is pronounced like sh in dash .
-
-Following the definitions, the lexicon may indicate in a smaller font the constituent elements of words that in origin were compound words, if those elements were clear to me. Etymologies are a normal part of dictionary- making, but etymologies are also the most subject to speculation. It is possible that, in some cases, I have provided a Sumerian etymology for what is actually a loanword from another language. I encourage scholars to contact me with evidence from productive roots in other proto-languages when they have reason to believe that a Sumerian word is a loan from another language family. In light of the Sumerian propensity for forming new words through compounding in the period after they invented cuneiform signs, it should not be surprising to find this same propensity in words dating from before their invention of written signs. The structure and thinking behind the Sumerian vocabulary is to me a thing of beauty. We are fortunate to be able to look back into the minds of our prehistoric ancestors and see how they thought and lived via the words that they created.
-The lexicon's etymological orientation explains why the vocabulary is organized according to the phonetic structure of the words, with words sharing the same structure being listed together and alphabetically according to their final consonants and vowels, as this method best groups together related words. This principle has been abandoned after words of the structure CVC(V) in this version, as words that are phonetically more complex than
-
-1
-this do not group together by meaning. The phonetically more complex words and the compound words are listed alphabetically simply by their initial letters.
-The lexicon has been in development over a fourteen-year period. Primary sources included:
-A. Deimel, Šumerisches Lexikon; Rome 1947.
-E. Reiner et al., The Assyrian Dictionary of the Oriental Institute of the University of Chicago; Chicago 1956ff. W. von Soden, Akkadisches Handwörterbuch; Wiesbaden 1958-1981.
-R. Borger, “Assyrisch-babylonische Zeichenliste”, Band 33 in Alter Orient und Altes Testament (AOAT), Veröffentlichungen zur Kultur und Geschichte des Alten Orients und des Alten Testaments (Series); Kevelaer and Neukirchen-Vluyn 1978.
-R. Labat and F. Malbran-Labat, Manuel d'Épigraphie Akkadienne, 6o édition; Paris 1995 (this is the cuneiform sign manual used by most Sumerology students - it is available from Eisenbraun's - see my links page).
-M.L. Thomsen, The Sumerian Language: An Introduction to Its History and Grammatical Structure; Copenhagen 1984 (this well-done grammar is currently the standard text - if it is on back order at Eisenbraun's, ask your public library's Interlibrary Loan department to obtain it for you).
-J.L. Hayes, A Manual of Sumerian Grammar and Texts; Malibu 1990 (beginning students can start with this book before graduating to Thomsen- if available, order it from Eisenbraun's - see my links page).
-R. Jestin, Notes de Graphie et de Phonétique Sumériennes; Paris 1965.
-B. Landsberger, as compiled by D.A. Foxvog and A.D. Kilmer, "Benno Landsberger's Lexicographical
-Contributions", Journal of Cuneiform Studies, vol 27 (1975).
-H. Behrens and H. Steible, Glossar zu den altsumerischen Bau- und Weihinschriften; Wiesbaden 1983.
-K. Oberhuber, Sumerisches Lexikon zu “George Reisner, Sumerisch - babylonische Hymnen nach Thontafeln griechischer Zeit (Berlin 1896)” (SBH) und verwandten Texten; Innsbruck 1990.
-Å.W. Sjöberg et. al., The Sumerian Dictionary of the University Museum of the University of Pennsylvania; Philadelphia 1984ff. Letters B and A through Abzu have been published.
-M. Civil, unpublished Sumerian glossary for students.
-S. Tinney, editor, Index to the Secondary Literature: A collated list of indexes and glossaries to the secondary literature concerning the Sumerian Language, unpublished but now expanded and searchable at: http://ccat.sas.upenn.edu:80/psd/
-E.I. Gordon, Sumerian Proverbs: Glimpses of Everyday Life in Ancient Mesopotamia; Philadelphia 1959 (with contributions by Th. Jacobsen).
-D.C. Snell, Ledgers and Prices: Early Mesopotamian Merchant Accounts; New Haven and London 1982.
-P. Michalowski, The Lamentation over the Destruction of Sumer and Ur; Winona Lake 1989.
-C.E. Keiser and S.T. Kang, Neo-Sumerian Account Texts from Drehem; New Haven & London 1971.
-J. Bauer, Altsumerische Wirtschaftstexte aus Lagasch; Dissertation for Julius-Maximilians-Universität at Würzburg 1967 [appeared under same name as vol. 9 in Studia Pohl: Series Maior; Rome 1972].
-J. Krecher, "Die marû-Formen des sumerischen Verbums", Vom Alten Orient Zum Alten Testament, AOAT 240 (1995; Fs. vSoden II), pp. 141-200.
-K. Volk, A Sumerian Reader, vol. 18 in Studia Pohl: Series Maior; Rome 1997 (this practical, inexpensive book includes a nice, though incomplete, sign-list).
-B. Alster, The Instructions of Suruppak: A Sumerian Proverb Collection (Mesopotamia: Copenhagen Studies in Assyriology, Vol. 2); Copenhagen 1974.
-B. Alster, Proverbs of Ancient Sumer: The World's Earliest Proverb Collections, 2 vols; Bethesda, Maryland 1997.
-
-2
-Å. Sjöberg, Der Mondgott Nanna-Suen in der sumerischen Überlieferung; Stockholm 1960.
-V.E. Orel and O.V. Stolbova, Hamito-Semitic Etymological Dictionary: Materials for a Reconstruction
-(Handbuch der Orientalistik, Abt. 1, Bd. 18); Leiden, New York, & Köln 1995.
-M.W. Green and H.J. Nissen, Zeichenliste der Archaischen Texte aus Uruk [ZATU] (Ausgrabungen der Deutschen Forschungsgemeinschaft in Uruk-Warka, 11; Archaische Texte aus Uruk, 2); Berlin 1987.
-P.Damerow and R. Englund, Sign List of the Archaic Texts (electronic FileMaker database collection of ZATU signs occurring in catalogued texts from Uruk IV to ED II); Berlin 1994.
-P. Steinkeller, review of M.W. Green and H.J. Nissen, Bibliotheca Orientalis 52 (1995), pp. 689-713.
-J. Krecher, "Das sumerische Phonem |ñ|", Festschrift Lubor Matouš, Assyriologia 5, vol. II, ed. B. Hruška & G.
-Komoróczy (Budapest, 1978), pp. 7-73.
-M. Civil, The Farmer's Instructions: A Sumerian Agricultural Manual (Aula Orientalis-Supplementa, Vol. 5); Barcelona 1994.
-M. Krebernik, Die Beschwörungen aus Fara und Ebla: Untersuchungen zur ältesten keilschriftlichen Beschwörungsliteratur (Texte und Studien zur Orientalistik, Bd. 2); Hildesheim, Zurich, New York 1984.
-M.A. Powell, "Masse und Gewichte" [Weights and Measures: article in English], Reallexikon der Assyriologie und Vorderasiatischen Archäologie,.Bd. 7, ed. D.O. Edzard (Berlin & New York, 1987-90), pp. 457-517.
-K.R. Nemet-Nejat, Cuneiform Mathematical Texts as a Reflection of Everyday Life in Mesopotamia (American Oriental Series, Vol. 75); New Haven 1993.
-E.J. Wilson, “The Cylinders of Gudea: Transliteration, Translation and Index”, Band 244 in Alter Orient und Altes Testament (AOAT), Veröffentlichungen zur Kultur und Geschichte des Alten Orients und des Alten Testaments (Series); Kevelaer and Neukirchen-Vluyn 1996.
-D.O. Edzard, Gudea and His Dynasty (The Royal Inscriptions of Mesopotamia, Early Periods, Vol. 3/1); Toronto, Buffalo, London 1997.
-W.W. Hallo and J.J.A. van Dijk, The Exaltation of Inanna; New Haven & London 1968.
-The Sumerian lexicon has benefitted from several classes at UCLA with Dr. Robert Englund.
-I dedicate this lexicon to the memory of Dr. Robert Hetzron, with whom I had the pleasure of studying during every week of the four years that I attended the University of California at Santa Barbara. Dr. Hetzron was a professional linguist and expert on the Afroasiatic language family.
-If you are a Sumerology student who wishes to add entries or make changes to this Word document, please do so in a colored font, so that your changes can be identified and incorporated into future versions of the lexicon. The home page for the Sumerian lexicon is http://www.sumerian.org/.
 a, e4: n., water; watercourse, canal; seminal fluid; offspring; father; tears; flood. [A archaic frequency: 519] interj., alas!.
 prep., locative suffix - where; in; when - denotes movement towards or in favor of a person.
 def. article, nominalizing suffix for a noun or noun clause, denoting 'the'. á: (cf., áþi).
@@ -4596,3 +4536,10 @@ Copyright © 1996-1999 John Alan Halloran. All Rights Reserved. Last revised Aug
 Home page for the Sumerian lexicon: http://www.sumerian.org/
 
 159
+
+ APPENDIX I – SUMERO-PIE VOCABULARY From Sumerian to Indo-European 
+(1) anše 'donkey; equid'→ European * assin 'donkey'
+donkey -> danšeyl -> esel  <- dunkel : brown! dan@China!
+TODO: 300 Mongolian horse names ('color')!
+
+(3) dub 'clay tablet'→ Akk. → Hitt. tuppi 'clay tablet'(17) musara 'inscription'→ Indo-Iranian * mudra 'seal'(27) urbara 'wolf'→ (?) → PIE * ẉ lk w o- 'wolf'From Indo-European to Sumerian (6) gi 4 -in 'female worker'← PIE * g wh en 'woman'(19) sí-sí 'horse'← Hurr. issia ← Indo-Iranian (*?) (23) šeg 9 / * šneg 4 'snow'← PIE * sneig wh 'snow'(25) ú-li-in 'colored twine'← Unknown IE language Possibly of Proto-Historic origin (7) gígir(a) 'chariot'→ (?) ↔ PIE * k w ek w lo- 'wheel'(8) gu 7 (d r ) 'ox; bull; cattle'↔ PIE * g w ou(s) - 'cow'(20) šá ḫ (a) 'pig'↔ PIE * suh 1 - 'pig'(21) še 'barley; grain'↔ PIE * seh 1 - 'to sow'(26) u 8 (a) 'ewe'↔ PIE * h 3 owis 'ewe; sheep'(28) uru 4 'to sow; cultivate'↔ PIE *h 2 erh 1 - 'to plow'(29) urud(a) 'copper'↔ PIE * h 1 reud h -ó- 'red'Origin and Sumero-Proto-Indo-European relation unclear (2) bur(u(d)) 'to perforate'? PIE * b h er(e(d h )) 'to perforate'(4) erin; ḫ urin 'eagle'? PIE * h 3 orno - 'eagle'(5) gan(a) 'give birth'? PIE * genh 1 - 'to give birth'(9) b gur(u) 'crow'? PIE * kórw-eh 2 'crow'(10) gu 7 (r) 'to eat'? PIE * g w er 'to devour'(11) gúr 'to circle'? PIE * ģ h er- 'to enclose'(12) igi 'eye'? PIE * h 3 ek w - 'eye'(13) izi 'fire; brazier'? PIE *h 1 eus- 'to burn'(14) kur 'mountain'? PIE * g w er 'mount'(15) lu ḫ (u) 'to wash'? PIE * leh 2 w - 'to wash'(16) ma ḫ (a) 'to be powerful'? PIE * mag h 'to be  able; ~ power'(18) nu 'no'? PIE * ne- 'no'(24) tag(a) 'to touch'? PIE * tag - 'to touch'(22) šed 'to lie down; to sit'? PIE * sed - 'to sit'(30) úš 'blood; to die; to kill'? PIE *(h 1 )ésh 2 r- 'blood'

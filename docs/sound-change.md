@@ -1,1 +1,0 @@
-[sound shift or root](sound shift or root)  

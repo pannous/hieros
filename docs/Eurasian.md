@@ -1,9 +1,0 @@
-Eurasiatic is a proposed language macrofamily that would include many language families historically spoken in northern, western, and southern Eurasia.  
-
-[Eurasiatic](https://en.wikipedia.org/wiki/Eurasiatic_languages) resembles Nostratic in including Uralic, Indo-European, and Altaic, but differs from it in excluding the South Caucasian languages, Dravidian, and Afroasiatic and including Chukotko-Kamchatkan, Nivkh, Ainu, and Eskimo–Aleut. It was propounded by Joseph Greenberg in 2000–2002.  
-
-In 2013, [Mark Pagel](http://www.pnas.org/content/pnas/110/21/8471.full.pdf), Quentin D. Atkinson, Andreea S. Calude, and Andrew Meadea published statistical evidence that attempts to overcome these objections. According to their earlier work, most words exhibit a "half-life" of between 2,000 and 4,000 years, consistent with existing theories of linguistic replacement. However, they also identified some words – numerals, pronouns, and certain adverbs – that exhibit a much slower rate of replacement with half-lives of 10,000 to 20,000 or more years. Drawing from research in a diverse group of modern languages, the authors were able to show the same slow replacement rates for key words regardless of current pronunciation. They conclude that a stable core of largely unchanging words is a common feature of all human discourse, and model replacement as inversely proportional to usage frequency. [pdf](http://www.pnas.org/content/pnas/110/21/8471.full.pdf)  
-
-This page picks up on main evidence in including [Egyptian](Grammar) and [Kartvelian](Kartvelian) to be part of a bigger **Eurasian** language family.  
-
-[Uralic](Uralic) and [Dravidian](Dravidian) languages also seam to be distantly related, even [Khmer](Khmer)  

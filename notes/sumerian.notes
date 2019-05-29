@@ -1,0 +1,818 @@
+
+by
+John A. Halloran
+
+The following lexicon contains 1,255 Sumerian logogram words and 2,511 Sumerian compound words. A logogram is a reading of a cuneiform sign which represents a word in the spoken language. Sumerian scribes invented the practice of writing in cuneiform on clay tablets sometime around 3400 B.C. in the Uruk/Warka region of southern Iraq. The language that they spoke, Sumerian, is known to us through a large body of texts and through bilingual cuneiform dictionaries of Sumerian and Akkadian, the language of their Semitic successors, to which Sumerian is not related. These bilingual dictionaries date from the Old Babylonian period (1800-1600 B.C.), by which time Sumerian had ceased to be spoken, except by the scribes. The earliest and most important words in Sumerian had their own cuneiform signs, whose origins were pictographic, making an initial repertoire of about a thousand signs or logograms. Beyond these words, two-thirds of this lexicon now consists of words that are transparent compounds of separate logogram words. I have greatly expanded the section containing compounds in this version, but I know that many more compound words could be added.
+
+BCE-System
+Many cuneiform signs can be pronounced in more than one way and often two or more signs share the same pronunciation, in which case it is necessary to indicate in the transliteration which cuneiform sign is meant; Assyriologists have developed a system whereby the second homophone is marked by an acute accent ( ́), the third homophone by a grave accent (`), and the remainder by subscript numerals. [If the small font size prevents you from seeing whether the accent is acute or grave, click on View and Zoom and scroll up to 125%.] The homophone numeration here follows the 'BCE-System' developed by Borger, Civil, and Ellermeier. The 'accents' and subscript numerals do not affect the pronunciation. The numeration system is a convention to inform Assyriologists which, for example, of the many cuneiform signs that have the reading 'du' actually occurs on the tablet. A particular sign can often be transcribed in a long way, such asdug4, or in a short way, such asdu11, because Sumerian was like French in omitting certain amissable final consonants except before a following vowel. Due to this lexicon's etymological orientation, you will usually find a word listed under its fullest phonetic form. Transcriptions of texts often contain the short forms, however, because Sumerologists try to accurately represent the spoken language. Short forms are listed, but you are told where to confer.
+
+The vowels may be pronounced as follows: a as in father, u as in pull, e as in peg, and i as in hip. Of the special consonants, ñ is pronounced like ng in rang, þ is pronounced like ch in German Buch or Scottish loch, and š is pronounced like sh in dash .
+
+Following the definitions, the lexicon may indicate in a smaller font the constituent elements of words that in origin were compound words, if those elements were clear to me. Etymologies are a normal part of dictionary- making, but etymologies are also the most subject to speculation. It is possible that, in some cases, I have provided a Sumerian etymology for what is actually a loanword from another language. I encourage scholars to contact me with evidence from productive roots in other proto-languages when they have reason to believe that a Sumerian word is a loan from another language family. In light of the Sumerian propensity for forming new words through compounding in the period after they invented cuneiform signs, it should not be surprising to find this same propensity in words dating from before their invention of written signs. The structure and thinking behind the Sumerian vocabulary is to me a thing of beauty. We are fortunate to be able to look back into the minds of our prehistoric ancestors and see how they thought and lived via the words that they created.
+The lexicon's etymological orientation explains why the vocabulary is organized according to the phonetic structure of the words, with words sharing the same structure being listed together and alphabetically according to their final consonants and vowels, as this method best groups together related words. This principle has been abandoned after words of the structure CVC(V) in this version, as words that are phonetically more complex than
+
+1
+this do not group together by meaning. The phonetically more complex words and the compound words are listed alphabetically simply by their initial letters.
+The lexicon has been in development over a fourteen-year period. Primary sources included:
+A. Deimel, Šumerisches Lexikon; Rome 1947.
+E. Reiner et al., The Assyrian Dictionary of the Oriental Institute of the University of Chicago; Chicago 1956ff. W. von Soden, Akkadisches Handwörterbuch; Wiesbaden 1958-1981.
+R. Borger, “Assyrisch-babylonische Zeichenliste”, Band 33 in Alter Orient und Altes Testament (AOAT), Veröffentlichungen zur Kultur und Geschichte des Alten Orients und des Alten Testaments (Series); Kevelaer and Neukirchen-Vluyn 1978.
+R. Labat and F. Malbran-Labat, Manuel d'Épigraphie Akkadienne, 6o édition; Paris 1995 (this is the cuneiform sign manual used by most Sumerology students - it is available from Eisenbraun's - see my links page).
+M.L. Thomsen, The Sumerian Language: An Introduction to Its History and Grammatical Structure; Copenhagen 1984 (this well-done grammar is currently the standard text - if it is on back order at Eisenbraun's, ask your public library's Interlibrary Loan department to obtain it for you).
+J.L. Hayes, A Manual of Sumerian Grammar and Texts; Malibu 1990 (beginning students can start with this book before graduating to Thomsen- if available, order it from Eisenbraun's - see my links page).
+R. Jestin, Notes de Graphie et de Phonétique Sumériennes; Paris 1965.
+B. Landsberger, as compiled by D.A. Foxvog and A.D. Kilmer, "Benno Landsberger's Lexicographical
+Contributions", Journal of Cuneiform Studies, vol 27 (1975).
+H. Behrens and H. Steible, Glossar zu den altsumerischen Bau- und Weihinschriften; Wiesbaden 1983.
+K. Oberhuber, Sumerisches Lexikon zu “George Reisner, Sumerisch - babylonische Hymnen nach Thontafeln griechischer Zeit (Berlin 1896)” (SBH) und verwandten Texten; Innsbruck 1990.
+Å.W. Sjöberg et. al., The Sumerian Dictionary of the University Museum of the University of Pennsylvania; Philadelphia 1984ff. Letters B and A through Abzu have been published.
+M. Civil, unpublished Sumerian glossary for students.
+S. Tinney, editor, Index to the Secondary Literature: A collated list of indexes and glossaries to the secondary literature concerning the Sumerian Language, unpublished but now expanded and searchable at: http://ccat.sas.upenn.edu:80/psd/
+E.I. Gordon, Sumerian Proverbs: Glimpses of Everyday Life in Ancient Mesopotamia; Philadelphia 1959 (with contributions by Th. Jacobsen).
+D.C. Snell, Ledgers and Prices: Early Mesopotamian Merchant Accounts; New Haven and London 1982.
+P. Michalowski, The Lamentation over the Destruction of Sumer and Ur; Winona Lake 1989.
+C.E. Keiser and S.T. Kang, Neo-Sumerian Account Texts from Drehem; New Haven & London 1971.
+J. Bauer, Altsumerische Wirtschaftstexte aus Lagasch; Dissertation for Julius-Maximilians-Universität at Würzburg 1967 [appeared under same name as vol. 9 in Studia Pohl: Series Maior; Rome 1972].
+J. Krecher, "Die marû-Formen des sumerischen Verbums", Vom Alten Orient Zum Alten Testament, AOAT 240 (1995; Fs. vSoden II), pp. 141-200.
+K. Volk, A Sumerian Reader, vol. 18 in Studia Pohl: Series Maior; Rome 1997 (this practical, inexpensive book includes a nice, though incomplete, sign-list).
+B. Alster, The Instructions of Suruppak: A Sumerian Proverb Collection (Mesopotamia: Copenhagen Studies in Assyriology, Vol. 2); Copenhagen 1974.
+B. Alster, Proverbs of Ancient Sumer: The World's Earliest Proverb Collections, 2 vols; Bethesda, Maryland 1997.
+
+2
+Å. Sjöberg, Der Mondgott Nanna-Suen in der sumerischen Überlieferung; Stockholm 1960.
+V.E. Orel and O.V. Stolbova, Hamito-Semitic Etymological Dictionary: Materials for a Reconstruction
+(Handbuch der Orientalistik, Abt. 1, Bd. 18); Leiden, New York, & Köln 1995.
+M.W. Green and H.J. Nissen, Zeichenliste der Archaischen Texte aus Uruk [ZATU] (Ausgrabungen der Deutschen Forschungsgemeinschaft in Uruk-Warka, 11; Archaische Texte aus Uruk, 2); Berlin 1987.
+P.Damerow and R. Englund, Sign List of the Archaic Texts (electronic FileMaker database collection of ZATU signs occurring in catalogued texts from Uruk IV to ED II); Berlin 1994.
+P. Steinkeller, review of M.W. Green and H.J. Nissen, Bibliotheca Orientalis 52 (1995), pp. 689-713.
+J. Krecher, "Das sumerische Phonem |ñ|", Festschrift Lubor Matouš, Assyriologia 5, vol. II, ed. B. Hruška & G.
+Komoróczy (Budapest, 1978), pp. 7-73.
+M. Civil, The Farmer's Instructions: A Sumerian Agricultural Manual (Aula Orientalis-Supplementa, Vol. 5); Barcelona 1994.
+M. Krebernik, Die Beschwörungen aus Fara und Ebla: Untersuchungen zur ältesten keilschriftlichen Beschwörungsliteratur (Texte und Studien zur Orientalistik, Bd. 2); Hildesheim, Zurich, New York 1984.
+M.A. Powell, "Masse und Gewichte" [Weights and Measures: article in English], Reallexikon der Assyriologie und Vorderasiatischen Archäologie,.Bd. 7, ed. D.O. Edzard (Berlin & New York, 1987-90), pp. 457-517.
+K.R. Nemet-Nejat, Cuneiform Mathematical Texts as a Reflection of Everyday Life in Mesopotamia (American Oriental Series, Vol. 75); New Haven 1993.
+E.J. Wilson, “The Cylinders of Gudea: Transliteration, Translation and Index”, Band 244 in Alter Orient und Altes Testament (AOAT), Veröffentlichungen zur Kultur und Geschichte des Alten Orients und des Alten Testaments (Series); Kevelaer and Neukirchen-Vluyn 1996.
+D.O. Edzard, Gudea and His Dynasty (The Royal Inscriptions of Mesopotamia, Early Periods, Vol. 3/1); Toronto, Buffalo, London 1997.
+W.W. Hallo and J.J.A. van Dijk, The Exaltation of Inanna; New Haven & London 1968.
+The Sumerian lexicon has benefitted from several classes at UCLA with Dr. Robert Englund.
+I dedicate this lexicon to the memory of Dr. Robert Hetzron, with whom I had the pleasure of studying during every week of the four years that I attended the University of California at Santa Barbara. Dr. Hetzron was a professional linguist and expert on the Afroasiatic language family.
+If you are a Sumerology student who wishes to add entries or make changes to this Word document, please do so in a colored font, so that your changes can be identified and incorporated into future versions of the lexicon. The home page for the Sumerian lexicon is http://www.sumerian.org/.
+
+
+
+.. 
+
+The tables above show signs used for simple syllables of the form CV or VC. As used for the 
+Sumerian language, the cuneiform script was in principle capable of distinguishing at least 16 
+consonants, transliterated as 
+
+b, d, g, g , ḫ, k, l, m, n, p, r, ř, s, š, t, z 
+
+as well as four vowel qualities: a, e, i, u.  ...[Wik] 
+
+.. 
+
+The picture of a hand came to stand not only for Sumerian šu (“hand”) but also for the phonetic 
+syllable šu in any required context. Sumerian words were largely monosyllabic, so the signs 
+generally denoted syllables, and the resulting mixture is termed a word-syllabic script. The 
+inventory of phonetic symbols henceforth enabled the Sumerians to denote grammatical elements 
+by phonetic complements added to the word signs (logograms or ideograms). Because Sumerian 
+had many identical sounding (homophonous) words, several logograms frequently yielded identical 
+phonetic values and are distinguished in modern transliteration—(as, for example, ba, bá, bà, ba4). 
+Because a logogram often represented several related notions with different names (e.g., “sun,” 
+“day,” “bright”), it was capable of assuming more than one phonetic value (this feature is called 
+polyphony)...more 
+
+.. 
+
+...'accents' and subscript numerals do not affect the pronunciation – Halloran  
+
+.. 
+
+.. 
+
+Foxvog's Basics  
+http://home.comcast.net/~foxvog/Grammar.pdf] 
+
+Sign Diacritics and Index Numbers  
+Sumerian features a large number of homonyms — words that were pronounced  
+similarly but had different meanings and were written with different signs,  
+for example:  
+ 
+ 
+
+/du/ 'to come, go' 𒁺  
+/du/ 'to build'  𒆕 
+/du/ 'to release'  𒂃  
+A system of numerical subscripts, and diacritics over vowels representing  
+subscripts, serves to identify precisely which sign appears in the actual  text Borger's index system  
+which is used here is as follows:  
+ 
+
+Single-syllable signs  
+
+Multiple-syllable signs  
+ du (= du1)  
+ dú (= du2) 
+  dù (= du3)  
+  du4 etc.  
+ muru  
+ múru  
+ mùru  
+ muru4  
+Note that the diacritic always falls on the first vowel of the word!  
+There is variation in the systems employed in older signlists for multiple- syllable signs, especially 
+in Labat. In the earliest editions of his sign-list which may still be encountered in libraries, Labat 
+carried the use of diacritics through index numbers 4-5 by shifting the acute and grave accents onto 
+the first syllable of multiple-syllable signs:  
+ 
+murú (= muru2)  
+murù (= muru3)  
+múru (= muru4)  
+mùru (= muru5)  
+
+New values of signs, pronunciations for which no generally accepted index numbers yet exist, are 
+given an "x" subscript, e.g. dax 'side'... 
+
+Many signs are polyvalent, that is, they have more than one value or reading... 
+
+... 
+
+Polyvalency 
+The most important new development by far was the principle of polyvalency, the  association of 
+"many values" with a particular sign, each with its own separate  pronunciation. This became a very 
+productive and simple method of generating  new logographic values. 
+
+Determinatives  
+
+To help the reader decide which possible value of a polyvalent sign was intended  by the writer, the 
+use of determinatives arose. A determinative is one of a  limited number of signs which, when 
+placed before or after a sign or group of  signs, indicates that the determined object belongs to a 
+particular semantic  category, e.g. wooden, reed, copper or bronze objects, or persons, deities,  
+places, etc. Determinatives were still basically optional as late as the Ur  III period (7887-7997CT). 
+When Sumerian died as a spoken language, they became  obligatory. Determinatives were 
+presumably not to be pronounced when a text  was read, and to show that they are not actually part 
+of a word we transliterate  them, in unilingual Sumerian context at least, as superscripts. To use the  
+example of the 'plow' sign above, the polyvalent sign APIN [see 𒀳] is read    
+
+APIN - if preceded by a 'wood' determinative: GIŠAPIN 'plow'  
+ENGAR - if preceded by a 'person' determinative: LÚENGAR 'plowman'  
+but URU4 'to plow' or ÀBSIN 'furrow' elsewhere, depending upon context.  
+
+Rebus Writing and Syllabic Values  
+
+At some point rebus [cf. Kindle defi: a puzzle – words are rep by combo pictures and individual letters  e.g. 
+apex = picture of ape + letter X shown by] writings arose, where the sign for an object which could  
+easily be drawn was used to write a homophonous word which could not so easily  be depicted, 
+especially an abstract idea. For example, the picture of an arrow,  pronounced /ti/, became also the 
+standard sign for ti 'rib' as well as for the  verb ti(l) 'to live'. The adoption of the rebus principle was 
+a great innova-  tion, but it adds to the difficulty of learning the Sumerian writing system,  since 
+meanings of words thus written are divorced entirely from the original  basic shapes and meanings 
+of their signs. 
+...The Sumerian writing system was still in limited use as late as the [100th] cent.; the last known 
+texts are astronomical in nature and can be dated  to ca. [10076CT]. The system thus served the 
+needs of Mesopotamian civilizations for a continuous span of over 3200 years – a remarkable 
+achievement in human history. 
+
+Syllabic Signs  
+
+Used in Sumerian primarily to write grammatical elements. They are also commonly used to write 
+words for which there is no proper logogram. Sometimes this phonetic writing is a clue that the 
+word in question is a foreign loanword. 
+
+Determinatives    
+
+Logograms which may appear before or after words which  categorize the latter in a variety of 
+ways. They are orthographic aids and  were presumably not pronounced in actual speech. They 
+begin to be used spora-  dically by the end of the archaic period. While they were probably 
+developed  to help a reader chose the desired value of a polyvalent sign, they are often  employed 
+obligatorily even when the determined logogram is not polyvalent.  For example, while the wood 
+determinative ĝiš may be used before the PA sign  to help specify its reading ĝidri 'scepter', rather 
+than, e.g., sìg 'to beat',  ĝiš is also used before hašhur 'apple (tree or wood)' even though this sign 
+has  no other reading. Other common functions are to help the reader distinguish  between 
+homonymous words, e.g. ad 'sound' and gišAD 'plank' or between different  related meanings of a 
+word, e.g. nú 'to sleep' but gišĝèšnu (NÚ) 'bed'.   The following determinatives are placed BEFORE 
+the words they determine and so  are referred to as pre-determinatives: 
+
+The following determinatives are placed AFTER the words they determine and so are referred to as 
+post-determinatives:  
+
+..uuuQQ 
+
+uCode query 
+a-a (aya) [561x] = father 
+
+SU4, SI4 [184x] = to be red brown 
+
+KUSHU / KUŠU, kuš2 [149x] = tired, troubled  
+kuš2-a-ni-ta = to be tired 
+
+uQQ kuš2 tired  + 𒀀 A cry of woe + 𒉌 NI come to an end +  𒋫 TA much 
+šá=NÍG [syllabary] 
+peš [67x] thick; give birth - see 𒤒 
+
+.. 
+
+Copula 
+
+I3- am3-me 
+
+to be 
+
+𒉌 
+
+𒈨 
+
+I3 
+
+time, 
+
+comes to 
+
+pass 
+
+me 
+
+to be, is 
+
+am3 
+aux. 
+
+𒀀 A 
+progeny  
++ 𒀭 
+
+deity  
+
+http://etcsl.orinst.ox...c625.15.3... 
+also 
+
+𒅎 
+
+em 
+to be 
+
+http://psd.museum.upenn.edu/epsd/epsd/e3660.html 
+.. 
+
+[More True Etym. English "I", "am",  "me"!]  
+
+.. 
+
+More Text Examples  
+
+1-10. She …… of the desert. She put the šu-gura, the desert crown, on her head. …… when she went out to the 
+shepherd, to the sheepfold, …… her cuneus was remarkable. …… her cuneus was remarkable. She praised 
+herself, full of delight at her cuneus, she praised herself, full of delight at her cuneus. She looked at ……, she 
+looked at ……, she looked at ……. 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+[…] X-dam edin-na na-mu-X-[…] 
+[tug2-šu-gur-ra] /men\ edin-na saĝ-ĝa2 mu-ni-in-ĝal2 
+[…] X sipad-ra ĝa2 udu-še3 an-na-ra-e3 
+[… gam]-e-dam gal4-la -ni u6 di-dam 
+[…] /zid\-de3-eš gam-e-dam gal4-la-ni <u6 di-dam> 
+[…] /gal4\-la-ni-še3 ḫul2-la-e ni2-te-ni mi2 zid iri in-ga-am3-me 
+[…]-ni-še3 ḫul2-la-e ni2-te-ni <mi2 zid iri in-ga-am3-me> 
+[…] igi nam-ši-in-bar 
+[…] /igi\ nam-da-ra-ši-in-bar 
+
+10. 
+[…] X igi nam-ši-in-bar 
+
+14-35. "When I have bathed for the king, for the lord, when I have bathed for the shepherd Dumuzid, when I 
+have adorned my flanks (?) with ointment (?), when I have anointed my mouth with balsamic oil (?), when I 
+have painted my eyes with kohl, when he has …… my hips with his fair hands, when the lord who lies down 
+beside holy Inana, the shepherd Dumuzid, has …… on his lap, when he has relaxed (?) …… in my pure (?) 
+arms, when he has coitioned me …… like choice beer, when he ruffles my pubic hair for me, when he plays 
+with the hair of my head, when he lays his hands on my pure cuneus, when he lies down in the …… of my 
+sweet womb 
+
+21. 
+
+22. 
+
+23. 
+
+24. 
+
+25. 
+
+26. 
+
+27. 
+
+28. 
+
+29. 
+
+30. 
+
+31. 
+
+ib2-ib2-ĝu10 mi-ni-dim2-dim2-ma3-gin7 
+u3-mu-un i3-nu2 kug dinanana-še3 
+su-ba du5-mu-zid-de3 
+
+ur2-ra ga i3-du8-a-na-gin7 
+
+X IM a2 gi-rin-ĝa2 GI4 in-tenx(GUR8)-tenx(GUR8)-na-gin7 
+[X] X saĝ kaš! saĝ-gin7 
+mu-uš? mu-tag-ga-gin7 
+
+siki-ur2-ĝu10 ĝa2-an-/suḫ3?\-[suḫ3-a-gin7] 
+
+siki-pa-ĝu10 a-ne in-da-an-dug4-ga-gin7 
+
+gal4 kug-ĝa2 šu bi2-in-ma-ra-gin7 
+
+šag4 ze2-ba-ĝa2 u3 [X] X-bi i3-X-/nu2?\-a-gin7 
+
+32.  ma2 MI-ni-gin7 mu-X-[X]-/AN?\-gin7 
+
+33.  ma2 sal-la-ni-gin7 mu-un-til-til-la-gin7 
+
+ki-nu2-a mi2 ĝa2-ni-dug4-ga-a-gin7 
+u3-mu-un-ra mi2 da-an-dug4 
+
+34. 
+
+35. 
+
+-- 
+
+19-27. My ……, the barmaid's beer is sweet. Like her beer her cuneus is sweet, her beer is sweet. Like her 
+mouth her cuneus is sweet, her beer is sweet. Her diluted beer, her beer is sweet... 
+AN X X X-ĝu10 za-bi-tum-ma kaš-a-ni ze2-ba-am3 
+
+kaš-a-ni-gin7 gal4-la-ni ze2-ba-am3 kaš-a-ni ze2-ba-am3 
+
+ka-ga14-a-ni-gin7 gal4-la-ni ze2-ba-am3 kaš-a-ni ze2-ba-am3 
+
+kašbirx(A.SUD)-a-ni kaš-a-ni ze2-ba-am3 
+
+dšu-dsuen ba-sag9-ge-na-ĝu10 
+
+ba-sag9-ge-na-ĝu10 ba-zil2-zil2-i-na-ĝu10 
+
+dšu-dsuen ba-sag9-ge-na-ĝu10 
+
+19. 
+
+20. 
+
+21. 
+
+22. 
+
+23. 
+
+24. 
+
+25. 
+
+-- 
+
+1-9. "…… on your navel. My sweet illustrious sister, ……. On your back ……. My illustrious sister, …… 
+hand. In your cuneus …… the gardens. Nanaya, ……. In your anus …… the fields. My illustrious sister, …… 
+the acres. Come to me, my sister..." 
+[en3]-/dur\-za ḪA-[izi …] 
+/nin9\ e ze2-ba-ĝu10 […] 
+
+murgu-za X MU […] 
+
+nin9 e-ĝu10 šu […] 
+
+gal4-la za sar-ra {garden} […] 
+
+dna-na-a /LI?\ […] 
+
+gu-du {anus/rump}-za a-šag4 {field} […] 
+
+nin9 {sister} e-ĝu10 bur3 /gana2\ […] 
+/ĝen-ma\-da nin9-ĝu10 […] 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+-- 
+
+11-24. She chooses the rump beads and puts them on her rump.  
+
+11. 
+nunuz dur2-ra {
+
+𒂉 rump cf. gu-du}  in-pad3 {reveal}-de3 dur2-ra-na mu-un-ĝa2-ĝa2 
+
+-- 
+
+29-30.   
+
+If I ……, my cuneus brings me slavery.  
+
+Will anyone take my cuneus then? 
+
+29. 
+
+30. 
+KU-KU-a-ĝu10-ne gal4-la-ĝu10 na?-aĝ2-gi4-in-e ma-an-ga 
+[gal4]-la?-ĝu10 lu2? ba-an-tuku 
+
+-- 
+
+1-3.  If a …… boatman …… demands an inspection, or if the hand touches a woman's cuneus over her clothes -
+- it is an abomination to Suen.  
+/lu2\ ĝišma2 /lu2?\ X (X) /niĝ2\ kab2?-a di-/da\ 
+[gal4]-la tug2 {clothes}-ga šu tag-ga 
+/niĝ2\-gig dsuen-na-kam 
+
+1. 
+
+2. 
+
+3. 
+
+-- 
+
+42.  An unfaithful phallus matches (?) an unfaithful cuneus. 
+
+42. ĝiš3 {/ĝeš3 = phallus} lul-la gal4-la lul-la-ke4 ba-ni-in-sig10 
+
+-- 
+
+43-44.  Marrying is human. Having children is divine. 
+
+43. 
+44. 
+
+dam {spouse} tuku-tuku  lu2-ulu3 {human} -/ka? \ 
+dumu {children} tuku-tuku diĝir {divine}-ra-/ka?\ 
+
+._. 
+
+Tablet Examples 
+
+Gilgamesh Flood Tablet 
+
+(CDLI) 
+
+Ur-Nammu [7954-7971CT] founded the Sumerian 3rd dynasty of Ur, in southern Mesopotamia, 
+following several centuries of Akkadian and Gutian rule... chiefly remembered today for his legal 
+code, The Code of Ur-Nammu, the oldest known law code surviving today. It is written on tablets, 
+in the Sumerian language [c.7900CT]....[Wik] 
+
+http://www.schoyencollection.com/music.html (MS 2064) 
+
+.. 
+
+Earliest record musical instruments 23 types listed  
+
+http://www.schoyencollection.com/music.html (MS 2340) 
+
+Sumer 7400CT 
+
+Considering the extent to which Sumerians invent musical instruments and writing about music, 
+
+makes you wonder when you look at cuneiform like 
+
+( 𒅖 kuš7 civil servant) about the true 
+
+origins of the music staff and notes layout 
+[and the bullet point!] 
+
+.. 
+
+[Cuneiform Texts and the Writing of History 
+
+- Marc Van De Mieroop - more] 
+
+.. 
+
+Scribe 
+
+26 January 𒀓CT 
+
+To All Australian / International Schools / Universities 
+
+Dear Principal / Chancellor 
+
+WANTED: Home School / University 
+
+What a package. By becoming the home school / university you instantly gain international prestige with the 
+ultimate and world first Faculty of True Origins cutting across cultural barriers attracting students from all over 
+the planet. It would kickstart with courses based around these heavyweights, all from the same authorship, 
+being bundled into the deal is: 
+Sumerian Cuneiform English Dictionary (MUGSAR) – Ongoing maintenance and development of the 
+niftiest in the university world. Who or what can beat it, the first written language, indeed the very first 
+professors and students. Clearly shows up Oxford University Faculty of Oriental Studies (ETCSL) and 
+others. 
+Civilization Time  – An unequivocal sign that your university does not support discrimination and is 
+open to students from all cultures. Adoption and promotion of the legitimate, non-religio year dating 
+system. 
+Billjim (/Anzac) Centenary 2014 – 2018 – A fair dinkum demonstrable affinity. Billjim Centenary 
+Theme Song and Exploits of the Billjim production. Less emphasis on war and fought who and more on 
+the cross-cultural music and the Waler (horse bred in NSWales). Music and video production is cool for 
+any student. Local parents want to see that you are doing something special. Overseas parents can relate 
+to the apotheosis of mateship and the special horse component. 
+The Hyphen, The Mask & The Daughter – Susan de Vere, Shakespeare's daughter, producer of the First 
+Folio, the 400th anniversary in 2023 beckons. 
+
+In return, simply want to work with the school / university, in Australia or wherever, to set up the courses and 
+for Tara (b. 2002)  to follow. 
+
+Sincerely 
+
+Peter & Tara Hogan 
+
+PO Box 1 
+
+Potts Point NSW 1335 
+
+.. 
+
+THE D.A.P. SCORE - The Impostor Exposor Calculator 
+
+D x A x P = score 
+
+We have all these famous people. But how can we be sure they deserve the credit. “History is full of dead white 
+males”. Often privileged with lots of family money and connections, one’s father was even ‘god’. The ones that 
+weren’t so privileged were supposed to be natural geniuses – but a closer look shows that there is very little 
+concrete historical evidence to support what they have supposed to have done – myth becomes fact, history re-
+written. There really is no need to separate a Library into Fiction and Non-Fiction – it’s all Fiction. All this 
+spinmeistering is to suit some group’s purpose, and usually becomes an established powerful money making 
+industry, including Will Extortion of the gullible elderly, the "Tickets to Heaven" con job – leaving future 
+generations dispossessed and invariably lined up at Centrelink.  
+
+The “D.A.P. Score” is a formula for ranking people – an imposter exposer calculator, if you like. It is designed 
+to weed out famous, influential people who have had a lot of help, to say the least. Each of the 3 variables has a 
+maximum score of 10. So the total maximum score is 1000. 
+
+You can calculate the DAP score for anybody, yourself or some famous figure. 
+
+“D” = Degree of DIFFICULTY – in getting started / growing up, e.g. born into a 3rd world or advanced nation, 
+poor or affluent family, well-grounded/stable or dysfunctional upbringing – alcoholic or caring parents, etc. 
+So a very difficult start would score near 10, a very easy start, lots of assistance from family, connections, 
+stable advanced economy would score near 0. 
+Remember that if “D” is low or zero, there’s not much point in continuing further and analyzing the next 
+variables “A” and “P” – because even if they are maximums you still end up with zilch: 0 x 10 x 10 = 0 
+
+“A” = Degree of ACHIEVEMENT based on “D” (the degree of difficulty in getting started). 
+
+“P” = Degree of POTENTIAL, essentially for ‘immortality’. 
+
+Thus, in summary, DAP = D x A x P 
+
+The maximum is 10 x 10 x 10 = 1000 
+
+Let’s now look at some examples: 
+
+* William Shakspere 
+William Shakspere (seems to have been spelt lots of different ways – we only have 6 dubious signatures - no 
+letters or manuscripts, because he was likely illiterate) - held out to be William Shakespeare,the playwright, by 
+the multi-billion dollar Stratford industry. Degree of Difficulty pretty average, didn’t achieve anything above 
+the ordinary, but has a strong potential for immortality. Yep, the Establishment has credited him with the 
+achievements of Edward de Vere. Just shows you if they can get away with re-writing history in this case, what 
+else do they teach our children that has no sound foundation in a little thing called ‘reality’. 
+
+William Shakspere’s – most likely pronounced ‘shack’ or ‘shax’ - de Vere used the name William Shake-
+speare (it was often hyphenated as an extra clue for the coneys)  because of the similarity to the Pallas 
+
+Athena goddess of Wisdom motif of shaking the spear at ignorance) and it neatly coincided as part of his coat 
+of arms as Lord Bolbec :  
+ Guillem Shaxper’s DAP score = 10 x 0 x 10 = 0 (0% of a maximum 1000) 
+
+* T.E. Lawrence 
+ Probably blame Lowell Thomas (the American journalist commissioned by the government to get the wary 
+public interested in sending their sons to the slaughter, he started out in the Western front stalemate, then had 
+the bright idea to check out the Middle East campaign – and the first of several allied agents dressed in Arab 
+costume that he saw … well, he could just see how it could be marketed). 
+ Somewhat ’Difficult’ start – father runs off with maid, takes her name, which really means Lawrence is 
+‘Chapman’ – finding out he was actually a bastard seems to have effected him; didn’t ’Achieve’ what 
+Hollywood said he did – that was the Australian Light Horse; but he certainly does have the ‘Potential’ for 
+immortality, if there’s an industry making money out of the ‘Myth as historical Fact‘ market. 
+
+Ned’s (that’s what his family called him) DAP score = 5 x 0 x 10 = 0 (0% of a maximum 1000) 
+
+* Horus O’Nazareth 
+One remembers hearing the Spanish pronunciation of “J” for the first time, then it hit me like the Droeshout 
+engraving, a dead give away.  A lot of similarities to the way the Shakespeare Myth developed, no wonder they 
+started getting nervous when it started shattering – so they had to fall back on the old faithful “Angra Mainyu 
+( the original source of the evil one) put the fossils in the layers of sediment to fool the consumer”. They 
+clearly plagiarized a mix of  Sumerian, Egyptian, Zoroastrian (confirmed by the Dead Sea Scrolls unearthing in 
+'1956) and Buddhism mythologies. Despite all the detailed, yet spurious writings, written well after his time 
+(generally, many would argue that, “no Paul – Roman CIA Agent to come up with a way to stop the violent 
+freedom fighters, no Horus the ‘turn the other cheek / it’s cool being poor’ Buddhist motif”), there is very little 
+objective evidence of his existence, let alone deeds. In spite of comandeering Civilization’s year counting 
+system, e.g. 2013 AD, that is supposed to be based on his birth year, no-one knows his year of birth, nor the 
+date – December 25, being a rip-off of the sun god’s birthday, the festival of much older cultures, based on the 
+northern hemisphere winter solstice. Yet the hierarchy and associated billion dollar industry hold out the 25th 
+December to be the original factual historical birthday – “It’s written down there somewhere, by someone who 
+was there, heck we have all the other details, of course they jotted down the date too” – next time you chat to 
+someone high up that gets chauffered around, ask them for a page reference.  
+So now the majority of the world’s population is lumped with a calendar system based on a (tax 
+exempt) religion - thereby not constitutionally keeping a ‘Separation of (someone else’s) church and State’. 
+And there is strong archaeological evidence (only discovered within the last 160 years) that much of 
+the spiel has been plagiarized from these much older cultures, especially Sumer (Iraq) and Egypt. Like  ‘The 
+Gilgamesh Epic’ – the oldest story written on clay tablets – including the original flood story. 
+And of course the Egyptian Horus myth. Actually since Alexandria, Egypt is the true home of 
+the Civilization’s Calendar (including the modern version developed by Sosigenes), and the recent epochal 
+rebirth of Egypt, they should be put back in charge of the Calendar. 
+The new Egypt Democratice government should make it their first submission to the United Nations: for the 
+first time, a true international calendar. A non sectarian one – simply Civilization Time - starting at the true 
+beginning of Civilization at the end of the last ice age that allowed the first villages cum Cities, no longer 
+relegating the great Egypt, Sumer (originally black-headed people probably from East Africa who hopped 
+across the Arabian Gulf), Indus and China cultures to ancient sounding BC status, - to be used on all 
+international records – 2013 Anno Domini (latin for Year Domination) years since ‘what’ (there’s no historical 
+record of anything happening in 1AD, whoever theirGuillem Shaksper figurehead was based on had to be born 
+
+at least by 4BC) of the current religio Western dominated plagiarized calendar to, add the forgotten 10,000 
+years = 𒀓CT 
+
+Aren’t we supposed to be teaching our children not to Plagiarize someone else’s stuff? 
+
+In any event, moving onto the DAP analysis: The “D” score. It seems that he had perfect parents (something 
+few of us have) and a ‘close’ connection to ‘god’ – a pretty useful connection. And it may even be argued, that 
+his success / achievement was pre-destined – all setup, a forgone conclusion. 
+So even before getting to the “A” and “P” scores, the “D” score and therefore the overall DAP is looking pretty 
+close to zero. Thus, a rough ‘prima facie’ guess would throw up: 
+
+Horus o’N DAP score = 0 x 10 x 10 = 0 (0% of a maximum 1000) 
+
+* Bill Gates 
+Has the strong potential to be the richest man that will ever live. 
+
+His “D” score: born into an advanced nation, affluent family line, and again, given the achievement bug by his 
+grandmother. 
+A closer look at the development of Microsoft shows that it if not for, Paul Allen, Bill Gates would be still 
+trying to graduate from Harvard. It was Allen that first identified the seed of the future Microsoft. And much of 
+the later software, that fueled the exponential development was essentially plagiarized. 
+So again we have a “D” score approaching 0. 
+
+Thus, a rough ‘prima facie’ guess would throw up: 
+
+Bill Gate’s DAP score = 0 x 10 x 10 = 0 (0% of a maximum 1000) 
+
+* Former President Bill Clinton 
+His “D” score: He was born into an advanced nation, didn’t know his biological father, mother wasn’t around 
+much. But he was essentially raised by his grandmother, who had the time and inclination to give him lots of 
+attention and instill a learning / achievement bug in his brain. His step father, whose name he would later take, 
+was very influential in Arkansas. And many would say Hillary Rodham Clinton was, and is, a key driving force 
+in his success. 
+So, in spite of his rise to the presidency, a major achievement, from seemingly humble beginnings, giving a 
+high, even approaching a maximum “A” score, his “D” on close analysis is appears to be paradoxicallly low. 
+And his “P” score, given the scandals, etc. is probably also very low. 
+
+Thus, a rough ‘prima facie’ guess would throw up: 
+
+Bill Clinton’s DAP Score = 2 x 10 x 1 = 20 (just 2% of a maximum 1000) 
+
+* Former President George II 
+Well, I think you can calculate that one. 
+
+* Albert Einstein 
+The “D” score: born into an advanced nation, reasonably affluent family, considerable useful influence came 
+from his uncle, excellent academic environment / facilities, and a first wife that may well have played a greater 
+
+role than we will ever know. 
+The “A” and “P” scores are pretty obvious. 
+
+Thus, a rough ‘prima facie’ guess would throw up: 
+
+Albert Einstein’s DAP score = 7 x 10 x 10 = 700 (70% of a maximum 1000) 
+
+* James Watson 
+James Watson along with Francis Crick and Maurice Wilkins shot to fame, including the ’1962 Nobel Prize for 
+their structure of DNA – the double helix, but they lifted the work of Rosalind Franklin (b. 25 July ’1920).  
+
+She was the ultimate loser, dying of cancer at age 38 in ’1958 (talk about bad luck!) never knowing just how 
+much her colleagues ripped her off, because to them she was just a stupid female. The plagiarists basked in 
+their sham glory past their 80s. Refer p563-8 Science – A History, John Gribbin, and the “Rosalind Franklin – 
+The Dark Lady of DNA“, Brenda Maddox) 
+
+James Watson’s DAP score = 0 x 0 x 10 = 0 (0% of a maximum 1000) 
+
+* * * 
+
+To finish on a positive note: 
+
+* Charles ‘Hank’ Bukowski 
+Bukowski had a shitty start, but stumbled on to John Martin, who himself commands a high DAP score. In a 
+sense the two men are inextricably coupled for eternity. 
+
+Bukowski’s DAP score = 10 x 10 x 10 = 1000 (100% of a maximum 1000) 
+
+* “Billjim“ 
+This one is still being played out. 
+
+Billjim DAP score = 10 x 10 x ? = [remains to be seen - are plebs becoming empowered enough with the Internet?] 
+
+* * * 
+
+Feedback: 
+From: Laurel Smith 
+ladydoconthebayou@earthlink.net 
+To: peter_hogan@hotmail.com [old email address] 
+Subject: DAP 
+Date: Fri, 05 May 2000 23:17:41 -0500 
+MIME-Version: 1.0 
+Received: from [207.217.121.50] by hotmail.com (3.2) with ESMTP 
+id MHotMailBADCE7830026D82197D0CFD979329D400; Fri May 05 21:16:04 2000 
+Received: from earthlink.net (1Cust227.tnt5.houma.la.da.uu.net 
+[63.14.152.227]) by avocet.prod.itd.earthlink.net (8.9.3/8.9.3) with ESMTP id 
+VAA14700for ; Fri, 5 May 2000 21:16:01 -0700 (PDT) 
+From: ladydoconthebayou@earthlink.net 
+Fri May 05 21:16:23 2000 
+Message-ID: <39139CE5.C229E9C@earthlink.net> 
+X-Mailer: Mozilla 4.05 [en]C-NECCK (Win95; U) 
+
+I appreciate the concept.  Very eloquently organized. 
+
+* * * 
+
+"The D.A.P. Score" was first developed by Peter Hogan in Shinsaibashi Japan ’1993 
+
+.. 
+
+Co-Editors 
+
+[This section for those who make substantial additions / improvements to the MUGSAR. Also add your name (and university) as a co-
+editor on the cover and title page.] 
+
+[Your details here] 
+
+MUGSAR Course Modules 
+
+Key focus areas: 
+
+1. How Sumerian Scribes were thinking by doing MUGSAR 4-Ways 
+
+2. Conjure missing concepts in cuneiform, i.e. create new compounds esp for intellectual 'big words' and new technology terms. 
+
+.. 
+eee 
+
+CONTENTS [comprssd; spread] 
+
+Cover | Title Page | Dedication | eBook Description | Tablet 1 | WANTED: Home School/University - MUGSAR Benefactors | How 
+
+to use | Reproduction / Contact |  File format convert tips | Internet Archive Downloads 
+
+MAIN LISTINGS | Major Lemma | QuickFinder | Enheduanna - earliest known writer was female | Wheel Invention 
+
+MUGSAR 4-Way | Sumerians – Kings of the Earthlings | Sumerians called themselves "black-headed people" | There in the tablets, 
+
+"black people" are the "city-dwellers" and" rulers of Sumer" | First Professors are Black! | Oldest written love stories | Inana and the 
+
+Seven Cosmic Powers of her Loincloth | Inana loves Dumuzi | Gudea Cylinders | Very Common Signs 
+
+REFERENCE & LINKS | Civilization Time | Unicode Sign closeup | PSD | Sumer Periods | ETCSL | List of determinatives | CDP – 
+
+closeups of actual signs on tablets | Basics / Grammar | Proto Cuneiform Signs (cdli) | LAK (proto list) 
+
+TRUE ETYMOLOGY | Proto Language Monosyllables PLM 
+
+APPENDIX | Abbreviations / Notations | How to write on clay | Basic Cuneus | Numbers | Vowels | Pronunciation | Syllabary A-Z: 
+
+Write your name in Sumerian! | Foxvog's Basics | Copula | Tablet Examples | Scribe | DAP |  Co-Editors.. 
+
+.. 
+ 
+Cover Full Size... 
+
+ 
+
+.. 
+
+*1-2* | 3-5  B | 6-10  B | 10-20  B | 20+ | QF Notes | toc | vvv 

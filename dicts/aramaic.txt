@@ -1,5 +1,9 @@
-Imperial Aramaic almost like Hebrew ++
+Imperial Aramaic almost like Hebrew ++ SO DONT BOTHER LEARNING IT!
+Aramaic only language in this part of the family that isn't dead
+Aramaic has a continuity that Hebrew doesn't, since it was revived
+
 https://en.wikipedia.org/wiki/Aramaic_alphabet
+
 
 Aramaic
 Arāmāyā
@@ -20,8 +24,30 @@ Aramyo
 
 L2R rendering of semitic in Sublime
 
+<<<<<<< HEAD
 בר 1. pure 2. puer (son)
 
+=======
+http://www.peshitta.org/
+
+Imperial Aramaic hebrew differences
+    1. The definite article differs between the two languages. In Hebrew, the definite article is prefixed to the noun as a he. In Aramaic, the definite article is attached to the end of the noun as an aleph.
+    2. Aramaic has a particle "diy" that can be used in at least 5 ways (Hebrew does not use this until postexilic times and even then rarely).
+        To mark the genitive - Daniel 4:23 "roots of the tree."
+        As a particle of relation (who, which, that) - Dan 2:24 "whom the king had appointed."
+        As the conjunction "as"- Dan 4:23 "And as it was commanded...".
+        To function as opening quotation marks - Dan 2:24 "Said to him, 'I found...".
+        As an idiom - Dan 2:29 "whatever will be".
+    3. Aramaic uses "l" in 3 ways.
+        As a preposition, "to, for" - Dan 3:20 "to the furnance."
+        To mark the infinitive - Dan 3:20 "ordered to bind...".
+        As the mark of the accusative - Dan 3:20 "to bind Shadrack." (Yes, it gets a lot of use in that verse.)
+        With immediate future meaning "about to" Dan 4:22 "About to be driven."
+        As a 'past tense' — very common in the phrase "answered and said."
+    4. There are letter changes. Hebrew words with "sh" will often appear in Aramaic spelt with a "t." For example, Daniel 5:25 contains "mene, mene, teqel upharsin." "teqel" is the Aramaic spelling of "sheqel."
+    ש (sh)-> ת (t) in Aramaic
+    ז (z) -> ד (d) in Aramaic
+>>>>>>> b5a27ee97b00331e76ca435bff5ae48a9a254f0b
 
 AKKADIAN words in asSyriac:
 

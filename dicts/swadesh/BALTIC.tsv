@@ -1,0 +1,208 @@
+ No. 	English 	Aryan	Lithuanian 	Old Prussian	Latvian 	Latgalian 	Samogitian 	Old Prussian
+1	I 	aisch	aš 	as	es 	es|aś 	aš 	as
+2	you (singular) 	tu	tu 	tū	tu 	tu 	to 	tū
+3	he 	his|dens(sein)	jis 	tāns	viņš 	jis 	ons 	tāns
+4	we 	meis	mes 	mes	mēs 	mes|ḿaś 	- 	mes
+5	you 	yous	jūs 	jūs	jūs 	jius 	jūs 	jūs
+6	they 	sje	jie 	tenei	viņi 	jī 	anėi 	tenei
+7	this 	this	šis|šitas 	šis	šis 	šys|itys 	- 	šis
+8	that 	thas	tas|anas 	stas	tas 	tys 	tas 	stas
+9	here 	<<	čia|čionai|šičia 	stwi	šeit 	ite|te|iťa 	šen 	stwi
+10	there 	dan durt	ten|tenai 	stwen	tur 	tī 	- 	stwen
+11	who 	qwhos	kas|kuris|katras 	kas	kurš|kas 	kurs 	kas 	kas
+12	what 	qwhath	kas|ką|kuo 	kawīds	kas 	kas 	kas 	kawīds
+13	where 	qwhere	kur|kame 	kwēi	kur 	kur|kimā 	kamė|kor 	kwēi
+14	when 	qwhenda	kada 	kadan	kad 	kod 	kumet 	kadan
+15	how 	qwoi(p?)	kaip 	kāi	kā 	kai 	kāp 	kāi
+16	not 	na	ne 	ni	nē 	nā 	ne 	ni
+17	all 	<<	viskas|visa|visas 	wisāi	viss 	vyss 	sovėsam 	wisāi
+18	many 	namz|many  toti? 	daug 	tūlan	daudz 	daudzi|namoz 	daug 	tūlan
+19	some 	Quelques|…?	kažkiek|keli|keletas 	deli	daži|kautcik 	nazcik|kuri nakuri 	- 	deli
+20	few 	Ne-toti	keletas|nedaug|truputis 	mazzan kas	nedaudzi 	nadaudzeji 	- 	mazzan kas
+21	other 	ceteris!	kitas|anas 	kitan	cits 	cyts 	kėts 	kitan
+22	one 	veins!	vienas 	ains	viens 	vīns 	vėins 	ains
+23	two 	dvi	du|dvi 	dwai	divi 	div 	do|dvė 	dwai
+24	three 	treis	trys 	trijan	trīs 	treis 	- 	trijan
+25	four 	qvtouri	keturi 	keturjāi	četri 	četri 	- 	keturjāi
+26	five 	phienci	penki 	pēnkjāi	pieci 	pīci 	- 	pēnkjāi
+27	big 	de.tallis!  de’bigan!	didelis 	debīkan	liels 	lels 	dėdėlis 	debīkan
+28	long 	Ilongros legs?	ilgas 	ilgāi	garš|ilgs 	gars|ilgs 	- 	ilgāi
+29	wide 	Plattos < platon	platus 	platus	plats 	plots 	pluots 	platus
+30	thick 	<<	storas|tankus|tirštas 	stārs	biezs 	bīzs 	- 	stārs
+31	heavy 	sunk? Groß schmackes	sunkus 	brendus	smags 	gryuts 	smagoms 	brendus
+32	small 	miczras mice	mažas 	līkuts	mazs 	mozs 	mažos 	līkuts
+33	short 	s’	trumpas 	īnsan	īss 	eiss 	- 	īnsan
+34	narrow 	šaurs ~short	siauras|ankštas 	anzuks	šaurs 	šaurs 	- 	anzuks
+35	thin 	plain plane	plonas|liesas 	lāils	plāns|tievs 	plans 	tēvs 	lāils
+36	woman 	moter! Civita?	moteris 	wīrina|gena	Sieviete !? <> sievai:wife	sīvīts 	muotrėška 	wīrina|gena
+37	man (adult| male) 	Wir <> man geht	vyras 	wīrikan	vīrietis 	veirīts 	- 	wīrikan
+38	man (human being) 	žmogus~zhumana | celt.vis τέλ|virk	žmogus 	zmānenawins	cilvēks 	cilvāks 	žemalieniškis 	zmānenawins
+39	child 	wickel|born|nick	vaikas|kūdikis|jauniklis (animal)|berniukas (male child) 	mālnīks|mālnīkiks	bērns 	bārns 	vāks 	mālnīks|mālnīkiks
+40	wife 	<>	žmona 	gena	sieva 	sīva 	- 	gena
+41	husband 	Wir virtuous ‘wahrer’	vyras 	wīrs	vīrs 	veirs 	vīrs 	wīrs
+42	mother 	mutina	motina|motė 	mūti|muti|mothe	māte 	muote 	muotina 	mūti|muti|mothe
+43	father 	atav! Theus tėvas !!!!	tėvas 	tāws	tēvs 	tāvs 	tievs 	tāws
+44	animal 	Žvėr > zoor > Tier | gvyn > gene	gyvūnas|gyvulys|žvėris 	zwērins	dzīvnieks|zvērs 	dzeivinīks|žeivots 	- 	zwērins
+45	fish 	zeafish 	žuvis 	zuks	zivs 	zivs 	žovs 	zuks
+46	bird 	Puten / pipert	paukštis 	pipelis	putns 	putnys 	paukštis 	pipelis
+47	dog 	qcuon	šuo|šuva|šunis 	sunis	suns 	suņs 	šou 	sunis
+48	louse 	al vts → laus / Wutz	utėlė|utis 	uts	uts 	vuts 	utis 	uts
+49	snake 	-n-g-s >>	gyvatė|angis|žaltys 	angis	čūska 	čyuska|tuorps 	- 	angis
+50	worm 	Krumm!! <> red! Torpedo|slecke	kirminas|kirmėlė|sliekas 	kīrmis	tārps 	tuorps|tuorpeņš 	- 	kīrmis
+51	tree 	𓄠 mes|medis<<< koks!! drėvė>tree 𓄠	medis|kuoka (a thick piece of wood)|drėvė (hollow tree) 	garrjan	koks 	kūks 	medis 	garrjan
+52	forest 	𓄠 Mes! Medicin?	miškas|giria 	medjan	mežs 	mežs 	gėrė|medė 	medjan
+53	stick (of wood) 	laxt?	lazda|pagalys|žagaras|stabas|vėzdas 	lagzdē	žagars|nūja 	vāza 	- 	lagzdē
+54	fruit 	feigse|vAuge 𓁹  𓂁𓂂	vaisius 	wēisis	auglis 	- 	- 	wēisis
+55	seed 	Säckla𓌫 |schekel|semen	sėkla|sėmuo|sėmenas 	sēmen	sēkla 	sākla 	- 	sēmen
+56	leaf 	laubp[as/an]|leaf	lapas 	lapan	lapa 	lopa 	- 	lapan
+57	root 	<<	šaknis 	saknis	sakne 	sakne 	- 	saknis
+58	bark (of tree) 		žievė 	sakstis	miza 	- 	- 	sakstis
+59	flower 	Puče ~ phyte   ziedas 𓊃 𓈙 𓈖 𓆸	gėlė|žiedas 	kwēitis	zieds|puķe 	puče 	žeids|kvietka 	kwēitis
+60	grass 	Sole! Scholle < Sar	žolė 	zālīs	zāle 	zuole 	žuolė 	zālīs
+61	rope 	Schnur|Strick|Wirbel!	virvė 	wīrbē	virve|aukla|striķis 	vierve 	šniurs|štrekis 	wīrbē
+62	skin (of a person) 	Hauta→odor skārred crude!  plain plane ^^	oda|plėnė 	Skārdā ↔ crude khrṓs rot!	āda 	uoda 	- 	skārdā
+63	meat (as in flesh) 	meatha|mensa!	mėsa 	mēnsā	gaļa 	gala 	mēsa 	mēnsā
+64	blood 	Crude : red meat	kraujas 	krāujā	asinis 	asnis 	kraus 	krāujā
+65	bone 	𓈎 𓋴 𓌟 khors > kaulas ++	kaulas 	kaūlan	kauls 	kauls 	- 	kaūlan
+66	fat (noun) 	talg	taukai|riebalai	taūks	tauki 	tauki|tuklums 	- 	taūks
+67	egg 	oille|putes@bird	kiaušinis|pautas 	pāuts	ola 	ūla 	- 	pāuts
+68	horn 	K-r-s <> r-g-s ! 	ragas 	ragis	rags 	rogs 	- 	ragis
+69	tail 	achter|stag	uodega 	stags	aste 	aste 	- 	stags
+70	feather 	Plume|?	plunksna 	plāugzdā	spalva 	spolva 	- 	plāugzdā
+71	hair 	Matte|? 	plaukai 	skebeljāi	mati 	moti 	- 	skebeljāi
+72	head 	s’calp > galva!  𓋴 𓌳 𓁸  	galva 	galwā	galva 	golva 	galva|kramė 	galwā
+73	ear 	aors auδios	ausis 	ausins	auss 	auss 	- 	ausins
+74	eye 	Aukis oculs ++	akis 	akīs	acs 	ocs 	akis 	akīs
+75	nose 	noses	nosis 	nozy	Deguns  ?	nuoss 	- 	nozy
+76	mouth 	moute|um.os.ta! burn!? <> PU!	burna 	austa	mute 	mute 	- 	austa
+77	tooth (rather not molar) 	dent|zopf!!	dantis 	dantis	zobs 	zūbs 	dontės 	dantis
+78	tongue 	(g)lozuw  n-zuw ~ zunwe	liežuvis 	inzuwis	mēle 	mēle 	- 	inzuwis
+79	fingernail 	naglas	nagas 	nagutīs	nags 	nogs 	- 	nagutīs
+80	foot 	pheda	pėda 	pēdā	pēda 	pāds 	- 	pēdā
+81	leg 	<>Koje??	koja 	aulinis	kāja 	kuoja 	staibis  Stab	aulinis
+82	knee 	Kehle! @Knie 	kelis|kelienis|klupstis 	klupstis	celis 	ceļs 	- 	klupstis
+83	hand 	(p)ranke|reich<<<!	ranka 	rānkā	roka 	rūka 	ronka 	rānkā
+84	wing 	Spann <> sporn?	sparnas 	skreīlīs	spārns 	spuorns 	- 	skreīlīs
+85	belly 	fat fetter veders;)	pilvas|viduriai 	wēdērs	vēders 	vādars 	- 	wēdērs
+86	guts 	vitual|𐀼 za?	viduriai|žarnos 	tulawārtis	iekšas|zarnas 	vydspuse|vydi 	- 	tulawārtis
+87	neck 	Gockle <> Gurgle	kaklas 	winzus	kakls 	koklys|reikle 	- 	winzus
+88	back 	neck mnuggar ⛰? 	nugara 	ritiznan	mugura 	mugora 	- 	ritiznan
+89	breast 	𓈎 𓄿 𓃀 𓏏 𓄹 kurvets krūtis!	krūtis|papas 	kreklan	krūts 	kryuts 	- 	kreklan
+90	heart 	sheartdis certain?	širdis 	sēris	sirds 	sirds 	šėrdis 	sēris
+91	liver 	यकृत् (yakṛt) Latin iecur <> vigor ?  Ήπαρ=>hepar<liver  כָּבֵד‎ (he) m (kavéd) que’vit	jeknos|jaknos 	jakna	aknas 	oknys 	kepenys~कलेजा (hi) m (kalejā	jakna
+92	to drink 	Pot | tiger >  dger 𓏏𓐍𓈗! drink > 𓋴𓅨𓂋𓇋𓀁 GER.ti	Gerti  … TI~TO:DO!	pōtwēi	dzert 	dzert|teļst 	- 	pōtwēi
+93	to eat 	ēstwen	valgyti|ėsti 	Ēstwen  … … (t)wei/(t)wen ~ fairn?? <<!	ēst 	ēst 	jiestė 	Ēstwen  … … (t)wei/(t)wen ~ fairn?? <<!
+94	to bite 	Kost ++	kąsti 	Aukanstun … …TUN!! +++ :)	kost 	kūst 	- 	Aukanstun … …TUN!! +++ :)
+95	to suck 	sulk schluck	čiulpti|žįsti 	dītun|dastun	sūkt 	suļkt 	solptė 	dītun|dastun
+96	to spit 	spiit	spjauti 	Wemtweī : vomit	spļaut 	- 	- 	Wemtweī : vomit
+97	to vomit 	vomiti	vemti|riaugėti 	Sjaūtweī : spit	vemt 	vemt 	vemtė 	Sjaūtweī : spit
+98	to blow (as wind) 	Pusten <3	pūsti 	dumtwei	pūst 	pyust 	- 	dumtwei
+99	to breathe 	keuch? Dwest!?	kvėpuoti|alsuoti 	dwestwei	elpot 	dvašuot|pyustīs 	- 	dwestwei
+100	to laugh 	joke|smit™ smunzel	juoktis 	smeītun si	smieties 	smītīs|krēkt|kecinēt 	- 	smeītun si
+101	to see 	Moyti!!! 𓈖𓍇𓏌𓁹 <<<<>>	matyti|regėti|išvysti 	wīdātun	redzēt|manīt 	redzēt 	matītė|iveizietė|primatītė 	wīdātun
+102	to hear 	kirditin 𓇥𓂋 gDm !	girdėti|klausytis 	kīrdītun|klausītun	dzirdēt 	dzierdēt|izdzierst 	- 	kīrdītun|klausītun
+103	to know (a fact) 	Zgnosti | ism < wisdom / weise.tun	žinoti|išmanyti 	Waīstun <3	zināt 	zynuot 	žėnoutė 	Waīstun <3
+104	to think 	demnk deem.toi ++	galvoti|mąstyti 	pamēritwei|mēritwei	domāt 	guoduot|dūmuot 	mėslītė 	pamēritwei|mēritwei
+105	to smell 	smerr.do.tuei !!	uosti|uostyti|smirdėti|kvepėti 	wōstun|smīrdītwei	ost|saost 	ūst|smuorduot 	- 	wōstun|smīrdītwei
+106	to fear 	bijo~fio(r)	bijoti 	bijāsnan	baidīties|bīties 	beitīs|beisteitīs 	- 	bijāsnan
+107	to sleep 	snorsti|kusch|<<>>	miegoti|snausti 	gulētun	gulēt|dusēt|čučēt 	gulēt 	mėiguotė 	gulētun
+108	to live 	GENE < Gyventi <<<	gyventi|gyvuoti 	gijwans	dzīvot 	dzeivuot 	- 	gijwans
+109	to die 	mėrtė	mirti|dvėsti|žūti 	aulaut	mirt 	miert|paguļt 	mėrtė|mėrtė žemien 	aulaut
+110	to kill 	galin: killen.tun :) zu.dieth	žudyti|galabyti|užmušti 	galīntun	galināt|nonāvēt 	nūsist|nuoveit|nūnuoveit 	zurduotė 	galīntun
+111	to fight 	qwarrty?	kovoti|kautis|muštis 	wālint	cīnīties 	ceikstētīs|veiktīs|atsaturēt 	- 	wālint
+112	to hunt 	𓈖𓍇𓏌𓁹  mnetz|mvidio	medžioti 	medjānē	medīt 	medeit 	- 	medjānē
+113	to hit 	smite, s’must? Doti<< … >>>	smogti|mušti|duoti|trenkti|kirsti|plekštelėti|liuobti|kulti 	Bruktēt <> brech	sist|sadot 	sist|laubt 	- 	Bruktēt <> brech
+114	to cut 	Cirpt >> cept !!!	pjauti|kirpti|kirsti|riekti (bread)|kirpti 	wartint	griezti|cirpt 	grīzt 	- 	wartint
+115	to split 	skelt™ spilt~spadalit!?<	skelti|padalinti <> spliter	spīltun	sadalīt|šķelt 	padaleit|sadaleit 	- 	spīltun
+116	to stab (or stick) 	durt<>dolch?	durti|smeigti|besti 	bādīnt	durt 	dūrt|dūrsteit 	- 	bādīnt
+117	to scratch (an itch) 	~ 	drėksti||draskyti|brėžti|brozdinti|zulinti|kasyti|krapštyti 	kīrptun|glāubtun|grāmbintun	skrāpēt 	- 	- 	kīrptun|glāubtun|grāmbintun
+118	to dig 	<<	kasti|rausti|rakinėti 	kaptun	rakt 	rakt|best 	- 	kaptun
+119	to swim 	pluvoir? Float > flat	plaukti 	plūtwei	peldēt 	maut 	- 	plūtwei
+120	to fly 	s’christi?   Lidot=let-out	skristi|lėkti|skrieti|skraidyti 	skrāistwei|skrītwei|langītwei	lidot 	skraideit|laistīs	liektė 	skrāistwei|skrītwei|langītwei
+121	to walk 	Geiht | tzingeln?	eiti|žengti|vaikščioti 	eit|zengt	iet 	īt 	ėitė 	eit|zengt
+122	to come 	Ad-iteri, ad-weg, para-iter, nāht	ateiti|atvykti 	perēitwei	nākt 	atīt|īt 	- 	perēitwei
+123	to lie (as in a bed) 	Guilty;) >>	gulti (action)|gulėti (state) 	mēntitun (action)|lānzītwei (state)	gulties (action)|gulēt (state) 	guļtīs (action)|gulēt (state) 	- 	mēntitun (action)|lānzītwei (state)
+124	to sit 	sedate|sitz|cessti	sėsti (action)|sėdėti (state) 	sīstwei (action)|sīndītwei (state)	sēsties (action)|sēdēt (state) 	sēdēt (state) 	- 	sīstwei (action)|sīndītwei (state)
+125	to stand 	✓	stoti (action)|stovėti (state) 	stātwei (action)|stalītwei (state)	stāties|stāt (action)|stāvēt (state) 	stuotīs|stuot (action) 	- 	stātwei (action)|stalītwei (state)
+126	to turn (intransitive) 	Krypti ++ < gyr, verse <> sacret: apsagrīzt 	apsisukti|krypti|kreipti|gręžtis|verstis 	līnkis|wartīntun|grānztun	apgriezties	apsagrīzt	- 	līnkis|wartīntun|grānztun
+127	to fall 	𓐍 𓂋 𓀒	kristi|pulti|virsti|griūti 	krūtwei|wīrstwei|grustwei	krist|kristies 	krist 	kristė|kristė žemien 	krūtwei|wīrstwei|grustwei
+128	to give 	donn|dar|datei|take++|dotiert++	duoti|teikti 	dātwei	dot 	dūt 	doutė 	dātwei
+129	to hold 	<< wiktionary: nix ;(	laikyti|turėti 	lāikāitē	turēt 	turēt 	torietė 	lāikāitē
+130	to squeeze 	~-	spausti|slėgti|mygti 	glabtun|gnestun|niettrepewīngis	spiest|žmiegt 	mīgt|spīst 	- 	glabtun|gnestun|niettrepewīngis
+131	to rub 	Treat! <> treten?	trinti 	tirtun	berzt|trīt 	treit|bruozuot 	- 	tirtun
+132	to wash 	floaten!^^ <> plaukti  : swim	plauti|skalbti|mazgoti 	aumūtun|mūtun	mazgāt 	mozguot 	plautė 	aumūtun|mūtun
+133	to wipe 	/	šluoti|valyti 	Klekstātun ;)|skistīntun	slaucīt 	slauceit 	- 	Klekstātun ;)|skistīntun
+134	to pull 	track|tension|felge?	traukti|tempti|vilkti 	tēnstun|wīlktun	vilkt|raut 	viļkt 	- 	tēnstun|wīlktun
+135	to push 	stämmt|	stumti|grūsti 	brjaūtun|pistun push.tun!	stumt|grūst 	stoßen 	- 	brjaūtun|pistun push.tun!
+136	to throw 	smite, s’mess.tun <> miss ;) messen?	mesti|sviesti 	mestun	mest|sviest 	Svīst ~ Schiesst	Laistė ~ lässt	mestun
+137	to tie 	Zieht <> Seite, Seil?	rišti|sieti 	ristun|sēitun	siet 	sīt 	- 	ristun|sēitun
+138	to sew 	Sew.ti sew.tun ++	siūti 	šūtun	šūt 	šyut 	- 	šūtun
+139	to count 	s’geld? <<	skaičiuoti|skaityti 	gīrbautun|skaitātun	skaitīt 	skaiteit 	skaitlioutė 	gīrbautun|skaitātun
+140	to say 	sayg.ti  tarlk.ti >	sakyti|byloti|tarti|teikti 	gērdautun|waitjātwei|tarītun	teikt|sacīt 	saceit|runuot 	- 	gērdautun|waitjātwei|tarītun
+141	to sing 	<> Dance dainuoti drawn/turn<> gyro.doti  <3	dainuoti|giedoti 	gremtun gram?	dziedāt žaisti Sistrum/Guitar?	dzīduot 	dainioutė 	gremtun gram?
+142	to play 	Spiel | Sistrum?? <<+	žaisti	spīlitun	spēlēt 	kaitavuot 	- 	spīlitun
+143	to float 	pludin~floaten! Paddel;) <> plauti^^	plūduriuoti 	plaudīntun	peldēt|pludināt 	mauduot 	- 	plaudīntun
+144	to flow 	<<	tekėti|bėgti|srūti|plūsti 	tektwei|bēgtwei	tecēt 	tecēt|skrīt 	- 	tektwei|bēgtwei
+145	to freeze 	Salt! << @…	šalti 	saltwei	salt 	saļt 	šaltė 	saltwei
+146	to swell 		tinti|brinkti|pursti|tvinkti|pūstis 	belztwei|pabelztwei	uztūkt|piebriest 	satyukšt 	porptė 	belztwei|pabelztwei
+147	SUN	shora sohra saule sole!!	saulė 	saūlē	saule 	saule 	saulė 	saūlē
+148	moon 	~Mien menace maniac	mėnulis|mėnuo|mėnesis 	mēniks	mēness 	mienesnīks 	mienolis 	mēniks
+149	star 	schweigter(n) Zweig???	žvaigždė 	lāuksnā	zvaigzne 	zvaigzne 	žvaizdė 	lāuksnā
+150	water 	wunda wden wuoter	vanduo 	wundan	ūdens 	iudiņs 	ondou 	wundan
+151	rain 	liter!?	lietus 	aglō	lietus 	leits 	lītos 	aglō
+152	river 	Ape <> ab!! <> Ufer!	upė 	ape	upe 	upe 	- 	ape
+153	lake 	wässer.as	ežeras 	assaran	ezers 	azars 	ežers 	assaran
+154	sea 	Jura!! <<	jūra|marios 	jūrjāi	jūra 	jiura 	jūra 	jūrjāi
+155	salt 	Salth <> frost!	druska 	sālis	sāls 	suoļs 	droska 	sālis
+156	stone 	Akmiņ 8!!!!!!! QED unsuspected	akmuo|kūlis 	stabs	akmens 	akmiņs 	kūlis 	stabs
+157	sand 	schmeltz? Zigur ziegel!!	smėlis|žvirgždas|smiltys 	zigzdā|zwīrkstan	smiltis 	smiļkts 	smėltės 	zigzdā|zwīrkstan
+158	dust 	<> pust=blow	dulkės 	pūslē	putekļi 	puteklis 	- 	pūslē
+159	earth 	Geon χῐών Zion Zi.ma क्ष ṣa.um zoo.al soil	žemė 	zemē	zeme 	zeme 	žemė 	zemē
+160	cloud 	<> debris ?	debesis 	wupyan	mākonis 	muokuļs 	drankis 	wupyan
+161	fog 	Rauch, ash, mist.al	rūkas|migla|ūkas 	migla	migla 	mygla 	megla 	migla
+162	SKY	DON.Guss DON.Goth Dei.bwheather <Piter <<++	dangus 	dāngus	debess|debesis 	dabasi  DA.BOSSi	dongos DON.GOTH	dāngus
+163	wind 	~|weather! < water	vėjas|vėtra 	wētra	vējš 	viejs 	vies|viesos 	wētra
+164	snow 	✓	sniegas 	snāigs	sniegs 	snīgs 	sneigs 	snāigs
+165	ice 	Lead <> liter <<	ledas 	leds	ledus 	lads 	leds 	leds
+166	smoke 	dumnst	dūmai 	dūms	dūmi 	dyumi 	- 	dūms
+167	fire 	PAN agnis™ ignite	ugnis 	Pannō !?	uguns 	guņs 	ognes 	Pannō !?
+168	ash 	< fallen	pelenai	pelanē	pelni 	palni 	- 	pelanē
+169	to burn 	Docht.en داغ‎ (dāġ) 𓌳 𓄿 𓄡 𓊮 djeg,tsäk-, दहति (dáhati) 𓍑	degti 	degtwei	degt 	degt 	- 	degtwei
+170	road 	Kur → kelth? 길  도로 kelten=schalten  kulkea	kelias 	pints	ceļš 	ceļš 	- 	pints
+171	mountain 	Karn → kaln! Grab!!!	kalnas 	grabis	kalns 	kolns 	kalns 	grabis
+172	red 	raud|warm!|sargon!?	raudonas 	wārmis	sarkans|ruds (hair) 	sorkons|raudons 	rauduons 	wārmis
+173	green 	Zar <> zal	žalias 	zaljan	zaļš 	zaļs 	- 	zaljan
+174	yellow 	gelt! Gold gelbt	geltonas 	gēltāinan	dzeltens 	dzaltons|voskons (poet.) 	geltuons 	gēltāinan
+175	white 	baltic! Bald|白色 báisè	baltas 	gaīls	balts 	bolts|boltons 	balts 	gaīls
+176	black 	jud!? Mal! kīrsn<>chare krisna?	juodas 	kīrsnan	melns 	malns 	juods 	kīrsnan
+177	night 	✓	naktis 	naktis	nakts 	nakts 	- 	naktis
+178	day (daytime) 	✓ dayn diem	diena 	deinan	diena 	dīna 	dīna 	deinan
+179	year 	Meta Meter / Gods!!! <<< maß/cut	metas 	meta|metan	gads 	gods 	metā 	meta|metan
+180	warm 	Sylt <3 ??	šiltas 	tappis	silts 	sylts 	- 	tappis
+181	cold 	Salt <> white-frost!	šaltas 	saltan	auksts|salts 	solts 	šalts 	saltan
+182	full 	piln phil full ++	pilnas|kupinas 	pilnan	pilns 	pylns 	- 	pilnan
+183	new 	neujen jeun ++	naujas|jaunas 	nāuns|mālds	jauns 	jauns 	- 	nāuns|mālds
+184	old 	senior senil sense	senas|senovinis 	wārs	vecs|sens 	vacs|senejais 	sens 	wārs
+185	good 	gerad|lob+++ <<> @…	geras|labas 	labs	labs 	lobs 	gerā 	labs
+186	bad 	ne…tik🗹 ठीक ṭhīk NOT! ne(love,ger!) würg;)  schlecht	netikęs|prastas|blogas|vargingas|nelabas|negeras 	wārgs|pawārgewingisks	slikts|ļauns 	nalobs 	bluogs 	wārgs|pawārgewingisks
+187	rotten 	super.ves ~ ‘über’	supuvęs|sutrūnijęs 	puwwuns	sapuvis 	- 	- 	puwwuns
+188	dirty 	nature?	nešvarus|purvinas|netyras 	mēlins	netīrs 	nateirs 	- 	mēlins
+189	straight 	straiths tais?	tiesiai 	entìkriskai	taisns|tiešs 	taysnis 	statē 	entìkriskai
+190	round 	Apo.skrit!  <<	apskritas|apvalus 	skrits|ebskrits	apaļš 	opols 	ožvės 	skrits|ebskrits
+191	sharp (as a knife) 	Astar !!! <<< ***	aštrus 	astars	ass 	oss 	- 	astars
+192	dull (as a knife) 	troll~dull	bukas|atšipęs|neaštrus 	kams	truls 	neoss 	- 	kams
+193	smooth 	Glatt ++	glotnus|nugludintas|švelnus|lygus|nešiurkšus 	līgus|izlīgintun	gluds 	gluds|leidzons 	- 	līgus|izlīgintun
+194	wet 	slip, drag/dreck-nass, murks, mist	šlapias|drėgnas 	mārks	mitrs|slapjš 	volgons|slapnis 	- 	mārks
+195	dry 	^sun	sausas 	sāuss	sauss 	sauss 	- 	sāuss
+196	correct 	🗹 (rich)tic.nig ठीक ṭhīk	teisingas|tikras 	tikkars|tikrōmisks|arwiskai	pareizs|taisnīgs 	pareizs|taisneigs 	- 	tikkars|tikrōmisks|arwiskai
+197	near 	Ortho ~to…	arti|šalia|netoli 	taūwu|pagār|taūws	tuvs 	tyvs tiveims 	šalėp 	taūwu|pagār|taūws
+198	far 	Tele™ ✓	tolus|tolimas|atokus|atstus 	tāli|tāls|etāliskan	tāls 	toleims 	tuolėi 	tāli|tāls|etāliskan
+199	right (side) 	🗹 (rich)tick, दक्षिण (dakšiṇa) dexter < directio	dešinė 	tikrā	labais|pa labi 	lobais|pa lobai 	- 	tikrā
+200	left (side) 	!!!<<<	kairė 	kāirā	kreisā puse 	kairais|kairuo puse 	- 	kāirā
+201	at 	Pros → bei, antes	į|prie|pas|ties|ant 	prēi	pie 	pi 	i 	prēi
+202	in 	in	į|in 		iekš 	vyd 	i 	
+203	with 	zu|syn	su|są|san 	sa|san	ar 	ar 	- 	sa|san
+204	and 	un(d)|y| ir<or<অপৰ apara : apart > aber,but, bei(d) +++	ir|bei 	be	un 	i 	- 	be
+205	if 	ja|gar! akk@goth Quand ++	jei|jeigu|kad 	ik|ikkai	ja 	ka|kod 	- 	ik|ikkai
+206	because 	…	nes|kad|kadangi|todėl 	begi|paggan|kaddan gi|stesse paggan	tāpēc (ka)|jo 	kam|partū ka|deļtuo ka 	todėl|dėl to 	begi|paggan|kaddan gi|stesse paggan
+207	name 	WORT <> wir.dan!   (privat-) Omen/Nomen	vardas|pavadinimas 	wīrdan|ēmens|ēmen|wirdan	vārds 	vuords 	- 	wīrdan|ēmens|ēmen|wirdan

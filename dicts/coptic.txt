@@ -5,20 +5,20 @@ a	Ⲁ	ⲁ	1	AlphAin	Α, α	a [a, ʔ, ʕ]
 b	Ⲃ	ⲃ	2	Bētau	Β, β	b, v [β~v] 
 c	Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s] ↔ Ⲋ	ⲋ	6	So	Ϛ, ϛ (sigma stigma)	–  σ  TH <<  σι~tai' = take
 C	Ⲅ	ⲅ	3	cGammant	Γ, γ	g [ɡ] ↔ Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s]
-d	Ⲇ	ⲇ	4	DelTa	Δ, δetra=4	d [d] 
+d	Ⲇ	ⲇ	4	DelTa	Δ, δetra=4	d [d] ϫ Mdj
 e	Ⲉ	ⲉ	5	fEinf	PΕin WEn ε	e [i, e][note 1] ə! dangling I+N ! zB 𓍢 ϢⲈ~cent   ↔ Ⲏ	ⲏ	8	ahĒta   𓎆 ⲘⲦⲈ~Tenµ 
 F	Ⲋ	ⲋ	6	So(Ч)	Si(x) Ϛ, ϛ (stigma)	– ЧϤ VAUW!  σ TH! σι'~take ↔ Ⲫ	ⲫ	500	Fi	Φ, φ	ph / p' [pʰ] ↔ ƒⲦ ? Ⲝ	ⲝ	60	Gsi	Ξ, ξ	ks??
 f	ЧϤ чϥ	-> phth 90
 g	Ⲍ	ⲍ	7	ϬZēbta	Ζ, ζ	z [z]  'Gji'	↔ Ⲅ	ⲅ	3	Gamma	Γ, γ	g [ɡ]  ⲌⲌ~NΓ~ng!
 [	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ
 h	Ϩ	ϩ	_	Hōri	(none)	h [h, ħ] ϩⲟⲟⲩ : hour/heuer/dhaoy/day
-K	Ϧ	ϧ _	Khay	(none)	x [x]  חה Schlaf~ ⲥϧⲏⲗⲟ
+K	Ϧ	ϧ _	Khay	(none)	x [x]  חה Schlaf~ ⲥϧⲏⲗⲟ, scrit~ⲥϧⲏⲧ⳼ (write)
 H	Ⲏ	ⲏ	8	hĒta	Η, η	ē / e [eː] *huηn	 Ϩϩ		Hōri:djhour!  ϢⲎⲦ = cent   N component (russian)  
 ;	Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ	th / t' [tʰ] circle turn
-i	Ⲓ	ⲓ	10	zaIn jYotan 	Ιj, ι	i [iː~j]
+i	Ⲓ	ⲓ	10	zaIn jYotan 	Ιj, ι	i [iː~j]  Mdj Ϫ	ϫ	ʒ
 k	Ⲕ	ⲕ	20	Kabba	Κ, κ	k [k] ↔ ϦⳈ  ϧⳉ ↔ ϙ koppa	q !
 l	Ⲗ	ⲗ	30	Lola	Λ, λ	l [l] Nil Null  ↔ Ⲣ ⲣ R 
-m	Ⲙ	ⲙ	40	Me	Μ, μ	m [m]  ↔ Ϣ SHm mSH  M component see 𐤌 = M
+m	Ⲙ	ⲙ	40	Me	Μ, μ	m [m]  ↔ Ϣ SHm mSH  M component see 𐤌 = M ϫ Mdj
 n	Ⲛ	ⲛ	50	Neil	Ν, ν	n [n] nil null 
 !	Ⲝ	ⲝ	60	Gsix	Ξ, ξ	ks Xi / 'icks'  Eksi  ↔ Ϙ, ϙ koppa	q / tsh [kʲ, tʃ]
 o	Ⲟ	ⲟ	70	O	Ο, ο	o [o] Ai/Oi!
@@ -41,7 +41,9 @@ x	Ⲭ	ⲭ	600	xKhe	Χ, χ	kh [kʰ] kAin ¬ א ↔ Ⲝ	ⲝ (s)iXi 60
 z	Ϣ	ⲱ	800	zhŌuez?	Ω, ω	ō / o [oː] ß SS SCH SWAmp 𓆷  𐦓 Letter 'SvA' ש  ↔ Ϣ	ϣ		Shay
 P	Ⳁ	ⳁ	900 pZet?
 
-j	Ϫ	ϫ	ʒ Janjan 'jI'	(none)	j / dzh [dʒ]	!	vs Ⲑ	ⲑ	9	Thēta  Ϭ
+Ϫ CM/MC
+
+j	Ϫ	ϫ	ʒ Janjan 'jI'	(none)	j / dzh [dʒ]	Mdj!	vs Ⲑ	ⲑ	9	Thēta  Ϭ
 |	Ⳉ	ⳉ	_	Xai	(none)	x [x]  חה xai is Ⳉ ⳉ in Akhmimic and Ⳋ ⳋ in Bohairic, both for a velar fricative /x/ ~ Ϣ
 S	Ϣ	ϣ		Shay	(none)	sh / š [ʃ]  ↔ ST? Stigma  ↔ Ϣ ~ W?  MoϢe ~ move! MW component see 𐤌 = M
 Ϧ (Ⳉ)	ϧ (ⳉ)[note 3]		Khay	(none)	x [x]  חה
@@ -85,22 +87,24 @@ q	Ϧ	ϧ khai chei C x ↔ dh
 ⲙ ~ N anise~ⲁⲙⲓⲥⲓ ⲙⲉⲧ-=-ness
 ⲃ ~ bM !!! ⲁⲃⲏⲧ = a'Month <> Pflanz++ ! ⲃⲁⲓ black:	night raven; screech-owl <<< !!! MBAI BA↔PNEU!!
 ⲃ ~ Bl  ⲁⲃⲟⲩⲓ flesh  ⲁⲃⲟⲕ a black crow ^^ 𓅓𓐍  ⲃⲟϯ~ plant@bottich;)  ⲃⲱϣ blöße↔loose! +++
-ⲃ ~	Br ⲃⲁⲑⲣⲁ~bridge 𓅓 mBIRD!!! Br/Flyghel +++ 
+ⲃ ~	Br ⲃⲁⲑⲣⲁ~bridge 𓅓 mBIRD!!! Br/Flyghel +++   ⲁⲡⲟⲗⲁⲃⲓⲛ ⳼ ⲁⲡⲟⲗⲁⲩⲓⲛ
 ⲃ ~ P : ⲁⲃⲁⲛ~paint~abMal~covLor
 ⲃ ~ V/F/W ⲃⲁϩⲥⲓ Färse (Kuh) ↔ Bos   ⲃⲓϯ~waste ⲂⲰⲔ~WORKER buckel 𓅡𓎡𓅂
 ⲃ ~ qV gW kV ↔ ⲃⲁϩ BOS vs KUH *KVOHS  vs Muh ;) ---
-ⲩ ~ us,ysh,irs,ur!   ⲩvwⲃ ⲁⲡⲟⲗⲁⲃⲓⲛ ⳼ ⲁⲡⲟⲗⲁⲩⲓⲛ
-ⲩ UR YR UVWRST ⲁⲩⲍⲟⲩⲥⲧⲟⲥ=Augustos !
+ⲩ UR VR YR  ⲕⲁⲩⲥ 1. Kars=heatc@Lith 2. Heiß  +++ ⲁⲩⲍⲟⲩⲥⲧⲟⲥ=Augustos!  
+ⲩ ~ UVWRst us,ysh,irs,ur! 'first' coughfever:ⲕⲁⲩⲥ  digamma gh:f
 ⲱ ~ who,wu,phe : ⲁⲟⲩⲱⲛ ouphn = open ⲁⲟⲩⲱⲛ !!! +++  ⲥⲱ ⲥⲟ⳼ ~ sauf soif
 ⲑ ~ gh sh th
 ⲡ ~ II: LD?  ⲁⲡ abb off
 ϧ ~ 𓐍!'q'/c/ch/kh/Ϧ/tch/δ/chr/kwr: ⲥϧⲁⲓ=schreiben scrif graphein write sunken~ⲥⲁϧⲉⲙ ϧⲉⲙⲓ=heat: chemie@Arab++ thermi@GR wärme@GER 
 ϩ ~ sil djhoul ghour ch kh --> s ⲟⲩⲁϩ 	 ~oasis     ϩⲁⲧ silver≠gold
-ϫⲓⲛ- SYN- CON- !!! ϥⲟϫ TAN.ZEN [tha[in]+ä(n)+syn]
+Ϫ CM/MC DM/MDj -> sN
+ϫⲓⲛ- Common SYN- CON- !!! ϥⲟϫ TAN.ZEN [tha[in]+ä(n)+syn]
 ϫ ~ down? ⲕⲟⲣϫ⳼ ↔ ⲕⲱⲣϫ 	 to cut down
-ϫⲁⲙⲁⲩⲗⲓ ↔ ϫⲁⲙⲟⲩⲗ 	 camels vs dromedary
-ϫ ~ 1. yq,ck,ic,ch : race, track, ... chat!  ϫ Höcker 𓂓 'k   ⲁϫⲟⲩ serpent??
+ϫⲁⲙⲁⲩⲗⲓ ↔ ϫⲁⲙⲟⲩⲗ 	 camels vs dromedary < chamomile
+ϫ ~ 1. yq,ck,ic,ch : race, track, ... chat!  ϫ Höcker 𓂓 'k   ⲁϫⲟⲩ a sNhr! snake/serpent
 ϫ ~ ƒ. yy λλ ll yp jp yvw 
+
 ⲣ ~ rsh/hr ⲙⲁⲣⲟⲛ 	 let us go    marshons!!
 ⲣ ~ ḪR ᚱɦҕӄրռՐર𐨪𐬭ﺭｒŗरϨʵ! HR Human/Kheman/Roman/Commoner cH Հح ↔ 𐤓𐡓Rosh vs Cup 𐋉 Round ↔ 𐨪 La
 ⲣ ~ pr/rp ⲥⲁⲣⲭ corpus Karpfen carne Körper ⲁⲣⲟ abre = tree!
@@ -1956,9 +1960,9 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲙⲉⲧⲉⲥⲓⲉ	 f. drowning
 ⲉⲥⲕⲉⲛ ↔ ⲥⲕⲉⲛ 	 beside
 ⲉⲥⲕⲓ ↔ ⲱⲥⲕ 	 delay
-ⲉⲥⲱⲟⲩ 	 	m. (mostly as pl.) sheep
-ⲙⲁⲛⲉⲥⲱⲟⲩ	 m. shepherd
-ⲉⲧ- , ⲉⲑ- , ⲉⲧⲉ- 	 	relative prfx. ⲯwho,which is`
+ⲉⲥⲱⲟⲩ 	 	m. (mostly as pl.) sheep  equos!?!
+ⲙⲁⲛⲉⲥⲱⲟⲩ	 m. shepherd  MAN'o'Schaf ~ ⲉ'ⲥⲱⲟⲩ ?
+ⲉⲧ- , ⲉⲑ- , ⲉⲧⲉ- 	 	relative prfx. ⲯwho,which is`  (t)hat
 ⲉⲧⲉϣⲓ ↔  ⲉⲧⲏϣⲓ 	 crane
 ⲉⲧⲏⲙⲁ ↔ ⲁⲓⲧⲏⲙⲁ 	 request
  ⲉⲧⲏϣⲓ	 	f. rust, mildew
@@ -1966,7 +1970,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲉⲧⲓ 	 🇬🇷 conj. after, after which, andduring, as
 ⲉⲧⲓⲁ	 🇬🇷 f. blame, charge, fault
 ⲉⲧⲓⲟⲥ 	 🇬🇷 m. guilty, culprit
-ⲉⲧⲫⲱ ↔ ⲱⲃⲧ 	 burden
+ⲉⲧⲫⲱ ↔ ⲱⲃⲧ 	 burden  (d)ept obt
 ⲉⲧⲫⲱⲟⲩⲓ ↔ ⲱⲃⲧ 	 burdens
 ⲉⲩⲁⲍⲍⲉⲗⲓⲁ 	 🇬🇷 f. good tidings, thegospel
 ⲉⲩⲁⲍⲍⲉⲗⲓⲕⲟⲥ , -ⲟⲛ 	 🇬🇷 m. according tothe gospel
@@ -2714,7 +2718,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲕⲁⲧⲟⲥ 	 🇬🇷 m. water-wheel
 ⲕⲁⲧⲟⲩⲗⲓ 	 	m. mallow
 ⲕⲁⲧⲱ , ⲕⲁⲧⲟⲁ 	 	f. boat, skiff
-ⲕⲁⲩⲙⲁ , ⲕⲁⲩⲥⲟⲛ , -ⲟⲥ 	 🇬🇷 m. burningheat, fever, heat
+ⲕⲁⲩⲙⲁ , ⲕⲁⲩⲥⲟⲛ , -ⲟⲥ 	 🇬🇷 m. burningheat, fever, heat  ⲕⲁⲩⲥⲟⲛ 1. Kars=heat@Lith 2. Heiß 
 ⲉⲣⲕⲁⲩⲙⲁ	 burn, kindle
 ⲕⲁⲩⲣⲓ ↔  ⲕⲟⲩⲣ 	 deaf
 ⲕⲁⲫⲁⲓ 	 	pl. egyptian partridge
@@ -5740,7 +5744,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲁⲧⲥⲟⲃϯ 	 adj. unprovided
 ⲙⲁ ⲛⲥⲟⲃϯ 	 m. place of preparing,
 ϣⲧⲟⲣⲁⲍⲉϫⲓⲛⲥⲟⲃϯ 	 m. preparation
-ⲥⲟⲑⲙ⳼ ↔ ⲥⲱⲧⲉⲙ 	 to hear
+ⲥⲟⲑⲙ⳼ ↔ ⲥⲱⲧⲉⲙ 	 to hear : écoutem!! ++
 ⲥⲟⲑⲛⲉϥ 	 m. tool, weapon, arrow
 ϣⲉ ⲛⲥⲟⲑⲛⲉϥ 	 m. stroke, cast ofweaponcomforted
 ⲥⲟⲑⲛⲉϥ ⲛϯ 	 m. weapon for fighting
@@ -6224,8 +6228,8 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲥϧⲉ	 ↔ cqai 
 ⲥϧⲏⲟⲩⲧ (q) ↔ ⲥϧⲁⲓ 	 to be written
 ⲥϧⲏⲧ	 ↔ cqai 
-ⲥϧⲏⲧ⳼ ↔ ⲥϧⲁⲓ 	 to write
-ⲥqⲓ ↔ ⲥϧⲁⲓ 	 written copy
+ⲥϧⲏⲧ⳼ ↔ ⲥϧⲁⲓ 	 to write~scrit~ⲥϧⲏⲧ⳼
+ⲥqⲓ ↔ ⲥϧⲁⲓ 	 written copy~ⲥqⲓ
 ⲥϧⲟ 	 	m. plough-handle
 ⲥϧⲟⲩⲓ ↔ ⲥϧⲁⲓ 	 teachers
 ⲥϩⲓⲙⲓ , pl. ϩⲓⲟⲙⲓ 	 	f. woman, wife,female of animals
@@ -7050,7 +7054,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲉ- 	 remove to
  ⲙⲙⲁⲩ 	 remove thence
  ⲉⲃⲟⲗ ϩⲁ 	 removefrom
-ϫⲓⲛⲟⲩⲱⲧⲉⲃ ⲉⲃⲟⲗ 	 m. migration,death
+ϫⲓⲛⲟⲩⲱⲧⲉⲃ ⲉⲃⲟⲗ 	 m. migration,death  (ⲟⲩⲱⲧⲉⲃ=remove)
  ⲥⲁⲃⲟⲗ 	 overstep
  ⲉⲡϣⲱⲓ 	 pass upward
  ⲉϧⲟⲩⲛ 	 pass within
@@ -7447,11 +7451,11 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲭⲁⲕ 	 	pl. part of a bird
 ⲭⲁⲕ ⲉⲃⲟⲗ ↔  ⲥⲱⲕ 	 to pause
 ⲭⲁⲕⲑⲓ ↔ ⲕⲁⲕⲑⲓ 	 louse
-ⲭⲁⲕⲓ 	 	m darkness
+ⲭⲁⲕⲓ 	 	m darkness kaka@GR khaki ख़ाकी (xākī) / خاکی‎ (xākī), from Persian خاکی‎ (xâki)
 ⲉⲣⲭⲁⲕⲓ 	 vb to be, become dark
-ⲭⲁⲕⲕⲁⲙⲁⲩ , ⲕⲁⲕⲕⲁⲙⲁⲩ 	 	fsmall night owl
-ⲭⲁⲗⲏⲛⲟⲩⲥ 	 🇬🇷 m. bridle, harness
-ⲭⲁⲙⲉ ↔ ⲭⲙⲟⲙ 	 black
+ⲭⲁⲕⲕⲁⲙⲁⲩ , ⲕⲁⲕⲕⲁⲙⲁⲩ 	 	small night owl <<
+ⲭⲁⲗⲏⲛⲟⲩⲥ 	 🇬🇷 m. bridle, harness ~ ⲭⲁⲗⲏⲛⲟⲩⲥ ++++
+ⲭⲁⲙⲉ ↔ ⲭⲙⲟⲙ 	 black chemie/chrome/grayma/schwamtz
 ⲭⲁⲙⲉⲩ ↔ ⲭⲙⲟⲙ 	 black
 ⲭⲁⲙⲏ ↔ ⲭⲙⲟⲙ 	 black
 ⲭⲁⲛⲥⲣⲱϥ 	 	n. name of a field pest
@@ -7462,7 +7466,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲭⲁⲣⲓⲱⲉⲥⲑⲉ , ⲉⲣⲭⲁⲣⲓⲱⲉⲥⲑⲉ 	 🇬🇷 togive gift, grant, give, remit
 ⲭⲁⲣⲟⲩⲕⲓ 	 	m. lizard
 ⲭⲁⲣⲱϫⲓ 	 	f. mallet
-ⲭⲁⲥ ↔ ϫⲉⲭⲁⲥ 	 in order that
+ⲭⲁⲥ ↔ ϫⲉⲭⲁⲥ 	 in order that  🇬🇷 τᾰ́σσω,τᾰ́ξῐς:order?
 ⲭⲁⲥⲕⲉⲥ 	 	whisper
  	 m. whispering
 ⲣⲉϥⲭⲁⲥⲕⲉⲥ 	 m. whisperer
@@ -7470,15 +7474,15 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲭⲃⲁ 	 	n. compulsion, forced labor
 ⲭⲃⲟⲃ , (q) ⲕⲏⲃ , (q) ⲕⲏⲡ 	 	vi tobe, become cool; qual. cool; makecool
  	 m. coolness
-ϯⲭⲃⲟⲃ 	 make cool
-ϭⲓⲭⲃⲟⲃ 	 get cooling,refreshment,
-ⲕⲃⲱⲟⲩ 	 n. coolness
-ⲧⲕⲃⲟ 	 make cool
+ ϭⲓⲭⲃⲟⲃ 	 get cooling,refreshment,
+ⲕⲃⲱⲟⲩ 	 n. coolness < cvoor
+ ⲧⲕⲃⲟ 	 make cool
+ ϯⲭⲃⲟⲃ 	 make cool
 ⲭⲉ	 ↔  qa 
 ⲭⲉⲗⲙⲓ 	 	f. unknown
 ⲭⲉⲗⲭⲁⲭⲱϥ 	 	pl. abscess, tumor
-ⲭⲉⲙⲓ ↔ ⲭⲙⲟⲙ 	 black
-ⲭⲉⲙⲥ ↔ ⲭⲣⲉⲙⲣⲱⲙ 	 darkness
+ⲭⲉⲙⲓ ↔ ⲭⲙⲟⲙ 	 black : chemie : ++
+ⲭⲉⲙⲥ ↔ ⲭⲣⲉⲙⲣⲱⲙ 	 darkness <> chrome/khmer χμηρ ++
 ⲭⲉⲙⲧⲥ ↔ ⲭⲣⲉⲙⲣⲱⲙ 	 darkness
 ⲭⲉⲡ	 ↔ ,wp 
 ⲭⲉⲣ	 ↔ ,wr 
@@ -9718,9 +9722,8 @@ qⲣⲓⲙ 	 bird's claw
  ϫⲓϫⲓ 	 	f. gourd, vegetables
  ϫⲓϫⲓ 	 	(w/ ref- ) m. brigand,robber
 ϫⲓϭⲱⲓ 	 	n. single lock or plait ofhair
-ϫⲕⲟ , ϫⲕⲟ⳼ 	 	sell, trade,spend
- 	 m. cost
-ϫⲕⲟ⳼ ↔ ϫⲕⲟ 	 to sell
+ϫⲕⲟ , ϫⲕⲟ⳼ 	 	sell, trade,spend m. cost
+ϫⲕⲟ⳼ ↔ ϫⲕⲟ 	 to sell  marké mocha@Heb
 ϫⲟ ↔  ⲁϫⲱ 	 crook
 ϫⲟ⳼ ↔  ϫⲱ 	 to say
 ϫⲟⲃⲓ ↔ ϫⲱⲃ 	 weak person (f)
@@ -10359,3 +10362,10 @@ qⲣⲓⲙ 	 bird's claw
 ⲁⲗⲭⲁⲁ	URKAA Ark-hah (Toponym - near Abydos) vs al'khaira!
 ⲁⲙⲟⲓⲛⲓ	come-on / let's allons-nous
 ⲫⲁⲙⲉⲛⲱⲑ	'Phaménoth' = the 7th month of the Coptic calendar in honour of Amenhotep
+
+ⲃⲉⲛⲓⲡⲉ (metal of sky) bronze-iupiter = meteoric iron 
+
+ⲡⲓⲟⲩ⳿ⲱⲧⲉⲃ	(each one) carry away / bring   ⲟⲩⲟⲑⲃ ↔ ⲟⲩⲱⲧⲉⲃ 	 to remove <> kill : ϧⲁⲧⲉⲃ
+ⲉⲃⲟⲗ	 adv. out of, FORTH, outward, ever?
+ⲓ̅ⲇ̅ ⳿ⲛ fourteen!
+ⲁϥⲟ.ⲩⲟⲛϩϥ  auferscheinen appear apo.rounxx

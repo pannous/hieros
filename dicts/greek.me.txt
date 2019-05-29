@@ -1,3 +1,10 @@
+↔ δ λ Ϛζ α δ ~ σ ȳ ł := ɽ/ר/𐬭/λ/r/Ր/l/ƪ
+√ Ḫ ḫ ι ə γ δ φ ϑ Θ θ χ ψ ţ χ ξ
+
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο ω π ϱ ςσ ψ τ υ φ χ  ϊ ϋ ό ύ ώ ϐ 
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Ω Π ρ ΣΣ Ψ Τ Υ Φ Χ  Ϊ Ϋ Ό Ύ Ώ Β 
+A B G D E Z H T I K L M N X O W P R S ps T Y V X 
+
 α ἀ ἁ ά ἄ ἅ 	Ἄ Ἅ Ἀ Ἁ Ά
 ə ε ἑ ἐ έ ἔ ἕ		Ἑ Ἐ Έ Ἔ Ἕ 
 η ή ῆ ἡ ἥ   	Ή Η͂ Ἡ Ἥ
@@ -17,6 +24,8 @@ o οι ό ό ὁ ὀ ὄ 	ΟΙ Ό Ό Ὁ Ὀ Ὄ
 ὄ	ser [sör]	serpent		rὁ vs sὀ
 ἡ	δe : semi vs demi 
 ὗ	sy / sau
+π b(t) λῡ́πη Leid, le'pain πη
+μ m μηδὲν meiden = not do/have
 
 β	b/v : voice, vocall, vie=bio
 
@@ -286,6 +295,28 @@ anoτεrοn    an.otherοn	ohn.other
 βουλόμενος
 boulo.menos voule.man	man will 
 
+
+Ὅσον ζῇς φαίνου 	
+hóson zêis, phaínou 	
+While you live, shine
+Aslong zein, shine'on
+
+
+
+μηδὲν ὅλως σὺ λυποῦ 	
+mēdèn hólōs sù lupoû 	
+have no grief at all
+meiden wholle σu leid/pain
+
+πρὸς ὀλίγον ἐστὶ τὸ ζῆν 	
+pròs o'líɣon estì tò zên 	
+life exists only for a short while
+for a'little ist to Zein (‎𐠃𐠑𐠿𐠚‎)
+
+τὸ τέλος ὁ χρόνος ἀπαιτεῖ. 	
+tò télos ho khrónos apaiteî.
+
+
 Ἀ Ἅ α ἄ ἅ ἀ ά  
 ε ε ἑ ἕ ἐ ἐ ἐκ ἔ έ 
 η ή ῆ ῄ ἡ ἥ 
@@ -296,3 +327,4 @@ o o οι o ό ό ὁ ὀ ὄ
 Έ Ή Ί Ό Ύ Ώ ΐ ϑ ϒ ϓ ϔ ϕ ϖ ϗ Ϛ ϛ Ϝ => ϝ Ϟ ϟ Ϡ ϡ Ϣ ϰ ϱ ϲ ϳ
 Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ 
 α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ ϐ 
+
