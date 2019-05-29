@@ -75,6 +75,7 @@ current
 口 kǒu®  
 古 Gǔ ♁ geo gero ⊕ gaia ghier 𓄤 gvair  
 国 guó Gau  
+高 gāo great/high  고  
 巨 kîr jù® gú® great  
 囚 qiú® KUR Kerker JURA  (口人kǒurén)  
 區 qū® 区 Kur district country cir-3 vs qvrt-4 :  
@@ -100,19 +101,32 @@ current
 由 yóu® Ur-Sache!  
 曲 qǔ®va curved kurwa🎜 … choir…  
 古 Gǔ geo ♁ gero ghier 𓄤 gvair  
-苦 kǔ kummer(lich) 枯 kū karg  
+垢 gòu 𓐍 կեղ çirk ក្រខ្វក់ krɑk كىر‎ кир kir ky'á [dirt(li)/grease] < kara/gray… > kako kack caca قَذِر‎ qaḏir  
+苦 kǔ kummer(lich)  
+枯 kū karg  
 屈 qū®um krumm curved quer  
 过 [過] guò queren  
 傀	 guī® kuǐ® queer quer  
 器官 qì'guān=Organ ⇔ 犬 quǎn 狗gǒun 4 Canopic jars 器 crater gratia™  
 孔​丘 Kǒng Qiū Konquerer Konfuzi!?  
 岑 cén	cairn  > shan [[𓈉]]  
-
-
+溝樓 Guru "walled city," =>  
+고려 Goryeo ⇨ Korea 高麗  
+가우리 gauri "center"  
 거리 Gøri 𓊖 court quarters / city grid …  
 고리 GORI〇 [[𓋪]] ring 🕭🔔铃 [[𓋪]]líng 〇 = ø 0.0 ⇔ 𓂝𓂝𓋪 Armreiƒ/Ohrring (ear-ring) 𓂝𓅱𓂝𓅱𓋪 ⇔ [[rund]]  
 구르다 GURADA roll  
+키가 kiga giga ⇔ 高い たかい, takai (tall)  ठूलो (ṭhūlo)  
 
+Karat ⋍ 1/5 Gram  
+Koh-i-Noor "Berg des Lichts" @ crown / Krone  
+
+גבוה gavóah  ג־ב־הּ 𒃮𒀪𒀀𒉌 (/gabāni/) گه‌وره‌‎ (ku) (gewre), زل‎ (ku) (zil)  
+korkea! kõrge gars > ಗುರು guru háur hár gross gırd gird кугу kugu khulu cao 高 ខ្ពស់ kpʊəh  
+зур (zur) зор (zor) шӯрр (šūrr) زل‎ (zil) ⇔ tall  
+grēot grit geos:earth! great گت‎ (gat) gede  كَبِير‎ kabīr  
+gross גרויס‎ gûasu? μακρός makrós 𐌼𐌹𐌺𐌹𐌻𐍃 μεγάλος mega मह maha mare malaki  
+ ⇨ large larga largus lard lardum laetus (fat) улуг (ulug) vs büyük = big biga=god  
 
 𒆳 KUR land  
 𒆠 KI kurth 𒆠𒁴 (k)earth ⇔ kerker 𓊻 netherworld qvter:terra [[𓇾]]  
