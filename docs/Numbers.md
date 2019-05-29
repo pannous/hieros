@@ -3,6 +3,13 @@ NUMBERS
 [𓍿](𓍿) [𓈖](𓈖) [𓌙](𓌙) [𓅯](𓅯) [𓏌](𓏌) [𓅱](𓅱) [𓏜](𓏜) **count²**, [quantity](Interrogatives)  
 [𓍿](𓍿)=c[𓈖](𓈖)=n[𓌙](𓌙)=tan : count, compute[𓅯](𓅯)  
 
+[𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱) Numbirds နံပါတ် nampat  
+[𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱)  Numero = lumero @ Aragonese  
+[𓍿](𓍿)[𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱) Sumero شماره‎ šomâre 数目 shùmù szám (hun) sum संख्या saṃkhyā сан san  
+[𓍿](𓍿)[𓈖](𓈖) Zahl թիւ tʿiw say  
+
+[[𓋹]] संख्या saṅkhyā अंक aṅk = $#  
+
 [𓆎](𓆎) [𓅓](𓅓) [𓏜](𓏜) ∑ kommt : total up, amount to, complete, put an end to, pay (to), profit, duty  
 ∑ compute, comme, kommt zu ... macht Zusam[men](Menge), Summe, count, compter ⇔ censor  
 [[𓎸]] common Kommun Khnum (unite)  
@@ -38,25 +45,37 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 0 𓎫 mull/null  
 0 𓊪 O ⇔ 𓂋/𓎛 1/∞  𓈒𓏸𓇳 solo 0 vs 1 [𓆇](𓆇) ego,ich,yek  
 1 mono 𓅱𓂝 ⇔ mine 𓈖  𓈖  𓎡  
-1 Ik 𓏤 yek (Ich vs Du 2) 𓀀  
-1 I    𓏤 vs 	𓏮 丫yā fork 以​牙  
+1 Ik 𓏤 yek (Ich vs Du 2)  
+1 yksir 𓇋𓀀 いち 𓏌𓎡𓀀 egwo 一我  
+1 I = 𓇋 = I (me)  
+1 I    𓏤 vs 	𓏮 丫yā fork 以​牙  Ihr  
 1 on 𓏤				Babel.on𓃀𓃀𓂋𓏤𓈉  Babylon  
 1 us 𓏤 eins   Babel.us𓃀𓃀𓂋𓏤𓈉  Byblos (late reading)  
 1 'uhn 𓅱𓂝		lun,sun,moon,noon	: wa'  
 1 oan  𓌠				vs 𓌟  2   wahed@Arab  
 1 whone  𓅱𓂝  
 1 phoone   𓌡		T21 [har]poon  1 𓌠 bone [𓄹](𓄹) vs 𓌟  2  
+1 protho 𓇋 փետուր pʿetur  
+1 first בראשית  𓇋 = رِيش‎ rīš ⇔ rise, 𐇒[[𓁶]]  
+1 first 𓇋 перо́  پر‎ par пъ́рви pǎ́rvi birinci@Turk ...  
+1 pirmā 𓇋𓀁  पर्ण parṇá  
+1 fither 𓇋  
 1 first  išten@Akkad ersten vs fist 𓂬  
-1 pirst first@Turk  𓌡 pierce  
+1 first 𓌡 pierce  
+1 ቀዳማይ ḳädamay 𓏌𓎡𓀀 (I,ego,adam-I,pirmā, moi[[𓀁]]) vs kedd=2 𓎡𓀀 (second cut, yougo 𓎡)  
+1 einz < ünc  
+1 𓏌𓎡𓀀 ikinsi Ik/wir 𓇋𓀀 birinci (first-one) vs !!  
+2  𓎡𓀀 ikinci  youg 𓎡𓀀 kaksi  [[𓀀]]⋍[[sir]]/Sie/sensai second-one  
+2 ★cecünci ⋍ second  
+2 tawi 𓈇 two lands  
+2 ta'owm = twin  
 2 tvi 𓏮 = 𓍘𓇋 !  
 2 tei/tou 𓏮 = 𓏏  
 2 toe  𓃅  (toe=Zeh!)  
-2 toe  𓌟			T19 toe,two,thun  𓌟  
-2	ta'owm=twin@SEM ++++  
-2	twau 𓈇 		Tawi two: dawlant(AR)=state vs län.DER  
+2 toe  𓌟 T19 toe,two,thun  𓌟  
 2 𓈙𓈖𓅱𓇋 sνnui ⋍ zwein  ⇔ twin  
 2 𓈙𓈖𓅱𓇋 snuni šina@Akkat  eth'nen@Arab  
-2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT cn snw/ßwn@EGY son Sohn çun@Albany zwon kin(D)  
+2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT cn snw/ßwn@EGY son Sohn çun@Albany zwon kin(D) չin ɕin च𐋆  
 2 duo 𓏮 	多 duō duan 𓌢 down = two  
 2 duo 𓊃𓈙𓏮𓅹 zhnízdo/gynishdu=nest  
 2 deva 𓃅 devine 2@Hindi  
@@ -65,6 +84,7 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 2	DVAł 𓈋 	dual duo dos 2 tal valley  
 2	Shatwom 𓍏	𓈙𓍃  שְׁתַּיִם	sTwomn 𐎘𐎐𐎎  
 2	twya 亚   ? 丫yā:fork  
+2 tawi 𓈇 dawlant(AR)=state vs län.[[DER|𓇾]]  
 2 men 𒋰𒈫 MIN 门 門 mén zusammen [𓊃](𓊃)  𒋰dab double  
 2 nier 𐦊 2✕2@Sin > ńila  𐦊𐦊 4/0  
 3 𓏪 𓏤𓏤𓏤 𓏼 𓏨 S'men	-ismn -isn  some somne ☾☾☾ 三 sān  
@@ -91,25 +111,34 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 4 for	𓏃			fore, vor, … vs  𓏅 phnt  
 4 ńila  𐦊𐦊 @Uralic,Drawidian < nier 𐦊 2✕2@ Korean,Chinese,…  
 4 ńvir  𐦊𐦊 > ^^  
-5 phnt	𓏅			Pfund,front,… 𓏺𓏺𓏺𓏺𓏺   Ⲧⲟⲩ ƒoyf  
-5 punch 𓏅 panj pent  
+5 ⲡⲓⲉ  
+5 phnt	𓏅 𓏆𓈖𓏏	Pfund,front,pent,πέντε… 𓏺𓏺𓏺𓏺𓏺   Ⲧⲟⲩ ƒoyf  
+5 punch 𓏅 punsch panj  
+5 punch [[𓂬]] πυγμή pugmḗ pugno panj πέντ[[ε]] بونية‎ bonia  
 5 point 𓂧 𓇋 𓏏  [sic] 𓇼 χoit 𓂭 point 5th order pent planet phunfth 5 五 wǔ 	PAN-theon 𓇼 = 5 AN 𓇻  
-5 chanith 𓂧𓇋𓏏 #dwj ḫamiš@Akkad hamsu hamsho khamsa@Arab five vs 8 djw dqujen 5 ?  
-5	'djw' ψyn?	fünf/pent  which 'd'? ƭ <<< Ⲧoɣ Ϯo  ⇔ pstuan𓇼  
+5 chanith 𓂧𓇋𓏏 #dwj ḫamiš@Akkad hamsu hamsho khamsa@Arab five vs 8 djw dqujen 5 ?  'HandKante'  
+5 ⲧⲓⲟⲩ 'djw' ψyn?	fünf/pent  which 'd'? ƭ <<< Ⲧoɣ Ϯo  ⇔ pstuan𓇼  
 5 quīnque khamsa@Arab  
+5 [[ⲉ]] psi'on  
 6 sis	𓋴𓇋𓋴 			greek:shexa		ce/cooyg@copt   šeššet@Akkad  seta@Arab  
 7 sevhen 𓋴𓆑𓎛𓅱	 	sephthen: sebt 𓁶 cept=stool=𓋴𓃀𓏏 greek:sebta?	七 qība seba@Arab  
 7 ßevHen 𓊃𓆑𓐍𓅱𓏮𓏮𓏥 seven "sankt 7"?		 sebe@Akkad   ⇔ 𓋴𓆑𓐍sevHe:Kurzform  
 7 sphere:7stars?  𓋴𓃀𓄿𓇼𓇳 7?  saban=night@pers  𓋴𓃀𓃀 sebb=serve/school sevene ⇔ spine?  
 7 Toth s'Ibis 𓅞		Thoth=Thepth? 𓇼𓏮 5+2 = 6+1=si+en=7  1/7=𓊏S'Pn sieben,span  
+7 seitsemän साथ𓊃 Zusammen ⇔ semaine sambe  
 8 oshn 𓍵?				𓋴|𓋴? 	greek:oxta  
 8 Ogdoad	𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓇋𓇋𓅱𓀭𓏪 	8 Gods vs En'Nead 9 Gods  
 8 oshamana #Hmnw ! 𓎛𓏠𓈖𓅱? 	Akkadian 'samānā shamanu tmanya  8-menno @ coptic  minor? vs  3 𓇡 Samen 'EŠ'𓐍𓂸𓏏 vs 7  
 8 Has'many 𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏌𓊖 = 𓃹𓏌𓊖 + 𓏠𓈖𓂝[𓊖]  Ḫmnw : Ashmunein الأشمونين‎‎ Ϣⲙⲟⲩⲛⲉⲓⲛ   ÀŠ (6) 𒐋+ MIN(2)𒋰𒈫 sASH  
 8 hast.emen  acht.iemen @PERS  
+8 kahdeksan 2-10  yhdeksän = 1-10  vs seitsemän साथ𓊃 = 7 + 1? ≠ 𓋴𓏠𓈖 8  
 9 #psD(w) 𓊪𓋴𓆓 Poseidon? ψ coptic ⲮⲒⲤ fish = 𓈖 naun <=> neun … a strech, but *postulated* in [paper](http://www.academia.edu/16403755/Phoenician_origins_of_numerals)  
 9 #psD(w) 𓊪𓋴𓆓 phthiδ phthis𓆑snake ⇔ Akkadian tiše, Arabic “tisa” aššadhig Hydra sHindra  𓊽𐤎  
 9 neun 𓇸 = naun 𓈖 𓈗 anew 𓌳 neu 9 Ennead(9-Gods greekƒ!) ⇔ pvasser: duan 2x5 𓇽 = 10 ? 𓇷 Anubis? ⇔  
+9 yhdeksän = 1-10  
+9 དགུ dgu ⵜⵥⴰ tisʿa = 10-1 ⋍ 𑁣 = 90 (nein-ten;) negen++ 九 kiú [[kur]] kilenc 10-1  
+10 𓎆 dash das dix تسعة‎ tisʿa = 10-1  
+10 Shin ⵜ vs sir 𑀓 = 4 @Brahmi  
 10 tent 𓎆   2nd order  [𓏏](𓏏) ten @ sumer ("DON")  
 10 dent 𓎆 'zahn' Zehn vs Zehen dah@persi  ma.dan :  
 10 µTen 𓎆 #mDw vs #mDj  ⲘⲎⲦ / ⲘⲦⲈ @copt	umpteen		µ 5? 5x2? µtwon:  ⲘⲎⲦ = THenm backwards  
@@ -204,5 +233,10 @@ cent cien ⇨千 1.000 qiān 𓐍𓆼𓄿𓅱 khan ⇨ giant ⇨ (q)WAN 万 ⇨ 
 
 森 	もり 	mori  multi 𒀯  
 
+Enigma :  
+რიცხვი (ricxvi) = number rīm⇔[[name]] رقِم‎ ragim regime ριθμό rhythm  
+$# tala tell tall tæl Teil צאָל‎ tsol Zoll Zahl тоо թիվ tʿiv թիւ tʿiw aantal عَدَد‎ ʿadad getal tala(k) luku лік lik liczba helu अंक ãka [[𓋹]]  
+מִסְפָּר‎ mispár 1 [[Ziffer]]  число́ (ru) n (čisló)  
+𓂋 αριθμός arithmós πλήθος plíthos poly Teil лік lik ellipse? αρι 𓂋 θμό ⇔ sum  
 
 𒍣𒈨𒌍 napišātum [☾☾☾](☾☾☾) 𒌍 šeššig 30 thirthyg dreißig|3☾ drei-si vs 60!!  
