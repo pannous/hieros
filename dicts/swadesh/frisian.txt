@@ -1,0 +1,21 @@
+all german/english except:
+
+43 	father 	heit
+44 	animal 	bist
+ 	bone 	bonke  once oszeo?
+69 	tail 	sturt
+72 	head 	holle 	
+109 	to die 	stjêre/deagean
+110 	to kill 	fermoardzje  vermordsen ;)
+135 	to push 	triuwe
+136 	to throw 	smite ++
+
+139 	to count 	telle
+142 	to play 	boartsje
+153 	lake 	mar
+186 	bad 	min (mean)
+
+188 	dirty 	smoarch
+
+Dutch:
+40 	wife 	vrouw, echtgenote

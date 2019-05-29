@@ -128,7 +128,7 @@ is not: n'est
 𐎠 66464 𐎠 103A0 A
 𐎡 66465 𐎡 103A1 I
 𐎢 66466 𐎢 103A2 U
-𐎣 66467 𐎣 103A3 KA 𓂓 C 𒄑 EC EZ ES С
+𐎣 66467 𐎣 103A3 KA 𓂓 C 𒄑 EC EZ ES С 𐀲ta <> SA 𐎿  𒀼  
 𐎤 66468 𐎤 103A4 KU *Q*
 𐎥 66469 𐎥 103A5 GA
 𐎦 66470 𐎦 103A6 GU
@@ -136,12 +136,12 @@ is not: n'est
 𐎨 66472 𐎨 103A8 CA  vs ZA
 𐎩 66473 𐎩 103A9 JA 𐎩 vs YA 𐎹 vs 𒅆EY ++
 𐎪 66474 𐎪 103AA JI  ~ 𒄿𒐊 vs 𐎺 VA
-𐎫 66475 𐎫 103AB TA  <> 𒈹
-𐎬 66476 𐎬 103AC TU  <> 𒈹
-𐎭 66477 𐎭 103AD DA  <> 𒋰
-𐎮 66478 𐎮 103AE DI  <> 𒋰
+𐎫 66475 𐎫 103AB TA  <> 𒈹 𐀳ter 𐀲ta
+𐎬 66476 𐎬 103AC TU  <> 𒈹 𐀳ter 𐀲ta
+𐎭 66477 𐎭 103AD DA  <> 𒋰 𐀵
+𐎮 66478 𐎮 103AE DI  <> 𒋰 𐀳ter
 𐎯 66479 𐎯 103AF DU  ?
-𐎰 66480 𐎰 103B0 THA ?
+𐎰 66480 𐎰 103B0 THA ?  𐀶to.ma 𐀴te.lle 𐀳ter
 𐎱 66481 𐎱 103B1 PA  ?
 𐎲 66482 𐎲 103B2 BA  <> Ba 𒁀 𐎲 𒉺 PA part! π 𓉐 𓐝 [ra]bûga / MBaGal / BIG = groß 𐎲𐎥 ~ 𒁀𒃲
 𐎳 66483 𐎳 103B3 FA  ?
@@ -2446,7 +2446,8 @@ harmless abes, abewizend, Judbes. : unbös
 harmony hamih.
 
 haste nixwarisn.	nix-warten :)
-hate ken. !?!
+hate ken. < Kain? > 恨 hèn , genie!
+hate ken. ! 恨 hèn    含恨 hánhèn = hashen hassen < Kain?
 hateful gizistag, zist. ??
 haughty(proud) abarmenisn.  über-manner  up-armen? vs erbarmen!  (hochmütig)
 haunch ~haxt.   orthography

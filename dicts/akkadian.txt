@@ -95,17 +95,18 @@ itti (*vitt: with, and also ↔ like?).
 -im ~ mi,mit,im,am,und
 
 There are, however, some compound prepositions which are combined with ina and ana (e.g. 
-ina maḫar (forwards), 
 ina balu (without), 
-ana ṣēr (up to), 
+ina maḫar (forwards), 
 ana maḫar (forwards)
+ana ṣēr (up to), 
 
 . Regardless of the complexity of the preposition, the following noun is always in the genitive case.
 
 Examples: 
 ina bītim ('in Bett' : in the house, from the house)
 ana dummuqim (to do good) ?
-itti šarrim (with the king), ana ṣēr mārīšu (up to his son).
+itti šarrim (with the king), 
+ana ṣēr mārīšu (up to his son).
 
 
 SEMITIC GRAMMAR!!
@@ -126,10 +127,10 @@ Although classified as 'East Semitic', many elements of its basic vocabulary fin
 
 For example: 
 māru 'son' (Semitic *bn),  ↔ maria mama
-qātu 'hand' (Semitic *yd), ↔ khand khapta!
-šēpu 'foot' (Semitic *rgl), ↔ step <<
+qātu 'hand' (Semitic *yd), ↔ khand Kante khapta!
+šēpu 'foot' (Semitic *rgl), ↔ stepod s'phoot <<
 qabû 'say' (Semitic *qwl),  ↔ qiz @ Goth
-izuzzu 'stand' (Semitic *qwm),  ↔ ??
+izuzzu 'stand' (Semitic *qwm),  ↔ ztanza
 ana 'to, for' (Semitic *li). ↔ AN !
 
 Due to extensive contact with Sumerian and Aramaic, the Akkadian vocabulary contains many loan words from these languages.
@@ -139,43 +140,43 @@ Aramaic loan words, however, were limited to the 1st centuries of the 1st millen
 Akkadian,	Meaning, 	Source 
 dû 	hill 	Sumerian 	du	↔ DAR, DACH
 erēqu 	flee 	Aramaic 	ʿRQ (root)	↔ 
-gadalû 	dressed in linen 	Sumerian 	gada lá ↔ Gala? cut?
+gadalû 	dressed in linen 	Sumerian 	gada lá ↔ Gala? cut? guardine
 isinnu 	firmly 	Sumerian 	ezen
-kasulatḫu 	a device of copper 	Hurrian 	kasulatḫ-	↔ atlatl ?
+kasulatḫu 	a device of copper 	Hurrian 	kasulatḫ-	↔ atlatl ? < kaspu™
 paraššannu 	part of horse riding gear 	Hurrian 	paraššann- !!
-uriḫullu 	conventional penalty 	Hurrian 	uriḫull-
-kisallu 	court 	Sumerian 	kisal ↔ Kursaal <<
+uriḫullu 	conventional penalty 	Hurrian 	uriḫull-	<> kurkurl
+kisallu 	court 	Sumerian 	kisal ↔ KurSaal << KreisHalle  ++
 laqāḫu 	take 	Ugaritic 	LQḤ( root)
 qaṭālu 	kill 	Aramaic 	QṬL (root)	↔ K'ILL cattle
 purkullu 	stone cutter 	Sumerian 	bur-gul	↔ part-cut?? <<
 
 šumma		Gesetz, gesetzt:if, SEI... 𓃹	𒅅
-awīl-um		MAN !?!
-kasp-am		kaspian kasilvan silver ++
+awīl-um		a'WIR.man 
+kasp-am		kasp-ian kasilvan silver ++
 ḫurāṣ-am	chyros.am	Gold ++
-ward-am		Warden: slave		↔ adam:man ↔ War.kar = Ur (stadt) ↔ Kerker
+ward-am		Warden: slave		↔  adam:man ↔ War.kar = Ur (stadt) ↔ Kerker, worker
 warad 		Warden: slave
-balum 		without!  𓅓 
+balum 		without!  𓅓 birum
 šīb-ī 		witnesses (seher?)
 amt-am		Amts-Sklavin :)
 'Lū			oR'
 alp-am		Alpen-[Vieh]: Alphal: Bulls / Cattle ++
-immer-am	sheep <<
-imēr-am		donkey
+immer-am	sheep << rammer
+imēr-am		donkey << hippor 𓅓 
 mimma šumšu		something !!!
 ina			in/from
 ana		an/for 	
 qāt			hand
-mār 	
-awīl-im 	
+mār 	!?
+awīl-im 	wir
 ū		und
 ū lū 	und/or
 riks-ātim		Rechts-Tum contracts
-i-štām-Ø		bought ?
+i-štām-Ø		er-stehenm!!   bought 
 maṣṣārūt-im 	safekeeping?  ↔ Sicheru*
-i-mḫur-Ø		received?
+i-mḫur-Ø		received?  <> er-halten
 šū 		sein
-šarrāq 	rogue
+šarrāq 	Sarg, rogue
 i-ddāk	a'dead . ak
 
 Translation: If a man bought silver, gold, a slave (masculine), a slave (feminine), an ox, a sheep, a donkey or something other from the hand of another man or a slave of a man without witnesses or contract, or accepted (them) for safekeeping (without same), then this man is a thief; he is to be killed.

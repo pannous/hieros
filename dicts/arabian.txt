@@ -4,6 +4,20 @@ JUST NOT MANY ALIGNMENTS WITH ENGLISH 1/20 has ANY alignment,
 SOME are possibly legitimate:
 house:mension manzil منزل manshar
 
+it is a difficult language, but anything gendered is frustrating and difficult.
+
+Arabic is the fifth-most-spoken language in the world, with more than 313m speakers.
+
+Except that its fragmentation makes each dialekt marginal!!
+
+There are three times as many articles in French on Wikipedia as in Arabic, with five times as many edits. The Arabic book market is about a quarter the size of Belgium’s.
+
+Five approximate categories: north African, Egyptian, Mesopotamian, Levantine and Peninsular Arabic.
+
+Arabic dialects are not mutually intelligable. MSA in the internet made things better.
+Arabic can be difficult but simple. English can be easy but complex.
+If in 1200 romance languages were named Neo-Latin, this language wouldn't be very mutually intelligible either.
+
  does that justify searching for needles in the haystack?
 DON'T WASTE too much time is the outcome this very uncertain.
  on the other hand one good find can be really rewarding:
@@ -22,7 +36,7 @@ thaba 		7	שִׁבְעָה sab‘a sabat sheva' shiva Seven Sven
 thamania	8	שְׁמוֹנָה shmone Simone		man moon?
 thaisha*	9	תִּשְׁעָה tis‘a	tesha'	fish	Téscha vs Sascha  :
 thAshar 	10 ‘ashar ‘ashra  Ashar™ 什 'shír vs 十 shín zehn ***
-thae.n*		10 
+thae*n		10 
 twen'tae	‘ishruna
 thir'tae	thalaTHIN
 …
@@ -46,6 +60,55 @@ Mirrich : Mars♂ ++ vs Mercury Ful Mirriha, Ind Marikh, Per Merrich, Tur Merih 
 Mushtarin : MU.Stern: Jupiter 木星 mùxīng  Ful Mustari!!, Hin Mushtari, Per Moshtari ↔ Moishe Moses?? ↔ hharaj=wood? shajara 
 木↔jew 𓆭 JUniper Jupiter *木* !!
 
+The pattern system is two way:
+m--a-a 	place name 	مكتبة	maktaba (library)
+-aa-i- 	active participle 	كاتب 	kaatib (writer)
+ma--uu- 	passive participle 	مكتوب	maktuub (written)
+-a-a-a 	basic verb 	كتب	kataba (to write)
+a--a-a 	causative verb 	أكتب	aktaba (to dictate)
+-i-aa- 	noun 	كتاب	kitaab (book)
+-u-u- 	plural noun 	كتب	kutub (books)
+
+these transformations are super algorithmic
+
+There are only about a total of 6000 lexical root words in Arabic, so on a computer you can represent each word by encoding it's lexical root, and the grammatical transformation on it. 
+
+Yamli is a popular tool which automatically transliterates Arabic that has been written phonetically in Roman characters back to correctly spelled Arabic letters, so if you've heard a word but don't know how to spell it you can still Google it.
+
+The root/pattern approach really goes crazy with verbs. There are ten common verb patterns in Arabic, and each one alters the base meaning in a semi-predictable way. you can use them to make very good guesses about new vocabulary. 
+
+Because of this rich structure Arabic is too rigid for new vocabulary
+
+http://idlewords.com/2011/08/why_arabic_is_terrific.htm
+Broken Plurals
+foot -> feet the norm
+Plurals mostly change the structure of the word quite dramatically: 
+kitaab 	->	kutub	(book)
+ustaath 	->	asaatitha	(teacher)
+maqha 	-> 	maqaahi	(café)
+dukkan 	-> 	dakaakiin	(store)
+ahdar 	-> 	hudur	(green)
+
+ككك تتت ععع ممم
+
+all non-human plurals are grammatically feminine singular:
+al-kutub hadra' (الكتب خضراء)
+
+"The books, she is green"
+
+MSA is further from region arabic than Latin is from Spanish.
+
+MSA is the official language of newspapers, news segments, and legal documents, governments speeches even wedding invitations and not to forget the Quran and the Arabic bible.
+
+Egyptian being so different as to sound like a separate language.
+
+Some scholars make the case that the dialects are not really dialects, they are their OWN LANGUAGE that were influenced by Arabic.
+
+See for example Taleb's argument on Lebanese being a language of its own.
+
+Arabic has 4-12 million speakers in Europe depending on how you count. If we take the most generous estimation (12 million) which compares 2nd and 3rd generation immigrants to native speakers it's at best the 13th most spoken language in Europe[2].
+
+Historically it makes some sense because North Africa and the Laventine didn't have much in common with Arabia before Islam so they must've had their own local languages (say Berber or Aramaic) that was influenced by Arabic. 
 
 
 Version 2.1
@@ -768,32 +831,36 @@ azraq : gray; blue [zariqa] Per azraq
 
 B
 
+B roots: BE… PART PROTO:1 BAD POD 
+
 ba : the letter b [Sem b-y-t, Heb bet] Ind ba, Per be 
-ba : return [Sem b-w, Akk bau (come), Heb ba, Tig bea (enter), Uga bw’ (come), Phoen bw’]
+BA : return √POD [Sem b-w, Akk bau (come), Heb ba, Tig bea (enter), Uga bw’ (come), Phoen bw’]
 
-ba‘a : sell [Mal biegh] <<
+ba‘a : sell [Mal biegh] << ¬buy bakshish
 ba‘aqa : cut [Sem b-‘-q]
-ba‘atha : send, delegate 
+ba‘atha : BOTE send, delegate 
 
-BAB : DOOR; chapter [Sem b-b, Mal bieb, Akk babu, Aram bb] Hau babi, Hin bab, Ind bab, Per bab 
-<<
+BAB : DOOR; chapter [Sem b-b, Mal bieb, Akk babu, Aram bb] Hau babi, Hin bab, Ind bab, Per bab  <<
 
 babgha : PAPAGEI!?! <<< +++ popinjay, parrot [from Per]
 babunaj : chamomile [from Middle Per babunag]
 babur : locomotive [from Ita vapore (steam)]
 
-bacha : rot [Sem b-w-ch]
-bachil : miserly [bachila] Ind bakhil, Per bakhil, Swa bahili, Uzb bakhil 
+ba‘du : later (PART:after)[ba‘uda]
+ba‘d : after (apoda:after) [ba‘uda] Hin bad, Per ba‘d, Swa baada 
+bachil : miserly BAD^ [bachila] Ind bakhil, Per bakhil, Swa bahili, Uzb bakhil 
 bachila : be miserly 
 
-ba‘d : after [ba‘uda] Hin bad, Per ba‘d, Swa baada 
-
 bada : begin [OS bada, Hrs bedo]
-bada : perish [Sem b-y-d]
-badaha : appear unexpectedly 
-bada‘a : do the first time [bada]
+bada : perish BAD/PART [Sem b-y-d]
+bacha : rot BAD[Sem b-w-ch]
+
+badaha : appear unexpectedly √POD
+bada‘a : do the FIRST time [bada]
+
+badala : replace, exchange √1part? [Sem b-d-l, Mal bidel, Heb hevdel (difference), Uga bdlm] Hin badalna, Swa badili 
+
 badal : change; substitute [badala] Hin badal, Per badal, Swa badala 
-badala : replace, exchange [Sem b-d-l, Mal bidel, Heb hevdel (difference), Uga bdlm (reserves)] Hin badalna, Swa badili 
 badawi : Beduin+++ [badia] Ind badui, Per badawi 
 
 badda‘a : charge with heresy 
@@ -812,14 +879,13 @@ badiha : improvisation, cleverness [badaha]
 badihi : natural [badaha]
 badla : suit, costume [badala]
 badr : full moon  Ind badar, Per badr 
-badrum : cellar [from Gre hypodrome] Alb bodrum, Ser podrum, Tur bodrum 
-ba‘du : later [ba‘uda]
+badrum : cellar [from Gre hypodrome++ bathroom;)] Alb bodrum, Ser podrum, Tur bodrum 
+
 Badw : Beduins [badia] Ind Badui 
 badzr : clitoris [Akk bissuru (vulva)]
 bafta : calico [from Per] Ind bafta, Swa bafta 
 baghata : come unexpectedly; surprise [Heb ba‘at (frighten)]
 baghisza : be hated 
-baghl : mule [Sem b-gh-l, Mal baghal, Aram bgl, Hrs be‘elet, Amh beqlo, Tig beqel] Ind baghal, Per baghl 
 baghta : surprise [baghata]
 bahala : curse [Sem b-h-l, Akk balu (supplicate), Heb nivhal (be frightened), Hrs behelet (word)]
 bahaq : leprosy [Sem b-h-q, Aram bhq (bright spot, a skin disease), Hrs bihoq, Tig behaq (blisters)]
@@ -832,7 +898,7 @@ BAHA : be BEAUtiful [Sem b-h-w (shine), Heb bahu (hall)]
 bagha : desire (↔beg?) [Sem b-gh-y, Akk bu‘‘u (look for), Syr b’a (ask for), BAram b‘h, b‘w, Hrs beayt (wish)]
 baghi[m] : prostitute [bagha]
 
-bahhatha : look for; research; discuss [Akk be’eshu (stir), Heb bachash]
+bahhatha : look for; research; discuss √BVOIR [Akk be’eshu (stir), Heb bachash]
 bahhith : researcher [bahhatha]
 
 bahhr : sea ↔ BACH [Sem b-hh-r, Mal bahar, Syr bachra, Amh baher, Tig behar] Ful bahar, Hin bahr, Ind bahar, Per bahhr, Swa bahari 
@@ -841,35 +907,46 @@ bahhri : naval, marine [bahhr] ↔ BACH Hin bahri, Ind bahri, Per bahhri, Swa ba
 bahhth : dispute, discussion [bahhatha] Hin bahs, Ind bahas, Per bahhth, Tur bahis 
 battle+-+
 
-bahima : beast+---, BA++: cattle [Sem b-h-m, Mal bhima, Heb behema, JNA bihema, Gez behema (be dumb), Tig behame, Uga bhmt (animal)] Ful bahime, Per bahime 
-BAHIM : DARK [abhama]
-bahim : toe [ibham]
-bahir : bright [bahara] Per baher 
-bahit : pale [bahita]
-bahita : be pale 
-bahw : saloon [baha]
-bai‘ : seller; sale [ba‘a] Per baye‘ 
-ba‘id : remote [ba‘uda]
-bain : between [bana] Per bein, Swa baina 
+baghl : mule BUCKEL[Sem b-gh-l, Mal baghal, Aram bgl, Hrs be‘elet, Amh beqlo, Tig beqel] Ind baghal, Per baghl
+bakr : young camel PACKER [bakara]
 ba‘ir : camel [Sem b-‘-r, Akk biru (bull), Syr ba‘ira (camel), Hrs be‘ir] Per ba‘ir 
-bais : miserable [baisa]
+bahima : beast+---, BA++: cattle [Sem b-h-m, Mal bhima, Heb behema, JNA bihema, Gez behema (be dumb), Tig behame, Uga bhmt (animal)] Ful bahime, Per bahime 
+bahim : toe [ibham]
+
+BAHIM : DARK [abhama]
+bahir[de] : bright [bahara] Per baher ~++
+bahit : pale WHITE 白色báisè [bahita] +++++
+bahita : be pale ~
+bahw : saloon [baha] √Bad?
+bai‘ : seller; sale [ba‘a] Per baye‘  ¬buy
+
+bain : between ++be`een [bana] Per bein, Swa baina ++
+
+ba‘id : remote [ba‘uda]
+
+bais : miserable BAD [baisa]
 baisa : be miserable 
+
+bait : house BETT/PORT[bata] Hau baiti, Ind bait, Per beit 
+
 baisz : egg [basza]
-bait : house [bata] Hau baiti, Ind bait, Per beit 
+
 ba‘ith : motive, reason [ba‘atha] Hin bais, Per ba‘ith 
-baittari : veterinarian [from Late Lat vetarius]
+
+baittari : veterinarian [from Late Lat vetarius ƒ] ++
+
 bajjala : honor 
 
-bakir : early [bakara] ↔
+bakir : early [bakara] BWAKE ↔
+bakara : BWAKE / 1. PACK
 bakara : get up early bwake!!!+++ [Sem b-k-r, Akk bukru (son), bakru (first-born; young camel), Heb boqer (morning), bekher (young camel), bachur (youngster), boger (bachelor), JNA bukhra (first-born), Hrs boker (young camel), Amh bekwer (first-born), Tig bekret (young camel), Uga bkr, bchr (youngster)]
-bakr : young camel [bakara]
 bakur : coming early [bakara]
 
 bakima : be dumb [Tig behame]
 baka : weep [Sem b-k-y, Mal beka, Akk baku, Heb bakha, Syr baka, JNA bkhy, Uga bky]
 bakra : spool [Amh bekera] Bul makara, Ser makara, Tur makara 
 
-bal : sense, mind [Syr bala]
+bal : sense, mind 𓅽	! [Syr bala] 
 bal : nevertheless [bila]
 ba‘l : master Baal™++ [Sem b-‘-l, Akk belu, Heb ba‘al, Syr ba‘la, Hrs bal (husband), Meh bal, Amh bal, Tig beal, Uga b‘l, Phoen b‘l]
 
@@ -3904,14 +3981,14 @@ jaib : breast; pocket; sinus [jib] Per jeyb
 jaish : army [jassha] Per jeysh, Swa jeshi 
 jaiz : allowable, permitted [jaza] Hin jayaz, Per jayez 
 jaiza : examination; award, acknowledgement [jaza] Hin jayza, Per jayeze 
-ja‘ja‘a : honk, make noise [Heb gi‘ge‘a]
+ja‘ja‘a : honk, make noise [Heb gi‘ge‘a] ;)
 ja‘l : remake; imitation, falsification [ja‘ala] Hin jal, Per ja‘l 
 jala : clean, polish, make clear [Sem g-l-y, Heb gilla (uncover), Syr gela, JNA gly, Phoen gly]
 jala : remove [Sem g-l-y, Akk galu (be deported), Heb gala (go into exile), Aram gly (open), Uga gly]
-jala : wander, go round [Sem g-w-l, g-l-l, Akk galalu (roll), Heb galgel, Syr ‘ala‘la (whirlwind), JNA gigla (spindle), Aram gwl (roll up), Uga glgl (roll)]
-jala : clarity [jala] Per jala 
+jala : wander, go round [Sem g-w-l, g-l-l, Akk galalu ([g]roll), Heb galgel<>CIRCLE++, Syr ‘ala‘la (whirlwind), JNA gigla (spindle), Aram gwl (roll up), Uga glgl (roll)]
+jala : clarity [jala] Per jala  <> jolie?
 jala : emigration [jala] Per jala 
-jalaba : catch; bring, fetch [Sem g-l-b]
+jalaba : catch; bring, fetch [Sem g-l-b]<GRAB
 jalacha : whet 
 jalada : firmness [jaluda] Per jaladat 
 jalal : might, glory, pomp [jalla] Aze calal, Hin jalal, Per jalal 
@@ -6766,7 +6843,7 @@ qassassa : retaliate [JNA qyss (shear)]
 qassara : miss, fail [fall short] [qassura]
 qassura : be short [Sem q-s-r, LiAr ‘assir (short), Mal qasir, Heb qatzar (cut short), Uga qssr, Phoen qssr (harvest)]
 qassh : straw[cut] [Heb qash, JNA qirsha]
-qassr : castle [from Lat castrum+] Per qassr, Uzb qasr from Ara ++
+qassr : castle [from Lat castrum+] Per qassr, Uzb qasr from Ara ++ Qal'at Yahud = Jewish Castle
 qassab : butcher [qassaba] Bul kasapin, Gre hasapes, Hin kassab, Per qassab, Ser kasapin, Tur kasap, Uzb qassob 
 qassafa : <butcher?> revel, eat and drink 
 qasa : measure; compare [Mal qies]
@@ -7638,15 +7715,15 @@ silm : peace [salima] Per selm  salem salamu ++
 silsila : chain [salsala] Aze silsile, Hin silsila, Ind salasilah, Per selsele, Tur silsile 
 sima : sign, character [from Gre sema] Per sima, Tur sima 
 sima‘ : hearing; listening [sami‘a] Per sema‘ 
-simsim : sesame [Akk shamashamu, Heb shumshom, JNA sushme, Uga shshmn, Phoen shshmn]
+simsim : sesame +[Akk shamashamu, Heb shumshom, JNA sushme, Uga shshmn, Phoen shshmn]
 simtt : cord [Syr shmata (shoelace)]
-sin : the letter s [Heb sin] Per sin 
+sin : the letter S ∑ [Heb sin] Per sin 
 sinan : tip (of a lance) [sanna] Per senan 
 sindan : anvil [Shuwa Ar sindala] Per sendan 
-sinima : cinema [from Eng cinema]
-sinn : tooth [Sem s-n, Mal sinna, Akk shinnu, Heb shen, Syr shena, Uga shn, Ebl shinnu] Per senn 
-sinn: age [sana] Per senn 
-sinnaur : cat [BAram shunra, Hrs sennoreh]
+sinima : cinema +[from Eng cinema]
+sinn : tooth Zähn'[Sem s-n, Mal sinna, Akk shinnu, Heb shen, Syr shena, Uga shn, Ebl shinnu] Per senn 
+sinn: age SENIL++ [sana] Per senn 
+sinnaur : cat SCHNURR++ [BAram shunra, Hrs sennoreh]
 si‘r : price [sa‘ara] Per se‘r 
 siraj : lamp [from Per cheragh] Hin siraj, Per seraj 
 sirbal : skirt [from Per serwal] Per serbal 
@@ -8256,7 +8333,7 @@ szahhia : sacrifice [szahha]
 szahhika : laugh [Sem sz-hh-q, Mal dahak, Heb tzachaq, Hrs zohhak, Amh saqe, Tig sehhaqe, Uga ss’hhq, dzhhq]
 szahhika : ridicule [szahhika] Swa dhihaki 
 szaif : guest [szafa] Ind daif, Per szeif 
-sza‘if : weak, feeble, impotent [sza‘ufa] Aze zayif, Hau laifi, Ind daif, Per sza‘if, Swa dhaifu, Tat zegiyf, Tur zayif 
+sza‘if : weak, feeble, impotent √SOFT++[sza‘ufa] Aze zayif, Hau laifi, Ind daif, Per sza‘if, Swa dhaifu, Tat zegiyf, Tur zayif 
 szaiq : strait, narrows; distress [szaqa] Per szeiq, Swa dhiki 
 szaja‘a : recline [Sem sz-g-‘]
 szajja : make noise 
@@ -8283,7 +8360,7 @@ szarra : force, make necessary
 szarura : need, want, necessity, constraint [szarra] Hau larura, Hin zarurat, Ind darurat, Kyr zarurat, Per szarurat, Tur zaruret, Uzb zaruriyat 
 szaruri : necessary [szarra] Per szaruri, szarur, Tur zaruri, Uzb zarur 
 szau : light [sza]
-sza‘ufa : be weak [OS lam (be soft), Amh lef (soft)]
+sza‘ufa : be weak √SOFT++ [OS lam (be SOFT), Amh lef (soft)]
 szausza : noise
 szaya‘ : loss [sza‘a] Per szaya‘, Tur ziya 
 szayaqa : disturb [szaka]
@@ -8297,7 +8374,7 @@ szil‘ : rib [Sem sz-l-‘, Akk sselu, Heb tzela‘, Hrs szala‘, Uga ssl‘]
 szimad : bandage [szamada] Per szemad  ↔ Szameit Sam+aid Sani <<<<<<<<<<<<<+++
 szimn : interior  Per szemn 
 szirs : tooth [Sem sz-r-s, Mal darsa, Amh tters]
-szu‘f : weakness [sza‘ufa]
+szu‘f : weakness √SOFT++[sza‘ufa]
 szuhhan : morning [szahha]
 T
 ta : the letter t [Heb tav]
@@ -9759,5 +9836,12 @@ Alb = Albanian, Bul = Bulgarian, Eng = English, Fre = French, Gre = Greek, Hun =
 Aze = Azerbaijani, Ful = Fulani, Hau = Hausa, Hin = Hindi and/or Urdu, Ind = Indonesian and/or Malay, Kar = Karachay-Balkar, Kaz = Kazakh, Kyr = Kyrgyz, Mal = Maltese, Per = Persian, Som = Somali, Swa = Swahili, Taj = Tajik, Tat = Tatar, Tur = Turkish, Tuv = Tuvan, Uzb = Uzbek
 Sum = Sumerian, Skt = Sanskrit
 
+dhikr dekret D+Chr (EG) : short devotional phrases like
+لا اله الاّ الله ("Lā ilāha illā -llāh"; There is no deity but God)
+
+
 kitabu 'book' (from Arabic kitab)
 Swa = Swahili "Sahel" african Bantu language with many Arabic loanwords!!!
+
+French was a minority language in France until the 20th century. The other languages were basically beaten and shamed out of school children.
+RLLY?

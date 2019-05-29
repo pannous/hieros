@@ -1,11 +1,14 @@
-Letter name Aramaic written using LetterEquivalent letter inIPA
-Syriac script Imperial Aramaic script HebrewPhoenicianArabic
+	Aramaic, Hebrew, Syriac, Mandaic, Edomite
+Time period 800 BC to AD 600
+
+Imperial Aramaic Hebrew Phoenician Arabic
+
 Ālap		𐡀 א 𐤀 ا 
 Bēth		𐡁 ב 𐤁 ب 
 Gāmal		𐡂 ג 𐤂 ج 
-Dālath	𐡃 ד 𐤃 د،ذ 
+Dālath	𐡃 ד 𐤃 د،ذ
 Hē			𐡄 ה 𐤄 ه 
-Waw			𐡅 ו 𐤅 و 
+Waw			𐡅 ו 𐤅 و  
 Zain		𐡆 ז 𐤆 ز
 Ḥēth		𐡇 ח 𐤇 ح،خ 
 Ṭēth		𐡈 ט 𐤈 ط،ظ 
@@ -14,10 +17,40 @@ Kāp			𐡊 כ ך 𐤊 ك
 Lāmadh	𐡋 ל 𐤋 ل 
 Mem			𐡌 מ ם 𐤌 م 
 Nun			𐡍 נ ן 𐤍 ن 
-Semkath	𐡎 ס 𐤎		ʿĒ		 /ʕ/
+Semkath	𐡎 ס 𐤎		ʿĒ-Silent		 
 Pē			𐡐 פ ף 𐤐 ف 
 Ṣādhē		𐡑 צ ץ 𐤑 ص، ض
-Qop			ק 𐤒 ق 
-Rēsh		𐡓 ר 𐤓 ر 
+Qop			𐡒 ק 𐤒 ق
+Rēsh		𐡓 ר 𐤓 ر  <> 𐤅 war
 Shin		𐡔 ש 𐤔 س،ش 
 Taw			𐡕 ת 𐤕 ت، ث
+
+comment:
+Dālath	𐡃 ד 𐤃 د،ذ  <> 𐡃𐡊 דכ DG 𐡊 = Kāpa Y
+Hē			𐡄 ⌂ Hut <>
+Ḥēth    𐡇 ח <> ת that Taw 𐡕 
+Waw 𐡅 ו 𐤅 و war/raw < ruin 𐡅 ר  𐤅~𐡓 QED +++   "-wer"  dual vs  س "wos"
+
+Derived Syriac script
+Ālap	ܐ 	𐡀 	א 	𐤀 	ا
+Bēth	ܒ 	𐡁 	ב 	𐤁 	ب
+Gāmal	ܓ 	𐡂 	ג 	𐤂 	ج
+Dālath	ܕ 	𐡃 	ד 	𐤃 	د ذ
+Hē	ܗ 	𐡄 	ה 	𐤄 	ه
+Waw	ܘ 	𐡅 	ו 	𐤅 	و
+Zain	ܙ 	𐡆 	ז 	𐤆 	ز
+Ḥēth	ܚ 	𐡇 	ח 	𐤇 	ح خ
+Ṭēth	ܛ 	𐡈  ט 	𐤈 	ط ظ
+Yodh	ܝ 	𐡉 	י 	𐤉 	ي
+Kāp	ܟ 	𐡊 	כ ך 	𐤊 	ك
+Lāmadh	ܠ 	𐡋 	ל 	𐤋 	ل
+Mem	ܡ 	𐡌 	מ ם 	𐤌 	م
+Nun	ܢ 	𐡍 	נ ן 	𐤍 	ن
+Semkath	ܣ 	𐡎 	ס 	𐤎 	س
+ʿĒ	ܥ 	𐡏 	ע 	𐤏 	ع غ
+Pē	ܦ 	𐡐 	פ ף 	𐤐 	ف
+Ṣādhē	ܨ 	𐡑 	צ ץ 	𐤑 	ص ض
+Qop	ܩ 	𐡒 	ק 	𐤒 	ق
+Rēsh	ܪ 	𐡓 	ר 	𐤓 	ر
+Shin	ܫ 	𐡔 	ש 	𐤔 	ش
+Taw	ܬ 	𐡕 	ת 	𐤕 	ت ث
