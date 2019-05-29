@@ -1,0 +1,2 @@
+Sole ⇔ Whole ⇔ HAR  
+From Proto-Indo-Aryan *sárwas, from Proto-Indo-Iranian *sárwas (“whole, all, entire”), from Proto-Indo-European *sólh₂wos, from *solh₂- (“whole”). Cognate with Avestan 𐬵𐬀𐬎𐬭𐬎𐬎𐬀‎ (hauruua), Old Persian 𐏃𐎽𐎺 (h-ru-v /haruva/) (whence Persian هر‎ (har)), Ancient Greek ὅλος (hólos, “whole”), Latin sollus.  
