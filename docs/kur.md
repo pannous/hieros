@@ -1,33 +1,52 @@
 KUR international mega root of urbanization (and Egyptian variants)  
 
-𓊖 √QVR(t)² ⊕  < G-B-R 🏔  > G-R-B [[𓅨]]  
+It was of outmost importance to Indo-**Ger**manic pioneers.  
 
-The central meaning of KUR was:  
-Height,center⇨mountain,hill,city,land⇨culture,court,work𓂓⇨...  
-center,core⇨grain,heart,meat⇨...  
-circle⇨𓊖𓐍𓇳⇨ ... 𓂻 gir ⇔ [[𓇾]]TER > CER  
+𓊖 √QVRt⁴ ⊕  < G-B-R 🏔 > G-R-B [[𓅨]]  
+𐊨 CARIAN LETTER Q  
+𐀏 LINEAR-B SYLLABLE KA  
+𐀤 LINEAR-B SYLLABLE QE  
+𑀓 BRAHMI LETTER KA = 4  
+𑁣 BRAHMI LETTER 90 керла kerla / kardas  חָדָשׁ = new/nine 9 nagar [[𓊖]]  
+[[𓐍]] Egyptian Letter *Kr  
+
+niger 𓐍 vs nagar 𓊖  
+
+The central meanings of KUR were:  
+core ⇨ grain,heart,meat,center⇨...  
+growth,height ⇨ mountain,hill,city,land⇨culture,court,work𓂓⇨...  
+circle ⇨ 𓊖𓐍𓇳⇨ ... 𓂻 gir ⇔ [[𓇾]]TER > CER  
 
 [𓀠](𓀠) qR(t) heigh(t)⋍great 𓈎𓄿𓏏𓀠  চওরা  
 [[𓅨]] very great [[𓅨]]𓂋𓏏 √gVrt  
 [𓈊](𓈊) kur(t) ⋍ (high)land 𒆳 KUR 𓈉 ≠ 𓈊 山  
+[𓈊](𓈊) cird 𒆳 𐘿 𓐍 vs 𓊖 𐘾 quart [[3]] vs [[4]] 四 sìr  
 [𓈉](𓈉) kur ⋍ mountain (kur, gora, гора, gaara, ghor, girí, kĩrĩma, кӯҳ, koh, har הר‎, 'ariya, 'urqu, ἄκρα,  
  сан սար sɑɾ cerro ܛܘܪܐ‎ … पहाड़ pahāṛ, grabis)  
 [𓊎](𓊎) cairn of grain 𓇤  
 [𓈎](𓈎)𓄿𓇋𓇋𓈒𓏥𓊎 grains / cairns  
 [𓊖](𓊖) Gorod 𓊖𓏏𓏤 ⋍ city quarters 𓊖 (tall tell Teil 𓇸𓇷𓊕𓈇𓏤 town 장 [[ting]])  
-[𓊖](𓊖) court 거리 hoard hOrt 京 Kyo® 서울  
-[𓐍](𓐍)[[𓇳]] KurRad 𐀏𐃏𐀤𓊕〇 Kreis Gyros circle [[𓐍]] gray grau  
+[𓊖](𓊖) court 거리 hoard hOrt 京 Kyo® 서울  *KarBait > юрт yurt urbis, orbit, Kürbis ...  
+[𓊖](𓊖) KAR = city כַּרְכָּא‎ karkā > caer кар қала քաղաք kʿałakʿ гӏала хула  शहर नगर шахар ...  
+[𓐍](𓐍)[[𓇳]] KurRad 𐀏𐃏𐀤𓊕〇 Kreis Gyros circle chariot > 𐃏 ROTA/[[Ratha]]  
+[[𓊖]] car गाड़ी gāṛī कार kār < cart vs sledges 𓌞[[𓍃]]. Modern 𓌝 chariots arriving in the Third Intermediate  
+[[𓐍]] gray grau char kara  > [[colors]] kala كحال‎ хура chrome [[𓆎]] chemie 𓆏 nigra qerner שְׁחֹרָה‎ sh'khorá  
+[[𓎡]] carafe غُرْفَة‎ ḡurfa غَرَفَ‎ ḡarafa شَرَاب‎ šarāb => sirup(soup), jar, your, cap>ap=आप 𓎸𓃝 𓎸𓅓𓏲  
 [[𓇾]] 𒆳 KUR cer ter terrain territory [[3]] 𐀳 𓇾 𓈉 ≠ 𓈊 山 三 shanze sān  
 [𓌨](𓌨)𓌨 Kerker = Karzer Kur™ ⋍ gaol   vs  
 [𓌨](𓌨) Kurgan | church ⋍ care, cure  
 [𓄤](𓄤)[𓄣](𓄣)♡ cardio > heart care core  
 [𓌨](𓌨) Kvr קיר 𓇤 郭 > Wehr, wall 𓉖 𓊋  
-[𓊨](𓊨) Kar = Stand/Stadt  
+[𓊨](𓊨) खड़ा khaṛā Kar = Stand/Stadt  
 [𓉗](𓉗) guard горт gort घर = Home गृह Gare [[𓉔]] 𓉐 gida koti 家 = gaa (vs dom=pig) fogar  
 [𓉗](𓉗)𓏏𓏏𓈉 quarry / Hütte @ KUR 𓈉 church ⲉⲕⲕⲗⲏⲥⲓⲁ [[𓊹]] ?  
 [𓉗](𓉗) 𓊖 qvr 4 vs [[𓈉]] cir 3,14 𓊖  
+[[𓉗]] घर ghar home 𓈎[[𓂋]] καμμύ καμάρα Kammer chamber  
 [𓊋](𓊋) court curved corner ⇔ 𓀄 [[cover]]  
 [𓂓](𓂓) Kar = kWerken ergon urge work ⇔ kardan कर्मन् kárman …  
+[𓂓](𓂓) KarBeit < 𓊖 *KaraBeit  
+[[𓆣]] occur < 𓂻 gir, קָרָה‎ kará @Hindu < 𓐍𓊪𓂋𓂋𓆣 scarab 𓆫 scorpion, 𓆣 𓐍𓊪𓂋𓂋 scarab'en > happen  
+[[𓆣]] krabbeln, graben, carve, grave > *h₂éryeti > arable  
 [𓊔](𓊔) carne 𓉓 খানা ⋍ food caro (“flesh”) red 𓂋 ⇔ 𓂋 corn kern grain 𓇤 𓇠 𓈒𓈒𓈒 𓈒 𓌽 gerste  
 [[𓇤]] cairn [𓊎](𓊎) of grain 𓊘 grainery  
 [[𓇏]]  χώρα χωρίον ἀγρός Acker acre agro akura ⲕⲟⲓ scot? 𓐍𓏏[[𓇏]]𓈅 𐀏𐁀  
@@ -37,23 +56,28 @@ circle⇨𓊖𓐍𓇳⇨ ... 𓂻 gir ⇔ [[𓇾]]TER > CER
 [𓊹](𓊹)𓌨𓂋𓈉 Grab negro necropolis नगर nagar vs शहर śahar Naukratis? netherworld khell⇔kill? քաղաք 𓈖𓌰𓅓𓂝𓁀 nächten  
 [[𓊭]] 𓈎𓂋𓋴𓅱𓊭 grave गृह curse™ Sarg@kurgan@Kasach qabaru qbara qboro = bury 𓏂  𓐍𓊪𓏏𓏱 [death]?  
 [[𓁀]] cradle 𓊃𓇥𓂋𓇋𓇋𓏏 𓁀 vs snore  
-[𓊿](𓊿) ערב = غراب ghurab Rabe [[𓅆]] Greif > Horvs > avis  
 [𓊿](𓊿) ערב = غَرْب‎  Grab@ḡarb (west𓋀) Arb = Abend-Land  ⇔ garb=part 𓋴𓁷𓂋𓀜?  
+[𓊿](𓊿) ערב = غراب ghurab ᚺᚨᚱᚨᛒᚨᚾᚨᛉ Rabe raven (gray-bird / great-bird) [[𓅆]] griffon, gryphon  
+[𓊿](𓊿) ערב = غراب ghurab ᚺᚨᚱᚨᛒᚨᚾᚨᛉ Haraba... > Horvs > [[Horus]] , avis  
 [𓋓](𓋓)[[𓋘]] crown ⲁⲛϫⲱϫ AnKuron 円𐘮⋍京 *KRAŊ=京  
 [𓐍](𓐍) gray kara kala[de]: dark color  𓋴𓈎𓂋𓌪 scar ⇔ 𓊿𓊻  
 𓈎𓂋𓂋𓊡  storm (-cloud)|coort कोहरा kohrā.di grottig > cloudy  4 Kur-Winde™  
 current  
 [𓎼](𓎼)𓎼𓂋𓎛 кар (kar) deaf ⇔ 𓋴𓎼𓂋𓎛𓂢𓏛 secure  
 [[𓌗]] cord,Kord ⇔ 𓋴𓌗𓂋𓎗𓅱𓆓𓏛 secure = 𓋴𓂋𓌗 ⋍ 𓊃𓐍 ⇔ 𓊃𓈎𓄿𓀏𓋹  
-[[𓎡]]𓄿𓀁 care / calm ϥⲁⲓⲣ ⇔ ϫⲓⲛϥⲓⲣ anxiety/thinker ⲱⲟⲩϣ worries  
+[[𓎡]]𓄿𓀁 care / calm ϥⲁⲓⲣ ⇔ ϫⲓⲛϥⲓⲣ anxiety/thinker ⲱⲟⲩϣ worries  𓇥𓂋[[𓄔]] sentir  
 [[𓂝]] cheiro => care 𓂝𓍯𓂡 careful! 𓁹𓉔𓂋𓏜  𓎔? ⇔ 𓍿𓎛𓅱𓄑𓏥 ?  
 [[𓇥]] Korb / cure / kerker ⇔ carpet?  
 [[𓂙]] crew ⇔ 𓐑 𓏥 oar  
 [[𓂚]] guerre/archer  
+[[𓄋]] Khorn > Hörner, Höhrner = Ohren  
+[[𓅨]] ḡurāb غُرَاب‎ = Rabe = herb, very great [[𓅨]]𓂋𓏏 √gVrt  
+[[𓁷]] Geber=man > gar, car, aber, ob, .. particles   𐀣 Qōph 𓁶 Kopf  
+[[𓁷]] Geber G-B-R ⇔ C-P-R-t Super Duper > Cyber > Hyper > Über > [[para]],pro,vor,fore, 𓁷 [[VIR]]  [[Super]] roots  
 [[𓂋]] core/corn/grain ⇨ ghair עִיר ⇨ UR ⇨ 'R' ⇔ (pi)rinç, oriz, rice चावल 쌀 ≠ [[saat]]  
 𓐍𓂋/𓎼𓂋 car gar cause core > और and/or for gar>ja  
 𓌨 KUR 𒆠 country, lower 𓌨, down below kar-dan  
-𒊹 ŠAR 3600 ⋍ [𓅨](𓅨) Schar ⇔ [𓐍](𓐍) Gyro  
+𒊹 ŠAR 3600 ⋍ [𓅨](𓅨) Schar ⇔ ⚫ [𓐍](𓐍) Gyro  
 
 1000 connotations but all lead to above 4 roots connected with 𓊖  
 

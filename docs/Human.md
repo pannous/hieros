@@ -14,6 +14,7 @@ rag raġel رجل‎ rájul rmṯ @ Semitic!!
 
 [Khem](Khem)[en](men) 𓆎 𓏏 𓀀 𓁐 𓏥 Common Kommune kommt ∑ [sum](Numbers) total [𓆎](𓆎) 𓅓 𓏜  
 chaimans 𓆊𓆌𓏏 caiman, Khmti, Champsai  
+Chimera, one of Greeks mythological arch-enemies  
 Khmen children of men: 𓃝 Khmun 𓋉 Khmin [𓇋𓏠𓈖](Amen) 𓋊 Menes  
 roman = human ⲣⲱⲙⲓ@coptic  人民 rénmín  
 commoner  

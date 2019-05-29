@@ -1,3 +1,4 @@
+𓇋𓏠𓈖 𓏏𓈉||the West|[[Immen]](https://dict.leo.org/german-english/Immen)-Tal [[Goth]] : 'Land of Beest/wasps/vest'
 [[𓊿]] Amun #IMNT immense “west” 
 [[𓅆]] Greif غَرْب ‎ḡrb غُرَاب‎ ḡurāb Rabe [[big]]  
 [[𓅆]] غَرْب‎ gharb “west” qərb ... ⇔  ערובה‎ ʿrōbā Europe  
@@ -5,8 +6,13 @@
 𓆄𓏏𓏤 feather 𓆄𓅱𓏏𓆃  
 [[𓆄]][[𓏏]]⋍𓋀 փետուր pʿetur թեպուր >  [[feather]] पश्चिम paści باختر‎ bāxtár > вест, vest > West ⇔ vast  
 [[𓆄]][[𓏏]][[𓅂]]  [[𓆅]]feathern ⋍ Westerner  
+[[𓇋]]𓏠𓈖𓏏𓈉 Feather-Mount (West-Gebirge جبل‎~غَرْب‎) vs hither
 [[𓋀]]𓏏 𓆅Fe+𓋴S+𓏏T > West < rav𓇳set > (r)occid  
-[[𓋅]]  
+[[𓋅]] 
+
+𓆅𓆅 feather versus 'easter 𓇋 = رِيش‎ rīš rise ላባ laba levant 羽 өд öd  
+west vs vostok восто́к = [[east]]  
+2 ichi vs iki 1
 
 𓇋𓏏𓂋𓈘 water>vtr>iter  
 

@@ -17,6 +17,7 @@ The following signs where consistently painted red:
 𓎼 axe 🔺 𓎼 赤 aka® vs 𓆈 Echse (green?)  
 𓊃 kymson ⋍ crimson / zafran 𓋴 Red 𓎭𓎆𓎅? 𓋴 červen ⇔ KIR Red ⇔ 𓋴 Sofa Kissen  
 𓋴 ṣafrāʾ ʾáṣfar red/yellow safran!  
+𓇔𓇗 KharToum@Sudan 𓇔𓇗 قُرْطُم‎ qurṭum, “safflower” != Saffron carthamin = red  
 𓏲 warqu = red/yellow safran  
 🍎 gourd 果 red karim kirsche kırmızı 𓍿𓅓𓋴𓏞 果水 guǒrshui  
 💗 cared cardi coeur carne(skin/meat) kırmızı 𓍿𓅓𓋴𓏞 肉 ròu.de red ⇔ tan 卵  

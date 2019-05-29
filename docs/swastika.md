@@ -1,4 +1,4 @@
-This now infamous [Swastika](https://en.wikipedia.org/wiki/Swastika) symbol is now a sad witness for how facts about the proto-indo-european expanding where intermingled with nationalist Propaganda.  
+The now infamous [Swastika](https://en.wikipedia.org/wiki/Swastika) symbol is a sad witness for how facts about the proto-indo-european expandsion where intermingled with nationalist Propaganda.  
 
 Unfortunately it is still a good trace marker for early urbanisation:  
 
@@ -7,7 +7,6 @@ European hypotheses of the swastika are often treated in conjunction with cross 
 ![Vinca](https://user-images.githubusercontent.com/516118/36784279-2233276c-1c7f-11e8-83bd-574276d33caf.png)  
 
 Afterwards it appeared in Sumerian and Harappian civilizations:  
-It is one of most common symbols found on Mesopotamian coins.  
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1d/Samarra_bowl.jpg)  
 Samarra bowl (ca. 4000 BC) Mesopotamia  
@@ -16,6 +15,9 @@ The division of the skies into 4 quarters is analyzed in [cosmolgy](cosmolgy) an
 
 Indus valley:  
 ![pasted-image-981](https://user-images.githubusercontent.com/516118/36784244-098162f6-1c7f-11e8-991d-6496325f079c.png)  
+
+It is one of most common symbols found on Mesopotamian coins (from 500BC?).  
+![](http://www.coinindia.com/Yolamira-412.05.jpg)  
 
 Its relationship with the following symbols needs further investigation:  
 [Nature](Nature) 𓇓 𓇑 Naga 𒀱 𓃶 aNKhar naraka=hell! [𓋹](𓋹)𓈖𓐍 **Kur[𓊖](𓊖) **  

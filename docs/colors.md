@@ -17,6 +17,8 @@ well attested color words:
 
 ⚫ kara kala : black color 𓐍 黒 kuro काली কালো kalo  
 𓐍 graun Green color chlora [[𓐍|https://en.m.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian#𓐍]]  
+[[𓐍]] gray grau char kara  > color kala كحال‎ хура chrome  
+[[𓆎]] kharma chrome chemie 𓆏 nigra qerner שְׁחֹרָה‎ sh'khorá vs أَسْوَد‎ ʾaswad schwarz ash-[[white]]  
 𓐍 grau ≠ chrome chroma carne(skin/meat) 黒 kuro 灰色 haiiro hēi  
 𓎡 carun Green  
 𓎟 calla 𓎡 chlor color (green)  
