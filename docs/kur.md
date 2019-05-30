@@ -13,7 +13,7 @@ It was of outmost importance to Indo-**Ger**manic pioneers.
 niger 𓐍 vs nagar 𓊖  
 
 The central meanings of KUR were:  
-core ⇨ grain,heart,meat,center⇨...  
+core ⇨ grain,heart,meat,center,cover⇨...  
 growth,height ⇨ mountain,hill,city,land⇨culture,court,work𓂓⇨...  
 circle ⇨ 𓊖𓐍𓇳⇨ ... 𓂻 gir ⇔ [[𓇾]]TER > CER  
 
@@ -75,6 +75,9 @@ current
 [[𓁷]] Geber=man > gar, car, aber, ob, .. particles   𐀣 Qōph 𓁶 Kopf  
 [[𓁷]] Geber G-B-R ⇔ C-P-R-t Super Duper > Cyber > Hyper > Über > [[para]],pro,vor,fore, 𓁷 [[VIR]]  [[Super]] roots  
 [[𓂋]] core/corn/grain ⇨ ghair עִיר ⇨ UR ⇨ 'R' ⇔ (pi)rinç, oriz, rice चावल 쌀 ≠ [[saat]]  
+[[𓆉]] 🐢  ⿔⻲⻳甲羅 (こうら, kōra) 🐚 殻 から kara 甲! < carapace чарапа́шка čarapáška κέλυφος < [[care]] [[guard]]  
+[[𓆩]] [[cowry]] [[cover]] ⇨ 💳 Credit Card  
+
 𓐍𓂋/𓎼𓂋 car gar cause core > और and/or for gar>ja  
 𓌨 KUR 𒆠 country, lower 𓌨, down below kar-dan  
 𒊹 ŠAR 3600 ⋍ [𓅨](𓅨) Schar ⇔ ⚫ [𓐍](𓐍) Gyro  

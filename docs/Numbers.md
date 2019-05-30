@@ -1,12 +1,16 @@
 NUMBERS  
 
 [𓍿](𓍿) [𓈖](𓈖) [𓌙](𓌙) [𓅯](𓅯) [𓏌](𓏌) [𓅱](𓅱) [𓏜](𓏜) **count²**, [quantity](Interrogatives)  
-[𓍿](𓍿)=c[𓈖](𓈖)=n[𓌙](𓌙)=tan : count, compute[𓅯](𓅯)  
+[𓍿](𓍿)=c[𓈖](𓈖)=n[𓌙](𓌙)=tan : count, [com](con)pute[𓅯](𓅯)  
 
-[𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱) Numbirds နံပါတ် nampat  
 [𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱)  Numero = lumero @ Aragonese  
-[𓍿](𓍿)[𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱) Sumero شماره‎ šomâre 数目 shùmù szám (hun) sum संख्या saṃkhyā сан san  
-[𓍿](𓍿)[𓈖](𓈖) Zahl թիւ tʿiw say  
+[𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱) Numbirds နံပါတ် nampat  
+[𓍿](𓍿)[𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱) Sumero شماره‎ šomâre 数目 shùmù szám ∑ [sum](con) संख्या saṃkhyā сан san  
+[𓍿](𓍿)[𓈖](𓈖)[𓌙](𓌙)[𓅯](𓅯)[𓏌](𓏌)[𓅱](𓅱) Sumero شنبه‎ šambe december  
+[𓍿](𓍿)[𓈖](𓈖) Zahl թիւ Teil tʿiw  
+
+sumber⇔number  
+sumero⇔numero  
 
 [[𓋹]] संख्या saṅkhyā अंक aṅk = $#  
 
@@ -14,21 +18,21 @@ NUMBERS
 ∑ compute, comme, kommt zu ... macht Zusam[men](Menge), Summe, count, compter ⇔ censor  
 [[𓎸]] common Kommun Khnum (unite)  
 
-During the amost four millenia in which egyptian hieroglyphics where in use, surely ambivalent readings of the signs developed. Although the exact spoken forms of pharaonic numbers are forever lost to history they seem to be similar to:  
+During the amost four millenia in which egyptian hieroglyphics where in use, surely ambivalent readings of the signs developed. Although the exact spoken forms of pharaonic numbers are forever lost to history, they seem to be similar to familiar European roots:  
 
 0 none [𓂜](𓂜)𓈖  nile nulla  
 1 wa'  𓅱𓂝  
-2 tvi 𓏮 = 𓍘𓇋  
-3 cird [𓐍](𓐍)𓏏 third 𐎘𐎍𐎘 Shams 𓇾𓈉  
-4 ƒeaThDur	𓇋𓆑𓂧 ЧⲦⲞⲞⲨ 𓆑𓂧𓅱 < quartēr/qvrth 𓊖𓏴  
+2 tvi 𓍘𓇋 = 𓏮 ⋍ 𓈇 = tawi  
+3 cird [𓐍](𓐍)𓏏 thirdh 𐎘𐎍𐎘 shams  
+4 ƒeaThDur  𓇋𓆑𓂧 ЧⲦⲞⲞⲨ 𓆑𓂧𓅱 четꙑре četyre < quartēr/qvrth [[𓊖]]𓏴  
 5 phntiu? 𓏆𓈖𓏏 qvind 𓇼𓂭point 5th χoit 𓂧𓇋𓏏 [sic] khamsa@Arab   𓎼𓈖𓄡𓏏𓇼  
 6 sis	𓋴𓇋𓋴 			greek:shexa		ce/cooyg@copt   šeššet@Akkad  seta@Arab  
 7 sevHwn 𓋴𓆑𓎛[[𓅱]]	 	greek:sebta?	七 qība seba@Arab  ßevḪvn 𓊃𓆑𓐍𓅱𓏮𓏮𓏥  sephthen: sebt/cept 𓁶  
-8 acha.many 𓎛𓏠𓈖𓅱 < восьмой ⋍ bosmony  丷♉𓃒𐂍	  'samānā@Akkad  
-9 Poseidonon? 𓊪𓋴𓆓 #psD(w) 𓇸 = naun 𓌳𓈖𓈗 new/neun  
-10 µTen 𓎆 #mDν ⲘⲦⲈ@copt	umpteen =1x10  tent 𓎆 dent [𓏏](𓏏) ten @ sumer ("DON") dah@persi  ma.dan  
-20 µTwenty! 𓎆𓎆 #mdwtj ! 10*2 / 2*10 30maabe 40qvame? 50djjw 60sisin 70sevhjn 80 8mene 90 poseidón psdjw  
-100 cent ϢⲎⲦ #šẽt #šnt Ḫunda 𓅱𓍢𓃡 chien 犬 quǎn czien centipede=cenpod𓊃𓊪𓅮!!  
+8 ach.many 𓎛𓏠𓈖𓅱 < восьмой ⋍ bosmony  八丷♉𓃾𐂍	  'samānā@Akkad  
+9 Poseidonon? 𓊪𓋴𓆓 #psD(w) pseudo-9 𓇸𓌳𓈖𓈗 noon/new/nau/neun  
+10 µTen 𓎆 #mDν ⲘⲦⲈ@copt	umpteen=1x10  tent 𓎆 ი dent [𓏏](𓏏) ten @ sumer ("DON") dah@persi  ma.dan მეათე  
+20 µTwenty! 𓎆𓎆 #mdwtj ! 1*10*2 / 2*10 30maabe 40qvame? 50djjw 60sisin 70sevhjn 80 8mene 90 poseidón psdjw  
+100 cent ϢⲎⲦ #šẽt #šnt Ḫundag 𓅱𓍢𓃡 chien 犬 quǎn czien centipede=cenpod[[𓊃]]𓊪𓅮!!  
 1000 𓐍𓆼𓄿𓅱 kh𓆼au KILO 𓆼calla  千 1.000 qiān 𓐍𓆼𓄿𓅱   Ϣⲟ@Coptic  
 
 
@@ -141,7 +145,8 @@ During the amost four millenia in which egyptian hieroglyphics where in use, sur
 10 Shin ⵜ vs sir 𑀓 = 4 @Brahmi  
 10 tent 𓎆   2nd order  [𓏏](𓏏) ten @ sumer ("DON")  
 10 dent 𓎆 'zahn' Zehn vs Zehen dah@persi  ma.dan :  
-10 µTen 𓎆 #mDw vs #mDj  ⲘⲎⲦ / ⲘⲦⲈ @copt	umpteen		µ 5? 5x2? µtwon:  ⲘⲎⲦ = THenm backwards  
+10 µTen 𓎆 #mDw vs #mDj  ⲘⲎⲦ / ⲘⲦⲈ @copt umpteen µ⋍1x10 khamsa*twin 5x2 decim 2x5 µtwon:  ⲘⲎⲦ⋍Ten backwards  
+10 µTen 𓎆 umpteen pathun பத்து [[the]] ten  
 20 µTwenty! 𓎆𓎆 #mdwtj ! 10*2 / 2*10 30maabe 40qvame? 50djjw 60sisin 70sevhjn 80 8mene 90 poseidón psdjw  
 100 cent 𓍢 #št #šnt shund' 𓊃 centipede=cenpod𓊃𓊪𓅮!!   ϢⲎⲦ = ShmHt ShHnT = cent  
 100 hund-taut 𓅱𓍢 100 𓃡𓍢 chien 100 犬 quǎn czien 𓌕 ⇦ ḫunt cent ṣādē 𐤑 ?    whun𓍢dreht/wound𓍢thread  
