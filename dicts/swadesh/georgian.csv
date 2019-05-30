@@ -1,73 +1,81 @@
-Id	English (gloss)	Georgian language	PIE		IPA	
-1	I (personal pronoun)	მე (me)	me		/mɛ/	
-2	you (singular)	შენ (šen)	sein		/ʃɛn/	
-3	he	ის (is)	his		/is/	
-4	we	ჩვენ (čven)			/tʃvɛn/	
-5	you (plural)	თქვენ (tkven)			/tʰkʰvɛn/	
-6	they	ისინი (isini)	seini		/isini/	
-7	this	ეს (es)	ce, ‘es		/ɛs/	
-8	that	ის (is)	ci, ‘is		/is/	
-9	here	აქ (ak)	aci		/ɑkʰ/	
-10	there	იქ (ik)	ici		/ikʰ/	
-11	who (interrogative)	ვინ (vin)	whon		/vin/	
+Id	English (gloss)	Georgian language x=kh!	PIE		IPA	
+1	I (personal pronoun)	მე (me)	𓅱 me		/mɛ/	
+2	you (singular)	შენ (šen)	𓏏𓈖 tən/sen sie(n)		/ʃɛn/	
+3	he	ის (is)	𓋴 his/su		/is/	
+4	we	ჩვენ (čven)	水𓈖𓏤𓏤𓏤  ʃ’wenu 		/tʃvɛn/	
+5	you (plural)	თქვენ (tkven)	𓎡𓈖𓏤𓏤𓏤 tcyoun 		/tʰkʰvɛn/	
+6	they	ისინი (isini)	𓋴𓈖𓏤𓏤𓏤 sein a’them 		/isini/	
+7	this	ეს (es)	𓇑𓇑 | 𓋴 ‘es 𓏏𓄿 ce		/ɛs/	
+8	that	ის (is)	𓋴 ‘is  ci		/is/	
+9	here	აქ (ak)	𓇑 aci  屮chè		/ɑkʰ/	
+10	there	იქ (ik)	𓇑 ici		/ikʰ/	
+11	who (interrogative)	ვინ (vin)	𓊪𓈖 whon		/vin/	
 12	what (interrogative)	რა (ra)	à?		/rɑ/	
 13	where (interrogative, no movement)	სად (sad)	quod		/sɑd/	
 14	when (interrogative)	როდის (rodis )	wro des		/rɔdis/	
 15	how	როგორ (rogor )			/rɔɡɔr/	
-16	not	არ (ar)	Nar > null  ar~la		/ɑr/	
+16	not	არ (ar)	a- Nar > null  ar~la		/ɑr/	
 17	all	ყველაფერი (q̇velaperi)	cvalle para?		/qʼvɛlɑpʰɛri/	
-18	many	ბევრი (bevri)			/bɛvri/	
-19	some	რამდენიმე (ramdenime)			/rɑmdɛnimɛ/	
+18	many	ბევრი (bevri)	poly		/bɛvri/	
+19	some	რამდენიმე (ramdenime)	Random ;)		/rɑmdɛnimɛ/	
 20	few	ცოტა (coṭa)	Cute = little		/tsɔtʼɑ/	
-21	other	სხვა (sxva)			/sxvɑ/	
-22	one	ერთი (erti)	ferstyi		/ɛrtʰi/	
-23	two	ორი (ori)	(to)er		/ɔri/	
-24	three	სამი (sami)	san		/sɑmi/	
-25	four	ოთხი (otxi)	si		/ɔtʰxi/	
-26	five	ხუთი (xuti)	pxunti	+-	/xutʰi/	
-27	big	დიდი (didi)	taida	++	/didi/	
-28	long	გრძელი (grʒeli)	großelich!	+++	/ɡrdzɛli/	
-29	wide	ფართო, განიერი (parto, ganieri)	part	~	/pʰɑrtʰɔ/, /ɡɑniɛri/	
+21	other	სხვა (sxva)	o’thva 2		/sxvɑ/	
+22	one	ერთი (erti) პირველი p'irveli	一 fersty (value) 一	+++	/ɛrtʰi/	
+23	two	ორი (ori) მეორე meore	二  èr  & more~door 门~耳	++<<	/ɔri/	
+24	three	სამი (sami)  მესამე mesame	三 sān meso 𓏇?	++	/sɑmi/	
+25	four	ოთხი (otxi) მეოთხე meotkhe	四 asyr 西 oxi.dent much	++	/ɔtʰxi/	
+26	five	ხუთი (xuti)	5 penti ხuუti khuti quinte 	++	/xutʰi/	
+		ექვსი (ekvsi)	6 εeks sechs six ჲ	++		
+		შვიდი švidi	7 sevti ო	+++		
+		რვა rva მერვე merve	8 𓏠 პ	?		
+		ცხრა tskhra  მეცხრე metskhre	9 mnew-kadesh ჟ	??		
+		ათი ati მეათე meate	10 a ten ი 𓎆 te.me meter 	++		
+			80 = 4 * 20			
+		ასი asi	100 a cent რ 5*20	+		
+		ათასი atasi	1000 a tausend ჩ	+++		
+27	big	დიდი (didi)	太大 taida	++	/didi/	
+28	long	გრძელი (grʒeli)	großely	+++	/ɡrdzɛli/	
+29	wide	ფართო, განიერი (parto, ganieri)	part, going	~	/pʰɑrtʰɔ/, /ɡɑniɛri/	
 30	thick	სქელი (skeli)			/skʰɛli/	
-31	heavy	მძიმე (mʒime)			/mdzimɛ/	
-32	small	პატარა (ṗaṭara)	petit		/pʼɑtʼɑrɑ/	
-33	short	მოკლე (moḳle)			/mɔkʼlɛ/	
-34	narrow	ვიწრო (vic̣ro)	mvicro?		/vitsʼrɔ/	
-35	thin	თხელი (txeli)			/tʰxɛli/	
-36	woman	ქალი (kali)	Kall girl		/kʰɑli/	
-37	man (adult male)	კაცი (ḳaci)			/kʼɑtsi/	
-38	man (human being)	ადამიანი (adamiani)			/ɑdɑmiɑni/	
-39	child	ბავშვი (bavšvi)			/bɑvʃvi/	
-40	wife	ცოლი (coli)	^^		/tsɔli/	
-41	husband	ქმარი (kmari)	mari		/kʰmɑri/	
+31	heavy	მძიმე (mʒime)	madza.me much maʒimal	++	/mdzimɛ/	
+32	small	პატარა (ṗaṭara)	petit	++	/pʼɑtʼɑrɑ/	
+33	short	მოკლე (moḳle)	micro	++	/mɔkʼlɛ/	
+34	narrow	ვიწრო (vic̣ro)			/vitsʼrɔ/	
+35	thin	თხელი (txeli)	thinly	+~	/tʰxɛli/	
+36	woman	ქალი (kali)	Kali𓄤 girl	+++	/kʰɑli/	
+37	man (adult male)	კაცი (ḳaci)	Kasi;)		/kʼɑtsi/	
+38	man (human being)	ადამიანი (adamiani)	Adaman	+++	/ɑdɑmiɑni/	
+39	child	ბავშვი (bavšvi)	बच्चा baccā boys/bitch	+++	/bɑvʃvi/	
+40	wife	ცოლი (coli)	Kali𓄤 girl ^^	+++	/tsɔli/	
+41	husband	ქმარი (kmari)	mari	+++	/kʰmɑri/	
 42	mother	დედა (deda)		;)	/dɛdɑ/	
 43	father	მამა (mama)		;)	/mɑmɑ/	
 44	animal	ცხოველი (cxoveli)			/tsxɔvɛli/	
 45	fish	თევზი (tevzi)			/tʰɛvzi/	
-46	bird	ჩიტი (čiṭi)	tweety@	+<	/tʃitʼi/	
-47	dog	ძაღლი (ʒaɣli)	jackal	++	/dzɑɣli/	
-48	louse	ტილი (ṭili)			/tʼili/	
+46	bird	ჩიტი (čiṭi)	tweety Tier	+<	/tʃitʼi/	
+47	dog	ძაღლი (ʒaɣli)	jackal δackel dogle	+++	/dzɑɣli/	
+48	louse	ტილი (ṭili)	ti.lis		/tʼili/	
 49	snake	გველი (gveli)	𓋴 𓍋 𓃀 𓏏 𓆙  GVL<KUR	++-	/ɡvɛli/	kar@Mayan Kača,kígyó@SLAVIC,Ural ýylan@Turk
-50	worm	ჭია (č̣ia)	Serpent kria 𓆓 𓂧 𓆑 𓏏 𓆙  𓆑	+	/tʃʼiɑ/	
-51	tree	ხე (xe)	ke		/xɛ/	
-52	forest	ტყე (ṭq̇e)	trees		/tʼqʼɛ/	
-53	stick	ჯოხი (ǯoxi)			/dʒɔxi/	
+50	worm	ჭია (č̣ia)	Serpent kria 𓆓 𓂧 𓆑 𓏏 𓆙  𓆑	++	/tʃʼiɑ/	<> red = kir kvrmis
+51	tree	ხე (xe)	কাঠ kath  ξύλο xýlo	+?	/xɛ/	
+52	forest	ტყე (ṭq̇e)	trees	+?	/tʼqʼɛ/	
+53	stick	ჯოხი (ǯoxi)	Ǯox ~ stock	++	/dʒɔxi/	
 54	fruit	ხილი (xili)	chilli, xil,xir,kir,guor,qi(ball)	+<	/xili/	
 55	seed	თესლი (tesli)			/tʰɛsli/	
-56	leaf	ფოთოლი (potoli)			/pʰɔtʰɔli/	
-57	root	ფესვი (pesvi)			/pʰɛsvi/	
-58	bark (of a tree)	ქერქი (kerki)	kark=bark	+++	/kʰɛrkʰi/	
-59	flower	ყვავილი (q̇vavili)	lily?		/qʼvɑvili/	
+56	leaf	ფოთოლი (potoli)	Blatt		/pʰɔtʰɔli/	
+57	root	ფესვი (pesvi)	𓃀?		/pʰɛsvi/	
+58	bark (of a tree)	ქერქი (kerki)	kork=bark	+++	/kʰɛrkʰi/	
+59	flower	ყვავილი (q̇vavili)	Lily qflower?		/qʼvɑvili/	
 60	grass	ბალახი (balaxi)		<	/bɑlɑxi/	
-61	rope	თოკი (toḳi)	tech	+++<	/tʰɔkʼi/	
+61	rope	თოკი (toḳi)	𓍿𓎀𓍼 tech tag tex Tuch 	+++<	/tʰɔkʼi/	
 62	skin	კანი (ḳani)	carne, khrom	++	/kʼɑni/	
 63	meat	ხორცი (xorci)	gorki@Kor		/xɔrtsi/	
-64	blood	სისხლი (sisxli)	xue	<<	/sisxli/	
+64	blood	სისხლი (sisxli)	süß?xue	<<	/sisxli/	
 65	bone	ძვალი (ʒvali)			/dzvɑli/	
 66	fat (noun)	ქონი, ცხიმი (koni, cximi)			/kʰɔni/, /tsximi/	
 67	egg	კვერცხი (ḳvercxi)			/kʼvɛrtsxi/	
-68	horn	რქა (rka)	rkorn		/rkʰɑ/	
-69	tail	კუდი (ḳudi)	cute	<	/kʼudi/	
+68	horn	რქა (rka)	rkorn	+~<	/rkʰɑ/	
+69	tail	კუდი (ḳudi)	cute Koedel cord	<	/kʼudi/	
 70	feather	ფრთა (prta)		+++	/pʰrtʰɑ/	
 71	hair	თმა (tma)	tü.ma <> Matte, Tollem	++?	/tʰmɑ/	かみ kami
 72	head	თავი (tavi)	top	+++	/tʰɑvi/	
@@ -78,24 +86,24 @@ Id	English (gloss)	Georgian language	PIE		IPA
 77	tooth	კბილი (ḳbili)			/kʼbili/	
 78	tongue (organ)	ენა (ena)	unge		/ɛnɑ/	
 79	fingernail	ფრჩხილი (prčxili)			/pʰrtʃxili/	
-80	foot	ტერფი (ṭerpi)	tier.ped	+++	/tʼɛrpʰi/	
-81	leg	ფეხი (pexi)	pe*	+++	/pʰɛxi/	
+80	foot	ტერფი (ṭerpi)	tier.pied 𓇾𓃀	+++	/tʼɛrpʰi/	
+81	leg	ფეხი (pexi)	pe* 𓃀	+++	/pʰɛxi/	
 82	knee	მუხლი (muxli)	𓌳 𓄿 𓊨 𓏏 𓂾	!<<<	/muxli/	
-83	hand	ხელი (xeli)	kelle?	--	/xɛli/	
+83	hand	ხელი (xeli)	Кедь kelle? Keil kol=arm	--	/xɛli/	கை kai  cheiro > /xɛli/ 手 shǒu 
 84	wing	ფრთა (prta)		+++	/pʰrtʰɑ/	
 85	belly	მუცელი (muceli)	𓏇		/mutsɛli/	
 86	guts	ნაწლავი (nac̣lavi)	内nèi inner 	++	/nɑtsʼlɑvi/	
 87	neck	კისერი (ḳiseri)			/kʼisɛri/	
 88	back	ზურგი (zurgi)	≠gurgel		/zurɡi/	
-89	breast	მკერდი (mḳerdi)			/mkʼɛrdi/	
-90	heart	გული (guli)	guli<coeur	+-	/ɡuli/	
+89	breast	მკერდი (mḳerdi)	m.core 𓊖		/mkʼɛrdi/	
+90	heart	გული (guli)	guli<coeur 𓊖	+-	/ɡuli/	
 91	liver	ღვიძლი (ɣviʒli)	vita	+?	/ɣvidzli/	
-92	to drink	სმა (sma)	ĕçме kumwa 𓋴𓅨𓂋	+	/smɑ/	
+92	to drink	სმა (sma)	ĕçме kumwa 𓋴𓅨𓂋	+	/smɑ/	.ma .make
 93	to eat	ჭამა (č̣ama)	khamm carne	+-?	/tʃʼɑmɑ/	
 94	to bite	კბენა (ḳbena)			/kʼbɛnɑ/	
-95	to suck	წოვა (c̣ova)	saug	~	/tsʼɔvɑ/	
+95	to suck	წოვა (c̣ova)	saug	~	/tsʼɔvɑ/	.va faire .ba basta 吧
 96	to spit	ფურთხვა (purtxva)	𓊪 𓊃 𓎼 𓄑 𓀁		/pʰurtʰxvɑ/	
-97	to vomit	რწყევა (rc̣q̇eva)			/rtsʼqʼɛvɑ/	
+97	to vomit	რწყევა (rc̣q̇eva)	rotz;)		/rtsʼqʼɛvɑ/	
 98	to blow	ბერვა (berva)	blow<bervan	+++	/bɛrvɑ/	
 99	to breathe	სუნთქვა (suntkva)			/suntʰkʰvɑ/	
 100	to laugh	სიცილი (sicili)	hihihi		/sitsili/	
@@ -106,52 +114,52 @@ Id	English (gloss)	Georgian language	PIE		IPA
 105	to smell	ყნოსვა (q̇nosva)	q’nosva	+++	/qʼnɔsvɑ/	
 106	to fear	შიში (šiši)	sissi	;)	/ʃiʃi/	
 107	to sleep	ძილი (ʒili)	Ʒili.ben ~ sleep	+++	/dzili/	
-108	to live	ცხოვრება (cxovreba)			/tsxɔvrɛbɑ/	
+108	to live	ცხოვრება (cxovreba)	𓋹vir 吧 reba~leben	+?	/tsxɔvrɛbɑ/	
 109	to die	კვდომა (ḳvdoma)	kur.dom	+<	/kʼvdɔmɑ/	
 110	to kill	კვლა (ḳvla)	ḳvla	+++	/kʼvlɑ/	
-111	to fight	ბრძოლა (brʒola)			/brdzɔlɑ/	
+111	to fight	ბრძოლა (brʒola)	brutalier	+?	/brdzɔlɑ/	
 112	to hunt	ნადირობა (nadiroba)	Hunti-roiba	++<	/nɑdirɔbɑ/	
-113	to hit	რტყმა (rṭq̇ma)			/rtʼqʼmɑ/	
-114	to cut	ჭრა (č̣ra)		~	/tʃʼrɑ/	
+113	to hit	რტყმა (rṭq̇ma)	rattack?		/rtʼqʼmɑ/	
+114	to cut	ჭრა (č̣ra)	Curat, cortar@POR ! 𓊖	++!<	/tʃʼrɑ/	
 115	to split	მტვრევა (mṭvreva)			/mtʼvrɛvɑ/	
-116	to stab	ჩარტყმა, ჩაცემა (čarṭq̇ma, čacema)		<	/tʃɑrtʼqʼmɑ/, /tʃɑtsɛmɑ/	
+116	to stab	ჩარტყმა, ჩაცემა (čarṭq̇ma, čacema)	'cut’ ^^ kako kill?	<^	/tʃɑrtʼqʼmɑ/, /tʃɑtsɛmɑ/	
 117	to scratch	ფხაჭნა (pxač̣na)		~-	/pʰxɑtʃʼnɑ/	
 118	to dig	ბარვა (barva)	bcarva	++	/bɑrvɑ/	
-119	to swim	ცურვა (curva)		+<	/tsurvɑ/	
-120	to fly	ფრენა (prena)		~	/pʰrɛnɑ/	
-121	to walk	სიარული (siaruli)	shier™	+++	/siɑruli/	
-122	to come	მოსვლა (mosvla)			/mɔsvlɑ/	
-123	to lie (as in a bed, state)	წოლა (c̣ola )	Koller ;)  s’lie	+?	/tsʼɔlɑ/	
-124	to sit	ჯდომა (state) (ǯdoma (state))	sitoma		/dʒdɔmɑ/	
-125	stand (intransitive - state) to stand (intransitive - action) დგომა (dgoma) ადგომა (adgoma ) /dɡɔmɑ/ /ɑdɡɔmɑ/ 		ad.goma? <<			
+119	to swim	ცურვა (curva)	𐀤 𓂻 = swim 𓇾 तैरना tairnā	+<	/tsurvɑ/	
+120	to fly	ფრენა (prena)	^^	~+^	/pʰrɛnɑ/	
+121	to walk	სიარული (siaruli)	Shier™ > चलना	+++	/siɑruli/	
+122	to come	მოსვლა (mosvla)	𓅱𓇍		/mɔsvlɑ/	
+123	to lie (as in a bed, state)	წოლა (c̣ola )	colapse	+?	/tsʼɔlɑ/	
+124	to sit	ჯდომა (state) (ǯdoma (state))	Sito.ma	++	/dʒdɔmɑ/	
+125	stand 	დგომა (dgoma) ადგომა (adgoma ) 	ad.goma? <<		/dɡɔmɑ/ /ɑdɡɔmɑ/ 	
 126	to turn	ტრიალი (ṭriali)	ṭrianli	+++	/tʼriɑli/	
-127	to fall	დაცემა (dacema)			/dɑtsɛmɑ/	
-128	to give	მიცემა (micema)			/mitsɛmɑ/	
+127	to fall	დაცემა (dacema)	Touch-down?		/dɑtsɛmɑ/	
+128	to give	მიცემა (micema)	meat 𓂜?		/mitsɛmɑ/	
 129	to hold	ჭერა (č̣era)	Cera.ben = grab	+?	/tʃʼɛrɑ/	
 130	to squeeze	დაწოლა (dac̣ola)			/dɑtsʼɔlɑ/	
-131	to rub	წმენდა (c̣menda)			/tsʼmɛndɑ/	
-132	to wash	რეცხვა (recxva)			/rɛtsxvɑ/	
-133	to wipe	წმენდა (c̣menda)			/tsʼmɛndɑ/	
-134	to pull	თრევა (treva)			/tʰrɛvɑ/	
+131	to rub	წმენდა (c̣menda)	cement?		/tsʼmɛndɑ/	
+132	to wash	რეცხვა (recxva)	rect?		/rɛtsxvɑ/	
+133	to wipe	წმენდა (c̣menda)	wish.ment?		/tsʼmɛndɑ/	
+134	to pull	თრევა (treva)	Track > 𓍿𓎀		/tʰrɛvɑ/	
 135	to push	ბიძგება (biʒgeba)	push geben	+++	/bidzɡɛbɑ/	
-136	to throw	გადაგდება (gadagdeba)			/ɡɑdɑɡdɛbɑ/	
+136	to throw	გადაგდება (gadagdeba)	attack?	;)	/ɡɑdɑɡdɛbɑ/	
 137	to tie	შეხვევა (šexveva)	sack weave	++	/ʃɛxvɛvɑ/	
-138	to sew	კერვა (ḳerva)		<	/kʼɛrvɑ/	
-139	to count	თვლა (tvla)			/tʰvlɑ/	
-140	to say	თქმა (tkma)	talk.ma@	++	/tʰkʰmɑ/	
+138	to sew	კერვა (ḳerva)	𓐍  <> scar?	<	/kʼɛrvɑ/	
+139	to count	თვლა (tvla)	tell tæl Teil צאָל‎ tsol Zoll Zahl тоо թիվ tʿiv թիւ	+++	/tʰvlɑ/	
+140	to say	თქმა (tkma)	talk.ma dice	+++	/tʰkʰmɑ/	
 141	to sing	მღერა (mɣera)	musera	++	/mɣɛrɑ/	
-142	to play	თამაშობა (tamašoba)			/tʰɑmɑʃɔbɑ/	
-143	to float	ცურვა (curva)		<	/tsurvɑ/	
-144	to flow	დენა (dena)	@Don		/dɛnɑ/	
-145	to freeze	გაყინვა (gaq̇inva)			/ɡɑqʼinvɑ/	
+142	to play	თამაშობა (tamašoba)		??	/tʰɑmɑʃɔbɑ/	
+143	to float	ცურვა (curva)	𐀤 𓂻 = swim 𓇾 तैरना tairnā	<	/tsurvɑ/	
+144	to flow	დენა (dena)	√Don	√++	/dɛnɑ/	
+145	to freeze	გაყინვა (gaq̇inva)	gar		/ɡɑqʼinvɑ/	
 146	to swell	გადიდება (gadideba)			/ɡɑdidɛbɑ/	
-147	sun	მზე (mze)	mizraim!!!	!!<	/mzɛ/	
+147	sun	მზე (mze)	mizraim!!! m.zun	!!<	/mzɛ/	
 148	moon	მთვარე (mtvare)	^^		/mtʰvɑrɛ/	
 149	star	ვარსკვლავი (varsḳvlavi)	Vastro.la		/vɑrskʼvlɑvi/	
 150	water	წყალი (c̣q̇ali)	aqua.le		/tsʼqʼɑli/	
 151	rain	წვიმა (c̣vima)	schwimma	!<<<	/tsʼvimɑ/	
-152	river	მდინარე (mdinare)	meander	+++	/mdinɑrɛ/	
-153	lake	ტბა (ṭba)	bad	++?	/tʼbɑ/	
+152	river	მდინარე (mdinare)	meander m.donaur	+++	/mdinɑrɛ/	
+153	lake	ტბა (ṭba)	Bad	++?	/tʼbɑ/	
 154	sea	ზღვა (zɣva)	sea (schwarz/green?)	++~	/zɣvɑ/	
 155	salt	მარილი (marili)	marin	+++	/mɑrili/	
 156	stone	ქვა (kva)	kur	+++	/kʰvɑ/	
@@ -160,49 +168,49 @@ Id	English (gloss)	Georgian language	PIE		IPA
 159	earth	მიწა (mic̣a)	mud Mutter!	++<	/mitsʼɑ/	
 160	cloud	ღრუბელი (ɣrubeli)	Qoore > qru ~ cloubd	++	/ɣrubɛli/	
 161	fog	ნისლი (nisli)	Niesel	+++	/nisli/	
-162	sky	ცა (ca)	ciel, sky		/tsɑ/	
-163	wind	ქარი (kari)	𓈎𓂋𓇋𓇲 coort	+++	/kʰɑri/	
+162	sky	ცა (ca)	ciel, sky	++?	/tsɑ/	
+163	wind	ქარი (kari)	𓈎𓂋𓇋𓇲 coort	+++	/kʰɑri/	<> kar/grotte
 164	snow	თოვლი (tovli)			/tʰɔvli/	
 165	ice	ყინული (q̇inuli)	snow.le	++	/qʼinuli/	
-166	smoke	კვამლი (ḳvamli)	Qualm.le	++	/kʼvɑmli/	
-167	fire	ცეცხლი, ხანძარი (cecxli, xanʒari)	zünder, indra	++	/tsɛtsxli/, /xɑndzɑri/	
+166	smoke	კვამლი (ḳvamli)	Qualm.le	+++	/kʼvɑmli/	
+167	fire	ცეცხლი, ხანძარი (cecxli, xanʒari)	zünder, indra 𓊮~𓏶 𓊹	++<<	/tsɛtsxli/, /xɑndzɑri/	
 168	ash	ფერფლი (perpli)	Para-phyr > fire	++<	/pʰɛrpʰli/	
-169	to burn	წვა (c̣va)			/tsʼvɑ/	
-170	road	გზა (gza)			/ɡzɑ/	
+169	to burn	წვა (c̣va)	Schwel / cook / schwarz?	<	/tsʼvɑ/	
+170	road	გზა (gza)	*girza *graster রাস্তা  *g’route 		/ɡzɑ/	
 171	mountain	მთა (mta)	monta	+++	/mtʰɑ/	
 172	red	წითელი (c̣iteli)	cirth	+~	/tsʼitʰɛli/	
-173	green	მწვანე (mc̣vane)			/mtsʼvɑnɛ/	
-174	yellow	ყვითელი (q̇viteli)			/qʼvitʰɛli/	
-175	white	თეთრი (tetri)		-- 	/tʰɛtʰri/	
+173	green	მწვანე (mc̣vane)	m.greene	+?	/mtsʼvɑnɛ/	
+174	yellow	ყვითელი (q̇viteli)	@quitte		/qʼvitʰɛli/	
+175	white	თეთრი (tetri)	𓇾 𓇹  ??	-- 	/tʰɛtʰri/	
 176	black	შავი (šavi)	Sar > char > ʃɑvi > Schwarz	+++	/ʃɑvi/	
-177	night	ღამე (ɣame)			/ɣɑmɛ/	
+177	night	ღამე (ɣame)	^^.me ?		/ɣɑmɛ/	
 178	day	დღე (dɣe)	day, Tag	+++	/dɣɛ/	
-179	year	წელი (c̣eli)	< ciel, sora		/tsʼɛli/	
-180	warm	თბილი (tbili)	Tiflis!	√?	/tʰbili/	
+179	year	წელი (c̣eli)	ciel zahl year < sora თვლა tvla	++!	/tsʼɛli/	zaehl, teil ^^ count
+180	warm	თბილი (tbili)	Tiflis! Tvil < Twarm > thermo	√?	/tʰbili/	
 181	cold	ცივი (civi)	shiver civl kühl cool	++	/tsivi/	
-182	full	სავსე (savse)			/sɑvsɛ/	
-183	new	ახალი (axali)			/ɑxɑli/	
+182	full	სავსე (savse)	∑𓍿𓊃	<<	/sɑvsɛ/	
+183	new	ახალი (axali)			/ɑxɑli/	kali=schoen~xin=new
 184	old	ძველი (ʒveli)	vieille	+	/dzvɛli/	
-185	good	კარგი (ḳargi)		½ 	/kʼɑrɡi/	
-186	bad	ცუდი (cudi)			/tsudi/	
+185	good	კარგი (ḳargi)	𓊖♡	½ 	/kʼɑrɡi/	
+186	bad	ცუდი (cudi)	Shit != gut	+!?	/tsudi/	
 187	rotten	დამპალი, გაფუჭებული (damṗali, gapuč̣ebuli)	Dumped < damp(feucht)	++?	/dɑmpʼɑli/, /ɡɑpʰutʃʼɛbuli/	
-188	dirty	ჭუჭყიანი (č̣uč̣q̇iani)	kaka=dirt		/tʃʼutʃʼqʼiɑni/	
+188	dirty	ჭუჭყიანი (č̣uč̣q̇iani)	kaka=dirt	++..	/tʃʼutʃʼqʼiɑni/	
 189	straight	პირდაპირი (ṗirdaṗiri)		<<	/pʼirdɑpʼiri/	
 190	round	მრგვალი (mrgvali)		-- 	/mrɡvɑli/	
 191	sharp (as a knife)	ბასრი, მჭრელი (basri, mč̣reli)	basher is besser	+??	/bɑsri/, /mtʃʼrɛli/	
-192	dull (as a knife)	ბლაგვი (blagvi)	belag		/blɑɡvi/	
+192	dull (as a knife)	ბლაგვი (blagvi)	Belag, lagging		/blɑɡvi/	
 193	smooth	გლუვი (gluvi)			/ɡluvi/	
-194	wet	სველი (sveli)	swet.ly	++	/svɛli/	
-195	dry	მშრალი (mšrali)	Mizraim ^^		/mʃrɑli/	
-196	correct	ზუსტი (zusṭi)	zustimm!		/zustʼi/	
+194	wet	სველი (sveli)	swet.ly 水.ly swell	++<	/svɛli/	
+195	dry	მშრალი (mšrali)	Mizraim 日 misera!? ^^	++?<<	/mʃrɑli/	
+196	correct	ზუსტი (zusṭi)	zustimm!	;) !?	/zustʼi/	
 197	near	ახლო (axlo)	nah.lo		/ɑxlɔ/	
-198	far	შორი (šori)		<<	/ʃɔri/	
+198	far	შორი (šori)	< duri	OK?	/ʃɔri/	
 199	right	მარჯვენა (marǯvena)	marsch		/mɑrdʒvɛnɑ/	
 200	left	მარცხენა (marcxena)	marsch		/mɑrtsxɛnɑ/	
 201	at	-ში (-ši)	ath, as, zu		/-ʃi/	
 202	in	-ში (-ši)	ath, as, zu		/-ʃi/	
-203	with	-თან (-tan)	Tʰɑn > con	+++<	/-tʰɑn/	
+203	with	-თან (-tan)	Tʰɑn > con 同 tong	+++<	/-tʰɑn/	<> ting
 204	and	და (da)	to, ad, da@	+++	/dɑ/	
-205	if	თუ, რომ (tu, rom)	krui, 𓇋𓂋, vs darum!		/tʰu/, /rɔm/	
+205	if	თუ, რომ (tu, rom)	Thou, krui, 𓇋𓂋, vs darum!		/tʰu/, /rɔm/	
 206	because	რადგან (radgan)			/rɑdɡɑn/	
-207	name	სახელი, გვარი (saxeli, gvari)	Sax Sachse! Gewahr		/sɑxɛli/, /ɡvɑri/	
+207	name	სახელი, გვარი (saxeli, gvari)	Sax Sache Sachse Gewahr 𓂋		/sɑxɛli/, /ɡvɑri/	

@@ -37,11 +37,12 @@ compare 4,5 with
 восемь  ("vo-syem")  
 Old double system: x, wo+x = one±x  
 
-very remote [Eurasian](Eurasian) connections to [Tamil](Dravidian) :  
+Kartvelian has some connections to Anatolian and [[Turk]] languages.  
+Kartvelian has very remote [Eurasian](Eurasian) connections to [Tamil](Dravidian) [[numbers]] :  
 
 1 one (onnu) ஒன்று  one  
 2 two (இendu) இரண்டு second / ir 儿 二 èr  
-3 three (moonu) மூன்று [man](Menge) 𓐍𓏠 (3rd person) 3 moons [☾☾☾](☾☾☾) Ϣomte some  
+3 three (moonu) மூன்று [man](Menge) 𓐍𓏠 (3rd person) 3 moons [☾☾☾](☾☾☾) Ϣomte some 𒐗vs𒈫 門门thir vs door鬥  
 4 four (naalu) நான்கு  ? 𒈾[𓈖](𓈖) naul     八 bānara=8 2*4 [𓏌](𓏌) [𓊖](𓊖) arba  
 5 five (anJu) ஐந்து panj 𓂬 (5) vs 𓂧𓇋𓏏 (5)  
 6 six (Aaru) ஆறு ?  
