@@ -1,0 +1,1 @@
+[𓀩](𓀩)  see [[Getae]] [[Kur]] [[Kurdish]]
