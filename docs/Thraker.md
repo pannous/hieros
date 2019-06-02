@@ -1,1 +1,0 @@
-Thracian [[Getae]] @ Dacia  

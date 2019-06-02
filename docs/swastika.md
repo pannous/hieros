@@ -22,7 +22,14 @@ It is one of most common symbols found on Mesopotamian coins (from 500BC?).
 Its relationship with the following symbols needs further investigation:  
 [Nature](Nature) 𓇓 𓇑 Naga 𒀱 𓃶 aNKhar naraka=hell! [𓋹](𓋹)𓈖𓐍 **Kur[𓊖](𓊖) **  
 4 * 𓊹 ? 4 * **𓈉 Shan Swa 𓆄Shu 𓆅 𓊡 𓍢 **  
-Eastern asiatic:  
+
+
+Aryans reached China relatively late:  
+Urbanization and metallurgy appear in a highly advanced state from west of the yellow river about 2600BC, succeeded by Mariannans(charioteers) about 1800BC:  
+![](https://www.thoughtco.com/thmb/1MpL4-UNygRAyw0blREEdaot-vw=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/chinesejar-57a91dc75f9b58974a90edfe.jpg) Majiayao/半山 Bànshān culture 
+See Erlitou, [[Xia]] and [[Shang]] dynasties.
+
+Eastern asiatic swastika:  
 WÀN 卍 网 wǎng ⇔ 凤 Fèng Phoenix 𓅂 Fang 凡 fán 盘 pán = all ⇔ [Peter](Peter) 𓊹  
 MAN 卐 Manji  
 𓃟 Schwein ⇔ Glück  

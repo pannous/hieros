@@ -1,1 +1,0 @@
-[[Nagar]] @ [[Sumer]]  

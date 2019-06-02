@@ -1,1 +1,0 @@
-[[𓌃]] #MD מדע MATTER™ mot/word MWD￫WRT mówić  
