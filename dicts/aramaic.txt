@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/Aramaic_alphabet
 Aramaic
 Arāmāyā
 ‎
+L2R rendering of semitic in Sublime
+
 Hebrew:
 ארמיא
 Armia
@@ -22,6 +24,10 @@ Aramyo
 
 L2R rendering of semitic in Sublime
 
+<<<<<<< HEAD
+בר 1. pure 2. puer (son)
+
+=======
 http://www.peshitta.org/
 
 Imperial Aramaic hebrew differences
@@ -41,6 +47,7 @@ Imperial Aramaic hebrew differences
     4. There are letter changes. Hebrew words with "sh" will often appear in Aramaic spelt with a "t." For example, Daniel 5:25 contains "mene, mene, teqel upharsin." "teqel" is the Aramaic spelling of "sheqel."
     ש (sh)-> ת (t) in Aramaic
     ז (z) -> ד (d) in Aramaic
+>>>>>>> b5a27ee97b00331e76ca435bff5ae48a9a254f0b
 
 AKKADIAN words in asSyriac:
 

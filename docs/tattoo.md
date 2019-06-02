@@ -1,1 +1,0 @@
-[[tattoos]] [[title]]  

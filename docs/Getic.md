@@ -1,1 +1,0 @@
-Language of the [[Getae]] Γέται, singular Γέτης, proto [[Goth]]  
