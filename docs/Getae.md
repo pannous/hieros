@@ -5,9 +5,10 @@
    Herodotes citation needed  
 
 𓐍𓂧𓊛 [[North]] ⋍ **Kurd** => specific ethnonyms of many more or less related PIE 'northeners':  
-Kurd | Kelt | Gauls | Celts | Goth | Ghat | Hatti⋍Hittite | Gudea | Gutes | Geats  
+Kurd | Kelt | Gauls | Celts | 𓅻Goth | Ghat | Hatti⋍Hittite | Gudea | Gutes | Geats  
 We postulate that all these ethnics are related in the sense that they all belonged to the Indo-Germanic / Indo-Arian branch of our [[PIE]], with the exception of some Island-celts.  
 
+𓄂𓃠𓃬𓃒𓃾𓄀 The earliest evidence of **cattle herding** in south Asia comes from the Indus River Valley site of [[Mehrgarh]] and is dated to 7,000 YBP.
 
 "Die **Thraker** sind nach den Indern das größte Volk"  
       Herodotes Terpsichore (5. book 3. paragraph page 410)  
