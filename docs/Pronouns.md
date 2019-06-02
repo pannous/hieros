@@ -18,8 +18,12 @@ Independent pronouns are prefixed by [𓈖](𓈖)[𓏏](𓏏) which is similar t
 Note the International [plural](Plural) marker -n 𓈖𓏤𓏤𓏤  
 
 The first person form is irregular with variants of  
-[𓅱](𓅱)𓎡[𓀀](𓀀) ück,ego,ĝu𒈬,ĝa𒂷  
-𓅱[𓀀](𓀀) we,moi,mon,mine,manch,mich,…  
+[𓅱](𓅱)𓎡[𓀀](𓀀) ück,ego,ĝu𒈬,ĝa𒂷, an'ich, nik, nga 我 < ante.yo  QED!  
+𓅱[𓀀](𓀀) we 我 ma म moi,মই,mon,мань, man, мин min,mine,manch,mich,…  ^^
+𓅱[𓀀](𓀀) ami 𐤠𐤪𐤰 amu 𐊚𐊎𐊒 ẽmu AnI unë  እኔ (ʾəne) أَنَا‎ ʾanā æna אנא‎ inā ܐܢܐ‎ naya an-yo Ente.I [[ante]-I [[AmBi]]  
+
+Ente 𓅱 ĝuĝa𒈬𒂷 𓅱 𐊚𐊎𐊒 ẽmu 𓆂 niǎo 鸟 𓈖𓇋𓅱𓅦  !
+
 It belongs to the Eurasian superfamilies which use m,w,n,g for first person consonants, but not say b,l,r,t (at least not in a leading position). Like "[mama](https://en.m.wikipedia.org/wiki/Mama_and_papa)" it might be anatomically prewired though.  
 
 The hypothesized ancient forms of the ‘letters’  𓆑 𓎡 𓇋 𓅱 (see [Alphabet](Alphabet) and [Axioms](Axioms)) with slight shifts and dangling connotations play well into the above table:  
