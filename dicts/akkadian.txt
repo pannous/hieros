@@ -10,7 +10,7 @@ https://glosbe.com/akk/en/%F0%92%8A%AD
 # 	Cardinal numeral (masc.) 	Cardinal numeral (fem.) 	Congruence (Gender agreement of the cardinal numeral) 	Ordinal (masc.) 	Ordinal (fem.)
 1 	ištēn 	išteʾat, ištāt 	↔ ersten ais eins
 2 	šinā 	↔ twin!  šin vs MIN 𒋰 '2' 𒈫 
-3 	šalāš šalšum  shamnt 𓐍𓂸𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT 𓐍𓂸 SCHAM?  š↔twi/three  EŠ 3 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 ESH : ASH^3
+3 	šalāš šalšum  shamnt 𓐍𓂸𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT 𓐍𓂸 SCHAM?  š↔twi/three  EŠ 3 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 ESH : ASH^3 
 4 	erbē(t) rebûm		urb𓊖orbit:erde four.bum	 𓇋𓆑𓂧		𓆑𓂧𓅱 fdjw  ЧⲦⲞⲞⲨ ~ Qvatour   res (“thing”)
 5 	ḫamiš 	ḫamšum  𓂧𓇋𓏏 chanith	𓂧kḫapha Hand=5 !
 6 	šediš 	šiššet 			sis:six! ++
