@@ -28,7 +28,11 @@ next
 age
 young !!!
 fresh <> green
-
+town/Kaff
+city
+state
+country
+nation
 go
 walk
 run
