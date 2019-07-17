@@ -128,6 +128,16 @@ Position	Decimal	Name	Appearance
 0x001D	29	<control>: GROUP SEPARATOR	
 0x001E	30	<control>: RECORD SEPARATOR	
 0x001F	31	<control>: UNIT SEPARATOR	
+can be used as CSV alternative:
+x1D GS "Group Separator"	 29
+x01 SOH "Start of Heading"
+x02 STX "Start of Text"
+x03 ETX "End of Text"
+x04 EOT "End of Transmission"
+x1C FS "File Separator"
+x1D GS "Group Separator"
+x1E RS "Record Separator"
+x1F US "Unit Separator"
 0x0020	32	SPACE	
 0x0021	33	EXCLAMATION MARK	!
 0x0022	34	QUOTATION MARK	""
@@ -354,6 +364,114 @@ Position	Decimal	Name	Appearance
 0x00FD	253	LATIN SMALL LETTER Y WITH ACUTE	�
 0x00FE	254	LATIN SMALL LETTER THORN	�
 0x00FF	255	LATIN SMALL LETTER Y WITH DIAERESIS	�
+
+
+Character
+Reference 	Hex 	Character 	Entity Name 	Description
+latin &#160; 	A0 	  	&nbsp; 	non-breaking space 	 
+latin &#161; 	A1 	¡ 	&iexcl; 	inverted exclamation mark 	 
+latin &#162; 	A2 	¢ 	&cent; 	cent sign 	 
+latin &#163; 	A3 	£ 	&pound; 	pound sterling sign 	 
+latin &#164; 	A4 	¤ 	&curren; 	general currency sign 	 
+latin &#165; 	A5 	¥ 	&yen; 	yen sign 	 
+latin &#166; 	A6 	¦ 	&brkbar; &brvbar; 	broken vertical bar 	 
+latin &#167; 	A7 	§ 	&sect; 	section sign 	 
+latin &#168; 	A8 	¨ 	&uml; &die; 	spacing dieresis or umlaut 	 
+latin &#169; 	A9 	© 	&copy; 	copyright sign 	 
+latin &#170; 	AA 	ª 	&ordf; 	feminine ordinal sign 	 
+latin &#171; 	AB 	« 	&laquo; 	left double angle quote or guillemet 	 
+latin &#172; 	AC 	¬ 	&not; 	logical not sign 	 
+latin &#173; 	AD 	­ 	&shy; 	soft hyphen 	 
+latin &#174; 	AE 	® 	&reg; 	registered trademark sign 	 
+latin &#175; 	AF 	¯ 	&macr; &hibar; 	spacing macron long accent 	 
+latin &#176; 	B0 	° 	&deg; 	degree sign 	 
+latin &#177; 	B1 	± 	&plusmn; 	plus-or-minus sign 	 
+latin &#178; 	B2 	² 	&sup2; 	superscript 2 	 
+latin &#179; 	B3 	³ 	&sup3; 	superscript 3 	 
+latin &#180; 	B4 	´ 	&acute; 	spacing accute accent 	 
+latin &#181; 	B5 	µ 	&micro; 	micro sign, mu 	 
+latin &#182; 	B6 	¶ 	&para; 	paragraph sign, pilcrow sign 	 
+latin &#183; 	B7 	· 	&middot; 	middle dot, centered dot 	 
+latin &#184; 	B8 	¸ 	&cedil; 	spacing cedilla 	 
+latin &#185; 	B9 	¹ 	&sup1; 	superscript 1 	 
+latin &#186; 	BA 	º 	&ordm; 	masculine ordinal indicator 	 
+latin &#187; 	BB 	» 	&raquo;; 	right double angle quote or guillemet 	 
+latin &#188; 	BC 	¼ 	&frac14; 	fraction 1/4 	 
+latin &#189; 	BD 	½ 	&frac12; &half; 	fraction 1/2 	 
+latin &#190; 	BE 	¾ 	&frac34; 	fraction 3/4 	 
+latin &#191; 	BF 	¿ 	&iquest; 	inverted question mark 	 
+Upper Case Latin-1 Letters
+Character
+Reference 	Hex 	Character 	Entity Name 	Description
+latin &#192; 	C0 	À 	&Agrave; 	capital A grave 	 
+latin &#193; 	C1 	Á 	&Aacute; 	capital A acute 	 
+latin &#194; 	C2 	Â 	&Acirc; 	capital A circumflex 	 
+latin &#195; 	C3 	Ã 	&Atilde; 	capital A tilde 	 
+latin &#196; 	C4 	Ä 	&Auml; 	capital A dieresis or umlaut 	 
+latin &#197; 	C5 	Å 	&Aring; 	capital A ring 	 
+latin &#198; 	C6 	Æ 	&AElig; 	capital AE ligature 	 
+latin &#199; 	C7 	Ç 	&Ccedil; 	capital C cedilla 	 
+latin &#200; 	C8 	È 	&Egrave; 	capital E grave 	 
+latin &#201; 	C9 	É 	&Eacute; 	capital E acute 	 
+latin &#202; 	CA 	Ê 	&Ecirc; 	capital E circumflex 	 
+latin &#203; 	CB 	Ë 	&Euml; 	capital E dieresis or umlaut 	 
+latin &#204; 	CC 	Ì 	&Igrave; 	capital I grave 	 
+latin &#205; 	CD 	Í 	&Iacute; 	capital I acute 	 
+latin &#206; 	CE 	Î 	&Icirc; 	capital I circumflex 	 
+latin &#207; 	CF 	Ï 	&Iuml; 	capital I dieresis or umlaut 	 
+latin &#208; 	D0 	Ð 	&ETH; 	capital ETH 	 
+latin &#209; 	D1 	Ñ 	&Ntilde; 	capital N tilde 	 
+latin &#210; 	D2 	Ò 	&Ograve; 	capital O grave 	 
+latin &#211; 	D3 	Ó 	&Oacute; 	capital O acute 	 
+latin &#212; 	D4 	Ô 	&Ocirc; 	capital O circumflex 	 
+latin &#213; 	D5 	Õ 	&Otilde; 	capital O tilde 	 
+latin &#214; 	D6 	Ö 	&Ouml; 	capital O dieresis or umlaut 	 
+latin &#215; 	D7 	× 	&times; 	multiplication sign 	 
+latin &#216; 	D8 	Ø 	&Oslash; 	capital O slash 	 
+latin &#217; 	D9 	Ù 	&Ugrave;; 	capital U grave 	 
+latin &#218; 	DA 	Ú 	&Uacute; 	capital U acute 	 
+latin &#219; 	DB 	Û 	&Ucirc; 	capital U circumflex 	 
+latin &#220; 	DC 	Ü 	&Uuml; 	capital U dieresis or umlaut 	 
+latin &#221; 	DD 	Ý 	&Yacute; 	capital Y acute 	 
+latin &#222; 	DE 	Þ 	&THORN; 	capital THORN 	 
+latin &#223; 	DF 	ß 	&szlig; 	small sharp s, sz ligature 	 
+Lower Case Latin-1 Letters
+Character
+Reference 	Hex 	Character 	Entity Name 	Description
+latin &#224; 	E0 	à 	&agrave; 	small a grave 	 
+latin &#225; 	E1 	á 	&aacute; 	small a acute 	 
+latin &#226; 	E2 	â 	&acirc; 	small a circumflex 	 
+latin &#227; 	E3 	ã 	&atilde; 	small a tilde 	 
+latin &#228; 	E4 	ä 	&auml; 	small a dieresis or umlaut 	 
+latin &#229; 	E5 	å 	&aring; 	small a ring 	 
+latin &#230; 	E6 	æ 	&aelig; 	small ae ligature 	 
+latin &#231; 	E7 	ç 	&ccedil; 	small c cedilla 	 
+latin &#232; 	E8 	è 	&egrave; 	small e grave 	 
+latin &#233; 	E9 	é 	&eacute; 	small e acute 	 
+latin &#234; 	EA 	ê 	&ecirc; 	small e circumflex 	 
+latin &#235; 	EB 	ë 	&euml; 	small e dieresis or umlaut 	 
+latin &#236; 	EC 	ì 	&igrave; 	small i grave 	 
+latin &#237; 	ED 	í 	&iacute; 	small i acute 	 
+latin &#238; 	EE 	î 	&icirc; 	small i circumflex 	 
+latin &#239; 	EF 	ï 	&iuml; 	small i dieresis or umlaut 	 
+latin &#240; 	F0 	ð 	&eth; 	small eth 	 
+latin &#241; 	F1 	ñ 	&ntilde; 	small n tilde 	 
+latin &#242; 	F2 	ò 	&ograve; 	small o grave 	 
+latin &#243; 	F3 	ó 	&oacute; 	small o acute 	 
+latin &#244; 	F4 	ô 	&ocirc; 	small o circumflex 	 
+latin &#245; 	F5 	õ 	&otilde; 	small o tilde 	 
+latin &#246; 	F6 	ö 	&ouml; 	small o dieresis or umlaut 	 
+latin &#247; 	F7 	÷ 	&divide; 	division sign 	 
+latin &#248; 	F8 	ø 	&oslash; 	small o slash 	 
+latin &#249; 	F9 	ù 	&ugrave; 	small u grave 	 
+latin &#250; 	FA 	ú 	&uacute; 	small u acute 	 
+latin &#251; 	FB 	û 	&ucirc; 	small u circumflex 	 
+latin &#252; 	FC 	ü 	&uuml; 	small u dieresis or umlaut 	 
+latin &#253; 	FD 	ý 	&yacute; 	small y acute 	 
+latin &#254; 	FE 	þ 	&thorn; 	small thorn 	 
+latin &#255; 	FF 	ÿ 	&yuml; 	small y dieresis or umlaut	
+
+
 Latin Extended-A
 Position	Decimal	Name	Appearance
 0x0100	256	LATIN CAPITAL LETTER A WITH MACRON	Ā
@@ -946,7 +1064,7 @@ Position	Decimal	Name	Appearance
 0x039F	927	GREEK CAPITAL LETTER OMICRON	Ο
 0x03A0	928	GREEK CAPITAL LETTER PI	Π
 0x03A1	929	GREEK CAPITAL LETTER RHO	Ρ
-0x03A3	931	GREEK CAPITAL LETTER SIGMA	Σ 	Sum
+0x03A3	931	GREEK CAPITAL LETTER SIGMA	Σ
 0x03A4	932	GREEK CAPITAL LETTER TAU	Τ
 0x03A5	933	GREEK CAPITAL LETTER UPSILON	Υ
 0x03A6	934	GREEK CAPITAL LETTER PHI	Φ
@@ -5677,10 +5795,10 @@ Position	Decimal	Name	Appearance
 0x21F3	8691	UP DOWN WHITE ARROW	⇳
 Mathematical Operators
 Position	Decimal	Name	Appearance
-0x2200	8704	FOR ALL	∀
+0x2200	8704	FOR ALL	Quantor ∀ Reverse A 
 0x2201	8705	COMPLEMENT	∁
 0x2202	8706	PARTIAL DIFFERENTIAL	∂
-0x2203	8707	THERE EXISTS	∃
+0x2203	8707	THERE EXISTS	∃ Quantor Reverse E
 0x2204	8708	THERE DOES NOT EXIST	∄
 0x2205	8709	EMPTY SET	∅
 0x2206	8710	INCREMENT	∆
@@ -6673,8 +6791,8 @@ Staff of Hermes 	⚚ 	U+269A 	&#9882; 	Caduceus, commercial term, commerce
 Atom symbol 	⚛ 	U+269B 	&#9883; 	Nuclear installation
 Fleur-de-lis 	⚜ 	U+269C 	&#9884; 	France, Quebec, The Trinity, Scouting
 Outlined white star 	⚝ 	U+269D 	&#9885; 	Coat of arms of Morocco
-Three lines converging right 	⚞ 	U+269E 	&#9886; 	Someone speaking closed captioning symbol. From ARIB STD B24.
-Three lines converging left 	⚟ 	U+269F 	&#9886; 	Background speaking closed captioning symbol. From ARIB STD B24.
+Three lines converging right 	⚞ 	U+269E 	&#9886; 	Someone speaking closed captioning symbol. 
+Three lines converging left 	⚟ 	U+269F 	&#9886; 	Background speaking closed captioning symbol. 
 Warning sign 	⚠ 	U+26A0 	&#9888; 	
 High voltage sign 	⚡ 	U+26A1 	&#9889; 	
 Doubled female sign 	⚢ 	U+26A2 	&#9890; 	Lesbianism
@@ -6706,70 +6824,70 @@ Quincunx 	⚻ 	U+26BB 	&#9915;
 Sesquiquadrate 	⚼ 	U+26BC 	&#9916; 	
 Soccer ball 	⚽ 	U+26BD 	&#9917; 	football fußball fussball
 Baseball 	⚾ 	U+26BE 	&#9918; 	
-Squared key 	⚿ 	U+26BF 	&#9919; 	Parental lock. From ARIB STD B24.
+Squared key 	⚿ 	U+26BF 	&#9919; 	Parental lock. 
 White draughts man 	⛀ 	U+26C0 	&#9920; 	
 White draughts king 	⛁ 	U+26C1 	&#9921; 	
 Black draughts man 	⛂ 	U+26C2 	&#9922; 	
 Black draughts king 	⛃ 	U+26C3 	&#9923; 	
-Snowman without snow 	⛄ 	U+26C4 	&#9924; 	Light snow. From ARIB STD B24.
-Sun behind cloud 	⛅ 	U+26C5 	&#9925; 	Partly cloudy. From ARIB STD B24.
-Rain 	⛆ 	U+26C6 	&#9926; 	Rainy weather. From ARIB STD B24.
-Black snowman 	⛇ 	U+26C7 	&#9927; 	Heavy snow. From ARIB STD B24.
-Thunder cloud and rain 	⛈ 	U+26C8 	&#9928; 	Thunderstorm. From ARIB STD B24.
-Turned white shogi piece 	⛉ 	U+26C9 	&#9929; 	From ARIB STD B24.
-Turned black shogi piece 	⛊ 	U+26CA 	&#9930; 	From ARIB STD B24.
-White diamond in square 	⛋ 	U+26CB 	&#9931; 	From ARIB STD B24.
-Crossing lanes 	⛌ 	U+26CC 	&#9932; 	Accident. From ARIB STD B24.
-Disabled car 	⛍ 	U+26CD 	&#9933; 	From ARIB STD B24.
-Ophiuchus 	⛎ 	U+26CE 	&#9934; 	Ophiuchus (astrology), new in Unicode 6.
-Pick 	⛏ 	U+26CF 	&#9935; 	Under construction. From ARIB STD B24.
-Car sliding 	⛐ 	U+26D0 	&#9936; 	Icy road. From ARIB STD B24.
-Helmet with white cross 	⛑ 	U+26D1 	&#9937; 	Maintenance. From ARIB STD B24.
-Circled crossing lanes 	⛒ 	U+26D2 	&#9938; 	Road closed. From ARIB STD B24.
-Chains 	⛓ 	U+26D3 	&#9939; 	Tyre chains required. From ARIB STD B24.
-No entry 	⛔ 	U+26D4 	&#9940; 	From ARIB STD B24.
-Alternate one-way left way traffic 	⛕ 	U+26D5 	&#9941; 	From ARIB STD B24.
-Black two-way left way traffic 	⛖ 	U+26D6 	&#9942; 	From ARIB STD B24.
-White two-way left way traffic 	⛗ 	U+26D7 	&#9943; 	From ARIB STD B24.
-Black left lane merge 	⛘ 	U+26D8 	&#9944; 	From ARIB STD B24.
-White left lane merge 	⛙ 	U+26D9 	&#9945; 	From ARIB STD B24.
-Drive slow sign 	⛚ 	U+26DA 	&#9946; 	From ARIB STD B24.
-Heavy white down-pointing triangle 	⛛ 	U+26DB 	&#9947; 	Drive slow. From ARIB STD B24.
-Left closed entry 	⛜ 	U+26DC 	&#9948; 	From ARIB STD B24.
-Squared saltire 	⛝ 	U+26DD 	&#9949; 	Closed entry. From ARIB STD B24.
-Falling diagonal in white circle in black square 	⛞ 	U+26DE 	&#9950; 	Closed to large vehicles. From ARIB STD B24.
-Black truck 	⛟ 	U+26DF 	&#9951; 	Closed to large vehicles, alternate. From ARIB STD B24.
-Restricted left entry-1 	⛠ 	U+26E0 	&#9952; 	From ARIB STD B24.
-Restricted left entry-2 	⛡ 	U+26E1 	&#9953; 	From ARIB STD B24.
-Astronomical symbol for Uranus 	⛢ 	U+26E2 	&#9954; 	New in Unicode 6.
-Heavy circle with stroke and two dots above 	⛣ 	U+26E3 	&#9955; 	Public office. From ARIB STD B24.
-Pentagram 	⛤ 	U+26E4 	&#9956; 	New in Unicode 6
-Right-handed interlaced pentagram 	⛥ 	U+26E5 	&#9957; 	New in Unicode 6
-Left-handed interlaced pentagram 	⛦ 	U+26E6 	&#9958; 	New in Unicode 6
-Inverted pentagram 	⛧ 	U+26E7 	&#9959; 	New in Unicode 6
-Black cross on shield 	⛨ 	U+26E8 	&#9960; 	Hospital. From ARIB STD B24.
-Shinto shrine 	⛩ 	U+26E9 	&#9961; 	Torii. From ARIB STD B24.
-Church 	⛪ 	U+26EA 	&#9962; 	From ARIB STD B24.
-Castle 	⛫ 	U+26EB 	&#9963; 	From ARIB STD B24.
-Historic site 	⛬ 	U+26EC 	&#9964; 	From ARIB STD B24.
-Gear without hub 	⛭ 	U+26ED 	&#9965; 	Factory. From ARIB STD B24.
-Gear with handles 	⛮ 	U+26EE 	&#9966; 	Power plant, power substation. From ARIB STD B24.
-Map symbol for lighthouse 	⛯ 	U+26EF 	&#9967; 	From ARIB STD B24.
-Mountain 	⛰ 	U+26F0 	&#9968; 	From ARIB STD B24.
-Umbrella on ground 	⛱ 	U+26F1 	&#9969; 	Bathing beach. From ARIB STD B24.
-Fountain 	⛲ 	U+26F2 	&#9970; 	Park. From ARIB STD B24.
-Flag in hole 	⛳ 	U+26F3 	&#9971; 	Golf course. From ARIB STD B24.
-Ferry 	⛴ 	U+26F4 	&#9972; 	Ferry boat terminal. From ARIB STD B24.
-Sailboat 	⛵ 	U+26F5 	&#9973; 	Marina or yacht harbour. From ARIB STD B24.
-Square four corners 	⛶ 	U+26F6 	&#9974; 	Intersection. From ARIB STD B24.
-Skier 	⛷ 	U+26F7 	&#9975; 	Ski resort. From ARIB STD B24.
-Ice skate 	⛸ 	U+26F8 	&#9976; 	Ice skating rink. From ARIB STD B24.
-Person with ball 	⛹ 	U+26F9 	&#9977; 	Track and field, gymnasium. From ARIB STD B24.
-Tent 	⛺ 	U+26FA 	&#9978; 	Camping site. From ARIB STD B24.
-Japanese bank symbol 	⛻ 	U+26FB 	&#9979; 	From ARIB STD B24.
-Headstone graveyard symbol 	⛼ 	U+26FC 	&#9980; 	Graveyard, memorial park, cemetery. From ARIB STD B24.
-Fuel pump 	⛽ 	U+26FD 	&#9981; 	Petrol station, gas station. From ARIB STD B24.
-Cup on black square 	⛾ 	U+26FE 	&#9982; 	Drive-in restaurant. From ARIB STD B24.
+Snowman without snow 	⛄ 	U+26C4 	&#9924; 	Light snow. 
+Sun behind cloud 	⛅ 	U+26C5 	&#9925; 	Partly cloudy. 
+Rain 	⛆ 	U+26C6 	&#9926; 	Rainy weather. 
+Black snowman 	⛇ 	U+26C7 	&#9927; 	Heavy snow. 
+Thunder cloud and rain 	⛈ 	U+26C8 	&#9928; 	Thunderstorm. 
+Turned white shogi piece 	⛉ 	U+26C9 	&#9929; 	
+Turned black shogi piece 	⛊ 	U+26CA 	&#9930; 	
+White diamond in square 	⛋ 	U+26CB 	&#9931; 	
+Crossing lanes 	⛌ 	U+26CC 	&#9932; 	Accident. 
+Disabled car 	⛍ 	U+26CD 	&#9933; 	
+Ophiuchus 	⛎ 	U+26CE 	&#9934; 	Ophiuchus (astrology)
+Pick 	⛏ 	U+26CF 	&#9935; 	Under construction. 
+Car sliding 	⛐ 	U+26D0 	&#9936; 	Icy road. 
+Helmet with white cross 	⛑ 	U+26D1 	&#9937; 	Maintenance. 
+Circled crossing lanes 	⛒ 	U+26D2 	&#9938; 	Road closed. 
+Chains 	⛓ 	U+26D3 	&#9939; 	Tyre chains required. 
+No entry 	⛔ 	U+26D4 	&#9940; 	
+Alternate one-way left way traffic 	⛕ 	U+26D5 	&#9941; 	
+Black two-way left way traffic 	⛖ 	U+26D6 	&#9942; 	
+White two-way left way traffic 	⛗ 	U+26D7 	&#9943; 	
+Black left lane merge 	⛘ 	U+26D8 	&#9944; 	
+White left lane merge 	⛙ 	U+26D9 	&#9945; 	
+Drive slow sign 	⛚ 	U+26DA 	&#9946; 	
+Heavy white down-pointing triangle 	⛛ 	U+26DB 	&#9947; 	Drive slow. 
+Left closed entry 	⛜ 	U+26DC 	&#9948; 	
+Squared saltire 	⛝ 	U+26DD 	&#9949; 	Closed entry. 
+Falling diagonal in white circle in black square 	⛞ 	U+26DE 	&#9950; 	Closed to large vehicles. 
+Black truck 	⛟ 	U+26DF 	&#9951; 	Closed to large vehicles, alternate. 
+Restricted left entry-1 	⛠ 	U+26E0 	&#9952; 	
+Restricted left entry-2 	⛡ 	U+26E1 	&#9953; 	
+Astronomical symbol for Uranus 	⛢ 	U+26E2 	&#9954; 	.
+Heavy circle with stroke and two dots above 	⛣ 	U+26E3 	&#9955; 	Public office. 
+Pentagram 	⛤ 	U+26E4 	&#9956; 	
+Right-handed interlaced pentagram 	⛥ 	U+26E5 	&#9957; 	
+Left-handed interlaced pentagram 	⛦ 	U+26E6 	&#9958; 	
+Inverted pentagram 	⛧ 	U+26E7 	&#9959; 	
+Black cross on shield 	⛨ 	U+26E8 	&#9960; 	Hospital. 
+Shinto shrine 	⛩ 	U+26E9 	&#9961; 	Torii. 
+Church 	⛪ 	U+26EA 	&#9962; 	
+Castle 	⛫ 	U+26EB 	&#9963; 	
+Historic site 	⛬ 	U+26EC 	&#9964; 	
+Gear without hub 	⛭ 	U+26ED 	&#9965; 	Factory. 
+Gear with handles 	⛮ 	U+26EE 	&#9966; 	Power plant, power substation. 
+Map symbol for lighthouse 	⛯ 	U+26EF 	&#9967; 	
+Mountain 	⛰ 	U+26F0 	&#9968; 	
+Umbrella on ground 	⛱ 	U+26F1 	&#9969; 	Bathing beach. 
+Fountain 	⛲ 	U+26F2 	&#9970; 	Park. 
+Flag in hole 	⛳ 	U+26F3 	&#9971; 	Golf course. 
+Ferry 	⛴ 	U+26F4 	&#9972; 	Ferry boat terminal. 
+Sailboat 	⛵ 	U+26F5 	&#9973; 	Marina or yacht harbour. 
+Square four corners 	⛶ 	U+26F6 	&#9974; 	Intersection. 
+Skier 	⛷ 	U+26F7 	&#9975; 	Ski resort. 
+Ice skate 	⛸ 	U+26F8 	&#9976; 	Ice skating rink. 
+Person with ball 	⛹ 	U+26F9 	&#9977; 	Track and field, gymnasium. 
+Tent 	⛺ 	U+26FA 	&#9978; 	Camping site. 
+Japanese bank symbol 	⛻ 	U+26FB 	&#9979; 	
+Headstone graveyard symbol 	⛼ 	U+26FC 	&#9980; 	Graveyard, memorial park, cemetery. 
+Fuel pump 	⛽ 	U+26FD 	&#9981; 	Petrol station, gas station. 
+Cup on black square 	⛾ 	U+26FE 	&#9982; 	Drive-in restaurant. 
 White flag with horizontal middle black stripe 	⛿ 	U+26FF 	&#9983; 	Japanese self-defence force site.
 
 Dingbats
@@ -11238,8 +11356,8 @@ Staff of Hermes 	⚚ 	U+269A 	&#9882; 	Caduceus, commercial term, commerce
 Atom symbol 	⚛ 	U+269B 	&#9883; 	Nuclear installation
 Fleur-de-lis 	⚜ 	U+269C 	&#9884; 	France, Quebec, The Trinity, Scouting
 Outlined white star 	⚝ 	U+269D 	&#9885; 	Coat of arms of Morocco
-Three lines converging right 	⚞ 	U+269E 	&#9886; 	Someone speaking closed captioning symbol. From ARIB STD B24.
-Three lines converging left 	⚟ 	U+269F 	&#9886; 	Background speaking closed captioning symbol. From ARIB STD B24.
+Three lines converging right 	⚞ 	U+269E 	&#9886; 	Someone speaking closed captioning symbol. 
+Three lines converging left 	⚟ 	U+269F 	&#9886; 	Background speaking closed captioning symbol. 
 Warning sign 	⚠ 	U+26A0 	&#9888; 	
 High voltage sign 	⚡ 	U+26A1 	&#9889; 	
 Doubled female sign 	⚢ 	U+26A2 	&#9890; 	Lesbianism
@@ -11271,71 +11389,71 @@ Quincunx 			⚻ 	U+26BB 	&#9915;
 Sesquiquadrate 	⚼ 	U+26BC 	&#9916; 	
 Soccer ball 	⚽ 	U+26BD 	&#9917; 	
 Baseball 	⚾ 	U+26BE 	&#9918; 	
-Squared key 	⚿ 	U+26BF 	&#9919; 	Parental lock. From ARIB STD B24.
+Squared key 	⚿ 	U+26BF 	&#9919; 	Parental lock. 
 White draughts man 	⛀ 	U+26C0 	&#9920; 	
 White draughts king 	⛁ 	U+26C1 	&#9921; 	
 Black draughts man 	⛂ 	U+26C2 	&#9922; 	
 Black draughts king 	⛃ 	U+26C3 	&#9923; 	
-Snowman without snow 	⛄ 	U+26C4 	&#9924; 	Light snow. From ARIB STD B24.
-Sun behind cloud 	⛅ 	U+26C5 	&#9925; 	Partly cloudy. From ARIB STD B24.
-Rain 	⛆ 	U+26C6 	&#9926; 	Rainy weather. From ARIB STD B24.
-Black snowman 	⛇ 	U+26C7 	&#9927; 	Heavy snow. From ARIB STD B24.
-Thunder cloud and rain 	⛈ 	U+26C8 	&#9928; 	Thunderstorm. From ARIB STD B24.
-Turned white shogi piece 	⛉ 	U+26C9 	&#9929; 	From ARIB STD B24.
-Turned black shogi piece 	⛊ 	U+26CA 	&#9930; 	From ARIB STD B24.
-White diamond in square 	⛋ 	U+26CB 	&#9931; 	From ARIB STD B24.
-Crossing lanes 	⛌ 	U+26CC 	&#9932; 	Accident. From ARIB STD B24.
-Disabled car 	⛍ 	U+26CD 	&#9933; 	From ARIB STD B24.
-Ophiuchus 	⛎ 	U+26CE 	&#9934; 	Ophiuchus (astrology), new in Unicode 6.
-Pick 	⛏ 	U+26CF 	&#9935; 	Under construction. From ARIB STD B24.
-Car sliding 	⛐ 	U+26D0 	&#9936; 	Icy road. From ARIB STD B24.
-Helmet with white cross 	⛑ 	U+26D1 	&#9937; 	Maintenance. From ARIB STD B24.
-Circled crossing lanes 	⛒ 	U+26D2 	&#9938; 	Road closed. From ARIB STD B24.
-Chains 	⛓ 	U+26D3 	&#9939; 	Tyre chains required. From ARIB STD B24.
-No entry 	⛔ 	U+26D4 	&#9940; 	From ARIB STD B24.
-Alternate one-way left way traffic 	⛕ 	U+26D5 	&#9941; 	From ARIB STD B24.
-Black two-way left way traffic 	⛖ 	U+26D6 	&#9942; 	From ARIB STD B24.
-White two-way left way traffic 	⛗ 	U+26D7 	&#9943; 	From ARIB STD B24.
-Black left lane merge 	⛘ 	U+26D8 	&#9944; 	From ARIB STD B24.
-White left lane merge 	⛙ 	U+26D9 	&#9945; 	From ARIB STD B24.
-Drive slow sign 	⛚ 	U+26DA 	&#9946; 	From ARIB STD B24.
-Heavy white down-pointing triangle 	⛛ 	U+26DB 	&#9947; 	Drive slow. From ARIB STD B24.
-Left closed entry 	⛜ 	U+26DC 	&#9948; 	From ARIB STD B24.
-Squared saltire 	⛝ 	U+26DD 	&#9949; 	Closed entry. From ARIB STD B24.
-Falling diagonal in white circle in black square 	⛞ 	U+26DE 	&#9950; 	Closed to large vehicles. From ARIB STD B24.
-Black truck 	⛟ 	U+26DF 	&#9951; 	Closed to large vehicles, alternate. From ARIB STD B24.
-Restricted left entry-1 	⛠ 	U+26E0 	&#9952; 	From ARIB STD B24.
-Restricted left entry-2 	⛡ 	U+26E1 	&#9953; 	From ARIB STD B24.
-Astronomical symbol for Uranus 	⛢ 	U+26E2 	&#9954; 	New in Unicode 6.
-Heavy circle with stroke and two dots above 	⛣ 	U+26E3 	&#9955; 	Public office. From ARIB STD B24.
-Pentagram 	⛤ 	U+26E4 	&#9956; 	New in Unicode 6
-Right-handed interlaced pentagram 	⛥ 	U+26E5 	&#9957; 	New in Unicode 6
-Left-handed interlaced pentagram 	⛦ 	U+26E6 	&#9958; 	New in Unicode 6
-Inverted pentagram 	⛧ 	U+26E7 	&#9959; 	New in Unicode 6
-Black cross on shield 	⛨ 	U+26E8 	&#9960; 	Hospital. From ARIB STD B24.
-Shinto shrine 	⛩ 	U+26E9 	&#9961; 	Torii. From ARIB STD B24.
-Church 	⛪ 	U+26EA 	&#9962; 	From ARIB STD B24.
-Castle 	⛫ 	U+26EB 	&#9963; 	From ARIB STD B24.
-Historic site 	⛬ 	U+26EC 	&#9964; 	From ARIB STD B24.
-Gear without hub 	⛭ 	U+26ED 	&#9965; 	Factory. From ARIB STD B24.
-Gear with handles 	⛮ 	U+26EE 	&#9966; 	Power plant, power substation. From ARIB STD B24.
-Map symbol for lighthouse 	⛯ 	U+26EF 	&#9967; 	From ARIB STD B24.
-Mountain 	⛰ 	U+26F0 	&#9968; 	From ARIB STD B24.
-Umbrella on ground 	⛱ 	U+26F1 	&#9969; 	Bathing beach. From ARIB STD B24.
-Fountain 	⛲ 	U+26F2 	&#9970; 	Park. From ARIB STD B24.
-Flag in hole 	⛳ 	U+26F3 	&#9971; 	Golf course. From ARIB STD B24.
-Ferry 	⛴ 	U+26F4 	&#9972; 	Ferry boat terminal. From ARIB STD B24.
-Sailboat 	⛵ 	U+26F5 	&#9973; 	Marina or yacht harbour. From ARIB STD B24.
-Square four corners 	⛶ 	U+26F6 	&#9974; 	Intersection. From ARIB STD B24.
-Skier 	⛷ 	U+26F7 	&#9975; 	Ski resort. From ARIB STD B24.
-Ice skate 	⛸ 	U+26F8 	&#9976; 	Ice skating rink. From ARIB STD B24.
-Person with ball 	⛹ 	U+26F9 	&#9977; 	Track and field, gymnasium. From ARIB STD B24.
-Tent 	⛺ 	U+26FA 	&#9978; 	Camping site. From ARIB STD B24.
-Japanese bank symbol 	⛻ 	U+26FB 	&#9979; 	From ARIB STD B24.
-Headstone graveyard symbol 	⛼ 	U+26FC 	&#9980; 	Graveyard, memorial park, cemetery. From ARIB STD B24.
-Fuel pump 	⛽ 	U+26FD 	&#9981; 	Petrol station, gas station. From ARIB STD B24.
-Cup on black square 	⛾ 	U+26FE 	&#9982; 	Drive-in restaurant. From ARIB STD B24.
-White flag with horizontal middle black stripe 	⛿ 	U+26FF 	&#9983; 	Japanese self-defence force site. From ARIB STD B24.
+Snowman without snow 	⛄ 	U+26C4 	&#9924; 	Light snow. 
+Sun behind cloud 	⛅ 	U+26C5 	&#9925; 	Partly cloudy. 
+Rain 	⛆ 	U+26C6 	&#9926; 	Rainy weather. 
+Black snowman 	⛇ 	U+26C7 	&#9927; 	Heavy snow. 
+Thunder cloud and rain 	⛈ 	U+26C8 	&#9928; 	Thunderstorm. 
+Turned white shogi piece 	⛉ 	U+26C9 	&#9929; 	
+Turned black shogi piece 	⛊ 	U+26CA 	&#9930; 	
+White diamond in square 	⛋ 	U+26CB 	&#9931; 	
+Crossing lanes 	⛌ 	U+26CC 	&#9932; 	Accident. 
+Disabled car 	⛍ 	U+26CD 	&#9933; 	
+Ophiuchus 	⛎ 	U+26CE 	&#9934; 	Ophiuchus (astrology)
+Pick 	⛏ 	U+26CF 	&#9935; 	Under construction. 
+Car sliding 	⛐ 	U+26D0 	&#9936; 	Icy road. 
+Helmet with white cross 	⛑ 	U+26D1 	&#9937; 	Maintenance. 
+Circled crossing lanes 	⛒ 	U+26D2 	&#9938; 	Road closed. 
+Chains 	⛓ 	U+26D3 	&#9939; 	Tyre chains required. 
+No entry 	⛔ 	U+26D4 	&#9940; 	
+Alternate one-way left way traffic 	⛕ 	U+26D5 	&#9941; 	
+Black two-way left way traffic 	⛖ 	U+26D6 	&#9942; 	
+White two-way left way traffic 	⛗ 	U+26D7 	&#9943; 	
+Black left lane merge 	⛘ 	U+26D8 	&#9944; 	
+White left lane merge 	⛙ 	U+26D9 	&#9945; 	
+Drive slow sign 	⛚ 	U+26DA 	&#9946; 	
+Heavy white down-pointing triangle 	⛛ 	U+26DB 	&#9947; 	Drive slow. 
+Left closed entry 	⛜ 	U+26DC 	&#9948; 	
+Squared saltire 	⛝ 	U+26DD 	&#9949; 	Closed entry. 
+Falling diagonal in white circle in black square 	⛞ 	U+26DE 	&#9950; 	Closed to large vehicles. 
+Black truck 	⛟ 	U+26DF 	&#9951; 	Closed to large vehicles, alternate. 
+Restricted left entry-1 	⛠ 	U+26E0 	&#9952; 	
+Restricted left entry-2 	⛡ 	U+26E1 	&#9953; 	
+Astronomical symbol for Uranus 	⛢ 	U+26E2 	&#9954; 	.
+Heavy circle with stroke and two dots above 	⛣ 	U+26E3 	&#9955; 	Public office. 
+Pentagram 	⛤ 	U+26E4 	&#9956; 	
+Right-handed interlaced pentagram 	⛥ 	U+26E5 	&#9957; 	
+Left-handed interlaced pentagram 	⛦ 	U+26E6 	&#9958; 	
+Inverted pentagram 	⛧ 	U+26E7 	&#9959; 	
+Black cross on shield 	⛨ 	U+26E8 	&#9960; 	Hospital. 
+Shinto shrine 	⛩ 	U+26E9 	&#9961; 	Torii. 
+Church 	⛪ 	U+26EA 	&#9962; 	
+Castle 	⛫ 	U+26EB 	&#9963; 	
+Historic site 	⛬ 	U+26EC 	&#9964; 	
+Gear without hub 	⛭ 	U+26ED 	&#9965; 	Factory. 
+Gear with handles 	⛮ 	U+26EE 	&#9966; 	Power plant, power substation. 
+Map symbol for lighthouse 	⛯ 	U+26EF 	&#9967; 	
+Mountain 	⛰ 	U+26F0 	&#9968; 	
+Umbrella on ground 	⛱ 	U+26F1 	&#9969; 	Bathing beach. 
+Fountain 	⛲ 	U+26F2 	&#9970; 	Park. 
+Flag in hole 	⛳ 	U+26F3 	&#9971; 	Golf course. 
+Ferry 	⛴ 	U+26F4 	&#9972; 	Ferry boat terminal. 
+Sailboat 	⛵ 	U+26F5 	&#9973; 	Marina or yacht harbour. 
+Square four corners 	⛶ 	U+26F6 	&#9974; 	Intersection. 
+Skier 	⛷ 	U+26F7 	&#9975; 	Ski resort. 
+Ice skate 	⛸ 	U+26F8 	&#9976; 	Ice skating rink. 
+Person with ball 	⛹ 	U+26F9 	&#9977; 	Track and field, gymnasium. 
+Tent 	⛺ 	U+26FA 	&#9978; 	Camping site. 
+Japanese bank symbol 	⛻ 	U+26FB 	&#9979; 	
+Headstone graveyard symbol 	⛼ 	U+26FC 	&#9980; 	Graveyard, memorial park, cemetery. 
+Fuel pump 	⛽ 	U+26FD 	&#9981; 	Petrol station, gas station. 
+Cup on black square 	⛾ 	U+26FE 	&#9982; 	Drive-in restaurant. 
+White flag with horizontal middle black stripe 	⛿ 	U+26FF 	&#9983; 	Japanese self-defence force site. 
 Compact table
 Miscellaneous Symbols[1]
 Official Unicode Consortium code chart (PDF)
@@ -14073,7 +14191,7 @@ Character
 𒆔	74132	𒆔	12194	CUNEIFORM SIGN KAD5 OVER KAD5
 𒆕	74133	𒆕	12195	CUNEIFORM SIGN KAK dù -> DO!
 𒆖	74134	𒆖	12196	CUNEIFORM SIGN KAK TIMES IGI GUNU
-𒆗	74135	𒆗	12197	CUNEIFORM SIGN KAL ↔ GAL : GREAT! Powerful
+𒆗	74135	𒆗	12197	CUNEIFORM SIGN KAL <> GAL : GREAT! Powerful
 𒆘	74136	𒆘	12198	CUNEIFORM SIGN KAL TIMES BAD
 𒆙	74137	𒆙	12199	CUNEIFORM SIGN KAL CROSSING KAL
 𒆚	74138	𒆚	1219A	CUNEIFORM SIGN KAM2
@@ -14108,7 +14226,7 @@ Character
 𒆷	74167	𒆷	121B7	CUNEIFORM SIGN LA
 
 𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸𒆸
-𒆸  𒅇↔𒌑 šam/und 𒌋 sleep/dream = 𒅇=𒅆𒇻= eye+sheep=sleep~s'ee+ipr,schlummer=sch+lämmer !!!
+𒆸  𒅇<>𒌑 šam/und 𒌋 sleep/dream = 𒅇=𒅆𒇻= eye+sheep=sleep~s'ee+ipr,schlummer=sch+lämmer !!!
 𒆸	74168	𒆸	121B8	CUNEIFORM SIGN LAGAB  niĝin encircle GUR4 : great/big KUR4 : circle ! total?
 𒆹	74169	𒆹	121B9	CUNEIFORM SIGN LAGAB TIMES A    encircled water = marsh , swamp
 𒆺	74170	𒆺	121BA	CUNEIFORM SIGN LAGAB TIMES A PLUS DA PLUS HA 
@@ -14124,7 +14242,7 @@ Character
 𒇄	74180	𒇄	121C4	CUNEIFORM SIGN LAGAB TIMES GA
 𒇅	74181	𒇅	121C5	CUNEIFORM SIGN LAGAB TIMES GAR
 𒇆	74182	𒇆	121C6	CUNEIFORM SIGN LAGAB TIMES GUD
-𒇇	74183	𒇇	121C7	CUNEIFORM SIGN LAGAB TIMES GUD PLUS GUD  ewe; Oh, OHMM! ↔ Inana !!! Ur-Engur aka Ur-Nammu 
+𒇇	74183	𒇇	121C7	CUNEIFORM SIGN LAGAB TIMES GUD PLUS GUD  ewe; Oh, OHMM! <> Inana !!! Ur-Engur aka Ur-Nammu 
 𒇈	74184	𒇈	121C8	CUNEIFORM SIGN LAGAB TIMES HA
 𒇉	74185	𒇉	121C9	CUNEIFORM SIGN LAGAB TIMES HAL : engur [45x] = (cosmic) waters
 𒇊	74186	𒇊	121CA	CUNEIFORM SIGN LAGAB TIMES HI TIMES NUN
@@ -14182,7 +14300,7 @@ Character
 𒈖 74262 𒈖 12216 CUNEIFORM SIGN LU3    mix <!!>  *confuse/wrong:
 𒈂 74242 𒈂 12202 CUNEIFORM SIGN LU2 TIMES GAN2 TENU  šaĝa = wronged person;be slain; afflicted, oppressed
 𒈜 74268 𒈜 1221C CUNEIFORM SIGN LUL  false, criminal 'Lump':) | NAR = song / musician
-𒇽 74237 𒇽 121FD CUNEIFORM SIGN LU2      man! he/who/which ↔ 𒈗 Lugal:king *Bal.us regalis
+𒇽 74237 𒇽 121FD CUNEIFORM SIGN LU2      man! he/who/which <> 𒈗 Lugal:king *Bal.us regalis
 𒇾 74238 𒇾 121FE CUNEIFORM SIGN LU2 TIMES AL
 𒇿 74239 𒇿 121FF CUNEIFORM SIGN LU2 TIMES BAD
 𒈀 74240 𒈀 12200 CUNEIFORM SIGN LU2 TIMES ESH2
@@ -14207,11 +14325,11 @@ Character
 𒈔 74260 𒈔 12214 CUNEIFORM SIGN LU2 SQUARED
 𒈕 74261 𒈕 12215 CUNEIFORM SIGN LU2 SHESHIG
 𒈖 74262 𒈖 12216 CUNEIFORM SIGN LU3    MIX
-𒈗 74263 𒈗 12217 CUNEIFORM SIGN LUGAL    KING! ↔ 𒇽 LU:MAN+GAL:BIG 
+𒈗 74263 𒈗 12217 CUNEIFORM SIGN LUGAL    KING! <> 𒇽 LU:MAN+GAL:BIG 
 𒈘 74264 𒈘 12218 CUNEIFORM SIGN LUGAL OVER LUGAL
 𒈙 74265 𒈙 12219 CUNEIFORM SIGN LUGAL OPPOSING LUGAL
 𒈚 74266 𒈚 1221A CUNEIFORM SIGN LUGAL SHESHIG
-𒈛 74267 𒈛 1221B CUNEIFORM SIGN LUH    ↔ official 'syr'  𒇽 LU/SIR:MAN   𒈛:lu:laundry wash
+𒈛 74267 𒈛 1221B CUNEIFORM SIGN LUH    <> official 'syr'  𒇽 LU/SIR:MAN   𒈛:lu:laundry wash
 𒈝	74269	𒈝	1221D	CUNEIFORM SIGN LUM
 𒈞	74270	𒈞	1221E	CUNEIFORM SIGN LUM OVER LUM
 𒈟	74271	𒈟	1221F	CUNEIFORM SIGN LUM OVER LUM GAR OVER GAR
@@ -14615,18 +14733,18 @@ CUNEIFORM G	𒂷	𒂷	𒂷	𒂷
 CUNEIFORM HU	𒄷	𒄷	𒄷	𒄷			H	𒄩HA AH 								
 CUNEIFORM ḫa	𒄩	𒄩	𒄩	𒄩	Ḫ Ѥ	Ḫ Ѥ		fish!hook? 𒄩aha							
 CUNEIFORM haur	𒌨	𒌨	𒌨	𒌨
-CUNEIFORM SIƒ	𒋛	𒋛	𒋛	𒋛		horn	Hor	↔	Kher.os						
+CUNEIFORM SIƒ	𒋛	𒋛	𒋛	𒋛		horn	Hor	<>	Kher.os						
 CUNEIFORM I 	𒄿	𒄿	𒄿	𒄿	Y	Y		fork… ? sYm? 5? fIftY							
 CUNEIFORM J	𒐊	𒐊	𒐊	𒐊	JA	IA	 𒅀 𒉌 Iani~genie𒉓ni𒃻
 CUNEIFORM K	𒋡	𒋡	𒋡	𒋡	qa	SILA_3	𒌆qu𒆪ku𒌒arqu𒅗𒆠𒆤𒆪𒄩𒆯
 CUNEIFORM ḫal	𒄬	𒄬	𒄬	𒄬			K 	kala/kara hail vs an!							
 CUNEIFORM lal	𒇲	𒇲	𒇲	𒇲	LAL	bind bi 匕 	L!	L 乚 bi 匕 	!!!!!!!!!						
-CUNEIFORM ma	𒈠	𒈠	𒈠	𒈠	µ	µ	meter Maß	𒈣𒈢	↔  𒊑 ra/tal king							
-CUNEIFORM na	𒈾	𒈾	𒈾	𒈾	N na 	ana=to, for, by, of, at	ina=in, into, by	nautik nach onto …  ↔ FIN@EG?							
+CUNEIFORM ma	𒈠	𒈠	𒈠	𒈠	µ	µ	meter Maß	𒈣𒈢	<>  𒊑 ra/tal king							
+CUNEIFORM na	𒈾	𒈾	𒈾	𒈾	N na 	ana=to, for, by, of, at	ina=in, into, by	nautik nach onto …  <> FIN@EG?							
 CUNEIFORM ḫo/ko	𒄭	𒄭	𒄭	𒄭	δ kreis	K	cy(r) kou!sol𒄭šhel 𒄮 𒄯 𒄰 𒄱 𒄲 𒄳 𒄴 𒄵 𒄶
 CUNEIFORM pa	𒉺	𒉺	𒉺	𒉺	p 	face ana-panu𒉡=before	pHat=head 1st 匹 pǐ π	PhR 𓁶 foreHead   vs 𓁷 obHerr leader Bhlai? 𒉺𒉡 Vor-her? GIDRU CUNEIFORM "staff, sceptre", UGULA "overseer", GARZA "office"
 CUNEIFORM pou	𒇥	𒇥	𒇥	𒇥	pu					
-CUNEIFORM qu	𒆪	𒆪	𒆪	𒆪	ku		↔squarea	日 曰 ↔ kou							
+CUNEIFORM qu	𒆪	𒆪	𒆪	𒆪	ku		<>squarea	日 曰 <> kou							
 CUNEIFORM qu	𒌆	𒌆	𒌆	𒌆	qu		𒋡 𒌆𒄖 𒂵𒆥𒄣qu~go vs 𒉇NAM_2
 CUNEIFORM (q)up	𒌒	𒌒	𒌒	𒌒		qup!	acker area AR 𒌒
 CUNEIFORM ru	𒊒	𒊒	𒊒	𒊒	ro		round!									
@@ -14643,7 +14761,7 @@ CUNEIFORM wa	𒉿	𒉿	𒉿	𒉿		W + A	PI
 CUNEIFORM y 	𒄿	𒄿	𒄿	𒄿	Y	Y		fork… ? sYm?							
 CUNEIFORM za	𒍝	𒍝	𒍝	𒍝		Z?𒍞 vs S	/tenû/ zig𒍦𒍧zack?									
 CUNEIFORM ú	𒌑	𒌑	𒌑	𒌑		U	Ü !									
-CUNEIFORM de di	𒁲	𒁲	𒁲	𒁲	δ ↔ c` 	‘ßed’ 	circle ↔ kou!								
+CUNEIFORM de di	𒁲	𒁲	𒁲	𒁲	δ <> c` 	‘ßed’ 	circle <> kou!								
 CUNEIFORM 
 CUNEIFORM //////////////////////////			
 CUNEIFORM 
@@ -14652,18 +14770,18 @@ CUNEIFORM bia	𒁍	𒁍	𒁍	𒁍
 CUNEIFORM du	𒁺	𒁺	𒁺	𒁺											
 CUNEIFORM É	𒂍	𒂍	𒂍	𒂍	ES+SA	house esse mesa Hou	καυχ 	[heat	kaust]	καύσ	casa	οικί	δῶμα	
 CUNEIFORM ge gi	𒄀	𒄀	𒄀	𒄀		g?									
-CUNEIFORM KR	𒉽	𒉽	𒉽	𒉽	KÚR	'PAP'	KREIz? KRieg Streit strut Strategem 𒉡	critic CRI.TIC ↔  𓏴 X 𓏵  𐄂 χ ✓☑ 𓍲							
+CUNEIFORM KR	𒉽	𒉽	𒉽	𒉽	KÚR	'PAP'	KREIz? KRieg Streit strut Strategem 𒉡	critic CRI.TIC <>  𓏴 X 𓏵  𐄂 χ ✓☑ 𓍲							
 CUNEIFORM HR!	𒉡	𒉡	𒉡	𒉡		Heer, war, hostilities vs 𒉽	 𒉺𒉡 Vor-her?  nu.kur.ut = KÚR st.rei.t ? strategem?							
 CUNEIFORM ga	𒂵	𒂵	𒂵	𒂵	gee	gee		vs ge 𒄀							
 CUNEIFORM gal	𒃲	𒃲	𒃲	𒃲	GAL	great									
 CUNEIFORM gu	𒄖	𒄖	𒄖	𒄖											
 CUNEIFORM ḫap	𒆸	𒆸	𒆸	𒆸		cup? vs 𒌒 qup	kou! 口kǒu(phon) vs 𒌓 D!	LAGAB,NIGIN2						
-CUNEIFORM ku	𒆪	𒆪	𒆪	𒆪	qu			日 曰 ↔ kou							
+CUNEIFORM ku	𒆪	𒆪	𒆪	𒆪	qu			日 曰 <> kou							
 CUNEIFORM lu	𒇻	𒇻	𒇻	𒇻				square š𒊮 kou goat							
 CUNEIFORM le	𒇷	𒇷	𒇷	𒇷		leo  𒊺+e+a ƒ									
 CUNEIFORM la	𒆷	𒆷	𒆷	𒆷	LL 	elle									
 CUNEIFORM MAR	𒈥	𒈥	𒈥	𒈥
-CUNEIFORM me / a	𒈨	𒈨	𒈨	𒈨	MO / NO?	¬		↔ 𒈨 = M+ES=mes,mas=more							
+CUNEIFORM me / a	𒈨	𒈨	𒈨	𒈨	MO / NO?	¬		<> 𒈨 = M+ES=mes,mas=more							
 CUNEIFORM mé mi	𒈪	𒈪	𒈪	𒈪											
 CUNEIFORM MIN	𒈫	𒈫	𒈫	𒈫
 CUNEIFORM mu	𒈬	𒈬	𒈬	𒈬											
@@ -14677,7 +14795,7 @@ CUNEIFORM ra	𒊏	𒊏	𒊏	𒊏
 CUNEIFORM ša	𒊭	𒊭	𒊭	𒊭		sh+a / ea									
 CUNEIFORM šú	𒋙	𒋙	𒋙	𒋙		cu kurz									
 CUNEIFORM ši	𒅆	𒅆	𒅆	𒅆		ci kurz									
-CUNEIFORM tab/p,dáb/p	𒋰	𒋰	𒋰	𒋰	TAB	2	TT ! tau:two 2	𒉌ni𒃻2↔er chinese?	 VS 𒈫MIN						
+CUNEIFORM tab/p,dáb/p	𒋰	𒋰	𒋰	𒋰	TAB	2	TT ! tau:two 2	𒉌ni𒃻2<>er chinese?	 VS 𒈫MIN						
 CUNEIFORM ta	𒋫	𒋫	𒋫	𒋫		t+au	TAUR!	vs GUD=COW									
 CUNEIFORM te	𒋼	𒋼	𒋼	𒋼											
 CUNEIFORM ti	𒋾	𒋾	𒋾	𒋾		𒋿tenû											
@@ -14696,7 +14814,7 @@ CUNEIFORM ze zi	𒍣	𒍣	𒍣	𒍣		𒉺+𒊺 ƒ	spha?
 CUNEIFORM 
 CUNEIFORM A															
 CUNEIFORM a	𒀀	𒀀	𒀀	𒀀											
-CUNEIFORM a/na/me	𒈨	𒈨	𒈨	𒈨	MO / NO?	¬		anti ↔ 𒈨 = M+ES=mes,mas=more 							
+CUNEIFORM a/na/me	𒈨	𒈨	𒈨	𒈨	MO / NO?	¬		anti <> 𒈨 = M+ES=mes,mas=more 							
 CUNEIFORM ab	𒀊	𒀊	𒀊	𒀊	
 CUNEIFORM ab	𒀖	𒀖	𒀖	𒀖			𒀗𒀘𒀙𒀚𒀛										
 CUNEIFORM ad	𒀜	𒀜	𒀜	𒀜											
@@ -14754,7 +14872,7 @@ CUNEIFORM ḫal	𒄬	𒄬	𒄬	𒄬			K 	vs an!
 CUNEIFORM ḫab/p	𒆸	𒆸	𒆸	𒆸		cup? vs 𒌒 qup	kou!	口 [口] kǒu(phon) vs 𒌓 D!	LAGAB,NIGIN2						
 CUNEIFORM ḫaš	𒋻	𒋻	𒋻	𒋻	QUT	has ‘7 meanings’	SET? 7 Cḫat?	Ishtar/Isis: ISH+𒋻 iset  am-qut=I-bow (fall/happen)						CUNEIFORM 	
 CUNEIFORM ḫad/t	𒉺	𒉺	𒉺	𒉺	PA	sceptre	hut/hat head! π	UGULA "overseer" 1st 							
-CUNEIFORM ḫul	𒄾	𒄾	𒄾	𒄾	ḪUL	evil	↔kur									
+CUNEIFORM ḫul	𒄾	𒄾	𒄾	𒄾	ḪUL	evil	<>kur									
 CUNEIFORM HU	𒄷	𒄷	𒄷	𒄷			H 								
 CUNEIFORM ḫub/p	𒄸	𒄸	𒄸	𒄸	HU			𒄽 𒄼 hyper?							
 CUNEIFORM ḫé	𒃶	𒃶	𒃶	𒃶											
@@ -14767,7 +14885,7 @@ CUNEIFORM kam/gám	𒄰	𒄰	𒄰	𒄰	TU7	soup			kou+mn
 CUNEIFORM k/gán	𒃷	𒃷	𒃷	𒃷	GÁN	field		game?		area?					
 CUNEIFORM kab/p,gáb/p	𒆏	𒆏	𒆏	𒆏	KAB	left		kabana!							
 CUNEIFORM ka	𒅗	𒅗	𒅗	𒅗	kau/cha	口 kǒu! chew	kau=MOUTH!  k.A. ;) ~ 𒄭口𓂋	chat chew kau Kabale → 𒊕 Kopf 							
-CUNEIFORM ka 	𒅗	𒅗	𒅗	𒅗	CHA	chat → SAG 𒊕	𒅗 KA = chat ↔ kau …								
+CUNEIFORM ka 	𒅗	𒅗	𒅗	𒅗	CHA	chat → SAG 𒊕	𒅗 KA = chat <> kau …								
 CUNEIFORM kar	𒃸	?			find			søux							
 CUNEIFORM k/gàr	𒃼	𒃼	𒃼	𒃼											
 CUNEIFORM k/gaš	𒁉	𒁉	𒁉	𒁉	bi,	KAŠ	beer	chavez							
@@ -14783,7 +14901,7 @@ CUNEIFORM kúl,gul	𒄢	𒄢	𒄢	𒄢	GUL	break
 CUNEIFORM k/gum	𒄣	𒄣	𒄣	𒄣											
 CUNEIFORM kur	𒆳	𒆳	𒆳	𒆳	KUR	land									
 CUNEIFORM kùr/gur	𒄥	𒄥	𒄥	𒄥		KUR	!	CYR?𒄨GURUŠ							
-CUNEIFORM KÚR	𒉽				KREI?	Krieg Streit Strategem	critic ?	KR/REI? CRI.TIC ↔  𓏴 X 𓏵  𐄂 χ ✓☑ 𓍲							
+CUNEIFORM KÚR	𒉽				KREI?	Krieg Streit Strategem	critic ?	KR/REI? CRI.TIC <>  𓏴 X 𓏵  𐄂 χ ✓☑ 𓍲							
 CUNEIFORM 
 CUNEIFORM L															
 CUNEIFORM lal	𒇲	𒇲	𒇲	𒇲	LAL	bind bi 匕 	L!	L 乚 𒇳bi 匕 	!!!!!!!!!						
@@ -14805,7 +14923,7 @@ CUNEIFORM meš	𒈩𒎌	𒈩	𒈩	𒈩		90
 CUNEIFORM mil/mel	𒅖	𒅖	𒅖	𒅖	iš										
 CUNEIFORM miš	𒈩	𒈩	𒈩	𒈩											
 CUNEIFORM mur	𒄯	𒄯	𒄯	𒄯	ḫur										
-CUNEIFORM mut	𒉸	?			blood	BL …	blep blu	-> 𒉭 NUNUZ 𒉶 LAHTAN  ↔ MUT GAIA?? ↔ moth?							
+CUNEIFORM mut	𒉸	?			blood	BL …	blep blu	-> 𒉭 NUNUZ 𒉶 LAHTAN  <> MUT GAIA?? <> moth?							
 CUNEIFORM 
 CUNEIFORM N						N									
 CUNEIFORM nam	𒉆	𒉆	𒉆	𒉆	NAM	district									
@@ -14888,7 +15006,7 @@ CUNEIFORM ITU	𒌚	𒌚	𒌚	𒌚		month
 CUNEIFORM KAM	𒄰	𒄰	𒄰	𒄰		(suffixed)numerals		Count? 7	K+N	++					
 CUNEIFORM KI	𒆠	𒆠	𒆠	𒆠		(suffixed)place	UR 𓊖	𒆢UR+D𒆣=earth/Ort𒆡Bad								
 CUNEIFORM KU6	𒄩	𒄩	𒄩	𒄩		fish	PSI	!!!							
-CUNEIFORM KUR	𒆳	𒆳	𒆳	𒆳		land	TER	TER TRA 3 𒆳 !!! ↔ 𒌍 30 ‘all’ ? 𓇾𓇿𓈀𓈅𓈇							
+CUNEIFORM KUR	𒆳	𒆳	𒆳	𒆳		land	TER	TER TRA 3 𒆳 !!! <> 𒌍 30 ‘all’ ? 𓇾𓇿𓈀𓈅𓈇							
 CUNEIFORM KUŠ	𒋢	𒋢	𒋢	𒋢		hide,	fur	kuschel cushion LEDR							
 CUNEIFORM LÚ	𒇽	𒇽	𒇽	𒇽		man	MAN/SIR?/ER?/ELU?								
 CUNEIFORM MEŠ	𒈨𒌍	𒈨𒌍	𒈨𒌍	𒈨𒌍	(M)AS! A+S	(suffixed)plural	plural	NAIS? -mos -ma -mus mas=more							
@@ -14901,15 +15019,15 @@ CUNEIFORM NINDA	𒃻	𒃻	𒃻	𒃻		bread	TEE	DA!!!!!!!!!!!!!	面包	miànbāo(
 CUNEIFORM PÚ	𒇥	𒇥	𒇥	𒇥	source	qwhu?								
 CUNEIFORM PAN 𒉼 𒉼 𒉼 𒉼	!?!
 CUNEIFORM 
-CUNEIFORM SIƒ	𒋛	𒋛	𒋛	𒋛		horn	Hor	↔	Kher.os						
+CUNEIFORM SIƒ	𒋛	𒋛	𒋛	𒋛		horn	Hor	<>	Kher.os						
 CUNEIFORM TÚG	𒌆	𒌆	𒌆	𒌆		garment	Tuch tex								
 CUNEIFORM SAR	𒊬	𒊬	𒊬	𒊬		(suffixed)plant	herb sar=green sherb shrubs								
 CUNEIFORM SÍG	𒋠	𒋠	𒋠	𒋠		wool	zeug								
 CUNEIFORM TU7	𒄰	𒄰	𒄰	𒄰		soup									
 CUNEIFORM Ú	𒌑	𒌑	𒌑	𒌑		plant									
-CUNEIFORM URU	𒌷	𒌷	𒌷	𒌷		city	Ort UR! ↔ 𒆠KI Earth U+R?	𓊨 sit = Sitz city							
+CUNEIFORM URU	𒌷	𒌷	𒌷	𒌷		city	Ort UR! <> 𒆠KI Earth U+R?	𓊨 sit = Sitz city							
 CUNEIFORM URUDU	𒍐					copper	ERZ! E+R+c	口 [口] kǒu(phon) + per? KOU.PI+							
-CUNEIFORM UZU	𒍜	𒍜	𒍜	𒍜	(body part)	meat/bone		soma? ↔ 𒁘 ↔ 𒁮 Dame ↔ 𒉸 mut/blut 
+CUNEIFORM UZU	𒍜	𒍜	𒍜	𒍜	(body part)	meat/bone		soma? <> 𒁘 <> 𒁮 Dame <> 𒉸 mut/blut 
 CUNEIFORM 田 𐌎, ⊞, 申, 甲 and 由									
 CUNEIFORM ‘colon’	𒑱					:									
 CUNEIFORM ŠAR_2 	𒊹 					TI_2									
@@ -15756,7 +15874,7 @@ CUNEIFORM-𒌙 	U+12319 	UD /gunû/ 	542 	337* 	uncertain
 CUNEIFORM-𒌚 	U+1231A 	UD /šešig/ 	0020 	52 	ITI, UD x EŠ
 CUNEIFORM-𒌛 	U+1231B 	UD /šešig/ x BAD 			
 CUNEIFORM-𒌜 	U+1231C 	UDUG 	833 	577; 578 	
-CUNEIFORM-𒌝 	U+1231D 	UM 	238 	134    reed 	↔ 𒈩  UMES Mensch / RID? reed!
+CUNEIFORM-𒌝 	U+1231D 	UM 	238 	134    reed 	<> 𒈩  UMES Mensch / RID? reed!
 CUNEIFORM-𒌞 	U+1231E 	UM x LAGAB 			
 CUNEIFORM-𒌟 	U+1231F 	UM x ME + DA 	241 		
 CUNEIFORM-𒌠 	U+12320 	UM x ŠA_3 			
@@ -17388,7 +17506,7 @@ Cameroon at the turn of the 19th century. WTF
 𖣷	92407	𖣷	168F7	BAMUM LETTER PHASE-D NJEUT
 𖣸	92408	𖣸	168F8	BAMUM LETTER PHASE-D NSHEE
 𖣹	92409	𖣹	168F9	BAMUM LETTER PHASE-D NGGAAMAE
-𖣺	92410	𖣺	168FA	BAMUM LETTER PHASE-D NYAM	↔ Gniu
+𖣺	92410	𖣺	168FA	BAMUM LETTER PHASE-D NYAM	<> Gniu
 𖣻	92411	𖣻	168FB	BAMUM LETTER PHASE-D WUAEN
 𖣼	92412	𖣼	168FC	BAMUM LETTER PHASE-D NGKUN
 𖣽	92413	𖣽	168FD	BAMUM LETTER PHASE-D SHEE
@@ -19687,31 +19805,31 @@ Character
 🍂	127810	🍂	1F342	FALLEN LEAF
 🍃	127811	🍃	1F343	LEAF FLUTTERING IN WIND
 🍄	127812	🍄	1F344	MUSHROOM
-🍅	127813	🍅	1F345	TOMATO
-🍆	127814	🍆	1F346	AUBERGINE
-🍇	127815	🍇	1F347	GRAPES
-🍈	127816	🍈	1F348	MELON
-🍉	127817	🍉	1F349	WATERMELON
-🍊	127818	🍊	1F34A	TANGERINE
-🍋	127819	🍋	1F34B	LEMON
-🍌	127820	🍌	1F34C	BANANA
-🍍	127821	🍍	1F34D	PINEAPPLE
-🍎	127822	🍎	1F34E	RED APPLE
-🍏	127823	🍏	1F34F	GREEN APPLE
-🍐	127824	🍐	1F350	PEAR
-🍑	127825	🍑	1F351	PEACH
-🍒	127826	🍒	1F352	CHERRIES
-🍓	127827	🍓	1F353	STRAWBERRY
-🍔	127828	🍔	1F354	HAMBURGER
-🍕	127829	🍕	1F355	SLICE OF PIZZA
-🍖	127830	🍖	1F356	MEAT ON BONE
-🍗	127831	🍗	1F357	POULTRY LEG
-🍘	127832	🍘	1F358	RICE CRACKER
-🍙	127833	🍙	1F359	RICE BALL
-🍚	127834	🍚	1F35A	COOKED RICE
-🍛	127835	🍛	1F35B	CURRY AND RICE
-🍜	127836	🍜	1F35C	STEAMING BOWL
-🍝	127837	🍝	1F35D	SPAGHETTI
+🍅	127813	🍅	1F345	TOMATO fruit
+🍆	127814	🍆	1F346	AUBERGINE fruit
+🍇	127815	🍇	1F347	GRAPES fruit
+🍈	127816	🍈	1F348	MELON fruit
+🍉	127817	🍉	1F349	WATERMELON fruit
+🍊	127818	🍊	1F34A	TANGERINE fruit
+🍋	127819	🍋	1F34B	LEMON fruit
+🍌	127820	🍌	1F34C	BANANA fruit
+🍍	127821	🍍	1F34D	PINEAPPLE fruit
+🍎	127822	🍎	1F34E	RED APPLE fruit
+🍏	127823	🍏	1F34F	GREEN APPLE fruit
+🍐	127824	🍐	1F350	PEAR fruit
+🍑	127825	🍑	1F351	PEACH fruit
+🍒	127826	🍒	1F352	CHERRIES fruit
+🍓	127827	🍓	1F353	STRAWBERRY fruit
+🍔	127828	🍔	1F354	HAMBURGER food
+🍕	127829	🍕	1F355	SLICE OF PIZZA food
+🍖	127830	🍖	1F356	MEAT ON BONE food
+🍗	127831	🍗	1F357	POULTRY LEG food
+🍘	127832	🍘	1F358	RICE CRACKER food
+🍙	127833	🍙	1F359	RICE BALL food
+🍚	127834	🍚	1F35A	COOKED RICE food
+🍛	127835	🍛	1F35B	CURRY AND RICE food
+🍜	127836	🍜	1F35C	STEAMING BOWL food
+🍝	127837	🍝	1F35D	SPAGHETTI food
 🍞	127838	🍞	1F35E	BREAD
 🍟	127839	🍟	1F35F	FRENCH FRIES
 🍠	127840	🍠	1F360	ROASTED SWEET POTATO
@@ -20431,7 +20549,7 @@ Character
 😜	128540	😜	1F61C	FACE WITH STUCK-OUT TONGUE AND WINKING EYE
 😝	128541	😝	1F61D	FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES
 😞	128542	😞	1F61E	DISAPPOINTED FACE
-😟	128543	😟	1F61F	WORRIED FACE
+😟	128543	😟	1F61F	WORRIED FACE 
 😠	128544	😠	1F620	ANGRY FACE
 😡	128545	😡	1F621	POUTING FACE
 😢	128546	😢	1F622	CRYING FACE
@@ -21396,32 +21514,232 @@ Character
 ﷼	65020	﷼	FDFC	RIAL SIGN
 ﷽	65021	﷽	FDFD	ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM
 
-A	A	A	α	Α	a ʔ ʕ 	Ⲁ	1	𓂣		1	AY=I->iqh 	Aleph	𐤀	١,1	Ayin 0 / start	一	Аа	א	ܐ	ﺍ	ﺍ ه	ﺍة	አ	Αα	Аа	Aa	ʾālep	ox	ʾ [ʔ]	D42	𓂣	Arm	a / o	𒀀 (𒈨 𒀹 𒀸 𒋻) ↔ tdášh 𒁹	吖 ā!  阿 ābc	a 	ᚨ 	a 	/a(ː)/ 	*ansuz 	one of the Æsir (gods)	α ἄ ἅ ἀ ά	Α Ἄ Ἅ Ἀ Ά
+
+LINEAR A
+
+Using the values associated with Linear B in Linear A mainly produces unintelligible words. If it uses the same or similar syllabic values as Linear B, then its underlying language appears unrelated to any known language. This has been dubbed the Minoan language.
+
+Tyrrhenian +++ M. Facchetti attempted to link Linear A to the Tyrrhenian language family comprising Etruscan,
+
+Linear A   𐘀   10600
+Linear A   𐘐   10610
+Linear A   𐘠   10620
+Linear A   𐘰   10630
+Linear A   𐙀   10640
+Linear A   𐙐   10650
+Linear A   𐙠   10660
+Linear A   𐙰   10670
+Linear A   𐚀   10680
+Linear A   𐚐   10690
+Linear A   𐚠   106A0
+Linear A   𐚰   106B0
+Linear A   𐘁   10601
+Linear A   𐘑   10611
+Linear A   𐘡   10621
+Linear A   𐘱   10631
+Linear A   𐙁   10641
+Linear A   𐙑   10651
+Linear A   𐙡   10661
+Linear A   𐙱   10671
+Linear A   𐚁   10681
+Linear A   𐚑   10691
+Linear A   𐚡   106A1
+Linear A   𐚱   106B1
+Linear A   𐘂   10602
+Linear A   𐘒   10612
+Linear A   𐘢   10622
+Linear A   𐘲   10632
+Linear A   𐙂   10642
+Linear A   𐙒   10652
+Linear A   𐙢   10662
+Linear A   𐙲   10672
+Linear A   𐚂   10682
+Linear A   𐚒   10692
+Linear A   𐚢   106A2
+Linear A   𐚲   106B2
+Linear A   𐘃   10603
+Linear A   𐘓   10613
+Linear A   𐘣   10623
+Linear A   𐘳   10633
+Linear A   𐙃   10643
+Linear A   𐙓   10653
+Linear A   𐙣   10663
+Linear A   𐙳   10673
+Linear A   𐚃   10683
+Linear A   𐚓   10693
+Linear A   𐚣   106A3
+Linear A   𐚳   106B3
+Linear A   𐘄   10604
+Linear A   𐘔   10614
+Linear A   𐘤   10624
+Linear A   𐘴   10634
+Linear A   𐙄   10644
+Linear A   𐙔   10654
+Linear A   𐙤   10664
+Linear A   𐙴   10674
+Linear A   𐚄   10684
+Linear A   𐚔   10694
+Linear A   𐚤   106A4
+Linear A   𐚴   106B4
+Linear A   𐘅   10605
+Linear A   𐘕   10615
+Linear A   𐘥   10625
+Linear A   𐘵   10635
+Linear A   𐙅   10645
+Linear A   𐙕   10655
+Linear A   𐙥   10665
+Linear A   𐙵   10675
+Linear A   𐚅   10685
+Linear A   𐚕   10695
+Linear A   𐚥   106A5
+Linear A   𐚵   106B5
+Linear A   𐘆   10606
+Linear A   𐘖   10616
+Linear A   𐘦   10626
+Linear A   𐘶   10636
+Linear A   𐙆   10646
+Linear A   𐙖   10656
+Linear A   𐙦   10666
+Linear A   𐙶   10676
+Linear A   𐚆   10686
+Linear A   𐚖   10696
+Linear A   𐚦   106A6
+Linear A   𐚶   106B6
+Linear A   𐘇   10607
+Linear A   𐘗   10617
+Linear A   𐘧   10627
+Linear A   𐘷   10637
+Linear A   𐙇   10647
+Linear A   𐙗   10657
+Linear A   𐙧   10667
+Linear A   𐙷   10677
+Linear A   𐚇   10687
+Linear A   𐚗   10697
+Linear A   𐚧   106A7
+Linear A   𐚷   106B7
+Linear A   𐘈   10608
+Linear A   𐘘   10618
+Linear A   𐘨   10628
+Linear A   𐘸   10638
+Linear A   𐙈   10648
+Linear A   𐙘   10658
+Linear A   𐙨   10668
+Linear A   𐙸   10678
+Linear A   𐚈   10688
+Linear A   𐚘   10698
+Linear A   𐚨   106A8
+Linear A   𐚸   106B8
+Linear A   𐘉   10609
+Linear A   𐘙   10619
+Linear A   𐘩   10629
+Linear A   𐘹   10639
+Linear A   𐙉   10649
+Linear A   𐙙   10659
+Linear A   𐙩   10669
+Linear A   𐙹   10679
+Linear A   𐚉   10689
+Linear A   𐚙   10699
+Linear A   𐚩   106A9
+Linear A   𐚹   106B9
+Linear A   𐘊   1060A
+Linear A   𐘚   1061A
+Linear A   𐘪   1062A
+Linear A   𐘺   1063A
+Linear A   𐙊   1064A
+Linear A   𐙚   1065A
+Linear A   𐙪   1066A
+Linear A   𐙺   1067A
+Linear A   𐚊   1068A
+Linear A   𐚚   1069A
+Linear A   𐚪   106AA
+Linear A   𐚺   106BA
+Linear A   𐘋   1060B
+Linear A   𐘛   1061B
+Linear A   𐘫   1062B
+Linear A   𐘻   1063B
+Linear A   𐙋   1064B
+Linear A   𐙛   1065B
+Linear A   𐙫   1066B
+Linear A   𐙻   1067B
+Linear A   𐚋   1068B
+Linear A   𐚛   1069B
+Linear A   𐚫   106AB
+Linear A   𐚻   106BB
+Linear A   𐘌   1060C
+Linear A   𐘜   1061C
+Linear A   𐘬   1062C
+Linear A   𐘼   1063C
+Linear A   𐙌   1064C
+Linear A   𐙜   1065C
+Linear A   𐙬   1066C
+Linear A   𐙼   1067C
+Linear A   𐚌   1068C
+Linear A   𐚜   1069C
+Linear A   𐚬   106AC
+Linear A   𐚼   106BC
+Linear A   𐘍   1060D
+Linear A   𐘝   1061D
+Linear A   𐘭   1062D
+Linear A   𐘽   1063D
+Linear A   𐙍   1064D
+Linear A   𐙝   1065D
+Linear A   𐙭   1066D
+Linear A   𐙽   1067D
+Linear A   𐚍   1068D
+Linear A   𐚝   1069D
+Linear A   𐚭   106AD
+Linear A   𐚽   106BD
+Linear A   𐘎   1060E
+Linear A   𐘞   1061E
+Linear A   𐘮   1062E
+Linear A   𐘾   1063E
+Linear A   𐙎   1064E
+Linear A   𐙞   1065E
+Linear A   𐙮   1066E
+Linear A   𐙾   1067E
+Linear A   𐚎   1068E
+Linear A   𐚞   1069E
+Linear A   𐚮   106AE
+Linear A   𐚾   106BE
+Linear A   𐘏   1060F
+Linear A   𐘟   1061F
+Linear A   𐘯   1062F
+Linear A   𐘿   1063F
+Linear A   𐙏   1064F
+Linear A   𐙟   1065F
+Linear A   𐙯   1066F
+Linear A   𐙿   1067F
+Linear A   𐚏   1068F
+Linear A   𐚟   1069F
+Linear A   𐚯   106AF
+   𐚿 ???
+
+A	A	A	α	Α	a ʔ ʕ 	Ⲁ	1	𓂣		1	AY=I->iqh 	Aleph	𐤀	١,1	Ayin 0 / start	一	Аа	א	ܐ	ﺍ	ﺍ ه	ﺍة	አ	Αα	Аа	Aa	ʾālep	ox	ʾ [ʔ]	D42	𓂣	Arm	a / o	𒀀 (𒈨 𒀹 𒀸 𒋻) <> tdášh 𒁹	吖 ā!  阿 ābc	a 	ᚨ 	a 	/a(ː)/ 	*ansuz 	one of the Æsir (gods)	α ἄ ἅ ἀ ά	Α Ἄ Ἅ Ἀ Ά
 B	B	B	β	Β	b v β	Ⲃ	2	𓃀		2		Bėth	𐤁	٢,2	zVaer	二	Бб, Вв	B	ב	ܒ	با	ﺏ	በ	Ββ	Bb	Бб, Вв	bēt	house	b [b]	D58	𓃀	Bein vEIn	bod,be,bar	𒁁 𒁇 𒁀 𒁁 pod / pied !	匕 勹 冫卜 比 bi  北 bei(ges𒄑) 阝Bollbau 巴	b 	ᛒ 	b 	/b/ 	*berkanan 	birch	β	Β
 C	C	C	ζ	Ζ		Ⲅ/Ⲥ	3	𓍿		3		Cgimel ztoe	𐤂	٣,3	tSan	三	Гг, Ґґ	C	ג	ܓ	ﺝ	چا	ገ	Γγ	Cc, Gg	Гг, Ґґ	gīml	camel	g [ɡ]	V13	𓍿	Ceh gelicpelt Camel	cez,GIŠ 	𒄑 CUT 𒃰	厂 chǎng 产chǎn 艮 gen. 艹 cǎo 寸 cun  δao刀切qiē	c 	ᚲ 	c/k	/k/ 	*kaunan 	ulcer or *kenaz torch	ζ	Ζ
 D	D	D	δ	Δ		Ⲇ	4	𓂧		4		Daleth d'roit	𐤃	٤,4	Dsiro	四	Дд	D	ד	ܕ	د ط	ذ	ደ	Δδ	Dd	Дд	dālet	door diele	d [d]	D46	𓂧	leδer leDer leaTHer  YODHR!?! droit	ud	𒌓 take 𒆕 de di 𒁲 δ	斗 dou:duell 刀dao刂 歹dai=die	d 	ᛞ 	d 	/d/ 	*dagaz 	day	δ	Δ
 E	E	E	ε	Ε		Ⲉ	5	𓇋		5		fHE*	𐤄	٥,5	vWuhn, fEnpth	五	Ее, Єє, Ээ	E	ה	ܗ	ف	ه Ha	ሀ	Εε	Ee	Ее, Єє, Ээ	hē	window fhen	h [h]	M17	𓇋	fEther light ι,e,i,	e	𒂊	噩 è 堊 è ? 	e 	ᛖ 	e 	/e(ː)/ 	*ehwaz 	horse	ε ἑ ἕ ἐ ἔ έ η	Ε Ἑ Ἕ Ἐ Ἔ Έ Η
-F (v/ph)	F	F	ƒ	Ƒ	pʰ	Ⲋ	6	𓆑		6		Vaw	𐤅	٦,6	sunLeo	六	(Ѵѵ), Уу, Ўў	F	ו	ܘ	ظ فا	ﻭ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook ↔ jaw	w [w]	I9	𓆑	phython = PhSn	fa	𒉺 → pa,pi	父 fu	f 	ᚠ 	f 	/f/ 	*fehu 	wealth, cattle	ƒ ϝ Ϝ υ fHe 𐤄	Ƒ Ϝ Ϝ Υ
-G	G	G	γ	Γ		Ⲝ	7	𓎼		7	𐤆 se'ėn 7	Ğimel	𐤂	٧,7	Qiembel Śive	七	Гг, Ґґ	G	ג	ܓ	قا	ﺝ	ገ	Γγ	Cc, Gg	Гг, Ґґ	gīml	camel	g [ɡ]	W11	𓎼	Ɠiebel γ,κ,Γ,g (Kübel)	g	𒂷	厂 generate 产chǎn 艮 gen genesis ↔ Jan♀	g 	ᚷ 	g 	/ɡ/ 	*gebō 	gift	γ	Γ
+F (v/ph)	F	F	ƒ	Ƒ	pʰ	Ⲋ	6	𓆑		6		Vaw	𐤅	٦,6	sunLeo	六	(Ѵѵ), Уу, Ўў	F	ו	ܘ	ظ فا	ﻭ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook <> jaw	w [w]	I9	𓆑	phython = PhSn	fa	𒉺 → pa,pi	父 fu	f 	ᚠ 	f 	/f/ 	*fehu 	wealth, cattle	ƒ ϝ Ϝ υ fHe 𐤄	Ƒ Ϝ Ϝ Υ
+G	G	G	γ	Γ		Ⲝ	7	𓎼		7	𐤆 se'ėn 7	Ğimel	𐤂	٧,7	Qiembel Śive	七	Гг, Ґґ	G	ג	ܓ	قا	ﺝ	ገ	Γγ	Cc, Gg	Гг, Ґґ	gīml	camel	g [ɡ]	W11	𓎼	Ɠiebel γ,κ,Γ,g (Kübel)	g	𒂷	厂 generate 产chǎn 艮 gen genesis <> Jan♀	g 	ᚷ 	g 	/ɡ/ 	*gebō 	gift	γ	Γ
 H	H	H	η	Η	ħ	ⲎϨ	8	𓉔 𓍱		8	phoeni:	Həth ('otto) hat	𐤇	٨,8	Ba'al OcHe 	八	Ии, Йй	H	ח	ܚ	ها حا	ح, خ	ሐ, ኀ	Ηη	Hh	Ии, Йй	ḥēt 	wall, courtyard	ḥ [ħ]	O4	𓉔	HOu : Hort / Haus / Hof / Hecke	hau hu 	𒌨 𒄷  𒋛? 𒉺Headt->pa	戶 (户,戸) hu door 	后'	h 	ᚺᚻ 	h 	/h/ 	*hagalaz "hail" precipitation	η	Η
 I	I	I	ι	Ι		Ϫ/Ⲍ	9	𓇋		9	𐤈 9	nYodh? tIth?	𐤉	٩,9	Yjioudh	九	Іі, Її, Јј	I	י	ܝ	 يا	ي	የ	Ιι	Ii, Jj	Іі, Її, Јј	yōd	hand	y [j]	M17	𓇋	feather light ι,e, 𓇌 ee = I,y	i	𒄿 Y	一 yi 亅 jué	i 	ᛁ 	i 	/i(ː)/ 	*īsaz 	ice	ι ί ἰ ἱ ἴ ἷ ῖ ΐ ϊ	Ι Ί Ἰ Ἱ Ἴ Ἷ Ι͂ Ϊ́ Ϊ
-J	J	J	ῖ	Ι͂		Ⲓ 	10	𓆳 𓇌		10	10	Yodh	𐤉	10	δix (shix~full?)	什	Іі, Її, Јј	J	י	ܝ	 جو  جا	ي	የ	Ιι	Ii, Jj	Іі, Її, Јј	yōd	hand	y [j]	M4	𓆳	Jana ♀ ↔   𓋴 Jagt Jahr	ia	𒐊  ↔ 𒊩 ?	亅 jué	j,ï,ei 	ᛃ,ᛇ 	j,ï,æ 	/j/ /æː/ 	*eī(h)waz 	yew-tree / *jēra- year,harvest	ῖ	Ι͂
+J	J	J	ῖ	Ι͂		Ⲓ 	10	𓆳 𓇌		10	10	Yodh	𐤉	10	δix (shix~full?)	什	Іі, Її, Јј	J	י	ܝ	 جو  جا	ي	የ	Ιι	Ii, Jj	Іі, Її, Јј	yōd	hand	y [j]	M4	𓆳	Jana ♀ <>   𓋴 Jagt Jahr	ia	𒐊  <> 𒊩 ?	亅 jué	j,ï,ei 	ᛃ,ᛇ 	j,ï,æ 	/j/ /æː/ 	*eī(h)waz 	yew-tree / *jēra- year,harvest	ῖ	Ι͂
 K	K	K	κ	Κ	kʰ	Ⲕ/Ϧ	20	𓎡		10	11	Kaph	𐤊	10|11	δεκατ taKe	٠,	Кк	K	כך	ܟ	كا	ﻙ	ከ	Κκ	Kk	Кк	kāp	palm (of a hand)	k [k]	V31	𓎡	cup κu γru dju jug Krug carpal carpe-diem  vs cap ~ kop!	K ḫal	𒋡 qa 𒄬	犭quǎn = κύων = chien (dog)	k 	ᚲ 	k (c) 	/k/ 	*kaunan 	ulcer" *kenaz "torch	κ	Κ
 L	L	L	λ	Λ	l	Ⲗ	30	𓏯		11	Leo Pharst	Lamedh Ali1	𐤋	1	el levan Ali11	١,1	Лл	L	ל	ܠ	ﻝ	لو لي لا	ለ	Λλ	Ll	Лл	lāmed	goad lamm!	l [l]	Z5	𓏯	L λ 𓍢 lu wu  goad ~ guide lambs 𓋾 𓌀 ~ Lampe	lal	𒇲 !	了 le	l 	ᛚ 	l 	/l/ 	*laguz 	water, lake" *laukaz "leek	λ	Λ
 M	M	M	μ	Μ		Ⲙ	40	𓈗 𓌳		12	𓈖 𓈗 𐤏 	NuMerA	𐤍	2	two-elf	٢,2	Мм	M	מם	ܡ	ما	ﻡ 	መ	Μμ	Mm	Мм	mēm	water!	m [m]	U1	𓈗 𓌳	Mare Mast  μ 𓅱? 𒊩 MUNUS Mund Mumu? vs 𓂋	ma	𒈠  𒈫MIN 𒈪	門men 皿 mǐn  冖 mi 宀 mián 木mu 毛 mao 	m 	ᛗ 	m 	/m/ 	*mannaz 	Man	μ	Μ
 N	N	N	ν	Ν		Ⲛ Ϣ!?	50 60	𓈖		13	𓈗	Mer	𐤌	3	thr3-ten	٣,3	Нн	N	נן	ܢ	نا	ﻥ	ነ	Νν	Nn	Нн	nūn	snake snun	n [n]	N35	𓈖	Nautik 牛 niú 鸟 μνo 乃 nǎi milk 	na	𒈾nar=fish  MUNUS 𒊩	宀 án 	n 	ᚾ 	n 	/n/ 	*naudiz 	need	ν	Ν
 O	O	O	o	OΩ		Ⲟ	70	𓍯		6 | 0	0 = zheiRoh	Ayin	𐤏	4 | 6	40	٤,4	Оо	O	ע	ܥ أ	يو  و	ع, غ	ዐ	Οο, Ωω	Oo	Оо	ʿayin	eye	ʿ [ʕ]	V4	𓍯	Rhoise ϱ vs 𓂝O(ben)	ḫo/ko	𒄭  	口 O / kǒu → 阿 ābc  吖 ā oy!	o 	ᛟ 	o 	/o(ː)/ 	*ōþila-/*ōþala- 	heritage, estate, possession	o ό ό ὁ ὀ ὄ ω	Ω O Ό Ό Ὁ Ὀ Ὄ
-P	P	P	π	Π	pʰ	Ⲡ	80	𓊪		0 | 5	* = primus	Pe(nt)	𐤐	5	70	٥,5	Пп	P	פף	ܦ	ف	ف	ፈ	Ππ	Pp	Пп	pē	mouth ?	p [p]	Q3	𓊪	Phoo(nix) π 𒉺 匹 pi	pha / ḫeadt	𒉺 pou 𒇥 (q)up𒌒	匹 pi  片 piàn ↔ who 问 文 wén	p 	ᛈ 	p 	/p/ 	*perþ- 	meaning unclear, perhaps "pear-tree".	π	Π
+P	P	P	π	Π	pʰ	Ⲡ	80	𓊪		0 | 5	* = primus	Pe(nt)	𐤐	5	70	٥,5	Пп	P	פף	ܦ	ف	ف	ፈ	Ππ	Pp	Пп	pē	mouth ?	p [p]	Q3	𓊪	Phoo(nix) π 𒉺 匹 pi	pha / ḫeadt	𒉺 pou 𒇥 (q)up𒌒	匹 pi  片 piàn <> who 问 文 wén	p 	ᛈ 	p 	/p/ 	*perþ- 	meaning unclear, perhaps "pear-tree".	π	Π
 Q	Q	Q	ϐ	Ϙ		Ϥ/Ϭ	90	𓏘  𓁷 	Iq moi	1	IqhiKopf	Qəph(al) Kuh8	𐤒	8 | 6	100	٦,6	(Ҁҁ)	Q	ק	ܩ	قا	ﻕ	ቀ	(Ϙϙ) Φφ, Ψψ	Qq	(Ҁҁ)	qōp	needle eye=kopf	q kˤ	N29	𓏘  𓁷 	Quarꜩ Kuh.erz Ɠum 𓁷 Kopf 𐤒	qu(p)	𒆪 𒌆 𒌒 𒅗 ka/pu mouth	甲 kōpp gap ‘nail head’ Ϙ QED  曰yuē speaka 月moond 	o 	ᛟ 	o 	/o(ː)/ 	*ōþila-/*ōþala- 	heritage, estate, possession	ϐ	Β
 R	R	R	ρ γ	Ρ		Ⲣ/Ⳁ	100	𓂋 𓁶	tjur𓎡	2	TuphErrst	Resh RaSun	𐤓	6 | 9	SuRa SoLar	٧,7	Рр	R	ר	ܪ	ﺭ	پا	ረ	Ρρ ®	Rr	Рр	rēš	head	r [r]	D21	𓂋 𓁶	(ph)rēš ratio head 𒊕 => 𒅗 Reuse? mouth	ru re ri rad/t	𒊒 𒊑 𒋥 𒊕 res	人 (亻,𠆢)  入 八 日ri	r 	ᚱ 	r 	/r/ 	*raidō 	ride, journey	ρ γ	Ρ Γ
 S	S	S	σ ς	Σ		Ⲋ/Ⲥ/Ϭ	6|200	𓋴	she 𐤑 → 	3	sie San'deg?	Sa'dek	𐤑	7	80	٨,8	Цц, Чч, Џџ	S	צץ	ܨ	سا  س 	ص, ض	ጸ, ጰ, ፀ	Σς (Ϻϻ) sin	—	Цц, Чч, Џџ	ṣādē	(s)hunt 𓄝 shot	ṣ [sˤ]	S29	𓋴	S ß δ Γ shut 𓄝 Jagt schade Saturn 𓄞 vs  𓆰 nat.šar 𒊬 	sa eš eš še 	𒊓 𒌍 𒐁 𒊺	尸 shi 屮 che 殳 shū 𓄝	s 	ᛊᛋ 	s 	/s/ 	*sōwilō 	Sun	σ ς	Σ Σ
 T	T	T	τ θ	Τ		Ⲧ/Ϯ	300	𓏏	it T 𐤕 → 	4	It Tsi	Tawn ten!	𐤕	10	300	٩,9	Тт	T	ת ט	ܬ	ط تا	ت, ث	ተ, ፐ (?)	Ττ	Tt	Тт	tāw	mark	t [t]	X1	𓏏	Tee  broTH breaD  	dáš,tiš	𒁹 𒌓	亠 土 tu 斗 dou:duell 头 tou=top	t 	ᛏ 	t 	/t/ 	*tīwaz/*teiwaz 	the god Tiwaz	τ θ	Τ Θ
 U	U	U	υ	ΥΩ		Ⲱ/Ⲩ	400	𓅱	we, moi	5	Phuor Wu we	Waw	𐤅	9			Ѵѵ, Уу	U	ו	ܘ	و	وا	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]	G43	𓅱	kück.hENn	u ú	𒌋 ! 𒌑		u 	ᚢ 	u 	/u(ː)/ 	*ūruz 	aurochs	υ	Υ
-V	V	v	υφ	ΦΥ		Ⲫ	500	𓆑 	sin	6	Sun, Leu, Ra 	Waw	𐤅				(Ѵѵ), Уу, Ўў	V	ו	ܘ	ف ظ	ف ڤ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]	I9	𓆑 	phython = PhSn	v	𒌋  vu	巫 Voodoo							υ ↔ φ β	ΦΥ
+V	V	v	υφ	ΦΥ		Ⲫ	500	𓆑 	sin	6	Sun, Leu, Ra 	Waw	𐤅				(Ѵѵ), Уу, Ўў	V	ו	ܘ	ف ظ	ف ڤ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]	I9	𓆑 	phython = PhSn	v	𒌋  vu	巫 Voodoo							υ <> φ β	ΦΥ
 W UU	W	W	ω	Ω͂	ō oː	Ⲱ	800	𓅳	them se'm	7	Muun Qi Sie	Waw	𐤅				(Ѵѵ), Уу, Ўў	W	ו	ܘ	ﻭ	ﻭ	ወ	(Ϝϝ), Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]		𓅳	𓅱+𓅱= hUhn  ω 𓍢 wu(n) 乌 wū cui 崔 quick chick	w wa	𒑱 𒉿 𒉼Pan~Wan !?	无 (旡) wu ø 毋 (母, ⺟) wu 巫 witch 乌Wū black							ω ὠ ὡ ῶ ὦ ὥ ᾠ	Ω Ὠ Ὡ Ω͂ Ὦ Ὥ 
 X	X	X	ξχ	ΞΧ		Ⲝ/Ⲭ	7|600	𓏴	X → 	8	oX Ba'al	Samekhx Sat 	𐤎	30	san(3)mekh10?		(Ѯѯ), poss. Хх	X	ס	ܣ, ܤ		—	ሰ	Ξξ,  Χχ	 Xx	(Ѯѯ),  Хх	xsāmeks	support	s [s]	Z9	𓏴	X 𓏵  𐄂 χ ✓☑ 𓍲  v	?	? 𒄬ḫal  𒉽kr kur 𒆳	斤 axe	x 	ᚷ 	g 	/ɡ/ 	*gebō 	gift	ξχ ἐκς	ΞΧ ἘΚΣ
 Y	Y	Y	Ύ	Ύ:Ψ		Ⲩ/Ⲯ	700	𓏭	Y → 𐤅 → 	9	NauYn Yioud	Waw Yp.silon	𐤅				(Ѵѵ), Уу, Ўў	Y	ו	ܘ	يي	ﻭ	ወ	Υυ	Ff, Uu, Vv, Yy, Ww	(Ѵѵ), Уу, Ўў	wāw	hook	w [w]	Z4	𓏭	Y 𓏮 𓇌  𓇋 𓇋 𓆄𓆄 ¨ 义 	y 	𒄿	又 you 义 yi	y 	ᛃ 	y 	/j/ 	*jēra- 	year,harvest	ύ Ύ	Ύ Ύ
-Z	z	z	ζδ	ΖΔ		Ⲍ/Ⳉ	9 | 900	𓊃	Z → 𐤆 →	10	Zeh Zahn Shin	Zayin	𐤆	7 | 10	7! se'ėn vs 𐤂		Жж, Зз	z	ז	ܙ		ﺯ, ذ	ዘ	Ζζ	Zz	Жж, Зз	zayin	weapon	z [z]	O34	𓊃	Z,Σ,ß,ss,ts,c,δ sym	ze zi sse 	𒍝  𒋝s/zig?	左 zuǒ 作zuō ҙ 坐 zuò ↔ δuo 2 zwo do! 足 zú (too…)	z 	ᛉᛋ 	z 	/z/ 	*algiz 	unclear, possibly "elk"	ζδ	ΖΔ
+Z	z	z	ζδ	ΖΔ		Ⲍ/Ⳉ	9 | 900	𓊃	Z → 𐤆 →	10	Zeh Zahn Shin	Zayin	𐤆	7 | 10	7! se'ėn vs 𐤂		Жж, Зз	z	ז	ܙ		ﺯ, ذ	ዘ	Ζζ	Zz	Жж, Зз	zayin	weapon	z [z]	O34	𓊃	Z,Σ,ß,ss,ts,c,δ sym	ze zi sse 	𒍝  𒋝s/zig?	左 zuǒ 作zuō ҙ 坐 zuò <> δuo 2 zwo do! 足 zú (too…)	z 	ᛉᛋ 	z 	/z/ 	*algiz 	unclear, possibly "elk"	ζδ	ΖΔ
 SH	zozo	pho.	γϡ	ΓϢ	ʃ	Ϣ	60	𓄑  𓍱		100	chien Ϡ 	Shin	𐤔	100	Berg 百 bǎi 		Сс, Шш, Щщ	zozo	ש	ܫ		ش, س	ሠ	Σσς	Ss	Сс, Шш, Щщ	šīn	tooth	š [ʃ]		𓄑	ß/Z Zahn	de di	𒍝 𒁲	山 shān  手 (扌,龵) shou	sh 	ᛊᛋ 	sh 	/s/ 	*sōwilō 	Sun" shamesh	γ Ϡ ϡ Ϣ	Γ Ϡ Ϡ Ϣ
 TH 			θ	Θ	tʰ ᚦ /θ/	Ⲑ | Ϧ?	1000?	𓆼		1000		Teth	𐤈	9!			(Ѳѳ)		ט	ܛ		ط, ظ	ጠ	Θθ	—	(Ѳѳ)	ṭēt	wheel	ṭ [tˤ]				za ße 	𒍣		th,þ 	ᚦ 	þ 	/θ/, /ð/ 	*þurisaz 	the god Thor, giant	θ	Θ
 TSH					tʃ			𓆓																																			
@@ -21451,8 +21769,8 @@ rune a 	ᚨ 	a 	/a(ː)/ 	*ansuz 	"one of the Æsir (gods) An*Zeus vs 𐌰 AHSA	G
 rune b 	ᛒ 	b 	/b/ 	*berkanan 	"birch"
 rune c 	ᚲ 	c/k	/k/ 	*kaunan 	"ulcer" *kenaz "torch" ƒƒ
 rune d 	ᛞ 	d 	/d/ 	*dagaz 	"day", "Dächer?"
-rune e 	ᛖ 	e 	/e(ː)/ 	*ehwaz 	"horse" ↔ ᛖäre
-rune f 	ᚠ 	f 	/f/ 	*fehu 	"wealth, cattle" ↔ Viech,viel Vieh
+rune e 	ᛖ 	e 	/e(ː)/ 	*ehwaz 	"horse" <> ᛖäre
+rune f 	ᚠ 	f 	/f/ 	*fehu 	"wealth, cattle" <> Viech,viel Vieh
 rune g 	ᚷ 	g 	/ɡ/ 	*gebō 	"gift" Gabe
 rune h 	ᚺᚻ 	h 	/h/ 	*hagalaz "hail" 
 rune i		ᛁ,ᛇ 	i,æ,eī 	 	/i(ː)//æː/	*īsaz 	"ice", *eī(h)waz 	"yew-tree"
@@ -21570,28 +21888,6 @@ IPA phonetic Open 	a · ɶ
 IPA phonetic 0061 0276 				ɑ · ɒ
 IPA phonetic Vowel length marker 	ː 02D0
 
-
-Name[A] 	Image 	Text 	IPA[3] 	Name 	Image 	Text 	IPA 	Name 	Image 	Text 	IPA
-Aleph Pahlavi 	𐭠 	/a/, /ā/ 	
-Heth Pahlavi 	𐭧 	/h/, /x/ 	
-Samekh Pahlavi 	 	𐭮 	/s/, /h/
-Beth Pahlavi 	𐭡 	/b/, /w/ 	
-Teth Pahlavi 	𐭨 	/ṭ/ 	
-Pe Pahlavi 	𐭯 	/p/, /b/, /f/
-Gimel Pahlavi 	𐭢 	/g/, /y/ 	
-Yodh Pahlavi 	𐭩 	/y/, /ē̆/, /ī̆/, /ǰ/ 	
-Sadhe Pahlavi 	𐭰 	/č/, /ǰ/, /z/
-Daleth Pahlavi 	𐭣 	/d/, /y/ 	
-Kaph Pahlavi 	𐭪 	/k/, /g/ 	
-Shin Pahlavi 	𐭱 	/š/
-He Pahlavi 	𐭤 	/h/ 	
-Lamedh Pahlavi 	𐭫 	/l/, /r/ 	
-Taw Pahlavi 	𐭲 	/t/, /d/
-Waw-Ayin-Resh Pahlavi 	𐭥 	/w/, /ʿ/, /r/ 	
-Mem-Qoph Pahlavi 	𐭬 	/m/, /q/ !!
-Zayin Pahlavi 	𐭦 	/z/ 	
-Nun Pahlavi 	𐭭 	/n/ 
-
 Diacritics
 Diacritic 	Function 	Hex 	Diacritic 	Function 	Hex 	Diacritic 	Function 	Hex
 IPA phonetic ˳ 	Voiceless 	0x02F3 	0x0325 	̤ 	Breathy Voiced 		0x0324 	͏̪ 	Dental 		0x032A
@@ -21670,7 +21966,7 @@ Fraction 	Decimal 	Hexadecimal 	HTML Entity
 ⅒	&#8530; 	  
 <sup>9</sup> &#8260; <sub>11</sub> 
 
-〇 líng ↔ ring
+〇 líng <> ring
  	
 1 ; one 	一 	yī 	
 2 ; two 	二 	èr 	
@@ -21992,6 +22288,133 @@ U+085x	ࡐ	ࡑ	ࡒ	ࡓ	ࡔ	ࡕ	ࡖ	ࡗ	ࡘ	࡙	࡚	࡛			࡞
     🏴‍☠️ Pirate Flag
 
 
+
+Character
+Reference 	Hex 	Character 	Entity Name 	Description
+latin &#160; 	A0 	  	&nbsp; 	non-breaking space 	 
+latin &#161; 	A1 	¡ 	&iexcl; 	inverted exclamation mark 	 
+latin &#162; 	A2 	¢ 	&cent; 	cent sign 	 
+latin &#163; 	A3 	£ 	&pound; 	pound sterling sign 	 
+latin &#164; 	A4 	¤ 	&curren; 	general currency sign 	 
+latin &#165; 	A5 	¥ 	&yen; 	yen sign 	 
+latin &#166; 	A6 	¦ 	&brkbar; &brvbar; 	broken vertical bar 	 
+latin &#167; 	A7 	§ 	&sect; 	section sign 	 
+latin &#168; 	A8 	¨ 	&uml; &die; 	spacing dieresis or umlaut 	 
+latin &#169; 	A9 	© 	&copy; 	copyright sign 	 
+latin &#170; 	AA 	ª 	&ordf; 	feminine ordinal sign 	 
+latin &#171; 	AB 	« 	&laquo; 	left double angle quote or guillemet 	 
+latin &#172; 	AC 	¬ 	&not; 	logical not sign 	 
+latin &#173; 	AD 	­ 	&shy; 	soft hyphen 	 
+latin &#174; 	AE 	® 	&reg; 	registered trademark sign 	 
+latin &#175; 	AF 	¯ 	&macr; &hibar; 	spacing macron long accent 	 
+latin &#176; 	B0 	° 	&deg; 	degree sign 	 
+latin &#177; 	B1 	± 	&plusmn; 	plus-or-minus sign 	plusminus plus-minus
+latin &#178; 	B2 	² 	&sup2; 	superscript 2 	 
+latin &#179; 	B3 	³ 	&sup3; 	superscript 3 	 
+latin &#180; 	B4 	´ 	&acute; 	spacing accute accent 	 
+latin &#181; 	B5 	µ 	&micro; 	micro sign, mu 	 
+latin &#182; 	B6 	¶ 	&para; 	paragraph sign, pilcrow sign 	 
+latin &#183; 	B7 	· 	&middot; 	middle dot, centered dot 	 
+latin &#184; 	B8 	¸ 	&cedil; 	spacing cedilla 	 
+latin &#185; 	B9 	¹ 	&sup1; 	superscript 1 	 
+latin &#186; 	BA 	º 	&ordm; 	masculine ordinal indicator 	 
+latin &#187; 	BB 	» 	&raquo;; 	right double angle quote or guillemet 	 
+latin &#188; 	BC 	¼ 	&frac14; 	fraction 1/4 	 
+latin &#189; 	BD 	½ 	&frac12; &half; 	fraction 1/2 	 
+latin &#190; 	BE 	¾ 	&frac34; 	fraction 3/4 	 
+latin &#191; 	BF 	¿ 	&iquest; 	inverted question mark 	 
+Upper Case Latin-1 Letters
+Character
+Reference 	Hex 	Character 	Entity Name 	Description
+latin &#192; 	C0 	À 	&Agrave; 	capital A grave 	 
+latin &#193; 	C1 	Á 	&Aacute; 	capital A acute 	 
+latin &#194; 	C2 	Â 	&Acirc; 	capital A circumflex 	 
+latin &#195; 	C3 	Ã 	&Atilde; 	capital A tilde 	 
+latin &#196; 	C4 	Ä 	&Auml; 	capital A dieresis or umlaut 	 
+latin &#197; 	C5 	Å 	&Aring; 	capital A ring 	 
+latin &#198; 	C6 	Æ 	&AElig; 	capital AE ligature 	 
+latin &#199; 	C7 	Ç 	&Ccedil; 	capital C cedilla 	 
+latin &#200; 	C8 	È 	&Egrave; 	capital E grave 	 
+latin &#201; 	C9 	É 	&Eacute; 	capital E acute 	 
+latin &#202; 	CA 	Ê 	&Ecirc; 	capital E circumflex 	 
+latin &#203; 	CB 	Ë 	&Euml; 	capital E dieresis or umlaut 	 
+latin &#204; 	CC 	Ì 	&Igrave; 	capital I grave 	 
+latin &#205; 	CD 	Í 	&Iacute; 	capital I acute 	 
+latin &#206; 	CE 	Î 	&Icirc; 	capital I circumflex 	 
+latin &#207; 	CF 	Ï 	&Iuml; 	capital I dieresis or umlaut 	 
+latin &#208; 	D0 	Ð 	&ETH; 	capital ETH 	 
+latin &#209; 	D1 	Ñ 	&Ntilde; 	capital N tilde 	 
+latin &#210; 	D2 	Ò 	&Ograve; 	capital O grave 	 
+latin &#211; 	D3 	Ó 	&Oacute; 	capital O acute 	 
+latin &#212; 	D4 	Ô 	&Ocirc; 	capital O circumflex 	 
+latin &#213; 	D5 	Õ 	&Otilde; 	capital O tilde 	 
+latin &#214; 	D6 	Ö 	&Ouml; 	capital O dieresis or umlaut 	 
+latin &#215; 	D7 	× 	&times; 	multiplication sign 	 
+latin &#216; 	D8 	Ø 	&Oslash; 	capital O slash 	 
+latin &#217; 	D9 	Ù 	&Ugrave;; 	capital U grave 	 
+latin &#218; 	DA 	Ú 	&Uacute; 	capital U acute 	 
+latin &#219; 	DB 	Û 	&Ucirc; 	capital U circumflex 	 
+latin &#220; 	DC 	Ü 	&Uuml; 	capital U dieresis or umlaut 	 
+latin &#221; 	DD 	Ý 	&Yacute; 	capital Y acute 	 
+latin &#222; 	DE 	Þ 	&THORN; 	capital THORN 	 
+latin &#223; 	DF 	ß 	&szlig; 	small sharp s, sz ligature 	 
+Lower Case Latin-1 Letters
+Character
+Reference 	Hex 	Character 	Entity Name 	Description
+latin &#224; 	E0 	à 	&agrave; 	small a grave 	 
+latin &#225; 	E1 	á 	&aacute; 	small a acute 	 
+latin &#226; 	E2 	â 	&acirc; 	small a circumflex 	 
+latin &#227; 	E3 	ã 	&atilde; 	small a tilde 	 
+latin &#228; 	E4 	ä 	&auml; 	small a dieresis or umlaut 	 
+latin &#229; 	E5 	å 	&aring; 	small a ring 	 
+latin &#230; 	E6 	æ 	&aelig; 	small ae ligature 	 
+latin &#231; 	E7 	ç 	&ccedil; 	small c cedilla 	 
+latin &#232; 	E8 	è 	&egrave; 	small e grave 	 
+latin &#233; 	E9 	é 	&eacute; 	small e acute 	 
+latin &#234; 	EA 	ê 	&ecirc; 	small e circumflex 	 
+latin &#235; 	EB 	ë 	&euml; 	small e dieresis or umlaut 	 
+latin &#236; 	EC 	ì 	&igrave; 	small i grave 	 
+latin &#237; 	ED 	í 	&iacute; 	small i acute 	 
+latin &#238; 	EE 	î 	&icirc; 	small i circumflex 	 
+latin &#239; 	EF 	ï 	&iuml; 	small i dieresis or umlaut 	 
+latin &#240; 	F0 	ð 	&eth; 	small eth 	 
+latin &#241; 	F1 	ñ 	&ntilde; 	small n tilde 	 
+latin &#242; 	F2 	ò 	&ograve; 	small o grave 	 
+latin &#243; 	F3 	ó 	&oacute; 	small o acute 	 
+latin &#244; 	F4 	ô 	&ocirc; 	small o circumflex 	 
+latin &#245; 	F5 	õ 	&otilde; 	small o tilde 	 
+latin &#246; 	F6 	ö 	&ouml; 	small o dieresis or umlaut 	 
+latin &#247; 	F7 	÷ 	&divide; 	division sign 	 
+latin &#248; 	F8 	ø 	&oslash; 	small o slash 	 
+latin &#249; 	F9 	ù 	&ugrave; 	small u grave 	 
+latin &#250; 	FA 	ú 	&uacute; 	small u acute 	 
+latin &#251; 	FB 	û 	&ucirc; 	small u circumflex 	 
+latin &#252; 	FC 	ü 	&uuml; 	small u dieresis or umlaut 	 
+latin &#253; 	FD 	ý 	&yacute; 	small y acute 	 
+latin &#254; 	FE 	þ 	&thorn; 	small thorn 	 
+latin &#255; 	FF 	ÿ 	&yuml; 	small y dieresis or umlaut
+
+
+Aleph Pahlavi 	𐭠 	/a/, /ā/ 	
+Heth Pahlavi 	𐭧 	/h/, /x/ 	
+Samekh Pahlavi 	 	𐭮 	/s/, /h/
+Beth Pahlavi 	𐭡 	/b/, /w/ 	
+Teth Pahlavi 	𐭨 	/ṭ/ 	
+Pe Pahlavi 	𐭯 	/p/, /b/, /f/
+Gimel Pahlavi 	𐭢 	/g/, /y/ 	
+Yodh Pahlavi 	𐭩 	/y/, /ē̆/, /ī̆/, /ǰ/ 	
+Sadhe Pahlavi 	𐭰 	/č/, /ǰ/, /z/
+Daleth Pahlavi 	𐭣 	/d/, /y/ 	
+Kaph Pahlavi 	𐭪 	/k/, /g/ 	
+Shin Pahlavi 	𐭱 	/š/
+He Pahlavi 	𐭤 	/h/ 	
+Lamedh Pahlavi 	𐭫 	/l/, /r/ 	
+Taw Pahlavi 	𐭲 	/t/, /d/
+Waw-Ayin-Resh Pahlavi 	𐭥 	/w/, /ʿ/, /r/ 	
+Mem-Qoph Pahlavi 	𐭬 	/m/, /q/ !!
+Zayin Pahlavi 	𐭦 	/z/ 	
+Nun Pahlavi 	𐭭 	/n/ 	
+
 skin tones using the Fitzpatrick scale:[4]
 Human emoji U+ 	261D 	26F9
 emoji 	☝️ 	⛹
@@ -22082,6 +22505,9 @@ FITZ-6 	✊🏿 	✋🏿 	✌️🏿 	✍️🏿
 
 ²³ ½ ⅟ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞ half
 
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹  square ^^2 powers upper higher numbers first second third
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉  lower numbers
+⅟ ½ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞ bruch brüche fractions
 
 Ornamental Dingbats
   	0 	1 	2 	3 	4 	5 	6 	7 	8 	9 	A 	B 	C 	D 	E 	F
@@ -22091,108 +22517,282 @@ U+1F67x 	🙰 	🙱 	🙲 	🙳 	🙴 	🙵 	🙶 	🙷 	🙸 	🙹 	🙺 	🙻 
 
 ꟿ MN : Manius https://en.wiktionary.org/wiki/%EA%9F%BF
 
-KUR 𓊖𐀏𐃏𐀤 	
-
-
-𓊖 √qvr(t)²
-
-𓀠 qR(t) heigh(t)⋍great 𓈎𓄿𓏏𓀠 চওরা 𓅨 very great 𓅨𓂋𓏏 √gVrt
-𓈊 kur(t) ⋍ (high)land 𒆳 KUR 𓈉 ≠ 𓈊 山
-𓈉 kur ⋍ mountain (kur, gora, гора, gaara, ghor, har, 'ariya, 'urqu, ἄκρα, кӯҳ, koh, сан …)
-𓊎 cairn of grain 𓇤
-𓈎𓄿𓇋𓇋𓈒𓏥𓊎 grains / cairns
-𓊖 Gorod 𓊖𓏏𓏤 ⋍ city quarters 𓊖 (tall tell Teil 𓇸𓇷𓊕𓈇𓏤 town 장 ting)
-𓊖 court 거리 hoard hOrt 京 Kyo® 서울
-𓋓𓋘 crown ⲁⲛϫⲱϫ AnKuron 円𐘮~京 *KRAŊ=京 𓐍𓇳 KurRad 𐀏𐃏𐀤𓊕〇 Kreis Gyros circle 𓐍 gray grau
-𓇾 𒆳 KUR cer ter terrain territory 3 𐀳 𓇾 𓈉 ≠ 𓈊 山 三 shanze sān
-𓌨𓌨 Kerker = Karzer Kur™ ~ gaol vs
-𓌨 Kurgan | church ⋍ care, cure
-𓂓 Kar = kWerken ergon urge work ⇔ kardan कर्मन् kárman …
-𓉗𓏏𓏏𓈉 quarry / Hütte @ KUR 𓈉 church ⲉⲕⲕⲗⲏⲥⲓⲁ 𓊹 ?
-𓉗 𓊖 qvr 4 vs 𓈉 cir 3,14 𓊖
-𓊔 carne ⋍ provisions 𓂋 corn kern grain 𓇤 𓇠 𓈒𓈒𓈒 𓈒 𓌽 gerste
-𓇤 cairn 𓊎 of grain 𓊘 grainery
-𓇏 χώρα χωρίον ἀγρός Acker acre agro akura ⲕⲟⲓ scot? 𓐍𓏏𓇏𓈅 𐀏𐁀
-𓆷𓈇𓏤 𐀀𐀒𐀫𐀸 a-ko-ro-we γεώργιον georgion ⲓⲟϩⲓⲭ
-𓐍𓂋𓉐 ⛼ kurgan/grave/churche 𒆠𒈤 : tomb karner charnel
-𓊻 KurNugia carnārium netherworld necropolis 𒀭𒆠𒁴 anecearth 𓃶𓋹 curse=bury 𓊹𓌨𓂋𓈉 negro netherworld khell<>kill? 𓈎𓂋𓂋𓊡 storm (-cloud)|coort कोहरा kohrā.di grottig > cloudy 4 Kur-Winde™
-𓌨 𒆠 country, lower 𓌨, down below 𒊹 ŠAR 3600 ⋍ 𓅨 Schar ⇔ 𓐍 Gyro
-
-1000 connotations but all lead to above 4 roots connected with 𓊖
-
-𓊖 KurRad 𓋪𐀏𐃏𐀤〇𓊕 Kreis Quarter 𓊖 vs Quadrad 𒆠
-𓊖 court / grat / … ⋍ city-quarters (Belgrad...)
-𓊖 kyros ⇔ cross
-𓐍 Gyro circle graund गोल gōl gerd cord
-𓇳 SoRa jaune jAN? 𒀭
-𓇳 hoRay 𒂉 𒄭 ḪI HI ḫo High HEILIO
-
-colors colours ⚫ kara kala : black color 𓐍 𓐍 grau ≠ chrome chroma carne(skin/meat) 🍏 gouron 果 grün <> grass *range 🍎 gourd 果 red karim kirsche 果水 guǒrshui cardi coeur 💗 赤 あか aka® ocre @ acre
-🔸 'ourange 果 ⿈ 虫 chóng 紅 红 hóng vs gong 노랑 norange 〇 clear pure bei.de Hei vs Hel
-
-古 Gǔ geo ♁ gero ghier 𓄤 gvair
-丘 qiū® KUR grave Kurgan cairn Kugel 球 qiú 孔​丘 Kǒng Qiū Konquerer Konfuzi!? 秋 qiū kHerbst COURT
-區 qū® 区 Kur district country cir-3 vs qvrt-4 : 器 qì®™ Gerät gear *kʰrɯd 그릇 geureut QED jar crater gratia™
-家 jiā gear -ier
-果 guǒir 과일 gourd ⛒ guava gvruit fruit
-囚 qiú® KUR Kerker JURA
-구 GU® ⛒ Kugel (ball, balloon 𓇷𓇸) ¬soccer 축구공 golf 열 your jour jur jeu joy 球 qiú:
-求 qiú® court query <> shire 水 起 qǐ® rise/raise
-谷 gǔ® corn grain
-窟 kū® cave < cavern ~ coole 酷 kù Kuhle / HöhLe LaGer 库 kù® secure-room
-屈 qū®um krumm curved quer 曲 qǔ®va curved kurwa🎜 … choir… 苦 kǔ kummer(lich) 枯 kū karg
-器官 qì'guān=Organ <> 犬 quǎn 狗gǒun 4 Canopic jars 器
-
-거리 Gøri 𓊖 court quarters / city grid …
-고리 GORI〇 𓋪 ring 🕭🔔铃 𓋪líng 〇 = ø 0.0 <> 𓂝𓂝𓋪 Armreiƒ/Ohrring (ear-ring) 𓂝𓅱𓂝𓅱𓋪 <> rund
-구르다 GURADA roll
-
-𒆳 KUR land
-𒆠 KI kurth 𒆠𒁴 (k)earth ⇔ kerker 𓊻 netherworld qvter:terra 𓇾 𒆠 kUR/KIr 𒌵𒆠 Urkidu akkadû uruki iraq
-𒆠 (k)UR n+ur=𒈾 naur vs 𓏌 𓊖 𒊭 KAR/ša 𓊖 𒌷𒄩𒀜𒌅𒊭 Ḫattuša = HattiKar Attica
-𒊮 cœur še ŠÀ heart center
-𒃼 Gar Karum 𒈦𒄘𒃼 Tigugar=Tigris
-𒆸 *Berg / *Gebail : 𒆸 GaB 𒆸 uPQu block *PAQ 𒇇 bock (ewe) book?
-♁ Georbith Geos Geese 𓅬 Geb 𒄭 gú ka good 口 kou 𓂋 knie! Ḫi (birku/DÙG,ṭābu 𒄭⇔𒁾)
-𒄭 quadrad quad good 𒇻 goat
-𒇻 goat 𒈧 𓃶 an+kur anKett 𓋹 𒈦 goad(sporn)
-𒆪 ku, qú, tuš !!?<< trust
-𒀪 GUD Gwδ cows cattle
-𒊮 šag SHA circle
-𒄮 SÙR kill?
-𒄯 same similar 1
-𒄯 kursan slave ⇔ Kerker = Kur ⇔ court
-𒊹 šar ŠÁRA schwarz 𒈪 𒅎 šāru:wind/clay/im.
-𓈉𓈊 ⋍ land 𓌨 Kuras 𐎘𐎍𐎘 Circ 4/3 𒆳 Third Terra 𓇾
-𓉗 quarters quartier qhats hut
-𓈎 cairns 𓈎𓄿𓅱𓀠 quer grow groß … 𓋴𓂋𓃱 giraffe 𓈎 ⇔ 口 kou
-𓊎 cairns 𓈎 𓄿 𓅱 𓏘 high ground
-𓊎 Ziggurat 𓈎 𓄿 𓇋 𓇋 𓊎 cairns 𓊎@Cairo 𓈎𓄿𓅱𓀠 qaHiro ⇔ High & Hiero Highlik(e)
-𒍝 KurTa? 𓎡𓍿𓏏 : ZA 𒍝 thy zain : your/ta
-𒆸 GUR4 (KUR4) groß great 𓋴𓂋𓃱 𓈎𓄿𓅱𓀠 gir8 (kir3)
-𒋛 horn (sé=ZI,sú=ZU šu) corner keras *keron! 𒋛 𒋝
-𒌵 URI 𒌵𒆠 Urkidu => 𒌵 akkadû Akkadian (+jar 𓏌urn?) ⇔ *Urdu ⇔ 𒃻 šá city!
-𒃲 *Gur 𓅨 Gul ⇔ 𒐼 Šar ⇔ 𒆳 KÚR ⇔ 𒃼 Gar
-𒌷 Uru ⋍ 𓊖 ⋍ 𓉗 Urban 𓊋 Quarters Γ𒂅𒂆 Gammas 𒂡 KESH/KEŠ_𒆟 Kreuz! 𓋹 ancearth 𒀭𒆠𒁴 𓃶 𒍏 urud Erz (pures) քար kʿar chert kʰɑɾ(z) Quartz stone !!
-𒊬 SAR garden / scribe
-𒆸 GUR4 (KUR4) (BIG|GAP!!) 𒆼 Gar HA …
-𒆸𒆹𒆺𒆻𒆼𒆽𒆾𒆿𒇀𒇁𒇂𒇃𒇄𒇅𒇆𒇇𒇈𒇉𒇊𒇋𒇌𒇍𒇎𒇏𒇐𒇑𒇒𒇓𒇔𒇕𒇖𒇗𒇘𒇙𒇚𒇛𒇜𒇝𒇞𒇟𒇠𒇡𒇢𒇣𒇤𒇥𒇦𒇧𒇨𒇩𒇪
-
-
-
-Unicode 12.0 2019 :
-🔵 Blue Circle
-🟤 Brown Circle
-🟩 Green Square
-🟠 Orange Circle
-🟣 Purple Circle
-🔴 Red Circle
-🟡 Yellow Circle
-🟫 Brown Square
-🟩 Green Square
-🟧 Orange Square
-🟪 Purple Square
-🟥 Red Square
-🟨 Yellow Square
-
 ﷽	65021	﷽	FDFD	ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM ™  Basmala
+
+arrow   ◀━━ 
+🦠 Microbe  Microbe was approved as part of Unicode 11.0 in 2018 and added to Emoji 11.0 in 2018. file:///Users/me/dev/Unicode%20Chart.html
+
+U+0020		20	SPACE
+U+0021	!	21	EXCLAMATION MARK
+U+0022	"	22	QUOTATION MARK
+U+0023	#	23	NUMBER SIGN
+U+0024	$	24	DOLLAR SIGN
+U+0025	%	25	PERCENT SIGN
+U+0026	&	26	AMPERSAND
+U+0027	'	27	APOSTROPHE
+U+0028	(	28	LEFT PARENTHESIS
+U+0029	)	29	RIGHT PARENTHESIS
+U+002A	*	2a	ASTERISK
+U+002B	+	2b	PLUS SIGN
+U+002C	,	2c	COMMA
+U+002D	-	2d	HYPHEN-MINUS
+U+002E	.	2e	FULL STOP
+U+002F	/	2f	SOLIDUS
+U+0030	0	30	DIGIT ZERO
+U+0031	1	31	DIGIT ONE
+U+0032	2	32	DIGIT TWO
+U+0033	3	33	DIGIT THREE
+U+0034	4	34	DIGIT FOUR
+U+0035	5	35	DIGIT FIVE
+U+0036	6	36	DIGIT SIX
+U+0037	7	37	DIGIT SEVEN
+U+0038	8	38	DIGIT EIGHT
+U+0039	9	39	DIGIT NINE
+U+003A	:	3a	COLON
+U+003B	;	3b	SEMICOLON
+U+003C	<	3c	LESS-THAN SIGN
+U+003D	=	3d	EQUALS SIGN
+U+003E	>	3e	GREATER-THAN SIGN
+U+003F	?	3f	QUESTION MARK
+U+0040	@	40	COMMERCIAL AT
+U+0041	A	41	LATIN CAPITAL LETTER A
+U+0042	B	42	LATIN CAPITAL LETTER B
+U+0043	C	43	LATIN CAPITAL LETTER C
+U+0044	D	44	LATIN CAPITAL LETTER D
+U+0045	E	45	LATIN CAPITAL LETTER E
+U+0046	F	46	LATIN CAPITAL LETTER F
+U+0047	G	47	LATIN CAPITAL LETTER G
+U+0048	H	48	LATIN CAPITAL LETTER H
+U+0049	I	49	LATIN CAPITAL LETTER I
+U+004A	J	4a	LATIN CAPITAL LETTER J
+U+004B	K	4b	LATIN CAPITAL LETTER K
+U+004C	L	4c	LATIN CAPITAL LETTER L
+U+004D	M	4d	LATIN CAPITAL LETTER M
+U+004E	N	4e	LATIN CAPITAL LETTER N
+U+004F	O	4f	LATIN CAPITAL LETTER O
+U+0050	P	50	LATIN CAPITAL LETTER P
+U+0051	Q	51	LATIN CAPITAL LETTER Q
+U+0052	R	52	LATIN CAPITAL LETTER R
+U+0053	S	53	LATIN CAPITAL LETTER S
+U+0054	T	54	LATIN CAPITAL LETTER T
+U+0055	U	55	LATIN CAPITAL LETTER U
+U+0056	V	56	LATIN CAPITAL LETTER V
+U+0057	W	57	LATIN CAPITAL LETTER W
+U+0058	X	58	LATIN CAPITAL LETTER X
+U+0059	Y	59	LATIN CAPITAL LETTER Y
+U+005A	Z	5a	LATIN CAPITAL LETTER Z
+U+005B	[	5b	LEFT SQUARE BRACKET
+U+005C	\	5c	REVERSE SOLIDUS
+U+005D	]	5d	RIGHT SQUARE BRACKET
+U+005E	^	5e	CIRCUMFLEX ACCENT
+U+005F	_	5f	LOW LINE
+U+0060	`	60	GRAVE ACCENT
+U+0061	a	61	LATIN SMALL LETTER A
+U+0062	b	62	LATIN SMALL LETTER B
+U+0063	c	63	LATIN SMALL LETTER C
+U+0064	d	64	LATIN SMALL LETTER D
+U+0065	e	65	LATIN SMALL LETTER E
+U+0066	f	66	LATIN SMALL LETTER F
+U+0067	g	67	LATIN SMALL LETTER G
+U+0068	h	68	LATIN SMALL LETTER H
+U+0069	i	69	LATIN SMALL LETTER I
+U+006A	j	6a	LATIN SMALL LETTER J
+U+006B	k	6b	LATIN SMALL LETTER K
+U+006C	l	6c	LATIN SMALL LETTER L
+U+006D	m	6d	LATIN SMALL LETTER M
+U+006E	n	6e	LATIN SMALL LETTER N
+U+006F	o	6f	LATIN SMALL LETTER O
+U+0070	p	70	LATIN SMALL LETTER P
+U+0071	q	71	LATIN SMALL LETTER Q
+U+0072	r	72	LATIN SMALL LETTER R
+U+0073	s	73	LATIN SMALL LETTER S
+U+0074	t	74	LATIN SMALL LETTER T
+U+0075	u	75	LATIN SMALL LETTER U
+U+0076	v	76	LATIN SMALL LETTER V
+U+0077	w	77	LATIN SMALL LETTER W
+U+0078	x	78	LATIN SMALL LETTER X
+U+0079	y	79	LATIN SMALL LETTER Y
+U+007A	z	7a	LATIN SMALL LETTER Z
+U+007B	{	7b	LEFT CURLY BRACKET
+U+007C	|	7c	VERTICAL LINE
+U+007D	}	7d	RIGHT CURLY BRACKET
+U+007E	~	7e	TILDE
+U+007F	 	7f	<control>
+U+009F	 	c2 9f	<control>
+U+00A0	 	c2 a0	NO-BREAK SPACE
+U+00A1	¡	c2 a1	INVERTED EXCLAMATION MARK
+U+00A2	¢	c2 a2	CENT SIGN
+U+00A3	£	c2 a3	POUND SIGN
+U+00A4	¤	c2 a4	CURRENCY SIGN
+U+00A5	¥	c2 a5	YEN SIGN
+U+00A6	¦	c2 a6	BROKEN BAR
+U+00A7	§	c2 a7	SECTION SIGN
+U+00A8	¨	c2 a8	DIAERESIS
+U+00A9	©	c2 a9	COPYRIGHT SIGN
+U+00AA	ª	c2 aa	FEMININE ORDINAL INDICATOR
+U+00AB	«	c2 ab	LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+U+00AC	¬	c2 ac	NOT SIGN
+U+00AD	­	c2 ad	SOFT HYPHEN
+U+00AE	®	c2 ae	REGISTERED SIGN
+U+00AF	¯	c2 af	MACRON
+U+00B0	°	c2 b0	DEGREE SIGN
+U+00B1	±	c2 b1	PLUS-MINUS SIGN
+U+00B2	²	c2 b2	SUPERSCRIPT TWO
+U+00B3	³	c2 b3	SUPERSCRIPT THREE
+U+00B4	´	c2 b4	ACUTE ACCENT
+U+00B5	µ	c2 b5	MICRO SIGN
+U+00B6	¶	c2 b6	PILCROW SIGN
+U+00B7	·	c2 b7	MIDDLE DOT
+U+00B8	¸	c2 b8	CEDILLA
+U+00B9	¹	c2 b9	SUPERSCRIPT ONE
+U+00BA	º	c2 ba	MASCULINE ORDINAL INDICATOR
+U+00BB	»	c2 bb	RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+U+00BC	¼	c2 bc	VULGAR FRACTION ONE QUARTER
+U+00BD	½	c2 bd	VULGAR FRACTION ONE HALF
+U+00BE	¾	c2 be	VULGAR FRACTION THREE QUARTERS
+U+00BF	¿	c2 bf	INVERTED QUESTION MARK
+\u00C0	À  %c3%80	LATIN CAPITAL LETTER A WITH GRAVE
+\u00C1	Á  %c3%81	LATIN CAPITAL LETTER A WITH ACUTE
+\u00C2	Â  %c3%82	LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+\u00C3	Ã  %c3%83	LATIN CAPITAL LETTER A WITH TILDE
+\u00C4	Ä  %c3%84	LATIN CAPITAL LETTER A WITH DIAERESIS
+\u00C5	Å  %c3%85	LATIN CAPITAL LETTER A WITH RING ABOVE
+\u00C6	Æ  %c3%86	LATIN CAPITAL LETTER AE
+\u00C7	Ç  %c3%87	LATIN CAPITAL LETTER C WITH CEDILLA
+\u00C8	È  %c3%88	LATIN CAPITAL LETTER E WITH GRAVE
+\u00C9	É  %c3%89	LATIN CAPITAL LETTER E WITH ACUTE
+\u00CA	Ê  %c3%8a	LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+\u00CB	Ë  %c3%8b	LATIN CAPITAL LETTER E WITH DIAERESIS
+\u00CC	Ì  %c3%8c	LATIN CAPITAL LETTER I WITH GRAVE
+\u00CD	Í  %c3%8d	LATIN CAPITAL LETTER I WITH ACUTE
+\u00CE	Î  %c3%8e	LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+\u00CF	Ï  %c3%8f	LATIN CAPITAL LETTER I WITH DIAERESIS
+\u00D0	Ð  %c3%90	LATIN CAPITAL LETTER ETH
+\u00D1	Ñ  %c3%91	LATIN CAPITAL LETTER N WITH TILDE
+\u00D2	Ò  %c3%92	LATIN CAPITAL LETTER O WITH GRAVE
+\u00D3	Ó  %c3%93	LATIN CAPITAL LETTER O WITH ACUTE
+\u00D4	Ô  %c3%94	LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+\u00D5	Õ  %c3%95	LATIN CAPITAL LETTER O WITH TILDE
+\u00D6	Ö  %c3%96	LATIN CAPITAL LETTER O WITH DIAERESIS
+\u00D7	×  %c3%97	MULTIPLICATION SIGN
+\u00D8	Ø  %c3%98	LATIN CAPITAL LETTER O WITH STROKE
+\u00D9	Ù  %c3%99	LATIN CAPITAL LETTER U WITH GRAVE
+\u00DA	Ú  %c3%9a	LATIN CAPITAL LETTER U WITH ACUTE
+\u00DB	Û  %c3%9b	LATIN CAPITAL LETTER U WITH CIRCUMFLEX
+\u00DC	Ü  %c3%9c	LATIN CAPITAL LETTER U WITH DIAERESIS
+\u00DD	Ý  %c3%9d	LATIN CAPITAL LETTER Y WITH ACUTE
+\u00DE	Þ  %c3%9e	LATIN CAPITAL LETTER THORN
+\u00DF	ß  %c3%9f	LATIN SMALL LETTER SHARP S
+\u00E0	à  %c3%a0	LATIN SMALL LETTER A WITH GRAVE
+\u00E1	á  %c3%a1	LATIN SMALL LETTER A WITH ACUTE
+\u00E2	â  %c3%a2	LATIN SMALL LETTER A WITH CIRCUMFLEX
+\u00E3	ã  %c3%a3	LATIN SMALL LETTER A WITH TILDE
+\u00E4	ä  %c3%a4	LATIN SMALL LETTER A WITH DIAERESIS
+\u00E5	å  %c3%a5	LATIN SMALL LETTER A WITH RING ABOVE
+\u00E6	æ  %c3%a6	LATIN SMALL LETTER AE
+\u00E7	ç  %c3%a7	LATIN SMALL LETTER C WITH CEDILLA
+\u00E8	è  %c3%a8	LATIN SMALL LETTER E WITH GRAVE
+\u00E9	é  %c3%a9	LATIN SMALL LETTER E WITH ACUTE
+\u00EA	ê  %c3%aa	LATIN SMALL LETTER E WITH CIRCUMFLEX
+\u00EB	ë  %c3%ab	LATIN SMALL LETTER E WITH DIAERESIS
+\u00EC	ì  %c3%ac	LATIN SMALL LETTER I WITH GRAVE
+\u00ED	í  %c3%ad	LATIN SMALL LETTER I WITH ACUTE
+\u00EE	î  %c3%ae	LATIN SMALL LETTER I WITH CIRCUMFLEX
+\u00EF	ï  %c3%af	LATIN SMALL LETTER I WITH DIAERESIS
+\u00F0	ð  %c3%b0	LATIN SMALL LETTER ETH
+\u00F1	ñ  %c3%b1	LATIN SMALL LETTER N WITH TILDE
+\u00F2	ò  %c3%b2	LATIN SMALL LETTER O WITH GRAVE
+\u00F3	ó  %c3%b3	LATIN SMALL LETTER O WITH ACUTE
+\u00F4	ô  %c3%b4	LATIN SMALL LETTER O WITH CIRCUMFLEX
+\u00F5	õ  %c3%b5	LATIN SMALL LETTER O WITH TILDE
+\u00F6	ö  %c3%b6	LATIN SMALL LETTER O WITH DIAERESIS
+\u00F7	÷  %c3%b7	DIVISION SIGN
+\u00F8	ø  %c3%b8	LATIN SMALL LETTER O WITH STROKE
+\u00F9	ù  %c3%b9	LATIN SMALL LETTER U WITH GRAVE
+\u00FA	ú  %c3%ba	LATIN SMALL LETTER U WITH ACUTE
+\u00FB	û  %c3%bb	LATIN SMALL LETTER U WITH CIRCUMFLEX
+\u00FC	ü  %c3%bc	LATIN SMALL LETTER U WITH DIAERESIS
+\u00FD	ý  %c3%bd	LATIN SMALL LETTER Y WITH ACUTE
+\u00FE	þ  %c3%be	LATIN SMALL LETTER THORN
+\u00FF	ÿ  %c3%bf	LATIN SMALL LETTER Y WITH DIAERESIS
+
+Kar ????    ???? ????
+Flüg    ????
+Ю  IO-Piter (Yu)
+Г г 	Г г 	Ge Je
+Б Ъ  б Ѧ 
+Ҩ ҩ 	Џ џ ʑ ŋ   	Ж ж Я я
+Ҕ ҕ
+Ђ ђ  dʑaturn
+Ҝ ҝ
+Ӄ ӄ kg
+Ҟ ҟ
+Ҡ ҡ
+Љ љ
+Њ њ
+П п  P !!
+ Ҧ ҧ
+Л л El
+Ұ ұ
+Ҹ ҹ
+PФt
+Ф
+Э 
+
+Ա ա  Բ բ  Գ գ  Դ դ  Ե ե  Զ զ  Է է  Ը ը  Թ թ  Ժ ժ  Ի ի  Լ լ  Խ խ  Ծ ծ  Կ կ  Հ հ  Ձ ձ  Ղ ղ  Ճ ճ  Մ մ  Յ յ  Ն ն  Շ շ  Ո ո  Չ չ  Պ պ  Ջ ջ  Ռ ռ  Ս ս  Վ վ  Տ տ  Ր ր  Ց ց  Ւ ւ  Փ փ  Ք ք  և   Օ օ  Ֆ ֆ
+
+Σ, σ, ς
+Ϛ, ϛ (stigma
+Ϙ, ϙ
+Ξ, ξ
+
+
+0x2070	8304	SUPERSCRIPT ZERO	⁰
+0x2071	8305	SUPERSCRIPT ONE		¹ 
+0x2072	8306	SUPERSCRIPT TWO		² 
+0x2073	8307	SUPERSCRIPT THREE	³ 
+0x2074	8308	SUPERSCRIPT FOUR	⁴
+0x2075	8309	SUPERSCRIPT FIVE	⁵
+0x2076	8310	SUPERSCRIPT SIX	⁶
+0x2077	8311	SUPERSCRIPT SEVEN	⁷
+0x2078	8312	SUPERSCRIPT EIGHT	⁸
+0x2079	8313	SUPERSCRIPT NINE	⁹
+0x207A	8314	SUPERSCRIPT PLUS SIGN	⁺
+0x207B	8315	SUPERSCRIPT MINUS	⁻
+0x207C	8316	SUPERSCRIPT EQUALS SIGN	⁼
+0x207D	8317	SUPERSCRIPT LEFT PARENTHESIS	⁽
+0x207E	8318	SUPERSCRIPT RIGHT PARENTHESIS	⁾
+0x207F	8319	SUPERSCRIPT LATIN SMALL LETTER N	ⁿ
+0x2080	8320	SUBSCRIPT ZERO	₀
+0x2081	8321	SUBSCRIPT ONE	₁
+0x2082	8322	SUBSCRIPT TWO	₂
+0x2083	8323	SUBSCRIPT THREE	₃
+0x2084	8324	SUBSCRIPT FOUR	₄
+0x2085	8325	SUBSCRIPT FIVE	₅
+0x2086	8326	SUBSCRIPT SIX	₆
+0x2087	8327	SUBSCRIPT SEVEN	₇
+0x2088	8328	SUBSCRIPT EIGHT	₈
+0x2089	8329	SUBSCRIPT NINE	₉
+
+file:///Users/me/dev/Unicode%20Chart.html
+
+DIGIT <> NUMERAL <> NUMBER
+Ancient Greek Numbers[1][2]
+Official Unicode Consortium code chart (PDF)
+  	0 	1 	2 	3 	4 	5 	6 	7 	8 	9 	A 	B 	C 	D 	E 	F
+U+1014x 	𐅀 	𐅁 	𐅂 	𐅃 	𐅄 	𐅅 	𐅆 	𐅇 	𐅈 	𐅉 	𐅊 	𐅋 	𐅌 	𐅍 	𐅎 	𐅏
+U+1015x 	𐅐 	𐅑 	𐅒 	𐅓 	𐅔 	𐅕 	𐅖 	𐅗 	𐅘 	𐅙 	𐅚 	𐅛 	𐅜 	𐅝 	𐅞 	𐅟
+U+1016x 	𐅠 	𐅡 	𐅢 	𐅣 	𐅤 	𐅥 	𐅦 	𐅧 	𐅨 	𐅩 	𐅪 	𐅫 	𐅬 	𐅭 	𐅮 	𐅯
+U+1017x 	𐅰 	𐅱 	𐅲 	𐅳 	𐅴 	𐅵 	𐅶 	𐅷 	𐅸 	𐅹 	𐅺 	𐅻 	𐅼 	𐅽 	𐅾 	𐅿
+U+1018x 	𐆀 	𐆁 	𐆂 	𐆃 	𐆄 	𐆅 	𐆆 	𐆇 	𐆈 	𐆉 	𐆊 	𐆋 	𐆌 	𐆍 	𐆎 
+
+
+ᴬ 	ᴭ 	ᴮ 	ᴯ
+U+1D3x 	ᴰ 	ᴱ 	ᴲ 	ᴳ 	ᴴ 	ᴵ 	ᴶ 	ᴷ 	ᴸ 	ᴹ 	ᴺ 	ᴻ 	ᴼ 	ᴽ 	ᴾ 	ᴿ
+U+1D4x 	ᵀ 	ᵁ 	ᵂ 	ᵃ 	ᵄ 	ᵅ 	ᵆ 	ᵇ 	ᵈ 	ᵉ 	ᵊ 	ᵋ 	ᵌ 	ᵍ 	ᵎ 	ᵏ
+U+1D5x 	ᵐ 	ᵑ 	ᵒ 	ᵓ 	ᵔ 	ᵕ 	ᵖ 	ᵗ 	ᵘ 	ᵙ 	ᵚ 	ᵛ 	ᵜ 	ᵝ 	ᵞ 	ᵟ
+U+1D6x 	ᵠ 	ᵡ 	ᵢ 	ᵣ 	ᵤ 	ᵥ 	ᵦ 	ᵧ 	ᵨ 	ᵩ 	ᵪ 	ᵫ 	ᵬ 	ᵭ 	ᵮ 	ᵯ
+U+1D7x 	ᵰ 	ᵱ 	ᵲ 	ᵳ 	ᵴ 	ᵵ 	ᵶ 	ᵷ 	ᵸ 	ᵹ 	ᵺ 	ᵻ 	ᵼ 	ᵽ 	ᵾ 	ᵿ
+
+Superscript upper ᵃ 	ᵄ 	ᵅ 	ᵆ 	ᵇ 	ᵈ 	ᵉ 	ᵊ 	ᵋ 	ᵌ 	ᵍ 	ᵎ 	ᵏ ᵐ ⁿ	ᵑ 	ᵒ 	ᵓ 	ᵔ 	ᵕ 	ᵖ 	ᵗ 	ᵘ 	ᵙ 	ᵚ 	ᵛ
+

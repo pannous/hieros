@@ -1623,3 +1623,27 @@ def fi():
 	# 		curse(base,meth,getattr(hack,meth)) # TypeError: unbound method must be called with xstr instance as first argument
 	# 		curse(base,meth,lambda inst:getattr(hack,meth).bind(inst)())
 	# 		# curse(base,meth,lambda *args, **kwargs: getattr(hack,meth)(self, *args, **kwargs)
+
+
+def wasm_string(pointer):
+  nth=pointer
+  string=""
+  while nth < memory_length:
+      char = memory[nth]
+      if char == 0:
+          break
+      string += chr(char)
+      nth += 1
+  return string
+
+  
+def wasm(file='/me/dev/wasm/main42.wasm'):
+	import wasmer
+	bytes=open(file,'rb').read()
+	wasmer.Module.validate(bytes)
+	instance=wasmer.Instance(bytes)
+	view = instance.memory.uint8_view(offset=0)
+	result = instance.exports.main()
+	print(result)
+	print(wasm_string(result))
+	return result

@@ -5,24 +5,24 @@ a	Ⲁ	ⲁ	1	AlphAin	Α, α	a [a, ʔ, ʕ]
 b	Ⲃ	ⲃ	2	Bētau	Β, β	b, v [β~v] 
 c	Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s] ↔ Ⲋ	ⲋ	6	So	Ϛ, ϛ (sigma stigma)	–  σ  TH <<  σι~tai' = take
 C	Ⲅ	ⲅ	3	cGammant	Γ, γ	g [ɡ] ↔ Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s]
-d	Ⲇ	ⲇ	4	DelTa	Δ, δetra=4	d [d] ϫ Mdj
+d	Ⲇ	ⲇ	4	DelTa	Δ, δetra=4	d [d] ϫ Mdj  Ϩϩ djour!  DJ: 𓆓=ϩⲟϥ
 e	Ⲉ	ⲉ	5	fEinf	PΕin WEn ε	e [i, e][note 1] ə! dangling I+N ! zB 𓍢 ϢⲈ~cent   ↔ Ⲏ	ⲏ	8	ahĒta   𓎆 ⲘⲦⲈ~Tenµ 
 F	Ⲋ	ⲋ	6	So(Ч)	Si(x) Ϛ, ϛ (stigma)	– ЧϤ VAUW!  σ TH! σι'~take ↔ Ⲫ	ⲫ	500	Fi	Φ, φ	ph / p' [pʰ] ↔ ƒⲦ ? Ⲝ	ⲝ	60	Gsi	Ξ, ξ	ks??
 f	ЧϤ чϥ	-> phth 90
-g	Ⲍ	ⲍ	7	ϬZēbta	Ζ, ζ	z [z]  'Gji'	↔ Ⲅ	ⲅ	3	Gamma	Γ, γ	g [ɡ]  ⲌⲌ~NΓ~ng!
-[	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ
-h	Ϩ	ϩ	_	Hōri	(none)	h [h, ħ] ϩⲟⲟⲩ : hour/heuer/dhaoy/day
+g	Ⲍ	ⲍ	7	Zēbta	Ζ, ζ	z [z]  'Gji'	↔ Ⲅ	ⲅ	3	Gamma	Γ, γ	g [ɡ] Ϭ ⲌⲌ~NΓ~ng!
+G	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ '['
+h	Ϩ	ϩ	_	đHōri	(none)	h [h, ħ] ϩⲟⲟⲩ : jhourg>day ħ=TH/DH ! QED * 100 𓊪𓂧𓅱𓐍=ⲫⲁϩⲟⲩ=buttock
 K	Ϧ	ϧ _	Khay	(none)	x [x]  חה Schlaf~ ⲥϧⲏⲗⲟ, scrit~ⲥϧⲏⲧ⳼ (write)
-H	Ⲏ	ⲏ	8	hĒta	Η, η	ē / e [eː] *huηn	 Ϩϩ		Hōri:djhour!  ϢⲎⲦ = cent   N component (russian)  
+H	Ⲏ	ⲏ	8	hĒta	Η, η	ē / e [eː] *huηn	 Ϩϩ	Hōri:djhour!  ϢⲎⲦ = cent   N component (russian)  
 ;	Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ	th / t' [tʰ] circle turn
-i	Ⲓ	ⲓ	10	zaIn jYotan 	Ιj, ι	i [iː~j]  Mdj Ϫ	ϫ	ʒ
+i	Ⲓ	ⲓ	10	zaIn jYotan 	Ιj, ι	i [iː~j]  Mdj Ϫ	ϫ	ʒ Ϩ ϩ djour!
 k	Ⲕ	ⲕ	20	Kabba	Κ, κ	k [k] ↔ ϦⳈ  ϧⳉ ↔ ϙ koppa	q !
 l	Ⲗ	ⲗ	30	Lola	Λ, λ	l [l] Nil Null  ↔ Ⲣ ⲣ R 
 m	Ⲙ	ⲙ	40	Me	Μ, μ	m [m]  ↔ Ϣ SHm mSH  M component see 𐤌 = M ϫ Mdj
 n	Ⲛ	ⲛ	50	Neil	Ν, ν	n [n] nil null 
 !	Ⲝ	ⲝ	60	Gsix	Ξ, ξ	ks Xi / 'icks'  Eksi  ↔ Ϙ, ϙ koppa	q / tsh [kʲ, tʃ]
 o	Ⲟ	ⲟ	70	O	Ο, ο	o [o] Ai/Oi!
-O	Ⲱ	ⲱ	800	wŌuen	Ω, ω	ō / o [oː]
+O	Ⲱ	ⲱ	800	wŌuen	Ω, ω	ō / o [oː] Ⲱ:lOm?
 p	Ⲡ	ⲡ	80	Pi	Π, π	p [p]	*Pthe !
 f	Ч	Ϥ	90 *phth *QVar Gwar ϥϭ	'Fays' fHIS	Ϙ, ϙ (koppa)	Ч QF GV SFai ~Ϥ𓇋φ𓆑  * FHes ↔ Ϥ↔Y-PSI-lon!
 P	Ⳁ	ⳁ	900	*Pro?
@@ -33,7 +33,7 @@ S	Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s] ↔ Ⲋ	ⲋ	6	So	Ϛ, ϛ (sigma stigma)	–  
 s	Ϣ	ϣ	_	Shay	(none)	sh / š [ʃ]  ↔ ST? Stigma  ↔ Ϣ ~ W?  MoϢe ~ move! MW component see 𐤌 = M
 T	Ϯ	ϯ	_	Ti / De	ti / de [ti, de] 2?  vs Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ
 t	Ⲧ	ⲧ	300	Taw	Τ, τ	t [t]	tau
-u	Ⲩ	ⲩ	400	UEpSilon	Υ, υ	u / ouR [uː]Γʃ! 𓏌 uR! ⲩ~r  ⲩ~γ~g! <- S,𓋴,𓏏! ypsilon ⲞⲨⲰⲘ=essen Hyper Y-Silence  ϩⲟⲟⲩ : houR/heueR/dhaoy/day
+u	Ⲩ	ⲩ	400	UEpSilon	Υ, υ	u / ouRg [uː]Γʃ! 𓏌 uR! ⲩ~r  ⲩ~γ~g! <- S,𓋴,𓏏! ypsilon ⲞⲨⲰⲘ=essen Hyper ϩⲟⲟⲩ houR
 v	Ⲫ	ⲫ	500	VFi	Φ, φ	ph / p' [pʰ] Ч Vauw
 w	Ⲱ	ⲱ	800	wŌuen	Ω, ω	ō / o [oː] ↔ Ⲉ WE(n)! UAn AU UO ...  
 x	Ⲭ	ⲭ	600	xKhe	Χ, χ	kh [kʰ] kAin ¬ א ↔ Ⲝ	ⲝ (s)iXi 60
@@ -2452,7 +2452,8 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲉϧⲟⲩⲛ	 come in, enter
  ⲉϩⲣⲏⲓ 	 come upi
  ⲉϫⲉⲛ-	 come upon, comeup upon, reach
- ϩⲓⲫⲁϩⲟⲩ 	 come after, goback
+ ϩⲓⲫⲁϩⲟⲩ 	 come after, goback ⲫⲁϩⲟⲩ~back <> buttock
+ⲫⲁϩⲟⲩ 	back/buttock 𓊪𓂧𓅱𓐍 +++++
 ϫⲓⲛⲓ	 m. coming
  ⲉⲃⲟⲗ 	 m. coming forth
 ⲓⲁ 	 	m. valley, ravine
@@ -4418,8 +4419,8 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ϧⲉⲛ- 	 awake from
  ⲉⲃⲟⲗ ϧⲉⲛ- 	 be scaredfrom
  ϧⲁϫⲉⲛ- 	 be scared by, at
- ⲉⲃⲟⲗ 	 be scared away; trscare away
- ⲉⲫⲁϩⲟⲩ 	 be scared backm. fight
+ ⲉⲃⲟⲗ 	 be scared away; tr scare away
+ ⲉⲫⲁϩⲟⲩ 	 be scared back; m. fight
 ⲛⲁϣⲡⲏⲣⲓ ⳼ ⲛⲁϣⲡ ⲡⲏⲣⲓ 	 m. scare-quail, scarecrow
 ⲛⲟⲩϥⲓ ↔ (q) ⲛⲟϥⲉⲣ 	 good
 ⲛⲟⲩϥⲧ ↔ ⲛⲟⲩⲧϥ 	 to loosen
@@ -7192,7 +7193,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲫⲁϧⲧ	 ↔ vwqt 
 ⲫⲁϧⲧ⳼ ↔ ⲫⲱqⲧ 	 to bend
 ⲫⲁϧⲧ (q) ↔ ⲫⲱqⲧ 	 to be bent
-ⲫⲁϩⲟⲩ 	 	m. buttocks, hinder part,back
+ⲫⲁϩⲟⲩ 	 	m. buttocks, hinder part, back, behind;  ⲫⲁϩⲟⲩ=𓊪𓂧𓅱𓐍=buttock +++
  	 adj. hinder, past
 ⲉⲫⲁϩⲟⲩ 	 prep. to back, backwardv
 ⲥⲁⲫⲁϩⲟⲩ 	 prep. behind, after
