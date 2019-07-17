@@ -1,3 +1,6 @@
+Ⲁ Ⲃ Ⲥ Ⲇ Ⲉ Ⲋ Ⲅ Ϩ Ϫ Ⲓ Ϧ Ⲗ Ⲙ Ⲛ Ⲟ Ⲡ Ϥ ⳁ Ϭ Ϯ Ⲩ Ⲫ Ⲱ Ⲝ Ⲯ Ⳉ Ⲑ Ϣ Ⲋ Ⲝ
+ⲁ ⲃ ⲥ ⲇ ⲉ ⲋ ⲅ ϩ ϫ ⲓ ϧ ⲗ ⲙ ⲛ ⲟ ⲡ ϥ ⳁ ϭ ϯ ⲩ ⲫ ⲱ ⲝ ⲯ ⳉ ⲑ ϣ ⲋ ⲝ
+
 Majuscule	Minuscule	Numeric value	Name	Greek equivalent	Translit. (IPA)
 a	Ⲁ	ⲁ	1	AlphAin	Α, α	a [a, ʔ, ʕ]
 b	Ⲃ	ⲃ	2	Bētau	Β, β	b, v [β~v] 
@@ -5,8 +8,8 @@ c	Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s] ↔ Ⲋ	ⲋ	6	So	Ϛ, ϛ (sigma stigma)	–  
 C	Ⲅ	ⲅ	3	cGammant	Γ, γ	g [ɡ] ↔ Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s]
 d	Ⲇ	ⲇ	4	DelTa	Δ, δetra=4	d [d] 
 e	Ⲉ	ⲉ	5	fEinf	PΕin WEn ε	e [i, e][note 1] ə! dangling I+N ! zB 𓍢 ϢⲈ~cent   ↔ Ⲏ	ⲏ	8	ahĒta   𓎆 ⲘⲦⲈ~Tenµ 
-F	Ⲋ	ⲋ	6	So(Ч)	Si(x) Ϛ, ϛ (stigma)	– ЧϤ VAUW!  σ TH! σι'~take ↔ Ⲫ	ⲫ	500	Fi	Φ, φ	ph / p' [pʰ] ↔ ƒⲦ ? Ⲝ	ⲝ	60	Gsi	Ξ, ξ	ks??
-f	ЧϤ чϥ	-> phth 90
+ƒ	Ⲋ	ⲋ	6	So(Ч)	Si(x) Ϛ, ϛ (stigma)	– ƒTH vs QV: ЧϤϥϭ	Fai/Fays 𓆑	phyton VAUW!  σ ƒTH!  Ⲫ	ⲫ	500	Fi
+𐌵	Ϥ	ϥ	_	Fai/qFays	 Ч, q, f, 𓆑		phyton	Ϥ~𐌵=QV	QAIRTHRA 𐀏𐃏𐀤𓊖
 g	Ⲍ	ⲍ	7	ϬZēbta	Ζ, ζ	z [z]  'Gji'	↔ Ⲅ	ⲅ	3	Gamma	Γ, γ	g [ɡ]  ⲌⲌ~NΓ~ng!
 [	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ
 h	Ϩ	ϩ	_	Hōri	(none)	h [h, ħ] ϩⲟⲟⲩ : hour/heuer/dhaoy/day
@@ -22,15 +25,16 @@ n	Ⲛ	ⲛ	50	Neil	Ν, ν	n [n] nil null
 o	Ⲟ	ⲟ	70	O	Ο, ο	o [o] Ai/Oi!
 O	Ⲱ	ⲱ	800	wŌuen	Ω, ω	ō / o [oː]
 p	Ⲡ	ⲡ	80	Pi	Π, π	p [p]	*Pthe !  Ⲡ-ⲣⲣⲟ Pharao = The-King Phte ROY!
-f	Ч	Ϥ	90 *phth *QVar Gwar ϥϭ	'Fays' fHIS	Ϙ, ϙ (koppa)	Ч QF GV SFai ~Ϥ𓇋φ𓆑  * FHes ↔ Ϥ↔Y-PSI-lon!
+𐌵	Ч	Ϥ чϥ	-> phth 90	Ϥ~𐌵=QV	QAIRTHRA 𐀏𐃏𐀤𓊖
+q	Ч	Ϥ	90 *phth Ϥ~𐌵=QV QED ϥϭ	'Fays' fHIS	Ϙ, ϙ (koppa)	Ч QF GV SFai ~Ϥ𓇋φ𓆑  * FHes ↔ Ϥ↔Y-PSI-lon!
 P	Ⳁ	ⳁ	900	*Pro?
 Q	Ϙ	ϙ _	koppa	q / tsh [kʲ, tʃ] קצ Ⲝ	ⲝ	60	QGsi
 r	Ⲣ	ⲣ	100	Rhoun'dert	Ρ, ρ	r [r] PRO! 𓍢 rwhoundret dreh wind round +++
 σ	Ϭ	ϭ	_	tShēma	ט ↔ G Gamma/Summa σ
-S	Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s] ↔ Ⲋ	ⲋ	6	So	Ϛ, ϛ (sigma stigma)	–  σ  TH <<  σι~tai' = take
+S	Ⲥ	ⲥ	200	Si'ma	Σ, σ, ς	s [s] ↔ Ⲋ	ⲋ	6	So	Ϛ, ϛ (sigma stigma)	–  σ  TH <<  σι~tai' = take
 s	Ϣ	ϣ	_	Shay	(none)	sh / š [ʃ]  ↔ ST? Stigma  ↔ Ϣ ~ W?  MoϢe ~ move! MW component see 𐤌 = M
-T	Ϯ	ϯ	_	Ti / De	ti / de [ti, de] 2?  vs Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ
-t	Ⲧ	ⲧ	300	Taw	Τ, τ	t [t]	tau
+t	Ϯ	ϯ	_	Ti / De	ti / de [ti, de] 2?  vs Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ
+T	Ⲧ	ⲧ	300	Taw	Τ, τ	t [t]	tau
 u	Ⲩ	ⲩ	400	UEpSilon	Υ, υ	u / ouR [uː]Γʃ! 𓏌 uR! ⲩ~r  ⲩ~γ~g! <- S,𓋴,𓏏! ypsilon ⲞⲨⲰⲘ=essen Hyper Y-Silence  ϩⲟⲟⲩ : houR/heueR/dhaoy/day
 v	Ⲫ	ⲫ	500	VFi	Φ, φ	ph / p' [pʰ] Ч Vauw
 w	Ⲱ	ⲱ	800	wŌuen	Ω, ω	ō / o [oː] ↔ Ⲉ WE(n)! UAn AU UO ...  
@@ -38,6 +42,7 @@ x	Ⲭ	ⲭ	600	xKhe	Χ, χ	kh [kʰ] kAin ¬ א ↔ Ⲝ	ⲝ (s)iXi 60
 ψ	Ⲯ	ⲯ	700	yPsi	Ψ, ψ	psi ↔ Υ YpSilence Epsilon	
 z	Ϣ	ⲱ	800	zhŌuez?	Ω, ω	ō / o [oː] ß SS SCH SWAmp 𓆷  𐦓 Letter 'SvA' ש  ↔ Ϣ	ϣ		Shay
 P	Ⳁ	ⳁ	900 pZet?
+t	Ϯ	ϯ	1000?	Ti / De	ti / de [ti, de] 2?  vs Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ
 
 j	Ϫ	ϫ	ʒ Janjan 'jI'	(none)	j / dzh [dʒ]	!	vs Ⲑ	ⲑ	9	Thēta  Ϭ
 |	Ⳉ	ⳉ	_	Xai	(none)	x [x]  חה xai is Ⳉ ⳉ in Akhmimic and Ⳋ ⳋ in Bohairic, both for a velar fricative /x/ ~ Ϣ
@@ -45,7 +50,7 @@ S	Ϣ	ϣ		Shay	(none)	sh / š [ʃ]  ↔ ST? Stigma  ↔ Ϣ ~ W?  MoϢe ~ move! MW
 Z	Ⳉ	ⳉ	[note 3]		Khay	(none)	x [x]  חה
 Ḫ	Ϧ	ϧ	[note 3]		Khay	(none)	x [x]  חה
 ḫ	Ϩ	ϩ	Hōri	(none)	h [h, ħ] ϩⲟⲟⲩ : hour/heuer/dhaoy/day ch,zh,th ? <<
-G	Ϭ	ϭ		Tshēma	ט ↔ Gamma!!
+G	Ϭ	ϭ		Tshēma	shamas ט ↔ Gamma!!
 ]	Ϯ	ϯ		Ti / De	(none)	ti / de [ti, de][note 5] 2?
 ,	Ⲭ	ⲭ	600	xKhe	Χ, χ	kh [kʰ] kAin ¬ א ↔ Ⲝ	ⲝ (s)iXi 60
 /	Ⲏ	ⲏ	8	
@@ -53,3 +58,4 @@ y	Ⲑ	ⲑ
 =	⳼	⳼
 '	Ⲯ	ⲯ
 q	Ϧ	ϧ	khai chei C x ↔ dh
+ƒ Ⲋ	ⲋ σ ƒTH!  ↔ Ⲫ	ⲫ	500	Fi	Φ, φ	ph / p' [pʰ] ↔ ƒⲦ ? Ⲝ	ⲝ	60	Gsi	Ξ, ξ	ks??
