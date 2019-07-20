@@ -1,6 +1,6 @@
 𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓈙𓏏𓏌𓅱𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃 𓀁𓀀𓂻𓏛
 
-↔ 𓊾 ſϝƒ ϛ δ ð đ ɗ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ţ ʃ=š ɟ ι ɽ ṛ ɹ~ꜣ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḫ ħ ḩ ɦ ꜣ ḏ ṯ š ð þ ϋ υ  ſ=<meta>f+s  Þþ pthorn?
+↔ ɠ 𓊾 ſϝƒ ϛ δ ð đ ɗ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ţ ʃ=š ɟ ι ɽ ṛ ɹ~ꜣ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḫ ħ ḩ ɦ ꜣ ḏ ṯ š ð þ ϋ υ  ſ=<meta>f+s  Þþ pthorn?
 
 
 α βv γΓ δסτ ηε ηfζ Γγרלλע  ηחθ ι υ  κ  λ μ  νυuvη ωοπ πφρ ξρ Γρ σςύώ τπυσ  υ υ ω χ  υעy τζז	 ψש 
@@ -58,7 +58,7 @@ Extra:
 G1	   	𓄿 ﻝﺍ(V )Air,flyer!,vol𓄛,al'phαir,fair,Voir,oi,Whai,Wa,Aar,aa,ahr,er G1air 𓄿𓎛FL!
 G1	   	𓄿 ὄρνεον air.niǎo voile vol voigt voire! vieil 𓄿鸟 -> 𓅃 gnosium != gymnackt ;) nacht!  歹 dǎi.mon 𓐍
 D28		𓂓	KA Kan / 𓂓𓂸𓃒	 	:D28    𓂓KAN/BAN/VAN王 MAN馬
-I10    	𓆓	ⲊSiGma->STiGma!ϛ,SnG:schlange G~DjϪ,Zisch,tsh,je,S,ß,sch(t/l)vs 𓋴SßΓʃ   𓆓 vs Sφ 𓆑  ןነ𐤍נ nūn 
+I10    	𓆓	 DJQZSL ⲊSiGma->STiGma!ϛ,SnG:schlange G~DjϪ,Zisch,tsh,je,S,ß,sch(t/l)vs 𓋴SßΓʃ   𓆓 vs Sφ 𓆑  ןነ𐤍נ nūn 
 G17    	𓅓	Musen!𒈪=𓐍mnoon! 猫头 مرغان murghan 𓅓𓐍 new-moon name? nMWo Ⲙⲙ (ñowl 鸟niǎo.wū乌) 𓅖who™++ 𓐍		:G17    𓅓  MNacht 
 UWHUlr 𓐍 µWŪ Mär马|𓅓乌! 巫 Voodoo μoi NaghOWln 阴 yin gyn  MA? ما=𒀀 Moi!  猫头鹰 māotóuyīng <> Mushien
 G17    	𓅓	BiR (bird) ƥr,pr,vr,ver,for,pre		:G17    𓅓  ὄρνεον air.NIǍOwl 𓄿鸟 -> 𓄿𓅓 [be]greifer™ night noir know gnost owl ghoon ghoul
@@ -206,7 +206,7 @@ A6	𓀆 pur 𓀆  A6A 𓀇 petrify?
 A7  𓀉  sit:lag=>less, flach! 𓃀𓅡𓄿𓎼𓀉
 A8	𓀊 swear pappen-Homers  𓀊 
 A9	𓀋 TRA'N(S)PORT   𓀋
-A9	duck douq 𓀋𓆱 ?
+A9	𓀋𓆱 duck douq !! qed²
 A9	𓀋 COVER 𓀋 @I18n? here? Kaffer <> 𓀄 ?
 A9	𓀋 Kader/Kauder/kARTer 𓀋 <> art,craft,cater,carry 𓂓𓄿𓏏
 A12 𓀎 bowatang?
@@ -549,7 +549,9 @@ M1	𓆭 JUniper:ya`owr,yew,jew-tree,Ashur 𓂝𓈙𓐎 aspen Esche ʻēṣ,ʻi�
 M1	𓆭 junIPER->conifer fir <> arbra <> hebrew : jewbrw𓆭𓅓𓅱𓉐 tent  <> 𓆱 ACHt,eight 8 Äste 木* MU meshu 术 𓄠𓄟 wood=mote@Portu
 M1	𓆭 arab abraham=wood-home=tent <> ibrahim <> hebrew  JU:jewel,YAmnt: diamant/charmant!
 M2	𓆰 Hanf/𓎛𓆰𓈖/hemphy/NatHurb Herbaum  𓆰𓆭 	nat.šar nat.iua 𓆶 nat.ive!	𒊬 shrubs Henna holy Henbane nightshade!
-M3	𓆱 grät? √cut!?! (br)an.Che' ACHt,eight 8 Äste Ast [often silent!] << 𓆱 杈 chà 支 zhī 叉枝 chāzhī Gabel! Twig:Zweig II fork:furch  <??> 
+M3	𓆱 doug! Twig:stock:stick:Zweig QED² 1.duck 2.sanduq
+M3	𓆱 R  horn 𓎛𓆱𓈖 𓊨𓏏𓆱 stair ~ chair ⇔ стул ⇔ Stuhl 𓎙𓏤𓆱 spool/reel  𓎛𓆰𓈖𓈖𓆱 Hammer
+M3	𓆱 grät? √cut!?! (br)an.Che' ACHt,eight 8 Äste Ast [often silent!] << 𓆱 杈 chà 支 zhī 叉枝 chāzhī Gabel!  II fork:furch  <??> 
 M4	𓆳 Ja,IA=Mon'd Jahr   𓆳  Jahre 𓆵  Jahrtit/Tia? 𓆴 tIUte 𓆶 IUphit 𓆶 ♃ YOUth 𓆶  => eve  M5 M5B 𓆴 M6 
 M4	𓇋𓆵𓇳 itYeaRaSun (iteration) 𓆵 +++ Nil/nir/nor𓈖𓂋neuer  ++++++  chrono𓂋𓇋𓆵𓇳citera
 M5  𓆶𓆴 ال وقت ouaqpt.ma = ePoche / Woche TIME QED  𓂋𓈖𓊪𓏏:greens,young,fresh:khubdarخضار  ♃IUphit   <> sym.ptom
@@ -869,6 +871,7 @@ T31	𓌫 Scher : maχera: μάχαιρα Machete
 T32	(s)cut=escort/scout  𓌬  marSchier  𓆷𓄿𓊃𓂻  mesziah@AR   𓈝𓅓𓏏𓂻 masha@HE mashi@PER nazuha@_
 T34 𓌰!⚫NG@AR/EN! INK messING n-k=sleep𓇰@AR/EN!   <>⚫KM/HM Himmel khem Kiemen qpneu@greek:𓏏𓊪𓂋 
 T34 𓌰! #NM[k]/mn/unk-MESS!  n-m=sleep@AR نوم noum  IMN/ 𓈖𓌰𓅓 nmessing Himmel:Luft:noon hama:dark 
+T34 𓌰 knive𓐍𓈖𓌰/𓌰𓅓𓋴 Messer / Machete
 T35	𓌱 knarzen genesen 𓐍𓈖𓌰𓅓𓂉 ! 𓂊
 
 U Utensil util
