@@ -6693,7 +6693,7 @@ Position	Decimal	Name	Appearance
 0x263D	9789	FIRST QUARTER MOON	☽
 0x263E	9790	LAST QUARTER MOON	☾
 Black moon Lilith 	⚸  Neuter ⚲ ⚳ ⚴ ⚵ ⚶
-0x263F	9791	MERCURY HERMES	☿
+0x263F	9791	MERCURY HERMES	☿ MERKUR
 0x2640	9792	FEMALE VENUS SIGN	♀	≠ ⚸ 💧♀
 0x2641	9793	EARTH	GAIA ♁
 0x2642	9794	MALE MARS SIGN	♂
