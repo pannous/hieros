@@ -1,0 +1,180 @@
+Code 	Canonical name 	Family 	Scripts 	Other names 	Sort? 	Diacr?
+aa 	Afar 	Cushitic 	Latin 	Qafar 		
+ab 	Abkhaz 	Abkhaz-Abaza 	Cyril, Georgian, Latin 	Abkhazian, Abxazo 		Yes
+ae 	Avestan 	Central Iranian 	Avst, Gujr 	Zend, Old Bactrian 		
+af 	Afrikaans 	West Germanic 	Latin, Arab 		Yes 	
+ak 	Akan 	Kwa 	Latin 	Twi-Fante, Twi, Fante, Fanti, Asante, Akuapem 		
+am 	Amharic 	Ethiopian Semitic 	Ethi 			
+an 	Aragonese 	West Iberian 	Latin 			
+ar 	Arabic 	Arabic 	Arab, Brai 	Modern Standard Arabic, Standard Arabic, Literary Arabic, Classical Arabic 		Yes
+as 	Assamese 	Indo-Aryan 	as-Beng 	Asamiya 		
+av 	Avar 	Northeast Caucasian 	Cyril 	Avaric 		Yes
+ay 	Aymara 	Aymaran 	Latin 	Southern Aymara, Central Aymara 		
+az 	Azerbaijani 	Oghuz 	Latin, Cyril, fa-Arab 	Azeri, Azari, Azeri Turkic, Azerbaijani Turkic, North Azerbaijani, South Azerbaijani, Afshar, Afshari, Afshar Azerbaijani, Afchar, Qashqa'i, Qashqai, Kashkay, Sonqor 		
+ba 	Bashkir 	Kipchak 	Cyril 			
+be 	Belarusian 	East Slavic 	Cyril 	Belorussian, Belarusan, Bielorussian, Byelorussian, Belarussian, White Russian 	Yes 	Yes
+bg 	Bulgarian 	South Slavic 	Cyril 			Yes
+bh 	Bihari 	Indo-Aryan 	Deva 			
+bi 	Bislama 	creole or pidgin 	Latin 			
+bm 	Bambara 	Manding 	Latin 	Bamanankan 		
+bn 	Bengali 	Indo-Aryan 	Beng, Newa 	Bangla 		
+bo 	Tibetan 	Tibeto-Burman 	Tibet 	Ü, Dbus, Lhasa, Lhasa Tibetan, Amdo Tibetan, Amdo, Panang, Khams, Khams Tibetan, Khamba, Tseku, Dolpo, Humla, Limi, Lhomi, Shing Saapa, Mugom, Mugu, Nubri, Walungge, Gola, Thudam, Lowa, Loke, Mustang, Tichurong 		
+br 	Breton 	Brythonic 	Latin 			
+ca 	Catalan 	Romance 	Latin 	Valencian 	Yes 	
+ce 	Chechen 	Nakh 	Cyril 			Yes
+ch 	Chamorro 	Sunda-Sulawesi 	Latin 	Chamoru 		
+co 	Corsican 	Italo-Dalmatian 	Latin 	Corsu 		
+cr 	Cree 	Algonquian 	Cans, Latin 			
+cs 	Czech 	West Slavic 	Latin 		Yes 	
+cu 	Old Church Slavonic 	South Slavic 	Cyrs, Glag 	Old Church Slavic 	Yes 	Yes
+cv 	Chuvash 	Oghur 	Cyril 			
+cy 	Welsh 	Brythonic 	Latin 		Yes 	
+da 	Danish 	North Germanic 	Latin 			
+de 	German 	West Germanic 	Latin, Latf 	High German, New High German, Deutsch 	Yes 	
+dv 	Dhivehi 	Indo-Aryan 	Thaana 	Divehi, Mahal, Mahl, Maldivian 		
+dz 	Dzongkha 	Tibeto-Burman 	Tibet 			
+ee 	Ewe 	Gbe 	Latin 			
+el 	Greek 	Hellenic 	Grek, Braille 	Modern Greek, Neo-Hellenic 	Yes 	
+en 	English 	West Germanic 	Latin, Brai, Shaw, Dsrt 	Modern English, New English, Hawaiian Creole English, Hawai'ian Creole English, Hawaiian Creole, Hawai'ian Creole, Polari, Yinglish 	Yes 	
+eo 	Esperanto 	constructed 	Latin 		Yes 	
+es 	Spanish 	West Iberian 	Latin, Braille 	Castilian, Amazonian Spanish, Amazonic Spanish, Loreto-Ucayali Spanish 	Yes 	
+et 	Estonian 	Finnic 	Latin 			
+eu 	Basque 	Vasconic 	Latin 	Euskara 		
+fa 	Persian 	Southwestern Iranian 	fa-Arab 	Farsi, New Persian, Modern Persian, Western Persian, Iranian Persian, Eastern Persian, Dari, Aimaq, Aimak, Aymaq, Eimak 		Yes
+ff 	Fula 	Senegambian 	Latin, Adlm 	Adamawa Fulfulde, Bagirmi Fulfulde, Borgu Fulfulde, Central-Eastern Niger Fulfulde, Fulani, Fulfulde, Maasina Fulfulde, Nigerian Fulfulde, Pular, Pulaar, Western Niger Fulfulde 		
+fi 	Finnish 	Finnic 	Latin 	Suomi, Botnian 	Yes 	Yes
+fj 	Fijian 	Central-Eastern Oceanic 	Latin 			
+fo 	Faroese 	North Germanic 	Latin 			
+fr 	French 	Oïl 	Latin, Braille 	Modern French 	Yes 	
+fy 	West Frisian 	Frisian 	Latin 	Western Frisian, Frisian 	Yes 	
+ga 	Irish 	Goidelic 	Latin 	Irish Gaelic 	Yes 	
+gd 	Scottish Gaelic 	Goidelic 	Latin 	Gàidhlig, Highland Gaelic, Scots Gaelic, Scottish 	Yes 	
+gl 	Galician 	West Iberian 	Latin 		Yes 	
+gn 	Guaraní 	Tupi-Guarani 	Latin 			
+gu 	Gujarati 	Indo-Aryan 	Gujr 			
+gv 	Manx 	Goidelic 	Latin 	Manx Gaelic 	Yes 	
+ha 	Hausa 	West Chadic 	Latin, Arab 		Yes 	Yes
+he 	Hebrew 	Canaanite 	Hebr, Phnx, Braille 	Ivrit 		Yes
+hi 	Hindi 	Indo-Aryan 	Deva, Kthi, Newa 	Hindavi, Khariboli, Khari Boli, Manak Hindi 		
+ho 	Hiri Motu 	creole or pidgin 	Latin 	Pidgin Motu, Police Motu 		
+ht 	Haitian Creole 	creole or pidgin 	Latin 	Creole, Haitian, Kreyòl 		
+hu 	Hungarian 	Ugric 	Latin, Hung 	Magyar 	Yes 	
+hy 	Armenian 	Armenian 	Armn, Braille 	Modern Armenian, Eastern Armenian, Western Armenian 	Yes 	Yes
+hz 	Herero 	Bantu 	Latin 			
+ia 	Interlingua 	constructed 	Latin 			
+id 	Indonesian 	Malayic 	Latin 			
+ie 	Interlingue 	constructed 	Latin 	Occidental 		
+ig 	Igbo 	Benue-Congo 	Latin 			
+ii 	Sichuan Yi 	Loloish 	Yiii 	Nuosu, Nosu, Northern Yi, Liangshan Yi 		
+ik 	Inupiak 	Inuit 	Latin 	Inupiaq, Iñupiaq, Inupiatun 		
+io 	Ido 	constructed 	Latin 			
+is 	Icelandic 	North Germanic 	Latin 			
+it 	Italian 	Italo-Dalmatian 	Latin 		Yes 	
+iu 	Inuktitut 	Inuit 	Cans, Latin 	Eastern Canadian Inuktitut, Eastern Canadian Inuit, Western Canadian Inuktitut, Western Canadian Inuit, Western Canadian Inuktun, Inuinnaq, Inuinnaqtun, Inuvialuk, Inuvialuktun, Nunavimmiutit, Nunatsiavummiut, Aivilimmiut, Natsilingmiut, Kivallirmiut, Siglit, Siglitun 		
+ja 	Japanese 	Japonic 	Jpan, Braille 	Modern Japanese, Nipponese, Nihongo 		
+jv 	Javanese 	Sunda-Sulawesi 	Latin, Java 			
+ka 	Georgian 	Georgian-Zan 	Georgian, Geok, Hebr 	Kartvelian, Judeo-Georgian, Kivruli, Gruzinic 		Yes
+kg 	Kongo 	Bantu 	Latin 	Kikongo, Koongo, Laari, San Salvador Kongo, Yombe 		
+ki 	Kikuyu 	Bantu 	Latin 	Gikuyu, Gĩkũyũ 		
+kj 	Kwanyama 	Bantu 	Latin 	Kuanyama, Oshikwanyama 		
+kk 	Kazakh 	Kipchak 	Cyril, Latin, kk-Arab 			
+kl 	Greenlandic 	Inuit 	Latin 	Kalaallisut 		
+km 	Khmer 	Mon-Khmer 	Khmr 	Cambodian 		
+kn 	Kannada 	Dravidian 	Knda 			
+ko 	Korean 	Korean 	Kore, Braille 	Modern Korean 		
+kr 	Kanuri 	Saharan 	Latin, Arab 	Kanembu, Bilma Kanuri, Central Kanuri, Manga Kanuri, Tumari Kanuri 	Yes 	Yes
+ks 	Kashmiri 	Dardic 	ks-Arab, Deva, Shrd, Latin 	Koshur 		
+ku 	Kurdish 	Northwestern Iranian 	Latin, ku-Arab, Armn, Cyril 			
+kw 	Cornish 	Brythonic 	Latin 			
+ky 	Kyrgyz 	Kipchak 	Cyril, Latin, Arab 	Kirghiz, Kirgiz 		
+la 	Latin 	Italic 	Latin 			Yes
+lb 	Luxembourgish 	West Germanic 	Latin 			
+lg 	Luganda 	Bantu 	Latin 	Ganda, Oluganda 	Yes 	Yes
+li 	Limburgish 	West Germanic 	Latin 	Limburgan, Limburgian, Limburgic 		
+ln 	Lingala 	Bantu 	Latin 	Ngala 		
+lo 	Lao 	Southwestern Tai 	Laoo 	Laotian 	Yes 	
+lt 	Lithuanian 	Baltic 	Latin 			Yes
+lu 	Luba-Katanga 	Bantu 	Latin 			
+lv 	Latvian 	Baltic 	Latin 	Lettish, Lett 		Yes
+mg 	Malagasy 	East Barito 	Latin 	Betsimisaraka Malagasy, Betsimisaraka, Northern Betsimisaraka Malagasy, Northern Betsimisaraka, Southern Betsimisaraka Malagasy, Southern Betsimisaraka, Bara Malagasy, Bara, Masikoro Malagasy, Masikoro, Antankarana, Antankarana Malagasy, Plateau Malagasy, Sakalava, Tandroy Malagasy, Tandroy, Tanosy, Tanosy Malagasy, Tesaka, Tsimihety, Tsimihety Malagasy, Bushi, Shibushi, Kibushi 		
+mh 	Marshallese 	Micronesian 	Latin 		Yes 	
+mi 	Maori 	Eastern Polynesian 	Latin 	Māori 		
+mk 	Macedonian 	South Slavic 	Cyril 			Yes
+ml 	Malayalam 	Dravidian 	Mlym 			
+mn 	Mongolian 	Mongolic 	Cyril, Mong, Soyo, Zanb 	Khalkha Mongolian 		
+mr 	Marathi 	Indo-Aryan 	Deva, Modi 			
+ms 	Malay 	Malayic 	Latin, ms-Arab 	Malaysian, Standard Malay 		
+mt 	Maltese 	Arabic 	Latin 			
+my 	Burmese 	Burmish 	Mymr 	Myanmar 		
+na 	Nauruan 	Micronesian 	Latin 	Nauru 		
+nb 	Norwegian Bokmål 	North Germanic 	Latin 	Bokmål 		
+nd 	Northern Ndebele 	Nguni 	Latin 	North Ndebele 		Yes
+ne 	Nepali 	Pahari 	Deva, Newa 	Nepalese 		
+ng 	Ndonga 	Bantu 	Latin 			
+nl 	Dutch 	West Germanic 	Latin 	Netherlandic, Flemish 	Yes 	
+nn 	Norwegian Nynorsk 	North Germanic 	Latin 	New Norwegian, Nynorsk 		
+no 	Norwegian 	North Germanic 	Latin 			
+nr 	Southern Ndebele 	Nguni 	Latin 	South Ndebele 		Yes
+nv 	Navajo 	Apachean 	nv-Latin 	Navaho, Diné bizaad 	Yes 	
+ny 	Chichewa 	Bantu 	Latin 	Chicheŵa, Chinyanja, Nyanja, Chewa, Cicewa, Cewa, Cinyanja 	Yes 	Yes
+oc 	Occitan 	Romance 	Latin, Hebr 	Provençal, Auvergnat, Auvernhat, Gascon, Languedocien, Lengadocian, Shuadit, Chouhadite, Chouhadit, Chouadite, Chouadit, Shuhadit, Judeo-Provençal, Judeo-Provencal, Judeo-Comtadin 	Yes 	
+oj 	Ojibwe 	Algonquian 	Cans, Latin 	Chippewa, Ojibway, Ojibwemowin, Southwestern Ojibwa 		
+om 	Oromo 	Cushitic 	Latin, Ethi 	Orma, Borana-Arsi-Guji Oromo, West Central Oromo 		
+or 	Oriya 	Indo-Aryan 	Orya 	Odia, Oorya 		
+os 	Ossetian 	Scythian 	Cyril, Georgian, Latin 	Ossete, Ossetic, Digor, Iron 		Yes
+pa 	Punjabi 	Indo-Aryan 	Guru, pa-Arab 	Panjabi 		Yes
+pi 	Pali 	Old Indo-Aryan 	Latin, Brah, Deva, Beng, Sinh, Mymr, Thai, Lana, Laoo, Khmr 		Yes 	Yes
+pl 	Polish 	Lechitic 	Latin 		Yes 	
+ps 	Pashto 	Pathan 	ps-Arab 	Pashtun, Pushto, Pashtu, Central Pashto, Northern Pashto, Southern Pashto, Pukhto, Pakhto, Pakkhto, Afghani 		
+pt 	Portuguese 	West Iberian 	Latin, Braille 	Modern Portuguese 	Yes 	
+qu 	Quechua 	Quechuan 	Latin 			
+rm 	Romansch 	Rhaeto-Romance 	Latin 	Romansh, Rumantsch, Romanche 		
+ro 	Romanian 	Eastern Romance 	Latin, Cyril 	Daco-Romanian, Roumanian, Rumanian 	Yes 	
+ru 	Russian 	East Slavic 	Cyril, Braille 		Yes 	Yes
+rw 	Rwanda-Rundi 	Bantu 	Latin 	Rwanda, Kinyarwanda, Rundi, Kirundi, Ha, Giha, Hangaza, Vinza, Shubi, Subi 		
+sa 	Sanskrit 	Old Indo-Aryan 	Deva, Bali, as-Beng, Beng, Bhks, Brah, Gran, Gujr, Guru, Java, Khar, Khmr, Knda, Lana, Laoo, Mlym, Mymr, Newa, Orya, Saur, Shrd, Sidd, Sinh, Taml, Telu, Thai, Tibt, Tirh 		Yes 	Yes
+sc 	Sardinian 	Romance 	Latin 	Campidanese, Campidanese Sardinian, Logudorese, Logudorese Sardinian, Nuorese, Nuorese Sardinian 		
+sd 	Sindhi 	Indo-Aryan 	sd-Arab, Deva, Sind, Khoj 			Yes
+se 	Northern Sami 	Sami 	Latin 	North Sami, Northern Saami, North Saami 	Yes 	Yes
+sg 	Sango 	creole or pidgin 	Latin 			
+sh 	Serbo-Croatian 	South Slavic 	Latin, Cyril 	BCS, Croato-Serbian, Serbocroatian, Bosnian, Croatian, Montenegrin, Serbian, Shtokavian, Chakavian, Kajkavian, Torlakian, Torlak 		Yes
+si 	Sinhalese 	Indo-Aryan 	Sinh 	Singhalese, Sinhala 		
+sk 	Slovak 	West Slavic 	Latin 		Yes 	
+sl 	Slovene 	South Slavic 	Latin 	Slovenian 	Yes 	Yes
+sm 	Samoan 	Nuclear Polynesian 	Latin 			
+sn 	Shona 	Bantu 	Latin 			Yes
+so 	Somali 	Cushitic 	Latin, Arab, Osma 			Yes
+sq 	Albanian 	Albanian 	Latin, Grek, Elba 	Tosk, Gheg, Arvanitika, Arbëreshë, Arbëresh 	Yes 	
+ss 	Swazi 	Nguni 	Latin 	Swati 		Yes
+st 	Sotho 	Sotho-Tswana 	Latin 	Sesotho, Southern Sesotho, Southern Sotho 		Yes
+su 	Sundanese 	Malayo-Sumbawan 	Latin, Sund 			
+sv 	Swedish 	North Germanic 	Latin 			
+sw 	Swahili 	Bantu 	Latin, Arab 	Settler Swahili, KiSetla, KiSettla, Setla, Settla, Kitchen Swahili, Kihindi, Indian Swahili, KiShamba, Kishamba, Field Swahili, Kibabu, Asian Swahili, Kimanga, Arab Swahili, Kitvita, Army Swahili 	Yes 	
+ta 	Tamil 	Dravidian 	Taml 			
+te 	Telugu 	Dravidian 	Telu 			
+tg 	Tajik 	Southwestern Iranian 	Cyril, fa-Arab, Latin 	Tadjik, Tadzhik, Tajiki, Tajik Persian, Tajiki Persian 	Yes 	Yes
+th 	Thai 	Southwestern Tai 	Thai, Braille 	Siamese, Central Thai 	Yes 	
+ti 	Tigrinya 	Ethiopian Semitic 	Ethi 	Tigrigna 		
+tk 	Turkmen 	Oghuz 	Latin, Cyril 			Yes
+tl 	Tagalog 	Philippine 	Latin, Tglg 			Yes
+tn 	Tswana 	Sotho-Tswana 	Latin 	Setswana 		
+to 	Tongan 	Polynesian 	Latin 		Yes 	Yes
+tr 	Turkish 	Oghuz 	Latin 			
+ts 	Tsonga 	Bantu 	Latin 			
+tt 	Tatar 	Kipchak 	Cyril, Latin, tt-Arab 			
+ty 	Tahitian 	Eastern Polynesian 	Latin 			
+ug 	Uyghur 	Karluk 	ug-Arab, Latin, Cyril 	Uigur, Uighur, Uygur 		
+uk 	Ukrainian 	East Slavic 	Cyril 			Yes
+ur 	Urdu 	Indo-Aryan 	ur-Arab 			Yes
+uz 	Uzbek 	Karluk 	Latin, Cyril, fa-Arab 	Northern Uzbek, Southern Uzbek 		
+ve 	Venda 	Bantu 	Latin 			
+vi 	Vietnamese 	Vietic 	Latin, Hani 	Annamese, Annamite 	Yes 	
+vo 	Volapük 	constructed 	Latin 			
+wa 	Walloon 	Oïl 	Latin 	Liégeois, Namurois, Wallo-Picard, Wallo-Lorrain 	Yes 	
+wo 	Wolof 	Senegambian 	Latin, Arab 	Gambian Wolof 		
+xh 	Xhosa 	Nguni 	Latin 			Yes
+yi 	Yiddish 	West Germanic 	Hebr 		Yes 	
+yo 	Yoruba 	Volta-Niger 	Latin 			
+za 	Zhuang 	Tai 	Latin, Hani 	Standard Zhuang, Dai Zhuang, Wenma Zhuang, Wenma Thu, Wenma, Nong Zhuang, Youjiang Zhuang, Yongbei Zhuang, Yang Zhuang, Yongnan Zhuang, Zuojiang Zhuang, Central Hongshuihe Zhuang, Eastern Hongshuihe Zhuang, Guibei Zhuang, Minz Zhuang, Guibian Zhuang, Liujiang Zhuang, Lianshan Zhuang, Liuqian Zhuang, Qiubei Zhuang, Chongzuo Zhuang, Shangsi Zhuang 		
+zh 	Chinese 	Sinitic 	Hani, Brai, Nshu 		Yes 	
+zu 	Zulu 	Nguni 	Latin 	isiZulu 		Yes
