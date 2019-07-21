@@ -5,8 +5,8 @@
     <meta http-equiv  = "content-type" content="text/html; charset=UTF-8">
     <meta charset     = "utf-8">
     <title>hieroglyph keyboard ${title}</title>
-    <script src="script/gardiner_input.js"></script>
     <script src="script/gardiner_map.js"></script>
+    <script src="script/cuneiform_map.js"></script>
     <link type="text/css" rel="stylesheet" href="fonts/Gardiner.css" media="all" />
     <link type="text/css" rel="stylesheet" href="fonts/table.css" media="all" />
 </head>
@@ -16,6 +16,10 @@
     <br/>
     <input id="q" name="q" value="${q}" style="background:lightyellow;width:300px;heigth:30px" autofocus width="500" onFocus="this.select();" onKeyUp="checkGardiner(this.value)" autocomplete="off" />
     <input type="submit" value="OK"/>
+    <select id="scripture">
+        <option>Hieroglyps</option>
+        <option>Cuneiform</option>
+    </select>
     <a onClick="postText('${q}',q.value);q.value=''">[+]</a>
     <a onClick="q.value='';q.focus()">[-]</a>
     <button onClick="window.location.reload();">[♽]</button>
@@ -31,4 +35,5 @@
     ${content}
 </div>
 </body>
+<script src="script/gardiner_input.js"></script>
 </html>

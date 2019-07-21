@@ -1,3 +1,9 @@
+// BROWSER CLIENT SIDE!
+// require("./gardiner_map.js") via script tag!
+// require("./cuneiform_map.js") via script tag!
+// if(use_cuneiforms)
+// Gardiner_Map=Cuneiform_Map
+
 function log(x) {
 	console.log(x);
 	suggestion.innerHTML = x
@@ -27,6 +33,9 @@ function insertClick(event) {
 // $("finder").autocomplete(autocompletions);
 function checkGardiner(glyph0) {
 	try {
+		use_cuneiforms = scripture.value=="Cuneiform"
+		if(use_cuneiforms)
+			Gardiner_Map=Cuneiform_Map
 		if (glyph0.length > 50) {
 			suggestion.innerHTML = ""// Heather selected
 			return
@@ -40,12 +49,13 @@ function checkGardiner(glyph0) {
 		for (a in Gardiner_Map) {
 			qi = new RegExp("^" + glyph + "\\d", "i")//
 			matches = a.match(qi) || a == q || a.startsWith(glyph)
+			a_short=use_cuneiforms?a:a.replace(/[A-Z]+/, "")
 			// matches=(a+"").startsWith(glyph)
 			if (matches && count++ < 180) {
 				sign=Gardiner_Map[a]
 				sign1=sign1||sign
 				console.log(a+":"+ sign);
-				suggest += "<td  title="+a+ ">" + a.replace(/[A-Z]+/, "") + (sign||"") + "</td>"
+				suggest += "<td  title="+a+ ">" + a_short + (sign||"") + "</td>"
 				if (count % 8 == 0)suggest += "</tr><tr>"
 			}
 		}
