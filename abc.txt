@@ -1,4 +1,4 @@
-𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓈙𓏏𓏌𓅱𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃 𓀁𓀀𓂻𓏛
+𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓈙𓏏𓏌𓅱𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃 𓀁𓀀𓂻𓏛
 
 ↔ ɠ 𓊾 ſϝƒ ϛ δ ð đ ɗ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ţ ʃ=š ɟ ι ɽ ṛ ɹ~ꜣ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḫ ħ ḩ ɦ ꜣ ḏ ṯ š ð þ ϋ υ  ſ=<meta>f+s  Þþ pthorn?
 
@@ -18,7 +18,7 @@ D:	X1	𓏏 Dhou! Dell/Tell 𓏏𓏏dad=tit vs 𓂧χειρ
 D:	D46	𓂧 𐤉yoD &Ⲇ/Dr/δwr/cheuir/shyond/𒋗hand手shǒu/δer!! da:don:𓂧dast@PERS! þ AR:chaf[t] kappa leDer leTher llodr 𓊃 ** ~tz
 E:	M17	𓇋	f<b< fEδer/fur/bir leicht (v)ι,e,i,a,ey <> 𓏭𓂝𓊪
 F:	I9	𓇋 / 𓆑 ϝιn ظ vd! phython=PhSn FeatherSerpent φθϑδν φαίν=shine!  Cnd:conda,cNatter,cnake 𐀟 naḥash@sem!
-G:	W11	𓎼	piK 🂡 KÜ/Ɠiebel=gawg 𓎼𓄿𓏏𓊖=Kar 𓎼𓎼 γ,κ,Γ,g,χϱ,KÜ,blEIg! <> 𓍱,𓏏 BRδeiig pequliar qp φ βλέπ ~ blick 𓃀𓅡𓄿𓎼𓁹 
+G:	W11	𓎼	piK 🂡 KÜ/Ɠiebel=gawg 𓎼𓄿𓏏𓊖=Gorod 𓎼𓎼 γ,κ,Γ,g,χϱ,KÜ,blEIg! <> 𓍱,𓏏 BRδeiig pequliar qp φ βλέπ ~ blick 𓃀𓅡𓄿𓎼𓁹 
 G:	GR 𓈎 QR χϱ:g λ:y ?? <<<<<<<  QP/PQ 🂡 Skarten legen @ EGYPT!?!
 H:	O4	𓉔	wHou* < DOME 𐦛TE𐦚! Wall𓉔 Hort Heth 𐤇 HUT [d]home 𓉔>חהמם gaz:casa𒂷𒍑	báyṯh@sem jourm<dayn?
 Ḫ:  𓎛ξ Ḫχ𐀭 hair<curl Hut 𓎛 𐤇 = Hof , Hecke 
@@ -459,7 +459,7 @@ G7  𓅆 Greif [god]Ray right 𓅆𓏏𓏮    غَرْب ‎(ḡrb, “west”) 
 G14	𓅐 𓂋𓅱𓅐 *MRT   𓅓𓏱𓏏murdar@PERS aL'Mut+++ Vultier (vol/woll/fall(k)) 𓅐vulva~mumu Mutti 𓅐  𓅑 GAIA 
 G16 𓅒 'Nebty' "Two Ladies" Nekhbet&Wadjet 𓋞2   𓅒  Nepthun! vs shubit
 G17 𓅓 BR(d) בְּ־ bei 𓅓 FR MNWoo עם מ- מן וְ־ im wie mit coMN manner Wu 𓅖="who?" ! G18	𓅔	among	/ omen 
-G21	𓅘 neck! #7nH  𓅘 != G29	BV/Pfau/wow Put(her) 
+G21	𓅘 neck! #7nH  𓅘 != G29	BV/Pfau/wow/brow𓂃BIRd  Put(her) 
 G21	𓅘 ḪN ḪM çömlekçi potter smsw  𓅘 𓎛 𓇳 𓎛 𓏊 𓏥|sesame < cHecHem  𐀭𐀭
 G22	𓅙 derb/depp    𓅙
 G23	𓅚 rekh?    𓅚 Phan/voig/Volk  凡fán 番fān pán  𓇪	𓇩? vs 𓅠𓅡 
