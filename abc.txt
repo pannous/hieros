@@ -314,7 +314,7 @@ D55 re? [turn-back]   𓂽   => F25 Re plus/minus
 D56	𓂾 jambe𓄹/shin=Schien𓄹 -ion/-ious/-in ⚢ 𓇋𓇋𓏏𓂾   jump 𓏠 𓂾 vs 𓃀  ƥleg.ƥoed  JI=儿 丿匕 jambie jir𓂻𓃀 leg: halak@Heb!
 D56ƒ?	𓂾 rWuAT=> FuTh [come] root/raid/run feet=leap Pod ƥoeđ ®  <> jambe 
 D57 fight    𓂿   
-D58 𓃀 'B' ƥlaɠ.ƥoeđ  𓃀 Bei(n): 𓍋𓃀𓈋𓊖 aBYdos 
+D58 𓃀 'B' ProĐT>ƥlaɠ.ƥoeđ  𓃀 Bei(n): 𓍋𓃀𓈋𓊖 aBYdos 1. prothos?
 D58II 𓃀 bEIn  >>EI<<  excIte 
 D59 𓃁 bo/pu/flu   𓃁  boast,purify OK
 D60+	𓃂 pour pur(e) 𓃂 #WAB™ kipp vs 𓃂 schenk (shank;) 𓄐
@@ -341,7 +341,7 @@ E9  𓃛1  Eve Vieh 𓎬 ♀IAN Venus Yvonne  Yun/Jun!!! 勻云孕君   svänger
 E9	𓃛2  产 chǎn chain 艮 Gèn=root schenk shank => F44𓄯 El Bürth  月yuè[n] June
 E9	𓃛 vii-> fl flat flood floor flank flail fowl << eViL vs eVan  N/L!
 E10 BO* bull.phallo 𓃜 𓂸 buffalo	 @ flow 𓇇𓈗  𓊸𓃜Ram/Bock
-E11 𓎸𓃝'Khnum' 𓎸𓅓𓏲 Can.m.un  Gnu <> 𓏲lan->LAM!!! Canaan Potter canon qed Cinnamon? => Amon, Amun! <> KhMin𓋉! kMean!
+E11 𓎸𓃝'Khnum' 𓎸𓅓𓏲 Can.m.un ~𓏏  Gnu <> 𓏲lan->LAM!!! Canaan Potter canon qed Cinnamon? => Amon, Amun! <> KhMin𓋉! kMean!
 E11 𓎸𓃝 Khem=Min/Karam/Ramallah 𓃝𓎟𓊽𓊖𓊽 VS 𓀬 𓎛𓇳𓎛 𓈙𓆑𓇋𓇋𓏏  <> 𓌳𓌈𓃲 牛niú
 E11 𓃝 BA:PAN<> 𓄅 𓄆 𓎷 <> 𓃝 ~ Amon, Amun, Min, akMAN = PAN 𓂸𓂺 𓍱𓃀𓏏𓄿 JuPiter PAN Šmint𓊖!… come cum𓂺𓇍,𓆎𓅓𓁸 
 E12 𓃟 Sphain 🐖 = 𓆷𓄿𓂸𓃟 🐷 🐽 🜽 pigment Swainz𓄢~pen𓂸 vs bog 𐁂𐂊𐂋
@@ -1028,7 +1028,9 @@ Y8	𓏣 seiththera <> sisstr zitter, guitar, Bassist <> 𓏣 zitter Sister Hatho
 
 Z Zahlen
 ---------
-Z1  𓏤   Z2 𓏮  Z3  𓏪 	| selector   VS ? i/un/ein?/uan???	 
+Z1  𓏤   -os -un (-er) 1 
+Z2  𓏮  [t]wø[n/s]
+Z3  𓏪 -ασία[n] 三 < -(a)tion teen 3	| selector   VS ? i/un/ein?/uan???	 
 Z4  𓏭   Z4B    𓏮  y,ty,t
 Z5  𓏯 𓏰	short for D15 𓂅  (T14 win.kel:)	el/il/kel/eln=>-en plural? 
 Z6	𓏱 Mortir=Hammer@PIE 𓅓𓏱𓏏 muert/murt/mord/mait/MATT@AR,IN… 𒍗!  tuer/die/Tür A13/A14 carrion
@@ -1083,7 +1085,7 @@ Aa23	𓐥 ?rache/press	  teeth sys <> 𓎂 syn   𓐥𓂧𓅱𓈖𓄣𓏤 Testam
 Aa24	𓐦 press/praxis/prochat?  𓐦  keep?
 Aa25	𓐧 Monk monch!  𓐧 𓇹<> priest psi ψ ϔ ?
 Aa26	𓐨 TZ 𓐨 Spitzel! 𓐨 Ч /tʃ/Cha vs ζ Ṣade צ ܨ ص Σ 𐎕 Zahn:Throne~thorn! ς Ϡ? vs Ś   <<<
-Aa27	𓐩 pro.guar(d)	 #nD  [cross] 𓐩 <> pyr 𓊮 Q7
+Aa27	𓐩? gr#nD/andeFende con…? [cross] 𓐩 <> 𓊹 ndvr 𓐩 <> pyr 𓊮 Q7 pro/guar(d)	grind gr#nD ! Garn
 Aa28	𓐪 Q/PO.st/Pfost/passt Qadesh …   𓐪  !=P11  𓊧 ! 
 Aa30 	𓐬 δkr 𓐬 schicker → δkr Dekor decor ++ skrit 𓌫 Scherer <> Barber 𓐬𓆭𓀀
 Aa32	𓐮 Ta-Shot/Chat/Seth = Nubia TaBoo? 𓐮 Bow 
