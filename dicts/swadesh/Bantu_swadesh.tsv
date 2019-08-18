@@ -1,0 +1,294 @@
+№	English	Best	PIE	Luganda	Luhya	Rwanda	Rundi	Chokwe	Lunda	Luba-Kasai	Bemba	Tonga (Malawi)	Chichewa	Yao	Makhuwa
+1	I	Jye	je	nze	ndi	jye, jyewe, jyeweho	jewe, jeho, je, nānje	[[]]	[[]]	ndi, n-	ine	[[]]	ndi-	nne	[[]]
+2	you (sing)	Esie	Sie	ggwe	esie	wowe	wewe, weho	[[]]	[[]]	u-	iwe	[[]]	iwe	waawo	[[]]
+3	he	Ye	Ye	ye	ye	we	we, wewe	[[]]	[[]]	-ye	[[]]	[[]]	a, iye	veleo, mwaanjawo	[[]]
+4	we	ffe, uwe	We	ffe	efwe	twebwe	twebge, tweho	[[]]	[[]]	twêtu	ifwe	[[]]	ife	uwe	[[]]
+5	you (pl)	/		mmwe	enywe	mwebwe	mwebge, mweho	[[]]	[[]]	nwênu	imwe	[[]]	inu	nmwe, mmwe	[[]]
+6	they	/		bo	ba-	bo, ba-	ba-	[[]]	bà-	[[]]	[[]]	[[]]	iwo	vanyawo, vanyao, vaanganya	[[]]
+7	this	Uno, aka	One, 1	ono, luno, kino, eno	shino	aha, aka, iki, iri, ubu, uku, uru, uyu, aya, iyi	uyu	[[]]	[[]]	ako, abu	[[]]	[[]]	uyu, awa, uwu, iyi, ichi, izi, ili, aka, iti, apa, uku, umu	p-eleepa, kweleeku, iyi, ciici aci, ciici, awu wuteende-wu, a-wu, a-pa, a-lu, a-ku	[[]]
+8	that	Nti, aho	Ante, aha, na	nti, oyo (person), ekyo (thing)	-atsana (abatsana, akatsana, efiatsana, etc.)	aho, ako, icyo, iryo, uko, urwo, uwo	uwo, urya, uriya, uno, wa, nya	[[]]	[[]]	ààa	[[]]	[[]]	uyo, awo, uku, poti, pakuti, muti, kuti, iyo, ako	a-po, a-cila, a-co, a-dila, a-dyo, a-jila, a-jo, a-jula, a-kala, a-ko	[[]]
+9	here	Ano ino	An in here	wano	ano, eno	aha, hano, ino	aha, hano, ino, ngaha	[[]]	[[]]	apa, pànu	hapa	[[]]	pano, kuno, muno	p-eleepa, p-eepano, papapapepa, panopano, kunokuno, a-pano, a-pa, apa, a-kuno, a-ku	[[]]
+10	there			eyo, awo	aho, eyi, eyo, -ho	aho, -yo, -ri, -ho, -mo	aho, ngaho	[[]]	[[]]	amu	kulya	[[]]	apo, uko, umo, paja, kuja, muja	p-eleepo, peepala, palapala, kulakula, a-po, a-pala, a-kula, akula, a-ko	[[]]
+11	who	Ani nde	Ante	ani?	[[]]	nde?	nde?	[[]]	[[]]	nganyì	[[]]	[[]]	amene	vaani, vaa, -ani	[[]]
+12	what	Ki	Ki?	ki?	shi? shina?	iki?,-ki?	iki?	[[]]	[[]]	cinganyì	[[]]	[[]]	[[]]	cicii, chichi, -api	[[]]
+13	where	Wa	Wo	wa?	ewa	-he? -hehe? aho	hehe? he? aho	[[]]	[[]]	kwěpì	kwisa	[[]]	mmene, pamene, kumene	kuweesi	[[]]
+14	when		Donde ray?	ddi? nga	lina? olwa	ryari? ubwô	ryari? aho, iyo, ni	[[]]	[[]]	bunshi	[[]]	[[]]	pamene, m’mene, po-	nkuti, caaka ci	[[]]
+15	how			ate?	-rye? shinga	-te? uko, ukuntu	-te? uko, uku-ntu, ingene, ubugene	[[]]	[[]]	munyì	[[]]	[[]]	-nji	wudi, -ati udi	[[]]
+16	not	Nta ata	Not anti as-	si	ta	nta, si	nta, ata, si	[[]]	[[]]	cidi	[[]]	[[]]	si	ngati	[[]]
+17	all		Uno 1	-onna	-osi, tulu	-ose, -se	-ōse	[[]]	[[]]	-ònso	onse	[[]]	-nse	wose, koose	[[]]
+18	many			-ngi	-inji	-inshi iînshi	-inshi	[[]]	[[]]	cyanga	[[]]	[[]]	-mbiri	yejinji, -jiinji	[[]]
+19	some	Mwe	Few	[[]]	[[]]	-mye, -mwe	-mwe	[[]]	[[]]	bàmwè	[[]]	[[]]	-ngapo	[[]]	[[]]
+20	few	Ke	Quel	[[]]	-titi, -tutu	-ke, -keya	-ke, -keya, -kenya	[[]]	[[]]	kanyìkanyì	-céép-	[[]]	-ena, -chepa	-noondi, -nnoono, -naandi	[[]]
+21	other	Ndi	Ander	-lala	-ndi	-ndi	-ndi	[[]]	[[]]	-ǹga	-ilya	[[]]	-ina, -ja	[[]]	[[]]
+22	one	Mwe	Um <> me	emu	-lala	limwe	-mwe	káxi	-mu	-mwe	cimoo	-mwi	chimodzi	-mo, chinpepe	èmózà
+23	two	Bidi, biri	Bi, both	bbiri	-bili	kabili	-biri, evyiri	kári	-yedi	-bìdì	fibili	-bili	ziwiri	-vidi, ivili	píli
+24	three	Taru tatu	Third 	ssatu	-taru	gatatu, -hatu	-tatu, esheshatu	tátu	-satu	-sàtù	fitatu	-tatu	zitatu	-tatu, itatu	tháru
+25	four	Naayi	Nil @	nnya	-ne	kane, yine	-ne, ennye	uana	-ni	-naayi	fine	-ne	zinai	-cece, ncece, mcheche	xéxè
+26	five	Fisano	Pētanu	ttaano	-raano	-tanu, -hanu	-tānu, eshānu	mu-tânu	-taanu	-taanu	fisano	-sanu	zisanu	-saano, nsaano, nsano	tânu
+27	big	Nene	—	-nene	-khongo	-nini	-nini	[[]]	[[]]	-nène	-kúl-	[[]]	-kulu	wukulu, -kula	[[]]
+28	long			-adde, -azze, wanvu	-rambi	-re-re	-re-re	[[]]	[[]]	-le	-leep-	[[]]	-tali	uleu, -leewu	[[]]
+29	wide	Gazi gari	Groß	-gazi	-bambalifu	-gari	-gari	[[]]	[[]]	[[]]	-sáálal-	[[]]	-takata, -lifupi	-telekula	[[]]
+30	thick	Nini	^nene	-adde, gevvu	-khomefu	-nini	-nini	[[]]	[[]]	cyuluulu	-shin-	[[]]	-khathamira, -limbirapo, -khuthala, -chindikala	-kweeva, -gagaatala, -kaandapala, kwimbala (fat, thick)	[[]]
+31	heavy	Siro	Schwer	-zito	-siro	-kuremera, -kuremerwa	ku-remēra, ku-riba	[[]]	[[]]	-jitu	-lem-	[[]]	-lemera	-sito	[[]]
+32	small	Toya	Toy	-tono	-titi, -tutu	-to, -toya	-to, -toya, -tonya, -toto	[[]]	[[]]	-nci	"-céép-; -nóóno"	[[]]	-ng’ono	unondi, -noondi, -nnoono, -naandi	[[]]
+33	short	Gufi	Kurz —	-mpi	-imbikiti	-gufi	-gufi, -gufiya, -gufinya	[[]]	[[]]	-ìpì	-ípip-	[[]]	-fupi	wiipi, -jiipi	[[]]
+34	narrow	nyerere	Narrowe	-fundaze	-nyerere	-gufungana	gu-pfungānya	[[]]	[[]]	[[]]	[[]]	[[]]	-chepetsa, -siyana maganizo	penupenu, -tona, -vijikana	[[]]
+35	thin	tonya	Thinya	-kogga	-to	-to, -toya	-to, -to-to, -toya, -tonya	[[]]	[[]]	-nte, -lèula, -sulàme	-pap-, -ónd-	[[]]	-pyapyala, -onda	lipuuta, -sololoka, -pwa	[[]]
+36	woman	umu-gore	Vmme Göre	omukazi	omukhasi	umugore [umugorê]	umu-gore	[[]]	[[]]	mukàjì	úmwanákáshí	[[]]	mkazi, mayi	vammasyeto, vakongwe	[[]]
+37	man	OmoSatsa	Homo Geber	omusajja	omusatsa	umugabo	umu-gabo	[[]]	[[]]	mulùme	[[]]	[[]]	mwamuna	va-kuunganya	[[]]
+38	human	omuntu	Humandro	omuntu	omundu	umuntu [umuuntu]	buntu	[[]]	[[]]	muntu	umuntu	[[]]	munthu	wu-muundu	[[]]
+39	child			omwana	abana	umwana [umwâana]	umw-āna	[[]]	[[]]	mwâna	úmwaná	[[]]	mwana	mwanache, mw-aanace	[[]]
+40	wife	mukàjì		omukyaala	mukha	muka [mukâa]	muka	[[]]	[[]]	mukàjì	úmukáshí	[[]]	mkazi	vankwao	[[]]
+41	husband			omwaami	omukhwe, omusatsa	umugabo	umu-gabo, umu-gēnzi	[[]]	[[]]	mulùme	úmulúmé, úmwaúmé	[[]]	munthu	valume, va-alume	[[]]
+42	mother	mama	mama	maama	mama	mama [maamâ]	māma, māwe	[[]]	[[]]	ciimaamù	maayó	[[]]	mayi	amao, maama	[[]]
+43	father	papa, data	Papa dady	taata	papa	data [daatâ]	dāta, dāwe	[[]]	[[]]	pàpâ	taatá	[[]]	tate	atati, n-taati, baaba, v-eese	[[]]
+44	animal	innama	animal	ensolo	isolo	inyamaswa [inyamâaswa]	kw-ūhīra	[[]]	[[]]	nnyama	innama	[[]]	nyama	chijama, ci-nyama	[[]]
+45	fish	i-fi	Hai-Fish	eky'enyanja	inyeni	ifi [ifî]	i-fi	[[]]	[[]]	mushipa	ísábí, icibomba, impifu, umushipa	[[]]	nsomba	somba, soomba	[[]]
+46	bird			ennyonyi	liyoni	inyoni	iki-guruka, in-yoni (little ones)	[[]]	[[]]	nnyuunyu	"icuuni; (robin) umwanya"	[[]]	mbalame	chijuni, ci-juni	[[]]
+47	dog	im-bwa	Um Bark	embwa	imbwa	imbwa [imbwâ]	im-bwa	[[]]	[[]]	m̀bwa	ímbwá	[[]]	galu	nanbwa, n-bwa	[[]]
+48	louse			enkukunyi	indaa	inda [indâ]	in-da	[[]]	[[]]	lukùsù	índá	[[]]	nsabwe	njipi, n-jipi	[[]]
+49	snake	in-zoka	Zinaka	omusota	inzokha	inzoka [inzôka]	in-zoka	[[]]	[[]]	nnyòka	ínsóká	[[]]	njoka	lijoka, di-ijoka	[[]]
+50	worm			olusiringanyi	inzokha	inzoka, umunyorogoto (earthworm), urunyo (maggot)	in-zoka, igi-kogoshi (earthworm), igi-kāngaga (tapeworm)	[[]]	[[]]	cîshiishi	umwambo	[[]]	nyongolotsi, litsipa (tapeworm), msundu	di-nyoongolosi	[[]]
+51	tree	igi-ti	Esch-Tree !!	omuti	[[]]	igiti [igitî]	igi-ti	[[]]	[[]]	mucì	icímutí, iciíbá	[[]]	mtengo	chitela, ci-koloongwe	[[]]
+52	forest	iki-bira	Esch-Birest	ekibira	omutsuru	ishyamba [ishyaamba]	iki-bira	[[]]	[[]]	dibèsè	[[]]	[[]]	nkhalango	lipuluulu, wu-kweeti, n-situ	[[]]
+53	stick	igi-ti	E`stick —	akati	olusala	inkoni	igi-ti	[[]]	[[]]	mukwasa	umútambú	[[]]	ndodo	ntindiso, m-puuto	[[]]
+54	fruit	imbuto	Um Fruito	ekibala	eshiamo	imbuto [imbûto]	ic-āmwa, imbuto	[[]]	[[]]	cimuma	ícitwálo	[[]]	chipatso	isogosi, ci-sogosi	[[]]
+55	seed	imbuto	^^	ensigo	imwo	imbuto [imbûto]	im-buto, uru-tete	[[]]	[[]]	dimiinu	ulusoke, úluséké, úlubútó	[[]]	mbewu, njere, mbuyi, mbuyu, nthanga	mbeju, n-beju, n-beeca	[[]]
+56	leaf	lifafu	Leaf	ekikoola	lifafu, lisafu	ikibabi	i-babi, iki-babi	[[]]	[[]]	dyânyi	ibuula	[[]]	tsamba, dzani	lisamba, lisaamba, di-saamba	[[]]
+57	root			omulandira	omurombo	umuzi	umu-zi, igi-shitsi	[[]]	[[]]	muji	[[]]	[[]]	muzu	mchiga, n-ciga	[[]]
+58	bark (tree)	ikirere	Ker	olubugo	likhoba	ikirere [ikireere]	igi-shishwa	[[]]	[[]]	cipusu	umushike, umukwa	[[]]	kowola	likuungwa	[[]]
+59	flower			ekimuli	eshimuli	indabyo, ururabyo [ururâbyo]	i-shurwe	[[]]	[[]]	cilòngò	iluba	[[]]	duwa	liua, di-luuva	[[]]
+60	grass	icyatsi	...	omuddo	obunyasi	icyatsi [icyaâtsi], ubwatsi (pasture)	ivy-ātsi, ubg-ātsi	[[]]	[[]]	bîlu	ícaaní, ulweo	[[]]	udzu	manyasi, ma-nyasi	[[]]
+61	rope	umu-gozi	Um cords	omuguwa	omukoye	umugozi	in-goyi, umu-gozi, umu-zana	[[]]	[[]]	mukòsà	umwando	[[]]	chingwe	lu-koonji	[[]]
+62	skin	uruhu	(De)rou	olususu, omubiri, eddiba (animal)	likhoba	uruhu	uru-hu, uru-koba, uru-sāto	[[]]	[[]]	dikòbà	ímpapa, (hide) inkanda	[[]]	khungu	lipende, likova	[[]]
+63	meat	inyama	"Nyum ;)"	ennyama	inyama	inyama	iny-āma	[[]]	[[]]	nnyama	innama	[[]]	nyama	nyama	[[]]
+64	blood	amaraso	Adam.red	omusaayi	amabanga, amalasire, amatsayi	amaraso [amarâso]	amaraso	[[]]	[[]]	mashi	umulopa	[[]]	magazi	miasi, my-aasi	[[]]
+65	bone	likumba	Leg, jambe	eggumba	likumba	igufwa [igûfwa]	i-gufa	[[]]	[[]]	cifùpa	ífúpá	[[]]	fupa	liupa, di-iwupa	[[]]
+66	fat (n.)	amasavu amavuta	Massive 1 fat	amasavu	amanulu	amavuta [amavûta], ikinure	i-tōto, ibi-mure (meat)	[[]]	[[]]	dìfutà	ámafútá	[[]]	mafuta	mauta, ma-wuta	[[]]
+67	egg	eggi	Egg, Ei	eggi	libuyu	igi	iri-gi, i-gi	[[]]	[[]]	diyi	íliní	[[]]	dzira	lindanda, di-ndaanda, di-jeele	[[]]
+68	horn	i-hēmbe	Jambe	omulere (music), engombe (sound)	eshitsiriba	ihembe	i-hēmbe	[[]]	[[]]	lusèngu	úluséngó	[[]]	nyanga, liphondo, lipenga	livengwa, n-seengo	[[]]
+69	tail	umu-rīzo	<> rück cord?	mukira	omushinga	umurizo	umu-rīzo	[[]]	[[]]	mukìla	úmucílá	[[]]	mchira	mchila, n-cila	[[]]
+70	feather	i-ryōya	I	[[]]	omwiro	iryorya	i-ryōya	[[]]	[[]]	lusàlà	ilingala	[[]]	nthenga	di-nyuunya	[[]]
+71	hair			enviiri	liswi	umusatsi	umu-shatsi	[[]]	[[]]	nsukì	umushishi	[[]]	tsitsi	umbo, lu-wuumbo, lu-nyiidi	[[]]
+72	head	om'rwe	Um ras	omutwe	om'rwe	umutwe [umutwê]	umu-twe	[[]]	[[]]	mutù	úmutwé	[[]]	mutu	ntwe, n-twe	[[]]
+73	ear	eshirwi okutu	Vshear ecoute	okutu	eshirwi	ugutwi [ugutwî]	ugu-twi	[[]]	[[]]	dicì	úkutwí	[[]]	khutu	liwiwi, di-piikanilo	[[]]
+74	eye	i-jīsho	Eyes	eriiso	imoni, lishu (squint)	ijisho [ijîisho]	i-jīsho	[[]]	[[]]	dîsu	íliinsó	[[]]	diso	liso, di-iso	[[]]
+75	nose	enyindo		enyindo	amolu	izuru [izûuru]	i-zūru, i-tonde	[[]]	[[]]	dyûlu	umoona	[[]]	mphuno	mbula, lu-pula	[[]]
+76	mouth	omunwa akanwa	Mund corn	akamwa	omunwa	akanwa	aka-nwa	[[]]	[[]]	mukana	akanwa	[[]]	kamwa	kang'wa	[[]]
+77	tooth	i-ryīnyo	Rhino	erinnyo	elino	iryinyo [iryîinyo]	i-ryīnyo	[[]]	[[]]	dînu	íliinó	[[]]	dzino	liino, di-ino	[[]]
+78	tongue	olulimi	A lingo —	olulimi	olulimi	ururimi	uru-rimi	[[]]	[[]]	ludìmi	úlulímí	[[]]	lilime	lulimi, lu-dimi	[[]]
+79	fingernail			[[]]	[[]]	urwara	urw-āra	[[]]	[[]]	ngâla	íngála	[[]]	chikhadabo	lukoose, lu-kalaveesa	[[]]
+80	foot	iki-rēnge	A range, regel	ekigere	lilaro	ikirenge [ikireenge]	iki-rēnge	[[]]	[[]]	cisanjì	ulukasa	[[]]	phazi	ci-kaambato, lu-sajo (footprint, sole)	[[]]
+81	leg	ukuguru	A geher	[[]]	eshilemje, lirango (thigh)	ukuguru	uku-guru	[[]]	[[]]	mukòlò	ukuulu	[[]]	mwendo	lukongolo, lu-koongolo	[[]]
+82	knee	ivi		eviivi	lisikamo	ivi [ivî]	i-vi	[[]]	[[]]	cinù	íkúfí	[[]]	bondo	lilungo, di-luungo	[[]]
+83	hand	ikiganza	A Kante	omukono (arm)	omukhono (arm)	ikiganza [ikigaanza]	iki-ganza	[[]]	[[]]	cyanza	icisansa	[[]]	dzanja	nkono	[[]]
+84	wing	i-baba	<> bir fly	ekiwawatiro	olubaa	ibaba [ibabâ]	i-baba	[[]]	[[]]	dipwâpwà	ipindo	[[]]	khupe, phiko	di-papiko	[[]]
+85	belly	inda	Inner Budda —	olubuto	inda	inda, igifu, ibondo [iboondo] (potbelly)	in-da	[[]]	[[]]	difù	ícifúú, (fish or fowl) ícitómbó	[[]]	mimba	lutumbo	[[]]
+86	guts	amara	Innere	[[]]	amala (intestines)	amara (intestines)	ama-ra (intestines)	[[]]	[[]]	dila	ubula	[[]]	[[]]	[[]]	[[]]
+87	neck			ensingo	likosi	ishingo, ijosi (front of neck)	i-sozi	[[]]	[[]]	nshìngù	umukoshi	[[]]	khosi, chitambo	lukosi, lu-kosi	[[]]
+88	back			omugongo	omukongo	umugongo [umugôongo]	umu-gōngo	[[]]	[[]]	nnyimà	ínnumá	[[]]	msana	mngongo, n'-goongo, nsaapa, ci-nyuma	[[]]
+89	breast	i-bere	A Brust	ebbeere	olubeere	ibere	i-bere	[[]]	[[]]	cyâdi	íbééle	[[]]	bere	mavele, ma-veele	[[]]
+90	heart	umu-tima	Um Timo =Deem	omutima	omwoyo	umutima [umutîma]	umu-tima	[[]]	[[]]	mwoyo	úmutímá	[[]]	mtima	ntima, n-tima	[[]]
+91	liver			ekibumba	ingurumani	umwijima	igi-tigu	[[]]	[[]]	mucìma	ílibú	[[]]	chiwindi, mphafa	litoga, di-tooga	[[]]
+92	to drink	KU = GO/TO	Oku = Eye!	okunywa	okhunywa, -nywa	kunywa [kunywâ], -nywa	ku-nywa	[[]]	[[]]	-nwà	"ukunwa
+-nw-"	[[]]	kumwa, -mwa	ku-ng'wa, -n'wa, -mwa	[[]]
+93	to eat		Kauer	okulya	okhuliira	kurya	ku-rya	[[]]	[[]]	-dyà	"ukulya
+-ly-"	[[]]	-dya	ku-lya, -dya	[[]]
+94	to bite		Kauen	[[]]	okhukuna, okhuluma	gushuna, kuruma	gu-shikura	[[]]	[[]]	-sùma	"ukusúma
+-súm-"	[[]]	-kuluma	-luma	[[]]
+95	to suck		Nu’eln	okunuuma	okhunuuna	kunyunguta, kunyunyuza	ku-nūnuza	[[]]	[[]]	-fìpa	"?> ukuónka
+-ónk-"	[[]]	-yamwa, -kama, -fipa, -tsopa	-oonga, -kweemba	[[]]
+96	to spit			okuwanda	okhubita, okhufutsa, okhunyirikha	gucira	gu-cīra	[[]]	[[]]	-twìla	"ukusáka
+-sák-"	[[]]	-mate	-suna	[[]]
+97	to vomit		Rotz	okusesema	okhusala	kuruka	ku-ruka	[[]]	[[]]	-lùka	"ukulúka
+-lúk-"	[[]]	-sanzi	-selula, -tapika	[[]]
+98	to blow		Fauch	okufuuwa	okhuutsa, okhufura (mouth)	guhuha	gu-hūha, gu-hūngabanya	[[]]	[[]]	-peepa	"(mouth)
+ukupuuta;
+(wind)
+ukukuuka"	[[]]	-omba	-puga	[[]]
+99	to breathe		Heme?	okussa omukka	okhuyeera	guhumeka	gu-hēma, gu-humēka	[[]]	[[]]	-puuya	"ukupeema
+-peem-"	[[]]	-puma	-pumula	[[]]
+100	to laugh		Shake	okuseka	okhutsekha	guseka	gu-twēnga, gu-sekaseka	[[]]	[[]]	-seka	"ukuseka
+-sek-"	[[]]	-seka, -bwezuka, -kakadza	-seka	[[]]
+101	to see	okhulola	Okulus	okulaba	okhulola	kubona [kubôna]	ku-bona	[[]]	[[]]	-mòna	"ukumóna
+-món-"	[[]]	-wona	-lola, -wona	[[]]
+102	to hear	okhuulira		okuwulira	okhuulira	kumva	kw-ūmva	[[]]	[[]]	-umvwa	"?> ukoúmfwa
+-úmfw-"	[[]]	-mva	-pikana	[[]]
+103	to know	kumenya	Mind śir(kan)	okumanya	okhumanya	kumenya, -zi	ku-menya, -zi, ku-zirikana	[[]]	[[]]	-manya	"ukwíshiba
+-íshib-"	[[]]	-dziwa	-manyilila	[[]]
+104	to think		Take čir	okulowooza	okhupara	gutekereza, kwibwira	kw-īyumvīra, gu-cīra, ku-gira, kw-īkēkāko, kw-īrimbūra	[[]]	[[]]	-pànga	"ukuelenganya
+-elengany-"	[[]]	-ganiza	-ganisya	[[]]
+105	to smell			okuwunyiriza	okhuunya	guhumuza [guhûumura]	kw-īnukiriza, kw-ūmva, kw-ūmviriza, kw-īmōtereza	[[]]	[[]]	-nunka	"ukununka
+-nunk-"	[[]]	-nunkha	-nunjila , -nunga	[[]]
+106	to fear		Tinya?	okutya	okurya	gutinya	gu-tīnya	[[]]	[[]]	-cììna, -kaakala	"ukutíína
+-tíín-"	[[]]	-opa, -opana, -opsedwa, -thupsana	-oga, -oogopa	[[]]
+107	to sleep	gu-sinzīra	Snooze	okwebaka	okhukona	gusinzira [gusiinziira]	gu-sinzīra	[[]]	[[]]	-lààla	"ukuláála
+-láál-"	[[]]	-gona	-gono	[[]]
+108	to live	kubana	BE being 	okusula, okubeera (to be)	okhumenya	-baho, kubana, kuba [kubâ] (to be)	ku-ba, ku-baho, gu-hēma	[[]]	[[]]	-sòmba	"ukwikala
+-ikal-"	[[]]	-khala	-taama	[[]]
+109	to die		Fare	okufa	okhufwa	gupfa	gu-pfa, gu-hwēra	[[]]	[[]]	-fwà	"ukufwa
+-fw-"	[[]]	-fa, -mwalira	-wa	[[]]
+110	to kill	okutta	Cut 	okutta	okhwira	kwica	kw-īca	[[]]	[[]]	-shipa	"ukwipaya
+-ipay-"	[[]]	-pha	-wulaga	[[]]
+111	to fight	ku-rwānya	Ränke	okulwaana	okhulwana	kurwana	ku-rwānya	[[]]	[[]]	-lwa	"ukulwa
+-lw-"	[[]]	ndewu (n.)	-menyana, -putana	[[]]
+112	to hunt	okuyigga	Jäger	okuyigga	okhuyima	guhiga	gu-hīga	[[]]	[[]]	-zàngula	"ukulúnga
+-lúng-"	[[]]	-saka	-lupata	[[]]
+113	to hit	gu-kubita	Chopter	[[]]	okhupa	gukubita	gu-kubita	[[]]	[[]]	-còòba, -bòta	"ukupóóla,
+ukupúma"	[[]]	[[]]	-tiimba, -puuta, -nyeesya	[[]]
+114	to cut	gukata	Cut	okusalwa	okhushenga, okhuteta, okhutsosola, okhutuumula	guca, gukata	gu-ca	[[]]	[[]]	-banga	"ukucéna,
+ukuteeta"	[[]]	-duka, -tseteka	-seenga, -salula, -kata	[[]]
+115	to split	gutanya	Teiln	okwabuluza	okhurabukha, okhwarasia, okhwasiaka, okwabula	gutanya	ku-rara, gu-tānya	[[]]	[[]]	-aapula	"ukupandula,
+ukutééba"	[[]]	-balula	-gala, -cecenukula, -cecenukuka, -pasula, -gaangula	[[]]
+116	to stab	ponda	Pounce	[[]]	okhufumira	[[]]	[[]]	[[]]	[[]]	-ponda	"ukubunda,
+ukukwasa"	[[]]	-baya	-wulutula, -tota, -koosa, -copa, -soma	[[]]
+117	to scratch			okwagula	okhumaanya, okhwaka	gushima	gu-kūba	[[]]	[[]]	-aanya, -koona	"ukukoola
+-kool-"	[[]]	-kalasa, -kalasula, -kalula, -kanda	-mwaaga, -ng'wanya, -kodola	[[]]
+118	to dig	gucukura	@kur	[[]]	okhulima, okhuyaba	gucukura	kw-īmba, ku-rima	[[]]	[[]]	-imba	"ukwimba
+-imb-"	[[]]	-mba	-sola	[[]]
+119	to swim	okuwuga	@woge	okuwuga	okhwerama, okhwitubuta	koga	kw-ōga	[[]]	[[]]	-ombela	"ukówa
+-ó-,
+(crawl)
+ukutambaala"	[[]]	-sambila	-suuga, -n'aambila	[[]]
+120	to fly	ku-guruka	<<< ikarus	okubuuka	okhupulukha	kuguruka	ku-guruka	[[]]	[[]]	-bùùka	"ukupupuka
+-pupuk-"	[[]]	-nonthoka	-guluka	[[]]
+121	to walk	ku-gēnda	Gehen.do	okutambula	okhuchenda	kugenda [kugeenda]	ku-gēnda	[[]]	[[]]	-dyata, -enda	"?> ukueenda
+-end-;
+(lamely)
+ukutibula"	[[]]	-yenda	-eenda	[[]]
+122	to come	ku-za[m]	!!	okujja	okhwitsa	kuza [kuuza]	ku-za	[[]]	[[]]	-iiya	"ukwisa
+-is-"	[[]]	-dza	-yika	[[]]
+123	to lie (bed)		Segure [d]rama 	okugalamira, okulambaala	okhukonera	kwisegura	ku-ryāma	[[]]	[[]]	-lamba, -iikisha	"ukusendama,
+ ?> ukubepa"	[[]]	-gona	-latama, -gadama, ku-gona lugali	[[]]
+124	to sit		—	okutuula	okhwikhala	kwicara [kwiicara]	kw-īcara	[[]]	[[]]	-shikama	"ukwikala
+-ikal-"	[[]]	-tambalala, -labzi	-wutamila, -tama, -taama	[[]]
+125	to stand		—	okuyimirira	okhusinjira	guhagarara	gu-hagarara	[[]]	[[]]	-iimana	"ukwíma
+-ím-"	[[]]	-yima	-iima	[[]]
+126	to turn		Wende Hindu!	okuweta	okhuunzukha	guhindukiza	gu-hindukiza	[[]]	[[]]	-piluka	"ukupínuka
+-pínuk-"	[[]]	-khota, -lowera	-piinda	[[]]
+127	to fall	ku-gwa	Go aua	okugwa	okhukwa	kugwa	ku-gwa	[[]]	[[]]	-pwà	"ukowa
+-w-"	[[]]	-gwa	-gwa	[[]]
+128	to give	guha	Give	okuwa	okhufuwa, okhuhana, okhuwa	guha, guhana, gutanga	gu-ha, gu-hēsha, gu-tānga	[[]]	[[]]	-pà	"ukupa
+-p-"	[[]]	-patsa	-pa	[[]]
+129	to hold	gu-fata	Fetch	okukwaata	okhutira, okhuwatsa	gufata	gu-fata	[[]]	[[]]	-kwàta	"ukwíkata
+-íkat-"	[[]]	-wetsa	-pakata	[[]]
+130	to squeeze	gu-kānya	@hand	okunyiga, okukamula	okhufinya, okhukhama, okhutinyira	gukamura	gu-kānya	[[]]	[[]]	-kàma	"ukukáma
+-kám-"	[[]]	-khwinyata, -vungama, -khwinyala, -finya	-pana, -minya	[[]]
+131	to rub			okuvumbaye, okukuutase, okukunya, okukulubuuta, okusiraze	okhuruta, okhusisa	guhanagura, gusiga (anoint)	gu-hungura, gu-sīga (anoint), gu-hofōra (eyes)	[[]]	[[]]	-fiita	"ukukwesa,
+ukunuka;
+(rub out)
+ukufuuta"	[[]]	-fikisa, -tikita, -tsangula, -tsitsitiza, -pekesa, -sisita	-ticita, -sugula, -kulukuuta	[[]]
+132	to wash	kw-ōza	K`wash !	okwoza	okhwosia	koza	kw-ōza	[[]]	[[]]	-sukula	"ukusamba;
+(plates)
+ukusuka"	[[]]	-samba	-suka, -saula, -likunda	[[]]
+133	to wipe	okhweya	Go wipe	okusimuula	okhweya	guhanagura	ku-myīra, gu-heha	[[]]	[[]]	-kùpula	"ukupópolola,
+ukusuba"	[[]]	-khula	-syula	[[]]
+134	to pull	gu-kurira	Carry @ cord	okusika, okukululadde	okhukhwesa	gukurura	gu-kwēga, gu-shikura, gu-kurira	[[]]	[[]]	-fuuta	"ukukula
+-kul-"	[[]]	-koka	-wuta	[[]]
+135	to push		Senk?	okusindika	okhuluuma, okhusindikha	gusunika	gu-sunika	[[]]	[[]]	-sàkila	"ukusunka
+-sunk-"	[[]]	-kankha, -kunkhuniza, -thunya	-tuta	[[]]
+136	to throw	gu-tēra	Go throw	okusawuka, okukanyuga, okukasuka	okhufuuba, okhutura	gutera	gu-ta, gu-tēra	[[]]	[[]]	-tupù	"ukuŋwinta
+-ŋwint-,
+ukufútula"	[[]]	-ponya, -taya	-iita	[[]]
+137	to tie	ku-boha gupfundika	Go bind	okukaliga, okusiba	okhuboya, okhufundikha	kuboha, gupfundika	ku-boha, gu-hāmbīra	[[]]	[[]]	-kànda, -lunga	"ukubópa,
+ukufúndika,
+ukukaka"	[[]]	-kadzira, -kwidzinga, -manga, -njata, -gwiriziza	-tava	[[]]
+138	to sew	gu-sona	sinew < tunga	okutunga	okhunaba	kudoda	ku-barīra, gu-sona (<Sw.)	[[]]	[[]]	-tunga	"ukusóna
+-són-"	[[]]	-soka	-tota, -sona	[[]]
+139	to count	kubara	<< bear ball	okubala	okhubala	kubara	gu-harūra	[[]]	[[]]	-bala	"ukupenda
+-pend-"	[[]]	-werenga	-valanga, -valaanga	[[]]
+140	to say	ku-vuga	Voice	okugamba, okwogera (saying)	okhuboola	kuvuga, -ti (saying)	ku-bara, ku-vuga, -ti	[[]]	[[]]	-lòkota, -amba	"(speak)
+ukusósa
+-sós-"	[[]]	[[]]	-ti, -saala, -cidiwuka, -tanjila, -salila	[[]]
+141	to sing		Rire? Wimp	okuyimba	okhwimba	kuririmba	ku-rirīmba	[[]]	[[]]	-imba	"ukwímba
+ímb-"	[[]]	-yimba	-imba	[[]]
+142	to play	gu-kina	<	okuzannya	okhubaya	gukina	gu-kina	[[]]	[[]]	-nàya	"ukwángala
+-ángal-"	[[]]	-doda, -sewera, -ponya	-taamba, -n'aanda, -ceesa	[[]]
+143	to float	ku-reremba	Bbuluku ~	okuseyaaseya, okubbulukuka	okhubenga	kureremba [kurêreemba]	ku-reremba	[[]]	[[]]	-anzama	"?> ukueela
+-eel-"	[[]]	-beruka, -yandama	-jajavala, -palasila	[[]]
+144	to flow	gu-tēmba	@timber < dome 	okukulukutase	[[]]	gutemba	gu-tēmba	[[]]	[[]]	-mata	[[]]	[[]]	-yenda	-jidima, -vidima	[[]]
+145	to freeze			oku-tiitiwazaizza	[[]]	[[]]	[[]]	[[]]	[[]]	[[]]	[[]]	[[]]	[[]]	-pimisya	[[]]
+146	to swell	boba	Bubble	okuzimba	okhufwimba	kubyimba	ku-vyīmba, ku-bōmboka	[[]]	[[]]	-boba	"ukufímba,
+(mouldy)
+ukufufuma"	[[]]	-fufuma	-yiimba	[[]]
+147	sun	eliuba i-zūba	EL Sū`Ball? <> jourba	enjuba	eliuba	izuba [izûuba]	i-zūba	[[]]	[[]]	dîba	ákasúbá	[[]]	dzuwa	lyuuva	[[]]
+148	moon	mwènji	Monthi <<	omweezi	omwesi	ukwezi [ukwêezi]	ukw-ēzi	[[]]	[[]]	mwènji	úmweshí	[[]]	mwezi	mwesi	[[]]
+149	star		—	emunyeenye	ing'ining'ini	inyenyeri [inyênyeerî]	uru-nyenyēri, i-nyenyēri	[[]]	[[]]	mùtôtò	ulútandá	[[]]	nyenyezi, nthondwa, nthanda	ndondwa	[[]]
+150	water	amazzi amaatsi	A Wasser	amazzi	amaatsi	amazi [amâazi]	ama-zi	[[]]	[[]]	mâyi	"ámeenshí,
+(simplify)
+amenshi"	[[]]	madzi	meesi	[[]]
+151	rain	im-vura ifula	fall	enkuba	ifula	imvura [imvûra]]	im-vura	[[]]	[[]]	mvùla	ímfúlá	[[]]	mvula	wula	[[]]
+152	river	ur-ūzi	rods	omugga	omuchera, omwalo	uruzi	ur-ūzi	[[]]	[[]]	[[]]	umumana	[[]]	mtsinje	lusulo	[[]]
+153	lake	iki-yaga	yu	enyanja	inyanza	ikiyaga	iki-yaga, i-tanganyika	[[]]	[[]]	dijiba	bemba	[[]]	nyanja	nyaasa, litanda	[[]]
+154	sea	iki-yaga	Ocean yu	enyanja	inyanza	inyanja	iki-yaga	[[]]	[[]]	mbuwù	[[]]	[[]]	nyanja ya mchere, nyanja zakuya kwambiri	bwaani	[[]]
+155	salt	umunyu	!	ommunyu, omunnyo	omufume, omunyu	umunyu [umûunyu]	umu-nyu	[[]]	[[]]	lwêpù	úmucélé	[[]]	muthira mchere	njete	[[]]
+156	stone	i-buye	Baut	ejjinja	libale, lichina	ibuye	i-buye	[[]]	[[]]	dibwe	ilibwe	[[]]	mwala	liganga	[[]]
+157	sand	umu-sēnyi lusenge	Sandg	omusenyu	[[]]	umusenyi	umu-sēnyi	[[]]	[[]]	lusenge	"úmucánga,
+umúsengá"	[[]]	mchenga, timiyala, muhabva	nsanga	[[]]
+158	dust			nfuufu	olufu	ivumbi, umukungugu [umukuûngugu]	umu-kungugu	[[]]	[[]]	lupwishi	ulúkungú	[[]]	fumbi	luundu	[[]]
+159	earth	eshi	Earthe Terk?	nsi	eshi	igitaka, isi [isî]	i-si, aga-taka, i-vu	[[]]	[[]]	nshì	isonde	[[]]	dziko	litaka	[[]]
+160	cloud	igi-cu	A Qura	ekire	lilesi	igicu	igi-cu	[[]]	[[]]	ditutu	ikumbi	[[]]	mtambo, khwithi, chifwirim	liunde	[[]]
+161	fog	igi-pfūngu	A Fõg	[[]]	loing'ong'ong'we	igihu	igi-pfūngu	[[]]	[[]]	mulemba, dibungi	"(dull day)
+ícikútiká"	[[]]	nkhungu, mikhwithi	daambwe	[[]]
+162	sky	iki-rēre i-juru	^sun jour	eggulu	likulu	"ikirere,
+(heaven)
+ijuru"	iki-rēre, i-juru	[[]]	[[]]	dyulu	"(heaven)
+mulu"	[[]]	thambo	kwiunde	[[]]
+163	wind	embuyaga umwela	Blow well	embuyaga	omuyeka	umuyaga	umu-yaga	[[]]	[[]]	cipeepè	"umwela,
+(blowing of wind)
+ípupwe"	[[]]	chiphwisa	nyeembeelela	[[]]
+164	snow	omuzira	Cir	omuzira	[[]]	amasimbi	uru-bura (hail)	[[]]	[[]]	[[]]	[[]]	[[]]	madzi oundana oyera amaoneka pamwamba pa mapiri aatali ku mayiko ozizira, chipale, chifunga, nkhungu	[[]]	[[]]
+165	ice			omuzira	[[]]	barafu, urubura	[[]]	[[]]	[[]]	lumwènu	amenshi makasa	[[]]	madzi oundana, madzi ouma, matalala	[[]]	[[]]
+166	smoke	omukka	[s]moke	omukka	omwosi	umwotsi	umw-ōtsi	[[]]	[[]]	[[]]	icuushi	[[]]	utsi	osi	[[]]
+167	fire	umuriro	Um vire	omuliro	omuliro	umuriro	umu-riro	[[]]	[[]]	kadilu	umulilo	[[]]	moto	moto	[[]]
+168	ash			[[]]	likoshe	ivu [ivû]	umu-nyota	[[]]	[[]]	butù	ímitó	[[]]	chipala, phulusa	[[]]	[[]]
+169	to burn			okwookya	okhwakha	gushya, kwaka [kwaaka]	gu-sha	[[]]	[[]]	-oosha, -pyà	"ukupya
+-py-"	[[]]	-wocha, -pya	-ooca, -kolela, -coma	[[]]
+170	road	i-barabara, umu-haruro, i-rāngo	BearBear / Ha road / range	oluguudo	engila, omuanda	umuhanda [umuhaânda]	i-barabara, umu-haruro, i-rāngo	[[]]	[[]]	njila	"(cleared)
+umusebo,
+(wide)
+ákantótwa"	[[]]	msewu	vaangula	[[]]
+171	mountain	mukùnà	Sozi?	olusozi	olukulu	umusozi [umusôzi]	umu-sozi	[[]]	[[]]	mukùnà	"(hill)
+ulupili"	[[]]	phiri	litumbi	[[]]
+172	red	gu-tukura	—	kasaayi, myufu	-akhanyu	gutukura	gu-tukura	[[]]	[[]]	-kùnze	-káshik-	[[]]	-fiira, -psuu	-ceejewu	[[]]
+173	green	chishi		kilagala	-chishi	icyatsi kibisi	aka-ātsi gatoto	[[]]	[[]]	-bìshi	[[]]	[[]]	-biriwira	-gulukulu, -awusaamba	[[]]
+174	yellow	umu-hōndo		kyenvu	rapwori	umuhondo	umu-hōndo, umu-gina, umu-tugutu	[[]]	[[]]	-kàlaabi	[[]]	[[]]	-chikasu	[[]]	[[]]
+175	white	cera		ekyeeru	-lafu	-era	cera	[[]]	[[]]	-tòòke	-buut-	[[]]	-yera	cheswela	[[]]
+176	black	umukara	A Kara	nzirugavu	-mali, -mwamu, -ti	umukara	umu-fyīri	[[]]	[[]]	-fììka	-fiit-	[[]]	mkuda, wokuda	-piliu	[[]]
+177	night	i-joro	A-jour	ekiro, ettumbi	eshiro	ijoro	i-joro	[[]]	[[]]	butùku	úbushíkú	[[]]	usiku	chilo	[[]]
+178	day	umu-si umunsi indaalo		emisana, olunaku	indaalo, inyanga	umunsi [umuûnsi]	umu-si	[[]]	[[]]	difùku	ínshíkú	[[]]	tsiku	lyuva	[[]]
+179	year	omwika	Wake wende?	omwaaka	omwika	umwaka [umwâaka]	umw-āka	[[]]	[[]]	mwaka	úmwaká	[[]]	chaka	chaaka	[[]]
+180	warm	ota amayu	Hot	ekibuguma, -buguma	amayu, -yu	-ota	-ōta	[[]]	[[]]	-sàlùke	-ónt-	[[]]	-funda	-kosya, -oota, -vaamba	[[]]
+181	cold	bisi	Freeze ... —	ekinyogoga	-nyifu	-konja, -beho	-bisi	[[]]	[[]]	-tàlàlàà	-talal-, -pépul-	[[]]	-zizira	sisisisi, -bepo	[[]]
+182	full	zura		kajjuvu	-yinjikhane	-zura	-ūzura	[[]]	[[]]	-pasa	-ísul-	[[]]	-khuta, -dzadza	-too, coti	[[]]
+183	new	shya	Schön :)	ekipya	efiya, -ya, -yakha	-shya	-sha, -shasha	[[]]	[[]]	-pya	-pya	[[]]	-tsopano	chanpya, -amoonje	[[]]
+184	old	kuru	Gero	-kadde	-khulu, -kofu	-saza	-kuru, -sāza	[[]]	[[]]	-nunu	-kot-, -pílulul-	[[]]	-kalamba, -khwima, -kale	-wisala, -aceekulu, -kalaambala	[[]]
+185	good		...	-rungi	-layi	-iza [iizâ]	-īza	[[]]	[[]]	-lenga	-waam-	kabotu	-bwino	-ambone	[[]]
+186	bad	bi	ba.de	-bi	ababi, -bi	-bi	-bi	[[]]	[[]]	-bì	-bííp-	[[]]	-ipa, -uve, -chabe, -bziwi, -bi	ngalumbana, ngalimate	[[]]
+187	rotten	boza	ba.de	-vundu	-bolo	-bora	-bora, -boza	[[]]	[[]]	-bolabola	-bol-	[[]]	-ola, -vunda	-ola	[[]]
+188	dirty		ba.de Human:)	-jama	-bi	-anda, -ico	-humāna	[[]]	[[]]	-kooyà	[[]]	[[]]	-da, -ipsa, -detsa	-wuuka	[[]]
+189	straight			butereevu	-kololofu, -lunji	-gororoka, -eguka	-gororoka	[[]]	[[]]	-neema	"-lungam-,
+-nyuns-,
+-ololol-"	[[]]	"-ongoka,
+-salala,
+-tawatawa,
+-njo,
+-sapsatira"	-nyoloombola, -goloka	[[]]
+190	round	viringa fumunde	Wie rund	-ulungo	-fumunde	-viringa	-burūngu	[[]]	[[]]	-cijèngù	-shíngulul-	[[]]	-zungulira, -zunguza, -ndendera, -bungulira	-aluwulu	[[]]
+191	sharp (knife)			-songola	-memu	-tyara	-kariha	[[]]	[[]]	-twè	-tw-	[[]]	-thwa	-tema, -sijidika	[[]]
+192	blunt (knife)			-fufuggaza	[[]]	-tiga	-fyīta, -pfūha (dull)	[[]]	[[]]	[[]]	[[]]	[[]]	-phinjika	-piisa, -piinya, -angatema	[[]]
+193	smooth			-kuliradde	-nyiririfu, -nyushe	[[]]	-rēmba	[[]]	[[]]	-lànda	-lámbuk-	[[]]	-salala	-tidila	[[]]
+194	wet	bisi	<> wasser	-bisi	-nyifu, -misu	-bisi [bîsi]	-bisi	[[]]	[[]]	[[]]	[[]]	[[]]	chinyezi, chinyontho	nyakapya	[[]]
+195	dry			-kalu	-umu	-uma	-ūma	[[]]	[[]]	-uuma	-úm-	[[]]	-uma	-umula, -juumu	[[]]
+196	correct		!	-tuufu	-atieri	-hana	-koshōra, -īhana	[[]]	[[]]	-oolòlòke	-lungam-	[[]]	-konza	-luungamika	[[]]
+197	near	bugufi	Bei ^^	okumpi	aambi	bugufi, hafi	hāfi	[[]]	[[]]	pêpì nè	-sontam-	[[]]	-fupi, -yandika	-vandika, -vaandika	[[]]
+198	far	kure	Kura dura	ewala	eyale	kure	kure	[[]]	[[]]	kule	-sukilil-	[[]]	-kutali	-talika	[[]]
+199	right	ryo	ryo.de	ddyo	-lunji, -satsa	-ryo	-ryo	[[]]	[[]]	dyàbalùme	ku úkulyó	lulyo	-manja	n'dyo	[[]]
+200	left			kkono	-suba	-bumoso	-bāmfu	[[]]	[[]]	dyàbakàjì	ku úkusó	chimwenhi	-siyidwa, -tsala, kumanzere	nciji	[[]]
+201	at	kwa kuri	qua[r] à !	ku, mu	khu-, mu-	i, -ho, ku, kuri, kwa	i, ku, kuri, kwa	[[]]	[[]]	ku	[[]]	[[]]	pa	[[]]	[[]]
+202	in	mu-	Im	mu	mu-	mu, muri	mu, muri	[[]]	[[]]	mu	[[]]	[[]]	[[]]	[[]]	[[]]
+203	with	ne	An ante and	ne	ne	na	na	[[]]	[[]]	naa-	na	[[]]	ndi	[[]]	[[]]
+204	and	kandi, na	An ante and	ne, na	ne	na, no	kandi, uteko, na, no	[[]]	[[]]	nè, kàdi	na	[[]]	ndi	nipo, kwiisa	[[]]
+205	if	iyo	Sei, iv	ssenga	[[]]	niba, iyo, nkaho	asangwa, iyo, namba, ni, iyaba	[[]]	[[]]	ne	[[]]	[[]]	nkati, nkani, pokhala	nambaga	[[]]
+206	because	kuko	Cause	kubanga	khulwa, okhuba, shichira	kuko, kubera [kubêera]	kuko	[[]]	[[]]	bwalu	[[]]	[[]]	chifukwa	pakuva	[[]]
+207	name	i-zina	Creime	erinnya	eliira	izina [izîna]	i-zina	[[]]	[[]]	dîna	íshíná	[[]]	dzina	liina	[[]]
