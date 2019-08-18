@@ -13,7 +13,7 @@ g	Ⲍ	ⲍ	7	Zēbta	Ζ, ζ	z [z]  'Gji'	↔ Ⲅ	ⲅ	3	Gamma	Γ, γ	g [ɡ] Ϭ Ⲍ�
 G	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ '['
 h	Ϩ	ϩ	_	đHōri	(none)	h [h, ħ] ϩⲟⲟⲩ : jhourg>day ħ=TH/DH ! QED * 100 𓊪𓂧𓅱𓐍=ⲫⲁϩⲟⲩ=buttock
 K	Ϧ	ϧ _	Khay	(none)	x [x]  חה Schlaf~ ⲥϧⲏⲗⲟ, scrit~ⲥϧⲏⲧ⳼ (write)
-H	Ⲏ	ⲏ	8	hĒta	Η, η	ē / e [eː] *huηn	 Ϩϩ	Hōri:djhour!  ϢⲎⲦ = cent   N component (russian)  
+H	Ⲏ	ⲏ	8	hĒta	Η, η	ē / e [eː] *huηn[t]	 Ϩϩ	Hōri:djhour!  ϢⲎⲦ = cent  N/T component (russian)  
 ;	Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ	th / t' [tʰ] circle turn
 i	Ⲓ	ⲓ	10	zaIn jYotan 	Ιj, ι	i [iː~j]  Mdj Ϫ	ϫ	ʒ Ϩ ϩ djour!
 k	Ⲕ	ⲕ	20	Kabba	Κ, κ	k [k] ↔ ϦⳈ  ϧⳉ ↔ ϙ koppa	q !
@@ -3680,11 +3680,11 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲙⲓⲗⲗⲓⲟⲛ ⳼ ⲙⲓⲗⲓⲟⲛ 	 mile
 ⲙⲓⲗⲓⲧⲟⲥ 	 🇬🇷 f. red earth, red ochre,ruddle, red lead
 ⲙⲓⲟ⳼ 	 	w/ suffix miok , pl. miwten ,miwou ; be hale, often implyinggratitude; bravo
-ⲙⲓⲟⲕ ⲧⲟⲛⲟⲩ 	 much thanks
+ⲙⲓⲟⲕ ⲧⲟⲛⲟⲩ 	 much thanks ++++ !!!!!
 ⲙⲓⲟⲕ ↔ ⲙⲓⲟ⳼ 	 bravo
 ⲙⲓⲟⲗⲟⲛ ↔ ⲙⲓⲟⲗⲱⲛ 	 bitumen
 ⲙⲓⲟⲗⲱⲛ , -ⲟⲛ , ⲙⲏⲟⲗⲟⲛ 	 	n. bitumenextracted from embalmed corpses
-ⲙⲓⲟⲱⲧⲉⲛ ↔ ⲙⲓⲟ⳼ 	 bravo
+ⲙⲓⲟⲱⲧⲉⲛ ↔ ⲙⲓⲟ⳼ 	 bravo, ~meisterlich
 ⲙⲓⲟⲱⲟⲩ ↔ ⲙⲓⲟ⳼ 	 bravo
 ⲙⲓⲥⲓ , ⲙⲁⲥ	 , mec
 ⲙⲁⲥ- 	 	bear, bring forth; vtto bear young, beget; qual. to be newlydelivered, give suck
@@ -3699,12 +3699,12 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲙⲓⲥⲓ ⲉⲡϣⲱⲓ 	 bring forth
 ⲉⲣⲙⲉⲥ 	 bring forth
 ⲙⲁⲥ- , ⲙⲉⲥ- 	 p.c. bearing, producing
-ⲙⲁⲥⲛⲟⲩϯ 	 f. the mother of god
-ⲣⲉϥⲙⲓⲥⲓ 	 m. one who bears
+ⲙⲁⲥⲛⲟⲩϯ 	 f. the mother of god, 𐌼𐌰𐌲𐌰𐌸𐍃 Magd=virgin Maria
+ⲣⲉϥⲙⲓⲥⲓ 	 m. one who bears, ⲙⲓⲥⲓ:mnaise
 ⲙⲉⲧⲁⲧⲙⲓⲥⲓ 	 f. barrenness
-ϫⲓⲛⲙⲓⲥⲓ 	 m. birth, generation
-ⲙⲁⲥ 	 m. young (mostly animals or birds)
-ⲙⲁⲥⲓ 	 m. young animal, calf, bull, cow
+ϫⲓⲛⲙⲓⲥⲓ 	 m. birth, generation; gynmnase! <<
+ⲙⲁⲥ 	 m. young (mostly animals or birds); Maise
+ⲙⲁⲥⲓ 	 m. young animal, calf, bull, cow; Mast…
  ⲙⲏⲥⲓ 	 f. one with child; child-birth
  ⲙⲏⲥⲓ 	 f. offspring of mony, usury,interest
 ϭⲓ ⲉⲑⲙⲏⲥⲓ 	 take interest

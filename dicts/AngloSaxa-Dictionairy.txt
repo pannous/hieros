@@ -484,6 +484,7 @@ pawns		Bauern 𓇏 fen~pawn, fern, barn, farm, peasant  M20 ↔ phoeni?  <ƒ?>  
 Pferd		𓃗  ibr -> hippor hyper Hüpferd zebra
 pull		poul<?< povleče ‎повлече ‎(po+vleče : “to pull" ) pullen ‎(“to drink”) ↔ pour, German pulen ‎Icelandic púla ‎(“to work hard, beat”) ?? 
 pure		® pur -> pour pull purple? purr-cat kata-rina katharsis
+purpur 	purpurina=bright brokat blaisk Fleck flicker ~ glitter 
 pour		® ~ pur pull pürieren
 Platte 		Brett	board	brdt<->plt plate, Platte	Wild-Bret/Bird
 Pleite		פליט (Palit, [pa'lit])	pleta (Flucht)  ↔ Greek / EG
