@@ -9,7 +9,7 @@
 
 𓁷𓂋𓏏𓇯 	Airden, garten Eden Erden, Afrisir Oberer officer Aryer 𓁷𓂋𓇯𓊋 <<<<<<<<< cepa afa af ob 
 
-A:	D42	𓂝𓄿𓊪	𐤂Armע ɹ *דרא!  <> gabϪ,ḫan Pα<>port,fort! अस aṃs ὦμ	D36	𓂝 O(ben) tra/trou/torm!? shand<>scant?scent æœør 𓂣
+A:	D42	𓂝 G1𓄿𓊪	𐤂Armע ɹ *דרא!  <> gabϪ,ḫan Pα<>port,fort! अस aṃs ὦμ	D36	𓂝 O(ben) tra/trou/torm!? shand<>scant?scent æœør 𓂣
 B:	D58	𓃀	mBein vEIn wain! ƃþėn by	 vs	ƥleɠ.ƥoeđ 𓂾jambone𓄹𓄻<>schien!-ion! pod,ped,feet  ב𓊪 Bethar 𓉐
 B:	X1	𓏏𓏏Breδt  : Brust, Bread, Brot, Brut 𓏏bt! but bitte apt:fit  (B.lasphemie!) <> 𓏏𓏏TiT 𓏏 TING/DING
 C:	V13	𓍿𓎟𓎡𓋴𓎛코	Ceh ⵛkappa teTHer TS/ST! ṣādē 𐤑 gelicpelt (toe:tztho chinese: x +q+ z c? F??) || δu vs χ vs 𓎡 vs 𓊃 ज़ z/j cyou 𓎡
@@ -55,6 +55,7 @@ Extra:
 
 𓀁 Me(in) mon
 𓀀 he'er  𓇋𓀀 I iḫe 	𐦂 Letter HI! 
+G1	   	𓄿 Geier>Hair>Harbicht/Horus~Heart𓄣>AIR 
 G1	   	𓄿 ﻝﺍ(V )Air,flyer!,vol𓄛,al'phαir,fair,Voir,oi,Whai,Wa,Aar,aa,ahr,er G1air 𓄿𓎛FL!
 G1	   	𓄿 ὄρνεον air.niǎo voile vol voigt voire! vieil 𓄿鸟 -> 𓅃 gnosium != gymnackt ;) nacht!  歹 dǎi.mon 𓐍
 D28		𓂓	KA Kan / 𓂓𓂸𓃒	 	:D28    𓂓KAN/BAN/VAN王 MAN馬
@@ -315,7 +316,8 @@ D54 𓂻 gIr [je:geh/zieh/go/come]    𓂻    𓂼   => W25ƒ=>W26    𓏎 Thurn
 D55 re? [turn-back]   𓂽   => F25 Re plus/minus
 D56	𓂾 jambe𓄹/shin=Schien𓄹 -ion/-ious/-in ⚢ 𓇋𓇋𓏏𓂾   jump 𓏠 𓂾 vs 𓃀  ƥleg.ƥoed  JI=儿 丿匕 jambie jir𓂻𓃀 leg: halak@Heb!
 D56ƒ?	𓂾 rWuAT=> FuTh [come] root/raid/run feet=leap Pod ƥoeđ ®  <> jambe 
-D57 𓂿 cheat<cut 
+D56	𓂾 POD
+D57 𓂿 fight~foot<POD cheat<cut 
 D58 𓃀 'B' ProĐT>ƥlaɠ.ƥoeđ  𓃀 Bei(n): 𓍋𓃀𓈋𓊖 aBYdos 1. prothos?
 D58II 𓃀 bEIn  >>EI<<  excIte 
 D59 𓃁 bo/pu/flu   𓃁  boast,purify OK
@@ -552,11 +554,13 @@ M1	𓆭 JUniper:ya`owr,yew,jew-tree,Ashur 𓂝𓈙𓐎 aspen Esche ʻēṣ,ʻi�
 M1	𓆭 junIPER->conifer fir <> arbra <> hebrew : jewbrw𓆭𓅓𓅱𓉐 tent  <> 𓆱 ACHt,eight 8 Äste 木* MU meshu 术 𓄠𓄟 wood=mote@Portu
 M1	𓆭 arab abraham=wood-home=tent <> ibrahim <> hebrew  JU:jewel,YAmnt: diamant/charmant!
 M2	𓆰 Hanf/𓎛𓆰𓈖/hemphy/NatHurb Herbaum  𓆰𓆭 	nat.šar nat.iua 𓆶 nat.ive!	𒊬 shrubs Henna holy Henbane nightshade!
+M2	𓆰 thread³ > 𓏏𓂋𓇋𓆴𓆰 reed sreed script
 M3	𓆱 doug! Twig:stock:stick:Zweig QED² 1.duck 2.sanduq
 M3	𓆱 R  horn 𓎛𓆱𓈖 𓊨𓏏𓆱 stair ~ chair ⇔ стул ⇔ Stuhl 𓎙𓏤𓆱 spool/reel  𓎛𓆰𓈖𓈖𓆱 Hammer
 M3	𓆱 grät? √cut!?! (br)an.Che' ACHt,eight 8 Äste Ast [often silent!] << 𓆱 杈 chà 支 zhī 叉枝 chāzhī Gabel!  II fork:furch  <??> 
 M4	𓆳 Ja,IA=Mon'd Jahr   𓆳  Jahre 𓆵  Jahrtit/Tia? 𓆴 tIUte 𓆶 IUphit 𓆶 ♃ YOUth 𓆶  => eve  M5 M5B 𓆴 M6 
 M4	𓇋𓆵𓇳 itYeaRaSun (iteration) 𓆵 +++ Nil/nir/nor𓈖𓂋neuer  ++++++  chrono𓂋𓇋𓆵𓇳citera
+M5  𓆴 yeard/yield 𓇋𓆴=field <> 𓆵𓆴 Jahrtit 天time<>tian田 𓏏𓂋𓇋𓆴𓆰 …reed
 M5  𓆶𓆴 ال وقت ouaqpt.ma = ePoche / Woche TIME QED  𓂋𓈖𓊪𓏏:greens,young,fresh:khubdarخضار  ♃IUphit   <> sym.ptom
 M7 	𓆶 وقت ~  'what?' ++ <> vege?[table] <> water?   Dui-JA? 对? nat.šar 𓆶=𓆰    𐀒𐀷 Q-Wo : young
 M8++ SPan-swamp   𓆷  => != M20   𐦓 Letter 'SvA'
@@ -740,6 +744,7 @@ O51 𓊘 [granary] ~court[ier] 𓊘 <> 𐂜 Quart  / citadel?  gvert<>gerste
 
 P Phoenitische Pötte Boote boats P/B
 ------------------------------------
+P1  𓊛 Qapanaut 𓊶 𓊪 𓈖 𓏏 𓊛  Shiponit shâphoina ship/boat@Punith <> captain 𓊶𓊪𓏏𓈖 
 P1  𓊛  𓊜   syra סירה  زورق  sourok  	back 𓊛 Bark.a.sea Barkasse barka=ferry ++
 P2  𓊝		ship 𓋴𓐟𓄿𓍿𓊠 shâphoina ال سفينة   𓎛𓂝𓅱𓊞𓏥  <> 𓊡 phn   𓊣𓅱𓊝𓏥 shophan   𓅮fleet
 P3  𓊞  𓊟 ~ P30    araboan אניה  ania<>ny:nau
@@ -1073,7 +1078,7 @@ Aa2		𓐎  [vis]cera.tops! <> cephal:( scheitel Schopf Schöffel SAPHAH
 Aa2		𓐎 wab/wahha💧 𓍬𓏏𓐎 wound!! waj… ARAB! waid𓂾 …  <> weak 𓁷 אףא ?
 Aa5		𓐑 UL/RU <> Leva/Yew?   𓎛𓊪𓅱𓐑𓃒   𓐑𓏏𓊤 Ruder  <> 𒇳Lal lil' 𒇲 r R !
 Aa5		𓐑 HONM HM ArBrU-Ham hebrew…	  𓐑   ~ Z11
-Aa7	    𓐓#	~r: square <> KUR=court? Aa7A	    𓐔 <> bow/horn/ob?
+Aa7	    𓐓#	~r:  stair/square <> KUR=scourt? Aa7A	    𓐔 <> bow/horn/ob?
 Aa8=>9	𓐕 dust/sand/cent  𓐕𓏏𓏏=estate=𓆓𓏏𓇾 = dastagird 𓆓𓏏𓊖
 Aa9		𓐖 #SPAce spacial spacious    Aa9A		    𓐗
 Aa11	𓐙 ma/ju.steer???<<    𓐙
