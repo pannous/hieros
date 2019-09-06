@@ -1,5 +1,7 @@
 δ λ Ϛζ α δ ~ σ ȳ ł := ɽ/ר/𐬭/λ/r/Ր/l/ƪ
 
+https://coptic-dictionary.org/results.cgi?quick_search=house
+
 Majuscule	Minuscule	Numeric value	Name	Greek equivalent	Translit. (IPA)
 a	Ⲁ	ⲁ	1	AlphAin	Α, α	a [a, ʔ, ʕ]
 b	Ⲃ	ⲃ	2	Bētau	Β, β	b, v [β~v] 
@@ -955,7 +957,7 @@ apodexic ↔ apodeixic - proof
 
 ⲁϩⲟ , a'HOI.m 
 ⲁϩⲟⲣ ↔  ⲁϩⲟ 	 treasure: a HORT+++
-ⲁϩⲟ , ⲀϨⲞⲢ  HOUSE  ~ POR[t] a ϩⲟⲣ ~ DOOR/TOR (?)
+ⲁϩⲟ , ⲀϨⲞⲢ  HOUSE  ~ POR[t] a ϩⲟⲣ ~ DOOR/TOR (?) ⲀϨⲞⲢ:PTOR?
  (24b) ⲙ. ⲧⲣⲉⲁϣⲩⲣⲉⲑ ⲧⲣⲉⲁϣⲩⲣⲑⲭ ϣⲧⲟⲣⲉ	house , ⲁϩⲟⲣ pl. ⲁϩⲱⲣ & ϣⲍ ⲁϣ ⲡⲗ	 
 ⲁϩⲱⲣ ↔  ⲁϩⲟ 	 treasures  ~[tr]ⲁϩⲱⲣ~easure ↔ Azur
 ⲁⲛⲁϩⲱⲣ 	 pl. store-houses : por/tor/ϩⲱⲣ
