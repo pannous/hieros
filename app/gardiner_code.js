@@ -1,1 +1,0 @@
-./script/gardiner_map_manuel_de_codage.js
