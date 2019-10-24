@@ -1,4 +1,4 @@
-𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓈙𓏏𓏌𓅱𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃 𓀁𓀀𓂻𓏛
+𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓈙𓏏𓏌𓅱𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃 𓀁𓀀𓂻𓏛  #𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
 
 ↔ ɠ 𓊾 ſϝƒ ϛ δ ð đ ɗ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ţ ʃ=š ɟ ι ɽ ṛ ɹ~ꜣ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḫ ħ ḩ ɦ ꜣ ḏ ṯ š ð þ ϋ υ  ſ=<meta>f+s  Þþ pthorn?
 
@@ -41,7 +41,7 @@ Q:	N29	𓏘𓈎 	Quarꜩ	Kuh.erz Ɠum Ger.ste s'quer <> 𓎼𓏘𓌽
 R:	D21	𓂋 ore@lat=👄 eaR 𓂋 Ähre oriz Reis Kornt gură! 𐦑KHA arse rot=Mund@Rus ϱρрот round ro/'ài®  الفم 𓌨𓂋𓂋χόνδρ genus! grain green grin grim keRn χοῖρ<> phRho 𓍯𓂋𓂌𓂍𓇳𓁹 𓁺 𓁻 𓁼 𓁽 𓁿 rayns *[g]yore at 1800/1200/90BC
 R:	D21	𓂋 MRT/LM: aL'Mut : 𓂋𓅱𓅐!!   <> 𓌳𓅱𓃬 LW/MRW  𓍯 rogue vR wR br rb rw würg
 S:	S29	𓋴	S-ence 𓍲 ß Γ ʃ δ 𓏏! Ⲋ𓆓 GS: clo.the se' 𓋴 Kissen,cushion,curse𓊭 <> 𓏏 S! < TH < T < D
-T:	X1	𓏏	Tee/Dell/DING/THING iSm IT EAT! BRδeiidt 𐀴 bThi ψ-ϑ! 𓍿tChEi(n) 𐀯 山 (b)Thai  => -ess S <> 𓏏 te(ll) + (t)ell 𓎠 Tal / all 𓎟 vs Tasse 𓎡TC𓍿TO𐦜𓄑THCZ 𐀲 kadd=jug   𓎛𓏏𓏏=Herz(herts) tick𓏴tag𓏵Tag!  P𓎡=portion/ration!
+T:	X1	𓏏	Tee/Delle/DING/THING iSm IT EAT! BRδeiidt 𐀴 bThi ψ-ϑ! 𓍿tChEi(n) 𐀯 山 (b)Thai  => -ess S <> 𓏏 te(ll) + (t)ell 𓎠 Tal / all 𓎟 vs Tasse 𓎡TC𓍿TO𐦜𓄑THCZ 𐀲 kadd=jug   𓎛𓏏𓏏=Herz(herts) tick𓏴tag𓏵Tag!  P𓎡=portion/ration!
 U:	G43	𓏌𓅱𓍢𓏲	Ων -(n)oun Ü hUhn ωuν 𓅳 hENn 𓍢 hundert 100 و=wun ق bun ph ف WUN 𐀸 wound 𓏲 (L)AN(d/t) 鸡 jī cui zhuī 隹 Kücken chicken 
 V:	M17	𓅱 V' Vł!!!  ννν fun!  𓇋𓇋 VY 𓇋	Feather -> ve -> wh 𓇋 	𓅓Mwū乌  stark gepresstes𓄲 '~ł/n
 W:	G43	𓅱𓍢𓏲𓉔	ωhν ωhr µω/ωµ D𓎛wHr! wΩm!  hwn M -mos µn Wn HN 'N	𓍢𓏲ϱ <> R! 𓍯 wr -> wa wo
@@ -55,7 +55,7 @@ Extra:
 
 𓀁 Me(in) mon
 𓀀 he'er  𓇋𓀀 I iḫe 	𐦂 Letter HI! 
-G1	   	𓄿 Geier>Hair>Harbicht/Horus~Heart𓄣>AIR 
+G1	   	𓄿 Geier>Hair>Harbicht/Horus~Heart𓄣>AIR>AAR>al/la! 
 G1	   	𓄿 ﻝﺍ(V )Air,flyer!,vol𓄛,al'phαir,fair,Voir,oi,Whai,Wa,Aar,aa,ahr,er G1air 𓄿𓎛FL!
 G1	   	𓄿 ὄρνεον air.niǎo voile vol voigt voire! vieil 𓄿鸟 -> 𓅃 gnosium != gymnackt ;) nacht!  歹 dǎi.mon 𓐍
 D28		𓂓	KA Kan / 𓂓𓂸𓃒	 	:D28    𓂓KAN/BAN/VAN王 MAN馬
@@ -466,7 +466,8 @@ G1	𓄿 Aar=>air,är,er,ara 𐌰𐍂𐌰[Eng erne] eagle   𓄿		G2𓅀 vs 𓅂 
 G3  𓅁 -Lair Tisch-ler … -gair -gar -ger -er	 -mer -mair: merity Mayor Sir chapel chaperon ~cairc? sick macker???
 G4	𓅂 1. #tyw tian taner->𓋀𓅂 Westerner 
 G4	𓅂 2. AhnFANg VAN Fin[gk] END CoreVANgen UrAhnen 'Añ-fange  𓅂 vs 𓅐  𓄿
-G5	𓅃 Horus Har.bicht    𓅃    𓅅 beak "Bayek@AssasinsCreed"   𓅊    𓅌  G12 𓅎 Har.ty?
+G5	𓅃 Horus Har.bicht 𓅃 ⲁⲃⲟⲕ beak:    
+G6  𓅅 beak "Bayek@AssasinsCreed" ⲁⲃⲟⲕ ↔ ⲁⲃⲱⲕ 	black crow 𓅡𓎡𓅂 ⲃⲱⲕ   𓅊    𓅌  G12 𓅎 Har.ty?
 G7  𓅆 Greif [god]Ray right 𓅆𓏏𓏮    غَرْب ‎(ḡrb, “west”) <> West 𓋀 𓊿
 G14	𓅐 𓂋𓅱𓅐 *MRT   𓅓𓏱𓏏murdar@PERS aL'Mut+++ Vultier (vol/woll/fall(k)) 𓅐vulva~mumu Mutti 𓅐  𓅑 GAIA 
 G16 𓅒 'Nebty' "Two Ladies" Nekhbet&Wadjet 𓋞2   𓅒  Nepthun! vs shubit
@@ -529,7 +530,7 @@ I6	𓆎 Km(t):Kermit/Cometh/KHEM Kamm comb chomet=lizard/lie_@HEB!𓆊𓆌 ☄ �
 I7  𓆏 I8	𓆐 he.qua heck,hock  qaulquap  𓆐 bhockpole;)  Heqat frog goddess OK 100.000  vs Unk
 I9	𓆑 φίδι fídĩ phython=PhSn 𓆑 ⲑⲁ ↔ ⲡⲁ SPhn 𓋴𓃀𓇋𓆚 serpent 𓊃𓂋𓏏𓆘
 I10	𓆓 𓆔 DJr/Dschlange 'Qr'! ϩⲟϥ  kur cjar sharpe साँप serpent 蛇 shé serpa>copra:
-I12	𓆗/𓆚 CopRa 𓇴𓏤 'Re' קוברה corpus christi JuDJ=judge copper@SEM!  vs serpent 𓋴𓃀𓇋𓆚 𓊃𓂋𓏏𓆘  << 𓋴𓂋𓆑𓊮𓏜
+I12	𓆗/𓆚 CobRa 𓇴𓏤 'Re' קוברה corpus christi JuDJ=judge copper@SEM!  vs serpent 𓋴𓃀𓇋𓆚 𓊃𓂋𓏏𓆘  << 𓋴𓂋𓆑𓊮𓏜
 I13	𓆘 Fortuna urania! [Uraeus]		𓆗 Copra:copper=nachash:hhanash𓆚!
 I14	𓆙 𓆑𓈖𓏏 Hhnatter  𓆑𓈖𓍿𓆙 snake  𓋴𓃀𓇋𓆚 serpent  Sch.lange -> Cobra  𓆚  [נחש hhanash@SEM ++] << 𓋴𓂋𓆑𓊮𓏜
 
@@ -550,7 +551,7 @@ K8	𓆢 Narmer    (cat fish)
 
 L	Beet-L
 ----------
-L1	𓆣 #KFR Käfer 𐁉 CFR/SFR   𓆣  #BDT scarabeetle @ LAT+FR!	 breedta marias
+L1	𓆣 #KFR Käfer 𐁉 CFR/SFR capāre>chever!!  𓆣  #BDT scarabeetle @ LAT+FR!	 breedta marias
 L2	𓆤 	Humm.Bee(tl) #BIT  Biene!! 𓃀𓇋𓅱𓆤<>𓆥 Deborah dabbur *stebbyr 𓌃 hornet Horneith BeeNeith@North vespãon avis.pón
 L2A	𓆥 'subit'    𓆥 Jupiter?
 L6	??cpd/tauch-altar?  𓆩  VS    𓈔	N34  𓈕					
@@ -575,7 +576,7 @@ M8++ 𓆷 SPan-swamp    => != M20   𐦓 Letter 'SvA'  sudd (سد) 𓊨
 M9	𓆸 fen/pan/phy/pflan/flown/blume [Lotus]   𓆸	M10A  𓆹	 𓆺	 flower 𓅘𓎛𓃀𓏏𓆹 bud  الزهرة zuhara!?
 M9	seschn(sehr.schön) שׁוֹשַׁנָּה 𓊃𓈙𓈖𓆸:Susan~thousand 1000+1 𓆼 lily=Susan <> 𓇑𓇓𓄤 Seggen sedge
 M11 𓆻 press! 𓄲 <<< M11ƒƒƒƒ 𓆻 *.tau[rn]  entern? ofter=offer 𓆻 ? =>   over.turn 𓄲
-M12 𓆼 ⚸ *cen/tau 1.000 qiān 千 𓎡𓎡  MAß ⲙⲁϣⲓ muwazana = 𓅓𓂝𓆼 match
+M12 𓆼 ⚸ *cen/tau 1.000 qiān 千 TCH 𓎡𓎡 𓅓𓂝𓆼 match MAß ⲙⲁϣⲓ muwazana +++
 M12 𓆼 ⚸ #kha𓎡𓎡 Calla καλλι(schön) colour 千 1.000 qiān ~ 𓐍𓆼𓄿𓅱 giant Chilli? vs klein Karol Xeno!? kTaler $$?
 M12	𓆼 lily=sosan@π Susan~thousand:Tausend! #TauSand? [OEg 𓇑𓇓𓄤/𓊃𓈙𓈖𓆸] שׁוֹשַׁנָּה sehrschön! *ZeusAnna
 M12	𓆼 (χί)Laila~Lilie(lotus) 𐇶𓆸𓇉☮ LA𓄿r 𓋴𓆼𓇋𓇋𓄓  𓆼 1000 χίλιοι~leylun=night 夕xī !! +++  χλλaf:Schlaf☾(mohn)🎜lullaby QED
@@ -783,8 +784,9 @@ R Rest Regale
 R1 𓊯    𓊰  𓊱
 R3 𓊲  𓊳  𓊴
 R4 𓊰 𓆼𓐍𓏏𓏏 Lichter lächter <<<  SCHLICHT! <> Schlacht@altar … schlecht schlucht …
-R4 𓊵 hotep هَادِئ‎ hādiʾ! 𓉔𓂋𓏏𓀁ruh:hourtep…!  𓊵 𓊪 𓏏 'peace' 1900BC Ophis@greek 하다 𓊵hada=𓊵have/be
-R5  𓊶 Kaba-cover@[Coppa]Kabana@Levant חפף!!! QED*10  𓊶 VS  𓊷 ++
+R4 𓊵 satisfy < 𓋴 𓊵 𓏏 𓊪 𓏜 sHotepy!
+R4 𓊵 hotep هَادِئ‎ hādiʾ! 𓉔𓂋𓏏𓀁ruh:hourtep 𓊵𓊪𓏏 'peace' 1900BC Ophis@greek 하다 𓊵hada=𓊵have/be
+R5 𓊶 Kaba-cover@[Coppa]Kabana@Levant חפף!!! QED*10  𓊶 VS  𓊷 ++
 R7 𓊸 Ram = Bock 𓃜 Geweih(rauch)
 R8	𓊹 GOD 𓄤𓊹 nTr/Natur𓇓/AN.dru/In.dra/IN.RI ㊥  𓊹 incense=𓋴𓊹𓍿𓂋𓈒 1000 names? 𓊹𓌨 尸shī(corpse) 'necro𓊹𓌨𓂋𓈉polis 𓊹𓍿𓃀𓊖7-Mütter?
 R8	𓊹 𒀭Nature 𓈖𓏏𓊖 = 𓈖𓇑𓇑𓏏𓇳 𓈖𓂋𓏏𓅐 Mother Natura νulture ν:Ν~N -> Na𓊹Ture 𓊹 Theo->dio->IO fittra=nature:nVitra+++
@@ -898,8 +900,9 @@ T35	𓌱 knarzen genesen 𓐍𓈖𓌰𓅓𓂉 ! 𓂊
 
 U Utensil util
 -------------- 
-U1	𓌳 מַקֵּל maqel Mast ל Ma/Mer/Naun/Neu:L 𓌳𓌈𓃲 niú 牛 𓌳לLamed! 𓌳𓅱𓃬   new-land𓌳𓄿𓅱𓏏! [SICʡʔˀ Stig'Ma] 𓌳 vs 𓌴𓆓Ⲋϛ!! MiNjaL
-U2	𓌴 SICkLe!  𓊃𓐍𓌴𓂡QED   clear!  VS 𓌜!!
+U1	𓌳 SICkLe < secāre : 𓊃𓐍𓌴𓂡 / 𓄿𓋴𓐍𓌴 QED+++ [SICʡʔˀ Stig'Ma] 𓌳 vs 𓌴𓆓Ⲋϛ!! MiNjaL
+U1	𓌳 מַקֵּל maqel Mast ל Ma/Mer/Naun/Neu:L 𓌳𓌈𓃲 niú 牛 𓌳לLamed! 𓌳𓅱𓃬   new-land𓌳𓄿𓅱𓏏! 
+U2	𓌴 SICkLe!  𓊃𓐍𓌴𓂡QED   clear!  VS 𓌜!! סערפּ,checken,sechen>sehen:
 U3  𓌵 Meye  𓌵  𓌵  眉méi=𓂃    LOOK LIN
 U4  𓌶 Ma(u)  𓌶    𓌷 Mvoyer וירא
 U6	𓌸	(thAU')MER 𓌸 𓌹 𓌺 𓌻𓌼 ☿ marry *mer-, Amur♡𓈗 𓌸𓂋𓈘  aimer PIE *(s)mer QED ++ HamMerter𓏱 𓏠‎mournt? -ment mind
@@ -1197,7 +1200,7 @@ Z3 𓏪 𓏥 𓏼 𓏨  -dra / -ten? Güt-te [-ness,-heit]   missing 𓏥 = 𓏤
 T20 OAN   𓌠 : 1  one
 T21 [harp]oon 1    𓌡
 
-NUMBERS
+NUMBERS 𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
 ALL align with coptic, most with Beja!
 
 0 cheiro 𓂧 'empty-hand' zero
