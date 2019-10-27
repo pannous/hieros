@@ -73,7 +73,7 @@ langs="deutsch	greek	greek2 geez	pronounce	coptic	number	egypt	phoenician	chinan
 
 function convert(text,alphabet) {
 	map=maps[alphabet]
-	if(!map)return console.log("alphabet",alphabet,"not in",Object.keys(map))
+	if(!map)return console.log("alphabet",alphabet,"not in",Object.keys(maps))
 	return text.map(c=>map[c]||c)	
 }
 
