@@ -1,5 +1,3 @@
-extensions v1.0.0 loaded
-/me/dev/script/python/WiktionaryParser
 1	的	de/di2/di4	DE(von:der) 的 地 底	DE/(possessive particle)/of/really and truly/aim/clear	的=⿰白勺  bai2 shao2		
 2	一	yi1	EYIN	EYIN/one/1/single/a(n)	一一= 	yiek=1	
 3	是	shi4	SEI	SEI/is/are/am/yes/to be	shì是=⿱日𤴓  ri4 zheng1/zheng4		
@@ -69,7 +67,7 @@ extensions v1.0.0 loaded
 72	没	mei2/mo4	M¬	MONO¬/(negative prefix for verbs)/have not/not/drowned/to end/to die/to inundate	没=⿰氵殳  shui shū		
 77	定	ding4	𓂡DO当	𓂡DO当?/to set/to fix/to determine/to decide/to order	dìng定=⿱宀𤴓  mián zheng1/zheng4		
 73	动	dong4	𓂡DO当	𓂡DO当?/to use/to act/to move/to change	动=⿰云力  yun2 li4		
-71	当	dang1/dang4	𓂡DO当	𓂡DO?®/to be/to act as/manage/withstand/when/during/ought/should/match equally/equal/same/obstruct/just at (a time or place)/on the spot/right/just at/at or in the very same.../to pawn/suitable/adequate/fitting/proper/replace/represent	当=⿱[[小|⺌]][[彐]]    xiao3  xiǎo     jì,kè,kí,계  		
+71	当	dang1/dang4	𓂡DO当	𓂡DO?®/to be/to act as/manage/withstand/when/during/ought/should/match equally/equal/same/obstruct/just at (a time or place)/on the spot/right/just at/at or in the very same.../to pawn/suitable/adequate/fitting/proper/replace/represent	当=⿱小|⺌彐    xiao3  xiǎo     jì,kè,kí,계  		
 75	起	qi3	QǏR^	QIR^/to rise/to raise/to get up	qǐ起= 		
 76	看	kan1/kan4	CEEN	~CEEN/to look after/to take care of/to watch/to guard/it depends/think/to see/to look at	看=⿸手目  shou3 mu4		
 78	天	tian1	DAYN	DAYN/day/sky/heaven	tiān天=⿱一大  一 da4/dai4		
@@ -278,7 +276,7 @@ extensions v1.0.0 loaded
 302	设	she4	SET	to set up/to arrange/to establish/to found/to display	设=⿰讠殳  yán shū		
 303	式	shi4	SIGN	type/form/pattern/style	shì式=⿹弋工  yi4 gong1		
 304	色	se4/shai3	SHINE SHADE	color/look/appearance/color/dice	sè色=⿱⺈巴  dāo ba1		
-305	路	lu4	RUE	(surname)/road/path/way	lù路=⿰[[足|⻊]][[各]]    zu2  zú     ge4  		
+305	路	lu4	RUE	(surname)/road/path/way	lù路=⿰足|⻊各    zu2  zú     ge4  		
 306	记	ji4	THINK	to remember/to note/mark/sign/to record	记=⿰讠己  yán ji3		
 307	南	nan2	南 难 ®	south	南=⿱十⿵冂𢆉  shí  jiōng ?	difficult man 男 mandarin?	
 308	品	pin3	bins 品	conduct/grade/thing/product/good	pǐn品=⿱口吅  kou3 ?		
@@ -314,13 +312,13 @@ extensions v1.0.0 loaded
 340	识	shi2/zhi4	SHIR SAVOIR	to know/knowledge/to record/write a footnote	识=⿰讠只  yán qi2/zhi1/zhi3		
 341	候	hou4	hours;)	wait	hòu候=⿲亻丨⿳ユ矢,⿲亻丨⿳乛一矢  rén shù gǔn   ? shi3 yì  rén shù gǔn   yi3 一 shi3		
 342	带	dai4	δon dzone < SYN/TONG	band/belt/girdle/ribbon/area/zone/region/wear/carry/lead/bring/consists of/show/and	带=⿳卅冖巾  sa4 mì jin1		
-343	导	dao3	DUCE!	to transmit/to lead/to guide/to conduct/to direct	导=⿱[[巳]][[寸]]    si4     cun4  		
+343	导	dao3	DUCE!	to transmit/to lead/to guide/to conduct/to direct	导=⿱巳寸    si4     cun4  		
 344	争	zheng1	争	struggle/fight	争=⿱⺈⿻⺕亅  dāo  jì,kè,kí,계 jué		
 345	运	yun4	usen	to move/to transport/to use/to apply/fortune/luck/fate	yǔn运=⿺辶云  chuò / zouzhi yun2		
 346	笑	xiao4	Ciao ;) 笑	laugh/smile	xiào笑=⿱⺮夭  zhu2 yao1		
 348	风	feng1	WIND	wind/news/style/custom/manner	风=⿵𠘨㐅  fēng ?		
 349	步	bu4	POD 	a step/a pace/walk/march/stages in a process	bù步=⿱止𣥂  zhi3 ?		
-350	改	gai3	CHANGE	to change/to alter/to transform/to correct	gǎi改=⿰[[己]][[攵]]    ji3     pū  		
+350	改	gai3	CHANGE	to change/to alter/to transform/to correct	gǎi改=⿰己攵    ji3     pū  		
 351	收	shou1	SHOU 手 乍 又 	to receive/to accept/to collect/in care of (used on address line after name)	shōu收=⿰丩攵  ? pū		
 352	根	gen1	GENE!	radical (chem.)/root/basis	gēn根=⿰木艮  mu4 gēn		
 353	干	gan1/gan4	GENE! Ergon … ?	dry/to concern/shield/to work/to do/to manage/manage/stem	干=⿱一十  一 shí		
@@ -480,7 +478,7 @@ extensions v1.0.0 loaded
 511	构	gou4	GOUR	Broussonetia papyrifera/to construct/to form/to make up/to compose	gòu构=⿰木勾  mu4 gou1/gou4		
 512	房	fang2	WIND-FANG fence	house	房=⿸戶方, ⿸户方, ⿸戸方  hù fang1 yì   hu4 fang1 yì   hù fang1		
 513	半	ban4	BIN2	half/semi-/incomplete/(after a number) and a half/half	bàn半= 		
-514	节	jie2/jie1	JOY join joint	festival/section/segment/point/part/to economize/to save/temperate	节=⿱[[艹]][[ㄗ]]    cǎo     ?  		
+514	节	jie2/jie1	JOY join joint	festival/section/segment/point/part/to economize/to save/temperate	节=⿱艹ㄗ    cǎo     ?  		
 515	土	tu3	土 DUST TERR	earth/dust	tǔ土=⿱十一  shí 一		
 516	投	tou2	Toss / throw	to throw/to send	tóu投=⿰扌殳  shǒu shū		
 517	某	mou3	MUCH mu 木	(used before measure word and noun) some/(a) certain/so and so	mǒu某=⿱甘木  gan1 mu4		
@@ -513,7 +511,7 @@ extensions v1.0.0 loaded
 545	严	yan2	严 ??? ≠ 产 chǎn = gene	(air or water) tight/stern/serious/strict/severe	严=⿳一⿰⿰丶丨⿰丨丿厂  一   diàn zhǔ  shù gǔn   shù gǔn  piě chang3		
 546	巴	ba1	巴 Bar ba pa	(suff. for certain nouns)/to hope/to wish/Palestinian/Palestine (abbrev.)/Pakistan (abbrev.)/Pascal (unit of pressure)	bā巴=⿴巳丨  si4 shù gǔn 		
 547	例	li4	line?	example/precedent/rule/case/instance	lì例=⿰亻列  rén liè		
-548	防	fang2	FEND	to protect/to defend/to guard (against)	fáng防=⿰[[阜|⻖]][[方]]    fu4  fù     fang1  		
+548	防	fang2	FEND	to protect/to defend/to guard (against)	fáng防=⿰阜|⻖方    fu4  fù     fang1  		
 549	族	zu2	ZOO ZU	race/nationality/ethnicity/clan	zú族=⿸⿰方𠂉矢   fang1 rén shi3		
 550	供	gong1/gong4	GOING	offer (information etc.)/supply/offer/sacrificial offering/trial statement/confession	供=⿰亻共  rén gong4		
 551	效	xiao4	SHINE? Show schein	imitate/effect/efficacy/imitate	xiào效=⿰交攵  jiāo pū		
@@ -581,13 +579,13 @@ extensions v1.0.0 loaded
 618	刻	ke4	KE4 CUT quarter course	quarter (hour)/(a measure word)/to carve/to engrave/to cut/oppressive	刻刻=⿰亥刂  hai4 dāo		
 619	乐	le4/yue4	Laugh / JOY / Lied	(surname)/happy/laugh/cheerful/(surname)/music	乐=⿱丿⿻㇗小  piě  ? xiǎo		
 620	否	fou3/pi3	foo boo foul! 不	to negate/to deny/not/clogged/evil	否=⿱不口  bu4/bu2 kou3		
-621	刚	gang1	GOING	hard/firm/strong/just/barely/exactly	刚=⿰[[冈]][[刂]]    gang1     dāo  		
+621	刚	gang1	GOING	hard/firm/strong/just/barely/exactly	刚=⿰冈刂    gang1     dāo  		
 622	威	wei1	VIR = Pow-WEHR? 	power/might/prestige	wēi威=⿵戌女  xu1 nu:3/nv3		
 624	状	zhuang4	1. strong 2. KING	accusation/suit/state/condition/strong/great	状=⿰丬犬  qiáng quan3		
 625	率	lu:4/shuai4/lv4	lead flux	rate/frequency/to lead/command	率=⿱⿻玄⿱丷八十,⿳亠⿲冫幺⿱㇒丶十   xuan2  bā ba1 shí yì  tóu  bīng yāo  ? diàn zhǔ  shí		
 626	甚	shen4	SEHR	very/extremely/more (than)	甚=⿱甘匹  gan1 pi1/pi3	真 zhen1 甚 shen4 实 shi2	
 627	独	du2	√dur? 独 ¬2¬	alone/independent/single/sole/only	独=⿰犭虫  zhì chong2		
-628	球	qiu2	QIU®	ball/sphere	qiú球=⿰[[玉|⺩]][[求]]    yu4  yù     qiu2  		
+628	球	qiu2	QIU®	ball/sphere	qiú球=⿰玉|⺩求    yu4  yù     qiu2  		
 629	般	ban1	BANDE wayn? 	class/way/sort/kind/manner	般=⿰舟殳  zhou1 shū		
 630	普	pu3	PAN popul	popular/general/everywhere/universal	pǔ普=⿱並日  ? ri4		
 631	怕	pa4	fear	to be afraid/to fear	pà怕=⿰忄白  xīn bái		
@@ -602,13 +600,13 @@ extensions v1.0.0 loaded
 641	晚	wan3	eVEN  免 moon/van	evening/night/late	wǎn晚=⿰日免  ri4 mian3		
 642	兰	lan2	LILIAN LINE 2 lian lili3  兰 SUSAN 花三shuasan	orchid	兰=⿱丷三 or ⿱䒑二  bā san1  ? ?   cǎo èr		
 643	试	shi4	check	to test/to try/experiment/examination/test	试=⿰讠式  yán shì		
-644	股	gu3	give	share/portion/section/part/thigh/(a measure word/e.g. use with electric current)/whiff	gǔ股=⿰[[肉|⺼]][[殳]]    rou4  ròu     shū  		
+644	股	gu3	give	share/portion/section/part/thigh/(a measure word/e.g. use with electric current)/whiff	gǔ股=⿰肉|⺼殳    rou4  ròu     shū  		
 645	拿	na2	NEHM	to seize/to catch/to apprehend/to take/to hold/	ná拿=⿱合手  ge3/he2 shou3		
 646	脑	nao3	nous™ noema <> know	brain	脑=⿰⺼㐫  ròu ?		
 647	预	yu4	GO	to advance/in advance/beforehand/to prepare	预=⿰予页  yu2/yu3 ye4		
 648	谁	shei2/shui2	say who?	who/who	谁=⿰讠隹  yán zhuī		
 649	益	yi4	Y+	benefit/increase	yì益=⿳䒑八皿  cǎo ba1 min3		
-650	阳	yang2	Y+ 阳 yáng SUN	positive (electric.)/sun	阳=⿰[[阜|⻖]][[日]]    fu4  fù     ri4  		
+650	阳	yang2	Y+ 阳 yáng SUN	positive (electric.)/sun	阳=⿰阜|⻖日    fu4  fù     ri4  		
 651	若	ruo4	rú 如 ® 若 	to seem/like/as/if	若=⿱艹右  cǎo you4		
 652	哪	na3/na/nei3	NA wie…?	how/which/(final part. preceded by N)/which (followed by M or Num)	哪=⿰口那  kou3 na3/na4/nei4		
 653	微	wei1	wenig	micro/tiny/miniature	微微= 		
@@ -671,7 +669,7 @@ extensions v1.0.0 loaded
 711	汉	han4	HUN HAND 汉	Chinese/name of a dynasty	汉=⿰氵又  shui you4		
 712	村	cun1	town-	village	cūn村=⿰木寸  mu4 cun4		
 713	哈	ha1/ha3	haha 哈	laughter/yawn/a Pekinese/a pug	哈=⿰口合  kou3 ge3/he2		
-714	策	ce4	scheme	method/plan/policy/scheme	cè策=⿱[[竹|⺮]][[朿]]    zhu2  zhu2     ?  		
+714	策	ce4	scheme	method/plan/policy/scheme	cè策=⿱竹|⺮朿    zhu2  zhu2     ?  		
 715	演	yan3	Y+ GENE	to develop/to evolve/to practice/to perform/to play/to act	yǎn演=⿰氵寅  shui yin2		
 716	简	jian3	JA1	simple	简=⿱⺮间  zhu2 jian1/jian4		
 717	卡	ka3/qia3	check 卡 qiǎ kǎ CARD 	Card/to check/to stop/to block/customs station/to be choked/to fasten/to clip/to wedge/checkpost	卡=⿱上卜  SHANG4 bo/bu3		
@@ -693,7 +691,7 @@ extensions v1.0.0 loaded
 734	灵	ling2	RING	alert/departed soul/efficacious/quick/effective/intelligence	灵=⿱彐火  jì,kè,kí,계 huǒ		
 735	协	xie2	X∑	cooperate/harmonize/to help/to assist/to join	协=⿰十办  shí ban4		
 736	角	jiao3/jue2	角 jhorn	angle/horn/horn-shaped/Chinese musical note/angle/horn	角= 		
-737	占	zhan1/zhan4	SEEN 占 SANK ∑	to observe/to divine/to divine/to occupy/to constitute/to make up/to account	占=⿱[[卜|⺊]][[口]]    bo/bu3  bǔ     kou3  		
+737	占	zhan1/zhan4	SEEN 占 SANK ∑	to observe/to divine/to divine/to occupy/to constitute/to make up/to account	占=⿱卜|⺊口    bo/bu3  bǔ     kou3  		
 738	配	pei4	~fit	to join/to fit/to mate/to mix/to match/to deserve/to make up (a prescription)	pèi配=⿰酉己  you3 ji3		
 739	征	zheng1	Journey @ cheng	journey/trip/expedition/attack/levy (troops or taxes)	zhēng征=⿰彳正  chì zheng1/zheng4		
 740	修	xiu1	schön	to decorate/to embellish/to repair/to build/to study/to write/to cultivate	xiū修= 		
@@ -794,7 +792,7 @@ extensions v1.0.0 loaded
 838	监	jian1/jian4	JOIN : strong	hard/strong/solid/firm/to supervise/to inspect/jail/prison/supervisor	监=⿱⿰〢⿱𠂉丶皿   ?  rén diàn zhǔ  min3		
 839	临	lin2		to face/to overlook/to arrive 耒 lei/to be (just) about to/just before	临=⿰〢⿳𠂉丶𫩏  ?  rén diàn zhǔ  ?		
 840	亮	liang4	light	light/bright	liàng亮= 		
-841	露	lu4/lou4	look!	to show/to reveal/to expos/dew	露=⿱[[雨|⻗]][[路]]    yu3  yǔ     lù  		
+841	露	lu4/lou4	look!	to show/to reveal/to expos/dew	露=⿱雨|⻗路    yu3  yǔ     lù  		
 843	呼	hu1	HOWL/hoot/YU 语 	to call/to cry/to shout/to breath out/to exhale	hū呼=⿰口乎  kou3 hū		
 844	味	wei4	味	taste	wèi味=⿰口未  kou3 wei4		
 845	野	ye3	域	field/plain/open space/limit/boundary/rude/wild	野=⿰里予  lǐ yu2/yu3		
@@ -863,7 +861,7 @@ extensions v1.0.0 loaded
 910	票	piao4	PLANE? 票 <> 片 pan  板 ban3 plank bank	bank note/ticket	票=⿱覀示  xī shi4		
 911	损	sun3	LY:SEN	to damage/injure/to lose/to harm	损=⿰扌员  shǒu yuan2		
 912	忽	hu1	HUH! ;)	suddenly	hū忽=⿱勿心  wu4 xin1		
-913	巨	ju4	HUGE 巨 gjuant	very large/huge/tremendous/gigantic	jù巨=⿷<big>[[匚]]</big>[[コ]]  ? ? meaning meaning ?   fāng   ? ? ? meaning meaning ?   ?  		
+913	巨	ju4	HUGE 巨 gjuant	very large/huge/tremendous/gigantic	jù巨=⿷<big>匚</big>コ  ? ? meaning meaning ?   fāng   ? ? ? meaning meaning ?   ?  		
 914	炮	pao4	PAO!	cannon/gun/firecracker/gun/cannon	炮=⿰火包  huǒ bao1		
 915	旧	jiu4	yeared gero 旧	old (opposite of new)/former	旧=⿰丨日  shù gǔn  ri4		
 916	端	duan1	DOWN	end/extremity/item/port/to hold sth. level with both hands/to carry/regular	duān端=⿰立耑  lì ?		
@@ -892,7 +890,7 @@ extensions v1.0.0 loaded
 940	摇	yao2	jec	shake/to rock	摇=⿰扌⿱爫缶  shǒu  zhǎo fǒu		
 941	招	zhao1		provoke/to recruit	招=⿰扌召  shǒu shao4/zhao4		
 942	婚	hun1	HEN < CON/HUN 💑 	to marry/marriage/wedding/to take a wife	hūn婚=⿰女昏  nu:3/nv3 hun1		
-943	脱	tuo1	take off @ tao 逃 	to take off/to escape/to get away from/to shed/	脱=⿰[[肉|⺼]][[兑]]    rou4  ròu     dui4  		
+943	脱	tuo1	take off @ tao 逃 	to take off/to escape/to get away from/to shed/	脱=⿰肉|⺼兑    rou4  ròu     dui4  		
 944	补	bu3	fill patch ~~	to repair/to patch/to mend/to make up for/to fill (a vacancy)/to supplement	补=⿰衤卜  yi1/yi4 bo/bu3		
 945	谓	wei4	Why: by the way	speak of	谓=⿰讠胃  yán wei4		
 946	督	du1	DUCE	supervise	dū督=⿱叔目  shu1 mu4		
@@ -935,7 +933,7 @@ extensions v1.0.0 loaded
 984	借	jie4	COIN 钱	qían 奖 jǐang  	to lend/to borrow/excuse/pretext/by means of	jiè借=⿰亻昔  rén xi1		
 985	君	jun1	君 Jūn™ Uniter?	monarch/lord/gentleman/ruler	jūn君=⿸尹口  yin3 kou3		
 986	禁	jin1/jin4	JIN 今  yǒng 永	endure/to prohibit/to forbid	禁=⿱林示  lín shi4		
-987	阴	yin1	阴 ™ !!! JUNE vs YOUNG	(of weather) overcast/Yin/feminine/moon/cloudy/negative (electric.)/shady	阴=⿰[[阜|⻖]][[月]]    fu4  fù     yuè  		
+987	阴	yin1	阴 ™ !!! JUNE vs YOUNG	(of weather) overcast/Yin/feminine/moon/cloudy/negative (electric.)/shady	阴=⿰阜|⻖月    fu4  fù     yuè  		
 988	园	yuan2	园 yardin gardin  <> GUAN	garden	园=⿴囗元  wéi yuán		
 989	谋	mou2	√Moyer	to plan/seek/scheme	谋=⿰讠某  yán mǒu		
 990	宋	song4	mu 木  shu+an(g) 术 musen song!	(surname)/name of a dynasty	sòng宋=⿱宀木  mián mu4		
@@ -954,7 +952,7 @@ extensions v1.0.0 loaded
 1004	午	wu3	noon 牛 niu 	11 a.m.-1 p.m./7th earthly branch/noon	wǔ午=⿱𠂉十  rén shí		
 1005	练	lian4	LINE? 理	to practice/to train/to perfect (one's skill)/to drill	练=⿰纟𫠣  mì ?		
 1006	迫	po4	pow! Potenz po~force	to force/to compel/pressing/urgent	pò迫=⿺辶白  chuò / zouzhi bái		
-1007	爷	ye2	yearo gero 旧	grandpa/etc./old gentleman	爷=⿱[[父]][[ㄗ]]    fu4     ?  		
+1007	爷	ye2	yearo gero 旧	grandpa/etc./old gentleman	爷=⿱父ㄗ    fu4     ?  		
 1008	篇	pian1	PLANE 票 pan 片 π	sheet/piece of writing/(a measure word)/chapter/article	piān篇=⿱𥫗扁  zhu2 bian3/pian1		
 1009	肉	rou4	RAW meat	meat/flesh	ròu肉=⿵内人  nei4 ren2		
 1010	嘴	zui3	<<<	mouth	zuǐ嘴=⿰口觜  kou3 ?		
@@ -992,7 +990,7 @@ extensions v1.0.0 loaded
 1043	软	ruan3	raw¬un	soft/flexible	软=⿰车欠  che1/ju1 qian4		
 1044	典	dian3	DAYN?	canon/dictionary	diǎn典=冊+丌 ?		
 1045	欲	yu4	yao yearn 要夭⺓么 JA?	desire/wish/desire/longing/appetite/wish	yù欲=⿰谷欠  gu3/yu4 qian4		
-1046	萨	sa4	;)	(surname)/Bodhisattva	萨=⿱艹⿰[[阜|⻖]][[产]]  cǎo    fu4  fù     chan3  		
+1046	萨	sa4	;)	(surname)/Bodhisattva	萨=⿱艹⿰阜|⻖产  cǎo    fu4  fù     chan3  		
 1047	伙	huo3	HUN 	assistant/furniture/partner	huǒ伙=⿰亻火  rén huǒ		
 1048	遭	zao1	ZAIT 	a time/incident/meet by chance/turn	zāo遭=⿺辶曹  chuò / zouzhi cao2		
 1049	盘	pan2	PAN™ pan!	big/wooden tray/dish/tray/to build/to check/to examine/to transfer/(a measure word used for dishes of food or coils of wire)/to coil	盘=⿱舟皿  zhou1 min3		
@@ -1008,7 +1006,7 @@ extensions v1.0.0 loaded
 1059	拥	yong1	JOIN	(v) gather round/rush in/crowd/throng/to hold/crowded/to support	拥=⿰扌用  shǒu yong4		
 1060	徒	tu2	TEACH	apprentice/disciple	tú徒=⿰彳走  chì zǒu		
 1061	姆	mu3	Mother	governess	mǔ姆=⿰女母  nu:3/nv3 mu3		
-1062	杨	yang2		(surname)/poplar	杨=⿰[[木]][[𠃓]]    mu4       		
+1062	杨	yang2		(surname)/poplar	杨=⿰木𠃓    mu4       		
 1064	赛	sai4		to compete/competition/match	赛=⿱𡨄贝  ? bei4 BEÌ		
 1065	趣	qu4		interesting/to interest	qù趣=⿺走取  zǒu qǔ		
 1067	刀	dao1	DAO™ DOLCH DAGGER	knife	dāo刀=⿹𠃌丿  jué piě		
@@ -1047,7 +1045,7 @@ extensions v1.0.0 loaded
 1101	街	jie1	Jier < kyr	street	jiē街=⿲彳圭亍  chì gui1 hang2/xing2/xing4		
 1102	促	cu4	ZIEH GO	to hurry/to rush/to hasten/near/to promote	cù促=⿰亻足  rén zu2		
 1103	延	yan2		to prolong/to extend/to delay	yán延=⿺廴⿱丿止  yǐn  piě zhi3		
-1104	震	zhen4	SIGN	shake/shock/sign in trigram	震=⿱[[雨|⻗]][[辰]]    yu3  yǔ     chen2  		
+1104	震	zhen4	SIGN	shake/shock/sign in trigram	震=⿱雨|⻗辰    yu3  yǔ     chen2  		
 1105	弃	qi4	GO ZIEH	abandon/relinquish/to discard/to throw away	弃=⿱𠫓廾  ? gǒng		
 1106	甲	jia3	J1 JIAnuar	'A' (in a sequence of examples involving 'A'/'B'/'C'/etc.)/1st heavenly stem/1st in order/armor	甲=⿻囗十  wéi shí		
 1107	伟	wei3	WEIT wide	big/large/great	伟=⿰亻韦  rén wei2		
@@ -1073,9 +1071,9 @@ extensions v1.0.0 loaded
 1127	忍	ren3		to beat/to endure/to tolerate	rěn忍=⿱刃心  ren4 xin1		
 1128	页	ye4	页	page/leaf	页=⿱丆贝  myeon? bei4 BEÌ		
 1129	杰	jie2	英 YING	hero/heroic	jié杰=⿱木灬  mu4 huǒ		
-1130	筑	zhu2/zhu4		build/five-string lute	筑筑=⿱[[竹|𥫗]][[巩]]    zhu2  zhu2     gong3  		
+1130	筑	zhu2/zhu4		build/five-string lute	筑筑=⿱竹|𥫗巩    zhu2  zhu2     gong3  		
 1131	折	she2/zhe2		broken (as of rope/stick)/tenth (in price)/to break/to fold/to turn	折=⿰扌斤  shǒu jin1		
-1132	郑	zheng4		(surname)	郑=⿰[[关]][[邑|⻏]]    guan1     yi4  yì  		
+1132	郑	zheng4		(surname)	郑=⿰关邑|⻏    guan1     yi4  yì  		
 1133	贝	bei4 BEÌ	BUY 贝 币 KAUF 购 gou cowrie 白	bo=cowries/shell/valuables/shellfish	贝=⿵冂人  jiōng ren2	Turkic *bāj (“rich”) GOLD 贵GUI 财 caí cowry 库 ku KAUF 购 gou 财 caí shell COIN seen BUY 币 ¥Yuan 贝≠见  bvoy BIEN=GOOD GUI	
 1134	尊	zun1		to honor	zūn尊=⿱酋寸  qiu2 cun4		
 1135	吴	wu2	putian!	(surname)/province of Jiangsu	吴=⿱口天  kou3 tiān		
@@ -1117,7 +1115,7 @@ extensions v1.0.0 loaded
 1173	操	cao1	greif	to hold/to drill/to exercise/to act/to do/to take in hand/to keep/to manage	操=⿰扌喿  shǒu ?		
 1174	耶	ye1	< year	(final part.)/(phonetic)	耶=⿰耳⻏  er3 yì		
 1175	阻	zu3	ZU = blocked	to hinder/to block/to obstruct	zǔ阻=⿰⻖且  fù qie3		
-1176	订	ding4	订 OK	to agree/to conclude/to draw up/to subscribe to (a newspaper/etc.)/to order	订=⿰[[讠]][[丁]]    yán     ding1  		
+1176	订	ding4	订 OK	to agree/to conclude/to draw up/to subscribe to (a newspaper/etc.)/to order	订=⿰讠丁    yán     ding1  		
 1177	彩	cai3	SHINE color shade	(bright) color/variety/applause/applaud/(lottery) prize/colored/variegated	cǎi彩=⿰采彡  cai3/cai4 shān		
 1178	抽	chou1	choke	to draw out/to smoke (cigarettes)/to pump	chōu抽=⿰扌由  shǒu yóu		
 1179	赞	zan4	SANK(v)	to praise/to patronize/to support/to praise	赞=⿱兟贝  ? bei4 BEÌ		
@@ -1193,7 +1191,7 @@ extensions v1.0.0 loaded
 1251	镜	jing4	√SHINE	mirror	镜=⿰钅竟  jīn jìng		
 1252	唱	chang4	CHANT SING 	sing/to call loudly/to chant	chàng唱=⿰口昌  kou3 chang1		
 1253	烦	fan2		feel vexed/to bother	烦=⿰火页  huǒ ye4		
-1254	签	qian1	SIGN	sign one's name/a note/a stick/sign one's name	签=⿱[[竹|⺮]][[佥]]    zhu2  zhu2     ?  		
+1254	签	qian1	SIGN	sign one's name/a note/a stick/sign one's name	签=⿱竹|⺮佥    zhu2  zhu2     ?  		
 1255	仙	xian1	!	immortal	xiān仙=⿰亻山  rén shan1		
 1256	彼	bi3	pthe 	that/those/(one) another)	bǐ彼=⿰彳皮  chì pi2		
 1257	弗	fu2	WU¬ false	not	fú弗=⿻⿰丿丨弓   piě shù gǔn  gong1		
@@ -1241,7 +1239,7 @@ extensions v1.0.0 loaded
 1302	潮	chao2	SHUI	tide/current/damp/moist/humid	cháo潮=⿰氵朝  shui chao2/zhao1		
 1303	粮	liang2	langt;)	provisions	粮=⿰米良  mǐ liang2		
 1304	缩	suo1	ZIEH ab	to withdraw/to pull back/to contract/to shrink/to reduce	缩=⿰纟宿  mì su4/xiu3/xiu4		
-1305	罢	ba4/ba	BAR	to stop/cease/dismiss/suspend/to quit/to finish/(final part.)	罢=⿱[[罒|⺲]][[去]]    wǎng  wǎng     qu4  		
+1305	罢	ba4/ba	BAR	to stop/cease/dismiss/suspend/to quit/to finish/(final part.)	罢=⿱罒|⺲去    wǎng  wǎng     qu4  		
 1306	聚	ju4	JOIN	form gathering/gather	jù聚=⿱取乑,⿱取⿲人亻人  qǔ ? yì  qǔ  ren2 rén ren2		
 1307	径	jing4	GOING	path	径= 		
 1308	恰	qia4	JUST	exactly/just	qià恰=⿰忄合  xīn ge3/he2		
@@ -1255,7 +1253,7 @@ extensions v1.0.0 loaded
 1316	映	ying4	SHINE YING	reflect/shine	yìng映=⿰日央  ri4 yang1		
 1317	裂	lie4	LY:SEN	crack/split	liè裂=⿱列衣  liè yi1/yi4		
 1318	泰	tai4	TAI:PING 	safe/peaceful/most/Thai(land)/grand	tài泰=⿱𡗗氺  ? shuǐ		
-1319	隔	ge2	CUT	to separate/to stand or lie between/to divide/to cut off	gé隔=⿰[[阜|⻖]][[鬲]]    fu4  fù     lì  		
+1319	隔	ge2	CUT	to separate/to stand or lie between/to divide/to cut off	gé隔=⿰阜|⻖鬲    fu4  fù     lì  		
 1320	启	qi3	Q1	to open/to start	启= 		
 1321	尖	jian1		point (of needle)/sharp/shrewd/pointed	jiān尖=⿱小大  xiǎo da4/dai4		
 1322	忠	zhong1		loyal	zhōng忠=⿱中心  zhong1/zhong4 xin1		
@@ -1277,17 +1275,17 @@ extensions v1.0.0 loaded
 1339	厉	li4	realy!	severe	厉=⿸厂万  chang3 mò		
 1340	衡	heng2	√hang!	to weigh/weight/measure	héng衡=⿲彳𩵋亍  chì ? hang2/xing2/xing4		
 1341	胞	bao1	BAUCH	the placenta/womb	bāo胞=⿰月包  yuè bao1		
-1342	零	ling2	RING 0 ø	remnant/zero	líng零=⿱[[雨|⻗]][[令]]    yu3  yǔ     ling4  		
+1342	零	ling2	RING 0 ø	remnant/zero	líng零=⿱雨|⻗令    yu3  yǔ     ling4  		
 1343	穷	qiong2		exhausted/poor	穷=⿱穴力  xue2 li4		
 1344	舍	she3/she4	shed shun	give up/abandon/residence	shè舍=⿳𠆢一古  rén 一 gǔ		
 1345	码	ma3	Numa – 	a weight/number/yard/pile/stack	码=⿰石马  Shi2/dan4 ma3		
 1346	赫	he4	hey!	(surname)/awe-inspiring	hè赫=⿰赤赤  chi4 chi4		
 1347	婆	po2	Opo = oma	grandmother/matron/mother-in-law	pó婆=⿱波女  bō nu:3/nv3		
 1348	魂	hun2	???	soul	hún魂=⿰云鬼  yún guǐ		
-1349	灾	zai1	灾	disaster/calamity	灾=⿱[[宀]][[火]]    mián     huǒ  		
+1349	灾	zai1	灾	disaster/calamity	灾=⿱宀火    mián     huǒ  		
 1350	洪	hong2	GOING	flood	hóng洪=⿰氵共  shui gong4		
-1351	腿	tui3	thigh	leg	腿=⿰[[肉|⺼]][[退]]    ròu  ròu     tuì  	(Schenkel)	
-1352	胆	dan3	Dangle=Ball™	the gall/the nerve/courage/guts/gall bladder	胆=⿰[[肉|⺼]][[旦]]    ròu  ròu     dàn  		
+1351	腿	tui3	thigh	leg	腿=⿰肉|⺼退    ròu  ròu     tuì  	(Schenkel)	
+1352	胆	dan3	Dangle=Ball™	the gall/the nerve/courage/guts/gall bladder	胆=⿰肉|⺼旦    ròu  ròu     dàn  		
 1353	津	jin1	JINI!!!!!!!	Tianjin/ferry	jīn津=⿰氵聿  shui yu4		
 1354	俗	su2	sau saying slang 	vulgar	sú俗=⿰亻谷  rén gu3/yu4		
 1355	辩	bian4	B2	dispute/debate/argue/discuss	辩=⿴辡讠or ⿰辛讠辛  ? yán ? ?   xin1 yán xin1		
@@ -1298,7 +1296,7 @@ extensions v1.0.0 loaded
 1360	仁	ren2	REN.MIN™	humane	rén仁=⿰亻二  rén èr		
 1361	偶	ou3	<> hua	accidental/image/pair/mate	偶=⿰亻禺  rén yu2		
 1362	辑	ji2	ji∑ J+ Y+	gather up/collect/edit/compile	辑=⿰车咠  che1/ju1 ?		
-1363	邦	bang1	BUND	a state/country or nation	bāng邦=⿰[[丰]][[邑|⻏]]    fēng     yi4  yì  		
+1363	邦	bang1	BUND	a state/country or nation	bāng邦=⿰丰邑|⻏    fēng     yi4  yì  		
 1364	恢	hui1	RE-  hun:con … ??	to restore/to recover/great	huī恢=⿰忄灰  xīn huī		
 1365	赖	lai4	rely	disclaim/rely/to blame	赖=⿰束⿱⺈贝  shù  dāo bei4 BEÌ		
 1366	圈	juan1/juan4/quan1	JUAN YUAN round	to confine/enclose/pen (pig)/a fold/circle/ring/loop	圈=⿴囗卷  wéi juan3/juan4		
@@ -1314,7 +1312,7 @@ extensions v1.0.0 loaded
 1376	废	fei4	fade	abolish/crippled	废=⿸广发  yǎn fa1/fa4		
 1377	净	jing4	SHINE JING	clean/clean/completely/only	净=⿰冫争  bīng zheng1		
 1378	凶	xiong1	凶 xiong strong	fierce/fierce/terrible/ominous	xiōng凶=⿶凵㐅  qū / pan3 ?		
-1379	署	shu3		office/bureau	署署=⿱[[罒|⺲]][[者]]    wǎng  wǎng     zhě  		
+1379	署	shu3		office/bureau	署署=⿱罒|⺲者    wǎng  wǎng     zhě  		
 1380	壁	bi4	B2 BAU!	wall/rampart	bì壁=⿱辟土  bi4/pi4 tǔ		
 1381	御	yu4		defend/imperial/to drive/defend/resist	yù御=⿰彳卸  chì xie4		
 1382	奉	feng4		to receive (from superior)/to offer/to revere	fèng奉=⿱𡗗⿻一十  ?  一 shí		
@@ -1350,7 +1348,7 @@ extensions v1.0.0 loaded
 1412	抢	qiang1/qiang3		against wind/fight over/to rush/to scramble/to grab/to rob/to snatch	抢=⿰扌仓  shǒu cang1		
 1413	绪	xu4	X1	beginnings/clues/mental state/thread	绪=⿰纟者  mì zhě		
 1414	粗	cu1	Cu ~ crude/coarse	coarse/rough/thick/unfinished/vulgar/rude/crude	cū粗=⿰米且  mǐ qie3		
-1415	肩	jian1	肩	shoulder	jiān肩=⿸戶[[肉|月]], ⿸[[户]]月, ⿸[[戸]]月  hù   ròu  yuè   yì     hu4   yuè yì     hù   yuè		
+1415	肩	jian1	肩	shoulder	jiān肩=⿸戶肉|月, ⿸户月, ⿸戸月  hù   ròu  yuè   yì     hu4   yuè yì     hù   yuè		
 1416	梁	liang2	Line : beam	(surname)/beam of roof/bridge/beam of roof	liáng梁= 		
 1417	幻	huan4		fantasy	huàn幻=⿰幺𠃌  yāo jué		
 1418	菲	fei1	BUY 贝	rich/luxurious/phenanthrene (chemical)/Philippines	菲=⿱艹非  cǎo fei1		
@@ -1376,7 +1374,7 @@ extensions v1.0.0 loaded
 1438	殖	zhi2	Zieh seed <<	grow/reproduce	zhí殖=⿰歹直  dai3 zhí		
 1439	详	xiang2	Schön ∑	detailed/comprehensive	详=⿰讠羊  yán yang2		
 1440	迪	di2	direct	direct/follow	dí迪=⿺辶由  chuò / zouzhi yóu		
-1442	霍	huo4	~cui cholerain!	(surname)/cholera	huò霍=⿱[[雨|⻗]][[隹]]    yu3  yǔ     zhuī  		
+1442	霍	huo4	~cui cholerain!	(surname)/cholera	huò霍=⿱雨|⻗隹    yu3  yǔ     zhuī  		
 1443	允	yun3	yun 允 yu 羽 yi 义 jiùst 就 	just/fair/to permit/to allow	yǔn允=⿱厶儿  sī er2/er		
 1444	幅	fu2	< whool!	(measure word for textile or picture)/width/roll	fú幅=⿰巾畐  jin1 fú		
 1445	撒	sa1/sa3	~scatter	let go/to scatter	撒=⿰扌散  shǒu san3/san4		
@@ -1387,7 +1385,7 @@ extensions v1.0.0 loaded
 1450	赏	shang3	schenk!	enjoy the beauty of/give	赏=⿱龸员  ? yuan2		
 1451	液	ye4	YU	liquid/fluid	液液=⿰氵夜  shui yè		
 1452	番	fan1/pan1	~foreign™	(measure word for acts)/deeds/foreign/(surname)/place name	番=⿱釆田  biàn tian2		
-1453	箱	xiang1	xiang schrank = ch(est)+trunk	box/trunk/chest	xiāng箱=⿱[[竹|⺮]][[相]]    zhu2  zhu2     xiang1/xiang4  		
+1453	箱	xiang1	xiang schrank = ch(est)+trunk	box/trunk/chest	xiāng箱=⿱竹|⺮相    zhu2  zhu2     xiang1/xiang4  		
 1454	贴	tie1	tie (to)	to stick/to paste/to keep close to/to fit snugly/subsidize/allowance	贴=⿰贝占  bei4 BEÌ zhan1/zhan4		
 1455	漫	man4	man:free	free/unrestrained/inundate	màn漫=⿰氵曼  shui màn		
 1456	酸	suan1	~ sour sore	sour/sore/ache/acid	suān酸=⿰酉夋  you3 ?		
@@ -1428,7 +1426,7 @@ extensions v1.0.0 loaded
 1493	墨	mo4	毛 mao-bi:pen	China ink/ink stick	mò墨= 		
 1494	胁	xie2	side	side of body/threaten	胁=⿰月办  yuè ban4		
 1495	插	cha1	chuck stick	insert/stick in/pierce/to take part in/to interfere/to interpose	chā插=⿰扌臿  shǒu ?		
-1496	箭	jian4	schien schießen	arrow	jiàn箭=⿱[[竹|⺮]][[前]]    zhu2  zhu2     qián  		
+1496	箭	jian4	schien schießen	arrow	jiàn箭=⿱竹|⺮前    zhu2  zhu2     qián  		
 1497	腊	la4	latio ration	preserved (meat)/December/preserved (meat)	xī腊= 		
 1498	粉	fen3	wehen	dust/powder	fěn粉=⿰米分  mǐ fen1/fen4		
 1499	泥	ni2/ni4	√nile niude mud	mud/paste/pulp/restrained	泥=⿰氵尼  shui ni2		
@@ -1467,7 +1465,7 @@ extensions v1.0.0 loaded
 1536	仇	chou2/qiu2	仇 <	hatred/animosity/enmity/a rival/an enemy/feud/(surname)/match/mate	仇=⿰亻九  rén jiǔ	≠hen	
 1537	磨	mo2/mo4	<>  矛mo 末 mò	to sharpen/to delay/hardship/to grind/to rub/grindstone	磨=⿸麻石  má Shi2/dan4		
 1538	递	di4	don	to hand over/to pass/to give	递=⿺辶弟  chuò / zouzhi dì		
-1539	邪	xie2		demonical/iniquitous/nefarious	邪=⿰牙[[邑|⻏]]  ya2   yi4  yì  		
+1539	邪	xie2		demonical/iniquitous/nefarious	邪=⿰牙邑|⻏  ya2   yi4  yì  		
 1540	撞	zhuang4	zu’hauñ	to hit/to strike/to meet by accident/to run into/to bump against/to bump into	zhuàng撞=⿰扌童  shǒu tóng		
 1541	拟	ni3	nou	plan to	拟=⿰扌以  shǒu yǐ		
 1542	滚	gun3	<> 卷 juan	to boil/to roll	滚=⿰氵衮  shui ?		
@@ -1528,7 +1526,7 @@ extensions v1.0.0 loaded
 1598	猜	cai1	~guess	to guess	cāi猜=⿰犭青  zhì qīng		
 1599	怜	lian2		to pity	怜=⿰忄令  xīn ling4		
 1600	惑	huo4	HUN<CON… Hutu = hatter (mad)	confuse	huò惑=⿱或心  huo4 xin1		
-1601	陶	tao2	TON	pottery/(surname)/pleased/pottery	陶=⿰[[阜|⻖]][[匋]]    fu4  fù     ?  		
+1601	陶	tao2	TON	pottery/(surname)/pleased/pottery	陶=⿰阜|⻖匋    fu4  fù     ?  		
 1602	兽	shou4	SAU!	beast/quadruped	兽=⿱𬎿𠮛  ? 		
 1603	帐	zhang4	<   djungle-tangle ;)	account/mosquito net/tent/curtain/debt/credit	帐=⿰巾长  jin1 chang2/zhang3		
 1604	饰	shi4	schick	adorn/ornaments	饰=⿰饣⿱𠂉巾  shi2/si4  rén jin1		
@@ -1615,7 +1613,7 @@ extensions v1.0.0 loaded
 1685	旨	zhi3	SIGN	imperial decree/purport/aim/purpose	zhǐ旨=⿱匕日  bi1/bi3 ri4		
 1686	袖	xiu4	~	sleeve	xiù袖=⿰衤由  yi1/yi4 yóu		
 1687	猎	lie4	< 	hunting	xī猎=⿰犭昔  zhì xi1		
-1688	臂	bi4	!	arm	bì臂=⿱辟[[肉|月]]  bi4/pi4   ròu  yuè  		
+1688	臂	bi4	!	arm	bì臂=⿱辟肉|月  bi4/pi4   ròu  yuè  		
 1689	蛇	she2	shenake/pyshen	snake/serpent	蛇=⿰虫它  chong2 ta1		
 1690	贺	he4	hey;)	congratulate	贺=⿱加贝  jiā bei4 BEÌ		
 1691	柱	zhu4	座 zuo  受 shou  站|zhàn stand	pillar	zhù柱=⿰木主  mu4 zhu3		
@@ -1636,8 +1634,8 @@ extensions v1.0.0 loaded
 1707	诱	you4	you:want	entice/tempt	诱=⿰讠秀  yán xiù		
 1708	狼	lang2	®	wolf	láng狼=⿰犭良  zhì liang2		
 1709	池	chi2	Sea SHUI	pond/reservoir	chí池=⿰氵也  shui yě		
-1710	疼	teng2	tingle	(it) hurts/love fondly/ache/pain/sore	téng疼=⿸[[疒]][[冬]]    nè     dōng  		
-1711	卢	lu2	卢	(surname)	卢=⿱[[卜|⺊]][[尸]]    bo/bu3  bǔ     shi1  		
+1710	疼	teng2	tingle	(it) hurts/love fondly/ache/pain/sore	téng疼=⿸疒冬    nè     dōng  		
+1711	卢	lu2	卢	(surname)	卢=⿱卜|⺊尸    bo/bu3  bǔ     shi1  		
 1712	仗	zhang4	ZANK	battle	zhàng仗=⿰亻丈  rén zhàng		
 1713	冠	guan1/guan4	GUAN~CROWN!	hat/crown/crest/cap/to head	冠=⿱冖㝴  mì ?		
 1714	粒	li4	𓂋 !!++ 来 lai2 leis reis (standing grain 𓂋)	a grain/a granule	lì粒=⿰米立  mǐ lì		
@@ -1738,7 +1736,7 @@ extensions v1.0.0 loaded
 1810	伐	fa2	fäll fell	(v) cut down; fell/(v) dispatch an expedition against; descend upon	伐伐=⿰亻戈  rén gē		
 1811	堪	kan1		endure	kān堪=⿰土甚  tǔ shen4		
 1812	仆	pu1/pu2	PUCK 𓅡𓎡𓀀	fall prostrate/servant	pū仆=⿰亻卜  rén bo/bu3		
-1813	郭	guo1	GUOR < KUR	(surname)/outer city wall	guō郭=⿰[[享]][[邑|⻏]]    xiǎng     yi4  yì  		
+1813	郭	guo1	GUOR < KUR	(surname)/outer city wall	guō郭=⿰享邑|⻏    xiǎng     yi4  yì  		
 1814	牺	xi1		sacrifice	牺=⿰牜西  niú xī		
 1815	歼	jian1		annihilate	歼=⿰歹千  dai3 qiān		
 1816	墓	mu4	√MUR MUERT MORT Moratorium mausoleum	tomb	mù墓=⿱莫土  mo4 tǔ		
@@ -1762,7 +1760,7 @@ extensions v1.0.0 loaded
 1835	唤	huan4	howl	to call	唤=⿰口奂  kou3 huan4		
 1836	赢	ying2	yuan win -	to beat/to win/to profit	赢=⿱吂⿲月贝凡  ?  yuè bei4 BEÌ fán		
 1837	莲	lian2	lilian	lotus	莲=⿱艹连  cǎo lian2		
-1838	霸	ba4	boss pasha	feudal chief/rule by force/tyrant/lord/master/hegemon/usurp	霸=⿱[[雨|⻗]][[䩗]]    yu3  yǔ     ?  		
+1838	霸	ba4	boss pasha	feudal chief/rule by force/tyrant/lord/master/hegemon/usurp	霸=⿱雨|⻗䩗    yu3  yǔ     ?  		
 1839	桃	tao2		peach	táo桃=⿰木兆  mu4 zhao4		
 1840	妥	tuo3	TAU:towed	secure/sound	tuǒ妥=⿱爫女  zhǎo nu:3/nv3		
 1841	瘦	shou4	<> schwach	tight/thin/lean	shòu瘦=⿸疒叟  nè sou3		
@@ -1776,7 +1774,7 @@ extensions v1.0.0 loaded
 1849	庞	pang2	PAN…!	(surname)/huge/enormous/tremendous	庞=⿸广龙  yǎn long2		
 1850	耕	geng1	gang@field	to plow/to till	gēng耕=⿰耒井  lěi jǐng		
 1851	锐	rui4		acute	锐=⿰钅兑  jīn dui4		
-1852	缝	feng2/feng4		to sew/to stitch/crack/seam	缝=⿰[[纟]][[逢]]    mì     feng2  		
+1852	缝	feng2/feng4		to sew/to stitch/crack/seam	缝=⿰纟逢    mì     feng2  		
 1853	悔	hui3	RE- …	regret	huǐ悔= 		
 1854	邀	yao1	yearn	invite to come	yāo邀=⿺辶敫  chuò / zouzhi ?		
 1855	玲	ling2	?? ;)	(used in compounds)/tinkling of gem-pendants	líng玲=⿰𤣩令  yu4 ling4		
@@ -1818,7 +1816,7 @@ extensions v1.0.0 loaded
 1894	璃	li2	Li : gliss : glass <> lü:grün	colored glaze/glass	lí璃=⿰𤣩离  yu4 li2		
 1895	愚	yu2	[idea]yud!	stupid	yú愚=⿱禺心  yu2 xin1		
 1896	滴	di1	drip	a drop/to drip	dī滴=⿰⺡啇  shuǐ ?		
-1897	疏	shu1	schwach	negligent/sparse/thin	疏=⿰[[⺪]][[㐬]]    pǐ     ?  		
+1897	疏	shu1	schwach	negligent/sparse/thin	疏=⿰⺪㐬    pǐ     ?  		
 1898	萧	xiao1		mournful	萧=⿱艹肃  cǎo su4	Ciao :) :(	
 1899	姿	zi1	SEE:schön	beauty/disposition/looks/appearance	zī姿=⿱次女  ci4 nu:3/nv3		
 1900	颤	zhan4/chan4	ztan	to tremble/to shiver/to shake/to vibrate	颤=⿰亶页  ? ye4		
@@ -1834,7 +1832,7 @@ extensions v1.0.0 loaded
 1911	饿	e4	ESS! Faim/fan	to be hungry/hungry	饿=⿰饣我  shi2/si4 wǒ		
 1912	蜂	feng1	fang<	bee/wasp	fēng蜂=⿰虫夆  chong2 ?		
 1913	哦	e2/o2/o4	OH	to chant/oh is that so	哦=⿰口我  kou3 wǒ		
-1914	腔	qiang1	~tune	cavity of body/tune	qiāng腔=⿰[[肉|⺼]][[空]]    ròu  ròu     kong1/kong4  		
+1914	腔	qiang1	~tune	cavity of body/tune	qiāng腔=⿰肉|⺼空    ròu  ròu     kong1/kong4  		
 1915	郁	yu4		(surname)/elegant/dense (growth)/melancholy	yù郁=⿰有⻏  you3 yì		
 1916	溃	kui4	< 	be dispersed/break down	溃=⿰氵贵  shui gui4		
 1917	谨	jin3		cautious	谨=⿰讠堇  yán ?		
@@ -1855,14 +1853,14 @@ extensions v1.0.0 loaded
 1932	聊	liao2	lauschig plauschen	to chat/to have a chat/to kill time	liáo聊=⿰耳卯  er3 mao3		
 1933	挡	dang3/dang4	__?  DON/dunk/ducken?	hinder/resist/obstruct/hinder/cover/keep off/a cover/to block/to get in the way of/arrange/put in order	挡=⿰扌当  shǒu dang1/dang4		
 1934	纲	gang1	√gang ?	guiding principle/key link/class (taxonomy)/outline/program/head rope of a fishing net	纲=⿰纟冈  mì gang1		
-1935	肌	ji1	肌 jir > carne	flesh/muscle	jī肌=⿰[[肉|⺼]][[几]]    ròu  ròu     jī  		
+1935	肌	ji1	肌 jir > carne	flesh/muscle	jī肌=⿰肉|⺼几    ròu  ròu     jī  		
 1936	茨	ci2	Ci : ciel/diele/saal	Tribulus terrestris/thatched hut	cí茨=⿱艹次  cǎo ci4		
 1937	壳	ke2/qiao4	~	shell/shell	壳= 		
 1938	痕	hen2		scar/traces	hén痕=⿸疒艮  nè gēn		
 1939	碗	wan3	WANNE	bowl/cup	wǎn碗=⿰石宛  Shi2/dan4 wan3		
 1940	穴	xue2	CAVE 穴 xueve	hole/cave	穴穴=⿱宀八  mián ba1		
 1941	膀	bang3/bang4/pang1/pang2	Pang > wing ! Bang!	upper arm/wing/to flirt/puffed (swollen)/bladder	膀=⿰⺼旁  ròu páng		
-1942	卓	zhuo2	Zhour ~ kur	(surname)/outstanding	卓卓=⿱[[卜|⺊]][[早]]    bo/bu3  bǔ     zǎo  		
+1942	卓	zhuo2	Zhour ~ kur	(surname)/outstanding	卓卓=⿱卜|⺊早    bo/bu3  bǔ     zǎo  		
 1943	贤	xian2	X1	worthy (person)	贤=⿱⿲丨丨又贝   shù gǔn  shù gǔn  you4 bei4 BEÌ		
 1944	卧	wo4	wohlieg?	to lie/to crouch	卧= 		
 1945	膜	mo2	<~	(n) membrane; film	膜=⿰月莫  yuè mo4		
@@ -2017,7 +2015,7 @@ extensions v1.0.0 loaded
 2098	拘	ju1		adhere/capture/restrain	jū拘=⿰扌句  shǒu ju4		
 2099	链	lian4	LINE	chain/lead or tin ore	链=⿰钅连  jīn lian2		
 2100	驰	chi2	zieh qu	run fast/speed/spread/gallop	驰=⿰马也  ma3 yě		
-2101	栏	lan2	LINE	fence/railing/hurdle	栏=⿰[[木]][[兰]]    mu4     lan2  		
+2101	栏	lan2	LINE	fence/railing/hurdle	栏=⿰木兰    mu4     lan2  		
 2102	逝	shi4	Schied:DIE	depart/die	shì逝=⿺辶折  chuò / zouzhi she2/zhe2		
 2103	窃	qie4	Zieh : steal	I beg to presume/steal	窃=⿱穴切  穴 qie1/qie4		
 2104	艳	yan4	YING	glamorous	艳=⿰丰色  fēng sè		
@@ -2043,7 +2041,7 @@ extensions v1.0.0 loaded
 2124	妮	ni1	Nina	girl/phonetic 'ni' (in girl's name)	nī妮=⿰女尼  nu:3/nv3 ni2		
 2125	莎	sha1/suo1		(insect)/(phonetic)/(grass)/Cyperus rotundus	莎=⿱艹沙  cǎo sha1		
 2126	尉	wei4		(surname)/milit. official/to quiet	尉=⿰⿸尸示寸   shi1 shi4 cun4		
-2127	冻	dong4	Dong = dunkel north-east	to freeze	冻=⿰[[冫]][[东]]    bīng     dong1  		
+2127	冻	dong4	Dong = dunkel north-east	to freeze	冻=⿰冫东    bīng     dong1  		
 2128	跪	gui4	~	kneel	guì跪=⿰𧾷危  zu2 危		
 2129	闯	chuang3		to rush/break through	闯=⿵门马  men2 ma3		
 2130	葡	pu2	pruit!	grapes	pú葡=⿱艹匍  cǎo pu2		
@@ -2059,7 +2057,7 @@ extensions v1.0.0 loaded
 2140	辟	bi4/pi4	BOSS piter geBieter	king/emperor/monarch/royal/ward off/law/dispel/open up/refute	辟=⿰𡰪辛  ? xīn		
 2141	瘤	liu2	- 	tumor	liú瘤=⿸疒留  nè liu2		
 2142	嫂	sao3		older brother's wife; sister-in-law	sǎo嫂=⿰女叟  nu:3/nv3 sou3		
-2143	陀	tuo2		(phonetic)/declivity/steep bank	tuó陀=⿰[[阜|⻖]][[它]]    fu4  fù     ta1  		
+2143	陀	tuo2		(phonetic)/declivity/steep bank	tuó陀=⿰阜|⻖它    fu4  fù     ta1  		
 2144	框	kuang4	Kou / kai	frame/door frame	框框=⿰木匡  mu4 kuang1		
 2145	谭	tan2		(surname)	谭=⿰讠覃  yán ?		
 2146	亨	heng1	hen coin	prosperous	亨=⿳亠口了  tóu kou3 le/liao3/liao4		
@@ -2119,7 +2117,7 @@ extensions v1.0.0 loaded
 2202	伞	san3	Shun sun shade QED	umbrella/parasol	伞=⿱人⿻丷十  ren2  bā shí		
 2203	碑	bei1	BAU!	a monument/an upright stone tablet/stele	bēi碑=⿰石卑  Shi2/dan4 bēi		
 2204	挪	nuo2	nmouve	to shift/to move	nuó挪=⿰扌那  shǒu na3/na4/nei4		
-2205	琼	qiong2	Schön <> hong	(red stone)/beautiful	琼=⿰[[玉|⺩]][[京]]    yù  yù     jīng  		
+2205	琼	qiong2	Schön <> hong	(red stone)/beautiful	琼=⿰玉|⺩京    yù  yù     jīng  		
 2206	脂	zhi1		fat	zhī脂= 		
 2207	谎	huang3		lies/to lie	谎=⿰讠荒  yán huāng		
 2208	慨	kai3		generous/sad	kǎi慨=⿰忄既  xīn jì		
@@ -2154,7 +2152,7 @@ extensions v1.0.0 loaded
 2240	粘	nian2/zhan1		sticky/to stick/paste	nián粘=⿰米占  mǐ zhan1/zhan4		
 2241	柄	bing3	ba 丙 bǐng	authority/handle/hilt	bǐng柄=⿰木丙  mu4 bing3		
 2242	坑	keng1		pit/to defraud	kēng坑=⿰土亢  tǔ kang4		
-2243	陌	mo4	@moor	raised path/street	mò陌=⿰[[阜|⻖]][[百]]    fu4  fù     bǎi  		
+2243	陌	mo4	@moor	raised path/street	mò陌=⿰阜|⻖百    fu4  fù     bǎi  		
 2244	窄	zhai3	thin	narrow	zhǎi窄=⿱穴乍  穴 zha4		
 2245	湘	xiang1		name of a river	Xiāng湘=⿰氵相  shui xiang1/xiang4		
 2246	兆	zhao4	兆 sehr 10^6^2	omen/million/million million/trillion	zhào兆=⿻儿⿰冫⿱丿丶  er2/er  bīng  piě diàn zhǔ 		
@@ -2218,7 +2216,7 @@ extensions v1.0.0 loaded
 2304	硕	shuo4	Shuge ≠ short	large/big	硕=⿰石页  Shi2/dan4 ye4		
 2305	钓	diao4		to fish with a hook and bait	钓=⿰钅勺  jīn shao2		
 2306	蝶	die2		butterfly	蝶=⿰虫枼  chong2 ?		
-2307	膝	xi1	~ χy ξi 	knee	xī膝=⿰[[肉|⺼]][[桼]]    ròu  ròu     ?  	xeno	
+2307	膝	xi1	~ χy ξi 	knee	xī膝=⿰肉|⺼桼    ròu  ròu     ?  	xeno	
 2308	姚	yao2		Yao (a surname)	yáo姚=⿰女兆  nu:3/nv3 zhào		
 2309	茂	mao4	末 mò ↟⇧ 矛 máo 戊	luxuriant	mào茂=⿱艹戊  cǎo wu4		
 2310	躯	qu1	qurper	human body	躯=⿰身区  shen1 ou1/qu1		
@@ -2275,7 +2273,7 @@ extensions v1.0.0 loaded
 2362	陡	dou3	√duro?	steep	dǒu陡=⿰阝走  fù zǒu		
 2364	兔	tu4	<> mao	rabbit	兔= 		
 2365	殷	yan1/yin1/yin3	DYN dynasty dan!	dark red/(surname)/dynasty/flourishing/roll of thunder	殷=⿰㐆殳  ? shū		
-2366	贞	zhen1	贞 er-ziehen	chaste	贞=⿱[[卜|⺊]][[贝]]    bǔ  bǔ     bei4 BEÌ  		
+2366	贞	zhen1	贞 er-ziehen	chaste	贞=⿱卜|⺊贝    bǔ  bǔ     bei4 BEÌ  		
 2367	荐	jian4	JA 1A jein;)	recommend (a person)	jiàn荐=⿱艹存  cǎo cún		
 2368	哑	ya1/ya3		(onomat.)/dumb/mute	哑=⿰口亚  kou3 ya4		
 2369	炭	tan4	1 ton ≠TIN!  丹 ?	carbon/charcoal	tàn炭=⿱山灰  shan1 huī		
@@ -2310,7 +2308,7 @@ extensions v1.0.0 loaded
 2398	蓬	peng2	peng!	(grass)/disheveled(¬chevel=hair)	péng蓬=⿱艹逢  cǎo feng2		
 2399	巷	xiang4	Gang x-ing	lane/alley	xiàng巷=⿱共巳  gong4 si4		
 2400	琳	lin2	!	gem	lín琳=⿰𤣩林  yu4 lín		
-2401	栽	zai1	!	to force/to stick in/to plant	栽=⿹[[𢦏]][[木]]    ?     mu4  		
+2401	栽	zai1	!	to force/to stick in/to plant	栽=⿹𢦏木    ?     mu4  		
 2402	沾	zhan1	shuin	infected by/moisten/receive favors/moisten	沾=⿰氵占  shui zhan1/zhan4		
 2403	诈	zha4	SHOU 手 乍 又 	crafty/dishonest	诈=⿰讠乍  yán zha4		
 2404	斋	zhai1	zai…	a fast/studio	斋=⿱文而  wen2 ér		
@@ -2334,7 +2332,7 @@ extensions v1.0.0 loaded
 2422	宠	chong3	< 	to love/to pamper/to spoil/to favor	宠=⿱宀龙  mián long2		
 2423	嘿	hei1	Hey  < 嘿 heili hello!	hey	hēi嘿=⿰口黑  kou3 hēi		
 2424	兑	dui4	dough! 兑	to cash	兑= 		
-2425	霉	mei2	mold@moor (black) 	bacteria/fungi/moldy	méi霉=⿱[[雨|⻗]][[每]]    yu3  yǔ     měi  		
+2425	霉	mei2	mold@moor (black) 	bacteria/fungi/moldy	méi霉=⿱雨|⻗每    yu3  yǔ     měi  		
 2426	挫	cuo4	√kurz?	be obstructed/fail/oppress/repress/lower the tone/bend back/dampen	cuò挫=⿰扌坐  shǒu zuò		
 2427	稽	ji1/qi3	see	inspect/check/bow to the ground	稽=⿰禾⿱尤旨  he2  yóu zhǐ		
 2428	辐	fu2		spoke of a wheel	辐=⿰车畐  che1/ju1 fú		
@@ -2369,7 +2367,7 @@ extensions v1.0.0 loaded
 2457	趟	tang4	~TIME	a time/a trip	趟=⿺走尚  zǒu shang4		
 2458	帘	lian2	LINE  lolwhat?	wine shop sign	lián帘=⿱穴巾  穴 jīn		
 2459	帆	fan1	Fan @ wind!	sail	帆帆=⿰巾凡  jīn fán		
-2460	栖	qi1/xi1	siede/grill	to roost/to inhabit/to stay/habitat/to roost/to inhabit/to stay/habitat	xī栖=⿰[[木]][[西]]    mu4     xī  		
+2460	栖	qi1/xi1	siede/grill	to roost/to inhabit/to stay/habitat/to roost/to inhabit/to stay/habitat	xī栖=⿰木西    mu4     xī  		
 2461	窜	cuan4	goin	flee/escape/run away/leap	窜=⿱穴串  穴 chuan4		
 2462	丸	wan2	丸 ‘round’	pill	wán丸= 		
 2463	斩	zhan3		behead/chop	斩=⿰车斤  che1/ju1 jin1		
@@ -2546,7 +2544,7 @@ extensions v1.0.0 loaded
 2635	绸	chou2	~	(light) silk	绸=⿰纟周  mì zhōu		
 2636	屿	yu3	Iyul @ YU	islet	屿=⿰山与  shan1 yu2/yu3/yu4		
 2637	氢	qing1	'gas’	hydrogen	氢=⿹气𢀖  qi4 		
-2638	驼	tuo2	camel:tuó	humpback	驼=⿰[[马]][[它]]    ma3     ta1  		
+2638	驼	tuo2	camel:tuó	humpback	驼=⿰马它    ma3     ta1  		
 2639	妆	zhuang1	schön 	adornment/adorn	妆=⿰丬女  qiáng nu:3/nv3		
 2640	捆	kun3	quel kun! CON	a bunch/tie together/bundle	kǔn捆=⿰扌困  shǒu kùn		
 2641	铅	qian1	ZINN	lead (metal)	铅=⿰钅㕣  jīn ?		
@@ -2742,7 +2740,7 @@ extensions v1.0.0 loaded
 2833	畔	pan4	pan 片 bank 票	bank/field-path 	pàn畔=⿰田半  tian2 bàn	<> salt-pan pian!	
 2835	碟	die2	dish	dish/plate	dié碟=⿰石枼  Shi2/dan4 ?		
 2836	涩	se4		grating (of surfaces)/tart/acerbic	涩=⿰氵⿱刃止  shui  rèn zhi3		
-2837	胧	long2	lun	rising moon/hazy/unclear	胧=⿰[[肉|⺼]][[龙]]    ròu  ròu     long2  		
+2837	胧	long2	lun	rising moon/hazy/unclear	胧=⿰肉|⺼龙    ròu  ròu     long2  		
 2838	嘟	du1	duut	toot/honk	嘟=⿰口都  kou3 dou1/du1		
 2839	蹦	beng4	bounce	to jump/bounce or hop	bèng蹦=⿰𧾷崩  zu2 bēng		
 2840	冢	zhong3	KING/TOWN	great/mound/mound	zhǒng冢=⿱冖豖  mì ?		
@@ -2863,7 +2861,7 @@ extensions v1.0.0 loaded
 2959	迂	yu1		literal-minded	yū迂=⿺辶于  chuò / zouzhi yú		
 2960	瞻	zhan1	seen	gaze/view	zhān瞻=⿰目詹  mu4 zhān		
 2961	颅	lu2	< 	forehead/skull	颅=⿰卢页  lu2 ye4		
-2962	琉	liu2	liupis liuzury	precious stone	liú琉=⿰[[玉|⺩]][[㐬]]    yù  yù     ?  		
+2962	琉	liu2	liupis liuzury	precious stone	liú琉=⿰玉|⺩㐬    yù  yù     ?  		
 2963	悼	dao4	@dai devil	mourn/lament	dào悼=⿰忄卓  xīn 卓		
 2964	蝴	hu2	hu:beast	butterfly	hú蝴=⿰虫胡  chong2 hú		
 2965	拣	jian3		choose/pick up	拣=⿰扌𫠣  shǒu ?		
@@ -3038,7 +3036,7 @@ extensions v1.0.0 loaded
 3136	茄	qie2	eqie	eggplant	茄=⿱艹加  cǎo jiā		
 3137	韧	ren4	@man	annealed/pliable but strong/tough/tenacious	韧=⿰韦刃  wei2 rèn		
 3138	琪	qi2	qi® chryst/christ!	(white gem)/angel	qí琪=⿰𤣩其  yu4 qi2		
-3139	邹	zou1		(surname)/name of district in Shandong	邹=⿰[[刍]][[邑|⻏]]    ?     yì  yì  		
+3139	邹	zou1		(surname)/name of district in Shandong	邹=⿰刍邑|⻏    ?     yì  yì  		
 3140	瑚	hu2	hural	coral	hú瑚=⿰𤣩胡  yu4 hú		
 3141	憋	bie1	biek back	hold in (urine)/to hold (breath)/to choke/stifle/restrain/hold back	biē憋=⿱敝心  bi4 xin1		
 3142	殆	dai4	Dainger danger <> devil	dangerous/perilous/endanger/almost/probably/only	dài殆=⿰歹台  dai3 tai2		
@@ -3051,7 +3049,7 @@ extensions v1.0.0 loaded
 3149	髦	mao2	Mane  <> 时髦 smart=’si-mao’	bang (hair)/fashionable/mane	máo髦=⿱髟毛  biāo mao2		
 3150	孜	zi1	作 zuo4	hard-working/industrious	zī孜=⿰子攵  zi3/zi pū		
 3151	粤	yue4	粤	Cantonese/Guangdong	粤=⿱⿴丿囗米丂   piě wéi mǐ ?		
-3152	隘	ai4	ENG	a pass or defile/narrow/confined/in distress	隘=⿰[[阜|⻖]][[益]]    fu4  fù     yì  		
+3152	隘	ai4	ENG	a pass or defile/narrow/confined/in distress	隘=⿰阜|⻖益    fu4  fù     yì  		
 3153	濒	bin1	bei:nah	near	濒=⿰氵频  shui pin2		
 3154	铮	zheng1	clang 	clang of metals/small gong	铮=⿰钅争  jīn zheng1		
 3155	畸	ji1	schief	fractional remains/odd	jī畸=⿰田奇  tian2 ji1/qi2		
@@ -3063,7 +3061,7 @@ extensions v1.0.0 loaded
 3161	唬	hu3	howl	intimidate/tiger's roar/to fool	唬=⿰口虎  kou3 hu3		
 3162	锣	luo2	läut	gong	锣=⿰钅罗  jīn luo1/luo2		
 3163	汀	ting1		sand-bank	汀=⿰氵丁  shui ding1		
-3164	趾	zhi3	ZEH ++	toe	zhǐ趾=⿰[[足|⻊]][[止]]    zu2  zú     zhi3  		
+3164	趾	zhi3	ZEH ++	toe	zhǐ趾=⿰足|⻊止    zu2  zú     zhi3  		
 3165	缉	qi1/ji1	stick	to stitch finely	缉=⿰纟咠  mì ?		
 3166	嫦	chang2	GANA <	a legendary beauty who flew to the moon/the lady in the moon	cháng嫦=⿰女常  nu:3/nv3 cháng		
 3167	斟	zhen1		pour/to deliberate	zhēn斟=⿰甚斗  shen4 dou3/dou4		
@@ -3098,7 +3096,7 @@ extensions v1.0.0 loaded
 3196	渣	zha1	Schaum +	dregs	zhā渣=⿰氵查,⿰氵査  shui cha2/zha1 yì  shui ?		
 3197	褂	gua4	guat=coat	coat	guà褂=⿰衤卦  yi1/yi4 guà		
 3198	叽	ji1	叽	grumble	叽=⿰口几  kou3 jī		
-3199	臀	tun2	buttun	butt/buttocks	tún臀=⿱[[殿]][[肉|月]]    diàn     ròu  yuè  		
+3199	臀	tun2	buttun	butt/buttocks	tún臀=⿱殿肉|月    diàn     ròu  yuè  		
 3200	妞	niu1	Niun 尼 ni2 NINa NUN!  妮 ni1 女 nu:3/nv3	little girl	niū妞=⿰女丑  nu:3/nv3 chǒu		
 3201	巍	wei1	way high	high/lofty/towering/majestic	巍巍=⿱山魏  shan1 wèi		
 3202	唔	en2	UN ¬ WU  無 MA ¬ m4/ng4	NOT	唔=⿰口吾  kou3 wu2	cantonese 不 bùn	
@@ -3195,7 +3193,7 @@ extensions v1.0.0 loaded
 3294	嗨	hai1/hei1	Hey ;)	oh alas	hāi嗨=⿰口海  kou3 hǎi		
 3295	陨	yun3	< 	fall/meteor/perish	陨=⿰阝员  fù yuan2		
 3296	赃	zang1	COIN 	booty/spoils	赃=⿰贝庄  bei4 BEÌ zhuang1		
-3297	羁	ji1	Jin ∑	halter/restrain	羁=⿱[[罒|⺲]]⿰[[革]][[马]]    wǎng  wǎng      ge2     ma3  		
+3297	羁	ji1	Jin ∑	halter/restrain	羁=⿱罒|⺲⿰革马    wǎng  wǎng      ge2     ma3  		
 3298	臻	zhen1	zher	to reach/utmost	zhēn臻=⿰至秦  zhì qín		
 3299	嘀	di2/di1	diss	backbite (lästern)	dí嘀=⿰口啇  kou3 ?		
 3300	膳	shan4	Can @ cantine	meals	shàn膳=⿰月善  yuè shàn		
@@ -3302,7 +3300,7 @@ extensions v1.0.0 loaded
 3404	攘	rang3	rank^^	throw into confusion	rǎng攘=⿰扌襄  shǒu xiāng		
 3405	诘	jie2	SEE 	investigate/restrain/scold	诘=⿰讠吉  yán jí		
 3406	篡	cuan4		to seize/to usurp	cuàn篡=⿳𥬥大厶  ? da4/dai4 sī		
-3407	睿	rui4		astute/perspicacious/farsighted	ruì睿=⿱⿱⿳[[卜|⺊]][[冖]][[一]]⿱[[八]][[人|𠆢]][[目]]      bǔ  bǔ     mì     一      ba1     ren2  rén     mu4  		
+3407	睿	rui4		astute/perspicacious/farsighted	ruì睿=⿱⿱⿳卜|⺊冖一⿱八人|𠆢目      bǔ  bǔ     mì     一      ba1     ren2  rén     mu4  		
 3408	噩	e4	è!	startling (alarmierend)	è噩=⿻王㗊  wang2 ?		
 3409	怅	chang4	change (heart)	regretful/upset/despair/depressed	怅=⿰忄长  xīn chang2/zhang3		
 3410	盎	ang4	盎	abundant/bowl/dish/pot	àng盎=⿱央皿  yang1 min3		
@@ -3414,7 +3412,7 @@ extensions v1.0.0 loaded
 3516	酥	su1	schuppig	flaky	sū酥=⿰酉禾  you3 he2		
 3517	袅	niao3	Nice niedj niao nina	delicate/graceful	袅=⿹鸟衣  niao3 yi1/yi4		
 3518	黝	you3	<<<	black/dark green	yǒu黝=⿰黑幼  hēi yòu		
-3519	俾	bi3	by… BE…	to cause/to enable	俾=⿰[[亻]][[卑]]    rén     bēi  	basta	
+3519	俾	bi3	by… BE…	to cause/to enable	俾=⿰亻卑    rén     bēi  	basta	
 3520	嫣	yan1	√yana™	captivating	yān嫣=⿰女焉  nu:3/nv3 yan1		
 3521	穹	qiong2	< 	arched/lofty/vast	穹穹=⿱穴弓  穴 gong1		
 3522	秧	yang1	YOUNG 伢	shoots/sprouts	yāng秧=⿰禾央  he2 yang1		
@@ -3438,14 +3436,14 @@ extensions v1.0.0 loaded
 3540	揍	zou4	z’hau	beat up/break to pieces	zòu揍=⿰扌奏  shǒu zòu		
 3541	诽	fei3	fake news	slander (Verleumdung )	诽=⿰讠非  yán fei1		
 3542	倔	jue2/jue4		crabby/tough	jué倔=⿰亻屈  rén qū		
-3543	腓	fei2	1. Fade 2. Ferse 3. Furt?	decay/calf of leg/protect	féi腓=⿰[[肉|⺼]][[非]]    ròu  ròu     fei1  		
+3543	腓	fei2	1. Fade 2. Ferse 3. Furt?	decay/calf of leg/protect	féi腓=⿰肉|⺼非    ròu  ròu     fei1  		
 3544	颉	xie2/jie2		(surname)/fly upwards/neck	颉=⿰吉页  jí ye4		
 3545	锄	chu2	c’hau > hoe	a hoe/to hoe or dig/to weed/get rid of	锄=⿰钅助  jīn zhù		
 3546	嗔	chen1	c’hèn 恨 	to be angry at	chēn嗔=⿰口真  kou3 zhēn		
 3547	磺	huang2	黄 huang2 火 huǒ 煌 huáng	sulfur	huáng磺= 		
 3548	攒	cuan2/zan3	CUAN CON ZU’AN ∑	bring together/collect/hoard	攒=⿰扌赞  shǒu zan4		
 3549	瘩	da2		sore/boil/scab	瘩=⿸疒荅  nè ?		
-3550	雳	li4	lightning	clap of thunder	雳=⿱[[雨|⻗]][[历]]    yu3  yǔ     li4  		
+3550	雳	li4	lightning	clap of thunder	雳=⿱雨|⻗历    yu3  yǔ     li4  		
 3551	吆	yao1	yell	shout	yāo吆=⿰口幺  kou3 yāo		
 3552	悚	song3	s’angst	frightened	sǒng悚=⿰忄束  xīn shù		
 3553	墩	dun1	Dam ++	block/gate pillar/pier	dūn墩=⿰土敦  tǔ dun1		
@@ -3490,7 +3488,7 @@ extensions v1.0.0 loaded
 3592	惋	wan3	vain?	regret/be sorry/alarmed	惋惋=⿰忄宛  xīn wan3		
 3593	腋	ye4		armpit	腋腋=⿰月夜  yuè yè		
 3594	螂	lang2	lóng 龍 龙 良	dragonfly/mantis	láng螂=⿰虫郎  chong2 lang2		
-3595	阪	ban3	< 	a slope/hillside	bǎn阪=⿰[[阜|⻖]][[反]]    fù  fù     fan3  		
+3595	阪	ban3	< 	a slope/hillside	bǎn阪=⿰阜|⻖反    fù  fù     fan3  		
 3596	掣	che4	Zieh / stop	draw/pull/obstruct/hinder	chè掣=⿱制手  zhì shou3		
 3597	劾	he2		impeach	hé劾=⿰亥力  hài li4		
 3598	沥	li4	li…liquid	drip	沥=⿰氵历  shui li4		
@@ -3638,7 +3636,7 @@ extensions v1.0.0 loaded
 3740	芹	qin2	~ :)	Chinese celery	qín芹=⿱艹斤  cǎo jin1		
 3741	哒	da1	da!	(phonetic)/command to a horse/clatter (of horses' hoofs)	哒=⿰口达  kou3 tì		
 3742	饬	chi4		keep in order/stern/to order/direct	饬=⿰饣⿱𠂉力  shi2/si4  rén li4		
-3743	栩	xu3	™	Quercus serrata	栩=⿰[[木]][[羽]]    mu4     yǔ  		
+3743	栩	xu3	™	Quercus serrata	栩=⿰木羽    mu4     yǔ  		
 3744	曦	xi1	shine	light of day	xī曦=⿰日羲  ri4 xi1		
 3745	骷	ku1	@ghoul 骨古 gǔ @gero dogǒu 狗	skeleton	kū骷=⿰骨古  gǔ gǔ	*(s)kelh₁-	
 3746	嫡	di2	didi	first wife/son of first wife	dí嫡=⿰女啇  nu:3/nv3 ?		
@@ -3704,7 +3702,7 @@ extensions v1.0.0 loaded
 3807	撂	liao4	LIAOV leave ++	to leave (it)	liào撂=⿰扌畧  shǒu ?		
 3808	蛊	gu3	@gui?	insanity/poison	蛊=⿱虫皿  chong2 min3		
 3809	甥	sheng1		nephew	shēng甥=⿰生男  shēng nán		
-3810	璐	lu4	绿 [green]	(jade)	lù璐=⿰[[玉|⺩]][[路]]    yù  yù     lù  		
+3810	璐	lu4	绿 [green]	(jade)	lù璐=⿰玉|⺩路    yù  yù     lù  		
 3811	晏	yan4	y’AN	(surname)/late/quiet	yàn晏=⿱日安  ri4 ān	Jana?	
 3812	瘪	bie3		deflated/shriveled/sunken/empty	瘪=⿸疒⿱自仓  nè  zi4 cang1		
 3813	漳	zhang1		name of a river	Zhāng漳=⿰氵章  shui zhāng		
@@ -3799,7 +3797,7 @@ extensions v1.0.0 loaded
 3903	萦	ying2	wying	wind around	萦=⿱𫇦糸  ? mì		
 3904	珥	er3	Earring / pearl	pearl or jade earring	ěr珥=⿰𤣩耳  yu4 er3		
 3905	酮	tong2	ke.tone	ketone	酮=⿰酉同  you3 tóng		
-3906	璞	pu2	pu¬lish	unpolished gem	pú璞=⿰[[玉|⺩]][[菐]]    yù  yù     ?  		
+3906	璞	pu2	pu¬lish	unpolished gem	pú璞=⿰玉|⺩菐    yù  yù     ?  		
 3907	羹	geng1	1. gang	soup	羹=⿱羔美  gāo měi		
 3908	缄	jian1	SIGN	letters/to close/seal	缄=⿰纟咸  mì xián		
 3909	晾	liang4	long@line	to dry in the air	liàng晾=⿰日京  ri4 jīng		
@@ -4042,7 +4040,7 @@ extensions v1.0.0 loaded
 4147	鹞	yao4		sparrow hawk/Accipiter nisus	鹞=⿰䍃鸟  ? niao3		
 4148	翱	ao2		soar/hover	áo翱=⿰皋羽  gāo yǔ		
 4149	庖	pao2		kitchen	páo庖=⿸广包  yǎn bao1		
-4150	籁	lai4		music/musical pipe with 3 reeds	籁=⿱[[竹|⺮]][[赖]]    zhú  zhu2     lai4  		
+4150	籁	lai4		music/musical pipe with 3 reeds	籁=⿱竹|⺮赖    zhú  zhu2     lai4  		
 4151	蓿	xu			蓿=⿱艹宿  cǎo su4/xiu3/xiu4		
 4152	鳗	man2		eel/Anguilla lostoniensis	鳗=⿰鱼曼  yu2 màn		
 4154	鲇	nian2			鲇=⿰鱼占  yu2 zhan1/zhan4		
@@ -4109,7 +4107,7 @@ extensions v1.0.0 loaded
 4216	孢	bao1		spore	bāo孢=⿰子包  zi3/zi bao1		
 4217	镭	lei2		radium	镭=⿰钅雷  jīn léi		
 4218	驸	fu4		prince consort	驸=⿰马付  ma3 fu4		
-4219	腌	yan1		to salt/pickle	腌腌=⿰[[肉|⺼]][[奄]]    ròu  ròu     yan1/yan3  		
+4219	腌	yan1		to salt/pickle	腌腌=⿰肉|⺼奄    ròu  ròu     yan1/yan3  		
 4220	盹	dun3		doze/nap	dǔn盹=⿰目屯  mu4 tun2/zhun1		
 4221	熵	shang1		entropy	shāng熵=⿰火商  huǒ shāng		
 4222	镐	gao3/hao4		a pick/bright/place name/stove	镐=⿰钅高  jīn gāo		
@@ -4144,7 +4142,7 @@ extensions v1.0.0 loaded
 4251	蛆	qu1		maggot	qū蛆=⿰虫且  chong2 qie3		
 4252	柠	ning2		lemon	柠=⿰木宁  mu4 zhù		
 4253	掰	bai1		to break with both hands	bāi掰=⿲手分手  shou3 fen1/fen4 shou3		
-4254	篆	zhuan4		seal characters	zhuàn篆=⿱[[竹|⺮]][[彖]]    zhú  zhu2     *Sau  		
+4254	篆	zhuan4		seal characters	zhuàn篆=⿱竹|⺮彖    zhú  zhu2     *Sau  		
 4255	倌	guan1		a groom	guān倌=⿰亻官  rén guān		
 4256	咛	ning2		enjoin	咛=⿰口宁  kou3 zhù		
 4257	蛭	zhi4		fluke/leech/hirudinea	zhì蛭=⿰虫至  chong2 zhì		
@@ -4223,4 +4221,4 @@ extensions v1.0.0 loaded
 4331	垠	yin2		bank	yín垠=⿰土艮  tǔ gēn		
 4332	饨	tun2		Chinese ravioli	饨=⿰饣屯  shi2/si4 tun2/zhun1		
 4333	榭	xie4		pavilion	xiè榭=⿰木射  mu4 she4		
-4334	隍	huang2		d	huáng隍=⿰[[阜|⻖]][[皇]]    fù  fù     huáng  		
+4334	隍	huang2		d	huáng隍=⿰阜⻖皇    fù  fù     huáng  		
