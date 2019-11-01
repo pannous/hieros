@@ -1,23 +1,23 @@
 PHONICIAN UGARITIC		ALPHABET	
 A	𐤀	𐎀	ᵓALPA	α	𓂣	𐎓	Pha Fa fo [brA]…  1 AINzen 10  anon ¬ 𐎐 naun
-B	𐤁	𐎁	BETA	bi v do	𓃀𓃀 𐤁	𐎄	*BRD! *BLD BD 𓉔 PT 𓉐  
+B	𐤁	𐎁	BETA	biᵗ v do	𓃀𓃀 𐤁	𐎄	*BRD! *BLD BD 𓉔 PT 𓉐  
 C	𐤂	𐎂	GAMLA	Γ	𓋴 𓍿	𐎋 Car	𐎓𐎗Cur 𓊖  𐎇CETA CTHaar: 𐎃KHA𐎕Zaden 𐎙GHAIN 
-D	𐤃	𐎏	DHALta	Δ	𓂧	𐎘THA	𐎁 *brD 𐎄*blDT Bdt 𓉔 Beth 𐎊DVY! PT 𓉐   Dar/Weil 𐎃dHair dreh
+D	𐤃	𐎏	DHALta	Δ	𐎚𓂧	𐎘THA	𐎁 *brD 𐎄*blDT Bdt 𓉔 Beth 𐎊DVY! PT 𓉐   Dar/Weil 𐎃dHair dreh
 E	𐤄	𐎅	HE / HO	E	𓇋 𐤇 𐤄	dHøme	𐎅 3 thrEes sHen?
-F (v/ph)	𐤅	𐎛	ƒIr	F	𓇋	ƒir	𐎛 4 Fieder Vieh fur ʾu 𐎜 𓊪Ur 𓊖𓏌
+F 𐤅	𐎛	ƒIr/vir/fehl	Fa𐎀	𓇋	ƒir	𐎛 4 Fieder Vieh fur ʾu 𐎜 𓊪Ur 𓊖𓏌
 G	𐤂	𐎙	GHAIN	¬ Γ	𓎼	Kein	𐎙 ¬ 𒉡 Nein ↔ shun 𐎌7 6𐎘
 H	𐤇	𐎅	HE / cHO	H	𓉔 𐤇	dHøme	𐎈krHOTA 🕂  𐎃 KHAar
 I	𐤉	𐎛	I	ƒI	𓇋	ƒir	𐎛 4 Fieder Vieh fur 
 J	𐤉	𐎊	YOD	JIY	𓇌 𓆳𓆳	*dVy Vie	𐎃 KHAir
 K	𐤊	𐎋	KAF	CA	𓐍𓎡𓎼	KAR	𐎃 KHAir 𐎒 SAMKA 𐎋!!
-LM	𐤋	𐎍𐎎	LAMDA	R! L/M	𓏯𓏯𓏯𓈗	RAM	𐎠   𐎚?  YyλL
-MN	𐤌	𐎎𐎍	MEMN	¬ µ r L	𓈗 𓌳	RMO¬NO	ra 𒇲la=¬  µU𐎓? 𐎍LMN RMN lamda 
-N	𐤍	𐎐	NUNth	𓈖	𓈖	Naun	𐎚 𐎎¬ NYX  µNOch 𐎀 Anot 𐎚
+LM	𐤋	𐎍𐎎	LAMDA	R! L/M	𓏯𓏯𓏯𓈗	RAM𐎎𐎠!   𐎚?  YyλL
+MRN	𐤌	𐎎𐎍	MEMN	¬ µ r L	𓈗 𓌳	Rmo¬no	ra 𒇲la=¬  µU𐎓? 𐎍LMN RMN lamda 
+N	𐤍	𐎐	NUNth	𓈖	𓈖	MEANaun	𐎚 𐎎¬ NYX  µNOch 𐎀 Anot 𐎚
 O	𐤏	𐎓	AIN	꜂u	𓂣	OUIN	AINzen 10 +0 und ohne oder oygher:𐎓𐎗=𓊖=CAR/UR
 P	𐤐	𐎔	PU	𓊪	𓊪	Bi	ʾu 𐎜 wu/pur 𓊪Ur ↔ 𒁀 𐎲 𒉺 π Part! 𓐝 𐎔 ≠ 𒋰 DaBi double
-Q	𐤒	𐎖	QOPA	Q	𓏘  𓁷		𐎉 TET  Qyrt 𓊖 eCht ↔ kipp/cup 𓐍𓎡𓎼 
+Q	𐤒	𐎖	QOPA	Q	𓏘  𓁷		𐎉 TET  Qyrt 𓊖 eCht ↔ 𐎎𐎒̌𐎖kipp/CUP 𓐍𓎡𓎼 
 R	𐤓	𐎗	RASHAn	R 𓂋𐎚 L	𓂋𐎍! 𓁶	Rn	Ration rake 𐎓𐎗=𓊖=CAR/UR
-S	𐤑	𐎒	SAMKAr	σ	𓋴	𐎕Zade	𐎌 SHI'N 7  𐎘𐎘sis:6 𐎘thres:3 𐎋Car 𒐼SAR * star 𐎃cThaar sPhere
+S	𐤑	𐎒	SAMKAr	σar	𓋴	𐎕Zade	𐎌 SHI'N 7  𐎘𐎘sis:6 𐎘thres:3 𐎋Car 𒐼SAR * star 𐎃cThaar sPhere
 T	𐤕	𐎚	TO	🕇TET 𐎉	𓏏	𒁹 tišh	T / R / L / N ! (sic's) 𒁹 dáš  𐎃 *Thaar 𐎅 ThrEes
 U	𐤅	𐎓𐎊	AIN	VUW	𓊖𓏌𓅱 𓍢 𓂣	µUOIN	und ohne oder and  ʾu 𐎜 wUr
 V	𐤅	𐎁𐎊	*VYOD		𓅳		𐎁bd/v *DVY *DEFyGHIJK devide tzwei	多duō.viel
@@ -45,1822 +45,1831 @@ Legitimate Semitic:
 𐎊𐎎 • (ym) day  JOURM / Daym <> immer time 2  יוֹם‎ (yōm), Arabic يَوْم‎ (yawm)  ỉmy (“sun (as an eye)”) 𒌓 (ūmu 
 𐎊𐎎 • (ym) sea	YuMare / Dom יָם‎ yām  يَمّ‎ (yamm) <> swim Demotic: ym Coptic: ⲓⲟⲙ (iom) Syriac: ܝܡܐ‎ (yammāʾ) 
 𐎊𐎎 𓇋𓇋𓅓𓂝𓈗 YuMare(m)
+-𐎊 SUFFIX -Y -ER (person) -TAN (thing) -TION -TUM -DOM 
 
-𐎛 	 i	 intern	adv.		"where?" Fronzaroli ARES 1 12
-𐎛 	 i		interj.		"oh!" HALOT 38
-𐎜 	 u	dsj.	conj.		"or, that is, also, as if
-𐎀𐎁 	 ab		1)		"father"
-𐎀𐎁 	 ab		"ghost, spirit" ', and Hitt a-a-pi, HW2 181ff
-𐎛𐎁 	 ib		"enemy" ābu, AHw 23f
-𐎛𐎁 	 ib		1)		"fruit"/		"bud, flower"
-𐎀𐎁𐎏 	 abd			"ruin, destruction"
-𐎜𐎁𐎏𐎛𐎚 	 ubdit			"share-cropping, leasing system, tenancy"
-𐎀𐎁𐎏𐎊 	 abdy			"ruin, destruction"
-𐎜𐎁𐎏𐎊 	 ubdy			"land, plot, farming"
-𐎁𐎍𐎁𐎍 	 blbl	generic meaning		"messenger, bearer"
-𐎀𐎁𐎐 	 abn	1)		"stone" "weight"
-𐎛𐎁𐎗 	 ibr		wn"
-𐎛𐎁𐎒𐎐 	 ibsn		"warehouse"
-𐎀𐎁𐎊 	 aby		"ancestral"
-𐎀𐎁𐎊𐎐 	 abyn		"poor, wretch, insolvent"
-𐎛𐎏 	 -id	temporal	adv. morpheme used to form distributive numerals,		"time"
-𐎛𐎏 	 id	temporal	adv. functor		"then"
-𐎜𐎏 	 ud		"pay, payment"
-𐎛𐎏𐎋 	 idk	narrative	adv. functor		"then, and so, so then"
-𐎀𐎏𐎎 	 adm	1)Adam		"man"
-𐎀𐎏𐎎 	 adm		"obtained, acquired"
-𐎛𐎏𐎎 	 idm		"?"
-𐎀𐎏𐎐 	 adn	1)		"lord, master"
-𐎛𐎏𐎐 	 idn		"authorization, full powers"   edānir, 
-𐎜𐎏𐎐 	 udn		"ear" votzen
-𐎜𐎏𐎐 	 udn	"dominion"
-𐎀𐎏𐎗 	 adr	adj./1)		"wonderful, magnificent, strong, of good quality"
-𐎀𐎏𐎗 	 adr		"granary"
-𐎀𐎏𐎗 	 adr		"fibula'    Cecchini SEL 1 1984 47
-𐎜𐎏𐎗 	 udr		"nobility, the most noble"	Hb. ?dr, HALOT 16
-𐎛𐎏𐎗𐎔 	 idrp		"?", an element in the titulary of the god ršp
-𐎀𐎏𐎗𐎚 	 adrt	adj./1)		"of good quality" adrett
-𐎀𐎏𐎚 	 adt		"lady" /. 
-𐎛𐎏𐎚, 	 idt,		"?"
-𐎛𐎏𐎊 	 idy	adv. of time		"already"
-𐎜𐎏𐎗 	 udr		"express messenger, courier"
-𐎀𐎙𐎐 	 agn		"cauldron, earthenware bowl"  52f
-𐎜𐎙𐎗 	 ugr		"field, soil" ACKER
-𐎀𐎙𐎗𐎚 	 agrt		"mistress" a'kurata
-𐎀𐎙𐎕𐎗𐎚 	 agzrt	adj.	f.		"anxious, longing, eager"    pattern of agzry, 
-𐎀𐎙𐎕𐎗𐎊 	 agzry		"ravenous, glutton"
-𐎀𐎛𐎙̇𐎍 	 a/iġl		"emancipated"
-𐎀𐎙̇𐎕𐎚 	 aġzt		"wedding, betrothal"  <	Akk. ahuzzatu, AHw 23
-𐎀𐎅𐎁𐎚 	 ahbt		"love" aloved a'hobet o'habet
-𐎀𐎅𐎍 	 ahl		"tent, mansion"
-𐎛𐎅𐎚 	 iht	pl.		"islands, coastal region"
-𐎀𐎅𐎏 	 ahd	adj.	num.	1)		"one, only one, oneself ECHAT,erst
-𐎀𐎅𐎏𐎅 	 ahdh	adv.		"together, at the same time"
-𐎀𐎅𐎍 	 ahl	interj.		"if only!"
-𐎀𐎅 	 ah	1)		"brother"
-𐎜𐎍𐎎𐎐 	 ulmn		"widowhood"
-𐎀𐎍𐎎𐎐𐎚 	 almnt		"widow"
-𐎀𐎎 	 am		"oak grove"
-𐎛𐎍𐎐 	 iln		"deity, god"
-𐎛𐎍𐎐𐎊 	 ilny	adj./n.		"divine one", used basically of dead and deified heroes / kings  
-𐎀𐎍𐎔 	 alp	1) "cattle" young   cattle"
-𐎀𐎍𐎔 	 alp	num." thousand"  collective		"herd" all Vieh alpha@SEM
-𐎀𐎍𐎔𐎐 	 alpn		"domesticated, tame"	Hb. Pwlpn,  <<<< albino alpha-bull?
-𐎛𐎍𐎖𐎒𐎎 	 ilqsm		"gem", "divine/precious stone		"		"MAŠ.MAŠ, PRU 3 75   12] =		"1957.4		")
-𐎀𐎍𐎚 	 alt		"curse"
-𐎀𐎍𐎚 	 alt		"support, pillar"
-𐎛𐎍𐎚 	 ilt	1)		"goddess" vs ilon
-𐎛 	 i	conj.	1)	cond.		"if and 2)	disj.		"either...	or..."
-𐎜𐎎 	 um		"mother"
-𐎀𐎎𐎏 	 amd	adv.		"always"
-𐎀𐎎𐎐 	 amn		"faithful"
-𐎀𐎎𐎗 	 amr	1)		"order, demand"
-𐎛𐎎𐎗 	 imr	n.	m.,		"lamb"
-𐎀𐎎𐎒 	 ams	n./		"strong"
-𐎀𐎎𐎚 	 amt	1)" slave, maidservant"
-𐎀𐎎𐎚 	 amt		"elbow", "ell"
-𐎛𐎎𐎚 	 imt	'truth",	adv. use		"certainly, truly", "in truth, straight to the point" t).   MAAT
-𐎜𐎎𐎚 	 umt		"family, clan"
-𐎀𐎐 	 an	pers.	pn.		"I" I'm anI
-𐎀𐎐 	 an	adv.		"wherever, anywhere"
-𐎀𐎐 	 an		"strength" ARM
-𐎛𐎐 	 in	lexicalized as a verbal functor	1)		"there is not, does not exist"
-𐎜𐎐 	 un		"grief, misfortune"
-𐎛𐎐𐎏 	 ind	neg. functor		"not at all, no-one"  Bordreuil - Pardee RSOu 14	p.406).
-𐎀𐎐𐎅 	 anh	adj.		"complaining" Lane 112f
-𐎀𐎐𐎋 	 ank	p.	pn.		"I" DNWSI 82
-𐎜𐎐𐎋 	 unk		"?"
-𐎛𐎐𐎎 	 inm	deictic functor		"behold"
-𐎀𐎐𐎐𐎅 	 annh		"mint"
-𐎛𐎐𐎗 	 inr		"dog, cur" livid, sick   > to get annoyed, suffer" š, HALOT 70
-𐎀𐎐𐎒̌ 	 anš		"muscle, tendon"
-𐎛𐎐𐎒̌ 	 inš		"people"
-𐎀𐎐𐎒̌𐎚 	 anšt		"illness, weakness"
-𐎛𐎐𐎒̌𐎚 	 inšt		"relatives"
-𐎜𐎐𐎚 	 unt		"obligation, servitude, tax"
-𐎀𐎐𐎊 	 any		"ship"
-𐎀𐎔 	 ap	adv./	conj.	1)		"also, even, besides" in negation		"nor"
-𐎀𐎔 	 ap	1)		"nose" entrance" p, DNWSI 83f
-𐎀𐎔𐎛̈ 	 apï	'Viper"
-𐎜𐎔𐎏𐎚 	 updt		"share-cropping"
-𐎀𐎔𐎅𐎎 	 aphm	illative adverbial functor in narrative		"immediately afterwards, next"  + emphatic functor -Am
-𐎀𐎅 	 ah	llative functor in narrative		"immediately afterwards, next"
-𐎀𐎔𐎐 	 apn		"wheel"
-𐎀𐎔𐎐 	 apn	  adverbial functor		"and in addition, and also"  +	encl. -n
-𐎀𐎔𐎐𐎋 	 apnk	adverbial functor of illation		"then",   +	end. -n- + -k, 
-𐎀𐎔𐎖 	 apq		"spring, source"
-𐎜𐎔𐎖𐎚 	 upqt		"bed of a torrent"
-𐎀𐎔𐎒 	 aps		"extremity, edge, end"
-𐎀𐎔𐎊 	 apy		"baker"
-𐎀𐎖𐎅𐎗 	 aqhr		"?"	Hb. qrr,
-𐎛𐎖𐎐𐎜 	 iqnu	1)		"gem of lapis lazuli"
-or violet textile"
-𐎀𐎖𐎒̌𐎗 	 aqšr		"which sloughs its skin, sloughing", said of snakes 
-𐎀𐎛𐎗 	 a/ir		"light"  in vocabularies
-𐎜𐎗 	 ur	1)		"warmth, heat votzen"
-𐎟96𐎟𐎛𐎗𐎀𐎁𐎟𐎟𐎀𐎗𐎁𐎒" 	  96 irab - arbS"
-𐎀𐎗𐎁𐎓 	 arbî	n.	num.		"four"
-𐎀𐎗𐎁𐎓𐎎 	 arbîm	n.		"forty" !-
-𐎀𐎗𐎁𐎏𐎏 	 arbdd		"rest, tranquillity"
-𐎀𐎗𐎁𐎅 	 arbh	adj./		"four-year-old, four year old animal"
-𐎜𐎗𐎁𐎚 	 urbt	1)		"skylight, window"
-𐎛𐎗𐎁𐎊 	 irby		"locust" adrett
-𐎀𐎛𐎗𐎙𐎎𐎐 	 a/irgmn	1)		"payment of tribute to the Hittite court"
-𐎀𐎗𐎅 	 arh		"cow, heifer"
-𐎜𐎗𐎋 	 urk		"length"
-𐎀𐎗𐎋𐎚 	 arkt		"length   >		"long arm, span" kh, HALOT 85
-𐎀𐎎 	 am		"chest"
-𐎛𐎎 	 im		"puppy, puppy-dog" ACKER
-𐎀𐎗𐎒 	 ars	1)		"earth, ground" a'kurata
+
+𐎛		vir/i	 intern	adv.		"WHERE?" Fronzaroli ARES 1 12
+𐎛		wir/i		interj.		"oh!" HALOT 38  woah/wirklich?
+𐎜		wär/u	dsj.	conj.		"OR, that is, also, as if  WÄR
+𐎀𐎁		ƒaБ/abᵗ		1)		"father" 
+𐎀𐎁𐎊		ƒaby		"ancestral" Abtei?
+𐎀𐎁		ƒab		"ghost, spirit"@FABEL, and Hitt a-a-pi, HW2 181ff
+𐎀𐎁𐎊𐎐		abyn		"poor, wretch, insolvent" BANE=bad/blank ᵗyn dünn/thin?
+𐎛𐎁		ƒibᵗ		"enemy" ābu, AHw 23f
+𐎛𐎁		ƒibᵗ		1)		"fruit"/		"bud, flower"
+𐎀𐎁𐎏		abd			"ruin, destruction" KAPUT (ƒ)
+𐎀𐎁𐎏𐎊		abdy			"ruin, destruction"
+𐎜𐎁𐎏𐎊		ubdy			"land, plot, farming"   WorkBeithFarm---
+𐎜𐎁𐎏𐎛𐎚		ubdit			"share-cropping, leasing system, tenancy"
+𐎁𐎍𐎁𐎍		blbl	generic meaning		"messenger, bearer"
+𐎀𐎁𐎐		abn	1)		"stone" "weight"
+𐎛𐎁𐎗		ibr		wn" ?
+𐎛𐎁𐎒𐎐		ibsn		"warehouse"  "𐎛ware-basar/beithon" <<
+𐎛𐎏		†id	temporal	adv. morpheme used to form distributive numerals,		"time" 𒌓𒉌 ! 𓊃𓊪𓊗
+𐎜𐎏		ᵝud		"paid, pay, payment"
+𐎛𐎏		ᵛid	temporal	adv. functor		"then" FURTER
+𐎛𐎏𐎋		ᵛidk	narrative	adv. functor		"then, and so, so then" FURTER
+𐎀𐎏𐎐		adn	1)		"lord, master" vaDON<PATRON
+𐎀𐎏𐎎		adm	1)Adam		"man" Adman/admin/Vatam
+𐎀𐎏𐎎		adm		"obtained, acquired"
+𐎛𐎏𐎎		idm		"?"
+𐎛𐎏𐎐		idn		"authorization, full powers"   edānir, 
+𐎜𐎏𐎐		ᵝudn		"ear" votzen
+𐎜𐎏𐎐		ᵝudn	"dominion" <> buddha=big?
+𐎀𐎏𐎗		ᵛadr	adj./1)		"WONDERful, magnificent, strong, of good quality"
+𐎀𐎏𐎗		ᵛadr		"granary" FODDER
+𐎀𐎏𐎗		ᵛadr		"fibula'    Cecchini SEL 1 1984 47
+𐎜𐎏𐎗		udr		"nobility, the most noble"	Hb. ?dr, HALOT 16 <<<<
+𐎛𐎏𐎗𐎔		idrp		"?", an element in the titulary of the god ršp
+𐎀𐎏𐎗𐎚		adrt	adj./1)		"of good quality" 
+𐎀𐎏𐎚		ᵛadtᵎ		"lady" Al'Ady < la FATIMA
+𐎛𐎏𐎚,		idt,		"?"
+𐎛𐎏𐎊		idy	adv. of time		"alREADY" FERTIG ++
+𐎜𐎏𐎗		ᵝudr		"express messenger, courier" BOOTE/FOOTER
+𐎀𐎙𐎐		ᵛagn		"cauldron, earthenware bowl"  52f FASS/VASE
+𐎜𐎙𐎗		ugr		"field, soil" ACKER
+𐎀𐎙𐎗𐎚		agrt		"mistress" a'KURAta
+𐎀𐎙𐎕𐎗𐎚		agzrt	adj.	f.		"anxious, longing, eager"    pattern of agzry, 
+𐎀𐎙𐎕𐎗𐎊		agzry		"ravenous, glutton"
+𐎀𐎛𐎙̇𐎍		a/iġl		"emancipated"
+𐎀𐎙̇𐎕𐎚		aġzt		"wedding, betrothal"  <	Akk. ahuzzatu, HOCHZEIT AHw 23
+𐎀𐎅𐎁𐎚		ahbt		"love" 
+𐎀𐎅𐎍		ahl		"tent, mansion"
+𐎛𐎅𐎚		iht	pl.		"islands, coastal region"
+𐎀𐎅𐎏		φahd	adj.	num.	1)		"one, only one, oneself ECHAT,erst,FIRST
+𐎀𐎅𐎏𐎅		ahdh	adv.		"together, at the same time"
+𐎀𐎅𐎍		ahl	interj.		"if only!"
+𐎀𐎅		ah	1)		"brother"
+𐎜𐎍𐎎𐎐		ulmn		"widowhood"
+𐎀𐎍𐎎𐎐𐎚		almnt		"widow"
+𐎀𐎎		am		"oak grove"
+𐎛𐎍𐎐		iln		"deity, god"
+𐎛𐎍𐎐𐎊		ilny	adj./n.		"divine one", used basically of dead and deified heroes / kings  
+𐎀𐎍𐎔		alp	1) "cattle" young   cattle"
+𐎀𐎍𐎔		alp	num." thousand"  collective		"herd" all Vieh alpha@SEM
+𐎀𐎍𐎔𐎐		alpn		"domesticated, tame"	Hb. Pwlpn,  <<<< albino alpha-bull?
+𐎛𐎍𐎖𐎒𐎎		ilqsm		"gem", "divine/precious stone		"		"MAŠ.MAŠ, PRU 3 75   12] =		"1957.4		")
+𐎀𐎍𐎚		alt		"curse"
+𐎀𐎍𐎚		alt		"support, pillar"
+𐎛𐎍𐎚		ilt	1)		"goddess" vs ilon
+𐎛		i	conj.	1)	cond.		"if and 2)	disj.		"either...	or..."
+𐎜𐎎		um		"mother"
+𐎀𐎎𐎏		amd	adv.		"always"
+𐎀𐎎𐎐		amn		"faithful"
+𐎀𐎎𐎗		amr	1)		"order, demand"
+𐎛𐎎𐎗		imr	n.	m.,		"lamb"
+𐎀𐎎𐎒		ams	n./		"strong"
+𐎀𐎎𐎚		amt	1)" slave, maidservant"
+𐎀𐎎𐎚		amt		"elbow", "ell"
+𐎛𐎎𐎚		imt	'truth",	adv. use		"certainly, truly", "in truth, straight to the point" t).   MAAT
+𐎜𐎎𐎚		umt		"family, clan"
+𐎀𐎐		ʷan	pers.	pn.		"I" I'm anI ONE 𐎀WO/WE 𓅱𓀀
+𐎀𐎐		ʷan	adv.		"wherever, anywhere" whence
+𐎀𐎐		ʷan		"strength" ARM <<<
+𐎛𐎐		ƒin	1)		"there is not, does not exist" FAINT/AIN'T/FEHLEN +++ :
+𐎛𐎐𐎏		ind	"not at all, no-one" AIN'T Bordreuil-Pardee RSOu 14	p.406).
+𐎜𐎐		un		"grief, misfortune" ~GRAM/mOURN
+𐎀𐎐𐎅		anh	adj.		"complaining" Lane 112f <> Zank?
+𐎀𐎐𐎋		ank	p.	pn.		"I" DNWSI 82  AnICH 𓅱𓎡𓀀
+𐎜𐎐𐎋		unk		"?"
+𐎛𐎐𐎎		inm	deictic functor		"behold" VoirNam vor-nämlich
+𐎀𐎐𐎐𐎅		annh		"mint" 𐎀fefa𐎐𐎐min𐎅ze
+𐎛𐎐𐎗		inr		"dog, cur" ??? livid, sick   > to get annoyed, suffer" š, HALOT 70
+𐎀𐎐𐎒̌		anš		"muscle, tendon"
+𐎛𐎐𐎒̌		inš		"people" VIRons/MENSCHEN
+𐎀𐎐𐎒̌𐎚		anšt		"illness, weakness"
+𐎛𐎐𐎒̌𐎚		inšt		"relatives"
+𐎜𐎐𐎚		ᵝunt		"obligation, servitude, tax"@BUND/pay'n
+𐎀𐎐𐎊		ᵝanyᵗ		"ship" shiPONIT@phønix
+𐎀𐎔 		alPHA+P=> BEI? 
+𐎀𐎔		apⁿ	adv./	conj.	1)		"also, EVEN, besides" in negation		"nor" BEI/BU
+𐎀𐎔		apⁿ	1)		"ᵖnose" 鼻	bi2	nobi  <>wipe/pneu/ƒfnose@SEM
+𐎀𐎔		apⁿ	"entrance" OPEN p, DNWSI 83f
+𐎀𐎔𐎐		apn		"wheel" PNEU <<
+𐎀𐎔𐎛̈		ᵛapiʳ	'VIPER" 
+𐎜𐎔𐎏𐎚		updt		"share-cropping" ??
+𐎀𐎔𐎅𐎎		aphm	"immediately AFTERwards, next"  + EMPHAtic functor -Am <<<
+𐎀𐎅		aḫ FOR/AFTER functor in narrative		"immediately AFTERwards, next" FURTHER
+𐎀𐎔𐎐		apn	  "and in addition, and also"  +	encl. -n UPON
+𐎀𐎔𐎐𐎋		apnk	illation	"then" uponque/WHEN  ,   +	end. -n- + -k,
+𐎀𐎔𐎖		apq		"spring, source" BACH
+𐎜𐎔𐎖𐎚		upqt		"BED of a torrent" --
+𐎀𐎔𐎒		aps		"extremity, edge, end" OPEN HYPERS absolute--
+𐎀𐎔𐎊		apy		"BAKER"@OVEN
+𐎀𐎖𐎅𐎗		aqhr		"?"	Hb. qrr??
+𐎛𐎖𐎐𐎜		iqnu	1)		"gem of lapis lazuli" or violet textile"
+𐎀𐎖𐎒̌𐎗		aqšr		"which sloughs its skin, sloughing", said of snakes fetcher
+𐎀𐎛𐎗		ƒair		"light"  in vocabularies FIRE>AURA
+𐎜𐎗		ᵚurᵐ	1)		"WARMth, heat votzen" vs CHARM
+𐎟96𐎟𐎛𐎗𐎀𐎁𐎟𐎟𐎀𐎗𐎁𐎒"		 96 irab-arbS"
+𐎀𐎗𐎁𐎓		arbî	n.	num.		"four"
+𐎀𐎗𐎁𐎓𐎎		arbîm	n.		"forty" !-
+𐎀𐎗𐎁𐎏𐎏		arbdd		"rest, tranquillity"
+𐎀𐎗𐎁𐎅		arbh	adj./		"four-year-old, four year old animal"
+𐎜𐎗𐎁𐎚		urbt	1)		"skylight, window"
+𐎛𐎗𐎁𐎊		irby		"locust" 
+𐎀𐎛𐎗𐎙𐎎𐎐		a/irgmn	1)		"payment of tribute to the Hittite court"
+𐎀𐎗𐎅		arh		"cow, heifer"
+𐎜𐎗𐎋		urk		"length"
+𐎀𐎗𐎋𐎚		arkt		"length   >		"long arm, span" kh, HALOT 85
+𐎀𐎎		am		"chest"
+𐎛𐎎		im		"puppy, puppy-dog" ACKER
+𐎀𐎗𐎒		ars	1)		"earth, ground" a'kurata
 3) Lower world, solid earth, * a   // šmm		"heaven/sky"
-𐎛𐎗𐎒̌ 	 irš		"demand, scarcity"
-𐎀𐎗𐎚 	 art		"shield, buckler 
-𐎛𐎗𐎚 	 irt		"breast
-𐎀𐎗𐎆 	 arw		"lion" ! aloved a'hobet o'habet
-𐎀𐎗𐎊 	 ary		"fellow, friend, kin"  a/a-, HW 221 Arian Achim 
-𐎀𐎗𐎕 	 arz		of a conifer	1)		"cedar" Harz@Esche !
-𐎀𐎒𐎎 	 asm		"granary" ECHAT,erst
-𐎜𐎒𐎔 	 usp		"?"
-𐎀𐎒𐎗 	 asr		"prisoner, captive"
-𐎜𐎒𐎁𐎓 	 usbî		"finger
-𐎛𐎒𐎗 	 isr		"bundle"
-𐎛𐎒̌𐎏 	 išd		"leg", metonymy >		"step"
-𐎜𐎒̌𐎅𐎗 	 ušhr	DN, cf i/ušhry"
-𐎜𐎒̌𐎋 	 ušk		"testicle" Fronzaroli StEb 7 1984 152
-𐎜𐎒̌𐎐 	 ušn		"present, gift"
-𐎜𐎒̌𐎗 	 ušr		"penis, male member" ušāru, AHw 392
-𐎛𐎒̌𐎗𐎊𐎚 	 išryt		"happiness"
-𐎛𐎒̌𐎚 	 išt	1)		"fire" 2)		"blaze"
-𐎛𐎒̌𐎚𐎒̌ 	 ištš		"?"
-𐎀𐎚 	 at	pers. pn	m./f.	sg.		"you"	f. ?nty, DNWSI 85f
-𐎀𐎚 	 at		"omen, ominous sign, augury"
-𐎀𐎚𐎎 	 atm	pn.	p.	m.		"you" tm, DNWSI 85ff
-𐎛𐎚𐎎𐎍 	 itml	adv.		"the previous day, yesterday" Kaufman AIA 60
-𐎀𐎚𐎐 	 atn		"donkey, she-ass"
-𐎛𐎚𐎐𐎐 	 itnn		"present"
-𐎜𐎚 	 ut		"span, half cubit" VE 501
-𐎛𐎚 	 it		lexicalized as a verbal functor	1)		"to be, exist" IST,EST,ETH,ES
-𐎀𐎚𐎅𐎍𐎎 	 athlm	n.		""
-𐎜𐎍𐎅𐎚 	 ulht	DN <		"incense burner"
-𐎜𐎚𐎋𐎍 	 utkl		"bunch, cluster"
-𐎛𐎚𐎍 	 itl		"saliva, phlegm, spittle"
-𐎛𐎚𐎎 	 itm		"firm-fleshed cattle" DOSA 31
-𐎜𐎍𐎔𐎚 	 ulpt		"quiver" ti, GLH 127
-𐎀𐎚𐎗 	 atr	n./		"the following"
-𐎀𐎛𐎗 	 air	adv./prep.	1)		"then, afterwards
-𐎀𐎛𐎗 	 air		"remain what is left"
-𐎀𐎚𐎗 	 atr	interr.	adv.		"where?"
-𐎀𐎚𐎗𐎚 	 atrt		"back part nape"
-𐎀𐎚𐎗𐎊 	 atry	 	GN	m.		"Assyrian"
-𐎜𐎚𐎗𐎊𐎐 	 utryn		"crown prince" in Hittite court 
-𐎀𐎚𐎗𐎊𐎚 	 atryt		"final outcome, fate, destiny"
-𐎀𐎚𐎚 	 att	1)		"woman"
-𐎀𐎆𐎍 	 awl		"priority, supremacy"
-𐎀𐎊 	 ay		"anyone, all, of any kind
-𐎛𐎊 	 iy	interr.	adv.		"where?" PyA, HALOT 37f
-𐎀𐎊𐎛́ 	 ayí		"deer"
-𐎀𐎊𐎍𐎚 	 aylt		"hind"
-𐎜𐎕 	 uz		"goose, gander" wazz, Lane 125
-𐎜𐎕𐎓𐎗𐎚 	 uzîrt	adj.	f.		"the smallest, youngest"  rapides', Arab, zîr, or determinative of pdry, 
-𐎀𐎕𐎎𐎗 	 azmr		"branches"
-𐎛𐎕𐎗 	 izr		"investiture"
-𐎜𐎕𐎗 	 uzr		"clothed, enrobed" incubation', 'vision', u + < zr, dr but 
-𐎁𐎁𐎁 	 Vbb		"greedy, glutton, guzzler"
-𐎚𐎁𐎏 	 Tbd	1)		"servant, slave		"		"faithful, devout person"
+𐎛𐎗𐎒̌		irš		"demand, scarcity"
+𐎀𐎗𐎚		art		"shield, buckler 
+𐎛𐎗𐎚		irt		"breast
+𐎀𐎗𐎆		arw		"lion" ! 
+𐎀𐎗𐎊		ary		"fellow, friend, kin"  a/a-, HW 221 Arian Achim 
+𐎀𐎗𐎕		arz		of a conifer	1)		"cedar" Harz@Esche !
+𐎀𐎒𐎎		asm		"granary" 
+𐎜𐎒𐎔		usp		"?"
+𐎀𐎒𐎗		φasr		"prisoner, captive"
+𐎜𐎒𐎁𐎓		ᵖusbî		"finger
+𐎛𐎒𐎗		ᵇisr		"bundle"
+𐎛𐎒̌𐎏		ᵇišd		"leg", metonymy >		"step"
+𐎜𐎒̌𐎅𐎗		ušhr	DN, cf i/ušhry"
+𐎜𐎒̌𐎋		ᵖušk		"testicle" Fronzaroli StEb 7 1984 152
+𐎜𐎒̌𐎐		ᵖušn		"present, gift"
+𐎜𐎒̌𐎗		ᵖušr		"penis, male member" ᵖušāru, AHw 392 'perser'
+𐎛𐎒̌𐎗𐎊𐎚		išryt		"happiness"
+𐎛𐎒̌𐎚		išt	1)		"FIRE" 2)		"blaze"
+𐎛𐎒̌𐎚𐎒̌		ištš		"?"
+𐎀𐎚		at	pers. pn	m./f.	sg.		"you"	f. ?nty, DNWSI 85f
+𐎀𐎚		at		"omen, ominous sign, augury"
+𐎀𐎚𐎎		atm	pn.	p.	m.		"you" tm, DNWSI 85ff
+𐎛𐎚𐎎𐎍		itml	adv.		"the previous day, yesterday" Kaufman AIA 60
+𐎀𐎚𐎐		atn		"donkey, she-ass" <<
+𐎛𐎚𐎐𐎐		itnn		"present"
+𐎜𐎚		ᵛut		"span, half cubit" VE 501 FOOT/Wrt
+𐎛𐎚		ᵛit		1)		"to be, exist" IST,EST,ETH,ES
+𐎀𐎚𐎅𐎍𐎎		athlm	n.		""
+𐎜𐎍𐎅𐎚		ulht	DN <		"incense burner"
+𐎜𐎚𐎋𐎍		utkl		"bunch, cluster"
+𐎛𐎚𐎍		itl		"saliva, phlegm, spittle"
+𐎛𐎚𐎎		itm		"firm-fleshed cattle" DOSA 31
+𐎜𐎍𐎔𐎚		ulpt		"quiver" ti, GLH 127
+𐎀𐎚𐎗		atr	n./		"the following"
+𐎀𐎛𐎗		air	adv./prep.	1)		"then, afterwards
+𐎀𐎛𐎗		air		"remain what is left"
+𐎀𐎚𐎗		atr	interr.	adv.		"where?"
+𐎀𐎚𐎗𐎚		atrt		"back part nape"
+𐎀𐎚𐎗𐎊		atry			GN	m.		"Assyrian"<AT'RYian +++
+𐎜𐎚𐎗𐎊𐎐		utryn		"crown prince" in Hittite court 
+𐎀𐎚𐎗𐎊𐎚		atryt		"final outcome, fate, destiny"
+𐎀𐎚𐎚		att	1)		"woman"
+𐎀𐎆𐎍		awl		"priority, supremacy"
+𐎀𐎊		ay		"anyone, all, of any kind
+𐎛𐎊		iy	interr.	adv.		"where?" PyA, HALOT 37f
+𐎀𐎊𐎛́		ayí		"deer"
+𐎀𐎊𐎍𐎚		aylt		"hind"
+𐎜𐎕		uz		"goose, gander" wazz, Lane 125
+𐎜𐎕𐎓𐎗𐎚		uzîrt	adj.	f.		"the smallest, youngest"  rapides', Arab, zîr, or determinative of pdry, 
+𐎀𐎕𐎎𐎗		azmr		"branches"
+𐎛𐎕𐎗		izr		"investiture"
+𐎜𐎕𐎗		uzr		"clothed, enrobed" incubation', 'vision', u + < zr, dr but 
+𐎁𐎁𐎁		Vbb		"greedy, glutton, guzzler"
+𐎚𐎁𐎏		Tbd	1)		"servant, slave		"		"faithful, devout person"
 of *tøò		"Kubaba		"). 
-𐎟144𐎟𐎓𐎁𐎏𐎗𐎒̌"𐎟𐎟𐎓𐎁𐎏𐎊𐎗𐎅 	  144 îbdrš" - îbdyrh
-𐎓𐎁𐎗 	 îbr		"passer-by" <		"guest"
-𐎓𐎁𐎒 	 îbs		"mace"
-𐎓𐎁𐎒̌ 	 /î-b-š/	[verb]		"?"
-𐎓𐎁𐎚 	 /î-b-t/	[verb] G		"to drain"  < /î-b-d/? 
-𐎓𐎏 	 îd	1) prep,		"up to, until
-𐎓𐎏 	 îd		"time, period"
-𐎓𐎏 	 îd	1)		"throne, throne-room		"		"to order to be set up/make arrangements for"
-𐎓𐎏𐎁 	 îdb		"available, ready, prepared"
-𐎓𐎏𐎁𐎚 	 îdbt		"layout, arrangement"
-𐎓𐎏𐎏 	 îdd		"herald"
-𐎓𐎏𐎎𐎚 	 îdmt		"desolation"
-𐎓𐎏𐎐 	 îdn	1)		"store, silo"
+𐎟144𐎟𐎓𐎁𐎏𐎗𐎒̌"𐎟𐎟𐎓𐎁𐎏𐎊𐎗𐎅		 144 îbdrš"-îbdyrh
+𐎓𐎁𐎗		îbr		"passer-by" <		"guest"
+𐎓𐎁𐎒		îbs		"mace"
+𐎓𐎁𐎒̌		/î-b-š/	[verb]		"?"
+𐎓𐎁𐎚		/î-b-t/	[verb] G		"to drain"  < /î-b-d/? 
+𐎓𐎏		îd	1) prep,		"up to, until
+𐎓𐎏		îd		"time, period"
+𐎓𐎏		îd	1)		"throne, throne-room		"		"to order to be set up/make arrangements for"
+𐎓𐎏𐎁		îdb		"available, ready, prepared"
+𐎓𐎏𐎁𐎚		îdbt		"layout, arrangement"
+𐎓𐎏𐎏		îdd		"herald"
+𐎓𐎏𐎎𐎚		îdmt		"desolation"
+𐎓𐎏𐎐		îdn	1)		"store, silo"
 îaddinat, maîdin, Lane 1976f, preferable to *îdy		"réunir"
-𐎓𐎏𐎐 	 îdn	1)		"troop"
-𐎓𐎏𐎚 	 îdt	1)		"assembly		"		"meeting"
-𐎓𐎏𐎚 	 îdt		"date, moment"  cf De Moor SP 160f
-𐎓𐎏𐎁𐎚 	 îdbt		"squad, caravan"
-𐎓𐎏𐎗𐎚 	 îdrt		"help" HALOT 812
-𐎓𐎙𐎍 	 îgl		"calf, bullock"	ViehGaul
-𐎓𐎙𐎍𐎚 	 îglt		"heifer" . 
-𐎚𐎙𐎎 	 Tgm		"groan, moan"
-𐎀𐎀𐎍 	 A/Al	[verb] Gp/N		"to be suckled" >		"to nurse, suck"
-𐎓𐎍 	 îl	adv.	1)		"above, on top"
-𐎓𐎍 	 îl		"offspring"
-𐎓𐎍 	 îl		"yoke"
-𐎓𐎍𐎍𐎎𐎊𐎐 	 îllmy/n	adj./		"eternal", attribute of the rpum
-𐎓𐎍𐎎 	 îlm		"eternity, perpetuity"
+𐎓𐎏𐎐		îdn	1)		"troop"
+𐎓𐎏𐎚		îdt	1)		"assembly		"		"meeting"
+𐎓𐎏𐎚		îdt		"date, moment"  cf De Moor SP 160f
+𐎓𐎏𐎁𐎚		îdbt		"squad, caravan"
+𐎓𐎏𐎗𐎚		îdrt		"help" HALOT 812
+𐎓𐎙𐎍		îgl		"calf, bullock"	ViehGaul
+𐎓𐎙𐎍𐎚		îglt		"heifer" . 
+𐎚𐎙𐎎		Tgm		"groan, moan"
+𐎀𐎀𐎍		A/Al	[verb] Gp/N		"to be suckled" >		"to nurse, suck"
+𐎓𐎍		îl	adv.	1)		"above, on top"
+𐎓𐎍		îl		"offspring"
+𐎓𐎍		îl		"yoke"
+𐎓𐎍𐎍𐎎𐎊𐎐		îllmy/n	adj./		"eternal", attribute of the rpum
+𐎓𐎍𐎎		îlm		"eternity, perpetuity"
 syntagms >	adj.		"eternal"
-𐎁𐎛𐎒 	 Vis		"rejoicing		"		"to offer"
-𐎚𐎍𐎊 	 Tly		"most high, exalted"
-𐎁𐎍𐎊 	 Vly		"place of sacrifice, propitiatory"  < a 'raised' cultic structure
-𐎁𐎍𐎊𐎖𐎎 	 Vlyqm		"?",	1.172
-𐎁𐎍𐎊𐎚 	 Vlyt		"?",	1.176		"with, together with, next to, before"
-𐎓𐎎 	 îm		"lineage, ancestors"
-𐎓𐎎𐎏 	 /î-m-d/	[verb] G/D		"?"
-𐎚𐎎𐎏 	 Tmd		"support or foot of a wall"
-𐎚𐎎𐎖 	 Tmq		"valley"
-𐎚𐎎𐎖 	 Tmq		"tough, strong"
-𐎚𐎎𐎗 	 Tmr		"ash dust"
-𐎚𐎎𐎒𐎐 	 Tmsn		"load, cargo"
-𐎚𐎐 	 Tn	1)		"eye"
-𐎚𐎐 	 Tn		"furrow"
-𐎚𐎜𐎐 	 Tun	1)		"manservant, servant"
-𐎓𐎀𐎆𐎐 	 îawn		"help", Lane 2203f
-𐎓𐎐𐎖 	 înq		"necklace" a-neck
-𐎓𐎐𐎚 	 înt	adv.		"now"
-𐎓𐎔 	 îp		"bird" !!
-𐎓_𐎔𐎓𐎔 	 î_pîp		"pupil"
-𐎓𐎔𐎗 	 îpr	1)		"dust"
-𐎓𐎔𐎗𐎚 	 îprt	of an object or material   or		"lead"	Hb., Pun îprt, HALOT 863
-𐎓𐎔𐎁𐎒 	 îp/bs		"landmark, boundary"
-𐎚𐎖 	 Tq		"pupil"
-𐎚𐎖 	 Tq		?"effect an exchange of goods"
-𐎚𐎖𐎁 	 Tqb	n.	m./f.		"hock, heel"
-𐎚𐎖[𐎍] 	 Tq[l]		"?"
-𐎁𐎖𐎛𐎚𐎐 	 Vqitn		"winding"
-𐎒𐎖𐎖 	 Sqq		"destructive", divine epithet 
-𐎓𐎖𐎗 	 îqr	" ?"
-𐎓𐎖𐎗𐎁 	 îqrb		"scorpion"
+𐎁𐎛𐎒		Vis		"rejoicing		"		"to offer"
+𐎚𐎍𐎊		Tly		"most high, exalted"
+𐎁𐎍𐎊		Vly		"place of sacrifice, propitiatory"  < a 'raised' cultic structure
+𐎁𐎍𐎊𐎖𐎎		Vlyqm		"?",	1.172
+𐎁𐎍𐎊𐎚		Vlyt		"?",	1.176		"with, together with, next to, before"
+𐎓𐎎		îm		"lineage, ancestors"
+𐎓𐎎𐎏		/î-m-d/	[verb] G/D		"?"
+𐎚𐎎𐎏		Tmd		"support or foot of a wall"
+𐎚𐎎𐎖		Tmq		"valley"
+𐎚𐎎𐎖		Tmq		"tough, strong"
+𐎚𐎎𐎗		Tmr		"ash dust"
+𐎚𐎎𐎒𐎐		Tmsn		"load, cargo"
+𐎚𐎐		Tn	1)		"eye"
+𐎚𐎐		Tn		"furrow"
+𐎚𐎜𐎐		Tun	1)		"manservant, servant"
+𐎓𐎀𐎆𐎐		îawn		"help", Lane 2203f
+𐎓𐎐𐎖		înq		"necklace" a-neck
+𐎓𐎐𐎚		înt	adv.		"now"
+𐎓𐎔		îp		"bird" !!
+𐎓_𐎔𐎓𐎔		î_pîp		"pupil"
+𐎓𐎔𐎗		îpr	1)		"dust"
+𐎓𐎔𐎗𐎚		îprt	of an object or material   or		"lead"	Hb., Pun îprt, HALOT 863
+𐎓𐎔𐎁𐎒		îp/bs		"landmark, boundary"
+𐎚𐎖		Tq		"pupil"
+𐎚𐎖		Tq		?"effect an exchange of goods"
+𐎚𐎖𐎁		Tqb	n.	m./f.		"hock, heel"
+𐎚𐎖[𐎍]		Tq[l]		"?"
+𐎁𐎖𐎛𐎚𐎐		Vqitn		"winding"
+𐎒𐎖𐎖		Sqq		"destructive", divine epithet 
+𐎓𐎖𐎗		îqr	" ?"
+𐎓𐎖𐎗𐎁		îqrb		"scorpion"
 ??? "move", "to be  exacerbated"
-𐎚𐎗 	 Tr		"city" r, HALOT 821f  TOUR>CAR
-𐎚𐎗 	 Tr		"donkey, ass" a?/yam, AHw 328
-𐎚𐎗𐎚𐎗 	 TrTr		"tamarisk" tamar^2
-𐎓𐎗𐎁 	 îrb	1)		"entry"
-𐎓𐎗𐎁 	 îrb		"officiant"
-𐎓𐎗𐎁𐎐 	 îrbn		"guarantor, surety"
+𐎚𐎗		Tr		"city" r, HALOT 821f  TOUR>CAR
+𐎚𐎗		Tr		"donkey, ass" a?/yam, AHw 328 TIER?
+𐎚𐎗𐎚𐎗		TrTr		"tamarisk" tamar^2
+𐎓𐎗𐎁		îrb	1)		"entry"
+𐎓𐎗𐎁		îrb		"officiant"
+𐎓𐎗𐎁𐎐		îrbn		"guarantor, surety"
 ??? An aromatic substance		"
-𐎓𐎗𐎋 	 îrk		"bookkeeping account, list, fiscal valuation"
-𐎓𐎗𐎔 	 /î-r-p/	[verb] G/D		"to cover", "to darken", "to make it pour down"
-𐎓𐎗𐎔 	 îrp		"storm cloud"
-𐎓𐎗𐎔𐎚 	 îrpt		"cloud"
-𐎓𐎗𐎖 	 îrq		"cart, wagon"
-𐎓𐎗𐎒̌ 	 îrš		"bed, makeshift bed, stretcher"
-𐎛𐎗𐎊 	 fry		"naked, uncovered" < A-r-y/
-𐎓𐎗𐎕 	 îrz		"terrible", epithet of the god îttr 
-𐎓𐎒𐎁 	 îsb		"?"
-𐎀𐎒𐎊𐎒 	 A-s-y/s/	[verb]		"?" in bkn	ctx. 
-𐎚𐎒 	 Ts	1)		"tree, plant,  stock		"		"staff' VE 395
-𐎛̈𐎒𐎔 	 ïsp		"?", bkn	ctx.	1.93
-𐎁𐎒𐎗 	 Vsr	1)		"bird"
-𐎀𐎒̌𐎐 	 A-š-n/	[verb]		"?"
-𐎒𐎒̌𐎛̄ 	 Sšī	n.	num.	1) card,		"ten"
-𐎓𐎒̌𐎗𐎛𐎏 	 îšrid	adv.		"ten times"  + - d iterative	afform.
-𐎓𐎒̌𐎗𐎎 	 îšrm	n.	num.		"twenty" . 
-𐎓𐎒̌𐎗𐎚 	 îšrt	1)		"banquet"
-𐎓𐎒̌𐎗𐎚 	 îšrt		"group often, ten"	Hb. îšrh, HALOT 895
-𐎓𐎒̌𐎚 	 îšt	n. of	card.	num.		"one"
-𐎀𐎚𐎏 	 A-t-d/	[verb]		"?		".
-𐎛𐎚𐎙𐎗 	 ftgr		"excluded, expropriated, held"
-𐎛𐎚𐎋 	 ftk	  " anchored, moored"
-𐎚𐎚𐎖 	 Ttq		"perennial, durable"
-𐎛𐎚𐎗𐎚𐎗𐎚 	 ftrtrt		"diadem, crown"
-𐎚𐎚𐎁 	 Ttb		"?"
-𐎓𐎛́𐎚 	 îít		"?"
-𐎓𐎆𐎗 	 îwr		"blind man"
-𐎓𐎆𐎗𐎚 	 îwrt		"blind"
-𐎓𐎕 	 îz		"strength" z, HALOT votzen 805f
-𐎓𐎕 	 îz	1)		"caprine animal, kid, goat"
-𐎓𐎕 	 îz	adj./s.	m.		"strong, powerful"
-𐎓𐎕𐎎 	 îzm		"bone" -za-da, Fronzaroli EL 137, 140
-𐎓𐎕𐎎 	 îzm		"imposing, powerful"
-𐎓𐎕𐎎 	 îzm		"power, excellence"
-𐎓𐎕𐎗𐎐 	 îzrn		""
-bir TN <		"well" adrett
-𐎁𐎛𐎒̌𐎚 	 bišt	adj. f,		"bad, foul-smelling"
-𐎁𐎓𐎏 	 bîd	adv.,	prep.,	1)		"behind"
+𐎓𐎗𐎋		îrk		"bookkeeping account, list, fiscal valuation"
+𐎓𐎗𐎔		/î-r-p/	[verb] G/D		"to cover", "to darken", "to make it pour down"
+𐎓𐎗𐎔		îrp		"storm cloud"
+𐎓𐎗𐎔𐎚		îrpt		"cloud"
+𐎓𐎗𐎖		îrq		"cart, wagon"
+𐎓𐎗𐎒̌		îrš		"bed, makeshift bed, stretcher"
+𐎛𐎗𐎊		fry		"naked, uncovered" < A-r-y/
+𐎓𐎗𐎕		îrz		"terrible", epithet of the god îttr 
+𐎓𐎒𐎁		îsb		"?"
+𐎀𐎒𐎊𐎒		A-s-y/s/	[verb]		"?" in bkn	ctx. 
+𐎚𐎒		Ts	1)		"tree, plant,  stock		"		"staff' VE 395
+𐎛̈𐎒𐎔		ïsp		"?", bkn	ctx.	1.93
+𐎁𐎒𐎗		Vsr	1)		"bird"
+𐎀𐎒̌𐎐		A-š-n/	[verb]		"?"
+𐎒𐎒̌𐎛̄		Sšī	n.	num.	1) card,		"ten"
+𐎓𐎒̌𐎗𐎛𐎏		îšrid	adv.		"ten times"  +-d iterative	afform.
+𐎓𐎒̌𐎗𐎎		îšrm	n.	num.		"twenty" . 
+𐎓𐎒̌𐎗𐎚		îšrt	1)		"banquet"
+𐎓𐎒̌𐎗𐎚		îšrt		"group often, ten"	Hb. îšrh, HALOT 895
+𐎓𐎒̌𐎚		îšt	n. of	card.	num.		"one"
+𐎀𐎚𐎏		A-t-d/	[verb]		"?		".
+𐎛𐎚𐎙𐎗		ftgr		"excluded, expropriated, held"
+𐎛𐎚𐎋		ftk	  " anchored, moored"
+𐎚𐎚𐎖		Ttq		"perennial, durable"
+𐎛𐎚𐎗𐎚𐎗𐎚		ftrtrt		"diadem, crown"
+𐎚𐎚𐎁		Ttb		"?"
+𐎓𐎛́𐎚		îít		"?"
+𐎓𐎆𐎗		îwr		"blind man"
+𐎓𐎆𐎗𐎚		îwrt		"blind"
+𐎓𐎕		îz		"strength" z, HALOT votzen 805f
+𐎓𐎕		îz	1)		"caprine animal, kid, goat"
+𐎓𐎕		îz	adj./s.	m.		"strong, powerful"
+𐎓𐎕𐎎		îzm		"bone" -za-da, Fronzaroli EL 137, 140
+𐎓𐎕𐎎		îzm		"imposing, powerful"
+𐎓𐎕𐎎		îzm		"power, excellence"
+𐎓𐎕𐎗𐎐		îzrn		""
+bir TN <		"well" 
+𐎁𐎛𐎒̌𐎚		bišt	adj. f,		"bad, foul-smelling"
+𐎁𐎓𐎏		bîd	adv.,	prep.,	1)		"behind"
 ??? made" l/, 
 /šbîl/, Gelb CAAA 16, 33
-𐎁𐎓𐎍 	 bîl	1)		"labourer, unskilled labourer"
-𐎎𐎀𐎋𐎅𐎗" 	 maker"
-𐎁𐎁𐎍 	 bVl	1)		"lord ACKER
-𐎁𐎓𐎍𐎚 	 bîlt		"lady"  hb bî a'kuratalh, HALOT 145
-𐎁𐎓𐎗 	 bîr		"burnt, singed"  < / b - W  
-𐎁𐎏 	 bd		"song" Bard
-𐎁𐎏 	 bd		"separation, isolation" Used as an	adv. lbdm
+𐎁𐎓𐎍		bîl	1)		"labourer, unskilled labourer"
+𐎎𐎀𐎋𐎅𐎗"		maker"
+𐎁𐎁𐎍		bVl	1)		"lord ACKER
+𐎁𐎓𐎍𐎚		bîlt		"lady"  hb bî a'kuratalh, HALOT 145
+𐎁𐎓𐎗		bîr		"burnt, singed"  < / b-W  
+𐎁𐎏		bd		"song" Bard
+𐎁𐎏		bd		"separation, isolation" Used as an	adv. lbdm
 Separation, isolation > used as an	adv.		"alone"
-𐎁𐎏 	 bd	prep.	1)		"into the hands of,   for" aloved a'hobet o'habet
-𐎁𐎏𐎏 	 bdd		"?"
-𐎁𐎏𐎏𐎊 	 bddy		"alone, disconnected"
-𐎁𐎏𐎍 	 bdl		"substitute, reserve personnel" ECHAT,erst
-𐎁𐎏𐎖𐎚 	 bdqt		"fissure, opening, loophole"
-𐎁𐎙̇𐎗 	 bġr		"shout"
-𐎁𐎅𐎎𐎚 	 bhmt		"cattle"
-𐎁𐎅𐎚 	 bht		"shame"
+𐎁𐎏		bd	prep.	1)		"into the hands of,   for" 
+𐎁𐎏𐎏		bdd		"?"
+𐎁𐎏𐎏𐎊		bddy		"alone, disconnected"
+𐎁𐎏𐎍		bdl		"substitute, reserve personnel" 
+𐎁𐎏𐎖𐎚		bdqt		"fissure, opening, loophole"
+𐎁𐎙̇𐎗		bġr		"shout"
+𐎁𐎅𐎎𐎚		bhmt		"cattle"
+𐎁𐎅𐎚		bht		"shame"
 Shame, used as an	interj.		"for   shame!"
-𐎁𐎅𐎗 	 bhr		"lad"
-𐎁𐎋𐎎 	 bkm	1)	adv.		"next, straight away"
-𐎁𐎚 	 bt	1)		"house, building
-𐎁𐎚 	 bt		"length, piece"
-𐎁𐎚𐎍𐎚 	 btlt		"virgin", title of the goddess Anat in myth and epic 
-𐎁𐎚𐎐 	 btn		"inside of the house"
-𐎁𐎚𐎐 	 btn		"serpent, dragon"
-𐎁𐎚𐎚 	 btt		"shame" BAD
-𐎁𐎚𐎊 	 bty		"evildoer, wizard"	BADy
-𐎁𐎛𐎚 	 bit		"evildoing woman, witch"	bitch++
-𐎁𐎕 	 bz		"udder"	Busen
- 	 
- 	 
-D = PR/BR! Bird, bear, beard, brei, poor, porter, poverty, PORT=doort, blood=dam, plague, … dd=parther*2=cave
- 	 
-diy   raptor, conventionally		"hawk" : bird
-𐎏𐎛𐎊 	 diy		"wing" feather=bir@bird
-𐎏𐎁𐎚 	 dVt	1)		"knowledge, information, communique"	dsavoir wit
-𐎏𐎛̈𐎚 	 dït		"sweat" ~
-𐎏𐎁 	 db		"threshold		"^) 
-𐎏𐎁 	 db		"bear" dab6-bù, VE 870a : bearb
-𐎏𐎁𐎁 	 dbb	1)		"beast, mythical animal"
-𐎏𐎁𐎀𐎚 	 dbat		"strength"
-𐎏𐎁𐎅 	 dbh	1)		"sacrifice,   banquet"
-𐎏𐎁𐎍𐎚 	 dblt		"dried fig" 'deb'  :bury
-𐎏𐎁𐎗 	 dbr		"matter, thing" @HEB
-𐎏𐎁𐎗 	 dbr		"plague, pestilence"
-𐎏𐎁𐎗 	 dbr		"chapel"
-𐎏𐎏 	 dd	1) measure of capacity		"cauldronful"
-𐎏𐎏𐎊𐎎 	 ddym	pi. tantum," harmony"
-𐎏𐎙 	 dg		"fish" Barsch/Dorsch
-𐎏𐎙𐎐 	 dgn		"grain, wheat" dgn:de'grain
-𐎏 	 d		BREI "residue = refuse of grapes/olives after pressing" dough 𓏏
-𐎏𐎙̇𐎍 	 dġl		"offering of perfumes"
-𐎏𐎙̇𐎚𐎚 	 dġtt		"offering of perfumes"
-𐎏𐎋𐎗 	 dkr		"male animal" Decker = ša-ha-lum VE 1112a, b Decker=MAN
-𐎏𐎋𐎗𐎚 	 dkrt		"bowl", as a deity  Becher <<< Khnt decor
-𐎏𐎍 	 dl		"poor'  d=pr/br see bird
-𐎏𐎍𐎅𐎚 	 dlht	adj. f		"thick, cloudy"
-𐎏𐎍𐎍 	 dll		"courier, messenger, mediator"
-𐎏𐎍𐎚 	 dlt		"door" PORT
-𐎏𐎍𐎚 	 dlt	adj.	f.		"poor"
-𐎏𐎍𐎚 	 dlt		"weakness, poverty"
-dm   functor	1)	illative		"since" and 2) asseverative		"so, then, for certain" < d+	encl. -m
-𐎏𐎎 	 dm	1)		"blood"
-𐎏𐎎𐎓𐎚 	 dmît		"tear"
-𐎏𐎎𐎚 	 dmt		"tower"
+𐎁𐎅𐎗		bhr		"lad"
+𐎁𐎋𐎎		bkm	1)	adv.		"next, straight away"
+𐎁𐎚		bt	1)		"house, building
+𐎁𐎚		bt		"length, piece"
+𐎁𐎚𐎍𐎚		btlt		"virgin", title of the goddess Anat in myth and epic 
+𐎁𐎚𐎐		btn		"inside of the house" BETTin/byDome
+𐎁𐎚𐎐		btn		"serpent, dragon" PHYTON
+𐎁𐎚𐎚		btt		"shame" BAD
+𐎁𐎚𐎊		bty		"evildoer, wizard"	BADy
+𐎁𐎛𐎚		bit		"evildoing woman, witch"	bitch++
+𐎁𐎕		bz		"udder"	Busen
+		
+		
+𐎏D vs 𐎄 = PR/BR! Bird, bear, beard, brei, poor, porter, poverty, PORT=doort, blood=dam, plague, … dd=parther*2=cave
+		
+𐎄𐎛𐎊   raptor, conventionally		"hawk" : bird
+𐎄𐎛𐎊/𐎏𐎛𐎊		diy		"wing" feather=bir@bird
+𐎏𐎁𐎚		dVt	1)		"knowledge, information, communique"	dsavoir wit
+𐎏𐎛̈𐎚		dït		"sweat" ~
+𐎏𐎁		db		"threshold		"^) 
+𐎏𐎁		db		"bear" dab6-bù, VE 870a : bearb
+𐎏𐎁𐎁		dbb	1)		"beast, mythical animal"
+𐎏𐎁𐎀𐎚		dbat		"strength"
+𐎏𐎁𐎅		dbh	1)		"sacrifice,   banquet"
+𐎏𐎁𐎍𐎚		dblt		"dried fig" 'deb'  :bury
+𐎏𐎁𐎗		dbr		"matter, thing" @HEB
+𐎏𐎁𐎗		dbr		"plague, pestilence"
+𐎏𐎁𐎗		dbr		"chapel"
+𐎏𐎏		dd	1) measure of capacity		"cauldronful"
+𐎏𐎏𐎊𐎎		ddym	pi. tantum," harmony"
+𐎏𐎙		dg		"fish" Barsch/Dorsch
+𐎏𐎙𐎐		dgn		"grain, wheat" dgn:de'grain
+𐎏		d		BREI "residue = refuse of grapes/olives after pressing" dough 𓏏
+𐎏𐎙̇𐎍		dġl		"offering of perfumes"
+𐎏𐎙̇𐎚𐎚		dġtt		"offering of perfumes"
+𐎏𐎋𐎗		dkr		"male animal" Decker = ša-ha-lum VE 1112a, b Decker=MAN
+𐎏𐎋𐎗𐎚		dkrt		"bowl", as a deity  Becher <<< Khnt decor
+𐎏𐎍		dl		"poor'  d=pr/br see bird
+𐎏𐎍𐎅𐎚		dlht	adj. f		"thick, cloudy"
+𐎄𐎍𐎍/𐎏𐎍𐎍		dll		"courier, messenger, mediator" PORTER
+𐎄𐎍𐎚/𐎏𐎍𐎚		dlt		"door" PORT/DOOR
+𐎄𐎍𐎚/𐎏𐎍𐎚		dlt	adj.	f.		"POOR/dull"
+𐎄𐎍𐎚/𐎏𐎍𐎚		pvrt/dlt		"weakness, poverty"
+𐎄/𐎏𐎍   functor	1)	illative		"since"  FOR/DA
+𐎄/𐎏𐎍   functor	2) asseverative		"so, then, for certain" < d+	encl. -m
+𐎄𐎏𐎎		dm	1)		"blood"
+𐎏𐎎𐎓𐎚		dmît		"tear"
+𐎏𐎎𐎚		dmt		"tower"
 authority" Lane	942ff.
-𐎏𐎐 	 dn		"judgment, case, sentence"
-𐎏𐎐 	 dn		"vessel, vat"
-𐎏𐎐 	 dn		"strength, potency" Krebernik PET 80, 82).		"8.213		"])
-𐎏𐎐𐎚 	 dnt		"lechery, fornication"
-𐎏𐎔𐎎 	 dpm		"juniper"
-𐎏𐎖 	 dq	1)		"tiny, fine"
-𐎏𐎖𐎐 	 dqn	1)		"beard"
-𐎏𐎖𐎚 	 dqt	adj./1)	adj.	f.		"small, tiny, fine		"		"sacrificial ewe, sheep"
-𐎏𐎖𐎚 	 dqt		"manufacture, moulding"  'Kleintier'
-𐎏𐎗 	 /d-r/	[verb] G		"to surround"
-𐎏𐎗 	 dr	1)		"circle
+𐎏𐎐		dn		"judgment, case, sentence"
+𐎏𐎐		dn		"vessel, vat"
+𐎏𐎐		dn		"strength, potency" Krebernik PET 80, 82).		"8.213		"])
+𐎏𐎐𐎚		dnt		"lechery, fornication"
+𐎏𐎔𐎎		dpm		"juniper"
+𐎏𐎖		dq	1)		"tiny, fine"
+𐎄𐎖𐎐		dqn	1)		"beard"
+𐎏𐎖𐎚		dqt	adj./1)	adj.	f.		"small, tiny, fine		"		"sacrificial ewe, sheep"
+𐎏𐎖𐎚		dqt		"manufacture, moulding"  'Kleintier'
+𐎏𐎗		/d-r/	[verb] G		"to surround"
+𐎏𐎗		dr	1)		"circle
 2) Cycle, generation, * a	esp. in the	gen. syntagm drdr-		"all   generations" >		"perpetuity"
-𐎏𐎏𐎗𐎛̈ 	 d/drï	1)		"seed, seed-grain, sowing		"		"offspring"
-𐎏𐎗𐎁 	 drb		"?",	4.385
-𐎏𐎗𐎅 	 drh		"chamois, mountain goat"
+𐎏𐎏𐎗𐎛̈		d/drï	1)		"seed, seed-grain, sowing		"		"offspring"
+𐎏𐎗𐎁		drb		"?",	4.385
+𐎏𐎗𐎅		drh		"chamois, mountain goat"
 drk of a profession or social group, possibly		"trader"
-𐎏𐎗𐎋𐎚 	 drkt		"rule, power"
-𐎏𐎗𐎚 	 drt		"bran, chaff' 
-𐎏𐎛𐎐 	 din		"fat offering"
-𐎏𐎚𐎚 	 dtt		"fodder or spring grass"
-𐎏𐎆 	 dw		"sick person"
-𐎓́𐎏 	 Úd		"breast, bosom"
-𐎏𐎏 	 dd		"grotto, cave"
-𐎏𐎏 	 dd		"flock, herd"
-𐎏𐎅𐎗𐎚 	 dhrt		"vision"
-𐎏𐎎𐎗 	 dmr		"fortress" <		"protection"
-𐎏𐎐𐎁 	 dnb	n.	m./f.		"tail" bu / in KUN = šè-na-bù, šè-ne-bu£råg NI fot IR), VE 1371, 1372
-𐎏𐎗𐎁 	 drV		"arm" î, HALOT 280f
-𐎏𐎗𐎖 	 drq		"fragment, lump"
-𐎏𐎗𐎚 	 drt		"vision"
- 	 
+𐎏𐎗𐎋𐎚		drkt		"rule, power"
+𐎏𐎗𐎚		drt		"bran, chaff' 
+𐎏𐎛𐎐		din		"fat offering"
+𐎏𐎚𐎚		dtt		"fodder or spring grass"
+𐎏𐎆		dw		"sick person"
+𐎓́𐎏		Úd		"breast, bosom"
+𐎏𐎏		dd		"grotto, cave"
+𐎏𐎏		dd		"flock, herd"
+𐎏𐎅𐎗𐎚		dhrt		"vision"
+𐎏𐎎𐎗		dmr		"fortress" <		"protection"
+𐎏𐎐𐎁		dnb	n.	m./f.		"tail" bu / in KUN = šè-na-bù, šè-ne-bu£råg NI fot IR), VE 1371, 1372
+𐎏𐎗𐎁		drV		"arm" î, HALOT 280f
+𐎏𐎗𐎖		drq		"fragment, lump"
+𐎏𐎗𐎚		drt		"vision"
+		
 g" voice, shout" cry
-𐎙𐎛̈𐎚 	 gït		"bellowing"
-𐎙𐎀𐎐 	 Gan		"arroGance"
-𐎙𐎁𐎍 	 gVl		"?"
-𐎙𐎁 	 gb		"spine, back:bg|gb Giebel
-𐎙𐎁𐎓 	 gbî		"hill, height, peak" Giebel:peak ++<
-𐎙𐎁𐎍 	 gbl		"limit, frontier, end" <<
-𐎙𐎁𐎍 	 gbl		"summit, mount" Giebel:peak ++<
+𐎙𐎛̈𐎚		gït		"bellowing"
+𐎙𐎀𐎐		Gan		"arroGance"
+𐎙𐎁𐎍		gVl		"?"
+𐎙𐎁		gb		"spine, back:bg|gb Giebel
+𐎙𐎁𐎓		gbî		"hill, height, peak" Giebel:peak ++<
+𐎙𐎁𐎍		gbl		"limit, frontier, end" <<
+𐎙𐎁𐎍		gbl		"summit, mount" Giebel:peak ++<
 gbl   TN		"Byblos" Gyblos? <<
-𐎙𐎁𐎓𐎚 	 gbît		"fleshy part ofthe back, hump"
-𐎙𐎏 	 gd		"coriander"
-𐎙𐎏 	 gd		"sinew, tendon"
-𐎙𐎏𐎍 	 gdl	1)		"broad, wide" geTall@HEB
-𐎙𐎏𐎍𐎚 	 gdlt		"CATTLE, cow for sacrifice"
-𐎙𐎏𐎍𐎚 	 gdlt		"power, reach"	Hb. gdwlh, HALOT 178). 
-𐎙𐎏𐎗𐎚 	 gdrt		"hedge, fence" :guard++
-𐎙𐎏 	 gd		"kid" ++
-𐎙𐎙 	 gg		"roof, flat roof, roof terrace, roofing" gag~Giebel 𓎼
-𐎙𐎙𐎐 	 ggn		"insides", said of a person 	gn) <	gngn
-𐎙𐎅𐎗𐎚 	 ghrt		"?"
+𐎙𐎁𐎓𐎚		gbît		"fleshy part ofthe back, hump"
+𐎙𐎏		gd		"coriander"
+𐎙𐎏		gd		"sinew, tendon"
+𐎙𐎏𐎍		gdl	1)		"broad, wide" geTall@HEB
+𐎙𐎏𐎍𐎚		gdlt		"CATTLE, cow for sacrifice"
+𐎙𐎏𐎍𐎚		gdlt		"power, reach"	Hb. gdwlh, HALOT 178). 
+𐎙𐎏𐎗𐎚		gdrt		"hedge, fence" :guard++
+𐎙𐎏		gd		"kid" ++
+𐎙𐎙		gg		"roof, flat roof, roof terrace, roofing" gag~Giebel 𓎼
+𐎙𐎙𐎐		ggn		"insides", said of a person		gn) <	gngn
+𐎙𐎅𐎗𐎚		ghrt		"?"
 D. To make   chatter / grind"
-𐎙𐎍 	 gl		"stentorian shout, cry of jubilation" HALOT 190)
-𐎙𐎍 	 gl		"cup" -li-lum, Archi Eblaitica 1 67	n. 21
-𐎙𐎍[𐎅]𐎚 	 gl[h]t		"?'\	1.19 II	32.
-𐎙𐎍𐎛́ 	 glí		"snow"
-𐎙𐎎 	 gm	adv.		"also, even"
-𐎙𐎎𐎍 	 gml		"first quarter"
-𐎙𐎎𐎐 	 gmn		"funeral offering"	etym. unc
-𐎙𐎎𐎗 	 gmr		"champion, fighter"
-𐎙𐎐 	 gn	1)		"garden, orchard"
-𐎙𐎐𐎙𐎐 	 gngn		"insides, heart"
-𐎙𐎔 	 gp	1)		"shore, bank"
+𐎙𐎍		gl		"stentorian shout, cry of jubilation" HALOT 190)
+𐎙𐎍		gl		"cup" -li-lum, Archi Eblaitica 1 67	n. 21
+𐎙𐎍[𐎅]𐎚		gl[h]t		"?'\	1.19 II	32.
+𐎙𐎍𐎛́		glí		"snow"
+𐎙𐎎		gm	adv.		"also, even"
+𐎙𐎎𐎍		gml		"first quarter"
+𐎙𐎎𐎐		gmn		"funeral offering"	etym. unc
+𐎙𐎎𐎗		gmr		"champion, fighter"
+𐎙𐎐		gn	1)		"garden, orchard"
+𐎙𐎐𐎙𐎐		gngn		"insides, heart"
+𐎙𐎔		gp	1)		"shore, bank"
 gpn" stock, vine, vineyard" / in	Ú.TIR = ga-ba-na-na-un\, kab-na-ne-un\, VE 1431'
-𐎙𐎔𐎐 	 gpn		"harness"
-𐎙𐎔𐎗 	 gpr		"opponent"
-𐎙𐎗 	 gr	n. m		"protected
-𐎙𐎗𐎁𐎕 	 grbz	n. m		"helmet", or, by extension,		"cap, hood"
-𐎙𐎗𐎙𐎗 	 grgr		"throat"
-𐎙𐎗𐎙𐎗 	 grgr		"javelin"
-𐎙𐎗𐎐 	 grn	n.	m./f.		"threshing floor"  u n c 
-𐎙𐎗𐎐 	 grn		"current, of average quality"
-𐎙𐎗𐎒̌ 	 grš		"expeller, caster out, one in charge of driving out"  G or theme qittil /g-r-š7
-𐎙𐎗𐎒̌𐎚 	 gršt		"expeller, caster out, one in charge of driving out"
-𐎙𐎒̌𐎎 	 gšm		"rain, downpour"
-𐎙𐎚 	 gt	1)		"wine or olive press," and, by extension,		"farmstead, estate"
-𐎙𐎚𐎎𐎍𐎋𐎊 	 gtmlky	GNm.		"inhabitant oígtmlk'Hae Royal Farmstead'"
-𐎙𐎕𐎗 	 gzr		"piece"
-𐎙𐎕𐎕 	 gzz		"shearer" um/,
+𐎙𐎔𐎐		gpn		"harness"
+𐎙𐎔𐎗		gpr		"opponent"
+𐎙𐎗		gr	n. m		"protected
+𐎙𐎗𐎁𐎕		grbz	n. m		"helmet", or, by extension,		"cap, hood"
+𐎙𐎗𐎙𐎗		grgr		"throat"
+𐎙𐎗𐎙𐎗		grgr		"javelin"
+𐎙𐎗𐎐		grn	n.	m./f.		"threshing floor"  u n c 
+𐎙𐎗𐎐		grn		"current, of average quality"
+𐎙𐎗𐎒̌		grš		"expeller, caster out, one in charge of driving out"  G or theme qittil /g-r-š7
+𐎙𐎗𐎒̌𐎚		gršt		"expeller, caster out, one in charge of driving out"
+𐎙𐎒̌𐎎		gšm		"rain, downpour"
+𐎙𐎚		gt	1)		"wine or olive press," and, by extension,		"farmstead, estate"
+𐎙𐎚𐎎𐎍𐎋𐎊		gtmlky	GNm.		"inhabitant oígtmlk'Hae Royal Farmstead'" wtf
+𐎙𐎕𐎗		gzr		"piece"
+𐎙𐎕𐎕		gzz		"shearer" um/,
 ġ b" pit"
-𐎙̇𐎁 	 ġb		"?"  fever', Arab, ġabba, ġibb, Wyatt RTU 166
-𐎙̇𐎁𐎐 	 ġbn		"well-being, opulence"
+𐎙̇𐎁		ġb		"?"  fever', Arab, ġabba, ġibb, Wyatt RTU 166
+𐎙̇𐎁𐎐		ġbn		"well-being, opulence"
 ġ b t" ?"
-𐎟𐎏𐎎 	  dm		"?"
+𐎟𐎏𐎎		 dm		"?"
 swamp, hollow"
-𐎟𐎍𐎍 	  ll		"thirsty one", epithet of certain minor deities  
-𐎙̇𐎍𐎍 	 ġll		"intoxication"
-𐎙̇𐎍𐎎 	 ġlm	1)		"boy, youth"
-𐎙̇𐎍𐎎𐎚 	 ġlmt	1)		"damsel"
-𐎙̇𐎍𐎎𐎚 	 ġlmt		"concealment, darkness, thick fog"
-𐎅𐎍𐎋 	 hlk		"walk, course"
-𐎚𐎅𐎅𐎛𐎗𐎒" 	 theirs"
-𐎅𐎎 	 hm	1)		"if, cnditional	conj.
-𐎅𐎎 	 hm	p.	pn. 3rd	p.	pl./du.	m.,		"they, them, their, their)" HALOT 250
-𐎅𐎎𐎍𐎚 	 hmlt		"multitude"
-𐎚𐎅𐎅𐎛𐎗𐎒" 	 theirs"
-𐎅𐎐 	 hn	functor	1) deictic functor,		"behold
-𐎅𐎐𐎏 	 hnd	demonstr.	1)	adj.		"this, these"
-𐎅𐎐𐎏𐎐 	 hndn	adj.	demonstr.		"this"
-𐎅𐎐𐎅 	 hnh		"?		"	hain?
-𐎅𐎐𐎅𐎎𐎚 	 hnhmt	adj.	demonstr.		"these"
-𐎅𐎐𐎋 	 hnk	demonstr.	pn.		"that, this"
+𐎟𐎍𐎍		 ll		"thirsty one", epithet of certain minor deities  
+𐎙̇𐎍𐎍		ġll		"intoxication"
+𐎙̇𐎍𐎎		ġlm	1)		"boy, youth"
+𐎙̇𐎍𐎎𐎚		ġlmt	1)		"damsel"
+𐎙̇𐎍𐎎𐎚		ġlmt		"concealment, darkness, thick fog"
+𐎅𐎍𐎋		hlk		"walk, course"
+𐎚𐎅𐎅𐎛𐎗𐎒"		theirs"
+𐎅𐎎		hm	1)		"if, cnditional	conj.
+𐎅𐎎		hm	p.	pn. 3rd	p.	pl./du.	m.,		"they, them, their, their)" HALOT 250
+𐎅𐎎𐎍𐎚		hmlt		"multitude"
+𐎚𐎅𐎅𐎛𐎗𐎒"		theirs"
+𐎅𐎐		hn	functor	1) deictic functor,		"behold
+𐎅𐎐𐎏		hnd	demonstr.	1)	adj.		"this, these"
+𐎅𐎐𐎏𐎐		hndn	adj.	demonstr.		"this"
+𐎅𐎐𐎅		hnh		"?		"	hain?
+𐎅𐎐𐎅𐎎𐎚		hnhmt	adj.	demonstr.		"these"
+𐎅𐎐𐎋		hnk	demonstr.	pn.		"that, this"
 hnm deictic functor		"behold"/		"now", introductory formula in
-𐎅𐎐𐎐 	 hnn		"?" + -/j  .
-𐎅𐎐𐎐𐎊 	 hnny	adv.		"here"
+𐎅𐎐𐎐		hnn		"?" + -/j  .
+𐎅𐎐𐎐𐎊		hnny	adv.		"here"
 /h-p-k/ l)		"to overturn, alter"
-𐎅𐎗 	 hr		"mountain"
-𐎅𐎗 	 hr		"conception"
-𐎅𐎗𐎙 	 /h-r-g/		"to kill"
-𐎅𐎗𐎐𐎎𐎊 	 hrnmy	GN		"native of teT *hmm\ epithet of dnil 
-𐎅𐎗𐎚 	 hrt		"conception" /h-r-y/
-𐎅𐎛𐎚 	 hit		"shield"
-𐎅𐎗𐎊 	 /h-r-y/	"to conceive"
-𐎅𐎚𐎎 	 htm	adv.		"now"
-𐎅𐎆𐎚 	 hwt	1)		"word, statement"
+𐎅𐎗		hr		"mountain"
+𐎅𐎗		hr		"conception"
+𐎅𐎗𐎙		/h-r-g/		"to kill"
+𐎅𐎗𐎐𐎎𐎊		hrnmy	GN		"native of teT *hmm\ epithet of dnil 
+𐎅𐎗𐎚		hrt		"conception" /h-r-y/
+𐎅𐎛𐎚		hit		"shield"
+𐎅𐎗𐎊		/h-r-y/	"to conceive"
+𐎅𐎚𐎎		htm	adv.		"now"
+𐎅𐎆𐎚		hwt	1)		"word, statement"
 hw p1) personal		"he, it"
 hy p1) personal		"she, it"
-𐎅𐎊𐎗𐎎 	 hyrm		"?"
-𐎅𐎁𐎍 	 hbl	1)		"cord, rope, mooring rope"
-𐎅𐎁𐎍 	 hbl		"deposit, guarantee, pledge" bl?ci. Kaufman AIA 56)
-𐎅𐎁𐎗 	 hbr		"companion, associate"
-𐎅𐎁𐎗 	 hbr		"pot"
-𐎅𐎁𐎗 	 hbr		"?" votzen
-𐎅𐎁𐎒̌ 	 hbš	1)		"cinch, belt"
-𐎅𐎏𐎙 	 hdg		"chair"
-𐎅𐎏𐎗 	 hdr		"room, chamber"
-𐎅𐎏𐎚 	 hdt	adj.		"new, recent"
-𐎅𐎏𐎚 	 hdt		"new moon"
-𐎅𐎙𐎁 	 hgb		"locust", as an attribute of DN ršp  
-𐎅𐎋𐎎 	 hkm		"wise" adrett
-𐎅𐎋𐎎𐎚 	 hkmt		"wisdom"
-𐎅𐎛 	 hi	1)		"strength, vigour"
+𐎅𐎊𐎗𐎎		hyrm		"?"
+𐎅𐎁𐎍		hbl	1)		"cord, rope, mooring rope"
+𐎅𐎁𐎍		hbl		"deposit, guarantee, pledge" bl?ci. Kaufman AIA 56)
+𐎅𐎁𐎗		hbr		"companion, associate"
+𐎅𐎁𐎗		hbr		"pot"
+𐎅𐎁𐎗		hbr		"?" votzen
+𐎅𐎁𐎒̌		hbš	1)		"cinch, belt"
+𐎅𐎏𐎙		hdg		"chair"
+𐎅𐎏𐎗		hdr		"room, chamber"
+𐎅𐎏𐎚		hdt	adj.		"new, recent"
+𐎅𐎏𐎚		hdt		"new moon"
+𐎅𐎙𐎁		hgb		"locust", as an attribute of DN ršp  
+𐎅𐎋𐎎		hkm		"wise" 
+𐎅𐎋𐎎𐎚		hkmt		"wisdom"
+𐎅𐎛		hi	1)		"strength, vigour"
 farm, estate", in onomastics   3	30ff.
-𐎅𐎛 	 hi	adj.		"desacralized, 'free'" VE 1227'
-𐎅𐎍𐎁 	 hlb	1)		"milk"
-𐎅𐎍𐎍 	 hll		"desacralization, purificati ACKERon"
-𐎅𐎛𐎎 	 him		"dream" a'kurata
-𐎅𐎛𐎎 	 him		"fully grown, mature animal,"
-𐎅𐎍𐎐 	 hln		"window, opening"
-𐎅𐎍𐎖 	 hlq		"part, limb"
-𐎅𐎛𐎚 	 hit		"desacralization"
-𐎅𐎎 	 hm		"heat aloved a'hobet o'habet
-𐎅𐎎𐎏𐎗𐎚 	 hmdrt		"parched field"
-𐎅𐎎𐎅𐎎𐎚 	 hmhmt		"pregnancy, conception"
-𐎅𐎎𐎎 	 hmm		"heat" ECHAT,erst
-𐎅𐎎𐎗 	 hmr	1)		"donkey"
-𐎅𐎅𐎀𐎔" 	 heap"
-𐎅𐎎𐎗 	 hmr		"red, reddish"
-𐎅𐎎𐎒 	 hms		"vinegar"
-𐎅𐎎𐎚 	 hmt		"wall"
-𐎅𐎎𐎚 	 hmt		"wineskin"
-hmt   'Venom"
-𐎅𐎎𐎚 	 hmt		"belly"
-𐎅𐎐𐎚 	 hnt		"kindness, favour"
-𐎅𐎔𐎐 	 hpn		"greed, hoarding, rage" Lane 604
-𐎅𐎔𐎗 	 hpr		"ration, supply"
-𐎅𐎔𐎒̌𐎚 	 hpšt		"woman gathering"
-𐎅𐎗 	 hr		"intestine"	Arab. hirr). 
-𐎅𐎗𐎁 	 hrb		"knife
+𐎅𐎛		hi	adj.		"desacralized, 'free'" VE 1227'
+𐎅𐎍𐎁		hlb	1)		"milk"
+𐎅𐎍𐎍		hll		"desacralization, purificati ACKERon"
+𐎅𐎛𐎎		him		"dream" a'kurata
+𐎅𐎛𐎎		him		"fully grown, mature animal,"
+𐎅𐎍𐎐		hln		"window, opening"
+𐎅𐎍𐎖		hlq		"part, limb"
+𐎅𐎛𐎚		hit		"desacralization"
+𐎅𐎎		hm		"heat 
+𐎅𐎎𐎏𐎗𐎚		hmdrt		"parched field"
+𐎅𐎎𐎅𐎎𐎚		hmhmt		"pregnancy, conception"
+𐎅𐎎𐎎		hmm		"heat" charm™/warm
+𐎅𐎎𐎗		hmr	1)		"donkey" חֲמוֹר‎ (he) m (khamór > که‌ر‎ (ku) (ker) khorse  < khmer=gray 
+𐎅𐎎𐎗		hmr	1)		"donkey" the MARE/MULI חמרא‎ ħəmārā ħmar حمار‎ ḥmār  < HröMer? Hroamer? хӏама
+𐎅𐎎𐎗		hmr 	somera@Catalan 𐎅=San Latin sagma, Late Latin sagmarius မြည်း hmrany חמור‎ m (khamer)
+𐎅𐎎𐎗		hmr	gmr<>mgr мага́ре (bg) n (magáre) vs 𒀲 ANŠE Ẽsel Latin asellus 𐌰𐍃𐌹𐌻𐌿𐍃 осёл sos
+𐎅𐎅𐎀𐎔	hhap	"HEAP"  马驴 malǘ Muli
+𐎅𐎎𐎗		hmr		"red, reddish" KIMIR <> kirsch carne chrome red-khmer vs chem=black
+𐎅𐎎𐎒		hms		"vinegar"
+𐎅𐎎𐎚		hmt   'Venom"
+𐎅𐎎𐎚		hmt		"wineskin" <>
+𐎅𐎎𐎚		hmt		"wall" RAMMT <>
+𐎅𐎎𐎚		hmt		"belly" SCROmt/SOMAT<<<
+𐎅𐎐𐎚		hnt		"kindness, favour" KIND
+𐎅𐎔𐎐		hpn		"greed, hoarding, rage" Lane 604 HABEN
+𐎅𐎔𐎗		hpr		"ration, supply" HAFER <<<
+𐎅𐎔𐎒̌𐎚		hpšt		"woman gathering" Hapshetsut Hatshepsut;)
+𐎅𐎗		hr		"intestine"	Arab. hirr). !
+𐎅𐎗𐎁		hrb		"knife" > CARVE
 hrhrt of a colour or dye		"crimson red", by	meton.	probl.		"flare- up"	Hb. hāră)
-𐎅𐎗𐎐𐎖 	 hrnq		"orchard"
-𐎅𐎗𐎒 	 hrs		"item, exact portion"
-𐎅𐎗𐎒 	 hrs		"milk of lime"
-𐎅𐎗𐎒̌ 	 hrš	1)		"craftsman, manual worker"
-armourer, fitter"
-𐎅𐎗𐎒̌ 	 hrš		"magic spell"
-𐎅𐎛𐎚 	 hit		"ploughman, farmhand, cowherd"
-𐎅𐎒𐎋 	 hsk		"awarded, assigned"
-𐎅𐎒𐎎 	 hsm		"?" ? 
-𐎅𐎒𐎐 	 hsn		"grasshoppers, locusts"
-𐎅𐎒𐎔 	 hsp		"decanted, drained, without sediment"
-𐎅𐎒𐎔𐎚 	 hspt		"she who collects"
-𐎅𐎒 	 /h-s/		"?"	[verb] 
-𐎅𐎒 	 hs		"gravel"
-𐎅𐎒̌𐎐 	 hšn		"?" ? 
-𐎅𐎚 	 ht		"?"
-𐎅𐎚𐎋 	 htk		"progenitor, father"	act.	ptc. /h-t-k/
-𐎅𐎚𐎋 	 htk		"lineage, offspring"	pass.	ptc. /h-t-k/
-𐎅𐎚𐎍 	 htl		"nappy"
-𐎅𐎚𐎐 	 htn		"?"
-𐎅𐎚𐎁 	 htb		"wood-cutter" CDG	248. Cf Görg BN 5
-𐎅𐎚𐎁𐎚 	 htbt		"/female) wood-cutter"
-𐎅𐎚𐎚 	 htt		"wheat" t ?, DNWSI 363
-𐎅𐎛 	 hi		"unleavened bread"
-𐎅𐎚𐎁 	 htb		"bill, account"
-𐎅𐎚𐎁𐎐 	 htbn		"balance, account"
-𐎅𐎆𐎚 	 hwt		"country, land, territory"
-𐎅𐎆𐎊 	 hwy		"storehouse, depot"
-𐎅𐎊 	 hy		"alive"
-𐎅𐎊 	 hy		"life"	Hb.,	Ph.,	Pun.,	Aram.,	Nab.,	Palm. hy HALOT 308
-𐎅𐎊𐎍𐎊 	 hyly	adj.		"fighter, powerful, strong"
-𐎅𐎊𐎚 	 hyt		"life"
-𐎅𐎕 	 hz		"arrow"
-𐎅𐎕𐎗 	 hzr	1)		"mansion"
-𐎅𐎕𐎚 	 hzt	adj.	f.		"happy, lucky"
-𐎅𐎗𐎒𐎔 	 hrsp		"tendon"
-𐎅𐎗𐎒̌𐎅 	 hršh	1)		"bowl for burning perfume"
-hršn" mountain", dwelling of the god El  
-𐎅𐎗𐎚 	 hrt		"cave, grave"
-𐎅𐎗𐎊 	 hry	GN	m.		"Human"
-𐎅𐎗𐎕𐎁 	 hrzV		"paw"	etym. unc
-𐎅𐎒𐎗 	 hsr		"deficit		"		"Sanmartín) UF 5 1973 108
-𐎅𐎒𐎚 	 hst		"half 
+𐎅𐎗𐎐𐎖		hrnq		"orchard"
+𐎅𐎗𐎒		hrs		"item, exact portion"
+𐎅𐎗𐎒		hrs		"milk of lime"
+𐎅𐎗𐎒̌		hrš	1)		"craftsman, manual worker" KARos
+??? armourer, fitter" 
+𐎅𐎗𐎒̌		hrš		"magic spell" CURSE
+𐎅𐎛𐎚		hit		"ploughman, farmhand, cowherd"
+𐎅𐎒𐎋		hsk		"awarded, assigned"
+𐎅𐎒𐎎		hsm		"?" ? 
+𐎅𐎒𐎐		hsn		"grasshoppers, locusts"
+𐎅𐎒𐎔		hsp		"decanted, drained, without sediment"
+𐎅𐎒𐎔𐎚		hspt		"she who collects"
+𐎅𐎒		/h-s/		"?"	[verb] 
+𐎅𐎒		hs		"gravel"
+𐎅𐎒̌𐎐		hšn		"?" ? 
+𐎅𐎚		ht		"?"
+𐎅𐎚𐎋		htk		"progenitor, father"	act.	ptc. /h-t-k/ ANTIK? <<< SEM
+𐎅𐎚𐎋		htk		"lineage, offspring"	pass.	ptc. /h-t-k/
+𐎅𐎚𐎍		htl		"nappy"
+𐎅𐎚𐎐		htn		"?"
+𐎅𐎚𐎁		htb		"wood-CUTter" CDG	248. Cf Görg BN 5
+𐎅𐎚𐎁𐎚		htbt		"wood-CUTter"
+𐎅𐎚𐎚		htt		"WHEAT", DNWSI 363
+𐎅𐎛		hi		"unleavened bread" HAFER
+𐎅𐎚𐎁		htb		"bill, account"
+𐎅𐎚𐎁𐎐		htbn		"balance, account" HATTEN < HABEN
+𐎅𐎆𐎚		hwt		"country, land, territory" HABITat
+𐎅𐎆𐎊		hwy		"storehouse, depot" HOUSE,HABIT>beith,hut
+
+𐎅𐎊𐎚		hyt		"life"  HABIT>hvite>hayat +++
+𐎅𐎊		hy		"life" al.hayat	Hb.,	Ph.,	Pun.,	Aram.,	Nab.,	Palm. hy HALOT 308
+𐎅𐎊		hy		"alive" al.hayav
+
+𐎅𐎊𐎍𐎊		hyly	adj.		"fighter, powerful, strong"
+𐎅𐎑		hz		"arrow" SCHIESSER
+𐎅𐎕𐎗		hzr	1)		"mansion" Häuser>Haus,house
+𐎅𐎕𐎚		hzt	adj.	f.		"happy, lucky" <<
+𐎅𐎗𐎒𐎔		hrsp		"tendon"
+𐎅𐎗𐎒̌𐎅		hršh	1)		"bowl for burning perfume"
+𐎅𐎗𐎒̌𐎐	hršn	"mountain", dwelling of the god El   KORSHAN +++
+𐎅𐎗𐎚		hrt		"cave, grave" CARVT~court~Gruft <<<<++
+𐎅𐎗𐎊		hry	GN	m.		"Human" <<<< HURIAN?
+𐎅𐎗𐎕𐎁		hrzV		"paw"	etym. unc
+𐎅𐎒𐎗		hsr		"deficit		"		"Sanmartín) UF 5 1973 108
+𐎅𐎒𐎚		hst		"half 
 /h-š/v. G		"toü-emble, bedarmed"
-𐎅𐎒̌𐎚 	 hšt		"sepulchre, mausoleum		""
-𐎅𐎚𐎐 	 htn		"relationship by marriage, wedding"
-𐎅𐎚𐎚 	 htt		"terror"
-𐎅𐎚𐎊 	 hty	 	GN	m.		"Hittite"
-𐎅𐎚𐎊𐎚 	 htyt	GN	f.		"Hittite"
-𐎅𐎚 	 ht		"sceptre, rod, wand, stake		"		"l51
-𐎅𐎚𐎎 	 htm		"nose"
-𐎅𐎊𐎎 	 hym		"canopy		"		"mu-h¦ PRU 4 231  
-𐎅𐎕𐎗 	 hzr	1)		"assistant, auxiliary"
-𐎋 	 k	prep.,		"like"
-𐎋 	 k	adv.,	1)		"thus, in this way"
-𐎒𐎚𐎜𐎛𐎛𐎅𐎏" 	 stuffed"
-𐎋𐎁𐎁 	 kbb		"?"
-𐎋𐎁𐎏 	 kbd	n. usually	f.	1)		"liver"
+𐎅𐎒̌𐎚		hšt		"sepulchre, mausoleum		""
+𐎅𐎚𐎐		htn		"relationship by marriage, wedding"
+𐎅𐎚𐎚		htt		"terror"
+𐎅𐎚𐎊		hty			GN	m.		"Hittite"
+𐎅𐎚𐎊𐎚		htyt	GN	f.		"Hittite"
+𐎅𐎚		ht		"sceptre, rod, wand, stake		"		"l51
+𐎅𐎚𐎎		htm		"nose"
+𐎅𐎊𐎎		hym		"canopy		"		"mu-h¦ PRU 4 231  
+𐎅𐎕𐎗		hzr	1)		"assistant, auxiliary"
+𐎋		k	prep.,		"like"
+𐎋		k	adv.,	1)		"thus, in this way"
+𐎒𐎚𐎜𐎛𐎛𐎅𐎏"		stuffed"
+𐎋𐎁𐎁		kbb		"?"
+𐎋𐎁𐎏		kbd	n. usually	f.	1)		"liver"
 3) Interior, bosom in syntagm with a preposition >		"within"
-𐎋𐎁𐎏 	 kbd	1)		"total correct, exact number"
-𐎋𐎁𐎏 	 kbd		"splendour, glory"
-𐎋𐎁𐎋𐎁 	 kbkb		"heavenly body, star" VE 1185
-𐎋𐎁𐎗𐎚 	 kbrt		"sieve"
-𐎋𐎁𐎒𐎒́ 	 kbs/ś		"fuller, launderer"
-k 	conj.		"anyway, since, as, in case, if' DNWSI 316ff
-𐎋𐎏𐎏 	 kdd		"child, young youth/lad"
-𐎋𐎏𐎐𐎚 	 kdnt		"she-mule"
-𐎋𐎏𐎗𐎚 	 kdrt		"ball"
+𐎋𐎁𐎏		kbd	1)		"total correct, exact number"
+𐎋𐎁𐎏		kbd		"splendour, glory"
+𐎋𐎁𐎋𐎁		kbkb		"heavenly body, star" VE 1185
+𐎋𐎁𐎗𐎚		kbrt		"sieve"
+𐎋𐎁𐎒𐎒́		kbs/ś		"fuller, launderer"
+k		conj.		"anyway, since, as, in case, if' DNWSI 316ff
+𐎋𐎏𐎏		kdd		"child, young youth/lad"
+𐎋𐎏𐎐𐎚		kdnt		"she-mule"
+𐎋𐎏𐎗𐎚		kdrt		"ball"
 II 9 and	par. kdt		"?'
-𐎋𐎅𐎐 	 khn		"priest"
-𐎋𐎅𐎚 	 kht		"throne"
-𐎋𐎋𐎐𐎚 	 kknt		"pot, jar, pitcher" < *knkn
-𐎋𐎋𐎗 	 kkr		"talent"
-𐎋𐎍 	 kl		"totality > all, each, every, the whole, entirety"
-𐎋𐎍 	 kl		"belonging equipment, gear"
-𐎋𐎍𐎀𐎚 	 klat		"both, both"
-𐎋𐎍𐎁 	 klb		"dog"
-𐎋𐎍𐎁𐎚 	 klbt		"bitch" . 
-𐎋𐎛𐎏 	 kid		"bow"
-𐎋𐎛𐎍 	 kil		"totality, whole > all"
-𐎋𐎍𐎐𐎊 	 klny	adv.		"all together, together"  +	adv.	suff. -ny, 
-𐎋𐎛𐎚 	 kit	1)		"bride"
-𐎋𐎛𐎚 	 kit		"measure, amount, quantity" -l/
+𐎋𐎅𐎐		khn		"priest"
+𐎋𐎅𐎚		kht		"throne"
+𐎋𐎋𐎐𐎚		kknt		"pot, jar, pitcher" < *knkn
+𐎋𐎋𐎗		kkr		"talent"
+𐎋𐎍		kl		"totality > all, each, every, the whole, entirety"
+𐎋𐎍		kl		"belonging equipment, gear"
+𐎋𐎍𐎀𐎚		klat		"both, both"
+𐎋𐎍𐎁		klb		"dog"
+𐎋𐎍𐎁𐎚		klbt		"bitch" . 
+𐎋𐎛𐎏		kid		"bow"
+𐎋𐎛𐎍		kil		"totality, whole > all"
+𐎋𐎍𐎐𐎊		klny	adv.		"all together, together"  +	adv.	suff. -ny, 
+𐎋𐎛𐎚		kit	1)		"bride"
+𐎋𐎛𐎚		kit		"measure, amount, quantity" -l/
 consume, be consumed"
-𐎋𐎍𐎊𐎚 	 klyt		"kidneys"
-𐎋𐎎 	 km	1) prep,		"like"
-𐎋𐎎𐎛𐎚 	 kmit	adj.	f.		"anger"
-𐎋𐎎𐎎 	 kmm	adv.		"ditto, in the same amount"
-𐎋𐎎𐎐 	 kmn		"'acre'"  600 m 
-𐎋𐎎𐎐 	 kmn		"cumin"
-𐎋𐎐 	 kn	1)		"fixed, immutable"
-𐎋𐎐 	 kn	adv.		"thus"	Hb.,	Ph.,	Pun., Aram, kn, HALOT 482f
-𐎋𐎐𐎚𐎐𐎊 	 knTny	GN	m.		"Canaanite" Edel Stelen 172	n. 122
-𐎋𐎐𐎅 	 knh		"?"
-𐎋𐎐𐎋𐎚 	 knkt	adj. f		"sealed"
-𐎋𐎐𐎔 	 knp		"wing"
-𐎋𐎐𐎚 	 knt		"continuity"/		"constancy"
-𐎋𐎐𐎊𐎚 	 knyt	adj.	f.		"glorious, of noble ancestry"
-𐎋𐎔 	 kp	1)		"palm"
-𐎋𐎔𐎗 	 kpr		"village"
-𐎋𐎔𐎗 	 kpr		"henna"
- 	 
-1 	 1	neg.	adv.,		"a¬, no, not" Krebernik PET 94
+𐎋𐎍𐎊𐎚		klyt		"kidneys"
+𐎋𐎎		km	1) prep,		"like"
+𐎋𐎎𐎛𐎚		kmit	adj.	f.		"anger"
+𐎋𐎎𐎎		kmm	adv.		"ditto, in the same amount"
+𐎋𐎎𐎐		kmn		"'acre'"  600 m 
+𐎋𐎎𐎐		kmn		"cumin"
+𐎋𐎐		kn	1)		"fixed, immutable"
+𐎋𐎐		kn	adv.		"thus"	Hb.,	Ph.,	Pun., Aram, kn, HALOT 482f
+𐎋𐎐𐎚𐎐𐎊		knTny	GN	m.		"Canaanite" Edel Stelen 172	n. 122
+𐎋𐎐𐎅		knh		"?"
+𐎋𐎐𐎋𐎚		knkt	adj. f		"sealed"
+𐎋𐎐𐎔		knp		"wing"
+𐎋𐎐𐎚		knt		"continuity"/		"constancy"
+𐎋𐎐𐎊𐎚		knyt	adj.	f.		"glorious, of noble ancestry"
+𐎋𐎔		kp	1)		"palm"
+𐎋𐎔𐎗		kpr		"village"
+𐎋𐎔𐎗		kpr		"henna"
+		
+1		1	neg.	adv.,		"a¬, no, not" Krebernik PET 94
 1   functor fafirmation and emphasis,		"certainly, undoubtedly, yes"
-1 	 1	interj., voc,		"oh!"
-𐎍𐎀 	 la		"power, strength, vigour"
-𐎍𐎛𐎎 	 lim		"people, clan"
-𐎍𐎀𐎐 	 lan		"power" LION 力
+1		1	interj., voc,		"oh!"
+𐎍𐎀		la		"power, strength, vigour"
+𐎍𐎛𐎎		lim		"people, clan"
+𐎍𐎀𐎐		lan		"power" LION 力
 dry up, weaken"
-𐎍𐎁 	 lb	n.	m./f.		"heart"
-𐎍𐎁𐎜 	 lbu		"lion" -um, MEE 4 96 V 4
-𐎓𐎁𐎏𐎎 	 îbdm		"?", bkn	ctx. and	unc. rdg lbd\?)m ard b npšny,	1.2 III 20   hinabsteigen', /li- baddi/u-ma/  .
-𐎛𐎁𐎐 	 Ibn		"white" <> l'bein
+𐎍𐎁		lb	n.	m./f.		"heart"
+𐎍𐎁𐎜		lbu		"lion" -um, MEE 4 96 V 4
+𐎓𐎁𐎏𐎎		îbdm		"?", bkn	ctx. and	unc. rdg lbd\?)m ard b npšny,	1.2 III 20   hinabsteigen', /li- baddi/u-ma/  .
+𐎛𐎁𐎐		Ibn		"white" <> l'bein
 lbnn   TN		"Lebanon"
-𐎛𐎁𐎐𐎚 	 Ibnt		"brick" ^^ !  klemptner carpenter … !
-𐎍𐎁𐎒̌ 	 lbš	1)		"clothing" votzen
-𐎍𐎁𐎚 	 lbt		"hoop / plate"
-𐎛𐎏 	 Id		"goblet 
-𐎍𐎅 	 lh	1)		"cheek"
-𐎍𐎅 	 lh		"missive, message" <" tablets"
-𐎍𐎅𐎎 	 lhm	1)		"grain"
-𐎍𐎅𐎒̌𐎚 	 lhšt		"chatter, whisper, murmur"
-𐎍𐎍 	 ll		"night, nightfall" laila adrett
-𐎛𐎗𐎀 	 Ira		"suckling"
-𐎛𐎎 	 Im	interr.	pron.		"why?, what for?" Forms
-1𐎎𐎏 	 /1-m-d/	v. D	1)		"to teach, train"
-𐎍𐎎𐎏 	 lmd	1)		"pupil"
+𐎛𐎁𐎐𐎚		Ibnt		"brick" ^^ !  klemptner carpenter … !
+𐎍𐎁𐎒̌		lbš	1)		"clothing" 
+𐎍𐎁𐎚		lbt		"hoop / plate"
+𐎛𐎏		Id		"goblet 
+𐎍𐎅		lh	1)		"cheek"
+𐎍𐎅		lh		"missive, message" <" tablets"
+𐎍𐎅𐎎		lhm	1)		"grain"
+𐎍𐎅𐎒̌𐎚		lhšt		"chatter, whisper, murmur"
+𐎍𐎍		ll		"night, nightfall" laila 
+𐎛𐎗𐎀		Ira		"suckling"
+𐎛𐎎		Im	interr.	pron.		"why?, what for?" Forms
+1𐎎𐎏		/1-m-d/	v. D	1)		"to teach, train"
+𐎍𐎎𐎏		lmd	1)		"pupil"
 lmdt" apprentice		"		"group of apprentices		"). Forms
-𐎍𐎔𐎒̌ 	 lpš		"cloak, outer garment" ACKER
-𐎛𐎒𐎎 	 Ism	subst.		"swift" a'kurata
-𐎍𐎒𐎎𐎚 	 lsmt		"haste, alacrity" Forms
-𐎍𐎒𐎁 	 lsb		"brow, space between eyebrows" Forms
-𐎍𐎒̌𐎐 	 lšn	1)		"tongue"
-𐎛𐎚 	 It		"?"
-𐎍𐎚𐎊 	 lty		"?" aloved a'hobet o'habet
-𐎍𐎚𐎔𐎐 	 ltpn		"benevolent", epithet of the god El). Forms
-𐎍𐎆𐎐 	 lwn		"follower, mate"   */l-w-y/
-𐎍𐎊𐎚 	 lyt		"retinue"   *i ECHAT,erst
-𐎍𐎕𐎚 	 lzt		"scorn"
-𐎎𐎛𐎜𐎏 	 mi/ud	1)		"abundance"
-𐎎𐎛𐎅𐎏 	 mihd		"customs duty" /
-𐎎𐎅𐎏𐎊 	 mhdy	GN		"one indigenous to or dwelling in 'The Port'"
-𐎎𐎛𐎐𐎒̌ 	 minš		"camp, encampment, quarters"
-𐎎_𐎐 	 m_n		"seal"
-𐎎𐎛𐎚 	 mit		"a hundred, one hundred"
-𐎎𐎀𐎚𐎗 	 matr		"controller, inspector"
-𐎎𐎛𐎊𐎚 	 miyt		"pool"
-𐎎𐎛𐎕𐎗𐎚 	 mizrt		"garment, ritual tunic"
+𐎍𐎔𐎒̌		lpš		"cloak, outer garment" ACKER
+𐎛𐎒𐎎		Ism	subst.		"swift" a'kurata
+𐎍𐎒𐎎𐎚		lsmt		"haste, alacrity" Forms
+𐎍𐎒𐎁		lsb		"brow, space between eyebrows" Forms
+𐎍𐎒̌𐎐		lšn	1)		"tongue"
+𐎛𐎚		It		"?"
+𐎍𐎚𐎊		lty		"?" 
+𐎍𐎚𐎔𐎐		ltpn		"benevolent", epithet of the god El). Forms
+𐎍𐎆𐎐		lwn		"follower, mate"   */l-w-y/
+𐎍𐎊𐎚		lyt		"retinue"   *i 
+𐎍𐎕𐎚		lzt		"scorn"
+𐎎𐎛𐎜𐎏		mi/ud	1)		"abundance"
+𐎎𐎛𐎅𐎏		mihd		"customs duty" /
+𐎎𐎅𐎏𐎊		mhdy	GN		"one indigenous to or dwelling in 'The Port'"
+𐎎𐎛𐎐𐎒̌		minš		"camp, encampment, quarters"
+𐎎_𐎐		m_n		"seal"
+𐎎𐎛𐎚		mit		"a hundred, one hundred"
+𐎎𐎀𐎚𐎗		matr		"controller, inspector"
+𐎎𐎛𐎊𐎚		miyt		"pool"
+𐎎𐎛𐎕𐎗𐎚		mizrt		"garment, ritual tunic"
 mî   postpositional	emph.		"please!", after an	impv.   Gardiner § 250
-𐎎𐎒 	 mS	adv.		"as one, together" Lane	3022. 
-𐎎𐎒𐎁𐎏 	 mSbd		"labour, work"
-𐎎𐎁𐎁𐎗 	 mVbr		"pass, ford"
-𐎎𐎁𐎏 	 mVd		"convention, assembly"
-𐎐𐎗𐎚𐎏𐎁 	 nrtdb		"fine, compensation^)"
-𐎎𐎁𐎋 	 mVk		"crumb"  UF 14 1982 187
-𐎎𐎓𐎎𐎒 	 mîms		"the one loaded with > he who loads   with"
-𐎎𐎁𐎐 	 mVn		"reply"
+𐎎𐎒		mS	adv.		"as one, together" Lane	3022. 
+𐎎𐎒𐎁𐎏		mSbd		"labour, work"
+𐎎𐎁𐎁𐎗		mVbr		"pass, ford"
+𐎎𐎁𐎏		mVd		"convention, assembly"
+𐎐𐎗𐎚𐎏𐎁		nrtdb		"fine, compensation^)"
+𐎎𐎁𐎋		mVk		"crumb"  UF 14 1982 187
+𐎎𐎓𐎎𐎒		mîms		"the one loaded with > he who loads   with"
+𐎎𐎁𐎐		mVn		"reply"
 m_̈ n t		"?" < mîn). 
-𐎎𐎓𐎖𐎁 	 mîqb		"rival"
-𐎎𐎓𐎗𐎁 	 mîrb		"tribute-offering*' < in commercial language		"entry, receipt"
-𐎎𐎓𐎗𐎁 	 mîrb	n.m.,		"sunset"
-𐎎𐎓𐎚 	 mît		"?"
-𐎎𐎁𐎋 	 mbk		"source, spring"
-𐎎𐎏 	 md		"cape, covering'  
-𐎎_𐎓 	 m_î	interr. functor		"why?"
-𐎎𐎏𐎓 	 mdî	"family", social group or class  dî, HALOT 550
-𐎎𐎏𐎁 	 mdb		"tide, flow ofthe sea"
-𐎎𐎏𐎁𐎅 	 mdbh	n.	m./f.		"altar" VE 440
-𐎎𐎏𐎁𐎗 	 mdbr		"desert"
-𐎎𐎏𐎏 	 mdd		"beloved, friend"
-𐎎𐎏𐎏𐎚 	 mddt		"beloved" ', 
-𐎎𐎏𐎏𐎚 	 mddt		"dispenser, distributor"
-𐎎𐎏𐎙𐎚 	 mdgt		"cave, tomb" <		"dark place"
-𐎎𐎏1 	 /m-d-1/	v. G/D.		"to bridle"
-𐎎𐎏𐎐𐎚 	 mdnt		"city, village"
-𐎎𐎏𐎗𐎁 	 mdrV		"sown land, cultivated field"
-𐎎𐎏𐎆 	 mdw		"sickness"
-𐎎𐎏𐎍𐎙̇ 	 mdlġ		"?"
-𐎎𐎏𐎐𐎚 	 mdnt		"sandal"
-𐎎𐎏𐎗 	 mdr		"vow"
+𐎎𐎓𐎖𐎁		mîqb		"rival"
+𐎎𐎓𐎗𐎁		mîrb		"tribute-offering*' < in commercial language		"entry, receipt"
+𐎎𐎓𐎗𐎁		mîrb	n.m.,		"sunset"
+𐎎𐎓𐎚		mît		"?"
+𐎎𐎁𐎋		mbk		"source, spring"
+𐎎𐎏		md		"cape, covering'  
+𐎎_𐎓		m_î	interr. functor		"why?"
+𐎎𐎏𐎓		mdî	"family", social group or class  dî, HALOT 550
+𐎎𐎏𐎁		mdb		"tide, flow ofthe sea"
+𐎎𐎏𐎁𐎅		mdbh	n.	m./f.		"altar" VE 440
+𐎎𐎏𐎁𐎗		mdbr		"desert"
+𐎎𐎏𐎏		mdd		"beloved, friend"
+𐎎𐎏𐎏𐎚		mddt		"beloved" ', 
+𐎎𐎏𐎏𐎚		mddt		"dispenser, distributor"
+𐎎𐎏𐎙𐎚		mdgt		"cave, tomb" <		"dark place"
+𐎎𐎏1		/m-d-1/	v. G/D.		"to bridle"
+𐎎𐎏𐎐𐎚		mdnt		"city, village"
+𐎎𐎏𐎗𐎁		mdrV		"sown land, cultivated field"
+𐎎𐎏𐎆		mdw		"sickness"
+𐎎𐎏𐎍𐎙̇		mdlġ		"?"
+𐎎𐎏𐎐𐎚		mdnt		"sandal"
+𐎎𐎏𐎗		mdr		"vow"
 mdrġl term for a military class,	probl.		"watchman, guard" *
-𐎎𐎙𐎏𐎍 	 mgdl		"tower
-𐎎𐎙𐎐 	 mgn		"gift, present"
+𐎎𐎙𐎏𐎍		mgdl		"tower
+𐎎𐎙𐎐		mgn		"gift, present"
 m   d		"food, provisions"
 /m- -y/	v. G	1)		"to come, arrive"
-3) 	 3)		"to go, walk"
-𐎎𐎙̇𐎕 	 mġz		"present, gift"
-𐎎 	 m	pn.	1)	interr.	pn.		"what?"
-𐎎𐎅𐎊 	 mh/y		"water"
+3)		3)		"to go, walk"
+𐎎𐎙̇𐎕		mġz		"present, gift"
+𐎎		m	pn.	1)	interr.	pn.		"what?"
+𐎎𐎅𐎊		mh/y		"water"
 mhk  indef	pn.		"anything, whatever it may be"
 nothing" {m  + k 
-𐎎𐎅𐎎𐎗𐎚 	 mhmrt		"cesspool, pit, well" >		"gullet, throat", said of the		"fauces" of the god mt, whose city is hmry, the		"muddy"
-𐎗𐎐𐎅𐎗 	 rnhr		"warrior strength" Cf Del Olmo MLR 230
-𐎎𐎅𐎗 	 mhr		"dowry, price / bride-price"
-𐎎𐎅𐎊𐎚 	 mhyt		"meadow, irrigated land, fertile land"
-𐎎𐎅𐎍𐎍 	 mhll		"desacralizer" hit). 
-𐎎𐎅𐎎𐎏 	 mhmd	adj./1)		"desired"
-𐎎𐎅𐎗𐎛́𐎚 	 mhrít		"ploughshare" > * a" work"
-𐎎𐎅𐎒 	 mhs		"?'
+𐎎𐎅𐎎𐎗𐎚		mhmrt		"cesspool, pit, well" >		"gullet, throat", said of the		"fauces" of the god mt, whose city is hmry, the		"muddy"
+𐎗𐎐𐎅𐎗		rnhr		"warrior strength" Cf Del Olmo MLR 230
+𐎎𐎅𐎗		mhr		"dowry, price / bride-price"
+𐎎𐎅𐎊𐎚		mhyt		"meadow, irrigated land, fertile land"
+𐎎𐎅𐎍𐎍		mhll		"desacralizer" hit). 
+𐎎𐎅𐎎𐎏		mhmd	adj./1)		"desired"
+𐎎𐎅𐎗𐎛́𐎚		mhrít		"ploughshare" > * a" work"
+𐎎𐎅𐎒		mhs		"?'
 rapport avec Paffinage du metal, en particulier l'affinage de For		").
-𐎎𐎅 	 /m-h/	v. G		"to clean, erase"
-𐎎𐎅𐎊 	 mhy		"clean" /). 
-𐎎𐎅 	 mh	1)		"marrow, brains"
-𐎅𐎉𐎜𐎁𐎅𐎗𐎀𐎐𐎚𐎍𐎊" 	 exuberantly"
-𐎎𐎅𐎎𐎒̌𐎚 	 mhmšt		"the fifth one"
-𐎎𐎅𐎐 	 mhn		"?"
-𐎎𐎅𐎐𐎎 	 mhnm		"?
-𐎅 	 h		"price, commercial value"
-𐎎𐎅𐎗 	 mhr		"tax collector" mahhār/, Hoch SWET 150f
-𐎎𐎅𐎗 	 mhr		"?"
-𐎎𐎅𐎒𐎎 	 mhsm		"deficit, debit"
-𐎎𐎅𐎒 	 /m-h-s/	v. G		"to wound, beat, crush, kill"
+𐎎𐎅		/m-h/	v. G		"to clean, erase"
+𐎎𐎅𐎊		mhy		"clean" /). 
+𐎎𐎅		mh	1)		"marrow, brains"
+𐎅𐎉𐎜𐎁𐎅𐎗𐎀𐎐𐎚𐎍𐎊"		exuberantly"
+𐎎𐎅𐎎𐎒̌𐎚		mhmšt		"the fifth one"
+𐎎𐎅𐎐		mhn		"?"
+𐎎𐎅𐎐𐎎		mhnm		"?
+𐎅		h		"price, commercial value"
+𐎎𐎅𐎗		mhr		"tax collector" mahhār/, Hoch SWET 150f
+𐎎𐎅𐎗		mhr		"?"
+𐎎𐎅𐎒𐎎		mhsm		"deficit, debit"
+𐎎𐎅𐎒		/m-h-s/	v. G		"to wound, beat, crush, kill"
 destroy" / in	ŠU.ŠU.RA = ma-ha-zi i-da, VE 531
-𐎎𐎅𐎒 	 mhs		"one who beats" >	1)		"weaver"
-𐎎𐎅𐎒 	 mhs		"machete"
-𐎎𐎅𐎒̌ 	 /m-h-š/	v. G		"to crush"
-𐎎𐎅𐎚 	 mht		"?"
+𐎎𐎅𐎒		mhs		"one who beats" >	1)		"weaver"
+𐎎𐎅𐎒		mhs		"machete"
+𐎎𐎅𐎒̌		/m-h-š/	v. G		"to crush"
+𐎎𐎅𐎚		mht		"?"
 mk   deictic functor		"behold!, see!"
-𐎎𐎋𐎅𐎏 	 mkhd		"one who hides or denies"
-𐎎𐎋 	 /m-k-/	v. G		"to fall, flag" votzen
-𐎎𐎋𐎋𐎎 	 mkkm		"?"
-𐎎𐎋𐎐𐎔𐎚 	 mknpt		"span"
-𐎎𐎋𐎐𐎚 	 mknt		"family seat" DOSA 244
-𐎎𐎋𐎗 	 /m-k-r/	v. N		"to be sold"
-𐎎𐎋𐎗 	 mkr		"merchant, commercial agent, runner"
-𐎎𐎋𐎒 	 mks		"blanket"msr		"semolina, forage or partially ground wheat"
-𐎎𐎋𐎚 	 mkt		"immolation, offerings?)  adrett
-𐎎𐎋𐎚𐎗 	 mktr		"expert"
-𐎎𐎍 	 ml		"?" ? 
-𐎎1? 	 /m-1-?/	v. G		"to be full", "to be filled"
-𐎎𐎍𐎜 	 mlu		"fill, foil measure"
-𐎎𐎍𐎀𐎋 	 mlak		"messenger"
-𐎎𐎍𐎀𐎋𐎚 	 mlakt		"message, mission, missive, e ACKERmbassy" ?ĕkt, CDG	303. Cf Cunchillos RSF 10 1982 153fï).  a'kurata
-𐎎𐎍𐎀𐎚 	 mlat		"fullness"
-𐎎𐎍𐎛𐎚 	 mlit		"fullness, plenty"
-𐎎𐎍𐎁𐎒̌ 	 mlbš		"cloak, luxurious cape"
+𐎎𐎋𐎅𐎏		mkhd		"one who hides or denies"
+𐎎𐎋		/m-k-/	v. G		"to fall, flag" 
+𐎎𐎋𐎋𐎎		mkkm		"?"
+𐎎𐎋𐎐𐎔𐎚		mknpt		"span"
+𐎎𐎋𐎐𐎚		mknt		"family seat" DOSA 244
+𐎎𐎋𐎗		/m-k-r/	v. N		"to be sold"
+𐎎𐎋𐎗		mkr		"merchant, commercial agent, runner"
+𐎎𐎋𐎒		mks		"blanket"msr		"semolina, forage or partially ground wheat"
+𐎎𐎋𐎚		mkt		"immolation, offerings?)  
+𐎎𐎋𐎚𐎗		mktr		"expert"
+𐎎𐎍		ml		"?" ? 
+𐎎1?		/m-1-?/	v. G		"to be full", "to be filled"
+𐎎𐎍𐎜		mlu		"fill, foil measure"
+𐎎𐎍𐎀𐎋		mlak		"messenger"
+𐎎𐎍𐎀𐎋𐎚		mlakt		"message, mission, missive, e ACKERmbassy" ?ĕkt, CDG	303. Cf Cunchillos RSF 10 1982 153fï).  a'kurata
+𐎎𐎍𐎀𐎚		mlat		"fullness"
+𐎎𐎍𐎛𐎚		mlit		"fullness, plenty"
+𐎎𐎍𐎁𐎒̌		mlbš		"cloak, luxurious cape"
 ml t of an	Eg. celebration/feast or ceremony" <	Eg.
-𐎎𐎗𐎅𐎚 	 mrht		"Salböl", WäS 2 111). 
-𐎎𐎍𐎅 	 mlh		"beauty" aloved  votzena'hobet o'habet
-𐎎𐎍𐎅𐎎𐎚 	 mlhmt		"war"	Hb. mlbmh, HALOT 589
-𐎎𐎍𐎅𐎎𐎊 	 mlhmy		"?		".
-𐎎𐎍𐎅𐎚 	 mlht	1)		"salt" ECHAT,erst
-𐎎𐎍𐎅𐎒̌ 	 mlhš		"conjuror, exorcist"
-𐎎𐎍𐎋 	 /m-l-k/	v. G		"to reign, rule"
-𐎎𐎍𐎋 	 mlk	1)		"king, sovereign"
-𐎎𐎍𐎋 	 mlk		"kingdom" adrett
-𐎎𐎍𐎋𐎎 	 mlkm	n.	pi. tantum		"dead kings"
-𐎎𐎍𐎋𐎚 	 mlkt		"queen"	Hb. mlkh, HALOT 592
-𐎎𐎍1 	 /m-l-1/	v. G		"to caress, pinch, rub"
-𐎎𐎛𐎍 	 mil		"waste, scraps"
-𐎎𐎍𐎒𐎎 	 mlsm		"race"
-𐎎𐎍𐎊 	 mly		"?" ACKER
-𐎎𐎎 	 mm		"winter" a'kurata
-𐎎𐎎𐎓 	 mmî		"innards, gore"
-𐎎𐎎𐎒𐎋𐎐 	 mmskn		"earthenware bowl"
-𐎎𐎎𐎚𐎗 	 mmtr		"portico, porch"  mtr, cf Arab, mimtar, Lane 2722). 
-𐎎𐎐 	 mn	1)	interr.	pn.		"what?"
-𐎎𐎐 	 mn		"species" aloved a'hobet o'habet
-𐎎𐎐 	 mn		"mina" WäS 2 58
-𐎎𐎐𐎜 	 mnu		"?"
-𐎎𐎐𐎏𐎓 	 mndî	adv.		"perhaps"  + /y-d-î/ ECHAT,erst
-𐎎𐎐𐎏𐎊𐎎 	 mndym	GN	pi.		"the  Manda"
-𐎎𐎐𐎅 	 /m-n-h/	v. G		"to deliver"
-𐎎𐎐𐎅 	 mnh		"delivery, contribution, tribute"
-𐎎𐎐𐎅𐎊 	 mnhy		"offering"
-𐎎𐎐𐎅 	 mnh		"calm"
-𐎎𐎐𐎋 	 mnk	indef.	pn.		"whoever, anyone",	neg.,		"no-one"
-𐎎𐎐𐎎 	 mnm	indef.	pn.		"any all"
-𐎎𐎐𐎎𐎐 	 mnmn	indef.	p.	pn.		"anyone, someone", element ofthe DN mrmnmn
-𐎎𐎐𐎖𐎚 	 mnqt		"acquittal, exoneration'^?) 
-𐎎𐎐𐎗𐎚 	 mnrt		"candelabrum"
+𐎎𐎗𐎅𐎚		mrht		"Salböl", WäS 2 111). 
+𐎎𐎍𐎅		mlh		"beauty" aloved  a'hobet o'habet
+𐎎𐎍𐎅𐎎𐎚		mlhmt		"war"	Hb. mlbmh, HALOT 589
+𐎎𐎍𐎅𐎎𐎊		mlhmy		"?		".
+𐎎𐎍𐎅𐎚		mlht	1)		"salt" 
+𐎎𐎍𐎅𐎒̌		mlhš		"conjuror, exorcist"
+𐎎𐎍𐎋		/m-l-k/	v. G		"to reign, rule"
+𐎎𐎍𐎋		mlk	1)		"king, sovereign"
+𐎎𐎍𐎋		mlk		"kingdom" 
+𐎎𐎍𐎋𐎎		mlkm	n.	pi. tantum		"dead kings"
+𐎎𐎍𐎋𐎚		mlkt		"queen"	Hb. mlkh, HALOT 592
+𐎎𐎍1		/m-l-1/	v. G		"to caress, pinch, rub"
+𐎎𐎛𐎍		mil		"waste, scraps"
+𐎎𐎍𐎒𐎎		mlsm		"race"
+𐎎𐎍𐎊		mly		"?" ACKER
+𐎎𐎎		mm		"winter" a'kurata
+𐎎𐎎𐎓		mmî		"innards, gore"
+𐎎𐎎𐎒𐎋𐎐		mmskn		"earthenware bowl"
+𐎎𐎎𐎚𐎗		mmtr		"portico, porch"  mtr, cf Arab, mimtar, Lane 2722). 
+𐎎𐎐		mn	1)	interr.	pn.		"what?"
+𐎎𐎐		mn		"species" 
+𐎎𐎐		mn		"mina" WäS 2 58
+𐎎𐎐𐎜		mnu		"?"
+𐎎𐎐𐎏𐎓		mndî	adv.		"perhaps"  + /y-d-î/ 
+𐎎𐎐𐎏𐎊𐎎		mndym	GN	pi.		"the  Manda"
+𐎎𐎐𐎅		/m-n-h/	v. G		"to deliver"
+𐎎𐎐𐎅		mnh		"delivery, contribution, tribute"
+𐎎𐎐𐎅𐎊		mnhy		"offering"
+𐎎𐎐𐎅		mnh		"calm"
+𐎎𐎐𐎋		mnk	indef.	pn.		"whoever, anyone",	neg.,		"no-one"
+𐎎𐎐𐎎		mnm	indef.	pn.		"any all"
+𐎎𐎐𐎎𐎐		mnmn	indef.	p.	pn.		"anyone, someone", element ofthe DN mrmnmn
+𐎎𐎐𐎖𐎚		mnqt		"acquittal, exoneration'^?) 
+𐎎𐎐𐎗𐎚		mnrt		"candelabrum"
 mnt   ita)		"portion, ration"
-𐎎𐎐𐎚 	 mnt		"distribution, enumeration, list"
+𐎎𐎐𐎚		mnt		"distribution, enumeration, list"
 mnt" spell, incantation" l, 3
-𐎎𐎐𐎚 	 mnt		"destiny, fate"    /m-n-y/
-𐎎𐎐𐎊 	 /m-n-y/	v. G/D		"to award, to decide fate"
-𐎎𐎔𐎅 	 mph		"bellows of the forge", "forge" u, AHw 672
-𐎎𐎔𐎅𐎗𐎚 	 mphrt		"assembly, gathering"
-𐎎𐎔𐎚𐎅 	 mpth		"key"
-𐎎𐎖𐎁𐎔 	 mqb/p	1)		"punch, hammer'
-𐎎𐎖𐎏 	 mqd		"scorched, singed" q-d/
-𐎎𐎖𐎏 	 mqd		"grazing tax"
-𐎎𐎖𐎏𐎒̌𐎚 	 mqdšt		"service of the sanctuary"
-𐎎𐎖𐎅 	 mqh		"tong"
-𐎎𐎖𐎎 	 mqm		"place, ground" m, HALOT 626f
-𐎎𐎁𐎖𐎗 	 m/bqr		"spring, well"
-𐎎𐎗 	 mr		"myrrh" r, DJPA 296
-𐎎𐎗 	 mr		"bitter"
-𐎎𐎗 	 mr		"sorrow, bitterness, pain"  mr  ,	Hb. mr,
-𐎎𐎗 	 mr		"valiant, hero"  /  
-𐎎𐎗 	 mr		"son"
-𐎎𐎗 	 mr		"young of an animal, cub"
-𐎎𐎗? 	 /m-r-?/	v. G		"to fatten"
-𐎎𐎗𐎜 	 mru	adj./1)		"fattened"
-𐎎𐎗𐎜 	 mru		"animal fattener"
-𐎎_𐎗𐎁𐎓𐎚 	 m_rbît	1)		"the fourth		"		"the one taken in fourth place", "the one done four times" < /r-b-î/. 
-𐎎𐎗𐎁𐎏 	 mrbd		"bedspread, counterpane"
-𐎎𐎗𐎏 	 mrd		"?"
-𐎎𐎗𐎙̇𐎚 	 mrġt		"corruption"    /r-ġ/, 
-𐎎𐎗𐎚 	 mrt		"suckling", said of lambs 
-𐎎𐎗𐎅 	 mrh		"lance, spear"
-𐎎𐎗𐎅𐎖𐎚 	 mrhqt		"distance, far away"
-𐎎𐎗𐎅𐎚 	 mrht		"?", in bkn	ctx. ]dy wmrht,	1.172
-𐎎𐎗𐎋𐎁𐎚 	 mrkbt	1)" chariot"
-𐎎𐎗𐎎 	 mrm	1)		"height"
-𐎎𐎗𐎖𐎏 	 mrqd	n.	m., instrument for accompanying the dance,		"castanet"   dancers', rdg mrqdm dsn, 
-𐎎𐎗𐎖𐎒𐎚 	 mrqst		"dance-drum"
-𐎎𐎗 	 /m-r/	v. G		"to strengthen"
-𐎎𐎗𐎗𐎚 	 mrrt		"bile"
-𐎎𐎗𐎗𐎚 	 mrrt		"myrrh"
-𐎎𐎗𐎒 	 /m-r-s/	v. G		"to fall ill"
-𐎎𐎗𐎒 	 mrs		"illness"
-𐎎𐎗 	 mr		"must"
-𐎎𐎗𐎚 	 mrt		"estate" HALOT 56
-𐎗𐎎 	 rm		"height"
-𐎎𐎗𐎊𐎚 	 mryt	GN	f.		"Mariote"
-𐎎𐎒𐎏𐎚 	 msdt		"foundation"
-𐎎𐎒𐎙 	 msg	1)		"skin"
-𐎎𐎒𐎙𐎗 	 msgr		"closed building"
-𐎎𐎒𐎋 	 /m-s-k/	v. G		"to mix, combine"
-𐎎𐎒𐎋 	 msk		"mixture, mixed wine, mixed drink"
-𐎎𐎒𐎋𐎚 	 mskt		"mixture, emulsion"
-𐎎𐎒𐎍𐎎𐎚 	 mslmt		"ascent, slope"
-𐎎𐎒𐎔𐎗 	 mspr		"recitation, story, tale"
-𐎎𐎒𐎗𐎗 	 msrr		"entrails, viscera"   // îsr, already Ginsberg and Aistleitner previously
-𐎎𐎒𐎒 	 /m-s-s/	v. G		"to liquefy, dissolve"
-𐎎𐎒𐎒 	 mss		"sap, juice" votzen
-𐎎𐎒𐎆𐎐 	 mswn		"delegate"
-𐎎𐎒𐎁 	 msb		"beam"
-𐎎𐎒𐎁 	 msb		"place in which something is put, wine cellar, tavern"   '
-𐎎𐎒𐎏 	 msd		"feast of game" d, DOSA	421. 
-𐎎𐎒𐎅 	 /m-s-h/	v. G		"to pull"ml	"cymbal player, cymbalist"
-𐎎𐎒𐎍𐎚 	 mslt		"cymbal, cymbals"
-𐎎𐎒𐎍𐎚 	 mslt		"clang" adrett
-𐎎𐎒𐎎𐎚 	 msmt		"treaty, agreement"
-𐎎𐎒𐎔𐎗𐎚 	 msprt		"she who rearranges, repairs or takes care"    ARTU 122, CARTU 165
-𐎎𐎒𐎔𐎚 	 mspt		"crow's nest"
-𐎎𐎒𐎖𐎚 	 msqt		"difficult situation, trouble"
-𐎎𐎒𐎗 	 msr		"sob"
-𐎎𐎒𐎗𐎎 	 msrm	TN		"Egypt" 
-𐎎𐎒𐎗𐎔 	 msrp		"crucible" a'kurata
-𐎎𐎒𐎗𐎚 	 msrt	adj.	f.		"Egyptian" Belmonte RGTC 12/2 193). 
-𐎎𐎒𐎗𐎊 	 msry	 	GN	m.		"Egyptian"
-𐎎𐎒𐎒 	 mss		"one who sucks, is suckled" /
-𐎎𐎒𐎚 	 mst		"?"  ARTU II 28 votzen
-𐎎𐎒̌𐎁𐎓𐎚 	 mšbît		"the seventh" aloved a'hobet o'habet
-𐎎𐎒̌𐎅 	 /m-š-h/	v. G		"to anoint, oil"
-𐎎𐎒̌𐎅𐎚 	 mšht		"anointing"   /m-š-h/
-𐎎𐎒̌𐎋𐎁 	 mškb	n.	m./f.		"place of rest, bed"	LÚ.MEŠ   i-na ma-áŠ-ka-ba-tí-šu-nu, ARM 3 16 ECHAT,erst
-𐎎𐎒̌𐎋𐎋 	 mškk		"?"
-𐎎𐎒̌𐎋𐎐𐎚 	 mšknt		"residence, mansion" HALOT 646f
-𐎎𐎒̌𐎋𐎗𐎚 	 mškrt		"skin" adrett
-𐎎𐎒̌𐎍𐎅 	 mšlh		"battering ram"  h, mšìht). 
-𐎎𐎒̌𐎍𐎎 	 mšlm		"pay"
+𐎎𐎐𐎚		mnt		"destiny, fate"    /m-n-y/
+𐎎𐎐𐎊		/m-n-y/	v. G/D		"to award, to decide fate"
+𐎎𐎔𐎅		mph		"bellows of the forge", "forge" u, AHw 672
+𐎎𐎔𐎅𐎗𐎚		mphrt		"assembly, gathering"
+𐎎𐎔𐎚𐎅		mpth		"key"
+𐎎𐎖𐎁𐎔		mqb/p	1)		"punch, hammer'
+𐎎𐎖𐎏		mqd		"scorched, singed" q-d/
+𐎎𐎖𐎏		mqd		"grazing tax"
+𐎎𐎖𐎏𐎒̌𐎚		mqdšt		"service of the sanctuary"
+𐎎𐎖𐎅		mqh		"tong"
+𐎎𐎖𐎎		mqm		"place, ground" m, HALOT 626f
+𐎎𐎁𐎖𐎗		m/bqr		"spring, well"
+𐎎𐎗		mr		"myrrh" r, DJPA 296
+𐎎𐎗		mr		"bitter"
+𐎎𐎗		mr		"sorrow, bitterness, pain"  mr  ,	Hb. mr,
+𐎎𐎗		mr		"valiant, hero"  /  
+𐎎𐎗		mr		"son"
+𐎎𐎗		mr		"young of an animal, cub"
+𐎎𐎗?		/m-r-?/	v. G		"to fatten"
+𐎎𐎗𐎜		mru	adj./1)		"fattened"
+𐎎𐎗𐎜		mru		"animal fattener"
+𐎎_𐎗𐎁𐎓𐎚		m_rbît	1)		"the fourth		"		"the one taken in fourth place", "the one done four times" < /r-b-î/. 
+𐎎𐎗𐎁𐎏		mrbd		"bedspread, counterpane"
+𐎎𐎗𐎏		mrd		"?"
+𐎎𐎗𐎙̇𐎚		mrġt		"corruption"    /r-ġ/, 
+𐎎𐎗𐎚		mrt		"suckling", said of lambs 
+𐎎𐎗𐎅		mrh		"lance, spear"
+𐎎𐎗𐎅𐎖𐎚		mrhqt		"distance, far away"
+𐎎𐎗𐎅𐎚		mrht		"?", in bkn	ctx. ]dy wmrht,	1.172
+𐎎𐎗𐎋𐎁𐎚		mrkbt	1)" chariot"
+𐎎𐎗𐎎		mrm	1)		"height"
+𐎎𐎗𐎖𐎏		mrqd	n.	m., instrument for accompanying the dance,		"castanet"   dancers', rdg mrqdm dsn, 
+𐎎𐎗𐎖𐎒𐎚		mrqst		"dance-drum"
+𐎎𐎗		/m-r/	v. G		"to strengthen"
+𐎎𐎗𐎗𐎚		mrrt		"bile"
+𐎎𐎗𐎗𐎚		mrrt		"myrrh"
+𐎎𐎗𐎒		/m-r-s/	v. G		"to fall ill"
+𐎎𐎗𐎒		mrs		"illness"
+𐎎𐎗		mr		"must"
+𐎎𐎗𐎚		mrt		"estate" HALOT 56
+𐎗𐎎		rm		"height"
+𐎎𐎗𐎊𐎚		mryt	GN	f.		"Mariote"!
+𐎎𐎒𐎏𐎚		msdt		"foundation"
+𐎎𐎒𐎙		msg	1)		"skin" <<<
+𐎎𐎒𐎙𐎗		msgr		"closed building"
+𐎎𐎒𐎋		/m-s-k/	v. G		"to MIX, combine"
+𐎎𐎒𐎋		msk		"MIXture, mixed wine, mixed drink"
+𐎎𐎒𐎋𐎚		mskt		"MIXTURE, emulsion"
+𐎎𐎒𐎍𐎎𐎚		mslmt		"ascent, slope"
+𐎎𐎒𐎔𐎗		mspr		"recitation, story, tale"
+𐎎𐎒𐎗𐎗		msrr		"entrails, viscera"   // îsr, already Ginsberg and Aistleitner previously
+𐎎𐎒𐎒		/m-s-s/	v. G		"to liquefy, dissolve"
+𐎎𐎒𐎒		mss		"sap, juice" MOST
+𐎎𐎒𐎆𐎐		mswn		"delegate"
+𐎎𐎒𐎁		msb		"beam"
+𐎎𐎒𐎁		msb		"place in which something is put, wine cellar, tavern"   '
+𐎎𐎒𐎏		msd		"feast of game" d, DOSA	421. 
+𐎎𐎒𐎅		/m-s-h/	v. G		"to pull"ml	"cymbal player, cymbalist"
+𐎎𐎒𐎍𐎚		mslt		"cymbal, cymbals"
+𐎎𐎒𐎍𐎚		mslt		"clang" 
+𐎎𐎒𐎎𐎚		msmt		"treaty, agreement"
+𐎎𐎒𐎔𐎗𐎚		msprt		"she who rearranges, repairs or takes care"    ARTU 122, CARTU 165
+𐎎𐎒𐎔𐎚		mspt		"crow's nest"
+𐎎𐎒𐎖𐎚		msqt		"difficult situation, trouble" MIST:
+𐎎𐎒𐎗		msr		"sob" MISER
+𐎎𐎒𐎗𐎎		msrm	TN		"Egypt" RAM@Mizraim 𓄅𓄆𓃝𓁠𓁡𓋉 khem/Khnum
+𐎎𐎒𐎗𐎔		msrp		"crucible" a'kurata
+𐎎𐎒𐎗𐎚		msrt	adj.	f.		"Egyptian" Belmonte RGTC 12/2 193). 
+𐎎𐎒𐎗𐎊		msry			GN	m.		"Egyptian"
+𐎎𐎒𐎒		mss		"one who sucks, is suckled" /
+𐎎𐎒𐎚		mst		"?"  ARTU II 28 
+𐎎𐎒̌𐎁𐎓𐎚		mšbît		"the seventh" 
+𐎎𐎒̌𐎅		/m-š-h/	v. G		"to anoint, oil" MOSE<>christ[al]
+𐎎𐎒̌𐎅𐎚		mšht		"anointing"   /m-š-h/
+𐎎𐎒̌𐎋𐎁		mškb	n.	m./f.		"place of rest, bed"	LÚ.MEŠ   i-na ma-áŠ-ka-ba-tí-šu-nu, ARM 3 16 
+𐎎𐎒̌𐎋𐎋		mškk		"?"
+𐎎𐎒̌𐎋𐎐𐎚		mšknt		"residence, mansion" HALOT 646f
+𐎎𐎒̌𐎋𐎗𐎚		mškrt		"skin" 
+𐎎𐎒̌𐎍𐎅		mšlh		"battering RAM"  h, mšìht). 
+𐎎𐎒̌𐎍𐎎		mšlm		"pay" ramson/salam/MUSLIM=ehre?
 mšlt   a tool"
 mšmît" guard"
-𐎎𐎒̌𐎎𐎒̌ 	 mšmš	n.m.		"marsh"  /, Arab, mušaš/at, Kazimirski
-𐎎𐎒̌𐎎𐎚𐎗 	 mšmtr		"rainmaker", possibly a divine epithet ACKER 
-𐎎𐎒̌𐎐𐎖𐎚 	 mšnqt		"wet nurse", "she who breast-feeds" a'kurata
-𐎎𐎒̌𐎔𐎊 	 mšpy		"?"
-𐎎𐎒̌𐎖 	 mšq		"cup"
-𐎎𐎒̌𐎗 	 /m-Š-r/	v. Š		"to set a vehicle in motion, to drive it"
-𐎎𐎒̌𐎗 	 mšr	1)		"justice, justification"
-𐎎𐎒̌𐎗𐎗 	 mšrr		"pointer pivot" aloved a'hobet o'habet
-𐎎𐎒̌𐎒𐎔𐎏𐎚 	 mšspdt		"wailing woman, hired mourner"
-𐎎𐎒̌𐎒𐎜 	 mšsu		"one releases, sets free"
-𐎎𐎒̌𐎒𐎒 	 mšss		"one who drives out, scares off'  ECHAT,erst
-𐎎𐎒̌𐎚 	 mšt		"?" \ mšsr, De Moor - Spronk CARTU 153
-𐎎𐎒̌𐎚𐎓𐎍𐎚 	 mštîlt		"elevated, consecrated woman", possibly a cultic title  
-mštt" drink, libation"
-𐎎𐎚 	 mt	1)		"dead person, deceased"
-𐎎𐎚 	 mt	1)		"death"
-𐎎𐎚 	 mt	1)		"man
-𐎎𐎚 	 mt	adv.		"certainly*' 
-𐎎𐎚? 	 /m-t-?/	v. G		"to remove, shed", said of clothing  
-𐎎𐎚𐎋 	 mtk		"libation"
-𐎎𐎚𐎐 	 /m-t-n/	v. G,		"to wait"
-𐎎𐎚𐎐 	 mtn		"tendon, loin"
-𐎎𐎚𐎐𐎚 	 mtnt		"loin", in cultic terminology	Syr. matnotō, LS	410. 
-𐎎𐎚𐎖 	 mtq		"sweet"
-𐎎𐎚𐎖𐎚 	 mtqt		"cake"
-𐎎𐎚𐎗 	 mtr	adv.		"besides, in addition" atru CAD M/l 414). 
-𐎎𐎚𐎗𐎅𐎚 	 mtrht		"consort, wife"
-𐎎𐎚𐎗𐎐 	 mtrn		"surplus, remainders)", "reserve"
-𐎎𐎚𐎗𐎚 	 mtrt		"chariot with reinforced wheels"
-𐎎𐎚 	 /m-t/	v. G		"to stagger, shake"
-𐎎𐎚 	 mt		"rod, staffs riding crop"
-𐎎𐎚𐎓𐎚 	 mtît		"plantation"
-𐎎𐎚𐎅 	 mth		"present, gift, offering" -[A]ü -i/in	lex.ì. Ug 5 137 III 1 
-𐎎𐎚𐎅𐎗 	 mthr		"wound"
-𐎎𐎚𐎗 	 /m-t-r/	v. G		"to rain"
-𐎎𐎚𐎗 	 mtr		"rain"
-𐎎𐎚𐎗𐎚 	 mtrt		"rain"
-𐎎𐎚𐎚 	 mtt		"bed"
-𐎎𐎚 	 mt		"infant, baby boy"
-𐎎𐎚𐎁 	 mtb	1)		"residence, mansion"
-𐎎𐎍𐎏𐎍𐎚 	 mldlt		"the sixth"
-𐎎𐎛́𐎋𐎚 	 míkt		"she who carries, takes"
-𐎎𐎚𐎍𐎚𐎚 	 mtltt		"the third"
-𐎎𐎚𐎐 	 mtn		"repetition" >	adv.		"furthermore, the same"   l\, CAD Š/l	387f. 
-𐎎𐎚𐎔𐎏𐎚 	 mtpdt		"layer, stratum"
-𐎎𐎚𐎔𐎚𐎕 	 mtpt/z	1)		"command, jurisdiction"
-𐎎𐎚𐎚 	 mtt		"damsel, young lady", royal title in epic 
-𐎎𐎚𐎚 	 mtt		"oar"
-𐎎𐎚𐎊𐎐 	 mtyn	n.	m., a garment" <	Hitt. maššiya, HEG 159f
-𐎎𐎊 	 my	pn.	interr.	1)		"who?"
-/ m - z -î/	v. G		"to tear, be torn" aîa, Kazimirski 1099
-𐎎𐎕𐎁 	 /m-z-V	v. G/D		"to avoid grope one's way"	denom. *mzJ		"fortune"
-𐎎𐎕𐎐 	 mzn	1)		"weight*'
-𐎎𐎕? 	 /m-z-?/	v. G		"to meet, run into"
-𐎎𐎕𐎍𐎍 	 mzll		"shelter"
-𐎎𐎕𐎎𐎜 	 mzmu		"thirsty"
-𐎎𐎕𐎗 	 mzr		"rain"
+𐎎𐎒̌𐎎𐎒̌		mšmš	n.m.		"MARSH"  /, Arab, mušaš/at, Kazimirski
+𐎎𐎒̌𐎎𐎚𐎗		mšmtr		"rainmaker", possibly a divine epithet ACKER 
+𐎎𐎒̌𐎐𐎖𐎚		mšnqt		~"wet nurse", "she who breast-feeds" a'kurata
+𐎎𐎒̌𐎔𐎊		mšpy		"?"
+𐎎𐎒̌𐎖		mšq		mess"CUP"
+𐎎𐎒̌𐎗		/m-Š-r/	v. Š		"to set a vehicle in motion, to drive it"
+𐎎𐎒̌𐎗		mšr	1)		"justice, justification"
+𐎎𐎒̌𐎗𐎗		mšrr		"pointer pivot" 
+𐎎𐎒̌𐎒𐎔𐎏𐎚		mšspdt		"wailing woman, hired mourner"
+𐎎𐎒̌𐎒𐎜		mšsu		"one releases, sets free"
+𐎎𐎒̌𐎒𐎒		mšss		"one who drives out, scares off'  
+𐎎𐎒̌𐎚		mšt		"?" \ mšsr, De Moor-Spronk CARTU 153
+𐎎𐎒̌𐎚𐎓𐎍𐎚		mštîlt		"elevated, consecrated woman", possibly a cultic title   <<<
+𐎎𐎒̌𐎚𐎚 	"mštt" drink, libation" MAST
+𐎎𐎚		mt	1)		"death" MORD
+𐎎𐎚		mt	1)		"MAN" MVIRTUO +++ <<< QED
+𐎎𐎚		mt	1)		"dead person, deceased"
+𐎎𐎚		mt	adv.		"certainly*' MUST
+𐎎𐎚?		/m-t-?/	v. G		"to reMOVE, shed", said of clothing  MOTION
+𐎎𐎚𐎋		mtk		"libation" મદ્ય (madya) मदिरा (hi) (madirā) ! µTrank matrikel? <<<++
+𐎎𐎚𐎐		/m-t-n/	v. G,		"to wait" mWARTEN
+𐎎𐎚𐎐		mtn		"tendon, loin" 𐎚𐎐TEN/DON
+𐎎𐎚𐎐𐎚		mtnt		"loin", in cultic terminology	Syr. matnotō, LS	410. 
+𐎎𐎚𐎖		mtq		"sweet" µ-doce < dolce ++
+𐎎𐎚𐎖𐎚		mtqt		"cake"
+𐎎𐎚𐎗		mtr	adv.		"besides, in addition" atru CAD M/l 414).   √much>MAS
+𐎎𐎚𐎗𐎐		mtrn		"surplus, remainders", "reserve" √much
+𐎎𐎚𐎗𐎚		mtrt		"chariot with reinforced wheels" MatRad/MareTchariot <<<< 
+𐎎𐎚𐎗𐎅𐎚		mtrht		"consort, wife" Matrice@Matraze
+𐎎𐎚		/m-t/	v. G		"to stagger, shake" µRock
+𐎎𐎚		mt		"rod, staffs riding crop" µROD
+𐎎𐎚𐎓𐎚		mtît		"plantation" <<<
+𐎎𐎚𐎅		mth		"present, gift, offering" -[A]ü -i/in	lex.ì. Ug 5 137 III 1  <> MESUT:birth
+𐎎𐎚𐎅𐎗		mthr		"wound"
+𐎎𐎚𐎗		mtr		"rain" METERO… +++
+𐎎𐎚𐎗		/m-t-r/	v. G		"to rain" rumter
+𐎎𐎚𐎗𐎚		mtrt		"rain" METERO… 
+𐎎𐎚𐎚		mtt		"bed" MAT/µBETT
+𐎎𐎚		mt		"infant, baby boy"
+𐎎𐎚𐎁		mtb	1)		"residence, mansion"
+𐎎𐎍𐎏𐎍𐎚		mldlt		"the sixth"
+𐎎𐎛́𐎋𐎚		míkt		"she who carries, takes"
+𐎎𐎚𐎍𐎚𐎚		mtltt		"the third"
+𐎎𐎚𐎐		mtn		"repetition" >	adv.		"furthermore, the same"   l\, CAD Š/l	387f. 
+𐎎𐎚𐎔𐎏𐎚		mtpdt		"layer, stratum"
+𐎎𐎚𐎔𐎚𐎕		mtpt/z	1)		"command, jurisdiction"
+𐎎𐎚𐎚		mtt		"MADAM>damsel, young lady", royal title in epic 
+𐎎𐎚𐎚		mtt		"oar" 𓐑𓏏𓏤!! mRudder/mBat
+𐎎𐎚𐎊𐎐		mtyn	n.	m., a garMENT" <	Hitt. maššiya, HEG 159f gaMASCHEN
+𐎎𐎊		my	pn.	interr.	1)		"who?" mwho? ma? 𓅓𓂝 100% SEMITIC/EURASIAN! 𓈖𓅓𓂝~누구, 누가 	nugu
+𐎎𐎕𐎓		/m-z-î/	v. G		"to tear, be torn" aîa, Kazimirski 1099 (s)mash
+𐎎𐎕𐎁		/m-z-V	v. G/D		"to avoid grope one's way"	denom. *mzJ		
+𐎎𐎕𐎁		/m-z-V	"fortune" MASSEL@HEB ++ vs Schlamassel
+𐎎𐎕𐎐		mzn	1)		"weight*'
+𐎎𐎕?		/m-z-?/	v. G		"to MEET, run into"
+𐎎𐎕𐎍𐎍		mzll		"SHELter" 1.Zelle/Mosel?<<<
+𐎎𐎕𐎎𐎜		mzmu		"thirsty" mwässer...μένος/manq?
+𐎎𐎕𐎗		mzr		"rain" mwässer/mizrain?<<
 -n   suffixed pronominal morpheme used with verbs,		"me, to me		"" him, her, it"
-𐎐𐎀𐎏 	 nad		"bag, little bag"
-𐎐?𐎒 	 /n-?-s/	[verb] G		"to despise, insult"
-𐎐𐎀𐎚 	 nat		"lament", a type of sacrifice 
-𐎐𐎛𐎚 	 nit		"axe"
-𐎔𐎀𐎍𐎀𐎐𐎖𐎜𐎛𐎐" 	 palanquin"
-𐎐𐎓𐎎𐎚 	 nîmt	adj.	f.		"graceful"
-𐎐𐎁𐎎𐎊 	 nVmy		"delight, goodness, beauty" Lane 3035
-𐎐𐎁𐎗 	 /n-V-r/	[verb] G	1)		"to shake"
-𐎐𐎓𐎗 	 nîr	1)		"boy"
-𐎐𐎓𐎗𐎁 	 nîrb		"guarantee"
-𐎐𐎓𐎗𐎚 	 nîrt		"maidservant"	Hb. nîrb, HALOT 707f)
-𐎐𐎁𐎔𐎋 	 nb/pk		"fountain, spring"
-𐎐𐎁𐎍 	 nbl		"?"
-𐎐𐎁𐎍𐎜 	 nblu		"flame"
-𐎐𐎁𐎒̌𐎚 	 nbšt		"living being animal", probably a	coll. 
-𐎐𐎁𐎚 	 nbt		"casting, moulding" /
-𐎐𐎁𐎚 	 /n-b-t/	[verb] G		"to appear, arise, be obvious"
-𐎐𐎏7 	 /n-d-7/	[verb] G		"to frighten away, scare off, eject"
-𐎐𐎏𐎏 	 /n-d-d/	[verb] G	1)		"to go, move"
-/ n - d - p/	[verb]	Špass.		"to be thrown"
-𐎐𐎏𐎗 	 /n-d-r/	[verb] G		"to make a vow, promise"
-𐎐𐎏𐎗 	 ndr		"vow"
-𐎐𐎏 	 /n-d/	[verb] G	1)		"to throw, emit"
-𐎐𐎙𐎁 	 ngb		"victualling"
-𐎐𐎙𐎅 	 /n-g-h/	[verb] N		"to butt each other"
-𐎐𐎙𐎗 	 ngr		"herald"
-𐎐𐎙𐎗 	 ngr	"erald"
-𐎐𐎙𐎒̌ 	 /n-g-š/	[verb] G		"to pursue, enclose" /
-𐎐𐎙1 	 /n-g-1/	[verb] G		"to make one's way to
-𐎐𐎙 	 ng/	[verb] G		"to go away, depart"
-/n- -r/	[verb] G	1)		"to pay attention
-𐎐𐎗 	 nr		"guard, guardian"
-𐎐𐎙̇𐎒 	 /n-ġ-s/	[verb] G		"to contract, shake"
-𐎐𐎅𐎎𐎎𐎚 	 nhmmt		"drowsiness, fainting fit"
-𐎐𐎅𐎖𐎚 	 nhqt		"braying"
-𐎐𐎅𐎗 	 nhr	1)		"river
-𐎐𐎅 	 nh/	[verb] G		"to moan, groan"
-𐎐𐎅𐎍 	 nhl		"heir" VE 800
-𐎐𐎅𐎍𐎚 	 nhlt		"property", "inheritance"
-𐎐𐎅𐎒̌ 	 nhš		"serpent, snake" votzen
-𐎐𐎅𐎚 	 /n-h-t/	[verb] D	1)		"to take down" >		"to reach for"
-𐎐𐎅 	 /n-h/	[verb] G	1)		"to proceed" votzen
-𐎐𐎅 	 /n-h/	[verb] G		"to rest"
-𐎐𐎅𐎍 	 nhl		"torrent"
-𐎐𐎅𐎐𐎔𐎚 	 nhnpt		"?"
-𐎐𐎅𐎚 	 nht		"divan"
-𐎐𐎋𐎗 	 /n-k-r/	[verb] G		"to be strange, become a foreigner, to fall into foreign hands" adrett
-𐎐𐎋𐎗 	 nkr		"foreigner / stranger"ns		"accounting, account"
-𐎐𐎋𐎚 	 /n-k-t/	[verb] G		"to immo votzenlate" adrett
-𐎐𐎋𐎚 	 nkt		"immolation", "victim"
-𐎐𐎋𐎚 	 /n-k-t/		"?"
-𐎐𐎋𐎊𐎚 	 nkyt		"beaten, distressed"
-𐎐𐎎𐎗𐎚 	 nmrt		"splendour" ACKER
+𐎐𐎀𐎏		nad		"bag, little bag"
+𐎐?𐎒		/n-?-s/	[verb] G		"to despise, insult"
+𐎐𐎀𐎚		nat		"lament", a type of sacrifice 
+𐎐𐎛𐎚		nit		"axe"??
+𐎔𐎀𐎍𐎀𐎐𐎖𐎜𐎛𐎐"		palanquin"
+𐎐𐎓𐎎𐎚		nîmt	adj.	f.		"graceful" mannered?
+𐎐𐎁𐎎𐎊		nVmy		"delight, goodness, beauty" Lane 3035
+𐎐𐎁𐎗		/n-V-r/	[verb] G	1)		"to shake" ~menader
+𐎐𐎓𐎗		nîr	1)		"boy" MANVIR!
+𐎐𐎓𐎗𐎁		nîrb		"guarantee"
+𐎐𐎓𐎗𐎚		nîrt		"maidservant"	Hb. 女nîrb, HALOT 707f)
+𐎐𐎁𐎔𐎋		nbpk		"fountain, spring"
+𐎐𐎁𐎍		nbl		"?"
+𐎐𐎁𐎍𐎜		nblu		1."FLAme"
+𐎐𐎁𐎒̌𐎚		nbšt		1."living being animal", probably a	coll. BEAST
+𐎐𐎁𐎚		nbt		"casting, moulding" /
+𐎐𐎁𐎚		/n-b-t/	[verb] G		"to appear, arise, be obvious"
+𐎐𐎏7		/n-d-7/	[verb] G		"to frighten away, scare off, eject"
+𐎐𐎏𐎏		/n-d-d/	[verb] G	1)		"to go, move"
+𐎐𐎏𐎏	/n-d-p/	[verb]	Špass.		"to be thrown"
+𐎐𐎏𐎗		/n-d-r/	[verb] G		"to make a vow, promise"
+𐎐𐎏𐎗		ndr		"vow" <> 𓊹𓏏𓂋?
+𐎐𐎏		/n-d/	[verb] G	1)		"to throw, emit" <> NOT?
+𐎐𐎙𐎁		ngb		"victualling"
+𐎐𐎙𐎅		/n-g-h/	[verb] N		"to butt each other"
+𐎐𐎙𐎗		ngr		"herald" NEGER?
+𐎐𐎙𐎒̌		/n-g-š/	[verb] G		"to pursue, enclose" 
+𐎐𐎙1		/n-g-1/	[verb] G		"to make one's way to" NEARGO
+𐎐𐎙		ng/	[verb] G		"to go away, depart" n.GO
+??? /n- -r/	[verb] G	1)		"to pay attention
+𐎐𐎗		nr		"guard, guardian" <<<< Månner?
+𐎐𐎙̇𐎒		/n-ġ-s/	[verb] G		"to contract, shake"
+𐎐𐎅𐎎𐎎𐎚		nhmmt		"drowsiness, fainting fit"
+𐎐𐎅𐎖𐎚		nhqt		"braying" נער‎ ANQIRmaq <> anger +++++
+𐎐𐎅𐎗		nhr	1)		"river" MEANDER/NAHR@sem <> anchor^^
+𐎐𐎅		nh/	[verb] G		"to MOAN, groan"
+𐎐𐎅𐎍		nhl		1."HEIR" VE 800
+𐎐𐎅𐎍𐎚		nhlt		"property", "inheritance"
+𐎐𐎅𐎒̌		nhš		"serpent, snake" sNakes@HINDU ++
+𐎐𐎅𐎚		/n-h-t/	[verb] D	1)		"to take down" >		"to reach for"
+𐎐𐎅		/n-h/	[verb] G	1)		"to proceed" NEXT 
+𐎐𐎅		/n-h/	[verb] G		"to rest"@NACHT
+𐎐𐎅𐎍		nhl		"torrent"
+𐎐𐎅𐎐𐎔𐎚		nhnpt		"?"
+𐎐𐎅𐎚		nht		"divan"@Nacht
+𐎐𐎋𐎗		/n-k-r/	[verb] G		"to be strange, become a foreigner, to fall into foreign hands" 
+𐎐𐎋𐎗		nkr		"foreigner / stranger"ns		"accounting, account"
+𐎐𐎋𐎚		/n-k-t/	[verb] G		"to immo votzenlate" 
+𐎐𐎋𐎚		nkt		"immolation", "victim"
+𐎐𐎋𐎚		/n-k-t/		"?"
+𐎐𐎋𐎊𐎚		nkyt		"beaten, distressed"
+𐎐𐎎𐎗𐎚		nmrt		"splendour" ACKER
 nnw TN		"Ninive" a'kurata
-𐎐𐎔 	 /n-p/	[verb] Š		"to raise, offer", in sacrificial language  ACKER
-𐎐𐎔 	 np		"peak" a'kurata adrett
-𐎐𐎔1 	 /n-p-1/	[verb] G		"to fall"
-𐎐𐎔 	 /n-p/	[verb] Gt		"to sprinkle oneself, anoint oneself,"
-𐎐𐎔𐎗 	 /n-p-r/	[verb] G		"to fly, start to aloved fly", "to escape, leave" a'hobet o'habet
-𐎐𐎔𐎗 	 npr		"flyer, bird"
-𐎐𐎔𐎒 	 nps	1)		"personal belongings, equi alovedpment, armament" a'hobet o'habet votzen
-𐎐𐎔𐎒̌ 	 npš	1)		"throat, fauces" ECHAT,erst ACKER
-𐎐𐎔𐎒̌ 	 npš		"red wool" a'kurata
-𐎐𐎔𐎒̌𐎐 	 npšn		"place of 'souls' ECHAT,erst
-𐎔 	 p		"sieve, sifter"
-𐎐𐎔𐎊 	 npy		"purification", >		"expurgation, atonement"
-𐎐𐎔𐎊𐎐 	 npyn		"tunic"
-𐎐𐎖𐎁 	 /n-q-b/	[verb] G		"to pierce" >		"to mark" >		"to  alovedname" a'hobet o'habet adrett
-𐎐𐎖𐎁𐎐 	 nqbn		"caparison", "brocade"
-𐎐𐎖𐎏 	 nqd		"head shepherd, chief shepherd"	NA.GADA, PRU 6 93
-𐎐𐎖𐎅 	 /n-q-h/	[verb] G		"to be prepared, ready" ECHAT,erst
+𐎐𐎔		/n-p/	[verb] Š		"to raise, offer", in sacrificial language  ACKER
+𐎐𐎔		np		"peak" a'kurata 
+𐎐𐎔1		/n-p-1/	[verb] G		"to fall"
+𐎐𐎔		/n-p/	[verb] Gt		"to sprinkle oneself, anoint oneself,"
+𐎐𐎔𐎗		/n-p-r/	[verb] G		"to fly, start to aloved fly", "to escape, leave" a'hobet o'habet
+𐎐𐎔𐎗		npr		"flyer, bird"
+𐎐𐎔𐎒		nps	1)		"personal belongings, equi alovedpment, armament" a'hobet o'habet votzen
+𐎐𐎔𐎒̌		npš	1)		"throat, fauces" ECHAT,erst ACKER,first
+𐎐𐎔𐎒̌		npš		"red wool" a'kurata
+𐎐𐎔𐎒̌𐎐		npšn		"place of 'souls' 
+𐎔		p		"sieve, sifter"
+𐎐𐎔𐎊		npy		"purification", >		"expurgation, atonement"
+𐎐𐎔𐎊𐎐		npyn		"tunic"
+𐎐𐎖𐎁		/n-q-b/	[verb] G		"to pierce" >		"to mark" >		"to  alovedname" a'hobet o'habet 
+𐎐𐎖𐎁𐎐		nqbn		"caparison", "brocade"
+𐎐𐎖𐎏		nqd		"head shepherd, chief shepherd"	NA.GADA, PRU 6 93
+𐎐𐎖𐎅		/n-q-h/	[verb] G		"to be prepared, ready" 
 nqp t		"turn,   cycle"
-𐎐𐎗 	 /n-r/	[verb] G		"to shine"
-𐎐𐎗 	 nr	1)		"sheen, gleam" ACKER
-𐎐𐎗𐎚 	 nrt		"lantern, lamp" a'kurata
-𐎐𐎗𐎚 	 nrt		"ploughed land, tilled field"
-𐎐𐎒 	 /n-s/	[verb] G		"to flee" votzen
-𐎐𐎒𐎚 	 /n-s-T/	[verb] G	1)		"to pull out", 2)		"to uproot"
-𐎐𐎒𐎒́𐎁 	 /n-s/ś-V/	[verb] G		"to pay"
-𐎐𐎒𐎋 	 /n-s-k/	[verb] G		"to pour spill" aloved a'hobet o'habet
-𐎐𐎒𐎋 	 nsk		"caster, forger of metals"
-𐎐𐎒𐎋𐎚 	 nskt	1)		"casting, cast metal or object"
-𐎐𐎒 	 /n-s/	[verb] Gt		"to try" ECHAT,erst
-𐎐𐎒𐎊 	 /n-s-y/	[verb] G		"to hit, lash"  *nsy adrett
-𐎐𐎒 	 ns		"bird, wild bird" <  /n-s-s/
-𐎐𐎒𐎁 	 /n-s-b/	[verb] G	1)		"to erect"
-𐎐𐎒𐎁𐎚 	 nsbt		"firmness, faithfulness"
-𐎐𐎒𐎅 	 /n-s-h/	[verb] G		"to be victorious"  / 'mon éclat'	Hb. nishî, Lam 3
-𐎐𐎒1 	 /n-s-1/	[verb] N		"to retire, cease
-𐎒 	 s		"half" ACKER
-𐎐𐎒𐎗 	 /n-s-r/	[verb] G a'kurata		"to sob"
-𐎓𐎒𐎒 	 /o-s-s/	[verb] G		"to take flight, fly"
-𐎐𐎒̌? 	 /n-š-?/	[verb] G	1)		"to raise, lift, help up"
+𐎐𐎗		/n-r/	[verb] G		"to shine"
+𐎐𐎗		nr	1)		"sheen, gleam" ACKER
+𐎐𐎗𐎚		nrt		"lantern, lamp" a'kurata
+𐎐𐎗𐎚		nrt		"ploughed land, tilled field"
+𐎐𐎒		/n-s/	[verb] G		"to flee" votzen
+𐎐𐎒𐎚		/n-s-T/	[verb] G	1)		"to pull out", 2)		"to uproot"
+𐎐𐎒𐎒́𐎁		/n-s/ś-V/	[verb] G		"to pay"
+𐎐𐎒𐎋		/n-s-k/	[verb] G		"to pour spill" 
+𐎐𐎒𐎋		nsk		"caster, forger of metals"
+𐎐𐎒𐎋𐎚		nskt	1)		"casting, cast metal or object"
+𐎐𐎒		/n-s/	[verb] Gt		"to try" 
+𐎐𐎒𐎊		/n-s-y/	[verb] G		"to hit, lash"  *nsy 
+𐎐𐎒		ns		"bird, wild bird" <  /n-s-s/
+𐎐𐎒𐎁		/n-s-b/	[verb] G	1)		"to erect"
+𐎐𐎒𐎁𐎚		nsbt		"firmness, faithfulness"
+𐎐𐎒𐎅		/n-s-h/	[verb] G		"to be victorious"  / 'mon éclat'	Hb. nishî, Lam 3
+𐎐𐎒1		/n-s-1/	[verb] N		"to retire, cease
+𐎒		s		"half" ACKER
+𐎐𐎒𐎗		/n-s-r/	[verb] G a'kurata		"to sob"
+𐎓𐎒𐎒		/o-s-s/	[verb] G		"to take flight, fly"
+𐎐𐎒̌?		/n-š-?/	[verb] G	1)		"to raise, lift, help up"
 to put on"
-𐎐𐎒̌𐎙 	 nšg		"scabbard, sheath"
-𐎐𐎒̌𐎋 	 nšk		"?",	4.199 aloved a'hobet o'habet
-𐎐𐎒̌𐎍𐎎 	 nšlm		"guarantee, deposit, pledge"
-𐎐𐎒̌𐎎 	 nšm	pi. tantum		"people, men"
-𐎐𐎒̌𐎖 	 /n-š-q/	[verb] G/D		"to kiss" ECHAT,erst
-𐎐𐎒̌𐎗 	 nšr		"bird of prey", conventionally		"eagle" or		"falcon"
-𐎐𐎒̌𐎊 	 /n-š-y/	[verb] N		"to be forgotten"
-𐎐𐎚𐎁 	 ntb		"path" votzen
-𐎐𐎚𐎁𐎚 	 ntbt	1)		"path, way"
-𐎐𐎚𐎋 	 /n-t-k/	[verb] G		"to spill, pour"
-𐎐𐎚𐎐 	 ntn		"emission lament"
-𐎐𐎚𐎗 	 /n-t-r/	[verb] G	1)		"to jump, leap", "to escape, banish"
+𐎐𐎒̌𐎙		nšg		"scabbard, sheath"
+𐎐𐎒̌𐎋		nšk		"?",	4.199 
+𐎐𐎒̌𐎍𐎎		nšlm		"guarantee, deposit, pledge"
+𐎐𐎒̌𐎎		nšm	pi. tantum		"people, men"
+𐎐𐎒̌𐎖		/n-š-q/	[verb] G/D		"to kiss" 
+𐎐𐎒̌𐎗		nšr		"bird of prey", conventionally		"eagle" or		"falcon"
+𐎐𐎒̌𐎊		/n-š-y/	[verb] N		"to be forgotten"
+𐎐𐎚𐎁		ntb		"path" votzen
+𐎐𐎚𐎁𐎚		ntbt	1)		"path, way"
+𐎐𐎚𐎋		/n-t-k/	[verb] G		"to spill, pour"
+𐎐𐎚𐎐		ntn		"emission lament"
+𐎐𐎚𐎗		/n-t-r/	[verb] G	1)		"to jump, leap", "to escape, banish"
 /n-t-m/vb G		"to arrange"
-𐎐𐎚𐎚 	 /n-t-t/	[verb] G		"to jump", "to shake"
-𐎐𐎚𐎋 	 /n-t-k/	[verb] G		"to bite" adrett
-𐎐𐎚𐎋 	 ntk		"biter"
-𐎐𐎚𐎋 	 ntk		"bite"
-𐎐𐎚𐎋 	 ntk		"interest, yield, profit"
+𐎐𐎚𐎚		/n-t-t/	[verb] G		"to jump", "to shake"
+𐎐𐎚𐎋		/n-t-k/	[verb] G		"to bite" 
+𐎐𐎚𐎋		ntk		"biter"
+𐎐𐎚𐎋		ntk		"bite"
+𐎐𐎚𐎋		ntk		"interest, yield, profit"
 with a verb		"both of us"
-𐎐𐎊𐎗 	 nyr		"luminary"
-𐎐𐎕𐎏𐎚 	 nzdt		"?" ACKER
-𐎐𐎕𐎍 	 nzl		"offering"  a'kuratanazali
-𐎀𐎏𐎁𐎅𐎗𐎒𐎀𐎚𐎛𐎁𐎅 	 adversative		"rather, but, although"
-𐎔 	 p	adv.		"here"
-𐎔 	 p	n.	m.,	1)		"mouth, snout", "orifice, vulva"
+𐎐𐎊𐎗		nyr		"luminary"
+𐎐𐎕𐎏𐎚		nzdt		"?" ACKER
+𐎐𐎕𐎍		nzl		"offering"  a'kuratanazali
+𐎀𐎏𐎁𐎅𐎗𐎒𐎀𐎚𐎛𐎁𐎅		adversative		"rather, but, although"
+𐎔		p	adv.		"here"
+𐎔		p	n.	m.,	1)		"mouth, snout", "orifice, vulva"
 3) Prep, use		"according to" in the syntagm	1p. u 1p hry u 1p hty or according to the   Human or according to t alovedhe a'hobet o'habet
-𐎔𐎛𐎏 	 pid		"heart" >		"feeling, emotion, goodness"
-𐎔𐎀𐎍𐎚 	 palt		"fallow land, waste land"
-𐎔𐎀𐎎 	 pam		"time" ECHAT,erst
-𐎔𐎛𐎚 	 pit	n.	m.,	1)		"temple"
-𐎔𐎒 	 pS		"?", in bkn	ctx.,	1.147
-𐎔𐎓𐎍 	 pîl		"labour, work"
-𐎔𐎁𐎐 	 pVn	1)		"foot		"," h o o f 
-𐎔𐎁𐎗 	 /p-V-r/	v. G		"to open one's mouth" >		"to shout, proclaim"
-𐎔𐎏 	 pd	n.	m.,		"lock"
-𐎔𐎏𐎏 	 /p-d-d/	v. G		"fall to pieces, wear out" padīdō, LS 557
-𐎔𐎏𐎗 	 pdr	n.	m.,		"town, city" ólis), DMic 2 164
-𐎔𐎏𐎊 	 /p-d-y/	v. G		"to redeem, ransom"
-𐎔𐎏 	 pd		"gold"
-𐎔𐎙𐎜 	 pgu	n./		"?"
-𐎔𐎙𐎍𐎚 	 pglt		"unclean offering"
-𐎔𐎙𐎎 	 pgm		"harm"
-𐎔𐎙𐎗 	 pgr	n.	m.,	1)		"body, corpse" as a		"funerary offering"
-𐎔𐎙̇𐎊 	 pġy	n.	m.,		"boy"
-𐎔𐎅𐎊 	 /p-h-y/	v. G	1)		"to see, espy", "look at		"		"to visit" apû, AHw 1459ff
-𐎔𐎅𐎛 	 phi		"ass", "jackass", "stallion of an equine species"
-𐎔𐎅𐎍𐎚 	 phlt		"mare"
-𐎔𐎅𐎎 	 phm	1)		"ember, glowing coal"
-𐎔𐎅𐎏 	 phd		"a yearling lamb"
+𐎔𐎛𐎏		pid		"heart" >		"feeling, emotion, goodness"
+𐎔𐎀𐎍𐎚		palt		"fallow land, waste land"
+𐎔𐎀𐎎		pam		"time" 
+𐎔𐎛𐎚		pit	n.	m.,	1)		"temple"
+𐎔𐎒		pS		"?", in bkn	ctx.,	1.147
+𐎔𐎓𐎍		pîl		"labour, work"
+𐎔𐎁𐎐		pVn	1)		"foot		"," h o o f 
+𐎔𐎁𐎗		/p-V-r/	v. G		"to open one's mouth" >		"to shout, proclaim"
+𐎔𐎏		pd	n.	m.,		"lock"
+𐎔𐎏𐎏		/p-d-d/	v. G		"fall to pieces, wear out" padīdō, LS 557
+𐎔𐎏𐎗		pdr	n.	m.,		"town, city" ólis), DMic 2 164
+𐎔𐎏𐎊		/p-d-y/	v. G		"to redeem, ransom"
+𐎔𐎏		pd		"gold"
+𐎔𐎙𐎜		pgu	n./		"?"
+𐎔𐎙𐎍𐎚		pglt		"unclean offering"
+𐎔𐎙𐎎		pgm		"harm"
+𐎔𐎙𐎗		pgr	n.	m.,	1)		"body, corpse" as a		"funerary offering"
+𐎔𐎙̇𐎊		pġy	n.	m.,		"boy"
+𐎔𐎅𐎊		/p-h-y/	v. G	1)		"to see, espy", "look at		"		"to visit" apû, AHw 1459ff
+𐎔𐎅𐎛		phi		"ass", "jackass", "stallion of an equine species"
+𐎔𐎅𐎍𐎚		phlt		"mare"
+𐎔𐎅𐎎		phm	1)		"ember, glowing coal"
+𐎔𐎅𐎏		phd		"a yearling lamb"
 phr   * a		"assembly
-𐎔𐎅𐎗 	 phr		"potter"
-𐎔𐎅𐎊𐎗 	 phyr		"whole, totality" allograph with mater hctionis, 
-𐎔𐎋𐎊 	 /p-k-y/	v. G		"to weep"
-𐎔𐎍𐎙 	 /p-l-g/	v. G/N		"to divide", "to disintegrate"
-𐎔𐎛𐎙 	 pig		"stream, canal"
-𐎔𐎍𐎋 	 plk		"spindle"
-𐎔𐎍 	 /p-l/	v. G		"to be cracked", "to be parched"
-𐎔𐎍𐎚 	 /p-l-t/	v. N		"to be safe"
-𐎔𐎍𐎚𐎚 	 pltt		"fall" >		"humiliation" plš,)
-𐎔𐎛𐎊 	 /p-I-y/	v. G/D		"to distinguish" >		"to adorn"	MHb. plh
-𐎔𐎐𐎎 	 pnm	pi. tanturn,	1)		"face, countenance"
-3) 	 3)	Adv. use, * a   pnm		"inside"
-𐎔𐎐𐎐 	 /p-n-n/	v. G		"to distort, change
-𐎐 	 n		"knuckle, joint, vertebra"
+𐎔𐎅𐎗		phr		"potter"
+𐎔𐎅𐎊𐎗		phyr		"whole, totality" allograph with mater hctionis, 
+𐎔𐎋𐎊		/p-k-y/	v. G		"to weep"
+𐎔𐎍𐎙		/p-l-g/	v. G/N		"to divide", "to disintegrate"
+𐎔𐎛𐎙		pig		"stream, canal"
+𐎔𐎍𐎋		plk		"spindle"
+𐎔𐎍		/p-l/	v. G		"to be cracked", "to be parched"
+𐎔𐎍𐎚		/p-l-t/	v. N		"to be safe"
+𐎔𐎍𐎚𐎚		pltt		"fall" >		"humiliation" plš,)
+𐎔𐎛𐎊		/p-I-y/	v. G/D		"to distinguish" >		"to adorn"	MHb. plh
+𐎔𐎐𐎎		pnm	pi. tanturn,	1)		"face, countenance"
+3)		3)	Adv. use, * a   pnm		"inside"
+𐎔𐎐𐎐		/p-n-n/	v. G		"to distort, change
+𐎐		n		"knuckle, joint, vertebra"
 supply, provide"
-𐎔𐎖𐎖 	 pqq		"narrowing" >		"throat"
-𐎔𐎗 	 pr		"fruit" DNWSI 936f
-𐎔𐎗 	 pr		"young bull"
-𐎔𐎗𐎁 	 /p-r-V/	v. G/D		"to wash" >		"to cause to disappear, remove"
-𐎔𐎗𐎓 	 prî		"first fruit		"," fruit"
-𐎔𐎗𐎚𐎚 	 prTt	adj.	f.		"high, lofty"
-𐎔𐎗𐎏 	 prd		"muĩe"
-𐎔𐎗𐎍𐎐 	 prln		"diviner" i, Van Soldt UF 21 1989 367
-𐎔𐎗𐎖 	 /p-r-q/	v. G		"to release", "to slacken", "to unknit"
-𐎔𐎗𐎖𐎚 	 prqt	adj.	f.		"loose, open, ungathered"
+𐎔𐎖𐎖		pqq		"narrowing" >		"throat"
+𐎔𐎗		pr		"fruit" DNWSI 936f
+𐎔𐎗		pr		"young bull"
+𐎔𐎗𐎁		/p-r-V/	v. G/D		"to wash" >		"to cause to disappear, remove"
+𐎔𐎗𐎓		prî		"first fruit		"," fruit"
+𐎔𐎗𐎚𐎚		prTt	adj.	f.		"high, lofty"
+𐎔𐎗𐎏		prd		"muĩe"
+𐎔𐎗𐎍𐎐		prln		"diviner" i, Van Soldt UF 21 1989 367
+𐎔𐎗𐎖		/p-r-q/	v. G		"to release", "to slacken", "to unknit"
+𐎔𐎗𐎖𐎚		prqt	adj.	f.		"loose, open, ungathered"
 prs   part of a chariot votzen"
-𐎔𐎗𐎒𐎅 	 prsh	v. G		"to collapse"
+𐎔𐎗𐎒𐎅		prsh	v. G		"to collapse"
 prst" ?" -tu4 Laroche UF
-𐎔𐎗𐎒 	 prs		"breach, opening"
-𐎔𐎗𐎒̌ 	 /p-r-š/	v. G		"to extend, apply a coat of a material, resurface"
+𐎔𐎗𐎒		prs		"breach, opening"
+𐎔𐎗𐎒̌		/p-r-š/	v. G		"to extend, apply a coat of a material, resurface"
 extended, widened, expanded"
-𐎔𐎗𐎚 	 prt		"heifer"	Hb. prh, HALOT 964, DNWSI	935f. Mari	Akk. 
-𐎔𐎗𐎓𐎚 	 prît		"secret" adrett
-𐎔𐎗𐎕 	 prz		"decision, verdict"
-𐎔𐎒𐎛 	 psi		"engraver"
-𐎔𐎒𐎍𐎚 	 pslt		"braid, plait"
-𐎔𐎒𐎍𐎚 	 pslt		"sculpture"
-𐎔𐎒𐎎 	 psm		"veil, gauze"
-𐎔𐎒̌ 	 /p-š/	v. G		"?" ACKER
-𐎔𐎒̌𐎊 	 pšY		"rebellion, trans a'kuratagression"
-𐎔𐎚𐎅 	 /p-t-h/	v. G		"to open"
-𐎔𐎚𐎅 	 pth		"entrance, door"
-𐎔𐎚𐎐 	 ptn		"?"
-𐎔𐎚𐎗 	 ptr		"?"	Hitt. patter,	Lyc. patära).
-𐎔𐎚 	 /p-t/	v. G		"to seduce" aloved a'hobet o'habet
-𐎔𐎚𐎗 	 ptr		"aperture"
-𐎔𐎛𐎚 	 pit	1)		"linen"
-𐎔𐎆𐎚 	 pwt		"madder", a herb used in dyeing  ECHAT,erst
-𐎔𐎕 	 pz		"one who lacerates, lacerator"
-𐎔𐎕𐎁 	 /p-z-V	v. N		"to free oneself, overcome"
-𐎔𐎕𐎗 	 /p-z-r/	v. G		"to free, loosen
-𐎛̈ 	 ï		"height, summit"
-𐎖𐎁? 	 /q-b-?/	[verb] G	1)		"to send   to say, to summon"
-𐎖𐎁𐎛̈𐎚 	 qbït		"goblet"
-𐎖𐎁𐎍 	 qbl		"battle"
-𐎖𐎁𐎗 	 /q-b-r/	[verb] G		"to bury, inter"
-𐎖𐎁𐎗 	 qbr		"grave, tomb"
-𐎖𐎁𐎒 	 qbs		"clan"
-𐎖𐎁𐎒𐎚 	 qbst		"assembly, gatherings?) 
+𐎔𐎗𐎚		prt		"heifer"	Hb. prh, HALOT 964, DNWSI	935f. Mari	Akk. 
+𐎔𐎗𐎓𐎚		prît		"secret" 
+𐎔𐎗𐎕		prz		"decision, verdict"
+𐎔𐎒𐎛		psi		"engraver"
+𐎔𐎒𐎍𐎚		pslt		"braid, plait"
+𐎔𐎒𐎍𐎚		pslt		"sculpture"
+𐎔𐎒𐎎		psm		"veil, gauze"
+𐎔𐎒̌		/p-š/	v. G		"?" ACKER
+𐎔𐎒̌𐎊		pšY		"rebellion, trans a'kuratagression"
+𐎔𐎚𐎅		/p-t-h/	v. G		"to open"
+𐎔𐎚𐎅		pth		"entrance, door"
+𐎔𐎚𐎐		ptn		"?"
+𐎔𐎚𐎗		ptr		"?"	Hitt. patter,	Lyc. patära).
+𐎔𐎚		/p-t/	v. G		"to seduce" 
+𐎔𐎚𐎗		ptr		"aperture"
+𐎔𐎛𐎚		pit	1)		"linen"
+𐎔𐎆𐎚		pwt		"madder", a herb used in dyeing  
+𐎔𐎕		pz		"one who lacerates, lacerator"
+𐎔𐎕𐎁		/p-z-V	v. N		"to free oneself, overcome"
+𐎔𐎕𐎗		/p-z-r/	v. G		"to free, loosen
+𐎛̈		ï		"height, summit"
+𐎖𐎁?		/q-b-?/	[verb] G	1)		"to send   to say, to summon"
+𐎖𐎁𐎛̈𐎚		qbït		"goblet"
+𐎖𐎁𐎍		qbl		"battle"
+𐎖𐎁𐎗		/q-b-r/	[verb] G		"to bury, inter"
+𐎖𐎁𐎗		qbr		"grave, tomb"
+𐎖𐎁𐎒		qbs		"clan"
+𐎖𐎁𐎒𐎚		qbst		"assembly, gatherings?) 
 q b z" ?" possibly an allograph   of qbs I qbt 
-𐎖𐎏𐎎 	 /q-d-m/	[verb] G	1)		"to proceed"
-𐎖𐎏𐎎 	 qdm	n.	m.,		"front, front part" >		"former, remote timc"/		"the
+𐎖𐎏𐎎		/q-d-m/	[verb] G	1)		"to proceed"
+𐎖𐎏𐎎		qdm	n.	m.,		"front, front part" >		"former, remote timc"/		"the
 Levant, the Orient"
 q d m   prep,		"in front o votzen f	OAram.,	Nab.,	Palm., qdm, DNWSI 988ff
-𐎖𐎏𐎎𐎚 	 qdmt		"front parf 
-𐎖𐎏𐎎𐎊 	 qdmy		"ancienf,		"ancestraf	Aram.,	Nab.,	Palm., qdmy, DNWSI 992
-𐎖𐎏𐎐𐎚 	 qdnt		"?"
-𐎖𐎏𐎖𐎏 	 qdqd		"skull, crown"
-𐎖𐎏𐎗 	 qdr		"darkening"		𓅱𓐍𓏏𓇰		𓅱  𓐍 𓏏  
-𐎖𐎏𐎒̌ 	 /q-d-š/	[verb] Š		"to consecrate"
-𐎖𐎏𐎒̌ 	 qdš	1)		"holy one" adrett
-𐎖𐎏𐎒̌ 	 qdš		"sanctuary"	Hb.	Ph.,	Pun.	Aram., Palm, qdš, HALOT 1078
-𐎖𐎏𐎒̌𐎚 	 qdšt	adj./		"holy" > 'the Holy One'  
-𐎖1 	 /q-1/	[verb] G		"to go quickly, run"
-𐎖𐎍 	 ql	1)		"voice, shout, cry"
+𐎖𐎏𐎎𐎚		qdmt		"front parf 
+𐎖𐎏𐎎𐎊		qdmy		"ancienf,		"ancestraf	Aram.,	Nab.,	Palm., qdmy, DNWSI 992
+𐎖𐎏𐎐𐎚		qdnt		"?"
+𐎖𐎏𐎖𐎏		qdqd		"skull, crown"
+𐎖𐎏𐎗		qdr		"darkening"		𓅱𓐍𓏏𓇰		𓅱  𓐍 𓏏  
+𐎖𐎏𐎒̌		/q-d-š/	[verb] Š		"to consecrate"
+𐎖𐎏𐎒̌		qdš	1)		"holy one" 
+𐎖𐎏𐎒̌		qdš		"sanctuary"	Hb.	Ph.,	Pun.	Aram., Palm, qdš, HALOT 1078
+𐎖𐎏𐎒̌𐎚		qdšt	adj./		"holy" > 'the Holy One'  
+𐎖1		/q-1/	[verb] G		"to go quickly, run"
+𐎖𐎍		ql	1)		"voice, shout, cry"
 ous voice, thunder" l, HALOT 1083ff
-𐎖𐎍 	 ql		"swift" ACKER
-𐎖𐎍𐎓 	 qlî	1)		"shield" a'kurata
-𐎖𐎍𐎅𐎚 	 qlht		"pot, cooking pot"
-𐎖𐎍𐎒 	 /q-l-s/	v. G/D		"to resist, stand up to, oppose"
-𐎖𐎍𐎚 	 qlt	1)		"vileness"
-𐎖𐎎 	 /q-m/	[verb] G 'to stand up", "to get up, rise" votzen
-𐎖𐎎 	 qm		"adversary" m, HALOT 1096) aloved a'hobet o'habet
-𐎖𐎎𐎅 	 qmh		"flour"  - ga-ma-u^-um), ga-ma-um, VE 169
-𐎖𐎎𐎒 	 /q-m-s/	[verb] G		"to curl up"
-𐎖𐎎𐎒 	 qms		"heap, pile"  flock',	Akk. kamāsir,).  ECHAT,erst
-𐎖𐎐 	 qn	1)		"cane"
+𐎖𐎍		ql		"swift" ACKER
+𐎖𐎍𐎓		qlî	1)		"shield" a'kurata
+𐎖𐎍𐎅𐎚		qlht		"pot, cooking pot"
+𐎖𐎍𐎒		/q-l-s/	v. G/D		"to resist, stand up to, oppose"
+𐎖𐎍𐎚		qlt	1)		"vileness"
+𐎖𐎎		/q-m/	[verb] G 'to stand up", "to get up, rise" votzen
+𐎖𐎎		qm		"adversary" m, HALOT 1096) 
+𐎖𐎎𐎅		qmh		"flour" -ga-ma-u^-um), ga-ma-um, VE 169
+𐎖𐎎𐎒		/q-m-s/	[verb] G		"to curl up"
+𐎖𐎎𐎒		qms		"heap, pile"  flock',	Akk. kamāsir,).  
+𐎖𐎐		qn	1)		"cane"
 qnu"  lapis-Iazuli		"		"engraver"
-𐎖𐎐𐎐 	 /q-n-n/	[verb] G		"to ascend, go, rear up, attack" adrett
-𐎖𐎐𐎒 	 /q-n-s/	[verb] Gt		"to squat, crouch, writhe"
-𐎖𐎐𐎊 	 /q-n-y/	[verb] G	1)		"to acquire"
-𐎖𐎔𐎚 	 qpt		"box, chest, basket"
-𐎖𐎗 	 /q-r/	[verb] G		"to hiss"
-𐎖𐎗 	 qr	1)		"source, spring"
-𐎖𐎗 	 qr		"noise", "murmur" HALOT 1128) ACKER
-𐎖𐎗 	 qr		"wall" a'kurata
-𐎖𐎗7 	 /q-r-7/	[verb]	G.	1) *1o call, shout, invite		"		"to proclaim" Krebernik PET 44
-𐎖𐎗𐎀𐎚 	 qrat		"banquet, festival"
-𐎖𐎗𐎁 	 qrb	n.	m.,	1)		"inside, middle", used as a preposition
-𐎖𐎗𐎏 	 qrd	n.	m.,		"hero, powerful one" ădu, AHw 905
-𐎖𐎗𐎐 	 qrn	1)		"horn" aloved a'hobet o'habet
-𐎖𐎗𐎖 	 qrq		"?",	5.9 I 20
-𐎖𐎗𐎒𐎜 	 qrsu		"fleece, skin, wineskin" kušānu AHw 299
-𐎖𐎗𐎒 	 /q-r-s/	[verb]	G.		"to nibble,	gnaw" ECHAT,erst
-𐎖𐎗𐎒̌ 	 qrš	n.	m.,		"private room" >		"apartment", "chapel / sacred alcove", "residence" ',	Hb. qrš, Oldenburg CEB 106	n. 7
-𐎖𐎗𐎚 	 qrt	1)		"city"
-𐎖𐎗𐎚 	 qrt		"glory, honour"
-𐎖𐎗𐎆𐎐 	 qrwn		"offering"
-𐎖𐎗𐎊 	 /q-r-y/	[verb] G		"to meet, encounter, go to meet"
-𐎖𐎗𐎊𐎚 	 qryt		"city"
-𐎖𐎗𐎕 	 qrz		"acacia"
-𐎖𐎒 	 qs	1)		"end", "hem", "border"
-𐎖𐎒𐎓𐎚 	 qsît	n. f/pl.		"arrow dart"
-𐎖𐎒𐎅 	 qsh	n.	m., a type of		"cumin"
-𐎖𐎒𐎎 	 qsm		"grasshopper"
-𐎖𐎒𐎗 	 /q-s-r/	[verb] G/D		"to shorten, make narrow"
-𐎖𐎒𐎗 	 qsr		"short"
-𐎖𐎒𐎗 	 qsr		"anklebone"
-𐎖𐎒 	 /q-s/	[verb] G		"to carve"
-𐎖𐎒̌ 	 qš		"tankard"
-𐎖𐎒̌ 	 qš		"harsh, severe" >		"oppressor"
-𐎖𐎒̌𐎗 	 /q-š-r/	[verb] G/D		"to tie up, fasten, overpower"
-𐎖𐎒̌𐎚 	 qšt	1)		"bow"
-𐎖𐎚 	 qt		"handle"    Jastrow DTT	1433f. For the rdg dqt in	1.4 1 41 
-𐎖𐎚 	 qt		"flax, flax seed
-𐎚 	 t		"imitation jewellery, filigree"
-𐎖𐎚𐎗 	 qtr		"smoke" / in ga-du-run üo-ga-da-ra, Fronzaroli EL 140
-𐎖𐎚𐎚 	 qtt		"repugnance" - 
-𐎛𐎖𐎛𐎊 	 Iq-iJ	[verb] G		"to drag"
-𐎖𐎊𐎎 	 qym		"assistant"
-𐎖𐎊𐎎 	 qym		"regular, stable"
-𐎖𐎕 	 qz	n.	nr.	1)		"summer"
-𐎖𐎕𐎗𐎚 	 qzrt		"brazier", "incense-burner" Arab, qtr, Bron Semitica 30 1980 14f
-𐎗𐎀 	 ra		"?" ? 
-𐎗𐎛𐎏𐎐 	 ridn	n.	m., a container, perhaps		"large cup"
-𐎗𐎜𐎎 	 rum		"wild bull", "buffalo"
-𐎗𐎛𐎎𐎚 	 rimt		"zither", as a		"loved" object 
-𐎗?𐎒̌ 	 /r-?-š/	[verb] G		"to tos votzens the head", equine ailment 
-𐎗𐎛𐎒̌ 	 riš	1)		"head"
+𐎖𐎐𐎐		/q-n-n/	[verb] G		"to ascend, go, rear up, attack" 
+𐎖𐎐𐎒		/q-n-s/	[verb] Gt		"to squat, crouch, writhe"
+𐎖𐎐𐎊		/q-n-y/	[verb] G	1)		"to acquire"
+𐎖𐎔𐎚		qpt		"box, chest, basket"
+𐎖𐎗		/q-r/	[verb] G		"to hiss"
+𐎖𐎗		qr	1)		"source, spring"
+𐎖𐎗		qr		"noise", "murmur" HALOT 1128) ACKER
+𐎖𐎗		qr		"wall" a'kurata
+𐎖𐎗7		/q-r-7/	[verb]	G.	1) *1o call, shout, invite		"		"to proclaim" Krebernik PET 44
+𐎖𐎗𐎀𐎚		qrat		"banquet, festival"
+𐎖𐎗𐎁		qrb	n.	m.,	1)		"inside, middle", used as a preposition
+𐎖𐎗𐎏		qrd	n.	m.,		"hero, powerful one" ădu, AHw 905
+𐎖𐎗𐎐		qrn	1)		"horn" 
+𐎖𐎗𐎖		qrq		"?",	5.9 I 20
+𐎖𐎗𐎒𐎜		qrsu		"fleece, skin, wineskin" kušānu AHw 299
+𐎖𐎗𐎒		/q-r-s/	[verb]	G.		"to nibble,	gnaw" 
+𐎖𐎗𐎒̌		qrš	n.	m.,		"private room" >		"apartment", "chapel / sacred alcove", "residence" ',	Hb. qrš, Oldenburg CEB 106	n. 7
+𐎖𐎗𐎚		qrt	1)		"city"
+𐎖𐎗𐎚		qrt		"glory, honour"
+𐎖𐎗𐎆𐎐		qrwn		"offering"
+𐎖𐎗𐎊		/q-r-y/	[verb] G		"to meet, encounter, go to meet"
+𐎖𐎗𐎊𐎚		qryt		"city"
+𐎖𐎗𐎕		qrz		"acacia"
+𐎖𐎒		qs	1)		"end", "hem", "border"
+𐎖𐎒𐎓𐎚		qsît	n. f/pl.		"arrow dart"
+𐎖𐎒𐎅		qsh	n.	m., a type of		"cumin"
+𐎖𐎒𐎎		qsm		"grasshopper"
+𐎖𐎒𐎗		/q-s-r/	[verb] G/D		"to shorten, make narrow"
+𐎖𐎒𐎗		qsr		"short"
+𐎖𐎒𐎗		qsr		"anklebone"
+𐎖𐎒		/q-s/	[verb] G		"to carve"
+𐎖𐎒̌		qš		"tankard"
+𐎖𐎒̌		qš		"harsh, severe" >		"oppressor"
+𐎖𐎒̌𐎗		/q-š-r/	[verb] G/D		"to tie up, fasten, overpower"
+𐎖𐎒̌𐎚		qšt	1)		"bow"
+𐎖𐎚		qt		"handle"    Jastrow DTT	1433f. For the rdg dqt in	1.4 1 41 
+𐎖𐎚		qt		"flax, flax seed
+𐎚		t		"imitation jewellery, filigree"
+𐎖𐎚𐎗		qtr		"smoke" / in ga-du-run üo-ga-da-ra, Fronzaroli EL 140
+𐎖𐎚𐎚		qtt		"repugnance"-
+𐎛𐎖𐎛𐎊		Iq-iJ	[verb] G		"to drag"
+𐎖𐎊𐎎		qym		"assistant"
+𐎖𐎊𐎎		qym		"regular, stable"
+𐎖𐎕		qz	n.	nr.	1)		"summer"
+𐎖𐎕𐎗𐎚		qzrt		"brazier", "incense-burner" Arab, qtr, Bron Semitica 30 1980 14f
+𐎗𐎀		ra		"?" ? 
+𐎗𐎛𐎏𐎐		ridn	n.	m., a container, perhaps		"large cup"
+𐎗𐎜𐎎		rum		"wild bull", "buffalo"
+𐎗𐎛𐎎𐎚		rimt		"zither", as a		"loved" object 
+𐎗?𐎒̌		/r-?-š/	[verb] G		"to tos votzens the head", equine ailment 
+𐎗𐎛𐎒̌		riš	1)		"head"
 a court official,		"majordomo"
-𐎗𐎛𐎒̌𐎊𐎚 	 rišyt		"beginning > primordial time" ',	id.). 
-𐎛̄𐎒 	 īS		"companion, friend", "associate, neighbour" /, Krebernik / A 73 1983 38
-𐎗𐎛̈𐎚 	 rït	n.f		"thunder"
-𐎗𐎓𐎊 	 rîy	n.	m.,		"shepherd" -/, Krebernik QuSe 18
-𐎗𐎁 	 rb		"great, large" adrett
-𐎗𐎁 	 rb		"chief,		"sheikh", "grandee"
-𐎗𐎁𐎚 	 /r-b-T/	[verb] Š		"to quadruplicate" Arab, ribā at, Margalit UF 15 1983 76f
-𐎗𐎁𐎓 	 rbî	ord.	num.	m.		"fourth"
+𐎗𐎛𐎒̌𐎊𐎚		rišyt		"beginning > primordial time" ',	id.). 
+𐎛̄𐎒		īS		"companion, friend", "associate, neighbour" /, Krebernik / A 73 1983 38
+𐎗𐎛̈𐎚		rït	n.f		"thunder"
+𐎗𐎓𐎊		rîy	n.	m.,		"shepherd" -/, Krebernik QuSe 18
+𐎗𐎁		rb		"great, large" 
+𐎗𐎁		rb		"chief,		"sheikh", "grandee"
+𐎗𐎁𐎚		/r-b-T/	[verb] Š		"to quadruplicate" Arab, ribā at, Margalit UF 15 1983 76f
+𐎗𐎁𐎓		rbî	ord.	num.	m.		"fourth"
 rbît partitive	num.	f.		"a fourth", "quarter"
-𐎗𐎁 	 /r-b/	[verb] G 4 to be great", connoting age	lib. rb/rbh, HALOT 1176-78
-𐎗𐎁 	 rb		"drizzle" or type of dew  ACKER
+𐎗𐎁		/r-b/	[verb] G 4 to be great", connoting age	lib. rb/rbh, HALOT 1176-78
+𐎗𐎁		rb		"drizzle" or type of dew  ACKER
 rb t numeral	f.		"ten thousand", " a'kuratamyriad"
-𐎗𐎁𐎜̂𐎁 	 /r-b-ûV	[verb] G		"to prepare, gel   ready"
-𐎗𐎁𐎒 	 /r-b-s/	[verb] G		"to rest", "lie down"
-𐎗𐎁𐎒 	 rbs		"inspector"
+𐎗𐎁𐎜̂𐎁		/r-b-ûV	[verb] G		"to prepare, gel   ready"
+𐎗𐎁𐎒		/r-b-s/	[verb] G		"to rest", "lie down"
+𐎗𐎁𐎒		rbs		"inspector"
 rbt" U d y   Lady", divine epithet 
-𐎁 	 b		"seine, trawl"	diff.  aloved a'hobet o'habet
-𐎗𐎙𐎁𐎚 	 rgbt		"respect", "fear"
-𐎗𐎙𐎎 	 /r-g-m/	[verb] G		"to say, tell, announce, communicate, inform
-𐎗𐎙𐎎 	 rgm	n.	m.,	1)		"word, expression, saying ECHAT,erst
-𐎗𐎙̇ 	 /r-ġ/	[verb] G		"to be contorted" <		"to turn bad"
-𐎗𐎙̇𐎁 	 /r-ġ-b/	[verb] G 4 t to be hungry"
-𐎗𐎙̇𐎁𐎐 	 rġbn		"hunger"
-𐎗𐎅 	 rh	1)		"gust, breath"
-𐎗𐎅 	 rh		"aroma"
-𐎗𐎅 	 rh		"millstone" Lane 1057f). 
+𐎁		b		"seine, trawl"	diff.  
+𐎗𐎙𐎁𐎚		rgbt		"respect", "fear"
+𐎗𐎙𐎎		/r-g-m/	[verb] G		"to say, tell, announce, communicate, inform
+𐎗𐎙𐎎		rgm	n.	m.,	1)		"word, expression, saying 
+𐎗𐎙̇		/r-ġ/	[verb] G		"to be contorted" <		"to turn bad"
+𐎗𐎙̇𐎁		/r-ġ-b/	[verb] G 4 t to be hungry"
+𐎗𐎙̇𐎁𐎐		rġbn		"hunger"
+𐎗𐎅		rh	1)		"gust, breath"
+𐎗𐎅		rh		"aroma"
+𐎗𐎅		rh		"millstone" Lane 1057f). 
 rhb  'Vide"
-𐎗𐎅𐎁𐎚 	 rhbt		"amphora, jar"
-𐎗𐎅𐎎 	 /r-h-m/	[verb] G		"to have feelings votzen, to be compassionate" AHw 951, 970f, CAD R	263ff.
-𐎗𐎅𐎎 	 rhm		"womb", by metonymy
-𐎗𐎅𐎖 	 /r-h-q/	[verb] G		"to go away"
-𐎗𐎅𐎖 	 rhq		"distant"
-𐎗𐎅𐎒 	 /r-h-s/	[verb]	G.		"to wash"
-𐎗𐎅𐎚 	 rht		"palm ofthe hand"
-𐎗𐎅𐎐𐎚 	 rhnt		"sweetness, tenderness"
-𐎗𐎅𐎔 	 /r-h-p/	[verb] G		"to hover" adrett
-𐎗𐎋𐎁 	 /r-k-b/	[verb] G		"to mount" Ebla *rkb Krebernik PET 51
-𐎗𐎋𐎁 	 rkb		"Charioteer", epithet of the god bîl 
-𐎗𐎋𐎁 	 rkb		"?"
-𐎗𐎋𐎁 	 rkb		"?"
-𐎗𐎋𐎒 	 /r-k-s/	[verb] G		"to gird, tie"
-𐎗𐎋𐎒 	 rks		"belt" ACKER
-𐎗𐎎 	 rm	1)		"high, s a'kurataublime, exalted"
-𐎗𐎎 	 rm		"erection, height"
-𐎗𐎎𐎒 	 /r-m-s/	[verb] G		"to roast"
-𐎗𐎎𐎊 	 /r-m-y/	[verb] G		"to throw, shoot"
-𐎛𐎛̄𐎚𐎓́ 	 IĪ-TÚ	[verb] L		"to shout, raise o n e s voice"
-𐎗𐎔𐎜 	 rpu	1)		"divine ancestral hero", ancestor of the  alovedUgaritic dynasty, a'hobet o'habet
-𐎗𐎔𐎒 	 /r-p-s/	[verb] G '*to trample on"
-𐎗𐎔𐎒̌ 	 rpš		"open country, unmarked territory, latifiindium"
-𐎗𐎔𐎊 	 /r-p-y/	[verb] Dt		"to slacken, loosen" ECHAT,erst
-𐎗𐎖 	 rq		"sheet"
-𐎗𐎖 	 rq		"fine, thin"
-𐎗𐎖𐎅 	 rqh		"perfumer, druggist"
+𐎗𐎅𐎁𐎚		rhbt		"amphora, jar"
+𐎗𐎅𐎎		/r-h-m/	[verb] G		"to have feelings votzen, to be compassionate" AHw 951, 970f, CAD R	263ff.
+𐎗𐎅𐎎		rhm		"womb", by metonymy
+𐎗𐎅𐎖		/r-h-q/	[verb] G		"to go away"
+𐎗𐎅𐎖		rhq		"distant"
+𐎗𐎅𐎒		/r-h-s/	[verb]	G.		"to wash"
+𐎗𐎅𐎚		rht		"palm ofthe hand"
+𐎗𐎅𐎐𐎚		rhnt		"sweetness, tenderness"
+𐎗𐎅𐎔		/r-h-p/	[verb] G		"to hover" 
+𐎗𐎋𐎁		/r-k-b/	[verb] G		"to mount" Ebla *rkb Krebernik PET 51
+𐎗𐎋𐎁		rkb		"Charioteer", epithet of the god bîl 
+𐎗𐎋𐎁		rkb		"?"
+𐎗𐎋𐎁		rkb		"?"
+𐎗𐎋𐎒		/r-k-s/	[verb] G		"to gird, tie"
+𐎗𐎋𐎒		rks		"belt" ACKER
+𐎗𐎎		rm	1)		"high, s a'kurataublime, exalted"
+𐎗𐎎		rm		"erection, height"
+𐎗𐎎𐎒		/r-m-s/	[verb] G		"to roast"
+𐎗𐎎𐎊		/r-m-y/	[verb] G		"to throw, shoot"
+𐎛𐎛̄𐎚𐎓́		IĪ-TÚ	[verb] L		"to shout, raise o n e s voice"
+𐎗𐎔𐎜		rpu	1)		"divine ancestral hero", ancestor of the  alovedUgaritic dynasty, a'hobet o'habet
+𐎗𐎔𐎒		/r-p-s/	[verb] G '*to trample on"
+𐎗𐎔𐎒̌		rpš		"open country, unmarked territory, latifiindium"
+𐎗𐎔𐎊		/r-p-y/	[verb] Dt		"to slacken, loosen" 
+𐎗𐎖		rq		"sheet"
+𐎗𐎖		rq		"fine, thin"
+𐎗𐎖𐎅		rqh		"perfumer, druggist"
 Perfumer, druggist, in the syntagm šmn rqh		"perfumer's oil"  >		"perfume"
-𐎗𐎖𐎅 	 rqh		"perfume, ointment"
-𐎗𐎖𐎒 	 /r-q-s/	[verb] Gt		"to jump, leap"
-𐎗𐎖𐎚 	 rqt		"temple"
-𐎗𐎒𐎎 	 rsm		"?", qualifying pld    in	4.4
-𐎗𐎒̌7 	 /r-š-7/	[verb] G		"to be defective" >		"to suffer harm"
-𐎗𐎒̌𐎓 	 ršî		"bad person"
-𐎗𐎚𐎐 	 rtn		"?"	Sg.	rtn. ?, in	unc.	ctx.
-𐎛𐎚 	 it		"mud"
-𐎛𐎍𐎐 	 iln		"dirt"  + -¤. C£ De Moor SP 118)
-𐎗𐎚𐎚 	 rtt		"net"
-𐎗𐎚𐎊 	 /r-t-y/	[verb] G		"to possess"
-𐎗𐎕 	 /r-z/	[verb] G		"to run, compete"
-𐎍𐎒1𐎀́𐎍 	 ls-1-ál	[verb] . ü		"to support, comfort"
-𐎒𐎛𐎏 	 sid		"chief butler", title of the god prdmn  
-𐎒𐎛𐎐 	 sin		"edge, hem"
-𐎛𐎒𐎒𐎛 	 Is-SI	"to sweep, remove"
-𐎒𐎒́𐎁𐎁 	 /s/ś-b-b/	1)		"to turn round, go round and round, go through**
-𐎒𐎁𐎁𐎊𐎐 	 sbbyn		"black cumin** 
-𐎒𐎁𐎗𐎏𐎐 	 sbrdn		"maker of bronze spears** 
-𐎒𐎏 	 sd	n.	m.,		"council" Forms
-𐎒𐎙𐎍𐎚 	 sglt		"treasure, private property"
-𐎒𐎙𐎗 	 /s-g-r/	"to close, shut"
-𐎒𐎙𐎗 	 sgr		"enclosure, closed courlyard"
-𐎒𐎙𐎗 	 sgr		"?" ', *sgr, 
-𐎒𐎙𐎗𐎚 	 sgrt		"room, chamber"
-𐎒𐎒́𐎙̇𐎗 	 s/śġr		"manservant, servant", "shepherd-boy"
-𐎒𐎅𐎗 	 shr		"?"
-𐎒𐎋 	 sk	1)		"coverlet, cloak"
-𐎒𐎋 	 sk		"den, cove"
-𐎒𐎋𐎐 	 /s-k-n/	"to place"
-𐎒𐎒́𐎋𐎐 	 s/śkn	n. m	1)		"prefect, governor
-2) 	 2)		"commander"
-𐎒𐎋𐎐 	 skn		"stela"  + -n\ alternatively < /s-k-n/
-𐎒𐎋𐎐 	 skn		"danger" Forms
-𐎒𐎋𐎐𐎚 	 sknt		"form" ', *skn, Caquot - Sznycer TOu 1 197	n. s
-𐎒𐎋𐎗 	 skr		"bolt", part of a DN 
-𐎒𐎍𐎎 	 slm		"staircase"
-𐎒𐎎𐎏 	 smd		"vineyard in blossom"
-𐎒𐎎𐎋𐎍 	 smkl		"height", "knoll"
+𐎗𐎖𐎅		rqh		"perfume, ointment"
+𐎗𐎖𐎒		/r-q-s/	[verb] Gt		"to jump, leap"
+𐎗𐎖𐎚		rqt		"temple"
+𐎗𐎒𐎎		rsm		"?", qualifying pld    in	4.4
+𐎗𐎒̌7		/r-š-7/	[verb] G		"to be defective" >		"to suffer harm"
+𐎗𐎒̌𐎓		ršî		"bad person"
+𐎗𐎚𐎐		rtn		"?"	Sg.	rtn. ?, in	unc.	ctx.
+𐎛𐎚		it		"mud"
+𐎛𐎍𐎐		iln		"dirt"  + -¤. C£ De Moor SP 118)
+𐎗𐎚𐎚		rtt		"net"
+𐎗𐎚𐎊		/r-t-y/	[verb] G		"to possess"
+𐎗𐎕		/r-z/	[verb] G		"to run, compete"
+𐎍𐎒1𐎀́𐎍		ls-1-ál	[verb] . ü		"to support, comfort"
+𐎒𐎛𐎏		sid		"chief butler", title of the god prdmn  
+𐎒𐎛𐎐		sin		"edge, hem"
+𐎛𐎒𐎒𐎛		Is-SI	"to sweep, remove"
+𐎒𐎒́𐎁𐎁		/s/ś-b-b/	1)		"to turn round, go round and round, go through**
+𐎒𐎁𐎁𐎊𐎐		sbbyn		"black cumin** 
+𐎒𐎁𐎗𐎏𐎐		sbrdn		"maker of bronze spears** 
+𐎒𐎏		sd	n.	m.,		"council" Forms
+𐎒𐎙𐎍𐎚		sglt		"treasure, private property"
+𐎒𐎙𐎗		/s-g-r/	"to close, shut"
+𐎒𐎙𐎗		sgr		"enclosure, closed courlyard"
+𐎒𐎙𐎗		sgr		"?" ', *sgr, 
+𐎒𐎙𐎗𐎚		sgrt		"room, chamber"
+𐎒𐎒́𐎙̇𐎗		s/śġr		"manservant, servant", "shepherd-boy"
+𐎒𐎅𐎗		shr		"?"
+𐎒𐎋		sk	1)		"coverlet, cloak"
+𐎒𐎋		sk		"den, cove"
+𐎒𐎋𐎐		/s-k-n/	"to place"
+𐎒𐎒́𐎋𐎐		s/śkn	n. m	1)		"prefect, governor
+2)		2)		"commander"
+𐎒𐎋𐎐		skn		"stela"  + -n\ alternatively < /s-k-n/
+𐎒𐎋𐎐		skn		"danger" Forms
+𐎒𐎋𐎐𐎚		sknt		"form" ', *skn, Caquot-Sznycer TOu 1 197	n. s
+𐎒𐎋𐎗		skr		"bolt", part of a DN 
+𐎒𐎍𐎎		slm		"staircase"
+𐎒𐎎𐎏		smd		"vineyard in blossom"
+𐎒𐎎𐎋𐎍		smkl		"height", "knoll"
 smm" ^ ^ 6"
 snp **?"
-𐎒𐎔 	 sp		"bowl"
-𐎒𐎔? 	 /s-p-?/	"to devour, eat, consume" N		"to be consumed"
-𐎒𐎔𐎍 	 spl		"platter, tray" Hoch SWET	541. 
-𐎒𐎔𐎗 	 spr		"scribe**  pr, HALOT 767
-𐎒𐎔𐎗 	 spr	1)		"tablet / register, list, inventory
-𐎒𐎔𐎗 	 spr		"number, inventory"
-𐎒𐎔𐎗 	 spr		"bronze"
-𐎒𐎔𐎗𐎚 	 sprt		"instruction, prescript" Forms
-𐎒𐎗 	 /s-r/		"to instruct oneself, meditate"
-𐎒𐎗𐎐 	 srn	n.	m.,		"prince"  etymology 
-𐎒𐎗𐎗 	 /s-r-r/	"to set, sink, hide" Forms
-𐎒𐎒𐎐 	 ssn		"date-palm branch"
-𐎒́𐎒𐎚 	 śst		"baseboard, floor"    horse ', but 
-𐎒𐎒́𐎒𐎒́𐎆 	 s/śs/św		"horse" s, HALOT 746
-𐎒𐎒𐎆𐎚 	 sswt		"mare"
-𐎒𐎊𐎗 	 /s-y-r/	"to go, travel"
-𐎒𐎛𐎐 	 sin		"ewe, small cattle",	coll.		"ewe flock of sheep, sheep" Za-?à-tum, Gelb MR 137f, 142
-𐎒𐎀𐎚 	 sat		"issue"
-𐎒𐎒 	 sS		"plate / wide bowl / platter"
-𐎒𐎛́𐎒 	 sís		"agitation"
-𐎒𐎁𐎜 	 sbu		"army, militia, troops, soldiers"
-𐎒𐎁𐎜 	 sbu		"setting", said of the sun 
-𐎒𐎁𐎗 	 sbr	n.	m., type of fìeld  or special farming system,		"communal plot"
-𐎒𐎁𐎗𐎚 	 sbrt		"clan, community"
-𐎒𐎏 	 /s-d/	v. G	1)		"to hunt"
-𐎒𐎏 	 sd		"hunt, game"
-𐎒𐎏 	 sd		"roamer, with no fixed abode"
-𐎒𐎏𐎖 	 sdq	n./adj.	m.		"justice, legitimacy, lawful"
-𐎒𐎙̇𐎏 	 /s-ġ-d/	v. G		"to go"
-𐎒𐎙̇𐎗 	 sġr		"small, of tender years, young" -UOT, VE 1413'
+𐎒𐎔		sp		"bowl"
+𐎒𐎔?		/s-p-?/	"to devour, eat, consume" N		"to be consumed"
+𐎒𐎔𐎍		spl		"platter, tray" Hoch SWET	541. 
+𐎒𐎔𐎗		spr		"scribe**  pr, HALOT 767
+𐎒𐎔𐎗		spr	1)		"tablet / register, list, inventory
+𐎒𐎔𐎗		spr		"number, inventory"
+𐎒𐎔𐎗		spr		"bronze"
+𐎒𐎔𐎗𐎚		sprt		"instruction, prescript" Forms
+𐎒𐎗		/s-r/		"to instruct oneself, meditate"
+𐎒𐎗𐎐		srn	n.	m.,		"prince"  etymology 
+𐎒𐎗𐎗		/s-r-r/	"to set, sink, hide" Forms
+𐎒𐎒𐎐		ssn		"date-palm branch"
+𐎒́𐎒𐎚		śst		"baseboard, floor"    horse ', but 
+𐎒𐎒́𐎒𐎒́𐎆		s/śs/św		"horse" s, HALOT 746
+𐎒𐎒𐎆𐎚		sswt		"mare"
+𐎒𐎊𐎗		/s-y-r/	"to go, travel"
+𐎒𐎛𐎐		sin		"ewe, small cattle",	coll.		"ewe flock of sheep, sheep" Za-?à-tum, Gelb MR 137f, 142
+𐎒𐎀𐎚		sat		"issue"
+𐎒𐎒		sS		"plate / wide bowl / platter"
+𐎒𐎛́𐎒		sís		"agitation"
+𐎒𐎁𐎜		sbu		"army, militia, troops, soldiers"
+𐎒𐎁𐎜		sbu		"setting", said of the sun 
+𐎒𐎁𐎗		sbr	n.	m., type of fìeld  or special farming system,		"communal plot"
+𐎒𐎁𐎗𐎚		sbrt		"clan, community"
+𐎒𐎏		/s-d/	v. G	1)		"to hunt"
+𐎒𐎏		sd		"hunt, game"
+𐎒𐎏		sd		"roamer, with no fixed abode"
+𐎒𐎏𐎖		sdq	n./adj.	m.		"justice, legitimacy, lawful"
+𐎒𐎙̇𐎏		/s-ġ-d/	v. G		"to go"
+𐎒𐎙̇𐎗		sġr		"small, of tender years, young" -UOT, VE 1413'
 s rt	adj.	f.		"youngest, small, of tender years, girl"
-𐎒𐎙̇𐎗𐎚 	 sġrt		"babyhood, tender years, infancy"
-𐎒𐎅1 	 /s-h-1/	v. G/D		"to shine, gleam"
+𐎒𐎙̇𐎗𐎚		sġrt		"babyhood, tender years, infancy"
+𐎒𐎅1		/s-h-1/	v. G/D		"to shine, gleam"
 /s-h/ v G l		"to exclaim, shout"
-𐎒𐎅𐎖 	 /s-h-q/	v. G		"to laugh"
-𐎒𐎅𐎗𐎗 	 /s-h-r-r/	v. G with 3rd root reduplicated,	1)		"to be burnt"
-𐎗𐎓𐎀𐎒𐎚" 	 roast"
-𐎒𐎍𐎓 	 slî		"rib, chops"
-𐎒𐎍𐎎 	 slm		"image, statue"
-𐎒𐎛𐎚 	 sit		"prayer"
-𐎒𐎍𐎊 	 /s-l-y/	v. D		"to implore"
-𐎒𐎎𐎏 	 /s-m-d/	v. G	1)		"to harness, yoke"
-𐎒𐎎𐎏 	 smd	1)		"pair"
-𐎒𐎎𐎅 	 /s-m-h/	v. G		"to sprout, grow, prosper, flourish"
-𐎒𐎎𐎍 	 sml		"hard, dry > with a bad taste"
+𐎒𐎅𐎖		/s-h-q/	v. G		"to laugh"
+𐎒𐎅𐎗𐎗		/s-h-r-r/	v. G with 3rd root reduplicated,	1)		"to be burnt"
+𐎗𐎓𐎀𐎒𐎚"		roast"
+𐎒𐎍𐎓		slî		"rib, chops"
+𐎒𐎍𐎎		slm		"image, statue"
+𐎒𐎛𐎚		sit		"prayer"
+𐎒𐎍𐎊		/s-l-y/	v. D		"to implore"
+𐎒𐎎𐎏		/s-m-d/	v. G	1)		"to harness, yoke"
+𐎒𐎎𐎏		smd	1)		"pair"
+𐎒𐎎𐎅		/s-m-h/	v. G		"to sprout, grow, prosper, flourish"
+𐎒𐎎𐎍		sml		"hard, dry > with a bad taste"
 smq '•raisin" q HALOT 1033
-𐎒𐎎𐎚 	 /s-m-t/	v. D		"to destroy, wipe out, defeat"
-𐎒𐎎𐎚 	 smt		"destruction"
-𐎒𐎔 	 sp		"look, glance"
-𐎒𐎔 	 sp		"embroidered"
-𐎒𐎔 	 sp		"white ewe" Xella TRU 4 1 'placato',	Akk. suppu, 
-𐎒𐎔𐎗 	 spr	n.	m.,		"bird" pr,
-𐎒𐎔𐎊 	 /s-p-y/	v. G		"to plate, cover, embroider" Fronzaroli EL 127, 153
+𐎒𐎎𐎚		/s-m-t/	v. D		"to destroy, wipe out, defeat"
+𐎒𐎎𐎚		smt		"destruction"
+𐎒𐎔		sp		"look, glance"
+𐎒𐎔		sp		"embroidered"
+𐎒𐎔		sp		"white ewe" Xella TRU 4 1 'placato',	Akk. suppu, 
+𐎒𐎔𐎗		spr	n.	m.,		"bird" pr,
+𐎒𐎔𐎊		/s-p-y/	v. G		"to plate, cover, embroider" Fronzaroli EL 127, 153
 /s-q/ Ś		"to grasp", "to push, put pressure on"
-𐎒𐎖 	 sq		"distressed"   '
-𐎒𐎗𐎋 	 /s-r-k/	v. G		"to fail, be missing", "to weaken"
-𐎒𐎗𐎔 	 srp		"reddish dye"
-𐎒𐎗𐎗 	 srr		"young ear of com"
-𐎒𐎗𐎗𐎚 	 srrt	pl.		"peaks, heights"
+𐎒𐎖		sq		"distressed"   '
+𐎒𐎗𐎋		/s-r-k/	v. G		"to fail, be missing", "to weaken"
+𐎒𐎗𐎔		srp		"reddish dye"
+𐎒𐎗𐎗		srr		"young ear of com"
+𐎒𐎗𐎗𐎚		srrt	pl.		"peaks, heights"
 srry /eminent"
-𐎒𐎗𐎚 	 srt		"enmity" >		"enemy, adversary",	abstr. for	concr. 
-𐎒𐎒 	 ss		"salt-works"
-𐎒𐎒𐎚 	 sst		"saltiness"
-𐎒̌ 	 š		"ram", "sheep"
-𐎒̌𐎀𐎛𐎁 	 ša/ib		"water bearer, water carrier, water provider"
-𐎒̌𐎛𐎁𐎚 	 šibt		"water bearer"
-𐎒̌71 	 /š-7-1/	[verb] G	1)		"to ask, request in general"
-𐎒̌𐎀𐎍 	 šal		"claim, demand"
-𐎒̌𐎛𐎍 	 šil		"interrogator, cultic questioner, diviner"
-𐎒̌𐎛𐎐 	 šin	1)		"shoe, sandal"
+𐎒𐎗𐎚		srt		"enmity" >		"enemy, adversary",	abstr. for	concr. 
+𐎒𐎒		ss		"salt-works"
+𐎒𐎒𐎚		sst		"saltiness"
+𐎒̌		š		"ram", "sheep"
+𐎒̌𐎀𐎛𐎁		ša/ib		"water bearer, water carrier, water provider"
+𐎒̌𐎛𐎁𐎚		šibt		"water bearer"
+𐎒̌71		/š-7-1/	[verb] G	1)		"to ask, request in general"
+𐎒̌𐎀𐎍		šal		"claim, demand"
+𐎒̌𐎛𐎍		šil		"interrogator, cultic questioner, diviner"
+𐎒̌𐎛𐎐		šin	1)		"shoe, sandal"
 /š-?-r/vb Gt	1)		"to remain"
 to be in debit"
-𐎒𐎛𐎗 	 sir		"flesh"
-𐎒̌𐎛𐎊 	 šiy		"assassin"	Akk. še?uC>)
-𐎒̌𐎓𐎗 	 šîr	1)		"hair, hairs"
-𐎒̌𐎓𐎗𐎎 	 šîrm		"barley"
-𐎒̌𐎓𐎚𐎖 	 šîtq	adj./		"noble"
-𐎒̌𐎁 	 šb		"old man, elderly man" < grey-haired, white-haired  
-𐎒̌𐎁𐎓 	 /š-b-î/	[verb] D		"to repeat for the seventh time" . 
-𐎒̌𐎁𐎓 	 /š-b-î/	[verb] G		"to be sated, glutted"
-𐎒̌𐎁𐎓 	 šbî	n.	num.		"seven" HALOT 1399f
-𐎒̌𐎁𐎓 	 šbî	num	ord.		"seventh"
+𐎒𐎛𐎗		sir		"flesh"
+𐎒̌𐎛𐎊		šiy		"assassin"	Akk. še?uC>)
+𐎒̌𐎓𐎗		šîr	1)		"hair, hairs"
+𐎒̌𐎓𐎗𐎎		šîrm		"barley"
+𐎒̌𐎓𐎚𐎖		šîtq	adj./		"noble"
+𐎒̌𐎁		šb		"old man, elderly man" < grey-haired, white-haired  
+𐎒̌𐎁𐎓		/š-b-î/	[verb] D		"to repeat for the seventh time" . 
+𐎒̌𐎁𐎓		/š-b-î/	[verb] G		"to be sated, glutted"
+𐎒̌𐎁𐎓		šbî	n.	num.		"seven" HALOT 1399f
+𐎒̌𐎁𐎓		šbî	num	ord.		"seventh"
 šbî d	adv.,		"seven times" {šbî + -id
 š bîm	n.	num.		"seventy"	Hb. šbîym, HALOT 1400
-𐎒̌𐎁𐎍𐎚 	 šblt		"ear, spike"
-𐎒̌𐎁𐎎 	 /š-b-m/	[verb] Gt		"to muzzle"
-𐎒̌𐎁𐎎 	 šbm		"muzzle"
-𐎒̌𐎁𐎗 	 šbr		"stick, staff*  
-𐎒̌𐎁𐎒̌ 	 /š-b-š/	[verb] D		"to attract, seduce"/		"to collect"
-𐎒̌𐎁𐎒̌𐎍𐎚 	 šbšlt		"stew"
-𐎒̌𐎁𐎚 	 /š-b-t/	[verb] D		"to stop, detain, suspend"
-𐎒̌𐎁𐎚 	 šbt		"greyness > old age"
-𐎒̌𐎁𐎊 	 šby		"captive"
-𐎒̌𐎏 	 šd	1)		"open field, stretch of cultivated land"
-𐎒̌𐎏 	 šd		"a 'strip', a 'length' of land", patch 
-𐎒̌𐎏𐎏 	 /š-d-d/	[verb] N		"to be drawn md vailable"
-𐎒̌𐎏𐎏 	 /š-d-d/	[verb] G		"to devastate"
-𐎒̌𐎏𐎎𐎚 	 šdmt		"terrace"
-𐎒̌𐎏𐎊 	 /š-d-y/	[verb] G		"to pour"
-𐎒̌𐎙𐎗 	 šgr		"offspring of cattle"
-𐎒̌𐎅 	 /š-h/	[verb] Št		"?" in	unc.	ctx. 
-𐎒̌𐎅𐎍𐎚 	 šhlt		"cress seeds" HW 257
-𐎒̌𐎅𐎗 	 šhr	1)		"dawn, daybreak, morning, tomorrow"
-𐎒̌𐎅𐎚 	 šht		"shrub, bush"
-𐎒̌𐎅𐎐 	 /š-h-n/	[verb] G		"to have a fever, be hot"
-𐎒̌𐎅𐎔 	 šhp		"colostrum, first milk"  fein ', Arab, sahufk, Del Olmo MLC 628
+𐎒̌𐎁𐎍𐎚		šblt		"ear, spike"
+𐎒̌𐎁𐎎		/š-b-m/	[verb] Gt		"to muzzle"
+𐎒̌𐎁𐎎		šbm		"muzzle"
+𐎒̌𐎁𐎗		šbr		"stick, staff*  
+𐎒̌𐎁𐎒̌		/š-b-š/	[verb] D		"to attract, seduce"/		"to collect"
+𐎒̌𐎁𐎒̌𐎍𐎚		šbšlt		"stew"
+𐎒̌𐎁𐎚		/š-b-t/	[verb] D		"to stop, detain, suspend"
+𐎒̌𐎁𐎚		šbt		"greyness > old age"
+𐎒̌𐎁𐎊		šby		"captive"
+𐎒̌𐎏		šd	1)		"open field, stretch of cultivated land"
+𐎒̌𐎏		šd		"a 'strip', a 'length' of land", patch 
+𐎒̌𐎏𐎏		/š-d-d/	[verb] N		"to be drawn md vailable"
+𐎒̌𐎏𐎏		/š-d-d/	[verb] G		"to devastate"
+𐎒̌𐎏𐎎𐎚		šdmt		"terrace"
+𐎒̌𐎏𐎊		/š-d-y/	[verb] G		"to pour"
+𐎒̌𐎙𐎗		šgr		"offspring of cattle"
+𐎒̌𐎅		/š-h/	[verb] Št		"?" in	unc.	ctx. 
+𐎒̌𐎅𐎍𐎚		šhlt		"cress seeds" HW 257
+𐎒̌𐎅𐎗		šhr	1)		"dawn, daybreak, morning, tomorrow"
+𐎒̌𐎅𐎚		šht		"shrub, bush"
+𐎒̌𐎅𐎐		/š-h-n/	[verb] G		"to have a fever, be hot"
+𐎒̌𐎅𐎔		šhp		"colostrum, first milk"  fein ', Arab, sahufk, Del Olmo MLC 628
 of his infancy,	1.10 111*25-26." */š-h-t/
-𐎒̌𐎅𐎚 	 šht		"butcher, slaughterer"
-𐎒̌𐎋𐎁 	 /š-k-b/	[verb] G	1)		"to l votzenie down
-𐎒̌𐎋𐎅 	 /š-k-h/	[verb] G		"to meet"
-𐎒̌𐎋𐎍𐎍𐎚 	 škllt		"emaciated"
-𐎒̌𐎋𐎎 	 škm		"one who brays, donkey"
-𐎒̌𐎋𐎐 	 /š-k-n/	[verb] G		"to be placed, settle, stay"
-𐎒̌𐎋𐎗 	 /š-k-r/	[verb] G		"to hire out"
-𐎒̌𐎋𐎗 	 /š-k-r/	[verb] G		"to become intoxicated"
-𐎒̌𐎋𐎗𐎐 	 škrn		"intoxication" adrett
-𐎒̌𐎍𐎅 	 /š-l-h/	[verb] G	1)		"to stretch, throw", "to send"
-𐎒̌𐎍𐎅 	 /š-l-h/	[verb] G		"to melt, smelt"
-𐎒̌𐎍𐎅𐎎𐎚 	 šlhmt		"provisions, victuals"
-𐎒̌𐎍 	 /š-l/	[verb] G		"to plunder, rob"
-𐎒̌𐎍𐎎 	 /š-l-m/	[verb] G		"to be well, do well, be in peace"
-𐎒̌𐎍𐎎 	 šlm		"peace", "health", "well-being", "prosperity" m, HALOT 1506ff ACKER
-𐎒̌𐎍𐎎 	 šlm		"communion victim / sacrifice, 'peace-offering		"*  a'kurata
-𐎒̌𐎍𐎎 	 šlm		"pure"
-𐎒̌𐎍𐎎𐎚 	 šlmt		"health"
-𐎒̌𐎍𐎒̌ 	 šlš	n. cardinal	m.		"three",	4.710sst	n. cardinal	f.		"three",	4.710
-𐎒̌𐎍𐎆 	 /š-l-w/	[verb] G		"to rest"
-𐎒̌𐎍𐎊𐎚 	 šlyt	n.	m.,		"tyrant**,		"powerful", epithet ofthe aloved monster tnn  a'hobet o'habet
-𐎒̌𐎎 	 šm		"name"
-𐎒̌𐎎𐎀𐎍 	 šmal	adj./1)		"left"
-𐎒̌𐎎𐎓 	 /š-m-î/	[verb] G		"to hear, listen notice" ECHAT,erst
-𐎒̌𐎎𐎓 	 šmî		"auditor", administrator 
-𐎒̌𐎎𐎅 	 /š-m-h/	[verb] G	1)		"to be glad, rejoice"
-𐎅𐎀𐎔𐎔𐎊" 	 happy"
-𐎒̌𐎎𐎅𐎚 	 šmht	n.~	f.		"joy"
-𐎒̌𐎎𐎍 	 šml		"commercial agent"
+𐎒̌𐎅𐎚		šht		"butcher, slaughterer"
+𐎒̌𐎋𐎁		/š-k-b/	[verb] G	1)		"to l votzenie down
+𐎒̌𐎋𐎅		/š-k-h/	[verb] G		"to meet"
+𐎒̌𐎋𐎍𐎍𐎚		škllt		"emaciated"
+𐎒̌𐎋𐎎		škm		"one who brays, donkey"
+𐎒̌𐎋𐎐		/š-k-n/	[verb] G		"to be placed, settle, stay"
+𐎒̌𐎋𐎗		/š-k-r/	[verb] G		"to hire out"
+𐎒̌𐎋𐎗		/š-k-r/	[verb] G		"to become intoxicated"
+𐎒̌𐎋𐎗𐎐		škrn		"intoxication" 
+𐎒̌𐎍𐎅		/š-l-h/	[verb] G	1)		"to stretch, throw", "to send"
+𐎒̌𐎍𐎅		/š-l-h/	[verb] G		"to melt, smelt"
+𐎒̌𐎍𐎅𐎎𐎚		šlhmt		"provisions, victuals"
+𐎒̌𐎍		/š-l/	[verb] G		"to plunder, rob"
+𐎒̌𐎍𐎎		/š-l-m/	[verb] G		"to be well, do well, be in peace"
+𐎒̌𐎍𐎎		šlm		"peace", "health", "well-being", "prosperity" m, HALOT 1506ff ACKER
+𐎒̌𐎍𐎎		šlm		"communion victim / sacrifice, 'peace-offering		"*  a'kurata
+𐎒̌𐎍𐎎		šlm		"pure"
+𐎒̌𐎍𐎎𐎚		šlmt		"health"
+𐎒̌𐎍𐎒̌		šlš	n. cardinal	m.		"three",	4.710sst	n. cardinal	f.		"three",	4.710
+𐎒̌𐎍𐎆		/š-l-w/	[verb] G		"to rest"
+𐎒̌𐎍𐎊𐎚		šlyt	n.	m.,		"tyrant**,		"powerful", epithet ofthe aloved monster tnn  a'hobet o'habet
+𐎒̌𐎎		šm		"name"
+𐎒̌𐎎𐎀𐎍		šmal	adj./1)		"left"
+𐎒̌𐎎𐎓		/š-m-î/	[verb] G		"to hear, listen notice" 
+𐎒̌𐎎𐎓		šmî		"auditor", administrator 
+𐎒̌𐎎𐎅		/š-m-h/	[verb] G	1)		"to be glad, rejoice"
+𐎅𐎀𐎔𐎔𐎊"		happy"
+𐎒̌𐎎𐎅𐎚		šmht	n.~	f.		"joy"
+𐎒̌𐎎𐎍		šml		"commercial agent"
 2) DN		"Heavens", in god lists
 šmn   lfoil"
-𐎒̌𐎎𐎐 	 šmn		"fat, fatling"	Hb. šm votzenn, HALOT 1567
+𐎒̌𐎎𐎐		šmn		"fat, fatling"	Hb. šm votzenn, HALOT 1567
 1.15 IV 15andV«		"- 
-𐎒̌𐎎𐎐 	 šmn		"oil",	etc.,	4.31
-𐎒𐎎𐎐𐎚 	 smnt	n. cardinal	f.		"eight",	4.710
-𐎒̌𐎎𐎗𐎙𐎚 	 šmrgt	adj.	f.		"coated"
-𐎒̌𐎎𐎗𐎗 	 šmrr		"poisoning, poison" / Cf Pardee UF 10 1978 256
-𐎒̌𐎎𐎚 	 šmt		"fat, grease" Arab, sumnat, Lane 1432
-𐎒̌𐎎𐎚 	 šmt		"reddish shade" adrett
-𐎒̌𐎎𐎚𐎗 	 šmtr		"cutting"
-𐎒̌𐎐 	 šn	n. m/f.	1)		"tooth"
-𐎒̌𐎐7 	 /š-n-7/	[verb] G		"to hate, loathe"
-𐎒̌𐎐𐎜 	 šnu		"enemy" n?, HALOT 1339
-𐎒̌𐎐𐎓𐎚 	 šnît		"?", possibly the name of a kind of bird 
-𐎒̌𐎐𐎐 	 /š-n-n/	[verb] G/D '-to grind teeth" ACKER
-𐎒̌𐎐𐎚 	 šnt		"year" a'kurata
-𐎒̌𐎐𐎚 	 šnt		"sleep"
-𐎒̌𐎐𐎆 	 /š-n-w/	[verb] G	1)		"to be disfigured, deformed, to transform"
-𐎒̌𐎔 	 šp		"dune"
-𐎒̌𐎔𐎅 	 šph		"family, offspring, descendants, clan"  = h)é-iš-ši = šap-hu, Ug 5 131 5'
-𐎒̌𐎔𐎋 	 /š-p-k/	[verb] G		"to spill, shed" aloved a'hobet o'habet
-𐎒̌𐎔1 	 /š-p-1/	[verb] G		"to bend down, stoop", "plunge"
-𐎒̌𐎔𐎗 	 špr	n.	m.,		"horn"   pr, HALOT 1447f
-𐎒̌𐎔𐎒̌ 	 špš	n.	f./m.	1)		"sun" ECHAT,erst
-𐎒̌𐎔𐎚 	 špt		"lip" tum / in SAGDAR - sa-ba-tum, sa-ib -tùm, VE 245
-𐎒̌𐎖 	 šq		"thigh, leg"
-𐎒̌𐎖𐎍 	 šql		"shekel",	4.710
-𐎒̌𐎖𐎔 	 /š-q-p/	[verb] G		"to notice, realize"
-𐎒̌𐎖𐎊 	 /š-q-y/	[verb] G		"to offer   drink"
-𐎒̌𐎖𐎊 	 šqy		"cupbearer, wine waiter" šq). 
-𐎒̌𐎗 	 /š-r/	[verb] G		"to sing"
-𐎒̌𐎗 	 /š-r/	[verb] G		"to threaten", "to trap", "to besiege"
-𐎒̌𐎗 	 šr		"song"
-𐎒̌𐎗 	 šr	1)		"musician, singer"
-𐎒̌𐎗 	 šr	1)		"prince, sovereign", divine title
-𐎒̌𐎗 	 šr		"navel"
-𐎒̌𐎗 	 šr		"?" \
-𐎒̌𐎗? 	 šr?		"flow"
-𐎒̌𐎗𐎏 	 /š-r-d/	[verb] D		"to honour", "to serve"
-𐎒̌𐎗𐎙 	 /š-r-g/	[verb] G		"to twist, tangle up > to deceive, delude, entangle"
-𐎒̌𐎗𐎋 	 /š-r-k/	[verb] G		"to team up with, to join"
-𐎒̌𐎗𐎔 	 /š-r-p/	[verb] G		"to bum"
-𐎒̌𐎗𐎔 	 šrp		"burnt sacrifice, burnt offering, holocaust"
-𐎒̌𐎗𐎗 	 šrr		"enemy"
-𐎒̌𐎗𐎒̌ 	 šrš	n.	m.,	1)		"root, shoot"
-𐎒̌𐎗𐎚 	 šrt		"?"
-𐎒̌𐎗𐎊𐎆 	 /š-r-y/w/	[verb] G		"to release"
-𐎒̌ 	 š		"š	n. cardinal	m.		"six",	4.31
-𐎒̌𐎒̌𐎍𐎎𐎚 	 ššlmt		"supplementary delivery or ration"
-𐎒̌𐎒̌𐎎𐎐 	 ššmn		"sesame" am a-,
-𐎒̌𐎒̌𐎗 	 ššr	n.	m., reddish colouring agent, possibly		"minium"
-𐎒̌𐎒̌𐎗𐎚 	 ššrt	1)		"chain"
-𐎒̌𐎚 	 /š-t/	[verb] G	1)		"to place, set, set up, leave"
-𐎒̌𐎚 	 št		"base, foot"
-𐎒̌𐎚 	 št		"tearing apart, separation, desolation"
-𐎒̌𐎚𐎋 	 /š-t-k/	[verb] G		"to leave, go backwards, cease"
-𐎒̌𐎚𐎎 	 /š-t-m/	[verb] G		"to close to muzzle" Arab, šatama
-𐎒̌𐎚𐎚 	 štt	adj.	f.		"spun, woven"
-𐎒̌𐎚𐎊 	 /š-t-y/	[verb] G		"to drink"
-𐎒̌𐎚𐎔 	 štp		"?", a commodity  p, 
-𐎒̌𐎕𐎗 	 šzr		"cord"
-𐎚𐎜 	 tu		"guardroom, guardhouse"
-𐎚𐎀𐎜𐎐𐎚 	 ta/unt		"whispering, conversation,		"groaning"
-𐎚𐎛𐎐𐎚𐎚 	 tintt		"the female sex, women"
-𐎚𐎀𐎗 	 tar		"glory, splendour"
-𐎚𐎛𐎒̌𐎗 	 tišr		"cypress"
-𐎋𐎀𐎛 	 KAI	[verb] G/N		"to attack"
-𐎚𐎁𐎏𐎚 	 tVdt		"embassy, accreditation", abstract for concrete 
-𐎚𐎓𐎏𐎗 	 tîdr		"help, protection"
-𐎚𐎓𐎍𐎙𐎚 	 tîlgt		"bleat lowing"
-𐎉𐎒𐎛̀𐎉 	 XSÌX	n.	f.,		"superior power" >		"magic, charm or spell" .
-𐎚𐎁𐎗𐎚 	 tVrt	1)		"sheath" 2)		"quiver"
-𐎚𐎁𐎓 	 /t-b-î/	[verb] G	1)		"to go, leave, depart"
-𐎚𐎁𐎛 	 tbi		"blacksmith, smelter"
-𐎚𐎁𐎗𐎗𐎚 	 tbrrt		"exemption, tax exemption" /). 
-𐎚𐎁𐎒𐎗 	 tbsr		"examination" /		"expropiation"    or /b-s-r/ 
-𐎚𐎁𐎚𐎅 	 tbth		"bed"
-𐎚𐎏𐎙𐎗 	 tdgr		"chief, one responsible"
-𐎚𐎏𐎎𐎎 	 tdmm		"lascivious, degrading treatment"
-𐎚𐎏𐎎𐎎𐎚 	 tdmmt		"lasciviousness"
+𐎒̌𐎎𐎐		šmn		"oil",	etc.,	4.31
+𐎒𐎎𐎐𐎚		smnt	n. cardinal	f.		"eight",	4.710
+𐎒̌𐎎𐎗𐎙𐎚		šmrgt	adj.	f.		"coated"
+𐎒̌𐎎𐎗𐎗		šmrr		"poisoning, poison" / Cf Pardee UF 10 1978 256
+𐎒̌𐎎𐎚		šmt		"fat, grease" Arab, sumnat, Lane 1432
+𐎒̌𐎎𐎚		šmt		"reddish shade" 
+𐎒̌𐎎𐎚𐎗		šmtr		"cutting"
+𐎒̌𐎐		šn	n. m/f.	1)		"tooth"
+𐎒̌𐎐7		/š-n-7/	[verb] G		"to hate, loathe"
+𐎒̌𐎐𐎜		šnu		"enemy" n?, HALOT 1339
+𐎒̌𐎐𐎓𐎚		šnît		"?", possibly the name of a kind of bird 
+𐎒̌𐎐𐎐		/š-n-n/	[verb] G/D '-to grind teeth" ACKER
+𐎒̌𐎐𐎚		šnt		"year" a'kurata
+𐎒̌𐎐𐎚		šnt		"sleep"
+𐎒̌𐎐𐎆		/š-n-w/	[verb] G	1)		"to be disfigured, deformed, to transform"
+𐎒̌𐎔		šp		"dune"
+𐎒̌𐎔𐎅		šph		"family, offspring, descendants, clan"  = h)é-iš-ši = šap-hu, Ug 5 131 5'
+𐎒̌𐎔𐎋		/š-p-k/	[verb] G		"to spill, shed" 
+𐎒̌𐎔1		/š-p-1/	[verb] G		"to bend down, stoop", "plunge"
+𐎒̌𐎔𐎗		špr	n.	m.,		"horn"   pr, HALOT 1447f
+𐎒̌𐎔𐎒̌		špš	n.	f./m.	1)		"sun" 
+𐎒̌𐎔𐎚		špt		"lip" tum / in SAGDAR-sa-ba-tum, sa-ib -tùm, VE 245
+𐎒̌𐎖		šq		"thigh, leg"
+𐎒̌𐎖𐎍		šql		"shekel",	4.710
+𐎒̌𐎖𐎔		/š-q-p/	[verb] G		"to notice, realize"
+𐎒̌𐎖𐎊		/š-q-y/	[verb] G		"to offer   drink"
+𐎒̌𐎖𐎊		šqy		"cupbearer, wine waiter" šq). 
+𐎒̌𐎗		/š-r/	[verb] G		"to sing"
+𐎒̌𐎗		/š-r/	[verb] G		"to threaten", "to trap", "to besiege"
+𐎒̌𐎗		šr		"song"
+𐎒̌𐎗		šr	1)		"musician, singer"
+𐎒̌𐎗		šr	1)		"prince, sovereign", divine title
+𐎒̌𐎗		šr		"navel"
+𐎒̌𐎗		šr		"?" \
+𐎒̌𐎗?		šr?		"flow"
+𐎒̌𐎗𐎏		/š-r-d/	[verb] D		"to honour", "to serve"
+𐎒̌𐎗𐎙		/š-r-g/	[verb] G		"to twist, tangle up > to deceive, delude, entangle"
+𐎒̌𐎗𐎋		/š-r-k/	[verb] G		"to team up with, to join"
+𐎒̌𐎗𐎔		/š-r-p/	[verb] G		"to bum"
+𐎒̌𐎗𐎔		šrp		"burnt sacrifice, burnt offering, holocaust"
+𐎒̌𐎗𐎗		šrr		"enemy"
+𐎒̌𐎗𐎒̌		šrš	n.	m.,	1)		"root, shoot"
+𐎒̌𐎗𐎚		šrt		"?"
+𐎒̌𐎗𐎊𐎆		/š-r-y/w/	[verb] G		"to release"
+𐎒̌		š		"š	n. cardinal	m.		"six",	4.31
+𐎒̌𐎒̌𐎍𐎎𐎚		ššlmt		"supplementary delivery or ration"
+𐎒̌𐎒̌𐎎𐎐		ššmn		"sesame" am a-,
+𐎒̌𐎒̌𐎗		ššr	n.	m., reddish colouring agent, possibly		"minium"
+𐎒̌𐎒̌𐎗𐎚		ššrt	1)		"chain"
+𐎒̌𐎚		/š-t/	[verb] G	1)		"to place, set, set up, leave"
+𐎒̌𐎚		št		"base, foot"
+𐎒̌𐎚		št		"tearing apart, separation, desolation"
+𐎒̌𐎚𐎋		/š-t-k/	[verb] G		"to leave, go backwards, cease"
+𐎒̌𐎚𐎎		/š-t-m/	[verb] G		"to close to muzzle" Arab, šatama
+𐎒̌𐎚𐎚		štt	adj.	f.		"spun, woven"
+𐎒̌𐎚𐎊		/š-t-y/	[verb] G		"to drink"
+𐎒̌𐎚𐎔		štp		"?", a commodity  p, 
+𐎒̌𐎕𐎗		šzr		"cord"
+𐎚𐎜		tu		"guardroom, guardhouse"
+𐎚𐎀𐎜𐎐𐎚		ta/unt		"whispering, conversation,		"groaning"
+𐎚𐎛𐎐𐎚𐎚		tintt		"the female sex, women"
+𐎚𐎀𐎗		tar		"glory, splendour"
+𐎚𐎛𐎒̌𐎗		tišr		"cypress"
+𐎋𐎀𐎛		KAI	[verb] G/N		"to attack"
+𐎚𐎁𐎏𐎚		tVdt		"embassy, accreditation", abstract for concrete 
+𐎚𐎓𐎏𐎗		tîdr		"help, protection"
+𐎚𐎓𐎍𐎙𐎚		tîlgt		"bleat lowing"
+𐎉𐎒𐎛̀𐎉		XSÌX	n.	f.,		"superior power" >		"magic, charm or spell" .
+𐎚𐎁𐎗𐎚		tVrt	1)		"sheath" 2)		"quiver"
+𐎚𐎁𐎓		/t-b-î/	[verb] G	1)		"to go, leave, depart"
+𐎚𐎁𐎛		tbi		"blacksmith, smelter"
+𐎚𐎁𐎗𐎗𐎚		tbrrt		"exemption, tax exemption" /). 
+𐎚𐎁𐎒𐎗		tbsr		"examination" /		"expropiation"    or /b-s-r/ 
+𐎚𐎁𐎚𐎅		tbth		"bed"
+𐎚𐎏𐎙𐎗		tdgr		"chief, one responsible"
+𐎚𐎏𐎎𐎎		tdmm		"lascivious, degrading treatment"
+𐎚𐎏𐎎𐎎𐎚		tdmmt		"lasciviousness"
 tdtt type of		"collar, front"
-𐎚𐎙𐎅 	 tgh		"absence" /
-𐎚𐎙𐎎𐎗 	 tgmr		"totalit,ttal"
-𐎚𐎙𐎗 	 tgr		"?"
+𐎚𐎙𐎅		tgh		"absence" /
+𐎚𐎙𐎎𐎗		tgmr		"totalit,ttal"
+𐎚𐎙𐎗		tgr		"?"
 t pt	n.	m., a type of		"packsaddle, nosebag" or		"felt"
-𐎚𐎙̇𐎕𐎊𐎚 	 tġzyt		"offering, libation" ', Arab, ġaddä)
-𐎚𐎅𐎎 	 thm	1)		"ocean"
-𐎚𐎅𐎎𐎚 	 thmt		"primordial ocean", "abyss" tum/ in
-𐎚𐎅𐎆 	 thw		"steppe, desert"
-𐎚𐎅𐎎 	 thm		"message, decree"
-𐎚𐎅𐎚 	 tht	prep.,	1) '-under, beneath"
-𐎚𐎅𐎚 	 tht	adv.		"underneath"
-𐎚𐎅𐎚𐎊𐎚 	 thtyt	adj.	f.		"lower" DNWSI 1211
-𐎚𐎅𐎚𐎒𐎁 	 thtsb		"battle"
-𐎚𐎋 	 tk		"centre, middle", used as a	prep.	1)		"in, in the midst of,
+𐎚𐎙̇𐎕𐎊𐎚		tġzyt		"offering, libation" ', Arab, ġaddä)
+𐎚𐎅𐎎		thm	1)		"ocean"
+𐎚𐎅𐎎𐎚		thmt		"primordial ocean", "abyss" tum/ in
+𐎚𐎅𐎆		thw		"steppe, desert"
+𐎚𐎅𐎎		thm		"message, decree"
+𐎚𐎅𐎚		tht	prep.,	1) '-under, beneath"
+𐎚𐎅𐎚		tht	adv.		"underneath"
+𐎚𐎅𐎚𐎊𐎚		thtyt	adj.	f.		"lower" DNWSI 1211
+𐎚𐎅𐎚𐎒𐎁		thtsb		"battle"
+𐎚𐎋		tk		"centre, middle", used as a	prep.	1)		"in, in the midst of,
 among" votzen
-𐎚𐎋𐎚 	 tkt		"?", in prt tkt,	1.86
-𐎚𐎍 	 tl		"hill, hillock, knoll"
-𐎚𐎍𐎛𐎊𐎚 	 tliyt		"triumph, victory"
-𐎚𐎍𐎓 	 tlî		"high part" > in anatomy, of the		"neck", "nape" or the		"chest", "thorax"
-𐎚𐎍𐎎 	 tlm	n. m		"furrow"
-𐎚𐎍𐎎𐎏 	 tlmd		"trainer, one being tamed"
-tm ,		"complete, fulf  / adrett
-𐎚𐎎𐎐 	 tmn		"frame, form"
-𐎎𐎛𐎐𐎚 	 mint	n.m.,		"frame, form"	Hb. tmwnh, HALOT	1746f. 
-𐎚𐎎𐎚𐎅𐎒 	 tmths		"fight"
-𐎚𐎎𐎚𐎚 	 tmtt		"group of men, team", "crew" Cf Dietrich - Loretz BiOr 23 1966 132
-𐎚𐎎𐎚𐎍 	 tmtl	n.	m.,		"equal amount, equivalent, just as much"
-𐎚𐎐𐎎𐎊 	 tnmy		"overflow" ACKER
+𐎚𐎋𐎚		tkt		"?", in prt tkt,	1.86
+𐎚𐎍		tl		"hill, hillock, knoll"
+𐎚𐎍𐎛𐎊𐎚		tliyt		"triumph, victory"
+𐎚𐎍𐎓		tlî		"high part" > in anatomy, of the		"neck", "nape" or the		"chest", "thorax"
+𐎚𐎍𐎎		tlm	n. m		"furrow"
+𐎚𐎍𐎎𐎏		tlmd		"trainer, one being tamed"
+tm ,		"complete, fulf  / 
+𐎚𐎎𐎐		tmn		"frame, form"
+𐎎𐎛𐎐𐎚		mint	n.m.,		"frame, form"	Hb. tmwnh, HALOT	1746f. 
+𐎚𐎎𐎚𐎅𐎒		tmths		"fight"
+𐎚𐎎𐎚𐎚		tmtt		"group of men, team", "crew" Cf Dietrich-Loretz BiOr 23 1966 132
+𐎚𐎎𐎚𐎍		tmtl	n.	m.,		"equal amount, equivalent, just as much"
+𐎚𐎐𐎎𐎊		tnmy		"overflow" ACKER
 tnn   DN,		"dragon" ym\ a'kurata primordial ally or double  
-𐎚𐎐𐎖𐎚 	 tnqt		"scream"
-𐎚𐎐𐎖𐎚 	 tnqt		"lactation, nursing"
-𐎚𐎐𐎚 	 tnt		"?", in	unc.	ctx.
-𐎚𐎔 	 tp		"drum" or		"tambourine"
-𐎚𐎔 	 tp		"beauty" aloved a'hobet o'habet
-𐎚𐎔𐎅 	 tph		"appearance, manifestation"    /p-h-y/. 
-𐎚𐎔𐎅 	 tph		"apple"
-𐎚𐎔𐎐𐎗 	 tpnr	n.	m., Hittite dignitary,		"commissioner" ECHAT,erst
+𐎚𐎐𐎖𐎚		tnqt		"scream"
+𐎚𐎐𐎖𐎚		tnqt		"lactation, nursing"
+𐎚𐎐𐎚		tnt		"?", in	unc.	ctx.
+𐎚𐎔		tp		"drum" or		"tambourine"
+𐎚𐎔		tp		"beauty" 
+𐎚𐎔𐎅		tph		"appearance, manifestation"    /p-h-y/. 
+𐎚𐎔𐎅		tph		"apple"
+𐎚𐎔𐎐𐎗		tpnr	n.	m., Hittite dignitary,		"commissioner" 
 Hittite dignitary,		"commissioner"
-𐎚𐎔𐎒̌𐎍𐎚 	 tpšlt		"oppression" 	Akk. pašālu, AHw	841. 
+𐎚𐎔𐎒̌𐎍𐎚		tpšlt		"oppression"		Akk. pašālu, AHw	841. 
 tqnt" property"  < /q-n-y/
-𐎚𐎗 	 /t-r/	[verb] G		"to scour, travel through"
-𐎚𐎗 	 tr		"pole, steering pole** of a chariot
-𐎚𐎗 	 tr		"turtledove** {Streptopelia turtur,	Hb. twr, HALOT 1709f
-𐎚𐎗𐎓 	 /t-r-î/	[verb] G		"to crack"
-𐎚𐎗𐎁𐎒 	 trbs		"yard" >		"reserve"
-𐎚𐎗𐎁𐎊𐎚 	 trbyt		"profit, commercial interest"
-𐎚𐎗𐎅 	 trh		"flask, jar"
-𐎚𐎗𐎅 	 /t-r-h/	[verb] G/D		"to marry, get married" <		"to pay the brideprice"
-𐎚𐎗𐎅 	 trh		"newlywed, groom"
-𐎚𐎗𐎅𐎚𐎚 	 trhtt		"the handing over of the bride price"
-𐎚𐎗𐎀𐎛𐎚 	 trait		"offering"
-𐎚𐎗𐎐 	 trn		"mast of a ship"
+𐎚𐎗		/t-r/	[verb] G		"to scour, travel through"
+𐎚𐎗		tr		"pole, steering pole** of a chariot
+𐎚𐎗		tr		"turtledove** {Streptopelia turtur,	Hb. twr, HALOT 1709f
+𐎚𐎗𐎓		/t-r-î/	[verb] G		"to crack"
+𐎚𐎗𐎁𐎒		trbs		"yard" >		"reserve"
+𐎚𐎗𐎁𐎊𐎚		trbyt		"profit, commercial interest"
+𐎚𐎗𐎅		trh		"flask, jar"
+𐎚𐎗𐎅		/t-r-h/	[verb] G/D		"to marry, get married" <		"to pay the brideprice"
+𐎚𐎗𐎅		trh		"newlywed, groom"
+𐎚𐎗𐎅𐎚𐎚		trhtt		"the handing over of the bride price"
+𐎚𐎗𐎀𐎛𐎚		trait		"offering"
+𐎚𐎗𐎐		trn		"mast of a ship"
 /t-r-r/ D		"to make tremble"
-𐎚𐎗𐎒 	 trs		"correct"
-𐎚𐎗𐎚 	 trt	1)		"new wine"
-𐎚𐎗𐎕𐎕 	 trzz		"light march, speed"
-𐎚𐎒𐎎 	 tsm		"beauty"
-𐎚𐎒̌? 	 tš?	n.	num.		"nine"
+𐎚𐎗𐎒		trs		"correct"
+𐎚𐎗𐎚		trt	1)		"new wine"
+𐎚𐎗𐎕𐎕		trzz		"light march, speed"
+𐎚𐎒𐎎		tsm		"beauty"
+𐎚𐎒̌?		tš?	n.	num.		"nine"
 t šîm	n.	num.		"ninety"
-𐎚𐎒̌𐎋𐎐 	 tškn		"redemption, ransom"
-𐎚𐎒̌𐎚 	 tšt		"wish" <		"proposal"
-𐎚𐎒̌𐎊𐎚 	 tšyt		"triumph, success"
-𐎚𐎚𐎋𐎐 	 ttkn		"assertion"   nominal pattern < /k-n/
-𐎚𐎕𐎐𐎚 	 tznt		"provisions, administration"
-𐎚𐎓𐎐 	 /t-î-n/	v. G		"to attack, destroy"
-𐎚𐎁 	 tb		"good, pure, sterling"
-𐎚𐎁𐎅 	 /t-b-h/	v. G		"to sacrifice, butcher"
-𐎚𐎁𐎅 	 tbh		"sacrificer"
-𐎚𐎁𐎐 	 tbn	n.	m.~		"sweetness"
-𐎚𐎁𐎖 	 /t-b-q/	v. G		"to shut, close"
-𐎚𐎅𐎗 	 thr		"pure, sparkling"
-𐎚𐎅𐎍 	 thl		"spleen"
-𐎚𐎅𐎐 	 /t-h-n/	v.	G.		"to grind, crush"
-𐎚𐎅 	 /t-h/	v. G		"to plaster"
-𐎚𐎍 	 tl		"dew"
-𐎚11 	 /t-1-1/	v. D		"to drop dew"
-𐎚𐎎𐎚 	 /t-m-t/	v. G		"to bleed"
-𐎚𐎗𐎊 	 try		"fresh food"
-𐎚𐎚 	 tt		"mud"
-𐎚𐎛𐎙𐎚 	 tigt		"neighing"
-𐎚?𐎗 	 /t-?-r/	[verb] G/D		"to avenge blood" >		"to stand surety for", "to ensure
-𐎅𐎓𐎐𐎓𐎜𐎗" 	 honour"
-𐎚𐎀𐎗 	 tar		"avenger" >		"the closest and dearest relative who 'does justice'" ', Arab, tāîir, Watson JNSL 22 1996 79
-𐎚𐎀𐎚 	 tat		"ewe"
-𐎚𐎛𐎚 	 tit		"mud, clay"
-𐎚? 	 t?	n.m.,		"offering"
+𐎚𐎒̌𐎋𐎐		tškn		"redemption, ransom"
+𐎚𐎒̌𐎚		tšt		"wish" <		"proposal"
+𐎚𐎒̌𐎊𐎚		tšyt		"triumph, success"
+𐎚𐎚𐎋𐎐		ttkn		"assertion"   nominal pattern < /k-n/
+𐎚𐎕𐎐𐎚		tznt		"provisions, administration"
+𐎚𐎓𐎐		/t-î-n/	v. G		"to attack, destroy"
+𐎚𐎁		tb		"good, pure, sterling"
+𐎚𐎁𐎅		/t-b-h/	v. G		"to sacrifice, butcher"
+𐎚𐎁𐎅		tbh		"sacrificer"
+𐎚𐎁𐎐		tbn	n.	m.~		"sweetness"
+𐎚𐎁𐎖		/t-b-q/	v. G		"to shut, close"
+𐎚𐎅𐎗		thr		"pure, sparkling"
+𐎚𐎅𐎍		thl		"spleen"
+𐎚𐎅𐎐		/t-h-n/	v.	G.		"to grind, crush"
+𐎚𐎅		/t-h/	v. G		"to plaster"
+𐎚𐎍		tl		"dew"
+𐎚11		/t-1-1/	v. D		"to drop dew"
+𐎚𐎎𐎚		/t-m-t/	v. G		"to bleed"
+𐎚𐎗𐎊		try		"fresh food"
+𐎚𐎚		tt		"mud"
+𐎚𐎛𐎙𐎚		tigt		"neighing"
+𐎚?𐎗		/t-?-r/	[verb] G/D		"to avenge blood" >		"to stand surety for", "to ensure
+𐎅𐎓𐎐𐎓𐎜𐎗"		honour"
+𐎚𐎀𐎗		tar		"avenger" >		"the closest and dearest relative who 'does justice'" ', Arab, tāîir, Watson JNSL 22 1996 79
+𐎚𐎀𐎚		tat		"ewe"
+𐎚𐎛𐎚		tit		"mud, clay"
+𐎚?		t?	n.m.,		"offering"
 t ï		"Hero", "Noble",	1) title of the legendary king krt
-𐎍𐎍𐎒𐎛̄𐎍 	 ll-S-īl	[verb] G		"to prepare arrange"
-𐎚𐎛̈𐎊 	 /t-ï-y/	[verb] G		"to offer"
-𐎚𐎛𐎊 	 tfy	1) cult official,		"minister, officiant"
-𐎚𐎁 	 /t-b/	[verb] G	1)		"to return, turn round, go back, make one's way, go
-𐎚𐎅𐎗𐎓𐎜𐎙𐎅" 	 through"
-𐎚𐎁𐎗 	 /t-b-r/	[verb] G		"to break, shatter"
-𐎚𐎁𐎗 	 tbr		"opening"
-𐎚𐎁𐎎 	 tbm	n.	m.,		"opening"
-𐎚𐎁𐎚 	 tbt	1)		"seat, family seat, mansion"
-𐎚𐎏 	 td	1)		"breast, bosom, chest, udder"
+𐎍𐎍𐎒𐎛̄𐎍		ll-S-īl	[verb] G		"to prepare arrange"
+𐎚𐎛̈𐎊		/t-ï-y/	[verb] G		"to offer"
+𐎚𐎛𐎊		tfy	1) cult official,		"minister, officiant"
+𐎚𐎁		/t-b/	[verb] G	1)		"to return, turn round, go back, make one's way, go
+𐎚𐎅𐎗𐎓𐎜𐎙𐎅"		through"
+𐎚𐎁𐎗		/t-b-r/	[verb] G		"to break, shatter"
+𐎚𐎁𐎗		tbr		"opening"
+𐎚𐎁𐎎		tbm	n.	m.,		"opening"
+𐎚𐎁𐎚		tbt	1)		"seat, family seat, mansion"
+𐎚𐎏		td	1)		"breast, bosom, chest, udder"
 tdr ''waitress, girl"
-𐎛𐎏𐎚 	 /i-d-t/	[verb] D		"to repeat for the sixth time**  
-𐎚𐎏𐎚 	 tdt	adj,	ord.	num.		"sixth"
-𐎚𐎙̇𐎗 	 tġr	n.	m.,		"gate, door"
-𐎚𐎙̇𐎗 	 tġr	1)		"gatekeeper"
-𐎚𐎋𐎅 	 /t-k-h/	[verb] G		"to uncover, undress"
-𐎚𐎋1 	 /t-k-1/	[verb] G/D		"to lose, be deprived of children"
-𐎚𐎋𐎍 	 tkl		"sterility, loss of children"
-𐎚𐎋𐎎 	 tkm		"shoulder"
-𐎚𐎋𐎎𐎚 	 tkmt		"she who carries on her shoulders, who shoulders"
-𐎛́𐎋𐎔 	 /í-k-p/	[verb] N		"to be expelled, rejected"   I
-𐎚𐎋𐎗 	 /t-k-r/	[verb] Š		"to deliver"
-𐎚𐎛 	 ti		"?"
-𐎚𐎍𐎁 	 tlb		"flute'*  
-𐎚𐎍𐎅𐎅 	 tlhh		"?" /	GN with	Hurr. morphology 
-𐎚𐎍𐎅𐎎𐎊 	 tlhmy		"?"
-𐎚𐎍𐎅𐎐 	 tlhn		"table"
-𐎚𐎍𐎚 	 /t-l-t/	[verb] D	1)		"to repeat for the third time"
-𐎛𐎍𐎍 	 Ill	n.	num.	1)		"three"
-tit 	ord.	num.		"third"
-𐎚𐎛𐎚 	 tit		"charioteer", "third man", member of the team in a war
-𐎚𐎛𐎚 	 tit	mult.	num.	m.,		"triple", "three times"
-𐎚𐎍𐎛́ 	 tlí	1)		"copper, bronze"
-𐎚𐎚ø𐎐 	 ttøn	n.	num. 'thirty" m/n, DNWSI 1155
-𐎚𐎎 	 tm	adv.	1)		"there"
-𐎚𐎎𐎏𐎍 	 tmdl		"exhaustion, destraction"
+𐎛𐎏𐎚		/i-d-t/	[verb] D		"to repeat for the sixth time**  
+𐎚𐎏𐎚		tdt	adj,	ord.	num.		"sixth"
+𐎚𐎙̇𐎗		tġr	n.	m.,		"gate, door"
+𐎚𐎙̇𐎗		tġr	1)		"gatekeeper"
+𐎚𐎋𐎅		/t-k-h/	[verb] G		"to uncover, undress"
+𐎚𐎋1		/t-k-1/	[verb] G/D		"to lose, be deprived of children"
+𐎚𐎋𐎍		tkl		"sterility, loss of children"
+𐎚𐎋𐎎		tkm		"shoulder"
+𐎚𐎋𐎎𐎚		tkmt		"she who carries on her shoulders, who shoulders"
+𐎛́𐎋𐎔		/í-k-p/	[verb] N		"to be expelled, rejected"   I
+𐎚𐎋𐎗		/t-k-r/	[verb] Š		"to deliver"
+𐎚𐎛		ti		"?"
+𐎚𐎍𐎁		tlb		"flute'*  
+𐎚𐎍𐎅𐎅		tlhh		"?" /	GN with	Hurr. morphology 
+𐎚𐎍𐎅𐎎𐎊		tlhmy		"?"
+𐎚𐎍𐎅𐎐		tlhn		"table"
+𐎚𐎍𐎚		/t-l-t/	[verb] D	1)		"to repeat for the third time"
+𐎛𐎍𐎍		Ill	n.	num.	1)		"three"
+tit		ord.	num.		"third"
+𐎚𐎛𐎚		tit		"charioteer", "third man", member of the team in a war
+𐎚𐎛𐎚		tit	mult.	num.	m.,		"triple", "three times"
+𐎚𐎍𐎛́		tlí	1)		"copper, bronze"
+𐎚𐎚ø𐎐		ttøn	n.	num. 'thirty" m/n, DNWSI 1155
+𐎚𐎎		tm	adv.	1)		"there"
+𐎚𐎎𐎏𐎍		tmdl		"exhaustion, destraction"
 G. To be dazed, to look stunned" in bkn	ctx.
-𐎚𐎎𐎐 	 /t-m-n/	[verb] D		"to do, give eight"
-𐎚𐎎𐎐 	 tmn	n.	num.		"eight"  /tamāniyat, Lane 355	Eth. sémn, CDG	502. 
-𐎚𐎎𐎐 	 tmn	ord.	adj.		"eighth"
-𐎚𐎎𐎐𐎊𐎎 	 tmnym	n.	num.		"eighty"
-𐎚𐎎𐎗 	 tmr		"fennel"
-𐎚𐎐 	 /t-n/	[verb] Gt		"to urinate"
-𐎚𐎐 	 tn	n.	num.	1) '-two		"		"again, twice" Lane	359f. 
-𐎚𐎐 	 tn	num.	adj.	1)		"second"
-𐎛́𐎐 	 ín		"crimson"
-𐎚𐎐𐎛𐎏 	 tnid	adv.,		"twice"  + -id). 
-𐎚𐎐𐎙̇𐎍𐎊 	 tnġly		"deputy, second, of lower rank"
-𐎚𐎐𐎙̇𐎍𐎊𐎚 	 tnġlyt		"substitution, representative"
-𐎚𐎐𐎐 	 tnn		"archer"
-𐎚𐎐𐎚 	 tnt		"urine"
-𐎚𐎐𐎊 	 /t-n-y/	[verb] G		"to repeat, reiterate"
-𐎚𐎔𐎏 	 /t-p-d/	[verb] G 'to place, rest"
-𐎚𐎔𐎅 	 tph		"stock"
-𐎛𐎜𐎒̌𐎔𐎀𐎗𐎜 	 i/ušparu		"weaver", AHw 397, 1441
-𐎚𐎔𐎚 	 tpt		"case, lawsuit, judgment"
-𐎚𐎔𐎚 	 tpt		"judge", divine title  
-𐎚𐎖 	 tq	n.	rn.lt, a cloth or textile,		"sack"
-𐎚𐎖𐎏 	 tqd		"almond"
-𐎛́𐎖𐎍 	 íql		"shekel", a unit of weight
-𐎚𐎗 	 tr	1)		"bull"
-𐎚𐎗𐎏𐎎 	 trdm		"?",	5.23
-𐎚𐎗𐎏𐎊 	 trdy		"?",	5.23
-1𐎗𐎎 	 /1-r-m/	[verb] G		"to cut, carve" >		"to eat, feed oneself
-𐎛𐎅𐎅𐎏" 	 feed"
+𐎚𐎎𐎐		/t-m-n/	[verb] D		"to do, give eight"
+𐎚𐎎𐎐		tmn	n.	num.		"eight"  /tamāniyat, Lane 355	Eth. sémn, CDG	502. 
+𐎚𐎎𐎐		tmn	ord.	adj.		"eighth"
+𐎚𐎎𐎐𐎊𐎎		tmnym	n.	num.		"eighty"
+𐎚𐎎𐎗		tmr		"fennel"
+𐎚𐎐		/t-n/	[verb] Gt		"to urinate"
+𐎚𐎐		tn	n.	num.	1) '-two		"		"again, twice" Lane	359f. 
+𐎚𐎐		tn	num.	adj.	1)		"second"
+𐎛́𐎐		ín		"crimson"
+𐎚𐎐𐎛𐎏		tnid	adv.,		"twice"  + -id). 
+𐎚𐎐𐎙̇𐎍𐎊		tnġly		"deputy, second, of lower rank"
+𐎚𐎐𐎙̇𐎍𐎊𐎚		tnġlyt		"substitution, representative"
+𐎚𐎐𐎐		tnn		"archer"
+𐎚𐎐𐎚		tnt		"urine"
+𐎚𐎐𐎊		/t-n-y/	[verb] G		"to repeat, reiterate"
+𐎚𐎔𐎏		/t-p-d/	[verb] G 'to place, rest"
+𐎚𐎔𐎅		tph		"stock"
+𐎛𐎜𐎒̌𐎔𐎀𐎗𐎜		i/ušparu		"weaver", AHw 397, 1441
+𐎚𐎔𐎚		tpt		"case, lawsuit, judgment"
+𐎚𐎔𐎚		tpt		"judge", divine title  
+𐎚𐎖		tq	n.	rn.lt, a cloth or textile,		"sack"
+𐎚𐎖𐎏		tqd		"almond"
+𐎛́𐎖𐎍		íql		"shekel", a unit of weight
+𐎚𐎗		tr	1)		"bull"
+𐎚𐎗𐎏𐎎		trdm		"?",	5.23
+𐎚𐎗𐎏𐎊		trdy		"?",	5.23
+1𐎗𐎎		/1-r-m/	[verb] G		"to cut, carve" >		"to eat, feed oneself
+𐎛𐎅𐎅𐎏"		feed"
 trmn element of the composite toponym gt trmn  or<	Akk. šurmē/īnu		"cypress", AHw 1284
-𐎚𐎗𐎎𐎚 	 trmt		"meat, victuals"
-𐎚𐎗𐎗𐎚 	 trrt	adj.	f.		"powerful", said of cities 
-𐎚𐎗𐎗𐎊 	 trry		"powerful"
-𐎚𐎗𐎚 	 trt	n.f		"abundance, fertility" taryāP, Lane 335f 
-𐎚𐎗𐎚𐎐 	 trtn		"magistrate, justice of the peace"
+𐎚𐎗𐎎𐎚		trmt		"meat, victuals"
+𐎚𐎗𐎗𐎚		trrt	adj.	f.		"powerful", said of cities 
+𐎚𐎗𐎗𐎊		trry		"powerful"
+𐎚𐎗𐎚		trt	n.f		"abundance, fertility" taryāP, Lane 335f 
+𐎚𐎗𐎚𐎐		trtn		"magistrate, justice of the peace"
 tryn" armour, protective padding"
-𐎚𐎒𐎗 	 tsr	n.	m.,		"?"
-1𐎚𐎓 	 /1-t-î/	[verb] G		"to be frightened, scared"
-𐎚𐎚 	 tt	n.	num.		"six"
-𐎚𐎚𐎎 	 ttm	n.	num.		"sixty"
-𐎓𐎊𐎐𐎊 	 îyny		"?"
-𐎆 	 w	conj. A) copulative,		"and"
-𐎆𐎏𐎐𐎊́ 	 wdný	/w-h-y/	[verb] Gt		"to hasten"
-𐎆𐎔𐎚 	 /w-p-t/	[verb] D		"to spit"
-𐎆𐎒𐎗 	 /w-s-r/	[verb] G		"to teach"
+𐎚𐎒𐎗		tsr	n.	m.,		"?"
+1𐎚𐎓		/1-t-î/	[verb] G		"to be frightened, scared"
+𐎚𐎚		tt	n.	num.		"six"
+𐎚𐎚𐎎		ttm	n.	num.		"sixty"
+𐎓𐎊𐎐𐎊		îyny		"?"
+𐎆		w	conj. A) copulative,		"and"
+𐎆𐎏𐎐𐎊́		wdný	/w-h-y/	[verb] Gt		"to hasten"
+𐎆𐎔𐎚		/w-p-t/	[verb] D		"to spit"
+𐎆𐎒𐎗		/w-s-r/	[verb] G		"to teach"
 -y   emphatic postpositive functor		"yes, really, indeed!"
-𐎊𐎁𐎁𐎏𐎗 	 yVbdr		"?", attribute of arsy daughter of the god bîl idem
-𐎊𐎓𐎍 	 yîl		"mountain goat"
-𐎊𐎓𐎗 	 /y-î-r/	[verb]	G.		"to be frightened"
-𐎊𐎓𐎗 	 yîr		"razor"
-𐎊𐎓𐎗 	 yîr		"wood"
-𐎊𐎁𐎍 	 /y-b-l/	[verb] G		"To carry, bring, take"
-𐎊𐎁𐎍 	 ybl		"produce"
-𐎊𐎁𐎍 	 ybl		"rod"
-𐎊𐎁𐎍 	 ybl		"?"
-𐎊𐎁𐎍𐎚 	 yblt		"a stream"
-𐎊𐎁𐎎 	 /y-b-m/	[verb] Št		"to proclaim oneself a nubile widow"
-𐎊𐎁𐎎 	 ybm		"brother-in-law", "close relative"
-𐎊𐎁𐎎𐎚 	 ybmt		"sister-in-law - widow of the brother" >		"engaged, intended"
-𐎊𐎁𐎐𐎚 	 ybnt		"creature"    /b-n-y/. Diff
+𐎊𐎁𐎁𐎏𐎗		yVbdr		"?", attribute of arsy daughter of the god bîl idem
+𐎊𐎓𐎍		yîl		"mountain goat"
+𐎊𐎓𐎗		/y-î-r/	[verb]	G.		"to be frightened"
+𐎊𐎓𐎗		yîr		"razor"
+𐎊𐎓𐎗		yîr		"wood"
+𐎊𐎁𐎍		/y-b-l/	[verb] G		"To carry, bring, take"
+𐎊𐎁𐎍		ybl		"produce"
+𐎊𐎁𐎍		ybl		"rod"
+𐎊𐎁𐎍		ybl		"?"
+𐎊𐎁𐎍𐎚		yblt		"a stream"
+𐎊𐎁𐎎		/y-b-m/	[verb] Št		"to proclaim oneself a nubile widow"
+𐎊𐎁𐎎		ybm		"brother-in-law", "close relative"
+𐎊𐎁𐎎𐎚		ybmt		"sister-in-law-widow of the brother" >		"engaged, intended"
+𐎊𐎁𐎐𐎚		ybnt		"creature"    /b-n-y/. Diff
 yd     f	1)		"hand", "power"
-𐎊𐎏 	 yd		"love"
-𐎊𐎏𐎓 	 /y-d-î/	[verb] G		"to know, to recognize, distinguish, consider"
-𐎋𐎐𐎓𐎆" 	 know"
-𐎊𐎏𐎓 	 /y-d-î/	[verb] G		"to sweat"
-𐎊𐎏𐎐 	 /y-d-n/	[verb] G		"to spur on"
-𐎊𐎏𐎚 	 ydt		"she who casts out, expels"
-𐎊𐎏𐎊 	 /y-d-y/	[verb] G	1)		"to throw, eject, expel, repel"
-𐎊𐎏𐎊 	 /y-d-y/	[verb] G		"to rip, scratch"
-𐎊𐎏𐎊 	 ydy		"one who casts out, expels"
-𐎊𐎏𐎊 	 ydy		"banishment", "exorcism"
-𐎊𐎏𐎊𐎚 	 ydyt		"untilled, barren"
-𐎊𐎙̇𐎍 	 yġl		"poor" >		"untilled land"
-𐎊𐎅𐎏 	 yhd		"solitary, alone, only one", used as a noun  ēdû
-𐎊𐎅𐎏𐎅 	 yhdh	adv.		"together, at the same time"
-𐎊𐎅𐎎𐎗 	 yhmr		"roebuck", a kind of antelope 
-𐎊𐎍𐎏 	 /y-l-d/	[verb] G 'to give birth bear"
-𐎊𐎍𐎏 	 yld		"son, child, young"
-𐎊𐎍𐎊 	 yly		"comrade, companion"
-𐎊𐎎 	 ym		"day" m,
-𐎊𐎎 	 ym	1)		"sea"
-𐎊𐎎𐎐 	 ymn	1)" right"
-𐎊𐎎𐎐𐎐 	 /y-m-n-n/	[verb] G with 3rd reduplicated radical,		"to take with the right"
-𐎊𐎐 	 yn		"wine"
-𐎊𐎐𐎖 	 /y-n-q/	[verb] G		"to suck"
-𐎊𐎐𐎚 	 ynt		"dove"
-𐎊𐎐𐎊 	 /y-n-y/	[verb] N		"to be lowered in value, reduced, cheapened"
-𐎊𐎔 	 yp		"dignity, beauty"
-𐎊𐎔𐎓 	 /y-p-î/	[verb] G		"to leave, depart, appear"
-𐎊𐎔𐎅 	 yph		"witness"
-𐎊𐎔𐎚 	 ypt		"cow, yearling calf 
-𐎊𐎖 	 /y-q-/	[verb] G		"be alert, pay attention"
-𐎊𐎖𐎒̌ 	 yqš		"fowler, bird-catcher"
-𐎊𐎖𐎒̌ 	 yqš		"game"
-𐎊𐎖𐎊 	 /y-q-y/	[verb] G		"to protect"
-𐎊𐎗 	 yr		"early rain"
-𐎊𐎗? 	 /y-r-?/	[verb] G		"to be afraid, frightened"
-𐎊𐎗𐎏 	 /y-r-d/	[verb] G		"to go down, descend"	impv. Müller	Biling. 17
-𐎗𐎚 	 rt		"step, stair" dānātu/, Pentiuc Vocabulary	86f. 
-𐎊𐎗𐎅 	 yrh	1)		"moon"
-𐎊𐎗𐎋 	 yrk		"back part, shoulder, flank, side, slope"
-𐎊𐎗𐎋𐎚 	 yrkt		"support, beam"   arkatu, AHw 1467f
-𐎊𐎗𐎖 	 yrq		"greenish yellow" Fronzaroli ARES 1 10 and	n. 32a  
-𐎊𐎗𐎚 	 /y-r-t/	[verb] G		"to possess, inherit"
-𐎊𐎛𐎍 	 yil		"heir"
-𐎊𐎗𐎊 	 /y-r-y/	[verb] G		"to fire, shoot arrows"
-𐎊𐎗𐎊𐎚 	 yryt		"coral"   yartu, AHw 24,412
-𐎊𐎒𐎎 	 ysm		"handsome, pleasant"
-𐎊𐎒𐎎 	 ysm		"elegance"
-𐎊𐎒𐎎𐎒𐎎 	 ysmsm		"handsome" qtltl pattern). 
-𐎊𐎒𐎎𐎒𐎎𐎚 	 ysmsmt		"handsomeness, the best part", used  votzenas a noun	Akk. asmâtu =nahlaptu MT?'cover for a mare', Malku VI126)
-𐎊𐎒𐎎𐎚 	 ysmt		"handsomeness, beauty"
-𐎊𐎒𐎜 	 ysu		"exit, departure*' 
-𐎊𐎒𐎁 	 /y-s-b/	[verb] G		"to load"
-𐎊𐎒𐎅 	 ysh		"worker who prepares or sizes textiles", "metal worker, bronzesmith" HALOT 1018
-𐎊𐎒𐎎 	 /y-s-m/	[verb] G		"to curse" . 
-𐎊𐎒𐎖 	 /y-s-q/	[verb] G	1)		"to pour serve" adrett
-𐎊𐎒𐎗 	 ysr		"potter, ceramist"  - wa-zi-tu- um, VE 1012
-𐎊𐎒̌𐎐 	 /y-š-n/	[verb] G		"to sleep, fall asleep"
-𐎊𐎒̌𐎗 	 yšr		"uprightness, lawfulness" Krebernik PET 63
-𐎊𐎚 	 yt		"?"
-𐎊𐎚𐎎 	 ytm		"orphan"
-𐎊𐎚𐎎𐎚 	 ytmt		"orphan girl" ACKER
-𐎊𐎚 	 yt		"foreman, person in c a'kurataharge"
-𐎊𐎚𐎐 	 /y-t-n/	[verb] G		"to give, hand over, grant, bestow"
-𐎊𐎚𐎐𐎚 	 ytnt		"gift, offering"
-𐎊𐎛́𐎁 	 /y-í-b/	[verb] G	1)		"to sit down, take a seat on the throne, install oneself, reside"
-𐎊𐎚𐎁 	 ytb		"resident" >		"assistant, one who is in service" ašibuy A Hw 148
-𐎊𐎚𐎁𐎚 	 ytbt		"residence, dwelling" aloved a'hobet o'habet
-𐎊𐎚𐎐 	 /y-t-n/	[verb] G		"to be old, become old, wear out"
-𐎊𐎚𐎐 	 ytn		"old, rancid"
-𐎊𐎚𐎖 	 /y-t-q/	[verb] G		"to bind, tie" ECHAT,erst
-𐎕𐎁 	 zb		"juice"
-𐎕𐎁𐎁 	 /z-b-b/		"?", dy 1 yd? ysh u zb, RSOu 14 52 [KTU	9.435]
-𐎕𐎁𐎍 	 zbl		"prince"
-𐎕𐎁𐎍 	 zbl		"principality"
-𐎕𐎁𐎍 	 zbl		"one carried" >		"invalid, sick person" 5), said of people, 'Kranke auf Bett tragen*. 
-𐎕𐎁𐎍𐎐 	 zbln		"sickness, illness"
-𐎕𐎁𐎗 	 /z-b-r/	"to prune"
-𐎕𐎏 	 /z-d/	"to boil, become inflamed, yearn for"
-𐎕𐎏 	 zd		"breast, chest"
-𐎕𐎙̇ 	 /z-ġ/	"to low, bellow"
-𐎕𐎚 	 zt		"howl, bark"
-𐎕𐎐 	 zn		"provider, supplies official"
-𐎕𐎐𐎚 	 znt		"sustenance"
-𐎕𐎗𐎎 	 zrm		"motionless, transfixed"
-𐎕𐎚 	 zt	1)		"olive"
-𐎕𐎚𐎗 	 ztr		"cippus, votive stele" Friedrich HW	194. 
-𐎕𐎜 	 zu		"exhalation, secretion > excrement"
-𐎕𐎁𐎊 	 zby		"gazelle" DNWSI 419, 958
-𐎕𐎍 	 zl	1)		"shade"
-𐎕𐎍𐎎𐎚 	 zlmt		"darkness"
-𐎕𐎔𐎐 	 /z-p-n/	v. G 'Ho hide, penetrate"
-𐎕𐎗 	 zr		"back"
-𐎕𐎗𐎆 	 zrw		"balsam", storax resin?
- 	 
+𐎊𐎏		yd		"love"
+𐎊𐎏𐎓		/y-d-î/	[verb] G		"to know, to recognize, distinguish, consider"
+𐎋𐎐𐎓𐎆"		know"
+𐎊𐎏𐎓		/y-d-î/	[verb] G		"to sweat"
+𐎊𐎏𐎐		/y-d-n/	[verb] G		"to spur on"
+𐎊𐎏𐎚		ydt		"she who casts out, expels"
+𐎊𐎏𐎊		/y-d-y/	[verb] G	1)		"to throw, eject, expel, repel"
+𐎊𐎏𐎊		/y-d-y/	[verb] G		"to rip, scratch"
+𐎊𐎏𐎊		ydy		"one who casts out, expels"
+𐎊𐎏𐎊		ydy		"banishment", "exorcism"
+𐎊𐎏𐎊𐎚		ydyt		"untilled, barren"
+𐎊𐎙̇𐎍		yġl		"poor" >		"untilled land"
+𐎊𐎅𐎏		yhd		"solitary, alone, only one", used as a noun  ēdû
+𐎊𐎅𐎏𐎅		yhdh	adv.		"together, at the same time"
+𐎊𐎅𐎎𐎗		yhmr		"roebuck", a kind of antelope 
+𐎊𐎍𐎏		/y-l-d/	[verb] G 'to give birth bear"
+𐎊𐎍𐎏		yld		"son, child, young"
+𐎊𐎍𐎊		yly		"comrade, companion"
+𐎊𐎎		ym		"day" m,
+𐎊𐎎		ym	1)		"sea"
+𐎊𐎎𐎐		ymn	1)" right"
+𐎊𐎎𐎐𐎐		/y-m-n-n/	[verb] G with 3rd reduplicated radical,		"to take with the right"
+𐎊𐎐		yn		"wine"
+𐎊𐎐𐎖		/y-n-q/	[verb] G		"to suck"
+𐎊𐎐𐎚		ynt		"dove"
+𐎊𐎐𐎊		/y-n-y/	[verb] N		"to be lowered in value, reduced, cheapened"
+𐎊𐎔		yp		"dignity, beauty"
+𐎊𐎔𐎓		/y-p-î/	[verb] G		"to leave, depart, appear"
+𐎊𐎔𐎅		yph		"witness"
+𐎊𐎔𐎚		ypt		"cow, yearling calf 
+𐎊𐎖		/y-q-/	[verb] G		"be alert, pay attention"
+𐎊𐎖𐎒̌		yqš		"fowler, bird-catcher"
+𐎊𐎖𐎒̌		yqš		"game"
+𐎊𐎖𐎊		/y-q-y/	[verb] G		"to protect"
+𐎊𐎗		yr		"early rain"
+𐎊𐎗?		/y-r-?/	[verb] G		"to be afraid, frightened"
+𐎊𐎗𐎏		/y-r-d/	[verb] G		"to go down, descend"	impv. Müller	Biling. 17
+𐎗𐎚		rt		"step, stair" dānātu/, Pentiuc Vocabulary	86f. 
+𐎊𐎗𐎅		yrh	1)		"moon"
+𐎊𐎗𐎋		yrk		"back part, shoulder, flank, side, slope"
+𐎊𐎗𐎋𐎚		yrkt		"support, beam"   arkatu, AHw 1467f
+𐎊𐎗𐎖		yrq		"greenish yellow" Fronzaroli ARES 1 10 and	n. 32a  
+𐎊𐎗𐎚		/y-r-t/	[verb] G		"to possess, inherit"
+𐎊𐎛𐎍		yil		"heir"
+𐎊𐎗𐎊		/y-r-y/	[verb] G		"to fire, shoot arrows"
+𐎊𐎗𐎊𐎚		yryt		"coral"   yartu, AHw 24,412
+𐎊𐎒𐎎		ysm		"handsome, pleasant"
+𐎊𐎒𐎎		ysm		"elegance"
+𐎊𐎒𐎎𐎒𐎎		ysmsm		"handsome" qtltl pattern). 
+𐎊𐎒𐎎𐎒𐎎𐎚		ysmsmt		"handsomeness, the best part", used  votzenas a noun	Akk. asmâtu =nahlaptu MT?'cover for a mare', Malku VI126)
+𐎊𐎒𐎎𐎚		ysmt		"handsomeness, beauty"
+𐎊𐎒𐎜		ysu		"exit, departure*' 
+𐎊𐎒𐎁		/y-s-b/	[verb] G		"to load"
+𐎊𐎒𐎅		ysh		"worker who prepares or sizes textiles", "metal worker, bronzesmith" HALOT 1018
+𐎊𐎒𐎎		/y-s-m/	[verb] G		"to curse" . 
+𐎊𐎒𐎖		/y-s-q/	[verb] G	1)		"to pour serve" 
+𐎊𐎒𐎗		ysr		"potter, ceramist" -wa-zi-tu- um, VE 1012
+𐎊𐎒̌𐎐		/y-š-n/	[verb] G		"to sleep, fall asleep"
+𐎊𐎒̌𐎗		yšr		"uprightness, lawfulness" Krebernik PET 63
+𐎊𐎚		yt		"?"
+𐎊𐎚𐎎		ytm		"orphan"
+𐎊𐎚𐎎𐎚		ytmt		"orphan girl" ACKER
+𐎊𐎚		yt		"foreman, person in c a'kurataharge"
+𐎊𐎚𐎐		/y-t-n/	[verb] G		"to give, hand over, grant, bestow"
+𐎊𐎚𐎐𐎚		ytnt		"gift, offering"
+𐎊𐎛́𐎁		/y-í-b/	[verb] G	1)		"to sit down, take a seat on the throne, install oneself, reside"
+𐎊𐎚𐎁		ytb		"resident" >		"assistant, one who is in service" ašibuy A Hw 148
+𐎊𐎚𐎁𐎚		ytbt		"residence, dwelling" 
+𐎊𐎚𐎐		/y-t-n/	[verb] G		"to be old, become old, wear out"
+𐎊𐎚𐎐		ytn		"old, rancid"
+𐎊𐎚𐎖		/y-t-q/	[verb] G		"to bind, tie" 
+𐎕𐎁		zb		"juice" SAFT
+𐎕𐎁𐎁		/z-b-b/		"?", dy 1 yd? ysh u zb, RSOu 14 52 [KTU	9.435]
+𐎕𐎁𐎍		zbl		"prince" <<<
+𐎕𐎁𐎍		zbl		"principality"
+𐎕𐎁𐎍		zbl		"one carried" >		"invalid, sick person" 5), said of people, 'Kranke auf Bett tragen*. 
+𐎕𐎁𐎍𐎐		zbln		"sickness, illness"		Zippeln
+𐎕𐎁𐎗		/z-b-r/	~"to prune" zu-prũⁿ
+𐎕𐎏		zd		"breast, chest" Zitze
+𐎕𐎏		/z-d/	"to boil, become inflamed, yearn for"
+𐎕𐎙̇		/z-ġ/	"to low, bellow"
+𐎕𐎚		zt		"howl, bark"
+𐎕𐎐		zn		"provider, supplies official"
+𐎕𐎐𐎚		znt		"sustenance"
+𐎕𐎗𐎎		zrm		"motionless, transfixed" STARrm
+𐎕𐎚		zt	1)		"olive"
+𐎕𐎚𐎗		ztr		"cippus, votive stele" Friedrich HW	194. 
+𐎕𐎜		zu		"exhalation, secretion > excrement" <> shit?
+𐎕𐎁𐎊		zby		ZEBRA "gazelle" DNWSI 419, 958 
+𐎕𐎍		zl	1)		"shade" SHELTER𐎍
+𐎕𐎍𐎎𐎚		zlmt		"darkness"
+𐎕𐎔𐎐		/z-p-n/	v. G 'Ho hide, penetrate"
+𐎕𐎗		zr		"back"
+𐎕𐎗𐎆		zrw		"balsam", storax resin?
+		
 The Dictionary was started in 1984 as a research project with the title		"Lexicografía cananea del II	milenio. Materiales para la edición de un Diccionario Ugarítico", financed by the Comisión Asesora de Investigación Científica y Técnica del Ministerio de Educación y Ciencia   and to some extent its publication is due to an Acción de Política Cientifica granted by the same institution This twofold official support, which merits due acknowledgement, enabled a task to be begun and completed that has taken almost twenty years, a task that in 1988 we promised to complete 'within a reasonably short space of time' {AuOr6 [1988] 255fï). Clearly lexicography proceeds at a pace that is entirely its	own.
 E. Ashley, The		"Epic of AQHT" and the		"RPUM Texts"
 M. Dietrich -	I. Kottsieper,	eds.,		"Und Mose schrieb
-𐎊𐎀 	 JA	M. Dietrich -	O. Loretz,		"Jahwe und seine Ashera		".
+𐎊𐎀		JA	M. Dietrich -	O. Loretz,		"Jahwe und seine Ashera		".
 J. Pedersen,		"Die KRT Legende", Berytus 61941 63-	105.		"Dunklen Zeitalter" und im	I. Jahrtausend	v.u.Z. im
-𐎔𐎓𐎛𐎏𐎒 	 Poids	J.	C. Courtois,		"Poids, prix, taxes et salaires, à Ougarit au IP millénaire", in
+𐎔𐎓𐎛𐎏𐎒		Poids	J.	C. Courtois,		"Poids, prix, taxes et salaires, à Ougarit au IP millénaire", in
 E. Edel,		"Die Stelen Amenophis' II", ZDPV 69, 1953, 97-176.
- 	 
+		
 𐎊𐎎 • (ym) day  JOURM / Daym <> immer time 2  יוֹם‎ (yōm), Arabic يَوْم‎ (yawm)  ỉmy (“sun (as an eye)”) 𒌓 (ūmu 
 𐎊𐎎 • (ym) sea	YuMare / Dom יָם‎ yām  يَمّ‎ (yamm) <> swim Demotic: ym Coptic: ⲓⲟⲙ (iom) Syriac: ܝܡܐ‎ (yammāʾ) 
 𐎊𐎎 𓇋𓇋𓅓𓂝𓈗 YuMarim
