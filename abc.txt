@@ -1,4 +1,7 @@
-𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓈙𓏏𓏌𓅱𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃 𓀁𓀀𓂻𓏛  #𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
+𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓈙𓏏𓏌𓅱𓍯𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃 𓀁𓀀𓂻𓏛  #𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
+
+DANGER:DIFFERENT-HOMOGLYPHS!! 𓀀≠󳀀
+U+13000 (77824) vs U+F3000
 
 
 ᵃᵇᵝ ᵓᵙ ᵈ ᵉᵊˤᵛᵝ ᵍ ʰʱ ᵎ ʲ ᵏ ˡ ᵐ ⁿᵑ ᵒᵔᵕ ᵖ ᵋ  ʳʴ ˢ ᵌ   ᵗ ᵘᵛᵚ ʷ ˠ ʸ ʵʶ ᵄᵅᵆ
@@ -611,8 +614,7 @@ M13	𓇅 (w/f)ree(dj) WReed WD 𓇅 #WAD <> water! weed! wD word,writ!! ++  Ried
 M14	𓇆 reach    𓇆  shreen => green
 M15 𓇈𓇇𓇉 Floridar𓊖 Flax Flacher Flower  FL/Ḫr  flω.ḫar.reed  flowḪreed 𓎔𓎛𓏏𓇇𓆰𓏪  𓂧𓇋𓇋𓏏𓇇  <>𓎔na.Vyλ𓎕 𓇊north ≠ susa
 M16 𓇉 FL 		𓎔𓎛𓏏𓇇𓆰𓏪 flax
-M16 𓇉 mḫar/hor/hur/'r  𓇉𓏏𓄣  Ḫreed 𓂧𓇋𓇋𓏏𓇇  
-VS  flood   V4 𓍯  Aa1 𓐍  M15 𓇇  -------------
+M16 𓇉 mḫar/hor/hur/'r  𓇉𓏏𓄣  Ḫreed 𓂧𓇋𓇋𓏏𓇇  VS  flood   V4 fl < VR𓍯  Aa1 𓐍  M15 𓇇  -------------
 
 M17	𓇋 (f)i,e,a,ey 𓇋 feather
 M17A  𓇌	y u 𓇌
@@ -877,7 +879,8 @@ T12	𓌗 chord / richard : hard securėdj 𓋴𓌗𓂋𓎗𓅱𓆓𓏛  heard he
 T12	𓌗 STRing 𓋴𓂋𓌌𓌗 strap strong𓊍𓊎 <<>> ridj 𓌗 rich Aster𓌗-rix (b)ridgid 𓊎  𓎤 STR
 T12 𓌗 𓋴𓐟𓄿𓂋𓌗  𓋴𓌳𓇋𓂋𓌗  smair/spair <> ἀσφαλῶς = 𓊃𓂋𓅱𓂧𓌗 secured scratched
 T13	rise/rect/reich   𓌘 ~U40		
-T14 𓌙 GN 𓌙 NG -tian ţangeł 𓄓 angle winkel -tan[i] <sic stickma> 𓆓𓄓 𓌙 qvt ~ 𓈎 𓌙 T15  𓌚 𓌙 Jia𓄏NG ς𓍢𓏲𐀸و  <> KFT
+T14 𓌙 TANg 𓌙 NG -tian  tan can gon kan (angle) ~ ţangeł 𓄓 angle winkel -tan[i] <sic stickma> 
+T14 𓌙 TAN 𓏏 : 𓅱𓎛𓇋𓇋𓌙𓀀~𓅱𓎛𓇋𓇋𓏏𓀀 𓆓𓄓 𓌙 qvt ~ 𓈎 𓌙 T15  𓌚 𓌙 Jia𓄏NG ς𓍢𓏲𐀸و  <> KFT
 T15 𓌚 ang: boomerang 𓂝𓅓𓂝𓄿𓌚 
 T16	𓌛 𓌜 "Khopesh" Axt (rituell) 𓌛 ~ 𓄘 chops ceps κοπίς !!
 T17	𓌝 XRr/VRr  𓅨𓂋𓂋𓇋𓇋𓏏𓌝  𓎡𓄿.𓃀𓏲𓍘𓇋𓆱  car'poti=warriet=chariot++ !
@@ -960,11 +963,12 @@ V1  𓍢 WN : AN(d/t) WU (r,l,h,w,b,y)un(d) yuán 圆  𓍢  => Hundtau 100 VS	 
 V1  𓍢 VuN PHN و=uu ق bun ph ف Ph@nician 𐤐 'P'? ףפܦ 𓍢 WANdag@Pers 𓍢𓍬≠𓏲@
 V2	𓍬 WND wind / wound++ 𓍬𓏏𓐎 w-g-b
 V2	𓍬 [s](p)len(d)    𓍬	 V3  𓍮 länder
-V4	𓍯 ROgue = galgen! @EN ρϱ phRho throw𓀢! thread? RO(b) 𓍱𓍯GRo   #wA~wuRf?   << RoGe<>geRo (alt!)  GRoss <> roche <<< 222
-V5	𓍰 measure ~ مؤسسة mu'a's'sa 𓍰𓏏𓏏𓈇!  <<?>>  [me]Schanze ganze Grenze 𓋴𓈖𓍿𓍰 
+V4	𓍯 VR ρϱ phRho ROgue = galgen! 𓍢𓏲 @EN  throw𓀢! thread? RO(b) 𓍱𓍯GRo   
+V4	𓍯 VR < 𓍯𓏏𓈐 part/fahrt/wehrt #wA~wuRf?  << RoGe<>geRo (alt!)  GRoss <> roche <<< 222
+V5	𓍰 measure ~ مؤسسة muassa 𓍰𓏏𓏏𓈇!  <<?>>  [me]Schanze ganze Grenze 𓋴𓈖𓍿𓍰 
 V6	𓍱 oXn=8 osh/schn[itt] 𓍱 ɣ γ gamMAschen ɣ = MA@Brahmi!  𓋳  ξχγN!  舌 shé𓍱ng𓂋𓄓  
 V6	𓍱 ɣ γ #šs GN:Gamma! 𓍱𓍱𓅱𓏏𓁹𓏥 gawk~schaun  𓍱𓇆 green sjh!  
-V7	𓍲 #šn XN=Rin(d)  𓍲  store,storm,showr[OXn],shuwr[wall] 𓍲𓍱  𓍶𓍷𓊆 Schuber 𓋴𓐟𓄿𓊅 
+V7	𓍲 #šn XN=RindTaurn𓍲 store,storm/qor,kuh/tawr/showr[OXn],turm/shuwr[wall] 𓍲𓍱 𓍶𓍷𓊆 Schuber 
 V8	𓍵 mashn Maschen measuren 𓍵 ma.ocean 𓋳 𑀫	MA  𓈗𓍲𓈖𓅨   𓈙𓈇𓏤   𓇆𓅨𓈘  
 V9	𓍶 SchnUr/Schnüren++  𓍲𓈖𓏌𓅱𓍶 QED  vs Schönering𓋪 S21  𓍶Ωouwωmn mUtter! 𑀫	MA OhMa Omega OMG 𓆼 Susana shuwshan!! 𓍶
 V10	𓍷 NA.ME=dO.ME 	𓍿𓇋𓏏𓂇 Schatulle~statue,title,shuttle   	 	门門𓊁 namen vs nome 𓈈
@@ -974,7 +978,8 @@ V13	𓍿 TCa cu tho (zeh C ☋)  𓍿
 V14 𓎀 thei?    𓎀  => seid ? i-Punkt! vs ¨uüÿϊ
 V15	𓎁 √turn!! ziehn/tour(en) que->qù SHUWBA	𓎁𓐟 CUWR  去 zieh 走 zǒu ts`adah tsa`ah 行 xíng
 V15	𓎁 "which?" 者 zhě 哪​些 nǎ xiē 何许 héxǔ    wetz,fetch,weg,vess,fast vs ziehen 𓎁 shén.ma? 什么 <> schm 
-V16 𓎂~𓎃 sy/zuShaman/sammeln/∑™  𓎂~𓎃~𓊃?   al𓎂SY-> Asyut 𓎂𓅱𓏏𓊖 
+V16 𓎂 l'sy lasso 𓊪𓎂𓉐=palace al𓎂SY-> Asyut 𓎂𓅱𓏏𓊖 [guard,magician?]
+V16 𓎂~𓎃 sy/zuShaman/sammeln/∑™  𓎂~𓎃~𓊃?   
 V17	𓎃~𓎂 shu Charmn  𓎃  (show,shutz,charm,Shaman) ~ 𓎂 ! <> 𓎅 #ţmA
 V19	𓎅 TENT   𓎅  #TmA Zimmer~Thyn'air~tent  'leather bag?'  vs 𓐡
 V20 𓎆 TEN:10  𓎆 ZEHN/ten
