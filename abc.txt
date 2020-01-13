@@ -8,7 +8,7 @@ U+13000 (77824) vs U+F3000
 α β ζγ δ ε ϝφ γζ η ι  θ κ λ μ νξ οω πφ ξ  ϱ ςσ ψ ϑθτ υ φ ω χ υ ζ ϊ ϋ ό ύ ώ ϐ 
 Α Β ΖΓ Δ Ε ϜΦ ΓΖ Η Ι  Θ Κ Λ Μ ΝΞ ΟΩ ΠΦ Ξ  ρ ΣΣ Ψ ΘΘΤ Υ Φ Ω Χ Υ Ζ Ϊ Ϋ Ό Ύ Ώ Β 
 A B CG D E Fø GZ H I JT K L M NX OW PH Xu R S ps ΘΘT Y V W X Y Z
-↔ ɠ 𓊾 ſϝƒ ϛ δ ð đ ɗ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ţ ʃ=š ɟ ι ɽ ṛ ɹ~ꜣ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḫ ħ ḩ ɦ ꜣ ḏ ṯ š ð þ ϋ υ  ſ=<meta>f+s  Þþ pthorn?
+↔ ɠ 𓊾 ſϝƒ ϛ δ ð đ ɗ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ɟ ι ɽ ṛ ɹ~ꜣ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḫ ħ ḩ ɦ ꜣ ḏ ṯ ţ š ʃ ð þ ϋ υ  ſ=<meta>f+s  Þþ pthorn?
 
 
 α βv γΓ δסτ ηε ηfζ Γγרלλע  ηחθ ι υ  κ  λ μ  νυuvη ωοπ πφρ ξρ Γρ σςύώ τπυσ  υ υ ω χ  υעy τζז	 ψש 
@@ -974,6 +974,7 @@ V7	𓍲 #šn XN=RindTaurn𓍲 store,storm/qor,kuh/tawr/showr[OXn],turm/shuwr[wal
 V8	𓍵 mashn Maschen measuren 𓍵 ma.ocean 𓋳 𑀫	MA  𓈗𓍲𓈖𓅨   𓈙𓈇𓏤   𓇆𓅨𓈘  
 V9	𓍶 SchnUr/Schnüren++  𓍲𓈖𓏌𓅱𓍶 QED  vs Schönering𓋪 S21  𓍶Ωouwωmn mUtter! 𑀫	MA OhMa Omega OMG 𓆼 Susana shuwshan!! 𓍶
 V10	𓍷 NA.ME=dO.ME 	𓍿𓇋𓏏𓂇 Schatulle~statue,title,shuttle   	 	门門𓊁 namen vs nome 𓈈
+V10 𓍷 Cartouche <> KA sign 𒅗 enclosures
 V11 𓍸 [tür/do]me! MA(n) 𓍸 𓍷  μα/μός/… 𐀔! 𐀷! 𓊁 𓉹 𓊀 𓉯 𓉸 𓍷 𓉗 𓉘𓉛 𓉘𓉜 𓉚𓉝 𓉙𓉝 1/2/4
 V12	𓍼 ARQ# argi=>ar.chi=>zieh zn𓍱    𓍼 
 V13	𓍿 TCa cu tho (zeh C ☋)  𓍿=𓏏𓈖~CON 同 < TON
