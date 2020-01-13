@@ -1,3 +1,15 @@
+"שָלוֹם" consists of 4 characters and 6 Unicode points and 12 bytes:
+Buffer.from("שָלוֹם") : <Buffer d7 a9 d6 b8 d7 9c d7 95 d6 b9 d7 9d>
+String(Buffer.from("שָלוֹם")) # NOT \xd7\xa9\xd6\xb8\xd7\x9c\xd7\x95\xd6\xb9\xd7\x9d ;)
+"שָלוֹם".map(x=>ord(x)+" ") '1513 1464 1500 1493 1465 1501 '
+'\u05e9\u05b8\u05dc\u05d5\u05b9\u05dd'
+'שָלוֹם'
+
+UnicodeEncoding encoding = new UnicodeEncoding();
+byte[] bytes = encoding.GetBytes(AnyString);
+
+As UnicodeEncoding is by default of UTF-16 with Little-Endianness.
+
 wq🌈 Unicode Chart 🍎📱 👍 http://emojipedia.org/cookie/
 δ λ Ϛ α δ ~ σ 
 Ḫ ḫ ι ə γ δ φ ϑ Θ θ χ ψ ţ χ ξ
@@ -11262,7 +11274,7 @@ White sun with rays 	☼ 	U+263C 	&#9788; 	Compass
 First quarter moon 	☽ 	U+263D 	&#9789; 	Silver
 Last quarter moon 	☾ 	U+263E 	&#9790; 	
 Mercury 	☿ 	U+263F 	&#9791; 	Mercury (planet), Mercury (element)
-Female sign 	♀ 	U+2640 	&#9792; 	Venus (astrology), Venus (planet), copper, feminism
+Female sign 	♀ 	U+2640 	&#9792; 	Venus (astrology/planet), copper,feminism,♀☥𓋹𓋩𒋾身体 
 Earth 	♁ 	U+2641 	&#9793; 	Antimony
 Male sign 	♂ 	U+2642 	&#9794; 	Mars (astrology), Mars (planet), iron
 Jupiter 	♃ 	U+2643 	&#9795; 	Jupiter (planet), Tin
@@ -23434,9 +23446,7 @@ U+1018x 	𐆀 	𐆁 	𐆂 	𐆃 	𐆄 	𐆅 	𐆆 	𐆇 	𐆈 	𐆉 	𐆊 	𐆋 
 U+1D3x 	ᴰ 	ᴱ 	ᴲ 	ᴳ 	ᴴ 	ᴵ 	ᴶ 	ᴷ 	ᴸ 	ᴹ 	ᴺ 	ᴻ 	ᴼ 	ᴽ 	ᴾ 	ᴿ
 U+1D4x 	ᵀ 	ᵁ 	ᵂ 	ᵃ 	ᵄ 	ᵅ 	ᵆ 	ᵇ 	ᵈ 	ᵉ 	ᵊ 	ᵋ 	ᵌ 	ᵍ 	ᵎ 	ᵏ
 U+1D5x 	ᵐ 	ᵑ 	ᵒ 	ᵓ 	ᵔ 	ᵕ 	ᵖ 	ᵗ 	ᵘ 	ᵙ 	ᵚ 	ᵛ 	ᵜ 	ᵝ 	ᵞ 	ᵟ
-U+1D6x 	ᵠ 	ᵡ 	
-LOWER
-U+1D6x 	ᵢ 	ᵣ 	ᵤ 	ᵥ 	ᵦ 	ᵧ 	ᵨ 	ᵩ 	ᵪ 	ᵫ 	ᵬ 	ᵭ 	ᵮ 	ᵯ
+U+1D6x 	ᵠ 	ᵡ 	ᵢ 	ᵣ 	ᵤ 	ᵥ 	ᵦ 	ᵧ 	ᵨ 	ᵩ 	ᵪ 	ᵫ 	ᵬ 	ᵭ 	ᵮ 	ᵯ
 U+1D7x 	ᵰ 	ᵱ 	ᵲ 	ᵳ 	ᵴ 	ᵵ 	ᵶ 	ᵷ 	ᵸ 	ᵹ 	ᵺ 	ᵻ 	ᵼ 	ᵽ 	ᵾ 	ᵿ
 
-Superscript upper ᵃ ᵄ ᵅ ᵆ ᵇ ᵝ ᵓᵈ ᵉ ᵊ ᵋᵌˤ ᵍ ʰ ʱ ᵎ ʲ ᵏ ˡ ᵐ ⁿᵑ ᵒ ᵓᵔᵕ ᵖ ʳ ʴ ʵ ʶ ˢ ᵗ ᵘ ᵙ ᵚ ᵛ ʷ ʸ ˠ
+Superscript upper ᵃ ᵄ ᵅ ᵆ ᵇ ᵝ ᵓᵈ ᵉ ᵊ ᵋᵌˤ ᵍ ʰ ʱ ᵎ ʲ ᵏ ˡ ᵐ ⁿᵑ ᵒ ᵓᵔᵕ ᵖ ʳ ʴ ʵ ʶ ˢ ᵗ ᵘ ᵙ ᵚ ᵛ ʷ ʸ ˠ🦠 Microbe  Microbe was approved as part of Unicode 11.0 in 2018 and added to Emoji 11.0 in 2018.

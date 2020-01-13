@@ -1,4 +1,4 @@
-𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓈙𓏏𓏌𓅱𓍯𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃 𓀁𓀀𓂻𓏛  #𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
+𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓋴𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆵𓆶𓆴𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓆓𓈙𓏏𓏌𓅱𓍯𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃𓆓 𓀁𓀀𓂻𓏛  #𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
 
 DANGER:DIFFERENT-HOMOGLYPHS!! 𓀀≠󳀀
 U+13000 (77824) vs U+F3000
@@ -42,7 +42,7 @@ M:	G17 𓅓𐦨枭  Musen 𒈪 𓐝𓊗𓐍𓐍𓎡𓎡Galle μa μη 𓀁moiμ�
 M:	𓐍𓐍𓅓 ⲕⲁⲕⲕⲁⲙⲁⲩ ↔ ⲭⲁⲕⲕⲁⲙⲁⲩ 	 small nightowl   ⲕⲁⲕⲑⲓ cockroach/kakerlake = bad.louse / bed.louse !! ⲕⲁⲕ=bad
 M:	U1 𓈗𓌳 Marinaus מים 𐀔𐀪𐀚	Mast 𓄱 Mwa.δer Meer.sea/syl 𓈗 mēmn máyim 𐤌 𓀁moiμ𓅱? 𒉡 HNMWU : hnm𓏠 inημwu 𓁹 𒊩 MUNUS woman whomb Ω <> Maur 𓌻 𓍅 𓄠~Mess… 𓅓 
 N:	N35	𓈖𐦊 μν Menes mNwave 𓈖	نهرnahr! nadī nāru nWa' nyλ NiL	NAUtik 𓈖𓏤=fish! ןነ𐤍נ nūn 𒈾 NAr.mer mean.der 牛 niú 鸟 μνoi niǎo 𒈾 NA 那 nà ɲ~ŋ 
-O:	𓍯 phRho  
+O:	𓍯 phRho > far аркан 
 O:	Q3	𓊪 𓉔 V4	 vs	𓂝 D36 Oben 	禸肉⺼R vs 𓂋 Rachen?    O < 𓊪 < OI,AI,EI, phOi/chOu ! 
 P:	Q3	𓊪 	mPhoo ἀ poS𓈙Ⲡ𓊪𓏲בP𓃀! ἀπο- vuO who fö 𐦈 old: Khou 口! π 𒉺𐠞 匹 pǐ 𐠡𐀡Po Ⳁro PAN,VAN,BAN  𐀃 O
 Q:	N29	𓏘𓈎 	Quarꜩ	Kuh.erz Ɠum Ger.ste s'quer <> 𓎼𓏘𓌽
@@ -91,8 +91,9 @@ Aa1  𓐍 Na.Ӄyr NeGro  𓐍𓏮  𓐪𓂧𓂂𓏛 𓎡  ¿Qué pasa tu?    ES!
 Aa1  𓐍 Nwi Nuit NaIξ: 𓐍𓅓 𓐍𓐍 neck/gurgel  𓅱𓐍 mooNHa / luNa !!?    
 Aa1  𓐍 ballacK:block 𓐍 blue-black-ball = 𓐍𓋴𓃀𓂧𓈒𓏥 kaspian=lapiz! kala.ore=color:kala ghoul.heure 𓐍𓅓mnoon ball=throw
 Aa1  𓐍 prefix  𓐍  ek => ex- !? nuacht vs 𓊖
-V28   	𓎛	H µH,mH,wHr/Mer!?! Harpi H,her,hair,har,kHer,flaX    		:V28    𓎛  <> Han,Can,Kan 𓎛𓎸𓈖 con [syn]
-V28B   	𓎛	Lunte: lu,li,'und,'un,hu	    	:V28    𓎛  Synthese: LutHer𓎛 Herlun <> herum Heller?  Hier.Long?
+V28   	𓎛 Hair/Helix < hurl,Curl,dreh,√DRILL 𓎛~𐎍 ! 𓎛𓃀𓋴𓋳 = 𐎍𐎁𐎒 lbš
+V28   	𓎛 ξḪH µH,mH,wHr/Mer!?! Harpi H,her,hair,har,kHer,flaX <> Hanf,Con 𓎛𓎸𓈖 
+V28B   	𓎛	𐎍 DR3/DL3 Lunte: lu,li,'und,'un,hu	    	:V28    𓎛  Synthese: LutHer𓎛 Herlun <> herum Heller?  Hier.Long?
 H6		𓆄	VaShur Weather feaTher Westen𓋀 waste𓋆 <> Phother βß	𓊹𓆄  	vs M17 𓇋 fEther ≠ 𓋛𓋂𓋃𓋄east 𓋛 Shuti fashion  
 W24		𓏌	moURne 𐤀𐤓𐤍‎ ʾrn coffin 𓏌𓅱 Ων -oun noun naun𓈖 'of'  𓏌 => ul=oil <> Kanne Kammer 
 W24		𓏌 jår? aber Mutter Nin.Urtair 𓏌𓏏𓇯 != Mutter Natur?!
@@ -120,7 +121,7 @@ D->B:	D46	𓂧	thumBa Hand-Ballen=bhalm,bat,boat,Buto,but,bud  ѤN Leder.Hand.Sc
 
 NaIx: 𓐍𓅓 neck 𓐍𓐍 ~noir𓈖𓂋𓐍𓅓:black-fear 𓅓𓂝=mwha: what=ma? مَا @AR/CN/AF!!!!!!! how/more/… !??
 Proto–Afroasiatic, believed by scholars to have been spoken as a single language ~ 10 - 14,000 BC!
-𓆓 schnacken, schNattern, chatten, sayn
+𓆓𓆑 schnacken, schNattern, chatten, sayn
 
 λ ƃ ƥ ə ḫ ţ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ δ ə ə̃ en ṛ ↯⭍ ⦚ ȝ ḫ ḥ ḩ ɦ rˁ ꜣ ḏ ṯ š ð þ ϋ υ
 Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ  Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ 
@@ -329,11 +330,9 @@ D53X 𓂺 *issen / essenz!  D53 penis    𓂹 katz?
 D54 𓂻 gIr [je:geh/zieh/go/come]    𓂻    𓂼   => W25ƒ=>W26    𓏎 Thurn (und taxis)[bring/turn in] V15𓎁 zieh O35𓊄 send vs N40 𓈝 schmieren : streifen
 D55 re? [turn-back]   𓂽   => F25 Re plus/minus
 D56	𓂾 jambe𓄹/shin=Schien𓄹 -ion/-ious/-in ⚢ 𓇋𓇋𓏏𓂾   jump 𓏠 𓂾 vs 𓃀  ƥleg.ƥoed  JI=儿 丿匕 jambie jir𓂻𓃀 leg: halak@Heb!
-D56ƒ?	𓂾 rWuAT=> FuTh [come] root/raid/run feet=leap Pod ƥoeđ ®  <> jambe 
-D56	𓂾 POD
+D56	𓂾 PODA ƥoeđ 𓂾 ρόδα (sic) #RD road root/raid/run rvt foot?
 D57 𓂿 fight~foot<POD cheat<cut 
-D58 𓃀 'B' ProĐT>ƥlaɠ.ƥoeđ  𓃀 Bei(n): 𓍋𓃀𓈋𓊖 aBYdos 1. prothos?
-D58II 𓃀 bEIn  >>EI<<  excIte 
+D58 𓃀 'B' ProĐT>ƥlaɠ.ƥoeđ  𓃀 Bein: 𓍋𓃀𓈋𓊖 aBYdos 1. prothos?
 D59 𓃁 bo/pu/flu   𓃁  boast,purify OK
 D60+	𓃂 pour pur(e) 𓃂 #WAB™ kipp vs 𓃂 schenk (shank;) 𓄐
 D61	𓃄  ter:area / toe(r) 𓃃𓏤𓄹  3 treTer kick TOR !?!?! <<<<<<<<<
@@ -623,24 +622,26 @@ M19	𓇎	ian/jam    𓇎  abraham/ibrahim?
 M20 𓇏~𓆷~𓇐 past.even peasant 7 SIEBEN WIRBEL!!! SaVan! Savanne SeeFeen Sümpfen Fen(God), ufe(r)  <>   => != M8 
 M21 𓇐~𓆷 #sAH s'event  𓇐𓅓𓆰Samen/Gemüse!  “Sahure”='near Re'
 M22 𓇒 hier(alt) che, zhe, sese= this, these, hither  
-M22 𓇑 natURE=>hur=>hier,here , she'[r] Segge	屮chè   𐦌'NE'
-M23	𓇓 naTUR=>Shah=>shur=>su Sultan 𓊹Ašar SuCha(n)  出chū~手 草cǎo 卉hui(Heu) 茶chá…   NOT:prime/prince
+M22 𓇑 natURE=>hur=>hier,here , she'[r] Segge	屮chè < 艸 cǎo 草 KAo (𓇑𓃀𓏌𓊖 El Kab) 出chū 𓇓 :
+M23	𓇓 naTUR=>𐦌NE Shah=>shur=>su Sultan 𓊹Ašar SuCha(n)  出chū~手 长 cháng 主 zhú 竹 ⺮ zhuī	
+M24 𓇔 NA.Tür : nán 南 < 门 (door facing south) naò 闹市 noise Not nose
 M24 𓇔 Sδ : Süd/syr 𓇔 'shemaa Sumer' swheat Suδan SUSAN Sici.LILY! [OEg seshen] sedge 𓇓 Segge <> 𓇕𓋑 
 M25 𓇕 not used DYM M13 /O29 <- white lily? <> 𓋑 <> Süden
-M26	𓇗 Mus-tree?  kleZmer #Sma Summa!! Sudan𓇙=𓇗𓎆 'Sümten' @ Südegypt 𓇗 KammerMusik!
+M26	𓇗 Mus-tree?  kleZmer #Sma Summa Song !! Sudan𓇙=𓇗𓎆 'Sümten' @ Südegypt 𓇗 KammerMusik!
 M29 𓇛 NUTS,netz𓎅!,nacach!nice,nez,nash,naschen,snoze #NDM  𓇛VS𓇜 <?>nix nidjs™ nichtig niedlich niedrig 
 M29 𓇛 𓇛 N'Z: 小xiao/Cha/Scho[te]/short nizar@P 𓇛𓅓𓏜𓄣𓏤 joyful = nashitta/neşeli/*nuts-ment;) +++
 M30 𓇜 binj بنج@KURD 𓃀𓈖𓇋root/sweet bien Biene! bonbon / bene +++ 甘 艮 gan 根 gēn~běn 本 root ! <> bin:son von!
 M30!𓇜 !eat rit (f)ruit ben.root𓇜 s𓃀eat sweet𓇜 seat𓀼   
 M31	𓇝 rice, rhizome M31X	𓇞
-M32	𓇟 r*th=r*s    𓇟
+M32	𓇟 r*th=r*s    𓇟~𓇜
 M33	grain/korn/g_treide/gerste=hordeum    𓇠   M33A 𓇡
 M33B süd:s'wheat-pill 	 𓇢 
 M34 𓇣 emmer  𓇣  blatt?WEDEL? #BDT rhymes with beetle 𓆣 ++ OK
 M35 𓇤 pile    𓇤   匹 pǐ	 π  spi𓇮thorn
 M36+ 𓇥 Korb+ core=all cure~Kur=prison:court 𓇥hör Here™ Firma.ment 𓂋𓇥𓂋~𓎛𓇳𓎛 Horizon? vs dort:Duat
-M37  𓇦 M21 'even (helfen?)  
+M37  𓇦 M21 'even Hafer hälfte (helfen?)  
 M38	 𓇨 fruit
+M40 𓇩 PAN 本夫半书  𓇩 VS Y1V 𓏜 卜 bu, 𓃀𓅱𓈅𓏥 bund 办
 M40 𓇩 ANCI.ENCY ENZI:Ensi	#IZƒ [BUch/BUND/PO]lis,las 𓇩  VS Y1V  𓏜  卜 bu, 𓃀𓅱𓈅𓏥  bund,bünder['place']
 M40X 𓇪 FACION 𓇪   卜 bǔ  confess  latin -bulum -bula
 M41 𓇫
@@ -871,8 +872,9 @@ T5	𓌌 << watch? wash? T5A	𓌍 T6ƒ
 T6	𓌎 *dz? *eil?    𓌎
 T7	𓌎𓌏 [axt]®    𓌎	 T7A  𓌏 الفأس al phaos <> 𓊹 P* !
 T8	𓌑 PhR 1st  𓌐 (su)prime 𓌑 => super speer sPhR T80
-T9	𓌒 P*D/BlT    𓌒    𓌓 BowTans => Balten~Barden?  𓌓 <?> 𐤔 šīn 𓌓 	ש 	ܫ 	
-T10	𓌔 P*D/BlTi/arx    𓌔 vs 𓌒𓌓
+T9	𓌒 P*D/BlT    𓌒    𓌓 BowTans => Balten~Barden бэр[d] Bolt𓌕  𓌓 <?> 𐤔 šīn 𓌓 	ש 	ܫ 	
+T10	𓌔 CpD/cBlTi BOWt 𓌔𓏏~𓎡𓎡𓏏 𐎋𐎛𐎏 CupD copten/captain/kevan@KURD 弓gvng жаа  qed
+T10	𓌔 vs 𓌒𓌓 C*D 𓌔𓏏~𓎡𓎡𓏏 = 𐎋𐎛𐎏 CƒD קֶשֶׁת‎ que-shoot 𓌕 Schaft  :
 T11	𓌕 'send' 矢shǐ(n) zen@Persian samn sahm@SEMite arrow Zischer 𓊃𓈙𓂋𓌕 Schießer 𓍱𓋴𓂋𓌕 ! ḫunt~cent <> 志 zhì 旨 zhǐ Ziel!
 T11A 𓌖 𓌕 (t)ARX!.sent ARZ! tarx:tacha:take   𓌕 vs T22, T2, T3  erZünder! <> Thunder <> sUrgent  
 T12	𓌗 chord / richard : hard securėdj 𓋴𓌗𓂋𓎗𓅱𓆓𓏛  heard herd charge 𓂡 crops corps 
@@ -963,7 +965,7 @@ V1  𓍢 WN : AN(d/t) WU (r,l,h,w,b,y)un(d) yuán 圆  𓍢  => Hundtau 100 VS	 
 V1  𓍢 VuN PHN و=uu ق bun ph ف Ph@nician 𐤐 'P'? ףפܦ 𓍢 WANdag@Pers 𓍢𓍬≠𓏲@
 V2	𓍬 WND wind / wound++ 𓍬𓏏𓐎 w-g-b
 V2	𓍬 [s](p)len(d)    𓍬	 V3  𓍮 länder
-V4	𓍯 VR ρϱ phRho ROgue = galgen! 𓍢𓏲 @EN  throw𓀢! thread? RO(b) 𓍱𓍯GRo   
+V4	𓍯 VR ρϱ phRho 𓍯𓄿𓈐FAR(long) WR ROgue = galgen! 𓍢𓏲 @EN  throw𓀢! thread? RO(b)𓍱𓍯GRo   
 V4	𓍯 VR < 𓍯𓏏𓈐 part/fahrt/wehrt #wA~wuRf?  << RoGe<>geRo (alt!)  GRoss <> roche <<< 222
 V5	𓍰 measure ~ مؤسسة muassa 𓍰𓏏𓏏𓈇!  <<?>>  [me]Schanze ganze Grenze 𓋴𓈖𓍿𓍰 
 V6	𓍱 oXn=8 osh/schn[itt] 𓍱 ɣ γ gamMAschen ɣ = MA@Brahmi!  𓋳  ξχγN!  舌 shé𓍱ng𓂋𓄓  
@@ -974,7 +976,7 @@ V9	𓍶 SchnUr/Schnüren++  𓍲𓈖𓏌𓅱𓍶 QED  vs Schönering𓋪 S21  �
 V10	𓍷 NA.ME=dO.ME 	𓍿𓇋𓏏𓂇 Schatulle~statue,title,shuttle   	 	门門𓊁 namen vs nome 𓈈
 V11 𓍸 [tür/do]me! MA(n) 𓍸 𓍷  μα/μός/… 𐀔! 𐀷! 𓊁 𓉹 𓊀 𓉯 𓉸 𓍷 𓉗 𓉘𓉛 𓉘𓉜 𓉚𓉝 𓉙𓉝 1/2/4
 V12	𓍼 ARQ# argi=>ar.chi=>zieh zn𓍱    𓍼 
-V13	𓍿 TCa cu tho (zeh C ☋)  𓍿
+V13	𓍿 TCa cu tho (zeh C ☋)  𓍿=𓏏𓈖~CON 同 < TON
 V14 𓎀 thei?    𓎀  => seid ? i-Punkt! vs ¨uüÿϊ
 V15	𓎁 √turn!! ziehn/tour(en) que->qù SHUWBA	𓎁𓐟 CUWR  去 zieh 走 zǒu ts`adah tsa`ah 行 xíng
 V15	𓎁 "which?" 者 zhě 哪​些 nǎ xiē 何许 héxǔ    wetz,fetch,weg,vess,fast vs ziehen 𓎁 shén.ma? 什么 <> schm 
@@ -993,7 +995,8 @@ V26	𓎙 edge,adj  𓂝𓆓𓎚𓈇    𓎙   V27 𓎚
 V28	𓎛 Her hair wHr whirl | cHurn curl!  𓎛  coil,crawl,…  zwirbel quirl wring dwr drw
 V28	𓎛 dHr dreh Dw 𓎛   𓂝  𓅱  𓂢  𓀀  𓏥   Dwarv <> cHurn turn
 V29	𓎝 whirl! WaiH(t) 𓎝 (wix,wäch,wicht,weg:a'weigh,wuch,wig𓎛) | 𓎝 KoRO(n) <> N28 𓈍crown/chrom 𓆭YAmnt:charmant 
-V30	𓎟 (vtk)all 𓎟 𓍿𓎡𓎟(≠𓎠!) Kuhlen kol~har 𓋞Nub כולם cuwk 𓍿𓎠	Tal vs tell 𓈍crowmn total/ταῦτα(this)/ταὐτό(self)/tout/djug?
+V30	𓎟 kALL 𓎟 𐎋𐎍 cwhole 𐎋𐎛𐎍 qfull 𓍿𓎡𓎟(≠𓎠!) Kuhlen kol~har 𓍿𓎠	Tal/tell total/ταῦτα/tout
+V30	𓎟 kALL < kHER 𓋞 KURIs κρίσ vs 𓋞 OMNib Nub כולם cuwk 𓈍crowmn 
 V31	𓎡 𓎢 k/c/ca/tca/tha/ta  𓎡 𓎢
 V32	𓎣 ner,narr(ow),nähr  𓎣 <> gefahr? GFR?
 V33 𓎤 COr* chord Korb krd sekret! corn 𓎤𓃀𓅂𓊖 Coptos coil kucken  <vs!> T12 𓌗 O40A 𓊍   
@@ -1122,7 +1125,7 @@ Aa24	𓐦 press/praxis/prochat?  𓐦  keep?
 Aa25	𓐧 Monk monch!  𓐧 𓇹<> priest psi ψ ϔ ?
 Aa26	𓐨 TZ 𓐨 Spitzel! 𓐨 Ч /tʃ/Cha vs ζ Ṣade צ ܨ ص Σ 𐎕 Zahn:Throne~thorn! ς Ϡ? vs Ś   <<<
 Aa27	𓐩? gr#nD/andeFende con…? [cross] 𓐩 <> 𓊹 ndvr 𓐩 <> pyr 𓊮 Q7 pro/guar(d)	grind gr#nD ! Garn
-Aa28	𓐪 Q/PO.st/Pfost/passt Qadesh …   𓐪  !=P11  𓊧 ! 
+Aa28	𓐪 Q/Buil.d/PO.st/Pfost/passt 𓇋𓐪𓂧=build  Qadesh …   𓐪  !=P11  𓊧 !  
 Aa30 	𓐬 δkr 𓐬 schicker → δkr Dekor decor ++ skrit 𓌫 Scherer <> Barber 𓐬𓆭𓀀
 Aa32	𓐮 Ta-Shot/Chat/Seth = Nubia TaBoo? 𓐮 Bow 
 A282 	Dwarf dwarf 𓈖𓈗 Minimi 𓈖𓌰𓅓 𓂧neigear -> Neger 𓂧𓈖𓎼𓄔  dwarf=anDrophaIstos? 
