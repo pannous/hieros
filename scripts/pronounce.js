@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 exec=require('child_process').execSync
-const runes = require('runes')
+const runes = require('runes') // for split chars…
 require('/me/dev/js/extensions.js')()
 
 maps={
