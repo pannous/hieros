@@ -267,8 +267,8 @@
 267	至	zhi4	ZU	arrive/most/to/until	zhì:至:⿱𠫔土 ? tǔ							
 268	队	dui4	team	squadron/team/group	duì:队:⿰阝人 fù rén							
 269	形	xing2	®SHINE	to appear/to look/form/shape	xíng:形:⿰开彡 kaī shān							
-270	社	she4	SYN	society/group	shè:社:⿰礻土 shì tǔ							
-271	便	bian4/pian2	PLAIN	ordinary/plain/convenient/handy/easy/then/so/thus/to relieve oneself/advantageous/cheap	biàn:便:⿰亻更 rén geng							
+270	社	she4	shèshìtǔy	SOCIETY/group	shè:社:⿰礻土 shì tǔ							
+271	便	bian4/pian2	PLAIN/BIEN+	ordinary/plain/convenient/handy/easy/then/so/thus/to relieve oneself/advantageous/cheap	biàn:便:⿰亻更 rén geng							
 272	空	kong1/kong4	工 Caven Ceiling xué 穴 sky 	air/sky/empty/in vain/emptied/leisure	kōng:空:⿱穴工 xué gōng	KING SKY?						
 273	决	jue2	JUDGE	breach (a dyke)/to decide/to determine	jué:决:⿰冫夬 bīng guài							
 274	治	zhi4	ZHING	to rule/to govern/to manage/to control/to harness (a river)/cure/treatment/to heal	zhì:治:⿰氵台 shui taí							
@@ -962,7 +962,7 @@
 962	寻	xun2	SEEN	to search/to look for/to seek	xún:寻:⿱彐寸 jì,kè,kí,계 cùn							
 963	厂	chang3	HANG 厂	cliff/slope/factory/yard/depot/workhouse/works/(industrial) plant								
 964	睡	shui4	shuip sleep	to sleep	shuì:睡:⿰目垂 mù chuí							
-965	博	bo2	BUY 贝 币 PAN	rich/extensive/ample/obtain/aim/to win/to get/rich/plentiful/to gamble	bó:博:⿰十尃 shí ?							
+965	博	bo2	BUY 贝 币 PAN	rich/extensive/ample/obtain/aim/to win/to get/rich/plentiful/to gamble	bó:博:⿰十尃 shí bo/fu							
 966	勒	le4/lei1	LINE < rein!	strangle/rein in	lè:勒:⿰革力 gé lì							
 967	烟	yan1	-- 因 yīn	cigarette/tobacco/smoke	yān:烟:⿰火因 huǒ yīn							
 968	授	shou4	SCHOOL	to teach/to instruct/to award/to give	shòu:授:⿰扌受 shǒu shoù							
@@ -1884,7 +1884,7 @@
 1884	枚	mei2	mini micro	M for small objects	méi:枚:⿰木攵 mù pū							
 1885	盐	yan2	™ – 	salt	yán:盐:⿱圤皿 ? mǐn							
 1886	览	lan3	linsen (peep)	look over/to view	lǎn:览:⿱⿰〢⿱𠂉丶见  ? rén diàn zhǔ jiàn							
-1887	傅	fu4	™	(surname)/tutor	fù:傅:⿰亻尃 rén ?							
+1887	傅	fu4	™	(surname)/tutor	fù:傅:⿰亻尃 rén bo/fu							
 1888	帅	shuai4	schön	handsome/graceful/smart/commander in chief								
 1889	庙	miao4	miaonasty!	temple/monastery	miaò:庙:⿸广由 guǎng yoú							
 1890	芬	fen1	~	fragrant	fēn:芬:⿱艹分 cǎo fēn							
@@ -2149,7 +2149,7 @@
 2149	歉	qian4		apologize/deficient/to regret	qiàn:歉:⿰兼欠 jiān qiàn							
 2150	芝	zhi1		Zoysia pungens	zhī:芝:⿱艹之 cǎo zhī							
 2151	吼	hou3	HOWL	roar (of a lion)	hǒu:吼:⿰口孔 koǔ kǒng							
-2152	甫	fu3	甫	just/just now								
+2152	甫	fu3,bu,pu	甫	just/just now		用甬 yong,song,tong						
 2153	衫	shan1		Chinese gown (unlined)	shān:衫:⿰衤彡 yī shān							
 2154	摊	tan1		spread out/vendor's stand	tān:摊:⿰扌难 shǒu nán							
 2155	宴	yan4		feast/repose	yàn:宴:⿱宀妟 mián ?							
@@ -2369,7 +2369,7 @@
 2369	炭	tan4	1 ton ≠TIN!  丹 ?	carbon/charcoal	tàn:炭:⿱山灰 shān huī							
 2370	坟	fen2	<> fence	a grave	fén:坟:⿰土文 tǔ wén							
 2371	眨	zha3	ciao!	wink	zhǎ:眨:⿰目乏 mù fá							
-2372	搏	bo2	Box ~ fight	fight/combat/seize	bó:搏:⿰扌尃 shǒu ?							
+2372	搏	bo2	Box ~ fight	fight/combat/seize	bó:搏:⿰扌尃 shǒu bo/fu						
 2373	咳	hai1/ke2	S’hai ~ sigh  hach	sound of sighing/cough	ké:咳:⿰口亥 koǔ haì							
 2374	拢	long3	langen	collect/draw near to	lǒng:拢:⿰扌龙 shǒu lóng							
 2375	舅	jiu4		maternal uncle	jiù:舅:⿱臼男 jiù nán							
@@ -2437,7 +2437,7 @@
 2437	衍	yan3	Y+  gene	to spread out/to develop/to overflow/to amplify	yán:衍:⿻行氵 háng shui							
 2438	轴	zhou2/zhu2	< 	axis/axle/axis/axle	zhoú:轴:⿰车由 chē yoú							
 2439	攀	pan1	  爬上 páshàng @ Wand	climb up/pull	pān:攀:⿱樊手 fán shoǔ							
-2440	膊	bo2	Bow! <> power!	shoulder/upper arm	bó:膊:⿰月尃 yuè ?							
+2440	膊	bo2	Bow! <> power!	shoulder/upper arm	bó:膊:⿰月尃 yuè bo/fu							
 2441	譬	pi4	-- 	give an example	pì:譬:⿱辟言 bì yán							
 2442	斌	bin1	b2?	ornamental/refined	bīn:斌:⿰文武 wén wǔ							
 2443	祈	qi2		implore/pray/please	qí:祈:⿰礻斤 shì jīn							
@@ -2574,7 +2574,7 @@
 2574	妃	fei1	Fee > bitch 6	imperial concubine	fēi:妃:⿰女己 nu:3 jǐ							
 2575	蔑	mie4	MINI	belittle/nothing	miè:蔑:⿳艹罒戍 cǎo wǎng shù							
 2576	谕	yu4	Y+ 	order (from above)	yù:谕:⿰讠俞 yán yú							
-2577	缚	fu2/fu4	fu~bund	to bind/to tie	fú:缚:⿰纟尃 mì ?							
+2577	缚	fu2/fu4	fu~bund	to bind/to tie	fú:缚:⿰纟尃 mì bo/fu							
 2578	诡	gui3		sly/crafty	guǐ:诡:⿰讠危 yán weī							
 2579	篷	peng2	匚方  fang Fan @ wind!	sail	péng:篷:⿱𥫗逢 zhú féng							
 2580	淹	yan1	YU	drown/submerge	yān:淹:⿰氵奄 shui yān							
@@ -3879,7 +3879,7 @@
 3879	欤	yu2	JA? ++	(interrog. part.)	yú:欤:⿰与欠 yú qiàn	子非三闾大夫欤？						
 3880	壑	he4	he2 河	gully	壑:壑:⿱㕡土 ? tǔ							
 3881	颍	ying3			yǐng:颍:⿰⿱匕水页  bī shuǐ yè							
-3882	溥	pu3	pulus poly	extensive/pervading	pǔ:溥:⿰氵尃 shui ?							
+3882	溥	pu3	pulus poly	big/vast/extensive/pervading	pǔ:溥:⿰氵尃 shui bo/fu						
 3883	姗	shan1	shun	deprecate/lithe (of woman's walk)	shān:姗:⿰女册 nu:3 cè							
 3884	踊	yong3	jump	leap	yǒng:踊:⿰⻊甬 zú yǒng							
 3885	枭	xiao1	xiaowl	owl/brave/strix uralensis	xiaō:枭:⿹鸟木 niaǒ mù							
@@ -4331,4 +4331,6 @@
 4331	垠	yin2		bank	yín:垠:⿰土艮 tǔ gēn							
 4332	饨	tun2		Chinese ravioli	tún:饨:⿰饣屯 shí dùnb							
 4333	榭	xie4		pavilion	xiè:榭:⿰木射 mù shè							
+俌陠埔捕哺峬浦蒲悑辅輔晡脯烳铺鋪秿補蜅酺豧誧舖舗餔鬴麱鯆黼郙鵏莆乶尃旉喸盙圃庯痡匍逋牖
+8888 	尃 	fu,bu,pu 	fair,bare,poor 	™ 	甫用甬 yong,song,tong
 #	S	phon	PIE/mnemo	meaning								

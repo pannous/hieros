@@ -1,4 +1,4 @@
-№ 	English 	Arabic 	Romanized Arabic 	Tarifiyt Berber 		Hebrew 	Romanized Hebrew 	Syriac 	Romanized Syriac 	Romanized Akkadian 	Ge'ez 	Romanized Ge'ez 	Maltese 	Romanized Coptic 	Tarifiyt Berber 	Hausa 	Oromo (Wallagga) 	Somali
+№ 	English 	Arabic 	Romanized Arabic 	Tarifiyt Berber 	PIE	Hebrew 	Romanized Hebrew 	Syriac 	Romanized Syriac 	Romanized Akkadian 	Ge'ez 	Romanized Ge'ez 	Maltese 	Romanized Coptic 	Tarifiyt Berber 	Hausa 	Oromo (Wallagga) 	Somali
 1	I 	أنا‎ 	ʾána 	nəšš 	an’isch  as@Litv	אני‎, אנכי‎ 	ʾani, ʾânóxi 	ܐܢܐ‎ 	ʾenā 	anāku 	አነ 	ʾana 	jiena, jien 	anok 	nəšš 	níi 	ana, na 	ani
 2	you 	أنت‎ ,أنت‎ 	ʾanta m, ʾanti f 	šəkk, šəmm 	k	אתה‎, את‎ 	ʾattâ m, ʾat f 	ܐܢܬ‎ m, ܐܢܬܝ‎ f 	ʾat m, ʾa (ti) f 	atta m, atti f 	አንተ, አንቲ 	ʾanta m, ʾanti f 	inti, int 	ntok m, nto f 	šəkk, šəmm 	kái, kée 	si 	adi
 3	he 	هو‎ 	húwa 	nətta m, nəttaŧ f 	ante’ a, at!	הוא 	hu 	ܗܘ‎ 	hu 	šū 	ውእቱ 	wəʾətu 	huwa, hu 	ntof m, ntos f 	nətta m, nəttaŧ f 	shíi m, ítá f 	isa 	isa m, iyaf
@@ -79,21 +79,21 @@
 78	tongue 	لسان‎ 	lisān 	iřəs 	> Ar	לשון‎ 	lâšón 	ܠܫܢܐ‎ 	leššānā 	lišānu 	ምልሓስ/ልሳን 	məlħās/ləsān 	lsien 	p-las 	iřəs 	hárshèe 	arraba 	carrab
 79	fingernail 	ظفر‎ 	ẓufr 	iššā 	Zeh < Bantu	צפרן‎ 	ṣippóren 	ܛܦܪܐ‎ 	ṭefrā 	ṣupru 	ጽፍር 	ṣəfr 	difer 	eiv 	iššā 	fárcèe 	qeensa 	ciddi
 80	foot 	قدم‎ 	qadam 	đ’ā 	toe	כף רגל‎ 	kaf reğel 	ܥܩܠܐ‎ 	ʿaqlā 	šēpu 	እግር 	ʾəgr 	sieq 	t-ouerēte, rat 	đ’ā 	ƙáfàa 	miilla 	cag
-81	leg 	رجل‎ 	rijl 	ifaddən 	Food !	רגל‎ 	reğel 	ܪܓܠܐ‎ 	reğla 	kimṣu 	አገዳ 	ʾagadā 	riġel 	rat 	ifaddən 	ƙáfàa 	hojjaa, luka 	lug
-82	knee 	ركبة‎ 	rúkba 	fuđ 	Food !	ברך‎ 	berex 	ܒܘܪܟܐ‎ 	burkā 	birku 	ብርክ 	bərk 	rkoppa, rkobba 	kal, kel, rat 	fuđ 	gwíwàa 	jilba 	jilib
-83	hand 	يد‎ 	yad 	fus 	fothe!!	יד‎ 	yâð 	ܐܝܕܐ‎ 	ʾīða 	qātu 	እድ 	ʾəd 	id 	t-cij, toot 	fus 	hánnúu 	harka 	gacan
-84	wing 	كتف, كنف‎ 	katf, kanaf 	afriw 	avring!	כנף‎ 	kânâf 	ܟܢܦܐ‎ 	kenfā 	kappu 	ክንፍ 	kənf 	ġewnaħ 	tᵊnh 	afriw 	fíffíkèe 		baal
-85	belly 	بطن‎ 	baṭn 	aʕəddis 		בטן‎ 	beṭen 	ܒܛܢܐ‎, ܟܪܣܐ‎ 	baṭnā, karsā 	libbu 	ከርሥ 	karś 	żaqq 	t-hē, hēt 	aʕəddis 	cíkìi 		calool
+81	leg 	رجل‎ 	rijl 	ifaddən 	foot!	רגל‎ 	reğel 	ܪܓܠܐ‎ 	reğla 	kimṣu 	አገዳ 	ʾagadā 	riġel 	rat 	ifaddən 	ƙáfàa 	hojjaa, luka 	lug
+82	knee 	ركبة‎ 	rúkba 	fuđ 	foot!	ברך‎ 	berex 	ܒܘܪܟܐ‎ 	burkā 	birku 	ብርክ 	bərk 	rkoppa, rkobba 	kal, kel, rat 	fuđ 	gwíwàa 	jilba 	jilib
+83	hand 	يد‎ 	yad 	fus 	pfothe!!	יד‎ 	yâð 	ܐܝܕܐ‎ 	ʾīða 	qātu 	እድ 	ʾəd 	id 	t-cij, toot 	fus 	hánnúu 	harka 	gacan
+84	wing 	كتف, كنف‎ 	katf, kanaf 	afriw 	a’vring! Frly	כנף‎ 	kânâf 	ܟܢܦܐ‎ 	kenfā 	kappu 	ክንፍ 	kənf 	ġewnaħ 	tᵊnh 	afriw 	fíffíkèe 		baal
+85	belly 	بطن‎ 	baṭn 	aʕəddis 	bottom button	בטן‎ 	beṭen 	ܒܛܢܐ‎, ܟܪܣܐ‎ 	baṭnā, karsā 	libbu 	ከርሥ 	karś 	żaqq 	t-hē, hēt 	aʕəddis 	cíkìi 		calool
 86	guts 	أمعاء‎ 	ʾamʿāʾ 	ađan, ƀururu 		מעים‎ 	méʿim 	ܡܥܝܐ‎, ܓܘܐ‎ 	mʿayyā, gawwā 	erru 	አማዑት 	amāʿut 		maht, meht 	ađan, ƀururu 	hánjíi 	mar'umaan 	mindhicir, xiidmo
 87	neck 	رقبة‎ 	ráqaba 	iri 		צואר‎ 	ṣawwâr 	ܨܘܪܐ‎, ܩܕܠܐ‎ 	ṣawrā, qðālā 	kišādu, labiānu 	ክሳድ 	kəsād 	għonq 	p-makh 	iri 	wúyàa 	qoosee 	luqun, sur
-88	back 	ظهر‎ 	ẓahr 	aʕrua 		גב‎ 	gâv 	ܚܨܐ‎, ܒܣܬܪܐ‎ 	ħaṣṣā, bestrā 	šašallu 	ድኅር 	dəḫr 	dahar 	jise 	aʕrua 	báayáa 	dugda 	dhabar
+88	back 	ظهر‎ 	ẓahr 	aʕrua 	zurück	גב‎ 	gâv 	ܚܨܐ‎, ܒܣܬܪܐ‎ 	ħaṣṣā, bestrā 	šašallu 	ድኅር 	dəḫr 	dahar 	jise 	aʕrua 	báayáa 	dugda 	dhabar
 89	breast 	صدر‎ 	ṣadr 	ibbəš 	brest	חזה‎ 	ħâze 	ܚܕܝܐ‎ 	ħaðyā 	irtu 	እንግደኣ 	əngədaʾā 	sider 	t-ekive 	ibbəš 	nóonòo 	harma 	naas
 90	heart 	لب‎ 	lubb 	uř 	cour!	לב‎ 	lév 	ܠܒܐ‎ 	lebbā 	libbu 	ልብ 	ləbb 	qalb 	p-hēt, htē 	uř 	zúucìyáa 	onnee 	laab, wadne
 91	liver 	كبد‎ 	kabid 	ŧsa 	tissue?	כבד‎ 	kâvéð 	ܟܒܕܐ‎ 	kavdā 	kabattu 	ከብድ 	kabd 			ŧsa 	hántàa 	tiruu 	tiro, beer
 92	drink 	شرب‎ 	šáriba 	su, ħřu 	soif?	שתה‎ 	šâθâ 	ܫܬܐ‎ 	štā 	šatû 	ሰትየ/ሠረበ 	satya/śaraba 	xorob 	sō 	su, ħřu 	sháa 	dhug- 	cabbid
 93	eat 	أكل‎ 	ʾákala 	šš 	esse!!	אכל‎ 	ʾâxal 	ܐܟܠ‎ 	ʾexal 	akālu 	በልዐ 	balʿa 	kiel 	ouōm 	šš 	cí 		cun
-94	bite 	عض‎ 	ʿáḍḍa 			נשך‎ 	nâšax 	ܢܟܬ‎ 	nxaθ 	našāku 	ነከሰ 	nakasa 	gidem 			cìizáa 		qaniin
-95	suck 	مص‎ 	máṣṣa 			מצץ‎ 	mâṣaṣ 	ܡܨ‎ 	maṣ 	enēqu 	መጸ/ጠበወ 	maṣṣa, ṭabawa (breast) 					hod'a, t'uut'a 	nuug
+94	bite 	عض‎ 	ʿáḍḍa 		eat	נשך‎ 	nâšax 	ܢܟܬ‎ 	nxaθ 	našāku 	ነከሰ 	nakasa 	gidem 			cìizáa 		qaniin
+95	suck 	مص‎ 	máṣṣa 		mouth@mother	מצץ‎ 	mâṣaṣ 	ܡܨ‎ 	maṣ 	enēqu 	መጸ/ጠበወ 	maṣṣa, ṭabawa (breast) 					hod'a, t'uut'a 	nuug
 96	spit 	بصق‎ 	báṣaqa 			ירק‎ 	yâraq 	ܪܩ‎ 	raq 		ተፍአ/ወረቀ 	tafʾa/waraqa 	beżaq 			tóofàa 	tuf 	
 97	vomit 	تقيأ‎ 	taqáyyaʾ 	arr 		הקיא‎ 	héqi 	ܓܥܛ‎ 	gʿaṭ 		ቄአ 	qeʾa 			arr 	yí ámái 		hunqaac
 98	blow 	نفخ‎ 	náfaxa 			נפח‎ 	nâfaħ 	ܢܦܚ‎ 	nfaħ 		ነፍኀ 	nafḫa 	nefaħ 				afuufa, buufa 	afuuf, buufi
