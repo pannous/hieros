@@ -490,7 +490,7 @@ cyperus	*124
 𐂎		65678	𐂎 	WHEAT
 𐂏		65679	𐂏 	BARLEY 	!
 𐂐		65680	𐂐 	OLIVE 	<> 𐂕 OIL
-𐂑		65681	𐂑 	SPICE
+𐂑		65681	𐂑 	SPICE! s+bai+ce
 𐂒		65682	𐂒 	CYPERUS ++
 𐂓		65683	𐂓	 KAPO 	Kar+Po=Pur/Puerto?
 𐂔		65684	𐂔	 KANAKO Kar/Nagar? <<
@@ -499,11 +499,11 @@ cyperus	*124
 𐂗		65687	𐂗 	vessel?
 𐂘		65688	𐂘	 AREPA ground maize dough or cooked flour of Colombia and Venezuela WTF?
 𐂙		65689	𐂙	 MERI
-𐂚		65690	𐂚 	BRONZE
+𐂚		65690	𐂚 	BRONZE!
 𐂛		65691	𐂛 	GOLD
 𐂜		65692	𐂜 	*KYR…copper? <?> 𓊘 granary ?
 𐂴	65716	𐂴 	Ore? oRing? <?> 𓊘 granary ?
-𐂝		65693	𐂝 	WOOL
+𐂝		65693	𐂝 	WOOL/pelt?
 𐂞		65694	𐂞 	< Tunic
 𐂟		65695	𐂟 	
 𐂠	65696	𐂠 	kHORN
@@ -512,23 +512,23 @@ cyperus	*124
 𐂣		65699	𐂣 	
 𐂤		65700	𐂤	 TURO2
 𐂥		65701	𐂥 	
-𐂦		65702	𐂦 	
+𐂦		65702	𐂦 	hat?
 𐂧		65703	𐂧 	CLOTH
 𐂨		65704	𐂨 	hut?
 𐂩		65705	𐂩 	jahr/jaw?
 𐂪		65706	𐂪 	GARMENT
 𐂫		65707	𐂫 	ARMOUR
 𐂬		65708	𐂬 	court/hut/palace? <<
-𐂭		65709	𐂭 	
-𐂮		65710	𐂮 	
+𐂭		65709	𐂭 	leather?
+𐂮		65710	𐂮 	leather?
 𐂯		65711	𐂯 	hide?
 𐂰		65712	𐂰 	kur/schanze?
-𐂱		65713	𐂱 	
-𐂲		65714	𐂲 	
+𐂱		65713	𐂱 	<<
+𐂲		65714	𐂲 	wr?
 𐂳		65715	𐂳 	space/length/metre?
 𐂴	65716	𐂴 	Ore? oRing? <> 𐂜 <?> 𓊘 granary ? 
 𐂵		65717	𐂵 	MONTH
-𐂶		65718	𐂶 	
+𐂶		65718	𐂶 	Wanne?
 𐂷		65719	𐂷 	TREE! <<
 𐂸		65720	𐂸 	port?
 𐂹		65721	𐂹 	rise?
@@ -563,7 +563,7 @@ cyperus	*124
 𐃖		65750	𐃖 	
 𐃗		65751	𐃗 	cur? <<
 𐃘		65752	𐃘 	DART
-𐃙		65753	𐃙 	
+𐃙		65753	𐃙 	house/port/field?
 𐃚		65754	𐃚 	
 𐃛		65755	𐃛 	~table/altar
 𐃜		65756	𐃜 	
