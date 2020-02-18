@@ -1,4 +1,4 @@
-𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓋴𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆵𓆶𓆴𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓆓𓈙𓏏𓏌𓅱𓍯𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃𓆓 𓀁𓀀𓂻𓏛  #𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
+𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓋴𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆵𓆶𓆴𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓆓𓈙𓏏𓏌𓅱𓍯𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓊃  𓆓 𓀁𓀀𓂻𓏛  #𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
 
 DANGER:DIFFERENT-HOMOGLYPHS!! 𓀀≠󳀀
 U+13000 (77824) vs U+F3000
@@ -507,8 +507,8 @@ G40	𓅮 O! 𓊪𓅮 who? what? Ornitho Opther vOgel off flyg flu 𓅮fleet  <> 
 G41	𓅯 F! Fluyt  𓅯  ft: kräftig <> Pow <> Vaw letter!		Fayum  Ⲫⲓⲟⲙ p3-ym 'The Lake' (Moeris)  𓐍𓈖𓅯 rest?
 G42	𓅰 Mast?  𓅰  
 G43	𓅱 vu,un,en: Huhn,Kück.hen  𓅱  鸡 Hahn 汉 HÀN  又 'Hand'  G45 𓅳 
-G47	𓅷 BAN/Phain.dick.chick?? [male] <> 𐇑@Phaistos   
-G47	𓅷 GAN?? <<
+G47	𓅷 BAN/Phain.dick.chick?? [male]!!!  GAN?? <<  phallus~fledgling𓅷~flute𓉺~𓊪𓅮𓄿𓏏?
+G47	𓅷 PUTer/PETr>fetch fledgling vizier vessel,pot 𓂓𓏤𓅷𓏤carpet <> 𐇑@Phaistos   
 G51	𓅻 +catch-fish  𓅻 vs to cat fish ;) catfish ~ 𒄩 Hafiδ الحفيد -> grandson, descendant H 𒄷 𒄩 𒄫 𒆒 𒅋 
 G54	𓅾 goose-fur=fear = 𓈖𓆓𓏏𓅾 graus خوف gross 𓋴𓂋𓅾 أو huge
 
@@ -920,7 +920,7 @@ U7	𓌻 mAUR.HOEb 𓌻~𓁹!  אהוב aHab  أحب Heb = LOVE/hope Hebel …  �
 U7	𓌻 tAUR 𓃓=𓌻𓂋𓂺 throat 𓌻𓂋𓄈𓏏𓆱 tow:täuen
 U8	𓌼 M  vs  part 1/2 𓐝 !  <> quero:query:quiz cwish
 U9	𓌽 Ger(ste) gähr 𓏘𓀠gVer-steh    𓌽  #IT:wheat<<  𓌾  => N33A 𓈓  Drai / tres / thresh / dresch  M33   𓇠
-U13	𓍁 fur.ḫoe furrow Furche 𓍁 hoebel <> hAcker!? 𓌻 Hoeb(love!) <> Hebrew??
+U13	𓍁 fur.ḫoe furrow Furche Fruit=𓍁𓂋𓏏 hoebel <> hAcker!? 𓌻 Hoeb(love!) <> Hebrew??
 U15 𓍃 𓎟𓀭𓏏𓍃𓅓 <> DON'T aTTN aDAM(Herr) δημο=tout/total! DOMinus turn tomb Atom-Teil!  #TM vs #SMS 𓌞 Schlitten
 U15 𓍃 ~ 𓊨 sTM <> estimate Sum shatim حطّم    Schicht<>dura?
 
@@ -1195,7 +1195,7 @@ DEVIDES DERIVES:
 φ 𓇋𓆑 FitHR/HornVieh𓆑  ϑ mit dangling HR? 
 𓇋 Fie(ξ/δ/γ) 飛 fēi(gel) fly flee 𓅯flu gale gull vol(er)𓅫GVAL/GVER𓅪 𒃲 (s)wal𓅪very fowl viel foul? Vul𓅐 Vieh flieg<>frog?
 𓇋 fether Fetter fat!!<>Mast Vetter Vater 𓇋𓆑 vs Mut𓅐  fei <?> 𓆇 Ei : 𓏏𓆇 Thei(Goddess)!
-𓇋 Fiiγ FLieg,flesh,flee,flieg SchLang  <> HRsn <> FISH!? fischen, fetchen, fashion! 𓇋𓇋
+𓇋 Fiiγ FLieg,flesh,flee,flieg SchLang  <> HRsn <> FISH!? fischen, fetchen𓅷, fashion! 𓇋𓇋
 𓅮𓅯 O.F. = ophti offer ab- out? opterix𓆃 ƃht bird bicht fith feδer Fittich fthii!
 <_N?> HN ḫn hen, hahn, huhn, ḫḫn chicken, cock, Kücken  jī cui zhuī 隹
 <phithn phoin phün phoon: WUN 鸡 : who>
