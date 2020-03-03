@@ -19,15 +19,15 @@ h	Ϩ	ϩ	_	đHōri	(none)	h [h, ħ] ϩⲟⲟⲩ : jhourg>day ħ=TH/DH ! QED * 100
 K	Ϧ	ϧ _	Khay	(none)	x [x]  חה Schlaf~ ⲥϧⲏⲗⲟ, scrit~ⲥϧⲏⲧ⳼ (write)
 H	Ⲏ	ⲏ	8	hĒtan	Η, η	ē / e [eː] *huηn[t]	 Ϩϩ	Hōri:djhour!  ϢⲎⲦ = cent  NM/T component (russian)  
 ;	Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ	th / t' [tʰ] circle turn
-i	Ⲓ	ⲓ	10	zaIne jYotan 	Ιj, ι	i [iː~j]  Mdj Ϫ	ϫ	ʒ Ϩ ϩ djour!
+i	Ⲓ	ⲓ	10	zaIne jYotan 	Ιj, ι	i [iː~j]  Mdj Ϫ	ϫ	ʒ Ϩ ϩ djour! -ⲓ er/en plural
 k	Ⲕ	ⲕ	20	Kabba	Κ, κ	k [k] ↔ ϦⳈ  ϧⳉ ↔ ϙ koppa	q !
 l	Ⲗ	ⲗ	30	Lola	Λ, λ	l [l] Nil Null  ↔ Ⲣ ⲣ R 
 m	Ⲙ	ⲙ	40	Me	Μ, μ	m [m]  ↔ Ϣ SHm mSH  M component see 𐤌 = M ϫ Mdj
-n	Ⲛ	ⲛ	50	Neil	Ν, ν	n [n] nil null 
+n	Ⲛ	ⲛ	50	Neil	Ν, ν	n [n] nil null newu5
 !	Ⲝ	ⲝ	60	Gsix	Ξ, ξ	ks Xi / 'icks'  Eksi  ↔ Ϙ, ϙ koppa	q / tsh [kʲ, tʃ]
-o	Ⲟ	ⲟ	70	O	Ο, ο	o [o] Ai/Oi!
+o	Ⲟ	ⲟ	70	O	Ο, ο	o [o] SAi/SOi! Seb7
 O	Ⲱ	ⲱ	800	wŌuen	Ω, ω	ō / o [oː] Ⲱ:lOm? wOMega Ω / ω woMikron ⲁⲗⲱϫ=arms
-p	Ⲡ	ⲡ	80	Pi	Π, π	p [p]	*Pthe !
+p	Ⲡ	ⲡ	80	Pi	Π, π	p [p]	*Pthe[many] !
 f	Ч	Ϥ	90 *phth *QVar Gwar ϥϭ	'Fays' fHIS	Ϙ, ϙ (koppa)	Ч QF GV SFai ~Ϥ𓇋φ𓆑  * FHes ↔ Ϥ↔Y-PSI-lon!
 P	Ⳁ	ⳁ	900	*Protaus?
 Q	Ϙ	ϙ _	koppa	q / tsh [kʲ, tʃ] קצ Ⲝ	ⲝ	60	QGsi
@@ -119,7 +119,8 @@ COMMON READING of ⲩ and ⲉ:
 ⲍ g,z,sh ⲁⲡⲟⲍⲣⲁⲫⲏ 	 🇬🇷 apοgraphe auf-schrieb ™  ⲍⲣⲁⲫⲏ ~ scripture
 ⲟ ~ mOy ?
 ⲫ ph vs 𓎡jɠ vs pt ⲍⲣⲁⲫⲏ ~ scripture ~ graphe
-ⲓ ~ iR eR !!		fisher ~ ⲃⲟϩⲓ
+ⲓ -ⲓ -i plural (latin) => -er/-en plural
+ⲓ ~ iR eR !!		fisher ~ ⲃⲟϩⲓ  vs bogCI@turk
 ⲓ ~ -ine/-en (feminine/plural)
 ϥ 1. tha[in] ceDar ~ ⲤⲒϤⲒ != kiFER konIfer F! ⲤⲒϤⲒ zeDer harz TAr Teer ↔ the them sein ton ta sa su dem den ϥⲟϫ TANZEN/DANCE+
 ϥ	1. ⲣⲉⲙan : Kheman / Human RACE ⲣⲉϥ 𓂋𓍃𓀀𓏥  𓂋𓏏𓀀𓏥𓁐  𓂋𓍿𓏏𓀀𓏥𓁐 𓂋𓐍𓏏𓅚𓀀𓏥𓁐 ↔ Right
@@ -990,7 +991,7 @@ apodexic ↔ apodeixic - proof
 
 ⲁϫⲟⲗϯ 	 	n. wagon, cart ↔ rollt? <<<
 
-ⲁϫⲡ , pl. ⲁϫⲡⲓ 	 	fm. hour 'SCHÄFER' <<<
+ⲁϫⲡ , pl. ⲁϫⲡⲓ 	 	fm. hour '𓊃𓊪𓊗 asbach spät ሰአት säʾät' שעתא‎ šāʕtā’ shift <<<
 	ⲙⲫⲛⲁⲩ ⲛⲁϫⲡ 	 adv. at the time of,about the ... hour
 ⲁϫⲡⲓ ↔ ⲁϫⲡ 	 hours
  ⲁϫⲱ , ⲁϫⲟ , ⲁϫⲟⲩ , ⲉϫⲱ , ⲉϫⲟⲩ 	 (25b)f. viper
@@ -1670,7 +1671,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲉⲙⲥⲟⲃⲓ , ⲙⲉⲧⲥⲟⲃⲓ 	 	f. large needle
 ⲉⲙⲧⲟⲛ ↔ ⲙⲧⲟⲛ 	 to be at rest: im ⲧⲟⲛ ~ traum?
 ⲉⲙⲟⲩ , pl. ⲉⲙⲱⲟⲩⲓ 	 	f. cat: a'Muschi
-ⲉⲙⲱⲟⲩⲓ ↔ ⲉⲙⲟⲩ 	 cats
+ⲉⲙⲱⲟⲩⲓ ↔ ⲉⲙⲟⲩ 	 cats 'miau'
 ⲉⲙϣⲓⲣ ↔  ⲙϣⲓⲣ 	 a coptic month,`amshir` ⲙϣ ↔ month
 ⲉⲙϣⲓⲣ ↔  ⲙϣⲓⲣ 	 pot ↔ Muschel?
 ⲉⲙϣⲓϣ ↔ ⲙϣⲓϣ 	 ~~vengeance ?
@@ -5265,7 +5266,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 
 ⲥⲁⲙⲃⲉϩⲓ 	 	f. testicles 1) comb 2) com'beqi??
 
-ⲥⲁⲛⲁⲃⲁϫⲏⲓⲛⲓ ↔ ⲁⲃⲁϫⲏⲓⲛⲓ 	 glass seller / grass ;)
+ⲥⲁⲛⲁⲃⲁϫⲏⲓⲛⲓ ↔ ⲁⲃⲁϫⲏⲓⲛⲓ 	 glass seller / grass = canabis ⲥⲁⲛⲁⲃⲁϫ ;)
 
 ⲥⲁⲛⲇⲁⲗⲓⲟⲛ , -ⲗⲟⲛ 	 🇬🇷 m. sandals EG
 
