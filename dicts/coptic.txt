@@ -14,7 +14,7 @@ e	Ⲉ	ⲉ	5	fEinf	PΕin WEn ε	e [i, e][note 1] ə! dangling I+N ! zB 𓍢 ϢⲈ
 F	Ⲋ	ⲋ	6	So(Ч)	Si(x) Ϛ, ϛ (stigma)	– ЧϤ VAUW!  σ TH! σι'~take ↔ Ⲫ	ⲫ	500	Fi	Φ, φ	ph / p' [pʰ] ↔ ƒⲦ ? Ⲝ	ⲝ	60	Gsi	Ξ, ξ	ks??
 f	ЧϤ чϥ	-> phth 90
 g	Ⲍ	ⲍ	7	Zēbta	Ζ, ζ	z [z]  'Gzji'	↔ Ⲅ	ⲅ	3	Gamma	Γ, γ	g [ɡ] Ϭ ⲌⲌ~NΓ~ng!
-G	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ '['
+G	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ '[' < SymBa symbol ⲉϭⲟⲩ <> ϣ swamp
 h	Ϩ	ϩ	_	đHōri	(none)	h [h, ħ] ϩⲟⲟⲩ : jhourg>day ħ=TH/DH ! QED * 100 𓊪𓂧𓅱𓐍=ⲫⲁϩⲟⲩ=buttock
 K	Ϧ	ϧ _	Khay	(none)	x [x]  חה Schlaf~ ⲥϧⲏⲗⲟ, scrit~ⲥϧⲏⲧ⳼ (write)
 H	Ⲏ	ⲏ	8	hĒtan	Η, η	ē / e [eː] *huηn[t]	 Ϩϩ	Hōri:djhour!  ϢⲎⲦ = cent  NM/T component (russian)  
@@ -34,7 +34,7 @@ Q	Ϙ	ϙ _	koppa	q / tsh [kʲ, tʃ] קצ Ⲝ	ⲝ	60	QGsi
 r	Ⲣ	ⲣ	100	Rhoun'dert	Ρ, ρ	r [r] PRO! 𓍢 rwhoundret dreh wind round +++
 σ	Ϭ	ϭ	_	Shēma	ט ↔ G Gamma/Summa σ
 S	Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s] ↔ Ⲋ	ⲋ	6	So	Ϛ, ϛ (sigma stigma)	–  σ  TH <<  σι~tai' = take
-s	Ϣ	ϣ	_	bShay	(none)	sh / š [ʃ]  ↔ ST? Stigma  ↔ Ϣ ~ W?  MoϢe ~ move! MW component :𐤌 = M
+s	Ϣ	ϣ	_	ShayMB	ΣW	sh / š [ʃ] ↔ ST? SWAMP𓆷 Stigma ↔ Ϣ~W?  MoϢe ~ move! MW component :𐤌 = M
 T	Ϯ	ϯ	_	Ti / De	ti / de [ti, de] 2?  vs Ⲑ	ⲑ	9	`ieta Thēta	Θ, θ
 t	Ⲧ	ⲧ	300	Taw	Τ, τ	t [t]	tau
 u	Ⲩ	ⲩ	400	UEpSilon	Υ, υ	u / ouRg [uː]Γʃ! 𓏌 uR! ⲩ~r  ⲩ~γ~g! <- S,𓋴,𓏏! ypsilon ⲞⲨⲰⲘ=essen Hyper ϩⲟⲟⲩ houR
