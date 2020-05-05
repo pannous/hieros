@@ -54,13 +54,13 @@ man	მ
 tan	თ	
 
 
-an	ა	
+an	ა a	
 ban	ბ	b
 ckar	ქ	Cr
-can	კ	
-chin	ჩ	ch
+can	კ	z
+chin	ჩ	ßh
 cil	წ	σl
-char	ჭ	tcr
+char	ჭ	tcr ;)
 djil	ძ	dj 
 dsin	შ	σn
 don	დ	
@@ -146,10 +146,11 @@ b	ბ	b
 c	ქ	Cr კ cz
 ß	ჩ	ch
 d	ძ	dj~ds	შ	σn  გ gd
-e	ჳ
+E	ჳ
 f	ვ 	
-g	გ	
-h	ჰ	𓎛 I	ჱ 	𓎛I 	ჴ	𓎛	ჵ 𓎛 	orguan!
+g	გ dg	
+h	ჰ	𓎛  
+I	ჱ 	𓎛I 	ჴ	𓎛	ჵ 𓎛 	orguan!
 J	ჯ	
 k	კ	
 K	ქ	Cr
@@ -160,13 +161,13 @@ o	ი oin
 p ჶ	φΦ phoi fi	ფ	 პ	?
 q	ყ	gyr
 r რ	ram ~ lam ლ
-s	ძ	dj σ
+s	ძ	d σ
 s	ს	𓋴s ზ z
 t	ტ	Θ
-uv:w
+uvw
 w ვ
 x	ჲ	𓎛 𓍲 XN hail-but ჲხ	ს KS 
-y ჟ:z
+y:z y-silon
 z	ჟ	
 
 ß	ჩ	𓋴 chin
@@ -174,31 +175,31 @@ z	ჟ
 
 
 Capital:		
-a Ⴀ AN	Ⴀ	
-b Ⴁ BAN	Ⴁ	
+a Ⴀ ANc	Ⴀ	
+b Ⴁ BAN	Ⴁ 𓆑	
 C Ⴚ CAN	Ⴚ	
 d Ⴃ DON	Ⴃ	
 D Ⴇ TAN	Ⴇ	
-e Ⴄ EN	Ⴄ	
-f Ⴅ	VIN	Ⴅ	
+e Ⴄ gEN	Ⴄ	
+f Ⴅ	gVIN	Ⴅ	
 G Ⴂ GAN	Ⴂ	
-G Ⴖ GHAN	Ⴖ	
-h Ⴙ CHIN	Ⴙ
+G Ⴖ GHAN	Ⴖ	 𓋴
+h Ⴙ CHIN	Ⴙ 
 h Ⴡ HE	Ⴡ
 i Ⴈ IN	Ⴈ	
-J Ⴛ JIL	Ⴛ
+J Ⴛ dJIL	Ⴛ
 k Ⴞ XAN	Ⴞ	
 k Ⴕ  KHAR	Ⴕ	
 l Ⴊ LAS	Ⴊ	lasso
 m Ⴋ MAN	Ⴋ	 ???
-N Ⴌ NAR	Ⴌ	en	ⴄ 
+N Ⴌ NAR	Ⴌ	ႾႬ ken	ⴄ 
 O Ⴍ ON	Ⴍ	 UN	Ⴓ	
 P Ⴔ PHAR	Ⴔ	
 q Ⴗ QAR	Ⴗ ZHAR	Ⴏ
 rl Ⴐ RAE	Ⴐ	
 S Ⴝ CHAR	Ⴝ	
 s Ⴑ SAN	Ⴑ	ZEN	Ⴆ	🌣
-t Ⴒ  DL/TAR	Ⴒ
+t Ⴒ  DEL/TAR 	Ⴒ
 u Ⴣ WE	Ⴣ	
 v Ⴎ PAR	Ⴎ	
 w ⴍ ⴓ < Ⴍ Ⴓ on
