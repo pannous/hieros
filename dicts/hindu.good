@@ -18,7 +18,7 @@ behaviour		बर्तावि  brtavi  : behaviour
 berth		बर्थि  brthi  : berth
 beside		पासि  pasi  : beside
 bib		बिबि  bibi  : bib
-binding		जिल्दि  jildi  : binding
+binding		जिल्दि  jildi  : 
 bishop		बिशपि  bishpi  : bishop
 block		ब्लॉकि  bloki  : block
 bomb		बमि  bmi  : bomb
@@ -57,12 +57,11 @@ helicopter		हेलिकोप्टरि  herlikvopttri  : helicopter
 hiccup		हिचकीि  hickyi  : hiccup
 hiccough		हिचकीि  hickyi  : hiccough
 Hindi		हिन्दीि  hindyi  : Hindi
-hip		3ि  ci  : hip
-hip		4ि  di  : hip
+hip		3ि  ci  : hiph
 hippie		हिप्पीि  hippyi  : hippie
 hispanic		स्पेनि  sperni  : hispanic
 homily		धर्मि  dhrmi  : homily
-honk		हंसि  hsi  : honk
+honk		हंसि  hsi  : honk hose--
 hormonal		हार्मोनलि  harmvonli  : hormonal
 hospitalize		अस्पतालि  asptali  : hospitalize
 hotelier		होटलि  hvottli  : hotelier
@@ -89,7 +88,6 @@ kilometer		किलोमीटरि  kilomyttri  : kilometer
 kilowatt		किलोवाटि  kilovatti  : kilowatt
 lantern		लालटेनि  laltterni  : lantern
 lava		लावाि  lavai  : lava
-leaven		तनावि  tnavi  : leaven
 lens		लेन्सि  lernsi  : lens
 line		लाइनि  laini  : line
 linen		लिनेनि  linerni  : linen
