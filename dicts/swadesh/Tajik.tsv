@@ -1,0 +1,208 @@
+#	EN	Tajik Cyrillic	Tajik	PIE	
+1 	I 	ман 	man	mon mein	
+2 	you (singular) 	ту 	tu	tu	
+3 	he 	ӯ, вай 	u, vay		
+4 	we 	мо 	mo	moi, mir	
+5 	you (plural) 	шумо 	šumo	Seine…@Turk	
+6 	they 	онҳо 	onho	on, eux	
+7 	this 	ин 	in	na	
+8 	that 	он 	on	na	
+9 	here 	инҷо 	injo	in.ici	
+10 	there 	онҷо 	onjo	in.ici	
+11 	who 	кӣ 	ki	qui	
+12 	what 	чӣ 	chi	que	
+13 	where 	куҷо 	kujo	que.wo	
+14 	when 	кай 	kay	quan	
+15 	how 	чихел 	chixel		
+16 	not 	на 	na	no	
+17 	all 	ҳама 	hama	hūmantes@Hittite <> ha.mind ha.many common 𐌇𐌄𐌅𐌀 Hevery	
+18 	many 	бисёр 	bisyor		
+19 	some 	ягон 	yagon		
+20 	few 	кам 	kam	kaum	
+21 	other 	дигар 	digar	Digar=man	
+22 	one 	як 	yak	eyn eyk 𓁺	
+23 	two 	ду 	du	duor 𓂈𓂈	
+24 	three 	се 	se	cre ceen san 𓄑 Щ	
+25 	four 	чор 	chor	qvtor	
+26 	five 	панҷ 	panj		
+27 	big 	калон 	kalon	kar™.on	
+28 	long 	дароз 	daroz	dar™.os	
+29 	wide 	фарох 	farox	far™.os	
+30 	thick 	ғафс 	ghafs	गाढ़ा gāṛhā girafs?	
+31 	heavy 	вазнин, сангин 	vaznin, sangin		
+32 	small 	хурд 	xurd	kurdz	
+33 	short 	кӯтоҳ, паст 	kutoh, past	cute	
+34 	narrow 	танг 	tang	tEng ++	
+35 	thin 	тунук 	tunuk	thin.ig	
+36 	woman 	зан 	zan	gyne san さん	
+37 	man (adult male) 	мард 	mard	Martin	
+38 	man (human being) 	инсон, одам 	inson, odam	insane son adam	
+39 	child 	кӯдак 	kudak	kid	
+40 	wife 	зан 	zan	gyne san さん	
+41 	husband 	шавҳар 	šavhar		
+42 	mother 	модар 	modar	🗸	🗸
+43 	father 	падар 	padar	🗸	🗸
+44 	animal 	ҷонвар 	jonvar		
+45 	fish 	моҳӣ 	mohi	𓈗	
+46 	bird 	парранда 	parranda	parrot	
+47 	dog 	саг 	sag	saka~geter:köter	
+48 	louse 	шипиш 	šipiš		
+49 	snake 	мор 	mor	𓈗𓆙	
+50 	worm 	кирм 	kirm	Gewürm (chrome)	
+51 	tree 	дарахт 	daraxt	Tree.ast !	
+52 	forest 	беша 	besha	boreal bo.shu 木术	<<
+53 	stick 	чӯб 	chub	club	
+54 	fruit 	мева 	meva	malve	
+55 	seed 	тухм 	tuxm		
+56 	leaf 	барг 	barg	~bark	
+57 	root 	реша 	resha	~	🗸
+58 	bark (of a tree) 	пӯсти дарахт 	pusti daraxt		
+59 	flower 	гул 	gul		
+60 	grass 	сабза 	sabza		
+61 	rope 	арғамчин 	arghamchin		
+62 	skin 	пӯст 	pust		
+63 	meat 	гӯшт 	gušt		
+64 	blood 	хун 	xun		
+65 	bone 	устухон 	ustuxon		
+66 	fat (noun) 	чарб 	charb		
+67 	egg 	тухм 	tuxm		
+68 	horn 	шох 	šox		
+69 	tail 	дум 	dum		
+70 	feather 	пар 	par		
+71 	hair 	мӯй 	muy		
+72 	head 	сар 	sar		
+73 	ear 	гӯш 	gush		
+74 	eye 	чашм 	chašm		
+75 	nose 	бинӣ 	bini		
+76 	mouth 	даҳон 	dahon		
+77 	tooth 	дандон 	dandon		
+78 	tongue (organ) 	забон 	zabon		
+79 	fingernail 	нохун 	noxun		
+80 	foot 	пой 	poy		
+81 	leg 	линг 	ling		
+82 	knee 	зону 	zonu		
+83 	hand 	даст 	dast		
+84 	wing 	бол 	bol		
+85 	belly 	шикам 	šikam		
+86 	guts 	рӯда 	ruda		
+87 	neck 	гардан 	gardan		
+88 	back 	пушт 	pušt		
+89 	breast 	сина 	sina		
+90 	heart 	дил 	dil		
+91 	liver 	ҷигар 	jigar		
+92 	to drink 	нӯшидан 	nušidan		
+93 	to eat 	хӯрдан 	xurdan		
+94 	to bite 	газидан 	gazidan		
+95 	to suck 	макидан 	makidan		
+96 	to spit 	туф кардан 	tuf kardan		
+97 	to vomit 	қай кардан 	qay kardan		
+98 	to blow 	пуф кардан 	puf kardan		
+99 	to breathe 	нафас кашидан 	nafas kašidan		
+100 	to laugh 	хандидан 	xandidan		
+101 	to see 	дидан 	didan		
+102 	to hear 	шунидан 	šunidan		
+103 	to know 	донистан 	donistan		
+104 	to think 	андешидан 	andešidan		
+105 	to smell 	бӯй кардан 	buy kardan		
+106 	to fear 	тарсидан 	tarsidan		
+107 	to sleep 	хобидан 	xobidan		
+108 	to live 	зистан, зиндагӣ кардан 	zistan, zindagi kardan		
+109 	to die 	мурдан 	murdan		
+110 	to kill 	куштан 	kuštan		
+111 	to fight 	ҷангидан 	jangidan		
+112 	to hunt 	шикор кардан 	šikor kardan		
+113 	to hit 	задан 	zadan		
+114 	to cut 	бурридан 	burridan		
+115 	to split 	шикофтан 	šikoftan		
+116 	to stab 	корд задан 	kord zadan		
+117 	to scratch 	ханҷол кардан 	xanjol kardan		
+118 	to dig 	кофтан 	koftan		
+119 	to swim 	шино кардан 	šino kardan		
+120 	to fly 	паридан 	paridan		
+121 	to walk 	гаштан 	gaštan		
+122 	to come 	омадан 	omadan		
+123 	to lie (as in a bed) 	дароз кашидан 	daroz kašidan		
+124 	to sit 	нишастан, шиштан 	nišastan, šištan		
+125 	to stand 	истодан 	istodan		
+126 	to turn (intransitive) 	чархидан 	charxidan		
+127 	to fall 	афтодан 	aftodan		
+128 	to give 	додан 	dodan		
+129 	to hold 	гирифтан 	giriftan		
+130 	to squeeze 	фишор кардан 	fišor kardan		
+131 	to rub 	молидан 	molidan		
+132 	to wash 	шустан 	šustan		
+133 	to wipe 	пок кардан 	pok kardan		
+134 	to pull 	кашидан 	kašidan		
+135 	to push 	тела додан 	tela dodan		
+136 	to throw 	партофтан, андохтан 	partoftan, andoxtan		
+137 	to tie 	бастан 	bastan		
+138 	to sew 	дӯхтан 	duxtan		
+139 	to count 	шумурдан 	šumurdan		
+140 	to say 	гуфтан 	guftan		
+141 	to sing 	сурудан 	surudan		
+142 	to play 	бозӣ кардан 	bozi kardan		
+143 	to float 	шиновар шудан 	šinovar šudan		
+144 	to flow 	равон шудан 	ravon shudan		
+145 	to freeze 	ях кардан 	yax kardan		
+146 	to swell 	омосидан 	omosidan		
+147 	sun 	хуршед, офтоб 	xurshed, oftob		
+148 	moon 	моҳ 	moh		
+149 	star 	ситора 	sitora		
+150 	water 	об 	ob		
+151 	rain 	борон 	boron		
+152 	river 	рӯд, дарё 	rud. daryo		
+153 	lake 	кӯл 	kul		
+154 	sea 	баҳр, дарё 	bahr, daryo		
+155 	salt 	намак 	namak		
+156 	stone 	санг 	sang		
+157 	sand 	рег 	reg		
+158 	dust 	чанг 	chang		
+159 	earth 	замин 	zamin		
+160 	cloud 	абр 	abr		
+161 	fog 	туман 	tuman		
+162 	sky 	осмон 	osmon		
+163 	wind 	бод 	bod		
+164 	snow 	барф 	barf		
+165 	ice 	ях 	yax		
+166 	smoke 	дуд 	dud		
+167 	fire 	оташ 	otash		
+168 	ash 	хокистар 	xokistar		
+169 	to burn 	сӯхтан 	suxtan		
+170 	road 	роҳ 	roh		
+171 	mountain 	кӯҳ 	kuh		
+172 	red 	сурх 	surx		
+173 	green 	сабз 	sabz		
+174 	yellow 	зард 	zard		
+175 	white 	сафед 	safed		
+176 	black 	сиёҳ 	siyoh		
+177 	night 	шаб 	šab		
+178 	day 	рӯз 	ruz		
+179 	year 	сол 	sol		
+180 	warm 	гарм 	garm		
+181 	cold 	хунук, сард 	xunuk, sard		
+182 	full 	пур 	pur		
+183 	new 	нав 	nav		
+184 	old 	кӯҳна (inanimate), пир (animate) 	kuhna (inanimate), pir (animate)		
+185 	good 	нағз, хуб 	naghz, xub		
+186 	bad 	бад, ганда 	bad, ganda		
+187 	rotten 	пӯсида 	pusida		
+188 	dirty 	чиркин 	chirkin		
+189 	straight 	рост 	rost		
+190 	round 	гирд 	gird		
+191 	sharp (as a knife) 	тез 	tez		
+192 	dull (as a knife) 	кунд 	kund		
+193 	smooth 	суфта 	sufta		
+194 	wet 	тар 	tar		
+195 	dry 	хушк 	xušk		
+196 	correct 	дуруст 	durust		
+197 	near 	наздик 	nazdik		
+198 	far 	дур 	dur		
+199 	right 	рост 	rost		
+200 	left 	чап 	chap		
+201 	at 	ба 	ba		
+202 	in 	дар 	dar		
+203 	with 	бо 	bo		
+204 	and 	у 	u		
+205 	if 	агар 	agar		
+206 	because 	чунки 	chunki		
+207 	name 	ном 	nom 		
