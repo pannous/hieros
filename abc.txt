@@ -8,7 +8,8 @@ U+13000 (77824) vs U+F3000
 α β ζγ δ ε ϝφ γζ η ι  θ κ λ μ νξ οω πφ ξ  ϱ ςσ ψ ϑθτ υ φ ω χ υ ζ ϊ ϋ ό ύ ώ ϐ 
 Α Β ΖΓ Δ Ε ϜΦ ΓΖ Η Ι  Θ Κ Λ Μ ΝΞ ΟΩ ΠΦ Ξ  ρ ΣΣ Ψ ΘΘΤ Υ Φ Ω Χ Υ Ζ Ϊ Ϋ Ό Ύ Ώ Β 
 A B CG D E Fø GZ H I JT K L M NX OW PH Xu R S ps ΘΘT Y V W X Y Z
-↔ ɠ 𓊾 ſϝƒ ϛ δ ð đ ɗ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ɟ ι ɽ ṛ ɹ~ꜣ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḫ ħ ḩ ɦ ꜣ ḏ ṯ ţ š ʃ ð þ ϋ υ  ſ=<meta>f+s  Þþ pthorn?
+
+↔ Ḫ ḥ ḫ ħ ḩ ɦ ɠ 𓊾 ſϝƒ ϛ δ ð đ ɗ ɠ λʎ ƃ ƥ ɲ~ŋ ʕ ȳ ə ɟ ι ɽ ṛ ɹ~ꜣ ˁ ꟿy <> UN ⌘⃣F⃣ φeδ Δ tz ꜩ ɮ δ ə ə̃  ↯⭍ ⦚ ȝ Ḫ ḥ ḫ ħ ḩ ɦ ꜣ ḏ ṯ ţ š ʃ ð þ ϋ υ  ſ=<meta>f+s  Þþ pthorn?
 
 
 α βv γΓ δסτ ηε ηfζ Γγרלλע  ηחθ ι υ  κ  λ μ  νυuvη ωοπ πφρ ξρ Γρ σςύώ τπυσ  υ υ ω χ  υעy τζז	 ψש 
@@ -392,6 +393,7 @@ E31 𓃶 <> ♀𐀼𓋩♀ capram 𐀼 gafr capri.corn𓄏! chèvre -> Schäfer 
 ♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩♀𐀼𓋩
 
 E32	𓃷 baboon  E33	𓃸  mon.key oon.cry vs 𓆏 *.cuisine
+E34 𓃹 KUN>Kaninchen Kuon
 E34 𓃹+- HaSen/haresen Hare~Haa~Hoo hs#WN shun 𐍃𐌷𐌿𐌽 sein hhasan:feel,be ! 𒅅~𓉿! الأرنبaornb  Hånsen E34A 
 heißt hast ast 𐎠𐎿𐎫𐎡𐎹 <> 𒍣   est<>esse (sein) 𐀸𐀭=Fεζζα ça-fait chasen rasen hasten phast fast <>vs rapid rabbit  Wessen:with?win?+mas+großen śuwaṃ = eat@Tochari!!!
 E34A𓃺- HAMmEL  /zun/hop 𓃹 𓃺 haben/sein/'esse  arrow=send,zun 𓊃𓃹𓈖𓏏𓌕 
@@ -652,8 +654,8 @@ M44 𓇮 SpießHorn / Cophta?~covert~'Sopd'~ceptra~spitz~sPIKa    𓇮 spi' vs p
 
 N Indra noster + Natur pfade vs Moor@M
 --------------
-N1	𓇯 air/area<>Urea  cover 𓈎𓃀𓎛𓏂𓈗 Kipper  𓇯𓏏=Erde! <> pitair
-N1T 󴃙 nature 𓈖𓇑𓇑𓏏𓇯󴃙 not¬air=terre
+N1	𓇯 air/area<>Urea  cover 𓈎𓃀𓎛𓏂𓈗 Kipper  𓇯𓏏=Erde! <> pitair ︗
+N1T 󴃙 nature 𓈖𓇑𓇑𓏏𓇯󴃙 not¬air=terre air¬de = erde earth
 N2  𓇰 µnighT 𓅱𓐍𓇰  vs 𓅱 каç 𓎡𓎡𓐍𓆼𓇰  zuckair? ~ Sokr    𓇰   <> khmer
 N3	𓇱 Noir,Nuit,NU : Nubia  |  Thundair Donner Thor Shamair?
 N4	airain  𓇲  <> train

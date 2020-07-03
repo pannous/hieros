@@ -1,0 +1,828 @@
+/Users/me/dev/script/python/WiktionaryParser/			
+extensions v1.0.0 loaded			Modern form (~ means false friend)
+𐌰𐌲𐌻𐌾𐌰𐌽 	 aglɕen	agle 	ache	 hurt,damage
+𐌰𐌷𐌾𐌰𐌽 	 aḫɕen	aḫe 		 think,assume
+𐌰𐌹𐌲𐌰𐌽 	 aιgen	aιge 	eigen, eignen	 possess,own
+𐌰𐌹𐌷𐌰𐌽 	 aιḫen	aιḫe 	own	 
+𐌰𐌹𐌷𐍄𐍂𐍉𐌽 	 aιḫtren	aιḫtre 	achten?	 pray,request,supplicate
+𐌰𐌹𐍂𐌶𐌾𐌰𐌽 	 aιrzɕen	aιrshe 	~urge	 delude,mislead
+𐌰𐌹𐍂𐌹𐌽𐍉𐌽 	 aιrιnen	aιrιne 	air:envoy	 ambassador,representative,oldwikisource:Gothic Bible in Ulfilan Gothic Script#V. 6|2 Corinthians 5:20,oldwikisource:Gothic Bible in Ulfilan Gothic Script#VI. 8|Ephesians 6:20
+𐌰𐌹𐍃𐍄𐌰𐌽 	 aιsten	aιste 	√eye	 regard,reverence
+𐌰𐌹𐍅𐌰𐌲𐌲𐌴𐌻𐌾𐌰𐌽 	 aιwengelɕen	aιvangele 	evangel…	 preach,gospel
+𐌰𐌹𐍅𐌹𐍃𐌺𐍉𐌽 	 aιweschen	aιvιshe 	aisch!	 shameful,unseemly,oldwikisource:Gothic Bible in Ulfilan Gothic Script#XIII. 4|1 Corinthians 13:4-7
+𐌰𐌻𐌰𐌽 	 alen	ale 	a'leng?	 grow,nourish
+𐌰𐌻𐌾𐌰𐌻𐌴𐌹𐌺𐍉𐌽 	 alɕaleιken	alɕaleιke 	allegoric	 differently,differ,allegorical
+𐌰𐌻𐌾𐌰𐌽 	 alɕen	ale 		 eagerness,zeal,cause,grow,fat,fatten
+𐌰𐌻𐌾𐌰𐌽𐍉𐌽 	 alɕanen	alɕane 		 zealous,strive
+𐌰𐌽𐌰𐌰𐌿𐌺𐌰𐌽 	 angeøken	enauke 	an.ge.augment	 add,augment
+𐌰𐌽𐌰𐌱𐌹𐌿𐌳𐌰𐌽 	 angebeuden	enbιude 	angebieten	 command,instruct,order
+𐌰𐌽𐌰𐌲𐌰𐌲𐌲𐌰𐌽 	 angegangen	engange 	 angegangen+	 approach,come
+𐌰𐌽𐌰𐌳𐍂𐌹𐌲𐌺𐌰𐌽 	 angedrιnken	endrιnke 	eintrinken angetrunken en'drunk	 drunk
+𐌰𐌽𐌰𐌵𐌹𐌸𐌰𐌽 	 angekrιƌen	encιƒe 	ankreiden,angezettelt	 denounce,censure,blaspheme
+𐌰𐌽𐌰𐌵𐌹𐌼𐌰𐌽 	 angekrιmen	encιme 	ankommen angekommen	 come upon
+𐌰𐌽𐌰𐌵𐌹𐌿𐌾𐌰𐌽 	 angekrιuɕen	encιue 	ange…quicken	 compel,force
+𐌰𐌽𐌰𐌷𐌰𐌱𐌰𐌽 	 angeḫaben	enḫabe 	~angeHaben	 take hold,possess
+𐌰𐌽𐌰𐌷𐌰𐌹𐍄𐌰𐌽 	 angeḫaιten	enḫaιte 	angeheißen	 invoke,beseech,call upon,scold,reprimand
+𐌰𐌽𐌰𐌷𐌰𐌼𐍉𐌽 	 angeḫamen	enḫame 	enHemd𓋳	 get dressed
+𐌰𐌽𐌰𐌷𐌽𐌰𐌹𐍅𐌾𐌰𐌽 	 angeḫnaιwɕen	enḫnaιve 	geneve?	 lay down
+𐌰𐌽𐌰𐌷𐌽𐌴𐌹𐍅𐌰𐌽 	 angeḫneιwen	enḫneιve 		 bend,down,bow
+𐌰𐌽𐌰𐌸𐌹𐍅𐌰𐌽 	 angeƌιwen	enƒιve 	enthrall	 enslave,enthrall,subjugate
+𐌰𐌽𐌰𐌸𐍂𐌰𐍆𐍃𐍄𐌾𐌰𐌽 	 angeƌrafstɕen	enƒrafste 		 spirit,relieve,comfort
+𐌰𐌽𐌰𐌹𐌽𐍃𐌰𐌺𐌰𐌽 	 angeιnsaken	enιnsake 		 impart,confer,argumentation
+𐌰𐌽𐌰𐌺𐌰𐌿𐍂𐌾𐌰𐌽 	 angekørɕen	enkaure 		 overburden
+𐌰𐌽𐌰𐌺𐌿𐌼𐌱𐌾𐌰𐌽 	 angekumbɕen	enkumbe 	encomb?	 lie,down,table,recline
+𐌰𐌽𐌰𐌺𐌿𐌽𐌽𐌰𐌽 	 angekunnen	enkunne 	einKunden?	 read,teach,learn,reading
+𐌰𐌽𐌰𐌻𐌰𐌲𐌾𐌰𐌽 	 angelagɕen	enlage 	einlage, enlay, inf.lict	 lay,inflict
+𐌰𐌽𐌰𐌻𐌰𐍄𐌾𐌰𐌽 	 angelatɕen	enlate 		 prevent,hinder,oldwikisource:|1 Thessalonians 2:18,opportunity,oldwikisource:Gothic Bible in Ulfilan Gothic Script#IV. 7|Philippians 4:10
+𐌰𐌽𐌰𐌼𐌰𐌷𐍄𐌾𐌰𐌽 	 angemaḫtɕen	enmaḫte 	<>augment	 wrong,defraud,violence,ill-treat,abuse,accuse,falsely
+𐌰𐌽𐌰𐌼𐌴𐌻𐌾𐌰𐌽 	 angemelɕen	enmele 	eingemeißelt? angemailt;)	 write,entry,register,enroll
+𐌰𐌽𐌰𐌽𐌰𐌼𐌽𐌾𐌰𐌽 	 angenamnigen	ennamne 	ange…name genehmigt	 name,call
+𐌰𐌽𐌰𐌽𐌰𐌽𐌸𐌾𐌰𐌽 	 angenanƌɕen	ennanƒe 	~angenannt <> anerkannt --	 dare,brave,bold
+𐌰𐌽𐌰𐌽𐌰𐌿𐌸𐌾𐌰𐌽 	 angenøƌɕen	ennauƒe 	…nötigen+	 compel,force
+𐌰𐌽𐌰𐌽𐌹𐌿𐌾𐌰𐌽 	 angenιuɕen	ennιue 	an/erneuern	 renew
+𐌰𐌽𐌰𐍀𐍂𐌰𐌲𐌲𐌰𐌽 	 angeprangen	enprange 	anprangern ~angeprangert  	 trouble
+𐌰𐌽𐌰𐍃𐌹𐌻𐌰𐌽 	 angesιlen	ensιle 	en-silent	 cease,stop,silent
+𐌰𐌽𐌰𐍃𐌻𐌰𐍅𐌰𐌽 	 angeslawen	enslave 	eingeschlafen	 quiet down,still
+𐌰𐌽𐌰𐍃𐌻𐌴𐍀𐌰𐌽 	 angeslepen	enslepe 	einschlafen	 fall asleep
+𐌰𐌽𐌰𐍃𐍄𐍉𐌳𐌾𐌰𐌽 	 angestudɕen	enstōde 	anstoßen	 begin
+𐌰𐌽𐌰𐍄𐌹𐌼𐍂𐌾𐌰𐌽 	 angetιmrɕen	entιmre 	antürmen	 build
+𐌰𐌽𐌰𐍄𐍂𐌹𐌼𐍀𐌰𐌽 	 angetrιmpen	entrιmpe 	anTrampeln ;)	 press,crowd
+𐌰𐌽𐌰𐍅𐌰𐌼𐌼𐌾𐌰𐌽 	 angewemmɕen	envamme 	anSchwemmen?	 mar,stain
+𐌰𐌽𐌰𐍆𐌹𐌻𐌷𐌰𐌽 	 angefιlḫen	enfιlḫe 		 entrust,give,safekeeping
+𐌰𐌽𐌰𐍈𐌴𐌹𐌻𐌰𐌽 	 angeweιlen	enwheιle 	anWeil: langeweile	 break,rest,repose
+𐌰𐌽𐌳𐌱𐌰𐌷𐍄𐌾𐌰𐌽 	 entbaḫtɕen	anti-baḫte 		 serve,administer,perform
+𐌰𐌽𐌳𐌱𐌴𐌹𐍄𐌰𐌽 	 entbeιten	anti-beιte 	an-beißen	 bite,back,snap,rebuke,scold
+𐌰𐌽𐌳𐌱𐌹𐌽𐌳𐌰𐌽 	 entbenden	anti-bιnde 	entbinden, unbind	 unbind,loose,release
+𐌰𐌽𐌳𐌱𐌿𐌽𐌳𐌽𐌰𐌽 	 entbundnen	anti-bundne 	entbinden, unbind	 loosen
+𐌰𐌽𐌳𐌵𐌹𐌸𐌰𐌽 	 entkrιƌen	anti-cιƒe 	anda-grüßen	 farewell,take leave,greet,salute,address
+𐌰𐌽𐌳𐌷𐌰𐌹𐍄𐌰𐌽 	 entḫaιten	anti-ḫaιte 		 acknowledge,confess,admit,profess,praise,honour
+𐌰𐌽𐌳𐌷𐌰𐌼𐍉𐌽 	 entḫamen	anti-ḫame 		 divest
+𐌰𐌽𐌳𐌷𐌰𐌿𐍃𐌾𐌰𐌽 	 entḫøsɕen	anti-ḫause 	ent.hearken	 hearken,heed,listen
+𐌰𐌽𐌳𐌷𐌰𐍆𐌾𐌰𐌽 	 entḫafɕen	anti-ḫafe 	ent.haften	 unbind,loose,release
+𐌰𐌽𐌳𐌷𐌿𐌻𐌾𐌰𐌽 	 entḫulɕen	anti-ḫule 	enthüllen++	 uncover,reveal
+𐌰𐌽𐌳𐌷𐍂𐌿𐍃𐌺𐌰𐌽 	 entḫruschen	anti-ḫrushe 	anta.raise	 investigate,explore,raise,question
+𐌰𐌽𐌳𐌸𐌰𐌲𐌺𐌾𐌰𐌽 	 entƌankɕen	anti-ƒanke 	eindünken	 decide,make up one's mind,remember,consider,think of
+𐌰𐌽𐌳𐌻𐌴𐍄𐌽𐌰𐌽 	 entletnen	anti-letne 	entlassen	 released,separated
+𐌰𐌽𐌳𐌽𐌹𐌼𐌰𐌽 	 entnιmen	anti-nιme 	annehmen!	 accept,take in,adopt,receive
+𐌰𐌽𐌳𐍂𐌹𐌽𐌽𐌰𐌽 	 entrιnnen	anti-rιnne 	entgegen rennen	 dispute,argue
+𐌰𐌽𐌳𐍃𐌰𐌹𐍈𐌰𐌽 	 entsaιwen	anti-saιwhe 	ant.sider ~ consider	 consider
+𐌰𐌽𐌳𐍃𐌰𐌺𐌰𐌽 	 entsaken	anti-sake 	entgegen sagen	 speak,against,oppose,dispute
+𐌰𐌽𐌳𐍃𐌰𐌻𐌾𐌰𐌽 	 entsalɕen	anti-sale 	anti-sale, sell 	 pay,offer,tribute,sacrifice
+𐌰𐌽𐌳𐍃𐌹𐍄𐌰𐌽 	 entsιten	anti-sιte 		 disturbed,shrink
+𐌰𐌽𐌳𐍃𐍀𐌴𐌹𐍅𐌰𐌽 	 entspeιwen	anti-speιve 	undespise	 despise,reject
+𐌰𐌽𐌳𐍃𐍄𐌰𐌻𐌳𐌰𐌽 	 entstalden	anti-stalde 	@Stall?	 supply,disposal,provide
+𐌰𐌽𐌳𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 entstanden	anti-stande 	stand-against	 stand,against,oppose,withstand,resist
+𐌰𐌽𐌳𐍃𐍄𐌰𐌿𐍂𐍂𐌰𐌽 	 entstørren	anti-staurre 	√story	 murmur,scold
+𐌰𐌽𐌳𐍄𐌹𐌻𐍉𐌽 	 enttιlen	anti-tιle 	handlen, anteilen!	 hold,devoted,accept
+𐌰𐌽𐌳𐍅𐌰𐌿𐍂𐌳𐌾𐌰𐌽 	 entweurdɕen	anti-vaurde 	antworten++	 answer
+𐌰𐌽𐌳𐍅𐌰𐍃𐌾𐌰𐌽 	 entwesɕen	anti-vase 	un-vest	 strip,take
+𐌰𐌿𐌲𐌾𐌰𐌽 	 øgɕen	auge 	√Auge	 show
+𐌰𐌿𐌳𐌰𐌲𐌾𐌰𐌽 	 ødagɕen	audage 	audacity?	 bless,blessed
+𐌰𐌿𐌷𐌾𐍉𐌽 	 øḫɕen	auḫɕe 	~aufgehen	 uproar,noisy,tumultuous
+𐌰𐌿𐌺𐌰𐌽 	 øken	auke 	augment	 increase,grow
+𐌰𐌿𐌺𐌽𐌰𐌽 	 øknen	aukne 	augment, acne? ἀκμή 	 grow,increase
+𐌰𐍂𐌱𐌰𐌹𐌳𐌾𐌰𐌽 	 arbaιdɕen	arbaιde 	arbeiten++	 work,toil,strive,struggle
+𐌰𐍂𐌼𐌰𐌽 	 armen	arme 	arm > almen	 pity,compassion
+𐌰𐍂𐌾𐌰𐌽 	 arɕen	are 	<<harken	 plough
+𐌰𐍄𐌰𐌿𐌲𐌾𐌰𐌽 	 atøgɕen	atauge 	√Auge	 show,bring,before
+𐌰𐍄𐌱𐌰𐌹𐍂𐌰𐌽 	 atbaιren	atbaιre 	ad-bear > offer ?	 bring,present,offer
+𐌰𐍄𐌲𐌰𐌲𐌲𐌰𐌽 	 atgangen	atgange 	zugang	 access
+𐌰𐍄𐌲𐌰𐍂𐌰𐌹𐌷𐍄𐌾𐌰𐌽 	 atgaraιḫtɕen	atgaraιḫte 	…gerecht	 set,in order
+𐌰𐍄𐌲𐌹𐌱𐌰𐌽 	 atgιben	atgιbe 	abgeben	 give,deliver
+𐌰𐍄𐌳𐍂𐌰𐌲𐌰𐌽 	 atdragen	atdrage 	(zu)tragen	 carry
+𐌰𐍄𐌳𐍂𐌹𐌿𐍃𐌰𐌽 	 atdrιusen	atdrιuse 	abdösen;)	 fall,towards,down,into
+𐌰𐍄𐌷𐌰𐌱𐌰𐌽 	 atḫaben	atḫabe 	~approach?	 come,approach
+𐌰𐍄𐌷𐌰𐌷𐌰𐌽 	 atḫaḫen	atḫaḫe 		 let down
+𐌰𐍄𐌷𐌰𐌹𐍄𐌰𐌽 	 atḫaιten	atḫaιte 		 summon,call
+𐌰𐍄𐌷𐌰𐍆𐌾𐌰𐌽 	 atḫafɕen	atḫafe 	hiefen < aufheben	 lift,down,take,down
+𐌰𐍄𐌸𐌹𐌽𐍃𐌰𐌽 	 atƌιnsen	atƒιnse 		 draw,drag,pull
+𐌰𐍄𐌺𐌿𐌽𐌽𐌰𐌽 	 atkunnen	atkunne 	ad.kunden ~  acknowledge?	 acknowledge,duly,grant
+𐌰𐍄𐌻𐌰𐌲𐌾𐌰𐌽 	 atlagɕen	atlage 	ablegen	 lay,set,cast,down
+𐌰𐍄𐌻𐌰𐌸𐍉𐌽 	 atlaƌen	atlaƒe 	einladen	 call,bid,come,invite
+𐌰𐍄𐌻𐌹𐌲𐌰𐌽 	 atlιgen	atlιge 	ablegen	 present
+𐌰𐍄𐌽𐌴𐍈𐌾𐌰𐌽 	 atnewɕen	atnewhe 	annähern	 arrive,at hand,approach,come,near
+𐌰𐍄𐌽𐌹𐌼𐌰𐌽 	 atnιmen	atnιme 	annehmen	 take,to,transfer
+𐌰𐍄𐍂𐌹𐌽𐌽𐌰𐌽 	 atrιnnen	atrιnne 	ab.rennen	 run,up
+𐌰𐍄𐍃𐌰𐌹𐍈𐌰𐌽 	 atsaιwen	atsaιwhe 	ansehen	 look
+𐌰𐍄𐍃𐌰𐍄𐌾𐌰𐌽 	 atsatɕen	atsate 	absetzen	 set,before,present
+𐌰𐍄𐍃𐌽𐌰𐍂𐍀𐌾𐌰𐌽 	 atsnarpɕen	atsnarpe 		 handle
+𐌰𐍄𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 atstanden	atstande 	…stand	 stand,halt,come
+𐌰𐍄𐍃𐍄𐌴𐌹𐌲𐌰𐌽 	 atsteιgen	atsteιge 	aufsteigen, ansteigen	 descend
+𐌰𐍄𐍄𐌴𐌺𐌰𐌽 	 atteken	atteke 	attack, a touch	 touch,contact
+𐌰𐍄𐍄𐌹𐌿𐌷𐌰𐌽 	 attιuḫen	attιuḫe 	<> teach?	 bring,convey,bring up
+𐌰𐍄𐍅𐌰𐌹𐍂𐍀𐌰𐌽 	 atweιrpen	atvaιrpe 	(ab)werfen	 throw,hurl,forth
+𐌰𐍄𐍅𐌰𐌻𐍅𐌾𐌰𐌽 	 atwelwɕen	atvalve 		 roll
+𐌰𐍄𐍅𐌰𐌽𐌳𐌾𐌰𐌽 	 atwendɕen	atvande 	(um)wenden	 return
+𐌰𐍄𐍅𐌹𐍃𐌰𐌽 	 atwesen	atvιse 	anwesend	 be,present
+𐌰𐍄𐍅𐍉𐍀𐌾𐌰𐌽 	 atwupɕen	atvōpe 	<<<	 call,summon
+𐌰𐍄𐍆𐌰𐍂𐌾𐌰𐌽 	 atfarɕen	atfare 	(an)fahren	 arrive
+𐌰𐍅𐌹𐌻𐌹𐌿𐌳𐍉𐌽 	 awelιuden	avιlιude 	abladen? √laudatio √LET	 give,thanks
+𐌰𐍆𐌰𐌲𐌾𐌰𐌽 	 abagɕen	off-age 	a'frighten	 scare,away,frighten,off
+𐌰𐍆𐌰𐌹𐌺𐌰𐌽 	 abaιken	off-aιke 		 renounce,forswear,disavow
+𐌰𐍆𐌰𐌹𐍂𐌶𐌾𐌰𐌽 	 abaιrzɕen	aftershe 		 misguide,deceive
+𐌰𐍆𐌰𐍂𐌲𐌰𐌲𐌲𐌰𐌽 	 abargangen	aftergange 	going after	 go after,follow,accompany
+𐌰𐍆𐌰𐍂𐌻𐌰𐌹𐍃𐍄𐌾𐌰𐌽 	 abarlaιstɕen	afterlaιste 	after-listen?	 follow
+𐌰𐍆𐌲𐌰𐌲𐌲𐌰𐌽 	 abgangen	off-gange 	abgehen+	 depart,go,out,go,aside
+𐌰𐍆𐌲𐌹𐌱𐌰𐌽 	 abgιben	off-gιbe 	~abgeben	 depart
+𐌰𐍆𐌳𐌰𐌹𐌻𐌾𐌰𐌽 	 abdaιlɕen	off-daιle 	abteilen++	 give,distribute,share
+𐌰𐍆𐌳𐌰𐌿𐌱𐌽𐌰𐌽 	 abdøbnen	off-daubne 	ab.taub deaf	 deaf,numb,blind,hard,stubborn
+𐌰𐍆𐌳𐌰𐌿𐌸𐌾𐌰𐌽 	 abdøƌɕen	off-dauƒe 	abtöten < apo.death	 put to death,kill off,eliminate
+𐌰𐍆𐌳𐌿𐌼𐌱𐌽𐌰𐌽 	 abdumbnen	off-dumbne 	ab.dumb <> taub	 silent,still
+𐌰𐍆𐌳𐍂𐌰𐌿𐍃𐌾𐌰𐌽 	 abdrøsɕen	off-drause 		 cast,down,thrown,down
+𐌰𐍆𐌳𐍉𐌱𐌽𐌰𐌽 	 abdubnen	off-dōbne 	ab.taub deaf 𓊵 𓏏 𓊪 !!!	 silent,hold one's peace
+𐌰𐍆𐌳𐍉𐌼𐌾𐌰𐌽 	 abdumɕen	off-dōme 	ab'dammen	 condemn,curse,abjure
+𐌰𐍆𐌳𐍉𐌾𐌰𐌽 	 abduɕen	off-dōe 		 confuse,trouble,vex
+𐌰𐍆𐌵𐌹𐌸𐌰𐌽 	 abkrιƌen	off-cιƒe 		 forsake
+𐌰𐍆𐌷𐌰𐌱𐌰𐌽 	 abḫaben	off-ḫabe 	~~	 abstain
+𐌰𐍆𐌷𐌰𐌼𐍉𐌽 	 abḫamen	off-ḫame 	ab.Hemd Kammern?	 unclothed
+𐌰𐍆𐌷𐌻𐌰𐌸𐌰𐌽 	 abḫlaƌen	off-ḫlaƒe 	(ab)laden, beladen	 lade,weigh down,oppress,burden
+𐌰𐍆𐌷𐌿𐌲𐌾𐌰𐌽 	 abḫugɕen	off-ḫuge 	ab.hexen!	 bewitch
+𐌰𐍆𐌷𐍂𐌰𐌹𐌽𐌾𐌰𐌽 	 abḫraιnigen	off-ḫraιne 	ab'reinigen	 wipe,off,clean,off
+𐌰𐍆𐌷𐍂𐌹𐍃𐌾𐌰𐌽 	 abḫrιsɕen	off-ḫrιse 	auf.rascheln? arouse arise rinse? --	 shake,wipe
+𐌰𐍆𐌷𐍉𐌻𐍉𐌽 	 abḫulen	off-ḫōle 	abholen++	 cheat,take,false,accusation
+𐌰𐍆𐌸𐌰𐌿𐍂𐍃𐌾𐌰𐌽 	 abƌørsɕen	off-ƒaurse 	ab.dursten;)	 thirsty
+𐌰𐍆𐌸𐌻𐌹𐌿𐌷𐌰𐌽 	 abƌlιuḫen	off-ƒlιuḫe 	a'flüchten! <<!  𓇋 𓆑 𓂧 𓏮 𓂢 𓁺 	 flee
+𐌰𐍆𐌸𐍅𐌰𐌷𐌰𐌽 	 abƌweḫen	off-ƒvaḫe 	abwaschen wash-off	 wash,off
+𐌰𐍆𐌻𐌰𐌲𐌾𐌰𐌽 	 ablagɕen	off-lage 	ablegen	 lay,down,put,away
+𐌰𐍆𐌻𐌴𐌹𐌸𐌰𐌽 	 ableιƌen	off-leιƒe 	ableiden?<< leave-off!	 depart,withdraw,travel,journey,give place,make room
+𐌰𐍆𐌻𐌴𐌹𐍄𐌰𐌽 	 ableιten	off-leιte 	ableiten, leave (away)	 
+𐌰𐍆𐌻𐌴𐍄𐌰𐌽 	 ableten	off-lete 	ablassen, let off	 relinquish,absolve,release,let off,forgive
+𐌰𐍆𐌻𐌹𐌽𐌽𐌰𐌽 	 ablιnnen	off-lιnne 	abrennen?	 depart
+𐌰𐍆𐌻𐌹𐍆𐌽𐌰𐌽 	 ablιfnen	off-lιfne 	ab√leave	 remain,abide
+𐌰𐍆𐌼𐌰𐌹𐍄𐌰𐌽 	 abmaιten	off-maιte 	ab.meißeln?	 cut,off,chop,off,sever
+𐌰𐍆𐌼𐌰𐍂𐌶𐌾𐌰𐌽 	 abmarzɕen	off-marshe 	√Mars ♂?	 offend
+𐌰𐍆𐌼𐍉𐌾𐌰𐌽 	 abmuɕen	off-mōe 	a'müde?	 tire,fatigued
+𐌰𐍆𐌽𐌹𐌼𐌰𐌽 	 abnιmen	off-nιme 	abnehmen++	 take,away,remove
+𐌰𐍆𐍃𐌰𐍄𐌾𐌰𐌽 	 absatɕen	off-sate 	absetzen+++	 set,aside,put,away,remove,dismiss,divorce
+𐌰𐍆𐍃𐌺𐌰𐌹𐌳𐌰𐌽 	 abschaιden	off-shaιde 	abscheiden+++	 separate,off,sever
+𐌰𐍆𐍃𐌺𐌹𐌿𐌱𐌰𐌽 	 abschιuben	off-shιube 	abschieben+++	 cast away
+𐌰𐍆𐍃𐌻𐌰𐌷𐌰𐌽 	 abslaḫen	off-slaḫe 	abschlachten! slay < schlagen	 cut off,kill,slay
+𐌰𐍆𐍃𐌻𐌰𐌿𐌸𐌽𐌰𐌽 	 absløƌnen	off-slauƒne 		 amazed,dumbfounded,speechless
+𐌰𐍆𐍃𐌻𐌰𐌿𐌸𐌾𐌰𐌽 	 absløƌɕen	off-slauƒe 		 doubt,despair
+𐌰𐍆𐍃𐌻𐌰𐌿𐍀𐌾𐌰𐌽 	 absløpɕen	off-slaupe 	≠abschleppen	 put off,lay aside
+𐌰𐍆𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 abstanden	off-stande 	~abstand wahren, ~abstehen	 turn away
+𐌰𐍆𐍃𐍄𐌴𐌹𐌲𐌰𐌽 	 absteιgen	off-steιge 	absteigen+++	 come down
+𐌰𐍆𐍃𐍅𐌰𐌲𐌲𐍅𐌾𐌰𐌽 	 abswengwɕen	off-svangve 		 despair
+𐌰𐍆𐍃𐍅𐌰𐌹𐍂𐌱𐌰𐌽 	 absweιrben	off-svaιrbe 		 blot out
+𐌰𐍆𐍄𐌰𐌿𐍂𐌽𐌰𐌽 	 abtørnen	off-taurne 	…torn	 torn,rent
+𐌰𐍆𐍄𐌹𐌿𐌷𐌰𐌽 	 abtιuḫen	off-tιuḫe 	~abziehen ~abtragen	 pull,away,draw,away
+𐌰𐍆𐍅𐌰𐌲𐌾𐌰𐌽 	 abwegɕen	off-vage 	ab-weg-sein be away going	 move,away
+𐌰𐍆𐍅𐌰𐌹𐍂𐍀𐌰𐌽 	 abweιrpen	off-vaιrpe 	~abwerfen	 cast,off,throw,off
+𐌰𐍆𐍅𐌰𐌻𐍅𐌾𐌰𐌽 	 abwelwɕen	off-valve 	abwelzen	 roll,away
+𐌰𐍆𐍅𐌰𐌽𐌳𐌾𐌰𐌽 	 abwendɕen	off-vande 	abwenden	 turn,away
+𐌰𐍆𐍆𐌹𐌻𐌷𐌰𐌽 	 abfιlḫen	off-fιlḫe 	ab.fliehen?	 hide
+𐌰𐍆𐍈𐌰𐍀𐌽𐌰𐌽 	 abwapnen	off-whapne 		 choke,quench
+𐌰𐍆𐍈𐌰𐍀𐌾𐌰𐌽 	 abwapɕen	off-whape 		 choke,off,asphyxiate,suffocate
+𐌱𐌰𐌹𐌳𐌾𐌰𐌽 	 baιdɕen	baιde 	(ge)bieten: force	 force,compel
+𐌱𐌰𐌹𐍂𐌰𐌽 	 baιren	baιre 	bear	 bear,carry,bring forth
+𐌱𐌰𐌹𐍂𐌲𐌰𐌽 	 baιrgen	baιrge 	bergen	 keep
+𐌱𐌰𐌹𐍂𐌷𐍄𐌾𐌰𐌽 	 baιrḫtɕen	baιrḫte 	berichten!	 clear,show,disclose
+𐌱𐌰𐌻𐌸𐌾𐌰𐌽 	 balƌɕen	balƒe 	 bold	 bold
+𐌱𐌰𐌻𐍅𐌾𐌰𐌽 	 balwɕen	balve 		 torture,torment
+𐌱𐌰𐌽𐌳𐍅𐌾𐌰𐌽 	 bandwɕen	bandve 	>beckon √Band	 signify,show,indicate,beckon
+𐌱𐌰𐌿𐌰𐌽 	 bøen	baue 	bauen <> wohnen	 dwell,inhabit,live
+𐌱𐌰𐍂𐌿𐍃𐌽𐌾𐌰𐌽 	 barusnigen	barusne 	Borussia?	 loyalty,piety
+𐌱𐌴𐌹𐌳𐌰𐌽 	 beιden	beιde 	abide await wait 𐌱𐌴𐌹𐌳	 wait,await
+𐌱𐌴𐌹𐍄𐌰𐌽 	 beιten	beιte 	 bite beißen ++	 bite
+𐌱𐌹𐌰𐌱𐍂𐌾𐌰𐌽 	 beabrɕen	abre 		 astonished
+𐌱𐌹𐌰𐌿𐌺𐌰𐌽 	 beøken	auke 	augment	 increase,add,give,more
+𐌱𐌹𐌰𐌿𐌺𐌽𐌰𐌽 	 beøknen	aukne 	augment	 increase,grow,abound
+𐌱𐌹𐌰𐍂𐌱𐌰𐌹𐌳𐌾𐌰𐌽 	 bearbaιdɕen	arbaιde 	bearbeiten++	 work,towards,strive
+𐌱𐌹𐌱𐌹𐌽𐌳𐌰𐌽 	 bebenden	bιnde 	be.binden	 bind up,bind,around
+𐌱𐌹𐌲𐌰𐌹𐍂𐌳𐌰𐌽 	 begaιrden	gaιrde 	gird+++	 gird
+𐌱𐌹𐌲𐌹𐍄𐌰𐌽 	 begιten	gιte 	??	 find,discover
+𐌱𐌹𐌲𐍂𐌰𐌱𐌰𐌽 	 begraben	grabe 	~begraben	 surround,digging,trench
+𐌱𐌹𐌳𐌾𐌰𐌽 	 bedɕen	de 	bitten, beg < plead, pledge	 request,ask,pray,beg
+𐌱𐌹𐌳𐍉𐌼𐌾𐌰𐌽 	 bedumɕen	dōme 	deem <> bedünken?	 judge
+𐌱𐌹𐌵𐌹𐌼𐌰𐌽 	 bekrιmen	cιme 	become, come	 come upon
+𐌱𐌹𐌷𐌻𐌰𐌷𐌾𐌰𐌽 	 beḫlaḫɕen	ḫlaḫe 	belachen laugh	 laugh,ridicule,mock
+𐌱𐌹𐌸𐌰𐌲𐌺𐌾𐌰𐌽 	 beƌankɕen	ƒanke 	bedenken, think	 bethink,think
+𐌱𐌹𐌸𐍂𐌰𐌲𐌾𐌰𐌽 	 beƌragɕen	ƒrage 	drängen, track	 run,ahead
+𐌱𐌹𐌸𐍅𐌰𐌷𐌰𐌽 	 beƌweḫen	ƒvaḫe 	bed.wash ;)	 wash
+𐌱𐌹𐌺𐌿𐌺𐌾𐌰𐌽 	 bekukɕen	kuke 	kucc	 kiss,all over,cover,bekiss
+𐌱𐌹𐌻𐌰𐌹𐌱𐌾𐌰𐌽 	 belaιbɕen	laιbe 	leave	 leave,behind
+𐌱𐌹𐌻𐌰𐌹𐌲𐍉𐌽 	 belaιgen	laιge 	(be)lecken blecken	 lick
+𐌱𐌹𐌻𐌰𐌹𐌺𐌰𐌽 	 belaιken	laιke 	beleidigen?	 make fun of,mock,ridicule
+𐌱𐌹𐌻𐌴𐌹𐌱𐌰𐌽 	 bιleιben	leιbe 	bleiben, leave	 remain
+𐌱𐌹𐌻𐌴𐌹𐌸𐌰𐌽 	 beleιƌen	leιƒe 	leave, let	 abandon
+𐌱𐌹𐌼𐌰𐌹𐍄𐌰𐌽 	 bemaιten	maιte 	--	 circumcise
+𐌱𐌹𐌼𐌰𐌼𐍀𐌾𐌰𐌽 	 bemampɕen	mampe 	mumpitz;)	 mock,deride
+𐌱𐌹𐌽𐌰𐌿𐌷𐌰𐌽 	 benøḫen	nauḫe 	?	 permitted
+𐌱𐌹𐌽𐌳𐌰𐌽 	 binden	 binden	 binden	 bind
+𐌱𐌹𐌽𐌹𐌼𐌰𐌽 	 benιmen	nιme 	(be)nehmen	 take,away
+𐌱𐌹𐌽𐌹𐌿𐌷𐍃𐌾𐌰𐌽 	 benιuḫsɕen	nιuḫse 		 reconnoiter,scout out
+𐌱𐌹𐌿𐌲𐌰𐌽 	 beugen	uge 	 beugen, arch	 bend,bow
+𐌱𐌹𐍂𐌰𐌿𐌱𐍉𐌽 	 berøben	raube 	berauben++ rob	 rob
+𐌱𐌹𐍂𐌹𐌽𐌽𐌰𐌽 	 berιnnen	rιnne 	rennen, rinnen!	 encircle,come,round,about,run
+𐌱𐌹𐍂𐍉𐌳𐌾𐌰𐌽 	 berudɕen	rōde 	beraten?	 murmur,complain
+𐌱𐌹𐍃𐌰𐌹𐍈𐌰𐌽 	 besaιwen	saιwhe 	besehen	 look for
+𐌱𐌹𐍃𐌰𐌿𐌻𐌽𐌰𐌽 	 besølnen	saulne 	besudeln?	 pollute,defile
+𐌱𐌹𐍃𐌰𐌿𐌻𐌾𐌰𐌽 	 besølɕen	saule 	besudeln?	 defile,pollute
+𐌱𐌹𐍃𐌰𐍄𐌾𐌰𐌽 	 besatɕen	sate 	(be)set	 put up,around,surround
+𐌱𐌹𐍃𐌹𐍄𐌰𐌽 	 besιten	sιte 	by site!	 neighbor,nearby
+𐌱𐌹𐍃𐌺𐌰𐌱𐌰𐌽 	 beschaben	shabe 	beschaben, shave	 shave
+𐌱𐌹𐍃𐌺𐌴𐌹𐌽𐌰𐌽 	 bescheιnen	sheιne 	bescheinen, shine	 shine,round,about
+𐌱𐌹𐍃𐌼𐌴𐌹𐍄𐌰𐌽 	 besmeιten	smeιte 	geschmeidig?	 anoint
+𐌱𐌹𐍃𐌽𐌹𐍅𐌰𐌽 	 besnιwen	snιve 	?	 precede
+𐌱𐌹𐍃𐍀𐌴𐌹𐍅𐌰𐌽 	 bespeιwen	speιve 	bespeihen	 spit
+𐌱𐌹𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 bestanden	stande 	~ƒƒ	 surround
+𐌱𐌹𐍃𐍄𐌹𐌲𐌵𐌰𐌽 	 bestιnkren	stιgce 	(be)stechen? @stick?	 beat,stumble
+𐌱𐌹𐍃𐍅𐌰𐌹𐍂𐌱𐌰𐌽 	 besweιrben	svaιrbe 		 wipe
+𐌱𐌹𐍃𐍅𐌰𐍂𐌰𐌽 	 besweren	svare 	beschweren! 𐍅𐌰𐍂𐌰𐌽~chargen?	 adjure,charge
+𐌱𐌹𐍄𐌹𐌿𐌷𐌰𐌽 	 betιuḫen	tιuḫe 	~through?	traverse,move,through,go,about,lead,around,take,along,through
+𐌱𐌹𐍅𐌰𐌹𐌱𐌾𐌰𐌽 	 beweιbɕen	vaιbe 	beweibsen? ~wrap?	 wrap,clothe,surround,encompass
+𐌱𐌹𐍅𐌰𐌽𐌳𐌾𐌰𐌽 	 bewendɕen	vande 	abwenden	 avoid,shun,refuse
+𐌱𐌹𐍅𐌹𐌽𐌳𐌰𐌽 	 bewenden	vιnde 	umwinden	 wrap,swaddle,swaddling,clothes
+𐌱𐌹𐍅𐌹𐍃𐌰𐌽 	 bewesen	vιse 		 make merry
+𐌱𐌹𐍆𐌰𐌹𐌷𐍉𐌽 	 befaιḫen	faιḫe 		 covet,defraud,take advantage of
+𐌱𐌹𐍈𐌰𐌹𐍂𐌱𐌰𐌽 	 bewaιrben	whaιrbe 	gewebe?	 throng
+𐌱𐌻𐌰𐌽𐌳𐌰𐌽 	 blanden	blande 	blend	 mix,blend,mingle,intermix
+𐌱𐌻𐌰𐌿𐌸𐌾𐌰𐌽 	 bløƌɕen	blauƒe 	blöd!?	 void,powerless
+𐌱𐌻𐌴𐌹𐌸𐌾𐌰𐌽 	 bleιƌɕen	bleιƒe 	bluff? --	 merciful,pity
+𐌱𐌻𐌹𐌲𐌲𐍅𐌰𐌽 	 blιngwen	blιngve 	~bling ~klinge?	 beat,scourge,cut,kill
+𐌱𐌻𐍉𐍄𐌰𐌽 	 bluten	blōte 	Blut flute?	 worship,honour
+𐌱𐌽𐌰𐌿𐌰𐌽 	 bnøen	bnaue 	?	 rub
+𐌱𐌿𐌲𐌾𐌰𐌽 	 bugɕen	buge 	> buy	 buy
+𐌱𐍂𐌹𐌲𐌲𐌰𐌽 	 brιngen	brιnge 	bringen	bring,lead,conduct,make,render,become
+𐌱𐍂𐌹𐌺𐌰𐌽 	 brιken	brιke 		 break,struggle,contend
+𐌱𐍂𐌹𐌽𐌽𐌰𐌽 	 brιnnen	brιnne 	brennen	 burn
+𐌱𐍂𐌿𐌺𐌾𐌰𐌽 	 brukɕen	bruke 	brauchen	 use,employ
+𐌱𐍉𐍄𐌾𐌰𐌽 	 butɕen	bōte 	bettern	 profit,advantage,better,improve
+𐌲𐌰𐌰𐌲𐌲𐍅𐌾𐌰𐌽 	 geangwɕen	angve 	angst?	 distress
+𐌲𐌰𐌰𐌹𐌲𐌹𐌽𐍉𐌽 	 geaιgιnen	aιgιne 	geeignet! aneignen	 appropriate
+𐌲𐌰𐌰𐌹𐌽𐌰𐌽 	 geaιnen	aιne 	geeint? -!-	 separate,take
+𐌲𐌰𐌰𐌹𐍃𐍄𐌰𐌽 	 geaιsten	aιste 	eyes.tun	 regard,reverence
+𐌲𐌰𐌰𐌹𐍅𐌹𐍃𐌺𐍉𐌽 	 geaιweschen	aιvιshe 		 disgrace,dishonour,put to shame
+𐌲𐌰𐌰𐌿𐌺𐌰𐌽 	 geøken	auke 	much augment	 abound
+𐌲𐌰𐌰𐍂𐌼𐌰𐌽 	 gearmen	arme 	√arm > almen	 pity,compassion
+𐌲𐌰𐌱𐌰𐌹𐌳𐌾𐌰𐌽 	 gebaιdɕen	baιde 	gebieten, bitten	 force,compel
+𐌲𐌰𐌱𐌰𐌹𐍂𐌰𐌽 	 gebaιren	baιre 	bear	 bear,engender,compare
+𐌲𐌰𐌱𐌰𐌹𐍂𐌲𐌰𐌽 	 gebaιrgen	baιrge 	√bergen	 preserve
+𐌲𐌰𐌱𐌰𐌹𐍂𐌷𐍄𐌾𐌰𐌽 	 gebaιrḫtɕen	baιrḫte 	bergen, geborgen	 show,disclose,bring to light
+𐌲𐌰𐌱𐌰𐌽𐌳𐍅𐌾𐌰𐌽 	 gebandwɕen	bandve 	Bande™	 make,sign,signify
+𐌲𐌰𐌱𐌰𐌿𐌰𐌽 	 gebauen	baue 	bauen<>wohnen	 lodge
+𐌲𐌰𐌱𐌰𐍄𐌽𐌰𐌽 	 gebatnen	batne 	~benefit	 profit,benefit
+𐌲𐌰𐌱𐌹𐌽𐌳𐌰𐌽 	 gebenden	bιnde 	gebinde, binden, bind	bind,fast
+𐌲𐌰𐌲𐌰𐌲𐌲𐌰𐌽 	 gegangen	gange 	~	 gather,come to pass,result
+𐌲𐌰𐌲𐌰𐌷𐌰𐍆𐍄𐌾𐌰𐌽 	 gegaḫaftɕen	gaḫafte 	co.hälfte gang.haft ??	 join,compact
+𐌲𐌰𐌲𐌰𐍄𐌹𐌻𐍉𐌽 	 gegatιlen	gatιle 	geteilt? co...?	 join,together,connect
+𐌲𐌰𐌲𐌲𐌰𐌽 	 gengen			 go
+𐌲𐌰𐌲𐌲𐌾𐌰𐌽 	 gengɕen	nge 		 travel,journey
+𐌲𐌰𐌲𐌴𐌹𐌲𐌰𐌽 	 gegeιgen	geιge 	augment,wachs	 gain
+𐌲𐌰𐌳𐌰𐌱𐌰𐌽 	 gedaben	dabe 	<> much	 happen,suitable,appropriate
+𐌲𐌰𐌳𐌰𐌹𐌻𐌾𐌰𐌽 	 gedaιlɕen	daιle 	geteilt, teilen	 distribute,divide,partition
+𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌰𐌽 	 gedøƌnen	dauƒne 	getötet, töten	 die
+𐌲𐌰𐌳𐌰𐌿𐌸𐌾𐌰𐌽 	 gedøƌɕen	dauƒe 	getötet, töten	 kill,put to death
+𐌲𐌰𐌳𐌰𐌿𐍂𐍃𐌰𐌽 	 gedørsen	daurse 	dare darius	 dare,brave,courageous
+𐌲𐌰𐌳𐍂𐌰𐌱𐌰𐌽 	 gedraben	drabe 		 hew,out,chisel
+𐌲𐌰𐌳𐍂𐌰𐌲𐌰𐌽 	 gedragen	drage 	getragen, gedränge	 amass,accumulate,pile up
+𐌲𐌰𐌳𐍂𐌰𐌿𐍃𐌾𐌰𐌽 	 gedrøsɕen	drause 		 cast,down
+𐌲𐌰𐌳𐍂𐌹𐌿𐍃𐌰𐌽 	 gedrιusen	drιuse 		 fall,down
+𐌲𐌰𐌳𐍉𐌼𐌾𐌰𐌽 	 gedumɕen	dōme 	deem	 deem,consider,reckon
+𐌲𐌰𐌵𐌹𐌼𐌰𐌽 	 gekrιmen	cιme 	gekommen, come	 come,together,congregate,meet,reach,attain
+𐌲𐌰𐌵𐌹𐌿𐌽𐌰𐌽 	 gekrιunen	cιune 	coine	 live
+𐌲𐌰𐌷𐌰𐌱𐌰𐌽 	 geḫaben	ḫabe 	gehaben!	 hold,onto,retain,withhold,maintain
+𐌲𐌰𐌷𐌰𐌹𐌻𐌽𐌰𐌽 	 geḫaιlnen	ḫaιlne 	geheilt, heilen	 healthy,heal
+𐌲𐌰𐌷𐌰𐌹𐌻𐌾𐌰𐌽 	 geḫaιlɕen	ḫaιle 	heilen, heal	 heal
+𐌲𐌰𐌷𐌰𐌹𐍄𐌰𐌽 	 geḫaιten	ḫaιte 	geheißen	 convoke,together,profess,claim,promise
+𐌲𐌰𐌷𐌰𐌼𐍉𐌽 	 geḫamen	ḫame 	ge.Hemd 𓋳 garment	 put on,clothe
+𐌲𐌰𐌷𐌰𐌿𐍃𐌾𐌰𐌽 	 geḫøsɕen	ḫause 	gehörsen~	 hear
+𐌲𐌰𐌷𐌰𐍆𐍄𐌾𐌰𐌽 	 geḫaftɕen	ḫafte 	…haft	 join
+𐌲𐌰𐌷𐌹𐌻𐍀𐌰𐌽 	 geḫιlpen	ḫιlpe 	geholfen, helfen, help	 help
+𐌲𐌰𐌷𐍂𐌰𐌹𐌽𐌾𐌰𐌽 	 geḫraιnigen	ḫraιne 	gereinigt, reinigen	 cleanse,purify
+𐌲𐌰𐌸𐌰𐌷𐌰𐌽 	 geƌaḫen	ƒaḫe 	gedeihen?	 be,completely,silent
+𐌲𐌰𐌸𐌰𐌹𐍂𐍃𐌰𐌽 	 geƌaιrsen	ƒaιrse 	dry.sen	 wither,dry up
+𐌲𐌰𐌸𐌹𐍅𐌰𐌽 	 geƌιwen	ƒιve 	diwa?	 subjugate,enthrall
+𐌲𐌰𐌸𐌻𐌰𐌹𐌷𐌰𐌽 	 geƌlaιḫen	ƒlaιḫe 		 comfort,console,encourage,exhort
+𐌲𐌰𐌸𐌻𐌹𐌿𐌷𐌰𐌽 	 geƌlιuḫen	ƒlιuḫen	gedrungen (ge)flohen fliehen?	 flee
+𐌲𐌰𐌸𐍂𐌰𐍆𐍃𐍄𐌾𐌰𐌽 	 geƌrafstɕen	ƒrafste 		 console,comfort
+𐌲𐌰𐌹𐌱𐌽𐌾𐌰𐌽 	 geιbnigen	ιbne	geebnet, ebnen, eben, even	 level,even
+𐌲𐌰𐌹𐌳𐍂𐌴𐌹𐌲𐍉𐌽 	 geιdreιgen	ιdreιge 	gedrungen?	 regret,repent
+𐌲𐌰𐌹𐍂𐌽𐌾𐌰𐌽 	 geιrnigen	ιrne 	geehren? > gerne	 desire,covet
+𐌲𐌰𐌺𐌰𐌽𐌽𐌾𐌰𐌽 	 gekannigen	kannen 	bekannt, bekennen, kennen	 make known
+𐌲𐌰𐌺𐌰𐍂𐍉𐌽 	 gekaren	kare 	care	 care,concerned
+𐌲𐌰𐌺𐌹𐌿𐍃𐌰𐌽 	 gekιusen	kιuse 	vs accuse	 prove,test
+𐌲𐌰𐌺𐌿𐌽𐌽𐌰𐌽 	 gekunnen	kunne 	kennen / könig?	 subject,defer,authority
+𐌲𐌰𐌻𐌰𐌲𐌾𐌰𐌽 	 gelagɕen	lage 	gelage, legen, lage, lay	 lay,put,cast,down
+𐌲𐌰𐌻𐌰𐌸𐍉𐌽 	 gelaƌen	laƒe 	calypse ƒ	 call,convoke
+𐌲𐌰𐌻𐌰𐌹𐍃𐌾𐌰𐌽 	 gelaιsɕen	laιse 	gelehr…en lesson+	 teach,learn
+𐌲𐌰𐌻𐌰𐌿𐌱𐌾𐌰𐌽 	 geløbɕen	laube 	geloben, glauben	 believe,entrust
+𐌲𐌰𐌻𐌰𐌿𐍃𐌾𐌰𐌽 	 geløsɕen	løse 	gelöst, loose	 loose,free,liberate,rescue
+𐌲𐌰𐌻𐌴𐌹𐌸𐌰𐌽 	 geleιƌen	leιƒe 	geleiten, begleiten?	 depart,set out,forth,come
+𐌲𐌰𐌻𐌴𐌹𐌺𐌰𐌽 	 geleιken	leιke 	≠ gleichen ~liken	 please
+𐌲𐌰𐌻𐌴𐌹𐌺𐍉𐌽 	 geleιken	leιke 	gleichen liken	 compare,imitate,resemble,equate,equal
+𐌲𐌰𐌻𐌴𐍅𐌾𐌰𐌽 	 gelewɕen	leve 	leave	 hand over,surrender,betray
+𐌲𐌰𐌻𐌹𐍃𐌰𐌽 	 gelιsen	lιse 	gelist?	 gather,meet,assemble
+𐌲𐌰𐌼𐌰𐌹𐌽𐌾𐌰𐌽 	 gemaιnigen	maιne 	gemein common ++	 partake,share,common,defile
+𐌲𐌰𐌼𐌰𐌽𐍅𐌾𐌰𐌽 	 gemanwɕen	manve 	manu:hand	 prepare
+𐌲𐌰𐌼𐌰𐍂𐌶𐌾𐌰𐌽 	 gemarzɕen	marshe 	Mars?	 offend
+𐌲𐌰𐌼𐌴𐌻𐌾𐌰𐌽 	 gemelɕen	mele 	gemeldet, melden, mail	 write,register,inscribe
+𐌲𐌰𐌼𐌿𐌽𐌰𐌽 	 gemunen	mune 	memnon mind … ~	 remember,mind,recall,mind
+𐌲𐌰𐌼𐍉𐍄𐌰𐌽 	 gemuten	mōte 	gemütlich? --	 have,space,have,room
+𐌲𐌰𐌼𐍉𐍄𐌾𐌰𐌽 	 gemutɕen	mōte 	meet	 meet,encounter
+𐌲𐌰𐌽𐌰𐌼𐌽𐌾𐌰𐌽 	 genamnigen	namne 	genehmigt? name+	 name,designate
+𐌲𐌰𐌽𐌰𐌽𐌸𐌾𐌰𐌽 	 genanƌɕen	nanƒe 	genannt? ƒ non!	 finish,stop,cease
+𐌲𐌰𐌽𐌰𐌿𐌷𐌰𐌽 	 genøḫen	nauḫe 	'genuch' genügen!! + 	 suffice
+𐌲𐌰𐌽𐌰𐍃𐌾𐌰𐌽 	 genasɕen	nase 	genesen √Not nötigen	 save
+𐌲𐌰𐌽𐌹𐌼𐌰𐌽 	 genιmen	nιme 	ge.nehmen nimm	 take,acquire,receive,learn
+𐌲𐌰𐌽𐌹𐍃𐌰𐌽 	 genιsen	nιse 	genesen	 save,heal
+𐌲𐌰𐌾𐌹𐌿𐌺𐌰𐌽 	 geɕιuken	ɕιuke 	jagen? √gingis kahn?	 overcome,conquer
+𐌲𐌰𐌿𐌼𐌾𐌰𐌽 	 geumɕen	geume 	geum seum seem ?	 notice,heed,appear,seem
+𐌲𐌰𐍂𐌰𐌹𐌷𐍄𐌾𐌰𐌽 	 geraιḫtɕen	raιḫte 	gerecht.tun/sein/gehn	 rectify,correct
+𐌲𐌰𐍃𐌰𐌹𐍈𐌰𐌽 	 gesaιwen	saιwhe 	gesehen, sehen, see, saw, seen, gesamt	 see,completely
+𐌲𐌰𐍃𐌰𐌽𐌳𐌾𐌰𐌽 	 gesandɕen	sande 	gesenden, senden, send	 send,along,accompany
+𐌲𐌰𐍃𐌰𐍄𐌾𐌰𐌽 	 gesatɕen	sate 	gesetzen, setzen, set, settle	 put down,lay down
+𐌲𐌰𐍃𐌹𐌱𐌾𐍉𐌽 	 gesιbɕen	sιbɕe 		 reconcile
+𐌲𐌰𐍃𐌹𐍄𐌰𐌽 	 gesιten	sιte 	gesitzen, sitzen, sit, seat	 sit down,seat
+𐌲𐌰𐍃𐌺𐌰𐍀𐌾𐌰𐌽 	 geschapɕen	shape 	geschaffen, shape +++	 create
+𐌲𐌰𐍃𐌺𐌴𐌹𐍂𐌾𐌰𐌽 	 gescheιrɕen	sheιre 	shire:know? skeir<>school?	 interpret,explain
+𐌲𐌰𐍃𐌻𐌴𐍀𐌰𐌽 	 geslepen	slepe 	geschlafen, sleep	 fall asleep
+𐌲𐌰𐍃𐍄𐌰𐌲𐌵𐌾𐌰𐌽 	 gestankrɕen	stagce 	gestochen, stuck<>stick ___?	 cause,stumble,hit
+𐌲𐌰𐍃𐍄𐌰𐌻𐌳𐌰𐌽 	 gestalden	stalde 	≠gestalten ƒ <> stellen, stand	 acquire,possess
+𐌲𐌰𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 gestanden	stande 	gestanden, stand	 stop,halt,stand,abide,uphold
+𐌲𐌰𐍃𐍄𐌹𐌲𐌵𐌰𐌽 	 gestιnkren	stιgce 	~-	 stumble
+𐌲𐌰𐍃𐍅𐌹𐌺𐌿𐌽𐌸𐌾𐌰𐌽 	 geswekunƌɕen	svιkunƒe 	…?…kunde 𐌲𐌰𐍃𐍅𐌹𐌺~gnostic? ???	 known,manifest
+𐌲𐌰𐍃𐍅𐌹𐌻𐍄𐌰𐌽 	 geswelten	svιlte 		 die
+𐌲𐌰𐍃𐍅𐍉𐌲𐌾𐌰𐌽 	 geswugɕen	svōge 		 sigh,groan
+𐌲𐌰𐍃𐍉𐌸𐌾𐌰𐌽 	 gesuƌɕen	sōƒe 	gesättigen ~  satiate	 satiate,satisfy
+𐌲𐌰𐍄𐌰𐌹𐍂𐌰𐌽 	 getaιren	taιre 	√Troy=Tyre zerteilen	 destroy,violate,ruin
+𐌲𐌰𐍄𐌰𐌿𐌾𐌰𐌽 	 getøɕen	taue 	getue, tuen, do	 do,make,effect
+𐌲𐌰𐍄𐌰𐍂𐌷𐌾𐌰𐌽 	 getarḫɕen	tarḫe 	tark ~ mark? tatoo?	 flag,mark,note
+𐌲𐌰𐍄𐌴𐌹𐌷𐌰𐌽 	 geteιḫen	teιḫe 	gezeigen, teilen, tell <~~	 show,shew,tell,report,preach
+𐌲𐌰𐍄𐌹𐌻𐍉𐌽 	 getιlen	tιle 	geteilen? ^	 achieve,obtain
+𐌲𐌰𐍄𐌹𐌼𐍂𐌾𐌰𐌽 	 getιmrɕen	tιmre 	gezimmert, zimmern, timber	 build,construct
+𐌲𐌰𐍄𐍂𐌰𐌿𐌰𐌽 	 getrøen	traue 	getrauen, trauen, traust, trust	 trust,confident,convinced,persuaded,entrust
+𐌲𐌰𐍅𐌰𐌹𐍂𐍀𐌰𐌽 	 geweιrpen	vaιrpe 	geworfen, werfen	 throw
+𐌲𐌰𐍅𐌰𐌻𐌾𐌰𐌽 	 gewelɕen	vale 	< welchen!?	 choose,select
+𐌲𐌰𐍅𐌰𐌽𐌳𐌾𐌰𐌽 	 gewendɕen	vande 	gewunden, wenden	 turn,return,return,convert
+𐌲𐌰𐍅𐌰𐌿𐍂𐌺𐌾𐌰𐌽 	 geweurkɕen	vaurke 	gewerkt, werken, work	 work,make,achieve
+𐌲𐌰𐍅𐌰𐍂𐌲𐌾𐌰𐌽 	 gewergɕen	varge 	<> würgen verwerfen?	 condemn
+𐌲𐌰𐍅𐌰𐍃𐌾𐌰𐌽 	 gewesɕen	vase 	ge.westen, fashion	 clothe,put on
+𐌲𐌰𐍅𐌴𐌹𐌷𐌰𐌽 	 geweιḫen	veιḫe 	geweiht, weihen, Weihe	 hallow,consecrate
+𐌲𐌰𐍅𐌹𐌲𐌰𐌽 	 gewegen	vιge 	bewegen	 shake,together
+𐌲𐌰𐍅𐌹𐌳𐌰𐌽 	 geweden	vιde 	gewebe? vιde~vite:fast!	 fasten,join
+𐌲𐌰𐍅𐌹𐌽𐌽𐌰𐌽 	 gewennen	vιnne 	geweinen, weinen	 suffer
+𐌲𐌰𐍅𐌹𐍄𐌰𐌽 	 geweten	vιte 	vιte~watch √video 	 watch over,guard,defend
+𐌲𐌰𐍅𐍂𐌹𐌺𐌰𐌽 	 gewrιken	vrιke 	wreck?	 avenge
+𐌲𐌰𐍆𐌰𐌷𐌰𐌽 	 gefaḫen	faḫe 	gefangen, fetch!!	 catch
+𐌲𐌰𐍆𐌰𐌷𐍂𐌾𐌰𐌽 	 gefaḫrɕen	faḫre 	gefahr: fahren!?!	 prepare
+𐌲𐌰𐍆𐌰𐍃𐍄𐌰𐌽 	 gefasten	faste 	gefestigt, fasten	 keep,firm
+𐌲𐌰𐍆𐌹𐌻𐌷𐌰𐌽 	 gefιlḫen	fιlḫe 	geflohen, fliehen	 hide,bury
+𐌲𐌰𐍆𐌿𐌻𐌻𐌰𐍅𐌴𐌹𐍃𐌾𐌰𐌽 	 gefullaweιsɕen	fullaveιse 		 satisfy,persuade
+𐌲𐌰𐍆𐍂𐌰𐌿𐌾𐌹𐌽𐍉𐌽 	 gefrøɕιnen	frauɕιne 	<> Frauke Frank?	 rule,subordinate
+𐌲𐌰𐍆𐍂𐌹𐌸𐍉𐌽 	 gefrιƌen	frιƒe 	befrieden, frieden	 reconcile,pacify
+𐌲𐌰𐍆𐍂𐌹𐍃𐌰𐌷𐍄𐌽𐌰𐌽 	 gefrιsaḫtnen	frιsaḫtne 	<<	 depicted,take shape
+𐌲𐌰𐍈𐌴𐌹𐍄𐌾𐌰𐌽 	 geweιtɕen	wheιte 	geweißt, weißen, whiten	 whiten
+𐌲𐌰𐍈𐍉𐍄𐌾𐌰𐌽 	 gewutɕen	whōte 	gewütigt, wütigen, wüten, wut	 complain,rebuke
+𐌲𐌹𐌱𐌰𐌽 	 gιben	gιbe 	geben, give	 give
+𐌲𐌹𐌿𐍄𐌰𐌽 	 gιuten	gιute 	gießen, guß, gießt, cast	 pour
+𐌲𐍂𐌰𐌱𐌰𐌽 	 graben	grabe 	graben, grave	 dig
+𐌲𐍂𐌴𐌹𐍀𐌰𐌽 	 greιpen	greιpe 	greifen, grab	 grab,grip,lay hold of,seize
+𐌲𐍂𐌴𐌹𐍄𐌰𐌽 	 greιten	greιte 	cry.tun <> gram, regret	 
+𐌲𐍂𐌴𐍄𐌰𐌽 	 greten	grete 	cry.tun <> regret	 weep,cry
+𐌲𐍉𐌻𐌾𐌰𐌽 	 gulɕen	gōle 	~grüßen	 greet,salute
+𐌳𐌰𐌳𐌳𐌾𐌰𐌽 	 daddɕen	dadde 	@tit	 suckle
+𐌳𐌰𐌹𐌻𐌾𐌰𐌽 	 daιlɕen	daιle 	teilen++	 divide,share,distribute
+𐌳𐌰𐌿𐌸𐌾𐌰𐌽 	 døƌɕen	dauƒe 	töten, death	 kill,put to death
+𐌳𐌰𐌿𐍀𐌾𐌰𐌽 	 døpɕen	daupe 	dip, taufen, tauchen ~ 𐌳𐌰𐌿𐍀𐌾𐌰𐌽  !	 dip,immerse,baptize
+𐌳𐌹𐌲𐌰𐌽 	 dιgen	dιge 	~dig?	 shape,form,earth,clay
+𐌳𐌹𐍃𐌳𐌰𐌹𐌻𐌾𐌰𐌽 	 desdaιlɕen	disdaιle 	distill, teilen	 divide,split up
+𐌳𐌹𐍃𐌳𐍂𐌹𐌿𐍃𐌰𐌽 	 desdrιusen	disdrιuse 	DIS… SERIES FOREIGN!?! WHY?	 fall
+𐌳𐌹𐍃𐌷𐌰𐌱𐌰𐌽 	 desḫaben	disḫabe 	…haben, besitzen?	 take,possession,overcome,seize
+𐌳𐌹𐍃𐌷𐌽𐌹𐌿𐍀𐌰𐌽 	 desḫnιupen	disḫnιupe 	! <> schneiden, schnuppe?	 break,asunder
+𐌳𐌹𐍃𐌷𐌽𐌿𐍀𐌽𐌰𐌽 	 desḫnupnen	disḫnupne 	! <> schneiden, schnuppe?	 break
+𐌳𐌹𐍃𐌷𐌿𐌻𐌾𐌰𐌽 	 desḫulɕen	disḫule 	ver.hüllen	 cover
+𐌳𐌹𐍃𐌽𐌹𐌼𐌰𐌽 	 desnιmen	disnιme 	…nehmen	 possess
+𐌳𐌹𐍃𐍃𐌹𐌲𐌵𐌰𐌽 	 dessιnkren	dissιgce 	des.sink / setz	 set,go down
+𐌳𐌹𐍃𐍃𐌹𐍄𐌰𐌽 	 dessιten	dissιte 	dis.seize desease!	 seize,take hold
+𐌳𐌹𐍃𐍃𐌺𐌰𐌹𐌳𐌰𐌽 	 desschaιden	disshaιde 	dis.scheiden	 disperse,s:mul:Bible, Gothic, Ulfila#VIII 8|Skeireins VIII
+𐌳𐌹𐍃𐍃𐌺𐍂𐌴𐌹𐍄𐌰𐌽 	 desschreιten	disshreιte 	dis.schreiten?	 tear,rip,rend
+𐌳𐌹𐍃𐍃𐌺𐍂𐌹𐍄𐌽𐌰𐌽 	 desschrιtnen	disshrιtne 	dis.schreiten?	 torn,rent,ripped
+𐌳𐌹𐍃𐍄𐌰𐌷𐌾𐌰𐌽 	 destaḫɕen	distaḫe 		 scatter,waste
+𐌳𐌹𐍃𐍄𐌰𐌹𐍂𐌰𐌽 	 destaιren	distaιre 		 burst,leaven
+𐌳𐌹𐍃𐍄𐌰𐌿𐍂𐌽𐌰𐌽 	 destørnen	distaurne 	dis.torn	 break
+𐌳𐌹𐍃𐍅𐌹𐌻𐍅𐌰𐌽 	 deswelwen	disvιlve 	~dissolve?	 plunder
+𐌳𐌹𐍃𐍅𐌹𐌽𐌸𐌾𐌰𐌽 	 deswenƌɕen	disvιnƒe 		 crush,grind,powder
+𐌳𐌹𐍅𐌰𐌽 	 dιwen	dιve 	dιve ~ die!	 die
+𐌳𐌿𐌰𐍄𐌲𐌰𐌲𐌲𐌰𐌽 	 duatgangen	duatgange 	toward.gehen !	 approach,come up
+𐌳𐌿𐌰𐍄𐍂𐌹𐌽𐌽𐌰𐌽 	 duatrιnnen	duatrιnne 	toward.rennen	 run,up
+𐌳𐌿𐌰𐍄𐍃𐌽𐌹𐍅𐌰𐌽 	 duatsnιwen	duatsnιve 	towards.nearen?	 draw,shore,come,anchor
+𐌳𐌿𐌲𐌰𐌽 	 dugen	duge 	taugen, tweak!, to'use	 useful,value,fit,suitable
+𐌳𐌿𐌲𐌰𐍅𐌹𐌽𐌳𐌰𐌽 	 dugawenden	dugavιnde 	durch.wenden? zu.ge.wunden?	 entangle
+𐌳𐌿𐌲𐌹𐌽𐌽𐌰𐌽 	 dugιnnen	dugιnne 	beginnen!	 begin
+𐌳𐌿𐌻𐌸𐌾𐌰𐌽 	 dulƌɕen	dulƒe 	dulden, huldigen?	 keep,feast,celebrate
+𐌳𐌿𐍂𐌹𐌽𐌽𐌰𐌽 	 durιnnen	durιnne 	zu.rennen	 run,come
+𐌳𐌿𐍃𐍄𐍉𐌳𐌾𐌰𐌽 	 dustudɕen	dustōde 	zu.stunde??	 begin
+𐌳𐌿𐍅𐌰𐌺𐌰𐌽 	 duweken	duvake 	zu.wachen, do watch, to.wake	 watch,keep,alert
+𐌳𐍂𐌰𐌲𐌰𐌽 	 dragen	drage 	tragen, drag ≠ ziehen!	 draw,pull,carry
+𐌳𐍂𐌰𐌲𐌺𐌾𐌰𐌽 	 drankɕen	dranke 	trinken, drunken, drink	 make,drink,give
+𐌳𐍂𐌰𐌹𐌱𐌾𐌰𐌽 	 draιbɕen	draιbe 	~ trouble	 trouble,bother,badger,drive
+𐌳𐍂𐌰𐌿𐌷𐍄𐌹𐌽𐍉𐌽 	 drøḫtιnen	drauḫtιne 	trachten!	 wage war
+𐌳𐍂𐌴𐌹𐌱𐌰𐌽 	 dreιben	dreιbe 	treiben, drive	 drive,go
+𐌳𐍂𐌹𐌲𐌺𐌰𐌽 	 drιnken	drιnke 	 drink	 drink
+𐌳𐍂𐌹𐌿𐌲𐌰𐌽 	 drιugen	drιuge 	tragen ~ trachten ^^	 wage
+𐌳𐍂𐌹𐌿𐍃𐌰𐌽 	 drιusen	drιuse 	™™™	 fall
+𐌳𐍂𐍉𐌱𐌽𐌰𐌽 	 drubnen	drōbne 	~troubled toben?	 restless,agitated,troubled
+𐌳𐍂𐍉𐌱𐌾𐌰𐌽 	 drubɕen	drōbe 	trouble	 trouble,worry,upset,trouble,incite,riot
+𐌳𐍅𐌰𐌻𐌼𐍉𐌽 	 dwelmen	dvalme 		 mad
+𐌳𐍉𐌼𐌾𐌰𐌽 	 dumɕen	dōme 	deem	 judge,evaluate,deem,consider
+𐌵𐌰𐌹𐌽𐍉𐌽 	 kraιnen	caιne 	cry.ing grämen? !!!   𐌵𐌰𐌹:cry!	 cry,wail,lament
+𐌵𐌹𐌸𐌰𐌽 	 krιƌen	cιƒe 	quatschen (re)cite chat	 say,speak
+𐌵𐌹𐌼𐌰𐌽 	 krιmen	cιme 	kommen, come	 come
+𐌵𐌹𐍃𐍄𐌾𐌰𐌽 	 krιstɕen	cιste 	<<	 destroy
+𐌷𐌰𐌱𐌰𐌽 	 ḫaben	ḫabe 	haben, have	 have
+𐌷𐌰𐌶𐌾𐌰𐌽 	 ḫazɕen	ḫashe 	heischen? <> heit:name?	 praise
+𐌷𐌰𐌹𐌻𐌾𐌰𐌽 	 ḫaιlɕen	ḫaιle 	heilen, heal	 heal
+𐌷𐌰𐌹𐍄𐌰𐌽 	 ḫaιten	ḫaιte 	heißen	 address,call,name,be called
+𐌷𐌰𐌹𐍆𐍃𐍄𐌾𐌰𐌽 	 ḫaιfstɕen	ḫaιfste 	heftigst hate? 	 contend,contest,strive
+𐌷𐌰𐌻𐌳𐌰𐌽 	 ḫalden	ḫalde 	halten, hold	 hold,take care of,tend,feed
+𐌷𐌰𐌿𐌷𐌾𐌰𐌽 	 ḫøḫɕen	ḫauḫe 	höhern, high(ten)	 elevate,praise,exalt,honour,glorify
+𐌷𐌰𐌿𐌽𐌾𐌰𐌽 	 ḫønigen	ḫaune 	honig? ~ humble	 humble,abase
+𐌷𐌰𐌿𐍂𐌽𐌾𐌰𐌽 	 ḫørnigen	ḫaurne 	horn <> hören?	 sound,trumpet,horn
+𐌷𐌰𐌿𐍃𐌾𐌰𐌽 	 ḫøsɕen	ḫause 	~~hörsen hear	 hear,listen
+𐌷𐌰𐍄𐌰𐌽 	 ḫaten	ḫate 	hate	 hate
+𐌷𐌰𐍄𐌾𐌰𐌽 	 ḫatɕen	ḫate 	haßen, hassen, hate	 hate
+𐌷𐌰𐍆𐌾𐌰𐌽 	 ḫafɕen	ḫafe 	hiefen, heft	 lift,raise,hold
+𐌷𐌰𐍆𐍄𐌾𐌰𐌽 	 ḫaftɕen	ḫafte 	heften!+	 bound,attach
+𐌷𐌹𐌻𐍀𐌰𐌽 	 ḫιlpen	ḫιlpe 	hilfe, helfen, help	 help
+𐌷𐌹𐌽𐌳𐌰𐍂𐌻𐌴𐌹𐌸𐌰𐌽 	 ḫιndarleιƌen	ḫιndarleιƒe 	hinter.leiten/laufen	 pass by,go
+𐌷𐌻𐌰𐌷𐌾𐌰𐌽 	 ḫlaḫɕen	ḫlaḫe 	~lachen laugh	 laugh
+𐌷𐌻𐌴𐌹𐌱𐌾𐌰𐌽 	 ḫleιbɕen	ḫleιbe 	bleiben?	 spare
+𐌷𐌻𐌹𐍆𐌰𐌽 	 ḫlιfen	ḫlιfe 	'lift' lupfen?	 steal
+𐌷𐌽𐌰𐌹𐍅𐌾𐌰𐌽 	 ḫnaιwɕen	ḫnaιve 	naive?	 lower,abase
+𐌷𐌽𐌴𐌹𐍅𐌰𐌽 	 ḫneιwen	ḫneιve 	neigen? 𐌷𐌽𐌴𐌹𐍅𐌰𐌽 	 incline,decline
+𐌷𐌿𐌲𐌲𐍂𐌾𐌰𐌽 	 ḫungrɕen	ḫungre 	hungern	 hunger
+𐌷𐌿𐌲𐌾𐌰𐌽 	 ḫugɕen	ḫuge 	(aus)hecken	 think,mean,believe
+𐌷𐍂𐌰𐌹𐌽𐌾𐌰𐌽 	 ḫraιnigen	ḫraιne 	reinigen	 cleanse,purify
+𐌷𐍂𐌰𐌼𐌾𐌰𐌽 	 ḫramɕen	ḫrame 	!	 crucify
+𐌷𐍂𐍉𐍀𐌾𐌰𐌽 	 ḫrupɕen	ḫrōpe 	rufen! <>rob?	 cry
+𐌷𐍉𐍂𐌹𐌽𐍉𐌽 	 ḫurιnen	ḫōrιne 		 adultery
+𐌸𐌰𐌲𐌺𐌾𐌰𐌽 	 ƌankɕen	ƒanke 	denken, think	 think
+𐌸𐌰𐌷𐌰𐌽 	 ƌaḫen	ƒaḫe 	<>bedacht	 be,silent
+𐌸𐌰𐌹𐍂𐌷𐌰𐍂𐌱𐌰𐌹𐌳𐌾𐌰𐌽 	 ƌaιrḫarbaιdɕen	ƒaιrḫarbaιde 	durch.arbeiten	 work
+𐌸𐌰𐌹𐍂𐌷𐍃𐌰𐌹𐍈𐌰𐌽 	 ƌaιrḫsaιwen	ƒaιrḫsaιwhe 	durch.sehen	 see through
+𐌸𐌰𐌿𐍂𐌱𐌰𐌽 	 ƌørben	ƒaurbe 	darben™ <> dürfen	 need,need,required,have to
+𐌸𐌰𐌿𐍂𐍃𐌾𐌰𐌽 	 ƌørsɕen	ƒaurse 	durstigen,  thirsty	 thirsty
+𐌸𐌴𐌹𐌷𐌰𐌽 	 ƌeιḫen	ƒeιḫe 	(ge)deihen!	 prosper
+𐌸𐌹𐌿𐌳𐌰𐌽𐍉𐌽 	 ƌιudanen	ƒιudane 	<> teutonen?? feudal?	 reign
+𐌸𐌹𐌿𐌸𐌾𐌰𐌽 	 ƌιuƌɕen	ƒιuƒe 	<<	 bless
+𐌸𐌻𐌹𐌿𐌷𐌰𐌽 	 ƌlιuḫen	ƒlιuḫe 	fliehen!	 flee,escape
+𐌸𐌿𐌲𐌺𐌾𐌰𐌽 	 ƌunkɕen	ƒunke 	dünken	 seem,appear
+𐌸𐍂𐌰𐌲𐌾𐌰𐌽 	 ƌragɕen	ƒrage 	tragen, rage?	 run
+𐌸𐍂𐌰𐍆𐍃𐍄𐌾𐌰𐌽 	 ƌrafstɕen	ƒrafste 		 console,comfort,cheer up
+𐌸𐍂𐌹𐍃𐌺𐌰𐌽 	 ƌrιschen	ƒrιshe 	dreschen,  thresh	 thresh
+𐌸𐍅𐌰𐌷𐌰𐌽 	 ƌweḫen	ƒvaḫe 	__? wash	 wash,wash
+𐌹𐌳𐍂𐌴𐌹𐌲𐍉𐌽 	 ιdreιgen	ιdreιge 	~~~ regret	 regret,repent
+𐌹𐌳𐍅𐌴𐌹𐍄𐌾𐌰𐌽 	 ιdweιtɕen	ιdveιte 	ausweisen?	 curse,revile,reprobate
+𐌹𐌽𐌼𐌰𐌹𐌳𐌾𐌰𐌽 	 ιnmaιdɕen	ιnmaιde 	!!	 transform,change,exchange
+𐌹𐌽𐌽𐌰𐍄𐌱𐌰𐌹𐍂𐌰𐌽 	 ιnnatbaιren	ιnnatbaιre 	innert.bearen enter.bring	 bring,carry
+𐌹𐌽𐌽𐌰𐍄𐌲𐌰𐌲𐌲𐌰𐌽 	 ιnnatgangen	ιnnatgange 	innert.gang enter.go	 go,enter
+𐌹𐌽𐌽𐌰𐍄𐍄𐌹𐌿𐌷𐌰𐌽 	 ιnnattιuḫen	ιnnattιuḫe 	innert.tun?	 usher,in
+𐌹𐌽𐌽𐌲𐌰𐌲𐌲𐌰𐌽 	 ιnngangen	ιnngange 	eingehen	 enter
+𐌹𐌽𐌽𐌲𐌰𐌻𐌴𐌹𐌸𐌰𐌽 	 ιnngaleιƌen	ιnngaleιƒe 	eingeleiten	 enter
+𐌹𐌽𐌽𐌹𐌼𐌰𐌽 	 ιnnιmen	ιnnιme 	annehmen!!	 receive,accept,take
+𐌹𐌽𐌽𐌿𐍆𐍃𐌻𐌹𐌿𐍀𐌰𐌽 	 ιnnufslιupen	ιnnufslιupe 	ein.schlüpfen in.slip	 slip,past,sneak,in
+𐌹𐌽𐌽𐍅𐌰𐌹𐍂𐍀𐌰𐌽 	 ιnnweιrpen	ιnnvaιrpe 	einwerfen++	 throw,in
+𐌹𐌽𐍃𐌰𐌹𐌻𐌾𐌰𐌽 	 ιnsaιlɕen	ιnsaιle 	einseilen! <	 let down,cords
+𐌹𐌽𐍃𐌰𐌹𐍈𐌰𐌽 	 ιnsaιwen	ιnsaιwhe 	einsehen	 look into,see into
+𐌹𐌽𐍃𐌰𐌺𐌰𐌽 	 ιnsaken	ιnsake 	in.sake in.sign	 present,case,expound,explain,recount,designate,before
+𐌹𐌽𐍃𐌰𐌽𐌳𐌾𐌰𐌽 	 ιnsandɕen	ιnsande 	einsenden	 send,away,dispatch,task
+𐌹𐌽𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 ιnstanden	ιnstande 	anstehend	 imminent,at hand,persist,insist,urge
+𐌹𐌽𐍅𐌴𐌹𐍄𐌰𐌽 	 ιnweιten	ιnveιte 	1.anweiten? 2.invite	 worship,salute
+𐌹𐌿𐌳𐌰𐌹𐍅𐌹𐍃𐌺𐍉𐌽 	 ιudaιweschen	ιudaιvιshe 	??	 live,Jew,Jewish
+𐌹𐍄𐌰𐌽 	 ιten	ιte 	eaten essen	 eat
+𐌺𐌰𐌽𐌽𐌾𐌰𐌽 	 kannigen	kanne 	(be)kannt machen => kennen	 make known
+𐌺𐌰𐌿𐍀𐌰𐍄𐌾𐌰𐌽 	 køpatɕen	kaupate 		 buffet,slap
+𐌺𐌰𐌿𐍀𐍉𐌽 	 køpen	kaupe 	kaufen	 trade,barter,business
+𐌺𐌰𐌿𐍂𐌾𐌰𐌽 	 kørɕen	kaure 	care <> carry	 burden,oppress
+𐌺𐌰𐌿𐍃𐌾𐌰𐌽 	 køsɕen	kause 	kosten!	 taste
+𐌺𐌰𐍀𐌹𐌻𐌻𐍉𐌽 	 kapιllen	kapιlle 	chop  ƒ?	 haircut
+𐌺𐌰𐍂𐍉𐌽 	 karen	kare 	care < kümmern	 care,concerned
+𐌺𐌴𐌹𐌽𐌰𐌽 	 keιnen	keιne 	<keimen!	 sprout,germinate,bud
+𐌺𐌹𐌿𐍃𐌰𐌽 	 kιusen	kιuse 	<<	 prove,test
+𐌺𐌻𐌹𐍃𐌼𐌾𐌰𐌽 	 klιsmɕen	klιsme 	kletzmern >  cymbal	 cymbal
+𐌺𐌿𐌺𐌾𐌰𐌽 	 kukɕen	kuke 	kucc	 kiss
+𐌺𐌿𐌽𐌽𐌰𐌽 	 kunnen	kunne 	kennen => can	 be able,know
+𐌺𐍂𐌹𐌿𐍃𐍄𐌰𐌽 	 krιusten	krιuste 	krusten? ONO	crackle
+𐌻𐌰𐌲𐌾𐌰𐌽 	 lagɕen	lage 	legen, lag, lay	 lay,set,put,deposit
+𐌻𐌰𐌸𐍉𐌽 	 laƌen	laƒe 	(ein)laden	 call,invite
+𐌻𐌰𐌹𐌰𐌽 	 laιen	laιe 	'Laie!' ;)	 berate,revile
+𐌻𐌰𐌹𐌺𐌰𐌽 	 laιken	laιke 	<> leap?	 jump around,jump for joy,dance
+𐌻𐌰𐌹𐍃𐌾𐌰𐌽 	 laιsɕen	laιse 	lesson	 teach,learn
+𐌻𐌰𐌹𐍃𐍄𐌾𐌰𐌽 	 laιstɕen	laιste 	listen!	 follow,pursue
+𐌻𐌰𐌿𐌷𐌰𐍄𐌾𐌰𐌽 	 løḫatɕen	lauḫate 	leuchtigen leuchten  lighten  lιuḫtɕen	 lighten,lightning
+𐌻𐌰𐌿𐍃𐌾𐌰𐌽 	 løsɕen	lause 	loose	 loose,deliver,collect,claim,exact
+𐌻𐌴𐌹𐍈𐌰𐌽 	 leιwen	leιwhe 	leihen	 lend
+𐌻𐌴𐌺𐌹𐌽𐍉𐌽 	 lekιnen	lekιne 		 heal
+𐌻𐌴𐍄𐌰𐌽 	 leten	lete 	let, lassen	 let
+𐌻𐌴𐍅𐌾𐌰𐌽 	 lewɕen	leve 	leave	 betray
+𐌻𐌹𐌱𐌰𐌽 	 lιben	lιbe 	leben, live	 live
+𐌻𐌹𐌲𐌰𐌽 	 lιgen	lιge 	liegen	 lie,rest
+𐌻𐌹𐌿𐌲𐌰𐌽 	 lιugen	lιuge 	lügen	 lie,falsehood
+𐌻𐌹𐌿𐌳𐌰𐌽 	 lιuden	lιude 		 grow
+𐌻𐌹𐌿𐌷𐍄𐌾𐌰𐌽 	 lιuḫtɕen	lιuḫte 	leuchtigen leuchten  lighten	 light,shine
+𐌻𐌹𐌿𐌸𐍉𐌽 	 lιuƌen	lιuƒe 	liedern	 sing
+𐌻𐌹𐍃𐌰𐌽 	 lιsen	lιse 	(en)list?	 gather,collect
+𐌻𐌿𐍃𐍄𐍉𐌽 	 lusten	luste 	lüstern lust	 lust,desire
+𐌻𐌿𐍄𐍉𐌽 	 luten	lute 	?	 deceive
+𐌼𐌰𐌲𐌰𐌽 	 magen	mage 	mega make	 be able
+𐌼𐌰𐌸𐌻𐌾𐌰𐌽 	 maƌlɕen	maƒle 	mot 𓌃 𓏏 𓏮 𓂡 ++++	 speak
+𐌼𐌰𐌹𐍄𐌰𐌽 	 maιten	maιte 	meißeln metz…	 cut,hew
+𐌼𐌰𐌻𐌰𐌽 	 malen	male 	mahlen, mill	 grind
+𐌼𐌰𐌽𐌰𐌲𐌽𐌰𐌽 	 managnen	managne 	manig many manche magna	 abundant,abound
+𐌼𐌰𐌽𐌰𐌲𐌾𐌰𐌽 	 managɕen	manage 	manig many manche magna	 multiply,increase
+𐌼𐌰𐌽𐍅𐌾𐌰𐌽 	 manwɕen	manve 	"manu 𓂩	"	 prepare
+𐌼𐌰𐌿𐍂𐌸𐍂𐌾𐌰𐌽 	 mørƌrɕen	maurƒre 	morden, murder	 murder,kill
+𐌼𐌰𐌿𐍂𐌽𐌰𐌽 	 mørnen	maurne 	 mourn	 mourn,anxious,take,care,for
+𐌼𐌰𐍂𐌶𐌾𐌰𐌽 	 marzɕen	marshe 	¬marsch?	 impede,hamper,hinder,disturb
+𐌼𐌰𐍄𐌾𐌰𐌽 	 matɕen	mate 	mette: messe: Mahlzeit > meal	 eat,meal
+𐌼𐌴𐌻𐌾𐌰𐌽 	 melɕen	mele 	mail <> Melchior?	 write
+𐌼𐌴𐍂𐌾𐌰𐌽 	 merɕen	mere 	merkur?	 proclaim,preach,evangelize
+𐌼𐌹𐌳𐌿𐌼𐍉𐌽 	 mιdumen	mιdume 	mitte.ment middle… medi…	 mediate
+𐌼𐌹𐌸𐌰𐍂𐌱𐌰𐌹𐌳𐌾𐌰𐌽 	 mιƌarbaιdɕen	mιƒarbaιde 	mitarbeiten	 toil,struggle
+𐌼𐌹𐌸𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌰𐌽 	 mιƌgadøƌnen	mιƒgadauƒne 	mitgetötet	 die
+𐌼𐌹𐌸𐌲𐌰𐍄𐌹𐌼𐍂𐌾𐌰𐌽 	 mιƌgatιmrɕen	mιƒgatιmre 	mitgezimmert	 build,together
+𐌼𐌹𐌸𐌹𐌽𐌽𐌲𐌰𐌻𐌴𐌹𐌸𐌰𐌽 	 mιƌιnngaleιƌen	mιƒιnngaleιƒe 	miteingeladen, miteingelassen	 enter
+𐌼𐌹𐌸𐌹𐌽𐍃𐌰𐌽𐌳𐌾𐌰𐌽 	 mιƌιnsandɕen	mιƒιnsande 	miteinsenden!!!	 send,along,companion
+𐌼𐌹𐌸𐌻𐌹𐌱𐌰𐌽 	 mιƌlιben	mιƒlιbe 	mitleben	 live
+𐌼𐌹𐌸𐌽𐌹𐌼𐌰𐌽 	 mιƌnιmen	mιƒnιme 	mitnehmen	 receive
+𐌼𐌹𐌸𐌿𐍃𐌺𐌴𐌹𐌽𐌰𐌽 	 mιƌuscheιnen	mιƒusheιne 	miterscheinen	 sprout,spring
+𐌼𐌹𐌸𐍅𐌴𐌹𐍄𐍅𐍉𐌳𐌾𐌰𐌽 	 mιƌweιtwudɕen	mιƒveιtvōde 	mit.wit.worden?	 testify
+𐌼𐌹𐌺𐌹𐌻𐌽𐌰𐌽 	 mιkιlnen	mιkιlne 	much megalon	 become,large,great
+𐌼𐌹𐌺𐌹𐌻𐌾𐌰𐌽 	 mιkιlɕen	mιkιle 	make lang, megalon	 make,large,magnify,praise,glorify
+𐌼𐌹𐌻𐌹𐍄𐍉𐌽 	 mιlιten	mιlιte 	militant	 serve,army
+𐌼𐌹𐌽𐌶𐌽𐌰𐌽 	 mιnznen	mιnshne 	minimize,  diminish	 diminish,decrease
+𐌼𐌹𐍄𐌰𐌽 	 mιten	mιte 	meter, meßen	 measure,gauge
+𐌼𐌹𐍄𐍉𐌽 	 mιten	mιte 	meßen, ermessen	 fathom,deliberate,consider,think over
+𐌼𐌿𐌽𐌰𐌽 	 munen	mune 	mind…	 reckon,suppose,think,consider
+𐌼𐌿𐌽𐌳𐍉𐌽 	 munden	munde 	mind…	 pay attention,observe
+𐌽𐌰𐌼𐌽𐌾𐌰𐌽 	 namnigen	namne 	namigen, name	 name,call
+𐌽𐌰𐍃𐌾𐌰𐌽 	 nasɕen	nase 	√Not	 save
+𐌽𐌰𐍄𐌾𐌰𐌽 	 natɕen	nate 	näßen, nass, benetzen	 wet
+𐌽𐌴𐍈𐌾𐌰𐌽 	 newɕen	newhe 	nähern	 approach
+𐌽𐌹𐌼𐌰𐌽 	 nιmen	nιme 	nehmen	 accept,receive,assume,catch
+𐌽𐌹𐌿𐍄𐌰𐌽 	 nιuten	nιute 		 reach,obtain,enjoy
+𐌾𐌹𐌿𐌺𐌰𐌽 	 ɕιuken	ɕιuke 	zanken!	 fight,quarrel,overcome
+𐌿𐌽𐌲𐌰𐌷𐌰𐌱𐌰𐌽 	 ungaḫaben	ungaḫabe 	ungehaben?	 incontinent,unrestrained
+𐌿𐌽𐌲𐌰𐌻𐌰𐌿𐌱𐌾𐌰𐌽 	 ungaløbɕen	ungalaube 	unglaube++	 distrust,disbelieve
+𐌿𐌽𐌸𐌰𐌸𐌻𐌹𐌿𐌷𐌰𐌽 	 unƌaƌlιuḫen	unƌaƒlιuḫe 	entfliehen!	 escape
+𐌿𐌽𐍃𐍅𐌴𐌹𐌱𐌰𐌽 	 unsweιben	unsveιbe 	entschweben;)	 continue,cease
+𐌿𐌽𐍃𐍅𐌴𐍂𐌰𐌽 	 unsweren	unsvere 	un.schwören?	 dishonour,denigrate
+𐌿𐌽𐍅𐌴𐍂𐌾𐌰𐌽 	 unwerɕen	unvere 		 displeased,annoyed
+𐌿𐍂𐍂𐌰𐌹𐍃𐌾𐌰𐌽 	 urraιsɕen	urraιse 	an.reißen arise	 raise
+𐌿𐍂𐍂𐌴𐌹𐍃𐌰𐌽 	 urreιsen	urreιse 	arise	 arise
+𐌿𐍂𐍂𐌹𐌽𐌽𐌰𐌽 	 urrιnnen	urrιnne 	a'rennen herrennen?	 go,forth,out,come,out,arise
+𐌿𐍃𐌰𐌲𐌻𐌾𐌰𐌽 	 ausaglɕen	agle 	auslaugen?	 exhaust,weary,bruise
+𐌿𐍃𐌱𐌿𐌲𐌾𐌰𐌽 	 ausbugɕen	buge 	ausbuchen, buye!	 buy,redeem
+𐌿𐍃𐌱𐍂𐌰𐌹𐌳𐌾𐌰𐌽 	 ausbraιdɕen	braιde 	ausbreiten > spreaden +	 spread out
+𐌿𐍃𐌲𐌰𐌲𐌲𐌰𐌽 	 ausgangen	gange 	ausgang: ausgehen	 go,out,go,forth
+𐌿𐍃𐌲𐌹𐌱𐌰𐌽 	 ausgιben	gιbe 	ausgeben aufgeben give-up	 reimburse,repay,give up
+𐌿𐍃𐌲𐍂𐌰𐌱𐌰𐌽 	 ausgraben	grabe 	ausgraben++	 dig out
+𐌿𐍃𐌳𐍂𐌴𐌹𐌱𐌰𐌽 	 ausdreιben	dreιbe 	austreiben drive out	 drive,expel
+𐌿𐍃𐌵𐌹𐍃𐍄𐌾𐌰𐌽 	 auschrιstɕen	cιste 	aus.christen! <<	 destroy
+𐌿𐍃𐌷𐌰𐌹𐍄𐌰𐌽 	 ausḫaιten	ḫaιte 	'ausheißen' <	 provoke,challenge
+𐌿𐍃𐌷𐍂𐌰𐌼𐌾𐌰𐌽 	 ausḫramɕen	ḫrame 	ausramen ⼌ ?	 crucify
+𐌿𐍃𐌷𐍂𐌹𐍃𐌾𐌰𐌽 	 ausḫrιsɕen	ḫrιse 	ausrascheln?	 shake off
+𐌿𐍃𐌸𐍂𐌹𐌿𐍄𐌰𐌽 	 ausƌrιuten	ƒrιute 	ƌrιuter~torture @ Druid? <<	 harass,torment
+𐌿𐍃𐌸𐍂𐍉𐌸𐌾𐌰𐌽 	 ausƌruƌɕen	ƒrōƒe 	austrotten 🐎? ~austragen?	 drill,train
+𐌿𐍃𐌺𐌴𐌹𐌽𐌰𐌽 	 auscheιnen	keιne 	auskeimen	 sprout,germinate
+𐌿𐍃𐌻𐌰𐌹𐍃𐌾𐌰𐌽 	 auslaιsɕen	laιse 	auslesen < lesson!	 train,teach,thoroughly,educate
+𐌿𐍃𐌻𐌿𐍄𐍉𐌽 	 ausluten	lute 	~auslocken ~ausloten ƒ	 deceive,seduce
+𐌿𐍃𐌽𐌹𐌼𐌰𐌽 	 ausnιmen	nιme 	(her)ausnehmen	 take,out,remove
+𐌿𐍃𐍃𐌰𐌹𐍈𐌰𐌽 	 aussaιwen	saιwhe 	aussehen sehen	 look up
+𐌿𐍃𐍃𐌰𐌽𐌳𐌾𐌰𐌽 	 aussandɕen	sande 	aussenden	 send,out
+𐌿𐍃𐍃𐌹𐌲𐌲𐍅𐌰𐌽 	 aussιngwen	sιngve 	aussingen 🤍	 read,recite
+𐌿𐍃𐍃𐌹𐍄𐌰𐌽 	 aussιten	sιte 	aufsitzen!	 sit up
+𐌿𐍃𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 ausstanden	stande 	aufstehen up-standing	 arise,stand up,emerge
+𐌿𐍃𐍃𐍉𐌺𐌾𐌰𐌽 	 aussukɕen	sōke 	aussuchen 🤍 a'seek	 seek,examine,judge
+𐌿𐍃𐍄𐌹𐌿𐌷𐌰𐌽 	 austιuḫen	tιuḫe 	aus~ziehen aus…tücken?	 lead,drive,out,finish,fulfil
+𐌿𐍃𐍅𐌰𐌷𐍃𐌾𐌰𐌽 	 auswaḫsɕen	vaḫse 	auswachsen ++	 mature,adult
+𐌿𐍃𐍅𐌰𐌹𐍂𐍀𐌰𐌽 	 ausweιrpen	vaιrpe 	auswerfen ++	 cast,away,eject,expel,reject
+𐌿𐍃𐍆𐌹𐌻𐌷𐌰𐌽 	 ausfιlḫen	fιlḫe 	ausfüllen? as'bury 𐍆𐌹𐌻𐌷~bury (old reading)	 bury
+𐌿𐍃𐍆𐌿𐌻𐌻𐌽𐌰𐌽 	 ausfullnen	fullne 	ausfüllen, fill	 full,fill up
+𐌿𐍃𐍆𐌿𐌻𐌻𐌾𐌰𐌽 	 ausfullɕen	fulle 	erfüllen! @falk🦅?	 fulfill,accomplish,complete,fill,supply,comprehend,encompass,comprise,oldwikisource:Gothic_Bible_in_Ulfilan_Gothic_Script#XIII._3|Romans 13:9
+𐌿𐍄𐌲𐌰𐌲𐌲𐌰𐌽 	 utgangen	outgange 	ausgehen out-going+	 go,out,exit
+𐌿𐍆𐌰𐍂𐌲𐌰𐌲𐌲𐌰𐌽 	 übergangen	overgange 	 übergehen, vergehen, overgoing	 go,too,far,transgress
+𐌿𐍆𐌰𐍂𐌼𐌿𐌽𐌽𐍉𐌽 	 übermunnen	overmunne 	≠übermannen over.mind	forget
+𐌿𐍆𐌰𐍂𐍃𐍅𐌰𐍂𐌰𐌽 	 übersweren	oversvare 	forswear+	forswear
+𐌿𐍆𐌰𐍂𐍅𐌰𐌷𐍃𐌾𐌰𐌽 	 überweḫsɕen	overvaḫse 	überwachsen++	 grow
+𐌿𐍆𐌰𐍂𐍅𐌹𐍃𐌰𐌽 	 überwesen	overvιse 	überwesen! <> supervise	 be,superior,exceed
+𐌿𐍆𐌲𐍂𐌰𐌱𐌰𐌽 	 abgraben	of-grabe 	up-graben auf-graben up-grave:dig	 dig up,unearth,excavate
+𐌿𐍆𐌷𐌰𐌿𐍃𐌾𐌰𐌽 	 abḫausɕen	of-ḫause 	 abḫø~obey!	 obey,heed
+𐌿𐍆𐌷𐌻𐍉𐌷𐌾𐌰𐌽 	 abḫluḫɕen	of-ḫlōḫe 	abluchsen ab-lachen laugh-of	 laugh
+𐌿𐍆𐌷𐍂𐍉𐍀𐌾𐌰𐌽 	 abḫrupɕen	of-ḫrōpe 	ab.crypen aus-rufen	 cry,shout
+𐌿𐍆𐌺𐌿𐌽𐌽𐌰𐌽 	 abkunnen	of-kunne 	erkennen	 know,discover,perceive,find out
+𐌿𐍆𐍃𐌻𐌹𐌿𐍀𐌰𐌽 	 abslιupen	of-slιupe 	schlüpfen	 sneak
+𐌿𐍆𐍃𐍄𐍂𐌰𐌿𐌾𐌰𐌽 	 absträuɕen	of-straue 	abstreuen, bestreuen! <> abspreizen	 strew,spread
+𐌿𐍆𐍃𐍅𐍉𐌲𐌾𐌰𐌽 	 abswugɕen	of-svōge 		 sigh,groan
+𐍀𐌻𐌹𐌽𐍃𐌾𐌰𐌽 	 plιnsɕen	plιnse 	𓃀 𓏴 𓀤!	 dance
+𐍀𐍂𐌰𐌿𐍆𐌴𐍄𐌾𐌰𐌽 	 prøfetɕen	praufete 	prophezeihen++	 prophesy
+𐍂𐌰𐌲𐌹𐌽𐍉𐌽 	 ragιnen	ragιne 	(ab)rechnen@Regent	 rule,ruler,advise,counsel
+𐍂𐌰𐌷𐌽𐌾𐌰𐌽 	 raḫnigen	raḫne 	rechnen,  reckon	 reckon,count,consider,evaluate
+𐍂𐌰𐌹𐍃𐌾𐌰𐌽 	 raιsɕen	raιse 	reißen,  raise	 raise
+𐍂𐌰𐌿𐍀𐌾𐌰𐌽 	 røpɕen	raupe 	rupfen => rauben, rob	 pick,pluck
+𐍂𐌴𐌹𐌺𐌹𐌽𐍉𐌽 	 reιkιnen	reιkιne 	rechnen@Reich,Regeln,Regent	 rule,govern
+𐍂𐌹𐌲𐌽𐌾𐌰𐌽 	 rιgnigen	rιgne 	regnigen > regnen > rain(ing)	 rain
+𐍂𐌹𐌵𐌹𐌶𐌾𐌰𐌽 	 rιkrιzɕen	rιcιshe 	> lacrice, krisis, grays 𓎼 𓂋 𓎛 𓇰 	 dark,darken
+𐍂𐌹𐌺𐌰𐌽 	 rιken	rιke 	recken,reach?	 heap
+𐍂𐌹𐌽𐌽𐌰𐌽 	 rιnnen	rιnne 	rennen	 run,flow
+𐍂𐍉𐌳𐌾𐌰𐌽 	 rudɕen	rōde 	reden! 𐍂𐍉𐌳𐌾𐌰𐌽 	 speak,talk
+𐍃𐌰𐌹𐌰𐌽 	 saιen	saιe 	säen	 sow
+𐍃𐌰𐌹𐍈𐌰𐌽 	 saιwen	saιwhe 	sehen	 see
+𐍃𐌰𐌺𐌰𐌽 	 saken	sake 	zicken, zanken <> 𐌾𐌹𐌿𐌺𐌰𐌽 	 dispute,quarrel,rebuke
+𐍃𐌰𐌻𐌱𐍉𐌽 	 salben	salbe 	salben, salvation	 anoint
+𐍃𐌰𐌻𐌾𐌰𐌽 	 salɕen	sale 	saalen™ <> sell?	 lodge,guest
+𐍃𐌰𐌼𐌾𐌰𐌽 	 samɕen	same 	sänftigen?	 please,agreeable
+𐍃𐌰𐌽𐌳𐌾𐌰𐌽 	 sandɕen	sande 	senden	 send
+𐍃𐌰𐍄𐌾𐌰𐌽 	 satɕen	sate 	setzen, set	 set
+𐍃𐌹𐌲𐌲𐍅𐌰𐌽 	 sιngwen	sιngve 	singen	 sing,recite
+𐍃𐌹𐌲𐌵𐌰𐌽 	 sιnkren	sιgce 	sinken < Senker ⚓𓋹	 sink,set
+𐍃𐌹𐌳𐍉𐌽 	 sιden	sιde 	sit&recite ?	 practice,meditate
+𐍃𐌹𐌻𐌳𐌰𐌻𐌴𐌹𐌺𐌽𐌰𐌽 	 sιldaleιknen	sιldaleιkne 	seldom.liken <> sonderlichen	 marvel,admire
+𐍃𐌹𐌻𐌳𐌰𐌻𐌴𐌹𐌺𐌾𐌰𐌽 	 sιldaleιkɕen	sιldaleιke 	seldom.liken <> sonderlichen	 marvel,wonder,amaze
+𐍃𐌹𐌿𐌺𐌰𐌽 	 sιuken	sιuke 	sick <> schlecht 𐍃𐌹𐌿𐌺𐌰 <> sink	 sick
+𐍃𐌹𐍀𐍉𐌽𐌾𐌰𐌽 	 sιpunigen	sιpōne 	𓋴 𓃀 𓄿 𓇼 𓇳 !!  𓌞 𓅱 𓂻 𓀀  !! 𓋴 𓃀 𓇼 𓏛	 disciple,student
+𐍃𐌹𐍄𐌰𐌽 	 sιten	sιte 	sitzen 𐍃𐌰𐍄𐌾𐌰𐌽 setzen, 𐍃𐌹𐍄	 sit
+𐍃𐌺𐌰𐌱𐌰𐌽 	 schaben	shabe 	 schaben ~ shave	 shave,shear
+𐍃𐌺𐌰𐌹𐌳𐌰𐌽 	 schaιden	shaιde 	scheiden > set!?	 separate,divide,put,asunder,set,variance,cause,dissension,depart,divorce
+𐍃𐌺𐌰𐌻𐌺𐌹𐌽𐍉𐌽 	 schalkιnen	shalkιne 	schalken™ < servquen	 serve
+𐍃𐌺𐌰𐌼𐌰𐌽 	 schamen	shame 	schämen shame 	 be ashamed
+𐍃𐌺𐌴𐌹𐌽𐌰𐌽 	 scheιnen	sheιne 	scheinen shine	 shine
+𐍃𐌺𐌿𐌻𐌰𐌽 	 schulen	shule 	 schulden! schulle;)	 owe,indebted,have to,obliged,shall,will
+𐍃𐌻𐌰𐌷𐌰𐌽 	 slaḫen	slaḫe 	schlagen! schlachten <> slap	 hit,strike,smite
+𐍃𐌻𐌰𐍅𐌰𐌽 	 slawen	slave 	schlafen, slow	 keep quiet,still
+𐍃𐌻𐌴𐍀𐌰𐌽 	 slepen	slepe 	schlafen, sleep	 sleep
+𐍃𐌻𐌹𐌿𐍀𐌰𐌽 	 slιupen	slιupe 	schlüpfen, slip(through)	 sneak,creep
+𐍃𐌽𐌹𐌿𐌼𐌾𐌰𐌽 	 snιumɕen	snιume 	schnell sausen?	 hurry,rush
+𐍃𐌽𐌹𐍅𐌰𐌽 	 snιwen	snιve 		 go,go away,leave,strive,come upon
+𐍃𐌿𐌽𐌾𐍉𐌽 	 sunigen	sunɕe 	showing?	 vindicate,defend,true,show
+𐍃𐍀𐌹𐌻𐌻𐍉𐌽 	 spιllen	spιlle 	spell <> tell	 narrate,relate,bring,tidings,of
+𐍃𐍀𐌹𐌽𐌽𐌰𐌽 	 spιnnen	spιnne 	spinnen  spin	 spin
+𐍃𐍄𐌰𐌹𐌽𐌾𐌰𐌽 	 staιnigen	staιne 	steinigen++,  stone	 stone
+𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 standen	stande 	stehen,  stand	 stand
+𐍃𐍄𐌰𐌿𐍄𐌰𐌽 	 støten	staute 	? <> stab, töten	 punch,hit,slap
+𐍃𐍄𐌴𐌹𐌲𐌰𐌽 	 steιgen	steιge 	steigen <> stair	 climb,ascend
+𐍃𐍄𐌹𐌲𐌵𐌰𐌽 	 stιnkren	stιgce 	stänkern <> zank^^	 clash
+𐍃𐍄𐌹𐌻𐌰𐌽 	 stιlen	stιle 	stehlen, steal	 steal
+𐍃𐍄𐍂𐌰𐌿𐌾𐌰𐌽 	 sträuɕen	straue 	streuen,  strew	 strew
+𐍃𐍄𐍉𐌾𐌰𐌽 	 stuɕen	stōe 	<?> stauen, stow <> Stoa, Störte?	 judge
+𐍃𐍅𐌰𐍂𐌰𐌽 	 sweren	svare 	schwören,  swear	 swear,oath
+𐍃𐍅𐌴𐌹𐌱𐌰𐌽 	 sweιben	sveιbe 	scheben, scheifen? (ƒ=>)	 cease,finish
+𐍃𐍅𐌴𐍂𐌰𐌽 	 sweren	svere 	schwören (auf),  swear	 honour
+𐍃𐍅𐌹𐌲𐌻𐍉𐌽 	 sweglen	svιgle 		 flute
+𐍃𐍅𐌹𐌻𐍄𐌰𐌽 	 swelten	svιlte 	<>welken?	 die
+𐍃𐍅𐍉𐌲𐌰𐍄𐌾𐌰𐌽 	 swugatɕen	svōgate 		 sigh,groan
+𐍃𐍉𐌺𐌾𐌰𐌽 	 sukɕen	sōke 	suchen, seeke	 seek,dispute
+𐍄𐌰𐌲𐍂𐌾𐌰𐌽 	 tagrɕen	tagre 	zergram?	 weep
+𐍄𐌰𐌷𐌾𐌰𐌽 	 taḫɕen	taḫe 	ziehen	 tear,rend
+𐍄𐌰𐌻𐌶𐌾𐌰𐌽 	 talzɕen	talshe 	talk > teach Talmud zeigen	 teach
+𐍄𐌰𐌿𐌾𐌰𐌽 	 tøɕen	taue 	tuen, do	 do,make
+𐍄𐌴𐌺𐌰𐌽 	 teken	teke 	touch textiles (Decken) <> attack attach	 touch
+𐍄𐌹𐌼𐌱𐍂𐌾𐌰𐌽 	 tιmbrɕen	tιmbre 	timbern > zimmern++	 build,construct,strengthen,edify
+𐍄𐌹𐌼𐍂𐌾𐌰𐌽 	 tιmrɕen	tιmre 	zimmern ^^ 𐍄𐌹𐌼𐌱𐍂𐌾𐌰𐌽 	 build,construct,strengthen,edify
+𐍄𐌹𐌿𐌷𐌰𐌽 	 tιuḫen	tιuḫe 	ziehen till tear traction…	 pull,draw,drag,lead
+𐍄𐌿𐌶𐍅𐌴𐍂𐌾𐌰𐌽 	 tuzwerɕen	tushvere 	~~doubt	doubt,disbelieve
+𐍄𐌿𐌻𐌲𐌾𐌰𐌽 	 tulgɕen	tulge 	stärken!	 reinforce,establish,confirm
+𐍄𐍂𐌰𐌿𐌰𐌽 	 trauen	traue 	 trauen	 trust,rely,confide
+𐍄𐍅𐌴𐌹𐍆𐌻𐌾𐌰𐌽 	 tweιflɕen	tveιfle 	zweifeln++	 doubt
+𐍄𐍅𐌹𐍃𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 twesstanden	tvιsstande 		 leave,depart,separate
+𐍅𐌰𐌲𐌾𐌰𐌽 	 wegɕen	vage 	wogen++, wackeln, wage?	 shake,move
+𐍅𐌰𐌷𐍃𐌾𐌰𐌽 	 waḫsɕen	vaḫse 	wachsen++	 grow
+𐍅𐌰𐌹𐌰𐌽 	 weιen	vaιe 	wehen	 blow
+𐍅𐌰𐌹𐌻𐌰𐌼𐌴𐍂𐌾𐌰𐌽 	 weιlamerɕen	vaιlamere 	well.merchan well.emerge well.marking <<	 evangelize,preach,tiding
+𐍅𐌰𐌹𐍂𐌸𐌰𐌽 	 weιrƌen	vaιrƒe 	werden	 become,happen,come to pass
+𐍅𐌰𐌹𐍂𐍀𐌰𐌽 	 weιrpen	vaιrpe 	werfen	 throw
+𐍅𐌰𐌺𐌰𐌽 	 weken	vake 	wachen, wecken, watchen	 stay,awake,watch,keep,alert
+𐍅𐌰𐌻𐌳𐌰𐌽 	 walden	valde 	walten@Wald	 guide,rule,suffice
+𐍅𐌰𐌻𐌾𐌰𐌽 	 welɕen	vale 	'welchen' ? ;) 	 choose,select
+𐍅𐌰𐌻𐍄𐌾𐌰𐌽 	 weltɕen	valte 	welt 🌍 <> falten	 roll,thrash,tumble
+𐍅𐌰𐌽𐌳𐌾𐌰𐌽 	 wendɕen	vande 	wenden	 turn
+𐍅𐌰𐌾𐌰𐌼𐌴𐍂𐌾𐌰𐌽 	 weɕamerɕen	vaɕamere 	wehe!markieren woe.merchan 	 blaspheme,slander
+𐍅𐌰𐌿𐍂𐌺𐌾𐌰𐌽 	 weurkɕen	vaurke 	werken, work	 work,make
+𐍅𐌰𐍂𐌼𐌾𐌰𐌽 	 wermɕen	varme 	wärmen, warm	 warm,cherish
+𐍅𐌰𐍂𐌾𐌰𐌽 	 werɕen	vare 	währen!	 forbid
+𐍅𐌰𐍃𐌾𐌰𐌽 	 wesɕen	vase 	westen, fashion!	 clothe,wear,clothed
+𐍅𐌴𐌹𐌷𐌰𐌽 	 weιḫen	veιḫe 	weihen	 hallow,consecrate
+𐍅𐌴𐌹𐌷𐌽𐌰𐌽 	 weιḫnen	veιḫne 	weinen <> weihen?	 hallowed,sanctified
+𐍅𐌴𐌹𐍀𐌰𐌽 	 weιpen	veιpe 	<>winden?	 wreathe,crown
+𐍅𐌴𐌹𐍄𐍅𐍉𐌳𐌾𐌰𐌽 	 weιtwudɕen	veιtvōde 	wit.worden witness	 testify,witness
+𐍅𐌴𐌽𐌾𐌰𐌽 	 wenigen	vene 	<<	 await,expect,hope
+𐍅𐌹𐌸𐍂𐌰𐌲𐌰𐌼𐍉𐍄𐌾𐌰𐌽 	 weƌragamutɕen	vιƒragamōte 	weiter?ge.meeting	 meet
+𐍅𐌹𐌻𐌾𐌰𐌽 	 welɕen	vιle 	wollen will	 want
+𐍅𐌹𐌻𐍅𐌰𐌽 	 welwen	vιlve 	welfen wilwan™ < werfen?	 take,force,rob,raven
+𐍅𐌹𐌽𐌽𐌰𐌽 	 wennen	vιnne 	weinen, flennen, wehen	 suffer
+𐍅𐌹𐍃𐌰𐌽 	 wesen	vιse 	(ge)wesen	 be
+𐍅𐌹𐍄𐌰𐌽 	 weten	vιte 	wissen, wit	 know
+𐍅𐌻𐌰𐌹𐍄𐍉𐌽 	 wlaιten	vlaιte 	herleiten? *looken <> verleiten?	 look
+𐍅𐍂𐌰𐌺𐌾𐌰𐌽 	 wrakɕen	vrake 	wrack? gerechten@Richter	 persecute
+𐍅𐍂𐌰𐍄𐍉𐌽 	 wraten	vrate 	verreisen	 travel
+𐍅𐍂𐌹𐌺𐌰𐌽 	 wrιken	vrιke 	…richten	 persecute
+𐍅𐍂𐍉𐌷𐌾𐌰𐌽 	 wruḫɕen	vrōḫe 	𐍅𐍂 special ortho?	 accuse
+𐍅𐍉𐍀𐌾𐌰𐌽 	 wupɕen	vōpe 	rufen	 cry out,lament,weep
+𐍆𐌰𐌲𐌹𐌽𐍉𐌽 	 fagιnen	fa𐌲ιnen	freuen?  <> felix verrennen?	 rejoice
+𐍆𐌰𐌷𐌰𐌽 	 faḫen	faḫe 	fangen, fetchen	 catch
+𐍆𐌰𐌹𐌰𐌽 	 faιen	faιe 	fehlen <> finden 非 fēi	 blame,find,fault
+𐍆𐌰𐌹𐌷𐌿𐌲𐌴𐌹𐌲𐌰𐌽 	 faιḫugeιgen	faιḫugeιge 	<<<<	 covet
+𐍆𐌰𐌹𐍂𐌰𐌹𐌷𐌰𐌽 	 veraιḫen	faιraιḫe 		 share,partake,participate
+𐍆𐌰𐌹𐍂𐌲𐍂𐌴𐌹𐍀𐌰𐌽 	 vergreιpen	faιrgreιpe 	ergreifen!	 grasp,take hold
+𐍆𐌰𐌹𐍂𐌷𐌰𐌹𐍄𐌰𐌽 	 verḫaιten	faιrḫaιte 	~verheißen	 express
+𐍆𐌰𐌹𐍂𐌹𐌽𐍉𐌽 	 verιnen	faιrιne 	?	 accuse,blame,attack
+𐍆𐌰𐌹𐍂𐍂𐌹𐌽𐌽𐌰𐌽 	 verrιnnen	faιrrιnne 	vorrennen?	 reach,stretch,achieve
+𐍆𐌰𐌹𐍂𐍅𐌰𐌿𐍂𐌺𐌾𐌰𐌽 	 verweurkɕen	faιrvaurke 	erwirken	 gain
+𐍆𐌰𐌹𐍂𐍅𐌴𐌹𐍄𐌾𐌰𐌽 	 verweιtɕen	faιrveιte 	ver.watchen	 stare,gaze
+𐍆𐌰𐌻𐌸𐌰𐌽 	 falƌen	falƌe 	falten,  fold	 fold
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐌲𐌲𐌰𐌽 	 vorgangen	fore-gange 	vergangen,  vorgehen	 precede,govern
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐌷𐌰𐌹𐍄𐌰𐌽 	 vorgeḫaιten	fore-gaḫaιte 	~	 foretell,announce
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐌷𐌿𐌲𐌾𐌰𐌽 	 vorgeḫugɕen	fore-gaḫuge 		 purpose,determine,make up one's mind
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐌻𐌴𐌹𐌺𐌰𐌽 	 vorgaleιken	fore-galeιke 	vorgelenkt?	 purpose
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐌼𐌰𐌽𐍅𐌾𐌰𐌽 	 vorgamanwɕen	fore-gamanve 	~~~vorweggenommen?	 prepare,ahead of time,make up,beforehand,preordain
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐌼𐌴𐌻𐌾𐌰𐌽 	 vorgamelɕen	fore-gamele 	1. vor.ge.mailed 2. vorhermals !	 write,previously
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐍂𐌴𐌳𐌰𐌽 	 vorgareden	fore-garede 	vorgeraten vorgeredet! 	 predestine
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐍃𐌰𐌽𐌳𐌾𐌰𐌽 	 vorgasandɕen	fore-gasande 	vorgesendet fortgesendet! versendet	 send,forth
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐍃𐌰𐍄𐌾𐌰𐌽 	 vorgasatɕen	fore-gasate 	vorgesetzt (Zeit) ?	 present
+𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐍄𐌴𐌹𐌷𐌰𐌽 	 vorgateιḫen	fore-gateιḫe 	vorgezeichen profezeihen vorzeigen 	 foretell
+𐍆𐌰𐌿𐍂𐌰𐌵𐌹𐌸𐌰𐌽 	 vorkrιƌen	fore-cιƒe 	™	 prophesy
+𐍆𐌰𐌿𐍂𐌰𐌵𐌹𐌼𐌰𐌽 	 vorkrιmen	fore-cιme 	vorher kommen (zu)vor kommen	 go,before
+𐍆𐌰𐌿𐍂𐌰𐌼𐌰𐌽𐍅𐌾𐌰𐌽 	 vormanwɕen	fore-manve 	vor.manövern	 prepare
+𐍆𐌰𐌿𐍂𐌰𐌼𐌴𐌻𐌾𐌰𐌽 	 vormelɕen	fore-mele 	vermelden?	 set forth,exhibit
+𐍆𐌰𐌿𐍂𐌰𐍂𐌰𐌷𐌽𐌾𐌰𐌽 	 vorraḫnigen	fore-raḫne 	vor.rechnen pre.reckon προηγέο	 outdo
+𐍆𐌰𐌿𐍂𐌰𐍃𐍄𐌰𐌽𐌳𐌰𐌽 	 vorstanden	fore-stande 	verstehen++ Vorstand	 stand,preside,supervise
+𐍆𐌰𐌿𐍂𐌰𐍅𐌴𐌽𐌾𐌰𐌽 	 vorwenjen	fore-vene 	vorwähnen vs intervene ++	 hope,trust,first
+𐍆𐌰𐌿𐍂𐌰𐍅𐌹𐍃𐌰𐌽 	 vorwesen	fore-vιse 	vorweisen  Vorwesen vorher gewesen	 present,superior
+𐍆𐌰𐌿𐍂𐌱𐌹𐌲𐌰𐌲𐌲𐌰𐌽 	 vorbegangen	fore-bιgange 	vergangen	 go,before
+𐍆𐌰𐌿𐍂𐌱𐌹𐌿𐌳𐌰𐌽 	 vorbeuden	fore-bιude 	verbieten!  forbid	 forbid
+𐍆𐌰𐌿𐍂𐌱𐌹𐍃𐌽𐌹𐍅𐌰𐌽 	 vorbesnιwen	fore-bιsnιve 		 go,before
+𐍆𐌰𐌿𐍂𐌲𐌰𐌲𐌲𐌰𐌽 	 vorgengen	fore-gange 	vergangen	 pass by,go,before
+𐍆𐌰𐌿𐍂𐌳𐌰𐌼𐌼𐌾𐌰𐌽 	 verdammɕen	fore-damme 	~verdammen!	 obstruct,stop
+𐍆𐌰𐌿𐍂𐌵𐌹𐌸𐌰𐌽 	 verkrιƌen	fore-cιƒe 		 excuse,void,nullify
+𐍆𐌰𐌿𐍂𐌷𐍄𐌾𐌰𐌽 	faürkhtgen	fore-ḫte 	fürchten < fore-hate !+	 fear
+𐍆𐌰𐌿𐍂𐌻𐌰𐌲𐌾𐌰𐌽 	 verlagɕen	fore-lage 	vorlegen	 set,before,put,in front of
+𐍆𐌰𐌿𐍂𐌼𐌿𐌻𐌾𐌰𐌽 	 vermulɕen	fore-mule 	vermasseln mulɕ:Maul	 muzzle
+𐍆𐌰𐌿𐍂𐍂𐌹𐌽𐌽𐌰𐌽 	 verrιnnen	fore-rιnne 	vorrennen	 precede,precursor
+𐍆𐌰𐌿𐍂𐍃𐌹𐌲𐌻𐌾𐌰𐌽 	 versιglɕen	fore-sιgle 	versiegeln++	 seal
+𐍆𐌰𐌿𐍂𐍃𐌽𐌹𐍅𐌰𐌽 	 versnιwen	fore-snιve 		 come,beforehand,go ahead,go,before
+𐍆𐌰𐌿𐍂𐍅𐌰𐌹𐍀𐌾𐌰𐌽 	 verweιpɕen	fore-vaιpe 		 muzzle
+𐍆𐌰𐌿𐍂𐍅𐌰𐌻𐍅𐌾𐌰𐌽 	 verwelwɕen	fore-valve 		 roll
+𐍆𐌰𐍂𐌰𐌽 	 faren	fare 	fahren, fare	 go,travel
+𐍆𐌰𐍂𐌾𐌰𐌽 	 farɕen	fare 	fahren, fare	 sail,row
+𐍆𐌰𐍃𐍄𐌰𐌽 	 fasten	faste 	festigen, fasten	 keep,firm
+𐍆𐌴𐍄𐌾𐌰𐌽 	 fetɕen	fete 	fête!	 adorn
+𐍆𐌹𐌻𐌷𐌰𐌽 	 fιlḫen	fιlḫe 	flicken, file (vs defile)	 conceal,cover up
+𐍆𐌹𐌻𐌿𐍅𐌰𐌿𐍂𐌳𐌾𐌰𐌽 	 fιluweurdɕen	fιluvaurde 	viel-worten	 word,talkative
+𐍆𐌹𐌽𐌸𐌰𐌽 	 fιnƌen	fιnƒe 	finden find	 find out,discover,learn
+𐍆𐌹𐌾𐌰𐌽 	 fιɕen	fιe 	@fiend	 hate
+𐍆𐌹𐍃𐌺𐍉𐌽 	 fιschen	fιshe 	fischen, fish	 fish
+𐍆𐌹𐍄𐌰𐌽 	 fιten	fιte 	vita?	 labor,pain,childbirth
+𐍆𐌻𐌰𐌿𐍄𐌾𐌰𐌽 	 fløtɕen	flaute 	'flöten' ?	 vaunt,boast
+𐍆𐌻𐍉𐌺𐌰𐌽 	 fluken	flōke 	fluchen	 lament,mourn
+𐍆𐌿𐌻𐌻𐌰𐍅𐌴𐌹𐍃𐌾𐌰𐌽 	 fullaweιsɕen	fullaveιse 	voll(er)weisen	 persuade
+𐍆𐌿𐌻𐌻𐌰𐍆𐌰𐌷𐌾𐌰𐌽 	 fullafaḫɕen	fullafaḫe 	~vollführen?	 satisfy,placate,content,serve
+𐍆𐌿𐌻𐌻𐌰𐍆𐍂𐌰𐌸𐌾𐌰𐌽 	 fullafraƌɕen	fullafraƒe 	vollfrieden	 sober,mind,sane
+𐍆𐌿𐌻𐌻𐌽𐌰𐌽 	 fullnen	fullne 	füllen fill full	 full,fill up
+𐍆𐌿𐌻𐌻𐌾𐌰𐌽 	 fullɕen	fulle 	füllen fill full	 fill
+𐍆𐍂𐌰𐌰𐍄𐌾𐌰𐌽 	 fraatɕen	fraate 	freten > fressen , feed	 bestow,feed,distribute,food
+𐍆𐍂𐌰𐌱𐌰𐌹𐍂𐌰𐌽 	 frabaιren	frabaιre 	forbear	 bear,endure
+𐍆𐍂𐌰𐌱𐌿𐌲𐌾𐌰𐌽 	 frabugɕen	frabuge 	verbuchen, verbuy, forbuy	 sell
+𐍆𐍂𐌰𐌲𐌹𐌱𐌰𐌽 	 fragιben	fragιbe 	vergeben  forgive	 forgive,grant,give
+𐍆𐍂𐌰𐌲𐌹𐌻𐌳𐌰𐌽 	 fragιlden	fragιlde 	vergilden	 pay back,restore
+𐍆𐍂𐌰𐌳𐌰𐌹𐌻𐌾𐌰𐌽 	 fradaιlɕen	fradaιle 	verteilen ++	 distribute
+𐍆𐍂𐌰𐌵𐌹𐌸𐌰𐌽 	 frakrιƌen	fracιƒe 	ver.cursen	 declare,invalid,reject,curse
+𐍆𐍂𐌰𐌵𐌹𐌼𐌰𐌽 	 frakrιmen	fracιme 	~verkommen	 spend,use up,consume
+𐍆𐍂𐌰𐌵𐌹𐍃𐍄𐌽𐌰𐌽 	 frakrιstnen	fracιstne 	verchristen ??	 perish,destroyed
+𐍆𐍂𐌰𐌵𐌹𐍃𐍄𐌾𐌰𐌽 	 frakrιstɕen	fracιste 	verchristen ??	 destroy
+𐍆𐍂𐌰𐌷𐌹𐌽𐌸𐌰𐌽 	 fraḫιnƌen	fraḫιnƒe 	~verhindern	 take,captive,bring,captivity,capture
+𐍆𐍂𐌰𐌸𐌾𐌰𐌽 	 fraƌɕen	fraƒe 	vertun?<>frage?	 understand,perceive,think
+𐍆𐍂𐌰𐌹𐌷𐌽𐌰𐌽 	 fraιḫnen	fraιḫne 	fragen!!	 ask,inquire
+𐍆𐍂𐌰𐌹𐍃𐌰𐌽 	 fraιsen	fraιse 		 try,attempt,tempt,test,dare
+𐍆𐍂𐌰𐌹𐍄𐌰𐌽 	 fraιten	fraιte 	freten fressen	 devour
+𐍆𐍂𐌰𐌺𐌿𐌽𐌽𐌰𐌽 	 frakunnen	frakunne 	verkennen	 spurn,reject,scorn
+𐍆𐍂𐌰𐌻𐌴𐌹𐍄𐌰𐌽 	 fraleιten	fraleιte 	verleiten  𐍆𐍂𐌰𐌻𐌴𐍄𐌰𐌽: verlassen!	 
+𐍆𐍂𐌰𐌻𐌴𐍄𐌰𐌽 	 fraleten	fralete 	~for.let verlassen entlassen!	 let go,release,send,permit,forgive,absolve
+𐍆𐍂𐌰𐌻𐌴𐍅𐌾𐌰𐌽 	 fralewɕen	fraleve 	~verlassen forleave	 betray
+𐍆𐍂𐌰𐌻𐌹𐌿𐍃𐌰𐌽 	 fralιusen	fralιuse 	verlassen ≠ verloren lose!	 lose
+𐍆𐍂𐌰𐌻𐌿𐍃𐌽𐌰𐌽 	 fralusnen	fralusne 	verlassen++ verloren!	 lost,perish
+𐍆𐍂𐌰𐌼𐌰𐌸𐌾𐌰𐌽 	 framaƌɕen	framaƒe 		 alienate
+𐍆𐍂𐌰𐌽𐌹𐌼𐌰𐌽 	 franιmen	franιme 	~vernehmen 	 receive
+𐍆𐍂𐌰𐌿𐌾𐌹𐌽𐍉𐌽 	 frøɕιnen	frauɕιne 		 rule
+𐍆𐍂𐌰𐍂𐌹𐌽𐌽𐌰𐌽 	 frarιnnen	frarιnne 	verrennen	 run,awry
+𐍆𐍂𐌰𐍃𐌻𐌹𐌽𐌳𐌰𐌽 	 fraslιnden	fraslιnde 	verschlingen!	 swallow,devour
+𐍆𐍂𐌰𐍅𐌰𐌹𐍂𐌸𐌰𐌽 	 fraweιrƌen	fravaιrƒe 	verwerden verwerflich frevel!!!	 corrupt
+𐍆𐍂𐌰𐍅𐌰𐌹𐍂𐍀𐌰𐌽 	 fraweιrpen	fravaιrpe 	verwerfen	 throw,discard
+𐍆𐍂𐌰𐍅𐌰𐌿𐍂𐌺𐌾𐌰𐌽 	 fraweurkɕen	fravaurke 	verwirken!	 sin,transgress
+𐍆𐍂𐌰𐍅𐌰𐍂𐌳𐌾𐌰𐌽 	 frawerdɕen	fravarde 	verwerden frevel!!!	 corrupt,disfigure
+𐍆𐍂𐌰𐍅𐌴𐌹𐍄𐌰𐌽 	 fraweιten	fraveιte 	~~ f'revenge for.avenge	 avenge
+𐍆𐍂𐌰𐍅𐌹𐌻𐍅𐌰𐌽 	 frawelwen	fravιlve 		 seize,take,away
+𐍆𐍂𐌰𐍅𐌹𐍃𐌰𐌽 	 frawesen	fravιse 	fressen	 squander,feast
+𐍆𐍂𐌰𐍅𐍂𐌹𐌺𐌰𐌽 	 frawrιken	fravrιke 	~~verrichten	 persecute
+𐍆𐍂𐌰𐍅𐍂𐍉𐌷𐌾𐌰𐌽 	 frawruḫɕen	fravrōḫe 	ver.worden	 accuse
+𐍆𐍂𐌴𐌹𐌳𐌾𐌰𐌽 	 freιdɕen	freιde 		 spare,forbear
+𐍆𐍂𐌹𐌾𐍉𐌽 	 frιɕen	frιɕe 	frieden?	 love
+𐍆𐍉𐌳𐌾𐌰𐌽 	 fudɕen	fōde 	feed	 nourish,rear,nurture
+𐍈𐌰𐌸𐌾𐌰𐌽 	 waƌɕen	whaƒe 	??? <> waben?	 foam
+𐍈𐌰𐌹𐍂𐌱𐌰𐌽 	 waιrben	whaιrbe 	fair.bein  wabern~walken / traben!	 walk
+𐍈𐌰𐍂𐌱𐍉𐌽 	 warben	wharbe 	fair.bein  wabern~walken	 walk,wander,go,about,pass by
+𐍈𐌴𐌹𐌻𐌰𐌽 	 weιlen	wheιle 	weilen	 rest,pause
+𐍈𐍉𐍀𐌰𐌽 	 wupen	whōpe 	foppen <> prahlen	boast,rejoice
+𐍈𐍉𐍄𐌾𐌰𐌽 	 wutɕen	whōte 	𐍈𐍉𐍄𐌾𐌰𐌽 threaten <>  schrecken  𐍉𐌲𐌾𐌰𐌽 	threaten,reprimand
+𐍉𐌲𐌰𐌽 	 ugen	ōge 	äugen ōge awe angst bangen 	 fear,revere,awe
+𐍉𐌲𐌾𐌰𐌽 	 ugɕen	ōge 	schrecken  𐍉𐌲𐌾𐌰𐌽 	 scare
