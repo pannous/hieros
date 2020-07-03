@@ -291,9 +291,9 @@ extensions v1.0.0 loaded			Modern form (~ means false friend)
 𐌲𐌰𐌷𐌹𐌻𐍀𐌰𐌽 	 geḫιlpen	ḫιlpe 	geholfen, helfen, help	 help
 𐌲𐌰𐌷𐍂𐌰𐌹𐌽𐌾𐌰𐌽 	 geḫraιnigen	ḫraιne 	gereinigt, reinigen	 cleanse,purify
 𐌲𐌰𐌸𐌰𐌷𐌰𐌽 	 geƌaḫen	ƒaḫe 	gedeihen?	 be,completely,silent
-𐌲𐌰𐌸𐌰𐌹𐍂𐍃𐌰𐌽 	 geƌaιrsen	ƒaιrse 	dry.sen	 wither,dry up
+𐌲𐌰𐌸𐌰𐌹𐍂𐍃𐌰𐌽 	 geƌaιrsen	ƒaιrse 	dry.sen   𐌲𐌰𐌸???	 wither,dry up
 𐌲𐌰𐌸𐌹𐍅𐌰𐌽 	 geƌιwen	ƒιve 	diwa?	 subjugate,enthrall
-𐌲𐌰𐌸𐌻𐌰𐌹𐌷𐌰𐌽 	 geƌlaιḫen	ƒlaιḫe 		 comfort,console,encourage,exhort
+𐌲𐌰𐌸𐌻𐌰𐌹𐌷𐌰𐌽 	 geƌlaιḫen	ƒlaιḫe 	sádaile@Irish <> sooth verzeihen?	 comfort,console,encourage,exhort
 𐌲𐌰𐌸𐌻𐌹𐌿𐌷𐌰𐌽 	 geƌlιuḫen	ƒlιuḫen	gedrungen (ge)flohen fliehen?	 flee
 𐌲𐌰𐌸𐍂𐌰𐍆𐍃𐍄𐌾𐌰𐌽 	 geƌrafstɕen	ƒrafste 		 console,comfort
 𐌲𐌰𐌹𐌱𐌽𐌾𐌰𐌽 	 geιbnigen	ιbne	geebnet, ebnen, eben, even	 level,even
@@ -304,9 +304,9 @@ extensions v1.0.0 loaded			Modern form (~ means false friend)
 𐌲𐌰𐌺𐌹𐌿𐍃𐌰𐌽 	 gekιusen	kιuse 	vs accuse	 prove,test
 𐌲𐌰𐌺𐌿𐌽𐌽𐌰𐌽 	 gekunnen	kunne 	kennen / könig?	 subject,defer,authority
 𐌲𐌰𐌻𐌰𐌲𐌾𐌰𐌽 	 gelagɕen	lage 	gelage, legen, lage, lay	 lay,put,cast,down
-𐌲𐌰𐌻𐌰𐌸𐍉𐌽 	 gelaƌen	laƒe 	calypse ƒ	 call,convoke
+𐌲𐌰𐌻𐌰𐌸𐍉𐌽 	 gelaƌen	laƒe 	geladen <> einladen calypse ƒ	 call,convoke
 𐌲𐌰𐌻𐌰𐌹𐍃𐌾𐌰𐌽 	 gelaιsɕen	laιse 	gelehr…en lesson+	 teach,learn
-𐌲𐌰𐌻𐌰𐌿𐌱𐌾𐌰𐌽 	 geløbɕen	laube 	geloben, glauben	 believe,entrust
+𐌲𐌰𐌻𐌰𐌿𐌱𐌾𐌰𐌽 	 geløbɕen	galaube 	geloben, glauben	 believe,entrust
 𐌲𐌰𐌻𐌰𐌿𐍃𐌾𐌰𐌽 	 geløsɕen	løse 	gelöst, loose	 loose,free,liberate,rescue
 𐌲𐌰𐌻𐌴𐌹𐌸𐌰𐌽 	 geleιƌen	leιƒe 	geleiten, begleiten?	 depart,set out,forth,come
 𐌲𐌰𐌻𐌴𐌹𐌺𐌰𐌽 	 geleιken	leιke 	≠ gleichen ~liken	 please
@@ -315,7 +315,7 @@ extensions v1.0.0 loaded			Modern form (~ means false friend)
 𐌲𐌰𐌻𐌹𐍃𐌰𐌽 	 gelιsen	lιse 	gelist?	 gather,meet,assemble
 𐌲𐌰𐌼𐌰𐌹𐌽𐌾𐌰𐌽 	 gemaιnigen	maιne 	gemein common ++	 partake,share,common,defile
 𐌲𐌰𐌼𐌰𐌽𐍅𐌾𐌰𐌽 	 gemanwɕen	manve 	manu:hand	 prepare
-𐌲𐌰𐌼𐌰𐍂𐌶𐌾𐌰𐌽 	 gemarzɕen	marshe 	Mars?	 offend
+𐌲𐌰𐌼𐌰𐍂𐌶𐌾𐌰𐌽 	 gemarzɕen	marshe 	misdoen@Dutch 冒犯 màofàn muhani	 offend
 𐌲𐌰𐌼𐌴𐌻𐌾𐌰𐌽 	 gemelɕen	mele 	gemeldet, melden, mail	 write,register,inscribe
 𐌲𐌰𐌼𐌿𐌽𐌰𐌽 	 gemunen	mune 	memnon mind … ~	 remember,mind,recall,mind
 𐌲𐌰𐌼𐍉𐍄𐌰𐌽 	 gemuten	mōte 	gemütlich? --	 have,space,have,room
@@ -819,7 +819,7 @@ extensions v1.0.0 loaded			Modern form (~ means false friend)
 𐍆𐍂𐌹𐌾𐍉𐌽 	 frιɕen	frιɕe 	frieden?	 love
 𐍆𐍉𐌳𐌾𐌰𐌽 	 fudɕen	fōde 	feed	 nourish,rear,nurture
 𐍈𐌰𐌸𐌾𐌰𐌽 	 waƌɕen	whaƒe 	??? <> waben?	 foam
-𐍈𐌰𐌹𐍂𐌱𐌰𐌽 	 waιrben	whaιrbe 	fair.bein  wabern~walken / traben!	 walk
+𐍈𐌰𐌹𐍂𐌱𐌰𐌽 	 waιrben	whaιrbe 	fair.bein  wabern~walken / traben! herbein?	 walk
 𐍈𐌰𐍂𐌱𐍉𐌽 	 warben	wharbe 	fair.bein  wabern~walken	 walk,wander,go,about,pass by
 𐍈𐌴𐌹𐌻𐌰𐌽 	 weιlen	wheιle 	weilen	 rest,pause
 𐍈𐍉𐍀𐌰𐌽 	 wupen	whōpe 	foppen <> prahlen	boast,rejoice
