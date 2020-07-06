@@ -1,6 +1,8 @@
 # encoding: utf-8
-# import extensions
-# from extensions import *
+# nocoding: interpy "string interpolation #{like ruby}"
+
+#ln /me/dev/python/extensions.py
+#from extensions import * 
 
 import io
 import math
@@ -9,7 +11,7 @@ import inspect
 import re  # for 'is_file'
 import os
 # import __builtin__
-import numpy as np
+# import numpy as np
 from os.path import expanduser  # "~" wth
 from random import randint
 from random import random as _random
@@ -30,6 +32,7 @@ py3 = sys.version >= '3'
 
 true = True
 false = False
+
 nil = None
 null = None
 pi = math.pi
@@ -42,6 +45,9 @@ def Max(a, b):
 		return a
 	return b
 
+def sqrt(x):
+	return math.sqrt(x)
+	
 
 def Min(a, b):
 	if a > b:
@@ -54,11 +60,6 @@ def rand(n=1): return _random() * n
 
 def random(n=1): return _random() * n
 
-
-# def random_range_i(fro,to): return randint(fro,to)
-def randomfloat=random.uniform
-def random_range_f(fro,to): return fro + random() * (to-fro)
-def rands(fro,to): return fro + random() * (to-fro)
 
 def random_array(l): return np.random.rand(l)  # (0,1) x,y don't work ->
 
@@ -74,6 +75,9 @@ def readlines(source):
 	print("open(source).readlines()")
 	return map(str.strip, open(source).readlines())
 
+def read_file(source):
+	print("open(source).readlines()")
+	return map(str.strip, open(source).readlines())
 
 def reverse(x):
 	y = x.reverse()
@@ -160,6 +164,20 @@ def increase(x):
 		return x.value
 	return x + 1
 
+def negate(x):
+	import nodes
+	if isinstance(x, nodes.Variable):
+		x.value = not x.value
+		return x.value
+	return not x
+
+def decrease(x):
+	import nodes
+	# if isinstance(x, dict)
+	if isinstance(x, nodes.Variable):
+		x.value = x.value - 1
+		return x.value
+	return x - 1
 
 def grep(xs, x):
 	# filter(lambda y: re.match(x,y),xs)
@@ -169,7 +187,11 @@ def grep(xs, x):
 	return xlist(filter(lambda y: x in str(y), xs))
 
 
+
 def ls(mypath="."):
+	return os.listdir(mypath)
+
+def lsx(mypath="."):
 	from extensions import xlist
 	return xlist(os.listdir(expanduser(mypath)))
 
@@ -233,10 +255,11 @@ def typeof(x):
 	return x.__class__
 	# return type(x)
 
-regex=re.compile
-
+def regex(x):return re.compile(x)
+# regex=re.compile
 
 def regex_matches(a, b):
+	# r'foo(.*)' is just a STRING! :(
 	if isinstance(a, re._pattern_type):
 		return a.search(b)  #
 	if isinstance(b, re._pattern_type):
@@ -245,30 +268,45 @@ def regex_matches(a, b):
 		if a[0] == "/": return re.compile(a).search(b)
 	if is_string(b) and len(b) > 0:
 		if b[0] == "/": return re.compile(b).search(a)
-
 	try:
 		b = re.compile(b)
 	except:
 		print("FAILED: re.compile(%s)" % b)
 		b = re.compile(str(b))
-	print(a)
-	print(b)
 	return b.search(str(a))  # vs
-
-matches=regex_matches
-match=regex_match
-
-# import _sre
-# from _sre import SRE_Pattern
-
-#  TypeError: can't set attributes of built-in/extension type -> HACK IT
-from forbiddenfruit import curse
-curse(re.compile(r'').__class__,"matches",regex_matches)
-curse(re.compile(r'').match('').__class__,"__str__","OK")
-
 # return b.match(a) # vs search
 # return a.__matches__(b) # other cases
 # return a.contains(b)
+
+
+def regex_match(a, b):
+	NONE = "None"
+	match = regex_matches(a, b)
+	if match:
+		try:
+			return a[match.start():match.end()].strip()
+		except:
+			return b[match.start():match.end()].strip()
+	return NONE
+
+def match(a,b):
+	return regex_match(a,b)
+
+# RegexType= _sre.SRE_Pattern#type(r'')
+MatchObjectType = type(re.search('', ''))
+
+
+def match_path(p):
+	if not isinstance(p, str): return False
+	m = re.search(r'^(/[\w\'.]+)', p)
+	if not m: return []
+	return m
+
+
+
+def typeof(x):
+	print("type(x)")
+	return type(x)
 
 
 def is_file(p, must_exist=True):
@@ -294,16 +332,18 @@ def is_dir(x, must_exist=True):
 
 def is_a(self, clazz):
 	if self is clazz: return True
+	if isinstance(clazz,type) and issubclass(self,clazz): return True
 	try:
 		ok = isinstance(self, clazz)
 		if ok: return True
-	except Exception as e:
-		print(e)
+	except: pass
 
 	className = str(clazz).lower()
 	if className == str(self).lower(): return True  # KINDA
-
-	if self.is_(clazz): return True
+	try:
+		if self.is_(clazz): return True
+	except:
+		pass
 	return False
 
 
@@ -314,6 +354,8 @@ def is_a(self, clazz):
 # x = Fraction(22, 7) 	# Ruby: 22 / 7r 22r / 7
 
 if py3:
+	char = str #char# unicode
+	
 	class file(io.IOBase):
 		pass  # WTF python3 !?!?!?!?!??
 
@@ -657,13 +699,13 @@ class xlist(list):
 
 	def filter(xs, func):  # VS MAP!!
 		# return [x for x in xs if func(x)]
-		return filter(func, xs)
+		return xlist(filter(func, xs))
 
 	def select(xs, func):  # VS MAP!!
-		return filter(func, xs)
+		return xlist(filter(func, xs))
 
 	def where(xs, func):
-		return filter(func, xs)
+		return xlist(filter(func, xs))
 
 	def grep(xs, x):
 		return xlist(filter(lambda y: xstr(y).match(x), xs))
@@ -686,10 +728,12 @@ class xlist(list):
 			fun, x = x, fun
 		return self.reduce(fun, self, x)
 
+	def item(xs, n):
+		return xs[int(n) - 1]
 	def row(xs, n):
 		return xs[int(n) - 1]
 
-	def column(xs, n):
+	def column(xs, n,wtf=0):
 		if isinstance(xs[0], str):
 			return xlist(map(lambda row: xstr(row).word(n + 1), xs))
 		if isinstance(xs[0], list):
@@ -722,7 +766,7 @@ class xlist(list):
 		if not isinstance(other, list): other = [other]
 		return list.__lt__(self, other)
 
-	# TypeError: unorderable types: int() < list() fucking python 3
+	# TypeError: unorderable types: int() < list() grr python 3
 	# def __cmp__(self, other):
 	# 	if not isinstance(other, list): other = [other]
 	# 	return list.__cmp__(self, other)
@@ -865,6 +909,10 @@ class xstr(str):
 	# def invert(self):
 	#     r=reversed(self) #iterator!
 	#     return "".join(r)
+
+
+	def __add__(self, other):
+		return str(self) + str(other)
 
 	def invert(self):
 		r = reversed(self)  # iterator!
@@ -1217,6 +1265,13 @@ class xint(int):
 	def number(self):
 		return self
 
+	def __add__(self, other):
+		if isinstance(other,(str,xstr)):
+			return str(self)+other
+		if isinstance(other,int):
+			return int(self) + other
+		raise Exception("Can't add xint to "+ str(typeof(other)))
+
 	def _and(self, x):
 		return self + x
 
@@ -1481,31 +1536,59 @@ class xobject:
 def load(file):
 	return open(file, 'rt').read()
 
-
 def load_binary(file):
 	return open(file, 'rb').read()
 
 
-def read(file):
+def read_text(file):
 	return open(file, 'rt').read()
-
 
 def readlines(file):
 	return open(file, 'rt').readlines()
+
+def load_dump(file='dump.bin'):
+	if py2:
+		import cPickle as pickle
+	else:
+		import dill as pickle
+	return pickle.load(open(file, 'rb'))
+
+load_pickle=load_dump
+unpickle=load_dump
+undump=load_dump
+# restore=load_dump
 
 
 def read_binary(file):
 	return open(file, 'rb').read()
 
+def read(file):
+	try:
+		return read_text(file)
+	except Exception as e:
+		return load_dump(load_dump)
+		# return read_binary(file)
 
 def dump(o, file="dump.bin"):
+	if py2:
+		import cPickle as pickle
+	else:
+		import dill as pickle
 	pickle.dump(o, open(file, 'wb'), protocol=pickle.HIGHEST_PROTOCOL)
 	print("saved to '" + file + "'")
 
 
+	# return open(file, 'rb').read()
+unpickle=load_dump
+undump=load_dump
+deserialize=load_dump
 save = dump
 write = dump  # ok for plain bytes too++
+serialize=dump
+read_lines=readlines
 
+def cat(file):
+	print(str(read_binary(file)))
 
 def write_direct(data, file):
 	open(file, 'wb').write(data)
@@ -1576,13 +1659,6 @@ def find_class(match=""):  # all
 
 
 
-def download(url):  # to memory
-	return urlopen(url).read()
-
-def wget(url):  # to memory
-	return urlopen(url).read()
-
-
 # class Unit:
 # 	def __init__(self, value=1.):
 # 		self.value = value
@@ -1602,19 +1678,26 @@ def wget(url):  # to memory
 # km = Km()
 # assert Km(3) == km * 3
 
-print("extensions loaded")
-extensions_loaded=True
+
+def fetch(url):  # to memory
+	return urlopen(url).read()
+
+def download(url):  # to memory
+	return urlopen(url).read()
+
+def wget(url):  # to memory
+	return urlopen(url).read()
+
+
 
 def fi():
 	from tkinter import filedialog
-
 	if platform() == 'Darwin': system("osascript -e 'tell app \"Finder\" to set frontmost of process \"Python\" to true'")
 	# if platform() == 'Darwin': system('''/usr/bin/osascript -e 'tell app "Finder" to set frontmost of process "Python" to true' ''')
-
 	return filedialog.askopenfilename()
   # absolute_import askdirectory(askopenfile(askopenfilename(askopenfilenames(askopenfiles(asksaveasfile(asksaveasfilename(
 
- # def hack_builtins(): # not with bound methods :(
+# def hack_builtins(): # not with bound methods :(
 	# hacks=(xstr,xlist,xfloat,xint)#,xfile
 	# for hack in hacks:
 	# 	base=hack.__bases__[0]
@@ -1624,6 +1707,29 @@ def fi():
 	# 		curse(base,meth,lambda inst:getattr(hack,meth).bind(inst)())
 	# 		# curse(base,meth,lambda *args, **kwargs: getattr(hack,meth)(self, *args, **kwargs)
 
+def read_csv(file,delimiter=','):
+	import csv
+	csvfile=open(file, newline='') 
+	reader = csv.reader(csvfile, delimiter=delimiter, quotechar='"')
+	return reader
+	# for row in spamreader:
+		# print(', '.join(row))
+
+def csv(file):
+	return read_csv(file)
+
+def tsv(file):
+	return read_csv(file,delimiter="\t")
+
+
+def query_csv(csvfile,query=0):
+    import pandas
+    df = pandas.read_csv(csvfile)
+    sql=df.to_sql(table_name, conn, if_exists='append', index=False)
+    if query:
+        return sql.query(query)
+    else: 
+        return sql
 
 def wasm_string(pointer):
   nth=pointer
@@ -1647,3 +1753,11 @@ def wasm(file='/me/dev/wasm/main42.wasm'):
 	print(result)
 	print(wasm_string(result))
 	return result
+
+
+dedup=set
+deduplicate=set
+
+extensions_loaded=True
+print("extensions v1.0.0 loaded")
+
