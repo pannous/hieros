@@ -5,11 +5,11 @@ import bs4 #html soup
 from bs4 import BeautifulSoup
 base="https://en.wiktionary.org/"
 
-# link="wiki/Category:Coptic_lemmas"
-# alphabet="Ⲁ Ⲃ Ⲥ Ⲇ Ⲉ Ⲋ Ⲅ Ϩ Ϫ Ⲓ Ϧ Ⲗ Ⲙ Ⲛ Ⲟ Ⲡ Ϥ ⳁ Ϭ Ϯ Ⲩ Ⲫ Ⲱ Ⲝ Ⲯ Ⳉ Ⲑ Ϣ Ⲋ Ⲝ".split(" ")
+link="wiki/Category:Coptic_lemmas"
+alphabet="Ⲁ Ⲃ Ⲥ Ⲇ Ⲉ Ⲋ Ⲅ Ϩ Ϫ Ⲓ Ϧ Ⲗ Ⲙ Ⲛ Ⲟ Ⲡ Ϥ ⳁ Ϭ Ϯ Ⲩ Ⲫ Ⲱ Ⲝ Ⲯ Ⳉ Ⲑ Ϣ Ⲋ Ⲝ".split(" ")
 
-link="wiki/Category:Gothic_lemmas"
-alphabet="𐌰 𐌱 𐌲 𐌳 𐌴 𐌵 𐌶 𐌷 𐌸 𐌹 𐌺 𐌻 𐌼 𐌽 𐌾 𐌿 𐍀 𐍂 𐍃 𐍄 𐍅 𐍆 𐍇 𐍈 𐍉".split(" ")
+# link="wiki/Category:Gothic_lemmas"
+# alphabet="𐌰 𐌱 𐌲 𐌳 𐌴 𐌵 𐌶 𐌷 𐌸 𐌹 𐌺 𐌻 𐌼 𐌽 𐌾 𐌿 𐍀 𐍂 𐍃 𐍄 𐍅 𐍆 𐍇 𐍈 𐍉".split(" ")
 
 while 1:
 	print(link)	
@@ -17,7 +17,7 @@ while 1:
 	soup = BeautifulSoup(html,features="html.parser")
 	words = columns = soup.findAll('a')
 	for word in words:
-		if len(word.text)>1 and word.text[0] in alphabet:
+		# if len(word.text)>1 and word.text[0] in alphabet:
 			print(word.text)
 	columns = soup.findAll('a', text = re.compile('next page')) #, attrs = {'class' : 'pos'}
 	if not columns: break
@@ -26,6 +26,3 @@ while 1:
 
 
 # print(soup)
-
-
-mape={"Ⲁ":"A", "Ⲃ":"B", "Ⲥ":"C", "Ⲇ":"D", "Ⲉ":"E", "Ⲋ":"F", "Ⲅ":"G", "Ϩ":"H", "Ϫ":"I", "Ⲓ":"J", "Ϧ":"K", "Ⲗ":"L", "Ⲙ":"M", "Ⲛ":"N", "Ⲟ":"O", "Ⲡ":"P", "Ϥ":"Q", "ⳁ":"R", "Ϭ":"S", "Ϯ":"T", "Ⲩ":"U", "Ⲫ":"V", "Ⲱ":"W", "Ⲝ":"X", "Ⲯ":"Y", "Ⳉ":"Z", "Ⲑ":"TH", "Ϣ":"SH", "Ⲋ":"ß", "Ⲝ":"GH"}
