@@ -1,7 +1,8 @@
 # encoding: utf-8
 # nocoding: interpy "string interpolation #{like ruby}"
 
-#ln /me/dev/python/extensions.py
+# ln /me/dev/python/extensions.py
+# ln -s /me/dev/python/extensions.py
 #from extensions import * 
 
 import io
@@ -1577,6 +1578,10 @@ def dump(o, file="dump.bin"):
 	pickle.dump(o, open(file, 'wb'), protocol=pickle.HIGHEST_PROTOCOL)
 	print("saved to '" + file + "'")
 
+def write_binary(data,file):
+	f =	open(file, 'wb')
+	f.write(data)
+	f.close()
 
 	# return open(file, 'rb').read()
 unpickle=load_dump
@@ -1682,8 +1687,17 @@ def find_class(match=""):  # all
 def fetch(url):  # to memory
 	return urlopen(url).read()
 
-def download(url):  # to memory
-	return urlopen(url).read()
+def download(url,file=nil,useSaved=false):  # to memory
+	if useSaved:
+		try:
+			return read_binary(file)
+		except Exception as e:
+			pass
+			# print("no file yet")
+	data = urlopen(url).read()
+	if file:
+		write_binary(data,file)
+	return data
 
 def wget(url):  # to memory
 	return urlopen(url).read()
