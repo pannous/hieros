@@ -36,7 +36,7 @@ J:	M4	𓆳 𓍇tj	Jana ♀ <> Jahr, Ja? << 𓄏 角 jiǎon Journ year  Ϫ𓆓
 J:	V31	𓎡jɠ jug jego ≠ youg ++  𓎡𓃀𓁸 Jammer<>Kummer	𓍿𓈖𓏥  𓂾 jump 𓍿𓉔𓃀
 K:	V31	𓎡Kelle k-l-l=𓎟 𓎡𓎡 khem 𓎡𓈖𓎛𓇰 <> chrome 𓎡can  cup+tasse=qeceth  tcun 
 K:	V31	𓂓/𓎡	cup/Korb:cover~kappa ⵛcκ! γ(r) χ !cr->gr->jr Krug que ţjuɠ (jar)cup𓎡Tasse > THA > ŢÇ 𒄑 > C > 𐎣 K [ > G > γ 
-K:	𓐍 qapha cover<>qadar gray 	kWn𓏲kWr?	 raw-khake	𓍯𓄿𓏲𓏲𓈐𓂻
+K:	Aa1 𓐍 qapha cover<>qadar gray 	kWn𓏲kWr?	 raw-khake	𓍯𓄿𓏲𓏲𓈐𓂻
 L:	Z5 𓏯 L λ<-Y 𓇋𓇋 𓇌 𓃭Leo << D15 𓂅 Locke 𓏲? 𓂢 Elle niL𓈖𓄓𓋴langue لا𓄿Lär  𓌳לlamed=goad(t) ¬ ł/Ր/r?
 L:  N35 𓈖 𓄓𓋴 langue, lanze, lick, lap ﻝ
 M:	G17 𓅓𐦨枭  Musen 𒈪 𓐝𓊗𓐍𓐍𓎡𓎡Galle μa μη 𓀁moiμ𓅱 mwn 𐀖 µ vs ν   Mut:𓂋𓅱𓅐  
@@ -82,6 +82,7 @@ G17    	𓅓BR->eMpor 𓐝 =  90% iM! (iN! 10%)	:G17    𓅓	𓄿鸟 ὄρνεο
 G37		𓅪𓅫  foul fowl, gull galle colour:kala 𓅓𒈪vo.GEL, gval, ghoul 𒅆 HUL, voll, val, -al, full,viel :G37b𓅫 sparrow
 G36		𓅨	𓅩 Ɣwar/Ɣwal:ver(y) Schwall.ver faire  𓅨 swall.low 𓅩 Ɣval~gval 𒃲 gvert great Ɣwanz <>sehr schwer berg
 G37		𓅪𓅫 FINK -LING -ING ! Geringling
+Aa1  𓐍 Korb! "𓐍 Aa1	basket from above" kabove?
 Aa1  𓐍 Tar>tyr𓅓>Cyr | kara,gray>thr3>šar 𒊹 καρκίνος carcinom कर्कट karkaṭa 𓅓 crow crabs scrabies
 Aa1  𓐍 ky'á 	𓐍 kara/gray/grease… կեղ çirkli ក្រខ្វក់ krɑk كىر‎ кир kir kirli@Turk (=dirty)! 
 Aa1  𓐍 KYR,GYR,Ӄo,Gu,Kh,qua,cHr,ӄo,kr,gH,δy  :Aa1  𓐍  歹 dǎi.mon δyγ/circle/gyro/kür/Kreis/dei=GOTT
@@ -91,7 +92,7 @@ Aa1  𓐍 THR throw dark tar δrei ~ three 3 𓐍𓏏= 𐎘𐎍𐎘! Cri ξrei!=
 Aa1  𓐍 Na.Ӄyr NeGro  𓐍𓏮  𓐪𓂧𓂂𓏛 𓎡  ¿Qué pasa tu?    ES!!! 𓐍𓅓 Schrei/Greif/Tchirp!
 Aa1  𓐍 Nwi Nuit NaIξ: 𓐍𓅓 𓐍𓐍 neck/gurgel  𓅱𓐍 mooNHa / luNa !!?    
 Aa1  𓐍 ballacK:block 𓐍 blue-black-ball = 𓐍𓋴𓃀𓂧𓈒𓏥 kaspian=lapiz! kala.ore=color:kala ghoul.heure 𓐍𓅓mnoon ball=throw
-Aa1  𓐍 prefix  𓐍  ek => ex- !? nuacht vs 𓊖
+Aa1  𓐍 prefix 𐌲𐌰- … 𓐍  ek => ex- !? nuacht vs 𓊖
 V28   	𓎛 Hair/Helix < hurl,Curl,dreh,√DRILL 𓎛~𐎍 ! 𓎛𓃀𓋴𓋳 = 𐎍𐎁𐎒 lbš
 V28   	𓎛 ξḪH µH,mH,wHr/Mer!?! Harpi H,her,hair,har,kHer,flaX <> Hanf,Con 𓎛𓎸𓈖 
 V28B   	𓎛	𐎍 DR3/DL3 Lunte: lu,li,'und,'un,hu	    	:V28    𓎛  Synthese: LutHer𓎛 Herlun <> herum Heller?  Hier.Long?
