@@ -4301,46 +4301,46 @@ jazma : boots [from Tur cizme]
 jazula : be big, rich [Ara gzl (snatch, rob)]
 jazza : cut off [Sem g-z-z, Mal gezz (slice), Heb gazaz, Tig geza (acquire), Uga gzz (cut)]
 jib : jeep++™ [from Eng jeep]
-jib : pocket [Sem g-b, Heb gav (back), JNA geba (side), Uga gb (back)] Alb xhep, Aze cib, Bul dzheb, Ful jiba, Hin jib, Hun zseb, Gre tsepi, Per jib, Ser dzep, Tur cep 
-jibs : gypsum [jiss]
+jib : pocket {j-r-b:grab=bag|Gabe} [Sem g-b, Heb gav (back), JNA geba (side), Uga gb (back)] Alb xhep, Aze cib, Bul dzheb, Ful jiba, Hin jib, Hun zseb, Gre tsepi, Per jib, Ser dzep, Tur cep 
+jibs : gypsum [jiss] OK
 jid : neck [Akk gidu (sinew), Akk gidu, Heb gid, Syr gada, Aram gida, giada, Jib zhid, Soq zhid, Uga gd] Per jid 
 jidal : struggle [jadala] Hau jidali, Per jedal 
-jidar : wall [Sem g-d-r, Heb gader (fence), Aram gdr (wall)] Per jidar 
+jidar : wall {Gatter guard:gader√ ++} [Sem g-d-r, Heb gader (fence), Aram gdr (wall)] Per jidar 
 jidd : effort [jadda] Hin jad-, Per jedd 
 jiddan : earnest, serious [jadda] Per jeddan 
 jiddi : serious [jadda] Aze ciddi, Per jeddi, Tur ciddi 
 jidh‘ : trunk [jaza‘a]
 jifa : carcass [jauf] Per jife 
-jiha : side, region [wajuha] Ful jiha, Hau jiha, Per jehat, Tur cihet 
+jiha : side {jihait:jehat,cihet QED}, region [wajuha] Ful jiha, Hau jiha, Per jehat, Tur cihet 
 jihad : holy war [jahada] Ful jihadi, Hau jihadi, Hin jihad, Ind jahad, Per jehad 
 jihaz : equipment, device; ship [jahaza] Aze cihaz, Hin jihaz, Per jahaz, Swa jahazi, Tat dzhihaz, Tur cihaz 
-jil : tribe; generation, epoch [Heb gil (age)] Per jil 
-jild : skin, leather; book cover; volume [jallada] Aze cild, Hin jild, Per jeld, Swa jalidi, Tur cilt, Uzb dzhild
-jilf : rude  Per jelf 
+jil : tribe; generation{year}, epoch{year} [Heb gil (age)] Per jil 
+jild : skin{jild:Schild}, leather{jilder:leder}; book cover; volume [jallada] Aze cild, Hin jild, Per jeld, Swa jalidi, Tur cilt, Uzb dzhild
+jilf : rude {selfish} Per jelf 
 jilwa : revealing; shining; grace, charm [jala] Aze cilve, Per jelwe 
 jim : the letter j [Sem g-m-l, Heb gimel] Per jim 
-jima‘ : intercourse [jama‘a] Hau jimai, Per jema‘ 
-jinai : criminal [jana] Aze cani, Per jonai 
-jinas : pun [jins] Aze cinas, Per jenas, Tur cinas 
-jinaya : crime [jana] Aze cinayet, Per jenayat 
+jima‘ : intercourse {SYM} [jama‘a] Hau jimai, Per jema‘ 
+jinai : criminal {ganove} [jana] Aze cani, Per jonai 
+jinaya : crime {<Gaunerei} [jana] Aze cinayet, Per jenayat 
 jinaza : corpse; burial; bier [jannaza] Ind jenazah, Per jenaze, Swa jeneza, Tur cenaze 
+jinas : pun [jins] Aze cinas, Per jenas, Tur cinas 
 jinhh : side; wing [janahh] Per jenhh 
 jinn : genie; demon [from Lat genius] Aze cin, Hin jinn, Kyr jin, Per jenn, Swa jini, Tur cin 
 jinna : madness [janna] Per jennat 
 jins : kind; gender, sex [from Gre genos] Aze cins, Ful jinsu, Hau jinsi, Hin jins, Per jens, Tat zhenes, Tur cins, Uzb dzhins
 jinsi : sexual, sexy [jins] Per jensi, Tat zhensi, Tur cinsi, Uzb dzhinsiy 
 jir : lime, chalk [kura]
-jirab : bag [Sem g-r-b, Akk gurabu, Syr graba (jug)]
+jirab : bag {go, grab a bag} [Sem g-r-b, Akk gurabu, Syr graba (jug)]
 jiran : camel’s neck [Sem g-r-n, Heb garon (throat)]
 jirjir : cress [Sem g-g-r, Akk egemgiru, Heb gargir, Syr gargira] Per jerjir 
 jirm : body [Sem g-r-m, Heb garam (cause), Syr gerama (body), JNA garma (bone), Uga grm] Per jerm 
 jirw : cub [jarw]
 jism : body [jasuma] Aze cisim, Hin jism, Per jesm, Tur cisim, Uzb dzhism 
-jisman : body [jism] Per jesman 
+jisman : body <> Talisman𓄡𓆣? [jism] Per jesman 
 jismani : corporeal, physical [jisman] Per jesmani, Uzb dzhismoniy 
 jisr : beam, bridge [jasara] Per jesr 
-jiss : gypsum [Mal gibs (chalk), Akk gassu (gypsum), JNA gassa]
-jiwar : neighborhood [jawara] Aze civar, Per jawar 
+jiss : <gypsum [Mal gibs (chalk), Akk gassu (gypsum), JNA gassa]
+jiwar : neighborhood <>jar [jawara] Aze civar, Per jawar 
 jizdan : purse [juzdan]
 jizia : poll tax [jaza] Hin jizya, Per jezye 
 ju‘ : hunger [ja‘a] Per ju‘ 
@@ -4605,7 +4605,7 @@ kirbal : sieve [from Lat cribellum]
 kirdan : necklace [Hrs qard (throat)]
 
 kirsh : stomach [Sem k-r-s, Akk karshu, Heb kares (belly), Syr karsa (womb), JNA kasa, Hrs keres (belly), Gez kars, Tig kerset, Ebl karsu]
-kisa : purse [Sem k-y-s, Akk kisu, Heb kiss (pocket), Syr kesa, JNA kis, Amh kis] Per kise 
+kisa : purse {ktasche} [Sem k-y-s, Akk kisu, Heb kiss (pocket), Syr kesa, JNA kis, Amh kis] Per kise 
 kisl : loin, sinew [Heb kesel, Uga ksl]
 kitab : book [kataba] Aze kitab, Hin kitab, Kaz kitap, Kyr kitep, Per ketab, Taj kitob, Tat kitap, Tur kitap, Uzb kitob 
 kitaba : writing [kataba] Hin kitabat, Per ketabat 
@@ -7240,7 +7240,7 @@ rahhiba : welcome sy
 rahhala : depart [Mal rahhal (village)]
 rahhil : departing; the deceased [rahhala]
 rahhl : {ride}saddle; saddle-bag [Sem r-hh-l, Syr rachla (baggage)]
-rakiba : ride [Sem r-k-b, Mal rikeb, rkobba (knee), Akk rakabu (ride), Heb rakhav, Syr rekeb, JNA rkw, Amh merkeb (ship), erkab (stirrup), Uga rkb (ride)] Swa rakibu 
+rakiba : ~ride [Sem r-k-b, Mal rikeb, rkobba (knee), Akk rakabu (ride), Heb rakhav, Syr rekeb, JNA rkw, Amh merkeb (ship), erkab (stirrup), Uga rkb (ride)] Swa rakibu 
 
 raja‘a : reach:return [Sem r-g-‘]
 raji‘ : returning [raja‘a]  vs rahhil
@@ -9887,7 +9887,7 @@ zujajia : glassware 𓎡[zujaj] Tur zucaciye
 
 zukam : a cold [zukima] Aze zokem, Hin zukam, Per zokam 
 zukima : catch a cold 
-zukra : water bag [Uga dkr]
+zukra : water bag{=grab} [Uga dkr]
 zu‘m : assertion [za‘ama] Hin zum, Per za‘m 
 zumra : ∑++ team; class, category  Per zomre, Tur zumre 
 zumurrud : z'emerald~- [from Gre smaragdos++-] Aze zumrud, Ind zamrud, Per zomorrod, Tur zumrut, Uzb zumrad 
