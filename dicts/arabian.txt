@@ -4340,7 +4340,7 @@ jisman : body <> Talisman𓄡𓆣? [jism] Per jesman
 jismani : corporeal, physical [jisman] Per jesmani, Uzb dzhismoniy 
 jisr : beam, bridge [jasara] Per jesr 
 jiss : <gypsum [Mal gibs (chalk), Akk gassu (gypsum), JNA gassa]
-jiwar : neighborhood <>jar [jawara] Aze civar, Per jawar 
+jiwar : neighborhood <>jard [jawara] Aze civar, Per jawar 
 jizdan : purse [juzdan]
 jizia : poll tax [jaza] Hin jizya, Per jezye 
 ju‘ : hunger [ja‘a] Per ju‘ 
