@@ -30,3 +30,4 @@ fonts/*.zip
 fonts/*.pdf
 **/*.zip
 **/*.bak
+**/*.icloud
