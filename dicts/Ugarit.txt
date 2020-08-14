@@ -234,22 +234,24 @@ Legitimate Semitic:
 of *tøò		"Kubaba		"). 
 𐎟144𐎟𐎓𐎁𐎏𐎗𐎒̌"𐎟𐎟𐎓𐎁𐎏𐎊𐎗𐎅		 144 îbdrš"-îbdyrh
 𐎓𐎁𐎗		îbr		"passer-by" <		"guest"
-𐎓𐎁𐎒		îbs		"mace"
+𐎓𐎁𐎒		îbs		"mace"  rvs ~ վարզ varz < گرز‎ gorz गदा gadā 
 𐎓𐎁𐎒		/î-b-š/	[verb]		"?"
 𐎓𐎁𐎚		/î-b-t/		"to drain"  < /î-b-d/? 
-𐎓𐎏		îd	1) prep,		"up to, until
-𐎓𐎏		îd		"time, period"
+𐎓𐎏		îd		"time, period" Zeit < shift
+𐎓𐎏		îd		"time, period"  iod < period
+𐎓𐎏		îd	1) prep,		"up to, until" un.til (und.delta)
+𐎓𐎏		îd	1) prep,		"up to, until" hierat
+𐎓𐎏𐎏		îdd		~ "herald"
+𐎓𐎏𐎁		îdb		"available, ready, prepared" ready
 𐎓𐎏		îd	1)		"throne, throne-room		"		"to order to be set up/make arrangements for"
-𐎓𐎏𐎁		îdb		"available, ready, prepared"
 𐎓𐎏𐎁𐎚		îdbt		"layout, arrangement"
-𐎓𐎏𐎏		îdd		"herald"
 𐎓𐎏𐎎𐎚		îdmt		"desolation"
 𐎓𐎏𐎐		îdn	1)		"store, silo"
 îaddinat, maîdin, Lane 1976f, preferable to *îdy		"réunir"
 𐎓𐎏𐎐		îdn	1)		"troop"
+𐎓𐎏𐎁𐎚		îdbt		"squad, caravan" (road.boot)
 𐎓𐎏𐎚		îdt	1)		"assembly		"		"meeting"
-𐎓𐎏𐎚		îdt		"date, moment"  cf De Moor SP 160f
-𐎓𐎏𐎁𐎚		îdbt		"squad, caravan"
+𐎓𐎏𐎚		îdt		"date, moment"  îdate !  cf De Moor SP 160f
 𐎓𐎏𐎗𐎚		îdrt		"help" HALOT 812
 𐎓𐎙𐎍		îgl		"calf, bullock"	ViehGaul
 𐎓𐎙𐎍𐎚		îglt		"heifer" . 
@@ -266,7 +268,7 @@ syntagms >	adj.		"eternal"
 𐎁𐎍𐎊		Vly		"place of sacrifice, propitiatory"  < a 'raised' cultic structure
 𐎁𐎍𐎊𐎖𐎎		Vlyqm		"?",	1.172
 𐎁𐎍𐎊𐎚		Vlyt		"?",	1.176		"with, together with, next to, before"
-𐎓𐎎		îm		"lineage, ancestors"
+𐎓𐎎		îm		"lineage, ancestors" hierim
 𐎓𐎎𐎏		/î-m-d//D		"?"
 𐎚𐎎𐎏		Tmd		"support or foot of a wall"
 𐎚𐎎𐎖		Tmq		"valley"
@@ -276,12 +278,12 @@ syntagms >	adj.		"eternal"
 𐎚𐎐		Tn	1)		"eye"
 𐎚𐎐		Tn		"furrow"
 𐎚𐎜𐎐		Tun	1)		"manservant, servant"
-𐎓𐎀𐎆𐎐		îawn		"help", Lane 2203f
+𐎓𐎀𐎆𐎐		îawn		"help", Lane 2203f <> yardım < guard
 𐎓𐎐𐎖		înq		"necklace" a-neck
-𐎓𐎐𐎚		înt	adv.		"now"
-𐎓𐎔		îp		"bird" !!
-𐎓_𐎔𐎓𐎔		î_pîp		"pupil"
-𐎓𐎔𐎗		îpr	1)		"dust"
+𐎓𐎐𐎚		înt	adv.		"now"  jentz jetzt 今 دحين‎ daḥēn, daḥīn
+𐎓𐎔		îp		"bird" chirp!
+𐎓_𐎔𐎓𐎔		î_pîp		"pupil" !! ++
+𐎓𐎔𐎗		îpr	1)		"dust" غُبَار‎ ḡubār
 𐎓𐎔𐎗𐎚		îprt	of an object or material   or		"lead"	Hb., Pun îprt, HALOT 863
 𐎓𐎔𐎁𐎒		îp/bs		"landmark, boundary"
 𐎚𐎖		Tq		"pupil"
