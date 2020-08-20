@@ -1,0 +1,1 @@
+./AKKADIAN_prayers/gula1.txt
