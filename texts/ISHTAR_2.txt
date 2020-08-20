@@ -2,341 +2,332 @@ ISHTAR 2, “THE GREAT ISHTAR PRAYER ”
 
 
 1. 𒋙𒀭 𒌑 𒊩 𒇷 𒆠 𒁁 𒀖 𒁁 𒇷 𒂊 𒋾 𒄿 𒆳 𒄿 𒆷 𒀀 𒋾
-2. 𒀭 𒅖 𒋻 𒊬 𒊏 𒋾 𒆰 𒆳 𒁕 𒄉 𒈨 𒈲 𒋼 𒅆 𒋥 𒋼 𒉌 𒊺 𒂊 𒋾
-3. 𒀭 𒅕 𒉌 𒉌 𒄷𒄭 𒊑 𒆷 𒀀 𒋾 𒊏 𒁁 𒀭 𒐊 𒁹 𒁹
-4. 𒁉 𒊏 𒀀 𒋾 𒈠 𒀠 𒅗 𒀀 𒋾 𒋗 𒈬 𒆠 𒍢 𒊒
-5. 𒀜 𒋾 𒈠 𒈾 𒀭 𒈾 𒋥 𒀭 𒂊 𒌋 𒆠 𒁴 𒈠 𒋥 𒀭 𒌋𒌋𒌋 𒋡 𒈩 𒋾
-6. 𒄷𒄭 𒋰 𒁉 𒆷 𒀜 𒄑 𒆪 𒈨𒌍 𒃻 𒆠 𒈾 𒀜 𒌅 𒄣 𒌦 𒋾
-7. 𒄩 𒈪 𒆳 𒄀 𒂇 𒌓 𒍢 𒀀 𒉿 𒋥 𒀀 𒄀 𒂊 𒁁 𒇻 𒋾
-8. 𒀭 𒃽 𒋗 𒁍 𒌑 𒈜 𒁍 𒆠 𒌋𒅗 𒅗 𒆷 𒀭 𒈨𒌍 𒍢 𒊒
-9. 𒀯 𒋫 𒉡 𒋡 𒀀 𒋾 𒈲 𒌓 𒄭 𒍝 𒀜 𒋀 𒈨𒌍 𒁁 𒄖 𒊒 𒋾
-10. 𒄷𒄭 𒋫 𒀜 𒁲 𒈾 𒀜 𒀉 𒁀 𒊒
-11. 𒀉 𒁓 𒋾 𒁁 𒀖 𒌅 𒃻 𒊑 𒄷𒄭 𒋳 𒆠 𒉻 𒃻 𒁲 𒅀
-12. 𒀭 𒄖 𒊺 𒂊 𒀀 𒃻 𒌅 𒄣 𒌦 𒋫 𒄬 𒉻 𒆷 𒁉 𒆳 𒄯 𒁀 𒃻
-13. 𒃵 𒊏 𒀀 𒋾 𒈨 𒁕 𒌋 𒌍 𒁇 𒌨 𒋾 𒆠 𒁴 𒌋 𒃻 𒈠 𒈪
-14. 𒆹 𒆪 𒌍 𒊑 𒂊 𒋾 𒉌 𒈨 𒁕 𒌋 𒁈 𒈨𒌍 𒌑 𒄷 𒄣 𒅗 𒀀 𒅆
-15. 𒂊 𒆠 𒀀 𒄠 𒆷 𒈬 𒆠 𒂊 𒆠 𒀀 𒄠 𒆷 𒌓 𒍮 𒆠
-16. 𒂊 𒆠 𒀀 𒄠 𒆷 𒊺𒄷 𒍮 𒊏 𒄑 𒄯 𒈨𒌍 𒆠 𒂊 𒆠 𒀀 𒄠 𒆷 𒊒 𒈨𒌍 𒁈 𒈨𒌍 𒆠
-17. 𒂊 𒆠 𒀀 𒄠 𒆷 𒊏 𒁀 𒀀 𒋾 𒂊 𒆠 𒀀 𒄠 𒆷 𒍢 𒊏 𒀀 𒋾
-18. 𒀭 𒀀 𒉏 𒀭 𒂗 𒆤 𒌋 𒀭 𒂍 𒀀 𒌌 𒇻 𒌑 𒆠 𒀸 𒀭 𒈨𒌍 𒌑 𒊬 𒁍 𒌑 𒁁 𒇻 𒌓 𒆠
-19. 𒌑 𒃻 𒀾 𒄣 𒆠 𒀸 𒀮 𒄯 𒀭 𒐊 𒁹 𒁹 𒌑 𒃻 𒋾 𒊒 𒌋𒌋 𒍝 𒊍 𒆠286
-20. 𒀀𒈾 𒄭 𒄑 𒆳 𒋗 𒈨 𒆠 𒀭 𒌑 𒌋 𒆠 𒁴 𒄿 𒊒 𒌒 𒁍
-21. 𒀭 𒈨𒌍 𒄿 𒊒 𒁍 𒄿 𒈜 𒊒 𒂇 𒀭 𒀀 𒉣 𒈾 𒆠
-22. 𒈬 𒆠 𒊏 𒀾 𒁍 𒅖 𒌓 𒈠 𒊏 𒋼 𒉌 𒊺 𒂊 𒋾
-23. 𒀜 𒋾 𒈠 𒊏 𒁀 𒀀 𒋾 𒅇 𒍢 𒊏 𒀀 𒋾
-24. 𒀮 𒄯 𒉌 𒆳 𒆕 𒋡 𒁲 𒉆 𒈦 𒋗 𒌑 𒋼 𒉌 𒊺 𒂊 𒋾 𒄿 𒊑 𒆷 𒇻 𒄥 𒁲 𒆠
-25. 𒁲 𒅔 𒁀 𒄷 𒆷 𒀀 𒋾 𒀸 𒆤 𒋾 𒌋 𒈪 𒃻 𒊑 𒋫 𒁷 𒉌 𒀜 𒋾
-26. 𒋰 𒁄 𒆷 𒋛 𒆸 𒇻 𒌋 𒊕 𒋗 𒆪 𒋼 𒌍 𒊺 𒊑 𒌓 𒁕 𒃶
-27. 𒀀 𒄷 𒆗 𒆠 𒁁 𒀖 𒀭 𒂊 𒌋 𒆠 𒁴 𒊑 𒂍 𒀀 𒀜 𒌦 𒈨𒌍 𒀀 𒉺 𒀀 𒋾
-28. 𒀀 𒄷 𒆗 𒆠 𒁁 𒀖 𒂍 𒀭 𒈾 𒋻 𒁺 𒋙 𒋗 𒉐 𒈬 𒂖 𒇻
-29. 𒀀 𒄷 𒆗 𒆠 𒀭 𒃽 𒌌 𒀀 𒉌 𒄩 𒄊 𒈫 𒆠 𒆷 𒋛 𒈠 𒄵 𒅗 𒀀 𒆠
-30. 𒀀 𒄷 𒆗 𒆠 𒁁 𒀖 𒋫 𒄩 𒍣 𒅗 𒇷 𒋙 𒉡 𒌓 𒄩 𒊑
-31. 𒋗 𒁍 𒌑 𒌈 𒆷 𒀊 𒁁 𒀭 𒐊 𒁹 𒁹 𒈬 𒃶 𒉌 𒆳 𒀭 𒈨𒌍 𒉺𒅁 𒋢 𒋾
-32. 𒇷 𒀪 𒀀 𒀜 𒅗 𒇷 𒋙 𒉡 𒈠 𒀠 𒆪 𒍝 𒁉 𒋫 𒀜 𒈲 𒈩 𒈗 𒈨𒌍
-33. 𒉿 𒋫 𒀀 𒀜 𒁍 𒋢 𒌝 𒈨 𒃻 𒅗 𒇷 𒅆 𒈾 𒆠 𒂖 𒈨𒌍
-34. 𒈾 𒀭 𒊺 𒀀 𒀜 𒈾 𒀭 𒁲 𒀀 𒀜 𒋡 𒈩 𒋾 𒀭 𒌋𒐊 𒊏 𒁍 𒌑 𒄥 𒁲 𒆠
-35. 𒈾 𒂇 𒌈 𒁲 𒌓 𒀭 𒂊 𒌋 𒆠 𒁴 𒃻 𒊒 𒌨 𒆗 𒁕 𒄉 𒈨
-36. 𒄑 𒍣 𒀉 𒃮 𒇻 𒆷 𒈠 𒄯 𒀀 𒇷 𒆳 𒌓 𒄩 𒊑
-37. 𒀀 𒆪 𒆪 𒌑 𒌈 𒃻 𒁹 𒀀 𒀀 𒁉 𒀮 𒉺 𒃻 𒆠 𒈾 𒀜 𒋚 𒇻 𒊌 𒋾 𒅅 𒁺 𒋾
-38. 𒈬 𒌝 𒅖 𒌈 𒀭 𒅖 𒋻 𒈬 𒈜 𒄭 𒋥 𒁍 𒄴 𒊑
-39. 𒄿 𒆳 𒍑 𒈨𒌍 𒀭 𒅖 𒋻 𒊩 𒈨𒌍 𒃻 𒆷 𒄿 𒇴 𒈠 𒁺 𒈪 𒌨 𒋙 𒈠 𒄠 𒌋𒌋
-40. 𒀀 𒊬 𒋰 𒁄 𒆷 𒋛 𒄿 𒁄 𒂁 𒇿 𒄿 𒋼 𒅁 𒁉 𒈥 𒍮
-41. 𒅖 𒅆 𒅕 𒆷 𒄿 𒃻 𒊒 𒀀 𒈪 𒊒 𒉺 𒉌 𒆠
-42. 𒁹 𒆪 𒀠 𒋛 𒆠 𒀭 𒄷 𒋗 𒉡 𒄷 𒋳 𒊒 𒍮 𒀴 𒆠
-43. 𒀀 𒄯 𒅔 𒉌 𒈠 𒀭 𒃽 𒈬 𒇷 𒆥 𒂊 𒌦 𒉌 𒉌 𒅀
-44. 𒆠 𒌋𒌋 𒀮 𒇷 𒌍 𒉌 𒈠 𒅆 𒈪 𒂊 𒌨 𒇷 𒋾
-45. 𒀀 𒄷 𒆗 𒅀 𒆠 𒁉 𒈠 𒅗 𒁁 𒋫 𒆠 𒈜 𒉺 𒀾 𒊏
-46. 𒀀 𒄷 𒆗 𒋢 𒅀 𒈾 𒊍 𒋛 𒃻 𒈠 𒇻 𒌑 𒂊 𒃻 𒀀 𒋾 𒌋 𒊑 𒄩 𒀀 𒋾
-47. 𒀀 𒄷 𒆗 𒊮 𒁉 𒅀 𒋳 𒊒 𒍮 𒃻 𒈠 𒇻 𒌑 𒁶 𒋾 𒌋 𒋫 𒉌 𒄭
-48. 𒀀 𒄷 𒆗 𒋼 𒊑 𒋾 𒅀 𒈾 𒊍 𒊓 𒀀 𒋾 𒂊 𒃻 𒀀 𒋾 𒌋 𒊑 𒄩 𒀀 𒋾
-49. 𒀀 𒄷 𒆗 𒂍 𒅀 𒋗 𒌓 𒇻 𒁍 𒃻 𒌑 𒈾 𒊍 𒊓 𒋢 𒀀𒅆 𒈨𒌍
-50. 𒀀 𒄷 𒆗 𒆏 𒋫 𒋾 𒅀 𒃻 𒍑 𒋫 𒁇 𒊒 𒌑 𒁶 𒋾 𒌋 𒋫 𒉌 𒄭
-51. 𒀭 𒅕 𒉌 𒉌 𒄿 𒌈 𒆷 𒀊 𒁍 𒈾 𒀜 𒊒 𒊮 𒁀 𒆠 𒇷 𒉡 𒄩
-52. 𒊑 𒄿 𒈬 𒉺𒅁 𒁀 𒋢 𒌑 𒅗 𒁁 𒋫 𒆠 𒈜 𒉺 𒀾 𒊏
-53. 𒅆𒂟 𒈨𒌍 𒅆 𒈫 𒆠 𒈜 𒃻 𒀀 𒂊 𒇷 𒅀
-54. 𒀸 𒁍 𒉌 𒆠 𒉆 𒊒 𒋾 𒆠 𒌋𒌋 𒀮 𒇷 𒌍 𒉌 𒅀 𒀀 𒅆
-55. 𒊌 𒆠 𒅆 𒌑 𒉿 𒃻 𒅆𒌨 𒈨𒌍 𒃻 𒋢 𒈬 𒂟 𒆠 𒉆 𒊒 𒇻 𒄯
-56. 𒀀 𒁲 𒈠 𒋾 𒀭 𒃽 𒈬 𒂗 𒈨𒌍 𒁕 𒁀 𒁉 𒅀 𒉌 𒆸 𒈬 𒌑 𒅔 𒉌 𒈠288
-57. 𒀸𒋩 𒊏 𒀀 𒋾 𒌋 𒆷 𒆠 𒈾 𒀀 𒋾 𒄿 𒆏 𒁍 𒁺 𒉌 𒅆 𒉌 𒂊 𒋾
-58. 𒊑 𒁺 𒌑 𒀀 𒄩 𒁺 𒌑 𒀀 𒅖 𒌓 𒈠 𒊒 𒌋𒅗 𒈬
-59. 𒀀 𒁲 𒈠 𒋾 𒀭 𒃽 𒈬 𒇸 𒇻 𒀀 𒆪 𒌑 𒄿 𒁀 𒀪 𒀭 𒉌
-60. 𒅁 𒈾 𒀭 𒉌 𒈮 𒄣 𒅈 𒆪 𒌝 𒈠 𒁹 𒆪 𒄠 𒂇 𒆠
-61. 𒂗 𒋗 𒋾 𒀉 𒉌 𒉡 𒈠 𒁹 𒆪 𒂊 𒉌 𒅖
-62. 𒀀 𒉺𒅁 𒁍 𒀪 𒆠 𒈠 𒀀 𒄀 𒄿 𒃻 𒌒 𒉺 𒄣 𒅎 𒅆 𒈾
-63. 𒄿 𒃻 𒀪 𒀉 𒋫 𒀮 𒆜 𒊮 𒁉 𒆠 𒈠 𒄑 𒀫 𒃻 𒈠 𒈪
-64. 𒀀 𒁮 𒈬 𒌝 𒆠 𒈠 𒋢 𒌝 𒈠 𒌈 𒈬 𒅆 𒌋 𒌨 𒊏
-65. 𒈾 𒀭 𒄖 𒆷 𒆪 𒈠 𒀀 𒄷 𒆠 𒇡 𒄫
-66. 𒀸 𒇇 𒌑 𒀀 𒀀 𒀀 𒋳 𒊒 𒍝 𒀜 𒅗 𒁁 𒋾
-67. 𒈪 𒈾 𒀀 𒂊 𒁍 𒍑 𒀭 𒈬 𒌋 𒀭 𒅖 𒋻 𒈬 𒀀 𒈾 𒆪
-68. 𒆠 𒄿 𒆷 𒉺 𒌓 𒀭 𒈬 𒌋 𒀭 𒌋𒁯 𒈬 𒁹 𒆪 𒅁 𒊺 𒅅
-69. 𒊕 𒉡 𒉏 𒈠 𒄯 𒍮 𒁲 𒀪 𒄿 𒄷 𒇻 𒊌 𒄣 𒌑 𒌋 𒋚 𒇻 𒊌 𒋾
-70. 𒊕 𒈾 𒉌 𒌓 𒁕 𒀀 𒋾 𒈽 𒄯 𒉺 𒉌 𒌋 𒈠 𒇷 𒂊 𒈜 𒁀 𒀀 𒋾
-71. 𒊺𒄷 𒍪 𒊌 𒂵 𒋾 𒈨 𒆳 𒀭 𒈨𒌍 𒌋 𒀀 𒈨 𒇻 𒋾
-72. 𒀀 𒋫 𒈥 𒀭 𒃽 𒈬 𒌓 𒈨𒌍 𒊌 𒆪 𒇻 𒋾 𒍨 𒈨𒌍 𒈾 𒀭 𒁺 𒊒 𒋾 𒈬 𒈨𒌍 𒃻 𒉌 𒌗 𒋾
-73. 𒀀 𒋫 𒈥 𒀭 𒃽 𒈬 𒈨 𒁕 𒄿 𒅆 𒋾 𒌋 𒆤 𒈦 𒋾
-74. 𒌑 𒆗 𒆷 𒀭 𒉌 𒈬 𒌑 𒌅 𒌋 𒉺𒅁 𒃻 𒄣
-75. 𒋗 𒄯 𒊒 𒌨 𒊓 𒄀 𒂊 𒀀 𒋗 𒄯 𒊒 𒋥 𒀀 𒆟 𒋾
-76. 𒌋𒅗 𒂍 𒆍 𒌋 𒃼 𒁀 𒀀 𒋾 𒅀 𒃻 𒄣 𒌝 𒈠 𒋾 𒋰 𒆐
-77. 𒀭 𒈬 𒁹 𒀀 𒊬 𒃻 𒉏 𒈠 𒈽 𒄷 𒊒 𒉺 𒉡 𒋙
-78. 𒉺𒅁 𒉺 𒅋 𒆷 𒋾 𒋫 𒁉 𒉌 𒁓 𒊒 𒌨
-79. 𒌑 𒉺 𒋡 𒀀 𒈾 𒀭 𒃽 𒈬 𒅗 𒀀 𒅆 𒅁 𒃻 𒆠 𒉿 𒈫 𒀀 𒀀𒌋𒐊 A S HUILLA : I SHTAR 2, “T HE G REAT I SHTAR P RAYER ”
-80. 𒌑 𒊩 𒇷 𒆠 𒅗 𒀀 𒅆 𒀪 𒅋 𒋾 𒁍 𒌓 𒊑
-81. 𒁍 𒌓 𒊑 𒌒 𒉌 𒆟 𒋾 𒆸 𒆷 𒋾 𒌋 𒄭 𒁲 𒋾
-82. 𒈪 𒂊 𒅆 𒆸 𒆷 𒋾 𒄿 𒅆 𒋾 𒐊 𒇷 𒆠 𒂊 𒌦 𒉌 𒉌 𒅀
-83. 𒊒 𒌝 𒈪 𒅀 𒆠 𒋛 𒐊 𒋗 𒁇 𒊏 𒀀 𒀀 𒉻 𒉌
-84. 𒋗 𒋼 𒅆 𒊑 𒄒 𒋛 𒉆 𒊕 𒂊 𒁁 𒇺 𒀉 𒋾 𒇽 𒋾 𒈨𒌍 𒇻 𒁀 𒀪 𒋻
-85. 𒆠 𒁉 𒈠 𒀸 𒆠 𒁉 𒋾 𒆠 𒀭 𒍣 𒉡 𒌑 𒇷 𒄑 𒅆
-86. 𒀭 𒌋𒐊 𒃻 𒄑 𒁍 𒊓 𒇷 𒌅 𒊏
-87. 𒂊 𒂇 𒌑 𒋗 𒊒 𒅆 𒈨 𒅕 𒆠 𒉡 𒉌
-88. 𒁁 𒇷 𒋾 𒇷 𒅔 𒈾 𒉿 𒄴 𒁲 𒉺 𒊑
-89. 𒊓 𒉿 𒄴 𒌓 𒅋 𒆷 𒋾 𒈜 𒄯
-90. 𒉣𒇬 𒇷 𒅕 𒄫 𒇺 𒌓 𒁲 𒇻 𒋢 𒁍 𒊑
-91. 𒈮 𒊑 𒇷 𒁉 𒂗 𒀊 𒉿 𒅀 𒅆 𒈨 𒂊 𒋢 𒉿 𒂊 𒀀
-92. 𒆠 𒌋𒌋 𒀮 𒇷 𒌍 𒉌 𒈠 X X X
-93. 𒀀 𒁲 𒈠 𒋾 𒀭 𒃽 𒈬 𒍣 𒈾 𒋾 𒈠 𒈽 𒄷 𒊒 𒉺 𒉡 𒆠
-94. 𒀀 𒁲 𒈠 𒋾 𒀭 𒃽 𒈬 𒊏 𒀪 𒁀 𒋾 𒈠 𒊺𒄷 𒍪 𒍝 𒀜 𒆏 𒋫 𒀜 𒆠
-95. 𒌁 𒊑 𒆠 𒆳 𒆠 𒃻 𒋫 𒀜 𒁲 𒅀 𒁹 𒀀 𒆳 𒅆𒂟 𒁴 𒉺 𒉌 𒆠 𒉻 𒉌
-96. 𒆠 𒈠 𒀀 𒈨𒌍 𒉺 𒆟 𒀀𒇉 𒅗 𒁁 𒋫 𒆠 𒈜 𒉺 𒀾 𒊏
-97. 𒅅 𒁺 𒋾 𒅀 𒆠 𒈠 𒆕 𒋡 𒊒 𒇻 𒆏 𒁉 𒄑
-98. 𒉺𒅁 𒋢 𒋾 𒅀 𒆲 𒉌 𒋆 𒈠 𒋗 𒁄 𒋛 𒄭 𒀸 𒉺𒅁 𒇷 𒅀
-99. 𒋢 𒁍 𒌑 𒀀 𒌋 𒋢 𒇻 𒌑 𒀀 𒇸 𒇷 𒆪 𒌋𒅗 𒆠
-100. 𒋫 𒀀 𒀀 𒊏 𒌅 𒆠 𒊐 𒁀 𒀀 𒋾 𒈜 𒃻 𒀀 𒌋𒅗 𒅀
-101. 𒀀 𒈪 𒊒 𒌑 𒀀 𒀸 𒋻 𒇷 𒊬 𒁍 𒌑 𒍣 𒄫 𒆠
-102. 𒌋 𒁹 𒆪 𒁹 𒉌 𒆳 𒊕 𒁺 𒀭 𒌓 𒆠 𒌋 𒄥 𒁲 𒆠 𒇻 𒃻 𒉿290
-103. 𒀭𒅖 𒋻 𒈠 𒍢 𒋥 𒀭 𒅖 𒋻 𒈠 𒊬 𒋥
-104. 𒀭 𒃽 𒈠 𒍢 𒋥 𒀭 𒃽 𒈠 𒊬 𒋥
-105. 𒀭 𒅕 𒉌 𒉌 𒈠 𒋥 𒀭 𒌋𒌋𒌋 𒋡 𒈩 𒋾 𒈠 𒄭 𒊑 𒉡 𒌇
-106. 𒅗 𒅗 𒈠 𒋗 𒅍 𒇲 𒀭 𒈹 𒈾 𒃶
-107. 𒀝 𒀝 𒁉 𒆠 𒄊 𒋻 𒀜 𒃡 𒊬 𒀀 𒆬 𒋤 𒐼 𒋞 𒄭 𒀀 𒊮 𒄩 𒀀 𒊒 𒁲
-108. 𒇻 𒋼 𒂊 𒄑 𒀀𒌅𒃮𒇺 𒋼 𒍢 𒂗 𒉈 𒊒 𒁲 𒋆 𒄭 𒀀 𒍥 𒆳 𒂷 𒋆 𒇷
-109. 𒁾 𒀝 𒈪 𒄴 𒄩 𒁄 𒆠 𒈠 𒉡 𒆪 𒆥 𒈪 𒉡 𒌓 𒀭 𒉌 𒌓 𒁹 𒅆 𒀭 𒅖 𒋻
-110. 𒁹𒁹𒁹 𒋙 𒋃 𒉡 𒆠 𒍝 𒍝 𒈠 𒁹 𒂕 𒅗 𒉡 𒅆 𒁇𒌋𒐋
-
-
-4. gaš-ra-a-ti ma-al-ka-a-ti šu-mu-ki ṣi-ru
-5. at-ti-ma na-an-na-rat
-6. mut-tab-bi-la-at
-7. ḫa-mi-mat gi-mir par-ṣi a-pi-rat a-ge-e be-lu-ti
-8. d GAŠAN AN -e u KI . TIM ma-rat GIŠ . TUKUL . MEŠ d qa-rit-ti šá-ki-na-at tu-qu-un-ti šu-pu-ú nar-bu-ki UGU ka-la DINGIR . MEŠ ṣi-ru
-9. MUL ta-nu-qa-a-ti muš-tam-ḫi-ṣa-at ŠEŠ . MEŠ mit-gu-ru-ti
-10. mut-ta-ad-di-na-at it-ba-ru
-11. it-bur-ti be-let tu-šá-ri mut-tak-ki-pat šá-di-ia
-12. d gu-še-e-a šá tu-qu-un-ta ḫal-pat la-bi-šat ḫur-ba-šá
-13. gam-ra-a-ti šip-ṭa u EŠ . BAR ur-ti KI . TIM u šá-ma-mi
-14. suk-ku eš-re-e-ti né-me-da u BÁRA . MEŠ ú-paq-qu ka-a-ši
-15. e-ki-a-am la MU -ki e-ki-a-am la par-ṣu-ki
-16. e-ki-a-am la uṣ-ṣu-ra GIŠ . ḪUR . MEŠ -ki e-ki-a-am la ŠUB . MEŠ BÁRA . MEŠ -ki
-17. e-ki-a-am la ra-ba-a-ti e-ki-a-am la ṣi-ra-a-ti
-18. d a-num d en-líl u d é-a ul-lu-ú-ki ina DINGIR . MEŠ ú-šar-bu-ú be-lu-ut-ki
-19. ú-šá-áš-qu-ki ina nap-ḫar d í-gì-gì ú-šá-ti-ru man-za-az-ki
-20. a-na ḫi-is-sat šu-me-ki AN -ú u KI . TIM i-ru-ub-bu
-21. DINGIR . MEŠ
-22. MU -ki i-šub-bu i-nar-ru-ṭu d a-nun-na-ki ra-áš-bu iš-tam-ma-ra te-né-še-e-ti
-23. at-ti-ma ra-ba-a-ti ù ṣi-ra-a-ti
-24. nap-ḫar ṣal-mat qaq-qa-di nam-maš-šu-ú te-né-še-e-ti i-dal-la-lu qur-di-ki
-25. di-in ba-ḫu-la-a-ti ina kit-ti u mi-šá-ri ta-din-ni at-ti
-26. tap-pal-la-si ḫab-lu u šag-šu tuš-te-eš-še-ri ud-da-kám
-27. a-ḫu-lap-ki be-let AN -e u KI . TIM re-é-a-at UN . MEŠ a-pa-a-ti
-28. a-ḫu-lap-ki be-let é-an-na qud-du-šú šu-tùm-mu el-lu
-29. a-ḫu-lap-ki d GAŠAN ul a-ni-ḫa GÌR . II -ki la-si-ma bir-ka-a-ki
-30. a-ḫu-lap-ki be-let ta-ḫa-zi ka-li-šú-nu tam-ḫa-ri
-31. šu-pu-ú-tu 4 la-ab-bat d í-gì-gì mu-kan-ni-šat DINGIR . MEŠ ! sab-su-ti
-32. le-eʾ-a-at ka-li-šú-nu ma-al-ku ṣa-bi-ta-at (erasure) ṣer-ret LUGAL . MEŠ
-33. pe-ta-a-at pu-su-um-me šá ka-li-ši-na KI . SIKIL . MEŠ
-34. na-an-še-a-at na-an-di-a-at qa-rit-ti d 15 ra-bu-ú qur-di-ki
-35. na-mir-tu 4 di-par AN -e u KI . TIM šá-ru-ur kal da-ád-me
-36. ez-ze-et qab-lu la ma-ḫar a-li-lat tam-ḫa-ri
-37. a-ku-ku-ú-tu 4 šá ana a-a-bi nap-ḫat šá-ki-na-at šaḫ-lu-uq-ti ek-du-ti
-38. mu-um-mil-tu 4 d iš-tar mu-paḫ-ḫi-rat pu-uḫ-ri
-39. i-lat NITA . MEŠ d iš-tar MUNUS . MEŠ
-40. a-šar tap-pal-la-si i-bal-luṭ ADDA šá la i-lam-ma-du mi-lik-šú ma-am-man i-te-eb-bi mar-ṣu
-41. iš-ši-ir la i-šá-ru a-mi-ru pa-ni-ki
-42. ana-ku al-si-ki an-ḫu šu-nu-ḫu šum-ru-ṣu ÌR -ki
-43. A . MUR -in-ni-ma d GAŠAN . MU le-qe-e un-ni-ni-ia
-44. ki-niš nap-li-sin-ni-ma ši-mé-e tés-li-ti
-45. a-ḫu-lap-ia qí-bi-ma ka-bat-ta-ki lip-pa-áš-ra
-46. a-ḫu-lap SU -ia na-as-si šá ma-lu-ú e-šá-a-ti u dal-ḫa-a-ti
-47. a-ḫu-lap lìb-bi-ia šum-ru-ṣu šá ma-lu-ú dím-ti u ta-né-ḫi
-48. a-ḫu-lap te-re-ti-ia na-as-sa-a-ti e-šá-a-ti u dal-ḫa-a-ti
-49. a-ḫu-lap É -ia šu-ud-lu-pu šá ú-na-as-sa-su ÉR . MEŠ
-50. a-ḫu-lap kab-ta-ti-ia šá uš-ta-bar-ru-ú dím-ti u ta-né-ḫi
-51. d ir-ni-ni(one sign erased)-i-tu 4 la-ab-bu na-ad-ru lìb-ba-ki li-nu-ḫa
-52. ri-i-mu šab-ba-su-ú ka-bat-ta-ki lip-pa-áš-ra
-53. SIG 5 . MEŠ IGI . II -ki lib-šá-a e-li-ia
-54. ina bu-ni-ki nam-ru-ti ki-niš nap-li-sin-ni ia-a-ši
-55. uk-ki-ši ú-pi-šá ḪUL . MEŠ šá SU . MU ZÁLAG -ki nam-ru lu-mur
-56. a-di ma-ti d GAŠAN . MU EN . MEŠ da-ba-bi-ia né-kel-mu-ú-in-ni-ma
-57. ina sur-ra-a-ti u la ki-na-a-ti i-kap-pu-du-ni lem-né-e-ti
-58. re-du-ú-a ḫa-du-ú-a iš-tam-ma-ru UGU . MU
-59. a-di ma-ti d GAŠAN . MU lil-lu a-ku-ú i-ba-aʾ-an-ni
-60. ip-na-an-ni muq-qu ar-ku-um-ma ana-ku am-mer-ki
-61. en-šu-ti id-ni-nu-ma ana-ku e-ni-iš
-62. a-sab-bu-uʾ ki-ma a-gi-i šá up-pa-qu IM lem-na
-63. i-šá-aʾ it-ta-nap-raš lìb-bi ki-ma iṣ-ṣur šá-ma-mi
-64. a-dam-mu-um ki-ma su-um-ma-tu 4 mu-ši u ur-ra
-65. na-an-gu-la-ku-ma a-bak-ki ṣar-piš
-66. ina u 8 -ú-a a-a šum-ru-ṣa-at ka-bat-ti
-67. mi-na-a e-pu-uš DINGIR . MU u d iš-tar-ia 5 a-na-ku
-68. ki-i la pa-liḫ DINGIR . MU u d IŠ 8 . DAR . MU ana-ku ep-še-ek
-69. šak-nu-nim-ma mur-ṣu di-iʾ-i ḫu-lu-uq-qu-ú u šaḫ-lu-uq-ti
-70. šak-na-ni per-da-a-ti suḫ-ḫur pa-ni u ma-le-e lib-ba-a-ti
-71. uz-zu ug-ga-ti sib-sat DINGIR . MEŠ u a-me-lu-ti
-72. a-ta-mar d GAŠAN . MU UD . MEŠ uk-ku-lu-ti ITI . MEŠ na-an-du-ru-ti MU . MEŠ šá ni-ziq-ti
-73. a-ta-mar d GAŠAN . MU šip-ṭa i-ši-ti u saḫ-maš-ti
-74. ú-kal-la-an-ni mu-ú-tu u šap-šá-qu
-75. šu-ḫar-ru-ur sa-ge-e-a šu-ḫar-ru-rat a-šìr-ti u qar-ba-a-ti-ia šá-qu-um-ma-ti tab-kát
-76. UGU É KÁ
-77. DINGIR . MU ana a-šar-šá-nim-ma suḫ-ḫu-ru pa-nu-šú
-78. sap-ḫat il-la-ti ta-bi-ni pur-ru-ur
-79. ú-pa-qa a-na d GAŠAN . MU ka-a-ši ib-šá-ki GEŠTU . II -a-a
-80. ú-sal-li-ki ka-a-ši eʾ-il-ti pu-uṭ-ri
-81. pu-uṭ-ri ár-ni šèr-ti gíl-la-ti u ḫi-ṭi-ti
-82. mé-e-ši gíl-la-ti gloss: i-ši-ti -iá le-qé-e un-ni-ni-ia
-83. ru-um-mi-ia ki-si-iá šu-bar-ra-a-a šuk-ni
-84. šu-te-ši-ri kib-si nam-riš e-tel-liš it-ti LÚ . TÌL . MEŠ lu-ba-aʾ SILA
-85. qí-bi-ma ina qí-bi-ti-ki DINGIR ze-nu-ú li-is-lim
-86. d 15 šá is-bu-sa li-tu-ra
-87. e-ṭu-ú qat-ru lim-mì-ir ki-nu-ni
-88. be-li-ti li-in-na-pi-iḫ di-pa-ri
-89. sa-pi-iḫ-tú il-la-ti lip-ḫur
-90. TÙR li-ir-piš liš-tam-di-lu su-pu-ri
-91. mug-ri le-bé-en ap-pi-ia ši-me-e su-pe-e-a
-92. ki-niš nap-li-sin-ni-ma (erasure)
-93. a-di ma-ti d GAŠAN . MU ze-na-ti-ma suḫ-ḫu-ru pa-nu-ki
-94. a-di ma-ti d GAŠAN . MU ra-aʾ-ba-ti-ma uz-zu-za-at kab-ta-at-ki
-95. tir-ri ki-šad-ki šá ta-ad-di-ia [ana] a-mat SIG 5 -tì pa-ni-ki šuk-ni
-96. ki-ma A . MEŠ pa-šìr ÍD ka-bat-ta-ki lip-pa-áš-ra
-97. ek-du-ti-ia ki-ma qaq-qa-ru lu-kab-bi-is
-98. sab-su-ti-ia kun-ni-šim-ma šu-pal-si-ḫi ina šap-li-ia
-99. su-pu-ú-a u su-lu-ú-a lil-li-ku UGU -ki
-100. ta-a-a-ra-tu-ki rab-ba-a-ti lib-šá-a UGU -ia
-101. a-mi-ru-ú-a ina SILA li-šar-bu-ú zi-kir-ki
-102. u ana-ku ana ṣal-mat SAG . DU DINGIR -ut-ki u qur-di-ki lu-šá-pi
-103. d iš-tar-ma ṣi-rat d iš-tar-ma šar-rat
-104. d GAŠAN -ma d šar-rat 30 qa-rit-ti ma-ḫi-ri NU TUKU ṣi-rat
-105. d ir-ni-ni ma-rat GAŠAN -ma d
-106. ka-inim-ma šu-íl-lá d inana [n]a -kám
-107. KÌD . KÌD . BI KI GÌR KUD -at ÙR SAR A KÙ SUD 4 SIG 4 . ḪI . A
-108. lu-te-e šà-ḫa-a ŠUB -di GIŠ . ÁSAL te-ṣe-en IZI ŠUB -di ŠIM . ḪI . A ZÌ . MAD . GÁ ŠIM . LI
-109. DUB -aq mi-iḫ-ḫa BAL -qí-ma NU
-110. 3 -šú ŠID -nu KI . ZA . ZA -ma ana tuš-ken mi-nu-tú an-ni-tú ana IGI d iš-tar EGIR -ka NU IGI . BAR
-
+1. ÉN ú-sal-li-ki be-let be-le-e-ti i-lat i-la-a-ti
 1. Text to be recited: I pray to you, lady of ladies, goddess of goddesses!
+2. 𒀭 𒅖 𒋻 𒊬 𒊏 𒋾 𒆰 𒆳 𒁕 𒄉 𒈨 𒈲 𒋼 𒅆 𒋥 𒋼 𒉌 𒊺 𒂊 𒋾
 2. Ishtar, queen of the entire inhabited world, guiding mankind aright,
+2. d iš-tar šar-ra-ti kul-lat da-ád-me muš-te-ši-rat te-né-še-e-ti
 3. Irnini, you are noble, greatest of the Igigi.
+3. 𒀭 𒅕 𒉌 𒉌 𒄷𒄭 𒊑 𒆷 𒀀 𒋾 𒊏 𒁁 𒀭 𒐊 𒁹 𒁹
+3. d ir-ni-ni mut-tal-la-a-ti ra-bat d í-gì-gì
+4. 𒁉 𒊏 𒀀 𒋾 𒈠 𒀠 𒅗 𒀀 𒋾 𒋗 𒈬 𒆠 𒍢 𒊒
+4. gaš-ra-a-ti ma-al-ka-a-ti šu-mu-ki ṣi-ru
 4. You are the strong one, you are sovereign, your names are exalted!
+5. 𒀜 𒋾 𒈠 𒈾 𒀭 𒈾 𒋥 𒀭 𒂊 𒌋 𒆠 𒁴 𒈠 𒋥 𒀭 𒌋𒌋𒌋 𒋡 𒈩 𒋾
+5. at-ti-ma na-an-na-rat
 5. You indeed are the luminary of heaven and earth, valiant daughter of Sin!
+6. 𒄷𒄭 𒋰 𒁉 𒆷 𒀜 𒄑 𒆪 𒈨𒌍 𒃻 𒆠 𒈾 𒀜 𒌅 𒄣 𒌦 𒋾
+6. mut-tab-bi-la-at
 6. Wielding weapons, arranging battle,
-7. Concentrating / gathering the entirety of ordinances, wearing the crown of
-domination,
+7. 𒄩 𒈪 𒆳 𒄀 𒂇 𒌓 𒍢 𒀀 𒉿 𒋥 𒀀 𒄀 𒂊 𒁁 𒇻 𒋾
+7. ḫa-mi-mat gi-mir par-ṣi a-pi-rat a-ge-e be-lu-ti
+7. Concentrating / gathering the entirety of ordinances, wearing the crown of domination,
+8. 𒀭 𒃽 𒋗 𒁍 𒌑 𒈜 𒁍 𒆠 𒌋𒅗 𒅗 𒆷 𒀭 𒈨𒌍 𒍢 𒊒
+8. d GAŠAN AN -e u KI . TIM ma-rat GIŠ . TUKUL . MEŠ d qa-rit-ti šá-ki-na-at tu-qu-un-ti šu-pu-ú nar-bu-ki UGU ka-la DINGIR . MEŠ ṣi-ru
 8. Lady, resplendent are your great deeds, exalted over all gods!
+9. 𒀯 𒋫 𒉡 𒋡 𒀀 𒋾 𒈲 𒌓 𒄭 𒍝 𒀜 𒋀 𒈨𒌍 𒁁 𒄖 𒊒 𒋾
+9. MUL ta-nu-qa-a-ti muš-tam-ḫi-ṣa-at ŠEŠ . MEŠ mit-gu-ru-ti
 9. Star of the battle-cry, making harmonious brothers fight each other,
+10. 𒄷𒄭 𒋫 𒀜 𒁲 𒈾 𒀜 𒀉 𒁀 𒊒
+10. mut-ta-ad-di-na-at it-ba-ru
 10. Always giving a friend,
+11. 𒀉 𒁓 𒋾 𒁁 𒀖 𒌅 𒃻 𒊑 𒄷𒄭 𒋳 𒆠 𒉻 𒃻 𒁲 𒅀
+11. it-bur-ti be-let tu-šá-ri mut-tak-ki-pat šá-di-ia
 11. Mighty one, lady of the battlefield, knocking down mountains!
+12. 𒀭 𒄖 𒊺 𒂊 𒀀 𒃻 𒌅 𒄣 𒌦 𒋫 𒄬 𒉻 𒆷 𒁉 𒆳 𒄯 𒁀 𒃻
+12. d gu-še-e-a šá tu-qu-un-ta ḫal-pat la-bi-šat ḫur-ba-šá
 12. Gushea, clad in battle, clothed with terror!
-13. You bring to conclusion judgment and decision, the commands for earth and
-heaven.
+13. 𒃵 𒊏 𒀀 𒋾 𒈨 𒁕 𒌋 𒌍 𒁇 𒌨 𒋾 𒆠 𒁴 𒌋 𒃻 𒈠 𒈪
+13. gam-ra-a-ti šip-ṭa u EŠ . BAR ur-ti KI . TIM u šá-ma-mi
+13. You bring to conclusion judgment and decision, the commands for earth and heaven.
+14. 𒆹 𒆪 𒌍 𒊑 𒂊 𒋾 𒉌 𒈨 𒁕 𒌋 𒁈 𒈨𒌍 𒌑 𒄷 𒄣 𒅗 𒀀 𒅆
+14. suk-ku eš-re-e-ti né-me-da u BÁRA . MEŠ ú-paq-qu ka-a-ši
 14. Shrines, chapels, socles, and daises are attentive to you.
+15. 𒂊 𒆠 𒀀 𒄠 𒆷 𒈬 𒆠 𒂊 𒆠 𒀀 𒄠 𒆷 𒌓 𒍮 𒆠
+15. e-ki-a-am la MU -ki e-ki-a-am la par-ṣu-ki
 15. Where is not your name? Where are not your ordinances?
+16. 𒂊 𒆠 𒀀 𒄠 𒆷 𒊺𒄷 𒍮 𒊏 𒄑 𒄯 𒈨𒌍 𒆠 𒂊 𒆠 𒀀 𒄠 𒆷 𒊒 𒈨𒌍 𒁈 𒈨𒌍 𒆠
+16. e-ki-a-am la uṣ-ṣu-ra GIŠ . ḪUR . MEŠ -ki e-ki-a-am la ŠUB . MEŠ BÁRA . MEŠ -ki
 16. Where are your plans not implemented? Where are your daises not set up?
+17. 𒂊 𒆠 𒀀 𒄠 𒆷 𒊏 𒁀 𒀀 𒋾 𒂊 𒆠 𒀀 𒄠 𒆷 𒍢 𒊏 𒀀 𒋾
+17. e-ki-a-am la ra-ba-a-ti e-ki-a-am la ṣi-ra-a-ti
 17. Where are you not great? Where are you not exalted?
-18. Anu, Ellil and Ea have elevated you among the gods, they have made your
-domination great.
-19. They have exalted you among the entirety of the Igigi, they have made your
-rank outstanding.
+18. 𒀭 𒀀 𒉏 𒀭 𒂗 𒆤 𒌋 𒀭 𒂍 𒀀 𒌌 𒇻 𒌑 𒆠 𒀸 𒀭 𒈨𒌍 𒌑 𒊬 𒁍 𒌑 𒁁 𒇻 𒌓 𒆠
+18. d a-num d en-líl u d é-a ul-lu-ú-ki ina DINGIR . MEŠ ú-šar-bu-ú be-lu-ut-ki
+18. Anu, Ellil and Ea have elevated you among the gods, they have made your domination great.
+19. 𒌑 𒃻 𒀾 𒄣 𒆠 𒀸 𒀮 𒄯 𒀭 𒐊 𒁹 𒁹 𒌑 𒃻 𒋾 𒊒 𒌋𒌋 𒍝 𒊍 𒆠286
+19. ú-šá-áš-qu-ki ina nap-ḫar d í-gì-gì ú-šá-ti-ru man-za-az-ki
+19. They have exalted you among the entirety of the Igigi, they have made your rank outstanding.
+20. 𒀀𒈾 𒄭 𒄑 𒆳 𒋗 𒈨 𒆠 𒀭 𒌑 𒌋 𒆠 𒁴 𒄿 𒊒 𒌒 𒁍
+20. a-na ḫi-is-sat šu-me-ki AN -ú u KI . TIM i-ru-ub-bu
 20. At the mention of your name, heaven and earth shake,
+21. 𒀭 𒈨𒌍 𒄿 𒊒 𒁍 𒄿 𒈜 𒊒 𒂇 𒀭 𒀀 𒉣 𒈾 𒆠
+21. DINGIR . MEŠ
 21. The gods quake, the Anunnakku tremble,
+22. 𒈬 𒆠 𒊏 𒀾 𒁍 𒅖 𒌓 𒈠 𒊏 𒋼 𒉌 𒊺 𒂊 𒋾
+22. MU -ki i-šub-bu i-nar-ru-ṭu d a-nun-na-ki ra-áš-bu iš-tam-ma-ra te-né-še-e-ti
 22. Humanity praises your terrifying name.
+23. 𒀜 𒋾 𒈠 𒊏 𒁀 𒀀 𒋾 𒅇 𒍢 𒊏 𒀀 𒋾
+23. at-ti-ma ra-ba-a-ti ù ṣi-ra-a-ti
 23. You indeed are great and exalted!
-24. The entirety of the black-headed ones, the “herds” of mankind, they praise
-your heroic acts.
+24. 𒀮 𒄯 𒉌 𒆳 𒆕 𒋡 𒁲 𒉆 𒈦 𒋗 𒌑 𒋼 𒉌 𒊺 𒂊 𒋾 𒄿 𒊑 𒆷 𒇻 𒄥 𒁲 𒆠
+24. nap-ḫar ṣal-mat qaq-qa-di nam-maš-šu-ú te-né-še-e-ti i-dal-la-lu qur-di-ki
+24. The entirety of the black-headed ones, the “herds” of mankind, they praise your heroic acts.
+25. 𒁲 𒅔 𒁀 𒄷 𒆷 𒀀 𒋾 𒀸 𒆤 𒋾 𒌋 𒈪 𒃻 𒊑 𒋫 𒁷 𒉌 𒀜 𒋾
+25. di-in ba-ḫu-la-a-ti ina kit-ti u mi-šá-ri ta-din-ni at-ti
 25. You render the verdict for subject peoples in righteousness and justice.
+26. 𒋰 𒁄 𒆷 𒋛 𒆸 𒇻 𒌋 𒊕 𒋗 𒆪 𒋼 𒌍 𒊺 𒊑 𒌓 𒁕 𒃶
+26. tap-pal-la-si ḫab-lu u šag-šu tuš-te-eš-še-ri ud-da-kám
 26. You look upon the wronged and afflicted, you guide (them) aright every day.
+27. 𒀀 𒄷 𒆗 𒆠 𒁁 𒀖 𒀭 𒂊 𒌋 𒆠 𒁴 𒊑 𒂍 𒀀 𒀜 𒌦 𒈨𒌍 𒀀 𒉺 𒀀 𒋾
+27. a-ḫu-lap-ki be-let AN -e u KI . TIM re-é-a-at UN . MEŠ a-pa-a-ti
 27. Your aḫulap, Lady of heaven and earth, shepherdess of the numerous people!
+28. 𒀀 𒄷 𒆗 𒆠 𒁁 𒀖 𒂍 𒀭 𒈾 𒋻 𒁺 𒋙 𒋗 𒉐 𒈬 𒂖 𒇻
+28. a-ḫu-lap-ki be-let é-an-na qud-du-šú šu-tùm-mu el-lu
 28. Your aḫulap, Lady of holy Eana, the pure treasury!
+29. 𒀀 𒄷 𒆗 𒆠 𒀭 𒃽 𒌌 𒀀 𒉌 𒄩 𒄊 𒈫 𒆠 𒆷 𒋛 𒈠 𒄵 𒅗 𒀀 𒆠
+29. a-ḫu-lap-ki d GAŠAN ul a-ni-ḫa GÌR . II -ki la-si-ma bir-ka-a-ki
 29. Your aḫulap, Lady—your feet do not tire, your knees are swift!
+30. 𒀀 𒄷 𒆗 𒆠 𒁁 𒀖 𒋫 𒄩 𒍣 𒅗 𒇷 𒋙 𒉡 𒌓 𒄩 𒊑
+30. a-ḫu-lap-ki be-let ta-ḫa-zi ka-li-šú-nu tam-ḫa-ri
 30. Your aḫulap, Lady of all battles (and) combats!
+31. 𒋗 𒁍 𒌑 𒌈 𒆷 𒀊 𒁁 𒀭 𒐊 𒁹 𒁹 𒈬 𒃶 𒉌 𒆳 𒀭 𒈨𒌍 𒉺𒅁 𒋢 𒋾
+31. šu-pu-ú-tu 4 la-ab-bat d í-gì-gì mu-kan-ni-šat DINGIR . MEŠ ! sab-su-ti
 31. Resplendent one, lioness of the Igigi, making submissive the angry gods!
+32. 𒇷 𒀪 𒀀 𒀜 𒅗 𒇷 𒋙 𒉡 𒈠 𒀠 𒆪 𒍝 𒁉 𒋫 𒀜 𒈲 𒈩 𒈗 𒈨𒌍
+32. le-eʾ-a-at ka-li-šú-nu ma-al-ku ṣa-bi-ta-at (erasure) ṣer-ret LUGAL . MEŠ
 32. Most powerful of all princes, holding the leading rope of kings!
+33. 𒉿 𒋫 𒀀 𒀜 𒁍 𒋢 𒌝 𒈨 𒃻 𒅗 𒇷 𒅆 𒈾 𒆠 𒂖 𒈨𒌍
+33. pe-ta-a-at pu-su-um-me šá ka-li-ši-na KI . SIKIL . MEŠ
 33. Opening the veil of all young women!
+34. 𒈾 𒀭 𒊺 𒀀 𒀜 𒈾 𒀭 𒁲 𒀀 𒀜 𒋡 𒈩 𒋾 𒀭 𒌋𒐊 𒊏 𒁍 𒌑 𒄥 𒁲 𒆠
+34. na-an-še-a-at na-an-di-a-at qa-rit-ti d 15 ra-bu-ú qur-di-ki
 34. Rising (or) “laying”, valiant Ishtar, great are your heroic acts!
-35. Brightness, torch of heaven and earth, brilliance of the entire inhabited
-world!
-36. Furious one in irresistible onslaught, powerful one in combat!𒌋𒐊 A S HUILLA : I SHTAR 2, “T HE G REAT I SHTAR P RAYER ”
-283
-37. Firebrand that is ignited against the enemies, contriving disaster for the furi-
-ous!
+35. 𒈾 𒂇 𒌈 𒁲 𒌓 𒀭 𒂊 𒌋 𒆠 𒁴 𒃻 𒊒 𒌨 𒆗 𒁕 𒄉 𒈨
+35. na-mir-tu 4 di-par AN -e u KI . TIM šá-ru-ur kal da-ád-me
+35. Brightness, torch of heaven and earth, brilliance of the entire inhabited world!
+36. 𒄑 𒍣 𒀉 𒃮 𒇻 𒆷 𒈠 𒄯 𒀀 𒇷 𒆳 𒌓 𒄩 𒊑
+36. ez-ze-et qab-lu la ma-ḫar a-li-lat tam-ḫa-ri
+36. Furious one in irresistible onslaught, powerful one in combat!
+37. 𒀀 𒆪 𒆪 𒌑 𒌈 𒃻 𒁹 𒀀 𒀀 𒁉 𒀮 𒉺 𒃻 𒆠 𒈾 𒀜 𒋚 𒇻 𒊌 𒋾 𒅅 𒁺 𒋾
+37. a-ku-ku-ú-tu 4 šá ana a-a-bi nap-ḫat šá-ki-na-at šaḫ-lu-uq-ti ek-du-ti
+37. Firebrand that is ignited against the enemies, contriving disaster for the furi- ous!
+38. 𒈬 𒌝 𒅖 𒌈 𒀭 𒅖 𒋻 𒈬 𒈜 𒄭 𒋥 𒁍 𒄴 𒊑
+38. mu-um-mil-tu 4 d iš-tar mu-paḫ-ḫi-rat pu-uḫ-ri
 38. Glimmering Ishtar, assembling the assembly!
-39. Goddess of men, goddess / Ishtar of women, whose resolution no one comes
-to know!
+39. 𒄿 𒆳 𒍑 𒈨𒌍 𒀭 𒅖 𒋻 𒊩 𒈨𒌍 𒃻 𒆷 𒄿 𒇴 𒈠 𒁺 𒈪 𒌨 𒋙 𒈠 𒄠 𒌋𒌋
+39. i-lat NITA . MEŠ d iš-tar MUNUS . MEŠ
+39. Goddess of men, goddess / Ishtar of women, whose resolution no one comes to know!
+40. 𒀀 𒊬 𒋰 𒁄 𒆷 𒋛 𒄿 𒁄 𒂁 𒇿 𒄿 𒋼 𒅁 𒁉 𒈥 𒍮
+40. a-šar tap-pal-la-si i-bal-luṭ ADDA šá la i-lam-ma-du mi-lik-šú ma-am-man i-te-eb-bi mar-ṣu
 40. Wherever you look, the dead lives, the sick arises.
+41. 𒅖 𒅆 𒅕 𒆷 𒄿 𒃻 𒊒 𒀀 𒈪 𒊒 𒉺 𒉌 𒆠
+41. iš-ši-ir la i-šá-ru a-mi-ru pa-ni-ki
 41. The one who is not right becomes all right (when) seeing your face.
+42. 𒁹 𒆪 𒀠 𒋛 𒆠 𒀭 𒄷 𒋗 𒉡 𒄷 𒋳 𒊒 𒍮 𒀴 𒆠
+42. ana-ku al-si-ki an-ḫu šu-nu-ḫu šum-ru-ṣu ÌR -ki
 42. I appeal to you, your tired, wearied, suffering servant:
+43. 𒀀 𒄯 𒅔 𒉌 𒈠 𒀭 𒃽 𒈬 𒇷 𒆥 𒂊 𒌦 𒉌 𒉌 𒅀
+43. A . MUR -in-ni-ma d GAŠAN . MU le-qe-e un-ni-ni-ia
 43. Look at me, my Lady, and accept my supplication!
+44. 𒆠 𒌋𒌋 𒀮 𒇷 𒌍 𒉌 𒈠 𒅆 𒈪 𒂊 𒌨 𒇷 𒋾
+44. ki-niš nap-li-sin-ni-ma ši-mé-e tés-li-ti
 44. Look faithfully upon me and listen to my prayer!
+45. 𒀀 𒄷 𒆗 𒅀 𒆠 𒁉 𒈠 𒅗 𒁁 𒋫 𒆠 𒈜 𒉺 𒀾 𒊏
+45. a-ḫu-lap-ia qí-bi-ma ka-bat-ta-ki lip-pa-áš-ra
 45. Aḫulap pronounce for me, and let your feelings become reconciled to me—
+46. 𒀀 𒄷 𒆗 𒋢 𒅀 𒈾 𒊍 𒋛 𒃻 𒈠 𒇻 𒌑 𒂊 𒃻 𒀀 𒋾 𒌋 𒊑 𒄩 𒀀 𒋾
+46. a-ḫu-lap SU -ia na-as-si šá ma-lu-ú e-šá-a-ti u dal-ḫa-a-ti
 46. Aḫulap for my wretched body which is full of confusion and trouble,
+47. 𒀀 𒄷 𒆗 𒊮 𒁉 𒅀 𒋳 𒊒 𒍮 𒃻 𒈠 𒇻 𒌑 𒁶 𒋾 𒌋 𒋫 𒉌 𒄭
+47. a-ḫu-lap lìb-bi-ia šum-ru-ṣu šá ma-lu-ú dím-ti u ta-né-ḫi
 47. Aḫulap for my suffering heart which is full of tears and sighs,
+48. 𒀀 𒄷 𒆗 𒋼 𒊑 𒋾 𒅀 𒈾 𒊍 𒊓 𒀀 𒋾 𒂊 𒃻 𒀀 𒋾 𒌋 𒊑 𒄩 𒀀 𒋾
+48. a-ḫu-lap te-re-ti-ia na-as-sa-a-ti e-šá-a-ti u dal-ḫa-a-ti
 48. Aḫulap for my wretched, confused and troubled omens,
+49. 𒀀 𒄷 𒆗 𒂍 𒅀 𒋗 𒌓 𒇻 𒁍 𒃻 𒌑 𒈾 𒊍 𒊓 𒋢 𒀀𒅆 𒈨𒌍
+49. a-ḫu-lap É -ia šu-ud-lu-pu šá ú-na-as-sa-su ÉR . MEŠ
 49. Aḫulap for my sleepless house which laments (with) wailing,
+50. 𒀀 𒄷 𒆗 𒆏 𒋫 𒋾 𒅀 𒃻 𒍑 𒋫 𒁇 𒊒 𒌑 𒁶 𒋾 𒌋 𒋫 𒉌 𒄭
+50. a-ḫu-lap kab-ta-ti-ia šá uš-ta-bar-ru-ú dím-ti u ta-né-ḫi
 50. Aḫulap for my feelings which persevere (in) tears and sighs!
+51. 𒀭 𒅕 𒉌 𒉌 𒄿 𒌈 𒆷 𒀊 𒁍 𒈾 𒀜 𒊒 𒊮 𒁀 𒆠 𒇷 𒉡 𒄩
+51. d ir-ni-ni(one sign erased)-i-tu 4 la-ab-bu na-ad-ru lìb-ba-ki li-nu-ḫa
 51. Irninitu! The aggressive lion, let your heart be at rest with respect to me!
 52. The furious wild bull, let your feelings be reconciled to me!
+52. 𒊑 𒄿 𒈬 𒉺𒅁 𒁀 𒋢 𒌑 𒅗 𒁁 𒋫 𒆠 𒈜 𒉺 𒀾 𒊏
+52. ri-i-mu šab-ba-su-ú ka-bat-ta-ki lip-pa-áš-ra
+53. 𒅆𒂟 𒈨𒌍 𒅆 𒈫 𒆠 𒈜 𒃻 𒀀 𒂊 𒇷 𒅀
+53. SIG 5 . MEŠ IGI . II -ki lib-šá-a e-li-ia
 53. May your kind eyes be upon me!
+54. 𒀸 𒁍 𒉌 𒆠 𒉆 𒊒 𒋾 𒆠 𒌋𒌋 𒀮 𒇷 𒌍 𒉌 𒅀 𒀀 𒅆
+54. ina bu-ni-ki nam-ru-ti ki-niš nap-li-sin-ni ia-a-ši
 54. With your bright face look faithfully upon me!
-55. Drive away the evil dealings concerning my body, let me see your bright
-light!
+55. 𒊌 𒆠 𒅆 𒌑 𒉿 𒃻 𒅆𒌨 𒈨𒌍 𒃻 𒋢 𒈬 𒂟 𒆠 𒉆 𒊒 𒇻 𒄯
+55. uk-ki-ši ú-pi-šá ḪUL . MEŠ šá SU . MU ZÁLAG -ki nam-ru lu-mur
+55. Drive away the evil dealings concerning my body, let me see your bright light!
+56. 𒀀 𒁲 𒈠 𒋾 𒀭 𒃽 𒈬 𒂗 𒈨𒌍 𒁕 𒁀 𒁉 𒅀 𒉌 𒆸 𒈬 𒌑 𒅔 𒉌 𒈠288
+56. a-di ma-ti d GAŠAN . MU EN . MEŠ da-ba-bi-ia né-kel-mu-ú-in-ni-ma
 56. How long, my Lady, will my enemies look malevolently at me,
+57. 𒀸𒋩 𒊏 𒀀 𒋾 𒌋 𒆷 𒆠 𒈾 𒀀 𒋾 𒄿 𒆏 𒁍 𒁺 𒉌 𒅆 𒉌 𒂊 𒋾
+57. ina sur-ra-a-ti u la ki-na-a-ti i-kap-pu-du-ni lem-né-e-ti
 57. (And) with lies and untruths plan evil against me?
+58. 𒊑 𒁺 𒌑 𒀀 𒄩 𒁺 𒌑 𒀀 𒅖 𒌓 𒈠 𒊒 𒌋𒅗 𒈬
+58. re-du-ú-a ḫa-du-ú-a iš-tam-ma-ru UGU . MU
 58. My persecutors (and) ill-wishers rage against me.
+59. 𒀀 𒁲 𒈠 𒋾 𒀭 𒃽 𒈬 𒇸 𒇻 𒀀 𒆪 𒌑 𒄿 𒁀 𒀪 𒀭 𒉌
+59. a-di ma-ti d GAŠAN . MU lil-lu a-ku-ú i-ba-aʾ-an-ni
 59. How long, my Lady, will the idiot (and) cripple overtake me?
+60. 𒅁 𒈾 𒀭 𒉌 𒈮 𒄣 𒅈 𒆪 𒌝 𒈠 𒁹 𒆪 𒄠 𒂇 𒆠
+60. ip-na-an-ni muq-qu ar-ku-um-ma ana-ku am-mer-ki
 60. The wearied went ahead of me, but I, I lagged far behind.
+61. 𒂗 𒋗 𒋾 𒀉 𒉌 𒉡 𒈠 𒁹 𒆪 𒂊 𒉌 𒅖
+61. en-šu-ti id-ni-nu-ma ana-ku e-ni-iš
 61. The weak became strong, I have become weak.
+62. 𒀀 𒉺𒅁 𒁍 𒀪 𒆠 𒈠 𒀀 𒄀 𒄿 𒃻 𒌒 𒉺 𒄣 𒅎 𒅆 𒈾
+62. a-sab-bu-uʾ ki-ma a-gi-i šá up-pa-qu IM lem-na
 62. I toss like a wave that an evil wind amasses.
+63. 𒄿 𒃻 𒀪 𒀉 𒋫 𒀮 𒆜 𒊮 𒁉 𒆠 𒈠 𒄑 𒀫 𒃻 𒈠 𒈪
+63. i-šá-aʾ it-ta-nap-raš lìb-bi ki-ma iṣ-ṣur šá-ma-mi
 63. My heart flies (and) flutters around like a bird of heaven.
+64. 𒀀 𒁮 𒈬 𒌝 𒆠 𒈠 𒋢 𒌝 𒈠 𒌈 𒈬 𒅆 𒌋 𒌨 𒊏
+64. a-dam-mu-um ki-ma su-um-ma-tu 4 mu-ši u ur-ra
 64. I moan like a dove night and day.
+65. 𒈾 𒀭 𒄖 𒆷 𒆪 𒈠 𒀀 𒄷 𒆠 𒇡 𒄫
+65. na-an-gu-la-ku-ma a-bak-ki ṣar-piš
 65. I “glow / burn” and weep bitterly.
+66. 𒀸 𒇇 𒌑 𒀀 𒀀 𒀀 𒋳 𒊒 𒍝 𒀜 𒅗 𒁁 𒋾
+66. ina u 8 -ú-a a-a šum-ru-ṣa-at ka-bat-ti
 66. In “woe” (and) “alas” my feelings are suffering.
+67. 𒈪 𒈾 𒀀 𒂊 𒁍 𒍑 𒀭 𒈬 𒌋 𒀭 𒅖 𒋻 𒈬 𒀀 𒈾 𒆪
+67. mi-na-a e-pu-uš DINGIR . MU u d iš-tar-ia 5 a-na-ku
 67. What indeed have I done to my god and goddess?
+68. 𒆠 𒄿 𒆷 𒉺 𒌓 𒀭 𒈬 𒌋 𒀭 𒌋𒁯 𒈬 𒁹 𒆪 𒅁 𒊺 𒅅
+68. ki-i la pa-liḫ DINGIR . MU u d IŠ 8 . DAR . MU ana-ku ep-še-ek
 68. I am treated as if I did not fear my god and my goddess!
+69. 𒊕 𒉡 𒉏 𒈠 𒄯 𒍮 𒁲 𒀪 𒄿 𒄷 𒇻 𒊌 𒄣 𒌑 𒌋 𒋚 𒇻 𒊌 𒋾
+69. šak-nu-nim-ma mur-ṣu di-iʾ-i ḫu-lu-uq-qu-ú u šaḫ-lu-uq-ti
 69. Disease, headache, loss, and disaster are imposed upon me.
+70. 𒊕 𒈾 𒉌 𒌓 𒁕 𒀀 𒋾 𒈽 𒄯 𒉺 𒉌 𒌋 𒈠 𒇷 𒂊 𒈜 𒁀 𒀀 𒋾
+70. šak-na-ni per-da-a-ti suḫ-ḫur pa-ni u ma-le-e lib-ba-a-ti
 70. Terrors, averted faces, and abundance of fury are imposed upon me,
+71. 𒊺𒄷 𒍪 𒊌 𒂵 𒋾 𒈨 𒆳 𒀭 𒈨𒌍 𒌋 𒀀 𒈨 𒇻 𒋾
+71. uz-zu ug-ga-ti sib-sat DINGIR . MEŠ u a-me-lu-ti
 71. Anger, rage, fury of gods and men.
+72. 𒀀 𒋫 𒈥 𒀭 𒃽 𒈬 𒌓 𒈨𒌍 𒊌 𒆪 𒇻 𒋾 𒍨 𒈨𒌍 𒈾 𒀭 𒁺 𒊒 𒋾 𒈬 𒈨𒌍 𒃻 𒉌 𒌗 𒋾
+72. a-ta-mar d GAŠAN . MU UD . MEŠ uk-ku-lu-ti ITI . MEŠ na-an-du-ru-ti MU . MEŠ šá ni-ziq-ti
 72. I have seen, my Lady, very dark days, gloomy months, years of worry.
+73. 𒀀 𒋫 𒈥 𒀭 𒃽 𒈬 𒈨 𒁕 𒄿 𒅆 𒋾 𒌋 𒆤 𒈦 𒋾
+73. a-ta-mar d GAŠAN . MU šip-ṭa i-ši-ti u saḫ-maš-ti
 73. I have seen, my Lady, judgment, confusion and rebellion.
+74. 𒌑 𒆗 𒆷 𒀭 𒉌 𒈬 𒌑 𒌅 𒌋 𒉺𒅁 𒃻 𒄣
+74. ú-kal-la-an-ni mu-ú-tu u šap-šá-qu
 74. Death and constraint keep hold on me.
+75. 𒋗 𒄯 𒊒 𒌨 𒊓 𒄀 𒂊 𒀀 𒋗 𒄯 𒊒 𒋥 𒀀 𒆟 𒋾
+75. šu-ḫar-ru-ur sa-ge-e-a šu-ḫar-ru-rat a-šìr-ti u qar-ba-a-ti-ia šá-qu-um-ma-ti tab-kát
 75. My shrine is deathly still, my sanctuary is deathly still.
+76. 𒌋𒅗 𒂍 𒆍 𒌋 𒃼 𒁀 𒀀 𒋾 𒅀 𒃻 𒄣 𒌝 𒈠 𒋾 𒋰 𒆐
+76. UGU É KÁ
 76. Over house, gate (and) my fields, deathly silence is poured out.
+77. 𒀭 𒈬 𒁹 𒀀 𒊬 𒃻 𒉏 𒈠 𒈽 𒄷 𒊒 𒉺 𒉡 𒋙
+77. DINGIR . MU ana a-šar-šá-nim-ma suḫ-ḫu-ru pa-nu-šú
 77. My god: his face is averted to another place.
+78. 𒉺𒅁 𒉺 𒅋 𒆷 𒋾 𒋫 𒁉 𒉌 𒁓 𒊒 𒌨
+78. sap-ḫat il-la-ti ta-bi-ni pur-ru-ur
 78. My clan is scattered, my shelter is broken.28479. I am attentive to my Lady, on you my ears are fixed.
+79. 𒌑 𒉺 𒋡 𒀀 𒈾 𒀭 𒃽 𒈬 𒅗 𒀀 𒅆 𒅁 𒃻 𒆠 𒉿 𒈫 𒀀 𒀀𒌋𒐊 A S HUILLA : I SHTAR 2, “T HE G REAT I SHTAR P RAYER ”
+79. ú-pa-qa a-na d GAŠAN . MU ka-a-ši ib-šá-ki GEŠTU . II -a-a
+80. 𒌑 𒊩 𒇷 𒆠 𒅗 𒀀 𒅆 𒀪 𒅋 𒋾 𒁍 𒌓 𒊑
+80. ú-sal-li-ki ka-a-ši eʾ-il-ti pu-uṭ-ri
 80. I indeed pray to you, absolve my blame!
+81. 𒁍 𒌓 𒊑 𒌒 𒉌 𒆟 𒋾 𒆸 𒆷 𒋾 𒌋 𒄭 𒁲 𒋾
+81. pu-uṭ-ri ár-ni šèr-ti gíl-la-ti u ḫi-ṭi-ti
 81. Absolve my guilt, my crime, my sin, and my fault!
+82. 𒈪 𒂊 𒅆 𒆸 𒆷 𒋾 𒄿 𒅆 𒋾 𒐊 𒇷 𒆠 𒂊 𒌦 𒉌 𒉌 𒅀
+82. mé-e-ši gíl-la-ti gloss: i-ši-ti -iá le-qé-e un-ni-ni-ia
 82. Disregard my sins (gloss: my confusion), accept my supplication!
+83. 𒊒 𒌝 𒈪 𒅀 𒆠 𒋛 𒐊 𒋗 𒁇 𒊏 𒀀 𒀀 𒉻 𒉌
+83. ru-um-mi-ia ki-si-iá šu-bar-ra-a-a šuk-ni
 83. Release my bonds, secure my freedom!
+84. 𒋗 𒋼 𒅆 𒊑 𒄒 𒋛 𒉆 𒊕 𒂊 𒁁 𒇺 𒀉 𒋾 𒇽 𒋾 𒈨𒌍 𒇻 𒁀 𒀪 𒋻
+84. šu-te-ši-ri kib-si nam-riš e-tel-liš it-ti LÚ . TÌL . MEŠ lu-ba-aʾ SILA
 84. Guide my step aright! Brightly, as a lord may I walk along the street among the living!
+85. 𒆠 𒁉 𒈠 𒀸 𒆠 𒁉 𒋾 𒆠 𒀭 𒍣 𒉡 𒌑 𒇷 𒄑 𒅆
+85. qí-bi-ma ina qí-bi-ti-ki DINGIR ze-nu-ú li-is-lim
 85. Speak, so that at your command the angry god may become peaceful,
+86. 𒀭 𒌋𒐊 𒃻 𒄑 𒁍 𒊓 𒇷 𒌅 𒊏
+86. d 15 šá is-bu-sa li-tu-ra
 86. (So that) the goddess who has turned away from me in anger may return to me!
+87. 𒂊 𒂇 𒌑 𒋗 𒊒 𒅆 𒈨 𒅕 𒆠 𒉡 𒉌
+87. e-ṭu-ú qat-ru lim-mì-ir ki-nu-ni
 87. Dark (and) smoky, may my brazier become bright!
+88. 𒁁 𒇷 𒋾 𒇷 𒅔 𒈾 𒉿 𒄴 𒁲 𒉺 𒊑
+88. be-li-ti li-in-na-pi-iḫ di-pa-ri
 88. Extinguished, may my torch be ignited!
+89. 𒊓 𒉿 𒄴 𒌓 𒅋 𒆷 𒋾 𒈜 𒄯
+89. sa-pi-iḫ-tú il-la-ti lip-ḫur
 89. May my scattered clan assemble!
+90. 𒉣𒇬 𒇷 𒅕 𒄫 𒇺 𒌓 𒁲 𒇻 𒋢 𒁍 𒊑
+90. TÙR li-ir-piš liš-tam-di-lu su-pu-ri
 90. May the courtyard widen, my sheepfold increase!
+91. 𒈮 𒊑 𒇷 𒁉 𒂗 𒀊 𒉿 𒅀 𒅆 𒈨 𒂊 𒋢 𒉿 𒂊 𒀀
+91. mug-ri le-bé-en ap-pi-ia ši-me-e su-pe-e-a
 91. Accept my prostration, listen to my prayer!
+92. 𒆠 𒌋𒌋 𒀮 𒇷 𒌍 𒉌 𒈠 X X X
+92. ki-niš nap-li-sin-ni-ma (erasure)
 92. Look faithfully upon me [...]
+93. 𒀀 𒁲 𒈠 𒋾 𒀭 𒃽 𒈬 𒍣 𒈾 𒋾 𒈠 𒈽 𒄷 𒊒 𒉺 𒉡 𒆠
+93. a-di ma-ti d GAŠAN . MU ze-na-ti-ma suḫ-ḫu-ru pa-nu-ki
 93. How long, my Lady, will you be angry and your face be averted?
+94. 𒀀 𒁲 𒈠 𒋾 𒀭 𒃽 𒈬 𒊏 𒀪 𒁀 𒋾 𒈠 𒊺𒄷 𒍪 𒍝 𒀜 𒆏 𒋫 𒀜 𒆠
+94. a-di ma-ti d GAŠAN . MU ra-aʾ-ba-ti-ma uz-zu-za-at kab-ta-at-ki
 94. How long, my Lady, will you rage and your feelings be infuriated?
+95. 𒌁 𒊑 𒆠 𒆳 𒆠 𒃻 𒋫 𒀜 𒁲 𒅀 𒁹 𒀀 𒆳 𒅆𒂟 𒁴 𒉺 𒉌 𒆠 𒉻 𒉌
+95. tir-ri ki-šad-ki šá ta-ad-di-ia [ana] a-mat SIG 5 -tì pa-ni-ki šuk-ni
 95. Turn your neck that you had let drop, set your face (on) a good word!
+96. 𒆠 𒈠 𒀀 𒈨𒌍 𒉺 𒆟 𒀀𒇉 𒅗 𒁁 𒋫 𒆠 𒈜 𒉺 𒀾 𒊏
+96. ki-ma A . MEŠ pa-šìr ÍD ka-bat-ta-ki lip-pa-áš-ra
 96. Like water “undoing” (?) the river, may your feelings be reconciled to me!
+97. 𒅅 𒁺 𒋾 𒅀 𒆠 𒈠 𒆕 𒋡 𒊒 𒇻 𒆏 𒁉 𒄑
+97. ek-du-ti-ia ki-ma qaq-qa-ru lu-kab-bi-is
 97. May I tread over those furious with me as (over) the ground!
+98. 𒉺𒅁 𒋢 𒋾 𒅀 𒆲 𒉌 𒋆 𒈠 𒋗 𒁄 𒋛 𒄭 𒀸 𒉺𒅁 𒇷 𒅀
+98. sab-su-ti-ia kun-ni-šim-ma šu-pal-si-ḫi ina šap-li-ia
 98. Make submissive those angry with me and make them prostrate under me!
+99. 𒋢 𒁍 𒌑 𒀀 𒌋 𒋢 𒇻 𒌑 𒀀 𒇸 𒇷 𒆪 𒌋𒅗 𒆠
+99. su-pu-ú-a u su-lu-ú-a lil-li-ku UGU -ki
 99. May my prayers and my supplications come to you!
+100. 𒋫 𒀀 𒀀 𒊏 𒌅 𒆠 𒊐 𒁀 𒀀 𒋾 𒈜 𒃻 𒀀 𒌋𒅗 𒅀
+100. ta-a-a-ra-tu-ki rab-ba-a-ti lib-šá-a UGU -ia
 100. May your very great forgiveness be with me!
+101. 𒀀 𒈪 𒊒 𒌑 𒀀 𒀸 𒋻 𒇷 𒊬 𒁍 𒌑 𒍣 𒄫 𒆠
+101. a-mi-ru-ú-a ina SILA li-šar-bu-ú zi-kir-ki
 101. May those who see me in the street magnify your name,
+102. 𒌋 𒁹 𒆪 𒁹 𒉌 𒆳 𒊕 𒁺 𒀭 𒌓 𒆠 𒌋 𒄥 𒁲 𒆠 𒇻 𒃻 𒉿290
+102. u ana-ku ana ṣal-mat SAG . DU DINGIR -ut-ki u qur-di-ki lu-šá-pi
 102. And may I make glorious your divinity and your heroism for the black- headed people:
+103. 𒀭𒅖 𒋻 𒈠 𒍢 𒋥 𒀭 𒅖 𒋻 𒈠 𒊬 𒋥
+103. d iš-tar-ma ṣi-rat d iš-tar-ma šar-rat
 103. Ishtar is exalted, Ishtar is queen!
+104. 𒀭 𒃽 𒈠 𒍢 𒋥 𒀭 𒃽 𒈠 𒊬 𒋥
+104. d GAŠAN -ma d šar-rat 30 qa-rit-ti ma-ḫi-ri NU TUKU ṣi-rat
 104. The Lady is exalted, the Lady is queen!
+105. 𒀭 𒅕 𒉌 𒉌 𒈠 𒋥 𒀭 𒌋𒌋𒌋 𒋡 𒈩 𒋾 𒈠 𒄭 𒊑 𒉡 𒌇
+105. d ir-ni-ni ma-rat GAŠAN -ma d
 105. Irnini, the valiant daughter of Sin, has no opponents!
+106. 𒅗 𒅗 𒈠 𒋗 𒅍 𒇲 𒀭 𒈹 𒈾 𒃶
+106. ka-inim-ma šu-íl-lá d inana [n]a -kám
 106. It is the wording of the lifted hand (prayer) to Ishtar.
+107. 𒀝 𒀝 𒁉 𒆠 𒄊 𒋻 𒀜 𒃡 𒊬 𒀀 𒆬 𒋤 𒐼 𒋞 𒄭 𒀀 𒊮 𒄩 𒀀 𒊒 𒁲
+107. KÌD . KÌD . BI KI GÌR KUD -at ÙR SAR A KÙ SUD 4 SIG 4 . ḪI . A
 107. Its ritual: In an inaccessible place (lit., where the foot is kept away) you sweep the roof, you sprinkle pure water, (and) you lay four bricks at right angles to one another.
+108. 𒇻 𒋼 𒂊 𒄑 𒀀𒌅𒃮𒇺 𒋼 𒍢 𒂗 𒉈 𒊒 𒁲 𒋆 𒄭 𒀀 𒍥 𒆳 𒂷 𒋆 𒇷
+108. lu-te-e šà-ḫa-a ŠUB -di GIŠ . ÁSAL te-ṣe-en IZI ŠUB -di ŠIM . ḪI . A ZÌ . MAD . GÁ ŠIM . LI
 108. You heap twigs of the Euphrates poplar (on the brazier), (and) you kindle the fire. Aromatic plants, scented flour, juniper wood 
+109. 𒁾 𒀝 𒈪 𒄴 𒄩 𒁄 𒆠 𒈠 𒉡 𒆪 𒆥 𒈪 𒉡 𒌓 𒀭 𒉌 𒌓 𒁹 𒅆 𒀭 𒅖 𒋻
+109. DUB -aq mi-iḫ-ḫa BAL -qí-ma NU
 109. you strew. You pour out beer. You do not prostrate yourself. This recitation before Ishtar
+110. 𒁹𒁹𒁹 𒋙 𒋃 𒉡 𒆠 𒍝 𒍝 𒈠 𒁹 𒂕 𒅗 𒉡 𒅆 𒁇𒌋𒐋
+110. 3 -šú ŠID -nu KI . ZA . ZA -ma ana tuš-ken mi-nu-tú an-ni-tú ana IGI d iš-tar EGIR -ka NU IGI . BAR
 110. you recite three times. You prostrate yourself, and you do not look
+
