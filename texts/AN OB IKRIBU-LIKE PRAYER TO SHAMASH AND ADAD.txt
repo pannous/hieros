@@ -36,10 +36,12 @@ CUNEIFORM :
 7. as-ni-ib GIŠ.EREN el-la-am i-na i-ti-iq pe-er-ti-ia
 7. a-synip cedern muslima in …
 7. I tied pure cedar in/with(?) a lock of my hair.
+𐎉𐎅𐎗 ma.ṭhr.am crean clean rein
+
 
 8. 𒀠 𒋫 𒁀 𒀝 𒆪 𒊭 𒁉 𒄠 𒄑 𒂞
 8. al-ta-pá-ak-ku ša-bi-am GIŠ.EREN
-8. 
+8. let pourego ...
 8. I have poured out . . . cedar.
 
 9. 𒂖 𒇷 𒆪 𒀀𒈾 𒁍𒄷𒌨 𒉌𒉌 𒂊𒁲𒄴𒄭
@@ -49,7 +51,7 @@ CUNEIFORM :
 
 10. 𒀀 𒈾 𒁲 𒉏
 10. a-na di-nim 
-10. ante deen/deem/doom
+10. ante Don/deen/deem/doom
 10. For judgment.
 
 11. 𒀭 𒌓  𒁁𒂖 𒁲 𒉏            𒀭 𒅎 𒁁 𒂖 𒅅 𒊑 𒁉 𒅇 𒁉 𒊑
@@ -69,7 +71,7 @@ CUNEIFORM :
 
 14. d UTU a-š[a-k]a-an a-na pi-i qú-ut-re-nim
 14. 𒀭 𒌓 𒀀 𒊭 𒅗 𒀭   𒀀𒈾 𒉿𒄿 𒆪 𒌓 𒊑 𒉏
-14. Deosumes 🌣 vashkan? in a pheme kadilon™ quarternum?? <<
+14. Deo sumes 🌣 position in pheme kadilon™ 
 14. O Shamash, I place at the mouth of the incense (jar),
 
 15. ša [ma-aḫ]-ri-i-ka GIŠ.EREN el-la-am li-ši-ib qú-ut-re-nu
@@ -79,12 +81,12 @@ CUNEIFORM :
 
 16. li-iq-ri-a-am i-li ra-bu-tim
 16. 𒇷𒅅𒊑𒀀𒄠 𒄿𒇷 𒊏 𒁍 𒁴
-16. laisse-roam  Allahi Greabtim
+16. laisse-roame  Allahi Greabtim
 16. Let it summon to me the great gods.
 
 17. i-na ik-ri-ib a-ka-ra-bu i-na te-er-ti e-pu-šu
 17. 𒄿𒈾 𒅅𒊑𒅁 𒀀𒅗𒊏𒁍 𒄿 𒈾 𒋼 𒅕 𒋾 𒂊 𒁍 𒋗
-17. in a akribie akkurabo, in a Testa(ment) expulsed
+17. in a akribie akkurabo, in a Testa(ment) expulsed/opus
 17. In the ritual prayer that I perform, in the extispicy that I do,
 
 18. ki-it-tam šu-uk-nam
@@ -93,7 +95,7 @@ CUNEIFORM :
 18. Place the truth.
 
 19. 𒀭 𒌓  𒈾𒅆𒆪𒌝     𒈨𒂊 𒀀𒇉 𒈦𒄘𒃼 𒅇 𒌓𒄒𒉣 𒈾
-19. d UTU na-ši-ku-um me-e ÍD . IDIGNA ù BURt [ ANUN - NA ] 
+19. d UTU na-ši-ku-um me-e ÍD . IDIGNA ù _ BURt [ ANUN - NA ] 
 19. Du Shamash,  nass-com mehr water µTigugars u. gUT-Phrait (nauti)
 19. O Shamash, I raise to you water from the Tigris and Euphrates,
 
@@ -106,7 +108,7 @@ CUNEIFORM :
 
 21. 𒀀 𒈾 𒅗𒅆𒅎 𒁀𒀊𒇻𒌑   𒈬𒋾𒍣 𒀭 𒌓 𒆪 𒊏 𒁺 𒌝
 21. a-na ka-ši-im ba-ab-lu-ú mu-ti-sí d UTU qú-ra-d[u-um] / ana kâšim bablū mutissi Šamaš qurādum
-21. 
+21. an ku-sym washab-lyse  mutual deo dag guerradom
 21a. Brought to you 21b. Wash yourself, O Shamash, warrior.
 
 22. li-im-te- sú it-ti-i-ka DINGIR . MEŠ ra-bu-tum
@@ -121,16 +123,17 @@ CUNEIFORM :
 
 24. ki-it-tim ma-ḫa-ar d UTU da-a-a-nim
 24. 𒆠 𒀉 𒁴 𒈠 𒄩 𒅈 𒀭 𒌓 𒁕 𒀀 𒀀 𒉏
+24. kitim mahar deo sumas Domino
 24. Before Shamash, the judge.
 
 25. d UTU na-ši-ku-um li-iq-tam lu-ú-qú-ut
 25. 𒀭 𒌓 𒈾 𒅆 𒆪 𒌝 𒇷 𒅅 𒌓 𒇻 𒌑 𒆪 𒌓
-25. Oh Sun, Schenke me liquid (pun)
+25. Oh Sun, einschenke me liquid let (pun)
 25. O Shamash, I raise to you a gift. Take
 
 26. 𒈨𒂊 𒍝𒊍  𒆠𒅎  𒂖𒇻𒁴    𒀭𒌓 𒁁𒂖 𒁲𒉏
 26. me-e sà-as ki-im el-lu-tim d UTU be-el di-nim 
-26. marin schütt com ___ . Oh Utu Baal Don!
+26. marin schütt com clean.tum . Oh Utu Baal Don!
 26. The pure water with fine flour. O Shamash, lord of judgment,
 
 27. 𒀭𒅎 𒁁 𒂖 𒅅 𒊑 𒁉 𒅇 𒁉 𒊑 𒅎
