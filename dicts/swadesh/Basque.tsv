@@ -57,7 +57,7 @@
 56	leaf 	hosto / orri	? 	@Ast?	orri <இலை (ilai) 	இலை (ilai) 	foil~leaf				
 57	root 	erro / sustrai	🗸!?	erroot sous-tree	🗸 వేరు (vēru)[t]  < ಬೇರು (bēru)	వేరు (vēru)[t]  < ಬೇರು (bēru)	bu.root				
 58	bark (of a tree) 	azal		*bacar		బెరడు (beraḍu) 	bark ~ bardge				
-59	flower 	lore / lili	🗸🗸			పువ్వు (puvvu) / పుష్పము (puṣpamu) 	phlower				
+59	flower 	lore / lili	🗸🗸	flora, lilly		పువ్వు (puvvu) / పుష్పము (puṣpamu) 	phlower				
 60	grass 	belar / bedar	® 	<> Blätter?		గడ్డి (gaḍḍi) 	gradh ~ grass growth				
 61	rope 	soka	? 	zug / cord?	~?	తాడు (tāḍu) கயிறு (kayiṟu) 	tau! Cord				
 62	skin 	larru	? 	leder		చర్మము(carmamu) 	Teil/Tol < leDer /  γδέρ κρέαma				
@@ -66,7 +66,7 @@
 65	bone 	hezur	🗸? <<	hosteo? zur~kurn		బొమికె (bomike)	bome				
 66	fat (noun) 	gantz	? 	Gans!!	~	కొవ్వు (kovvu)	covfat				
 67	egg 	arrautza	<<	𓂋?		முட்டை (muṭṭai)	egg/ei@mutheo  yumurta!				
-68	horn 	adar	≠ der	~?		ಕೊಂಬು (koṃbu)	khornm jambe				
+68	horn 	adar	widder ≠ der	~?		ಕೊಂಬು (koṃbu)	khornm jambe				
 69	tail 	buztan	🗸? 	Buschel / Bürzel		తోక (tōka[l]) வால் ([t]vāl)					
 70	feather 	luma	🗸	plume		ఈక (īka)  இறகு (iraku) 	ikarus [f]üka=fligh@TURK				
 71	hair 	ile	~	Welle? Hairle ?		వెంట్రుకలు (veMṭrukalu) / జుట్టు (juṭṭu) 					
@@ -83,7 +83,7 @@
 82	knee 	belaun				మోకాలు (mōkālu) 	Kehle				
 83	hand 	esku	<<	a'shou e'cēyi	~	చెయ్యి (ceyyi) / చేయి (cēyi) 	khand / kaf / käsi@Uralic …				
 84	wing 	hego		flhegol	~+	రెక్క (rekka) 	Icar = [Fl]ight @ TURK				
-85	belly 	Para / sabel	🗸		pura (Malto)	పొట్ట (poṭṭa) / కడుపు (kaḍupu) 	pott=belly botton@SEM				
+85	belly 	Para / sabel	🗸	peray>belly	pura (Malto)	పొట్ట (poṭṭa) / కడుపు (kaḍupu) 	pott=belly botton@SEM				
 86	guts 	heste / tripa				పేగులు (pēgulu) 					
 87	neck 	lepo		@lupo?		మెడ (meḍa) / కంఠం (kaMṭhaM) 					
 88	back 	bizkar	🗸	bazk		వీపు (vīpu) / వెన్ను (vennu) 					
@@ -146,7 +146,7 @@
 145	to freeze 	izoztu	🗸🗸🗸!	ice.DO (see ice) ver.eis=freeze		గడ్డకట్టు (gaḍḍakaṭṭu) 					
 146	to swell 	hanpatu / puztu	🗸?	Pustel pust.DO		వాచు (vācu) 					
 147	sun 	eguzki / iguzki / eki	!!??	Auge@sky!?		సూర్యుడు (sūryuḍu) / పొద్దు (poddu) 	Sarah				
-148	moon 	ilargi	??	al.argen’ !!?		చంద్రుడు (caMdruḍu) / చందమామ (caMdamāma) / నెలవేల్పు (nelavēlpu) 	camdra (Hindi)				
+148	moon 	ilargi	??	Illah? al.argen’ !!?		చంద్రుడు (caMdruḍu) / చందమామ (caMdamāma) / నెలవేల్పు (nelavēlpu) 	camdra (Hindi)				
 149	star 	izar	🗸🗸	Istar ++ isais 		నక్షత్రం (nakṣatraM) / తార (tāra) / చుక్క (cukka) 	akstra@nakht!!				
 150	water 	ur	!!!	1.eaur = ein.ur 𓏌 naur 𓏌 !!!	నీరు (nīru) 	నీరు (nīru) 	νερό /neró /naur / nil!!				
 151	rain 	euri	>>>	<< yu.rain 𓏌 Uranus ^^>>	<కురియు (kuriyu)	కురియు (kuriyu) / వర్షించు (varṣiMcu) 	kurain.yu 雨 +  weather<water				
@@ -158,7 +158,7 @@
 157	sand 	hondar / hare	🗸 ^^	sander / sa’hare		ఇసుక (isuka) 					
 158	dust 	hauts	~!		~~	దుమ్ము (dummu) 	Pust! dumnst@Turk! 				
 159	earth 	lur	<< 🗸?	l.ore ^^		మన్ను (mannu) / మట్టి (maṭṭi) / నేల (nēla) 	Mud <> Mutter Nature				
-160	cloud 	hodei	<			మబ్బు (mabbu) 	<> abbu=water				
+160	cloud 	hodei	<		la.chode	మబ్బు (mabbu) 	<> abbu=water				
 161	fog 	laino	? 	lines≠rain		పొగమంచు (pogamancu) 	పొగమంచు (poga)				
 162	sky 	zeru / ortzi	<<<!?	zeir /ciel?		నింగి (ningi) / ఆకాశం(ākāśaM] 	Nir.vanam!!! Nin.Gün svnne				
 163	wind 	haize	🗸	haze		గాలి (gāli) 	gale++ காற்று (kāṟṟu) quru@lat				
@@ -168,7 +168,7 @@
 167	fire 	su	---	chau’?	~~	మంట (maNța) / నిప్పు (nippu)  ---	Thyssen @Turk/Hun				
 168	ash 	hauts / errauts	🗸	Chauts ^^ !!		బూడిద (būḍida) 					
 169	to burn 	erre	🗸	[fei]err / char		కాలు (kālu) / మండు (maNḍu) 	char / chot / [b]eri				
-170	road 	bide	<<🗸🗸!!>>>	pod@way,weit	bide ~ బాట (bāṭa) 	బాట (bāṭa) 	വഴി (/ʋaɻi/) way  / pod / lu				
+170	road 	bide	<<🗸🗸!!>>>	pod@path,way,weit	bide ~ బాట (bāṭa) 	బాట (bāṭa) 	വഴി (/ʋaɻi/) way  / pod / lu				
 171	mountain 	mendi	🗸🗸🗸	mount	kmounta!	కొండ (koNḍa) 	Himalaya!				
 172	red 	gorri	🗸🗸🗸	kirish! Carnel	!!!	ఎర్ర (erra) 	erra.de <> ver:wurm				
 173	green 	berde / orlegi	🗸🗸🗸	> verde !!	<>	పచ్చ (pacca) 	Fresh / vir see Uralic				
