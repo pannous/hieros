@@ -1,1 +1,1 @@
-docs/clusters.md
+../docs/clusters.md
