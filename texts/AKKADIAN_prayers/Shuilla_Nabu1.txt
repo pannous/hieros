@@ -6,24 +6,27 @@ CUNEIFORM :
 1. 𒋙𒀭 𒀭𒀝 𒊕𒌅𒌑 𒌉𒍑 𒆠𒂊𒉡
 1. ÉN d AG  reš-tu-ú IBILA ke-e-nu
 1. šiptu: Nabû rēštû aplu kēnu (Semitic akkadian reading)
-1. Song: Akha, Erster, Dumus kheiron 
+1. Song: aNAkha Erster Dumus 𒆠 correct
 1. Incantation: O Nabu, firstborn, true heir,
 
 
-2. 𒍝 𒂍     𒄀 𒁾𒉿 𒁁𒌑    𒄩 𒋀 𒋛
-2. [ṣa-bit] GI ṭup-pi BAD-ú ḫa-sis-si
+2. 𒍝 𒂍     𒄀 𒁾 𒉿 𒁁𒌑    𒄩 𒋀 𒋛
+2. [ṣa-bit] GI ṭup-pi BAD-ú  ḫa-sis-si
 2. …  Griff Tablet, partu wissei
 2. Who holds the stylus, who imparts knowledge,
 
-3. X X X 𒌓 𒈨𒌍   𒁀 𒊒 𒌑 𒈬 𒀭 𒈾 𒈨𒌍
+3. X X X 𒌓 𒈨𒌍    𒁀 𒊒 𒌑 𒈬 𒀭 𒈾 𒈨𒌍
 3. [ . . . UD].MEŠ ba-ru-ú mu AN-nu.MEŠ
 3.         dag'es, wahrer  im annos
 3. Who . . . the days, who watches over the years,
 
-4. 𒂊 𒋛𒀀 𒈾 𒄫 𒋾 𒈬 𒌁 𒄀 𒅖 𒇷
+4. 𒂊 𒋛𒀀  𒈾 𒄫 𒋾 𒈬 𒌁 𒄀 𒅖 𒇷
 4. [e-ṭir] na-piš-ti mu-ter gi-mil-li
-4. <<<<
+4. הציל‎ nafish 𒋾 mutter commil <<
 4. Who saves life, who responds in kind.
+
+gi-mil-li 𒄀𒅖𒇷 <> Bible : àl manner ל מינו
+
 
 5. 𒊕 𒆗    𒀭 𒈨𒌍     𒋗 𒈬 𒆏 𒌈 𒌋𒐍 
 5. [SAG.KAL] DINGIR.MEŠ šu-mu kab-tu4 GÚ-su 
@@ -33,17 +36,17 @@ CUNEIFORM :
 6. 𒍣𒄫𒋗     𒌌 𒂊𒉌 𒀀𒁍 𒁀𒉡𒋙
 6. [zi-kir]-šu ul e-ni a-bu ba-nu-šú
 6. decree su null change papa, bone su
-6. The father, his progenitor, does not change his command,
+6. The father, his progenitor, does not change his command ,
 
-7. 𒀭 𒌅 𒌅 𒌌 𒂊𒉌 𒍣 𒄫 𒀭 𒀝 𒌉 𒋙
+7. 𒀭 𒌅 𒌅 𒌌 𒂊 𒉌 𒍣 𒄫 𒀭 𒀝 𒌉 𒋙
 7. [d]TU.TU   ul  e-ni zi-kir d-AG DUMU -šú
 7. Duke     null change decree des Tag, Sohnum son
 7. Marduk does not change the command of Nabu, his son.
 
-8. 𒀸 𒀭 𒈨𒌍        𒈠𒅆  𒋗   𒀀 𒆳 𒋢  𒍢 𒋥
+8. 𒀸 𒀭 𒈨𒌍        𒈠 𒅆 𒋗   𒀀 𒆳 𒋢  𒍢 𒋥
 8. [in]a DINGIR.MEŠ ma-ši-šu  a-mat-su ṣi-rat
 8. Among Dionyss    mates    a mot his… sured σεβαστός sebastós
-8. Among the gods, his peers, his word is august.
+8. Among the gods, his peers, his word is august (erhaben,illuster,🌞)
 
 9. 𒊭   𒀭     𒋙  𒄑 𒁍 𒋢 𒌅 𒊓 𒄯 𒄘 𒋢
 9. [š]a DINGIR-šú is-bu-su tu-sa-ḫar GÚ-su 

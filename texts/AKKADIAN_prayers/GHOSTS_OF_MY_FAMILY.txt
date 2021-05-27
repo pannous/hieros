@@ -11,6 +11,7 @@
 2. AD.MU AD-AD.MU AMA.MU AMA-AMA.MU ŠEŠ.MU NIN.MU
 2. vata-my vatta-my mama-mia oma-my	sistor-my	niña-my 
 2. my father, my grandfather, my mother, my grandmother, my brother, my sister,
+[[duplication]]
 
 3. 𒁶𒋾𒅀  𒉌𒋗𒋾𒅀  𒌋  𒊓𒆷𒋾𒅀
 3. kim-ti-ia ni-šu-ti-ia  u 	sa-la-ti-ia
@@ -19,8 +20,10 @@
 3. 𓐍𓈖𓌰𓅓𓋴𓀙𓀀 𓈖𓄟𓋴𓅱𓏏 𓂧𓈖𓏌𓏏𓅱𓀀𓈒𓈒𓈒?
 3. 𓎛𓏲𓏏𓌙𓀀𓁐𓏥 
 3. 𓉔𓈖𓏌𓏲𓀀𓁐𓏥 
+𒊓𒆷𒋾𒅀 <?> zadruga  zuriya? <> Stamm, Sippe? 
+𒆷𒋾𒅀 <> Leute, Rotte rod
 
-4. 𒈠𒆷  𒀸  𒆠𒁴 𒉌𒇻     𒆠𒄑𒉺 	  𒀝𒈨𒆪𒉡𒅆
+4. 𒈠𒆷  𒀸  𒆠𒁴 𒉌 𒇻     𒆠𒄑𒉺 	  𒀝𒈨𒆪𒉡𒅆
 4. ma-la ina KI-tim ṣal-lu   ki-is-pa ak-sip-ku-nu-ši
 4. multa in	nether™ slumber, gift     acceptan𒅆
 4. [As] many are sleeping in the netherworld, I make a funerary offering to you. 
