@@ -1,0 +1,306 @@
+
+Tocharian Concise Dictionary
+
+    Tocharian Languages
+    Sources
+    Notes for Dictionary
+    Dictionary
+    More information
+
+
+Sources:
+
+1. Tocharian Languages. Edited by V.Ivanov. Moscow, 1959.
+2. Windekens, A.J., Le tokharien confronté avec les autres langues indo-européennes. Louvain, 1976.
+3. Burlak, S. The Historical Phonetics of Tocharian languages. Moscow, 1995.
+4. Gamkrelidze T., Ivanov V. Indo-European Language and Indo-Europeans. Moscow, 1984.
+5. Fasmer, M. The etymological dictionary of the Russian language. Moscow, 1986.
+
+
+Notes for Dictionary:
+general - Common Tocharian or Tocharian A words
+italic - Tocharian B words
+á, í, ú - long [a], [i] and [u] sounds
+ç - a sound like in Sanskrit açva or in English cashier
+ä - a sound similar to German Käse (cheese) or English band
+ñ - a soft [n'] sound
+s' - palatal [s] usually written as a little line over it
+n., m., r., s. - cerebral sounds
+@ - the Indo-European 'schwa' sound
+
+
+Dictionary (265):
+
+açc- - a beginning, a start (Sanskrit ásad- - to get down, ádis - a start, Slavic *jézda - a riding) ??
+ak, ek - an eye (IE *okw- - an eye) Aug
+ák- - to lead (IE *ag'- 'to lead') << act?
+ákär, pl. ákrunt - a tear (IE *dakru- 'a tear') la.crima
+akmal - a face (see ak + malañ) <> 1ᵏmiàn 面 靣 ?
+áknats - ignorant (IE *n.-gno-, Latin ignotus)
+álp- - to reflect (Mansi al'p-t 'tincture')
+amokyo - art (instr.sg.)
+aryu - long (Luwian ara-)
+asam.khe - a variety
+as's'i - exactly (particle)
+ats - exactly
+ámpi - both (IE *ambh- + *bhó - both)
+áñc - down
+áñme - a soul (IE *anH- 'spirit')
+ánt - through, across
+ánt, ánte - a forehead (IE *ant- - fore, forehead)
+ant-api - both (see ámpi)
+ákás'acc - to the sky
+ánte - a plain
+áre - a plough (IE *ár- - to plough)
+árki , árkwi- - white (IE *arg'- - white, shining; silver)
+ártimár - we should love
+ásta - bones (IE *kost-, *ost- - a bone)
+ati - grass (IE *ad- - grain)
+auk- - a snake (IE *angwi- 'snake')
+bime - a thought, an idea
+cai - they
+cake - a river (IE *tek- - to flow, to run)
+ckácar, tkácer - a daughter (IE *dhutér- - a daughter)
+çtwar, çtwer - four (IE *kwetwores - four)
+e-, ai- - to give (IE *ay- - to give, to take)
+eçane - an eye
+ents-, en'k - to bear (IE *nek'- - to bear, to carry)
+i- - to go (IE *ei- - to go)
+ime - memory, conscience (IE *weid- 'to see, to know', Sanskrit vidman- 'knowledge')
+íkam - twenty (IE *wíkmot - twenty)
+kaklyus.u - on hearing (verbal adverb) (see klyos-)
+kakmu - on coming (verbal adverb)
+kälk-, kalák- - to go (Finnish kulkea 'to go')
+kaltr - he stops
+käm- - to come (IE *gwem- 'come')
+kam, keme - a ripple, a tooth (IE *gonbh- - a ledge)
+känt, kant, kante - a hundred (IE *kmotom - a hundred)
+käntu, kantwo - a tongue (IE *dng'uH- 'tongue')
+kanwem, ken.ine - knees (dual, IE *genu- - a knee)
+káryap - harm
+käs - to go out, to extinguish (IE *gwes- - to extinguish)
+kas.t, kest - famine (Hittite kast-)
+kay-urs, ka-urs.e - a bull (IE *wers- - a bull)
+kektseñe - a body (IE *kok'- 'part of body')
+kerciye - a palace (IE *gher- - to stockade; a settlement)
+kláw - to declare, to announce (IE *kleu- - to hear)
+klots, klautso - an ear (IE *kleu- - to hear)
+klyos- - to hear (IE *kleu- - to hear)
+knán - to know (IE *gnó- - to know, from *gen- - kinship, a knee)
+ko, keu - a cow (IE *gwou- - a bull)
+ko, kau- - to kill (IE *kaHu- - dialectal)
+kos.t- - to beat, to hit
+kräm., kor - a nose (Sanskrit ghráti 'smells')
+kran.ko - a cock, a rooster (IE *kerk- 'hen')
+krons'e - a bee (IE *k'ers- - an insect)
+kros's'une - coldness (cf. kuras')
+ksaise - old
+ktsai - to grow old
+ku - a dog (IE *kwon- - a dog)
+kukäl, kokale - a wagon (IE *kwel- - round, a wheel)
+kulmänts - reed (IE *k'al@m- - straw)
+kum- - to come (IE *gwo- 'to come')
+kumpäc - a drum
+kuras', krost - cold (IE *krus- - an edge of ice?)
+kuryar, karyor - a purchase (IE *kwreya- - to buy)
+kus - who? (IE *kwis - who)kus, kuse - which (IE *kw-)
+kwyall - why?
+läk-, lake, läke - to lie, a bed (IE *legh- 'to lie')
+laks, läks - a fish (IE *lak'@s- - fish, a salmon)
+lap - a skull (Greek lophos - a nape, a hill, Slavic lob - a forehead)
+lánt- - a king
+lip- - to remain, to stay (IE *leikw- - to stay)
+lk-, lyk- - to see (IE *léuk- - to see, to look)
+lw - a beast
+luks-, lyuk- - to illuminate (IE *leuk- - light)
+lyutár - excessively (Welsh llid < *lúto- - rage, Russian lyuty - angry, terrible)
+má - not (Greek má, mé - not, Sanskrit má - don't)
+mácar, mácer - a mother (IE *mátér- - a mother)
+mák, máki, makí, máka - much (IE *mag'- - large, many)
+malañ, meli - a cheek, a nose
+malk-, mälk- - to milk (IE *melg-, *melk- - to milk)
+malto - for the first time (IE *mal-/*mel- - a top)
+malyw, mely - to press (IE *mel- - to grind)
+mañ, meñe - a month (IE *men-es- - moon, a month)
+mänt - how
+mäs's'unt - brains (IE *mazgh- - brains, Sanskrit majjan)
+maiwe - young (IE *meH- 'to mature')
+men'ki - less (IE *manw- - small, little)
+mísa - meat, flesh (IE *méms- - meat)
+mit - honey (IE *medhu- - honey)
+mnu, mañu - a thought, a wish (IE *men- 'to think')
+mrác - a head (IE *mregh-)
+näk, nek - to extinguish, to die
+nás - us (IE *nosmes - we)
+nas.u - a friend (Greek neomai 'I return', Sanskrit nasate 'he joins')
+nátäk - a master, a host (Greek Mycenaean wanaka)
+nekcíye - in the evening (IE *nekw- 'night')
+ñkat, ñakte - a god (IE *nekt- - a deity)
+nmuk, ñumka - ninety (IE *newn- 'nine')
+ñom, ñem - a name (IE *nem- - to call, to assign)
+ñu, ñuwe - new (IE *newo- - new)
+ñú - nine (IE *newno - nine)
+nut, naut - to die (IE *náw- - a corpse, to die)
+okät, okt - eight (IE *októ - eight)
+oki - like (conjunction)
+okso - a bull (Sanskrit uksá, Gothic auhsa)
+oksis. - it grows (IE *aug- 'to grow')
+oktuk, oktan.ka - eight (IE *ok'tók'omt- 'eighty')
+om-post-am. - after that (IE *po- - after)
+onkaläm - an elephant
+onolme - a living being (Latin animal 'animal')
+or - a tree (IE *drew- 'tree')
+orkäm - gloom, darkness (Greek orphnos - dark, dark brown)
+orto - up (Latin orior - I rise)
+pältsäkk - a thought
+pák, páke - a section (IE *bhag- - to share with smb)
+pácar, pacer - a father (IE *pa'te'r - a father)
+páci - right (not left)
+päk-, päkw- - to cook, ripen (IE *pekw-/ *pokw- 'to cook')
+päl, píle - a wound (IE *bhal- - ill, sick)
+pält, pilta - a leaf (IE *bhel- 'leaf')
+pañä, pis' - five (IE *penkwe - five)
+pänt, pin.kce - fifth (see above)
+papaks.u - something boiled (*pek-, *pekw- - to bake)
+pärkär - long
+pärwán,  pärwáne - an eyebrow (IE *bhrú- - an eyebrow)
+pärvat,  pärwes.s.e - the oldest, a wizard (see parwe)
+parno, perne - shining (participle)
+parwe - at first (?) (IE *pro-wo- - forward, first)
+pas. - he gave (Hittite pai- 'to give')
+pás, pásk - to graze (IE *pá-, *paH- - to secure, to graze)
+pe, paiyye - a foot (IE *ped- - a foot)
+pik-, pek-, pin'k - to paint (IE *peik'- - to draw signs)
+plák - to agree
+plewe - a ship, a boat (IE *pleu- - to sail)
+pñák, ps'áka - fifty (IE *penkwék'omt- 'fifty')
+poke, pokai - an arm (IE *bhághu- - a hand, an arm)
+pont-, puk, po, pont- - all, the whole (Greek pantos 'whole')
+por., puwar - fire (IE *paur- - inanimate fire)
+porat, peret - an axe (IE *pelk'- - to chop) - could be borrowed from Iranian
+pracar, procer - a brother (IE *bhrátér- - a brother)
+prak, pärk, prek- - to ask (IE *prok'- - to ask)
+pratim' - a decision (Gothic fraþi 'understanding', Lithuanian protas 'mind')
+pres'ciye - ooze
+put-k - to judge, to divide (Latin putare - to think, Russian pytat' - to torture)
+rake, reki - speech, a word (IE *rek- - to speak)
+ratre, rtär, ratrem. - red (IE *reudh- - red, rust)
+ri, riye - a city
+rit - to search
+s.äk, skas - six (IE *sweks - six)
+säksäk, s.kaska - sixty (IE *swek'sk'omt- 'sixty')
+s'äk, s'ek, s'ak - ten (IE *dekmot - ten)
+sále, sályiye - salt (IE *sal- - grey, dirty; salt)
+salu, solme - whole (IE *sol- 'unharmed, healthy')
+sälk- - to pull out (IE *selk- - to drag, a furrow)
+salu, solme - whole (IE *salw- - whole, healthy)
+s'ályás, s'wályai - to the left
+s.älyp, s.alype - fat, oil (IE *selp- - fat)
+s.amáne - a monk
+s'äm, s'ana - a wife (IE *gwen- - a wife, a woman)
+s'ánmaya - he was proclaimed
+s'anwem. - jaws (IE *g'enu- 'chin')
+s.äptuk, s.uktan.ka - seventy (IE *septm.k'omt- 'seventy')
+s.ar, s.er - a sister (IE *swesór- - a sister)
+särk, sark - an illness (Lithuanian sirgti 'to be ill')
+s'ärme - summer heat (IE *gherm- 'heat')
+sas, se, s.eme, sana (f.) - one (IE *sem- - one, the only, alone)
+s'reñ (pl.), s'cirye - star (IE *Haster- 'star')
+se, soyä - a son (IE *sú- - to be born)
+se (masc.), sá (fem.), te (neut.) - this (IE *so, *sá, *tod - this)
+s'is'kiss - a lion (acc.sg.)
+skente - they are (IE *es- - to be)
+skiyo - a shadow (Sanskrit cháyá 'shadow', Greek skiá)
+smimám. - smiling (participle) (IE *smey- - to laugh)
+s.ñaura (pl.) - a sinew (IE *sneH- 'to sew')
+sne, snai - without (Latin sine)
+s'ol, s'aul - life (Greek zóó, Avestan jyátum)
+s'om, s'aumo - a man (IE *dhg'hom- 'ground')
+soma-, somo- - the same, similar (IE *smoo- - the same, some)
+s'pál- - a head (IE *gheb- 'head')
+s.päm, s.päne - a dream (IE *swep- - to sleep, *swep-no- - a dream)
+s.pät, sukt - seven (IE *septom - seven)
+spin- - a hook, a peg (IE *spey- - a peg)
+s.tám, stám - a tree (IE *stá- - to stand)
+s'tärt, s'twerne - fourth
+s'twar, s'twer - four (IE *kwetwores 'four')
+s'twarák, s'wárka - fourty (IE *kwetwr.k'omt- 'fourty')
+s.top, s.tow - a stick (IE *stúp- - a branch, a stump)
+su (masc.), sá (fem.), tu (neut.) - that (see se)
+súrme - eye disease (IE *seHur- 'urine')
+súwa - to eat (Slavic *z'ivati - to chew, Latvian z'aunas - gills, Old High German kiuwen - to chew, Armenian kiv - arboreal resin, Persian javiden - to chew)
+suwam. - it is raining (IE *seu-, *su- - to rain, to flow)
+suwo - swine (IE *sú- 'swine')
+swase, swese - rain (see above)
+täk- - to judge (IE *dek'- 'to judge')
+täl-, tál-, perf. cacäl - to carry (Latin tollere)
+täm - this (IE *to- - demonstrative pronoun)
+tän'k-, tan'k- - to interfere (IE *tnog- - heavy, hard)
+táno - grain (IE *doHná- 'grain, bread')
+táp- - to eat (Latin daps 'cult meal')
+tápärk - now (Russian teper' - now?)
+tärná- - to let go (Hittite tarna-)
+taryák, täryáka - thirty (IE *trík'omt- 'thirty')
+tek- - to touch (Latin tangó 'I touch', Greek tetagón 'he who seized')
+tetriwu - he pounds (IE *ter- - to rub)
+tkam, kem - ground (IE *dhghom- - ground)
+tmäk - that is why
+tmäs' - then
+träm-, tärm-, treme (pl.) - to shiver, a shiver (IE *trem- - to shake)
+tri, tre, traiy - three (IE *treyes, *trí - three)
+trit, trite - thrice (see above)
+tsäk- - to burn (IE *dheig- 'to burn')
+tsän- - to flow quickly (Old Persian danuvatiy 'flows')
+tsáp-, tsáw- - to warm (IE *tep- 'hot, warm')
+tsar@ - a hand (IE *g'hesro- - a hand)
+tsär - rough, shaggy (IE *khar- - sharp)
+tsatsápau - warmed (participle) (IE *tep- - warm)
+tseke - an image (IE *dheig'- 'clay')
+tsik - to generate
+tsirauñe - power, strength
+tsras'i - strong
+tsu- - to link, to bind (IE *dhów- - to bind)
+tu - thou (IE *tú - thou)
+tumane, tumám. - ten thousand
+tunk - love
+twere - a door (IE *dhur-, *dhwer- 'door, gate')
+wac - a quarrel, struggle (IE *wed- - to speak, to shout)
+waiwalau - dizziness (IE *wel- - to turn, to twist)
+wak, wek - voice (IE *wekw-/ *wokw- 'voice')
+wäl, walo - a prince (IE *wal- - strong, powerful)
+wäl- - to die (IE *wal- 'to die')
+walke - long
+wälts, yältse - a thousand
+want, wänt,  yente - to fly, to breathe (IE *wé- 'to blow', Latin ventus 'wind', Hittite huwant-)
+wáp - to weave
+wär, war - water (IE *war- - water, wet)
+wärkänt, yerkwantai - a ring, a wheel (IE *Hwerg'- 'wheel')
+warto, wärto - a garden, a grove (IE *wer- - to defend, to close)
+wäs- - to dress (IE *wes- 'to dress')
+wäs, yasa, ysá- - gold
+was.t-, ost - a house (Sanskrit vástu- 'dwelling')
+wätk-, watk- - to order (see wac)
+wes - we (IE *wei- - we, me and you)
+weskemane - speaking (participle)
+wiki, ikäm. - twenty (IE *wík'm.t- 'twenty')
+wlalune - death (see wäl-)
+wramm - a thing
+wrauña - a crow
+wu (masc.), we (fem.) - we two (see wes)
+wu, wi - two (IE *duwo, *dwo - two)
+yäl, ylem. - antelope (IE *el-, *ol- 'some beast')
+yam, ya, yám - to do (Hittite aia- - to do)
+yásk- - to ask, to bet (IE *yek- 'to swear, to ask')
+yok - to drink
+yokani - thirsting (participle)
+ysar, yasár - blood (IE *esór- - blood)
+ysäs. (3rd sg. pres.), yayásau (participle) - to boil (IE *yes- - to boil)
+ytár (f.) - a path, a way (see i-)
+yuk, yakwe - a horse (IE *ekwo- - a horse)
+
+More information:
+
+    Map of Central Asia 5th century BC
+    Brahmi Script
+    Tocharic Links
+
