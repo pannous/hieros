@@ -1,215 +1,1057 @@
-Id	English (gloss)	Georgian language x=kh!	PIE		IPA 	Hurro-Urartian	 No. 
-1	I (personal pronoun)	მე (me)	𓅱 me		/mɛ/		հայերեն (hayeren) 
-2	you (singular)	შენ (šen)	𓏏𓈖 tən/sen sie(n)		/ʃɛn/		(WT:HY TR) 
-3	he	ის (is)	𓋴 his/su		/is/		pronunciation
-4	we	ჩვენ (čven)	水𓈖𓏤𓏤𓏤  ʃ’wenu 		/tʃvɛn/		1 
-5	you (plural)	თქვენ (tkven)	𓎡𓈖𓏤𓏤𓏤 tcyoun 		/tʰkʰvɛn/		2 
-6	they	ისინი (isini)	𓋴𓈖𓏤𓏤𓏤 sein a’them 		/isini/		3 
-7	this	ეს (es)	𓇑𓇑 | 𓋴 ‘es 𓏏𓄿 ce		/ɛs/		4 
-8	that	ის (is)	𓋴 ‘is  ci		/is/		5 
-9	here	აქ (ak)	𓇑 aci  屮chè		/ɑkʰ/		6 
-10	there	იქ (ik)	𓇑 ici		/ikʰ/		7 
-11	who (interrogative)	ვინ (vin)	𓊪𓈖 whon		/vin/		8 
-12	what (interrogative)	რა (ra)	à? where?		/rɑ/		9 
-13	where (interrogative, no movement)	სად (sad)	quod		/sɑd/		10 
-14	when (interrogative)	როდის (rodis )	wro des		/rɔdis/		11 
-15	how	როგორ (rogor )	rogor=frage ++		/rɔɡɔr/		12 
-16	not	არ (ar)	a- nar > null  ar~la		/ɑr/		13 
-17	all	ყველაფერი (q̇velaperi)	cvalle para~poly		/qʼvɛlɑpʰɛri/		14 
-18	many	ბევრი (bevri)	very<poly<every		/bɛvri/		15 
-19	some	რამდენიმე (ramdenime)	Random ;)		/rɑmdɛnimɛ/		16 
-20	few	ცოტა (coṭa)	Cute = little		/tsɔtʼɑ/		17 
-21	other	სხვა (sxva)	o’thva 2		/sxvɑ/		18 
-22	one	ერთი (erti) პირველი p'irveli	一 fersty (value) 一	+++	/ɛrtʰi/		19 
-23	two	ორი (ori) მეორე meore	二  èr  & more~door 门~耳	++<<	/ɔri/		20 
-24	three	სამი (sami)  მესამე mesame	三 sān meso 𓏇?	++	/sɑmi/		21 
-25	four	ოთხი (otxi) მეოთხე meotkhe	四 asyr 西 oxi.dent much	++	/ɔtʰxi/		22 
-26	five	ხუთი (xuti)	5 penti ხuუti khuti quinte 	++	/xutʰi/		23 
-		ექვსი (ekvsi)	6 εeks sechs six ჲ	++			24 
-		შვიდი švidi	7 sevti ო	+++			25 
-		რვა rva მერვე merve	8 𓏠 პ achrva-manyr	!!<			26 
-		ცხრა tskhra  მეცხრე metskhre	9 mnew-kadesh ჟ	??			27 
-		ათი ati მეათე meate	10 a ten ი 𓎆 te.me meter 	++		80 = 4 * 20	28 
-		ასი asi	100 a cent ი=in=>cin 10*10    რ 5*20	+			29 
-		ათასი atasi	1000 a tausend ჩ	+++			30 
-27	big	დიდი (didi)	太大 taida	++	/didi/		31 
-28	long	გრძელი (grʒeli)	großely	+++	/ɡrdzɛli/		32 
-29	wide	ფართო, განიერი (parto, ganieri)	part, going	~+	/pʰɑrtʰɔ/, /ɡɑniɛri/		33 
-30	thick	სქელი (skeli)	thickely	++	/skʰɛli/		34 
-31	heavy	მძიმე (mʒime)	madza.me much maʒimal	++	/mdzimɛ/		35 
-32	small	პატარა (ṗaṭara)	petit	++	/pʼɑtʼɑrɑ/		36 
-33	short	მოკლე (moḳle)	micro	++	/mɔkʼlɛ/		37 
-34	narrow	ვიწრო (vic̣ro)	micro?		/vitsʼrɔ/		38 
-35	thin	თხელი (txeli)	thinly	+~	/tʰxɛli/		39 
-36	woman	ქალი (kali)	Kali𓄤 girl	+++	/kʰɑli/		40 
-37	man (adult male)	კაცი (ḳaci)	Kasi Kassite Goth	+<<	/kʼɑtsi/		41 
-38	man (human being)	ადამიანი (adamiani)	Adaman	+++	/ɑdɑmiɑni/		42 
-39	child	ბავშვი (bavšvi)	बच्चा baccā boys/bitch	+++	/bɑvʃvi/		43 
-40	wife	ცოლი (coli)	Kali𓄤 girl ^^	+++	/tsɔli/		44 
-41	husband	ქმარი (kmari)	mari	+++	/kʰmɑri/		45 
-42	mother	დედა (deda)	tiddy	;)	/dɛdɑ/		46 
-43	father	მამა (mama)	!!	;)	/mɑmɑ/		47 
-44	animal	ცხოველი (cxoveli)			/tsxɔvɛli/		48 
-45	fish	თევზი (tevzi)	the.fishzy		/tʰɛvzi/		49 
-46	bird	ჩიტი (čiṭi)	tweety Tier@SEM	+<	/tʃitʼi/		50 
-47	dog	ძაღლი (ʒaɣli)	jackal δackel dogle	+++	/dzɑɣli/		51 
-48	louse	ტილი (ṭili)	li.the.lice 	+?	/tʼili/		52 
-49	snake	გველი (gveli)	𓋴 𓍋 𓃀 𓏏 𓆙  GVL<KUR	++-	/ɡvɛli/	kar@Mayan Kača,kígyó@SLAVIC,Ural ýylan@Turk	53 
-50	worm	ჭია (č̣ia)	Serpent kria 𓆓 𓂧 𓆑 𓏏 𓆙  𓆑	++	/tʃʼiɑ/	<> red = kir kvrmis	54 
-51	tree	ხე (xe)	xýlo কাঠ kath  ξύλο 	+?	/xɛ/		55 
-52	forest	ტყე (ṭq̇e)	trees	+?	/tʼqʼɛ/		56 
-53	stick	ჯოხი (ǯoxi)	Ǯox ~ stock	++	/dʒɔxi/		57 
-54	fruit	ხილი (xili)	chilli, xil,xir,kir,guor,qi(ball)	+<	/xili/		58 
-55	seed	თესლი (tesli)	the.s… –		/tʰɛsli/		59 
-56	leaf	ფოთოლი (potoli)	Blatt	++<	/pʰɔtʰɔli/		60 
-57	root	ფესვი (pesvi)	𓃀?		/pʰɛsvi/		61 
-58	bark (of a tree)	ქერქი (kerki)	kork=bark	+++	/kʰɛrkʰi/		62 
-59	flower	ყვავილი (q̇vavili)	Hua Lily 花flower?		/qʼvɑvili/		63 
-60	grass	ბალახი (balaxi)	gvaraxi~Gräser Ballen	<	/bɑlɑxi/		64 
-61	rope	თოკი (toḳi)	𓍿𓎀𓍼 tech tag tex Tuch 	+++<	/tʰɔkʼi/		65 
-62	skin	კანი (ḳani)	carne, khrom	++	/kʼɑni/		66 
-63	meat	ხორცი (xorci)	gorki@Kor carne	++	/xɔrtsi/		67 
-64	blood	სისხლი (sisxli)	süß?xue sweat	++<<	/sisxli/		68 
-65	bone	ძვალი (ʒvali)			/dzvɑli/		69 
-66	fat (noun)	ქონი, ცხიმი (koni, cximi)	coon  دهن‎  duhn		/kʰɔni/, /tsximi/		70 
-67	egg	კვერცხი (ḳvercxi)	quetsch? k’wát@Xiongnu!  guḍḍu@Tamil 		/kʼvɛrtsxi/		71 
-68	horn	რქა (rka)	rkorn	+~<	/rkʰɑ/		72 
-69	tail	კუდი (ḳudi)	cute Koedel cord	<	/kʼudi/		73 
-70	feather	ფრთა (prta)	🐦	+++	/pʰrtʰɑ/		74 
-71	hair	თმა (tma)	tü.ma <> Matte, Tollem	++?	/tʰmɑ/	かみ kami	75 
-72	head	თავი (tavi)	top	+++	/tʰɑvi/		76 
-73	ear	ყური (q̇uri)	qhear	+++	/qʼuri/		77 
-74	eye	თვალი (tvali)	tāwīs@luwian		/tʰvɑli/		78 
-75	nose	ცხვირი (cxviri)	^^ q’nosva	- / ++	/tsxviri/		79 
-76	mouth	პირი (ṗiri)	li’pore 𓊪𓂋	+!<	/pʼiri/		80 
-77	tooth	კბილი (ḳbili)	-- 		/kʼbili/		81 
-78	tongue (organ)	ენა (ena)	unge		/ɛnɑ/		82 
-79	fingernail	ფრჩხილი (prčxili)			/pʰrtʃxili/		83 
-80	foot	ტერფი (ṭerpi)	tier.pied 𓇾𓃀	+++	/tʼɛrpʰi/		84 
-81	leg	ფეხი (pexi)	pe* 𓃀	+++	/pʰɛxi/		85 
-82	knee	მუხლი (muxli)	𓌳 𓄿 𓊨 𓏏 𓂾	!<<<	/muxli/		86 
-83	hand	ხელი (xeli)	Кедь kelle? Keil kol=arm	--	/xɛli/	கை kai  cheiro > /xɛli/ 手 shǒu 	87 
-84	wing	ფრთა (prta)	🐦	+++	/pʰrtʰɑ/		88 
-85	belly	მუცელი (muceli)	𓏇		/mutsɛli/		89 
-86	guts	ნაწლავი (nac̣lavi)	内nèi inner 	++	/nɑtsʼlɑvi/		90 
-87	neck	კისერი (ḳiseri)	<>Kissen?		/kʼisɛri/		91 
-88	back	ზურგი (zurgi)	≠gurgel		/zurɡi/		92 
-89	breast	მკერდი (mḳerdi)	m.core 𓊖		/mkʼɛrdi/		93 
-90	heart	გული (guli)	guli<coeur 𓊖	+-	/ɡuli/		94 
-91	liver	ღვიძლი (ɣviʒli)	vita	+?	/ɣvidzli/		95 
-92	to drink	სმა (sma)	SOMA! 𓋴𓅨𓂋 Ĕçме kumwa 	++<<	/smɑ/	.ma .make .ro/ra~-ier .ba~va .li~ly~ing	96 
-93	to eat	ჭამა (č̣ama)	𓏶! Jam khamm carne	++<?	/tʃʼɑmɑ/		97 
-94	to bite	კბენა (ḳbena)	kappen? Ϫⲱⲕϩ		/kʼbɛnɑ/	-a suffix ma na va ba	98 
-95	to suck	წოვა (c̣ova)	saug 	~	/tsʼɔvɑ/	.va faire .ba basta 吧	99 
-96	to spit	ფურთხვა (purtxva)	𓊪 𓊃 𓎼 𓄑 𓀁		/pʰurtʰxvɑ/		100 
-97	to vomit	რწყევა (rc̣q̇eva)	rotz;)		/rtsʼqʼɛvɑ/		101 
-98	to blow	ბერვა (berva)	blow<bervan	+++	/bɛrvɑ/		102 
-99	to breathe	სუნთქვა (suntkva)	𓌢 𓂉 !	++<	/suntʰkʰvɑ/		103 
-100	to laugh	სიცილი (sicili)	hihihi so-silly 	;)	/sitsili/		104 
-101	to see	ნახვა (naxva)	Nvidia <> naked?	~+	/nɑxvɑ/		105 
-102	to hear	სმენა (smena)	Sense Sunnā : s’mind Sinne	+++	/smɛnɑ/	sentiment 	106 
-103	to know	ცოდნა (codna)	Cogna, k’now	+++	/tsɔdnɑ/		107 
-104	to think	ფიქრი (pikri)	???	+-?	/pʰikʰri/		108 
-105	to smell	ყნოსვა (q̇nosva)	q’noseva 𓋴 𓈖 𓂉 <> sense	+++	/qʼnɔsvɑ/		109 
-106	to fear	შიში (šiši)	sissi	;)	/ʃiʃi/		110 
-107	to sleep	ძილი (ʒili)	Ʒili.ben ~ sleep	+++	/dzili/		111 
-108	to live	ცხოვრება (cxovreba)	zoo.reba~leben  𓋹vir 吧 	+?	/tsxɔvrɛbɑ/		112 
-109	to die	კვდომა (ḳvdoma)	cut@lat kur.dom dorm	+<	/kʼvdɔmɑ/		113 
-110	to kill	კვლა (ḳvla)	ḳvla	+++	/kʼvlɑ/		114 
-111	to fight	ბრძოლა (brʒola)	brutalier	+?	/brdzɔlɑ/		115 
-112	to hunt	ნადირობა (nadiroba)	NetzerRäuber 𓈖 𓍇 𓏌 𓅱 HunterRobber  ϫⲱⲣϫ	++++	/nɑdirɔbɑ/		116 
-113	to hit	რტყმა (rṭq̇ma)	rattack@Rute?	++?	/rtʼqʼmɑ/		117 
-114	to cut	ჭრა (č̣ra)	Curat, cortar@POR ! 𓊖	++!<	/tʃʼrɑ/		118 
-115	to split	მტვრევა (mṭvreva)			/mtʼvrɛvɑ/		119 
-116	to stab	ჩარტყმა, ჩაცემა (čarṭq̇ma, čacema)	'cut’ ^^ kako kill?	<^	/tʃɑrtʼqʼmɑ/, /tʃɑtsɛmɑ/		120 
-117	to scratch	ფხაჭნა (pxač̣na)		~-	/pʰxɑtʃʼnɑ/		121 
-118	to dig	ბარვა (barva)	bcarva	++	/bɑrvɑ/		122 
-119	to swim	ცურვა (curva)	𐀤 𓂻 = swim 𓇾 तैरना tairnā	+<	/tsurvɑ/		123 
-120	to fly	ფრენა (prena)	^^ 🐦	~+^	/pʰrɛnɑ/		124 
-121	to walk	სიარული (siaruli)	Shier™ > चलना	+++	/siɑruli/		125 
-122	to come	მოსვლა (mosvla)	𓅱𓇍		/mɔsvlɑ/		126 
-123	to lie (as in a bed, state)	წოლა (c̣ola )	colapse	+?	/tsʼɔlɑ/		127 
-124	to sit	ჯდომა (state) (ǯdoma (state))	Sito.ma	++	/dʒdɔmɑ/		128 
-125	stand 	დგომა (dgoma) ადგომა (adgoma ) 	ad.goma? <<		/dɡɔmɑ/ /ɑdɡɔmɑ/ 		129 
-126	to turn	ტრიალი (ṭriali)	ṭrianli	+++	/tʼriɑli/		130 
-127	to fall	დაცემა (dacema)	Touch-down?		/dɑtsɛmɑ/		131 
-128	to give	მიცემა (micema)	meat 𓂜?		/mitsɛmɑ/		132 
-129	to hold	ჭერა (č̣era)	Cera.ben = grab	+?	/tʃʼɛrɑ/		133 
-130	to squeeze	დაწოლა (dac̣ola)			/dɑtsʼɔlɑ/		134 
-131	to rub	წმენდა (c̣menda)	cement?		/tsʼmɛndɑ/		135 
-132	to wash	რეცხვა (recxva)	rect?		/rɛtsxvɑ/		136 
-133	to wipe	წმენდა (c̣menda)	wish.ment?		/tsʼmɛndɑ/		137 
-134	to pull	თრევა (treva)	Track > 𓍿𓎀		/tʰrɛvɑ/		138 
-135	to push	ბიძგება (biʒgeba)	push geben	+++	/bidzɡɛbɑ/		139 
-136	to throw	გადაგდება (gadagdeba)	attack?	;)	/ɡɑdɑɡdɛbɑ/		140 
-137	to tie	შეხვევა (šexveva)	sack weave	++	/ʃɛxvɛvɑ/		141 
-138	to sew	კერვა (ḳerva)	𓐍  <> scar?	<	/kʼɛrvɑ/		142 
-139	to count	თვლა (tvla)	tell tæl Teil צאָל‎ tsol Zoll Zahl тоо թիվ tʿiv թիւ	+++	/tʰvlɑ/		143 
-140	to say	თქმა (tkma)	talk.ma dice	+++	/tʰkʰmɑ/		144 
-141	to sing	მღერა (mɣera)	musera	++	/mɣɛrɑ/		145 
-142	to play	თამაშობა (tamašoba)		??	/tʰɑmɑʃɔbɑ/		146 
-143	to float	ცურვა (curva)	𐀤 𓂻 = swim 𓇾 तैरना tairnā	<	/tsurvɑ/		147 
-144	to flow	დენა (dena)	√Don	√++	/dɛnɑ/		148 
-145	to freeze	გაყინვა (gaq̇inva)	gar		/ɡɑqʼinvɑ/		149 
-146	to swell	გადიდება (gadideba)			/ɡɑdidɛbɑ/		150 
-147	sun	მზე (mze)	mizraim!!! m.zun	!!<	/mzɛ/		151 
-148	moon	მთვარე (mtvare)	mondtvar 𓇹𓇺 see mounta ⛰	~++<	/mtʰvɑrɛ/		152 
-149	star	ვარსკვლავი (varsḳvlavi)	Vastro.la 𓋴 𓃀 𓇼	!<<<	/vɑrskʼvlɑvi/	𓋴 𓌈 𓆓 𓇼	153 
-150	water	წყალი (c̣q̇ali)	s’quell Schwell aqua.le  𓏁 𓈗	!<<<	/tsʼqʼɑli/		154 
-151	rain	წვიმა (c̣vima)	schwimma 𓎛 𓀝 𓇋 𓇋 𓈗	!<<<	/tsʼvimɑ/		155 
-152	river	მდინარე (mdinare)	meander m.donaur mount⛰NAUR	++++	/mdinɑrɛ/		156 
-153	lake	ტბა (ṭba)	SeeBad		/tʼbɑ/		157 
-154	sea	ზღვა (zɣva)	sea (schwarz/green?)	++~	/zɣvɑ/		158 
-155	salt	მარილი (marili)	marin	+++	/mɑrili/		159 
-156	stone	ქვა (kva)	kur	+++	/kʰvɑ/		160 
-157	sand	სილა (sila)	silur silex	+++	/silɑ/		161 
-158	dust	მტვერი (mṭveri)	mud@mount?	^	/mtʼvɛri/		162 
-159	earth	მიწა (mic̣a)	mud Mutter!	++<	/mitsʼɑ/		163 
-160	cloud	ღრუბელი (ɣrubeli)	Qoore > qru.wolke ~ cloubd	~++?<	/ɣrubɛli/		164 
-161	fog	ნისლი (nisli)	Niesel	+++	/nisli/		165 
-162	sky	ცა (ca)	ciel, sky	++?	/tsɑ/		166 
-163	wind	ქარი (kari)	𓈎𓂋𓇋𓇲 coort	+++	/kʰɑri/	<> kar/grotte	167 
-164	snow	თოვლი (tovli)			/tʰɔvli/		168 
-165	ice	ყინული (q̇inuli)	snow.le	++	/qʼinuli/		169 
-166	smoke	კვამლი (ḳvamli)	Qualm.le	+++	/kʼvɑmli/		170 
-167	fire	ცეცხლი, ხანძარი (cecxli, xanʒari)	zünder, indra 𓊮~𓏶 𓊹	++<<	/tsɛtsxli/, /xɑndzɑri/		171 
-168	ash	ფერფლი (perpli)	Para-phyr > fire	++<	/pʰɛrpʰli/		172 
-169	to burn	წვა (c̣va)	Schwel / cook / schwarz?	<	/tsʼvɑ/		173 
-170	road	გზა (gza)	*girza *graster রাস্তা  *g’route 		/ɡzɑ/		174 
-171	mountain	მთა (mta)	monta see Moon! 𓇹𓇺	+++	/mtʰɑ/		175 
-172	red	წითელი (c̣iteli)	cirth kirsch	+~	/tsʼitʰɛli/		176 
-173	green	მწვანე (mc̣vane)	m.greene	+?	/mtsʼvɑnɛ/		177 
-174	yellow	ყვითელი (q̇viteli)	@quitte		/qʼvitʰɛli/		178 
-175	white	თეთრი (tetri)	𓇾 𓇹  2/3/4 ?? twhite?	-- 	/tʰɛtʰri/		179 
-176	black	შავი (šavi)	Sar > char > ʃɑvi > Schwarz	+++	/ʃɑvi/		180 
-177	night	ღამე (ɣame)	Jour ^^ ¬me ? 𓐍 𓆼 𓄿 𓅱 𓇰	+?<<<	/ɣɑmɛ/		181 
-178	day	დღე (dɣe)	day, Tag	+++	/dɣɛ/		182 
-179	year	წელი (c̣eli)	ciel zahl year < sora თვლა tvla	++!	/tsʼɛli/	zaehl, teil ^^ count	183 
-180	warm	თბილი (tbili)	Tiflis! Tvil < Twarm > thermo	√?	/tʰbili/		184 
-181	cold	ცივი (civi)	shiver civl kühl cool	++	/tsivi/		185 
-182	full	სავსე (savse)	thautha total 𓏏 𓏏 𓏝  ∑𓍿𓊃 𓎕	++	/sɑvsɛ/		186 
-183	new	ახალი (axali)	a’xin		/ɑxɑli/	kali=schoen~xin=new	187 
-184	old	ძველი (ʒveli)	Vieille < gvero	++	/dzvɛli/		188 
-185	good	კარგი (ḳargi)	𓊖♡	½ 	/kʼɑrɡi/		189 
-186	bad	ცუდი (cudi)	错地 cuo.di zut/shit != gut	+!?	/tsudi/		190 
-187	rotten	დამპალი, გაფუჭებული (damṗali, gapuč̣ebuli)	Dumped < damp(feucht)	++?	/dɑmpʼɑli/, /ɡɑpʰutʃʼɛbuli/		191 
-188	dirty	ჭუჭყიანი (č̣uč̣q̇iani)	kaka=dirt	++..	/tʃʼutʃʼqʼiɑni/		192 
-189	straight	პირდაპირი (ṗirdaṗiri)	Para-para?	<<	/pʼirdɑpʼiri/		193 
-190	round	მრგვალი (mrgvali)	Im rgveda?  Marg…?	-- 	/mrɡvɑli/		194 
-191	sharp (as a knife)	ბასრი, მჭრელი (basri, mč̣reli)	basher is besser	+??	/bɑsri/, /mtʃʼrɛli/		195 
-192	dull (as a knife)	ბლაგვი (blagvi)	Belag, lagging		/blɑɡvi/		196 
-193	smooth	გლუვი (gluvi)	<3 		/ɡluvi/		197 
-194	wet	სველი (sveli)	swet.ly 水.ly swell	++<	/svɛli/		198 
-195	dry	მშრალი (mšrali)	Mizraim 日 misera!? ^^	++?<<	/mʃrɑli/		199 
-196	correct	ზუსტი (zusṭi)	zustimm!  so’ists 	;) !?	/zustʼi/		200 
-197	near	ახლო (axlo)	√ach achter at nah.lo		/ɑxlɔ/		201 
-198	far	შორი (šori)	< duri	OK?	/ʃɔri/		202 
-199	right	მარჯვენა (marǯvena)	marsch		/mɑrdʒvɛnɑ/		203 
-200	left	მარცხენა (marcxena)	marsch		/mɑrtsxɛnɑ/		204 
-201	at	-ში (-ši)	ath, as, zu		/-ʃi/		205 
-202	in	-ში (-ši)	ath, as, zu		/-ʃi/		206 
-203	with	-თან (-tan)	Tʰɑn > con 同 tong	+++<	/-tʰɑn/	<> ting	207 
-204	and	და (da)	to, ad, da 地 也 	+++	/dɑ/		 No. 
-205	if	თუ, რომ (tu, rom)	darum!  如果 rúmù 木  Thou 𓇋𓂋 		/tʰu/, /rɔm/		հայերեն (hayeren) 
-206	because	რადგან (radgan)	☸		/rɑdɡɑn/		(WT:HY TR) 
-207	name	სახელი, გვარი (saxeli, gvari)	Sax Sache Sachse Gewahr 𓂋		/sɑxɛli/, /ɡvɑri/		pronunciation
+		NE:Caspian NW:Pontic    		2.1 Indo-European 2.2 Semitic 2.3 Turkic 2.4 Mongolic	South:Kartvelian=Iberian>Georgian  	Dené–Caucasian is a proposed language family that includes widely-separated language groups spoken in the Northern Hemisphere: Sino-Tibetan languages, Yeniseian languages, Burushaski and North Caucasian languages in Asia; Na-Dené languages in North America; and the Vasconic languages from Europe (including Basque). 
+1	EYE	бӏаьрг	bʡærɡ	here у u͡ʊ <> R/n !		
+2	EAR	лерг	lerɡ	х <> g?		
+3	NOSE	мара	mərə			
+4	MOUTH	бага	bəɡə	Bug PU		
+5	TOOTH	церг	t͡serɡ			
+6	TONGUE	мотт	motː	mot		
+7	LIP	балда	bəldə	le.pu be.lda		
+8	CHEEK	бесни	besnɪ			
+9	FACE	юьхь	jyʜ			
+10	FOREHEAD	хьаж	ʜəʒ	headj		
+11	HAIR	мас	məs			
+12	MOUSTACHE	мекх	meq	мекх- mus-tagl		
+13	BEARD	маж	məʒ	moustache		
+14	CHIN	чӏениг	t͡ʃʼenɪɡ	t͡ʃʼen ~ chin		
+15	JAW	мочхал	mot͡ʃxəl	mouth?		
+16	THROAT	къамкъарг	qʼəmqʼərɡ	gurgel?		
+17	NECK	ворта	vortə	vortex --		
+18	NAPE (OF NECK)	кӏесаркӏаг	kʼēsərkʼəɡ			
+19	HEAD	корта	kortə	<> core		
+20	BACK	букъ	bu͡ʊqʼ	bu͡ʊqʼ back		
+21	BELLY	кийра	kiːrə	core		
+22	NAVEL	цӏонга	t͡sʼonɡə	≠zunge		
+23	BREAST	зударийн накха	zu͡ʊdərɪɪ̆n nə̄qə	zitze nahr?		
+24	CHEST	накха	nə̄qə			
+25	SHOULDER	белш	belʃ			
+26	ARM	пхьарс	pʜərs	brachio		
+27	ELBOW	пхьаьрсан гола	pʜærsən ɡolə	<<		
+28	HAND	куьг	kyɡ			
+29	PALM OF HAND	кераюкъ	kērəjuqʼ			
+30	FINGER	пӏелг	pʼelɡ	<> penj : 5		
+31	FINGERNAIL	мӏара	mʡərə			
+32	FINGERNAIL OR TOENAIL	мӏара	mʡərə			
+33	TOE	кога пӏелг	koɡə pʼelɡ			
+34	FOOT	ког	koɡ			
+35	HEEL	кӏажа	kʼəʒə			
+36	KNEE	гола	ɡōlə	<< angle		
+37	THIGH	варе	vəre			
+38	LEG	ког	koɡ	--		
+39	BODY	хӏума	hu͡ʊmə	human		
+40	SKIN	чкъор	t͡ʃqʼor	DER! carne		
+41	BLOOD	цӏий	t͡sʼɪɪ̆	xue		
+42	VEIN	пха	pxə			
+43	TENDON	хьорзам	ʜorzəm			
+44	BONE	даьӏахк	dæʡəxk			
+45	BRAIN	хье	ʜē			
+46	HEART	дог	doɡ	;)		
+47	STOMACH	зорх	zorx	;)		
+48	LIVER	доӏах	doʡəx			
+49	BREATH	садеӏар	sədeʡər			
+50	HUNGER	мацалла	mət͡səlːə	@meat?		
+51	TEAR (OF EYE)	бӏаьрхи	bʡærxɪ			
+52	TASTE	чам	t͡ʃəm	<		
+53	FLAVOR	хьожа	ʜoʒə			
+54	SLEEP (STATE)	наб	nəb	nap		
+55	DREAM	гӏан	ɣən			
+56	SKY	стигал	stɪɡəl	steig?		
+57	SUN	малх	məlx	<<--		
+58	MOON	бутт	bu͡ʊtː	--		
+59	STAR	седа	sēdə	sēdər		
+60	AIR	xӏаваъ	xʡəvəʔ	<<		
+61	WIND	мох	mox	--		
+62	WAVE	тулгӏе	tu͡ʊlɣē	turn, tolle		
+63	WATER	хи	xɪ	x		
+64	ROCK	тӏулг	tʼu͡ʊlɡ	tjrock --		
+65	GROUND	цӏенкъа	t͡sʼenqʼə			
+66	EARTH (SOIL)	латта	lətːə	µata латта Land		
+67	DUST	чан	t͡ʃən	<>		
+68	SMOKE (EXHAUST)	кӏур	kʼu͡ʊr	@kur		
+69	SPARK	суй	su͡ʊɪ̆			
+70	FIRE	цӏе	t͡sʼe	thyssen 		
+71	LIGHT (RADIATION)	серло	serlo			
+72	SHADE	ӏиндагӏ	ʡɪndəɣ	¬…		
+73	WEATHER	хенан хӏоттам	xenən hotːəm	heute?		
+74	FOG	дохк	doxk	dust		
+75	CLOUD	марха	mərxə	--		
+76	RAIN (PRECIPITATION)	догӏа	doɣə	--		
+77	SNOW	ло	lo	long		
+78	ICE	ша	ʃə	~		
+79	FROST	шело	ʃēlō	chill		
+80	CHILL	шело	ʃelo	chill		
+81	HEAT	йовхо	ɪ̆ɔ͡ʊxō	??		
+82	HOARFROST	йис	ɪ̆ɪs	--		
+83	RAINBOW	стелаӏад	steləʡəd	stell@stɪɡəl		
+84	THUNDER	ткъес	tqʼes	t…		
+85	CURRENT	дӏаэхар	dʡəexər			
+85	CURRENT	дӏасалелар	dʡəsəlelər			
+86	DROP (OF LIQUID)	тӏадам	tʼədəm	tropf		
+87	FOAM	чопа	t͡ʃopə	<.m		
+88	DIRT	хатт	xətː	<		
+89	LAKE	ӏам	ʡəm	maim		
+90	SWAMP	уьшал	yʃəl			
+91	MOOR	уьшал	yʃəl			
+92	MEADOW	бай	bəɪ̆			
+93	FOREST	хьун	ʜu͡ʊn	Hein		
+94	HILL	гу	ɡu͡ʊ	Gu'		
+94	HILL	шу	ʃu͡ʊ̄	Sha'!		
+94	HILL	барз	bərz	Berg		
+95	ELEVATION	акъари	ə̄qʼərɪ	√quer		
+96	MOUNTAIN	лам	ləm	??		
+97	SUMMIT	бохь	boʜ	@bərz		
+98	CAVE	хьех	ʜex	Hexer;)		
+99	PRECIPICE	басе	bəse	?		
+100	SPRING (OF WATER)	шовда	ʃɔ͡ʊdə			
+101	BROOK	татол	tətol			
+102	RIVER	хи	xɪ	x <> shui		
+103	SHORE	хийист	xiːɪst			
+104	COAST	йист	ɪ̆ɪst			
+105	MAINLAND	латта	lətːə	Land		
+106	SEA	xӏорд	xʡord	<<		
+107	BAY	чож	t͡ʃoʒ			
+108	ISLAND	гӏайре	ɣəɪ̆re			
+109	FLOWER	зезаг	zezəɡ	Susan <+		
+110	GRASS	буц	bu͡ʊt͡s			
+111	ROOT	орам	ōrəm			
+112	TREE	дитт	dɪtː	dendrit		
+113	TREE TRUNK	гӏад	ɣəd			
+113	TREE TRUNK	тайпа	təɪ̆pə			
+114	BARK	кевстиг	kevstɪɡ			
+115	BRANCH	га	ɡə	Gamma<>Gabel		
+116	TWIG	га	ɡə			
+117	LEAF	гӏа	ɣə	^		
+118	BIRCH	дакх	dəq			
+119	PINE	бага	bəɡə	birch ;)		
+120	WILLOW	дак	dək			
+121	FIR	база	bəzə	≠Buche		
+122	HORN (ANATOMY)	маӏа	məʡə	--		
+123	FEATHER	пелаг	peləɡ	++ Flug		
+124	FUR	цӏока	t͡sʼokə			
+125	WING	тӏам	tʼəm	@tier		
+126	CLAW	мӏара	mʡə̄rə			
+127	PAW	тlод	tlod			
+128	TAIL	цӏога	t͡sʼoɡə			
+129	EGG	xӏoa	xʡoa			
+130	NEST	бен	ben			
+131	LAIR	lуьрг	lyrɡ	lyrɡ ~ lair ++		
+132	ANIMAL	дийнат	dɪɪ̆nət	deer.nat		
+133	FLOCK (OF SHEEP)	жа	ʒə			
+134	COW	етт	etː	--		
+135	BULL	сту	stu͡ʊ	stier		
+136	HORSE	говр	ɡɔ͡ʊr	ghor.s @IND		
+137	SHEEP	жий	ʒiː	ʒiːp		
+137	SHEEP	уьстагӏ	ystəɣ	<		
+138	PIG	хьакха	ʜəqə	ьig		
+139	DOG	жӏаьла	ʒʡælə	kläff -		
+140	CAT	цициг	t͡sɪt͡sɪɡ	zize <> catze		
+141	BEAR	ча	t͡ʃə			
+142	SQUIRREL	тарсал	tərsəl	~		
+143	ELK	сай	səɪ̆			
+144	FOX	цхьогал	t͡sʜōɡəl			
+145	HARE	пхьагал	pʜə̄ɡəl			
+146	MOUSE	дахка	dəxkə			
+147	WOLF	борз	borz	lu.pus		
+148	BIRD	олхазар	olxəzər	el.txier <<		
+150	CHICKEN	котам	kōtəm			
+151	ROOSTER	нӏаьна	nʡænə			
+151	ROOSTER	боргӏал	borɣəl			
+152	GOOSE	гӏаз	ɣəz	ɣoose		
+153	EAGLE	aьрзу	aʲrzu͡ʊ	AIR ++		
+154	DUCK	бад	bəd	<> daughter !!!		
+155	OWL	бухӏа	bu͡ʊhə	mbuhuu		
+156	CRANE	гӏаргӏули	ɣərɣu͡ʊlɪ	ɣər.n		
+157	CROW	къиг	qʼɪɡ	къигow		
+158	CUCKOO	aттйокх	atːjoq			
+159	SWAN	гӏургӏаз	ɣu͡ʊrɣəz	^ goose		
+160	FISH	чӏара	t͡ʃʼərə	Tier!		
+161	PERCH (FISH)	окунь	oku͡ʊnʲ			
+162	PIKE (FISH)	гӏазкхийн чӏара	ɣəzqɪɪ̆n t͡ʃʼərə			
+163	SNAKE	лаьхьа	læʜə	Lange		
+164	WORM	нӏаьна	nʡænə	nuun@		
+165	SPIDER	гезг	ɡezɡ			
+166	ANT	зингат	zɪnɡət			
+167	LOUSE	меза	mezə			
+167	LOUSE	гӏениг	ɣenɪɡ			
+168	MOSQUITO	чуьрк	t͡ʃyrk	;)		
+169	FLY (INSECT)	моза	mozə	MOSQUITO		
+170	BUTTERFLY	полла	polːə	полла-fly		
+171	BERRY	цӏазам	t͡sʼəzəm			
+172	APPLE	ӏаж	ʡəʒ			
+173	MUSHROOM	жӏаьлин нускал	ʒʡælɪn nu͡ʊskəl			
+174	ONION	xох	xox			
+175	SEED	чlу	t͡ʃlu͡ʊ	tseed		
+176	GRAIN (SINGLE)	буьртиг	byrtɪɡ	fruit		
+177	HAY	йол	ɪ̆ol	heu.al		
+178	SKIN (OF FRUIT)	пардо	pərdo	peel <<		
+179	PIT (POTHOLE)	ор	or			
+180	TRAP (PITFALL)	кӏело	kʼelo	kuhle		
+182	TRACK (OF ANIMAL)	лар	lər			
+183	ASH	чим	t͡ʃɪm			
+184	FILTH	мода	modə			
+185	IRON	эчиг	ēt͡ʃɪɡ	erz.иг		
+186	GOLD	деши	deʃɪ	𒆬𒌓		
+187	SILVER	дети	detɪ	𒆬𒌓		
+188	CHARCOAL	кӏора	kʼorə	char > coal		
+189	GLASS	aнгали	anɡəlɪ			
+190	CLAY	поппар	popːər			
+191	SAND	гӏум	ɣu͡ʊm	gsamt	-	
+192	PERSON	адам	ədəm	adam		
+193	MAN	майра	məɪ̆rə	mortal		
+194	WOMAN	зуда	zu͡ʊdə	<		
+195	CHILD (YOUNG HUMAN)	бер	ber	puer		
+196	BOY	жимха	ʒɪmxə	jeun?		
+197	GIRL	жима йоӏ	ʒɪmə joʡ	!		
+198	FAMILY	доьзал	døzəl	Dussel:)		
+199	GRANDFATHER	ненада	nēnədə			
+200	GRANDMOTHER	денана	denə̄nə	dame--		
+201	PARENTS	да-нана	də-nənə			
+202	FATHER	да	də	dad		
+203	MOTHER	нана	nə̄nə	nun		
+204	SON	кӏант	kʼənt	con<		
+205	DAUGHTER	йоӏ	ɪ̆oʡ			
+206	BROTHER	ваша	vəʃə	ваша ~ brotha		
+207	SISTER	йиша	ɪ̆ɪʃə	ischa		
+208	UNCLE	деваша	devəʃə			
+209	AUNT	дейиша	dejɪʃə			
+210	HUSBAND	майра	məɪ̆rə	marie		
+211	WIFE	зуда	zu͡ʊdə	zote = WOMAN 		
+212	JOY	самукъа	səmu͡ʊqʼə	sym…?		
+212	JOY	хазахетар	xəzəxetər			
+213	LAUGHTER	белам	beləm			
+214	HAPPINESS	ирс	ɪrs			
+215	GRIEF	бала	bələ			
+216	LONGING	лаам	ləəm	lomg		
+217	DESIRE	лаам	ləəm	lomg		
+218	SPIRIT	са	sə			
+219	THOUGHT	ойла	oɪ̆lə			
+220	MEMORY	диццадалар	dɪt͡sːədələr	thoughts.ler		
+221	MIND	хьекъал	ʜeqʼəl	hex		
+222	MEANING	маьӏна	mæʡnə	++		
+223	REASON	бахьана	bəʜənə			
+224	TRUTH	бакъдерг	bəqʼderɡ	<		
+225	CONVERSATION	къамел	qʼəmel			
+226	FAIRY TALE	туьйра	tyɪ̆rə	tyɪ̆rə > Tier tale	fabel	
+227	STORY	дийцар	dɪɪ̆t͡sər	ditser!		
+228	MESSAGE	хаам	xəəm			
+229	NEWS	керланиг	kerlənɪɡ			
+230	NAME	цӏе	t͡sʼe	at@turk		
+231	SPEECH (ADDRESS)	хӏетал-метал	hetəl-metəl			
+232	SPEECH	къамел	qʼəmel			
+233	LANGUAGE	мотт	motː	mot		
+234	VOICE	aз	az	at@turk : name		
+235	WORD	дош	doʃ	dice		
+236	SIGN	билгало	bɪlɡəlo			
+237	CALL (APPEAL)	кхайкхар	qəɪ̆qər			
+238	NOISE	гӏовгӏа	ɣɔ͡ʊɣə	1/𓎼𓂋		
+239	SOUND OR NOISE	аз	əz			
+240	TONE (MUSIC)	aз	az			
+241	SONG	илли	ɪlːɪ	lala@HEB		
+242	QUIET	тийналла	tɪɪ̆nəlːə	tranquille		
+243	PEOPLE (SEVERAL)	нах	nəx	next mac	накъост	
+244	PEOPLE	халкъ	xəlqʼ	quelque		
+245	WORK (LABOUR)	болх	bolx	work 𓃀 𓎛 𓏮 𓂡		
+246	GUEST	хьаша	ʜəʃə	gueshe		
+247	GIFT	совгӏат	sɔ͡ʊɣət	schenk(et)		
+248	GAME	ловзар	lɔ͡ʊzər	leasure		
+249	COMPANIONSHIP	юкъаралла	juqʼərəlːə	joker		
+250	HELP	гӏо	ɣo	give		
+251	FRIEND	доттагl	dotːəɡl	dos2		
+252	COMPANION	накъост	nəqʼost	next <>	people	
+253	MATTER (AFFAIR)	гӏуллакх	ɣu͡ʊlːəq			
+254	COUNT (NUMBER)	терахь	terəʜ	tell		
+256	PIECE	юьхк	jyxk	<		
+257	PART	дакъа	də̄qʼə	dec… cut?		
+258	HALF	ах	əx			
+259	CIRCLE	го	ɡō	gyr!		
+260	CROSS	жӏара	ʒʡə̄rə	жӏаross		
+261	LINE	сиз	sɪz			
+262	STROKE (OF PEN)	сиз	sɪz			
+263	GAP	юкъ	juqʼ	juxta-pose?		
+265	AREA	мeттиг	metːɪɡ	metro		
+266	SPACE (FREE)	майда	məɪ̆də	metro		
+267	PLACE (POSITION)	меттиг	metːɪɡ	metro		
+268	SIDE (OF OBJECT)	aгӏo	aɣo	eck,angle?		
+269	MIDDLE	юкъ	juqʼ	junc?		
+270	ITEM (TOUCHABLE)	хӏума	hu͡ʊmə			
+271	THING	хӏума	hu͡ʊmə			
+272	FRINGE	йист	ɪ̆ɪst			
+273	EDGE	йист	ɪ̆ɪst			
+274	CORNER (OUTSIDE)	са	sə	са…		
+275	TIP (OF OBJECT)	ралла	rəlːə	reling?		
+276	END (OF SPACE)	юьхьиг	jyʜɪɡ			
+277	HOLE	ӏуьрг	ʡyrɡ	lurk@loch!		
+278	CORNER	са	sə	са…		
+279	PATTERN	дагар	dəɡər			
+279	PATTERN	тӏамар	tʼəmər	tome:part?		
+280	SIZE (OF OBJECT)	барам	bərəm			
+281	LENGTH	йохалла	ɪ̆ōxəlːə	hoch.elle		
+282	HEIGHT	локхалла	loqəlːə	long.elle		
+283	WEIGHT	йозалла	jozəlːə			
+284	AMOUNT	дукхалла	du͡ʊqəlːə	<		
+285	HEAP	сал	səl			
+285	HEAP	оьла	ø̄lə			
+286	ROW (OF OBJECTS)	рагӏ	rəɣ	rows		
+286	ROW (OF OBJECTS)	могӏа	moɣə			
+287	BOAT	кема	kemə	Kahn		
+288	PADDLE	пийсиг	pɪɪ̆sɪɡ	padd.ig		
+289	SLEDGE	салаз	sələz	sələz!		
+290	SKI	когсалаз	koɡsələz			
+291	CAMPFIRE	цӏе	t͡sʼe	thyssen		
+292	LOAD	дукъ	du͡ʊqʼ			
+293	WALK (TRIP)	лелар	lelər	le.legr		
+294	STEP	гӏулч	ɣu͡ʊlt͡ʃ			
+295	NORTH	къилбаседе	qʼɪlbəsede	kurba.sad	≠süd	
+296	SOUTH	къилбе	qʼɪlbe	kurba		
+297	WEST	малхбузе	məlxbu͡ʊzē	melchior?		
+298	EAST	малхбале	məlxbə̄lē			
+299	WOOD	дечиг	det͡ʃɪɡ	dendro'		
+300	BOARD	у	u͡ʊ			
+301	SLAB	у	u͡ʊ			
+302	SUPPORT (OF OBJECT)	гӏopтоp	ɣoptop			
+303	POLE	гӏуркх	ɣu͡ʊrq			
+304	STICK	ӏаса	ʡəsə			
+305	STAFF	гӏаж	ɣəʒ	Geäst?		
+306	TUBE	биргӏа	bɪrɣə			
+307	HOUSE	цӏа	t͡sʼə	cia		
+308	HOME	кхерч	qert͡ʃ	court		
+309	STOVE	кхерч	qert͡ʃ	herd ^^		
+310	FLOOR	цӏенкъа	t͡sʼenqʼə	𓊃 !		
+311	TABLE	шун	ʃu͡ʊn			
+312	CHAIR	гӏант	ɣənt			
+313	CRADLE	ага	ə̄ɡə	?age < hege	wiege	
+314	BED	маьнга	mænɡə	𓏠		
+315	SHELF	терхи	terxɪ			
+316	BOX	яьшка	jæʃkə			
+317	WINDOW	кор	kor	口 kǒu® kuhle	khole	
+318	DOOR	неӏ	neʡ	--		
+319	GATE	ков	kɔ͡ʊ	kɔ͡ʊte		
+320	FENCE	керт	kert	court		
+321	ROOF	тхов	txɔ͡ʊ	Dach.ob		
+322	LADDER	лами	lə̄mɪ	lamdar		
+323	BROOM	нуй	nu͡ʊɪ̆			
+324	SPADE	бел	bel			
+325	SHOVEL	аьшкал	æʃkəl	shovkel		
+326	FORK	мӏара	mʡə̄rə			
+327	SPOON	ӏайг	ʡəɪ̆ɡ			
+328	KNIFE	урс	u͡ʊrs			
+329	NAIL (TOOL)	хьостам	ʜostəm	osteo		
+330	NET	бой	boɪ̆	boie		
+331	HOOK	мӏара	mʡə̄rə			
+333	LOCK	чӏега	t͡ʃʼeɡə			
+334	PICTURE	сурт	su͡ʊrt			
+336	DOLL	тайниг	təɪ̆nɪɡ			
+337	POUCH	гали	ɡə̄lɪ			
+338	BUNDLE	кочар	kot͡ʃər			
+339	BAG	тӏоьрмиг	tʼørmɪɡ	tornister		
+340	BUCKET	чийлик	t͡ʃɪɪ̆lɪk			
+341	LID (COVER, CAP)	негӏар	neɣər			
+342	DISHWARE	пхьегӏа	pʜeɣə			
+343	SACK	гали	ɡə̄lɪ			
+344	CUP	кад	kəd	cattle кад~cupd		
+345	POT	яй	jəɪ̆	jar		
+346	KETTLE	яй	jəɪ̆	jar		
+347	MEAL	юург	juu͡ʊrɡ	jar, xor		
+348	FOOD	кхача	qət͡ʃə	kaut		
+349	DISH (FOOD)	юург	juu͡ʊrɡ	xor		
+350	MEAT	жижиг	ʒɪʒɪɡ	bashish		
+351	GRAIN	буьртиг	byrtɪɡ			
+352	MUSH	xудар	xu͡ʊdər			
+353	BREAD	бепиг	bepɪɡ	breap		
+353	BREAD	кхаллар	qəlːər			
+354	SLICE	цастар	t͡səstər			
+355	FAT (ORGANIC SUBSTANCE)	мохь	moʜ			
+356	BUTTER	налха	nəlxə			
+357	OIL (ORGANIC SUBSTANCE)	даьтта	dætːə			
+358	SALT	туьха	tyxə	txal		
+359	SOUP	чорпа	t͡ʃorpə	sourpa@LAT!		
+360	HONEY	моз	moz	mielz		
+361	MILK	шура	ʃu͡ʊrə	šir @ ...		
+362	TEA	чай	t͡ʃəɪ̆	chai		
+363	LEATHER	цӏока	t͡sʼōkə	dzor.ka		
+364	WOOL	тӏapгӏa	tʼapɣa	sheep.ɪɡa		
+365	CLOTH	кӏади	kʼədɪ	Kleid		
+366	NEEDLE (FOR SEWING)	маха	mə̄xə			
+367	THREAD	тай	təɪ̆	Tau		
+368	BUTTON	нуьйда	nyɪ̆də	knot ~ knob		
+369	KNOT	шад	ʃəd			
+370	PAINT (PIGMENTS)	сир	sɪr			
+370	PAINT (PIGMENTS)	басар	bəsər			
+371	CLOTHES	бедар	bedər	be.der		
+372	SHIRT	коч	kot͡ʃ	coat		
+373	COLLAR	кач	kət͡ʃ			
+374	SLEEVE	пхьош	pʜoʃ			
+375	TROUSERS	хеча	xet͡ʃə			
+376	BELT	доьхка	døxkə	-		
+377	CAP	куй	ku͡ʊɪ̆	куйp		
+378	SHOE	мача	mət͡ʃə	matsch@…		
+379	BOOT	этка	etkə			
+380	RING	чӏуг	t͡ʃʼu͡ʊɡ	-		
+381	RIBBON	лента	lentə			
+382	COMB	ехк	exk	-		
+383	MIRROR	куьзга	kyzɡə			
+384	STRAP	доьхка	døxkə			
+385	STRING	муш	mu͡ʊʃ			
+386	LEASH	кочатосу доьхка	kot͡ʃətosu͡ʊ døxkə			
+387	BLANKET	юргӏа	jurɣə			
+388	PILLOW	гIайба	ɡiəɪ̆bə			
+389	SCARF	исхар	ɪsxər	ɪscarf		
+390	TOWEL	гата	ɡətə			
+391	FORCE	гӏора	ɣorə	!		
+392	STRENGTH	гӏап	ɣəp	@Geber		
+393	HEALTHY	могашалла	moɡəʃəlːə	?		
+394	DISEASE	цамгар	t͡səmɡər			
+395	PAIN	лазар	ləzər			
+396	WOUND	чов	t͡ʃɔ͡ʊ			
+397	FEVER	xорша	xorʃə	chore:heat?		
+398	MEDICINE	молха	molxə	molke;)		
+399	BRIDGE	тӏай	tʼəɪ̆	tell		
+400	WELL	гӏу	ɣu͡ʊ̄	good		
+401	PASTURE	дак	dək			
+402	PATH	тача	tət͡ʃə	track		
+403	WAY	некъ	neqʼ	weg <> nagar		
+404	ROAD	урам	u͡ʊrəm	ur		
+405	VILLAGE	юрт	jurt	™ < court		
+406	TOWN	гӏала	ɣə̄lə	< kur		
+407	LETTER	кехат	kexət			
+408	BOOK	жайна	ʒəjnə			
+409	CHARACTER	элп	elp			
+410	NEWSPAPER	газет	ɡəzet	gazet		
+411	LIFE	дахар	də̄xər	<<<		
+412	DEATH	далар	dələr	teil ^		
+412	DEATH	ӏожалла	ʡoʒəlːə			
+413	GRAVE	каш	kəʃ	cash <> kursa		
+414	CHURCH	килс	kɪls	килс		
+415	SIN	къа	qʼə			
+416	GOD	дела	dēlə	DEL		
+417	WORKER	белхало	belxəlo	𓅡 𓎡 𓅂		
+418	BOSS	хьаькам	ʜækəm	Hakam™		
+419	MASTER (TRADE)	говзанча	ɡɔ͡ʊzənt͡ʃə			
+420	PHYSICIAN	лор	lor			
+421	TEACHER	хьехархо	ʜexərxo			
+422	MONEY	aхча	axt͡ʃə	argente		
+423	BUSINESS	туька	tykə	tech		
+424	SHOP	туька	tykə			
+425	PRICE	мах	məx	march		
+426	WARE	хlума	xlu͡ʊmə			
+427	BENEFIT	пайда	pəɪ̆də	pro…		
+428	WEALTH	хьал	ʜəl	Heil ʜəlth		
+429	WORLD	дуьне	dyne	<<<		
+430	COUNTRY	мохк	moxk	Mark		
+431	STATE (POLITICS)	пачхьалкх	pət͡ʃʜəlq	patriarch		
+432	KING	паччахь	pət͡ʃːəʜ	pater > boss		
+433	POWER	ӏедал	ʡēdəl	<		
+434	BORDER	доза	dōzə			
+435	WAR	тӏом	tʼom	-		
+436	ENEMY	мостагӏ	mostəɣ			
+437	VIOLENCE	гӏело	ɣelo			
+438	FIGHT	къийсам	qʼɪɪ̆səm			
+440	ARROW	пха	pxə	pfeil		
+441	GUN	топ	top			
+442	MISTAKE	гӏалат	ɣələt	ƒehlet		
+443	UNTRUTH	аьшпаш	æʃpəʃ			
+444	DAMAGE (HARM)	зен	zēn			
+445	BAD LUCK	бала	bə̄lə	bane		
+446	FAULT	бехк	bexk	bad		
+447	AGE	хан	xən	suns		
+448	END (OF TIME)	чакхе	t͡ʃəqe	?		
+449	TIME	хан	xən	sun		
+450	DAY (NOT NIGHT)	де	de	day		
+451	MORNING	ӏуьйре	ʡyɪ̆re			
+452	MIDDAY	делкъе	delqʼe			
+453	EVENING	суьйре	syɪ̆rē			
+454	NIGHT	буьйса	byːsə	?		
+455	WEEK	кӏира	kʼɪrə	3 circ		
+456	MONTH	бутт	bu͡ʊtː			
+457	YEAR	шо	ʃo	sun		
+458	SPRINGTIME	бӏаьсте	bʡæstē			
+459	SUMMER	аьхке	æxkē			
+460	AUTUMN	гуьйре	ɡyːre			
+461	WINTER	ӏа	ʡə			
+462	JANUARY	январь	jənvərʲ			
+463	FEBRUARY	февраль	fevrəlʲ			
+464	MARCH	март	mərt			
+465	APRIL	апрель	əprelʲ			
+466	MAY	май	məj			
+467	JUNE	июнь	ɪjunʲ			
+468	JULY	июль	ɪjulʲ			
+469	AUGUST	август	əvɡu͡ʊst			
+470	SEPTEMBER	сентябрь	sentjəbrʲ			
+471	OCTOBER	октябрь	oktjəbrʲ			
+472	NOVEMBER	ноябрь	nojəbrʲ			
+473	DECEMBER	декабрь	dekəbrʲ			
+474	MONDAY	оршот	orʃot	erst 1		
+475	TUESDAY	шинара	ʃɪnərə	zwiner 2		
+476	WEDNESDAY	кхаара	qəərə	qhir 3		
+477	THURSDAY	еара	eərə	feərə 4		
+478	FRIDAY	пӏераска	pʼerəskə	pʼerə 5		
+479	SATURDAY	шот	ʃot	шот 6 satur 7		
+480	SUNDAY	кӏиранде	kʼɪrənde	кӏира-Ende		
+481	BIG	доккха	doqːə	darg		
+482	SMALL	кегий	keɡɪɪ̆	kück		
+483	LONG	еха	exə	exa extra		
+484	SHORT	доца	dōt͡sə	?		
+485	WIDE	шуьйра	ʃyɪ̆rə	<		
+486	NARROW	готта	ɡotːə			
+487	DENSE	луьста	lystə			
+488	THICK	стомма	stomːə	stämmig		
+489	THIN (OF SHAPE OF OBJECT)	дуткъа	du͡ʊtqʼə			
+490	FINE OR THIN	ховха	xɔ͡ʊxə			
+491	SOLID	чӏогӏа	t͡ʃʼōɣə			
+492	FLAT	чӏапа	t͡ʃʼəpə	≠ deep		
+493	SMOOTH	шера	ʃērə			
+494	HARD	чӏогӏa	t͡ʃʼoɣa			
+495	SOFT	кӏеда	kʼedə			
+496	ROUND	горга	ɡorɡə	circ! gyroge		
+497	POINTED	ира	ɪrə			
+498	SHARP	ира	ɪrə			
+499	BLUNT	аьртa	ærta			
+500	HEAVY	деза	dezə			
+501	BEAUTIFUL	хаза	xəzə	ⲥⲁⲓⲉ		
+502	HOT	довха	dɔ͡ʊxə			
+503	WARM	довха	dɔ͡ʊxə	Dusche		
+504	COLD	шийла	ʃɪɪ̆lə	chill		
+505	COOL	шийла	ʃɪɪ̆lə	chill		
+506	FRESH	керла	kerlə	√kur > chill		
+507	DAMP	тӏуьна	tʼynə	тӏуьна ~ Dampf		
+508	WET	тӏеда	tʼēdə	-- twet		
+509	DRY	eкъа	eqʼə			
+510	FULL	дуьзна	dyznə			
+511	EMPTY	яьсса	jæsːə			
+512	OPEN (OF DOOR)	диллина	dɪlːɪnə	diele		
+513	CLOSED	дӏакъевлина	dʡəqʼevlɪnə	des¬…?		
+513	CLOSED	дӏачӏагӏдина	dʡət͡ʃʼəɣdɪnə			
+514	CLEAN	цӏена	t͡sʼenə	цӏена ~ cleana		
+515	DIRTY	боьха	bø̄xə			
+516	RAW	буьйда	byɪ̆də	bad		
+517	RIPE	хилла	xɪlːə			
+518	TASTY	чоме	t͡ʃōmē	sense		
+519	SWEET	мерза	merzə	<		
+520	BITTER	къаьхьа	qʼæʜə			
+521	SOUR	муьста	mystə			
+522	BRIGHT	сирла	sɪrlə	sara / sola		
+523	DARK	бодане	bodəne	<		
+524	BLACK	ӏаьржа	ʡærʒə	ʡærʒə schwärze		
+525	WHITE	кӏайн	kʼəjn	Kain vs Alba		
+526	RED	цӏен	t͡sʼēn	--?		
+527	YELLOW	можа	mōʒə	--?		
+528	BLUE	сийна	sɪɪ̆nə	--?		
+529	GREEN	баьццара	bæt͡sːərə	--?		
+530	GREY	cира	cɪrə	cɪrəy		
+530	GREY	мокха	moqə	mocca		
+531	COLORFUL	къорза	qʼorzə	<		
+532	CHEAP	дораха	dōrəxə			
+533	EXPENSIVE	деза	dezə			
+534	PRECIOUS	мехала	mexələ	much		
+535	BLIND	бӏаьрзе	bʡærze			
+536	DEAF	къора	qʼorə	¬ohr		
+537	POWERFUL	нуьцкъала	nyt͡sqʼələ	𓈖𓈎 <> mighty		
+538	STRONG	зоьртала	zørtələ	>durat		
+538	STRONG	нуьцкъала	nyt͡sqʼələ			
+539	WEAK	гӏорасиза	ɣorəsɪzə			
+540	FAT (OBESE)	дерстана	derstənə			
+541	THIN (SLIM)	куц долу	ku͡ʊt͡s dolu͡ʊ			
+542	GOOD-LOOKING	хаза	xəzə			
+543	EVIL	вон	vōn	Ba.on		
+544	STUPID	сонта	sontə	¬sense		
+545	LAZY	мало ен	məlō en			
+546	DILIGENT	тӏера	tʼerə			
+547	STINGY	пис	pɪs			
+547	STINGY	сутара	su͡ʊtərə			
+548	CLEVER	хьекъале	ʜeqʼəle	helle;)		
+549	DEXTEROUS	тӏахъаьлла	tʼəxʔælːə			
+550	DEAR	хьоме	ʜōmē	homy		
+551	MERRY	самукъане	səmu͡ʊqʼənē			
+552	GENTLE	кlеда	kledə	~		
+553	BE HUNGRY	меца	met͡sə	@meat		
+554	SICK	цомгуш долу	t͡somɡu͡ʊʃ dolu͡ʊ	sense dull		
+555	NAKED	дерзана	derzənə	darb		
+556	SAD	самукъане воцу	səmu͡ʊqʼəne vot͡su͡ʊ	??		
+557	LIVING	дийна	dɪɪ̆nə	divankh	<<	
+558	GOOD	дика	dɪkə	d-g / good		
+559	BAD	вон	von	vain, ba.on		
+560	CORRECT (RIGHT)	нийса	nɪɪ̆sə	--		
+561	SEVERE	вон	von			
+562	TRUE	бакъдолу	bəqʼdolu͡ʊ			
+563	OLD (USED)	къена	qʼenə	<<		
+564	NEW	керла	kerlə	<		
+565	FORMER	хилла	xɪlːə			
+566	OLD (AGED)	къена	qʼenə			
+567	YOUNG	къона	qʼōnə			
+568	POOR	къен	qʼēn			
+569	RICH	хьоле	ʜōle			
+570	FAMILIAR	девзаш долу	devzəʃ dolu͡ʊ			
+571	FAME	цӏеяхана	t͡sʼejəxənə			
+572	FOREIGN	нехан	nexən			
+573	DIFFERENT	тайп-тайпанара	təɪ̆p-təɪ̆pənərə			
+574	NEAR	гергара	ɡerɡərə	circa		
+575	FAR	гена	ɡenə	gone		
+575	FAR	генара	ɡenərə			
+576	LEFT	аьрру	ærːu͡ʊ̄			
+577	RIGHT	аьтту	ætːu͡ʊ			
+578	OTHER	кхин	qɪn	ky	quelqun	
+579	FIRST	хьалхара	ʜəlxərə			
+580	SECOND	шолгIа	ʃolɡiə	folge		
+581	THIRD	кхоалгӏа	qoəlɣə			
+582	LAST (FINAL)	тӏаьххьара	tʼæʜːərə			
+583	ALONE	цхьаъ	t͡sʜəʔ	 		
+584	ALL AT ONCE	цу сохьтта	t͡su͡ʊ soʜtːə			
+585	TOGETHER	цхьана	t͡sʜənə	t'syn!		
+586	FOR A LONG TIME	дукха	du͡ʊqə	dur.que		
+587	SUDDENLY	цIеххьана	t͡sieʜːənə	~		
+588	INSTANTLY	цу сохьтта	t͡su͡ʊ soʜtːə			
+589	LATER	тӏаьхьо	tʼæʜo			
+590	NOW	хӏинца	hɪnt͡sə	heutse		
+591	TODAY	тахана	təxənə	te.sun		
+592	TOMORROW	кхана	qə̄nə	güne	(young sun)	
+593	SOON	кеста	kestə			
+594	THEN	тӏаккха	tʼəqːə	then.que		
+595	YESTERDAY	селхана	selxənə	sol.sun		
+596	ONCE (IN THE PAST)	цкъа	t͡sqʼə			
+597	AT THAT TIME	хӏетахьь	hetəʜʲ	then		
+598	AFTERWARDS	тӏаккха	tʼəqːə			
+599	BEFORE	хьалхa	ʜəlxa			
+600	AT FIRST	хьалха	ʜəlxə			
+601	ONE TIME	цкъа	t͡sqʼə			
+602	SOMETIMES	цкъаццкъа	t͡sqʼət͡sːqʼə			
+603	OFTEN	кест-кеста	kest-kestə	<3		
+604	ALWAYS	даим	də̄ɪm			
+605	NEVER	цкъа а	t͡sqʼə ə			
+606	HERE	кхузахь	qu͡ʊzəʜ	qvo.ze	<<	
+607	HITHER	кхуза	qu͡ʊzə			
+608	HENCE	кхузара	qu͡ʊzərə			
+609	THERE	цигахь	t͡sɪɡəʜ	therg		
+610	THITHER	цига	t͡sɪɡə	therg		
+611	AHEAD	нийса дӏа	nɪɪ̆sə dʡə			
+612	FORWARD	хьалха	ʜəlxə̄			
+613	BACKWARD	юха	juxə	juxta?		
+614	BACK (DIRECTION)	юха	juxə			
+615	DOWN OR BELOW	лахахь	ləxəʜ			
+616	DOWN	охьа	oʜə	un'e		
+617	ABOVE	лакхахь	ləqəʜ			
+618	UP	хьала	ʜələ	hel! ili		
+619	EVERYWHERE	массанхьа	məsːənʜə̄	mucha ante		
+620	NOT	ца	t͡sə	---- (n)ikke @ FIN		
+621	A LITTLE	кӏеззиг	kʼezːɪɡ	klitzig		
+622	HARDLY	халла	xəlːə	kaulm		
+623	VERY	вуно	vu͡ʊno	verny		
+625	STILL	кхин	qɪn	quie.t/n		
+626	ONLY	бен ...ца	ben ...t͡sə			
+627	ALREADY	хӏинцале	hɪnt͡səle			
+628	AGAIN	юха а	juxə ə			
+629	IN VAIN	эрна	ernə			
+630	IN FRONT OF	хьалха	ʜəlxə			
+631	BEHIND	тӏехьа	tʼeʜə			
+632	BELOW OR UNDER	кIелахь	kieləʜ			
+633	THROUGH	чекх	t͡ʃeq			
+634	NEXT TO	юххе	juxːē	iuxta		
+635	BETWEEN	юккъехь	jukːʔeʜ	iuxta		
+636	BECAUSE OF	дуьхьа	dyʜə	denn		
+637	THIS	и	ɪ	a		
+637	THIS	иза	ɪzə	'is		
+638	THAT	и	ɪ			
+638	THAT	иза	ɪzə			
+639	ALL	дерриг	derːɪɡ	der>cer>cal		
+640	I	cо	co	i.go		
+641	THOU	хьо	ʜo	'ou		
+642	HE OR SHE OR IT	и	ɪ	he		
+642	HE OR SHE OR IT	иза	ɪzə	ze,iz		
+643	WE	тхо	txo	--		
+643	WE	вай	vəɪ̆	wei		
+644	YOU	шу	ʃu͡ʊ	syou		
+645	THEY	уьш	yʃ			
+646	WHAT	хӏун	hu͡ʊn	quon		
+647	WHO	мила	mɪlə	mi		
+648	WHERE	мичaхь	mɪt͡ʃaʜ	mi		
+649	WHITHER	мича	mɪt͡ʃə	mi		
+650	HOW	муха	mu͡ʊ̄xə	mi		
+651	WHY	хӏунда	hu͡ʊndə	mi		
+652	HOW MUCH	мел	mel	mi		
+652	HOW MUCH	маса	məsə	mi		
+653	ONE	цхьаъ	t͡sʜəʔ			
+654	TWO	шиъ	ʃɪʔ	seen		
+655	THREE	кхоъ	qoʔ	qoree		
+656	FOUR	диъ	dɪʔ	ditra		
+657	FIVE	пхиъ	pxɪʔ	pjenj		
+658	SIX	ялх	jəlx	selx		
+659	SEVEN	ворхӏ	vor̥	---		
+660	EIGHT	бархӏ	bər̥	ba!		
+661	NINE	исс	ɪsː			
+662	TEN	итт, йтта	ɪtː	nt/tn/tē		
+663	ELEVEN	цхьайтта	t͡sʜəɪ̆tːə			
+664	TWELVE	шийтта	ʃɪɪ̆tːə			
+665	TWENTY	ткъа	tqʼə			
+666	THIRTY	ткъе итт	tqʼe ɪtː			
+667	FORTY	шовзткъа	ʃɔ͡ʊztqʼə			
+668	FIFTY	шовзткъе итт	ʃɔ͡ʊztqʼe ɪtː			
+669	SIXTY	кхузткъа	qu͡ʊztqʼə			
+670	SEVENTY	кхузткъе итт	qu͡ʊztqʼe ɪtː			
+671	EIGHTY	дезткъа	deztqʼə			
+672	NINETY	дезткъе итт	deztqʼe ɪtː			
+673	HUNDRED	бӏе	bʡe	bai		
+674	THOUSAND	эзар	ezər	ashur		
+675	AND	a	a	a.		
+676	OR	я	jə	oя		
+677	STAND	латта	lətːə	latte;)		
+678	SIT	хиъна ӏан	xɪʔnə ʡən	xin ezen		
+679	LIE (REST)	ӏилла	ʡɪlːə	hin lii		
+680	HANG	кхаза	qə̄zə			
+681	BECOME	хила	xɪlə			
+682	HAPPEN	хила	xɪlə			
+683	START	доло	dōlo			
+684	CEASE	дӏадерза	dʡəderzə			
+685	CHANGE (BECOME DIFFERENT)	хийца	xɪɪ̆t͡sə	xhanцe		
+686	RISE (MOVE UPWARDS)	кхета	qetə			
+687	SET (HEAVENLY BODIES)	чубуза	t͡ʃu͡ʊbu͡ʊzə			
+688	SHINE	серло яла	serlo jələ	sahrla		
+689	THUNDER (VERB)	къекъа	qʼēqʼə			
+690	BLOW (OF WIND)	хьекха	ʜēqə			
+691	FLOW (OF RIVER)	эха	exə			
+692	FLOW	охьаэха	oʜəexə			
+693	REVOLVE	хьийза	ʜɪɪ̆zə			
+694	SWAY	леста	lestə			
+695	SWING (MOVEMENT)	лесто	lestō			
+696	FALL	охьакхета	oʜəqetə			
+697	BURNING	дага	də̄ɡə			
+698	SMOKE (EMIT SMOKE)	оза	ōzə			
+699	RAIN (RAINING)	догlа догlу	doɡlə doɡlu͡ʊ			
+700	FREEZE	гӏоро	ɣoro	kor		
+701	THAW	даша	dəʃə	dtauша		
+702	MELT	лала	lələ			
+703	DRY UP	дакъо	dəqʼo	droqno		
+704	BOIL (OF LIQUID)	кхехка	qexkə			
+705	SPOIL (BECOME SPOILED)	дахкадала	dəxkədələ			
+706	DECAY	дахкадала	dəxkədələ	~~!!		
+707	SNAP (INTO BITS)	хеда	xedə			
+708	SINK (IN WATER)	хичудаха	xɪt͡ʃu͡ʊdəxə			
+709	PASS	дlаэха	dləexə			
+710	APPEAR	схьадала	sʜədələ			
+710	APPEAR	ӏоттадала	ʡotːədələ			
+711	DISAPPEAR	къайладала	qʼəɪ̆lədə̄lə			
+712	DROP (MOVEMENT)	лахдала	ləxdələ			
+714	INCREASE	лакхадала	ləqədələ			
+715	RISE (MOVEMENT)	хьаладала	ʜələdələ			
+716	GROW	кхиа	qɪə			
+717	SHINE (OF METAL)	лепа	lēpə			
+718	TWINKLE	къега	qʼēɡə			
+719	BE NOISY	гӏовгӏаян	ɣɔ͡ʊɣəjən			
+720	CHIME	детта	detːə			
+721	RING (SIGNAL)	дека	dekə			
+722	TINKLE	дека	dekə			
+723	ROAR (OF SEA)	хьаьдда даха	ʜædːə dəxə			
+724	RUSTLE (OF LEAVES)	леста	lestə			
+725	SOUND (OF INSTRUMENT)	дека	dēkə			
+726	BARKING	лета	lētə			
+727	HOWL	угӏа	u͡ʊɣə			
+728	BLOW (WITH MOUTH)	хӏуп баха	hu͡ʊp bəxə			
+729	WHISTLE	шок етта	ʃok etːə			
+730	SHOUT	мохь бетта	moʜ betːə			
+731	GROAN	узарш дан	u͡ʊzərʃ dən			
+732	TREMBLE	дега	dēɡə			
+733	BE ALIVE	даха	dəxə			
+734	BE BORN	хила	xɪlə			
+735	BREATHE	садеӏа	sədēʡə			
+736	DRINK	мала	mələ			
+737	EAT	кхалла	qəlːə			
+738	SWALLOW	къурдбан	qʼu͡ʊrdbən			
+739	GET TIRED	кӏаддала	kʼədːələ			
+740	FALL ASLEEP	наб кхета	nəb qētə			
+741	SLEEP	вижа	vɪʒə			
+741	SLEEP	наб ян	nəb jən			
+741	SLEEP	дижина хила	dɪʒɪnə xɪlə			
+742	WAKE UP	самадала	səmədələ			
+743	ARISE (FROM SLEEP)	гӏатта	ɣətːə			
+744	REST	садаӏа	sədəʡə			
+745	BECOME SICK	цомгуш хила	t͡somɡu͡ʊʃ xɪlə			
+746	BE ILL	цомгуш хила	t͡somɡu͡ʊʃ xɪlə			
+747	ACHE	лаза	ləzə			
+747	ACHE	ӏийжа	ʡɪɪ̆ʒə			
+748	COUGH	йовхарш етта	ɪ̆ɔ͡ʊxərʃ etːə			
+749	RECOVER	тадала	tədələ			
+750	DIE	дала	dələ			
+751	PERISH (OF HUMAN)	хӏаллакхила	həlːəqɪlə			
+752	MOVE (OF PERSON)	лела	lēlə			
+753	BUDGE	меттахъхьен	metːəxʔʜen			
+754	STAND UP	хьалагlатта	ʜələɡlətːə			
+755	SIT DOWN	хаа	xəə			
+756	TUMBLE	дожа	doʒə			
+756	TUMBLE	охьакхета	oʜəqetə			
+757	WALK	вада	vədə			
+757	WALK	хьада	ʜədə			
+758	STEP (VERB)	болар дан	bolər dən			
+758	STEP (VERB)	ког баккха	koɡ bəqːə			
+759	TAKE A WALK	доладала	dolədələ			
+760	MOVE IN HASTE	сихдала	sɪxdələ			
+761	HURRY UP	сихдала	sɪxdələ			
+763	RUN	дада	dədə			
+764	JUMP	ирхкхийсадала	ɪrxqɪɪ̆sədələ			
+765	CLIMB	тӏедийла	tʼedɪɪ̆lə			
+766	SEESAW (ACTION)	техко	texko			
+767	CRAWL	такха	təqə			
+768	SWIM	некадан	nekədən			
+769	DIVE	чулелха	t͡ʃu͡ʊlelxə			
+770	ROW	дига лело	dɪɡə lēlō			
+770	ROW	кема лело	kēmə lēlō			
+771	DRIVE	хахка	xəxkə			
+772	FLY (MOVE THROUGH AIR)	тӏемадала	tʼemədələ			
+773	GO	лeла	lelə			
+774	LEAVE	дӏадаха	dʡədəxə			
+775	DEPART	дӏадаха	dʡədəxə			
+776	STOP (OF MOVEMENT)	саца	sət͡sə			
+777	GO INSIDE	чудала	t͡ʃu͡ʊdələ			
+778	ENTER	чудала	t͡ʃu͡ʊdə̄lə			
+779	COME	кхача	qət͡ʃə			
+779	COME	дӏакхача	dʡəqət͡ʃə			
+779	COME	схьакхача	sʜəqət͡ʃə			
+780	ARRIVE	кхача	qət͡ʃə			
+780	ARRIVE	схьакхача	sʜəqət͡ʃə			
+781	COME BACK	юхада	juxədə̄			
+782	REMAIN	диса	dɪsə			
+783	WAIT (FOR)	хьежа	ʜēʒə			
+783	WAIT (FOR)	cобар дан	cobər dən			
+784	AWAIT	хьоьжуш ӏан	ʜø̄ʒu͡ʊʃ ʡən			
+785	LOOK FOR	леха	lēxə			
+786	FIND	каро	kəro			
+787	TRY	дан хьажа	dən ʜəʒə			
+788	PREPARE	кечъян	ket͡ʃʔjən			
+789	LOVE	деза	dēzə			
+790	LIKE	безамхила	bezəmxɪlə			
+791	LAUGH	дела	delə			
+792	MOVE EMOTIONALLY	хьедан	ʜedən			
+793	CRY	делха	delxə			
+794	GRUMBLE	чехо	t͡ʃexo			
+795	BE ANNOYED	оьгӏазъэха	øɣəzʔexə			
+796	BE AFRAID	кхера	qērə			
+797	FEAR (BE AFRAID)	кхера	qērə			
+798	FLEE	дӏадада	dʡədədə			
+799	ESCAPE	дӏадада	dʡədədə			
+800	SEE	ган	ɡən			
+801	LOOK	хьажа	ʜəʒə			
+801	LOOK	хьежа	ʜeʒə			
+802	WATCH	хьовса	ʜɔ͡ʊsə			
+803	HEAR	хаза	xəzə			
+804	LISTEN	ладогӏа	lədoɣə			
+805	TASTE (SOMETHING)	хьажа	ʜəʒə			
+806	SMELL (PERCEIVE)	хьожа яха	ʜoʒə jə̄xə			
+807	FEEL (TACTUALLY)	хаадала	xəədələ			
+808	SEEM	мотта	motːə			
+809	VISIBLE	гуш хила	ɡu͡ʊʃ xɪlə			
+810	HEAR (INFORMATION)	бартхатта	bərtxətːə			
+811	SHIVER	гӏоро	ɣoro			
+812	DO	дан	dən			
+813	BE ABLE	дадала	dədələ			
+814	WANT	тӏергӏа	tʼerɣə			
+815	BEGIN	доло	dōlo			
+816	FINISH	довла	dɔ͡ʊlə			
+817	STOP (OF ACTIVITY)	саца	sət͡sə			
+818	SUCCEED	кадала	kədələ			
+819	RESULT IN	хила	xɪlə			
+820	OPEN	дӏаделла	dʡədelːə			
+820	OPEN	схьаделла	sʜədelːə			
+821	SHUT	къовла	qʼɔ͡ʊlə			
+821	SHUT	дӏачӏагӏа	dʡət͡ʃʼə̄ɣə			
+822	PUT	хlотто	xlotːo			
+823	CAUSE TO SIT	дийгӏа	diːɣə			
+824	LAY (VERB)	охьадилла	oʜədɪlːə			
+825	TOUCH	хьедан	ʜedən			
+826	CONNECT	вовшахтаса	vɔ͡ʊʃəxtəsə			
+827	COVER	тилла	tɪlːə			
+827	COVER	тӏетаса	tʼetəsə			
+828	HANG UP	хьалаолла	ʜələolːə			
+829	LIGHT (IGNITE)	лато	lətō			
+830	PICK UP	айа	əɪ̆ə			
+831	LEAVE (SOMETHING)	дита	dɪtə			
+832	LOSE (SOMETHING)	дайа	dəjə			
+833	DROP (SOMETHING)	охьадожо	oʜədoʒo			
+834	MAKE	дан	dən			
+835	PRODUCE	дан	dən			
+836	BUILD	гӏишлоян	ɣɪʃlojən			
+837	REPAIR	тадан	tədən			
+838	IMPROVE (SOMETHING)	нисдан	nɪsdən			
+839	CHANGE	хийца	xiːt͡sə			
+840	DIG	ахка	əxkə			
+841	BEND	сатто	sətːo			
+842	BEND (SOMETHING)	сатто	sətːo			
+843	TURN (SOMETHING)	хьовзо	ʜɔ͡ʊzo			
+845	TURN AROUND (SOMETHING)	хьовзo	ʜɔ͡ʊzo			
+846	RAISE	айа	əɪ̆ə			
+846	RAISE	хьалаайа	ʜələəɪ̆ə			
+847	LIFT	хьалаайа	ʜələəɪ̆ə			
+848	GRASP	дӏалаца	dʡələt͡sə			
+849	HOLD	латто	lətːō			
+850	PRESS	тӏетаӏо	tʼetəʡo			
+851	PUSH	татта	tətːə			
+852	SCRAPE	мӏараш тийса	mʡərəʃ tɪɪ̆sə			
+853	LICK	мотт хьекха	motː ʜēqə			
+854	BITE	катoха	kətoxə			
+855	TEAR (SHRED)	схьадаккха	sʜədəqːə			
+856	CUT OFF	кхада	qədə			
+857	TIE	дӏадехка	dʡədexkə			
+857	TIE	вовшахтаса	vɔ͡ʊʃəxtəsə			
+858	STICK (SOMETHING)	чудахийта	t͡ʃu͡ʊdə̄xɪɪ̆tə			
+859	BREAK (DESTROY OR GET DESTROYED)	кагдан	kəɡdən			
+860	KNOCK	детта	detːə			
+861	HIT	етта	etːə			
+862	GLUE (SOMETHING)	тӏелато	tʼeləto			
+863	RUB	хьекхо	ʜeqo			
+864	SPREAD (SOMETHING)	тlехьакха	tleʜəqə			
+865	SHARPEN (SOMETHING)	ирдан	ɪrdən			
+866	CUT	ларга	lərɡə			
+867	JOG	лесто	lesto			
+868	SHAKE	лесто	lesto			
+869	SWING (SOMETHING)	лесто	lestō			
+870	POUR	дотта	dotːə			
+871	FILL	дуза	du͡ʊzə			
+872	WRAP	хьарчо	ʜərt͡ʃo			
+873	CARRY	дахьа	dəʜə			
+874	DRAG	ийзо	iːzo			
+875	PULL	озо	ozo			
+876	KEEP	ӏалашдан	ʡələʃdən			
+877	THROW	кхосса	qosːə			
+878	CATCH	леца	lēt͡sə			
+879	GRAB (SOMETHING)	леца	lēt͡sə			
+880	HIDE (CONCEAL)	къайладаккха	qʼəɪ̆lədəqːə			
+881	DIVIDE	декъа	deqʼə			
+882	SEND	дӏадахьийта	dʡədəʜiːtə			
+883	BRING	дан	dən			
+884	ADD	тӏетоха	tʼetōxə			
+885	GET	даккха	dəqːə			
+886	RECEIVE	даккха	dəqːə			
+887	TAKE	схьаэца	sʜəet͡sə			
+888	CHOOSE	харжа	xərʒə			
+889	SELECT	харжа	xərʒə			
+890	PRESERVE	lалашдан	lələʃdən			
+891	HINDER	новкъарло ян	nɔ͡ʊqʼərlo jən			
+892	SPOIL (SOMEBODY OR SOMETHING)	талхо	təlxo			
+893	DAMAGE	дохо	doxo			
+894	BREAK (CLEAVE)	дохо	doxo			
+894	BREAK (CLEAVE)	кагдан	kəɡdən			
+895	SHRED	хадо	xədo			
+896	DESTROY	дохо	doxo			
+896	DESTROY	кагдан	kəɡdən			
+897	BURN (SOMETHING)	даго	dəɡo			
+898	GIVE	яла	jələ			
+899	PASS (SOMETHING)	дӏадала	dʡədələ			
+899	PASS (SOMETHING)	дӏакховдо	dʡəqɔ͡ʊdo			
+900	DONATE	совгӏат дан	sɔ͡ʊɣət dən			
+901	PROMISE	ваӏда дан	vəʡdə dən			
+902	WISH (SOMEONE SOMETHING)	лаа	ləə			
+903	PRAISE	хасто	xəsto			
+904	KISS	оба яккха	obə jəqːə			
+905	ROCK (A CHILD)	тахка	təxkə			
+906	COVER (A CHILD)	тӏетаса	tʼetəsə			
+907	WAKE	самадаккха	səmədəqːə			
+908	SHOW	гайта	ɡəɪ̆tə			
+909	GUIDE (TO DESTINATION)	дига	dɪɡə			
+910	TEACH	ӏамо	ʡəmo			
+911	INSTRUCT	хьеха	ʜexə			
+912	RAISE (A CHILD)	кхио	qɪō			
+913	LEAD (GUIDE)	урхалла дан	u͡ʊrxəlːə dən			
+914	URGE (SOMEONE)	сихдан	sɪxdən			
+915	CAUSE SOMEONE TO	-йта	-ɪ̆tə			
+916	INVITE	кхайкха	qəɪ̆qə			
+917	JOIN	цхьаьнатоха	t͡sʜænətoxə			
+918	VISIT	хьажахIотта	ʜəʒəxiotːə			
+919	ENCOUNTER	дуьхьалкхета	dyʜəlqetə			
+920	MEET	гулдан	ɡu͡ʊldən			
+921	PLAY	ловза	lɔ͡ʊzə			
+922	SING	лакха	ləqə			
+923	DANCE	хелхадала	xelxədələ			
+924	PART WAYS	къаста	qʼəstə			
+925	LEAVE (SOMEONE)	дита	dɪtə			
+926	RESCUE	кӏелхьардаккха	kʼelʜərdəqːə			
+927	GUARD (SOMEONE)	ха дан	xə dən			
+928	PROTECT	лардан	lərdən			
+929	DEFEND	лардан	lərdən			
+930	BRAWL	етта	etːə			
+931	SHOOT	детта	detːə			
+932	WIN	тола	tolə			
+933	ANNOY	оьгӏаздахийта	øɣəzdəxɪɪ̆tə			
+934	BEAT	тоха	toxə			
+935	KICK	мийра тоха	mɪɪ̆rə toxə			
+936	STING	ӏотта	ʡotːə			
+936	STING	къовзо	qʼɔ͡ʊzo			
+937	SHOVE (SOMEONE)	татта	tətːə			
+938	STEAL	лачкъо	lət͡ʃqʼo			
+939	DISTURB (SOMEONE)	новкъарло ян	nɔ͡ʊqʼərlo jən			
+940	BOTHER	сагатдан	səɡətdən			
+941	CONCEAL	къайладаккха	qʼəjlədəqːə			
+942	DECEIVE	ӏexo	ʡexo			
+943	BETRAY	ледан	ledən			
+944	KILL	ден	den			
+945	DWELL (LIVE, RESIDE)	даха	də̄xə			
+946	WORK (ACTIVITY)	къахьега	qʼəʜeɡə			
+947	GATHER	гулдан	ɡu͡ʊldən			
+948	PICK	даха	dəxə			
+949	HUNT	талла	təlːə			
+950	CATCH FISH	чӏерий леца	t͡ʃʼerɪɪ̆ let͡sə			
+951	CATCH (AN ANIMAL)	лаца	lət͡sə			
+951	CATCH (AN ANIMAL)	схьалаца	sʜələt͡sə			
+952	HERD (CATTLE)	лардан	lərdən			
+953	DRIVE (CATTLE)	лахка	ləxkə			
+954	TIE UP	дӏадехка	dʡədexkə			
+955	FEED	хӏума яла	hu͡ʊmə jələ			
+956	DRAW MILK	оза	ōzə			
+958	WATER (A PLANT)	хи тоха	xɪ toxə			
+959	RIPEN	хьекъа	ʜeqʼə			
+960	COOK (SOMETHING)	кечъян	ket͡ʃʔjən			
+960	COOK (SOMETHING)	кхача бан	qət͡ʃə bən			
+961	BOIL (SOMETHING)	кхача бан	qət͡ʃə bən			
+962	BAKE	датта	dətːə			
+963	FRY	кхарза	qərzə			
+964	STIR (SOMETHING)	кего	keɡo			
+966	SEW	тега	teɡə			
+967	DYE	басардан	bəsərdən			
+968	CLEAN (SOMETHING)	цӏандан	t͡sʼəndən			
+969	WASH	йила	jɪlə			
+969	WASH	йитта	jɪtːə			
+969	WASH	дӏадайа	dʡədəɪ̆ə			
+970	WIPE	дӏадайа	dʡədəjə			
+971	RINSE	хи кхарза	xɪ qərzə			
+972	SWEEP	нуй хьакха	nu͡ʊɪ̆ ʜəqə			
+973	SWEEP (SOMETHING)	нуй хьакха	nu͡ʊɪ̆ ʜəqə			
+974	BATHE	лийча	lɪɪ̆t͡ʃə			
+975	WASH (ONESELF)	юьхь йила	jyʜ ɪ̆ɪlə			
+976	TAKE OFF	духар дӏадаккха	du͡ʊxər dʡədəqːə			
+978	DRESS UP	духа	du͡ʊ̄xə			
+979	COMB (VERB)	ехк хьакха	exk ʜəqə			
+980	DECORATE	хаздан	xəzdən			
+981	SAY	ала	ələ			
+982	SPEAK	баха	bəxə	s'preche		
+982	SPEAK	мотт бийца	motː bɪɪ̆t͡sə			
+983	TALK (TO SOMEONE)	къамел дан	qʼəmel dən			
+984	CHAT (ACTIVITY)	къамел дан	qʼəmel dən			
+985	ASK (INQUIRE)	хатта	xətːə			
+986	ASK (REQUEST)	деха	dexə			
+987	TELL	дийца	dɪɪ̆t͡sə			
+988	CONVEY (A MESSAGE)	хаам бан	xəəm bən			
+989	CALL BY NAME	цӏе яккха	t͡sʼe jəqːə			
+990	CALL	кхайкха	qəjqə			
+991	BOAST	куралла ян	ku͡ʊrəlːə jən			
+991	BOAST	дозалла дан	dozəlːə dən			
+992	TRANSLATE	гоч дан	ɡot͡ʃ dən			
+993	THINK (REFLECT)	ойла ян	oɪ̆lə jən			
+994	BELIEVE	теша	tēʃə			
+995	NOTICE	ган	ɡən			
+996	RECOGNIZE	довза	dɔ͡ʊzə			
+997	UNDERSTAND	кхета	qetə			
+998	UNDERSTAND (ACOUSTICALLY)	кхета	qetə			
+999	LEARN	деша	deʃə	teache		
+1000	KNOW (SOMETHING)	хаа	xəə	kaa		
+1001	REMEMBER	дагадан	dəɡədən			
+1002	FORGET	дицдала	dɪt͡sdələ			
+1003	MEASURE	дуста	du͡ʊstə			
+1004	COUNT	дагардан	dəɡərdən			
+1005	CALCULATE	лара	lərə	lehre		
+1006	READ	еша	eʃə			
+1007	PAINTING	сурт дилла	su͡ʊrt dɪlːə			
+1008	DRAW (WITH PEN)	сурт дилла	su͡ʊrt dɪlːə			
+1009	WRITE	яздан	jəzdən			
+1010	OWN	доладан	dolədən			
+1011	BUY	эца	et͡sə			
+1012	SELL	дохка	doxkə			
+1013	PAY FOR	мах бала	məx bələ	march …		
+1014	PAY	мах бала	məx bələ	make payl		
+1015	RULE	собаре хила	sobəre xɪlə			
+1016	ENDURE	лан	lən	long		
+1016	ENDURE	сатоха	sətoxə	sit		
+1016	ENDURE	садетта	sədetːə			
