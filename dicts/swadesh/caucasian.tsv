@@ -912,21 +912,21 @@
 880	HIDE (CONCEAL)	къайладаккха	qʼəɪ̆lədəqːə			
 881	DIVIDE	декъа	deqʼə			
 882	SEND	дӏадахьийта	dʡədəʜiːtə			
-883	BRING	дан	dən			
-884	ADD	тӏетоха	tʼetōxə			
-885	GET	даккха	dəqːə			
-886	RECEIVE	даккха	dəqːə			
+883	BRING	дан	dən	don		
+884	ADD	тӏетоха	tʼetōxə	√total		
+885	GET	даккха	dəqːə	take		
+886	RECEIVE	даккха	dəqːə	take		
 887	TAKE	схьаэца	sʜəet͡sə			
-888	CHOOSE	харжа	xərʒə			
-889	SELECT	харжа	xərʒə			
+888	CHOOSE	харжа	xərʒə	cherche		
+889	SELECT	харжа	xərʒə	cherche		
 890	PRESERVE	lалашдан	lələʃdən			
 891	HINDER	новкъарло ян	nɔ͡ʊqʼərlo jən			
 892	SPOIL (SOMEBODY OR SOMETHING)	талхо	təlxo			
-893	DAMAGE	дохо	doxo			
+893	DAMAGE	дохо	doxo	dox ;)		
 894	BREAK (CLEAVE)	дохо	doxo			
 894	BREAK (CLEAVE)	кагдан	kəɡdən			
 895	SHRED	хадо	xədo			
-896	DESTROY	дохо	doxo			
+896	DESTROY	дохо	doxo	~		
 896	DESTROY	кагдан	kəɡdən			
 897	BURN (SOMETHING)	даго	dəɡo			
 898	GIVE	яла	jələ			
@@ -936,57 +936,57 @@
 901	PROMISE	ваӏда дан	vəʡdə dən			
 902	WISH (SOMEONE SOMETHING)	лаа	ləə			
 903	PRAISE	хасто	xəsto			
-904	KISS	оба яккха	obə jəqːə			
+904	KISS	оба яккха	obə jəqːə	lip jux		
 905	ROCK (A CHILD)	тахка	təxkə			
 906	COVER (A CHILD)	тӏетаса	tʼetəsə			
 907	WAKE	самадаккха	səmədəqːə			
 908	SHOW	гайта	ɡəɪ̆tə			
 909	GUIDE (TO DESTINATION)	дига	dɪɡə			
-910	TEACH	ӏамо	ʡəmo			
-911	INSTRUCT	хьеха	ʜexə			
+910	TEACH	ӏамо	ʡəmo	llamo		
+911	INSTRUCT	хьеха	ʜexə	hexer < teacher		
 912	RAISE (A CHILD)	кхио	qɪō			
 913	LEAD (GUIDE)	урхалла дан	u͡ʊrxəlːə dən			
 914	URGE (SOMEONE)	сихдан	sɪxdən			
 915	CAUSE SOMEONE TO	-йта	-ɪ̆tə			
-916	INVITE	кхайкха	qəɪ̆qə			
+916	INVITE	кхайкха	qəɪ̆qə	gueste		
 917	JOIN	цхьаьнатоха	t͡sʜænətoxə			
 918	VISIT	хьажахIотта	ʜəʒəxiotːə			
 919	ENCOUNTER	дуьхьалкхета	dyʜəlqetə			
-920	MEET	гулдан	ɡu͡ʊldən			
-921	PLAY	ловза	lɔ͡ʊzə			
-922	SING	лакха	ləqə			
+920	MEET	гулдан	ɡu͡ʊldən	gather <>		
+921	PLAY	ловза	lɔ͡ʊzə	leisure		
+922	SING	лакха	ləqə	lark		
 923	DANCE	хелхадала	xelxədələ			
-924	PART WAYS	къаста	qʼəstə			
-925	LEAVE (SOMEONE)	дита	dɪtə			
+924	PART WAYS	къаста	qʼəstə	asta la vista		
+925	LEAVE (SOMEONE)	дита	dɪtə	--		
 926	RESCUE	кӏелхьардаккха	kʼelʜərdəqːə			
 927	GUARD (SOMEONE)	ха дан	xə dən			
-928	PROTECT	лардан	lərdən			
-929	DEFEND	лардан	lərdən			
+928	PROTECT	лардан	lərdən	l'warden <> lord		
+929	DEFEND	лардан	lərdən	l'warden		
 930	BRAWL	етта	etːə			
-931	SHOOT	детта	detːə			
-932	WIN	тола	tolə			
+931	SHOOT	детта	detːə	dshetta		
+932	WIN	тола	tolə	≠Teil		
 933	ANNOY	оьгӏаздахийта	øɣəzdəxɪɪ̆tə			
 934	BEAT	тоха	toxə			
 935	KICK	мийра тоха	mɪɪ̆rə toxə			
-936	STING	ӏотта	ʡotːə			
+936	STING	ӏотта	ʡotːə	iotta!		
 936	STING	къовзо	qʼɔ͡ʊzo			
 937	SHOVE (SOMEONE)	татта	tətːə			
-938	STEAL	лачкъо	lət͡ʃqʼo			
+938	STEAL	лачкъо	lət͡ʃqʼo	√let		
 939	DISTURB (SOMEONE)	новкъарло ян	nɔ͡ʊqʼərlo jən			
 940	BOTHER	сагатдан	səɡətdən			
 941	CONCEAL	къайладаккха	qʼəjlədəqːə			
 942	DECEIVE	ӏexo	ʡexo			
-943	BETRAY	ледан	ledən			
-944	KILL	ден	den			
+943	BETRAY	ледан	ledən	ver.leiten		
+944	KILL	ден	den	tue.ten		
 945	DWELL (LIVE, RESIDE)	даха	də̄xə			
 946	WORK (ACTIVITY)	къахьега	qʼəʜeɡə			
-947	GATHER	гулдан	ɡu͡ʊldən			
+947	GATHER	гулдан	ɡu͡ʊldən	gathr.tun		
 948	PICK	даха	dəxə			
-949	HUNT	талла	təlːə			
-950	CATCH FISH	чӏерий леца	t͡ʃʼerɪɪ̆ let͡sə			
-951	CATCH (AN ANIMAL)	лаца	lət͡sə			
+949	HUNT	талла	təlːə	jagt | tagl -- wtf		
+950	CATCH FISH	чӏерий леца	t͡ʃʼerɪɪ̆ let͡sə	pseri …:		
+951	CATCH (AN ANIMAL)	лаца	lət͡sə	lasso l'fetch		
 951	CATCH (AN ANIMAL)	схьалаца	sʜələt͡sə			
-952	HERD (CATTLE)	лардан	lərdən			
+952	HERD (CATTLE)	лардан	lərdən	l'herden		
 953	DRIVE (CATTLE)	лахка	ləxkə			
 954	TIE UP	дӏадехка	dʡədexkə			
 955	FEED	хӏума яла	hu͡ʊmə jələ			
@@ -1009,31 +1009,31 @@
 971	RINSE	хи кхарза	xɪ qərzə			
 972	SWEEP	нуй хьакха	nu͡ʊɪ̆ ʜəqə			
 973	SWEEP (SOMETHING)	нуй хьакха	nu͡ʊɪ̆ ʜəqə			
-974	BATHE	лийча	lɪɪ̆t͡ʃə			
+974	BATHE	лийча	lɪɪ̆t͡ʃə	wash		
 975	WASH (ONESELF)	юьхь йила	jyʜ ɪ̆ɪlə			
 976	TAKE OFF	духар дӏадаккха	du͡ʊxər dʡədəqːə			
-978	DRESS UP	духа	du͡ʊ̄xə			
-979	COMB (VERB)	ехк хьакха	exk ʜəqə			
+978	DRESS UP	духа	du͡ʊ̄xə	drex		
+979	COMB (VERB)	ехк хьакха	exk ʜəqə	1 hexa		
 980	DECORATE	хаздан	xəzdən			
 981	SAY	ала	ələ			
 982	SPEAK	баха	bəxə	s'preche		
-982	SPEAK	мотт бийца	motː bɪɪ̆t͡sə			
-983	TALK (TO SOMEONE)	къамел дан	qʼəmel dən			
+982	SPEAK	мотт бийца	motː bɪɪ̆t͡sə	mot bəxə 		
+983	TALK (TO SOMEONE)	къамел дан	qʼəmel dən	camel tun		
 984	CHAT (ACTIVITY)	къамел дан	qʼəmel dən			
 985	ASK (INQUIRE)	хатта	xətːə			
 986	ASK (REQUEST)	деха	dexə			
-987	TELL	дийца	dɪɪ̆t͡sə			
-988	CONVEY (A MESSAGE)	хаам бан	xəəm bən			
+987	TELL	дийца	dɪɪ̆t͡sə	dice		
+988	CONVEY (A MESSAGE)	хаам бан	xəəm bən	con ben		
 989	CALL BY NAME	цӏе яккха	t͡sʼe jəqːə			
-990	CALL	кхайкха	qəjqə			
+990	CALL	кхайкха	qəjqə	qalqe		
 991	BOAST	куралла ян	ku͡ʊrəlːə jən			
 991	BOAST	дозалла дан	dozəlːə dən			
-992	TRANSLATE	гоч дан	ɡot͡ʃ dən			
+992	TRANSLATE	гоч дан	ɡot͡ʃ dən	gothen		
 993	THINK (REFLECT)	ойла ян	oɪ̆lə jən			
-994	BELIEVE	теша	tēʃə			
+994	BELIEVE	теша	tēʃə	denk		
 995	NOTICE	ган	ɡən			
 996	RECOGNIZE	довза	dɔ͡ʊzə			
-997	UNDERSTAND	кхета	qetə			
+997	UNDERSTAND	кхета	qetə	get-it		
 998	UNDERSTAND (ACOUSTICALLY)	кхета	qetə			
 999	LEARN	деша	deʃə	teache		
 1000	KNOW (SOMETHING)	хаа	xəə	kaa		
