@@ -515,11 +515,18 @@
 50	worm	𓆓 𓂧 𓆑 𓏏𓆙		snake,  worm		
 50	worm	𓎛 𓆑 𓏏𓆙		intestinal worm		
 50	worm	𓏏𓍔 𓄿 𓅓 𓏲 𓆙		worm, bane	tampered	
+51	tree	𓍲𓈖𓆭		tree	dendron	
+51	tree	𓏙 𓈎		fruit, fruit-tree	terek درخت‎ daraxt tree!  𓂧 𓈎 𓂋 𓂷 𓈒 𓏥 daqr dattel	
+51	tree	𓂧 𓈎 𓂋 𓂷 𓈒 𓏥		fruit, fruit-trees		
+51	tree	𓅡 𓈎 𓆭		tree 		
+51	tree	𓆭 𓅓 𓆭		a tree	木的 мод mod  > wood   𓆱𓏏𓏤	
+51	tree	𓆭 𓅓 𓆭		a tree	demdro <> dendron	
+51	tree	𓆭 𓅓 𓆭		a tree	Baum (bi.ambi) abr / tanne?	
+51	tree	𓈎 𓃀 𓆭		tree 	carbaum > carbon	
+51	tree	𓈎 𓃀 𓆭		tree 	girbush > giš kirsch	
 51	tree	𓆱 𓏤 𓈖𓁸		a type of tree	~Esche? Esunit?	
 51	tree	𓂋 𓂧 𓇟 𓏤		shoot 	rieser Riecher  / root ⇔ / shajara : tree Ind syajrat, Per shajare, Tur secere / ⇔ segge	
 51	tree	𓄥 𓄿 𓅱𓆱 𓏥		branches 	Samen	
-51	tree	𓅡 𓈎 𓆭		tree 		
-51	tree	𓆭 𓅓 𓆭		a tree	Baum (bi.ambi) abr / tanne?	
 51	tree	𓆱 𓏏𓏤		wood, timber, tree, woodland, mast, stick, pole, rod 		
 51	tree	𓆱 𓏏𓏤 𓃀 𓈖𓂋 𓇋𓇜 𓏜		fruit tree		
 51	tree	𓆱 𓏤 𓈖𓁸		a type of tree	~Esche?	
@@ -536,8 +543,6 @@
 51	tree	𓇋𓌳 𓆭		a type of tree	?← / ima vs Ished tree	
 51	tree	𓇛 𓅓 𓆭		carob tree ?		
 51	tree	𓇛 𓆮		carob tree ?		
-51	tree	𓈎 𓃀 𓆭		tree 	carbaum > carbon	
-51	tree	𓈎 𓃀 𓆭		tree 	girbush > giš kirsch	
 51	tree	𓈖𓉔 𓏏𓆭		sycamore tree, tree 	@nature na.tree	
 51	tree	𓈖𓉔 𓏮 𓌴 𓁹 𓄿 𓄿 𓈒 𓏥		pomegranate 		
 51	tree	𓈙 𓈖𓆓 𓏏		Nile acacia tree		
@@ -546,19 +551,20 @@
 51	tree	𓍘 𓀼 𓆱		Cinnamon, a tree,  spice ?		
 51	tree	𓍲 𓈖𓂧 𓏏𓆭		Nile acacia tree		
 51	tree	𓍲 𓈖𓆓 𓏏𓆭		Nile acacia tree		
-51	tree	𓍲 𓈖𓆭		tree	Rinde?	
-51	tree	𓏙 𓈎		fruit, fruit - tree	pit➙fruit ? / da.tel Dattel? old / ¬ juniper	
-52	forest	𓏠 𓏌 𓏌 𓏌 𓆮		trees, plantation		
+52	forest	𓏠 𓏌 𓏌 𓏌 𓆭 𓆭 𓆭		trees, plantation	many trees [[3]]  	
+52	forest	𓏠 𓏌 𓏌 𓏌 𓆮		trees, plantation	many ≠ menagerie	
+52	forest	𓏠 𓏌 𓏌 𓏌 𓆮		trees, plantation	𓏠=play => 𓏠𓏌𓏌𓏌 planar plantation	
 53	stick	𓂝 𓅓 𓂝 𓄿 𓌚		throw the throw - stick	oomerang	
 53	stick	𓂝 𓅓 𓂝 𓄿 𓏏𓌚		throw - stick		
-53	stick	𓂝 𓅓 𓄿 𓏏𓏐		throw-stick	←⇔>>>>>>>>>>>>>>>>>>>>>>>	
+53	stick	𓂝 𓅓 𓄿 𓏏𓏐		throw-stick	armat	
 53	stick	𓆱 𓏏𓏤		wood, timber, tree, woodland, mast, stick, pole, rod 		
 53	stick	𓈙 𓅓 𓇋𓇋𓏏𓆱		walking - stick	Semit / Schmitt / gambit / schfrit - stick / Schritt - stock / ⇔ mesziah = marschier	
 53	stick	𓍿𓃹 𓈖𓂡		gore , stick 		
-53	stick	𓏠 𓈖𓏛		be fixed, stick fast , be attached , remain , dwell , be vested 		
-54	fruit	𓂋 𓂋		fruit ++ ← fart veairt		
-54	fruit	𓂧 𓈎 𓂋 𓂷 𓈒 𓏥		fruit, fruit - trees	cheir.quer ➙ Kirsche ? cheir.quer = Hand.hoch! / chaqara ⇔ / shajara : tree Ind syajrat, Per shajare, Tur secere / quer ⇔ gir: giraffe, grow ! +++ ← / sigra : zirkade? Zikade / ←?>	
-54	fruit	𓂧 𓏇 𓇋𓊳		 fruit dish	damir ➙ thamar @AR +++	
+53	stick	𓏠 𓈖𓏛		remain , be fixed, stick fast , be attached , dwell , be vested 	(re)main PIE *men- (“to stay, stand still”)	
+54	fruit	𓂋 𓂋		fruit 	𐌰𐌺𐍂𐌰𐌽 akran	
+54	fruit	𓂋 𓂋		fruit 	bi.ru / cer.bi 𐂓  𐀏𐀡 ka-po  ნაყოფი na.q̇opi	
+54	fruit	𓂧 𓈎 𓂋 𓂷 𓈒 𓏥		fruit, fruit - trees	cheir.quer καρπός m (karpós) ➙ Kirsche  과일 gwail  𒄃 GILIM 	
+54	fruit	𓂧 𓏇 𓇋𓊳		fruit dish	damir ➙ thamar @AR +++	
 54	fruit	𓆱 𓏏𓏤 𓃀 𓈖𓂋 𓇋𓇜 𓏜		fruit tree		
 54	fruit	𓇋𓆛 𓈖𓉔 𓅓 𓂝 𓈖𓏮 𓆭		pomegranate 	linen hofron !! ⇔ safran ! ← ++-?++ >>	
 54	fruit	𓇋𓈖𓉔 𓏠 𓆭		pomegranate 		
@@ -574,10 +580,8 @@
 54	fruit	𓏙 𓈎		fruit, fruit - tree	pit➙fruit ? / da.tel Dattel? old / ¬ juniper	
 55	seed	𓂸 𓏏𓏲 𓏏𓂺 𓏥		semen, seed, progeny, poison, ill- will	penith-uter / penis-outer ⇔ Eiter  / penith-ut-essence / susar@Persia! ⇔ essence Soße!	
 55	seed	𓄝 𓏏𓇋𓇋𓏏𓂺 𓏥		seed, posterity	seed	
-55	seed	𓅓 𓅓 𓇋𓈒 𓈒 𓈒		seed - corn		
-55	seed	𓅓 𓅓 𓇋𓈒 𓈒 𓈒		seed - corn		
-55	seed	𓅓 𓅓 𓇋𓈒 𓏥		seed corn of emmer ?		
-55	seed	𓅓 𓅓 𓇋𓈒 𓏥		seed corn of emmer ?	EMMER! / ←VS>	
+55	seed	𓅓 𓅓 𓇋𓈒 𓈒 𓈒		seed - corn	emmer <> mêre	
+55	seed	𓅓 𓅓 𓇋𓈒 𓏥		seed corn of emmer ?	EMMER	
 55	seed	𓅓 𓅓 𓈒 𓈒 𓈒		seed - corn		
 55	seed	𓅓 𓅓 𓈒 𓈒 𓈒		seed corn of emmer ?	emmer!	
 55	seed	𓅓 𓅓 𓈒 𓈒 𓈒		seed - corn		
