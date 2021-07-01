@@ -5,3 +5,7 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:pannous/hieros.wiki.git
+[submodule "swadesh"]
+	path = swadesh
+	url = https://github.com/pannous/swadesh/
+	branch = master
