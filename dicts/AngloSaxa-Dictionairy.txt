@@ -225,6 +225,7 @@ Farbe		verve,verbum [aspect,quality] <->worth,word, ver-ben "fair-bäh" ;) "very
 Fieber		fever febris(tremble) =>ferveō(hot,burn,boil) fear φέβο phobie viver↔liver vibrate! bibbern↔ viper wippen
 Floh    𓊪 𓇋 𓇋 𓏯||a flea|pheal  flea ++ pulz pulga  бълха́ bǎlhá ... +++ PIE *bʰlus<>Laus Flus-Krebs? 
 fluorescence		floresce Flower!
+Flower 	花 <> flake (e.g. 雪	花)
 Feuer		ferveō(hot,burn,boil)	=> fear, Fieber, vive
 fork    <*pirouc ~ piroun@Greek > pilic > vilic@Slav <?> vidlec *cutlec? catal@turk  VS GARB>Gabel,garfo@portu garfork?
 food		victuals = vitals provisions <> video vita(live)
