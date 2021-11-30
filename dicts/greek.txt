@@ -11909,10 +11909,10 @@ kautoma  : 口 kǒu+toma red-slice <<<<<<<<<
 <> Solveig?
 
 3650 ὅλ.ος    all, the whole, entire
-ὅlic    holo.s  whole ™
+ὅlic    holo.s  whole™ Alles
 
 3651 ὁλοτελής    perfect, complete
-ὁlοτεlėς    wholo.teles
+ὁlοτεlėς    whole.Teiles
 
 3652 Ὀλυμπᾶς, ᾶ     Olympas
 šὀlυmƥᾶς    solumpas <> Sol
@@ -12508,7 +12508,7 @@ PAN = ALL
 ƥαnοικi    pan.οiki   pan.ökumene
 
 3833 πανοπλία complete armor
-ƥαnοƥliα    pan.οplia
+ƥαnοƥliα    panοplia
 
 3834 πανουργία cunning, craftiness
 ƥαnουrγiα    pan.οyrgia
