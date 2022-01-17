@@ -46,6 +46,8 @@ z	Ϣ	ⲱ	800	zhŌuez?	Ω, ω	ō / o [oː] ß SS SCH SWAmp 𓆷  𐦓 Letter 'SvA
 P	Ⳁ	ⳁ	900 pZet? *PRoTaus? :
 𓍶 Ⲁ ⲁ 1000 Omega/Alef/EIN Tausend
 
+J Ⳕ ⳕ jō special character of Maryan Coptic (ⲙⲩⲧⲭⲏⲙⲉ) yy<>L
+
 Ϫ CM/MC
 
 j	Ϫ	ϫ	ʒ Janjan 'jI'	(none)	j / dzh [dʒ]	Mdj!	vs Ⲑ	ⲑ	9	Thēta  Ϭ
@@ -700,8 +702,8 @@ apodexic ↔ apodeixic - proof
 ⲙⲉⲧⲣⲉϥⲁⲣⲉϩ 	 f. watchfulness meta.reϥ.ape
 
 ⲁⲣⲏⲃ , ⲉⲣⲏⲃ , ⲣⲏⲃ 	 	m. pledge,deposit (of money) ↔ ERBE!
- ⲁⲣⲏⲟⲩ 	 	adv. perhaps, ifeb/l ar/ou adv. except
- ⲁⲣⲏⲟⲩ , ⲉⲣⲏⲟⲩ 	 	nn mf. mostly w/poss. prfx agreeing in gender and mostlyin number w/ the subject of the clausefellow, companion; each other, together,mutually
+ ⲁⲣⲏⲟⲩ 	 	adv. perhaps, adv. except, if eb/l ar/ou 
+ ⲁⲣⲏⲟⲩ , ⲉⲣⲏⲟⲩ 	 	fellow, companion; each other, together,mutually (nn mf. mostly w/poss. prfx agreeing in gender and mostlyin number w/ the subject of the clause)
 
 ⲁⲣⲓⲑⲙⲟⲥ , -ⲟⲩ 	 🇬🇷 m. number, arith-metic; numbers (biblical book)
 ⲁⲣⲓⲑⲙⲟⲩ ↔ ⲁⲣⲓⲑⲙⲟⲥ 	 number  arith-metic a'rhytmos
@@ -1979,7 +1981,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲉⲥⲕⲓ ↔ ⲱⲥⲕ 	 delay
 ⲉⲥⲱⲟⲩ 	 	m. (mostly as pl.) sheep  equos!?!
 ⲙⲁⲛⲉⲥⲱⲟⲩ	 m. shepherd  MAN'o'Schaf ~ ⲉ'ⲥⲱⲟⲩ ?
-ⲉⲧ- , ⲉⲑ- , ⲉⲧⲉ- 	 	relative prfx. 'who,which is`  (t)hat
+ⲉⲧ- , ⲉⲑ- , ⲉⲧⲉ- 	 	relative prfx. 'who, which is`  (t)hat
 ⲉⲧⲉϣⲓ ↔  ⲉⲧⲏϣⲓ 	 crane
 ⲉⲧⲏⲙⲁ ↔ ⲁⲓⲧⲏⲙⲁ 	 request
  ⲉⲧⲏϣⲓ	 	f. rust, mildew
@@ -2776,7 +2778,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲕⲉⲟⲩⲁⲓ 	 adj. another
 ⲕⲉ- +ⲇⲉϥ ⲁⲣⲧ.	 also, even
 ⲭⲉⲧ , ϥ. ⲭⲉϯ 	 m. another
- + ⲁⲣⲧ ⲟⲣ ⲇⲉⲙⲟⲛϣⲧ.	 the other, thisother
+ + ⲁⲣⲧ ⲟⲣ ⲇⲉⲙⲟⲛϣⲧ.	 the other, this other
 ⲕⲉ ↔ ⲕⲁⲓ 	 and
 ⲕⲉⲃⲓ ↔  ⲕⲏⲃⲓ 	 honey cake
 ⲕⲉⲇⲣⲓⲥ , ⲕⲉⲧⲣⲓ 	 🇬🇷 f. fruit of syrianceder
@@ -3281,7 +3283,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲗⲟⲭ⳼ ↔ ⲗⲟⲩⲭ 	 to bite
 ⲗⲟⲭ (q) ↔ ⲗⲟⲩⲭ 	 to be pierced
 ⲗⲟⲡϣ (q) ↔  ⲗⲱⲃϣ 	 to be hot
-ⲗⲟⲩⲕ 	 	m. cheek or corner ofmouth
+ⲗⲟⲩⲕ 	 	m. cheek or corner of mouth
 ⲗⲟⲩⲕⲗⲁⲕ 	 	adj. bad, wicked
 ⲗⲟⲩⲕⲟϫⲓ 	 	a coin 'solidus`
 ⲗⲟⲩⲗⲱⲟⲩ ↔ ϩⲗⲟⲩⲗⲱⲟⲩ 	 to beexalted
@@ -3460,7 +3462,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲙⲉⲧⲙⲁⲧⲟⲓ 	 f. soldiery, warfare
  ⲙⲁⲩ 	 	n. the place there;mmau 
 ⲉⲃⲟⲗ ⲙⲙⲁⲩ 	 adv. thence
-ⲉⲧⲉⲙⲙⲁⲩ 	 who, which istheredemonst. that
+ⲉⲧⲉⲙⲙⲁⲩ 	 who, which is there demonst. that
 ⲣⲉⲙⲙⲙⲁⲩ 	 m. lit. man who is there,native
 ⲉⲙⲁⲩ 	 adv. thither
  ⲙⲁⲩ 	 	f. mother
@@ -3673,7 +3675,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲙⲏⲥⲓⲱϯ ↔ ⲙⲓⲥⲓ 	 womb
 ⲙⲏⲧ , ϥ. ⲙⲏϯ ⲑ ⲙⲉⲧ- , ⲙⲏⲧ- 	 	thenumeral ⲯ10`
 ⲙⲏⲧ	 ↔ m/t 
-ⲙⲏⲧⲓ 	 🇬🇷 adv. used after vbs of fear ordoubt; in direct questions with do orto be
+ⲙⲏⲧⲓ 	 🇬🇷 adv. used after vbs of fear or doubt; in direct questions with do or to be
 ⲙⲏⲧⲓⲍⲉ 	 conj. let alone, much less, notto mention
 ⲙⲏⲧⲓⲍⲉ ↔ ⲙⲏⲧⲓ 	 let alone
 ⲙⲏⲧⲣⲁ 	 🇬🇷 f. womb
@@ -4174,8 +4176,8 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ϣⲁⲡⲓⲛⲁⲩ 	 up to the hour
 ⲓⲥϫⲉⲛ ⲫⲛⲁⲩ 	 from the hour
 ⲓⲥϫⲉⲛ ⲡⲁⲓⲛⲁⲩ 	 henceforth
-ⲛⲑⲛⲁⲩ 	 interr. when?
-ϣⲁⲑⲛⲁⲩ 	 interr. until when?
+ⲛⲑⲛⲁⲩ 	 interr. when?    𓅯𓅯 <> 𓏏𓈖𓏮𓌙𓅯 𓈐
+ϣⲁⲑⲛⲁⲩ 	 interr. until when?  𓐍𓏏𓆑
 ⲛⲁⲩⲃⲉⲛ 	 	pl. footsteps
 ⲛⲁⲩⲓ , ⲛⲁⲃⲓ , ⲛⲁϩⲃⲓ 	 	m. spear,javelin, spike
 ⲛⲁⲩⲕⲗⲏⲣⲟⲥ 	 🇬🇷 m. ship-owner andmerchant, sailing master; captain, com-mander
@@ -4304,7 +4306,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲛⲑⲱⲟⲩ 	 pers pron. 3rd pers pl. they
 ⲛⲓⲃⲉⲛ 	 	adj. every
 ⲛⲓⲃⲓ ↔ ⲛⲏⲃⲓ 	 to swim
-ⲛⲓⲙ 	 	interrog pron. who ?, what?so
+ⲛⲓⲙ 	 	interrog pron. who ?, what? so
 ⲡⲁⲛⲓⲙ , ⲧⲁⲛⲓⲙ 	 belonging to whom
 ⲛⲓⲡⲓ ↔ ⲛⲏⲃⲓ 	 to swim
 ⲛⲓϣϯ , ⲛⲟϫ , ⲛⲟⲩϫ 	 	adj. great,large <> GOD
@@ -4409,7 +4411,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲛⲟⲩⲕⲉⲣ 	 	prick, incise of
 ⲩⲛⲣⲓⲡⲉ ϣⲑⲥⲁⲙⲟⲣⲉ	figs
  	 n. incision of this fruit
-ⲛⲟⲩⲛ 	 	m. abyss of hell, depth ofearth or sea
+ⲛⲟⲩⲛ 	 	m. abyss of hell, depth of earth or sea
 ⲛⲟⲩⲛⲓ 	 	f. root
 ⲣⲉⲧⲛⲟⲩⲛⲓ 	 put forth root
 ϭⲉ ⲛⲟⲩⲛⲓ 	 take root
@@ -4552,8 +4554,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲉⲣⲛⲉϣⲧⲉ 	 become hard
 ⲛϩⲓ	 ↔ hi 
 ⲛϩⲣⲏⲓ ↔ ϩⲣⲏⲓ 	 above
-ⲛϩⲟⲩⲣ , ⲉⲛϩⲟⲩⲣ 	 	tremblecause to tremble, be terrible
- 	 n. shuddering, fear
+ⲛϩⲟⲩⲣ , ⲉⲛϩⲟⲩⲣ 	 	tremble, cause to tremble, be terrible n. shuddering, fear
 ⲁⲧⲛϩⲟⲩⲣ 	 adj. unshakable, immovable
 ⲛϫⲉ 	 	part. preceding nominal subjectin the verbal sentence; occurs morefrequently in texts translated from greek.x
 ⲭ 	 the 14th letter of the coptic alphabet
@@ -5061,9 +5062,9 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲁⲑⲣⲱϥ 	 adj. mouthless,wnrw=, ,a
 ⲛⲣⲱ⳼ 	 toplace, leave mouth, be silent
  ⲉ- 	 be silent toward,about
- ⲉⲡϣⲱⲓ 	 open mouthupward, lift up voice
+ ⲉⲡϣⲱⲓ 	 open mouth upward, lift up voice
 ⲭⲁ ⲣⲱϥ 	 n. silence
-ⲁⲧⲭⲁ ⲣⲱ⳼ 	 adj. without leavingmouth shut, never silent
+ⲁⲧⲭⲁ ⲣⲱ⳼ 	 adj. without leaving mouth shut, never silent
 ϯ ⲣⲱ⳼ 	 give mouth, word,promise
 ⲟⲩⲱⲛ ⲛⲣⲱ⳼ 	 open mouth
 ϭⲓ ⲣⲱ⳼ 	 deprive, prevent,anticipate
@@ -5075,7 +5076,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲧⲉⲣⲉ- 	 m. part, fraction
 ⲉⲣⲱ⳼ 	 prep. to mouth of; to upon(mostly with verbs of motion
 ϧⲁⲣⲉⲛ	,
-ϧⲁⲣⲱ⳼ 	 prep. undermouth of; beneath, before
+ϧⲁⲣⲱ⳼ 	 prep. under mouth of; beneath, before
 ϩⲓⲣⲉⲛ- , ϩⲓⲣⲱ⳼ 	 prep. at mouth, doorof; at, upon
 ⲉⲃⲟⲗ ϩⲓⲣⲉⲛ- 	 from before
  ⲣⲟ 	 	m. strand, ply of cord
@@ -5153,7 +5154,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ϥⲁⲓⲣⲱⲟⲩϣ 	 n. care-taker, guar-dian
  ϧⲁ 	 taking thought for
 ⲙⲉⲧϥⲁⲓⲣⲱⲟⲩϣ 	 f. care, provi-dence
-ⲁⲧⲣⲱⲟⲩϣ 	 adj. care-free, not liablealways with er-
+ⲁⲧⲣⲱⲟⲩϣ 	 adj. care-free, not liable always with er-
 ⲣⲱⲥ ↔ ⲣⲱⲓⲥ 	 to watch
 ⲣⲱⲧ , ⲣⲉⲧ	 , rot= , r/t (q), p.c. rat	i. grow, sprout, becovered with a growth as vegetation orhair
  ⲉⲃⲟⲗ 	 grow forth
