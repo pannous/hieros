@@ -6894,15 +6894,15 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲙⲙⲟⲛ ⲟⲩⲟⲛ 	 there is not one, any
 ⲟⲩⲟⲛ ⲛⲥⲁ ⲟⲩⲟⲛ 	 one after another
 ⲟⲩⲟⲛⲧⲁ⳼ ↔  ⲟⲩⲟⲛ 	 to have
-ⲟⲩⲟⲛⲧⲉ	 ↔  ouon 
+ⲟⲩⲟⲛⲧⲉ	 ↔  ouon   ??? >>>
 ⲟⲩⲟⲛϩ⳼ ↔ ⲟⲩⲱⲛϩ 	 to reveal
 ⲟⲩⲟⲛϩ (q) ↔ ⲟⲩⲱⲛϩ 	 to be revealed
 ⲟⲩⲟⲛϩϥ 	 	m. manager
-ⲟⲩⲟⲣⲡ	 ↔ ouwrp 
+ⲟⲩⲟⲣⲡ	 ↔ ouwrp  ??? >>>
 ⲟⲩⲟⲣⲡ⳼ ↔ ⲟⲩⲱⲣⲡ 	 to send
 ⲟⲩⲟⲥⲉⲣ , ⲃⲟⲥⲉⲣ 	 	m. oar
 ⲟⲩⲟⲥⲑⲉⲛ , ⲟⲩⲉⲥⲑⲉⲛ	 , ouecywn= ; (q)
-ⲟⲩⲉⲥⲑⲱⲛ , ⲃⲉⲥⲑⲱⲛ 	 	vi. tobecome, make broad; broaden
+ⲟⲩⲉⲥⲑⲱⲛ , ⲃⲉⲥⲑⲱⲛ 	 	vi. to become, make broad; broaden
  	 m. breadth
  ⲉⲃⲟⲗ 	 be broad, wellprovided; enlarge
 ⲟⲩⲟⲧ ↔ ⲟⲩⲱϯ 	 it is different
@@ -8198,8 +8198,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ϣⲓ ⲛⲛⲟϩⲉⲃ ↔ ⲛⲟϩⲉⲃ 	 shoulder measure
 ϣⲓⲁⲓ , (q) ϣⲏⲟⲩ 	 	be long
  	 m. length
-ϣⲓⲏ 	 f. length
- 	be long, grow
+ϣⲓⲏ 	 f. length, be long, grow
 ϣⲓⲃϯ 	 	change
  ⲉϩⲣⲏⲓ 	 change upon
  ⲛⲧⲉⲛ 	 change through;--- ebol qen 
