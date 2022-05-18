@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 exec=require('child_process').execSync
 const runes = require('runes') // for split chars…
-require('/me/dev/js/extensions.js')()
+require('/Users/me/dev/js/extensions.js')()
 
 maps={
 	deutsch:{A:"A",B:"B",C:"C",D:"D",E:"E",F:"F",G:"G",H:"H",I:"I",J:"J",K:"K",L:"L",M:"M",N:"N",O:"O",P:"P",Q:"Q",R:"R",S:"S",T:"T",U:"U",V:"V",W:"W",X:"X",Y:"Y",Z:"Z","TH":"TH",SH:"SH","ß":"ß",GH:"GH",TSH:"TSH",TZ:"TZ","DH":"DH",DZ:"DZ",DJ:"DJ",PS:"PS",EI:"EI"},
-arabic:{A:"ا",AO:"أ",B:"ب",C:"چ",D:"د",bdι:"ض",ιE:"ه",e:"ە",EA:"ة",UA:"ؤ",AH:"ة‎‎",ee:"يي",F:"ف",G:"ق",Gh:"ﺝ",h:"ح",H:"ح",KH:"خ",I:"إ",i:"ِ",_i:"ّ",H:"ي",JA:"جو",K:"ك",Ł:"ل",M:"م",N:"ن",on:"ی",OU:"و",Æ:"ع",pP:"قq?",PH:"ف",phth:"ث",FTH:"ϑ",Q:"ق",R:"ر",Ra:"پ",S:"س",s:"ص",SH:"ش",sch:"ش",PTι:"ت",U:"و'",V:"ڤ",W:"ﻭ'",X:"—",Y:"ي",Z:"ﺯ",z:"ز",TH:"ظ",Æ:"ع",DH:"ذ",_:"رِ",__:"ِ",DZι:"ج",vd:"ظ",Z:"ذ","TH":"ط",a_:"ښ",Uh:"ئ",uH:"ۇ",gar:"غ",oñ:"آ",_h:"ک",a:"َ",ah:"ى"},// M as mN:"م" ι
-
+arabic:{A:"ا",AO:"أ",B:"ب",C:"چ",D:"د",bdι:"ض",ιE:"ه",e:"ە",EA:"ة",UA:"ؤ",AH:"ة",ė:"ې",ee:"يي",F:"ف",G:"ق",Gh:"ﺝ",h:"ح",H:"ح",KH:"خ",I:"إ",i:"ِ",_i:"ّ",H:"ي",JA:"جو",K:"ك",Ł:"ل",M:"م",N:"ن",on:"ی",OU:"و",Æ:"ع",pP:"قq?",PH:"ف",phth:"ث",FTH:"ϑ",Q:"ق",R:"ر",Ra:"پ",S:"س",s:"ص",SH:"ش",sch:"ش",PTι:"ت",U:"و'",V:"ڤ",W:"ﻭ'",X:"—",Y:"ي",Z:"ﺯ",z:"ز",TH:"ظ",Æ:"ع",DH:"ذ",_:"رِ",__:"ِ",DZι:"ج",vd:"ظ",Z:"ذ","TH":"ط",a_:"ښ",Uh:"ئ",uH:"ۇ",gar:"غ",oñ:"آ",_h:"ک",a:"َ",ah:"ى"},// M as mN:"م" ι
+assamese:{k:'ক', kh:'খ', ɡ:'গ', ɡh:'ঘ', ng:'ঙ', s:'চ', s:'ছ', z:'জ', z:'ঝ', n:'ঞ', t:'ট', thh:'ঠ', d:'ড', dh:'ঢ', n:'ণ', tt:'ত', tth:'থ', d:'দ', dhh:'ধ', n:'ন', p:'প', ph:'ফ', b:'ব', bh:'ভ', m:'ম', z:'য', rh:'ৰ', l:'ল', bh:'ৱ', s:'শ', ss:'ষ', ś:'স', h:'হ', jh:'ক্', hr:'ড়', hrh:'ঢ়', j:'য়',ko:'ক',o:'অ',  a:'আ', ka:'কা',i:'ই', ki:'কি', î:'ঈ', kî:'কী', u:'উ', ku:'কু', û:'ঊ', kû:'কূ', ri:'ঋ', kri:'কৃ', e:'এ', ke:'কে', oi:'ঐ', koi:'কৈ', ü:'ও',kü:'কো',ou:'ঔ',kou:'কৌ'},
 greek:{ai:"ὄ",A:"α",B:"β",C:"ς",D:"δ",E:"ε",F:"ƒ",wh:"ϝ",G:"γ",Hi:"η",I:"ι",J:"ῖ",K:"κ",L:"λ",M:"μ",N:"ν",O:"o",P:"π",Q:"ϐ",R:"ρ",S:"σ",TH:"θ",T:"τ",U:"υ",V:"φ",W:"ω",X:"ξ",Y:"γ",Z:"ζ","TH":"θ",SH:"ϡ","ß":"ς",TSH:"γ","DH":"ð",DZ:"ҙ",DJ:"γ",PS:"ψ",õ:"ὦ",ch:"χ",ɦra:"ἁ",fi:"ἰ",y:"ύ"},
 GREEK:{A:"Α",B:"Β",C:"Ζ",D:"Δ",E:"Ε",F:"Ƒ",wh:"Ϝ",G:"Γ",H:"Η",I:"Ι",J:"Ι͂",K:"Κ",L:"Λ",M:"Μ",N:"Ν",O:"Ω",P:"Π",Q:"Ϙ",R:"Ρ",S:"Σ",T:"Τ",U:"Υ",V:"Φ",W:"Ω͂",X:"Ξ",ch:"Χ",Y:"Ψ",Z:"Ζ","TH":"Θ",SH:"Ϣ",GH:"Γ","DH":"Ð",DZ:"Ҙ",DJ:"Γ",PS:"Ψ"},
 geez:{ ha:'ሀ',hu:'ሁ',hi:'ሂ','hā':'ሃ','hē':'ሄ','hə':'ህ',ho:'ሆ',la:'ለ',lu:'ሉ',li:'ሊ','lā':'ላ','lē':'ሌ','lə':'ል',lo:'ሎ','ḥa':'ሐ','ḥu':'ሑ','ḥi':'ሒ','ḥā':'ሓ','ḥē':'ሔ','ḥə':'ሕ','ḥo':'ሖ',ma:'መ',mu:'ሙ',mi:'ሚ','mā':'ማ','mē':'ሜ','mə':'ም',mo:'ሞ','ša':'ሠ','śu':'ሡ','śi':'ሢ','śā':'ሣ','śē':'ሤ','šə':'ሥ','šo':'ሦ',ra:'ረ',ru:'ሩ',ri:'ሪ','rā':'ራ','rē':'ሬ','rə':'ር',ro:'ሮ',sa:'ሰ',su:'ሱ',si:'ሲ','sā':'ሳ','sē':'ሴ','sə':'ስ',so:'ሶ',qa:'ቀ',qu:'ቁ',qi:'ቂ','qā':'ቃ','qē':'ቄ','qə':'ቅ',qo:'ቆ','qʷa':'ቈ','qʷi':'ቊ','qʷā':'ቋ','qʷē':'ቌ','qʷə':'ቍ',ba:'በ',bu:'ቡ',bi:'ቢ','bā':'ባ','bē':'ቤ','bə':'ብ',bo:'ቦ',ta:'ተ',tu:'ቱ',ti:'ቲ','tā':'ታ','tē':'ቴ','tə':'ት',to:'ቶ','ḫ':'ኅ','ḫu':'ኁ','ḫi':'ኂ','ḫā':'ኃ','ḫē':'ኄ','ḫo':'ኆ','ḫʷa':'ኈ','ḫʷi':'ኊ','ḫʷā':'ኋ','ḫʷē':'ኌ','ḫʷə':'ኍ',n:'ነ',nu:'ኑ',ni:'ኒ','nā':'ና','nē':'ኔ','nə':'ን',no:'ኖ','ʼa':'አ','ʼu':'ኡ','ʼi':'ኢ','ʼā':'ኣ','ʼē':'ኤ','ʼə':'እ','ʼo':'ኦ',ka:'ከ',ku:'ኩ',ki:'ኪ','kā':'ካ','kē':'ኬ','kə':'ክ',ko:'ኮ','kʷa':'ኰ','kʷi':'ኲ','kʷā':'ኳ','kʷē':'ኴ','kʷə':'ኵ',wa:'ወ',wu:'ዉ',wi:'ዊ','wā':'ዋ','wē':'ዌ','wə':'ው',wo:'ዎ','ʻa':'ዐ','ʻu':'ዑ','ʻi':'ዒ','ʻā':'ዓ','ʻē':'ዔ','ʻə':'ዕ','ʻo':'ዖ',za:'ዘ',zu:'ዙ',zi:'ዚ','zā':'ዛ','zē':'ዜ','zə':'ዝ',zo:'ዞ',ya:'የ',yu:'ዩ',yi:'ዪ','yā':'ያ','yē':'ዬ','yə':'ይ',yo:'ዮ',da:'ደ',du:'ዱ',di:'ዲ','dā':'ዳ', 'dē':'ዴ', 'də':'ድ', do:'ዶ', ga:'ገ', g:'ጉ',pa:"ፐ", pu:"ፑ", pi:"ፒ", pā:"ፓ", pē:"ፔ", pə:"ፕ", pu:"ፖ", },
@@ -48,6 +48,9 @@ _A:"ァ",A:"ア",_I:"ィ",I:"イ",_U:"ゥ",U:"ウ",_E:"ェ",E:"エ",_O:"ォ",O:"
  },// :"・",X1:"ヽ",X2:"ヾ",S1:"ﾞ",S2:"ﾟ",
  armenian:{a:"ա",b:"բ",g:"գ",d:"դ",e:"ե",z:"զ",ē:"է",ə:"ë",th:"թ",ž:"ժ",i:"ի",l:"լ ",x:"խ",c:"ծ",k:"կ",h:"հ",j:"ձ",ł:"ղ",ġ:"ղ",č:"ճ",m:"մ",y:"յ",n:"ն",š:"շ",o:"ո",čh:"չ",p:"պ",ǰ:"ջ",ṙ:"ռ",s:"ս",v:"վ",t:"տ",r:"ր",ch:"ց",w:"ւ",ph:"փ",kh:"ք",ew:"և",ō:"օ",f:"ֆ"},
  ARMENIAN:{A:"Ա",B:"Բ",G:"Գ",D:"Դ",E:"Ե",Z:"Զ",Ē:"Է",Ə:"Ë",TH:"Թ",Ž:"Ժ",I:"Ի",L:"Լ ",X:"Խ",C:"Ծ",K:"Կ",H:"Հ",J:"Ձ",Ł:"Ղ",Ġ:"Ղ",Č:"Ճ",M:"Մ",Y:"Յ",N:"Ն",Š:"Շ",O:"Ո ",ČH:"Չ",P:"Պ",J̌:"Ջ",Ṙ:"Ռ",S:"Ս",V:"Վ",T:"Տ",R:"Ր",CH:"Ց",W:"Ւ",PH:"Փ",KH:"Ք",EW:"ԵՒ",Ō:"Օ",F:"Ֆ"},
+ telugru:{k:'క', kh:'ఖ', g:'గ', gh:'ఘ', ṅ:'ఙ', ch:'చ', chh:'ఛ', j:'జ', jh:'ఝ', ñ:'ఞ', ṭ:'ట', ṭh:'ఠ', ḍ:'డ', ḍh:'ఢ', ṇ:'ణ', t:'త', th:'థ', d:'ద', dh:'ధ', n:'న', p:'ప', ph:'ఫ', b:'బ', bh:'భ', m:'మ', y:'య', r:'ర', l:'ల', v:'వ', ḷ:'ళ', ś:'శ', ṣ:'ష', s:'స', h:'హ', ṟ:'ఱ', a:'అ', i:'ఇ', u:'ఉ', r̥:'ఋ', l̥:'ఌ', e:'ఎ', ai:'ఐ', o:'ఒ', au:'ఔ', ā:'ఆ', ī:'ఈ', ū:'ఊ', ē:'ఏ', ō:'ఓ'},
+
+ malayam:{po:'പൊ'},
 	french:{A:"à",EE:"é",AH:"á"},
 	FRENCH:{A:"À",EE:"É",AH:"Á"},
 	czech:{I:"Ý",C:"Č",y:"ý",c:"č",cc:'č'},
@@ -60,6 +63,7 @@ _A:"ァ",A:"ア",_I:"ィ",I:"イ",_U:"ゥ",U:"ウ",_E:"ェ",E:"エ",_O:"ォ",O:"
 }
 
 
+
 // हिन्दी
 let xeno2english={}
 for(map in maps){
@@ -67,8 +71,10 @@ for(map in maps){
 	n=Object.keys(map).reduce((obj,key)=> {obj[map[key]]=key;return obj},{});
 	Object.assign(xeno2english,n)
 }
-// console.log(xeno2english)
-langs="deutsch	greek	greek2 geez	pronounce	coptic	number	egypt	phoenician	chinanr	hebrew	arameic	arabic	ethiopic	russian	russi	name	mean	meane	mein	persian	sumerian	akkadia	chinese	rune	runam	runename".split("\t")
+
+langs=keys(maps)
+// // console.log(xeno2english)
+// langs="deutsch	greek	greek2 geez	pronounce	assamese	coptic	number	egypt	phoenician	chinanr	hebrew	arameic	arabic	ethiopic	russian	russi	name	mean	meane	mein	persian	sumerian	akkadia	chinese	rune	runam	runename".split("\t")
 
 
 function convert(text,alphabet) {
@@ -181,7 +187,9 @@ module.exports={pronounce,say,convert}
 
 // IF MAIN()
 text=process.argv.slice(2,process.argv.length).join(" ")
-if(is_file(text))text=read_text(text)
+try{
+	if(is_file(text))text=read_text(text)
+}catch(ex){console.error(ex);}
 if(!text)	process.stdin.on('data', function(pipe) {say(""+pipe)})
 else say(text)
 

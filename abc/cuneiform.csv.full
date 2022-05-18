@@ -1,5 +1,5 @@
-https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
-𒀀 	U+12000 	A 	839 	579 	
+𒀎 	U+1200E 	AB x GAN_2 /tenû/ 	225 	198 	
+𒀀 	U+12000 	A 	839 	579 https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)	
 𒀁 	U+12001 	A x A 	845 	583 	EDURU
 𒀂 	U+12002 	A x BAD 	840 	580 	AGAM
 𒀃 	U+12003 	A x GAN_2 /tenû/ 			
@@ -68,7 +68,7 @@ https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒁁 	U+12041 	BAD 	113 	69 	
 𒁂 	U+12042 	BAG_3 		78 	
 𒁃 	U+12043 	BAḪAR_2 		309 	
-𒁄 	U+12044 	BAL 	005 	9 	
+𒁄 	U+12044 	BALA 	005 	9 	BAL
 𒁅 	U+12045 	BAL / BAL 			
 𒁆 	U+12046 	BALAG 	565 	352 	DUB_2
 𒁇 	U+12047 	BAR 	121 	74 	
@@ -122,7 +122,7 @@ https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒁷 	U+12077 	DIN 	119 	465 	
 𒁸 	U+12078 	DIN KASKAL U /gunû/ DIŠ 			
 𒁹 	U+12079 	DIŠ 	748; 749 	480 	NIGIDA
-𒁺 	U+1207A 	DU 	350 	206 	RE_6
+𒁺 	U+1207A 	DU 	350 	206 	RE_6, ša4
 𒁻 	U+1207B 	DU / DU 	350 	206a 	LAḪ_4 , RE_7
 𒁼 	U+1207C 	DU /gunû/ 	351 	201 	GIR_6 , SUḪUŠ
 𒁽 	U+1207D 	DU /šešig/ 	352 	202 	GIR_5 , KAŠ_4
@@ -251,7 +251,7 @@ https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒃸 	U+120F8 	GAN_2 /tenû/ 	175 	105 	KAR_2 , ŠE_3 /tenû/
 𒃹 	U+120F9 	GAN_2 / GAN_2 	174v 		
 𒃺 	U+120FA 	GAN_2 crossing GAN_2 	174v 		
-𒃻 	U+120FB 	GAR 	859 	597 	NINDA, NIG_2
+𒃻 	U+120FB 	GAR 	859 	597 	NINDA, NIG_2, ĝar
 𒃼 	U+120FC 	GAR_3 	543 	333 	
 𒃽 	U+120FD 	GAŠAN 	562; 563 	350 	U /gunû/
 𒃾 	U+120FE 	GEŠTIN 	212 	210 	
@@ -273,7 +273,7 @@ https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒄎 	U+1210E 	GIR_3 x LU + IGI 	702 	537,129 	
 𒄏 	U+1210F 	GIR_3 x PA 			
 𒄐 	U+12110 	GISAL 	376 	226 	
-𒄑 	U+12111 	GIŠ 	469 	296 	GEŠ
+𒄑 	U+12111 	GIŠ 	469 	296 	GEŠ, IZ
 𒄒 	U+12112 	GIŠ crossing GIŠ 	469v 		
 𒄓 	U+12113 	GIŠ x BAD 	471 		
 𒄔 	U+12114 	GIŠ x TAK_4 			
@@ -308,7 +308,7 @@ https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒄱 	U+12131 	ḪI x DIŠ 	659 	409e 	ŠAR_2 x DIŠ
 𒄲 	U+12132 	ḪI x GAD 	650 	407 	ŠAR_2 x GAD
 𒄳 	U+12133 	ḪI x KIN 	660 	410 	
-𒄴 	U+12134 	ḪI x NUN 	636 	398 	AḪ, UḪ
+𒄴 	U+12134 	ḪI x NUN 	636 	398 	AH, AḪ, UḪ
 𒄵 	U+12135 	ḪI x ŠE 	643 	400 	BIR
 𒄶 	U+12136 	ḪI x U 	653; 688 	409 	ŠAR_2 x U; DUBUR_2
 𒄷 	U+12137 	ḪU 	132 	78 	
@@ -325,7 +325,7 @@ https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒅂 	U+12142 	IDIM 			
 𒅃 	U+12143 	IDIM / IDIM BUR 			
 𒅄 	U+12144 	IDIM / IDIM squared 			
-𒅅 	U+12145 	IG 	136 	80 	
+𒅅 	U+12145 	IG 	136 	80 	ĝal_2
 𒅆 	U+12146 	IGI 	724 	449 	ŠI, LIM
 𒅇 	U+12147 	IGI DIB 	731 	455 	U_3
 𒅈 	U+12148 	IGI RI 	726 	451 	AR
@@ -405,7 +405,7 @@ https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒆒 	U+12192 	KAD_4 	568 	354b 	
 𒆓 	U+12193 	KAD_5 	569 	354b 	
 𒆔 	U+12194 	KAD_5 / KAD_5 			
-𒆕 	U+12195 	KAK 	379 	230 	GAG
+𒆕 	U+12195 	KAK 	379 	230 	GAG, DU_3
 𒆖 	U+12196 	KAK x IGI /gunû/ 			
 𒆗 	U+12197 	KAL 	496 	322 	
 𒆘 	U+12198 	KAL x BAD 	497 	323 	ALAD
@@ -585,7 +585,7 @@ https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)
 𒉅 	U+12245 	NAM NUTILLU 			
 𒉆 	U+12246 	NAM 	134 	79 	
 𒉇 	U+12247 	NAM_2 			
-𒉈 	U+12248 	NE 	313 	172 	
+𒉈 	U+12248 	NE 	313 	172 	BI2
 𒉉 	U+12249 	NE x A 	315 		
 𒉊 	U+1224A 	NE x UD 	314 		
 𒉋 	U+1224B 	NE /šešig/ 	312 	173 	BIL_2
@@ -663,7 +663,7 @@ GARZA "office"
 𒊒 	U+12292 	RU 	111 	48 	
 𒊓 	U+12293 	SA 	172 	104 	
 𒊔 	U+12294 	SAG NUTILLU 			
-𒊕 	U+12295 	SAG 	184 	115 	
+𒊕 	U+12295 	SAG 	184 	115 	saĝ
 𒊖 	U+12296 	SAG x A 	197 		
 𒊗 	U+12297 	SAG x DU 	187 		
 𒊘 	U+12298 	SAG x DUB 			
@@ -705,7 +705,7 @@ GARZA "office"
 𒊼 	U+122BC 	ŠE / ŠE GAD / GAD GAR / GAR 			
 𒊽 	U+122BD 	ŠE / ŠE TAB / TAB GAR / GAR 			
 𒊾 	U+122BE 	ŠEG_9 	878 	551 	
-𒊿 	U+122BF 	ŠEN 	017 	008 	= SU x A, ALAL, PISAN_3 , DUR_10
+𒊿 	U+122BF 	ŠEN 	017 	008 	šin, shen, shin = SU x A, ALAL, PISAN_3 , DUR_10
 𒋀 	U+122C0 	ŠEŠ 	535 	331 	URI_3
 𒋁 	U+122C1 	ŠEŠ_2 	821 	544 	
 𒋂 	U+122C2 	ŠEŠLAM 	100 	65 	
@@ -751,7 +751,7 @@ GARZA "office"
 𒋪 	U+122EA 	SUR_9 	205 	122d 	
 𒋫 	U+122EB 	TA 	248 	139 	
 𒋬 	U+122EC 	TA* 	248v 		
-𒋭 	U+122ED 	TA x ḪI 	250 		
+𒋭 	U+122ED 	TA x ḪI 	250 		LAL_3	
 𒋮 	U+122EE 	TA x MI 	251 		
 𒋯 	U+122EF 	TA /gunû/ 			
 𒋰 	U+122F0 	TAB 	209 	124 	
