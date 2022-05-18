@@ -1,0 +1,773 @@
+1	EYE	дэсь	dɛɕ
+2	EAR	огдэ	ɔɡdɛ
+3	NOSE	олын	ɔlɨn
+4	MOUTH	ӄө	qœ
+5	TOOTH	ит	jit
+6	TONGUE	ей	jɛj
+7	LIP	лёняӈ	ʎɔɲaŋ
+8	CHEEK	ӄолет	qɔʎɛt
+9	FACE	бат	bat
+10	FOREHEAD	бат	bat
+11	HAIR	тәӈ	təŋ
+13	BEARD	куль	kʊʎ
+14	CHIN	хигат	çiɡat
+15	JAW	иттас	jitːas
+16	THROAT	кълет	kʌʎɛt
+17	NECK	кәӄт	kəqt
+18	NAPE (OF NECK)	сюкколь	ɕʊkːɔʎ
+19	HEAD	къе	kʌʲɛ
+20	BACK	ӄоват	qɔvat
+21	BELLY	хый	xɨj
+23	BREAST	маʼм	maʔm
+24	CHEST	тьга	cɡa
+25	SHOULDER	дап	dap
+26	ARM	ыль	ɨʎ
+27	ELBOW	ульгераӈ	ʊʎɡʲɛraŋ
+28	HAND	кусьпуль	kʊɕpʊʎ
+29	PALM OF HAND	ӄопт	qɔpt
+30	FINGER	тъʼӄ	tʌʔq
+31	FINGERNAIL	инеӈ	jiɲɛŋ
+32	FINGERNAIL OR TOENAIL	инеӈ	jiɲɛŋ
+33	TOE	тъʼӄ	tʌʔq
+34	FOOT	киʼсь	kʲiʔɕ
+36	KNEE	батпуляӈ	batpʊʎaŋ
+38	LEG	буль	bʊʎ
+39	BODY	китпель	kʲitpʲɛʎ
+41	BLOOD	сюль	ɕʊʎ
+44	BONE	аʼт	aʔt
+45	BRAIN	доʼӈ	dɔʔŋ
+46	HEART	ху	xʊ
+47	STOMACH	сенян	ɕɛɲan
+48	LIVER	сеӈ	ɕɛŋ
+49	BREATH	иʼль	jiʔʎ
+50	HUNGER	ӄоот	qɔːt
+51	TEAR (OF EYE)	десьтуляӈ	ɟɛɕtʊʎaŋ
+52	TASTE	даʼӈ	daʔŋ
+53	FLAVOR	ит	jit
+56	SKY	есь	jɛɕ
+57	SUN	и	ji
+58	MOON	ӄип	qʲip
+59	STAR	ӄог	qɔɡ
+60	AIR	и	ji
+61	WIND	бей	bʲɛj
+62	WAVE	аньбок	aɲbɔk
+63	WATER	уль	ʊʎ
+64	ROCK	тыʼсь	tɨʔɕ
+65	GROUND	баʼӈ	baʔŋ
+66	EARTH (SOIL)	баʼӈ	baʔŋ
+68	SMOKE (EXHAUST)	дуʼ	dʊʔ
+69	SPARK	саӈан	saŋan
+70	FIRE	боʼк	bɔʔk
+71	LIGHT (RADIATION)	иӷат	jiɣat
+72	SHADE	ульбей	ʊʎbʲɛj
+73	WEATHER	есь	jɛɕ
+74	FOG	улий	ʊʎij
+75	CLOUD	асьпуль	aɕpʊʎ
+76	RAIN (PRECIPITATION)	улесь	ʊʎɛɕ
+77	SNOW	тик	cik
+78	ICE	ӄө	qœ
+79	FROST	таʼй	taʔj
+81	HEAT	а	a
+82	HOARFROST	тиʼӈ	ciʔŋ
+83	RAINBOW	уллот	ʊlːɔt
+84	THUNDER	екӈ	jɛkŋ
+86	DROP (OF LIQUID)	ульдись	ʊʎɟiɕ
+87	FOAM	ӄооль	qɔːʎ
+88	DIRT	синь	ɕiɲ
+89	LAKE	дэʼ	dɛʔ
+90	SWAMP	асок	asɔk
+91	MOOR	агидэ	aɡʲidɛ
+92	MEADOW	уу	ʊː
+93	FOREST	лес	ʎɛs
+94	HILL	холесь	xɔʎɛɕ
+96	MOUNTAIN	тъӈалоп	tʌŋalɔp
+97	SUMMIT	хат	xat
+99	PRECIPICE	хун	xʊn
+100	SPRING (OF WATER)	тайлөп	tajlœp
+101	BROOK	ӄоксь	qɔkɕ
+102	RIVER	сесь	ɕɛɕ
+103	SHORE	ӄатөп	qatœp
+104	COAST	ульбаӈт	ʊʎbaŋt
+106	SEA	моря	mɔrʲa
+108	ISLAND	ей	jɛj
+109	FLOWER	аӄта ъъӈ	aqta ʌːŋ
+110	GRASS	даан	daːn
+111	ROOT	тирь	cirʲ
+112	TREE	өксь	œkɕ
+113	TREE TRUNK	диʼ	ɟiʔ
+114	BARK	ыын	ɨːn
+115	BRANCH	әӷ	əɣ
+116	TWIG	әх	əx
+117	LEAF	ъъ	ʌː
+118	BIRCH	усь	ʊɕ
+119	PINE	ей	jɛj
+120	WILLOW	дълёксь	dʌʎɔkɕ
+121	FIR	дынь	dɨɲ
+122	HORN (ANATOMY)	ӄоʼ	qɔʔ
+123	FEATHER	ась	aɕ
+124	FUR	иӈольт	jiŋɔʎt
+125	WING	кеʼй	kʲɛʔj
+126	CLAW	инь	jiɲ
+127	PAW	буль	bʊʎ
+128	TAIL	хуут	xʊːt
+129	EGG	эʼй	ɛʔj
+130	NEST	эӈӈай	ɛŋːaj
+131	LAIR	ӄук	qʊk
+132	ANIMAL	ассель	asːʲɛʎ
+133	FLOCK (OF SHEEP)	табун	tabʊn
+134	COW	куʼсь	kʊʔɕ
+135	BULL	ыксь	ɨkɕ
+136	HORSE	көнь	kœɲ
+137	SHEEP	опся	ɔpɕa
+138	PIG	миня	mʲiɲa
+139	DOG	тип	cip
+140	CAT	коска	kɔska
+141	BEAR	ӄой	qɔj
+142	SQUIRREL	саʼӄ	saʔq
+143	ELK	ӄай	qaj
+144	FOX	къън	kʌːn
+145	HARE	беʼсь	bʲɛʔɕ
+146	MOUSE	ут	ʊt
+147	WOLF	ӄыт	qɨt
+148	BIRD	кеӈассель	kʲɛŋasːʲɛʎ
+149	SWARM	люрь	ʎurʲ
+152	GOOSE	тем	cɛm
+153	EAGLE	диʼ	ɟiʔ
+154	DUCK	бъʼн	bʌʔn
+156	CRANE	тау	taʊ
+157	CROW	ӄолет	qɔʎɛt
+158	CUCKOO	ӄопӄунь	qɔpqʊɲ
+159	SWAN	тиг	ciɡ
+160	FISH	ись	jiɕ
+161	PERCH (FISH)	тъʼ	tʌʔ
+162	PIKE (FISH)	ӄурь	qʊrʲ
+163	SNAKE	тиг	ciɡ
+164	WORM	кинь	kʲiɲ
+165	SPIDER	элым	ɛlɨm
+168	MOSQUITO	сюй	ɕʊj
+169	FLY (INSECT)	ӄаймукъ	qajmʊkʌ
+170	BUTTERFLY	ӄумлей	qʊmʎɛj
+171	BERRY	ээль	ɛːʎ
+172	APPLE	яблоко	jablɔkɔ
+173	MUSHROOM	больба	bɔʎba
+174	ONION	лук	lʊk
+179	PIT (POTHOLE)	хъӄтоль	xʌqtɔʎ
+180	TRAP (PITFALL)	ки	kʲi
+182	TRACK (OF ANIMAL)	булок	bʊlɔk
+183	ASH	ӄолан	qɔlan
+184	FILTH	синь	ɕiɲ
+185	IRON	е	jɛ
+186	GOLD	солта	sɔlta
+187	SILVER	серебра	ɕɛrʲɛbra
+188	CHARCOAL	куʼ	kʊʔ
+189	GLASS	текла	cɛkla
+190	CLAY	тультан	tʊʎtan
+191	SAND	хъняӈ	xʌɲaŋ
+192	PERSON	кеʼт	kʲɛʔt
+193	MAN	хиг	çiɡ
+194	WOMAN	ӄим	qʲim
+195	CHILD (YOUNG HUMAN)	дыль	dɨʎ
+196	BOY	хигдыль	çiɡdɨʎ
+197	GIRL	ӄимдыль	qʲimdɨʎ
+198	FAMILY	семья	ɕɛmʲʲa
+199	GRANDFATHER	ӄип	qʲip
+200	GRANDMOTHER	ӄима	qʲima
+201	PARENTS	обаӈ	ɔbaŋ
+202	FATHER	өп	œp
+203	MOTHER	ам	am
+204	SON	хыʼп	xɨʔp
+205	DAUGHTER	хуʼн	xʊʔn
+206	BROTHER	бисеп	bʲiɕɛp
+207	SISTER	бисеп	bʲiɕɛp
+209	AUNT	ӄөй	qœj
+210	HUSBAND	тет	cɛt
+211	WIFE	ӄим	qʲim
+213	LAUGHTER	даӄ	daq
+215	GRIEF	аӈбет	aŋbʲɛt
+216	LONGING	ӄоʼй	qɔʔj
+217	DESIRE	ӄоʼй	qɔʔj
+218	SPIRIT	ий	jij
+219	THOUGHT	анеӈ	aɲɛŋ
+221	MIND	анун	anʊn
+224	TRUTH	баʼт	baʔt
+225	CONVERSATION	асанъй	asanʌj
+226	FAIRY TALE	аськэʼт	aɕkɛʔt
+227	STORY	асьӄа	aɕqa
+230	NAME	и	ji
+231	SPEECH (ADDRESS)	сыӷытаӄ	sɨɣɨtaq
+232	SPEECH	асанъй	asanʌj
+233	LANGUAGE	ӄаʼ	qaʔ
+234	VOICE	дух	dʊx
+235	WORD	ӄаʼ	qaʔ
+238	NOISE	ӄолдаӈэй	qɔldaŋɛj
+239	SOUND OR NOISE	дуг	dʊɡ
+240	TONE (MUSIC)	дуг	dʊɡ
+241	SONG	иʼль	jiʔʎ
+243	PEOPLE (SEVERAL)	дэʼӈ	dɛʔŋ
+244	PEOPLE	ӄаарян	qaːrʲan
+245	WORK (LABOUR)	лёвет	ʎɔvʲɛt
+246	GUEST	ытыгайсь	ɨtɨɡajɕ
+248	GAME	аниӈ	aɲiŋ
+251	FRIEND	бэʼй	bɛʔj
+252	COMPANION	кето	kʲɛtɔ
+256	PIECE	лямт	ʎamt
+257	PART	лямт	ʎamt
+259	CIRCLE	круг	krʊɡ
+260	CROSS	бальбесь	baʎbʲɛɕ
+265	AREA	баʼӈ	baʔŋ
+267	PLACE (POSITION)	баʼӈ	baʔŋ
+269	MIDDLE	кы	kɨ
+271	THING	биʼ	bʲiʔ
+272	FRINGE	ӄат	qat
+274	CORNER (OUTSIDE)	ӄъʼӄ	qʌʔq
+275	TIP (OF OBJECT)	хат	xat
+276	END (OF SPACE)	сирь	ɕirʲ
+277	HOLE	каʼӈ	kaʔŋ
+278	CORNER	ӄъʼӄ	qʌʔq
+279	PATTERN	ириӈ	jirʲiŋ
+280	SIZE (OF OBJECT)	хытай	xɨtaj
+281	LENGTH	угд	ʊɡd
+285	HEAP	дапӄуль	dapqʊʎ
+286	ROW (OF OBJECTS)	туль	tʊʎ
+287	BOAT	асьлин	aɕʎin
+288	PADDLE	хай	xaj
+290	SKI	асьлеӈ	aɕʎɛŋ
+291	CAMPFIRE	богдөт	bɔɡdœt
+294	STEP	тоӄ	tɔq
+295	NORTH	тыль	tɨʎ
+296	SOUTH	утль	ʊtʎ
+297	WEST	ульбаӈ	ʊʎbaŋ
+298	EAST	тъӈбаӈӄолеп	tʌŋbaŋqɔʎɛp
+300	BOARD	лем	ʎɛm
+303	POLE	ӄэрь	qɛrʲ
+304	STICK	өксь	œkɕ
+305	STAFF	ӄуу	qʊː
+306	TUBE	турума	tʊrʊma
+307	HOUSE	иӷусь	jiɣʊɕ
+308	HOME	иӈӷусь	jiŋɣʊɕ
+309	STOVE	тъӈгат	tʌŋɡat
+311	TABLE	лем	ʎɛm
+312	CHAIR	уӈөксь	ʊŋœkɕ
+313	CRADLE	уʼй	ʊʔj
+314	BED	оӈнась	ɔŋnaɕ
+316	BOX	бальтий	baʎcij
+318	DOOR	эла	ɛla
+320	FENCE	огород	ɔɡɔrɔd
+321	ROOF	иӈӷусьт хат	jiŋɣʊɕt xat
+322	LADDER	булуксаӈ өксь	bʊlʊksaŋ œkɕ
+323	BROOM	тальсигатсь	taʎɕiɡatɕ
+324	SPADE	састоп	sastɔp
+325	SHOVEL	Эʼп	ɛʔp
+327	SPOON	ӄыкт	qɨkt
+328	KNIFE	доʼн	dɔʔn
+329	NAIL (TOOL)	аресь	arʲɛɕ
+330	NET	уняӈ	ʊɲaŋ
+331	HOOK	сюль	ɕʊʎ
+332	HANDLE	донуль	dɔnʊʎ
+333	LOCK	самбок	sambɔk
+336	DOLL	хуʼн	xʊʔn
+337	POUCH	ай	aj
+339	BAG	натурска	natʊrska
+340	BUCKET	тыʼн	tɨʔn
+341	LID COVER	кулем	kʊʎɛm
+343	SACK	ай	aj
+344	CUP	таська	taɕka
+346	KETTLE	тыʼн	tɨʔn
+348	FOOD	илиӈись	jiʎiŋʲiɕ
+349	DISH (FOOD)	илиӈись	jiʎiŋʲiɕ
+350	MEAT	ись	jiɕ
+353	BREAD	няʼнь	ɲaʔɲ
+354	SLICE	няньлямт	ɲaɲʎamt
+355	FAT (ORGANIC SUBSTANCE)	кыʼт	kɨʔt
+356	BUTTER	кыʼт	kɨʔt
+358	SALT	тъʼ	tʌʔ
+359	SOUP	уʼк	ʊʔk
+360	HONEY	меʼт	mʲɛʔt
+361	MILK	мамуль	mamʊʎ
+362	TEA	сяй	ɕaj
+363	LEATHER	туӈ	tʊŋ
+364	WOOL	ӄарь	qarʲ
+366	NEEDLE (FOR SEWING)	иʼн	jiʔn
+367	THREAD	киляӈ	kʲiʎaŋ
+368	BUTTON	хъльтаӈ	xʌʎtaŋ
+369	KNOT	боӈул	bɔŋʊl
+370	PAINT (PIGMENTS)	сюк	ɕʊk
+371	CLOTHES	ӄареӈ	qarʲɛŋ
+372	SHIRT	сюят	ɕʊʲat
+373	COLLAR	сюяткәӄт	ɕʊʲatkəqt
+374	SLEEVE	бана	bana
+375	TROUSERS	алеӈ	aʎɛŋ
+376	BELT	куʼт	kʊʔt
+377	CAP	дыʼ	dɨʔ
+378	SHOE	масьпукань	maɕpʊkaɲ
+379	BOOT	сягдэн	ɕaɡdɛn
+380	RING	тъӷоль	tʌɣɔʎ
+383	MIRROR	дэськъганөксь	dɛɕkʌɡanœkɕ
+384	STRAP	сиит	ɕiʲit
+385	STRING	аӈ	aŋ
+387	BLANKET	усеньсь	ʊɕɛɲɕ
+388	PILLOW	тъӈнась	tʌŋnaɕ
+389	SCARF	сюйд	ɕʊjd
+390	TOWEL	холос	xɔlɔs
+391	FORCE	у	ʊ
+392	STRENGTH	у	ʊ
+394	DISEASE	даеӈ	daʲɛŋ
+395	PAIN	аеӈ	aʲɛŋ
+396	WOUND	айгинь	ajɡʲiɲ
+398	MEDICINE	лекарсво	ʎɛkarsvɔ
+399	BRIDGE	атаӄ	ataq
+402	PATH	культа	kʊʎta
+403	WAY	ӄоʼт	qɔʔt
+404	ROAD	ӄоʼт	qɔʔt
+405	VILLAGE	эӈӈуӈ	ɛŋːʊŋ
+406	TOWN	колет	kɔʎɛt
+407	LETTER	иринӈ	jirʲinŋ
+408	BOOK	книга	kɲiɡa
+409	CHARACTER	буква	bʊkva
+410	NEWSPAPER	газета	ɡaʑɛta
+411	LIFE	дъʼӄ	dʌʔq
+412	DEATH	ӄореӈ	qɔrʲɛŋ
+413	GRAVE	баӈуль	baŋʊʎ
+415	SIN	кырак	kɨrak
+416	GOD	Есь	jɛɕ
+417	WORKER	лёветсь	ʎɔvʲɛtɕ
+418	BOSS	ӄясь	qʲaɕ
+420	PHYSICIAN	врач	vrat͡ʃ
+421	TEACHER	сираӷатсь	ɕiraɣatɕ
+422	MONEY	день	ɟɛɲ
+424	SHOP	лапка	lapka
+425	PRICE	киʼт	kʲiʔt
+426	WARE	ләӄ	ləq
+429	WORLD	кънбаӈ	kʌnbaŋ
+430	COUNTRY	ӄолеп	qɔʎɛp
+431	STATE (POLITICS)	государство	ɡɔsʊdarstvɔ
+432	KING	кый	kɨj
+433	POWER	кый	kɨj
+435	WAR	каль	kaʎ
+436	ENEMY	враг	vraɡ
+439	BOW	ӄыʼт	qɨʔt
+440	ARROW	ӄам	qam
+441	GUN	хълиӈ	xʌʎiŋ
+446	FAULT	саан	saːn
+448	END (OF TIME)	куп	kʊp
+449	TIME	сас	sas
+450	DAY (NOT NIGHT)	иʼ	jiʔ
+451	MORNING	ӄоноксь	qɔnɔkɕ
+452	MIDDAY	суран	sʊran
+453	EVENING	бись	bʲiɕ
+454	NIGHT	си	ɕi
+455	WEEK	неля	ɲɛʎa
+456	MONTH	ӄип	qʲip
+457	YEAR	сыы	sɨː
+458	SPRINGTIME	ырь	ɨrʲ
+459	SUMMER	силь	ɕiʎ
+460	AUTUMN	ӄогдь	qɔɡɟ
+461	WINTER	кәт	kət
+462	JANUARY	ӄяӷып	qʲaɣɨp
+463	FEBRUARY	ӄаятап	qaʲatap
+464	MARCH	диӷып	ɟiɣɨp
+465	APRIL	коонъп	kɔːnʌp
+466	MAY	майӄип	majqʲip
+467	JUNE	июньӄип	jiʲʊɲqʲip
+468	JULY	июльӄип	jiʲʊʎqʲip
+469	AUGUST	августӄип	avɡʊstqʲip
+470	SEPTEMBER	ээльтийӄип	ɛːʎcijqʲip
+471	OCTOBER	октябрьӄип	ɔkcabrʲqʲip
+472	NOVEMBER	ноябрьӄип	nɔʲabrʲqʲip
+473	DECEMBER	декабрьӄип	ɟɛkabrʲqʲip
+474	MONDAY	нээля ӄарига иʼ	nɛːʎa qarʲiɡa ʲiʔ
+475	TUESDAY	дынамась иʼ	dɨnamaɕ ʲiʔ
+476	WEDNESDAY	доӈамась иʼ	dɔŋamaɕ ʲiʔ
+477	THURSDAY	сигамась иʼ	ɕiɡamaɕ ʲiʔ
+478	FRIDAY	ӄагамась иʼ	qaɡamaɕ ʲiʔ
+479	SATURDAY	суббота	sʊbːɔta
+480	SUNDAY	нээля иʼ	nɛːʎa ʲiʔ
+481	BIG	ӄя	qʲa
+482	SMALL	хъняньсь	xʌɲaɲɕ
+483	LONG	угд	ʊɡd
+484	SHORT	хольсь	xɔʎɕ
+485	WIDE	ӄиильсь	qʲiːʎɕ
+486	NARROW	тоӷ	tɔɣ
+487	DENSE	хатпаӈ	xatpaŋ
+488	THICK	бъсль	bʌsʎ
+489	THIN (OF SHAPE OF OBJECT)	хаксем	xakɕɛm
+491	SOLID	бытсь	bɨtɕ
+492	FLAT	ламс	lams
+493	SMOOTH	уульсь	ʊːʎɕ
+494	HARD	бытсь	bɨtɕ
+495	SOFT	хомыляӈ	xɔmɨʎaŋ
+496	ROUND	круглай	krʊɡlaj
+497	POINTED	етсь	jɛtɕ
+498	SHARP	етсь	jɛtɕ
+499	BLUNT	сяляньсь	ɕaʎaɲɕ
+500	HEAVY	съъсь	sʌːɕ
+501	BEAUTIFUL	ириӈ	jirʲiŋ
+502	HOT	а	a
+503	WARM	усь	ʊɕ
+504	COLD	таʼй	taʔj
+505	COOL	эньсь	ɛɲɕ
+507	DAMP	ультусь	ʊʎtʊɕ
+508	WET	ультусь	ʊʎtʊɕ
+509	DRY	төиӈ	tœʲiŋ
+511	EMPTY	ӄуйсь	qʊjɕ
+514	CLEAN	датэӈсь	datɛŋɕ
+515	DIRTY	синнтусь	ɕinːtʊɕ
+516	RAW	ту	tʊ
+518	TASTY	даʼӈ	daʔŋ
+519	SWEET	хиляӈ	çiʎaŋ
+520	BITTER	ӄълаӈ	qʌlaŋ
+522	BRIGHT	къʼн	kʌʔn
+523	DARK	ӄоний	qɔɲij
+524	BLACK	тумсь	tʊmɕ
+525	WHITE	тагым	taɡɨm
+526	RED	сюлем	ɕʊʎɛm
+527	YELLOW	ӄъляйсь	qʌʎajɕ
+529	GREEN	съньсь	sʌɲɕ
+530	GREY	ъреясь	ʌrʲɛʲaɕ
+531	COLORFUL	ириӈ	jirʲiŋ
+532	CHEAP	тольгитсь	tɔʎɡʲitɕ
+533	EXPENSIVE	ӄягитсь	qʲaɡʲitɕ
+534	PRECIOUS	ӄягитсь	qʲaɡʲitɕ
+535	BLIND	утпаӈ	ʊtpaŋ
+536	DEAF	тытсь	tɨtɕ
+537	POWERFUL	аруӈусь	arʊŋʊɕ
+538	STRONG	ӄя	qʲa
+541	THIN (SLIM)	тоӷ	tɔɣ
+543	EVIL	ӄойбесь	qɔjbʲɛɕ
+544	STUPID	буӈтэтсь	bʊŋtɛtɕ
+545	LAZY	уроксь	ʊrɔkɕ
+547	STINGY	дъсень	dʌɕɛɲ
+548	CLEVER	анунтусь	anʊntʊɕ
+551	MERRY	дъгасиӈ	dʌɡaɕiŋ
+552	GENTLE	ойгоӈсь	ɔjɡɔŋɕ
+553	BE HUNGRY	ӄоот	qɔːt
+554	SICK	даеӈ	daʲɛŋ
+555	NAKED	тонёль	tɔɲɔʎ
+556	SAD	анеӈбетсь	aɲɛŋbʲɛtɕ
+557	LIVING	этсь	ɛtɕ
+558	GOOD	аӄта	aqta
+559	BAD	сельсь	ɕɛʎɕ
+562	TRUE	хитиӈсь	çiciŋɕ
+563	OLD (USED)	каʼт	kaʔt
+564	NEW	киʼ	kʲiʔ
+566	OLD (AGED)	ӄягет	qʲaɡʲɛt
+567	YOUNG	китэйсь	kʲitɛjɕ
+568	POOR	беднай	bʲɛdnaj
+569	RICH	ботай	bɔtaj
+572	FOREIGN	биксь	bʲikɕ
+573	DIFFERENT	беляӈ	bʲɛʎaŋ
+576	LEFT	тульсь	tʊʎɕ
+577	RIGHT	богат	bɔɡat
+578	OTHER	биксь	bʲikɕ
+579	FIRST	ӄусямась	qʊɕamaɕ
+580	SECOND	ынамась	ɨnamaɕ
+581	THIRD	доӈамась	dɔŋamaɕ
+582	LAST (FINAL)	оӈтильсь	ɔŋciʎɕ
+583	ALONE	ӄоккет	qɔkːʲɛt
+584	ALL AT ONCE	ха	xa
+585	TOGETHER	синя	ɕiɲa
+586	FOR A LONG TIME	инь	jiɲ
+587	SUDDENLY	ъӄпесь	ʌqpʲɛɕ
+590	NOW	ень	jɛɲ
+591	TODAY	енӄоӈ	jɛnqɔŋ
+592	TOMORROW	аноксь	anɔkɕ
+593	SOON	ӄам	qam
+594	THEN	ӄае	qaʲɛ
+595	YESTERDAY	ӄоресь	qɔrʲɛɕ
+596	ONCE (IN THE PAST)	синь	ɕiɲ
+597	AT THAT TIME	ким	kʲim
+598	AFTERWARDS	ӄае	qaʲɛ
+599	BEFORE	ъӷай	ʌɣaj
+600	AT FIRST	анатап	anatap
+601	ONE TIME	синь	ɕiɲ
+602	SOMETIMES	аська биламдаан	aɕka bʲilamdaːn
+603	OFTEN	ха	xa
+604	ALWAYS	беʼк	bʲɛʔk
+605	NEVER	там аська ааня бәнь	tam aɕka aːɲa bəɲ
+606	HERE	кисеӈ	kʲiɕɛŋ
+607	HITHER	ъга	ʌɡa
+608	HENCE	туниль	tʊɲiʎ
+609	THERE	сёоӈ	ɕɔɔŋ
+610	THITHER	туниӈа	tʊɲiŋa
+611	AHEAD	татыӈ	tatɨŋ
+613	BACKWARD	сюк	ɕʊk
+614	BACK (DIRECTION)	сюк	ɕʊk
+615	DOWN OR BELOW	хытка	xɨtka
+616	DOWN	хыта	xɨta
+617	ABOVE	тоʼй	tɔʔj
+618	UP	төся	tœɕa
+619	EVERYWHERE	бесьтий баʼӈ	bʲɛɕcij baʔŋ
+620	NOT	атнь	atɲ
+621	A LITTLE	бәнь онь	bəɲ ɔɲ
+623	VERY	аряӈ	arʲaŋ
+624	SO (IN THIS WAY)	тоʼн	tɔʔn
+625	STILL	хы	xɨ
+626	ONLY	эг	ɛɡ
+627	ALREADY	ӄөт	qœt
+628	AGAIN	ха	xa
+629	IN VAIN	дэльтан	dɛʎtan
+630	IN FRONT OF	-купка	kʊpka
+631	BEHIND	хитка	çitka
+632	BELOW OR UNDER	-хытка	xɨtka
+633	THROUGH	тат	tat
+634	NEXT TO	итль	jitʎ
+635	BETWEEN	бальга	baʎɡa
+636	BECAUSE OF	-догот	dɔɡɔt
+637	THIS	ки	kʲi
+640	I	ат	at
+641	THOU	у	ʊ
+642	HE OR SHE OR IT	бу	bʊ
+643	WE	әт	ət
+644	YOU	әк	ək
+645	THEY	буӈ	bʊŋ
+646	WHAT	аксь	akɕ
+647	WHO	аня	aɲa
+648	WHERE	бире	bʲirʲɛ
+649	WHITHER	билесь	bʲiʎɛɕ
+650	HOW	биля	bʲiʎa
+651	WHY	аксьдиӈт	akɕɟiŋt
+652	HOW MUCH	анун	anʊn
+653	ONE	ӄусь	qʊɕ
+654	TWO	ын	ɨn
+655	THREE	доӈ	dɔŋ
+656	FOUR	сик	ɕik
+657	FIVE	ӄак	qak
+658	SIX	а	a
+660	EIGHT	ынам бәньсяӈ ӄөсь	ɨnam bəɲɕaŋ qœɕ
+661	NINE	ӄусям бәньсяӈ ӄесь	qʊɕam bəɲɕaŋ qʲɛɕ
+662	TEN	ӄө	qœ
+663	ELEVEN	ӄусям ъгам ӄөсь	qʊɕam ʌɡam qœɕ
+664	TWELVE	ыням ъгам ӄөсь	ɨɲam ʌɡam qœɕ
+665	TWENTY	эʼк	ɛʔk
+666	THIRTY	доӈась	dɔŋaɕ
+667	FORTY	сёльсь	ɕɔʎɕ
+668	FIFTY	ӄолепкись	qɔʎɛpkʲiɕ
+669	SIXTY	а көсь	a kœɕ
+673	HUNDRED	киʼ	kʲiʔ
+674	THOUSAND	тысся	tɨsːʲa
+675	AND	и	ji
+676	OR	или	jiʎi
+677	STAND	инь	jiɲ
+678	SIT	уӈ	ʊŋ
+679	LIE (REST)	дитагот	ɟitaɡɔt
+680	HANG	аӈгаптэ	aŋɡaptɛ
+681	BECOME	батаӄ	bataq
+682	HAPPEN	аваӷан	avaɣan
+684	CEASE	бимбаӷут	bʲimbaɣʊt
+685	CHANGE (BECOME DIFFERENT)	ӄавит	qavʲit
+687	SET (HEAVENLY BODIES)	хитсут	çitsʊt
+688	SHINE	къней	kʌɲɛj
+689	THUNDER (VERB)	дээсигынь	dɛːɕiɡɨɲ
+690	BLOW (OF WIND)	биӈсявей	bʲiŋɕavʲɛj
+691	FLOW (OF RIVER)	сенней	ɕɛnːʲɛj
+692	FLOW	биӈсяӷынь	bʲiŋɕaɣɨɲ
+696	FALL	дъӄ	dʌq
+697	BURNING	бокляӈ	bɔkʎaŋ
+699	RAIN (RAINING)	улеттэ	ʊʎɛtːɛ
+700	FREEZE	тъъль	tʌːʎ
+703	DRY UP	тоӷоиӈ	tɔɣɔʲiŋ
+704	BOIL (OF LIQUID)	угаӷан	ʊɡaɣan
+705	SPOIL (BECOME SPOILED)	аӄ	aq
+708	SINK (IN WATER)	улабан	ʊlaban
+710	APPEAR	си	ɕi
+715	RISE (MOVEMENT)	эськувей	ɛɕkʊvʲɛj
+716	GROW	тий	cij
+717	SHINE (OF METAL)	къней	kʌɲɛj
+719	BE NOISY	әраӷэй	əraɣɛj
+721	RING (SIGNAL)	уӄӄат	ʊqːat
+723	ROAR (OF SEA)	соӷэй	sɔɣɛj
+725	SOUND (OF INSTRUMENT)	быгей	bɨɡʲɛj
+726	BARKING	дам	dam
+728	BLOW (WITH MOUTH)	угий	ʊɡʲij
+729	WHISTLE	кутолей	kʊtɔʎɛj
+730	SHOUT	дух	dʊx
+731	GROAN	ильтэт	jiʎtɛt
+732	TREMBLE	лёкӈ	ʎɔkŋ
+733	BE ALIVE	дъʼӄ	dʌʔq
+734	BE BORN	си	ɕi
+735	BREATHE	элиӈбет	ɛʎiŋbʲɛt
+736	DRINK	уро	ʊrɔ
+738	SWALLOW	баӈтэва	baŋtɛva
+740	FALL ASLEEP	усень	ʊɕɛɲ
+741	SLEEP	усень	ʊɕɛɲ
+742	WAKE UP	ситэй	ɕitɛj
+744	REST	увет	ʊvʲɛt
+745	BECOME SICK	ат	at
+746	BE ILL	ат	at
+747	ACHE	ат	at
+748	COUGH	ӄаӄтимей	qaqcimʲɛj
+749	RECOVER	аӄтавесь	aqtavʲɛɕ
+750	DIE	диёӷо	ɟiʲɔɣɔ
+752	MOVE (OF PERSON)	еиӈ	jɛʲiŋ
+755	SIT DOWN	уӈ	ʊŋ
+756	TUMBLE	дъӄ	dʌq
+757	WALK	къʼй	kʌʔj
+758	STEP (VERB)	тоӄӈ	tɔqŋ
+760	MOVE IN HASTE	ӄоксень	qɔkɕɛɲ
+761	HURRY UP	ӄъксень	qʌkɕɛɲ
+763	RUN	тоӄтат	tɔqtat
+764	JUMP	эʼӈ	ɛʔŋ
+766	SEESAW (ACTION)	баёляӈ	baʲɔʎaŋ
+767	CRAWL	ун	ʊn
+768	SWIM	сюй	ɕʊj
+769	DIVE	ни	ɲi
+770	ROW	ысь	ɨɕ
+771	DRIVE	еиӈ	jɛʲiŋ
+772	FLY (MOVE THROUGH AIR)	доӄ	dɔq
+773	GO	еиӈ	jɛʲiŋ
+774	LEAVE	боготнь	bɔɡɔtɲ
+778	ENTER	ӄапӄат	qapqat
+779	COME	игбесь	jiɡbʲɛɕ
+781	COME BACK	сюгат	ɕʊɡat
+783	WAIT (FOR)	даӈот	daŋɔt
+784	AWAIT	даӈот	daŋɔt
+785	LOOK FOR	сяӈбет	ɕaŋbʲɛt
+786	FIND	бъг	bʌɡ
+787	TRY	ботыӈ	bɔtɨŋ
+789	LOVE	лювет	ʎuvʲɛt
+791	LAUGH	даӷ	daɣ
+793	CRY	ӄоʼт	qɔʔt
+794	GRUMBLE	дысь	dɨɕ
+795	BE ANNOYED	ӄойбесь	qɔjbʲɛɕ
+796	BE AFRAID	коран	kɔran
+797	FEAR (BE AFRAID)	ӄорень	qɔrʲɛɲ
+799	ESCAPE	тутаӈ	tʊtaŋ
+800	SEE	төӈ	tœŋ
+801	LOOK	лёӈаль	ʎɔŋaʎ
+804	LISTEN	эӄтий	ɛqcij
+805	TASTE (SOMETHING)	аӈый	aŋɨj
+806	SMELL (PERCEIVE)	итэй	jitɛj
+807	FEEL (TACTUALLY)	ыньбагавере	ɨɲbaɡavʲɛrʲɛ
+810	HEAR (INFORMATION)	эӄтий	ɛqcij
+811	SHIVER	тъъль	tʌːʎ
+812	DO	берь	bʲɛrʲ
+814	WANT	ӄоʼй	qɔʔj
+817	STOP (OF ACTIVITY)	ӄомдак	qɔmdak
+820	OPEN	уський	ʊɕkʲij
+822	PUT	иньӷат	jiɲɣat
+824	LAY (VERB)	эся	ɛɕa
+825	TOUCH	дъй	dʌj
+826	CONNECT	аӈӷей	aŋɣʲɛj
+828	HANG UP	аӈӷатий	aŋɣacij
+829	LIGHT (IGNITE)	инӷий	jinɣʲij
+830	PICK UP	ын	ɨn
+831	LEAVE (SOMETHING)	таваӄ	tavaq
+832	LOSE (SOMETHING)	ӄонбет	qɔnbʲɛt
+833	DROP (SOMETHING)	дэсьӄавераӄ	dɛɕqavʲɛraq
+834	MAKE	берь	bʲɛrʲ
+836	BUILD	хявитий	çavʲicij
+837	REPAIR	лат	lat
+840	DIG	угдий	ʊɡɟij
+841	BEND	халь	xaʎ
+842	BEND (SOMETHING)	халь	xaʎ
+843	TURN (SOMETHING)	тиӈ	ciŋ
+846	RAISE	дэтоббесь	dɛtɔbːʲɛɕ
+847	LIFT	ын	ɨn
+849	HOLD	утоӄ	ʊtɔq
+851	PUSH	сюк	ɕʊk
+853	LICK	диббо	ɟibːɔ
+855	TEAR (SHRED)	хятий	çacij
+856	CUT OFF	хаӷей	xaɣʲɛj
+857	TIE	иткисиӈ	jitkʲiɕiŋ
+858	STICK (SOMETHING)	хий	çij
+859	BREAK (DESTROY OR GET DESTROYED)	хатэт	xatɛt
+860	KNOCK	тутарей	tʊtarʲɛj
+861	HIT	ӄоотэт	qɔːtɛt
+862	GLUE (SOMETHING)	хиткит	çitkʲit
+863	RUB	оӄтэт	ɔqtɛt
+864	SPREAD (SOMETHING)	оӄтий	ɔqcij
+865	SHARPEN (SOMETHING)	ии	jiʲi
+866	CUT	хаӷей	xaɣʲɛj
+868	SHAKE	дэлдан	dɛldan
+869	SWING (SOMETHING)	дъй	dʌj
+870	POUR	атаӄ	ataq
+872	WRAP	больтаӄ	bɔʎtaq
+873	CARRY	богбит	bɔɡbʲit
+874	DRAG	таӈ	taŋ
+875	PULL	багдэӈ	baɡdɛŋ
+876	KEEP	ӄатаӈ	qataŋ
+877	THROW	эський	ɛɕkʲij
+878	CATCH	тоӈтэт	tɔŋtɛt
+880	HIDE (CONCEAL)	дивет	ɟivʲɛt
+881	DIVIDE	бенэ ӄось	bʲɛnɛ qɔɕ
+883	BRING	игбесь	jiɡbʲɛɕ
+887	TAKE	ӄось	qɔɕ
+888	CHOOSE	хий	çij
+889	SELECT	хий	çij
+892	SPOIL (SOMEBODY OR SOMETHING)	хоӄбет	xɔqbʲɛt
+894	BREAK (CLEAVE)	ильбет	jiʎbʲɛt
+895	SHRED	усьтон	ʊɕtɔn
+896	DESTROY	ильбет	jiʎbʲɛt
+897	BURN (SOMETHING)	боклаӈӷат	bɔklaŋɣat
+903	PRAISE	кетбереӈ	kʲɛtbʲɛrʲɛŋ
+904	KISS	куюбет	kʊʲʊbʲɛt
+905	ROCK (A CHILD)	уй	ʊj
+907	WAKE	ситэйӷат	ɕitɛjɣat
+908	SHOW	ъткий	ʌtkʲij
+910	TEACH	сираӷат	ɕiraɣat
+911	INSTRUCT	сираӷат	ɕiraɣat
+912	RAISE (A CHILD)	тось	tɔɕ
+919	ENCOUNTER	сугот	sʊɡɔt
+921	PLAY	аниӈ	aɲiŋ
+922	SING	иʼль	jiʔʎ
+923	DANCE	пилисьтэт	pʲiʎiɕtɛt
+926	RESCUE	пасыт	pasɨt
+927	GUARD (SOMEONE)	калявель	kaʎavʲɛʎ
+929	DEFEND	сюивет	ɕʊʲivʲɛt
+930	BRAWL	дысь	dɨɕ
+931	SHOOT	иро	jirɔ
+934	BEAT	таӷай	taɣaj
+935	KICK	саӄтэт	saqtɛt
+936	STING	ъндо	ʌndɔ
+944	KILL	ей	jɛj
+946	WORK (ACTIVITY)	лёвет	ʎɔvʲɛt
+949	HUNT	ассано	asːanɔ
+950	CATCH FISH	исьӄо	jiɕqɔ
+952	HERD (CATTLE)	пасат	pasat
+953	DRIVE (CATTLE)	ӄагдэ	qaɡdɛ
+954	TIE UP	сиӈ	ɕiŋ
+955	FEED	исаӄ	jisaq
+956	DRAW MILK	угей	ʊɡʲɛj
+957	CHOP	хасто	xastɔ
+958	WATER (A PLANT)	улятаӄ	ʊʎataq
+959	RIPEN	даӄ	daq
+960	COOK (SOMETHING)	исьбет	jiɕbʲɛt
+961	BOIL (SOMETHING)	ән	ən
+962	BAKE	даӄӄот	daqːɔt
+963	FRY	даӄ	daq
+964	STIR (SOMETHING)	эсьтий	ɛɕcij
+965	KNIT	тавыгаӈ	tavɨɡaŋ
+966	SEW	хъльсей	xʌʎɕɛj
+970	WIPE	даббет	dabːʲɛt
+973	SWEEP (SOMETHING)	сигет	ɕiɡʲɛt
+974	BATHE	тыльтэт	tɨʎtɛt
+975	WASH (ONESELF)	ульгуӈ	ʊʎɡʊŋ
+977	PUT ON	ӄиль	qʲiʎ
+978	DRESS UP	сыӈ	sɨŋ
+981	SAY	ӄаӷет	qaɣʲɛt
+982	SPEAK	асанъй	asanʌj
+983	TALK (TO SOMEONE)	асанъй	asanʌj
+984	CHAT (ACTIVITY)	асанъй	asanʌj
+985	ASK (INQUIRE)	тивий	civʲij
+986	ASK (REQUEST)	сияӄ	ɕiʲaq
+987	TELL	кий	kʲij
+990	CALL	эсягой	ɛɕaɡɔj
+991	BOAST	кетбереӈ	kʲɛtbʲɛrʲɛŋ
+993	THINK (REFLECT)	аньбет	aɲbʲɛt
+994	BELIEVE	берит	bʲɛrʲit
+996	RECOGNIZE	ситэй	ɕitɛj
+997	UNDERSTAND	дабатавет	dabatavʲɛt
+999	LEARN	сираӷат	ɕiraɣat
+1000	KNOW (SOMETHING)	итпарем	jitparʲɛm
+1002	FORGET	эньсюк	ɛɲɕʊk
+1003	MEASURE	сеӷаӄ	ɕɛɣaq
+1004	COUNT	дэрь	dɛrʲ
+1005	CALCULATE	дэрь	dɛrʲ
+1006	READ	дэрь	dɛrʲ
+1007	PAINTING	рисоват	rʲisɔvat
+1008	DRAW (WITH PEN)	рисоват	rʲisɔvat
+1009	WRITE	ириӈбет	jirʲiŋbʲɛt
+1011	BUY	кетбет	kʲɛtbʲɛt
+1012	SELL	ӄы	qɨ
+1013	PAY FOR	ӄыбет	qɨbʲɛt
+1014	PAY	ӄыбет	qɨbʲɛt
