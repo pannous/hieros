@@ -1,7 +1,10 @@
 English	German	connecting
-you	<empty means obvious>	Dju
-I	<missing explicit / << ? >	I (Bayern) / Ick
-the	<latin compositions xx ignored>	die
+	<empty means obvious>	Best match valued by semantic levenshtein 
+	<missing explicit / << ? >	
+	<latin compositions xx ignored>	
+you		Dju
+I		I (Bayern) / Ick
+the		die
 to		tsu
 a		a (Bayern)
 it		eth
@@ -32,7 +35,7 @@ just
 get	ergattern	
 here		
 but	/	
-there	dort	
+there	dà | dort	
 so		
 they	sie	
 right	recht/richt	
@@ -3357,7 +3360,7 @@ stab
 supreme		
 almighty		
 infection		
-swore		
+swore	schwöre	
 visitor		
 beam		
 cease		
@@ -3365,9 +3368,9 @@ cannon
 colour		
 conflict		
 deer		
-flu		
+flu	@Floh?	flug?
 ohio		
-primary		
+primary	primär	
 shrimp		
 cemetery		
 balloon		
@@ -3379,7 +3382,7 @@ drain
 electrical		
 fold		
 morgue		
-pimp		
+pimp	Pumper	
 rig		
 setup		
 distant		
@@ -40975,5 +40978,3 @@ zoroastrian
 zoroastrianism		
 zugzwang		
 zymurgy		
-Word		
-	<<	
