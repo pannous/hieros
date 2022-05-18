@@ -1,7 +1,7 @@
 English	German	connecting
 	empty means obvious	Best match by semantic levenshtein 
 	/ << ? means missing unknown …	
-	(latin) compounds xx ignored	
+	xx means ignored compounds / latin	
 you		Dju
 I		I (Bayern) / Ick
 the		die
@@ -23,10 +23,10 @@ your
 have		
 do		
 re	/	with.re wieder
-no		
+no		ney, ne?
 be	bin	
 know	kenne	
-not		
+not		ni't net @Swäbisch
 can		
 are	/	
 all		
@@ -79,7 +79,7 @@ where		wo à
 them	dem | denen	
 would	würd	
 been	bin	
-some	Summe	 *sem- (“one | whole”)
+some	<>	 *sem- (“one | whole”) <> Summe
 hey		
 tell	vertell | zähl	tellen (“to count”) <> (mit)teilen
 or		o'er bri'ish
@@ -124,13 +124,13 @@ god
 even	eben	
 night		
 call	<<	cry Kreisch? closest match?
-talk	<<	tell <> (er)zähl
+talk	<<	tell <> (er)zähl  thalk > sag??
 into	xx	
 first	(f)erst	
 find		
 wait	wart'	
 put	<<	
-great	ß	greoth
+great		greath ge'Riese groß
 thought	(ge)dacht	
 day		
 work	Werk	
@@ -174,12 +174,12 @@ lot	ganze/volle Latte;)
 made	machte	
 leave	lass <<	
 hi		
-girl	Kerl!?	
+girl	Kerl!?	<> girlfriend
 hear		
 father		
 through	durch	
 every	<<<	
-bad	Bett-legrig? battle beaten? 	
+bad	Bett-legrig? battle beaten? 	<> put ?
 listen	<<	
 remember	erimmern	
 three		
@@ -196,8 +196,8 @@ dad
 gotta	xx	
 wanna	xx	
 enough	genough	
-show	zeig --	
-course		
+show	zeig --	zhowig
+course	Kurs	
 care	kümmer?	
 done	(ge)tan	
 mind	mental™ Monat?	
@@ -208,7 +208,7 @@ understand	und verstehen
 mother		
 which	welch	
 try	<<	tear ~ zerre
-shit	ss	sheith | Scheiter…
+shit	Schiss	sheith | Scheiter…
 hell		
 came		
 own	eign	bri'ish oi'wn-arten
