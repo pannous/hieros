@@ -10,3 +10,10 @@ Then you can head over to the [ARTICLE](https://pannous.github.io/hieros/Home), 
 
 You can search the Egytian dictionary using the [hieroglyph keyboard](https://hieroglyph-keyboard.herokuapp.com/).
 
+
+$left( \sum_{k=1}^n a_k b_k \right)^2 \leq left( \sum_{k=1}^n a_k^2 \right) left( \sum_{k=1}^n b_k^2 \right)$
+$$left( \sum_{k=1}^n a_k b_k \right)^2 \leq left( \sum_{k=1}^n a_k^2 \right) left( \sum_{k=1}^n b_k^2 \right)$$
+```latex
+$left( \sum_{k=1}^n a_k b_k \right)^2 \leq left( \sum_{k=1}^n a_k^2 \right) left( \sum_{k=1}^n b_k^2 \right)$
+$$left( \sum_{k=1}^n a_k b_k \right)^2 \leq left( \sum_{k=1}^n a_k^2 \right) left( \sum_{k=1}^n b_k^2 \right)$$
+```
