@@ -478,7 +478,7 @@ G4	𓅂 1. #tyw tian taner->𓋀𓅂 Westerner
 G4	𓅂 2. AhnFANg VAN Fin[gk] END CoreVANgen UrAhnen 'Añ-fange  𓅂 vs 𓅐  𓄿
 G5	𓅃 Horus Har.bicht 𓅃 ⲁⲃⲟⲕ beak:    
 G6  𓅅 beak "Bayek@AssasinsCreed" ⲁⲃⲟⲕ ↔ ⲁⲃⲱⲕ 	black crow 𓅡𓎡𓅂 ⲃⲱⲕ   𓅊    𓅌  G12 𓅎 Har.ty?
-G7  𓅆 Greif [god]Ray right 𓅆𓏏𓏮    غَرْب (ḡrb, “west”) <> West 𓋀 𓊿
+G7  𓅆 Greif [god]Ray right 𓅆𓏏𓏮    غَرْب (ḡrb, “west” <> West 𓋀 𓊿
 G14	𓅐 𓂋𓅱𓅐 *MRT   𓅓𓏱𓏏murdar@PERS aL'Mut+++ Vultier (vol/woll/fall(k)) 𓅐vulva~mumu Mutti 𓅐  𓅑 GAIA 
 G16 𓅒 'Nebty' "Two Ladies" Nekhbet&Wadjet 𓋞2   𓅒  Nepthun! vs shubit
 G17 𓅓 BR(d) בְּ־ bei 𓅓 FR MNWoo עם מ- מן וְ־ im wie mit coMN manner Wu 𓅖="who?" ! G18	𓅔	among	/ omen 
@@ -1041,7 +1041,7 @@ W19  𓏇 analeiko,galeik@goth <> analog Galak gleich alike !!!  jämlik nämlic
 W21	WeiN vine wayn@semit  𓏉    vs
 W22	Bier/beer/Hnqt-hänkel: 𓏊 miLK  𓏊 => W19  miel <> bee !
 W23	Ho.ber   𓏋 != HearT
-W24	𓏌(k)URne urkan/urceus~𓎡Kanne orcus (“underworld”) 𓏌moUrn<>𓏠!  𓏌 => ul=oil   #nur  𓏌𓏲 رون	roun ~ 人 rén	-er (men'sch)
+W24	𓏌(k)URne urkan/urceus~𓎡Kanne orcus “underworld” 𓏌moUrn<>𓏠!  𓏌 => ul=oil   #nur  𓏌𓏲 رون	roun ~ 人 rén	-er (men'sch)
 W24A	(H)ourn	 𓏍  
 W25 <= W26ƒ #INIR<<<?   𓏎 Thurn (und taxis)[bring/turn in] your turn! Thorn GOD! <> Zorn
 
