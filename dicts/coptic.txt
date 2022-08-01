@@ -4,6 +4,8 @@ DICTIONARY CAMUS @ line 138
 
 https://coptic-dictionary.org/results.cgi?quick_search=house
 
+ERRORS: all Ⲅ replaced with Ⲍ !!
+
 Majuscule	Minuscule	Numeric value	Name	Greek equivalent	Translit. (IPA)
 a	Ⲁ	ⲁ	1	AlphAin	Α, α	a [a, ʔ, ʕ]
 b	Ⲃ	ⲃ	2	Bētaum	Β, β	b, v [β~v] bm
@@ -11,8 +13,8 @@ c	Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s] ↔ Ⲋ	ⲋ	6	So	Ϛ, ϛ (sigma stigma)	–  
 C	Ⲅ	ⲅ	3	cGammant	Γ, γ	g [ɡ] ↔ Ⲥ	ⲥ	200	Sima	Σ, σ, ς	s [s]
 d	Ⲇ	ⲇ	4	DelTa	Δ, δetra=4	d [d] ϫ Mdj  Ϩϩ djour!  DJ: 𓆓=ϩⲟϥ
 e	Ⲉ	ⲉ	5	fEinf	PΕin WEn ε	e [i, e][note 1] ə! dangling I+N ! zB 𓍢 ϢⲈ~cent   ↔ Ⲏ	ⲏ	8	ahĒta   𓎆 ⲘⲦⲈ~Tenµ 
-F	Ⲋ	ⲋ	6	So(Ч)	Si(x) Ϛ, ϛ (stigma)	– ЧϤ VAUW!  σ TH! σι'~take ↔ Ⲫ	ⲫ	500	Fi	Φ, φ	ph / p' [pʰ] ↔ ƒⲦ ? Ⲝ	ⲝ	60	Gsi	Ξ, ξ	ks??
-f	ЧϤ чϥ	-> phth 90
+F	Ⲋ	ⲋ	6	So(Ч)	Si(x) Ϛ, ϛ (stigma)	– ЧϤ VAUW!  σ TH! σι'~take ↔ Ⲫ	ⲫ	500	Fi	Φ, φ	ph / p' [pʰ] ↔ ƒⲦ ? Ⲝ	ⲝ	60	Gsi	Ξ, ξ
+ƒ	ЧϤ чϥ	-> phth 90
 g	Ⲍ	ⲍ	7	Zēbta	Ζ, ζ	z [z]  'Gzji'	↔ Ⲅ	ⲅ	3	Gamma	Γ, γ	g [ɡ] Ϭ ⲌⲌ~NΓ~ng!
 G	Ϭ	ϭ	_	Tshēma	ט ↔ G Gamma/Summa σ '[' < SymBa symbol ⲉϭⲟⲩ <> ϣ swamp
 h	Ϩ	ϩ	_	đHōri	(none)	h [h, ħ] ϩⲟⲟⲩ : jhourg>day ħ=TH/DH ! QED * 100 𓊪𓂧𓅱𓐍=ⲫⲁϩⲟⲩ=buttock
@@ -70,8 +72,7 @@ COMMON READING of ⲩ and ⲉ:
 ⲃⲁⲥⲓⲗⲉⲩⲥ 	 🇬🇷 Basileus m. king  ↔ ⲃⲁⲗ Baal abbreviation!? ⲃⲁⲗ:king of animals : LEO ⲗⲉⲩ !!
 ⲃⲁⲥⲓⲗⲉⲩⲥ 	 🇬🇷 Basileus m. king  ↔ Bossa-Rex ⲗⲉⲩⲥ Lehsrich?
 
-ⲣⲉⲙⲛⲧⲁⲥⲡⲓ 	 m. eloquent man = (and)roman d'a speak +++
-ⲟⲩⲉ.ⲙⲁϥ 	 eat meat !!!
+ⲟⲩⲉ.ⲙⲁϥ 	 eat meat 
 ⲉϧⲟⲩⲛ 	 adv. into / at/in
 
 ⲕ ~ G ! ⲉⲕⲟϯ ergos? δημιουργός QED
@@ -215,7 +216,7 @@ agiacmoc :🇬🇷 mconsecrationsanctification, holiness
 ⲁⲍⲟⲣⲁ ↔ ⲁⲍⲱⲣⲁ 	 marketplace : agora augura ++
 ⲁⲍⲟⲣⲉⲟⲥ 	 🇬🇷 m. lawyer, advocate; fcourt
 ⲁⲍⲣⲁⲙⲙⲁⲧⲟⲥ 	 🇬🇷 adj. illiterate; nuneducated or unlearned person
-ⲁⲍⲣⲓⲁ ↔ ⲁⲍⲣⲓⲟⲥ 	 🇬🇷 wild
+ⲁⲍⲣⲓⲁ ↔ ⲁⲍⲣⲓⲟⲥ 	 🇬🇷 wild : angry
 ⲁⲍⲣⲓⲟⲛ ↔ ⲁⲍⲣⲓⲟⲥ 	 🇬🇷 wild
 ⲁⲍⲣⲓⲟⲥ , -ⲟⲛ , ϥ. -ⲓⲁ 	 🇬🇷 adj. wild, fierce,savage, vehement, harsh
 ⲁⲍⲣⲓⲟⲗⲁⲕⲟⲛⲟⲛ 	 m. wild gourd
@@ -10388,3 +10389,8 @@ q 	 	the 27th letter of the alphabet
 ⲉⲃⲟⲗ	 adv. out of, FORTH, outward, ever?
 ⲓ̅ⲇ̅ ⳿ⲛ fourteen!
 ⲁϥⲟ.ⲩⲟⲛϩϥ  auferscheinen appear apo.rounxx
+
+
+ⲗⲱⲓⲗ lōil rear buttocks <> أَلْيَة ʾalya
+ⲙⲁⲛϩⲉⲙⲥⲓ m (manhemsi),   მუნდი (mundi)  (ϩⲉⲙⲥⲓ <> 𒆥𒈾𒌅   qin-na-tu qhint הינטן hintn Hindern) buttocks
+ⲫⲁϩⲟⲩ phaḫou পাছা pacha buttocks   <> back
