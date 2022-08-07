@@ -7,6 +7,12 @@ arwiki.titles
 PDFs
 t.js
 .~lock.*
+.*icloud
+.*bak
+__pycache__
+**/x
+.*\.x
+.*bak2
 **/.~lock.*pictures
 texts/EgyptianTexts
 wikis
@@ -31,3 +37,5 @@ fonts/*.pdf
 **/*.zip
 **/*.bak
 **/*.icloudapps/
+.DS_Store
+abc/bbb
