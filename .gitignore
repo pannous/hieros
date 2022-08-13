@@ -12,6 +12,7 @@ t.js
 __pycache__
 **/x
 .*\.x
+.*.tar.gz
 .*bak2
 **/.~lock.*pictures
 texts/EgyptianTexts
