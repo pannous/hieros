@@ -1,0 +1,39 @@
+ The Etruscans used to write right to left, hence many of the Greek letters appears reversed in orientation.
+
+A  𐌀   A
+B  𐌁  BE
+C  𐌂  KE
+D  𐌃  DE
+E  𐌄  E
+F  𐌅  VE
+Ž  𐌆  ZE
+H  𐌇  HE
+I  𐌉  I
+J  𐌝  II
+K  𐌊  KA
+L  𐌋  EL
+M  𐌌  EM
+N  𐌍  EN
+O  𐌏  O
+P  𐌐  PE
+Q  𐌒  KU
+R  𐌓  ER
+S  𐌔  ES
+T  𐌕  TE
+U  𐌖  U
+Ü  𐌞  UU
+V  𐌖  U 
+V  𐌅  VE
+W  𐌅  VE
+X  𐌗  EKS
+Y  𐌙  KHE << G[[ypsilon]] ע γ 
+Z  𐌆  ZE
+φ  𐌘  PHE
+∑  𐌑  SHEʳ
+𐀏  𐌈  THEʳ •ÇAR
+𔗠  𐌎  ESH •EKH®
+𓇼  𐌟  ESS astra
+?  𐌚  EF
+?  𐌜  CHE
+R  𐌛  ERS redundant:
+R  𐌓  ER
