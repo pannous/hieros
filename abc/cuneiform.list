@@ -1,3 +1,63 @@
+### EXTRA
+lg 	™
+UK 	𒊌
+šà 	𒊮
+ráš 	𒊕
+zul 	𒂄 
+ŠUL 	𒂄
+šá 	𒃻
+IP 	𒅁
+tin 	𒁷
+tén 	𒁷
+DIN 	𒁷 
+DON 	𒁷
+IK 	𒅅 
+BÍ 	𒉈 
+ÍB	𒌈
+ÍP	𒌈
+H 	𒄴 	Elamite coda consonant
+úH 	𒄴
+taš 	𒌨
+teš 	𒌨 
+táh 	𒈭
+YA 	𐎹
+ZI2	𒍢
+ZÍ	𒍢
+áš 	𒀸 
+MAN 	𒌋𒌋
+šil 	𒋻
+ú 	𒌑
+máš 	𒈧
+tam 	𒌓
+# PIR2 	𒎕	
+PÍR 	𒎕	
+šad 	𒆳 
+TÚ 	𒌅? 	𒑊 TU₂ ?
+bat 	𒁁
+UP 	𒌒
+rap 	𒊐
+ráp 	𒊐?  	rap2?
+RAB	𒊐
+RáB	𒊐?
+# DUR2	𒂉
+DÚR	𒂉 	DUR	𒄙…??
+DUK 	𒂁 
+LAK 	𒍽
+KAS 	𒆜
+KÁS 	𒆜?
+MÍN	𒈫? 	MIN3	𒌋𒌋
+RAK	𒊩
+RÁK	𒊩
+ÚR 	𒌫		UR2 	
+KÁN	𒆍? 	KAN4!	
+tan 	𒁺?
+kap 	𒆏
+t 	𒋫?
+qat 	𒋗
+kip 	𒄒
+GÌR 	𒄊 	
+
+
 A	𒀀
 A'	𒄴
 A2	𒀉
@@ -581,6 +641,7 @@ GURUŠ3	𒍀
 ḪUB2	𒄸
 ḪUD2	𒌓
 ḪUĜ	𒂠
+HU 	𒌨
 ḪUL	𒅆𒌨	*
 ḪUL2	𒄾
 ḪULU	𒅆𒌨	*
@@ -1294,10 +1355,8 @@ ZUM	𒍮
 ZUR	𒀫
 
 *Note that these cuneiform have not been added to Unicode, so cuneiform parts have been modified to graphically represent the corresponding cuneiform.
-Sumero-Akkadian Cuneiform
-	Codepoint	"Primary" name	Borger
-(2003)	Borger
-(1981)	Transliterations and Comments
+Sumero-Akkadian Cuneiform  	not
+Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Comments
 𒀀	U+12000	A	839	579	A, AYA2, DURU5, E4, EA
 𒀁	U+12001	A×A	845	583	EDURU
 𒀂	U+12002	A×BAD	840	580	AGAM
