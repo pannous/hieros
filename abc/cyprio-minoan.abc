@@ -12,3 +12,18 @@ U+12FFx 	𒿰 	𒿱 	𒿲
 Notes
 
     1.^ As of Unicode version 14.0
+
+Why is private font on different block:?
+󿊀
+󱀗
+󱂪
+󱂾
+
+"󱂾".bytes()
+[ 243, 177, 130, 190 ]
+ord('󱂾')
+56196 FALSE!
+char(0xF3B182AA)
+Uncaught RangeError: Invalid code point 4088496810
+
+
