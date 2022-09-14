@@ -9,18 +9,18 @@ http://web-corpora.net/LuwianCorpus/ semi dead but useful á-tà = do
 
 "SYLLABARY" not well organized into clean series, like egyptian
 𔖱 𔖲    A     ÄR  Á/E   I   ÜR  U   O   IA   
-VFH   𔗷 ᵛA/ø    𔗸    𔐓 ᵛÁ  𔓯 I  𔓰 ᵛIʳ  𔓱 ia 𔕐𔕑 ᵛIA 𔑻 ᵛU  𔖚 o 𔗘 𔖻 𔖷 •vir 𔖶 4 𓅩 
+VFH   𔗷  * 	𔗸 *  𔐓 ᵛÁ  𔓯 I 𔓰 ᵛIʳ  𔓱 iaᵗ 𔕐𔕑 ᵛIA 𔑻 ᵛU  𔖚 o 𔗘 𔖻 𔖷 •vir 𔖶 4 𓅩 
 B     𔑺 Bø 𔗬 be 𔓀 bé 𔓁 bè 𔐃 be₄ 𔓱 •bh 𔓩 way 𔔻 Be₈  𔑛 πta₆ baut
 CḪH   𔓷 ha 𔓟 ḫá 𔗒𔗓 hiʳ 𔕙 huʳ/h u 𔖈 húʳ (♡) 
 DT    𔑰 ta:do  𔐞 tá/ti/di:do 𔗎𔗏 •di 
 KG    𔗧 ka 𔐾 ka₂ 𔗳 kiₓ 𔔓 ki₄ 𔗜 ku 𔖂 COR 𔖫 š/ǧ 
 L     𔓊 la₁ 𔗲 lái₂ 𔗽 laₓ 𔔹 li₁ 𔕦 lea/ta₄ 𔗲 liá₂  𔒗 li₃/lì 𔒖 LIₓ   <> 𐘙 le 𐀩 re 𔗹 𓄙 RE 𓏯 l 𔖱 𔖲 ra  𓎫 𓂋 𔖭 𔖮 𔖰 
-M     𔒅 ma ~ 𔒄 ma = 𔒃 MA 𔘅 ma2? 𔗘 𔖻 mi 𔑿 mu 𔑾𔒀𔒁 𔖶 male man 𔖭 mono 𔖮 MINUS 𔗄 mille
+M     𔒅 ma ~ 𔒄 ma = 𔒃 MA 𔘅 ma2? 𔗘 𔖻 mi 𔑿 mu 𔑾𔒀𔒁 𔖶 male man 𔖭 mono 𔖮 MINUS 𔗄 mille 𔗷 𔗸 𐀖 mi
 N     𔐤 na 𔑝 na₂ 𔗐 niᶜ 𔓵 ni₂ 𔐽 ni₃ 𔒴 nu 𔖿 nu₂ 9 𔕶 ná NEG₂  𔕵 NEG₃
 P     𔕷/𔕹 pa 𔖎/𔕯 pu 𔑈 pi 𔑉 pi 𔓐 paⁿ
 Q     𔕰 kwai 𔖪c:z𔖩 <> 𔕱 𔘰 hwai walk
 R     𔖱 𔖲 rai 𔖭 -er 𔗳~ri 𔗑 ru 𔑵 ru₂/rú 𔑳𔑴  
-SA    𔗔 sa₁ 𔗦 sa₂/sá 𔑷 sa₃/sàⁿ 𔗆 sa₄ 𔕮 sa₅ 𔔀 sa₆ 𔕣 sa₇ 𔖮 -s ˢ ᵒˢ 𔖫 š/ǧ 
+SA    𔗔 sa₁ 𔗦 sa₂/sá 𔑷 sa₃/sàⁿ 𔗆 sa₄ 𔕮 sa₅ 𔔀 sa₆ 𔕣 sa₇ 𔖮 -s ˢ ᵒˢ 𔖫 š/ǧ/augment
 SIU   𔓉 si 𔗾 si₂/sí 𔖎? śi 𔖢 su/δʳ 𔒂 sú •çu 𔗵 śu/zúⁿ
 TA    𔑰 ta₁/te 𔐞 ta₂/tá 𔐫 ta₃/tà 𔐬 ta₃/tà 𔕦 ta₄/tu 𔓇 ta₅/ta 𔑛 ta₆
 TIU   𔑣 ti/tá 𔘟 ti₂/tí 𔙄 ti₃/tì 𔑢 tu 𔕬 tu₂/tú 𔕭 tu₃/tù 𔕦 tu/ta₄ 𔔈 tu² 𓈋 𓈇
@@ -29,7 +29,7 @@ W:B   𔗬 wa/wiᵒ 𔓁 wà/wìʳ 𔓀 wá/wíⁿ 𔐃 wa/wi₄ 𔓱 𔕑 #VIA 
 we := wai: = wa/wi -𔗬𔖪𔗔 -wazasa -usos
 
 a is an often optional vowel!
-𔗷 often connects to previous and deletes the following vowel …𔗷𔐤 ana/øna => /n/ /an/ /on/ /en/  !
+𔗷 •[[ma]] often connects to previous and deletes the following vowel …𔗷𔐤 ana/øna => /n/ /an/ /on/ /en/  !
 
 Rhoterized syllables "𔖲" r are mostely ommitted from unicode
 
@@ -178,7 +178,7 @@ _ ki2 ~ 𔕕𔕉𔘰𔘃  ~ 𐀬 ru 𐀶 tu <> 𔖩
 𔒖 lì ~ leather 𔒯 𔒭 𔒬 𔒮 ƒƒƒ
 
 # M
-
+𔗷 a 𓂝 a अस aṃs 𔗷 𐀖 mi 𔗸 arm ~ 𓂟 manu
 𔘅 /ma2?/ @Payne ≠ 𔖎/𔘸/𔘺 pa ?
 𔒅 ma ~ mäh 𐘋 ME mäh 𐀘 mu 𐘕 MU muh even in orthography!! <> 𐠖 mi 𐘒 MI 𐘏 Kuh 
 𔒅 ma <> 𓅓 Gerund in… -ing  𔗔𔒅 shooting -mek 𓁹 ⲙⲟⲛⲕ
@@ -188,9 +188,9 @@ _ ki2 ~ 𔕕𔕉𔘰𔘃  ~ 𐀬 ru 𐀶 tu <> 𔖩
 𔑿 mu 𔑾𔒀𔒁 Muh  𓏠 𓈖 𓃒 𓀸 ⲙⲁⲛⲓ
 𔖻 mi 𔗘 mi "four" 4 𓏠 many Menge 
 𔖻 mi 𔗘 mi "four" 4 𓏠 much meotkhe@Georgian
+𔖻 mi 𔗘 mi "four" 4 meyawes@Hittite māwinzi@Luwian მეოთხე meotxe 
 𔖻 mi 𔗘 mi "four" 4 le'mu 𒇹 𒐼	limmu@Sumerian <> lamda   
 𔖻 mi 𔗘 mi "four" 4 mawa@Luwian [Hittite meu, muwa (four)]  moɲrea? 
-𔖻 mi 𔗘 mi "four" 4 meyawes@Hittite māwinzi@Luwian მეოთხე meotxe 
 𔖻 mi 𔗘 mi "four" 4 mune,mínei,mcheche@Bantu mẹrin@Niger µtetra <> ЧⲦⲞⲞⲨ 
 𔖻 mi 𔗘 mi "four" 4 നാൽ nailu @ Dravidian <> 𔗾
 𔖻 mi 𔗘 mi "four" 4 maha mpat @ Austronesian
@@ -500,9 +500,11 @@ ahha (how, when) ahha~how ᵛahhaⁿ~when
 𔖞 TALA/TAL •total  𔖞 kall 𐘾𐘘 ka-ru @ LINEAR-A <> Keil
 𔗣 ᵖ#OMNIS₂ •pass 𐀞𐀯 pa-si πᾶς pâs “all, every” παῖς paîs 
 𔖝 #OMNIS all (𔔼 •pan/pâs 𔑛 𓃀 ~ 𔖝 Beil) √band/bind? PAN παν- πᾰμ- pam-
+𔖝 #OMNIS /pūnatinzi/ pantas! 𔖞? tanimminzi
 𔔼 | axe | Beil बन्चरो балта 𓃀 𓏏 𓌏 ፋስ fas 𐌰𐌵𐌹𐌶𐌹 < πᾶς 𔖝 𔗣 < 𓐍 𓊪 𓈙 𓌏 #ASCIA 𐌰𐌵𐌹𐌶𐌹 <> 𔔣 Erz 
 𔔽 /HAH/ Haue < Hacke 𒍏𒄩𒍣𒅔 ḫaṣṣinnu  •Ferse
 
+𔑘 #FEMINA 𒉿𒈾𒀜𒋾𒅖 (wanattis), 𒉿𒉿𒈾𒀸 wānas Venus
 𔑘 #FEMINA #MATER woman! 𓆇 oval eve ei -ia -y 𐘞 𐘠  ≠ 𔗌 𔗍 𓏑 𓈑 𓐎 𐂴 ? 
 𔑘 #FEMINA 𓏏 𓆇 -tia  𔒴 nu => 𔕳 nation 𔐱 FILIA
 𔐀 ego I 𓀁 vs 𔐅
@@ -647,6 +649,7 @@ ahha (how, when) ahha~how ᵛahhaⁿ~when
 𔔳 𔔴 𔔵 SCUTUM shield/scale(s)
 
 𔖫 staff #LITUUS 𓋴 𔖬 𔖉 #ia Jahr 𓆳 year  
+𔖫 • mace 𔖫𔐤	manāti "to see" augment
 𔖬 ~ 𔗋 𓋴 #west OCCIDENS •ia yemen 𓇋 𓏠 𓈖 𓏏 𓈉 west 
 𔓛 𓇓 𓋁 #ORIENS (•south-)east 
 𔒻 wi wine,vine #VINUM/VITIS √wind/wend!
