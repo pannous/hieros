@@ -159,7 +159,7 @@ DICTIONARY CAMUS
 ⲁ- , ⲁⲩ- 	adv of indefinitness "about" "around" a far fair fahr ungefähr, of then with n 	 prfx
 ⲁ- 	 🇬🇷 neg prfx "without, un-" < off,false,fei,bu,pas ⲁ~p
 ⲁⲧ- ⲁⲑ- 	 🇬🇷 neg prfx "a- anti-"
-ⲁⲁϥ ↔ ⲁϥ 	 fly 飞 fēi
+ⲁⲁϥ ↔ ⲁϥ 	 fly 飞 fēi <> aguilla eagle 𒀝 ak 
 ⲁⲃ ↔  ⲁϥ 	 fly ab/off
 ⲁⲃⲁⲑⲣⲁ 	 🇬🇷 n. bridge~ⲃⲁⲑⲣⲁ, dam; lit`without base` !
 ⲁⲃⲁⲕⲓⲥⲑⲉ 	 🇬🇷 n. wild gum~cumb~ⲁⲃ! ↔ tabak-eat @ backe?
@@ -389,7 +389,7 @@ agiacmoc :🇬🇷 mconsecrationsanctification, holiness
 ⲁⲗⲟⲩ
 ⲁⲗⲟⲩ , pl. ⲁⲗⲱⲟⲩⲓ 	 	mf. youth, boy,girl, maiden, servant  ⲁⲗⲟⲩ ~ janosh alⲯyouths
 	ⲙⲉⲧⲁⲗⲟⲩ 	 f. time of youth,youthfulness
-	ⲙⲉⲧⲣⲉϥϧⲁⲧⲉⲃⲁⲗⲟⲩ 	 m. child-slaying !!
+	ⲙⲉⲧⲣⲉϥϧⲁⲧⲉⲃⲁⲗⲟⲩ 	 m. child-slaying !! <<
 	ⲉⲣⲁⲗⲟⲩ 	 be young  aera-lush? <<<
 
 ⲁⲗⲟⲩⲃⲉϩ 	 	n. a white shining spot
@@ -464,11 +464,12 @@ agiacmoc :🇬🇷 mconsecrationsanctification, holiness
  ϩⲓϫⲱϥ , ⲁⲧϣⲁⲙⲟⲛⲓ ⲛⲧⲉⲛ- 	 adjunrestrained, uncontrollable
 ⲙⲉⲧⲁⲧϣⲁⲙⲟⲛⲓ ⲛⲧⲉⲛ- 	 f. un-controlledness, intemperance
  ⲛⲧⲉⲛ- 	 m. endurance, patience
-ⲙⲉⲧⲣⲉϥⲁⲙⲟⲛⲓ ⲛⲧⲉⲛ- 	 f. endu-rance
+ⲙⲉⲧⲣⲉϥⲁⲙⲟⲛⲓ ⲛⲧⲉⲛ- 	 f. endurance met'reqva.ment 𓌗 √rigid
 
 ⲁⲙⲟⲛⲓ , ⲙⲟⲛⲓ , ⲙⲁⲛⲟⲩ⳼ , ⲙⲁⲛⲟⲩⲟⲩ⳼ , ⲙⲉⲛⲛⲏⲧ⳼ 	 	(i) pasture,feed; feed, tend cattle
 ⲙⲁ ⲙⲙⲟⲛⲓ 	 m. place of pasture
-ⲣⲉϥⲁⲙⲟⲛⲓ 	 m. shepherd
+ⲣⲉϥⲁⲙⲟⲛⲓ   m. shepherd  𓌗 𓏠 𓈖 𓃒 𓀸 √rig <> 𓋴𓌗 سارح særəḥ  𓃀 𓍢 𓇩 𓌗 𓋿 berger
+ⲣⲉϥⲁⲙⲟⲛⲓ   m. shepherd  ποιμήν poimḗn (ⲣ pro!)
 ⲙⲁⲛⲓ ⲛ- 	 herd of
 ⲙⲁⲛⲓ , ⲙⲁⲛ- 	 pl. man/ou , meneu , &
 ϣⲍ ⲁϣ pl.	 m. herdsman, pastor(ii) be made fast, come to land,come into port (of ship)
