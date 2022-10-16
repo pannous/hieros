@@ -1,38 +1,42 @@
 Cuneified Ashurbanipal 6  
 
+7th century BC
+
 http://oracc.museum.upenn.edu/rinap/rinap5/Q003705/  
 http://oracc.museum.upenn.edu/rinap/rinap5/Q003705/cuneified  
 ⸢Lacunae⸣ markers removed, see original ^^  
 
 i 1 𒆰𒆳   𒁾𒊬𒊒𒋾     𒌑𒃻𒄭𒍪    𒅗𒊏𒅆  
 i 1 kul-lat ṭup-šar-ru-ti ú-šá-ḫi-zu ka-ra-ši  
-i 1 𓎟 ᵏall 𒁾 tab-scrit™ usher•		ከርሥ karś 𓄣𓄡   
-i 1 (they the gods) allowed• (my) mind to learn(?) all scribal-arts.   
+i 1 𓎟ᵏalle topic-scrit™  usher•they	 karś.I 𓂓 𓄣𓄡 ከርሥ 
+i 1 all scribal-arts (the gods) allowed• my mind to learn(?)    
 
 i 2 𒂊𒇷 𒈗𒎌    𒀀 𒈨   𒉺𒊩𒆠  
 i 2 e-li  LUGAL.MEŠ a-šib pa-rak-ki  
-i 3 𓎟on		regali'is 𓈞 𓋴 𓀔 preike(stolen) 𓆱 𓐍 𓏏 𓅂 𓊍 (dais,ᵖardán,podium,pracht-barack™)  
+i 2 al𓎫		regali'is 𓈞 𓋴 𓀔 preike(stolen)  𓆱 𓐍 𓏏 𓅂 𓊍 (dais,ᵖardán,podium,pracht-barack™)  
+i 2 [𓂋 greater] than kings who sit on daises, 
+
 i 3 𒍣𒄫 𒈬𒅀 𒌑 𒊬𒊑𒄷  
 i 3 zi-kir MUⁿia ú-šar-ri-ḫu  
-i 3 decré nameia besseriḫu ( 𓃀 𓏏 𓆰 ≈ 𒌑 úᵈ weed, food )   
+i 3 decré nameia besseriḫu ( 𓋴 𓇋 𓎛 𓃶 𒊬𒊑 šarri exalt besser )   
+i 3 they glorified (mention of?) my name 
+
 i 4 𒌑𒊬𒁍𒌑 𒂗𒌑𒋾  
 i 4 ú-šar-bu-ú EN-ú-ti  
 i 4 besserabû 𓆥 Baaltum  
+i 4 (and) made my lordship greater.  
 
-i 2-4 [greater] than kings who sit on daises, They(𒄷?) glorified~ (mention of?) my name (and) made my lordship greater.  
-
-𒌑𒃻𒄭𒍪 ú-šá-ḫi-zu ahāzu TAKE, instruct  
+𒌑𒃻𒄭𒍪 ú-šá-ḫi-zu úš•ahāzu TAKE, instruct  
 oracc.museum.upenn.edu/rinap/rinap5/sig?☣%40rinap%2Frinap5%25akk%3Au₂-ša₂-hi-zu%3Dahāzu[take%2F%2Finstruct]V´V%24ušāhizū  
-
 
 i 5 𒌍𒊑𒂊𒋾   𒆳 𒀸𒋩𒆠     𒆳  𒌵𒆠  
 i 5 eš-re-e-ti KUR aš-šur.KI KUR URI.KI  
 i 5 a'shrine™ 𒆳 Assyria 𒆳 [[que]] Aʳkad   
-i 5 (As for) the sanctuaries of Assyria (and) the land Akkad   
+i 5 The sanctuaries of Assyria (and) the land Akkad, …
 i 6 𒊭 𒁹 𒀭𒊹𒉽𒀸 				𒈗  𒆳   𒀸𒋩𒆠 		𒀜   𒁀𒉌𒅀  
 i 6 ša ᵐAN.ŠÁR-PAP-AŠ LUGAL KUR aš-šur.KI  ᵛADᵃ  ba-ni-ia  
-i 6 ça «Aššur-Papas/Vaddon/ahu-iddina» regal 𒆳 Ašur𒆠 Vater baun-I  
-i 6 Esarhaddon, king of Assyria, the father (who had engendered me??), 
+i 6 ça «Aššur-Papas/Vaddon/ahu-iddina» regal 𒆳 Ašur𒆠 Vater baun-I  ( born! )
+i 6 Esarhaddon, king of Assyria, the father who had installed me, 
 
 i 7 𒁴𒈨𒂗  𒋙𒌦 𒀉𒁺𒌑  
 i 7 tem-me-en.šú-un id-du-ú  
@@ -173,9 +177,9 @@ i 32 at-ru-uṣ-ma ú-kin  ta-ra-an-šú
 i 32 at•rise.ma  hegen𓀄 Dachran šú   (√tarāṣu •stretch  ጣራ ṭara≈Dach )  
 i 32 I stretched out its covering and (thus) secured its roof .  
 
-i 33 𒄑𒇀        𒈲𒌅 𒊒𒁺     𒀭𒀫𒌓  
-i 33 GIŠ.GIGIR  ṣir-tu ru-kub    dAMAR.UTU2  
-i 33    𓌝car  𓋴𓂋𓏮𓃱   𓃭𓏤𓎡𓄿𓃀𓌝 de Marduk  
+i 33 𒄑𒇀        𒈲𒌅      𒊒𒁺       𒀭𒀫𒌓  
+i 33 GIŠ.GIGIR  ṣir-tu      ru-kub      dAMAR.UTU  
+i 33 𓌝carriage 𓋴 𓇋 𓎛 𓃶 𓃱   𓃭 𓏤𓎡𓄿𓃀𓌝 de Marduk  
 i 33 (As for) the exalted chariot, the vehicle of the god Marduk,   
 
 
@@ -493,7 +497,7 @@ i 96 any   symbol™ ÉKUR much-as be/sein𓃹𓃺 sol☼bar 𓐍 𓋴 𓋞 opus
 i 96 I made every type of temple appurtenance there is from silver (and) gold, 
 
 i 97 𒂊𒇷 𒊭 𒈗𒎌 𒀜𒎌𒅀 𒌑𒋥𒁲  
-i 97 e-li ša LUGAL.MEŠ AD.MEŠ-ia ú-rad-di  
+i 97 e-li ša LUGAL.MEŠ ᵛAD.MEŠ-ia ú-rad-di  
 i 97 eliv ša regalimes Vadta-yo úr-add(I)
 i 97 (and) I added (them) to those of the kings, my ancestors.
 
@@ -502,427 +506,1416 @@ i 98 DINGIR.MEŠ GAL.MEŠ ti-ik-le-ia4
 i 98 I made the great gods who support me reside in their exalted inner sanctums.  
 
 
+i 1' 𒋛 𒁲   𒂙     𒈾𒉺𒀾   𒀭𒊺𒉀  
+i 1' SI.SÁ   BURU₁₄ na-pa-áš d.nisaba  
+i 1' success fruit 𓂊𓄤 πᾶς	deoni'sperma 𓇡
+i 1' Successful harvest(s and) an abundance of grain 
 
-
-i 1' 𒋛𒁲 𒂙 𒈾𒉺𒀾 𒀭𒊺𒉀  
-i 1 SI.SÁ BURU₁₄ na-pa-áš dnisaba  
 i 2' 𒅗𒀀𒀀𒀭 𒌑𒋚𒈾𒁍 𒄀𒉺𒊒  
-i 2 ka-a-a-an ú-šaḫ-na-bu gi-pa-ru  
-i 3' 𒍦𒉺𒀀𒋾 𒋗𒌝𒈬𒄩 𒅔𒁍 𒈧𒀲 𒋗𒋼𒋩 𒀸 𒋫𒀖𒋾  
-i 3 ṣip-pa-a-ti šu-um-mu-ḫa in-bu MÁŠ.ANŠE šu-te-šur ina ta-lit-ti  
-i 4' 𒀸 𒁄𒎌𒅀 𒃶𒉣 𒃮𒁺 𒀸 𒈬𒀭𒈾𒎌𒅀 𒆪𒌝𒈬𒊒 𒃶𒅅𒈝  
-i 4 ina BALA.MEŠ-ia ḪÉ.NUN ṭuḫ-du ina MU.AN.NA.MEŠ-ia ku-um-mu-ru ḪÉ.GÁL-lum  
-i 5' 𒌋𒈫 𒀲 𒊺𒉻𒎌 𒐈 𒀲 𒃾𒎌 𒑐 𒉌𒎌 𒄘𒌦 𒋠𒎌
-i 5 12 ANŠE ŠE.PAD.MEŠ 3 ANŠE GEŠTIN.MEŠ BANMIN Ì.MEŠ GUN SÍG.MEŠ  
-i 6' 𒀸 𒀮𒄯 𒆳𒅀 𒆠𒇴 𒀮𒋙 𒄿𒌑𒈬 𒀸 𒁹 𒂆 𒆜𒉿  
-i 6 ina nap-ḫar KUR-ia KI.LAM nap-šú i-šam-mu ina 1 GÍN kas-pi  
+i 2' ka-a-a-an ú-šaḫ-na-bu gi-pa-ru  
+i 2' constant úš-hanpu 𓎛𓈖𓆰 acre-parcel
+i 2' enabled pasture land to continually flourish, 
+
+i 3' 𒍦𒉺𒀀𒋾 𒋗𒌝𒈬𒄩 			𒅔𒁍    𒈧 𒀲    𒋗𒋼𒋩 𒀸 𒋫𒀖𒋾  
+i 3' ṣip-pa-a-ti šu-um-mu-ḫa in-buʳ   MÁŠ.ANŠE  šu-te-šur ina ta-lit-ti  
+i 3' 𓎱 𓂧 𓄿 𓃀 𓆳  šym.maḫa in fruit  𓏠 𓈖 𓃒  sweat-sehr 𓋴𓂋𓃱 etonio 
+i 3' fruit orchards to be very lush with fruit, (and) cattle to successfully give birth to (their) young. 
+
+
+i 4' 𒀸  𒁄𒎌 𒅀    𒃶𒉣 𒃮𒁺  𒀸 𒈬𒀭𒈾𒎌𒅀      𒆪𒌝𒈬𒊒    𒃶 𒅅𒈝  
+i 4' ina BALA.MEŠ-ia ḪÉ.NUN ṭuḫ-du ina MU.AN.NA.MEŠ-ia ku-um-mu-ru ḪÉ.GÁL-lum  
+i 4' in  Bāl'es yo   conon  total  in  my.anno's yo  	 cummula  	 con 𒃲 gallum
+i 4' During my reign, there was plenitude (and) abundance; during my years, bountiful produce was accumulated.  
+
+i 5' 𒌋𒈫 𒀲  𒊺 𒉻𒎌     𒐈 𒀲 𒃾𒎌      𒑐 𒈫     𒉌𒎌  𒄘𒌦 𒋠𒎌
+i 5' 12 ANŠE ŠE.PAD.MEŠ 3 ANŠE GEŠTIN.MEŠ BANMIN?  Ì.MEŠ GUN    SÍG.MEŠ  
+i 5' 12 Esel seed/sperm 3 Esel Gersten(Malz) 𒈫 oil's (a) coin Zeug's
+i 5' twelve donkey-loads of grain could purchase three homers of wine, two seahs of oil, (and one) talent of wool. 
+
+i 6' 𒀸   𒀮𒄯     𒆳𒅀  𒆠𒇴   𒀮𒋙      𒄿𒌑𒈬  𒀸  𒁹 𒂆 𒆜𒉿  
+i 6' ina nap-ḫar KUR-ia KI.LAM nap-šú i-šam-mu ina 1 GÍN kas-pi  
+i 6' ina na𓎟pan kuria kallam, 𓋞?   ∑-sammel in one coin késepher 𓐍 𓋴 𓋟 𓋠 כֶּסֶף   	(∑ sumali @ Austronesian)
+i 6' Throughout my entire land, (on account of) abundant trade, for one shekel of silver  
+
 i 7' 𒆳𒋾𒌑𒈠 𒀸 𒃮𒁲 𒌋 𒈨𒃻𒊑  
-i 7 šat-ti-šam-ma ina ṭuḫ-di u me-šá-ri  
-i 8' 𒅈𒋼𒀪 𒁀𒀪𒌑𒆳 𒀭𒂗𒆤  
-i 8 ar-te-ʾa ba-ʾu-ú-lat dEN.LÍL  
+i 7' šat-ti-šam-ma ina ṭuḫ-di u me-šá-ri  
+i 7' 𜓗𜎅𜎦 𜎊𜎅𜎦 𒌓™ 𒌗™ in total u. measure (𓄟 mosari dobrobyt )
+i 7' Year after year, in prosperity and with justice.  
+
+i 8' 𒅈𒋼𒀪 𒁀𒀪𒌑𒆳      𒀭𒂗𒆤  
+i 8' ar-te-ʾa ba-ʾu-ú-lat dEN.LÍL  
+i 8' herdeʾa buhleute 𒇽 de Enlil 
+i 8' I shepherded the subjects of the god Enlil 
+
 i 9' 𒀭𒎌 𒃲𒎌 𒃻 𒀊𒊑𒆷𒄷 𒀭𒊻𒋢𒌦  
-i 9 DINGIR.MEŠ GAL.MEŠ šá ap-tal-la-ḫu DINGIR-us-su-un5  
-
-i 1' Successful harvest(s and) an abundance of grain enabled pasture land to continually flourish, fruit orchards to be very lush with fruit, (and) cattle to successfully give birth to (their) young. During my reign, there was plenitude (and) abundance; during my years, bountiful produce was accumulated.  
-
-
-i 5' Throughout my entire land, (on account of) abundant trade, for one shekel of silver one could purchase twelve donkey-loads of grain, three homers of wine, two seahs of oil, (and one) talent of wool. Year after year, I shepherded the subjects of the god Enlil in prosperity and with justice.  
-
-
+i 9' DINGIR.MEŠ GAL.MEŠ šá ap-tal-la-ḫu DINGIR-us-su-un5  
 i 9' The great gods, whose divinity I constantly revered  
 
 
 
-ii 1 𒌑𒈾𒀾𒃻𒄣 𒄊𒅀𒅀
-ii 2 𒂷𒆠 𒃲𒎌 𒃻 𒍢𒌨 𒌋 𒅆𒆷𒀭  
+ii 1 𒌑𒈾𒀾𒃻𒄣    𒄊𒅀 𒅀
+ii 1 ú-na-áš-šá-qu GÌR.II-ia  
+ii 1 ú-nose.qyu    𓂻 𓏮 yo
+ii 1 kiss my feet 
+
+ii 2 𒂷𒆠   𒃲𒎌   𒃻 𒍢𒌨 𒌋 𒅆𒆷𒀭  
+ii 2 ᵐal-ki GAL.MEŠ šá ṣi-taš u ši-la-an  
+ii 2 ᵐaliki große   šá ☼𓊢east u. sol☼layn 
+ii 2 great rulers from east and west 
+
 ii 3 𒀀𒈾 𒆤𒊑𒋗𒉡 𒌑𒉺𒄣𒌋𒉌  
+ii 3 a-na kit-ri-šu-nu ú-pa-qu-u-ni  
+ii 3 in   quiTrue• 𓏏 𓂋 𓆵 𓄥 𓏜 ú-panic ( 𓐍 𓏏 𓆑 ceteri "others")
+ii 3 are anxious for me to be their ally.  
+
 ii 4 𒄿𒈾 𒈤𒊑𒂊 𒄫𒊑𒅀  
-ii 5 𒀀𒈾 𒆳𒈣𒃶 𒌋 𒆳𒈨𒈛𒄩 𒇻𒌋 𒀠𒌨
-ii 6 𒁹𒋻𒄣𒌋 𒌋𒌋 𒆳𒈬𒀫 𒌋 𒆳𒆪𒌋𒋛  
-ii 7 𒊭 𒁹𒀭𒊹𒉽𒀸 𒌋𒌋 𒆳 𒀭𒊹𒆠 𒀜 𒁀𒉡𒌋𒀀  
-ii 8 𒅆𒅆𒋙 𒅖𒆪𒉡 𒄿𒁁𒇻 𒆳𒋢  
-ii 9 𒁕𒈾𒀭 𒀭𒊹 𒌋 𒀭15 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀 𒅎𒅆𒈠  
+ii 4 i-na maḫ-re-e ger-ri-ia6  
+ii 4 in   maḫra    guerre yo
+ii 4 On my first campaign, 
+
+ii 5 𒀀𒈾 𒆳𒈣𒃶     𒌋 𒆳𒈨𒈛𒄩 				𒇻𒌋  𒀠𒌨
+ii 5 a-na KUR.má-kan u KUR.me-luḫ-ḫa lu-u al-lik7  
+ii 5 in KUR 𓄟Moskean u KUR Meluḫḫa  𓂋 al walk
+ii 5 I marched to Makan (Egypt) and Meluḫḫa (Ethiopia). 
+
+ii 6 𒁹 𒋻𒄣𒌋   𒌋𒌋  𒆳𒈬𒀫 𒌋 𒆳𒆪𒌋𒋛  
+ii 6 ᵐtar-qu-u MAN KUR.mu-ṣur u KUR.ku-u-si  
+ii 6 Taharqa, the king of Egypt and Kush, 
+
+ii 7 𒊭 𒁹𒀭𒊹𒉽𒀸        𒌋𒌋 𒆳 𒀭𒊹𒆠 𒀜 𒁀𒉡𒌋𒀀  
+ii 7 ša mAN.ŠÁR-PAP-AŠ  MAN KUR AN.ŠÁR.KI AD ba-nu-u-a  
+ii 7 ša mAN Aššur-Papas, Monarch Assyria Vadda baun-I
+ii 7 who Esarhaddon — king of Assyria, the father who had installed me — 
+
+ii 8 𒅆𒅆 𒋙 				𒅖𒆪𒉡 		𒄿𒁁𒇻 𒆳𒋢  
+ii 8 BAD₅.BAD₅-šú iš-ku-nu i-be-lu KUR-su  
+ii 8 dibat šú, establish überᵉbēl country ʰsu
+ii 8 defeated him, whose land he ruled over
+
+ii 9 𒁕𒈾𒀭   𒀭𒊹   𒌋 𒀭15 𒀭𒎌      𒃲𒎌    𒂗𒎌𒅀   𒅎𒅆𒈠  
+ii 9 da-na-an AN.ŠÁR u d15 DINGIR.MEŠ GAL.MEŠ EN.MEŠ-ia im-ši-ma  
+ii 9 Donnern Aššur u ᵖIštar Deon'es großes Bel'es yo    um¬šimaᵏ 𓋴 𓅓 𓐍 𓂜 𓀁 
+forgot the might of (the god) Aššur and the goddess Ištar, the great gods, my lords, and 
 
 ii 10 𒀉𒋫𒆸 𒀀𒈾 𒂊𒈮 𒊏𒈠𒉌𒋙
-ii 11 𒂊𒇷 𒈗𒎌 𒇽𒆥𒉺𒀀𒉌  
-ii 12 𒊭 𒆠𒆗 𒆳𒈬𒀫 𒌑𒉺𒆠𒁺 𒀜 𒁀𒉡𒌋𒀀  
-ii 13 𒀀𒈾 𒁕𒀀𒆠 𒄩𒁀𒀀𒋼 𒌋 𒂊𒁶 𒆳𒈬𒀫  
-ii 14 𒅋𒇷𒅗 𒂔𒍑𒋙𒌦  
+ii 10 it-ta-kil a-na e-muq ra-ma-ni-šú  
+ii 10 ittakil™  in   armaqa remain! šú  (H!!)
+ii 10 trusted in his own strength. 
 
-ii 15 𒂊𒊒𒌝𒈠 𒌑𒈨 𒆠𒆗 𒌷𒈨𒅎𒉿
+ii 11 𒂊𒇷 𒈗𒎌 𒇽𒆥𒉺𒀀𒉌  
+ii 11 e-li LUGAL.MEŠ LÚ.qe-pa-a-ni  
+ii 11 al   regali'is Leutequipean™ 𓃮
+ii 11 (He marched against) the kings (and) officials, 
+
+ii 12 𒊭 𒆠𒆗 𒆳𒈬𒀫 𒌑𒉺𒆠𒁺 𒀜 𒁀𒉡𒌋𒀀  
+ii 12 ša qé-reb KUR.mu-ṣur ú-pa-qí-du AD ba-nu-u-a  
+ii 12 ša coreba KUR 𓄟Moser up𓐪acquit Vadda born-I
+ii 12 whom the father who had installed me had appointed inside Egypt, 
+
+ii 13 𒀀𒈾 𒁕𒀀𒆠 𒄩𒁀𒀀𒋼      𒌋   𒂊 𒁶 𒆳𒈬𒀫  
+ii 13 a-na da-a-ki ḫa-ba-a-te u  e-kem KUR.mu-ṣur  
+ii 13 en takill    räubertum  et'takem KUR Mizraim
+ii 13 to kill (and) rob (them) and to take away Egypt (from them). 
+
+ii 14 𒅋𒇷𒅗 𒂔𒍑𒋙𒌦  
+ii 14 il-li-ka EDIN-uš-šú-un  
+ii 14 (walk against => ii 11 )   German/Latin grammar with very late tangling final verbs!
+
+ii 15 𒂊𒊒𒌝𒈠   𒌑𒈨   𒆠𒆗  𒌷𒈨𒅎𒉿
+ii 15 e-ru-um-ma ú-šib qé-reb URU.me-em-pi  
+ii 15 enᵗrooma ú-seabt coreba 𓏌𓊖 Memphis
+ii 15 He entered and resided in the city Memphis, 
+
 ii 16 𒌷 𒊭 𒀜 𒁀𒉡𒌋𒀀 𒅅𒋗𒁺  
+ii 16 URU ša AD ba-nu-u-a ik-šu-du  
+ii 16 Ort ša Vadda bornua accashed
+ii 16 a city that the father who had installed me had conquered 
+
 ii 17 𒀀𒈾 𒈪𒈲 𒆳𒋙 𒌑𒌁𒊒  
-ii 18 𒀠𒆷𒆪 𒄩𒀭𒂅 𒆠𒆗 𒀏𒆠 𒅋𒌨𒄠𒈠  
+ii 17 a-na mi-ṣir KUR-šú ú-ter-ru  
+ii 17 an 𓇥𓂋 [[marsh]] court šú ú-turn 𓇾 <<<!
+ii 17 (and) made part of the territory of his land. 
+
+ii 18 𒀠𒆷𒆪  𒄩𒀭𒂅    𒆠𒆗  𒀏𒆠   𒅋𒌨𒄠𒈠  
+ii 18 al-la-ku ḫa-an-ṭu qé-reb NINA.KI il-lik-am-ma  
+ii 18 A walker 𓃹runned coreba Nineveh walke-me
+ii 18 A fast messenger came to Nineveh and reported (this) to me. 
+
 ii 19 𒌑𒃻𒀭𒈾𒀀 𒅀𒀀𒋾  
+ii 19 ú-šá-an-na-a ia-a-ti  
+ii 19 ú-zweine yo at
+ii 19 and repeated (this) to me.
 
 ii 20 𒌋𒅗 𒅁𒊺𒂊𒋾 𒀭𒈾𒀀𒋾
+ii 20 UGU ep-še-e-ti an-na-a-ti  
+ii 20 against opuset jene-die
+ii 20 about these deeds, 
+
 ii 21 𒊮𒁉 𒄿𒍝𒄢𒈠 𒄑𒍝𒊒𒄴 𒅗𒁁𒋾  
+ii 21 lìb-bi i-gug-ma iṣ-ṣa-ru-uḫ ka-bat-ti  
+ii 21 Leibei angerma, heiss☼sarah karbottom 𓂓 𓅽  (≈ 𓄡 Bauch™)
+ii 21 my heart became enraged and my temper turned hot. 
+
 ii 22 𒀜𒆠𒂊𒈠 𒇽𒂊𒈬𒆥𒅀 𒍢𒊏𒀀𒋾  
+ii 22 ad-ke-e-ma LÚ.e-mu-qi-ia ṣi-ra-a-ti  
+ii 22 adeku.ma™ elite'muqia syraty
+ii 22 I mustered my elite forces 
+
+
 ii 23 𒊭 𒀭𒊹 𒌋 𒀭15 𒌑𒂷𒇻𒌋 𒋡𒀀𒌅𒌋𒀀  
+ii 23 ša AN.ŠÁR u d15 ú-mal-lu-u qa-a-tu-u-a  
+ii 23 that Aššur and the Ištar had placed in my hands 
+
 ii 24 𒀀𒈾 𒆳𒈬𒀫 𒌋 𒆳𒆪𒌋𒋛 𒍑𒋼𒊺𒊏 𒄯𒊏𒉡  
+ii 24 a-na KUR.mu-ṣur u KUR.ku-u-si uš-te-še-ra ḫar-ra-nu  
+ii 24 on court Mizraim u KUR Kush   astraight courran™ 𓈐
+ii 24 and I made (them) take the direct road to Egypt and Kush.  
+
 ii 25 𒀸 𒈨𒋾𒅅 𒄫𒊑𒅀
+ii 25 ina me-ti-iq ger-ri-ia  
+ii 25 in a matter? guerreia
+ii 25 In the course of my campaign, 
+
 ii 26 𒁹𒁀𒀪𒇻 𒈗 𒆳𒀫𒊑  
+ii 26 ᵐba-ʾa-lu LUGAL KUR.ṣur-ri  
+Baʾalu, king of the land Tyre,
 ii 27 𒁹𒈪𒅔𒋛𒂊 𒈗 𒆳𒅀𒌑𒁲  
+ii 27 ᵐmi-in-se-e LUGAL KUR.ia-ú-di  
+Manasseh, king of the land Judah,
 ii 28 𒁹𒋡𒍑𒃮𒊑 𒈗 𒆳𒌑𒁺𒈨  
+ii 28 ᵐqa-uš-gab-ri LUGAL KUR.ú-du-me  
+Qaʾuš-gabri, king of the land Edom,
 ii 29 𒁹𒈬𒀫𒄿 𒈗 𒆳𒈠𒀪𒁀  
-
+ii 29 ᵐmu-ṣur-i LUGAL KUR.ma-ʾa-ba  
+Muṣurī, king of the land ᵐoab,
 ii 30 𒁹𒄑𒈪𒂗 𒈗 𒆳𒄩𒍣𒋾
+ii 30 ᵐGISSU-EN LUGAL KUR.ḫa-zi-ti  
+(ii 30 Ṣil-Bēl, king of the land Gaza,
 ii 31 𒁹𒈪𒋾𒅔𒋾 𒈗 𒆳𒄑𒋡𒇻𒈾  
+ii 31 ᵐmi-ti-in-ti LUGAL KUR.is-qa-lu-na  
+Mitinti, king of the land Ashkelon,
 ii 32 𒁹𒄿𒅗𒌑𒋢 𒈗 𒆳𒄠𒃼𒌋𒈾  
+ii 32 ᵐi-ka-ú-su LUGAL KUR.am-qar-u-na  
+Ikausu, king of the land Ekron,
 ii 33 𒁹𒅖𒆠𒀀𒃻𒉺 𒈗 𒆳𒄖𒌒𒇷  
+ii 33 ᵐmil-ki-a-šá-pa LUGAL KUR.gu-ub-li  
+Milki-ašapa, king of the land Byblos,
 ii 34 𒁹𒅀𒆠𒅔𒇻𒌑 𒈗 𒆳𒅈𒌑𒀀𒁕  
+ii 34 ᵐia-ki-in-lu-ú LUGAL KUR.ar-ú-a-da  
+Yakīn-Lû, king of the land Arwad,
 ii 35 𒁹𒀀𒁉𒁀𒀪𒀠 𒈗 𒆳𒊓𒄠𒋛𒈬𒊒𒈾
+ii 35 ᵐa-bi-ba-aʾ-al LUGAL KUR.sa-am-si-mu-ru-na  
+(ii 35 Abī-Baʾal, king of the land Samsimurruna,
 ii 36 𒁹𒄠𒈪𒈾𒀜𒁉 𒈗 𒆳𒂍𒄠𒈠𒈾  
+ii 36 ᵐam-mi-na-ad-bi LUGAL KUR.É-am-ma-na  
+Ammi-nadbi, king of the land Bīt-
 ii 37 𒁹𒉽𒅖𒆠 𒈗 𒆳𒊍𒁺𒁲  
+ii 37 ᵐPAP-mil-ki LUGAL KUR.as-du-di  
+mmon, Aḫī-Milki, king of the land Ashdod,
 ii 38 𒁹𒂊𒆠𒅖𒌅𒊏 𒈗 𒆳𒂊𒁲𒀪𒇷  
+ii 38 ᵐe-ki-iš-tu-ra LUGAL KUR.e-di-iʾ-li  
+ Ekištūra, king of the land Idalion,
 ii 39 𒁹𒉿𒆷𒀀𒄖𒊏𒀀 𒈗 𒆳𒆠𒀉𒊒𒋛  
-
+ii 39 ᵐpi-la-a-gu-ra-a LUGAL KUR.ki-it-ru-si  
+Pilagurâ, king of the land Kitrusi,
 ii 40 𒁹𒆠𒄿𒋢 𒈗 𒆳𒋛𒇻𒌋𒀀
+ii 40 ᵐki-i-su LUGAL KUR.si-lu-u-a  
+(ii 40 Kīsu, king of the land Salamis,
 ii 41 𒁹𒄿𒌅𒌋𒀭𒁕𒅈 𒈗 𒆳𒉺𒀊𒉺  
+ii 41 ᵐi-tu-u-an-da-ar LUGAL KUR.pa-ap-pa  
+Itūandar, king of the land Paphos,
 ii 42 𒁹𒂊𒊑𒋢 𒈗 𒆳𒋛𒅋𒇻  
+ii 42 ᵐe-re-su LUGAL KUR.si-il-lu  
+Erēsu, king of the land Soloi,
 ii 43 𒁹𒁕𒈠𒋢 𒈗 𒆳𒆪𒊑𒄿  
+ii 43 ᵐda-ma-su LUGAL KUR.ku-ri-i  
+Damāsu, king of the land Curium,
 ii 44 𒁹𒄉𒈨𒋢 𒈗 𒆳𒋫𒈨𒋢  
+ii 44 ᵐád-me-su LUGAL KUR.ta-me-su  
+Admēsu, king of the land Tamassos,
 ii 45 𒁹𒁕𒈬𒌋𒋢 𒈗 𒆳𒃼𒋾𒄩𒁕𒊍𒋾  
+ii 45 ᵐda-mu-u-su LUGAL KUR.qar-ti-ḫa-da-as-ti  
+(ii 45 Damysos, king of the land Qartiḫadasti,
 ii 46 𒁹𒌑𒈾𒊓𒄖𒋢 𒈗 𒆳𒇷𒁲𒅕  
+ii 46 ᵐú-na-sa-gu-su LUGAL KUR.li-di-ir  
+Unasagusu, king of the land Lidir,
 ii 47 𒁹𒁍𒍮𒋢 𒈗 𒆳𒉡𒊑𒂊  
-ii 48 𒋗𒆸𒆸 𒌋𒌋𒈫 𒈗𒎌 𒊭 𒀀𒄭 𒌓𒁴  
-ii 49 𒉠 𒌓𒁴 𒅇 𒈾𒁀𒇷  
+ii 47 ᵐbu-ṣu-su LUGAL KUR.nu-re-e  
+Buṣusu, king of the land Nūria 
+
+
+
+ii 48 𒋗𒆸𒆸 𒌋𒌋𒈫 𒈗𒎌      𒊭 𒀀𒄭 𒌓𒁴  
+ii 48 ŠU.NIGIN 22 LUGAL.MEŠ ša a-ḫi tam-tim  
+ii 48 ∑syn.con 22 regali'is ša arm 𓈗 tallatum
+ii 48 in total twenty-two kings of the seacoast, 
+
+ii 49 𒉠 𒌓𒁴    𒅇 𒈾𒁀𒇷  
+ii 49 ᵐURUB₄ tam-tim ù na-ba-li  
+ii 49 the midst of the sea, and dry land, 
 
 ii 50 𒀴𒎌 𒁕𒆸 𒉺𒉌𒅀
-ii 51 𒋫𒈥𒋫𒋙𒉡 𒅗𒂍𒌅  
-ii 52 𒀸 𒅆𒅀 𒅖𒋗𒉏𒈠 𒌑𒈾𒅆𒄣 𒄊𒅀𒅀  
-ii 53 𒈗𒎌 𒃻𒀀𒌅𒉡 𒀀𒁲 𒂊𒈬𒆥𒋙𒉡  
-ii 54 𒄑𒈣𒎌𒋙𒉡 𒀸 𒌓𒁴 𒌋 𒈾𒁀𒇷  
-ii 55 𒀉𒋾 𒂟𒄭𒀀𒅀 𒌨𒄷 𒉺𒁕𒉡 𒌑𒃻𒊍𒂍𒋢𒉡𒋾  
-ii 56 𒀀𒈾 𒈾𒊏𒊒𒋾 𒄩𒆳 𒃻 𒈗𒎌 𒇽𒆠𒉺𒀀𒉌  
-ii 57 𒊭 𒆠𒆗 𒆳𒈬𒀫 𒀴𒎌 𒁕𒆸 𒉺𒉌𒅀  
-ii 58 𒌨𒊒𒄭𒅖 𒅈𒁲𒂊𒈠  
-ii 59 𒀠𒌨 𒀀𒁲 𒌷𒋼𒀀𒀭𒆕𒋾  
+ii 50 ARAD.MEŠ da-gíl pa-ni-ia  
+ii 50 Arbeitas [obey] proan'yo
+ii 50 servants who belonged to me, 
 
-ii 60 𒁹𒋻𒄣𒌋 𒌋𒌋 𒆳𒈬𒀫 𒌋 𒆳𒆪𒌋𒋛
-ii 61 𒆠𒆗 𒌷𒈨𒅎𒉿 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
-ii 62 𒀀𒈾 𒂊𒄫 𒉠 𒄑𒆪𒎌 𒌋 𒀞  
-ii 63 𒀀𒈾 𒈤𒊑𒅀 𒀉𒅗𒀀 𒇽𒂟𒎌 𒀞𒋙  
+ii 51 𒋫𒈥𒋫   𒋙𒉡 𒅗𒂍𒌅  
+ii 51 ta-mar-ta šú-nu ka-bit-tu  
+ii 51 δώρημα™   seine capitaleˢ  (to-maiþms 𐌼𐌰𐌹𐌸𐌼𐍃)
+ii 51 their substantial audience-gift(s) 
+
+ii 52 𒀸   𒅆𒅀    𒅖𒋗𒉏𒈠   𒌑𒈾𒅆𒄣 𒄊𒅀𒅀  
+ii 52 ina IGI-ia, iš-šu-nim-ma ú-na-ši-qu GÌR.II-ia  
+ii 52 an Auge yo synnehme, 𓋴 𓈖 𓂉 𓀁 nasequ 𓂻 𓏮 yo
+ii 52 carried before me and kissed my feet.  
+
+ii 53 𒈗𒎌    𒃻𒀀𒌅𒉡     𒀀𒁲 𒂊𒈬𒆥𒋙𒉡  
+ii 53 LUGAL.MEŠ šá-a?-tu-nu a-di e-mu-qi-šú-nu  
+ii 53 regali'is šá-dene    until armaqa seine
+ii 53 I made those kings, together with their forces 
+
+ii 54 𒄑𒈣𒎌		    𒋙𒉡   𒀸  𒌓𒁴  𒌋 𒈾𒁀𒇷  
+ii 54 GIŠ.MÁ.MEŠ-šú-nu ina tam-tim u na-ba-li  
+ii 54    marines seine in  𓈗 tallatum u Neubau?
+ii 54 (and) their boats, by sea and dry land,
+
+ii 55 𒀉𒋾 𒂟𒄭𒀀 𒅀     𒌨𒄷     𒉺𒁕𒉡 𒌑𒃻𒊍𒂍     𒋢𒉡𒋾  
+ii 55 it-ti ERIM.ḪI.A-ia ur-ḫu    pa-da-nu ú-šá-aṣ-bit su-nu-ti  
+ii 55 with Heeren.Heer yo viaroa™ pathᵒⁿ   ú-seize𓊖habit seine™?
+ii 55 with my troops I take (seize) the road (and) path 
+
+ii 56 𒀀𒈾 𒈾𒊏𒊒𒋾    𒄩𒆳    𒃻 𒈗𒎌 𒇽𒆠𒉺𒀀𒉌  
+ii 56 a-na na-ra-ru-ti ḫa-mat šá LUGAL.MEŠ LÚ.qé-pa-a-ni  
+ii 56 in a naur𓈖aide  helfat šá regali'is Leutequipean™
+ii 56 I quickly advanced to support (and) aid the kings (and) officials 
+
+ii 57 𒊭 𒆠𒆗   𒆳𒈬𒀫    𒀴𒎌          𒁕𒆸   𒉺 𒉌𒅀  
+ii 57 ša qé-reb KUR.mu-ṣur ARAD.MEŠ      da-gíl pa-ni-ia   
+ii 57 ša coreba court Mizraim, Arbeit'as tauglich proan'yo  (פָּנָה paná, “to face”)
+ii 57 who were in Egypt, servants who belonged to me, 
+
+ii 58 𒌨𒊒𒄭𒅖    𒅈𒁲𒂊𒈠  
+ii 58 ur-ru-ḫi-iš ar-de-e-ma  
+ii 58 hurriedly  𓂻√redû reach?
+
+
+ii 59 𒀠𒌨  𒀀𒁲   𒌷𒋼𒀀𒀭𒆕𒋾  
+ii 59 al-lik a-di    URU.kar-dDÙ-ti  
+ii 59 walk   ad/until Kār-DÙⁿti  
+ii 59 and I marched as far as the city Kār-Bānīte. 
+
+ii 60 𒁹𒋻𒄣𒌋    𒌋𒌋  𒆳 𒈬𒀫    𒌋 𒆳𒆪𒌋𒋛
+ii 60 ᵐtar-qu-u MAN KUR.mu-ṣur u KUR.ku-u-si  
+ii 60 Taharqa, the king of Egypt and Kush, 
+
+ii 61 𒆠𒆗 𒌷𒈨𒅎𒉿      𒀀𒋃  𒄫𒊑𒅀 𒅖𒈨𒈠  
+ii 61 qé-reb URU.me-em-pi a-lak ger-ri-ia iš-me-ma  
+ii 61 coreba Memphis      walk  guerreia 𓋴 𓅓 𓄔 semaⁿᵗ 
+ii 61 inside the city Memphis heard about the advance of my army 
+ii 61 / heard about the advance of my expeditionary force (while he was) inside the city Memphis, 
+
+ii 62 𒀀𒈾  𒂊𒄫  𒉠     𒄑𒆪𒎌       𒌋 𒀞  
+ii 62 a-na e-peš MURUB₄ GIŠ.TUKUL.MEŠ u MÈ  
+ii 62 an   opus martial [Ge]stockel u 𒀞 guerre ( 𒀝 AK 𒂟 Heer 𒀝 AR )
+ii 62 to wage armed battle and war
+
+ii 63 𒀀𒈾 𒈤𒊑𒅀 𒀉𒅗𒀀 𒇽𒂟𒎌 𒀞 𒋙  
+ii 63 a-na maḫ-ri-ia id-ka-a LÚ.ERIM.MEŠ MÈ-šú  
+ii 63 en   marchia ad'dekûr Leut'Heeres guerre šú (adekûr auserkoren "mustered")
+ii 63 ᵐustered his battle troops before me 
+
 ii 64 𒄿𒈾 𒌅𒆰𒋾 𒀭𒊹 𒀭𒂗 𒅇 𒀭𒀝 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀  
-ii 65 𒀀𒇷𒋻 𒄿𒁲𒅀  
-ii 66 𒀸 𒀞 𒂔 𒊐𒅆 𒀾𒆪𒈾 𒅆𒅆 𒂟𒄭𒀀𒋙  
-ii 67 𒁹𒋻𒄣𒌑 𒀸 𒆠𒆗 𒌷𒈨𒅎𒉿  
-ii 68 𒅖𒈠𒀀 𒈭𒋼𒂊 𒂟𒄭𒀀𒋙  
-ii 69 𒉆𒊑𒊑 𒀭𒊹 𒌋 𒀭15  
+ii 64 i-na tu-kul-ti AN.ŠÁR dEN ù dAG DINGIR.MEŠ GAL.MEŠ EN.MEŠ-ia  
+ii 64 en   zukulti™  Aššur, Bēl ù Nabûᵏ …
+ii 64 With the support of the gods Aššur, Bēl (Marduk), and Nabû, the great gods, my lords 
 
-ii 70 𒄑𒄷𒁍𒋗𒈠 𒅋𒇷𒅗 𒈤𒄷𒌨
-ii 71 𒈨𒇴𒈨 𒌋𒌋𒋾𒅀 𒅅𒌅𒈬𒋗𒈠  
+ii 65 𒀀𒇷𒋻 𒄿𒁲𒅀  
+ii 65 a-li-kut i-di?-ia  
+ii 65 walked a'side yo
+ii 65 who march at my side, 
+
+ii 66 𒀸 𒀞 𒂔 𒊐𒅆 𒀾𒆪𒈾 𒅆𒅆 𒂟𒄭𒀀𒋙  
+ii 66 ina MÈ EDIN rap-ši áš-ku-na BAD₅.BAD₅ ERIM.ḪI.A-šú  
+ii 66 in a guerrme widen rabuši establish dibat>defeat Heeren.Heer šú
+ii 66 in a widespread pitched battle I brought about the defeat of his troops 
+
+ii 67 𒁹𒋻𒄣𒌑    𒀸  𒆠𒆗  𒌷𒈨𒅎𒉿  
+ii 67 ᵐtar-qu-ú ina qé-reb URU.me-em-pi  
+ii 67 Taharqa, in a coreba Memphis,
+ii 67 Taharqa, (while he was) inside the city Memphis,
+
+ii 68 𒅖𒈠𒀀    𒈭𒋼𒂊  𒂟𒄭𒀀𒋙  
+ii 68 iš-ma-a  taḫ-te-e ERIM.ḪI.A-šú  
+ii 68 𓋴 𓅓 𓄔 à  Tot des 			Heer.šú  
+ii 68 heard about the defeat of his troops 
+
+ii 69 𒉆𒊑𒊑    𒀭𒊹  𒌋 𒀭15  
+ii 69 nam-ri-ri AN.ŠÁR u d15  
+ii 69 namely radiance Aššur y Ištar
+ii 69 The awe-inspiring radiance of (the god) Aššur and the goddess Ištar 
+
+
+ii 70 𒄑𒄷𒁍   𒋗𒈠   𒅋𒇷𒅗 𒈤𒄷𒌨
+ii 70 is-ḫu-pu šu-ma  il-li-ka     maḫ-ḫu-tíš  
+ii 70 a'super  šuhim,  walka 			 maḫatis ( > mad )
+ii 70 overwhelmed him and he went into a frenzy. 
+
+ii 71 𒈨𒇴𒈨     𒌋𒌋𒋾𒅀   𒅅𒌅𒈬  𒋗𒈠  
+ii 71 ᵐe-lam-me MAN-ti-ia ik-tu-mu-šu-ma  
+ii 71 ᵐelan.me  monasty.yo cutam šuhim
+ii 71 The brilliance of my royal majesty, covered him; 
+
 ii 72 𒃻 𒌑𒍝𒀪𒄿𒉡𒌋𒉌 𒀭𒎌 𒋗𒌓 𒀭 𒆠  
-ii 73 𒌷𒈨𒅎𒉿 𒌑𒈦𒋓𒈠  
-ii 74 𒀀𒈾 𒋗𒍪𒌒 𒍣𒁴𒋙 𒅔𒈾𒂍 𒀀𒈾 𒆠𒆗 𒌷𒉌𒀪  
-ii 75 𒌷 𒋗𒀀𒌓 𒊍𒁁 𒂟𒄭𒀀𒅀 𒌑𒊺𒆗 𒌑𒊺𒈨 𒀸 𒊮𒁉  
-ii 76 𒁹𒉌𒆪𒌋 𒈗 𒌷𒈨𒅎𒉿 𒅇 𒌷𒊓𒀀𒀀  
-ii 77 𒁹𒈗𒇻𒆕𒊑 𒈗 𒌷𒍢𒀪𒉡  
+ii 72 šá ú-za-ʾi-i-nu-u-ni DINGIR.MEŠ šu-ut AN KI  
+ii 72 šá ú-zaʳānu (adorn)  Deon'es   those heav'en'kur  𓋴 𓏠 𓈖 𓏛 ú-zaᵐānu
+ii 72 with which adorned the gods (of) heaven (and) netherworld 
+
+ii 73 𒌷𒈨𒅎𒉿    𒌑𒈦𒋓𒈠  
+ii 73 URU.me-em-pi ú-maš-šir-ma  
+ii 73 Ort Memphis út-marchir mak
+ii 73 he abandoned the city Memphis and, 
+
+ii 74 𒀀𒈾  𒋗 𒍪𒌒  𒍣𒁴 𒋙  𒅔𒈾𒂍    𒀀𒈾 𒆠𒆗 𒌷𒉌𒀪  
+ii 74 a-na šu-zu-ub ZI-tì-šú in-na-bit a-na qé-reb URU.ni-iʾ  
+ii 74 en šu zavbe zootì šú,  inhabit    en  coreba UR.Theonibᵒˢ
+ii 74 in order to save his (own) life, he fled inside the city Thebes. 
+
+ii 75 𒌷  𒋗𒀀𒌓   𒊍𒁁  𒂟𒄭𒀀𒅀      𒌑𒊺𒆗   𒌑𒊺𒈨     𒀸 𒊮𒁉  
+ii 75 URU šu-a-tú aṣ-bat ERIM.ḪI.A-ia ú-še-rib ú-še-šib ina lìb-bi  
+ii 75 Ort that aṣ-battle, Heere  yo   enšerib  & sesibt𓊨 inne Leibe > lebe !
+ii 75 I seized that city (Memphis) (and then) made my troops enter (and) reside there.  
+
+
+ii 76 𒁹𒉌𒆪𒌋    𒈗  𒌷𒈨𒅎𒉿   𒅇 𒌷 𒊓 𒀀𒀀  
+ii 76 ᵐni-ku-u LUGAL URU.me-em-pi ù URU.sa-a-a
+ii 76 Niko,    regal  𓊖  Memphis  v  𓊖 Saiũ.sa 𓊃 𓅭 𓄿 𓏲 𓊖 
+ii 76 Necho, king of the cities Memphis and Sais, 
+
+ii 77 𒁹𒈗𒇻𒆕𒊑     𒈗   𒌷 𒍢 𒀪𒉡  
+ii 77 ᵐLUGAL-lu-dà-ri LUGAL URU.ṣi-iʾ-nu  
+ii 77 Šarru-lū-dāri, king of the city Pelusium, 
+
 ii 78 𒁹𒉿𒃻𒀭𒄷𒊒 𒈗 𒌷𒈾𒀜𒄷𒌑  
-ii 79 𒁹𒉺𒀝𒊒𒊒 𒈗 𒌷𒉺𒅁𒌓  
+ii 78 ᵐpi-šá-an-ḫu-ru LUGAL URU.na-at-ḫu-ú  
+ii 78 Pi-šan-Ḫuru, king of the city Natho, 
+
+
+ii 79 𒁹𒉺𒀝𒊒𒊒     𒈗 𒌷 𒉺𒅁𒌓  
+ii 79 ᵐpa-aq-ru-ru LUGAL URU.šap-tú10  
+ii 79 Paqruru, king of the city (Pi)šaptu,
 
 ii 80 𒁹𒉌𒆟𒀀𒌋 𒈗 𒌷𒄩𒀜𒄭𒊑𒁉
-ii 81 𒁹𒈾𒄴𒆠𒂊 𒈗 𒌷𒄭𒉌𒅔𒅆  
-ii 82 𒈗𒎌 𒀭𒉡𒋾 𒇽𒉆𒎌 𒇽𒆥𒉺𒉌  
-ii 83 𒊭 𒆠𒆗 𒆳𒈬𒀫 𒌑𒉺𒆠𒁺 𒀜 𒆕𒌋𒀀  
-ii 84 𒊭 𒆷𒉺𒀭 𒋾𒁍𒌓 𒁹𒋻𒄣𒌋  
-ii 85 𒉿𒆤𒋫𒋙𒌦 𒌑𒈦𒊺𒊒 𒅎𒇻𒌑 𒂔  
+ii 80 ᵐni?-ḫer?-a-u LUGAL URU.ḫa-at-ḫi-ri-bi11  
+ii 80 Inaros (Niḫerau), king of the city Athribis, 
 
+ii 81 𒁹𒈾𒄴𒆠𒂊 𒈗 𒌷𒄭𒉌𒅔𒅆  
+ii 81 ᵐna-aḫ-ke-e LUGAL URU.ḫi-ni-in-ši  
+ii 81 (and) Naḫkê, king of the city Heracleopolis, 
+
+ii 82 𒈗𒎌     𒀭𒉡𒋾  𒇽𒉆𒎌   𒇽𒆥𒉺𒉌  
+ii 82 LUGAL.MEŠ an-nu-ti LÚ.NAM.MEŠ LÚ.qe-pa-ni  
+ii 82 those kings, governors, (and) officials 
+
+ii 83 𒊭 𒆠𒆗 𒆳𒈬𒀫      𒌑𒉺𒆠𒁺 𒀜 𒆕 𒌋𒀀  
+ii 83 ša qé-reb KUR.mu-ṣur ú-pa-qí-du AD DÙ-u-a  
+ii 83 ša coreba KUR Mizraim up𓐪acquit Vadda doer!
+ii 83 whom the father who had installed me had appointed in Egypt, 
+
+ii 84 𒊭 𒆷𒉺𒀭 𒋾𒁍𒌓 𒁹𒋻𒄣𒌋  
+ii 84 ša la-pa-an ti-bu-ut ᵐtar-qu-u  
+ii 84 ša al praan ti-battle 𓅓 Taharq
+ii 84 who, in the face of Taharqa’s tactical advance, 
+
+ii 85 𒉿𒆤𒋫    𒋙𒌦 𒌑𒈦𒊺𒊒     𒅎 𒇻𒌑 𒂔  
+ii 85 pi-qit-ta šú-un ú-maš-še-ru im-lu-ú EDIN12  
+ii 85 poqst 𓐪πqd seine ab-marchier imƒillú Eden
+ii 85 had abandoned their post(s) (and) had gone to (lit. “filled”) the countryside,
 
 
 ii 1' 𒉺𒀭 𒄑𒋙𒂈𒅀 𒌑𒌁𒊏𒄠𒈠  
-ii 2' 𒊩𒎌 𒀀𒌅𒊏 𒀀𒈾 𒆳 𒀸𒋩𒆠  
+ii 1 pa-an GIŠ.ŠUDUN-ia ú-ter-ra-am-ma
+ii 1 praan     Zügeln yo ú-turn.am   (ζυγόν zugón zgjedhë™ ☑ ) 
+ii 1' I turned around (lit. “I turned the front of my yoke”)  
+
+ii 2' 𒊩𒎌     𒀀𒌅𒊏 𒀀𒈾  𒆳 𒀸𒋩𒆠  
+ii 2 šal?-meš a-tu-ra a-na KUR aš-šur.KI  
+ii 2 salv'es re-toura anach KUR Assyria
+ii 2 and returned safely to Assyria.  
+
 ii 3' 𒂕𒉡 𒁹𒉌𒆪𒌑 𒁹𒈗𒇻𒆕𒊑 𒁹𒉺𒀝𒊒𒊒  
-ii 4' 𒀸 𒀀𒁲𒅀 𒄴𒂅𒌋 𒆷 𒄑𒍮𒊒 𒈠𒁁 𒀭𒎌 𒃲𒎌  
-ii 5' 𒁕𒀊𒋾 𒅎𒋗𒈠 𒊮𒁀𒋙𒉡 𒅅𒁍𒌓 𒇷𒄷𒄭𒌓
-ii 6' 𒁕𒉽 𒋩𒊏𒀀𒋾 𒀉𒁍𒁍𒈠  
-ii 7' 𒈨𒌨 𒆷 𒆪𒍜 𒅎𒇷𒆪 𒊏𒌋𒌋𒋙𒌦  
-ii 8' 𒌝𒈠 𒁹𒋻𒄣𒌋 𒌌𒌓 𒆠𒆗 𒆳𒈬𒀫  
-ii 9' 𒄿𒈾𒆤𒌑𒈠 𒀜𒌅𒉌 𒀀𒃻𒁀𒉌 𒈨𒄿𒉡  
+ii 3 EGIR-nu ᵐni-ku-ú ᵐLUGAL-lu-dà-ri ᵐpa-aq-ru-ru14  
+ii 3' Afterwards, Necho, Šarru-lū-dāri, (and) Pa-qruru 
+
+ii 4' 𒀸 𒀀𒁲 𒅀 𒄴𒂅𒌋,      𒆷   𒄑𒍮𒊒   𒈠𒁁 𒀭𒎌 𒃲𒎌  
+ii 4 ina a-de-ia iḫ-ṭu-u,     la  iṣ-ṣu-ru ma-mit DINGIR.MEŠ GAL.MEŠ15  
+ii 4 in a oath-yo schlechtu, nula assure   ma𓋬at  Deon'es    großes
+ii 4 sinned against my treaty (and) did not honor the oath(s sworn) by the great gods. 
+
+ii 5' 𒁕𒀊𒋾 𒅎𒋗𒈠   𒊮𒁀   𒋙𒉡   𒅅𒁍𒌓 𒇷𒄷𒄭𒌓
+ii 5 ṭa-ab-ti im-šu-ma, lìb-ba-šú-nu ik-pu-ud le-mut-tú  
+ii 5 top-tum  insomnia, Leiber seine ac-plot  lamed 𒈝 𓏱
+ii 5´ They forgot my kindness and their heart(s) plotted evil (deeds). 
+
+ii 6' 𒁕 𒉽    𒋩𒊏𒀀𒋾     𒀉𒁍𒁍𒈠  
+ii 6 da-bab   sur-ra-a-ti  id-bu-bu-ma  
+ii 6 talk-babbel treachery out-babbel
+ii 6 They spoke word(s) of treachery 
+
+ii 7' 𒈨𒌨 𒆷 𒆪𒍜 𒅎𒇷𒆪    𒊏𒌋𒌋  𒋙𒌦  
+ii 7 mì-lik la ku-širi₄ im-li-ku ra-man šú-un  
+ii 7 mìlik™ nula 𓐍 𓋴 𓋞 mìlik™    àmong sem  (H! but good!)
+ii 7 and decided (among) themselves on a profitless decision, 
+
+ii 8' 𒌝𒈠 𒁹 𒋻𒄣𒌋   𒌌𒌓 𒆠𒆗 𒆳𒈬𒀫  
+ii 8 um-ma  ᵐtar-qu-u ul-tú qé-reb KUR.mu-ṣur  
+ii 8 pheme: "Taharqa ultu coreba KUR Mizraim …
+ii 8 saying: “If they {remove} Taharqa from Egypt, 
+
+ii 9' 𒄿𒈾𒆤𒌑𒈠   𒀜𒌅𒉌   𒀀𒃻𒁀𒉌    𒈨𒄿𒉡  
+ii 9 i-na-saḫ-ú-ma at-tu-ni   a-šá-ba-ni mì-i-nu  
+ii 9 unᵗziehe-ma   at@de nous a-seabt-ni mannier(comment)?  (H!)
+ii 9 {} how then can we (ourselves) stay?” 
+
 
 ii 10' 𒂊𒇷 𒁹𒋻𒄣𒌋 𒌋𒌋 𒆳𒆪𒌋𒋛
+ii 10 e-li ᵐtar-qu-u MAN KUR.ku-u-si  
+ii 10 To Taharqa, the king of Kush, …
+
+
 ii 11' 𒀀𒈾 𒃻𒃶 𒀀𒁲𒂊 𒅇 𒊓𒇷𒈨  
+ii 11 a-na šá-kan a-de-e ù sa-li-me  
+ii 11´ to establish treaties and peace, 
+
+
 ii 12' 𒌑𒈠𒀪𒂊𒊒 𒇽𒊩𒁉𒋙𒌦  
+ii 12 ú-ma-ʾe-e-ru LÚ.rak-bé-šú-un  
+ii 12 ú- 𓅓 𓂝 𓃭 𓏤 𓃭 𓎡 𓄿 𓃀 𓏲 𓍘 𓇋 󳈑
+ii 12 they dispatched their mounted messenger(s)  
+
 ii 13' 𒌝𒈠 𒋢𒈝𒈬𒌑 𒀸 𒁉𒊑𒉌 𒇺𒃻𒆥𒈠  
+ii 13 um-ma su-lum-mu-ú ina bi-ri-ni liš-šá-kin-ma  
+ii 13 pheme: "Salammú  in para/betweeni {established l'√šakānu}
+ii 13 saying: “Let peace be established between us 
+
 ii 14' 𒉌𒅔𒁖𒂵𒊏 𒀀𒄩𒎌   
-ii 15' 𒆳 𒀀𒄭𒂗𒈾𒀀 𒉌𒍪𒊻𒈠  
-ii 16' 𒀀𒀀 𒅁𒁀𒅆 𒀸 𒁉𒊑𒉌 𒃻𒉡𒌝𒈠 𒁁𒈝  
-ii 17' 𒀀𒈾 𒂟𒄭𒀀 𒆳 𒀭𒊹𒆠 𒂊𒈮 𒂗𒋾𒅀  
-ii 18' 𒃻 𒈾𒆜 𒍣𒁴 𒅖𒋼𒉌𒀪𒌋  
-ii 19' 𒀀𒆳 𒅆𒌨𒁴 𒇽𒋗𒌓 𒊕𒎌𒅀 𒀀𒈠𒀀𒋾  
+ii 14 ni-in-dag-ga-ra a-ḫa-meš  
+ii 14 {consent} {one-anoher} (H!!)
+ii 14 so that we can come to a mutual agreement. 
+
+ii 15' 𒆳  𒀀𒄭𒂗𒈾𒀀    𒉌𒍪𒊻𒈠  
+ii 15 KUR a'ḫe-en-na-a ni'zu-uz-ma  
+ii 15 KUR by-him(self) nou scissu ma   ( 𓌪 𓋴  √zâzu)
+ii 15´ (Let) us divide the land among ourselves 
+
+ii 16' 𒀀𒀀 𒅁𒁀𒅆   𒀸  𒁉𒊑𒉌 𒃻𒉡𒌝𒈠 𒁁𒈝  
+ii 16 a-a ib-ba-ši ina bi-ri-ni šá-nu-um-ma be-lum  
+ii 16 a¬a 𓃹habes  in  para nou synuma∑ Belum
+ii 16 so that no other lord comes between us.” 
+
+ii 17' 𒀀𒈾 𒂟𒄭𒀀      𒆳 𒀭𒊹𒆠      𒂊𒈮  𒂗𒋾𒅀  
+ii 17 a-na ERIM.ḪI.A KUR AN.ŠÁR.KI e-muq EN-ti-ia  
+ii 17 an  Heer 𒄭𒀀 ḪI-ER₂ Assyria  might majesty,
+ii 17 (With regard to) troops of Assyria, the might of my lordly majesty, 
+
+ii 18' 𒃻 𒈾𒆜  𒍣𒁴 𒅖𒋼𒉌𒀪𒌋  
+ii 18 šá na-kas ZI-tim iš-te-né-ʾu-u  
+ii 18 šá neckut throatum soughting out
+ii 18 they constantly sought out evil plan(s) to cut (their) throat(s).  
+
+ii 19' 𒀀𒆳 𒅆𒌨𒁴 𒇽𒋗𒌓    𒊕𒎌𒅀 𒀀𒈠𒀀𒋾  
+ii 19 a-mat ḪUL-tim LÚ.šu-ut SAG.MEŠ-ia a-ma-a-ti
+ii 19 a mot eviltum les'those Schopfe-yo a mot
+???
+ii 19b Eunuchs of mine heard these words;  
 
 
 
-iii 1 𒀠𒇻 𒆬𒄀 𒋛𒆳 𒈗𒋾𒋙 𒀾𒆲𒋙
-iii 2 𒄯𒎌 𒆬𒄀 𒌑𒊩𒆠𒊓 𒈩𒋾𒋙  
-iii 3 𒄈 𒈨𒁉 𒃻 𒄴𒍪𒋙 𒆬𒄀  
-iii 4 𒉌𒂍 𒈬𒅀 𒀸 𒌋𒅗𒄭 𒀾𒄙𒈠 𒀀𒁷𒋙  
-iii 5 𒄑𒇀𒎌 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
-iii 6 𒀀𒈾 𒊒𒁺 𒂗𒋾𒋙 𒀀𒆧𒋢  
+iii 1 𒀠𒇻   𒆬𒄀   𒋛𒆳      𒈗𒋾𒋙     𒀾 𒆲 𒋙
+iii 1 al-lu  KÙ.GI   si-mat   LUGAL-ti-šú áš-kun-šú
+iii 1 Beilov 𓐍 𓋴 𓋞, symbol™ regalitum šú establish ( 𓌼 цел )
+iii 1 I placed on him a golden hoe, an insignia of his kingship, 
+
+
+iii 2 𒄯𒎌    𒆬𒄀  𒌑𒊩𒆠𒊓    𒈩𒋾𒋙  
+iii 2 ḪAR.MEŠ KÙ.GI ú-rak-ki-sa rit-ti-šú  
+iii 2 ḫarness 𓐍 𓋴 𓋞 ú-riggis wristi šú  
+(and) fastened gold bracelets around his wrists. 
+
+iii 3 𒄈    𒈨𒁉   𒃻 𒄴𒍪  𒋙   𒆬𒄀  
+iii 3 GÍR    šib-bi šá iḫ-zu šú KÙ.GI  
+iii 3 daGer™ 𓊃belt šá achse šú 𓐍 𓋴 𓋞 
+iii 3 On a belt-dagger with gold mountings, 
+
+iii 4 𒉌𒂍   𒈬𒅀  𒀸 𒌋𒅗𒄭  𒀾𒄙𒈠     𒀀𒁷𒋙  
+iii 4 ni-bit  MU-ia ina muḫ-ḫi áš-ṭur-ma   a-din-šú  
+iii 4 en-beat nomia in  👄𓂋   á-scritur me a-don šú ( beat <> writ )
+iii 4 I wrote out my name and I gave (it) to him. 
+
+iii 5 𒄑   𒇀𒎌      𒀲 𒆳𒊏𒎌      𒀲𒋙𒀯𒎌  
+iii 5 GIŠ.GIGIR.MEŠ ANŠE.KUR.RA.MEŠ ANŠE.KUNGA.MEŠ 
+iii 5 𓌝carriage𓏥s,      𓃗 ᵏhorse𓏥s,   𓃘 onager𓏥s
+iii 5 chariots, horses, (and) mules 
+
+iii 6 𒀀𒈾  𒊒𒁺   𒂗𒋾𒋙   𒀀𒆧𒋢  
+iii 6 a-na ru-kub EN-ti-šú a-qis-su  
+iii 6 an r'equipe lordy šú a'geseh (H!)
+iii 6 as his lordly transport I presented him. 
+
 iii 7 𒇽𒋗𒌓 𒊕𒎌𒅀 𒇽𒉆𒎌  
+iii 7 LÚ.šu-ut SAG.MEŠ-ia LÚ.NAM.MEŠ  
+iii 7 eunuchs of mine (and) governors 
+
 iii 8 𒀀𒈾 𒆤𒊑𒋙 𒀉𒋾𒋙 𒀾𒁓  
-iii 9 𒀀𒊬 𒀜 𒆕𒌋𒀀 𒄿𒈾 𒌷𒊓𒀀𒀀  
+iii 8 a-na kit-ri-šú it-ti-šú áš-pur  
+iii 8 en  caidter šú with šú esport 𓉐
+iii 8 I sent with to help him. 
+
+iii 9 𒀀𒊬  𒀜 𒆕𒌋𒀀     𒄿𒈾 𒌷𒊓𒀀𒀀  
+iii 9 a-šar AD DÙ-u-a   i-na URU.sa-a-a  
+iii 9 Ort Vadda doer-yo in the court Saisa
+iii 9 Where the father who had installed me in the city Sais, 
 
 iii 10 𒀀𒈾 𒈗𒋾 𒅁𒆠𒁺𒋙  
-iii 11 𒀀𒈾 𒈦𒃷𒄿𒋙 𒌑𒌁𒋙  
-iii 12 𒅇 𒁹𒀭𒀝𒊺𒍦𒀀𒉌 𒌉𒋙  
+iii 10 a-na LUGAL-ti ip-qí-du-šú  
+iii 10 en regalty apqointed šú
+iii 10 had appointed him as king
+
+iii 11 𒀀𒈾 𒈦𒃷𒄿 𒋙 𒌑𒌁𒋙  
+iii 11 a-na maš-kán-i-šú ú-ter-šú  
+iii 11 en   𓏶 𓐝 𓐙 i šú ú-turn šú
+iii 11 I returned him to his position.  
+
+iii 12 𒅇 𒁹𒀭𒀝  𒊺𒍦𒀀𒉌     𒌉𒋙  
+iii 12 ù   m d AG-še-zib-a-ni DUMU-šú  
+iii 12 moreover, Nabû-šēzibanni, his son, 
+
 iii 13 𒀸 𒌷𒄩𒀜𒄩𒊑𒁀 𒀊𒆤  
-iii 14 𒁵 𒅆𒂟𒌓 𒌋𒅗 𒃻 𒀜 𒁀𒉌𒅀  
+iii 13 ina URU.ḫa-at-ḫa-ri-ba ap-qid  
+iii 13 in a court ʰAthribis apqointe
+iii 13 in the city Athribis I appointed  
+
+
+
+iii 14 𒁵 𒅆𒂟𒌓      𒌋𒅗    𒃻 𒀜 𒁀𒉌𒅀  
+iii 14 ᵐUN SIG₅-tú    UGU     šá AD ba-ni-ia  
+iii 14 amen Siegertum against šá Vadda bornyo
+iii 14 more kind (and) good deed(s) for him (than) the father who had installed me.  
+
 iii 15 𒌑𒃻𒌁𒈠 𒂊𒁍𒊻𒋢  
-iii 16 𒁹𒋻𒄣𒌋 𒀀𒊬 𒅔𒀮𒌅  
-iii 17 𒊏𒊒𒁁 𒄑𒆪 𒀭𒊹 𒂗𒅀 𒄑𒄸𒋙𒈠  
+iii 15 ú?-šá-tir-ma e-pu-us-su  
+iii 15 ú- 𓋴 𓇋 𓎛 𓃶 I performed 
+
+iii 16 𒁹𒋻𒄣𒌋    𒀀𒊬   𒅔𒀮𒌅  
+iii 16 ᵐtar-qu-u a-šar  in-nab-tu  
+iii 16 Um Taharqa, hort in-abātu 𓃀𓂾
+iii 16 (As for) Taharqa, in the place where he had fled, 
+
+iii 17 𒊏𒊒𒁁      𒄑𒆪      𒀭𒊹    𒂗𒅀 𒄑𒄸𒋙𒈠  
+iii 17 ra-šub-bat GIŠ.TUKUL AN.ŠÁR EN-ia is-ḫúp-šú-ma  
+iii 17 ra?supert  Gestöckel Aššur, Bel yo, a'sahāpu-ma  (√super-whelm) <<<
+iii 17 the awesome terror of the weapon of (the god) Aššur, my lord, overwhelmed him and he passed away.  
+
 iii 18 𒅋𒌨 𒉆𒈬𒅆𒋗 𒂕𒉡 𒁹𒌨𒁕𒈠𒉌𒂊 𒌉 𒎐𒋙  
+iii 18 il-lik nam-mu-ši-šu EGIR-nu mUR-da-ma-né-e DUMU NIN₉-šú  
+iii 18 Afterwards, Tanutamon, the son of his sister, 
+
 iii 19 𒌑𒈨 𒀸 𒄑𒄖𒍝 𒈗𒋾𒋗  
+iii 19 ú-šib ina GIŠ.GU.ZA LUGAL-ti-šu  
+iii 19 sat upon his royal throne. 
+
 
  
-iii 20 𒌷𒉌𒀪 𒌷𒌑𒉡 𒀀𒈾 𒆗𒉡𒋾𒋙 𒅖𒆲  
-iii 21 𒌑𒈜𒄭𒅕 𒂖𒆳𒋢  
-iii 22 𒀀𒈾 𒁁𒄷𒍢 𒂟𒄭𒀀 𒌉𒎌 𒆳 𒀸𒋩𒆠  
-iii 23 𒊭 𒆠𒆗 𒌷𒈨𒅎𒉿 𒀉𒅗𒀀 𒋡𒁄𒋙  
-iii 24 𒌦𒎌 𒃻𒀀𒌅𒉡 𒂊𒋛𒅕𒈠  
-iii 25 𒄑𒁀𒋫 𒈬𒊻𒍝𒋙𒌦  
-iii 26 𒇽𒌉 𒈨𒊑 𒄩𒀭𒂅 𒀀𒈾 𒀏𒆠  
-iii 27 𒅋𒌨𒄠𒈠 𒅅𒁀𒀀 𒅀𒀀𒋾  
-iii 28 𒀾𒉌𒈠 𒀀𒈾 𒆳𒈬𒀫 𒌋 𒆳𒆪𒌋𒋛  
-iii 29 𒍑𒋼𒊺𒊏 𒄯𒊏𒉡  
+iii 20 𒌷𒉌𒀪    𒌷𒌑𒉡   𒀀𒈾 𒆗𒉡𒋾𒋙 𒅖𒆲  
+iii 20 URU.ni-iʾ URU.ú-nu a-na dan-nu-ti-šú iš-kun  
+iii 20 Theonibᵒˢ Sa☼únu   ene  strongti šú i√škun
+iii 20 He made the cities Thebes (and) Heliopolis his fortresses 
 
-iii 30 𒁹𒌨𒁕𒈠𒉌𒂊 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠
-iii 30 𒊭 𒀝𒁍𒋢 𒈪𒈲 𒆳𒈬𒀫  
-iii 30 𒌷𒈨𒅎𒉿 𒌑𒈦𒋓𒈠 𒀀𒈾 𒋗𒍪𒌒 𒍣𒁴𒋙  
-iii 30 𒅔𒈾𒂍 𒀀𒈾 𒆠𒆗 𒌷𒉌𒀪  
-iii 30 𒈗𒎌 𒇽𒉆𒎌 𒇽𒆥𒉺𒀀𒉌  
-iii 30 𒊭 𒆠𒆗 𒆳𒈬𒀫 𒀾𒆪𒉡  
-iii 30 𒀸 𒅕𒋾𒅀 𒅋𒌨𒌋𒉏𒈠 𒌑𒈾𒀾𒅆𒄣 𒄊𒅀𒅀  
-iii 30 𒂕 𒁹𒌨𒁕𒈠𒉌𒂊 𒄯𒊏𒉡 𒊍𒁁  
-iii 30 𒀠𒌨 𒀀𒁲 𒌷𒉌𒀪 𒌷 𒆗𒉡𒋾𒋙  
-iii 30 𒋾𒅁 𒀞𒅀 𒂊𒄯𒈠 𒌷𒉌𒀪 𒌑𒈦𒋓  
+iii 21 𒌑𒈜𒄭𒅕 𒂖𒆳𒋢  
+iii 21 ú-paḫ-ḫi-ir el-lat-su  
+iii 21 ú packer Heerlat su
+iii 21 (and) assembled his forces. 
+
+iii 22 𒀀𒈾 𒁁𒄷𒍢   𒂟𒄭𒀀      𒌉𒎌    𒆳 𒀸𒋩𒆠  
+iii 22 a-na mit-ḫu-ṣi ERIM.ḪI.A DUMU.MEŠ KUR aš-šur.KI  
+iii 22 en  beat𒁁meet Heere     δohnme  der Assyria
+iii 22 To fight against the Assyrian troops 
+
+iii 23 𒊭 𒆠𒆗   𒌷 𒈨𒅎𒉿   𒀉𒅗𒀀 𒋡𒁄𒋙  
+iii 23 ša qé-reb URU.me-em-pi id-ka-a qa-bal-šú  
+iii 23 ša coreb UR Memphis    ad'dekûr cabal šú ( < Kravall)
+iii 23 who were inside the city Memphis, he mobilized his battle array, 
+
+iii 24 𒌦𒎌 𒃻𒀀𒌅𒉡   𒂊𒋛𒅕𒈠  
+iii 24 UN.MEŠ šá-a-tu-nu e-si-ir-ma  
+iii 24 hombres thosen    e-zerr.ma ( محصور mahsur )
+iii 24 confined those people, 
+
+iii 25 𒄑𒁀𒋫    𒈬𒊻𒍝  𒋙𒌦  
+iii 25 iṣ-ba-ta mu-uṣ-ṣa šú-un  
+iii 25 aspod𓃀?  meδia𓄠?  sein
+iii 25 and cut off their escape route. 
+
+
+iii 26 𒇽𒌉 𒈨𒊑 𒄩𒀭𒂅 𒀀𒈾 𒀏𒆠  
+iii 26 LÚ.DUMU šip-ri ḫa-an-ṭu a-na NINA.KI  
+iii 26 δohnme speari  ranṭe    ana Ninevehi << G
+iii 26 A fast messenger came to Nineveh 
+
+iii 27 𒅋𒌨𒄠𒈠 𒅅𒁀𒀀 𒅀𒀀𒋾  
+iii 27 il-lik-am-ma iq-ba-a ia-a-ti  
+iii 27 walk'ma 			aquibth yo   to
+iii 27 and told (this) to me.  
+
+
+
+iii 28 𒀾𒉌𒈠 𒀀𒈾 𒆳𒈬𒀫 𒌋 𒆳𒆪𒌋𒋛  
+iii 28 áš-ni-ma a-na KUR.mu-ṣur u KUR.ku-u-si  
+iii 28 a'zweine me an Misir u. Kush
+iii 28 For a second time, to Egypt and Kush,
+
+iii 29 𒍑𒋼𒊺𒊏 𒄯𒊏𒉡  
+iii 29 uš-te-še-ra ḫar-ra-nu  
+iii 29 astraight   courran™
+iii 29 I took the direct road 
+
+
+iii 30 𒁹𒌨𒁕𒈠𒉌𒂊   𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠
+iii 30 ᵐUR-da-ma-né-e a-lak ger-ri-ia iš-me-ma  
+iii 30 Don Tamone   à  walk guerreia semaⁿᵗ 𓋴 𓅓 𓄔
+iii 30 Tanutamon heard about the advance of my expeditionary-force 
+
+
+𒀝𒁍𒋢   𒈪𒈲 𒆳𒈬𒀫  
+ak-bu-su   mi-ṣir KUR.mu-ṣur  
+akbusu     miṣir      Mosur  ( 𓇥𓂋 𒈪𒈲 miṣir "border" )
+akeᵐbuṭu 𓃀 miter 𓇾  Mutzur 𓆎 𓅓 𓏏 𓊖
+I set foot on the territory of [Misir](Egypt)
+
+
+iii 31 𒊭 𒀝𒁍𒋢  𒈪𒈲 𒆳 𒈬𒀫  
+iii 31 ša ak-bu-su  mi-ṣir KUR.mu-ṣur  
+iii 31 ša akeᵐbuṭu𓃀 miter 𓇾  Mutzur 𓆎 𓅓 𓏏 𓊖 ( > miṣir Misir 𓇥𓂋 ) +++
+iii 31 and that I had set foot on Egyptian territory, 
+
+iii 32 𒌷𒈨𒅎𒉿     𒌑𒈦𒋓𒈠    𒀀𒈾  𒋗𒍪𒌒  𒍣𒁴𒋙  
+iii 32 URU.me-em-pi ú-maš-šir-ma a-na šu-zu-ub ZI-tì-šú  
+iii 32 UR Memphis oút-marchier.ma an selbs'save zootì šú
+iii 32 he abandoned the city Memphis and, in order to save his (own) life, 
+
+iii 33 𒅔𒈾𒂍 𒀀𒈾 𒆠𒆗 𒌷𒉌𒀪  
+iii 33 in-na-bit a-na qé-reb URU.ni-iʾ  
+iii 33 ein-flieht ina coreba Theonibᵒˢ
+iii 33 he fled inside the city Thebes. 
+
+iii 34 𒈗𒎌 𒇽𒉆𒎌 𒇽𒆥𒉺𒀀𒉌  
+iii 34 LUGAL.MEŠ LÚ.NAM.MEŠ LÚ.qe-pa-a-ni  
+iii 34 The kings, governors, (and) officials 
+
+iii 35 𒊭 𒆠𒆗 𒆳𒈬𒀫 𒀾𒆪𒉡  
+iii 35 ša qé-reb KUR.mu-ṣur áš-ku-nu  
+iii 35 whom I had stationed in Egypt 
+
+iii 36 𒀸  𒅕𒋾𒅀  𒅋𒌨 𒌋 𒉏𒈠  𒌑𒈾𒀾𒅆𒄣   𒄊𒅀𒅀  
+iii 36 ina ir-ti-ia il-lik-u  nim-ma ú-na-áš-ši-qu GÌR.II-ia  
+iii 36 ina irtiia<< walk      nima?  ú-nasekuss    𓂻 𓏮
+iii 36 came to meet me and kissed my feet.  
+
+iii 37 𒂕  𒁹𒌨𒁕𒈠𒉌𒂊 𒄯𒊏𒉡 𒊍𒁁  
+iii 37 EGIR  mUR-da-ma-né-e ḫar-ra-nu aṣ-bat  
+iii 37 aghter Don Damoné e  courran™ as𓃀pod
+iii 37 I took the road in pursuit of Tanutamon 
+
+iii 38 𒀠𒌨  𒀀𒁲  𒌷𒉌𒀪   𒌷    𒆗𒉡𒋾𒋙  
+iii 38 al-lik a-di URU.ni-iʾ URU™ dan-nu-ti-šú  
+iii 38 walk  until Theonibᵒˢ, fort strongti šú
+iii 38 (and) I marched as far as the city Thebes, his fortified city. 
+
+iii 39 𒋾𒅁 𒀞𒅀 𒂊𒄯𒈠 𒌷𒉌𒀪 𒌑𒈦𒋓  
+iii 39 ti-ib MÈ-ia e-mur-ma URU.ni-iʾ ú-maš-šir  
+iii 39 𓏏 𓉔 𓂾 millizia   ( 𓏏 𓉔 𓂾 tihb 𒋾𒅁 stab? "attack" )
+iii 39  H!!!
+iii 39 He saw the assault of my battle array and abandoned the city Thebes; 
 
 
 iii 40 𒅔𒈾𒂍 𒀀𒈾 𒌷𒆠𒅁𒆠𒉿  
-iii 40 𒌷 𒋗𒀀𒌓 𒀀𒈾 𒋛𒆟𒋾𒋙  
-iii 40 𒀸 𒆪𒋾 𒀭𒊹 𒌋 𒀭15 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
-iii 40 𒆬𒌓 𒆬𒄀 𒉌𒋝𒋾 𒉌𒌓𒎌  
-iii 40 𒃻𒋗 𒂍𒃲𒋙 𒈠𒆷 𒁀𒋙𒌋  
-iii 40 𒇻𒇧𒋾 𒄵𒈨 𒃰𒎌 𒀲𒆳𒊏𒎌 𒃲𒎌  
-iii 40 𒌦𒎌 𒋝𒊒 𒅇 𒌍𒌋𒌋  
-iii 40 𒈫 𒁴𒈨 𒈤𒎌 𒉿𒋾𒅅 𒍝𒄩𒇷𒂊 𒅁𒁉  
-iii 40 𒊭 𒈫 𒅆 𒐊 𒈨 𒄘𒌦 𒆠𒇲𒋙𒉡  
-iii 40 𒌋𒌋𒍝𒊍 𒆍 𒂍𒆳  
+iii 40 in-na-bit a-na URU.ki-ip-ki-pi  
+iii 40 enᵗbit𓃀  ana court Kipkipi
+iii 40 he fled to the city Kipkipi. 
 
-iii 50 𒌌𒌅 𒌋𒌋𒉌𒋾𒋙𒉡 𒊍𒈽𒈠
-iii 50 𒀠𒋡𒀀 𒀀𒈾 𒆳 𒀸𒋩𒆠  
-iii 50 𒊩𒆷𒌅 𒅗𒂍𒌅 𒀸 𒆷 𒈨𒉌 𒀾𒇻𒆷  
-iii 50 𒌌𒌅 𒆠𒆗 𒌷𒉌𒀪  
-iii 50 𒂊𒇷 𒆳𒈬𒀫 𒅇 𒆳𒆪𒌋𒋛  
-iii 50 
-iii 50 iii 55  
-iii 50 𒄑𒆪𒎌𒅀 𒌑𒌑𒊑𒅕𒈠 𒀾𒋫𒃶 𒇷𒄿𒌅  
-iii 50 𒀉𒋾 𒋗𒅀 𒈠𒇷𒋾 𒊩𒎌 𒀀𒌅𒊏  
-iii 50 𒀀𒈾 𒀏𒆠 𒌷 𒁁𒇻𒋾𒅀  
-iii 50 𒀸 𒊩𒅆 𒄫𒊑𒅀  
-iii 50 𒌋𒅗 𒁹𒁀𒀪𒇷 𒈗 𒆳𒀫𒊑  
+iii 41 𒌷 𒋗𒀀𒌓 𒀀𒈾 𒋛𒆟𒋾𒋙  
+iii 41 URU šu-a-tú a-na si-ḫir-ti-šú  
+iii 41 Ur  thatú   ana  cirty𓇥𓂋𓍘𖥕
+iii 41 {I conquered} that city (Thebes) in its entirety,
 
-iii 60  
-iii 60 𒀀𒈨 𒉠 𒌓𒁴 𒇻𒌋 𒀠𒌨  
-iii 60 𒀾𒋙 𒀀𒆳 𒈗𒌋𒋾𒅀 𒆷 𒄑𒍮𒊒  
-iii 60 𒆷 𒅖𒈬𒌑 𒍣𒄫 𒅻𒅀  
-iii 60 𒌷𒄬𒍮𒎌 𒂊𒇷𒋙 𒌑𒊩𒆧  
-iii 60 𒀀𒈾 𒆷 𒀀𒍢𒂊 𒌦𒎌𒋙 𒌑𒆗𒎏 𒈠𒇡𒆪  
-iii 60 
-iii 60 iii 65  
-iii 60 𒀸 𒌓𒁴 𒌋 𒈾𒁀𒇷 𒄫𒊑𒋾𒋙 𒌑𒂟𒂍  
-iii 60 𒀀𒋃𒋫𒋙 𒀊𒊒𒊻  
-iii 60 𒀀𒎌 𒅇 𒋼𒀪𒌑𒌅 𒁀𒆳 𒍣𒁴𒋙𒉡  
-iii 60 𒀀𒈾 𒉿𒄿𒋙𒉡 𒌑𒃻𒆠𒅕  
-iii 60 𒀸 𒈨𒋛𒊑 𒆗𒉌  
-iii 60 
+iii 42 𒀸 𒆪𒋾 𒀭𒊹 𒌋 𒀭15 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
+iii 42 ina tukul-ti AN.ŠÁR u d15 ik-šu-da ŠU.II-a-a  
+iii 42 ina tukulti™• Aššur u Ištar sacked/captured 手 šu I / 
+With the support of (the god) Aššur and the goddess Ištar, 
 
-iii 70  
-iii 70 𒃻 𒆷 𒈾𒌓𒋗𒁲 𒂊𒋛𒅕𒋙𒉡𒋾  
-iii 70 𒀮𒆳𒋢𒉡 𒌑𒋛𒅅 𒌑𒋼𒀀𒊑  
-iii 70 𒀀𒈾 𒄑𒋙𒂈𒅀 𒌑𒊕𒉌𒄑𒋢𒉡𒋾  
-iii 70 𒌉𒊩 𒍢𒀉 𒊮𒁉𒋙 𒌋 𒌉𒊩 𒋀𒎌𒋙  
-iii 70 𒀀𒈾 𒂊𒄫 𒊩𒅆𒁾𒌑𒋾  
-iii 70 
-iii 70 iii 75  
-iii 70 𒌑𒁉𒆷 𒀀𒁲 𒈤𒊑𒅀  
-iii 70 𒌉𒋙 𒃻 𒈠𒋾𒈠 𒋾𒊩𒆳 𒆷 𒂊𒁉𒊏  
-iii 70 𒅖𒃻𒀀 𒀀𒈾 𒂊𒄫 𒀴𒋾𒅀  
-iii 70 𒌉𒊩𒋢 𒌋 𒌉𒊩 𒋀𒎌𒋙  
-iii 70 𒀉𒋾 𒌁𒄩𒋾 𒈠𒀪𒊍𒋛 𒄠𒄯𒋙  
+iii 43 𒆬𒌓 𒆬𒄀 𒉌𒋝𒋾 𒉌𒌓𒎌  
+iii 43 KÙ.BABBAR KÙ.GI ni-siq-ti NA₄.MEŠ  
+iii 43 Silver, gold, precious stones, 
 
-iii 80  
-iii 80 𒊑𒂊𒈬 𒅈𒅆𒋙𒈠  
-iii 80 𒌉 𒍢𒀉 𒊮𒁉𒋙 𒌑𒌁𒈠 𒀀𒁷𒋙  
-iii 80 𒌷𒄬𒍮𒎌 𒃻 𒌋𒅗 𒁹𒁀𒀪𒇷  
-iii 80 𒈗 𒆳𒀫𒊑 𒌑𒊩𒆠𒋢 𒀊𒄙  
-iii 80 𒀸 𒌓𒁴 𒌋 𒈾𒁀𒇷 𒄫𒊑𒋾𒋙  
-iii 80 
-iii 80 iii 85  
-iii 80 𒈠𒆷 𒌑𒂟𒁉𒌅 𒀊𒋾  
-iii 80 𒈠𒁕𒋫𒋙 𒅗𒂍𒌓 𒄠𒄯𒋙  
-iii 80 𒉺𒀭 𒄑𒋙𒂈𒅀 𒌑𒌁𒉘𒈠  
-iii 80 𒊩𒎌 𒀀𒌅𒊏 𒀀𒈾 𒀏𒆠 𒌷 𒁁𒇻𒋾𒅀  
-iii 80 𒈠𒀠𒆠 𒉠 𒌓𒁴 𒌋 𒈗𒎌  
-iii 80 
-iii 80 
+iii 44 𒃻 𒋗    𒂍𒃲 𒋙  𒈠𒆷 𒁀𒋙𒌋  
+iii 44 NÍG.ŠU É.GAL-šú ma-la ba-šú-u  
+iii 44 Sachen hall su  much* was-sei
+iii 44 as much property of his palace as there was, 
 
-iii 90 𒀀𒅆𒁍𒋾 𒆳𒁲𒂊 𒃻𒄣𒋾
-iii 90 𒁕𒈾𒀭 𒅁𒊺𒋾𒅀 𒀭𒈾𒀀𒋾  
-iii 90 𒂊𒈬𒊒𒈠 𒅁𒆷𒄷 𒂗𒌋𒋾  
-iii 90 𒁹𒅀𒆠𒅔𒇻𒌋 𒈗 𒆳𒅈𒌑𒀀𒁕  
-iii 90 𒁹𒈬𒃲𒇻 𒈗 𒆳𒋰𒀀𒆷  
-iii 90 
-iii 90 iii 95  
-iii 90 𒁹𒊓𒀭𒁲𒊬𒈨 𒆳𒄭𒋃𒅗𒀀𒀀  
-iii 90 𒊭 𒀀𒈾 𒈗𒎌 𒀜𒎌𒅀 𒆷 𒃶𒋙  
-iii 90 𒅅𒉡𒋙 𒀀𒈾 𒄑𒋙𒂈𒅀  
-iii 90 𒌉𒊩𒎌 𒍢𒀉 𒊮𒁉𒋙𒉡  
-iii 90 𒀉𒋾 𒉡𒂄𒉌𒂊 𒈠𒀪𒁲  
+iii 45 𒇻𒇧𒋾    𒄵 𒈨    𒃰𒎌 𒀲𒆳𒊏𒎌 𒃲𒎌  
+iii 45 lu-bul-ti bir-me GADA.MEŠ ANŠE.KUR.RA.MEŠ GAL.MEŠ  
+iii 45 hrbult𓎛𓃀𓋳 𓄜𓃀𓆓  cut𓏥s   𓃗 घोड़ा ghoṛā𓏥s greates
+iii 45 garment(s) with multi-colored trim, linen garments, large horses, 
+
+iii 46 𒌦𒎌 𒋝𒊒  𒅇 𒌍 𒌋𒌋  
+iii 46 UN.MEŠ zík?-ru ù sin-niš  
+iii 46 hombres Zeuger ù gynes ++
+iii 46 people — male and female — 
+
+iii 47 𒈫 𒁴𒈨 𒈤𒎌 𒉿𒋾𒅅 𒍝𒄩𒇷𒂊 𒅁 𒁉  
+iii 47 2 tim-me MAḪ.MEŠ pi-ti-iq za-ḫa-le-e eb-bi  
+iii 47 2 Türme macha's  pétraque zaḫalû  hy'pure
+iii 47 two tall obelisks cast with shiny zaḫalû-metal, 
+
+
+iii 48 𒊭 𒈫 𒅆 𒐊 𒈨 𒄘𒌦 𒆠𒇲 𒋙𒉡  
+iii 48 ša 2 LIM 5 ME GUN	 KI.LÁ šú-nu  
+iii 48 sa 2 mille 5 𓅱 coin kilo seine +++
+iii 48 whose weight was 2,500 talents 
+
+iii 49 𒌋𒌋𒍝𒊍   𒆍 𒂍𒆳  
+iii 49 man-za-az KÁ É.KUR  
+iii 49 man sess gate haikal (  ሀይከል häykäl هَيْكَل haykal )
+iii 49 (and which) stood at a temple gate, 
+
+iii 50 𒌌𒌅 𒌋𒌋𒉌𒋾   𒋙𒉡   𒊍𒈽𒈠
+iii 50 ul-tu man-zal-ti šú-nu as-suḫ-ma  
+iii 50 ultu man settle seine aus-zieh.ma
+iii 50 I ripped (them) from where they were erected
+
+
+iii 51 𒀠𒋡𒀀 𒀀𒈾 𒆳 𒀸𒋩𒆠  
+iii 51 al-qa-a a-na KUR aš-šur.KI  
+iii 51 hulka   on     Assyria
+iii 51 and took (them) to Assyria. 
+
+iii 52 𒊩𒆷𒌅 𒅗𒂍𒌅     𒀸 𒆷    𒈨𒉌   𒀾𒇻𒆷  
+iii 52 šal-la-tu ka-bit-tu? ina la   mì-ni  áš-lu-la  
+iii 52 sold captured 				in nulla menge as-loore (aus-lure) <<< ++
+iii 52 I carried off substantial booty, (which was) without number, 
+
+iii 53 𒌌𒌅 𒆠𒆗 𒌷𒉌𒀪  
+iii 53 ul-tu qé-reb URU.ni-iʾ  
+iii 53 from inside the city Thebes. 
+
+iii 54 𒂊𒇷 𒆳𒈬𒀫 𒅇 𒆳𒆪𒌋𒋛  
+iii 54 e-li KUR.mu-ṣur ù KUR.ku-u-si  
+iii 54 over Egypt and Kush …
+
+iii 55 𒄑𒆪𒎌𒅀 𒌑𒌑𒊑𒅕𒈠 𒀾𒋫𒃶 𒇷𒄿𒌅  
+iii 55 GIŠ.TUKUL.MEŠ-ia ú-šam-ri-ir-ma áš-ta-kan li-i-tu  
+iii 55 Gestöckel my úš(sym)mari𓈗ma
+iii 55 I made my weapons prevail and (thus) achieved victory. 
+
+iii 56 𒀉𒋾 𒋗𒅀    𒈠𒇷𒋾 𒊩𒎌 𒀀𒌅𒊏  
+iii 56 it-ti ŠU.II    ma-li-ti šal-meš a-tu-ra  
+iii 56 withi 手 shǒuro µfulled salv'es re-toura
+iii 56 With full hand(s), I returned safely
+iii 57 𒀀𒈾 𒀏𒆠 𒌷 𒁁𒇻𒋾𒅀  
+iii 57 a-na NINA.KI URU be-lu-ti-ia  
+iii 57 to Nineveh, my capital city.  
+
+iii 58 𒀸   𒊩 𒅆 𒄫𒊑𒅀  
+iii 58 ina šal-ši ger-ri-ia  
+iii 58 On my third campaign, 
+
+iii 59 𒌋𒅗 𒁹𒁀𒀪𒇷 𒈗  𒆳 𒀫 𒊑  
+iii 59 UGU mba-ʾa-li LUGAL KUR.ṣur-ri  
+iii 59 against Baʾalu, the king of the land Tyre, 
+
+iii 60 𒀀𒈨    𒉠    𒌓𒁴   𒇻𒌋 𒀠𒌨  
+iii 60 a-šib MURUB₄ tam-tim lu-u al-lik  
+iii 60 a-šibt Meridomat™𓈗  lay walk
+iii 60 who resides in the middle of the sea, … I marched. 
+
+iii 61 𒀾𒋙   𒀀𒆳    𒈗𒌋𒋾𒅀   𒆷 𒄑𒍮𒊒  
+iii 61 áš-šú a-mat LUGAL-u-ti-ia la iṣ-ṣu-ru  
+iii 61 as-cause a mot regal de yo nula assure 
+iii 61 Because he did not honor my royal command
+<>𒆷 𒄑𒍮𒊒  𒈠𒁁 la iṣ-ṣu-ru ma-mit nula assure ma𓋬at
+
+iii 62 𒆷 𒅖𒈬𒌑  𒍣𒄫  𒅻 𒅀  
+iii 62 la iš-mu-ú zi-kir NUNDUM-ia  
+iii 62 nula 𓋴 𓅓 𓄔 semaⁿᵗ decre {lip}yo
+iii 62 (and) did not obey the pronouncement(s) from my lip(s), 
+
+iii 63 𒌷 𒄬𒍮𒎌 			𒂊𒇷 𒋙  𒌑𒊩𒆧  
+iii 63 URU.ḪAL.ṢU.MEŠ e-li šú ú-rak-kis  
+iii 63 Fort Halte's   al   su erectus
+iii 63 I set up outposts against him. 
+
+iii 64 𒀀𒈾 𒆷 𒀀𒍢𒂊 𒌦𒎌𒋙   𒌑𒆗𒎏   𒈠𒇡𒆪  
+iii 64 a-na la a-ṣe-e UN.MEŠ-šú ú-dan-nin ma-ṣar-tuš  
+iii 64 ana nula lassen hombres, strong'en martialtuš  
+iii 64 To prevent his people from leaving, I reinforced (its) garrison. 
+
+iii 65 𒀸 𒌓𒁴 𒌋 𒈾𒁀𒇷 𒄫𒊑𒋾𒋙 𒌑𒂟𒂍  
+iii 65 ina tam-tim u na-ba-li ger-re-ti-šú ú-ṣab-bit  
+iii 65 By sea and dry land, I took control of (all of) his routes 
+
+
+iii 66 𒀀𒋃𒋫𒋙 𒀊𒊒𒊻  
+iii 66 a-lak-ta-šú ap-ru-us  
+iii 67 (and thus) cut off (all) access to him. 
+
+iii 67 𒀀𒎌 𒅇 𒋼𒀪𒌑𒌅     𒁀𒆳    𒍣𒁴  𒋙𒉡  
+iii 67 A.MEŠ ù te-ʾu-ú-tu    ba-laṭ ZI-tì šú-nu  
+iii 67 eau's u Teig 𓏏 𓏐 𓏒 𓏥 belebt zootì seine
+iii 67 water and food for the preservation of their lives
+
+iii 68 𒀀𒈾  𒉿𒄿𒋙𒉡    𒌑𒃻𒆠𒅕  
+iii 68 a-na pi-i-šú-nu ú-šá-qí-ir  
+iii 68 ana  Phressen   ú-scarce
+iii 68 I made scarce for their mouths. 
+
+iii 69 𒀸  𒈨𒋛𒊑      𒆗𒉌  
+iii 69 ina me-se-ri   dan-ni  
+iii 69 in a meshure  strongi
+iii 69 I confined them in a harsh imprisonment 
+
+iii 70 𒃻 𒆷 𒈾𒌓𒋗𒁲     𒂊𒋛𒅕   𒋙𒉡𒋾  
+iii 70 šá la na-par-šu-di e-si-ir šú-nu-ti  
+iii 70 sa nulla ne partes Hesher seine™
+iii 70 from which there was no escape. 
+
+iii 71 𒀮𒆳         𒋢𒉡 𒌑𒋛𒅅  𒌑𒋼𒀀𒊑  
+iii 71 nap-šat    su-nu ú-si-iq  ú-kar-ri  
+iii 71 neck-throat sein ú-squeeze ú-kurz 
+iii 71 I constricted (and) cut short their lives (throats). 
+
+iii 72 𒀀𒈾   𒄑𒋙 𒂈 𒅀     𒌑𒊕𒉌𒄑    𒋢𒉡𒋾  
+iii 72 a?-na GIŠ.ŠUDUN-ia ú-šak-ni-is su-nu-ti  
+iii 72 ana ζυγόν ú-sinkis seine™ ( ús-kanaso SEMITIC reading )
+iii 72 I made them (the people of Tyre) bow down to my yoke.  
+
+iii 73 𒌉𒊩 𒍢𒀉 𒊮𒁉𒋙 𒌋 𒌉𒊩 𒋀𒎌𒋙  
+iii 73 DUMU.MUNUS ṣi-it lìb-bi-šú u DUMU.MUNUS ŠEŠ.MEŠ-šú  
+iii 73 (his) daughter, his own offspring, and the daughter(s) of his brothers 
+
+iii 74 𒀀𒈾 𒂊𒄫    𒊩𒅆𒁾𒌑𒋾  
+iii 74 a-na e-peš  MUNUS.AGRIG-ú-ti  
+iii 74 ana opus 𓉧 ⲙⲁⲛⲥⲱⲛϩ
+iii 74 to serve as housekeepers.
+
+iii 75 𒌑𒁉𒆷 𒀀𒁲 𒈤𒊑𒅀  
+iii 75 ú-bi-la a-di maḫ-ri-ia  
+iii 75 überᵉbēr at  maḫri yo (maḫri : front ok 1. march 2. maxi)
+iii 75 He brought before me 
+
+iii 76 𒌉𒋙     𒃻 𒈠𒋾𒈠 𒋾𒊩𒆳   𒆷 𒂊𒁉𒊏  
+iii 76 DUMU-šú šá ma-ti-ma ti-amtu la e-bi-ra  
+iii 76 domu-šú sa maritima Tiamat nula überᵉ  ( PUN / PSM ! )
+iii {He brought} his son, who had never crossed the sea, 
+
+iii 77 𒅖𒃻𒀀   𒀀𒈾   𒂊𒄫 𒀴𒋾𒅀  
+iii 77 iš-šá-a a-na e-peš ARAD-ti-ia  
+iii 77 usher anan opus Arbeit-yo
+iii 77 to do obeisance to me. 
+
+iii 78 𒌉𒊩𒋢 𒌋 𒌉𒊩 𒋀𒎌𒋙  
+iii 78 DUMU.MUNUS-su u DUMU.MUNUS ŠEŠ.MEŠ-šú  
+iii 78 from him his daughter and the daughter(s) of his brothers, 
+
+iii 79 𒀉𒋾 𒌁𒄩𒋾 𒈠𒀪𒊍𒋛 𒄠𒄯𒋙  
+iii 79 it-ti ter-ḫa-ti ma-aʾ-as-si am-ḫur-šú  
+iii 79 witha dowry massive a'marry nehmer? <
+iii 79 I received together with a large marriage gift. 
+
+
+iii 80 𒊑𒂊𒈬 𒅈𒅆 𒋙𒈠  
+iii 80 re-e-mu ar-ši šú-ma  
+iii 80 remorse are   šú me
+iii 80 I had mercy on him:
+
+iii 81 𒌉 𒍢𒀉 𒊮𒁉   𒋙 𒌑𒌁𒈠 𒀀𒁷𒋙  
+iii 81 DUMU ṣi-it lìb-bi šú ú-ter-ma a-din šú  
+iii 81 Δohm issued Leibe su uteruˢma a-don šú ( uterus <> return PUN or deep: rebirth belief )
+iii 81 I gave (his) son, his offspring, back to him.  
+
+iii 82 𒌷𒄬𒍮𒎌 𒃻 𒌋𒅗 𒁹𒁀𒀪𒇷  
+iii 82 URU.ḪAL.ṢU.MEŠ šá UGU mba-ʾa-li  
+iii 82 the outposts that I had constructed against Baʾalu, 
+
+iii 83 𒈗 𒆳𒀫𒊑 𒌑𒊩𒆠𒋢 𒀊𒄙  
+iii 83 LUGAL KUR.ṣur-ri ú-rak-ki-su, ap-ṭur  
+iii 83 the king of the land Tyre, I dismantled. 
+
+iii 84 𒀸 𒌓𒁴 𒌋 𒈾𒁀𒇷 𒄫𒊑𒋾𒋙  
+iii 84 ina tam-tim u na-ba-li ger-re-ti-šú  
+iii 84 By sea and dry land, I opened his routes, 
+iii 85 𒈠𒆷 𒌑𒂟𒁉𒌅 𒀊𒋾  
+iii 85 ma-la ú-ṣab-bi-tu ap-ti  
+iii 85 as many as I had seized, I opened 
+
+iii 86 𒈠𒁕𒋫𒋙 𒅗𒂍𒌓 𒄠𒄯𒋙  
+iii 86 ma-da-ta-šú ka-bit-tú am-ḫur-šú  
+I received from him his substantial payment. 
+
+iii 87 𒉺𒀭 𒄑𒋙𒂈𒅀 𒌑𒌁𒉘𒈠  
+iii 87 pa-an GIŠ.ŠUDUN-ia ú-ter-ram-ma19  
+iii 87 I turned around (lit. “I turned the front of my yoke”) 
+
+iii 88 𒊩𒎌 𒀀𒌅𒊏 𒀀𒈾 𒀏𒆠 𒌷 𒁁𒇻𒋾𒅀  
+iii 88 šal-meš a-tu-ra a-na NINA.KI URU be-lu-ti-ia  
+iii 88 salv'es re-toura anach Nineveh, car-pilatia ≈ capital
+iii 88 and returned safely to Nineveh, my capital city.  
+<> ii 2 … KUR Assyria
+
+iii 89 𒈠𒀠𒆠 𒉠 𒌓𒁴 𒌋 𒈗𒎌  
+iii 89 ma-al-ki MURUB₄ tam-tim u LUGAL.MEŠ  
+iii 89 maliki   Meru𓈗Tiamat
+iii 89 Rulers of the middle of the sea and kings
+
+iii 90 𒀀𒅆𒁍𒋾  𒆳𒁲𒂊    𒃻𒄣𒋾
+iii 90 a-ši-bu-ti šad-de-e šá-qu-ti  
+iii 90 aš-habit   saddle    𓋴 𓇋 𓎛 𓃶 𒍢𒊏𒀀𒋾 ṣi-ra-a-ti <<
+ who reside in the high mountains 
+
+iii 91 𒁕𒈾𒀭 𒅁𒊺𒋾𒅀 𒀭𒈾𒀀𒋾  
+iii 91 da-na-an ep-še-ti-ia an-na-a-ti  
+ saw the might of these deeds of mine 
+
+iii 92 𒂊𒈬𒊒𒈠 𒅁𒆷𒄷 𒂗𒌋𒋾  
+iii 92 e-mu-ru-ma ip-la-ḫu EN-u-ti  
+ and became frightened of my lordly majesty. 
+
+iii 93 𒁹𒅀𒆠𒅔𒇻𒌋 𒈗 𒆳𒅈𒌑𒀀𒁕  
+iii 93 ᵐia-ki-in-lu-u LUGAL KUR.ar-ú-a-da  
+ (As for) Yakīn-Lû, the king of the land Arwad, 
+iii 94 𒁹𒈬𒃲𒇻 𒈗 𒆳𒋰𒀀𒆷  
+iii 94 ᵐmu-gal-lu LUGAL KUR.tab-a-la  
+ Mugallu, the king of the land Tabal, 
+iii 95 𒁹𒊓𒀭𒁲𒊬𒈨 𒆳𒄭𒋃𒅗𒀀𒀀  
+iii 95 ᵐsa-an-di-šar-me KUR.ḫi-lak-ka-a-a  
+iii 95 (and) Sanda-šarme of the land Ḫilakku (Cilicia),
+iii 96 𒊭 𒀀𒈾  𒈗𒎌   𒀜𒎌𒅀  𒆷 𒃶𒋙  
+iii 96 ša a-na LUGAL.MEŠ ᵛAD.MEŠ-ia la kan-šú  
+ who had not bowed down to the kings, my ancestors, 
+
+iii 97 𒅅𒉡𒋙 𒀀𒈾 𒄑𒋙𒂈𒅀  
+iii 97 ik-nu-šú a-na GIŠ.ŠUDUN-ia  
+ they bowed down to my yoke. 
+
+iii 98 𒌉𒊩𒎌 𒍢𒀉 𒊮𒁉𒋙𒉡  
+iii 98 DUMU.MUNUS.MEŠ ṣi-it lìb-bi-šú-nu  
+ They brought (their) daughters, their own offspring, 
+
+iii 99 𒀉𒋾 𒉡𒂄𒉌𒂊 𒈠𒀪𒁲  
+iii 99 it-ti nu-dun-né-e ma-aʾ-di  
+together with a substantial dowry
 
 iii 100 𒅇 𒌁𒄩𒋾 𒈠𒀪𒊍𒋛
-iii 100 𒀀𒈾 𒂊𒄫 𒊩𒅆𒁾𒌑𒋾  
-iii 100 𒀀𒈾 𒀏𒆠 𒌑𒁉𒇻𒉏𒈠  
-iii 100 𒌑𒈾𒀾𒅆𒄣 𒄊𒅀𒅀  
-iii 100 𒂊𒇷 𒁹𒈬𒃲𒇷 𒀲𒆳𒊏𒎌 𒃲𒎌  
-iii 100 
-iii 100 iii 105  
-iii 100 𒈠𒁕𒀜𒌓 𒆳𒋾𒌑𒈠 𒌑𒆥 𒂔𒍑𒋙  
-iii 100 𒌌𒌅 𒁹𒅀𒆠𒅔𒇻𒌋 𒈗 𒆳𒀀𒊒𒀜𒁕  
-iii 100 𒅋𒇷𒆪 𒀀𒈾 𒋆𒋾 𒁹𒀀𒍣𒁀𒀠  
-iii 100 𒁹𒀀𒁉𒁀𒀪𒀠 𒁹𒀀𒁺𒉌𒁀𒀪𒀠  
-iii 100 𒌉𒎌 𒁹𒅀𒆠𒅔𒇻𒌋 𒀀𒈨 𒉠 𒌓𒁴  
+iii 100 ù ter-ḫa-ti ma-aʾ-as-si20  
+and a large marriage gift, 
 
-iii 110  
+iii 101 𒀀𒈾 𒂊𒄫 𒊩𒅆𒁾𒌑𒋾  
+iii 101 a-na e-peš MUNUS.AGRIG-ú-ti  
+iii 101 to serve as housekeepers
+
+iii 102 𒀀𒈾 𒀏𒆠 𒌑𒁉𒇻𒉏𒈠  
+iii 102 a-na NINA.KI ú-bi-lu-nim-ma  
+iii 102  to Nineveh ú-bring-nehma
+
+iii 103 𒌑𒈾𒀾𒅆𒄣 𒄊𒅀𒅀  
+iii 103 ú-na-áš-ši-qu GÌR.II-ia  
+iii 103 ú-nasekuss    𓂻 𓏮 yo
+iii 103 and they kissed my feet. 
+
+iii 104 𒂊𒇷 𒁹𒈬𒃲𒇷 𒀲𒆳𒊏𒎌 𒃲𒎌  
+iii 104 e-li ᵐmu-gal-li ANŠE.KUR.RA.MEŠ GAL.MEŠ  
+ I imposed upon Mugallu an annual payment of large horses.  
+
+iii 105 𒈠𒁕𒀜𒌓 𒆳𒋾𒌑𒈠 𒌑𒆥 𒂔𒍑𒋙  
+iii 105 ma-da-at-tú šat-ti-šam-ma ú-kin EDIN-uš-šú  
+
+iii 106 𒌌 𒌅 𒁹𒅀𒆠𒅔𒇻𒌋 𒈗 𒆳𒀀𒊒𒀜𒁕  
+iii 106 ul-tu ᵐIa-ki-in-lu-u LUGAL KUR.a-ru-ad-da  
+iii 106 After Yakīn-Lû, the king of the land Arwad, 
+
+iii 107 𒅋𒇷𒆪 𒀀𒈾 𒋆𒋾 𒁹𒀀𒍣𒁀𒀠  
+iii 107 il-li-ku a-na šim-ti ᵐA-zi-ba-al  
+iii 107 walku ana śimpti 𓊃𓊪𓊗 Azi-Baʾal 
+iii 107 Azi-Baʾal had gone to his fate, 
+
+iii 108 𒁹𒀀𒁉𒁀𒀪𒀠 𒁹𒀀𒁺𒉌𒁀𒀪𒀠  
+iii 108 ᵐa-bi-ba-aʾ-al ᵐA-du-ni-ba-aʾ-al  
+Abī-Baʾal, (and) Adūnī-Baʾal, 
+
+iii 109 𒌉𒎌 𒁹𒅀𒆠𒅔𒇻𒌋 𒀀𒈨 𒉠 𒌓𒁴  
+iii 109 DUMU.MEŠ mia-ki-in-lu-u a-šib MURUB₄ tam-tim  
+the sons of Yakīn-Lû who reside in the middle of the sea, 
+
 iii 110 𒌌𒌅 𒉠 𒌓𒁴 𒂊𒇻𒉏𒈠  
-iii 110 𒀉𒋾 𒋫𒈥𒋾𒋙𒉡 𒅗𒂍𒌅  
-iii 110 𒅋𒌨𒌑𒉏𒈠 𒌑𒈾𒀾𒅆𒄣 𒄊𒅀𒅀  
-iii 110 𒁹𒀀𒍣𒁀𒀪𒀠 𒄩𒁹 𒀊𒉺𒇺𒈠  
-iii 110 𒀀𒈾 𒈗𒌑𒋾 𒆳𒀀𒊒𒀜𒁕 𒀾𒆲  
-iii 110 𒁹𒀀𒁉𒁀𒀪𒀠 𒁹𒀀𒁺𒉌𒁀𒀪𒀠  
+iii 110 ul-tu MURUB₄ tam-tim e-lu-nim-ma  
+iii 110 came up from the middle of the sea, 
+
+iii 111 𒀉𒋾 𒋫𒈥𒋾𒋙𒉡 𒅗𒂍𒌅  
+iii 111 it-ti ta-mar-ti-šú-nu ka-bit-tu  
+ with their substantial audience gift(s), 
+
+iii 112 𒅋𒌨𒌑𒉏𒈠 𒌑𒈾𒀾𒅆𒄣 𒄊𒅀𒅀  
+iii 112 il-lik-ú-nim-ma ú-na-áš-ši-qu GÌR.II-ia  (walk<>lick pun?)
+ and kissed my feet. 
+
+iii 113 𒁹𒀀𒍣𒁀𒀪𒀠 𒄩𒁹 𒀊𒉺𒇺𒈠  
+iii 113 ᵐa-zi-ba-aʾ-al ḫa-diš ap-pa-lis-ma  
+iii 113 𓅓 Azi-Baʾal gladis a'please-ma (<privi)  PUN / confusion 𐎈𐎄𐎊 ḥdy=look ≠ 보다  boda video 
+ I looked upon Azi-Baʾal with pleasure 
+
+iii 114 𒀀𒈾 𒈗𒌑𒋾 𒆳𒀀𒊒𒀜𒁕 𒀾𒆲  
+iii 114 a-na LUGAL-ú-ti KUR.a-ru-ad-da áš-kun  
+ and installed (him) as king of the land Arwad. 
+
+iii 115 𒁹𒀀𒁉𒁀𒀪𒀠 𒁹𒀀𒁺𒉌𒁀𒀪𒀠  
+iii 115 ᵐa-bi-ba-aʾ-al ᵐa-du-ni-ba-aʾ-al  
+iii 115 I clothed Abī-Baʾal (and) Adūnī-Baʾal ...  
+
+
+
 
 
 xxxxx  
-iv 1 𒇽𒄀𒂇𒀀𒀀 𒇽𒉽 𒅅𒍮  
-iv 5 𒊭 𒆷 𒅁𒊑𒆷𒄷 𒀜𒎌𒅀  
-iv 5 𒅇 𒅀𒀀𒋾 𒆷 𒄑𒁀𒌓 𒄊𒅀 𒈗𒋾𒅀  
-iv 5 𒀸 𒆪𒋾 𒀭𒊹 𒀭15 𒂗𒎌𒅀  
+
+iv 1 𒇽𒄀𒂇𒀀𒀀    𒇽𒉽  𒅅𒍮  
+iv 1 LÚ.gi-mir-a-a LÚ.KÚR ek-ṣu  
+iv 1 Cimmeriaοὐμή counter extrem
+iv 1 (As for) the Cimmerians, a dangerous enemy 
+
+iv 2 𒊭 𒆷 𒅁𒊑𒆷𒄷 𒀜𒎌𒅀  
+iv 2 ša la ip-tal-la-ḫu ᵛAD.MEŠ-ia  
+who had never feared my ancestors, 
+
+iv 3 𒅇 𒅀𒀀𒋾 𒆷 𒄑𒁀𒌓 𒄊𒅀 𒈗𒋾𒅀  
+iv 3 ù ia-a-ti, la iṣ-ba-tú GÌR.II LUGAL-ti-ia  
+and with regard to me, had not grasped the feet of my royal majesty, 
+
+iv 4 𒀸 𒆪𒋾 𒀭𒊹 𒀭15 𒂗𒎌𒅀  
+iv 4 ina tukul-ti AN.ŠÁR d15 EN.MEŠ-ia  
+with the support of (the god) Aššur (and) the goddess Ištar, my lords, 
+
 iv 5 𒀸 𒄑𒍢𒄑𒍢 𒆳 𒋡𒋾 𒄑𒅆𒂵𒊑
-iv 5 𒌑𒌓𒈨𒄴𒈠 𒀉𒋾 𒋫𒈥𒋾𒋙 𒅗𒂍𒋾  
-iv 5 𒌑𒊺𒁉𒆷 𒀀𒁲 𒈤𒊑𒅀  
-iv 5 𒀸 𒐉 𒄫𒊑𒅀 𒀀𒈾 𒌷𒄫𒁁  
-iv 5 𒃻 𒆠𒆗 𒌷𒄩𒊑𒂊𒄩𒊍𒋫 𒇻 𒀠𒌨  
+iv 5 ina GIŠ.ṣi-iṣ-ṣi šat qa-ti GIŠ.ši-ga-ri  
+he (Gyges) clamped (them) in manacles, handcuffs, (and) neck-stocks 
+
+iv 6 𒌑𒌓𒈨𒄴𒈠 𒀉𒋾 𒋫𒈥𒋾𒋙 𒅗𒂍𒋾  
+iv 6 ú-tam-me-eḫ-ma it-ti ta-mar-ti-šú ka-bit-ti  
+and together with his substantial audience gift(s).  
+
+iv 7 𒌑𒊺𒁉𒆷 𒀀𒁲 𒈤𒊑𒅀  
+iv 7 ú-še-bi-la a-di maḫ-ri-ia  
+sent (them) before me, 
+
+iv 8 𒀸 𒐉 𒄫𒊑𒅀 𒀀𒈾 𒌷𒄫𒁁  
+iv 8 ina 4 ger-ri-ia a-na URU.qir-bít  
+iv 8 On my fourth campaign, I marched to the city Qirbit, 
+
+iv 9 𒃻 𒆠𒆗 𒌷𒄩𒊑𒂊𒄩𒊍𒋫 𒇻 𒀠𒌨  
+iv 9 šá qé-reb URU.ḫa-re-e-ḫa-as-ta lu al-lik  
+which is inside (Mount) Ḫarēḫasta (lit. “the city Ḫarēḫasta”), 
+
 
 iv 10 𒊭 𒁹𒋫𒀭𒁕 𒇽𒂗𒌷𒋙𒉡
-iv 10 𒀀𒈾 𒈗𒎌 𒀜𒎌𒅀 𒆷 𒅅𒉡𒋙 𒀀𒈾 𒄑𒋙𒂈  
-iv 10 𒅇 𒌦𒎌 𒀀𒅆𒁍𒋾 𒌷𒄫𒁁  
-iv 10 𒅗𒀀𒀀𒀭 𒄴𒋫𒀮𒁀𒌅  
-iv 10 𒄷𒁍𒌓 𒆳𒅀𒄷𒄭𒁀𒇷  
-iv 10 𒌷 𒋗𒀀𒌅 𒀸 𒆪𒋾 𒀭𒊹 𒀭𒌍 𒀭𒌓  
-iv 10 𒀭𒂗 𒀭𒀝 𒀭15 𒊭 𒀏𒆠 𒀭15 𒊭 𒌷𒇹𒀭  
-iv 10 𒀝𒋗𒌓 𒀾𒇻𒆷 𒊩𒆳𒋢  
-iv 10 𒁹𒋫𒀭𒁕 𒇽𒂗𒌷𒋙𒉡  
-iv 10 𒀉𒋾 𒊩𒆳 𒌷𒋙 𒀠𒋡𒀀 𒀀𒈾 𒆳 𒀸𒋩𒆠  
+iv 10 ša mta-an-da LÚ.EN.URU-šú-nu  
+iv 10 since Tandāya, their city ruler, 
+
+iv 11 𒀀𒈾 𒈗𒎌 𒀜𒎌𒅀 𒆷 𒅅𒉡𒋙 𒀀𒈾 𒄑𒋙𒂈  
+iv 11 a-na LUGAL.MEŠ ᵛAD.MEŠ-ia la ik-nu-šú a-na GIŠ.ŠUDUN  
+to the yoke of the kings, my ancestors, never bowed down 
+
+iv 12 𒅇 𒌦𒎌 𒀀𒅆𒁍𒋾 𒌷𒄫𒁁  
+iv 12 ù UN.MEŠ a-ši-bu-ti URU.qir-bít  
+and the people living in the city Qirbit were 
+
+iv 13 𒅗𒀀𒀀𒀭 𒄴𒋫𒀮𒁀𒌅  
+iv 13 ka-a-a-an iḫ-ta-nab-ba-tu  
+iv 13 con{stant} raubte √ʳhabātu 
+constantly plundering 
+
+iv 14 𒄷𒁍𒌓 𒆳𒅀𒄷𒄭𒁀𒇷  
+iv 14 ḫu-bu-ut KUR.ia-mut-ba-li  
+the land Yamutbal. 
+
+iv 15 𒌷  𒋗𒀀𒌅 𒀸 𒆪𒋾 𒀭𒊹 𒀭𒌍 𒀭𒌓  
+iv 15 URU šu-a-tu ina tukul-ti AN.ŠÁR d30 dUTU  
+iv 15 With the support of the deities Aššur, Sîn, Šamaš, 
+
+iv 16 𒀭𒂗 𒀭𒀝 𒀭15 𒊭 𒀏𒆠 𒀭15 𒊭 𒌷𒇹𒀭  
+iv 16 dEN dAG d15 ša NINA.KI d15 ša URU.LÍMMU-DINGIR  
+Bēl (Marduk), Nabû, Ištar of Nineveh, (and) Ištar of Arbela, 
+
+iv 17 𒀝𒋗𒌓 𒀾𒇻𒆷 𒊩𒆳𒋢  
+iv 17 ak-šu-ud áš-lu-la šal-lat-su  
+iv 17 a'cached aus-leit selled  √kašādu:reach/conquer  šalālu:carry-off šallatu:plunder <> sold
+I conquered (and) plundered {that city}. 
+
+iv 18 𒁹𒋫𒀭𒁕 𒇽𒂗𒌷𒋙𒉡  
+iv 18 ᵐta-an-da LÚ.EN.URU-šú-nu  
+(As for) Tandāya, their city ruler, 
+
+iv 19 𒀉𒋾 𒊩𒆳     𒌷  𒋙  𒀠𒋡𒀀   𒀀𒈾 𒆳 𒀸𒋩𒆠  
+iv 19 it-ti šal-lat URU-šú al-qa-a a-na KUR aš-šur.KI22  
+iv 19 with  Sold    Ur su  hulka   an   KUR Assurᵏia
+I took (him) to Assyria together with captives from his city.  
+
+
 
 
 
 iv 1' 𒁹𒄴𒊺𒂊𒊑 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
-iv 5' 𒌑𒈠𒀪𒂊𒊏 𒌝𒌋𒌋𒋙  
-iv 5' 𒀸 𒆳 𒈬𒅆 𒀸 𒅆𒌓 𒉌𒆸𒋾  
-iv 5' 𒀀𒈾 𒂊𒄫 𒀞 𒀉𒁍𒌋𒉌  
+iv 1 maḫ?-še?-e-ri a-lak ger-ri-ia iš-me-ma  
+iv 1' Aḫšēri heard about the advance of my expeditionary force 
+
+iv 2' 𒌑𒈠𒀪𒂊𒊏 𒌝𒌋𒌋𒋙  
+iv 2 ú-ma-ʾe-e-ra um-man-šú  
+and dispatched his army. 
+
+iv 3' 𒀸 𒆳   𒈬𒅆     𒀸 𒅆𒌓    𒉌𒆸𒋾  
+iv 3 ina šat mu-ši    ina ši-pir ni-kil-ti  
+iv 3 ina that ᵍNU-IGI ina Sipp-special {skill}
+During the night, in a crafty maneuver, 
+
+iv 4' 𒀀𒈾 𒂊𒄫 𒀞 𒀉𒁍𒌋𒉌  
+iv 4 a-na e-peš MÈ it-bu-u-ni  
+they approached to do battle, 
+
 iv 5' 𒀀𒈾 𒁁𒄷𒊻𒍢 𒂟𒄭𒀀𒅀
-iv 5' 𒂟𒎌 𒀞𒅀 𒀉𒋾𒋙𒌦 𒅎𒁕𒄩𒍮  
-iv 5' 𒅖𒆪𒉡 𒅆𒅆𒋙𒌦  
-iv 5' 𒈠𒋃 𒐈 𒆜𒁍 𒀀𒊮 𒊩𒈠𒀀𒋼𒋙𒉡  
-iv 5' 𒌑𒂷𒇷 𒂔 𒊐𒋙  
+iv 5 a-na mit-ḫu-uṣ-ṣi ERIM.ḪI.A-ia  
+to fight with my troops. 
+
+iv 6' 𒂟𒎌 𒀞𒅀 𒀉𒋾    𒋙𒌦 𒅎𒁕𒄩𒍮  
+iv 6 ERIM.MEŠ MÈ-ia it-ti šú-un im-da-ḫa-ṣu  
+My battle troops fought with them 
+
+iv 7' 𒅖𒆪𒉡   𒅆𒅆𒋙𒌦  
+iv 7 iš-ku-nu BAD₅.BAD₅-šú-un  
+(and) brought about their defeat. 
+
+iv 8' 𒈠𒋃 𒐈 𒆜𒁍      𒀀𒊮 𒊩𒈠𒀀𒋼𒋙𒉡  
+iv 8 ma-lak 3 KASKAL.GÍD A.ŠÀ šal-ma-a-te-šú-nu  
+(Over) an area (the distance of) three leagues march, 
+
+iv 9' 𒌑𒂷𒇷 𒂔 𒊐𒋙  
+iv 9 ú-mal-li EDIN rap-šú  
+they filled the wide steppe with their corpses.  
 
 iv 10' 𒀸 𒆠𒂍 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒎌 𒃲𒎌
-iv 10' 𒂗𒎌𒅀 𒃻 𒌑𒋳𒆠𒇻𒅔𒉌  
-iv 10' 𒆠𒆗 𒆳𒌋𒌋𒈾𒀀𒀀 𒂊𒊒𒌒𒈠 𒀜𒋫𒋃 𒊩𒁹  
-iv 10' 𒀸 𒈨𒋾𒅅 𒄫𒊑𒅀  
-iv 10' 𒌷𒀀𒀀𒌑𒋛𒀾 𒌷𒄬𒍮 𒌷𒀾𒃻𒀾 𒆗𒈾𒋢  
-iv 10' 𒌷𒁍𒋢𒌓 𒌷𒀾𒁲𒀾 𒌷𒌨𒆠𒅀𒈬𒌦  
-iv 10' 𒌷𒌒𒉿𒅖 𒌷𒋛𒄷𒌋𒀀 𒌷𒈾𒍣𒉌𒊑  
-iv 10' 𒐍 𒌷𒎌 𒆗𒉡𒋾 𒅇 𒀀𒁲 𒍢𒄴𒊒𒋾  
-iv 10' 𒊭 𒉌𒁀 𒆷 𒄿𒋗𒌋  
-iv 10' 𒀀𒁲 𒆠𒆗 𒌷𒄿𒆰𒋼 𒀝𒋗𒌓  
+iv 10 ina qí-bit AN.ŠÁR d30 dUTU DINGIR.MEŠ GAL.MEŠ  
+iv 10' By the command of the gods Aššur, Sîn, (and) Šamaš, the great gods, 
 
-iv 20' 𒀊𒇧 𒀝𒄥 𒀸 𒀭𒄑𒁇 𒀝𒈬
-iv 20' 𒌦𒎌 𒀲𒆳𒊏𒎌 𒀲𒎌 𒄞𒎌 𒇇𒇻𒄭𒀀  
-iv 20' 𒌌𒌅 𒆠𒆗 𒌷𒎌 𒃻𒀀𒌅𒉡  
-iv 20' 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
-iv 20' 𒁹𒄴𒊺𒂊𒊑 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
-iv 20' 𒌑𒈦𒋓 𒌷𒄿𒆰𒌓 𒌷 𒈗𒋾𒋙  
-iv 20' 𒀀𒈾 𒌷𒀜𒊏𒀀𒈾 𒌷 𒆪𒋾𒋙  
-iv 20' 𒅔𒈾𒂍 𒂊𒄷𒊻 𒈥𒆠𒌅  
-iv 20' 𒌷𒄿𒆰𒌅 𒌷𒌨𒈨𒅀𒋼 𒌷𒊻𒁉𒀀  
-iv 20' 𒌷𒎌 𒆗𒉡𒋾𒋙 𒀠𒈨  
+iv 11' 𒂗𒎌𒅀 𒃻 𒌑𒋳𒆠𒇻𒅔𒉌  
+iv 11 EN.MEŠ-ia šá ú-tak-ki-lu-in-ni  
+my lords who had encouraged me, 
 
-iv 30'  
+iv 12' 𒆠𒆗 𒆳𒌋𒌋𒈾𒀀𒀀 𒂊𒊒𒌒𒈠 𒀜𒋫𒋃 𒊩𒁹  
+iv 12 qé-reb KUR.man-na-a-a e-ru-ub-ma at-ta-lak šal-ṭiš  
+I entered the land Mannea and marched about triumphantly. 
+
+iv 13' 𒀸 𒈨𒋾𒅅 𒄫𒊑𒅀  
+iv 13 ina me-ti-iq ger-ri-ia  
+In the course of my campaign, 
+
+{iv 19, 20 : I conquered, destroyed, demolished, (and) burned with fire}
+
+iv 14' 𒌷𒀀𒀀𒌑𒋛𒀾 𒌷𒄬𒍮 𒌷𒀾𒃻𒀾 𒆗𒈾𒋢  
+iv 14 URU.a-a-ú-si-áš URU.ḪAL.ṢU URU.áš-šá-áš dan-na-su  
+the cities Ayusiaš — a fortress (of his) — Aššaš — a stronghold of his — 
+iv 15' 𒌷𒁍𒋢𒌓 𒌷𒀾𒁲𒀾 𒌷𒌨𒆠𒅀𒈬𒌦  
+iv 15 URU.bu-su-tú URU.áš-di-áš URU.ur-ki-ia-mu-un  
+Busutu, Ašdiyaš, Urkiyamun, 
+iv 16' 𒌷𒌒𒉿𒅖 𒌷𒋛𒄷𒌋𒀀 𒌷𒈾𒍣𒉌𒊑  
+iv 16 URU.up-pi-iš URU.si-ḫu-u-a URU.na-zi-ni-ri  
+Uppiš, Siḫūa, (and) Naziniri 
+iv 17' 𒐍 𒌷𒎌 𒆗𒉡𒋾 𒅇 𒀀𒁲 𒍢𒄴𒊒𒋾  
+iv 17 8 URU.MEŠ dan-nu-ti ù a-di ṣe-eḫ-ru-ti  
+— eight fortified cities — together with small(er settlements), 
+iv 18' 𒊭 𒉌𒁀 𒆷 𒄿𒋗𒌋  
+iv 18 ša ni-ba la? i-šu-u  
+which were without number, 
+
+iv 19' 𒀀𒁲 𒆠𒆗 𒌷𒄿𒆰𒋼 𒀝𒋗𒌓  
+iv 19 a-di qé-reb URU.i-zir-te ak-šu-ud  
+as far as the city Izirtu … I conquered
+
+iv 20' 𒀊𒇧  𒀝𒄥  𒀸  𒀭𒄑𒁇 𒀝𒈬
+iv 20 ap-pul aq-qur ina dGIŠ.BAR aq-mu  
+destroyed, demolished, (and) burned with fire
+
+
+iv 21' 𒌦𒎌 𒀲𒆳𒊏𒎌 𒀲𒎌 𒄞𒎌 𒇇𒇻𒄭𒀀  
+iv 21 UN.MEŠ ANŠE.KUR.RA.MEŠ ANŠE.MEŠ GU₄.MEŠ US₅.UDU.ḪI.A  
+I brought people, horses, donkeys, oxen, (and) sheep and goats 
+iv 22' 𒌌𒌅 𒆠𒆗 𒌷𒎌 𒃻𒀀𒌅𒉡  
+iv 22 ul-tu qé-reb URU.MEŠ šá-a-tu-nu  
+out of those cities 
+iv 23' 𒌑𒊺𒍝𒄠𒈠    𒊩𒆷𒁹      𒄠𒉡  
+iv 23 ú-še-ṣa-am-ma šal-la-tiš am-nu  
+iv 23   zusammen    sold       number
+and I counted (them) as booty.  
+
+iv 24' 𒁹𒄴𒊺𒂊𒊑 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
+iv 24 maḫ-še-e-ri a-lak ger-ri-ia iš-me-ma  
+iv 24' Aḫšēri heard about the advance of my expeditionary force and abandoned the city Izirtu, his royal city. He fled to the city Atrāna, a city upon which he relied, (and) took refuge (there). I surrounded the cities Izirtu, Urmēte (Armaet), (and) Uzbia (Izibia), his fortified cities. (iv 30´ I confined the people living in those cities and (thus) constricted (and) cut short their lives. I conquered, destroyed, demolished, (and) burned that district with fire. I laid waste to (an area of) fifteen days march and poured out (over it) the silence (of desolation).  
+iv 25' 𒌑𒈦𒋓 𒌷𒄿𒆰𒌓 𒌷 𒈗𒋾𒋙  
+iv 25 ú-maš-šir URU.i-zir-tú URU LUGAL-ti-šú  
+iv 26' 𒀀𒈾 𒌷𒀜𒊏𒀀𒈾 𒌷 𒆪𒋾𒋙  
+iv 26 a-na URU.at-ra-a-na URU tukul-ti-šú  
+iv 27' 𒅔𒈾𒂍 𒂊𒄷𒊻 𒈥𒆠𒌅  
+iv 27 in-na-bit e-ḫu-uz mar-qí-tu  
+iv 28' 𒌷𒄿𒆰𒌅 𒌷𒌨𒈨𒅀𒋼 𒌷𒊻𒁉𒀀  
+iv 28 URU.i-zir-tu URU.ur-me-ia-te URU.uz-bi-a23  
+iv 29' 𒌷𒎌 𒆗𒉡𒋾𒋙 𒀠𒈨  
+iv 29 URU.MEŠ dan-nu-ti-šú al-me  
+
 iv 30' 𒌦𒎌 𒀀𒅆𒁍𒋾 𒌷𒎌 𒃻𒀀𒌅𒉡  
-iv 30' 𒂊𒋛𒅕𒈠 𒀮𒆳𒋢𒉡 𒌑𒋛𒅅 𒌑𒋼𒀀𒊑  
-iv 30' 𒈾𒄖𒌋 𒋗𒀀𒌅 𒀝𒋗𒌓  
-iv 30' 𒀊𒇧 𒀝𒄥 𒀸 𒀭𒄑𒁇 𒀝𒈬  
-iv 30' 𒈠𒋃 𒌋 𒌓𒈨 𒐊 𒌓𒈨 𒌑𒋚𒊑𒅁𒈠  
-iv 30' 𒃻𒄣𒌝𒈠𒌓 𒀜𒁍𒊌  
-iv 30' 𒀸 𒈨𒋾𒅅 𒄫𒊑𒅀  
-iv 30' 𒌷𒎌 𒃻 𒇷𒈨𒀉 𒌷𒉻𒁲𒊑  
-iv 30' 𒊭 𒀸 𒌁𒍢 𒈗𒎌 𒀜𒎌𒅀 𒆳𒌋𒌋𒈾𒀀𒀀 𒂊𒆠𒈬  
-iv 30' 𒀀𒈾 𒊏𒈠𒉌𒋙𒉡 𒌑𒌁𒊒  
+iv 30 UN.MEŠ a-ši-bu-ti URU.MEŠ šá-a-tu-nu  
+iv 31' 𒂊𒋛𒅕𒈠 𒀮𒆳𒋢𒉡 𒌑𒋛𒅅 𒌑𒋼𒀀𒊑  
+iv 31 e-si-ir-ma nap-šat-su-nu ú-si-iq ú-kar-ri  
+iv 32' 𒈾𒄖𒌋 𒋗𒀀𒌅 𒀝𒋗𒌓  
+iv 32 na-gu-u šu-a-tu ak-šu-ud  
+iv 33' 𒀊𒇧 𒀝𒄥 𒀸 𒀭𒄑𒁇 𒀝𒈬  
+iv 33 ap-pul aq-qur ina dGIŠ.BAR aq-mu  
+iv 34' 𒈠𒋃 𒌋 𒌓𒈨 𒐊 𒌓𒈨 𒌑𒋚𒊑𒅁𒈠  
+iv 34 ma-lak 10 u₄-me 5 u₄-me ú-šaḫ-ri-ib-ma  
+iv 35' 𒃻𒄣𒌝𒈠𒌓 𒀜𒁍𒊌  
+iv 35 šá-qu-um-ma-tú at-bu-uk  
+iv 36' 𒀸 𒈨𒋾𒅅 𒄫𒊑𒅀  
+iv 36 ina me-ti-iq ger-ri-ia  
 
-iv 40'  
+
+iv 36' In the course of my campaign, I conquered, burned with fire, (and) plundered the cities in the environs of the city Paddira, which the Manneans had taken away (and) appropriated for themselves in the time of the kings, my ancestors. I returned those cities to the territory of Assyria.  
+iv 37' 𒌷𒎌 𒃻 𒇷𒈨𒀉 𒌷𒉻𒁲𒊑  
+iv 37 URU.MEŠ šá li-me-et URU.pad-di-ri  
+iv 38' 𒊭 𒀸 𒌁𒍢 𒈗𒎌 𒀜𒎌𒅀 𒆳𒌋𒌋𒈾𒀀𒀀 𒂊𒆠𒈬  
+iv 38 ša ina ter-ṣi LUGAL.MEŠ ᵛAD.MEŠ-ia KUR.man-na-a-a e-ki-mu  
+iv 39' 𒀀𒈾 𒊏𒈠𒉌𒋙𒉡 𒌑𒌁𒊒  
+iv 39 a-na ra-ma-ni-šú-nu ú-ter-ru  
+
 iv 40' 𒀝𒋗𒌓 𒀸 𒀭𒄑𒁇 𒀝𒈬 𒀾𒇻𒆷 𒊩𒆷𒄢  
-iv 40' 𒌷𒎌 𒃻𒀀𒌅𒉡 𒀀𒈾 𒈪𒈲 𒆳 𒀸𒋩𒆠 𒌑𒌁𒊏  
-iv 40' 𒈾𒄖𒌋 𒊭 𒌷𒅈𒋛𒅀𒉌𒅖  
-iv 40' 𒊭 𒁉𒈩 𒌷𒀀𒍝𒋡𒈾𒉌  
-iv 40' 𒊭 𒆳𒄩𒅈𒋛 𒃻𒁲𒄿  
-iv 40' 𒊭 𒊕 𒆳𒆪𒈬𒌨𒁕𒀀𒀀  
-iv 40' 𒊭 𒆠𒆗 𒆳𒌋𒌋𒈾𒀀𒀀  
-iv 40' 𒊍𒁍𒌦 𒀸 𒀭𒄑𒁇 𒀝𒈬  
-iv 40' 𒁹𒊏𒀀𒀀𒁲𒃻𒁲𒄿 𒇽𒃲 𒄬𒍮𒋙𒉡  
-iv 40' 𒀀𒂁 𒀾𒇻𒆷 𒊩𒆳𒋢  
+iv 40 ak-šu-ud ina dGIŠ.BAR aq-mu áš-lu-la šal-la-sún  
+iv 41' 𒌷𒎌 𒃻𒀀𒌅𒉡 𒀀𒈾 𒈪𒈲 𒆳 𒀸𒋩𒆠 𒌑𒌁𒊏  
+iv 41 URU.MEŠ šá-a-tu-nu a-na mi-ṣir KUR aš-šur.KI ú-ter-ra  
+iv 42' 𒈾𒄖𒌋 𒊭 𒌷𒅈𒋛𒅀𒉌𒅖  
+iv 42 na-gu-u ša URU.ar-si-ia-ni-iš  
 
-iv 50'  
+
+iv 42' I leveled (and) burned with fire the district of the city Arsiyaniš, which is between the city Azaqanani and (lit. “of”) Mount Ḫarsi, which is before the land of the Kumurdeans, who are in the land Mannea. I killed Rayadišadî, their fortress commander, (and) I plundered it (Arsiyaniš).  
+iv 43' 𒊭 𒁉𒈩 𒌷𒀀𒍝𒋡𒈾𒉌  
+iv 43 ša bi-rit URU.a-za-qa-na-ni  
+iv 44' 𒊭 𒆳𒄩𒅈𒋛 𒃻𒁲𒄿  
+iv 44 ša KUR.ḫa-ar-si šá-di-i  
+iv 45' 𒊭 𒊕 𒆳𒆪𒈬𒌨𒁕𒀀𒀀  
+iv 45 ša SAG KUR.ku-mu-ur-da-a-a  
+iv 46' 𒊭 𒆠𒆗 𒆳𒌋𒌋𒈾𒀀𒀀  
+iv 46 ša qé-reb KUR.man-na-a-a  
+iv 47' 𒊍𒁍𒌦 𒀸 𒀭𒄑𒁇 𒀝𒈬  
+iv 47 as-pu-un ina dGIŠ.BAR aq-mu  
+iv 48' 𒁹𒊏𒀀𒀀𒁲𒃻𒁲𒄿 𒇽𒃲 𒄬𒍮𒋙𒉡  
+iv 48 mra-a-a-di-šá-di-i LÚ.GAL ḪAL.ṢU-šú-nu  
+iv 49' 𒀀𒂁 𒀾𒇻𒆷 𒊩𒆳𒋢  
+iv 49 a-duk áš-lu-la šal-lat-su  
+
 iv 50' 𒈾𒄖𒌋 𒊭 𒌷𒂊𒊑𒄑𒋼𒅀𒈾  
-iv 50' 𒀝𒋗𒌓 𒌷𒎌𒋙 𒊍𒁍𒌦  
-iv 50' 𒀸 𒀭𒄑𒁇 𒀝𒈬 𒀾𒇻𒆷 𒊩𒆳𒋢  
-iv 50' 𒀸 𒋾𒅁 𒀞𒅀 𒈾𒄖𒋙 𒌑𒋚𒆗  
-iv 50' 𒌑𒍝𒄴𒄭𒅕 𒀮𒄯 𒆳𒋙  
-iv 50' 𒀉𒋾 𒄷𒌒𒋾 𒈠𒀪𒁲  
-iv 50' 𒊩𒆷𒋾 𒅗𒂍𒋾 𒊩𒎌 𒀀𒌅𒊏  
-iv 50' 𒀝𒁍𒊓 𒈪𒈲 𒆳 𒀸𒋩𒆠  
-iv 50' 𒌷𒁉𒊒𒀀 𒌷𒈗𒅅𒁉  
-iv 50' 𒌷𒄖𒋛𒉌𒂊 𒌷𒎌 𒈤𒊒𒌋𒋼  
+iv 50 na-gu-u ša URU.e-ri-is-te-ia-na  
 
-iv 60'  
+
+iv 50' I conquered the district of the city Eristeyana, flattened its villages, burned (them) with fire, (and) plundered (them). With the assault of my battle array, I laid waste to his district (and) made his entire land smaller. I returned safely with much plunder (and) substantial booty (and) set foot in Assyrian territory.  
+iv 51' 𒀝𒋗𒌓 𒌷𒎌𒋙 𒊍𒁍𒌦  
+iv 51 ak-šu-ud URU.MEŠ-šú as-pu-un  
+iv 52' 𒀸 𒀭𒄑𒁇 𒀝𒈬 𒀾𒇻𒆷 𒊩𒆳𒋢  
+iv 52 ina dGIŠ.BAR aq-mu áš-lu-la šal-lat-su  
+iv 53' 𒀸 𒋾𒅁 𒀞𒅀 𒈾𒄖𒋙 𒌑𒋚𒆗  
+iv 53 ina ti-ib MÈ-ia na-gu-šú ú-šaḫ-rib  
+iv 54' 𒌑𒍝𒄴𒄭𒅕 𒀮𒄯 𒆳𒋙  
+iv 54 ú-ṣa-aḫ-ḫi-ir nap-ḫar KUR-šú  
+iv 55' 𒀉𒋾 𒄷𒌒𒋾 𒈠𒀪𒁲  
+iv 55 it-ti ḫu-ub-ti ma-aʾ-di  
+iv 56' 𒊩𒆷𒋾 𒅗𒂍𒋾 𒊩𒎌 𒀀𒌅𒊏  
+iv 56 šal-la-ti ka-bit-ti šal-meš a-tu-ra  
+iv 57' 𒀝𒁍𒊓 𒈪𒈲 𒆳 𒀸𒋩𒆠  
+iv 57 ak-bu-sa mi-ṣir KUR aš-šur.KI  
+iv 58' 𒌷𒁉𒊒𒀀 𒌷𒈗𒅅𒁉  
+iv 58 URU.bi-ru-a URU.LUGAL-iq-bi  
+
+
+iv 58' (As for) the cities Birrūa, Šarru-iqbi, (and) Gusinê, cities that were formerly within the territory of Assyria which the Manneans had taken away in the time of the kings, my ancestors, I conquered those settlements. I tore the land Mannea apart from within. (iv 65´ I carried off to Assyria (their) horses, (their) equipment, (and) their implements of war. I reorganized those cities (and) returned (them) to the territory of Assyria.  
+iv 59' 𒌷𒄖𒋛𒉌𒂊 𒌷𒎌 𒈤𒊒𒌋𒋼  
+iv 59 URU.gu-si-né-e URU.MEŠ maḫ-ru-u-te  
+
 iv 60' 𒊭 𒈪𒈲 𒆳 𒀸𒋩𒆠  
-iv 60' 𒊭 𒀸 𒌁𒍢 𒈗𒎌 𒀜𒎌𒅀  
-iv 60' 𒂊𒆠𒈬 𒆳𒌋𒌋𒈾𒀀𒀀  
-iv 60' 𒁕𒄉𒈨 𒃻𒀀𒌅𒉡 𒀝𒋗𒌓  
-iv 60' 𒆳𒌋𒌋𒈾𒀀𒀀 𒌌𒌅 𒊮𒁉 𒊍𒈽  
-iv 60' 𒀲𒆳𒊏𒎌 𒄑𒌀𒇷 𒌑𒉡𒌓 𒀞𒋙𒉡  
-iv 60' 𒀾𒇻𒆷 𒀀𒈾 𒆳 𒀸𒋩𒆠  
-iv 60' 𒌷𒎌 𒃻𒀀𒌅𒉡 𒀀𒈾 𒌍𒋗𒋾 𒊍𒁁  
-iv 60' 𒌑𒌁𒊏 𒀀𒈾 𒈪𒈲 𒆳 𒀸𒋩𒆠  
-iv 60' 𒁹𒄴𒊺𒂊𒊑 𒆷 𒉺𒌓 𒂗𒋾𒅀  
+iv 60 ša mi-ṣir KUR aš-šur.KI  
+iv 61' 𒊭 𒀸 𒌁𒍢 𒈗𒎌 𒀜𒎌𒅀  
+iv 61 ša ina ter-ṣi LUGAL.MEŠ ᵛAD.MEŠ-ia  
+iv 62' 𒂊𒆠𒈬 𒆳𒌋𒌋𒈾𒀀𒀀  
+iv 62 e-ki-mu KUR.man-na-a-a  
+iv 63' 𒁕𒄉𒈨 𒃻𒀀𒌅𒉡 𒀝𒋗𒌓  
+iv 63 da-ád-me šá-a-tu-nu ak-šu-ud  
+iv 64' 𒆳𒌋𒌋𒈾𒀀𒀀 𒌌𒌅 𒊮𒁉 𒊍𒈽  
+iv 64 KUR.man-na-a-a ul-tu lìb-bi as-suḫ  
+iv 65' 𒀲𒆳𒊏𒎌 𒄑𒌀𒇷 𒌑𒉡𒌓 𒀞𒋙𒉡  
+iv 65 ANŠE.KUR.RA.MEŠ GIŠ.til-li ú-nu-ut MÈ-šú-nu  
+iv 66' 𒀾𒇻𒆷 𒀀𒈾 𒆳 𒀸𒋩𒆠  
+iv 66 áš-lu-la a-na KUR aš-šur.KI  
+iv 67' 𒌷𒎌 𒃻𒀀𒌅𒉡 𒀀𒈾 𒌍𒋗𒋾 𒊍𒁁  
+iv 67 URU.MEŠ šá-a-tu-nu a-na eš-šu-ti aṣ-bat  
+iv 68' 𒌑𒌁𒊏 𒀀𒈾 𒈪𒈲 𒆳 𒀸𒋩𒆠  
+iv 68 ú-ter-ra a-na mi-ṣir KUR aš-šur.KI  
+iv 69' 𒁹𒄴𒊺𒂊𒊑 𒆷 𒉺𒌓 𒂗𒋾𒅀  
+iv 69 maḫ-še-e-ri la pa-liḫ EN-ti-ia  
 
-iv 70'  
+
+
+iv 69' (As for) Aḫšēri, who did not fear my lordly majesty, (the god) Aššur (and) the goddess Ištar placed him in the hands of his servants. The people of his land incited a rebellion against him (and) they cast his corpse into a street of his city.  
 iv 70' 𒀭𒊹 𒀭15 𒅎𒉡𒋙 𒄿𒈾 𒋗𒅀 𒀴𒎌𒋙  
-iv 70' 𒌦𒎌 𒆳𒋙 𒋛𒄷 𒌋𒅗𒋙 𒌑𒉺𒅁𒋙𒌋  
-iv 70' 𒀸 𒋻 𒌷𒋙 𒀉𒁺𒌋 𒇿𒋗  
-iv 70' 𒂕𒉡 𒁹𒌑𒀀𒀠𒇷𒄿 𒌉𒋙  
-iv 70' 𒌑𒈨 𒄿𒈾 𒄑𒄖𒍝𒋙  
-iv 70' 𒁕𒈾𒀭 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒌋 𒀭𒀝  
-iv 70' 𒀭15 𒃻 𒀏𒆠 𒀭15 𒃻 𒇹𒀭𒆠 𒀭𒈦 𒀭𒉺𒌆 𒀭𒌋𒄥  
-iv 70' 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀 𒂊𒄯𒈠  
-iv 70' 𒅅𒉡𒃻 𒀀𒈾 𒄑𒋙𒂈𒅀  
-iv 70' 𒀾𒋙 𒁀𒆳 𒍣𒁴𒋙 𒌒𒈾𒀀𒋙 𒅁𒋫𒀀  
+iv 70 AN.ŠÁR d15 im-nu-šú i-na ŠU.II ARAD.MEŠ-šú  
+iv 71' 𒌦𒎌 𒆳𒋙 𒋛𒄷 𒌋𒅗𒋙 𒌑𒉺𒅁𒋙𒌋  
+iv 71 UN.MEŠ KUR-šú si-ḫu UGU-šú ú-šab-šú-u  
+iv 72' 𒀸 𒋻 𒌷𒋙 𒀉𒁺𒌋 𒇿𒋗  
+iv 72 ina SILA URU-šú id-du-u ADDA-šu  
+iv 73' 𒂕𒉡 𒁹𒌑𒀀𒀠𒇷𒄿 𒌉𒋙  
+iv 73 EGIR-nu mú-a-al-li-i DUMU-šú  
+iv 73' Afterwards, Uallî, his son, sat on his throne. He saw the might of the deities Aššur, Sîn, Šamaš, Bēl (Marduk) and Nabû, Ištar of Nineveh, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, the great gods, my lords, and bowed down to my yoke. For the preservation of his (own) life, he opened up his hands to me (and) (iv 80´ made an appeal to my lordly majesty. He sent Erisinni, his heir designate, to Nineveh and he kissed my feet. I had mercy on him. I dispatched my messenger with (a message of) goodwill to him. (v 1) He sent me (his) daughter, his own offspring, to serve as a housekeeper. (As for) his former payment, which they had discontinued in the time of the kings, my ancestors, they carried (it) before me. I added thirty horses to his former payment and imposed (it) upon him.  
+iv 74' 𒌑𒈨 𒄿𒈾 𒄑𒄖𒍝𒋙  
+iv 74 ú-šib i-na GIŠ.GU.ZA-šú  
+
+
+iv 75' 𒁕𒈾𒀭 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒌋 𒀭𒀝  
+iv 75 da-na-an AN.ŠÁR d30 dUTU dEN u dAG  
+iv 76' 𒀭15 𒃻 𒀏𒆠 𒀭15 𒃻 𒇹𒀭𒆠 𒀭𒈦 𒀭𒉺𒌆 𒀭𒌋𒄥  
+iv 76 d15 šá NINA.KI d15 šá LÍMMU-DINGIR.KI dMAŠ dnusku dU.GUR24  
+iv 77' 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀 𒂊𒄯𒈠  
+iv 77 DINGIR.MEŠ GAL.MEŠ EN.MEŠ-ia e-mur-ma  
+iv 78' 𒅅𒉡𒃻 𒀀𒈾 𒄑𒋙𒂈𒅀  
+iv 78 ik-nu-šá a-na GIŠ.ŠUDUN-ia  
+iv 79' 𒀾𒋙 𒁀𒆳 𒍣𒁴𒋙 𒌒𒈾𒀀𒋙 𒅁𒋫𒀀  
+iv 79 áš-šú ba-laṭ ZI-tì-šú up-na-a-šú ip-ta-a  
 
 iv 80' 𒌑𒉌𒆷𒀀 𒂗𒌑𒋾  
-iv 80' 𒁹𒂊𒊑𒋛𒅔𒉌 𒌉 𒍑𒋾𒋙  
-iv 80' 𒀀𒈾 𒀏𒆠 𒅖𒁓𒄠𒈠  
-iv 80' 𒌑𒈾𒀾𒅆𒋡 𒄊𒅀𒅀  
-iv 80' 𒊑𒂊𒈬 𒅈𒅆𒋙 𒇽𒀀 𒆥𒅀 𒃻 𒂄𒈨 𒌑𒈠𒀪𒅕 𒂔𒍑𒋙  
+iv 80 ú-ṣal-la-a EN-ú-ti  
+iv 81' 𒁹𒂊𒊑𒋛𒅔𒉌 𒌉 𒍑𒋾𒋙  
+iv 81 me-ri-si-in-ni DUMU UŠ-ti-šú  
+iv 82' 𒀀𒈾 𒀏𒆠 𒅖𒁓𒄠𒈠  
+iv 82 a-na NINA.KI iš-pur-am-ma  
+iv 83' 𒌑𒈾𒀾𒅆𒋡 𒄊𒅀𒅀  
+iv 83 ú-na-áš-ši-qa GÌR.II-ia  
+iv 84' 𒊑𒂊𒈬 𒅈𒅆𒋙 𒇽𒀀 𒆥𒅀 𒃻 𒂄𒈨 𒌑𒈠𒀪𒅕 𒂔𒍑𒋙  
+
+iv 84 re-e-mu ar-ši-šú LÚ.A KIN-ia šá šul-me ú-ma-ʾe-er EDIN-uš-šú  
+
+
+
+
+
+
+
 
 
 
@@ -930,158 +1923,157 @@ iv 80' 𒊑𒂊𒈬 𒅈𒅆𒋙 𒇽𒀀 𒆥𒅀 𒃻 𒂄𒈨 𒌑𒈠𒀪�
 
 
 v 1 𒌉𒊩 𒍢𒀉 𒊮𒁉𒋙 𒌑𒊺𒁉𒆷 𒀀𒈾 𒂊𒄫 𒊩𒅆𒁾𒌋𒋾  
-v 1 𒈠𒁕𒀜𒋫𒋙 𒈤𒊑𒌓 𒊭 𒀸 𒋻𒍢 𒈗𒎌 𒀜𒎌𒅀  
-v 1 𒌑𒉺𒅁𒁲𒇻 𒅖𒋗𒌋𒉌 𒀀𒁲 𒈤𒊑𒅀  
-v 1 𒌍 𒀲𒆳𒊏𒎌 𒌋𒅗 𒈠𒁕𒀜𒋾𒋙  
+v 2 𒈠𒁕𒀜𒋫𒋙 𒈤𒊑𒌓 𒊭 𒀸 𒋻𒍢 𒈗𒎌 𒀜𒎌𒅀  
+v 3 𒌑𒉺𒅁𒁲𒇻 𒅖𒋗𒌋𒉌 𒀀𒁲 𒈤𒊑𒅀  
+v 4 𒌍 𒀲𒆳𒊏𒎌 𒌋𒅗 𒈠𒁕𒀜𒋾𒋙  
 v 5 𒈤𒊑𒋾 𒌑𒋥𒁲𒈠 𒂊𒈨𒄑𒋢  
-v 1 𒀸 𒌓𒈨𒋙 𒁹𒁉𒊑𒄑𒄩𒀜𒊑 𒇽𒂗𒌷 𒊭 𒆳𒀀𒀀  
-v 1 𒁹𒊬𒀀𒋾 𒁹𒉺𒊑𒄭 𒈫 𒌉𒎌 𒁹𒂵𒀀𒄀 𒇽𒂗𒌷 𒆳𒊓𒄭  
-v 1 𒊭 𒄑𒇻𒌋 𒄑𒋙𒂈 𒁁𒇻𒋾𒅀  
+v 6 𒀸 𒌓𒈨𒋙 𒁹𒁉𒊑𒄑𒄩𒀜𒊑 𒇽𒂗𒌷 𒊭 𒆳𒀀𒀀  
+v 7 𒁹𒊬𒀀𒋾 𒁹𒉺𒊑𒄭 𒈫 𒌉𒎌 𒁹𒂵𒀀𒄀 𒇽𒂗𒌷 𒆳𒊓𒄭  
+v 8 𒊭 𒄑𒇻𒌋 𒄑𒋙𒂈 𒁁𒇻𒋾𒅀  
 v 9 𒐕𒌋𒐊 𒌷𒎌𒋙𒉡 𒆗𒉡𒋾 𒀝𒋗𒌓  
 v 10 𒀾𒇻𒆷 𒊩𒆳𒄢  
-v 10 𒃻𒀀𒋙𒉡 𒁄𒂅𒊻𒋢𒉡 𒀸 𒋗𒅀 𒊍𒁁  
-v 10 𒌑𒁉𒆷 𒀀𒈾 𒀏𒆠 𒌷 𒁁𒇻𒋾𒅀  
-v 10 𒁹𒀭𒁕𒊑𒀀 𒇽𒌉𒋫𒀭 𒆳𒌨𒅈𒁲  
-v 10 𒊭 𒀀𒈾 𒅗𒃻𒀜 𒆳𒌒𒁍𒌝𒈨  
+v 11 𒃻𒀀𒋙𒉡 𒁄𒂅𒊻𒋢𒉡 𒀸 𒋗𒅀 𒊍𒁁  
+v 12 𒌑𒁉𒆷 𒀀𒈾 𒀏𒆠 𒌷 𒁁𒇻𒋾𒅀  
+v 13 𒁹𒀭𒁕𒊑𒀀 𒇽𒌉𒋫𒀭 𒆳𒌨𒅈𒁲  
+v 14 𒊭 𒀀𒈾 𒅗𒃻𒀜 𒆳𒌒𒁍𒌝𒈨  
 v 15 𒅇 𒌷𒆰𒇷𒅎𒈨𒊑  
-v 10 𒅕𒁕𒀀 𒅋𒇷𒅗 𒆠𒆗 𒈬𒅆𒋾  
-v 10 𒌦𒎌 𒀀𒅆𒁍𒋾 𒌷𒆰𒇷𒅎𒈨𒊑  
-v 10 𒀴𒎌 𒁕𒆸 𒉺𒉌𒅀  
-v 10 𒀸 𒆳 𒈬𒅆 𒁲𒅅𒋫𒋙  
+v 16 𒅕𒁕𒀀 𒅋𒇷𒅗 𒆠𒆗 𒈬𒅆𒋾  
+v 17 𒌦𒎌 𒀀𒅆𒁍𒋾 𒌷𒆰𒇷𒅎𒈨𒊑  
+v 18 𒀴𒎌 𒁕𒆸 𒉺𒉌𒅀  
+v 19 𒀸 𒆳 𒈬𒅆 𒁲𒅅𒋫𒋙  
 v 20 𒈠𒀪𒊍𒋢 𒄿𒁺𒆪  
-v 20 𒆷 𒂊𒍣𒁍 𒀀𒀀𒌝𒈠  
-v 20 𒊕𒁺 𒁹𒀭𒁕𒊑𒀀 𒅅𒆠𒋢𒉏𒈠  
-v 20 𒀀𒈾 𒀏𒆠 𒀸 𒈤𒊑𒅀 𒌑𒉈𒌋𒉌  
-v 20 𒀸 𒐋𒅆 𒄫𒊑𒅀 𒌋𒅗 𒁹𒌨𒋫𒆠 𒌋𒌋 𒆳𒉏𒈠𒆠 𒇻𒌋 𒀠𒌨  
+v 21 𒆷 𒂊𒍣𒁍 𒀀𒀀𒌝𒈠  
+v 22 𒊕𒁺 𒁹𒀭𒁕𒊑𒀀 𒅅𒆠𒋢𒉏𒈠  
+v 23 𒀀𒈾 𒀏𒆠 𒀸 𒈤𒊑𒅀 𒌑𒉈𒌋𒉌  
+v 24 𒀸 𒐋𒅆 𒄫𒊑𒅀 𒌋𒅗 𒁹𒌨𒋫𒆠 𒌋𒌋 𒆳𒉏𒈠𒆠 𒇻𒌋 𒀠𒌨  
 v 25 𒊭 𒁵 𒀜 𒆕𒅀 𒆷 𒄩𒊍𒋢 𒆷 𒄑𒍮𒊒 𒅁𒊒𒋾  
-v 20 𒌌𒌅 𒀸 𒆳𒉏𒈠𒆠 𒋢𒌦𒄣 𒅖𒆪𒉡  
-v 20 𒅁𒁀𒋙𒌑 𒉌𒅁𒊑𒌅  
-v 20 𒀭𒊺𒉀 𒁀𒆳 𒍣𒁴 𒌦𒎌  
-v 20 𒌑𒊺𒉈𒋗𒈠 𒊍𒁁 𒋗𒅀𒋢  
+v 26 𒌌𒌅 𒀸 𒆳𒉏𒈠𒆠 𒋢𒌦𒄣 𒅖𒆪𒉡  
+v 27 𒅁𒁀𒋙𒌑 𒉌𒅁𒊑𒌅  
+v 28 𒀭𒊺𒉀 𒁀𒆳 𒍣𒁴 𒌦𒎌  
+v 29 𒌑𒊺𒉈𒋗𒈠 𒊍𒁁 𒋗𒅀𒋢  
 v 30 𒌦𒎌𒋙 𒊭 𒆷𒉺𒀭 𒋢𒌦𒆠  
-v 30 𒅔𒀮𒌅𒉏𒈠 𒌑𒅆𒁍 𒆠𒆗 𒆳 𒀸𒋩𒆠  
-v 30 𒀀𒁲 𒍪𒌦𒉡 𒀸 𒆳𒋙 𒄑𒉡𒉡  
-v 30 𒅁𒁀𒋗𒌑 𒂊𒁍𒊒  
-v 30 𒌦𒎌 𒃻𒀀𒌅𒉡 𒊭 𒀸 𒆳𒅀 𒅁𒇻𒂅 𒌑𒊺𒉈𒋙𒈠  
+v 31 𒅔𒀮𒌅𒉏𒈠 𒌑𒅆𒁍 𒆠𒆗 𒆳 𒀸𒋩𒆠  
+v 32 𒀀𒁲 𒍪𒌦𒉡 𒀸 𒆳𒋙 𒄑𒉡𒉡  
+v 33 𒅁𒁀𒋗𒌑 𒂊𒁍𒊒  
+v 34 𒌦𒎌 𒃻𒀀𒌅𒉡 𒊭 𒀸 𒆳𒅀 𒅁𒇻𒂅 𒌑𒊺𒉈𒋙𒈠  
 v 35 𒇽𒂊𒆷𒈬𒌑 𒃻 𒋾𒁍𒊻𒋢  
-v 30 𒀉𒋾 𒊮𒁉𒅀 𒆷 𒁕𒀊𒁀𒆪  
-v 30 𒆷 𒄩𒊍𒊓𒆪 𒍢𒀖𒋢  
-v 30 𒁹𒂗𒁀𒃻 𒆳𒃵𒁍𒆷𒀀𒀀  
-v 30 𒁹𒀭𒀝𒈬𒄰𒌍 𒇽𒄘𒂗𒈾  
+v 36 𒀉𒋾 𒊮𒁉𒅀 𒆷 𒁕𒀊𒁀𒆪  
+v 37 𒆷 𒄩𒊍𒊓𒆪 𒍢𒀖𒋢  
+v 38 𒁹𒂗𒁀𒃻 𒆳𒃵𒁍𒆷𒀀𒀀  
+v 39 𒁹𒀭𒀝𒈬𒄰𒌍 𒇽𒄘𒂗𒈾  
 v 40 𒀴𒎌 𒁕𒆸 𒉺𒉌𒅀  
-v 40 𒁹𒀭𒀫𒌓𒈬𒆕 𒇽𒋗𒌓 𒊕 𒃻 𒁹𒌨𒋫𒆠  
-v 40 𒊭 𒀉𒋾𒋙𒉡 𒅖𒆪𒉡 𒉿𒄿𒋙  
-v 40 𒀀𒈾 𒁁𒄷𒍢 𒆳 𒅴𒂠 𒌋 𒌵𒆠  
-v 40 𒀸 𒉿𒅕𒍝𒀀𒋾 𒀉𒆪𒌋𒉌  
+v 41 𒁹𒀭𒀫𒌓𒈬𒆕 𒇽𒋗𒌓 𒊕 𒃻 𒁹𒌨𒋫𒆠  
+v 42 𒊭 𒀉𒋾𒋙𒉡 𒅖𒆪𒉡 𒉿𒄿𒋙  
+v 43 𒀀𒈾 𒁁𒄷𒍢 𒆳 𒅴𒂠 𒌋 𒌵𒆠  
+v 44 𒀸 𒉿𒅕𒍝𒀀𒋾 𒀉𒆪𒌋𒉌  
 v 45 𒁹𒌨𒋫𒆪 𒈗 𒆳𒉏𒈠𒆠  
-v 40 𒁹𒌨𒋫𒆪 𒃻 𒆷 𒀝𒊒𒋙  
-v 40 𒋡𒁄𒋙 𒀉𒅗𒀀  
-v 40 𒀀𒈾 𒆳𒃸𒀭𒂄𒐊𒐋 𒌨𒊑𒄩 𒋫𒄩𒍪  
-v 40 𒀾𒋙 𒋾𒁍𒌓 𒇽𒂊𒆷𒈨𒂊  
+v 46 𒁹𒌨𒋫𒆪 𒃻 𒆷 𒀝𒊒𒋙  
+v 47 𒋡𒁄𒋙 𒀉𒅗𒀀  
+v 48 𒀀𒈾 𒆳𒃸𒀭𒂄𒐊𒐋 𒌨𒊑𒄩 𒋫𒄩𒍪  
+v 49 𒀾𒋙 𒋾𒁍𒌓 𒇽𒂊𒆷𒈨𒂊  
 v 50 𒇽𒀀 𒆥 𒀀𒈾 𒀏𒆠 𒅋𒌨𒄠𒈠  
-v 50 𒅅𒁀𒀀 𒅀𒀀𒋾  
-v 50 𒀀𒈠𒋾 𒃻𒀀𒋾𒈾  
-v 50 𒊭 𒋾𒁍𒌓 𒁹𒌨𒋫𒆠  
-v 50 𒌌 𒀾𒁺𒌓 𒀸 𒊮𒁉𒅀  
+v 51 𒅅𒁀𒀀 𒅀𒀀𒋾  
+v 52 𒀀𒈠𒋾 𒃻𒀀𒋾𒈾  
+v 53 𒊭 𒋾𒁍𒌓 𒁹𒌨𒋫𒆠  
+v 54 𒌌 𒀾𒁺𒌓 𒀸 𒊮𒁉𒅀  
 v 55 𒋗𒌓 𒇽𒂔𒎌𒋙 𒃻 𒋢𒈝𒈨𒂊  
-v 50 𒅖𒋫𒀮𒉺𒊏 𒀸 𒈤𒊑𒅀  
-v 50 𒀀𒈾 𒀀𒈥 𒈗 𒆳𒉏𒈠𒆠  
-v 50 𒇽𒀀 𒆥𒅀 𒌑𒈠𒀪𒅕 𒄩𒀭𒁹  
-v 50 𒅋𒌨 𒄿𒌅𒉘𒈠  
+v 56 𒅖𒋫𒀮𒉺𒊏 𒀸 𒈤𒊑𒅀  
+v 57 𒀀𒈾 𒀀𒈥 𒈗 𒆳𒉏𒈠𒆠  
+v 58 𒇽𒀀 𒆥𒅀 𒌑𒈠𒀪𒅕 𒄩𒀭𒁹  
+v 59 𒅋𒌨 𒄿𒌅𒉘𒈠  
 v 60 𒀀𒈠𒀀𒋾 𒅗𒀀𒀀𒈠𒈾𒀀𒋾  
-v 60 𒌑𒃻𒀭𒈾𒀀 𒅀𒀀𒋾  
-v 60 𒌝𒈠 𒇽𒂊𒆷𒈬𒌑  
-v 60 𒁶 𒋾𒁍𒌓 𒉅𒄭𒀀  
-v 60 𒅗𒁴 𒆳 𒌵𒆠 𒅗𒇷𒃻  
+v 61 𒌑𒃻𒀭𒈾𒀀 𒅀𒀀𒋾  
+v 62 𒌝𒈠 𒇽𒂊𒆷𒈬𒌑  
+v 63 𒁶 𒋾𒁍𒌓 𒉅𒄭𒀀  
+v 64 𒅗𒁴 𒆳 𒌵𒆠 𒅗𒇷𒃻  
 v 65 𒍢𒅕 𒆍𒀭𒊏𒆠 𒍑𒌋𒌋𒉡 𒃻𒆥𒈠 𒈾𒁲 𒈠𒁖𒌓  
-v 60 𒀀𒈾 𒈾𒊏𒊒𒋾 𒀭𒂗 𒌋 𒀭𒀝 𒂗𒎌𒅀  
-v 60 𒊭 𒀊𒊑𒆷𒄷 𒀭𒊻𒋢𒌦  
-v 60 𒂟𒎌 𒀞𒅀 𒀜𒆠𒂊𒈠 𒊍𒁀𒋫 𒄯𒊏𒉡  
-v 60 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
+v 66 𒀀𒈾 𒈾𒊏𒊒𒋾 𒀭𒂗 𒌋 𒀭𒀝 𒂗𒎌𒅀  
+v 67 𒊭 𒀊𒊑𒆷𒄷 𒀭𒊻𒋢𒌦  
+v 68 𒂟𒎌 𒀞𒅀 𒀜𒆠𒂊𒈠 𒊍𒁀𒋫 𒄯𒊏𒉡  
+v 69 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
 v 70 𒉺𒌅 𒄑𒄽𒋗𒈠 𒄿𒌉 𒀀𒈾 𒆳𒋙  
-v 70 𒂕𒋙 𒊍𒁁 𒀀𒁉𒅅𒋫𒋙 𒀾𒆲  
-v 70 𒀜𒊒𒊻𒋢 𒀀𒁲 𒈪𒈲 𒆳𒋙  
-v 70 𒁹𒌨𒋫𒆪 𒈗 𒆳𒉏𒈠𒆠  
-v 70 𒊭 𒆷 𒄑𒍮𒊒 𒅁𒊒𒋾  
+v 71 𒂕𒋙 𒊍𒁁 𒀀𒁉𒅅𒋫𒋙 𒀾𒆲  
+v 72 𒀜𒊒𒊻𒋢 𒀀𒁲 𒈪𒈲 𒆳𒋙  
+v 73 𒁹𒌨𒋫𒆪 𒈗 𒆳𒉏𒈠𒆠  
+v 74 𒊭 𒆷 𒄑𒍮𒊒 𒅁𒊒𒋾  
 v 75 𒀸 𒌓𒈨 𒆷 𒋆𒋾𒋙 𒈬𒌑𒌓 𒌑𒃻𒊒𒌋  
-v 70 𒀸 𒋫𒉌𒄭 𒅅𒌅𒌑 𒄿𒍪𒁍  
-v 70 𒀸 𒆕𒃼 𒁀𒆷𒁲 𒄊𒅀𒋙 𒌌 𒅖𒆲  
-v 70 𒀸 𒈬𒀭𒈾𒋙 𒈾𒄫𒋫𒋙 𒅅𒋾 𒅋𒌨 𒉆𒈬𒅆𒋙  
-v 70 𒁹𒂗𒁀𒃻 𒆳𒃵𒁍𒆷𒀀𒀀  
+v 76 𒀸 𒋫𒉌𒄭 𒅅𒌅𒌑 𒄿𒍪𒁍  
+v 77 𒀸 𒆕𒃼 𒁀𒆷𒁲 𒄊𒅀𒋙 𒌌 𒅖𒆲  
+v 78 𒀸 𒈬𒀭𒈾𒋙 𒈾𒄫𒋫𒋙 𒅅𒋾 𒅋𒌨 𒉆𒈬𒅆𒋙  
+v 79 𒁹𒂗𒁀𒃻 𒆳𒃵𒁍𒆷𒀀𒀀  
 v 80 𒊭 𒄑𒇻𒌋 𒄑𒋙𒂈 𒂗𒋾𒅀  
-v 80 𒀸 𒉌𒋝 𒉾 𒅖𒋫𒃶 𒈾𒄫𒌓  
-v 80 𒁹𒀭𒀝𒈬𒄰𒌍 𒇽𒄘𒂗𒈾 𒆷 𒈾𒈲 𒀀𒁲𒂊  
-v 80 𒅖𒅆 𒀀𒂵𒉡𒌀𒆷𒀀 𒀀𒎌 𒈠𒇻𒌋𒋾  
-v 80 𒁹𒀭𒀫𒌓𒈬𒆕 𒇽𒋗𒌓 𒊕𒋙 𒈬𒆳𒁉𒅁𒋙  
+v 81 𒀸 𒉌𒋝 𒉾 𒅖𒋫𒃶 𒈾𒄫𒌓  
+v 82 𒁹𒀭𒀝𒈬𒄰𒌍 𒇽𒄘𒂗𒈾 𒆷 𒈾𒈲 𒀀𒁲𒂊  
+v 83 𒅖𒅆 𒀀𒂵𒉡𒌀𒆷𒀀 𒀀𒎌 𒈠𒇻𒌋𒋾  
+v 84 𒁹𒀭𒀫𒌓𒈬𒆕 𒇽𒋗𒌓 𒊕𒋙 𒈬𒆳𒁉𒅁𒋙  
 v 85 𒊭 𒅆𒌨𒌓 𒌑𒊕𒉿𒁺 𒀀𒈾 𒁹𒌨𒋫𒆠  
-v 80 𒂊𒈨𒄑𒋢 𒀭𒀫𒌓 𒈗 𒀭𒎌  
-v 80 𒊺𒅕𒋫𒋙 𒃲𒌓  
-v 80 𒀸 𒁹𒀉 𒈬𒀭𒈾 𒈪𒄴𒈩 𒀀𒄩𒎌  
-v 80 𒅖𒆪𒉡 𒈾𒄫𒌓  
+v 86 𒂊𒈨𒄑𒋢 𒀭𒀫𒌓 𒈗 𒀭𒎌  
+v 87 𒊺𒅕𒋫𒋙 𒃲𒌓  
+v 88 𒀸 𒁹𒀉 𒈬𒀭𒈾 𒈪𒄴𒈩 𒀀𒄩𒎌  
+v 89 𒅖𒆪𒉡 𒈾𒄫𒌓  
 v 90 𒊮𒁉 𒀭𒊹 𒀝𒄖 𒌌 𒄿𒉡𒄴𒋙𒉡𒋾  
-v 90 𒌌 𒅁𒋚𒋙𒉡𒋾 𒅗𒁁𒋾 𒀭15 𒃻 𒌑𒋳𒆸𒀭𒉌  
-v 90 𒁄𒂊 𒈗𒋾𒋙 𒅖𒆠𒁍  
-v 90 𒁁𒂁 𒆳𒉏𒈠𒆠 𒌑𒊩𒄣𒌋 𒃻𒉆𒈠  
-v 90 𒂕 𒁹𒋼𒌝𒌋𒌋 𒌓𒋻 𒋼𒇲  
+v 91 𒌌 𒅁𒋚𒋙𒉡𒋾 𒅗𒁁𒋾 𒀭15 𒃻 𒌑𒋳𒆸𒀭𒉌  
+v 92 𒁄𒂊 𒈗𒋾𒋙 𒅖𒆠𒁍  
+v 93 𒁁𒂁 𒆳𒉏𒈠𒆠 𒌑𒊩𒄣𒌋 𒃻𒉆𒈠  
+v 94 𒂕 𒁹𒋼𒌝𒌋𒌋 𒌓𒋻 𒋼𒇲  
 v 95 𒌑𒈨 𒀸 𒄑𒄖𒍝 𒁹𒌨𒋫𒆠  
-v 90 𒀀𒈾 𒁕𒀀𒆠 𒌉𒎌 𒁹𒌨𒋫𒆠  
-v 90 𒅇 𒌉𒎌 𒁹𒌝𒌋𒌋𒀠𒁕𒀀𒊺  
-v 90 𒋀 𒁹𒌨𒋫𒆠 𒅖𒋼𒉌𒀪𒀀 𒊩𒅆𒌨  
-v 90 𒁹𒌝𒌋𒌋𒄿𒁉 𒁹𒌝𒌋𒌋𒀊𒉺 𒁹𒌓𒈠𒊑𒌓  
+v 96 𒀀𒈾 𒁕𒀀𒆠 𒌉𒎌 𒁹𒌨𒋫𒆠  
+v 97 𒅇 𒌉𒎌 𒁹𒌝𒌋𒌋𒀠𒁕𒀀𒊺  
+v 98 𒋀 𒁹𒌨𒋫𒆠 𒅖𒋼𒉌𒀪𒀀 𒊩𒅆𒌨  
+v 99 𒁹𒌝𒌋𒌋𒄿𒁉 𒁹𒌝𒌋𒌋𒀊𒉺 𒁹𒌓𒈠𒊑𒌓  
 v 100 𒌉𒎌 𒁹𒌨𒋫𒆠 𒈗 𒆳𒉏𒈠𒆠  
-v 100 𒁹𒆪𒂉𒊒 𒁹𒉺𒊒𒌑  
-v 100 𒌉𒎌 𒁹𒌝𒌋𒌋𒀠𒁕𒀀𒊺  
-v 100 𒈗 𒀀𒌨 𒉺𒉌 𒁹𒌨𒋫𒆠  
-v 100 𒅇 𒐕 𒆰 𒈗 𒀸 𒆷 𒈨𒉌 𒇽𒂟𒎌 𒄑𒉼  
+v 101 𒁹𒆪𒂉𒊒 𒁹𒉺𒊒𒌑  
+v 102 𒌉𒎌 𒁹𒌝𒌋𒌋𒀠𒁕𒀀𒊺  
+v 103 𒈗 𒀀𒌨 𒉺𒉌 𒁹𒌨𒋫𒆠  
+v 104 𒅇 𒐕 𒆰 𒈗 𒀸 𒆷 𒈨𒉌 𒇽𒂟𒎌 𒄑𒉼  
 v 105 𒌉𒎌 𒁀𒉌𒂊 𒊭 𒆳𒉏𒈠𒆠  
-v 100 𒃻 𒆷𒉺𒀭 𒁕𒀀𒆠 𒁹𒋼𒌝𒌋𒌋  
-v 100 𒅔𒀮𒌅𒉏𒈠 𒄑𒁀𒌅 𒄊𒅀 𒈗𒋾𒅀  
-v 100 𒌦𒎌 𒃻𒀀𒌅𒉡 𒃻 𒅔𒀮𒌅𒉏𒈠  
-
-xx  
+v 106 𒃻 𒆷𒉺𒀭 𒁕𒀀𒆠 𒁹𒋼𒌝𒌋𒌋  
+v 107 𒅔𒀮𒌅𒉏𒈠 𒄑𒁀𒌅 𒄊𒅀 𒈗𒋾𒅀  
+v 108 𒌦𒎌 𒃻𒀀𒌅𒉡 𒃻 𒅔𒀮𒌅𒉏𒈠  
+9xx  
 
 vi 1 𒀭𒊻𒊓 𒌑𒉺𒅁𒉺𒀀 𒅋𒆷𒅗 𒁲𒈠𒀀𒀀
-vi 1 𒌝𒈠 𒀭𒁁𒀖 𒌷𒇹𒀭𒆠  
-vi 1 𒀀𒈾𒆪 𒁹𒀭𒊹𒆕𒀀 𒌋𒌋 𒆳 𒀸𒋩𒆠  
-vi 1 𒁉𒉡𒌓 𒋗𒅀𒆠 𒃻 𒄴𒋗𒄷𒋙 𒀭𒊹 𒀜 𒁀𒉡𒆠  
-vi 1 𒀀𒈾 𒌓𒁺𒍑 𒌍𒊑𒂊𒋾  
-vi 1 𒂄𒈝 𒌓𒍢𒋙𒌦 𒈾𒇡 𒉿𒊕𒋼𒋙𒌦  
-vi 1 𒋗𒂅𒌒 𒊮𒁉𒋙𒌦 𒅎𒁍𒌋 𒍣𒄫𒋙  
-vi 1 𒀀𒈾𒆪 𒀾𒊑𒂊𒆠 𒀾𒋼𒉌𒀪𒄿  
-vi 1 𒀠𒇷𒅗 𒀀𒈾 𒉺𒌓 𒀭𒋾𒆠  
+vi 2 𒌝𒈠 𒀭𒁁𒀖 𒌷𒇹𒀭𒆠  
+vi 3 𒀀𒈾𒆪 𒁹𒀭𒊹𒆕𒀀 𒌋𒌋 𒆳 𒀸𒋩𒆠  
+vi 4 𒁉𒉡𒌓 𒋗𒅀𒆠 𒃻 𒄴𒋗𒄷𒋙 𒀭𒊹 𒀜 𒁀𒉡𒆠  
+vi 5 𒀀𒈾 𒌓𒁺𒍑 𒌍𒊑𒂊𒋾  
+vi 6 𒂄𒈝 𒌓𒍢𒋙𒌦 𒈾𒇡 𒉿𒊕𒋼𒋙𒌦  
+vi 7 𒋗𒂅𒌒 𒊮𒁉𒋙𒌦 𒅎𒁍𒌋 𒍣𒄫𒋙  
+vi 8 𒀀𒈾𒆪 𒀾𒊑𒂊𒆠 𒀾𒋼𒉌𒀪𒄿  
+vi 9 𒀠𒇷𒅗 𒀀𒈾 𒉺𒌓 𒀭𒋾𒆠  
 
 vi 10 𒅇 𒂄𒈝 𒌓𒍢𒆠
-vi 10 𒅇 𒋗𒌑 𒁹𒋼𒌝𒌋𒌋  
-vi 10 𒈗 𒆳𒉏𒈠𒆠 𒆷 𒈬𒃻𒄫 𒀭𒎌  
-vi 10 𒆪𒊻𒀫 𒅗𒇷 𒀀𒈾 𒁁𒄷𒍢 𒂟𒄭𒀀𒅀  
-vi 10 𒌝𒈠 𒀜𒋾 𒀭𒁁𒀖 𒁁𒇷𒂊𒋾  
-vi 10 𒄿𒆳 𒉠 𒁁𒀖 𒀞 𒈠𒇷𒆑 𒀭𒎌 𒀜𒎌𒃻  
-vi 10 𒊭 𒀸 𒈠𒄯 𒀭𒊹 𒀜 𒁀𒉌𒆠  
-vi 10 𒊩𒅆𒂟 𒋳𒁉𒄿 𒀸 𒉌𒅖 𒅆𒅀𒋙 𒆬𒎌  
-vi 10 𒄴𒋗𒄩𒀭𒉌 𒀀𒈾 𒈗𒌋𒋾  
-vi 10 𒀾𒋙 𒁹𒋼𒌝𒌋𒌋 𒈗 𒆳𒉏𒈠𒆠  
+vi 11 𒅇 𒋗𒌑 𒁹𒋼𒌝𒌋𒌋  
+vi 12 𒈗 𒆳𒉏𒈠𒆠 𒆷 𒈬𒃻𒄫 𒀭𒎌  
+vi 13 𒆪𒊻𒀫 𒅗𒇷 𒀀𒈾 𒁁𒄷𒍢 𒂟𒄭𒀀𒅀  
+vi 14 𒌝𒈠 𒀜𒋾 𒀭𒁁𒀖 𒁁𒇷𒂊𒋾  
+vi 15 𒄿𒆳 𒉠 𒁁𒀖 𒀞 𒈠𒇷𒆑 𒀭𒎌 𒀜𒎌𒃻  
+vi 16 𒊭 𒀸 𒈠𒄯 𒀭𒊹 𒀜 𒁀𒉌𒆠  
+vi 17 𒊩𒅆𒂟 𒋳𒁉𒄿 𒀸 𒉌𒅖 𒅆𒅀𒋙 𒆬𒎌  
+vi 18 𒄴𒋗𒄩𒀭𒉌 𒀀𒈾 𒈗𒌋𒋾  
+vi 19 𒀾𒋙 𒁹𒋼𒌝𒌋𒌋 𒈗 𒆳𒉏𒈠𒆠  
 
 vi 20 𒊭 𒀀𒈾 𒀭𒊹 𒈗 𒀭𒎌 𒀜 𒁀𒉌𒆠 𒄴𒌅𒌋 𒉈𒌓
-vi 20 𒀉𒅗𒀀 𒂟𒄭𒀀𒋙 𒅅𒍮𒊏 𒋫𒄩𒍪  
-vi 20 𒌑𒃻𒀪𒀀𒆷 𒄑𒆪𒎌𒋙 𒀀𒈾 𒀀𒋃 𒆳 𒀸𒋩𒆠  
-vi 20 𒌝𒈠 𒀜𒋾 𒋡𒈩𒋾 𒀭𒎌  
-vi 20 𒁶 𒄘𒌦 𒀸 𒉠 𒌓𒄩𒊑 𒁍𒌓𒁲𒊑𒋙𒈠  
-vi 20 𒁲𒆧𒋙 𒈨𒄷𒌋 𒅎 𒅆𒉡  
-vi 20 𒅔𒄭𒅀 𒋗𒉡𒄷𒌋𒋾 𒀭𒅖𒋻 𒅖𒈨𒂊𒈠  
-vi 20 𒆷 𒋫𒁄𒈛 𒅅𒁀𒀀 𒌑𒊬𒄭𒍝𒀭𒉌 𒊮𒁍  
-vi 20 𒀀𒈾 𒉌𒅖 𒋗𒅀𒅗 𒊭 𒌨𒃻𒀀  
-vi 20 𒅆𒅀𒅗 𒅎𒆷𒀀 𒁲𒅎𒌅 𒅈𒋫𒅆 𒊑𒂊𒈬  
+vi 21 𒀉𒅗𒀀 𒂟𒄭𒀀𒋙 𒅅𒍮𒊏 𒋫𒄩𒍪  
+vi 22 𒌑𒃻𒀪𒀀𒆷 𒄑𒆪𒎌𒋙 𒀀𒈾 𒀀𒋃 𒆳 𒀸𒋩𒆠  
+vi 23 𒌝𒈠 𒀜𒋾 𒋡𒈩𒋾 𒀭𒎌  
+vi 24 𒁶 𒄘𒌦 𒀸 𒉠 𒌓𒄩𒊑 𒁍𒌓𒁲𒊑𒋙𒈠  
+vi 25 𒁲𒆧𒋙 𒈨𒄷𒌋 𒅎 𒅆𒉡  
+vi 26 𒅔𒄭𒅀 𒋗𒉡𒄷𒌋𒋾 𒀭𒅖𒋻 𒅖𒈨𒂊𒈠  
+vi 27 𒆷 𒋫𒁄𒈛 𒅅𒁀𒀀 𒌑𒊬𒄭𒍝𒀭𒉌 𒊮𒁍  
+vi 28 𒀀𒈾 𒉌𒅖 𒋗𒅀𒅗 𒊭 𒌨𒃻𒀀  
+vi 29 𒅆𒅀𒅗 𒅎𒆷𒀀 𒁲𒅎𒌅 𒅈𒋫𒅆 𒊑𒂊𒈬  
 
 vi 30 𒀸 𒆳 𒈬𒅆 𒋗𒀀𒌅 𒃻 𒄠𒄷𒊒𒅆
-vi 30 𒁹𒂗 𒉺𒅁𒊒𒌋 𒌑𒌅𒌌𒈠 𒄿𒈾𒀜𒊑 𒈧𒈪  
-vi 30 𒄿𒄀𒅋𒋾𒈠 𒋰𒈩 𒈬𒅆  
-vi 30 𒊭 𒀭15 𒌑𒉺𒅁𒊒𒌋𒋙 𒌑𒃻𒀭𒈾𒀀 𒅀𒀀𒋾  
-vi 30 𒌝𒈠 𒀭15 𒀀𒅆𒁁 𒌷𒇹𒀭 𒂊𒊒𒁀𒄠𒈠  
-vi 30 
-vi 30 vi 35  
-vi 30 15 𒌋 𒈫𒌍 𒌋𒌆𒆷𒀀𒋫 𒅖𒉺𒀀𒋾  
-vi 30 𒌓𒄩𒀜 𒄑𒉼 𒀸 𒄿𒁲𒃻  
-vi 30 𒊩𒉻 𒉆𒍝𒊒 𒍠𒌓 𒃻 𒂊𒄫 𒀞  
+vi 31 𒁹𒂗 𒉺𒅁𒊒𒌋 𒌑𒌅𒌌𒈠 𒄿𒈾𒀜𒊑 𒈧𒈪  
+vi 32 𒄿𒄀𒅋𒋾𒈠 𒋰𒈩 𒈬𒅆  
+vi 33 𒊭 𒀭15 𒌑𒉺𒅁𒊒𒌋𒋙 𒌑𒃻𒀭𒈾𒀀 𒅀𒀀𒋾  
+vi 34 𒌝𒈠 𒀭15 𒀀𒅆𒁁 𒌷𒇹𒀭 𒂊𒊒𒁀𒄠𒈠  
+vi 35 
+vi 36 vi 35  
+vi 37 15 𒌋 𒈫𒌍 𒌋𒌆𒆷𒀀𒋫 𒅖𒉺𒀀𒋾  
+vi 38 𒌓𒄩𒀜 𒄑𒉼 𒀸 𒄿𒁲𒃻  
+vi 39 𒊩𒉻 𒉆𒍝𒊒 𒍠𒌓 𒃻 𒂊𒄫 𒀞  
 
 
 
@@ -1089,170 +2081,176 @@ vi 30 𒊩𒉻 𒉆𒍝𒊒 𒍠𒌓 𒃻 𒂊𒄫 𒀞
 
 xx  
 vi 1' 𒎏𒄖𒌓 𒋗𒆲 𒉡𒀪𒀉 𒀭𒌋𒋾  
-vi 5' 𒀀𒁲 𒀠𒆷𒆪 𒈨𒊒 𒋙𒀀𒌓 𒅁𒉿𒋙  
-vi 5' 𒌑𒊕𒃻𒁺 𒍮𒌝𒈨𒋥 𒊮𒁉𒅗  
-vi 5' 𒉺𒉡𒅗 𒌌 𒌨𒊩 𒌌 𒄿𒉪𒊒𒁕 𒄊𒅀𒅗  
+vi 2' 𒀀𒁲 𒀠𒆷𒆪 𒈨𒊒 𒋙𒀀𒌓 𒅁𒉿𒋙  
+vi 3' 𒌑𒊕𒃻𒁺 𒍮𒌝𒈨𒋥 𒊮𒁉𒅗  
+vi 4' 𒉺𒉡𒅗 𒌌 𒌨𒊩 𒌌 𒄿𒉪𒊒𒁕 𒄊𒅀𒅗  
 vi 5' vi 5' 𒌌 𒋫𒌑𒆳 𒍪𒌓𒅗 𒉠 𒌓𒄩𒊑
-vi 5' 𒀸 𒆠𒆸𒈨𒃻 𒄭𒂵 𒈭𒍢𒅔𒅗𒈠  
-vi 5' 𒈭𒋾𒈾 𒄀𒂇 𒆷𒀀𒉌𒅗  
-vi 5' 𒉺𒉡𒍑𒃻 𒀭𒄑𒁇 𒅔𒈾𒉿𒄴  
-vi 5' 𒄑𒍣𒅖 𒉆𒊑𒊑𒅖 𒌓𒁺𒈠  
+vi 6' 𒀸 𒆠𒆸𒈨𒃻 𒄭𒂵 𒈭𒍢𒅔𒅗𒈠  
+vi 7' 𒈭𒋾𒈾 𒄀𒂇 𒆷𒀀𒉌𒅗  
+vi 8' 𒉺𒉡𒍑𒃻 𒀭𒄑𒁇 𒅔𒈾𒉿𒄴  
+vi 9' 𒄑𒍣𒅖 𒉆𒊑𒊑𒅖 𒌓𒁺𒈠  
 
 vi 10' 𒀀𒈾 𒅗𒃻𒀜 𒇽𒉽𒃻 𒁺𒅅
-vi 10' 𒂊𒇷 𒁹𒋼𒌝𒌋𒌋 𒈗 𒆳𒉏𒈠𒆠  
-vi 10' 𒊭 𒊌𒄖𒂵𒀜 𒉺𒉡𒍑𒃻 𒌨𒆲  
-vi 10' 𒀸 𒌗𒆥 𒅆𒌓 𒀭𒈹𒎌 𒄿𒌍𒉌 𒀭𒊹 𒍢𒄿𒊑  
-vi 10' 𒌗 𒀭𒌍 𒈾𒀭𒉪 𒀭𒂊 𒌋 𒆠𒁴  
-vi 10' 𒀜𒆸 𒀀𒈾 𒌍𒁇 𒀭𒋀𒆠𒊑 𒉆𒊑  
-vi 10' 𒅇 𒅆𒌓 𒀭15 𒃽𒅀 𒊭 𒆷 𒅔𒎏𒉡𒌋  
-vi 10' 𒀜𒆠 𒂟𒎌 𒀞𒅀 𒁵𒈭𒍢  
-vi 10' 𒊭 𒀸 𒆠𒂍 𒀭𒊹 𒀭𒌍 𒌋 𒀭15  
-vi 10' 𒀉𒋫𒈾𒀾𒊏𒁉𒂅 𒉠 𒌓𒄩𒊑  
+vi 11' 𒂊𒇷 𒁹𒋼𒌝𒌋𒌋 𒈗 𒆳𒉏𒈠𒆠  
+vi 12' 𒊭 𒊌𒄖𒂵𒀜 𒉺𒉡𒍑𒃻 𒌨𒆲  
+vi 13' 𒀸 𒌗𒆥 𒅆𒌓 𒀭𒈹𒎌 𒄿𒌍𒉌 𒀭𒊹 𒍢𒄿𒊑  
+vi 14' 𒌗 𒀭𒌍 𒈾𒀭𒉪 𒀭𒂊 𒌋 𒆠𒁴  
+vi 15' 𒀜𒆸 𒀀𒈾 𒌍𒁇 𒀭𒋀𒆠𒊑 𒉆𒊑  
+vi 16' 𒅇 𒅆𒌓 𒀭15 𒃽𒅀 𒊭 𒆷 𒅔𒎏𒉡𒌋  
+vi 17' 𒀜𒆠 𒂟𒎌 𒀞𒅀 𒁵𒈭𒍢  
+vi 18' 𒊭 𒀸 𒆠𒂍 𒀭𒊹 𒀭𒌍 𒌋 𒀭15  
+vi 19' 𒀉𒋫𒈾𒀾𒊏𒁉𒂅 𒉠 𒌓𒄩𒊑  
 
-vi 20'  
 vi 20' 𒂊𒇷 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
-vi 20' 𒌨𒄷 𒊍𒁁𒈠 𒍑𒋼𒊺𒊏 𒄯𒊏𒉡  
-vi 20' 𒂖𒆷𒈬𒌋𒀀 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
-vi 20' 𒀸 𒌷𒂍𒁹𒅎𒁉𒄿 𒈾𒁲 𒈠𒁖𒌅  
-vi 20' 𒂊𒆗 𒈗𒋾𒅀 𒃻 𒆠𒆗 𒂦𒀭𒆠  
-vi 20' 𒅖𒈨𒂊𒈠 𒄑𒁁𒋢 𒉺𒌅  
-vi 20' 𒁹𒋼𒌝𒌋𒌋 𒅁𒈛𒈠 𒀀𒈾 𒂕𒋙 𒄿𒌉  
-vi 20' 𒂊𒊒𒌒 𒆠𒆗 𒌷𒋗𒃻𒀭  
-vi 20' 𒆬𒌓 𒆬𒄀 𒀀𒈾 𒋗𒍪𒌒 𒍣𒁴𒋙  
-vi 20' 𒌑𒍝𒀪𒄑 𒀀𒈾 𒌦𒎌 𒆳𒋙  
+vi 21' 𒌨𒄷 𒊍𒁁𒈠 𒍑𒋼𒊺𒊏 𒄯𒊏𒉡  
+vi 22' 𒂖𒆷𒈬𒌋𒀀 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
+vi 23' 𒀸 𒌷𒂍𒁹𒅎𒁉𒄿 𒈾𒁲 𒈠𒁖𒌅  
+vi 24' 𒂊𒆗 𒈗𒋾𒅀 𒃻 𒆠𒆗 𒂦𒀭𒆠  
+vi 25' 𒅖𒈨𒂊𒈠 𒄑𒁁𒋢 𒉺𒌅  
+vi 26' 𒁹𒋼𒌝𒌋𒌋 𒅁𒈛𒈠 𒀀𒈾 𒂕𒋙 𒄿𒌉  
+vi 27' 𒂊𒊒𒌒 𒆠𒆗 𒌷𒋗𒃻𒀭  
+vi 28' 𒆬𒌓 𒆬𒄀 𒀀𒈾 𒋗𒍪𒌒 𒍣𒁴𒋙  
+vi 29' 𒌑𒍝𒀪𒄑 𒀀𒈾 𒌦𒎌 𒆳𒋙  
 
-vi 30'  
 vi 30' 𒊑𒍢𒂊𒋙 𒀀𒌨 𒄿𒁲𒄿𒋙 𒉺𒉡𒍑𒋙 𒌑𒋼𒉘𒈠  
-vi 30' 𒊌𒋰𒉿𒃻 𒀀𒈾 𒈤𒊑𒅀  
-vi 30' 𒀀𒇉𒌑𒆷𒀀𒀀 𒀀𒈾 𒆗𒉡𒋾𒋙 𒅖𒆲  
-vi 30' 𒄑𒁁 𒉺𒀭 𒈦𒆠𒂊  
-vi 30' 𒀸 𒆠𒂍 𒀭𒊹 𒀭𒀫𒌓 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀  
-vi 30' 
-vi 30' vi 35'  
-vi 30' 𒃻 𒌑𒋳𒆠𒇻𒅔𒉌  
-vi 30' 𒀸 𒅆𒁾𒎌 𒅆𒂟𒎌 𒈧𒈪 𒅗𒃻 𒅆𒌓 𒈤𒄭𒂊  
-vi 30' 𒆠𒆗 𒇯𒌷𒌅𒁀 𒅆𒅆𒋙𒉡 𒀾𒆲  
-vi 30' 𒀸 𒇿𒎌𒋙𒉡 𒀀𒇉𒌑𒆷𒀀𒀀 𒊍𒆠𒅕  
-vi 30' 𒊩𒈠𒀀𒋼𒋙𒉡 𒁶 𒄑𒉏 𒌋 𒄑𒌑𒄉  
+vi 31' 𒊌𒋰𒉿𒃻 𒀀𒈾 𒈤𒊑𒅀  
+vi 32' 𒀀𒇉𒌑𒆷𒀀𒀀 𒀀𒈾 𒆗𒉡𒋾𒋙 𒅖𒆲  
+vi 33' 𒄑𒁁 𒉺𒀭 𒈦𒆠𒂊  
+vi 34' 𒀸 𒆠𒂍 𒀭𒊹 𒀭𒀫𒌓 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀  
+vi 35' 𒃻 𒌑𒋳𒆠𒇻𒅔𒉌  
+vi 36' 𒀸 𒅆𒁾𒎌 𒅆𒂟𒎌 𒈧𒈪 𒅗𒃻 𒅆𒌓 𒈤𒄭𒂊  
+vi 37' 𒆠𒆗 𒇯𒌷𒌅𒁀 𒅆𒅆𒋙𒉡 𒀾𒆲  
+vi 38' 𒀸 𒇿𒎌𒋙𒉡 𒀀𒇉𒌑𒆷𒀀𒀀 𒊍𒆠𒅕  
+vi 39' 𒊩𒈠𒀀𒋼𒋙𒉡 𒁶 𒄑𒉏 𒌋 𒄑𒌑𒄉  
 
 vii 1 𒀸 𒄑𒄖𒍝𒋙 𒌑𒊺𒈨
-vii 1 𒁹𒌓𒈠𒊑𒌅 𒋀𒋙 𒊩𒃻𒀀𒀀  
-vii 1 𒀸 𒌷𒄭𒁕𒇻 𒀀𒈾 𒈗𒌑𒋾 𒀾𒆲  
-vii 1 𒄑𒇀𒎌 𒄑𒍮𒌝𒁉 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
-vii 1 𒍢𒁁𒋾 𒉌𒄿𒊑 𒄑𒌀𒇷 𒋛𒆳 𒀞  
-vii 1 𒊭 𒀸 𒌅𒆰𒋾 𒀭𒊹 𒀭15 𒀭𒎌 𒃲𒎌  
-vii 1 𒁉𒈩 𒌷𒋗𒃻𒀭 𒌋 𒀀𒇉𒌑𒆷𒀀𒀀 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
-vii 1 𒀸 𒆠𒂍 𒀭𒊹 𒌋 𒀭𒀫𒌓 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀  
-vii 1 𒌌𒌅 𒆠𒆗 𒆳𒉏𒈠𒆠 𒄩𒁹 𒌑𒍝𒄠𒈠  
+vii 2 𒁹𒌓𒈠𒊑𒌅 𒋀𒋙 𒊩𒃻𒀀𒀀  
+vii 3 𒀸 𒌷𒄭𒁕𒇻 𒀀𒈾 𒈗𒌑𒋾 𒀾𒆲  
+vii 4 𒄑𒇀𒎌 𒄑𒍮𒌝𒁉 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
+vii 5 𒍢𒁁𒋾 𒉌𒄿𒊑 𒄑𒌀𒇷 𒋛𒆳 𒀞  
+vii 6 𒊭 𒀸 𒌅𒆰𒋾 𒀭𒊹 𒀭15 𒀭𒎌 𒃲𒎌  
+vii 7 𒁉𒈩 𒌷𒋗𒃻𒀭 𒌋 𒀀𒇉𒌑𒆷𒀀𒀀 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
+vii 8 𒀸 𒆠𒂍 𒀭𒊹 𒌋 𒀭𒀫𒌓 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀  
+vii 9 𒌌𒌅 𒆠𒆗 𒆳𒉏𒈠𒆠 𒄩𒁹 𒌑𒍝𒄠𒈠  
 
 vii 10 𒀀𒈾 𒄀𒂇 𒂟𒄭𒀀𒅀 𒃻𒅆𒌅 𒊕𒈾𒀜
-vii 10 𒀸 𒐍𒂊 𒄫𒊑𒅀  
-vii 10 𒌋𒅗 𒁹𒁺𒈾𒉌 𒌉 𒁹𒂗𒁀𒃻  
-vii 10 𒀀𒈾 𒆳𒃵𒁍𒇷 𒇻𒌋 𒀠𒌨  
-vii 10 𒊭 𒀀𒈾 𒈗 𒆳𒉏𒈠𒆠 𒀉𒋳𒇻  
-vii 10 𒆷 𒅅𒉡𒋙 𒁹 𒄑𒋙𒂈𒅀  
-vii 10 𒋫𒄩𒍣 𒆗𒉡  
-vii 10 𒆳𒃵𒁍𒇻 𒀀𒈾 𒋛𒆟𒋾𒋙  
-vii 10 𒁶 𒅎𒁀𒊑 𒀝𒉐  
-vii 10 𒌷𒃻𒉿𒄿𒀭𒂗 𒌷 𒆗𒉡𒋾𒋙  
+vii 11 𒀸 𒐍𒂊 𒄫𒊑𒅀  
+vii 12 𒌋𒅗 𒁹𒁺𒈾𒉌 𒌉 𒁹𒂗𒁀𒃻  
+vii 13 𒀀𒈾 𒆳𒃵𒁍𒇷 𒇻𒌋 𒀠𒌨  
+vii 14 𒊭 𒀀𒈾 𒈗 𒆳𒉏𒈠𒆠 𒀉𒋳𒇻  
+vii 15 𒆷 𒅅𒉡𒋙 𒁹 𒄑𒋙𒂈𒅀  
+vii 16 𒋫𒄩𒍣 𒆗𒉡  
+vii 17 𒆳𒃵𒁍𒇻 𒀀𒈾 𒋛𒆟𒋾𒋙  
+vii 18 𒁶 𒅎𒁀𒊑 𒀝𒉐  
+vii 19 𒌷𒃻𒉿𒄿𒀭𒂗 𒌷 𒆗𒉡𒋾𒋙  
 
 
 vii 20 𒊭 𒆠𒆗 𒀀𒇉𒎌 𒈾𒁕𒀜 𒋗𒁁𒋢 𒀝𒋗𒌓  
-vii 20 𒁹𒁺𒈾𒉡 𒋀𒎌𒋙 𒌌𒌅 𒆠𒆗 𒌷 𒋙𒀀𒌓  
-vii 20 𒁄𒂅𒊻𒋢𒌦 𒌑𒊺𒍝𒀀  
-vii 20 𒁮𒋢 𒌉𒎌𒋙 𒌉𒊩𒎌𒋙 𒊩𒋝𒊑𒋾𒋙  
-vii 20 𒇽𒈜𒎌 𒊩𒈜𒎌 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
-vii 20 vii 25	  
-vii 20 
-vii 20 𒆬𒌓 𒆬𒄀 𒃻𒋗 𒈾𒆚𒋾 𒂍𒃲𒋙  
-vii 20 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
-vii 20 𒇽𒋗𒌓 𒊕𒎌 𒇽𒌋𒌋𒍝𒊍 𒉺𒉌𒋙 𒇽𒆤𒆠𒌅𒌑  
-vii 20 𒈬𒃻𒆠𒇷𒋙 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
-vii 20 𒄀𒂇 𒌝𒈠𒉌 𒈠𒆷 𒁀𒋙𒌋  
+vii 21 𒁹𒁺𒈾𒉡 𒋀𒎌𒋙 𒌌𒌅 𒆠𒆗 𒌷 𒋙𒀀𒌓  
+vii 22 𒁄𒂅𒊻𒋢𒌦 𒌑𒊺𒍝𒀀  
+vii 23 𒁮𒋢 𒌉𒎌𒋙 𒌉𒊩𒎌𒋙 𒊩𒋝𒊑𒋾𒋙  
+vii 24 𒇽𒈜𒎌 𒊩𒈜𒎌 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
+vii 25 𒆬𒌓 𒆬𒄀 𒃻𒋗 𒈾𒆚𒋾 𒂍𒃲𒋙  
+vii 26 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
+vii 27 𒇽𒋗𒌓 𒊕𒎌 𒇽𒌋𒌋𒍝𒊍 𒉺𒉌𒋙 𒇽𒆤𒆠𒌅𒌑  
+vii 28 𒈬𒃻𒆠𒇷𒋙 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
+vii 29 𒄀𒂇 𒌝𒈠𒉌 𒈠𒆷 𒁀𒋙𒌋  
 
 
 vii 30 𒈥𒆜 𒌷 𒌋 𒂔 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡
-vii 30 𒄞𒎌 𒍢𒂊𒉌 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
-vii 30 𒃻 𒉌𒁀 𒆷 𒄿𒋙𒌋 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
-vii 30 𒌦𒎌 𒆳𒋙 𒍣𒋼𒀀 𒌋 𒌍𒌋𒌋 𒌉 𒌋 𒃲  
-vii 30 𒂊𒁺 𒌌 𒂊𒍦 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
-vii 30 𒁹𒈦𒋛𒊏𒀀 𒇽𒃲 𒄑𒉼 𒃻 𒁹𒋼𒌝𒌋𒌋  
-vii 30 𒌋𒌋 𒆳𒉏𒈠𒆠 𒃻 𒀀𒈾 𒆤𒊑 𒆳𒃵𒁍𒇷  
-vii 30 𒈠𒇡𒌅 𒁹𒁺𒈾𒉡 𒀾𒁍 𒆠𒆗 𒌷𒃻𒉿𒄿𒀭𒂗  
-vii 30 𒁄𒂅𒊻𒋢 𒀸 𒋡𒋾 𒊍𒁁  
-vii 30 𒊕𒁺𒋢 𒀝𒄑 𒀉𒋾 𒉺𒉌 𒁹𒁺𒈾𒉡  
+vii 31 𒄞𒎌 𒍢𒂊𒉌 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
+vii 32 𒃻 𒉌𒁀 𒆷 𒄿𒋙𒌋 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
+vii 33 𒌦𒎌 𒆳𒋙 𒍣𒋼𒀀 𒌋 𒌍𒌋𒌋 𒌉 𒌋 𒃲  
+vii 34 𒂊𒁺 𒌌 𒂊𒍦 𒌑𒊺𒍝𒄠𒈠 𒊩𒆷𒁹 𒄠𒉡  
+vii 35 𒁹𒈦𒋛𒊏𒀀 𒇽𒃲 𒄑𒉼 𒃻 𒁹𒋼𒌝𒌋𒌋  
+vii 36 𒌋𒌋 𒆳𒉏𒈠𒆠 𒃻 𒀀𒈾 𒆤𒊑 𒆳𒃵𒁍𒇷  
+vii 37 𒈠𒇡𒌅 𒁹𒁺𒈾𒉡 𒀾𒁍 𒆠𒆗 𒌷𒃻𒉿𒄿𒀭𒂗  
+vii 38 𒁄𒂅𒊻𒋢 𒀸 𒋡𒋾 𒊍𒁁  
+vii 39 𒊕𒁺𒋢 𒀝𒄑 𒀉𒋾 𒉺𒉌 𒁹𒁺𒈾𒉡  
 
 vii 40 𒆤𒊑 𒆷 𒈬𒊺𒍦𒄿𒋙 𒅈𒉿𒅅
-vii 40 𒌷 𒋗𒀀𒌅 𒀊𒇧 𒀝𒄥  
-vii 40 𒀸 𒀀𒎌 𒍑𒄯𒁁 𒀀𒁲 𒆷 𒁀𒊺𒂊 𒌑𒃻𒌨  
-vii 40 𒈾𒄖𒌋 𒋗𒀀𒌅 𒌑𒋚𒆗  
-vii 40 𒊑𒁶 𒀀𒈨𒇻𒋾 𒀊𒊒𒊓 𒂔𒍑𒋙  
+vii 41 𒌷 𒋗𒀀𒌅 𒀊𒇧 𒀝𒄥  
+vii 42 𒀸 𒀀𒎌 𒍑𒄯𒁁 𒀀𒁲 𒆷 𒁀𒊺𒂊 𒌑𒃻𒌨  
+vii 43 𒈾𒄖𒌋 𒋗𒀀𒌅 𒌑𒋚𒆗  
+vii 44 𒊑𒁶 𒀀𒈨𒇻𒋾 𒀊𒊒𒊓 𒂔𒍑𒋙  
 vii 45 𒀸 𒌅𒆰𒋾 𒀭𒎌 𒃲𒎌 𒇽𒉽𒎌𒅀 𒀀𒉌𒅕
-vii 40 𒊩𒎌 𒀀𒌅𒊏 𒀀𒈾 𒀏𒆠  
-vii 40 𒊕𒁺 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
-vii 40 𒀸 𒄘 𒁹𒁺𒈾𒉡 𒀀𒈜  
-vii 40 𒊕𒁺 𒁹𒀭𒅖𒋻𒈾𒀭𒁲 𒀸 𒄘 𒁹𒊓𒄠𒄖𒉡  
+vii 46 𒊩𒎌 𒀀𒌅𒊏 𒀀𒈾 𒀏𒆠  
+vii 47 𒊕𒁺 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
+vii 48 𒀸 𒄘 𒁹𒁺𒈾𒉡 𒀀𒈜  
+vii 49 𒊕𒁺 𒁹𒀭𒅖𒋻𒈾𒀭𒁲 𒀸 𒄘 𒁹𒊓𒄠𒄖𒉡  
 
 
 vii 50 𒋀 𒁹𒁺𒈾𒉡 𒋻𒁷𒉡 𒀀𒈜
-vii 50 𒀉𒋾 𒆠𒋃𒋾 𒆳𒉏𒈠𒆠 𒊩𒆷𒀜 𒆳𒃵𒁍𒇷  
-vii 50 𒊭 𒀸 𒆠𒂍 𒀭𒊹 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
-vii 50 𒀉𒋾 𒇽𒈜𒎌 𒂊𒄫 𒎏𒄖𒋾  
+vii 51 𒀉𒋾 𒆠𒋃𒋾 𒆳𒉏𒈠𒆠 𒊩𒆷𒀜 𒆳𒃵𒁍𒇷  
+vii 52 𒊭 𒀸 𒆠𒂍 𒀭𒊹 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
+vii 53 𒀉𒋾 𒇽𒈜𒎌 𒂊𒄫 𒎏𒄖𒋾  
+
+
+
+
+
+
+
+
+
 
 
 
 vii 1 𒁹𒀭𒀝𒅆𒂟𒅅 𒀸 𒄈 𒀭𒁇 𒈨𒁉𒋙 𒄑𒄷𒆷 𒋼𒀀𒊍𒋢  
-vii 1 𒉌𒆧 𒊕𒁺 𒁹𒋼𒌝𒌋𒌋  
-vii 1 𒀸 𒃮 𒆍𒃲 𒉠 𒌷 𒊭 𒌷𒀏  
-vii 1 𒌑𒈤𒄭𒊏 𒈤𒄷𒊕  
+vii 2 𒉌𒆧 𒊕𒁺 𒁹𒋼𒌝𒌋𒌋  
+vii 3 𒀸 𒃮 𒆍𒃲 𒉠 𒌷 𒊭 𒌷𒀏  
+vii 4 𒌑𒈤𒄭𒊏 𒈤𒄷𒊕  
 vii 5 𒀾𒋙 𒁕𒈾𒀭 𒀭𒊹 𒌋 𒀭15 𒂗𒎌𒅀 𒌦𒎌 𒆰𒇻𒈨
-vii 1 𒉌𒆧 𒊕𒁺 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
-vii 1 𒁹𒌉𒍑𒀀𒀀 𒌉 𒁹𒀭𒀝𒊓𒅆  
-vii 1 𒌉 𒌉 𒁹𒀭𒀫𒌓𒀀𒀸  
-vii 1 𒊭 𒆷𒉺𒀭 𒀜 𒀜 𒁀𒉌𒅀  
+vii 6 𒉌𒆧 𒊕𒁺 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
+vii 7 𒁹𒌉𒍑𒀀𒀀 𒌉 𒁹𒀭𒀝𒊓𒅆  
+vii 8 𒌉 𒌉 𒁹𒀭𒀫𒌓𒀀𒀸  
+vii 9 𒊭 𒆷𒉺𒀭 𒀜 𒀜 𒁀𒉌𒅀  
 
 vii 10 𒀜𒋙 𒅔𒀮𒌅 𒀀𒈾 𒆳𒉏𒈠𒆠
-vii 10 𒌌𒌅 𒁹𒌝𒌋𒌋𒄿𒁉 𒆠𒆗 𒆳𒉏𒈠𒆠 𒀾𒆪𒉡 𒀀𒈾 𒈗𒌋𒋾  
-vii 10 𒁹𒌉𒍑𒅀 𒌉 𒁹𒀭𒀝𒊓𒅆  
-vii 10 𒄑𒁁 𒌑𒊺𒁉𒆷 𒀀𒁲 𒅆𒅀  
-vii 10 𒁹𒁺𒈾𒉡 𒁹𒊓𒄠𒄖𒉡  
-vii 10 𒌉𒎌 𒁹𒀭𒂗𒁀𒃻 𒆳𒃵𒁍𒆷𒀀𒀀  
-vii 10 𒊭 𒀜𒎌𒋙𒌦 𒀀𒈾 𒈗𒎌 𒀜𒎌𒅀 𒌑𒊑𒇷𒁍𒈠  
-vii 10 𒅇 𒋗𒉡 𒌑𒉪𒊑𒂅 𒂊𒄫 𒈗𒋾𒅀  
-vii 10 𒆠𒆗 𒁄𒌀𒆠 𒅇 𒌷𒇹𒀭  
-vii 10 𒀀𒈾 𒁕𒇳 𒄴𒊏𒀀𒋾 𒌑𒉈𒋙𒉡𒋾  
+vii 11 𒌌𒌅 𒁹𒌝𒌋𒌋𒄿𒁉 𒆠𒆗 𒆳𒉏𒈠𒆠 𒀾𒆪𒉡 𒀀𒈾 𒈗𒌋𒋾  
+vii 12 𒁹𒌉𒍑𒅀 𒌉 𒁹𒀭𒀝𒊓𒅆  
+vii 13 𒄑𒁁 𒌑𒊺𒁉𒆷 𒀀𒁲 𒅆𒅀  
+vii 14 𒁹𒁺𒈾𒉡 𒁹𒊓𒄠𒄖𒉡  
+vii 15 𒌉𒎌 𒁹𒀭𒂗𒁀𒃻 𒆳𒃵𒁍𒆷𒀀𒀀  
+vii 16 𒊭 𒀜𒎌𒋙𒌦 𒀀𒈾 𒈗𒎌 𒀜𒎌𒅀 𒌑𒊑𒇷𒁍𒈠  
+vii 17 𒅇 𒋗𒉡 𒌑𒉪𒊑𒂅 𒂊𒄫 𒈗𒋾𒅀  
+vii 18 𒆠𒆗 𒁄𒌀𒆠 𒅇 𒌷𒇹𒀭  
+vii 19 𒀀𒈾 𒁕𒇳 𒄴𒊏𒀀𒋾 𒌑𒉈𒋙𒉡𒋾  
 
 vii 20 𒁹𒌨𒊓𒀀 𒈗 𒆳𒌨𒅈𒁲
-vii 20 𒁕𒈾𒀭 𒀭𒊹 𒌋 𒀭15 𒂗𒎌𒅀 𒅖𒈨𒂊𒈠  
-vii 20 𒁍𒈛𒋾 𒈗𒋾𒅀 𒄑𒄽𒋙𒈠  
-vii 20 𒇽𒈤𒎌𒋙 𒀀𒈾 𒃻𒀪𒀠 𒂄𒈨𒅀 𒅖𒁍𒊏 𒀀𒈾 𒆠𒆗 𒌷𒇹𒀭𒆠  
-vii 20 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
-vii 20 𒃼𒈾𒀀𒋼 𒄑𒉺𒎌  
-vii 20 𒄑𒁍𒌨𒁲𒄿 𒋫𒈥𒋫𒋙  
-vii 20 𒁹𒀭𒀝𒅆𒂟𒅅 𒁹𒌝𒁀𒁕𒊏𒀀 𒇽𒈤𒎌 𒊭 𒆳𒉏𒈠𒆠  
-vii 20 𒀉𒋾 𒄑𒍪𒎌 𒅆𒌓 𒈨𒊑𒄴𒋾 𒌌𒁁 𒀸 𒈤𒊑𒋙𒌦  
-vii 20 𒊭 𒁹𒌋𒌋𒉡𒆠𒉽𒎌 𒇽𒈫𒌋 𒃻 𒁹𒁺𒈾𒉌  
+vii 21 𒁕𒈾𒀭 𒀭𒊹 𒌋 𒀭15 𒂗𒎌𒅀 𒅖𒈨𒂊𒈠  
+vii 22 𒁍𒈛𒋾 𒈗𒋾𒅀 𒄑𒄽𒋙𒈠  
+vii 23 𒇽𒈤𒎌𒋙 𒀀𒈾 𒃻𒀪𒀠 𒂄𒈨𒅀 𒅖𒁍𒊏 𒀀𒈾 𒆠𒆗 𒌷𒇹𒀭𒆠  
+vii 24 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
+vii 25 𒃼𒈾𒀀𒋼 𒄑𒉺𒎌  
+vii 26 𒄑𒁍𒌨𒁲𒄿 𒋫𒈥𒋫𒋙  
+vii 27 𒁹𒀭𒀝𒅆𒂟𒅅 𒁹𒌝𒁀𒁕𒊏𒀀 𒇽𒈤𒎌 𒊭 𒆳𒉏𒈠𒆠  
+vii 28 𒀉𒋾 𒄑𒍪𒎌 𒅆𒌓 𒈨𒊑𒄴𒋾 𒌌𒁁 𒀸 𒈤𒊑𒋙𒌦  
+vii 29 𒊭 𒁹𒌋𒌋𒉡𒆠𒉽𒎌 𒇽𒈫𒌋 𒃻 𒁹𒁺𒈾𒉌  
 
 vii 30 𒅇 𒁹𒀭𒀝𒌑𒉌𒇷 𒇽𒃻 𒌋𒅗 𒌷 𒆳𒃵𒁍𒇷
-vii 30 𒊭 𒌋𒅗 𒀭𒎌𒅀 𒅅𒁍𒌋 𒋻𒆷𒌓 𒃲𒌓  
-vii 30 𒆠𒆗 𒌷𒇹𒀭 𒅴𒋙𒌦 𒀾𒇻𒌒  
-vii 30 𒀾𒄷𒁕 𒋢𒋙𒌦 𒁹𒁺𒈾𒉡 𒆠𒆗 𒌷𒉌𒈾𒀀  
-vii 30 𒌋𒅗 𒄑𒈠𒅗𒀀𒍢 𒀉𒁺𒋙𒈠  
-vii 30 𒀉𒁍𒄷𒍑 𒊍𒇺  
-vii 30 𒋛𒀉𒋾 𒋀𒎌𒋙 𒃻 𒁹𒁺𒈾𒉌  
-vii 30 𒅇 𒁹𒌉𒍑𒅀 𒀀𒉌𒅕 𒍜𒎌𒋙𒉡 𒌑𒅘𒆧  
-vii 30 𒌑𒊺𒉈 𒀀𒈾 𒋫𒈥𒋾 𒈠𒋾𒆗  
-vii 30 𒁹𒀭𒀝𒄿 𒁹𒀭𒂗𒋼𒀀𒅕  
+vii 31 𒊭 𒌋𒅗 𒀭𒎌𒅀 𒅅𒁍𒌋 𒋻𒆷𒌓 𒃲𒌓  
+vii 32 𒆠𒆗 𒌷𒇹𒀭 𒅴𒋙𒌦 𒀾𒇻𒌒  
+vii 33 𒀾𒄷𒁕 𒋢𒋙𒌦 𒁹𒁺𒈾𒉡 𒆠𒆗 𒌷𒉌𒈾𒀀  
+vii 34 𒌋𒅗 𒄑𒈠𒅗𒀀𒍢 𒀉𒁺𒋙𒈠  
+vii 35 𒀉𒁍𒄷𒍑 𒊍𒇺  
+vii 36 𒋛𒀉𒋾 𒋀𒎌𒋙 𒃻 𒁹𒁺𒈾𒉌  
+vii 37 𒅇 𒁹𒌉𒍑𒅀 𒀀𒉌𒅕 𒍜𒎌𒋙𒉡 𒌑𒅘𒆧  
+vii 38 𒌑𒊺𒉈 𒀀𒈾 𒋫𒈥𒋾 𒈠𒋾𒆗  
+vii 39 𒁹𒀭𒀝𒄿 𒁹𒀭𒂗𒋼𒀀𒅕  
 
 vii 40 𒌉𒎌 𒁹𒀭𒀝𒈬𒄰𒌍 𒇽𒄘𒂗𒈾
-vii 40 𒊭 𒀜 𒁀𒉡𒋙𒌦 𒁹𒌨𒋫𒆠 𒀉𒅗𒀀  
-vii 40 𒀀𒈾 𒁁𒄷𒍢 𒆳 𒌵𒆠  
-vii 40 𒄊𒉻𒁺𒎌 𒁹𒀭𒀝𒈬𒄰𒌍 𒊭 𒌌𒌅 𒆠𒆗 𒆳𒃵𒁍𒇷  
-vii 40 𒅋𒄣𒌑𒉌 𒀀𒈾 𒆳 𒀸𒋩𒆠  
-vii 40 𒄊𒉻𒁺𒎌 𒃻𒀀𒋾𒈾  
-vii 40 𒈪𒄴𒈩 𒆍𒃲 𒉠 𒌷 𒀏𒆠  
-vii 40 𒌑𒋚𒅆𒆷 𒌉𒎌𒋙  
-vii 40 𒁹𒀭𒄑𒉢𒈬𒄀𒈾  
+vii 41 𒊭 𒀜 𒁀𒉡𒋙𒌦 𒁹𒌨𒋫𒆠 𒀉𒅗𒀀  
+vii 42 𒀀𒈾 𒁁𒄷𒍢 𒆳 𒌵𒆠  
+vii 43 𒄊𒉻𒁺𒎌 𒁹𒀭𒀝𒈬𒄰𒌍 𒊭 𒌌𒌅 𒆠𒆗 𒆳𒃵𒁍𒇷  
+vii 44 𒅋𒄣𒌑𒉌 𒀀𒈾 𒆳 𒀸𒋩𒆠  
+vii 45 𒄊𒉻𒁺𒎌 𒃻𒀀𒋾𒈾  
+vii 46 𒈪𒄴𒈩 𒆍𒃲 𒉠 𒌷 𒀏𒆠  
+vii 47 𒌑𒋚𒅆𒆷 𒌉𒎌𒋙  
+vii 48 𒁹𒀭𒄑𒉢𒈬𒄀𒈾  9
+
+
+
 
 viii 1  
 𒌑𒆏𒁀𒋢 𒆳𒆗𒁺 𒀸 𒆷 𒄿𒁲 𒍢𒅕  
@@ -1561,7 +2559,7 @@ i 5 eš-re-e-ti KUR aš-šur.KI KUR URI.KI
 i 1 they (the gods) allowed my mind to learn all of the scribal arts. They glorified the mention of my name (and) made my lordship greater than (those of all other) kings who sit on (royal) daises.  
 
 
-i 5 (As for) the sanctuaries of Assyria (and) the land Akkad whose foundation(s) Esarhaddon, king of Assyria, the father who had engendered me, had laid, but whose construction he had not finished, I myself now completed their work by the command of the great gods, my lords.  
+i 5 (As for) the sanctuaries of Assyria (and) the land Akkad whose foundation(s) Esarhaddon, king of Assyria, the father who had installed me, had laid, but whose construction he had not finished, I myself now completed their work by the command of the great gods, my lords.  
 
 i 6 ša mAN.ŠÁR-PAP-AŠ LUGAL KUR aš-šur.KI AD ba-ni-ia  
 i 7 tem-me-en-šú-un id-du-ú  
@@ -1635,7 +2633,7 @@ i 49 lu-le-e ú-mal-li
 i 50 dšar-rat-kid-mu-ri šá ina ug-gat lìb-bi-šá3  
 
 
-i 50 The goddess Šarrat-Kidmuri, who in her anger had abandoned her inner sanctum (and) had taken up residence in a place not befitting her, relented during the favorable reign (lit. “my favorable reign”) that (the god) Aššur had granted me. To complete (the emblem of) her exalted divinity (i 55´) (and) to glorify her precious cultic rites, she constantly kept sending me (instructions) through dream(s and) message(s) from ecstatics.  
+i 50 The goddess Šarrat-Kidmuri, who in her anger had abandoned her inner sanctum (and) had taken up residence in a place not befitting her, relented during the favorable reign (lit. “my favorable reign”) that (the god) Aššur had granted me. To complete (the emblem of) her exalted divinity (i 55 (and) to glorify her precious cultic rites, she constantly kept sending me (instructions) through dream(s and) message(s) from ecstatics.  
 i 51 at-man-šá e-zi-bu ú-ši-bu a-šar la si-ma-ti-šá  
 i 52 ina BALA-ia dam-qí  
 i 53 ša AN.ŠÁR iš-ru-ka tar-šá-a sa-li-mu  
@@ -1659,7 +2657,7 @@ i 64 ina KÁ é-galam-mes É dU.GUR ša URU.tar-bi-ṣi az-qu-up
 i 65 a-di a-di-ni a-bi la im-ma-al-la-du  
 
 
-i 65 Before my father was born (and) my birth-mother was created in her mother’s womb, the god Sîn, who created me to be king, named me to (re)build Eḫulḫul, saying: “Ashurbanipal will (re)build that temple and (i 70´) make me dwell therein upon an eternal dais.” The word of the god Sîn, which he had spoken in distant days, he now revealed to the people of a later generation. He allowed the temple of the god Sîn — which Shalmaneser (III), son of Ashurnasirpal (II), a king of the past (who had come) before me, had built — to become old and he entrusted (its renovation) to me.  
+i 65 Before my father was born (and) my birth-mother was created in her mother’s womb, the god Sîn, who created me to be king, named me to (re)build Eḫulḫul, saying: “Ashurbanipal will (re)build that temple and (i 70 make me dwell therein upon an eternal dais.” The word of the god Sîn, which he had spoken in distant days, he now revealed to the people of a later generation. He allowed the temple of the god Sîn — which Shalmaneser (III), son of Ashurnasirpal (II), a king of the past (who had come) before me, had built — to become old and he entrusted (its renovation) to me.  
 i 66 um-mì a-lit-ti la ba-na-a-ta ina lìb-bi AMA-šá  
 i 67 a-na e-peš é-ḫúl-ḫúl iz-kur ni-bit MU-ia  
 i 68 d30 šá ib-na-an-ni a-na LUGAL-u-ti  
@@ -1673,7 +2671,7 @@ i 75 la-ba-riš ú-šá-lik-ma ú-šad-gi-la pa-nu-u-a
 i 76 É.KUR šu-a-tú šá la-ba-riš il-li-ku  
 
 
-i 76 (As for) that temple, which had become old, I removed its dilapidated section(s) by the command of the gods Sîn (and) Nusku. I made its structure larger than the one in the days of the past. I built (and) completed (it) from its foundation(s) to its crenellations. (i 80´) Inside it, I built Emelamana, the temple of the god Nusku, the exalted vizier, which a king of the past (who had come) before me had built. I roofed them with long beams of cedar. I fastened band(s) of silver on doors of white cedar (and) I fixed (them) in their gateways.  
+i 76 (As for) that temple, which had become old, I removed its dilapidated section(s) by the command of the gods Sîn (and) Nusku. I made its structure larger than the one in the days of the past. I built (and) completed (it) from its foundation(s) to its crenellations. (i 80 Inside it, I built Emelamana, the temple of the god Nusku, the exalted vizier, which a king of the past (who had come) before me had built. I roofed them with long beams of cedar. I fastened band(s) of silver on doors of white cedar (and) I fixed (them) in their gateways.  
 i 77 ina a-mat d30 dnusku an-ḫu-us-su ad-ke  
 i 78 e-li ša u₄-me pa-ni šu-bat-su ú-rap-piš  
 i 79 ul-tu UŠ₈-šú a-di gaba-dib-bi-šú ar-ṣip ú-šak-lil  
@@ -1703,7 +2701,7 @@ i 94 eš-re-e-ti KUR aš-šur.KI u KUR URI.KI
 i 94 I completed the sanctuaries of Assyria and the land Akkad in their entirety. I made every type of temple appurtenance there is from silver (and) gold, (and) I added (them) to those of the kings, my ancestors. I made the great gods who support me reside in their exalted inner sanctums.  
 i 95 a-na si-ḫir-ti-ši-na ú-šak-lil  
 i 96 mim-ma si-mat É.KUR ma-la ba-šú-u šá KÙ.BABBAR KÙ.GI e-pu-uš  
-i 97 e-li ša LUGAL.MEŠ AD.MEŠ-ia ú-rad-di  
+i 97 e-li ša LUGAL.MEŠ ᵛAD.MEŠ-ia ú-rad-di  
 i 98 DINGIR.MEŠ GAL.MEŠ ti-ik-le-ia4  
 	Lacuna	  
 
@@ -1715,7 +2713,7 @@ i 1' Successful harvest(s and) an abundance of grain enabled pasture land to con
 i 2 ka-a-a-an ú-šaḫ-na-bu gi-pa-ru  
 i 3 ṣip-pa-a-ti šu-um-mu-ḫa in-bu MÁŠ.ANŠE šu-te-šur ina ta-lit-ti  
 i 4 ina BALA.MEŠ-ia ḪÉ.NUN ṭuḫ-du ina MU.AN.NA.MEŠ-ia ku-um-mu-ru ḪÉ.GÁL-lum  
-i 5 12 ANŠE ŠE.PAD.MEŠ 3 ANŠE GEŠTIN.MEŠ BANMIN Ì.MEŠ GUN SÍG.MEŠ  
+i 5 12 ANŠE ŠE.PᵛAD.MEŠ 3 ANŠE GEŠTIN.MEŠ BANMIN Ì.MEŠ GUN SÍG.MEŠ  
 
 
 i 5' Throughout my entire land, (on account of) abundant trade, for one shekel of silver one could purchase twelve donkey-loads of grain, three homers of wine, two seahs of oil, (and one) talent of wool. Year after year, I shepherded the subjects of the god Enlil in prosperity and with justice.  
@@ -1736,16 +2734,16 @@ ii 1 ú-na-áš-šá-qu GÌR.II-ia
 
 
 ii 1 kiss my feet (and) great rulers from (both) east and west are anxious for me to be their ally.  
-ii 2 mal-ki GAL.MEŠ šá ṣi-taš u ši-la-an  
+ii 2 ᵐal-ki GAL.MEŠ šá ṣi-taš u ši-la-an  
 ii 3 a-na kit-ri-šu-nu ú-pa-qu-u-ni  
 
 
 ii 4 i-na maḫ-re-e ger-ri-ia6  
 
 
-ii 4 On my first campaign, I marched to Makan (Egypt) and Meluḫḫa (Ethiopia). Taharqa, the king of Egypt and Kush, whose defeat Esarhaddon — king of Assyria, the father who had engendered me — had brought about (and) whose land he ruled over, forgot the might of (the god) Aššur and the goddess Ištar, the great gods, my lords, and (ii 10´) trusted in his own strength. He marched against the kings (and) officials, whom the father who had engendered me had appointed inside Egypt, to kill (and) rob (them) and to take away Egypt (from them). (ii 15´) He entered and resided in the city Memphis, a city that the father who had engendered me had conquered (and) made part of the territory of his land. A fast messenger came to Nineveh and reported (this) to me. (ii 20´) My heart became enraged about these deeds and my temper turned hot. I mustered my elite forces that (the god) Aššur and the goddess Ištar had placed in my hands and I made (them) take the direct road to Egypt and Kush.  
+ii 4 On my first campaign, I marched to Makan (Egypt) and Meluḫḫa (Ethiopia). Taharqa, the king of Egypt and Kush, whose defeat Esarhaddon — king of Assyria, the father who had installed me — had brought about (and) whose land he ruled over, forgot the might of (the god) Aššur and the goddess Ištar, the great gods, my lords, and (ii 10 trusted in his own strength. He marched against the kings (and) officials, whom the father who had installed me had appointed inside Egypt, to kill (and) rob (them) and to take away Egypt (from them). (ii 15 He entered and resided in the city Memphis, a city that the father who had installed me had conquered (and) made part of the territory of his land. A fast messenger came to Nineveh and reported (this) to me. (ii 20 My heart became enraged about these deeds and my temper turned hot. I mustered my elite forces that (the god) Aššur and the goddess Ištar had placed in my hands and I made (them) take the direct road to Egypt and Kush.  
 ii 5 a-na KUR.má-kan u KUR.me-luḫ-ḫa lu-u al-lik7  
-ii 6 mtar-qu-u MAN KUR.mu-ṣur u KUR.ku-u-si  
+ii 6 ᵐtar-qu-u MAN KUR.mu-ṣur u KUR.ku-u-si  
 ii 7 ša mAN.ŠÁR-PAP-AŠ MAN KUR AN.ŠÁR.KI AD ba-nu-u-a  
 ii 8 BAD₅.BAD₅-šú iš-ku-nu i-be-lu KUR-su  
 ii 9 da-na-an AN.ŠÁR u d15 DINGIR.MEŠ GAL.MEŠ EN.MEŠ-ia im-ši-ma  
@@ -1767,31 +2765,31 @@ ii 24 a-na KUR.mu-ṣur u KUR.ku-u-si uš-te-še-ra ḫar-ra-nu8
 ii 25 ina me-ti-iq ger-ri-ia  
 
 
-ii 25 In the course of my campaign, Baʾalu, king of the land Tyre, Manasseh, king of the land Judah, Qaʾuš-gabri, king of the land Edom, Muṣurī, king of the land Moab, (ii 30´) Ṣil-Bēl, king of the land Gaza, Mitinti, king of the land Ashkelon, Ikausu, king of the land Ekron, Milki-ašapa, king of the land Byblos, Yakīn-Lû, king of the land Arwad, (ii 35´) Abī-Baʾal, king of the land Samsimurruna, Ammi-nadbi, king of the land Bīt-Ammon, Aḫī-Milki, king of the land Ashdod, Ekištūra, king of the land Idalion, Pilagurâ, king of the land Kitrusi, (ii 40´) Kīsu, king of the land Salamis, Itūandar, king of the land Paphos, Erēsu, king of the land Soloi, Damāsu, king of the land Curium, Admēsu, king of the land Tamassos, (ii 45´) Damysos, king of the land Qartiḫadasti, Unasagusu, king of the land Lidir, Buṣusu, king of the land Nūria — in total, twenty-two kings of the seacoast, the midst of the sea, and dry land, (ii 50´) servants who belonged to me, carried their substantial audience gift(s) before me and kissed my feet.  
-ii 26 mba-ʾa-lu LUGAL KUR.ṣur-ri  
-ii 27 mmi-in-se-e LUGAL KUR.ia-ú-di  
-ii 28 mqa-uš-gab-ri LUGAL KUR.ú-du-me  
-ii 29 mmu-ṣur-i LUGAL KUR.ma-ʾa-ba  
-ii 30 mGISSU-EN LUGAL KUR.ḫa-zi-ti  
-ii 31 mmi-ti-in-ti LUGAL KUR.is-qa-lu-na  
-ii 32 mi-ka-ú-su LUGAL KUR.am-qar-u-na  
-ii 33 mmil-ki-a-šá-pa LUGAL KUR.gu-ub-li  
-ii 34 mia-ki-in-lu-ú LUGAL KUR.ar-ú-a-da  
-ii 35 ma-bi-ba-aʾ-al LUGAL KUR.sa-am-si-mu-ru-na  
-ii 36 mam-mi-na-ad-bi LUGAL KUR.É-am-ma-na  
-ii 37 mPAP-mil-ki LUGAL KUR.as-du-di  
-ii 38 me-ki-iš-tu-ra LUGAL KUR.e-di-iʾ-li  
-ii 39 mpi-la-a-gu-ra-a LUGAL KUR.ki-it-ru-si  
-ii 40 mki-i-su LUGAL KUR.si-lu-u-a  
-ii 41 mi-tu-u-an-da-ar LUGAL KUR.pa-ap-pa  
-ii 42 me-re-su LUGAL KUR.si-il-lu  
-ii 43 mda-ma-su LUGAL KUR.ku-ri-i  
-ii 44 mád-me-su LUGAL KUR.ta-me-su  
-ii 45 mda-mu-u-su LUGAL KUR.qar-ti-ḫa-da-as-ti  
-ii 46 mú-na-sa-gu-su LUGAL KUR.li-di-ir  
-ii 47 mbu-ṣu-su LUGAL KUR.nu-re-e  
+ii 25 In the course of my campaign, Baʾalu, king of the land Tyre, Manasseh, king of the land Judah, Qaʾuš-gabri, king of the land Edom, Muṣurī, king of the land Moab, (ii 30 Ṣil-Bēl, king of the land Gaza, Mitinti, king of the land Ashkelon, Ikausu, king of the land Ekron, Milki-ašapa, king of the land Byblos, Yakīn-Lû, king of the land Arwad, (ii 35 Abī-Baʾal, king of the land Samsimurruna, Ammi-nadbi, king of the land Bīt-Ammon, Aḫī-Milki, king of the land Ashdod, Ekištūra, king of the land Idalion, Pilagurâ, king of the land Kitrusi, (ii 40 Kīsu, king of the land Salamis, Itūandar, king of the land Paphos, Erēsu, king of the land Soloi, Damāsu, king of the land Curium, Admēsu, king of the land Tamassos, (ii 45 Damysos, king of the land Qartiḫadasti, Unasagusu, king of the land Lidir, Buṣusu, king of the land Nūria — in total, twenty-two kings of the seacoast, the midst of the sea, and dry land, (ii 50 servants who belonged to me, carried their substantial audience gift(s) before me and kissed my feet.  
+ii 26 ᵐba-ʾa-lu LUGAL KUR.ṣur-ri  
+ii 27 ᵐmi-in-se-e LUGAL KUR.ia-ú-di  
+ii 28 ᵐqa-uš-gab-ri LUGAL KUR.ú-du-me  
+ii 29 ᵐmu-ṣur-i LUGAL KUR.ma-ʾa-ba  
+ii 30 ᵐGISSU-EN LUGAL KUR.ḫa-zi-ti  
+ii 31 ᵐmi-ti-in-ti LUGAL KUR.is-qa-lu-na  
+ii 32 ᵐi-ka-ú-su LUGAL KUR.am-qar-u-na  
+ii 33 ᵐmil-ki-a-šá-pa LUGAL KUR.gu-ub-li  
+ii 34 ᵐia-ki-in-lu-ú LUGAL KUR.ar-ú-a-da  
+ii 35 ᵐa-bi-ba-aʾ-al LUGAL KUR.sa-am-si-mu-ru-na  
+ii 36 ᵐam-mi-na-ad-bi LUGAL KUR.É-am-ma-na  
+ii 37 ᵐPAP-mil-ki LUGAL KUR.as-du-di  
+ii 38 ᵐe-ki-iš-tu-ra LUGAL KUR.e-di-iʾ-li  
+ii 39 ᵐpi-la-a-gu-ra-a LUGAL KUR.ki-it-ru-si  
+ii 40 ᵐki-i-su LUGAL KUR.si-lu-u-a  
+ii 41 ᵐi-tu-u-an-da-ar LUGAL KUR.pa-ap-pa  
+ii 42 ᵐe-re-su LUGAL KUR.si-il-lu  
+ii 43 ᵐda-ma-su LUGAL KUR.ku-ri-i  
+ii 44 ᵐád-me-su LUGAL KUR.ta-me-su  
+ii 45 ᵐda-mu-u-su LUGAL KUR.qar-ti-ḫa-da-as-ti  
+ii 46 ᵐú-na-sa-gu-su LUGAL KUR.li-di-ir  
+ii 47 ᵐbu-ṣu-su LUGAL KUR.nu-re-e  
 ii 48 ŠU.NIGIN 22 LUGAL.MEŠ ša a-ḫi tam-tim  
-ii 49 MURUB₄ tam-tim ù na-ba-li  
+ii 49 ᵐURUB₄ tam-tim ù na-ba-li  
 ii 50 ARAD.MEŠ da-gíl pa-ni-ia  
 ii 51 ta-mar-ta-šú-nu ka-bit-tu  
 ii 52 ina IGI-ia iš-šu-nim-ma ú-na-ši-qu GÌR.II-ia  
@@ -1804,21 +2802,21 @@ ii 55 it-ti ERIM.ḪI.A-ia ur-ḫu pa-da-nu ú-šá-aṣ-bit-su-nu-ti
 ii 56 a-na na-ra-ru-ti ḫa-mat šá LUGAL.MEŠ LÚ.qé-pa-a-ni  
 
 
-ii 56 I quickly advanced to support (and) aid the kings (and) officials who were in Egypt, servants who belonged to me, and I marched as far as the city Kār-Bānīte. (ii 60´) Taharqa, the king of Egypt and Kush, heard about the advance of my expeditionary force (while he was) inside the city Memphis, and mustered his battle troops before me to wage armed battle and war. With the support of the gods Aššur, Bēl (Marduk), and Nabû, the great gods, my lords who march at my side, I brought about the defeat of his troops in a widespread pitched battle.  
+ii 56 I quickly advanced to support (and) aid the kings (and) officials who were in Egypt, servants who belonged to me, and I marched as far as the city Kār-Bānīte. (ii 60 Taharqa, the king of Egypt and Kush, heard about the advance of my expeditionary force (while he was) inside the city Memphis, and mustered his battle troops before me to wage armed battle and war. With the support of the gods Aššur, Bēl (Marduk), and Nabû, the great gods, my lords who march at my side, I brought about the defeat of his troops in a widespread pitched battle.  
 ii 57 ša qé-reb KUR.mu-ṣur ARAD.MEŠ da-gíl pa-ni-ia  
 ii 58 ur-ru-ḫi-iš ar-de-e-ma  
 ii 59 al-lik a-di URU.kar-dDÙ-ti  
-ii 60 mtar-qu-u MAN KUR.mu-ṣur u KUR.ku-u-si  
+ii 60 ᵐtar-qu-u MAN KUR.mu-ṣur u KUR.ku-u-si  
 ii 61 qé-reb URU.me-em-pi a-lak ger-ri-ia iš-me-ma  
 ii 62 a-na e-peš MURUB₄ GIŠ.TUKUL.MEŠ u MÈ  
 ii 63 a-na maḫ-ri-ia id-ka-a LÚ.ERIM.MEŠ MÈ-šú  
 ii 64 i-na tu-kul-ti AN.ŠÁR dEN ù dAG DINGIR.MEŠ GAL.MEŠ EN.MEŠ-ia  
 ii 65 a-li-kut i-di?-ia  
 ii 66 ina MÈ EDIN rap-ši áš-ku-na BAD₅.BAD₅ ERIM.ḪI.A-šú  
-ii 67 mtar-qu-ú ina qé-reb URU.me-em-pi  
+ii 67 ᵐtar-qu-ú ina qé-reb URU.me-em-pi  
 
 
-ii 67 Taharqa heard about the defeat of his troops while (he was) inside the city Memphis. The awe-inspiring radiance of (the god) Aššur and the goddess Ištar (ii 70´) overwhelmed him and he went into a frenzy. The brilliance of my royal majesty, with which the gods of heaven (and) netherworld had endowed me, covered him; he abandoned the city Memphis and, in order to save his (own) life, he fled inside the city Thebes. I seized that city (Memphis) (and then) made my troops enter (and) reside there.  
+ii 67 Taharqa heard about the defeat of his troops while (he was) inside the city Memphis. The awe-inspiring radiance of (the god) Aššur and the goddess Ištar (ii 70 overwhelmed him and he went into a frenzy. The brilliance of my royal majesty, with which the gods of heaven (and) netherworld had endowed me, covered him; he abandoned the city Memphis and, in order to save his (own) life, he fled inside the city Thebes. I seized that city (Memphis) (and then) made my troops enter (and) reside there.  
 ii 68 iš-ma-a taḫ-te-e ERIM.ḪI.A-šú  
 ii 69 nam-ri-ri AN.ŠÁR u d15  
 ii 70 is-ḫu-pu-šu-ma il-li-ka maḫ-ḫu-tíš  
@@ -1827,18 +2825,18 @@ ii 72 šá ú-za-ʾi-i-nu-u-ni DINGIR.MEŠ šu-ut AN KI
 ii 73 URU.me-em-pi ú-maš-šir-ma  
 ii 74 a-na šu-zu-ub ZI-tì-šú in-na-bit a-na qé-reb URU.ni-iʾ  
 ii 75 URU šu-a-tú aṣ-bat ERIM.ḪI.A-ia ú-še-rib ú-še-šib ina lìb-bi  
-ii 76 mni-ku-u LUGAL URU.me-em-pi ù URU.sa-a-a9  
+ii 76 ᵐni-ku-u LUGAL URU.me-em-pi ù URU.sa-a-a9  
 
 
-ii 76 (As for) Necho, king of the cities Memphis and Sais, Šarru-lū-dāri, king of the city Pelusium, Pi-šan-Ḫuru, king of the city Natho, Pa-qruru, king of the city (Pi)šaptu, (ii 80´) Inaros (Niḫerau), king of the city Athribis, (and) Naḫkê, king of the city Heracleopolis, those kings, governors, (and) officials whom the father who had engendered me had appointed in Egypt, who had abandoned their post(s) in the face of Taharqa’s tactical advance, (and) had gone to (lit. “filled”) the countryside,  
-ii 77 mLUGAL-lu-dà-ri LUGAL URU.ṣi-iʾ-nu  
-ii 78 mpi-šá-an-ḫu-ru LUGAL URU.na-at-ḫu-ú  
-ii 79 mpa-aq-ru-ru LUGAL URU.šap-tú10  
-ii 80 mni?-ḫer?-a-u LUGAL URU.ḫa-at-ḫi-ri-bi11  
-ii 81 mna-aḫ-ke-e LUGAL URU.ḫi-ni-in-ši  
+ii 76 (As for) Necho, king of the cities Memphis and Sais, Šarru-lū-dāri, king of the city Pelusium, Pi-šan-Ḫuru, king of the city Natho, Pa-qruru, king of the city (Pi)šaptu, (ii 80 Inaros (Niḫerau), king of the city Athribis, (and) Naḫkê, king of the city Heracleopolis, those kings, governors, (and) officials whom the father who had installed me had appointed in Egypt, who had abandoned their post(s) in the face of Taharqa’s tactical advance, (and) had gone to (lit. “filled”) the countryside,  
+ii 77 ᵐLUGAL-lu-dà-ri LUGAL URU.ṣi-iʾ-nu  
+ii 78 ᵐpi-šá-an-ḫu-ru LUGAL URU.na-at-ḫu-ú  
+ii 79 ᵐpa-aq-ru-ru LUGAL URU.šap-tú10  
+ii 80 ᵐni?-ḫer?-a-u LUGAL URU.ḫa-at-ḫi-ri-bi11  
+ii 81 ᵐna-aḫ-ke-e LUGAL URU.ḫi-ni-in-ši  
 ii 82 LUGAL.MEŠ an-nu-ti LÚ.NAM.MEŠ LÚ.qe-pa-ni  
 ii 83 ša qé-reb KUR.mu-ṣur ú-pa-qí-du AD DÙ-u-a  
-ii 84 ša la-pa-an ti-bu-ut mtar-qu-u  
+ii 84 ša la-pa-an ti-bu-ut ᵐtar-qu-u  
 ii 85 pi-qit-ta-šú-un ú-maš-še-ru im-lu-ú EDIN12  
 	Lacuna	  
 
@@ -1851,14 +2849,14 @@ ii 2 šal?-meš a-tu-ra a-na KUR aš-šur.KI
 ii 3 EGIR-nu mni-ku-ú mLUGAL-lu-dà-ri mpa-aq-ru-ru14  
 
 
-ii 3' Afterwards, Necho, Šarru-lū-dāri, (and) Pa-qruru sinned against my treaty (and) did not honor the oath(s sworn) by the great gods. (ii 5´´) They forgot my kindness and their heart(s) plotted evil (deeds). They spoke word(s) of treachery and decided (among) themselves on a profitless decision, saying: “If they remove Taharqa from Egypt, how then can we (ourselves) stay?” (ii 10´´) To establish treaties and peace, they dispatched their mounted messenger(s) to Taharqa, the king of Kush, saying: “Let peace be established between us so that we can come to a mutual agreement. (ii 15´´) (Let) us divide the land among ourselves so that no other lord comes between us.” With regard to troops of Assyria, the might of my lordly majesty, they constantly sought out evil plan(s) to cut (their) throat(s).  
+ii 3' Afterwards, Necho, Šarru-lū-dāri, (and) Pa-qruru sinned against my treaty (and) did not honor the oath(s sworn) by the great gods. (ii 5´ They forgot my kindness and their heart(s) plotted evil (deeds). They spoke word(s) of treachery and decided (among) themselves on a profitless decision, saying: “If they remove Taharqa from Egypt, how then can we (ourselves) stay?” (ii 10´ To establish treaties and peace, they dispatched their mounted messenger(s) to Taharqa, the king of Kush, saying: “Let peace be established between us so that we can come to a mutual agreement. (ii 15´ (Let) us divide the land among ourselves so that no other lord comes between us.” With regard to troops of Assyria, the might of my lordly majesty, they constantly sought out evil plan(s) to cut (their) throat(s).  
 ii 4 ina a-de-ia iḫ-ṭu-u la iṣ-ṣu-ru ma-mit DINGIR.MEŠ GAL.MEŠ15  
 ii 5 ṭa-ab-ti im-šu-ma lìb-ba-šú-nu ik-pu-ud le-mut-tú  
 ii 6 da-bab sur-ra-a-ti id-bu-bu-ma  
-ii 7 mì-lik la ku-širi₄ im-li-ku ra-man-šú-un  
-ii 8 um-ma mtar-qu-u ul-tú qé-reb KUR.mu-ṣur  
+ii 7 ᵐì-lik la ku-širi₄ im-li-ku ra-man-šú-un  
+ii 8 um-ma ᵐtar-qu-u ul-tú qé-reb KUR.mu-ṣur  
 ii 9 i-na-saḫ-ú-ma at-tu-ni a-šá-ba-ni mì-i-nu  
-ii 10 e-li mtar-qu-u MAN KUR.ku-u-si  
+ii 10 e-li ᵐtar-qu-u MAN KUR.ku-u-si  
 ii 11 a-na šá-kan a-de-e ù sa-li-me  
 ii 12 ú-ma-ʾe-e-ru LÚ.rak-bé-šú-un  
 ii 13 um-ma su-lum-mu-ú ina bi-ri-ni liš-šá-kin-ma  
@@ -1880,7 +2878,7 @@ Lacuna
 iii 1 al-lu KÙ.GI si-mat LUGAL-ti-šú áš-kun-šú18  
 
 
-iii 1 I placed on him (Necho) a golden hoe, an insignia of his kingship, (and) fastened gold bracelets around his wrists. On a belt-dagger with gold mountings, I wrote out my name and I gave (it) to him. (iii 5´) I presented him with chariots, horses, (and) mules to be his lordly transport. I sent with him eunuchs of mine (and) governors to help him. Where the father who had engendered me had appointed him as king, in the city Sais, I returned him to his position.  
+iii 1 I placed on him (Necho) a golden hoe, an insignia of his kingship, (and) fastened gold bracelets around his wrists. On a belt-dagger with gold mountings, I wrote out my name and I gave (it) to him. (iii 5 I presented him with chariots, horses, (and) mules to be his lordly transport. I sent with him eunuchs of mine (and) governors to help him. Where the father who had installed me had appointed him as king, in the city Sais, I returned him to his position.  
 iii 2 ḪAR.MEŠ KÙ.GI ú-rak-ki-sa rit-ti-šú  
 iii 3 GÍR šib-bi šá iḫ-zu-šú KÙ.GI  
 iii 4 ni-bit MU-ia ina muḫ-ḫi áš-ṭur-ma a-din-šú  
@@ -1894,11 +2892,11 @@ iii 11 a-na maš-kán-i-šú ú-ter-šú
 iii 12 ù mdAG-še-zib-a-ni DUMU-šú  
 
 
-iii 12 Moreover, I appointed Nabû-šēzibanni, his son, in the city Athribis. I performed more kind (and) good deed(s) for him than the father who had engendered me.  
+iii 12 ᵐoreover, I appointed Nabû-šēzibanni, his son, in the city Athribis. I performed more kind (and) good deed(s) for him than the father who had installed me.  
 iii 13 ina URU.ḫa-at-ḫa-ri-ba ap-qid  
-iii 14 MUN SIG₅-tú UGU šá AD ba-ni-ia  
+iii 14 ᵐUN SIG₅-tú UGU šá AD ba-ni-ia  
 iii 15 ú?-šá-tir-ma e-pu-us-su  
-iii 16 mtar-qu-u a-šar in-nab-tu  
+iii 16 ᵐtar-qu-u a-šar in-nab-tu  
 
 
 iii 16 (As for) Taharqa, in the place where he had fled, the awesome terror of the weapon of (the god) Aššur, my lord, overwhelmed him and he passed away.  
@@ -1906,7 +2904,7 @@ iii 17 ra-šub-bat GIŠ.TUKUL AN.ŠÁR EN-ia is-ḫúp-šú-ma
 iii 18 il-lik nam-mu-ši-šu EGIR-nu mUR-da-ma-né-e DUMU NIN₉-šú  
 
 
-(iii 18'b) Afterwards, Tanutamon, the son of his sister, sat upon his royal throne. He made the cities Thebes (and) Heliopolis his fortresses (and) assembled his forces. To fight against the Assyrian troops who were inside the city Memphis, he mobilized his battle array, confined those people, and (iii 25´) cut off their escape route. A fast messenger came to Nineveh and told (this) to me.  
+(iii 18'b) Afterwards, Tanutamon, the son of his sister, sat upon his royal throne. He made the cities Thebes (and) Heliopolis his fortresses (and) assembled his forces. To fight against the Assyrian troops who were inside the city Memphis, he mobilized his battle array, confined those people, and (iii 25 cut off their escape route. A fast messenger came to Nineveh and told (this) to me.  
 iii 19 ú-šib ina GIŠ.GU.ZA LUGAL-ti-šu  
 iii 20 URU.ni-iʾ URU.ú-nu a-na dan-nu-ti-šú iš-kun  
 iii 21 ú-paḫ-ḫi-ir el-lat-su  
@@ -1921,7 +2919,7 @@ iii 28 áš-ni-ma a-na KUR.mu-ṣur u KUR.ku-u-si
 
 iii 28 For a second time, I took the direct road to Egypt and Kush. Tanutamon heard about the advance of my expeditionary force and that I had set foot on Egyptian territory, he abandoned the city Memphis and, in order to save his (own) life, he fled inside the city Thebes. The kings, governors, (and) officials whom I had stationed in Egypt came to meet me and kissed my feet.  
 iii 29 uš-te-še-ra ḫar-ra-nu  
-iii 30 mUR-da-ma-né-e a-lak ger-ri-ia iš-me-ma  
+iii 30 ᵐUR-da-ma-né-e a-lak ger-ri-ia iš-me-ma  
 iii 31 ša ak-bu-su mi-ṣir KUR.mu-ṣur  
 iii 32 URU.me-em-pi ú-maš-šir-ma a-na šu-zu-ub ZI-tì-šú  
 iii 33 in-na-bit a-na qé-reb URU.ni-iʾ  
@@ -1931,7 +2929,7 @@ iii 36 ina ir-ti-ia il-lik-u-nim-ma ú-na-áš-ši-qu GÌR.II-ia
 iii 37 EGIR mUR-da-ma-né-e ḫar-ra-nu aṣ-bat  
 
 
-iii 37 I took the road in pursuit of Tanutamon (and) I marched as far as the city Thebes, his fortified city. He saw the assault of my battle array and abandoned the city Thebes; (iii 40´) he fled to the city Kipkipi. With the support of (the god) Aššur and the goddess Ištar, I conquered that city (Thebes) in its entirety.  
+iii 37 I took the road in pursuit of Tanutamon (and) I marched as far as the city Thebes, his fortified city. He saw the assault of my battle array and abandoned the city Thebes; (iii 40 he fled to the city Kipkipi. With the support of (the god) Aššur and the goddess Ištar, I conquered that city (Thebes) in its entirety.  
 iii 38 al-lik a-di URU.ni-iʾ URU dan-nu-ti-šú  
 iii 39 ti-ib MÈ-ia e-mur-ma URU.ni-iʾ ú-maš-šir  
 iii 40 in-na-bit a-na URU.ki-ip-ki-pi  
@@ -1940,13 +2938,13 @@ iii 42 ina tukul-ti AN.ŠÁR u d15 ik-šu-da ŠU.II-a-a
 iii 43 KÙ.BABBAR KÙ.GI ni-siq-ti NA₄.MEŠ  
 
 
-iii 43 Silver, gold, precious stones, as much property of his palace as there was, garment(s) with multi-colored trim, linen garments, large horses, people — male and female — two tall obelisks cast with shiny zaḫalû-metal, whose weight was 2,500 talents (and which) stood at a temple gate, (iii 50´) I ripped (them) from where they were erected and took (them) to Assyria. I carried off substantial booty, (which was) without number, from inside the city Thebes. (iii 55´) I made my weapons prevail over Egypt and Kush and (thus) achieved victory. With full hand(s), I returned safely to Nineveh, my capital city.  
+iii 43 Silver, gold, precious stones, as much property of his palace as there was, garment(s) with multi-colored trim, linen garments, large horses, people — male and female — two tall obelisks cast with shiny zaḫalû-metal, whose weight was 2,500 talents (and which) stood at a temple gate, (iii 50 I ripped (them) from where they were erected and took (them) to Assyria. I carried off substantial booty, (which was) without number, from inside the city Thebes. (iii 55 I made my weapons prevail over Egypt and Kush and (thus) achieved victory. With full hand(s), I returned safely to Nineveh, my capital city.  
 iii 44 NÍG.ŠU É.GAL-šú ma-la ba-šú-u  
 iii 45 lu-bul-ti bir-me GADA.MEŠ ANŠE.KUR.RA.MEŠ GAL.MEŠ  
 iii 46 UN.MEŠ zík?-ru ù sin-niš  
 iii 47 2 tim-me MAḪ.MEŠ pi-ti-iq za-ḫa-le-e eb-bi  
 iii 48 ša 2 LIM 5 ME GUN KI.LÁ-šú-nu  
-iii 49 man-za-az KÁ É.KUR  
+iii 49 ᵐan-za-az KÁ É.KUR  
 iii 50 ul-tu man-zal-ti-šú-nu as-suḫ-ma  
 iii 51 al-qa-a a-na KUR aš-šur.KI  
 iii 52 šal-la-tu ka-bit-tu? ina la mì-ni áš-lu-la  
@@ -1960,7 +2958,7 @@ iii 57 a-na NINA.KI URU be-lu-ti-ia
 iii 58 ina šal-ši ger-ri-ia  
 
 
-iii 58 On my third campaign, I marched against Baʾalu, the king of the land Tyre who resides in the middle of the sea. Because he did not honor my royal command(s and) did not obey the pronouncement(s) from my lip(s), I set up outposts against him. To prevent his people from leaving, I reinforced (its) garrison. (iii 65´) By sea and dry land, I took control of (all of) his routes (and thus) cut off (all) access to him. I made water and food for the preservation of their lives scarce for their mouths. (iii 70´) I confined them in a harsh imprisonment from which there was no escape. I constricted (and) cut short their lives. I made them (the people of Tyre) bow down to my yoke.  
+iii 58 On my third campaign, I marched against Baʾalu, the king of the land Tyre who resides in the middle of the sea. Because he did not honor my royal command(s and) did not obey the pronouncement(s) from my lip(s), I set up outposts against him. To prevent his people from leaving, I reinforced (its) garrison. (iii 65 By sea and dry land, I took control of (all of) his routes (and thus) cut off (all) access to him. I made water and food for the preservation of their lives scarce for their mouths. (iii 70 I confined them in a harsh imprisonment from which there was no escape. I constricted (and) cut short their lives. I made them (the people of Tyre) bow down to my yoke.  
 iii 59 UGU mba-ʾa-li LUGAL KUR.ṣur-ri  
 iii 60 a-šib MURUB₄ tam-tim lu-u al-lik  
 iii 61 áš-šú a-mat LUGAL-u-ti-ia la iṣ-ṣu-ru  
@@ -1978,7 +2976,7 @@ iii 72 a?-na GIŠ.ŠUDUN-ia ú-šak-ni-is-su-nu-ti
 iii 73 DUMU.MUNUS ṣi-it lìb-bi-šú u DUMU.MUNUS ŠEŠ.MEŠ-šú  
 
 
-iii 73 He brought before me (his) daughter, his own offspring, and the daughter(s) of his brothers to serve as housekeepers. He brought his son, who had never crossed the sea, to do obeisance to me. I received from him his daughter and the daughter(s) of his brothers, together with a large marriage gift. (iii 80´) I had mercy on him and (then) I gave (his) son, his offspring, back to him.  
+iii 73 He brought before me (his) daughter, his own offspring, and the daughter(s) of his brothers to serve as housekeepers. He brought his son, who had never crossed the sea, to do obeisance to me. I received from him his daughter and the daughter(s) of his brothers, together with a large marriage gift. (iii 80 I had mercy on him and (then) I gave (his) son, his offspring, back to him.  
 iii 74 a-na e-peš MUNUS.AGRIG-ú-ti  
 iii 75 ú-bi-la a-di maḫ-ri-ia  
 iii 76 DUMU-šú šá ma-ti-ma ti-amtu la e-bi-ra  
@@ -1993,21 +2991,21 @@ iii 82 URU.ḪAL.ṢU.MEŠ šá UGU mba-ʾa-li
 iii 82 I dismantled the outposts that I had constructed against Baʾalu, the king of the land Tyre. By sea and dry land, I opened (all of) his routes, as many as I had seized. I received from him his substantial payment. I turned around (lit. “I turned the front of my yoke”) and returned safely to Nineveh, my capital city.  
 iii 83 LUGAL KUR.ṣur-ri ú-rak-ki-su ap-ṭur  
 iii 84 ina tam-tim u na-ba-li ger-re-ti-šú  
-iii 85 ma-la ú-ṣab-bi-tu ap-ti  
-iii 86 ma-da-ta-šú ka-bit-tú am-ḫur-šú  
+iii 85 ᵐa-la ú-ṣab-bi-tu ap-ti  
+iii 86 ᵐa-da-ta-šú ka-bit-tú am-ḫur-šú  
 iii 87 pa-an GIŠ.ŠUDUN-ia ú-ter-ram-ma19  
 iii 88 šal-meš a-tu-ra a-na NINA.KI URU be-lu-ti-ia  
-iii 89 ma-al-ki MURUB₄ tam-tim u LUGAL.MEŠ  
+iii 89 ᵐa-al-ki MURUB₄ tam-tim u LUGAL.MEŠ  
 
 
-iii 89 Rulers (who reside in) the middle of the sea and kings who reside in the high mountains saw the might of these deeds of mine and became frightened of my lordly majesty. (As for) Yakīn-Lû, the king of the land Arwad, Mugallu, the king of the land Tabal, (iii 95´) (and) Sanda-šarme of the land Ḫilakku (Cilicia), who had not bowed down to the kings, my ancestors, they bowed down to my yoke. They brought (their) daughters, their own offspring, to Nineveh to serve as housekeepers, together with a substantial dowry and a large marriage gift, and they kissed my feet. I imposed upon Mugallu an annual payment of large horses.  
+iii 89 Rulers (who reside in) the middle of the sea and kings who reside in the high mountains saw the might of these deeds of mine and became frightened of my lordly majesty. (As for) Yakīn-Lû, the king of the land Arwad, Mugallu, the king of the land Tabal, (iii 95 (and) Sanda-šarme of the land Ḫilakku (Cilicia), who had not bowed down to the kings, my ancestors, they bowed down to my yoke. They brought (their) daughters, their own offspring, to Nineveh to serve as housekeepers, together with a substantial dowry and a large marriage gift, and they kissed my feet. I imposed upon Mugallu an annual payment of large horses.  
 iii 90 a-ši-bu-ti šad-de-e šá-qu-ti  
 iii 91 da-na-an ep-še-ti-ia an-na-a-ti  
 iii 92 e-mu-ru-ma ip-la-ḫu EN-u-ti  
-iii 93 mia-ki-in-lu-u LUGAL KUR.ar-ú-a-da  
-iii 94 mmu-gal-lu LUGAL KUR.tab-a-la  
-iii 95 msa-an-di-šar-me KUR.ḫi-lak-ka-a-a  
-iii 96 ša a-na LUGAL.MEŠ AD.MEŠ-ia la kan-šú  
+iii 93 ᵐia-ki-in-lu-u LUGAL KUR.ar-ú-a-da  
+iii 94 ᵐmu-gal-lu LUGAL KUR.tab-a-la  
+iii 95 ᵐsa-an-di-šar-me KUR.ḫi-lak-ka-a-a  
+iii 96 ša a-na LUGAL.MEŠ ᵛAD.MEŠ-ia la kan-šú  
 iii 97 ik-nu-šú a-na GIŠ.ŠUDUN-ia  
 iii 98 DUMU.MUNUS.MEŠ ṣi-it lìb-bi-šú-nu  
 iii 99 it-ti nu-dun-né-e ma-aʾ-di  
@@ -2016,20 +3014,20 @@ iii 101 a-na e-peš MUNUS.AGRIG-ú-ti
 iii 102 a-na NINA.KI ú-bi-lu-nim-ma  
 iii 103 ú-na-áš-ši-qu GÌR.II-ia  
 iii 104 e-li mmu-gal-li ANŠE.KUR.RA.MEŠ GAL.MEŠ  
-iii 105 ma-da-at-tú šat-ti-šam-ma ú-kin EDIN-uš-šú  
+iii 105 ᵐa-da-at-tú šat-ti-šam-ma ú-kin EDIN-uš-šú  
 iii 106 ul-tu mia-ki-in-lu-u LUGAL KUR.a-ru-ad-da  
 
 
-iii 106 After Yakīn-Lû, the king of the land Arwad, had gone to (his) fate, Azi-Baʾal, Abī-Baʾal, (and) Adūnī-Baʾal, the sons of Yakīn-Lû who reside in the middle of the sea, (iii 110´) came up from the middle of the sea, came with their substantial audience gift(s), and kissed my feet. I looked upon Azi-Baʾal with pleasure and installed (him) as king of the land Arwad. (iii 115´) I clothed Abī-Baʾal (and) Adūnī-Baʾal ...  
+iii 106 After Yakīn-Lû, the king of the land Arwad, had gone to (his) fate, Azi-Baʾal, Abī-Baʾal, (and) Adūnī-Baʾal, the sons of Yakīn-Lû who reside in the middle of the sea, (iii 110 came up from the middle of the sea, came with their substantial audience gift(s), and kissed my feet. I looked upon Azi-Baʾal with pleasure and installed (him) as king of the land Arwad. (iii 115 I clothed Abī-Baʾal (and) Adūnī-Baʾal ...  
 iii 107 il-li-ku a-na šim-ti ma-zi-ba-al  
-iii 108 ma-bi-ba-aʾ-al ma-du-ni-ba-aʾ-al  
+iii 108 ᵐa-bi-ba-aʾ-al ma-du-ni-ba-aʾ-al  
 iii 109 DUMU.MEŠ mia-ki-in-lu-u a-šib MURUB₄ tam-tim  
 iii 110 ul-tu MURUB₄ tam-tim e-lu-nim-ma  
 iii 111 it-ti ta-mar-ti-šú-nu ka-bit-tu  
 iii 112 il-lik-ú-nim-ma ú-na-áš-ši-qu GÌR.II-ia  
-iii 113 ma-zi-ba-aʾ-al ḫa-diš ap-pa-lis-ma  
+iii 113 ᵐa-zi-ba-aʾ-al ḫa-diš ap-pa-lis-ma  
 iii 114 a-na LUGAL-ú-ti KUR.a-ru-ad-da áš-kun  
-iii 115 ma-bi-ba-aʾ-al ma-du-ni-ba-aʾ-al  
+iii 115 ᵐa-bi-ba-aʾ-al ma-du-ni-ba-aʾ-al  
 iv 1	  
 
 ... x x x x (x)21  
@@ -2040,7 +3038,7 @@ iv 1 LÚ.gi-mir-a-a LÚ.KÚR ek-ṣu
 
 
 iv 1 (As for) the Cimmerians, a dangerous enemy who had never feared my ancestors, and, with regard to me, had not grasped the feet of my royal majesty, with the support of (the god) Aššur (and) the goddess Ištar, my lords, he (Gyges) clamped (them) in manacles, handcuffs, (and) neck-stocks and sent (them) before me, together with his substantial audience gift(s).  
-iv 2 ša la ip-tal-la-ḫu AD.MEŠ-ia  
+iv 2 ša la ip-tal-la-ḫu ᵛAD.MEŠ-ia  
 iv 3 ù ia-a-ti la iṣ-ba-tú GÌR.II LUGAL-ti-ia  
 iv 4 ina tukul-ti AN.ŠÁR d15 EN.MEŠ-ia  
 iv 5 ina GIŠ.ṣi-iṣ-ṣi šat qa-ti GIŠ.ši-ga-ri  
@@ -2051,10 +3049,10 @@ iv 7 ú-še-bi-la a-di maḫ-ri-ia
 iv 8 ina 4 ger-ri-ia a-na URU.qir-bít  
 
 
-iv 8 On my fourth campaign, I marched to the city Qirbit, which is inside (Mount) Ḫarēḫasta (lit. “the city Ḫarēḫasta”), (iv 10´) since Tandāya, their city ruler, had never bowed down to the yoke of the kings, my ancestors, and the people living in the city Qirbit were constantly plundering the land Yamutbal. (iv 15´) With the support of the deities Aššur, Sîn, Šamaš, Bēl (Marduk), Nabû, Ištar of Nineveh, (and) Ištar of Arbela, I conquered (and) plundered that city. (As for) Tandāya, their city ruler, I took (him) to Assyria together with captives from his city.  
+iv 8 On my fourth campaign, I marched to the city Qirbit, which is inside (Mount) Ḫarēḫasta (lit. “the city Ḫarēḫasta”), (iv 10 since Tandāya, their city ruler, had never bowed down to the yoke of the kings, my ancestors, and the people living in the city Qirbit were constantly plundering the land Yamutbal. (iv 15 With the support of the deities Aššur, Sîn, Šamaš, Bēl (Marduk), Nabû, Ištar of Nineveh, (and) Ištar of Arbela, I conquered (and) plundered that city. (As for) Tandāya, their city ruler, I took (him) to Assyria together with captives from his city.  
 iv 9 šá qé-reb URU.ḫa-re-e-ḫa-as-ta lu al-lik  
 iv 10 ša mta-an-da LÚ.EN.URU-šú-nu  
-iv 11 a-na LUGAL.MEŠ AD.MEŠ-ia la ik-nu-šú a-na GIŠ.ŠUDUN  
+iv 11 a-na LUGAL.MEŠ ᵛAD.MEŠ-ia la ik-nu-šú a-na GIŠ.ŠUDUN  
 iv 12 ù UN.MEŠ a-ši-bu-ti URU.qir-bít  
 iv 13 ka-a-a-an iḫ-ta-nab-ba-tu  
 iv 14 ḫu-bu-ut KUR.ia-mut-ba-li  
@@ -2098,7 +3096,7 @@ iv 23 ú-še-ṣa-am-ma šal-la-tiš am-nu
 iv 24 maḫ-še-e-ri a-lak ger-ri-ia iš-me-ma  
 
 
-iv 24' Aḫšēri heard about the advance of my expeditionary force and abandoned the city Izirtu, his royal city. He fled to the city Atrāna, a city upon which he relied, (and) took refuge (there). I surrounded the cities Izirtu, Urmēte (Armaet), (and) Uzbia (Izibia), his fortified cities. (iv 30´´) I confined the people living in those cities and (thus) constricted (and) cut short their lives. I conquered, destroyed, demolished, (and) burned that district with fire. I laid waste to (an area of) fifteen days march and poured out (over it) the silence (of desolation).  
+iv 24' Aḫšēri heard about the advance of my expeditionary force and abandoned the city Izirtu, his royal city. He fled to the city Atrāna, a city upon which he relied, (and) took refuge (there). I surrounded the cities Izirtu, Urmēte (Armaet), (and) Uzbia (Izibia), his fortified cities. (iv 30´ I confined the people living in those cities and (thus) constricted (and) cut short their lives. I conquered, destroyed, demolished, (and) burned that district with fire. I laid waste to (an area of) fifteen days march and poured out (over it) the silence (of desolation).  
 iv 25 ú-maš-šir URU.i-zir-tú URU LUGAL-ti-šú  
 iv 26 a-na URU.at-ra-a-na URU tukul-ti-šú  
 iv 27 in-na-bit e-ḫu-uz mar-qí-tu  
@@ -2115,7 +3113,7 @@ iv 36 ina me-ti-iq ger-ri-ia
 
 iv 36' In the course of my campaign, I conquered, burned with fire, (and) plundered the cities in the environs of the city Paddira, which the Manneans had taken away (and) appropriated for themselves in the time of the kings, my ancestors. I returned those cities to the territory of Assyria.  
 iv 37 URU.MEŠ šá li-me-et URU.pad-di-ri  
-iv 38 ša ina ter-ṣi LUGAL.MEŠ AD.MEŠ-ia KUR.man-na-a-a e-ki-mu  
+iv 38 ša ina ter-ṣi LUGAL.MEŠ ᵛAD.MEŠ-ia KUR.man-na-a-a e-ki-mu  
 iv 39 a-na ra-ma-ni-šú-nu ú-ter-ru  
 iv 40 ak-šu-ud ina dGIŠ.BAR aq-mu áš-lu-la šal-la-sún  
 iv 41 URU.MEŠ šá-a-tu-nu a-na mi-ṣir KUR aš-šur.KI ú-ter-ra  
@@ -2144,10 +3142,10 @@ iv 57 ak-bu-sa mi-ṣir KUR aš-šur.KI
 iv 58 URU.bi-ru-a URU.LUGAL-iq-bi  
 
 
-iv 58' (As for) the cities Birrūa, Šarru-iqbi, (and) Gusinê, cities that were formerly within the territory of Assyria which the Manneans had taken away in the time of the kings, my ancestors, I conquered those settlements. I tore the land Mannea apart from within. (iv 65´´) I carried off to Assyria (their) horses, (their) equipment, (and) their implements of war. I reorganized those cities (and) returned (them) to the territory of Assyria.  
+iv 58' (As for) the cities Birrūa, Šarru-iqbi, (and) Gusinê, cities that were formerly within the territory of Assyria which the Manneans had taken away in the time of the kings, my ancestors, I conquered those settlements. I tore the land Mannea apart from within. (iv 65´ I carried off to Assyria (their) horses, (their) equipment, (and) their implements of war. I reorganized those cities (and) returned (them) to the territory of Assyria.  
 iv 59 URU.gu-si-né-e URU.MEŠ maḫ-ru-u-te  
 iv 60 ša mi-ṣir KUR aš-šur.KI  
-iv 61 ša ina ter-ṣi LUGAL.MEŠ AD.MEŠ-ia  
+iv 61 ša ina ter-ṣi LUGAL.MEŠ ᵛAD.MEŠ-ia  
 iv 62 e-ki-mu KUR.man-na-a-a  
 iv 63 da-ád-me šá-a-tu-nu ak-šu-ud  
 iv 64 KUR.man-na-a-a ul-tu lìb-bi as-suḫ  
@@ -2165,7 +3163,7 @@ iv 72 ina SILA URU-šú id-du-u ADDA-šu
 iv 73 EGIR-nu mú-a-al-li-i DUMU-šú  
 
 
-iv 73' Afterwards, Uallî, his son, sat on his throne. He saw the might of the deities Aššur, Sîn, Šamaš, Bēl (Marduk) and Nabû, Ištar of Nineveh, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, the great gods, my lords, and bowed down to my yoke. For the preservation of his (own) life, he opened up his hands to me (and) (iv 80´´) made an appeal to my lordly majesty. He sent Erisinni, his heir designate, to Nineveh and he kissed my feet. I had mercy on him. I dispatched my messenger with (a message of) goodwill to him. (v 1) He sent me (his) daughter, his own offspring, to serve as a housekeeper. (As for) his former payment, which they had discontinued in the time of the kings, my ancestors, they carried (it) before me. I added thirty horses to his former payment and imposed (it) upon him.  
+iv 73' Afterwards, Uallî, his son, sat on his throne. He saw the might of the deities Aššur, Sîn, Šamaš, Bēl (Marduk) and Nabû, Ištar of Nineveh, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, the great gods, my lords, and bowed down to my yoke. For the preservation of his (own) life, he opened up his hands to me (and) (iv 80´ made an appeal to my lordly majesty. He sent Erisinni, his heir designate, to Nineveh and he kissed my feet. I had mercy on him. I dispatched my messenger with (a message of) goodwill to him. (v 1) He sent me (his) daughter, his own offspring, to serve as a housekeeper. (As for) his former payment, which they had discontinued in the time of the kings, my ancestors, they carried (it) before me. I added thirty horses to his former payment and imposed (it) upon him.  
 iv 74 ú-šib i-na GIŠ.GU.ZA-šú  
 iv 75 da-na-an AN.ŠÁR d30 dUTU dEN u dAG  
 iv 76 d15 šá NINA.KI d15 šá LÍMMU-DINGIR.KI dMAŠ dnusku dU.GUR24  
@@ -2178,7 +3176,7 @@ iv 82 a-na NINA.KI iš-pur-am-ma
 iv 83 ú-na-áš-ši-qa GÌR.II-ia  
 iv 84 re-e-mu ar-ši-šú LÚ.A KIN-ia šá šul-me ú-ma-ʾe-er EDIN-uš-šú  
 v 1 DUMU.MUNUS ṣi-it lìb-bi-šú ú-še-bi-la a-na e-peš MUNUS.AGRIG-u-ti  
-v 2 ma-da-at-ta-šú maḫ-ri-tú ša ina tar-ṣi LUGAL.MEŠ AD.MEŠ-ia  
+v 2 ma-da-at-ta-šú maḫ-ri-tú ša ina tar-ṣi LUGAL.MEŠ ᵛAD.MEŠ-ia  
 v 3 ú-šab-ṭi-lu iš-šu-u-ni a-di maḫ-ri-ia  
 v 4 30 ANŠE.KUR.RA.MEŠ UGU ma-da-at-ti-šú  
 v 5 maḫ-ri-ti ú-rad-di-ma e-mì-is-su  
@@ -2211,7 +3209,7 @@ v 23 a-na NINA.KI ina maḫ-ri-ia ú-bil-u-ni
 v 24 ina 6-ši? ger-ri-ia UGU mur-ta-ki MAN KUR.ELAM.MA.KI lu-u al-lik  
 
 
-(v 24) On my sixth campaign, I marched against Urtaku, the king of the land Elam who did not remember the kindness of the father who had engendered me (nor) did he respect my friendship. After famine occurred in the land Elam (and) hunger had set in, I sent to him grain, (which) sustains the live(s) of people, and (thus) held him by the hand. (v 30) (As for) his people, who had fled on account of the famine and settled in Assyria until it rained (again) in his land (and) harvests grew — I sent those people who had stayed alive in my land (back) to him. But (as for) the Elamite whose aggression I had not thought possible (lit. “I did not speak with my heart”) (and) a fight with whom I had not contemplated — Bēl-iqīša, the Gambulian, Nabû-šuma-ēreš, the šandabakku (governor of Nippur), (v 40) servants who belonged to me, (and) Marduk-šuma-ibni, a eunuch of Urtaku who had sided with them, incited Urtaku, the king of the land Elam, with lies to fight with the land of Sumer and Akkad.  
+(v 24) On my sixth campaign, I marched against Urtaku, the king of the land Elam who did not remember the kindness of the father who had installed me (nor) did he respect my friendship. After famine occurred in the land Elam (and) hunger had set in, I sent to him grain, (which) sustains the live(s) of people, and (thus) held him by the hand. (v 30) (As for) his people, who had fled on account of the famine and settled in Assyria until it rained (again) in his land (and) harvests grew — I sent those people who had stayed alive in my land (back) to him. But (as for) the Elamite whose aggression I had not thought possible (lit. “I did not speak with my heart”) (and) a fight with whom I had not contemplated — Bēl-iqīša, the Gambulian, Nabû-šuma-ēreš, the šandabakku (governor of Nippur), (v 40) servants who belonged to me, (and) Marduk-šuma-ibni, a eunuch of Urtaku who had sided with them, incited Urtaku, the king of the land Elam, with lies to fight with the land of Sumer and Akkad.  
 v 25 ša MUN AD DÙ-ia la ḫa-as-su la iṣ-ṣu-ru ib-ru-ti  
 v 26 ul-tu ina KUR.ELAM.MA.KI su-un-qu iš-ku-nu27  
 v 27 ib-ba-šú-ú né-eb-re-tu  
@@ -2336,7 +3334,7 @@ vi 1 I made an appeal to her divinity, while my tears were flowing, saying:
 vi 2 um-ma dbe-let URU.LÍMMU-DINGIR.KI  
 
 
-(vi 2'b) “O Divine Lady of the city Arbela! I, Ashurbanipal, king of Assyria, the creation of your hands whom (the god) Aššur — the father who had engendered you — requires, (vi 5´) whose name he has called to restore sanctuaries, to successfully complete their rituals, to protect their secret(s), (and) to please their hearts: I am assiduous towards your places (of worship). I have come to revere your divinity (vi 10´) and successfully complete your rituals. However, he, Teumman, the king of the land Elam who does not respect the gods, is fully prepared to fight with my troops.”  
+(vi 2'b) “O Divine Lady of the city Arbela! I, Ashurbanipal, king of Assyria, the creation of your hands whom (the god) Aššur — the father who had installed you — requires, (vi 5 whose name he has called to restore sanctuaries, to successfully complete their rituals, to protect their secret(s), (and) to please their hearts: I am assiduous towards your places (of worship). I have come to revere your divinity (vi 10 and successfully complete your rituals. However, he, Teumman, the king of the land Elam who does not respect the gods, is fully prepared to fight with my troops.”  
 vi 3 a-na-ku mAN.ŠÁR-DÙ-A MAN KUR aš-šur.KI  
 vi 4 bi-nu-ut ŠU.II-ki šá iḫ-šu-ḫu-šú AN.ŠÁR AD ba-nu-ki  
 vi 5 a-na ud-du-uš eš-re-e-ti  
@@ -2351,8 +3349,8 @@ vi 13 ku-uṣ-ṣur ka-li a-na mit-ḫu-ṣi ERIM.ḪI.A-ia
 vi 14 um-ma at-ti dbe-let be-le-e-ti  
 
 
-vi 14 “You, the divine lady of ladies, the goddess of war, the lady of battle, the advisor of the gods — her ancestors — the one who speaks good thing(s) about me before (the god) Aššur — the father who had engendered you — (so that) at the glance of his pure eyes he desired me to be king — with regard to Teumman, the king of the land Elam (vi 20´) who placed a burden on (the god) Aššur — the king of the gods, the father who had engendered you — he mustered his troops, prepared for battle, (and) is sharpening his weapons in order to march to Assyria.”  
-vi 15 i-lat MURUB₄ be-let MÈ ma-li-kàt DINGIR.MEŠ AD.MEŠ-šá  
+vi 14 “You, the divine lady of ladies, the goddess of war, the lady of battle, the advisor of the gods — her ancestors — the one who speaks good thing(s) about me before (the god) Aššur — the father who had installed you — (so that) at the glance of his pure eyes he desired me to be king — with regard to Teumman, the king of the land Elam (vi 20 who placed a burden on (the god) Aššur — the king of the gods, the father who had installed you — he mustered his troops, prepared for battle, (and) is sharpening his weapons in order to march to Assyria.”  
+vi 15 i-lat MURUB₄ be-let MÈ ma-li-kàt DINGIR.MEŠ ᵛAD.MEŠ-šá  
 vi 16 ša ina ma-ḫar AN.ŠÁR AD ba-ni-ki  
 vi 17 MUNUS.SIG₅ taq-bi-i ina ni-iš IGI.II-šú KÙ.MEŠ  
 vi 18 iḫ-šu-ḫa-an-ni a-na LUGAL-u-ti  
@@ -2394,7 +3392,7 @@ vi 38 ... x x31
 vi 1 nin-gu-tú šu-kun nu-ʾi-id DINGIR-u-ti  
 
 
-vi 1' “‘make music, (and) revere my divinity. In the meantime, I will go (and) accomplish this task, (thus) I will let (you) achieve your heart’s desire. Your face will not become pale, your feet will not tremble, (vi 5´´) you will not wipe off your sweat in the thick of battle.’ She took you into her sweet embrace and protected your entire body. Fire flared up in front of her. She came out furiously (and) splendidly and (vi 10´´) went to conquer her enemy. She directed her attention towards Teumman, the king of the land Elam with whom she was angry.”  
+vi 1' “‘make music, (and) revere my divinity. In the meantime, I will go (and) accomplish this task, (thus) I will let (you) achieve your heart’s desire. Your face will not become pale, your feet will not tremble, (vi 5´ you will not wipe off your sweat in the thick of battle.’ She took you into her sweet embrace and protected your entire body. Fire flared up in front of her. She came out furiously (and) splendidly and (vi 10´ went to conquer her enemy. She directed her attention towards Teumman, the king of the land Elam with whom she was angry.”  
 vi 2 a-di al-la-ku šip-ru šú-a-tú ep-pe-šú  
 vi 3 ú-šak-šá-du ṣu-um-me-rat lìb-bi-ka  
 vi 4 pa-nu-ka ul ur-raq ul i-nàr-ru-ṭa GÌR.II-ka  
@@ -2409,7 +3407,7 @@ vi 12 ša ug-gu-ga-at pa-nu-uš-šá taš-kun
 vi 13 ina ITI.KIN ši-pir dINANNA.MEŠ i-sin-ni AN.ŠÁR ṣi-i-ri  
 
 
-vi 13' In the month Ulūlu (VI), “the work of the goddesses,” the festival of the exalted (god) Aššur, the month of the god Sîn, the light of heaven and netherworld, (vi 15´´) I trusted in the decision of the bright divine light (Sîn) and the message of the goddess Ištar, my lady, which cannot be changed. I mustered my battle troops, warriors who dart about in the thick of battle by the command of the deities Aššur, Sîn, and Ištar. (vi 20´´) I set out on the path against Teumman, the king of the land Elam, and took the direct road.  
+vi 13' In the month Ulūlu (VI), “the work of the goddesses,” the festival of the exalted (god) Aššur, the month of the god Sîn, the light of heaven and netherworld, (vi 15´ I trusted in the decision of the bright divine light (Sîn) and the message of the goddess Ištar, my lady, which cannot be changed. I mustered my battle troops, warriors who dart about in the thick of battle by the command of the deities Aššur, Sîn, and Ištar. (vi 20´ I set out on the path against Teumman, the king of the land Elam, and took the direct road.  
 vi 14 ITI d30 na-an-nàr AN-e u KI-tim  
 vi 15 at-kil a-na EŠ.BAR dŠEŠ.KI-ri nam-ri  
 vi 16 ù ši-pir d15 GAŠAN-ia ša la in-nen-nu-u  
@@ -2421,7 +3419,7 @@ vi 21 ur-ḫu aṣ-bat-ma uš-te-še-ra ḫar-ra-nu
 vi 22 el-la-mu-u-a mte-um-man MAN KUR.ELAM.MA.KI  
 
 
-vi 22' Before me, Teumman, the king of the land Elam, set up camp in the city Bīt-Imbî. He heard about the entry of my royal majesty into (the city) Dēr and (vi 25´´b) fear took hold of him. Teumman became frightened, turned around, (and) entered the city Susa. In order to save his (own) life, he distributed silver (and) gold to the people of his land. (vi 30´´) He redeployed his allies, who march at his side, to his front and amassed (them) before me. He established the Ulāya River as his defensive position (and) kept (me from) the watering places.  
+vi 22' Before me, Teumman, the king of the land Elam, set up camp in the city Bīt-Imbî. He heard about the entry of my royal majesty into (the city) Dēr and (vi 25´´b) fear took hold of him. Teumman became frightened, turned around, (and) entered the city Susa. In order to save his (own) life, he distributed silver (and) gold to the people of his land. (vi 30´ He redeployed his allies, who march at his side, to his front and amassed (them) before me. He established the Ulāya River as his defensive position (and) kept (me from) the watering places.  
 vi 23 ina URU.É-mim-bi-i na-di? ma?-dak-tu?  
 vi 24 e-reb LUGAL-ti-ia šá qé-reb BÀD.AN.KI  
 vi 25 iš-me-e-ma iṣ-bat-su ḫat-tu  
@@ -2627,7 +3625,7 @@ it-ti LÚ.NAR.MEŠ e-piš nin-gu-ti42
 	Lacuna	  
 
 	Lacuna  
-vii 1 mdAG-SIG₅-iq ina GÍR AN.BAR šib-bi-šú is-ḫu-la kar-as-su  
+vii 1 ᵐdAG-SIG₅-iq ina GÍR AN.BAR šib-bi-šú is-ḫu-la kar-as-su  
 
 
 vii 1 Nabû-damiq stabbed himself in the stomach with his iron belt-dagger.  
@@ -2639,36 +3637,36 @@ vii 3 ina GABA KÁ.GAL MURUB₄ URU ša URU.NINA
 vii 4 ú-maḫ-ḫi-ra maḫ-ḫu-riš  
 vii 5 áš-šú da-na-an AN.ŠÁR u d15 EN.MEŠ-ia UN.MEŠ kul-lu-me  
 vii 6 ni-kis SAG.DU mte-um-man MAN KUR.ELAM.MA.KI  
-vii 7 mIBILA-a-a DUMU mdAG-sa-lim  
+vii 7 ᵐIBILA-a-a DUMU mdAG-sa-lim  
 
 
-vii 7 (As for) Aplāya, son of Nabû-salim, grandson of Marduk-apla-iddina (II) (Merodach-baladan), (vii 10´) whose father had fled to the land Elam before the father of the father who had engendered me — after I had installed Ummanigaš (Ḫumban-nikaš II) as king in the land Elam, he (Ummanigaš) seized Aplāya, son of Nabû-salim, (and) sent (him) before me.  
+vii 7 (As for) Aplāya, son of Nabû-salim, grandson of Marduk-apla-iddina (II) (Merodach-baladan), (vii 10 whose father had fled to the land Elam before the father of the father who had installed me — after I had installed Ummanigaš (Ḫumban-nikaš II) as king in the land Elam, he (Ummanigaš) seized Aplāya, son of Nabû-salim, (and) sent (him) before me.  
 vii 8 DUMU DUMU mdAMAR.UTU-A-AŠ  
 vii 9 ša la-pa-an AD AD ba-ni-ia  
 vii 10 AD-šú in-nab-tu a-na KUR.ELAM.MA.KI  
 vii 11 ul-tu mum-man-i-gaš qé-reb KUR.ELAM.MA.KI áš-ku-nu a-na LUGAL-u-ti  
-vii 12 mIBILA-ia DUMU mdAG-sa-lim  
+vii 12 ᵐIBILA-ia DUMU mdAG-sa-lim  
 vii 13 iṣ-bat ú-še-bi-la a-di IGI-ia  
-vii 14 mdu-na-nu msa-am-gu-nu  
+vii 14 ᵐdu-na-nu msa-am-gu-nu  
 
 
 vii 14 (As for) Dunānu (and) Samgunu, sons of Bēl-iqīša — Gambulians whose ancestors had harassed the kings, my ancestors, and, moreover, (who) themselves disturbed my exercising the kingship — I brought them inside Baltil (Aššur) and the city Arbela to praise (me) in the future.  
 vii 15 DUMU.MEŠ mdEN-BA-šá KUR.gam-bu-la-a-a  
-vii 16 ša AD.MEŠ-šú-un a-na LUGAL.MEŠ AD.MEŠ-ia ú-dal-li-pu-ma  
+vii 16 ša ᵛAD.MEŠ-šú-un a-na LUGAL.MEŠ ᵛAD.MEŠ-ia ú-dal-li-pu-ma  
 vii 17 ù šu-nu ú-nàr-ri-ṭu e-peš LUGAL-ti-ia  
 vii 18 qé-reb bal-til.KI ù URU.LÍMMU-DINGIR  
 vii 19 a-na da-lál aḫ-ra-a-ti ú-bil-šú-nu-ti  
-vii 20 mur-sa-a LUGAL KUR.ur-ar-ṭi43  
+vii 20 ᵐur-sa-a LUGAL KUR.ur-ar-ṭi43  
 
 
-vii 20 (As for) Rusâ, the king of the land Urarṭu, he heard about the might of (the god) Aššur and the goddess Ištar, my lords, and fear of my royal majesty overwhelmed him; he (then) sent his envoys to me in the city Arbela to inquire about my well-being. He ... horses, mules, ..., (vii 25´) horn-shaped (drinking vessels), scepters, ..., (and) purṭû-weapons as his audience gift(s). I made Nabû-damiq (and) Umbadarâ, envoys of the land Elam, stand with writing boards (inscribed with) insolent messages before them.  
+vii 20 (As for) Rusâ, the king of the land Urarṭu, he heard about the might of (the god) Aššur and the goddess Ištar, my lords, and fear of my royal majesty overwhelmed him; he (then) sent his envoys to me in the city Arbela to inquire about my well-being. He ... horses, mules, ..., (vii 25 horn-shaped (drinking vessels), scepters, ..., (and) purṭû-weapons as his audience gift(s). I made Nabû-damiq (and) Umbadarâ, envoys of the land Elam, stand with writing boards (inscribed with) insolent messages before them.  
 vii 21 da-na-an AN.ŠÁR u d15 EN.MEŠ-ia iš-me-e-ma  
 vii 22 pu-luḫ-ti LUGAL-ti-ia is-ḫup-šú-ma  
 vii 23 LÚ.MAḪ.MEŠ-šú a-na šá-ʾa-al šul-mì-ia iš-pu-ra a-na qé-reb URU.LÍMMU-DINGIR.KI  
 vii 24 ANŠE.KUR.RA.MEŠ ANŠE.KUNGA.MEŠ ...  
 vii 25 qar-na-a-te GIŠ.GIDRU.MEŠ ...  
 vii 26 GIŠ.pu-ur-ṭi-i ta-mar-ta-šú ...  
-vii 27 mdAG-SIG₅-iq mum-ba-da-ra-a LÚ.MAḪ.MEŠ ša KUR.ELAM.MA.KI  
+vii 27 ᵐdAG-SIG₅-iq mum-ba-da-ra-a LÚ.MAḪ.MEŠ ša KUR.ELAM.MA.KI  
 vii 28 it-ti GIŠ.ZU.MEŠ ši-pir me-re-eḫ-ti ul-ziz ina maḫ-ri-šú-un  
 vii 29 ša mman-nu-ki-PAP.MEŠ LÚ.2-u šá mdu-na-ni  
 
@@ -2689,21 +3687,21 @@ vii 36 si-it-ti ŠEŠ.MEŠ-šú šá mdu-na-ni
 vii 36 (As for) the rest of the brothers of Dunānu and Aplāya, I killed (them), chopped up their flesh, (and) sent (them) out to be a spectacle in all of the lands.  
 vii 37 ù mIBILA-ia a-ni-ir UZU.MEŠ-šú-nu ú-nak-kis  
 vii 38 ú-še-bil a-na ta-mar-ti ma-ti-tan  
-vii 39 mdAG?-I mdEN-KAR-ir  
+vii 39 ᵐdAG?-I mdEN-KAR-ir  
 
 
-vii 39 (As for) Nabû-naʾid (and) Bēl-ēṭir, sons of Nabû-šuma-ēreš, the šandabakku (governor of Nippur), whose father, the one who had engendered them, had stirred up Urtaku to fight with the land Akkad — the bone<s> of Nabû-šuma-ēreš, which they had taken out of the land Gambulu to Assyria, (vii 45´) I made them (lit. “his sons”) crush those bones opposite the Citadel Gate of Nineveh.  
+vii 39 (As for) Nabû-naʾid (and) Bēl-ēṭir, sons of Nabû-šuma-ēreš, the šandabakku (governor of Nippur), whose father, the one who had installed them, had stirred up Urtaku to fight with the land Akkad — the bone<s> of Nabû-šuma-ēreš, which they had taken out of the land Gambulu to Assyria, (vii 45 I made them (lit. “his sons”) crush those bones opposite the Citadel Gate of Nineveh.  
 vii 40 DUMU.MEŠ mdAG-MU-KAM-eš LÚ.GÚ.EN.NA  
 vii 41 ša AD ba-nu-šú-un mur-ta-ki id-ka-a  
 vii 42 a-na mit-ḫu-ṣi KUR URI.KI  
 vii 43 GÌR.PAD.DU.<MEŠ> mdAG-MU-KAM-eš ša ul-tu qé-reb KUR.gam-bu-li  
 vii 44 il-qu-ú-ni a-na KUR aš-šur.KI  
 vii 45 GÌR.PAD.DU.MEŠ šá-a-ti-na  
-vii 46 mé-eḫ-ret KÁ.GAL MURUB₄ URU NINA.KI  
+vii 46 ᵐé-eḫ-ret KÁ.GAL MURUB₄ URU NINA.KI  
 vii 47 ú-šaḫ-ši-la DUMU.MEŠ-šú  
 
 
-vii 48 mdGIŠ.NU₁₁-MU-GI.NA ...44  
+vii 48 ᵐdGIŠ.NU₁₁-MU-GI.NA ...44  
 
 
 vii 48 (As for) Šamaš-šuma-ukīn, ...  
@@ -2716,28 +3714,28 @@ Lacuna
 viii 1 ú-kab-ba-su KUR.kal-du ina la i-de ṣe-er  
 
 
-viii 1 subduing Chaldea. Secretly, Ummani­gaš (Ḫumban-nikaš II) dispatched them to Undasu, a son of Teumman — a (former) king of the land Elam — (and) Zazaz, the city ruler of the land Pillatu, Parrû, the city ruler of the land Ḫilmu, Atta-metu, the chief archer, (and) Nēšu, a leader of the troops of the land Elam, to help Šamaš-šuma-ukīn (and) to fight with the troops of Assyria (and) (viii 10´) he gave them order(s). Ummanigaš said (to Undasu) as follows, saying: “Go, exact revenge from Assyria for the father who had engendered you.” Undasu, Zazaz, Parrû, (viii 15´) Atta-metu, (and) Nēšu, together with the messengers of Šamaš-šuma-ukīn, (my) hostile brother, set out en route and took the direct road.  
-viii 2 mun-da-si DUMU mte-um-man LUGAL KUR.ELAM.MA.KI  
-viii 3 mza-za-az LÚ.EN.URU KUR.pil-la-te  
-viii 4 mpar-ru-u LÚ.EN.URU KUR.ḫi-il-mu  
-viii 5 mat-ta-me-tu LÚ.GAL GIŠ.PAN  
-viii 6 mné-e-šu a-lik pa-ni ERIM.ḪI.A šá KUR.ELAM.MA.KI  
+viii 1 subduing Chaldea. Secretly, Ummani­gaš (Ḫumban-nikaš II) dispatched them to Undasu, a son of Teumman — a (former) king of the land Elam — (and) Zazaz, the city ruler of the land Pillatu, Parrû, the city ruler of the land Ḫilmu, Atta-metu, the chief archer, (and) Nēšu, a leader of the troops of the land Elam, to help Šamaš-šuma-ukīn (and) to fight with the troops of Assyria (and) (viii 10 he gave them order(s). Ummanigaš said (to Undasu) as follows, saying: “Go, exact revenge from Assyria for the father who had installed you.” Undasu, Zazaz, Parrû, (viii 15 Atta-metu, (and) Nēšu, together with the messengers of Šamaš-šuma-ukīn, (my) hostile brother, set out en route and took the direct road.  
+viii 2 ᵐun-da-si DUMU mte-um-man LUGAL KUR.ELAM.MA.KI  
+viii 3 ᵐza-za-az LÚ.EN.URU KUR.pil-la-te  
+viii 4 ᵐpar-ru-u LÚ.EN.URU KUR.ḫi-il-mu  
+viii 5 ᵐat-ta-me-tu LÚ.GAL GIŠ.PAN  
+viii 6 ᵐné-e-šu a-lik pa-ni ERIM.ḪI.A šá KUR.ELAM.MA.KI  
 viii 7 a-na re-ṣu-ut? mdGIŠ.NU₁₁-MU-GI.NA?45  
 viii 8 a-na mit-ḫu-ṣi ERIM.ḪI.A KUR aš-šur.KI?  
-viii 9 mum-man-i-gaš ú-ma-ʾe-er-šú-nu-ti  
+viii 9 ᵐum-man-i-gaš ú-ma-ʾe-er-šú-nu-ti  
 viii 10 iš-kun-šú-nu-ti ṭè-e-mu  
-viii 11 mum-man-i-gaš ki-a-am iq-bi  
+viii 11 ᵐum-man-i-gaš ki-a-am iq-bi  
 viii 12 um-ma a-lik ul-tu KUR aš-šur.KI  
 viii 13 ter-ra tuk-te-e AD ba-ni-ka  
-viii 14 mun-da-su mza-za-az mpa-ru-u  
-viii 15 mat-ta-me-tu mné-e-šú  
+viii 14 ᵐun-da-su mza-za-az mpa-ru-u  
+viii 15 ᵐat-ta-me-tu mné-e-šú  
 viii 16 it-ti LÚ.A KIN.MEŠ šá mdGIŠ.NU₁₁-MU-GI.NA  
 viii 17 ŠEŠ nak-ri ur-ḫu iṣ-ba-tu-nim-ma  
 viii 18 uš-te-eš-šer-u-ni ḫar-ra-nu  
 viii 19 ERIM.MEŠ MÈ-ia šá ina KUR.man-gi-si šá qé-reb URU.su-man-dir  
 
 
-viii 19 My battle troops (who were stationed) in the land Mangisi — which is inside (the territory of) the city Sumandir — ... ...  
+viii 19 ᵐy battle troops (who were stationed) in the land Mangisi — which is inside (the territory of) the city Sumandir — ... ...  
 viii 20 x x x (x) x ...46  
 	Lacuna	  
 
@@ -2747,14 +3745,14 @@ viii 1 DINGIR.MEŠ tik-le-ia
 
 viii 1' the gods who support me, rendered a just verdict for me concerning Ummanigaš (Ḫumban-nikaš II). Tammarītu rebelled against him and struck him, together with his family, down with the sword. Tammarītu, who was (even) more insolent than Ummanigaš, sat on the throne of the land Elam.  
 viii 2 di-in kit-ti it-ti mum-man-i-gaš i-di-nu-in-ni  
-viii 3 mtam-ma-ri-tu EDIN-uš-šú ib-bal-kit-ma  
+viii 3 ᵐtam-ma-ri-tu EDIN-uš-šú ib-bal-kit-ma  
 viii 4 šá-a-šú ga-du kim-ti-šú ú-ra-sib-šú ina GIŠ.TUKUL.MEŠ  
-viii 5 mtam-ma-ri-tu šá e-la mum-man-i-gaš ek-ṣu  
+viii 5 ᵐtam-ma-ri-tu šá e-la mum-man-i-gaš ek-ṣu  
 viii 6 ú-šib ina GIŠ.GU.ZA KUR.ELAM.MA.KI  
 viii 7 ki-ma šá-a-šú-ma ul-tu ŠU.II mdGIŠ.NU₁₁-MU-GI.NA47  
 
 
-viii 7' Just like him (Ummanigaš), he (Tammarītu) accepted bribes from the hand of Šamaš-šuma-ukīn, did not inquire about the well-being of my royal majesty, (and) (viii 10´´) went to the aid of Šamaš-šuma-ukīn, (my) unfaithful brother, to fight with my troops. As a result of the supplications that I had addressed to (the god) Aššur and the goddess Ištar, they accepted my prayers (and) listened to the utterance(s) of my lip(s). His servants rebelled against him and (viii 15´´) together struck down my adversary. Indabibi, a servant of his who had incited rebellion against him, sat on his throne.  
+viii 7' Just like him (Ummanigaš), he (Tammarītu) accepted bribes from the hand of Šamaš-šuma-ukīn, did not inquire about the well-being of my royal majesty, (and) (viii 10´ went to the aid of Šamaš-šuma-ukīn, (my) unfaithful brother, to fight with my troops. As a result of the supplications that I had addressed to (the god) Aššur and the goddess Ištar, they accepted my prayers (and) listened to the utterance(s) of my lip(s). His servants rebelled against him and (viii 15´ together struck down my adversary. Indabibi, a servant of his who had incited rebellion against him, sat on his throne.  
 viii 8 ṭa-aʾ-tú im-ḫur ul iš-al šu-lum LUGAL-ti-ia  
 viii 9 a-na kit-ri mdGIŠ.NU₁₁-MU-GI.NA  
 viii 10 ŠEŠ la ke-e-nu il-lik-am-ma  
@@ -2763,9 +3761,9 @@ viii 12 ina su-up-pe-e ša AN.ŠÁR u d15 ú-sap-pu-u
 viii 13 un-ni-ni-ia il-qu-ú iš-mu-ú zi-kir NUNDUM-ia  
 viii 14 ARAD.MEŠ-šú EDIN-uš-šú ib-bal-ki-tu-ma  
 viii 15 a-ḫa-meš ú-ra-si-bu EN MUNUS.ḪUL-ia  
-viii 16 min-da-bi-bi ARAD-su ša si-ḫu  
+viii 16 ᵐin-da-bi-bi ARAD-su ša si-ḫu  
 viii 17 UGU-šu ú-šab-šu-ú ú-šib ina GIŠ.GU.ZA-šú  
-viii 18 mtam-ma-ri-tu MAN KUR.ELAM.MA.KI  
+viii 18 ᵐtam-ma-ri-tu MAN KUR.ELAM.MA.KI  
 
 
 viii 18' (As for) Tammarītu, the king of the land Elam who had spoken insolent word(s) on account of the cutting off of the head of Teumman — which a low-ranking soldier of my army had cut off — and his brothers, his family, (and) the seed of his father’s house, together with eighty-five nobles of the land Elam who march at his side, who had flown away from the weapons of (the god) Aššur and the goddess Ištar —  
@@ -2785,7 +3783,7 @@ viii 1'' ... ... ...
 viii 2 GIŠ.PAN.MEŠ ša mtam-<ma>-ri-tu MAN KUR.ELAM.MA.KI qé-reb KUR.ELAM.MA.KI50  
 
 
-viii 2'' (As for) the archers among whom Tam<ma>rītu, the king of the land Elam, had bragged within the land Elam about fighting with the troops of Assyria, now, inside Assyria, those archers (viii 5´´´) were repeatedly coming close to my .... The deities Aššur, Sîn, Šamaš, Bēl (Marduk), Nabû, Ištar of Nineveh, Šarrat-Kidmuri, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, who ... my foes .... Moreover, (as for) the rest, ... ... they (the gods) put (them) to shame.  
+viii 2'' (As for) the archers among whom Tam<ma>rītu, the king of the land Elam, had bragged within the land Elam about fighting with the troops of Assyria, now, inside Assyria, those archers (viii 5´´ were repeatedly coming close to my .... The deities Aššur, Sîn, Šamaš, Bēl (Marduk), Nabû, Ištar of Nineveh, Šarrat-Kidmuri, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, who ... my foes .... Moreover, (as for) the rest, ... ... they (the gods) put (them) to shame.  
 viii 3 uš-tar-ri-ḫu ina lìb-bi-ši-na a-na mit-ḫu-ṣi ERIM.ḪI.A KUR aš-šur.KI  
 viii 4 e-nen-na qé-reb KUR aš-šur.KI GIŠ.PAN.MEŠ šá-ti-na  
 viii 5 uq-ṭa-na-ar-ra-ba a-na ...-ti-ia  
@@ -2795,11 +3793,11 @@ viii 8 ù si-it-tu-ti im-x ... x
 viii 9 ú-BI-šú mdGIŠ.NU₁₁-MU-GI.NA ...  
 
 
-(viii 9'''b) (As for) Šamaš-šuma-ukīn, ..., and the people of the land Akkad, as many as ..., who had abandoned me ... with Ummanigaš (Ḫumban-nikaš II) ... they sided with Indabibi .... He was angry and (the god) Aššur ... (viii 15´´´) commanded me to scatter .... On account of the might of (the god) Aššur .... Moreover, fear of him .... I imposed upon him his punishment ....  
+(viii 9'''b) (As for) Šamaš-šuma-ukīn, ..., and the people of the land Akkad, as many as ..., who had abandoned me ... with Ummanigaš (Ḫumban-nikaš II) ... they sided with Indabibi .... He was angry and (the god) Aššur ... (viii 15´´ commanded me to scatter .... On account of the might of (the god) Aššur .... Moreover, fear of him .... I imposed upon him his punishment ....  
 viii 10 ù UN.MEŠ KUR URI.KI ma-la ...  
 viii 11 ša ia-a-ti ú-maš-ši-ru-in-ni ...  
 viii 12 it-ti mum-man-i-gaš ...  
-viii 13 min-da-bi-bi iš-ku-nu ...  
+viii 13 ᵐin-da-bi-bi iš-ku-nu ...  
 viii 14 e-gu-ug-ma AN.ŠÁR ...  
 viii 15 iq-ba-a sa-pa-aḫ ...  
 viii 16 áš-šú da-na-an AN.ŠÁR? ...  
@@ -2820,7 +3818,7 @@ Lacuna
 ix 1 ul i-ra-áš-ši re-e-mu  
 
 
-ix 1 did not show mercy. The young man abandoned his wife. The father left (his) son whom his heart loved. In order not to see one another in a state of dying, (ix 5´) a person (lit. “he”) made a promise to an enemy, who would kill him. Plague, pestilence, illness, (and) the chills reduced the people of the land Akkad, all of them. Between the city and the steppe, (ix 10´) the swift iron dagger finished them off. The governor, their shepherd, became angry with them and cut down the remainder (of them).  
+ix 1 did not show mercy. The young man abandoned his wife. The father left (his) son whom his heart loved. In order not to see one another in a state of dying, (ix 5 a person (lit. “he”) made a promise to an enemy, who would kill him. Plague, pestilence, illness, (and) the chills reduced the people of the land Akkad, all of them. Between the city and the steppe, (ix 10 the swift iron dagger finished them off. The governor, their shepherd, became angry with them and cut down the remainder (of them).  
 ix 2 eṭ-lu ḫi-rat-su un-da-áš-šir  
 ix 3 AD e-te-zib DUMU na-ram lìb-bi-šú  
 ix 4 šu-ut mi-tu-tu a-ḫa-meš la na-ṭa-li  
@@ -2856,7 +3854,7 @@ ix 24 mu-u-tú lem-nu i-šim?-šu?-ma ina mi-qit dGIBIL₆ id-di-šu-ma52
 ix 1 GIŠ.GIGIR GIŠ.šá šá-da-di ru-kub EN-ti-šú  
 
 
-ix 1' chariot(s), a processional carriage, the vehicle of his lordly majesty, horses, his har­ness-broken (steeds), (and) people — male and female, young (and) old — who had escaped from the clash of arms, (ix 5´´) diʾu-disease, plague, pestilence, and hunger — I captured (them and) carried (them) off to Assyria.  
+ix 1' chariot(s), a processional carriage, the vehicle of his lordly majesty, horses, his har­ness-broken (steeds), (and) people — male and female, young (and) old — who had escaped from the clash of arms, (ix 5´ diʾu-disease, plague, pestilence, and hunger — I captured (them and) carried (them) off to Assyria.  
 ix 2 ANŠE.KUR.RA.MEŠ ṣi-mit-ti ni-ri-i-šú  
 ix 3 UN.MEŠ zi-kir u sin-niš TUR u GAL  
 ix 4 šá la-pa-an mit-ḫu-ṣi GIŠ.TUKUL.MEŠ  
@@ -2872,7 +3870,7 @@ ix 10 ú-nak-ki-sa UZU.MEŠ-šú-un
 ix 11 min-da-bi-bi šá EGIR mtam-ma-ri-tu  
 
 
-ix 11' Indabibi, who sat on the throne of the land Elam after Tammarītu, saw the might of my weapons that had previously prevailed over the land Elam and (ix 15´´) (as for) the Assyrians whom I had sent to aid Nabû-bēl-šumāti, son of Marduk-apla-iddina (II) (Merodach-baladan), with whom they used to march about protecting his land like a friend (and) ally (and) whom Nabû-bēl-šumāti had seized by guile during the night (and) confined in prison, (ix 20´´) Indabibi, the king of the land Elam, released them from prison. So that (they) would intercede (with me), say good thing(s) about him, (and) in order to prevent (me) from doing harm to the territory of his land, he sent (them) before me by the hands of his messenger.  
+ix 11' Indabibi, who sat on the throne of the land Elam after Tammarītu, saw the might of my weapons that had previously prevailed over the land Elam and (ix 15´ (as for) the Assyrians whom I had sent to aid Nabû-bēl-šumāti, son of Marduk-apla-iddina (II) (Merodach-baladan), with whom they used to march about protecting his land like a friend (and) ally (and) whom Nabû-bēl-šumāti had seized by guile during the night (and) confined in prison, (ix 20´ Indabibi, the king of the land Elam, released them from prison. So that (they) would intercede (with me), say good thing(s) about him, (and) in order to prevent (me) from doing harm to the territory of his land, he sent (them) before me by the hands of his messenger.  
 ix 12 ú-ši-bu ina GIŠ.GU.ZA KUR.ELAM.MA.KI  
 ix 13 da-na-an GIŠ.TUKUL.MEŠ-ia e-mur-ma  
 ix 14 šá ul-tú re-e-ši ú-šam-ri-ru UGU KUR.ELAM.MA.KI  
@@ -2889,7 +3887,7 @@ ix 24 ina ŠU.II LÚ.A KIN-šú ú-še-bi-la a-di IGI-ia
 ix 25 e-li mdMUATI-EN-MU.MEŠ DUMU mdAMAR.UTU-A-SUM.NA53  
 
 
-ix 25' With regard to Nabû-bēl-šumāti, son of Marduk-apla-iddina (II) (Merodach-baladan), a servant who belonged to me who had fled (and) gone to the land Elam, and (with regard to) the rest of the Assyrians (ix 30´´) whom Nabû-bēl-šumāti had seized by guile (and) taken (to Elam) with him, I sent (a message) to Indabibi by the hands of his messenger, (saying) as follows: “Since you have not sent me those people, I will come and tear down your cities. (ix 35´´) I will carry off the people of the cities Susa, Madaktu, (and) Ḫidalu. I will remove you from your royal throne and make someone else sit on your throne. The (same) actions that I used to thwart Teumman, I will make happen to you.”  
+ix 25' With regard to Nabû-bēl-šumāti, son of Marduk-apla-iddina (II) (Merodach-baladan), a servant who belonged to me who had fled (and) gone to the land Elam, and (with regard to) the rest of the Assyrians (ix 30´ whom Nabû-bēl-šumāti had seized by guile (and) taken (to Elam) with him, I sent (a message) to Indabibi by the hands of his messenger, (saying) as follows: “Since you have not sent me those people, I will come and tear down your cities. (ix 35´ I will carry off the people of the cities Susa, Madaktu, (and) Ḫidalu. I will remove you from your royal throne and make someone else sit on your throne. The (same) actions that I used to thwart Teumman, I will make happen to you.”  
 ix 26 ARAD da-gíl pa-ni-ia  
 ix 27 šá in-nab-tu il-li-ku a-na KUR.ELAM.MA.KI  
 ix 28 ù si-it-ti DUMU.MEŠ KUR aš-šur.KI  
@@ -2907,7 +3905,7 @@ ix 39 ú-šam-ḫar-ka ka-a-ta
 ix 40 a-di LÚ.A KIN-šú ma-ḫar-šú la i-kaš-šá-du  
 
 
-ix 40' Before his messenger had arrived in his presence (and before) he could report the issuing of my decision to him, with the support of the deities Aššur, Sîn, Šamaš, Bēl (Marduk), Nabû, Ištar of Nineveh, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, who march at my side (and) kill my foes, (ix 45´´) inside the land Elam, they (the Elamites) heard about the progress of the messenger of mine whom I had sent to the city Dēr. Fear of my royal majesty — with which the great gods had endowed me — overwhelmed the land Elam and (then) the people of the land Elam rebelled against Indabibi (and) (ix 50´´) killed him with the sword. They placed Ummanaldašu (Ḫumban-ḫaltaš III), son of Atta-metu, on his (Indabibi’s) throne.  
+ix 40' Before his messenger had arrived in his presence (and before) he could report the issuing of my decision to him, with the support of the deities Aššur, Sîn, Šamaš, Bēl (Marduk), Nabû, Ištar of Nineveh, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, who march at my side (and) kill my foes, (ix 45´ inside the land Elam, they (the Elamites) heard about the progress of the messenger of mine whom I had sent to the city Dēr. Fear of my royal majesty — with which the great gods had endowed me — overwhelmed the land Elam and (then) the people of the land Elam rebelled against Indabibi (and) (ix 50´ killed him with the sword. They placed Ummanaldašu (Ḫumban-ḫaltaš III), son of Atta-metu, on his (Indabibi’s) throne.  
 ix 41 la ú-šá-an-nu-šú ši-kin ṭè-e-me-ia  
 ix 42 ina tukul-ti AN.ŠÁR d30 dUTU dEN dAG  
 ix 43 d15 šá NINA.KI d15 šá URU.LÍMMU-DINGIR dMAŠ dnusku dU.GUR  
@@ -2940,7 +3938,7 @@ x 5 e-diš-ši-šú in-na-bit a-na KUR.na-ba-a-a-te56
 x 6 ma-bi-ia-te-eʾ DUMU mte-eʾ-ri  
 
 
-x 6 Abī-Yateʾ, son of Tēʾri, came to Nineveh and kissed my feet. I concluded a treaty with him to do obeisance to me. I installed him as king in place of Iautaʾ. (x 10´) I imposed upon him gold, eyestones, pappardilû-stone, kohl, camels, (and) prime quality donkeys as annual payment.  
+x 6 Abī-Yateʾ, son of Tēʾri, came to Nineveh and kissed my feet. I concluded a treaty with him to do obeisance to me. I installed him as king in place of Iautaʾ. (x 10 I imposed upon him gold, eyestones, pappardilû-stone, kohl, camels, (and) prime quality donkeys as annual payment.  
 x 7 a-na NINA.KI il-li-kam-ma ú-na-áš-šiq GÌR.II-ia  
 x 8 a-de-e a-na e-peš ARAD-ti-ia it-ti-šú áš-kun  
 x 9 ku-um mia-u-ta-aʾ áš-kun-šú a-na LUGAL-ti  
@@ -2964,7 +3962,7 @@ x 20 mka-ma-as-ḫal-ta-a MAN KUR.ma-ʾa-a-ba57
 x 1 la iš-ʾa-a-lu₄ šu-lum LUGAL-ti-ia  
 
 
-x 1' he (Natnu) had never inquired about the well-being of my royal majesty — after Iautaʾ, the king of the land of the Arabs, a servant who belonged to me, had fled to the land of the Nabayateans and came before Natnu, (x 5´´) Natnu said the following to Iautaʾ, saying: “Can I myself be spared from the grasp of Assyria? Nevertheless, you have made me your stronghold!” Natnu became frightened and distressed. (x 10´´) He sent his messengers to me to inquire about my well-being and kissed my feet. He was constantly beseeching my lordly majesty to conclude a treaty (and) peace agreement, (and) to do obeisance to me. I myself looked with pleasure upon him and turned my benevolent face towards him. I imposed upon him annual tribute payment.  
+x 1' he (Natnu) had never inquired about the well-being of my royal majesty — after Iautaʾ, the king of the land of the Arabs, a servant who belonged to me, had fled to the land of the Nabayateans and came before Natnu, (x 5´ Natnu said the following to Iautaʾ, saying: “Can I myself be spared from the grasp of Assyria? Nevertheless, you have made me your stronghold!” Natnu became frightened and distressed. (x 10´ He sent his messengers to me to inquire about my well-being and kissed my feet. He was constantly beseeching my lordly majesty to conclude a treaty (and) peace agreement, (and) to do obeisance to me. I myself looked with pleasure upon him and turned my benevolent face towards him. I imposed upon him annual tribute payment.  
 x 2 ul-tu mia-u-ta-aʾ LUGAL KUR.a-ri-bi  
 x 3 ARAD da-gíl pa-ni-ia a-na KUR.na-ba-a-a-ti  
 x 4 in-nab-tu-ma il-li-ku ma-ḫar mna-at-nu  
@@ -2987,7 +3985,7 @@ x 18 ú-kin ṣe-ru-uš-šú58
 x 19 ina u₄-me-šú-ma É.GAL? ma-šar-ti? ša? qé-reb? NINA.KI?59  
 
 
-x 19' At that time, the armory that is inside Nineveh, which Esarhaddon — king of Assyria, the father who had engendered me — had built, became old ...  
+x 19' At that time, the armory that is inside Nineveh, which Esarhaddon — king of Assyria, the father who had installed me — had built, became old ...  
 x 20 ša mAN.ŠÁR-PAP-AŠ MAN KUR aš-šur.KI AD DÙ-ia e-pu-šú  
 x 21 il-li-ka la-ba-riš ...60  
 	Lacuna	  
@@ -3010,7 +4008,7 @@ x 8 áš-ṭur-ma a-na aḫ-rat u₄-me e-zib
 x 9 a-na EGIR u₄-me ina LUGAL.MEŠ DUMU.MEŠ-ia  
 
 
-x 9'' In the future, may one of the kings, my descendants, whom (the god) Aššur and the goddess Ištar nominate for ruling over the land and people, renovate its dilapidated section(s) when this armory becomes old and dilapidated. (x 15´´´) May he find an inscribed object bearing my name (and) the name of Esarhaddon, my father, and (then) anoint (it) with oil, make an offering, (and) place (it) with an inscribed object bearing his name. May the great gods, as many as are recorded on this inscribed object, grant him mighty victories, just like me.  
+x 9'' In the future, may one of the kings, my descendants, whom (the god) Aššur and the goddess Ištar nominate for ruling over the land and people, renovate its dilapidated section(s) when this armory becomes old and dilapidated. (x 15´´ May he find an inscribed object bearing my name (and) the name of Esarhaddon, my father, and (then) anoint (it) with oil, make an offering, (and) place (it) with an inscribed object bearing his name. May the great gods, as many as are recorded on this inscribed object, grant him mighty victories, just like me.  
 x 10 ša AN.ŠÁR u d15 a-na be-lut KUR u UN.MEŠ  
 x 11 i-nam-bu-u zi-kir-šú  
 x 12 e-nu-ma É.GAL ma-šar-te? šu-a-tú62  
@@ -3026,7 +4024,7 @@ x 21 da-na-a-nu u li-i-tu
 x 22 ša MU.SAR-ú ši-ṭir MU-ia  
 
 
-x 22'' (As for) the one who destroys an inscribed object bearing my name or the name of Esarhaddon, my father, (or) does not place (it) with an inscribed object of his (own), (x 25´´´) may the gods who reside in heaven and netherworld angrily curse him, overthrow his kingship, (and) make his name (and) seed disappear from the land.  
+x 22'' (As for) the one who destroys an inscribed object bearing my name or the name of Esarhaddon, my father, (or) does not place (it) with an inscribed object of his (own), (x 25´´ may the gods who reside in heaven and netherworld angrily curse him, overthrow his kingship, (and) make his name (and) seed disappear from the land.  
 x 23 šu-me mAN.ŠÁR-PAP-AŠ AD-ia ib-ba-tú  
 x 24 it-ti MU.SAR-i-šú la i-šak-ka-nu  
 x 25 DINGIR.MEŠ a-ši-bu-ti AN-e u KI-tim  
