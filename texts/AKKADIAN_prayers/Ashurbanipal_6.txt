@@ -1551,7 +1551,7 @@ iii 108 ᵐa-bi-ba-aʾ-al ᵐA-du-ni-ba-aʾ-al
 Abī-Baʾal, (and) Adūnī-Baʾal, 
 
 iii 109 𒌉𒎌 𒁹𒅀𒆠𒅔𒇻𒌋 𒀀𒈨 𒉠 𒌓𒁴  
-iii 109 DUMU.MEŠ mia-ki-in-lu-u a-šib MURUB₄ tam-tim  
+iii 109 DUMU.MEŠ ᵐia-ki-in-lu-u a-šib MURUB₄ tam-tim  
 the sons of Yakīn-Lû who reside in the middle of the sea, 
 
 iii 110 𒌌𒌅 𒉠 𒌓𒁴 𒂊𒇻𒉏𒈠  
@@ -1624,7 +1624,7 @@ which is inside (Mount) Ḫarēḫasta (lit. “the city Ḫarēḫasta”),
 
 
 iv 10 𒊭 𒁹𒋫𒀭𒁕 𒇽𒂗𒌷𒋙𒉡
-iv 10 ša mta-an-da LÚ.EN.URU-šú-nu  
+iv 10 ša ᵐta-an-da LÚ.EN.URU-šú-nu  
 iv 10 since Tandāya, their city ruler, 
 
 iv 11 𒀀𒈾 𒈗𒎌 𒀜𒎌𒅀 𒆷 𒅅𒉡𒋙 𒀀𒈾 𒄑𒋙𒂈  
@@ -1671,7 +1671,7 @@ I took (him) to Assyria together with captives from his city.
 
 
 iv 1' 𒁹𒄴𒊺𒂊𒊑 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
-iv 1 maḫ?-še?-e-ri a-lak ger-ri-ia iš-me-ma  
+iv 1 ᵐaḫ?-še?-e-ri a-lak ger-ri-ia iš-me-ma  
 iv 1' Aḫšēri heard about the advance of my expeditionary force 
 
 iv 2' 𒌑𒈠𒀪𒂊𒊏 𒌝𒌋𒌋𒋙  
@@ -1745,180 +1745,273 @@ iv 19' 𒀀𒁲 𒆠𒆗 𒌷𒄿𒆰𒋼 𒀝𒋗𒌓
 iv 19 a-di qé-reb URU.i-zir-te ak-šu-ud  
 as far as the city Izirtu … I conquered
 
-iv 20' 𒀊𒇧  𒀝𒄥  𒀸  𒀭𒄑𒁇 𒀝𒈬
+iv 20' 𒀊 𒇧  𒀝𒄥  𒀸  𒀭𒄑 𒁇 𒀝 𒈬
 iv 20 ap-pul aq-qur ina dGIŠ.BAR aq-mu  
+iv 20 ab-pull a'ground in  𒀭𒄑 pyro charme  ( 𒀝𒈬 AK-ŊU Agni अग्नि 𒀝𒄥 <> καθαιρέω kathairéō  ab-harás הרס )
 destroyed, demolished, (and) burned with fire
 
-
-iv 21' 𒌦𒎌 𒀲𒆳𒊏𒎌 𒀲𒎌 𒄞𒎌 𒇇𒇻𒄭𒀀  
+iv 21' 𒌦𒎌 𒀲𒆳𒊏𒎌     𒀲𒎌      𒄞𒎌   𒇇𒇻.𒄭𒀀  
 iv 21 UN.MEŠ ANŠE.KUR.RA.MEŠ ANŠE.MEŠ GU₄.MEŠ US₅.UDU.ḪI.A  
 I brought people, horses, donkeys, oxen, (and) sheep and goats 
+
 iv 22' 𒌌𒌅 𒆠𒆗 𒌷𒎌 𒃻𒀀𒌅𒉡  
 iv 22 ul-tu qé-reb URU.MEŠ šá-a-tu-nu  
 out of those cities 
+
 iv 23' 𒌑𒊺𒍝𒄠𒈠    𒊩𒆷𒁹      𒄠𒉡  
 iv 23 ú-še-ṣa-am-ma šal-la-tiš am-nu  
-iv 23   zusammen    sold       number
+iv 23   zusammen    sold       manû-number 𓂠
 and I counted (them) as booty.  
 
 iv 24' 𒁹𒄴𒊺𒂊𒊑 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
-iv 24 maḫ-še-e-ri a-lak ger-ri-ia iš-me-ma  
-iv 24' Aḫšēri heard about the advance of my expeditionary force and abandoned the city Izirtu, his royal city. He fled to the city Atrāna, a city upon which he relied, (and) took refuge (there). I surrounded the cities Izirtu, Urmēte (Armaet), (and) Uzbia (Izibia), his fortified cities. (iv 30´ I confined the people living in those cities and (thus) constricted (and) cut short their lives. I conquered, destroyed, demolished, (and) burned that district with fire. I laid waste to (an area of) fifteen days march and poured out (over it) the silence (of desolation).  
+iv 24 ᵐaḫ-še-e-ri a-lak ger-ri-ia iš-me-ma  
+iv 24' Aḫšēri heard about the advance of my expeditionary force 
+
 iv 25' 𒌑𒈦𒋓 𒌷𒄿𒆰𒌓 𒌷 𒈗𒋾𒋙  
 iv 25 ú-maš-šir URU.i-zir-tú URU LUGAL-ti-šú  
+and abandoned the city Izirtu, his royal city. 
+
 iv 26' 𒀀𒈾 𒌷𒀜𒊏𒀀𒈾 𒌷 𒆪𒋾𒋙  
 iv 26 a-na URU.at-ra-a-na URU tukul-ti-šú  
+He fled to the city Atrāna, a city upon which he relied, 
+
 iv 27' 𒅔𒈾𒂍 𒂊𒄷𒊻 𒈥𒆠𒌅  
 iv 27 in-na-bit e-ḫu-uz mar-qí-tu  
+(and) took refuge (there). 
+
 iv 28' 𒌷𒄿𒆰𒌅 𒌷𒌨𒈨𒅀𒋼 𒌷𒊻𒁉𒀀  
 iv 28 URU.i-zir-tu URU.ur-me-ia-te URU.uz-bi-a23  
+the cities Izirtu, Urmēte (Armaet), (and) Uzbia (Izibia), 
+
 iv 29' 𒌷𒎌 𒆗𒉡𒋾𒋙 𒀠𒈨  
 iv 29 URU.MEŠ dan-nu-ti-šú al-me  
+his fortified cities, I surrounded 
+
 
 iv 30' 𒌦𒎌 𒀀𒅆𒁍𒋾 𒌷𒎌 𒃻𒀀𒌅𒉡  
 iv 30 UN.MEŠ a-ši-bu-ti URU.MEŠ šá-a-tu-nu  
+iv 30´ I confined the people living in those cities 
 iv 31' 𒂊𒋛𒅕𒈠 𒀮𒆳𒋢𒉡 𒌑𒋛𒅅 𒌑𒋼𒀀𒊑  
 iv 31 e-si-ir-ma nap-šat-su-nu ú-si-iq ú-kar-ri  
+and (thus) constricted (and) cut short their lives. 
+
 iv 32' 𒈾𒄖𒌋 𒋗𒀀𒌅 𒀝𒋗𒌓  
 iv 32 na-gu-u šu-a-tu ak-šu-ud  
-iv 33' 𒀊𒇧 𒀝𒄥 𒀸 𒀭𒄑𒁇 𒀝𒈬  
-iv 33 ap-pul aq-qur ina dGIŠ.BAR aq-mu  
+iv 32 regionagu thatu {conquered},
+
+iv 33' 𒀊𒇧   𒀝𒄥   𒀸  𒀭𒄑𒁇    𒀝𒈬  
+iv 33 ap-pul  aq-qur  ina dGIŠ.BAR aq-mu  
+iv 33 ab-pull a'ground in  𒀭𒄑 pyro charme   (___ ab-harás הרס )
+I conquered, destroyed, demolished, (and) burned that district with fire. 
+
 iv 34' 𒈠𒋃 𒌋 𒌓𒈨 𒐊 𒌓𒈨 𒌑𒋚𒊑𒅁𒈠  
 iv 34 ma-lak 10 u₄-me 5 u₄-me ú-šaḫ-ri-ib-ma  
-iv 35' 𒃻𒄣𒌝𒈠𒌓 𒀜𒁍𒊌  
+iv 34 march 10 dagum 5 dagum ú-saharaᵇma (√deserted)
+iv 34 I laid waste to (an area of) fifteen days march 
+
+iv 35' 𒃻𒄣𒌝𒈠𒌓   𒀜𒁍𒊌  
 iv 35 šá-qu-um-ma-tú at-bu-uk  
+iv 35 šáqur-mueta   out-beaker 𓎼𓂋𓀁-𓅓𓏱𓏏 "death-silence"
+and poured out (over it) the silence (of desolation).  
+
 iv 36' 𒀸 𒈨𒋾𒅅 𒄫𒊑𒅀  
 iv 36 ina me-ti-iq ger-ri-ia  
+iv 36' In the course of my campaign, 
 
-
-iv 36' In the course of my campaign, I conquered, burned with fire, (and) plundered the cities in the environs of the city Paddira, which the Manneans had taken away (and) appropriated for themselves in the time of the kings, my ancestors. I returned those cities to the territory of Assyria.  
 iv 37' 𒌷𒎌 𒃻 𒇷𒈨𒀉 𒌷𒉻𒁲𒊑  
 iv 37 URU.MEŠ šá li-me-et URU.pad-di-ri  
+the cities in the environs of the city Paddira, …
+
 iv 38' 𒊭 𒀸 𒌁𒍢 𒈗𒎌 𒀜𒎌𒅀 𒆳𒌋𒌋𒈾𒀀𒀀 𒂊𒆠𒈬  
 iv 38 ša ina ter-ṣi LUGAL.MEŠ ᵛAD.MEŠ-ia KUR.man-na-a-a e-ki-mu  
+which the Manneans in the time of the kings, my ancestors,
+
 iv 39' 𒀀𒈾 𒊏𒈠𒉌𒋙𒉡 𒌑𒌁𒊒  
 iv 39 a-na ra-ma-ni-šú-nu ú-ter-ru  
+had taken away (and) appropriated for themselves,
 
 iv 40' 𒀝𒋗𒌓 𒀸 𒀭𒄑𒁇 𒀝𒈬 𒀾𒇻𒆷 𒊩𒆷𒄢  
 iv 40 ak-šu-ud ina dGIŠ.BAR aq-mu áš-lu-la šal-la-sún  
+I conquered, burned with fire, (and) plundered.
+
+
 iv 41' 𒌷𒎌 𒃻𒀀𒌅𒉡 𒀀𒈾 𒈪𒈲 𒆳 𒀸𒋩𒆠 𒌑𒌁𒊏  
 iv 41 URU.MEŠ šá-a-tu-nu a-na mi-ṣir KUR aš-šur.KI ú-ter-ra  
+I returned those cities to the territory of Assyria.  
+
+
 iv 42' 𒈾𒄖𒌋 𒊭 𒌷𒅈𒋛𒅀𒉌𒅖  
 iv 42 na-gu-u ša URU.ar-si-ia-ni-iš  
-
-
-iv 42' I leveled (and) burned with fire the district of the city Arsiyaniš, which is between the city Azaqanani and (lit. “of”) Mount Ḫarsi, which is before the land of the Kumurdeans, who are in the land Mannea. I killed Rayadišadî, their fortress commander, (and) I plundered it (Arsiyaniš).  
+iv 42' The district of the city Arsiyaniš, 
 iv 43' 𒊭 𒁉𒈩 𒌷𒀀𒍝𒋡𒈾𒉌  
 iv 43 ša bi-rit URU.a-za-qa-na-ni  
+which is between the city Azaqanani 
 iv 44' 𒊭 𒆳𒄩𒅈𒋛 𒃻𒁲𒄿  
 iv 44 ša KUR.ḫa-ar-si šá-di-i  
+and (lit. “of”) Mount Ḫarsi, 
 iv 45' 𒊭 𒊕 𒆳𒆪𒈬𒌨𒁕𒀀𒀀  
 iv 45 ša SAG KUR.ku-mu-ur-da-a-a  
+which is before the land of the Kumurdeans, 
 iv 46' 𒊭 𒆠𒆗 𒆳𒌋𒌋𒈾𒀀𒀀  
 iv 46 ša qé-reb KUR.man-na-a-a  
+who are in the land Mannea,
+
 iv 47' 𒊍𒁍𒌦 𒀸 𒀭𒄑𒁇 𒀝𒈬  
 iv 47 as-pu-un ina dGIŠ.BAR aq-mu  
+I leveled (and) burned with fire 
+
 iv 48' 𒁹𒊏𒀀𒀀𒁲𒃻𒁲𒄿 𒇽𒃲 𒄬𒍮𒋙𒉡  
-iv 48 mra-a-a-di-šá-di-i LÚ.GAL ḪAL.ṢU-šú-nu  
+iv 48 ᵐra-a-a-di-šá-di-i LÚ.GAL ḪAL.ṢU-šú-nu  
+Rayadišadî, their fortress commander, 
 iv 49' 𒀀𒂁 𒀾𒇻𒆷 𒊩𒆳𒋢  
 iv 49 a-duk áš-lu-la šal-lat-su  
+I killed and plundered.  
 
 iv 50' 𒈾𒄖𒌋 𒊭 𒌷𒂊𒊑𒄑𒋼𒅀𒈾  
 iv 50 na-gu-u ša URU.e-ri-is-te-ia-na  
+iv 50' {I conquered} the district of the city Eristeyana, 
 
-
-iv 50' I conquered the district of the city Eristeyana, flattened its villages, burned (them) with fire, (and) plundered (them). With the assault of my battle array, I laid waste to his district (and) made his entire land smaller. I returned safely with much plunder (and) substantial booty (and) set foot in Assyrian territory.  
 iv 51' 𒀝𒋗𒌓 𒌷𒎌𒋙 𒊍𒁍𒌦  
 iv 51 ak-šu-ud URU.MEŠ-šú as-pu-un  
+flattened its villages, 
+
 iv 52' 𒀸 𒀭𒄑𒁇 𒀝𒈬 𒀾𒇻𒆷 𒊩𒆳𒋢  
 iv 52 ina dGIŠ.BAR aq-mu áš-lu-la šal-lat-su  
+burned (them) with fire, (and) plundered (them). 
+
 iv 53' 𒀸 𒋾𒅁 𒀞𒅀 𒈾𒄖𒋙 𒌑𒋚𒆗  
 iv 53 ina ti-ib MÈ-ia na-gu-šú ú-šaḫ-rib  
+With the assault of my battle array, 
 iv 54' 𒌑𒍝𒄴𒄭𒅕 𒀮𒄯 𒆳𒋙  
 iv 54 ú-ṣa-aḫ-ḫi-ir nap-ḫar KUR-šú  
+I laid waste to his district (and) made his entire land smaller. 
+
 iv 55' 𒀉𒋾 𒄷𒌒𒋾 𒈠𒀪𒁲  
 iv 55 it-ti ḫu-ub-ti ma-aʾ-di  
 iv 56' 𒊩𒆷𒋾 𒅗𒂍𒋾 𒊩𒎌 𒀀𒌅𒊏  
 iv 56 šal-la-ti ka-bit-ti šal-meš a-tu-ra  
+I returned safely with much plunder (and) substantial booty (and) set foot in Assyrian territory.  
 iv 57' 𒀝𒁍𒊓 𒈪𒈲 𒆳 𒀸𒋩𒆠  
 iv 57 ak-bu-sa mi-ṣir KUR aš-šur.KI  
+
+
 iv 58' 𒌷𒁉𒊒𒀀 𒌷𒈗𒅅𒁉  
 iv 58 URU.bi-ru-a URU.LUGAL-iq-bi  
-
-
-iv 58' (As for) the cities Birrūa, Šarru-iqbi, (and) Gusinê, cities that were formerly within the territory of Assyria which the Manneans had taken away in the time of the kings, my ancestors, I conquered those settlements. I tore the land Mannea apart from within. (iv 65´ I carried off to Assyria (their) horses, (their) equipment, (and) their implements of war. I reorganized those cities (and) returned (them) to the territory of Assyria.  
+iv 58' (As for) the cities Birrūa,
 iv 59' 𒌷𒄖𒋛𒉌𒂊 𒌷𒎌 𒈤𒊒𒌋𒋼  
 iv 59 URU.gu-si-né-e URU.MEŠ maḫ-ru-u-te  
+Šarru-iqbi, (and) Gusinê, cities that were formerly 
+
 
 iv 60' 𒊭 𒈪𒈲 𒆳 𒀸𒋩𒆠  
 iv 60 ša mi-ṣir KUR aš-šur.KI  
+within the territory of Assyria 
 iv 61' 𒊭 𒀸 𒌁𒍢 𒈗𒎌 𒀜𒎌𒅀  
 iv 61 ša ina ter-ṣi LUGAL.MEŠ ᵛAD.MEŠ-ia  
+which the Manneans had taken away in the time of the kings, my ancestors, 
 iv 62' 𒂊𒆠𒈬 𒆳𒌋𒌋𒈾𒀀𒀀  
 iv 62 e-ki-mu KUR.man-na-a-a  
 iv 63' 𒁕𒄉𒈨 𒃻𒀀𒌅𒉡 𒀝𒋗𒌓  
 iv 63 da-ád-me šá-a-tu-nu ak-šu-ud  
-iv 64' 𒆳𒌋𒌋𒈾𒀀𒀀 𒌌𒌅 𒊮𒁉 𒊍𒈽  
+I conquered those settlements. 
+
+iv 64' 𒆳𒌋𒌋𒈾𒀀𒀀      𒌌𒌅 𒊮𒁉 𒊍𒈽  
 iv 64 KUR.man-na-a-a ul-tu lìb-bi as-suḫ  
+I tore the land Mannea apart from within. 
+
+
 iv 65' 𒀲𒆳𒊏𒎌 𒄑𒌀𒇷 𒌑𒉡𒌓 𒀞𒋙𒉡  
 iv 65 ANŠE.KUR.RA.MEŠ GIŠ.til-li ú-nu-ut MÈ-šú-nu  
+iv 65´ (their) horses, (their) equipment, (and) their implements of war. 
 iv 66' 𒀾𒇻𒆷 𒀀𒈾 𒆳 𒀸𒋩𒆠  
 iv 66 áš-lu-la a-na KUR aš-šur.KI  
+I carried off to Assyria 
+
 iv 67' 𒌷𒎌 𒃻𒀀𒌅𒉡 𒀀𒈾 𒌍𒋗𒋾 𒊍𒁁  
 iv 67 URU.MEŠ šá-a-tu-nu a-na eš-šu-ti aṣ-bat  
 iv 68' 𒌑𒌁𒊏 𒀀𒈾 𒈪𒈲 𒆳 𒀸𒋩𒆠  
 iv 68 ú-ter-ra a-na mi-ṣir KUR aš-šur.KI  
-iv 69' 𒁹𒄴𒊺𒂊𒊑 𒆷 𒉺𒌓 𒂗𒋾𒅀  
-iv 69 maḫ-še-e-ri la pa-liḫ EN-ti-ia  
+I reorganized those cities (and) returned (them) to the territory of Assyria.  
 
+iv 69' 𒁹𒄴𒊺𒂊𒊑   𒆷 𒉺𒌓   𒂗𒋾𒅀  
+iv 69 ᵐaḫ-še-e-ri la pa-liḫ EN-ti-ia  
+iv 69' (As for) Aḫšēri, who did not fear my lordly majesty, 
 
+iv 70' 𒀭𒊹 𒀭15  𒅎𒉡  𒋙 𒄿𒈾 𒋗 𒅀 𒀴𒎌 𒋙  
+iv 70 AN.ŠÁR d15 im-nu šú i-na ŠU.II ARAD.MEŠ šú  
+iv 70 Aššur and Ištar manu ina 𐘈𐀮手 shǒu hand Arbeit'his
+Aššur and Ištar placed him in the hands of his servants. 
 
-iv 69' (As for) Aḫšēri, who did not fear my lordly majesty, (the god) Aššur (and) the goddess Ištar placed him in the hands of his servants. The people of his land incited a rebellion against him (and) they cast his corpse into a street of his city.  
-iv 70' 𒀭𒊹 𒀭15 𒅎𒉡𒋙 𒄿𒈾 𒋗𒅀 𒀴𒎌𒋙  
-iv 70 AN.ŠÁR d15 im-nu-šú i-na ŠU.II ARAD.MEŠ-šú  
-iv 71' 𒌦𒎌 𒆳𒋙 𒋛𒄷 𒌋𒅗𒋙 𒌑𒉺𒅁𒋙𒌋  
-iv 71 UN.MEŠ KUR-šú si-ḫu UGU-šú ú-šab-šú-u  
-iv 72' 𒀸 𒋻 𒌷𒋙 𒀉𒁺𒌋 𒇿𒋗  
+iv 71' 𒌦𒎌 𒆳   𒋙   𒋛𒄷  𒌋𒅗𒋙  𒌑𒉺𒅁 𒋙𒌋  
+iv 71 UN.MEŠ   KUR-šú  si-ḫu UGU-šú ú-šab-šú-u  
+iv 71 hombres court-his siege against ú-šab šú / úš-bašú 𓃹
+The people of his land incited a rebellion against him 
+
+iv 72' 𒀸 𒋻    𒌷𒋙     𒀉𒁺𒌋 𒇿𒋗  
 iv 72 ina SILA URU-šú id-du-u ADDA-šu  
+iv 72 ina Siel (calla) yeetu dead su
+(and) they cast his corpse into a street of his city.  
+
+
 iv 73' 𒂕𒉡 𒁹𒌑𒀀𒀠𒇷𒄿 𒌉𒋙  
-iv 73 EGIR-nu mú-a-al-li-i DUMU-šú  
-iv 73' Afterwards, Uallî, his son, sat on his throne. He saw the might of the deities Aššur, Sîn, Šamaš, Bēl (Marduk) and Nabû, Ištar of Nineveh, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, the great gods, my lords, and bowed down to my yoke. For the preservation of his (own) life, he opened up his hands to me (and) (iv 80´ made an appeal to my lordly majesty. He sent Erisinni, his heir designate, to Nineveh and he kissed my feet. I had mercy on him. I dispatched my messenger with (a message of) goodwill to him. (v 1) He sent me (his) daughter, his own offspring, to serve as a housekeeper. (As for) his former payment, which they had discontinued in the time of the kings, my ancestors, they carried (it) before me. I added thirty horses to his former payment and imposed (it) upon him.  
-iv 74' 𒌑𒈨 𒄿𒈾 𒄑𒄖𒍝𒋙  
-iv 74 ú-šib i-na GIŠ.GU.ZA-šú  
+iv 73 EGIR-nu ᵐú-a-al-li-i DUMU-šú  
+iv 73' Afterwards, Uallî, his son, 
+
+iv 74' 𒌑𒈨  𒄿𒈾 𒄑𒄖𒍝    𒋙  
+iv 74 ú-šib i-na GIŠ.GU.ZA šú  
+sat on his throne. 
 
 
 iv 75' 𒁕𒈾𒀭 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒌋 𒀭𒀝  
 iv 75 da-na-an AN.ŠÁR d30 dUTU dEN u dAG  
+{He saw} the might of the deities Aššur, Sîn, Šamaš, Bēl (Marduk) and Nabû, 
+
 iv 76' 𒀭15 𒃻 𒀏𒆠 𒀭15 𒃻 𒇹𒀭𒆠 𒀭𒈦 𒀭𒉺𒌆 𒀭𒌋𒄥  
 iv 76 d15 šá NINA.KI d15 šá LÍMMU-DINGIR.KI dMAŠ dnusku dU.GUR24  
+Ištar of Nineveh, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, 
+
 iv 77' 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀 𒂊𒄯𒈠  
 iv 77 DINGIR.MEŠ GAL.MEŠ EN.MEŠ-ia e-mur-ma  
+the great gods, my lords… He saw,  (𓁹 √mir)
+
 iv 78' 𒅅𒉡𒃻 𒀀𒈾 𒄑𒋙𒂈𒅀  
 iv 78 ik-nu-šá a-na GIŠ.ŠUDUN-ia  
-iv 79' 𒀾𒋙 𒁀𒆳 𒍣𒁴𒋙 𒌒𒈾𒀀𒋙 𒅁𒋫𒀀  
-iv 79 áš-šú ba-laṭ ZI-tì-šú up-na-a-šú ip-ta-a  
+iv 78 a'knee šá ana Ge- zugón-yo
+and bowed down to my yoke. 
+
+iv 79' 𒀾𒋙   𒁀𒆳   𒍣𒁴 𒋙   𒌒𒈾𒀀   𒋙   𒅁𒋫𒀀  
+iv 79 áš-šú ba-laṭ ZI-tì šú, up-na-a šú ip-ta-a  
+iv 79 az-zu belebt zootì su, open𓂩 su opten-I
+For the preservation of his (own) life, he opened up his hands to me (and) 
+
 
 iv 80' 𒌑𒉌𒆷𒀀 𒂗𒌑𒋾  
 iv 80 ú-ṣal-la-a EN-ú-ti  
-iv 81' 𒁹𒂊𒊑𒋛𒅔𒉌 𒌉 𒍑𒋾𒋙  
-iv 81 me-ri-si-in-ni DUMU UŠ-ti-šú  
+iv 80´ made an appeal to my lordly majesty. 
+
+iv 81' 𒁹𒂊𒊑𒋛𒅔𒉌    𒌉 𒍑𒋾 𒋙  
+iv 81 ᵐe-ri-si-in-ni DUMU UŠ-ti šú  
+iv 81 Erisinni, Δohm Geschlecht šú  ( 𒍑𒋾 UŠ-ti <> 𒁁 uš₂ 𒅘 úš "blood(line)" )
+He sent Erisinni, his heir designate, 
+
 iv 82' 𒀀𒈾 𒀏𒆠 𒅖𒁓𒄠𒈠  
 iv 82 a-na NINA.KI iš-pur-am-ma  
+to Nineveh {He sent}
+
 iv 83' 𒌑𒈾𒀾𒅆𒋡 𒄊𒅀𒅀  
 iv 83 ú-na-áš-ši-qa GÌR.II-ia  
-iv 84' 𒊑𒂊𒈬 𒅈𒅆𒋙 𒇽𒀀 𒆥𒅀 𒃻 𒂄𒈨 𒌑𒈠𒀪𒅕 𒂔𒍑𒋙  
-
-iv 84 re-e-mu ar-ši-šú LÚ.A KIN-ia šá šul-me ú-ma-ʾe-er EDIN-uš-šú  
+and he kissed my feet. 
 
 
-
-
-
-
+iv 84' 𒊑𒂊𒈬 𒅈𒅆 𒋙  𒇽𒀀 𒆥𒅀 𒃻 𒂄𒈨 𒌑𒈠𒀪𒅕 𒂔𒍑𒋙  
+iv 84 re-e-mu ar-ši šú  LÚ.A-KIN-ia šá šul-me ú-ma-ʾe-er EDIN-uš-šú  
+iv 84 Reue-my aquire su.   Kunde-yo sa Salame ú-mârchier at@on ṣēru (H! úm-wâruᶴ )
+I had mercy on him.     I dispatched my messenger with (a message of) goodwill to him. 
 
 
 
 
+(v 1) He sent me (his) daughter, his own offspring, to serve as a housekeeper. (As for) his former payment, which they had discontinued in the time of the kings, my ancestors, they carried (it) before me. I added thirty horses to his former payment and imposed (it) upon him.  
 
 
 
