@@ -263,13 +263,13 @@ i 49 lu-le-e ú-mal-li
 i 49 lux[splendor] µfill
 i 49 (and) filled (them) with splendor.  
 
-i 50  𒀭𒊬𒋥𒆤𒈬𒊑 	   𒃻  𒀸  𒊌𒃰  𒊮𒁉𒃻  
+i 50  𒀭𒊬𒋥𒆤𒈬𒊑 	   𒃻  𒀸  𒊌𒃰  𒊮 𒁉𒃻  
 i 50 d šar-rat-kid-mu-ri šá ina ug-gat lìb-bi-šá3  
 i 50 Dea Šarrat-Kidmuri she in angart  leibe 𓄣  
 i 50 The goddess Šarrat-Kidmuri, who in her anger
 
-i 51 𒀜𒌋𒌋𒃻 	 𒂊𒍣𒁍 𒌑𒅆𒁍          𒀀𒊬 𒆷 𒋛𒈠𒋾𒃻  
-i 51 at-man-šá e-zi-bu ú-ši-bu         a-šar la si-ma-ti-šá  
+i 51 𒀜𒌋𒌋𒃻 	  𒂊𒍣𒁍 𒌑𒅆𒁍          𒀀𒊬 𒆷 𒋛𒈠𒋾𒃻  
+i 51 at-man-šá  e-zi-bu ú-ši-bu         a-šar la si-ma-ti-šá  
 i 51 at-mansio𓉧 a'save ú-sibt 𓈞 𓋴 𓀔   𓉔 𓊖 𓂜 seeminty šá
 i 51 had abandoned her inner sanctum (and) had taken up residence in a place not befitting her, 
 
@@ -592,7 +592,7 @@ ii 8 BAD₅.BAD₅-šú iš-ku-nu i-be-lu KUR-su
 ii 8 dibat šú, establish überᵉbēl country ʰsu
 ii 8 defeated him, whose land he ruled over
 
-ii 9 𒁕𒈾𒀭   𒀭𒊹   𒌋 𒀭15 𒀭𒎌      𒃲𒎌    𒂗𒎌𒅀   𒅎𒅆𒈠  
+ii 9 𒁕𒈾𒀭   𒀭𒊹   𒌋 𒀭𐏓𒐊 𒀭𒎌      𒃲𒎌    𒂗𒎌𒅀   𒅎𒅆𒈠  
 ii 9 da-na-an AN.ŠÁR u d15 DINGIR.MEŠ GAL.MEŠ EN.MEŠ-ia im-ši-ma  
 ii 9 Donnern Aššur u ᵖIštar Deon'es großes Bel'es yo    um¬šimaᵏ 𓋴 𓅓 𓐍 𓂜 𓀁 
 forgot the might of (the god) Aššur and the goddess Ištar, the great gods, my lords, and 
@@ -662,7 +662,7 @@ ii 22 adeku.ma™ elite'muqia syraty
 ii 22 I mustered my elite forces 
 
 
-ii 23 𒊭 𒀭𒊹 𒌋 𒀭15 𒌑𒂷𒇻𒌋 𒋡𒀀𒌅𒌋𒀀  
+ii 23 𒊭 𒀭𒊹 𒌋 𒀭𐏓𒐊 𒌑𒂷𒇻𒌋 𒋡𒀀𒌅𒌋𒀀  
 ii 23 ša AN.ŠÁR u d15 ú-mal-lu-u qa-a-tu-u-a  
 ii 23 that Aššur and the Ištar had placed in my hands 
 
@@ -849,7 +849,7 @@ ii 68 iš-ma-a  taḫ-te-e ERIM.ḪI.A-šú
 ii 68 𓋴 𓅓 𓄔 à  Tot des 			Heer.šú  
 ii 68 heard about the defeat of his troops 
 
-ii 69 𒉆𒊑𒊑    𒀭𒊹  𒌋 𒀭15  
+ii 69 𒉆𒊑𒊑    𒀭𒊹  𒌋 𒀭𐏓𒐊  
 ii 69 nam-ri-ri AN.ŠÁR u d15  
 ii 69 namely radiance Aššur y Ištar
 ii 69 The awe-inspiring radiance of (the god) Aššur and the goddess Ištar 
@@ -942,7 +942,7 @@ ii 2 šal?-meš a-tu-ra a-na KUR aš-šur.KI
 ii 2 salv'es re-toura anach KUR Assyria
 ii 2 and returned safely to Assyria.  
 
-ii 3' 𒂕𒉡 𒁹𒉌𒆪𒌑 𒁹𒈗𒇻𒆕𒊑 𒁹𒉺𒀝𒊒𒊒  
+ii 3' 𒂕 𒉡 𒁹𒉌𒆪𒌑 𒁹𒈗𒇻𒆕𒊑 𒁹𒉺𒀝𒊒𒊒  
 ii 3 EGIR-nu ᵐni-ku-ú ᵐLUGAL-lu-dà-ri ᵐpa-aq-ru-ru14  
 ii 3' Afterwards, Necho, Šarru-lū-dāri, (and) Pa-qruru 
 
@@ -1119,7 +1119,7 @@ iii 18 𒅋𒌨 𒉆𒈬𒅆𒋗 𒂕𒉡 𒁹𒌨𒁕𒈠𒉌𒂊 𒌉 𒎐𒋙
 iii 18 il-lik nam-mu-ši-šu EGIR-nu mUR-da-ma-né-e DUMU NIN₉-šú  
 iii 18 Afterwards, Tanutamon, the son of his sister, 
 
-iii 19 𒌑𒈨 𒀸 𒄑𒄖𒍝 𒈗𒋾𒋗  
+iii 19 𒌑𒈨    𒀸 𒄑𒄖𒍝 𒈗𒋾𒋗  
 iii 19 ú-šib ina GIŠ.GU.ZA LUGAL-ti-šu  
 iii 19 sat upon his royal throne. 
 
@@ -1247,7 +1247,7 @@ iii 41 URU šu-a-tú a-na si-ḫir-ti-šú
 iii 41 Ur  thatú   ana  cirty𓇥𓂋𓍘𖥕
 iii 41 {I conquered} that city (Thebes) in its entirety,
 
-iii 42 𒀸 𒆪𒋾 𒀭𒊹 𒌋 𒀭15 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
+iii 42 𒀸 𒆪𒋾 𒀭𒊹 𒌋 𒀭𐏓𒐊 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
 iii 42 ina tukul-ti AN.ŠÁR u d15 ik-šu-da ŠU.II-a-a  
 iii 42 ina tukulti™• Aššur u Ištar sacked/captured 手 šu I / 
 With the support of (the god) Aššur and the goddess Ištar, 
@@ -1598,7 +1598,7 @@ iv 3 𒅇 𒅀𒀀𒋾 𒆷 𒄑𒁀𒌓 𒄊𒅀 𒈗𒋾𒅀
 iv 3 ù ia-a-ti, la iṣ-ba-tú GÌR.II LUGAL-ti-ia  
 and with regard to me, had not grasped the feet of my royal majesty, 
 
-iv 4 𒀸 𒆪𒋾 𒀭𒊹 𒀭15 𒂗𒎌𒅀  
+iv 4 𒀸 𒆪𒋾 𒀭𒊹 𒀭𐏓𒐊 𒂗𒎌𒅀  
 iv 4 ina tukul-ti AN.ŠÁR d15 EN.MEŠ-ia  
 with the support of (the god) Aššur (and) the goddess Ištar, my lords, 
 
@@ -1648,7 +1648,7 @@ iv 15 𒌷  𒋗𒀀𒌅 𒀸 𒆪𒋾 𒀭𒊹 𒀭𒌍 𒀭𒌓
 iv 15 URU šu-a-tu ina tukul-ti AN.ŠÁR d30 dUTU  
 iv 15 With the support of the deities Aššur, Sîn, Šamaš, 
 
-iv 16 𒀭𒂗 𒀭𒀝 𒀭15 𒊭 𒀏𒆠 𒀭15 𒊭 𒌷𒇹𒀭  
+iv 16 𒀭𒂗 𒀭𒀝 𒀭𐏓𒐊 𒊭 𒀏𒆠 𒀭𐏓𒐊 𒊭 𒌷𒇹𒀭  
 iv 16 dEN dAG d15 ša NINA.KI d15 ša URU.LÍMMU-DINGIR  
 Bēl (Marduk), Nabû, Ištar of Nineveh, (and) Ištar of Arbela, 
 
@@ -1938,7 +1938,7 @@ iv 69' 𒁹𒄴𒊺𒂊𒊑   𒆷 𒉺𒌓   𒂗𒋾𒅀
 iv 69 ᵐaḫ-še-e-ri la pa-liḫ EN-ti-ia  
 iv 69' (As for) Aḫšēri, who did not fear my lordly majesty, 
 
-iv 70' 𒀭𒊹 𒀭15  𒅎𒉡  𒋙 𒄿𒈾 𒋗 𒅀 𒀴𒎌 𒋙  
+iv 70' 𒀭𒊹 𒀭𐏓𒐊  𒅎𒉡  𒋙 𒄿𒈾 𒋗 𒅀 𒀴𒎌 𒋙  
 iv 70 AN.ŠÁR d15 im-nu šú i-na ŠU.II ARAD.MEŠ šú  
 iv 70 Aššur and Ištar manu ina 𐘈𐀮手 shǒu hand Arbeit'his
 Aššur and Ištar placed him in the hands of his servants. 
@@ -1967,7 +1967,7 @@ iv 75' 𒁕𒈾𒀭 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒌋 𒀭𒀝
 iv 75 da-na-an AN.ŠÁR d30 dUTU dEN u dAG  
 {He saw} the might of the deities Aššur, Sîn, Šamaš, Bēl (Marduk) and Nabû, 
 
-iv 76' 𒀭15 𒃻 𒀏𒆠 𒀭15 𒃻 𒇹𒀭𒆠 𒀭𒈦 𒀭𒉺𒌆 𒀭𒌋𒄥  
+iv 76' 𒀭𐏓𒐊 𒃻 𒀏𒆠 𒀭𐏓𒐊 𒃻 𒇹𒀭𒆠 𒀭𒈦 𒀭𒉺𒌆 𒀭𒌋𒄥  
 iv 76 d15 šá NINA.KI d15 šá LÍMMU-DINGIR.KI dMAŠ dnusku dU.GUR24  
 Ištar of Nineveh, Ištar of Arbela, Ninurta, Nusku, (and) Nergal, 
 
@@ -1977,7 +1977,7 @@ the great gods, my lords… He saw,  (𓁹 √mir)
 
 iv 78' 𒅅𒉡𒃻 𒀀𒈾 𒄑𒋙𒂈𒅀  
 iv 78 ik-nu-šá a-na GIŠ.ŠUDUN-ia  
-iv 78 a'knee šá ana Ge- zugón-yo
+iv 78 a'knee šá ana Ge- zugón yo
 and bowed down to my yoke. 
 
 iv 79' 𒀾𒋙   𒁀𒆳   𒍣𒁴 𒋙   𒌒𒈾𒀀   𒋙   𒅁𒋫𒀀  
@@ -2017,114 +2017,261 @@ I had mercy on him.     I dispatched my messenger with (a message of) goodwill t
 
 
 v 1 𒌉𒊩 𒍢𒀉 𒊮𒁉𒋙 𒌑𒊺𒁉𒆷 𒀀𒈾 𒂊𒄫 𒊩𒅆𒁾𒌋𒋾  
+
+
+v 1 DUMU.MUNUS ṣi-it lìb-bi-šú ú-še-bi-la a-na e-peš MUNUS.AGRIG-u-ti  
+
 v 2 𒈠𒁕𒀜𒋫𒋙 𒈤𒊑𒌓 𒊭 𒀸 𒋻𒍢 𒈗𒎌 𒀜𒎌𒅀  
+v 2 ma-da-at-ta-šú maḫ-ri-tú ša ina tar-ṣi LUGAL.MEŠ ᵛAD.MEŠ-ia  
 v 3 𒌑𒉺𒅁𒁲𒇻 𒅖𒋗𒌋𒉌 𒀀𒁲 𒈤𒊑𒅀  
+v 3 ú-šab-ṭi-lu iš-šu-u-ni a-di maḫ-ri-ia  
 v 4 𒌍 𒀲𒆳𒊏𒎌 𒌋𒅗 𒈠𒁕𒀜𒋾𒋙  
+v 4 30 ANŠE.KUR.RA.MEŠ UGU ma-da-at-ti-šú  
 v 5 𒈤𒊑𒋾 𒌑𒋥𒁲𒈠 𒂊𒈨𒄑𒋢  
+v 5 maḫ-ri-ti ú-rad-di-ma e-mì-is-su  
 v 6 𒀸 𒌓𒈨𒋙 𒁹𒁉𒊑𒄑𒄩𒀜𒊑 𒇽𒂗𒌷 𒊭 𒆳𒀀𒀀  
+v 6 ina u₄-me-šú mbi-ri-is-ḫa-at-ri LÚ.EN.URU ša mad-a-a  
+
+
+(v 6) At that time, (as for) Birisḫatri, a city ruler of the Medes, (and) Sarati (and) Pariḫi, two sons of Gagî, a city ruler of the land Saḫi, who had cast off the yoke of my lordship, I conquered (and) plundered seventy-five of their fortified cities. I captured them alive (and) brought (them) to Nineveh, my capital city.  
 v 7 𒁹𒊬𒀀𒋾 𒁹𒉺𒊑𒄭 𒈫 𒌉𒎌 𒁹𒂵𒀀𒄀 𒇽𒂗𒌷 𒆳𒊓𒄭  
+v 7 msar-a-ti mpa-ri-ḫi 2 DUMU.MEŠ mga-a-gi LÚ.EN.URU KUR.sa-ḫi  
 v 8 𒊭 𒄑𒇻𒌋 𒄑𒋙𒂈 𒁁𒇻𒋾𒅀  
+v 8 ša? iṣ-lu-u GIŠ.ŠUDUN be-lu-ti-ia25  
 v 9 𒐕𒌋𒐊 𒌷𒎌𒋙𒉡 𒆗𒉡𒋾 𒀝𒋗𒌓  
+v 9 75 URU.MEŠ-šú-nu dan-nu-ti ak-šu-ud  
 v 10 𒀾𒇻𒆷 𒊩𒆳𒄢  
+v 10 áš-lu-la šal-lat-sún  
 v 11 𒃻𒀀𒋙𒉡 𒁄𒂅𒊻𒋢𒉡 𒀸 𒋗𒅀 𒊍𒁁  
+v 11 šá-a-šú-nu bal-ṭu-us-su-nu ina ŠU.II aṣ-bat  
 v 12 𒌑𒁉𒆷 𒀀𒈾 𒀏𒆠 𒌷 𒁁𒇻𒋾𒅀  
+v 12 ú-bi-la a-na NINA.KI URU be-lu-ti-ia  
 v 13 𒁹𒀭𒁕𒊑𒀀 𒇽𒌉𒋫𒀭 𒆳𒌨𒅈𒁲  
+v 13 man-da-ri-a LÚ.tur-ta-an? KUR.ur-ar-ṭi26  
+
+
+(v 13) (As for) Andaria, the field marshal of the land Urarṭu, who had advanced (and) marched during the night to conquer the land (of the city) <Up>pumu and the city Kullimeri, the people living in the city Kullimeri, servants who belonged to me, (v 20) inflicted a heavy defeat on him during the night. They did not spare anyone. They cut off the head of Andaria and they brought (it) to Nineveh, before me.  
 v 14 𒊭 𒀀𒈾 𒅗𒃻𒀜 𒆳𒌒𒁍𒌝𒈨  
+v 14 ša a-na ka-šá-ad KUR.<up>-pu-um-me  
 v 15 𒅇 𒌷𒆰𒇷𒅎𒈨𒊑  
+v 15 ù URU.kul-li-im-me?-ri  
 v 16 𒅕𒁕𒀀 𒅋𒇷𒅗 𒆠𒆗 𒈬𒅆𒋾  
+v 16 ir-da-a il-li-ka qé-reb mu-ši-ti  
 v 17 𒌦𒎌 𒀀𒅆𒁍𒋾 𒌷𒆰𒇷𒅎𒈨𒊑  
+v 17 UN.MEŠ a-ši-bu-ti URU.kul-li-im-me-ri  
 v 18 𒀴𒎌 𒁕𒆸 𒉺𒉌𒅀  
+v 18 ARAD.MEŠ da-gíl pa-ni-ia  
 v 19 𒀸 𒆳 𒈬𒅆 𒁲𒅅𒋫𒋙  
+v 19 ina šat mu-ši di-ik-ta-šú  
 v 20 𒈠𒀪𒊍𒋢 𒄿𒁺𒆪  
+v 20 ma-aʾ-as-su i-du-ku  
 v 21 𒆷 𒂊𒍣𒁍 𒀀𒀀𒌝𒈠  
+v 21 la e-zi-bu a-a-um-ma  
 v 22 𒊕𒁺 𒁹𒀭𒁕𒊑𒀀 𒅅𒆠𒋢𒉏𒈠  
+v 22 SAG.DU man-da-ri-a ik-ki-su-nim-ma  
 v 23 𒀀𒈾 𒀏𒆠 𒀸 𒈤𒊑𒅀 𒌑𒉈𒌋𒉌  
+v 23 a-na NINA.KI ina maḫ-ri-ia ú-bil-u-ni  
+
+
 v 24 𒀸 𒐋𒅆 𒄫𒊑𒅀 𒌋𒅗 𒁹𒌨𒋫𒆠 𒌋𒌋 𒆳𒉏𒈠𒆠 𒇻𒌋 𒀠𒌨  
+v 24 ina 6-ši? ger-ri-ia UGU mur-ta-ki MAN KUR.ELAM.MA.KI lu-u al-lik  
+
+
+(v 24) On my sixth campaign, I marched against Urtaku, the king of the land Elam who did not remember the kindness of the father who had installed me (nor) did he respect my friendship. After famine occurred in the land Elam (and) hunger had set in, I sent to him grain, (which) sustains the live(s) of people, and (thus) held him by the hand. (v 30) (As for) his people, who had fled on account of the famine and settled in Assyria until it rained (again) in his land (and) harvests grew — I sent those people who had stayed alive in my land (back) to him. But (as for) the Elamite whose aggression I had not thought possible (lit. “I did not speak with my heart”) (and) a fight with whom I had not contemplated — Bēl-iqīša, the Gambulian, Nabû-šuma-ēreš, the šandabakku (governor of Nippur), (v 40) servants who belonged to me, (and) Marduk-šuma-ibni, a eunuch of Urtaku who had sided with them, incited Urtaku, the king of the land Elam, with lies to fight with the land of Sumer and Akkad.  
 v 25 𒊭 𒁵 𒀜 𒆕𒅀 𒆷 𒄩𒊍𒋢 𒆷 𒄑𒍮𒊒 𒅁𒊒𒋾  
+v 25 ša MUN AD DÙ-ia la ḫa-as-su la iṣ-ṣu-ru ib-ru-ti  
 v 26 𒌌𒌅 𒀸 𒆳𒉏𒈠𒆠 𒋢𒌦𒄣 𒅖𒆪𒉡  
+v 26 ul-tu ina KUR.ELAM.MA.KI su-un-qu iš-ku-nu27  
 v 27 𒅁𒁀𒋙𒌑 𒉌𒅁𒊑𒌅  
+v 27 ib-ba-šú-ú né-eb-re-tu  
 v 28 𒀭𒊺𒉀 𒁀𒆳 𒍣𒁴 𒌦𒎌  
+v 28 dnisaba ba-laṭ ZI-tim UN.MEŠ  
 v 29 𒌑𒊺𒉈𒋗𒈠 𒊍𒁁 𒋗𒅀𒋢  
+v 29 ú-še-bil-šu-ma aṣ-bat ŠU.II-su  
 v 30 𒌦𒎌𒋙 𒊭 𒆷𒉺𒀭 𒋢𒌦𒆠  
+v 30 UN.MEŠ-šú ša la-pa-an su-un-qí  
 v 31 𒅔𒀮𒌅𒉏𒈠 𒌑𒅆𒁍 𒆠𒆗 𒆳 𒀸𒋩𒆠  
+v 31 in-nab-tu-nim-ma ú-ši-bu qé-reb KUR aš-šur.KI  
 v 32 𒀀𒁲 𒍪𒌦𒉡 𒀸 𒆳𒋙 𒄑𒉡𒉡  
+v 32 a-di zu-un-nu ina KUR-šú iz-nu-nu  
 v 33 𒅁𒁀𒋗𒌑 𒂊𒁍𒊒  
+v 33 ib-ba-šu-ú e-bu-ru  
 v 34 𒌦𒎌 𒃻𒀀𒌅𒉡 𒊭 𒀸 𒆳𒅀 𒅁𒇻𒂅 𒌑𒊺𒉈𒋙𒈠  
+v 34 UN.MEŠ šá-a-tu-nu ša ina KUR-ia ib-lu-ṭu ú-še-bil-šú-ma  
 v 35 𒇽𒂊𒆷𒈬𒌑 𒃻 𒋾𒁍𒊻𒋢  
+v 35 LÚ.e-la-mu-ú šá ti-bu-us-su  
 v 36 𒀉𒋾 𒊮𒁉𒅀 𒆷 𒁕𒀊𒁀𒆪  
+v 36 it-ti lìb-bi-ia la da-ab-ba-ku  
 v 37 𒆷 𒄩𒊍𒊓𒆪 𒍢𒀖𒋢  
+v 37 la ḫa-as-sa-ku ṣe-let-su  
 v 38 𒁹𒂗𒁀𒃻 𒆳𒃵𒁍𒆷𒀀𒀀  
+v 38 mEN-BA-šá KUR.gam-bu-la-a-a  
 v 39 𒁹𒀭𒀝𒈬𒄰𒌍 𒇽𒄘𒂗𒈾  
+v 39 mdAG-MU-KAM-eš LÚ.GÚ.EN.NA  
 v 40 𒀴𒎌 𒁕𒆸 𒉺𒉌𒅀  
+v 40 ARAD.MEŠ da-gíl pa-ni-ia  
 v 41 𒁹𒀭𒀫𒌓𒈬𒆕 𒇽𒋗𒌓 𒊕 𒃻 𒁹𒌨𒋫𒆠  
+v 41 mdAMAR.UTU-MU-DÙ LÚ.šu-ut SAG šá mur-ta-ki  
 v 42 𒊭 𒀉𒋾𒋙𒉡 𒅖𒆪𒉡 𒉿𒄿𒋙  
+v 42 ša it-ti-šú-nu iš-ku-nu pi-i-šú  
 v 43 𒀀𒈾 𒁁𒄷𒍢 𒆳 𒅴𒂠 𒌋 𒌵𒆠  
+v 43 a-na mit-ḫu-ṣi KUR EME.GI₇ u URI.KI  
 v 44 𒀸 𒉿𒅕𒍝𒀀𒋾 𒀉𒆪𒌋𒉌  
+v 44 ina pi-ir-ṣa-a-ti id-ku-u-ni  
 v 45 𒁹𒌨𒋫𒆪 𒈗 𒆳𒉏𒈠𒆠  
+v 45 mur-ta-ku LUGAL KUR.ELAM.MA.KI  
 v 46 𒁹𒌨𒋫𒆪 𒃻 𒆷 𒀝𒊒𒋙  
+v 46 mur-ta-ku šá la ag-ru-šú  
+(v 46) Urtaku, whom I had not antagonized, set his attack in motion (and) hastily brought war to Karduniaš (Babylonia). On account of the assault of the Elamite, (v 50) a messenger came to Nineveh and told me (the news). I was not concerned about this news of Urtaku’s assault. (v 55) (Because) he had regularly sent his envoys (with messages) of peace before me, I dispatched my messenger to see the king of the land Elam. He went quickly, returned, and (v 60) reported to me an accurate report, saying: “The Elamites cover the land Akkad, all of it, like a swarm of locusts. Against Babylon, (his) camp is pitched and (his) military camp is laid.”  
 v 47 𒋡𒁄𒋙 𒀉𒅗𒀀  
+v 47 qa-bal-šú id-ka-a  
+
 v 48 𒀀𒈾 𒆳𒃸𒀭𒂄𒐊𒐋 𒌨𒊑𒄩 𒋫𒄩𒍪  
+v 48 a-na KUR.kár-ddun-ía-àš ur-ri-ḫa ta-ḫa-zu  
+
 v 49 𒀾𒋙 𒋾𒁍𒌓 𒇽𒂊𒆷𒈨𒂊  
+v 49 áš-šú ti-bu-ut LÚ.e-la-me-e  
 v 50 𒇽𒀀 𒆥 𒀀𒈾 𒀏𒆠 𒅋𒌨𒄠𒈠  
+v 50 LÚ.A KIN a-na NINA.KI il-lik-am-ma  
 v 51 𒅅𒁀𒀀 𒅀𒀀𒋾  
+v 51 iq-ba-a ia-a-ti  
 v 52 𒀀𒈠𒋾 𒃻𒀀𒋾𒈾  
+v 52 a-ma-ti šá-a-ti-na  
 v 53 𒊭 𒋾𒁍𒌓 𒁹𒌨𒋫𒆠  
+v 53 ša ti-bu-ut mur-ta-ki  
 v 54 𒌌 𒀾𒁺𒌓 𒀸 𒊮𒁉𒅀  
+v 54 ul áš-du-ud ina lìb-bi-ia  
 v 55 𒋗𒌓 𒇽𒂔𒎌𒋙 𒃻 𒋢𒈝𒈨𒂊  
+v 55 šu-ut LÚ.EDIN.MEŠ-šú šá su-lum-me-e  
 v 56 𒅖𒋫𒀮𒉺𒊏 𒀸 𒈤𒊑𒅀  
+v 56 iš-ta-nap-pa-ra ina maḫ-ri-ia  
 v 57 𒀀𒈾 𒀀𒈥 𒈗 𒆳𒉏𒈠𒆠  
+v 57 a-na a-mar LUGAL KUR.ELAM.MA.KI  
 v 58 𒇽𒀀 𒆥𒅀 𒌑𒈠𒀪𒅕 𒄩𒀭𒁹  
+v 58 LÚ.A KIN-ia ú-ma-ʾe-er ḫa-an-ṭiš  
 v 59 𒅋𒌨 𒄿𒌅𒉘𒈠  
+v 59 il-lik i-tu-ram-ma  
 v 60 𒀀𒈠𒀀𒋾 𒅗𒀀𒀀𒈠𒈾𒀀𒋾  
+v 60 a-ma-a-ti ka-a-a-ma-na-a-ti  
 v 61 𒌑𒃻𒀭𒈾𒀀 𒅀𒀀𒋾  
+v 61 ú-šá-an-na-a ia-a-ti  
 v 62 𒌝𒈠 𒇽𒂊𒆷𒈬𒌑  
+v 62 um-ma LÚ.e-la-mu-ú  
 v 63 𒁶 𒋾𒁍𒌓 𒉅𒄭𒀀  
+v 63 GIM ti-bu-ut BURU₅.ḪI.A  
 v 64 𒅗𒁴 𒆳 𒌵𒆠 𒅗𒇷𒃻  
+v 64 ka-tim KUR URI.KI ka-li-šá  
 v 65 𒍢𒅕 𒆍𒀭𒊏𒆠 𒍑𒌋𒌋𒉡 𒃻𒆥𒈠 𒈾𒁲 𒈠𒁖𒌓  
+v 65 ṣe-er KÁ.DINGIR.RA.KI uš-man-nu šá-kin-ma na-di ma?-dak-tú  
 v 66 𒀀𒈾 𒈾𒊏𒊒𒋾 𒀭𒂗 𒌋 𒀭𒀝 𒂗𒎌𒅀  
+v 66 a-na na-ra-ru-ti dEN u dAG EN.MEŠ-ia  
+(v 66) To aid the gods Bēl (Marduk) and Nabû, lords of mine whose divinity I constantly revered, I mustered my battle troops and set out on the road. He heard about the advance of my expeditionary force and (v 70) (then) fear overwhelmed him and he returned to his (own) land. I went after him (and) brought about his defeat. I drove him away as far as the border of his land.  
 v 67 𒊭 𒀊𒊑𒆷𒄷 𒀭𒊻𒋢𒌦  
+v 67 ša ap-tal-la-ḫu DINGIR-us-su-un  
+
+
 v 68 𒂟𒎌 𒀞𒅀 𒀜𒆠𒂊𒈠 𒊍𒁀𒋫 𒄯𒊏𒉡  
+v 68 ERIM.MEŠ MÈ-ia ad-ke-e-ma aṣ-ba-ta ḫar-ra-nu  
 v 69 𒀀𒋃 𒄫𒊑𒅀 𒅖𒈨𒈠  
+v 69 a-lak ger-ri-ia iš-me-ma  
 v 70 𒉺𒌅 𒄑𒄽𒋗𒈠 𒄿𒌉 𒀀𒈾 𒆳𒋙  
+v 70 ḫat-tu is-ḫup-šu-ma i-tur a-na KUR-šú  
 v 71 𒂕𒋙 𒊍𒁁 𒀀𒁉𒅅𒋫𒋙 𒀾𒆲  
+v 71 EGIR-šú aṣ-bat a-bi-ik-ta-šú áš-kun  
 v 72 𒀜𒊒𒊻𒋢 𒀀𒁲 𒈪𒈲 𒆳𒋙  
+v 72 aṭ-ru-us-su a-di mi-ṣir KUR-šú  
 v 73 𒁹𒌨𒋫𒆪 𒈗 𒆳𒉏𒈠𒆠  
+v 73 mur-ta-ku LUGAL KUR.ELAM.MA.KI  
+
+
+(v 73) (As for) Urtaku, the king of the land Elam who had not respected my friendship, whom death called on a day (that was) not his fate, who came to an end (and) withered away while wailing — he no (longer) set foot upon the land of the living. In that year, his life came to an end (and) he passed away.  
 v 74 𒊭 𒆷 𒄑𒍮𒊒 𒅁𒊒𒋾  
+v 74 ša la iṣ-ṣu-ru ib-ru-ti  
 v 75 𒀸 𒌓𒈨 𒆷 𒋆𒋾𒋙 𒈬𒌑𒌓 𒌑𒃻𒊒𒌋  
+v 75 ina u₄-me la šim-ti-šú mu-ú-tú ú-gar-ru-u  
 v 76 𒀸 𒋫𒉌𒄭 𒅅𒌅𒌑 𒄿𒍪𒁍  
+v 76 ina ta-né-ḫi iq-tu-ú i-zu-bu  
 v 77 𒀸 𒆕𒃼 𒁀𒆷𒁲 𒄊𒅀𒋙 𒌌 𒅖𒆲  
+v 77 ina qaq-qar ba-la-ṭi GÌR.II-šú ul iš-kun  
 v 78 𒀸 𒈬𒀭𒈾𒋙 𒈾𒄫𒋫𒋙 𒅅𒋾 𒅋𒌨 𒉆𒈬𒅆𒋙  
+v 78 ina MU.AN.NA-šú na-piš-ta-šú iq-ti il-lik nam-mu-ši-šú  
 v 79 𒁹𒂗𒁀𒃻 𒆳𒃵𒁍𒆷𒀀𒀀  
+v 79 mEN-BA-šá KUR.gam-bu-la-a-a  
+
+
+(v 79) (As for) Bēl-iqīša, a Gambulian who had cast off the yoke of my lordship, he laid down (his) life through the bite of a mouse.  
 v 80 𒊭 𒄑𒇻𒌋 𒄑𒋙𒂈 𒂗𒋾𒅀  
+v 80 ša iṣ-lu-u GIŠ.ŠUDUN EN-ti-ia  
 v 81 𒀸 𒉌𒋝 𒉾 𒅖𒋫𒃶 𒈾𒄫𒌓  
+v 81 ina ni-šik PÉŠ iš-ta-kan na-piš-tú  
 v 82 𒁹𒀭𒀝𒈬𒄰𒌍 𒇽𒄘𒂗𒈾 𒆷 𒈾𒈲 𒀀𒁲𒂊  
+v 82 mdAG-MU-KAM-eš LÚ.GÚ.EN.NA la na-ṣir a-de-e  
+(v 82) (As for) Nabû-šuma-ēreš, the šandabakku (governor of Nippur) who did not honor (my) treaty, he suffered from dropsy, (that is) “full water.”  
 v 83 𒅖𒅆 𒀀𒂵𒉡𒌀𒆷𒀀 𒀀𒎌 𒈠𒇻𒌋𒋾  
+v 83 iš-ši a-ga-nu-til-la-a A.MEŠ ma-lu-u-ti  
+
+
 v 84 𒁹𒀭𒀫𒌓𒈬𒆕 𒇽𒋗𒌓 𒊕𒋙 𒈬𒆳𒁉𒅁𒋙  
+v 84 mdAMAR.UTU-MU-DÙ LÚ.šu-ut SAG-šú mu-šad-bi-ib-šú  
+
+
+(v 84) (As for) Marduk-šuma-ibni, his (Urtaku’s) eunuch, the instigator who had incited Urtaku to plot evil (deeds), the god Marduk, the king of the gods, imposed his grievous punishment upon him.  
 v 85 𒊭 𒅆𒌨𒌓 𒌑𒊕𒉿𒁺 𒀀𒈾 𒁹𒌨𒋫𒆠  
+v 85 ša ḪUL-tú ú-šak-pi-du a-na mur-ta-ki  
 v 86 𒂊𒈨𒄑𒋢 𒀭𒀫𒌓 𒈗 𒀭𒎌  
+v 86 e-mì-is-su dAMAR.UTU LUGAL DINGIR.MEŠ  
 v 87 𒊺𒅕𒋫𒋙 𒃲𒌓  
+v 87 še-er-ta-šú GAL-tú  
 v 88 𒀸 𒁹𒀉 𒈬𒀭𒈾 𒈪𒄴𒈩 𒀀𒄩𒎌  
+v 88 ina 1-et MU.AN.NA mé-eḫ-ret a-ḫa-meš  
+
+
+(v 88) Within one year, they (all) laid down (their) live(s) at the same time. The angry heart of (the god) Aššur had not relented against them, nor had the mood of the goddess Ištar, who had encouraged me, become tranquil towards them. They overthrew his royal dynasty. They made somebody else assume dominion over the land Elam.  
 v 89 𒅖𒆪𒉡 𒈾𒄫𒌓  
+v 89 iš-ku-nu na-piš-tú  
 v 90 𒊮𒁉 𒀭𒊹 𒀝𒄖 𒌌 𒄿𒉡𒄴𒋙𒉡𒋾  
-v 91 𒌌 𒅁𒋚𒋙𒉡𒋾 𒅗𒁁𒋾 𒀭15 𒃻 𒌑𒋳𒆸𒀭𒉌  
+v 90 lìb-bi AN.ŠÁR ag-gu ul i-nu-uḫ-šú-nu-ti  
+v 91 𒌌 𒅁𒋚𒋙𒉡𒋾 𒅗𒁁𒋾 𒀭𐏓𒐊 𒃻 𒌑𒋳𒆸𒀭𒉌  
+v 91 ul ip-šaḫ-šú-nu-ti ka-bat-ti d15 šá ú-tak-kil-an-ni  
 v 92 𒁄𒂊 𒈗𒋾𒋙 𒅖𒆠𒁍  
+v 92 BALA-e LUGAL-ti-šú iš-ki-pu  
 v 93 𒁁𒂁 𒆳𒉏𒈠𒆠 𒌑𒊩𒄣𒌋 𒃻𒉆𒈠  
+v 93 be-lut KUR.ELAM.MA.KI ú-šal-qu-u šá-nam-ma  
 v 94 𒂕 𒁹𒋼𒌝𒌋𒌋 𒌓𒋻 𒋼𒇲  
+v 94 EGIR mte-um-man tam-šil GAL₅.LÁ  
+
+
+(v 94) Afterwards, Teumman, the (very) image of a gallû-demon, sat on the throne of Urtaku. He constantly sought out evil (ways) to kill the children of Urtaku and the children of Ummanaldašu (Ḫumban-ḫaltaš II), the brother of Urtaku. Ummanigaš, Ummanappa, (and) Tammarītu — (v 100) the sons of Urtaku, the king of the land Elam — Kudurru (and) Parrû — the sons of Ummanaldašu (Ḫumban-ḫaltaš II), the king who came before Urtaku — together with sixty members of the royal (family), countless archers, (and) nobles of the land Elam fled to me before Teumman’s slaughtering and grasped the feet of my royal majesty.  
 v 95 𒌑𒈨 𒀸 𒄑𒄖𒍝 𒁹𒌨𒋫𒆠  
+v 95 ú-šib ina GIŠ.GU.ZA mur-ta-ki  
 v 96 𒀀𒈾 𒁕𒀀𒆠 𒌉𒎌 𒁹𒌨𒋫𒆠  
+v 96 a-na da-a-ki DUMU.MEŠ mur-ta-ki  
 v 97 𒅇 𒌉𒎌 𒁹𒌝𒌋𒌋𒀠𒁕𒀀𒊺  
+v 97 ù DUMU.MEŠ mum-man-al-da-a-še  
 v 98 𒋀 𒁹𒌨𒋫𒆠 𒅖𒋼𒉌𒀪𒀀 𒊩𒅆𒌨  
+v 98 ŠEŠ mur-ta-ki iš-te-né-ʾa-a MUNUS.ḪUL  
 v 99 𒁹𒌝𒌋𒌋𒄿𒁉 𒁹𒌝𒌋𒌋𒀊𒉺 𒁹𒌓𒈠𒊑𒌓  
+v 99 mum-man-i-gaš mum-man-ap-pa mtam-ma-ri-tú  
 v 100 𒌉𒎌 𒁹𒌨𒋫𒆠 𒈗 𒆳𒉏𒈠𒆠  
+v 100 DUMU.MEŠ mur-ta-ki LUGAL KUR.ELAM.MA.KI  
 v 101 𒁹𒆪𒂉𒊒 𒁹𒉺𒊒𒌑  
+v 101 mku-dúr-ru mpa-ru-ú  
 v 102 𒌉𒎌 𒁹𒌝𒌋𒌋𒀠𒁕𒀀𒊺  
+v 102 DUMU.MEŠ mum-man-al-da-a-še  
 v 103 𒈗 𒀀𒌨 𒉺𒉌 𒁹𒌨𒋫𒆠  
+v 103 LUGAL a-lik pa-ni mur-ta-ki  
 v 104 𒅇 𒐕 𒆰 𒈗 𒀸 𒆷 𒈨𒉌 𒇽𒂟𒎌 𒄑𒉼  
+v 104 ù 60 NUMUN LUGAL ina la mì-ni LÚ.ERIM.MEŠ GIŠ.PAN  
 v 105 𒌉𒎌 𒁀𒉌𒂊 𒊭 𒆳𒉏𒈠𒆠  
+v 105 DUMU.MEŠ ba-né-e ša KUR.ELAM.MA.KI  
 v 106 𒃻 𒆷𒉺𒀭 𒁕𒀀𒆠 𒁹𒋼𒌝𒌋𒌋  
+v 106 šá la-pa-an da-a-ki mte-um-man  
 v 107 𒅔𒀮𒌅𒉏𒈠 𒄑𒁀𒌅 𒄊𒅀 𒈗𒋾𒅀  
 v 108 𒌦𒎌 𒃻𒀀𒌅𒉡 𒃻 𒅔𒀮𒌅𒉏𒈠  
+v 107 in-nab-tu-nim-ma iṣ-ba-tu GÌR.II LUGAL-ti-ia28  
 9xx  
+
+
 
 vi 1 𒀭𒊻𒊓 𒌑𒉺𒅁𒉺𒀀 𒅋𒆷𒅗 𒁲𒈠𒀀𒀀
 vi 2 𒌝𒈠 𒀭𒁁𒀖 𒌷𒇹𒀭𒆠  
@@ -2161,8 +2308,8 @@ vi 29 𒅆𒅀𒅗 𒅎𒆷𒀀 𒁲𒅎𒌅 𒅈𒋫𒅆 𒊑𒂊𒈬
 vi 30 𒀸 𒆳 𒈬𒅆 𒋗𒀀𒌅 𒃻 𒄠𒄷𒊒𒅆
 vi 31 𒁹𒂗 𒉺𒅁𒊒𒌋 𒌑𒌅𒌌𒈠 𒄿𒈾𒀜𒊑 𒈧𒈪  
 vi 32 𒄿𒄀𒅋𒋾𒈠 𒋰𒈩 𒈬𒅆  
-vi 33 𒊭 𒀭15 𒌑𒉺𒅁𒊒𒌋𒋙 𒌑𒃻𒀭𒈾𒀀 𒅀𒀀𒋾  
-vi 34 𒌝𒈠 𒀭15 𒀀𒅆𒁁 𒌷𒇹𒀭 𒂊𒊒𒁀𒄠𒈠  
+vi 33 𒊭 𒀭𐏓𒐊 𒌑𒉺𒅁𒊒𒌋𒋙 𒌑𒃻𒀭𒈾𒀀 𒅀𒀀𒋾  
+vi 34 𒌝𒈠 𒀭𐏓𒐊 𒀀𒅆𒁁 𒌷𒇹𒀭 𒂊𒊒𒁀𒄠𒈠  
 vi 35 
 vi 36 vi 35  
 vi 37 15 𒌋 𒈫𒌍 𒌋𒌆𒆷𒀀𒋫 𒅖𒉺𒀀𒋾  
@@ -2190,9 +2337,9 @@ vi 12' 𒊭 𒊌𒄖𒂵𒀜 𒉺𒉡𒍑𒃻 𒌨𒆲
 vi 13' 𒀸 𒌗𒆥 𒅆𒌓 𒀭𒈹𒎌 𒄿𒌍𒉌 𒀭𒊹 𒍢𒄿𒊑  
 vi 14' 𒌗 𒀭𒌍 𒈾𒀭𒉪 𒀭𒂊 𒌋 𒆠𒁴  
 vi 15' 𒀜𒆸 𒀀𒈾 𒌍𒁇 𒀭𒋀𒆠𒊑 𒉆𒊑  
-vi 16' 𒅇 𒅆𒌓 𒀭15 𒃽𒅀 𒊭 𒆷 𒅔𒎏𒉡𒌋  
+vi 16' 𒅇 𒅆𒌓 𒀭𐏓𒐊 𒃽𒅀 𒊭 𒆷 𒅔𒎏𒉡𒌋  
 vi 17' 𒀜𒆠 𒂟𒎌 𒀞𒅀 𒁵𒈭𒍢  
-vi 18' 𒊭 𒀸 𒆠𒂍 𒀭𒊹 𒀭𒌍 𒌋 𒀭15  
+vi 18' 𒊭 𒀸 𒆠𒂍 𒀭𒊹 𒀭𒌍 𒌋 𒀭𐏓𒐊  
 vi 19' 𒀉𒋫𒈾𒀾𒊏𒁉𒂅 𒉠 𒌓𒄩𒊑  
 
 vi 20' 𒂊𒇷 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
@@ -2222,7 +2369,7 @@ vii 2 𒁹𒌓𒈠𒊑𒌅 𒋀𒋙 𒊩𒃻𒀀𒀀
 vii 3 𒀸 𒌷𒄭𒁕𒇻 𒀀𒈾 𒈗𒌑𒋾 𒀾𒆲  
 vii 4 𒄑𒇀𒎌 𒄑𒍮𒌝𒁉 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
 vii 5 𒍢𒁁𒋾 𒉌𒄿𒊑 𒄑𒌀𒇷 𒋛𒆳 𒀞  
-vii 6 𒊭 𒀸 𒌅𒆰𒋾 𒀭𒊹 𒀭15 𒀭𒎌 𒃲𒎌  
+vii 6 𒊭 𒀸 𒌅𒆰𒋾 𒀭𒊹 𒀭𐏓𒐊 𒀭𒎌 𒃲𒎌  
 vii 7 𒁉𒈩 𒌷𒋗𒃻𒀭 𒌋 𒀀𒇉𒌑𒆷𒀀𒀀 𒅅𒋗𒁕 𒋗𒅀𒀀𒀀  
 vii 8 𒀸 𒆠𒂍 𒀭𒊹 𒌋 𒀭𒀫𒌓 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀  
 vii 9 𒌌𒌅 𒆠𒆗 𒆳𒉏𒈠𒆠 𒄩𒁹 𒌑𒍝𒄠𒈠  
@@ -2294,7 +2441,7 @@ vii 1 𒁹𒀭𒀝𒅆𒂟𒅅 𒀸 𒄈 𒀭𒁇 𒈨𒁉𒋙 𒄑𒄷𒆷 𒋼
 vii 2 𒉌𒆧 𒊕𒁺 𒁹𒋼𒌝𒌋𒌋  
 vii 3 𒀸 𒃮 𒆍𒃲 𒉠 𒌷 𒊭 𒌷𒀏  
 vii 4 𒌑𒈤𒄭𒊏 𒈤𒄷𒊕  
-vii 5 𒀾𒋙 𒁕𒈾𒀭 𒀭𒊹 𒌋 𒀭15 𒂗𒎌𒅀 𒌦𒎌 𒆰𒇻𒈨
+vii 5 𒀾𒋙 𒁕𒈾𒀭 𒀭𒊹 𒌋 𒀭𐏓𒐊 𒂗𒎌𒅀 𒌦𒎌 𒆰𒇻𒈨
 vii 6 𒉌𒆧 𒊕𒁺 𒁹𒋼𒌝𒌋𒌋 𒌋𒌋 𒆳𒉏𒈠𒆠  
 vii 7 𒁹𒌉𒍑𒀀𒀀 𒌉 𒁹𒀭𒀝𒊓𒅆  
 vii 8 𒌉 𒌉 𒁹𒀭𒀫𒌓𒀀𒀸  
@@ -2312,7 +2459,7 @@ vii 18 𒆠𒆗 𒁄𒌀𒆠 𒅇 𒌷𒇹𒀭
 vii 19 𒀀𒈾 𒁕𒇳 𒄴𒊏𒀀𒋾 𒌑𒉈𒋙𒉡𒋾  
 
 vii 20 𒁹𒌨𒊓𒀀 𒈗 𒆳𒌨𒅈𒁲
-vii 21 𒁕𒈾𒀭 𒀭𒊹 𒌋 𒀭15 𒂗𒎌𒅀 𒅖𒈨𒂊𒈠  
+vii 21 𒁕𒈾𒀭 𒀭𒊹 𒌋 𒀭𐏓𒐊 𒂗𒎌𒅀 𒅖𒈨𒂊𒈠  
 vii 22 𒁍𒈛𒋾 𒈗𒋾𒅀 𒄑𒄽𒋙𒈠  
 vii 23 𒇽𒈤𒎌𒋙 𒀀𒈾 𒃻𒀪𒀠 𒂄𒈨𒅀 𒅖𒁍𒊏 𒀀𒈾 𒆠𒆗 𒌷𒇹𒀭𒆠  
 vii 24 𒀲𒆳𒊏𒎌 𒀲𒋙𒀯𒎌  
@@ -2390,7 +2537,7 @@ viii 5'
 viii 10'  
 𒋀 𒆷 𒆠𒂊𒉡 𒅋𒌨𒄠𒈠  
 𒀀𒈾 𒁁𒄷𒍢 𒂟𒄭𒀀𒅀  
-𒀸 𒋢𒌒𒉿𒂊 𒊭 𒀭𒊹 𒌋 𒀭15 𒌑𒉺𒅁𒁍𒌋  
+𒀸 𒋢𒌒𒉿𒂊 𒊭 𒀭𒊹 𒌋 𒀭𐏓𒐊 𒌑𒉺𒅁𒁍𒌋  
 𒌦𒉌𒉌𒅀 𒅋𒄣𒌑 𒅖𒈬𒌑 𒍣𒄫 𒅻𒅀  
 𒀴𒎌𒋙 𒂔𒍑𒋙 𒅁𒁄𒆠𒌅𒈠  
 
@@ -2406,7 +2553,7 @@ viii 20'
 𒊭 𒅅𒆠𒋢 𒀀𒄷𒊒𒌑 𒂟𒄭𒀀𒅀  
 𒅇 𒋀𒎌𒋙 𒆥𒉡𒋙 𒆰 𒂍 𒀜𒋗  
 𒀉𒋾 𒐕𒌋𒌋𒐊 𒉣𒎌 𒃻 𒆳𒉏𒈠𒆠 𒀀𒇷𒋻 𒄿𒁲𒄿𒋙  
-𒊭 𒆷𒉺𒀭 𒄑𒆪𒎌 𒀭𒊹 𒌋 𒀭15 𒅁𒌓𒋗𒉏𒈠  
+𒊭 𒆷𒉺𒀭 𒄑𒆪𒎌 𒀭𒊹 𒌋 𒀭𐏓𒐊 𒅁𒌓𒋗𒉏𒈠  
 xx  
 𒄑𒉼𒎌 𒊭 𒁹𒌓𒈠𒊑𒌅 𒌋𒌋 𒆳𒉏𒈠𒆠 𒆠𒆗 𒆳𒉏𒈠𒆠  
 𒍑𒋻𒊑𒄷 𒀸 𒊮𒁉𒅆𒈾 𒀀𒈾 𒁁𒄷𒍢 𒂟𒄭𒀀 𒆳 𒀸𒋩𒆠  
@@ -2414,7 +2561,7 @@ xx
 
 viii 5''  
 𒊌𒁕𒈾𒅈𒊏𒁀 𒀀𒈾 𒋾𒅀  
-𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒀭𒀝 𒀭15 𒊭 𒌷𒀏 𒀭𒊬𒋥𒆤𒈬𒊑 𒀭15 𒊭 𒌷𒇹𒀭𒆠  
+𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒀭𒀝 𒀭𐏓𒐊 𒊭 𒌷𒀏 𒀭𒊬𒋥𒆤𒈬𒊑 𒀭𐏓𒐊 𒊭 𒌷𒇹𒀭𒆠  
 𒀭𒈦 𒀭𒉺𒌆 𒀭𒌋𒄥 𒊭 𒇽𒉽𒎌x  
 𒅇 𒋛𒀉𒌅𒋾 𒅎xx  
 𒌑𒁉𒋙 𒁹𒀭𒄑𒉢𒈬𒄀𒈾  
@@ -2528,7 +2675,7 @@ ix 40'
 𒀀𒁲 𒇽𒀀 𒆥𒋙 𒈠𒄯𒋙 𒆷 𒄿𒁉𒃻𒁺  
 𒆷 𒌑𒃻𒀭𒉡𒋙 𒅆𒆥 𒉈𒂊𒈨𒅀  
 𒀸 𒆪𒋾 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒀭𒀝  
-𒀭15 𒃻 𒀏𒆠 𒀭15 𒃻 𒌷𒇹𒀭 𒀭𒈦 𒀭𒉺𒌆 𒀭𒌋𒄥  
+𒀭𐏓𒐊 𒃻 𒀏𒆠 𒀭𐏓𒐊 𒃻 𒌷𒇹𒀭 𒀭𒈦 𒀭𒉺𒌆 𒀭𒌋𒄥  
 𒃻 𒀉𒊑𒆷𒆪 𒀉𒅀𒀀𒀀 𒄿𒈾𒅈𒊒 𒂵𒊑𒅀  
 
 ix 45'  
@@ -2545,7 +2692,7 @@ ix 50'
 
 x 1  
 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒌋 𒀭𒀝  
-𒀭15 𒃻 𒀏𒆠 𒀭15 𒃻 𒌷𒇹𒀭  
+𒀭𐏓𒐊 𒃻 𒀏𒆠 𒀭𐏓𒐊 𒃻 𒌷𒇹𒀭  
 𒀭𒎌 𒃲𒎌 𒂗𒎌𒅀  
 𒁹𒅀𒌋𒋫𒀪 𒈠𒊒𒍑𒌓 𒅎𒄯𒋙𒈠  
 
@@ -2566,8 +2713,8 @@ x 10
 x 15  
 𒄴𒋫𒀮𒁀𒌓 𒄷𒁍𒌓 𒆳 𒈥𒌅𒆠  
 𒀸 𒍣𒄫 𒈬𒅀 𒃻 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒀭𒀝  
-𒀭15 𒊭 𒀏𒆠 𒀭𒊬𒋥𒆤𒈬𒊑  
-𒀭15 𒊭 𒌷𒇹𒀭 𒀭𒈦 𒀭𒄑𒁇  
+𒀭𐏓𒐊 𒊭 𒀏𒆠 𒀭𒊬𒋥𒆤𒈬𒊑  
+𒀭𐏓𒐊 𒊭 𒌷𒇹𒀭 𒀭𒈦 𒀭𒄑𒁇  
 𒀭𒌋𒄥 𒌑𒊬𒁍𒌋  
 
 x 20  
@@ -2608,13 +2755,13 @@ x 20'
 
 x 5''  
 𒊭 𒀸 𒆪𒋾 𒀭𒊹 𒀭𒌍 𒀭𒌓 𒀭𒂗 𒀭𒀝  
-𒀭15 𒊭 𒀏𒆠 𒀭15 𒊭 𒌷𒇹𒀭𒆠 𒀭𒈦 𒀭𒌋𒄥  
+𒀭𐏓𒐊 𒊭 𒀏𒆠 𒀭𐏓𒐊 𒊭 𒌷𒇹𒀭𒆠 𒀭𒈦 𒀭𒌋𒄥  
 𒀸 𒆳𒆳 𒀜𒊑𒆷𒆪 𒀾𒆪𒉡 𒁕𒈾𒉡 𒇷𒄿𒌓  
 𒀾𒄙𒈠 𒀀𒈾 𒄴𒋥 𒌓𒈨 𒂊𒍦  
 𒀀𒈾 𒂕 𒌓𒈨 𒀸 𒈗𒎌 𒌉𒎌𒅀  
 
 x 10''  
-𒊭 𒀭𒊹 𒌋 𒀭15 𒀀𒈾 𒁁𒂁 𒆳 𒌋 𒌦𒎌  
+𒊭 𒀭𒊹 𒌋 𒀭𐏓𒐊 𒀀𒈾 𒁁𒂁 𒆳 𒌋 𒌦𒎌  
 𒄿𒉆𒁍𒌋 𒍣𒄫𒋙  
 𒂊𒉡𒈠 𒂍𒃲 𒈠𒊬𒋼 𒋗𒀀𒌓  
 𒄿𒆗𒁉𒊒𒈠 𒂗𒈾𒄷  
