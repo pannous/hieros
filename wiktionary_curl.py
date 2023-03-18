@@ -1,1 +1,0 @@
-/Users/me/dev/script/python/WiktionaryParser/wiktionary_curl.py

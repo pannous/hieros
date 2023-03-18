@@ -3352,7 +3352,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲡⲓⲙⲁ ⲉⲧⲉⲙⲙⲁⲩ 	 that place, there
 ⲭⲁ ⲙⲁ 	 allow place, give oppor-tunity
 ⲉⲣⲫⲙⲁ 	 take place of, succeed
-ⲟⲓ ⲛⲕⲉⲙⲁ 	 be elsewhere, separa-ted, unclean
+ⲟⲓ ⲛⲕⲉⲙⲁ 	 be elsewhere, separated, unclean
 ϯⲙⲁ 	 give place, permit
 ϫⲉⲙⲙⲁ 	 find place, opportunity
 ⲙⲁ- 	 	imperat. of ϯ , to give
@@ -4436,21 +4436,20 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ϫⲓⲛⲛⲉϥⲧ ⲣⲱ⳼ 	 smiling
 ⲛⲟⲩϣⲡ , ⲛⲉϣⲡ	 , nosp= , (q) nosp , p.c
 ⲛⲁϣⲡ- 	 	blow (of wind)agitate, frighten, overawe; vi. befrightened
- ⲉⲃⲟⲗ ϩⲁ- 	 scare from,off
- ϧⲁ- 	 be scared awayfrom
- ϧⲉⲛ- 	 awake from
- ⲉⲃⲟⲗ ϧⲉⲛ- 	 be scaredfrom
- ϧⲁϫⲉⲛ- 	 be scared by, at
- ⲉⲃⲟⲗ 	 be scared away; tr scare away
- ⲉⲫⲁϩⲟⲩ 	 be scared back; m. fight
+ⲛⲁϣⲡ ⲉⲃⲟⲗ ϩⲁ- 	 scare from,off
+ⲛⲁϣⲡ ϧⲁ- 	 be scared awayfrom
+ⲛⲁϣⲡ ϧⲉⲛ- 	 awake from
+ⲛⲁϣⲡ ⲉⲃⲟⲗ ϧⲉⲛ- 	 be scaredfrom
+ⲛⲁϣⲡ ϧⲁϫⲉⲛ- 	 be scared by, at
+ⲛⲁϣⲡ ⲉⲃⲟⲗ 	 be scared away; tr scare away
+ⲛⲁϣⲡ ⲉⲫⲁϩⲟⲩ 	 be scared back; m. fight
 ⲛⲁϣⲡⲏⲣⲓ ⳼ ⲛⲁϣⲡ ⲡⲏⲣⲓ 	 m. scare-quail, scarecrow
 ⲛⲟⲩϥⲓ ↔ (q) ⲛⲟϥⲉⲣ 	 good
 ⲛⲟⲩϥⲧ ↔ ⲛⲟⲩⲧϥ 	 to loosen
 ⲛⲟⲩϥⲧ 	 	swell, be distended
-ⲛⲟⲩϩ , ⲛⲟϩ , ⲛⲉϩ	 , nah= , neh= , (q) n/h ,
-(q) ⲛⲉϩ 	 	shake, cast off,set apart, separate; vi. jump
- ⲉⲃⲟⲗ 	 shake off, cast out,set apart, assign; vi. come apart, beloosed
- ⲉⲃⲟⲗ ϧⲉⲛ- 	 separatefrom, out of
+ⲛⲟⲩϩ , ⲛⲟϩ , ⲛⲉϩ	 , nah= , neh= , (q) n/h ,(q) ⲛⲉϩ 	 	shake, cast off,set apart, separate; vi. jump
+ⲛⲟⲩϩ ⲉⲃⲟⲗ 	 shake off, cast out,set apart, assign; vi. come apart, beloosed
+ⲛⲟⲩϩ ⲉⲃⲟⲗ ϧⲉⲛ- 	 separate from, out of
 ⲛⲉϩϥⲭ ⲛⲉϩ 	 m. what is shaken, or thatwherewith is shaken
 ⲛⲟⲩϩⲓ 	 	f. sycamore, fig-mulberry
  ⲛⲟⲩϫ 	 	adj. lying, false; advfalsely
@@ -4464,7 +4463,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲛⲥⲁ- 	 throw after, castupon
  ⲉⲃⲟⲗ 	 cast forth, discard
 ⲛⲟⲩϫ ↔ ⲛⲓϣϯ 	 great
-ⲛⲟⲩϯ 	 	mf. (any) GOD; adj. godly,divine PATER NOSTER ⲛⲟⲩⲧⲉ NATURE
+ⲛⲟⲩϯ 	 	mf. (any) GOD; adj. godly, divine PATER NOSTER ⲛⲟⲩⲧⲉ NATURE
 ⲫⲛⲟⲩϯ 	 m. god
 ⲁⲧⲛⲟⲩϯ 	 adj. godless
 ⲉⲣⲁⲧⲛⲟⲩϯ 	 be godless
