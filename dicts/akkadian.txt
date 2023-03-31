@@ -1434,6 +1434,9 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒂊𒈨𒈬 	ᵏʱe-me-mu charm
 𒂊𒈨𒈬 	to be(come) hot
 
+𒀝𒈬 ak-mu √charm
+𒀝𒈬 burn
+
 𒂊𒈬 	ᶜe-mu
 𒂊𒈬 	(be)come, to become, tongue of a plow “Kamm”
 
@@ -4710,26 +4713,34 @@ _𒆳 	five ⚠️
 𒈾𒁺 	na-du
 𒈾𒁺 	(water-)skin, celebrate, to praise, to throw (down)
 
-𒈾𒂵𒀸 	na-ga-rum
-𒈾𒂵𒀸 	carpenter, joiner
-
 𒈾𒂵𒄖 	na-ga-gu
 𒈾𒂵𒄖 	bawl, bellow, to bray
 
 𒈾𒂵𒋗 	na-ga-šu
 𒈾𒂵𒋗 	to go to(wards)
 
-𒈾𒄀𒊒 	na-gi-ru
+𒈾𒂵𒀸 	na-ga-rum
+𒈾𒂵𒀸 	carpenter, joiner
+
+𒈾𒄀𒊒 	naᵐ-gi-ru
 𒈾𒄀𒊒 	(town) crier, herald
 
-𒈾𒄖 	na-gu
+
+𒈾𒄖 	naᵐgu
 𒈾𒄖 	district, region
 
-𒈾𒄣 	na-qulibation), wail
+𒈾𒄀𒋢 na-gi-su nome:Kreis
+𒈾𒄀𒋢 district
 
+𒈾𒄀𒂊 naᵐge-e nome 
+𒈾𒄀𒂊 district
+
+
+
+𒈾𒄣 	na-qu libation, wail
 𒈾𒄣 	a kind of clasp, period of office, sacrifice, strangler, to cry (out), to pour (a libation), wail
 
-𒈾𒄫𒌅 	na-piš-tu
+𒈾𒄫𒌅 	na-piš-tu 𓈖 𓆑 𓏏 𓊡 𓏲 nephish™ "breath"
 𒈾𒄫𒌅 	life, throat
 
 𒈾𒄫𒌅𒀀𒁀𒇻 	na-piš-tu na-piš-tu a-ba-lu
@@ -5636,6 +5647,9 @@ _𒉿𒁍 	enemy, villainous, wicked
 
 𒊑𒀀𒋗 	ri-a-šu ~
 𒊑𒀀𒋗 	to rejoice
+≈
+𒅕𒄷𒍮 	ir-hu-zu ≈
+𒅕𒄷𒍮 	rejoice
 
 𒊑𒁉𒌅 	re-bi-tu urbit vs orbit 𓊖 QED
 𒊑𒁉𒌅 	piazza, square
@@ -5833,7 +5847,7 @@ _𒉿𒁍 	enemy, villainous, wicked
 𒊓𒈾𒄣𒊭𒅘𒊑 	advance on someone with hostile intent, to approach
 
 𒊓𒈾𒄷 	sa-na-ḫu ≠ sane
-𒊓𒈾𒄷 	sa-na-ḫu ≠ اسهال‎ (fa) (eshâl), شکم‌روش‎ (šekamraveš) --
+𒊓𒈾𒄷 	sa-na-ḫu ≠ اسهال hâl شکم‌روش veš--
 𒊓𒈾𒄷 	have diarrhea, to excrete (fluid)
 
 𒊓𒉺𒄷 	sa-pa-ḫu <~-
@@ -6629,7 +6643,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋗𒉻𒋼𒀀𒉺𒋾 	šu-pat kar-pa-ti
 𒋗𒉻𒋼𒀀𒉺𒋾 	base of a pot
 
-𒋗𒉿𒇻 	šu-pe-lu
+𒋗𒉿𒇻 	šu-pe-lu super(turn)
 𒋗𒉿𒇻 	overturn, to exchange
 
 𒋗𒊏𒉡 	šu-ra-nu
@@ -7152,9 +7166,8 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋫𒉺𒇻 	ta-pa-lu √Tölpel < Taur-parler
 𒋫𒉺𒇻 	insult, pair (of objects), to slander
 
-𒋫𒉺𒌅 	ta-pa-tu
+𒋫𒉺𒌅 	ta-pa-tu Tapete ++
 𒋫𒉺𒌅 	a textile or garment
-
 
 𒋫𒊏𒋢 	ta-ra-su stretch ( 𒋫 Stier)
 𒋫𒊏𒋢 	to stretch out
@@ -7169,6 +7182,8 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 
 𒋫𒊒 	ta-ruⁿ turn
 𒋫𒊒 	censer, return, to turn
+
+𒋫𒀀𒀀𒅈𒋾 ta-ay-arⁿti return™
 
 𒋫𒋆𒌅 	ta-šim-tu
 𒋫𒋆𒌅 	discernment, sagacity
@@ -7669,8 +7684,11 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌋𒌋𒉡 	man-nu 𓅓 𓂟 , 𓅓 𓂝 መኑ  mannu “who?” ++++
 𒌋𒌋𒉡 	who?
 
-𒌋𒌋𒉺𒆪 	naš-pa-ku …pack
+𒌋𒌋𒉺𒆪 	naš-pa-ku niche…pack
 𒌋𒌋𒉺𒆪 	storeroom, storage vessel
+
+𒉡𒊌𒆪𒈬 nu-uk-ku-muʳ niche-kammer 
+𒉡𒊌𒆪𒈬 "treasure"
 
 𒌋𒌋𒉺𒊒 	naš-pa-ru
 𒌋𒌋𒉺𒊒 	a garment
@@ -7801,8 +7819,7 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌓𒄷𒁺 	a tool
 
 𒌓𒅗𒊒 	tam-ka-ru | merchant | تاجر tāgir tangār 𒁮 𒃼 tamkārum 
-𒌓𒅗𒊒 	mar-ka-ru | merchant | (wg marduk) tamkārum derived from م ك ر‎ (m-k-r) QED
-𒌓𒅗𒊒 	businessman, merchant
+𒌓𒅗𒊒 	mar-ka-ru | merchant | (wg marduk) tamkārum derived from م ك ر QED𒅗𒊒 	businessman, merchant
 
 𒌓𒆪 	per-ku  para…
 𒌓𒆪 	transverse line 
@@ -8911,7 +8928,9 @@ in midst of the sea I saw maliciousness
 𒀝𒁀𒀀 ag-ba-a Gebot "command" 
 
 
-𒂊 𒇷 e-li elivate "ascend"
+𒂊𒇷 eᵛli oᵛri over #eli @ Semite վրա vra فوق 𐌿𐍆𐌰𐍂 ὑπέρ hyper  အပေါ် pau …위에 wi-e …우에 u-e 
+
+𒂊𒇷 e-li elivate "ascend"
 𒂊𒇷𒁍 	e-le-pu •elevate
 𒂊𒇷𒁍 	grow, to sprout <> live leben !
 
@@ -8931,4 +8950,73 @@ in midst of the sea I saw maliciousness
 
 𒀝 𒋢𒌓 akᵃᵖsuʳud captured
 
-𒂊𒇷 eᵛli oᵛri over
+𒆷 𒐊𒋢𒌋 ⁿla ᵛi-su-u unwiss unknown
+
+
+𒈨𒊏𒉡 me-ra-nu "bitter" @ marine մռու mṙuⁿ መራራ märara  مُرّ murr mürr amargu amur amuor marcus mõru
+𒈨𒊏𒉡 me-ra-nu amarᵒⁿ amārus@Latin מַר mar מרה mará מָרִיר marír מרירה amargo მწარე mc̣are ! ຂົມ khom? mapait?
+
+𒁮 dame vs damn
+𒊩𒅆𒌨𒌓 limᵇutu “bad” evil
+𒊩𒅆𒎕 #damqati damn good
+𒅆𒎕𒁕 damqatu damn'good benefits (𒁕 droit:right)
+
+𒌑𒌁𒉌 u2-tir-ni overturn
+𒌑𒌁   u2-tir reduce √tear? 
+
+𒂊𒎏𒈾 eᵍnin-na again
+𒂊𒎏𒈾 eg₂-gyn-na again a'xaná ξανά йәнә yänä <> 
+𒂊𒎏𒈾 e-nin-na ennalleen@FIN again    <> عاود تاني ʿāwd tāni
+𒂊𒎏𒈾 e-nin-na nano@Tocharian nááná@Navajo נאָכאַמאָל noch einmal … de nouveau
+
+
+𒅗𒐼𒀜 kaᵖsaʳ-ad captured
+𒅗𒆳 kaᵖsad captured (𒅗 Kopf)
+𒀝𒋗𒌓 akᵖšuʳud captured
+𒀝𒋢𒌓 akᵖsuʳud captured  (𒀝 γύψ 𓄿 𓅀 𓅐 αἰγυπιός aigupiós) 
+
+𒅗𒈥 ka-mar karma "misfortune"
+
+𒀾 𒆲 as-kun sagen causeᵍ [[s]] gene (defeat/misfortune)
+
+𒇷𒈪𒋾 li-mi-ti limit surrounding (cities round it)
+𒌋𒀸𒋰𒆸𒈨𒄑 eli-mi-is limis boundary
+
+𒌌 ul ≈ eli 𒌋𒀸𒋰𒆸 ≈ 𒌋𒀸𒋰𒁹𒋰𒁹 ≈ 𒌋𒆳𒆸 ≈ 𒌋𒅗 UGU  ≠ 𒇵 ka
+
+𒇯 ≈ 𒆠 #tuli tell ≈ 𒌋𒍵 𒌋𒌆 𒌋𒉇 tu.vl 𒌋𒂠 𒌋𒍥 
+𒇯 ≈ 𒆠 #tuli tell ≈ 𒆢 𒆣 𒅇 𒇭 
+
+
+𒀀𒂁 ᶠa.duk 𓆑𓂧𓏘𓏴 slice
+𒀀𒂁 ᶠa.duk φέταᵏ slice
+𒀀𒂁 ᶠa.duk fetta fatia @Portuguese <>  fissus فُتَات ƒ
+𒀀𒂁 ᶠa.duk fetta Portuguese fita, Dalmatian fiata, Sicilian feḍḍa, Sardinian fitta. 
+𒀀𒂁 slew
+
+𒄿𒁺𒆪 ᶠi-du-ku fitaᵏ 𓆑𓂧𓏘𓏴 slice
+𒄿𒁺𒆪 slew
+
+𒁲𒅅𒋫 di-ik-ta 
+
+
+𒌑 𒉺𒅁𒄵 u2-sab-bir (ver)zerbreche
+
+𒀀𒊬 ᵖaˡsar place
+
+𒉿𒊕𒋾 piʳsak-ti pro-sagt vorhersage "oracle"
+
+𒈠𒄩𒍪 𒃲𒌑 ma-ha-zu rab-u2 medina mahas gravitu "big city"
+
+
+
+𒂵𒊑 ga-ri guerry ≠ garrison "enemies" enemy
+
+
+𒆳𒅕𒄭 ṢA.ḤI𓈉 Saka Saxon Scythian 
+
+𒆳𒌓𒋾 mat-tam-ti montagne "coast"
+
+𒂊𒋰𒉺𒇻 e-tap-pa-lu increased √ top
+
+
