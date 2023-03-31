@@ -1,28 +1,61 @@
-### EXTRA 
-
-BAN2 	𒑑 
+### EXTRA those with NUMBER (…2 etc) need to go to BOTTOM of file!!
+GÚB 	𒆏
+GÁB 	𒆏
+murx 	𒌙
+MURₓ 	𒌙
+AL 	𒀠	
+kù 	𒄀
+É 	𒂍 
+ŠE3 𒂠 
+šè 	𒂠
+ZI3 	𒍥
+zid2	𒍥
+DÙ 	𒆕
+ẓi 	𒍢 	≈ 𒋰𒐺𒈫 ≈ 𒊏 ≈ 𒐺𒋰𒈫 ≈ 𒋰𒈫 ≈ 𒋛 SI ≈ ṢE 𒍢
+zzi 	𒍢 	≈ 𒋰𒐺𒈫 ≈ 𒊏 ≈ 𒐺𒋰𒈫 ≈ 𒋰𒈫 ≈ 𒋛 SI 
+tap 	𒋰
+ṢA 	𒅕 	
+ṢA2 	𒍝
+ssa 	𒅕 	
+ssu 	𒋢
+ṣe 	𒍢
+sse 𒍢
+siq 	𒋝 	≈ 𒋙𒋙 	≈ 𒂗
+sig 	𒋝 	≈ 𒋙𒋙 	≈ 𒂗
+MIR 	𒂇 
+šap 	𒉺𒅁 
+shap 	𒉺𒅁 
+sha2 	𒋚  	sau
+bel 	𒂗 	 ⋍ 𒉺𒋼𒋛𒃻 Patesi ≈ [[puzur]] > pa'ria > [[𒂗]] Baal  
+pah 	𒈜
+pah2 	𒆦𒋰
+paḥ 	𒆦𒋰
+pak 	𒆦𒋰
+pack 	𒆦𒋰
+ay 	𒀀𒀀
+dis 	𒑰
+dish 	𒑰
+diš 	𒑰
+dash 	𒑰
+daš 	𒑰
 nis 	𒎙 	𒌋𒌋
+sad 	𒆳 	saddle:mountain
 suv 	𒋳
 va 	𒑑 	𒀼𒁹 	𒀾 ⋍ 𒑓 ≈ 𒑑 	 PA 𐎱 ~ 𐎛 FA 𐎺 𒀀
-sa3 	𒐼  	𒎗 = 𒃻 šá 
 ZUM 	𒍮 
-zu3	 𒍮
 ẓu	𒍮
 ṣu	𒍮
-bi3 	𒑙
+ssu2	𒍮
 sak 	𒊕
 ḥir 	𒂡
 hir 	𒂡 	𒆟
 ha  	𒄩
-ha2 	𒀪  	HA₂ 𒀪 ≈ 𒎗𒐀𒁹 ≈ 𒄭𒀭 •Hel 𒄭 𒀭
-hu2 	𒀪
 qe  	𒆥
 bit 	𒂍 	beith
 ic 	 𒄑
 gis 	 𒄑
 tal 	𒊑
 dal 	𒊑
-as2 	𒀾
 liq 	𒌨
 lik 	𒌨
 GAS 	𒑙 
@@ -107,7 +140,7 @@ riš 	𒊕
 Rash 	𒊕
 Ras 	𒊕
 Raš 	𒊕
-SIG4  	𒋟 
+SIG5  	𒋟 
 SHU2 	𒋟 
 šú 	𒋙
 mut 	𒉸
@@ -182,8 +215,8 @@ A	𒀀
 A'	𒄴
 A2	𒀉
 A12	𒌓
+AB	𒀊  	 ABA ABBA	𒀊 Naun : know 𒍪	window?	𒉣 ABzu|Naun !
 AB2	𒀖  	 cow ↔ 𒆨 𓋩𓏤𓃒𓏥 𓈞𓏏𓄰 𓄤𓏏𓃒𓏥 kette,kettle,gut,heart 
-AB	𒀊 ABA ABBA	𒀊 Naun : know 𒍪	window?	𒉣 ABzu|Naun !
 ABBA2	𒀋
 ABBUNUNNU	𒌓𒄷𒄭𒉣	*
 ABGAL	𒉣𒈨	*
@@ -625,6 +658,7 @@ GAŠAM	𒉣𒈨𒋳	*
 GAŠAN	𒃽
 GAZ	𒄤
 GAZI	𒃢
+GAZI2	𒃨
 GE	𒄀
 GE2	𒆤
 GE6	𒈪
@@ -849,7 +883,6 @@ KASKAL	𒆜
 KAŠ4	𒁽
 KE	𒆠
 KE2	𒄀
-KE4	𒆤
 KEŠ2	𒆟
 KEŠ3	𒋙𒀭𒄲	*
 KEŠDA	𒂡
@@ -2402,222 +2435,6 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒎘	U+12398	UM×ME		 
 𒎙	U+12399	U U		 MIN3
 
-Combinations and Cuneiform not yet added to Unicode
-
-Once again, note that these cuneiform have not been added to Unicode, so cuneiform parts have been modified to graphically represent the corresponding cuneiform.
-
-	"Primary" transliteration	Alternate transliterations
-𒀀𒀀	A A	AYA
-𒀀𒀀𒀀	A A A	AYAYAX
-𒀀𒀭	A AN	AM3, EMX, ŠEĜ3
-𒀀𒁺	A DU	TUŠE
-𒀀𒂔𒇲	A EDIN LAL	UMMUD
-𒀀𒅆	A IGI	ER2, ŠEX
-𒀀𒇉	A LAGAB×ḪAL	ID2
-𒀀𒇉𒋙	A LAGAB×ḪAL ŠU2	AZADX
-𒀀𒈝	A LUM	ASLUMX
-𒀀𒈹𒀀𒁲	A MUŠ3 A DI	AMAGIX
-𒀀𒈹𒁲	A MUŠ3 DI	AMAGI2
-𒀀𒉺𒄐𒉻𒋛𒀀	A PA GISAL PAD SI A	AU
-𒀀𒋗𒉀	A ŠU NAGA	TU17
-𒀀𒋢	A SU	AKTUM
-𒀀𒌅	A TU	ASALX
-𒀀𒌅𒃮𒇺	A TU GABA LIŠ	ASAL2
-𒀀𒌅𒃮𒋝𒃻	A TU GABA SIG GAR	ASALX
-𒀀𒌅𒉪	A TU NUN / NUN	ASALX
-𒀀𒉺𒄐𒉻𒋛𒀀	A PA GISAL PAD SI A	ADDIR
-𒀉𒊩	A2 SAL	ARḪUŠ6
-𒀉𒌉	A2 TUR	ARḪUŠ5
-𒀉𒌋𒆤	A2 U KID	AŠTE
-𒀊𒀀	AB×A	
-𒀊𒄫	AB ḪA gunû	GIRABA
-𒀖𒇻	AB2 LU	UTUL10
-𒀖𒉣𒈨𒁺	AB2 NUN ME DU	ABRIG2
-𒀜𒆤	AD KID	AKKIL2
-𒀜𒆪	AD KU	AKKILX
-𒀭𒅎𒂂	AN IM DUGUD	ANZUD
-𒀭𒅎𒈪	AN IM MI	ANZUD2
-𒀭𒈾	AN NA	NAGGA
-𒀯𒁇	AN three times BAR	SUḪUBX
-𒀲𒀴	ANŠE ARAD	DUR3
-𒀲𒅆𒂠	ANŠE IGI EŠ2	DUSU2
-𒀶𒅁	ARKAB2 IB	ARKABX
-𒀾𒀭	AŠ2 AN	ULUŠIN3
-𒀾𒃼	AŠ2 GAR3	EŠGAR
-𒀾𒈹	AŠ2 MUŠ3	AŠKUD2
-𒀾𒈽	AŠ2 MUŠ3 gunû	AŠKUD
-𒁁𒇽	BAD LU2	ADX
-𒁁𒈪	BAD MI	ADAMA
-𒁇𒀭	BAR AN	ŠUḪUBX
-𒂍𒆳𒈪	E2 KUR BAD	ARALI
-𒂍𒉣	E2 NUN	AGRUN
-𒂍𒍑𒁍𒁕	E2 UŠ BU DA	ARAḪ4, AŠLUG
-𒂔𒇲𒀀	EDIN LAL A	UMMUX
-𒂗𒁶𒍼	EN DIM2 GIG	ENEGIR3
-𒂗𒈨𒀜𒆬	EN ME AD KU3	ŠENNU
-𒂗𒍪	EN ZU	SUEN
-𒂠𒁍𒂠𒉣𒂠𒌅	EŠ2 BU EŠ2 NUN EŠ2 TU	SAMANX
-𒂼𒀀𒌅	GA2×AN A TU	EMEDU2
-𒂼𒀭𒈹	GA2×AN AN MUŠ3	AMALU
-𒂼𒈹	GA2×AN MUŠ3	AMALUG
-𒂼𒋆	GA2×AN DUN3 gunû	AGARIN3, AĜARIN3
-𒂼𒋆	GA2×AN ŠIM	AGARIN4, AĜARIN4
-𒂼𒋆	GA2×AN ŠIM×GAR	AGARIN5, AĜARIN5
-𒂼𒌅	GA2×AN TU	EMEDU
-𒃰𒋺𒋛𒀀	GAD KID2 SI A	AKKILX
-𒃰𒋺	GAD TAK4	AŠŠA2, AŠTA
-𒃰𒋺𒋛	GAD TAK4 SI	AKKIL
-𒃲𒀿	GAL AŠGAB	AŠGABGALX
-𒃲𒄑𒌆𒋼𒀀𒁺	GAL GIŠ TUG2 TE A DU	AZLAGGALX
-𒃲𒋼	GAL TE	TIRU
-𒃲𒌵	GAL URI	KINDAGAL2
-𒃲𒌺	GAL URU×BAR	KINGAL
-𒃻𒅁	GAR IB	ARKAB
-𒄀𒈾𒀊𒌋𒄞	GI NA AB U GUD	ŠUTUM
-𒄊𒁇	GIR3 BAR	ŠER11
-𒄐𒉻𒋛	GISAL PAD SI	ADDIRX
-𒄑𒂆𒈦	GIŠ DUN3 gunû MAŠ	GILGAMEŠ
-𒄑𒈢	GIŠ MA gunû	ĜEŠHAŠHUR
-𒄑𒈣𒊏	GIŠ MA2 RA	AMRA
-𒄑𒈪	GIŠ MI	ĜISSU
-𒄑𒉋𒂵𒈩	GIŠ NE šešig GA MES	GILGAMEŠ2
-𒄑𒉿𒌆	GIŠ PI TUG2	ĜEŠTUG3
-𒄑𒋆	GIŠ ŠIM	GEŠŠIM, ĜEŠŠIM
-𒄑𒌆𒉿	GIŠ TUG2 PI	ĜEŠTUG2
-𒄑𒌆𒉿𒋼𒀀	GIŠ TUG2 PI TE A	AZLAG5
-𒄑𒌆𒉿𒋼𒀀𒁺	GIŠ TUG2 PI TE A DU	AZLAG3
-𒄑𒌆𒉿𒎓𒉣	GIŠ TUG2 PI NU11 rotated 90° NUN	ĜIZZALX
-𒄑𒌆𒋼𒀀𒁺	GIŠ TUG2 TE A DU	AZLAG4
-𒄒𒉣	GIŠ×GIŠ NUN	BURANUNx
-𒄭𒄊	ḪI GIR3	ḪUŠ
-𒄯𒊕	ḪI×AŠ2 SAG	AZUGNA
-𒄷𒄭	ḪU ḪI	MUD
-𒄷𒋛	ḪU SI	U5
-𒄿𒇻	I LU	KUN4
-𒄿𒈕𒈾	I LU2 šešig NA	ARINAX
-𒅆𒁺	IGI DU	IGIŠTU, PALIL
-𒅆𒁾	IGI DUB	AĜRIG, ĜIŠKIM
-𒅆𒂍	IGI E2	U6
-𒅆𒂟	IGI ERIN2	KURUM7
-𒅆𒂠	IGI EŠ2	LIBIR
-𒅆𒊒	IGI RU	PAD3
-𒅆𒌉𒌉	IGI TUR TUR	LIGIMA
-𒅆𒌨	IGI UR	ḪUL, ḪULU
-𒅎𒂂	IM DUGUD	AĜAR6, MURU9
-𒅗𒀭𒉌𒋛	KA AN NI SI	KURKU2
-𒅗𒌑	KA U2	UZUGX
-𒆍𒃲	KA2 GAL	ABUL, ABULA
-𒆜𒆸	KASKAL LAGAB	ŠUBTUM3
-𒆠𒀸𒀸	KI AŠ AŠ	ABSIN
-𒆠𒂊𒉈𒁲	KI E NE DI	EŠEMEN
-𒆠𒂊𒉈𒁲𒀭𒈹	KI E NE DI AN MUŠ3	EŠEMEN2
-𒆠𒇴	KI LAM	GANBA
-𒆠𒉈	KI NE	ABNI2
-𒆠𒌓	KI UD	KISLAḪ
-𒆠𒋢𒇻𒂠𒃻	KI SU LU EŠ2 GAR	UGNIM
-𒆪𒅂	KU IDIM	MITUM2
-𒆪𒆪	KU KU	DURUNX, EḪ3
-𒆬𒀭	KU3 AN	AZAG
-𒆸𒌀	LAGAB×TIL	GIGIRX
-𒇯𒁺	LAGAR gunû DU	ED3
-𒇳𒁺	LAL×LAL DU	UKUR3
-𒇴𒆳𒊒𒁕	LAM KUR RU DA	ARATTAX
-𒇽𒃵	LU2×GAM	ADX
-𒇽𒆠	LU2 KI	GURUD2
-𒇽𒇽	LU2 LU2	ADAMINX
-𒈕𒈾	LU2 šešig NA	ARINAX
-𒈜𒁆	LUL BALAG	TIGI2
-𒈦𒄘𒃼	MAŠ GU2 GAR3	DALLA, IDIGNA
-𒈦𒉺	MAŠ PA	MAŠ3
-𒈬𒍑𒌆𒉿	MU UŠ TUG2 PI	MUŠTUG2
-𒈸𒀀𒈾	MUŠ×MUŠ A NA	ARINA, ERINA8
-𒈹𒁍	MUŠ3 BU	SUSBU3
-𒉈𒊒	NE RU	ERIM2
-𒉌𒌇	NI TUK	DILMUN
-𒉢𒁓	NU11 BUR	BURU4
-𒉢𒁓𒆷	NU11 BUR LA	LAGAŠ
-𒉣𒇬	NUN LAGAR	TUR3
-𒉣𒈨	NUN ME	ABGAL
-𒉣𒈨𒁺	NUN ME DU	ABRIG
-𒉣𒈨𒅤	NUN ME KA×GAN2 tenû	ABGAL2
-𒉣𒈨𒋳	NUN ME TAG	GAŠAM
-𒉩𒆠	NUN tenû KI	GURUD
-𒉭𒀖𒆷	NUNUZ AB2×LA	USAGX
-𒉺𒄐𒋛𒀀	PA GISAL SI A	ADDIRX
-𒉺𒄐𒋛𒀀𒉻	PA GISAL SI A PAD	ADDIRX
-𒉺𒀠	PA AL	ŠABRA
-𒉺𒀭	PA AN	ĜARZA
-𒉺𒇻	PA LU	SIPAD
-𒉺𒈗	PA LUGAL	ĜARZA2
-𒉺𒊺	PA ŠE	IŠIN
-𒉻𒈹	PAD MUŠ3	NIDBA2
-𒉽𒂊	PAP E	PA5
-𒉽𒅊𒉣𒈨	PAP IGI gunû NUN ME	ISIMUD4
-𒉽𒈿	PAP NA2	GAM3, ZUB, ZUBI
-𒉽𒉣𒈨𒂡	PAP NUN ME EZEN	ISIMUDX
-𒉽𒉽	PAP PAP	AMAN Ammon : God ↔ Ashur-Papa
-𒉽𒊺𒉽	PAP ŠE PAP	MUNU4
-𒊩𒄸	SAL ḪUB2	EME5, LAGAR3
-𒊩𒆳	SAL KUR	GEME2
-𒊩𒌨	SAL UR	NIG
-𒊩𒍑	SAL UŠ	NITALAM4
-𒊩𒍑𒁮	SAL UŠ DAM	ĜIDLAM
-𒊩𒍑𒁲	SAL UŠ DI	MUSSA
-𒊮𒄀	ŠA3 GI	ANZALUB
-𒊺𒌁	ŠE TIR	AŠNAN, EZIM2, EZINA2
-𒋀𒆠	ŠEŠ KI	NANNA
-𒋗𒁲𒌍	ŠU DI U U U	SUḪUB4
-𒋗𒁹	ŠU DIŠ	SUḪUB3
-𒋗𒂵	ŠU GA	SUḪUB5
-𒋗𒃻𒌉𒇲	ŠU GAR TUR LAL	TUKUM
-𒋗𒉀	ŠU NAGA	TU5
-𒋙𒀭𒄲	ŠU2 AN ḪI×GAD	KEŠ3
-𒋙𒀾	ŠU2 AŠ2	GIBIL2, KIBIR2
-𒋛𒀀	SI A	DIR
-𒋠𒇴	SIK2 LAM	ADKIN
-𒋠𒇴𒋦	SIK2 LAM SUḪUR	AŠ5
-𒋠𒋤	SIK2 SUD	ZULUMḪI
-𒋢𒀀	SU A	AKTUM2
-𒋼𒀀	TE A	KAR
-𒋼𒀊	TE AB	UNU6
-𒋼𒀕	TE AB gunû	UNU2
-𒌆𒌓	TUG2 UD	AZLAG
-𒌉𒁹	TUR DIŠ	GENNA
-𒌋𒀜	U AD	GIR4, ISIMU3
-𒌋𒃶	U GAN	ŠAGAN, ŠAĜAN, ŠAKAN
-𒌋𒅗	U KA	UGU
-𒌋𒆤	U KID	ŠITA4
-𒌋𒊊	U PIRIG	KUŠU, KUŠUM4
-𒌋𒊕	U SAG	SAGŠU, SAĜŠU
-𒌋𒌆	U TUG2	DUL, ŠUDUL2
-𒌋𒌋	U U	MIN3 twen?
-𒌑𒄉	U2 GIR2 gunû	AD5, KIŠI16
-𒌑𒆠𒋧𒂵	U2 KI SUM GA	GUD3
-𒌑𒉀	U2 NAGA	UGAX
-𒌓𒁺	UD DU	E3, ED2
-𒌓𒄒𒉣	UD GIŠ×GIŠ NUN	BURANUN, BURANUNA, ZIMBIR
-𒌓𒄷𒄭𒉣	UD ḪU ḪI NUN	ABBUNUNNU
-𒌓𒅗𒁇	UD KA BAR	ZABAR
-𒌓𒈣𒀏𒆠𒋳	UD MA2 AB×ḪA KI TAG	SIRARA6
-𒌓𒈣𒀏𒋓	UD MA2 AB×ḪA ŠIR	SIRARA2
-𒌓𒉣	UD NUN	ADAB, SURUNGAL
-𒌓𒊩𒄸	UD SAL ḪUB2	ALGAMEŠ
-𒌓𒌓	UD UD	BABBAR2, DADAG
-𒌗𒀭𒋀𒆠	UD×U + U + U AN ŠEŠ KI	ITI7
-𒌝𒈨	UM ME	EMEDA
-𒌨𒀀	UR×A	DULX
-𒌫𒀀	UR2×A	ARINAX
-𒍑𒁍𒁕	UŠ BU DA	ARAḪX
-𒍑𒁮	UŠ DAM	ĜIDLAM2
-𒍑𒆪	UŠ KU	GALA
-𒍑𒊩𒁮	UŠ SAL DAM	ĜIDLAM3
-𒍝𒄢	ZA GUL	GUG
-𒍝𒈹𒁲	ZA MUŠ3 DI	AMAGI3
-𒍝𒈽	ZA MUŠ3 gunû	ŠUBA
-𒍝𒈽𒀕	ZA MUŠ3 gunû AB gunû	ZABALAM
-𒍝𒉏	ZA NIM	NIR3
-𒍤𒆸	ZI / ZI LAGAB	AŠKI, GIN4, NUMUN2
-𒍪𒀊	ZU AB	ABZU
 Numbers and Punctuation
 	codepoint	name	Borger
 (2003)	Borger
@@ -2726,3 +2543,171 @@ Numbers and Punctuation
 𒑲	U+12472	diagonal colon	592		
 𒑳	U+12473	diagonal tricolon		 
 su2 	𒋙 
+hu2 	𒀪
+BAN2 	𒑑 
+sa3 	𒐼  	𒎗 = 𒃻 šá 
+zu3	 𒍮
+bi3 	𒑙
+ha2 	𒀪  	HA₂ 𒀪 ≈ 𒎗𒐀𒁹 ≈ 𒄭𒀭 •Hel 𒄭 𒀭
+as2 	𒀾
+gar2 	𒋼𒀀 	ligature
+is2  	𒄑
+mi3 	𒈨 	me
+sab 	𒉺𒅁  	ligature
+se4 	𒍢
+SIR3	𒂡 
+šir₃	𒂡 
+šir3	𒂡 
+shir3	𒂡 
+GUB2 	𒆏
+GAB2 	𒆏
+dan6 	𒍕 
+eš8 	𒆜
+gagar 	𒆠
+dag2 	𒌓
+gagig 	𒃟  	"cry"
+gur₃ 	𒅍
+gur3 	𒅍
+guru3 	𒅍
+gaĝx 	𒅍
+gagx 	𒅍
+gaĝₓ 	𒅍
+gagₓ 	𒅍
+IL2 	𒅍
+ga6 	𒅍
+AG3 	𒋃
+AG₃ 	𒋃
+AĜ3 	𒋃
+AĜ₃ 	𒋃
+gakkul	𒌋𒁵 
+gakkul2	𒌋𒁵 
+gakkul₂	𒌋𒁵 
+gakkul3	𒌋𒁴 
+gakkul₃	𒌋𒁴 
+gala10 	𒇽𒁹
+BALAĜ 	𒁆	
+ĜAL2 	𒅅 
+kaš4 	𒁽 
+kash4 	𒁽 
+kas4 	𒁽 
+SA10 	𒉚 	NINDA2×ŠE  
+imga 	𒅎𒂵 	im-ga
+GALLA 	𒋼𒇲
+GALLAx 	𒋼
+GALLAₓ 	𒋼
+marku 	𒈥𒄩
+gamarku 	𒉌𒄩
+gamar 	𒉌
+gambi 	𒊩𒍑𒁲
+KE4 	𒁲
+KE4b	𒆤
+gam4 	𒃶
+gam2 	𒄰
+kur9 	𒆭 
+gamun 	𒁷𒌁 		cumin
+gamun2 	𒌁
+gur₁₅ 	𒌴
+gur15 	𒌴
+ganam4 	𒇇
+ganam5 	𒇆
+gallagalx 	𒃲𒋼𒇲
+gansis 	𒋯 
+ganzer 	𒅆𒆳𒍝  	#kanisurru "earth" 
+ganzer3 	𒅆𒆳 
+garaš2 	𒆠𒆘 		catastrophe
+garaš5 	𒆠𒆗 	garlic
+garaš4 	𒆜𒂵 	 garlic
+banda 	𒌉𒁕 	ban3-da
+TIL3 	𒋾 
+GAZ₂  	𒄣 	⇔ 𒄤 GAZ
+GAZ2  	𒄣 	⇔ 𒄣 GUZ
+kaz8 	𒀪 
+gazinbu 	𒁍  𒂵𒍥𒅔𒁍 ga-zi-in-bu
+gidim2 	𒈦𒌋 	"ghost" ≈ 𒄇  gidim
+gidim3 	𒁍
+dirig 	𒋛𒀀
+GIR₁₁ 	𒆟 
+GIR11 	𒆟 
+gigir 	𒇀  	# 𒄑𒇥 [[chariot]] 𒇀 ≈ 𒆸𒁁 KUR₄baṭ ≈ 𓎡 𓄿 𓃀 𓏲 𓍘 𓇋 
+gigir2 	𒇥  	# 𒄑𒇥 [[chariot]] 𒇀 ≈ 𒆸𒁁 KUR₄baṭ ≈ 𓎡 𓄿 𓃀 𓏲 𓍘 𓇋 
+girₓ  	𒈲  	> 𒈲 sír < 𒈲 girₓ ≈ Kar (snake)
+girx  	𒈲  	
+GE₁₄ 	𒌋 
+ge3 	𒁹
+GE14 	𒌋 
+ge15 	𒀸
+ge22 	𒀺   
+ge23 	𒀹
+ge24 	𒍻
+giguru 	𒌋  	"edge"
+giguru 	𒆂 	 giguru @ Gurgel "swallow"
+sag
+giĝ4 	𒂆
+gar9  	𒂵
+ga10  	𒂵𒉌
+gar11 	𒂵𒀀
+gar12 	𒂵𒁹
+garx  	𒂵𒂵
+gara₂ 	𒂶 	 √gähr cream 
+gara2 	𒂶 	 √gähr cream 
+gar4  	𒄞
+GI16  	𒄃  	"cross"
+GE16  	𒄃  	 𒄀 GI 𒄃 GE "geometry" #qaštu  
+GIL   	𒄃
+gilil 	𒄃𒅋
+gilim2 	𒉾 
+kilim 	𒉾 
+gibil3 	𒆠𒉈
+gibil2 	𒋙𒀾
+bul5  	𒇡 	  “plant” <> 𒆸 ≈ 𓊪 in 𒇥 PÚ "pool"
+gidešta 	𒃻𒄕𒋡  	≈ 𒃻𒃰𒋡  	≈ 𒃻𒇬𒋡 
+GIR₅ 	𒁽  	
+gigri2 	𒁽𒁽  	GIR₅GIR₅ 
+GUN4 	𒀕 		[[𓌢]]
+gir12 	𒅔  	Tier !
+kilib 	𒆸 
+nindan 	𒃻
+ĝir3  	𒄊
+gir16 	𒄌 	𒀲  𒄊 GÌR
+ĝiri16 	𒄌
+gir9  	𒀚 	   AB2×ŠA3  
+gir7 	𒁺
+gir5 	𒁽
+gir14	𒄩 
+girabax 	𒀊𒄫
+gira 	𒌋𒈦𒆏
+šukur 	𒆕 	 secret 𒄀𒆕 enclosure
+gug6  	𒊕𒆕 	seal  #kanāku "to seal".
+gug6  	𒊕𒆕 	stick, weapon <>
+GUG5  	𒈙		 "Krieg" guerre
+kin5  	𒌺  URU×BAR con… port "gather" 
+šeg10 	𒆂  	𒊕 SAG  ≈ 𒅗 
+šeg11 	𒅝  	𒊕 SAG  ≈ 𒅗 
+guana 	𒍚𒆜 	guernica "battle"
+gud2  	𒊥  	𒊕 SAG "•chat" 
+rah2  	𒊏  	ra
+sumun2 	𒄢
+gudux 	𒄴
+gudu4 	𒄴𒈨
+gudug 	𒄴𒈨
+gug   	𒍝𒄢
+gug4  	𒍤𒆸 
+zi&zi  	𒍤
+guhšu 	𒈞𒋙
+gukin  	𒇐  	国 guó 𒆥 KIN kingdom
+gukin2 	𒄳 
+kin5  	𒌺
+gukkal 	𒄾   🐑,🥒,😁
+udugukkal 	𒇻𒄾   🐑
+GU5 	𒆪 
+GUM2 	𒈝 	ḪUM LUM 
+GUN5 	𒈝
+MUR7 	𒈱 
+dim4 	𒉽𒉽
+gun2 	𒄘  	gu2 
+nida 	𒄘𒉭
+gunni 	𒆠𒉈 	ki-ne
+gunux 	𒋜
+gurx 	 𒊺𒆥  	ŠE.KIN
+GARADINX  	𒃱
+KINDA  	𒃱  = 𒀶𒃻²  GAD.GAR²
