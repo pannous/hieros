@@ -1145,8 +1145,8 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒁲𒉡𒃵𒊒 	di-nu di-nu gam-ru
 𒁲𒉡𒃵𒊒 	completed case << 𒃵𒊒 com ++
 
-𒁲 𒌀 𒇻 	di-til-lu
-𒁲𒌀𒇻 	completed case, ≠delete
+𒁲𒌀𒇻 	di-til-lu
+𒁲𒌀𒇻 	completed case, ≠delete <> √Teil
 
 𒁲𒉡𒁕𒉡 	di-nu da-nu •don
 𒁲𒉡𒁕𒉡 	to pass verdict
@@ -5780,6 +5780,9 @@ _𒉿𒁍 	enemy, villainous, wicked
 𒊓𒄖 	a skirt, chapel, kilt, shrine
 
 𒄑𒄷𒌒𒈠 is-ḫu-up-ma a'supermacy overwhelm
+𒄑𒄽     is-hup super … overwhelm
+
+
 
 𒊓𒄩𒁍 	sa-ḫa-pu® super (whelm)
 𒊓𒄩𒁍 	overwhelm, to envelop
@@ -8634,6 +8637,8 @@ I will let (you) achieve your heart’s desire.
 𒀀𒅆𒁍𒋾 a-ši-bu-ti s'habit 
 
 𒌋𒌋𒁕𒀜𒌓  man-da-at-tú 𓂠 𓂞 / 𓂟𓂞 manudatum mandate "payment, tribute"
+𒈠𒁕𒀜𒋫  maⁿda-at-tú 𓂠 𓂞 / 𓂟𓂞 manudatum mandate "payment, tribute"
+
 
 𒀲 𒃵 𒂷𒎌 ANŠE GAM.MAL.MEŠ camels
 
@@ -8751,7 +8756,9 @@ revolt and rebellion
 
 𒌋𒊓𒊍𒆠𒈾 u-sa-as-ki-na cause to move (feet 𒊺𒉺 še-pa sepi  )
 
-𒀊 𒆪𒉡 is-ku-nu accomplish
+𒀾𒆲   as2-kun  accomplish
+𒀊𒆪𒉡 is-ku-nu accomplish
+
 
 
 𒄑𒆤𒎌 KID.mes <> 𓊡 sail cloth
@@ -8921,7 +8928,8 @@ in midst of the sea I saw maliciousness
 
 𒍮𒌝𒑙 zu3-um-bi3  zoomber;) "carriages"
 
-𒀜 𒊒𒌓 ad-ruᵛud drove @ road drive-back
+𒀜𒊒𒌓 	ad-ruᵛud drove @ road drive-back
+𒀜𒊒𒊻 ad-ruᵛus drove
 
 𒅅𒁍𒉌 ig-bu(ni) ≈
 𒀝𒁀𒀀 ag-ba-a gebat "commanded" <> mighty?
@@ -9009,7 +9017,6 @@ in midst of the sea I saw maliciousness
 𒈠𒄩𒍪 𒃲𒌑 ma-ha-zu rab-u2 medina mahas gravitu "big city"
 
 
-
 𒂵𒊑 ga-ri guerry ≠ garrison "enemies" enemy
 
 
@@ -9019,4 +9026,58 @@ in midst of the sea I saw maliciousness
 
 𒂊𒋰𒉺𒇻 e-tap-pa-lu increased √ top
 
+𒅎𒉡 im-nu manu 𓂠 𓂟 "hand out"
+
+𒅅𒉡𒐼 ik-nu-sa √knecht submit
+
+𒂊𒄫𒊩 e-pis-sal official "opus" =>
+𒂊𒄫𒊩 [[𒅆𒁾]] tuglu "concubine"  𒅆𒁾 𒁇 "an official"  QED
+
+𒌑 𒋥𒁲 u2-rad-di ver-addiert "added"
+
+𒉺𒅁𒁲𒇻 sab-di-lu sub-teil "broken off"
+
+𒄑𒇻𒌋 iz-lu-u slew schleudern geschleudert
+
+𒐼𒇴𒋫 sa3-lam-ta salvat slavat «slave» follower attendant
+
+𒈾𒊏𒊒𒋾 na-ra-ru-ti Not-Rettung "aid, help"  ⲛⲉⲙ-ϯⲧⲟⲧ⳼ 	 give hand, help, aid to
+𓈖 𓆓 𓐩 𓏌 𓏛 | save, protect | Not-guard  ≠ הֵגֵן hegén hagen hecken @ home حَمَى ḥamā
+𓈖 𓆓 𓐩 𓏌 𓏛 | save, protect | Not-Schutz: ⲛⲧⲉⲛ-ⲥⲱϯ , ⲥⲉⲧ- , ⲥⲟⲧ⳼ 	 	
+𓈖 𓈟 𓅓 𓀜 | save, rescue | наҷот najot™ নাজাত najat necat نَجَاة najāh™  نجات دادن nejât dâdan 
+𓈖 𓈟 𓅓 𓀜 | save, rescue, withdraw (oneself) | nimm ⇔ take oneself to… / Nimnon /
+𓈖 𓉔 𓏏 𓉐 | shelter, refuge | Not…Tor  מִקְלָט miklát  𓈖 𓉔 𓏏 𓉐 = dìon RTL
+𓈖 𓉔 𓅪    | escape (death) | √naut <> Not not today
+ⲥⲱϯ , ⲥⲉⲧ- , ⲥⲟⲧ⳼ 	 	redeem,rescue "Schutz"
+ ⲛⲧⲉⲛ- 	 save from 
+
+𓌳 𓄿 𓇋 𓂋 𓌗 𓅪  𓏥 | need | < naird <> Not
+𓋴 𓇋 𓆛 𓈖 𓏏 𓊛 | canoe | scinaut = canoe ⇔ Sehnot :) ++
+
+𒌀𒄷𒍥 mit-hu-zi  Metzel "make war"
+𒌀𒄷𒍥 mit-hu-zi 𒀞 me₃.tachas 
+
+𒋗𒌓 šu-par₂ super … über… "about…, concerning"
+
+𒅖𒋫𒆗𒉺𒊏 is-ta-nap-pa-ra™ transport 𓊨…𓉐
+
+𒌑𒈠𒄭𒅕 u2-ma-hi-ir a' mayor "command"
+
+𒅗𒀀𒀀𒈠𒉡 ka-ᶠaiʳma-nu confirmed
+
+𒌑𒐼𒀭𒈾 u2-sa3-an-na ∑ repeated  instaurō (𒀭 star) 
+𒌑 𒐼𒀭𒈾 u2-sa3-an-na שנה shaná 𐎌𐎐𐎚 šnt /šanatu/ 𒀭 sun, season
+
+𒁍 púˡ in 𒁍𒌓 flight  𒋾𒁍𒌓 {tiʳ}púˡut flight of locust
+
+𒅗 𒋾𒅎 kaᵛti-im couvertim intim
+
+𒍢𒅕 ẒIᵖIR super sûr "against"
+
+
+𒊍𒁁  az-bat 𓃀 expede
+𒊍𒁀𒋫 𒄯𒊏𒉡 az-ba-ta mur-ra-nu ex-pode [[march]]ing
+
+𒉺 𒌅 pa-tu pathos
+𒉺𒌅 paʳtu paˣtu Furcht fear
 
