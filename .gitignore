@@ -40,3 +40,4 @@ fonts/*.pdf
 **/*.icloudapps/
 .DS_Store
 abc/bbb
+.idea
