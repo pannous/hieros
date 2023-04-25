@@ -1,4 +1,56 @@
 ### EXTRA those with NUMBER (…2 etc) need to go to BOTTOM of file!!
+lumx 	¿ 	 egg?
+ašarid 	¿ erst
+ala 	𒌷
+alu 	𒌷  	ville
+arhuš5 	𒀉𒌉 
+arhuš6 	𒀉𒊩
+dama 	𒂼 	d'ama dame <> Mama
+dinana 	𒈹 
+akar	¿ 	gear "armor" @ guerre Akk. 𒀊𒈛𒌅 	ap-luḫ-tu apluhtu
+aah 	𒀀𒄴
+šir2 	¿
+utu 	𒌓
+zabaraga  	𒌓𒊕𒁇𒂇 	utu-sag-bar-aga
+zabar  	𒌓𒊕𒁇 	utu-sag-bar Zober (a vessel)
+šim 	𒋆
+šem 	𒋆
+šimaz 	𒋆𒊍 
+šem3 	𒀚
+luzabar  	𒇻𒌓𒊕𒁇
+lak589 	¿
+LAK590 	¿
+kup5 	¿
+egir₄ 	𒌈 
+egir4 	𒌈 
+zin 	𒊿
+ẓin 	𒂔 
+zin2 	𒂔 
+bre 	𒂊 
+EF 	𒂊 
+zze 	𒍢
+iṣ 	𒄑
+iss 	𒄑
+is4 	𒄑
+takax 	𒁆 ≈ 𒋺	TAK4
+taka4 	𒋺
+tug3 	𒉿𒌆 	pi.tug2
+uga 	𒂵  GA
+ul4 	𒄉
+zug2 	𒅗 	𒊕 saĝ
+zug₂ 	𒅗 	𒊕 saĝ
+UZUGX 	𒅗𒌑
+zukum 	≈ 𒌁𒆸 ≈ 𒂃𒆸
+ĝa3 	𒂷·𒐈 		𒂷•𒅕 ĝa2.ir 
+ĝanun 	𒃠 	𒂷·𒉣 GÁ×NUN GA₂.NUN	ĝa2.nun Kontor
+ĝeli3 	𒅲 	Kehle
+tu2 	𒌆
+ĝisal  	𒄞𒄑 	≈ 𒁉𒄑 BI.GIŠ 𒄀𒊓𒀠 gi-sa-al 𒄀𒊭𒀠𒈝 gi-ša-al-lum 𒈬𒊭𒈝  mu-ša-lum <> sail
+bir2 	𒌓
+rit 	𒋃 	# ridge ≈ 𒋰𒐈̲ ≈ 𒑊𒐈̲ ≈ 𒊒 RUᵈ 
+pul 	𒇧
+av 	𒄠
+dum 	𒌈
 hup 	𒄽
 war 	𒁇
 ai 	𒀀𒀀
@@ -29,7 +81,7 @@ MIR 	𒂇
 šap 	𒉺𒅁 
 shap 	𒉺𒅁 
 sha2 	𒋚  	sau
-bel 	𒂗 	 ⋍ 𒉺𒋼𒋛𒃻 Patesi ≈ [[puzur]] > pa'ria > [[𒂗]] Baal  
+bel 	𒂗 	 ⋍ 𒉺𒋼𒋛𒃻 Patesi ≈ puzur > pa'ria > 𒂗 Baal  
 pah 	𒈜
 pah2 	𒆦𒋰
 paḥ 	𒆦𒋰
@@ -492,6 +544,7 @@ DAḪ	𒈭
 DAL	𒊑
 DALLA	𒈦𒄘𒃼	*
 DAM	𒁮
+DAN2 	𒃉 	≈ DGEN 𒂷
 DAN3	𒃩
 DAN4	𒃋
 DAR	𒁯
@@ -1533,7 +1586,7 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒀑	U+12011	AB×IMIN	237		
 𒀒	U+12012	AB×LAGAB	234		
 𒀓	U+12013	AB×ŠEŠ	226	200c	
-𒀔	U+12014	AB×U + U + U	232		
+𒀔	U+12014	AB×U +U+U	232		
 𒀕	U+12015	AB gunû		 UNUG
 𒀖	U+12016	AB2	672	420	AB2, LID
 𒀗	U+12017	AB2×BALAG	676	422	LILIZ
@@ -1633,7 +1686,7 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒁵	U+12075	DIM×ŠE	168	94	MUN
 𒁶	U+12076	DIM2	686	440	DIM2, GIM, GIN7
 𒁷	U+12077	DIN	119	465	DIN
-𒁸	U+12078	DIN KASKAL U gunû DIŠ		 
+𒁸	U+12078	DIN KASKAL+U gunû DIŠ		 
 𒁹	U+12079	DIŠ	748; 749	480	DIŠ, EŠ4
 𒁺	U+1207A	DU	350	206	DE6, DU, GUB, ĜEN, GIN, RA2, RE6, ŠA4, TUM2
 𒁻	U+1207B	DU / DU	350	206a	LAḪ4, RE7
@@ -1766,7 +1819,7 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒃺	U+120FA	GAN2×GAN2	174v	 ALAL4
 𒃻	U+120FB	GAR	859	597	GAR, ĜAR, NINDA, NI3, NIG2, NIĜ2
 𒃼	U+120FC	GAR3	543	333	GAR3, QAR
-𒃽	U+120FD	GAŠAN	562; 563	350	GAŠAN, U gunû
+𒃽	U+120FD	GAŠAN	562; 563	350	GAŠAN,U+gunû
 𒃾	U+120FE	GEŠTIN	212	210	GEŠTIN, ĜEŠTIN
 𒃿	U+120FF	GEŠTIN×KUR	213		
 𒄀	U+12100	GI	141	85	GE, GI, GEN6, GIN6, KE2, KI2, SIG17
@@ -2002,7 +2055,7 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒇤	U+121E4	LAGAB×TE + A + SU + NA		
 𒇥	U+121E5	LAGAB×U	786	511	BU4, GIGIR2 "wain"; PU2, TUL2 "source, fount"
 𒇦	U+121E6	LAGAB×U + A	787	512	ABLAL3, UMAḪ
-𒇧	U+121E7	LAGAB×U + U + U	788	515	BUL, BUR10, NINNA2, TUKU4
+𒇧	U+121E7	LAGAB×U +U +U	788	515	BUL, BUR10, NINNA2, TUKU4
 𒇨	U+121E8	LAGAB×U2 + AŠ	774	499	
 𒇩	U+121E9	LAGAB×UD	783	505	
 𒇪	U+121EA	LAGAB×UŠ	770		
@@ -2150,7 +2203,7 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒉸	U+12278	NUNUZ KISIM5×BI	621	394d	
 𒉹	U+12279	NUNUZ KISIM5×BI U	622		
 𒉺	U+1227A	PA	464	295	ĜIDRU "staff, sceptre", PA, SAG3, SIG3, UGULA "overseer"
-𒉻	U+1227B	PAD	746	469	PAD, ŠUK, U GAR
+𒉻	U+1227B	PAD	746	469	PAD, ŠUK,U GAR
 𒉼	U+1227C	PAN	685	439	PAN
 𒉽	U+1227D	PAP	092	60	PAB, PAP, KUR2
 𒉾	U+1227E	PEŠ2	741; 882	346	PEŠ2
@@ -2294,20 +2347,20 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒌈	U+12308	TUM	354	207	IB2, EGIR4, TUM
 𒌉	U+12309	TUR	255	144	BAN3, BANDA3, DI4, DUMU, TUR
 𒌊	U+1230A	TUR / TUR ZA / ZA		 
-𒌋	U+1230B	U	661	411	BUR3, ŠU4, U
-𒌌	U+1230C	U GUD		 DU7, UL
-𒌍	U+1230D	U U U	711	472	ES2, EŠ, "30"
-𒌎	U+1230E	U / U PA / PA GAR / GAR		 
-𒌏	U+1230F	U / U SUR / SUR		 GARADIN9
-𒌐	U+12310	U / U U reversed / U reversed	713	474	MAŠGI, BARGI
+𒌋	U+1230B	U… 661	411	BUR3, ŠU4, U
+𒌌	U+1230C	U.GUD		 DU7, UL
+𒌍	U+1230D	U.U.U	711	472	ES2, EŠ, "30"
+𒌎	U+1230E	U/ U.PA / PA GAR / GAR		 
+𒌏	U+1230F	U/ U.SUR / SUR		 GARADIN9
+𒌐	U+12310	U/ U.U reversed /U reversed	713	474	MAŠGI, BARGI
 𒌑	U+12311	U2	490	318	KUŠ3, U2
 𒌒	U+12312	UB	504	306	UB
 𒌓	U+12313	UD	596	381	A12, AḪ3, BABBAR, ḪAD2, ḪUD2, PIRIĜ2, U4, UD, UT
 𒌔	U+12314	UD KUŠU2	611	392	AḪ6, UḪ2
 𒌕	U+12315	UD×BAD		
 𒌖	U+12316	UD×MI	597	382	ITIMA2
-𒌗	U+12317	UD×U + U + U		ITID
-𒌘	U+12318	UD×U + U + U gunû		 
+𒌗	U+12317	UD×U +U+ U		ITID
+𒌘	U+12318	UD×U+U+U gunû		 
 𒌙	U+12319	UD gunû	542	337*	uncertain
 𒌚	U+1231A	UD šešig	0020	52	ITI, UD×EŠ
 𒌛	U+1231B	UD šešig×BAD		
@@ -2387,7 +2440,7 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒍥	U+12365	ZI3		536	ZI3, ZID2; ≈EŠ2
 𒍦	U+12366	ZIB	628	395	ZIB
 𒍧	U+12367	ZIB KABA tenû		 
-𒍨	U+12368	ZIG	336	190	ḪAŠ2, NINDA2×U + U + U, ZIB2, ZIG, ZIK,
+𒍨	U+12368	ZIG	336	190	ḪAŠ2, NINDA2×U +U+ U, ZIB2, ZIG, ZIK,
 𒍩	U+12369	ZIZ2	 339	ZIZ2
 𒍪	U+1236A	ZU	015	006	ZU
 𒍫	U+1236B	ZU5		 ZU5
@@ -2436,7 +2489,7 @@ Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Commen
 𒎖	U+12396	SAG×IGI gunû		
 𒎗	U+12397	TI2		 TI2
 𒎘	U+12398	UM×ME		 
-𒎙	U+12399	U U		 MIN3
+𒎙	U+12399	U.U		 MIN3
 
 Numbers and Punctuation
 	codepoint	name	Borger
@@ -2494,7 +2547,7 @@ Numbers and Punctuation
 𒐱	U+12431	five ŠARU		 180,000
 𒐲	U+12432	ŠAR2×GAL.DIŠ	651	408	216,000
 𒐳	U+12433	ŠAR2×GAL.MIN	652	408	432,000
-𒐴	U+12434	one BURU	662	350,8	U gunû
+𒐴	U+12434	one BURU	662	350,8	U-gunû
 𒐵	U+12435	two BURU		
 𒐶	U+12436	three BURU		
 𒐷	U+12437	three BURU variant form		 
@@ -2631,8 +2684,8 @@ gidim3 	𒁍
 dirig 	𒋛𒀀
 GIR₁₁ 	𒆟 
 GIR11 	𒆟 
-gigir 	𒇀  	# 𒄑𒇥 [[chariot]] 𒇀 ≈ 𒆸𒁁 KUR₄baṭ ≈ 𓎡 𓄿 𓃀 𓏲 𓍘 𓇋 
-gigir2 	𒇥  	# 𒄑𒇥 [[chariot]] 𒇀 ≈ 𒆸𒁁 KUR₄baṭ ≈ 𓎡 𓄿 𓃀 𓏲 𓍘 𓇋 
+gigir 	𒇀  	# 𒄑𒇥 chariot 𒇀 ≈ 𒆸𒁁 KUR₄baṭ ≈ 𓎡 𓄿 𓃀 𓏲 𓍘 𓇋 
+gigir2 	𒇥  	# 𒄑𒇥 chariot 𒇀 ≈ 𒆸𒁁 KUR₄baṭ ≈ 𓎡 𓄿 𓃀 𓏲 𓍘 𓇋 
 girₓ  	𒈲  	> 𒈲 sír < 𒈲 girₓ ≈ Kar (snake)
 girx  	𒈲  	
 GE₁₄ 	𒌋 
@@ -2666,7 +2719,7 @@ bul5  	𒇡 	  “plant” <> 𒆸 ≈ 𓊪 in 𒇥 PÚ "pool"
 gidešta 	𒃻𒄕𒋡  	≈ 𒃻𒃰𒋡  	≈ 𒃻𒇬𒋡 
 GIR₅ 	𒁽  	
 gigri2 	𒁽𒁽  	GIR₅GIR₅ 
-GUN4 	𒀕 		[[𓌢]]
+GUN4 	𒀕 		𓌢
 gir12 	𒅔  	Tier !
 kilib 	𒆸 
 nindan 	𒃻
@@ -2721,3 +2774,372 @@ par2 	𒌓 	≈ pir 𒎕 𒑊𒑖
 nap 	𒆗  	𓎟𓋞
 zira 	𒂔
 zirai 	𒂔
+gurud 	𒈈  	𓀒
+gurud2 	𒉩𒆠  	𓀒@ground
+RIN₅ 	𒈕 
+RIN5 	𒈕 
+gurum2 	𒅆𒂟 
+gurumₓ 	𒅆𒃻
+gurumx 	𒅆𒃻
+guruš4 	𒋳
+guz 	𒈝
+guza  	𒆪𒃻 	kuᵈgar
+ĝarar   	𒃻𒅈
+rig7 	𒉺𒄸𒁺  	PA.HUB2.DU
+ĝarim 	𒇑 	  ≈ garden "meadow"
+kin2 	𒄯
+KÍN  	𒄯
+ĜEŠTIN	𒃾
+ĜESHTIN	𒃾
+degₓ 	𒊑
+degx 	𒊑
+mumu 	𒈬𒈬
+par4 	𒉌 𒄑
+giparₓ 	𒆦
+giparx 	𒆦
+ĜIR15 	𒂠
+ĝiri2 	𒄈
+ME2  	𒈪
+ĝušur 	𒃡 	 	 gušūru "beam"
+ĝušur2  	𒊐𒃲
+ĝušurₓ  	𒊐𒌉𒌉
+ĝušurx  	𒊐𒈤
+gušur2  	𒊐𒃲
+gušurₓ  	𒊐𒌉𒌉
+gušurx  	𒊐𒈤
+gushurx  	𒊐𒈤
+ĝiparx 	𒆦
+ĝiparₓ 	𒆦
+giparx 	𒆦
+giparₓ 	𒆦
+gešpu2 	𒋗𒉽𒉽
+gešpaₓ 	𒋗𒉽𒉽
+gešbaₓ 	𒋗𒉽𒉽𒁀
+gešbax 	𒋗𒉽𒉽𒁀 	"Geboxe"
+PAₓ 	𒉽𒉽
+bulug3 	𒉽𒉽
+PAx 	𒉽𒉽
+BU₁₀ 	𒉽𒉽 	bowl
+BU10 	𒉽𒉽 	bowl
+geštu2 	𒄑𒌆𒉿 	gis-tu2-pi cuneiform GIŠ.TUG₂.PI	ĝeštug2 geštug2 ĝeštu2
+si3 	𒅆
+i4 	𒎌
+kišig2 	𒄉
+buru5 	𒉅  	bird / locust
+buru4 	𒉢𒁓  	bird of prey ( 𒁓 BUR )
+buru15 	𒉢𒅕  	bird of prey
+azlag2 	𒌆
+azad 	𒀀𒇉𒋙
+azad2 	𒋺 
+GUR₁₆  	𒆳  	 ጋራ gara გორა góra ಗಿರಿ кайа کۄہ הַר 𒆴 𒆳*𒆳 kur-kur-ra 
+GUR16  	𒆳  	 ጋራ gara გორა góra ಗಿರಿ кайа کۄہ הַר 𒆴 𒆳*𒆳 kur-kur-ra 
+buru₈  	𒄬 	 buruˢ pars buru™ part
+buru8  	𒄬 	 buruˢ pars buru™ part
+bur₈  	𒄬 	 buruˢ pars buru™ part
+bur8  	𒄬 	 buruˢ pars buru™ part
+buluch  	𒄬
+bur'ux  	𒐬 	 𒄭 𒌋 ≈ 𒇥 PÚ 𓊪 𒄰 𒄭𒁁 bař
+buru16 	𒇡 	bul5 “plant” <> "pool" 𒆸 ≈ 𒇥 ≈ 𓊪 
+kit2 	𒆤
+buru6 	𒆤𒄷 	bird 𒆤𒄷 GIE 𒄀𒂊 gi-e ≈ 𒄖𒌫 gu-ur2 "crow" 
+BU₇ 	𒆪  
+BU7  	𒆪 	 "bright, light"
+burur2 	𒁓𒌫 	 bur.ur2 bearer (libation-)priest 
+bur11 	𒆠𒂗𒆕  	<> port
+muru6 	𒆠𒂗𒆕 	  <> muer Mauer
+burx 	𒆃  	break 𒆃	KA×ŠU
+bur₈  𒉽 	 пах pax ≈ pap 𒉽 cross ≈ 𒉽 crotch 
+bur8  𒉽 	 пах pax ≈ pap 𒉽 cross ≈ 𒉽 crotch 
+kunin 	𒇒
+buniĝ 	𒆹 
+buniĝ2 	𒇅 
+buniĝ3 	𒇉 
+bunin 	𒆹 
+bunin2 	𒇅 
+bunin3 	𒇉 
+bunga 	𒍑𒂵 	Bengel
+buluh 	𒄬 	 bur₈ buru₈ peur fear Furcht 
+KUŠU2	𒆵
+buluĝ 	𒁑 	 ≈ bulun βελόνη belónē "needle" <> βέλος (bélos, “arrow, dart”)
+bul3 	𒁄 	bal
+buluĝ3 	𒉽𒉽 
+bulug3 	𒉽𒉽 
+buluĝ₃ 	𒉽𒉽 
+bulug₃ 	𒉽𒉽 
+bulug5 	𒁆 	balag 	≈ 𒌣•𒎙 	Balg 𓅡 𓎡 𓀀
+buluĝ5 	𒁆 	balag 	≈ 𒌣•𒎙 	
+bu4 	𒀀
+bul 	𒇧  	"blow"
+bul4 	𒅮 	KA×IM  𒅗𒅎 bul4; bul; bul₄ "blow"
+bul₄ 	𒅮 	KA×IM  𒅗𒅎 bul4; bul; bul₄ "blow"
+bun2 	𒅮
+bú 	𒆜 
+bu2 	𒆜 
+biz 	𒁉
+biz2 	𒄐 
+𒋃 •rak ≈ 
+bisag 	𒂷 	 "basket" 𒂷𒋃 GÁ.rib 𒄀𒂷 Korb 
+bisag2 	𒋃 	 "basket"
+bisag3 	𒋄 	 "basket"
+bisaĝ 	𒂷 	 "basket" 𒂷𒋃 GÁ.rib 𒄀𒂷 Korb 
+bisaĝ2 	𒋃 	 "basket"
+bisaĝ3 	𒋄 	 "basket"
+bisan 	𒂷 	 "basket" 𒂷𒋃 GÁ.rib 𒄀𒂷 Korb 
+bisan2 	𒋃 	 "basket"
+bisan3 	𒋄 	 "basket"
+
+bur5 	𒄷𒊺𒂟 ḪŪ.ŠE.sig₅/sag₁₀ Heuschrecke 
+lu8 	𒌷 	ᵛlu8  ville 𒌷 #alu ≈ 𒌨 ḪUL 
+
+da10 	𒄭 	≈ 𒌓 DAG2 day 
+
+LU5 	𒈜 LUB lupo welpe wolf
+LU₅ 	𒈜 LIK λύκος lúkos  
+
+biluda 	𒉺𒀭
+
+bir7 	𒊮	 break "shred"  <> 𒄭 ≈ 𒌓 BIR2 
+bir6 	𒊰	 break "shred"  
+bir9 	𒊳	 break "shred"  
+bir9b	𒊵	 break "shred" 
+bir9 	𒉋 	BIR₉ break "shred"
+bir9 	𒉋 	BIR₉ burn 
+bar7 	𒉋 	BAR₇/NE burn brazier 
+
+bir9 	𒉋 	BIR₉ burn 
+bar7 	𒉋 	BAR₇/NE burn brazier 
+bIL 𒉈
+bíL 𒉋  
+bil2 	𒉋 
+bil3 	𒄑𒉋 
+bed3	𒆪 	 "piss" (vulgar)  
+be5	𒆪  	 "piss" (vulgar)  
+bid3	𒆪 	 "piss" (vulgar)  
+
+be4 	𒁀 	baˢ  base "to deduct, remove; to diminish, reduce" ≈ 
+be6 	𒉿 	pi   base "to deduct, remove; to diminish, reduce" ≈ 
+
+bibad 	𒊺𒄷𒌉𒄷  	"a bird"
+bazbaz 	𒊺𒄷𒄷 	 ba-ba-za bibad.mušen
+
+bara6	𒇙	  bright brown? 𒇃 me.en 𒈨𒂗 "a color term"
+
+bara2 	𒁈
+barag 	𒁈
+bara6	𒇙	  barag parakku 𓆤 "regent"
+bara7	𒇋 	 barag parakku 𓆤 "regent"
+bara8	𒇣 	 barag parakku 𓆤 "regent"
+bara10 	𒃖	= 𒁈 BARA2 = 𒃖 bara₁₀ Führer #barag 
+
+bara9	𒇗	 = 𒁈 barag porch ≈ pouch bag Bauch 
+
+
+si8 	𒁲 	≈ 𒋛 SI	𒋝 SIK σ sigma "square" in 𒁀𒋛 = 𒁀𒁲 base
+
+wu	𒉿
+w 	𒉿
+
+DUL5	𒌆 	<> dog, Töle
+banšur2	¿≈𒍎≈𒆓?
+banšur3 	𒆓
+barim 	𒁇𒁽
+barim2 	𒉺𒁽	 PA.RIM barim barren prairie
+barim3 	𒁀𒁽
+
+TAB2 	𒄉 
+šed10 	𒈹𒁲 	sedate, settle, cool down
+
+ša2 	𒃻 	≈𒋩 
+du5 	𒂅  	dun
+
+bappir 	𒋇 
+bappir2 	𒋆 
+bappir3 	𒁋	   𒁉·𒃻 ≈ 𒁋   BI×GAR @ 𒁉 beer
+
+barag2 	𒁖 	barack 𒁖  dak 	𒁖  	Dach
+babarag2 	𒁀𒁖 	√part : ?spread out?
+
+bara4 	𒁁 	√part : ?spread out?
+barr  	𒁁 	√part : ?spread out?
+bar3  	𒁁 	√part : ?spread out?
+bař   	𒁁
+
+nir2 	𒍝𒂆  	<> 𒉌𒌓 na4 nūr
+
+bad4 	𒆠𒆗
+bad5 	𒅆𒅆 	beat, defeat #dabtu
+
+ba7 	𒈦  	#bāmtu part: half #mišlu
+ba3 	𒌍  	#bāmtu part: "half; thirty" Akk. ; šalāšā
+
+ya10 	𒀀 	A 𒅀 ya yo 𒄿 yi I
+
+min5 	𒐀 	≈ 𒈫 𒐖 𒁹𒁹 𒑖 𒋰 𒀸𒀸 𒐀 𒀹𒀹 𒑊 𒃵 𒑲 𒌋𒌋 𒎙 𒑱 𒌀 𒋻 𒁇 𒁁 𒍗 𒑘 𒑙  
+
+BAḪAR₂ 	𒁃	 ≈ 𒂔 BAḪAR₂ potter 𒁇𒂔 baḫar₃ 𒌋𒂔 baḫar₄ "potter" po'er (British)
+BAḪAR2 	𒁃	
+baḫar₃ 	𒁇𒂔 
+baḫar3 	𒁇𒂔 
+baḫar₄ 	𒌋𒂔 
+baḫar4 	𒌋𒂔 
+
+BAhAR₂ 	𒁃	 ≈ 𒂔 BAḪAR₂ potter 𒁇𒂔 baḫar₃ 𒌋𒂔 baḫar₄ "potter" po'er (British)
+BAhAR2 	𒁃	
+bahar₃ 	𒁇𒂔 
+bahar3 	𒁇𒂔 
+bahar₄ 	𒌋𒂔 
+bahar4 	𒌋𒂔 
+bahar 	𒄞
+
+LAK742 	¿≈𒁃?
+LAK747 	¿≈𒁃?
+
+pe2 	𒉿
+
+balak 	𒁄 	פֶּלֶך pélekh Akk. pilaqqu "spindle" ++
+bala  	𒁄 	bal <> Ball Ballen "spindle" Akk. pilaqqu < веретено <> 방추 
+sar2 	𒃻
+balla 	𒃻 𒊕𒂵𒂅 𒂡𒂷 	  "wig" šar sag.ga.TUN šir₃.ga2 #zikari ; upur sinništi; upur zikari
+balla2 	𒃻𒊕𒂵𒂅𒂡𒊩 		 	"wig" šar sag.ga.TUN šir₃.ga2 #zikari ; upur sinništi; upur zikari
+
+BANDA3	𒌉
+BAN3.da	𒌉𒁕 	=
+BANDA4 	𒅂   	  Bund puntal puntello bāng "support, stanchion": pole, post
+BANDA5 	𒋞𒅂 	Bund puntal puntello bāng "support, stanchion": pole, post
+
+baneš 	𒀾 	 baño? (a container)
+
+banšur  	𒍎 
+banšurₓ 	𒍂  	bench !
+banšurx 	𒍂 	URU×IGI 
+banšurₓ 	𒍂 	URU×IGI 
+
+bakirum 	𒌋𒊬 	"a carrying strap" Akk. hišum ša nukaribbi
+
+bal3 	𒀡 	  𒀠 bull ≈ 𒀡 bal₃ 𒀦 bal₄ buddel @ Beil
+bal4 	𒀦 	  𒀠 bull ≈ 𒀡 bal₃ 𒀦 bal₄ buddel @ Beil
+
+du10 	𒄭
+du14 	𒈌  𒇽 •don ≈ 𒆕𒉈 DU3:
+du17 	𒉈
+dim3  	𒈚  	don, demon
+ddim3 	𒈚  	𒈚𒈨	ᵈdim3-me demon (deity)
+
+
+
+deg5 	¿
+dara2 	𒅁 
+
+durah 	𒁰 DARA3	
+durahₓ 	𒁱 	DARA4	
+durahx 	𒁱 	DARA4	
+
+
+dun5  	𒍘 
+du9  	𒍘 
+
+dupsik 	𒂵𒂅 ga.TUN "basket"
+dusu 	𒂵𒂅 ga.TUN "basket"
+
+da9 	𒌤	 	stir
+dim6 	𒌤	 ≈ 𒌣 ≈ 𒁆
+dimx 	𒁆
+dimma 	𒁆𒈠 	dumme? Lämmer  takmīsu
+dim12 	𒋃
+dilib 	𒋃 	
+dilib2 	𒆂
+dilib3 	𒊠
+dilib4 	𒊞
+dilib5 	𒊦
+dilib6 	𒊟
+di5 	𒊑  	•diarrhea Durchfall "bowel disorder"
+
+𒇽 LÚ ≈ 𒀠 al in 
+dubal 	𒀥
+dubal2 	𒀦
+dubal4 	𒈆 
+dubal6 	𒈈
+dubal7 	𒈐
+
+dih3 	𒆨 	turmoil
+
+daĝal 	𒂼 	GÁ × AN  
+
+dab2 	𒋰  	tab
+dab4 	𒁾 	dub
+
+eb 	𒅁
+
+dilurx 	𒈣𒆕 	 𒋛 sail in  𒈣𒈮 "mast" (≈ MUG mace)  
+dilur 	𒈣𒈮 	 𒋛 sail in  𒈣𒆕 #ᵐakû ≈ 𒈣𒆕 kak/khurn
+si12 	𒅊 
+diri 	𒋛𒀀
+du26 	𒋛𒀀
+
+
+
+dalhamun  	𒅎𒋖   	𒊑𒄩𒁵 dal-ha-mun 𒅐 
+dalhamun4 	𒅑 
+dalhamun5 	𒀰  
+dalhamun6 	𒅐 
+dalhamun7 	𒉃
+hamun     	𒉃
+
+dida 	𒁉𒌑𒊓 
+didax 	𒌑𒊓
+dubad 	𒆠𒆗
+
+dubul 	𒋗𒁍
+dulu 	𒋗𒁍
+dabx 	𒇆
+daban 	𒋰𒋰𒑖 	≈ 𒀮 ≈ 𒀊  
+dabin 	 𒍥𒊺 	ZI3.ŠE
+dagan 	𒆠𒍇
+daggan 	𒆠𒍇
+gišgal 	𒍇
+gisgal 	𒍇
+dalx 	𒄷
+dala2 	𒅆𒆕	
+dalla2 	𒅆𒉌 	IGI.NI
+
+danna 	𒆜𒁍
+dana2 	𒆜
+
+daparu 	𒇽𒈨𒂗 	depart/defeat 
+
+dara5 	𒄒 	Traube
+dehi 	𒁾  	tax
+tehi 	𒁾  	tax
+dib2 	𒆪 	< 𒁳 dib Dieb, transfer, pass
+
+didalx 	𒉈
+digbir 	𒆠𒉈𒀭𒈹
+
+me8 	𒉿  		me 𒈨
+il5 	𒂖 	 	fille 
+
+dilim3 	𒇌 	 𒆸𒅎 lagab(dil).im
+
+dimna 	𒌋𒂵
+dur9 	𒂄
+šah₂ 	𒂄 	 Sau
+šah2 	𒂄 	 Sau
+cis 	𒄑
+dimuš 	𒌑𒄑𒈪
+dudux 	𒉺𒍜	(|PA.UZU|) beating <> töten?
+tud2  	𒉺𒍜 	thrashing
+dul9  	𒌪 	Töle 𒌨
+dul2 	 𒇥 	dull deep(en)
+
+saĝĝa 	𒋃
+dungu 	𒅎𒋛𒀀  	 "cloud" <> 𓏏 𓈖 𓌰 𓅓 𓅱 𓇰 dunkel
+
+duri 	𒉢
+durme 	𒊕𒂡
+
+durunax 	𒆪𒆪 	tannour (oven)
+
+dusu2 	𒀲𒅆𒂠 	Dussel > Esel donkey
+dusux 	𒀲𒅆𒁳 	Dussel > Esel donkey
+
+ul3  	𒄒 	≈ 𒆜 ville
