@@ -345,7 +345,7 @@ iku [UNIT] wr. iku "a unit of area; a unit of volume" Akk. ikû
 
 il
 il [BASKET] wr. ĝešil2 "a basket"
-il [BIRD] wr. il2mušen; alURUmušen "a bird"
+il [BIRD] wr. il2mušen; al.URU.mušen "a bird"
 il [RAISE] wr. il2; il5; il2li2 "to raise, carry" Akk. našû
 il [TAX] wr. il2 "a tax"
 il [WORKER] wr. il2 "a worker"
@@ -615,7 +615,7 @@ innu
 innu [STRAW] wr. in; in-nu; in-u-da "straw" Akk. tibnu
 
 innuHA
-innuHA [BARLEY] wr. in-nu-HA; šein-nu-HA "a type of barley" Akk. enninu
+innuHA [BARLEY] wr. in-nu-HA; še.in-nu-HA "a type of barley" Akk. enninu
 
 innuri
 innuri [STRAINER] wr. in-nu-ri "strainer"
@@ -783,7 +783,7 @@ itima [SHRINE] wr. itima "shrine, chapel" Akk. kişşu
 itima [UNMNG] wr. i-ti-ma "?" Akk. ?
 
 itirda
-itirda [~DAIRY] wr. i3-ti-ir-da; gai3-te-er-da "a dairy product" Akk. ?
+itirda [~DAIRY] wr. i3-ti-ir-da; ga.i3-te-er-da "a dairy product" Akk. ?
 
 itud
 itud [MOON] wr. itud; itudx(|UD.AN.ŠEŠ.KI|); i3-ti; iti7; i-ti; itudx(|UD@s|); itudx(|UD×BAD|) "month; moon" Akk. arhu
@@ -818,3 +818,4 @@ iziĝi'edena
 iziĝi'edena [ATMOSPHERIC PHENOMENON] wr. izi-ĝi6-eden-na "an atmospheric phenomenon" Akk. anqullu
 
 ePSD icon ePSD contacts: Steve Tinney and Philip Jones.
+
