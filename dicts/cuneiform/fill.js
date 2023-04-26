@@ -3,7 +3,7 @@ x=require('/Users/me/uruk_egypt/scripts/cuneiformize.js')
 require('/Users/me/dev/js/extensions.js')()
 
 
-file="k.txt"
+file="i.txt"
 lines=read_lines(file)
 for(line0 of lines){
 	line=line0
