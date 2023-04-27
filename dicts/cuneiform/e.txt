@@ -396,7 +396,7 @@
  
  
  emeĝar 
- emeĝar  [ MAGIC ]  wr.  emeĝar x (|KAx(ME.GAR)|)  "magic" 
+ emeĝar  [ MAGIC ]  wr.  emeĝar x (|KA x (ME.GAR)|)  "magic" 
  
  
  emeĝarĝar 
