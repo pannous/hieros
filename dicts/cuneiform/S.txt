@@ -1,0 +1,1476 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ePSD Sumerian Citation Form Index 
+ S 
+ 
+ 
+ sa 
+ sa  [ ADVICE ]  wr.  sa2  "advice, counsel; resolution, intelligence" Akk.  milku 
+ sa  [ BUNDLE ]  wr.  sa ;  gi sa  "reed-bundle" Akk.  kiššu 
+ sa  [ ENTRY ]  wr.  sa  "lexical entry" 
+ sa  [ EQUAL ]  wr.  sa2 ;  sa x (ZAG) ;  se3  "to equal, compare, compete, be equal to, rival" Akk.  kašādu ;  mašālu ;  šanānu 
+ sa  [ HALF ]  wr.  sa9  "half; middle, center; to reach the middle" Akk.  mišlu 
+ sa  [ JEWELRY ]  wr.  sa  "jewelry" Akk.  šukuttu 
+ sa  [ MOVE ]  wr.  sa-sa  "to move about" 
+ sa  [ NET ]  wr.  sa  "net" Akk.  šētu 
+ sa  [ PAY FOR ]  wr.  sa10  "to pay for, buy; to be paid for, sell" Akk.  šâmu 
+ sa  [ ROAST ]  wr.  sa  "to roast; to parch" Akk.  qalû 
+ sa  [ SINEW ]  wr.  sa  "gut; sinew, tendon; string (of a bow, musical instrument); catgut string" Akk.  dāmu ;  erru ;  matnu ;  pitnu 
+ sa  [ STING ]  wr.  sa-sa  "to sting" 
+ 
+ 
+ sa dug 
+ sa dug  [ ARRIVE ]  wr.  sa2  dug4  "to arrive; to cause to arrive (regularly)" Akk.  kašādu 
+ 
+ 
+ sa gi 
+ sa gi  [ PREPARE ]  wr.  sa gi4  "to prepare" Akk.  šutērusû 
+ 
+ 
+ sa la 
+ sa la  [ BIND ]  wr.  sa la2  "to tie up" Akk.  ? 
+ sa la  [ STRETCH A NET ]  wr.  sa la2  "to stretch a net out" Akk.  ? 
+ sa la  [ SWEEP ]  wr.  sa la2  "to sweep" Akk.  ? 
+ 
+ 
+ sa sig 
+ sa sig  [ PLOT ]  wr.  sa2  sig10  "to plot" Akk.  ? 
+ 
+ 
+ sa'a 
+ sa'a  [ PROFESSION ]  wr.  sa7 -a  "a profession" 
+ 
+ 
+ saAB 
+ saAB  [ NET ]  wr.  kuš sa-AB  "a net" 
+ 
+ 
+ sa'ad 
+ sa'ad  [ TRAP? ]  wr.  ĝeš sa-ad  "a trap?" Akk.  nassapu 
+ 
+ 
+ sa'adgal 
+ sa'adgal  [ DISEASE ]  wr.  sa-ad-gal  "a disease" 
+ 
+ 
+ sa'adnim 
+ sa'adnim  [ DISEASE ]  wr.  sa-ad-nim  "a disease" 
+ 
+ 
+ sab 
+ sab  [ JAR ]  wr.  dug sab ;  sa2 -ab  "an oil jar" Akk.  šappu 
+ 
+ 
+ sabad 
+ sabad  [ BATTLE ]  wr.  sabad2 ;  sabad3 ;  sad2  "battle" Akk.  qablu 
+ 
+ 
+ sabar 
+ sabar  [ NET ]  wr.  sa-par4 ;  sa-par3 ;  sa-bar  "a net" Akk.  sapāru 
+ 
+ 
+ sabarsud 
+ sabarsud  [ NOTATION ]  wr.  sa-bar-sud  "composition division notation" 
+ 
+ 
+ sabitum 
+ sabitum  [ BARKEEPER ]  wr.  sa3 -bi2 -tum  "female brewer, barkeeper" Akk.  sābitu 
+ sabitum  [ INSTRUMENT ]  wr.  ĝeš sa-bi2 -tum ;  sa-bi2 -tum  "a musical instrument" 
+ 
+ 
+ sabu 
+ sabu  [ GAIN ]  wr.  sa5 -bu8  "gain" 
+ 
+ 
+ sad 
+ sad  [ UNMNG ]  wr.  sad2 ;  sad3  "" 
+ 
+ 
+ sadah 
+ sadah  [ ILLNESS ]  wr.  sa-dah  "illness" Akk.  šalattinu 
+ 
+ 
+ sadu 
+ sadu  [ COMPANION ]  wr.  sa-du3  "companion" Akk.  tappû 
+ sadu  [ FLASK ]  wr.  sa-du3  "a flask" Akk.  šikinnu 
+ sadu  [ NET ]  wr.  sa-du3  "a net" Akk.  šēšû 
+ 
+ 
+ sadua 
+ sadua  [ NET ]  wr.  sa-du3 -a  "net" Akk.  šaharru 
+ 
+ 
+ sadug 
+ sadug  [ OFFERINGS ]  wr.  sa2 -dug4 ;  sa2 -di  "regular temple offerings; a unit of liquid capacity" Akk.  sattukku 
+ 
+ 
+ sadur 
+ sadur  [ BOTTOM ]  wr.  sa-dur2  "bottom" Akk.  šuburru 
+ 
+ 
+ sa'eš 
+ sa'eš  [ INSTRUMENT ]  wr.  ĝeš sa-eš ;  sa-eš ;  ĝeš sa-eš5  "a type of musical instrument" 
+ 
+ 
+ sag 
+ sag  [ BEAT ]  wr.  sag3 ;  sag2  "to strike, beat; weave" Akk.  mahāşu 
+ sag  [ GOOD ]  wr.  sag8 ;  sag9 ;  sag10 ;  šeg10 ;  sag12  "(to be) good, sweet, beautiful; goodness, good (thing)" Akk.  banû ;  damāqu ;  dumqu ;  ţābu 
+ sag  [ RARE ]  wr.  sag10 ;  sag8  "(to be) high quality; (to be) rare, precious" Akk.  aqru ;  aqāru 
+ sag  [ SCATTER ]  wr.  sag2 ;  sag3 ;  sag7  "to throw (down); to scatter, disperse; to kill, to beat" Akk.  dâku ;  nasāku ;  nêru ;  sapāhu 
+ sag  [ UNMNG ]  "" 
+ 
+ 
+ sag rig 
+ sag rig  [ BESTOW ]  wr.  sag rig7  "to bestow" Akk.  šarāku 
+ 
+ 
+ SAG.TAG 
+ SAG.TAG  [ TEAR OUT ]  wr.  |SAG×TAG4 |  "tear out" Akk.  šarāţu 
+ 
+ 
+ saga 
+ saga  [ PRESS? ]  wr.  sa-ga ;  saga11 ;  sig11  "to press?" 
+ saga  [ REAP ]  wr.  saga11 ;  saga x (|ŠE.KIN|) ;  saga11 ga ;  saga x (|ŠE.KIN.KIN|) ;  saga x (|ŠE.ŠE.KIN|)  "to reap" 
+ saga  [ SKIRT ]  wr.  tug2 sa-ga  "skirt, kilt" Akk.  sāgu 
+ 
+ 
+ sagal 
+ sagal  [ BODY-PART ]  wr.  sa-gal  "body-part" Akk.  sagallu 
+ 
+ 
+ sagaz 
+ sagaz  [ ROBBER ]  wr.  sa-gaz ;  sag-gaz  "robber; murderer; robbery" Akk.  habbātu ;  šaggāšu 
+ 
+ 
+ sagdul 
+ sagdul  [ UNMNG ]  wr.  sagdul  "" 
+ 
+ 
+ SAGGUNUSAGGUNU 
+ SAGGUNUSAGGUNU  [ BIRD ]  wr.  |SAG@g|.|SAG@g| mušen  "a bird" 
+ 
+ 
+ sagi 
+ sagi  [ BUNDLE ]  wr.  sa-gi  "reed bundle" 
+ 
+ 
+ sagida 
+ sagida  [ NOTATION ]  wr.  sa-gid2 -da  "a musical instrument; a musical notation" Akk.  sagiddû 
+ 
+ 
+ sagir 
+ sagir  [ STRAW NET ]  wr.  sa-gir11 ;  sa-gir11 (KEŠ2 )-ra  "straw net" Akk.  sakrikku 
+ 
+ 
+ SAGKAKDU 
+ SAGKAKDU  [ CUPBEARER ]  wr.  |SAG×KAK.GABA|  "a cupbearer" 
+ 
+ 
+ sagkurini 
+ sagkurini  [ UNMNG ]  wr.  sagkurini  "" 
+ 
+ 
+ sagkurun 
+ sagkurun  [ UNMNG ]  wr.  sagkurun  "" 
+ 
+ 
+ saĝ 
+ saĝ  [ CVVE ]  wr.  saĝ5 ;  saĝ ;  zag  "(compound verb verbal element)" 
+ saĝ  [ FRONT ]  wr.  saĝ  "front side (math.)" 
+ saĝ  [ HEAD ]  wr.  saĝ  "head; person; capital" Akk.  qaqqadu ;  rēšu 
+ saĝ  [ KING ]  wr.  saĝ4  "king" Akk.  šarru 
+ 
+ 
+ saĝ bala 
+ saĝ bala  [ SHAKE ]  wr.  saĝ bala  "to shake the head" Akk.  a-da-ru? 
+ 
+ 
+ saĝ du 
+ saĝ du  [ BEGET ]  wr.  saĝ du ;  saĝ du11 ;  saĝ du3  "to beget" Akk.  banû 
+ 
+ 
+ saĝ dub 
+ saĝ dub  [ SMASH ]  wr.  saĝ dub2  "to smash (heads)" Akk.  nekelmû ;  şummuru ? 
+ 
+ 
+ saĝ e 
+ saĝ e  [ TAKE PRECEDENCE ]  wr.  saĝ e3  "to take precedence" 
+ 
+ 
+ saĝ gi 
+ saĝ gi  [ BLOCK ]  wr.  saĝ gi4  "to block" Akk.  hašû? ;  mahāru 
+ 
+ 
+ saĝ gid 
+ saĝ gid  [ ANGRY ]  wr.  saĝ gid2  "to be(come) angry" Akk.  nekelmû 
+ 
+ 
+ saĝ ĝal 
+ saĝ ĝal  [ ADVANCE ]  wr.  saĝ ĝal2 ;  saĝ ĝa2 -ĝa2  "to advance against, to oppose, to attack" Akk.  (w)âru 
+ saĝ ĝal  [ MEASURED ]  wr.  saĝ ĝal2  "(to be) measured out as a heaped amount; to measure out a heaped amount" 
+ 
+ 
+ saĝ ĝeš ra 
+ saĝ ĝeš ra  [ KILL ]  wr.  saĝ ĝeš ra  "to kill" Akk.  nêru 
+ 
+ 
+ saĝ il 
+ saĝ il  [ RAISE ]  wr.  saĝ il2  "'to raise the head'" Akk.  rēšam našû ;  šaqû ša rēši 
+ 
+ 
+ saĝ kal 
+ saĝ kal  [ APPRECIATE ]  wr.  saĝ kal  "to appreciate" Akk.  ? 
+ 
+ 
+ saĝ kešed 
+ saĝ kešed  [ TAKE CARE ]  wr.  saĝ keš2  "to take care, attend carefully (to something)" 
+ 
+ 
+ saĝ mu 
+ saĝ mu  [ SHINE ]  wr.  saĝ mu2 -mu2  "to shine" Akk.  nabāţu 
+ 
+ 
+ saĝ sag 
+ saĝ sag  [ TREMBLE ]  wr.  saĝ sag3  "to tremble" Akk.  nakāpu 
+ 
+ 
+ saĝ sal 
+ saĝ sal  [ UNMNG ]  wr.  saĝ sal  "?" Akk.  ? 
+ 
+ 
+ saĝ sig 
+ saĝ sig  [ ENTRUST ]  wr.  saĝ sig10  "to take care of; to entrust" Akk.  paqādu 
+ 
+ 
+ saĝ šu du 
+ saĝ šu du  [ BIND? ]  wr.  saĝ šu du3  "to bind the head and hands?" 
+ 
+ 
+ saĝ šum 
+ saĝ šum  [ OPPOSE ]  wr.  saĝ šum2  "to go against" Akk.  hiāšu 
+ 
+ 
+ saĝ tal 
+ saĝ tal  [ UNMNG ]  wr.  saĝ tal2  "?" Akk.  ? 
+ 
+ 
+ saĝ tum 
+ saĝ tum  [ REDUCE ]  wr.  saĝ tum2  "to reduce" Akk.  qalālu 
+ 
+ 
+ saĝ us 
+ saĝ us  [ RAISE ]  wr.  saĝ us2  "'to raise the head'" Akk.  šaqû ša rēši 
+ 
+ 
+ saĝ zig 
+ saĝ zig  [ RAISE ]  wr.  saĝ zig3  "'to raise the head'" Akk.  šaqû ša rēši 
+ 
+ 
+ saĝa 
+ saĝa  [ PRIEST ]  wr.  saĝa2 ;  saĝa4 ;  saĝa3 ;  saĝa5 ;  saĝa6 ;  saĝa x (|GA.UZ3 |) ;  saĝa x (|GA.UZ3 .HI|) ;  saĝa x (|GA.UZ.IGI@g|) ;  saĝa x (|LAGAB×LAK175|)  "a priest" Akk.  mullilu 
+ 
+ 
+ saĝapin 
+ saĝapin  [ PLOWMAN ]  wr.  saĝ-apin  "plowman" Akk.  ? 
+ 
+ 
+ saĝar 
+ saĝar  [ COUNSELOR ]  wr.  sa2 -ĝar  "counselor" Akk.  māliku 
+ 
+ 
+ saĝara 
+ saĝara  [ NOTATION ]  wr.  sa-ĝar-ra  "a musical notation" 
+ 
+ 
+ saĝAŠ 
+ saĝAŠ  [ OFFICIAL ]  wr.  saĝ-AŠ  "an official" 
+ 
+ 
+ saĝba 
+ saĝba  [ OATH ]  wr.  saĝ-ba ;  saĝ-ba-a  "oath" Akk.  māmītu 
+ 
+ 
+ saĝbur 
+ saĝbur  [ PRIEST ]  wr.  saĝ-bur  "priest" 
+ 
+ 
+ saĝdili 
+ saĝdili  [ LONE ]  wr.  saĝ-dil  "lone, single; batchelor; noble" Akk.  gitmalu ;  ēdēnû 
+ 
+ 
+ saĝdu 
+ saĝdu  [ BEAM ]  wr.  ĝeš saĝ-du ;  sag-du  "(wooden) beam" 
+ saĝdu  [ HEAD ]  wr.  saĝ-du ;  saĝdu  "head" Akk.  qaqqadu 
+ saĝdu  [ STONE ]  wr.  na4 saĝ-du  "a stone" 
+ 
+ 
+ saĝDU 
+ saĝDU  [ SMITTEN PERSON ]  wr.  saĝ-DU  "smitten person" 
+ 
+ 
+ saĝdub 
+ saĝdub  [ LABORER ]  wr.  saĝ-dub  "high-quality laborer" 
+ 
+ 
+ saĝDUDU 
+ saĝDUDU  [ DEFEAT ]  wr.  saĝdudu x (|LAGAB×ŠITA@t|)  "to defeat in battle" Akk.  mahāşu ša dabdê 
+ 
+ 
+ saĝDUN 
+ saĝDUN  [ RECORDER ]  wr.  saĝ-DUN3  "land recorder" Akk.  šassukku 
+ 
+ 
+ saĝDUNmah 
+ saĝDUNmah  [ RECORDER ]  wr.  saĝ-DUN3 -mah  "chief recorder" 
+ 
+ 
+ saĝdur 
+ saĝdur  [ SEAT ]  wr.  ĝeš saĝ-dur2  "seat" 
+ 
+ 
+ saĝentar 
+ saĝentar  [ SUPERVISOR ]  wr.  saĝ-en3 -tar  "supervisor" Akk.  pāqidu 
+ 
+ 
+ saĝEZEN 
+ saĝEZEN  [ HEED ]  wr.  sag-EZEN  "heed, attention" Akk.  na'ādu 
+ 
+ 
+ saĝgi 
+ saĝgi  [ UNMNG ]  wr.  saĝ-gi  "?" Akk.  ? 
+ 
+ 
+ saĝgig 
+ saĝgig  [ HEADACHE ]  wr.  saĝ-gig  "headache" 
+ 
+ 
+ saĝgiga 
+ saĝgiga  [ HUMANKIND ]  wr.  saĝ-gig2 -ga  "humankind" Akk.  şalmat qaqqadi 
+ 
+ 
+ saĝgirmud 
+ saĝgirmud  [ STONE ]  wr.  na4 saĝ-gir11 -mud  "type of stone" 
+ 
+ 
+ saĝgi'ura 
+ saĝgi'ura  [ BIRD ]  wr.  saĝ-gi4 -ur3 -ra mušen ;  saĝ-gi4 mušen ;  saĝ-ki-ur3 -ra mušen ;  saĝ-ki mušen  "a bird" Akk.  işşūr ša kubši 
+ 
+ 
+ saĝguĝal 
+ saĝguĝal  [ PROUD ]  wr.  saĝ-ku3 -ĝal2 ;  saĝ-gu2 -ĝal2  "proud" 
+ 
+ 
+ saĝgul 
+ saĝgul  [ LIGHTNING ]  wr.  sag-kul ;  saĝ-gul  "globe-lightning" Akk.  sankullu 
+ 
+ 
+ saĝGURUŠ 
+ saĝGURUŠ  [ ANIMAL ]  wr.  saĝ-GURUŠ  "an animal" 
+ 
+ 
+ saĝĝa 
+ saĝĝa  [ OFFICIAL ]  wr.  saĝĝa ;  |GAR.ŠID| ;  |ŠID.GAR|  "an official, the chief administrator of a temple household" Akk.  šangû 
+ 
+ 
+ saĝĝal 
+ saĝĝal  [ SAFE ]  wr.  saĝ-ĝal2  "safe" 
+ 
+ 
+ saĝĝamah 
+ saĝĝamah  [ OFFICIAL ]  wr.  saĝĝa-mah  "an official, the senior chief administrator of a temple household" 
+ 
+ 
+ saĝĝar 
+ saĝĝar  [ MILLSTONE ]  wr.  saĝĝar2 ;  saĝĝar ;  na4 saĝ-ĝar  "upper millstone" 
+ saĝĝar  [ STONE ]  wr.  na4 saĝ-ĝar  "a type of stone" 
+ 
+ 
+ saĝĝasimug 
+ saĝĝasimug  [ SMITH ]  wr.  saĝĝa-simug  "chief smith" 
+ 
+ 
+ saĝimla 
+ saĝimla  [ CRAFTSMAN ]  wr.  saĝ-im  "craftsman" Akk.  ummiānu 
+ 
+ 
+ saĝizi 
+ saĝizi  [ TORCH ]  wr.  saĝ-izi  "torch" 
+ 
+ 
+ saĝKAKbadbad 
+ saĝKAKbadbad  [ HOLE ]  wr.  saĝ-KAK-bad-bad  "hole; window" 
+ 
+ 
+ saĝkal 
+ saĝkal  [ FOREMOST ]  wr.  saĝ-kal  "foremost" 
+ saĝkal  [ STONE ]  wr.  saĝ-kal  "a stone" 
+ 
+ 
+ saĝkešed 
+ saĝkešed  [ FISH ]  wr.  sag-keš2 ku6  "a fish" 
+ saĝkešed  [ STRAP ]  wr.  saĝ-keš2 ;  kuš saĝ-keš2  "a strap; loop, string" Akk.  ? 
+ 
+ 
+ saĝki 
+ saĝki  [ FOREHEAD ]  wr.  saĝ-ki  "forehead, brow; front" Akk.  pûtu 
+ saĝki  [ RITES ]  wr.  saĝ-ki  "rites" Akk.  sakkû 
+ 
+ 
+ saĝki gid 
+ saĝki gid  [ ANGRY ]  wr.  saĝ-ki gid2  "to be(come) angry" Akk.  nekelmû 
+ 
+ 
+ saĝki zalag bar 
+ saĝki zalag bar  [ FAVOR ]  wr.  saĝ-ki zalag bar  "to look favorably" 
+ 
+ 
+ saĝkigudak 
+ saĝkigudak  [ TRAPEZIUM ]  wr.  saĝ-ki-gud  "a geometric shape; trapezium (math.)" Akk.  pūt alpi 
+ 
+ 
+ saĝkud 
+ saĝkud  [ REED PIPE ]  wr.  gi saĝ-kud  "reed pipe" Akk.  sakkuttu 
+ 
+ 
+ saĝkuĝal 
+ saĝkuĝal  [ PROUD ]  wr.  saĝ-gu4 -ĝal2 ;  saĝ-ku3 -ĝal2 ;  saĝ-gu2 -ĝal2  "proud" 
+ 
+ 
+ saĝkul 
+ saĝkul  [ BOLT ]  wr.  ĝeš saĝ-kul ;  ĝeš sag-gul  "bolt" Akk.  sikkūru 
+ 
+ 
+ saĝkur 
+ saĝkur  [ FISH ]  wr.  saĝ-kur  "a fish" 
+ 
+ 
+ saĝlul 
+ saĝlul  [ FALSEHOOD ]  wr.  saĝ-lul  "falsehood" Akk.  sartu 
+ 
+ 
+ saĝmaš 
+ saĝmaš  [ FOREMOST ]  wr.  saĝmaš ;  sagmaš  "first and foremost, pre-eminent" Akk.  ašarēdu 
+ 
+ 
+ saĝmen 
+ saĝmen  [ CROWN ]  wr.  saĝ-men  "a crown" 
+ 
+ 
+ saĝmin 
+ saĝmin  [ TWIN ]  wr.  saĝmin  "twin" Akk.  tū'amu 
+ 
+ 
+ saĝmudĝal 
+ saĝmudĝal  [ ADVOCATE? ]  wr.  saĝ-mud-ĝal2  "advocate?" 
+ 
+ 
+ saĝmunus 
+ saĝmunus  [ WOMAN ]  wr.  saĝ-munus  "woman" 
+ 
+ 
+ saĝniĝGAra 
+ saĝniĝGAra  [ ASSETS ]  wr.  saĝ-niĝ2 -GA-ra  "available assets" 
+ 
+ 
+ saĝniĝin 
+ saĝniĝin  [ DISEASE ]  wr.  saĝ-niĝin  "a disease" 
+ 
+ 
+ saĝnim 
+ saĝnim  [ DISEASE ]  wr.  saĝ-nim-nim  "a disease" 
+ 
+ 
+ saĝnita 
+ saĝnita  [ MAN ]  wr.  saĝ-nita ;  saĝ-nita2  "man" 
+ 
+ 
+ saĝPA 
+ saĝPA  [ POUCH ]  wr.  saĝ-PA  "a pouch" Akk.  nēpeštu 
+ 
+ 
+ saĝpap 
+ saĝpap  [ ~FISH ]  wr.  saĝ-pap  "a designation of fish" 
+ 
+ 
+ saĝsibadbad 
+ saĝsibadbad  [ DRILL ]  wr.  saĝ-si-bad-bad  "a drill" 
+ 
+ 
+ saĝsum 
+ saĝsum  [ COMMODITY ]  wr.  saĝ-sum  "a commodity" 
+ 
+ 
+ saĝšu 
+ saĝšu  [ TURBAN ]  wr.  tug2 saĝšu  "turban; cover of a pot" Akk.  kubšu 
+ 
+ 
+ saĝtab 
+ saĝtab  [ PROTECTION ]  wr.  saĝ-tab ;  sag-tab-ba  "helper, ally; protection" Akk.  rēşu ;  şulūlu 
+ saĝtab  [ UNMNG ]  wr.  sag-tag  "?" Akk.  ? 
+ 
+ 
+ saĝtak 
+ saĝtak  [ TRIANGLE ]  wr.  saĝ-KAK ;  saĝtak ;  santak3 ;  saĝtak4 ;  santak2  "triangle (math.); wedge" Akk.  santakku 
+ 
+ 
+ saĝtirin 
+ saĝtirin  [ FUNCTIONARY ]  wr.  saĝ-ti-rin2  "functionary" Akk.  assinnum 
+ 
+ 
+ saĝtuku 
+ saĝtuku  [ SPLENDID ]  wr.  saĝ-tuku  "proud; splendid; foremost" Akk.  ašarēdu ;  šarhu 
+ 
+ 
+ saĝursaĝ 
+ saĝursaĝ  [ PERFORMER ]  wr.  saĝ-ur-saĝ  "a cultic performer" 
+ 
+ 
+ saĝus 
+ saĝus  [ CONSTANT ]  wr.  saguš  "(to be) constant, regular; an attendant" Akk.  kayyānu ;  mukīl rēši 
+ 
+ 
+ sah 
+ sah  [ MAT ]  wr.  sah  "a mat" Akk.  suhhu 
+ sah  [ PLAYFUL ]  wr.  sah4  "playful" 
+ 
+ 
+ sahar 
+ sahar  [ DUST ]  wr.  sahar  "earth, soil; dust" Akk.  eperu 
+ sahar  [ FROST ]  wr.  sahar  "frost; terror" Akk.  hurbāšu 
+ sahar  [ POROUS? ]  wr.  sahar2  "(to be) porous?" Akk.  šaharru 
+ sahar  [ VESSEL ]  wr.  dug sahar ;  dug sahar2  "a vessel" Akk.  šaharru 
+ 
+ 
+ saharduba 
+ saharduba  [ RUBBISH ]  wr.  sahar-dub-ba  "rubbish heap" 
+ 
+ 
+ sahargi 
+ sahargi  [ DUST-GUARD ]  wr.  sahar-gi4  "dust-guard" Akk.  sahargû 
+ 
+ 
+ saharĝar 
+ saharĝar  [ SILT ]  wr.  sahar-ĝar  "silt" 
+ 
+ 
+ saharHUB 
+ saharHUB  [ DUST-HEAP ]  wr.  sahar-HUB2  "dust-heap" 
+ 
+ 
+ saharšuba 
+ saharšuba  [ DISEASE ]  wr.  sahar-šub-ba  "a disease" 
+ 
+ 
+ sahin 
+ sahin  [ PEG ]  wr.  sa-hi-in  "peg" Akk.  sikkatu 
+ sahin  [ YEAST ]  wr.  sa-hi-in  "yeast" 
+ 
+ 
+ sahindu 
+ sahindu  [ YEAST ]  wr.  sa-hi-in-du3 ;  sa-hi-in ;  šem sah7 -hi-in  "yeast" Akk.  sahindu ;  sikkatu 
+ 
+ 
+ sahir 
+ sahir  [ INCENSE? ]  wr.  sa-hir  "incense?" Akk.  lubbunu 
+ sahir  [ NET ]  wr.  sa-hir  "a net" Akk.  sahirru 
+ 
+ 
+ sahur 
+ sahur  [ PROFESSION ]  wr.  sa-hur  "a profession" 
+ 
+ 
+ sakešedkešsa 
+ sakešedkešsa  [ BUG-RIDDEN ]  wr.  sa-keš2 -keš2 -sa  "bug-ridden, lousy" 
+ 
+ 
+ saKU 
+ saKU  [ ARM ]  wr.  sa-KU  "arm" 
+ 
+ 
+ sal 
+ sal  [ POLE ]  wr.  sal3  "a pole" Akk.  mudulu 
+ sal  [ THIN ]  wr.  sal  "(to be) thin, fine; to spread" Akk.  raqāqu 
+ sal  [ UNMNG ]  wr.  sal2  "" 
+ sal  [ WINNOW? ]  wr.  sal4  "to winnow?" 
+ 
+ 
+ SAL.SAL 
+ SAL.SAL  [ FISH ]  wr.  SAL-SAL ku6  "a fish" 
+ 
+ 
+ sala 
+ sala  [ GOAT ]  wr.  sa-la2 ;  za-la2  "bug-ridden, lousy" 
+ sala  [ ~PLOW ]  wr.  ĝeš sal-la ;  sal-la  "a designation of plows" Akk.  musirru 
+ 
+ 
+ salhub 
+ salhub  [ NET ]  wr.  sa-al-hub2  "a net" 
+ 
+ 
+ SALI 
+ SALI  [ INSTRUMENT ]  wr.  SA.LI  "a musical instrument; a geometric shape" Akk.  pagû 
+ 
+ 
+ salkad 
+ salkad  [ NET ]  wr.  sa-al-kad4  "a net" 
+ 
+ 
+ SALLAGARBAD 
+ SALLAGARBAD  [ PRIESTESS ]  wr.  SAL.LAGAR.BAD  "type of priestess" 
+ 
+ 
+ SALLAGARME 
+ SALLAGARME  [ PRIESTESS ]  wr.  SAL.LAGAR.ME  "type of priestess" 
+ 
+ 
+ SALLULBALAG 
+ SALLULBALAG  [ PROFESSION ]  wr.  SAL.LUL.BALAG  "a profession" 
+ 
+ 
+ SALSAL 
+ SALSAL  [ BIRD ]  wr.  SAL.SAL mušen  "a bird" 
+ SALSAL  [ FISH ]  wr.  SAL.SAL ku6  "type of fish" 
+ 
+ 
+ SALŠAH 
+ SALŠAH  [ SOW ]  wr.  SAL.ŠAH  "sow" 
+ 
+ 
+ salugub 
+ salugub  [ UNMNG ]  wr.  salugub  "" 
+ 
+ 
+ SALUŠ 
+ SALUŠ  [ SHEATH ]  wr.  SAL.UŠ  "sheath (of a dagger)" 
+ 
+ 
+ SALzi 
+ SALzi  [ BIRD ]  wr.  SAL-zi mušen  "a bird" 
+ 
+ 
+ sam 
+ sam  [ PRICE ]  wr.  sam2  "purchase price" Akk.  šīmu 
+ 
+ 
+ samag 
+ samag  [ BIRTHMARK ]  wr.  samag3 ;  samag2 ;  samag4 ;  samag6 ;  samag  "wart; mole, birthmark" Akk.  umşatu ;  šullu 
+ samag  [ UNMNG ]  wr.  samag4 ;  samag6  "" 
+ 
+ 
+ saman 
+ saman  [ ROPE ]  wr.  saman  "tethering rope" Akk.  šummanu 
+ saman  [ VESSEL ]  wr.  saman x (|A.PA.BI.SI.A.GA|)  "flask; a vessel" Akk.  rakību ;  šikkatu 
+ 
+ 
+ samana 
+ samana  [ MOLD ]  wr.  sa-ma-na2  "mold, leaf rust" 
+ samana  [ TREE ]  wr.  ĝeš sa-ma-na2  "a tree" Akk.  samānu 
+ 
+ 
+ samazum 
+ samazum  [ TREE ]  wr.  ĝeš sa-ma-zum  "a tree" 
+ 
+ 
+ samsatum 
+ samsatum  [ EMBLEM ]  wr.  sa-am-sa-tum  "a solar emblem" 
+ 
+ 
+ saNI 
+ saNI  [ NET ]  wr.  sa-NI  "a net" 
+ 
+ 
+ sanimmara 
+ sanimmara  [ BACK ]  wr.  sa-nim-ma-ra  "back" Akk.  şēru 
+ 
+ 
+ santanak 
+ santanak  [ GARDENER ]  wr.  santana  "gardener" Akk.  sandanaku 
+ 
+ 
+ sanumun 
+ sanumun  [ CONTAINER ]  wr.  sa-numun x (|(ZI&ZI).A|) ;  sa-numun x (|ZI&ZI.A|)  "container for fish" 
+ 
+ 
+ sar 
+ sar  [ GARDEN ]  wr.  sar  "garden; a unit of area; a unit of volume" Akk.  mūšaru 
+ sar  [ RUN ]  wr.  sar  "to run, hasten" Akk.  hamāţu ;  lasāmu 
+ sar  [ SHAVE ]  wr.  sar  "to shave" 
+ sar  [ SMOKE ]  wr.  sar  "to smoke" 
+ sar  [ WRITE ]  wr.  sar ;  sar ar  "to write" Akk.  šaţāru 
+ 
+ 
+ SAR 
+ SAR  [ NAUSEATED? ]  wr.  SAR  "to be nauseated?" 
+ 
+ 
+ sarda 
+ sarda  [ INSULTING ]  wr.  sar-da  "insulting" 
+ 
+ 
+ sarig 
+ sarig  [ GIFT ]  wr.  sa12 -rig7  "gift" Akk.  nudunnû 
+ 
+ 
+ sas 
+ sas  [ GRASS ]  wr.  sas  "grass, turf" Akk.  sassatu 
+ 
+ 
+ sašuš 
+ sašuš  [ NET ]  wr.  sa-šu2 -uš  "type of net" 
+ 
+ 
+ sašušgal 
+ sašušgal  [ NET ]  wr.  sa-šuš-gal ;  sa-šu2 -uš-gal ;  sa-šuš2 -gal  "a net" 
+ 
+ 
+ satium 
+ satium  [ WIND ]  wr.  tumu sa12 -ti-um ;  sa-ti-um ;  tumu sa12 -tu-um ;  tumu sa12 -tum3 ;  tumu sa-ti-um  "east wind; east; easterner" 
+ 
+ 
+ satu 
+ satu  [ MOUNTAIN ]  wr.  sa-tu  "mountain" 
+ 
+ 
+ saturla 
+ saturla  [ NET ]  wr.  sa-tur-la2  "type of net" 
+ 
+ 
+ sa'ur 
+ sa'ur  [ NET ]  wr.  kuš sa-ur3  "a net" Akk.  šēšû 
+ 
+ 
+ sazid 
+ sazid  [ CROP ]  wr.  sa-zid2  "a crop" 
+ 
+ 
+ se 
+ se  [ DWELL ]  wr.  se12 ;  še ;  ze2  "plural stem of lug[to dwell]" 
+ se  [ LIVE ]  wr.  se12 ;  ze2 ;  še  "plural stem of til[to live]" 
+ se  [ UNMNG ]  wr.  se11 ;  se28  "" 
+ 
+ 
+ sed 
+ sed  [ COLD ]  wr.  sed4 ;  sed ;  sed6 ;  še12 ;  še18 ;  še11 ;  še15 ;  še5 ;  šed5  "(to be) cold; to cool; winter" Akk.  kāşû ;  kuşu ;  kuşşu 
+ 
+ 
+ sedsedam 
+ sedsedam  [ MORNING ]  wr.  sed-sed-dam  "early morning" Akk.  kaşâtam 
+ 
+ 
+ sekrum 
+ sekrum  [ WOMAN ]  wr.  se2 -ek-rum  "a class of women" Akk.  sekretu 
+ 
+ 
+ ses 
+ ses  [ BIRD ]  wr.  ses mušen  "a bird" Akk.  marratu 
+ ses  [ BITTER ]  wr.  ses  "(to be) bitter, brackish" Akk.  marru 
+ 
+ 
+ si 
+ si  [ CVNE ]  wr.  si  "(compound verb nominal element)" 
+ si  [ DRUNK ]  wr.  si3  "(to be) drunk" Akk.  šakāru 
+ si  [ FILL ]  wr.  si  "to draw water; to brew beer; to fill, load up" Akk.  mullû ;  sabû ;  sâbu 
+ si  [ HORN ]  wr.  si  "horn; finger; fret" Akk.  qarnu ;  ubānu 
+ si  [ REMEMBER ]  wr.  si  "to remember" Akk.  hasāsu 
+ si  [ SPIDER? ]  wr.  si14  "spider?, snail?" Akk.  lummû 
+ si  [ UNMNG ]  wr.  si23 ;  si5  "" 
+ 
+ 
+ si ak 
+ si ak  [ TUNE ]  wr.  si ak  "to adjust the strings on a lute, to tune" 
+ 
+ 
+ si e 
+ si e  [ SPROUT ]  wr.  si e3  "to sprout roots (malted barley)" 
+ 
+ 
+ si gu rah 
+ si gu rah  [ BLOW THE HORN ]  wr.  si gu3  rah2  "to blow the horn" Akk.  ? 
+ 
+ 
+ si mu 
+ si mu  [ SPROUT ]  wr.  si mu2  "to sprout roots (malted barley)" 
+ 
+ 
+ si sa 
+ si sa  [ STRAIGHTEN ]  wr.  si sa2 ;  si si-sa2  "to make straight; to make vertical" Akk.  ešēru ;  šutēšuru 
+ 
+ 
+ siam 
+ siam  [ HORNS ]  wr.  si-am  "wild bull's horns" 
+ 
+ 
+ sibsib 
+ sibsib  [ SORCERESS ]  wr.  sibsib  "sorceress" Akk.  kaššaptu 
+ 
+ 
+ sibta 
+ sibta  [ SHARE ]  wr.  sib2 -ta  "additional share" Akk.  elâtu 
+ 
+ 
+ sidug 
+ sidug  [ CAVITY ]  wr.  si-dug4 ;  sidug ;  sidug2  "cavity, hollow; depth; stream, wadi, gorge; (hunter's) pitfall; pit" Akk.  haštu ;  huballu ;  huppu ;  mušpalu ;  nahallu ;  šuttatu 
+ 
+ 
+ si'EZEN 
+ si'EZEN  [ FRET ]  wr.  si-EZEN  "fret; a musical instrument" 
+ 
+ 
+ sig 
+ sig  [ BURN ]  wr.  sig3  "to burn (of digestion)" Akk.  şarāpu 
+ sig  [ CAST ]  wr.  sig10  "to cast; to fashion" Akk.  šapāku 
+ sig  [ CLEAR ]  wr.  si-ig  "to be clear" 
+ sig  [ EQUAL ]  wr.  sig10  "to equal" Akk.  mašālu 
+ sig  [ FLATTEN ]  wr.  sig10  "to flatten, lay flat; to disrespect" Akk.  dâşu ;  sapānu 
+ sig  [ PLACE ]  wr.  sig9 ;  sig10 ;  si-ig  "to place" Akk.  šakānu 
+ sig  [ PLUCK ]  wr.  sig7 ;  sig8  "to pluck hair or wool; (to be) trimmed, pruned" Akk.  sepû ša šarti ;  urrû 
+ sig  [ SILENT ]  wr.  si-ig ;  šeg5  "(deathly) hush; (to be) silent" Akk.  šaqummatu 
+ sig  [ TIE ]  wr.  sa2 ;  sig9  "to tie (shoes)" Akk.  šênu 
+ sig  [ WEAK ]  wr.  sig  "(to be) weak; (to be) low; (to be) thin; (to be) narrow" Akk.  enšu ;  qatnu 
+ sig  [ WORKER ]  wr.  sig7  "a class of worker" 
+ 
+ 
+ SIG 
+ SIG  [ ~COW ]  wr.  SIG7  "a designation of cows" 
+ 
+ 
+ SIG7 .abala 
+ SIG7 .abala  [ DEFECT ]  wr.  SIG7 -a-bal  "a defect" 
+ 
+ 
+ SIGa 
+ SIGa  [ PROFESSION? ]  wr.  SIG7 -a  "a type of profession?" 
+ 
+ 
+ sigal 
+ sigal  [ BREAD ]  wr.  si-gal  "a type of bread" 
+ 
+ 
+ sigba 
+ sigba  [ BODY ]  wr.  sig-ba  "lower body" 
+ sigba  [ TOOL ]  wr.  sig4 -ba  "a brickmaker's tool" 
+ 
+ 
+ sigbar 
+ sigbar  [ PRIEST ]  wr.  sig2 -bar  "a priest" Akk.  luhšû ;  sigbarû 
+ 
+ 
+ sigda 
+ sigda  [ BASKET ]  wr.  gi si-ig-da  "a basket" 
+ 
+ 
+ SIGEN 
+ SIGEN  [ GODDESS? ]  wr.  SIG7 .EN  "a type of goddess?" 
+ 
+ 
+ sigĝeš 
+ sigĝeš  [ PROFESSION ]  wr.  sig7 -ĝeš  "a profession" 
+ 
+ 
+ SIGHI 
+ SIGHI  [ GODDESS? ]  wr.  SIG7 .HI  "a birth goddess?" 
+ 
+ 
+ sigigi 
+ sigigi  [ EYEBROW ]  wr.  sig7 -igi  "eyebrow, arch; carved eyebrow (for statues)" 
+ 
+ 
+ sigigir 
+ sigigir  [ CHARIOT ]  wr.  si-gigir  "chariot harness?" 
+ 
+ 
+ sigšab 
+ sigšab  [ HAIR ]  wr.  sig2 -šab  "combed-out hair, carded wool" Akk.  mušāţu 
+ 
+ 
+ sigug 
+ sigug  [ CAKE ]  wr.  si-gug2  "crescent-shaped cake" 
+ 
+ 
+ siĝar 
+ siĝar  [ BOLT ]  wr.  ĝeš si-ĝar ;  si-ĝar  "bolt, clamp" Akk.  šigarru 
+ 
+ 
+ si'illa 
+ si'illa  [ INSPECTION ]  wr.  si-il-la2  "inspection" Akk.  piqittu 
+ 
+ 
+ siki 
+ siki  [ HAIR ]  wr.  siki  "wool, fleece; hair; (animal's) pelt" Akk.  šārtu ;  šīpātu 
+ siki  [ ~BREAD ]  wr.  siki2 ;  sig15 ?  "a designation of bread" Akk.  sīku 
+ 
+ 
+ sikiba 
+ sikiba  [ RATION ]  wr.  siki-ba  "wool ration" 
+ 
+ 
+ sikil 
+ sikil  [ PLANT ]  wr.  u2 sikil  "a medicinal plant" Akk.  sikillu 
+ sikil  [ PURE ]  wr.  sikil  "(to be) pure" Akk.  ebbu ;  ellu 
+ sikil  [ STONE ]  wr.  na4 sikil  "a stone" Akk.  sikillu 
+ 
+ 
+ sikildua 
+ sikildua  [ INSULTING ]  wr.  sikil-du3 -a  "insulting" 
+ 
+ 
+ sikin 
+ sikin  [ CONTAINER ]  wr.  sikin ;  šikin2  "a container for oils" Akk.  šikinnu 
+ 
+ 
+ SIKINUMUN 
+ SIKINUMUN  [ GARMENT ]  wr.  SIKI.NUMUN2  "type of garment" 
+ 
+ 
+ sikipa 
+ sikipa  [ HEAD-HAIR ]  wr.  siki-pa  "head hair" 
+ 
+ 
+ siki'ur 
+ siki'ur  [ HAIR ]  wr.  siki-ur2  "pubic hair" 
+ 
+ 
+ sil 
+ sil  [ SPLIT ]  wr.  si-il ;  zil ;  sil x (|EZEN×LAL2 |) ;  sil5  "(to be) remote; to split apart; to split, slit" Akk.  nesû ;  šalātu 
+ 
+ 
+ sila 
+ sila  [ BAIT ]  wr.  sila  "bait" Akk.  sulû 
+ sila  [ CUT ]  wr.  sila3  "cut (of meat)" 
+ sila  [ FRAGMENT ]  wr.  sila3  "fragment" Akk.  hupû 
+ sila  [ HEEL ]  wr.  sila  "heel" Akk.  eqbu 
+ sila  [ LAMB ]  wr.  sila4  "lamb" Akk.  puhādu 
+ sila  [ STREET ]  wr.  sila ;  sila3  "street" Akk.  sūqu 
+ sila  [ UNIT ]  wr.  sila3  "a unit of capacity; a vessel" Akk.  mīšertu ;  qû 
+ 
+ 
+ SILA.MIN 
+ SILA.MIN  [ FISH ]  wr.  SILA3 -MIN3 ku6  "a fish" 
+ 
+ 
+ siladaĝal 
+ siladaĝal  [ SQUARE ]  wr.  sila-daĝal  "(public) square" Akk.  rebītu 
+ 
+ 
+ silaga 
+ silaga  [ LAMB ]  wr.  sila4 -ga  "suckling lamb" 
+ 
+ 
+ silaĝ 
+ silaĝ  [ FUNNEL ]  wr.  silaĝ  "a seed funnel" Akk.  nuttû 
+ silaĝ  [ KNEAD ]  wr.  silaĝ  "to knead" 
+ silaĝ  [ ~BODY ]  wr.  silaĝ  "a body part" Akk.  lašû 
+ 
+ 
+ silaĝarra 
+ silaĝarra  [ BOWL ]  wr.  sila3 -ĝar-ra  "bowl for afterbirth" 
+ 
+ 
+ silal 
+ silal  [ UNMNG ]  wr.  silal x (|EZEN×KU3 |)  "" 
+ 
+ 
+ silanim 
+ silanim  [ LAMB ]  wr.  sila4 -nim  "spring lamb" Akk.  hurāpu 
+ 
+ 
+ silazubud 
+ silazubud  [ FISH ]  wr.  sila3 -zubud ku6  "a fish" 
+ 
+ 
+ silig 
+ silig  [ AX ]  wr.  ĝeš silig ;  ĝeš silig5  "an ax" 
+ silig  [ BED ]  wr.  ĝeš silig  "bed" Akk.  mayyaltu 
+ silig  [ CEASE ]  wr.  silig  "to cease" 
+ silig  [ HAND ]  wr.  silig2 ;  silig4  "hand; (cupped) hand" Akk.  lupnu ;  qātu ;  rittu 
+ silig  [ MIGHTY ]  wr.  šilig ;  šilig6  "(to be) mighty, majestic" Akk.  šagapūru 
+ silig  [ UNMNG ]  wr.  silig3  "" 
+ 
+ 
+ silim 
+ silim  [ HEALTHY ]  wr.  silim  "(to be) healthy; completeness; well-being" Akk.  šalāmu ;  šulmu 
+ silim  [ VESSEL ]  wr.  silim2  "a vessel" Akk.  hupšašû 
+ 
+ 
+ sim 
+ sim  [ CARBUNCLE ]  wr.  sim x  "carbuncle, skin sore" Akk.  simmu 
+ sim  [ SIEVE ]  wr.  sim ;  si-im  "to sieve, filter" Akk.  napû ;  šahālu 
+ sim  [ SMELL ]  wr.  si-im ;  sim  "to smell, sniff" 
+ sim  [ SWALLOW ]  wr.  sim mušen ;  še-en mušen ;  še-na mušen  "swallow" Akk.  sinuntu 
+ 
+ 
+ simda 
+ simda  [ BRAND ]  wr.  si-im-da ;  urud si-im-da  "brand, branding mark" 
+ 
+ 
+ simed 
+ simed  [ UNMNG ]  wr.  simed  "" 
+ 
+ 
+ simgid 
+ simgid  [ SWALLOW ]  wr.  sim-gid2 mušen  "a swallow" 
+ 
+ 
+ simma 
+ simma  [ FISH ]  wr.  sim-ma ku6  "a fish" 
+ 
+ 
+ simug 
+ simug  [ SMITH ]  wr.  simug  "smith, metalworker" Akk.  nappāhu 
+ 
+ 
+ simuggal 
+ simuggal  [ SMITH ]  "chief smith" 
+ simuggal  [ SMITH ]  wr.  simug-gal ;  simuggal x (|GAL.UMUM|) ;  simug  "head smith" 
+ 
+ 
+ simul 
+ simul  [ STAG ]  wr.  si-mul  "stag, deer" Akk.  ayyalu 
+ 
+ 
+ simuš 
+ simuš  [ BRILLIANCE ]  wr.  si-muš3 ;  si-muš2  "brilliance, radiance" Akk.  šarūru 
+ 
+ 
+ sipad 
+ sipad  [ BIRD ]  wr.  sipad mušen  "a bird" 
+ sipad  [ SHEPHERD ]  wr.  sipad ;  su8 -ba ;  lu2 sipad ;  šuba  "shepherd; herder" Akk.  rē'û 
+ 
+ 
+ sipadtur 
+ sipadtur  [ SHEPHERD ]  wr.  sipad-tur  "junior shepherd" 
+ 
+ 
+ sipar 
+ sipar  [ IMPLEMENT ]  wr.  si-par4  "type of implement" 
+ 
+ 
+ sir 
+ sir  [ BIND ]  wr.  sir3 ;  sir2  "to bind" Akk.  rakāsu 
+ sir  [ CHECK ]  wr.  sir2  "to check; to approach" Akk.  sanāqu 
+ sir  [ DENSE ]  wr.  sir2  "(to be) dense" Akk.  šapû 
+ sir  [ POINTED ]  wr.  sir5  "(to be) pointed" Akk.  eddu 
+ 
+ 
+ siraš 
+ siraš  [ BEER ]  wr.  siraš3  "a beer" Akk.  sīrašû 
+ 
+ 
+ sisa 
+ sisa  [ FAIR ]  wr.  si-sa2  "fair, true (of gur[unit])" 
+ sisa  [ WIND ]  wr.  tumu si-sa2  "north wind" 
+ 
+ 
+ sisi 
+ sisi  [ HORSE ]  wr.  anše si2 -si2 ;  si2 -si2 ;  sisi x (|ANŠE.KUR|) ;  sisi  "horse" 
+ 
+ 
+ sisig 
+ sisig  [ BREEZE ]  wr.  sig-sig ;  tumu si-si-ig ;  si-si-ga ;  sig3 -sig3  "ghost?; storm; breeze, wind" Akk.  mehû ;  zīqīqu? ;  šāru 
+ 
+ 
+ sissi 
+ sissi  [ GREEN ]  wr.  si12 -si12 ;  sissi x (GI)  "(to be) green-yellow, pale" Akk.  arqu ;  arāqu 
+ 
+ 
+ siškur 
+ siškur  [ PRAYER ]  wr.  siškur2 ;  siškur  "prayer; blessing; offering, sacrifice, rites; to pour (a libation), sacrifice; to intercede" Akk.  karābu ;  naqû ;  nīqu 
+ 
+ 
+ situm 
+ situm  [ BALANCE ]  wr.  si-i3 -tum  "balance (of a settled account)" Akk.  šittum 
+ 
+ 
+ si'una 
+ si'una  [ ZENITH ]  wr.  si-un3 -na  "zenith" 
+ 
+ 
+ su 
+ su  [ BIRD ]  wr.  su7 mušen  "a bird" 
+ su  [ CVVE ]  wr.  su  "(compound verb verbal element)" 
+ su  [ FIBERS ]  wr.  su11 ;  su6  "date-palm fibers" Akk.  sû 
+ su  [ FLESH ]  wr.  su  "flesh; body; entrails (omen); body" Akk.  zumru ;  šīru 
+ su  [ RED ]  wr.  su4 ;  sa5 ;  šu4  "(to be) red, brown" Akk.  pelû ;  sāmu 
+ su  [ SINK ]  wr.  su ;  su3  "to submerge; to sink" Akk.  ţebû 
+ su  [ SPRINKLE ]  wr.  su3 ;  su13  "to sprinkle, strew; to adorn, decorate" Akk.  elēhu ;  zarāqu 
+ su  [ UNMNG ]  wr.  su9  "" 
+ 
+ 
+ SU 
+ SU  [ FISH ]  wr.  SU ku6  "a fish" 
+ 
+ 
+ su sag 
+ su sag  [ TREMBLE ]  wr.  su sag3  "to tremble" Akk.  zumra nurruţu 
+ 
+ 
+ su zig 
+ su zig  [ FEAR ]  wr.  su zig3  "to fear, to have goose bumps" Akk.  šahātu 
+ 
+ 
+ sua 
+ sua  [ CAT ]  wr.  sa-a ;  su-a  "wild cat" Akk.  šurānu 
+ 
+ 
+ suari 
+ suari  [ CAT ]  wr.  su-a-ri  "wild cat" 
+ 
+ 
+ sub 
+ sub  [ COAT ]  wr.  sub6  "to complete, perfect; to coat" Akk.  šuklulu 
+ sub  [ GO ]  wr.  sub2  "imperfect plural stem of ĝen[to go]" Akk.  alāku 
+ sub  [ RUB ]  wr.  su-ub ;  sub ;  sub6  "to suck; to rub" Akk.  naşābu 
+ sub  [ SEDGE ]  wr.  sub5  "rush, sedge" Akk.  šuppatu 
+ sub  [ UNMNG ]  wr.  sub x (KAL)  "?" Akk.  ? 
+ 
+ 
+ subar 
+ subar  [ BODY ]  wr.  su-bar  "body" 
+ 
+ 
+ subur 
+ subur  [ CHARIOT ]  wr.  ĝeš subur  "chariot" Akk.  narkabtu 
+ subur  [ QUICKSAND ]  wr.  su-bur2  "quicksand" 
+ subur  [ SLAVE ]  wr.  subur  "slave, servant" Akk.  ardu 
+ subur  [ UNMNG ]  wr.  subur ;  subur2  "" 
+ 
+ 
+ sud 
+ sud  [ BIRD ]  wr.  NU11 mušen  "a bird" 
+ sud  [ DISTANT ]  wr.  sud ;  su3 -ud  "(to be) distant; (to be) remote, long-lasting; (to be) profound" Akk.  nesû ;  rêqu 
+ sud  [ PLANT ]  wr.  su-ud  "plant" Akk.  hahinnu 
+ sud  [ PURIFY ]  wr.  sud5  "to purify" Akk.  ullulu 
+ sud  [ UNMNG ]  wr.  sud2 ;  sud3  "" 
+ 
+ 
+ SUD 
+ SUD  [ ~LAND ]  wr.  SUD  "a qualification of land" 
+ 
+ 
+ sudaĝ 
+ sudaĝ  [ METAL ]  wr.  sud-ra2 -aĝ2 ;  sud-aĝ2 ;  su3 -ud-aĝ2  "a precious metal; (to be) shiny (a divine epithet)" Akk.  elmēšu 
+ 
+ 
+ sudda 
+ sudda  [ BIRD ]  wr.  sud3 -da mušen  "a bird" 
+ 
+ 
+ sudĝal 
+ sudĝal  [ LONG-LASTING ]  wr.  su3 -ud-ĝal2  "long-lasting, extended" 
+ sudĝal  [ LONG ]  wr.  sud-ĝal2  "long" 
+ 
+ 
+ sudin 
+ sudin  [ BAT ]  wr.  su-din mušen ;  šu4 -din mušen ;  su-te-en  "bat" Akk.  suttinnu 
+ sudin  [ CHARIOT ]  wr.  su-din  "a part of a chariot" Akk.  šuttinnu 
+ sudin  [ PLANT ]  wr.  u2 su-din  "a plant" 
+ 
+ 
+ sudsud 
+ sudsud  [ GRIND ]  wr.  sud2 -sud2  "to grind" 
+ 
+ 
+ sug 
+ sug  [ BACK ]  wr.  sug  "steppe, open country; back, upperside, upper part" Akk.  elītu ;  şēru 
+ sug  [ EMPTY ]  wr.  sug4  "(to be) empty; (to be) naked; to cut clear, strip" Akk.  erû; urrû ;  riāqu 
+ sug  [ MARSH ]  wr.  sug  "reed-bed, marsh" Akk.  appāru ;  şuşû 
+ sug  [ REPLACE ]  wr.  sug6  "to repay a loan; to replace" Akk.  apālu ;  riābu 
+ sug  [ SHRINE ]  wr.  sug  "shrine, chapel" Akk.  sukku 
+ sug  [ STAND ]  wr.  sug2  "plural stem of gub[to stand]" Akk.  uzuzzu 
+ sug  [ UNMNG ]  wr.  sug ;  sug7  "; " 
+ sug  [ UNMNG ]  wr.  su-ug  "?" Akk.  ? 
+ sug  [ ~GRAIN ]  wr.  sug4 ;  sug x (|SUD.PA.EL|) ;  sug x (|PA.SUD.EL|)  "a ripe stalk of grain or part of a stalk of grain" 
+ 
+ 
+ sug gu 
+ sug gu  [ DEVASTATED ]  wr.  sug gu7  "to be devastated" Akk.  ? 
+ 
+ 
+ suGAN 
+ suGAN  [ ~METALLURGY ]  wr.  su-GAN ;  su3 -GAN  "a material used in metallurgy" 
+ 
+ 
+ sugin 
+ sugin  [ ROT ]  wr.  ĝeš sugin  "rot; decayed matter" Akk.  sumkīnu ;  nutāpu 
+ 
+ 
+ sugu 
+ sugu  [ NEED ]  wr.  su-gu7  "need, shortage, famine" Akk.  hušahhu 
+ sugu  [ REDNESS ]  wr.  su-gu7  "redness, reddening" Akk.  rišûtu 
+ 
+ 
+ sugzag 
+ sugzag  [ CVNE ]  wr.  sug-zag  "(compound verb nominal element)" 
+ 
+ 
+ sugzag gu 
+ sugzag gu  [ DESTROY ]  wr.  sug-zag gu7  "to destroy completely" Akk.  ? 
+ 
+ 
+ suh 
+ suh  [ CONFUSE ]  wr.  suh3  "to confuse; confusion" Akk.  ešītu 
+ suh  [ CROWN ]  wr.  suh10 ;  suh  "crown" 
+ suh  [ DEFECATE ]  wr.  suh5  "to defecate; to have diarrhea" Akk.  ezû ;  našāhu 
+ suh  [ EXTRACT ]  wr.  suh5 ;  suh  "to tear out; to extract; to choose" Akk.  nasāhu 
+ suh  [ INTERIOR ]  wr.  suh7  "interior" Akk.  tāhu 
+ 
+ 
+ suham 
+ suham  [ CRY ]  wr.  suh-am3 -bi ;  suh-am3  "cry" 
+ 
+ 
+ suhgir 
+ suhgir  [ DIADEM ]  wr.  suh-gir11 ;  suh10 -gir11  "diadem" 
+ 
+ 
+ suhirim 
+ suhirim  [ HEAP ]  wr.  suhirim  "heap of grain" Akk.  tarammu 
+ 
+ 
+ suhsah 
+ suhsah  [ SOUND ]  wr.  suh3 -sah4  "a sound (onomatopoeic)" 
+ 
+ 
+ suhsah za 
+ suhsah za  [ MAKE NOISE ]  wr.  suh3 -sah4  za  "to make noise" 
+ 
+ 
+ suhub 
+ suhub  [ BOLT ]  wr.  ĝeš suhub4 ;  ĝeš suhub3 ;  suhub5  "door bolt, bar" Akk.  mēdelu ;  napraku 
+ suhub  [ BOOTS ]  wr.  kuš suhub2 ;  HUB2 -HUB2 ;  kuš suhub ;  su-hub2  "boots, shoes" Akk.  šuhuppatu 
+ suhub  [ TREAD ]  wr.  suhub  "to tread; rim of a wheel" Akk.  kabāsu ;  šuhuppu 
+ suhub  [ ~OXEN ]  wr.  suhub2 ;  suhub  "a description of oxen" 
+ 
+ 
+ suhul 
+ suhul  [ UNMNG ]  wr.  suhul  "" 
+ 
+ 
+ suhur 
+ suhur  [ CARP ]  wr.  suhur ku6 ;  ku6 suhur  "carp" Akk.  purādu 
+ suhur  [ INSERT ]  wr.  suhur  "to insert" 
+ suhur  [ SCRATCH ]  wr.  suhur  "to scratch; to incise" Akk.  ekēku ;  naqāru 
+ suhur  [ TOOL ]  wr.  ĝeš suhur  "a tool" Akk.  mekkû 
+ suhur  [ TRIM ]  wr.  suhur  "to trim or comb the hair" Akk.  šamāţu ;  qamāmu ;  kezēru 
+ suhur  [ TUFT ]  wr.  suhur  "tuft, plume; crown (of a tree)" Akk.  qimmatu 
+ 
+ 
+ suhurgal 
+ suhurgal  [ CARP ]  wr.  suhur-gal ku6  "type of carp" 
+ 
+ 
+ suhurla 
+ suhurla  [ HAIRSTYLE ]  wr.  suhur-la2  "hairstyle; a functionary; prostitute" Akk.  kezertu 
+ 
+ 
+ suhurmaš 
+ suhurmaš  [ FISH ]  wr.  suhur-maš2 ku6 ;  suhur-maš ku6  "a mythical fish" Akk.  bitrû ;  suhurmāšu 
+ 
+ 
+ suhursumla 
+ suhursumla  [ FISH ]  wr.  suhur-sum4 -la2 ku6  "a fish" Akk.  ziqnānu 
+ 
+ 
+ suhurtunbar 
+ suhurtunbar  [ FISH ]  wr.  TUN3 .KU6 .SUHUR ;  ku6 suhur-tun3 ;  suhur-tun3 -bar ku6  "a fish" Akk.  sapsapānu 
+ 
+ 
+ suhurtur 
+ suhurtur  [ CARP ]  wr.  suhur-tur ku6  "type of carp" 
+ 
+ 
+ suhuš 
+ suhuš  [ FOUNDATION ]  wr.  suhuš  "foundation" Akk.  išdu 
+ suhuš  [ OFFSHOOT ]  wr.  suhuš x (TUR) ;  suhuš2  "date palm offshoot" 
+ 
+ 
+ sukkal 
+ sukkal  [ SECRETARY ]  wr.  sukkal  "secretary, civil servant" Akk.  sukkallu 
+ 
+ 
+ sukkalgal 
+ sukkalgal  [ OFFICIAL ]  wr.  sukkalgal x (|GAL.LUH|)  "an official" 
+ 
+ 
+ sukkalmah 
+ sukkalmah  [ OFFICIAL ]  wr.  sukal-mah  "an official" Akk.  sukkalmahu 
+ 
+ 
+ suku 
+ suku  [ POLE ]  wr.  suku5  "pole" Akk.  šukû 
+ 
+ 
+ sukud 
+ sukud  [ HEADDRESS ]  wr.  sukud  "a crown or headdress" 
+ sukud  [ HEIGHT ]  wr.  sukud  "height, altitude" Akk.  mēlû 
+ 
+ 
+ sukuš 
+ sukuš  [ UNMNG ]  wr.  sukuš  "" 
+ 
+ 
+ sul 
+ sul  [ COVER ]  wr.  su-ul  "to cover" Akk.  katāmu 
+ sul  [ CRIPPLED ]  wr.  su-ul-su-ul  "to be crippled" 
+ sul  [ MEAT ]  wr.  su-la2 ;  sul2  "salted, pickled meat" Akk.  muddulu 
+ sul  [ SLITHER ]  wr.  sul  "to slither" 
+ sul  [ SPOIL ]  wr.  sul  "to spoil" 
+ 
+ 
+ sula 
+ sula  [ ~LAND ]  wr.  su3 -la  "a qualification of land" 
+ 
+ 
+ sulgar 
+ sulgar  [ UNMNG ]  wr.  sulgar  "" 
+ 
+ 
+ sulim 
+ sulim  [ RADIANCE ]  wr.  su-lim ;  su-li2 -im  "awesome radiance" Akk.  šalummatu ;  rašubbatu 
+ 
+ 
+ sullat 
+ sullat  [ UNMNG ]  wr.  sullat2  "" 
+ 
+ 
+ sullim 
+ sullim  [ SPICE ]  wr.  u2 sullim sar ;  sullim  "a spice" Akk.  šambaliltu 
+ sullim  [ TIP ]  wr.  sullim  "rubbish tip" Akk.  baliltu 
+ 
+ 
+ sullimšuguba 
+ sullimšuguba  [ SPICE ]  wr.  u2 sullim-šu-gub-ba sar  "spice" 
+ 
+ 
+ suluhu 
+ suluhu  [ FLEECE ]  wr.  suluhu ;  suluhu3  "a long haired sheep; a ceremonial garment; fleece" Akk.  itqu ;  kitītu ;  lamahuššû ;  raqqatu ;  sulumhû 
+ 
+ 
+ sulum 
+ sulum  [ CONTEMPT ]  wr.  su-lum ;  su11 -lum  "contempt" 
+ 
+ 
+ sulum mar 
+ sulum mar  [ SLANDER ]  wr.  su-lum mar ;  su11 -lum mar ;  sulummar  "to slander, treat with contempt; slander" Akk.  ţupullû 
+ 
+ 
+ sulummar 
+ sulummar  [ ROPE ]  wr.  ĝeš su-lum-mar ;  ĝeš su11 -lum-mar  "tethering rope" 
+ 
+ 
+ sum 
+ sum  [ BEARD ]  wr.  sum4  "beard; carved beard (for statues)" Akk.  ziqnu 
+ sum  [ POOR ]  wr.  sum5  "(to be) poor; pauper" Akk.  lapnu 
+ 
+ 
+ sumaš 
+ sumaš  [ FISH ]  wr.  sumaš ku6  "an oceanic fish" Akk.  sumāsu 
+ 
+ 
+ sumašSUD 
+ sumašSUD  [ FISH ]  wr.  sumaš-SUD ku6  "a fish" 
+ 
+ 
+ sumki 
+ sumki  [ WOOD ]  wr.  sum-ki  "wood shaving?" 
+ 
+ 
+ sumug 
+ sumug  [ DARKNESS ]  wr.  su-mu-ug ;  su2 -mu-ug  "darkness; calamity, fear" Akk.  idirtu 
+ 
+ 
+ sumun 
+ sumun  [ COW ]  wr.  sumun2 ;  u3 -sumun2  "wild cow" Akk.  rīmtu 
+ sumun  [ OLD ]  wr.  sumun  "(to be) old; old wood, rot, decayed matter" Akk.  labāru ;  nutāpu ;  sumkīnu 
+ sumun  [ VESSEL ]  wr.  sumun2 ;  u3 -sun2  "soaking vessel; beer mash" Akk.  narţabu 
+ 
+ 
+ sumunda 
+ sumunda  [ UNMNG ]  wr.  sumunda  "" 
+ 
+ 
+ sumundar 
+ sumundar  [ BEETROOT ]  wr.  u2 šumunda sar ;  u2 sumun-dar ;  u2 -man-du  "beetroot" Akk.  šumuttu 
+ 
+ 
+ sumungi 
+ sumungi  [ TOOL ]  wr.  ĝeš sumun-gi4  "type of tool" 
+ 
+ 
+ sumur 
+ sumur  [ ANGRY ]  wr.  sumur ;  sumur x (KA)  "(to be) angry, furious" Akk.  ezzu ;  šamru 
+ sumur  [ ROOF ]  wr.  sumur ;  sumur2 ;  sumur3  "roof" Akk.  şululu 
+ 
+ 
+ sun 
+ sun  [ ENTER ]  wr.  sun5  "plural stem of kur[to enter]" 
+ sun  [ HAUGHTY ]  wr.  sun7 ;  sun5  "to be haughty" 
+ sun  [ HUMBLE ]  wr.  sun5  "(to be) humble" 
+ sun  [ REED SHOOT ]  wr.  gi sun(BAD)  "reed shoot" Akk.  habasillatu 
+ 
+ 
+ sur 
+ sur  [ BREAD ]  wr.  sur  "a bread" 
+ sur  [ CUT ]  wr.  sur4  "to cut cloth" Akk.  nakāsu 
+ sur  [ DITCH ]  wr.  sur3 ;  sur6 ;  sur7  "canal, ditch; foundation pit of a building" Akk.  berûtu ;  sūru 
+ sur  [ FORM ]  wr.  sur  "to form" Akk.  bašāmu 
+ sur  [ FURIOUS ]  wr.  sur2  "(to be) furious, angry" Akk.  ezzu 
+ sur  [ HALF ]  wr.  sur ;  sur3  "half" Akk.  šinnû ;  mišlu 
+ sur  [ HARNESS ]  wr.  sur5 ;  sur x (ERIN2 )  "to harness, tie up; to suspend, be suspended; harness team (of draft animals or workers); member of a team, team-worker" Akk.  šuqallulu 
+ sur  [ LOCUS ]  wr.  su7  "threshing floor; abandonment" Akk.  maškanu ;  nidûtu 
+ sur  [ PLECTRUM? ]  wr.  ĝeš sur9  "plectrum?; a musical instrument?" Akk.  zannaru 
+ sur  [ PRESS ]  wr.  sur ;  sur8  "to press, squeeze; to flash; to drip; to rain; to milk" Akk.  natāku ;  zanānu ;  şahātu ;  şarāru 
+ sur  [ SMILE ]  wr.  sur  "to smile" 
+ sur  [ SPIN ]  wr.  sur  "to spin; to twist; to slither" Akk.  ţawû ;  šalālu 
+ sur  [ UNMNG ]  wr.  sur3 ;  sur8  "" 
+ sur  [ UNMNG ]  wr.  sur4  "?; ?" Akk.  malātu ;  šihittu 
+ 
+ 
+ surdu 
+ surdu  [ FALCON ]  wr.  sur2 -du3 mušen  "falcon" Akk.  surdû 
+ 
+ 
+ surru 
+ surru  [ PRIEST ]  wr.  surru  "a priest" Akk.  surrû 
+ 
+ 
+ susbu 
+ susbu  [ PRIEST ]  wr.  susbu ;  susbu2  "a priest" Akk.  ramku 
+ 
+ 
+ susig 
+ susig  [ FLAYER ]  wr.  su-si-ig  "animal flayer" Akk.  šusikkum 
+ 
+ 
+ susu 
+ susu  [ REED ]  wr.  gi su7 -su7  "a reed" 
+ 
+ 
+ suš 
+ suš  [ GREASE ]  wr.  suš2 ;  suš  "grease" Akk.  šēmu 
+ suš  [ UNMNG ]  wr.  suš x (IŠ)  "" 
+ 
+ 
+ suzi 
+ suzi  [ RADIANCE ]  wr.  su-zi  "awesome radiance" Akk.  šalummatu 
+ 
+ 
+ 
+ 
+ePSD icon   ePSD  
+	  contacts:  Steve 
+          Tinney  and  Philip Jones .
+ 
+ 
+ 
+ 

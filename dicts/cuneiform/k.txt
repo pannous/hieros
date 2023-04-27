@@ -1,0 +1,1561 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ePSD Sumerian Citation Form Index 
+ K 
+ 
+ 
+ KA 
+ KA  [ CVVE ]  wr.  KA  "(compound verb verbal element)" 
+ 
+ 
+ KA dub 
+ KA dub  [ UNMNG ]  wr.  KA dub  "?" Akk.  ? 
+ 
+ 
+ ka'a 
+ ka'a  [ FOX ]  wr.  ka5 -a ;  ka5  "fox" Akk.  šēlebu 
+ 
+ 
+ ka'aDU 
+ ka'aDU  [ AGRICULTURE ]  wr.  ka-a-DU  "an agricultural classification" 
+ 
+ 
+ kab 
+ kab  [ BIT PART ]  wr.  kab  "wing  of a horse bit; noserope" Akk.  kappu ;  şerretu 
+ kab  [ BLOW AWAY ]  wr.  kab2  "to blow away" Akk.  edēpu 
+ kab  [ TEST ]  wr.  kab2 ;  kab x (|SAG×A|)  "to test; test" Akk.  latāku ;  litiktu 
+ 
+ 
+ kababum 
+ kababum  [ SHIELD ]  wr.  kuš ka-ba-bu-um  "shield" Akk.  kabābu 
+ 
+ 
+ kabduga 
+ kabduga  [ CHECKED ]  wr.  kab2 -dug4 -ga  "checked" 
+ kabduga  [ MEASURE ]  wr.  kab-dug4 -ga  "capacity measure (container)" 
+ 
+ 
+ kabkab 
+ kabkab  [ BIRD ]  wr.  kab-kab mušen  "a bird" Akk.  kapkappu 
+ 
+ 
+ kabkul 
+ kabkul  [ CONTAINER ]  wr.  ĝeš kab2 -kul ;  ĝeš kab2 -ku ;  kab2 -ku ;  kuš kab2 -kul ;  kab2 -kul x (BAL) ;  ĝeš kab2 -kul x (BAL) ;  ĝeš kab2 -ku5  "a container" Akk.  kabkūru 
+ 
+ 
+ kabsu 
+ kabsu  [ UNMNG ]  wr.  kab-su8  "?" 
+ 
+ 
+ kad 
+ kad  [ FISH ]  wr.  kad4 ku6  "a fish" 
+ kad  [ OPEN ]  wr.  kad-kad-ni  "open" 
+ kad  [ TIE ]  wr.  kad5 ;  kad4 ;  kad6 ;  kad8  "to tie, gather; to itch, scratch; to weave a mat?" Akk.  harādu ;  harāsu ;  kaşāru 
+ 
+ 
+ kadkud 
+ kadkud  [ FISH ]  wr.  kad5 -ku6  "a baked fish" Akk.  nūn temri 
+ 
+ 
+ kadra 
+ kadra  [ GIFT ]  wr.  kadra  "bribe; greeting gift, presents" Akk.  irbu ;  kadrû ;  ţātu 
+ 
+ 
+ kadu 
+ kadu  [ COVER ]  wr.  ka-du3  "cover" Akk.  ermu 
+ 
+ 
+ KADUBŠEŠ 
+ KADUBŠEŠ  [ ~BIRD ]  wr.  KA.DUB.ŠEŠ  "designation of bird" 
+ 
+ 
+ KAegal 
+ KAegal  [ SLANDER ]  wr.  KA-e2 -gal  "slander" 
+ 
+ 
+ kag 
+ kag  [ MOUTH ]  wr.  ka  "mouth" Akk.  pû 
+ 
+ 
+ kag bad 
+ kag bad  [ TALK ]  wr.  ka bad ;  ka ba ;  ka bar  "to open the mouth; to talk" Akk.  petû ša pī ;  pûm ša ana atwî 
+ 
+ 
+ kag bal 
+ kag bal  [ TALK ]  wr.  ka bala  "to talk" Akk.  pûm ša ana atwî 
+ 
+ 
+ kag duh 
+ kag duh  [ OPEN THE MOUTH ]  wr.  ka duh  "'to open the mouth'" Akk.  pû petû 
+ 
+ 
+ kag tum 
+ kag tum  [ BRING NEWS ]  wr.  ka tum2  "to bring news" Akk.  bussuru 
+ 
+ 
+ KAGABA 
+ KAGABA  [ CONTAINER ]  wr.  KA.GABA  "a container" 
+ 
+ 
+ kagina 
+ kagina  [ STONE ]  wr.  na4 ka-gin6 -na  "a stone" 
+ 
+ 
+ KAgir 
+ KAgir  [ MAT ]  wr.  KA-gir3 ;  KA-gir ;  KA-gir4  "a reed mat" 
+ 
+ 
+ kagsilim 
+ kagsilim  [ GLORIFICATION ]  wr.  kag2 -silim  "glorification" Akk.  tašrihtu 
+ 
+ 
+ kagu 
+ kagu  [ BREAD ]  wr.  ka-gu7  "a type of bread" Akk.  ? 
+ 
+ 
+ kaguruk 
+ kaguruk  [ SUPERVISOR ]  wr.  ka-guru7  "granary supervisor" Akk.  kagurrû 
+ 
+ 
+ kaĝeškarak 
+ kaĝeškarak  [ TABLE ]  wr.  kaĝeškara x (|GIŠ.KA.KAD4 |) ;  kaĝeškara x (|GIŠ.KA.KAD5 |)  "a table" Akk.  kannaškarakku 
+ 
+ 
+ ka'inima 
+ ka'inima  [ FORMULA ]  wr.  ka-inim-ma  "incantation formula" Akk.  ? 
+ 
+ 
+ KA'izi 
+ KA'izi  [ BURNING ]  wr.  KA-izi  "burning; roasted meat" Akk.  hamāţu ;  šumû 
+ 
+ 
+ kak 
+ kak  [ WEAPON ]  wr.  ka-ak kak ;  kak  "weapon" 
+ 
+ 
+ KAKA 
+ KAKA  [ AXLE ]  wr.  ĝeš KAK.A  "axle" Akk.  qarnu ;  zarû ;  mazzāzu 
+ 
+ 
+ kakaku 
+ kakaku  [ PROFESSION ]  wr.  kak-a-ku5 ;  lu2 kak-a-ku5  "a professional term" Akk.  mupettû 
+ 
+ 
+ kakik 
+ kakik  [ REGISTRAR ]  wr.  ka-ki  "registrar for houses" Akk.  kakkiku 
+ 
+ 
+ kakkala 
+ kakkala  [ ~PLANT ]  wr.  kakkala(KU7 ) ;  kakkala  "a designation of plants" 
+ 
+ 
+ kakpana 
+ kakpana  [ ARROW ]  wr.  ĝeš kak-pana  "arrow; arrow head" Akk.  sikkat išpati 
+ 
+ 
+ kaku 
+ kaku  [ RUN ]  wr.  kaku  "to run" Akk.  lasāmu 
+ 
+ 
+ kal 
+ kal  [ RARE ]  wr.  kal  "(to be) rare, valuable" Akk.  aqāru 
+ 
+ 
+ kala'a 
+ kala'a  [ REMAINDER ]  wr.  ka-la2 -a  "remainder" 
+ 
+ 
+ kalag 
+ kalag  [ STRONG ]  wr.  kal-ga ;  kalag ;  kal-la  "(to be) strong, powerful, mighty; to reinforce; to provide for" Akk.  dannu ;  kubbû 
+ kalag  [ ~SILVER ]  wr.  kalag-ga  "a process involving silver" 
+ 
+ 
+ kalaga 
+ kalaga  [ STONE ]  wr.  na4 kalag-ga  "type of stone" 
+ 
+ 
+ kalak 
+ kalak  [ TRENCH ]  wr.  gala3 ;  gala4 ;  gala5 ;  kala3 ;  ki-la2  "excavation, trench; storeroom" Akk.  kalakku 
+ 
+ 
+ kalam 
+ kalam  [ LAND ]  wr.  kalam ;  ka-na-aĝ2 ;  ka-naĝ  "the Land (of Sumer)" Akk.  mātu 
+ 
+ 
+ kalĝar 
+ kalĝar  [ VESSEL ]  wr.  dug ka-al-gar  "a vessel" 
+ 
+ 
+ kallu 
+ kallu  [ BOWL ]  wr.  ka-al-lu5 ;  ka-lu5  "a bowl" 
+ 
+ 
+ KAlub 
+ KAlub  [ FISH ]  wr.  KA-lu-ub2 ku6  "a fish" 
+ 
+ 
+ kaluh 
+ kaluh  [ CLEANSING ]  wr.  ka-luh  "ritual cleansing" 
+ 
+ 
+ kalum 
+ kalum  [ UNMNG ]  wr.  ka-lum  "?" Akk.  ? 
+ 
+ 
+ kam 
+ kam  [ ALTER ]  wr.  kam3  "to alter" 
+ kam  [ BOARD ]  wr.  kam3  "board, plaque" Akk.  kammu 
+ kam  [ TUNE? ]  wr.  kam  "to tune?" 
+ 
+ 
+ kama 
+ kama  [ UNMNG ]  wr.  kama5  "?" Akk.  ataru 
+ 
+ 
+ kaman 
+ kaman  [ WORK ]  wr.  ka-ma-an  "irrigation work" 
+ 
+ 
+ kamar 
+ kamar  [ WOOD ]  wr.  geš KA-mar ;  ka-mar  "a wood" Akk.  kamāru 
+ 
+ 
+ kamkammatum 
+ kamkammatum  [ EARRING ]  wr.  kam-kam-ma-tum  "earring" Akk.  anşabtu 
+ kamkammatum  [ PLANT ]  wr.  kam-kam-ma-tum sar  "a plant" 
+ 
+ 
+ kamma 
+ kamma  [ INSTRUMENT ]  wr.  kam-ma  "a part of a musical instrument?; tuning?" 
+ 
+ 
+ kamudĝal 
+ kamudĝal  [ ADVOCATE ]  wr.  ka-mud-ĝal2  "advocate" 
+ 
+ 
+ kamuĝal 
+ kamuĝal  [ INCANTATION ]  wr.  ka-mu7 -ĝal2  "incantation priest" Akk.  wāšipu 
+ 
+ 
+ KAmuš 
+ KAmuš  [ WORM ]  wr.  KA-muš  "tooth worm" Akk.  tûltu 
+ 
+ 
+ kamušegu'e 
+ kamušegu'e  [ PLANT ]  wr.  u2 ka-muš-e-gu7 -e  "a plant" 
+ 
+ 
+ KAmušigu'e 
+ KAmušigu'e  [ DISEASE ]  wr.  KA-muš-i3 -ku2 -e  "a disease" 
+ 
+ 
+ kan 
+ kan  [ GATE ]  wr.  kan4 ;  KA  "gate, door" Akk.  bābu 
+ 
+ 
+ kana 
+ kana  [ DARK ]  wr.  kana6 ;  kana5 ;  kana3  "(to be) dark, gloomy; gloom" Akk.  adāru 
+ 
+ 
+ KANE 
+ KANE  [ BLAZE? ]  wr.  |KA×NE|  "to blaze?" 
+ 
+ 
+ kankal 
+ kankal  [ OIL-PROCESSING ]  wr.  kankal  "oil-processing, perfume-making" Akk.  tarqītu 
+ 
+ 
+ kanšaša 
+ kanšaša  [ OVERPOWERING ]  wr.  ka-an-ša-ša ;  ga-an-ša-ša  "overpowering" Akk.  muktaššaššu 
+ 
+ 
+ kapazum 
+ kapazum  [ STONE ]  wr.  na4 ka-pa-zum  "a stone" 
+ 
+ 
+ kar 
+ kar  [ BLOW ]  wr.  kar2 -kar2 ;  kar2  "to blow; to light up, shine; to rise" Akk.  napāhu 
+ kar  [ FLEE ]  wr.  kar  "to flee; to take away (by force), remove; to deprive; to save" Akk.  ekēmu ;  eţēru ;  mašā'u ;  nērubu 
+ kar  [ HARBOR ]  wr.  kar  "harbor, quay" Akk.  kāru 
+ kar  [ INSULT ]  wr.  kar2  "to insult, slander" Akk.  ţapālu 
+ kar  [ SENIOR ]  wr.  kar  "senior" 
+ 
+ 
+ karam 
+ karam  [ HEAP ]  wr.  karam  "heap, ruin mound" Akk.  karmu 
+ 
+ 
+ karaš 
+ karaš  [ CAMP ]  wr.  karaš  "military camp" Akk.  karāšu 
+ 
+ 
+ kardukas 
+ kardukas  [ FISH ]  wr.  kar-du-kas4 ku6  "a fish" 
+ 
+ 
+ karkid 
+ karkid  [ BIRD ]  wr.  kar-kid mušen  "a bird" 
+ karkid  [ PROSTITUTE ]  wr.  kar-kid ;  geme2 kar-kid3 ;  kar-kid3 ;  geme2 kar-kid3 kid ;  geme2 kar- kid kid3 ;  geme2 kar-kid ;  geme2 karkid x (|SAL.UŠ|) kar-kid3 ;  karkid x (|SAL.UŠ|)  "prostitute" Akk.  harīmtu 
+ 
+ 
+ kas du 
+ kas du  [ RUN ]  wr.  kas4  du  "to run" Akk.  ? 
+ 
+ 
+ kas dug 
+ kas dug  [ RUN ]  wr.  kas4  dug4  "to run" Akk.  lasāmu ;  nērubu 
+ 
+ 
+ kas gun 
+ kas gun  [ RUN ]  wr.  kas4  gun3  "to run" Akk.  ? 
+ 
+ 
+ kas kar 
+ kas kar  [ RUN ]  wr.  kas4  kar  "to run" Akk.  lasāmu ;  nērubu 
+ 
+ 
+ kas sar 
+ kas sar  [ RUN ]  wr.  kas4  sar  "to run" Akk.  lasāmu 
+ 
+ 
+ kaskal 
+ kaskal  [ BASKET ]  wr.  gi kaskal  "travel basket" 
+ kaskal  [ WAY ]  wr.  kaskal  "way, road; journey, caravan" Akk.  harrānu 
+ 
+ 
+ kaskas 
+ kaskas  [ FISH ]  wr.  kas4 -kas4 ku6  "a fish" 
+ 
+ 
+ kasu 
+ kasu  [ GOBLET ]  wr.  gu2 -zi ;  dug KU.ZI ;  dug gu2 -zi ;  dug ka-a-su ;  dug KA.ZI  "goblet; bowl" Akk.  kāsu 
+ 
+ 
+ kasukudra 
+ kasukudra  [ BIRD ]  wr.  ka-sukud-ra2 mušen ;  ka-šu-kud-da mušen  "a bird" Akk.  şayyāhu 
+ 
+ 
+ KAsur 
+ KAsur  [ FISH ]  wr.  KA-sur ku6  "a fish" 
+ 
+ 
+ kaš 
+ kaš  [ BEER ]  wr.  kaš ;  kaš2  "beer; alcoholic drink" Akk.  šikaru 
+ kaš  [ DECISION ]  wr.  ka-aš ;  ga-eš8  "decision" 
+ kaš  [ RUNNER ]  wr.  kaš4 ;  lu2 kaš4  "runner, trotter, messenger; to run" Akk.  lasāmu ;  šānû 
+ kaš  [ URINE ]  wr.  kaš3  "urine" Akk.  šīnātu 
+ 
+ 
+ kaš bar 
+ kaš bar  [ MAKE A DECISION ]  wr.  ka-aš bar  "to make a decision" Akk.  ? 
+ 
+ 
+ kaš sur 
+ kaš sur  [ FERMENT ]  wr.  kaš sur  "to ferment and filter beer; to produce beer" Akk.  mazû 
+ kaš sur  [ URINATE ]  wr.  kaš3  sur  "to urinate" Akk.  ? 
+ 
+ 
+ kašakanak 
+ kašakanak  [ OIL-MAKER ]  wr.  ka-šakan3 ;  ka-šakan  "chief oil maker" 
+ 
+ 
+ kašbir 
+ kašbir  [ BEER ]  wr.  kašbir ;  kaš kašbir ;  kašbir x (|A.SUD|)  "diluted beer" 
+ 
+ 
+ kašdea 
+ kašdea  [ BANQUET ]  wr.  kaš-de2 -a ;  kaš-de2  "banquet" Akk.  qerītu 
+ 
+ 
+ KAŠEŠ 
+ KAŠEŠ  [ BIRD ]  wr.  KA.ŠEŠ mušen  "a type of bird" 
+ 
+ 
+ kaškaš 
+ kaškaš  [ FISH ]  wr.  kaš4 -kaš4 ku6  "type of fish" 
+ 
+ 
+ kašsig 
+ kašsig  [ BEER ]  wr.  kaš2 -sig15  "a beer" 
+ 
+ 
+ KAŠSILA 
+ KAŠSILA  [ VAT ]  wr.  KAŠ.SILA3 ;  GEŠTIN.SILA3 ;  TIN.SILA3  "a vat for alchoholic liquids; a drinking party?" 
+ 
+ 
+ kašsura 
+ kašsura  [ BEER ]  wr.  kaš2 -sur-ra  "a beer" 
+ 
+ 
+ kašu 
+ kašu  [ PART ]  wr.  ĝeš ka-šu2  "part of plough" 
+ 
+ 
+ katab 
+ katab  [ HELPER? ]  wr.  ka-tab  "helper?" 
+ katab  [ LID ]  wr.  kuš ka-tab ;  ĝeš ka-ta-pu-um  "a lid, covering; an object" Akk.  katammu ;  katappu 
+ 
+ 
+ katar 
+ katar  [ CVNE ]  wr.  ka-tar  "(compound verb nominal element)" 
+ 
+ 
+ katar sil 
+ katar sil  [ PRAISE ]  wr.  ka-tar si-il  "to praise" Akk.  dalīlī dalālu 
+ 
+ 
+ ka'usa 
+ ka'usa  [ FUNCTION ]  wr.  ka-us2 -sa  "a function or profession" 
+ 
+ 
+ KAusan 
+ KAusan  [ ~WHIP ]  wr.  kuš KA-usan3  "a designation of whips" Akk.  tamšarul ;  dirratum 
+ 
+ 
+ KA'X 
+ KA'X  [ UNMNG ]  wr.  |KA×X|  "?" Akk.  ? 
+ 
+ 
+ kazal 
+ kazal  [ PLANT ]  wr.  u2 ka-zal  "a plant" 
+ 
+ 
+ kazazak 
+ kazazak  [ INSECT ]  wr.  kazaza  "a destructive insect" Akk.  kazazakku 
+ 
+ 
+ kazidak 
+ kazidak  [ MILLER ]  wr.  ka-zid2  "miller" Akk.  kaşşidakku 
+ 
+ 
+ kešda 
+ kešda  [ ROOFING ]  wr.  ĝeš keš2 -da  "roofing, top story" Akk.  taşliltu 
+ 
+ 
+ kešed 
+ kešed  [ BIND ]  wr.  keš2  "to bind" Akk.  rakāsu 
+ 
+ 
+ kezer 
+ kezer  [ HAIR ]  wr.  ki-ze2 -er  "a hair-style" 
+ kezer  [ HAIRSTYLE ]  wr.  ke-ze2 -er  "hairstyle" 
+ 
+ 
+ ki 
+ ki  [ PLACE ]  wr.  ki  "place; ground, earth, land; toward; underworld; land, country; lower, down below" Akk.  ašru ;  erşetu ;  mātu ;  qaqqaru ;  šaplû 
+ ki  [ WITH ]  wr.  ki  "with (math.)" Akk.  itti 
+ 
+ 
+ ki aĝ 
+ ki aĝ  [ LOVE ]  wr.  ki aĝ2 ;  kiĝ2 ;  ki-ga-aĝ2 ;  ki-ig-aĝ2 ;  ki-ig-ga-aĝ2  "to love" Akk.  râmu 
+ 
+ 
+ ki dar 
+ ki dar  [ SPLIT ]  wr.  ki dar  "'to split the earth'" Akk.  ? 
+ 
+ 
+ ki deg 
+ ki deg  [ PECK ]  wr.  ki deg x (RI)  "to peck the ground, to glean" Akk.  uţţita ulaqqit 
+ 
+ 
+ ki ĝar 
+ ki ĝar  [ FOUND ]  wr.  ki ĝar  "to found" Akk.  ? 
+ 
+ 
+ ki hur 
+ ki hur  [ SCRATCH ]  wr.  ki hur  "to scratch the earth" Akk.  ? 
+ 
+ 
+ ki kiĝ 
+ ki kiĝ  [ SEEK ]  wr.  ki kiĝ2  "to seek; to look after" Akk.  ašra še'û 
+ 
+ 
+ ki la 
+ ki la  [ DIG ]  wr.  ki la2  "to dig" Akk.  ? 
+ ki la  [ FALL TO THE GROUND ]  wr.  ki la2  "to fall to the ground" Akk.  napalsuhu 
+ 
+ 
+ ki sub 
+ ki sub  [ PROSTRATE ONESELF ]  wr.  ki su-ub  "to prostrate oneself" Akk.  šukênu 
+ 
+ 
+ ki sur 
+ ki sur  [ MARK A BOUNDARY ]  wr.  ki sur  "to mark a boundary" Akk.  ? 
+ 
+ 
+ ki tag 
+ ki tag  [ LAY ON THE GROUND ]  wr.  ki tag  "to lay on the ground" Akk.  ? 
+ 
+ 
+ ki tum 
+ ki tum  [ BURY ]  wr.  ki tum2  "to bury" Akk.  qebēru 
+ 
+ 
+ ki us 
+ ki us  [ SET ON THE GROUND ]  wr.  ki us2  "to set on the ground" Akk.  šuršudu 
+ 
+ 
+ ki za 
+ ki za  [ BOW DOWN ]  wr.  ki za  "to bow down" Akk.  šukênu 
+ 
+ 
+ KI.KAŠ.NI 
+ KI.KAŠ.NI  [ MEAL ]  wr.  |KI.KAŠ.NI|  "meal" 
+ 
+ 
+ ki'ana 
+ ki'ana  [ LOCUS ]  wr.  ki-an-na  "a cultic location" 
+ 
+ 
+ ki'anaĝ 
+ ki'anaĝ  [ LOCUS ]  wr.  ki-a-naĝ  "a place of libations to the dead" Akk.  ? 
+ 
+ 
+ kib 
+ kib  [ BIRD ]  wr.  ki-ib mušen ;  ki-ib2 mušen ;  ki mušen ;  kib mušen  "a bird" 
+ kib  [ OBJECT ]  wr.  kib  "an object" Akk.  kibbu 
+ kib  [ WHEAT ]  wr.  gig ;  gib  "wheat" Akk.  kibtu 
+ 
+ 
+ kibala 
+ kibala  [ REBEL LAND ]  wr.  ki-bala  "rebel land" Akk.  māt nukurti 
+ 
+ 
+ kibid 
+ kibid  [ BACKSIDE ]  wr.  ki-bid3  "backside, ass" 
+ 
+ 
+ kibiKAK 
+ kibiKAK  [ BANQUET ]  wr.  KI-BI-KAK  "banquet" Akk.  qerītu 
+ 
+ 
+ kibir 
+ kibir  [ IMPLEMENT ]  wr.  ĝeš kibir2 ;  urud kibir2  "a sharp implement" Akk.  makaddu 
+ 
+ 
+ kibninka 
+ kibninka  [ BIRD ]  wr.  ki-nin-ka6 mušen  "a bird" 
+ 
+ 
+ kibninkamašmaš 
+ kibninkamašmaš  [ BIRD ]  wr.  ki-ib- d nin-ka6 -maš-maš mušen  "a bird" 
+ 
+ 
+ kibšu 
+ kibšu  [ BIRD ]  wr.  ki-ib-šu mušen  "a bird" 
+ 
+ 
+ kibšur 
+ kibšur  [ BOUNTEOUS ]  wr.  kibšur  "very plentiful" Akk.  ţuhhudu 
+ kibšur  [ PLENTIFUL ]  wr.  kibšur  "what is present; goods, livestock, property, possession(s)" Akk.  bāšītu ;  būšu ;  makkûru ;  maršītu 
+ 
+ 
+ kibure 
+ kibure  [ EXPLANATION ]  wr.  ki-bur2 -re ;  ki-bur2 -ru  "explanation" 
+ 
+ 
+ kiburu 
+ kiburu  [ LOCUS ]  wr.  ki-buru14  "harvest area" 
+ 
+ 
+ kid 
+ kid  [ BREAK ]  wr.  kid2 ;  gir8 ;  kid4 ;  kid7  "to break off, pinch off" Akk.  karāşu 
+ kid  [ CUT ]  wr.  kid7  "to cut, fell" Akk.  nakāsu 
+ kid  [ DEMOLISH ]  wr.  kid7  "to demolish; to scratch" Akk.  naqāru 
+ kid  [ MAT ]  wr.  gi kid ;  kid  "a reed mat" Akk.  kītu 
+ kid  [ SOFTEN ]  wr.  kid7  "to soften, dissolve" Akk.  narābu 
+ 
+ 
+ kida 
+ kida  [ MAT ]  wr.  ĝeš kid-da  "a type of reed mat or woven object" 
+ 
+ 
+ kidašrin 
+ kidašrin  [ MAT ]  wr.  gi kid-aš-rin  "type of mat" 
+ 
+ 
+ kidbur 
+ kidbur  [ MAT ]  wr.  gi kid-bur2  "type of mat" 
+ 
+ 
+ KIDda 
+ KIDda  [ TWIG ]  wr.  ĝeš KID-da  "twig" 
+ 
+ 
+ kidmah 
+ kidmah  [ MAT ]  wr.  gi kid-mah  "a type of reed mat" Akk.  burû 
+ 
+ 
+ kidmahhal 
+ kidmahhal  [ MAT ]  wr.  kid-mah-hal  "type of mat" 
+ 
+ 
+ kidmamah 
+ kidmamah  [ MAT ]  wr.  gi kid-ma2 -mah  "a type of reed mat" Akk.  burû 
+ 
+ 
+ kidmaniĝina 
+ kidmaniĝina  [ MAT ]  wr.  gi kid-ma2 -niĝin-a  "a type of reed mat; boat-cover" Akk.  burû 
+ 
+ 
+ kidmašagak 
+ kidmašagak  [ MAT ]  wr.  gi kid-ma2 -šag4 -ga  "a type of reed mat" 
+ 
+ 
+ kidmašua 
+ kidmašua  [ MAT ]  wr.  gi kid-ma2 -šu2 -a  "a type of reed mat; boat-cover" Akk.  burû 
+ 
+ 
+ KIDŠU 
+ KIDŠU  [ MAT ]  wr.  KID.ŠU2  "type of mat" 
+ 
+ 
+ kidu 
+ kidu  [ NOTATION ]  wr.  ki-du12  "a musical notation" 
+ 
+ 
+ kidur 
+ kidur  [ STOOL ]  wr.  ki-dur2  "stool" Akk.  kiturru 
+ 
+ 
+ kiduru 
+ kiduru  [ DISEASE ]  wr.  ki-dur5  "a disease" 
+ kiduru  [ LAND ]  wr.  ki-duru5 ;  ki-du-ru  "damp ground, irrigable land" Akk.  ruţibtu 
+ 
+ 
+ ki'e 
+ ki'e  [ EXIT ]  wr.  ki-e3  "exit" 
+ 
+ 
+ ki'enDU 
+ ki'enDU  [ WATERCOURSE ]  wr.  ki-en-DU  "walk, way, march; watercourse" Akk.  mālaku 
+ 
+ 
+ ki'enedi 
+ ki'enedi  [ LOCUS ]  wr.  ki-a-ne-di ;  ki-e-ne-de3 ;  ki-e-ne-di  "play area" 
+ 
+ 
+ KI'ENEDI 
+ KI'ENEDI  [ UNMNG ]  wr.  KI.E.NE.DI  "?" 
+ 
+ 
+ ki'ešbar 
+ ki'ešbar  [ PLACE ]  wr.  ki-eš-bar  "place of (divine) decisions" 
+ 
+ 
+ ki'ezem 
+ ki'ezem  [ LOCUS ]  wr.  ki-ezen  "festival place" Akk.  ? 
+ 
+ 
+ kigal 
+ kigal  [ PLATFORM ]  wr.  ki-gal  "platform, pedestal" Akk.  kigallu 
+ 
+ 
+ kigalum 
+ kigalum  [ PEDESTAL ]  wr.  ki-gal-lum  "pedestal, base of a statue" Akk.  kigallu 
+ 
+ 
+ KIGGIŠ 
+ KIGGIŠ  [ VESSEL ]  wr.  dug KIG2 .GIŠ  "type of vessel" 
+ 
+ 
+ kigu 
+ kigu  [ ~LAND ]  wr.  ki-gu2  "legume plot" 
+ 
+ 
+ kigub 
+ kigub  [ STATION ]  wr.  ki-gub  "station" Akk.  mazzāzu 
+ 
+ 
+ kigula 
+ kigula  [ DESTITUTE ]  wr.  lu2 ki-gul-la  "destitute person" 
+ 
+ 
+ kiĝ 
+ kiĝ  [ FISH ]  wr.  kiĝ2 ku6  "a type of fish" 
+ kiĝ  [ POINTED ]  wr.  kiĝ2  "(to be) pointed" Akk.  zaqātu 
+ kiĝ  [ SEEK ]  wr.  kiĝ2  "to seek" Akk.  pâru 
+ kiĝ  [ WORK ]  wr.  kiĝ2  "to work" 
+ 
+ 
+ kiĝal 
+ kiĝal  [ LAND ]  wr.  ki-ĝal2 ;  kankal  "threshing floor; uncultivated land" Akk.  maškanu 
+ 
+ 
+ kiĝar 
+ kiĝar  [ AREA ]  wr.  ki-ĝar  "area" 
+ 
+ 
+ kiĝara 
+ kiĝara  [ SUBSTITUTE ]  wr.  ki-ĝar-ra  "substitute" 
+ 
+ 
+ kiĜARKA 
+ kiĜARKA  [ UNMNG ]  wr.  ki-ĜAR.KA  "?" 
+ 
+ 
+ kiĝešĝešla 
+ kiĝešĝešla  [ BATTLEFIELD ]  wr.  ki-ĝeš-ĝeš-la2  "battlefield" 
+ 
+ 
+ kiĝgia 
+ kiĝgia  [ MESSENGER ]  wr.  kiĝ2 -gi4 -a ;  lu2 kiĝ2 -gi4 -a  "messenger" 
+ kiĝgia  [ ~ANIMAL ]  wr.  kiĝ2 -gi4 -a  "a designation of an animal sutiable for extispicy" 
+ 
+ 
+ kiĝiri 
+ kiĝiri  [ FOOTBOARD ]  wr.  ĝeš ki-ĝiri3  "footboard" Akk.  ? 
+ kiĝiri  [ ROAD ]  wr.  ka-giri3 ;  ki-giri3  "road, path" Akk.  padānu 
+ 
+ 
+ kiĝiriĝena 
+ kiĝiriĝena  [ EXPEDITION ]  wr.  ki-ĝiri3 -ĝen-na  "expedition" 
+ 
+ 
+ kiĝnim 
+ kiĝnim  [ MEAL ]  wr.  kiĝ2 -nim  "morning meal" Akk.  naptan šērti 
+ 
+ 
+ kiĝsig 
+ kiĝsig  [ MEAL ]  wr.  kiĝ2 -sig ;  kiĝ2 -sig7 ;  kiĝ2 -sig17 ;  kiĝ2 -sig x (SAR)  "afternoon meal" Akk.  naptan līliāti 
+ 
+ 
+ kiĝtur 
+ kiĝtur  [ INSTRUMENT ]  wr.  urud kiĝ2 -tur  "type of instrument" 
+ kiĝtur  [ TOAD ]  wr.  kiĝ2 -tur ku6  "toad" 
+ 
+ 
+ ki'inimak 
+ ki'inimak  [ WITNESS ]  wr.  ki-inim-ma  "witness" 
+ 
+ 
+ KIKAL 
+ KIKAL  [ BOTTOM ]  wr.  KI.KAL  "chariot platform; bottom of a leather bag; sole of a shoe" Akk.  sassu 
+ KIKAL  [ GRASSES ]  wr.  KI.KAL  "a writing for different types of grasses" 
+ KIKAL  [ LAND ]  wr.  KI.KAL  "a writing for different types of land" 
+ 
+ 
+ kikid 
+ kikid  [ PLACE ]  wr.  ki-kid  "matted place" 
+ 
+ 
+ kikur 
+ kikur  [ ENTRANCE ]  wr.  ki-ku4  "entrance" 
+ 
+ 
+ kila 
+ kila  [ WEIGHT ]  wr.  ki-la2  "weight" Akk.  šuqultu 
+ 
+ 
+ kilib 
+ kilib  [ TOTAL ]  wr.  kilib ;  kilib3  "total, sum; (the) whole, entirety; assembly" Akk.  napharu ;  puhru 
+ 
+ 
+ kilibĝal 
+ kilibĝal  [ ASSEMBLY ]  wr.  kilib3 -ĝal2  "assembly, entirety" 
+ 
+ 
+ KILUGALDU 
+ KILUGALDU  [ LOCUS ]  wr.  KI.LUGAL.DU  "a cultic place" Akk.  mazzāz šarri 
+ 
+ 
+ kilul 
+ kilul  [ MURDER ]  wr.  ki-lul-la ;  ki-lul  "murder" Akk.  šagaštu 
+ 
+ 
+ kim 
+ kim  [ STONE ]  wr.  kim3  "a stone" Akk.  alallu 
+ kim  [ WILLOW ]  wr.  kim3  "willow" Akk.  hilēpu 
+ 
+ 
+ kimah 
+ kimah  [ GRAVE ]  wr.  ki-mah  "grave; a cultic place" Akk.  kimahhu 
+ 
+ 
+ kimanzer 
+ kimanzer  [ LOCUS ]  wr.  ki-ma-an-ze2 -er  "slippery place" Akk.  mušhalşītu 
+ 
+ 
+ kimaš 
+ kimaš  [ STONE ]  wr.  na4 ki-maš  "a stone" 
+ 
+ 
+ kimu 
+ kimu  [ FISH ]  wr.  ki-mu11 ku6 ;  ki-mu11  "a fish" 
+ kimu  [ STORAGE ]  wr.  ki-mu  "storage, a store house" 
+ 
+ 
+ kimun 
+ kimun  [ PRODUCT ]  wr.  ki-mun  "an agricultural product" 
+ 
+ 
+ kimungazi 
+ kimungazi  [ ~LAND ]  wr.  ki-mun-gazi  "a type of agricultural plot" 
+ 
+ 
+ kin 
+ kin  [ GRIND ]  wr.  kin2  "to grind" Akk.  ţênu 
+ kin  [ SICKLE ]  wr.  urud kin ;  gin ;  kin x (|ŠE.KIN|) ;  urud ŠU.KIN  "sickle" Akk.  niggallu 
+ 
+ 
+ kinaĝ 
+ kinaĝ  [ PLACE ]  wr.  ki-naĝ  "libation place" 
+ 
+ 
+ kinamesira 
+ kinamesira  [ FOREHEAD ]  wr.  ki-nam-esir-ra ;  ki-nam-TUG2 -ra  "forehead; a part of the foot" Akk.  nakkaptu ;  nakkapu 
+ kinamesira  [ TEMPLES ]  wr.  ki-nam-TUG2 -ra  "side of the forehead, temples" 
+ 
+ 
+ kinbur 
+ kinbur  [ NEST ]  wr.  kinbur  "a nest" Akk.  kinburru 
+ 
+ 
+ kinda 
+ kinda  [ BARBER ]  wr.  kinda  "barber, hairdresser" Akk.  gallābu 
+ 
+ 
+ kindagal 
+ kindagal  [ BARBER ]  wr.  kindagal  "chief barber" 
+ kindagal  [ OFFICIAL ]  wr.  kindagal  "leader, expert; inspector of slaves" Akk.  massû ;  muwassû 
+ 
+ 
+ kindar 
+ kindar  [ HOLE ]  wr.  ki-in-dar  "hole, crevice" Akk.  nigişşu 
+ 
+ 
+ kindu 
+ kindu  [ EARTH ]  wr.  ki-in-du  "earth" Akk.  erşetu ;  şippatu 
+ kindu  [ PATH ]  wr.  ki-in-du  "path" Akk.  ? 
+ 
+ 
+ kiNERU 
+ kiNERU  [ ENEMY TERRITORY ]  wr.  ki-NE.RU  "enemy territory" 
+ 
+ 
+ kingal 
+ kingal  [ OFFICIAL ]  wr.  kingal ;  kin-gal  "grandee; crown authority over land, labor recruiter" Akk.  mu'erru ;  rabû 
+ 
+ 
+ kingub 
+ kingub  [ EMPLACEMENT ]  wr.  ki-in-gub  "emplacement" Akk.  ? 
+ 
+ 
+ kinkin 
+ kinkin  [ GRINDER ]  wr.  ĝeš kinkin2  "(wooden) grinder?, pestle?" 
+ kinkin  [ MILLER ]  wr.  kinkin2 ;  kinkin ;  geme2 kinkin ;  lu2 kinkin ;  geme2 kinkin2 ;  lu2 kinkin2  "miller" 
+ kinkin  [ MILLSTONE ]  wr.  na4 kinkin  "a small millstone" 
+ 
+ 
+ kinkinšu 
+ kinkinšu  [ GRINDSTONE ]  wr.  kinkin-šu  "small grindstone" 
+ 
+ 
+ kinkinšusiga 
+ kinkinšusiga  [ MILLSTONE ]  wr.  na4 kinkin-šu-si3 -ga  "millstone" 
+ 
+ 
+ kinud 
+ kinud  [ BEDROOM ]  wr.  ki-nud  "sleeping quarter, bed" Akk.  mayyaltu ;  mayyālu 
+ 
+ 
+ kir 
+ kir  [ GROVEL ]  wr.  kir3  "to grovel, roll around" Akk.  qarāru 
+ kir  [ HYENA ]  wr.  kir4  "hyena" Akk.  būşu 
+ kir  [ LAMB ]  wr.  kir11  "female lamb" Akk.  buqamtu 
+ 
+ 
+ kiraši 
+ kiraši  [ BEER ]  wr.  kiraši  "bitter-sweet taste; emmer beer" Akk.  alappānu 
+ kiraši  [ EMMER ]  wr.  ki-ra-ši  "a type of emmer" Akk.  alappānu 
+ 
+ 
+ kirbabbar 
+ kirbabbar  [ BIRD ]  wr.  kir4 -babbar mušen  "a bird" 
+ 
+ 
+ kirga 
+ kirga  [ LAMB ]  wr.  kir11 -ga  "suckling lamb" 
+ 
+ 
+ kiri 
+ kiri  [ NOSE ]  wr.  kiri3  "nose" Akk.  appu 
+ kiri  [ ORCHARD ]  wr.  ĝeš kiri6 ;  kiri6  "(fruit) plantation, orchard" Akk.  kirû 
+ 
+ 
+ kiri du 
+ kiri du  [ PAY HOMAGE TO ]  wr.  kiri3  du3  "to pay homage to" Akk.  labānu ša appi 
+ 
+ 
+ kiri hur 
+ kiri hur  [ PIERCE WITH A SPINDLE ]  wr.  kiri3  hur  "to pierce with a spindle" Akk.  parāşu 
+ 
+ 
+ kiri ki sub 
+ kiri ki sub  [ PROSTRATE ONESELF ]  wr.  kiri3  ki su-ub  "to prostrate oneself" Akk.  ? 
+ 
+ 
+ kiri šu ĝal 
+ kiri šu ĝal  [ PAY HOMAGE TO ]  wr.  kiri3  šu ĝal2  "to pay homage to" Akk.  labānu ša appi 
+ 
+ 
+ kiri šu tag 
+ kiri šu tag  [ PAY HOMAGE TO ]  wr.  kiri3  šu tag  "to pay homage to" Akk.  labānu ša appi 
+ 
+ 
+ kiri ur 
+ kiri ur  [ FLARE THE NOSTRILS ]  wr.  kiri3  ur5  "'to flare the nostrils'" Akk.  ganāşu ;  šanāşu 
+ 
+ 
+ kirid 
+ kirid  [ CLASP ]  wr.  ĝeš kirid  "hair clasp" Akk.  kirissu 
+ 
+ 
+ kiridab 
+ kiridab  [ DRIVER ]  wr.  kiri3 -dab5 ;  giri17 -dab  "animal driver; (animal) driver" Akk.  kartappu 
+ 
+ 
+ kiriĝeštinak 
+ kiriĝeštinak  [ VINEYARD ]  wr.  ĝeš kiri6 -ĝeštin-na  "vineyard" 
+ 
+ 
+ kirihaš 
+ kirihaš  [ DISEASE ]  wr.  kiri x (|KA×IM|)-haš  "a disease" 
+ 
+ 
+ kirimah 
+ kirimah  [ GARDEN ]  wr.  ĝeš kiri6 -mah  "pleasure garden, park" 
+ 
+ 
+ kiritab 
+ kiritab  [ BRIDLE ]  wr.  kuš kiri3 -tab  "bridle" Akk.  appātu šītu ;  aššatu šītu 
+ 
+ 
+ kirizal 
+ kirizal  [ JOY ]  wr.  kiri3 -zal ;  gi-ir-za  "joy, rejoicing" Akk.  hidûtu 
+ 
+ 
+ kirkir 
+ kirkir  [ BIRD ]  wr.  ĝeš kiri6 - ĝeš kiri6 mušen ;  ka5 -kar2 mušen ;  ki-kar2 mušen ;  kar-kar mušen  "a bird" Akk.  kirikarru ;  kurkurru 
+ 
+ 
+ kirugu 
+ kirugu  [ NOTATION ]  wr.  ki-ru-gu2  "a musical notation" Akk.  ? 
+ 
+ 
+ kisa 
+ kisa  [ PLATFORM ]  wr.  ki-sa2 ;  kissa  "platform; supporting wall, abutment" Akk.  kisû 
+ 
+ 
+ kisaĝgid 
+ kisaĝgid  [ FISH ]  wr.  ki-saĝ-gid2 ku6  "a fish" 
+ 
+ 
+ kisaĝĝala 
+ kisaĝĝala  [ STRONGHOLD ]  wr.  ki-saĝ-ĝal2 -la  "stronghold" Akk.  ašar dimāti ;  ašar samāti 
+ 
+ 
+ kisahar 
+ kisahar  [ SOIL ]  wr.  ki-sahar  "soil deposit" 
+ 
+ 
+ kisal 
+ kisal  [ COURTYARD ]  wr.  kisal ;  ki-sa2 -al  "courtyard" Akk.  kisallu 
+ 
+ 
+ kisalluh 
+ kisalluh  [ SWEEPER ]  wr.  kisal-luh  "courtyard sweeper" Akk.  kisaluhhu 
+ 
+ 
+ kisalmah 
+ kisalmah  [ COURTYARD ]  wr.  kisal-mah  "main court of a temple" Akk.  kisalmāhu 
+ 
+ 
+ kiSAR 
+ kiSAR  [ ~LAND ]  wr.  ki-SAR  "vegetable plot" 
+ 
+ 
+ kisiga 
+ kisiga  [ FENCE ]  wr.  ki-sig9 -ga  "type of fence" 
+ kisiga  [ OFFERINGS ]  wr.  ki-sig10 -ga ;  ki-sig9 -ga ;  ki-sig3  "funerary offerings" Akk.  kispu 
+ 
+ 
+ kisikil 
+ kisikil  [ WOMAN ]  wr.  ki-sikil ;  lu2 ki-sikil ;  mu-tin ;  mu-ti-in  "young woman" Akk.  ardatu ;  batultu 
+ 
+ 
+ kisim 
+ kisim  [ INSECT ]  wr.  |DAG.KISIM5 | ši-hu-um  "insect" 
+ kisim  [ MILK ]  wr.  kisim ;  kisim3 ;  kisim5 ;  kisim7  "sour milk" Akk.  kisimmu 
+ kisim  [ STALL ]  wr.  kisim2  "animal stall" Akk.  tarbaşu 
+ 
+ 
+ kisima 
+ kisima  [ MILK ]  wr.  ki-si-im-ma  "soured milk" 
+ 
+ 
+ kislah 
+ kislah  [ BIRD ]  wr.  kislah mušen ;  KI  "a bird" 
+ kislah  [ LAND ]  wr.  kislah ;  kislah2 ;  kislah3  "threshing floor; uncultivated, uninhabited, cleared land; empty house lot" Akk.  maškanu ;  nidûtu ;  terīqtu ;  turbalû 
+ 
+ 
+ kisumun 
+ kisumun  [ UNMNG ]  wr.  ki-sumun  "?" Akk.  ? 
+ 
+ 
+ kisur 
+ kisur  [ LOCUS ]  wr.  ki-su7 ;  ki-|LAGAR@g|  "threshing floor" Akk.  maškanu 
+ 
+ 
+ kisura 
+ kisura  [ BORDER ]  wr.  ki-sur-ra  "border; territory" Akk.  kisurrû 
+ 
+ 
+ kiš 
+ kiš  [ TOTALITY ]  wr.  kiš  "totality, world" Akk.  kiššatu 
+ 
+ 
+ kišar 
+ kišar  [ EARTH ]  wr.  ki-šar2  "totality; the whole earth; horizon" Akk.  kiššat erşeti ;  kiššatu 
+ 
+ 
+ kišer 
+ kišer  [ LIMIT ]  wr.  ki-še-er  "limit; fence?" 
+ 
+ 
+ kišer tuku 
+ kišer tuku  [ FENCE ]  wr.  ki-še-er tuku  "to reach the proper limit; to fence" 
+ 
+ 
+ kišgag 
+ kišgag  [ POLE ]  wr.  kiš-gag  "pole pin?" 
+ 
+ 
+ kiši 
+ kiši  [ ANT ]  wr.  kiši8 ;  kiši6 ;  kiši13 ;  kiši15 ;  kiši7 ;  kiši9  "ant" Akk.  kulbābu 
+ kiši  [ HALF ]  wr.  kiši4  "half" Akk.  muttatu 
+ kiši  [ MYRTLE ]  wr.  ĝeš kiši17 ;  ĝeš šim kiši17  "myrtle" 
+ kiši  [ NETHERWORLD ]  wr.  kiši11  "the Netherworld" Akk.  kurnugi 
+ kiši  [ SECRET ]  wr.  kiši12  "secret" Akk.  pirištu 
+ 
+ 
+ kišib 
+ kišib  [ HAND ]  wr.  kišib-la2 ;  kišib  "hand, wrist" Akk.  rittu 
+ kišib  [ RODENT ]  wr.  kišib2  "a rodent" Akk.  piazu 
+ kišib  [ SEAL ]  wr.  kišib3 ;  kišib ;  na4 kišib  "cylinder seal, sealed tablet" Akk.  kunukku 
+ 
+ 
+ kišib rah 
+ kišib rah  [ SEAL ]  wr.  kišib rah2  "to seal" Akk.  kanāku 
+ 
+ 
+ kišibar 
+ kišibar  [ BIRD ]  wr.  kiši6 -bar mušen  "type of bird" 
+ 
+ 
+ kišibargurug 
+ kišibargurug  [ BIRD ]  wr.  kiši6 -bar mušen -gu-ru-ug mušen  "type of bird" 
+ 
+ 
+ kišibĝal 
+ kišibĝal  [ SEAL BEARER ]  wr.  kišib-ĝal2 ;  kišib3 -ĝal2  "seal bearer" Akk.  kanniku 
+ 
+ 
+ kišibla 
+ kišibla  [ SEAL BEARER ]  wr.  kišib-la2  "seal bearer" Akk.  ? 
+ 
+ 
+ kišig 
+ kišig  [ ACACIA ]  wr.  u2 kišig2 ;  kišig2 ;  ĝeš kišig2 ;  ĝeš kišig ;  u2 kiši10 ;  u2 kišig ;  u2 kiši5 ;  kiši x (|KI.SAG@n|)  "an acacia" Akk.  ašāgu 
+ 
+ 
+ kišighar 
+ kišighar  [ TREE ]  wr.  ĝeš kišig2 -har  "a tree" 
+ 
+ 
+ kišuba 
+ kišuba  [ LAND ]  wr.  ki-šub-ba  "waste ground" 
+ 
+ 
+ kišuk 
+ kišuk  [ LOCUS ]  wr.  ki-šu  "a cultic place" Akk.  ? 
+ 
+ 
+ kišumak 
+ kišumak  [ GARDEN ]  wr.  ki-šum2 -ma ;  ki-šum2 sar  "garlic or onion plot" Akk.  šikin šumi 
+ 
+ 
+ kišupeš 
+ kišupeš  [ LOCUS ]  wr.  ki-šu-peš ;  ki-šu-peš5  "a cultic place" Akk.  māhāzu 
+ 
+ 
+ kišur 
+ kišur  [ GRAVE ]  wr.  ki-šur2  "grave; hole" Akk.  qubūru 
+ 
+ 
+ kišuš 
+ kišuš  [ NOTATION ]  wr.  ki-šuš2  "a rubric" 
+ 
+ 
+ kišutag 
+ kišutag  [ LOCUS ]  wr.  ki-šu-tag  "a cultic place" 
+ 
+ 
+ kita 
+ kita  [ LOWER ]  wr.  ki-ta  "lower; lower side" Akk.  šaplû 
+ 
+ 
+ kitila 
+ kitila  [ DEITY ]  wr.  ki-ti-il-la  "deity" 
+ 
+ 
+ kititum 
+ kititum  [ GRADE OF WOOL ]  wr.  ki-ti-tum  "a grade of wool" Akk.  kitītu 
+ 
+ 
+ kitukum 
+ kitukum  [ MOMENT ]  wr.  ki-tukum  "moment" 
+ 
+ 
+ kitum 
+ kitum  [ BURIAL ]  wr.  ki-tum2  "burial" 
+ 
+ 
+ kituš 
+ kituš  [ DWELLING ]  wr.  ki-tuš  "dwelling place" Akk.  mūšabu ;  šubtu 
+ 
+ 
+ ki'ub 
+ ki'ub  [ CORNER ]  wr.  ki-ub  "corner of earth" 
+ 
+ 
+ ki'udba 
+ ki'udba  [ THERE AND THEN ]  wr.  ki-ud-ba  "'there and then'" Akk.  ? 
+ 
+ 
+ ki'ulutim 
+ ki'ulutim  [ PLACE OF CREATION ]  wr.  ki-ulutim2  "place of creation" 
+ 
+ 
+ ki'umun 
+ ki'umun  [ PLACE OF LEARNING ]  wr.  ki-umun2  "place of learning" Akk.  ? 
+ 
+ 
+ ki'ur 
+ ki'ur  [ FOUNDATION ]  wr.  ki-ur3  "foundation" 
+ 
+ 
+ ki'us 
+ ki'us  [ UNMNG ]  wr.  ki-us2  "?" 
+ 
+ 
+ ki'uš 
+ ki'uš  [ WASTE ]  wr.  ki-uš2  "waste ground" 
+ 
+ 
+ ki'utu 
+ ki'utu  [ LOCUS ]  wr.  ki- d utu  "a cultic location; a ritual" 
+ 
+ 
+ kizah 
+ kizah  [ LOCUS ]  wr.  ki-zah3  "a cultic place" 
+ 
+ 
+ kizer 
+ kizer  [ HAIRSTYLE ]  wr.  ki-ze2 -er  "hairstyle" 
+ 
+ 
+ kizi 
+ kizi  [ FISH ]  wr.  ki-zi ku6  "a fish" 
+ 
+ 
+ kizrum 
+ kizrum  [ BAND ]  wr.  ki-iz-ru-um  "band of soldiers" 
+ 
+ 
+ kizurra 
+ kizurra  [ SHARP ]  wr.  ki-zu2 -ur5 -ra  "sharp edge" 
+ 
+ 
+ ku 
+ ku  [ PLACE ]  wr.  ku  "to place, lay (down), lay eggs; to spread, discharge" Akk.  nadû ;  uşşu 
+ 
+ 
+ KU 
+ KU  [ HOLE ]  wr.  KU  "hole" Akk.  miqqu 
+ KU  [ PLOUGH? ]  wr.  ĝeš KU  "plough?" 
+ KU  [ STRENGTHEN ]  wr.  KU  "to strengthen" Akk.  asāqu 
+ 
+ 
+ KUA 
+ KUA  [ OBJECT ]  wr.  ĝeš KU-A  "a wooden item" 
+ 
+ 
+ ku'abak 
+ ku'abak  [ FISH ]  wr.  ku6 -ab-ba ku6  "sea fish" 
+ 
+ 
+ kubulum 
+ kubulum  [ FOODSTUFF ]  wr.  ku-bu-ul-lum  "an edible substance" Akk.  ? 
+ 
+ 
+ kud 
+ kud  [ CUT ]  wr.  kud ;  gur5  "to break off, deduct; to separate, cut off; to cut; to incise; to decide; to make clear" Akk.  harāşu ;  napādu; parāsu; harāşu ;  parāsu; harāşu 
+ kud  [ FISH ]  wr.  ku6  "fish" Akk.  nūnu 
+ kud  [ SWEET ]  wr.  ku7  "(to be) good; (to be ) (honey-)sweet" Akk.  dašpu ;  matqu ;  ţābu 
+ 
+ 
+ kuda 
+ kuda  [ ANIMAL ]  wr.  kud-da  "an animal" Akk.  kušû 
+ 
+ 
+ kudkudra 
+ kudkudra  [ CRIPPLE ]  wr.  kud-kud-ra2  "a cripple" 
+ 
+ 
+ KUERIN 
+ KUERIN  [ FOOD ]  wr.  KU.ERIN2  "type of food" 
+ 
+ 
+ kug 
+ kug  [ METAL ]  wr.  kug  "metal, silver; (to be) bright, shiny" 
+ kug  [ PURE ]  wr.  kug  "(to be) pure" Akk.  ellu 
+ 
+ 
+ kugan 
+ kugan  [ METAL ]  wr.  kug-an  "a metal" Akk.  amūtu 
+ 
+ 
+ KUGANUNtirra 
+ KUGANUNtirra  [ BIRD ]  wr.  KU.ĜA2 .NUN-tir-ra mušen  "type of bird" 
+ 
+ 
+ kugbabbar 
+ kugbabbar  [ SILVER ]  wr.  kug-babbar ;  kug-babbar2  "silver" Akk.  kaspu 
+ 
+ 
+ kugbabbardim 
+ kugbabbardim  [ SILVERSMITH ]  wr.  kug-babbar-dim2  "silversmith" 
+ 
+ 
+ kugdim 
+ kugdim  [ SMITH ]  wr.  kug-dim2  "gold or silver smith" Akk.  kutīmu 
+ 
+ 
+ kugdiri 
+ kugdiri  [ SURPLUS ]  wr.  kug-diri  "surplus" Akk.  tattūru 
+ 
+ 
+ kugdu 
+ kugdu  [ RANSOM ]  wr.  kug-du8  "ransom money" 
+ 
+ 
+ kugdun 
+ kugdun  [ PROFIT ]  wr.  kug-dun  "profit" Akk.  takšītu 
+ 
+ 
+ kugĝal 
+ kugĝal  [ HOLY ]  wr.  kug-ĝal2  "holy" 
+ 
+ 
+ kugla 
+ kugla  [ SILVER WEIGHER ]  wr.  kug-la2  "silver weigher" 
+ 
+ 
+ kugmea 
+ kugmea  [ METAL ]  wr.  kug-me-a  "bright metal" 
+ 
+ 
+ kugsig 
+ kugsig  [ GOLD ]  wr.  kug-sig17  "gold" Akk.  hurāşu 
+ 
+ 
+ kugtuku 
+ kugtuku  [ RICH PERSON ]  wr.  kug-tuku  "rich person" 
+ 
+ 
+ kugzu 
+ kugzu  [ WISE ]  wr.  kug-zu  "wise" 
+ 
+ 
+ kuĝ 
+ kuĝ  [ STAIR ]  wr.  ĝeš kuĝ5 ;  kun4 ;  ĝeš kuĝ4 ;  kun5 ;  ĝeš kuĝ x (LUM)  "stair(case); ladder; threshold" Akk.  askuppu ;  simmiltu 
+ 
+ 
+ kukku 
+ kukku  [ DARK PLACES ]  wr.  kukku2  "dark places" Akk.  eklētu 
+ kukku  [ DARK ]  wr.  ku10 -ku10 ;  kukku5  "(to be) dark" Akk.  da'āmu 
+ kukku  [ LAND ]  wr.  kukku3 (|KI.KI|)  "land" 
+ 
+ 
+ kuksu 
+ kuksu  [ TOOL ]  wr.  kuksu2 ;  kuksu  "a garden tool" Akk.  kuksu 
+ 
+ 
+ KUKU 
+ KUKU  [ SUE ]  wr.  |KU.KU|  "to sue" 
+ 
+ 
+ kul 
+ kul  [ BOWL ]  wr.  kul  "bowl" 
+ kul  [ COLLECT ]  wr.  kul  "to collect; to collect; to glean; to remove, take away; to peck" Akk.  laqātu 
+ kul  [ HANDLE ]  wr.  kul  "a handle" 
+ kul  [ HEAVY ]  wr.  kul  "(to be) heavy; to honor a person" Akk.  kabātu 
+ kul  [ MEAL ]  wr.  kul  "meal" Akk.  naptanu 
+ kul  [ PLANT ]  wr.  u2 kul ;  u2 kul-la ;  u2 ku kul2  "a plant, weed" Akk.  išbabtu 
+ kul  [ RUN ]  wr.  kul  "to run" Akk.  lakādu 
+ 
+ 
+ kuli 
+ kuli  [ UNIT ]  wr.  ku-li  "unit of liquid measurement" 
+ 
+ 
+ kulili 
+ kulili  [ COLLEAGUE ]  wr.  ku-li-li  "colleague" Akk.  itbaru 
+ 
+ 
+ kullum 
+ kullum  [ COOK ]  wr.  kul-lum  "cook; brewer" Akk.  nuhatimmu ;  siraāšu 
+ 
+ 
+ kum 
+ kum  [ HOT ]  wr.  kum2 ;  kum4  "(to be) hot" Akk.  emēmu 
+ 
+ 
+ kumul 
+ kumul  [ CUMIN ]  wr.  ku-mul ;  ga-mul  "cumin" Akk.  kamunu 
+ 
+ 
+ kun 
+ kun  [ FISH ]  wr.  kun ku6  "a fish" 
+ kun  [ SHINE ]  wr.  kun2  "to shine brightly" Akk.  nabâtu 
+ kun  [ TAIL ]  wr.  kun  "tail; canal outlet" Akk.  zibbatu 
+ 
+ 
+ kundar 
+ kundar  [ ANIMAL ]  wr.  kun-dar  "an animal" Akk.  šakkadirru 
+ 
+ 
+ kunga 
+ kunga  [ EQUID ]  wr.  kunga2 ;  kunga ;  anše kunga2 ;  anše |BAR×AN| ;  anše kunga  "an equid, probably a donkey-onager cross" Akk.  parû 
+ 
+ 
+ kungid 
+ kungid  [ DESCRIPTION OF SHEEP ]  wr.  kun-gid2  "a description of sheep" 
+ 
+ 
+ kunĝar 
+ kunĝar  [ SUBSCRIPT ]  wr.  kun-ĝar  "a literary subscript" 
+ 
+ 
+ kunkan 
+ kunkan  [ SOUND ]  wr.  kun-ka3 -an  "a sound (onomatopoeic)" 
+ 
+ 
+ kunkan za 
+ kunkan za  [ MAKE NOISE ]  wr.  kun-ka3 -an za  "to make noise" 
+ 
+ 
+ kunrim 
+ kunrim  [ BIRD ]  wr.  kun-rim mušen  "a crested bird" Akk.  işşur kubši 
+ kunrim  [ VESSEL ]  wr.  kun-rim zabar ;  kun-du3 ;  dug kun-rim ;  dug kun-ri  "a libation vessel" Akk.  maslahtu 
+ 
+ 
+ kunsaĝ 
+ kunsaĝ  [ ~ARCHITECTURE ]  wr.  kun-saĝ  "an architectural term" Akk.  muhru 
+ 
+ 
+ kunsaĝa 
+ kunsaĝa  [ ~ASTRONOMICAL ]  wr.  kun-saĝ-ĝa2  "an astronomical term" Akk.  kunsaggû 
+ 
+ 
+ kunsig 
+ kunsig  [ BRISTLE ]  wr.  kun-sig3 ;  kun-zi ;  kun-sig2 ;  kun-sig x (UMBIN)  "bristle" Akk.  zappu 
+ 
+ 
+ kunu 
+ kunu  [ APPROACH ]  wr.  ku-nu  "to approach" Akk.  qerēbu ;  sanāqu ša nakri 
+ 
+ 
+ kunzi 
+ kunzi  [ FISH ]  wr.  kun-zi ku6  "a fish" 
+ 
+ 
+ kunzida 
+ kunzida  [ WEIR ]  wr.  kun-zid-da ;  kun-zi  "weir" Akk.  mihru 
+ 
+ 
+ kur 
+ kur  [ BURN ]  wr.  kur  "to burn, light up" Akk.  napāhu 
+ kur  [ DIFFERENT ]  wr.  kur2 ;  gur  "(to be) different; (to be) strange; (to be)estranged; (to be) hostile; to change; to become strange; to alternate (math.)" Akk.  nakāru ;  šanû 
+ kur  [ ENTER ]  wr.  kur9 ;  kur x (DU) ;  kur x (LIL)  "to enter" Akk.  erēbu 
+ kur  [ MOUNTAIN ]  wr.  kur ;  kir5  "underworld; land, country; mountain(s); east; easterner; east wind" Akk.  erşetu ;  mātu ;  šadû ;  šadû 
+ kur  [ UNIT ]  wr.  kur2 ;  gur2  "unit of capacity based on a vessel size" 
+ kur  [ WOOD ]  wr.  ĝeš kur ;  ĝeš kur4  "log?" Akk.  kūru ;  kiskibirru 
+ 
+ 
+ KUr 
+ KUr  [ HERD ]  wr.  KU  "to herd; herdsman" 
+ 
+ 
+ kura 
+ kura  [ ~LOOM ]  wr.  ĝeš kur-ra ;  ĝeš kur4 -ra ;  ĝeš ku-ra  "a designation of looms" Akk.  işi kura 
+ 
+ 
+ kurbad 
+ kurbad  [ MOUNTAIN TOP ]  wr.  kur-bad3  "mountain top" 
+ 
+ 
+ kurbal 
+ kurbal  [ COUNTRY ]  wr.  kur-bal  "overseas country" 
+ 
+ 
+ kurdillum 
+ kurdillum  [ PLANT ]  wr.  ĝeš hašhur kur-dil-lum  "a plant" 
+ 
+ 
+ kurdilum 
+ kurdilum  [ FRUIT TREE ]  wr.  kur-di-lum  "fruit tree" Akk.  kurdillu 
+ 
+ 
+ kurgaranum 
+ kurgaranum  [ STONE ]  wr.  na4 kur-ga-ra-nu-um  "type of stone" 
+ 
+ 
+ kurgi 
+ kurgi  [ GOOSE ]  wr.  kur-gi4 mušen ;  kur-gi mušen ;  kur-gi16 mušen  "goose" Akk.  kurkû 
+ 
+ 
+ kurĝara 
+ kurĝara  [ PERFORMER ]  wr.  kur-ĝar-ra  "a cultic performer" 
+ 
+ 
+ kurku 
+ kurku  [ FLOOD ]  wr.  ku-kur ;  kur-ku ;  kur-ku4  "flood; wave" Akk.  agû 
+ kurku  [ OBSERVE? ]  wr.  kur-ku ;  kur-ku-ku  "to observe?" 
+ kurku  [ PRIEST ]  wr.  kurku  "a purification priest" Akk.  išippu 
+ kurku  [ WISH ]  wr.  kurku2 ;  kur-ku ;  ku-kur ;  gu-kur ;  kur-gi4  "wish" Akk.  nizmatu 
+ 
+ 
+ kurkudu 
+ kurkudu  [ CONTAINER ]  wr.  kur-ku-du3 ;  ku-kur-du3 ;  kur-du3  "a container" 
+ 
+ 
+ kurKUDU 
+ kurKUDU  [ CONTAINER ]  wr.  kur-KU.DU3  "a container" 
+ 
+ 
+ kurmadilum 
+ kurmadilum  [ BIRD ]  wr.  kur-ma-di-lum mušen ;  kur-ma-dal mušen  "a bird" 
+ 
+ 
+ kuršag 
+ kuršag  [ MOUNTAIN MIDST ]  wr.  kur-šag4  "center of the mountains" 
+ 
+ 
+ kurukuku 
+ kurukuku  [ BIRD ]  wr.  ku-ru-ku-ku mušen ;  ku-ru-uk mušen ;  kur-ug mušen  "a bird" Akk.  kurukku 
+ 
+ 
+ kurum 
+ kurum  [ RATION ]  wr.  kurum6  "food ration" Akk.  kurummatu 
+ 
+ 
+ kurun 
+ kurun  [ BEER ]  wr.  kurun ;  kurun2 ;  kurun3  "a beer; blood; (to be) good; (to be) sweet" Akk.  dāmu ;  kurunnu ;  ţābu 
+ 
+ 
+ kurur 
+ kurur  [ MOUNTAIN BASE ]  wr.  kur-ur2  "base of the mountains" 
+ 
+ 
+ kurušda 
+ kurušda  [ FATTENER ]  wr.  kurušda  "animal fattener" Akk.  mārû 
+ 
+ 
+ kurzag 
+ kurzag  [ MOUNTAIN BORDER ]  wr.  kur-zag  "mountain border" 
+ 
+ 
+ kuš 
+ kuš  [ CHANNEL ]  wr.  kuš3  "water channel; pipe; mold" Akk.  rāţu 
+ kuš  [ DEVASTATION ]  wr.  kuš7  "devastation" Akk.  naspantu 
+ kuš  [ MALT-FLOUR ]  wr.  kuš7  "malt-flour" Akk.  kukkušu 
+ kuš  [ OFFICIAL ]  wr.  kuš7  "a high official" Akk.  kizû 
+ kuš  [ SKIN ]  wr.  kuš  "skin; leather; body; person" Akk.  mašku ;  zumru 
+ kuš  [ SUMMER ]  wr.  kuš7  "summer" Akk.  qēşu 
+ kuš  [ UNIT ]  wr.  kuš3  "a unit of length" Akk.  ammatu 
+ 
+ 
+ kuš su 
+ kuš su  [ LEVEL ]  wr.  kuš7  su ;  kuš7  su3  "to level, to devastate" Akk.  ? 
+ 
+ 
+ KUŠDU 
+ KUŠDU  [ WEAPON ]  wr.  KUŠ2 .DU  "type of weapon" 
+ 
+ 
+ kušer 
+ kušer  [ PROFIT ]  wr.  ki-še-er ;  ku-še-er  "profit" Akk.  kušīru 
+ 
+ 
+ kušla 
+ kušla  [ GARMENT ]  wr.  kuš-la2  "a garment; a functionary" Akk.  aguhhu ;  nahlaptu ;  ramku ;  ša šibirri 
+ 
+ 
+ kušlug 
+ kušlug  [ BOX ]  wr.  kušlug  "a box with a lid" Akk.  netmertu 
+ 
+ 
+ kušu 
+ kušu  [ ANIMALS ]  wr.  kušu  "animals, livestock" Akk.  būlu 
+ kušu  [ CREATURE ]  wr.  kušu2 ;  kušu2 ku6  "crab or a snapping turtle" Akk.  kušû 
+ kušu  [ TIRED ]  wr.  kuš2 ;  kuš2 -u3  "(to be) tired, troubled" Akk.  anāhu 
+ 
+ 
+ kušum 
+ kušum  [ CRY ]  wr.  kušum  "to cry (out), wail" Akk.  nâqu 
+ kušum  [ CVNE ]  wr.  kušum x (U2 )  "(compound verb nominal element)" 
+ kušum  [ CVNE ]  wr.  kušum4  "(compound verb nominal element)" 
+ kušum  [ HEIGHT ]  wr.  kušum ;  kušum2  "height; to look down on, despise" Akk.  nâşu ;  šûqu 
+ 
+ 
+ kušum ki tag 
+ kušum ki tag  [ CRAWL ]  wr.  kušum x (U2 ) ki tag  "to crawl" Akk.  pašālu 
+ 
+ 
+ kušum tag 
+ kušum tag  [ RUN FAST ]  wr.  kušum x (U2 ) tag ;  kušum4  tag  "to run at a fast gait" Akk.  nâqu 
+ 
+ 
+ KU'UDKI 
+ KU'UDKI  [ GOLD ]  wr.  KU3 .UD.KI  "gold" Akk.  hurāşu 
+ 
+ 
+ kuzazu 
+ kuzazu  [ INSECT ]  wr.  kaz8 ;  ku-za-zu mušen  "a wasp or flying insect" Akk.  hanzizītu 
+ 
+ 
+ kuzen 
+ kuzen  [ GOLD? ]  wr.  ku6 -ze-en  "gold?" Akk.  ? 
+ 
+ 
+ 
+ 
+ePSD icon   ePSD  
+	  contacts:  Steve 
+          Tinney  and  Philip Jones .
+ 
+ 
+ 
+ 

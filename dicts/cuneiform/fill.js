@@ -3,7 +3,9 @@ x=require('/Users/me/uruk_egypt/scripts/cuneiformize.js')
 require('/Users/me/dev/js/extensions.js')()
 
 
-file="k.txt"
+args=process.argv.slice(2)
+file = args[0] || "l.txt"
+
 lines=read_lines(file)
 for(line0 of lines){
 	line=line0
@@ -15,7 +17,6 @@ for(line0 of lines){
 	let cun=x.cuneiformize(line)
 	cun=cun.replaceAll(/^\?/g,'')
 	cun=cun.replaceAll(/\?$/g,'')
-	// console.log(line0)
 	console.log(line0.replace("wr. "+line,cun+" "+line))
 }
 

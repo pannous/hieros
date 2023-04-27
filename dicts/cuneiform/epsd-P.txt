@@ -1,0 +1,2074 @@
+
+ 
+ P ePSD Browsable HTML P pa  [BRANCH] (293 instances) pa  [BRANCH]  (293x: ED IIIa, ED IIIb, Old Akkadian, Ur III, Old Babylonian, unknown)  wr.  pa ;  pa9  "wing; branch, frond" Akk.  agappu ;  aru ;  kappu See  pa e[appear] . [1] 
+cuneiform PA pa [2] 
+cuneiform ŠA₆ pa9 +-0 (293x/100% ) .350030002500200015001000 (no date) [1]83124771 [2]13 distinct forms attested; click to view forms table.1.  wing  (293x/100%) ~  LEX/Old Babylonian/Nippur   ĝiš pa   OB Nippur Ura1140. 
+ LEX/Old Babylonian/unknown   
+ lu2   pa 
+ mušen #-[na]  =  
+ [ša] 
+ ga #-pi #-[x]   OB Lu-Azlag A462. 
+ ELA/ED IIIb/Girsu4(geš2 @c)1(u@c)   pa 
+ sa 
+ la2-a # 
+ geš hašhur   VS14,057 o iv1;2(u@c) 
+ la24(diš)   pa 
+ sa 
+ la2-a 
+ geš gul-bu   VS14,057 o iv2;8(aš@c)   pa 
+ sa 
+ la2-a   VS14,098 o ii1. 
+ ELA/ED IIIb/unknown3(u@c) 
+ la23(diš)   pa 
+ sa 
+ la2-a 
+ geš hašhur   Nik1,280 o i3;1(geš2 @c)1(u@c)   pa 
+ sa 
+ la2-a   Nik1,291 o i1;5(u@c) 
+ la23(diš)   pa 
+ sa 
+ la2-a   Nik1,291 o i4. 
+ ELA/Old Akkadian/Girsu   pa 
+ x 
+ [...]   CT50,1532;3(u@c) 
+ la21(aš@c) 
+ ma-na 
+ an-na   pa-na   ITT5,066702. 
+ ELA/Old Akkadian/Lagash1(aš@c) 
+ ur #-li   pa ?   BM0263316. 
+ ELA/Old Akkadian/unknown   
+ mu 
+ gi4-de3   pa   MAD4,0141. 
+ ELA/Ur III/Drehem5(diš) 
+ kuš suhub2 
+ gu-tu   pa 
+ du8-ši-a 
+ e2-ba-an   PDT1,6133. 
+ ELA/Ur III/Girsu1(u)2(diš) 
+ gu2   pa 
+ sar   Atiqot4, pl.0208 o iii13;1(geš2 ) 
+ gu2   pa 
+ dara4 
+ geš ab-[ba]   Atiqot4, pl.0208 o iii17;2(aš) 
+ gu2   pa 
+ geš asal x ( A . TU . NIR ) #   Atiqot4, pl.0208 o iii18. 
+ ELA/Ur III/Nippur1(u)2(diš) 
+ geš   pa 
+ us2-sa   BE03/1,0776;1(aš) 
+ gu2 
+ geš   pa   BE03/1,0777; 
+ 
+ [...] 
+ pu2 
+ AŠ   pa   BE03/1,1483;1(barig)3(ban2 ) 
+ [...]   pa   BE03/1,1485. 
+ ELA/Ur III/Umma   
+ x 
+ x 
+ da 
+ mu   pa   AnOr01,0814;1(ban2 )6(diš) 
+ sila3   pa 
+ li   AnOr07,311 r i13; 
+ 
+ ŠIM 
+ i3 
+ a-ra2 
+ a   pa 
+ lugal-kam   BIN05,2926. 
+ ELA/Ur III/Ur7(diš)1/2(diš) 
+ gin2 
+ gu 
+ ša3 
+ [...]   pa 
+ za 
+ e3   UET3,04461. 
+ ELA/Ur III/unclear2(diš) 
+ sila3 
+ ŠIM 
+ sag   pa 
+ x 
+ sa10 
+ ga2   YNER8,2415; 
+ 
+ ŠIM 
+ i3 
+ a-ra2 
+ a   pa 
+ lugal-kam   YNER8,242;1(geš2 )3(u)1(aš) 
+ gu2   pa 
+ geš ma-nu   TSU108 o vii18; 
+ 
+ ŠU + LAGAB1(geš2 )3(u)1(aš) 
+ gu2   pa 
+ geš ma-nu   TSU108 r iv1. 
+ unknown/ED IIIb/Girsu1(u@c)   pa 
+ sa 
+ la2-a 
+ geš gul-bu   DP409 r i3;2(geš2 @c)   pa 
+ sa 
+ la2-a 
+ geš gi-gid2   DP410 o ii3;4(u@c)2(aš@c)   pa 
+ sa 
+ la2-a   DP410 o i7. 
+ unknown/ED IIIb/Nippur   pa-bi 
+ uri3 # 
+ [x]   ASJ16, p.43-46 prism xiii7. 
+ unknown/ED IIIb/unknown3(gešʾu@c)4(geš2 @c)4(u@c)   pa 
+ sa 
+ la2-a   TSA26 r ii3. 
+ unknown/Old Akkadian/Girsu1(u)2(aš@c) 
+ ma-na 
+ urudu 
+ an-na   pa-na   ITT2,057281; 
+ 
+ e2   pa 
+ ka 
+ ba 
+ x   ITT2,057593; 
+ 
+ ŠU + LAGAB2(u@c) 
+ ma-na 
+ urudu 
+ an-na   pa-na   ITT5,09257 r ii2; 
+ 
+ [...]   pa 
+ [...]   ITT5,092811. 
+ unknown/Ur III/Drehem1(geš2 ) 
+ gu2   pa 
+ maš 
+ geš ma-nu   Aleppo1132;1(aš) 
+ gu2   pa 
+ geš ma-nu   Aleppo1201. 
+ unknown/Ur III/Girsu   
+ ma 
+ ka   pa 
+ e2-ta   SAT1,1844. 
+ unknown/Ur III/Nippur7(diš)   pa 
+ [gu2]   BBVO11,270,6N-T10610;7(diš)   pa 
+ gu2   BBVO11,294,6N-T61819;7(diš)   pa 
+ gu2   BBVO11,299,6N-T7917. 
+ unknown/Ur III/Umma2(aš) 
+ gu2   pa 
+ geš ma-nu   MVN16,11921;1(aš) 
+ gu2   pa 
+ geš ma-nu   MVN16,12001; 
+ 
+ igi4(diš) 
+ gal2 
+ ku3   pa 
+ mušen-na   MVN21,3446. 
+ ~ eren[cedar] LEX/Old Babylonian/Nippur   ĝiš pa 
+ erin   OB Nippur Ura152b. 
+ ~ gi[reed] LEX/Old Babylonian/Nippur   gi pa 
+ gi   OB Nippur Ura2172. 
+ ELA/Ur III/Umma   pa 
+ gi 
+ ba-keš2   Umma0534. 
+ ~ gibil[new] ug[die] LEX/Old Babylonian/Nippur   ĝiš pa 
+ gibil 
+ ug5-ga #   OB Nippur Ura1655. 
+ ~ ĝešnimbar[palm] LEX/Old Babylonian/Nippur   ĝiš pa 
+ nimbar   OB Nippur Ura186. 
+ ELA/Ur III/Drehem2(geš2 )   pa 
+ geš gešimmar   PDT1,4992. 
+ ELA/Ur III/Girsu2(geš2 ) 
+ nig2-ki-luh   pa 
+ geš gešimmar   ITT2,00734 r i18;1(šar2 )2(gešʾu)1(u)6(diš)   pa 
+ geš gešimmar   ITT2,00734 r i20;2(diš) 
+ nig2-ki-lu   pa 
+ gešimmar   ITT2,00892 r i17. 
+ ELA/Ur III/Umma2(aš) 
+ gu2   pa 
+ gešimmar   ASJ07,128403;1(geš2 )   pa 
+ geš gešimmar   MVN14,02297; 
+ 
+ ŠU + LAGAB3(geš2 )1(u)8(diš)   pa 
+ gešimmar   TCL5,6036 o iii33;3(geš2 ) #1(u)8(diš)   pa 
+ gešimmar   TCL5,6036 o i15; 
+ 
+ ŠU + NIGIN1(geš2 )4(u)4(diš)   pa 
+ gešimmar   TCL5,6036 r vii19;3(gešʾu)   pa 
+ gešimmar   YOS04,2984. 
+ ELA/Ur III/Ur3(u)5(diš) 
+ gu-nigin2   pa 
+ geš gešimmar   UET3,07911. 
+ ELA/Ur III/unclear1(geš2 )5(u)   pa 
+ gešimmar   TSU108 r v14. 
+ unknown/Ur III/Girsu2(diš)   pa 
+ gešimmar   BM Messenger3342. 
+ unknown/Ur III/Umma1(geš2 )   pa 
+ gešimmar   UTI4,26963;1(šar2 )4(geš2 )3(u)   pa 
+ gešimmar   MVN20,0343;1(šar2 )4(geš2 )2(u)   pa 
+ gešimmar   MVN20,0351;1(geš2 )2(u)   pa 
+ gešimmar   SAT3,20062. 
+ ~ igi[eye] LEX/Old Babylonian/unknown   pa 
+ igi-ĝu10   Ugumu65. 
+ ~ kud[cut] LEX/Old Babylonian/Nippur   pa 
+ kud   OB Nippur Lu201; 
+ pa 
+ kud   OB Nippur Lu202; 
+ pa 
+ ku5 
+ BU   OB Nippur Lu203. 
+ LEX/Old Babylonian/unknown   
+ lu2   pa 
+ ku5-ku5  =  
+ ha-ru #-[...]   OB Lu-Azlag A241. 
+ unknown/Ur III/Umma1(u) 
+ gu2   pa 
+ ku5 
+ geš asal2   ASJ19,215431;1(geš2 )5(u)5(aš) 
+ gu2   pa 
+ ku5 
+ geš asal2   UTI4,24222;2(geš2 ) 
+ lagab   pa 
+ ku5   UTI4,27011;1(geš2 )5(u)3(aš) 
+ gu2   pa 
+ ku5 
+ geš asal2 #   UTI4,27471;1(u)5(aš) 
+ gu2   pa 
+ ku5 
+ geš ma-nu   UTI4,27472. 
+ ~ mul[shine] LEX/Old Babylonian/Nippur   pa 
+ mul   OB Nippur Lu199. 
+ ~ naĝa[potash] LEX/Old Babylonian/Nippur   pa # 
+ naĝa   MSL11,111 F r ii10'. 
+ LEX/unknown/unknown   pa 
+ naĝa #   SLT015 prism iii2. 
+ ~ usuh[tree] LEX/Old Babylonian/Nippur   ĝiš pa 
+ u3-suh5   OB Nippur Ura127. 
+ See: gal pa dim; garig pa mušen; nir pa mušen; siki pa; tug pa kud.2.  branch, frond Akk.  agappu  "wing" ;  aru  "branch, frond" ;  kappu  "wing" . See ETCSL:  pa=branch . PA  [POUCH] (3 instances) PA  [POUCH]  (3x: Old Babylonian)  wr.  PA5  "pouch" [1] 
+cuneiform |PAP.E| PA5 +-0 (3x/100% ) .350030002500200015001000 (no date) [1]12 distinct forms attested; click to view forms table.1.  pouch  (3x/100%) ~  See ETCSL:  PA5 =pouch . pa e  [APPEAR] (232 instances) pa e  [APPEAR]  (232x: ED IIIb, Old Akkadian, Lagash II, Ur III, Old Babylonian)  wr.  pa e3  "to cause to appear" Akk.  šupû ( pa[branch]  +  e[leave] ) [1] 
+cuneiform PA |UD.DU| pa e3 +-0 (232x/100% ) .350030002500200015001000 (no date) [1]1962 distinct forms attested; click to view forms table.1.  to cause to appear ~  LEX/Old Babylonian/Nippur   [[<(pa)> 
+ e3]] =   =   =  
+ šu-pu-u2-um   OB Diri Nippur312. 
+ LEX/Old Babylonian/Sippar   [[<(pa)> 
+ e3]] =   =   =  
+ šu-pu-u2   OB Diri Sippar Seg.6,17. 
+ unknown/ED IIIb/Lagash   
+ guruš 
+ sag   pa 
+ e3   BiMes03,14 r i6. 
+ unknown/ED IIIb/Zabalam   
+ e2 
+ u4-gin7   pa 
+ e3   BIN08,0322;1/2(iku@c)1/4(iku@c) 
+ bara2-ga #-ne2   pa # 
+ [e3 ?]   BIN08,076 o ii4. 
+ unknown/ED IIIb/unknown2(barig@c) 
+ lugal   pa 
+ e3   BIN08,111 o i5; 
+ 
+ lugal   pa 
+ e3   BIN08,111 o i6;1(iku@c) 
+ lugal   pa 
+ e3 
+ nu-banda3   BIN08,058 o i2. 
+ Akk.  šupû  "made apparent" . PA.LU  [BIRD] (1 instances) PA.LU  [BIRD]  (1x: ED IIIa)  wr.  SIPAD mušen  "a bird" [1] 
+cuneiform |PA.LU|.HU SIPAD mušen +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a bird  (1x/100%) ~  LEX/ED IIIa/unknown   SIPAD mušen   ED Birds152. 
+ PA.LU.TA  [PREFERENTIAL SHARE] (1 instances) PA.LU.TA  [PREFERENTIAL SHARE]  (1x: Old Babylonian)  wr.  |PA.LU.TA|  "preferential share" [1] 
+cuneiform PA.LU.TA |PA.LU.TA| +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  preferential share  (1x/100%) ~  LEX/Old Babylonian/Nippur   PA . LU . TA   OB Nippur Lu464. 
+ PAA  [WEAPON] (1 instances) PAA  [WEAPON]  (1x: Old Babylonian)  wr.  PA.A  "type of weapon" [1] 
+cuneiform PA.A PA.A +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  type of weapon  (1x/100%) ~  See ETCSL:  PA.A=type of weapon . pa'agar  [CHANNEL] pa'agar  [CHANNEL]  wr.  pa4-agar4 ;  pa5-kur5  "meadow channel" [1] 
+cuneiform PAP.IGI@g pa4-agar4 [2] 
+cuneiform |PAP.E|.TAR pa5-kur51.  meadow channel [2001]  G. Marchesi, OrNS70316-317. See ETCSL:  pa4-ugur2 =meadow channel . pabilga  [RELATION] (14 instances) pabilga  [RELATION]  (14x: Old Babylonian)  wr.  pa-bil2-ga ;  pa-bil3-ga ;  pa4-bil2-ga ;  pa-bil-ga ;  pa4-bil-ga ;  pa4-bi-ga  "a kinship term" Akk.  abu [1] 
+cuneiform PA.NE@s.GA pa-bil2-ga [2] 
+cuneiform PA.|GIŠ.NE@s|.GA pa-bil3-ga [3] 
+cuneiform PAP.NE@s.GA pa4-bil2-ga [4] 
+cuneiform PA.NE.GA pa-bil-ga [5] 
+cuneiform PAP.NE.GA pa4-bil-ga [6] 
+cuneiform PAP.BI.GA pa4-bi-ga +-0 (14x/100% ) .350030002500200015001000 (no date) [1]6 [2]3 [3]2 [4]1 [5]1 [6]19 distinct forms attested; click to view forms table.1.  a kinship term  (14x/100%) ~  LEX/Old Babylonian/Nippur   pa4-bil2-ga   OB Nippur Lu411. 
+ Akk.  abu  "father" . [2004]  G. Marchesi, OrNS73196;197 n253. See ETCSL:  pap-bil2-ga=ancestor . pad  [BREAK] (56 instances) pad  [BREAK]  (56x: ED IIIb, Old Akkadian, Ur III, Old Babylonian, unknown)  wr.  pad  "to break (into bits)" Akk.  kasāpu [1] 
+cuneiform PAD pad +-0 (36x/64% ) ; -ra2  (16x/29% ) ; -da (4x/7% ) .350030002500200015001000 (no date) [1]5149316 distinct forms attested; click to view forms table.1.  to break (into bits)  (56x/100%) ~  LEX/Old Babylonian/Nippur   pad-pad-ra2   Nigga123; 
+ [[pad]] =  
+ pa-ad  =  
+ PAD  =  
+ ka-sa-pu-u2   OB Aa212:1; 
+ [[pad]] =   =   =  
+ pu-us-su2-su2   OB Aa212:2. 
+ LEX/unknown/unknown   pad-pad-ra2   SLT018 iii15'. 
+ ELA/ED IIIb/Girsu   
+ GAN2   pad-ra2 
+ dab5-ba-a-am6   VS25,061 r iii5; 
+ pad-am6   VS25,0935; 
+ pad 
+ ensi2 #-[ka]   AWAB070 r ii3. 
+ ELA/Old Akkadian/Girsu1(aš@c)   pad 
+ ninda   ITT2,043814. 
+ ELA/Old Akkadian/Lagash2(ban2 @c) 
+ ninda   pad !? 
+ lagab #   BM0154132. 
+ ELA/Ur III/Girsu2(u)   pad 
+ gal   ITT3,061061;4(u)   pad 
+ tur   ITT3,061062;6(diš)   pad 
+ gal   ITT3,065866. 
+ ELA/Ur III/Ur3(diš) 
+ siskur2 
+ ša3   pad-da   UET3,00694; 
+ 
+ [x 
+ ma]-na1/2(diš) 
+ gin2 
+ na4 
+ ki-la2 
+ nig2   pad-pad-ra2   UET3,07333. 
+ unknown/Old Akkadian/unknown1(u@c)   pad 
+ ninda   Fs. Sjoberg,072;1(u@c)   pad 
+ gug2   Fs. Sjoberg,083. 
+ unknown/Ur III/Umma   
+ e2 
+ ša3 
+ gi4   pad-da   RIAA01110. 
+ ~ šub[fall] LEX/Old Babylonian/Nippur   gi pad # 
+ šub-ba   OB Nippur Ura2170. 
+ See: bappir pad; gi pad; kug pad; kug pad u; kug pad ki u; kugbabbar pad; mu kug pad u. Akk.  kasāpu  "to break (into bits)" . [1992]  P. Steinkeller and J.N. Postgate, LAT69. See ETCSL:  pad=to break (into bits) . pad  [FIND] (2313 instances) pad  [FIND]  (2313x: ED IIIb, Old Akkadian, Lagash II, Ur III, Early Old Babylonian, Old Babylonian, Middle Babylonian, unknown)  wr.  pad3  "to find, discover; to name, nominate" Akk.  atû ;  nabû See  a pad[unmng] ,  er pad[weep] ,  mu lugalak pad[swear] . [1] 
+cuneiform |IGI.RU| pad3  (pa3 ) +-0 (1705x/74% ) ; -da (387x/17% ) ; -de3  (219x/9% ) ; -de (1x/0% ) ; -de2  (1x/0% ) .350030002500200015001000 (no date) [1]150154257111235 distinct forms attested; click to view forms table.1.  to find, discover  (2313x/100%) ~  LEX/Old Babylonian/Nippur   
+ abul 
+ na-ne2   pad3-da   OB Kagal8. 
+ ELA/ED IIIb/Girsu2(bur3 @c) 
+ GAN2 
+ us2 
+ gal 
+ kun 
+ d en-lil2-le   pa3-da   VS14,072 o ii4;2(bur3 @c) 
+ GAN2 
+ kun 
+ d en-lil2-le   pa3-da   VS14,188 o i3. 
+ ELA/ED IIIb/unknown   
+ maš-e   pa3-da-a   Nik1,174 r ii3. 
+ ELA/Old Akkadian/Girsu   
+ mu 
+ en 
+ d inanna 
+ unu # [ki] 
+ dumu 
+ ur-d namma 
+ lugal-[la ?] 
+ maš-e   ba-pa3-da #   RTC264 r ii2; 
+ 
+ mu 
+ en 
+ d inanna 
+ unu ki-a 
+ dumu 
+ ur-d namma 
+ lugal-a 
+ maš-e   ba-pa3-da-še3 #   RTC264 r ii6; 
+ pa3-de3-dam   DPA391. 
+ ELA/Old Akkadian/Nippur   
+ [...]   pa3 #-da #   OSP2,099 r v1. 
+ ELA/Lagash II/Girsu   
+ mu 
+ nin-dingir 
+ d iškur 
+ maš-e   pa3-da   MVN07,1701. 
+ ELA/Ur III/Adab   
+ unu ki-ga 
+ maš2-e   in-pa3   MVN03,3204; 
+ 
+ mu 
+ en 
+ d inanna 
+ maš2-e   in-pa3   MVN03,3223; 
+ 
+ mu 
+ en 
+ d inanna 
+ maš2-e   in-pa3   MVN13,8954. 
+ ELA/Ur III/Drehem   
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   Aegyptus17,52,0495; 
+ 
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   Aegyptus17,54,0724; 
+ 
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   Aegyptus17,58,1214. 
+ ELA/Ur III/Girsu   
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   AAS1651; 
+ 
+ mu 
+ en 
+ d inanna 
+ maš-e   i3-pa3   AAS1802; 
+ 
+ mu 
+ en 
+ d inanna 
+ maš-e   i3-[pa3]   AAS1892. 
+ ELA/Ur III/Mazyad   
+ mu 
+ en 
+ d inanna 
+ unu 
+ maš2 #-e   i3-pa3   ASJ11,344201; 
+ 
+ mu 
+ d i-bi2-d suen 
+ lugal 
+ en 
+ unu ki #-[ga] 
+ maš2-e   i3-[pa3]   ASJ11,345224'. 
+ ELA/Ur III/Nippur   
+ mu 
+ lugal al-bi   i3-pa3   ArOr07,818; 
+ 
+ unu ki 
+ maš2-e   i3-pa3   AUCT1,3338; 
+ 
+ ša3 
+ šu-numun 
+ mu 
+ en 
+ d inanna 
+ maš2-e   in-pa3   AUCT3,2633. 
+ ELA/Ur III/Susa   
+ mu 
+ en 
+ d inanna 
+ maš2-e   pa3-da   MDP10,711212. 
+ ELA/Ur III/Umma   
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   AAS0431; 
+ 
+ [mu] 
+ en 
+ d nanna 
+ maš2-e   i3-pa3   AAS0441; 
+ 
+ mu 
+ en 
+ d inanna 
+ unu ki 
+ maš2-e   i3-pa3   AAS0979. 
+ ELA/Ur III/Ur   
+ mu 
+ en 
+ d inanna 
+ unu ki-ga 
+ maš2-e   i3-pa3   MVN03,3164; 
+ 
+ mu 
+ en 
+ d inanna 
+ unu ki-ga 
+ maš2-[e]   i3-pa3 #   MVN03,3176; 
+ 
+ mu 
+ en 
+ d inanna 
+ unu ki-ga 
+ maš2-e   i3-pa3   MVN03,3185. 
+ ELA/Ur III/Wilayah   
+ mu 
+ en 
+ d inanna 
+ unu ki-ga 
+ maš2-e   i3-pa3   JCS38,049172; 
+ 
+ mu 
+ en 
+ d inanna 
+ unu ki 
+ maš2 #-e   i3-pa3   JCS38,050183; 
+ 
+ mu 
+ en 
+ d inanna # 
+ maš2 #-e   [i3-pa3]   JCS38,051195. 
+ ELA/Ur III/unclear   
+ mu 
+ en 
+ d inanna 
+ unu ki-ga 
+ maš2-e   i3-pa3   AUCT1,3943; 
+ 
+ maš2-e   i3-pa3   AUCT3,4995; 
+ 
+ mu 
+ lugal   pa3   JANES09,24104. 
+ ELA/Ur III/unknown   
+ mu 
+ en 
+ d nanna 
+ maš2-e   i3-pa3   Torun "3"1. 
+ ELA/Early Old Babylonian/unknown   
+ mu 
+ egi2-zi-[an-na] 
+ maš2-e   [i3]-pa3   BIN09,0014; 
+ 
+ mu 
+ egi2-zi-an-[na] 
+ maš2-e   i3-pa3   BIN09,0025; 
+ 
+ mu 
+ egi2-zi-an-na 
+ maš2-e   in-pa3   BIN09,0114. 
+ ELA/Old Babylonian/Nippur   
+ mu 
+ lugal-la 
+ teš2-bi   in-pad2-de3-eš   OB Contracts. pl. D7 no.2918'; 
+ 
+ [mu] 
+ lugal-bi 
+ teš2-bi   in-pa3-de3-eš   SAOC44,7919; 
+ 
+ mu 
+ lugal-la 
+ teš2-bi   in-pa3-de3-eš   SAOC44,7422; 
+ 
+ mu # 
+ [lugal] 
+ teš2-bi   in-[pa3-de3-eš]   CBS022309'; 
+ 
+ mu 
+ lugal 
+ teš2-bi   in-pa3-de3-eš   OB Contracts, pl. C4 no.1822. 
+ unknown/ED IIIb/Girsu1(eše3 @c)3(iku) 
+ GAN2 
+ kun 
+ d en-lil2-le   pa3-da   DP573 o ii5; 
+ 
+ ša3 #   pa3 #-da #   AoF18,1886. 
+ unknown/ED IIIb/Lagash   
+ i7-bi 
+ an-ne2   pa3-da   BiMes03,26 vi4; 
+ 
+ [...]   pa3 !?   BiMes03,31 r ii4. 
+ unknown/ED IIIb/Nippur   pa3-da   OSP1,109 o i3. 
+ unknown/ED IIIb/unknown1(aš@45) 
+ lu2 #   pa3 #   BIN08,107 o ii1; 
+ pa3-da   ITT5,092091; 
+ pa3-da   ITT5,092093. 
+ unknown/Old Akkadian/Adab   pa3 #-da   OIP014,1372; 
+ 
+ iz-zi 
+ a 
+ x 
+ [x 
+ x]   pa3 #-da   OIP014,1711. 
+ unknown/Old Akkadian/Girsu   
+ mu 
+ nin-dingir 
+ d iškur 
+ maš-e   ba-pa3-da   RTC2572; 
+ 
+ lu2 #   pa3-da   ITT5,092201. 
+ unknown/Old Akkadian/Nippur2(u) 
+ la21(aš@c)   pa3 !?-[da ? 
+ x]   OSP1,031 o ii1. 
+ unknown/Old Akkadian/unknown   pa3-da 
+ sipa   Mes09, p.100ff, no.25; 
+ pa3 #-da 
+ sipa   Mes09, p.100ff, no.32; 
+ pa3-[da] 
+ sipa   Mes09, p.100ff, no.415; 
+ mu #-pa3-da   PBS09,02513. 
+ unknown/Ur III/Drehem   
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   Aleppo0822; 
+ 
+ mu 
+ us2-sa 
+ en 
+ d nanna 
+ maš-e   i3-pa3   Aleppo1391; 
+ 
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   Aleppo1992. 
+ unknown/Ur III/Girsu   
+ mu 
+ en 
+ d inanna 
+ unu ki 
+ maš2-e   i3-pa3 #   ASJ10,257028; 
+ 
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   ASJ15,12595 r iii8'; 
+ 
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   ASJ16,112213. 
+ unknown/Ur III/Lagash   
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   Rochester2194. 
+ unknown/Ur III/Nippur   
+ mu 
+ lugal-bi   al-pa3 #   BBVO11,284,6N-T4364; 
+ 
+ mu 
+ en 
+ d inanna 
+ unu ki 
+ maš2-e   ib2-pa3   BBVO11,297,6N-T7084; 
+ ul-pa3 
+ zi-re2-dam   BBVO11,298,6N-T7733; 
+ 
+ mu 
+ en 
+ d inanna 
+ unu ki-ga 
+ maš2   i3-pa3   SANTAG7,1323. 
+ unknown/Ur III/Umma   
+ mu 
+ en 
+ d inanna 
+ maš2-e   i3-pa3   ASJ14,101311; 
+ 
+ mu 
+ en 
+ d inanna 
+ unu ki 
+ [maš2-e]   i3-pa3   ASJ19,1646410; 
+ 
+ mu 
+ en 
+ d nanna 
+ maš2-e   i3-pa3   DoCu2238. 
+ unknown/Ur III/Ur   
+ mu 
+ en 
+ d nanna 
+ maš-e   i3-pa3   SAT2,03293; 
+ 
+ mu   [pa3]-da   SANTAG7,0664. 
+ unknown/Ur III/unclear   
+ mu 
+ en 
+ d inanna 
+ unu ki-ga 
+ maš2-e   i3-pa3   OMRO66,33039; 
+ 
+ maš-e   i3-pa3   SNAT1644; 
+ 
+ mu 
+ en-d inanna 
+ maš2-e   i3-pa3   SANTAG7,0264. 
+ unknown/Old Babylonian/Nippur   
+ mu 
+ lugal 
+ teš2-bi   in-pa3-de3-eš   SAOC44,3127; 
+ 
+ dub   ul-pa3   SAOC44,419'. 
+ unknown/Old Babylonian/unknown   
+ mu 
+ lugal-[la 
+ teš2-bi   in-pa3]   SAOC44,863'; 
+ in-pa3 #-de3 #-[eš]   SAOC44,867'; 
+ 
+ mu 
+ en-d inanna 
+ d iš-bi-er3-ra 
+ maš2-e   i3-pa3   TLB5,0210. 
+ unknown/unknown/Nippur   
+ mu # 
+ lugal 
+ teš2-bi   in-pa3-de3-eš   N096818. 
+ See: abula PN pad; nar pad; niĝ mu pad; pu pad; udu mu pad.2.  to name, nominate Akk.  atû  "to find, discover" ;  nabû  "to name" . [2002]  J. Hoyrup, Lengths Widths Surfaces45. [1981]  P. Steinkeller, ZA7127-28. See ETCSL:  pad3 =to find . pag  [ENCLOSE] (2 instances) pag  [ENCLOSE]  (2x: Old Babylonian, Middle Babylonian)  wr.  pag  "to enclose, confine, cage (a bird)" Akk.  esēru ;  šutanuhu [1] 
+cuneiform HU pag +-0 (2x/100% ) .350030002500200015001000 (no date) [1]112 distinct forms attested; click to view forms table.1.  to enclose, confine, cage (a bird)  (2x/100%) ~  unknown/Middle Babylonian/Ugarit   [[pag]] =  
+ pa-ag  =  
+ HU  =  
+ e-se-ru #   MSL14,143-14422 ii19'. 
+ Akk.  esēru  "to enclose, confine" ;  šutanuhu  "to enclose" . See ETCSL:  pag=to enclose . pag  [LEAVE] pag  [LEAVE]  wr.  pag  "to leave behind" Akk.  ezēbu [1] 
+cuneiform HU pag1.  to leave behind Akk.  ezēbu  "to leave, leave behind" . pagdaru  [UNMNG] pagdaru  [UNMNG]  wr.  pa-ag-da-ru  "?" Akk.  pagdarû [1] 
+cuneiform PA.AK.DA.RU pa-ag-da-ru1.  ? Akk.  pagdarû  "mng. unkn." . pagdu  [EXPERT] (1 instances) pagdu  [EXPERT]  (1x: Old Babylonian)  wr.  pag-du3  "expert" [1] 
+cuneiform HU.KAK pag-du3 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  expert  (1x/100%) ~  See ETCSL:  pag-du3 =expert . pagra  [DISASTER] pagra  [DISASTER]  wr.  pagra3  "disaster" Akk.  karāšu [1] 
+cuneiform |LU₂×4| pagra31.  disaster Akk.  karāšu  "catastrophe, disaster" . paĝ  [BREATHE] (13 instances) paĝ  [BREATHE]  (13x: Ur III, Old Babylonian)  wr.  pa-aĝ2 ;  pa-an  "breathing, breath; to breathe" Akk.  napīšu See  zi paĝ[breathe] . [1] 
+cuneiform PA.|NINDA₂×NE| pa-aĝ2  (pa-ag2 ) [2] 
+cuneiform PA.AN pa-an +-0 (13x/100% ) .350030002500200015001000 (no date) [1]24 [2]37 distinct forms attested; click to view forms table.1.  breathing, breath  (13x/100%) ~  LEX/Old Babylonian/Nippur   pa-an   OB Nippur Lu172a. 
+ ELA/Ur III/Umma   
+ [...]   pa-ag2 
+ ba-an-ze2   AnOr07,3423; 
+ pa-ag2 
+ i3-ze2-e   JNES63,3 o i6. 
+ ~ kiri[nose] LEX/Old Babylonian/unknown   pa-aĝ2 
+ kir4-ĝu10   Ugumu84.2.  to breathe Akk.  napīšu  "breath(ing)" . [1959]  E. Gordon, SP233,398. See ETCSL:  pa-aĝ2 =nostril? ;  pa-aĝ2 =to puff . paĝta  [BREATH] (1 instances) paĝta  [BREATH]  (1x: Old Babylonian)  wr.  pa-aĝ2-ta  "breath" Akk.  napīšu [1] 
+cuneiform PA.|NINDA₂×NE|.TA pa-aĝ2-ta +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  breath  (1x/100%) ~ kiri[nose] LEX/Old Babylonian/unknown   pa-aĝ2-ta 
+ kir4-ĝu10   Ugumu83. 
+ Akk.  napīšu  "breath(ing)" . pah  [LEG] pah  [LEG]  wr.  pah  "leg of an animal, haunch, lap" Akk.  purīdu [1] 
+cuneiform LUL pah1.  leg of an animal, haunch, lap Akk.  purīdu  "leg" . pahal  [LEG] (2 instances) pahal  [LEG]  (2x: Old Babylonian)  wr.  pa4-hal  "leg" [1] 
+cuneiform PAP.HAL pa4-hal +-la (1x/50% ) ; -0 (1x/50% ) .350030002500200015001000 (no date) [1]22 distinct forms attested; click to view forms table.1.  leg  (2x/100%) ~  See ETCSL:  pap-hal=leg . pahar  [GATHERING] (2 instances) pahar  [GATHERING]  (2x: Old Babylonian)  wr.  pa-har  "gathering" [1] 
+cuneiform PA.|HI×AŠ₂| pa-har +-0 (2x/100% ) .350030002500200015001000 (no date) [1]12 distinct forms attested; click to view forms table.1.  gathering  (2x/100%) ~  See ETCSL:  pa-har=gathering . PAHAR  [WEAPON] (1 instances) PAHAR  [WEAPON]  (1x: Old Babylonian)  wr.  PA.HAR  "type of weapon" [1] 
+cuneiform PA.|HI×AŠ₂| PA.HAR +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  type of weapon  (1x/100%) ~  See ETCSL:  PA.HAR=type of weapon . PAKAK  [ARROWHEAD] PAKAK  [ARROWHEAD]  wr.  PA.KAK  "arrowhead" [1] 
+cuneiform PA.KAK PA.KAK1.  arrowhead pakud  [~TREE] (118 instances) pakud  [~TREE]  (118x: ED IIIb, Old Akkadian, Ur III)  wr.  pa-kud  "stave; a trimmed part of a tree" Akk.  pakuttu [1] 
+cuneiform PA.TAR pa-kud +-0 (118x/100% ) .350030002500200015001000 (no date) [1]14 distinct forms attested; click to view forms table.1.  stave  (114x/97%) ~ ELA/ED IIIb/Girsu3(aš@c)   pa-ku5 
+ geš-ur3 
+ geš til-lu-ub2   VS14,107 o i2;3(aš@c)   pa-ku5 
+ gag 
+ maš   VS14,157 o i2;1(u@c)6(aš@c)   pa-ku5 
+ geš ti 
+ mar   VS14,157 o i3. 
+ ELA/Old Akkadian/Girsu1(aš@c)   pa-ku5 
+ geš asal2   ITT5,066664; 
+ 
+ [x]3(aš@c)   pa-ku5 
+ geš hašhur   ITT5,066872. 
+ ELA/Ur III/Umma   pa-ku5 
+ geš asal x ( A . TU . NIR ) 
+ ga6-ga2   AnOr07,3145;1(geš2 )3(u) 
+ sa   pa-ku5 
+ gu-nigin2-ba3(diš)-ta   ASJ12,037062;1(geš2 )3(u) 
+ sa   pa-ku5   ASJ12,037062. 
+ unknown/ED IIIb/Girsu1(u@c) 
+ la21(diš)   pa-ku5 
+ šu 
+ bad 
+ e3 
+ gi-muš   DP413 o ii7;7(aš@c)   pa-ku5 
+ geš u2-bil3-la 
+ tur-tur   DP413 o ii8;1(aš@c)   pa-ku5 
+ erin2 
+ mar   DP413 o ii2. 
+ unknown/ED IIIb/unknown3(aš@c)   pa-ku5 
+ geš-ur3 
+ ga2-geš-il2-la   TSA26 o i2;2(u@c) 
+ la23(diš)   pa-ku5 
+ geš-ur3 
+ za3-gu2-la2   TSA26 o ii1;2(geš2 @c) 
+ la28(aš@c) !?   pa-ku5 
+ geš-ur3 
+ e2-gi-sig-ga   TSA26 o iii1. 
+ unknown/Ur III/Drehem   pa-ku5 
+ gi 
+ ga6-ga2   Aleppo1823. 
+ unknown/Ur III/Umma   pa-ku5 
+ gi 
+ ga6-ga2   ArOr62,236 I8661;1/2(aš) 
+ gu2   pa-ku5 
+ geš asal x ( A . TU . NIR )   Hirose3226;1/2(diš) 
+ [gu2   pa-ku5] 
+ geš asal x ( A . TU . NIR ) !? 
+ [...] 
+ ku6-igi-gun3   Hirose3872.2.  a trimmed part of a tree  (4x/3%) ~  LEX/Old Babylonian/Nippur   ĝiš pa-kud   OB Nippur Ura1141. 
+ ~ ĝešnimbar[palm] LEX/Old Babylonian/Nippur   ĝiš pa-kud 
+ nimbar   OB Nippur Ura187. 
+ ~ ug[die] LEX/Old Babylonian/Nippur   ĝiš pa-kud 
+ ug5-ga #   OB Nippur Ura1655a. 
+ See: usuh pakud. Akk.  pakuttu  "wooden stave" . pala  [GARMENT] (19 instances) pala  [GARMENT]  (19x: Old Babylonian)  wr.  tug2 pala3 ;  tug2 pala ;  tug2 pala2  "a garment" Akk.  tēdīq bēli ;  tēdīq bēlti ;  tēdīq šarri [1] 
+cuneiform TUG₂.|NAM.SAL.TUG₂| tug2 pala3 [2] 
+cuneiform TUG₂.|NAM.LUGAL| tug2 pala [3] 
+cuneiform TUG₂.|NAM.EN| tug2 pala2 +-0 (19x/100% ) .350030002500200015001000 (no date) [1]14 [2]1 [3]7 distinct forms attested; click to view forms table.1.  a garment  (19x/100%) ~  LEX/Old Babylonian/Nippur   tug2 pala( NAM .[LUGAL] )   OB Nippur Ura4 Seg.6,277'; 
+ tug2 pala2 ( NAM . EN )   OB Nippur Ura4 Seg.6,278'; 
+ tug2 pala3 ( NAM .[NIN] )   OB Nippur Ura4 Seg.6,279'. 
+ LEX/Old Babylonian/unknown   [[tug2-pala3]] =   =  
+ [TUG2]-NAM # . NIN  =  
+ te #-[di-iq] 
+ NIN !?   OB Diri "Oxford"353. 
+ See: tug pala. Akk.  tēdīq bēli ;  tēdīq bēlti ;  tēdīq šarri  "king's costume" . [1972]  H. Waetzoldt, UNT XXI-XXII. See ETCSL:  pala3 =type of garment . palil  [FOREMOST] (28 instances) palil  [FOREMOST]  (28x: ED IIIb, Old Babylonian)  wr.  palil ;  palil2  "first and foremost, pre-eminent" Akk.  ašarēdu [1] 
+cuneiform |IGI.DU| palil [2] 
+cuneiform |IGI.EŠ₂.DU.ERIN₂| palil2 +-0 (28x/100% ) .350030002500200015001000 (no date) [1]127 [2]6 distinct forms attested; click to view forms table.1.  first and foremost, pre-eminent  (28x/100%) ~  LEX/Old Babylonian/Nippur   [[palil]] =  
+ pa-li-lum  =  
+ IGI . ŠE3 . DU . ERIN2  =  
+ il-la-at 
+ şa-bi-im   OB Diri Nippur127; 
+ [[palil]] =   =   =  
+ pi #-qi2-it-ti 
+ şa-bi-im #   OB Diri Nippur127a; 
+ [[palil]] =   =   =  
+ a-hu-um 
+ ra-bu-um   OB Diri Nippur128. 
+ LEX/Old Babylonian/unknown   [[palil]] =   =   =  
+ a-ša-[re-du-um]   OB Diri "Oxford"103. 
+ Akk.  ašarēdu  "first and foremost, pre-eminent" . See ETCSL:  palil=foremost . pamul  [SPREADING] (2 instances) pamul  [SPREADING]  (2x: Old Babylonian)  wr.  pa-mul  "spreading branch" [1] 
+cuneiform PA.|ANx3| pa-mul +-0 (2x/100% ) .350030002500200015001000 (no date) [1]1 distinct form attested; click to view forms table.1.  spreading branch  (2x/100%) ~  See ETCSL:  pa-mul=spreading branch . pamušenak  [WING] (1 instances) pamušenak  [WING]  (1x: Old Babylonian)  wr.  pa-mušen-na  "wing" Akk.  kappu [1] 
+cuneiform PA.HU.NA pa-mušen-na +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  wing  (1x/100%) ~  LEX/Old Babylonian/Nippur   pa-mušen-na #   OB Nippur Lu193. 
+ Akk.  kappu . pana  [BOW] (63 instances) pana  [BOW]  (63x: ED IIIb, Old Akkadian, Lagash II, Ur III, Early Old Babylonian, Old Babylonian)  wr.  ĝeš pana ;  ba-na ;  ĝeš pana x (|ŠE.NUN&NUN|)  "bow; a geometric figure" Akk.  qaštu [1] 
+cuneiform GIŠ.PAN ĝeš pana  ( geš pana) [2] 
+cuneiform BA.NA ba-na [3] 
+cuneiform GIŠ.|ŠE.NUN&NUN| ĝeš pana x (|ŠE.NUN&NUN|)  ( geš pana x (|ŠE.NUN&NUN|)) +-0 (63x/100% ) .350030002500200015001000 (no date) [1]142916 [2]2 [3]8 distinct forms attested; click to view forms table.1.  bow  (63x/100%) ~  LEX/Old Babylonian/Nippur   ĝiš pan   OB Nippur Ura1555; 
+ [[giš pana]] =  
+ pa-na  =  
+ GIŠ-PAN  =  
+ qa2-aš-tu   OB Diri Nippur197. 
+ ELA/ED IIIb/Girsu6(aš@c) 
+ geš še-du10   [geš] ban   VS14,057 o ii2. 
+ ELA/Old Akkadian/Girsu   
+ [x] 
+ kuš du10-gan   geš pan   RTC2283. 
+ ELA/Old Akkadian/Lagash   
+ [x]   geš ban   BM0157371;2(aš@c)   geš ban   BM0161851;1(aš@c)   geš ban   BM0267601;1(aš@c)   geš ban 
+ su 
+ geš 
+ sar #   BM0267604;2(aš@c)   geš ban   BM0267605. 
+ ELA/Old Akkadian/Nippur1(aš@c)   ba-na   OSP1,047 o iii3. 
+ ELA/Lagash II/Girsu1(diš)   geš ban   MVN07,4294. 
+ ELA/Ur III/Drehem   
+ a-ha-an-si-bu   geš pan   JCS10,031113;1(diš)   geš pan 
+ elam   TCL2,54886;2(gešʾu)   geš pan   TIM06,341. 
+ ELA/Ur III/Umma   
+ he2-ti   ba-na-a   BE03/1,084 r i6;2(diš)   geš ban   MVN22,19921;1(diš)   geš ban   MVN22,19924. 
+ ELA/Ur III/Ur1(u)8(diš) 
+ tug2 
+ še-er-ti   geš pan   UET3,07891;1(u) 
+ la21(diš) 
+ tug2 
+ še-er-ti   geš pan   UET3,07894; 
+ 
+ [... 
+ še]-er-ti   geš pan   UET3,07897. 
+ ELA/Early Old Babylonian/unknown   
+ mu   geš pan-še3   BIN09,1212; 
+ 
+ mu   geš pan-še3   BIN09,1222; 
+ geš pan 
+ du8-de3   BIN09,1242. 
+ unknown/ED IIIb/Girsu4(ban2 @c)   geš ban   DP112 o ix7;6(aš@c) 
+ geš še-du10   geš ban   DP418 r i3;3(aš@c) 
+ geš še-du10   geš ban   DP419 o i1. 
+ unknown/ED IIIb/unknown4(ban2 @c)   geš ban   TSA11 o viii16;8(aš@c) 
+ geš še-du10   geš ban   TSA29 o i3. 
+ unknown/Old Akkadian/Girsu1(aš@c)   geš pan   RTC2201;3(u@c)   geš pan   RTC2245. 
+ unknown/Ur III/Umma1(u)6(diš)   geš ban   MVN16,07922;2(gešʾu)1(geš2 )3(u)2(diš) 
+ kak   geš ban   MVN16,07923;3(u)6(diš) 
+ sa   geš ban   MVN16,07926. 
+ unknown/Ur III/Ur1(diš)   geš ban 
+ uruda 
+ gar-ra   SAT2,00391'; 
+ 
+ a2-an   geš ban-na 
+ siki-ba-še3   SAT3,20092; 
+ 
+ giri3 
+ ur-zikum 
+ lu2 
+ na4   geš ban-na   SAT3,20093.2.  a geometric figure Akk.  qaštu  "bow" . [2003]  M. Civil, JCS5550-51;53 n20. [1999]  E. Robson, Mesopotamian Mathematics45-48. [1990]  A. Kilmer, Artistic Environments85. See ETCSL:  pan=bow . panadim  [BOW MAKER] (9 instances) panadim  [BOW MAKER]  (9x: Ur III, Early Old Babylonian, Old Babylonian)  wr.  ĝeš pana-dim2 ;  ba-na-dim2 ;  pana-dim2-dim2 ;  pana-dim2  "bow maker" [1] 
+cuneiform GIŠ.PAN.DIM₂ ĝeš pana-dim2  ( geš pana-dim2 ) [2] 
+cuneiform BA.NA.DIM₂ ba-na-dim2 [3] 
+cuneiform PAN.DIM₂.DIM₂ pana-dim2-dim2 [4] 
+cuneiform PAN.DIM₂ pana-dim2 +-0 (9x/100% ) .350030002500200015001000 (no date) [1]53 [2]1 [3] [4]2 distinct forms attested; click to view forms table.1.  bow maker  (9x/100%) ~  ELA/Old Akkadian/Umma5(aš@c) 
+ ninda   ba-na-dim2   Nik2,04411. 
+ ELA/Ur III/Ur   
+ ib-ni-d iškur   geš ban !-dim2   UET3,148618; 
+ 
+ ib-ni-d iškur   geš ban !-dim2   UET3,149020; 
+ 
+ ib-ni-d iškur   geš ban-dim2   UET3,149120; 
+ 
+ [x] 
+ guruš   geš ban-dim2 
+ [...]   UET3,15027; 
+ geš pan-dim2   UET9,0749 x. 
+ ELA/Early Old Babylonian/unknown   
+ kal-ba-ba   geš pan-[dim2]   BIN09,1244; 
+ geš pan-dim2   BIN09,1242. 
+ [2003]  M. Civil, JCS5551 n8. [1998]  W. Romer, Studies Borger312. pap  [RELATION] (86 instances) pap  [RELATION]  (86x: Old Akkadian, Ur III, Old Babylonian)  wr.  pap  "first and foremost, pre-eminent; father; male, virile; brother" Akk.  abu ;  ahu ;  ašarēdu ;  zikaru [1] 
+cuneiform PAP pap +-0 (86x/100% ) .350030002500200015001000 (no date) [1]73116 distinct forms attested; click to view forms table.1.  first and foremost, pre-eminent  (86x/100%) ~  LEX/Old Babylonian/Nippur   [[pap]] =  
+ pa-ap  =  
+ PAP  =  
+ ra-bu-u2   OB Aa81:1; 
+ [[pap]] =   =   =  
+ a-ša-re-du   OB Aa81:2; 
+ [[pap]] =   =   =  
+ a-bu-um   OB Aa81:5. 
+ ELA/Old Akkadian/Adab2(aš@c) 
+ me-me 
+ ama 
+ en-an-na-tum2 #   pap   Adab08422;1(barig@c) 
+ lu2 
+ e2-dam   pap   Adab08423;1(aš@c) 
+ lu2-eš2-gid2   pap   Adab08426;1(aš@c) 
+ lugal-e2   pap   Adab08427. 
+ ELA/Old Akkadian/Nippur   pap !   OSP2,050 r ii9. 
+ ELA/Old Akkadian/unclear1(diš) 
+ me 
+ gur8   pap6(diš) ?   Athene19980924n2. 
+ ELA/Old Akkadian/unknown1(barig@c)   pap   MAD4,1549. 
+ ELA/Ur III/Girsu   
+ [x] 
+ i7   pa4 
+ sikil # 
+ u3 
+ ur-d utu   DAS341 r ii1; 
+ [pa4 
+ ba]-al-la   ITT5,06864 o i5; 
+ 
+ a-ša3-bi1(bur3 )5(iku)1/2(iku) 
+ GAN2 * 
+ ša3 *-ba1(iku) 
+ GAN2   pa4 *   TMH NF1-2,2516. 
+ ELA/Ur III/Nippur   
+ ŠU + LAGAB2(u)3(diš)1/3(diš) 
+ sar   pa4 
+ a-da-ga   NATN1376. 
+ ELA/Ur III/Umma   pa4 
+ a-da-ga 
+ a-ša3 
+ ka-ma-ri2 ki   AnOr01,0792; 
+ pa4 
+ a-da-ga   AnOr07,1992; 
+ pa4 
+ a-da-ga 
+ ba-al-la   AnOr07,2312. 
+ ELA/Ur III/Ur   
+ geš kiri6   pa4 
+ dingir-ne-še3   UET3,1109 o iii6. 
+ unknown/Old Babylonian/unknown   [[pap]] =   =  
+ PAP  =  
+ ra-bu #-[u2]   MSL09,124-137 ii133; 
+ [[pap]] =   =   =  
+ a #-hu #-[um]   MSL09,124-137 ii134. 
+ unknown/Old Akkadian/unknown1(u) 
+ ma-na 
+ nig2-sahar-ra   pap-pap ? 
+ lu2 
+ pap-hi-bar-du8-a-ke4 
+ e-la2   CHEU0539;3(burʾu@c)   pap 
+ GAN2   CST0183;1(burʾu@c)2(bur3 @c)   pap 
+ GAN2   CST0185. 
+ unknown/Ur III/Girsu1(u)4(diš) 
+ sar   pa4 
+ ba-al   ASJ11,130606. 
+ unknown/Ur III/Umma   pa4 
+ a-da-ga 
+ ba-al   Georgica2.1010; 
+ pa4 
+ geš ma-nu 
+ gub-ba   MVN16,08014; 
+ 
+ u3   pa4 
+ a-da-ga 
+ ba-al-la   MVN16,13803.2.  father3.  male, virile4.  brother Akk.  abu  "father" ;  ahu  "brother" ;  ašarēdu  "first and foremost, pre-eminent" ;  zikaru  "male, virile" . See ETCSL:  pap=older brother . PAP  [UNIT] (18 instances) PAP  [UNIT]  (18x: ED IIIb)  wr.  PAP  "a unit of capacity" [1] 
+cuneiform PAP PAP +-0 (18x/100% ) .350030002500200015001000 (no date) [1]15 distinct forms attested; click to view forms table.1.  a unit of capacity  (18x/100%) ~  ELA/ED IIIb/Girsu   
+ ganun   PAP-PAP-ta   VS14,049 r i1; 
+ 
+ ganun   PAP-PAP-ta   VS14,053 r i3; 
+ PAP-PAP   VS14,055 o i6; 
+ PAP-PAP   VS14,179 o i11. 
+ ELA/ED IIIb/unknown   PAP-PAP-kam   Nik1,144 o iii1; 
+ 
+ ganun   PAP-PAP-ka   Nik1,277 r i1. 
+ unknown/ED IIIb/Girsu   PAP-PAP   DP089 r ii2; 
+ 
+ ganun   PAP-PAP-ka   DP463 o ii1; 
+ 
+ ganun   PAP-PAP-ka   DP464 o i4. 
+ [1992]  P. Steinkeller and J.N. Postgate, LAT15. PAP.zubud  [FISH] (1 instances) PAP.zubud  [FISH]  (1x: ED IIIa)  wr.  PAP-zubud ku6  "a fish" [1] 
+cuneiform PAP.HA@t.HA PAP-zubud ku6 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a fish  (1x/100%) ~  LEX/ED IIIa/unknown   PAP-zubud ku6   Early Dynastic Fish7. 
+ papah  [CELLA] (7 instances) papah  [CELLA]  (7x: Old Babylonian)  wr.  pa-pah  "cella" Akk.  papāhu [1] 
+cuneiform PA.LUL pa-pah +-0 (7x/100% ) .350030002500200015001000 (no date) [1]53 distinct forms attested; click to view forms table.1.  cella  (7x/100%) ~  unknown/Old Babylonian/unknown1(diš) 
+ geš ig 
+ dib-ba   e2-pa-pah 
+ gub-ba   OECT08,176. 
+ See: e papah; e šag papah; ig papah. Akk.  papāhu  "cella, shrine" . See ETCSL:  pa-pah=shrine . papal  [BUD] (4 instances) papal  [BUD]  (4x: Old Babylonian)  wr.  pa-pa-al  "bud" [1] 
+cuneiform PA.PA.AL pa-pa-al +-0 (4x/100% ) .350030002500200015001000 (no date) [1]23 distinct forms attested; click to view forms table.1.  bud  (4x/100%) ~  LEX/Old Babylonian/Nippur   pa-pa-al   OB Nippur Lu200. 
+ See ETCSL:  pa-pa-al=shoot . PAPGAR  [OFFICIAL] (1 instances) PAPGAR  [OFFICIAL]  (1x: Ebla)  wr.  PAP-GAR  "an official" [1] 
+cuneiform PAP.GAR PAP-GAR +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  an official  (1x/100%) ~  unknown/Ebla/Ebla   PAP-GAR   MEE03,043 o vi5b. 
+ paphal  [SECRET] paphal  [SECRET]  wr.  pap-hal  "secret; treasure; narrow place; dire straits" Akk.  nişirtu ;  pušqu [1] 
+cuneiform PAP.HAL pap-hal1.  secret2.  treasure3.  narrow place4.  dire straits Akk.  nişirtu  "treasure; secret; hidden, secluded place" ;  pušqu  "narrowness; hardship, dire straits" . par  [CANAL] (130 instances) par  [CANAL]  (130x: ED IIIa, ED IIIb, Old Akkadian, Ur III, Old Babylonian)  wr.  pa5 ;  pa6  "(small) canal, irrigation ditch" Akk.  atappu ;  palgu ;  pattu [1] 
+cuneiform |PAP.E| pa5 [2] 
+cuneiform |PAP.IŠ| pa6 +-0 (117x/90% ) ; -re (9x/7% ) ; -ra (4x/3% ) .350030002500200015001000 (no date) [1]383652 [2]12 distinct forms attested; click to view forms table.1.  (small) canal, irrigation ditch  (130x/100%) ~  LEX/ED IIIa/unknown   pa5   ED Word List C = "Tribute"77; 
+ pa5 
+ ZU & ZU . SAR   ED Word List C = "Tribute"78. 
+ LEX/Old Babylonian/Nippur   pa5   OB Nippur Ura5379; 
+ [[pa5]] =  
+ [pa]-a  =  
+ PAP . E  =  
+ pa-al-gu-um   OB Aa83:1; 
+ [[pa5]] =   =   =  
+ pa-at-tum   OB Aa83:2. 
+ LEX/Old Babylonian/unknown   
+ lu2   pa5 
+ ba-al  =  
+ [he-ri 
+ pa-al-gi-im]   OB Lu-Azlag A219. 
+ ELA/ED IIIb/Girsu   pa5 
+ x 
+ x   AoF22,110f. o vi8. 
+ ELA/Old Akkadian/Nippur1(eše3 @c)2(iku@c) 
+ GAN2   pa5 
+ eš2-gar3   TMH5,1476. 
+ ELA/Old Akkadian/unknown2(iku@c) 
+ GAN2 
+ da   pa5 
+ dub-sar-ka   MAD4,1511; 
+ pa5 
+ dub-sar-ka   MAD4,152 o i2. 
+ ELA/Ur III/Drehem1(diš) 
+ sila4 
+ d geštin-an-na   pa5 
+ nin-nun-na   SACT1,17214. 
+ ELA/Ur III/Girsu   
+ [...] 
+ GAN2   pa5   ASJ03,05403 i4; 
+ pa5 
+ ba-al-la 
+ u3 
+ a-ša3 
+ a 
+ du11-ga   ASJ13,22269 o iii5; 
+ pa5 
+ ba-al-la   ASJ13,22269 o v14. 
+ ELA/Ur III/Umma   pa5 
+ a-da-ga   MVN14,03682; 
+ 
+ im-du8-a 
+ ak 
+ u3   pa5 
+ ba-al-la   NATN061 l.e. i1; 
+ pa5 
+ a-da-ga 
+ ba-al-la   Ontario2,6629. 
+ ELA/Ur III/Ur1(gešʾu)3(u)7(aš)2(barig)   pa5 
+ du6-mun   UET9,1072 o ii9. 
+ unknown/ED IIIb/Girsu   pa5-bi1(diš)-am6   DP387 r i2; 
+ pa5-bi1(diš)-am6   DP387 o i3; 
+ pa5-bi1(diš)-am6   DP419 o i3. 
+ unknown/ED IIIb/Isin   
+ gu2   pa5 
+ šuku   BIN08,034 r i3; 
+ 
+ gu2   pa5 
+ šuku   MVN03,013 o i2; 
+ 
+ gu2   pa5 
+ šuku   MVN03,013 o iii8; 
+ 
+ gu2   pa5 
+ šuku   MVN03,013 o ii3; 
+ pa5 
+ šuku   MVN03,053 o i2. 
+ unknown/ED IIIb/Lagash   
+ i7-bi   pa5 
+ AN 
+ ŠE 
+ NUN 
+ ŠE3 
+ BU 
+ KAŠ4   BiMes03,26 ii8. 
+ unknown/Old Akkadian/Girsu   pa5 
+ geš šinig   RTC2581; 
+ 
+ id2   pa5 
+ mu-silim   RTC2582. 
+ unknown/Ur III/Drehem   pa5 
+ ba-al-la   Aleppo2283. 
+ unknown/Ur III/Girsu   
+ u3   pa5 
+ [ba-al-la]   ASJ20,099,2 r i3; 
+ 
+ u3   [pa5 
+ ba-al-la]   ASJ20,099,2 r i22; 
+ 
+ u3   pa5 
+ ba-al-la   ASJ20,099,2 r ii16; 
+ 
+ u3   pa5 
+ ba-al-[la]   ASJ20,099,2 o ii2; 
+ 
+ [u3   pa5 
+ ba-al-la ?]   ASJ20,099,2 o iii3. 
+ ~ a[water] bala[turn] LEX/Old Babylonian/Nippur   pa5 
+ a 
+ bal   OB Nippur Ura5382. 
+ ~ a[water] barag[dais] LEX/Old Babylonian/Nippur   pa5 
+ a 
+ barag   OB Nippur Ura5384. 
+ ~ a[water] dug[speak] LEX/Old Babylonian/Nippur   pa5 
+ a 
+ dug4-ga   OB Nippur Ura5383. 
+ ~ a[water] la[stretch] LEX/Old Babylonian/Nippur   pa5 
+ a 
+ la2   OB Nippur Ura5386. 
+ ~ bala[turn] LEX/Old Babylonian/Nippur   pa5 
+ bal   Nigga398. 
+ ~ illu[water] LEX/Old Babylonian/Nippur   pa5 
+ illu( A . KAL )   OB Nippur Ura5385. 
+ ~ mada[land] LEX/Old Babylonian/Nippur   pa5 
+ ma-da   OB Nippur Ura5380. 
+ ~ niĝin[encircle] LEX/Old Babylonian/Nippur   pa5 
+ niĝin2 #   OB Nippur Lu723. 
+ ~ nukirik[gardener] LEX/Old Babylonian/Nippur   pa5 
+ nu-ĝiš kiri6   OB Nippur Ura5381. 
+ See: ašag par. Akk.  atappu  "(small) canal, ditch" ;  palgu  "ditch, canal" ;  pattu  "canal" . [1994]  M. Civil, Farmer's Instructions109-121. See ETCSL:  pa5 =canal . paršita  [CHANNEL] (2 instances) paršita  [CHANNEL]  (2x: Old Babylonian)  wr.  pa5-šita3  "water channel" Akk.  rāţu [1] 
+cuneiform |PAP.E|.SUD₂ pa5-šita3 +-0 (2x/100% ) .350030002500200015001000 (no date) [1]12 distinct forms attested; click to view forms table.1.  water channel  (2x/100%) ~  LEX/Old Babylonian/Nippur   [[pap-<(šita3 )>]] =   =   =  
+ ra-a-ţu3   OB Aa81:4. 
+ Akk.  rāţu  "water-channel, pipe" . See ETCSL:  pa5-šita3 =irrigation channel . pašeš  [FOREMOST] (6 instances) pašeš  [FOREMOST]  (6x: Old Babylonian)  wr.  pa4-šeš ;  pa5-šeš  "foremost" Akk.  ašarēdu [1] 
+cuneiform PAP.ŠEŠ pa4-šeš [2] 
+cuneiform |PAP.E|.ŠEŠ pa5-šeš +-0 (6x/100% ) .350030002500200015001000 (no date) [1]5 [2]13 distinct forms attested; click to view forms table.1.  foremost  (6x/100%) ~  LEX/Old Babylonian/Nippur   pa4-šeš   OB Nippur Lu348. 
+ Akk.  ašarēdu  "first and foremost, pre-eminent" . [1976]  A. Sjoberg, AOAT25424. See ETCSL:  pap-šeš=foremost . pašeš  [PRIEST] (7 instances) pašeš  [PRIEST]  (7x: ED IIIa, ED IIIb, Old Babylonian)  wr.  pa4-šeš  "a priest" Akk.  pašīšu [1] 
+cuneiform PAP.ŠEŠ pa4-šeš +-0 (7x/100% ) .350030002500200015001000 (no date) [1]333 distinct forms attested; click to view forms table.1.  a priest  (7x/100%) ~  LEX/ED IIIa/Fara   pa4-šeš   SF070 o ii8. 
+ LEX/ED IIIb/unknown   pa4-šeš   Early Dynastic Lu E78. 
+ See: e pašeš. Akk.  pašīšu  "a priest" . See ETCSL:  pa4-šeš=type of priest . pašu  [AX] (1 instances) pašu  [AX]  (1x: Old Babylonian)  wr.  pa-a-šu  "type of axe" [1] 
+cuneiform PA.A.ŠU pa-a-šu +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  type of axe  (1x/100%) ~  See ETCSL:  pa-a-šu=type of axe . pec  [BIRD] pec  [BIRD]  wr.  peš2 mušen  "a bird" [1] 
+cuneiform PEŠ₂.HU peš2 mušen1.  a bird pel  [DEFILE] (43 instances) pel  [DEFILE]  (43x: Old Babylonian)  wr.  pe-el-la2 ;  pe-el  "to defile; to be thin, light" Akk.  lu''û ;  qalālu See  šu pela[defile] . [1] 
+cuneiform PI.EL.LAL pe-el-la2 [2] 
+cuneiform PI.EL pe-el +-0 (41x/95% ) ; -la (1x/2% ) ; -la2  (1x/2% ) .350030002500200015001000 (no date) [1]18 [2]1116 distinct forms attested; click to view forms table.1.  to defile  (43x/100%) ~  LEX/Old Babylonian/unknown   
+ lu2   pe #-el #-la2  =  
+ qa2 #-lu-u2   OB Lu-Azlag A337; 
+ 
+ lu2 
+ nundum   pe-el-la2  =  
+ ša 
+ ša-ba-šu 
+ qa2-al-la   OB Lu-Azlag A341. 
+ ~ ĝešnimbar[palm] LEX/Old Babylonian/Nippur   ĝiš pi-el-la2 
+ nimbar   OB Nippur Ura195. 
+ See: buniĝ pel; dubsar pel; eš pel.2.  to be thin, light Akk.  lu''û ;  qalālu  "to be(come) light, weak, slight; of pig, to defile" . [1989]  P. Michalowski, Lamentation over Sumer and Ur73. See ETCSL:  pe-el=to defile . pela  [REED] (4 instances) pela  [REED]  (4x: Old Babylonian)  wr.  gi pe-el-la2 ;  gi pe-el  "a type of reed" [1] 
+cuneiform GI.PI.EL.LAL gi pe-el-la2 [2] 
+cuneiform GI.PI.EL gi pe-el +-0 (4x/100% ) .350030002500200015001000 (no date) [1]3 [2]12 distinct forms attested; click to view forms table.1.  a type of reed  (4x/100%) ~  LEX/Old Babylonian/Nippur   gi pe-el-la2   OB Nippur Ura2147. 
+ See ETCSL:  pe-el-la2 =type of reed . pendu  [SPOT] (1 instances) pendu  [SPOT]  (1x: Old Babylonian)  wr.  pe-en-du  "spot" [1] 
+cuneiform PI.EN.DU pe-en-du +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  spot  (1x/100%) ~  See ETCSL:  pe-en-du=spot . penzer  [GENITALS] (2 instances) penzer  [GENITALS]  (2x: Old Babylonian)  wr.  pe-en-ze2-er  "female genitals" [1] 
+cuneiform PI.EN.ZE₂.IR pe-en-ze2-er +-0 (2x/100% ) .350030002500200015001000 (no date) [1]22 distinct forms attested; click to view forms table.1.  female genitals  (2x/100%) ~  LEX/Old Babylonian/Nippur   pe-en-ze2-er   OB Nippur Lu382. 
+ See ETCSL:  pe-en-ze2-er=genitals . peš  [ANOINT] (1 instances) peš  [ANOINT]  (1x: Old Babylonian)  wr.  peš5  "to anoint" Akk.  pašāšu [1] 
+cuneiform KAD₄ peš5 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]1 distinct form attested; click to view forms table.1.  to anoint  (1x/100%) ~  Akk.  pašāšu  "to anoint" . See ETCSL:  peš5-peš5 =to anoint . peš  [BIRD] (1 instances) peš  [BIRD]  (1x: ED IIIa)  wr.  peš2 mušen  "a bird" [1] 
+cuneiform PEŠ₂.HU peš2 mušen +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a bird  (1x/100%) ~  LEX/ED IIIa/unknown   peš2 mušen   ED Birds138. 
+ peš  [DISAPPEAR] (1 instances) peš  [DISAPPEAR]  (1x: Old Babylonian)  wr.  peš5  "to disappear" Akk.  paşāşu [1] 
+cuneiform KAD₄ peš5 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  to disappear  (1x/100%) ~  LEX/Old Babylonian/unknown   [[peš5 ?]] =   =   =  
+ pa-şa #-şu2-x #   OB Diri "Oxford"317. 
+ Akk.  paşāşu  "to disappear?" . peš  [FIG] (481 instances) peš  [FIG]  (481x: ED IIIb, Old Akkadian, Lagash II, Ur III, Old Babylonian, unknown)  wr.  ĝeš peš3 ;  peš ;  peš3 ;  mu peš3  "fig; fig tree" Akk.  tittu [1] 
+cuneiform GIŠ.MA ĝeš peš3  ( geš peš3 ) [2] 
+cuneiform HA@g peš [3] 
+cuneiform MA peš3 [4] 
+cuneiform MU.MA mu peš3  (ES) +-0 (481x/100% ) .350030002500200015001000 (no date) [1]74303122 [2]614 [3]6117 [4]17 distinct forms attested; click to view forms table.1.  fig  (481x/100%) ~  LEX/ED IIIb/Nippur3(u@c) 
+ la22(aš@c)   geš peš3   TMH5,1413. 
+ LEX/Early Old Babylonian/Nippur   peš3   SLT12 r iii10'; 
+ peš3 
+ al-kum-ma   SLT12 r iii17'. 
+ LEX/Old Babylonian/Nippur   ĝiš peš3   OB Nippur Ura112. 
+ LEX/Old Babylonian/Sippar   [[ĝeš-peš3]] =  
+ ne-eš-pe-ša  =  
+ GIŠ-MA  =  
+ ti-tum   OB Diri Sippar Seg.3,22. 
+ LEX/unknown/unknown   
+ šu-gur5   ĝiš peš3   MSL08/1,81 V12 o i16; 
+ peš3   SLT017 r i10'; 
+ 
+ šu-gur5 #   peš3   SLT017 r iii13'. 
+ ELA/ED IIIb/Girsu2(u@c) 
+ nig2-du3-a   geš peš3   VS27,080 o iii1;3(u@c) 
+ nig2-du3-a   geš peš3   VS27,080 r i2;1(u@c) 
+ nig2-du3-a   geš peš3   VS27,080 o ii3. 
+ ELA/ED IIIb/Umma2(diš) 
+ i3 
+ sila32(diš) 
+ zu2-lum 
+ sila32(diš) 
+ gaʾar x ( LAK490 ) 
+ sila31(diš) 
+ nig2-du3-a 
+ geš hašhur1(diš) 
+ nig2-du3-a   geš peš3   Babyloniaca8, HG125';2(diš) 
+ i3 
+ sila32(diš) 
+ zu2-lum 
+ sila32(diš) 
+ gaʾar x ( LAK490 ) 
+ sila31(diš) 
+ nig2-du3-a 
+ geš hašhur1(diš) 
+ nig2-du3-a   geš peš3   Babyloniaca8, HG125';2(iku@c) 
+ amar   geš peš3   RGK20050520n o i13. 
+ ELA/ED IIIb/unknown1(u@c) 
+ nig2-du3-a   geš peš3   Nik1,144 o iii4;5(u@c) 
+ nig2-du3-a   geš peš3   Nik1,144 r i3;1(u@c) 
+ nig2-du3-a   geš peš3   Nik1,144 o i5;3(u@c) 
+ nig2-du3-a   geš peš3   Nik1,144 o ii2;8(aš@c) 
+ nig2-du3-a   geš peš3   Nik1,145 r i2;1(u@c) 
+ nig2-du3-a   geš peš3   Nik1,145 r i6;2(u@c) 
+ la22(diš) 
+ nig2-du3-a   geš peš3   Nik1,145 r ii4. 
+ ELA/Old Akkadian/Girsu1(aš@c)   geš peš3 
+ gurdub   ITT5,066672;1(aš@c)   geš peš3 
+ gurdub   ITT5,066679;2(aš@c) 
+ [še]-er-gu   geš peš3   RTC2454;4(u@c)   geš peš3 
+ ninda ninda x ( DU )   STTI0443. 
+ ELA/Old Akkadian/Lagash1/2(diš) 
+ še-er-gu   geš peš3   BM0263684; 
+ 
+ [x] 
+ še #-er-gu   geš peš3   BM0263693; 
+ 
+ x 
+ [še-er]-gu   geš peš3 #   BM0285506;1(aš@c) 
+ še-er-gu   geš peš3   BM0285503. 
+ ELA/Old Akkadian/Nippur3(u)   geš peš3 
+ nig2-du3   OSP1,131 r i9;2(u) 
+ sa 
+ lu2   geš peš3   OSP2,126 o ii6. 
+ ELA/Old Akkadian/Umma2(aš@c) 
+ dug   peš   DPA502;2(aš@c) 
+ dug   peš   DPA504. 
+ ELA/Lagash II/Ur2(diš) 
+ sila3 
+ še-er-gu   geš peš3   UET3,00686. 
+ ELA/Ur III/Drehem1(diš) 
+ amar   peš 
+ ga   ASJ07,122031;2(diš) 
+ udu 
+ niga 
+ du6   geš peš3   AUCT1,0835;3(diš)   geš peš3 ?   AUCT3,4661. 
+ ELA/Ur III/Girsu1(barig)   geš peš3 
+ had2   Amherst050 o i2;1(u)5(diš)   geš peš36(diš) 
+ u2   Amherst050 o i4; 
+ geš peš3 ! 
+ had2-bi1(barig)   Amherst050 r i16. 
+ ELA/Ur III/Nippur1(u)1(diš)   geš peš36(diš) 
+ kuš3   BE03/1,1051;8(diš)   geš peš33(diš) 
+ kuš3   BE03/1,1052;4(diš) 
+ murgu2   peš   BE03/1,1055;6(geš2 ) 
+ ku6   peš 
+ dar   NATN5914;1(diš)   peš 
+ mu2(diš)   NATN7411; 
+ 
+ ŠU + LAGAB1(aš)4(barig)2(ban2 )1(diš)1/2(diš) 
+ sila3   geš peš3 
+ gur   NATN7422. 
+ ELA/Ur III/Umma1(diš)   peš3   AAS1203; 
+ 
+ [x ?]1(diš)   geš peš3 
+ a-ha-ti   AnOr07,2612;1(diš) !? 
+ gin2 
+ ku3   geš peš3   ASJ18,079114. 
+ ELA/Ur III/Ur3(barig)2(ban2 )   geš peš3 
+ duru5   UET3,0076 o i4;1(aš)   geš peš3 
+ had2 
+ [...]   UET3,02095; 
+ 
+ [...]3(ban2 )   geš peš3 
+ duru5   UET3,0273 o i3. 
+ ELA/Ur III/unclear   
+ ŠU + LAGAB5(u)5(aš)3(barig)5(ban2 )   geš peš3 
+ a 
+ gur   AAS200 r i6. 
+ ELA/Early Old Babylonian/unknown   
+ ša3   peš 
+ murgu21(u)1(aš@t)-kam   BIN10,0786;3(u)   peš 
+ murgu2 
+ gi banšur   BIN10,0781;5(diš)   peš 
+ murgu2 
+ gi banšur   BIN10,0783. 
+ unknown/ED IIIb/Girsu2(aš@c) 
+ nig2-du3-a   geš peš3   DP051 o iii1;2(aš@c) 
+ nig2-du3-a   geš peš3   DP051 o iii8;3(aš@c) 
+ nig2-du3-a   geš peš3   DP051 o i3. 
+ unknown/ED IIIb/Lagash1(aš@c) 
+ šitim-me 
+ U2   geš peš3 
+ gun3-a   BiMes03,27 o iv4. 
+ unknown/ED IIIb/unknown1(u@c) 
+ nig2-du3-a   geš peš3   TSA42 o ii6;1(geš2 @c)1(u@c) 
+ nig2-du3-a   geš peš3   TSA42 o iii2;2(u@c) 
+ nig2-du3-a   geš peš3   TSA42 r i4;2(geš2 @c) 
+ la21(u@c) 
+ nig2-du3-a   geš peš3   TSA42 r ii3;1(u@c) 
+ nig2-du3-a   geš peš3   TSA42 o i3;2(u@c) 
+ nig2-du3-a   geš peš3   TSA43 r ii2;2(u@c) 
+ nig2-du3-a   geš peš3   TSA43 o ii4. 
+ unknown/Old Akkadian/Girsu1/2(aš@c) 
+ še-er-gu   geš peš3   RTC2185;1(aš@c) 
+ še-er-gu   geš peš3   RTC2193;2(aš@c) 
+ kuš3   geš peš3   RTC2205;1/2(diš) 
+ še-er-gu   geš peš3   RTC2208. 
+ unknown/Old Akkadian/Nippur1(u)   geš peš3 
+ nig2-du3   OSP1,126 o iii4. 
+ unknown/Old Akkadian/unknown1(geš2 )1(u) 
+ gurdub   peš 
+ a-ab-ba   Bridges p.459 o ii5;1/2(aš@c) 
+ še-er-gu   geš peš3   MVN03,08210. 
+ unknown/Ur III/Drehem1(diš) 
+ gi kaskal   peš3   Aleppo1461;1(u) 
+ gin2 
+ ku3   geš peš3   Aleppo4593;4(diš) 
+ gin2 
+ ku3   geš peš3   Aleppo4603. 
+ unknown/Ur III/Girsu2(diš)   geš peš3   ASJ18,1668 ii10;1(u)   geš peš36(diš) 
+ kuš3   BM Messenger3333; 
+ 
+ [...]2(u)3(diš)   geš peš36(diš) 
+ kuš3   DoCu505 o i5. 
+ unknown/Ur III/Nippur1(aš)   geš peš3 
+ had2   BBVO11,256,4N-T191 o iv4. 
+ unknown/Ur III/Umma   
+ [...]   peš 
+ sag 
+ bappir   LÕuomo4915;2(barig)   geš peš3 
+ duru5   MVN16,06876; 
+ 
+ ku6 
+ nisi 
+ še 
+ a 
+ nunuz   geš peš3 
+ geš hašhur-da 
+ ku4-ra   MVN16,07445. 
+ unknown/Ur III/unknown3(diš)   geš peš3 
+ duru5   MVN15,181 o iii7'; 
+ 
+ [...]   geš peš36(diš) 
+ kuš3   MVN15,181 o i7'; 
+ 
+ ŠU + LAGAB3(aš)4(barig)3(ban2 )   geš peš3 
+ duru5 
+ gur   MVN15,181 r iv6. 
+ ~ u LEX/ED IIIb/unknown   geš peš3 
+ BULUG3 
+ HI-še3 
+ TUR   MS19021. 
+ LEX/unknown/unknown   peš3 
+ [...]   SLT017 r i12. 
+ ELA/Old Akkadian/Girsu1(aš@c)   geš peš3 
+ [...] 
+ sig5 
+ [...]   RTC229 o iii3. 
+ ELA/Old Akkadian/Lagash1/2(aš@c) 
+ še #-er-gu   geš peš3   BM0288919. 
+ ELA/Old Akkadian/Umma2(aš@c) 
+ dug   peš   DPA506. 
+ ELA/Ur III/Girsu3(geš2 ) 
+ sa 
+ ka   peš 
+ x   ITT5,069786; 
+ 
+ [...]   geš peš3   TL062 o i11. 
+ ELA/Ur III/Umma1(aš) 
+ gu2 
+ gi5(diš) 
+ sa   geš peš3 
+ TAR   BRM3,0303;1(u)1(diš)   geš peš3 
+ [x]7(diš) 
+ kuš3-[ta]   NATN2373;1(diš) 
+ ma-sa2-ab   peš   YOS18,0802. 
+ ELA/Ur III/Ur3(barig)2(ban2 )   geš peš3 
+ x   UET3,0273 o ii10; 
+ 
+ [...]   geš peš3 
+ ga-zu ?-x 
+ [...]   UET3,08358; 
+ 
+ [x 
+ geš kiri6] 
+ geštin 
+ ur2-ba 
+ [geš peš3] 
+ u3   geš peš3   UET3,13689;3(u)6(diš)1/2(diš) 
+ ma-na   peš # 
+ [...]   UET3,1399 o ii12. 
+ ELA/Ur III/unknown1(u)2(diš)   geš peš3 
+ x-[x]   UCP9-2-1,0627. 
+ unknown/Ur III/Girsu   
+ x1(barig)6(diš)1/2(diš) 
+ sila3   geš peš3   DoCu505 o i3. 
+ unknown/Ur III/Umma1(diš)   geš peš3 
+ NE 
+ x   UTI6,35474. 
+ unknown/Ur III/Uruk   
+ [x]2(barig) 
+ gur   peš ? 
+ [x]   BagM26,40, W250424. 
+ ~ u u u u LEX/unknown/unknown   peš3 
+ PA 
+ x # 
+ x # 
+ x #   SLT017 r i11. 
+ ELA/Ur III/Girsu   
+ [...]   geš peš3   AnOr45,30049 r ii1. 
+ ~ babbar[white] LEX/Early Old Babylonian/Nippur   peš3 
+ babbar   SLT12 r iii11'. 
+ ~ kukku[dark] LEX/Early Old Babylonian/Nippur   peš3 
+ kukku5   SLT12 r iii12'. 
+ ~ sissi[green] LEX/Early Old Babylonian/Nippur   peš3 
+ sig7-sig7   SLT12 r iii15'. 
+ ~ su[red] LEX/Early Old Babylonian/Nippur   peš3 
+ su4-a   SLT12 r iii16'. 
+ ~ šergu[string] LEX/Early Old Babylonian/Nippur   peš3 
+ še-er-kum   SLT12 r iii14'. 
+ ELA/Lagash II/Girsu1(diš)   geš peš3 
+ še-er-gu   MVN10,2131. 
+ ELA/Ur III/Drehem   geš peš3 
+ še-er-gu-bi3(u)8(diš)1/3(diš)   MCS2,69, BM1054422;1(u)8(diš)   geš peš3 
+ še-er-gu   MCS2,69, BM1054423;2(u)   geš peš3 
+ še-er-gu   MVN02,1713. 
+ ELA/Ur III/Girsu   
+ ŠU + LAGAB2(diš)   geš peš3 
+ še-er-gu   HSS04,005 r iii17;2(diš)   geš peš3 
+ še-er-gu   HSS04,005 o iii4;2(u)1/3(diš)   geš peš3 
+ še-er-gu   ITT2,00734 o iii10;9(diš)   geš peš3 
+ še-er-gu   ITT2,00892 o iii13;2(u)1/3(diš)   geš peš3 
+ še-er-gu   RTC307 o iii10. 
+ ELA/Ur III/Nippur5(diš)   geš peš3 
+ še-er-gu   NATN3752;1(u)5(diš)   geš peš3 
+ še-er-gu   NATN6781. 
+ ELA/Ur III/Umma   
+ [x]   geš peš3 
+ še-er-gu   AnOr07,2616;5(geš2 )1(u)1(diš)   geš peš3 
+ še-er-gu   AnOr07,3122;1(diš)   geš peš3 
+ še-er-gu   AR RIM04353. 
+ ELA/Ur III/Ur   geš peš3 
+ še-[er]-gu-bi1(u)3(diš)1/3(diš)   UET3,0076 o i5;1(geš2 )5(u)   geš peš3 
+ še-er-gu   UET3,02091; 
+ geš peš3 
+ še-er-gu-bi6(diš)   UET3,0273 o i4. 
+ ELA/Ur III/unclear   
+ ŠU + LAGAB2(u)   geš peš3 
+ še-er-gu   TSU108 r ii7;2(diš)   geš peš3 
+ še-er-gu   TCS1,2634. 
+ unknown/Old Akkadian/Umma1(u)   geš peš3 
+ še3 šer7-[gu]   MCS9,24715. 
+ unknown/Ur III/Nippur   
+ [x   geš peš3] 
+ še #-er-gu   BBVO11,256,4N-T191 o iv7;1(u)   geš peš3 
+ šer7-gu   BBVO11,257,4N-T197 o iv37; 
+ 
+ ŠU + LAGAB2(u)1(diš)   geš peš3 
+ šer7 #-[gu]   BBVO11,257,4N-T197 r iii3; 
+ 
+ [ŠU + LAGAB 
+ x]   geš peš3 !? 
+ šer7-gu   BBVO11,257,4N-T197 o ii10;2(diš)   geš peš3 
+ šer7-gu #   BBVO11,294,6N-T6186. 
+ unknown/Ur III/Umma2(u)   geš peš3 
+ še-er-gu   NABU1992:0424;3(u)5(diš)   geš peš3 
+ še-er-gu   Princeton1,3191;4(diš)   geš peš3 
+ še-er-gu   UTI4,28625. 
+ unknown/Ur III/Ur2(u)1(diš)   geš peš3 
+ še-er-gu   SAT3,20271;3(diš)   geš peš3 
+ še-er-gu   SAT3,20274. 
+ unknown/Ur III/unclear4(diš)   geš peš3 
+ še-er-gu   Princeton1,2451. 
+ ~ zarin[low quality] LEX/Early Old Babylonian/Nippur   peš3 
+ za-ri2-in   SLT12 r iii13'. 
+ See: eš peš; garan peš; ninda peš.2.  fig tree Akk.  tittu  "fig (tree)" . [2003]  M. Powell, RlA1017. [1995]  M. Powell, Origins and Ancient History of Wine100. [1993]  A. Cavigneaux and F. Alrawi, RA87110 n21. [1987]  M. Civil, OrNS56233 n2;242-243. [1987]  J. Postgate, BSA3116-117;123;126-127. [1987]  M. Powell, BSA3146. See ETCSL:  peš3 =fig (tree) . peš  [FISH] (1 instances) peš  [FISH]  (1x: Old Akkadian)  wr.  peš ku6  "a fish" [1] 
+cuneiform HA@g.HA peš ku6 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a fish  (1x/100%) ~  unknown/Old Akkadian/Lagash1(u@c)3(aš@c)   peš ku6 
+ gurdub   BiMes03,241. 
+ peš  [MOUSE] (55 instances) peš  [MOUSE]  (55x: ED IIIa, ED IIIb, Old Akkadian, Ur III, Old Babylonian, unknown)  wr.  peš2  "large mouse" Akk.  humşīru [1] 
+cuneiform PEŠ₂ peš2 +-0 (55x/100% ) .350030002500200015001000 (no date) [1]3232814 distinct forms attested; click to view forms table.1.  large mouse  (55x/100%) ~  LEX/ED IIIb/Ebla   [[peš2]] =  
+ PEŠ2  =  
+ bi2 #-šum2   Ebla Sign List86. 
+ LEX/Old Babylonian/Nippur   peš2   OB Nippur Ura3363. 
+ LEX/unknown/unknown   
+ [...]   peš2 ?   SLT061 o i4'. 
+ ELA/Old Akkadian/unclear1(diš)   peš2 ? 
+ [...]   Athene19980924f3. 
+ ELA/Ur III/Drehem2(diš)   [peš2]   OIP115,4573;1(u)1(diš)   peš2   OIP121,3335. 
+ ELA/Ur III/Girsu1(u)7(diš)   peš24(diš) 
+ gin2   ITT3,064152; 
+ 
+ ŠU + LAGAB1(gešʾu)3(geš2 ) 
+ murgu2   peš2 #   TUT113 r iii1. 
+ ELA/Ur III/Nippur6(diš)   peš2 
+ x-x-x   NATN964 o ii6. 
+ ELA/Ur III/Umma   
+ uš24(ban2 )   peš2 
+ i3-ra2-ra2   MVN14,03461; 
+ 
+ [x] 
+ še 
+ gur   peš2 ? 
+ la !?   MVN14,05364;1(aš)4(ban2 ) 
+ tug2   peš2 
+ i3-ra2-ra2   RA73,115-120 r i26. 
+ ELA/Ur III/Ur1(diš)   peš2 
+ igi-gun3 
+ niga   UET3,01026;1(diš)   peš2 
+ igi-gun3 
+ niga   UET3,01417. 
+ unknown/ED IIIb/Zabalam   peš2 ? 
+ ba-DU   BIN08,0332. 
+ unknown/Ur III/Umma   
+ da-du   peš2 !?-a 
+ mu-ni-lu   DoCu2614; 
+ peš2 
+ [...]   MVN21,3072. 
+ unknown/Ur III/Uruk1(u)   peš2 
+ igi 
+ gun3 #   BagM23,82, W250461. 
+ ~ ašag[field] LEX/Old Babylonian/Nippur   peš2 
+ a-šag4-ga   OB Nippur Ura3366. 
+ ~ dug[pot] sila[street] gaz[kill] LEX/Old Babylonian/Nippur   peš2 
+ dug 
+ sila3 
+ gaz-gaz   OB Nippur Ura3370. 
+ ~ gi[thicket] LEX/Old Babylonian/Nippur   peš2 
+ ĝiš gi   OB Nippur Ura3364. 
+ ELA/Ur III/Girsu2(geš2 )9(diš)   peš2 
+ geš-gi4(diš) 
+ gin2-[ta]   TL0957. 
+ ELA/Ur III/Nippur1(u) 
+ la21(diš)   peš2 
+ geš-gi   MVN02,0241. 
+ ELA/Ur III/Umma1(diš)   peš2 
+ geš-gi   AnOr01,2426;3(diš)1/3(diš)   peš2 ? 
+ geš-gi   Kyoto194;1(u)3(diš)1/3(diš)   peš2 
+ geš-gi   MVN16,073918. 
+ ELA/Ur III/Ur1(diš)   peš2 
+ geš-gi 
+ niga   UET3,01025;1(diš)   peš2 
+ geš-gi 
+ niga   UET3,01416. 
+ ~ gi[thicket] gu[eat] LEX/Old Babylonian/Nippur   peš2 
+ ĝiš gi-e 
+ gu7-a   OB Nippur Ura3365. 
+ ~ gunu[speckled] unknown/Ur III/Girsu3(diš)   peš2 
+ gun3 ?-a ?3(ban2 ) 
+ še 
+ lugal-ta   SNAT0121. 
+ ~ ĝešdu[breeder] ELA/Ur III/Drehem1(diš)   peš2 ? 
+ geš-du3 #   AUCT2,2441. 
+ ~ igi[eye] gunu[speckled] LEX/Old Babylonian/Nippur   peš2 
+ igi 
+ gun3   OB Nippur Ura3367. 
+ ~ niĝgilim[rodent] LEX/Old Babylonian/Nippur   peš2 
+ niĝ2-gilim-ma   OB Nippur Ura3368. 
+ ~ niĝgilimgilima[rodent] LEX/Old Babylonian/Nippur   peš2 
+ niĝ2-gilim-gilim-ma   OB Nippur Ura3369. 
+ See: kuš peš; kuš peš ašag; kuš peš gi; kuš peš gi gu; kuš peš igi gunu; kuš peš niĝgilim; kuš peš sila gaz. Akk.  humşīru  "(large) mouse" . [2005]  C. Mittermayer, Tierkopfzeichen74-81. [1995]  R. Englund, AoF2240-44. [1987-90]  W. Heimpel, RlA7605-606. See ETCSL:  peš2 =mouse . peš  [SLICE] peš  [SLICE]  wr.  peš6  "to slice" Akk.  paşādu [1] 
+cuneiform KAD₅ peš61.  to slice Akk.  paşādu  "to cut into, slice ???" . peš  [THICK] (147 instances) peš  [THICK]  (147x: Ur III, Early Old Babylonian, Old Babylonian,1st millennium)  wr.  peš ;  peš5 ;  peš4 ;  peš6  "innards; to breathe; grandson; descendant; to give birth (to); (to be) pregnant; pregnancy; to gather; (to be) thick; (to be) wide" Akk.  alādu ;  kabattu ;  līp līpi ;  mār māri ;  mērû ;  napāšu ;  šabāšu See  gu peš[grow] ,  šu peš[expand] . [1] 
+cuneiform HA@g peš [2] 
+cuneiform KAD₄ peš5 [3] 
+cuneiform |ŠA₃×A| peš4 [4] 
+cuneiform KAD₅ peš6 +-0 (145x/99% ) ; -ša (2x/1% ) .350030002500200015001000 (no date) [1]34321 [2]494 [3]1 [4]145 distinct forms attested; click to view forms table.1.  innards  (147x/100%) ~  LEX/Early Old Babylonian/Nippur   peš   SLT12 r v6'; 
+ peš 
+ mur7   SLT12 r v7'. 
+ LEX/Old Babylonian/Nippur   peš #   OB Nippur Ura5429. 
+ LEX/Old Babylonian/unknown   [[peš5 ?]] =   =  
+ ŠU . KAD5  =  
+ na-pa-[šum]   OB Diri "Oxford"316. 
+ ELA/Ur III/Drehem   
+ ki-la2-bi1(aš) 
+ gu25(u) 
+ ma #-[na] 
+ siki 
+ gi   peš5-a   AnOr07,3195; 
+ 
+ ki-la2-bi1(aš) 
+ gu28(diš)1/2(diš) 
+ ma #-[na] 
+ siki 
+ ge6   peš5-a   AnOr07,3197. 
+ ELA/Ur III/Girsu1(diš) 
+ ma-na1(u) 
+ gin2 ? 
+ siki   peš5-a 
+ tug2 
+ gen   HSS04,005 o ii14;1(aš) 
+ gu22(u)1/3(diš) 
+ ma-na 
+ siki 
+ du   šu-peš5 
+ BAD-a   ITT2,00798 r v3; 
+ 
+ [x] 
+ ma #-na 
+ siki   šu-peš5-a 
+ tug2 uš-bar   ITT2,01012 o i2. 
+ ELA/Ur III/Nippur1(diš) 
+ ma-na 
+ siki 
+ al   peš5   TMH NF1-2,1833; 
+ 
+ nig2-AB × NUN-a 
+ u3 
+ siki   al-peš5-a   TMH NF1-2,1983; 
+ 
+ siki   al-peš5-a   TMH NF1-2,1984; 
+ 
+ u3 
+ siki   al-peš5-a   TMH NF1-2,2103; 
+ 
+ geme2 
+ x-ma-ka 
+ u3 
+ ensi2-ka   ib2-peš5   TMH NF1-2,2163. 
+ ELA/Ur III/Umma   
+ siki 
+ gi   peš5-a   HUCA29,0951812;1(u)3(diš)5/6(diš) 
+ ma-na 
+ siki 
+ kur-ra   peš5 ?-a   MCS1,37, BM106055 o ii5; 
+ 
+ siki 
+ kur-ra   šu-peš5 *#-a   MCS8,89, BM1054061. 
+ ELA/Ur III/Ur   šu-peš5-a 
+ tug2 uš-bar   UET3,15393. 
+ ELA/Early Old Babylonian/unknown1(diš) 
+ ma-na 
+ siki   peš5-a   BIN10,0041; 
+ 
+ ki-la2-bi1(diš)1/2(diš) 
+ ma-na3(diš) 
+ gin2 
+ siki 
+ du   šu-peš5   BIN10,0862. 
+ unknown/Old Babylonian/unknown   [[peš6]] =  
+ pe-eš  =  
+ ŠU . KAD3  =  
+ na-pa-šum   RA21,178 iii5; 
+ [[peš4]] =  
+ pi-iš  =  
+ ŠA3 × A #  =  
+ a #-ru-u2-um   RA21,178 iii26. 
+ unknown/Ur III/Drehem2(diš) 
+ geš 
+ ka   peš5 
+ ša3-kal 
+ e2-se3-ga   SAT2,11561. 
+ unknown/Ur III/Girsu3(diš) 
+ tug2 guz-za   peš5-a 
+ lugal 
+ ki-la2-bi7(diš)1/2(diš) 
+ ma-na   BM Messenger1991. 
+ unknown/Ur III/Umma   
+ ki-la2-bi2(u)6(diš) 
+ ma-na1(u) 
+ gin2 
+ siki 
+ gi   šu-peš5-a   Princeton1,3063;2(diš) 
+ tug2 uš-bar 
+ ki-la2-bi6(diš)2/3(diš) 
+ ma-na5(diš) 
+ gin2 
+ siki 
+ kur-ra 
+ siki   peš5-a   Rochester0976; 
+ 
+ siki 
+ kur-ra   šu-peš5-a   SNAT30610. 
+ ~ murgu[shoulder] LEX/Old Babylonian/Nippur   peš 
+ murgu2 #   OB Nippur Ura5430. 
+ See: ab peš; ab peš niga; am peš; amar gud peš; amar peš; amar peš am; eme peš; eš peš murgu; gu peš; gud peš; tug ib peš; u peš; uzud peš.2.  to breathe3.  grandson4.  descendant5.  to give birth (to)6.  (to be) pregnant7.  pregnancy8.  to gather9.  (to be) thick10.  (to be) wide Akk.  alādu  "to give birth (to)" ;  kabattu  "liver, innards" ;  līp līpi  "great-grandson, descendant" ;  mār māri  "fat of the fat ???" ;  mērû  "pregnancy" ;  napāšu  "to be(come) wide" ;  šabāšu  "to gather" . [1995]  M. Stol, BSA8175. See ETCSL:  peš=to be thick . peš  [THREE] (33 instances) peš  [THREE]  (33x: Ur III, Old Babylonian)  wr.  peš  "three; to do something three times" Akk.  šalašti [1] 
+cuneiform HA@g peš +-0 (33x/100% ) .350030002500200015001000 (no date) [1]3116 distinct forms attested; click to view forms table.1.  three  (33x/100%) ~  ELA/Ur III/Girsu2(diš)   gu2-peš 
+ gub-ba   HLC175 (pl.104)7. 
+ ELA/Ur III/Umma   peš-bi1/2(diš) 
+ murgu2   TCL5,6036 r i13; 
+ peš-bi3(diš) 
+ murgu2   TCL5,6036 r i18; 
+ peš-bi6(diš)1(u)5(diš) 
+ gin2 
+ murgu2   TCL5,6036 r i24. 
+ ELA/Ur III/Ur   
+ dumu 
+ e-la-ak   šu-peš-me   StOr09-131 (pl.12)7; 
+ peš-bi1(diš)   UET3,08657.2.  to do something three times Akk.  šalašti  "three" . [2004]  P. Attinger and M. Krebernik, St Schretter63. peš  [TUFT] (1 instances) peš  [TUFT]  (1x: Ur III)  wr.  peš6  "tuft" Akk.  nipšu [1] 
+cuneiform KAD₅ peš6 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  tuft  (1x/100%) ~  unknown/Ur III/Umma   
+ siki 
+ kur-ra 
+ zu2-uh   peš6-a   MVN16,07552. 
+ Akk.  nipšu  "tuft" . pešašaga  [RODENT] pešašaga  [RODENT]  wr.  peš2-a-šag4-ga  "a rodent" Akk.  harriru [1] 
+cuneiform PEŠ₂.A.ŠA₃.GA peš2-a-šag4-ga1.  a rodent Akk.  harriru . [1995]  R. Englund, AoF2250 n49. pešbandazi  [OFFSHOOT] (2 instances) pešbandazi  [OFFSHOOT]  (2x: Early Old Babylonian)  wr.  ĝeš peš-banda3-zi  "offshoot" [1] 
+cuneiform GIŠ.HA@g.TUR.ZI ĝeš peš-banda3-zi +-0 (2x/100% ) .350030002500200015001000 (no date) [1]12 distinct forms attested; click to view forms table.1.  offshoot  (2x/100%) ~  LEX/Early Old Babylonian/Nippur   peš-banda-zi   SLT12 r v8'. 
+ ~ ĝešnimbar[palm] LEX/Old Babylonian/Nippur   ĝiš peš-banda3-zi 
+ nimbar   OB Nippur Ura1104. 
+ pešgi  [LINED] (1 instances) pešgi  [LINED]  (1x: Old Babylonian)  wr.  peš-gi4  "(to be) lined (said of containers)" [1] 
+cuneiform HA@g.GI₄ peš-gi4 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  (to be) lined (said of containers)  (1x/100%) See: gi pešgi. pešgi  [RODENT] pešgi  [RODENT]  wr.  peš2-ĝeš gi ;  peš2-gi  "a rodent" Akk.  ušummu [1] 
+cuneiform PEŠ₂.GIŠ.GI peš2-ĝeš gi  (peš2-geš gi, peš2-giš gi) [2] 
+cuneiform PEŠ₂.GI peš2-gi1.  a rodent Akk.  ušummu . [1995]  R. Englund, AoF2245-55. [1987-90]  W. Heimpel, RlA7606-607. See ETCSL:  peš2-ĝiš-gi=marsh rat . pešgia  [RODENT] pešgia  [RODENT]  wr.  peš2-ĝeš gi-a  "a rodent" Akk.  burmamu [1] 
+cuneiform PEŠ₂.GIŠ.GI.A peš2-ĝeš gi-a1.  a rodent Akk.  burmamu . [1995]  R. Englund, AoF2241;51 n51. pešgigua  [RODENT] pešgigua  [RODENT]  wr.  peš2-ĝeš gi-gu7-a ;  peš2-gi-e-gu7 ;  peš2-ĝeš gi-e-gu7-a ;  peš2-ĝeš gi-i3-gu7-a  "a rodent" Akk.  iškarissu [1] 
+cuneiform PEŠ₂.GIŠ.GI.|KA×GAR|.A peš2-ĝeš gi-gu7-a [2] 
+cuneiform PEŠ₂.GI.E.|KA×GAR| peš2-gi-e-gu7 [3] 
+cuneiform PEŠ₂.GIŠ.GI.E.|KA×GAR|.A peš2-ĝeš gi-e-gu7-a [4] 
+cuneiform PEŠ₂.GIŠ.GI.NI.|KA×GAR|.A peš2-ĝeš gi-i3-gu7-a1.  a rodent Akk.  iškarissu  "a rodent" . [1995]  R. Englund, AoF2243 n20. pešĝal  [MIGHTY?] (7 instances) pešĝal  [MIGHTY?]  (7x: Old Babylonian)  wr.  peš10-ĝal2  "mighty?" [1] 
+cuneiform |KI.A|.IG peš10-ĝal2 +-0 (6x/86% ) ; -la (1x/14% ) .350030002500200015001000 (no date) [1]72 distinct forms attested; click to view forms table.1.  mighty?  (7x/100%) ~  See ETCSL:  peš10-ĝal2 =mighty? . pešĝešigu'e  [RODENT] pešĝešigu'e  [RODENT]  wr.  peš2-še ĝeš-i3-gu7-e  "a rodent" Akk.  kursissu [1] 
+cuneiform PEŠ₂.ŠE.GIŠ.NI.|KA×GAR|.E peš2-še ĝeš-i3-gu7-e1.  a rodent Akk.  kursissu . [1995]  R. Englund, AoF2244-45. pešigigunu  [RODENT] pešigigunu  [RODENT]  wr.  peš2-igi-gun3 ;  peš2-igi-gun3-nu ;  peš2-igi-gun3-gun3 ;  peš2-igi-gun3-gun3-nu  "a rodent" Akk.  barmu [1] 
+cuneiform PEŠ₂.IGI.DAR peš2-igi-gun3 [2] 
+cuneiform PEŠ₂.IGI.DAR.NU peš2-igi-gun3-nu [3] 
+cuneiform PEŠ₂.IGI.DAR.DAR peš2-igi-gun3-gun3 [4] 
+cuneiform PEŠ₂.IGI.DAR.DAR.NU peš2-igi-gun3-gun3-nu1.  a rodent Akk.  barmu  "multicolored, variegated" . [1995]  R. Englund, AoF2250 n49. [1987-90]  W. Heimpel, RlA7606-607. peškal  [TREE] (1 instances) peškal  [TREE]  (1x: Old Babylonian)  wr.  ĝeš peš7-kal ;  ĝeš peš-gal ;  ĝeš peš-kal  "a tree" Akk.  şudānu [1] 
+cuneiform GIŠ.TUR.KAL ĝeš peš7-kal  ( geš peš7-kal) [2] 
+cuneiform GIŠ.HA@g.GAL ĝeš peš-gal  ( geš peš-gal) [3] 
+cuneiform GIŠ.HA@g.KAL ĝeš peš-kal  ( geš peš-kal) +-0 (1x/100% ) .350030002500200015001000 (no date) [1]1 [2] [3]1 distinct form attested; click to view forms table.1.  a tree  (1x/100%) ~  LEX/Old Babylonian/Nippur   ĝiš peš7-kal   OB Nippur Ura1117. 
+ Akk.  şudānu . [1997]  N. Veldhuis, EEN170. peškibala  [RODENT] peškibala  [RODENT]  wr.  peš2-ki-bala  "a rodent" Akk.  akbaru [1] 
+cuneiform PEŠ₂.KI.BAL peš2-ki-bala1.  a rodent Akk.  akbaru . [1995]  R. Englund, AoF2250 n49. pešniĝgilima  [RODENT] pešniĝgilima  [RODENT]  wr.  peš2-niĝ2-gilim-ma  "a rodent" Akk.  aštakissu [1] 
+cuneiform PEŠ₂.GAR.|GI%GI|.MA peš2-niĝ2-gilim-ma1.  a rodent Akk.  aštakissu . [1995]  R. Englund, AoF2241. pešpeša  [STONE] (1 instances) pešpeša  [STONE]  (1x: Old Babylonian)  wr.  na4 peš6-peš6-a  "type of stone" [1] 
+cuneiform |NI.UD|.KAD₅.KAD₅.A na4 peš6-peš6-a +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  type of stone  (1x/100%) ~  See ETCSL:  peš6-peš6-a=type of stone . peštur  [RODENT] peštur  [RODENT]  wr.  peš2-tur  "a rodent" Akk.  pirurūtu [1] 
+cuneiform PEŠ₂.TUR peš2-tur1.  a rodent Akk.  pirurūtu . [1987-90]  W. Heimpel, RlA7606. pešturzi  [DESCENDANTS] (2 instances) pešturzi  [DESCENDANTS]  (2x: Old Babylonian)  wr.  peš-tur-zi  "descendants" Akk.  liblibbu [1] 
+cuneiform HA@g.TUR.ZI peš-tur-zi +-0 (2x/100% ) .350030002500200015001000 (no date) [1]21 distinct form attested; click to view forms table.1.  descendants  (2x/100%) ~  LEX/Old Babylonian/Nippur   peš-<< AN >>-tur-[zid]   OB Nippur Ura5431. 
+ See: eš pešturzi. Akk.  liblibbu  "great-grandson, descendant" . pešturzi  [OFFSHOOT] (3 instances) pešturzi  [OFFSHOOT]  (3x: Old Babylonian)  wr.  ĝeš peš-tur-zi  "offshoot" [1] 
+cuneiform GIŠ.HA@g.TUR.ZI ĝeš peš-tur-zi  ( geš peš-tur-zi) +-0 (3x/100% ) .350030002500200015001000 (no date) [1]12 distinct forms attested; click to view forms table.1.  offshoot  (3x/100%) ~  [1995]  K. Volk, Inanna-Shukaletuda166-167 wn771. See ETCSL:  peš-tur-ZI=(off)shoot . pešura  [RODENT] pešura  [RODENT]  wr.  peš2-ĝeš ur3-ra  "a rodent" Akk.  arrabu [1] 
+cuneiform PEŠ₂.GIŠ.|GA₂×NUN&NUN|.RA peš2-ĝeš ur3-ra1.  a rodent Akk.  arrabu . [1995]  R. Englund, AoF2250 n49. [1987-90]  W. Heimpel, RlA7607-608. PI  [UNIT] (9 instances) PI  [UNIT]  (9x: Ur III)  wr.  PI  "a unit of capacity" [1] 
+cuneiform PI PI +-0 (9x/100% ) .350030002500200015001000 (no date) [1]96 distinct forms attested; click to view forms table.1.  a unit of capacity  (9x/100%) ~  ELA/Ur III/Drehem   
+ tug2-ta   PI-ra   BIN03,3642; 
+ 
+ la2-a 
+ [x]-a-bi 
+ na4 du8-ši-a 
+ se3-ga   PI-bi 
+ na4 gug   TCL2,55293. 
+ ELA/Ur III/Girsu4(diš)   PI-a 
+ lu2-mar *-sa *-ta 
+ i3-du8   HLC029 (pl.023) o iii16;1/3(diš) 
+ sila3 
+ i3   PI-me 
+ sipa 
+ ur-ra   MVN02,278 o ii8; 
+ 
+ kišib3 
+ lu2-d nanna 
+ dumu   PI-a   MVN06,2262; 
+ 
+ [dumu]   PI-a 
+ [...]   MVN06,2263. 
+ ELA/Ur III/Umma1/2(diš) 
+ gin2 
+ šeš-kal-la 
+ dumu   PI-a-na   AnOr07,1254. 
+ ELA/Ur III/Ur   PI-bi 
+ dah-hu   UET3,04365; 
+ 
+ sa-am-sa-tum 
+ u3   PI-ba   UET3,07534. 
+ PI.asar  [FISH] (1 instances) PI.asar  [FISH]  (1x: ED IIIa)  wr.  PI-asar2 ku6  "a fish" [1] 
+cuneiform PI.|A.TU.GABA.LIŠ|.HA PI-asar2 ku6 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a fish  (1x/100%) ~  LEX/ED IIIa/unknown   PI-asar2 ku6   Early Dynastic Fish100. 
+ pihu  [JAR] pihu  [JAR]  wr.  dug pi-hu ;  dug pihu ;  dug pihu2 ;  dug pihu3 ;  dug pihu4 ;  dug pihu5 ;  dug |NUNUZ.AB2 ×IGI@g|  "a beer jar" Akk.  pīhu [1] 
+cuneiform DUG.PI.HU dug pi-hu [2] 
+cuneiform DUG.|BI.U₂.SA| dug pihu [3] 
+cuneiform DUG.|NUNUZ.AB₂×BI| dug pihu2 [4] 
+cuneiform DUG.|KA.KAK| dug pihu3 [5] 
+cuneiform DUG.|BI.U₂.SA| dug pihu4 [6] 
+cuneiform DUG.|UŠ.SA| dug pihu5 [7] 
+cuneiform DUG.|NUNUZ.AB₂×IGI@g| dug |NUNUZ.AB2 ×IGI@g|1.  a beer jar Akk.  pīhu  "beer-jar" . pil  [MALE] pil  [MALE]  wr.  pil6  "male" Akk.  zikaru [1] 
+cuneiform NU₁₁ pil61.  male Akk.  zikaru  "male, virile" . pilipili  [TRANSVESTITE] (7 instances) pilipili  [TRANSVESTITE]  (7x: Old Babylonian)  wr.  pi-li-pi-li  "homosexual lover; transvestite" Akk.  assinnu ;  parrû [1] 
+cuneiform PI.LI.PI.LI pi-li-pi-li +-0 (7x/100% ) .350030002500200015001000 (no date) [1]71 distinct form attested; click to view forms table.1.  homosexual lover  (7x/100%) ~  LEX/Old Babylonian/Nippur   pi-li-pi-li   OB Nippur Lu279.2.  transvestite Akk.  assinnu  "(male cultic prostitute)" ;  parrû  "(homosexual) lover" . See ETCSL:  pi-li-pi-li=type of cult performer . pirig  [BRIGHT] pirig  [BRIGHT]  wr.  pirig2 ;  pirig3  "bright" Akk.  namru [1] 
+cuneiform UD pirig2 [2] 
+cuneiform |PIRIG×UD| pirig31.  bright Akk.  namru  "bright, shining" . piriĝ  [LION] (205 instances) piriĝ  [LION]  (205x: ED IIIa, ED IIIb, Old Akkadian, Lagash II, Ur III, Old Babylonian)  wr.  piriĝ ;  piriĝ3 ;  bi2-ri-iĝ3 ;  ĝeš piriĝ ;  piriĝ2  "lion; bull, wild bull" Akk.  lû ;  lābu ;  nēšu ;  rīmu [1] 
+cuneiform PIRIG piriĝ  (pirig) [2] 
+cuneiform |PIRIG×UD| piriĝ3  (pirig3 ) [3] 
+cuneiform NE.RI.|NINDA₂×NE| bi2-ri-iĝ3  (ES) [4] 
+cuneiform GIŠ.PIRIG ĝeš piriĝ  ( geš pirig) [5] 
+cuneiform UD piriĝ2 +-0 (205x/100% ) .350030002500200015001000 (no date) [1]1222164 [2]2 [3]1 [4] [5]19 distinct forms attested; click to view forms table.1.  lion  (205x/100%) ~  LEX/ED IIIa/unknown   
+ MI   piriĝ 
+ banda3   ED Plants29; 
+ 
+ MI   piriĝ 
+ šu 
+ du7   ED Plants30; 
+ 
+ MI   piriĝ 
+ šu 
+ nu-du7   ED Plants31; 
+ 
+ MI   piriĝ 
+ an-ki   ED Plants32. 
+ LEX/ED IIIb/Ebla   [[piriĝ]] =  
+ PIRIG  =  
+ ba-ri2-gum2   Ebla Sign List87. 
+ LEX/Old Babylonian/Nippur   piriĝ   OB Nippur Ura3296. 
+ ELA/ED IIIb/Girsu5(u) 
+ gin2   pirig 
+ kur-ka-kam   VS25,098 o iii1. 
+ ELA/Ur III/Drehem1(diš)   pirig   Amorites18 (pl.7) r i7; 
+ 
+ ŠU + LAGAB1(diš)   pirig   Amorites18 (pl.7) r iv16; 
+ 
+ ŠU + NIGIN #1(diš)   pirig   Amorites18 (pl.7) r iv27; 
+ 
+ kilib3-ba1(diš)   pirig   Amorites18 (pl.7) r v8; 
+ 
+ kilib3-kilib3-ba1(diš)   pirig   Amorites18 (pl.7) r v13. 
+ ELA/Ur III/Girsu3(diš)   pirig-am3   ASJ18,08824 o vi15;2(ban2 )   pirig-am3   HLC051 (pl.071) r i18; 
+ 
+ kišib3   pirig-am3   HLC383 (pl.144)7. 
+ ELA/Ur III/Umma6(diš) 
+ a2   pirig 
+ x 
+ [...] 
+ x   YNER8,09 r i10'; 
+ pirig-am3 
+ i3-dab5   MVN01,1373. 
+ unknown/Old Babylonian/unknown   
+ ka   piriĝ-ĝa2 #  =  
+ [...]   MSLSSI,17-27 iii alpha8; 
+ 
+ ka   piriĝ-ĝa2 #  =  
+ [...]   MSLSSI,17-27 vi alpha8. 
+ unknown/ED IIIb/Lagash   
+ i7-bi 
+ e3   pirig   BiMes03,26 iii3; 
+ 
+ ku6-bi 
+ ur4 
+ muš-bi   pirig 
+ dar   BiMes03,26 iii5. 
+ unknown/ED IIIb/Nippur   
+ anše   pirig 
+ su 
+ il2   ASJ16, p.43-46 prism xiv8. 
+ unknown/ED IIIb/Zabalam3(iku@c) 
+ GAN21(u@c) 
+ ur-sag # 
+ lugal #   pirig !?   BIN08,075 o i6. 
+ unknown/Old Akkadian/Girsu   
+ mu 
+ sag !?   pirig 
+ [x] 
+ d # nin-gir2-su 
+ ba-dim2   RTC2569. 
+ unknown/Ur III/Umma   pirig #-ta # 
+ a-ša3 
+ igi-e2-mah-še3 
+ gub-ba   UTI4,288116; 
+ 
+ [...] 
+ x   pirig   SANTAG7,039 o iii13'. 
+ ~ gal[big] LEX/ED IIIa/unknown   
+ MI   piriĝ 
+ gal   ED Plants28. 
+ ELA/Ur III/unclear   pirig-e 
+ a-gal-a 
+ še 
+ e-ni-ib2-gi4   Trouvaille014. 
+ ~ kag[mouth] duh[loosen] LEX/Old Babylonian/Nippur   piriĝ 
+ ka 
+ du8-a   OB Nippur Ura3298. 
+ See: e piriĝ gal; e piriĝ ug; sa piriĝ.2.  bull, wild bull Akk.  lû  "lion" ;  lābu  "lion" ;  nēšu  "lion" ;  rīmu  "wild bull" . [2005]  C. Mittermayer, Tierkopfzeichen6-10. See ETCSL:  piriĝ=lion . piriĝGI  [PLANT] (1 instances) piriĝGI  [PLANT]  (1x: Old Babylonian)  wr.  piriĝ-GI  "a plant" [1] 
+cuneiform PIRIG.GI piriĝ-GI +-0 (1x/100% ) .350030002500200015001000 (no date) [1]1 distinct form attested; click to view forms table.1.  a plant  (1x/100%) ~  See ETCSL:  piriĝ-GI=type of plant . piriĝgunu  [STONE] (1 instances) piriĝgunu  [STONE]  (1x: Old Babylonian)  wr.  na4 piriĝ-gun3  "a stone" [1] 
+cuneiform |NI.UD|.PIRIG.DAR na4 piriĝ-gun3 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a stone  (1x/100%) ~  LEX/Old Babylonian/Nippur   na4 piriĝ-gun3   OB Nippur Ura4 Seg.1,167. 
+ piriĝtur  [LION] (3 instances) piriĝtur  [LION]  (3x: Ur III, Old Babylonian)  wr.  piriĝ-tur  "lion cub" [1] 
+cuneiform PIRIG.TUR piriĝ-tur +-0 (2x/67% ) ; -ra (1x/33% ) .350030002500200015001000 (no date) [1]122 distinct forms attested; click to view forms table.1.  lion cub  (3x/100%) ~  LEX/Old Babylonian/unknown   [[piriĝ-tur]] =   =  
+ PIRIG # . TUR  =  
+ la-bu-tu   OB Diri "Oxford"567. 
+ ELA/Ur III/Girsu3(diš)   pirig-tur   ASJ18,08824 o ii13. 
+ See ETCSL:  piriĝ-tur=lion cub . piš  [BANK] (40 instances) piš  [BANK]  (40x: Old Babylonian)  wr.  piš10  "quay, port; bank, shore, rim; stream, wadi, gorge" Akk.  kibru ;  kāru ;  nahallu [1] 
+cuneiform |KI.A| piš10 +-0 (40x/100% ) .350030002500200015001000 (no date) [1]299 distinct forms attested; click to view forms table.1.  quay, port  (40x/100%) ~  LEX/Old Babylonian/unknown   [[peš10]] =   =  
+ [KI . A]  =  
+ ki #-ib-rum #   OB Diri "Oxford"320; 
+ [[peš10]] =   =   =  
+ ka-rum #   OB Diri "Oxford"321; 
+ [[peš10]] =   =   =  
+ na-hal-lum   OB Diri "Oxford"322; 
+ [[peš10]] =   =   =  
+ sa3-ah-sa3-ha-tum   OB Diri "Oxford"323. 
+ ~ X LEX/Old Babylonian/Nippur   [peš10 ( KI . A ) 
+ id2 lu2]-ru !-gu2   OB Nippur Ura2488; 
+ peš10 ( KI . A )   Nigga518; 
+ peš10 ( KI . A )   Nigga519; 
+ peš10 ( KI . A )   Nigga520. 
+ ~ gal[big] LEX/Old Babylonian/Nippur   peš10 
+ gal   OB Kagal516; 
+ peš10 ( KI . A ) 
+ gal   Nigga570. 
+ ~ gul[destroy] LEX/Old Babylonian/Nippur   peš10 
+ gul   OB Kagal515; 
+ peš10 ( KI . A ) 
+ gul   Nigga569.2.  bank, shore, rim3.  stream, wadi, gorge Akk.  kibru  "bank, shore, rim" ;  kāru  "quay, port; bank" ;  nahallu  "stream, wadi, gorge" . See ETCSL:  peš10 =bank . pizirium  [OBJECT] (3 instances) pizirium  [OBJECT]  (3x: Ur III)  wr.  pi-zi-ri2-um  "a gold object?" Akk.  pizzerium [1] 
+cuneiform PI.ZI.URU.UM pi-zi-ri2-um +-0 (3x/100% ) .350030002500200015001000 (no date) [1]31 distinct form attested; click to view forms table.1.  a gold object?  (3x/100%) ~  ELA/Ur III/Ur9(diš)   pi-zi-ri2-um 
+ ku3-sig17 
+ huš-a   UET3,06761. 
+ unknown/Ur III/Umma   
+ ŠU + LAGAB1(diš) 
+ ki-li2-lum   pi-zi-ri2-um 
+ ku3-sig17 
+ huš-a   UTI6,3800 r ii13; 
+ 
+ ŠU + LAGAB2(diš) 
+ ki-li2-lum   pi-zi-ri2-um 
+ ku3-sig17   UTI6,3800 r iii10. 
+ Akk.  pizzerium  "a gold object?" . PU  [ARCHITECTURE] (2 instances) PU  [ARCHITECTURE]  (2x: Old Babylonian)  wr.  TUL2 ;  ĝeš PU2  "architectural feature" [1] 
+cuneiform |LAGAB×U| TUL2 [2] 
+cuneiform GIŠ.|LAGAB×U| ĝeš PU2  ( geš PU2 ) +-0 (2x/100% ) .350030002500200015001000 (no date) [1]1 [2]2 distinct forms attested; click to view forms table.1.  architectural feature  (2x/100%) ~  ELA/ED IIIb/Nippur1(u@c)5(aš@c)   TUL2 
+ [...] 
+ URUDU ?-[x]   OSP1,1501. 
+ See ETCSL:  PU2 =architectural feature . PU  [FISH] (1 instances) PU  [FISH]  (1x: ED IIIa)  wr.  PU2 ku6  "a fish" [1] 
+cuneiform |LAGAB×U|.HA PU2 ku6 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a fish  (1x/100%) ~  LEX/ED IIIa/unknown   PU2 ku6   Early Dynastic Fish22. 
+ pu  [MOUTH] (21 instances) pu  [MOUTH]  (21x: ED IIIb, Old Akkadian)  wr.  pu3  "mouth" Akk.  pû [1] 
+cuneiform |KA×GAN₂@t| pu3 +-0 (21x/100% ) .350030002500200015001000 (no date) [1]93 distinct forms attested; click to view forms table.1.  mouth  (21x/100%) ~  ELA/ED IIIb/Nippur1(aš@c)   pu3-[pu3]   TMH5,004 o ii3;1(u@c)3(aš@c)   pu3-pu3   TMH5,0218;7(aš@c)   pu3-pu3   TMH5,167 o ii6; 
+ pu3-pu3   TMH5,168 o iii8;2(u@c)   pu3-pu3   OSP1,069 o ii2. 
+ ELA/Old Akkadian/Nippur1(barig@c)   pu3-pu3   OSP1,023 o xiv14; 
+ 
+ [x]   pu3-pu3   OSP1,120 o i4;2(u)2(diš)   pu3-pu35(aš@c) 
+ sila3   OSP2,084 o ii4;2(geš2 )2(u)   pu3-pu3   OSP2,09310. 
+ ELA/Old Akkadian/Sagub   
+ gu4   pu3-pu3 
+ ugula 
+ gala   MC4,4551. 
+ ELA/Ur III/Girsu1(diš) 
+ uruda 
+ sila3   pu3 
+ zu2-lum   TUT126 o ii10;1(diš) 
+ uruda 
+ a-la2   pu3 
+ zu2-lum   TUT126 o ii11. 
+ ELA/Ur III/Umma   
+ gu 
+ GAN2   pu3-ra   AAS1182; 
+ 
+ AN   pu3 * 
+ [...] 
+ ur-d [...]   OrSP47-49,481 r i7; 
+ 
+ lu2 
+ kin-gi4-a   pu3   Syracuse0608; 
+ 
+ mu 
+ us2-sa 
+ e2   pu3 
+ mu 
+ us2-sa-a-bi   UCP9-2-2,0937. 
+ ELA/Ur III/unclear   
+ mu 
+ us2-sa 
+ e2   pu3 
+ mu 
+ us2-sa-a-bi   SAKF0073. 
+ unknown/Old Akkadian/Nippur   
+ [x]   pu3-pu3 ?   OSP1,031 o ii7. 
+ unknown/Old Akkadian/unknown   
+ pap   pu3-pu3 # 
+ [...]   PBS09,035 o i2. 
+ unknown/Ur III/Umma   
+ e2-gal-še3 
+ u2 
+ KWU422   pu3 * 
+ ba-an-gar   SANTAG6,0875. 
+ unknown/Ur III/unclear   
+ [...]-d nanna 
+ mu 
+ lugal #   pu3 
+ KA × X 
+ x 
+ [...]   AAICAB1/1, pl.069,1924-13085. 
+ Akk.  pû  "mouth" . pu  [ORCHARD] (6 instances) pu  [ORCHARD]  (6x: Old Babylonian, unknown)  wr.  pu2  "fruit orchard" Akk.  şippatu [1] 
+cuneiform |LAGAB×U| pu2 +-0 (6x/100% ) .350030002500200015001000 (no date) [1]512 distinct forms attested; click to view forms table.1.  fruit orchard  (6x/100%) ~  See: a pu; nurma pu šu sub. Akk.  şippatu  "fruit orchard" . See ETCSL:  pu2 =orchard . pu  [WELL] (95 instances) pu  [WELL]  (95x: ED IIIb, Ur III, Old Babylonian, Middle Babylonian, unknown)  wr.  pu2  "lower course, footing; cistern, well; fish pond; source (of river); hole, pit; depth" Akk.  asurrû ;  būrtu ;  šuplu [1] 
+cuneiform |LAGAB×U| pu2 +-0 (95x/100% ) .350030002500200015001000 (no date) [1]83646219 distinct forms attested; click to view forms table.1.  lower course, footing  (95x/100%) ~  LEX/Old Babylonian/Nippur   pu2   OB Nippur Ura5364; 
+ pu2 
+ d lugal-inim-gi-na   OB Nippur Ura5369; 
+ [[pu2]] =  
+ pu-u2  =  
+ LAGAB × U  =  
+ bu-ur-tum   OB Aa36:1. 
+ LEX/Middle Babylonian/Nippur   pu2   Gilgamesh II021, CBS141671. 
+ LEX/unknown/unknown   
+ nu-ur2-ma   pu2 
+ x 
+ x   SLT017 r ii6'. 
+ ELA/Ur III/Drehem   
+ nig2-dab5 
+ gu2   pu2 
+ nag 
+ lugal   SACT1,1212. 
+ ELA/Ur III/Girsu1(aš) 
+ gu2   pu2   DAS0556;1(aš) 
+ gu2   pu2   HLC268 (pl.124)12; 
+ 
+ [...]   pu2   HLC286 (pl.127)13; 
+ 
+ i3-dub   pu2 
+ šu-i-ne-ta   MVN02,0741;7(diš)   pu2 
+ ba-al 
+ nag 
+ lugal   RA10,0661002';1(aš) 
+ gu2   pu2   STA301. 
+ ELA/Ur III/Nippur   
+ [...]   pu2 
+ AŠ 
+ pa   BE03/1,1483; 
+ pu2 
+ d en-ki-ta 
+ us2-bi1(geš2 )4(u)   Nik2,4413. 
+ ELA/Ur III/Umma   pu2 
+ KA 
+ ne-sag-ka 
+ du8-de3   Atiqot4, pl.04232;4(diš) 
+ kuš 
+ gu4   pu2-bi   BIN05,1302; 
+ 
+ e2   pu2 
+ nag 
+ lugal-ka-še3   CHEU0091;3(u)2(diš) 
+ kuš 
+ udu 
+ u2   pu2   Nebraska073;3(u)1(barig) 
+ kaš 
+ gur   pu2   YOS04,256 o ii12;3(u)1(diš) 
+ guruš   pu2 
+ ba-al-la   MLC1919 Turner o i18. 
+ unknown/Ur III/Girsu1(aš) 
+ gu2   pu2   ASJ18,224 HSM64342; 
+ 
+ i3-dub   pu2 
+ šu-i-ka-ta   BM Messenger337 r iv5; 
+ 
+ geme2 
+ uš-bar   pu2-ta-me   TCTI2,041631;1(ban2 )1/2(diš)   pu2   ITT3,06604 r ii5. 
+ unknown/Ur III/Umma2(iku)1/4(iku) 
+ GAN2 
+ gešimmar 
+ tur3(iku)1/4(iku) 
+ GAN2   pu2   MVN16,074218;1/2(iku) 
+ GAN2   pu2   MVN16,074221; 
+ pu2 
+ ba-al-la   MVN16,10556. 
+ ~ DN LEX/Old Babylonian/Nippur   pu2 
+ d en-ki   OB Nippur Ura5368; 
+ pu2 
+ d šu-zi-an-na   OB Nippur Ura5370. 
+ ~ kug[pure] LEX/Old Babylonian/Nippur   pu2 
+ kug   OB Nippur Ura5367. 
+ ~ pad[find] LEX/Middle Babylonian/Nippur   pu2-ta 
+ pad3-du   Gilgamesh II021, CBS141673. 
+ See: a pu; eš pu.2.  cistern, well3.  fish pond4.  source (of river)5.  hole, pit6.  depth Akk.  asurrû  "lower course, footing (of a wall)" ;  būrtu  "cistern, well" ;  šuplu  "depth" . [1995]  M. Powell, Origins and Ancient History of Wine105. [1981]  P. Steinkeller, ZA7126-28. [1972]  M. Powell, ZA62191 n61;210-211 n128. See ETCSL:  pu2 =(water) hole . pudpad  [SOUND] pudpad  [SOUND]  wr.  pu-ud-pa-ad  "a sound (onomatopoeic)" See  pudpad za[make noise] . [1] 
+cuneiform BU.UD.PA.AD pu-ud-pa-ad1.  a sound (onomatopoeic) pudpad za  [MAKE NOISE] (1 instances) pudpad za  [MAKE NOISE]  (1x: Old Babylonian)  wr.  pu-ud-pa-ad za  "to make noise" ( pudpad[sound]  +  za[cvve] ) [1] 
+cuneiform BU.UD.PA.AD ZA pu-ud-pa-ad za +-0 (1x/100% ) .350030002500200015001000 (no date) [1]1 distinct form attested; click to view forms table.1.  to make noise  (1x/100%) ~  [2003]  J. Black, Studies Wilcke41. [1989]  P. Michalowski, LSU99-100. [1966]  M. Civil, JCS20119-121. See ETCSL:  pu-ud-pa-ad=rumbling noise . puglu  [UNMNG] puglu  [UNMNG]  wr.  puglu  "" [1] 
+cuneiform |ŠA₃.GI| puglu1.   pugpag  [SOUND] pugpag  [SOUND]  wr.  pu-ug-pa-ag  "a sound (onomatopoeic)" See  pugpag za[make noise] . [1] 
+cuneiform BU.|PIRIG×UD|.PA.AK pu-ug-pa-ag1.  a sound (onomatopoeic) pugpag za  [MAKE NOISE] pugpag za  [MAKE NOISE]  wr.  pu-ug-pa-ag za  "to make noise" ( pugpag[sound]  +  za[cvve] ) [1] 
+cuneiform BU.|PIRIG×UD|.PA.AK ZA pu-ug-pa-ag za1.  to make noise [2003]  J. Black, Studies Wilcke50-51. [1966]  M. Civil, JCS20119-121. puhrum  [ASSEMBLY] (19 instances) puhrum  [ASSEMBLY]  (19x: Ur III, Old Babylonian)  wr.  pu-uh2-ru-um ;  pu-uh3-ru-um ;  pu-uh2-rum ;  pu-uh-ru-um ;  pu-hu-ru-um  "assembly" Akk.  puhru [1] 
+cuneiform BU.|UD.KUŠU₂|.RU.UM pu-uh2-ru-um [2] 
+cuneiform BU.KUŠU₂.RU.UM pu-uh3-ru-um [3] 
+cuneiform BU.|UD.KUŠU₂|.AŠ pu-uh2-rum [4] 
+cuneiform BU.|HI×NUN|.RU.UM pu-uh-ru-um [5] 
+cuneiform BU.HU.RU.UM pu-hu-ru-um +-0 (15x/79% ) ; -ma (4x/21% ) .350030002500200015001000 (no date) [1]36 [2]11 [3]2 [4]1 [5]112 distinct forms attested; click to view forms table.1.  assembly  (19x/100%) ~  ELA/Ur III/Adab1(geš2 ) 
+ zi3 
+ u3   pu-uh3-ru-um   MVN03,3691. 
+ ELA/Ur III/Nippur   pu-uh2-ru-um 
+ nibru ki-ka   Hallo RAI43 Prague Handout7. 
+ ELA/Ur III/unclear   pu-uh2-ru-um-še3 
+ in-il2   ZA55,7115; 
+ pu-uh2-ru-um-e   ZA55,7116. 
+ Akk.  puhru  "assembly" . See ETCSL:  pu-uh2-ru-um=assembly . pukiri  [ORCHARD] (33 instances) pukiri  [ORCHARD]  (33x: Ur III, Old Babylonian)  wr.  pu2-ĝeš kiri6  "irrigated orchard" Akk.  ? [1] 
+cuneiform |LAGAB×U|.GIŠ.SAR pu2-ĝeš kiri6  (pu2-geš kiri6 ) +-0 (33x/100% ) .350030002500200015001000 (no date) [1]2218 distinct forms attested; click to view forms table.1.  irrigated orchard  (33x/100%) ~  ELA/Ur III/Umma   pu2-geš kiri6   MVN14,00573. 
+ unknown/Ur III/Umma   pu2-geš kiri6   MVN21,2053. 
+ Akk.  ? . [1995]  K. Volk, Inanna-Shukaletuda189 wn888. See ETCSL:  pu2-kiri6 =orchard . pusaĝ  [PIT] (8 instances) pusaĝ  [PIT]  (8x: ED IIIb, Ur III, Old Babylonian)  wr.  pu2-saĝ  "pit, hollow" Akk.  šatpu [1] 
+cuneiform |LAGAB×U|.SAG pu2-saĝ  (pu2-sag) +-0 (8x/100% ) .350030002500200015001000 (no date) [1]1245 distinct forms attested; click to view forms table.1.  pit, hollow  (8x/100%) ~  ELA/ED IIIb/Girsu1(aš@c) *   pu2 *-sag   Nik1,307 o ii3. 
+ ELA/Ur III/Umma2(geš2 ) 
+ ninda 
+ AŠ 
+ d dumu-zi 
+ u3   pu2-sag 
+ urua a   MVN10,096 r i10;6(diš) 
+ gin2 
+ ku3 
+ a2 
+ ma   pu2-sag-ga2   Nik2,4013. 
+ See: a pusaĝ. Akk.  šatpu  "excavation, pit, hollow" . [1995]  M. Powell, Origins and Ancient History of Wine105. See ETCSL:  pu2-saĝ=pit . puzur  [CALL] (1 instances) puzur  [CALL]  (1x: Old Babylonian)  wr.  puzur4  "call" [1] 
+cuneiform |KA×GAN₂@t.ŠA| puzur4 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  call  (1x/100%) ~  LEX/Old Babylonian/Nippur   [[puzur4]] =   =   =  
+ ra-ga-mu-um   OB Diri Nippur28. 
+ puzur  [CAVITY] puzur  [CAVITY]  wr.  puzur3  "cavity, cave" Akk.  huppu [1] 
+cuneiform |U.ZAG| puzur31.  cavity, cave Akk.  huppu  "hole, pit?" . puzur  [SECRET] (5 instances) puzur  [SECRET]  (5x: Old Babylonian)  wr.  puzur4 ;  puzur5 ;  puzur ;  puzur2  "secret, shelter; protection, aegis, shadow, shelter" Akk.  puzru [1] 
+cuneiform |KA×GAN₂@t.ŠA| puzur4 [2] 
+cuneiform |KA×GAN₂@t| puzur5 [3] 
+cuneiform U puzur [4] 
+cuneiform |U.U| puzur2 +-0 (5x/100% ) .350030002500200015001000 (no date) [1]4 [2]1 [3] [4]2 distinct forms attested; click to view forms table.1.  secret, shelter  (5x/100%) ~  LEX/Old Babylonian/Nippur   [[puzur4]] =  
+ pu3 #-zu #-ur2 #  =  
+ KA × KAR2 . ŠA  =  
+ pu-uz-ru-um   OB Diri Nippur27. 
+ LEX/Old Babylonian/unknown   [[puzur4]] =  
+ pu3-zur8  =  
+ KA × GAN2 @t-ŠA  =  
+ pu-uz-rum   OB Diri "Oxford"26; 
+ [[puzur4]] =   =   =  
+ du-u2-tum   OB Diri "Oxford"27; 
+ [[puzur4]] =   =   =  
+ ša-ha #-a-tum   OB Diri "Oxford"28.2.  protection, aegis, shadow, shelter Akk.  puzru  "concealment" . 
+ePSD icon   ePSD  
+	  contacts:  Steve 
+          Tinney  and  Philip Jones .
+ 

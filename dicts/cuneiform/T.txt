@@ -1,0 +1,669 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ePSD Sumerian Citation Form Index 
+ T 
+ 
+ 
+ TA×ŠE 
+ TA×ŠE  [ FISH ]  wr.  TAxŠE ku6  "a fish" 
+ 
+ 
+ ta'am 
+ ta'am  [ EACH ]  wr.  ta-am3  "each" 
+ 
+ 
+ tab 
+ tab  [ BEGIN ]  wr.  tab  "to begin" Akk.  šurrû 
+ tab  [ BURN ]  wr.  tab ;  tab2  "to burn, fire; to dye (red); to brand, mark" Akk.  hamāţu ;  šamātu ;  şarāpu 
+ tab  [ COMPANION ]  wr.  tab ;  tab4  "companion, partner" 
+ tab  [ DOUBLE ]  wr.  tab ;  tab4  "to double; to repeat; companion, partner" Akk.  eşēpu ;  tappû 
+ tab  [ FLATTEN ]  wr.  tab  "to flatten" Akk.  sapānu 
+ tab  [ GRASP ]  wr.  tab  "to grasp" Akk.  tamāhu 
+ tab  [ ILLNESS ]  wr.  tab  "illness, disease" Akk.  murşu 
+ 
+ 
+ taba 
+ taba  [ COMPANION ]  wr.  lu2 tab-ba  "companion" Akk.  tappû 
+ 
+ 
+ TAba 
+ TAba  [ STONE ]  wr.  na4 TA-ba  "a stone" 
+ 
+ 
+ tabba 
+ tabba  [ VEGETABLE? ]  wr.  tab-ba sar  "a vegetable?" Akk.  agabu 
+ 
+ 
+ TABME 
+ TABME  [ SAW ]  wr.  TAB.ME  "a saw" 
+ 
+ 
+ tabus 
+ tabus  [ COMPANION ]  wr.  tab-us2  "companion" 
+ 
+ 
+ tag 
+ tag  [ TOUCH ]  wr.  tag  "to touch, take hold of; to bind; to attack" Akk.  lapātu ;  rakāsu 
+ 
+ 
+ tah 
+ tah  [ ADD ]  wr.  tah  "to add, increase" Akk.  aşābu 
+ 
+ 
+ tahab 
+ tahab  [ SOAK? ]  wr.  ta-hab2 ;  ta-ta-hab2 ;  ta-hab  "to ooze, drip?; to soak, saturate?" 
+ 
+ 
+ tahhum 
+ tahhum  [ REPLACEMENT ]  wr.  dah-hu-um  "replacement" Akk.  tahhum 
+ 
+ 
+ tak 
+ tak  [ UNMNG ]  wr.  tak4 ;  da  "" 
+ 
+ 
+ TAK.ALAN 
+ TAK.ALAN  [ CRAFTSMAN ]  wr.  |TAK4 .ALAN|  "craftsman" 
+ 
+ 
+ taka 
+ taka  [ ABANDON ]  wr.  tak4  "to set aside, leave behind; to save, keep back, hold back" Akk.  ezēbu ;  uhhuru ;  šêtu 
+ taka  [ CVVE ]  wr.  taka4 ;  taka x (BALAG)  "(compound verb verbal element)" 
+ 
+ 
+ taka la 
+ taka la  [ OPEN ]  wr.  taka4  la2  "to open" 
+ 
+ 
+ tal 
+ tal  [ BROAD ]  wr.  tal2  "(to be) broad, expand" Akk.  rapāšu 
+ tal  [ CLAMOR ]  wr.  tal3 ;  ti-il ;  tal ;  tal4 ;  tal5 ;  ta-il ;  til  "cry, clamour; battle cry" Akk.  ikkillu ;  tanūqātu ;  šīsu 
+ 
+ 
+ talium 
+ talium  [ VEGETABLE ]  wr.  ta-li2 -um  "a vegetable" 
+ 
+ 
+ tam 
+ tam  [ CLEAN ]  wr.  tam ;  tan2  "(to be) bright; (to be) pure; to purify; (to be) clean" Akk.  ebbu ;  elēlu ;  zakû 
+ tam  [ TRUST ]  wr.  dam ;  tam  "to trust; to believe" Akk.  qīapu 
+ 
+ 
+ tar 
+ tar  [ CUT ]  wr.  tar ;  tar ar  "to cut down; to untie, loosen; to cut; to scatter, disperse; to decide" Akk.  harāşu ;  parāsu ;  paţāru ;  sapāhu 
+ tar  [ FISH ]  wr.  tar ku6  "a kind of fish" 
+ 
+ 
+ TAR 
+ TAR  [ BIRD ]  wr.  TAR mušen  "a bird" Akk.  şibāru 
+ TAR  [ DISEASE ]  wr.  TAR  "a disease" Akk.  kettu 
+ 
+ 
+ targul 
+ targul  [ POLE ]  wr.  targul ;  targul x (|MA2 .KAK|)  "a wooden tool used in weaving; mooring pole; mooring rope; mast" Akk.  tarkullu 
+ 
+ 
+ tarKAK 
+ tarKAK  [ POLE ]  wr.  tar2 -KAK  "mooring pole" 
+ 
+ 
+ tarluh 
+ tarluh  [ PROFESSION ]  wr.  tar-luh  "a profession" 
+ 
+ 
+ taškarin 
+ taškarin  [ BOXWOOD ]  wr.  ĝeš taškarin ;  taškarin  "box tree, boxwood" Akk.  taskarinnu 
+ taškarin  [ KING ]  wr.  ĝeš taskarin  "king" 
+ taškarin  [ LUXURIANT ]  wr.  ĝeš taskarin  "luxuriant" 
+ taškarin  [ PURE ]  wr.  ĝeš taskarin  "pure" 
+ taškarin  [ TALL ]  wr.  ĝeš taskarin  "tall" 
+ 
+ 
+ tašliš 
+ tašliš  [ UNMNG ]  wr.  taš-liš ;  UR.GAM  "" 
+ 
+ 
+ te 
+ te  [ BOAT ]  wr.  ĝeš te ;  ĝeš ti  "a part of a boat, cart or chariot" Akk.  dapānu 
+ te  [ CHEEK ]  wr.  te  "cheek" Akk.  lētu 
+ te  [ MEMBRANE ]  wr.  te  "membrane" Akk.  šišītu 
+ te  [ PIERCE ]  wr.  te  "to pierce" Akk.  sahālu 
+ 
+ 
+ teĝ 
+ teĝ  [ APPROACH ]  wr.  teĝ3 ;  teĝ4  "(to be) near to; to approach" Akk.  ţehû 
+ 
+ 
+ tehi 
+ tehi  [ APPROACH ]  wr.  tehi2 ;  tehi  "to approach" Akk.  ţehû 
+ tehi  [ DISEASE ]  wr.  dih2  "disease" 
+ 
+ 
+ teme 
+ teme  [ PLANT ]  wr.  teme ;  teme2  "a plant" Akk.  šāmitu 
+ 
+ 
+ temen 
+ temen  [ FOUNDATION ]  wr.  temen  "foundation" Akk.  temennu 
+ 
+ 
+ ten 
+ ten  [ COOL ]  wr.  te-na ;  te-en  "to be cool, become cool" 
+ ten  [ EXTINGUISH ]  wr.  te-en ;  ten  "to extinguish" Akk.  belû 
+ ten  [ UNMNG ]  wr.  ten3  "" 
+ 
+ 
+ terzum 
+ terzum  [ PRESENTATION ]  wr.  te-er-zum  "presentation" 
+ 
+ 
+ teš 
+ teš  [ PRIDE ]  wr.  teš2  "pride" Akk.  bāštu 
+ teš  [ UNITY ]  wr.  teš2  "unity" 
+ teš  [ VOICE ]  wr.  te-eš  "voice" Akk.  rigmu 
+ 
+ 
+ tešbi 
+ tešbi  [ UNMNG ]  wr.  tešbi  "" 
+ 
+ 
+ tešlug 
+ tešlug  [ HATCHLING ]  wr.  tešlug  "hatchling" Akk.  atmu 
+ 
+ 
+ teštuku 
+ teštuku  [ PROUD ]  wr.  teš2 -tuku  "proud" 
+ 
+ 
+ tete 
+ tete  [ DISEASE ]  wr.  te-te  "a disease" Akk.  suhumu 
+ 
+ 
+ ti 
+ ti  [ ARROW ]  wr.  ti  "arrow" 
+ ti  [ BIRD ]  wr.  ti8 mušen  "a bird of prey" Akk.  erû 
+ ti  [ FISH ]  wr.  ti ku6  "a fish" 
+ ti  [ RIB ]  wr.  uzu ti  "rib" Akk.  şilu 
+ ti  [ UNMNG ]  wr.  ĝeš ti  "unmng" 
+ 
+ 
+ ti bala 
+ ti bala  [ TURN SIDEWAYS ]  wr.  ti bala  "to turn sideways" Akk.  ? 
+ 
+ 
+ ti rah 
+ ti rah  [ SHOOT ]  wr.  ti rah2  "to shoot an arrow" Akk.  ? 
+ 
+ 
+ ti'arum 
+ ti'arum  [ TREE ]  wr.  ĝeš ti-a-ru-um  "a tree" 
+ 
+ 
+ tibala 
+ tibala  [ SIGN ]  wr.  ĝeš ti-bal ;  urudu ti-bal  "sign" Akk.  şaddu 
+ 
+ 
+ tibir 
+ tibir  [ HAND ]  wr.  tibir ;  tibir2 ;  tibir4 ;  tibir3  "hand; fist" Akk.  qātu ;  rittu ;  upnu 
+ tibir  [ UNMNG ]  wr.  tibir5  "" 
+ 
+ 
+ tibira 
+ tibira  [ SCULPTOR ]  wr.  tibira  "sculptor" Akk.  qurqurru 
+ 
+ 
+ tibnu 
+ tibnu  [ UNMNG ]  wr.  tibnu  "" 
+ 
+ 
+ tidil 
+ tidil  [ CRAMPED ]  wr.  ti-di-il  "(to be) cramped" 
+ 
+ 
+ tigi 
+ tigi  [ INSTRUMENT ]  wr.  tigi  "drum or other musical instrument; type of song" Akk.  tigû 
+ 
+ 
+ tigidlu 
+ tigidlu  [ BIRD ]  wr.  ti-gi4 -lu mušen ;  ti-lu ;  ti-gid2 -lu2 mušen ;  ti-gid2 mušen -lu2 -a ;  tigidla ;  tigidla3 ;  tigidla x (|ŠA3 .MIN.TAR|) ;  ti-id-lu ;  da-gi4 -lum x (|ZU&ZU.SAR|)  "a bird" Akk.  tigi(l)lû 
+ tigidlu  [ INSTRUMENT ]  wr.  tigidla ;  tigidla x (|ŠA3 .MIN.DI|) ;  tigidla x (|ŠA3 .MIN.TAR|) ;  ĝeš DI.TAR  "a musical instrument" 
+ 
+ 
+ tigul 
+ tigul  [ POT ]  wr.  dug ti-gul  "a pot" Akk.  karpatu 
+ 
+ 
+ tikil 
+ tikil  [ POINTED ]  wr.  ti-ki-il  "(to be) pointed" 
+ 
+ 
+ tikutikumae 
+ tikutikumae  [ BIRD-CRY ]  wr.  ti-ku-ti-ku-ma-e  "bird-cry" 
+ 
+ 
+ til 
+ til  [ COMPLETE ]  wr.  til ;  til3  "(to be) complete(d); (to be) old, long-lasting; to end" Akk.  gamāru ;  labāru ;  qatû 
+ til  [ LIVE ]  wr.  til3  "to live; to sit (down); to dwell" Akk.  ašābu ;  balāţu 
+ til  [ POLE ]  wr.  til  "a pole, part of a wooden object" 
+ 
+ 
+ tilhar 
+ tilhar  [ CLOUD ]  wr.  tilhar  "cloud" Akk.  upû 
+ 
+ 
+ tilima 
+ tilima  [ CUP ]  wr.  dug ti-lim ;  dug ti-li-ma  "a cup" Akk.  tilimatu 
+ 
+ 
+ tilimda 
+ tilimda  [ VESSEL ]  wr.  ti-lim-da  "a water vessel" Akk.  tilimdû 
+ 
+ 
+ tilla 
+ tilla  [ STREET ]  wr.  tilla2 ;  tilla3 ;  tilla ;  tilla4 ;  tilla5 ;  tilla x (|AN&AN|)  "street" Akk.  sūqu 
+ 
+ 
+ tillug 
+ tillug  [ ELEPHANT ]  wr.  til-lu-ug  "elephant" Akk.  pīru 
+ 
+ 
+ tir 
+ tir  [ BOW ]  wr.  tir ;  ĝeš tir  "bow" 
+ tir  [ FOREST ]  wr.  tir ;  ĝeš tir  "mud; forest, wood" Akk.  luhummû ;  qištu 
+ tir  [ FORESTER ]  wr.  lu2 tir ;  tir  "forester" 
+ tir  [ PLANT ]  wr.  u2 tir  "a plant" 
+ tir  [ UNMNG ]  wr.  tir5 ;  tir4  "" 
+ 
+ 
+ tirana 
+ tirana  [ RAINBOW ]  wr.  tir-an-na  "rainbow" 
+ 
+ 
+ tirida 
+ tirida  [ BIRD-CRY ]  wr.  ti-ri2 -da  "a bird-cry" 
+ tirida  [ BIRD ]  wr.  ti-ri2 -da mušen ;  tir-dug3 mušen ;  tir-du mušen  "a bird" 
+ tirida  [ RUNAWAY ]  wr.  ti-ri2 -ga ;  ti-ri2 -da  "runaway" 
+ 
+ 
+ tiridanu 
+ tiridanu  [ EVIL ]  wr.  ti-ri2 -da-nu  "(to be) evil" 
+ 
+ 
+ tirigi 
+ tirigi  [ UNMNG ]  wr.  tirigi  "" 
+ 
+ 
+ tiru 
+ tiru  [ COURTIER ]  wr.  tiru ;  TE.GAL?  "courtier" Akk.  māri ekallim 
+ 
+ 
+ tisa 
+ tisa  [ UNMNG ]  wr.  ti-sa2  "?" Akk.  ? 
+ 
+ 
+ tisah 
+ tisah  [ FIGHT ]  wr.  ti-sah4  "fight" Akk.  ašgagu 
+ 
+ 
+ tišub 
+ tišub  [ POT ]  wr.  dug ti-šub  "a pot" Akk.  karpatu 
+ 
+ 
+ titab 
+ titab  [ ~BEER ]  wr.  titab2 ;  titab  "an ingredient in beer-making" Akk.  titāpū 
+ 
+ 
+ TIUM 
+ TIUM  [ UNMNG ]  wr.  TI.UM  "?" 
+ 
+ 
+ ti'uz 
+ ti'uz  [ BIRD ]  wr.  ti8 -uz mušen ;  ti8 -uš2 mušen ;  da-uz  "a bird" Akk.  nadru 
+ 
+ 
+ tu 
+ tu  [ BEAT ]  wr.  tu14  "to beat; to weave" Akk.  mahāşu ;  ţurru 
+ tu  [ CVVE ]  wr.  tu5 ;  tu17 ;  tu15  "(compound verb verbal element)" 
+ tu  [ FISH ]  wr.  tu ku6  "a fish" 
+ tu  [ INCANTATION ]  wr.  tu6  "incantation, spell" Akk.  šiptu 
+ tu  [ LEADER ]  wr.  tu x (|KA×UD|)  "leader" Akk.  babalu 
+ tu  [ PRIEST ]  wr.  tu  "priest" 
+ tu  [ SOUP ]  wr.  tu7  "soup, broth" Akk.  ummaru 
+ 
+ 
+ TU 
+ TU  [ PRIEST ]  wr.  TU  "type of priest" 
+ TU  [ SHEEP ]  wr.  TU  "sheep" 
+ 
+ 
+ tub 
+ tub  [ SMITE ]  wr.  tu11 ;  tu10  "to heap up; to strike down" Akk.  hatû ;  kamāru 
+ 
+ 
+ tuba 
+ tuba  [ UNMNG ]  wr.  tuba3  "?" Akk.  pirsānu 
+ 
+ 
+ TUBA 
+ TUBA  [ UNMNG ]  wr.  TU9 .BA  "?" 
+ 
+ 
+ tubala 
+ tubala  [ HARNESS ]  wr.  tuba x (TUG2 )-la2 -a  "harness (for climbing)" 
+ 
+ 
+ tubatum 
+ tubatum  [ GARMENT ]  wr.  tug2 tu-ba-tum  "a garment" 
+ 
+ 
+ tubatum.KU.za 
+ tubatum.KU.za  [ GARMENT ]  wr.  tug2 tu-ba-tum-KU-za  "a garment" 
+ 
+ 
+ tubul 
+ tubul  [ CVVE ]  wr.  tu-bu-ul  "(compound verb verbal element)" 
+ 
+ 
+ tud 
+ tud  [ BEAT ]  wr.  tud2  "to hit, beat" Akk.  naţû 
+ 
+ 
+ tuditum 
+ tuditum  [ TOGGLE PIN ]  wr.  tu-di-da ;  urud tu3 -di3 -da ;  tu-di-tum zabar ;  urud tu3 -di-da ;  urud tu-di3 -da  "toggle pin" Akk.  tudittu 
+ 
+ 
+ tuduga 
+ tuduga  [ INCANTATION FORMULA ]  wr.  tu6 -dug4 -ga  "incantation formula" 
+ tuduga  [ INCANTATION ]  wr.  tu6 -dug4  "incantation" Akk.  šiptu, tuduqqu 
+ 
+ 
+ tudur 
+ tudur  [ JEWELRY? ]  wr.  tu-dur  "jewelry?" 
+ 
+ 
+ tug 
+ tug  [ PLOW? ]  wr.  tug x (LAK483)  "a kind of plow?" 
+ tug  [ TEXTILE ]  wr.  tug2  "textile, garment" Akk.  şubātu 
+ 
+ 
+ tug sig 
+ tug sig  [ PLOW? ]  wr.  tug x (LAK483) sig9  "to plow, to apply a certain type of plow" 
+ tug sig  [ STRIP ]  wr.  tug2  sig9  "to strip" Akk.  šahāţu 
+ 
+ 
+ tug tag 
+ tug tag  [ PLOW? ]  wr.  tug2  tag  "to plow, to apply a certain type of plow?" Akk.  mahāşu ša [...] 
+ 
+ 
+ tug ur 
+ tug ur  [ ABANDON ]  wr.  tug2  ur3  "to abandon (a claim)" 
+ 
+ 
+ tugdu 
+ tugdu  [ FELTER ]  wr.  tug2 -du8  "felter" 
+ 
+ 
+ tugdua 
+ tugdua  [ FELT ]  wr.  tug2 -du8 -a  "felt" 
+ 
+ 
+ tuggilima 
+ tuggilima  [ PROFESSION ]  wr.  tug2 -gilim-ma  "a profession" 
+ 
+ 
+ tuggumma 
+ tuggumma  [ GARMENT ]  wr.  tug2 -gum-ma  "type of garment" 
+ 
+ 
+ tuggun 
+ tuggun  [ GARMENT ]  wr.  tug2 -gun4 ;  tug2 -gun5  "a garment" 
+ 
+ 
+ tuggur 
+ tuggur  [ PLOW ]  wr.  tug2 -gur10 ;  tug2 -gur x (|ŠE.KIN|) ;  ĝeš tug2 -gur10 ;  tug2 -gur ;  ĝeš tug2 -gur8 ;  tukur x (|LAGAB×U|)  "a plow; to plow, to apply a tuggur-plow" 
+ 
+ 
+ tugguza 
+ tugguza  [ TEXTILE ]  wr.  tug2 -guz-za ;  tug2 -gu-za  "a textile" Akk.  haşbu 
+ 
+ 
+ tugkurum 
+ tugkurum  [ ~MOURNING ]  wr.  tug2 -ku-ru-um  "mourning garment?" 
+ 
+ 
+ tugmudura 
+ tugmudura  [ MOURNING GARMENT ]  wr.  tug2 -mu-dur7 -ra ;  tug2 -mudra6  "mourning garment" Akk.  şubat arišti 
+ 
+ 
+ tugsaga 
+ tugsaga  [ PLOW ]  wr.  tug2 -saga11 ;  ĝeš tug2 -sig18 ;  ĝeš tug2 -sa-ga ;  šu-saga11 ;  ĝeš tug2 -sig x (|ŠE.KIN|) ;  tug x (LAK483)-sig9  "a plow" 
+ 
+ 
+ TUGŠAHA 
+ TUGŠAHA  [ GARMENT ]  wr.  TUG2 .ŠA3 .HA  "a garment" 
+ 
+ 
+ tugšukarak 
+ tugšukarak  [ PROFESSION ]  wr.  tug2 -šu-kar2 -ak  "a profession" 
+ 
+ 
+ tugšukura 
+ tugšukura  [ PROFESSION ]  wr.  tug2 -šukur-ra  "a profession" 
+ 
+ 
+ tugšukurura 
+ tugšukurura  [ PROFESSION ]  wr.  tug2 -šukur-ur3 -ra  "a profession" 
+ 
+ 
+ tugtug 
+ tugtug  [ ~LOOM ]  wr.  ĝeš tug2 -tug2  "a designation of looms" Akk.  mukānu 
+ 
+ 
+ tugul 
+ tugul  [ BOAT ]  wr.  ĝeš tu-gul  "a part of a boat?" 
+ 
+ 
+ tugulla 
+ tugulla  [ BIRD ]  wr.  tu-gul-la mušen  "a bird" Akk.  urţû 
+ 
+ 
+ tugur 
+ tugur  [ DOVE ]  wr.  tu-gur4 mušen ;  tu-gur8 mušen ;  tu-gur5 mušen ;  tum12 -gur mušen ;  tu-gan2 mušen ;  tu-gan mušen  "dove" Akk.  sukannīnu 
+ 
+ 
+ tugure 
+ tugure  [ UNMNG ]  wr.  tugure  "" 
+ 
+ 
+ tugX 
+ tugX  [ GARMENT ]  wr.  tug2 -X  "a garment" 
+ 
+ 
+ tuhul 
+ tuhul  [ HIP ]  wr.  tuhul  "hip bone" Akk.  giššu 
+ 
+ 
+ tuhulkud 
+ tuhulkud  [ CRIPPLE ]  wr.  tuhul-kud  "cripple" 
+ 
+ 
+ tuk 
+ tuk  [ BREAK ]  wr.  tuk x (|IM.KAD3 |)  "to break off, pinch off; to cut, fell; to demolish; to scratch; to soften, dissolve" Akk.  karāşu ;  nakāsu ;  naqāru ;  narābu 
+ 
+ 
+ tuku 
+ tuku  [ ACQUIRE ]  wr.  tuku  "to acquire, get; to marry" Akk.  rašû 
+ tuku  [ BEAT ]  wr.  tuku5  "to beat, strike of cloth; to weave" Akk.  mahāşu 
+ tuku  [ ROCK ]  wr.  tuku4 ;  tu-ku  "to rock, shift" Akk.  nâšu 
+ 
+ 
+ tukul 
+ tukul  [ WEAPON ]  wr.  ĝeš tukul ;  tukul  "stick; weapon" Akk.  kakku 
+ 
+ 
+ tukulšunir 
+ tukulšunir  [ EMBLEM ]  wr.  ĝeš tukul-šu-nir  "a divine emblem" Akk.  maşrahtu ;  maşrahu 
+ 
+ 
+ tukum 
+ tukum  [ IF ]  wr.  tukum  "soon, perhaps; if" Akk.  surri ;  šumma 
+ 
+ 
+ tukumbi 
+ tukumbi  [ IF ]  wr.  tukumbi  "if" Akk.  šumma 
+ 
+ 
+ tukur 
+ tukur  [ CHEW ]  wr.  tukur2 ;  tukur ;  tukur3  "to chew, gnaw; to shear, pluck wool" Akk.  gaşaşu ;  kasāsu ;  sepû siki 
+ tukur  [ IMPORTANT ]  wr.  tukur2 ;  tukur  "important" Akk.  kabtu 
+ 
+ 
+ tul 
+ tul  [ FOUNTAIN ]  wr.  tul2 ;  |LAGAB×TIL|  "public fountain; fish pond, pit; ditch, channel; excavation, trench" Akk.  būrtu ;  hirītu ;  kalakku 
+ 
+ 
+ tulsaĝ 
+ tulsaĝ  [ EXCAVATION ]  wr.  tul2 -saĝ  "excavation" 
+ 
+ 
+ tulu 
+ tulu  [ SLACKEN ]  wr.  tu-lu ;  tu-ul  "to slacken" Akk.  ramû 
+ 
+ 
+ tulubum 
+ tulubum  [ TREE ]  wr.  geš gul-bu ;  ĝeš tu-lu-bu-um ;  ĝeš dili-bu-um ;  gul-bu ;  ĝeš dal-bu-um  "Oriental plane tree" Akk.  dulbu 
+ 
+ 
+ tum 
+ tum  [ BRING ]  wr.  tum3 ;  tum2  "imperfect singular stem of de[to bring]" 
+ tum  [ CROSS-BEAM ]  wr.  tum  "cross-beam" Akk.  hurdatu 
+ tum  [ DOVE ]  wr.  tum12 mušen  "wild dove" Akk.  summatu 
+ tum  [ FISH ]  wr.  tum12 mušen ku6  "a fish" 
+ tum  [ SUITABLE ]  wr.  tum2  "to be suitable" 
+ tum  [ UNMNG ]  wr.  tum2 ;  tum4  "" 
+ 
+ 
+ TUM 
+ TUM  [ STONE? ]  wr.  na4 TUM  "a stone?" 
+ 
+ 
+ TUME 
+ TUME  [ UNMNG ]  wr.  TU9 .ME  "?" 
+ 
+ 
+ tumgur 
+ tumgur  [ BIRD ]  wr.  tum12 -gur4 mušen ;  tum12 -gur8 mušen ;  tum12 mušen -gur8 ;  tum12 -kur2 mušen ;  tum12 -kur mušen  "a domesticated dove" Akk.  sukannīnu 
+ 
+ 
+ tumibi 
+ tumibi  [ BIRD ]  wr.  tum12 -i-bi2 mušen  "a bird" 
+ 
+ 
+ TUMkeš 
+ TUMkeš  [ BIRD ]  "type of bird" 
+ 
+ 
+ tumšugur 
+ tumšugur  [ RING? ]  wr.  tum12 -šu-gur4  "dove-shaped ring?" 
+ 
+ 
+ tumtume 
+ tumtume  [ RODENT ]  wr.  peš2 tum2 -tum2 -me ;  tum2 -tum2 -me  "a rodent" Akk.  asqūdu 
+ 
+ 
+ tumu 
+ tumu  [ WIND ]  wr.  tumu  "wind" 
+ 
+ 
+ tumudal 
+ tumudal  [ WIND ]  wr.  tumu-dal  "storm wind" 
+ 
+ 
+ tun 
+ tun  [ AX ]  wr.  urud tun3 ;  tun3  "ax, adze" Akk.  pāšu 
+ tun  [ CONTAINER ]  wr.  ĝeš tun3 ;  tun3  "bag; stomach; a container" Akk.  tākaltu 
+ tun  [ LIP ]  wr.  tun3  "lip; chin" Akk.  šaptu ;  suqtu 
+ 
+ 
+ tungal 
+ tungal  [ INSTRUMENT ]  wr.  tungal ;  tungal2  "a stringed instrument" Akk.  tungallu 
+ 
+ 
+ tunla 
+ tunla  [ VESSEL ]  wr.  tun3 -la2  "a vessel" 
+ 
+ 
+ tunpad 
+ tunpad  [ PIECE ]  wr.  tun3 -pad  "piece" 
+ 
+ 
+ tur 
+ tur  [ CHILD ]  wr.  tur  "(young) child" Akk.  šerru 
+ tur  [ ILL ]  wr.  tur5  "illness, disease; (to be) ill" Akk.  marāşu ;  murşu 
+ tur  [ SMALL ]  wr.  tur ;  tu  "(to be) small; to reduce, diminish; to subtract; (to be) young" Akk.  şehērum 
+ tur  [ STALL ]  wr.  tur3 ;  e2 tur3  "animal stall" Akk.  tarbaşu 
+ 
+ 
+ turan 
+ turan  [ UNMNG ]  wr.  turan  "" 
+ 
+ 
+ turmahba 
+ turmahba  [ RATION ]  wr.  tur-mah-ba  "a kind of ration" 
+ 
+ 
+ turti 
+ turti  [ FISH ]  wr.  tur-ti ku6  "a fish" 
+ 
+ 
+ TURUZZA 
+ TURUZZA  [ DUCK? ]  wr.  TUR.UZ.ZA  "type of duck?" 
+ 
+ 
+ tuš 
+ tuš  [ SIT ]  wr.  tuš  "to sit (down); to dwell" Akk.  ašābu 
+ 
+ 
+ tuše 
+ tuše  [ UNMNG ]  wr.  tuše  "" 
+ 
+ 
+ tušumdilmun 
+ tušumdilmun  [ UNMNG ]  wr.  tu-šum2 -dilmun  "unmng" 
+ 
+ 
+ tušumĝešnimbar 
+ tušumĝešnimbar  [ UNMNG ]  wr.  tu-šum2 -ĝešnimbar  "unmng" 
+ 
+ 
+ tušumsikil 
+ tušumsikil  [ UNMNG ]  wr.  tu-šum2 -sikil  "unmng" 
+ 
+ 
+ tutu 
+ tutu  [ CVVE ]  wr.  tu-tu  "(compound verb verbal element)" 
+ 
+ 
+ tutuba 
+ tutuba  [ ~VEGETABLE ]  wr.  tu-tu-ba sar  "a designation of vegetables" 
+ 
+ 
+ 
+ 
+ePSD icon   ePSD  
+	  contacts:  Steve 
+          Tinney  and  Philip Jones .
+ 
+ 
+ 
+ 
