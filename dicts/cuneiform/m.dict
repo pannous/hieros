@@ -1,680 +1,341 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
->>>  ma5 -ma5 ;  ma5  
  ma  [ BURN ]  |KA×EŠ₂||KA×EŠ₂|;|KA×EŠ₂|  ma5 -ma5 ;  ma5  "to burn" 
->>>  ma2 ;  ĝeš ma2  
  ma  [ SHIP ]  𒈣;𒄑𒈣  ma2 ;  ĝeš ma2  "ship, boat" Akk.  eleppu 
->>>  ĝeš ma2  
  ma  [ WEAPON? ]  𒄑𒈣  ĝeš ma2  "a siege engine?" Akk.  mekû 
->>>  ma2  da  
  ma da  [ SAIL ]  𒈣𒁕  ma2  da  "to sail a boat" 
->>>  ma2  gid2 ;  ĝeš ma2  gid2  
  ma gid  [ HAUL ]  𒈣𒁍;𒄑𒈣𒁍  ma2  gid2 ;  ĝeš ma2  gid2  "to haul (a boat)" Akk.  ? 
->>>  ĝeš ma2 -u5  
  maʾu  [ BARGE ]  𒄑𒈣𒄷𒋛  ĝeš ma2 -u5  "a barge" Akk.  rukūbu 
->>>  ma2 -addir ;  ma2 -addir x (|PAD.DUG.GIŠ.SI|)  
  ma'addir  [ FERRYBOAT ]  𒈣𒀀𒉺𒄐𒉻𒋛𒀀;𒈣|PA.GISAL.SI.A|(𒉻𒂁𒄑𒋛)  ma2 -addir ;  ma2 -addir x (|PAD.DUG.GIŠ.SI|)  "ferryboat; boat for hire" Akk.  nēberu ;  elep igri 
->>>  mabi2 ;  mabi  
  mabi  [ FROST ]  |A.MUŠ₃.DI|;|A.MUŠ₃.DI|  mabi2 ;  mabi  "frost" Akk.  mammû 
->>>  ma-da ;  ma  
  mada  [ LAND ]  𒈠𒁕;𒈠  ma-da ;  ma  "land, country; earth, land" Akk.  erşetu ;  mātu 
->>>  ĝeš madal ;  ĝeš ma madal ;  ma-ad-li-um  
  madal  [ POLE ]  𒄑GIŠ.BU;𒄑𒈠GIŠ.BU;𒈠𒀜𒇷𒌝  ĝeš madal ;  ĝeš ma madal ;  ma-ad-li-um  "a pole" Akk.  mašaddu ;  makkû ;  mudulu ;  muttû 
->>>  ma2 -da-la2 ;  ĝeš ma2 -da-la2 ;  gi ma2 -da-la2  
  madala  [ BUNDLE ]  𒈣𒁕𒇲;𒄑𒈣𒁕𒇲;𒄀𒈣𒁕𒇲  ma2 -da-la2 ;  ĝeš ma2 -da-la2 ;  gi ma2 -da-la2  "bundle of reeds; raft" Akk.  tillatu 
->>>  ma2 -da-lum  
  madalum  [ VASE ]  𒈣𒁕𒈝  ma2 -da-lum  "vase" Akk.  qantillatu 
->>>  ma-dam  
  madam  [ BOUNTEOUS ]  𒈠𒁮  ma-dam  "very plentiful" Akk.  ţuhhudu 
->>>  na4 ma-da-nu-um  
  madanum  [ STONE ]  𒎎𒈠𒁕𒉡𒌝  na4 ma-da-nu-um  "type of stone" 
->>>  ma-ad-ĝa2  
  madĝa  [ ~FLOUR ]  𒈠𒀜𒂷  ma-ad-ĝa2  "a designation of flours" Akk.  maşhatu 
->>>  ĝeš ma2 -du3  
  madu  [ BOAT ]  𒄑𒈣𒆕  ĝeš ma2 -du3  "a part of a boat" 
->>>  ma2 -eĝir  
  ma'eĝir  [ STERN ]  𒈣𒂕  ma2 -eĝir  "stern (lit. boat back)" 
->>>  ma2 -gal-gal ;  lu2 ma2 -gal-gal  
  magalgal  [ PROFESSION ]  𒈣𒃲𒃲;𒇽𒈣𒃲𒃲  ma2 -gal-gal ;  lu2 ma2 -gal-gal  "a profession" 
->>>  ĝeš ma2 -gaz ;  nam-gaz  
  magaz  [ BENCH ]  𒄑𒈣𒄤;𒉆𒄤  ĝeš ma2 -gaz ;  nam-gaz  "slaughtering bench" Akk.  makāşu 
->>>  ĝeš ma2 -gid2  
  magid  [ BOAT ]  𒄑𒈣𒁍  ĝeš ma2 -gid2  "a towed boat" Akk.  makkītu 
->>>  ĝeš ma-gid2  
  magid  [ POLE ]  𒄑𒈠𒁍  ĝeš ma-gid2  "type of pole" 
->>>  ĝeš ma2 -gi4 -lum ;  ĝeš ma2 -gi-lum ;  ĝeš ma2 -gi-la2  
  magilum  [ BOAT ]  𒄑𒈣𒄄𒈝;𒄑𒈣𒄀𒈝;𒄑𒈣𒄀𒇲  ĝeš ma2 -gi4 -lum ;  ĝeš ma2 -gi-lum ;  ĝeš ma2 -gi-la2  "a boat" Akk.  magillu 
->>>  ma2 -GIN2  
  maGIN  [ BOAT-BUILDER ]  𒈣𒂆  ma2 -GIN2  "boat-builder" 
->>>  ma2 -gur8 ;  ĝeš ma2 -gur8  
  magur  [ BARGE ]  𒈣𒋽;𒄑𒈣𒋽  ma2 -gur8 ;  ĝeš ma2 -gur8  "barge; a geometric figure" Akk.  magurgurru 
->>>  ma2 -gur8 -si  
  magursi  [ PROFESSION ]  𒈣𒋽𒋛  ma2 -gur8 -si  "a profession" 
->>>  mah2  
  mah  [ COW ]  𒀠  mah2  "(to be) mature, milk producing (of cows)" 
->>>  mah ;  mah2  
  mah  [ GREAT ]  𒈤;𒀠  mah ;  mah2  "(to be) great" Akk.  kabtu ;  mādu ;  rabû ;  şīru 
->>>  al-mah-mah  
  mah  [ SICK? ]  𒀠𒈤𒈤  al-mah-mah  "(to be) sick?" 
->>>  ĝeš mah2  
  mah  [ TREE ]  𒄑𒀠  ĝeš mah2  "a tree" 
->>>  mah-di  
  mahdi  [ EXALTED ]  𒈤𒁲  mah-di  "exalted, prominent" Akk.  tizqāru 
->>>  mah-di-di  
  mahdidi  [ EXALTED ]  𒈤𒁲𒁲  mah-di-di  "very illustrious" 
->>>  mahra  
  mahra  [ FOREMOST ]  X  mahra  "foremost" Akk.  mahrû 
->>>  makkaš2 ;  makkaš  
  makkaš  [ LAMENTATION ]  𒀸;𒀸  makkaš2 ;  makkaš  "lamentation; clamor, uproar" Akk.  ikkillu 
->>>  ma-la  
  mala  [ AS MUCH AS ]  𒈠𒆷  ma-la  "as much as there is" Akk.  mala 
->>>  ma2 -la2 ;  ĝeš ma2 -la2 ;  gi ma2 -la2  
  mala  [ BOAT ]  𒈣𒇲;𒄑𒈣𒇲;𒄀𒈣𒇲  ma2 -la2 ;  ĝeš ma2 -la2 ;  gi ma2 -la2  "freight boat" 
->>>  ma-la  
  malag  [ NEIGHBOR ]  𒈠𒆷  ma-la  "female neighbor; secondary wife" Akk.  ši'ītu 
->>>  ma2 -lah5 ;  ma2 -lah4 ;  ma2 -lah6 ;  lu2 ma2 -lah5 ;  lu2 ma2 -lah4 ;  lu2 ma2 -lah6  
  malah  [ SAILOR ]  𒈣|DU.DU|;𒈣𒁻;𒈣𒁺;𒇽𒈣|DU.DU|;𒇽𒈣𒁻;𒇽𒈣𒁺  ma2 -lah5 ;  ma2 -lah4 ;  ma2 -lah6 ;  lu2 ma2 -lah5 ;  lu2 ma2 -lah4 ;  lu2 ma2 -lah6  "sailor" Akk.  malahhu 
->>>  ma2 -lah5 -gal ;  ma-lah4 -gal  
  malahgal  [ SAILOR ]  𒈣|DU.DU|𒃲;𒈠𒁻𒃲  ma2 -lah5 -gal ;  ma-lah4 -gal  "head boatman" 
->>>  ma-la-ku  
  malaku  [ ~MEAT ]  𒈠𒆷𒆪  ma-la-ku  "a cut of meat" Akk.  mālaku 
->>>  ma-la-lum ;  ĝeš malla  
  malalum  [ CONTAINER ]  𒈠𒆷𒈝;𒄑GIŠ.BU  ma-la-lum ;  ĝeš malla  "a container" Akk.  mālalu 
->>>  ma-al-ga-tum  
  malgatum  [ INSTRUMENT ]  𒈠𒀠𒂵𒌈  ma-al-ga-tum  "a musical instrument; a type of song" Akk.  malgâtu 
->>>  ma-li-li-bi  
  malilibi  [ FROLICKING? ]  𒈠𒇷𒇷𒁉  ma-li-li-bi  "frolicking?" 
->>>  ma-al-li-li  
  mallili  [ MURMURING ]  𒈠𒀠𒇷𒇷  ma-al-li-li  "murmuring" 
->>>  ma-al-tum ;  na4 ma-al-tum  
  maltum  [ BOWL ]  𒈠𒀠𒌈;𒎎𒈠𒀠𒌈  ma-al-tum ;  na4 ma-al-tum  "a bowl" Akk.  maltu 
->>>  ma-a-lu ;  ma-al-lu  
  malu  [ EXCLAMATION ]  𒈠𒀀𒇻;𒈠𒀠𒇻  ma-a-lu ;  ma-al-lu  "an exclamation" Akk.  ? 
->>>  ma-mu2 ;  ma-mu  
  mamud  [ DREAM ]  𒈠𒊬;𒈠𒈬  ma-mu2 ;  ma-mu  "dream" Akk.  šuttu 
->>>  man  
  man  [ COMPANION ]  𒌋𒌋  man  "companion, partner" Akk.  tappû 
->>>  ma-na  
  mana  [ UNIT ]  𒈠𒈾  ma-na  "a unit of weight" Akk.  manû 
->>>  ma-na-la2  
  manala  [ WEIGHMASTER ]  𒈠𒈾𒇲  ma-na-la2  "weighmaster" Akk.  manalû, ha'īţu 
->>>  ma-na-tur  
  manatur  [ UNIT ]  𒈠𒈾𒌉  ma-na-tur  "a unit of area; a unit of volume; a unit of weight" 
->>>  ma-an-du-um  
  mandum  [ SOLDIER ]  𒈠𒀭𒁺𒌝  ma-an-du-um  "a soldier" Akk.  *mandu 
->>>  mangaga ;  man-ga-ga  
  mangaga  [ FIBERS ]  |KA×SA|;𒌋𒌋𒂵𒂵  mangaga ;  man-ga-ga  "date palm fibers" Akk.  mangagu 
->>>  ma-an-ga-ra ;  mangara  
  mangara  [ CHISEL ]  𒈠𒀭𒂵𒊏;𒁑  ma-an-ga-ra ;  mangara  "chisel" Akk.  maggaru 
->>>  ma-an-hara4 ;  ma-hara4 ;  ma-an-hara x (|DAG.KISIM5 ×GA|) ;  nam-hara4  
  manhara  [ VESSEL ]  𒈠𒀭𒁚;𒈠𒁚;𒈠𒀭|NUNUZ.AB₂×BI|(𒁖𒆨·𒂵);𒉆𒁚  ma-an-hara4 ;  ma-hara4 ;  ma-an-hara x (|DAG.KISIM5 ×GA|) ;  nam-hara4  "a beer vessel; a part of a chariot" Akk.  harû ;  namharu 
->>>  gi ma-an-sim ;  gi ma-sim  
  mansim  [ SIEVE ]  𒄀𒈠𒀭𒉆;𒄀𒈠𒉆  gi ma-an-sim ;  gi ma-sim  "sieve" Akk.  nappītu 
->>>  ma-an-si-um  
  mansium  [ UNMNG ]  𒈠𒀭𒋛𒌝  ma-an-si-um  "?" Akk.  ? 
->>>  ĝeš ma-nu ;  ma-nu  
  manu  [ WOOD ]  𒄑𒈠𒉡;𒈠𒉡  ĝeš ma-nu ;  ma-nu  "a wood, perhaps willow" Akk.  ēru 
->>>  ma-an-zi-le ;  ma-an-zi-la2  
  manzila  [ FOOT ]  𒈠𒀭𒍥𒇷;𒈠𒀭𒍥𒇲  ma-an-zi-le ;  ma-an-zi-la2  "club foot" 
->>>  ma-aq-ta-ru-um  
  maqtarum  [ OBJECT ]  𒈠𒀝𒋫𒊒𒌝  ma-aq-ta-ru-um  "a metal item, perhaps censer" Akk.  maqtaru 
->>>  mar  
  mar  [ PARASITE ]  𒈥  mar  "louse; worm; parasite" Akk.  miqqanu ;  tūltu 
->>>  ĝeš mar ;  urud mar  
  mar  [ SHOVEL ]  𒄑𒈥;U+1234F𒈥  ĝeš mar ;  urud mar  "shovel" Akk.  marru 
->>>  mar  
  mar  [ SMEAR ]  𒈥  mar  "to smear" Akk.  eqû 
->>>  ĝeš mar  
  mar  [ WAGON ]  𒄑𒈥  ĝeš mar  "wagon" Akk.  narkabtu 
->>>  mar  
  mar  [ WINNOW ]  𒈥  mar  "to winnow" Akk.  zarû 
->>>  ma-ra-ah ;  ma-ra-ah-a  
  marah  [ UNMNG ]  𒈠𒊏𒄴;𒈠𒊏𒄴𒀀  ma-ra-ah ;  ma-ra-ah-a  "unmng" Akk.  hardu 
->>>  mar-gid2 -da  
  margida  [ CART ]  𒈥𒁍𒁕  mar-gid2 -da  "cart, wagon" Akk.  ereqqu 
->>>  šim mar-gu-zum ;  šim al-NIN ;  šim al-gazum x (|ZUM.LAGAB|) ;  šim ar-gu-zum  
  marguzum  [ BUSH ]  𒋆𒈥𒄖𒍮;𒋆𒀠𒎏;𒋆𒀠gazum·(𒍮𒆸);𒋆𒅈𒄖𒍮  šim mar-gu-zum ;  šim al-NIN ;  šim al-gazum x (|ZUM.LAGAB|) ;  šim ar-gu-zum  "a resinous bush" Akk.  margūşu 
->>>  na4 mar-ha-li  
  marhali  [ STONE ]  𒎎𒈥𒄩𒇷  na4 mar-ha-li  "type of stone" 
->>>  na4 mar-hu-ša ;  mar-hu-ša  
  marhuša  [ STONE ]  𒎎𒈥𒄷𒊭;𒈥𒄷𒊭  na4 mar-hu-ša ;  mar-hu-ša  "a stone" Akk.  marhušu 
->>>  kuš ma-ri-nu-um  
  marinum  [ SCREEN ]  𒋢𒈠𒊑𒉡𒌝  kuš ma-ri-nu-um  "protective clothing; screen" Akk.  marīnu 
->>>  mar-mah  
  marmah  [ PRIEST ]  𒈥𒈤  mar-mah  "a priest" Akk.  pasīšu 
->>>  mar6 -ra-tum  
  marratum  [ WEAPON ]  𒅗𒊏𒌈  mar6 -ra-tum  "type of weapon" 
->>>  mar-ru10  
  marru  [ STORMWIND ]  𒈥𒋽  mar-ru10  "stormwind" 
->>>  mar-sa ;  mar-sa3  
  marsa  [ DEPOT ]  𒈥𒊓;𒈥𒐼  mar-sa ;  mar-sa3  "military depot" 
->>>  ĝeš mar-še-bad  
  maršebad  [ WINNOWING SHOVEL ]  𒄑𒈥𒊺𒁁  ĝeš mar-še-bad  "winnowing shovel" Akk.  pīsu 
->>>  ĝeš mar-šu  
  maršu  [ SPADE ]  𒄑𒈥𒋗  ĝeš mar-šu  "a spade" Akk.  nashiptu ;  šaqû 
->>>  ĝeš mar-šum  
  maršum  [ BED ]  𒄑𒈥𒋳  ĝeš mar-šum  "bed" Akk.  maršu ;  mayyaltu 
->>>  mar-tu  
  martu  [ WESTERNER ]  𒈥𒌅  mar-tu  "westerner; west wind" Akk.  amurru 
->>>  dug ma2 -ru-LUM  
  maruLUM  [ POT? ]  𒂁𒈣𒊒𒈝  dug ma2 -ru-LUM  "a pot?" Akk.  ? 
->>>  mar-ru-um  
  marum  [ SHOVEL ]  𒈥𒊒𒌝  mar-ru-um  "shovel" 
->>>  gi ma-sa2 -ab ;  ma-sa2 -ab ;  ma-sa2 ;  gi ma-sab  
  masab  [ BASKET ]  𒄀𒈠𒁲𒀊;𒈠𒁲𒀊;𒈠𒁲;𒄀𒈠𒉺𒅁  gi ma-sa2 -ab ;  ma-sa2 -ab ;  ma-sa2 ;  gi ma-sab  "basket" Akk.  masabbu 
->>>  ma2 -saĝ  
  masaĝ  [ PROW ]  𒈣𒊕  ma2 -saĝ  "prow (lit. boat head)" 
->>>  ĝeš ma2 -sal  
  masal  [ BOAT ]  𒄑𒈣𒊩  ĝeš ma2 -sal  "a boat" Akk.  mašallû 
->>>  ma-sar  
  masar  [ FISH-STORAGE ]  𒈠𒊬  ma-sar  "fish-storage" 
->>>  ma-sa2 -tum  
  masatum  [ LANCE? ]  𒈠𒁲𒌈  ma-sa2 -tum  "lance?" Akk.  maššatu 
->>>  ma-sila3  
  masila  [ HEEL ]  𒈠𒋡  ma-sila3  "heel, hoof" Akk.  eqbu 
->>>  mas-su  
  massu  [ LEADER ]  𒈦𒋢  mas-su  "leader, expert" Akk.  massû 
->>>  ĝeš ma2 -su ;  ĝeš ma2 -su3  
  masu  [ BOAT ]  𒄑𒈣𒋢;𒄑𒈣𒋤  ĝeš ma2 -su ;  ĝeš ma2 -su3  "deep-draught boat" 
->>>  maš  
  maš  [ BORDER ]  𒈦  maš  "border, boundary" Akk.  mişru 
->>>  maš2 ;  maš  
  maš  [ GOAT ]  𒈧;𒈦  maš2 ;  maš  "goat; extispicy; sacrificial animal for omens" Akk.  bīru ;  urīşu 
->>>  maš ;  maš2  
  maš  [ INTEREST ]  𒈦;𒈧  maš ;  maš2  "interest (on a loan); an irrigation tax" Akk.  şibtu 
->>>  ĝeš maš  
  maš  [ PLANT ]  𒄑𒈦  ĝeš maš  "plant" 
->>>  maš ;  maš3  
  maš  [ PURE ]  𒈦;𒈦𒉺  maš ;  maš3  "to be pure" Akk.  ellu 
->>>  dug maš  
  maš  [ TILE ]  𒂁𒈦  dug maš  "a drainage tile" Akk.  mišlānū 
->>>  ĝeš maš  
  maš  [ TREE ]  𒄑𒈦  ĝeš maš  "a tree" Akk.  gişşu 
->>>  maš  
  maš  [ TWIN ]  𒈦  maš  "twin" Akk.  māšu 
->>>  maš2 -anše ;  maš-anše  
  mašanše  [ ANIMALS ]  𒈧𒀲;𒈦𒀲  maš2 -anše ;  maš-anše  "animals, livestock" Akk.  būlu 
->>>  maš-da3 ;  maš2 -da3  
  mašda  [ GAZELLE ]  𒈦𒆕;𒈧𒆕  maš-da3 ;  maš2 -da3  "gazelle" Akk.  şabītu 
->>>  na4 maš-da  
  mašda  [ STONE ]  𒎎𒈦𒁕  na4 maš-da  "stone" 
->>>  maš2 -tarah  
  mašdara  [ GOAT ]  𒈧DARA₃  maš2 -tarah  "young wild goat?" 
->>>  ĝeš maš-dara3  
  mašdara  [ INSCRIPTION ]  𒄑𒈦𒁰  ĝeš maš-dara3  "inscription" Akk.  mašţaru 
->>>  maš-da-re-a ;  maš2 -da-re-a ;  maš2 -da-re6 -a ;  maš-da-re6 -a  
  mašdarea  [ PAYMENT ]  𒈦𒁕𒊑𒀀;𒈧𒁕𒊑𒀀;𒈧𒁕𒁺𒀀;𒈦𒁕𒁺𒀀  maš-da-re-a ;  maš2 -da-re-a ;  maš2 -da-re6 -a ;  maš-da-re6 -a  "a type of payment" Akk.  irbu 
->>>  MAŠ.EN.KAK ;  MAŠ.KAK  
  mašga'en  [ STATUS ]  𒈦𒂗𒆕;𒈦𒆕  MAŠ.EN.KAK ;  MAŠ.KAK  "a social status or profession" Akk.  muškēnu 
->>>  maš2 -gal  
  mašgal  [ GOAT ]  𒈧𒃲  maš2 -gal  "billy goat" Akk.  mašgallu 
->>>  maš-gana2  
  mašgana  [ SETTLEMENT ]  𒈦𒃷  maš-gana2  "settlement; threshing floor" Akk.  maškanu 
->>>  maš2 -gur-ra-ŠEŠ ku6  
  mašgurraŠEŠ  [ FISH ]  𒈧𒄥𒊏𒋀𒄩  maš2 -gur-ra-ŠEŠ ku6  "type of fish" 
->>>  ĝeš maš-gurum  
  mašgurum  [ PLANT ]  𒄑𒈦𒃵  ĝeš maš-gurum  "a plant" 
->>>  maš-ĝi6 ;  maš2 -ĝi6  
  mašĝik  [ VISION ]  𒈦𒈪;𒈧𒈪  maš-ĝi6 ;  maš2 -ĝi6  "(nocturnal) vision" 
->>>  dug maš-ha-lum  
  mašhalum  [ SIEVE ]  𒂁𒈦𒄩𒈝  dug maš-ha-lum  "sieve" Akk.  mašhalu 
->>>  maškim  
  maškim  [ ADMINISTRATOR ]  |PA.DU@s|  maškim  "an administrative position; a demon" Akk.  rābişu 
->>>  e-gi4 -maškim ;  maškim-e-gi  
  maškimegi  [ MESSENGER ]  𒂊𒄄|PA.DU@s|;|PA.DU@s|𒂊𒄀  e-gi4 -maškim ;  maškim-e-gi  "messenger" 
->>>  kuš maš-li-um  
  mašlium  [ BUCKET ]  𒋢𒈦𒇷𒌝  kuš maš-li-um  "bucket" 
->>>  maš2 -lulim  
  mašlulim  [ HIND? ]  𒈧|GIR₃×LU+IGI|  maš2 -lulim  "hind?" 
->>>  maš-li2 -um ;  maš-lum  
  mašlum  [ BUCKET ]  𒈦𒉌𒌝;𒈦𒈝  maš-li2 -um ;  maš-lum  "leather bucket" Akk.  mašlû 
->>>  maš-maš  
  mašmaš  [ SORCERER ]  𒈦𒈦  maš-maš  "sorcerer, incantation priest" Akk.  ašīpu ;  mašmaš(š)u 
->>>  mašmin  
  mašmin  [ TWIN ]  |MAŠ.MIN|  mašmin  "twin (brother/sister)" Akk.  māšu 
->>>  maš2 -nita  
  mašnita  [ GOAT ]  𒈧𒍑  maš2 -nita  "male goat" Akk.  daššu 
->>>  maš2 -saĝ  
  mašsaĝ  [ LEADER ]  𒈧𒊕  maš2 -saĝ  "leader" Akk.  ašarēdu 
->>>  maš-šu-gid2 -gid2 ;  maš2 -šu-gid2 -gid2  
  maššugidgid  [ DIVINER ]  𒈦𒋗𒁍𒁍;𒈧𒋗𒁍𒁍  maš-šu-gid2 -gid2 ;  maš2 -šu-gid2 -gid2  "diviner" Akk.  bārû 
->>>  maš2 -šu-gi4 -gi4  
  maššugigi  [ DIVINER ]  𒈧𒋗𒄄𒄄  maš2 -šu-gi4 -gi4  "diviner" 
->>>  maš-tab  
  maštab  [ TWIN ]  𒈦𒋰  maš-tab  "twin" 
->>>  ĝeš maš-tak-da  
  maštakda  [ WOODEN OBJECT ]  𒄑𒈦𒋺𒁕  ĝeš maš-tak-da  "wooden object" 
->>>  ma2 -|ŠU2 +DUN3 |  
  maŠUDUN  [ PROFESSION ]  𒈣𒋙𒂅  ma2 -|ŠU2 +DUN3 |  "profession" 
->>>  urud ma-šum  
  mašum  [ OBJECT ]  U+1234F𒈠𒋳  urud ma-šum  "metal object" 
->>>  maš2 -uzud-da ;  maš2 -uzud  
  mašuzudak  [ GOAT ]  𒈧UZ₃𒁕;𒈧UZ₃  maš2 -uzud-da ;  maš2 -uzud  "breed-goat" 
->>>  ĝeš ma2 -ti-la  
  matila  [ LIFEBOAT ]  𒄑𒈣𒋾𒆷  ĝeš ma2 -ti-la  "lifeboat" Akk.  muballittu 
->>>  ma2 -ur3  
  ma'ur  [ SHALLOWS ]  𒈣𒃡  ma2 -ur3  "the place where a water course becomes too shallow to allow boats to pass" 
->>>  ĝeš ma-al-tum ;  ĝeš ma-a-al-tum  
  mayaltum  [ BED ]  𒄑𒈠𒀠𒌈;𒄑𒈠𒀀𒀠𒌈  ĝeš ma-al-tum ;  ĝeš ma-a-al-tum  "bed" Akk.  mayyaltum 
->>>  ĝeš ma-a-a-al-tum  
  mayaltum  [ SLEDGE ]  𒄑𒈠𒀀𒀀𒀠𒌈  ĝeš ma-a-a-al-tum  "type of sledge" 
->>>  ma-az  
  maz  [ SWELL ]  𒈠𒊍  ma-az  "to swell, rejoice" Akk.  eleşu 
->>>  me  
  me  [ BEING ]  𒈨  me  "Being,  divine properties enabling cosmic activity; office; (cultic) ordinance" Akk.  mû ;  parşu 
->>>  me3 ;  me ;  me7 ;  me9 ;  me x (AK×ŠITA) ;  me11  
  me  [ BATTLE ]  𒀞;𒈨;|GA₂×KASKAL|;|LAGAB×ŠITA@t+GIŠ|;𒋖(𒀝·𒋖);|AK×ŠITA+GIŠ|  me3 ;  me ;  me7 ;  me9 ;  me x (AK×ŠITA) ;  me11  "battle; combat" Akk.  tāhāzu 
->>>  me ;  em ;  am3  
  me  [ BE ]  𒈨;𒅎;𒀀𒀭  me ;  em ;  am3  "to be" 
->>>  me  
  me  [ DESIRE ]  𒈨  me  "desire" Akk.  lalû 
->>>  me  
  me  [ REFINE ]  𒈨  me  "to wash, refine" 
->>>  me  
  me  [ SILENCE ]  𒈨  me  "silence" Akk.  qūlu 
->>>  me  
  me  [ STIFFNESS ]  𒈨  me  "stiffness" Akk.  luʾtu 
->>>  me ĝar  
  me ĝar  [ MAKE SILENT ]  𒈨𒃻  me ĝar  "to make silent" Akk.  qâlu 
->>>  me-teš2  i-i  
  me-teš e  [ PRAISE ]  𒈨𒌨𒐊𒐊  me-teš2  i-i  "to praise" Akk.  nâdu 
->>>  me-a ;  ma6 ;  ma-a ;  ma-a-a  
  mea  [ WHERE? ]  𒈨𒀀;𒈨;𒈠𒀀;𒈠𒀀𒀀  me-a ;  ma6 ;  ma-a ;  ma-a-a  "where?, whither?" Akk.  ali ;  ekia 
->>>  me-a-am ;  me-am  
  me'am  [ DEAR ]  𒈨𒀀𒄠;𒈨𒄠  me-a-am ;  me-am  "term of endearment, dear" 
->>>  me-at  
  meat  [100 ]  𒈨𒀜  me-at  "100" Akk.  me'atu 
->>>  me-dim2  
  medim  [ LIMBS ]  𒈨𒁶  me-dim2  "limbs" Akk.  binātu 
->>>  megida x (KUN) ;  megida ;  munus megida2  
  megida  [ SOW ]  𒆲(𒆲);|TAB.TI|;𒊩|TAB.KUN|  megida x (KUN) ;  megida ;  munus megida2  "sow" Akk.  šahītu 
->>>  me-hi  
  mehi  [ TISSUE ]  𒈨𒄭  me-hi  "tissue" Akk.  himşu 
->>>  mel  
  mel  [ MALT-FLOUR ]  𒅖  mel  "malt-flour" Akk.  kukkušu 
->>>  me-li-e-a  
  melea  [ EXCLAMATION ]  𒈨𒇷𒂊𒀀  me-li-e-a  "an exclamation" Akk.  inimma 
->>>  mel3 ;  meli x (|KA×GAR+ŠA3 +A|) ;  meli2 ;  meli x (|KA×U2 |)  
  meli  [ NECK ]  |KI.NE|;|KA×GAR+ŠA₃+A|(𒅥𒊮𒀀);|KA×LI|;|KA×GAR+ŠA₃+A|(𒆈)  mel3 ;  meli x (|KA×GAR+ŠA3 +A|) ;  meli2 ;  meli x (|KA×U2 |)  "neck" Akk.  nemlû 
->>>  me-lim4  
  melim  [ SPLENDOR ]  𒈨𒉈  me-lim4  "frightening splendor" Akk.  melammu 
->>>  men ;  men4  
  men  [ TIARA ]  𒃞;|LAGAB×ME+EN|  men ;  men4  "tiara, type of crown" Akk.  agû 
->>>  me-na-am3  
  menam  [ WHEN? ]  𒈨𒈾𒀀𒀭  me-na-am3  "when?" 
->>>  me-na-me-na-am3  
  menamenam  [ EVER ]  𒈨𒈾𒈨𒈾𒀀𒀭  me-na-me-na-am3  "ever" 
->>>  menari  
  menari  [ ADMINISTRATOR ]  𒃻  menari  "an administrator" Akk.  šatammu 
->>>  me-na-še3  
  menaše  [ HOW LONG? ]  𒈨𒈾𒂠  me-na-še3  "how long?" Akk.  adī matī 
->>>  me-na-ta  
  menata  [ SINCE WHEN? ]  𒈨𒈾𒋫  me-na-ta  "since when?" 
->>>  me-en-de3 -en  
  menden  [ WE ]  𒈨𒂗𒉈𒂗  me-en-de3 -en  "we" Akk.  nīnu 
->>>  me-en-ze2 -en ;  za-e-me-en-ze2 -en ;  za-e-en-ze2 -en  
  menzen  [ YOU ]  𒈨𒂗𒍢𒂗;𒍝𒂊𒈨𒂗𒍢𒂗;𒍝𒂊𒂗𒍢𒂗  me-en-ze2 -en ;  za-e-me-en-ze2 -en ;  za-e-en-ze2 -en  "you (plural)" 
->>>  me-er-me-er ;  mar-mar  
  mer  [ CVVE ]  𒈨𒅕𒈨𒅕;𒈥𒈥  me-er-me-er ;  mar-mar  "(compound verb verbal element)" 
->>>  me-er-ga  
  merga  [ FIRST ]  𒈨𒅕𒂵  me-er-ga  "first one" 
->>>  mermer3  
  mermer  [ STORM ]  |IM%IM|  mermer3  "dust storm" Akk.  ašamšūtu 
->>>  mes ;  ĝeš mes  
  mes  [ BLACKNESS ]  𒎌;𒄑𒎌  mes ;  ĝeš mes  "blackness, black spot; black wood" Akk.  şulmu 
->>>  mes  
  mes  [ HERO ]  𒎌  mes  "hero; (to be) manly; young man" Akk.  eţlu 
->>>  ĝeš mes  
  mes  [ TREE ]  𒄑𒎌  ĝeš mes  "a tree" Akk.  mēsu 
->>>  ĝeš mes-babbar  
  mesbabbar  [ TREE ]  𒄑𒎌𒌓  ĝeš mes-babbar  "a tree" Akk.  tiālu 
->>>  ĝeš mes-ma2 -gan-na  
  mesmagana  [ TREE ]  𒄑𒎌𒈣𒃶𒈾  ĝeš mes-ma2 -gan-na  "a tree" Akk.  musukkanu 
->>>  ĝeš mes-TU  
  mesTU  [ TREE ]  𒄑𒎌𒌅  ĝeš mes-TU  "a tree" Akk.  kullaru ;  kaptaru 
->>>  me-še3  
  meše  [ WHERE TO? ]  𒈨𒂠  me-še3  "where to?" 
->>>  me-ta  
  meta  [ WHENCE? ]  𒈨𒋫  me-ta  "whence?; (since) when?" Akk.  ayyānu ;  mati 
->>>  me-te ;  te  
  mete  [ APPROPRIATE THING ]  𒈨𒋼;𒋼  me-te ;  te  "appropriate thing, ornament" Akk.  simtu 
->>>  me-te  
  mete  [ IMAGE ]  𒈨𒋼  me-te  "image" Akk.  simtu 
->>>  me-te ;  ni2 -te  
  mete  [ ONE'S OWN ]  𒈨𒋼;𒉎𒋼  me-te ;  ni2 -te  "one's own" Akk.  ramānu 
->>>  me-te gal2  
  mete ĝal  [ FITTING ]  𒈨𒋼𒅅  me-te gal2  "to be fitting" Akk.  ? 
->>>  me-te-ĝal2  
  meteĝal  [ SEEMLY ]  𒈨𒋼𒅅  me-te-ĝal2  "seemly" 
->>>  ĝeš me-te-num2  
  metenum  [ BIN ]  𒄑𒈨𒋼𒈝  ĝeš me-te-num2  "flour bin" Akk.  meţēnu 
->>>  me-teš2  
  meteš  [ PRAISE ]  𒈨𒌨  me-teš2  "praise" 
->>>  me-ze2 ;  meze ;  mezem?  
  meze  [ DRUM ]  𒈨𒍢;|AB₂×ME+EN|;|ŠID×A|  me-ze2 ;  meze ;  mezem?  "a drum" Akk.  manzû 
->>>  me-ze2  
  meze  [ JAW ]  𒈨𒍢  me-ze2  "jaw, cheekbone" Akk.  isu 
->>>  mi2  
  mi  [ CVNE ]  𒊩  mi2  "(compound verb nominal element)" 
->>>  mi2  
  mi  [ PRAISE ]  𒊩  mi2  "praise" 
->>>  mi2  dug4  
  mi dug  [ CARE FOR ]  𒊩𒅗  mi2  dug4  "to care for, treat well, treat kindly" Akk.  kunnû 
->>>  MI.E2 .A  
  MIEA  [ BIRD ]  𒈪𒂍𒀀  MI.E2 .A  "type of bird" 
->>>  mim2  
  mim  [ SPACE ]  MUŠ₃  mim2  "flat space" Akk.  mātu 
->>>  min ;  min3 ;  min6  
  min  [ TWO ]  𒈫;𒌋𒌋;𒋰  min ;  min3 ;  min6  "two; ditto" Akk.  šina 
->>>  minbulug ;  minbulug2 ;  minbulug x (|BAL&BAL|) ;  minbulug x (|BULUG.NAGAR|)  
  minbulug  [ PIN ]  𒍏;|BULUG&BULUG|;|BAL&BAL|(𒁄𒁄);|BAL&BAL|(𒁑𒉄)  minbulug ;  minbulug2 ;  minbulug x (|BAL&BAL|) ;  minbulug x (|BULUG.NAGAR|)  "double pin" Akk.  pallukku ;  pulukku 
->>>  mi-iq-tum  
  miqtum  [ SOCIAL CLASS ]  𒈪𒅅𒌈  mi-iq-tum  "social class" 
->>>  mir  
  mir  [ ANGRY ]  𒂇  mir  "(to be) angry; anger, rage" Akk.  uzzu 
->>>  mir  
  mir  [ SNAKE ]  𒂇  mir  "a mythical snake; a snake-like weapon" Akk.  šibbu 
->>>  mir ;  tumu mir  
  mir  [ WIND ]  𒂇;𒅎𒂇  mir ;  tumu mir  "north wind; north; storm" Akk.  ištānu ;  mehû 
->>>  mir-DU-na  
  mirDUna  [ BELT? ]  𒂇𒁺𒈾  mir-DU-na  "belt?" 
->>>  ĝeš mi-ri2 -iš-ĝar-ra  
  mirišĝara  [ TREE ]  𒄑𒈪𒌷𒅖𒃻𒊏  ĝeš mi-ri2 -iš-ĝar-ra  "a tree" 
->>>  mi-ri2 -tum  
  miritum  [ INSTRUMENT ]  𒈪𒌷𒌈  mi-ri2 -tum  "a musical instrument" 
->>>  mi-ri2 -tum  
  miritum  [ POLE ]  𒈪𒌷𒌈  mi-ri2 -tum  "punting pole" 
->>>  mi-ri2 -za  
  miriza  [ PLANK ]  𒈪𒌷𒍝  mi-ri2 -za  "plank, board; boat pole" Akk.  parīsu 
->>>  mir-ša4  
  mirša  [ SNAKE ]  𒂇𒁺  mir-ša4  "snake" Akk.  šibbu 
->>>  mir-šeš  
  miršeš  [ SHIVERS ]  𒂇𒋀  mir-šeš  "shivers" Akk.  hurbāšu 
->>>  mi-sa-az mušen  
  misaz  [ BIRD ]  𒈪𒊓𒊍𒄷  mi-sa-az mušen  "a bird" 
->>>  mi-si-IŠ  
  misIŠ  [ CHEST ]  𒈪𒋛𒅖  mi-si-IŠ  "money chest" 
->>>  mi-tum ;  ĝeš mi-tum ;  ĝeš mitum ;  ĝeš mitum2 ;  ĝeš mi-i3 -tum  
  mitum  [ WEAPON ]  𒈪𒌈;𒄑𒈪𒌈;𒄑𒆪𒅂;𒄑𒆪𒅂;𒄑𒈪𒉌𒌈  mi-tum ;  ĝeš mi-tum ;  ĝeš mitum ;  ĝeš mitum2 ;  ĝeš mi-i3 -tum  "a divine weapon" Akk.  miţţu 
->>>  mu11 ;  ma5 ;  mu7  
  mu  [ CRUSH ]  𒅿;|KA×EŠ₂|;𒅲  mu11 ;  ma5 ;  mu7  "to crush, mangle" Akk.  hašû 
->>>  mu11 (|KAxSAR|) ku6  
  mu  [ FISH ]  𒅿(?𒊬)𒄩  mu11 (|KAxSAR|) ku6  "a fish" 
->>>  mu5  
  mu  [ GOOD ]  𒉌  mu5  "good, beautiful" Akk.  banû 
->>>  mu2 ;  mu2 -mu2  
  mu  [ GROW ]  𒊬;𒊬𒊬  mu2 ;  mu2 -mu2  "to grow" 
->>>  mu7  
  mu  [ INCANTATION ]  𒅲  mu7  "incantation, spell" Akk.  šiptu 
->>>  mu6  
  mu  [ MANLY ]  𒉺  mu6  "manly; young man" Akk.  eţlu 
->>>  mu  
  mu  [ NAME ]  𒈬  mu  "name; line of text; son" Akk.  šumu 
->>>  mu7  
  mu  [ SOUND ]  𒅲  mu7  "to make a sound" 
->>>  mu  
  mu  [ YEAR ]  𒈬  mu  "year" Akk.  šattu 
->>>  mu lugal pad3  
  mu lugalak pad  [ SWEAR ]  𒈬𒈗𒅆𒊒  mu lugal pad3  "to swear by the king's name" Akk.  nīš šarrim tamû 
->>>  mu-x mušen  
  mu.X  [ BIRD ]  |KA×GAN₂@t|.|KA×GAN₂@t|𒄷  mu-x mušen  "a bird" 
->>>  mu-bal-a  
  mubal  [ NEXT YEAR ]  𒈬𒁄𒀀  mu-bal-a  "next year" 
->>>  mu-bi2 -eš2  
  mubeš  [ THEREFORE ]  𒈬𒉈𒂠  mu-bi2 -eš2  "therefore" 
->>>  ĝeš mu-bu-um ;  mu-bu-um  
  mubum  [ TREE ]  𒄑𒈬𒁍𒌝;𒈬𒁍𒌝  ĝeš mu-bu-um ;  mu-bu-um  "type of tree" 
->>>  mud ;  mud2  
  mud  [ BLOOD ]  𒄷𒄭;𒁁  mud ;  mud2  "blood" Akk.  dāmu 
->>>  mud  
  mud  [ CREATE ]  𒄷𒄭  mud  "to create" Akk.  banû 
->>>  mud x (LAK449) ;  mud urudu ;  dug mud3 ;  dug mud4 ;  dug mud8  
  mud  [ JAR ]  LAK449(¿);𒄷𒄭U+1234F;𒂁𒉯;𒂁|LAGAB.U.KAK|;𒂁|NUNUZ.AB₂×KAD₃|  mud x (LAK449) ;  mud urudu ;  dug mud3 ;  dug mud4 ;  dug mud8  "beer jar; a unit of liquid capacity" Akk.  hubūru 
->>>  mud5  
  mud  [ JOY ]  𒋆  mud5  "joy" 
->>>  mud6  
  mud  [ RABID ]  𒊬  mud6  "rabid" 
->>>  mud  
  mud  [ SCARED ]  𒄷𒄭  mud  "(to be) scared, terrified" Akk.  parādu 
->>>  ĝeš mud ;  mud  
  mud  [ STUMP ]  𒄑𒄷𒄭;𒄷𒄭  ĝeš mud ;  mud  "stump" 
->>>  mud  
  mud  [ TUBE ]  𒄷𒄭  mud  "tube, socket" Akk.  uppu 
->>>  mu-ud-gi  
  mudgi  [ SWEETNESS ]  𒈬𒌓𒄀  mu-ud-gi  "sweetness" 
->>>  mud-ĝal2  
  mudĝal  [ CREATIVE ]  𒄷𒄭𒅅  mud-ĝal2  "creative" 
->>>  mu-dim mušen  
  mudim  [ BIRD ]  𒈬𒁴𒄷  mu-dim mušen  "a bird" 
->>>  mudla  
  mudla  [ BASKET ]  𒁍  mudla  "basket" Akk.  maššû 
->>>  mud5 -me-ĝar  
  mudmeĝar  [ JOY ]  𒋆𒈨𒃻  mud5 -me-ĝar  "joy" 
->>>  mudna x (|SAL.UŠ.DAM|) ;  mu-ud-da-na ;  mu-ud-na  
  mudna  [ SPOUSE ]  |SAL.UŠ.DAM|(𒊩𒍑𒁮);𒈬𒌓𒁕𒈾;𒈬𒌓𒈾  mudna x (|SAL.UŠ.DAM|) ;  mu-ud-da-na ;  mu-ud-na  "spouse" 
->>>  mudru2  
  mudru  [ FULLER ]  |EN.KU.A|  mudru2  "fuller" Akk.  ašlakku 
->>>  mu-DU  
  muDU  [ DELIVERY ]  𒈬𒁺  mu-DU  "delivery" Akk.  šūrubtu 
->>>  mu-du-lum ;  mu-du-li-a  
  mudulum  [ MEAT ]  𒈬𒁺𒈝;𒈬𒁺𒇷𒀀  mu-du-lum ;  mu-du-li-a  "preserved meat" Akk.  muddulu 
->>>  mu-dum  
  mudum  [ FRUIT ]  𒈬𒌈  mu-dum  "a fruit" 
->>>  tug2 mu-du-um  
  mudum  [ GARMENT ]  𒌆𒈬𒁺𒌝  tug2 mu-du-um  "a garment" Akk.  mudû 
->>>  mu-dur7  
  mudur  [ DIRT ]  𒈬𒁍  mu-dur7  "dirt" 
->>>  mudra6  
  mudur  [ DIRTY ]  |MU.BU|  mudra6  "(to be) dirty" Akk.  (w)aršu 
->>>  šim mug  
  mug  [ AROMATIC ]  𒋆𒈮  šim mug  "an aromatic substance" Akk.  ballukku 
->>>  tug2 mug  
  mug  [ GARMENT ]  𒌆𒈮  tug2 mug  "a kind of garment" 
->>>  mug2  
  mug  [ GENITALS ]  𒊩  mug2  "female genitals, vulva" Akk.  bişşūru ;  ūru 
->>>  mug  
  mug  [ WOOL ]  𒈮  mug  "low quality wool" Akk.  mukku 
->>>  mu-gu2  
  mugu  [ WATER-LIFT ]  𒈬𒄘  mu-gu2  "water-lift" 
->>>  muh3  
  muh  [ CUP ]  |SAG×UB|  muh3  "a cup or bowl" 
->>>  muhaldim  
  muhaldim  [ COOK ]  𒈬  muhaldim  "cook" Akk.  nuhatimmu 
->>>  muhaldim-gal  
  muhaldimgal  [ COOK ]  𒈬𒃲  muhaldim-gal  "head cook" 
->>>  mu-im-ma  
  mu'imma  [ LAST YEAR ]  𒈬𒅎𒈠  mu-im-ma  "last year" 
->>>  mul2  
  mul  [ FOUNDATION ]  𒋼  mul2  "foundation(s)" Akk.  uššu 
->>>  mul3  
  mul  [ INSECT ]  |HI×AŠ|  mul3  "wood-wasp" Akk.  kuzāzu 
->>>  mul ;  mul2 ;  mul4  
  mul  [ SHINE ]  𒀯;𒋼;|U.GUD|  mul ;  mul2 ;  mul4  "star; to shine, radiate (light); arrow; to radiate (branches)" Akk.  kakkabu ;  mulmullu ;  nabāţu 
->>>  mul-an  
  mulan  [ STAR ]  𒀯𒀭  mul-an  "heavenly star" 
->>>  mul-da-mul  
  muldamul  [ ANIMAL ]  𒀯𒁕𒀯  mul-da-mul  "an animal" 
->>>  mul-gana2  
  mulgana  [ PLANT ]  𒀯𒃷  mul-gana2  "type of plant" 
->>>  mul-ma-al  
  mulmal  [ SOUND ]  𒀯𒈠𒀠  mul-ma-al  "a sound (onomatopoeic)" 
->>>  mul-ma-al za  
  mulmal za  [ MAKE NOISE ]  𒀯𒈠𒀠𒍝  mul-ma-al za  "to make noise" 
->>>  mul-sig7  
  mulsig  [ DARKNESS ]  𒀯𒅊  mul-sig7  "darkness" Akk.  ekletu 
->>>  mulu4  
  mulu  [ SURVEYOR ]  |GAN₂.BU|  mulu4  "field surveyor" Akk.  abi ašli 
->>>  mu7 -mu7  
  mumun  [ NOISE ]  𒅲𒅲  mu7 -mu7  "noise" Akk.  ramīmu ;  rigmu 
->>>  mumun-ĝal2  
  mumunĝal  [ EXORCIST ]  𒅲𒅲𒅅  mumun-ĝal2  "exorcist" Akk.  (w)āsipu 
->>>  mun ku6  
  mun  [ FISH ]  𒁵𒄩  mun ku6  "a fish" 
->>>  mun ;  mun4 ;  munu3  
  mun  [ SALT ]  𒁵;𒋀;|GA₂×DIM×ŠE|  mun ;  mun4 ;  munu3  "(to be) brackish; salt" Akk.  marru ;  ţabtu 
->>>  mun-du  
  mundu  [ GROATS ]  𒁵𒁺  mun-du  "groats" Akk.  mundu 
->>>  mun-gazi  
  mungazi  [ ~AGRICULTURE ]  𒁵𒃢  mun-gazi  "a class of agricultural products" 
->>>  munsub ;  munsub2 ;  munsub x (|KA×SUHUR|) ;  su munsub ;  su munsub2 ;  u2 -šu-p?  
  munsub  [ HAIR ]  𒈰;|SIK₂.LAM.SUHUR|;|KA×SUHUR|(𒆅);𒋢𒈰;𒋢|SIK₂.LAM.SUHUR|;𒌑𒋗  munsub ;  munsub2 ;  munsub x (|KA×SUHUR|) ;  su munsub ;  su munsub2 ;  u2 -šu-p?  "hair; barber" Akk.  šārtu ;  šārat zumri ;  gallābu 
->>>  mu6 -sub3 ;  munsub x (|PA.GU2 @g|)  
  munsub  [ SHEPHERD ]  𒉺|NUNUZ.AB₂×KAD₃|;|KA×SUHUR|(𒉺𒄘?)  mu6 -sub3 ;  munsub x (|PA.GU2 @g|)  "shepherd, herdsman; an official" Akk.  rē'û 
->>>  munu4  
  munu  [ MALT ]  𒉽𒊺𒉽  munu4  "malt" Akk.  buqlu 
->>>  munu4  
  munu  [ PROFESSION ]  𒉽𒊺𒉽  munu4  "a profession" 
->>>  munu2  
  munu  [ SCORCHING ]  |KI.NE|  munu2  "(to be) scorching" Akk.  himţêtu 
->>>  munu4 -gu7  
  munugu  [ FESTIVAL ]  𒉽𒊺𒉽𒅥  munu4 -gu7  "a festival" 
->>>  munu4 -gaz  
  munukaz  [ PROFESSION ]  𒉽𒊺𒉽𒄤  munu4 -gaz  "a profession" 
->>>  munu4 -mud6 ;  munu x (|PAP.PAP×ŠE|)-mud6  
  munumud  [ MALTSTER ]  𒉽𒊺𒉽𒊬;|PAP.PAP×ŠE|.SAR(𒉽𒉽·𒊺)𒊬  munu4 -mud6 ;  munu x (|PAP.PAP×ŠE|)-mud6  "maltster" Akk.  bāqilu 
->>>  munu4 -mu2 -gal  
  munumudgal  [ MALTSTER ]  𒉽𒊺𒉽𒊬𒃲  munu4 -mu2 -gal  "head maltster" 
->>>  munus ;  nu-nus  
  munus  [ WOMAN ]  𒊩;𒉡𒉭  munus ;  nu-nus  "woman; female" Akk.  sinništu 
->>>  munus-ĝeš-gi  
  munusĝešgi  [ PERFORMER ]  𒊩𒄑𒄀  munus-ĝeš-gi  "type of cult performer" 
->>>  munzer  
  munzer  [ LICORICE ]  |KI.AN.ŠEŠ.KI|  munzer  "licorice?" Akk.  aşuşimtu ;  supālu 
->>>  munzer x (|SAG.MU.BU|)  
  munzer  [ UNKEMPT ]  SAG.MU.BU(𒊕𒈬𒁍)  munzer x (|SAG.MU.BU|)  "(to be) unkempt" 
->>>  mu-pad3 -da  
  mupada  [ GIFT ]  𒈬𒅆𒊒𒁕  mu-pad3 -da  "gift" 
->>>  mur  
  mur  [ CVVE ]  𒄯  mur  "(compound verb verbal element)" 
->>>  mur10  
  mur  [ DRESS ]  TUG₂  mur10  "to get dressed, clothe oneself" Akk.  labāšu 
->>>  mur  
  mur  [ FISH ]  𒄯  mur  "a fish" 
->>>  mur  
  mur  [ FODDER ]  𒄯  mur  "fodder; (to be) fat" Akk.  imrû ;  kabāru 
->>>  mur  
  mur  [ LUNG ]  𒄯  mur  "lung" Akk.  hašû 
->>>  mur-ra-an ;  ĝeš mur-ra-an  
  muran  [ TREE ]  𒄯𒊏𒀭;𒄑𒄯𒊏𒀭  mur-ra-an ;  ĝeš mur-ra-an  "a tree" 
->>>  mu-ra-aš  
  muraš  [ INTERPRETRESS ]  𒈬𒊏𒀸  mu-ra-aš  "female dream interpreter" Akk.  ša'īltu 
->>>  murgu  
  murgu  [ DRAW ]  𒋞  murgu  "to draw, design" Akk.  eşēru 
->>>  mur7  
  murgu  [ EXCREMENT ]  𒈱  mur7  "excrement" 
->>>  murgu  
  murgu  [ EXCREMENT ]  𒋞  murgu  "excrement" Akk.  tabāštānu 
->>>  mur-gu4  
  murgu  [ FODDER ]  𒄯𒄞  mur-gu4  "fodder" Akk.  imrû 
->>>  murgu3  
  murgu  [ RAGE ]  |KA×NE|  murgu3  "rage" Akk.  libbātu 
->>>  murgu2 ;  murgu  
  murgu  [ SHOULDER ]  𒈱;𒋞  murgu2 ;  murgu  "shoulder; back" Akk.  pūdu ;  warkatu 
->>>  murgu2 -ba ;  murgu-ba ;  ba-murgu ;  ba-murgu2  
  murguba  [ SHELL ]  𒈱𒁀;𒋞𒁀;𒁀𒋞;𒁀𒈱  murgu2 -ba ;  murgu-ba ;  ba-murgu ;  ba-murgu2  "shell of a marine creature" 
->>>  mur-ma-ra ;  murum  
  murmara  [ ULULATION ]  𒄯𒈠𒊏;𒅗  mur-ma-ra ;  murum  "ululation, rumble" 
->>>  mur-ma-ra ša4 ;  mur-ma-ra za ;  murum ša4 ;  murum x (|KA×HI×AŠ2 |) ša4  
  murmara ša  [ ROAR ]  𒄯𒈠𒊏𒁺;𒄯𒈠𒊏𒍝;𒅗𒁺;𒅗·(𒅗·𒄭·𒀾)𒁺  mur-ma-ra ša4 ;  mur-ma-ra za ;  murum ša4 ;  murum x (|KA×HI×AŠ2 |) ša4  "to roar" Akk.  ramāmu 
->>>  mur-suh3  
  mursuh  [ STONE ]  𒄯𒄗  mur-suh3  "a stone" 
->>>  gi muru x  
  muru  [ MAT ]  𒄀𒉠·  gi muru x  "a reed mat used as a cover" Akk.  burû 
->>>  muru9 ;  muru3  
  muru  [ RAINSTORM ]  𒅎𒂂;𒅎  muru9 ;  muru3  "rainstorm; mist; drizzle" Akk.  imbaru ;  murû 
->>>  murub6 ;  murub4 ;  murub2 ;  murub ;  murub3  
  murub  [ MIDDLE ]  𒌙;𒉠;|SAL.LAGAR|;𒉠;|EN.ME.LAGAR|  murub6 ;  murub4 ;  murub2 ;  murub ;  murub3  "middle; female genitals, vulva; buttocks, rump; knob; mouth; gate (of city or large building); space between, distance; link; hips" Akk.  abullu ;  birītu ;  bişşūru ;  pinku ;  pû ;  qablu ;  qinnatu ;  ûru 
->>>  murub ;  murub3  
  murub  [ PRIEST ]  𒉠;|EN.ME.LAGAR|  murub ;  murub3  "a priest" Akk.  ēnu 
->>>  murum5 ;  murum4 ;  uru8  
  murum  [ IN-LAW ]  |SAL.UD.EDIN|;|UR₂×U₂+AŠ|;UR₂  murum5 ;  murum4 ;  uru8  "father-in-law; brother-in-law" Akk.  emu rabû 
->>>  ĝeš muru5 -za-nu-um  
  murzanum  [ WOODEN OBJECT ]  𒄑|SAL.UD.EDIN|𒍝𒉡𒌝  ĝeš muru5 -za-nu-um  "wooden object" 
->>>  mu2 -sar  
  musar  [ GARDEN ]  𒊬𒊬  mu2 -sar  "garden" Akk.  mūšaru 
->>>  mu-SAR  
  muSAR  [ PROFESSION ]  𒈬𒊬  mu-SAR  "a profession" 
->>>  mu-sar-ra  
  musara  [ INSCRIPTION ]  𒈬𒊬𒊏  mu-sar-ra  "inscription" Akk.  musarû 
->>>  mussa ;  mi2 -us2 -sa ;  mi2 -sa2  
  mussa  [ IN-LAW ]  𒊩𒍑𒁲;𒊩𒍑𒊓;𒊩𒁲  mussa ;  mi2 -us2 -sa ;  mi2 -sa2  "son-in-law" Akk.  emu şehru 
->>>  mussa-tur  
  mussatur  [ IN-LAW ]  𒊩𒍑𒁲𒌉  mussa-tur  "son-in-law" 
->>>  muš3  
  muš  [ CURDLE? ]  𒈹  muš3  "to curdle?" 
->>>  muš3 ;  muš2  
  muš  [ FACE ]  𒈹;𒈽  muš3 ;  muš2  "face, appearance" Akk.  zīmu 
->>>  muš ku6  
  muš  [ FISH ]  𒈲𒄩  muš ku6  "type of fish" 
->>>  dug muš  
  muš  [ POT ]  𒂁𒈲  dug muš  "a pot" Akk.  karpat şerri 
->>>  muš  
  muš  [ SNAKE ]  𒈲  muš  "snake" Akk.  şēru 
->>>  muš3  
  muš  [ SPACE ]  𒈹  muš3  "flat space; a holy area" Akk.  mātu 
->>>  muš2  dub  
  muš dub  [ UNMNG ]  𒈽𒁾  muš2  dub  "?" Akk.  ? 
->>>  muš3  tum2  
  muš tum  [ STOP WORKING ]  𒈹𒁺  muš3  tum2  "to stop working" Akk.  naparkû 
->>>  muš-UD-LU mušen  
  muš.UD.LU  [ BIRD ]  𒈲𒌓𒇻𒄷  muš-UD-LU mušen  "a bird" 
->>>  ma-ša-lum ;  zabar ma-ša-lum ;  urud ma-sal4 -lum ;  mu-ša-lum  
  mušalum  [ MIRROR ]  𒈠𒊭𒈝;𒌓𒊕𒁇𒈠𒊭𒈝;U+1234F𒈠𒋡𒈝;𒈬𒊭𒈝  ma-ša-lum ;  zabar ma-ša-lum ;  urud ma-sal4 -lum ;  mu-ša-lum  "mirror" Akk.  mušālu 
->>>  muš3 -am3 ;  muš2 -am3  
  mušam  [ COMPASSION ]  𒈹𒀀𒀭;𒈽𒀀𒀭  muš3 -am3 ;  muš2 -am3  "(exclamation of) compassion" 
->>>  muš-da-gur4 ;  muš-da-gur4 -ra  
  mušdagura  [ GECKO ]  𒈲𒁕𒆸;𒈲𒁕𒆸𒊏  muš-da-gur4 ;  muš-da-gur4 -ra  "gecko" Akk.  pizalluru 
->>>  mušen ;  mu-ti-in ;  mu-tin  
  mušen  [ BIRD ]  𒄷;𒈬𒋾𒅔;𒈬𒁷  mušen ;  mu-ti-in ;  mu-tin  "bird" Akk.  işşūru 
->>>  mušen-buru5  
  mušenburu  [ FLOCK ]  𒄷𒉅  mušen-buru5  "flock of small birds" 
->>>  mušen-du3 ;  usandu x (|NUNUZ.AB2 ×AŠGAB|)  
  mušendu  [ BIRD-CATCHER ]  𒄷𒆕;|NUNUZ.AB₂×AŠGAB|(𒉭𒀖·𒀿)  mušen-du3 ;  usandu x (|NUNUZ.AB2 ×AŠGAB|)  "bird-catcher" Akk.  usandû 
->>>  mušen-tur-tur  
  mušenturtur  [ BIRD ]  𒄷𒌉𒌉  mušen-tur-tur  "a bird" Akk.  ? 
->>>  muš-gal  
  mušgal  [ SERPENT ]  𒈲𒃲  muš-gal  "type of serpent" Akk.  mušgallu 
->>>  muš-gu7 mušen  
  mušgu  [ BIRD ]  𒈲𒅥𒄷  muš-gu7 mušen  "a bird" 
->>>  muš-ĝin mušen  
  mušĝen  [ BIRD ]  𒈲𒁺𒄷  muš-ĝin mušen  "a bird" 
->>>  muš-ĝiri2  
  mušĝiri  [ SNAKE ]  𒈲𒄈  muš-ĝiri2  "fanged snake; dangerous animals; reptile" 
->>>  na4 muš-ĝiri2  
  mušĝiri  [ STONE ]  𒎎𒈲𒄈  na4 muš-ĝiri2  "a stone" Akk.  muššāru 
->>>  muš-huš  
  mušhuš  [ MONSTER ]  𒈲𒄭𒄊  muš-huš  "a monster" Akk.  mušhuššu 
->>>  mu-ši-ru-um mušen  
  muširum  [ BIRD ]  𒈬𒅆𒊒𒌝𒄷  mu-ši-ru-um mušen  "a bird" 
->>>  MUŠ3 .KA.|U.GUD|  
  MUŠKA'UL  [ CUPBEARER ]  𒈹𒅗𒌋𒄞  MUŠ3 .KA.|U.GUD|  "cupbearer" 
->>>  muš-lah4 mušen ;  muš-lah5 mušen  
  mušlah  [ BIRD ]  𒈲𒁻𒄷;𒈲|DU.DU|𒄷  muš-lah4 mušen ;  muš-lah5 mušen  "a bird" 
->>>  lu2 muš-lah4 ;  lu2 muš-lah5  
  mušlah  [ CHARMER ]  𒇽𒈲𒁻;𒇽𒈲|DU.DU|  lu2 muš-lah4 ;  lu2 muš-lah5  "snake charmer" Akk.  muš(la)lahhu 
->>>  muš-lah5 -gal  
  mušlahgal  [ CHARMER ]  𒈲|DU.DU|𒃲  muš-lah5 -gal  "head snake-charmer" 
->>>  muš-mah  
  mušmah  [ CREATURE ]  𒈲𒈤  muš-mah  "a mythical creature" Akk.  mušmahhu 
->>>  muš3 -me  
  mušme  [ FACE ]  𒈹𒈨  muš3 -me  "face, appearance" Akk.  zīmu ;  būnu 
->>>  muš- d nin-ka5 mušen ;  muš- d nin-ka6 mušen ;  d nin-ka5 mušen ;  muš-niĝ2 mušen ;  muš-niĝ2 -gu7 mušen  
  mušninka  [ BIRD ]  𒈲𒀭𒎏𒈜𒄷;𒈲𒀭𒎏𒄷𒄷;𒀭𒎏𒈜𒄷;𒈲𒃻𒄷;𒈲𒃻𒅥𒄷  muš- d nin-ka5 mušen ;  muš- d nin-ka6 mušen ;  d nin-ka5 mušen ;  muš-niĝ2 mušen ;  muš-niĝ2 -gu7 mušen  "a bird" 
->>>  muš-saĝ-kal  
  mušsaĝkal  [ SNAKE ]  𒈲𒊕𒆗  muš-saĝ-kal  "a snake" 
->>>  muššagana  
  muššagana  [ PANGS ]  |LAGAB×MUŠ|  muššagana  "hunger pangs, ravenous hunger" Akk.  karurtu ša barbaru 
->>>  muš-ša3 -tur3 ;  muš-ša3 -tur  
  muššatur  [ SNAKE ]  𒈲𒊮𒉣𒇬;𒈲𒊮𒌉  muš-ša3 -tur3 ;  muš-ša3 -tur  "a (mythical) snake; horned viper" Akk.  bašmu 
->>>  muštaptin  
  muštaptin  [ TOOL ]  𒁃  muštaptin  "a potter's tool" Akk.  muštaptinnu 
->>>  muš-u2 ku6  
  mušu  [ FISH ]  𒈲𒌑𒄩  muš-u2 ku6  "type of fish" 
->>>  mu-tun3 -na  
  mutuna  [ STOMACH? ]  𒈬𒂅𒈾  mu-tun3 -na  "stomach?" 
->>>  mu-u2 -a  
  mu'ua  [ THIS YEAR ]  𒈬𒌑𒀀  mu-u2 -a  "this year" 
->>>  mu-u2 -a  
  mu'u'a  [ YOUTH ]  𒈬𒌑𒀀  mu-u2 -a  "youth, young man" 
->>>  u2 -zug4 ;  muzug ;  muzug2  
  muzug  [ PERSON ]  𒌑GAR.;|U₂.SAG|;|U₂.KA|  u2 -zug4 ;  muzug ;  muzug2  "a ritually unclean, impure person" Akk.  musukku 

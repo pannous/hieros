@@ -17,7 +17,7 @@ LAGAB lagab
 |NI.UD|.LAGAB na4 lagab 
 LAGAB lagab  debt-note #hišû "debt-note" . lagab [EXCESS] lagab [EXCESS]  wr. lagab "excess" #atartu 
 LAGAB lagab 
-LAGAB lagab  rail, fence, side-wall #kutlu "rail, fence, side-wall" . LAGABSAGGUNU [BIRD] LAGABSAGGUNU [BIRD]  wr. |LAGAB.SAG@g| mušen "a bird" 
+LAGAB lagab  rail, fence, side-wall #kutlu "rail, fence, side-wall" . LAGABSAGGUNU [BIRD] LAGABSAGGUNU [BIRD]  wr.|LAGAB.SAG@g| mušen "a bird" 
 |LAGAB.SAG@g|.HU |LAGAB.SAG@g| mušen 
 LAGAR lagar 
 |SAL.HUB₂| lagar3 
@@ -47,7 +47,7 @@ LAK26 HA LAK262 ku6
 LAK263 LAK263 
 LAK264 LAK264 
 |U.ŠA| LAK384 
-NI.NA.AL NI-na-al  a food product LAK397 [FISH] LAK397 [FISH]  wr. |ŠU2 +E2 | ku6 "a fish" 
+NI.NA.AL NI-na-al  a food product LAK397 [FISH] LAK397 [FISH]  wr.|ŠU2 +E2 | ku6 "a fish" 
 LAK39 HA |ŠU2 +E2 | ku6 
 LAK68 HA |ĜA2×NE| ku6 
 LAK9 HA LAK93 ku6 
@@ -511,7 +511,7 @@ A.BAL.E.HA a-bal-e ku6  a fish abala'e [STONE] abala'e [STONE] wr. na4 a-bal-e "
 |NI.UD|.A.BAL.E na4 a-bal-e  a stone abamarga [CALF] abamarga [CALF] wr. ab2-amar-ga "female calf" 
 AB₂.AMAR.GA ab2-amar-ga  female calf  M. Stol, BSA8178-17 abara [SWEAT] abara [SWEAT]  wr. a-bar-ra "sweat" #zūtu 
 A.BAR.RA a-bar-ra 
-A.BA.RA.DU a-ba-ra-ša4  truly #abarša "truly, certainly" . ABAšag [CHAMBER-CENTER] ABAšag [CHAMBER-CENTER]  wr. |AB×A|-šag4 "center of the bathing chamber?" 
+A.BA.RA.DU a-ba-ra-ša4  truly #abarša "truly, certainly" . ABAšag [CHAMBER-CENTER] ABAšag [CHAMBER-CENTER]  wr.|AB×A|-šag4 "center of the bathing chamber?" 
 |AB×A|.ŠA₃ |AB×A|-šag4 
 AB ab  
 AB.BA ab-ba 
@@ -708,7 +708,7 @@ IGI@g agar4
 |LAGAB×IGI@g| agar2 
 |LAGAB×A+GAR| agar3 
 A.DA.|IGI.RI| a-da-ar 
-A₂.GAR₃ a2-gar3  ? #? . AGAR [VESSEL] AGAR [VESSEL] wr. |LAGAB×IGI@g| "a vessel" 
+A₂.GAR₃ a2-gar3  ? #? . AGAR [VESSEL] AGAR [VESSEL] wr.|LAGAB×IGI@g| "a vessel" 
 |LAGAB×IGI@g| |LAGAB×IGI@g|  a vessel agargara [DROPPINGS] agargara [DROPPINGS]  wr. agargara "sheep droppings; fish-spawn" #agargarû ; piqannu 
 NUN@t agargara 
 NUN@t.HA agargara ku6 
@@ -2527,7 +2527,7 @@ GIŠ.HU.URU.IN hu-ri2-in
 GIŠ.E.RI.NE e-re-ne  
 HU.URU.IN.HU hu-ri2-in mušen 
 ERIN₂.HA eren2 ku6 
-|UR₂×HA| eren8  ? #? . EREN.X [ANIMAL] EREN.X [ANIMAL] wr. |EREN2 .X| "an animal" 
+|UR₂×HA| eren8  ? #? . EREN.X [ANIMAL] EREN.X [ANIMAL] wr.|EREN2 .X| "an animal" 
 EREN₂.X |EREN2 .X|  an animal erengursi [BIRD] erengursi [BIRD]  wr. eren?-gur× -si mušen ; AN-gir2 mušen ; X-na-kir4-si mušen "a bird" 
 EREN.|ŠE.ŠE.KIN|.SI.HU eren?-gur× -si mušen 
 AN.GIR₂.HU AN-gir2 mušen 
@@ -2819,7 +2819,7 @@ TE.LA.GAL gal5-la-gal
 TE.GAL galla× -gal  
 |GAL.TE.LAL| gallagal× 
 GAL.TAB.BU.UM gal-tab-bu-um 
-GAL.UN gal-uĝ3  an official [1989-90] J. Bauer, AfO36-3781-8  G. Selz, AWEL85-8 GALURUBAR [INSTITUTION?] GALURUBAR [INSTITUTION?] wr. |GAL.URU×BAR| "an institution?" 
+GAL.UN gal-uĝ3  an official [1989-90] J. Bauer, AfO36-3781-8  G. Selz, AWEL85-8 GALURUBAR [INSTITUTION?] GALURUBAR [INSTITUTION?] wr.|GAL.URU×BAR| "an institution?" 
 |GAL.URU×BAR| |GAL.URU×BAR|  an institution?  G. Visicato and A. Westenholz, Kaskal264 wn2 galzu'unkenak [OFFICIAL] galzu'unkenak [OFFICIAL] wr. gal-zu-unken-na "an official title" 
 GAL.ZU.|URU×BAR|.NA gal-zu-unken-na  an official title  F. Huber, ZA91202-205;178-17 gam [CROOK] gam [CROOK]  wr. kab ; gam3 ; KIN "shepherd's crook, bent stick; haft, hilt" #gamlu ; šikru 
 GIŠ.KAB kab  
@@ -4478,7 +4478,7 @@ KI SUR ki sur
 KI TAG ki tag 
 KI DU ki tum2 
 KI UŠ ki us2 
-KI ZA ki za  to bow down #šukênu "to prostrate os,." . KI.KAŠ.NI [MEAL] KI.KAŠ.NI [MEAL]  wr. |KI.KAŠ.NI| "meal" 
+KI ZA ki za  to bow down #šukênu "to prostrate os,." . KI.KAŠ.NI [MEAL] KI.KAŠ.NI [MEAL]  wr.|KI.KAŠ.NI| "meal" 
 KI.KAŠ.NI |KI.KAŠ.NI| 
 KI.AN.NA ki-an-na  a cultic location See: ninda ki'ana. ki'anaĝ [LOCUS] ki'anaĝ [LOCUS] wr. ki-a-naĝ "a place of libations to the dead" #? 
 KI.A.|KA×A| ki-a-naĝ   a place of libations to the dead #? .  M. Sigrist, Drehem182-18 
@@ -4789,7 +4789,7 @@ MI kukku5
 |MI.MI| kukku2 
 KI.KI kukku3 
 |KAK.TAR| kuksu2 
-TAR kuksu  a garden tool #kuksu "a garden tool" . KUKU [SUE] KUKU [SUE]  wr. |KU.KU| "to sue" 
+TAR kuksu  a garden tool #kuksu "a garden tool" . KUKU [SUE] KUKU [SUE]  wr.|KU.KU| "to sue" 
 |KU.KU| |KU.KU| 
 KUL kul 
 KUL kul 
@@ -4938,7 +4938,7 @@ LAGAB lagab
 |NI.UD|.LAGAB na4 lagab 
 LAGAB lagab  debt-note #hišû "debt-note" . lagab [EXCESS] lagab [EXCESS]  wr. lagab "excess" #atartu 
 LAGAB lagab 
-LAGAB lagab  rail, fence, side-wall #kutlu "rail, fence, side-wall" . LAGABSAGGUNU [BIRD] LAGABSAGGUNU [BIRD]  wr. |LAGAB.SAG@g| mušen "a bird" 
+LAGAB lagab  rail, fence, side-wall #kutlu "rail, fence, side-wall" . LAGABSAGGUNU [BIRD] LAGABSAGGUNU [BIRD]  wr.|LAGAB.SAG@g| mušen "a bird" 
 |LAGAB.SAG@g|.HU |LAGAB.SAG@g| mušen 
 LAGAR lagar 
 |SAL.HUB₂| lagar3 
@@ -4968,7 +4968,7 @@ LAK26 HA LAK262 ku6
 LAK263 LAK263 
 LAK264 LAK264 
 |U.ŠA| LAK384 
-NI.NA.AL NI-na-al  a food product LAK397 [FISH] LAK397 [FISH]  wr. |ŠU2 +E2 | ku6 "a fish" 
+NI.NA.AL NI-na-al  a food product LAK397 [FISH] LAK397 [FISH]  wr.|ŠU2 +E2 | ku6 "a fish" 
 LAK39 HA |ŠU2 +E2 | ku6 
 LAK68 HA |ĜA2×NE| ku6 
 LAK9 HA LAK93 ku6 
@@ -6350,7 +6350,7 @@ GAR.SAL.UŠ.DI nig2-mi2-us2-sa2
 GAR.|SAL.UŠ.DI| niĝ2-mussa  
 GAR.SAL.UŠ.SA niĝ2-mi2-us2-sa  
 GAR.U₂.|KA×LI| niĝ2-u2-zug4  
-GAR. |KA×LI| niĝ2-ussu-zug4  
+GAR.|KA×LI| niĝ2-ussu-zug4  
 GAR.8 niĝ2-ussu  
 SU.GAR.|NI.UD| kuš niĝ2-na4 
 NA na 
@@ -6882,7 +6882,7 @@ TUG₂.SA.GA tug2 sa-ga  skirt, kilt #sāgu "a skirt, kilt" . sagal [BODY-PART] 
 SA.GAL sa-gal 
 SA.|GUM×ŠE| sa-gaz 
 SAG.|GUM×ŠE| sag-gaz  
-|U.SAG| sagdul  SAGGUNUSAGGUNU [BIRD] SAGGUNUSAGGUNU [BIRD]  wr. |SAG@g|.|SAG@g| mušen "a bird" 
+|U.SAG| sagdul  SAGGUNUSAGGUNU [BIRD] SAGGUNUSAGGUNU [BIRD]  wr.|SAG@g|.|SAG@g| mušen "a bird" 
 SAG@g.SAG@g.HU |SAG@g|.|SAG@g| mušen 
 SA.GI sa-gi 
 SA.BU.DA sa-gid2-da 
@@ -8092,7 +8092,7 @@ UD.HI.IN u4-hi-in
 U₂.HI.IN u2-hi-in 
 |UD.KUŠU₂|.|LAGAB×U| uh2-pu2 
 |UD.KUŠU₂|.|LAGAB×U| uh2-pu2  standing water #lâ'irānu . uhrum [STREAM] uhrum [STREAM] wr. uh-ru-um "stream, wadi" #nahallu 
-|HI×NUN|.RU.UM uh-ru-um  stream, wadi #nahallu "stream, wadi, gorge" .  A. Cavigneaux and F. Alrawi, ZA9238-3 UHUL [SHEEP] UHUL [SHEEP]  wr. |U8 +HUL2 | "a type of sheep, fat-tailed ewe" 
+|HI×NUN|.RU.UM uh-ru-um  stream, wadi #nahallu "stream, wadi, gorge" .  A. Cavigneaux and F. Alrawi, ZA9238-3 UHUL [SHEEP] UHUL [SHEEP]  wr.|U8 +HUL2 | "a type of sheep, fat-tailed ewe" 
 U₈+HUL₂ |U8 +HUL2 | 
 |HU.SI|.|HI×AŠ₂|.HU u5-hur mušen 
 U₂.IL₂ u2-il2  carrier ukiri [GARDEN] ukiri [GARDEN]  wr. u2-kiri6 "garden produce" 
@@ -8139,7 +8139,7 @@ NU ul2
 U₂.LAL u2-la2 
 BAD ulal  oven #tinūru "oven, tannour" . ulal [PLANT] ulal [PLANT]  wr. u2-lal3 "a plant" #? 
 U₂.|TA×HI| u2-lal3 
-U₂.LA.GIR₂@g.LA u2-la-ul4-la  "quick!" ULBAD [BIRD] ULBAD [BIRD] wr. |U.GUD|.BAD mušen "type of bird" 
+U₂.LA.GIR₂@g.LA u2-la-ul4-la  "quick!" ULBAD [BIRD] ULBAD [BIRD] wr.|U.GUD|.BAD mušen "type of bird" 
 |U.GUD|.BAD.HU |U.GUD|.BAD mušen  type of bird ULGAR [ACCUMULATION] ULGAR [ACCUMULATION] wr. UL.GAR "accumulation " 
 |U.GUD|.GAR UL.GAR  accumulation  J. Hoyrup, Lengths Widths Surfaces19;4 ulhe [FIRMAMENT] ulhe [FIRMAMENT]  wr. ul4-he2 "firmament, vault of the sky" #šupuk šamê 
 GIR₂@g.GAN ul4-he2 
@@ -8149,7 +8149,7 @@ U₂.LI.A.SAR u2-li-a sar  a plant #dišu . ulil [UNMNG] ulil [UNMNG] wr. ulil "
 AŠ@k ulil  ? #ulillu "mng. unkn." . ulilla [LAMENT] ulilla [LAMENT]  wr. u3-lil2-la2 "a lament" 
 |IGI.DIB|.KID.LAL u3-lil2-la2 
 U₂.LI.IN u2-li-in  colored twine #barumtu "colored wool" . ullu [UNMNG] ullu [UNMNG] wr. ullu "?" #pasāqu 
-|U.GUD| ullu  ? #pasāqu "mng. unkn." . ULMA [~MOUND] ULMA [~MOUND]  wr. |U.GUD|.MA "designation of mound" 
+|U.GUD| ullu  ? #pasāqu "mng. unkn." . ULMA [~MOUND] ULMA [~MOUND]  wr.|U.GUD|.MA "designation of mound" 
 |U.GUD|.MA |U.GUD|.MA 
 LU₂.|U.GUD|.MAŠ₂.|UD.DU| lu2 ul-maš2-e3  a priest  M. Geller, ZA9123 ulu [UNMNG] ulu [UNMNG] wr. ulu3 ; u3-lu "" 
 |URU×MIN| ulu3 
@@ -9868,7 +9868,7 @@ GUR gur
 |NI.UD|.ŠU.HU.UM na4 šu-hu-um 
 ŠU.I šu-i  barber See: gam ĝiri šu'i; masab šu'i; munus šu'i; ninda šu'i; tun šu'i; ugula šu'i. #gallabu "barber" .  F. Pomponio and G. Visicato, ED Szuruppak3 [1989-90] J. Bauer, AfO36-378  G. Selz, AWEL8 
 ŠU.IB šu-IB  an item of agricultural equipment? 
-ŠU.IL₂.LAL šu-il2-la2  a kind of prayer  a subscript ŠUKAL [TREE] ŠUKAL [TREE]  wr. |ŠU.KAL| "a tree" 
+ŠU.IL₂.LAL šu-il2-la2  a kind of prayer  a subscript ŠUKAL [TREE] ŠUKAL [TREE]  wr.|ŠU.KAL| "a tree" 
 GIŠ.|ŠU.KAL| |ŠU.KAL| 
 LU₂.GIŠ.ŠU.GAN₂@t lu2 šu-kara2  
 GIŠ.ŠU.GAN₂@t šu-kara2   carpenter #naggāru "joiner, carpenter" . šukara [TOOL] šukara [TOOL]  wr. šu-kara2 "tool, implement, utensil" #unūtu 

@@ -21,6 +21,8 @@ for x in abc:
 			l = re.sub(r"\(.*?\)", "", l)
 			l = re.sub(r"\[\d+\]", "", l)
 			l = re.sub(r"(\d\.)", " \1", l)
+			l = re.sub(r"(\d\.)", " \1", l)
+			l = re.sub(r"\. \|", ".|", l)
 			l = re.sub(r"Akk...", "#", l)
 			l = re.sub(r" x", "×", l)
 			l = re.sub(r"See .*", "", l)

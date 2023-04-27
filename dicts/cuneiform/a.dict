@@ -1,1172 +1,587 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
->>>  a2  
  a  [ ARM ]  𒀉  a2  "arm; labor; wing; horn; side; strength; wage; power" Akk.  ahu ;  idu 
->>>  a  
  a  [ BIRD-CRY ]  𒀀  a  "a bird-cry" 
->>>  a2  
  a  [ TIME ]  𒀉  a2  "time" 
->>>  a  
  a  [ WATER ]  𒀀  a  "water; semen; progeny" Akk.  mû ;  rihûtu 
->>>  kuš A2  
  A  [ WEAPON ]  𒋢𒀉  kuš A2  "a weapon or  a leather holder for a weapon" 
->>>  a2  aĝ2  
  a aĝ  [ COMMAND ]  𒀉𒉘  a2  aĝ2  "to command; to instruct" Akk.  (w)u'uru 
->>>  a2  bad  
  a bad  [ SPREAD ]  𒀉𒁁  a2  bad  "'to spread the arms'" Akk.  ? 
->>>  a2  dar  
  a dar  [ CONFISCATE ]  𒀉𒁯  a2  dar  "to confiscate, seize illegally; to sequester; to take hold of" Akk.  dâşu 
->>>  a de2  
  a de  [ IRRIGATE ]  𒀀𒌤  a de2  "to irrigate (by flooding)" Akk.  šaqû ša eqli 
->>>  a2  dub2  
  a dub  [ FLUTTER ]  𒀉𒂀  a2  dub2  "to flutter the wings" Akk.  šâhu ša işşuri 
->>>  a dug4  
  a dug  [ IRRIGATE ]  𒀀𒅗  a dug4  "to irrigate (from canal water)" Akk.  šaqû ša eqli 
->>>  a2  e3  
  a e  [ REAR ]  𒀉𒌓𒁺  a2  e3  "to rear, bring up (a child); to take care of" Akk.  rubbû 
->>>  a gi ;  a gi4  
  a gi  [ DEFLOWER ]  𒀀𒄀;𒀀𒄄  a gi ;  a gi4  "to deflower" Akk.  naqābu 
->>>  a2  gur  
  a gur  [ TURN ]  𒀉𒄥  a2  gur  "'to turn the arm'" Akk.  ? 
->>>  a2  ĝal2  
  a ĝal  [ HELP ]  𒀉𒅅  a2  ĝal2  "to help, to assist" Akk.  ? 
->>>  a2  ĝal2  
  a ĝal  [ STRONG ]  𒀉𒅅  a2  ĝal2  "to be strong" Akk.  lē'û 
->>>  a2  ĝar ;  a2  ĝa2 -ĝa2 ;  a2  ĝal2  
  a ĝar  [ DEFEAT ]  𒀉𒃻;𒀉𒂷𒂷;𒀉𒅅  a2  ĝar ;  a2  ĝa2 -ĝa2 ;  a2  ĝal2  "to defeat" Akk.  dâşu 
->>>  a ĝar  
  a ĝar  [ IRRIGATE ]  𒀀𒃻  a ĝar  "to irrigate" Akk.  rahāşu 
->>>  a2  il2  
  a il  [ CARRY ]  𒀉𒅍  a2  il2  "to carry" Akk.  ? 
->>>  a2  il2  
  a il  [ RAISE ]  𒀉𒅍  a2  il2  "'to raise the arm'" Akk.  idu našû 
->>>  a2  la2  
  a la  [ BIND ]  𒀉𒇲  a2  la2  "'to bind the arm'" Akk.  kamû ;  kasû 
->>>  a2  mah  
  a mah  [ STRENGTHEN ]  𒀉𒈤  a2  mah  "to strengthen" Akk.  ? 
->>>  a2  pad3  
  a pad  [ UNMNG ]  𒀉𒅆𒊒  a2  pad3  "?" Akk.  ? 
->>>  a ra-ah ;  a ra  
  a rah  [ DROWN ]  𒀀𒊏𒄴;𒀀𒊏  a ra-ah ;  a ra  "to drown" Akk.  ? 
->>>  a ri  
  a ri  [ IMPREGNATE ]  𒀀𒊑  a ri  "to impregnate" Akk.  rehû 
->>>  a ru  
  a ru  [ DEDICATE ]  𒀀𒊒  a ru  "to dedicate" Akk.  šarāku 
->>>  a2  sud  
  a sud  [ SPREAD ]  𒀉𒋤  a2  sud  "to spread,; to sail; to run" Akk.  šadāhu 
->>>  a sur  
  a sur  [ URINATE ]  𒀀𒁍  ≈ 𒄮 SUR3  a sur  "to urinate" 
->>>  a2  šu du7  
  a šu du  [ EQUIP ]  𒀉𒋗𒌌  a2  šu du7  "'to equip oneself perfectly'" Akk.  ? 
->>>  a2  šum2  
  a šum  [ EMPOWER ]  𒀉𒋧  a2  šum2  "to give power (to somebody)" Akk.  ? 
->>>  a2  šum2  
  a šum  [ OVERPOWER? ]  𒀉𒋧  a2  šum2  "to overpower?" Akk.  ? 
->>>  a2  tal  
  a tal  [ ENGULF? ]  𒀉𒊑  a2  tal  "to engulf?" Akk.  ? 
->>>  a2  tal2  
  a tal  [ SPREAD ]  𒀉𒉿  a2  tal2  "'to spread the arms'" Akk.  ? 
->>>  a tu15 ;  a tu17 ;  a tu5  
  a tu  [ WASH ]  𒀀𒅎;𒀀𒀀𒋗𒉀;𒀀𒋗𒉀  a tu15 ;  a tu17 ;  a tu5  "to wash, bathe" Akk.  ramāku 
->>>  a2  tu-lu  
  a tulu  [ SLACKEN ]  𒀉𒌅𒇻  a2  tu-lu  "'to slacken the arm'" Akk.  ida ramû 
->>>  a2  us2  
  a us  [ LEAN ]  𒀉𒍑  a2  us2  "'to lean the arm against something'" Akk.  ? 
->>>  a2  zig3  
  a zig  [ RAISE ]  𒀉𒍣  a2  zig3  "'to raise the arm'" Akk.  ? 
->>>  a ;  a-a  
  a'a  [ TEXT ]  𒀀;𒀀𒀀  a ;  a-a  "a text, the scribal exercise a-a" 
->>>  a-ab-ba  
  a'abak  [ SEA ]  𒀀𒀊𒁀  a-ab-ba  "sea(water)" 
->>>  a2 -aĝ2 -ĝa2  
  a'aĝa  [ ASSIGNMENT ]  𒀉𒉘𒂷  a2 -aĝ2 -ĝa2  "assignment; news" 
->>>  a-ak  
  a'ak  [ UNMNG ]  𒀀𒀝  a-ak  "?" 
->>>  a-al-la-ri ;  a-li-ri  
  a'allari  [ EXCLAMATION ]  𒀀𒀠𒆷𒊑;𒀀𒇷𒊑  a-al-la-ri ;  a-li-ri  "an exclamation" Akk.  alālu 
->>>  a-ambar  
  a'ambar  [ WATER ]  𒀀𒆹  a-ambar  "marsh water" Akk.  ? 
->>>  a2 -an-sur ;  a2 -an-zur ;  an-sur  
  a'ansur  [ SPADIX ]  𒀉𒀭𒁍  ≈ 𒄮 SUR3;𒀉𒀭𒀫;𒀭𒁍  ≈ 𒄮 SUR3  a2 -an-sur ;  a2 -an-zur ;  an-sur  "spadix; broom of date spadices" Akk.  sissinnu 
->>>  a2 -aš2  
  a'aš  [ SIGN ]  𒀉𒀾  a2 -aš2  "sign" Akk.  īttu 
->>>  a2 -aš2  
  a'aš  [ SUPPLIES ]  𒀉𒀾  a2 -aš2  "supplies" Akk.  hišihtu 
->>>  a2 -aš2 ;  aš2  
  a'aš  [ WISH ]  𒀉𒀾;𒀾  a2 -aš2 ;  aš2  "wish, desire; curse" Akk.  arratu 
->>>  a2 -aš-ĝar ;  urud a2 -aš-ĝar  
  a'ašĝar  [ AX ]  𒀉𒀸𒃻;U+1234F𒀉𒀸𒃻  a2 -aš-ĝar ;  urud a2 -aš-ĝar  "an ax" 
->>>  ab2  
  ab  [ COW ]  𒀖  ab2  "cow" Akk.  arhu ;  littu 
->>>  ab ku6  
  ab  [ FISH ]  𒀊𒄩  ab ku6  "a fish" 
->>>  AB ku6  
  ab  [ FISH~A ]  𒀊𒄩  AB ku6  "a fish" 
->>>  ab2 ku6  
  ab  [ FISH~B ]  𒀖𒄩  ab2 ku6  "a fish" 
->>>  ab ;  a-ab-ta  
  ab  [ SEA ]  𒀊;𒀀𒀊𒋫  ab ;  a-ab-ta  "sea" Akk.  tâmtu 
->>>  ab  
  ab  [ WINDOW ]  𒀊  ab  "window, window opening" Akk.  aptu 
->>>  AB-gu2 -da ku6  
  AB.guda  [ FISH ]  𒀊𒄘𒁕𒄩  AB-gu2 -da ku6  "a fish" 
->>>  a-ba  
  aba  [ WHO? ]  𒀀𒁀  a-ba  "who?" Akk.  mannu 
->>>  |AB×A|  
  ABA  [ CHAMBER ]  𒍱  |AB×A|  "bathing chamber" 
->>>  ĝeš A.BA  
  ABA  [ TREE ]  𒄑𒀀𒁀  ĝeš A.BA  "a tree" 
->>>  a2 -bad3 ;  an-bad  
  abad  [ SHELTER ]  𒀉𒂦;𒀭𒁁  a2 -bad3 ;  an-bad  "shelter" Akk.  tabinu 
->>>  a2 -bad-ĝal2  
  abadĝal  [ PROTECTIVE ]  𒀉𒁁𒅅  a2 -bad-ĝal2  "protective" 
->>>  a-ba-ĝar-ra  
  abaĝara  [ FETUS ]  𒀀𒁀𒃻𒊏  a-ba-ĝar-ra  "fetus" Akk.  kūbu 
->>>  a-ba-ah-šin  
  abahšin  [ GRAIN ]  𒀀𒁀𒄴𒊿  a-ba-ah-šin  "early harvested grain" Akk.  abahšinnu 
->>>  a-ba-al  
  abal  [ DRY ]  𒀀𒁀𒀠  a-ba-al  "to be dry" 
->>>  a2 -bal  
  abal  [ SUBSTITUTE? ]  𒀉𒁄  a2 -bal  "substitute?" Akk.  enû 
->>>  lu2 a-bala ;  lu2 ab-la2  
  abala  [ WATER DRAWER ]  𒇽𒀀𒁄;𒇽𒀊𒇲  lu2 a-bala ;  lu2 ab-la2  "water drawer" Akk.  dālû 
->>>  a-bal-e ku6  
  abala'e  [ FISH ]  𒀀𒁄𒂊𒄩  a-bal-e ku6  "a fish" 
->>>  na4 a-bal-e  
  abala'e  [ STONE ]  𒎎𒀀𒁄𒂊  na4 a-bal-e  "a stone" 
->>>  ab2 -amar-ga  
  abamarga  [ CALF ]  𒀖𒀫𒂵  ab2 -amar-ga  "female calf" 
->>>  a-bar-ra  
  abara  [ SWEAT ]  𒀀𒁇𒊏  a-bar-ra  "sweat" Akk.  zūtu 
->>>  a-ba-ra-ša4  
  abaraša  [ TRULY ]  𒀀𒁀𒊏𒁺  a-ba-ra-ša4  "truly" Akk.  abarša 
->>>  |AB×A|-šag4  
  ABAšag  [ CHAMBER-CENTER ]  𒍱𒊮  |AB×A|-šag4  "center of the bathing chamber?" 
->>>  ab ;  ab-ba ;  abba2  
  abba  [ FATHER ]  𒀊;𒀊𒁀;𒀋  ab ;  ab-ba ;  abba2  "old (person); witness; father; elder; an official" Akk.  abu ;  šību 
->>>  ab-bu-na ;  ab-bu-um  
  abbun  [ GRAIN ]  𒀊𒁍𒈾;𒀊𒁍𒌝  ab-bu-na ;  ab-bu-um  "a qualification of grain" 
->>>  abbununnu  
  abbununnu  [ DARK DAY ]  𒌓𒄷𒄭𒉣  abbununnu  "dark day" Akk.  ūmu da'mu 
->>>  a2 -bur2 ;  ab-bur2  
  abbur  [ NOOK ]  𒀉𒁔;𒀊𒁔  a2 -bur2 ;  ab-bur2  "nook" 
->>>  ab-du3  
  abdu  [ VEGETABLE ]  𒀊𒆕  ab-du3  "a part of a vegetable" Akk.  elītu 
->>>  ab2 -ga  
  abga  [ CALF ]  𒀖𒂵  ab2 -ga  "suckling female calf" 
->>>  ab2 -ga  
  abga  [ MILK ]  𒀖𒂵  ab2 -ga  "milk cow" 
->>>  ab2 -gal  
  abgal  [ PROFESSION ]  𒀖𒃲  ab2 -gal  "a profession" Akk.  ? 
->>>  abgal2 ;  abgal  
  abgal  [ SAGE ]  𒉣𒈨𒅤;𒉣𒈨  abgal2 ;  abgal  "sage; priest" Akk.  apkallu 
->>>  AB.GAR  
  ABGAR  [ WAVE? ]  𒀊𒃻  AB.GAR  "wave?" 
->>>  ab-hi-ir  
  abhir  [ DRY ]  𒀊𒄭𒅕  ab-hi-ir  "dry, seasoned (of wood)" Akk.  nahru 
->>>  a-bi-gal ;  a-bi2 -a-gal ;  a-bi-ĝal2 ;  a2 -bi-ĝal2  
  abigal  [ FUNCTIONARY ]  𒀀𒁉𒃲;𒀀𒉈𒀀𒃲;𒀀𒁉𒅅;𒀉𒁉𒅅  a-bi-gal ;  a-bi2 -a-gal ;  a-bi-ĝal2 ;  a2 -bi-ĝal2  "person associated with funerals" Akk.  abigallu ;  qabbiru 
->>>  a-bi-za  
  abiza  [ CHIP ]  𒀀𒁉𒍝  a-bi-za  "stone chip" 
->>>  ab2 -KI  
  abKI  [ ~AGRICULTURAL ]  𒀖𒆠  ab2 -KI  "an agricultural term" 
->>>  ab-ki-iz  
  abkiz  [ FURROW ]  𒀊𒆠𒄑  ab-ki-iz  "cleaned furrow" Akk.  apkisu 
->>>  ab-la2  
  abla  [ UNMNG ]  𒀊𒇲  ab-la2  "?" Akk.  ? 
->>>  ab-lal3 ;  ablal ;  ablal3  
  ablal  [ NEST ]  𒀊𒋭;𒆼;𒇦  ab-lal3 ;  ablal ;  ablal3  "nest" Akk.  qinnu 
->>>  abni2  
  abni  [ CRUCIBLE ]  𒆠𒉈  abni2  "a melting pot, crucible" Akk.  maşādu 
->>>  ab2 -ri  
  abri  [ STUFF ]  𒀖𒊑  ab2 -ri  "a raw material" 
->>>  abrig ;  abrig2 ;  ab2 -ri-ig  
  abrig  [ FUNCTIONARY ]  𒉣𒈨𒁺;𒀖𒉣𒈨𒁺;𒀖𒊑𒅅  abrig ;  abrig2 ;  ab2 -ri-ig  "a cultic functionary" Akk.  abriqqu 
->>>  ab2 -ru-um  
  abrum  [ STORAGE ]  𒀖𒊒𒌝  ab2 -ru-um  "storage facility" 
->>>  ab2 -ru-šum  
  abrušum  [ PLANT ]  𒀖𒊒𒋳  ab2 -ru-šum  "medicinal plant" Akk.  aprušu 
->>>  ab2 -saĝ  
  absaĝ  [ STRAP ]  𒀖𒊕  ab2 -saĝ  "top strap" 
->>>  ab-se3 -da ku6  
  abseda  [ FISH ]  𒀊𒋧𒁕𒄩  ab-se3 -da ku6  "a fish" 
->>>  absin3 ;  ab-sin2 ;  absin  
  absin  [ FURROW ]  𒀳;𒀊𒉆;𒆠𒀸𒀸  absin3 ;  ab-sin2 ;  absin  "furrow" Akk.  abšinnu ;  šer'u 
->>>  ab-suhur ku6  
  absuhur  [ CARP ]  𒀊𒋦𒄩  ab-suhur ku6  "type of carp" 
->>>  ab-šag4  
  abšag  [ SEA-MIDST ]  𒀊𒊮  ab-šag4  "center of the sea" 
->>>  ab2 -šar x (NE)  
  abšar  [ COW ]  𒀖NE(𒉈)  ab2 -šar x (NE)  "a type of cow" 
->>>  ab-tir  
  abtir  [ GORE ]  𒀊𒌁  ab-tir  "gore" Akk.  paršu 
->>>  a-BU mušen  
  aBU  [ OWL ]  𒀀𒁍𒄷  a-BU mušen  "an owl" Akk.  eššebu 
->>>  ab2 -udu  
  abudu  [ LIVESTOCK ]  𒀖𒇻  ab2 -udu  "livestock" 
->>>  abul ;  abul-la ;  a-bul5 -la  
  abula  [ GATE ]  𒆍𒃲;𒆍𒃲𒆷;𒀀𒇡𒆷  abul ;  abul-la ;  a-bul5 -la  "gate" Akk.  abullu 
->>>  a-bu-lil-lum  
  abulillum  [ BERRY ]  𒀀𒁍𒇸𒈝  a-bu-lil-lum  "boxthorn berry" Akk.  bulīlu 
->>>  a-bu-um  
  abum  [ FUNERARY MOUND ]  𒀀𒁍𒌝  a-bu-um  "a festival; mound for funerary use" Akk.  apu 
->>>  ab2 -ur2 ;  ab2 -ur3  
  abur  [ COW ]  𒀖𒌫;𒀖𒃡  ab2 -ur2 ;  ab2 -ur3  "rear cow" 
->>>  a2 -bu-ru-um  
  aburum  [ UNMNG ]  𒀉𒁍𒊒𒌝  a2 -bu-ru-um  "?" 
->>>  a2 -bu-ru-ma  
  aburuma  [ SHOE ]  𒀉𒁍𒊒𒈠  a2 -bu-ru-ma  "a shoe" 
->>>  buru4 -sig17 mušen ;  a2 -buru4 -sig17 mušen  
  aburusig  [ BIRD ]  𒉢𒁓𒄀𒄷;𒀉𒉢𒁓𒄀𒄷  buru4 -sig17 mušen ;  a2 -buru4 -sig17 mušen  "a bird" 
->>>  u2 a-bu4 -šu2  
  abušu  [ PLANT ]  𒌑𒀀𒀀𒋙  u2 a-bu4 -šu2  "plant" Akk.  amuššu 
->>>  ab2 -zag-eš-zag-eš  
  abzagešzageš  [ COW ]  𒀖𒍠𒌍𒍠𒌍  ab2 -zag-eš-zag-eš  "type of cow" 
->>>  ab2 -za-za  
  abzaza  [ ZEBU ]  𒀖𒍝𒍝  ab2 -za-za  "zebu; ~ figurine" Akk.  apsasû 
->>>  abzu ;  abzu x (|UMUM×KASKAL|)  
  abzu  [ WATER ]  𒍪𒀊;𒀀(𒌤)  abzu ;  abzu x (|UMUM×KASKAL|)  "(cosmic) underground water; a ritual water container in a temple" Akk.  apsû 
->>>  ad  
  ad  [ BEAD ]  𒀜  ad  "bead" 
->>>  ad5 ;  ad2  
  ad  [ BUSH ]  𒌑𒄉;𒄉  ad5 ;  ad2  "a thorn bush" Akk.  ašāgu ;  eddidu ;  eddittu 
->>>  ad4  
  ad  [ CRIPPLED ]  𒍞  ad4  "(to be) crippled" Akk.  kubbulu 
->>>  ad ;  ĝeš ad  
  ad  [ LOG ]  𒀜;𒄑𒀜  ad ;  ĝeš ad  "log; plank; raft" 
->>>  ĝeš a-ta ;  ĝeš AD  
  ad  [ RAFT ]  𒄑𒀀𒋫;𒄑𒀜  ĝeš a-ta ;  ĝeš AD  "wooden raft; plank of a boat" Akk.  uddi elippi 
->>>  ad  
  ad  [ VOICE ]  𒀜  ad  "voice; cry; noise" Akk.  rigmu 
->>>  ad gi4  
  ad gi  [ ADVISE ]  𒀜𒄄  ad gi4  "to advise, give advice" Akk.  malāku 
->>>  ad ĝa2 -ĝa2  
  ad ĝar  [ RESOUND? ]  𒀜𒂷𒂷  ad ĝa2 -ĝa2  "to (re)sound?" Akk.  ? 
->>>  ad ša4  
  ad ša  [ RESOUND ]  𒀜𒁺  ad ša4  "to resound; to lament" Akk.  nasāsu 
->>>  a-da  
  ada  [ CONTEST? ]  𒀀𒁕  a-da  "riddle?; fight, contest?" 
->>>  a2 -dab5  
  adab  [ DRIVER? ]  𒀉𒆪  a2 -dab5  "driver?" 
->>>  a-da-ab ;  a-da-ba  
  adab  [ DRUM ]  𒀀𒁕𒀊;𒀀𒁕𒁀  a-da-ab ;  a-da-ba  "a drum; a song" Akk.  adapu 
->>>  a-da-ba  
  adaba  [ MUSICIAN ]  𒀀𒁕𒁀  a-da-ba  "a musician" 
->>>  ad-ad-da  
  adadda  [ GRANDFATHER ]  𒀜𒀜𒁕  ad-ad-da  "grandfather" Akk.  abi abi 
->>>  gi a-dag  
  adag  [ RAFT ]  𒄀𒀀𒁖  gi a-dag  "raft" 
->>>  a-da-ga  
  adaga  [ DITCH ]  𒀀𒁕𒂵  a-da-ga  "irrigation ditch" 
->>>  gi a-da-gir5  
  adagir  [ CONTAINER ]  𒄀𒀀𒁕𒁽  gi a-da-gir5  "container" Akk.  adaguru 
->>>  a-da-gur4 ;  a-da-gur5 ;  a-da-kur  
  adagur  [ POT ]  𒀀𒁕𒆸;𒀀𒁕𒍀;𒀀𒁕𒆳  a-da-gur4 ;  a-da-gur5 ;  a-da-kur  "a libation pot" Akk.  adagurru 
->>>  a-da-al ;  a-da-lam ;  i-da-al ;  i-da-lam ;  i-da-al-la ;  i-da-la ;  i-da-la2 ;  i-dal ;  i-dal-am3 ;  i-dal-la  
  adal  [ EXCLAMATION ]  𒀀𒁕𒀠;𒀀𒁕𒇴;𒐊𒁕𒀠;𒐊𒁕𒇴;𒐊𒁕𒀠𒆷;𒐊𒁕𒆷;𒐊𒁕𒇲;𒐊𒊑;𒐊𒊑𒀀𒀭;𒐊𒊑𒆷  a-da-al ;  a-da-lam ;  i-da-al ;  i-da-lam ;  i-da-al-la ;  i-da-la ;  i-da-la2 ;  i-dal ;  i-dal-am3 ;  i-dal-la  "an exclamation,  "now",  "right now"" Akk.  ašarma ;  inanna 
->>>  a-da-al-la-bi  
  adallabi  [ NOW ]  𒀀𒁕𒀠𒆷𒁉  a-da-al-la-bi  "now" 
->>>  a2 -dam  
  adam  [ HABITATION ]  𒀉𒁮  a2 -dam  "habitation" Akk.  namû 
->>>  adama  
  adama  [ DISCHARGE ]  𒁁𒈪  adama  "a dark-colored bodily discharge" Akk.  adamatu 
->>>  ĝeš a-da-ma2  
  adama  [ OBJECT ]  𒄑𒀀𒁕𒈣  ĝeš a-da-ma2  "a wooden object" 
->>>  a-dam-dun  
  adamdun  [ ANIMAL ]  𒀀𒁮𒂄  a-dam-dun  "an aquatic animal" 
->>>  a-da-min3 ;  a-da-min ;  adamin x (|LU2 .LU2 |) ;  adamin ;  adamin2 ;  adamin3 ;  adamin4 ;  adamin5 ;  adamin x (|EN@EN|)  
  adamin  [ CONTEST ]  𒀀𒁕𒌋𒌋;𒀀𒁕𒈫;|LU₂.LU₂|(𒇽𒇽);𒈓;𒈘;𒄒;𒉫;𒂛;|LU₂.LU₂|(?)  a-da-min3 ;  a-da-min ;  adamin x (|LU2 .LU2 |) ;  adamin ;  adamin2 ;  adamin3 ;  adamin4 ;  adamin5 ;  adamin x (|EN@EN|)  "contest, dispute, debate" Akk.  teşētu 
->>>  a-da-min3 ku6  
  adamin  [ FISH ]  𒀀𒁕𒌋𒌋𒄩  a-da-min3 ku6  "a fish" 
->>>  ĝeš a-dar  
  adar  [ PLANT ]  𒄑𒀀𒁯  ĝeš a-dar  "a type of wood; a plant" Akk.  atartu ;  na-ba-zu-um 
->>>  a-dar-dar-ra mušen ;  da-dar mušen ;  a-dar-dar mušen  
  adardarak  [ BIRD ]  𒀀𒁯𒁯𒊏𒄷;𒁕𒁯𒄷;𒀀𒁯𒁯𒄷  a-dar-dar-ra mušen ;  da-dar mušen ;  a-dar-dar mušen  "a bird" Akk.  ? 
->>>  a-dar-hub2 ku6  
  adarhub  [ FISH ]  𒀀𒁯𒄸𒄩  a-dar-hub2 ku6  "a fish" 
->>>  a2 -da-bar ;  ad-bar  
  adbar  [ BASALT ]  𒀉𒁕𒁇;𒀜𒁇  a2 -da-bar ;  ad-bar  "black basalt" Akk.  atbaru 
->>>  adda ;  adda2 ;  ad x (|LU2 @s×BAD|) ;  ad x (|BAD.LU2 |) ;  ad x (|LU2 ×GAM|) ;  ad x (|LU2 @s|) ;  a-da adda x (|LU2 @g.UŠ2 |)  
  adda  [ CORPSE ]  𒇿;𒇼;|LU₂@s×BAD|(𒇽@s·𒁁);|LU₂@s×BAD|(𒁁𒇽);|LU₂@s×BAD|(𒇽·𒃵);|LU₂@s×BAD|(𒇽?);𒀀𒁕𒇿·(𒇽?𒍗)  adda ;  adda2 ;  ad x (|LU2 @s×BAD|) ;  ad x (|BAD.LU2 |) ;  ad x (|LU2 ×GAM|) ;  ad x (|LU2 @s|) ;  a-da adda x (|LU2 @g.UŠ2 |)  "corpse; wreck (of a boat)" Akk.  pagru ;  šalamtu 
->>>  ad-da ;  ad  
  adda  [ FATHER ]  𒀜𒁕;𒀜  ad-da ;  ad  "father" Akk.  abu 
->>>  ad-da-ab-ba  
  adda'abba  [ GRANDFATHER ]  𒀜𒁕𒀊𒁀  ad-da-ab-ba  "grandfather" 
->>>  addir ;  dir ;  addir x (|PA.GISAL.SI.A|) ;  addir x (|PA.GISAL.SI.A.PAD|)  
  addir  [ FORD ]  𒀀𒉺𒄐𒉻𒋛𒀀;𒋛𒀀;|PA.GISAL.SI.A|(𒉺𒄐𒋛𒀀);|PA.GISAL.SI.A|(𒉺𒄐𒋛𒀀𒉻)  addir ;  dir ;  addir x (|PA.GISAL.SI.A|) ;  addir x (|PA.GISAL.SI.A.PAD|)  "quay, port; crossing, ford" Akk.  kāru ;  nēberu 
->>>  addir  
  addir  [ HIRE ]  𒀀𒉺𒄐𒉻𒋛𒀀  addir  "hire, wage" Akk.  igru 
->>>  |LAK589.SI.A| ;  |LAK589.A.SI| ;  |A.LAK589.SI| ;  |LAK589.SI| ;  |LAK590.SI| ;  |LAK589.PAD.SI|  
  addir  [ PROFESSION ]  ¿𒋛𒀀;¿𒀀𒋛;𒀀¿𒋛;¿𒋛;¿𒋛;¿𒉻𒋛  |LAK589.SI.A| ;  |LAK589.A.SI| ;  |A.LAK589.SI| ;  |LAK589.SI| ;  |LAK590.SI| ;  |LAK589.PAD.SI|  "a profession" 
->>>  ad2 -du7 ;  ab2 -du mušen  
  addu  [ BIRD ]  𒄉𒌌;𒀖𒁺𒄷  ad2 -du7 ;  ab2 -du mušen  "a bird" 
->>>  a-de2 ;  a-de2 -a  
  adea  [ FLOODING ]  𒀀𒌤;𒀀𒌤𒀀  a-de2 ;  a-de2 -a  "flooding; flood season" 
->>>  ad-hal  
  adhal  [ COPPER ]  𒀜𒄬  ad-hal  "copper" Akk.  erû 
->>>  ad-hal  
  adhal  [ SECRET ]  𒀜𒄬  ad-hal  "secret" 
->>>  ad-KID ;  ad-kup5  
  adKID  [ WEAVER ]  𒀜𒆤;𒀜¿  ad-KID ;  ad-kup5  "basket weaver; reed worker" Akk.  atkuppu 
->>>  adkin  
  adkin  [ MEAT ]  𒋠𒇴  adkin  "preserved meat" Akk.  kirrētu ;  muddulu 
->>>  ad-la2  
  adla  [ HARNESS? ]  𒀜𒇲  ad-la2  "a type of collar or harness?" 
->>>  ad4 -lu2  
  adlu  [ DISABLED PERSON ]  𒍞𒇽  ad4 -lu2  "disabled person" 
->>>  ad-NE ;  lu2 ĝeš ad-NE  
  adNE  [ PROFESSION ]  𒀜𒉈;𒇽𒄑𒀜𒉈  ad-NE ;  lu2 ĝeš ad-NE  "a profession" 
->>>  ad-tab  
  adtab  [ ~HARNESS ]  𒀜𒋰  ad-tab  "a part of a harness" 
->>>  A.|DUN3 @g| ;  a-DUN3 @g@g  
  ADUNGUNU  [ UNMNG ]  𒀀𒂅?;𒀀𒂅  A.|DUN3 @g| ;  a-DUN3 @g@g  "?" Akk.  ? 
->>>  ad-us2  
  adus  [ PLANK ]  𒀜𒍑  ad-us2  "plank, beam" Akk.  amatu ;  aduššu 
->>>  a2 -e3  
  a'e  [ CHILD ]  𒀉𒌓𒁺  a2 -e3  "foster-child" Akk.  tarbûtu 
->>>  a-e3 -a  
  a'ea  [ BREACH ]  𒀀𒌓𒁺𒀀  a-e3 -a  "breach, water outlet; gushing water" 
->>>  a-eĝir ;  a-egir4  
  a'eĝir  [ WEIR ]  𒀀𒂕;𒀀𒌈  a-eĝir ;  a-egir4  "a weir or dam" 
->>>  a-eštub ku6  
  a'eštub  [ FLOODING ]  𒀀𒄞𒄩  a-eštub ku6  "early flooding" Akk.  milu 
->>>  aga ;  aga3  
  aga  [ AX ]  𒂇;𒂆  aga ;  aga3  "an ax" 
->>>  a-ga ;  a-ba  
  aga  [ REAR ]  𒀀𒂵;𒀀𒁀  a-ga ;  a-ba  "rear; a building or a part of a building" Akk.  arkatu 
->>>  aga ;  aga3  
  aga  [ TIARA ]  𒂇;𒂆  aga ;  aga3  "tiara, crown" Akk.  agû 
->>>  zabar aga  
  aga  [ VESSEL ]  𒌓𒊕𒁇𒂇  zabar aga  "a type of vessel" 
->>>  aga kar2 ;  aga3  kar2  
  aga kar  [ DEFEAT ]  𒂇𒃸;𒂆𒃸  aga kar2 ;  aga3  kar2  "to defeat; to conquer; to surround; to besiege" Akk.  kalû ;  kaşāru 
->>>  a-ga-bal  
  agabal  [ HOIST ]  𒀀𒂵𒁄  a-ga-bal  "a hoisting device (connected to a pole) for drawing water" Akk.  dulûtu 
->>>  aga-du-na  
  agaduna  [ BEARDEDNESS ]  𒂇𒁺𒈾  aga-du-na  "beardedness" Akk.  darrūtu 
->>>  ĝeš aga-|DUN3 @g|-ma  
  agaGINma  [ AX ]  𒄑𒂇𒂅?𒈠  ĝeš aga-|DUN3 @g|-ma  "an ax" 
->>>  ĝeš aga-GIN2 -ma  
  agaGINma  [ ~AX ]  𒄑𒂇𒂆𒈠  ĝeš aga-GIN2 -ma  "a designation of axes" 
->>>  aga3 -kar2 ;  aga-kar2  
  agakar  [ CONQUEROR ]  𒂆𒃸;𒂇𒃸  aga3 -kar2 ;  aga-kar2  "conqueror" 
->>>  aga-kar2  sig10  
  agakar sig  [ DEFEAT ]  𒂇𒃸𒋧  aga-kar2  sig10  "to defeat; to conquer; to surround; to besiege" Akk.  nītu lawû 
->>>  a-ga-la-ti-la ;  a-ga-la-til-la  
  agalatila  [ DROPSY ]  𒀀𒂵𒆷𒋾𒆷;𒀀𒂵𒆷𒌀𒆷  a-ga-la-ti-la ;  a-ga-la-til-la  "dropsy" 
->>>  a-ga-am ;  a-ga-am3 ;  a-ga-mu-um ;  agam  
  agam  [ POND ]  𒀀𒂵𒄠;𒀀𒂵𒀀𒀭;𒀀𒂵𒈬𒌝;𒀂  a-ga-am ;  a-ga-am3 ;  a-ga-mu-um ;  agam  "an artificial pond for disposing of flood waters" Akk.  agammu 
->>>  a-ga-am  
  agam  [ PROFESSION ]  𒀀𒂵𒄠  a-ga-am  "a profession" 
->>>  a-ga-an-ĝar  
  aganĝar  [ DISEASE ]  𒀀𒂵𒀭𒃻  a-ga-an-ĝar  "a disease" 
->>>  a-ga-an-tum3  
  agantum  [ DISEASE ]  𒀀𒂵𒀭𒉐  a-ga-an-tum3  "skin disease" Akk.  epqēnu 
->>>  a-gar5 ;  a-bar2 ;  e2 -gar ;  e2 -gar8 ;  a-gar3  
  agar  [ LEAD ]  𒀀𒈖;𒀀𒁈;𒂍𒃻;𒂍𒋞;𒀀𒃼  a-gar5 ;  a-bar2 ;  e2 -gar ;  e2 -gar8 ;  a-gar3  "lead" Akk.  abārum 
->>>  a-gar3 ;  agar4 ;  agar2 ;  agar3 ;  a-da-ar  
  agar  [ MEADOW ]  𒀀𒃼;𒅊;𒇋;𒆻;𒀀𒁕𒅈  a-gar3 ;  agar4 ;  agar2 ;  agar3 ;  a-da-ar  "meadow" Akk.  ugāru 
->>>  a2 -gar3  
  agar  [ UNMNG ]  𒀉𒃼  a2 -gar3  "?" Akk.  ? 
->>>  |LAGAB×IGI@g|  
  AGAR  [ VESSEL ]  𒇋  |LAGAB×IGI@g|  "a vessel" 
->>>  agargara  
  agargara  [ DROPPINGS ]  𒉩  agargara  "sheep droppings; fish-spawn" Akk.  agargarû ;  piqannu 
->>>  agargara ku6 ;  ku6 agargara  
  agargara  [ FISH ]  𒉩𒄩;𒄩𒉩  agargara ku6 ;  ku6 agargara  "a fish" 
->>>  agargara-sila3 ku6  
  agargarasila  [ FISH ]  𒉩𒋡𒄩  agargara-sila3 ku6  "a fish" 
->>>  A.GAR.KA  
  AGARKA  [ TEMPLE ]  𒀀𒃻𒅗  A.GAR.KA  "part of temple" 
->>>  agar4 -niĝin2  
  agarniĝin  [ OFFICIAL ]  𒅊𒆸  agar4 -niĝin2  "an official" 
->>>  aga-silig  
  agasilig  [ AX ]  𒂇𒍂  aga-silig  "a type of ax" Akk.  agasalakku 
->>>  aga-šu-si ;  aga-si-sa2 ;  aga-šu-zi ;  aga3 -šu-si  
  agašusi  [ PLECTRUM? ]  𒂇𒋗𒋛;𒂇𒋛𒁲;𒂇𒋗𒍥;𒂆𒋗𒋛  aga-šu-si ;  aga-si-sa2 ;  aga-šu-zi ;  aga3 -šu-si  "plectrum?, fingertip?" 
->>>  aga-us2 ;  aga3 -us2  
  aga'us  [ SOLDIER ]  𒂇𒍑;𒂆𒍑  aga-us2 ;  aga3 -us2  "a soldier" Akk.  rēdû 
->>>  a-ga-zi  
  agazi  [ LEADER ]  𒀀𒂵𒍥  a-ga-zi  "leader" Akk.  ašarēdu 
->>>  a-ga-zi  
  agazi  [ LOSS ]  𒀀𒂵𒍥  a-ga-zi  "financial loss" Akk.  imbû 
->>>  a-ga-zig3  
  agazig  [ HOLLOW ]  𒀀𒂵𒍣  a-ga-zig3  "hollow" 
->>>  tug2 a-gi4 -a-um ;  tug2 a-gi4 -um  
  agia'um  [ GARMENT ]  𒌆𒀀𒄄𒀀𒌝;𒌆𒀀𒄄𒌝  tug2 a-gi4 -a-um ;  tug2 a-gi4 -um  "a garment" 
->>>  a2 -gid2 -da  
  agida  [ SPEAR ]  𒀉𒁍𒁕  a2 -gid2 -da  "spear" Akk.  ariktu 
->>>  a-gin7  
  agin  [ THUS ]  𒀀𒁶  a-gin7  "thus" Akk.  kī 
->>>  gi a-gir5  
  agir  [ REED ]  𒄀𒀀𒁽  gi a-gir5  "a reed" 
->>>  gi a-gir5 -gir5  
  agirgir  [ REED ]  𒄀𒀀𒁽𒁽  gi a-gir5 -gir5  "reed" 
->>>  agrig  
  agrig  [ STEWARD ]  𒅆𒁾  agrig  "steward, housekeeper" Akk.  abarakku 
->>>  |IGI.DUB|-bar  
  agrigbar  [ OFFICIAL ]  𒅆𒁾𒁇  |IGI.DUB|-bar  "an official" 
->>>  agrig-mah  
  agrigmah  [ ADMINISTRATOR ]  𒅆𒁾𒈤  agrig-mah  "top administrator" 
->>>  agrun  
  agrun  [ CELLA ]  𒂍𒉣  agrun  "cella; bedroom; a ritual building; the sanctuary of the goddess Ningal" Akk.  agarunnu ;  kummu ;  šutukku 
->>>  dug a-gub2 -ba  
  aguba  [ VESSEL ]  𒂁𒀀𒇷𒁀  dug a-gub2 -ba  "a cultic vessel for water" Akk.  agubbû 
->>>  a2 -gud  
  agud  [ OX ]  𒀉𒄞  a2 -gud  "an ox" 
->>>  a-gug2 -PI  
  agugPI  [ OBJECT ]  𒀀𒈖𒉿  a-gug2 -PI  "a metal item" 
->>>  a2 -gu4 -hu-um  
  aguhum  [ CLOTHING ]  𒀉𒄞𒄷𒌝  a2 -gu4 -hu-um  "an item of clothing, sash?,  blanket?" Akk.  patinnu 
->>>  a2 -gu2 -zig3 -ga  
  aguziga  [ DAWN ]  𒀉𒄘𒍣𒂵  a2 -gu2 -zig3 -ga  "dawn" 
->>>  aĝ2  
  aĝ  [ MEASURE ]  𒉘  aĝ2  "to measure" Akk.  madādu 
->>>  kuš a-ĝa2 -la2 ;  kuš a2 -ĝa2 -la2  
  aĝala  [ SACK ]  𒋢𒀀𒂷𒇲;𒋢𒀉𒂷𒇲  kuš a-ĝa2 -la2 ;  kuš a2 -ĝa2 -la2  "leather sack" Akk.  naruqqu 
->>>  a2 -ĝar  
  aĝar  [ GARMENT ]  𒀉𒃻  a2 -ĝar  "part of garment" 
->>>  aĝar5 ;  aĝar6  
  aĝar  [ RAINSHOWER ]  𒅐;𒅎𒂂  aĝar5 ;  aĝar6  "rainshower, downpour" Akk.  rādu 
->>>  a2 -ĝar  
  aĝar  [ ROOF ]  𒀉𒃻  a2 -ĝar  "part of roof" 
->>>  a2 -ĝar  
  aĝar  [ TOOL ]  𒀉𒃻  a2 -ĝar  "a tool" 
->>>  a-ĝar ;  ĝa2 -ar ;  ĝar  
  aĝarak  [ FLUID ]  𒀀𒃻;𒂷𒅈;𒃻  a-ĝar ;  ĝa2 -ar ;  ĝar  "depilation fluid" 
->>>  aĝarin4 ;  aĝarin3 ;  aĝarin5 ;  a-ĝa2 -ri-in ;  aĝa3 -ri2 ;  aĝarin ;  aĝarin2 ;  aĝarin x (|AB×HA|) ;  aĝarin x (|LAGAB×HAL|) ;  a-ĝa2 -ri-im  
  aĝarin  [ MATRIX ]  𒂼𒋆;𒂼𒂆;𒂼𒋋;𒀀𒂷𒊑𒅔;𒂆𒌷;𒀌;𒀎;𒀏(𒀏);𒀏(𒇉);𒀀𒂷𒊑𒅎  aĝarin4 ;  aĝarin3 ;  aĝarin5 ;  a-ĝa2 -ri-in ;  aĝa3 -ri2 ;  aĝarin ;  aĝarin2 ;  aĝarin x (|AB×HA|) ;  aĝarin x (|LAGAB×HAL|) ;  a-ĝa2 -ri-im  "matrix, mother-creator; beer mash, beer bread; crucible" Akk.  agarinnu ;  bappiru ;  ummu 
->>>  a2 -ĝeš-ĝar-ra ;  a2 -ĝeš-ĝa2 -ra  
  aĝešĝara  [ NORM ]  𒀉𒄑𒃻𒊏;𒀉𒄑𒂷𒊏  a2 -ĝeš-ĝar-ra ;  a2 -ĝeš-ĝa2 -ra  "production norm" Akk.  iškāru 
->>>  a-ĝeštin-na  
  aĝeštinak  [ VINEGAR ]  𒀀𒃾𒈾  a-ĝeštin-na  "vinegar" Akk.  ţābātu 
->>>  a-ĝi6  
  aĝi  [ WAVE ]  𒀀𒈪  a-ĝi6  "wave, flood" Akk.  agû 
->>>  a-ĝi6 -a-ĝi6 mušen  
  aĝiaĝi  [ BIRD ]  𒀀𒈪𒀀𒈪𒄷  a-ĝi6 -a-ĝi6 mušen  "a bird" 
->>>  a2 -ĝiri3  
  aĝiri  [ LIMBS ]  𒀉𒄊  a2 -ĝiri3  "limbs" 
->>>  a-ĝizzal x (|GIŠ.TUG2 .PI.ŠIR2 t.SIL2 |)  
  aĝizzal  [ DISEASE ]  𒀀𒄑𒌆𒉿𒎓𒉣·(𒄑𒌆𒉿¿𒋫?)  a-ĝizzal x (|GIŠ.TUG2 .PI.ŠIR2 t.SIL2 |)  "a disease" Akk.  na'lu 
->>>  ah3  
  ah  [ DRY ]  𒌓  ah3  "(to be) dried (out), dry; to dry" Akk.  abālu ;  šābulu 
->>>  ah6 ;  uh3 ;  a ah  
  ah  [ SPITTLE ]  𒌔;𒆵;𒀀𒄴  ah6 ;  uh3 ;  a ah  "a paste; phlegm, mucus, sputum; foam, scum; saliva, spittle; poison" Akk.  hahhu ;  hurhummatu ;  illātu ;  imtu ;  ru'tu ;  rupuštu ;  uhhu 
->>>  a-ha-an  
  ahan  [ FISH ]  𒀀𒄩𒀭  a-ha-an  "type of fish" 
->>>  a-ha-an  
  ahan  [ VOMIT ]  𒀀𒄩𒀭  a-ha-an  "vomit" Akk.  nušû 
->>>  a-haš  
  ahaš  [ CHANNEL ]  𒀀𒋻  a-haš  "sluice channel" Akk.  butuqtu 
->>>  a-hi-aš  
  ahiaš  [ QUICKLY ]  𒀀𒄭𒀸  a-hi-aš  "quickly" Akk.  zamar 
->>>  a2 -hul-ĝal2 ;  a2 -hu-ul-ĝal2  
  ahulĝal  [ MISTREATMENT ]  𒀉𒅆𒌨𒅅;𒀉𒄷𒌌𒅅  a2 -hul-ĝal2 ;  a2 -hu-ul-ĝal2  "mistreatment" 
->>>  a2 -hulu  
  ahulu  [ MALICE ]  𒀉𒅆𒌨  a2 -hulu  "malice" 
->>>  a-igi  
  a'igi  [ WEIR ]  𒀀𒅆  a-igi  "a weir or dam" 
->>>  a-igi-du8  
  a'igidu  [ WORKER ]  𒀀𒅆𒂃  a-igi-du8  "a canal worker" Akk.  sēkiru 
->>>  A.IGI.LU  
  A'IGILU  [ BOATMAN ]  𒀀𒅆𒇻  A.IGI.LU  "a boatman" Akk.  ? 
->>>  a-igi-te  
  a'igite  [ UNMNG ]  𒀀𒅆𒋼  a-igi-te  "?" Akk.  ? 
->>>  a-il2  
  a'il  [ CARRIER ]  𒀀𒅍  a-il2  "carrier" 
->>>  a2 -il2  
  a'il  [ LABORER ]  𒀉𒅍  a2 -il2  "laborer" 
->>>  ak ;  a  
  ak  [ DO ]  𒀝;𒀀  ak ;  a  "to do; to make; to act,  perform; to proceed, proceeding (math.)" Akk.  epēšu 
->>>  aka3  
  aka  [ FLEECE ]  𒋃  aka3  "fleece" Akk.  itqu 
->>>  akan mušen  
  akan  [ BIRD ]  𒁛𒄷  akan mušen  "a bird" 
->>>  akan ;  akkan3  
  akan  [ NIPPLE ]  𒁛;𒇖  akan ;  akkan3  "nipple, teat, udder" Akk.  şertu 
->>>  akan-ni  
  akanni  [ BIRD ]  𒁛𒉌  akan-ni  "a bird" 
->>>  akar  
  akar  [ ARMOR ]  ¿  akar  "armor" Akk.  apluhtu 
->>>  ĝeš a2 -kar2  
  akar  [ IMPLEMENT ]  𒄑𒀉𒃸  ĝeš a2 -kar2  "implement, tool, utensil" Akk.  unūtu 
->>>  a-ki-ta  
  akita  [ SOURCE ]  𒀀𒆠𒋫  a-ki-ta  "source" 
->>>  a2 -ki-ti ;  a2 -ki-te ;  a2 -ki-tum  
  akiti  [ FESTIVAL ]  𒀉𒆠𒋾;𒀉𒆠𒋼;𒀉𒆠𒌈  a2 -ki-ti ;  a2 -ki-te ;  a2 -ki-tum  "a festival at new year; month name" Akk.  akītu 
->>>  ak-ka-nu-um  
  akkanum  [ DONKEY ]  𒀝𒅗𒉡𒌝  ak-ka-nu-um  "wild donkey" Akk.  akkannu 
->>>  akkil ;  akkil2  
  akkil  [ NOISE ]  𒃰𒋺𒋛;𒀜𒆤  akkil ;  akkil2  "noise, cry, clamor, uproar; battle cry; lamentation" Akk.  ikkillu ;  rigmu ;  tanūqātu ;  šīsu 
->>>  akkil2  
  akkil  [ WHERE ]  𒀜𒆤  akkil2  "where; when" Akk.  bīt 
->>>  aktum ;  tug2 aktum ;  aktum tug2 ;  tug2 aktum2 ;  aktum2 tug2  
  aktum  [ GARMENT ]  𒀀𒋢;𒌆𒀀𒋢;𒀀𒋢𒌆;𒌆𒋢𒀀;𒋢𒀀𒌆  aktum ;  tug2 aktum ;  aktum tug2 ;  tug2 aktum2 ;  aktum2 tug2  "a type of garment" Akk.  şapšu 
->>>  a2 -kud  
  akud  [ CRIPPLE ]  𒀉𒋻  a2 -kud  "cripple" Akk.  akû 
->>>  a2 -kuš3 ;  a2 -1(diš)-kuš3  
  akuš  [ FOREARM ]  𒀉𒌑;𒀉𒁹(𒑰)𒌑  a2 -kuš3 ;  a2 -1(diš)-kuš3  "forearm; cubit" Akk.  ammatu 
->>>  a2 -kuš2  
  akuš  [ TOIL ]  𒀉𒊨  a2 -kuš2  "toil, labor" Akk.  manahtu 
->>>  al  
  al  [ CVNE ]  𒀠  al  "(compound verb nominal element)" 
->>>  gi al  
  al  [ FENCING ]  𒄀𒀠  gi al  "reed fencing" Akk.  kadaru 
->>>  al ;  ĝeš al ;  urud al  
  al  [ HOE ]  𒀠;𒄑𒀠;U+1234F𒀠  al ;  ĝeš al ;  urud al  "hoe, pickax; hoeing" Akk.  allu 
->>>  al ak  
  al ak  [ HOE ]  𒀠𒀝  al ak  "to perform a type of hoeing" 
->>>  al du3  
  al du  [ HOE ]  𒀠𒆕  al du3  "to perform a type of hoeing; to dig" 
->>>  al dug4  
  al dug  [ DESIRE ]  𒀠𒅗  al dug4  "to desire" Akk.  erēšu 
->>>  al-sa2 -dug4 -dug4  
  al.DI.dugdug  [ PROUD ]  𒀠𒁲𒅗𒅗  al-sa2 -dug4 -dug4  "proud" 
->>>  a-la2  
  ala  [ DEMON ]  𒀀𒇲  a-la2  "a demon" Akk.  alû 
->>>  kuš a2 -la2 ;  kuš a-la ;  kuš ala  
  ala  [ DRUM ]  𒋢𒀉𒇲;𒋢𒀀𒆷;𒋢𒌷  kuš a2 -la2 ;  kuš a-la ;  kuš ala  "a wooden drum" Akk.  alû 
->>>  ĝeš a2 -la2 ;  ĝeš u5 -la  
  ala  [ IRRIGATION DEVICE ]  𒄑𒀉𒇲;𒄑𒄷𒋛𒆷  ĝeš a2 -la2 ;  ĝeš u5 -la  "an irrigation device" 
->>>  a2 -la2  
  ala  [ MANACLES ]  𒀉𒇲  a2 -la2  "manacles" 
->>>  urud a-la2 ;  a-la2  
  ala  [ OBJECT ]  U+1234F𒀀𒇲;𒀀𒇲  urud a-la2 ;  a-la2  "a metal object" 
->>>  a-la2  
  ala  [ SILT ]  𒀀𒇲  a-la2  "silt" 
->>>  alad ;  alad2  
  alad  [ SPIRIT ]  𒆘;𒆗  alad ;  alad2  "a spirit" Akk.  šēdu 
->>>  alal4 ;  alal3  
  alal  [ CULTIVATION ]  𒃺;𒄒  alal4 ;  alal3  "cultivation; field; district, land" Akk.  mēreštu ;  qerbetu 
->>>  alal ;  urud alal  
  alal  [ TUBE ]  𒋄;U+1234F𒋄  alal ;  urud alal  "tube, pipe" Akk.  alallu 
->>>  a-lal3 ;  e-le-el  
  alal  [ WOOD? ]  𒀀𒋭;𒂊𒇷𒂖  a-lal3 ;  e-le-el  "a type of wood or a stone" Akk.  elallu 
->>>  a-lal3  
  alal  [ ~TEMPLE ]  𒀀𒋭  a-lal3  "a part of a temple" 
->>>  e-la-lu ;  a-la-la  
  alala  [ EXPRESSION ]  𒂊𒆷𒇻;𒀀𒆷𒆷  e-la-lu ;  a-la-la  "soothing expression" 
->>>  a-la-la  
  alala  [ ~STICK ]  𒀀𒆷𒆷  a-la-la  "designation of stick" 
->>>  a-lam  
  alam  [ EXCLAMATION ]  𒀀𒇴  a-lam  "a type of exclamation" 
->>>  alan ;  urud alan  
  alan  [ STATUE ]  𒀩;U+1234F𒀩  alan ;  urud alan  "statue; form" Akk.  şalmu 
->>>  alan-zu  
  alanzu  [ CLOWN ]  𒀩𒍪  alan-zu  "clown" Akk.  aluzinnu 
->>>  algameš  
  algameš  [ STONE ]  𒌓𒊩𒄸  algameš  "a stone; a jug, can" Akk.  algamišu ;  kûtu 
->>>  ĝeš al-ĝar ;  al-gar  
  alĝar  [ INSTRUMENT ]  𒄑𒀠𒃻;𒀠𒃻  ĝeš al-ĝar ;  al-gar  "a musical instrument" Akk.  alû 
->>>  ĝeš al-ĝar-sur9  
  alĝarsur  [ DRUMSTICK ]  𒄑𒀠𒃻𒋪  ĝeš al-ĝar-sur9  "drumstick" 
->>>  alim ;  e-lum  
  alim  [ BISON ]  𒄋;𒂊𒈝  alim ;  e-lum  "bison; heavy; important" Akk.  ditānu ;  kabtu ;  kusarikku 
->>>  al-kin-a  
  alkina  [ SHARPENED ]  𒀠𒆥𒀀  al-kin-a  "sharpened" 
->>>  alla  
  alla  [ OAK ]  𒉄  alla  "oak; acorn; a suppository" Akk.  allānu 
->>>  al-la-num2 ;  ĝeš al-la-nu-um ;  al-la-an  
  allanum  [ OAK ]  𒀠𒆷𒈝;𒄑𒀠𒆷𒉡𒌝;𒀠𒆷𒀭  al-la-num2 ;  ĝeš al-la-nu-um ;  al-la-an  "oak; acorn; acorn-shaped bead" Akk.  allānu 
->>>  al-lib  
  allib  [ STUPOR ]  𒀠𒈜  al-lib  "stupor" 
->>>  na4 al-li2 -ga  
  alliga  [ STONE ]  𒎎𒀠𒉌𒂵  na4 al-li2 -ga  "stone" 
->>>  al-li-li-am3 -ma  
  alliliamma  [ EXPRESSION ]  𒀠𒇷𒇷𒀀𒀭𒈠  al-li-li-am3 -ma  "soothing expression" 
->>>  al-lub ;  a-lu  
  allub  [ CRAB ]  𒀠𒈜;𒀀𒇻  al-lub ;  a-lu  "crab" Akk.  alluttu 
->>>  al-lub  
  allub  [ TOOL ]  𒀠𒈜  al-lub  "a tool" 
->>>  gi al-PI-na  
  alPIna  [ REED FENCE ]  𒄀𒀠𒉿𒈾  gi al-PI-na  "reed fence" 
->>>  ĝeš al-šub ;  ĝeš al-u3 -šub  
  alšub  [ TOOL ]  𒄑𒀠𒊒;𒄑𒀠𒅇𒊒  ĝeš al-šub ;  ĝeš al-u3 -šub  "a tool" Akk.  šelliptu 
->>>  al-tar  
  altar  [ MIGHTY ]  𒀠𒋻  al-tar  "mighty" 
->>>  al-tar ;  ĝeš al-tar  
  altar  [ WORK ]  𒀠𒋻;𒄑𒀠𒋻  al-tar ;  ĝeš al-tar  "apportioned work" 
->>>  an-ti-ri2 -gu7 mušen ;  al-tar-gu7 mušen ;  al-ti-ri2 -gu7 mušen ;  al-ti-ri2 -gu mušen ;  al-de3 -ri2 -ga mušen  
  altirigu  [ WREN ]  𒀭𒋾𒌷𒅥𒄷;𒀠𒋻𒅥𒄷;𒀠𒋾𒌷𒅥𒄷;𒀠𒋾𒌷𒄖𒄷;𒀠𒉈𒌷𒂵𒄷  an-ti-ri2 -gu7 mušen ;  al-tar-gu7 mušen ;  al-ti-ri2 -gu7 mušen ;  al-ti-ri2 -gu mušen ;  al-de3 -ri2 -ga mušen  "wren" Akk.  diqdiqqu 
->>>  a-lu  
  alu  [ RAM ]  𒀀𒇻  a-lu  "ram" Akk.  ālu 
->>>  al-ur5 -ra ;  al-ur3 -ra ;  al-lu-ra ;  al-lu2 -ur3 -ra ;  alura x (BAHAR2 )  
  alura  [ BAKED ]  𒀠𒄯𒊏;𒀠𒃡𒊏;𒀠𒇻𒊏;𒀠𒇽𒃡𒊏;𒁃(𒁃)  al-ur5 -ra ;  al-ur3 -ra ;  al-lu-ra ;  al-lu2 -ur3 -ra ;  alura x (BAHAR2 )  "baked (of bricks)" 
->>>  al-us2 -sa  
  alusa  [ SAUCE ]  𒀠𒍑𒊓  al-us2 -sa  "sauce" 
->>>  am mušen  
  am  [ BIRD ]  𒄠𒄷  am mušen  "a bird" 
->>>  am  
  am  [ BULL ]  𒄠  am  "wild bull" Akk.  rīmu 
->>>  e2 -MI ;  ama5 ;  a2 -mi  
  ama  [ CHAMBER ]  𒂍𒈪;𒃣;𒀉𒈪  e2 -MI ;  ama5 ;  a2 -mi  "chamber; cell; women's quarters" Akk.  maštaku 
->>>  ama  
  ama  [ MOTHER ]  𒂼 Mama : mother!!  ama  "mother" Akk.  ummu 
->>>  ama-a-tud ;  ama-tu  
  ama'atud  [ SLAVE ]  𒂼 Mama : mother!!𒀀𒌅;𒂼 Mama : mother!!𒌅  ama-a-tud ;  ama-tu  "house-born slave" Akk.  dušmû ;  wardu 
->>>  ama-a-a  
  ama'aya  [ GRANDMOTHER ]  𒂼 Mama : mother!!𒀀𒀀  ama-a-a  "grandmother" 
->>>  ama-er2 -ra  
  ama'era  [ MOURNER ]  𒂼 Mama : mother!!𒀀𒅆𒊏  ama-er2 -ra  "mourner" Akk.  ama'irrû 
->>>  ama-erin2 -na  
  ama'erin  [ WORKERS ]  𒂼 Mama : mother!!𒂟𒈾  ama-erin2 -na  "workers" Akk.  ummānātu 
->>>  ama-gal  
  amagal  [ GRANDMOTHER ]  𒂼 Mama : mother!!𒃲  ama-gal  "grandmother; a priestess" 
->>>  ama-gan  
  amagan  [ MOTHER ]  𒂼 Mama : mother!!𒃶  ama-gan  "breeding female animal; child-bearing mother" Akk.  ummu walittu 
->>>  amagi ;  amagi2 ;  amagi3  
  amagi  [ FROST ]  𒈻 ^^ 𒈹 mother!;𒀀𒈹𒁲;𒍝𒈹𒁲  amagi ;  amagi2 ;  amagi3  "frost, ice" Akk.  halpû ;  mammû ;  šurīpu 
->>>  ama-gu-la  
  amagula  [ GRANDMOTHER ]  𒂼 Mama : mother!!𒄖𒆷  ama-gu-la  "grandmother" 
->>>  d ama- d inana  
  ama'inanak  [ GODDESS ]  𒀭𒂼 Mama : mother!!𒀭𒈹  d ama- d inana  "goddess" 
->>>  amalug  
  amalug  [ GODDESS ]  𒂼𒈹  amalug  "a priestess; goddess" Akk.  amalītu ;  ištaru 
->>>  am-am ;  am-ma-am  
  amam  [ JAR ]  𒄠𒄠;𒄠𒈠𒄠  am-am ;  am-ma-am  "a beer jar" Akk.  ammammu 
->>>  gi am-ma-am-ma-um  
  amama'um  [ JAR ]  𒄀𒄠𒈠𒄠𒈠𒌝  gi am-ma-am-ma-um  "a jar" 
->>>  am-am-da-du3  
  amamdadu  [ POT ]  𒄠𒄠𒁕𒆕  am-am-da-du3  "a pot" 
->>>  kuš ama-usan3  
  amam'usan  [ ~WHIP ]  𒋢𒂼 Mama : mother!!𒉮  kuš ama-usan3  "a part of the whip" 
->>>  aman  
  aman  [ MALTSTER ]  𒉽𒉽  aman  "maltster" 
->>>  u2 ama-ni  
  amani  [ PLANT ]  𒌑𒂼 Mama : mother!!𒉌  u2 ama-ni  "a plant" 
->>>  amar  
  amar  [ YOUNG ]  𒀫  amar  "calf; young, youngster, chick; son, descendant" Akk.  būru ;  māru 
->>>  |AMAR.ĜIŠ|-da ku6  
  AMAR.GIŠ.da  [ FISH ]  𒀫𒄑𒁕𒄩  |AMAR.ĜIŠ|-da ku6  "a fish" 
->>>  amar-ga  
  amarga  [ CALF ]  𒀫𒂵  amar-ga  "suckling calf" 
->>>  amar-gaba  
  amargaba  [ ~CHILD ]  𒀫𒃮  amar-gaba  "a designation of children of female workers" 
->>>  amar-ga-kud  
  amargakud  [ CALF ]  𒀫𒂵𒋻  amar-ga-kud  "weaned calf" 
->>>  ama-ar-gi4 ;  ama-gi4  
  amargi  [ REVERSION ]  𒂼 Mama : mother!!𒅈𒄄;𒂼 Mama : mother!!𒄄  ama-ar-gi4 ;  ama-gi4  "reversion to a previous state" Akk.  anduraāru 
->>>  na4 amar-gu2  
  amargu  [ STONE ]  𒎎𒀫𒄘  na4 amar-gu2  "a stone" 
->>>  amar-gud3  
  amargud  [ FLEDGLING ]  𒀫𒌑𒆠𒋧𒂵  amar-gud3  "fledgling" Akk.  ? 
->>>  amar-kud  
  amarkud  [ CASTRATED ]  𒀫𒋻  amar-kud  "castrated (animals, men)" 
->>>  amar-saĝ  
  amarsaĝ  [ CHICK ]  𒀫𒊕  amar-saĝ  "chick" 
->>>  amar-saĝ  
  amarsaĝ  [ DOVE ]  𒀫𒊕  amar-saĝ  "a dove" Akk.  amursānu 
->>>  a-ma-ru ;  a-ma-ru12 ;  e-ma-ru  
  amaru  [ FLOOD ]  𒀀𒈠𒊒;𒀀𒈠𒂗;𒂊𒈠𒊒  a-ma-ru ;  a-ma-ru12 ;  e-ma-ru  "flood; emergency" 
->>>  amaš ;  e2 -maš ;  a-maš ;  e2 amaš  
  amaš  [ SHEEPFOLD ]  𒁦;𒂍𒈦;𒀀𒈦;𒂍𒁦  amaš ;  e2 -maš ;  a-maš ;  e2 amaš  "sheepfold" Akk.  supūru 
->>>  na4 amaš-pa-ed2  
  amašpa'ed  [ STONE ]  𒎎𒁦𒉺𒌓𒁺  na4 amaš-pa-ed2  "type of stone" 
->>>  ama-tuku5  
  amatuku  [ WEAVER ]  𒂼 Mama : mother!!𒋳  ama-tuku5  "senior weaver" 
->>>  ambar ;  en3 -bar  
  ambar  [ REED-BED ]  𒆹;𒇷𒁇  ambar ;  en3 -bar  "reed-bed, marsh" Akk.  appāru 
->>>  AMBAR-DAG mušen  
  AMBAR.DAG  [ BIRD ]  𒆹𒁖𒄷  AMBAR-DAG mušen  "a bird" 
->>>  a2 -me3  
  ame  [ WEAPON ]  𒀉𒀞  a2 -me3  "a weapon" Akk.  ? 
->>>  am-ha-ru  
  amharu  [ PLANT ]  𒄠𒄩𒊒  am-ha-ru  "a plant" Akk.  alamû ;  amhara 
->>>  am-ra ;  am-ru ;  amra  
  amru  [ BEAM ]  𒄠𒊏;𒄠𒊒;𒄑𒈣𒊏  am-ra ;  am-ru ;  amra  "beam, timber" Akk.  amrû 
->>>  am-si  
  amsi  [ ELEPHANT ]  𒄠𒋛  am-si  "elephant" Akk.  pīru 
->>>  u2 am-si-ha-ra ;  am-si-ha-ra  
  amsihara  [ PLANT ]  𒌑𒄠𒋛𒄩𒊏;𒄠𒋛𒄩𒊏  u2 am-si-ha-ra ;  am-si-ha-ra  "a plant" 
->>>  am-si-har-ra-an  
  amsiharran  [ CAMEL ]  𒄠𒋛𒄯𒊏𒀭  am-si-har-ra-an  "camel" Akk.  ibilu 
->>>  u2 am-si-har-ra-an-na  
  amsiharranak  [ PLANT ]  𒌑𒄠𒋛𒄯𒊏𒀭𒈾  u2 am-si-har-ra-an-na  "a plant" 
->>>  am-si-kur-ra  
  amsikurak  [ CAMEL ]  𒄠𒋛𒆳𒊏  am-si-kur-ra  "camel" Akk.  ibilu 
->>>  a-mud-a-se3 -ke  
  amudaseke  [ DROPSY ]  𒀀𒄷𒄭𒀀𒋧𒆠  a-mud-a-se3 -ke  "dropsy" 
->>>  amuš ;  a-muš  
  amuš  [ UNMNG ]  𒀇;𒀀𒈲  amuš ;  a-muš  "?" 
->>>  A.MUŠ.DU  
  AMUŠDU  [ LAND ]  𒀀𒈲𒁺  A.MUŠ.DU  "a qualification of land" 
->>>  an  
  an  [ SKY ]  𒀭  an  "sky, heaven; upper; crown (of a tree)" Akk.  šamû 
->>>  a2 -an ;  an  
  an  [ SPADIX ]  𒀉𒀭;𒀭  a2 -an ;  an  "date spadix" Akk.  sissinnu 
->>>  ĝeš a2 -na  
  ana  [ OBJECT ]  𒄑𒀉𒈾  ĝeš a2 -na  "a wooden object" 
->>>  an-na  
  ana  [ UPPER ]  𒀭𒈾  an-na  "upper" 
->>>  a-na ;  ta ;  ta-a  
  ana  [ WHAT? ]  𒀀𒈾;𒋫;𒋫𒀀  a-na ;  ta ;  ta-a  "what?; as much as (math.)" Akk.  mīnum 
->>>  a-na-gin7 ;  ta-gin7  
  anagin  [ HOW? ]  𒀀𒈾𒁶;𒋫𒁶  a-na-gin7 ;  ta-gin7  "how?" 
->>>  a-naĝ  
  anaĝ  [ DRINK ]  𒀀𒅘  a-naĝ  "drink" Akk.  maštû 
->>>  a-na-am3  
  anam  [ WHAT ]  𒀀𒈾𒀀𒀭  a-na-am3  "what" Akk.  mīnu 
->>>  a-na-me-a ;  a-na-me-a-bi  
  anamea  [ EVERYTHING ]  𒀀𒈾𒈨𒀀;𒀀𒈾𒈨𒀀𒁉  a-na-me-a ;  a-na-me-a-bi  "everything" 
->>>  a-na-aš  
  anaš  [ WHY? ]  𒀀𒈾𒀸  a-na-aš  "why?" Akk.  ammatu 
->>>  an-ba  
  anba  [ LITTER ]  𒀭𒁀  an-ba  "litter, rubbish" Akk.  hāmū 
->>>  an-bad3  
  anbad  [ HEIGHTS ]  𒀭𒂦  an-bad3  "heaven's heights" 
->>>  an-bar  
  anbar  [ IRON ]  𒀭𒁇  an-bar  "iron" Akk.  parzillu 
->>>  an-bar7  
  anbar  [ MID-DAY ]  𒀭𒉈  an-bar7  "mid-day" Akk.  kararû ;  muşlālu 
->>>  an-bar  
  anbar  [ SIDE ]  𒀭𒁇  an-bar  "side of heaven" 
->>>  an-bar7 -kar2  
  anbarkar  [ MID-DAY ]  𒀭𒉈𒃸  an-bar7 -kar2  "mid-day" Akk.  kararû ;  muşlālu 
->>>  an-bar-sug4  
  anbarsug  [ IRON ]  𒀭𒁇𒋤  an-bar-sug4  "iron" Akk.  parzillu 
->>>  an-da-ĝal2  
  andaĝal  [ EXALTED ]  𒀭𒁕𒅅  an-da-ĝal2  "exalted" Akk.  elû ;  šaqû 
->>>  an-dah-šum  
  andahšum  [ PLANT ]  𒀭𒈭𒋳  an-dah-šum  "a plant" Akk.  andahšu 
->>>  an-dim2 -dim2  
  andimdim  [ CRAFTSMAN ]  𒀭𒁶𒁶  an-dim2 -dim2  "a craftsman" Akk.  ? 
->>>  an-dul3 ;  an-dul7  
  andul  [ SHADE ]  𒀭𒊨;𒀭𒊕  an-dul3 ;  an-dul7  "shade" Akk.  şulūlu 
->>>  e-ne ;  a-ne  
  ane  [ HE ]  𒂊𒉈;𒀀𒉈  e-ne ;  a-ne  "he, she" 
->>>  an-eden  
  aneden  [ STEPPE ]  𒀭𒂔  an-eden  "the high steppe" Akk.  şēru 
->>>  e-ne-ne ;  a-ne-ne  
  anene  [ THEY ]  𒂊𒉈𒉈;𒀀𒉈𒉈  e-ne-ne ;  a-ne-ne  "they" 
->>>  an-ga  
  anga  [ MOREOVER ]  𒀭𒂵  an-ga  "moreover" Akk.  appūna 
->>>  an-gal ;  an-gal5  
  angal  [ SPOT ]  𒀭𒃲;𒀭𒋼  an-gal ;  an-gal5  "spot, marking" Akk.  ? 
->>>  an-ga-am3  
  angam  [ CONSEQUENTLY ]  𒀭𒂵𒀀𒀭  an-ga-am3  "consequently" 
->>>  an-gub-ba  
  anguba  [ DEITY ]  𒀭𒁺𒁀  an-gub-ba  "tutelary deity" Akk.  angubbû 
->>>  an-ĝa2  
  anĝa  [ HOWEVER ]  𒀭𒂷  an-ĝa2  "however" 
->>>  an-ĝi6  
  anĝi  [ ECLIPSE ]  𒀭𒈪  an-ĝi6  "eclipse" 
->>>  a-niĝin2  
  aniĝin  [ RESERVOIR ]  𒀀𒆸  a-niĝin2  "reservoir" 
->>>  u2 a-nir  
  anir  [ GRASS ]  𒌑𒀀𒉪  u2 a-nir  "a grass" 
->>>  a-nir ;  a-še-er  
  anir  [ LAMENT ]  𒀀𒉪;𒀀𒊺𒅕  a-nir ;  a-še-er  "lament" Akk.  tanēhu 
->>>  a-nir  
  anir  [ PROFESSION ]  𒀀𒉪  a-nir  "a profession" 
->>>  AN.IŠ  
  ANIŠ  [ PLANT ]  𒀭𒅖  AN.IŠ  "a plant?" 
->>>  a2 -an-kar2 ;  enkar ;  an-kar2 ;  en-kar2 ;  a2 -kar2  
  ankar  [ WEAPON ]  𒀉𒀭𒃸;𒂙;𒀭𒃸;𒂗𒃸;𒀉𒃸  a2 -an-kar2 ;  enkar ;  an-kar2 ;  en-kar2 ;  a2 -kar2  "a weapon" 
->>>  an-ki  
  anki  [ UNIVERSE ]  𒀭𒆠  an-ki  "the universe, heaven and earth" 
->>>  an-ki-šu2 -a  
  ankišua  [ UNIVERSE ]  𒀭𒆠𒋙𒀀  an-ki-šu2 -a  "the extent of heaven and earth" Akk.  sihip šamê u erşeti 
->>>  an-na  
  anna  [ APPROVAL ]  𒀭𒈾  an-na  "approval, "indeed"" Akk.  annu 
->>>  an-na  
  anna  [ METAL ]  𒀭𒈾  an-na  "tin or lead" Akk.  annaku 
->>>  an-ni-ba-tu  
  annibatu  [ ECSTATIC ]  𒀭𒉌𒁀𒌅  an-ni-ba-tu  "an ecstatic" Akk.  mahhû 
->>>  an-pa  
  anpa  [ ZENITH ]  𒀭𒉺  an-pa  "zenith" Akk.  elat šamê 
->>>  lu2 an-sal-la ;  MU.AN.SAL.LA  
  ansala  [ CULT ]  𒇽𒀭𒊩𒆷;𒈬𒀭𒊩𒆷  lu2 an-sal-la ;  MU.AN.SAL.LA  "a cultic performer" Akk.  mahhû ;  ahurrû ;  kurgarrû ;  assinnu 
->>>  an-šag4  
  anšag  [ HEAVEN ]  𒀭𒊮  an-šag4  "the interior of heaven" Akk.  qereb šamê 
->>>  an-šar2  
  anšar  [ HEAVEN ]  𒀭𒊹  an-šar2  "the entirety of heaven" Akk.  ? 
->>>  anše  
  anše  [ EQUID ]  𒀲  anše  "donkey; equid" Akk.  imēru 
->>>  anše-bala  
  anšebala  [ DONKEY ]  𒀲𒁄  anše-bala  "replacement donkey" Akk.  tēnû 
->>>  ANŠE.BAR mušen  
  ANŠEBAR  [ BIRD ]  𒀲𒁇𒄷  ANŠE.BAR mušen  "type of bird" 
->>>  anše-dab5 -ba ;  anše-dab5 ?  
  anšedaba  [ PROFESSION ]  𒀲𒆪𒁀;𒀲𒆪  anše-dab5 -ba ;  anše-dab5 ?  "a profession" 
->>>  anše-eden-na  
  anše'edenak  [ EQUID ]  𒀲𒂔𒈾  anše-eden-na  "onager" Akk.  serrēmu 
->>>  anše-ĝir2 -nun  
  anšeĝirnun  [ EQUID ]  𒀲𒄈𒉣  anše-ĝir2 -nun  "an equid" Akk.  kūdanu 
->>>  anše-KU  
  anšeKUr  [ PROFESSION ]  𒀲𒆪  anše-KU  "a profession" 
->>>  anše-nita  
  anšenita  [ EQUID ]  𒀲𒍑  anše-nita  "male equid" 
->>>  lu2 an-ta  
  anta  [ COMPANION ]  𒇽𒀭𒋫  lu2 an-ta  "companion, comrade" Akk.  tappûm 
->>>  an-ta  
  anta  [ UPPER ]  𒀭𒋫  an-ta  "upper" 
->>>  an-ta-ĝal2  
  antaĝal  [ EXALTED ]  𒀭𒋫𒅅  an-ta-ĝal2  "exalted" 
->>>  an-ta-sur-ra  
  antasura  [ METAL ]  𒀭𒋫𒁍  ≈ 𒄮 SUR3𒊏  an-ta-sur-ra  "a metal" Akk.  antasurrû 
->>>  an-ti-bal  
  antibal  [ OFFICIAL ]  𒀭𒋾𒁄  an-ti-bal  "an official" 
->>>  ĝeš an-ti-bal  
  antibal  [ SIGN ]  𒄑𒀭𒋾𒁄  ĝeš an-ti-bal  "sign" Akk.  şaddu 
->>>  an-ub-da ;  ub-da  
  anubda  [ QUARTER ]  𒀭𒌒𒁕;𒌒𒁕  an-ub-da ;  ub-da  "a cosmographic or geographic term; quarter (of the universe)" Akk.  kibrat arbatu 
->>>  a2 -nud-da ;  e2 -nu2  
  anuda  [ BEDROOM ]  𒀉𒈿𒁕;𒂍𒈿  a2 -nud-da ;  e2 -nu2  "bed chamber" Akk.  ? 
->>>  a-numun2  
  anumun  [ WATER ]  𒀀𒍤𒆸  a-numun2  "rush water" 
->>>  A.|ZI&ZI.LAGAB|  
  ANUMUN  [ GRASS ]  𒀀𒍥𒍥𒆸  A.|ZI&ZI.LAGAB|  "esparto grass" 
->>>  a2 -nun-gi4 -a ;  a-nun-gi4 -a ;  a-nu-gi-a  
  anungia  [ STRENGTH ]  𒀉𒉣𒄄𒀀;𒀀𒉣𒄄𒀀;𒀀𒉡𒄀𒀀  a2 -nun-gi4 -a ;  a-nun-gi4 -a ;  a-nu-gi-a  "great strength" Akk.  ? 
->>>  a2 -nun-ĝal2  
  anunĝal  [ STRONG ]  𒀉𒉣𒅅  a2 -nun-ĝal2  "(to be) strong, mighty" Akk.  ? 
->>>  an-ur2  
  anur  [ HORIZON ]  𒀭𒌫  an-ur2  "horizon" 
->>>  an-za-ab-tum ;  in-za-ab-tum  
  anzabtum  [ RING ]  𒀭𒍝𒀊𒌈;𒅔𒍝𒀊𒌈  an-za-ab-tum ;  in-za-ab-tum  "ring, earring" Akk.  anşabtu 
->>>  an-zag  
  anzag  [ HORIZON ]  𒀭𒍠  an-zag  "horizon, border of heaven" 
->>>  an-za-gar3 ;  an-gar3  
  anzagar  [ TOWER ]  𒀭𒍝𒃼;𒀭𒃼  an-za-gar3 ;  an-gar3  "(fortified) tower" Akk.  dimtu 
->>>  an-zah  
  anzah  [ GLASS ]  𒀭𒉈  an-zah  "a type of glass" Akk.  anzahhu 
->>>  anzalub  
  anzalub  [ PITH ]  𒊮𒄀  anzalub  "reed pith" Akk.  handû 
->>>  an-za-am  
  anzam  [ VESSEL ]  𒀭𒍝𒄠  an-za-am  "a drinking vessel" Akk.  assammu 
->>>  an-zib2  
  anzib  [ EPITHET ]  𒀭𒍨  an-zib2  "an epithet of Inana" 
->>>  an-zil  
  anzil  [ ABOMINATION ]  𒀭𒉣  an-zil  "abomination" Akk.  anzillu 
->>>  anzud2 mušen ;  anzud mušen ;  AN.IM mušen  
  anzud  [ EAGLE ]  𒀭𒅎𒈪𒄷;𒀭𒅎𒂂𒄷;𒀭𒅎𒄷  anzud2 mušen ;  anzud mušen ;  AN.IM mušen  "a mythological eagle" Akk.  anzû 
->>>  na4 an-zu2 -gul-me  
  anzugulme  [ STONE ]  𒎎𒀭𒅗𒄢𒈨  na4 an-zu2 -gul-me  "type of stone" 
->>>  a-pap  
  apap  [ PIPE ]  𒀀𒉽  a-pap  "birth canal; clay pipe; interment, burial; funerary ceremony" Akk.  arutu ;  hiršu 
->>>  apin ;  ĝeš apin  
  apin  [ PLOW ]  𒀳;𒄑𒀳  apin ;  ĝeš apin  "(seed) plow" Akk.  epinnu 
->>>  apin-la2  
  apinla  [ TILLER ]  𒀳𒇲  apin-la2  "planter, tiller" Akk.  errēšu 
->>>  apin-tug2 -saga11  
  apintugsigak  [ PLOW ]  𒀳𒌆𒆥  apin-tug2 -saga11  "type of plough" 
->>>  APIN.UŠ  
  APINUŠ  [ OFFICIAL ]  𒀳𒍑  APIN.UŠ  "an official" 
->>>  ar2 ;  a-ar2 ;  a-ar ;  a-ar3  
  ar  [ PRAISE ]  𒄱;𒀀𒄱;𒀀𒅈;𒀀𒄯  ar2 ;  a-ar2 ;  a-ar ;  a-ar3  "(hymn of) praise; fame" Akk.  tanittu 
->>>  ar2 ;  ar x (|URU×A|?)  
  ar  [ RUIN ]  𒄱;|URU×A|(𒌸?)  ar2 ;  ar x (|URU×A|?)  "ruin" Akk.  karmu 
->>>  ara3  
  ara  [ GRIND ]  𒄯  ara3  "to grind" Akk.  samādu 
->>>  na4 ara3  
  ara  [ HAND-MILL ]  𒎎𒄯  na4 ara3  "hand-mill; lower grindstone" Akk.  erû 
->>>  ara  
  ara  [ OFFICIAL ]  𒊭  ara  "an official" Akk.  ušmû 
->>>  a-ra2  
  ara  [ TIMES ]  𒀀𒁺  a-ra2  "times (with numbers); ways; way; omen; step (math.)" 
->>>  ĝeš a-ra  
  ara  [ ~BOAT ]  𒄑𒀀𒊏  ĝeš a-ra  "a boat part" 
->>>  ara3  
  ara  [ ~MILK ]  𒄯  ara3  "designation of milk" 
->>>  a-ra2  
  ara  [ ~OIL ]  𒀀𒁺  a-ra2  "designation of oil" 
->>>  a-ra-ab  
  arab  [ PIN ]  𒀀𒊏𒀊  a-ra-ab  "a metal pin" 
->>>  dug a-ra-ab  
  arab  [ VESSEL ]  𒂁𒀀𒊏𒀊  dug a-ra-ab  "brewing vessel" Akk.  nēlebu 
->>>  a12 -ra2 -bu mušen ;  adab mušen ;  a2 -tab mušen ;  udu-bu adab mušen  
  arabu  [ BIRD ]  𒌓𒁺𒁍𒄷;𒌓𒉣𒄷;𒀉𒋰𒄷;𒇻𒁍𒌓𒉣𒄷  a12 -ra2 -bu mušen ;  adab mušen ;  a2 -tab mušen ;  udu-bu adab mušen  "a bird" Akk.  arabû ;  usābu 
->>>  arad2 ;  arad ;  ar3 -tu ;  e-re  
  arad  [ SLAVE ]  𒀵;𒀴;𒄯𒌅;𒂊𒊑  arad2 ;  arad ;  ar3 -tu ;  e-re  "slave, servant" Akk.  ardu 
->>>  arad2 -da mušen  
  arada  [ BIRD ]  𒀵𒁕𒄷  arad2 -da mušen  "a bird" Akk.  erullu ;  katīmatu 
->>>  a-ra2 -gub-ba  
  aragubba  [ ~MATHEMATICS ]  𒀀𒁺𒁺𒁀  a-ra2 -gub-ba  "a mathematical term" 
->>>  arah4 ;  arah3 ;  arah x (|UŠ.BU.DA|)  
  arah  [ STOREHOUSE ]  𒂍𒍑𒁍𒁕;𒃥;|UŠ.BU.DA|(𒍑𒁍𒁕)  arah4 ;  arah3 ;  arah x (|UŠ.BU.DA|)  "storehouse, granary, storeroom; storage vessel" Akk.  arahhu ;  našpaku 
->>>  a-ra-hi  
  arahi  [ INSTRUMENT ]  𒀀𒊏𒄭  a-ra-hi  "musical instrument" 
->>>  a-ra-hi  
  arahi  [ ~MATHEMATICS ]  𒀀𒊏𒄭  a-ra-hi  "a mathematical term (math.)" Akk.  arahû 
->>>  a-ra-ak mušen ;  a-rak mušen ;  a-rig2 mušen  
  arak  [ BIRD ]  𒀀𒊏𒀝𒄷;𒀀𒊩𒄷;𒀀𒍮𒄷  a-ra-ak mušen ;  a-rak mušen ;  a-rig2 mušen  "a bird" Akk.  laqlaqqu 
->>>  a-ra2 -ĝar ;  a-ra-kar2  
  arakar  [ FACTOR ]  𒀀𒁺𒃻;𒀀𒊏𒃸  a-ra2 -ĝar ;  a-ra-kar2  "factor, coefficient (math)" 
->>>  a-ra-li ;  arali ;  arali x (|URU×GAL|)  
  arali  [ EARTH ]  𒀀𒊏𒇷;𒂍𒆳𒈪;|URU×GAL|(𒌽)  a-ra-li ;  arali ;  arali x (|URU×GAL|)  "earth, land; underworld" Akk.  erşetu 
->>>  a12 -ra2 -min3 mušen  
  aramin  [ BIRD ]  𒌓𒁺𒌋𒌋𒄷  a12 -ra2 -min3 mušen  "a bird" 
->>>  dug a-ra-an-du7  
  arandu  [ PIPE ]  𒂁𒀀𒊏𒀭𒌌  dug a-ra-an-du7  "a clay pipe" Akk.  ? 
->>>  dug a-ra-num2  
  aranum  [ CASHBOX? ]  𒂁𒀀𒊏𒈝  dug a-ra-num2  "cashbox?" Akk.  arānu? 
->>>  geme2 ar3 -ar3 ;  lu2 ar3 -ar3 ;  geme2 ara3 ;  lu2 ara3  
  arar  [ MILLER ]  𒊩𒆳𒄯𒄯;𒇽𒄯𒄯;𒊩𒆳𒄯;𒇽𒄯  geme2 ar3 -ar3 ;  lu2 ar3 -ar3 ;  geme2 ara3 ;  lu2 ara3  "miller" Akk.  ararru ;  ţē'inum 
->>>  aratta  
  aratta  [ IMPORTANT ]  𒇶  aratta  "heavy; important; praise, glory" Akk.  kabtu ;  tanattu 
->>>  a-ra-zu ;  ra2 -zu ;  ra-zu  
  arazu  [ SUPPLICATION ]  𒀀𒊏𒍪;𒁺𒍪;𒊏𒍪  a-ra-zu ;  ra2 -zu ;  ra-zu  "supplication" 
->>>  dug a-ra-zum  
  arazum  [ CONTAINER ]  𒂁𒀀𒊏𒍮  dug a-ra-zum  "a container" Akk.  arasu 
->>>  ar-ga-nu-um ;  ĝeš hašhur ar-ga-nu  
  arganum  [ CONIFER ]  𒅈𒂵𒉡𒌝;𒄑𒈢𒅈𒂵𒉡  ar-ga-nu-um ;  ĝeš hašhur ar-ga-nu  "a conifer" Akk.  argānu 
->>>  ĝeš ar-gibil2 ;  ĝeš ar-gibil ;  ar-gi-bil-lu zabar ;  ar-ga-bi-nu  
  argibil  [ STRUCTURE ]  𒄑𒅈𒋙𒀾;𒄑𒅈𒉋;𒅈𒄀𒉈𒇻𒌓𒊕𒁇;𒅈𒂵𒁉𒉡  ĝeš ar-gibil2 ;  ĝeš ar-gibil ;  ar-gi-bil-lu zabar ;  ar-ga-bi-nu  "a wooden or bronze structure" 
->>>  ar-gu-gu  
  argugu  [ IMPLEMENT ]  𒅈𒄖𒄖  ar-gu-gu  "an agricultural implement" Akk.  argukku 
->>>  arhuš ;  arhuš2 ;  arhuš5 ;  arhuš6  
  arhuš  [ WOMB ]  𒃣;𒉦;𒀉𒌉;𒀉𒊩  arhuš ;  arhuš2 ;  arhuš5 ;  arhuš6  "membrane; afterbirth; womb; compassion" Akk.  ipu ;  rîmu 
->>>  ari2 ;  uru4  
  ari  [ DISEASE ]  𒅂;𒀳  ari2 ;  uru4  "a disease" Akk.  maškadu 
->>>  a-ri-a  
  aria  [ DISEASE ]  𒀀𒊑𒀀  a-ri-a  "a disease" 
->>>  a-ri-a  
  aria  [ STEPPE ]  𒀀𒊑𒀀  a-ri-a  "steppe" Akk.  harbu ;  namû 
->>>  erin x (|MUŠ&MUŠ|)-na ku6  
  arina  [ FISH ]  MUŠ&MUŠ.NA.HA(𒈲𒈲)𒈾𒄩  erin x (|MUŠ&MUŠ|)-na ku6  "a fish" 
->>>  e-ri2 -na ;  i3 -ri2 -na ;  erina8 ;  ĝeš arina ;  a-i3 -ri2 -na ;  ĝeš arina x (|UR2 ×A|) na ;  a-ri2 -na ;  a-ri8 -na ;  e-ri8 -na ;  i-ri8 -na ;  ĝeš arina x (|I.LU2 @s.NA|) ;  ĝeš arina x (|LU2 @s.NA|)  
  arina  [ ROOT ]  𒂊𒌷𒈾;𒉌𒌷𒈾;𒈷;𒄑𒈸𒀀𒈾;𒀀𒉌𒌷𒈾;𒄑GIŠ.|UR₂×A|.NA(𒌫·𒀀)𒈾;𒀀𒌷𒈾;𒀀𒈶𒈾;𒂊𒈶𒈾;𒐊𒈶𒈾;𒄑GIŠ.|UR₂×A|.NA(𒐊𒇽?𒈾);𒄑GIŠ.|UR₂×A|.NA(𒇽?𒈾)  e-ri2 -na ;  i3 -ri2 -na ;  erina8 ;  ĝeš arina ;  a-i3 -ri2 -na ;  ĝeš arina x (|UR2 ×A|) na ;  a-ri2 -na ;  a-ri8 -na ;  e-ri8 -na ;  i-ri8 -na ;  ĝeš arina x (|I.LU2 @s.NA|) ;  ĝeš arina x (|LU2 @s.NA|)  "a root" Akk.  šuršu 
->>>  arkab ;  arkab mušen ;  su-din arkab x (|ARKAB2 .IB|) mušen ;  su-din arkab x (IB) ;  arkab x (|ARKAB2 .IB|)  
  arkab  [ BAT ]  𒃻𒅁;𒃻𒅁𒄷;𒋢𒁷|ARKAB₂.IB|(𒀶𒅁)𒄷;𒋢𒁷|ARKAB₂.IB|(𒅁);|ARKAB₂.IB|(𒀶𒅁)  arkab ;  arkab mušen ;  su-din arkab x (|ARKAB2 .IB|) mušen ;  su-din arkab x (IB) ;  arkab x (|ARKAB2 .IB|)  "a bird or bat" Akk.  argabu 
->>>  ar-ma-nu  
  armanu  [ TREE ]  𒅈𒈠𒉡  ar-ma-nu  "a tree" Akk.  armannu ;  equals {ĝeš}hašhur kur-ra 
->>>  urud ar-ma-tum ;  ar-ma-tum  
  armatum  [ ~DOOR ]  U+1234F𒅈𒈠𒌈;𒅈𒈠𒌈  urud ar-ma-tum ;  ar-ma-tum  "a door part" Akk.  armatu 
->>>  ar2 -mur-ra  
  armura  [ RUINS ]  𒄱𒄯𒊏  ar2 -mur-ra  "ruins" Akk.  ? 
->>>  ar2 -re  
  arre  [ JEST ]  𒄱𒊑  ar2 -re  "jest, mockery" Akk.  namūtum 
->>>  a-ru  
  aru  [ ~ADMINISTRATION ]  𒀀𒊒  a-ru  "an administrative category of persons" 
->>>  a-ru-a  
  arua  [ OFFERING ]  𒀀𒊒𒀀  a-ru-a  "votive offering" 
->>>  a-ru-ub ;  a-ru-ub-ba  
  aruba  [ PITFALL ]  𒀀𒊒𒌒;𒀀𒊒𒌒𒁀  a-ru-ub ;  a-ru-ub-ba  "pitfall, trap" Akk.  nahallu 
->>>  dug a-ru-tum  
  arutum  [ PIPE ]  𒂁𒀀𒊒𒌈  dug a-ru-tum  "(clay) pipe" Akk.  arūtu 
->>>  ar-za-na  
  arzana  [ GROATS ]  𒅈𒍝𒈾  ar-za-na  "groats" Akk.  arsānu 
->>>  ar-zig  
  arzig  [ MILLET ]  𒅈𒍨  ar-zig  "a millet" Akk.  arsikku 
->>>  a2 -sag3  
  asag  [ DEMON ]  𒀉𒉺  a2 -sag3  "a demon; a disease" Akk.  asakku 
->>>  a-sag  
  asag  [ ~FLOUR ]  𒀀𒊕  a-sag  "a designation of flour" 
->>>  ĝeš asal2 ;  ĝeš asal x (|A.TU.NUN&NUN|) ;  ĝeš asal x (ASAL2 ~a) ;  ĝeš asal x (|A.TU|) ;  ĝeš asal x (|A.TU.GABA.SIG.GAR|)  
  asal  [ POPLAR ]  𒄑𒀀𒌅𒃮𒇺;𒄑GIŠ.|A.TU.NUN&NUN|(𒀀𒌅𒉣𒉣);𒄑GIŠ.|A.TU.NUN&NUN|(𒀀𒌅𒃮𒇺𒀀);𒄑GIŠ.|A.TU.NUN&NUN|(𒀀𒌅);𒄑GIŠ.|A.TU.NUN&NUN|(𒀀𒌅𒃮𒋝𒃻)  ĝeš asal2 ;  ĝeš asal x (|A.TU.NUN&NUN|) ;  ĝeš asal x (ASAL2 ~a) ;  ĝeš asal x (|A.TU|) ;  ĝeš asal x (|A.TU.GABA.SIG.GAR|)  "poplar" Akk.  şarbatu 
->>>  a-sal  
  asal  [ ~ARCHITECTURE ]  𒀀𒊩  a-sal  "an architectural term" 
->>>  a-sal-bar ;  a-sal4 -bar  
  asalbar  [ ~ARCHITECTURE ]  𒀀𒊩𒁇;𒀀𒋡𒁇  a-sal-bar ;  a-sal4 -bar  "an architectural term" Akk.  artī kīsi 
->>>  a-sal-GAR  
  asalGAR  [ ~ARCHITECTURE ]  𒀀𒊩𒃻  a-sal-GAR  "an architectural term" 
->>>  kuš a2 -si ;  urud a2 -si ;  kuš a-si  
  asi  [ STRAP ]  𒋢𒀉𒋛;U+1234F𒀉𒋛;𒋢𒀀𒋛  kuš a2 -si ;  urud a2 -si ;  kuš a-si  "whip; hinge; strap" 
->>>  a2 -sig3  
  asig  [ SLINGSTONE ]  𒀉𒉺  a2 -sig3  "slingstone" Akk.  assukku 
->>>  a-sig  
  asig  [ VESSEL ]  𒀀𒋝  a-sig  "a drinking vessel" Akk.  mašqû 
->>>  a-sig10 -ga  
  asiga  [ UNMNG ]  𒀀𒋧𒂵  a-sig10 -ga  "?" 
->>>  a2 -sikil  
  asikil  [ PROFESSION ]  𒀉𒂖  a2 -sikil  "a profession" 
->>>  a-sila3 -ĝar-ra  
  asilaĝara  [ AFTERBIRTH ]  𒀀𒋡𒃻𒊏  a-sila3 -ĝar-ra  "afterbirth" 
->>>  asilal  
  asilal  [ DISTANT ]  𒂰  asilal  "to move away, withdraw; to stay away; (to be) far away, distant" Akk.  duppuru ;  nasû 
->>>  asila ;  asil-la2 ;  asil3 -la2 ;  asila3 ;  si11 -le2 ;  sila ;  asila x (|EZEN×KASKAL|) ;  asil x (EZEN)-la2 ;  asil x (EZEN)-le2  
  asilala  [ JOY ]  𒂰;𒂰𒇲;𒂢𒇲;𒂢;𒋝𒉌;𒋻;|EZEN×KASKAL|(𒂬);EZEN.LAL(𒂡)𒇲;EZEN.LAL(𒂡)𒉌  asila ;  asil-la2 ;  asil3 -la2 ;  asila3 ;  si11 -le2 ;  sila ;  asila x (|EZEN×KASKAL|) ;  asil x (EZEN)-la2 ;  asil x (EZEN)-le2  "joy; to rejoice; decorative fancy work" Akk.  ašilalû ;  ebēru ;  riāšu ;  rīšātu 
->>>  a-si-ri  
  asiri  [ PRISONER ]  𒀀𒋛𒊑  a-si-ri  "prisoner of war" Akk.  asiru 
->>>  ĝeš as4 -lum  
  aslum  [ ROD ]  𒄑𒍞𒈝  ĝeš as4 -lum  "measuring rod" 
->>>  aslum x (|A.LUM|) ;  as4 -lum  
  aslum  [ SHEEP ]  |A.LUM|(𒀀𒈝);𒍞𒈝  aslum x (|A.LUM|) ;  as4 -lum  "a type of sheep" Akk.  aslu ;  pasillu 
->>>  as4 -lum  
  aslum  [ UNIT ]  𒍞𒈝  as4 -lum  "a unit of measurement" Akk.  aslu 
->>>  as-qum-bi-tum  
  asqumbitum  [ HUMP ]  𒊍𒄣𒁉𒌈  as-qum-bi-tum  "hump" Akk.  asqubbītu 
->>>  a2 -sumur2 ;  a2 -sumur3  
  asumur  [ CANOPY ]  𒀉𒋦;𒀉𒈰  a2 -sumur2 ;  a2 -sumur3  "canopy" 
->>>  a-sun5 -na  
  asuna  [ UNMNG ]  𒀀𒁔𒈾  a-sun5 -na  "?" 
->>>  a-sur-ra  
  asura  [ WATER ]  𒀀𒁍  ≈ 𒄮 SUR3𒊏  a-sur-ra  "water from the depths" Akk.  mê šuri? 
->>>  aš  
  aš  [ BOIL ]  𒀸  aš  "a boil (on skin)" Akk.  şernettum 
->>>  aš2  
  aš  [ CURSE ]  𒀾  aš2  "curse" Akk.  arratu ;  şibûtu 
->>>  aš  
  aš  [ FLOUR ]  𒀸  aš  "bread; a type of flour" Akk.  akalu ;  upumtu 
->>>  aš  
  aš  [ ONE ]  𒀸  aš  "one" Akk.  išten 
->>>  aš3  
  aš  [ SIX ]  𒐋  aš3  "six" 
->>>  aš5  
  aš  [ SPIDER ]  𒋠𒇴𒋦  aš5  "spider" Akk.  ettuttu 
->>>  aš2  bala  
  aš bala  [ CURSE ]  𒀾𒁄  aš2  bala  "to curse, insult" Akk.  arāru ;  nazāru 
->>>  aš2  sar  
  aš sar  [ CURSE ]  𒀾𒊬  aš2  sar  "to curse, insult" Akk.  arāru ;  nazāru 
->>>  a-šag4 mušen  
  ašag  [ BUTTERFLY ]  𒀀𒊮𒄷  a-šag4 mušen  "butterfly?" Akk.  kurmittu 
->>>  a-šag4 ;  ašag ;  a-šag4 ašag  
  ašag  [ FIELD ]  𒀀𒊮;𒃷;𒀀𒊮𒃷  a-šag4 ;  ašag ;  a-šag4 ašag  "field; surface (math.)" Akk.  eqlu 
->>>  a-ša-ga-si  
  ašagasi  [ DROPSY ]  𒀀𒊭𒂵𒋛  a-ša-ga-si  "dropsy" Akk.  mala mê 
->>>  a-ša-an-gar3  
  ašangar  [ DECEPTION ]  𒀀𒊭𒀭𒃼  a-ša-an-gar3  "deception" Akk.  tašgertu 
->>>  ašarid  
  ašarid  [ FOREMOST ]  ¿ erst  ašarid  "foremost" 
->>>  lu2 aš-bal-tum  
  ašbaltum  [ STATUS ]  𒇽𒀸𒁄𒌈  lu2 aš-bal-tum  "a person of low social standing" Akk.  ašpaltu ;  guzallu 
->>>  aš-bur2 ;  aš-gar  
  ašbur  [ DISEASE ]  𒀸𒁔;𒀸𒃻  aš-bur2 ;  aš-gar  "a disease" Akk.  di'u 
->>>  a2 -še  
  aše  [ NOW ]  𒀉𒊺  a2 -še  "now" Akk.  anumma 
->>>  a-še-gin2  
  ašegin  [ ~GLUE ]  𒀀𒊺𒂆  a-še-gin2  "a solution of glue in water?" 
->>>  ašgab  
  ašgab  [ LEATHERWORKER ]  𒀿  ašgab  "leatherworker" Akk.  aškāpu 
->>>  ašgabgal x (|GAL.AŠGAB|)  
  ašgabgal  [ LEATHERWORKER ]  |GAL.AŠGAB|(𒃲𒀿)  ašgabgal x (|GAL.AŠGAB|)  "chief leatherworker" 
->>>  munus aš2 -gar3 ;  aš2 -gar3  
  ašgar  [ KID ]  𒊩𒀾𒃼;𒀾𒃼  munus aš2 -gar3 ;  aš2 -gar3  "female kid" Akk.  unīqu 
->>>  na4 aš-gi4 -gi4  
  ašgigi  [ STONE ]  𒎎𒀸𒄄𒄄  na4 aš-gi4 -gi4  "type of stone" Akk.  ašgigû 
->>>  AŠ.IŠ  
  AŠIŠ  [ BIRD ]  𒀸𒅖  AŠ.IŠ  "a bird" 
->>>  a2 -šita4 ;  a2 -šu-du7 -a ;  a2 -šu-du7  
  ašita  [ EQUIPMENT ]  𒀉𒌋𒆤;𒀉𒋗𒌌𒀀;𒀉𒋗𒌌  a2 -šita4 ;  a2 -šu-du7 -a ;  a2 -šu-du7  "equipment" Akk.  takaltu 
->>>  u2 aški ;  u2 |ZI&ZI| ;  u2 |A.ZI&ZI| ;  u2 |ZI&ZI.A| ;  u2 |ZI&ZI.EŠ2 .ŠE|  
  aški  [ RUSHES ]  𒌑𒍤𒆸;𒌑𒍥𒍥;𒌑𒀀𒍥𒍥;𒌑𒍥𒍥𒀀;𒌑𒍥𒍥𒂠𒊺  u2 aški ;  u2 |ZI&ZI| ;  u2 |A.ZI&ZI| ;  u2 |ZI&ZI.A| ;  u2 |ZI&ZI.EŠ2 .ŠE|  "rushes" Akk.  urbatu 
->>>  aškud2 ;  aškud  
  aškud  [ EXTREMITIES ]  𒀾𒈹;𒀾𒈽  aškud2 ;  aškud  "extremities; elbows; horns" Akk.  aškuttu 
->>>  aškud2 ;  aškud  
  aškud  [ ~DOOR ]  𒀾𒈹;𒀾𒈽  aškud2 ;  aškud  "a part of a door" Akk.  aškuttu 
->>>  ašlug  
  ašlug  [ STOREHOUSE ]  𒂍𒍑𒁍𒁕  ašlug  "storehouse" 
->>>  ašlug(|E2 .UŠ.BU.DA|)  
  ašlug  [ STOREROOM ]  𒂍𒍑𒁍𒁕(𒂍𒍑𒁍𒁕)  ašlug(|E2 .UŠ.BU.DA|)  "storeroom" Akk.  ašlukkatu 
->>>  aš-me ;  aš-me zabar  
  ašme  [ RADIANCE ]  𒀸𒈨;𒀸𒈨𒌓𒊕𒁇  aš-me ;  aš-me zabar  "radiance; sun-disk ornament" Akk.  barīru ;  šamšatu 
->>>  ašnan ;  ašnan2  
  ašnan  [ GRAIN ]  𒊺;𒊺𒌁  ašnan ;  ašnan2  "grain, cereals" Akk.  ašnan 
->>>  ašnan  
  ašnan  [ MOLE ]  𒊺  ašnan  "mole" Akk.  pendû 
->>>  aš-rin-na  
  ašrinna  [ WOODEN OBJECT ]  𒀸𒆸𒈾  aš-rin-na  "a wooden object" Akk.  ašrinnu 
->>>  aš-ru  
  ašru  [ SHIVERING ]  𒀸𒊒  aš-ru  "shivering" Akk.  šuruppû 
->>>  ašša2  
  ašša  [ LAMENTATION ]  𒃰𒋺  ašša2  "lamentation; clamor, uproar, voice, cry, noise" Akk.  ikkillu ;  rigmu 
->>>  aš-ša4 ;  aš-ša  
  ašša  [ PERFECT ]  𒀸𒁺;𒀸𒊭  aš-ša4 ;  aš-ša  "perfect" Akk.  gitmalu? 
->>>  aš-tal2 -tal2  
  aštaltal  [ PLANT ]  𒀸𒉿𒉿  aš-tal2 -tal2  "a plant" Akk.  ardadillu 
->>>  ašte2 ;  ĝeš aš-te ;  ĝeš iš-de3  
  ašte  [ CHAIR ]  𒆹;𒄑𒀸𒋼;𒄑𒅖𒉈  ašte2 ;  ĝeš aš-te ;  ĝeš iš-de3  "chair, throne; seat, dwelling; shrine, chapel; a unit of area" Akk.  kussû ;  sukku ;  šubtu 
->>>  ašte  
  ašte  [ TIP ]  𒀉𒌋𒆤  ašte  "tip of an animal's horn" Akk.  sappartu 
->>>  a2 -šuba ;  na4 a2 -šuba  
  ašuba  [ STONE ]  𒀉𒍝𒈽;𒎎𒀉𒍝𒈽  a2 -šuba ;  na4 a2 -šuba  "a stone" 
->>>  a-šu-dab6  
  ašudab  [ OIL ]  𒀀𒋗𒍏  a-šu-dab6  "a qualification of oil?; an oil producing plant?" 
->>>  a2 -šu-du7  
  ašudu  [ RESOURCES ]  𒀉𒋗𒌌  a2 -šu-du7  "resources" 
->>>  a2 -šu-ĝiri3  
  ašuĝiri  [ LIMBS ]  𒀉𒋗𒄊  a2 -šu-ĝiri3  "limbs" Akk.  mešretu 
->>>  a2 -šu-ĝiri3 -kud  
  ašuĝirikud  [ CRIPPLE ]  𒀉𒋗𒄊𒋻  a2 -šu-ĝiri3 -kud  "cripple" Akk.  kuşşudu 
->>>  aš-ur4  
  ašur  [ ~SHEEP ]  𒀸𒌴  aš-ur4  "a designation of sheep" Akk.  iltennû baqnu 
->>>  a2 -tah  
  atah  [ HELPER ]  𒀉𒈭  a2 -tah  "helper" Akk.  rīşu 
->>>  a-tar  
  atar  [ DERISION ]  𒀀𒋻  a-tar  "derision" Akk.  namūtu 
->>>  a-tu  
  atu  [ DOORKEEPER? ]  𒀀𒌅  a-tu  "doorkeeper?; a priest or cultic functionary" 
->>>  a-tu5 -a  
  atua  [ LUSTRATION ]  𒀀𒋗𒉀𒀀  a-tu5 -a  "lustration rite" Akk.  rimku 
->>>  a-tu5 ;  a-tu5 -a-tu5 ;  lu2 a-tu5 -a  
  atua  [ PRIEST ]  𒀀𒋗𒉀;𒀀𒋗𒉀𒀀𒋗𒉀;𒇽𒀀𒋗𒉀𒀀  a-tu5 ;  a-tu5 -a-tu5 ;  lu2 a-tu5 -a  "a type of priest" 
->>>  a2 -tuku  
  atuku  [ POWERFUL ]  𒀉𒌇  a2 -tuku  "powerful, able-bodied" Akk.  igigallu ;  lē'û 
->>>  a-tur3  
  atur  [ FURROW ]  𒀀𒉣𒇬  a-tur3  "a part of a furrow" Akk.  ? 
->>>  u2 a-tu-tu  
  atutu  [ PLANT ]  𒌑𒀀𒌅𒌅  u2 a-tu-tu  "a type of plant" 
->>>  a-u3  
  a'u  [ EXCLAMATION ]  𒀀𒅇  a-u3  "an exclamation" Akk.  ? 
->>>  au  
  a'u  [ TOWMAN ]  𒀀𒉺𒄐𒉻𒋛𒀀  au  "towman of a boat" Akk.  āgilu 
->>>  a-u2 ;  a-u3 ;  a-u5 ;  u3 ;  u5  
  a'u  [ WATER ]  𒀀𒌑;𒀀𒅇;𒀀𒄷𒋛;𒅇;𒄷𒋛  a-u2 ;  a-u3 ;  a-u5 ;  u3 ;  u5  "high water" 
->>>  a-u3 -a ;  a-u3 -am3 -ma  
  a'u'a  [ EXPRESSION ]  𒀀𒅇𒀀;𒀀𒅇𒀀𒀭𒈠  a-u3 -a ;  a-u3 -am3 -ma  "soothing expression" 
->>>  a-u3 -a ;  a-u5 -a  
  a'u'a  [ FERRYMAN ]  𒀀𒅇𒀀;𒀀𒄷𒋛𒀀  a-u3 -a ;  a-u5 -a  "ferryman" 
->>>  a-u3 -a  
  a'ua  [ MUSICIAN? ]  𒀀𒅇𒀀  a-u3 -a  "a cultic musician?" 
->>>  a2 -ud-te-gi6 -ba  
  a'udteĝiba  [ TIME ]  𒀉𒌓𒋼𒈪𒁀  a2 -ud-te-gi6 -ba  "time" 
->>>  a2 -ur2  
  a'ur  [ ARMPIT ]  𒀉𒌫  a2 -ur2  "hidden place; armpit" Akk.  puzru 
->>>  a2 -ur2  
  a'ur  [ LIMBS ]  𒀉𒌫  a2 -ur2  "limbs" Akk.  mešrêtu 
->>>  a2 -ur2  dab5  
  a'ur dab  [ HIDE ]  𒀉𒌫𒆪  a2 -ur2  dab5  "to hide" Akk.  puzra ahāzu 
->>>  na4 a-ur4 -a  
  a'ura  [ STONE ]  𒎎𒀀𒌴𒀀  na4 a-ur4 -a  "a stone" 
->>>  a ;  u3  
  aya  [ CRY ]  𒀀;𒅇  a ;  u3  "a cry of woe; to cry, groan" Akk.  ahulap ;  nâqu 
->>>  a-a ;  aya2 ;  a-ia  
  aya  [ FATHER ]  𒀀𒀀;𒀀;𒀀𒐊  a-a ;  aya2 ;  a-ia  "father" Akk.  abu 
->>>  aya4  
  aya  [ MARSHLAND ]  𒆹  aya4  "marshland" Akk.  išiktu 
->>>  aya4  
  aya  [ SURROUND? ]  𒆹  aya4  "to surround?" 
->>>  aya-lum  
  ayalum  [ STAG ]  𒀀𒀀𒈝  aya-lum  "stag, deer" Akk.  ayyalu 
->>>  aya2 -ar-tum  
  ayartum  [ COWRIE? ]  𒀀𒅈𒌈  aya2 -ar-tum  "cowrie?, coral?" Akk.  ayartu 
->>>  ayaya x (|A.A.A|) ;  A  
  ayaya  [ GRANDFATHER ]  A.A.A(𒀀𒀀𒀀);𒀀  ayaya x (|A.A.A|) ;  A  "grandfather" 
->>>  az ;  ĝeš az  
  az  [ BEAR ]  𒊍;𒄑𒊍  az ;  ĝeš az  "bear; ~ figurine" Akk.  asu 
->>>  ĝeš az ;  ĝeš šim az  
  az  [ MYRTLE ]  𒄑𒊍;𒄑𒋆𒊍  ĝeš az ;  ĝeš šim az  "myrtle" Akk.  asu 
->>>  a-za-ad  
  azad  [ HEAD ]  𒀀𒍝𒀜  a-za-ad  "head" 
->>>  azad2 ;  azad x (|A.LAGAB×HAL.ŠU2 |)  
  azad  [ SHELTER ]  𒋺;|A.LAGAB×HAL.ŠU₂|(𒀀𒇉𒋙)  azad2 ;  azad x (|A.LAGAB×HAL.ŠU2 |)  "reed shelter" Akk.  ašāšu 
->>>  azag  
  azag  [ TABOO ]  𒆬𒀭  azag  "taboo, forbidden thing" Akk.  asakku 
->>>  a-zag-gur11 ku6 ;  a-za-gur8 ku6 ;  a-za-gur8  
  azaggur  [ FISH ]  𒀀𒍠𒂵𒄩;𒀀𒍝𒋽𒄩;𒀀𒍝𒋽  a-zag-gur11 ku6 ;  a-za-gur8 ku6 ;  a-za-gur8  "a fish" 
->>>  a-zag-gun3 mušen ;  e-zi-ga-na mušen ;  zag-gun3 mušen ;  a-zag-gana2 mušen ;  e-zi-gan mušen ;  i-zi-ga-na mušen ;  zag-gana2 mušen  
  azagun  [ BIRD ]  𒀀𒍠𒁯𒄷;𒂊𒍥𒂵𒈾𒄷;𒍠𒁯𒄷;𒀀𒍠𒃷𒄷;𒂊𒍥𒃶𒄷;𒐊𒍥𒂵𒈾𒄷;𒍠𒃷𒄷  a-zag-gun3 mušen ;  e-zi-ga-na mušen ;  zag-gun3 mušen ;  a-zag-gana2 mušen ;  e-zi-gan mušen ;  i-zi-ga-na mušen ;  zag-gana2 mušen  "a bird" Akk.  usukānu 
->>>  a-zal  
  azal  [ PELVIS ]  𒀀𒉌  a-zal  "pelvis" 
->>>  a-zal-la2  
  azalla  [ PLANT ]  𒀀𒉌𒇲  a-zal-la2  "a medicinal plant" Akk.  azallû 
->>>  a-za-lu-lu  
  azalulu  [ MULTITUDE ]  𒀀𒍝𒇻𒇻  a-za-lu-lu  "a multitude of living things" Akk.  tenēšētu 
->>>  az-bal  
  azbal  [ NECK-STOCK ]  𒊍𒁄  az-bal  "type of neck-stock" 
->>>  az-gu2  
  azgu  [ NECK-STOCK ]  𒊍𒄘  az-gu2  "type of neck-stock" 
->>>  a2 -zig3  
  azig  [ VIOLENCE ]  𒀉𒍣  a2 -zig3  "violence" Akk.  şenu 
->>>  az-la2  
  azla  [ CAGE ]  𒊍𒇲  az-la2  "a cage" Akk.  nabāru 
->>>  azlag2 ;  azlag3 ;  lu2 azlag2 ;  lu2 azlag ;  lu2 azlag5 ;  lu2 azlag3 ;  lu2 azlag7 ;  azlag4 ;  lu2 azlag4  
  azlag  [ FULLER ]  𒌆;𒄑𒌆𒉿𒋼𒀀𒁺;𒇽𒌆;𒇽𒌆𒌓;𒇽𒄑𒌆𒉿𒋼𒀀;𒇽𒄑𒌆𒉿𒋼𒀀𒁺;𒇽𒈐;𒄑𒌆𒋼𒀀𒁺;𒇽𒄑𒌆𒋼𒀀𒁺  azlag2 ;  azlag3 ;  lu2 azlag2 ;  lu2 azlag ;  lu2 azlag5 ;  lu2 azlag3 ;  lu2 azlag7 ;  azlag4 ;  lu2 azlag4  "fuller" Akk.  ašlāku 
->>>  azlaggal x (|GAL.GIŠ.TUG2 .TE.A.DU|)  
  azlaggal  [ FULLER ]  |GAL.GIŠ.TUG₂.TE.A.DU|(𒃲𒄑𒌆𒋼𒀀𒁺)  azlaggal x (|GAL.GIŠ.TUG2 .TE.A.DU|)  "chief fuller" 
->>>  a-zu ;  a-zu5 ;  azu  
  azu  [ DOCTOR ]  𒀀𒍪;𒀀𒍫;𒍬  a-zu ;  a-zu5 ;  azu  "doctor" Akk.  asû 
->>>  a-zu-gal ;  azu-gal  
  azugal  [ DOCTOR ]  𒀀𒍪𒃲;𒍬𒃲  a-zu-gal ;  azu-gal  "chief doctor" 
->>>  azugna ;  u2 azugna  
  azugna  [ VEGETABLE ]  𒄯𒊕;𒌑𒄯𒊕  azugna ;  u2 azugna  "a vegetable; saffron?" Akk.  azupīru 

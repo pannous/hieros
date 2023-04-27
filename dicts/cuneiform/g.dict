@@ -1,1100 +1,551 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
->>>  ga  
  ga  [ MILK ]  𒂵  ga  "milk; suckling" Akk.  šizbu 
->>>  ga sur  
  ga sur  [ MILK ]  𒂵𒁍  ≈ 𒄮 SUR3  ga sur  "to milk" 
->>>  ga-ar3 ;  gamur x (LAK490) ;  ga-mur x (|UD@g|)  
  ga'ar  [ CHEESE ]  𒂵𒄯;LAK490(¿);𒂵UD@g(𒌙)  ga-ar3 ;  gamur x (LAK490) ;  ga-mur x (|UD@g|)  "cheese" Akk.  eqīdu 
->>>  ga-ar3 -gazi ;  ga-gazi  
  ga'argazi  [ ~DAIRY ]  𒂵𒄯𒃢;𒂵𒃢  ga-ar3 -gazi ;  ga-gazi  "a dairy product" 
->>>  gab2 -bu ;  gab2  
  gab  [ LEFT ]  𒆏𒁍;𒆏  gab2 -bu ;  gab2  "left (hand)" Akk.  šumēlu 
->>>  gaba  
  gaba  [ CHEST ]  𒃮  gaba  "breast, chest; frontier" Akk.  irtu 
->>>  ĝeš gaba  
  gaba  [ PLOW ]  𒄑𒃮  ĝeš gaba  "a plow" 
->>>  gaba  
  gaba  [ ~SHEEP ]  𒃮  gaba  "a designation of sheep" 
->>>  gaba ri  
  gaba ri  [ CONFRONT ]  𒃮𒊑  gaba ri  "to confront" Akk.  mahāru 
->>>  gaba ru-gu2  
  gaba rugu  [ OPPOSE ]  𒃮𒊒𒄘  gaba ru-gu2  "to oppose" Akk.  mahāru 
->>>  gaba zig3  
  gaba zig  [ DEPART ]  𒃮𒍣  gaba zig3  "to depart" Akk.  ? 
->>>  gaba-aš  
  gaba'aš  [ COURIER ]  𒃮𒀸  gaba-aš  "a type of courier" 
->>>  ga-ba-bu-um  
  gababum  [ SHIELD ]  𒂵𒁀𒁍𒌝  ga-ba-bu-um  "shield" Akk.  kabābu 
->>>  gaba-ĝal2  
  gabaĝal  [ FORCEFUL ]  𒃮𒅅  gaba-ĝal2  "forceful" 
->>>  gaba-ĝal2  
  gabaĝal  [ GUARD ]  𒃮𒅅  gaba-ĝal2  "front guard of a chariot" Akk.  gabagallu 
->>>  gaba-hum  
  gabahum  [ MURDER ]  𒃮𒈝  gaba-hum  "murder" 
->>>  ga-ba-al  
  gabal  [ FIGHT ]  𒂵𒁀𒀠  ga-ba-al  "a fight" Akk.  qablu? 
->>>  ga-ba-al du3  
  gabal du  [ HOSTILE ]  𒂵𒁀𒀠𒆕  ga-ba-al du3  "to be hostile, to challenge" Akk.  gerû 
->>>  gaba-lal3  
  gabalal  [ WAX ]  𒃮𒋭  gaba-lal3  "wax" Akk.  iškuru 
->>>  gab2 -ra ;  gab2 -bar ;  gabar  
  gabar  [ HERDER ]  𒆏𒊏;𒆏𒁇;|PA.DAG.KISIM₅×KAK|  gab2 -ra ;  gab2 -bar ;  gabar  "herder, shepherd-boy" Akk.  kaparru 
->>>  ga-ba-ra-hum  
  gabarahum  [ DESPAIR ]  𒂵𒁀𒊏𒈝  ga-ba-ra-hum  "despair" 
->>>  gaba-ri ;  gaba  
  gabari  [ COPY ]  𒃮𒊑;𒃮  gaba-ri ;  gaba  "copy; equal" 
->>>  gaba-ri-a  
  gabaria  [ OFFERING ]  𒃮𒊑𒀀  gaba-ri-a  "an offering" 
->>>  gab2 -bar-tur  
  gabartur  [ HERDER ]  𒆏𒁇𒌉  gab2 -bar-tur  "a herder" 
->>>  gaba-šu-ĝar  
  gabašuĝar  [ RIVAL ]  𒃮𒋗𒃻  gaba-šu-ĝar  "rival" Akk.  māhiru 
->>>  ĝeš gaba-tab ;  gaba-tab  
  gabatab  [ POLE ]  𒄑𒃮𒋰;𒃮𒋰  ĝeš gaba-tab ;  gaba-tab  "a wooden pole used for manual seeding" 
->>>  gab2 -dan6 ;  TUG2 .|UŠ×TAK4 |  
  gabdan  [ CLEANER ]  𒆏𒍕;𒌆𒍕  gab2 -dan6 ;  TUG2 .|UŠ×TAK4 |  "cleaner" 
->>>  ga-ab-du11 -du11  
  gabdudu  [ OFFICIAL ]  𒂵𒀊𒅗𒅗  ga-ab-du11 -du11  "an official; informant?" Akk.  qabbā u 
->>>  gab2 -gaz  
  gabgaz  [ MURDERER ]  𒆏𒄤  gab2 -gaz  "murderer" 
->>>  gab2 -gin6 ;  ga-ab-gi-na  
  gabgin  [ GUARANTOR ]  𒆏𒄀;𒂵𒀊𒄀𒈾  gab2 -gin6 ;  ga-ab-gi-na  "guarantor" Akk.  muqippu 
->>>  gab2 -il2  
  gabil  [ BASKET ]  𒆏𒅍  gab2 -il2  "a basket" Akk.  zabbīlu 
->>>  gab2 -il2  
  gabil  [ BEAM ]  𒆏𒅍  gab2 -il2  "main beam of a chariot" Akk.  kabbillu 
->>>  gab2 -il2 -il2  
  gabilil  [ PORTER ]  𒆏𒅍𒅍  gab2 -il2 -il2  "porter" Akk.  zabbilu 
->>>  ga-bi-ri  
  gabiri  [ MOUNTAIN ]  𒂵𒁉𒊑  ga-bi-ri  "mountain" Akk.  šadû 
->>>  ga-ab-kar  
  gabkar  [ THIEF ]  𒂵𒀊𒋼𒀀  ga-ab-kar  "thief" Akk.  ekkēmu 
->>>  gab2 -kar-re  
  gabkare  [ THIEF ]  𒆏𒋼𒀀𒊑  gab2 -kar-re  "thief" 
->>>  gab2 -kas4  
  gabkas  [ DRIVER ]  𒆏𒁽  gab2 -kas4  "driver" 
->>>  uruda gab2 -la2  
  gabla  [ OBJECT ]  U+1234F𒆏𒇲  uruda gab2 -la2  "an object" 
->>>  ga-ab-sa10  
  gabsa  [ BUYER ]  𒂵𒀊𒉚  ga-ab-sa10  "buyer" Akk.  kapsû 
->>>  gab2 -sar  
  gabsar  [ ENGRAVER ]  𒆏𒊬  gab2 -sar  "engraver" Akk.  kabšarru 
->>>  ga-ab-sig3  
  gabsig  [ HERDER ]  𒂵𒀊𒉺  ga-ab-sig3  "a herder" Akk.  kisû 
->>>  gab2 -šam2  
  gabšam  [ PEDDLAR ]  𒆏𒉛  gab2 -šam2  "peddlar" 
->>>  ga-ab-šum2  
  gabšum  [ SELLER ]  𒂵𒀊𒋧  ga-ab-šum2  "seller" Akk.  nādinānu 
->>>  im ga-ab-šum2  
  gabšum  [ TABLET ]  𒅎𒂵𒀊𒋧  im ga-ab-šum2  "tablet of sale" Akk.  luddin 
->>>  ga-ab-us2  
  gabus  [ SHEPHERD ]  𒂵𒀊𒍑  ga-ab-us2  "a shepherd" Akk.  rē û 
->>>  ga-ab-zi  
  gabzi  [ REMOVER ]  𒂵𒀊𒍥  ga-ab-zi  "remover" Akk.  nāsihu 
->>>  gab2 -zu-zu  
  gabzuzu  [ EXPERT ]  𒆏𒍪𒍪  gab2 -zu-zu  "expert" Akk.  kabzuzû 
->>>  gada  
  gada  [ FLAX ]  𒃰  gada  "flax; linen" Akk.  kitû 
->>>  ga-da  
  gada  [ WITH ]  𒂵𒁕  ga-da  "with" Akk.  qadum 
->>>  tug2 gada-la2  
  gadala  [ FABRIC ]  𒌆𒃰𒇲  tug2 gada-la2  "a fabric" Akk.  gadalalû 
->>>  gada-la2  
  gadala  [ PRIEST ]  𒃰𒇲  gada-la2  "a priest" Akk.  labiš kitê 
->>>  ga-dam  
  gadam  [ SLUICE ]  𒂵𒁮  ga-dam  "sluice, waterfall" Akk.  natbaktu 
->>>  gada-mah  
  gadamah  [ GARMENT ]  𒃰𒈤  gada-mah  "a garment" 
->>>  |GA2 ×DIM×ŠE|.|GA2 ×DIM×ŠE| mušen  
  GADIMŠEGADIMŠE  [ BIRD ]  𒂷·𒁴·𒊺𒂷·𒁴·𒊺𒄷  |GA2 ×DIM×ŠE|.|GA2 ×DIM×ŠE| mušen  "a bird" 
->>>  GADA.TAG.DA  
  GADTAGDA  [ STAKE? ]  𒃰𒋳𒁕  GADA.TAG.DA  "stake?" 
->>>  ga-du  
  gadu  [ JAMB? ]  𒂵𒁺  ga-du  "door jamb?" 
->>>  ga-eš8 ;  ga-eš  
  ga'eš  [ TRADER ]  𒂵𒆜;𒂵𒌍  ga-eš8 ;  ga-eš  "a long distance trader; tax collector, customs collector" Akk.  ga'iššu 
->>>  ĝeš gag ;  gag ;  urud gag  
  gag  [ NAIL ]  𒄑𒆕;𒆕;U+1234F𒆕  ĝeš gag ;  gag ;  urud gag  "arrowhead; peg, nail" Akk.  sikkatu ;  ūşu 
->>>  gag  
  gag  [ POCK ]  𒆕  gag  "a pock; a disease" Akk.  sikkatu 
->>>  ĝiš gag-MUŠ3  
  gag.MUŠ  [ KEY ]  𒄑𒆕𒈹  ĝiš gag-MUŠ3  "key" Akk.  namzāqu 
->>>  urud gag-SUH  
  gag.SUH  [ NAIL ]  U+1234F𒆕𒄗  urud gag-SUH  "nail" 
->>>  gagar  
  gagar  [ GROUND ]  𒆠  gagar  "ground" Akk.  qaqqaru 
->>>  gar-gar-ra ;  ga-ga-ra  
  gagara  [ TOTAL ]  𒃻𒃻𒊏;𒂵𒂵𒊏  gar-gar-ra ;  ga-ga-ra  "capital; total" Akk.  kumurrû 
->>>  ga-ga-ar-tum  
  gagartum  [ BREAD ]  𒂵𒂵𒅈𒌈  ga-ga-ar-tum  "a type of bread" 
->>>  ga-ga-tum  
  gagatum  [ REEDS ]  𒂵𒂵𒌈  ga-ga-tum  "a description of reeds" 
->>>  gag-dag2  
  gagdag  [ CVNE ]  𒆕𒌓  gag-dag2  "(compound verb nominal element)" 
->>>  gagig  
  gagig  [ CRY ]  𒃟  gagig  "to cry (out), wail" Akk.  nâqu 
->>>  ĝeš gag-ku6 -la2  
  gagkula  [ FISH-HOOK ]  𒄑𒆕𒄩𒇲  ĝeš gag-ku6 -la2  "fish-hook" 
->>>  ĝeš gag-sila3  
  gagsila  [ HARNESS ]  𒄑𒆕𒋡  ĝeš gag-sila3  "harness; a wagon" 
->>>  ĝeš gag-si-sa2  
  gagsisa  [ ARROW ]  𒄑𒆕𒋛𒁲  ĝeš gag-si-sa2  "arrow" 
->>>  ĝeš gag-ti  
  gagti  [ ARROW ]  𒄑𒆕𒋾  ĝeš gag-ti  "type of arrow" 
->>>  ga-gur3 -ru  
  gaguru  [ PROFESSION ]  𒂵𒅍𒊒  ga-gur3 -ru  "a profession, milk carrier" Akk.  nāš šizbu 
->>>  ĝeš gag-u2 -tag-ga  
  gagutagga  [ ARROW ]  𒄑𒆕𒌑𒋳𒂵  ĝeš gag-u2 -tag-ga  "type of arrow" 
->>>  gaĝ x (IL2 ) ;  ga-aĝ3  
  gaĝ  [ CARRY ]  A₂(𒅍);𒂵𒋃  gaĝ x (IL2 ) ;  ga-aĝ3  "to carry" Akk.  našû 
->>>  ga-il2  
  ga'il  [ MILK-CARRIER ]  𒂵𒅍  ga-il2  "milk-carrier" 
->>>  GA2 .KI mušen  
  GAKI  [ BIRD ]  𒂷𒆠𒄷  GA2 .KI mušen  "a bird" 
->>>  ga-kid mušen ;  ga-kad4 mušen  
  gakid  [ BIRD ]  𒂵𒆤𒄷;𒂵𒆒𒄷  ga-kid mušen ;  ga-kad4 mušen  "a bird, " 
->>>  ga-ki-tir  
  gakitir  [ UNMNG ]  𒂵𒆠𒌁  ga-ki-tir  "?" 
->>>  gakkul  
  gakkul  [ EYEBALL ]  𒌋𒁵  gakkul  "eyeball" Akk.  kakkultu 
->>>  gakkul2 ku6  
  gakkul  [ FISH ]  𒌋𒁵𒄩  gakkul2 ku6  "a fish" 
->>>  gakkul ;  gakkul3 ;  gakkul3 sar  
  gakkul  [ HEART ]  𒌋𒁵;𒌋𒁴;𒌋𒁴𒊬  gakkul ;  gakkul3 ;  gakkul3 sar  "heart (of a plant)" 
->>>  gi gakkul ;  gakkul2 ;  gakkul3  
  gakkul  [ MASH-TUB ]  𒄀𒌋𒁵;𒌋𒁵;𒌋𒁴  gi gakkul ;  gakkul2 ;  gakkul3  "mash-tub" Akk.  kakkullu ;  namzītu 
->>>  gal ;  gu-la ;  gu-ul ;  gal-gal ;  ku-ul  
  gal  [ BIG ]  𒃲;𒄖𒆷;𒄖𒌌;𒃲𒃲;𒆪𒌌  gal ;  gu-la ;  gu-ul ;  gal-gal ;  ku-ul  "(to be) big, great; (to be) retired, former; (to be) mature (of male animals)" Akk.  rabû 
->>>  gala ;  gala10  
  gala  [ SINGER ]  𒍑𒆪;𒇽𒁹  gala ;  gala10  "lamentation singer" Akk.  kalû 
->>>  gal4 -la ;  gal4  
  gala  [ VULVA ]  𒊩𒆷;𒊩  gal4 -la ;  gal4  "female genitals, vulva" Akk.  bişşūru 
->>>  galam  
  galam  [ SKILFUL ]  𒃴  galam  "(to be) skilful, elaborate, clever; to make artfully" Akk.  naklu 
->>>  ĝeš galam  
  galam  [ STAIRCASE ]  𒄑𒃴  ĝeš galam  "staircase, ladder" Akk.  simmiltu 
->>>  gala-mah  
  galamah  [ SINGER ]  𒍑𒆪𒈤  gala-mah  "chief lament singer" Akk.  galamahhu 
->>>  gal-zu ;  gal-an-zu  
  galanzu  [ WISE ]  𒃲𒍪;𒃲𒀭𒍪  gal-zu ;  gal-an-zu  "wise, knowing" Akk.  eršu ;  mūdû 
->>>  gala-tur ;  gala-tur-ra  
  galatura  [ PERFORMER ]  𒍑𒆪𒌉;𒍑𒆪𒌉𒊏  gala-tur ;  gala-tur-ra  "a cultic performer" 
->>>  gal-balaĝ  
  galbalaĝak  [ MUSICIAN ]  𒃲𒁆  gal-balaĝ  "musician, chief balang-player" 
->>>  gal-di  
  galdi  [ EXALTED ]  𒃲𒁲  gal-di  "exalted" Akk.  tizqāru 
->>>  galla ;  galla x (TE)  
  galla  [ POLICEMAN ]  𒋼𒇲;𒋼(𒋼)  galla ;  galla x (TE)  "policeman; a demon" Akk.  gallû 
->>>  galla-gal ;  gal5 -la-gal ;  galla x (TE)-gal ;  gallagal x (|GAL.TE.LAL|)  
  gallagal  [ POLICEMAN ]  𒋼𒇲𒃲;𒋼𒆷𒃲;𒋼(𒋼)𒃲;|GAL.TE.LAL|(𒃲𒋼𒇲)  galla-gal ;  gal5 -la-gal ;  galla x (TE)-gal ;  gallagal x (|GAL.TE.LAL|)  "chief policeman" 
->>>  gal-tab-bu-um  
  galtabum  [ SHEEP ]  𒃲𒋰𒁍𒌝  gal-tab-bu-um  "a sheep" 
->>>  gal-uĝ3  
  galuĝak  [ OFFICIAL ]  𒃲𒌦  gal-uĝ3  "an official" 
->>>  |GAL.URU×BAR|  
  GALURUBAR  [ INSTITUTION? ]  𒃲𒌺  |GAL.URU×BAR|  "an institution?" 
->>>  gal-zu-unken-na  
  galzu'unkenak  [ OFFICIAL ]  𒃲𒍪𒌺𒈾  gal-zu-unken-na  "an official title" 
->>>  ĝeš kab ;  ĝeš gam3 ;  ĝeš KIN  
  gam  [ CROOK ]  𒄑𒆏;𒄑𒉽𒈿;𒄑𒆥  ĝeš kab ;  ĝeš gam3 ;  ĝeš KIN  "shepherd's crook, bent stick; haft, hilt" Akk.  gamlu ;  šikru 
->>>  GAM  
  GAM  [ DEPTH ]  𒃵  GAM  "depth (math.)" Akk.  šuplu 
->>>  GAM  
  GAM  [ VULVA ]  𒃵  GAM  "vulva" Akk.  hurdatu 
->>>  ga-ma-am3 -tum  
  gamamtum  [ VEGETABLE ]  𒂵𒈠𒀀𒀭𒌈  ga-ma-am3 -tum  "a vegetable" 
->>>  gamar ku6 ;  ka-mar ku6 ;  ga-mar ku6  
  gamar  [ FISH ]  𒉌𒄩;𒅗𒈥𒄩;𒂵𒈥𒄩  gamar ku6 ;  ka-mar ku6 ;  ga-mar ku6  "a fish" Akk.  kamaru 
->>>  gamar-i-zi ku6 ;  gamar-i2 -zi ku6  
  gamarizi  [ FISH ]  𒉌𒐊𒍥𒄩;𒉌𒐊𒍥𒄩  gamar-i-zi ku6 ;  gamar-i2 -zi ku6  "a fish" 
->>>  gambi mušen ;  mušen gambi ;  ga-i mušen  
  gambi  [ CRANE ]  𒊩𒍑𒁲𒄷;𒄷𒊩𒍑𒁲;𒂵𒐊𒄷  gambi mušen ;  mušen gambi ;  ga-i mušen  "crane" 
->>>  gam3 -gam3 mušen ;  gam4 -gam mušen ;  gam2 -gam2 mušen ;  ka-am-ka-am mušen  
  gamgam  [ BIRD ]  𒉽𒈿𒉽𒈿𒄷;𒃶𒃵𒄷;𒄰𒄰𒄷;𒅗𒄠𒅗𒄠𒄷  gam3 -gam3 mušen ;  gam4 -gam mušen ;  gam2 -gam2 mušen ;  ka-am-ka-am mušen  "a bird" 
->>>  gam-gam ku6 ;  GAM+GAM ku6  
  gamgam  [ FISH ]  𒃵𒃵𒄩;𒃵𒃵𒄩  gam-gam ku6 ;  GAM+GAM ku6  "a fish" 
->>>  GAM-GAM  
  GAMGAM  [ ~AROMATICS ]  𒃵𒃵  GAM-GAM  "a designation of aromatics" 
->>>  ga-am3 -kur9  
  gamkur  [ INTRUDER ]  𒂵𒀀𒀭𒆭  ga-am3 -kur9  "intruder; new arrival" Akk.  errēbu 
->>>  gamun ;  u2 gamun sar ;  ga-mun ;  gamun2  
  gamun  [ CUMIN ]  𒁷𒌁;𒌑𒁷𒌁𒊬;𒂵𒁵;𒌁  gamun ;  u2 gamun sar ;  ga-mun ;  gamun2  "cumin" Akk.  kamûnu 
->>>  gan  
  gan  [ BEAR ]  𒃶  gan  "to bear young; child-bearing" Akk.  (w)alādu 
->>>  GAN2 .|HI×NUN|.ME.U  
  GAN.AH.ME.U  [ WIND ]  𒃷𒄴𒈨𒌋  GAN2 .|HI×NUN|.ME.U  "violent south wind" 
->>>  ga-na ;  gana  
  gana  [ COME ON! ]  𒂵𒈾;𒃷  ga-na ;  gana  "come on!" Akk.  gana 
->>>  gana2 ;  gan2 -ne2  
  gana  [ FIELD ]  𒃷;𒃷𒉌  gana2 ;  gan2 -ne2  "field; area (of a geometric figure)" Akk.  eqlu 
->>>  ĝeš gana2  
  gana  [ SHACKLES ]  𒄑𒃷  ĝeš gana2  "shackles" 
->>>  lu2 gana2 -gid2  
  ganagid  [ SURVEYOR ]  𒇽𒃷𒁍  lu2 gana2 -gid2  "field surveyor" Akk.  abi ašli ;  šētum ašlim 
->>>  gana2 -gur4 ;  gana2 -gur10 ;  gana2 -gur15  
  ganagur  [ PATH ]  𒃷𒆸;𒃷𒆥;𒃷𒌴  gana2 -gur4 ;  gana2 -gur10 ;  gana2 -gur15  "a path" Akk.  kanagurru 
->>>  ganam4 ;  ganam5  
  ganam  [ EWE ]  𒇇;𒇆  ganam4 ;  ganam5  "ewe" Akk.  immertu ;  lahru 
->>>  ga-nam  
  ganam  [ MOREOVER ]  𒂵𒉆  ga-nam  "moreover" Akk.  appūna 
->>>  gana2 -zi sar  
  ganazi  [ PLANT ]  𒃷𒍥𒊬  gana2 -zi sar  "a plant" Akk.  kanašû ;  kanašuttu 
->>>  ganba  
  ganba  [ PRICE ]  𒆠𒇴  ganba  "market price" Akk.  mahīru 
->>>  ga-an-bar  
  ganbar  [ SOLDIER ]  𒂵𒀭𒁇  ga-an-bar  "a soldier" Akk.  šabbiţu 
->>>  gan2 -da  
  ganda  [ LOCUS ]  𒃷𒁕  gan2 -da  "a cultic place" 
->>>  ga-an-du8  
  gandu  [ RESPONSIBILITY ]  𒂵𒀭𒂃  ga-an-du8  "a position of responsibility" Akk.  napţaru 
->>>  GAN.KU ;  ga-an-tuš  
  GANKU  [ WORKER ]  𒃶𒆪;𒂵𒀭𒆪  GAN.KU ;  ga-an-tuš  "a worker" 
->>>  gansis  
  gansis  [ DARKNESS ]  𒋯  gansis  "darkness" Akk.  ekletu ;  eţûtu 
->>>  gana2 -še sar ;  gana2 -še ;  gan2 -še sar  
  ganše  [ PLANT ]  𒃷𒊺𒊬;𒃷𒊺;𒃷𒊺𒊬  gana2 -še sar ;  gana2 -še ;  gan2 -še sar  "plant" 
->>>  ga-an-TIR  
  ganTIR  [ LIAR? ]  𒂵𒀭𒌁  ga-an-TIR  "a liar?" Akk.  sarāru 
->>>  ga-nu11 mušen  
  ganu  [ BIRD ]  𒂵𒉢𒄷  ga-nu11 mušen  "a bird, ostrich" 
->>>  gan ;  ga-an-nu ;  ĝeš gan-nu-um  
  ganum  [ STAND ]  𒃶;𒂵𒀭𒉡;𒄑𒃶𒉡𒌝  gan ;  ga-an-nu ;  ĝeš gan-nu-um  "(vessel-)stand; a large vessel" Akk.  kannu 
->>>  ganzer ;  ganzer3  
  ganzer  [ EARTH ]  𒅆𒆳𒍝;𒅆𒆳  ganzer ;  ganzer3  "earth, land; underworld, door to the underworld" Akk.  erşetu ;  kanisurru 
->>>  ga-an-ze-er ;  ga-an-ze2 -er ;  ganzer2  
  ganzer  [ FLAME ]  𒂵𒀭𒍣𒅕;𒂵𒀭𒍢𒅕;|NE.SI.A|  ga-an-ze-er ;  ga-an-ze2 -er ;  ganzer2  "flame" Akk.  nablu 
->>>  gar3  
  gar  [ CAKE ]  𒃼  gar3  "a cake or a baked product" 
->>>  kar ;  gar3  
  gar  [ HAIRSTYLE ]  𒋼𒀀;𒃼  kar ;  gar3  "a hairstyle" Akk.  abbuttu 
->>>  gar  
  gar  [ HEAP ]  𒃻  gar  "to heap up" Akk.  garānu 
->>>  gar3  
  gar  [ HEROIC ]  𒃼  gar3  "(to be) heroic" 
->>>  gar3  
  gar  [ KNOB ]  𒃼  gar3  "knob; a unit of measurement" Akk.  karru 
->>>  gar3  
  gar  [ ~BREAD ]  𒃼  gar3  "a designation of breads" 
->>>  ĝeš GAR  
  GAR  [ AN IMPLEMENT ]  𒄑𒃻  ĝeš GAR  "an implement" 
->>>  GAR  
  GAR  [ FORMER ]  𒃻  GAR  "former, retired" 
->>>  gara2 ;  ga-ar3 ;  ga-ar3 -ra ;  gar10 ;  gar11 ;  gar12 ;  gar9 ;  gar x (|GA.GA|)  
  gara  [ CREAM ]  𒂶;𒂵𒄯;𒂵𒄯𒊏;|GA.NI|;𒂵𒀀;𒂵𒁹;𒂵;|GA.GA|(𒂵𒂵)  gara2 ;  ga-ar3 ;  ga-ar3 -ra ;  gar10 ;  gar11 ;  gar12 ;  gar9 ;  gar x (|GA.GA|)  "cream" Akk.  garû ;  lišdu 
->>>  gar4  
  gara  [ DESERTED ]  𒄞  gar4  "(to be) deserted" Akk.  harbu 
->>>  garadin ;  garadin4  
  garadin  [ BUNDLE ]  𒌏;|&.LAGAB.LAGAB|  garadin ;  garadin4  "bundle (of reeds), stack of sheaves" Akk.  kiššu ;  kurullu 
->>>  ga-ra-an  
  garan  [ BUNCH ]  𒂵𒊏𒀭  ga-ra-an  "bunch (of fruit)" 
->>>  garaš2  
  garaš  [ CATASTROPHE ]  𒆠𒆘  garaš2  "catastrophe" 
->>>  ga-raš sar ;  garaš2 sar ;  garaš4 sar ;  garaš5 sar ;  garaš sar ;  ga  
  garaš  [ LEEK ]  𒂵𒊕𒊬;𒆠𒆘𒊬;𒆜𒂵𒊬;𒆠𒆗𒊬;𒆠𒆘𒊬;𒂵  ga-raš sar ;  garaš2 sar ;  garaš4 sar ;  garaš5 sar ;  garaš sar ;  ga  "leek" Akk.  karašu 
->>>  garaš2  
  garaš  [ MILITARY ]  𒆠𒆘  garaš2  "military camp" 
->>>  ga-raš-saĝ sar  
  garašsaĝ  [ LEEK ]  𒂵𒊕𒊕𒊬  ga-raš-saĝ sar  "leek" 
->>>  GAR-banda3 da  
  GARbanda  [ CONTAINER ]  𒃻𒌉𒁕  GAR-banda3 da  "type of container; a unit of measurement for oils and fats" 
->>>  gar3 -du  
  gardu  [ SOLDIER ]  𒃼𒁺  gar3 -du  "soldier" Akk.  qardu 
->>>  GAR.GABA.GABA ;  GAR.GABA  
  GARGABAGABA  [ PROFESSION ]  𒃻𒃮𒃮;𒃻𒃮  GAR.GABA.GABA ;  GAR.GABA  "a profession" 
->>>  gar-gar  
  gargar  [ ACCUMULATION ]  𒃻𒃻  gar-gar  "accumulation" 
->>>  gar3 -gar3  
  gargar  [ BREAD ]  𒃼𒃼  gar3 -gar3  "a bread or pastry" 
->>>  ĝeš ga-rig2  
  garig  [ COMB ]  𒄑𒂵𒍮  ĝeš ga-rig2  "comb" Akk.  mušţu 
->>>  ĝeš ga-rig2 -ak ;  ga-rig2 -ak  
  garigak  [ COMB ]  𒄑𒂵𒍮𒀝;𒂵𒍮𒀝  ĝeš ga-rig2 -ak ;  ga-rig2 -ak  "carding comb" 
->>>  GAR.NAGAR  
  GARNAGAR  [ PLANT ]  𒃻𒉄  GAR.NAGAR  "a plant" 
->>>  GAR.NE  
  GARNE  [ ~COW ]  𒃻𒉈  GAR.NE  "designation of cow" 
->>>  gar3 -ra-du-um ;  ga14 -ra-du-um  
  garradum  [ WARRIOR ]  𒃼𒊏𒁺𒌝;𒅗𒊏𒁺𒌝  gar3 -ra-du-um ;  ga14 -ra-du-um  "warrior" 
->>>  GAR.UD  
  GARUD  [ ~COW ]  𒃻𒌓  GAR.UD  "a qualification of cows" 
->>>  na4 ga-sur-ra  
  gasura  [ STONE ]  𒎎𒂵𒁍  ≈ 𒄮 SUR3𒊏  na4 ga-sur-ra  "a type of stone" 
->>>  gašam  
  gašam  [ REED ]  𒉣𒈨𒋳  gašam  "a reed" 
->>>  gašam  
  gašam  [ WISE ]  𒉣𒈨𒋳  gašam  "(to be) knowing, wise; sending, mission; work; craftsman, specialist" Akk.  mūdū ;  ummiānu ;  šipru 
->>>  ga-še-a ;  ga-še x (|IGI@g|)-a  
  gašea  [ ~DAIRY ]  𒂵𒊺𒀀;𒂵𒅊(𒅊)𒀀  ga-še-a ;  ga-še x (|IGI@g|)-a  "a dairy product" 
->>>  ga-til3  
  gatil  [ VOW ]  𒂵𒋾  ga-til3  "vow; an offering" 
->>>  ga-ur5  
  ga'ur  [ INHABITANT ]  𒂵𒄯  ga-ur5  "inhabitant" Akk.  aššābu 
->>>  gaz ;  gaz2 ;  kaz8  
  gaz  [ KILL ]  𒄤;𒄣;𒀪  gaz ;  gaz2 ;  kaz8  "to kill, slaughter; to grind, grate; to beat; to thresh (grain); to execute, impose a death sentence; to break" Akk.  dâku ;  habātu ;  hašālu ;  kaşāşu ;  pa'āşu ;  šagāšu 
->>>  ga-za-PI  
  gazaPI  [ FODDER ]  𒂵𒍝𒉿  ga-za-PI  "a type of fodder" 
->>>  gazi ;  gazi2  
  gazi  [ CONDIMENT ]  𒃢;𒃨  gazi ;  gazi2  "mustard seed or licorice" Akk.  kasû 
->>>  ga-zil2 -la ;  ga-zil2 -a  
  gazila  [ COLOSTRUM ]  𒂵𒋳𒆷;𒂵𒋳𒀀  ga-zil2 -la ;  ga-zil2 -a  "colostrum" 
->>>  na4 gazi-mu-su3 -ud  
  gazimusud  [ STONE ]  𒎎𒃢𒈬𒋤𒌓  na4 gazi-mu-su3 -ud  "type of stone" 
->>>  ga-zi-in-bu ;  gazinbu ;  gu4 -zi-in-bu ;  ga-šim-bu  
  gazinbu  [ POLE ]  𒂵𒍥𒅔𒁍;𒁍  𒂵𒍥𒅔𒁍 ga-zi-in-bu;𒄞𒍥𒅔𒁍;𒂵𒋆𒁍  ga-zi-in-bu ;  gazinbu ;  gu4 -zi-in-bu ;  ga-šim-bu  "a pole, post; stick, club" Akk.  gazamānu ;  gašīšu ;  nappaşu ;  timmu 
->>>  ga-ZUM  
  gaZUM  [ VESSEL ]  𒂵𒍮  ga-ZUM  "a vessel" 
->>>  ge14 ;  ge15 ;  ge3 ;  ge22 ;  ge23  
  ge  [ BLOW ]  𒌋;𒀸;𒁹;𒀺;𒀹  ge14 ;  ge15 ;  ge3 ;  ge22 ;  ge23  "blow; wound; stroke of the stylus; (piece of) writing, copy, exemplar, written" Akk.  mihiştu ;  mihiştu; šaţāru 
->>>  ge16  
  ge  [ SHAPE ]  𒄃  ge16  "a geometric shape; an architectural term?" Akk.  qaštu 
->>>  geme2 ;  gi4 -in  
  geme  [ WORKER ]  𒊩𒆳;𒄄𒅔  geme2 ;  gi4 -in  "female worker" Akk.  amtu 
->>>  genna  
  genna  [ CHILD ]  𒌉𒁹  genna  "(to be) small; (young) child" Akk.  şehru ;  šerru 
->>>  ge-eš-tu  
  geštu  [60 ]  𒄀𒌍𒌅  ge-eš-tu  "60" 
->>>  GEŠTUG2 .NISABA  
  GEŠTUGNISABA  [ WISDOM ]  |GIŠ.TUG₂.PI|.|ŠE.NAGA||ŠE.NAGA|.HA  GEŠTUG2 .NISABA  "wisdom" 
->>>  gi ;  šim gi  
  gi  [ ESSENCE ]  𒄀;𒋆𒄀  gi ;  šim gi  "an essence" 
->>>  gi ;  gi16  
  gi  [ JUDGMENT ]  𒄀;𒄃  gi ;  gi16  "judgment" Akk.  šipţu 
->>>  gi4  
  gi  [ KILL ]  𒄄  gi4  "kill" Akk.  dâku 
->>>  gi  
  gi  [ REED ]  𒄀  gi  "reed, cane; a unit of length" Akk.  qanû 
->>>  ĝeš gi  
  gi  [ THICKET ]  𒄑𒄀  ĝeš gi  "reed thicket" Akk.  ? 
->>>  gi4 ;  gi  
  gi  [ TURN ]  𒄄;𒄀  gi4 ;  gi  "to turn, return; to go around; to change status; to return (with claims in a legal case); to go back (on an agreement)" Akk.  lamû ;  târu 
->>>  gi-bar-bar-ra ;  gi-bar-bar-re  
  gibarbara  [ ARROW ]  𒄀𒁇𒁇𒊏;𒄀𒁇𒁇𒊑  gi-bar-bar-ra ;  gi-bar-bar-re  "a type of arrow" Akk.  qan selli 
->>>  gi gibil2 ;  gi gibil ;  gi gibil3 ;  ĝeš gibil2  
  gibil  [ FIREWOOD ]  𒄀𒋙𒀾;𒄀𒉋;𒄀𒆠𒉈;𒄑𒋙𒀾  gi gibil2 ;  gi gibil ;  gi gibil3 ;  ĝeš gibil2  "firewood tinder, taper, kindling" Akk.  gibillû ;  kibirru ;  makaddu ;  qilûtu 
->>>  gibil ;  gibil4  
  gibil  [ NEW ]  𒉋;𒉈  gibil ;  gibil4  "(to be) new" Akk.  edēšu 
->>>  ĝeš gibil  
  gibil  [ SPROUT ]  𒄑𒉋  ĝeš gibil  "sprout, offshoot" Akk.  pirʾu 
->>>  gi-bul5 -bul5  
  gibulbul  [ REED ]  𒄀𒇡𒇡  gi-bul5 -bul5  "a type of reed" 
->>>  gid2  
  gid  [ DRAG ]  𒁍  gid2  "to drag, tow (a boat upstream); to pass along, transfer; to flay?; to milk" Akk.  šadādu 
->>>  gid2  
  gid  [ LONG ]  𒁍  gid2  "(to be) long; to tighten; to survey, measure out a field" Akk.  arāku 
->>>  gid2 -da ;  ĝeš gid2 -da ;  urud gid2 -da  
  gida  [ SPEAR ]  𒁍𒁕;𒄑𒁍𒁕;U+1234F𒁍𒁕  gid2 -da ;  ĝeš gid2 -da ;  urud gid2 -da  "lance, spear" Akk.  ariktu ;  mašaddu 
->>>  gidešta  
  gidešta  [ LOAF ]  𒃻𒄕𒋡  gidešta  "a type of loaf; a sweetened cake" Akk.  kamānu 
->>>  gi-di  
  gidid  [ INSTRUMENT ]  𒄀𒁲  gi-di  "a musical instrument, reed flute" 
->>>  gidim  
  gidim  [ ANIMAL ]  𒄇  gidim  "an animal" 
->>>  gi2 -dim  
  gidim  [ FORK ]  𒆤𒁴  gi2 -dim  "hay fork" Akk.  titennu 
->>>  gidim ;  gidim2  
  gidim  [ GHOST ]  𒄇;𒈦𒌋  gidim ;  gidim2  "ghost" Akk.  eţemmu 
->>>  ĝeš gidim3 ;  gi-di4  
  gidim  [ IRRIGATOR ]  𒄑𒁍;𒄀𒌉  ĝeš gidim3 ;  gi-di4  "an irrigation device" Akk.  alallû 
->>>  gi-dirig  
  gidirig  [ BASKET ]  𒄀𒋛𒀀  gi-dirig  "a basket" 
->>>  gi-du3 ;  gi-du3 -a  
  gidua  [ FENCE ]  𒄀𒆕;𒄀𒆕𒀀  gi-du3 ;  gi-du3 -a  "reed fence" Akk.  kikkišu 
->>>  gi-dub  
  gidub  [ STYLUS ]  𒄀𒁾  gi-dub  "stylus" Akk.  qan ţuppi 
->>>  gi-dug3 -ga  
  giduga  [ FOODSTUFF ]  𒄀𒄭𒂵  gi-dug3 -ga  "a foodstuff" 
->>>  gig  
  gig  [ SICK ]  𒍼  gig  "(to be) sick; (to be) troublesome" Akk.  marāşu ;  marşu 
->>>  ĝeš gig  
  gig  [ TREE ]  𒄑𒍼  ĝeš gig  "a tree; a resin" Akk.  kanaktu 
->>>  gi-gag  
  gigag  [ REED ]  𒄀𒆕  gi-gag  "pointed reed" 
->>>  gigam  
  gigam  [ CONFLICT ]  𒈓  gigam  "conflict, war" Akk.  ippīru 
->>>  gi-gan  
  gigan  [ TWIG ]  𒄀𒃶  gi-gan  "twig" Akk.  huşabu 
->>>  giggi ;  gi6 -gi6  
  giggi  [ BLACK ]  𒈪;𒈪𒈪  giggi ;  gi6 -gi6  "(to be) black" Akk.  şalmu 
->>>  gig-ĝar  
  gigĝar  [ DISEASE ]  𒍼𒃻  gig-ĝar  "a disease" Akk.  mangu 
->>>  geš gi-gid2 ;  gi-gid2  
  gigid  [ REED ]  𒄑𒄀𒁍;𒄀𒁍  geš gi-gid2 ;  gi-gid2  "a reed or tree; an instrument; a composition" 
->>>  gi4 -gi4 -lum  
  gigilum  [ JEWELRY ]  𒄄𒄄𒈝  gi4 -gi4 -lum  "a piece of jewelry" 
->>>  gi-gir11 mušen ;  gi-gir x (|MUŠ×KUR|)  
  gigir  [ BIRD ]  𒄀𒆟𒄷;𒄀|MUŠ×KUR|(𒈴)  gi-gir11 mušen ;  gi-gir x (|MUŠ×KUR|)  "a bird" 
->>>  ĝeš gigir ;  ĝeš gigir2 ;  gigir x (|LAGAB×TIL|)  
  gigir  [ CHARIOT ]  𒄑𒇀;𒄑𒇥;|LAGAB×TIL|(𒆸·𒌀)  ĝeš gigir ;  ĝeš gigir2 ;  gigir x (|LAGAB×TIL|)  "chariot" Akk.  narkabtu 
->>>  ĝeš gigir-da-la2  
  gigirdala  [ MOON? ]  𒄑𒇀𒁕𒇲  ĝeš gigir-da-la2  "a phase of the moon?" 
->>>  GI.GIŠ.GIR3  
  GIGIŠGIR  [ UNMNG ]  𒄀𒄑𒄊  GI.GIŠ.GIR3  "?" Akk.  ? 
->>>  gig-peš  
  gigpeš  [ CARBUNCLE ]  𒍼𒉾  gig-peš  "carbuncle" Akk.  kurāru 
->>>  gir5 -gir5 ;  gigri2  
  gigri  [ DIVE ]  𒁽𒁽;𒁽𒁽  gir5 -gir5 ;  gigri2  "to dive" 
->>>  gi-gu3 -na ;  gi-gun4 -na ;  gi-gun4  
  giguna  [ TERRACE ]  𒄀𒅗𒈾;𒄀𒀕𒈾;𒄀𒀕  gi-gu3 -na ;  gi-gun4 -na ;  gi-gun4  "high sacred terrace" Akk.  gigunû 
->>>  gi-gur  
  gigur  [ CONTAINER ]  𒄀𒄥  gi-gur  "a measuring container" Akk.  gigurru ;  pānu 
->>>  gi-gur-da  
  gigurda  [ BASKET ]  𒄀𒄥𒁕  gi-gur-da  "a basket" Akk.  gigurdû ;  maššû 
->>>  gi-gur-DU  
  gigurDU  [ BASKET ]  𒄀𒄥𒁺  gi-gur-DU  "basket" 
->>>  gi-gur-DU  
  gigurDU  [ ~BASKET ]  𒄀𒄥𒁺  gi-gur-DU  "a basket" 
->>>  giguru3 ;  giguru  
  giguru  [ EDGE ]  |KA×ŠID|;𒌋  giguru3 ;  giguru  "edge, rim" Akk.  pātu 
->>>  giguru3  
  giguru  [ SWALLOW ]  |KA×ŠID|  giguru3  "to swallow" Akk.  alātu 
->>>  gig-zid2  
  gigzid  [ CROP ]  𒍼𒍥  gig-zid2  "a crop" 
->>>  giĝ4 ;  urud giĝ4  
  giĝ  [ AX ]  𒂆;U+1234F𒂆  giĝ4 ;  urud giĝ4  "ax, adze" Akk.  pāšu 
->>>  giĝ4  
  giĝ  [ UNIT ]  𒂆  giĝ4  "a unit of weight, shekel; a unit of area; a unit of volume" Akk.  šiqlu 
->>>  gi-ĝar  
  giĝar  [ FENCE ]  𒄀𒃻  gi-ĝar  "a fence" 
->>>  ĝeš giĝ4 -sal  
  giĝsal  [ HOE ]  𒄑𒂆𒊩  ĝeš giĝ4 -sal  "a hoe" Akk.  ahzu 
->>>  gin2 -tur  
  giĝtur  [ UNIT ]  𒂆𒌉  gin2 -tur  "a unit of area; a unit of volume; a unit of weight" 
->>>  gi-ha-an  
  gihan  [ BASKET ]  𒄀𒄩𒀭  gi-ha-an  "a basket for wool" Akk.  gihannu 
->>>  gi-izi-eš-ta ;  gi-ze-eš-ta  
  gi'izi'ešta  [ ~BREAD ]  𒄀𒉈𒌍𒋫;𒄀𒍣𒌍𒋫  gi-izi-eš-ta ;  gi-ze-eš-ta  "a designation of bread" 
->>>  gi-izi-la2  
  gi'izila  [ TORCH ]  𒄀𒉈𒇲  gi-izi-la2  "torch" Akk.  dipāru ;  gizillû 
->>>  gi-|KA×ŠE| ;  gi-|KA×ŠE|-ra  
  giKAŠE  [ CONTAINER ]  𒄀𒆁;𒄀𒆁𒊏  gi-|KA×ŠE| ;  gi-|KA×ŠE|-ra  "a container" 
->>>  gi-il  
  gil  [ HARNESS? ]  𒄀𒅋  gi-il  "to harness?" 
->>>  gil  
  gil  [ TREASURE ]  𒄃  gil  "treasure" 
->>>  GIL-ak  
  GILak  [ ARROW? ]  𒄃𒀝  GIL-ak  "arrow?" 
->>>  gi-il-gi-il  
  gilgil  [ HARNESS? ]  𒄀𒅋𒄀𒅋  gi-il-gi-il  "to harness?" 
->>>  ĝeš gilim  
  gilim  [ BARRIER ]  𒄑𒄃  ĝeš gilim  "barrier, bolt" Akk.  napraku 
->>>  gi gilim  
  gilim  [ CLASP ]  𒄀𒄃  gi gilim  "type of clasp" Akk.  hannāqu 
->>>  gilim ;  gilib x (|GI%GI|) ib ;  gi16 -il ;  gil-gil il  
  gilim  [ CROSS ]  𒄃;|GI%GI|.IB(𒄀?)𒅁;𒄃𒅋;𒄃𒄃𒅋  gilim ;  gilib x (|GI%GI|) ib ;  gi16 -il ;  gil-gil il  "to lie across; to be entwined; to entwine, twist; to block; (to be) difficult to understand" Akk.  egēru ;  parāku 
->>>  gi gilim ;  ĝeš gilim  
  gilim  [ FOLIAGE ]  𒄀𒄃;𒄑𒄃  gi gilim ;  ĝeš gilim  "foliage; forest" Akk.  gūru ;  halbu 
->>>  gilim2 ;  gir12  
  gilim  [ RODENT ]  𒉾;𒅔  gilim2 ;  gir12  "(wild) animals, moving things" Akk.  nammaštû 
->>>  gilim ;  kilib  
  gilim  [ ROPE ]  𒄃;𒆸  gilim ;  kilib  "rope of twined reeds" Akk.  kilimbu 
->>>  gil-sa ;  gi16 -gi16 -sa  
  gilsa  [ TREASURE ]  𒄃𒊓;𒄃𒄃𒊓  gil-sa ;  gi16 -gi16 -sa  "treasure" Akk.  šutukku 
->>>  gi-me-a-aš  
  gimea'aš  [ COLLEAGUE ]  𒄀𒈨𒀀𒀸  gi-me-a-aš  "colleague" 
->>>  gi-muš ;  ĝeš gi-muš  
  gimuš  [ POLE ]  𒄀𒈲;𒄑𒄀𒈲  gi-muš ;  ĝeš gi-muš  "a boat pole" Akk.  parīsu 
->>>  gin6 ;  gi-na ;  gi-in ;  ge-en ;  gin  
  gin  [ ESTABLISH ]  𒄀;𒄀𒈾;𒄀𒅔;𒄀𒂗;𒁺  gin6 ;  gi-na ;  gi-in ;  ge-en ;  gin  "(to be) permanent; to confirm, establish (in legal contexts), verify; (to be) true; a quality designation; medium quality" Akk.  kânu ;  kīnu 
->>>  gin4 ;  u2 |ZI&ZI| ;  u2 |A.ZI&ZI| ;  u2 |ZI&ZI.A| ;  u2 |ZI&ZI.EŠ2 .ŠE|  
  gin  [ GRASS ]  𒍤𒆸;𒌑𒍥𒍥;𒌑𒀀𒍥𒍥;𒌑𒍥𒍥𒀀;𒌑𒍥𒍥𒂠𒊺  gin4 ;  u2 |ZI&ZI| ;  u2 |A.ZI&ZI| ;  u2 |ZI&ZI.A| ;  u2 |ZI&ZI.EŠ2 .ŠE|  "a grass" Akk.  kuštu 
->>>  gin3  
  gin  [ MOUNTAIN ]  𒆳  gin3  "mountain(s)" Akk.  šadû 
->>>  gi-na  
  gina  [ OFFERING ]  𒄀𒈾  gi-na  "regular offering, dues" Akk.  ginû 
->>>  gi-na-tum  
  ginatum  [ GUARANTEE ]  𒄀𒈾𒌈  gi-na-tum  "guarantee" Akk.  tūnātu 
->>>  GI.NE  
  GINE  [ REED ]  𒄀𒉈  GI.NE  "a type of reed" Akk.  ? 
->>>  gi-nindan ;  gi-1(diš)-nindan  
  ginindan  [ ROD ]  𒄀𒃻;𒄀𒁹(𒑰)𒃻  gi-nindan ;  gi-1(diš)-nindan  "measuring rod" 
->>>  gir10  
  gir  [ ANGER ]  𒉈  gir10  "anger, rage" Akk.  uzzu 
->>>  gir ;  gir ku6  
  gir  [ FISH ]  𒄫;𒄫𒄩  gir ;  gir ku6  "a fish" Akk.  šahû 
->>>  gi gir  
  gir  [ GIFT ]  𒄀𒄫  gi gir  "dowry; gift" Akk.  šerku 
->>>  dug gir16 ;  gir9  
  gir  [ JAR ]  𒂁𒄌;𒀚  dug gir16 ;  gir9  "a large jar" Akk.  kirru 
->>>  gir4  
  gir  [ OVEN ]  𒌋𒀜  gir4  "oven, kiln" Akk.  kīru 
->>>  gir5 ;  gir7  
  gir  [ RUNNER ]  𒁽;𒁺  gir5 ;  gir7  "runner, trotter" Akk.  šānû 
->>>  gir5  
  gir  [ SLIP ]  𒁽  gir5  "to slip (in or through), glide" 
->>>  gir5  
  gir  [ STRANGER ]  𒁽  gir5  "stranger" Akk.  ubāru[foreigner] 
->>>  gir14  
  gir  [ UNMNG ]  𒄩  gir14  "?" 
->>>  gir11  
  gir  [ YOKE ]  𒆟  gir11  "to yoke, harness" Akk.  şamādu 
->>>  ĝeš GIR3  
  GIR  [ TREE ]  𒄑𒄊  ĝeš GIR3  "a type of tree" 
->>>  ĝeš GIR3 ;  ĝeš ANŠE  
  GIR  [ WEED ]  𒄑𒄊;𒄑𒀲  ĝeš GIR3 ;  ĝeš ANŠE  "a weed?" 
->>>  gira  
  gira  [ CONCEALMENT ]  𒌋𒈦𒆏  gira  "concealment; sky, heaven" Akk.  puzru ;  šamû 
->>>  giraba x (|AB.HA@g|)  
  giraba  [ FISH ]  |AB.HA@g|(𒀊𒄫)  giraba x (|AB.HA@g|)  "a fish" 
->>>  girah  
  girah  [ STUFF ]  |ŠU.DIM₂|  girah  "a raw material" 
->>>  ĝeš girah  
  girah  [ TOOL ]  𒄑|ŠU.DIM₂|  ĝeš girah  "a building tool, hammer?" Akk.  suppīn itinni 
->>>  gi-ra-num2  
  giranum  [ WAILING ]  𒄀𒊏𒈝  gi-ra-num2  "wailing, wailing ceremony" Akk.  gerrānu 
->>>  gir4 -bil  
  girbil  [ PROFESSION ]  𒌋𒀜𒉈  gir4 -bil  "a profession" 
->>>  gir-gid2  
  girgid  [ BIRD ]  𒄫𒁍  gir-gid2  "a bird" Akk.  ? 
->>>  gir-gid2 ku6  
  girgid  [ FISH ]  𒄫𒁍𒄩  gir-gid2 ku6  "a fish" Akk.  tappinnu 
->>>  giri16 -i-lu mušen ;  gur8 -gal mušen ? ;  gir-gi-lum mušen ;  gir-gi4 -lu mušen ;  ĝir3 -gi-lu mušen ;  kir4 -gi4 -lum mušen  
  girgilum  [ BIRD ]  𒄌𒐊𒇻𒄷;𒋽𒃲𒄷?;𒄫𒄀𒈝𒄷;𒄫𒄄𒇻𒄷;𒄊𒄀𒇻𒄷;𒅗𒄄𒈝𒄷  giri16 -i-lu mušen ;  gur8 -gal mušen ? ;  gir-gi-lum mušen ;  gir-gi4 -lu mušen ;  ĝir3 -gi-lu mušen ;  kir4 -gi4 -lum mušen  "a bird" Akk.  girgilu ;  şâku 
->>>  gir5 -gir5 ku6  
  girgir  [ FISH ]  𒁽𒁽𒄩  gir5 -gir5 ku6  "a fish" 
->>>  gir5 -gir5  
  girgir  [ RODENT ]  𒁽𒁽  gir5 -gir5  "rodent" 
->>>  GIR2 @g-GIR2 @g ;  GIR2 @g-bi ;  GIR2 @g ;  |GIR2 @g| mušen  
  GIRgunu  [ BIRD ]  𒄈?𒄈?;𒄈?𒁉;𒄈?;𒄈?𒄷  GIR2 @g-GIR2 @g ;  GIR2 @g-bi ;  GIR2 @g ;  |GIR2 @g| mušen  "a bird" 
->>>  giri16  
  giri  [ CRY ]  𒄌  giri16  "a cry" 
->>>  giri x (|GIŠ.LU2 |) ;  giri x (|GIŠ.ŠU.LU2 |)  
  giri  [ SEAT ]  |GIŠ.LU₂|(𒄑𒇽);|GIŠ.LU₂|(𒄑𒋗𒇽)  giri x (|GIŠ.LU2 |) ;  giri x (|GIŠ.ŠU.LU2 |)  "a seat" Akk.  nēmedu 
->>>  giri x (LU2 )  
  giri  [ UNMNG ]  |GIŠ.LU₂|(𒇽)  giri x (LU2 )  "" 
->>>  giri x (LAK85)-|KAxŠE|(LAK322) ku6  
  giri.LAK322  [ FISH ]  |GIŠ.LU₂|(¿)?𒊺(¿)𒄩  giri x (LAK85)-|KAxŠE|(LAK322) ku6  "a fish" 
->>>  girid2  
  girid  [ UNMNG ]  |GIR₃×GAN₂@t|  girid2  "?" 
->>>  girid2  
  girid  [ WAIL? ]  |GIR₃×GAN₂@t|  girid2  "to wail?" Akk.  ? 
->>>  giri16 -i-lu  
  giri'ilu  [ BIRD-CRY ]  𒄌𒐊𒇻  giri16 -i-lu  "the cry of the girigilu bird" 
->>>  giri16 -i-lu ;  giri16 -i-lim ;  giri16 -lu  
  giri'ilu  [ LAMENT ]  𒄌𒐊𒇻;𒄌𒐊𒅆;𒄌𒇻  giri16 -i-lu ;  giri16 -i-lim ;  giri16 -lu  "a lament" 
->>>  gi-rin ;  gi4 -rin ;  girim ;  ĝeš gi-rim  
  girim  [ FLOWER ]  𒄀𒆸;𒄄𒆸;𒆸;𒄑𒄀𒁽  gi-rin ;  gi4 -rin ;  girim ;  ĝeš gi-rim  "(to be) pure; (to be) clear; a fruit; a tree; a flower; olive" Akk.  ellu ;  girimmu ;  hulamīsu ;  illūru ;  serdu 
->>>  na4 gi-rim-hi-li-e  
  girimhiliba  [ STONE ]  𒎎𒄀𒁽𒄭𒇷𒂊  na4 gi-rim-hi-li-e  "a stone" 
->>>  gi-ri2 -in ;  gi-rin  
  girin  [ CARNELIAN ]  𒄀𒌷𒅔;𒄀𒆸  gi-ri2 -in ;  gi-rin  "carnelian" Akk.  samtu 
->>>  na4 gi-rin-hi-li-ba  
  girinhiliba  [ STONE ]  𒎎𒄀𒆸𒄭𒇷𒁀  na4 gi-rin-hi-li-ba  "type of stone" 
->>>  ĝeš gi-ri-num2  
  girinum  [ PLANT ]  𒄑𒄀𒊑𒈝  ĝeš gi-ri-num2  "a plant" Akk.  girinnu 
->>>  ĝeš gi-ri2 -num2  
  girinum  [ TREE ]  𒄑𒄀𒌷𒈝  ĝeš gi-ri2 -num2  "a tree" 
->>>  giriš  
  giriš  [ BUTTERFLY ]  |HI×ŠE|  giriš  "butterfly" Akk.  kurşiptu 
->>>  giriš-šita3 -na mušen ;  giriš-šita3 -na ;  gi-ri-iš-RA.AN  
  giriššitana  [ BIRD ]  |HI×ŠE|𒋥𒈾𒄷;|HI×ŠE|𒋥𒈾;𒄀𒊑𒅖𒊏𒀭  giriš-šita3 -na mušen ;  giriš-šita3 -na ;  gi-ri-iš-RA.AN  "a bird?" 
->>>  ĝeš gi-ri-zum  
  girizum  [ TREE ]  𒄑𒄀𒊑𒍮  ĝeš gi-ri-zum  "a tree" Akk.  girīşu 
->>>  gir4 -mah  
  girmah  [ KILN ]  𒌋𒀜𒈤  gir4 -mah  "kiln" Akk.  kirmahhu 
->>>  gir4 -še-sa  
  giršesa  [ OVEN ]  𒌋𒀜𒊺𒊓  gir4 -še-sa  "an oven for roasting barley" 
->>>  gir-šu ku6  
  giršu  [ FISH ]  𒄫𒋗𒄩  gir-šu ku6  "a fish" 
->>>  gi-ru  
  giru  [ DEAR ]  𒄀𒊒  gi-ru  "an affectionate epithet" 
->>>  GIR2 .U2  
  GIRU  [ FISH ]  𒄈𒌑  GIR2 .U2  "type of fish" 
->>>  GIR-um  
  GIRum  [ OBJECT ]  𒄫𒌝  GIR-um  "a metal item" Akk.  ? 
->>>  gi-ru-uš  
  giruš  [ REED ]  𒄀𒊒𒍑  gi-ru-uš  "a reed" 
->>>  gi-sab  
  gisab  [ BASKET ]  𒄀𒉺𒅁  gi-sab  "basket" Akk.  gisappu 
->>>  gi-sal  
  gisal  [ SCREEN ]  𒄀𒊩  gi-sal  "reed screen" Akk.  gisallû 
->>>  gi-sig ;  gi-sig7  
  gisig  [ FENCE ]  𒄀𒋝;𒄀𒅊  gi-sig ;  gi-sig7  "a reed fence" Akk.  kikkišu 
->>>  gi-su13 ;  gi-su3  
  gisu  [ INSTRUMENT ]  𒄀𒁍;𒄀𒋤  gi-su13 ;  gi-su3  "a musical instrument" Akk.  malīlu 
->>>  GIŠ.BIL2  
  GIŠBIL  [ FRUIT ]  𒄑𒉋  GIŠ.BIL2  "fresh fruit" 
->>>  GIŠ.E2 .MA2 ;  GIŠ.MA2  
  GIŠEMA  [ WEAPON ]  𒄑𒂍𒈣;𒄑𒈣  GIŠ.E2 .MA2 ;  GIŠ.MA2  "siege weapon" Akk.  mekû 
->>>  GIŠ.ERIN2  
  GIŠERIN  [ UNMNG ]  𒄑𒂟  GIŠ.ERIN2  "?" 
->>>  GIŠ.GABA  
  GIŠGABA  [ BREASTBONE ]  𒄑𒃮  GIŠ.GABA  "breastbone" 
->>>  GIŠ.ŠEŠ ku6  
  GIŠŠEŠ  [ FISH ]  𒄑𒋀𒄩  GIŠ.ŠEŠ ku6  "a type of fish" 
->>>  gi-šu-ak  
  gišuak  [ MAT ]  𒄀𒋗𒀝  gi-šu-ak  "a mat" 
->>>  gi-šukur  
  gišukur  [ ENCLOSURE ]  𒄀𒆕  gi-šukur  "an enclosure" 
->>>  gi-šul-hi  
  gišulhi  [ REED ]  𒄀𒂄𒄭  gi-šul-hi  "a reed" Akk.  qan šalālu 
->>>  gi4 -X  
  giX  [ BIRD ]  𒄄·  gi4 -X  "type of bird" 
->>>  gi-zi ku6  
  gizi  [ FISH ]  𒄀𒍥𒄩  gi-zi ku6  "a fish" 
->>>  gi-zi  
  gizi  [ REED ]  𒄀𒍥  gi-zi  "a reed" Akk.  kīsu 
->>>  gi-zu2 -lum-ma  
  gizulumma  [ NETTLE? ]  𒄀𒅗𒈝𒈠  gi-zu2 -lum-ma  "nettle?" 
->>>  gu2 mušen  
  gu  [ BIRD ]  𒄘𒄷  gu2 mušen  "a bird" 
->>>  gu  
  gu  [ CORD ]  𒄖  gu  "cord, net; unretted flax stalks" Akk.  qû 
->>>  gu7  
  gu  [ EAT ]  𒅥  gu7  "to eat, consume" Akk.  akālu 
->>>  gu2  
  gu  [ ENTIRETY ]  𒄘  gu2  "entirety, sum, total" Akk.  nagbu ;  napharu 
->>>  gu2  
  gu  [ FORCE ]  𒄘  gu2  "force" Akk.  emūqu 
->>>  gu2  
  gu  [ NECK ]  𒄘  gu2  "bank, side; neck" Akk.  ahu ;  kišādu ;  tikku 
->>>  gu2  
  gu  [ PULSE ]  𒄘  gu2  "pulse, bean" 
->>>  gu7  
  gu  [ SQUARE ]  𒅥  gu7  "to square (math.)" 
->>>  gu3  
  gu  [ VOICE ]  𒅗  gu3  "voice, cry, noise" Akk.  rigmu 
->>>  gu2  bar  
  gu bar  [ DISLIKE ]  𒄘𒁇  gu2  bar  "to dislike" Akk.  zêru 
->>>  gu3  de2  
  gu de  [ SAY ]  𒅗𒌤  gu3  de2  "to say (addressing someone),; to call; to read out" Akk.  ? ;  nabû ;  šasû 
->>>  gu2  du3  
  gu du  [ NEGLECT ]  𒄘𒆕  gu2  du3  "to neglect" Akk.  zêru 
->>>  gu3  dub2  
  gu dub  [ SHOUT ]  𒅗𒂀  gu3  dub2  "to shout" Akk.  nagāgu 
->>>  gu2  e3  
  gu e  [ COVERED WITH ]  𒄘𒌓𒁺  gu2  e3  "to be covered with" Akk.  halāpu 
->>>  gu3  e3  
  gu e  [ ROAR ]  𒅗𒌓𒁺  gu3  e3  "to roar" Akk.  ? 
->>>  gu2  gar ;  gu2  gar-gar  
  gu gar  [ PILE UP ]  𒄘𒃻;𒄘𒃻𒃻  gu2  gar ;  gu2  gar-gar  "to pile up" Akk.  gurrunu 
->>>  gu2  gid2  
  gu gid  [ LEAN ]  𒄘𒁍  gu2  gid2  "to lean, to bend; to lodge; to peer into" Akk.  šurru 
->>>  gu2  gid2  
  gu gid  [ ROB ]  𒄘𒁍  gu2  gid2  "to rob" Akk.  mašā'u 
->>>  gu2  gur  
  gu gur  [ PILE UP ]  𒄘𒄥  gu2  gur  "to pile up" Akk.  garānu 
->>>  gu2  ĝal2  
  gu ĝal  [ SUBMIT ]  𒄘𒅅  gu2  ĝal2  "to submit" Akk.  kanāšu 
->>>  gu2  ĝar ;  gu2  ĝa2 -ĝa2  
  gu ĝar  [ GATHER ]  𒄘𒃻;𒄘𒂷𒂷  gu2  ĝar ;  gu2  ĝa2 -ĝa2  "to gather" Akk.  puhhuru 
->>>  gu2  ĝar ;  gu2  ĝa2 -ĝa2  
  gu ĝar  [ SUBMIT ]  𒄘𒃻;𒄘𒂷𒂷  gu2  ĝar ;  gu2  ĝa2 -ĝa2  "to submit" Akk.  kanāšu 
->>>  gu2  ĝeš ĝal2  
  gu ĝeš ĝal  [ SUBMIT ]  𒄘𒄑𒅅  gu2  ĝeš ĝal2  "to submit" Akk.  kanāšu 
->>>  gu2  ĝeš ĝar ;  gu2  giš ga2 -ga2  
  gu ĝeš ĝar  [ SUBMIT ]  𒄘𒄑𒃻;𒄘𒄑𒂷𒂷  gu2  ĝeš ĝar ;  gu2  giš ga2 -ga2  "to submit" Akk.  kanāšu 
->>>  gu2  il2  
  gu il  [ RAISE ]  𒄘𒅍  gu2  il2  "to raise the head" Akk.  šaqû ša rēši 
->>>  gu3  kin ;  gu3  kin5  
  gu kin  [ GATHER ]  𒅗𒆥;𒅗𒌺  URU×BAR con… port "gather"  gu3  kin ;  gu3  kin5  "to gather" Akk.  pahāru 
->>>  gu2  la2  
  gu la  [ EMBRACE ]  𒄘𒇲  gu2  la2  "to embrace" Akk.  edēru 
->>>  gu2  la2  
  gu la  [ LEAN OVER ]  𒄘𒇲  gu2  la2  "to lean over" Akk.  šurru 
->>>  gu2  mar-mar ;  gu2  me-er-me-er  
  gu mer  [ THRIVE ]  𒄘𒈥𒈥;𒄘𒈨𒅕𒈨𒅕  gu2  mar-mar ;  gu2  me-er-me-er  "to grow abundantly, thrive" Akk.  hanābu 
->>>  gu3  mur  
  gu mur  [ BRAY ]  𒅗𒄯  gu3  mur  "to bray; to cry out" 
->>>  gu2  peš  
  gu peš  [ GROW ]  𒄘𒉾  gu2  peš  "to grow" Akk.  ? 
->>>  gu3  ra-ah ;  gu3  ra  
  gu rah  [ SHOUT ]  𒅗𒊏𒄴;𒅗𒊏  gu3  ra-ah ;  gu3  ra  "to shout" Akk.  šasû 
->>>  gu2  si  
  gu si  [ ASSEMBLE ]  𒄘𒋛  gu2  si  "to assemble" Akk.  pahāru 
->>>  gu3  sig10 ;  gu3  šeg10 ;  gu3  šeg11 ;  gu3  šeg5  
  gu sig  [ BELLOW ]  𒅗𒋧;𒅗𒆂;𒅗𒅝;𒅗𒍋  gu3  sig10 ;  gu3  šeg10 ;  gu3  šeg11 ;  gu3  šeg5  "to bellow" Akk.  ? 
->>>  gu2  šub  
  gu šub  [ NEGLECT ]  𒄘𒊒  gu2  šub  "to neglect; to scorn" Akk.  aham nadû 
->>>  gu3  šum2  
  gu šum  [ ECHO ]  𒅗𒋧  gu3  šum2  "to echo" Akk.  šagāmu 
->>>  gu2  us2  
  gu us  [ RAISE THE NECK ]  𒄘𒍑  gu2  us2  "'to raise the neck'" Akk.  našû ša rēši 
->>>  gu3  zig3  
  gu zig  [ CALL ]  𒅗𒍣  gu3  zig3  "to call" Akk.  ? 
->>>  gu2  zig3  
  gu zig  [ LIFT THE HEAD ]  𒄘𒍣  gu2  zig3  "'to lift the head'" Akk.  šaqû ša rēši 
->>>  guana  
  gu'ana  [ BATTLE ]  𒍚𒆜  guana  "battle" Akk.  qablu 
->>>  gu3 -an-ne2 -si  
  gu'anesi  [ THUNDER ]  𒅗𒀭𒉌𒋛  gu3 -an-ne2 -si  "thunder" 
->>>  gu2 -an-še3  
  gu'anše  [ TOTAL ]  𒄘𒀭𒂠  gu2 -an-še3  "total" 
->>>  gub2  
  gub  [ BATHE ]  𒇷  gub2  "to bathe, wash oneself; (to be) pure" Akk.  ramāku 
->>>  gub  
  gub  [ STAND ]  𒁺  gub  "to stand; (to be) assigned (to a task)" Akk.  izuzzu 
->>>  gub  
  gub  [ ~SHEEP ]  𒁺  gub  "a designation of sheep or goats" 
->>>  gu2 -ba  
  guba  [ ~WORKER ]  𒄘𒁀  gu2 -ba  "a classification of workers" 
->>>  gu2 -bal-ĝiš-du3 -a  
  gubalĝišdua  [ HUMP ]  𒄘𒁄𒄑𒆕𒀀  gu2 -bal-ĝiš-du3 -a  "hump" 
->>>  gu2 -bar  
  gubar  [ ENEMY ]  𒄘𒁇  gu2 -bar  "enemy" 
->>>  gu2 -bar  
  gubar  [ INGOT ]  𒄘𒁇  gu2 -bar  "metal ingot; a container; a unit of measurement" Akk.  gubāru ;  miriqtu 
->>>  gu2 -bar  
  gubar  [ NAPE ]  𒄘𒁇  gu2 -bar  "nape of the neck" 
->>>  gu2 -bi2 mušen ;  gu-bi2 -tum mušen ;  gu2 -bi mušen  
  gubi  [ BIRD ]  𒄘𒉈𒄷;𒄖𒉈𒌈𒄷;𒄘𒁉𒄷  gu2 -bi2 mušen ;  gu-bi2 -tum mušen ;  gu2 -bi mušen  "a bird" Akk.  kupītu 
->>>  gu2 -bi2 ku6  
  gubi  [ EEL? ]  𒄘𒉈𒄩  gu2 -bi2 ku6  "eel?" Akk.  kuppû 
->>>  gu2 -bi-gu2 -zag-ga  
  gubiguzaga  [ BIRD ]  𒄘𒁉𒄘𒍠𒂵  gu2 -bi-gu2 -zag-ga  "a bird" 
->>>  gu4 -ud ;  gud2  
  gud  [ JUMP ]  𒄞𒌓;𒊥  gu4 -ud ;  gud2  "to jump (on); to attack; to escape; to dance; hero, warrior" Akk.  qarrādu ;  šahāţu 
->>>  gud3 ;  gi gud3  
  gud  [ NEST ]  𒌑𒆠𒋧𒂵;𒄀𒌑𒆠𒋧𒂵  gud3 ;  gi gud3  "coil of bird's nest; reed nest, shelter; nest" Akk.  hīšu ;  kumāşu ;  qinnu 
->>>  gud ;  gu3 -ra  
  gud  [ OX ]  𒄞;𒅗𒊏  gud ;  gu3 -ra  "bull, ox; cattle; calf; lion" Akk.  alpu ;  lī'um 
->>>  gud3  us2  
  gud us  [ NEST ]  𒌑𒆠𒋧𒂵𒍑  gud3  us2  "to build a nest" Akk.  qinna qanānu 
->>>  guda2 -abzu  
  guda'abzu  [ PRIEST ]  |HI×NUN.ME|𒍪𒀊  guda2 -abzu  "a priest" Akk.  gudapsû 
->>>  gud-ab2 ;  gud-ab2 -ba  
  gudabak  [ BULL ]  𒄞𒀖;𒄞𒀖𒁀  gud-ab2 ;  gud-ab2 -ba  "bull" Akk.  mīru 
->>>  gud-alim  
  gudalim  [ BOVID ]  𒄞𒄋  gud-alim  "a bovid; ~ figurine" Akk.  alimbû 
->>>  gud-am  
  gudam  [ BULL ]  𒄞𒄠  gud-am  "wild bull" Akk.  rīmu 
->>>  gud-amar-ga  
  gudamarga  [ CALF ]  𒄞𒀫𒂵  gud-amar-ga  "bull-calf" 
->>>  gud-apin  
  gudapin  [ OX ]  𒄞𒀳  gud-apin  "plow ox" 
->>>  gud-apin  
  gudapin  [ TEAM ]  𒄞𒀳  gud-apin  "plow team" 
->>>  gud-da-ri-a  
  gudaria   [ DROVER ]  𒄞𒁕𒊑𒀀  gud-da-ri-a  "drover" 
->>>  gud-dab5 -ba  
  guddaba  [ PROFESSION ]  𒄞𒆪𒁀  gud-dab5 -ba  "a profession" 
->>>  gud-du7 mušen ;  gud-te mušen ;  gud-da mušen  
  guddu  [ BIRD ]  𒄞𒌌𒄷;𒄞𒋼𒄷;𒄞𒁕𒄷  gud-du7 mušen ;  gud-te mušen ;  gud-da mušen  "a bird?" 
->>>  gu3 -de2  
  gude  [ LUTE ]  𒅗𒌤  gu3 -de2  "lute" 
->>>  gud-de3 -a-na-an-DU  
  gudeanandu  [ ANIMAL ]  𒄞𒉈𒀀𒈾𒀭𒁺  gud-de3 -a-na-an-DU  "low quality animal" 
->>>  gud-eĝir  
  gudeĝir  [ OX ]  𒄞𒂕  gud-eĝir  "rear ox of a plow team" 
->>>  gud-e-us2 -sa  
  gude'usa  [ DROVER ]  𒄞𒂊𒍑𒊓  gud-e-us2 -sa  "drover, ox-driver" 
->>>  gud-gaz  
  gudgaz  [ BUTCHER ]  𒄞𒄤  gud-gaz  "butcher" Akk.  tābihu 
->>>  gud-ĝeš  
  gudĝeš  [ OX ]  𒄞𒄑  gud-ĝeš  "a draught ox" 
->>>  gud-i3  
  gud'i  [ FAT BULL ]  𒄞𒉌  gud-i3  "fat bull" 
->>>  gu-dim4 -ba-gada  
  gudimbagada  [ LINEN ]  𒄖𒉽𒉽𒁀𒃰  gu-dim4 -ba-gada  "a type of linen" 
->>>  gu2 -dirig  
  gudirig  [ TOTAL ]  𒄘𒋛𒀀  gu2 -dirig  "total" 
->>>  gud-KU  
  gudKUr  [ PROFESSION ]  𒄞𒆪  gud-KU  "a profession" 
->>>  gud-numun  
  gudnumun  [ OX ]  𒄞𒆰  gud-numun  "an ox" 
->>>  gud-rah2  
  gudrah  [ DROVER ]  𒄞𒊏  gud-rah2  "drover, ox-driver" 
->>>  gud-sumun2  
  gudsumun  [ COW ]  𒄞𒄢  gud-sumun2  "wild cow" 
->>>  gu-du  
  gudu  [ BUTTOCKS ]  𒄖𒁺  gu-du  "buttocks" 
->>>  gu-du  
  gudu  [ CORD ]  𒄖𒁺  gu-du  "a type of cord" 
->>>  gudug ;  gudu x (|HI×NUN|)  
  gudug  [ PRIEST ]  𒄴𒈨;|HI×NUN|(𒄴)  gudug ;  gudu x (|HI×NUN|)  "a priest" Akk.  pašīšu 
->>>  gud-ur3 -ra  
  gudura  [ OX ]  𒄞𒃡𒊏  gud-ur3 -ra  "rear ox of a plow team" 
->>>  gud-us2  
  gudus  [ COWHERD ]  𒄞𒍑  gud-us2  "cowherd" 
->>>  tug2 gu2 -e3  
  gu'e  [ TEXTILE ]  𒌆𒄘𒌓𒁺  tug2 gu2 -e3  "a textile" 
->>>  gu2 -e  
  gu'e  [ THIS SIDE ]  𒄘𒂊  gu2 -e  "this side" Akk.  annânum 
->>>  gu2 -e-a  
  gu'e'a  [ LATER ]  𒄘𒂊𒀀  gu2 -e-a  "later" Akk.  ullîš 
->>>  gu2 -e3 -gu2 -e3  
  gu'egu'e  [ FATTY? ]  𒄘𒌓𒁺𒄘𒌓𒁺  gu2 -e3 -gu2 -e3  "fatty?" 
->>>  gu2 -en  
  gu'en  [ ENTIRETY ]  𒄘𒂗  gu2 -en  "entirety" 
->>>  gu2 -en  
  gu'en  [ THRONE ROOM ]  𒄘𒂗  gu2 -en  "assembly room, throne room" 
->>>  gu2 -en-na  
  gu'ena  [ SILT ]  𒄘𒂗𒈾  gu2 -en-na  "river sediment, silt" Akk.  qadūtu 
->>>  gu2 -en-na  
  gu'enak  [ ASSEMBLY ]  𒄘𒂗𒈾  gu2 -en-na  "assembly of the lords" Akk.  naphur ili 
->>>  gu2 -en-na  
  gu'enak  [ OFFICIAL ]  𒄘𒂗𒈾  gu2 -en-na  "an official" Akk.  guennakku 
->>>  gu2 -erim2  
  gu'erim  [ HOSTILE ]  𒄘𒉈𒊒  gu2 -erim2  "hostile, enemy" Akk.  ayyabu 
->>>  gu2 -erim2 -ĝal2  
  gu'erimĝal  [ HOSTILE ]  𒄘𒉈𒊒𒅅  gu2 -erim2 -ĝal2  "hostile, enemy" Akk.  ? 
->>>  gug  
  gug  [ BRIGHT ]  𒍝𒄢  gug  "(to be) bright" 
->>>  gug2  
  gug  [ CAKE ]  𒈖  gug2  "offering; cake" Akk.  kukku ;  niqû 
->>>  na4 gug  
  gug  [ CARNELIAN ]  𒎎𒍝𒄢  na4 gug  "carnelian" Akk.  sāmtu 
->>>  gug5  
  gug  [ ENMITY ]  𒈙  gug5  "enmity, hostility" Akk.  nukurtu 
->>>  u2 gug4 ;  gug4 ;  gug ;  u2 |ZI&ZI| ;  u2 |A.ZI&ZI| ;  u2 |ZI&ZI.A| ;  u2 |ZI&ZI.EŠ2 .ŠE|  
  gug  [ GRASS ]  𒌑𒍤𒆸;𒍤𒆸;𒍝𒄢;𒌑𒍥𒍥;𒌑𒀀𒍥𒍥;𒌑𒍥𒍥𒀀;𒌑𒍥𒍥𒂠𒊺  u2 gug4 ;  gug4 ;  gug ;  u2 |ZI&ZI| ;  u2 |A.ZI&ZI| ;  u2 |ZI&ZI.A| ;  u2 |ZI&ZI.EŠ2 .ŠE|  "a grass; rush, sedge" Akk.  šišnu ;  šuppatu 
->>>  gug  
  gug  [ MOLE ]  𒍝𒄢  gug  "mole, black spot; birthmark" Akk.  halû ;  pendu 
->>>  gug6  
  gug  [ SEAL ]  𒊕𒆕  gug6  "to seal" Akk.  kanāku 
->>>  gug6  
  gug  [ STICK ]  𒊕𒆕  gug6  "stick; weapon" Akk.  kakku 
->>>  gug ;  gug6  
  gug  [ TOOTH ]  𒍝𒄢;𒊕𒆕  gug ;  gug6  "tooth; blade; beak; dogbite" Akk.  nišik kalbi ;  šinnu 
->>>  gug6 (|KA.KAK|)-SAR  
  gug.SAR  [ DOG BITE ]  𒊕𒆕(𒅗𒆕)𒊬  gug6 (|KA.KAK|)-SAR  "dog bite" 
->>>  gu2 -gal ;  gu2 -kal  
  gugal  [ FOREMOST ]  𒄘𒃲;𒄘𒆗  gu2 -gal ;  gu2 -kal  "foremost" 
->>>  ku3 -gal2 ;  gu2 -gal ;  ku6 -gal2  
  gugal  [ INSPECTOR ]  𒆬𒅅;𒄘𒃲;𒄩𒅅  ku3 -gal2 ;  gu2 -gal ;  ku6 -gal2  "canal inspector" Akk.  gugallu 
->>>  gu2 -gal-la  
  gugala  [ CHICKPEA? ]  𒄘𒃲𒆷  gu2 -gal-la  "chickpea?" 
->>>  gu-gal-gal  
  gugalgal  [ BEAN ]  𒄖𒃲𒃲  gu-gal-gal  "a bean" 
->>>  na4 gug-gazi  
  guggazi  [ STONE ]  𒎎𒍝𒄢𒃢  na4 gug-gazi  "type of stone" 
->>>  na4 gug-ĝeš-dili  
  gugĝešdili  [ BEADS ]  𒎎𒍝𒄢𒄑𒀸  na4 gug-ĝeš-dili  "string of carnelian beads" 
->>>  gu-gir  
  gugir  [ BEAN ]  𒄖𒄫  gu-gir  "a bean" 
->>>  gug-kal  
  gugkal  [ FAMINE ]  𒍝𒄢𒆗  gug-kal  "famine" 
->>>  gu2 -gur-gur  
  gugurgur  [ UNMNG ]  𒄘𒄥𒄥  gu2 -gur-gur  "" 
->>>  gu2  guru5 ;  gu2 -guru5 -gu2 ;  |URU×GU| gu2 ;  gu2 -gur5 -ru ;  guru5 -guru5 ;  gu2 |URU×GU| gu2  
  guguru  [ TRIM ]  𒄘𒍀;𒄘𒍀𒄘;𒍀𒄘;𒄘𒍀𒊒;𒍀𒍀;𒄘𒍀𒄘  gu2  guru5 ;  gu2 -guru5 -gu2 ;  |URU×GU| gu2 ;  gu2 -gur5 -ru ;  guru5 -guru5 ;  gu2 |URU×GU| gu2  "to trim down" Akk.  kapāru 
->>>  gu2 -gur5 -ru dug4 ;  gu2 -gur5  dug4 ;  gu2 -gur5 -ru-uš dug4  
  guguru dug  [ TRIM ]  𒄘𒍀𒊒𒅗;𒄘𒍀𒅗;𒄘𒍀𒊒𒍑𒅗  gu2 -gur5 -ru dug4 ;  gu2 -gur5  dug4 ;  gu2 -gur5 -ru-uš dug4  "to trim down" Akk.  kapāru 
->>>  gu-gu-tum  
  gugutum  [ PLANT ]  𒄖𒄖𒌈  gu-gu-tum  "a plant" Akk.  gugutum 
->>>  gu2 -ĝiri3 ;  gu2 -ĝiri16  
  guĝiri  [ BREACH ]  𒄘𒄊;𒄘𒄌  gu2 -ĝiri3 ;  gu2 -ĝiri16  "breach" Akk.  pilšu 
->>>  gu2 -haš  
  guhaš  [ NAPE ]  𒄘𒋻  gu2 -haš  "nape of the neck" 
->>>  gu2 -haš-la2  
  guhašla  [ BARBER ]  𒄘𒋻𒇲  gu2 -haš-la2  "barber" 
->>>  guhšu ;  guhšu2  
  guhšu  [ ALTAR ]  𒈞𒋙;|LUM&LUM.ŠU₂|  guhšu ;  guhšu2  "a reed altar; (a part of) a container" Akk.  guhšû ;  šubat diqāri 
->>>  gu3 -i3 -ra  
  gu'ira  [ PLANT ]  𒅗𒉌𒊏  gu3 -i3 -ra  "a plant" 
->>>  gi-keš2 mušen ;  gu3 -keš2 mušen  
  gukešed  [ BIRD ]  𒄀𒆟𒄷;𒅗𒆟𒄷  gi-keš2 mušen ;  gu3 -keš2 mušen  "a bird" 
->>>  gu2 -kiĝ2 ;  gukin ;  gukin2 ;  gu3 -kin ;  gu3 -kin5  
  gukin  [ TOTALITY ]  𒄘𒆥;𒇐;𒄳;𒅗𒆥;𒅗𒌺  URU×BAR con… port "gather"  gu2 -kiĝ2 ;  gukin ;  gukin2 ;  gu3 -kin ;  gu3 -kin5  "villages, settlements; the inhabited world; totality, world" Akk.  dadmū ;  kiššatu 
->>>  gu3 - ĝeš kiri6 ;  gu3 -kiri6  
  gukiri  [ CRY ]  𒅗𒄑𒊬;𒅗𒊬  gu3 - ĝeš kiri6 ;  gu3 -kiri6  "battle cry" Akk.  ikkillu 
->>>  gukkal  
  gukkal  [ SHEEP ]  𒄾   🐑,🥒,😁  gukkal  "fat-tailed sheep" Akk.  gukkallu 
->>>  udu gukkal-ib2 -la2  
  gukkalibla  [ SHEEP ]  𒇻𒄾   🐑,🥒,😁𒌈𒇲  udu gukkal-ib2 -la2  "long-and-fat-tailed sheep" 
->>>  gul ;  gu-ul  
  gul  [ DESTROY ]  𒄢;𒄖𒌌  gul ;  gu-ul  "to destroy; to break; to flatten; to carve, cut; to engrave" Akk.  abātu ;  hepû ;  naqāru ;  sapānu 
->>>  ĝeš GUL  
  GUL  [ ~CHARIOT ]  𒄑𒄢  ĝeš GUL  "a designation of chariots" Akk.  halmadru 
->>>  gu-la2  
  gula  [ DISEASE ]  𒄖𒇲  gu-la2  "a disease" 
->>>  gu-la2  
  gula  [ SHEAF ]  𒄖𒇲  gu-la2  "sheaf of reeds" 
->>>  na4 gul-gul  
  gulgul  [ STONE ]  𒎎𒄢𒄢  na4 gul-gul  "a stone" 
->>>  gu5 -li ;  gu-li ;  gu7 -li  
  guli  [ FRIEND ]  𒆪𒇷;𒄖𒇷;𒅥𒇷  gu5 -li ;  gu-li ;  gu7 -li  "friend, comrade" Akk.  ibru 
->>>  gul-lum  
  gullum  [ CAT ]  𒄢𒈝  gul-lum  "cat" Akk.  šurānu 
->>>  gum ;  gum2  
  gum  [ CRUSH ]  𒄣;𒈝  gum ;  gum2  "to crush" 
->>>  gum2  
  gum  [ LAME ]  𒈝  gum2  "(to be) lame" Akk.  hunzû ;  hutenzû ;  huzzû 
->>>  gan ;  gum2  
  gum  [ MANGE ]  𒃶;𒈝  gan ;  gum2  "mange, scab, leprosy" Akk.  garābu ;  epqēnu 
->>>  gum2 -gum2  
  gum  [ NEGLECT ]  𒈝𒈝  gum2 -gum2  "neglect" 
->>>  gu2 -me-ze2  
  gumeze  [ BEER ]  𒄘𒈨𒍢  gu2 -me-ze2  "a type of beer" Akk.  haninu 
->>>  gum2 -ga-am3  
  gumgam  [ SOUND ]  𒈝𒂵𒀀𒀭  gum2 -ga-am3  "a sound (onomatopoeic)" 
->>>  gum2 -ga-am3  za ;  gum2 -ga za ;  gu2 -uĝ3 -gu2 -uĝ3 -ĝa2  za ;  gu2 -uĝ3 -gu2 -uĝ3  za ;  gum2 -gum2  za ;  gum2 -gum2 -am3  za  
  gumgam za  [ SOUND ]  𒈝𒂵𒀀𒀭𒍝;𒈝𒂵𒍝;𒄘𒌦𒄘𒌦𒂷𒍝;𒄘𒌦𒄘𒌦𒍝;𒈝𒈝𒍝;𒈝𒈝𒀀𒀭𒍝  gum2 -ga-am3  za ;  gum2 -ga za ;  gu2 -uĝ3 -gu2 -uĝ3 -ĝa2  za ;  gu2 -uĝ3 -gu2 -uĝ3  za ;  gum2 -gum2  za ;  gum2 -gum2 -am3  za  "to make noise" 
->>>  gu2 -mur7  
  gumur  [ SPINE ]  𒄘𒈱  gu2 -mur7  "spine" 
->>>  gu-mur  
  gumur  [ WINDPIPE ]  𒄖𒄯  gu-mur  "windpipe" 
->>>  gu2 -MUR  
  guMUR  [ THROAT ]  𒄘𒄯  gu2 -MUR  "throat" Akk.  urʾudu 
->>>  gu3 -mur-ak  
  gumurak  [ HEROIC ]  𒅗𒄯𒀝  gu3 -mur-ak  "(to be) heroic" 
->>>  gun2 ;  gu2 -un  
  gun  [ LOAD ]  𒄘;𒄘𒌦  gun2 ;  gu2 -un  "load; yield; rent, tax, tribute; a unit of weight" Akk.  biltu 
->>>  al-gu2 -gu2  
  gun  [ TWIST ]  𒀠𒄘𒄘  al-gu2 -gu2  "to twist" 
->>>  gu2 -NE ;  im gu2 -NE  
  guNE  [ PLACE ]  𒄘𒉈;𒅎𒄘𒉈  gu2 -NE ;  im gu2 -NE  "a place; cult centre?; oven?" 
->>>  gu2 -ne-saĝ-ĝa2  
  gunesaĝa  [ CUPBOARD ]  𒄘𒉈𒊕𒂷  gu2 -ne-saĝ-ĝa2  "cupboard" Akk.  ? 
->>>  gu2 -NE-saĝ-ĝa2  
  guNEsaĝa  [ CONTAINER ]  𒄘𒉈𒊕𒂷  gu2 -NE-saĝ-ĝa2  "a cupboard or chest for drinking utensils" 
->>>  gu2 -NE-saĝ-ĝa2 ;  lu2 gu2 -NE-saĝ-ĝa2  
  guNEsaĝak  [ OFFICIAL ]  𒄘𒉈𒊕𒂷;𒇽𒄘𒉈𒊕𒂷  gu2 -NE-saĝ-ĝa2 ;  lu2 gu2 -NE-saĝ-ĝa2  "an official" 
->>>  gu2 -un-gu2 -gu2 ;  gu2 -un-gu2 -un  
  gungugu  [ NOISE ]  𒄘𒌦𒄘𒄘;𒄘𒌦𒄘𒌦  gu2 -un-gu2 -gu2 ;  gu2 -un-gu2 -un  "an animal noise" 
->>>  gu2 -nida ;  ziz2 gu2-nida ;  ziz2 nida  
  gunida  [ GRAIN ]  𒄘𒄘𒉭;𒍩𒄘𒄘𒉭;𒍩𒄘𒉭  gu2 -nida ;  ziz2 gu2-nida ;  ziz2 nida  "hulled grain" Akk.  ? 
->>>  gu2 -niĝ2 -ar3 -ra  
  guniĝara  [ VETCH ]  𒄘𒃻𒄯𒊏  gu2 -niĝ2 -ar3 -ra  "vetch; lentil?" 
->>>  gu-niĝin2  
  guniĝin  [ BALE ]  𒄖𒆸  gu-niĝin2  "bale" 
->>>  gunni  
  gunni  [ BRAZIER ]  𒆠𒉈  gunni  "brazier" Akk.  kinûnu 
->>>  gunu x (|SI@g|)  
  gunu  [ DWELLING ]  𒁯(𒁯)  gunu x (|SI@g|)  "dwelling" Akk.  šubtu 
->>>  gu-nu  
  gunu  [ FLAX ]  𒄖𒉡  gu-nu  "flax" Akk.  qû 
->>>  gun3 ;  gu2 -un-gu2 ;  gu2 -nu ;  gun5  
  gunu  [ SPECKLED ]  𒁯;𒄘𒌦𒄘;𒄘𒉡;𒈝  gun3 ;  gu2 -un-gu2 ;  gu2 -nu ;  gun5  "(to be) speckled, multicolored; (to be) hatched (in sign names); to anoint, smear on, apply makeup" Akk.  barmu ;  eqû 
->>>  gur2  
  gur  [ CIRCLE ]  𒃵  gur2  "loop, hoop, circle" Akk.  kippatu ;  šumutu 
->>>  gur3 -ru ;  guru3 ;  gur ;  gur17 ;  guru6  
  gur  [ LIFT ]  𒅍𒊒;𒅍;𒄥;𒄕;𒃸  gur3 -ru ;  guru3 ;  gur ;  gur17 ;  guru6  "bearer; to lift, carry" Akk.  našû ;  nāšû 
->>>  gur x (|ŠE.KIN|) ;  gur10 ;  gur x (|ŠE.KIN.KIN|)  
  gur  [ REAP ]  |ŠE.KIN|(𒊺𒆥);𒆥;|ŠE.KIN|(𒊺𒆥𒆥)  gur x (|ŠE.KIN|) ;  gur10 ;  gur x (|ŠE.KIN.KIN|)  "to reap" Akk.  eşēdu 
->>>  ĝeš gur2  
  gur  [ RIM ]  𒄑𒃵  ĝeš gur2  "(circular) rim" Akk.  kippatu 
->>>  gur21 ;  kuš buru4 mušen ;  e ur2  
  gur  [ SHIELD ]  |E.TUM|;𒋢𒉢𒁓𒄷;𒂊𒌫  gur21 ;  kuš buru4 mušen ;  e ur2  "shield" 
->>>  gur4 ;  gur14 ;  gur13  
  gur  [ THICK ]  𒆸;𒅗;𒉌  gur4 ;  gur14 ;  gur13  "(to be) thick; (to be) big, to feel big" Akk.  ebû ;  rabû ;  kabru 
->>>  ĝeš gur8  
  gur  [ TOOL ]  𒄑𒋽  ĝeš gur8  "a tool" 
->>>  gur  
  gur  [ TURN ]  𒄥  gur  "to reject (legal evidence), to turn away; to turn, return" Akk.  sahāru ;  târu 
->>>  gur ;  gur9  
  gur  [ UNIT ]  𒄥;NINDA₂  gur ;  gur9  "unit of capacity; a measuring vessel" Akk.  kurru ;  namandu 
->>>  gur8  
  gur  [ UNMNG ]  𒋽  gur8  "?" Akk.  ? 
->>>  gur8  
  gur  [ ~ANIMAL ]  𒋽  gur8  "a designation of animals" 
->>>  gurdub ;  gi gur-dub ;  gurdub2 ;  gur-dub  
  gurdub  [ BASKET ]  |GA₂×GI|;𒄀𒄥𒁾;|GA₂×GI₄|;𒄥𒁾  gurdub ;  gi gur-dub ;  gurdub2 ;  gur-dub  "a basket" Akk.  gurduppum 
->>>  gu2 -re  
  gure  [ THAT SIDE ]  𒄘𒊑  gu2 -re  "that side" 
->>>  gu2 -re-eš ;  gu2 -re-eš-a  
  gureš  [ YONDER ]  𒄘𒊑𒌍;𒄘𒊑𒌍𒀀  gu2 -re-eš ;  gu2 -re-eš-a  "yonder" Akk.  ullîš 
->>>  gur8 -gal mušen  
  gurgal  [ BIRD ]  𒋽𒃲𒄷  gur8 -gal mušen  "a bird" 
->>>  gur-gur mušen ;  gur4 -gur4 mušen  
  gurgur  [ BIRD ]  𒄥𒄥𒄷;𒆸𒆸𒄷  gur-gur mušen ;  gur4 -gur4 mušen  "a bird" Akk.  kurkurru 
->>>  gur4 -gur4 ku6  
  gurgur  [ FISH ]  𒆸𒆸𒄩  gur4 -gur4 ku6  "a fish" 
->>>  gur4 -gur4 ;  dug gur4 -gur4 ;  dug gur8 -gur8 ;  gur8 -gur8  
  gurgur  [ VESSEL ]  𒆸𒆸;𒂁𒆸𒆸;𒂁𒋽𒋽;𒋽𒋽  gur4 -gur4 ;  dug gur4 -gur4 ;  dug gur8 -gur8 ;  gur8 -gur8  "a vessel; a unit of liquid capacity" Akk.  gugguru ;  kurkurratu 
->>>  gur8 -gur8  
  gurgur  [ ~ANIMAL ]  𒋽𒋽  gur8 -gur8  "a designation of animals" 
->>>  gur4 -gur4  
  gurgur  [ ~SHEEP ]  𒆸𒆸  gur4 -gur4  "a designation of sheep" Akk.  kurkurrānu 
->>>  gu3 -ri-a  
  guria  [ CRY ]  𒅗𒊑𒀀  gu3 -ri-a  "cry" 
->>>  gu2 -rin5 -na ku6  
  gurina  [ ~FISH ]  𒄘𒈕𒈾𒄩  gu2 -rin5 -na ku6  "a fish product" 
->>>  gur-in-nu-da mušen  
  gurinnuda  [ BIRD ]  𒄥𒅔𒉡𒁕𒄷  gur-in-nu-da mušen  "a bird" Akk.  kur tibni 
->>>  gur-lugal  
  gurlugal  [ UNIT ]  𒄥𒈗  gur-lugal  "a unit of measurement" 
->>>  gur-mah  
  gurmah  [ UNIT ]  𒄥𒈤  gur-mah  "a unit of capacity" 
->>>  gur-sag-ĝal2 ;  gur-sag ;  gur-sag-gal  
  gursaĝgal  [ UNIT ]  𒄥𒊕𒅅;𒄥𒊕;𒄥𒊕𒃲  gur-sag-ĝal2 ;  gur-sag ;  gur-sag-gal  "unit of measure" 
->>>  guru3  
  guru  [ BAR ]  𒅍  guru3  "to bar" 
->>>  gur5  
  guru  [ GRIND ]  𒍀  gur5  "to grind, grate; to cut up, chop; (to be) trimmed, pruned" Akk.  kasāmu ;  kaşāşu ;  urrû 
->>>  guru7 ;  gur11  
  guru  [ HEAP ]  𒄦;𒂵  guru7 ;  gur11  "to heap up" Akk.  kamāru ;  karû 
->>>  ĝeš gur8 -u6  
  guru  [ OBJECT ]  𒄑𒋽𒅆𒂍  ĝeš gur8 -u6  "wooden object" 
->>>  guru7  
  guru  [ STORE ]  𒄦  guru7  "grain heap, grain store; unit of capacity" Akk.  karû 
->>>  ĝeš guru5 -uš  
  guruʾuš  [ TREE-TRUNK ]  𒄑𒍀𒍑  ĝeš guru5 -uš  "tree-trunk" Akk.  kisittu 
->>>  gurud ;  gurud2  
  gurud  [ THROW ]  U+1234F;?U+1234F  gurud ;  gurud2  "to throw, place" Akk.  nadû 
->>>  gur7 -du6  
  gurudud  [ HEAP ]  𒄦𒇯  gur7 -du6  "a type of grain heap" Akk.  karê tili 
->>>  gurum ;  gur8 ;  gur ;  gurum x (GURUN)  
  gurum  [ BEND ]  𒃵;𒋽;𒄥;UŠ2 squared (four opposing 𒍗 forming a square in the middle)(UŠ2 squared (four opposing 𒍗 forming a square in the middle))  gurum ;  gur8 ;  gur ;  gurum x (GURUN)  "to bend, curve, wrap around; to bow; to roll up; to curb, restrain; to watch over" Akk.  kanāšu ;  kanānu ;  kapāpu ;  qadādu 
->>>  gurum2  
  gurum  [ BURN ]  𒅆𒂟  gurum2  "to burn" 
->>>  gurum  
  gurum  [ DWELLING ]  𒃵  gurum  "dwelling" Akk.  mūšabu 
->>>  gurum2 ;  gurum x (|IGI.GAR|)  
  gurum  [ INSPECTION ]  𒅆𒂟;UŠ2 squared (four opposing 𒍗 forming a square in the middle)(𒅆𒃻)  gurum2 ;  gurum x (|IGI.GAR|)  "inspection, provisions" Akk.  piqittu 
->>>  gu-ru-um ;  gu-ru-ma ;  gu2 -ru-ma  
  gurum  [ PILE ]  𒄖𒊒𒌝;𒄖𒊒𒈠;𒄘𒊒𒈠  gu-ru-um ;  gu-ru-ma ;  gu2 -ru-ma  "pile" 
->>>  gurum2 -ak  
  gurumak  [ INSPECTION ]  𒅆𒂟𒀝  gurum2 -ak  "inspection, check" Akk.  piqittu 
->>>  guru7 -maš  
  gurumaš  [ HEAP ]  𒄦𒈦  guru7 -maš  "a type of grain heap" Akk.  karê māši 
->>>  gurun  
  gurun  [ FRUIT ]  UŠ2 squared (four opposing 𒍗 forming a square in the middle)  gurun  "fruit, flower; ~ figurine; sexual appeal" Akk.  inbu 
->>>  guru5 -uš ;  gur5 -ru-uš  
  guruš  [ CVNE ]  𒍀𒍑;𒍀𒊒𒍑  guru5 -uš ;  gur5 -ru-uš  "(compound verb nominal element)" 
->>>  guruš3 ;  guruš4  
  guruš  [ CUT ]  𒍀;𒋳  guruš3 ;  guruš4  "to cut, fell, trim, peel off; a cutting; stubble" Akk.  kismu ;  nakāsu ;  šarāmu 
->>>  guru5 -uš bur2 ;  gur5 -ru-uš bur2 ;  guru5  bur2  
  guruš bur  [ UNMNG ]  𒍀𒍑𒁔;𒍀𒊒𒍑𒁔;𒍀𒁔  guru5 -uš bur2 ;  gur5 -ru-uš bur2 ;  guru5  bur2  "?" Akk.  gaşāşu 
->>>  gur5 -ru-uš dug4  
  guruš dug  [ UNMNG ]  𒍀𒊒𒍑𒅗  gur5 -ru-uš dug4  "?" 
->>>  guru5 -uš e3  
  guruš e  [ UNMNG ]  𒍀𒍑𒌓𒁺  guru5 -uš e3  "?" 
->>>  gu2 -sa  
  gusa  [ MUSCLES ]  𒄘𒊓  gu2 -sa  "neck muscles" 
->>>  gu2 -saĝ  
  gusaĝ  [ UNMNG ]  𒄘𒊕  gu2 -saĝ  "?" Akk.  ? 
->>>  gu4 -si-AŠ ;  |SI.GUD.AŠ| ;  |SI.GUD×AŠ| ;  |SI.GUD|  
  gusiAŠ  [ RAM ]  𒄞𒋛𒀸;𒋛𒄞𒀸;𒋛𒄞·𒀸;𒋛𒄞  gu4 -si-AŠ ;  |SI.GUD.AŠ| ;  |SI.GUD×AŠ| ;  |SI.GUD|  "battering ram" Akk.  āšibu 
->>>  gu3 -sur ku6  
  gusur  [ FISH ]  𒅗𒁍  ≈ 𒄮 SUR3𒄩  gu3 -sur ku6  "a fish" 
->>>  gu-šur ;  SUR.GU.NUN ;  NUN.SUR.GU ;  NUN.GU.SUR  
  gusur  [ PROFESSION ]  𒄖𒋩;𒁍  ≈ 𒄮 SUR3𒄖𒉣;𒉣𒁍  ≈ 𒄮 SUR3𒄖;𒉣𒄖𒁍  ≈ 𒄮 SUR3  gu-šur ;  SUR.GU.NUN ;  NUN.SUR.GU ;  NUN.GU.SUR  "a profession" Akk.  ? 
->>>  gu2 -sur mušen ;  gu2 -sur-ra mušen  
  gusura  [ BIRD ]  𒄘𒁍  ≈ 𒄮 SUR3𒄷;𒄘𒁍  ≈ 𒄮 SUR3𒊏𒄷  gu2 -sur mušen ;  gu2 -sur-ra mušen  "a bird" 
->>>  gu2 -sur-ra ku6  
  gusura  [ FISH ]  𒄘𒁍  ≈ 𒄮 SUR3𒊏𒄩  gu2 -sur-ra ku6  "a fish" 
->>>  ĝeš gu2 -uš  
  guš  [ INSTRUMENT ]  𒄑𒄘𒍑  ĝeš gu2 -uš  "a musical instrument?; a part of a musical instrumen?" 
->>>  GU.ŠU.GABA  
  GUŠUGABA  [ PROFESSION ]  𒄖𒋗𒃮  GU.ŠU.GABA  "a profession" 
->>>  gu-šum2  
  gušum  [ WEDGE ]  𒄖𒋧  gu-šum2  "(cuneiform) wedge" Akk.  mihiştu 
->>>  kuš gu2 -tab  
  gutab  [ COLLAR ]  𒋢𒄘𒋰  kuš gu2 -tab  "collar" 
->>>  gu2 -TAG  
  guTAG  [ UNMNG ]  𒄘𒋳  gu2 -TAG  "?" Akk.  ? 
->>>  gu2 -tuku  
  gutuku  [ PERFECT ]  𒄘𒌇  gu2 -tuku  "perfect; rich" Akk.  gitmalu ;  šarû 
->>>  gu2 -tur ;  gu2  
  gutur  [ LENTIL? ]  𒄘𒌉;𒄘  gu2 -tur ;  gu2  "lentil?" Akk.  kakkû 
->>>  guz  
  guz  [ TUFTED ]  𒈝  guz  "to be tufted" 
->>>  ĝeš gu-za ;  gu-za ;  gu2 -za ;  ĝeš guza ;  ĝeš aš-te  
  guza  [ CHAIR ]  𒄑𒄖𒍝;𒄖𒍝;𒄘𒍝;𒄑𒆪𒃻;𒄑𒀸𒋼  ĝeš gu-za ;  gu-za ;  gu2 -za ;  ĝeš guza ;  ĝeš aš-te  "chair, stool, throne" Akk.  kussû 
->>>  ĝeš gu-za-gid2 -da  
  guzagida  [ CHAIR ]  𒄑𒄖𒍝𒁍𒁕  ĝeš gu-za-gid2 -da  "a chair" Akk.  kalakku 
->>>  gu2 -zal ;  gu3 -zal  
  guzal  [ SCOUNDREL ]  𒄘𒉌;𒅗𒉌  gu2 -zal ;  gu3 -zal  "scoundrel, rogue; (to be) coarse, rude" Akk.  guzallu ;  ishappu ;  ahurrû ;  nû'u 
->>>  gu-za-la2  
  guzala  [ OFFICIAL ]  𒄖𒍝𒇲  gu-za-la2  "an official" Akk.  guzalû 
->>>  ĝeš gu-za-ni2 -ma-la2 ;  ĝeš gu-za-nim-ma-la2  
  guzanimala  [ STOOL ]  𒄑𒄖𒍝𒉎𒈠𒇲;𒄑𒄖𒍝𒉏𒈠𒇲  ĝeš gu-za-ni2 -ma-la2 ;  ĝeš gu-za-nim-ma-la2  "stool" Akk.  šūšubtu 
->>>  ĝeš gu-za-sir3 -da  
  guzasirda  [ CHAIR ]  𒄑𒄖𒍝𒂡𒁕  ĝeš gu-za-sir3 -da  "a chair" 
->>>  ĝeš gu-za-zag-be2 -us2 ;  ĝeš gu-za-zag-us2  
  guzazagbe'us  [ CHAIR ]  𒄑𒄖𒍝𒍠𒁉𒍑;𒄑𒄖𒍝𒍠𒍑  ĝeš gu-za-zag-be2 -us2 ;  ĝeš gu-za-zag-us2  "a chair" Akk.  kussī nēmedi 
->>>  gu3 -zi  
  guzi  [ GARMENT ]  𒅗𒍥  gu3 -zi  "a garment" 
->>>  gu2 -zi-bi-ir-ra  
  guzibira  [ STEPLADDER ]  𒄘𒍥𒁉𒅕𒊏  gu2 -zi-bi-ir-ra  "stepladder" Akk.  merdētu 
