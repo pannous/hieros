@@ -1,4 +1,8 @@
 ### EXTRA those with NUMBER (…2 etc) need to go to BOTTOM of file!!
+# udug2    ŠITA₂
+du@s 	𒁽
+ANx3 	𒀯
+KA×LI 	𒅲  	Kehle  ĝeli3 "throat; windpipe"  
 harax 	¿  	cart-container
 hurx 	𒅗·¿
 hubur 	¿
@@ -48,7 +52,7 @@ MURₓ 	𒌙
 AL 	𒀠	
 kù 	𒄀
 É 	𒂍 
-ŠE3 𒂠 
+ŠE3 	𒂠 
 šè 	𒂠
 ZI3 	𒍥
 zid2	𒍥
@@ -61,7 +65,7 @@ tap 	𒋰
 ssa 	𒅕 	
 ssu 	𒋢
 ṣe 	𒍢
-sse 𒍢
+sse 	𒍢
 siq 	𒋝 	≈ 𒋙𒋙 	≈ 𒂗
 sig 	𒋝 	≈ 𒋙𒋙 	≈ 𒂗
 MIR 	𒂇 
@@ -1550,1041 +1554,6 @@ ZULUMḪI	𒋠𒋤	*
 ZUM	𒍮
 ZUR	𒀫
 
-*Note that these cuneiform have not been added to Unicode, so cuneiform parts have been modified to graphically represent the corresponding cuneiform.
-Sumero-Akkadian Cuneiform  	not
-Codepoint	"Primary" name	Borger (2003)	Borger (1981)	Transliterations and Comments
-𒀀	U+12000	A	839	579	A, AYA2, DURU5, E4, EA
-𒀁	U+12001	A×A	845	583	EDURU
-𒀂	U+12002	A×BAD	840	580	AGAM
-𒀃	U+12003	A×GAN2 tenû		 
-𒀄	U+12004	A×ḪA	846	584; 587	ZAḪ3
-𒀅	U+12005	A×IGI	844	581	
-𒀆	U+12006	A×LAGAR gunû	843	582	
-𒀇	U+12007	A×MUŠ	842		AMUŠ
-𒀈	U+12008	A×SAG	841	585	
-𒀉	U+12009	A2	560	334	A2, ED, ET, ID, IT, IṬ, TE8
-𒀊	U+1200A	AB	223	128	AB, ABA, ABBA, AP, EŠ3, IRI12, IS3
-𒀋	U+1200B	AB×AŠ2	227	128**,200a	
-𒀌	U+1200C	AB×DUN3 gunû		AGARIN, AĜARIN
-𒀍	U+1200D	AB×GAL	228	194	
-𒀎	U+1200E	AB×GAN2 tenû	225	198	AGARIN2, AĜARIN2, ŠEM5
-𒀏	U+1200F	AB×ḪA	236	200	AGARINX, AĜARINX, NANŠE, NINA, SIRARA
-𒀐	U+12010	AB×IGI gunû	229	196	
-𒀑	U+12011	AB×IMIN	237		
-𒀒	U+12012	AB×LAGAB	234		
-𒀓	U+12013	AB×ŠEŠ	226	200c	
-𒀔	U+12014	AB×U +U+U	232		
-𒀕	U+12015	AB gunû		 UNUG
-𒀖	U+12016	AB2	672	420	AB2, LID
-𒀗	U+12017	AB2×BALAG	676	422	LILIZ
-𒀘	U+12018	AB2×GAN2 tenû	674	423	KIR6
-𒀙	U+12019	AB2×ME + EN	679	426	
-𒀚	U+1201A	AB2×ŠA3	677	424	LIBIŠ, ŠEM3
-𒀛	U+1201B	AB2×TAK4	673	420,8	
-𒀜	U+1201C	AD	258	145	AD, AT
-𒀝	U+1201D	AK	127	97	AG, AK, ŠA5
-𒀞	U+1201E	AK×ERIN2	129	98	ME3
-𒀟	U+1201F	AK×ŠITA + GIŠ	128		
-𒀠	U+12020	AL	474	298	AL
-𒀡	U+12021	AL×AL	478		
-𒀢	U+12022	AL×DIM2	480		
-𒀣	U+12023	AL×GIŠ	477	301	
-𒀤	U+12024	AL×ḪA	482	305	
-𒀥	U+12025	AL×KAD3		 
-𒀦	U+12026	AL×KI	481	303	
-𒀧	U+12027	AL×ŠE	348,479	205	
-𒀨	U+12028	AL×UŠ	476	300	
-𒀩	U+12029	ALAN	573	358	ALAN
-𒀪	U+1202A	aleph	635	397	late variant of AḪ; ≈ḪI×AŠ; HZL nr. 332
-𒀫	U+1202B	AMAR	695	437	AMAR, ZUR
-𒀬	U+1202C	AMAR×ŠE	696	438	SISKUR
-𒀭	U+1202D	AN	010	13	AM6, AN, DIĜIR, IL3, NAGGAX
-𒀮	U+1202E	AN / AN		 
-𒀯	U+1202F	AN three times		MUL
-𒀰	U+12030	AN + NAGA opposing AN + NAGA		
-𒀱	U+12031	AN + NAGA squared		 
-𒀲	U+12032	ANŠE	353	208	ANŠE "donkey"
-𒀳	U+12033	APIN	090	56	ABSIN3, APIN, ENGAR, UR11, URU4, UŠ8
-𒀴	U+12034	ARAD	0018	50	ARAD, IR3, NITAḪ2
-𒀵	U+12035	ARAD×KUR	0019	51	ARAD2, IR11
-𒀶	U+12036	ARKAB	859v	 NIG2.IB, ARGAB, ARKAB2; ≈GAD
-𒀷	U+12037	ASAL2		 ASALX
-𒀸	U+12038	AŠ	001	001	AŠ, DILI, DIDLI (plural)
-𒀹	U+12039	AŠ ZIDA tenû	575	209	DIŠ tenû, GE23
-𒀺	U+1203A	AŠ KABA tenû	647?	 GE22
-𒀻	U+1203B	AŠ / AŠ TUG2 / TUG2 TUG2 / TUG2 PAP		 
-𒀼	U+1203C	AŠ / AŠ / AŠ	505	325*	EŠ16
-𒀽	U+1203D	AŠ / AŠ / AŠ×AŠ / AŠ / AŠ	649	364/5,5-6	ŠUŠUR2
-𒀾	U+1203E	AŠ2	548	339	AŠ2
-𒀿	U+1203F	AŠGAB	173	6	AŠGAB
-𒁀	U+12040	BA	014	005	BA
-𒁁	U+12041	BAD	113	69	BA9, BAD, BE; ≈UŠ2
-𒁂	U+12042	BAG3	 78	BAG3
-𒁃	U+12043	BAḪAR2	 309	ALURAX, BAḪAR2
-𒁄	U+12044	BAL	005	9	BAL
-𒁅	U+12045	BAL / BAL		 
-𒁆	U+12046	BALAG	565	352	BALAG
-𒁇	U+12047	BAR	121	74	BAR
-𒁈	U+12048	BARA2	554	344	BAR2, BARA2
-𒁉	U+12049	BI	358	214	BE2, BI
-𒁊	U+1204A	BI×A		
-𒁋	U+1204B	BI×GAR	361	214c	
-𒁌	U+1204C	BI×IGI gunû		 
-𒁍	U+1204D	BU	580	371	BU, BUR12, DUR7, GID2, KIM3, PU, SIR2, SU13, SUD4, TUR8
-𒁎	U+1204E	BU / BU AB	582		SIRSIR
-𒁏	U+1204F	BU / BU UN		
-𒁐	U+12050	BU×BU	581		
-𒁑	U+12051	BULUG	169	60	BULUG
-𒁒	U+12052	BULUG / BULUG		 
-𒁓	U+12053	BUR	559	349	BUR, NIG2 gunû
-𒁔	U+12054	BUR2	008		BUR2, SUN5
-𒁕	U+12055	DA	561	335	DA
-𒁖	U+12056	DAG	438	280	DAG, PAR3
-𒁗	U+12057	DAG KISIM5×A + MAŠ	461	294b	
-𒁘	U+12058	DAG KISIM5×AMAR	458	288	
-𒁙	U+12059	DAG KISIM5×BALAG	457		
-𒁚	U+1205A	DAG KISIM5×BI	447	288	
-𒁛	U+1205B	DAG KISIM5×GA	455	291	AKAN, UBUR
-𒁜	U+1205C	DAG KISIM5×GA + MAŠ		 
-𒁝	U+1205D	DAG KISIM5×GI	444	284	
-𒁞	U+1205E	DAG KISIM5×GIR2	440	281a; 294e; 432,1	KIŠI8
-𒁟	U+1205F	DAG KISIM5×GUD	452	289	UTUL5
-𒁠	U+12060	DAG KISIM5×ḪA	462	294d	
-𒁡	U+12061	DAG KISIM5×IR	450		UBUR3
-𒁢	U+12062	DAG KISIM5×IR + LU	451		UBUR4
-𒁣	U+12063	DAG KISIM5×KAK	448	294f	
-𒁤	U+12064	DAG KISIM5×LA	441	282	
-𒁥	U+12065	DAG KISIM5×LU	459		UBUR2
-𒁦	U+12066	DAG KISIM5×LU + MAŠ2	460	293; 294	AMAŠ, UTUA2
-𒁧	U+12067	DAG KISIM5×LUM	463	294a	
-𒁨	U+12068	DAG KISIM5×NE	446	286	
-𒁩	U+12069	DAG KISIM5×PAP + PAP		
-𒁪	U+1206A	DAG KISIM5×SI	445	285	
-𒁫	U+1206B	DAG KISIM5×TAK4	443	283	
-𒁬	U+1206C	DAG KISIM5×U2 + GIR2	453	290	
-𒁭	U+1206D	DAG KISIM5×UŠ	449	287	UTUA
-𒁮	U+1206E	DAM	889	557	DAM
-𒁯	U+1206F	DAR	183	114	DAR, GUN3, ḪUR gunû, SI gunû, TAR2
-𒁰	U+12070	DARA3	166	100	DAR3, DARA3 "ibex"
-𒁱	U+12071	DARA4	817	540	DARA4
-𒁲	U+12072	DI	736	457	DI, SA2
-𒁳	U+12073	DIB	813	537	DAB, DIB
-𒁴	U+12074	DIM	167	94	DIM
-𒁵	U+12075	DIM×ŠE	168	94	MUN
-𒁶	U+12076	DIM2	686	440	DIM2, GIM, GIN7
-𒁷	U+12077	DIN	119	465	DIN
-𒁸	U+12078	DIN KASKAL+U gunû DIŠ		 
-𒁹	U+12079	DIŠ	748; 749	480	DIŠ, EŠ4
-𒁺	U+1207A	DU	350	206	DE6, DU, GUB, ĜEN, GIN, RA2, RE6, ŠA4, TUM2
-𒁻	U+1207B	DU / DU	350	206a	LAḪ4, RE7
-𒁼	U+1207C	DU gunû	351	201	GIR6, SUḪUŠ
-𒁽	U+1207D	DU šešig	352	202	GIR5, IM2, KAŠ4, RIM4
-𒁾	U+1207E	DUB	242	138	DUB, ZAMUG
-𒁿	U+1207F	DUB×EŠ2		 
-𒂀	U+12080	DUB2		DUB2
-𒂁	U+12081	DUG	499	309	BI×A, DUG
-𒂂	U+12082	DUGUD	704	445	DUGUD, ĜI25
-𒂃	U+12083	DUḪ	298	167	DU8, DUḪ, TUḪ; ≈GABA
-𒂄	U+12084	DUN	744	467	DUN, ŠUL
-𒂅	U+12085	DUN3	836	595	DUN3, TUN3
-𒂆	U+12086	DUN3 gunû		 AGA3, AĜA3, GIN2
-𒂇	U+12087	DUN3 gunû gunû		AGA
-𒂈	U+12088	DUN4	557	348	DUL4, DUN4, UR gunû šešig, MIR šešig
-𒂉	U+12089	DUR2	808		DUR2, DURUN; ≈KU
-𒂊	U+1208A	E	498	308	E
-𒂋	U+1208B	E×PAP		 
-𒂌	U+1208C	E / E NUN / NUN		 
-𒂍	U+1208D	E2	495	324	E2, SA DIŠ
-𒂎	U+1208E	E2×A + ḪA + DA		
-𒂏	U+1208F	E2×GAR		
-𒂐	U+12090	E2×MI		 
-𒂑	U+12091	E2×SAL		
-𒂒	U+12092	E2×ŠE		 
-𒂓	U+12093	E2×U		
-𒂔	U+12094	EDIN	300	170	BIR4, EDEN, EDIMX, EDIN, RU6
-𒂕	U+12095	EGIR	356	209	EGIR, EĜER, EĜIR
-𒂖	U+12096	EL	899	564	EL, SAL SI, SIKIL
-𒂗	U+12097	EN	164	99	EN, RU12
-𒂘	U+12098	EN×GAN2	165	54	
-𒂙	U+12099	EN×GAN2 tenû		BURU14, ENKAR
-𒂚	U+1209A	EN×ME	164lig2		
-𒂛	U+1209B	EN×EN		ADAMIN5
-𒂜	U+1209C	EN opposing EN		ADAMINX
-𒂝	U+1209D	EN squared		
-𒂞	U+1209E	EREN	818	541	EREN, ERIN, ŠE22, ŠEŠ4
-𒂟	U+1209F	ERIN2	612; 613	393	EREM, EREN2, ERIM, ERIN2, ZALAG2
-𒂠	U+120A0	EŠ2	810; 811	536	EGIR2, EŠ2, EŠE2, GIR15, ḪUĜ, SUMUNX, ŠE3, GI7, UB2; ≈ZI3
-𒂡	U+120A1	EZEN	271	152	ASILX, EZEN, IZIN, KEŠDA
-𒂢	U+120A2	EZEN×A	288		ASIL3, ASILA3, ASILAL3
-𒂣	U+120A3	EZEN×A + LAL	289	159	SIL7
-𒂤	U+120A4	EZEN×A + LAL×LAL	290	160	ASILAL4
-𒂥	U+120A5	EZEN×AN		 
-𒂦	U+120A6	EZEN×BAD	275	152	BAD3, UG5
-𒂧	U+120A7	EZEN×DUN3 gunû	287	162	
-𒂨	U+120A8	EZEN×DUN3 gunû gunû		 
-𒂩	U+120A9	EZEN×ḪA	291	161	
-𒂪	U+120AA	EZEN×ḪA gunû		
-𒂫	U+120AB	EZEN×IGI gunû		 
-𒂬	U+120AC	EZEN×KASKAL	277		ASILAX, UBARA, UN4
-𒂭	U+120AD	EZEN×KASKAL squared		 
-𒂮	U+120AE	EZEN×KU3	284	152	
-𒂯	U+120AF	EZEN×LA	274	152	
-𒂰	U+120B0	EZEN×LAL×LAL		ASIL, ASILA, ASILAL
-𒂱	U+120B1	EZEN×LI	273	153	
-𒂲	U+120B2	EZEN×LU	286	157	
-𒂳	U+120B3	EZEN×U2	279		
-𒂴	U+120B4	EZEN×UD	283		
-𒂵	U+120B5	GA	491	319	GA, GUR11, KA3, QA2
-𒂶	U+120B6	GA gunû	492		
-𒂷	U+120B7	GA2	387	233	BA4, GA2, ĜA2, ĜE26, MA3, PISAĜ
-𒂸	U+120B8	GA2×A + DA + ḪA	428	273	
-𒂹	U+120B9	GA2×A + ḪA		
-𒂺	U+120BA	GA2×A + IGI	429	274	
-𒂻	U+120BB	GA2×AB2 tenû + TAB	423?	 
-𒂼	U+120BC	GA2×AN	392	237	AMA, EME4
-𒂽	U+120BD	GA2×AŠ	389	234	
-𒂾	U+120BE	GA2×AŠ2 + GAL	414	258	
-𒂿	U+120BF	GA2×BAD	395	242	
-𒃀	U+120C0	GA2×BAR + RA		
-𒃁	U+120C1	GA2×BUR		 
-𒃂	U+120C2	GA2×BUR + RA	415	259	
-𒃃	U+120C3	GA2×DA	416	416	
-𒃄	U+120C4	GA2×DI	425	268	
-𒃅	U+120C5	GA2×DIM×ŠE	401	206	
-𒃆	U+120C6	GA2×DUB	403	250	
-𒃇	U+120C7	GA2×EL		
-𒃈	U+120C8	GA2×EL + LA	433	272	
-𒃉	U+120C9	GA2×EN	399	247	
-𒃊	U+120CA	GA2×EN×GAN2 tenû	400	239	GA2×BURU14
-𒃋	U+120CB	GA2×GAN2 tenû	402	248	DAN4
-𒃌	U+120CC	GA2×GAR	431	278	EGARA, GALGA
-𒃍	U+120CD	GA2×GI	396	243	
-𒃎	U+120CE	GA2×GI4	412	256	
-𒃏	U+120CF	GA2×GI4 + A		 
-𒃐	U+120D0	GA2×GIR2 + SU	391	236	
-𒃑	U+120D1	GA2×ḪA + LU + EŠ2	430	277	
-𒃒	U+120D2	GA2×ḪAL		 
-𒃓	U+120D3	GA2×ḪAL + LA	390	235	
-𒃔	U+120D4	GA2×ḪI + LI	421	263	
-𒃕	U+120D5	GA2×ḪUB2	398		
-𒃖	U+120D6	GA2×IGI gunû	417	260	
-𒃗	U+120D7	GA2×IŠ + ḪU + AŠ	406	250i	
-𒃘	U+120D8	GA2×KAK	407	251	
-𒃙	U+120D9	GA2×KASKAL	405	250d	
-𒃚	U+120DA	GA2×KID	394	241	
-𒃛	U+120DB	GA2×KID + LAL	409	251	
-𒃜	U+120DC	GA2×KU3 + AN	426	269	
-𒃝	U+120DD	GA2×LA		
-𒃞	U+120DE	GA2×ME + EN	427	270	MEN
-𒃟	U+120DF	GA2×MI	424	265	ITIMA
-𒃠	U+120E0	GA2×NUN	397	244	GANUN
-𒃡	U+120E1	GA2×NUN / NUN	411	255	UR3
-𒃢	U+120E2	GA2×PA	408	252; 257	GAZI, SILA4
-𒃣	U+120E3	GA2×SAL	432	271	AMA5, ARḪUŠ
-𒃤	U+120E4	GA2×SAR	413	250b	
-𒃥	U+120E5	GA2×ŠE	418	261	ARAḪ3, ESAG2
-𒃦	U+120E6	GA2×ŠE + TUR	419	261a; 272a	
-𒃧	U+120E7	GA2×ŠID	410	252	
-𒃨	U+120E8	GA2×SUM	404	250c	
-𒃩	U+120E9	GA2×TAK4	394		DAN3
-𒃪	U+120EA	GA2×U	422	264	
-𒃫	U+120EB	GA2×UD	420	262	
-𒃬	U+120EC	GA2×UD + DU		 
-𒃭	U+120ED	GA2 / GA2		 
-𒃮	U+120EE	GABA	 167	GAB, GABA; ≈DUḪ
-𒃯	U+120EF	GABA×GABA		
-𒃰	U+120F0	GAD	157	90	GAD, GADA; ≈ARKAB2
-𒃱	U+120F1	GAD / GAD GAR / GAR		 GARADINX, KINDA
-𒃲	U+120F2	GAL	553	343	GAL
-𒃳	U+120F3	GAL GAD / GAD GAR / GAR		 
-𒃴	U+120F4	GALAM	338	176k	GALAM, SUKUD
-𒃵	U+120F5	GAM	576	362	GAM, GUR2, GURUM
-𒃶	U+120F6	GAN	253	143	GAN, KAN, ḪE2
-𒃷	U+120F7	GAN2	174	105I	AŠAG, GAN2, GANA2
-𒃸	U+120F8	GAN2 tenû	175	105	GURU6, KAR2, ŠE3 tenû
-𒃹	U+120F9	GAN2 / GAN2	174v	 
-𒃺	U+120FA	GAN2×GAN2	174v	 ALAL4
-𒃻	U+120FB	GAR	859	597	GAR, ĜAR, NINDA, NI3, NIG2, NIĜ2
-𒃼	U+120FC	GAR3	543	333	GAR3, QAR
-𒃽	U+120FD	GAŠAN	562; 563	350	GAŠAN,U+gunû
-𒃾	U+120FE	GEŠTIN	212	210	GEŠTIN, ĜEŠTIN
-𒃿	U+120FF	GEŠTIN×KUR	213		
-𒄀	U+12100	GI	141	85	GE, GI, GEN6, GIN6, KE2, KI2, SIG17
-𒄁	U+12101	GI×E		
-𒄂	U+12102	GI×U		
-𒄃	U+12103	GI×GI	105	67	GEL, GI16, GIB, GIL, GILIM
-𒄄	U+12104	GI4	507	326	GI4, QI4
-𒄅	U+12105	GI4 / GI4	508	326a	GIGI
-𒄆	U+12106	GI4×GI4	508	326a	
-𒄇	U+12107	GIDIM	830	576	GIDIM
-𒄈	U+12108	GIR2	006	10	GIR2, ĜIR2
-𒄉	U+12109	GIR2 gunû	007	10	AD2, KIŠI17
-𒄊	U+1210A	GIR3	701	444	GIR3, ĜIRI3
-𒄋	U+1210B	GIR3×A + IGI	703	421; 579,396	ALIM
-𒄌	U+1210C	GIR3×GAN2 tenû	675	423	GIRI16
-𒄍	U+1210D	GIR3×IGI		
-𒄎	U+1210E	GIR3×LU + IGI	702	537,129	
-𒄏	U+1210F	GIR3×PA		 
-𒄐	U+12110	GISAL	376	226	GISAL
-𒄑	U+12111	GIŠ	469	296	GEŠ, GIŠ, ĜIŠ, IZ
-𒄒	U+12112	GIŠ×GIŠ	469v	 ADAMIN3, ALAL3
-𒄓	U+12113	GIŠ×BAD	471		
-𒄔	U+12114	GIŠ×TAK4		
-𒄕	U+12115	GIŠ tenû	470	296	GUR17
-𒄖	U+12116	GU	891	559	GU
-𒄗	U+12117	GU×GU	892	569	SUḪ3
-𒄘	U+12118	GU2	176	106	GU2
-𒄙	U+12119	GU2×KAK	178		DUR, USANX
-𒄚	U+1211A	GU2×KAK×IGI gunû		
-𒄛	U+1211B	GU2×NUN		 
-𒄜	U+1211C	GU2×SAL + TUG2		
-𒄝	U+1211D	GU2 gunû	509	327	USAN2
-𒄞	U+1211E	GUD	472	297	GU4 "cow", EŠTUB
-𒄟	U+1211F	GUD×A + KUR		 
-𒄠	U+12120	GUD×KUR	309		AM
-𒄡	U+12121	GUD / GUD LUGAL	572	357	BIŠEBA3
-𒄢	U+12122	GUL	682	429	GUL, SI23, SUN2
-𒄣	U+12123	GUM	339	191	GUM, KUM, NAĜA4, QUM
-𒄤	U+12124	GUM×ŠE	340	192	GAZ, NAĜA3
-𒄥	U+12125	GUR	180	111	GUR
-𒄦	U+12126	GUR7	819	542	GUR7, GURU7
-𒄧	U+12127	GURUN	503	310	
-𒄨	U+12128	GURUŠ		322	GURUŠ
-𒄩	U+12129	ḪA	856	589	ḪA, KU6
-𒄪	U+1212A	ḪA tenû	857	590	ZUBUD
-𒄫	U+1212B	ḪA gunû	558	346	GIR, PE
-𒄬	U+1212C	ḪAL	003	002	ḪAL
-𒄭	U+1212D	ḪI	631	396	DUB3, DUG3, ḪI, ŠAR2
-𒄮	U+1212E	ḪI×AŠ	634	405	SUR3; ≈aleph
-𒄯	U+1212F	ḪI×AŠ2	644	401	AR3, ARA3, ḪAR, ḪUR, MUR, UR5
-𒄰	U+12130	ḪI×BAD	640; 595	406	KAM
-𒄱	U+12131	ḪI×DIŠ	659	409e	AR2, ŠAR2×DIŠ
-𒄲	U+12132	ḪI×GAD	650	407	ŠAR2×GAD
-𒄳	U+12133	ḪI×KIN	660	410	
-𒄴	U+12134	ḪI×NUN	636	398	A', AḪ, EḪ, IḪ, NUMUN3, UḪ, UMUN3
-𒄵	U+12135	ḪI×ŠE	643	400	BIR
-𒄶	U+12136	ḪI×U	653; 688	409	ŠAR2×U; DUBUR2
-𒄷	U+12137	ḪU	132	78	ḪU, MUŠEN, U11
-𒄸	U+12138	ḪUB2	149	88	ḪUB2, TU11
-𒄹	U+12139	ḪUB2×AN		 
-𒄺	U+1213A	ḪUB2×ḪAL		
-𒄻	U+1213B	ḪUB2×KASKAL		 
-𒄼	U+1213C	ḪUB2×LIŠ		
-𒄽	U+1213D	ḪUB2×UD	150		ḪUB
-𒄾	U+1213E	ḪUL2	877	550	ḪUL2
-𒄿	U+1213F	I	252	142	I
-𒅀	U+12140	I A		 IA
-𒅁	U+12141	IB	807	535	ARKABX, IB
-𒅂	U+12142	IDIM		ARI2, IDIM, URI4, AŠ opposing AŠ
-𒅃	U+12143	IDIM / IDIM BUR		 
-𒅄	U+12144	IDIM / IDIM squared		 
-𒅅	U+12145	IG	136	80	GAL2, ĜAL2, IG, IQ
-𒅆	U+12146	IGI	724	449	IGI, LIM, ŠI
-𒅇	U+12147	IGI DIB	731	455	U3
-𒅈	U+12148	IGI RI	726	451	AR
-𒅉	U+12149	IGI / IGI ŠIR / ŠIR UD / UD		 
-𒅊	U+1214A	IGI gunû	564	351	AGAR4, IMMA3, SE12, SIG7, ŠEX, UGARX, UGUR2
-𒅋	U+1214B	IL	348	205	IL
-𒅌	U+1214C	IL×GAN2 tenû	349		
-𒅍	U+1214D	IL2	493	320	IL2
-𒅎	U+1214E	IM	641	399	DID, EM, ENEGIR, IM, IŠKUR, KARKARA, TU15, TUM9, TUMU
-𒅏	U+1214F	IM×TAK4	642	399,51	
-𒅐	U+12150	IM×IM	641v	399*	AĜAR5, NI2×NI2
-𒅑	U+12151	IM opposing IM	641v	 NI2 opposing NI2
-𒅒	U+12152	IM squared	641v	399**	NI2 squared
-𒅓	U+12153	IMIN	863	598c	IMIN
-𒅔	U+12154	IN	261	148	EN6, IN, ISIN2
-𒅕	U+12155	IR	437	232	ER, IR, GAG gunû
-𒅖	U+12156	IŠ	357	212	IŠ
-𒅗	U+12157	KA	024	15	DU11, DUG4, GA14, GIRI17, GU3, INIM, KA, KIR4, PI4, ŠUDX, SU11, ZU2, ZUḪ
-𒅘	U+12158	KA×A	064	35	NAG, NAĜ
-𒅙	U+12159	KA×AD		 
-𒅚	U+1215A	KA×AD + KU3	034	20	
-𒅛	U+1215B	KA×AŠ2	046		
-𒅜	U+1215C	KA×BAD		UŠ11
-𒅝	U+1215D	KA×BALAG	047		ŠEG11
-𒅞	U+1215E	KA×BAR	030		
-𒅟	U+1215F	KA×BI		 
-𒅠	U+12160	KA×ERIN2	053	29*	
-𒅡	U+12161	KA×EŠ2		
-𒅢	U+12162	KA×GA	044		SUB
-𒅣	U+12163	KA×GAL		
-𒅤	U+12164	KA×GAN2 tenû	033	19	PU3
-𒅥	U+12165	KA×GAR	065		GU7
-𒅦	U+12166	KA×GAR + ŠA3 + A	066		
-𒅧	U+12167	KA×GI		 
-𒅨	U+12168	KA×GIR2	025		
-𒅩	U+12169	KA×GIŠ + SAR		
-𒅪	U+1216A	KA×GIŠ×GIŠ		 
-𒅫	U+1216B	KA×GU	069	34	
-𒅬	U+1216C	KA×GUR7	063		
-𒅭	U+1216D	KA×IGI	059		
-𒅮	U+1216E	KA×IM	054	30	BUN2
-𒅯	U+1216F	KA×KAK	038		
-𒅰	U+12170	KA×KI	060		
-𒅱	U+12171	KA×KID		
-𒅲	U+12172	KA×LI	026	16	
-𒅳	U+12173	KA×LU		 
-𒅴	U+12174	KA×ME	061	32	EME
-𒅵	U+12175	KA×ME + DU		
-𒅶	U+12176	KA×ME + GI		
-𒅷	U+12177	KA×ME + TE		
-𒅸	U+12178	KA×MI	057		
-𒅹	U+12179	KA×MI + NUNUZ		 
-𒅺	U+1217A	KA×NE	035		
-𒅻	U+1217B	KA×NUN	031	18	NUNDUM
-𒅼	U+1217C	KA×PI	052		
-𒅽	U+1217D	KA×RU	028		
-𒅾	U+1217E	KA×SA	032	18*	SU6
-𒅿	U+1217F	KA×SAR	045		
-𒆀	U+12180	KA×ŠA	048		
-𒆁	U+12181	KA×ŠE	050		TUKUR2
-𒆂	U+12182	KA×ŠID	042		
-𒆃	U+12183	KA×ŠU	049
-033	19
-26	ŠUDU2
-𒆄	U+12184	KA×SIG	068		
-𒆅	U+12185	KA×SUḪUR		
-𒆆	U+12186	KA×TAR		
-𒆇	U+12187	KA×U	056		
-𒆈	U+12188	KA×U2	043		TUKUR3
-𒆉	U+12189	KA×UD	051		ENMEN, SI19
-𒆊	U+1218A	KA×UMUM×PA		
-𒆋	U+1218B	KA×UŠ	039		
-𒆌	U+1218C	KA×ZI		 
-𒆍	U+1218D	KA2	222	133	E2 šešig, KA2, KAN4
-𒆎	U+1218E	KA2×KA2		
-𒆏	U+1218F	KAB	148	88	KAB
-𒆐	U+12190	KAD2	108	63a	KAD2
-𒆑	U+12191	KAD3	109	63c	KAD3
-𒆒	U+12192	KAD4	568	354b	KAD4
-𒆓	U+12193	KAD5	569	354b	KAD5, PEŠ6
-𒆔	U+12194	KAD5 / KAD5		 
-𒆕	U+12195	KAK	379	230	DA3, DU3, GAG, KAK
-𒆖	U+12196	KAK×IGI gunû		
-𒆗	U+12197	KAL	496	322	ALAD2, ESI, ĜURUŠ, KAL, KALAG, LAMMA, RIB, SUN7, ZI8
-𒆘	U+12198	KAL×BAD	497	323	ALAD
-𒆙	U+12199	KAL×KAL		
-𒆚	U+1219A	KAM2	595		KAM2
-𒆛	U+1219B	KAM4	097		KAM4
-𒆜	U+1219C	KASKAL	302	166	KASKAL
-𒆝	U+1219D	KASKAL LAGAB×U / LAGAB×U	307v	 ŠUBTU6
-𒆞	U+1219E	KASKAL / KASKAL LAGAB×U / LAGAB×U	307v	 ŠUBTU7
-𒆟	U+1219F	KEŠ2	 152	KEŠ2
-𒆠	U+121A0	KI	737	461	GI5, KI, QI2
-𒆡	U+121A1	KI×BAD	738		
-𒆢	U+121A2	KI×U	740	462	ḪABRUD
-𒆣	U+121A3	KI×UD	739	463	
-𒆤	U+121A4	KID	484	313	KID, LIL2, GE2, GI2, KE4, KUP4
-𒆥	U+121A5	KIN	815	538	GUR10, KIĜ2, KIN, SAGA11
-𒆦	U+121A6	KISAL	435	249	KISAL
-𒆧	U+121A7	KIŠ	678	425	KIŠ
-𒆨	U+121A8	KISIM5	687	404*,1	KISIM5
-𒆩	U+121A9	KISIM5 / KISIM5	687v	 
-𒆪	U+121AA	KU	808	536	DAB5, DURU2, KU, TUKUL, TUŠ; ≈DUR2
-𒆫	U+121AB	KU / ḪI×AŠ2 KU / ḪI×AŠ2		 
-𒆬	U+121AC	KU3	745	468	KU3, KUG
-𒆭	U+121AD	KU4	087	58	KU4, ŠE ŠU
-𒆮	U+121AE	KU4 variant form		
-𒆯	U+121AF	KU7	171	110	KU7
-𒆰	U+121B0	KUL	117	72	KUL, NUMUN
-𒆱	U+121B1	KUL gunû		
-𒆲	U+121B2	KUN	131	77	KUN
-𒆳	U+121B3	KUR	578	366	GIN3, KUR
-𒆴	U+121B4	KUR opposing KUR		
-𒆵	U+121B5	KUŠU2	896	562	KUŠU2, UḪ3
-𒆶	U+121B6	KWU318		ḪIRINX
-𒆷	U+121B7	LA	089	55	LA, ŠIKA
-𒆸	U+121B8	LAGAB	755	483	GUR4, LAGAB, NIGIN2, NIĜIN2, RIN, TUKUR
-𒆹	U+121B9	LAGAB×A	795	522	AMBAR, AŠTE2, AYA4, BUGIN, BUNIN, SUG
-𒆺	U+121BA	LAGAB×A + DA + ḪA	797	523*; 524	
-𒆻	U+121BB	LAGAB×A + GAR	799	526	AGAR3
-𒆼	U+121BC	LAGAB×A + LAL	798		ABLAL
-𒆽	U+121BD	LAGAB×AL	773	498	
-𒆾	U+121BE	LAGAB×AN	758		
-𒆿	U+121BF	LAGAB×AŠ ZIDA tenû	778	486,1; 504	
-𒇀	U+121C0	LAGAB×BAD	760	486	GIGIR
-𒇁	U+121C1	LAGAB×BI	769	496	
-𒇂	U+121C2	LAGAB×DAR	765	489	
-𒇃	U+121C3	LAGAB×EN	764		
-𒇄	U+121C4	LAGAB×GA	775		
-𒇅	U+121C5	LAGAB×GAR	801	528	
-𒇆	U+121C6	LAGAB×GUD	772	493	ŠURUM3
-𒇇	U+121C7	LAGAB×GUD + GUD	766	494	U8
-𒇈	U+121C8	LAGAB×ḪA	800	527	
-𒇉	U+121C9	LAGAB×ḪAL	756	484	AGARINX, AĜARINX, ENGUR, NAMMA
-𒇊	U+121CA	LAGAB×ḪI×NUN	784	509	
-𒇋	U+121CB	LAGAB×IGI gunû		AGAR2, IMMAX, ŠARA2
-𒇌	U+121CC	LAGAB×IM	785	510	
-𒇍	U+121CD	LAGAB×IM + ḪA		 
-𒇎	U+121CE	LAGAB×IM + LU		 
-𒇏	U+121CF	LAGAB×KI	789	514	
-𒇐	U+121D0	LAGAB×KIN	794	519	
-𒇑	U+121D1	LAGAB×KU3	790	513; 506	DAGRIM, GARIM, ĜARIN
-𒇒	U+121D2	LAGAB×KUL	761		
-𒇓	U+121D3	LAGAB×KUL + ḪI + A	762		
-𒇔	U+121D4	LAGAB×LAGAB	804	529	NIGIN
-𒇕	U+121D5	LAGAB×LIŠ	782	486,1; 503	
-𒇖	U+121D6	LAGAB×LU	793	518	AKKAN3
-𒇗	U+121D7	LAGAB×LUL	777	502	
-𒇘	U+121D8	LAGAB×ME	791	516	
-𒇙	U+121D9	LAGAB×ME + EN	792	517	
-𒇚	U+121DA	LAGAB×MUŠ	780	507	
-𒇛	U+121DB	LAGAB×NE	768	495	UDUB
-𒇜	U+121DC	LAGAB×ŠE + SUM	779	491,6; 492	
-𒇝	U+121DD	LAGAB×ŠITA + GIŠ + ERIN2		
-𒇞	U+121DE	LAGAB×ŠITA + GIŠ tenû		 
-𒇟	U+121DF	LAGAB×ŠU2	802	520	
-𒇠	U+121E0	LAGAB×ŠU2 + ŠU2	803	521	
-𒇡	U+121E1	LAGAB×SUM	767	491	BUL5, ZAR
-𒇢	U+121E2	LAGAB×TAG		 
-𒇣	U+121E3	LAGAB×TAK4	759	485	
-𒇤	U+121E4	LAGAB×TE + A + SU + NA		
-𒇥	U+121E5	LAGAB×U	786	511	BU4, GIGIR2 "wain"; PU2, TUL2 "source, fount"
-𒇦	U+121E6	LAGAB×U + A	787	512	ABLAL3, UMAḪ
-𒇧	U+121E7	LAGAB×U +U +U	788	515	BUL, BUR10, NINNA2, TUKU4
-𒇨	U+121E8	LAGAB×U2 + AŠ	774	499	
-𒇩	U+121E9	LAGAB×UD	783	505	
-𒇪	U+121EA	LAGAB×UŠ	770		
-𒇫	U+121EB	LAGAB squared	805	530	
-𒇬	U+121EC	LAGAR	719	458	LAGAR, HZL nr. 186
-𒇭	U+121ED	LAGAR×ŠE	722	460	SU7, SUR12
-𒇮	U+121EE	LAGAR×ŠE + SUM	723		
-𒇯	U+121EF	LAGAR gunû	721	459	DU6
-𒇰	U+121F0	LAGAR gunû / LAGAR gunû ŠE	721v	 
-𒇱	U+121F1	LAḪŠU		 LAḪŠU
-𒇲	U+121F2	LAL	750	481	LA2, LAL
-𒇳	U+121F3	LAL×LAL	751	482	LAL>2
-𒇴	U+121F4	LAM	693	435	LAM
-𒇵	U+121F5	LAM×KUR	694	436	
-𒇶	U+121F6	LAM×KUR + RU	694v	436,4	ARATTA
-𒇷	U+121F7	LI	085	59	EN3, GUB2, LE, LI, ŠE ŠA
-𒇸	U+121F8	LIL	544	336	LIL
-𒇹	U+121F9	LIMMU2	215	124	LIMMU2
-𒇺	U+121FA	LIŠ	591	377	DILIM2, LIŠ
-𒇻	U+121FB	LU	812	537	LU, LUG, NU12, UDU
-𒇼	U+121FC	LU×BAD	814	537,65c; 537*	AD3, ADDA2
-𒇽	U+121FD	LU2	514	330	LU2 "man"
-𒇾	U+121FE	LU2×AL	523		
-𒇿	U+121FF	LU2×BAD	517		AD6, ADDA
-𒈀	U+12200	LU2×EŠ2		 
-𒈁	U+12201	LU2×EŠ2 tenû		
-𒈂	U+12202	LU2×GAN2 tenû	521		
-𒈃	U+12203	LU2×ḪI×BAD		
-𒈄	U+12204	LU2×IM	526		
-𒈅	U+12205	LU2×KAD2	519		
-𒈆	U+12206	LU2×KAD3		
-𒈇	U+12207	LU2×KAD3 + AŠ		 
-𒈈	U+12208	LU2×KI	527		
-𒈉	U+12209	LU2×LA + AŠ		 
-𒈊	U+1220A	LU2×LAGAB	528		
-𒈋	U+1220B	LU2×ME + EN		 
-𒈌	U+1220C	LU2×NE	522		
-𒈍	U+1220D	LU2×NU		
-𒈎	U+1220E	LU2×SI + AŠ		 
-𒈏	U+1220F	LU2×SIK2 + BU	533		
-𒈐	U+12210	LU2×TUG2	530		AZLAG7
-𒈑	U+12211	LU2 tenû	515		
-𒈒	U+12212	LU2×LU2		
-𒈓	U+12213	LU2 opposing LU2		ADAMIN, GIGAM
-𒈔	U+12214	LU2 squared		 
-𒈕	U+12215	LU2 šešig	516; 534	330	ADX
-𒈖	U+12216	LU3	555	345	GAR5, GUG2, LU3, ŠE3 gunû
-𒈗	U+12217	LUGAL	266	151	LUGAL
-𒈘	U+12218	LUGAL / LUGAL	266v	 ADAMIN2
-𒈙	U+12219	LUGAL opposing LUGAL	266v	 unattested
-𒈚	U+1221A	LUGAL šešig		 
-𒈛	U+1221B	LUḪ	494	321	ḪULUḪ, LUḪ, SUKKAL
-𒈜	U+1221C	LUL	570	355	KA5, LIB, LUB, LUL, NAR
-𒈝	U+1221D	LUM	900	565	EGIR5, EĜIR5, ḪUM, LUM, NUM2
-𒈞	U+1221E	LUM / LUM	902	565a; 566a	
-𒈟	U+1221F	LUM / LUM GAR / GAR	904	566b	LUGUD3
-𒈠	U+12220	MA	552	342	MA, PEŠ3
-𒈡	U+12221	MA×TAK4		 
-𒈢	U+12222	MA gunû	270	146	ḪASḪUR
-𒈣	U+12223	MA2	201	122	MA2
-𒈤	U+12224	MAḪ	091	57	MAḪ
-𒈥	U+12225	MAR	483	307	GIŠ ME, MAR
-𒈦	U+12226	MAŠ	120	74	MAŠ
-𒈧	U+12227	MAŠ2	130	76	MAŠ2
-𒈨	U+12228	ME	753	532	BA13, IŠIB, ME, MEN2
-𒈩	U+12229	MES	486	533	MES, RID
-𒈪	U+1222A	MI	681	427	GE6, GI6, GIGGI, ĜI6, MI
-𒈫	U+1222B	MIN	825	570	MIN
-𒈬	U+1222C	MU	098	61	ĜU10, MU
-𒈭	U+1222D	MU / MU	301	169	TAḪ, DAḪ
-𒈮	U+1222E	MUG	012	003	MUG oakum
-𒈯	U+1222F	MUG gunû	0013	4	ZADIM
-𒈰	U+12230	MUNSUB	820	543	MUNSUB, MUNŠUB, SUMUR3
-𒈱	U+12231	MURGU2	 567	MURGU2
-𒈲	U+12232	MUŠ	585	374	MUŠ
-𒈳	U+12233	MUŠ×A		 
-𒈴	U+12234	MUŠ×KUR		 
-𒈵	U+12235	MUŠ×ZA		
-𒈶	U+12236	MUŠ / MUŠ	586		ERINX, RI8
-𒈷	U+12237	MUŠ / MUŠ×A + NA		ERINA8
-𒈸	U+12238	MUŠ×MUŠ		
-𒈹	U+12239	MUŠ3	153	103	INANA, INANNA, INNIN, MUŠ3
-𒈺	U+1223A	MUŠ3×A	154		
-𒈻	U+1223B	MUŠ3×A + DI	155		AMAGI, SED
-𒈼	U+1223C	MUŠ3×DI		 
-𒈽	U+1223D	MUŠ3 gunû		 MUŠ2, SUSBU2
-𒈾	U+1223E	NA	110	70	NA
-𒈿	U+1223F	NA2	689	431	NA2, NU2, NUD
-𒉀	U+12240	NAGA	293		NAGA, NAĜA
-𒉁	U+12241	NAGA inverted		 
-𒉂	U+12242	NAGA×ŠU tenû	294		
-𒉃	U+12243	NAGA opposing NAGA		
-𒉄	U+12244	NAGAR	893	560	ALLA, NAGAR
-𒉅	U+12245	NAM NUTILLU		 
-𒉆	U+12246	NAM	134	79	BIR5, NAM, SIM, SIN2
-𒉇	U+12247	NAM2		NAM2, ≈TUG2
-𒉈	U+12248	NE	313	172	BAR7, BE7, BI2, BIL, DE3, DU17, GIBIL4, GIR10, IZI, KUM2, LAM2, LEM4, LI9, NE, NI5, PEL, PIL, SAḪARX, ŠARX, ŠEĜ6, ZAḪ
-𒉉	U+12249	NE×A	315		
-𒉊	U+1224A	NE×UD	314		
-𒉋	U+1224B	NE šešig	312	173	BIL2, GIBIL, PEL2
-𒉌	U+1224C	NI	380	231	BE3, DIG, I3, IA3, LE2, LI2, LID2, NE2, NI, SUŠ2, ZAL, ZAR2
-𒉍	U+1224D	NI×E		
-𒉎	U+1224E	NI2	641	399	NI2
-𒉏	U+1224F	NIM	690	433	NIM, NUM
-𒉐	U+12250	NIM×GAN2 tenû	691	434	TUM3
-𒉑	U+12251	NIM×GAR + GAN2 tenû	692	434a	
-𒉒	U+12252	NINDA2	316	176	NINDA2
-𒉓	U+12253	NINDA2×AN	320		
-𒉔	U+12254	NINDA2×AŠ	317	176,12; 177,2	
-𒉕	U+12255	NINDA2×AŠ + AŠ	316	177,3	
-𒉖	U+12256	NINDA2×GUD	327	187,6	
-𒉗	U+12257	NINDA2×ME + GAN2 tenû		 
-𒉘	U+12258	NINDA2×NE	326	183	AG2, AĜ2, EĜ3, EM3, IĜ3
-𒉙	U+12259	NINDA2×NUN	324	181	
-𒉚	U+1225A	NINDA2×ŠE	333v3		
-𒉛	U+1225B	NINDA2×ŠE + A AN	333		ŠAM2
-𒉜	U+1225C	NINDA2×ŠE + AŠ	331		
-𒉝	U+1225D	NINDA2×ŠE + AŠ + AŠ	332		
-𒉞	U+1225E	NINDA2×U2 + AŠ	330		
-𒉟	U+1225F	NINDA2×UŠ		 
-𒉠	U+12260	NISAG	545	337	MURU2, MURUB4, NISAG, ITI gunû
-𒉡	U+12261	NU	112	75	NU
-𒉢	U+12262	NU11	115	71	NU11
-𒉣	U+12263	NUN	143	87	NUN, SIL2, ZIL
-𒉤	U+12264	NUN LAGAR×GAR		 
-𒉥	U+12265	NUN LAGAR×MAŠ		 IMMAL
-𒉦	U+12266	NUN LAGAR×SAL		 ARḪUŠ2
-𒉧	U+12267	NUN LAGAR×SAL / NUN LAGAR×SAL		 
-𒉨	U+12268	NUN LAGAR×UŠ		
-𒉩	U+12269	NUN tenû	144	87	AGARGARA
-𒉪	U+1226A	NUN / NUN	502	325	NIR, ŠER7
-𒉫	U+1226B	NUN×NUN	107	63d	ADAMIN4
-𒉬	U+1226C	NUN×NUN LAGAR / LAGAR		
-𒉭	U+1226D	NUNUZ	614	394	NUNUZ
-𒉮	U+1226E	NUNUZ AB2×AŠGAB	619	394c,e	USAN3
-𒉯	U+1226F	NUNUZ AB2×BI	621	394d	MUD3
-𒉰	U+12270	NUNUZ AB2×DUG	625		
-𒉱	U+12271	NUNUZ AB2×GUD	623		
-𒉲	U+12272	NUNUZ AB2×IGI gunû	627		
-𒉳	U+12273	NUNUZ AB2×KAD3	618		
-𒉴	U+12274	NUNUZ AB2×LA	616	394b	LAḪTAN
-𒉵	U+12275	NUNUZ AB2×NE	620		
-𒉶	U+12276	NUNUZ AB2×SILA3	617	394b'	LAḪTAN2
-𒉷	U+12277	NUNUZ AB2×U2	(624)		
-𒉸	U+12278	NUNUZ KISIM5×BI	621	394d	
-𒉹	U+12279	NUNUZ KISIM5×BI U	622		
-𒉺	U+1227A	PA	464	295	ĜIDRU "staff, sceptre", PA, SAG3, SIG3, UGULA "overseer"
-𒉻	U+1227B	PAD	746	469	PAD, ŠUK,U GAR
-𒉼	U+1227C	PAN	685	439	PAN
-𒉽	U+1227D	PAP	092	60	PAB, PAP, KUR2
-𒉾	U+1227E	PEŠ2	741; 882	346	PEŠ2
-𒉿	U+1227F	PI	598	383	PI, TAL2, WA, WE, WI
-𒊀	U+12280	PI×A	598v	 HZL nr. 326
-𒊁	U+12281	PI×AB	598v	 HZL nr. 318
-𒊂	U+12282	PI×BI	598v	 HZL nr. 320
-𒊃	U+12283	PI×BU	598v	 HZL nr. 324
-𒊄	U+12284	PI×E	598v	 HZL nr. 322
-𒊅	U+12285	PI×I	598v	 HZL nr. 319
-𒊆	U+12286	PI×IB	598v	 HZL nr. 325
-𒊇	U+12287	PI×U	598v	 HZL nr. 323
-𒊈	U+12288	PI×U2	598v	 HZL nr. 321
-𒊉	U+12289	PI×PI	598v	383,3	
-𒊊	U+1228A	PIRIG		444	PIRIG, PIRIĜ
-𒊋	U+1228B	PIRIG×KAL	295		
-𒊌	U+1228C	PIRIG×UD	296	130	PIRIĜ3, UG, UQ
-𒊍	U+1228D	PIRIG×ZA	297		AS, AZ
-𒊎	U+1228E	PIRIG opposing PIRIG		TIDNIM, TIDNUM
-𒊏	U+1228F	RA	511	328	RA
-𒊐	U+12290	RAB	262	149	RAB
-𒊑	U+12291	RI	142	86	DAL, RE, RI, TAL
-𒊒	U+12292	RU	111	48	RU, ŠUB
-𒊓	U+12293	SA	172	104	SA
-𒊔	U+12294	SAG NUTILLU		 
-𒊕	U+12295	SAG	184	115	DUL7, SA12, SAG, SAĜ, ŠAK
-𒊖	U+12296	SAG×A	197		
-𒊗	U+12297	SAG×DU	187		
-𒊘	U+12298	SAG×DUB		 
-𒊙	U+12299	SAG×ḪA	198		
-𒊚	U+1229A	SAG×KAK	188		
-𒊛	U+1229B	SAG×KUR		 
-𒊜	U+1229C	SAG×LUM	200		
-𒊝	U+1229D	SAG×MI	195		
-𒊞	U+1229E	SAG×NUN	185		
-𒊟	U+1229F	SAG×SAL	199		
-𒊠	U+122A0	SAG×ŠID	191		
-𒊡	U+122A1	SAG×TAB		 
-𒊢	U+122A2	SAG×U2	192		
-𒊣	U+122A3	SAG×UB	193		
-𒊤	U+122A4	SAG×UM	186		
-𒊥	U+122A5	SAG×UR	196		
-𒊦	U+122A6	SAG×UŠ	190		
-𒊧	U+122A7	SAG / SAG		 
-𒊨	U+122A8	SAG gunû	512	329	DUL3, KUŠ2, KUŠU4, SUMUR, SUR2
-𒊩	U+122A9	SAL	883	554	GAL4, MI2, MUNUS, RAK, SAL
-𒊪	U+122AA	SAL LAGAB×AŠ2		 
-𒊫	U+122AB	SANGA2	 314	LAK175, SANGA2
-𒊬	U+122AC	SAR	541	152	KIRI6, MU2, SAR
-𒊭	U+122AD	ŠA	566	353	ARA, EN8, ŠA
-𒊮	U+122AE	ŠA3	599	384	ŠA3, ŠAG4, ŠALAMBI
-𒊯	U+122AF	ŠA3×A	608	390	PEŠ4
-𒊰	U+122B0	ŠA3×BAD	600		
-𒊱	U+122B1	ŠA3×GIŠ	603		
-𒊲	U+122B2	ŠA3×NE	602	385	
-𒊳	U+122B3	ŠA3×ŠU2	609	389	
-𒊴	U+122B4	ŠA3×TUR	601		PEŠ13
-𒊵	U+122B5	ŠA3×U	605		
-𒊶	U+122B6	ŠA3×U + A	606	388	BIR6
-𒊷	U+122B7	ŠA6		 ĜIŠNIMBAR, SA6, SAG9, ŠA6
-𒊸	U+122B8	ŠAB6	 295k	ŠAB6
-𒊹	U+122B9	ŠAR2	632; 633	396	
-𒊺	U+122BA	ŠE	579	367	AŠNAN2, NIGA, ŠE
-𒊻	U+122BB	ŠE ḪU		 BAZBAZX, US, UZ
-𒊼	U+122BC	ŠE / ŠE GAD / GAD GAR / GAR		 
-𒊽	U+122BD	ŠE / ŠE TAB / TAB GAR / GAR		 
-𒊾	U+122BE	ŠEG9	878	551	KIŠI6, ŠEG9
-𒊿	U+122BF	ŠEN	017	008	PISAN3, DUR10, ŠEN, ŠIN
-𒋀	U+122C0	ŠEŠ	535	331	SIS, ŠEŠ
-𒋁	U+122C1	ŠEŠ2	821	544	ADKINX, ŠEŠ2
-𒋂	U+122C2	ŠEŠLAM	100	65	ŠEŠLAM
-𒋃	U+122C3	ŠID	485	314	AKA3, LAG, ŠID, ŠUDUM, UMBISAĜ
-𒋄	U+122C4	ŠID×A	489	317	ALAL, PISAĜ3, UMBISAĜ2
-𒋅	U+122C5	ŠID×IM	487	317a	
-𒋆	U+122C6	ŠIM	362	215	ŠIM
-𒋇	U+122C7	ŠIM×A	372		
-𒋈	U+122C8	ŠIM×BAL	363	216,3; 217	
-𒋉	U+122C9	ŠIM×BULUG	367	218,2	
-𒋊	U+122CA	ŠIM×DIN	366	221	
-𒋋	U+122CB	ŠIM×GAR	373	225	BAPPIR, LUNGA3, ŠINX
-𒋌	U+122CC	ŠIM×IGI	371		
-𒋍	U+122CD	ŠIM×IGI gunû	368	219*	ŠEMBI
-𒋎	U+122CE	ŠIM×KUŠU2	375	223	ŠEMBULUGX
-𒋏	U+122CF	ŠIM×LUL	369		
-𒋐	U+122D0	ŠIM×MUG	365	216	
-𒋑	U+122D1	ŠIM×SAL	374	222	
-𒋒	U+122D2	ŠINIG		93	ŠINIG
-𒋓	U+122D3	ŠIR	115	71	ŠIR
-𒋔	U+122D4	ŠIR tenû	116		
-𒋕	U+122D5	ŠIR / ŠIR BUR / BUR		 
-𒋖	U+122D6	ŠITA	388	233,22	ŠITA
-𒋗	U+122D7	ŠU	567	354	ŠU
-𒋘	U+122D8	ŠU / inverted ŠU		
-𒋙	U+122D9	ŠU2	869	545	ŠU2, ŠUŠ2
-𒋚	U+122DA	ŠUBUR	0022	53	ŠUBUR
-𒋛	U+122DB	SI	181	112	SI, SIG9
-𒋜	U+122DC	SI gunû	182	113	SA11, SU4
-𒋝	U+122DD	SIG	881	592	SIG, SIK
-𒋞	U+122DE	SIG4	905; 906	567	GAR8, MURGU, SIG4; HZL nr. 311
-𒋟	U+122DF	SIG4 / SIG4 ŠU2	907	568	
-𒋠	U+122E0	SIK2	816	539	SIG2, SIK2, SIKI
-𒋡	U+122E1	SILA3	099	62	QA, SAL4, SILA3
-𒋢	U+122E2	SU	016	007	KUŠ "skin, hide", SU
-𒋣	U+122E3	SU / SU		 
-𒋤	U+122E4	SUD	584	373	BU gunû, SU3, SUD, SUG4
-𒋥	U+122E5	SUD2	139		SUD2, ŠITA3
-𒋦	U+122E6	SUḪUR	646	403	SUḪUR, SUMUR2
-𒋧	U+122E7	SUM	292	164	SE3, SIG10, SUM, ŠUM2
-𒋨	U+122E8	SUMAŠ	323	182	SUMAŠ
-𒋩	U+122E9	SUR	151	101	SUR
-𒋪	U+122EA	SUR9	205	122d	SUR9
-𒋫	U+122EB	TA	248	139	DA2, TA
-𒋬	U+122EC	TA*	248v	 
-𒋭	U+122ED	TA×ḪI	250		LAL3
-𒋮	U+122EE	TA×MI	251		
-𒋯	U+122EF	TA gunû		 
-𒋰	U+122F0	TAB	209	124	TAB
-𒋱	U+122F1	TAB / TAB NI / NI DIŠ / DIŠ		 
-𒋲	U+122F2	TAB squared		 
-𒋳	U+122F3	TAG	221	126	SUB6, ŠUM, TAG, TIBIR, TUKU5, ZIL2
-𒋴	U+122F4	TAG×BI		
-𒋵	U+122F5	TAG×GUD		 
-𒋶	U+122F6	TAG×ŠE		
-𒋷	U+122F7	TAG×ŠU		
-𒋸	U+122F8	TAG×TUG2		UTTU
-𒋹	U+122F9	TAG×UD		
-𒋺	U+122FA	TAK4	106	63	AZAD2, KID2, TAK4
-𒋻	U+122FB	TAR	009	12	HAŠ, KU5, KUD, SILA, TAR
-𒋼	U+122FC	TE	589	376	GAL5, TE
-𒋽	U+122FD	TE gunû	088	58	URU5, GUR8
-𒋾	U+122FE	TI	118	73	TI
-𒋿	U+122FF	TI tenû		 
-𒌀	U+12300	TIL	114	69	TIL, = BAD U+12041
-𒌁	U+12301	TIR	587	375	EZINA3, ŠE NUN / NUN, TER, TIR
-𒌂	U+12302	TIR×TAK4		
-𒌃	U+12303	TIR / TIR	587v	 NINNI5
-𒌄	U+12304	TIR / TIR GAD / GAD GAR / GAR	588	375,46a-b	
-𒌅	U+12305	TU	086	58	DU2, TU, TUD, TUM12
-𒌆	U+12306	TUG2	809	536	AZLAG2, TUBAX, TUG2; ≈NAM2
-𒌇	U+12307	TUK	827	574	DU12, TUG, TUK, TUKU
-𒌈	U+12308	TUM	354	207	IB2, EGIR4, TUM
-𒌉	U+12309	TUR	255	144	BAN3, BANDA3, DI4, DUMU, TUR
-𒌊	U+1230A	TUR / TUR ZA / ZA		 
-𒌋	U+1230B	U… 661	411	BUR3, ŠU4, U
-𒌌	U+1230C	U.GUD		 DU7, UL
-𒌍	U+1230D	U.U.U	711	472	ES2, EŠ, "30"
-𒌎	U+1230E	U/ U.PA / PA GAR / GAR		 
-𒌏	U+1230F	U/ U.SUR / SUR		 GARADIN9
-𒌐	U+12310	U/ U.U reversed /U reversed	713	474	MAŠGI, BARGI
-𒌑	U+12311	U2	490	318	KUŠ3, U2
-𒌒	U+12312	UB	504	306	UB
-𒌓	U+12313	UD	596	381	A12, AḪ3, BABBAR, ḪAD2, ḪUD2, PIRIĜ2, U4, UD, UT
-𒌔	U+12314	UD KUŠU2	611	392	AḪ6, UḪ2
-𒌕	U+12315	UD×BAD		
-𒌖	U+12316	UD×MI	597	382	ITIMA2
-𒌗	U+12317	UD×U +U+ U		ITID
-𒌘	U+12318	UD×U+U+U gunû		 
-𒌙	U+12319	UD gunû	542	337*	uncertain
-𒌚	U+1231A	UD šešig	0020	52	ITI, UD×EŠ
-𒌛	U+1231B	UD šešig×BAD		
-𒌜	U+1231C	UDUG	833	577; 578	UDUG
-𒌝	U+1231D	UM	238	134	UM
-𒌞	U+1231E	UM×LAGAB		
-𒌟	U+1231F	UM×ME + DA	241		
-𒌠	U+12320	UM×ŠA3		
-𒌡	U+12321	UM×U	239		
-𒌢	U+12322	UMBIN		92b	UMBIN
-𒌣	U+12323	UMUM		SIMUG, UMUM, UMUN2
-𒌤	U+12324	UMUM×KASKAL		 ABZUX, DE2
-𒌥	U+12325	UMUM×PA		 
-𒌦	U+12326	UN	501	312	KALAM, UĜ3, UKU3 "man", UN
-𒌧	U+12327	UN gunû		 
-𒌨	U+12328	UR	828	575	UR
-𒌩	U+12329	UR×UR	828v	575a	
-𒌪	U+1232A	UR šešig	829		reconstruction
-𒌫	U+1232B	UR2	341	203	UR2
-𒌬	U+1232C	UR2×A + ḪA	346		
-𒌭	U+1232D	UR2×A + NA		
-𒌮	U+1232E	UR2×AL	343		
-𒌯	U+1232F	UR2×ḪA	347	185,5	
-𒌰	U+12330	UR2×NUN	342	204	
-𒌱	U+12331	UR2×U2	344		
-𒌲	U+12332	UR2×U2 + AŠ	345	185	
-𒌳	U+12333	UR2×U2 + BI		 
-𒌴	U+12334	UR4	835	594	UR4
-𒌵	U+12335	URI	574	359	BUR/BUR, URI
-𒌶	U+12336	URI3		URIN, URI3, URU3
-𒌷	U+12337	URU	071	38	ERI, IRI, RE2, RI2, U19, URU
-𒌸	U+12338	URU×A	081		ARX
-𒌹	U+12339	URU×AŠGAB		 
-𒌺	U+1233A	URU×BAR	073	40	UKKIN, UNKEN
-𒌻	U+1233B	URU×DUN		 
-𒌼	U+1233C	URU×GA	076		
-𒌽	U+1233D	URU×GAL		 ARALIX
-𒌾	U+1233E	URU×GAN2 tenû	074		
-𒌿	U+1233F	URU×GAR	083		ERIM3
-𒍀	U+12340	URU×GU	084		GUR5, GURU5, GURUŠ3, ŠAKIR, ŠEGX
-𒍁	U+12341	URU×ḪA	082		
-𒍂	U+12342	URU×IGI	079		SILIG
-𒍃	U+12343	URU×IM		
-𒍄	U+12344	URU×IŠ		
-𒍅	U+12345	URU×KI		
-𒍆	U+12346	URU×LUM		 
-𒍇	U+12347	URU×MIN	080		ĜIŠGAL, U18, ULU3, URU17
-𒍈	U+12348	URU×PA		
-𒍉	U+12349	URU×ŠE		
-𒍊	U+1234A	URU×SIG4		
-𒍋	U+1234B	URU×TU	072		ŠEG5
-𒍌	U+1234C	URU×U + GUD		 
-𒍍	U+1234D	URU×UD	077		
-𒍎	U+1234E	URU×URUDA	075	41	BANŠUR
-𒍏	U+1234F	URUDA	230	132	DAB6, URUD, URUDA, URUDU
-𒍐	U+12350	URUDA×U	230		
-𒍑	U+12351	UŠ	381	211	NITA, US2, UŠ
-𒍒	U+12352	UŠ×A	384	211a	
-𒍓	U+12353	UŠ×KU	383		
-𒍔	U+12354	UŠ×KUR		
-𒍕	U+12355	UŠ×TAK4	382	51*	
-𒍖	U+12356	UŠX	583	372	LAK672, UŠX
-𒍗	U+12357	UŠ2		69	UŠ2, ≈BAD
-𒍘	U+12358	UŠUMX		 UŠUMX
-𒍙	U+12359	UTUKI		 UTUKI
-𒍚	U+1235A	UZ3	203	122b	UD5, UZ3
-𒍛	U+1235B	UZ3×KASKAL	204	122c	
-𒍜	U+1235C	UZU	311	171	UZU
-𒍝	U+1235D	ZA	851	586	ZA
-𒍞	U+1235E	ZA tenû	854	379; 380	AD4, AS4, ERIM tenû
-𒍟	U+1235F	ZA squared×KUR	855	531; 588	
-𒍠	U+12360	ZAG	540	332	ZA3, ZAG, ZAK
-𒍡	U+12361	ZAMX		ZAMX
-𒍢	U+12362	ZE2	259	147	ZE2, ZI2, AB×PA
-𒍣	U+12363	ZI	140	84	SE2, SI2, ṢI2, ZE, ZI, ZID, ZIG3
-𒍤	U+12364	ZI / ZI	101	66	
-𒍥	U+12365	ZI3		536	ZI3, ZID2; ≈EŠ2
-𒍦	U+12366	ZIB	628	395	ZIB
-𒍧	U+12367	ZIB KABA tenû		 
-𒍨	U+12368	ZIG	336	190	ḪAŠ2, NINDA2×U +U+ U, ZIB2, ZIG, ZIK,
-𒍩	U+12369	ZIZ2	 339	ZIZ2
-𒍪	U+1236A	ZU	015	006	ZU
-𒍫	U+1236B	ZU5		 ZU5
-𒍬	U+1236C	ZU5×A		 AZU
-𒍭	U+1236D	ZUBUR	648	364/5,2-3	ZUBUR
-𒍮	U+1236E	ZUM	884	555	ḪAŠ4, RIG2, SUM2, ZUM
-𒍯	U+1236F	KAP ELAMITE		 
-𒍰	U+12370	AB×NUN		
-𒍱	U+12371	AB2×A		 
-𒍲	U+12372	AMAR×KUG		
-𒍳	U+12373	DAG KISIM5×U2 + MAŠ		 
-𒍴	U+12374	DAG3		DAG3
-𒍵	U+12375	DIŠ + ŠU		
-𒍶	U+12376	DUB×ŠE		
-𒍷	U+12377	EZEN×GUD		
-𒍸	U+12378	EZEN×ŠE		 
-𒍹	U+12379	GA2×AN + KAK + A		
-𒍺	U+1237A	GA2×AŠ2		 
-𒍻	U+1237B	GE22		
-𒍼	U+1237C	GIG		 GI17, GIG, MI NUNUZ, SIMX
-𒍽	U+1237D	ḪUŠ		 ḪUŠ(LAK240)
-𒍾	U+1237E	KA×ANŠE		 
-𒍿	U+1237F	KA×AŠ3		
-𒎀	U+12380	KA×GIŠ		
-𒎁	U+12381	KA×GUD		
-𒎂	U+12382	KA×ḪI×AŠ2		 
-𒎃	U+12383	KA×LUM		
-𒎄	U+12384	KA×PA		 
-𒎅	U+12385	KA×ŠUL		
-𒎆	U+12386	KA×TU		 
-𒎇	U+12387	KA×UR2		
-𒎈	U+12388	LAGAB×GI		
-𒎉	U+12389	LU2 šešig×BAD		 ADX
-𒎊	U+1238A	LU2×EŠ2 + LAL		 
-𒎋	U+1238B	LU2×ŠU		
-𒎌	U+1238C	MEŠ		 MEŠ
-𒎍	U+1238D	MUŠ3×ZA		 
-𒎎	U+1238E	NA4		 NA4, NI UD
-𒎏	U+1238F	NIN		 E5, EREŠ, NIN, SAL TUG2
-𒎐	U+12390	NIN9		NIN9, SAL KU
-𒎑	U+12391	NINDA2×BAL		
-𒎒	U+12392	NINDA2×GI		 
-𒎓	U+12393	NU11 rotated 90°		
-𒎔	U+12394	PEŠ2*		 
-𒎕	U+12395	PIR2		PIR2
-𒎖	U+12396	SAG×IGI gunû		
-𒎗	U+12397	TI2		 TI2
-𒎘	U+12398	UM×ME		 
-𒎙	U+12399	U.U		 MIN3
-
-Numbers and Punctuation
-	codepoint	name	Borger
-(2003)	Borger
-(1981)	comments
-𒐀	U+12400	two AŠ	002	2	2, = U+1212C
-𒐁	U+12401	three AŠ	004		3, EŠ6
-𒐂	U+12402	four AŠ	215	124,42	4, LIMMU2, LIMM2, TAB.TAB
-𒐃	U+12403	five AŠ	216		5, IA7, TAB.TAB.AŠ
-𒐄	U+12404	six AŠ	217		6, AŠ4, TAB.TAB.TAB
-𒐅	U+12405	seven AŠ	218		7, IMIN2, TAB.TAB.TAB.AŠ
-𒐆	U+12406	eight AŠ	219		8, USSU2, TAB.TAB.TAB.TAB
-𒐇	U+12407	nine AŠ	220		9, ILIMMU2, TAB.TAB.TAB.TAB.AŠ
-𒐈	U+12408	three DIŠ	834	593	180, EŠ5
-𒐉	U+12409	four DIŠ	851; 852; 853	316	240, ZA, LIMMU5, NIGIDALIMMU, = U+1235D
-𒐊	U+1240A	five DIŠ	861	598a	300, IA2
-𒐋	U+1240B	six DIŠ	862	598b	360, AŠ3
-𒐌	U+1240C	seven DIŠ	863	598c	420
-𒐍	U+1240D	eight DIŠ	864	598d	480
-𒐎	U+1240E	nine DIŠ		540
-𒐏	U+1240F	four U	713	474	40, NIMIN
-𒐐	U+12410	five U	714	475	50, NINNU
-𒐑	U+12411	six U	715	476	60
-𒐒	U+12412	seven U	716	477	70
-𒐓	U+12413	eight U	717	478	80
-𒐔	U+12414	nine U	718	479	90
-𒐕	U+12415	one GEŠ2		
-𒐖	U+12416	two GEŠ2		
-𒐗	U+12417	three GEŠ2		
-𒐘	U+12418	four GEŠ2		 
-𒐙	U+12419	five GEŠ2		 
-𒐚	U+1241A	six GEŠ2		
-𒐛	U+1241B	seven GEŠ2		
-𒐜	U+1241C	eight GEŠ2		
-𒐝	U+1241D	nine GEŠ2		 
-𒐞	U+1241E	one GEŠU	824	534	GEŠ2.U; 600 or 70
-𒐟	U+1241F	two GEŠU		1200 or 80
-𒐠	U+12420	three GEŠU		1800 or 90
-𒐡	U+12421	four GEŠU		 2400 or 100
-𒐢	U+12422	five GEŠU		 3000 or 110
-𒐣	U+12423	two ŠAR2		
-𒐤	U+12424	three ŠAR2		
-𒐥	U+12425	three ŠAR2 variant form		 
-𒐦	U+12426	four ŠAR2		 
-𒐧	U+12427	five ŠAR2		 
-𒐨	U+12428	six ŠAR2		
-𒐩	U+12429	seven ŠAR2		
-𒐪	U+1242A	eight ŠAR2		
-𒐫	U+1242B	nine ŠAR2		 
-𒐬	U+1242C	one ŠARU	653	409	36,000
-𒐭	U+1242D	two ŠARU		72,000
-𒐮	U+1242E	three ŠARU		108,000
-𒐯	U+1242F	three ŠARU variant form		 108,000
-𒐰	U+12430	four ŠARU		 144,000
-𒐱	U+12431	five ŠARU		 180,000
-𒐲	U+12432	ŠAR2×GAL.DIŠ	651	408	216,000
-𒐳	U+12433	ŠAR2×GAL.MIN	652	408	432,000
-𒐴	U+12434	one BURU	662	350,8	U-gunû
-𒐵	U+12435	two BURU		
-𒐶	U+12436	three BURU		
-𒐷	U+12437	three BURU variant form		 
-𒐸	U+12438	four BURU		 
-𒐹	U+12439	five BURU		 
-𒐺	U+1243A	EŠ16	505		3, = U+1203C
-𒐻	U+1243B	EŠ21	210		3
-𒐼	U+1243C	LIMMU	859; 860	 4, NIG2, GAR, NINDA
-𒐽	U+1243D	LIMMU4	506		4
-𒐾	U+1243E			
-𒐿	U+1243F			
-𒑀	U+12440	AŠ9	536		6, EŠ16.EŠ16
-𒑁	U+12441	IMIN3	537		7, UMUN9
-𒑂	U+12442	IMIN	863		7
-𒑃	U+12443	IMIN variant form	866		7
-𒑄	U+12444	USSU	867		8
-𒑅	U+12445	USSU3	538		8
-𒑆	U+12446	ILIMMU	868		9
-𒑇	U+12447	ILIMMU3	539		9, EŠ16.EŠ16.EŠ16
-𒑈	U+12448	ILIMMU4	577		9
-𒑉	U+12449	DIŠ / DIŠ / DIŠ	865v	 9
-𒑊	U+1244A	two AŠ tenû	593		
-𒑋	U+1244B	three AŠ tenû	629		
-𒑌	U+1244C	four AŠ tenû	854	379; 380	ZA tenû, ERIM tenû
-𒑍	U+1244D	five AŠ tenû		
-𒑎	U+1244E	six AŠ tenû		 
-𒑏	U+1244F	one BAN2	122		= U+12047
-𒑐	U+12450	two BAN2		
-𒑑	U+12451	three BAN2		
-𒑒	U+12452	four BAN2		 
-𒑓	U+12453	four BAN2 variant form		
-𒑔	U+12454	five BAN2		 
-𒑕	U+12455	five BAN2 variant form		
-𒑖	U+12456	NIGIDAMIN	847, 848	 
-𒑗	U+12457	NIGIDAEŠ	850		
-𒑘	U+12458	one EŠE3		= U+12041, U+12300
-𒑙	U+12459	two EŠE3		= U+12049
-𒑚	U+1245A	one third	826	571	ŠUŠANA
-𒑛	U+1245B	two thirds	832	572	
-𒑜	U+1245C	five sixths	838	573	KINGUSILA
-𒑝	U+1245D	one third variant form		
-𒑞	U+1245E	two thirds variant form		 
-𒑟	U+1245F	one eighth		
-𒑠	U+12460	one quarter		 
-𒑡	U+12461	Old Assyrian one sixth	630		Kültepe only
-𒑢	U+12462	Old Assyrian one quarter		
-𒑰	U+12470	Old Assyrian word divider		 
-𒑱	U+12471	vertical colon	592		
-𒑲	U+12472	diagonal colon	592		
-𒑳	U+12473	diagonal tricolon		 
 su2 	𒋙 
 hu2 	𒀪
 BAN2 	𒑑 
@@ -2684,7 +1653,6 @@ ge23 	𒀹
 ge24 	𒍻
 giguru 	𒌋  	"edge"
 giguru 	𒆂 	 giguru @ Gurgel "swallow"
-sag
 giĝ4 	𒂆
 gar9  	𒂵
 ga10  	𒂵𒉌
@@ -2864,7 +1832,6 @@ bú 	𒆜
 bu2 	𒆜 
 biz 	𒁉
 biz2 	𒄐 
-𒋃 •rak ≈ 
 bisag 	𒂷 	 "basket" 𒂷𒋃 GÁ.rib 𒄀𒂷 Korb 
 bisag2 	𒋃 	 "basket"
 bisag3 	𒋄 	 "basket"
@@ -2895,8 +1862,8 @@ bar7 	𒉋 	BAR₇/NE burn brazier
 
 bir9 	𒉋 	BIR₉ burn 
 bar7 	𒉋 	BAR₇/NE burn brazier 
-bIL 𒉈
-bíL 𒉋  
+bIL 	𒉈
+bíL 	𒉋  
 bil2 	𒉋 
 bil3 	𒄑𒉋 
 bed3	𒆪 	 "piss" (vulgar)  
@@ -3041,7 +2008,7 @@ dilib5 	𒊦
 dilib6 	𒊟
 di5 	𒊑  	•diarrhea Durchfall "bowel disorder"
 
-𒇽 LÚ ≈ 𒀠 al in 
+# 𒇽 LÚ ≈ 𒀠 al in 
 dubal 	𒀥
 dubal2 	𒀦
 dubal4 	𒈆 
@@ -3325,75 +2292,13 @@ eme5  	𒊩𒄸 	SAL.HUB₂	imērum ḥimār “donkey”
 eme7  	𒊩𒀠 	SAL.AL	imērum ḥimār “donkey”
 emex  	𒊩𒂗 	SAL.EN	imērum ḥimār “donkey”
 
-GA2×A+DA+ḪA   𒂸
-GA2×A+ḪA  𒂹
-GA2×A+IGI   𒂺
-GA2×AB2 tenû+TAB  𒂻
-GA2×AN  𒂼
-GA2×AŠ  𒂽
-GA2×AŠ2+GAL   𒂾
-GA2×BAD   𒂿
-GA2×BAR+RA  𒃀
-GA2×BUR   𒃁
-GA2×BUR+RA  𒃂
-GA2×DA  𒃃
-GA2×DI  𒃄
-GA2×DIM×ŠE  𒃅
-GA2×DUB   𒃆
-GA2×EL  𒃇
-GA2×EL+LA   𒃈
-GA2×EN  𒃉
-GA2×EN×GAN2 tenû  𒃊
-GA2×GAN2 tenû   𒃋
-GA2×GAR   𒃌
-GA2×GI  𒃍
-GA2×GI4   𒃎
-GA2×GI4+A   𒃏
-GA2×GIR2+SU   𒃐
-GA2×ḪA+LU+EŠ2   𒃑
-GA2×ḪAL   𒃒
-GA2×ḪAL+LA  𒃓
-GA2×ḪI+LI   𒃔
-GA2×ḪUB2  𒃕
-GA2×IGI gunû  𒃖
-GA2×IŠ+ḪU+AŠ  𒃗
-GA2×KAK   𒃘
-GA2×KASKAL  𒃙
-GA2×KID   𒃚
-GA2×KID+LAL   𒃛
-GA2×KU3+AN  𒃜
-GA2×LA  𒃝
-GA2×ME+EN   𒃞
-GA2×MI  𒃟
-GA2×NUN   𒃠
-GA2×NUN / NUN   𒃡
-GA2×PA  𒃢
-GA2×SAL   𒃣
-GA2×SAR   𒃤
-GA2×ŠE  𒃥
-GA2×ŠE+TUR  𒃦
-GA2×ŠID   𒃧
-GA2×SUM   𒃨
-GA2×TAK4  𒃩
-GA2×U   𒃪
-GA2×UD  𒃫
-GA2×UD+DU   𒃬
-GA2×AN+KAK+A  𒍹
-GA2×AŠ2   𒍺
-GA2×AN A TU   𒂼𒀀𒌅
-GA2×AN AN MUŠ3  𒂼𒀭𒈹
-GA2×AN MUŠ3   𒂼𒈹 
-GA2×AN DUN3 gunû  𒂼𒋆 
-GA2×AN ŠIM  𒂼𒋆 
-GA2×AN ŠIM×GAR  𒂼𒋆 
-GA2×AN TU   𒂼𒌅 
 
 emedub 	𒃆  	GA₂×DUB
 emedub2 	𒃧  	GA₂×ŠID
 
 emeĝarx 	𒅶  		KA×ME+GI "magic" ≈ (|KAx(ME.GAR)|) 
-𒅶	KA× ME+GI "magic" ≈ emeĝarₓ |KA×(ME.GAR)|
-𒅴𒃻 KA×ME+GAR ≈ 𒂊𒈨𒃻 e-me-ĝar emeĝarₓ "Magier"
+# 𒅶	KA×ME+GI "magic" ≈ emeĝarₓ |KA×(ME.GAR)|
+# 𒅴𒃻 KA×ME+GAR ≈ 𒂊𒈨𒃻 e-me-ĝar emeĝarₓ "Magier"
 
 emerah  	 𒊩𒄸 		|SAL.HUB₂|	
 emerahx 	𒌓𒊩𒄸 	UD.SAL.HUB₂
@@ -3416,15 +2321,12 @@ en7 	𒍠
 enku 	𒍠𒄩  	|ZAG.HA|	
 enkud 	𒍠𒄩
 
-(10 instances)
-
 enkum 	𒂗𒉽𒅊𒉣𒈨𒂬 	"temple treasurer" Akk. enkummu
 
 enna 	𒎎𒂗 	NA.EN 	𒉌𒌓𒂗  ennakku
 
-ennigi [PRIEST] wr. ennigi2
-
-ennigi2 	𒂗 𒉭𒁶  "a priest" Akk. ennigû EN.NUNUZ.DIM₂|	 	
+ennigi 	𒂗𒉭𒁶
+ennigi2 	𒂗𒉭𒁶  "a priest" Akk. ennigû EN.NUNUZ.DIM₂|	 	
 
 
 nuĝx 	𒉣 	NUN ≈ NUNG =: nuĝ
@@ -3439,7 +2341,7 @@ epig 	𒋝  	pug(SIG) "a drinking vessel" Akk. mašqû
 hab2  	𒇥
 hab   	𒆸
 
-Akk. hurru > hole ≈ Kuhle
+# Akk. hurru > hole ≈ Kuhle
 habruda 	𒆢 	KI×U|	
 habruda2 	𒆡 	KI×BAD|	
 habruda3 	𒊰 	ŠA₃×BAD|	
@@ -3462,7 +2364,7 @@ hubhub  	𒋄 	"tube"
 hubhub  	𒋄 	|ŠID×A|	 huphuppu "a container".
 hubhub2 	𒋅 	ŠID×IM
 
-halba [BUCKET] (1x: Old Babylonian) wr. halba; halba5 
+# halba [BUCKET] (1x: Old Babylonian) wr. halba; halba5 
 
 lal2 	𒇳
 
@@ -3480,7 +2382,7 @@ huduš 	𒌅  	"a social status, bridegroom?" Akk. huduššu
 
 dul6 	𒇯 	 LAGAR@gunu
 
-halba [FROST] "frost, ice, cold weather; (to be) cold" Akk. halpû; kuşşû; mammû; takşâtu; šurīpu
+# halba [FROST] "frost, ice, cold weather; (to be) cold" Akk. halpû; kuşşû; mammû; takşâtu; šurīpu
 halba2 	𒍝𒈹𒁲 	ZA.MUŠ₃.DI
 halba6 	𒀀𒈹𒁲 	A.MUŠ₃.DI
 halba 	𒈺𒁲 	MUŠ₃×A+DI|
@@ -3551,7 +2453,7 @@ tag4 	𒋺 	TAK₄ ≈ 𒇯 DU6
 
 i7  	𒀀𒇉 		|A.LAGAB×HAL|	id2 
 i8  	𒇉   	|LAGAB×HAL|	id3 
-id2   𒀀𒇉 		|A.LAGAB×HAL|	
+id2 	𒀀𒇉 		|A.LAGAB×HAL|	
 id3  	𒇉   	|LAGAB×HAL|	 
 id6 	𒀀𒇉𒃲	|A.LAGAB×HAL.GAL|	
 id7 	𒀀𒇉𒁲	|A.LAGAB×HAL.DI|	
@@ -3630,7 +2532,7 @@ ildag4 	𒄑𒃿 	GIŠ.TIN×KUR
 ildag3 	𒄑𒄠 	GIŠ.GUD×KUR 	
 ildagx 	𒄑 	 	GIŠ 	
 
-𒄟 𒄑𒄟 𒄑𒃿 𒄑𒄠 𒄑𒋥 𒄑 ildag ildakku тирек tirek adāru "poplar tree"
+# 𒄟 𒄑𒄟 𒄑𒃿 𒄑𒄠 𒄑𒋥 𒄑 ildag ildakku тирек tirek adāru "poplar tree"
 
 ildum 	𒅆𒂠𒁺𒂟
 ildum2 	𒅆𒉄𒁍
@@ -3890,3 +2792,731 @@ aš@z 	𒀹
 bu%bu 	𒁐
 ha@t@g 	𒄪	 	≈ 𒆦𒄪	 𒄫
 garadin3 	𒊽	 	𒊺𒊺𒋰𒋰𒃻𒃻
+
+
+### AUTO:
+la6 	𒆗
+laban 	𒂯
+la7 	𒌓
+lahtan4 	𒉵
+lahtan3 	𒉹
+lamhu 	𒆴
+lib5 	𒊤
+libin 	𒂱
+lidda 	𒋖
+lil8 	𒈑
+lillan 	𒈗
+lu9 	𒉺
+lu6 	𒌨
+lubun 	𒂲
+lud 	𒂁
+lugud2 	𒆸
+luĝ2 	𒉺
+lum3 	𒂁
+lumha 	𒁆
+GI₄ 	𒀀
+EŠ₂ 	𒁇
+ŠA₆ 	𒁇
+GIR₂@g 	𒄉
+dinig3 	𒈊
+DUB₂ 	𒄭
+giguru3 	𒆂
+girim 	𒆸
+giriš 	𒄵
+gi4-X 	𒀀
+gur14 	𒅗
+gur13 	𒉌
+gurdub 	𒃍
+BUR₂ 	𒍀
+HA@g 	𒄫
+ha-X 	𒄩
+i-a 	𒅀
+IL₂ 	𒅆
+GAN₂@t 	𒅆
+MUŠ₃@g 	𒅆
+immal2 	𒉦
+immen 	𒆉
+immen2 	𒅘
+immindu 	𒇌
+immindu2 	𒇅
+kaš2 	𒆜
+kaš3 	𒍒
+gir8 	𒆸
+kuš7 	𒅖
+kušum2 	𒈜
+mah2 	𒀠
+mahra 	𒈾
+makkaš2 	𒀸
+mangaga 	𒅾
+mangara 	𒁑
+me7 	𒃙
+ma6 	𒈨
+mel 	𒅖
+meli2 	𒅲
+menari 	𒃻
+mezem? 	𒋄
+min6 	𒋰
+minbulug 	𒍏
+mu5 	𒉌
+mu6 	𒉺
+mud2 	𒁁
+mud5 	𒋆
+mud6 	𒊬
+mudla 	𒁍
+mug2 	𒊩
+muh3 	𒊣
+mul2 	𒋼
+mul3 	𒄮
+mul4 	𒌌
+mun4 	𒋀
+murgu3 	𒅺
+murum 	𒅗
+muru3 	𒅎
+murub6 	𒌙
+muššagana 	𒇚
+muštaptin 	𒁃
+ne3 	𒊊
+nesaĝ2 	𒋃
+GIR₂ 	𒉏
+ninim 	𒊲
+nisig 	𒊬
+nisku 	𒊊
+niš 	𒎙
+nita2 	𒀴
+nu7 	𒀕
+nug 	𒋐
+nug2 	𒋊
+nun3 	𒁍
+pa9 	𒁇
+pirig2 	𒌓
+pirig3 	𒊌
+TUL2 	𒇥
+puzur5 	𒅤
+puzur2 	𒎙
+ra3 	𒌓
+raba 	𒊐
+rag 	𒊩
+ra-ah 	𒀀
+rašu 	𒆳
+ru-gu2 	𒃮
+sa9 	𒈦
+sabad2 	𒂿
+sabad3 	𒃖
+sad2 	𒃪
+sad3 	𒂿
+sa2-di 	𒊭
+sag8 	𒆗
+sag10 	𒅆
+sag12 	𒅊
+sag7 	𒃶
+sagkurini 	𒄭
+sagkurun 	𒁸
+saĝ4 	𒈗
+KEŠ₂ 	𒊕
+saĝdu 	NA
+saĝĝar2 	𒅗
+saĝ-ki 	𒅆
+saĝtak 	𒀸
+santak3 	𒀹
+saĝtak4 	𒁹
+santak2 	𒍻
+saguš 	𒅗
+sah 	𒆤
+sah4 	𒄗
+sahar2 	𒊬
+sal3 	𒉌
+sal2 	𒁲
+salugub 	𒀸
+sam2 	𒉚
+samag3 	𒌡
+samag6 	𒅊
+sas 	𒋀
+se11 	𒋟
+se28 	𒅆
+sed4 	𒁇
+še11 	𒈜
+ses 	𒋀
+si14 	𒂁
+sidug 	𒇂
+sidug2 	𒇄
+siki2 	𒌓
+šikin2 	𒂁
+sil5 	𒂬
+silig2 	𒋹
+silig4 	𒋵
+šilig 	𒍂
+šilig6 	𒅗
+silim2 	𒆗
+simed 	𒀸
+sir5 	𒉡
+siraš3 	𒋋
+si-sa2 	𒋛
+sub2 	𒁻
+su-ub 	𒆠
+sub5 	𒈰
+subur 	𒋚
+subur2 	𒈛
+sud5 	𒂬
+sug6 	𒋢
+sug2 	𒁻
+sug7 	𒅲
+suh5 	𒆪
+suh7 	𒈬
+suhuš2 	𒉟
+suku5 	𒅆
+sul2 	𒉌
+sullat2 	𒉺
+sullim 	𒂙
+sum4 	𒅾
+sur4 	𒊯
+sur5 	𒇲
+sur8 	𒇡
+tab4 	𒎙
+tal3 	𒀸
+tal4 	𒁹
+teĝ4 	𒋾
+tehi2 	𒌝
+dih2 	𒌝
+teme 	𒉀
+temen 	𒋼
+ten 	𒋼
+tešlug 	𒈊
+tibir3 	𒋹
+tibir5 	𒋵
+tibnu 	𒋿
+tilhar 	𒂿
+tilla 	𒌵
+tir5 	𒉼
+tu14 	𒋃
+tu6 	𒅲
+tu7 	𒄰
+tu10 	𒄽
+tuba3 	𒋃
+tugure 	𒅤
+tum4 	𒉏
+tur5 	𒌅
+u20 	𒊺
+u9 	𒂦
+KU₄ 	𒅇
+ubi 	𒃴
+ubi2 	𒋦
+ubila 	¿
+ubila2 	¿
+ŠU₂ 	𒌓
+udul5 	𒁟
+udul6 	𒁭
+ug2 	𒊊
+ugal 	𒆋
+ugu4 	𒆪
+ugunu2 	𒃽
+ukum 	𒅖
+ul6 	𒌓
+ul5 	𒂬
+ul2 	𒉡
+ulul 	𒄒
+ŠAR₂ 	𒌌
+ula2 	𒃪
+ulal 	𒁁
+ulil 	𒍻
+ullu 	𒌌
+uman 	𒄴
+umbara 	𒂬
+umun11 	𒆹
+umun12 	𒇩
+unu8 	𒍑
+unu12 	𒁐
+unugi 	𒀐
+UŠ₂ 	𒅗
+uraš 	𒅁
+urbigu 	𒌩
+urgilim 	𒉪
+urrub 	𒂁
+ursub 	𒂁
+urta 	𒅁
+uru18 	𒌸
+uru10 	𒊘
+urud2 	𒁾
+urum3 	𒊘
+urutamga 	𒌾
+usi 	𒃥
+uš3 	𒃣
+uš5 	𒉦
+uš6 	𒉥
+ušbar2 	𒍬
+ušu 	𒍀
+ušu3 	𒌍
+ušum 	𒍀
+ušuš 	𒃠
+uttu2 	𒋃
+utul2 	𒄰
+utuwa 	𒁭
+uzaglal 	𒀹
+uzu2 	𒍬
+zagga2 	𒍝
+zaĝa 	𒉌
+sulug 	𒈜
+zandara 	𒋃
+zanzana 	𒄵
+zar3 	𒋧
+ze4 	𒀓
+ŠA₃ 	𒍥
+zikum 	𒇉
+zinanutu 	𒄮
+zipah 	𒈦
+ziz3 	𒄮
+ziz4 	𒄓
+zizanu 	𒆳
+SUD₂ 	𒅗
+zukura 	𒆆
+TAK₄ 	𒅅
+ĝalga 	𒃌
+ĝarim2 	𒁘
+ĝeš3 	𒍑
+geš2 	𒁹
+UR₄ 	𒄑
+ša5 	𒀝
+šabalbal 	𒆰
+HUL₂ 	𒍥
+šaĝar 	𒆹
+šahan3 	𒂄
+šahan2 	𒈲
+šar2-šar2 	𒅗
+šar3 	𒈗
+šarag 	𒌓
+šaran 	𒁙
+šargad 	𒄲
+šaru 	𒄶
+šašku 	𒁍
+šatam 	𒈜
+še-X-X 	𒊻
+šedu3 	𒀆
+šedu2 	𒌜
+šed15 	𒅗
+šembizi 	𒋆
+šembulug2 	¿
+šembulug3 	𒋌
+šembulug5 	𒋉
+šemešal 	𒋑
+šen2 	𒍏
+šen4 	𒁾
+šennur 	𒄒
+šer10 	𒈲
+šerim 	𒋳
+šerim2 	𒇡
+šeš3 	𒀅
+šibir2 	𒂙
+šid3 	𒉪
+šikangu 	𒀿
+šil3 	𒌋
+šilam 	𒉦
+šallam2 	𒉥
+šilig7 	𒅭
+širi 	|KA×X|
+šub6 	𒋃
+šud3 	𒆃
+šukur2 	𒉻
+šurum3 	𒇆
+šurun4 	𒁨
+šuš4 	𒋳
+šušmaš 	𒀨
+šušu 	𒅗
+šutug 	𒉻
+šuzi 	𒌨
+ĝin 	𒁺
+bulug2 	𒍀
+pa2 	𒁀
+nimbar 	𒁇
+kur5 	𒋻
+peš7 	𒌉
+pihu2 	𒉯
+bu8 	𒁔
+sah7 	𒋆
+tu3 	𒍏
+di3 	𒋾
+sig18 	𒆥
+dili2 	𒇺
+uh4 	𒅜
+ursub2 	𒆗
+uru16 	𒂗
+wa2 	𒁀
+ri3 	𒆸
+zurzub2 	𒆗
+šakir3 	𒌼
+šakira3 	𒌼
+šilam2 	𒉥
+šutur 	𒈤
+min2 	𒊩
+duruna2 	𒇌
+henbur 	𒆕
+kig2 	𒆥 	
+
+# AUTO 2
+
+lah5 	𒁺𒁺
+lah2 	𒂟
+lahar 	𒇆𒄞
+lahar2 	𒁱
+lahhušu 	𒋞𒋞𒋙
+lam7 	𒄑𒇵
+lamahuš 	𒍣𒍣𒆸
+la'u 	𒇳
+la'u3 	𒇳𒉌
+la'u4 	𒇳𒆕
+la'u5 	𒇳𒀀
+lidda2 	𒊮𒁹
+lidim 	𒀢
+ligidba 	𒋆𒀭𒊩𒌆𒅁
+lil3 	𒋙𒌋𒌋𒌋
+lil5 	𒋙𒉈
+limmu3 	𒐘
+liri4 	𒀉𒆗
+liri5 	𒀉𒀸
+lu10 	𒁖𒆨·x
+lugud4 	𒇭𒋧
+luĝa 	𒉺𒂷
+luhša 	𒄴𒈨𒌋
+luhum 	𒈝𒈝
+lukur 	𒊩𒈨
+f 	𒊩𒇽𒁉𒁷𒈾
+lulim 	𒄊·𒇻𒅆
+E₂ 	𒈦𒄘𒃼
+DIM4 	𒉽𒉽
+dinig2 	𒇽·𒈨𒂗
+ELLES316 	¿
+emengi 	𒅴𒄀
+gabar 	𒉺𒁣
+GAM+GAM 	𒃵𒃵𒄩
+ganzer2 	𒉈𒋛𒀀
+gar10 	𒂵𒉌
+garadin4 	𒆸𒆸
+GEŠTUG2 	𒄑𒌆𒉿𒊺𒉀
+girah 	𒋗𒁶
+girid2 	𒄊·𒃷@t
+guhšu2 	𒈝𒈝𒋙
+gur21 	𒂊𒌈
+gur9 	𒉒
+gurdub2 	𒂷·𒄄
+imĝaĝa3 	𒀾𒀭
+imĝaĝa2 	𒀾𒀭𒈾
+imhur4 	𒅆𒀀
+imhur2 	𒅆𒁉
+imhur3 	𒅆𒂵
+immal3 	𒃻𒋗𒂂
+imminte 	𒅴𒋼
+irgi 	𒄊𒍞
+kašbir 	𒁉𒀀𒋤
+kušlug 	𒆠𒉈
+mabi2 	𒀀𒈹𒁲
+madal 	𒄑𒁍
+malla 	𒄑𒁍
+maškim 	𒉺𒁽
+mašmin 	𒈦𒈫
+me9 	𒆸·šita@t𒄑
+me11 	𒀝·𒋖𒄑
+megida 	𒋰𒋾
+mel3 	𒆠𒉈
+men4 	𒇘𒂗
+mermer3 	𒅎?
+meze 	𒀖·𒈨𒂗
+mim2 	𒈹
+minbulug2 	𒁑𒁑
+mudru2 	𒂗𒆪𒀀
+mudra6 	𒈬𒁍
+mulu4 	𒃷𒁍
+munu3 	𒂷·𒁴·𒊺
+munsub2 	𒋠𒇴𒋦
+munu2 	𒆠𒉈
+munzer 	𒆠𒀭𒋀𒆠
+mur10 	𒌆
+murub2 	𒊩𒇬
+murub3 	𒂗𒈨𒇬
+murum5 	𒊩𒌓𒂔
+murum4 	𒌫·𒌑𒀸
+uru8 	𒌫
+muzug 	𒌑𒊕
+muzug2 	𒌑𒅗
+nab 	𒀭𒀭
+nenkum 	𒊩𒌆𒉽𒅊𒉣𒈨𒂬
+ne4 	𒋙𒉈
+nigru 	𒅙𒆬
+niĝar 	𒌋𒌓𒆤
+niĝin5 	𒇳𒆸
+niĝin9 	𒇲𒊬
+niĝin3 	𒌋𒌓𒆤
+ŠU+TAG4 	𒋗𒋺
+nimur 	𒆠𒉈
+nindaba 	𒉻𒀭𒈹
+numma 	𒉢𒉢𒁓𒁓𒄷
+nunuzzi 	𒂗𒉭𒍣𒀭𒌓
+pagra3 	𒇽·𒐘
+palil2 	𒅆𒂠𒁺𒂟
+pa6 	𒉽𒅖
+pil6 	𒉢
+piš10 	𒆠𒀀
+puglu 	𒊮𒄀
+puzur4 	𒅗·𒃷@t𒊭
+puzur3 	𒌋𒍠
+rab3 	𒄑𒈗
+RIG7 	𒉺𒄸𒁺
+rig10 	𒉺𒁣
+rig9 	𒄸𒁺
+sag2 	𒉺𒃶
+sig11 	𒉺𒃶
+sagdul 	𒌋𒊕
+saĝa2 	𒊫
+saĝa4 	𒅍𒁆
+saĝa3 	𒅍𒈣𒅊
+saĝa5 	𒂵𒍚𒅊
+saĝa6 	𒂵𒈣𒅊
+saĝmaš 	𒁁𒆜
+sagmaš 	𒁁𒆜
+saĝmin 	𒈦𒌋𒌋
+samag2 	𒌠
+samag4 	𒌡𒆸
+saman 	𒂠𒋤𒉣𒂠𒌅
+santana 	𒃲𒉌
+sed6 	𒈹
+še12 	𒀀𒈹
+še18 	𒀀𒈹𒁲
+še15 	𒊺𒉣𒉣
+še5 	𒍝𒈹𒁲
+šed5 	𒆒
+si5 	𒅆𒂠
+sibsib 	𒅴𒈨
+sig8 	𒃰𒋺𒄑
+sikin 	𒋠𒇴
+silig5 	𒄑𒌷·𒍏
+silig3 	𒋸
+sisi 	𒀲𒆳𒊏
+siškur2 	𒀬𒀬
+sa5 	𒋛𒀀
+su9 	𒁯𒀀
+sud3 	𒋢𒆳𒊒
+sugin 	𒄑𒁁
+suhirim 	𒇭𒋧
+suhub2 	𒀯
+suhul 	𒋙𒀯
+sukuš 	𒈹
+sulgar 	𒋙𒀯
+suluhu 	𒋠𒋤
+suluhu3 	𒍣𒍣𒆸
+sulummar 	𒆠𒊕𒁺
+sum5 	𒍻𒍻𒍻𒍻
+sumunda 	𒇯𒇯𒊺
+sur6 	𒆠𒃲
+sur7 	𒆠𒆕
+surru 	𒋪
+tal5 	𒆓𒆓
+tan2 	𒂷·𒈨𒂗
+targul 	𒈣𒈮
+taškarin 	𒄑𒌆
+taskarin 	𒄑𒌆
+TAxŠE 	𒋫𒊺𒄩
+ten3 	𒂅·𒆦𒆦
+tešbi 	𒌑
+ti8 	𒀉𒄷
+tibir4 	𒋸
+tigidla 	𒊮𒋻
+tigidla3 	𒊮𒈫𒁲
+tilla2 	𒀭𒀸𒀭
+tilla3 	𒀭𒁹𒀭
+tilla4 	𒀭𒀸𒀀𒀭
+tilla5 	𒀭𒀹𒀭
+tir4 	𒋛𒀀
+tirigi 	𒊕𒀭
+titab2 	𒈖𒉽𒉽
+TU9 	𒌆𒁀
+tuhul 	𒉄𒍞
+tukumbi 	𒋗𒃻𒌉𒇲𒁉
+tungal 	𒂗𒍪
+tungal2 	𒂗𒆠
+turan 	𒄙𒄒
+u10 	𒁱
+HUB₂ 	𒌑
+ub3 	𒀖·𒊮
+ub6 	𒀖·𒈨𒂗
+ubri 	𒅆𒆕
+ubri2 	𒅆𒁴
+udra 	𒁉𒌑𒊓
+udul3 	𒁦 	𒁖𒆨·𒇻𒈧
+udul4 	𒉺𒁦 	𒁖𒆨·𒇻𒈧
+udul10 	𒀖𒇻
+udul9 	𒉺𒁣 	𒁖𒆨·𒆕
+udun 	𒌋𒈬
+ug7 	𒅗
+ugra 	𒆸·𒌑𒀸
+ugu2 	𒀀𒅗
+ugu3 	𒀀𒊕
+ugudil 	𒉒·𒌑𒀸
+uh6 	𒅎𒋙
+uktin 	𒅊𒀩
+ukur2 	𒃲𒋚
+ukurrim 	𒂗𒈨𒀭𒈹
+ulul2 	𒃷?
+uludin2 	𒅊𒀩
+ulumaš 	𒅎𒃷𒄴𒈨𒌋
+ulumaš2 	𒅎𒄴𒈨𒌋𒃷
+ulušin2 	𒁉𒀾𒀭𒈾
+ubišaga 	𒋰𒋰𒉌𒉌𒁹𒁹
+umun10 	𒌋𒈬
+umun5 	𒇥𒀀
+umun6 	𒆸·𒄭·𒉣
+unu10 	𒄀?
+unud 	𒀖𒆪
+unu9 	𒆒
+uru6 	𒉒·𒌑𒀸𒄩
+uru7 	𒌫·𒌑𒀸𒄩
+uru12 	𒌆
+uru9 	𒋞𒅂
+uru15 	𒋀𒀊
+us5 	𒇆𒄞
+NA₂ 	𒌑𒊩𒆷
+usandu 	𒄷𒆕
+usar 	𒇳𒊬
+usil 	𒂳
+usu 	𒀉𒆗
+usud 	GA2×AN𒆕𒀀
+usuh 	𒊩𒇬
+usur4 	𒇲𒆸
+uš15 	𒋛𒀀
+ušbar3 	𒌫·𒌑𒀸
+ušbar5 	𒌋𒂘@t
+ušera 	𒆸·𒌑𒀸
+uštuh 	𒆠𒅁
+ušub 	𒋛𒀀
+ušumgal 	𒃲𒁔
+utah 	𒌋𒂵
+utte 	𒆠𒆠
+uttuku 	𒃻𒋃
+utu2 	𒌋𒂵
+utu5 	𒀾
+utuwa2 	𒁦 	𒁖𒆨·𒇻𒈧
+uzug5 	𒆈
+uzug2 	𒌑𒅗
+uzug3 	𒌑𒊕
+uzug4 	𒌑𒆳𒉌𒌇𒆠
+za2 	𒉌𒌓
+zabar3 	𒆉𒁇
+zabitum 	𒄑𒁆𒌉
+zah2 	𒄩𒀀
+zahan2 	𒌋𒂵
+zamin 	𒌒𒊑
+zanabal 	𒇽·𒆷𒀸
+zanabal2 	𒇽·𒆑𒀸
+zanabal3 	𒇽·𒋛𒀸
+zanaru 	𒈹
+zanbur 	𒁁𒆜
+zansur 	𒇥𒌋𒌋
+zapah 	𒋗𒁁
+zara6 	𒁁𒀸𒌆
+zarah2 	𒇻𒆠𒆕
+zibin 	𒁫
+zibin2 	𒁬 	𒁖𒆨 ·𒌑𒄈
+zigara 	𒅎?
+zikura 	𒆜𒐋
+zilulu 	𒉺𒍇
+zipah2 	𒋗𒁁
+zir2 	𒂠𒅗
+zirru 	𒂗𒉭𒍣𒀭𒋀𒆠
+zizna 	𒌉𒌉𒍝𒍝𒄩
+ZUBUD@g 	𒆦·𒄪𒄩
+gešbu 	𒄑𒊒
+ĝešbun2 	𒆠𒁉
+ĝešnu 	𒉢
+gešnu2 	𒉢𒅕
+ĝešpu2 	𒄑𒋗𒉽𒉽
+ĝeštae 	𒍝·𒐘·𒆳
+ĝes 	𒄷𒃾𒌓𒀀
+ĝeštug2 	𒄑𒌆𒉿
+gizzal2 	𒉢𒋡
+šabra2 	𒉺𒂍
+sagi 	𒋡𒋗𒃮
+šaĝa 	𒇽·𒃷@t
+šakaka 	𒆠𒇴
+šakanka 	𒆠𒇴
+šakkan6 	𒀲𒀴
+šagina 	𒄊𒀴
+šamanur 	𒍏𒅖𒍏
+šanna 	𒃷𒁍
+šara3 	𒇣
+šarap 	𒆗𒂔
+še21 	𒄷𒈿
+ŠE+DIN 	𒊺𒁷
+šeg12 	𒋞
+šeg4 	𒀀𒋙𒉀
+šerimsur 	𒆸·𒊺𒋧
+šešlam2 	𒂗𒈨𒇷
+šikahara 	𒋞𒋞𒋙
+šimaški 	𒇻𒋢
+šimaški2 	𒇻𒋢𒀀
+šimbirida 	𒌑𒆳𒊏𒊬
+ŠIR3 	𒂡𒈜
+šiten 	𒆠𒁺𒆕
+šub5 	𒄊
+šuba2 	𒍝𒈹
+šuba3 	𒈹𒍝
+šuba4 	𒈹
+šubba 	𒂡·𒄷
+šubtu3 	𒆜𒆸
+šubtu5 	𒆜𒇥
+šubtu4 	𒆜𒆜𒆸𒆸
+šugi 	𒋗𒄀?
+šukbar 	𒄑𒋗𒆗
+šun2 	𒀯
+šur6 	𒇳𒆸
+šurmen 	𒋗𒈨𒂞
+šurun2 	𒇣
+šuš5 	𒇟
+šušum 	𒈹𒂞
+šutug2 	𒄴𒈨
+šutul6 	𒌋𒆤
+šutum2 	𒂍𒄀𒈾𒀊𒌋𒄞
+megida2 	𒋰𒆲
+mud4 	𒆸𒌋𒆕
+mud8 	𒉭𒀖·𒆑
+muru5 	𒊩𒌓𒂔
+nir5 	𒍝𒅁
+nir4 	𒍝𒋢
+šakan6 	𒄊𒀴
+ĝiskim 	𒅆𒁾
+menbulug2 	𒁑𒁑
+pala3 	𒉆𒊩𒌆
+pala2 	𒉆𒂗
+peš10 	𒆠𒀀
+asar2 	𒀀𒌅𒃮𒇺
+pihu3 	𒅗𒆕
+pihu4 	𒁉𒌑𒊓
+pihu5 	𒍑𒊓
+sib2 	𒉺𒇻
+ulu2 	𒄴𒈨𒌋
+zermušku 	𒋺𒀩
+zermuškux 	𒋺𒀩
+tuku2 	𒌆
+šaman2 	𒌋𒃶
+dabašin 	𒆯
+esir4 	?𒄀?
+esir5 	𒄄?
+guda2 	𒄴𒈨
+nisaba 	𒊺𒉀𒄩
+henbur2 	𒊺𒆕
+
+ma5 	𒅡
+niĝir 	𒂅·𒆦𒆦
+silaĝ 	𒋃
+suh10 	𒈹
+teš2 	𒌨
+umuš 	𒌆
+unkin 	𒅗
+ur14 	𒃣
+uš7 	𒅲
+uzud 	𒍚
+ĝešnimbar 	𒄑𒊷
+še8 	𒋁
+šidim 	𒁶
+šita2 	𒄑?
+mar6 	𒅗
+tarah 	𒁰
+lim4 	𒉈
+sub3 	𒉭𒀖·𒆑
+nus 	𒉭
+zug4 	𒅲

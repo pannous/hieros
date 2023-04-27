@@ -1,1066 +1,534 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
->>>  u  
  u  [ ABUSE ]  𒌋  u  "abuse" Akk.  pištu 
->>>  u6  
  u  [ ADMIRATION ]  𒅆𒂍  u6  "admiration" 
->>>  u3  
  u  [ AND ]  𒅇  u3  "and; but; also" Akk.  u 
->>>  u2  
  u  [ BED ]  𒌑  u2  "bed" Akk.  eršu 
->>>  u4  
  u  [ BELLOW ]  𒌓  u4  "to bray, bellow, bawl; voice, cry, noise" Akk.  nagāgu ;  rigmu 
->>>  u2  
  u  [ CVNE ]  𒌑  u2  "(compound verb nominal element)" 
->>>  u8 ;  u2  
  u  [ DEFEAT ]  𒇇;𒌑  u8 ;  u2  "defeat" Akk.  tuqumtu 
->>>  u  
  u  [ EARTH ]  𒌋  u  "earth" Akk.  qaqqaru 
->>>  na4 u2  
  u  [ EMERY ]  𒎎𒌑  na4 u2  "emery" 
->>>  u8 ;  u8 munus ;  u10  
  u  [ EWE ]  𒇇;𒇇𒊩;DARA₄  u8 ;  u8 munus ;  u10  "sheep, ewe" Akk.  immertu ;  lahru 
->>>  u  
  u  [ FINGER ]  𒌋  u  "finger; toe" Akk.  ubānu 
->>>  u  
  u  [ GIFT ]  𒌋  u  "gift" Akk.  qīštu 
->>>  u5 mušen ;  u11  
  u  [ GOOSE ]  𒄷𒋛𒄷;𒄷  u5 mušen ;  u11  "wild goose" 
->>>  u20  
  u  [ GRAIN ]  𒊺  u20  "grain" Akk.  û 
->>>  u  
  u  [ HOLE ]  𒌋  u  "hole" Akk.  šīlu 
->>>  u2  
  u  [ HORN ]  𒌑  u2  "horn" Akk.  qarnu 
->>>  u5 ;  u3  
  u  [ LAND ]  𒄷𒋛;𒅇  u5 ;  u3  "a type of land" 
->>>  u2  
  u  [ LOAD ]  𒌑  u2  "load" Akk.  biltu 
->>>  u2  
  u  [ PEACE ]  𒌑  u2  "peace" Akk.  ţubtu 
->>>  u5  
  u  [ PILE ]  𒄷𒋛  u5  "earth pile" Akk.  šipku 
->>>  u2  
  u  [ PITFALL ]  𒌑  u2  "pitfall" Akk.  šuttatu 
->>>  ĝeš u3  
  u  [ PLANKING ]  𒄑𒅇  ĝeš u3  "planking" 
->>>  u6 sar  
  u  [ PLANT ]  𒅆𒂍𒊬  u6 sar  "a plant" 
->>>  u2  
  u  [ PLANTS ]  𒌑  u2  "bread, loaf; food; grass, herb; pasture; plant(s)" Akk.  akalu ;  rîtu ;  šammu 
->>>  u4  
  u  [ PURSLANE ]  𒌓  u4  "purslane" Akk.  puhpuhu 
->>>  u5  
  u  [ RIDE ]  𒄷𒋛  u5  "to ride; attatchment to a plow; upper pivot of a door; ship's cabin; to gain control" Akk.  hinnu ;  kašāšu ;  rakābu ;  rikbu ;  šagammu 
->>>  u5  
  u  [ SHEPHERD ]  𒄷𒋛  u5  "shepherd" Akk.  rē'û 
->>>  u3  
  u  [ SLEEP ]  𒅇  u3  "sleep" Akk.  šittu 
->>>  u9 ;  u  
  u  [ TEN ]  |EZEN×BAD|;𒌋  u9 ;  u  "ten" 
->>>  u ;  u5  
  u  [ TOTALITY ]  𒌋;𒄷𒋛  u ;  u5  "totality, world" Akk.  kiššatu 
->>>  u18 ;  u5 ;  u10 ;  u8  
  u  [ UNMNG ]  𒍇;𒄷𒋛;DARA₄;𒇇  u18 ;  u5 ;  u10 ;  u8  "" 
->>>  u5  
  u  [ UNMNG ]  𒄷𒋛  u5  "?" Akk.  tabbānu 
->>>  na4 U  
  U  [ STONE ]  𒎎𒌋  na4 U  "type of stone" 
->>>  ĝeš U3  
  U  [ TREE ]  𒄑𒅇  ĝeš U3  "a tree" 
->>>  u6  dug4  
  u dug  [ ADMIRE ]  𒅆𒂍𒅗  u6  dug4  "to admire; to regard, observe" Akk.  amāru ;  barû 
->>>  u2  hub ;  u2  hub2  
  u hub  [ DEAF ]  𒌑𒄽;𒌑𒄸  u2  hub ;  u2  hub2  "to be deaf; to be difficult, obstinate" Akk.  sukkuku 
->>>  u3  ku ;  u3  ku4  
  u ku  [ SLEEP ]  𒅇𒆪;𒅇𒆭  u3  ku ;  u3  ku4  "to sleep" Akk.  şalālu 
->>>  u2  su3 -su3  
  u susu  [ DINE ]  𒌑𒋤𒋤  u2  su3 -su3  "to dine" Akk.  patānu 
->>>  u2  su3 -su3  
  u susu  [ UNMNG ]  𒌑𒋤𒋤  u2  su3 -su3  "" Akk.  šadāhu 
->>>  u2 -DU mušen  
  u.DU  [ BIRD ]  𒌑𒁺𒄷  u2 -DU mušen  "a bird" 
->>>  u5 -a ;  u8 ;  u3  
  ua  [ OH ]  𒄷𒋛𒀀;𒇇;𒅇  u5 -a ;  u8 ;  u3  "(a soothing expression); oh" 
->>>  u5 mušen ;  u3 -a mušen ;  u8 -a mušen  
  ua  [ OWL ]  𒄷𒋛𒄷;𒅇𒀀𒄷;𒇇𒀀𒄷  u5 mušen ;  u3 -a mušen ;  u8 -a mušen  "a bird" Akk.  hū'a 
->>>  u2 -a ;  u x (PA)-a  
  ua  [ PROVISIONER ]  𒌑𒀀;NI(𒉺)𒀀  u2 -a ;  u x (PA)-a  "provisioner" Akk.  zāninu 
->>>  u3 -a-di  
  uadi  [ COMPOSITION ]  𒅇𒀀𒁲  u3 -a-di  "type of composition" 
->>>  u3 -a-li  
  uali  [ MOURNER ]  𒅇𒀀𒇷  u3 -a-li  "mourner" Akk.  lallāru 
->>>  u2 -a-ši  
  uaši  [ WEED ]  𒌑𒀀𒅆  u2 -a-ši  "a weed" 
->>>  ĝeš u3 -AŠ.KU  
  uAŠKU  [ STAIRCASE ]  𒄑𒅇𒀸𒆪  ĝeš u3 -AŠ.KU  "staircase" Akk.  simmiltu 
->>>  u5 -az mušen ;  u4 -az mušen ;  u5 -ad mušen  
  uaz  [ BIRD ]  𒄷𒋛𒊍𒄷;𒌓𒊍𒄷;𒄷𒋛𒀜𒄷  u5 -az mušen ;  u4 -az mušen ;  u5 -ad mušen  "a bird" 
->>>  ub4  
  ub  [ CAVITY ]  𒇥  ub4  "cavity" Akk.  huppu 
->>>  ub ;  ib ;  ib-bi  
  ub  [ CORNER ]  𒌒;𒅁;𒅁𒁉  ub ;  ib ;  ib-bi  "corner, recess" Akk.  tubqu 
->>>  ub3 ;  ub6  
  ub  [ DRUM ]  |AB₂×ŠA₃|;|AB₂×ME+EN|  ub3 ;  ub6  "a drum" Akk.  uppu 
->>>  ub  
  ub  [ ENUNCIATE ]  𒌒  ub  "to enunciate" Akk.  têlu 
->>>  u3 -ba  
  uba  [ UNMNG ]  𒅇𒁀  u3 -ba  "" 
->>>  u-bar  
  ubar  [ FOREIGNER ]  𒌋𒁇  u-bar  "resident alien" Akk.  ubāru 
->>>  ubara  
  ubara  [ PROTECTION ]  𒂬  ubara  "divine protection" Akk.  kidinnu 
->>>  u3 -ba-zu  
  ubazu  [ ANIMAL ]  𒅇𒁀𒍪  u3 -ba-zu  "type of animal" 
->>>  u5 -bi2 mušen ;  ub-bi2 mušen ;  u5 mušen -bi2  
  ubi  [ BIRD ]  𒄷𒋛𒉈𒄷;𒌒𒉈𒄷;𒄷𒋛𒄷𒉈  u5 -bi2 mušen ;  ub-bi2 mušen ;  u5 mušen -bi2  "a bird" Akk.  uppû ;  šāt kapru 
->>>  ubi ku6  
  ubi  [ FISH ]  GALAM.HA𒄩  ubi ku6  "a type of carp" 
->>>  ubi ;  ubi2  
  ubi  [ FISH ]  GALAM.HA;𒋦  ubi ;  ubi2  "a fish" Akk.  abūtu 
->>>  ubi-ab-ba ku6  
  ubi'abak  [ FISH ]  GALAM.HA𒀊𒁀𒄩  ubi-ab-ba ku6  "a fish" 
->>>  AB-ubi x (|ŠE+SUHUR|) ku6  
  ubi'abak  [ FISH ]  𒀊GALAM.HA·(𒊺𒋦)𒄩  AB-ubi x (|ŠE+SUHUR|) ku6  "a fish" 
->>>  ubi-gal ku6  
  ubigal  [ FISH ]  GALAM.HA𒃲𒄩  ubi-gal ku6  "type of fish" 
->>>  ĝeš u2 -bil2 -la ;  ĝeš u2 -bil2 ;  u2 -bil ;  u2 -bil2 ;  ubila ;  ubila2 ;  ĝeš u2 -bil3 -la ;  ĝeš u2 -bil3  
  ubila  [ CHARCOAL ]  𒄑𒌑𒉋𒆷;𒄑𒌑𒉋;𒌑𒉈;𒌑𒉋;NA;NA;𒄑𒌑𒄑𒉋𒆷;𒄑𒌑𒄑𒉋  ĝeš u2 -bil2 -la ;  ĝeš u2 -bil2 ;  u2 -bil ;  u2 -bil2 ;  ubila ;  ubila2 ;  ĝeš u2 -bil3 -la ;  ĝeš u2 -bil3  "charcoal" Akk.  upillû 
->>>  u2 -bil  
  ubila  [ PROFESSION ]  𒌑𒉈  u2 -bil  "charcoal burner" Akk.  upillû 
->>>  u3 -bi-na  
  ubina  [ UNMNG ]  𒅇𒁉𒈾  u3 -bi-na  "" 
->>>  ubi-sig10 ku6  
  ubisig  [ FISH ]  GALAM.HA𒋧𒄩  ubi-sig10 ku6  "type of fish" 
->>>  ubi-sumaš ku6  
  ubisumaš  [ FISH ]  GALAM.HA𒋨𒄩  ubi-sumaš ku6  "a fish" 
->>>  |ZI&ZI.A|-li mušen  
  ubizagubalaĝdikargirzana  [ BIRD ]  𒍥𒍥𒀀𒇷𒄷  |ZI&ZI.A|-li mušen  "a bird" 
->>>  ub-li-a  
  ublia  [ STREET ]  𒌒𒇷𒀀  ub-li-a  "street" Akk.  sulû 
->>>  ub-lil2 -la2  
  ublilla  [ SHRINE ]  𒌒𒆤𒇲  ub-lil2 -la2  "outdoor shrine" 
->>>  ub-pad ;  u2 -pad  
  ubpad  [ UNMNG ]  𒌒𒉻;𒌑𒉻  ub-pad ;  u2 -pad  "" 
->>>  ubri ;  ubri2  
  ubri  [ LANCE ]  |IGI.KAK|;|IGI.DIM|  ubri ;  ubri2  "lance, spear" Akk.  šukurru 
->>>  ub-šu-unkin-na  
  ubšu'unkinak  [ COURT ]  𒌒𒋗|URU×BAR|𒈾  ub-šu-unkin-na  "the court of the assembly" 
->>>  u2 -bu4  
  ubu  [ ~OX ]  𒌑𒀀  u2 -bu4  "a designation of oxen" 
->>>  u3 -bu-bu-ul  
  ububul  [ ECSTATIC ]  𒅇𒁍𒁍𒌌  u3 -bu-bu-ul  "an ecstatic" Akk.  zabbu 
->>>  u3 -bu-bu-ul ;  u3 -bu-bu  
  ububul  [ LIGHTNING ]  𒅇𒁍𒁍𒌌;𒅇𒁍𒁍  u3 -bu-bu-ul ;  u3 -bu-bu  "lightning flash; flame" Akk.  nablu 
->>>  u3 -bu-bu-ul ;  u-bu-bu-ul ;  u4 -bu-bu-ul  
  ububul  [ PUSTULE ]  𒅇𒁍𒁍𒌌;𒌋𒁍𒁍𒌌;𒌓𒁍𒁍𒌌  u3 -bu-bu-ul ;  u-bu-bu-ul ;  u4 -bu-bu-ul  "a boil, pustule" Akk.  bubu'tu 
->>>  |HU.SI|.|PAP.PAP| mušen  
  UBULUG  [ BIRD ]  𒄷𒋛𒉽𒉽𒄷  |HU.SI|.|PAP.PAP| mušen  "a type of bird" 
->>>  ubur ;  ubur2 ;  u3 -bur ;  u2 -bi-ur  
  ubur  [ BREAST ]  𒁛;𒁥;𒅇𒁓;𒌑𒁉𒌨  ubur ;  ubur2 ;  u3 -bur ;  u2 -bi-ur  "breast" Akk.  tulû 
->>>  ubur-ri mušen ;  ubur3 -ru mušen  
  uburri  [ BIRD ]  𒁛𒊑𒄷;𒁡𒊒𒄷  ubur-ri mušen ;  ubur3 -ru mušen  "a bird" 
->>>  u2 -bu-uš  
  ubuš  [ UNMNG ]  𒌑𒁍𒍑  u2 -bu-uš  "?" Akk.  ? 
->>>  gi ub-zal  
  ubzal  [ REEDS ]  𒄀𒌒𒉌  gi ub-zal  "young reeds" Akk.  qan tubuqti 
->>>  ud mušen  
  ud  [ BIRD ]  𒌓𒄷  ud mušen  "a bird" 
->>>  ud  
  ud  [ IF ]  𒌓  ud  "if" Akk.  šumma 
->>>  ud  
  ud  [ STORM ]  𒌓  ud  "storm; storm demon" Akk.  ūmu 
->>>  ud  
  ud  [ SUN ]  𒌓  ud  "day; heat; a fever; summer; sun" Akk.  immu ;  ummedu ;  umšu ;  šamšu ;  ūmu 
->>>  ud  
  ud  [ WHEN ]  𒌓  ud  "when" Akk.  enūma 
->>>  ud šu2  
  ud šuš  [ DARKEN ]  𒌓𒋙  ud šu2  "to become dark" Akk.  erēpu ša ūmi 
->>>  ud zal  
  ud zal  [ PASS ]  𒌓𒉌  ud zal  "to pass (said of time); to dawn; to do something at daybreak" Akk.  ? 
->>>  UD-PA ku6  
  UD.PA  [ FISH ]  𒌓𒉺𒄩  UD-PA ku6  "a fish" 
->>>  ud-UR mušen  
  ud.UR  [ BIRD ]  𒌓𒌨𒄷  ud-UR mušen  "a bird" 
->>>  uz-dar  
  udar  [ BIRD ]  𒊻𒁯  uz-dar  "a bird" 
->>>  ud-bi-ta  
  udbita  [ FORMER ]  𒌓𒁉𒋫  ud-bi-ta  "former (lit. from those days)" 
->>>  ud-da  
  udda  [ STAND ]  𒌓𒁕  ud-da  "a stand" Akk.  manzaltu 
->>>  ud-dam-ma-ri-a  
  uddammaria  [ YESTERDAY ]  𒌓𒁮𒈠𒊑𒀀  ud-dam-ma-ri-a  "yesterday" 
->>>  ud-da-tuš  
  uddatuš  [ JESTER ]  𒌓𒁕𒆪  ud-da-tuš  "jester" 
->>>  ĝeš hašhur UD.GIŠ%GIŠ.NUN  
  UDGIŠGIŠNUN  [ PLANT ]  𒄑𒈢𒌓𒄒𒉣  ĝeš hašhur UD.GIŠ%GIŠ.NUN  "a plant" Akk.  sippirû 
->>>  ud-ĝal2  
  udĝal  [ ILLUMINATING ]  𒌓𒅅  ud-ĝal2  "illuminating" 
->>>  u5 -ĝeš mušen ;  ud-ĝeš  
  udĝeš  [ BIRD ]  𒄷𒋛𒄑𒄷;𒌓𒄑  u5 -ĝeš mušen ;  ud-ĝeš  "a bird" Akk.  kilīlu 
->>>  ud-gi6 -da-da-ri  
  udĝidadari  [ LATER ]  𒌓𒈪𒁕𒁕𒊑  ud-gi6 -da-da-ri  "later" 
->>>  u6 -di  
  udi  [ ADMIRATION ]  𒅆𒂍𒁲  u6 -di  "admiration, (astonished) gaze" Akk.  tabrītu 
->>>  u3 -di  
  udi  [ DAZED ]  𒅇𒁲  u3 -di  "(to be) dazed; sleep" Akk.  kâru ;  šittu 
->>>  ĝeš u2 -di-du  
  udidu  [ RUSHES ]  𒄑𒌑𒁲𒁺  ĝeš u2 -di-du  "rushes" Akk.  udittu 
->>>  u2 -di-li ;  u2 -du-li  
  udili  [ TEN ]  𒌑𒁲𒇷;𒌑𒁺𒇷  u2 -di-li ;  u2 -du-li  "ten" 
->>>  u2 -di-li-ia  
  udiliya  [ FIFTEEN ]  𒌑𒁲𒇷𒐊  u2 -di-li-ia  "fifteen" 
->>>  ud-ku-nu-ri-a  
  udkurnuria  [ YESTERDAY ]  𒌓𒆪𒉡𒊑𒀀  ud-ku-nu-ri-a  "yesterday" 
->>>  ud-me-da  
  udmeda  [ EVER ]  𒌓𒈨𒁕  ud-me-da  "ever, always" Akk.  matīma 
->>>  ud-mud  
  udmud  [ DARKNESS ]  𒌓𒄷𒄭  ud-mud  "darkness" 
->>>  ud-na-me-ka ;  ud-na-me-kam  
  udnamekam  [ EVER ]  𒌓𒈾𒈨𒅗;𒌓𒈾𒈨𒄰  ud-na-me-ka ;  ud-na-me-kam  "in the future, ever" Akk.  ana matīma 
->>>  ud-nu2 -a  
  udnua  [ MOON ]  𒌓𒈿𒀀  ud-nu2 -a  "the astronomical New Moon or Dark Moon" Akk.  bubbulu 
->>>  udra  
  udra  [ DARKENED ]  |BI.U₂.SA|  udra  "(to be) darkened" Akk.  udduru 
->>>  udra  
  udra  [ EXCESS ]  |BI.U₂.SA|  udra  "excess, profit" Akk.  utrû 
->>>  ud-ri-eš  
  udrieš  [ YESTERDAY ]  𒌓𒊑𒌍  ud-ri-eš  "yesterday" 
->>>  ud5 -saĝ  
  udsaĝ  [ BAND ]  𒍚𒊕  ud5 -saĝ  "band" Akk.  markasu ;  riksu 
->>>  ud5 -saĝ  
  udsaĝ  [ LEADER ]  𒍚𒊕  ud5 -saĝ  "leader" Akk.  ašarēdu 
->>>  u2 UD sar  
  UDSAR  [ PLANT ]  𒌑𒌓𒊬  u2 UD sar  "a plant" Akk.  ? 
->>>  UD-ša4 mušen ;  UD-ša mušen ;  UD-še mušen  
  UDša  [ BIRD ]  𒌓𒁺𒄷;𒌓𒊭𒄷;𒌓𒊺𒄷  UD-ša4 mušen ;  UD-ša mušen ;  UD-še mušen  "a bird" 
->>>  u4 -šu2 -a  
  udšua  [ HUNGRY ]  𒌓𒋙𒀀  u4 -šu2 -a  "(to be) hungry" 
->>>  u4 -šu2 -uš ;  ud-šu2 -uš  
  udšuš  [ DAILY ]  𒌓𒋙𒍑;𒌓𒋙𒍑  u4 -šu2 -uš ;  ud-šu2 -uš  "daily" Akk.  ūmišamma 
->>>  ud-šu2 -uš  
  udšuš  [ ~HEAD ]  𒌓𒋙𒍑  ud-šu2 -uš  "a part of the head" 
->>>  ud-tab ku6 ;  ud-da-ba ku6  
  udtab  [ FISH ]  𒌓𒋰𒄩;𒌓𒁕𒁀𒄩  ud-tab ku6 ;  ud-da-ba ku6  "a fish" 
->>>  u4 -te-na ;  u4 -te-en ;  u4 -te-en-na  
  udtena  [ EVENING ]  𒌓𒋼𒈾;𒌓𒋼𒂗;𒌓𒋼𒂗𒈾  u4 -te-na ;  u4 -te-en ;  u4 -te-en-na  "evening" 
->>>  udu ;  e-ze2  
  udu  [ SHEEP ]  𒇻;𒂊𒍢  udu ;  e-ze2  "sheep" Akk.  immeru 
->>>  udu-til  
  udu-til  [ WILD SHEEP ]  𒇻𒌀  udu-til  "wild sheep" Akk.  bibbu 
->>>  u3 -dub2 ;  udub  
  udub  [ COAL ]  𒅇𒂀;𒇛  u3 -dub2 ;  udub  "coal" Akk.  pēmtum 
->>>  ĝeš u2 -du3 -du3  
  ududu  [ REED-BUNDLE ]  𒄑𒌑𒆕𒆕  ĝeš u2 -du3 -du3  "reed bundle" Akk.  īlu 
->>>  udu-eme-gi  
  udu'emeĝir  [ SHEEP ]  𒇻𒅴𒄀  udu-eme-gi  "a breed of sheep" 
->>>  d udug ;  u2 -dug4 ;  udug  
  udug  [ DEMON ]  𒀭𒌜;𒌑𒅗;𒌜  d udug ;  u2 -dug4 ;  udug  "a demon (of desert, mountain, sea, tomb); ~ figurine" Akk.  utukku 
->>>  udug2 ;  u3 -dug4 ;  u2 -tu-ug  
  udug  [ WEAPON ]  |ŠITA₂|;𒅇𒅗;𒌑𒌅𒊌  udug2 ;  u3 -dug4 ;  u2 -tu-ug  "stick; a weapon" Akk.  kakku 
->>>  udu-gal  
  udugal  [ SHEEP ]  𒇻𒃲  udu-gal  "adult male sheep capable of reproduction" Akk.  immeru rabû 
->>>  udu-i3  
  udu'i  [ SHEEP ]  𒇻𒉌  udu-i3  "fat sheep" 
->>>  udu-KU  
  uduKUr  [ PROFESSION ]  𒇻𒆪  udu-KU  "a profession" 
->>>  udu-kur-ra  
  udukurak  [ SHEEP ]  𒇻𒆳𒊏  udu-kur-ra  "a breed of sheep" Akk.  immeri šadî 
->>>  udul3 ;  u2 -tul2 ;  u2 -du-lu ;  udul ;  udul4 ;  udul10 ;  udul5 ;  udul6 ;  udul9 ;  u3 -dul4  
  udul  [ HERDSMAN ]  |DAG.KISIM₅×LU+MAŠ₂|;𒌑|LAGAB×U|;𒌑𒁺𒇻;|DAG.KISIM₅×LU+MAŠ₂|;|PA.DAG.KISIM₅×LU+MAŠ₂|;|AB₂.LU|;|DAG.KISIM₅×GUD|;|DAG.KISIM₅×UŠ|;|PA.DAG.KISIM₅×KAK|;𒅇𒂈  udul3 ;  u2 -tul2 ;  u2 -du-lu ;  udul ;  udul4 ;  udul10 ;  udul5 ;  udul6 ;  udul9 ;  u3 -dul4  "chief herdsman" Akk.  utullu 
->>>  u2 -DUL.DIN-ka  
  uDULDINka  [ PLANT ]  𒌑𒌋𒌆𒁷𒅗  u2 -DUL.DIN-ka  "type of plant" 
->>>  udun  
  udun  [ KILN ]  |U.MU|  udun  "kiln" Akk.  utūnu 
->>>  udu-nita2  
  udunita  [ RAM ]  𒇻ARAD.HU  udu-nita2  "ram" 
->>>  udun-mah  
  udunmah  [ OVEN ]  |U.MU|𒈤  udun-mah  "oven, brick-kiln" Akk.  udunmāhu 
->>>  u2 -dur2 -durun-na  
  udurduruna  [ HAY ]  𒌑𒂉𒂉𒈾  u2 -dur2 -durun-na  "hay" 
->>>  udu-utuwa2  
  udu'utuwa  [ RAM ]  𒇻|DAG.KISIM₅×LU+MAŠ₂|  udu-utuwa2  "ram" Akk.  puhālu 
->>>  ud-zal-la  
  udzalla  [ THIRD ]  𒌓𒉌𒆷  ud-zal-la  "third watch of night" 
->>>  u3 -en ;  u3 -en3  
  u'en  [ RELEASE ]  𒅇𒂗;𒅇𒇷  u3 -en ;  u3 -en3  "to release" Akk.  pašāru 
->>>  ug7 ;  ug5 ;  ug x (|BAD.BAD|)  
  ug  [ DIE ]  UŠ₂;𒂦;BAD.BAD(𒁁𒁁)  ug7 ;  ug5 ;  ug x (|BAD.BAD|)  "plural and imperfect singular stem of uš[to die]" Akk.  mâtu 
->>>  ug x (EZEN)  
  ug  [ EXALTED ]  BAD.BAD(𒂡)  ug x (EZEN)  "(to be) exalted" 
->>>  ug ;  ug2  
  ug  [ FURIOUS ]  𒊌;𒊊  ug ;  ug2  "(to be) furious; anger" Akk.  aggu ;  uggu 
->>>  ug2  
  ug  [ LAMENTATION ]  𒊊  ug2  "lamentation" Akk.  nissatu 
->>>  ug ;  ug2  
  ug  [ LIGHT ]  𒊌;𒊊  ug ;  ug2  "light" Akk.  nūru 
->>>  ug ;  ug x (|PIRIG×ZA|)  
  ug  [ LION ]  𒊌;BAD.BAD(𒊍)  ug ;  ug x (|PIRIG×ZA|)  "lion; a mythical lion; a large cat" Akk.  mindinu ;  nešu; ūmu 
->>>  ug  
  ug  [ PLANT ]  𒊌  ug  "a plant" 
->>>  ug2  
  ug  [ TINY ]  𒊊  ug2  "tiny, very small" Akk.  daqqiqi 
->>>  u2 -ga ku6 ;  u2 -ga |ŠE.NAGA| ku6 ;  u2 |ŠE.NAGA| ga ku6 ;  uga ku6 ;  ku6 u2 -ga ;  u2 -ga uga x (NAGA) ku6 ;  |ŠE.NAGA| ku6 ;  uga x (NAGA) u2 -ga ku6  
  uga  [ FISH ]  𒌑𒂵𒄩;𒌑𒂵𒊺𒉀𒄩;𒌑𒊺𒉀𒂵𒄩;𒂵  GA𒄩;𒄩𒌑𒂵;𒌑𒂵NAGA.U₂.GA.HA(𒉀)𒄩;𒊺𒉀𒄩;NAGA.U₂.GA.HA(𒉀)𒌑𒂵𒄩  u2 -ga ku6 ;  u2 -ga |ŠE.NAGA| ku6 ;  u2 |ŠE.NAGA| ga ku6 ;  uga ku6 ;  ku6 u2 -ga ;  u2 -ga uga x (NAGA) ku6 ;  |ŠE.NAGA| ku6 ;  uga x (NAGA) u2 -ga ku6  "a fish" 
->>>  u8 -ga  
  uga  [ MILK ]  𒇇𒂵  u8 -ga  "milk ewe" 
->>>  uga mušen ;  u2 -ga mušen ;  uga x (|U2 .NAGA|) mušen  
  uga  [ RAVEN ]  𒂵  GA𒄷;𒌑𒂵𒄷;NAGA.U₂.GA.HA(𒌑𒉀)𒄷  uga mušen ;  u2 -ga mušen ;  uga x (|U2 .NAGA|) mušen  "raven" Akk.  āribu 
->>>  uga(|U2 .NAĜA|)-LAK777 mušen  
  uga.LAK777  [ BIRD ]  𒂵  GA(𒌑𒉀)¿𒄷  uga(|U2 .NAĜA|)-LAK777 mušen  "a bird" 
->>>  uga(|U2 .NAĜA|)-hur mušen  
  ugahur  [ BIRD ]  𒂵  GA(𒌑𒉀)𒄯𒄷  uga(|U2 .NAĜA|)-hur mušen  "a bird" 
->>>  ugal  
  ugal  [ UNMNG ]  |KA×UŠ|  ugal  "?" Akk.  ? 
->>>  na4 ug-gun3  
  uggun  [ STONE ]  𒎎𒊌𒁯  na4 ug-gun3  "type of stone" 
->>>  ugnim  
  ugnim  [ ARMY ]  𒆠𒋢𒇻𒂠𒃻  ugnim  "army, troops" Akk.  ummānu 
->>>  ugra  
  ugra  [ REED-BUNDLE ]  |LAGAB×U₂+AŠ|  ugra  "bundle of reeds" Akk.  budduru 
->>>  ug-tur3 mušen  
  ugtur  [ BIRD ]  𒊌𒉣𒇬𒄷  ug-tur3 mušen  "a bird" 
->>>  ugu ;  ugu4  
  ugu  [ BEAR ]  𒌋𒅗;𒆪  ugu ;  ugu4  "to give birth (to)" Akk.  alādu 
->>>  u2 -gu  
  ugu  [ CVNE ]  𒌑𒄖  u2 -gu  "(compound verb nominal element)" 
->>>  u2 -gu7  
  ugu  [ FOOD ]  𒌑𒅥  u2 -gu7  "food" Akk.  mākālu 
->>>  u2 -gu7  
  ugu  [ PASTURE ]  𒌑𒅥  u2 -gu7  "pasture" Akk.  merītu 
->>>  ugu2 ;  ugu ;  ugu3 ;  ugu x (|U.SAG|) ;  ugu x (|A.U.KA|) ;  ugu x (SAG@n@g)  
  ugu  [ SKULL ]  |A.KA|;𒌋𒅗;|A.SAG|;|U.SAG|(𒌋𒊕);|U.SAG|(𒀀𒌋𒅗);|U.SAG|(?)  ugu2 ;  ugu ;  ugu3 ;  ugu x (|U.SAG|) ;  ugu x (|A.U.KA|) ;  ugu x (SAG@n@g)  "skull, pate; first section of a balanced account, capital; on, over, above; against; more than; top" Akk.  eli ;  muhhu ;  qaqqadu 
->>>  ugu2  
  ugu  [ WATERING PLACE ]  |A.KA|  ugu2  "watering place; irrigation; irrigated land" Akk.  mašqītu ;  mikru 
->>>  u2 -gu de2 ;  u2 -gu3  de2 ;  ugu de2  
  ugu de  [ DISAPPEAR ]  𒌑𒄖𒌤;𒌑𒅗𒌤;𒌋𒅗𒌤  u2 -gu de2 ;  u2 -gu3  de2 ;  ugu de2  "to disappear" Akk.  halāqu 
->>>  ugu ugu4 -bi ;  ugu u-gu5 -bi  
  ugubi  [ MONKEY ]  𒌋𒅗𒆪𒁉;𒌋𒅗𒌋𒆪𒁉  ugu ugu4 -bi ;  ugu u-gu5 -bi  "monkey" Akk.  uqūpu 
->>>  ugudil  
  ugudil  [ FISH ]  |NINDA₂×U₂+AŠ|  ugudil  "a fish" Akk.  singurru 
->>>  ugu-dili2  
  ugudili  [ SCALP ]  𒌋𒅗𒇺  ugu-dili2  "upper part of the skull or scalp" 
->>>  ugu-du3 mušen  
  ugudu  [ BIRD ]  𒌋𒅗𒆕𒄷  ugu-du3 mušen  "a bird" Akk.  nahīru 
->>>  ugu-du3  
  ugudu  [ TUFT ]  𒌋𒅗𒆕  ugu-du3  "tuft of hair" Akk.  abbuttu 
->>>  u3 -gul  
  ugul  [ CVNE ]  𒅇𒄢  u3 -gul  "(compound verb nominal element)" 
->>>  u3 -gul ĝar  
  ugul ĝar  [ PRAY ]  𒅇𒄢𒃻  u3 -gul ĝar  "to pray" Akk.  utnēnu 
->>>  ugula  
  ugula  [ OVERSEER ]  𒉺  ugula  "instructor; overseer, foreman" Akk.  aklu ;  šāpiru 
->>>  ugula-e2  
  ugula'ek  [ OVERSEER ]  𒉺𒂍  ugula-e2  "estate-overseer" 
->>>  u5 -gun3 mušen ;  u3 -gun3 mušen  
  ugun  [ BIRD ]  𒄷𒋛𒁯𒄷;𒅇𒁯𒄷  u5 -gun3 mušen ;  u3 -gun3 mušen  "a bird" Akk.  tarru 
->>>  u3 -gun3 ;  ugunu ;  ugunu2 ;  u3 -gun ;  ugu-nu  
  ugunu  [ DECORATION ]  𒅇𒁯;|U.DAR|;𒃽;𒅇𒁯;𒌋𒅗𒉡  u3 -gun3 ;  ugunu ;  ugunu2 ;  u3 -gun ;  ugu-nu  "decorative inlay; ointment" Akk.  ihzētu ;  tēqītu 
->>>  ugunu2  
  ugunu  [ LADY ]  𒃽  ugunu2  "lady; mistress, proprietress (of)" Akk.  bēltu 
->>>  ugur2  
  ugur  [ POT ]  𒅊  ugur2  "a pot" 
->>>  ugur  
  ugur  [ SWORD ]  𒅊  ugur  "sword" Akk.  namşāru 
->>>  dug u-gur-bal  
  ugurbal  [ JAR ]  𒂁𒌋𒄥𒁄  dug u-gur-bal  "type of jar" 
->>>  uĝ3  
  uĝ  [ PEOPLE ]  𒌦  uĝ3  "people" Akk.  nišu 
->>>  uĝ3 -da-ga  
  uĝdaga  [ NEIGHBOR ]  𒌦𒁕𒂵  uĝ3 -da-ga  "neighbor" 
->>>  u2 -ĝeš  
  uĝeš  [ PLANT ]  𒌑𒄑  u2 -ĝeš  "type of plant" 
->>>  uĝ3 -ĝaĝ x (IL2 ) ;  uĝ3 -ĝa6 -ĝa6  
  uĝĝaĝa  [ PORTER ]  𒌦IL₂(𒅍);𒌦IL₂IL₂  uĝ3 -ĝaĝ x (IL2 ) ;  uĝ3 -ĝa6 -ĝa6  "porter" 
->>>  u2 -ĝiri3  
  uĝiri  [ UNMNG ]  𒌑𒄊  u2 -ĝiri3  "unmng" 
->>>  uh6  
  uh  [ FORGOTTEN ]  |IM.ŠU₂|  uh6  "(to be) forgotten" Akk.  mašû 
->>>  uzu uh4  
  uh  [ TRACHEA ]  𒍜|KA×BAD|  uzu uh4  "trachea, uvula" Akk.  ma'latu 
->>>  uh  
  uh  [ TURTLE ]  𒄴  uh  "turtle" Akk.  šeleppû 
->>>  uh ;  uh3  
  uh  [ UNMNG ]  𒄴;𒆵  uh ;  uh3  "" 
->>>  ĝeš uh2  
  uh  [ WEATHERVANE ]  𒄑𒌔  ĝeš uh2  "weathervane" Akk.  işşur šārī 
->>>  uh ;  ah3  
  uh  [ ~PASTE ]  𒄴;𒌓  uh ;  ah3  "to make paste" 
->>>  u3 -ha2  
  uha  [ TOOL ]  𒅇𒀪  u3 -ha2  "a tool" 
->>>  u2 - ĝeš hašhur  
  uhašhurak  [ PLANT ]  𒌑𒄑𒈢  u2 - ĝeš hašhur  "a plant" Akk.  hašhurakku 
->>>  u4 -hi-in ;  u3 -hu-in ;  u2 -hi-in  
  uhin  [ DATE ]  𒌓𒄭𒅔;𒅇𒄷𒅔;𒌑𒄭𒅔  u4 -hi-in ;  u3 -hu-in ;  u2 -hi-in  "fresh date" Akk.  uhinnu 
->>>  uh2 -pu2  
  uhpu  [ FOAM ]  𒌔𒇥  uh2 -pu2  "foam" 
->>>  uh2 -pu2  
  uhpu  [ WATER ]  𒌔𒇥  uh2 -pu2  "standing water" Akk.  lâ'irānu 
->>>  uh-ru-um  
  uhrum  [ STREAM ]  𒄴𒊒𒌝  uh-ru-um  "stream, wadi" Akk.  nahallu 
->>>  |U8 +HUL2 |  
  UHUL  [ SHEEP ]  𒇇𒄾  |U8 +HUL2 |  "a type of sheep, fat-tailed ewe" 
->>>  u5 -hur mušen  
  uhur  [ BIRD ]  𒄷𒋛𒄯𒄷  u5 -hur mušen  "a bird" 
->>>  u2 -il2  
  u'il  [ CARRIER ]  𒌑𒅍  u2 -il2  "carrier" 
->>>  u2 - ĝeš kiri6  
  ukiri  [ GARDEN ]  𒌑𒄑𒊬  u2 - ĝeš kiri6  "garden produce" 
->>>  uktin  
  uktin  [ PHYSIOGNOMY ]  |IGI@g.ALAN|  uktin  "physiognomy, (facial) features" Akk.  bunnannu 
->>>  u2 -KU  
  uKU  [ TEAR? ]  𒌑𒆪  u2 -KU  "tear?" 
->>>  u2 -ku-uk  
  ukuk  [ BURN ]  𒌑𒆪𒊌  u2 -ku-uk  "to burn" 
->>>  u3 -ku-ku mušen  
  ukuku  [ BIRD ]  𒅇𒆪𒆪𒄷  u3 -ku-ku mušen  "a bird" Akk.  şallallu 
->>>  u3 -ku-ku-ba-uš2 mušen  
  ukukuba'uš  [ BIRD ]  𒅇𒆪𒆪𒁀𒍗𒄷  u3 -ku-ku-ba-uš2 mušen  "a bird" Akk.  ittīl imūt 
->>>  u2 -kul  
  ukul  [ WEED ]  𒌑𒆰  u2 -kul  "type of weed" 
->>>  ukum  
  ukum  [ STORM ]  𒅖  ukum  "dust storm" Akk.  turbutu 
->>>  ukur2  
  ukur  [ BUTCHER ]  |GAL.ŠUBUR|  ukur2  "butcher" Akk.  tābihu 
->>>  ukur3  
  ukur  [ POOR ]  𒇳𒁺  ukur3  "(to be) poor; pauper" Akk.  lapnu 
->>>  ukurrim  
  ukurrim  [ PRIEST ]  |EN.ME.AN.MUŠ₃|  ukurrim  "a priest of Inanna" Akk.  ēnû 
->>>  u3 -ku-ru-um  
  ukurum  [ BRICK ]  𒅇𒆪𒊒𒌝  u3 -ku-ru-um  "a type of brick" Akk.  ukurru 
->>>  ukuš2  
  ukuš  [ CUCUMBER ]  𒄾  ukuš2  "cucumber" Akk.  qiššû 
->>>  ukuš2 -ti-ki-il  
  ukuštikil  [ COLOCYNTH ]  𒄾𒋾𒆠𒅋  ukuš2 -ti-ki-il  "colocynth" 
->>>  ul4  
  ul  [ ANYTHING ]  𒄉  ul4  "anything, something" Akk.  mimma 
->>>  ul4 ;  ul6  
  ul  [ BRIGHT ]  𒄉;𒌓  ul4 ;  ul6  "to become bright, shine" Akk.  namru ;  nabāţu 
->>>  ul ;  ul-li2 ;  ul-li  
  ul  [ DISTANT ]  𒌌;𒌌𒉌;𒌌𒇷  ul ;  ul-li2 ;  ul-li  "(to be) distant (in time); distant time" Akk.  şiātu 
->>>  ul4 ;  ul5  
  ul  [ FIRMAMENT ]  𒄉;|EZEN×KASKAL|  ul4 ;  ul5  "vault of heaven, firmament" Akk.  šupuk šamê 
->>>  ul  
  ul  [ FRUIT ]  𒌌  ul  "fruit; bud" Akk.  inbu 
->>>  ul4  
  ul  [ GREATLY ]  𒄉  ul4  "greatly" Akk.  magal 
->>>  ul4  
  ul  [ GRIND ]  𒄉  ul4  "to grind" Akk.  qemû 
->>>  ul4  
  ul  [ HASTEN ]  𒄉  ul4  "to hasten, (be) quick; (to be) early" Akk.  arāhu ;  hamāţu ;  harāpu 
->>>  ul  
  ul  [ NEGATIVE ]  𒌌  ul  "negative answer, refusal" Akk.  ullu 
->>>  ul-la ;  ul  
  ul  [ PRONOUN ]  𒌌𒆷;𒌌  ul-la ;  ul  "a demonstrative pronoun" Akk.  annû ;  ullû 
->>>  ul  
  ul  [ SWELL ]  𒌌  ul  "to swell, (to be) distended; to love; attractiveness; pleasure; rejoicing" Akk.  habāşu ;  menû ;  ulşu 
->>>  ul4  
  ul  [ TERROR ]  𒄉  ul4  "terror" Akk.  pirittu 
->>>  ul  
  ul  [ UNIT ]  𒌌  ul  "a unit of capacity" 
->>>  ul4 ;  ul2 ;  ulul ;  ulul2  
  ul  [ UNMNG ]  𒄉;𒉡;|GIŠ%GIŠ|;|GAN₂%GAN₂|  ul4 ;  ul2 ;  ulul ;  ulul2  "; " Akk.  qerbetu 
->>>  UL  
  UL  [ UNIT ]  𒌌  UL  "a unit of measurement" 
->>>  ul šar2  
  ul šar  [ REJOICE ]  𒌌𒊹  ul šar2  "to rejoice" Akk.  riāšu 
->>>  u3 -la  
  ula  [ ANYTHING ]  𒅇𒆷  u3 -la  "anything" 
->>>  ula2  
  ula  [ BATTLE ]  |GA₂×U|  ula2  "battle" Akk.  qablu 
->>>  u2 -la2  
  ula  [ FEEBLE ]  𒌑𒇲  u2 -la2  "(to be) feeble" Akk.  muqqu 
->>>  ulal  
  ulal  [ OVEN ]  𒁁  ulal  "oven" Akk.  tinūru 
->>>  u2 -lal3  
  ulal  [ PLANT ]  𒌑𒋭  u2 -lal3  "a plant" Akk.  ? 
->>>  u2 -la-ul4 -la  
  ula'ulla  [ QUICK! ]  𒌑𒆷𒄉𒆷  u2 -la-ul4 -la  ""quick!"" 
->>>  |U.GUD|.BAD mušen  
  ULBAD  [ BIRD ]  𒌋𒄞𒁁𒄷  |U.GUD|.BAD mušen  "type of bird" 
->>>  UL.GAR  
  ULGAR  [ ACCUMULATION ]  𒌌𒃻  UL.GAR  "accumulation (math.)" 
->>>  ul4 -he2  
  ulhe  [ FIRMAMENT ]  𒄉𒃶  ul4 -he2  "firmament, vault of the sky" Akk.  šupuk šamê 
->>>  u3 -li-li ;  u3 -li  
  uli  [ LAMENTATION ]  𒅇𒇷𒇷;𒅇𒇷  u3 -li-li ;  u3 -li  "lamentation" Akk.  lallarātu 
->>>  u2 -li-a sar  
  uli'a  [ PLANT ]  𒌑𒇷𒀀𒊬  u2 -li-a sar  "a plant" Akk.  dišu 
->>>  ulil  
  ulil  [ UNMNG ]  AŠ@k  ulil  "?" Akk.  ulillu 
->>>  u3 -lil2 -la2  
  ulilla  [ LAMENT ]  𒅇𒆤𒇲  u3 -lil2 -la2  "a lament" 
->>>  u2 -li-in  
  ulin  [ TWINE ]  𒌑𒇷𒅔  u2 -li-in  "colored twine" Akk.  barumtu 
->>>  ullu  
  ullu  [ UNMNG ]  |U.GUD|  ullu  "?" Akk.  pasāqu 
->>>  |U.GUD|.MA  
  ULMA  [ ~MOUND ]  𒌋𒄞𒈠  |U.GUD|.MA  "designation of mound" 
->>>  lu2 ul-maš2 -e3  
  ulmaše  [ PRIEST ]  𒇽𒌌𒈧𒌓𒁺  lu2 ul-maš2 -e3  "a priest" 
->>>  ulu3 ;  u3 -lu  
  ulu  [ UNMNG ]  𒍇;𒅇𒇻  ulu3 ;  u3 -lu  "" 
->>>  ulu3 lu ;  tumu ulu3 lu ;  tumu ulu3 ;  u18 -lu ;  tumu ulu2  
  ulu  [ WIND ]  𒍇𒇻;𒅎𒍇𒇻;𒅎𒍇;𒍇𒇻;𒅎|HI×NUN.ME.U|  ulu3 lu ;  tumu ulu3 lu ;  tumu ulu3 ;  u18 -lu ;  tumu ulu2  "south wind; south; a demon" Akk.  alû ;  mehê šūti; šūtu ;  mehû 
->>>  ulu3 -di-ig  
  uludig  [ BIRD-CRY ]  𒍇𒁲𒅅  ulu3 -di-ig  "a bird-cry" 
->>>  uludin2 ;  uludin  
  uludin  [ FORM ]  |IGI@g.ALAN|;|IGI@g.ALAN|  uludin2 ;  uludin  "sign, mark; form" Akk.  ittu ;  nabnītu 
->>>  u3 -luh ;  u2 -luh  
  uluh  [ SAPLING ]  𒅇𒈛;𒌑𒈛  u3 -luh ;  u2 -luh  "sapling; offshoot; scepter" Akk.  uluhhu 
->>>  ulul2  
  ulul  [ CULTIVATION ]  |GAN₂%GAN₂|  ulul2  "cultivation" 
->>>  u2 -lu-ul-lum-tum  
  ulullumtum  [ PLANT ]  𒌑𒇻𒌌𒈝𒌈  u2 -lu-ul-lum-tum  "a plant" 
->>>  u2 -lu-lu-ma-ma ;  u3 -lu-lu-ma-ma  
  ululumama  [ LAMENT ]  𒌑𒇻𒇻𒈠𒈠;𒅇𒇻𒇻𒈠𒈠  u2 -lu-lu-ma-ma ;  u3 -lu-lu-ma-ma  "a lament" 
->>>  u2 -lum  
  ulum  [ EXCLAMATION ]  𒌑𒈝  u2 -lum  "type of exclamation" 
->>>  u2 -lum  
  ulum  [ FRUITFUL ]  𒌑𒈝  u2 -lum  "fruitful" Akk.  unnubu 
->>>  ulumaš ;  ulumaš2  
  ulumaš  [ WIND ]  |IM.GAN₂.HI×NUN.ME.U|;|IM.HI×NUN.ME.U.GAN₂|  ulumaš ;  ulumaš2  "south wind" Akk.  šār meh šūti 
->>>  ulušin3 ;  ulušin ;  ul-u3 -šu-in ;  ulušin2  
  ulušin  [ BEER ]  𒀾𒀭;𒀾𒀭;𒌌𒅇𒋗𒅔;|BI.AŠ₂.AN.NA|  ulušin3 ;  ulušin ;  ul-u3 -šu-in ;  ulušin2  "date-sweetened emmer-beer" Akk.  ulušinnu 
->>>  um mušen ;  um-ma mušen  
  um  [ BIRD ]  𒌝𒄷;𒌝𒈠𒄷  um mušen ;  um-ma mušen  "a bird" Akk.  ummu 
->>>  um  
  um  [ ROPE ]  𒌝  um  "reed rope" Akk.  ummu 
->>>  u3 -ma ;  u2 -ma  
  uma  [ TRIUMPH ]  𒅇𒈠;𒌑𒈠  u3 -ma ;  u2 -ma  "triumph, victory" Akk.  ernittu 
->>>  u3 -ma gub  
  uma gub  [ ATTAIN VICTORY ]  𒅇𒈠𒁺  u3 -ma gub  "to attain victory" Akk.  ? 
->>>  umah  
  umah  [ BLOW ]  𒇦  umah  "blow" Akk.  mihşu 
->>>  umah  
  umah  [ MARSHES ]  𒇦  umah  "marshes" Akk.  agammu 
->>>  u2 -ma-am ;  u2 -ma-mu  
  umamu  [ BEASTS ]  𒌑𒈠𒄠;𒌑𒈠𒈬  u2 -ma-am ;  u2 -ma-mu  "beasts" Akk.  umāmu 
->>>  uman  
  uman  [ INSECT ]  |HI×NUN|  uman  "insect(s), bug(s)" Akk.  kalmatu 
->>>  umbara  
  umbara  [ AID ]  |EZEN×KASKAL|  umbara  "aid, help; gift, present" Akk.  nērarūtu ;  rīmūtu 
->>>  ĝeš umbin  
  umbin  [ BASE ]  𒄑𒌢  ĝeš umbin  "base of a table" Akk.  şupur paššūri 
->>>  umbin  
  umbin  [ CUTTING ]  𒌢  umbin  "type of cutting implement" 
->>>  umbin  
  umbin  [ NAIL ]  𒌢  umbin  "(finger/toe-)nail; claw; hoof; finger, toe" Akk.  ubānu ;  şupru 
->>>  umbin  
  umbin  [ WHEEL ]  𒌢  umbin  "wheel" Akk.  magarru 
->>>  ĝeš umbin  
  umbin  [ ~BOAT ]  𒄑𒌢  ĝeš umbin  "a part of a boat" 
->>>  umbin kiĝ2  
  umbin kiĝ  [ SHEAR ]  𒌢𒆥  umbin kiĝ2  "to shear" Akk.  ? 
->>>  umbin la2  
  umbin la  [ SCRATCH ]  𒌢𒇲  umbin la2  "to scratch" Akk.  ? 
->>>  ĝeš umbin TAR  
  umbin TAR  [ SHAVE ]  𒄑𒌢𒋻  ĝeš umbin TAR  "to shave" Akk.  gullubu 
->>>  umbin-ĝiri3  
  umbinĝiri  [ CLAW ]  𒌢𒄊  umbin-ĝiri3  "claw" 
->>>  umbin-si  
  umbinsi  [ NAIL ]  𒌢𒋛  umbin-si  "finger nail" 
->>>  umbin-še-ba  
  umbinšeba  [ NAIL ]  𒌢𒊺𒁀  umbin-še-ba  "nail" Akk.  şupru 
->>>  umbisaĝ ;  umbisaĝ2 ;  ubišaga  
  umbisaĝ  [ SCRIBE ]  𒋃;𒋄;|TAB&TAB.NI&NI.DIŠ&DIŠ|  umbisaĝ ;  umbisaĝ2 ;  ubišaga  "scribe; scholar" Akk.  tupšarru 
->>>  um-gi-du7 mušen  
  umgidu  [ BIRD ]  𒌝𒄀𒌌𒄷  um-gi-du7 mušen  "a bird" Akk.  durummu 
->>>  um-hur mušen  
  umhur  [ BIRD ]  𒌝𒄯𒄷  um-hur mušen  "a bird" 
->>>  u2 -mi-a  
  umia  [ PEOPLE ]  𒌑𒈪𒀀  u2 -mi-a  "people" Akk.  nišū 
->>>  um-ma  
  umma  [ OLD WOMAN ]  𒌝𒈠  um-ma  "old woman" Akk.  šībtu 
->>>  um-ma-na  
  ummana  [ ARMY ]  𒌝𒈠𒈾  um-ma-na  "army" 
->>>  um-mi-a ;  um-me-a  
  ummia  [ EXPERT ]  𒌝𒈪𒀀;𒌝𒈨𒀀  um-mi-a ;  um-me-a  "expert, master craftsman" Akk.  ummānu 
->>>  kuš ummud ;  ummud ;  ummud x (|A.U.EDIN.LAL|)  
  ummud  [ WATERSKIN ]  𒋢𒀀𒂔𒇲;𒀀𒂔𒇲;|A.U.EDIN.LAL|(𒀀𒌋𒂔𒇲)  kuš ummud ;  ummud ;  ummud x (|A.U.EDIN.LAL|)  "waterskin" Akk.  nādu 
->>>  um-nu-ur5 mušen  
  umnur  [ BIRD ]  𒌝𒉡𒄯𒄷  um-nu-ur5 mušen  "a bird" 
->>>  u3 -mu2 u2 -mu11 ;  u-mu2  
  umu  [ STORAGE ]  𒅇𒊬𒌑𒅿;𒌋𒊬  u3 -mu2 u2 -mu11 ;  u-mu2  "a place for storing fish" 
->>>  u4 -mu-ul  
  umul  [ CREATURE ]  𒌓𒈬𒌌  u4 -mu-ul  "sickly creature" 
->>>  u3 -mun ;  u3 -mu-un ;  umun  
  umun  [ BLOOD ]  𒅇𒁵;𒅇𒈬𒌦;𒌣  u3 -mun ;  u3 -mu-un ;  umun  "blood" Akk.  dāmu 
->>>  umun2  
  umun  [ BODY ]  𒌣  umun2  "life-giving force; main body, bulk" Akk.  mummu ;  ummatu 
->>>  umun2  
  umun  [ KNOWLEDGE ]  𒌣  umun2  "knowledge; workshop" Akk.  mummu ;  ummatu ;  ummuqu 
->>>  umun10 ;  umun11 ;  umun12 ;  umun5 ;  umun6  
  umun  [ PIT ]  |U.MU|;|LAGAB×A|;|LAGAB×UD|;|LAGAB×U+A|;|LAGAB×HI×NUN|  umun10 ;  umun11 ;  umun12 ;  umun5 ;  umun6  "a pit; pond, puddle" Akk.  habbu ;  hammu 
->>>  u2 -muš  
  umuš  [ EXALTED ]  𒌑𒈲  u2 -muš  "exalted" Akk.  şīru 
->>>  umuš  
  umuš  [ PLANNING ]  TUG₂  umuš  "(fore)thought, plan(ning); understanding; instruction; consideration, sagacity" Akk.  ţēmu 
->>>  un3  
  un  [ HIGH ]  𒂦  un3  "to arise; sky; (to be) high" Akk.  elû ;  šamû ;  šaqû 
->>>  un x (|EZEN×X|)  
  un  [ UNMNG ]  |EZEN×X|(𒂡·HU)  un x (|EZEN×X|)  "" 
->>>  u3 -na  
  una  [ WILD ]  𒅇𒈾  u3 -na  "wild, proud; a wild animal" Akk.  kadrum ;  kattilu 
->>>  u3 -na-a-dug4 ;  u3 -na-dug4 ;  u3 -ne-dug4 ;  u3 -ne-e-dug4  
  unadug  [ LETTER ]  𒅇𒈾𒀀𒅗;𒅇𒈾𒅗;𒅇𒉈𒅗;𒅇𒉈𒂊𒅗  u3 -na-a-dug4 ;  u3 -na-dug4 ;  u3 -ne-dug4 ;  u3 -ne-e-dug4  "letter" Akk.  unnedduku ;  umunnedukku 
->>>  UN-gal  
  UNgal  [ RULER ]  𒌦𒃲  UN-gal  "ruler" Akk.  šarru ;  šarratu 
->>>  UN.IL2 ;  u2 -il2 ;  u3 -il2  
  UNIL  [ MENIAL ]  𒌦𒅍;𒌑𒅍;𒅇𒅍  UN.IL2 ;  u2 -il2 ;  u3 -il2  "a menial" Akk.  kinattu 
->>>  u2 -nin9  
  unin  [ PLANT ]  𒌑𒎐  u2 -nin9  "a plant" 
->>>  u6 -nir  
  unir  [ ZIGGURAT ]  𒅆𒂍𒉪  u6 -nir  "ziggurat" 
->>>  na4 u2 -ni-tum  
  unitum  [ STONE ]  𒎎𒌑𒉌𒌈  na4 u2 -ni-tum  "a stone" Akk.  unītu 
->>>  unkin ;  LAK649  
  unkin  [ ASSEMBLY ]  |URU×BAR|;¿  unkin ;  LAK649  "assembly" Akk.  puhru 
->>>  UN.TAR  
  UNTAR  [ WORKER ]  𒌦𒋻  UN.TAR  "a worker" 
->>>  UN.TAR  
  UNTAR  [ ~MILITARY ]  𒌦𒋻  UN.TAR  "a military term" 
->>>  unu2  
  unu  [ ADORNMENT ]  𒋼𒀕  unu2  "adornment, jewelry" Akk.  šukuttu 
->>>  unu2  
  unu  [ CHEEK ]  𒋼𒀕  unu2  "upper cheek" Akk.  usukku 
->>>  unu6 ;  unu2 ;  unu  
  unu  [ DWELLING ]  𒋼𒀊;𒋼𒀕;𒋼𒀕  unu6 ;  unu2 ;  unu  "banquet; dining hall; the most sacred part of a temple; seat, throne; dwelling, domicile, abode; temple" Akk.  mākalû ;  mūšabu ;  usukku ;  šubtu 
->>>  unu ku6  
  unu  [ FISH ]  𒋼𒀕𒄩  unu ku6  "a fish" 
->>>  unu2  
  unu  [ GIRL ]  𒋼𒀕  unu2  "girl, young woman" Akk.  ardatu 
->>>  unu2 ;  unu6  
  unu  [ MEAL ]  𒋼𒀕;𒋼𒀊  unu2 ;  unu6  "meal, food; meal(-time); table" Akk.  mākālu ;  naptanu ;  paššūru 
->>>  unu10 ;  unu8  
  unu  [ STICK ]  |GI%GI|;𒍑  unu10 ;  unu8  "(wooden) stick" Akk.  udugu 
->>>  unud ;  mu-nu10 ;  unu12 ;  unu9  
  unud  [ COWHERD ]  |AB₂.KU|;𒈬KU;|BU%BU|;KAD₄  unud ;  mu-nu10 ;  unu12 ;  unu9  "cattle herder" 
->>>  unu-gal  
  unugal  [ TOMB ]  𒋼𒀕𒃲  unu-gal  "tomb" 
->>>  unugi  
  unugi  [ RITES ]  |AB×IGI@g|  unugi  "office; rites, (cultic) ordinance" Akk.  parşu 
->>>  unug-lu2 mušen  
  unuglu  [ BIRD ]  𒀕𒇽𒄷  unug-lu2 mušen  "a bird" 
->>>  |AB@g|.SAR  
  UNUGSAR  [ GARDEN? ]  𒀕𒊬  |AB@g|.SAR  "garden?" 
->>>  u3 -nu-ĝar-ra  
  unuĝarra  [ IMPROPRIETY? ]  𒅇𒉡𒃻𒊏  u3 -nu-ĝar-ra  "impropriety?" 
->>>  unu2 -la2  
  unula  [ JEWELRY ]  𒋼𒀕𒇲  unu2 -la2  "jewelry" Akk.  šukuttu 
->>>  ĝeš u4 -nu-um  
  unum  [ TREE ]  𒄑𒌓𒉡𒌝  ĝeš u4 -nu-um  "a tree" 
->>>  u2 -numun sar  
  unumun  [ SAFFRON ]  𒌑𒆰𒊬  u2 -numun sar  "saffron" Akk.  azupīru 
->>>  unu2 -RI-banda3 da  
  unuRIbanda  [ LOCUS ]  𒋼𒀕𒊑𒌉𒁕  unu2 -RI-banda3 da  "sacred area" 
->>>  uz-pap  
  upap  [ BIRD ]  𒊻𒉽  uz-pap  "a bird" 
->>>  u2 -pil7 ;  u2 -pil2 -la2  
  upila  [ DEAF ]  𒌑PIRIG;𒌑NE@s𒇲  u2 -pil7 ;  u2 -pil2 -la2  "deaf" Akk.  sukkuku 
->>>  upu x (|AŠ@z|)  
  upu  [ UNIT ]  AŠ@z(𒀹)  upu x (|AŠ@z|)  "a unit of surface measurement" Akk.  ubû 
->>>  ur3  
  ur  [ ABUNDANT ]  𒃡  ur3  "(to be) abundant" Akk.  kapāšu 
->>>  ur5  
  ur  [ ANOINT ]  𒄯  ur5  "to rub in, anoint" Akk.  kadādu 
->>>  ur5 ;  ur3  
  ur  [ BAKE ]  𒄯;𒃡  ur5 ;  ur3  "to bake" 
->>>  ur2 ;  ĝeš ur2  
  ur  [ BASE ]  𒌫;𒄑𒌫  ur2 ;  ĝeš ur2  "base, legs of a table" 
->>>  ur5  
  ur  [ COLLECT ]  𒄯  ur5  "to confine, imprison" Akk.  pâdu 
->>>  ur4  
  ur  [ CONVULSED ]  𒌴  ur4  "to be convulsed" Akk.  arāru 
->>>  ur ;  ĝeš ur  
  ur  [ DOG ]  𒌨;𒄑𒌨  ur ;  ĝeš ur  "dog; ~ figurine; ~ toy; lion" Akk.  kalbu ;  labbu 
->>>  ur3  
  ur  [ DRAG ]  𒃡  ur3  "to go along; to wipe clean; to beat, sweep away; to drag; to raise a boat" Akk.  bâ'u ;  kapāru ;  šabāţu 
->>>  ur4 ku6 ;  ur ku6  
  ur  [ FISH ]  𒌴𒄩;𒌨𒄩  ur4 ku6 ;  ur ku6  "a fish" 
->>>  ur3  
  ur  [ HARNESS ]  𒃡  ur3  "harness; yoked team" Akk.  naşmadu 
->>>  ur5 ;  ur  
  ur  [ HE ]  𒄯;𒌨  ur5 ;  ur  "he; that, this same; maid, female slave; one; corresponding (to one another); like (one another)" Akk.  amtu ;  ištēn ;  mithāru ;  šû 
->>>  ur2  
  ur  [ KEEL? ]  𒌫  ur2  "keel?" 
->>>  ur5  
  ur  [ LIVER ]  𒄯  ur5  "liver; main body, bulk" Akk.  kabattu ;  ummatu 
->>>  ur  
  ur  [ MAN ]  𒌨  ur  "man" Akk.  amēlu 
->>>  ur4 ;  ur5  
  ur  [ PLUCK ]  𒌴;𒄯  ur4 ;  ur5  "to pluck; to gather, collect; to harvest" Akk.  baqāmu ;  eşēdu ;  hamāmu ;  kapātu 
->>>  ur4 ;  ur-ru-ur  
  ur  [ ROAM ]  𒌴;𒌨𒊒𒌨  ur4 ;  ur-ru-ur  "to roam around" Akk.  parāru 
->>>  ur3  
  ur  [ ROOF ]  𒃡  ur3  "roof" Akk.  ūru 
->>>  ur2 ;  ur5  
  ur  [ ROOT ]  𒌫;𒄯  ur2 ;  ur5  "root, base; limbs; loin, lap" Akk.  išdu ;  mešrêtu ;  sūnu ;  utlu 
->>>  ur  
  ur  [ SERVANT ]  𒌨  ur  "servant" 
->>>  ur3  
  ur  [ SHUT ]  𒃡  ur3  "to shut; protection" Akk.  edēlu ;  kidinnu 
->>>  ur5  
  ur  [ SMELL ]  𒄯  ur5  "to smell" Akk.  eşēnu 
->>>  tug2 ur2  
  ur  [ TRIM ]  𒌆𒌫  tug2 ur2  "a cloth trimming" Akk.  sūnu 
->>>  ur14  
  ur  [ UNMNG ]  GA₂×MUNUS  ur14  "" 
->>>  ur5  sag9  
  ur sag  [ AMELIORATE ]  𒄯𒊷  ur5  sag9  "to ameliorate the mood" Akk.  ? 
->>>  ur5  tab  
  ur tab  [ SUFFER ]  𒄯𒋰  ur5  tab  "to suffer" Akk.  ? 
->>>  ur5  ug7  
  ur ug  [ DESPAIR ]  𒄯UŠ₂  ur5  ug7  "to despair" Akk.  ? 
->>>  ur5 -ra  
  ura  [ DEJECTION? ]  𒄯𒊏  ur5 -ra  "dejection?" 
->>>  ur3 -ab2 mušen  
  urab  [ BIRD ]  𒃡𒀖𒄷  ur3 -ab2 mušen  "a bird" 
->>>  |UR2 ×A+NA|  
  URANA  [ TREE ]  𒌫·𒀀𒈾  |UR2 ×A+NA|  "a tree" 
->>>  u2 u2 -ra-an-na  
  uranna  [ PLANT ]  𒌑𒌑𒊏𒀭𒈾  u2 u2 -ra-an-na  "a plant" Akk.  urantu 
->>>  ur5 -ar3  
  urar  [ SOUND ]  𒄯𒄯  ur5 -ar3  "a sound (onomatopoeic)" 
->>>  ur5 -ar3  za  
  urar za  [ MAKE NOISE ]  𒄯𒄯𒍝  ur5 -ar3  za  "to make noise" 
->>>  uraš  
  uraš  [ EARTH ]  𒅁  uraš  "earth; crooked furrow" Akk.  erşetu ;  ligittu 
->>>  uraš  
  uraš  [ SECRET ]  𒅁  uraš  "secret" Akk.  pirištu 
->>>  ur2 -pad  
  urbad  [ BEDROOM ]  𒌫𒉻  ur2 -pad  "bedroom" Akk.  urpatu 
->>>  ur3 -bad3  
  urbad  [ ROOFTOP ]  𒃡𒂦  ur3 -bad3  "rooftop" 
->>>  ur-bar-ra ku6 ;  ku6 ur-bar-ra ;  ur-bar ku6  
  urbara  [ FISH ]  𒌨𒁇𒊏𒄩;𒄩𒌨𒁇𒊏;𒌨𒁇𒄩  ur-bar-ra ku6 ;  ku6 ur-bar-ra ;  ur-bar ku6  "a fish" 
->>>  ur-bar-ra  
  urbara  [ WOLF ]  𒌨𒁇𒊏  ur-bar-ra  "wolf" Akk.  barbaru 
->>>  urbigu  
  urbigu  [ COMBATIVE ]  |UR%UR|  urbigu  "(to be) combative" Akk.  šitnunu 
->>>  ur-bi-ku4 mušen ;  ur-bi-gu7 mušen  
  urbiku  [ BIRD ]  𒌨𒁉𒆭𒄷;𒌨𒁉𒅥𒄷  ur-bi-ku4 mušen ;  ur-bi-gu7 mušen  "a bird" Akk.  z-ibu 
->>>  na4 ur-bi2 -tum  
  urbitum  [ STONE ]  𒎎𒌨𒉈𒌈  na4 ur-bi2 -tum  "a stone" Akk.  urbītu 
->>>  ur-dib  
  urdib  [ CUB ]  𒌨𒁳  ur-dib  "cub" Akk.  gerru 
->>>  urgilim  
  urgilim  [ COMBATIVE ]  |NUN%NUN|  urgilim  "(to be) combative" Akk.  šitnunu 
->>>  ur-gir15  
  urgir  [ DOG ]  𒌨𒂠  ur-gir15  "(domestic) dog" Akk.  kalbu 
->>>  ur-gu-la  
  urgula  [ INSTRUMENT ]  𒌨𒄖𒆷  ur-gu-la  "an instrument" 
->>>  ur-gu-la  
  urgula  [ LION ]  𒌨𒄖𒆷  ur-gu-la  "lion" 
->>>  ĝeš uri3 ku6  
  uri  [ FISH ]  𒄑𒌶𒄩  ĝeš uri3 ku6  "a fish" 
->>>  uri4  
  uri  [ ILLNESS ]  𒅂  uri4  "an illness of the joints, arthritis?; an illness" Akk.  maškadu ;  šannadu 
->>>  uri  
  uri  [ VESSEL ]  𒌵  uri  "a vessel" 
->>>  ur-idim  
  uridim  [ DOG ]  𒌨𒅂  ur-idim  "mad dog, rabid dog" Akk.  uridimmu ;  kalbu šegû 
->>>  u4 -ri-ig  
  urig  [ CORNER ]  𒌓𒊑𒅅  u4 -ri-ig  "corner" Akk.  tubqu 
->>>  u4 -ri-ig  
  urig  [ HEADBAND ]  𒌓𒊑𒅅  u4 -ri-ig  "headband" Akk.  tuqnu 
->>>  urin ;  u3 -ri2 -in  
  urin  [ BLOOD ]  𒌶;𒅇𒌷𒅔  urin ;  u3 -ri2 -in  "blood" Akk.  damu 
->>>  urin  
  urin  [ GUARD ]  𒌶  urin  "to guard" Akk.  naşāru 
->>>  urin ;  u2 -ri-in  
  urin  [ PURE ]  𒌶;𒌑𒊑𒅔  urin ;  u2 -ri-in  "(to be) pure" Akk.  zakû 
->>>  urin ;  ĝeš urin  
  urin  [ STANDARD ]  𒌶;𒄑𒌶  urin ;  ĝeš urin  "standard" Akk.  urinnu 
->>>  uri3 -na  
  urinak  [ SANCTUARY ]  𒌶𒈾  uri3 -na  "a sanctuary" Akk.  urnakku 
->>>  ur-ki  
  urki  [ DOG ]  𒌨𒆠  ur-ki  "dog" Akk.  kalbu 
->>>  ur-mah  
  urmah  [ LION ]  𒌨𒈤  ur-mah  "lion" Akk.  nēšu ;  urmahhu 
->>>  ur2 -NE-NE sar  
  urNENE  [ PLANT ]  𒌫𒉈𒉈𒊬  ur2 -NE-NE sar  "a plant" 
->>>  ur-nig  
  urnig  [ LIONESS ]  𒌨𒊩𒌨  ur-nig  "lioness" Akk.  nēštu 
->>>  ur-nim  
  urnim  [ LION ]  𒌨𒉏  ur-nim  "lion" Akk.  girru 
->>>  ĝeš ur-nu-um  
  urnum  [ CEDAR ]  𒄑𒌨𒉡𒌝  ĝeš ur-nu-um  "a cedar" Akk.  urnu 
->>>  ur-pad-da  
  urpada  [ UNMNG ]  𒌨𒉻𒁕  ur-pad-da  "?" Akk.  ? 
->>>  ur5 -ra ;  ur5  
  urra  [ LOAN ]  𒄯𒊏;𒄯  ur5 -ra ;  ur5  "interest-bearing loan; debt; requital, favour" Akk.  gimillu ;  hubullu 
->>>  ur2 -ri-a  
  urri  [ ~SHEEP ]  𒌫𒊑𒀀  ur2 -ri-a  "a designation of sheep" 
->>>  urrub  
  urrub  [ VESSEL ]  𒂁  urrub  "a vessel" Akk.  urrumbu 
->>>  ur-saĝ  
  ursaĝ  [ HERO ]  𒌨𒊕  ur-saĝ  "hero" Akk.  qarrādu 
->>>  u2 |BU%BU|.DA ;  u2 ursaĝsim x (TAR)  
  ursaĝsim  [ SPARROW ]  𒌑𒁐𒁕;𒌑ursaĝsim·(𒋻)  u2 |BU%BU|.DA ;  u2 ursaĝsim x (TAR)  "sparrow" Akk.  şibāru 
->>>  dug ursub2 ;  ursub ;  dug ursub  
  ursub  [ VESSEL ]  𒂁𒆗;𒂁;𒂁𒂁  dug ursub2 ;  ursub ;  dug ursub  "a vessel" Akk.  urşuppu 
->>>  ur-šub5  
  uršub  [ TIGER ]  𒌨GIR₃  ur-šub5  "tiger" 
->>>  ur-šub5 -kud-da  
  uršubkuda  [ WILD ANIMAL ]  𒌨GIR₃𒋻𒁕  ur-šub5 -kud-da  "wild animal" Akk.  dumāmu ;  written ur-šur4 -gud in YBŠ11118 
->>>  urta  
  urta  [ BARLEY ]  𒅁  urta  "ear of barley" Akk.  antu 
->>>  ur-tur  
  urtur  [ PUPPY ]  𒌨𒌉  ur-tur  "puppy" 
->>>  uru6 ku6 ;  uru7 ku6  
  uru  [ FISH ]  |NINDA₂×U₂+AŠ|.HA𒄩;|UR₂×U₂+AŠ|.HA𒄩  uru6 ku6 ;  uru7 ku6  "a fish" Akk.  āru 
->>>  uru2 ;  uru18 ;  uru5  
  uru  [ FLOOD ]  𒍍;|URU×A|;𒋽  uru2 ;  uru18 ;  uru5  "flood, deluge" Akk.  abūbu 
->>>  uru12  
  uru  [ LITTER ]  TUG₂  uru12  "bedding place; litter; lair, dwelling; dung" Akk.  mūšabu ;  rubşu 
->>>  uru5  
  uru  [ SEAT ]  𒋽  uru5  "seat, dwelling" Akk.  šubtu 
->>>  uru4 ;  uru11 ru ;  i-ru  
  uru  [ SOW ]  𒀳;𒌾𒊒;𒐊𒊒  uru4 ;  uru11 ru ;  i-ru  "to sow; to cultivate" Akk.  erēšu 
->>>  uru uru16 ;  u18 -ru  
  uru  [ SUBSCRIPT ]  𒌷𒂗;𒍇𒊒  uru uru16 ;  u18 -ru  "a literary subscript" 
->>>  uru9  
  uru  [ SUPPORT ]  |SIG₄.IDIM|  uru9  "support; imposition; repair" Akk.  imdu ;  takšīru 
->>>  uru9  
  uru  [ VICINITY ]  |SIG₄.IDIM|  uru9  "immediate vicinity, adjacent (place)" Akk.  ţēhu 
->>>  uru10  
  uru  [ UNMNG ]  |SAG×DUB|  uru10  "" 
->>>  urud ;  urud2  
  urud  [ COPPER ]  U+1234F;U+1234F  urud ;  urud2  "copper" Akk.  erû 
->>>  UH3 .MUŠ3 ;  UH3 .AN.MUŠ3 ;  ŠITA.AN.MUŠ3 ;  AN.MUŠ3 .KUŠU2  
  uruh  [ PRIEST ]  𒆵𒈹;𒆵𒀭𒈹;𒋖𒀭𒈹;𒀭𒈹𒆵  UH3 .MUŠ3 ;  UH3 .AN.MUŠ3 ;  ŠITA.AN.MUŠ3 ;  AN.MUŠ3 .KUŠU2  "a priest who performs funerary rites" 
->>>  urum3  
  urum  [ MALE ]  |SAG×DUB|  urum3  "male" Akk.  zikaru 
->>>  u2 -rum  
  urum  [ PROPERTY ]  𒌑𒀸  u2 -rum  "property" 
->>>  urun x (EN)  
  urun  [ CLEVER ]  𒂗(𒂗)  urun x (EN)  "(to be) clever" Akk.  naklu 
->>>  urun x (EN) ;  u18 -ru ;  uru ;  uru15  
  urun  [ EXALTED ]  𒂗(𒂗);𒍇𒊒;𒌷;|ŠEŠ.AB|  urun x (EN) ;  u18 -ru ;  uru ;  uru15  "(to be) exalted; (to be) strong" Akk.  dannu ;  šapsu ;  şīru 
->>>  urun x (EN) ;  u18 -ru  
  urun  [ PACIFICATION ]  𒂗(𒂗);𒍇𒊒  urun x (EN) ;  u18 -ru  "pacification (of waves)" Akk.  tanīhu ša agî 
->>>  ur-ur  
  urur  [ FUNCTIONARY ]  𒌨𒌨  ur-ur  "cultic person; jackal; caterpillar" Akk.  ākilu 
->>>  ur-ur sar  
  urur  [ PLANT ]  𒌨𒌨𒊬  ur-ur sar  "a plant" 
->>>  u3 -ru-ru  
  ururu  [ LAMENT ]  𒅇𒊒𒊒  u3 -ru-ru  "a lament" Akk.  yarūru 
->>>  urutamga  
  urutamga  [ UNMNG ]  |URU×GAN₂@t|  urutamga  "" 
->>>  na4 u2 -ru-tum ;  na4 u2 -ru-tu  
  urutu  [ STONE ]  𒎎𒌑𒊒𒌈;𒎎𒌑𒊒𒌅  na4 u2 -ru-tum ;  na4 u2 -ru-tu  "a stone" Akk.  uruttu 
->>>  ur-za-ba-bi2 -tum  
  urzababitum  [ INSTRUMENT ]  𒌨𒍝𒁀𒉈𒌈  ur-za-ba-bi2 -tum  "a musical instrument" 
->>>  ĝeš ur-zi-num2 ;  ĝeš ur2 -zi-num  
  urzinum  [ UNMNG ]  𒄑𒌨𒍥𒈝;𒄑𒌫𒍥𒉏  ĝeš ur-zi-num2 ;  ĝeš ur2 -zi-num  "" 
->>>  us2  
  us  [ FOLLOW ]  𒍑  us2  "(to be) of a lesser quality; to drag; to stretch; to accompany, follow; a qualification of grain; to thresh (grain) by treading; to coagulate?" Akk.  diāšu ;  redû ;  šadādu 
->>>  us2  
  us  [ LEAN ]  𒍑  us2  "to lean on, impose; to check" Akk.  emēdu ;  sanāqu 
->>>  us5  
  us  [ SHEEP ]  |LAGAB×GUD+GUD|  us5  "sheep" Akk.  lahru 
->>>  us2  
  us  [ SIDE ]  𒍑  us2  "side, edge; path" Akk.  šiddu 
->>>  us2 -a-DU ;  us2 -sa-DU  
  usaDU  [ BORDER ]  𒍑𒀀𒁺;𒍑𒊓𒁺  us2 -a-DU ;  us2 -sa-DU  "border" 
->>>  u2 -sag11  
  usag  [ BUNDLE ]  𒌑KIN  u2 -sag11  "reed bundle for barrages" Akk.  šūru 
->>>  u3 -sa2 ;  u3 -di5 ;  u3 -sa-ga  
  usag  [ SLEEP ]  𒅇𒁲;𒅇𒊑;𒅇𒊓𒂵  u3 -sa2 ;  u3 -di5 ;  u3 -sa-ga  "sleep" Akk.  šittu 
->>>  usag x (|NUNUZ.AB2 ×LA|)  
  usag  [ UNMNG ]  |NUNUZ.AB₂×LA|(𒉭𒀖·𒆷)  usag x (|NUNUZ.AB2 ×LA|)  "?" Akk.  ? 
->>>  u2 -saga11  
  usaga  [ PLANT ]  𒌑𒆥  u2 -saga11  "plant bundle" 
->>>  u2 -saĝ  
  usaĝ  [ EARLY ]  𒌑𒊕  u2 -saĝ  "early crop" 
->>>  u4 -sakar  
  usakar  [ MOON ]  𒌓𒊬  u4 -sakar  "crescent moon; moon; crescent-shaped object; semi-circular line; half wheel" Akk.  uskāru ;  warhu 
->>>  u2 -sal ;  u8 -sal ;  SAL.|LAGAB×(GUD+GUD)|.DI? ;  |LAGAB×(GUD+GUD)|.DI.UD.SAL?  
  usal  [ MEADOW ]  𒌑𒊩;𒇇𒊩;𒊩𒆸·(𒄞𒄞)?;𒆸·(𒄞𒄞)𒁲𒌓  u2 -sal ;  u8 -sal ;  SAL.|LAGAB×(GUD+GUD)|.DI? ;  |LAGAB×(GUD+GUD)|.DI.UD.SAL?  "meadow, pasture" Akk.  aburriš ;  ušallu 
->>>  u2 -sal-la nud  
  usala nud  [ LIE DOWN ]  𒌑𒊩𒆷𒈿  u2 -sal-la nud  "to lie down peacefully" Akk.  aburriš rabāşu 
->>>  an-usan ;  u2 -sa11 -an ;  usan ;  an-u2 -sa11 -an ;  u2 -si-an ;  usan2 ;  an-usan x (GU2 x KAK) ;  an-usan x (|GU2 × KAK|)  
  usan  [ EVENING ]  𒀭𒄝;𒌑𒋜𒀭;𒄝;𒀭𒌑𒋜𒀭;𒌑𒋛𒀭;𒄝;𒀭KAK(𒄙);𒀭KAK(𒄘·𒆕)  an-usan ;  u2 -sa11 -an ;  usan ;  an-u2 -sa11 -an ;  u2 -si-an ;  usan2 ;  an-usan x (GU2 x KAK) ;  an-usan x (|GU2 × KAK|)  "evening; (in the) evening" Akk.  šimetan ;  šimītān 
->>>  kuš usan3 ;  ĝeš usan3 ;  kuš u4 -za-an  
  usan  [ WHIP ]  𒋢𒉮;𒄑𒉮;𒋢𒌓𒍝𒀭  kuš usan3 ;  ĝeš usan3 ;  kuš u4 -za-an  "whip" Akk.  qinnāzu 
->>>  geme2 usan3  
  usan  [ WORKER ]  𒊩𒆳𒉮  geme2 usan3  "a worker" 
->>>  usandu ;  usandu x (|NUNUZ.AB2 ×AŠGAB|)  
  usandu  [ WISE ]  |HU.KAK|;|NUNUZ.AB₂×AŠGAB|(𒉭𒀖·𒀿)  usandu ;  usandu x (|NUNUZ.AB2 ×AŠGAB|)  "wise, clever" Akk.  emqu 
->>>  usansuru x (|NUNUZ.AB2 ×AŠGAB|)  
  usansuru  [ UNMNG ]  |NUNUZ.AB₂×AŠGAB|(𒉭𒀖·𒀿)  usansuru x (|NUNUZ.AB2 ×AŠGAB|)  "?" 
->>>  usar ;  u5 -šu-ur2 ;  u3 -šu-ru ;  u3 -šu-ur2  
  usar  [ NEIGHBOR ]  |LAL₂.SAR|;𒄷𒋛𒋗𒌫;𒅇𒋗𒊒;𒅇𒋗𒌫  usar ;  u5 -šu-ur2 ;  u3 -šu-ru ;  u3 -šu-ur2  "(female) neighbor; secondary wife" Akk.  ši'ītu 
->>>  u3 -sar ak ;  u3 -sa-ar ak ;  u4 -sar ak  
  usar ak  [ SHARPEN ]  𒅇𒊬𒀝;𒅇𒊓𒅈𒀝;𒌓𒊬𒀝  u3 -sar ak ;  u3 -sa-ar ak ;  u4 -sar ak  "to sharpen" 
->>>  u2 -sar-ra  
  usarra  [ PLANT ]  𒌑𒊬𒊏  u2 -sar-ra  "type of plant" 
->>>  usi  
  usi  [ STOREROOM ]  |GA₂×ŠE|  usi  "storeroom" Akk.  qarītu 
->>>  usil  
  usil  [ UNMNG ]  |EZEN×U₂|  usil  "" 
->>>  u5 -sim mušen  
  usim  [ BIRD ]  𒄷𒋛𒉆𒄷  u5 -sim mušen  "a bird" Akk.  qaqû 
->>>  na4 u2 -si-um  
  usium  [ STONE ]  𒎎𒌑𒋛𒌝  na4 u2 -si-um  "type of stone" 
->>>  us2 -saĝ  
  ussaĝ  [ BOND ]  𒍑𒊕  us2 -saĝ  "(cosmic) bond" 
->>>  ussu  
  ussu  [ EIGHT ]  𒑄  ussu  "eight" Akk.  šamānet 
->>>  usu  
  usu  [ STRENGTH ]  |A₂.KAL|  usu  "strength; force" Akk.  emûqu 
->>>  usud  
  usud  [ STAFF ]  |GA₂×AN.KAK.A|  usud  "shepherd's staff; scepter" Akk.  šibirru 
->>>  usuh  
  usuh  [ PRIEST ]  |SAL.LAGAR|  usuh  "en-priest of Enki" Akk.  ēnû 
->>>  ĝeš u3 -suh5 ;  ĝeš u2 -suh5  
  usuh  [ TREE ]  𒄑𒅇𒆪;𒄑𒌑𒆪  ĝeš u3 -suh5 ;  ĝeš u2 -suh5  "a tree" Akk.  ašūhu 
->>>  usur4 ;  sur5  
  usur  [ SUSPEND ]  |LAL.LAGAB|;𒇲  usur4 ;  sur5  "to suspend" Akk.  šuqallulu 
->>>  usu-tuku  
  usutuku  [ STRONG ]  |A₂.KAL|𒌇  usu-tuku  "strong" 
->>>  uš2  
  uš  [ BLOCK ]  𒍗  uš2  "to shut off, block up" Akk.  sekēru 
->>>  uš2  
  uš  [ BLOOD ]  𒍗  uš2  "blood, gore" Akk.  dāmu 
->>>  uš2  
  uš  [ DIE ]  𒍗  uš2  "to die; to be dead; to kill; death" Akk.  dāmu ;  mâtu ;  mūtu ;  uššu 
->>>  uš ku6  
  uš  [ FISH ]  𒍑𒄩  uš ku6  "a fish" 
->>>  uš  
  uš  [ FOUNDATION ]  𒍑  uš  "foundation" Akk.  uššu 
->>>  uš3 ;  uš5 ;  uš6  
  uš  [ MEMBRANE ]  |GA₂×SAL|;|NUN.LAGAR×SAL|;|NUN.LAGAR×MAŠ|  uš3 ;  uš5 ;  uš6  "membrane; womb; afterbirth" Akk.  ipu ;  silītu ;  silītu 
->>>  uš11  
  uš  [ POISON ]  𒅜  uš11  "poison" Akk.  imtu 
->>>  uš2  
  uš  [ REED ]  𒍗  uš2  "dead reed" 
->>>  uš7 ;  aš  
  uš  [ SPITTLE ]  |KA×LI|;𒀸  uš7 ;  aš  "spittle" Akk.  rutû 
->>>  uš15  
  uš  [ VESSEL ]  |SI.A|  uš15  "a copper vessel" Akk.  uššu 
->>>  uš  
  uš  [ UNIT ]  𒍑  uš  "a unit of length" 
->>>  uš gu7 ;  uš2  gu7  
  uš gu  [ SPARE ]  𒍑𒅥;𒍗𒅥  uš gu7 ;  uš2  gu7  "to spare; to release" Akk.  padû 
->>>  tug2 uš-bar  
  ušbar  [ GARMENT ]  𒌆𒍑𒁇  tug2 uš-bar  "a kind of garment" 
->>>  ušbar ;  ušbar3 ;  ušbar2  
  ušbar  [ IN-LAW ]  |UR₂×NUN|;|UR₂×U₂+AŠ|;|ZU₅×A|  ušbar ;  ušbar3 ;  ušbar2  "father-in-law; mother-in-law" Akk.  emu ;  emītu 
->>>  ušbar5  
  ušbar  [ STAFF ]  |U.EN×GAN₂@t|  ušbar5  "ruler's staff" Akk.  ušparu 
->>>  uš-bar  
  ušbar  [ WEAVER ]  𒍑𒁇  uš-bar  "weaver" Akk.  išparu 
->>>  u2 -šeg x (|HA@g|)  
  ušeg  [ PLANT ]  𒌑HA@g(𒄫)  u2 -šeg x (|HA@g|)  "a plant" Akk.  ašāgu 
->>>  u3 -še3 -la2  
  ušela  [ SINGER ]  𒅇𒂠𒇲  u3 -še3 -la2  "female lament singer" Akk.  zammertu 
->>>  ušera  
  ušera  [ REED-BUNDLE ]  |LAGAB×U₂+AŠ|  ušera  "bundle of reeds" Akk.  budduru 
->>>  uš-ga  
  ušga  [ YOUTH ]  𒍑𒂵  uš-ga  "attendant; youth" Akk.  gerseqqû ;  uškû 
->>>  u2 -šim  
  ušim  [ GREENERY ]  𒌑𒋆  u2 -šim  "greenery" 
->>>  urudu UŠ.|LAGAB×U|  
  UŠLAGABU  [ OBJECT ]  U+1234F𒍑𒇥  urudu UŠ.|LAGAB×U|  "a copper object" 
->>>  uš-me-da  
  ušmeda  [ MEAT ]  𒍑𒈨𒁕  uš-me-da  "a type of meat" Akk.  ušmedû 
->>>  uštuh  
  uštuh  [ LANDSCAPE ]  |KI.IB|  uštuh  "a type of landscape" Akk.  huddudu 
->>>  ušu  
  ušu  [ ALONE ]  |URU×GU|.UŠ  ušu  "alone" Akk.  ēdiššu 
->>>  ušu3  
  ušu  [ THIRTY ]  |U.U.U|  ušu3  "thirty" 
->>>  ĝeš u3 -šub ;  ĝeš šub  
  ušub  [ BRICK-MOLD ]  𒄑𒅇𒊒;𒄑𒊒  ĝeš u3 -šub ;  ĝeš šub  "brick-mold; a geometric figure" Akk.  nalbanu 
->>>  gi u3 -šub  
  ušub  [ PART OF REED ]  𒄀𒅇𒊒  gi u3 -šub  "part of reed" 
->>>  ušub  
  ušub  [ ~REED ]  |SI.A|  ušub  "a part of a reed" Akk.  adattu 
->>>  ušum  
  ušum  [ SNAKE ]  |URU×GU|.UŠ  ušum  "first and foremost; noble; snake" Akk.  ašaredu ;  bašmu ;  gitmālu 
->>>  ušumgal ;  u3 -šu-gal  
  ušumgal  [ DRAGON ]  |GAL.BUR₂|;𒅇𒋗𒃲  ušumgal ;  u3 -šu-gal  "great dragon, snake" Akk.  ušumgallu 
->>>  u2 -šumunda  
  ušumunda  [ PLANT ]  𒌑𒇰𒊬  u2 -šumunda  "a plant" 
->>>  ušuš  
  ušuš  [ LAND ]  |GA₂×NUN|  ušuš  "a type of land" Akk.  miţru 
->>>  uš11 -zag-ga  
  ušzaga  [ DRIVELING ]  𒅜𒍠𒂵  uš11 -zag-ga  "driveling" 
->>>  u2 -tag  
  utag  [ MAUL? ]  𒌑𒋳  u2 -tag  "maul?" 
->>>  utah  
  utah  [ HEAVEN ]  |U.GA|  utah  "heaven" Akk.  šamû 
->>>  utte  
  utte  [ LAND ]  |KI.KI|  utte  "lower land" Akk.  mâtu šaplîtu 
->>>  uttu2  
  uttu  [ COUNT ]  𒋃  uttu2  "count, number" Akk.  minûtu 
->>>  uttu x (|TAG×KU|) ;  uttu  
  uttu  [ LOG ]  |TAG×KU|(𒋳·𒆪);𒋸  uttu x (|TAG×KU|) ;  uttu  "a log, beam of a weaving utensil" Akk.  uddu 
->>>  uttuku  
  uttuku  [ ABACUS ]  |GAR.ŠID|  uttuku  "abacus" Akk.  mahişātu ;  uttuku 
->>>  LAK384 ;  utu2 ;  utu5  
  utu  [ ~CEREAL ]  ¿;|U.GA|;AŠ₂  LAK384 ;  utu2 ;  utu5  "a cereal concoction" Akk.  diktu 
->>>  tud ;  u3 -tu ;  tu-ud  
  utud  [ BEAR ]  𒌅;𒅇𒌅;𒌅𒌓  tud ;  u3 -tu ;  tu-ud  "to give birth (to), bear a child" Akk.  alādu 
->>>  utu-e3  
  utu'e  [ SUNRISE ]  𒌓𒌓𒁺  utu-e3  "sunrise" Akk.  şīt šamši 
->>>  u3 -tuh-hu-um ;  u4 -tuh-hu-um ;  u3 -tuh-um  
  utuhum  [ BREAD ]  𒅇𒂃𒄷𒌝;𒌓𒂃𒄷𒌝;𒅇𒂃𒌝  u3 -tuh-hu-um ;  u4 -tuh-hu-um ;  u3 -tuh-um  "a bread" 
->>>  utul2 ;  u2 -du ;  u2 -da ;  dug utul2 ;  ĝeš utul2  
  utul  [ TUREEN ]  |HI×BAD|;𒌑𒁺;𒌑𒁕;𒂁|HI×BAD|;𒄑|HI×BAD|  utul2 ;  u2 -du ;  u2 -da ;  dug utul2 ;  ĝeš utul2  "tureen, large bowl" Akk.  diqāru 
->>>  u4 -tul2 -la2  
  utulla  [ STONE ]  𒌓|LAGAB×U|𒇲  u4 -tul2 -la2  "a precious stone" Akk.  illuku 
->>>  uz-tum12  
  utum  [ BIRD ]  𒊻𒌅  uz-tum12  "a bird" 
->>>  u2 -tup-lu  
  utuplu  [ SHAWL ]  𒌑DUB𒇻  u2 -tup-lu  "a shawl" Akk.  utuplu 
->>>  utu-šu2 -uš ;  utu-šuš2  
  utušuš  [ SUNSET ]  𒌓𒋙𒍑;𒌓𒋙  utu-šu2 -uš ;  utu-šuš2  "sunset; the West" Akk.  ereb šamši 
->>>  utuwa(LAK777) ku6  
  utuwa  [ FISH ]  |DAG.KISIM₅×UŠ|(¿)𒄩  utuwa(LAK777) ku6  "a fish" 
->>>  utuwa ;  utuwa2  
  utuwa  [ STUD ]  |DAG.KISIM₅×UŠ|;|DAG.KISIM₅×LU+MAŠ₂|  utuwa ;  utuwa2  "stud" Akk.  puhālu 
->>>  na4 u2 -u2  
  u'u  [ STONE ]  𒎎𒌑𒌑  na4 u2 -u2  "a stone" Akk.  šamnu 
->>>  u3 -u8 ;  u3 -u8 -a ;  u3 -u8 -i  
  u'u  [ UNMNG ]  𒅇𒇇;𒅇𒇇𒀀;𒅇𒇇𒐊  u3 -u8 ;  u3 -u8 -a ;  u3 -u8 -i  "" 
->>>  u2 -ug  
  u'ug  [ DEAF ]  𒌑𒊌  u2 -ug  "deaf; (to be) difficult, obstinate" 
->>>  u4 -ul  
  u'ul  [ CONSENT ]  𒌓𒌌  u4 -ul  "consent" Akk.  annu 
->>>  u2 -URU-u3 -a  
  uURUua  [ PLANT ]  𒌑𒌷𒅇𒀀  u2 -URU-u3 -a  "type of plant" 
->>>  un mušen  
  u'uz  [ BIRD ]  𒌦𒄷  un mušen  "a bird" 
->>>  uz ;  uz mušen  
  uz  [ DUCK ]  𒊻;𒊻𒄷  uz ;  uz mušen  "wild duck" Akk.  ūsu 
->>>  uzaglal  
  uzaglal  [ UNIT ]  AŠ@z  uzaglal  "a unit of area" Akk.  uzaglalû 
->>>  u4 -za-hal ;  u4 -za-ha-al  
  uzahal  [ DISAPPEARANCE ]  𒌓𒍝𒄬;𒌓𒍝𒄩𒀠  u4 -za-hal ;  u4 -za-ha-al  "disappearance" Akk.  halāqu 
->>>  uz-ga ;  uzug5 ;  u2 -si18 -gi ;  uz3 -ga ;  uzug ;  uzug2 ;  uzug3 ;  uzug4 ;  uzug x ;  u2 -zug4  
  uzga  [ PRIEST ]  𒊻𒂵;|KA×U₂|;𒌑|KA×BALAG|𒄀;𒍚𒂵;|KA×U₂|;|U₂.KA|;|U₂.SAG|;|U₂.KUR.NI.TUK.KI|;𒅗;𒌑|KA×LI|  uz-ga ;  uzug5 ;  u2 -si18 -gi ;  uz3 -ga ;  uzug ;  uzug2 ;  uzug3 ;  uzug4 ;  uzug x ;  u2 -zug4  "a type of priest" 
->>>  uz-ga ;  uz-ga-še3 ;  uzug x (KA) ;  uz-ga-ta ;  uzug ;  uz3 -ga ;  us-ga-ne ;  us-ga ;  uz-ga-ne ;  uzug x (|AN.ZAG|) ;  usag x (|U.ŠA|) ;  sa usag x (|U.ŠA|) ;  sa usag x (|U.ŠA|) ki  
  uzga  [ TREASURE ]  𒊻𒂵;𒊻𒂵𒂠;𒅗(𒅗);𒊻𒂵𒋫;|KA×U₂|;𒍚𒂵;𒊻𒂵𒉈;𒊻𒂵;𒊻𒂵𒉈;𒅗(𒀭𒍠);|NUNUZ.AB₂×LA|(𒌋𒊭);𒊓|NUNUZ.AB₂×LA|(𒌋𒊭);𒊓|NUNUZ.AB₂×LA|(𒌋𒊭)𒆠  uz-ga ;  uz-ga-še3 ;  uzug x (KA) ;  uz-ga-ta ;  uzug ;  uz3 -ga ;  us-ga-ne ;  us-ga ;  uz-ga-ne ;  uzug x (|AN.ZAG|) ;  usag x (|U.ŠA|) ;  sa usag x (|U.ŠA|) ;  sa usag x (|U.ŠA|) ki  "cella, shrine; goods, treasure; treasury" Akk.  sagû ;  sukku 
->>>  uz-gi4 mušen  
  uzgi  [ BIRD ]  𒊻𒄄𒄷  uz-gi4 mušen  "a bird" 
->>>  UZ.TUR  
  UZTUR  [ DUCK ]  𒊻𒌉  UZ.TUR  "type of duck" 
->>>  uzu2  
  uzu  [ DIVINER ]  |ZU₅×A|  uzu2  "diviner" Akk.  bārû 
->>>  uzu ;  uzu(LAK350)  
  uzu  [ FLESH ]  𒍜;𒍜(¿)  uzu ;  uzu(LAK350)  "flesh; body; entrails; omen" Akk.  šīru 
->>>  uzu-bal  
  uzubal  [ ~SOUP ]  𒍜𒁄  uzu-bal  "a designation of soups" 
->>>  uzud  
  uzud  [ GOAT ]  UZ₃  uzud  "(female) goat" Akk.  enzu 
->>>  uzud-ga  
  uzudga  [ GOAT ]  UZ₃𒂵  uzud-ga  "milk goat" 
->>>  uzu-dirig  
  uzudirig  [ MUSHROOM ]  𒍜𒋛𒀀  uzu-dirig  "mushroom" 
->>>  uzu-ga  
  uzuga  [ ENTRAIL ]  𒍜𒂵  uzu-ga  "entrail omen" 
->>>  u2 -zu-ge  
  uzuge  [ CHAIN ]  𒌑𒍪𒄀  u2 -zu-ge  "chain" 

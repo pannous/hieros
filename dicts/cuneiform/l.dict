@@ -1,596 +1,299 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
->>>  la6  
  la  [ FLOODING ]  𒆗  la6  "flooding" Akk.  nīlu 
->>>  la2 ;  la ;  lal2  
  la  [ HANG ]  𒇲;𒆷;𒇳  la2 ;  la ;  lal2  "to supervise, check; to weigh, weigh (out), pay; to hang, balance, suspend, be suspended; to show, display; to bind; binding, (yoke-)team; to press, throttle; to winnow (grain); to carry" Akk.  alālu ;  hanāqu ;  hiāţu ;  kamû ;  kasû; şimittu ;  kullumu ;  šaqālu ;  šuqalulu ;  zarû 
->>>  la2  
  la  [ STRETCH ]  𒇲  la2  "to stretch out; to be in order" Akk.  tarāşu 
->>>  laban  
  laban  [ UNMNG ]  |EZEN×LA|  laban  "?" Akk.  pismu 
->>>  la-bi  
  labi  [ DEAR ]  𒆷𒁉  la-bi  "a term of endearment, dear" 
->>>  la-ag ;  lag ;  la-IM  
  lag  [ CLOD ]  𒆷𒀝;𒋃;𒆷𒅎  la-ag ;  lag ;  la-IM  "clod (of earth), lump" Akk.  kirbānu 
->>>  la-ga ;  lag-ga  
  laga  [ SLAG ]  𒆷𒂵;𒋃𒂵  la-ga ;  lag-ga  "slag; a skin ailment" Akk.  lagû 
->>>  lu2 la-ga  
  laga  [ THIEF ]  𒇽𒆷𒂵  lu2 la-ga  "thief" Akk.  habbatu 
->>>  la-ga  
  laga  [ VULVA ]  𒆷𒂵  la-ga  "vulva" Akk.  gurištu ;  laqlaqqu 
->>>  lagab ;  na4 lagab  
  lagab  [ BLOCK ]  𒆸;𒎎𒆸  lagab ;  na4 lagab  "block; stump (of tree)" Akk.  upqu 
->>>  lagab  
  lagab  [ DEBT-NOTE ]  𒆸  lagab  "debt-note" Akk.  hišû 
->>>  lagab  
  lagab  [ EXCESS ]  𒆸  lagab  "excess" Akk.  atartu 
->>>  lagab  
  lagab  [ RAIL ]  𒆸  lagab  "rail, fence, side-wall" Akk.  kutlu 
->>>  LAGAB mušen  
  LAGAB  [ BIRD ]  𒆸𒄷  LAGAB mušen  "a bird" 
->>>  |LAGAB.SAG@g| mušen  
  LAGABSAGGUNU  [ BIRD ]  𒆸𒊨𒄷  |LAGAB.SAG@g| mušen  "a bird" 
->>>  lagar ;  lagar3 ;  la-bar  
  lagar  [ PRIEST ]  𒇬;𒊩𒄸;𒆷𒁇  lagar ;  lagar3 ;  la-bar  "a priest" Akk.  lagaru 
->>>  lagaš  
  lagaš  [ STOREHOUSE ]  𒉢𒁓𒆷  lagaš  "storehouse" Akk.  nakamtu 
->>>  la-ĝa2  
  laĝa  [ BUTTERFLY ]  𒆷𒂷  la-ĝa2  "butterfly" Akk.  kurmittu 
->>>  la7  
  lah  [ BEAT ]  𒌓  la7  "to beat; to full (cloth, wool)" Akk.  mašādu 
->>>  lah5 ;  lah4  
  lah  [ BRING ]  |DU.DU|;𒁻  lah5 ;  lah4  "plural stem of de [to bring]" 
->>>  lah2  
  lah  [ DRY ]  ERIN₂  lah2  "to dry" Akk.  šābulu 
->>>  la-ha-ma  
  lahama  [ BEING ]  𒆷𒄩𒈠  la-ha-ma  "a mythical being" Akk.  lahmu 
->>>  dug la-ha-an  
  lahan  [ BOTTLE ]  𒂁𒆷𒄩𒀭  dug la-ha-an  "a bottle" Akk.  lahannu 
->>>  dug la-ha-nu-um  
  lahan  [ FLASK ]  𒂁𒆷𒄩𒉡𒌝  dug la-ha-nu-um  "flask" Akk.  lahannu 
->>>  lahar ;  lahar2  
  lahar  [ EWE ]  |LAGAB×GUD+GUD|;DARA₄  lahar ;  lahar2  "ewe; sheep" Akk.  lahru 
->>>  lahhušu ;  lahhušu x (|SIG4 .SIG4 .ŠU2 |)  
  lahhušu  [ BASE ]  |SIG₄&SIG₄.ŠU₂|;|SIG₄.SIG₄.ŠU₂|(𒋞𒋞𒋙)  lahhušu ;  lahhušu x (|SIG4 .SIG4 .ŠU2 |)  "base of a pot" Akk.  šupat karpati 
->>>  lahtan ;  lahtan4 ;  lahtan3  
  lahtan  [ VAT ]  𒉴;|NUNUZ.AB₂×NE|;|NUNUZ.KISIM₅×BI.U|  lahtan ;  lahtan4 ;  lahtan3  "a beer vat" Akk.  lahtanu 
->>>  u2 LAK175-na  
  LAK175na  [ PLANT ]  𒌑¿𒈾  u2 LAK175-na  "a plant" 
->>>  LAK20  
  LAK20  [ GOAT ]  ¿  LAK20  "male goat" 
->>>  LAK25 ku6  
  LAK25  [ FISH ]  ¿𒄩  LAK25 ku6  "a fish" 
->>>  LAK225 ku6  
  LAK225  [ FISH ]  ¿𒄩  LAK225 ku6  "a fish" 
->>>  LAK262  
  LAK262  [ ANIMAL ]  ¿  LAK262  "an animal" 
->>>  LAK262 ku6  
  LAK262  [ FISH ]  ¿𒄩  LAK262 ku6  "a fish" 
->>>  LAK263  
  LAK263  [ ANIMAL ]  ¿  LAK263  "an animal" 
->>>  LAK264  
  LAK264  [ ANIMAL ]  ¿  LAK264  "an animal" 
->>>  LAK384 ;  NI-na-al  
  LAK384  [ FOOD ]  ¿;𒉌𒈾𒀠  LAK384 ;  NI-na-al  "a food product" 
->>>  |ŠU2 +E2 |(LAK397) ku6  
  LAK397  [ FISH ]  𒋙𒂍(¿)𒄩  |ŠU2 +E2 |(LAK397) ku6  "a fish" 
->>>  |ĜA2 xNE|(LAK688) ku6  
  LAK688  [ FISH ]  𒂷?(¿)𒄩  |ĜA2 xNE|(LAK688) ku6  "a fish" 
->>>  LAK93 ku6  
  LAK93  [ FISH ]  ¿𒄩  LAK93 ku6  "a fish" 
->>>  |NINDA2 xMUN|(LAK997) ku6  
  LAK997  [ FISH ]  𒉒?(¿)𒄩  |NINDA2 xMUN|(LAK997) ku6  "a fish" 
->>>  dug la-ak-bu-um  
  lakbum  [ VESSEL ]  𒂁𒆷𒀝𒁍𒌝  dug la-ak-bu-um  "a vessel" Akk.  lakbu 
->>>  lal3  
  lal  [ PRIEST ]  𒋭  lal3  "type of priest" 
->>>  lal ;  lal2  
  lal  [ SMALL ]  𒇲;𒇳  lal ;  lal2  "(to be) small, little; minus sign; (to be) insignificant, low-value; dimunition" Akk.  maţû ;  tamţâtu 
->>>  lal  
  lal  [ STRAP ]  𒇲  lal  "strap" Akk.  kurussu 
->>>  lal3  
  lal  [ SWEET ]  𒋭  lal3  "(to be) sweet; (to be) good" 
->>>  lal3  
  lal  [ SYRUP ]  𒋭  lal3  "syrup; honey" Akk.  dišpu ;  matqu ;  ţābu 
->>>  la-la ;  a-la ;  la  
  lala  [ PLENTY ]  𒆷𒆷;𒀀𒆷;𒆷  la-la ;  a-la ;  la  "plenty, happiness, lust" Akk.  lalû 
->>>  la-la-ĝal2  
  lalaĝal  [ CHARMING ]  𒆷𒆷𒅅  la-la-ĝal2  "charming" 
->>>  la ;  la-la ;  a-la ;  la-la-mu  
  lalamu  [ BUTTOCKS ]  𒆷;𒆷𒆷;𒀀𒆷;𒆷𒆷𒈬  la ;  la-la ;  a-la ;  la-la-mu  "a stand, buttocks" Akk.  šuhhu 
->>>  la-la-nu-u  
  lalanu  [ DESTITUTE ]  𒆷𒆷𒉡𒌋  la-la-nu-u  "destitute person" Akk.  lalānu 
->>>  la-la-ri mušen  
  lalari  [ OWL ]  𒆷𒆷𒊑𒄷  la-la-ri mušen  "owl" Akk.  qadû 
->>>  ĝeš lal3 -dar  
  laldar  [ POMEGRANATE ]  𒄑𒋭𒁯  ĝeš lal3 -dar  "pomegranate" Akk.  nurmû 
->>>  u2 LAL2 .DU  
  LALDU  [ WEED ]  𒌑𒇳𒁺  u2 LAL2 .DU  "a weed" 
->>>  lal3 -e-šag4 -ga  
  lalešaga  [ PRIEST ]  𒋭𒂊𒊮𒂵  lal3 -e-šag4 -ga  "a priest or cultic functionary" 
->>>  lal3 -|HI×AŠ2 | ;  lal3 -gar  
  lalHAR  [ WATERS ]  𒋭𒄯;𒋭𒃻  lal3 -|HI×AŠ2 | ;  lal3 -gar  "subterranean waters" 
->>>  lal3 -|HI×AŠ2 |  
  lalHAR  [ WAX ]  𒋭𒄯  lal3 -|HI×AŠ2 |  "wax" Akk.  iškūru 
->>>  lal3 -la2  
  lalla  [ INSECT ]  𒋭𒇲  lal3 -la2  "an insect" Akk.  lallartu 
->>>  gi lam  
  lam  [ CUTTING ]  𒄀𒇴  gi lam  "cutting" Akk.  hisru? 
->>>  lam ;  lam x (LUM)  
  lam  [ FLOURISH ]  𒇴;𒈝(𒈝)  lam ;  lam x (LUM)  "to flourish; to make grow luxuriantly" Akk.  ešēbu; uššubu 
->>>  ĝeš lam  
  lam  [ SAPLING ]  𒄑𒇴  ĝeš lam  "sapling; a tree" Akk.  lammu 
->>>  ĝeš lam ;  ĝeš lam7  
  lam  [ TREE ]  𒄑𒇴;𒄑GIŠ.|LAM×KUR|  ĝeš lam ;  ĝeš lam7  "a nut-bearing tree" Akk.  lammu ;  lūku ;  šiqdu 
->>>  lamahuš  
  lamahuš  [ GARMENT ]  |ZI&ZI.LAGAB|  lamahuš  "a garment; clothing" Akk.  lamahuššû ;  lubuštum ;  raqqatu 
->>>  lam-re ;  dug lam-di-re ;  lam-re6 ;  lam-di ;  gi lam-di ;  ĝeš lam-re ;  lam-di-re  
  lamdre  [ VAT ]  𒇴𒊑;𒂁𒇴𒁲𒊑;𒇴𒁺;𒇴𒁲;𒄀𒇴𒁲;𒄑𒇴𒊑;𒇴𒁲𒊑  lam-re ;  dug lam-di-re ;  lam-re6 ;  lam-di ;  gi lam-di ;  ĝeš lam-re ;  lam-di-re  "brewing vat" 
->>>  ĝeš lam-gal ;  lam-gal ;  lam-gal-gal ;  ĝeš lam-hal ;  lam-hal  
  lamgal  [ NUT ]  𒄑𒇴𒃲;𒇴𒃲;𒇴𒃲𒃲;𒄑𒇴𒄬;𒇴𒄬  ĝeš lam-gal ;  lam-gal ;  lam-gal-gal ;  ĝeš lam-hal ;  lam-hal  "a nut" Akk.  buţumtu ;  lapānu 
->>>  lamhu  
  lamhu  [ NETHERWORLD ]  |KUR@KUR|  lamhu  "netherworld" Akk.  irkallu 
->>>  d lamma ;  d lamma zabar ;  lamma  
  lammar  [ DEITY ]  𒀭𒆗;𒀭𒆗𒌓𒊕𒁇;𒆗  d lamma ;  d lamma zabar ;  lamma  "(female) tutelary deity; ~ figurine" Akk.  lamassu 
->>>  ĝeš lam-tur ;  lam-tur-tur  
  lamtur  [ NUT ]  𒄑𒇴𒌉;𒇴𒌉𒌉  ĝeš lam-tur ;  lam-tur-tur  "a nut" Akk.  šer'azu 
->>>  la-ra-ah  
  larah  [ HOE ]  𒆷𒊏𒄴  la-ra-ah  "hoe; harness" Akk.  abšānu 
->>>  la-ra-ah  
  larah  [ STRAITS ]  𒆷𒊏𒄴  la-ra-ah  "dire straits, especially in childbirth" Akk.  pušqu 
->>>  la'u ;  la'u3 ;  la'u4 ;  la'u5 ;  la'u x (|LAL2 .U|) ;  la2 -a ;  la2 -u x (NI) ;  la2 -u5  
  la'u  [ ARREARS ]  LAL₂;|LAL₂.NI|;|LAL₂.KAK|;|LAL₂.A|;|LAL₂.U|(𒇳𒌋);𒇲𒀀;𒇲NI(𒉌);𒇲𒄷𒋛  la'u ;  la'u3 ;  la'u4 ;  la'u5 ;  la'u x (|LAL2 .U|) ;  la2 -a ;  la2 -u x (NI) ;  la2 -u5  "arrears; surplus" Akk.  ribbatu 
->>>  le-um ;  ĝeš le-um ;  ĝeš le ;  ĝeš le-u5 ;  ĝeš le-u5 -um  
  le'um  [ BOARD ]  𒇷𒌝;𒄑𒇷𒌝;𒄑𒇷;𒄑𒇷𒄷𒋛;𒄑𒇷𒄷𒋛𒌝  le-um ;  ĝeš le-um ;  ĝeš le ;  ĝeš le-u5 ;  ĝeš le-u5 -um  "writing board; board (of a plow)" Akk.  le'u 
->>>  li  
  li  [ BRANCH ]  𒇷  li  "branch, twig" Akk.  larû 
->>>  ĝeš li ;  li ĝeš  
  li  [ JUNIPER ]  𒄑𒇷;𒇷𒄑  ĝeš li ;  li ĝeš  "juniper" Akk.  burāšu 
->>>  li2  
  li  [ OIL ]  𒉌  li2  "oil; fat; cream" Akk.  šamnu 
->>>  li2 ;  li9  
  li  [ PRESS ]  𒉌;𒉈  li2 ;  li9  "to press (oil)" Akk.  ruqqû 
->>>  lib5  
  lib  [ ABSENT ]  |SAG×UM|  lib5  "(to be) absent" 
->>>  lib  
  lib  [ DAZED ]  𒈜  lib  "dazed silence; (to be) dazed" Akk.  šaqummatu 
->>>  lib x (|NI.LU|)  
  lib  [ FAT ]  |NI.LU|(𒉌𒇻)  lib x (|NI.LU|)  "sheep fat" 
->>>  lib  
  lib  [ HEART ]  𒈜  lib  "inner body; heart" Akk.  libbu 
->>>  al-li-bi  
  libi  [ HICCUP ]  𒀠𒇷𒁉  al-li-bi  "to hiccup" 
->>>  libin  
  libin  [ DISEASE ]  |EZEN×LI|  libin  "a sheep disease, a diseased sheep" Akk.  irdu 
->>>  libir  
  libir  [ OLD ]  𒅆𒂠  libir  "(to be) old, long-lasting" Akk.  labāru 
->>>  lib4 -lib4  
  liblib  [ PLUNDERER ]  𒅆𒅆  lib4 -lib4  "plunderer" 
->>>  lidda2  
  lidda  [ CONSTRICTION ]  |ŠA₃.DIŠ|  lidda2  "constriction" Akk.  maštaqtu 
->>>  lid2 -ga ;  lid2 -da-ga ;  li-id-ga ;  lid2 ;  lidda ;  lidda2  
  lidga  [ VESSEL ]  𒉌𒂵;𒉌𒁕𒂵;𒇷𒀉𒂵;𒉌;|ŠA₃.DIŠ|;|ŠA₃.DIŠ|  lid2 -ga ;  lid2 -da-ga ;  li-id-ga ;  lid2 ;  lidda ;  lidda2  "measuring vessel; a unit of capacity" Akk.  litiktu ;  namaddu ;  parsiktu 
->>>  lidim  
  lidim  [ GET ]  |AL×DIM₂|  lidim  "to get" Akk.  rašû 
->>>  u2 li-gi4  
  ligi  [ PLANT ]  𒌑𒇷𒄄  u2 li-gi4  "a plant" 
->>>  ligidba  
  ligidba  [ PLANT ]  |ŠIM.AN.SAL.TUG₂.IB|  ligidba  "a medicinal plant" Akk.  nikiptu 
->>>  li-gi4 -li-gi4  
  ligiligi  [ GRASS ]  𒇷𒄄𒇷𒄄  li-gi4 -li-gi4  "a grass" 
->>>  ĝeš ligima  
  ligima  [ SHOOT ]  𒄑𒅆𒌉𒌉  ĝeš ligima  "shoot, sapling" Akk.  ligimû ;  niplu ;  ziqpu 
->>>  im li-gi4 -in  
  ligin  [ TABLET ]  𒅎𒇷𒄄𒅔  im li-gi4 -in  "tablet with excerpts, school text" Akk.  liginnu 
->>>  li2 -ig-tum  
  ligtum  [ SELECTION ]  𒉌𒅅𒌈  li2 -ig-tum  "selection, gathered material" Akk.  liqtu 
->>>  lil ;  lu2 lil2 ;  lil3 ;  lil5 ;  lil8  
  lil  [ FOOL ]  𒇸;𒇽𒆤;|ŠU₂.U.U.U|;|ŠU₂.NE|;LU₂@t  lil ;  lu2 lil2 ;  lil3 ;  lil5 ;  lil8  "fool" Akk.  lillu 
->>>  lil2  
  lil  [ GHOST ]  𒆤  lil2  "wind, breeze; ghost" Akk.  zīqīqu 
->>>  lil2  
  lil  [ ILL ]  𒆤  lil2  "(to be) ill" 
->>>  LIL2  
  LIL  [ KNOWLEDGE ]  𒆤  LIL2  "secret knowledge" Akk.  kitimtu 
->>>  LIL2  
  LIL  [ PLAIN ]  𒆤  LIL2  "plain" Akk.  şeru 
->>>  LIL2  
  LIL  [ UNMNG ]  𒆤  LIL2  "unmng" 
->>>  li-la  
  lila  [ UNMNG ]  𒇷𒆷  li-la  "unmng" 
->>>  u2 li-la-an-gi4 ;  ĝeš la-la-an-gi4 ;  li-la-gi ;  x-li-gi  
  lilangi  [ PLANT ]  𒌑𒇷𒆷𒀭𒄄;𒄑𒆷𒆷𒀭𒄄;𒇷𒆷𒄀;𒇷𒄀  u2 li-la-an-gi4 ;  ĝeš la-la-an-gi4 ;  li-la-gi ;  x-li-gi  "a plant" 
->>>  li-li mušen  
  lili  [ BIRD ]  𒇷𒇷𒄷  li-li mušen  "a bird" Akk.  liligû 
->>>  u2 li-li  
  lili  [ PLANT ]  𒌑𒇷𒇷  u2 li-li  "a plant" 
->>>  li-li-a  
  lilia  [ OFFSPRING ]  𒇷𒇷𒀀  li-li-a  "offspring" Akk.  nannābu[offspring] 
->>>  li-li-bi-sig mušen ;  lib-lib-bi-sig mušen ;  li-li-gi-sig7 -sig7 mušen  
  lilibisig  [ STORK ]  𒇷𒇷𒁉𒋝𒄷;𒈜𒈜𒁉𒋝𒄷;𒇷𒇷𒄀𒅊𒅊𒄷  li-li-bi-sig mušen ;  lib-lib-bi-sig mušen ;  li-li-gi-sig7 -sig7 mušen  "stork" 
->>>  u2 li-li-bi-zi-da  
  lilibizida  [ PLANT ]  𒌑𒇷𒇷𒁉𒍥𒁕  u2 li-li-bi-zi-da  "a thorny plant" Akk.  dadaru 
->>>  kuš li-li-bu  
  lilibu  [ OBJECT ]  𒋢𒇷𒇷𒁍  kuš li-li-bu  "a leather object" Akk.  lilibu 
->>>  li-li-gi ;  li-li-gi4 ;  u2 -li-gu2 sar ;  u2 li-li-ga  
  liligi  [ PLANT ]  𒇷𒇷𒄀;𒇷𒇷𒄄;𒌑𒇷𒄘𒊬;𒌑𒇷𒇷𒂵  li-li-gi ;  li-li-gi4 ;  u2 -li-gu2 sar ;  u2 li-li-ga  "a cucumber-like plant" Akk.  liligû 
->>>  li-li-is3 ;  li-li-is3 zabar ;  li-li-is2 ;  liliz  
  lilis  [ INSTRUMENT ]  𒇷𒇷𒀊;𒇷𒇷𒀊𒌓𒊕𒁇;𒇷𒇷𒄑;𒀗  li-li-is3 ;  li-li-is3 zabar ;  li-li-is2 ;  liliz  "a musical instrument, kettledrum" Akk.  lilisu 
->>>  lil2 -la2 -en  
  lillaen  [ DEMON ]  𒆤𒇲𒂗  lil2 -la2 -en  "type of demon" 
->>>  lillan ;  še lillan  
  lillan  [ GRAIN ]  𒈗;𒊺𒈗  lillan ;  še lillan  "ripe grain" Akk.  lilliannu 
->>>  |LIL2 .LIL2 |-gi4  
  lillilgi  [ DEMON ]  𒆤𒆤𒄄  |LIL2 .LIL2 |-gi4  "demon" Akk.  lilû 
->>>  |LIL2 .LIL2 |-gi4 -a  
  lillilgia  [ DEMON ]  𒆤𒆤𒄄𒀀  |LIL2 .LIL2 |-gi4 -a  "demon" Akk.  lilîtu 
->>>  limmu2 ;  limmu5 ;  limmu ;  limmu3 ;  limmu4  
  limmu  [ FOUR ]  𒇹;𒐉;𒇹;cuneiform4;𒐽  limmu2 ;  limmu5 ;  limmu ;  limmu3 ;  limmu4  "four" 
->>>  li-mu-um ;  li-im  
  limum  [ THOUSAND ]  𒇷𒈬𒌝;𒇷𒅎  li-mu-um ;  li-im  "one thousand" Akk.  limu 
->>>  lipiš ;  lipiš x (|AB2 .ŠA3 |)  
  lipiš  [ INNARDS ]  𒀚;|AB₂.ŠA₃|(𒀖𒊮)  lipiš ;  lipiš x (|AB2 .ŠA3 |)  "inner body; heart; anger, rage" Akk.  libbu ;  uzzu ;  şurru 
->>>  lipiš-bala  
  lipišbala  [ ANGER ]  𒀚𒁄  lipiš-bala  "anger" Akk.  uggatu ;  uzzatu 
->>>  lipiš-gig  
  lipišgig  [ ILLNESS ]  𒀚𒍼  lipiš-gig  "an illness" 
->>>  lipiš-tuku  
  lipištuku  [ FURIOUS ]  𒀚𒌇  lipiš-tuku  "furious" 
->>>  liri4 ;  liri5  
  liri  [ GRIP ]  |A₂.KAL|;|A₂.AŠ|  liri4 ;  liri5  "to grip, twist" Akk.  šapāşu 
->>>  lirum ;  lirum3 ;  lirum2 ;  lirum6 ;  lirum7 ;  lirum8  
  lirum  [ STRENGTH ]  𒋗𒆗;𒄒 GIŠ%GIŠ;𒀸;𒉫;𒆙;𒌩  lirum ;  lirum3 ;  lirum2 ;  lirum6 ;  lirum7 ;  lirum8  "strength; force; (to be) strong, powerful, mighty, great; (to be) resistant, obstinate, combative, quarrelsome; a noble; (crook of the) arm; wrestler" Akk.  abaru ;  dannu ;  emûqu ;  gāmiru ;  kamiru ;  kirimmu ;  umašu ;  šapşu ;  šitnunu ;  šitpuşu 
->>>  liš  
  liš  [ CRUMB ]  𒇺  liš  "crumb, scrap" Akk.  kusāpu 
->>>  lu  
  lu  [ ABUNDANT ]  𒇻  lu  "(to be) abundant; to heap up" Akk.  dêšu ;  kamāru 
->>>  lu2 ku6  
  lu  [ FISH ]  𒇽𒄩  lu2 ku6  "a fish" 
->>>  lu9  
  lu  [ FLARE ]  𒉺  lu9  "to flare up" Akk.  napāhu 
->>>  lu ;  lu3  
  lu  [ MIX ]  𒇻;𒈖  lu ;  lu3  "to disturb, stir up; to cover completely; to mix" Akk.  balālu ;  dalāhu ;  katāmu 
->>>  lu2 ;  mu-lu ;  mu-lu2 ;  lu10 ;  lu6  
  lu  [ PERSON ]  𒇽;𒈬𒇻;𒈬𒇽;|DAG.KISIM₅×X|;𒌨  lu2 ;  mu-lu ;  mu-lu2 ;  lu10 ;  lu6  "who(m), which; man; (s)he who, that which; of; ruler; person" Akk.  amēlu ;  ša 
->>>  lu2 -ad  
  lu'ad  [ OFFICIAL ]  𒇽𒀜  lu2 -ad  "an official" 
->>>  lu2 -addir x (|SI.GIŠ.PAD.DUG|)  
  lu'addir  [ WAGE-EARNER ]  𒇽|PA.GISAL.SI.A|(𒋛𒄑𒉻𒂁)  lu2 -addir x (|SI.GIŠ.PAD.DUG|)  "wage-earner" 
->>>  lu2 -al-ed2 -de3  
  lu'alede  [ ECSTATIC ]  𒇽𒀠𒌓𒁺𒉈  lu2 -al-ed2 -de3  "an ecstatic" 
->>>  lu2 -al-hu-hu-nu  
  lu'alhuhunu  [ CRIPPLE ]  𒇽𒀠𒄷𒄷𒉡  lu2 -al-hu-hu-nu  "cripple" Akk.  haššā'u 
->>>  lu-ub2  
  lub  [ BAG ]  𒇻𒂠  lu-ub2  "a type of bag" 
->>>  lu-ub2 ku6  
  lub  [ FISH ]  𒇻𒂠𒄩  lu-ub2 ku6  "a salt-water fish" 
->>>  lu sar ;  lu-ub2 sar ;  lu-sar sar  
  lub  [ TURNIP ]  𒇻𒊬;𒇻𒂠𒊬;𒇻𒊬𒊬  lu sar ;  lu-ub2 sar ;  lu-sar sar  "turnip" Akk.  laptu 
->>>  lu2 - ĝeš bal-a  
  lubalak  [ SPINNER ]  𒇽𒄑𒁄𒀀  lu2 - ĝeš bal-a  "spinner" 
->>>  lu2 -bappir ;  lu2 -bappir3  
  lubappir  [ BREWER ]  𒇽𒋋;𒇽𒁋  lu2 -bappir ;  lu2 -bappir3  "brewer" 
->>>  urud lub-bi ;  ĝeš lib-bi  
  lubi  [ AX ]  U+1234F𒈜𒁉;𒄑𒈜𒁉  urud lub-bi ;  ĝeš lib-bi  "an ax" Akk.  šelliptu 
->>>  lu-bi  
  lubi  [ DEAR ]  𒇻𒁉  lu-bi  "a term of endearment" 
->>>  kuš lu-ub2 -mar-tu ki  
  lubmartu  [ BAG ]  𒋢𒇻𒂠𒈥𒌅𒆠  kuš lu-ub2 -mar-tu ki  "a bag" Akk.  maškaru 
->>>  lu-ub2 -šir  
  lubšir  [ BAG ]  𒇻𒂠𒋓  lu-ub2 -šir  "a type of bag" 
->>>  lubun  
  lubun  [ CONSTRICTION ]  |EZEN×LU|  lubun  "constriction" Akk.  hinqu 
->>>  lu2 -bun2 -an-ze2 -a  
  lubunanzea  [ INSTIGATOR ]  𒇽𒅮𒀭𒍢𒀀  lu2 -bun2 -an-ze2 -a  "instigator" 
->>>  lu-bu-uš-tum  
  lubuštum  [ CLOTHING ]  𒇻𒁍𒍑𒌈  lu-bu-uš-tum  "clothing" Akk.  lubuštu 
->>>  lud  
  lud  [ TABLEWARE ]  𒂁  lud  "an item of tableware, a cup or bowl; a metal tool" Akk.  luţţu ;  nalpatu 
->>>  lu2 -dag  
  ludag  [ OFFICIAL ]  𒇽𒁖  lu2 -dag  "an official" 
->>>  lu2 -dim3 -ma  
  ludima  [ FOOL ]  𒇽𒈚𒈠  lu2 -dim3 -ma  "fool" 
->>>  lu2 -dub3 -ĝar-ra  
  ludubĝara  [ HUNTER ]  𒇽𒄭𒃻𒊏  lu2 -dub3 -ĝar-ra  "hunter" 
->>>  lu2 -dub-šen urudu  
  ludubšenak  [ OFFICIAL ]  𒇽𒁾𒊿U+1234F  lu2 -dub-šen urudu  "an official" 
->>>  lu2 -dum-dam-za ;  lu2 -dam-dam-sa2  
  ludumdamza  [ PROFESSION ]  𒇽𒌈𒁮𒍝;𒇽𒁮𒁮𒁲  lu2 -dum-dam-za ;  lu2 -dam-dam-sa2  "a profession" 
->>>  lu2 -dun-a  
  luduna  [ WARD ]  𒇽𒂄𒀀  lu2 -dun-a  "ward, dependent" Akk.  amēl qatāti 
->>>  lu2 -ed3 -de3 ;  lu2 -al-ed2 -de3  
  lu'ede  [ ECSTATIC ]  𒇽𒇯𒁺𒉈;𒇽𒀠𒌓𒁺𒉈  lu2 -ed3 -de3 ;  lu2 -al-ed2 -de3  "ecstatic" Akk.  mahhû 
->>>  lu2 -e2 -niĝ2 -ka  
  lu'eniĝakak  [ PROFESSION ]  𒇽𒂍𒃻𒅗  lu2 -e2 -niĝ2 -ka  "a profession" 
->>>  lu2 -en-nu-uĝ3  
  lu'ennuĝ  [ GUARD ]  𒇽𒂗𒉡𒌦  lu2 -en-nu-uĝ3  "guard" 
->>>  lu2 -eš2 -gid2  
  lu'ešgid  [ SURVEYOR ]  𒇽𒂠𒁍  lu2 -eš2 -gid2  "surveyor" 
->>>  lug ;  lug x (LUL)  
  lug  [ DWELL ]  𒇻;𒈜(𒈜)  lug ;  lug x (LUL)  "to live, dwell (of animals), pasture" 
->>>  ĝeš lug  
  lug  [ POSITION ]  𒄑𒇻  ĝeš lug  "position" Akk.  mazzāzu 
->>>  lu-gu2 ;  lug ;  lum  
  lug  [ TWIST ]  𒇻𒄘;𒇻;𒈝  lu-gu2 ;  lug ;  lum  "to twist; (to be) crushed" Akk.  zâru 
->>>  lu2 -ga  
  luga  [ UNMNG ]  𒇽𒂵  lu2 -ga  "?" 
->>>  lu2 - ĝeš gag  
  lugag  [ PROFESSION ]  𒇽𒄑𒆕  lu2 - ĝeš gag  "a profession" 
->>>  lugal ;  lu2 -gal  
  lugal  [ KING ]  𒈗;𒇽𒃲  lugal ;  lu2 -gal  "lord; master; owner; king; a quality designation" Akk.  bēlu ;  šarru 
->>>  gi lugal  
  lugal  [ PLANT ]  𒄀𒈗  gi lugal  "a plant" 
->>>  LUGAL.BI.GUB  
  LUGAL.BI.GUB  [ STATION? ]  𒈗𒁉𒁺  LUGAL.BI.GUB  "royal station?" 
->>>  lu2 -GAM  
  luGAM  [ WEAK ]  𒇽𒃵  lu2 -GAM  "weak" Akk.  enšu 
->>>  lu2 -GI.AN  
  luGIAN  [ PERSON ]  𒇽𒄀𒀭  lu2 -GI.AN  "type of person" 
->>>  lu2 -GI.AN  
  luGIAN  [ UNMNG ]  𒇽𒄀𒀭  lu2 -GI.AN  "?" 
->>>  lu2 -gi-di-da  
  lugididak  [ MUSICIAN ]  𒇽𒄀𒁲𒁕  lu2 -gi-di-da  "a type of musician" Akk.  ša malīlu 
->>>  lu2 -gidim-ma  
  lugidimak  [ NECROMANCER ]  𒇽𒄇𒈠  lu2 -gidim-ma  "necromancer" 
->>>  lu2 -gi-gid2 -a  
  lugigidak  [ MUSICIAN ]  𒇽𒄀𒁍𒀀  lu2 -gi-gid2 -a  "type of musician" 
->>>  lu2 -gi-ze  
  lugize  [ REED-CUTTER ]  𒇽𒄀𒍣  lu2 -gi-ze  "reed-cutter" 
->>>  lu2 -gub-ba  
  luguba  [ ECSTATIC ]  𒇽𒁺𒁀  lu2 -gub-ba  "ecstatic" Akk.  mahhû 
->>>  lugud4  
  lugud  [ LOCUS ]  |LAGAR×ŠE+SUM|  lugud4  "threshing floor" Akk.  maškanu ;  rahīşu 
->>>  lugud  
  lugud  [ PUS ]  𒈟  lugud  "pus, suppuration" Akk.  šarku 
->>>  lugud2 ;  lugud3  
  lugud  [ SHORT ]  𒆸;𒈟  lugud2 ;  lugud3  "(to be) short; (to be) tight; (to be) short of breath" Akk.  kurû 
->>>  ĝeš lugud2 -da  
  luguda  [ OBJECT ]  𒄑𒆸𒁕  ĝeš lugud2 -da  "a wooden object" 
->>>  lu2 - urud gur10 -a  
  lugura  [ REAPER ]  𒇽U+1234F𒆥𒀀  lu2 - urud gur10 -a  "reaper" 
->>>  lu2 -gu2 -šu-du8  
  lugušudu  [ PROFESSION ]  𒇽𒄘𒋗𒂃  lu2 -gu2 -šu-du8  "a profession" Akk.  ? 
->>>  luĝa ;  luĝ2  
  luĝa  [ DAMAGE ]  |PA.GA₂|;𒉺  luĝa ;  luĝ2  "damage; sin; shamelessness" Akk.  hiţītu ;  šillatu 
->>>  luĝ2  
  luĝa  [ SUBMERGE ]  𒉺  luĝ2  "to submerge oneself in water" Akk.  šalû ša mê 
->>>  lu2 -ĝarza2  
  luĝarza  [ OFFICIAL ]  𒇽𒉺𒈗  lu2 -ĝarza2  "an official" 
->>>  lu2 -ĝeš-ed2 ;  lu2 -ĝeš-ed3  
  luĝešed  [ DOORMAN ]  𒇽𒄑𒌓𒁺;𒇽𒄑𒇯𒁺  lu2 -ĝeš-ed2 ;  lu2 -ĝeš-ed3  "doorman" Akk.  ša namzaqi 
->>>  lu2 -ĝeš-gi-saĝ-keš2  
  luĝešgisaĝkeš  [ PERFORMER ]  𒇽𒄑𒄀𒊕𒆟  lu2 -ĝeš-gi-saĝ-keš2  "type of cult performer" Akk.  nakmu 
->>>  lu2 -ĝešpu2  
  luĝešpu  [ WRESTLER ]  𒇽𒄑𒇥  lu2 -ĝešpu2  "wrestler" 
->>>  lu2 -ĝeštin-sur-ra  
  luĝeštinsura  [ PROFESSION ]  𒇽𒃾𒁍  ≈ 𒄮 SUR3𒊏  lu2 -ĝeštin-sur-ra  "a profession" Akk.  şāhit karāni 
->>>  lu2 -ĝi6 -a-du-du ;  lu2 -ĝi6 -du-du  
  luĝiadudu  [ NIGHT-WATCHMAN ]  𒇽𒈪𒀀𒁺𒁺;𒇽𒈪𒁺𒁺  lu2 -ĝi6 -a-du-du ;  lu2 -ĝi6 -du-du  "night-watchman" Akk.  hā'iţu 
->>>  luh  
  luh  [ CLEAN ]  𒈛  luh  "to clean, wash" Akk.  mesû 
->>>  lu2 -har-mušen-na  
  luharmušenak  [ BIRD-TRAPPER ]  𒇽𒄯𒄷𒈾  lu2 -har-mušen-na  "bird-trapper" 
->>>  ĝeš LU.HI.A  
  LUHIA  [ TREE ]  𒄑𒇻𒄭𒀀  ĝeš LU.HI.A  "a tree" 
->>>  lu2 -HI-ĝar-ra  
  luHIĝara  [ PROFESSION ]  𒇽𒄭𒃻𒊏  lu2 -HI-ĝar-ra  "a profession" 
->>>  luhša  
  luhša  [ FUNCTIONARY ]  |HI×NUN.ME.U|  luhša  "a temple functionary" Akk.  luhšû 
->>>  lu2 -hu x (SI) ;  lu2 - hu hu x (SI) ;  lu2 -hu x (MA2 ) hu  
  luhu  [ PROFESSION ]  𒇽SI(𒋛);𒇽𒄷SI(𒋛);𒇽SI(𒈣)𒄷  lu2 -hu x (SI) ;  lu2 - hu hu x (SI) ;  lu2 -hu x (MA2 ) hu  "a profession" 
->>>  lu2 -huĝ-ga2  
  luhuĝa  [ HIRELING ]  𒇽𒂠𒂷  lu2 -huĝ-ga2  "hireling" Akk.  agru 
->>>  lu2 -hul-ĝal2  
  luhulĝal  [ EVILDOER ]  𒇽𒅆𒌨𒅅  lu2 -hul-ĝal2  "evildoer; enemy" Akk.  lemnu 
->>>  luhum  
  luhum  [ CHARCOAL ]  |LUM.LUM|  luhum  "charcoal" Akk.  upellû 
->>>  lu-hu-um  
  luhum  [ MUD ]  𒇻𒄷𒌝  lu-hu-um  "mud" Akk.  luhummu 
->>>  lu2 -igi-du  
  lu'igidu  [ LEADER ]  𒇽𒅆𒁺  lu2 -igi-du  "leader" Akk.  ašarēdu; ālik pāni 
->>>  lu2 -igi-ze2 -ze2  
  luigizeze  [ PERSON ]  𒇽𒅆𒍢𒍢  lu2 -igi-ze2 -ze2  "partially-sighted person" 
->>>  lu2 -IM  
  lu'IM  [ CRIMINAL ]  𒇽𒅎  lu2 -IM  "criminal; false, fraudulent" Akk.  sarru 
->>>  lu2 -im- na4 na  
  lu'imnak  [ ACCOUNTANT ]  𒇽𒅎𒎎𒈾  lu2 -im- na4 na  "an accountant" 
->>>  lu2 -inim ;  lu2 -inim-ma  
  lu'inimak  [ WITNESS ]  𒇽𒅗;𒇽𒅗𒈠  lu2 -inim ;  lu2 -inim-ma  "witness" 
->>>  lu2 -inim-gi-na  
  lu'inimgina  [ GUARANTOR ]  𒇽𒅗𒄀𒈾  lu2 -inim-gi-na  "guarantor" Akk.  muqippu 
->>>  lu2 -itud-da  
  lu'itudak  [ WORKER ]  𒇽𒌗𒁕  lu2 -itud-da  "a worker" 
->>>  lu2 -kab x (|SAG×A|)-ba  
  lukaba  [ PROFESSION ]  𒇽|SAG×A|(𒊖)𒁀  lu2 -kab x (|SAG×A|)-ba  "a profession" 
->>>  lu2 -KA-inim-ma  
  luKA'inima  [ EXPERT ]  𒇽𒅗𒅗𒈠  lu2 -KA-inim-ma  "magical expert" Akk.  āšipu 
->>>  lu2 -kar-ra  
  lukara  [ FUGITIVE ]  𒇽𒋼𒀀𒊏  lu2 -kar-ra  "fugitive" Akk.  munnarbu; munnabtu 
->>>  lu2 -kaš4  
  lukaš  [ RUNNER ]  𒇽𒁽  lu2 -kaš4  "runner" Akk.  lāsimu 
->>>  LU2 .KA.TAR  
  LUKATAR  [ PROFESSION ]  𒇽𒅗𒋻  LU2 .KA.TAR  "a profession" 
->>>  lu2 -keš2 -tug2 -ra  
  lukešedtugra  [ PROFESSION ]  𒇽𒆟𒌆𒊏  lu2 -keš2 -tug2 -ra  "a profession" 
->>>  lu2 -keš2 -keš2 -da  
  lukeškešda  [ TETHERER ]  𒇽𒆟𒆟𒁕  lu2 -keš2 -keš2 -da  "tetherer" 
->>>  lu2 -KID2  
  luKID  [ ROBBER ]  𒇽𒋺  lu2 -KID2  "robber" 
->>>  lu2 -kiĝ2 -ak  
  lukiĝak  [ WORKER ]  𒇽𒆥𒀝  lu2 -kiĝ2 -ak  "worker" Akk.  ? 
->>>  lu2 -ki-inim-ma  
  luki'inimak  [ WITNESS ]  𒇽𒆠𒅗𒈠  lu2 -ki-inim-ma  "witness" Akk.  šību 
->>>  lu2 -kin-na-tum  
  lukinnatum  [ NEST-HUNTER ]  𒇽𒆥𒈾𒌈  lu2 -kin-na-tum  "nest-hunter" 
->>>  lu2 -kud  
  lukud  [ CRIPPLE ]  𒇽𒋻  lu2 -kud  "a cripple" 
->>>  lukur  
  lukur  [ PRIESTESS ]  |SAL.ME|  lukur  "a priestess; (junior) wife of a deified king" Akk.  nadītu ;  qadištu 
->>>  lu2 -kur2  
  lukur  [ STRANGER ]  𒇽𒉽  lu2 -kur2  "stranger, foreigner" Akk.  nakru 
->>>  lu2 -kur2 -kur2 -ra  
  lukurkura  [ PERSON ]  𒇽𒉽𒉽𒊏  lu2 -kur2 -kur2 -ra  "very strange person" 
->>>  lu2 -kurum6 -dab-ba  
  lukurumdaba  [ WORKER ]  𒇽𒉻𒁳𒁀  lu2 -kurum6 -dab-ba  "a worker" 
->>>  lu2 -kurum6 -nu-dab-ba  
  lukurumnudaba  [ WORKER ]  𒇽𒉻𒉡𒁳𒁀  lu2 -kurum6 -nu-dab-ba  "a worker" 
->>>  lu2 -kurun-na ;  f lu2 -kurun-na ;  lu2 -kurun  
  lukurunak  [ BREWER ]  𒇽𒁷𒈾;SAL.LU₂.|BI.DIN|.NA𒇽𒁷𒈾;𒇽𒁷  lu2 -kurun-na ;  f lu2 -kurun-na ;  lu2 -kurun  "brewer" Akk.  sābītu ;  sābû 
->>>  lu2 -kurun-na  
  lukurunna  [ FEMALE ]  𒇽𒁷𒈾  lu2 -kurun-na  "female innkeeper" 
->>>  lul  
  lul  [ FALSE ]  𒈜  lul  "(to be) false; (to be) criminal" Akk.  sarru 
->>>  lu2 - dug lahtan  
  lulahtanak  [ FUNCTIONARY ]  𒇽𒂁𒉴  lu2 - dug lahtan  "a functionary in a scribal school" 
->>>  lu2 -lal3  
  lulal  [ DEAR ]  𒇽𒋭  lu2 -lal3  "a term of endearment" 
->>>  lul-gu  
  lulgu  [ RESTITUTION ]  𒈜𒄖  lul-gu  "restitution" 
->>>  lulim ;  lu-lim  
  lulim  [ STAG ]  |GIR₃×LU+IGI|;𒇻𒅆  lulim ;  lu-lim  "stag" Akk.  aĝĝalu ;  lulīmu 
->>>  lu2 -lirum ;  lu2 -lirum-ma  
  lulirumak  [ WRESTLER ]  𒇽𒋗𒆗;𒇽𒋗𒆗𒈠  lu2 -lirum ;  lu2 -lirum-ma  "wrestler" Akk.  muštapşu 
->>>  LUL.LUL-na  
  LULLULna  [ ~LEAD ]  𒈜𒈜𒈾  LUL.LUL-na  "a qualification of lead" 
->>>  lu7 -lu7 lu2 mušen ;  lu7 -lu2 mušen  
  lulu  [ BIRD ]  𒍇𒍇𒇽𒄷;𒍇𒇽𒄷  lu7 -lu7 lu2 mušen ;  lu7 -lu2 mušen  "a bird" Akk.  awīlānu 
->>>  lu2 -lu7 ;  lu2 -lu7 lu  
  lulu  [ MAN ]  𒇽𒍇;𒇽𒍇𒇻  lu2 -lu7 ;  lu2 -lu7 lu  "man; humanity" Akk.  amēlu ;  lullû 
->>>  lu-lu-bu-na ;  li2 -in-li2 -bu-na ;  lu-lu-gu-na  
  lulubuna  [ CLOAK ]  𒇻𒇻𒁍𒈾;𒉌𒅔𒉌𒁍𒈾;𒇻𒇻𒄖𒈾  lu-lu-bu-na ;  li2 -in-li2 -bu-na ;  lu-lu-gu-na  "a cloak" 
->>>  lu-lu-bu-na ;  lu-li-gu2 -na ;  lu-lu-gu-na ;  li2 -in-li2 -bu-na  
  lulubuna  [ OFFSPRING ]  𒇻𒇻𒁍𒈾;𒇻𒇷𒄘𒈾;𒇻𒇻𒄖𒈾;𒉌𒅔𒉌𒁍𒈾  lu-lu-bu-na ;  lu-li-gu2 -na ;  lu-lu-gu-na ;  li2 -in-li2 -bu-na  "offspring" 
->>>  lu2 -lul  
  lulul  [ LIAR ]  𒇽𒈜  lu2 -lul  "liar" Akk.  sarru 
->>>  lu2 -lul-lul  
  lulullul  [ LIAR ]  𒇽𒈜𒈜  lu2 -lul-lul  "extreme liar" 
->>>  lum3  
  lum  [ ANIMAL ]  𒂁  lum3  "a spider or snail" Akk.  lummû 
->>>  lum  
  lum  [ EXCREMENT ]  𒈝  lum  "excrement" Akk.  tabāštānu 
->>>  lum  
  lum  [ FRUIT ]  𒈝  lum  "(to be) full, replete, satisfied (with); (to be) grown (tall); to fruit; (to be) fructified; to shine" Akk.  enēbu; unnubu ;  namāru ;  šebû ;  šihu 
->>>  dug lum3 ;  lum3 ;  dug lum  
  lum  [ VESSEL ]  𒂁𒂁;𒂁;𒂁𒈝  dug lum3 ;  lum3 ;  dug lum  "a small drinking vessel" Akk.  lummu 
->>>  LUM ku6  
  LUM  [ FISH ]  𒈝𒄩  LUM ku6  "a fish" 
->>>  lu2 -ma2  
  luma  [ BOATMAN ]  𒇽𒈣  lu2 -ma2  "boatman" 
->>>  lu2 -ma2 -addir  
  luma'addir  [ FERRYMAN ]  𒇽𒈣𒀀𒉺𒄐𒉻𒋛𒀀  lu2 -ma2 -addir  "ferryman" Akk.  ša nēberi 
->>>  lu2 -ma2 -gal-gal  
  lumagalgalak  [ BOATMAN ]  𒇽𒈣𒃲𒃲  lu2 -ma2 -gal-gal  "a boatman" 
->>>  lu2 -ma2 -gur8  
  lumagur  [ BOATMAN ]  𒇽𒈣𒋽  lu2 -ma2 -gur8  "a boatman" 
->>>  lu2 -mah  
  lumah  [ PRIEST ]  𒇽𒈤  lu2 -mah  "a priest" 
->>>  lu2 -mar-za  
  lumarza  [ FUNCTIONARY ]  𒇽𒈥𒍝  lu2 -mar-za  "a functionary in a law court" 
->>>  lumha  
  lumha  [ UNMNG ]  𒁆  lumha  "" 
->>>  lu2 -mud  
  lumud  [ BOLT-HANDLER ]  𒇽𒄷𒄭  lu2 -mud  "bolt-handler" 
->>>  lu2 -mu13 -mu13 ;  mu13 -mu13 ;  lu2 -mumun ;  mu x (|KA×GAN2 @t|)-mu x (|KA×GAN2 @t|)  
  lumumun  [ PRIEST ]  𒇽𒆀𒆀;𒆀𒆀;𒇽𒅲𒅲;|KA×GAN₂@t|.|KA×GAN₂@t|(𒅗·𒃷?)|KA×GAN₂@t|.|KA×GAN₂@t|(𒅗·𒃷?)  lu2 -mu13 -mu13 ;  mu13 -mu13 ;  lu2 -mumun ;  mu x (|KA×GAN2 @t|)-mu x (|KA×GAN2 @t|)  "incantation priest" 
->>>  lu2 -na-me  
  luname  [ SOMEONE ]  𒇽𒈾𒈨  lu2 -na-me  "someone, anyone" Akk.  mammān 
->>>  lu2 -nam-ra  
  lunamra  [ CAPTIVE ]  𒇽𒉆𒊏  lu2 -nam-ra  "captive" 
->>>  lu2 -NE.DU ;  lu2 -NE.RU  
  luNERU  [ EVILDOER ]  𒇽𒉈𒁺;𒇽𒉈𒊒  lu2 -NE.DU ;  lu2 -NE.RU  "evildoer, enemy" Akk.  raggu ;  ayyābu 
->>>  lu2 -NE.RU-du  
  luNERUdu  [ ENEMY ]  𒇽𒉈𒊒𒁺  lu2 -NE.RU-du  "enemy; imbecile" Akk.  ayyābu ;  saklu 
->>>  lu2 lunga ;  lunga ;  lu2 lunga3 ;  lunga3 ;  lu2 lunga2 ;  lu2 lunga ma  
  lungak  [ BREWER ]  𒇽𒋋;𒋋;𒇽𒋋;𒋋;𒇽𒋇;𒇽𒋋𒈠  lu2 lunga ;  lunga ;  lu2 lunga3 ;  lunga3 ;  lu2 lunga2 ;  lu2 lunga ma  "brewer" Akk.  sīrāšû 
->>>  lu2 -niĝ2 -a2 -zig3  
  luniĝazig  [ MURDERER ]  𒇽𒃻𒀉𒍣  lu2 -niĝ2 -a2 -zig3  "murderer" Akk.  ša šagaštim 
->>>  lu2 -niĝ2 -ki-sig10 -ga ;  lu2 -niĝ2 -sig10 -ge5  
  luniĝkisiga  [ FUNERARY CARER ]  𒇽𒃻𒆠𒋧𒂵;𒇽𒃻𒋧𒆠  lu2 -niĝ2 -ki-sig10 -ga ;  lu2 -niĝ2 -sig10 -ge5  "funerary carer" 
->>>  lu2 -niĝ2 -NE.RU  
  luniĝNERU  [ EVILDOER ]  𒇽𒃻𒉈𒊒  lu2 -niĝ2 -NE.RU  "evildoer" Akk.  raggu 
->>>  lu2 -niĝ2 -nu-tuku  
  luniĝnutuku  [ POOR ]  𒇽𒃻𒉡𒌇  lu2 -niĝ2 -nu-tuku  "poor person" 
->>>  lu2 -niĝ2 -sa10 -ak  
  luniĝsamak  [ BUYER ]  𒇽𒃻𒉚𒀝  lu2 -niĝ2 -sa10 -ak  "buyer" 
->>>  lu2 -niĝ2 -sa10 -gu7  
  luniĝsamgu  [ SELLER ]  𒇽𒃻𒉚𒅥  lu2 -niĝ2 -sa10 -gu7  "seller" 
->>>  lu2 -niĝ2 -tuku  
  luniĝtuku  [ RICH ]  𒇽𒃻𒌇  lu2 -niĝ2 -tuku  "rich man" Akk.  šarû 
->>>  lu2 -niĝ2 -zuh-a  
  luniĝzuha  [ THIEF ]  𒇽𒃻𒅗𒀀  lu2 -niĝ2 -zuh-a  "thief" Akk.  šarrāqu 
->>>  lu2 -nindaba ;  lu2 -niĝ2 -dab-ba  
  lunindaba  [ FUNCTIONARY ]  𒇽|PAD.AN.MUŠ₃|;𒇽𒃻𒁳𒁀  lu2 -nindaba ;  lu2 -niĝ2 -dab-ba  "a cultic functionary" 
->>>  lu2 -ni2 -su-ub  
  lunisub  [ ECSTATIC ]  𒇽𒉎𒋢𒌒  lu2 -ni2 -su-ub  "an ecstatic" Akk.  mahhû ;  zabbu 
->>>  lu2 -PAD-dab5 -ba  
  luPADdaba  [ WORKER ]  𒇽𒉻𒆪𒁀  lu2 -PAD-dab5 -ba  "a worker" 
->>>  lu2 -pe-el-la2  
  lupela  [ CAULKER ]  𒇽𒄫𒂖𒇲  lu2 -pe-el-la2  "caulker" 
->>>  lu2 -sa-gaz  
  lusagaz  [ BRIGAND ]  𒇽𒊓𒄤  lu2 -sa-gaz  "brigand" Akk.  habbātu 
->>>  lu2 -sag3 -sag3  
  lusagsag  [ PROFESSION ]  𒇽𒉺𒉺  lu2 -sag3 -sag3  "a profession" 
->>>  lu2 -sa-gu2 -la2  
  lusagula  [ PROFESSION ]  𒇽𒊓𒄘𒇲  lu2 -sa-gu2 -la2  "a profession" 
->>>  lu2 -saĝ-bulug-ga  
  lusaĝbuluga  [ NECROMANCER ]  𒇽𒊕𒁑𒂵  lu2 -saĝ-bulug-ga  "necromancer" 
->>>  lu2 -saĝ-DU-a  
  lusaĝDUa  [ STATUS ]  𒇽𒊕𒁺𒀀  lu2 -saĝ-DU-a  "a divinely punished person" Akk.  mahşam ilim 
->>>  lu2 -saĝ-kiĝ2  
  lusaĝkiĝ  [ BUILDER? ]  𒇽𒊕𒆥  lu2 -saĝ-kiĝ2  "master builder?" 
->>>  lu2 -saĝ-lugal  
  lusaĝlugal  [ OFFICER ]  𒇽𒊕𒈗  lu2 -saĝ-lugal  "a royal officer" 
->>>  lu2 -saĝ-še3 -nu2 -a  
  lusaĝšenua  [ INTERPRETER ]  𒇽𒊕𒂠𒈿𒀀  lu2 -saĝ-še3 -nu2 -a  "interpreter" 
->>>  lu2 -sahar-šub-ba  
  lusaharšuba  [ LEPER ]  𒇽𒅖𒊒𒁀  lu2 -sahar-šub-ba  "leper" Akk.  ša epqam malû 
->>>  lu2 -sig-ga  
  lusiga  [ WEAK ]  𒇽𒋝𒂵  lu2 -sig-ga  "weak person" Akk.  enšu 
->>>  lu2 -silaĝ-ĝa2  
  lusilaĝa  [ BAKER ]  𒇽ŠID𒂷  lu2 -silaĝ-ĝa2  "a baker" 
->>>  lu2 -sur-ra  
  lusura  [ PROFESSION ]  𒇽𒁍  ≈ 𒄮 SUR3𒊏  lu2 -sur-ra  "a profession" 
->>>  lu2 -sur-ra  
  lusura  [ SPINNER ]  𒇽𒁍  ≈ 𒄮 SUR3𒊏  lu2 -sur-ra  "spinner" 
->>>  lu2 -šah2 -šum  
  lušahšum  [ PIG-BUTCHER ]  𒇽𒂄𒋳  lu2 -šah2 -šum  "pig-butcher" 
->>>  lu2 -|ŠA3 ×TAR|-a  
  luŠATARa  [ UNMNG ]  𒇽𒊮·𒋻𒀀  lu2 -|ŠA3 ×TAR|-a  "?" 
->>>  lu2 -ŠE+DIN  
  luŠEDIN  [ PROFESSION ]  𒇽𒊺𒁷  lu2 -ŠE+DIN  "a profession" 
->>>  lu2 -še-il2 -keš2  
  luše'ilkešed  [ SURVEYOR ]  𒇽𒊺𒅍𒆟  lu2 -še-il2 -keš2  "surveyor" 
->>>  lu2 -še-saĝ-ĝar-ak  
  lušesaĝĝarak  [ PROFESSION ]  𒇽𒊺𒊕𒃻𒀝  lu2 -še-saĝ-ĝar-ak  "a profession" 
->>>  lu2 -še-zar-sal-la  
  lušezarsala  [ PROFESSION ]  𒇽𒊺𒇡𒊩𒆷  lu2 -še-zar-sal-la  "a profession" 
->>>  lu2 -šir3 -ra  
  lušira  [ SINGER ]  𒇽𒂡𒊏  lu2 -šir3 -ra  "a singer" Akk.  ? 
->>>  lu2 -šu-du8 -a  
  lušudua  [ CAPTIVE ]  𒇽𒋗𒂃𒀀  lu2 -šu-du8 -a  "captive" Akk.  ? 
->>>  lu2 -sum-sikil-SAL-la  
  lušumsikil.SAL.a  [ PROFESSION ]  𒇽𒋧𒂖𒊩𒆷  lu2 -sum-sikil-SAL-la  "a profession" 
->>>  lu2 -šu-tag-ga ;  lu2 -šu-tag  
  lušutaga  [ PROFESSION ]  𒇽𒋗𒋳𒂵;𒇽𒋗𒋳  lu2 -šu-tag-ga ;  lu2 -šu-tag  "a profession" 
->>>  lu2 -tug2 -zu2 -keš2  
  lutugzukešed  [ PROFESSION ]  𒇽𒌆𒅗𒆟  lu2 -tug2 -zu2 -keš2  "a profession" Akk.  kāşiru 
->>>  lu2 -tur  
  lutur  [ CHILD ]  𒇽𒌉  lu2 -tur  "child; youth" 
->>>  lu2 -ug5 -ge  
  lu'uge  [ MURDERER ]  𒇽𒂦𒄀  lu2 -ug5 -ge  "murderer" 
->>>  lu2 -ulu3 -ĜA2 ku6  
  lu'ulu.ĜA  [ FISH ]  𒇽𒍇𒂷𒄩  lu2 -ulu3 -ĜA2 ku6  "a fish" 
->>>  lu2 -umum-ma  
  lu'umumak  [ PROFESSION ]  𒇽𒌣𒈠  lu2 -umum-ma  "a profession" Akk.  mummu 
->>>  lu2 -ur-ra  
  lu'ura  [ ECSTATIC ]  𒇽𒌨𒊏  lu2 -ur-ra  "ecstatic" 
->>>  lu2 -ur3 -ra  
  lu'urak  [ PROFESSION ]  𒇽𒃡𒊏  lu2 -ur3 -ra  "type of profession, spice miller" 
->>>  lu2 -uš7 -ri-a  
  lu'ušria  [ BEWITCHER ]  𒇽|KA×LI|𒊑𒀀  lu2 -uš7 -ri-a  "bewitcher" 
->>>  lu2 -zah3  
  luzah  [ FUGITIVE ]  𒇽𒀄  lu2 -zah3  "fugitive" 
->>>  lu2 -za-na-ru ;  lu2 -za-na-ru12 ;  lu2 -za-ra-lu2  
  luzanaru  [ MUSICIAN ]  𒇽𒍝𒈾𒊒;𒇽𒍝𒈾𒂗;𒇽𒍝𒊏𒇽  lu2 -za-na-ru ;  lu2 -za-na-ru12 ;  lu2 -za-ra-lu2  "a musician" 
->>>  lu2 -zuh-a ;  lu2 -zuh  
  luzuha  [ THIEF ]  𒇽𒅗𒀀;𒇽𒅗  lu2 -zuh-a ;  lu2 -zuh  "thief" Akk.  šarrāqu 

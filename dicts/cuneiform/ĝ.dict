@@ -1,440 +1,221 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
->>> ĝa2; ma 
 ĝa [HOUSE] 𒂷;𒈠 ĝa2; ma "house" Akk. bītu
->>> ĝa2-e; ĝe26 
 ĝae [I] 𒂷𒂊;𒂷 ĝa2-e; ĝe26 "I"
->>> ĝa2-gi-a 
 ĝagia [CLOISTER] 𒂷𒄀𒀀 ĝa2-gi-a "cloister" Akk. gagû
->>> ĝa2-ĝa2mušen 
 ĝaĝa [BIRD] 𒂷𒂷𒄷 ĝa2-ĝa2mušen "a bird"
->>> ĝal2; ma-al; ga2gal2 
 ĝal [BE] 𒅅;𒈠𒀠;𒂷𒅅 ĝal2; ma-al; ga2gal2 "to be (there, at hand, available); to exist; to put, place, lay down; to have" Akk. bašû; šakānu
->>> ĝal2 
 ĝal [CVNE] 𒅅 ĝal2 "(compound verb nominal element)"
->>> ĝal2 
 ĝal [GUARD] 𒅅 ĝal2 "to guard, protect" Akk. naşāru
->>> ĝal2 
 ĝal [OPEN] 𒅅 ĝal2 "to open" Akk. petû
->>> ĝal2 taka4; ĝal2 takax(BALAG) 
 ĝal taka [OPEN] 𒅅𒋺;𒅅𒁆 ≈ 𒋺(𒁆) ĝal2 taka4; ĝal2 takax(BALAG) "to open" Akk. petû
->>> ĝal2-la; ĝa2-la; ĝa3-la 
 ĝala [CVNE] 𒅅𒆷;𒂷𒆷;𒂷·𒐈𒆷 ĝal2-la; ĝa2-la; ĝa3-la "(compound verb nominal element)"
->>> ĝa2-la dag 
 ĝala dag [CEASE] 𒂷𒆷𒁖 ĝa2-la dag "to cease; (to be) idle, lax" Akk. naparkû
->>> ĝalga; ma-al-ga 
 ĝalga [FORETHOUGHT] |GA₂×GAR|;𒈠𒀠𒂵 ĝalga; ma-al-ga "(fore)thought, plan(ning); understanding; instruction, advice" Akk. milku; ţēmu
->>> ĝa2-nun; ĝanun; e2ĝa2-nun 
 ĝanun [STOREHOUSE] 𒂷𒉣;𒃠;𒂍𒂷𒉣 ĝa2-nun; ĝanun; e2ĝa2-nun "storehouse"
->>> ĝar; ĝa2; ĝa2-ar; ĝa2ĝar; ĝarar; mar; ĝa2ĝarar 
 ĝar [PLACE] 𒃻;𒂷;𒂷𒅈;𒂷𒃻;𒃻𒅈;𒈥;𒂷𒃻𒅈 ĝar; ĝa2; ĝa2-ar; ĝa2ĝar; ĝarar; mar; ĝa2ĝarar "to put, place, lay down; to give in place of something, replace; to posit (math.)" Akk. šakānu
->>> ĝa2-rig7 
 ĝarig [PEN] 𒂷𒉺𒄸𒁺 ĝa2-rig7 "animal pen" Akk. ?
->>> ĝarim 
 ĝarim [MEADOW] 𒇑 ĝarim "a meadow" Akk. tamirtu
->>> ĝarim2 
 ĝarim [UNMNG] |DAG.KISIM₅×AMAR| ĝarim2 "?" Akk. ?
->>> ĝarza; mar-za; ĝarza2 
 ĝarza [RITES] 𒉺𒀭;𒈥𒍝;𒉺𒈗 ĝarza; mar-za; ĝarza2 "rites; cultic or cosmic ordinance" Akk. parşu
->>> ĝa2-udu-ur4 
 ĝa'udu'ur [~SHEEP] 𒂷𒇻𒌴 ĝa2-udu-ur4 "sheep-shearing shed"
->>> ĝeli3 
 ĝeli [THROAT] 𒅲 ĝeli3 "throat; windpipe" Akk. ma'lātum; nimlû
->>> ĝen; ma 
 ĝen [GO] 𒁺;𒈠 ĝen; ma "to go; to flow" Akk. alāku
->>> ĝeš3; mu 
 ĝeš [PENIS] 𒄑𒐺;𒈬 ĝeš3; mu "penis; male" Akk. išaru; zikaru
->>> geš2; mu-uš 
 ĝeš [SIXTY] 𒁹;𒈬𒍑 geš2; mu-uš "sixty"
->>> ĝeš; mu; u5 
 ĝeš [TREE] 𒄑;𒈬;𒄷𒋛 ĝeš; mu; u5 "tree; wood; a description of animals" Akk. işu
->>> ĝeš bala 
 ĝeš bala [SELL] 𒄑𒁄 ĝeš bala "to pass someone or something over the wooden stick', to conclude a sale"
->>> ĝeš3 du3 
 ĝeš du [COPULATE] 𒄑𒐺𒆕 ĝeš3 du3 "to copulate" Akk. rakābu?
->>> ĝeš3 dug4 
 ĝeš dug [COPULATE] 𒄑𒐺𒅗 ĝeš3 dug4 "to copulate" Akk. rehû
->>> ĝeš hur 
 ĝeš hur [DRAW] 𒄑𒄯 ĝeš hur "to draw" Akk. eşēru
->>> ĝeš la2 
 ĝeš la [LISTEN] 𒄑𒇲 ĝeš la2 "to listen" Akk. ?
->>> ĝeš la2 
 ĝeš la [SILENT] 𒄑𒇲 ĝeš la2 "(to be) silent" Akk. ?
->>> ĝeš rah2 
 ĝeš rah [BEAT] 𒄑𒊏 ĝeš rah2 "to beat; to thresh" Akk. rapāsu
->>> ĝeš3 sur 
 ĝeš sur [URINATE] 𒄑𒐺𒁍  ≈ 𒄮 SUR3 ĝeš3 sur "to urinate"
->>> ĝeš tag 
 ĝeš tag [MAKE OFFERINGS] 𒄑𒋳 ĝeš tag "to make offerings" Akk. ?
->>> ĝeš tuku 
 ĝeš tuku [LISTEN] 𒄑𒌇 ĝeš tuku "to listen, to hear" Akk. šemû
->>> ĝeš ur3; ĝeš ur4 
 ĝeš ur [ABANDON] 𒄑𒃡;𒄑𒌴 ĝeš ur3; ĝeš ur4 "to abandon (a claim)"
->>> ĝeš ur3 
 ĝeš ur [HARROW] 𒄑𒃡 ĝeš ur3 "to harrow" Akk. šakāku
->>> ĝeš3 zig3 
 ĝeš zig [HAVE AN ERECTION] 𒄑𒐺𒍣 ĝeš3 zig3 "to have an erection" Akk. ?
->>> ĝeš-ab-ba; ĝeš-a-ab-ba; ĝeš-a-ab 
 ĝeša'abak [TREE] 𒄑𒀊𒁀;𒄑𒀀𒀊𒁀;𒄑𒀀𒀊 ĝeš-ab-ba; ĝeš-a-ab-ba; ĝeš-a-ab "a tree" Akk. kušabku
->>> ĝeš-a-ma-ru 
 ĝešamaru [FLOOD-WEAPON] 𒄑𒀀𒈠𒊒 ĝeš-a-ma-ru "flood-weapon"
->>> ĝeš-a-naĝ; ĝešĝeš-a-naĝ 
 ĝešanaĝ [LOCUS] 𒄑𒀀𒅘;𒄑𒄑𒀀𒅘 ĝeš-a-naĝ; ĝešĝeš-a-naĝ "a place of libation to the dead"
->>> ĝeš-an-dul3 
 ĝešandul [SHADE] 𒄑𒀭𒊨 ĝeš-an-dul3 "tree shade"
->>> ĝeš-arinax(|A.LU2@s.NA|) 
 ĝešarina [PLANT] 𒄑𒄿𒈕𒈾(𒀀𒇽?𒈾) ĝeš-arinax(|A.LU2@s.NA|) "a plant" Akk. šinbiltu
->>> ĝešpax(|ŠU.PAP.PAP|); gešbax(|ŠU.BULUG3|)ba; gešbax(|ŠU.BULUG3|); ĝešpax(|ŠU.PAP.PAP|)ba 
 ĝešba [FIST] 𒄑𒉽𒉽(𒋗𒉽𒉽);𒋗𒉽𒉽𒁀(𒋗𒉽𒉽)𒁀;𒋗𒉽𒉽𒁀(𒋗𒉽𒉽);𒄑𒉽𒉽(𒋗𒉽𒉽)𒁀 ĝešpax(|ŠU.PAP.PAP|); gešbax(|ŠU.BULUG3|)ba; gešbax(|ŠU.BULUG3|); ĝešpax(|ŠU.PAP.PAP|)ba "fist; boxer" Akk. umāšu
->>> ĝeš-bad-ra2 
 ĝešbadra [SLED] 𒄑𒁁𒁺 ĝeš-bad-ra2 "threshing sled" Akk. gisappu
->>> ĝeš-bar 
 ĝešbar [FIRE?] 𒄑𒁇 ĝeš-bar "fire?"
->>> ĝeš-bar-kin2 
 ĝešbargana [BARK] 𒄑𒁇𒄯 ĝeš-bar-kin2 "the inner bark of the jeszgana-tree" Akk. sihpu
->>> ĝeš3-bir2ku6 
 ĝešbir [FISH] 𒄑𒐺𒌓𒄩 ĝeš3-bir2ku6 "a fish"
->>> ĝeš3-bir2; ĝeš3-bir2-ra 
 ĝešbir [SHRIVELED] 𒄑𒐺𒌓;𒄑𒐺𒌓𒊏 ĝeš3-bir2; ĝeš3-bir2-ra "shriveled"
->>> ĝeš-bir2 
 ĝešbir [UNMNG] 𒄑𒌓 ĝeš-bir2 "?" Akk. ?
->>> ĝešgešbu 
 ĝešbu [WEAPON] 𒄑GIŠ.RU ĝešgešbu "a weapon: bow? throwstick? javelin?" Akk. tilpānu
->>> ĝešbun2; ĝešbun 
 ĝešbun [MEAL] 𒄑𒅮;𒄑𒅮 ĝešbun2; ĝešbun "(cultic) meal" Akk. tākultu
->>> ĝeš-bur2 
 ĝešbur [ORNAMENT] 𒄑𒁔 ĝeš-bur2 "architectural ornament"
->>> ĝeš-bur2 
 ĝešbur [TOOL] 𒄑𒁔 ĝeš-bur2 "a ritual tool, crook" Akk. gišburu; gamlu
->>> ĝeš-bur 
 ĝešbur [UNMNG] 𒄑𒁓 ĝeš-bur "?" Akk. ?
->>> ĝeš2-bur3mušen; ĝešburx(U)mušen 
 ĝešbur [WASP] 𒄑?𒌋𒄷;𒄑𒆃(𒌋)𒄷 ĝeš2-bur3mušen; ĝešburx(U)mušen "wasp" Akk. nambūbtu
->>> ĝešdal 
 ĝešdal [CROSSBAR] 𒄑𒊑 ĝešdal "crossbar, beam, dividing line" Akk. gištallu
->>> ĝešdi5 
 ĝešdi [RUNG] 𒄑𒊑 ĝešdi5 "rung" Akk. giltû
->>> ĝeš-dim2 
 ĝešdim [CARVER] 𒄑𒁶 ĝeš-dim2 "wood carver" Akk. inû
->>> ĝeš-du3; ĝeš-du3-a 
 ĝešdu [BREEDER] 𒄑𒆕;𒄑𒆕𒀀 ĝeš-du3; ĝeš-du3-a "breeding stock" Akk. ša ana rakābu uššuru
->>> ĝeš-dub-ba 
 ĝešdubak [BOARD] 𒄑𒁾𒁀 ĝeš-dub-ba "tablet board"
->>> ĝeš-dub-dim2 
 ĝešdubdim [TOOL] 𒄑𒁾𒁶 ĝeš-dub-dim2 "a wooden tool for fashioning tablets; a potter's tool" Akk. muštaptinnu
->>> geš-dub2-dub2ku6 
 ĝešdubdub [FISH] 𒄑𒂀𒂀𒄩 geš-dub2-dub2ku6 "a fish"
->>> ĝeš-e3 
 ĝešed [KEY] 𒄑𒌓𒁺 ĝeš-e3 "key" Akk. namzaqu
->>> ĝeš-gan 
 ĝešgan [DOOR] 𒄑𒃶 ĝeš-gan "door bolt"
->>> ĝeš-gan-na; ĝeš-gin7-na; ĝeš-gana2; ĝeš-gi-na; ĝeš-gin7; ĝeš-TAG 
 ĝešgana [PESTLE] 𒄑𒃶𒈾;𒄑𒁶𒈾;𒄑𒃷;𒄑𒄀𒈾;𒄑𒁶;𒄑𒋳 ĝeš-gan-na; ĝeš-gin7-na; ĝeš-gana2; ĝeš-gi-na; ĝeš-gin7; ĝeš-TAG "pestle" Akk. bukānu
->>> ĝeš-kin2; ĝeš-gana2 
 ĝešgana [TREE] 𒄑𒄯;𒄑𒃷 ĝeš-kin2; ĝeš-gana2 "a tree" Akk. kiškanû
->>> ĝeš-gana2 bala 
 ĝešgana bala [SELL] 𒄑𒃷𒁄 ĝeš-gana2 bala "'to pass someone or something over the pestle', to conclude a sale" Akk. bukannam šūtuqu
->>> ĝeš-gaz 
 ĝešgaz [PESTLE] 𒄑𒄤 ĝeš-gaz "pestle"
->>> ĝeš-gen6; ĝeš-ge-en; ĝeš-ge-en-gen6; ĝeš-ge-en-ge-en 
 ĝešgen [LIMBS] 𒄑𒄀;𒄑𒄀𒂗;𒄑𒄀𒂗𒄀;𒄑𒄀𒂗𒄀𒂗 ĝeš-gen6; ĝeš-ge-en; ĝeš-ge-en-gen6; ĝeš-ge-en-ge-en "limbs" Akk. binâtu
->>> ĝeš-gid2 
 ĝešgid [UNMNG] 𒄑𒁍 ĝeš-gid2 "?" Akk. alalu
->>> ĝeš-gid2-da 
 ĝešgida [LENGTH] 𒄑𒁍𒁕 ĝeš-gid2-da "length" Akk. ariktu
->>> ĝeš-gi4-ĝal2; ĝeš-ki-ĝal2; ĝeš-gi-ĝal2 
 ĝešgiĝal [NOTATION] 𒄑𒄄𒅅;𒄑𒆠𒅅;𒄑𒄀𒅅 ĝeš-gi4-ĝal2; ĝeš-ki-ĝal2; ĝeš-gi-ĝal2 "a musical refrain" Akk. mehru
->>> ĝeš-gi-na 
 ĝešgina [~LOOM] 𒄑𒄀𒈾 ĝeš-gi-na "a part of the loom" Akk. gišginû
->>> ĝiš-gi-saĝ-keš2 
 ĝešgisaĝkešed [DISEASE] 𒄑𒄀𒊕𒆟 ĝiš-gi-saĝ-keš2 "disease"
->>> ĝeš-gu2 
 ĝešgu [STOCK] 𒄑𒄘 ĝeš-gu2 "neck stock"
->>> ĝeš-gu3-di; ĝeš-gu3-de2 
 ĝešgudi [INSTRUMENT] 𒄑𒅗𒁲;𒄑𒅗𒌤 ĝeš-gu3-di; ĝeš-gu3-de2 "a musical instrument" Akk. ?
->>> ĝeš-ĝiri3 
 ĝešĝiri [FETTERS] 𒄑𒄊 ĝeš-ĝiri3 "fetters"
->>> ĝeš-har-har 
 ĝešharhar [ENCIRCLEMENT] 𒄑𒄯𒄯 ĝeš-har-har "encirclement" Akk. usurtu
->>> ĝeš-haš 
 ĝešhaš [WEAPON] 𒄑𒋻 ĝeš-haš "a weapon" Akk. gamlu; gišhaššu
->>> ĝeš-he2; ĝeš-he 
 ĝešhe [FIRMAMENT] 𒄑𒃶;𒄑𒄭 ĝeš-he2; ĝeš-he "firmament, vault of the sky" Akk. šupuk šamê
->>> ĝeš-hum; ĝeš-hu-um 
 ĝešhum [BENCH] 𒄑𒈝;𒄑𒄷𒌝 ĝeš-hum; ĝeš-hu-um "bench; cabin; awning" Akk. gišhummu
->>> ĝeš-hur 
 ĝešhur [PLAN] 𒄑𒄯 ĝeš-hur "plan"
->>> ĝeš-hur 
 ĝešhur [WORK] 𒄑𒄯 ĝeš-hur "a type of work"
->>> ĝeš-i3; šeĝeš-i3; še-i3-ĝeš 
 ĝeši [SESAME] 𒄑𒉌;𒊺𒄑𒉌;𒊺𒉌𒄑 ĝeš-i3; šeĝeš-i3; še-i3-ĝeš "sesame" Akk. šamaššammū
->>> ĝeš-il2 
 ĝešil [TREETOP] 𒄑𒅍 ĝeš-il2 "top of a tree" Akk. mēlû
->>> giĝeš-ka-keš2-da 
 ĝeškakešda [DAM] 𒄀𒄑𒅗𒆟𒁕 giĝeš-ka-keš2-da "dam"
->>> ĝeš-kan4-na; ni-iš-ka-an-ka-na-ak 
 ĝeškanak [JAMB] 𒄑𒆍𒈾;𒉌𒅖𒅗𒀭𒅗𒈾𒀝 ĝeš-kan4-na; ni-iš-ka-an-ka-na-ak "a part of a door frame, door jamb" Akk. giškanakku; sippu
->>> ĝeš-keš2-da; ĝeš-keš2-ra2 
 ĝeškešda [DAM] 𒄑𒆟𒁕;𒄑𒆟𒁺 ĝeš-keš2-da; ĝeš-keš2-ra2 "dam" Akk. erretu; mehru
->>> ĝeš-kiĝ2-ti 
 ĝeškiĝti [CRAFTSMAN] 𒄑𒆥𒋾 ĝeš-kiĝ2-ti "craftsman; kiln" Akk. kiškattû
->>> ĝeš-kiĝ2-ti 
 ĝeškiĝti [WORKSHOP] 𒄑𒆥𒋾 ĝeš-kiĝ2-ti "craft workshop; collective of craft workers" Akk. kiškattu
->>> ĝeš-kim3; mu-gim7 
 ĝeškim [PESTLE] 𒄑𒁍;𒈬BU ĝeš-kim3; mu-gim7 "(wooden) pestle" Akk. bukānu
->>> ĝeš-kur 
 ĝeškur [TREE] 𒄑𒆳 ĝeš-kur "a tree" Akk. giškurrû
->>> ĝeš-la2 
 ĝešla [BATTLE] 𒄑𒇲 ĝeš-la2 "battle" Akk. anantu; tuqumtu
->>> ĝeš-la2-a 
 ĝešla [KEY] 𒄑𒇲𒀀 ĝeš-la2-a "key"
->>> ĝeš-la2-bi; mu-uš-la2-bi 
 ĝešlabi [SILENCE] 𒄑𒇲𒁉;𒈬𒍑𒇲𒁉 ĝeš-la2-bi; mu-uš-la2-bi "silence"
->>> ĝeš-MUNUS.BUR2 
 ĝešMUNUSBUR [DRESS] 𒄑𒊩𒁔 ĝeš-MUNUS.BUR2 "dress ornament"
->>> ĝešna-ru2-a 
 ĝešnaruak [~STELE] 𒄑𒈾KAK𒀀 ĝešna-ru2-a "a wooden stele?; a wooden part of a stele?" Akk. işşi narê
->>> ĝešĝešnimbar; ĝešnimbar; mu-nim-mar 
 ĝešnimbar [PALM] 𒄑𒄑𒁇;𒄑𒁇;𒈬𒉏𒈥 ĝešĝešnimbar; ĝešnimbar; mu-nim-mar "date palm" Akk. gišimmaru
->>> na4ĝešnu; na4ĝeš-nu11; na4ĝešnux(|NU11.GIŠ|) 
 ĝešnu [ALABASTER] 𒎎𒄑𒉡;𒎎𒄑𒉢;𒎎𒄑?(𒉢𒄑) na4ĝešnu; na4ĝeš-nu11; na4ĝešnux(|NU11.GIŠ|) "alabaster"
->>> ĝeš-nu11; ĝešnu; gešnu2 
 ĝešnu [LIGHT] 𒄑𒉢;𒄑𒉡;|NU₁₁.IR| ĝeš-nu11; ĝešnu; gešnu2 "light" Akk. nūru
->>> ĝeš-nu11 
 ĝešnu [TREE] 𒄑𒉢 ĝeš-nu11 "a tree" Akk. samānu
->>> ĝeš-nud 
 ĝešnud [BED] 𒄑𒈿 ĝeš-nud "bed" Akk. eršu
->>> ĝeš-nud-AŠ-nud 
 ĝešnudAŠnud [BED] 𒄑𒈿𒀸𒈿 ĝeš-nud-AŠ-nud "a bed" Akk. dinnû
->>> ĝeš-nud-gu-la 
 ĝešnudgula [BED] 𒄑𒈿𒄖𒆷 ĝeš-nud-gu-la "a bed"
->>> ĝeš-nud-ki-nud 
 ĝešnudkinud [BED] 𒄑𒈿𒆠𒈿 ĝeš-nud-ki-nud "a bed"
->>> na4ĝeš-nu11-gal; na4ĝešnu-gal; ĝeš-na4nu11-gal 
 ĝešnugal [ALABASTER] 𒎎𒄑𒉢𒃲;𒎎𒄑𒉡𒃲;𒄑𒎎𒉢𒃲 na4ĝeš-nu11-gal; na4ĝešnu-gal; ĝeš-na4nu11-gal "alabaster" Akk. ašnugallu
->>> ĝeš-pap-hal-la 
 ĝešpaphalla [TRAP?] 𒄑𒉽𒄬𒆷 ĝeš-pap-hal-la "trap?"
->>> ĝeš-bur2; ĝeš-par3; ĝeš-bur? 
 ĝešpar [TRAP] 𒄑𒁔;𒄑𒁖;𒄑BUR ĝeš-bur2; ĝeš-par3; ĝeš-bur? "trap, snare" Akk. gišparru
->>> giš-par4-ra 
 ĝešpara [VEILED] 𒄑𒉌 𒄑𒊏 giš-par4-ra "veiled"
->>> ĝeš-bu; ĝešĝešpu2; ĝeš-bu10; ĝešĝešpu 
 ĝešpu [RIM] 𒄑𒁍;𒄑𒄑𒇥;𒄑𒉽𒉽;𒄑𒄑𒁍 ĝeš-bu; ĝešĝešpu2; ĝeš-bu10; ĝešĝešpu "circle, ring; (circular) rim" Akk. kippatu
->>> ĝeš-rin2 
 ĝešrin [SCALES] 𒄑ERIN₂ ĝeš-rin2 "scales" Akk. gišrinnu
->>> ĝeš-ša3-gan; ĝeš-ša3-gan-na 
 ĝeššaganak [DOORFRAME] 𒄑𒊮𒃶;𒄑𒊮𒃶𒈾 ĝeš-ša3-gan; ĝeš-ša3-gan-na "a part of a doorframe" Akk. giššakanakku
->>> ĝeš-šeš 
 ĝeššeš [LICORICE] 𒄑𒋀 ĝeš-šeš "licorice tree" Akk. šūšu
->>> ĝeš-šu 
 ĝeššu [MANACLES] 𒄑𒋗 ĝeš-šu "manacles" Akk. ?
->>> ĝeš-šub 
 ĝeššub [LOT] 𒄑𒊒 ĝeš-šub "lot, share" Akk. isqu
->>> ĝeš-šu-dim2 
 ĝeššudim [TIMBER] 𒄑𒋗𒁶 ĝeš-šu-dim2 "(ship's) timber"
->>> ĝeš-šudum-ma 
 ĝeššudumak [TALLY] 𒄑𒋃𒈠 ĝeš-šudum-ma "tally stick"
->>> ĝeš-šudum-ma 
 ĝeššudumak [~ACCOUNTING] 𒄑𒋃𒈠 ĝeš-šudum-ma "a wooden tool used for accounting" Akk. işşi minûti
->>> ĝeštae 
 ĝešta'e [CYPRESS] 𒄑 ĝeštae "cypress" Akk. šurmēnu
->>> ĝeš-tag-ga 
 ĝeštaga [SACRIFICE] 𒄑𒋳𒂵 ĝeš-tag-ga "sacrifice" Akk. gištaggû
->>> ĝeštin; ĝešĝeštin; mu-tin; mu-ti-in 
 ĝeštin [VINE] 𒃾;𒄑𒃾;𒈬𒁷;𒈬𒋾𒅔 ĝeštin; ĝešĝeštin; mu-tin; mu-ti-in "vine; wine" Akk. karānu
->>> ĝesĝeštin-ah3-a 
 ĝeštinaha [RAISIN] 𒌓𒀀 ĝesĝeštin-ah3-a "raisin" Akk. muzīqu
->>> ĝešĝeštin-bil2 
 ĝeštinbil [GRAPE] 𒄑𒃾𒉋 ĝešĝeštin-bil2 "a grape" Akk. pillu
->>> ĝešĝeštin-gurum-ma 
 ĝeštinguruma [~VINE] 𒄑𒃾𒃵𒈠 ĝešĝeštin-gurum-ma "stock of the vine" Akk. karān lāni; kippat karāni; tillat karāni
->>> ĝeštin-ka5-a 
 ĝeštinka'a [GRAPE] 𒃾𒈜𒀀 ĝeštin-ka5-a "a grape" Akk. karān šēlebi
->>> ĝešĝeštin-kir4-ra; ĝešĝeštin-gir2-ra; ĝešĝeštin-kir4; ĝešĝeštin-gir2 
 ĝeštinkira [BERRY] 𒄑𒃾𒅗𒊏;𒄑𒃾𒄈𒊏;𒄑𒃾𒅗;𒄑𒃾𒄈 ĝešĝeštin-kir4-ra; ĝešĝeštin-gir2-ra; ĝešĝeštin-kir4; ĝešĝeštin-gir2 "a berry" Akk. amurdinnu
->>> ĝešĝeštin-zug2 
 ĝeštinzug [GRAPE] 𒄑𒃾𒅗 ĝešĝeštin-zug2 "a grape" Akk. pillu
->>> ĝeštug2; ĝešĝeštug; ĝeštug; ĝeštug3; muštug2; mu-uš-tug2; mu-uš-tug 
 ĝeštug [EAR] 𒄑𒌆;𒄑𒄑𒌇;𒄑𒌇;𒄑𒉿𒌆;𒈬𒍑𒌆𒉿;𒈬𒍑𒌆;𒈬𒍑𒌇 ĝeštug2; ĝešĝeštug; ĝeštug; ĝeštug3; muštug2; mu-uš-tug2; mu-uš-tug "reason, plan; (to be) wise; wisdom, understanding; ear" Akk. hassu; uznu; uznu; ţēmu
->>> ĝešĝeštugku6; ĝešĝeštug2ku6 
 ĝeštug [FISH] 𒄑𒄑𒌇𒄩;𒄑𒄑𒌆𒄩 ĝešĝeštugku6; ĝešĝeštug2ku6 "a type of fish"
->>> geštu2 degx(RI) 
 ĝeštug deg [PONDER] 𒄑𒌆𒉿𒊑(𒊑) geštu2 degx(RI) "to listen, to ponder"
->>> ĝeštug2 du3 
 ĝeštug du [LISTEN] 𒄑𒌆𒆕 ĝeštug2 du3 "to listen" Akk. ?
->>> ĝeštug2 gub 
 ĝeštug gub [PLAN] 𒄑𒌆𒁺 ĝeštug2 gub "to pay attention, to plan" Akk. uzna šakānu
->>> ĝeštug2 ĝar; geštu2 ga2-ga2 
 ĝeštug ĝar [LISTEN] 𒄑𒌆𒃻;𒄑𒌆𒉿𒂷𒂷 ĝeštug2 ĝar; geštu2 ga2-ga2 "to pay attention, to listen" Akk. (w)âru ?
->>> ĝeštug2 la2 
 ĝeštug la [DEAF] 𒄑𒌆𒇲 ĝeštug2 la2 "(to be) deaf; (to be) difficult, obstinate" Akk. sakāku
->>> ĝeštug2 šum2 
 ĝeštug šum [LISTEN] 𒄑𒌆𒋧 ĝeštug2 šum2 "to listen; to give wisdom" Akk. (w)âru?
->>> ĝeštug2 u18-lu 
 ĝeštug ulu [FORGET] 𒄑𒌆𒍇𒇻 ĝeštug2 u18-lu "to forget" Akk. mašû
->>> ĝeštug-la2-la2 
 ĝeštuglala [EARRINGS] 𒄑𒌇𒇲𒇲 ĝeštug-la2-la2 "earrings"
->>> ĝeštug2-za3-min2 
 ĝeštugzaminak [SHAPE] 𒄑𒌆𒍠𒊩 ĝeštug2-za3-min2 "a geometric shape"
->>> ĝeš-u3 
 ĝešu [UNMNG] 𒄑𒅇 ĝeš-u3 "?" Akk. ?
->>> ĝeš-ur3-ur3 
 ĝešurur [HARROW] 𒄑𒃡𒃡 ĝeš-ur3-ur3 "harrow" Akk. naspanu
->>> ĝeš-u3-sal4-la 
 ĝešusala [BOAT-PART] 𒄑𒅇𒋡𒆷 ĝeš-u3-sal4-la "part of boat"
->>> ĝeš-usan3 
 ĝešusan [WHIP] 𒄑𒉮 ĝeš-usan3 "whip handle"
->>> ĝi6mušen 
 ĝi [BIRD] 𒈪𒄷 ĝi6mušen "a bird"
->>> ĝi6 
 ĝi [NIGHT] 𒈪 ĝi6 "night" Akk. mūšu
->>> ĝi6 sa2 
 ĝi sa [SPEND THE NIGHT] 𒈪𒁲 ĝi6 sa2 "to spend the night" Akk. šumšû
->>> ĝi6-ba-a 
 ĝiba'a [MIDNIGHT] 𒈪𒁀𒀀 ĝi6-ba-a "midnight"
->>> ĝidlam; ĝidlam2; ĝidlam3 
 ĝidlam [SPOUSE] 𒊩𒍑𒁮;𒍑𒁮;𒍑𒊩𒁮 ĝidlam; ĝidlam2; ĝidlam3 "(equal ranking) spouse" Akk. hā'iru; hīrtu
->>> ĝidru; mumu-ud-ru 
 ĝidru [SCEPTER] 𒉺;𒈬𒈬𒌓𒊒 ĝidru; mumu-ud-ru "scepter" Akk. haţţu
->>> ĝi6-eden 
 ĝi'eden [SHADE] 𒈪𒂔 ĝi6-eden "deep shade"
->>> ĝi6-par4; ĝi6-par3; gešgiparx(KISAL); ĝiparx(KISAL) 
 ĝipar [CLOISTER] 𒈪𒉌 𒄑;𒈪𒁖;?(𒆦);𒆦(𒆦) ĝi6-par4; ĝi6-par3; gešgiparx(KISAL); ĝiparx(KISAL) "cloister" Akk. gipāru
->>> ĝešĝi6-par4; ĝešĝiparx(KISAL) 
 ĝipar [TREE] 𒄑𒈪𒉌 𒄑;𒄑𒆦(𒆦) ĝešĝi6-par4; ĝešĝiparx(KISAL) "a type of fruit tree; fruit" Akk. libāru
->>> ĝir2ku6; ĝirku6 
 ĝir [FISH] 𒄈𒄩;𒄈𒄩 ĝir2ku6; ĝirku6 "a fish"
->>> ĝir2 
 ĝir [FLASH] 𒄈 ĝir2 "to flash"
->>> ĝir15 
 ĝir [NATIVE] 𒂠 ĝir15 "native, local"
->>> ĝir3 
 ĝir [PRIDE] 𒄊 ĝir3 "to take pride in; to make splendid" Akk. šarāhu
->>> ĝir2 
 ĝir [SCORPION] 𒄈 ĝir2 "scorpion" Akk. zuqaqīpu
->>> ĝir3-babbarmušen 
 ĝirbabbar [BIRD] 𒄊𒌓𒄷 ĝir3-babbarmušen "a bird"
->>> ĝir2-gid2ku6; ĝir-gid2ku6 
 ĝirgid [FISH] 𒄈𒁍𒄩;𒄈𒁍𒄩 ĝir2-gid2ku6; ĝir-gid2ku6 "a fish"
->>> ĝir2-gul 
 ĝirgul [~WOOL] 𒄈𒄢 ĝir2-gul "a qualification of wool"
->>> ĝiri2; urudĝiri2; me2-er; me-er; me-ri 
 ĝiri [DAGGER] 𒄈;U+1234F𒄈;𒈪𒅕;𒈨𒅕;𒈨𒊑 ĝiri2; urudĝiri2; me2-er; me-er; me-ri "razor; sword, dagger" Akk. naglabu; patru
->>> ĝiri3; me-ri; ĝiri16 
 ĝiri [FOOT] 𒄊;𒈨𒊑;𒄌 ĝiri3; me-ri; ĝiri16 "via, by means of, under the authority of someone; foot; path" Akk. šēpu
->>> ĝiri3 bad 
 ĝiri bad [MOVE] 𒄊𒁁 ĝiri3 bad "to spread the legs, to move" Akk. ?
->>> ĝiri3 dab5 
 ĝiri dab [TAKE TO THE ROAD] 𒄊𒆪 ĝiri3 dab5 "to take to the road" Akk. girram/harrānam şabātu
->>> ĝiri3 gub 
 ĝiri gub [STEP] 𒄊𒁺 ĝiri3 gub "to step in/on/out" Akk. kabāsu
->>> ĝiri3 gub 
 ĝiri gub [WAIT FOR] 𒄊𒁺 ĝiri3 gub "to wait for" Akk. qu''u
->>> ĝiri3 ĝar 
 ĝiri ĝar [TRAMPLE] 𒄊𒃻 ĝiri3 ĝar "to trample" Akk. rahāşu
->>> ĝiri3 kur2 
 ĝiri kur [CHANGE] 𒄊𒉽 ĝiri3 kur2 "to change" Akk. ?
->>> ĝiri3 kur2 dab5 
 ĝiri kur dab [TAKE AN UNFAMILIAR PATH] 𒄊𒉽𒆪 ĝiri3 kur2 dab5 "to take an unfamiliar path" Akk. ?
->>> ĝiri3 niĝin 
 ĝiri niĝin [CIRCLE] 𒄊𒆸 ĝiri3 niĝin "to circle" Akk. ?
->>> ĝiri3 saga11; ĝiri3 sa-ga; ĝiri3 sag2 
 ĝiri saga [TRAMPLE] 𒄊𒆥;𒄊𒊓𒂵;𒄊|PA.GAN| ĝiri3 saga11; ĝiri3 sa-ga; ĝiri3 sag2 "to trample, destroy"
->>> ĝiri3 sig9 
 ĝiri sig [PERFORM SERVICE] 𒄊𒋛 ĝiri3 sig9 "to serve someone/something, perform service"
->>> ĝiri3 ul4 
 ĝiri ul [RUSH] 𒄊𒄉 ĝiri3 ul4 "to rush" Akk. hamāţu
->>> ĝiri3 us2 
 ĝiri us [STEP UPON] 𒄊𒍑 ĝiri3 us2 "to step upon" Akk. kabāsu
->>> ĝiri3 ze2-er 
 ĝiri zer [SLIP] 𒄊𒍢𒅕 ĝiri3 ze2-er "to slip" Akk. nehelşû
->>> ĝiri3 zukum 
 ĝiri zukum [TRAMPLE] 𒄊≈ 𒌁𒆸 ≈ 𒂃𒆸 ĝiri3 zukum "to trample" Akk. kabāsu
->>> ĝiri3-bal 
 ĝiribal [FLOODING] 𒄊𒁄 ĝiri3-bal "flooding" Akk. rihşu
->>> ĝiri3-GA 
 ĝiriGA [VESSEL] 𒄊𒂵 ĝiri3-GA "type of vessel"
->>> ĝiri3-gid2-damušen 
 ĝirigida [BIRD] 𒄊𒁍𒁕𒄷 ĝiri3-gid2-damušen "a bird" Akk. saqātu; šēpšu arik
->>> ĝešĝiri3-gub 
 ĝirigub [FOOTSTOOL] 𒄑𒄊𒁺 ĝešĝiri3-gub "footstool" Akk. gištappu
->>> lu2ĝiri3-ĝen-na 
 ĝiriĝena [CONVEYOR] 𒇽𒄊𒁺𒈾 lu2ĝiri3-ĝen-na "conveyor"
->>> ĝiri3-ĝen-na 
 ĝiriĝena [PATH] 𒄊𒁺𒈾 ĝiri3-ĝen-na "path" Akk. tallaktu
->>> ĝiri3-kud 
 ĝirikud [CRIPPLE] 𒄊𒋻 ĝiri3-kud "cripple"
->>> ĝiri2-la2 
 ĝirila [BUTCHER] 𒄈𒇲 ĝiri2-la2 "butcher" Akk. ţābihu
->>> ĝiri3-ma-an 
 ĝiriman [BASIN] 𒄊𒈠𒀭 ĝiri3-ma-an "basin"
->>> u2ĝir3-mu2-a 
 ĝirimua [PLANT] 𒌑𒄊𒊬𒀀 u2ĝir3-mu2-a "a plant"
->>> ĝiri3-pad-ra2 
 ĝiripadra [BONE] 𒄊𒉻𒁺 ĝiri3-pad-ra2 "bone" Akk. eşemtu
->>> ĝiri2-PA-a; ĝiri-PA-na 
 ĝiriPAna [KNIFE] 𒄈𒉺𒀀;𒄊𒉺𒈾 ĝiri2-PA-a; ĝiri-PA-na "a knife"
->>> ĝiri3-si 
 ĝirisi [TOE] 𒄊𒋛 ĝiri3-si "toe"
->>> ĝiri3-suhub2 
 ĝirisuhub [HOOF?] 𒄊|ANx3| ĝiri3-suhub2 "hoof?"
->>> u2ĝir3-ugamušen 
 ĝiri'uga [PLANT] 𒌑𒄊𒂵  GA𒄷 u2ĝir3-ugamušen "a plant"
->>> ĝiri2-ur3-ra 
 ĝiri'ura [KNIFE] 𒄈𒃡𒊏 ĝiri2-ur3-ra "a type of knife"
->>> u2ĝir3-ur-gi7-ra 
 ĝiri'urgira [PLANT] 𒌑𒄊𒌨𒂠𒊏 u2ĝir3-ur-gi7-ra "a plant"
->>> ĝiri3-us2 
 ĝiri'us [TRACK] 𒄊𒍑 ĝiri3-us2 "track"
->>> giri3-uš 
 ĝiri'uš [QUALITY] GIR₃𒍑 giri3-uš "a designation of quality"
->>> ĝiri2-zal; ĝiri2-KAK 
 ĝirizal [SCALPEL] 𒄈𒉌;𒄈𒆕 ĝiri2-zal; ĝiri2-KAK "scalpel"
->>> na4ĝiri2-zu2-gal-la 
 ĝirizugalak [FLINT] 𒎎𒄈𒅗𒃲𒆷 na4ĝiri2-zu2-gal-la "flint"
->>> ĝir3-lam; gi-lam 
 ĝirlam [BASKET] 𒄊𒇴;𒄀𒇴 ĝir3-lam; gi-lam "a basket" Akk. ?
->>> ĝir3-mulmušen; ur5-mulmušen; ir3-mulmušen; kir4-mulmušen 
 ĝirmul [BIRD] 𒄊𒀯𒄷;𒄯𒀯𒄷;𒀴𒀯𒄷;𒅗𒀯𒄷 ĝir3-mulmušen; ur5-mulmušen; ir3-mulmušen; kir4-mulmušen "a bird"
->>> ĝir2-niĝin2ku6 
 ĝirniĝin [FISH] 𒄈𒆸𒄩 ĝir2-niĝin2ku6 "a fish"
->>> gir2-nun-na-DU-raku6 
 ĝirnunaDUra [FISH] 𒄈𒉣𒈾𒁺𒊏𒄩 gir2-nun-na-DU-raku6 "a fish"
->>> ĝir3-papmušen; ir3-papmušen 
 ĝirpap [BIRD] 𒄊𒉽𒄷;𒀴𒉽𒄷 ĝir3-papmušen; ir3-papmušen "a bird"
->>> gir2-rinku6 
 ĝirrin [FISH] 𒄈𒆸𒄩 gir2-rinku6 "a fish"
->>> ĝir3-sig10-ga 
 ĝirsiga [ATTENDANT] 𒄊𒋧𒂵 ĝir3-sig10-ga "an attendant" Akk. gerseqqû
->>> ĝir2-tab 
 ĝirtab [SCORPION] 𒄈𒋰 ĝir2-tab "scorpion" Akk. zuqaqīpu
->>> ĝešĝisal 
 ĝisal [RUDDER] 𒄑𒄞𒄑 ĝešĝisal "rudder, oar; a roof part" Akk. gišallu
->>> ĝisal-ensar 
 ĝisalen [PLANT] 𒄞𒄑𒂗𒊬 ĝisal-ensar "a plant"
->>> ĝissu; aĝ2-ze2 
 ĝissu [SHADE] 𒄑𒈪;𒉘𒍢 ĝissu; aĝ2-ze2 "shade, shadow; protection, aegis" Akk. şillu
->>> ĝiš-ellag 
 ĝišellag [TOOL] 𒄑𒆸 ĝiš-ellag "tool" Akk. mekkû
->>> ĝišgal 
 ĝišgal [STATION] 𒄑𒃲 ĝišgal "station, attendant" Akk. manzazu
->>> ĝiš-giri19(|ŠU.LU2|) 
 ĝišgiri [STAFF] 𒄑𒄀?(𒋗𒇽) ĝiš-giri19(|ŠU.LU2|) "staff" Akk. nemettu
->>> ĝiškim 
 ĝiškim [SIGN] 𒄑𒁍 ĝiškim "sign, omen; trust, aid" Akk. giskimmu; ittu; tukultu
->>> ĝiškim til3 
 ĝiškim til [TRUST] 𒄑𒁍𒋾 ĝiškim til3 "to trust" Akk. qâpu
->>> ĝiškim-ti 
 ĝiškimti [TRUST] 𒄑𒁍𒋾 ĝiškim-ti "trust, aid" Akk. tukultu
->>> ĝi6-u3-na 
 ĝi'unak [NIGHT] 𒈪𒅇𒈾 ĝi6-u3-na "night, night-time" Akk. šāt mūši
->>> ĝizzal; gizzal2 
 ĝizzal [EAR] 𒄑𒌆𒉿𒎓𒉣;|NU₁₁.SILA₃| ĝizzal; gizzal2 "wisdom; understanding; ear; hearing" Akk. hasīsu; uznu; uznu; nešmû
->>> ĝuruš 
 ĝuruš [MALE] 𒆗 ĝuruš "young adult male; able-bodied male worker; semi-free male worker" Akk. eţlu
->>> ĝešĝušur; ĝušur 
 ĝušur [BEAM] 𒄑𒃡;𒃡 ĝešĝušur; ĝušur "beam" Akk. gušūru
->>> ĝešgana2ĝušur; ĝešĝušur 
 ĝušur [HARROW] 𒄑𒃷𒃡;𒄑𒃡 ĝešgana2ĝušur; ĝešĝušur "harrow" Akk. maškakātu
->>> ĝešĝušur2; ĝešĝušurx(|RAB.TUR.TUR|); ĝešĝušurx(|RAB.MAH|) 
 ĝušur [STOCK] 𒄑𒊐𒃲;𒄑𒊐𒈤(𒊐𒌉𒌉);𒄑𒊐𒈤(𒊐𒈤) ĝešĝušur2; ĝešĝušurx(|RAB.TUR.TUR|); ĝešĝušurx(|RAB.MAH|) "stock; clasp" Akk. nardappu; maluţţu; malāţu
