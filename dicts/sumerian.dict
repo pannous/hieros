@@ -1,5 +1,3 @@
-npm install-g jsdom canvas jsdom-global
-Missing require: request
  a  [ARM]  𒀉  a2  "arm; labor; wing; horn; side; strength; wage; power" #ahu ;  idu 
  a  [BIRD-CRY]  𒀀  a  "a bird-cry" 
  a  [TIME]  𒀉  a2  "time" 
@@ -133,10 +131,10 @@ Missing require: request
  adagur  [POT]  𒀀𒁕𒆸;𒀀𒁕𒍀;𒀀𒁕𒆳  a-da-gur4 ;  a-da-gur5 ;  a-da-kur  "a libation pot" #adagurru 
  adal  [EXCLAMATION]  𒀀𒁕𒀠;𒀀𒁕𒇴;𒄿𒁕𒀠;𒄿𒁕𒇴;𒄿𒁕𒀠𒆷;𒄿𒁕𒆷;𒄿𒁕𒇲;𒄿𒊑;𒄿𒊑𒀀𒀭;𒄿𒊑𒆷  a-da-al ;  a-da-lam ;  i-da-al ;  i-da-lam ;  i-da-al-la ;  i-da-la ;  i-da-la2 ;  i-dal ;  i-dal-am3 ;  i-dal-la  "an exclamation,  "now",  "right now"" #ašarma ;  inanna 
  adallabi  [NOW]  𒀀𒁕𒀠𒆷𒁉  a-da-al-la-bi  "now" 
- adam  [HABITATION]  𒀉𒁮 tám / dam  a2-dam  "habitation" #namû 
+ adam  [HABITATION]  𒀉𒁮  a2-dam  "habitation" #namû 
  adama  [DISCHARGE]  𒁁𒈪  adama  "a dark-colored bodily discharge" #adamatu 
  adama  [OBJECT]  𒄑𒀀𒁕𒈣  ĝeš a-da-ma2  "a wooden object" 
- adamdun  [ANIMAL]  𒀀𒁮 tám / dam𒂄  a-dam-dun  "an aquatic animal" 
+ adamdun  [ANIMAL]  𒀀𒁮𒂄  a-dam-dun  "an aquatic animal" 
  adamin  [CONTEST]  𒀀𒁕𒌋𒌋;𒀀𒁕𒈫;𒈓·(𒇽𒇽);𒈓;𒈘;𒄒;𒉫;𒂛;𒈓·(𒂜)  a-da-min3 ;  a-da-min ;  adamin x (|LU2 .LU2 |) ;  adamin ;  adamin2 ;  adamin3 ;  adamin4 ;  adamin5 ;  adamin x (|EN@EN|)  "contest, dispute, debate" #teşētu 
  adamin  [FISH]  𒀀𒁕𒌋𒌋𒄩  a-da-min3 ku6  "a fish" 
  adar  [PLANT]  𒄑𒀀𒁯  ĝeš a-dar  "a type of wood; a plant" #atartu ;  na-ba-zu-um 
@@ -641,7 +639,7 @@ Missing require: request
  bangi  [RESPONSE]  𒁀𒀭𒄄  ba-an-gi4  "response, answer" 
  bangi  [TAPER]  𒁀𒀭𒄄  ba-an-gi4  "taper, bevel, slant, incline" 
  banHU  [ANIMAL]  𒑑𒄷;𒁀𒀭𒄷𒈾;𒑑𒁯𒁯𒉡  ban2-HU ;  ba-an-HU-na ;  ban2-gun3-gun3-nu  "an animal" #hurbabilu 
- banmin  [VESSEL]  𒂁  dug banmin  "a vessel of two seah capacity" 
+ banmin  [VESSEL]  𒂁𒈫  dug banmin  "a vessel of two seah capacity" 
  banšur  [TABLE]  𒍎;𒄑𒍎;¿≈𒍎≈𒆓?;𒄑¿≈𒍎≈𒆓?;𒆓;𒄑𒆓;𒍎·(𒍂)  banšur ;  ĝeš banšur ;  banšur2 ;  ĝeš banšur2 ;  banšur3 ;  ĝeš banšur3 ;  banšur x (|URU×IGI|)  "table" #paššūru 
  banšurzaggula  [TABLE]  𒄑𒍎𒍠𒄖𒆷;𒄑𒍎𒍠𒄘𒇲  ĝeš banšur-zag-gu-la ;  ĝeš banšur-zag-gu2-la2  "a cultic table" #paššūr sakkî 
  banšurzagĝara  [TABLE]  𒄑𒍎𒍠𒃻𒊏  ĝeš banšur-zag-ĝar-ra  "a cultic table" #paššūr aširti 
@@ -860,7 +858,7 @@ Missing require: request
  dagsi  [HOOK]  𒁖𒋛  dag-si  "saddle hook" 
  dagsirum  [REPAIR?]  𒁖𒋛𒊒𒌝  dag-si-ru-um  "repair?" 
  dagum  [UNMNG]  𒁕𒄣  da-gum  "?" 
- daĝal  [WIDE]  GA2×AN;𒁮 tám / dam𒃲;𒁲𒄠𒂵𒀠;𒁕𒈠𒀠  daĝal ;  dam-gal ;  di-am-ga-al ;  da-ma-al  "(to be) wide; width, breadth" #rupšu 
+ daĝal  [WIDE]  GA2×AN;𒁮𒃲;𒁲𒄠𒂵𒀠;𒁕𒈠𒀠  daĝal ;  dam-gal ;  di-am-ga-al ;  da-ma-al  "(to be) wide; width, breadth" #rupšu 
  daĝal tag  [SPREAD]  GA2×AN𒋳  daĝal tag  "to spread wide; to give lavishly" #? 
  dahaša  [CASK]  𒄑𒁕𒄩𒊭  ĝeš da-ha-ša  "wooden cask" 
  daKA  [FISH]  𒁕𒅗𒄩  da-KA ku6  "a fish" 
@@ -876,17 +874,17 @@ Missing require: request
  dalla e  [APPEAR]  𒈦𒄘𒃼𒂍  dalla e2  "to appear, shine" #šūpû 
  dalu  [BAG]  𒄑𒁕𒇻  ĝeš da-lu  "bag, stomach" #tākaltu 
  dalu  [OBJECT]  𒋢𒁕𒇻𒍗;𒋢𒁕𒇻  kuš da-lu-uš2 ;  kuš da-lu  "a leather object" #anuššu 
- dam  [SPOUSE]  𒁮 tám / dam  dam  "spouse" #aššatu ;  mutu 
- dambanda  [WIFE]  𒁮 tám / dam𒌉𒁕  dam-ban3-da  "wife" 
- dameĝir  [WIFE]  𒁮 tám / dam𒂕  dam-eĝir  "junior wife" 
- damga  [~PLOW]  𒄑𒁮 tám / dam;𒄑𒁕𒀭𒂵;𒄑𒁮 tám / dam𒂵;𒋢𒁮 tám / dam𒂵  ĝeš dam ;  ĝeš da-an-ga ;  ĝeš dam-ga ;  kuš dam-ga  "a part of a plow" #puqdu 
- damgar  [MERCHANT]  𒁮 tám / dam𒃼  dam-gar3  "merchant, trader" #tamkāru 
- damgargal  [MERCHANT]  𒁮 tám / dam𒃼𒃲;𒁮 tám / dam𒃼  dam-gar3-gal ;  dam-gar3  "leading merchant" 
- damhara  [BATTLE]  𒁮 tám / dam𒄩𒊏  dam-ha-ra  "battle" #tamhāru 
- damkas  [OFFICIAL]  𒁮 tám / dam𒁽  dam-kas4  "an official" 
- damkaš  [PROFESSION]  𒁮 tám / dam𒁽  dam-kaš4  "a profession" 
- damšah  [ANIMAL]  𒁮 tám / dam𒋚  dam-šah  "crocodile?, hippopotamus?" #dabû 
- damšelum  [PLANT]  𒁮 tám / dam𒊺𒈝;𒄑𒈢𒁮 tám / dam𒋻𒈝  dam-še-lum ;  ĝeš hašhur dam-šil-lum  "a plant" #damšillu 
+ dam  [SPOUSE]  𒁮  dam  "spouse" #aššatu ;  mutu 
+ dambanda  [WIFE]  𒁮𒌉𒁕  dam-ban3-da  "wife" 
+ dameĝir  [WIFE]  𒁮𒂕  dam-eĝir  "junior wife" 
+ damga  [~PLOW]  𒄑𒁮;𒄑𒁕𒀭𒂵;𒄑𒁮𒂵;𒋢𒁮𒂵  ĝeš dam ;  ĝeš da-an-ga ;  ĝeš dam-ga ;  kuš dam-ga  "a part of a plow" #puqdu 
+ damgar  [MERCHANT]  𒁮𒃼  dam-gar3  "merchant, trader" #tamkāru 
+ damgargal  [MERCHANT]  𒁮𒃼𒃲;𒁮𒃼  dam-gar3-gal ;  dam-gar3  "leading merchant" 
+ damhara  [BATTLE]  𒁮𒄩𒊏  dam-ha-ra  "battle" #tamhāru 
+ damkas  [OFFICIAL]  𒁮𒁽  dam-kas4  "an official" 
+ damkaš  [PROFESSION]  𒁮𒁽  dam-kaš4  "a profession" 
+ damšah  [ANIMAL]  𒁮𒋚  dam-šah  "crocodile?, hippopotamus?" #dabû 
+ damšelum  [PLANT]  𒁮𒊺𒈝;𒄑𒈢𒁮𒋻𒈝  dam-še-lum ;  ĝeš hašhur dam-šil-lum  "a plant" #damšillu 
  dan  [PURE]  𒍕;GA2×TAK4;GA2×GAN2 tenû;GA2×EN  dan6 ;  dan3 ;  dan4 ;  dan2  "(to be) pure, clear; to clean" #zakû 
  dana  [UNIT]  𒁕𒈾;𒆜𒁍;KASKAL  da-na ;  danna ;  dana2  "a unit of length, double-hour (distance), double-mile" #bêru 
  DANAGAR  [CONTAINER]  𒁕𒉄  DA.NAGAR  "a container" 
@@ -1102,10 +1100,10 @@ Missing require: request
  dul  [TEXTILE]  𒂈  dul4  "a textile" 
  dula  [DEPTH]  𒂅𒇲  du5-la2  "depth; part of a door (lower pivot?)" #šuplu ;  mušpalu 
  dulum  [TOIL]  𒁺𒈝;𒌅𒈝  du-lum ;  du2-lum  "misery; toil" 
- dumdam  [CLAMOR]  𒌈𒁮 tám / dam  dum-dam  "clamor" #nazāmu ;  ramāmu 
- dumdam  [SOUND]  𒌈𒁮 tám / dam  dum-dam  "to make noise" 
- dumdam ak  [MAKE NOISE]  𒌈𒁮 tám / dam𒀝  dum-dam ak  "to make noise" 
- dumdam za  [MAKE NOISE]  𒌈𒁮 tám / dam𒍝  dum-dam za  "to make noise" 
+ dumdam  [CLAMOR]  𒌈𒁮  dum-dam  "clamor" #nazāmu ;  ramāmu 
+ dumdam  [SOUND]  𒌈𒁮  dum-dam  "to make noise" 
+ dumdam ak  [MAKE NOISE]  𒌈𒁮𒀝  dum-dam ak  "to make noise" 
+ dumdam za  [MAKE NOISE]  𒌈𒁮𒍝  dum-dam za  "to make noise" 
  dumu  [CHILD]  𒌉;𒂅𒈬  dumu ;  du5-mu  "child, son, daughter" #māru 
  dumudaba  [LABORER]  𒌉𒁕𒁀  dumu-da-ba  "an agricultural worker" 
  dumudaba  [WORKER]  𒌉𒆪𒁀  dumu-dab5-ba  "a type of worker" 
@@ -1200,7 +1198,7 @@ Missing require: request
  edadi  [FLOUR]  𒍥𒂍𒁕𒁲  zid2 e2-da-di  "a type of flour" #edadû 
  edadi  [~POSITION]  𒉆𒂍𒁕𒁲  nam-e2-da-di  "a prebendary position" 
  edakua  [SOUP]  GA2×ḪA+LU+EŠ2;𒆺  edakua ;  edakua2  "fish bone; fish soup" #sihil nunu 
- edam  [TAVERN?]  𒂍𒁮 tám / dam  e2-dam  "tavern?" 
+ edam  [TAVERN?]  𒂍𒁮  e2-dam  "tavern?" 
  eden  [BACK]  𒂔  eden  "back, upper side" #şēru 
  eden  [BIRD]  𒂔𒄷;𒁕𒄷  eden mušen ;  da mušen  "a bird" 
  eden  [PLAIN]  𒂔  eden  "plain, steppe, open country" #edinu 
@@ -1434,8 +1432,8 @@ Missing require: request
  ešbar kiĝ  [DECIDE]  𒂠𒁇𒆥  eš-bar kiĝ2  "to make a decision" 
  ešda  [ONE]  𒀊𒁕  eš3-da  "one" #ištēn 
  ešda  [VESSEL]  𒂠𒁕;𒂁𒂠𒁕  eš2-da ;  dug eš-da  "a metal cultic vessel" 
- ešdam  [DISCUSSION]  𒂠𒁮 tám / dam  eš2-dam  "discussion" #šitūltu 
- ešdam  [TAVERN]  𒂠𒁮 tám / dam;𒂍𒂠𒁮 tám / dam;𒂍¿  eš2-dam ;  e2-eš2-dam ;  e2 ešdam  "tavern" #aštammu 
+ ešdam  [DISCUSSION]  𒂠𒁮  eš2-dam  "discussion" #šitūltu 
+ ešdam  [TAVERN]  𒂠𒁮;𒂍𒂠𒁮;𒂍¿  eš2-dam ;  e2-eš2-dam ;  e2 ešdam  "tavern" #aštammu 
  ešdea  [LOAN]  𒂠𒌤𒀀  eš-de2-a  "a loan" #hubutt(at)u 
  eše  [AREA UNIT]  𒅂;𒂠  eše3 ;  eše2  "a unit of area; a unit of volume" #eblu 
  eše  [LENGTH UNIT]  𒂠;𒅂  eše2 ;  eše3  "a unit of length" #aslu 
@@ -1537,7 +1535,7 @@ Missing require: request
  gada  [WITH]  𒂵𒁕  ga-da  "with" #qadum 
  gadala  [FABRIC]  𒌆𒃰𒇲  tug2 gada-la2  "a fabric" #gadalalû 
  gadala  [PRIEST]  𒃰𒇲  gada-la2  "a priest" #labiš kitê 
- gadam  [SLUICE]  𒂵𒁮 tám / dam  ga-dam  "sluice, waterfall" #natbaktu 
+ gadam  [SLUICE]  𒂵𒁮  ga-dam  "sluice, waterfall" #natbaktu 
  gadamah  [GARMENT]  𒃰𒈤  gada-mah  "a garment" 
  GADIMŠEGADIMŠE  [BIRD]  𒂷·𒁴·𒊺𒂷·𒁴·𒊺𒄷  |GA2 ×DIM×ŠE|.|GA2 ×DIM×ŠE| mušen  "a bird" 
  GADTAGDA  [STAKE?]  𒃰𒋳𒁕  GADA.TAG.DA  "stake?" 
@@ -2044,7 +2042,7 @@ Missing require: request
  hab  [PLANT]  𒌑𒇥  u2 hab2  "a plant" 
  hab  [POT]  𒇥  hab  "a pot" 
  habazin  [CEREAL]  𒄩𒁀𒍣;𒄩𒁀𒍣𒅔;𒄩𒁀𒍣𒀧  ha-ba-zi ;  ha-ba-zi-in ;  ha-ba-zi-il  "cereal" #abahšinnu 
- habruda  [HOLE]  𒆢;𒆡;𒊰;𒊵;𒇯𒇯𒁮 tám / dam  habruda ;  habruda2 ;  habruda3 ;  habruda4 ;  dul6-dul6-dam  "hole" #hurru 
+ habruda  [HOLE]  𒆢;𒆡;𒊰;𒊵;𒇯𒇯𒁮  habruda ;  habruda2 ;  habruda3 ;  habruda4 ;  dul6-dul6-dam  "hole" #hurru 
  habuda  [HOE]  𒍏𒄩𒄷𒁕;𒄩𒄷𒁕;𒄩𒄷𒁕𒍏;𒄑𒄩𒁍𒁕;𒍏𒄩𒁍𒁕;𒄑𒄩𒄷𒁕;𒄑𒄩𒇥𒁕  urud ha-bu3-da ;  ha-bu3-da ;  ha-bu3-da urud ;  ĝeš ha-bu-da ;  urud ha-bu-da ;  ĝeš ha-bu3-da ;  ĝeš ha-bu6-da  "hoe, ax" #hapūtu 
  habum  [ANIMAL]  𒄩𒁍𒌝  ha-bu-um  "an animal; a kind of wool?" 
  had  [BRIGHT]  𒄩𒀜;𒌓  ha-ad ;  had2  "(to be) bright; to shine; (to be) pure; (to be) clear" #ebbu ;  nabāţu ;  ellu 
@@ -2504,7 +2502,7 @@ Missing require: request
  ir  [TREE]  𒅕  ir  "type of tree" #armannu 
  irani  [BIRD]  𒅕𒉌𒄷;𒄿𒁺𒉌𒄷  ir-ni mušen ;  i-ra2-ni mušen  "a bird" #? 
  irara  [OIL-PRESSER]  𒉌𒁺𒁺  i3-ra2-ra2  "oil-presser" 
- irdam  [PIG-STY]  𒅕𒁮 tám / dam  ir-dam  "pig-sty" #irritu 
+ irdam  [PIG-STY]  𒅕𒁮  ir-dam  "pig-sty" #irritu 
  irgi  [FEET]  𒄊𒍞  irgi  "lamed feet" #šēpā kubbulātu 
  irgilum  [LOCUST]  𒅕𒄀𒈝  ir-gi-lum  "locust" 
  irhandi  [SORCERER]  ¿  irhandi  "sorcerer" #āšipu 
@@ -2598,7 +2596,7 @@ Missing require: request
  kagsilim  [GLORIFICATION]  𒅗𒁲  kag2-silim  "glorification" #tašrihtu 
  kagu  [BREAD]  𒅗𒅥  ka-gu7  "a type of bread" #? 
  kaguruk  [SUPERVISOR]  𒅗𒄦  ka-guru7  "granary supervisor" #kagurrû 
- kaĝeškarak  [TABLE]  𒅗𒄑kara·(𒄑𒅗𒆒);𒅗𒄑kara·(𒄑𒅗𒆓)  kaĝeškara x (|GIŠ.KA.KAD4 |) ;  kaĝeškara x (|GIŠ.KA.KAD5 |)  "a table" #kannaškarakku 
+ kaĝeškarak  [TABLE]  𒅗𒄑𒃸·(𒄑𒅗𒆒);𒅗𒄑𒃸·(𒄑𒅗𒆓)  kaĝeškara x (|GIŠ.KA.KAD4 |) ;  kaĝeškara x (|GIŠ.KA.KAD5 |)  "a table" #kannaškarakku 
  ka'inima  [FORMULA]  𒅗𒅗𒈠  ka-inim-ma  "incantation formula" #? 
  KA'izi  [BURNING]  𒅗𒉈  KA-izi  "burning; roasted meat" #hamāţu ;  šumû 
  kak  [WEAPON]  𒅗𒀝𒆕;𒆕  ka-ak kak ;  kak  "weapon" 
@@ -3171,7 +3169,7 @@ Missing require: request
  ludima  [FOOL]  𒇽𒈚𒈠  lu2-dim3-ma  "fool" 
  ludubĝara  [HUNTER]  𒇽𒄭𒃻𒊏  lu2-dub3-ĝar-ra  "hunter" 
  ludubšenak  [OFFICIAL]  𒇽𒁾𒊿𒍏  lu2-dub-šen urudu  "an official" 
- ludumdamza  [PROFESSION]  𒇽𒌈𒁮 tám / dam𒍝;𒇽𒁮 tám / dam𒁮 tám / dam𒁲  lu2-dum-dam-za ;  lu2-dam-dam-sa2  "a profession" 
+ ludumdamza  [PROFESSION]  𒇽𒌈𒁮𒍝;𒇽𒁮𒁮𒁲  lu2-dum-dam-za ;  lu2-dam-dam-sa2  "a profession" 
  luduna  [WARD]  𒇽𒂄𒀀  lu2-dun-a  "ward, dependent" #amēl qatāti 
  lu'ede  [ECSTATIC]  𒇽𒇯𒁺𒉈;𒇽𒀠𒌓𒁺𒉈  lu2-ed3-de3 ;  lu2-al-ed2-de3  "ecstatic" #mahhû 
  lu'eniĝakak  [PROFESSION]  𒇽𒂍𒃻𒅗  lu2-e2-niĝ2-ka  "a profession" 
@@ -3335,7 +3333,7 @@ Missing require: request
  madal  [POLE]  𒄑𒄑𒁍;𒄑𒈠𒄑𒁍;𒈠𒀜𒇷𒌝  ĝeš madal ;  ĝeš ma madal ;  ma-ad-li-um  "a pole" #mašaddu ;  makkû ;  mudulu ;  muttû 
  madala  [BUNDLE]  𒈣𒁕𒇲;𒄑𒈣𒁕𒇲;𒄀𒈣𒁕𒇲  ma2-da-la2 ;  ĝeš ma2-da-la2 ;  gi ma2-da-la2  "bundle of reeds; raft" #tillatu 
  madalum  [VASE]  𒈣𒁕𒈝  ma2-da-lum  "vase" #qantillatu 
- madam  [BOUNTEOUS]  𒈠𒁮 tám / dam  ma-dam  "very plentiful" #ţuhhudu 
+ madam  [BOUNTEOUS]  𒈠𒁮  ma-dam  "very plentiful" #ţuhhudu 
  madanum  [STONE]  𒎎𒈠𒁕𒉡𒌝  na4 ma-da-nu-um  "type of stone" 
  madĝa  [~FLOUR]  𒈠𒀜𒂷  ma-ad-ĝa2  "a designation of flours" #maşhatu 
  madu  [BOAT]  𒄑𒈣𒆕  ĝeš ma2-du3  "a part of a boat" 
@@ -3548,7 +3546,7 @@ Missing require: request
  mudim  [BIRD]  𒈬𒁴𒄷  mu-dim mušen  "a bird" 
  mudla  [BASKET]  𒁍  mudla  "basket" #maššû 
  mudmeĝar  [JOY]  𒋆𒈨𒃻  mud5-me-ĝar  "joy" 
- mudna  [SPOUSE]  mudna·(𒊩𒍑𒁮 tám / dam);𒈬𒌓𒁕𒈾;𒈬𒌓𒈾  mudna x (|SAL.UŠ.DAM|) ;  mu-ud-da-na ;  mu-ud-na  "spouse" 
+ mudna  [SPOUSE]  mudna·(𒊩𒍑𒁮);𒈬𒌓𒁕𒈾;𒈬𒌓𒈾  mudna x (|SAL.UŠ.DAM|) ;  mu-ud-da-na ;  mu-ud-na  "spouse" 
  mudru  [FULLER]  𒂗𒆪𒀀  mudru2  "fuller" #ašlakku 
  muDU  [DELIVERY]  𒈬𒁺  mu-DU  "delivery" #šūrubtu 
  mudulum  [MEAT]  𒈬𒁺𒈝;𒈬𒁺𒇷𒀀  mu-du-lum ;  mu-du-li-a  "preserved meat" #muddulu 
@@ -3719,8 +3717,8 @@ Missing require: request
  nambuluĝ  [UPBRINGING]  𒉆𒉽𒉽  nam-buluĝ3  "upbringing of an adopted child" #tarbītu 
  nambura  [PAYMENT]  𒉆𒁔𒀀  nam-bur2-a  "payment" #nipiltu 
  namburšuma  [~OFFICIAL]  𒉆𒁓𒋗𒈠  nam-bur-šu-ma  "position as buršuma-official" 
- namdam  [MARRIAGE]  𒉆𒁮 tám / dam  nam-dam  "marriage" 
- namdamgar  [COMMERCE]  𒉆𒁮 tám / dam𒃼  nam-dam-gar3  "commerce" 
+ namdam  [MARRIAGE]  𒉆𒁮  nam-dam  "marriage" 
+ namdamgar  [COMMERCE]  𒉆𒁮𒃼  nam-dam-gar3  "commerce" 
  NAMdar  [BIRD]  𒉆𒁯𒄷  NAM-dar mušen  "a bird?" 
  namdi  [OFFICIAL]  𒉇𒁲  nam2-di  "an official" 
  namdidila  [SMALLNESS]  𒉆𒌉𒌉𒇲  nam-di4-di4-la2  "smallness" 
@@ -3773,7 +3771,7 @@ Missing require: request
  namĝanun  [STORAGE]  𒉆𒂷𒉣  nam-ĝa2-nun  "storage" 
  namĝarza  [OFFICE]  𒉆𒉺𒈗  nam-ĝarza2  "office" 
  namĝeš  [GROUP OF60]  𒉆𒄑𒈫  nam-ĝeš2  "group of60" 
- namĝitlam  [MARRIAGE]  𒉆ĝitlam·(𒊩𒍑𒁮 tám / dam)  nam-ĝitlam x (|SAL.UŠ.DAM|)  "marriage status, status as husband" 
+ namĝitlam  [MARRIAGE]  𒉆ĝitlam·(𒊩𒍑𒁮)  nam-ĝitlam x (|SAL.UŠ.DAM|)  "marriage status, status as husband" 
  namĝuruš  [MANLINESS]  𒉆𒆗  nam-ĝuruš  "manliness" 
  namhe  [ABUNDANCE]  𒉆𒃶;𒉆𒄭  nam-he2 ;  nam-he  "abundance" 
  namheĝal  [ABUNDANCE]  𒉆𒃶𒅅  nam-he2-ĝal2  "abundance" 
@@ -3862,7 +3860,7 @@ Missing require: request
  namšul  [MANHOOD]  𒉆𒂄  nam-šul  "manhood" 
  namtab  [PARTNERSHIP]  𒉆𒋰  nam-tab  "partnership" 
  namtaba  [COMPANIONSHIP]  𒉆𒇽𒋰𒁀  nam- lu2 tab-ba  "companionship" 
- namtaga  [SIN]  𒉆𒋳;𒉆𒋳𒂵;𒉆?;𒉆?𒂵  nam-tag ;  nam-tag-ga ;  nam-tag2 ;  nam-tag2-ga  "sin" 
+ namtaga  [SIN]  𒉆𒋳;𒉆𒋳𒂵;𒉆𒁖;𒉆𒁖𒂵  nam-tag ;  nam-tag-ga ;  nam-tag2 ;  nam-tag2-ga  "sin" 
  namtagtag  [DAMNATION]  𒉆𒋳𒋳  nam-tag-tag  "damnation" 
  namtar  [FATE]  𒉆𒋻  nam-tar  "sickness; fate, destiny; a  demon" #murşu ;  namtaru ;  šīmtu 
  namte  [FEAR]  𒉆𒋼  nam-te  "fear" 
@@ -3878,7 +3876,7 @@ Missing require: request
  namumuš  [OFFICIAL]  𒉇𒌆  nam2-umuš  "an official" 
  namursaĝ  [HEROISM]  𒉆𒌨𒊕  nam-ur-saĝ  "heroism" 
  namurun  [EXALTEDNESS]  𒉆𒍇𒊒  nam-uru17 ru  "exaltedness" 
- namuruna  [~HERD]  𒉆?(𒂗)𒈾  nam-urunx(EN)-na  "a designation of a herd" 
+ namuruna  [~HERD]  𒉆𒂗(𒂗)𒈾  nam-urunx(EN)-na  "a designation of a herd" 
  namusar  [NEIGHBORLINESS]  𒉆𒇳𒊬  nam-usar  "neighborliness" 
  namuš  [DEATH]  𒉆𒍗  nam-uš2  "death; epidemic" #mūtānu ;  mūtu 
  namušbar  [IN-LAW STATUS]  𒉆𒍬  nam-ušbar  "status of father-in-law" 
@@ -3889,11 +3887,11 @@ Missing require: request
  namzu  [WISDOM]  𒉆𒍪  nam-zu  "wisdom" 
  namzukešed  [RENTAL]  𒉆𒅗𒆟  nam-zu2-keš2  "rental" 
  nanam  [CONSENT]  𒈾𒉆  na-nam  "consent, assent; to consent" #annu 
- naptanum  [MEAL]  𒈾𒀊?𒈝;𒈾𒀊?𒉡𒌝;𒈾𒀊𒋫𒉏;𒈾𒀊𒋫𒉡𒌝;𒈾𒀊𒋫𒈝;𒈾𒀊?𒉏  na-ap-ta2-num2 ;  na-ap-ta2-nu-um ;  na-ap-ta-num ;  na-ap-ta-nu-um ;  na-ap-ta-num2 ;  na-ap-ta2-num  "meal, banquet" 
+ naptanum  [MEAL]  𒈾𒀊𒁕𒈝;𒈾𒀊𒁕𒉡𒌝;𒈾𒀊𒋫𒉏;𒈾𒀊𒋫𒉡𒌝;𒈾𒀊𒋫𒈝;𒈾𒀊𒁕𒉏  na-ap-ta2-num2 ;  na-ap-ta2-nu-um ;  na-ap-ta-num ;  na-ap-ta-nu-um ;  na-ap-ta-num2 ;  na-ap-ta2-num  "meal, banquet" 
  nar  [MUSICIAN]  𒈜  nar  "musician; singer" #nāru 
  nargal  [MUSICIAN]  𒈜𒃲  nar-gal  "musician" 
  nari  [CANAL?]  𒈾𒊑  na-ri  "canal?" 
- narua  [STELE]  𒈾?𒀀;𒈾𒊒  na-ru2-a ;  na-ru  "stele" #narû 
+ narua  [STELE]  𒈾𒆕𒀀;𒈾𒊒  na-ru2-a ;  na-ru  "stele" #narû 
  našparum  [GARMENT]  𒈾𒀾𒁀𒊒𒌝;𒈾𒀾𒁀𒀸;𒌆𒈾𒀾𒁀𒊒𒌝  na-aš2-ba-ru-um ;  na-aš2-ba-rum ;  tug2 na-aš2-pa2-ru-um  "a garment" #našparu 
  našugulgul  [MILLSTONE]  𒎎𒋗𒄢𒄢  na4-šu-gul-gul  "lower millstone" 
  ne  [BRAZIER]  𒉈  ne  "brazier" #kinūnu 
@@ -3965,10 +3963,10 @@ Missing require: request
  niĝbarsur  [TOOL]  𒄑𒃻𒁇𒋩  ĝeš niĝ2-bar-sur  "a fuller's tool" #mazūru 
  niĝbilal  [SCABIES]  𒃻𒁉𒋭  niĝ2-bi-lal3  "scabies" 
  niĝbuna  [TURTLE]  𒃻𒅮𒈾;𒊺𒂗𒅮𒈾  niĝ2-bun2-na ;  še-en-bun2-na  "turtle" #šeleppû 
- niĝburuburude  [PLANT]  𒌑𒃻??𒉈  u2 niĝ2-buru3-buru3-de3  "type of plant" 
+ niĝburuburude  [PLANT]  𒌑𒃻𒌋𒌋𒉈  u2 niĝ2-buru3-buru3-de3  "type of plant" 
  niĝdab  [REQUISITIONS]  𒃻𒆪  niĝ2-dab5  "requisitioned items" 
  niĝdaĝal  [POT]  𒂁𒃻GA2×AN  dug niĝ2-daĝal  "a pot" #rību 
- niĝdaĝala  [VASTNESS]  𒃻GA2×AN𒆷;𒃻GA2×AN;𒃻𒁮 tám / dam𒃲  niĝ2-daĝal-la ;  niĝ2-daĝal ;  niĝ2-dam-gal  "vastness" 
+ niĝdaĝala  [VASTNESS]  𒃻GA2×AN𒆷;𒃻GA2×AN;𒃻𒁮𒃲  niĝ2-daĝal-la ;  niĝ2-daĝal ;  niĝ2-dam-gal  "vastness" 
  niĝdara  [RAG]  𒌆𒃻𒅁  tug2 nig2-dara2  "rag, sanitary towel" #ulāpu 
  niĝdea  [GIFT]  𒃻𒌤𒀀  niĝ2-de2-a  "marriage gift" #biblu 
  niĝdea  [MOULD]  𒍏𒃻𒌤𒀀  urud niĝ2-de2-a  "mould" #pitqu 
@@ -3987,7 +3985,7 @@ Missing require: request
  niĝduga  [SPEECH]  𒃻𒅗𒂵  niĝ2-dug4-ga  "speech" 
  niĝdugdug  [SPEECH]  𒃻𒅗𒅗  niĝ2-dug4-dug4  "speech" 
  niĝdun  [PROSTRATION]  𒃻𒂄  niĝ2-dun  "prostration" 
- niĝdurburu  [VAT]  𒃻𒂉  niĝ2-dur2-buru3  "fermenting vat" 
+ niĝdurburu  [VAT]  𒃻𒂉𒌋  niĝ2-dur2-buru3  "fermenting vat" 
  niĝena  [PROPERTY]  𒃻𒂗𒈾  niĝ2-en-na  "a type of (landed) property" #? 
  niĝesir  [SANDAL]  𒃻𒂊¿  niĝ2- e LAK173  "sandal" 
  niĝ'esir  [WASH-BASIN]  𒄀𒃻𒇒 ≈𒊏  gi niĝ2-esir2-ra  "wash-basin" #namsû 
@@ -4359,7 +4357,7 @@ Missing require: request
  ĝešla  [KEY]  𒄑𒇲𒀀  ĝeš-la2-a  "key" 
  ĝešlabi  [SILENCE]  𒄑𒇲𒁉;𒈬𒍑𒇲𒁉  ĝeš-la2-bi ;  mu-uš-la2-bi  "silence" 
  ĝešMUNUSBUR  [DRESS]  𒄑𒊩𒁔  ĝeš-MUNUS.BUR2  "dress ornament" 
- ĝešnaruak  [~STELE]  𒄑𒈾?𒀀  ĝeš na-ru2-a  "a wooden stele?; a wooden part of a stele?" #işşi narê 
+ ĝešnaruak  [~STELE]  𒄑𒈾𒆕𒀀  ĝeš na-ru2-a  "a wooden stele?; a wooden part of a stele?" #işşi narê 
  ĝešnimbar  [PALM]  𒄑𒄑𒁇;𒄑𒁇;𒈬𒉏𒈥  ĝeš ĝešnimbar ;  ĝešnimbar ;  mu-nim-mar  "date palm" #gišimmaru 
  ĝešnu  [ALABASTER]  𒎎𒄑𒉡;𒎎𒄑𒉢;𒎎𒄑𒉡·(𒉢𒄑)  na4 ĝešnu ;  na4 ĝeš-nu11 ;  na4 ĝešnu x (|NU11 .GIŠ|)  "alabaster" 
  ĝešnu  [LIGHT]  𒄑𒉢;𒄑𒉡;𒉢𒅕  ĝeš-nu11 ;  ĝešnu ;  gešnu2  "light" #nūru 
@@ -4373,7 +4371,7 @@ Missing require: request
  ĝešpar  [TRAP]  𒄑𒁔;𒄑𒁖;𒄑  ĝeš-bur2 ;  ĝeš-par3 ;  ĝeš-bur?  "trap, snare" #gišparru 
  ĝešpara  [VEILED]  𒄑𒉌 𒄑𒊏  giš-par4-ra  "veiled" 
  ĝešpu  [RIM]  𒄑𒁍;𒄑𒄑𒇥;𒄑𒉽𒉽;𒄑𒄑𒁍  ĝeš-bu ;  ĝeš ĝešpu2 ;  ĝeš-bu10 ;  ĝeš ĝešpu  "circle, ring; (circular) rim" #kippatu 
- ĝešrin  [SCALES]  𒄑  ĝeš-rin2  "scales" #gišrinnu 
+ ĝešrin  [SCALES]  𒄑𒂟  ĝeš-rin2  "scales" #gišrinnu 
  ĝeššaganak  [DOORFRAME]  𒄑𒊮𒃶;𒄑𒊮𒃶𒈾  ĝeš-ša3-gan ;  ĝeš-ša3-gan-na  "a part of a doorframe" #giššakanakku 
  ĝeššeš  [LICORICE]  𒄑𒋀  ĝeš-šeš  "licorice tree" #šūšu 
  ĝeššu  [MANACLES]  𒄑𒋗  ĝeš-šu  "manacles" #? 
@@ -4490,8 +4488,8 @@ Missing require: request
  PA.LU  [BIRD]  𒉺𒇻𒄷  SIPAD mušen  "a bird" 
  PA.LU.TA  [PREFERENTIAL SHARE]  𒉺𒇻𒋫  |PA.LU.TA|  "preferential share" 
  PAA  [WEAPON]  𒉺𒀀  PA.A  "type of weapon" 
- pa'agar  [CHANNEL]  𒅊;𒉽𒂊𒋻  pa4-agar4 ;  pa5-kur5  "meadow channel" 
- pabilga  [RELATION]  𒉺𒉋𒂵;𒉺𒄑𒉋𒂵;?𒉋𒂵;𒉺𒉈𒂵;?𒉈𒂵;?𒁉𒂵  pa-bil2-ga ;  pa-bil3-ga ;  pa4-bil2-ga ;  pa-bil-ga ;  pa4-bil-ga ;  pa4-bi-ga  "a kinship term" #abu 
+ pa'agar  [CHANNEL]  𒉽𒅊;𒉽𒂊𒋻  pa4-agar4 ;  pa5-kur5  "meadow channel" 
+ pabilga  [RELATION]  𒉺𒉋𒂵;𒉺𒄑𒉋𒂵;𒉽𒉋𒂵;𒉺𒉈𒂵;𒉽𒉈𒂵;𒉽𒁉𒂵  pa-bil2-ga ;  pa-bil3-ga ;  pa4-bil2-ga ;  pa-bil-ga ;  pa4-bil-ga ;  pa4-bi-ga  "a kinship term" #abu 
  pad  [BREAK]  𒉻  pad  "to break (into bits)" #kasāpu 
  pad  [FIND]  𒅆𒊒  pad3  "to find, discover; to name, nominate" #atû ;  nabû 
  pag  [ENCLOSE]  𒄷  pag  "to enclose, confine, cage (a bird)" #esēru ;  šutanuhu 
@@ -4502,7 +4500,7 @@ Missing require: request
  paĝ  [BREATHE]  𒉺𒉘;𒉺𒀭  pa-aĝ2 ;  pa-an  "breathing, breath; to breathe" #napīšu 
  paĝta  [BREATH]  𒉺𒉘𒋫  pa-aĝ2-ta  "breath" #napīšu 
  pah  [LEG]  𒈜  pah  "leg of an animal, haunch, lap" #purīdu 
- pahal  [LEG]  𒄬  pa4-hal  "leg" 
+ pahal  [LEG]  𒉽𒄬  pa4-hal  "leg" 
  pahar  [GATHERING]  𒉺𒄯  pa-har  "gathering" 
  PAHAR  [WEAPON]  𒉺𒄯  PA.HAR  "type of weapon" 
  PAKAK  [ARROWHEAD]  𒉺𒆕  PA.KAK  "arrowhead" 
@@ -4522,8 +4520,8 @@ Missing require: request
  paphal  [SECRET]  𒉽𒄬  pap-hal  "secret; treasure; narrow place; dire straits" #nişirtu ;  pušqu 
  par  [CANAL]  𒉽𒂊;𒉽𒅖  pa5 ;  pa6  "(small) canal, irrigation ditch" #atappu ;  palgu ;  pattu 
  paršita  [CHANNEL]  𒉽𒂊𒋥  pa5-šita3  "water channel" #rāţu 
- pašeš  [FOREMOST]  𒋀;𒉽𒂊𒋀  pa4-šeš ;  pa5-šeš  "foremost" #ašarēdu 
- pašeš  [PRIEST]  𒋀  pa4-šeš  "a priest" #pašīšu 
+ pašeš  [FOREMOST]  𒉽𒋀;𒉽𒂊𒋀  pa4-šeš ;  pa5-šeš  "foremost" #ašarēdu 
+ pašeš  [PRIEST]  𒉽𒋀  pa4-šeš  "a priest" #pašīšu 
  pašu  [AX]  𒉺𒀀𒋗  pa-a-šu  "type of axe" 
  pec  [BIRD]  𒉾𒄷  peš2 mušen  "a bird" 
  pel  [DEFILE]  𒄫𒂖𒇲;𒄫𒂖  pe-el-la2 ;  pe-el  "to defile; to be thin, light" #lu''û ;  qalālu 
@@ -4609,7 +4607,7 @@ Missing require: request
  rig  [DONATE]  𒉺𒄸𒁺;𒄸𒁺;𒍮·(𒉺𒌇𒁺)  rig7 ;  rig9 ;  rig x (|PA.TUK.DU|)  "to donate" 
  rig  [EAT]  𒉺𒄸𒁺  rig7  "to eat; to do something to barley; to pasture, tend; to drink; to sup" #akālu ;  haţāpu ;  re'û ;  šatû; sarāpu 
  rig  [SHEEPFOLD]  𒉺𒁣  rig10  "sheepfold, animal stall" #isru ;  tarbaşu 
- rig  [STICK]    rig3  "stick; weapon" #kakku 
+ rig  [STICK]  |ŠITA₂|  rig3  "stick; weapon" #kakku 
  rig  [UNMNG]  𒉺𒄸𒁺  rig7  "?" #gepû 
  rigi  [BIRD]  𒊑𒄀𒄷  ri-gi mušen  "a bird" 
  riĝeš  [BIRD]  𒊑𒄑𒄷  ri-ĝiš mušen  "a bird" 
@@ -4639,7 +4637,7 @@ Missing require: request
  sa la  [STRETCH A NET]  𒊓𒇲  sa la2  "to stretch a net out" #? 
  sa la  [SWEEP]  𒊓𒇲  sa la2  "to sweep" #? 
  sa sig  [PLOT]  𒁲𒋧  sa2  sig10  "to plot" #? 
- sa'a  [PROFESSION]  𒀀  sa7-a  "a profession" 
+ sa'a  [PROFESSION]  𒅊𒀀  sa7-a  "a profession" 
  saAB  [NET]  𒋢𒊓𒀊  kuš sa-AB  "a net" 
  sa'ad  [TRAP?]  𒄑𒊓𒀜  ĝeš sa-ad  "a trap?" #nassapu 
  sa'adgal  [DISEASE]  𒊓𒀜𒃲  sa-ad-gal  "a disease" 
@@ -4772,7 +4770,7 @@ Missing require: request
  saĝtab  [PROTECTION]  𒊕𒋰;𒊕𒋰𒁀  saĝ-tab ;  sag-tab-ba  "helper, ally; protection" #rēşu ;  şulūlu 
  saĝtab  [UNMNG]  𒊕𒋳  sag-tag  "?" #? 
  saĝtak  [TRIANGLE]  𒊕𒆕;𒀸;𒀹;𒁹;𒍻  saĝ-KAK ;  saĝtak ;  santak3 ;  saĝtak4 ;  santak2  "triangle (math.); wedge" #santakku 
- saĝtirin  [FUNCTIONARY]  𒊕𒋾  saĝ-ti-rin2  "functionary" #assinnum 
+ saĝtirin  [FUNCTIONARY]  𒊕𒋾𒂟  saĝ-ti-rin2  "functionary" #assinnum 
  saĝtuku  [SPLENDID]  𒊕𒌇  saĝ-tuku  "proud; splendid; foremost" #ašarēdu ;  šarhu 
  saĝursaĝ  [PERFORMER]  𒊕𒌨𒊕  saĝ-ur-saĝ  "a cultic performer" 
  saĝus  [CONSTANT]  𒅗  saguš  "(to be) constant, regular; an attendant" #kayyānu ;  mukīl rēši 
@@ -4847,8 +4845,8 @@ Missing require: request
  se  [LIVE]  𒅊;𒍢;𒊺  se12 ;  ze2 ;  še  "plural stem of til[to live]" 
  se  [UNMNG]  𒋟;𒅆  se11 ;  se28  "" 
  sed  [COLD]  𒁇;𒈻;𒈹;𒀀𒈹;𒀀𒈹𒁲;𒈜;𒊺𒉣𒉣;𒍝𒈹𒁲;𒆒  sed4 ;  sed ;  sed6 ;  še12 ;  še18 ;  še11 ;  še15 ;  še5 ;  šed5  "(to be) cold; to cool; winter" #kāşû ;  kuşu ;  kuşşu 
- sedsedam  [MORNING]  𒈻𒈻𒁮 tám / dam  sed-sed-dam  "early morning" #kaşâtam 
- sekrum  [WOMAN]  𒍣?𒀸  se2-ek-rum  "a class of women" #sekretu 
+ sedsedam  [MORNING]  𒈻𒈻𒁮  sed-sed-dam  "early morning" #kaşâtam 
+ sekrum  [WOMAN]  𒍣𒅅𒀸  se2-ek-rum  "a class of women" #sekretu 
  ses  [BIRD]  𒋀𒄷  ses mušen  "a bird" #marratu 
  ses  [BITTER]  𒋀  ses  "(to be) bitter, brackish" #marru 
  si  [CVNE]  𒋛  si  "(compound verb nominal element)" 
@@ -5046,7 +5044,7 @@ Missing require: request
  suhuš  [OFFSHOOT]  𒁼·(𒌉);𒉟  suhuš x (TUR) ;  suhuš2  "date palm offshoot" 
  sukkal  [SECRETARY]  𒈛  sukkal  "secretary, civil servant" #sukkallu 
  sukkalgal  [OFFICIAL]  sukkalgal·(𒃲𒈛)  sukkalgal x (|GAL.LUH|)  "an official" 
- sukkalmah  [OFFICIAL]  𒈤  sukal-mah  "an official" #sukkalmahu 
+ sukkalmah  [OFFICIAL]  𒈛𒈤  sukal-mah  "an official" #sukkalmahu 
  suku  [POLE]  𒅆  suku5  "pole" #šukû 
  sukud  [HEADDRESS]  𒃴  sukud  "a crown or headdress" 
  sukud  [HEIGHT]  𒃴  sukud  "height, altitude" #mēlû 
@@ -5152,7 +5150,7 @@ Missing require: request
  šagburšuna'a  [DISEASE]  𒊮𒁓𒋗𒈿𒀀  šag4-bur-šu-na2-a  "a disease" 
  šagdubdidli  [WORKER]  𒊮𒁾𒐀  šag4-dub-didli  "a worker" 
  šagdubul  [PART OF AN INSTRUMENT]  𒊮𒁺𒁍𒌌  šag4-du-bu-ul  "part of an instrument, soundbox?" 
- šageguru  [OFFERING]  𒊮𒍻𒄦;𒊮?𒃸  šag4-ge-guru7 ;  šag4-ge8-guru6  "a type of offering" #šagigurrû 
+ šageguru  [OFFERING]  𒊮𒍻𒄦;𒊮𒅆𒃸  šag4-ge-guru7 ;  šag4-ge8-guru6  "a type of offering" #šagigurrû 
  šaggadala  [PRIEST]  𒊮𒃰𒇲  šag4-gada-la2  "a priest" #labiš kitê 
  šaggal  [FOOD]  𒊮𒃲  šag4-gal  "food, fodder" #ukullû 
  šaggan  [PERFECT]  𒊮𒃶  šag4-gan  "perfect" #gitmalu 
@@ -5166,7 +5164,7 @@ Missing require: request
  šagia  [CUP-BEARER]  𒄀𒄀𒀀·(𒋡𒋗𒃮);𒋡𒋗𒃮𒀀;𒋡𒃮;𒋡𒃮𒀀  šagia x (|SILA3 .ŠU.GABA|) ;  SILA3 .ŠU.GABA.A ;  SILA3 .GABA ;  SILA3 .GABA.A  "cup-bearer" #šāqû 
  šagiagal  [CUP-BEARER]  𒋡𒋗𒃮𒃲;𒋡𒋗𒃮  sagi-gal ;  sagi  "head cup-bearer" 
  šagiamah  [CUP-BEARER]  𒄀𒄀𒀀·(𒋡𒋗𒃮)𒈤  šagia x (|SILA3 .ŠU.GABA|)-mah  "chief cup-bearer" 
- šagida  [GARMENT]  𒊮𒄀  ša3-gi-da5  "a garment" 
+ šagida  [GARMENT]  𒊮𒄀𒍏  ša3-gi-da5  "a garment" 
  šagkal  [TREE]  𒄑𒊮𒆗  ĝeš šag4-kal  "a tree, a type of willow" #šakkullu 
  šagkalsag  [TREE]  𒊮𒆗𒅊  šag4-kal-sag12  "a tree" #taradû 
  šaglatum  [GARMENT]  𒌆𒊮𒇲𒌈  tug2 šag4-la2-tum  "a garment or part of a shoe" #šallatu 
@@ -5214,7 +5212,7 @@ Missing require: request
  šaman  [VESSEL]  𒂁𒌋𒃶  dug šaman2  "a vessel" #šappatu 
  šamanur  [VERDIGRIS]  𒍏𒅖𒍏  šamanur  "verdigris, patina" #šuhtu 
  šamuša  [INSTRUMENT?]  𒊭𒈬𒁺  ša-mu-ša4  "type of instrument?" 
- šanabi  [TWO-THIRDS]    šanabi  "two-thirds" #šinipu 
+ šanabi  [TWO-THIRDS]  ¿  šanabi  "two-thirds" #šinipu 
  šaneša  [SUPPLICATION]  𒊮𒉈𒁺;𒊭𒉈𒁺;𒊮𒉈𒍝  ša3-ne-ša4 ;  ša-ne-ša4 ;  šag4-ne-za  "supplication, compassion" #unnīnu 
  šanna  [UNMNG]  𒃷𒁍  šanna  "" 
  šanšaša  [CVVE]  𒊭𒀭𒊭𒊭  ša-an-ša-ša  "(compound verb verbal element)" 
@@ -5293,7 +5291,7 @@ Missing require: request
  šeĝ  [COOK]  𒉈  šeĝ6  "to cook; to dry a field; to fire (pottery)" #bašālu 
  šeĝ  [RAIN]  𒀀𒀭;𒀀𒀭·(𒅎𒀀𒀀);𒀀𒀭·(𒅎𒀀𒀭)  šeĝ3 ;  šeĝ x (|IM.A.A|) ;  šeĝ x (|IM.A.AN|)  "to (fall as) dew; to rain; rain" #nalāšu ;  zanānu 
  šeĝešrah  [THRESHING]  𒄑𒊺𒄑𒊏𒄴  ĝeš še-ĝeš-ra-ah  "threshing tool" 
- šeĝuš  [BARLEY]  𒊺𒈲;𒊺  še-muš ;  še-muš5  "a barley" #šigūšu 
+ šeĝuš  [BARLEY]  𒊺𒈲;𒊺𒋀  še-muš ;  še-muš5  "a barley" #šigūšu 
  ŠEHI  [TREE]  𒄑𒊺𒄭  ĝeš ŠE.HI  "a tree" 
  še'ila  [FESTIVAL]  𒊺𒅍𒆷  še-il2-la  "a festival" 
  ŠEKIN  [CVNE]  𒊺𒆥  ŠE.KIN  "(compound verb nominal element)" 
@@ -5315,7 +5313,7 @@ Missing require: request
  šen  [UNMNG]  𒍏  šen2  "" 
  šena  [BIRD]  𒊺𒈾𒄷  še-na mušen  "a bird" 
  šena  [PLANT]  𒌑𒊺𒈿  u2 še-na2  "a plant" 
- šenaga  [UNMNG]  𒊺  še-naga3  "?" 
+ šenaga  [UNMNG]  𒊺𒄤  še-naga3  "?" 
  ŠENdala  [OBJECT]  𒊿𒁕𒇲  ŠEN.da-la2  "an object" 
  šendani  [OBJECT]  𒊿𒁕𒉌  šen-da-ni   "a bronze object" 
  šendili  [EWER]  𒍏𒊿𒇺  urud šen-dili2  "a ewer" #šennu 
@@ -5330,8 +5328,8 @@ Missing require: request
  šer  [BRIGHT]  𒁍;𒊺𒅕  sir2 ;  še-er  "reddening, sunburn (?); (to be) bright; brilliance, ray" #namāru ;  šarûru ;  şiriptu 
  šer  [OBJECT]  𒂠𒉪;𒄑𒉪  še3 šer7 ;  ĝeš šer7  "a part of a wooden item" 
  šer  [WEAKEN]  𒊺𒅕  še-er  "to weaken" #enēšu 
- šerbil  [TREE]  𒄑?𒉋  ĝeš šer3-bil2  "a tree" #šerbillu 
- šerda  [CRIME]  𒉪𒁕;?𒁕  šer7-da ;  šer3-da  "crime; punishment" #šērtu 
+ šerbil  [TREE]  𒄑𒂡𒉋  ĝeš šer3-bil2  "a tree" #šerbillu 
+ šerda  [CRIME]  𒉪𒁕;𒂡𒁕  šer7-da ;  šer3-da  "crime; punishment" #šērtu 
  šerdu  [UNMNG]  𒊺𒅕𒂃  še-er-du8  "?" 
  šerduna  [FRAME]  𒉪𒂃𒈾  šer7-du8-na  "frame" 
  šergu  [STRING]  𒊺𒅕𒄖;𒉪𒄖;𒂠𒉪𒄖;𒂠𒅕𒄖  še-er-gu ;  šer7-gu ;  še3 šer7-gu ;  še3-er-gu  "a string of fruit" #šerku 
@@ -5340,7 +5338,7 @@ Missing require: request
  šeria  [DISH]  𒊺𒊑𒀀  še-ri-a  "dish" #şirpētu 
  šerim  [~LOOM]  𒋳;𒇡;𒋳·(𒋳𒌆)  šerim ;  šerim2 ;  šerim x (|TAG.TUG2 |)  "a part of the loom" #şīşītu 
  šerimsur  [COCOON]  𒆸·𒊺𒋧  šerimsur  "a cocoon of a caterpillar" #tušaru 
- šerkan  [ORNAMENT]  𒊺𒅕𒄩𒀭;𒊺𒅕𒅗𒀭;𒊺𒅕?;𒊺𒅕𒂵𒀭;𒊺𒅕𒃶  še-er-ha-an ;  še-er-ka-an ;  še-er-kan2 ;  še-er-ga-an ;  še-er-kan  "ornament" 
+ šerkan  [ORNAMENT]  𒊺𒅕𒄩𒀭;𒊺𒅕𒅗𒀭;𒊺𒅕𒃷;𒊺𒅕𒂵𒀭;𒊺𒅕𒃶  še-er-ha-an ;  še-er-ka-an ;  še-er-kan2 ;  še-er-ga-an ;  še-er-kan  "ornament" 
  šerrum  [MAT]  𒄀𒉪𒊒𒌝;𒄀𒉪𒌝;𒄀𒉪𒊒  gi šer7-ru-um ;  gi šer7-um ;  gi šer7-ru  "a reed mat" #šēru 
  šeršer  [CHAIN]  𒋢𒂡𒂡  kuš šir3-šir3  "chain" #šeršerru 
  šertab  [FENCE]  𒊺𒅕𒋰  še-er-tab  "a reed fence" #limītu 
@@ -5432,7 +5430,7 @@ Missing require: request
  šita  [PRIEST]  𒋖  šita  "a priest; ~ figurine" #ellu ;  ikribu ;  ramku 
  šita  [WEAPON]  𒄑?;𒄑𒄑?;𒄑𒌋𒆤;𒄑𒋖·(𒆕𒄑)  šita2 ;  ĝeš šita2 ;  ĝeš šita4 ;  ĝeš šita x (|KAK.GIŠ|)  "a weapon" #kakku 
  šita'aba  [PRIEST]  𒋖𒀊𒁀  šita-ab-ba  "a priest" 
- šitadu  [ACCOUNTANT]  𒆕  šita5-du3  "accountant" #pāqidu 
+ šitadu  [ACCOUNTANT]  ¿𒆕  šita5-du3  "accountant" #pāqidu 
  šita'eša  [PRIEST]  𒋖𒀊𒀀  šita-eš3-a  "a priest" 
  šita'inana  [PRIEST]  𒋖𒀭𒈹  šita- d inana  "a funerary priest" #uruhhu 
  šitan  [WATER-CHANNEL]  𒋥  šita3  "water-channel, pipe" #rāţu 
@@ -5450,7 +5448,7 @@ Missing require: request
  šu dab  [CAPTURE]  𒋗𒆪  šu dab5  "to capture" #kamû 
  šu dag  [ABANDON]  𒋗𒁖  šu dag  "to cut off, abandon" #batāqu 
  šu dag  [ROAM AROUND]  𒋗𒁖  šu dag  "to roam about" #nagāšu ;  rapādu 
- šu daĝal tag  [SPREAD WIDE]  𒋗?𒋳  šu dagal tag  "to spread wide; to give lavishly" #? 
+ šu daĝal tag  [SPREAD WIDE]  𒋗GA2×AN𒋳  šu dagal tag  "to spread wide; to give lavishly" #? 
  šu de  [CARRY]  𒋗𒁺;𒋗𒉐  šu de6 ;  šu tum3  "to carry; to apply oneself to a task; to touch" #? 
  šu dim  [PRUDENT]  𒋗𒉽𒉽  šu dim4  "to be prudent" 
  šu du  [BIND]  𒋗𒆕  šu du3  "'to bind the hands'" #kamû 
@@ -5563,9 +5561,9 @@ Missing require: request
  šu'IB  [EQUIPMENT?]  𒋗𒅁  šu-IB  "an item of agricultural equipment?" 
  šu'ila  [PRAYER]  𒋗𒅍𒇲  šu-il2-la2  "a kind of prayer; a subscript" 
  ŠUKAL  [TREE]  𒄑𒋗𒆗  ĝeš |ŠU.KAL|  "a tree" 
- šukara  [CARPENTER]  𒇽𒄑𒋗?;𒄑𒋗  lu2 ĝeš šu-kara2 ;  ĝeš šu-kara2  "carpenter" #naggāru 
- šukara  [TOOL]  𒄑𒋗  ĝeš šu-kara2  "tool, implement, utensil" #unūtu 
- šukarak  [INSTRUMENT]  𒄑𒋗  ĝeš šu-kara2  "a musical instrument" 
+ šukara  [CARPENTER]  𒇽𒄑𒋗𒃸;𒄑𒋗𒃸  lu2 ĝeš šu-kara2 ;  ĝeš šu-kara2  "carpenter" #naggāru 
+ šukara  [TOOL]  𒄑𒋗𒃸  ĝeš šu-kara2  "tool, implement, utensil" #unūtu 
+ šukarak  [INSTRUMENT]  𒄑𒋗𒃸  ĝeš šu-kara2  "a musical instrument" 
  šukbar  [UNMNG]  𒄑𒋗𒆗  šukbar  "" 
  šukešed  [CLOTHING]  𒋗𒆟  šu-keš2  "clothing" #şimdu 
  šukin  [PROSTRATION]  𒋗𒆥  šu-kin  "prostration" #šukênu 
@@ -5598,7 +5596,7 @@ Missing require: request
  šumin  [STONE]  𒎎𒋗𒌋𒌋  na4 šu-min3  "a stone or mineral used in medicine" #šumēnu 
  šumme  [SAW]  𒍏𒋳;𒋳𒍏;𒍏𒋳𒈨;𒋳𒈨𒌓𒊕𒁇  urud šum ;  šum urudu ;  urud šum-me ;  šum-me zabar  "saw" #šaššāru 
  šumsikil  [VEGETABLE]  𒋧𒂖;𒋧𒂖𒈝  šum2-sikil ;  šum2-sikil-lum  "an alliaceous vegetable" #šamaškilu 
- šumunša  [SONG]  𒁺  šumun-ša4  "a type of song" 
+ šumunša  [SONG]  𒌀𒁺  šumun-ša4  "a type of song" 
  šun  [SHINE]  𒀯  šun2  "to shine" #nabāţu 
  šuniĝin  [TOTAL]  𒋗𒆸;𒋗𒆸;𒋗  šu-niĝin2 ;  šu-niĝin ;  |ŠU  "total, sum" #napharu 
  šunim  [SPRING]  𒋗𒉏  šu-nim  "spring time" 
@@ -5676,7 +5674,7 @@ Missing require: request
  tal  [CLAMOR]  𒀸;𒋾𒀧;𒊑;𒁹;𒆓𒆓;𒋫𒀧;𒌀  tal3 ;  ti-il ;  tal ;  tal4 ;  tal5 ;  ta-il ;  til  "cry, clamour; battle cry" #ikkillu ;  tanūqātu ;  šīsu 
  talium  [VEGETABLE]  𒋫𒉌𒌝  ta-li2-um  "a vegetable" 
  tam  [CLEAN]  𒌓;𒂷·𒈨𒂗  tam ;  tan2  "(to be) bright; (to be) pure; to purify; (to be) clean" #ebbu ;  elēlu ;  zakû 
- tam  [TRUST]  𒁮 tám / dam;𒌓  dam ;  tam  "to trust; to believe" #qīapu 
+ tam  [TRUST]  𒁮;𒌓  dam ;  tam  "to trust; to believe" #qīapu 
  tar  [CUT]  𒋻;𒋻𒅈  tar ;  tar ar  "to cut down; to untie, loosen; to cut; to scatter, disperse; to decide" #harāşu ;  parāsu ;  paţāru ;  sapāhu 
  tar  [FISH]  𒋻𒄩  tar ku6  "a kind of fish" 
  TAR  [BIRD]  𒋻𒄷  TAR mušen  "a bird" #şibāru 
@@ -5697,7 +5695,7 @@ Missing require: request
  teĝ  [APPROACH]  𒋼;𒋾  teĝ3 ;  teĝ4  "(to be) near to; to approach" #ţehû 
  tehi  [APPROACH]  𒌝;𒁾  tehi2 ;  tehi  "to approach" #ţehû 
  tehi  [DISEASE]  𒌝  dih2  "disease" 
- teme  [PLANT]  𒉀;  teme ;  teme2  "a plant" #šāmitu 
+ teme  [PLANT]  𒉀;𒉀  teme ;  teme2  "a plant" #šāmitu 
  temen  [FOUNDATION]  𒋼  temen  "foundation" #temennu 
  ten  [COOL]  𒋼𒈾;𒋼𒂗  te-na ;  te-en  "to be cool, become cool" 
  ten  [EXTINGUISH]  𒋼𒂗;𒋼  te-en ;  ten  "to extinguish" #belû 
@@ -5950,7 +5948,7 @@ Missing require: request
  udar  [BIRD]  𒍖𒁯  uz-dar  "a bird" 
  udbita  [FORMER]  𒌓𒁉𒋫  ud-bi-ta  "former (lit. from those days)" 
  udda  [STAND]  𒌓𒁕  ud-da  "a stand" #manzaltu 
- uddammaria  [YESTERDAY]  𒌓𒁮 tám / dam𒈠𒊑𒀀  ud-dam-ma-ri-a  "yesterday" 
+ uddammaria  [YESTERDAY]  𒌓𒁮𒈠𒊑𒀀  ud-dam-ma-ri-a  "yesterday" 
  uddatuš  [JESTER]  𒌓𒁕𒂉  ud-da-tuš  "jester" 
  UDGIŠGIŠNUN  [PLANT]  𒄑𒈢𒌓𒄒𒉣  ĝeš hašhur UD.GIŠ%GIŠ.NUN  "a plant" #sippirû 
  udĝal  [ILLUMINATING]  𒌓𒅅  ud-ĝal2  "illuminating" 
@@ -5984,7 +5982,7 @@ Missing require: request
  ududu  [REED-BUNDLE]  𒄑𒌑𒆕𒆕  ĝeš u2-du3-du3  "reed bundle" #īlu 
  udu'emeĝir  [SHEEP]  𒇻𒅴𒄀  udu-eme-gi  "a breed of sheep" 
  udug  [DEMON]  𒀭𒌜;𒌑𒅗;𒌜  d udug ;  u2-dug4 ;  udug  "a demon (of desert, mountain, sea, tomb); ~ figurine" #utukku 
- udug  [WEAPON]  ;𒅇𒅗;𒌑𒌅𒊌  udug2 ;  u3-dug4 ;  u2-tu-ug  "stick; a weapon" #kakku 
+ udug  [WEAPON]  |ŠITA₂|;𒅇𒅗;𒌑𒌅𒊌  udug2 ;  u3-dug4 ;  u2-tu-ug  "stick; a weapon" #kakku 
  udugal  [SHEEP]  𒇻𒃲  udu-gal  "adult male sheep capable of reproduction" #immeru rabû 
  udu'i  [SHEEP]  𒇻𒉌  udu-i3  "fat sheep" 
  uduKUr  [PROFESSION]  𒇻𒆪  udu-KU  "a profession" 
@@ -6041,7 +6039,7 @@ Missing require: request
  uĝ  [PEOPLE]  𒌦  uĝ3  "people" #nišu 
  uĝdaga  [NEIGHBOR]  𒌦𒁕𒂵  uĝ3-da-ga  "neighbor" 
  uĝeš  [PLANT]  𒌑𒄑  u2-ĝeš  "type of plant" 
- uĝĝaĝa  [PORTER]  𒌦ĝaĝ·(𒅍);𒌦?  uĝ3-ĝaĝ x (IL2 ) ;  uĝ3-ĝa6-ĝa6  "porter" 
+ uĝĝaĝa  [PORTER]  𒌦ĝaĝ·(𒅍);𒌦𒅍𒅍  uĝ3-ĝaĝ x (IL2 ) ;  uĝ3-ĝa6-ĝa6  "porter" 
  uĝiri  [UNMNG]  𒌑𒄊  u2-ĝiri3  "unmng" 
  uh  [FORGOTTEN]  𒅎𒋙  uh6  "(to be) forgotten" #mašû 
  uh  [TRACHEA]  𒍜𒅜  uzu uh4  "trachea, uvula" #ma'latu 
@@ -6173,7 +6171,7 @@ Missing require: request
  unu  [GIRL]  𒋼𒀕  unu2  "girl, young woman" #ardatu 
  unu  [MEAL]  𒋼𒀕;𒋼𒀊  unu2 ;  unu6  "meal, food; meal(-time); table" #mākālu ;  naptanu ;  paššūru 
  unu  [STICK]  𒄀?;𒍑  unu10 ;  unu8  "(wooden) stick" #udugu 
- unud  [COWHERD]  𒀖𒆪;𒈬?;𒁐;𒆒  unud ;  mu-nu10 ;  unu12 ;  unu9  "cattle herder" 
+ unud  [COWHERD]  𒀖𒆪;𒈬𒆪;𒁐;𒆒  unud ;  mu-nu10 ;  unu12 ;  unu9  "cattle herder" 
  unugal  [TOMB]  𒋼𒀕𒃲  unu-gal  "tomb" 
  unugi  [RITES]  𒀐  unugi  "office; rites, (cultic) ordinance" #parşu 
  unuglu  [BIRD]  𒀕𒇽𒄷  unug-lu2 mušen  "a bird" 
@@ -6184,7 +6182,7 @@ Missing require: request
  unumun  [SAFFRON]  𒌑𒆰𒊬  u2-numun sar  "saffron" #azupīru 
  unuRIbanda  [LOCUS]  𒋼𒀕𒊑𒌉𒁕  unu2-RI-banda3 da  "sacred area" 
  upap  [BIRD]  𒍖𒉽  uz-pap  "a bird" 
- upila  [DEAF]  𒌑?;𒌑?𒇲  u2-pil7 ;  u2-pil2-la2  "deaf" #sukkuku 
+ upila  [DEAF]  𒌑𒄊;𒌑𒉋𒇲  u2-pil7 ;  u2-pil2-la2  "deaf" #sukkuku 
  upu  [UNIT]  upu·(𒀹)  upu x (|AŠ@z|)  "a unit of surface measurement" #ubû 
  ur  [ABUNDANT]  GA2×NUN / NUN  ur3  "(to be) abundant" #kapāšu 
  ur  [ANOINT]  𒄯  ur5  "to rub in, anoint" #kadādu 
@@ -6288,7 +6286,7 @@ Missing require: request
  us  [SHEEP]  𒇆𒄞  us5  "sheep" #lahru 
  us  [SIDE]  𒍑  us2  "side, edge; path" #šiddu 
  usaDU  [BORDER]  𒍑𒀀𒁺;𒍑𒊓𒁺  us2-a-DU ;  us2-sa-DU  "border" 
- usag  [BUNDLE]  𒌑  u2-sag11  "reed bundle for barrages" #šūru 
+ usag  [BUNDLE]  𒌑𒆥  u2-sag11  "reed bundle for barrages" #šūru 
  usag  [SLEEP]  𒅇𒁲;𒅇𒊑;𒅇𒊓𒂵  u3-sa2 ;  u3-di5 ;  u3-sa-ga  "sleep" #šittu 
  usag  [UNMNG]  usag·(𒉭𒀖·𒆷)  usag x (|NUNUZ.AB2 ×LA|)  "?" #? 
  usaga  [PLANT]  𒌑𒆥  u2-saga11  "plant bundle" 
@@ -6363,7 +6361,7 @@ Missing require: request
  utul  [TUREEN]  𒄰;𒌑𒁺;𒌑𒁕;𒂁𒄰;𒄑𒄰  utul2 ;  u2-du ;  u2-da ;  dug utul2 ;  ĝeš utul2  "tureen, large bowl" #diqāru 
  utulla  [STONE]  𒌓𒇥𒇲  u4-tul2-la2  "a precious stone" #illuku 
  utum  [BIRD]  𒍖𒌅  uz-tum12  "a bird" 
- utuplu  [SHAWL]  𒌑?𒇻  u2-tup-lu  "a shawl" #utuplu 
+ utuplu  [SHAWL]  𒌑𒁾𒇻  u2-tup-lu  "a shawl" #utuplu 
  utušuš  [SUNSET]  𒌓𒋙𒍑;𒌓𒋙  utu-šu2-uš ;  utu-šuš2  "sunset; the West" #ereb šamši 
  utuwa  [FISH]  𒁭(¿)𒄩  utuwa(LAK777) ku6  "a fish" 
  utuwa  [STUD]  𒁭;𒁦  utuwa ;  utuwa2  "stud" #puhālu 
@@ -6376,7 +6374,7 @@ Missing require: request
  uz  [DUCK]  𒍖;𒍖𒄷  uz ;  uz mušen  "wild duck" #ūsu 
  uzaglal  [UNIT]  𒀹  uzaglal  "a unit of area" #uzaglalû 
  uzahal  [DISAPPEARANCE]  𒌓𒍝𒄬;𒌓𒍝𒄩𒀠  u4-za-hal ;  u4-za-ha-al  "disappearance" #halāqu 
- uzga  [PRIEST]  𒍖𒂵;𒆈;𒌑?𒄀;𒍚𒂵;𒆈;𒌑𒅗;𒌑𒊕;𒌑𒆳𒉌𒌇𒆠;𒆈·;𒌑𒅲  uz-ga ;  uzug5 ;  u2-si18-gi ;  uz3-ga ;  uzug ;  uzug2 ;  uzug3 ;  uzug4 ;  uzug x ;  u2-zug4  "a type of priest" 
+ uzga  [PRIEST]  𒍖𒂵;𒆈;𒌑𒅝𒄀;𒍚𒂵;𒆈;𒌑𒅗;𒌑𒊕;𒌑𒆳𒉌𒌇𒆠;𒆈·;𒌑𒅲  uz-ga ;  uzug5 ;  u2-si18-gi ;  uz3-ga ;  uzug ;  uzug2 ;  uzug3 ;  uzug4 ;  uzug x ;  u2-zug4  "a type of priest" 
  uzga  [TREASURE]  𒍖𒂵;𒍖𒂵𒂠;𒆈·(𒅗);𒍖𒂵𒋫;𒆈;𒍚𒂵;𒍖𒂵𒉈;𒍖𒂵;𒍖𒂵𒉈;𒆈·(𒀭𒍠);usag·(𒌋𒊭);𒊓usag·(𒌋𒊭);𒊓usag·(𒌋𒊭)𒆠  uz-ga ;  uz-ga-še3 ;  uzug x (KA) ;  uz-ga-ta ;  uzug ;  uz3-ga ;  us-ga-ne ;  us-ga ;  uz-ga-ne ;  uzug x (|AN.ZAG|) ;  usag x (|U.ŠA|) ;  sa usag x (|U.ŠA|) ;  sa usag x (|U.ŠA|) ki  "cella, shrine; goods, treasure; treasury" #sagû ;  sukku 
  uzgi  [BIRD]  𒍖𒄄𒄷  uz-gi4 mušen  "a bird" 
  UZTUR  [DUCK]  𒍖𒌉  UZ.TUR  "type of duck" 
@@ -6539,8 +6537,8 @@ Missing require: request
  zideša  [FLOUR]  𒍥𒀀𒌁  zid2-eša  "a flour" 
  zidgig  [FLOUR]  𒍥𒍼  zid2-gig  "wheat flour" 
  zidgu  [FLOUR]  𒍥𒄖;𒂠𒄣;𒇉;𒋙𒂠  zid2-gu ;  zi3-kum ;  zikum ;  |ŠU2 +ZI3 |  "a type of flour" #isqūqu 
- zidkukkuš  [FLOUR]  𒍥  zid2-kukkuš  "a flour" 
- zidmilla  [FLOUR]  𒍥  zid2-milla  "flour" #kukkušu 
+ zidkukkuš  [FLOUR]  𒍥𒅖  zid2-kukkuš  "a flour" 
+ zidmilla  [FLOUR]  𒍥𒅖  zid2-milla  "flour" #kukkušu 
  zidmunu  [RATION]  𒍥𒉽𒊺𒉽  zid2-munu4  "a type of ration" #isimānnu 
  zidsig  [FLOUR]  𒍥𒆗  zid2-sig15  "a kind of flour" #hišlētu 
  zidše  [PROVISIONS]  𒍥𒊺  zid2-še  "(travel) provisions" 
@@ -6641,4 +6639,4 @@ Missing require: request
  zuses  [BIRD]  𒅗𒋀𒄷  zu2-ses mušen  "a bird" 
  zusiga  [~SHEEP]  𒅗𒋛𒂵  zu2-si-ga  "a designation of sheep" 
  zusik  [PLUCKING]  𒅗𒋛  zu2-si  "plucking; plucking time" 
- zuša  [ROARING]  𒁺  zu4-ša4  "roaring; murmuring" #rimmu 
+ zuša  [ROARING]  𒁁𒁺  zu4-ša4  "roaring; murmuring" #rimmu 
