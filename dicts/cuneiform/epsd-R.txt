@@ -1,0 +1,846 @@
+
+ 
+ R ePSD Browsable HTML R ra  [CVVE] (56 instances) ra  [CVVE]  (56x: ED IIIb, Ur III, Old Babylonian)  wr.  ra2  "(compound verb verbal element)" See  šud ra[bless] . [1] 
+cuneiform DU ra2 +-0 (56x/100% ) .350030002500200015001000 (no date) [1]811829 distinct forms attested; click to view forms table.1.  (compound verb verbal element)  (56x/100%) ~  ELA/ED IIIb/Girsu   i3-ra2-ra2-e   VS14,109 o i3; 
+ 
+ i3-ir-a   ra2-de3   VS14,131 r i3; 
+ i3-ra2-ra2-bi   VS14,138 o i3; 
+ 
+ i3-ir-a   ra2-de3   VS27,087 o ii1; 
+ i3-ra2-ra2-ra   VS27,070 o iii3. 
+ ELA/ED IIIb/unknown   i3-ra2-ra2-ra   Nik1,091 r i3; 
+ 
+ i3-ir-a   ra2-de3   Nik1,301 r iii3. 
+ ELA/Ur III/Girsu   i3-ra2-ra2-me   CT03,48 BM021340 o iv9; 
+ i3-ra2-ra2-a   DAS1666; 
+ i3-ra2-ra2-a 
+ lu2 
+ kas4   DAS1954. 
+ ELA/Ur III/Nippur   i-ra2-[ra2]   TMH NF1-2,1142. 
+ ELA/Ur III/Umma   
+ ur-d suen 
+ dumu 
+ da-a-ga   i3-ra2-ra2-ra   BIN05,3467; 
+ 
+ giri3   i3-ra2-ra2-a   SA1516; 
+ i3-ra2-ra2-me   Ontario2,4614. 
+ ELA/Ur III/Ur   
+ še-ba   i3-ra2-ra2-e-ne   UET3,10357; 
+ 
+ e2   i3-ra2-ra2-še3   UET3,11155. 
+ unknown/ED IIIb/Girsu   i3-ra2-ra2-bi ?   DP267 o i3; 
+ 
+ i3-ir-a   ra2-de3   DP270 o i5; 
+ 
+ i3-ir-a   ra2-de3   DP271 o ii3; 
+ i3-ra2-ra2-ra   DP271 o ii5; 
+ 
+ i3-ir-a   ra2-de3   DP272 r ii4. 
+ unknown/Ur III/Umma   
+ ki-ag2   i3-ra2-ra2-ra 
+ he2-na-ab-sum-mu   MVN15,2493; 
+ 
+ i3-a   ra2-a   SANTAG6,0477. 
+ See ETCSL:  ra2 =to address . ra  [PURE] ra  [PURE]  wr.  ra3  "(to be) pure; (to be) clear" Akk.  ellu [1] 
+cuneiform UD ra31.  (to be) pure2.  (to be) clear Akk.  ellu  "(ritually) pure" . raba  [CLAMP] (37 instances) raba  [CLAMP]  (37x: Old Babylonian)  wr.  ĝeš rab3 ;  ĝeš raba ;  raba ;  rab-ba  "clamp; neck stock; hoop" Akk.  rappu [1] 
+cuneiform GIŠ.LUGAL ĝeš rab3  ( geš rab3 ) [2] 
+cuneiform GIŠ.RAB ĝeš raba  ( geš raba) [3] 
+cuneiform RAB raba  (rab) [4] 
+cuneiform RAB.BA rab-ba +-0 (37x/100% ) .350030002500200015001000 (no date) [1]30 [2]2 [3]1 [4]9 distinct forms attested; click to view forms table.1.  clamp  (37x/100%) ~  LEX/Old Babylonian/Nippur   ĝiš rab   OB Nippur Ura1680; 
+ [[giš rab]] =   =  
+ GIŠ . LUGAL  =  
+ ra-ap-pu-u2   OB Diri Nippur219.2.  neck stock3.  hoop Akk.  rappu  "hoop, clamp" . [1993]  M. Civil, St Hallo74. [1968]  M. Civil, JAOS8813. See ETCSL:  rab3 =shackle . rabatum  [GARMENT] (2 instances) rabatum  [GARMENT]  (2x: Ur III)  wr.  ra-ba-tum  "a garment" [1] 
+cuneiform RA.BA.TUM ra-ba-tum +-0 (2x/100% ) .350030002500200015001000 (no date) [1]21 distinct form attested; click to view forms table.1.  a garment  (2x/100%) ~  ELA/Ur III/Drehem   [ra ?]-ba #-tum 
+ ummeda da 
+ me #-d ištaran 
+ dumu 
+ lugal   OIP121,4708;1(diš) 
+ udu 
+ ama   ra-ba-tum   UDT1151. 
+ rabianum  [COMMANDER] (2 instances) rabianum  [COMMANDER]  (2x: Old Babylonian)  wr.  ra-bi-a-nu-um  "commander, a high official" Akk.  rabiānu [1] 
+cuneiform RA.BI.A.NU.UM ra-bi-a-nu-um +-0 (2x/100% ) .350030002500200015001000 (no date) [1]21 distinct form attested; click to view forms table.1.  commander, a high official  (2x/100%) ~  LEX/Old Babylonian/Nippur   ra-bi-a-nu-um   OB Nippur Lu21. 
+ ~ martu[westerner] LEX/Old Babylonian/Nippur   ra-bi-a-nu-um 
+ mar-tu   OB Nippur Lu22. 
+ Akk.  rabiānu  "mayor" . rabizigatum  [OFFICIAL] (7 instances) rabizigatum  [OFFICIAL]  (7x: Old Babylonian)  wr.  ra-bi-zi-ga-tum  "a military official" Akk.  rabi sikkati [1] 
+cuneiform RA.BI.ZI.GA.TUM ra-bi-zi-ga-tum +-ma (4x/57% ) ; -0 (3x/43% ) .350030002500200015001000 (no date) [1]72 distinct forms attested; click to view forms table.1.  a military official  (7x/100%) ~  LEX/Old Babylonian/Nippur   ra-bi-si2-qa2-tum   OB Nippur Lu18; 
+ ra-bi-si2-qa2-tum 
+ qa2-nu-um 
+ a2 
+ zi-da   OB Nippur Lu19; 
+ ra-bi-si2-ka3-tum 
+ qa2-nu-um ? 
+ a2 
+ gub3-bu   OB Nippur Lu20. 
+ Akk.  rabi sikkati  "(an official)" . See ETCSL:  ra-bi-si2-ka3-tum-ma=general . rag  [UNMNG] rag  [UNMNG]  wr.  rag  "" [1] 
+cuneiform SAL rag1.   ragaba  [RIDER] (615 instances) ragaba  [RIDER]  (615x: Old Akkadian, Lagash II, Ur III, Early Old Babylonian, Old Babylonian)  wr.  ra2-gaba ;  ra-gaba  "rider, messenger" Akk.  rākibu [1] 
+cuneiform DU.GABA ra2-gaba [2] 
+cuneiform RA.GABA ra-gaba +-0 (615x/100% ) .350030002500200015001000 (no date) [1]45818 [2]1201818 distinct forms attested; click to view forms table.1.  rider, messenger  (615x/100%) ~  LEX/ED IIIa/unknown   ra2-gab2   Early Dynastic Lu C36_(35). 
+ LEX/Old Babylonian/Nippur   ra-gaba   OB Nippur Lu23; 
+ ra2-gaba   OB Nippur Lu77. 
+ ELA/Old Akkadian/Girsu   
+ al-la   ra2-gaba 
+ i3-dab5   ITT5,067122;1(aš@c)   ra-gaba 
+ a-dam-dun ki   RTC25510. 
+ ELA/Old Akkadian/Lagash   
+ [...] 
+ x   ra2-gaba   BM0288912. 
+ ELA/Old Akkadian/Nippur   
+ na-mu-dib   ra-gaba !?   OSP2,1763. 
+ ELA/Lagash II/Girsu   
+ maš-gu-la   ra2-gaba 
+ e2-munus   Amherst0162; 
+ 
+ lugal-inim   ra2-gaba   MVN07,0302. 
+ ELA/Ur III/Adab   
+ d šul-gi-ha-ma-ti   ra2-gaba   MVN03,1833. 
+ ELA/Ur III/Asmar   ra2-gaba   OIP043,1422 ii2. 
+ ELA/Ur III/Drehem   
+ šu-d nin-šubur   ra2-gaba 
+ maškim   Aegyptus17,53,0703;1(diš) 
+ maš2 
+ ur-d šul-pa-e3   ra2-gaba   Amorites18 (pl.7) o i8;1(diš) 
+ [...] 
+ x-e3   ra2-gaba   Amorites23 (pl.13)11. 
+ ELA/Ur III/Girsu5(diš) 
+ sila32(diš) 
+ gin2 
+ lu2-bala-sa6 
+ ur-d gigir   ra2-gaba-da 
+ du   AAS1683;2(ban2 ) 
+ da-ab-[x]-HI-šu   ra2-gaba   AAS17210; 
+ 
+ us2-sa 
+ a-ša3 
+ al-la   ra2 !-gaba   AfO24, pl.17 Truro1 o i22. 
+ ELA/Ur III/Nippur   ra2-gaba   NATN108 ii3; 
+ ra2-gaba   NATN133 ii3;1(aš) 
+ gu2 
+ gal 
+ gur 
+ dingir-lu-ki-ma-at   ra2-gaba   NATN4631. 
+ ELA/Ur III/Umma   ra2 #-gaba 
+ nita2-me   AnOr07,285 o iii24; 
+ ra2-gaba 
+ [...] 
+ sag 
+ PA 
+ x 
+ [...]   AnOr07,285 o iv4;6(aš) 
+ gur 
+ šuku 
+ PU3 . ŠA-d GEŠ × X   ra2-gaba   AR RIM04185. 
+ ELA/Ur III/Ur   
+ en #-ur2-ku3-ge   ra2-gaba 
+ en-na   BCT1,1397; 
+ 
+ gi-ra-du   ra2-gaba   UET3,00265; 
+ 
+ d nin-lil2-ama-mu   ra2-gaba   UET3,01653. 
+ ELA/Ur III/unclear   
+ i-x-i3-lum   ra2-gaba   MVN13,3386; 
+ ra2-gaba 
+ ša3 
+ e2-gal-me   TSU108 o ii6. 
+ ELA/Early Old Babylonian/unknown   
+ giri3 
+ d iš-bi-er3-ra-li-si-in   ra2-gaba   BIN09,1512; 
+ 
+ giri3 
+ d iš-bi-er3-ra-en-en   ra2-gaba   BIN09,1996; 
+ 
+ giri3 # 
+ nu-ur2-d iškur   ra2-gaba   BIN09,2764. 
+ unknown/Old Akkadian/unclear   
+ ig-bi   ra-gaba 
+ ha harran 
+ <si>-sa2-a-ga2 
+ ha-DU   OrNS54,0575. 
+ unknown/Ur III/Drehem   ra2-gaba   Aleppo0112; 
+ ra2-gaba   Aleppo0122; 
+ 
+ d nin-lil2-ama-mu   ra2-gaba 
+ maškim   DoCu2599. 
+ unknown/Ur III/Girsu   
+ kišib3 
+ a2-bi2-li2   ra2-gaba   ArOr62,242 I8713;1(ban2 ) 
+ kaš1(ban2 ) 
+ ninda1(u) 
+ gin2 
+ i3 
+ li-bur-d šul-gi   ra2-gaba   BM Messenger0043;1(ban2 ) 
+ kaš1(ban2 ) 
+ ninda1(u) 
+ gin2 
+ i3 
+ elam   ra-gaba   BM Messenger02515. 
+ unknown/Ur III/Lagash   ra2-gaba 
+ er3-zu   Rochester2244. 
+ unknown/Ur III/Nippur   
+ kišib3 # 
+ PU3 . ŠA-u3-gur   ra2-gaba   BBVO11,256,4N-T191 o iii11;1(diš) 
+ i-ku-mi-šar   ra2-gaba   BBVO11,269,6N-T0285. 
+ unknown/Ur III/Umma   
+ giri3 
+ a-kal-la   ra-gaba   CDLJ2003/1, no.1 r ii15; 
+ 
+ [...   ra]-gaba   Hirose3191;1(ban2 ) 
+ a-a-kal-la   ra-gaba   Hirose3195. 
+ unknown/Ur III/Ur   
+ sa2-du11   ra2-gaba 
+ ša3 
+ e2-ke4-ne   SAT2,01542; 
+ 
+ a-bu-um-dingir   ra2-gaba   SAT3,20122; 
+ 
+ giri3 
+ e-lum-i3-gi4   ra2-gaba   SAT3,20252. 
+ ~ ki[place] bad[open] LEX/Old Babylonian/Nippur   ra-gaba 
+ ki 
+ bad-ra2   OB Nippur Lu24. 
+ Akk.  rākibu  "rider" . See ETCSL:  ra-gaba=rider . rah  [BEAT] (597 instances) rah  [BEAT]  (597x: ED IIIb, Old Akkadian, Lagash II, Ur III, Early Old Babylonian, Old Babylonian)  wr.  rah2 ;  ra-ah  "to beat, kill; to break, crush; to flood; to thresh (grain with a flail)" Akk.  dâku ;  diāšu ;  hepû ;  rahāşu ;  rapāsu See  a rah[drown] ,  eš rah[measure] ,  gu rah[shout] ,  ĝeš rah[beat] ,  haš rah[slap the thigh] ,  haš tibir rah[slap the thigh] ,  kišib rah[seal] ,  si gu rah[blow the horn] ,  šu rah[beat] ,  ti rah[shoot] ,  zu rah[bite] . [1] 
+cuneiform RA rah2  (ra) [2] 
+cuneiform RA.|HI×NUN| ra-ah +-0 (595x/100% ) ; -he (1x/0% ) ; -ha (1x/0% ) .350030002500200015001000 (no date) [1]16352158 [2]110176 distinct forms attested; click to view forms table.1.  to beat, kill  (597x/100%) ~  LEX/Old Babylonian/Nippur   
+ saĝ 
+ keš2-še3   ra-ab  =  
+ ki-iş-şa-ar   PBS05,140 [OBGT XII]5. 
+ LEX/Old Babylonian/unknown   
+ lu2 # 
+ ze2 #-a #   al #-ra #  =  
+ şa-ar #-[šum]   lu2-azlag B and C Seg.6,2; 
+ 
+ giš   ra-ah  =  MIN <(
+ si3-hi-il-ti )>
+ i-şi   OB List of Diseases105. 
+ ELA/ED IIIb/unknown   en-ra   Nik1,020 o ii11; 
+ e-ma-ra   Nik1,161 r ii1. 
+ ELA/Old Akkadian/Adab   
+ [x] 
+ igi-še3   ra-a ?   Adab08502. 
+ ELA/Old Akkadian/Girsu   ib2-ra   ITT1,013032. 
+ ELA/Old Akkadian/Nippur   
+ pa-e3   ra ?   TMH5,063 o iii5;2(geš2 )1(u)1(ban2 @c)   en-ra   OSP2,095 o iii11;2(geš2 )2(u)   en-ra 
+ igi3(diš)   OSP2,098 o ii10;2(ban2 @c) 
+ lu2 
+ sig4 
+ al-lu2   bi2-ra   OSP2,1366. 
+ ELA/Old Akkadian/Umma   
+ udu 
+ ur4-ra 
+ e2-gu4-diš   ra-am3   MAD4,0195. 
+ ELA/Old Akkadian/Ur   
+ [...]   ra !?-ama 
+ TUR 
+ [...] 
+ x-še3   UET2 supp08b1'. 
+ ELA/Old Akkadian/unclear1(diš) 
+ sila3 
+ ur-x 
+ kiš   ra   Athene19980924u2. 
+ ELA/Ur III/Adab   
+ bur2-ra   bi-ra-a   MVN03,2098. 
+ ELA/Ur III/Drehem   
+ lugal-e 
+ gu ?   bi2-in ?-ra ?   AnOr07,1093; 
+ 
+ aš !-še3 
+ sag-[du]-bi # 
+ [šu 
+ tibir-ra]   bi2 #-ra-a   AUCT1,3147; 
+ 
+ x 
+ [...] 
+ x   ga-ra   AUCT1,3724. 
+ ELA/Ur III/Girsu8(diš) 
+ sila3 
+ kaš 
+ ninda 
+ [nam]-ha-ni 
+ ugula 
+ kikken   ra-ab 
+ du-ni   AAS1741; 
+ 
+ kišib3 
+ ur-d ba-ba6 
+ dumu 
+ e2-ab-ša3-ga   ib2-ra   Amherst0933;1(bur3 )2(eše3 ) 
+ GAN2 
+ su3 
+ še   ra   AnOr45,29046 r i6. 
+ ELA/Ur III/Nippur   
+ x 
+ [...]   ra !? 
+ x 
+ x   BE03/1,0252; 
+ 
+ kišib3 
+ a-a-teš2-mu   ib2-ra   BE03/1,0814; 
+ ib2-ra   NATN0606. 
+ ELA/Ur III/Umma1(u)7(diš) 
+ sar   da-ra 
+ ak   AnOr01,0593; 
+ 
+ gu 
+ kin-e   ra-ra   AnOr01,1653; 
+ 
+ [x ?] 
+ x-ra 
+ nig2-ka9   ra-ba-na   AnOr07,3308. 
+ ELA/Ur III/Ur   ib2-ra   RA57,09416;1(aš@c)   me-ra-an   StOr09-131 (pl.12)21; 
+ 
+ kišib3 
+ lu2-d en-lil2-la2 
+ di-ku5   ib2-ra   UET3,00413. 
+ ELA/Ur III/unclear   
+ kišib3 
+ a-tu 
+ ab-ba-na   ib2-ra   MVN13,8251; 
+ ib2-ra   MVN13,8252; 
+ 
+ ki   mu-ra-ka 
+ gal2-la   Orient16,10717410; 
+ 
+ lugal-kal   ra-ta ?   SAKF0273;1(diš)   ra 
+ sukkal 
+ nin 
+ [...]   TIM06,534; 
+ na-ni-ra   TCS1,1731; 
+ na-ni-ra   TCS1,1851. 
+ ELA/Early Old Babylonian/unknown   
+ mu 
+ d iš-bi #-[er3-ra] 
+ lugal-e 
+ šimaški2 # 
+ u3 
+ elam   bi2-ra #   BIN09,0325; 
+ 
+ mu 
+ d iš-bi-er3-ra 
+ lugal-e 
+ šimaški2 
+ elam   bi2-ra   BIN09,0625; 
+ 
+ mu 
+ d iš-bi-er3-[ra] 
+ lugal-e 
+ šimaški2 # 
+ u3 
+ elam-e   bi2-ra   BIN09,0774. 
+ unknown/Old Babylonian/unknown   ba #-ab-ra   IM070209 o i32; 
+ [[ra]] =   =  
+ RA  =  
+ ra #-ha-şum   RA09,77-78 ii34. 
+ unknown/ED IIIb/Girsu   en-ra   DP114 r v2;1(aš@c) 
+ tug2 
+ nig2-lam2 
+ bar-dul5 
+ sal-la   ra-a   RTC019 r iii1. 
+ unknown/ED IIIb/Lagash1(aš@c) 
+ tug2 
+ ninda 
+ x 
+ BU 
+ da 
+ bar 
+ tug2 
+ sal-la 
+ e   ra   BiMes03,15 o iii2; 
+ 
+ i7-bi 
+ x   ra 
+ GAN # 
+ NE #   BiMes03,26 r iv5; 
+ ra 
+ ba 
+ AN   BiMes03,29 o ii3; 
+ 
+ GAG 
+ DU   ra 
+ AN   BiMes03,29 o ii4; 
+ 
+ LAK308   ra 
+ AN   BiMes03,29 o iv7. 
+ unknown/ED IIIb/Nippur   
+ tur3 
+ TU   nu-me-a-ra #   ASJ16, p.43-46 prism vii13. 
+ unknown/ED IIIb/unknown   
+ [x] 
+ x 
+ e2 
+ [x] 
+ x 
+ x 
+ GIM   ra   OIP104,022 o viii2';1(aš@c)   ra-bi2   Nik1,011 o ii1. 
+ unknown/Old Akkadian/Girsu5(aš@c) 
+ sila3 
+ nig2-ar3-ra   ra 
+ ziz2-an   ITT5,092816; 
+ 
+ [kišib] 
+ ur-mes   ra   RTC1868. 
+ unknown/Old Akkadian/unknown   
+ kun 
+ im   ra   BIN08,3125. 
+ unknown/Ur III/Drehem1(u) 
+ sa 
+ gi kid 
+ gi-sa   ra 
+ ma2-gur8 
+ d šara2-ka-še3   Aleppo1381; 
+ 
+ aš-še3 
+ sag-bi 
+ šu-bur2-ra #   bi2-in-ra   ASJ15,1375; 
+ 
+ dil ?-še3 
+ sag !-bi 
+ tibir-a   bi2-ra-a   MVN15,1007. 
+ unknown/Ur III/Girsu6(bur3 )1(eše3 ) 
+ GAN2 
+ še   ra1(aš)1(barig)-ta   ASJ11,13261b r i7;3(ban2 ) 
+ kaš 
+ lugal3(ban2 ) 
+ ninda   ra 
+ du8-a1/2(diš) 
+ sila3 
+ i3-geš 
+ lu2-d šul-gi 
+ šeš 
+ d šul-gi-kalam-ma-me-te   BM Messenger0461;5(diš) 
+ sila3 
+ kaš3(diš) 
+ sila3 
+ ninda   ra 
+ du8-a4(diš) 
+ gin2 
+ i3-geš 
+ ARAD2-d nanna   BM Messenger0471. 
+ unknown/Ur III/Umma   
+ u2 a-ZI & ZI # 
+ [... 
+ en]-du8-du-ta   ra ? 
+ [...]-še3 
+ ga6-[ga2]   MVN18,641 o ii2; 
+ 
+ e2 !-gu4 
+ nig2-ar3-ra   mu-ra   MVN21,0143; 
+ 
+ še 
+ gur x ( ŠE . KIN )-a   ra ?   Princeton1,3976. 
+ unknown/Ur III/unclear   
+ [...] 
+ lu2 #-d [...] 
+ dumu 
+ er3-[...]   ra !?-a 
+ [...]-gal2 
+ dumu 
+ mu-zu   MVN18,623 o i7'. 
+ unknown/Ur III/unknown   
+ a-ša3   da-ra-um   MVN15,1302; 
+ 
+ na-ga-ab-tum-ma   bi2 ?-ra ?   MVN15,1809. 
+ unknown/Old Babylonian/Nippur   na-ra 
+ mu-dim2   SAOC44,0216; 
+ na-ra 
+ mu-dim2   SAOC44,0216; 
+ 
+ [...]   ra-aš # 
+ d [...]   SAOC44,1013. 
+ unknown/Old Babylonian/unknown   
+ mu 
+ d iš-bi-[er3]-ra 
+ lugal-e 
+ lu2-SU-a 
+ u3 
+ elam   bi2-ra   TLB5,1015; 
+ 
+ mu 
+ d iš-bi-er3-ra 
+ lugal-e 
+ lu2-SU-a 
+ u3 
+ elam   bi2-ra   TLB5,119. 
+ See: a rah; bisaĝ šag rah; gigur šag rah; maš zu rah; še ĝeš rah; šu rah.2.  to break, crush3.  to flood4.  to thresh (grain with a flail) Akk.  dâku  "to beat" ;  diāšu  "to tread down" ;  hepû  "to break" ;  rahāşu  "to flood" ;  rapāsu  "to beat, thresh" . [1994]  M. Civil, Farmer's Instructions87;95. See ETCSL:  ra=to beat . rah  [DISEASE] (1 instances) rah  [DISEASE]  (1x: Old Babylonian)  wr.  ra-ah  "a disease" [1] 
+cuneiform RA.|HI×NUN| ra-ah +-0 (1x/100% ) .350030002500200015001000 (no date) [1]1 distinct form attested; click to view forms table.1.  a disease  (1x/100%) ~  unknown/Old Babylonian/unknown   [[ra]] =   =   =  
+ ra-pa-a-du-um   RA09,77-78 ii36. 
+ rašu  [UNMNG] rašu  [UNMNG]  wr.  rašu  "" [1] 
+cuneiform KUR rašu1.   re  [THAT] (130 instances) re  [THAT]  (130x: Ur III, Old Babylonian)  wr.  re  "that" [1] 
+cuneiform RI re +-0 (130x/100% ) .350030002500200015001000 (no date) [1]31279 distinct forms attested; click to view forms table.1.  that  (130x/100%) ~  ELA/Ur III/Girsu   
+ x 
+ KA 
+ x 
+ x 
+ x 
+ x 
+ [...]   re-ne 
+ šu-a-gi-na   DCS63 o ii7. 
+ ELA/Ur III/Nippur   re-zu 
+ u-gara2 
+ u3   TMH NF1-2,0473; 
+ 
+ ki   re-zu 
+ u-gara2 
+ u3   TMH NF1-2,0475. 
+ See ETCSL:  re=that . RI  [CRY] RI  [CRY]  wr.  RI  "to cry out" Akk.  şarāhu See  ni RI[frighten] ,  šu RI[wring hands] . [1] 
+cuneiform RI RI1.  to cry out Akk.  şarāhu  "to cry out, wail, complain" . ri  [DISTANT] (6 instances) ri  [DISTANT]  (6x: Old Babylonian)  wr.  ri  "(to be) distant" Akk.  nesû [1] 
+cuneiform RI ri +-0 (6x/100% ) .350030002500200015001000 (no date) [1]62 distinct forms attested; click to view forms table.1.  (to be) distant  (6x/100%) ~  LEX/Old Babylonian/Nippur   [[ri]] =   =   =  
+ ne2 !?-su2-u   OB Aa129:2; 
+ [[ri]] =   =   =  
+ [re-e]-qum   OB Aa129:3; 
+ [[ri]] =   =   =  
+ na #-gu-u   OB Aa129:4; 
+ [[ri]] =   =   =  
+ ul-lu-u2 #   OB Aa129:9. 
+ LEX/Old Babylonian/unknown   
+ lu2 
+ ki   ri-a  =  
+ ša 
+ na-si-ka-tim   OB Lu-Azlag A294. 
+ See: niĝ ud ri. Akk.  nesû  "to be distant" . ri  [IMPOSE] (475 instances) ri  [IMPOSE]  (475x: ED IIIb, Old Akkadian, Ur III, Early Old Babylonian, Old Babylonian)  wr.  RI ;  ru  "to lay down, cast, place; to set in place, imbue; to lean on; to impose; to throw down; to release, let go; to walk along; to pour out; to lead away" Akk.  bâ'u ;  emēdu ;  nadû ;  nasāku ;  ramû ;  rehû ;  tarû ;  wašaru See  a ri[impregnate] ,  a ru[dedicate] ,  gaba ri[confront] . [1] 
+cuneiform RI RI  (ri) [2] 
+cuneiform RU ru +-0 (475x/100% ) .350030002500200015001000 (no date) [1]1045271 [2]205913238 distinct forms attested; click to view forms table.1.  to lay down, cast, place  (475x/100%) ~  LEX/ED IIIb/Ebla   [[ru]] =  
+ RU   Ebla Sign List110. 
+ LEX/Old Babylonian/Nippur   
+ a-zar   ri-a   OB Kagal500; 
+ [[ri]] =  
+ [ri]-i #  =  
+ RI  =  
+ ra-mu-um #   OB Aa129:1; 
+ [[ri]] =   =   =  
+ [ri]-hu !?-tum   OB Aa129:6; 
+ [[diri]] =   =   =  
+ na-sa-ku   OB Diri Nippur23. 
+ LEX/Old Babylonian/unknown   [[diri]] =   =   =  
+ na-sa3-ku-um   OB Diri "Oxford"25. 
+ ELA/ED IIIb/Girsu   
+ balag   ru-a   VS14,075 o ii4; 
+ 
+ balag   ru-a   VS14,075 o iii4; 
+ 
+ balag-il2   e-ta-ru-a-kam3( AŠ × DIŠ@t )   VS14,093 r vi3. 
+ ELA/ED IIIb/Nippur   na-ri-ri   TMH5,023 r i1;4(u@c)7(aš@c) 
+ še 
+ lid2-ga   ha #-ri 
+ ZI & ZI . ŠE3 
+ ku4   TMH5,1371;1(geš2 @c) 
+ la21(aš@c) 
+ še   ha-ri 
+ u41(diš)-kam   TMH5,1373. 
+ ELA/ED IIIb/unknown   ba-ta-ru   Nik1,021 r ii3; 
+ ba-ta-ru-a-ne-kam   Nik1,090 r i1; 
+ 
+ maš-še3   mu-na-ri-a3( AŠ × DIŠ@t )   Nik1,174 r ii4. 
+ ELA/Old Akkadian/Adab   
+ geštu2-ga   ru-dam   Adab07741. 
+ ELA/Old Akkadian/Girsu1(aš@c)   a-ri   CT50,106 o i9;2(u@c)   nu-ru-um 
+ šu   ITT2,044301; 
+ 
+ ma2   ba-ta-ri #   RTC2556; 
+ 
+ GAN2   ru-ru-ba   STTI0741. 
+ ELA/Old Akkadian/Nippur   
+ [x] 
+ lu2 #   a-ri-ri   OSP1,060 o ii3; 
+ 
+ [x]-ni #   ru-a   OSP2,1211; 
+ 
+ ma2-dilmun 
+ du8-ni   ru-a   OSP2,128 o i14; 
+ 
+ ma2-dilmun 
+ du8-ni   ru-a   OSP2,132 o ii3. 
+ ELA/Ur III/Drehem   i-ga-ri   Amorites18 (pl.7) o iii32; 
+ 
+ u4 
+ e3   ru-ba-tum-ka   AnOr07,1675; 
+ 
+ gaba   ri-dam   AUCT1,0285. 
+ ELA/Ur III/Girsu   
+ ki   ga2-ri   Atiqot4, pl.0208 o i2;1(diš) 
+ tug2   na-mu-ru ?-in   HSS04,04716;8(diš) 
+ ma-na 
+ gul-la-ta   ru-a   ITT2,008482. 
+ ELA/Ur III/Nippur1(barig)   ri-un-ba   BE03/1,1297; 
+ ib2-ru  <<ab2 >>   MCS7,12 Liv5163412;1(diš) 
+ šeš-kal-la 
+ dumu   me-ri-ru   NATN1312. 
+ ELA/Ur III/Susa1(diš)   nu-ru-um   MDP10,2244. 
+ ELA/Ur III/Umma   
+ kišib3 
+ ur-d šul-pa-e3 
+ gaba #   ri-dam   AAS1033;1(u)2(aš) 
+ gur 
+ uku2-nu-ti # 
+ bala   a-ri-ta   AAS1546; 
+ en-ru-ni 
+ šitim ?   AOAT240,79,511. 
+ ELA/Ur III/Ur   
+ dumu   hu-un-na-ru-um   BCT1,1395; 
+ 
+ mu 
+ us2-sa 
+ d šu-d suen 
+ lugal 
+ uri5 ki-ma-ke4 
+ bad3 
+ mar-tu   mu-ri   UET3,03476; 
+ 
+ nu   ba-da-ru-um   UET3,10488. 
+ ELA/Ur III/unclear   bi !?-ri-um 
+ lu2 
+ x   JANES09,22064; 
+ 
+ geš tukul   ga-ru-dam   Princeton2,13718; 
+ 
+ sila32(diš) 
+ gin2   nu-ru-um   Princeton2,2635. 
+ ELA/Early Old Babylonian/Nippur   
+ gaba   i-ib2-ri 
+ igi-ni 
+ [...]   UM29-13-4923; 
+ 
+ kišib-ba-ne-ne   in-ru-me   PBS08/1,0086'. 
+ ELA/Early Old Babylonian/unknown1(diš)   da-mi-ru-um   BIN09,2245. 
+ ELA/Old Babylonian/Nippur   
+ da 
+ e2   ba-ra-ru-um   CBS022954'; 
+ 
+ nig2-nam-te   ri-ma-an-ni 
+ dumu 
+ us2-[...]   OB Contracts, pl.F7 no.542'; 
+ šu-ri-a-bi-še3   OB Contracts, pl.F7 no.544'. 
+ unknown/Old Babylonian/unknown   
+ saĝ   ri-a  =  
+ tu-x #-x #   MSLSSI,17-27 l.e. vi kappa2; 
+ 
+ saĝ   ri-a  =  
+ tu-x #-x #   MSLSSI,17-27 i kappa. 
+ unknown/ED IIIb/Girsu   
+ balag   e-ta-ru-a   DP167 r i1;1(aš@c) 
+ kur2 
+ i31(diš) 
+ kur2 
+ zu2-lum1(diš) 
+ kur2 
+ geštin 
+ gaʾar x ( LAK490 ) 
+ ziz2 
+ geš peš3   šu-ru-a 
+ geš hašhur 
+ šu-ru-a1(aš@c) 
+ ku6 
+ keš2-ra2   DP196 o iii6;1(aš@c) 
+ kur2 
+ i31(diš) 
+ kur2 
+ zu2-lum1(diš) 
+ kur2 
+ geštin 
+ gaʾar x ( LAK490 ) 
+ ziz2 
+ geš peš3 
+ šu-ru-a 
+ geš hašhur   šu-ru-a1(aš@c) 
+ ku6 
+ keš2-ra2   DP196 o iii6. 
+ unknown/ED IIIb/Nippur   
+ DUG   mu-da-ni-ru   ASJ16, p.43-46 prism xvi13; 
+ 
+ ša3 #   mu-na !?-ni !?-ru   ASJ16, p.43-46 prism ii10. 
+ unknown/ED IIIb/unknown   
+ sa2-du11   ru-a 
+ ba-sur   HSS03,48 ii2; 
+ ri-ri-de3   Nik1,156 r ii3. 
+ unknown/Old Akkadian/Girsu   
+ maš #-bi 
+ da   ga-na-ab-ri   ITT1,011191; 
+ 
+ i3 
+ ud5   šu-ri-a 
+ gar-ra   RTC1866. 
+ unknown/Ur III/Drehem   
+ ki   u3-ru-ta   Aleppo3752; 
+ 
+ ki   ha-ab-ru-ta   ASJ19,207234; 
+ i3-ba-na-ru   Hirose1202; 
+ in-ri   MVN15,3094; 
+ 
+ kišib3-bi   gu2-ru-dam   MVN15,3774. 
+ unknown/Ur III/Girsu5(diš) 
+ sila3 
+ zi3   na-na-ri 
+ sukkal 
+ sa-bu-um ki-ta 
+ du-ni   SAT1,1152; 
+ 
+ mu 
+ šu-ku6   ri-de3 
+ gen-na   TCTI2,031895. 
+ unknown/Ur III/Lagash   
+ še-ra-zu 
+ dumu   na-ru-ru-um   Rochester2277. 
+ unknown/Ur III/Nippur   
+ GIN2 !?   ru # 
+ ša3 
+ kuš du10-gan   BBVO11,299,6N-T7852. 
+ unknown/Ur III/Umma   
+ nam   bi2-ib2-ri-ri # 
+ [...]   MVN16,06984; 
+ mu-ru 
+ sukkal   MVN16,11372; 
+ 
+ tug2 gu2   ru 
+ e2-gal-ta   MVN18,4862. 
+ unknown/Ur III/Ur   i3 ?-ri-bi1(diš) 
+ [...]   SAT3,20262; 
+ 
+ TAR   mu-na-ri   TCS1,005 r ii16. 
+ unknown/Old Babylonian/unknown   
+ nam-dumu-ni-še3   ba-da-an-ri   BE06/2,245; 
+ 
+ nam-ibila-ni-še3   ba-an-da #-[ri]   BE06/2,283; 
+ 
+ u4 
+ nam-ibila-ni-še3   ba-an-da-ri-a   BE06/2,284. 
+ See: a hili ri; a huš ri; a ri; a zid ri; munus uš ri; sa ri; še ud ri; šu ri; uš ri.2.  to set in place, imbue3.  to lean on4.  to impose5.  to throw down6.  to release, let go7.  to walk along8.  to pour out9.  to lead away Akk.  bâ'u ;  emēdu  "to lean on; impose" ;  nadû  "to throw (down)" ;  nasāku  "to throw (down)" ;  ramû ;  rehû  "to pour out; have sexual intercourse with" ;  tarû ;  wašaru  "to sink down" . [2005]  W. Sallaberger, Studies Klein233 n6. [1980]  J. Klein, Studies E.Y. Kutscher XVII n36. [1973]  G. Gragg, Sumerian Dimensional Infixes25. See ETCSL:  ri=to direct . ri  [UNMNG] (16 instances) ri  [UNMNG]  (16x: Old Akkadian, Ur III, Old Babylonian, unknown)  wr.  ri ;  ur2-ri  "" [1] 
+cuneiform RI ri [2] 
+cuneiform UR₂.RI ur2-ri +-0 (16x/100% ) .350030002500200015001000 (no date) [1]463 [2]16 distinct forms attested; click to view forms table.1.    (16x/100%) ~  LEX/unknown/unknown   
+ [...]   ri-ri   SLT015 prism i1. 
+ ELA/Old Akkadian/Lagash   
+ x 
+ uru 
+ x   ri 
+ x   BM0154144. 
+ unknown/Old Akkadian/Girsu3(u)5(aš)2(barig) 
+ gur   ur2-re   RTC2564. 
+ unknown/Old Akkadian/unknown   
+ maš2 
+ da   ri-a   YOS18,0033; 
+ 
+ maš2 
+ da   ri-a   YOS18,0043. 
+ See: kaš ti ri; še a u ri; še ud ri; udu ri. rib  [SURPASSING] (62 instances) rib  [SURPASSING]  (62x: ED IIIb, Old Babylonian)  wr.  rib ;  ri-ba  "(to be) surpassing, outstanding; (to be) strong, massive" Akk.  ešqu ;  šūtuqu [1] 
+cuneiform KAL rib [2] 
+cuneiform RI.BA ri-ba +-ba (42x/68% ) ; -0 (20x/32% ) .350030002500200015001000 (no date) [1]243 [2]7419 distinct forms attested; click to view forms table.1.  (to be) surpassing, outstanding  (62x/100%) ~  LEX/Old Babylonian/Sippar   [[rib]] =   =  
+ [KAL]  =  
+ šu #-tu-qum   MSL14,122-127091012; 
+ [[rib]] =   =   =  
+ eš #-qum   MSL14,122-127091013. 
+ ELA/ED IIIb/Girsu2(u@c)4(aš@c) 
+ geš-ur2 # 
+ geš gi-gid2 # 
+ x-bi   da-rib-ba #   VS27,082 o i2;1(u@c) 
+ geš gi-gid2 
+ geš-ur2 
+ geš-zi-geš-nu2-dim2   rib #-ba   VS27,082 o i3. 
+ ELA/Ur III/Drehem2(diš) 
+ gu4 
+ niga   ri-ba-na   CTMMA1,0094;1(diš) 
+ maš2 
+ kišib3 
+ bi-in-gu-bi-iš 
+ kurušda   re-ba-a   MVN02,1001;5(gešʾu)2(geš2 ) 
+ šabra   ri-ba-a   YOS04,05611. 
+ ELA/Ur III/Girsu   
+ ur-šuš3 ? 
+ dumu   ri-ba1(geš2 )1(u)4(diš)   OTR160 r i2; 
+ 
+ u3   ri-ba-a   LB0610 o ii14. 
+ ELA/Ur III/Ur1(diš)   ri-ba-da-[da]   UET3,14525. 
+ unknown/Ur III/Nippur   ri-ba-a ?   BBVO11,295,6N-T6322.2.  (to be) strong, massive Akk.  ešqu  "solid, massive" ;  šūtuqu  "surpassing, outstanding" . [2004]  P. Attinger and M. Krebernik, St Schretter68 n143. See ETCSL:  rib=to be outstanding . ribba  [PLANT] (3 instances) ribba  [PLANT]  (3x: Old Babylonian)  wr.  u2 rib-ba  "type of plant" [1] 
+cuneiform U₂.KAL.BA u2 rib-ba +-0 (3x/100% ) .350030002500200015001000 (no date) [1]31 distinct form attested; click to view forms table.1.  type of plant  (3x/100%) ~  See: muš ribba. See ETCSL:  rib-ba=type of plant . rig  [BOIL] (3 instances) rig  [BOIL]  (3x: Old Babylonian)  wr.  RIG7 ;  rig10  "to boil down; concoction, infusion" Akk.  rabāku ;  ribku [1] 
+cuneiform |PA.HUB₂.DU| RIG7  (rig7 ) [2] 
+cuneiform |PA.DAG.KISIM₅×KAK| rig10 +-0 (3x/100% ) .350030002500200015001000 (no date) [1]2 [2]12 distinct forms attested; click to view forms table.1.  to boil down  (3x/100%) ~  LEX/Old Babylonian/unknown   [[rig7]] =   =  
+ [PA]. KAB # . DU  =  
+ ri-ib-ku   OB Diri "Oxford"279; 
+ [[rig10 ?]] =   =  
+ [PA . DAG]. KISIM5 × X #  =  
+ ri-ib-ku   OB Diri "Oxford"285. 
+ unknown/Old Babylonian/unknown   [[rig7]] =   =  
+ [PA . KAB . DU]  =  
+ ra #-ba-kum   RA21,178 i12.2.  concoction, infusion Akk.  rabāku  "to boil down, decoct" ;  ribku  "concoction, infusion" . rig  [DONATE] (3 instances) rig  [DONATE]  (3x: ED IIIb, Old Babylonian)  wr.  rig7 ;  rig9 ;  rig x (|PA.TUK.DU|)  "to donate" See  sag rig[bestow] . [1] 
+cuneiform |PA.HUB₂.DU| rig7 [2] 
+cuneiform |HUB₂.DU| rig9 [3] 
+cuneiform |PA.TUK.DU| rig x (|PA.TUK.DU|) +-0 (3x/100% ) .350030002500200015001000 (no date) [1]11 [2] [3]3 distinct forms attested; click to view forms table.1.  to donate  (3x/100%) ~  unknown/Old Babylonian/unknown   [[rig7]] =   =   =  
+ ša #-ra-kum   RA21,178 i13. 
+ unknown/ED IIIb/unknown   
+ sipa 
+ amar   rig7 !-ka-kam   Nik1,198 o ii3. 
+ [1992]  P. Steinkeller and J.N. Postgate, LAT4 n14. rig  [EAT] (7 instances) rig  [EAT]  (7x: Ur III, Old Babylonian)  wr.  rig7  "to eat; to do something to barley; to pasture, tend; to drink; to sup" Akk.  akālu ;  haţāpu ;  re'û ;  šatû; sarāpu [1] 
+cuneiform |PA.HUB₂.DU| rig7  (RIG7 ) +-0 (6x/86% ) ; -ge (1x/14% ) .350030002500200015001000 (no date) [1]164 distinct forms attested; click to view forms table.1.  to eat  (7x/100%) ~  ELA/Ur III/Nippur1(u)1(diš) 
+ gin2 
+ siki ?   ga !?#-rig7 
+ ak 
+ nig2-lam2 
+ us2 
+ šar3   NATN5271. 
+ unknown/Old Babylonian/unknown   [[rig7]] =   =   =  
+ re #-hu-um   RA21,178 i14; 
+ [[rig7]] =   =   =  
+ [a]-ka-lum   RA21,178 i15; 
+ [[rig7]] =   =   =  
+ ša-tu-u2-um   RA21,178 i16; 
+ [[rig7]] =   =   =  
+ ma !-ri-tu-um   RA21,178 i17.2.  to do something to barley3.  to pasture, tend4.  to drink5.  to sup Akk.  akālu  "to eat" ;  haţāpu  "mng. uncl. (process applied to grain)" ;  re'û ;  šatû; sarāpu  "to drink, sup" . rig  [SHEEPFOLD] (2 instances) rig  [SHEEPFOLD]  (2x: Old Babylonian)  wr.  rig10  "sheepfold, animal stall" Akk.  isru ;  tarbaşu [1] 
+cuneiform |PA.DAG.KISIM₅×KAK| rig10 +-0 (2x/100% ) .350030002500200015001000 (no date) [1]21 distinct form attested; click to view forms table.1.  sheepfold, animal stall  (2x/100%) ~  LEX/Old Babylonian/Nippur   ririg !? ( PA . DAG . KISIM5 × DU3 )   OB Nippur Lu164. 
+ LEX/Old Babylonian/unknown   [[rig10 ?]] =   =   =  
+ is-rum   OB Diri "Oxford"286. 
+ Akk.  isru  "confined" ;  tarbaşu  "animal stall" . rig  [STICK] rig  [STICK]  wr.  rig3  "stick; weapon" Akk.  kakku [1] 
+cuneiform |ŠITA₂| rig31.  stick2.  weapon Akk.  kakku  "stick; weapon" . rig  [UNMNG] (1 instances) rig  [UNMNG]  (1x: Old Babylonian)  wr.  rig7  "?" Akk.  gepû [1] 
+cuneiform |PA.HUB₂.DU| rig7 +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  ?  (1x/100%) ~  LEX/Old Babylonian/Sippar   [[rig7]] =   =   =  
+ ge-pu-[u2]   OB Diri Sippar Seg.7,10. 
+ Akk.  gepû  "?" . rigi  [BIRD] (2 instances) rigi  [BIRD]  (2x: Ur III)  wr.  ri-gi mušen  "a bird" [1] 
+cuneiform RI.GI.HU ri-gi mušen +-0 (2x/100% ) .350030002500200015001000 (no date) [1]21 distinct form attested; click to view forms table.1.  a bird  (2x/100%) ~  ELA/Ur III/Drehem2(geš2 )2(u)5(diš)   ri-gi mušen   MVN13,7401;4(diš)   ri-gi mušen   ZA71,48 YBC166462. 
+ [2004]  N. Veldhuis, Nanše277. [1981]  D. Owen, ZA7133-34. riĝeš  [BIRD] (1 instances) riĝeš  [BIRD]  (1x: Old Babylonian)  wr.  ri-ĝiš mušen  "a bird" [1] 
+cuneiform RI.GIŠ.HU ri-ĝiš mušen +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a bird  (1x/100%) ~  LEX/Old Babylonian/Nippur   ri-ĝiš mušen   OB Nippur Ura4 Seg.6,137'. 
+ riĝir  [OBJECT] riĝir  [OBJECT]  wr.  ri2-gir2  "a metal object" [1] 
+cuneiform URU.GIR₂ ri2-gir21.  a metal object rinara  [UNMNG] rinara  [UNMNG]  wr.  rin5-na-ra  "?" [1] 
+cuneiform LU₂@s.NA.RA rin5-na-ra1.  ? [1989]  P. Steinkeller, SDU325. RU  [ARCHITECTURE] (4 instances) RU  [ARCHITECTURE]  (4x: ED IIIb, Old Babylonian)  wr.  RU  "architectural feature" [1] 
+cuneiform RU RU +-0 (4x/100% ) .350030002500200015001000 (no date) [1]214 distinct forms attested; click to view forms table.1.  architectural feature  (4x/100%) ~  unknown/ED IIIb/Nippur   
+ lu2 
+ x   RU-a-zu   ASJ16, p.43-46 prism x5. 
+ unknown/ED IIIb/unknown   
+ x 
+ x   RU #-a   FAOS15/2, p.726,126 o i4. 
+ See ETCSL:  RU=architectural feature . rugu  [WITHSTAND] (32 instances) rugu  [WITHSTAND]  (32x: ED IIIb, Lagash II, Ur III, Old Babylonian)  wr.  ru-gu2  "to withstand; to sail upstream" Akk.  mahāru See  gaba rugu[oppose] ,  igi rugu[oppose] ,  šu rugu[oppose] . [1] 
+cuneiform RU.GU₂ ru-gu2 +-0 (32x/100% ) .350030002500200015001000 (no date) [1]281214 distinct forms attested; click to view forms table.1.  to withstand  (32x/100%) ~  LEX/Old Babylonian/unknown   
+ lu2 
+ ma2   ru-gu2  =  
+ ša 
+ ma-hi-ir-tim   OB Lu-Azlag A304. 
+ ELA/ED IIIb/Girsu6(aš@c) 
+ geš hašhur 
+ geš   ru-gu2-ba-ka   VS14,057 o ii1. 
+ ELA/Ur III/Girsu   
+ geš geštu tug2-ga   ru-[gu2]   MCS4,018102. 
+ ELA/Ur III/Umma   
+ geš tug2-ga   ru-gu2   MCS8,90, BM1055444; 
+ 
+ geš tug2-ga   ru-gu2-dam   NATN2344; 
+ 
+ geš-du3-ga   ru-gu2-dam   NATN2392;1(diš) 
+ ud5 
+ d šul-gi-ra-gaba   ru-gu2-de3-am3 
+ bi2-du11 
+ ba-an-tag   OrSP06,60 Wengler503. 
+ ELA/Ur III/unclear   
+ geš tug2-ga   ru-gu2   Orient16,1071721; 
+ 
+ geš-tug2 geštu-ga   ru #-gu2   TSU1052. 
+ unknown/ED IIIb/Girsu6(aš@c) 
+ geš hašhur 
+ geš   ru-gu2-ba-ka   DP418 o ii1.2.  to sail upstream Akk.  mahāru  "to face, confront; oppose; receive" . [1990]  T. Krispijn, Akkadica706. See ETCSL:  ru-gu2 =to face . rum  [PERFECT] (3 instances) rum  [PERFECT]  (3x: Ur III, Old Babylonian)  wr.  rum  "perfect, ideal" Akk.  gitmālu [1] 
+cuneiform AŠ rum +-0 (3x/100% ) .350030002500200015001000 (no date) [1]121 distinct form attested; click to view forms table.1.  perfect, ideal  (3x/100%) ~  ELA/Ur III/Umma1(geš2 )2(u) 
+ sa 
+ gi   rum   Ontario2,2051. 
+ unknown/Old Babylonian/unknown   [[rum]] =   =  
+ AŠ  =  
+ we-e-du   MSL09,124-137 vii439; 
+ [[rum]] =   =   =  
+ gi-it-ma-lum   MSL09,124-137 vii440. 
+ Akk.  gitmālu  "perfect, ideal?" . ruruburu  [BIRD] (1 instances) ruruburu  [BIRD]  (1x: ED IIIa)  wr.  ru-ru-buru5 mušen  "a bird" [1] 
+cuneiform RU.RU.NAM@n.HU ru-ru-buru5 mušen +-0 (1x/100% ) .350030002500200015001000 (no date) [1]11 distinct form attested; click to view forms table.1.  a bird  (1x/100%) ~  LEX/ED IIIa/unknown   ru-ru-buru5 mušen   ED Birds114. 
+ 
+ePSD icon   ePSD  
+	  contacts:  Steve 
+          Tinney  and  Philip Jones .
+ 

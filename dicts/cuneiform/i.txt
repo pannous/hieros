@@ -1,821 +1,1092 @@
 
-
-ePSD Sumerian Citation Form Index
-
-I
-
-i
-i [CLOTHING] wr. i6 "clothing, garment" Akk. lubuštu
-i [HEY!] wr. i "(vocative exclamation), hey!"
-i [OIL] wr. i3; u5; u2 "oil; butter; container for oil" Akk. tallum; šamnu
-
-i sur
-i sur [MAKE OIL] wr. i3 sur "to make oil"
-
-ia
-ia [OH!] wr. i3-a; i-a; ia4 "(an exclamation), oh!"
-
-i'ab
-i'ab [GHEE] wr. i3-ab2 "ghee, clarified butter"
-
-i'abdea
-i'abdea [GHEE] wr. i3-ab2-de2-a "ghee, clarified butter"
-
-i'absiga
-i'absiga [GHEE] wr. i3-ab2-sig10-ga "ghee, clarified butter"
-
-ib
-ib [ANGRY] wr. ib2 "(to be) angry; to curse" Akk. agāgu; arāru
-ib [HIPS] wr. ib2 "hips; middle" Akk. qablu
-
-IB
-IB [PROFESSION] wr. IB "a profession"
-
-iba
-iba [RATION] wr. i3-ba "ration" Akk. piššatu
-
-ibadu
-ibadu [GARMENT] wr. tug2ib2-du3; ib2-ba-du3tug2; ib2-du3tug2 "a garment"
-
-ibbaru
-ibbaru [HARNESS] wr. ib2-ba-ru; tug2ib2-ba-ru; kušib2-ba-ru "harness"
-
-ibi
-ibi [SMOKE] wr. i-bi2; i3-bi2; ibbi; ibbix(NE) "smoke" Akk. qutru
-
-ibila
-ibila [HEIR] wr. ibila; i3-bi2-la; ibila2; i3-bi-lu "heir" Akk. aplu
-
-ibilu
-ibilu [UTTERANCE] wr. i-bi-lu "utterance, saying; pronounciation" Akk. hittu; tēltu
-
-ibira
-ibira [MERCHANT] wr. ibira; ibira2 "merchant, businessman" Akk. tamkāru
-
-ibiza
-ibiza [LOSS] wr. i3-bi2-za; i-bi2-za "financial loss" Akk. ibbissû
-
-ibkud
-ibkud [CRIPPLE] wr. ib2-kud "cripple"
-
-ibla
-ibla [BELT] wr. kušib2-la2; tug2ib2-la2 "belt"
-
-ibsi
-ibsi [ENOUGH!] wr. ib2-si "enough! (lit. "it is enough")" Akk. maşi
-ibsi [SQUARE] wr. ib2-si8; ib2-si; ib-si2 "square (math.); square root (math.)" Akk. mithartum
-
-ibtag
-ibtag [REMAINDER] wr. ib2-tag4 "remainder" Akk. šittu
-
-IBUM
-IBUM [OBJECT] wr. IB2.UM "a metal object?"
-
-id
-id [RIVER] wr. id2; id3; id6; id7; id5 "river, watercourse, canal" Akk. nāru
-
-idgurum
-idgurum [LADLE?] wr. id-gurum; urudid-gurum "ladle?" Akk. itqūru
-
-idib
-idib [THRESHOLD] wr. i-dib; i-dub "threshold" Akk. askuppu
-
-IDIB
-IDIB [~IRRIGATION] wr. ĝešI.DIB "an irrigation device"
-
-idigna
-idigna [BIRD] wr. idignamušen; id2idignamušen "a bird"
-
-idim
-idim [BLOCKED] wr. idim "(to be) blocked, stilted; (to be) obtuse, deaf; simple person, imbecile; weak, helpless (person)" Akk. sakku; saklu; ulālu
-idim [HEAVY] wr. idim "(to be) heavy; (to be) important" Akk. kabtu
-idim [SPRING] wr. idim "spring, underground water" Akk. nagbu
-idim [WILD] wr. idim "wild, furious" Akk. ekdu
-
-idlurugu
-idlurugu [ORDEAL RIVER] wr. id2-lu2-ru-gu2 "ordeal river"
-
-idu
-idu [DOORKEEPER] wr. i3-du8 "doorkeeper" Akk. atû
-idu [LOCUS] wr. i3-du7 "a cultic room" Akk. tā'u
-
-idub
-idub [GRANARY] wr. i3-dub "granary" Akk. našpaku
-
-ig
-ig [DOOR] wr. ĝešig; ig "door" Akk. daltu
-
-ig gub
-ig gub [OPEN?] wr. ĝešig gub "to let a door stand open?; to dislodge a door"
-
-igen
-igen [BUT NO] wr. i3-ge-en; i3-ge4-en ""but no""
-
-igešgen
-igešgen [FOREMOST] wr. igi-še3-gin "foremost"
-
-igi
-igi [EYE] wr. igi; i-bi2; i-gi "eye; carved eye (for statues)" Akk. īnu
-igi [FACE] wr. igi; i-bi2; igi3; i-gi "first, earlier; front; face" Akk. mahrum; pānû
-igi [QUALITY] wr. i-gi8 "a quality of a vessel or a tablet"
-igi [~MATHEMATICS] wr. igi "a mathematical term (math.)"
-
-igi bad
-igi bad [OPEN THE EYES] wr. igi bad "'to open the eyes'" Akk. ?
-
-igi bar
-igi bar [LOOK AT] wr. igi bar "to look at" Akk. amāru; barû; naplusu
-
-igi dub
-igi dub [UNMNG] wr. igi dub2 "?"
-
-igi duh
-igi duh [SEE] wr. igi duh "to see" Akk. amāru; naplusu; naţālu
-
-igi gid
-igi gid [LOOK WITH DISFAVOR] wr. igi gid2 "to look with disfavor" Akk. nekelmû
-
-igi gub
-igi gub [SEE] wr. igi gub "to see" Akk. ?
-
-igi ĝal
-igi ĝal [LOOK AT] wr. igi gal2 "to look at" Akk. dagālu
-
-igi ĝar
-igi ĝar [APPEAR] wr. igi ĝar "to appear (in court)" Akk. ?
-igi ĝar [LOOK AT] wr. igi ĝar "to look at" Akk. ?
-
-igi hulu
-igi hulu [LOOK WITH ENVY] wr. igi hul "to look with envy" Akk. ?
-
-igi il
-igi il [LOOK] wr. igi il2 "to look at/towards" Akk. našû ša īni
-
-igi kar
-igi kar [EXAMINE] wr. igi kar2 "to examine" Akk. barû
-
-igi la
-igi la [WATCH] wr. igi la2 "to watch" Akk. naţālu
-
-igi lib
-igi lib [AWAKE] wr. igi lib; igi lib4 "to be awake" Akk. dalāpu
-
-igi rugu
-igi rugu [OPPOSE] wr. igi ru-gu2 "to oppose" Akk. ?
-
-igi sag
-igi sag [LOOK AT WITH FAVOR] wr. igi sag9 "to look at with favor" Akk. ?
-
-igi saĝ
-igi saĝ [CHOOSE] wr. igi saĝ5; igi saĝ; igi zag; igi sig5? "to choose; to sort" Akk. bêru; nasāqu
-
-igi saĝki zalag bar
-igi saĝki zalag bar [LOOK FAVORABLY] wr. igi saĝ-ki zalag bar "to look favorably"
-
-igi sig
-igi sig [SEE] wr. igi sig10 "to see" Akk. amāru; naplusu
-
-igi suh
-igi suh [ANGRY] wr. igi suh "to be angry" Akk. nekelmû
-igi suh [CHOOSE] wr. igi suh "to choose" Akk. nasāqu
-
-igi tab
-igi tab [LOOK AT] wr. igi tab "to look at" Akk. barû
-
-igi tum
-igi tum [SPY] wr. igi tum3 "to spy" Akk. šapātu
-
-igi tum la
-igi tum la [SPY] wr. igi tum3 la2 "to spy" Akk. šapātu
-
-igi tur gid
-igi tur gid [DESPISE] wr. igi tur gid2 "to look contemptuously at someone" Akk. ?
-
-IGI.IGI
-IGI.IGI [THIEF] wr. IGI-IGI "thief"
-
-IGI.IGI.IGI
-IGI.IGI.IGI [THIEF] wr. IGI-IGI-IGI "thief"
-
-IGI.suhur
-IGI.suhur [FISH] wr. IGI-suhurku6 "a fish"
-
-igibarra
-igibarra [SCOUT] wr. igi-bar-ra "scout"
-
-igibi
-igibi [~MATHEMATICS] wr. igi-bi "a mathematical term (math.)" Akk. igibû
-
-igid
-igid [DIVINATION?] wr. i3-gid2 "divination?"
-
-igidu
-igidu [GIFT] wr. igi-du8 "audience gift" Akk. tāmartu
-
-igidua
-igidua [PRIESTESS] wr. igi-du8-a "a priestess"
-
-IGIESIR
-IGIESIR [~BITUMEN] wr. IGI.ESIR2 "designation of bitumen"
-
-IGIgi
-IGIgi [PLANT] wr. IGI-gi4; IGI-gi4sar "a plant"
-
-igigig
-igigig [DISEASE] wr. igi-gig "eye disease"
-
-igigubbu
-igigubbu [COEFFICIENT] wr. igi-gub-bu "coefficient"
-
-igigudak
-igigudak [SHAPE] wr. igi-gud "a geometric shape" Akk. īn alpi
-
-igiguddu
-igiguddu [BIRD] wr. igi-gud-du7mušen "a bird"
-
-igigula
-igigula [DISEASE] wr. igi-gu-la2-e "a disease"
-
-igiĝal
-igiĝal [SIGN] wr. ĝešigi-ĝal2 "sign, signal" Akk. şaddu
-igiĝal [UNIT] wr. ĝešigi-ĝal2 "unit of length" Akk. ammatu
-igiĝal [WEAPON] wr. ĝešigi-ĝal2 "siege weapon" Akk. mekû
-igiĝal [WISE] wr. igi-ĝal2 "wise"
-igiĝal [~PLOW] wr. ĝešigi-ĝal2 "a designation of plows" Akk. nabrītu
-
-igiĝaltuku
-igiĝaltuku [WISE] wr. igi-ĝal2-tuku "wise, clever" Akk. emqu
-
-igiĝeštinak
-igiĝeštinak [BIRD] wr. igi-ĝeštin-namušen; igi-ĝeštin-na "a bird?"
-
-IGIKAK
-IGIKAK [UNMNG] wr. |IGI.KAK| "?"
-
-igikal
-igikal [SCOWLING] wr. igi-kal "scowling" Akk. akşu; šakşu
-
-igikar
-igikar [PROVISIONS] wr. igi-kar2 "provisions, supplies" Akk. aširtu
-
-igila
-igila [BIRD] wr. igi-la2mušen "a bird"
-
-igimušenak
-igimušenak [BIRD] wr. igi-mušen-namušen "a bird"
-
-iginiĝin
-iginiĝin [DEVASTATION] wr. igi-niĝin2 "devastation, ruin" Akk. arbūtu
-
-iginim
-iginim [LAND] wr. igi-nim "upper land" Akk. mātu elītu
-
-iginimbarhuz
-iginimbarhuz [DISEASE] wr. igi-bar-huz; igi-bar-nim-huz "a disease"
-
-iginita
-iginita [BIRD] wr. igi-nitamušen "a bird"
-
-iginudu
-iginudu [BLIND] wr. igi-nu-du8 "a type of worker; blind" Akk. lā naţālu
-
-iginuĝal
-iginuĝal [BLIND] wr. igi-nu-ĝal2 "blind"
-
-iginzu
-iginzu [AS IF] wr. i-gi4-in-zu; i-gi4-in-zu7; i-gi-in-zu; i3-gi4-in-zu "as if" Akk. mindê
-
-igira
-igira [HERON] wr. igira2mušen; i3-gi4-ramušen; igirax(|KI.KA.SAL|)mušen; i-gi-ramušen "heron" Akk. igirû
-
-igisigsig
-igisigsig [BIRD] wr. igi-sig7-sig7mušen "a bird"
-igisigsig [JAUNDICE] wr. igi-sig7-sig7 "jaundice" Akk. awurriqānu
-
-igištu
-igištu [FOREMOST] wr. igištu "first and foremost, pre-eminent" Akk. ašarēdu
-
-igitab
-igitab [BLINKERS?] wr. igi-tab "blinkers?"
-igitab [BLINKERS] wr. kušigi-tab "(donkey) blinkers"
-
-igiten
-igiten [FRACTION] wr. igi-te-en; i-gi4-te "fraction (math.); proportion" Akk. igitennum
-igiten [MESH] wr. igi-te-en "mesh" Akk. itannu
-
-igitumla
-igitumla [UNMNG] wr. igi-tum3-la; igi-tum3-la2 "?"
-
-IGIX
-IGIX [BOAT-PART] wr. ĝešIGI.X "part of boat"
-
-igizag
-igizag [DISEASE] wr. igi-zag3 "a disease"
-
-igizalag
-igizalag [EVENING WATCH] wr. igi-zalag "evening watch"
-
-igizalsur
-igizalsur [SMILE] wr. igi-zal-sur "smile"
-
-igšur
-igšur [BOLT] wr. ig-šu-ur2; ĝešig-šu-ur2; ĝešig-šu-ur? "bolt" Akk. mēdelu
-
-iĝar
-iĝar [ORACLE] wr. i5-ĝar "oracular utterance" Akk. egirrû
-
-iĝeš
-iĝeš [OIL] wr. i3-ĝeš "oil"
-
-ihenunak
-ihenunak [OIL] wr. i3-he-nun-na; i3-he-nun "precious oil" Akk. ihenunnakku
-
-i'ira
-i'ira [OIL] wr. i3-ir-a "scented oil"
-
-i'iz
-i'iz [NUMEROUS] wr. i-iz "(to be) numerous" Akk. mādu
-i'iz [SEED] wr. i-iz "seed" Akk. zēru
-
-ikimar
-ikimar [SIGN] wr. i-ki-mar "sign, signal" Akk. şaddu
-
-iku
-iku [UNIT] wr. iku "a unit of area; a unit of volume" Akk. ikû
-
-il
-il [BASKET] wr. ĝešil2 "a basket"
-il [BIRD] wr. il2mušen; al.URU.mušen "a bird"
-il [RAISE] wr. il2; il5; il2li2 "to raise, carry" Akk. našû
-il [TAX] wr. il2 "a tax"
-il [WORKER] wr. il2 "a worker"
-
-IL
-IL [FISH] wr. ILku6 "type of fish"
-
-ila
-ila [ELEVATION] wr. il2-la; il2-la2 "elevation" Akk. mūlû
-
-ilalum
-ilalum [SONG] wr. i3-la-lum "a song"
-
-ildag
-ildag [POPLAR] wr. ĝešildag2; ĝešildag4; ildag2; ĝešildag3; ĝešildag; ĝešildagx "a poplar" Akk. adāru; ildakku
-
-ildum
-ildum [BAND] wr. ildum2; ildum "clan; band, cohorts, troops, reinforcements, help, caravan; dog pack" Akk. illātu; illatşâbi; piqittişâbi; illat kalbi
-
-ili
-ili [MAN] wr. i3-li2 "man" Akk. amēlu
-
-ilianum
-ilianum [TREE] wr. u2i-li-in-nu-uš; ĝešri2-a-num2; ĝeši-li-a-nu-um; ĝeši-li-a-num2; ĝeše-la-nu-um; ĝeši-li-in-nu-um; ĝeši-ri-a-nu-um; ĝeši-ri2-a-num2; u2i-li-a-num "a tree" Akk. erānu
-
-ilila
-ilila [LEVER] wr. ĝešil2-il2; ĝešil2-la2; ĝešil2 "lever" Akk. habbiru; naššû
-
-ilim
-ilim [RADIANCE] wr. i-lim "radiance; deathly silence" Akk. šalummatu; šaqummatu
-
-ilimmu
-ilimmu [NINE] wr. ilimmu "nine"
-
-illalum
-illalum [SONG] wr. il-la-lum "a song"
-
-illar
-illar [BALL] wr. ĝešillar; illar "wooden ball" Akk. pukku
-illar [WEAPON] wr. ĝešillar; illar "a weapon: bow? throwstick? javelin?; a geometric figure" Akk. tilpānu
-
-illu
-illu [SONG] wr. il-lu "a song"
-illu [WATER] wr. illu "water; source, spring; waterlogging?; flood waters" Akk. mû; mīlu; namba'u; zâbu
-
-illur
-illur [TREE] wr. ĝešil-lu-ur "a tree" Akk. zanzaliqqu
-
-ilu
-ilu [GOD] wr. ilu "god" Akk. ilu
-ilu [SONG] wr. i-lu "joyful song; lament" Akk. niûtu; qubû
-
-ILU
-ILU [~IRRIGATION] wr. ĝešI.LU "an irrigation device"
-
-iluali
-iluali [MOURNER] wr. i-lu-a-li "mourner" Akk. lallāru
-
-ilulamma
-ilulamma [SONG] wr. i-lu-lam-ma; i3-lu-lam-ma "a song"
-
-ilulu
-ilulu [SONG] wr. i-lu-lu "a song"
-
-ilum
-ilum [SONG] wr. i3-lum "a song"
-
-ilur
-ilur [TREE] wr. ĝešil-ur2 "a tree"
-
-im
-im [CLAY] wr. im "clay, mud; tablet" Akk. ţīdu; ţuppu
-im [RAIN] wr. im; me-er "rain, rain storm" Akk. zunnu; šāru
-im [RUN] wr. im2 "to run" Akk. šānû
-
-ima
-ima [STORM?] wr. im-a "storm?"
-
-imanak
-imanak [STONE] wr. na4im-ma-an "a stone; a type of sand" Akk. immanakku
-
-imba
-imba [DEFICIT] wr. im-ba "deficit"
-
-imbabbar
-imbabbar [GYPSUM] wr. im-babbar2; im-babbar "gypsum" Akk. gaşşu
-
-imbasur
-imbasur [SHIVERING] wr. im-ba-sur "shivering, cramp" Akk. ra'ību
-
-imbaX
-imbaX [ILLNESS] wr. im-ba-X "type of illness"
-
-imbaXX
-imbaXX [ILLNESS] wr. im-ba-X-X "type of illness"
-
-imBUBU
-imBUBU [HOD-CARRIER] wr. im-BU-BU "hod-carrier"
-
-imdu
-imdu [DEW] wr. im-du8 "dew"
-
-imdua
-imdua [WALL] wr. im-du3-a; im-du8-a "mud wall" Akk. pitqu; pitiqtu
-
-imdug
-imdug [SHOT] wr. im-dug; im-du-ug; im-tak4 "clay sling shot"
-
-imdumu
-imdumu [SEALING] wr. kušim-du5-mu "leather sealing"
-
-imeri
-imeri [UNMNG] wr. imerix(GIR3) "?" Akk. ?
-
-imĝaĝa
-imĝaĝa [EMMER] wr. imĝaĝa3; imĝaĝa; imĝaĝa2; imĝaĝax(|AŠ2.A|) "emmer beer; emmer" Akk. dišiptuhhu; kunāšu
-
-imhul
-imhul [WIND] wr. im-hul "destructive wind" Akk. imhullu
-
-imhur
-imhur [FOAM] wr. imhur4; imhur2; imhur3 "foam on water; foam on beer; foam on milk" Akk. hurhummat mê; hurhummat šikāri; hurhummat šizbi
-
-imin
-imin [SEVEN] wr. imin "seven"
-
-imittu
-imittu [SPEAR] wr. i-mi-tum; urudi-mit-tu2; urudi-mi-it-tum "a spear" Akk. imittu
-
-imittum
-imittum [JEWELRY] wr. na4i-mit-tum "an item of jewelry" Akk. imittu
-
-imkid
-imkid [PIECE] wr. im-kid2 "piece" Akk. kirşu
-
-imlag
-imlag [PELLET] wr. im-lag "pellet"
-
-imma
-imma [LAST YEAR] wr. im-ma "last year" Akk. šaddaqdim
-imma [PHYSIOGNOMY] wr. imma3 "physiognomy, (facial) features" Akk. bunnannu
-imma [VULVA] wr. im-ma "vulva" Akk. guruš-garaš
-
-immaDU
-immaDU [ADVANCE?] wr. im-ma-DU "advance?"
-
-immal
-immal [COW] wr. immal2; im-ma-al; immal; immalx(|NUN.LAGAR|) "wild cow; cow" Akk. arhu; littu
-immal [PROPERTY] wr. immal3 "(to be) very plentiful; goods, property, possessions, livestock" Akk. būšu; makkûru; maršītu; ţuhhudu
-
-immen
-immen [THIRST] wr. immen; immen2 "to thirst; thirst" Akk. şamû; şūmu
-
-immindu
-immindu [OVEN] wr. immindu; immindu2; im-tu-na "oven" Akk. tinūru
-
-imminte
-imminte [THIRST] wr. immen2-ti; imminte "thirst" Akk. laplaptu
-
-imna
-imna [PEBBLE] wr. im-na4na; na4im-na "clay pebble"
-
-imNIsahar
-imNIsahar [CLAY] wr. im-NI-sahar "type of clay"
-
-imria
-imria [CLAN] wr. im-ri-a; im-ru-a; im-ru "clan" Akk. kimtu
-
-imsaĝ
-imsaĝ [TUFT] wr. im-saĝ-ĝa2 "tuft" Akk. imtanû
-
-IMŠEŠ
-IMŠEŠ [RAINBOW?] wr. IM.ŠEŠ "rainbow?"
-
-imšuk
-imšuk [COVERING?] wr. im-si; im-šu; im-šu2 "clay covering?" Akk. imšukku
-imšuk [TABLET] wr. im-šu "a small tablet" Akk. qātu
-
-IMUD
-IMUD [CLOUD?] wr. IM.UD "cloud?"
-
-in
-in [ABUSE] wr. in; e-mu "abuse" Akk. pištu
-in [SECTOR] wr. in "sector" Akk. pilku
-
-in dub
-in dub [DELIMIT] wr. in dub "to delimit, fix a boundary" Akk. palāku
-in dub [INSULT] wr. in dub2 "to insult" Akk. ?
-
-inana
-inana [PLANT] wr. dinanasar "a plant"
-
-inanna
-inanna [ENTREATY] wr. i-nanna "a divine entreaty"
-
-inbir
-inbir [CONFLICT] wr. inbir "conflict, war" Akk. ippīru
-
-inbulbul
-inbulbul [CHAFF?] wr. in-bul5-bul5 "an agricultural product, chaff?, hay?, straw?"
-
-inda
-inda [TUBE] wr. inda2 "tube"
-
-indal
-indal [CHAFF] wr. in-dal "chaff"
-
-induba
-induba [BOUNDARY] wr. in-dub-ba; im-dub-ba "boundary; demarcated zone" Akk. pilku
-
-ineš
-ineš [NOW] wr. i3-ne-eš2 "now" Akk. inanna
-
-ingi
-ingi [PLANT] wr. in-gi4sar; in-gi4 "a plant"
-
-inĝar
-inĝar [COLON] wr. in-ĝar "colon" Akk. paršu
-
-inim
-inim [WORD] wr. inim; e-ne-eg3 "word; matter (of affairs)" Akk. amatu
-
-inim bala
-inim bala [CONVERSE] wr. inim bala "to converse; to translate; to speak; to twitter" Akk. ?; awûm
-
-inim gi
-inim gi [ANSWER] wr. inim gi4 "to answer; to contest" Akk. ?
-
-inim gin
-inim gin [CONFIRM] wr. inim ge-en "to confirm"
-
-inim ĝal
-inim ĝal [SUE] wr. inim ĝal2 "to sue, make a claim" Akk. baqāru
-
-inim ĝar
-inim ĝar [SUE] wr. inim ĝar; inim ga2-ga2 "to sue, to make a legal claim" Akk. baqāru; ragāmu
-
-inim hulu
-inim hulu [INSULT] wr. inim hul "to insult" Akk. ?
-
-inim sig
-inim sig [EXPRESS] wr. inim sig10 "to express an idea, desire" Akk. ?
-
-inim šar
-inim šar [DISCUSS] wr. inim šar2-šar2 "to discuss" Akk. amātu šutābulu
-
-inimbalbal
-inimbalbal [BIRD] wr. inim-bal-balmušen "a bird"
-
-inimdug
-inimdug [PEACE] wr. inim-dug3 "peace, reconciliation with the gods" Akk. salīmu
-
-inimĝal
-inimĝal [CLAIM] wr. inim-ĝal2 "claim" Akk. baqru
-inimĝal [ELOQUENT] wr. inim ĝal2 "eloquent"
-
-inimtil
-inimtil [STATEMENT] wr. inim-til "concluding statement" Akk. kušurrā'um
-
-inna
-inna [FLEECE] wr. inna "fleece" Akk. itqu
-
-innin
-innin [LADY] wr. in-nin; in-nin9 "lady"
-
-innu
-innu [STRAW] wr. in; in-nu; in-u-da "straw" Akk. tibnu
-
-innuHA
-innuHA [BARLEY] wr. in-nu-HA; še.in-nu-HA "a type of barley" Akk. enninu
-
-innuri
-innuri [STRAINER] wr. in-nu-ri "strainer"
-
-innuš
-innuš [PLANT] wr. in-nu-uš2 "a plant" Akk. maštakal
-
-innušugura
-innušugura [CHOPPER] wr. ĝešin-nu-šu-gur10-a "straw chopper"
-
-inti
-inti [WAY] wr. in-ti; en-ti "way, path" Akk. alaktu
-
-inun
-inun [GHEE] wr. i3-nun "ghee, clarified butter"
-
-inunduga
-inunduga [GHEE] wr. i3-nun-dug3-ga "good quality ghee"
-
-inunHA
-inunHA [GHEE] wr. i3-nun-HA "good quality ghee"
-
-ir
-ir [CVVE] wr. ir "(compound verb verbal element)"
-ir [MIGHTY] wr. ir9; ir3 "mighty" Akk. gašru
-ir [PEG] wr. ĝešir "peg" Akk. irru
-ir [PLUNDER] wr. ir "to plunder" Akk. šalālu
-ir [SAYING] wr. ir3 "saying" Akk. tēltu
-ir [SCENT] wr. ir; ir7 "smell, scent; sweat, exudation" Akk. erešu; zūtu
-ir [TREE] wr. ir "type of tree" Akk. armannu
-
-irani
-irani [BIRD] wr. ir-nimušen; i-ra2-nimušen "a bird" Akk. ?
-
-irara
-irara [OIL-PRESSER] wr. i3-ra2-ra2 "oil-presser"
-
-irdam
-irdam [PIG-STY] wr. ir-dam "pig-sty" Akk. irritu
-
-irgi
-irgi [FEET] wr. irgi "lamed feet" Akk. šēpā kubbulātu
-
-irgilum
-irgilum [LOCUST] wr. ir-gi-lum "locust"
-
-irhandi
-irhandi [SORCERER] wr. irhandi "sorcerer" Akk. āšipu
-
-iri
-iri [CITY] wr. iri; iriki; uru2; uru11; iri11 "city" Akk. ālu
-iri [DISEASE] wr. iri8 "a disease" Akk. rapādu
-iri [HIGH] wr. i-ri "(to be) high" Akk. šaqûm
-iri [MAKE MANIFEST] wr. i-ri "to make manifest; to become" Akk. emû; šūpû
-
-irib
-irib [UNMNG] wr. irib2 "?" Akk. ?
-
-iribad
-iribad [CITY] wr. iri-bad3; uru2-bad3 "high city"
-
-iribala
-iribala [CITY] wr. iri-bala "rebel town"
-
-iriDU
-iriDU [WORKER] wr. iri-DU "a category of worker"
-
-iri'en
-iri'en [NOTATION] wr. iri-en "notation"
-
-irigal
-irigal [UNDERWORLD] wr. irigal; iri-gal; urugal2 "earth, land; underworld; grave" Akk. erşetu; qabru
-
-irihulua
-irihulua [BIRD] wr. iri-hulu-amušen; iri-gulmušen; mušeniri-gul "a bird" Akk. qadû
-
-irir
-irir [BIRD] wr. ir-irmušen; ri6-ri6mušen; RImušen "a bird" Akk. zibû
-
-iriršita
-iriršita [BIRD] wr. ir-ir-šita4mušen "a bird"
-
-irituš
-irituš [CITY] wr. iri-tuš "populated city" Akk. ?
-
-irku
-irku [UNMNG] wr. ĝešir-ku5 "" Akk. irkû
-
-irkun
-irkun [BIRD] wr. ir-kunmušen "a bird"
-
-irpag
-irpag [PLOT] wr. ir-pag "plot"
-
-irsaĝ
-irsaĝ [PIGEON] wr. KASKALmušen; ir7-saĝmušen "pigeon" Akk. uršānu
-
-irsim
-irsim [FRAGRANCE] wr. ir-si-im; ir-sim "fragrance" Akk. erešu
-
-ir'usa
-ir'usa [ABSENT] wr. ir-us2-sa "(to be) absent"
-
-ishab
-ishab [ROGUE] wr. lu2is-hab2; lu2aš-hab "rogue, rude person" Akk. ishappu
-
-ishu
-ishu [ALLOCATION] wr. is-hu "allocation? string?" Akk. ishu
-
-isim
-isim [AROMATIC] wr. isim3 "an aromatic substance" Akk. riqū
-isim [FATTENER] wr. isim3 "animal fattener" Akk. mārû
-
-isimu
-isimu [SPROUT] wr. isimu2mu2; isimu3mu2 "stalk, sprout, shoot" Akk. isimû; per'um
-
-isin
-isin [STALK] wr. išin; i3-si-na; e-si-na; isinx(|ŠE.IGI.TUR|); isim2; isim3 "culm, grain stalk, stem" Akk. išīnu
-
-isiš
-isiš [SORROW] wr. i-si-iš; isiš3 "to laugh; laughter; wailing, lamentation, sorrow; to whisper" Akk. dimmatu; nissatu; ratāmu; tassistu; şiāhu; şīhu
-
-isiš ĝar
-isiš ĝar [WAIL] wr. i-si-iš ĝar; i-si-iš ga2-ga2 "to wail" Akk. nasāsu
-
-isur
-isur [PRESSER] wr. i3-sur "oil-presser" Akk. şāhitu
-
-iš
-iš [MOUNTAIN] wr. iš "mountain(s)" Akk. šadû
-
-išah
-išah [LARD] wr. i3-šah2 "lard"
-
-išdum
-išdum [ROOT] wr. išdumx(|DU@g|) "root" Akk. išdu
-
-išgana
-išgana [PAYMENT] wr. iš-gana2 "an extra payment"
-
-iši
-iši [RADIANCE] wr. i-ši "radiance" Akk. šalummatum
-
-išib
-išib [PRIEST] wr. išib "sorcerer, magician; incantation priest, exorcist; (to be) pure; (to be) clear; a purification priest; incantation, spell" Akk. ellu; išippu; pašīšu; ramku; āšipu; šiptu
-
-išim
-išim [HUNGER] wr. u2-šim; i3-šim "hunger" Akk. berû
-
-išiu
-išiu [SILENCE] wr. i-ši-u5 "deathly silence" Akk. šaqummatu
-
-iškila
-iškila [PEBBLE] wr. iškila "pebble; a container" Akk. išqillatu
-
-išme
-išme [STONE] wr. urudiš-me "a stone" Akk. ešmekku
-
-išpatu
-išpatu [QUIVER] wr. iš-pa-tu; iš-pa-tum "quiver" Akk. išpatu
-
-itima
-itima [DARKNESS] wr. itima2; utima2 "darkness" Akk. eţûtu
-itima [SHRINE] wr. itima "shrine, chapel" Akk. kişşu
-itima [UNMNG] wr. i-ti-ma "?" Akk. ?
-
-itirda
-itirda [~DAIRY] wr. i3-ti-ir-da; ga.i3-te-er-da "a dairy product" Akk. ?
-
-itud
-itud [MOON] wr. itud; itudx(|UD.AN.ŠEŠ.KI|); i3-ti; iti7; i-ti; itudx(|UD@s|); itudx(|UD×BAD|) "month; moon" Akk. arhu
-
-i'udu
-i'udu [FAT] wr. i3-udu "sheep fat"
-
-i'utu
-i'utu [COMPLAINT] wr. i-utu; i-dutu "complaint" Akk. tazzimtu
-
-izaga
-izaga [OIL] wr. i3-zag-ga "oil"
-
-izi
-izi [FIRE] wr. izi; izi2 "fire; brazier" Akk. išātu; pendû
-izi [FISH] wr. i-ziku6 "a fish"
-izi [UNMNG] wr. i-zi "?" Akk. sirû
-
-izi dab
-izi dab [LIGHT] wr. izi dab5 "to light, set alight"
-
-izid
-izid [WALL] wr. iz-zi; i-zi "wall; wave" Akk. agû; igāru
-
-izidda
-izidda [SIDE-WALL] wr. iz-zi-da "side-wall"
-
-iziĝar
-iziĝar [TORCH] wr. izi-ĝar "torch" Akk. dipāru
-
-iziĝi'edena
-iziĝi'edena [ATMOSPHERIC PHENOMENON] wr. izi-ĝi6-eden-na "an atmospheric phenomenon" Akk. anqullu
-
-ePSD icon ePSD contacts: Steve Tinney and Philip Jones.
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ePSD Sumerian Citation Form Index 
+ I 
+ 
+ 
+ i 
+ i  [ CLOTHING ]  wr.  i6  "clothing, garment" Akk.  lubuštu 
+ i  [ HEY! ]  wr.  i  "(vocative exclamation), hey!" 
+ i  [ OIL ]  wr.  i3 ;  u5 ;  u2  "oil; butter; container for oil" Akk.  tallum ;  šamnu 
+ 
+ 
+ i sur 
+ i sur  [ MAKE OIL ]  wr.  i3  sur  "to make oil" 
+ 
+ 
+ ia 
+ ia  [ OH! ]  wr.  i3 -a ;  i-a ;  ia4  "(an exclamation), oh!" 
+ 
+ 
+ i'ab 
+ i'ab  [ GHEE ]  wr.  i3 -ab2  "ghee, clarified butter" 
+ 
+ 
+ i'abdea 
+ i'abdea  [ GHEE ]  wr.  i3 -ab2 -de2 -a  "ghee, clarified butter" 
+ 
+ 
+ i'absiga 
+ i'absiga  [ GHEE ]  wr.  i3 -ab2 -sig10 -ga  "ghee, clarified butter" 
+ 
+ 
+ ib 
+ ib  [ ANGRY ]  wr.  ib2  "(to be) angry; to curse" Akk.  agāgu ;  arāru 
+ ib  [ HIPS ]  wr.  ib2  "hips; middle" Akk.  qablu 
+ 
+ 
+ IB 
+ IB  [ PROFESSION ]  wr.  IB  "a profession" 
+ 
+ 
+ iba 
+ iba  [ RATION ]  wr.  i3 -ba  "ration" Akk.  piššatu 
+ 
+ 
+ ibadu 
+ ibadu  [ GARMENT ]  wr.  tug2 ib2 -du3 ;  ib2 -ba-du3 tug2 ;  ib2 -du3 tug2  "a garment" 
+ 
+ 
+ ibbaru 
+ ibbaru  [ HARNESS ]  wr.  ib2 -ba-ru ;  tug2 ib2 -ba-ru ;  kuš ib2 -ba-ru  "harness" 
+ 
+ 
+ ibi 
+ ibi  [ SMOKE ]  wr.  i-bi2 ;  i3 -bi2 ;  ibbi ;  ibbi x (NE)  "smoke" Akk.  qutru 
+ 
+ 
+ ibila 
+ ibila  [ HEIR ]  wr.  ibila ;  i3 -bi2 -la ;  ibila2 ;  i3 -bi-lu  "heir" Akk.  aplu 
+ 
+ 
+ ibilu 
+ ibilu  [ UTTERANCE ]  wr.  i-bi-lu  "utterance, saying; pronounciation" Akk.  hittu ;  tēltu 
+ 
+ 
+ ibira 
+ ibira  [ MERCHANT ]  wr.  ibira ;  ibira2  "merchant, businessman" Akk.  tamkāru 
+ 
+ 
+ ibiza 
+ ibiza  [ LOSS ]  wr.  i3 -bi2 -za ;  i-bi2 -za  "financial loss" Akk.  ibbissû 
+ 
+ 
+ ibkud 
+ ibkud  [ CRIPPLE ]  wr.  ib2 -kud  "cripple" 
+ 
+ 
+ ibla 
+ ibla  [ BELT ]  wr.  kuš ib2 -la2 ;  tug2 ib2 -la2  "belt" 
+ 
+ 
+ ibsi 
+ ibsi  [ ENOUGH! ]  wr.  ib2 -si  "enough! (lit. "it is enough")" Akk.  maşi 
+ ibsi  [ SQUARE ]  wr.  ib2 -si8 ;  ib2 -si ;  ib-si2  "square (math.); square root (math.)" Akk.  mithartum 
+ 
+ 
+ ibtag 
+ ibtag  [ REMAINDER ]  wr.  ib2 -tag4  "remainder" Akk.  šittu 
+ 
+ 
+ IBUM 
+ IBUM  [ OBJECT ]  wr.  IB2 .UM  "a metal object?" 
+ 
+ 
+ id 
+ id  [ RIVER ]  wr.  id2 ;  id3 ;  id6 ;  id7 ;  id5  "river, watercourse, canal" Akk.  nāru 
+ 
+ 
+ idgurum 
+ idgurum  [ LADLE? ]  wr.  id-gurum ;  urud id-gurum  "ladle?" Akk.  itqūru 
+ 
+ 
+ idib 
+ idib  [ THRESHOLD ]  wr.  i-dib ;  i-dub  "threshold" Akk.  askuppu 
+ 
+ 
+ IDIB 
+ IDIB  [ ~IRRIGATION ]  wr.  ĝeš I.DIB  "an irrigation device" 
+ 
+ 
+ idigna 
+ idigna  [ BIRD ]  wr.  idigna mušen ;  id2 idigna mušen  "a bird" 
+ 
+ 
+ idim 
+ idim  [ BLOCKED ]  wr.  idim  "(to be) blocked, stilted; (to be) obtuse, deaf; simple person, imbecile; weak, helpless (person)" Akk.  sakku ;  saklu ;  ulālu 
+ idim  [ HEAVY ]  wr.  idim  "(to be) heavy; (to be) important" Akk.  kabtu 
+ idim  [ SPRING ]  wr.  idim  "spring, underground water" Akk.  nagbu 
+ idim  [ WILD ]  wr.  idim  "wild, furious" Akk.  ekdu 
+ 
+ 
+ idlurugu 
+ idlurugu  [ ORDEAL RIVER ]  wr.  id2 -lu2 -ru-gu2  "ordeal river" 
+ 
+ 
+ idu 
+ idu  [ DOORKEEPER ]  wr.  i3 -du8  "doorkeeper" Akk.  atû 
+ idu  [ LOCUS ]  wr.  i3 -du7  "a cultic room" Akk.  tā'u 
+ 
+ 
+ idub 
+ idub  [ GRANARY ]  wr.  i3 -dub  "granary" Akk.  našpaku 
+ 
+ 
+ ig 
+ ig  [ DOOR ]  wr.  ĝeš ig ;  ig  "door" Akk.  daltu 
+ 
+ 
+ ig gub 
+ ig gub  [ OPEN? ]  wr.  ĝeš ig gub  "to let a door stand open?; to dislodge a door" 
+ 
+ 
+ igen 
+ igen  [ BUT NO ]  wr.  i3 -ge-en ;  i3 -ge4 -en  ""but no"" 
+ 
+ 
+ igešgen 
+ igešgen  [ FOREMOST ]  wr.  igi-še3 -gin  "foremost" 
+ 
+ 
+ igi 
+ igi  [ EYE ]  wr.  igi ;  i-bi2 ;  i-gi  "eye; carved eye (for statues)" Akk.  īnu 
+ igi  [ FACE ]  wr.  igi ;  i-bi2 ;  igi3 ;  i-gi  "first, earlier; front; face" Akk.  mahrum ;  pānû 
+ igi  [ QUALITY ]  wr.  i-gi8  "a quality of a vessel or a tablet" 
+ igi  [ ~MATHEMATICS ]  wr.  igi  "a mathematical term (math.)" 
+ 
+ 
+ igi bad 
+ igi bad  [ OPEN THE EYES ]  wr.  igi bad  "'to open the eyes'" Akk.  ? 
+ 
+ 
+ igi bar 
+ igi bar  [ LOOK AT ]  wr.  igi bar  "to look at" Akk.  amāru ;  barû ;  naplusu 
+ 
+ 
+ igi dub 
+ igi dub  [ UNMNG ]  wr.  igi dub2  "?" 
+ 
+ 
+ igi duh 
+ igi duh  [ SEE ]  wr.  igi duh  "to see" Akk.  amāru ;  naplusu ;  naţālu 
+ 
+ 
+ igi gid 
+ igi gid  [ LOOK WITH DISFAVOR ]  wr.  igi gid2  "to look with disfavor" Akk.  nekelmû 
+ 
+ 
+ igi gub 
+ igi gub  [ SEE ]  wr.  igi gub  "to see" Akk.  ? 
+ 
+ 
+ igi ĝal 
+ igi ĝal  [ LOOK AT ]  wr.  igi gal2  "to look at" Akk.  dagālu 
+ 
+ 
+ igi ĝar 
+ igi ĝar  [ APPEAR ]  wr.  igi ĝar  "to appear (in court)" Akk.  ? 
+ igi ĝar  [ LOOK AT ]  wr.  igi ĝar  "to look at" Akk.  ? 
+ 
+ 
+ igi hulu 
+ igi hulu  [ LOOK WITH ENVY ]  wr.  igi hul  "to look with envy" Akk.  ? 
+ 
+ 
+ igi il 
+ igi il  [ LOOK ]  wr.  igi il2  "to look at/towards" Akk.  našû ša īni 
+ 
+ 
+ igi kar 
+ igi kar  [ EXAMINE ]  wr.  igi kar2  "to examine" Akk.  barû 
+ 
+ 
+ igi la 
+ igi la  [ WATCH ]  wr.  igi la2  "to watch" Akk.  naţālu 
+ 
+ 
+ igi lib 
+ igi lib  [ AWAKE ]  wr.  igi lib ;  igi lib4  "to be awake" Akk.  dalāpu 
+ 
+ 
+ igi rugu 
+ igi rugu  [ OPPOSE ]  wr.  igi ru-gu2  "to oppose" Akk.  ? 
+ 
+ 
+ igi sag 
+ igi sag  [ LOOK AT WITH FAVOR ]  wr.  igi sag9  "to look at with favor" Akk.  ? 
+ 
+ 
+ igi saĝ 
+ igi saĝ  [ CHOOSE ]  wr.  igi saĝ5 ;  igi saĝ ;  igi zag ;  igi sig5 ?  "to choose; to sort" Akk.  bêru ;  nasāqu 
+ 
+ 
+ igi saĝki zalag bar 
+ igi saĝki zalag bar  [ LOOK FAVORABLY ]  wr.  igi saĝ-ki zalag bar  "to look favorably" 
+ 
+ 
+ igi sig 
+ igi sig  [ SEE ]  wr.  igi sig10  "to see" Akk.  amāru ;  naplusu 
+ 
+ 
+ igi suh 
+ igi suh  [ ANGRY ]  wr.  igi suh  "to be angry" Akk.  nekelmû 
+ igi suh  [ CHOOSE ]  wr.  igi suh  "to choose" Akk.  nasāqu 
+ 
+ 
+ igi tab 
+ igi tab  [ LOOK AT ]  wr.  igi tab  "to look at" Akk.  barû 
+ 
+ 
+ igi tum 
+ igi tum  [ SPY ]  wr.  igi tum3  "to spy" Akk.  šapātu 
+ 
+ 
+ igi tum la 
+ igi tum la  [ SPY ]  wr.  igi tum3  la2  "to spy" Akk.  šapātu 
+ 
+ 
+ igi tur gid 
+ igi tur gid  [ DESPISE ]  wr.  igi tur gid2  "to look contemptuously at someone" Akk.  ? 
+ 
+ 
+ IGI.IGI 
+ IGI.IGI  [ THIEF ]  wr.  IGI-IGI  "thief" 
+ 
+ 
+ IGI.IGI.IGI 
+ IGI.IGI.IGI  [ THIEF ]  wr.  IGI-IGI-IGI  "thief" 
+ 
+ 
+ IGI.suhur 
+ IGI.suhur  [ FISH ]  wr.  IGI-suhur ku6  "a fish" 
+ 
+ 
+ igibarra 
+ igibarra  [ SCOUT ]  wr.  igi-bar-ra  "scout" 
+ 
+ 
+ igibi 
+ igibi  [ ~MATHEMATICS ]  wr.  igi-bi  "a mathematical term (math.)" Akk.  igibû 
+ 
+ 
+ igid 
+ igid  [ DIVINATION? ]  wr.  i3 -gid2  "divination?" 
+ 
+ 
+ igidu 
+ igidu  [ GIFT ]  wr.  igi-du8  "audience gift" Akk.  tāmartu 
+ 
+ 
+ igidua 
+ igidua  [ PRIESTESS ]  wr.  igi-du8 -a  "a priestess" 
+ 
+ 
+ IGIESIR 
+ IGIESIR  [ ~BITUMEN ]  wr.  IGI.ESIR2  "designation of bitumen" 
+ 
+ 
+ IGIgi 
+ IGIgi  [ PLANT ]  wr.  IGI-gi4 ;  IGI-gi4 sar  "a plant" 
+ 
+ 
+ igigig 
+ igigig  [ DISEASE ]  wr.  igi-gig  "eye disease" 
+ 
+ 
+ igigubbu 
+ igigubbu  [ COEFFICIENT ]  wr.  igi-gub-bu  "coefficient" 
+ 
+ 
+ igigudak 
+ igigudak  [ SHAPE ]  wr.  igi-gud  "a geometric shape" Akk.  īn alpi 
+ 
+ 
+ igiguddu 
+ igiguddu  [ BIRD ]  wr.  igi-gud-du7 mušen  "a bird" 
+ 
+ 
+ igigula 
+ igigula  [ DISEASE ]  wr.  igi-gu-la2 -e  "a disease" 
+ 
+ 
+ igiĝal 
+ igiĝal  [ SIGN ]  wr.  ĝeš igi-ĝal2  "sign, signal" Akk.  şaddu 
+ igiĝal  [ UNIT ]  wr.  ĝeš igi-ĝal2  "unit of length" Akk.  ammatu 
+ igiĝal  [ WEAPON ]  wr.  ĝeš igi-ĝal2  "siege weapon" Akk.  mekû 
+ igiĝal  [ WISE ]  wr.  igi-ĝal2  "wise" 
+ igiĝal  [ ~PLOW ]  wr.  ĝeš igi-ĝal2  "a designation of plows" Akk.  nabrītu 
+ 
+ 
+ igiĝaltuku 
+ igiĝaltuku  [ WISE ]  wr.  igi-ĝal2 -tuku  "wise, clever" Akk.  emqu 
+ 
+ 
+ igiĝeštinak 
+ igiĝeštinak  [ BIRD ]  wr.  igi-ĝeštin-na mušen ;  igi-ĝeštin-na  "a bird?" 
+ 
+ 
+ IGIKAK 
+ IGIKAK  [ UNMNG ]  wr.  |IGI.KAK|  "?" 
+ 
+ 
+ igikal 
+ igikal  [ SCOWLING ]  wr.  igi-kal  "scowling" Akk.  akşu ;  šakşu 
+ 
+ 
+ igikar 
+ igikar  [ PROVISIONS ]  wr.  igi-kar2  "provisions, supplies" Akk.  aširtu 
+ 
+ 
+ igila 
+ igila  [ BIRD ]  wr.  igi-la2 mušen  "a bird" 
+ 
+ 
+ igimušenak 
+ igimušenak  [ BIRD ]  wr.  igi-mušen-na mušen  "a bird" 
+ 
+ 
+ iginiĝin 
+ iginiĝin  [ DEVASTATION ]  wr.  igi-niĝin2  "devastation, ruin" Akk.  arbūtu 
+ 
+ 
+ iginim 
+ iginim  [ LAND ]  wr.  igi-nim  "upper land" Akk.  mātu elītu 
+ 
+ 
+ iginimbarhuz 
+ iginimbarhuz  [ DISEASE ]  wr.  igi-bar-huz ;  igi-bar-nim-huz  "a disease" 
+ 
+ 
+ iginita 
+ iginita  [ BIRD ]  wr.  igi-nita mušen  "a bird" 
+ 
+ 
+ iginudu 
+ iginudu  [ BLIND ]  wr.  igi-nu-du8  "a type of worker; blind" Akk.  lā naţālu 
+ 
+ 
+ iginuĝal 
+ iginuĝal  [ BLIND ]  wr.  igi-nu-ĝal2  "blind" 
+ 
+ 
+ iginzu 
+ iginzu  [ AS IF ]  wr.  i-gi4 -in-zu ;  i-gi4 -in-zu7 ;  i-gi-in-zu ;  i3 -gi4 -in-zu  "as if" Akk.  mindê 
+ 
+ 
+ igira 
+ igira  [ HERON ]  wr.  igira2 mušen ;  i3 -gi4 -ra mušen ;  igira x (|KI.KA.SAL|) mušen ;  i-gi-ra mušen  "heron" Akk.  igirû 
+ 
+ 
+ igisigsig 
+ igisigsig  [ BIRD ]  wr.  igi-sig7 -sig7 mušen  "a bird" 
+ igisigsig  [ JAUNDICE ]  wr.  igi-sig7 -sig7  "jaundice" Akk.  awurriqānu 
+ 
+ 
+ igištu 
+ igištu  [ FOREMOST ]  wr.  igištu  "first and foremost, pre-eminent" Akk.  ašarēdu 
+ 
+ 
+ igitab 
+ igitab  [ BLINKERS? ]  wr.  igi-tab  "blinkers?" 
+ igitab  [ BLINKERS ]  wr.  kuš igi-tab  "(donkey) blinkers" 
+ 
+ 
+ igiten 
+ igiten  [ FRACTION ]  wr.  igi-te-en ;  i-gi4 -te  "fraction (math.); proportion" Akk.  igitennum 
+ igiten  [ MESH ]  wr.  igi-te-en  "mesh" Akk.  itannu 
+ 
+ 
+ igitumla 
+ igitumla  [ UNMNG ]  wr.  igi-tum3 -la ;  igi-tum3 -la2  "?" 
+ 
+ 
+ IGIX 
+ IGIX  [ BOAT-PART ]  wr.  ĝeš IGI.X  "part of boat" 
+ 
+ 
+ igizag 
+ igizag  [ DISEASE ]  wr.  igi-zag3  "a disease" 
+ 
+ 
+ igizalag 
+ igizalag  [ EVENING WATCH ]  wr.  igi-zalag  "evening watch" 
+ 
+ 
+ igizalsur 
+ igizalsur  [ SMILE ]  wr.  igi-zal-sur  "smile" 
+ 
+ 
+ igšur 
+ igšur  [ BOLT ]  wr.  ig-šu-ur2 ;  ĝeš ig-šu-ur2 ;  ĝeš ig-šu-ur?  "bolt" Akk.  mēdelu 
+ 
+ 
+ iĝar 
+ iĝar  [ ORACLE ]  wr.  i5 -ĝar  "oracular utterance" Akk.  egirrû 
+ 
+ 
+ iĝeš 
+ iĝeš  [ OIL ]  wr.  i3 -ĝeš  "oil" 
+ 
+ 
+ ihenunak 
+ ihenunak  [ OIL ]  wr.  i3 -he-nun-na ;  i3 -he-nun  "precious oil" Akk.  ihenunnakku 
+ 
+ 
+ i'ira 
+ i'ira  [ OIL ]  wr.  i3 -ir-a  "scented oil" 
+ 
+ 
+ i'iz 
+ i'iz  [ NUMEROUS ]  wr.  i-iz  "(to be) numerous" Akk.  mādu 
+ i'iz  [ SEED ]  wr.  i-iz  "seed" Akk.  zēru 
+ 
+ 
+ ikimar 
+ ikimar  [ SIGN ]  wr.  i-ki-mar  "sign, signal" Akk.  şaddu 
+ 
+ 
+ iku 
+ iku  [ UNIT ]  wr.  iku  "a unit of area; a unit of volume" Akk.  ikû 
+ 
+ 
+ il 
+ il  [ BASKET ]  wr.  ĝeš il2  "a basket" 
+ il  [ BIRD ]  wr.  il2 mušen ;  al URU mušen  "a bird" 
+ il  [ RAISE ]  wr.  il2 ;  il5 ;  il2 li2  "to raise, carry" Akk.  našû 
+ il  [ TAX ]  wr.  il2  "a tax" 
+ il  [ WORKER ]  wr.  il2  "a worker" 
+ 
+ 
+ IL 
+ IL  [ FISH ]  wr.  IL ku6  "type of fish" 
+ 
+ 
+ ila 
+ ila  [ ELEVATION ]  wr.  il2 -la ;  il2 -la2  "elevation" Akk.  mūlû 
+ 
+ 
+ ilalum 
+ ilalum  [ SONG ]  wr.  i3 -la-lum  "a song" 
+ 
+ 
+ ildag 
+ ildag  [ POPLAR ]  wr.  ĝeš ildag2 ;  ĝeš ildag4 ;  ildag2 ;  ĝeš ildag3 ;  ĝeš ildag ;  ĝeš ildag x  "a poplar" Akk.  adāru ;  ildakku 
+ 
+ 
+ ildum 
+ ildum  [ BAND ]  wr.  ildum2 ;  ildum  "clan; band, cohorts, troops, reinforcements, help, caravan; dog pack" Akk.  illātu; illatşâbi ;  piqittişâbi; illat kalbi 
+ 
+ 
+ ili 
+ ili  [ MAN ]  wr.  i3 -li2  "man" Akk.  amēlu 
+ 
+ 
+ ilianum 
+ ilianum  [ TREE ]  wr.  u2 i-li-in-nu-uš ;  ĝeš ri2 -a-num2 ;  ĝeš i-li-a-nu-um ;  ĝeš i-li-a-num2 ;  ĝeš e-la-nu-um ;  ĝeš i-li-in-nu-um ;  ĝeš i-ri-a-nu-um ;  ĝeš i-ri2 -a-num2 ;  u2 i-li-a-num  "a tree" Akk.  erānu 
+ 
+ 
+ ilila 
+ ilila  [ LEVER ]  wr.  ĝeš il2 -il2 ;  ĝeš il2 -la2 ;  ĝeš il2  "lever" Akk.  habbiru ;  naššû 
+ 
+ 
+ ilim 
+ ilim  [ RADIANCE ]  wr.  i-lim  "radiance; deathly silence" Akk.  šalummatu ;  šaqummatu 
+ 
+ 
+ ilimmu 
+ ilimmu  [ NINE ]  wr.  ilimmu  "nine" 
+ 
+ 
+ illalum 
+ illalum  [ SONG ]  wr.  il-la-lum  "a song" 
+ 
+ 
+ illar 
+ illar  [ BALL ]  wr.  ĝeš illar ;  illar  "wooden ball" Akk.  pukku 
+ illar  [ WEAPON ]  wr.  ĝeš illar ;  illar  "a weapon: bow? throwstick? javelin?; a geometric figure" Akk.  tilpānu 
+ 
+ 
+ illu 
+ illu  [ SONG ]  wr.  il-lu  "a song" 
+ illu  [ WATER ]  wr.  illu  "water; source, spring; waterlogging?; flood waters" Akk.  mû ;  mīlu ;  namba'u ;  zâbu 
+ 
+ 
+ illur 
+ illur  [ TREE ]  wr.  ĝeš il-lu-ur  "a tree" Akk.  zanzaliqqu 
+ 
+ 
+ ilu 
+ ilu  [ GOD ]  wr.  ilu  "god" Akk.  ilu 
+ ilu  [ SONG ]  wr.  i-lu  "joyful song; lament" Akk.  niûtu ;  qubû 
+ 
+ 
+ ILU 
+ ILU  [ ~IRRIGATION ]  wr.  ĝeš I.LU  "an irrigation device" 
+ 
+ 
+ iluali 
+ iluali  [ MOURNER ]  wr.  i-lu-a-li  "mourner" Akk.  lallāru 
+ 
+ 
+ ilulamma 
+ ilulamma  [ SONG ]  wr.  i-lu-lam-ma ;  i3 -lu-lam-ma  "a song" 
+ 
+ 
+ ilulu 
+ ilulu  [ SONG ]  wr.  i-lu-lu  "a song" 
+ 
+ 
+ ilum 
+ ilum  [ SONG ]  wr.  i3 -lum  "a song" 
+ 
+ 
+ ilur 
+ ilur  [ TREE ]  wr.  ĝeš il-ur2  "a tree" 
+ 
+ 
+ im 
+ im  [ CLAY ]  wr.  im  "clay, mud; tablet" Akk.  ţīdu; ţuppu 
+ im  [ RAIN ]  wr.  im ;  me-er  "rain, rain storm" Akk.  zunnu ;  šāru 
+ im  [ RUN ]  wr.  im2  "to run" Akk.  šānû 
+ 
+ 
+ ima 
+ ima  [ STORM? ]  wr.  im-a  "storm?" 
+ 
+ 
+ imanak 
+ imanak  [ STONE ]  wr.  na4 im-ma-an  "a stone; a type of sand" Akk.  immanakku 
+ 
+ 
+ imba 
+ imba  [ DEFICIT ]  wr.  im-ba  "deficit" 
+ 
+ 
+ imbabbar 
+ imbabbar  [ GYPSUM ]  wr.  im-babbar2 ;  im-babbar  "gypsum" Akk.  gaşşu 
+ 
+ 
+ imbasur 
+ imbasur  [ SHIVERING ]  wr.  im-ba-sur  "shivering, cramp" Akk.  ra'ību 
+ 
+ 
+ imbaX 
+ imbaX  [ ILLNESS ]  wr.  im-ba-X  "type of illness" 
+ 
+ 
+ imbaXX 
+ imbaXX  [ ILLNESS ]  wr.  im-ba-X-X  "type of illness" 
+ 
+ 
+ imBUBU 
+ imBUBU  [ HOD-CARRIER ]  wr.  im-BU-BU  "hod-carrier" 
+ 
+ 
+ imdu 
+ imdu  [ DEW ]  wr.  im-du8  "dew" 
+ 
+ 
+ imdua 
+ imdua  [ WALL ]  wr.  im-du3 -a ;  im-du8 -a  "mud wall" Akk.  pitqu ;  pitiqtu 
+ 
+ 
+ imdug 
+ imdug  [ SHOT ]  wr.  im-dug ;  im-du-ug ;  im-tak4  "clay sling shot" 
+ 
+ 
+ imdumu 
+ imdumu  [ SEALING ]  wr.  kuš im-du5 -mu  "leather sealing" 
+ 
+ 
+ imeri 
+ imeri  [ UNMNG ]  wr.  imeri x (GIR3 )  "?" Akk.  ? 
+ 
+ 
+ imĝaĝa 
+ imĝaĝa  [ EMMER ]  wr.  imĝaĝa3 ;  imĝaĝa ;  imĝaĝa2 ;  imĝaĝa x (|AŠ2 .A|)  "emmer beer; emmer" Akk.  dišiptuhhu ;  kunāšu 
+ 
+ 
+ imhul 
+ imhul  [ WIND ]  wr.  im-hul  "destructive wind" Akk.  imhullu 
+ 
+ 
+ imhur 
+ imhur  [ FOAM ]  wr.  imhur4 ;  imhur2 ;  imhur3  "foam on water; foam on beer; foam on milk" Akk.  hurhummat mê ;  hurhummat šikāri ;  hurhummat šizbi 
+ 
+ 
+ imin 
+ imin  [ SEVEN ]  wr.  imin  "seven" 
+ 
+ 
+ imittu 
+ imittu  [ SPEAR ]  wr.  i-mi-tum ;  urud i-mit-tu2 ;  urud i-mi-it-tum  "a spear" Akk.  imittu 
+ 
+ 
+ imittum 
+ imittum  [ JEWELRY ]  wr.  na4 i-mit-tum  "an item of jewelry" Akk.  imittu 
+ 
+ 
+ imkid 
+ imkid  [ PIECE ]  wr.  im-kid2  "piece" Akk.  kirşu 
+ 
+ 
+ imlag 
+ imlag  [ PELLET ]  wr.  im-lag  "pellet" 
+ 
+ 
+ imma 
+ imma  [ LAST YEAR ]  wr.  im-ma  "last year" Akk.  šaddaqdim 
+ imma  [ PHYSIOGNOMY ]  wr.  imma3  "physiognomy, (facial) features" Akk.  bunnannu 
+ imma  [ VULVA ]  wr.  im-ma  "vulva" Akk.  guruš-garaš 
+ 
+ 
+ immaDU 
+ immaDU  [ ADVANCE? ]  wr.  im-ma-DU  "advance?" 
+ 
+ 
+ immal 
+ immal  [ COW ]  wr.  immal2 ;  im-ma-al ;  immal ;  immal x (|NUN.LAGAR|)  "wild cow; cow" Akk.  arhu ;  littu 
+ immal  [ PROPERTY ]  wr.  immal3  "(to be) very plentiful; goods, property, possessions, livestock" Akk.  būšu ;  makkûru ;  maršītu ;  ţuhhudu 
+ 
+ 
+ immen 
+ immen  [ THIRST ]  wr.  immen ;  immen2  "to thirst; thirst" Akk.  şamû ;  şūmu 
+ 
+ 
+ immindu 
+ immindu  [ OVEN ]  wr.  immindu ;  immindu2 ;  im-tu-na  "oven" Akk.  tinūru 
+ 
+ 
+ imminte 
+ imminte  [ THIRST ]  wr.  immen2 -ti ;  imminte  "thirst" Akk.  laplaptu 
+ 
+ 
+ imna 
+ imna  [ PEBBLE ]  wr.  im- na4 na ;  na4 im-na  "clay pebble" 
+ 
+ 
+ imNIsahar 
+ imNIsahar  [ CLAY ]  wr.  im-NI-sahar  "type of clay" 
+ 
+ 
+ imria 
+ imria  [ CLAN ]  wr.  im-ri-a ;  im-ru-a ;  im-ru  "clan" Akk.  kimtu 
+ 
+ 
+ imsaĝ 
+ imsaĝ  [ TUFT ]  wr.  im-saĝ-ĝa2  "tuft" Akk.  imtanû 
+ 
+ 
+ IMŠEŠ 
+ IMŠEŠ  [ RAINBOW? ]  wr.  IM.ŠEŠ  "rainbow?" 
+ 
+ 
+ imšuk 
+ imšuk  [ COVERING? ]  wr.  im-si ;  im-šu ;  im-šu2  "clay covering?" Akk.  imšukku 
+ imšuk  [ TABLET ]  wr.  im-šu  "a small tablet" Akk.  qātu 
+ 
+ 
+ IMUD 
+ IMUD  [ CLOUD? ]  wr.  IM.UD  "cloud?" 
+ 
+ 
+ in 
+ in  [ ABUSE ]  wr.  in ;  e-mu  "abuse" Akk.  pištu 
+ in  [ SECTOR ]  wr.  in  "sector" Akk.  pilku 
+ 
+ 
+ in dub 
+ in dub  [ DELIMIT ]  wr.  in dub  "to delimit, fix a boundary" Akk.  palāku 
+ in dub  [ INSULT ]  wr.  in dub2  "to insult" Akk.  ? 
+ 
+ 
+ inana 
+ inana  [ PLANT ]  wr.  d inana sar  "a plant" 
+ 
+ 
+ inanna 
+ inanna  [ ENTREATY ]  wr.  i-nanna  "a divine entreaty" 
+ 
+ 
+ inbir 
+ inbir  [ CONFLICT ]  wr.  inbir  "conflict, war" Akk.  ippīru 
+ 
+ 
+ inbulbul 
+ inbulbul  [ CHAFF? ]  wr.  in-bul5 -bul5  "an agricultural product, chaff?, hay?, straw?" 
+ 
+ 
+ inda 
+ inda  [ TUBE ]  wr.  inda2  "tube" 
+ 
+ 
+ indal 
+ indal  [ CHAFF ]  wr.  in-dal  "chaff" 
+ 
+ 
+ induba 
+ induba  [ BOUNDARY ]  wr.  in-dub-ba ;  im-dub-ba  "boundary; demarcated zone" Akk.  pilku 
+ 
+ 
+ ineš 
+ ineš  [ NOW ]  wr.  i3 -ne-eš2  "now" Akk.  inanna 
+ 
+ 
+ ingi 
+ ingi  [ PLANT ]  wr.  in-gi4 sar ;  in-gi4  "a plant" 
+ 
+ 
+ inĝar 
+ inĝar  [ COLON ]  wr.  in-ĝar  "colon" Akk.  paršu 
+ 
+ 
+ inim 
+ inim  [ WORD ]  wr.  inim ;  e-ne-eg3  "word; matter (of affairs)" Akk.  amatu 
+ 
+ 
+ inim bala 
+ inim bala  [ CONVERSE ]  wr.  inim bala  "to converse; to translate; to speak; to twitter" Akk.  ? ;  awûm 
+ 
+ 
+ inim gi 
+ inim gi  [ ANSWER ]  wr.  inim gi4  "to answer; to contest" Akk.  ? 
+ 
+ 
+ inim gin 
+ inim gin  [ CONFIRM ]  wr.  inim ge-en  "to confirm" 
+ 
+ 
+ inim ĝal 
+ inim ĝal  [ SUE ]  wr.  inim ĝal2  "to sue, make a claim" Akk.  baqāru 
+ 
+ 
+ inim ĝar 
+ inim ĝar  [ SUE ]  wr.  inim ĝar ;  inim ga2 -ga2  "to sue, to make a legal claim" Akk.  baqāru ;  ragāmu 
+ 
+ 
+ inim hulu 
+ inim hulu  [ INSULT ]  wr.  inim hul  "to insult" Akk.  ? 
+ 
+ 
+ inim sig 
+ inim sig  [ EXPRESS ]  wr.  inim sig10  "to express an idea, desire" Akk.  ? 
+ 
+ 
+ inim šar 
+ inim šar  [ DISCUSS ]  wr.  inim šar2 -šar2  "to discuss" Akk.  amātu šutābulu 
+ 
+ 
+ inimbalbal 
+ inimbalbal  [ BIRD ]  wr.  inim-bal-bal mušen  "a bird" 
+ 
+ 
+ inimdug 
+ inimdug  [ PEACE ]  wr.  inim-dug3  "peace, reconciliation with the gods" Akk.  salīmu 
+ 
+ 
+ inimĝal 
+ inimĝal  [ CLAIM ]  wr.  inim-ĝal2  "claim" Akk.  baqru 
+ inimĝal  [ ELOQUENT ]  wr.  inim ĝal2  "eloquent" 
+ 
+ 
+ inimtil 
+ inimtil  [ STATEMENT ]  wr.  inim-til  "concluding statement" Akk.  kušurrā'um 
+ 
+ 
+ inna 
+ inna  [ FLEECE ]  wr.  inna  "fleece" Akk.  itqu 
+ 
+ 
+ innin 
+ innin  [ LADY ]  wr.  in-nin ;  in-nin9  "lady" 
+ 
+ 
+ innu 
+ innu  [ STRAW ]  wr.  in ;  in-nu ;  in-u-da  "straw" Akk.  tibnu 
+ 
+ 
+ innuHA 
+ innuHA  [ BARLEY ]  wr.  in-nu-HA ;  še in-nu-HA  "a type of barley" Akk.  enninu 
+ 
+ 
+ innuri 
+ innuri  [ STRAINER ]  wr.  in-nu-ri  "strainer" 
+ 
+ 
+ innuš 
+ innuš  [ PLANT ]  wr.  in-nu-uš2  "a plant" Akk.  maštakal 
+ 
+ 
+ innušugura 
+ innušugura  [ CHOPPER ]  wr.  ĝeš in-nu-šu-gur10 -a  "straw chopper" 
+ 
+ 
+ inti 
+ inti  [ WAY ]  wr.  in-ti ;  en-ti  "way, path" Akk.  alaktu 
+ 
+ 
+ inun 
+ inun  [ GHEE ]  wr.  i3 -nun  "ghee, clarified butter" 
+ 
+ 
+ inunduga 
+ inunduga  [ GHEE ]  wr.  i3 -nun-dug3 -ga  "good quality ghee" 
+ 
+ 
+ inunHA 
+ inunHA  [ GHEE ]  wr.  i3 -nun-HA  "good quality ghee" 
+ 
+ 
+ ir 
+ ir  [ CVVE ]  wr.  ir  "(compound verb verbal element)" 
+ ir  [ MIGHTY ]  wr.  ir9 ;  ir3  "mighty" Akk.  gašru 
+ ir  [ PEG ]  wr.  ĝeš ir  "peg" Akk.  irru 
+ ir  [ PLUNDER ]  wr.  ir  "to plunder" Akk.  šalālu 
+ ir  [ SAYING ]  wr.  ir3  "saying" Akk.  tēltu 
+ ir  [ SCENT ]  wr.  ir ;  ir7  "smell, scent; sweat, exudation" Akk.  erešu ;  zūtu 
+ ir  [ TREE ]  wr.  ir  "type of tree" Akk.  armannu 
+ 
+ 
+ irani 
+ irani  [ BIRD ]  wr.  ir-ni mušen ;  i-ra2 -ni mušen  "a bird" Akk.  ? 
+ 
+ 
+ irara 
+ irara  [ OIL-PRESSER ]  wr.  i3 -ra2 -ra2  "oil-presser" 
+ 
+ 
+ irdam 
+ irdam  [ PIG-STY ]  wr.  ir-dam  "pig-sty" Akk.  irritu 
+ 
+ 
+ irgi 
+ irgi  [ FEET ]  wr.  irgi  "lamed feet" Akk.  šēpā kubbulātu 
+ 
+ 
+ irgilum 
+ irgilum  [ LOCUST ]  wr.  ir-gi-lum  "locust" 
+ 
+ 
+ irhandi 
+ irhandi  [ SORCERER ]  wr.  irhandi  "sorcerer" Akk.  āšipu 
+ 
+ 
+ iri 
+ iri  [ CITY ]  wr.  iri ;  iri ki ;  uru2 ;  uru11 ;  iri11  "city" Akk.  ālu 
+ iri  [ DISEASE ]  wr.  iri8  "a disease" Akk.  rapādu 
+ iri  [ HIGH ]  wr.  i-ri  "(to be) high" Akk.  šaqûm 
+ iri  [ MAKE MANIFEST ]  wr.  i-ri  "to make manifest; to become" Akk.  emû ;  šūpû 
+ 
+ 
+ irib 
+ irib  [ UNMNG ]  wr.  irib2  "?" Akk.  ? 
+ 
+ 
+ iribad 
+ iribad  [ CITY ]  wr.  iri-bad3 ;  uru2 -bad3  "high city" 
+ 
+ 
+ iribala 
+ iribala  [ CITY ]  wr.  iri-bala  "rebel town" 
+ 
+ 
+ iriDU 
+ iriDU  [ WORKER ]  wr.  iri-DU  "a category of worker" 
+ 
+ 
+ iri'en 
+ iri'en  [ NOTATION ]  wr.  iri-en  "notation" 
+ 
+ 
+ irigal 
+ irigal  [ UNDERWORLD ]  wr.  irigal ;  iri-gal ;  urugal2  "earth, land; underworld; grave" Akk.  erşetu ;  qabru 
+ 
+ 
+ irihulua 
+ irihulua  [ BIRD ]  wr.  iri-hulu-a mušen ;  iri-gul mušen ;  mušen iri-gul  "a bird" Akk.  qadû 
+ 
+ 
+ irir 
+ irir  [ BIRD ]  wr.  ir-ir mušen ;  ri6 -ri6 mušen ;  RI mušen  "a bird" Akk.  zibû 
+ 
+ 
+ iriršita 
+ iriršita  [ BIRD ]  wr.  ir-ir-šita4 mušen  "a bird" 
+ 
+ 
+ irituš 
+ irituš  [ CITY ]  wr.  iri-tuš  "populated city" Akk.  ? 
+ 
+ 
+ irku 
+ irku  [ UNMNG ]  wr.  ĝeš ir-ku5  "" Akk.  irkû 
+ 
+ 
+ irkun 
+ irkun  [ BIRD ]  wr.  ir-kun mušen  "a bird" 
+ 
+ 
+ irpag 
+ irpag  [ PLOT ]  wr.  ir-pag  "plot" 
+ 
+ 
+ irsaĝ 
+ irsaĝ  [ PIGEON ]  wr.  KASKAL mušen ;  ir7 -saĝ mušen  "pigeon" Akk.  uršānu 
+ 
+ 
+ irsim 
+ irsim  [ FRAGRANCE ]  wr.  ir-si-im ;  ir-sim  "fragrance" Akk.  erešu 
+ 
+ 
+ ir'usa 
+ ir'usa  [ ABSENT ]  wr.  ir-us2 -sa  "(to be) absent" 
+ 
+ 
+ ishab 
+ ishab  [ ROGUE ]  wr.  lu2 is-hab2 ;  lu2 aš-hab  "rogue, rude person" Akk.  ishappu 
+ 
+ 
+ ishu 
+ ishu  [ ALLOCATION ]  wr.  is-hu  "allocation? string?" Akk.  ishu 
+ 
+ 
+ isim 
+ isim  [ AROMATIC ]  wr.  isim3  "an aromatic substance" Akk.  riqū 
+ isim  [ FATTENER ]  wr.  isim3  "animal fattener" Akk.  mārû 
+ 
+ 
+ isimu 
+ isimu  [ SPROUT ]  wr.  isimu2 mu2 ;  isimu3 mu2  "stalk, sprout, shoot" Akk.  isimû ;  per'um 
+ 
+ 
+ isin 
+ isin  [ STALK ]  wr.  išin ;  i3 -si-na ;  e-si-na ;  isin x (|ŠE.IGI.TUR|) ;  isim2 ;  isim3  "culm, grain stalk, stem" Akk.  išīnu 
+ 
+ 
+ isiš 
+ isiš  [ SORROW ]  wr.  i-si-iš ;  isiš3  "to laugh; laughter; wailing, lamentation, sorrow; to whisper" Akk.  dimmatu ;  nissatu ;  ratāmu ;  tassistu ;  şiāhu ;  şīhu 
+ 
+ 
+ isiš ĝar 
+ isiš ĝar  [ WAIL ]  wr.  i-si-iš ĝar ;  i-si-iš ga2 -ga2  "to wail" Akk.  nasāsu 
+ 
+ 
+ isur 
+ isur  [ PRESSER ]  wr.  i3 -sur  "oil-presser" Akk.  şāhitu 
+ 
+ 
+ iš 
+ iš  [ MOUNTAIN ]  wr.  iš  "mountain(s)" Akk.  šadû 
+ 
+ 
+ išah 
+ išah  [ LARD ]  wr.  i3 -šah2  "lard" 
+ 
+ 
+ išdum 
+ išdum  [ ROOT ]  wr.  išdum x (|DU@g|)  "root" Akk.  išdu 
+ 
+ 
+ išgana 
+ išgana  [ PAYMENT ]  wr.  iš-gana2  "an extra payment" 
+ 
+ 
+ iši 
+ iši  [ RADIANCE ]  wr.  i-ši  "radiance" Akk.  šalummatum 
+ 
+ 
+ išib 
+ išib  [ PRIEST ]  wr.  išib  "sorcerer, magician; incantation priest, exorcist; (to be) pure; (to be) clear; a purification priest; incantation, spell" Akk.  ellu ;  išippu ;  pašīšu ;  ramku ;  āšipu ;  šiptu 
+ 
+ 
+ išim 
+ išim  [ HUNGER ]  wr.  u2 -šim ;  i3 -šim  "hunger" Akk.  berû 
+ 
+ 
+ išiu 
+ išiu  [ SILENCE ]  wr.  i-ši-u5  "deathly silence" Akk.  šaqummatu 
+ 
+ 
+ iškila 
+ iškila  [ PEBBLE ]  wr.  iškila  "pebble; a container" Akk.  išqillatu 
+ 
+ 
+ išme 
+ išme  [ STONE ]  wr.  urud iš-me  "a stone" Akk.  ešmekku 
+ 
+ 
+ išpatu 
+ išpatu  [ QUIVER ]  wr.  iš-pa-tu ;  iš-pa-tum  "quiver" Akk.  išpatu 
+ 
+ 
+ itima 
+ itima  [ DARKNESS ]  wr.  itima2 ;  utima2  "darkness" Akk.  eţûtu 
+ itima  [ SHRINE ]  wr.  itima  "shrine, chapel" Akk.  kişşu 
+ itima  [ UNMNG ]  wr.  i-ti-ma  "?" Akk.  ? 
+ 
+ 
+ itirda 
+ itirda  [ ~DAIRY ]  wr.  i3 -ti-ir-da ;  ga i3 -te-er-da  "a dairy product" Akk.  ? 
+ 
+ 
+ itud 
+ itud  [ MOON ]  wr.  itud ;  itud x (|UD.AN.ŠEŠ.KI|) ;  i3 -ti ;  iti7 ;  i-ti ;  itud x (|UD@s|) ;  itud x (|UD×BAD|)  "month; moon" Akk.  arhu 
+ 
+ 
+ i'udu 
+ i'udu  [ FAT ]  wr.  i3 -udu  "sheep fat" 
+ 
+ 
+ i'utu 
+ i'utu  [ COMPLAINT ]  wr.  i-utu ;  i- d utu  "complaint" Akk.  tazzimtu 
+ 
+ 
+ izaga 
+ izaga  [ OIL ]  wr.  i3 -zag-ga  "oil" 
+ 
+ 
+ izi 
+ izi  [ FIRE ]  wr.  izi ;  izi2  "fire; brazier" Akk.  išātu ;  pendû 
+ izi  [ FISH ]  wr.  i-zi ku6  "a fish" 
+ izi  [ UNMNG ]  wr.  i-zi  "?" Akk.  sirû 
+ 
+ 
+ izi dab 
+ izi dab  [ LIGHT ]  wr.  izi dab5  "to light, set alight" 
+ 
+ 
+ izid 
+ izid  [ WALL ]  wr.  iz-zi ;  i-zi  "wall; wave" Akk.  agû ;  igāru 
+ 
+ 
+ izidda 
+ izidda  [ SIDE-WALL ]  wr.  iz-zi-da  "side-wall" 
+ 
+ 
+ iziĝar 
+ iziĝar  [ TORCH ]  wr.  izi-ĝar  "torch" Akk.  dipāru 
+ 
+ 
+ iziĝi'edena 
+ iziĝi'edena  [ ATMOSPHERIC PHENOMENON ]  wr.  izi-ĝi6 -eden-na  "an atmospheric phenomenon" Akk.  anqullu 
+ 
+ 
+ 
+ 
+ePSD icon   ePSD  
+	  contacts:  Steve 
+          Tinney  and  Philip Jones .
+ 
+ 
+ 
+ 
