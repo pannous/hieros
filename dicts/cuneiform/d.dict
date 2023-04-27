@@ -1,340 +1,678 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
-da [BIRD] 𒁕𒄷 damušen "a bird"
-da [CVVE] 𒁕 da "(compound verb verbal element)"
-da [LINE] 𒁕 da "line, edge, side"
-da [SIDE BOARD] 𒄑𒁕 ĝešda "side board (of a chariot)" Akk. marhaşu
-da [STIR] 𒌤 da9 "to stir into a liquid" Akk. marāsu
-da [WRITING BOARD] 𒄑𒁕 ĝešda "writing board" Akk. lē'û
-dab [SEIZE] 𒆪;𒁳;𒆪𒆪;𒇆𒇆 dab5; dab; dab5-dab5; dabx(|LAGAB×GUD|) "to seize, take, hold; to bind; to envelop, overwhelm; to choose (by extispicy); to accept; to take charge of" Akk. sahāpu; tamāhu; kamû; şabātu
-daba [STRAP] 𒋢𒁕𒁀 kušda-ba "strap"
-daban [HARNESS] 𒋰𒋰𒑖 daban "a part of a harness" Akk. šardappu
-dabariri [LIAR] 𒁕𒁀𒊑𒊑;𒇽𒁕𒁀𒊑𒊑 da-ba-ri-ri; lu2da-ba-ri-ri "liar?; trickster?"
-dabašin [OBJECT] 𒋢 kušdabašin "a leather object" Akk. dabašinnu
-dabatum [TEXTILE] 𒁕𒁀𒌈 da-ba-tum "a textile" Akk. tapatu
-dabiltum [POT] 𒂁𒁕𒉋𒌈 dugda-bil2-tum "a pot" Akk. tabiltu
-dabin [SEMOLINA] 𒍥𒊺 dabin "semolina, barley grits" Akk. tappinnu
-dada [HOSTILE] 𒁕𒁕;𒆕𒆕𒁕 da-da; da3-da3da "(to be) hostile; to be difficult" Akk. wašţum
-dadag [BRIGHT] 𒌓𒌓;𒌓 dadag; dag2 "(to be) bright; to clean" Akk. ebbu; ellu; namru
-dadamul [ANIMAL] 𒁕𒁕𒀯 da-da-mul "an animal"
-dadara [TIED] 𒁕𒁕𒊏 da-da-ra "(to be) tied, cramped up" Akk. ebēţu
-dag [DEMOLISH] 𒁖 dag "to demolish; to scratch; overthrow, military repulse" Akk. naqāru; sukuptu
-dag [DWELLING] 𒁖 dag "dwelling" Akk. šubtu
-dag [SIDE] 𒁕 da "side; vicinity" Akk. idu
-dagaltum [POUCH] 𒁕𒃲𒌈𒈠 da-gal-tum-ma "pouch"
-dagan [TOTALITY] 𒁕𒃶 da-gan "totality; assembly; band" Akk. kullatu; puhru; riksu
-dagdug [POTSTANDS] 𒁖𒂁 dag-dug "potstands" Akk. ?
-daggan [CHAMBER] 𒁕𒃷 da-gan2 "(sleeping) chamber?"
-daggan [DOORWAY?] 𒆠𒍇;𒁕𒃷 daggan; da-gan2 "doorway or door part" Akk. dakkannu
-daggaz [BLOCK] 𒎎𒁕𒄤 na4da-gaz "a stone block"
-daggi [QUARTER] 𒁖𒄄 dag-gi4 "city quarter"
-DAGKISIMAB [COWSHED] 𒁖𒆨𒀖 |DAG.KISIM5×AB2| "cowshed"
-dagsi [HOOK] 𒁖𒋛 dag-si "saddle hook"
-dagsirum [REPAIR?] 𒁖𒋛𒊒𒌝 dag-si-ru-um "repair?"
-dagum [UNMNG] 𒁕𒄣 da-gum "?"
-daĝal [WIDE] 𒂼;𒁮𒃲;𒁲𒄠𒂵𒀠;𒁕𒈠𒀠 daĝal; dam-gal; di-am-ga-al; da-ma-al "(to be) wide; width, breadth" Akk. rupšu
-daĝal tag [SPREAD] 𒂼𒋳 daĝal tag "to spread wide; to give lavishly" Akk. ?
-dahaša [CASK] 𒄑𒁕𒄩𒊭 ĝešda-ha-ša "wooden cask"
-daKA [FISH] 𒁕𒅗𒄩 da-KAku6 "a fish"
-dakirum [UNMNG] 𒁕𒆠𒊒𒌝 da-ki-ru-um "?" Akk. ?
-dal [FLY] 𒊑;𒄷(𒄷) dal; dalx(HU) "to fly" Akk. naprušu
-dal [LINE] 𒊑 dal "dividing line, transverse line" Akk. perku
-dal [VESSEL] 𒂁𒊑 dugdal "a measuring vessel?" Akk. nassapu
-dala [THORN] 𒄑𒅆𒆕;𒅆𒉌;𒋢𒅆𒆕 ĝešdala2; dalla2; kušdala2 "thorn, pin, needle; a lance" Akk. dalû; şillû; gubru
-dalbana [SPACE] 𒊑𒁀𒈾 dal-ba-na "intermediate space; property held in common" Akk. birītu
-dalhamun [STORM] 𒊑𒄩𒁵;𒅎𒋖;𒅐;𒉃;𒀰 dal-ha-mun; dalhamun; dalhamun6; dalhamun7; dalhamun5 "dust storm; disaster" Akk. ašamšûtu; hābu
-dalla [BRIGHT] 𒈦𒄘𒃼 dalla "(to be ) bright; (to be) impetuous, fierce" Akk. ellu
-dalla [RING] 𒈦𒄘𒃼 dalla "ring; crown" Akk. kamkammatu
-dalla e [APPEAR] 𒈦𒄘𒃼𒂍 dalla e2 "to appear, shine" Akk. šūpû
-dalu [BAG] 𒄑𒁕𒇻 ĝešda-lu "bag, stomach" Akk. tākaltu
-dalu [OBJECT] 𒋢𒁕𒇻𒍗;𒋢𒁕𒇻 kušda-lu-uš2; kušda-lu "a leather object" Akk. anuššu
-dam [SPOUSE] 𒁮 dam "spouse" Akk. aššatu; mutu
-dambanda [WIFE] 𒁮𒌉𒁕 dam-ban3-da "wife"
-dameĝir [WIFE] 𒁮𒂕 dam-eĝir "junior wife"
-damga [~PLOW] 𒄑𒁮;𒄑𒁕𒀭𒂵;𒄑𒁮𒂵;𒋢𒁮𒂵 ĝešdam; ĝešda-an-ga; ĝešdam-ga; kušdam-ga "a part of a plow" Akk. puqdu
-damgar [MERCHANT] 𒁮𒃼 dam-gar3 "merchant, trader" Akk. tamkāru
-damgargal [MERCHANT] 𒁮𒃼𒃲;𒁮𒃼 dam-gar3-gal; dam-gar3 "leading merchant"
-damhara [BATTLE] 𒁮𒄩𒊏 dam-ha-ra "battle" Akk. tamhāru
-damkas [OFFICIAL] 𒁮𒁽 dam-kas4 "an official"
-damkaš [PROFESSION] 𒁮𒁽 dam-kaš4 "a profession"
-damšah [ANIMAL] 𒁮𒋚 dam-šah "crocodile?, hippopotamus?" Akk. dabû
-damšelum [PLANT] 𒁮𒊺𒈝;𒄑?𒋻𒈝 dam-še-lum; ĝešhašhurdam-šil-lum "a plant" Akk. damšillu
-dan [PURE] 𒍕;𒃩;𒃋;𒃉 dan6; dan3; dan4; dan2 "(to be) pure, clear; to clean" Akk. zakû
-dana [UNIT] 𒁕𒈾;𒆜𒁍;𒆜 da-na; danna; dana2 "a unit of length, double-hour (distance), double-mile" Akk. bêru
-DANAGAR [CONTAINER] 𒁕𒉄 DA.NAGAR "a container"
-daparu [DEFEAT] 𒇽𒈨𒂗 daparu "defeat, annihilation; (to be) resistant, obstinate" Akk. kamāru; karašû; šapşu
-dapu [WELL] 𒁕𒇥 da-pu2 "well installation"
-dar [BIRD] 𒁯𒄷 darmušen "a bird, black francolin" Akk. ittidû; tarru
-dar [DRIP?] 𒁯 dar "to drip?"
-dar [SPLIT] 𒁯 dar "to break up, crush, grind; to split, split up; to cut open" Akk. pênu; pêşu; salātu; šalāqu; šatāqu
-dar.NI [BIRD] 𒁯𒉌 dar-NI "a bird"
-dara [BELT] 𒌆𒁱;𒅁;𒌆𒅁 tug2dara4; dara2; tug2dara2 "belt, sash, girdle; string" Akk. izhu; nēbettu
-dara [FISH] 𒁯𒊏𒄩 dar-raku6 "a fish"
-dara [RED] 𒁱 dara4 "(to be) red; (to be) brown; blood" Akk. dāmu
-dara [UNMNG] 𒄒 dara5 "?" Akk. parriku
-daramaš [RAM] 𒁰𒈦 dara3-maš "ram" Akk. ālu
-daranita [FISH] 𒁰𒍑𒄩 dara3-nitaku6 "a fish"
-daranšub [NEGLIGENT] 𒁕𒊏𒀭𒊒 da-ra-an-šub "negligent" Akk. egû, baţlu
-daranšub [~WORKER] 𒁕𒊏𒀭𒊒 da-ra-an-šub "a designation of workers"
-dargizi [BIRD] 𒁯𒄀𒍥𒄷 dar-gi-zimušen "a bird" Akk. durummu
-dari [ETERNAL] 𒁕𒌷;𒁕𒊑;𒁺𒊑 da-ri2; da-ri; du-ri "(to be)eternal" Akk. dārû
-dari [SUPPORT] 𒁕𒊑 da-ri "to support"
-dartar [TIED] 𒁯𒋻 dar-tar "(to be) tied"
-darzizi [BIRD] 𒁯𒍥𒍥𒄷;𒁯𒅊𒅊𒄷 dar-zi-zimušen; dar-si12-si12mušen "a bird"
-de [BRING] 𒁺;𒂵;𒉈;𒅕;𒌤 de6; ga; de3; ir; de2 "to bring, carry" Akk. babālu
-de [POUR] 𒌤 de2 "to pour; to winnow" Akk. šapāku; šaqû
-de [SHAPE] 𒌤 de2 "to shape, create" Akk. patāqu
-deg [COLLECT] 𒊑(𒊑) degx(RI) "to take; to gather up, glean; to tear out; to collect, pick up" Akk. ahāzu; laqātu; leqû; nasāhu
-degdega [WORKER] 𒇽¿¿𒂵;¿¿𒂵 lu2deg5-deg5-ga; deg5-deg5-ga "a category of worker"
-dehi [SUPPORT] 𒌤𒄭;𒁾 de-hi; dehi "support, stanchion; tax" Akk. imdu
-dešana [IN-LAW] 𒉈𒊭𒈾 de3-ša-na "mother-in-law"
-di [GO] 𒁲 di "go"
-di [HAVE A BOWEL DISORDER] 𒊑 di5 "to have a bowel disorder" Akk. nâţu
-di [SHINE] 𒊑 di5 "to shine" Akk. nabāţu
-di [SPEAK] 𒁲 di "non-finite imperfect stem of dug[to speak]" Akk. atwû; dabābu; qabû
-di ĝar [SUE] 𒁲𒃻 di ĝar "to sue, make a legal claim"
-di kud [JUDGE] 𒁲𒋻 di kud "to judge" Akk. dīnu dânu
-dib [BOARD] 𒁳 dib "board" Akk. dibbu
-dib [BURN] 𒁳 dib "to burn; wrath" Akk. kabābu; kimiltu
-dib [PASS] 𒁳;𒆪;𒁲𒅁 dib; dib2; di-ib "to pass, go along; to go past; to go through; to cross over; to audit; to transfer" Akk. bâ'u; etēqu
-dibdib [WATERCLOCK] 𒄑𒁳𒁳 ĝešdib-dib "waterclock, mathematical term; ?" Akk. dibdibbu; maštaqtu
-dibid [CAMEL] 𒁲𒁉𒀉 di-bi-id "camel"
-dibida [DONKEY] 𒁲𒁉𒁕 di-bi-da "donkey"
-dibida [SWELL] 𒁲𒁉𒁕 di-bi-da "to swell, to have colic" Akk. emēru
-dibiri [SWINDLER] 𒁲𒁉𒊑 di-bi-ri "con artist"
-did [LAWSUIT] 𒁲 di "lawsuit, trial; legal decision" Akk. dīnu
-dida [WORT] 𒁉𒌑𒊓;𒌑𒊓𒌑𒊓 dida; didax(|U2.SA|) "sweet wort, an ingredient for beer making; beer for transport" Akk. billatu
-dida'imĝaĝa [BEER] 𒁉𒌑𒊓𒅎?;?𒅎 dida imĝaĝa; kašdida imĝaĝa "sweet beer" Akk. dišiptuhhu
-didal [ASHES] 𒉈(𒉈);𒉈𒊑 didalx(NE); de3-dal "ashes" Akk. didallu; ţikmēnu
-didila [SMALLER] 𒌉𒌉𒇲;𒌉𒌉𒆷;𒌉𒌉 di4-di4-la2; di4-di4-la; di4-di4 "(to be) small(er)" Akk. daqqu
-didli [FISH] 𒐀𒄩 didliku6 "a fish"
-didli [SEVERAL] 𒐀 didli "several, various" Akk. mādūtu
-dig [PARALYZED] 𒉌 dig "(to be) paralyzed, to suffer paralysis" Akk. rimûtu
-dig [SOFT] 𒉌 dig "(to be) soft; to soften" Akk. labāku; narbu
-digbir [UNMNG] 𒆠𒉈𒀭𒈹 digbir "?" Akk. amar usandî; ašar usandî; aşur pindi
-diĝir [DEITY] 𒀭;𒈚𒈨𒅕;𒈚𒉿𒅕;𒈚𒈪𒅕;𒁲𒈪𒅕 diĝir; dim3-me-er; dim3-me8-er; dim3-mi-ir; di-me2-er "deity, god, goddess" Akk. iltu; ilu
-diĝir'ama [MOTHER] 𒀭𒂼 Mama : mother!! diĝir-ama "divine mother"
-diĝirdumu [SON] 𒀭𒌉 diĝir-dumu "divine son"
-dih [CHAOS] 𒆨;𒄑𒆨 dih3; ĝešdih3 "chaos, turmoil" Akk. sahmaštu
-dih [WEED] 𒄑𒆨;𒆨;𒄑 ĝešdih3; dih3; ĝeštehi "a weed with thorns" Akk. baltu
-dihi [ILLNESS] 𒆨 dih "an illness" Akk. la'ību
-dikud [JUDGE] 𒁲𒋻 di-kud "judge"
-dili [FISH] 𒀸𒄩 diliku6 "a fish"
-dili [SINGLE] 𒀸;𒁲𒂖 dili; di-il5 "(to be) single, unique, sole; (to be) alone" Akk. dēlu; ēdu
-dilib [HAIR] 𒋃;𒊠;𒆂;𒊞;𒊦;𒊟 dilib; dilib3; dilib2; dilib4; dilib5; dilib6 "hair" Akk. uruhhu
-dilibad [SHINING] 𒀸𒁁 dili-bad "shining" Akk. nebû
-dilibipila [BIRD-CRY] 𒁲𒇷𒁉𒉿𒆷;𒁲𒇷𒅁𒉿 di-li-bi-pi-la; di-li-ib-pi "a bird call"
-dilim [OVEN] 𒇌 dilim3 "oven" Akk. tinūru
-dilim [SPOON] 𒇺;𒇺;𒌓𒊕𒁇𒇺 dilim2; dilim; zabardilim2 "spoon; balance pan" Akk. itqūru
-dilimbanda [BOWL] 𒄑𒇺𒌉𒁕 ĝešdilim2-banda3da "a bowl" Akk. tannu
-dilimgal [DISH] 𒄑𒇺𒃲 ĝešdilim2-gal "dish, shallow bowl" Akk. mākaltu
-dilius [COMPANION?] 𒀸𒍑 dili-us2 "companion?"
-dilmun [IMPORTANT] 𒉌𒌇 dilmun "(to be) made manifest; (to be) heavy; (to be) important; ritually unclean, impure person; instruction" Akk. kabtu; musukku; têrtu; šûpû
-dilur [POLE] 𒈣𒆕𒈣𒆕;𒈣𒈮 dilurx(|MA2.KAK|); dilur "mast" Akk. akû
-dim [CHECK] 𒉽𒉽 dim4 "to check; to approach" Akk. sanāqu
-dim [CORPSE] 𒈚 dim3 "corpse"
-dim [CREATE] 𒁶 dim2 "to create, make, manufacture; to replace?; to bring forth?" Akk. banû
-dim [FISH] 𒁴𒄩 dimku6 "a fish"
-dim [HELPLESS] 𒈚 dim3 "to be helpless"
-dim [PLANT] 𒁴 dim "plant"
-dim [POST] 𒁴;𒈚;𒄑𒁴 dim; dim3; ĝešdim "post, pillar, pole; binding, knot, bond" Akk. mahrašu; makūtu; riksu; timmu
-dim [UNMNG] 𒋃;𒌤 dim12; dim6 "?" Akk. ?
-DIM [OFFICIAL] 𒉽𒉽 DIM4 "an official"
-dima [OBJECT] 𒈚;𒈚𒈠 dim3; dim3-ma "small object, figurine"
-dimdim [INSTRUMENT] 𒄑𒈚𒈚 ĝešdim3-dim3 "a musical instrument"
-dimdim [TOWER] 𒁴𒁴 dim-dim "(fortified) tower"
-dimgal [POLE] 𒁴𒃲;𒁲𒅎𒄖𒄉 dim-gal; di-im-gu-ul "a pole" Akk. mahrašu; markasu; ushamu
-dimgi [PLANT] 𒈚𒄄 dim3-gi4 "a plant"
-dimgi [VEGETABLE] 𒁴𒄀𒊬 dim-gisar "a vegetable" Akk. akkulakku; şippatu
-dimlumagurak [INSTRUMENT] 𒄑𒈚𒇽𒈣𒋽𒊏 ĝešdim3-lu2-ma2-gur8-ra "type of instrument"
-dimma [THOUGHT] 𒁶𒈠;𒁆𒈠 dim2-ma; dimma "thought, planning; instruction" Akk. ţēmu
-dimma [~SHEEP] 𒁆(𒁆)𒈠 dimx(BALAĜ)-ma "a designation of sheep" Akk. takmīsu
-dimmaršu [INSTRUMENT] 𒄑𒈚𒈥𒋗 ĝešdim3-mar-šu "an instrument"
-dimme [DEMON] 𒈚𒈨 ddim3-me "demon" Akk. lamaštu
-dimmea [DEMON] 𒈚𒀀;𒈚𒈨𒀀 ddim3-a; ddim3-me-a "demon" Akk. labāşu
-dimna [DAIRY] 𒌋𒂵 dimna "a milk product" Akk. itirtu
-dimsa [UNMNG] 𒁶𒊓 dim2-sa "?"
-dimšah [BEAR?] 𒈚𒋚 dim3-šah "bear?" Akk. margû
-dimšah [HIPPOPOTAMUS] 𒈚𒂄 dim3-šah2 "hippopotamus"
-dimšilum [WOOD] 𒄑𒁴𒅆𒈝;𒄑𒈚 ĝešdim-ši-lum; ĝešdim3 "a type of wood" Akk. damšillu
-dimuš [SHELTER] 𒌑𒄑𒈪 dimuš "reed shelter, nest; reed stalk" Akk. kumāşu; kušāru
-DIN [UNMNG] 𒁷 DIN "?" Akk. ?
-dinetum [OBJECT] 𒄑𒁲𒉈𒌈 ĝešdi-ne-tum "a wooden object"
-dinig [KILN] 𒁷𒅅;𒁷?;𒁲𒉌𒅅 dinig; dinig3; di-ni-ig "smith, metalworker; kiln, furnace; air vent" Akk. kūru; nappašu; nappāhu
-dinig [RESISTANT] 𒁷 dinig2 "(to be) resistant, obstinate" Akk. šapşu
-dinig [SALT] 𒁲𒉌𒅅 di-ni-ig "salt; potash" Akk. itrānu; ţabtu
-dirga [BOND] 𒁲𒅕𒂵 di-ir-ga "bond" Akk. riksu
-dirida [INSTRUCTION] 𒁲𒊑𒁕;𒋾𒊑𒁕;𒋼𒊑𒋫 di-ri-da; ti-ri-da; te-ri-ta "(divine) instruction, order" Akk. têrtu
-dirig [EXCEED] 𒋛𒀀;𒊑 diri; RI "(to be) very great, supreme, excellent; more than; (to be) powerful, competent; (to be) big, huge; (to be) abundant; on, over, above; against; radiance; to project, stick up, build high; (to be) surplus" Akk. atru; eli; rabû; kapāšu; zaqāru; šarūru; šūturu; lē'û
-dirig [EXCESS] 𒋛𒀀 dirig "excess"
-dirig [FALL] 𒋛𒀀 dirig "to become loose, fall out; to disintegrate; to disappear; to fall down, collapse" Akk. qâpu; šahāhu
-dirig [FLOAT] 𒋛𒀀 dirig "to drift (clouds); to float, glide (along/down); to go; to soak, steep, dissolve in liquid" Akk. alāku; mahāhu; mahāru; neqelpû
-dirig [GORGE] 𒋛𒀀 diri "gorge"
-dirig [RAFT] 𒄀𒋛𒀀 gidiri "reed raft" Akk. amu; hāmu
-dirig [TEAR] 𒋛𒀀 dirig "to tear out" Akk. nasāhu
-diš [ONE] 𒑰;𒌤𒌍𒋙;𒁲𒀉;𒁲𒋫 diš; de-eš-šu2; di-id; di-t- "one" Akk. ištēn
-ditila [CASE] 𒁲𒌀𒆷 di-til-la "completed court case" Akk. dīnu gamru; ditillû
-du [ALL] 𒆕 du3 "all" Akk. kalāma
-du [BUILD] 𒆕 du3 "to build, make; to do, perform" Akk. banû; epēšu
-du [FISH] 𒇯𒄩 du6ku6 "a fish"
-du [GO] 𒁺 du "imperfect singular stem of ĝen[to go]" Akk. alāku
-du [HEAP] 𒂃 du8 "to heap up, pile up" Akk. kamāru
-du [HOLD] 𒆕 du3 "to hold, keep in custody"
-du [LAMENT] 𒍘𒍘 du9-du9 "lament"
-du [PLANT] 𒆕 du3 "to plant; to fix upright, erect; to impregnate; to drive in, fix; a designation of grain" Akk. retû; zaqāpu
-du [PLATFORM] 𒇯 du6 "throne platform for a deity" Akk. di'u
-du [PLAY] 𒌇𒌇;𒌇 du12-du12; du12 "to play (a musical instrument)" Akk. lapātu; zamāru
-du [PUSH] 𒌌 du7 "to push, thrust, gore; to make encounter (math.)" Akk. nakāpu
-du [SPREAD] 𒂃 du8 "to bake; to spread out mud to make bricks; to caulk" Akk. epû; labānu; pehû
-du [SQUARE] 𒌌 du7 "to square"
-du [SUITABLE] 𒌌 du7 "(to be) fitting, suitable" Akk. asāmu; naţû
-du [WHIRL] 𒌌𒌌 du7-du7 "to whirl" Akk. sarû
-DU.ŠU [TOOL] 𒆕𒋗 DU3-ŠU "a tool"
-dua [INSTRUMENT] 𒄑𒆕𒀀 ĝešdu3-a "instrument"
-dub [GO AROUND] 𒍏;𒁾 dab6; dub "to go around, encircle, turn; to search; to tarry" Akk. lawû; sahāru
-dub [HEAP] 𒁾 dub "to strew; to heap up, pile, pour; to whirl up (a duststorm)" Akk. sarāqu; šapāku
-dub [KNEE] 𒄭;𒍢𒅁 dub3; ze2-eb "knee"
-dub [TABLET] 𒁾 dub "tablet" Akk. ţuppu
-dub [TREMBLE] 𒂀;𒁾 dub2; dub "to tremble, make tremble; to push away, down; to smash, abolish" Akk. napāşu
-DUB [POLE-PIN] 𒁾 DUB "pole-pin"
-dub bad [GO SWIFTLY] 𒄭𒁁 dub3 bad "to spread the knees, to go swiftly" Akk. pīt puridim
-dub bala [GO OVER AN ACCOUNT] 𒁾𒁄 dub bala "to go over an account" Akk. ?
-dub dub [REST] 𒄭𒂀 dub3 dub2 "to rest" Akk. ?
-dub gurum [SIT DOWN] 𒄭𒃵 dub3 gurum "to sit down, to take a rest" Akk. nâhu
-dub ĝal [FIGHT] 𒄭𒅅 dub3 ĝal2 "to fight" Akk. ?
-dub ĝar [SIT DOWN] 𒄭𒃻 dub3 ĝar "to sit down" Akk. ?
-dub nir [EJACULATE] 𒄭𒉪 dub3 nir "to ejaculate" Akk. rakābu
-dub zil [FLEE] 𒄭𒉣 dub3 zil "to flee" Akk. ?
-DUB.KAK [SPIKE?] 𒁾𒆕 DUB.KAK "spike?"
-dubad [LAND] 𒆠𒆗 dubad "a type of fallow land" Akk. apītu
-dubal [CATERPILLAR] 𒀥;𒀦;𒈆;𒈈;𒈐 dubal; dubal2; dubal4; dubal6; dubal7 "caterpillar" Akk. nappilu
-dubban [FENCE] 𒁾𒁀𒀭;𒄀𒁾𒁀𒀭 dub-ba-an; gidub-ba-an "fence"
-dubban [STONE] 𒎎𒁾𒁀𒀭 na4dub-ba-an "a type of stone"
-dubdab [NOISE] 𒁾𒁳;𒁾𒋰;𒁾𒁾;𒁾𒆪;𒁾𒁕𒀊 dub-dab; dub-dab2; dub-dab4; dub-dab5; dub-da-ab "noise"
-dubdab za [MAKE NOISE] 𒁾𒁳𒍝;𒁾𒋰𒍝;𒁾𒁾𒍝;𒁾𒆪𒍝;𒁾𒁕𒀊𒍝 dub-dab za; dub-dab2 za; dub-dab4 za; dub-dab5 za; dub-da-ab za "to make noise"
-dubdim [UNMNG] 𒁾𒉽𒉽 dub-dim4 "?"
-DUBdu [VEHICLE] 𒄑𒋃𒆕;𒄑𒁾;𒁾𒆕;𒄑𒋃𒄭 ĝešŠID-du3; ĝešDUB; DUB-du3; ĝešŠID-du10 "a part of a vehicle"
-dubdub [~FLOUR] 𒁾𒁾 dub-dub "flour designation"
-dubdubu [BIRD] 𒂀𒂀𒁍𒄷 dub2-dub2-bumušen "a bird; a bat" Akk. akkannu; suttinnu; šagaşu
-dubĝal [RUNNER] 𒄭𒅅 dub3-ĝal2 "runner"
-dubĝal [SCRIBE] 𒁾𒅅 dub-ĝal2 "a scribe or scribe's assistant"
-dubla [BIRD] 𒁾𒇲𒄷 dub-la2mušen "a bird"
-dubla [TOWER] 𒁾𒇲 dub-la2 "gate tower" Akk. išdu; tublu
-dubran [JUNIPER] 𒄑𒁾𒊏𒀭 ĝešdub-ra-an "juniper" Akk. daprānu
-dubsadara [LAME] 𒄭𒊓𒁯𒀀 dub3-sa-dar-a "lame person"
-dubsaĝ [BEFORE] 𒁾𒊕 dub-saĝ "first; before" Akk. mahrû; qudmu
-dubsar [FISH] 𒁾𒊬𒄩 dub-sarku6 "a fish"
-dubsar [SCRIBE] 𒁾𒊬 dub-sar "scribe" Akk. ţupšarru
-dubsargal [SCRIBE] 𒁾𒊬𒃲;𒁾𒊬 dub-sar-gal; dub-sar "senior scribe"
-dubsarmah [OFFICIAL] 𒁾𒊬𒈤 dub-sar-mah "an official"
-dubsartur [SCRIBE] 𒁾𒊬𒌉 dub-sar-tur "junior scribe"
-dubsarzaga [REGISTRY OFFICIAL] 𒁾𒊬𒍠𒂵 dub-sar-zag-ga "registry official" Akk. zazzakku
-dubšen [CHEST] 𒁾𒊿 dub-šen "treasure chest" Akk. tupšinnu
-dubšendilim [CONTAINER] 𒁾𒊿𒇺 dub-šen-dilim2 "a container"
-DUBTI [BIRD] 𒁾𒋾𒄷 DUB.TImušen "a bird"
-dubtuku [RUNNER] 𒄭𒌇 dub3-tuku "runner" Akk. ?
-dubul [DRAW] 𒁺𒁍𒄉 du-bu-ul "to draw (water or wine)" Akk. habû
-dubul [PARALYZE?] 𒁺𒁍𒄉 du-bu-ul "to paralyse?" Akk. hamû
-dubul [SPROUT] 𒋗𒁍 dubul "to sprout, grow" Akk. elēpu
-dubula [SOUNDBOX] 𒁺𒁍𒆷 du-bu-la "soundbox"
-dubuldabal [SOUND] 𒁺𒁍𒄉𒁕𒁀𒀠 du-bu-ul-da-ba-al "a sound (onomatopoeic)"
-dubuldabal za [SOUND] 𒁺𒁍𒄉𒁕𒁀𒀠𒍝 du-bu-ul-da-ba-al za "to make noise"
-dubur [FOUNDATION] 𒄶;𒄶 dubur; dubur2 "base" Akk. išdu
-dubus [SECOND] 𒁾𒍑 dub-us2 "second, second-in-rank"
-dud [COMBAT] 𒈌  𒇽 •don ≈ 𒆕𒉈 DU3:;𒉈 du14; du17 "combat, strife, discord, quarrel" Akk. şāltu
-dud [MOUND] 𒇯 du6 "(ruin) mound" Akk. tīlu
-dud ĝar [START A FIGHT] 𒈌  𒇽 •don ≈ 𒆕𒉈 DU3:𒃻 du14 ĝar "to start a fight" Akk. şaltu šakānu
-dud mu [START A QUARREL] 𒈌  𒇽 •don ≈ 𒆕𒉈 DU3:𒊬 du14 mu2 "to start a quarrel" Akk. şâlu
-duda [KETTLE] 𒄑𒁺𒁕 ĝešdu-da "kettle" Akk. dūdu
-dudu [BEATING] 𒉺𒍜𒉺𒍜 dudux(|PA.UZU|) "thrashing, beating" Akk. niţûtu
-DUDUna [ANIMAL] 𒈾𒁺𒁺;𒁺𒁺𒈾 na-DU-DU; DU-DU-na "an animal"
-dug [BIRD] 𒄭𒄷;𒁺𒄷 dug3mušen; dumušen "a bird"
-dug [GOOD] 𒄭;𒍢𒅁;𒁺𒊌 dug3; ze2-eb; du-uq "(to be) good; (to be) sweet; goodness, good (thing)" Akk. ţābu
-dug [POT] 𒂁;𒂁?(𒁉) dug; dugx(BI) "(clay) pot; a unit of liquid capacity" Akk. karpatu
-dug [SPEAK] 𒅗 dug4 "to speak, talk, say; to order; to do, perform; to negotiate" Akk. atwû; dabābu; epēšu; qabû
-duga [AFFLICTION] 𒅗𒂵 dug4-ga "type of affliction"
-duga [COMMAND] 𒅗𒂵 dug4-ga "command" Akk. qibītu
-duga'ak [SHRIVELED] 𒄭𒀀𒀝 dug3-a-ak "(to be) shriveled"
-dugaĝu [DEAR] 𒄭𒂵𒈬 dug3-ga-ĝu10 "one dear to me"
-dugdub [LAME] 𒄭𒁾 dug3-dub "lame" Akk. şubbutu
-dugdugurhi [DEAD] 𒄭𒄭𒌨𒄭 dug3-dug3-ur-hi "(to be) dead"
-duggan [BAG] 𒋢𒄭𒃶;𒄭𒃶;𒋢𒄭 kušdug3-gan; dug3-gan; kušdu10 "leather bag" Akk. tukkannu
-duggantug [BAG] 𒋢𒄭𒃶𒌆 kušdug3-gan-tug2 "a leather bag"
-dugĝal [WELL-DISPOSED?] 𒄭𒅅 dug3-ĝal2 "well-disposed?"
-dugla [LAME] 𒄭𒇲 dug3-la2 "lame" Akk. tubbuku
-dugnir [MATE] 𒄭𒉪 dug3-nir "mate" Akk. rakābu, rehu=tu
-dugud [HEAVY] 𒂂 dugud "(to be) heavy; (to be) important" Akk. kabtu
-duh [BRAN] 𒂃;𒈭𒄷 duh; dah-hu "bran" Akk. tuhhu
-duh [LOOSEN] 𒂃;𒍢𒅁 duh; ze2-eb "to loosen, release; to open" Akk. paţāru
-duksium [SHIELD] 𒋢𒄭𒊌𒋛𒌝;𒋢𒁺𒊌𒋛𒌝;𒋢𒂃𒊌𒅆𒌝;𒋢𒌅𒊌𒋛𒌝 kušdu10-uk-si-um; kušdu-uk-si-um; kušdu8-uk-ši-um; kušdu2-uk-si-um "a shield" Akk. tukšu
-dukug [LOCUS] 𒇯𒆬 du6-kug "a cultic and cosmic place" Akk. ?
-dul [COVER] 𒌋𒌆;𒌪;𒌆;𒌨𒀀(𒂅) dul; dul9; dul5; dulx(DUN3) "to cover" Akk. katāmu
-dul [GATHER] 𒇯𒄉 du6-ul "to gather" Akk. pahāru
-dul [LOWER] 𒇥 dul2 "to lower; (to be) deep"
-dul [TEXTILE] 𒂈 dul4 "a textile"
-dula [DEPTH] 𒂅𒇲 du5-la2 "depth; part of a door (lower pivot?)" Akk. šuplu; mušpalu
-dulum [TOIL] 𒁺𒈝;𒌅𒈝 du-lum; du2-lum "misery; toil"
-dumdam [CLAMOR] 𒌈𒁮 dum-dam "clamor" Akk. nazāmu; ramāmu
-dumdam [SOUND] 𒌈𒁮 dum-dam "to make noise"
-dumdam ak [MAKE NOISE] 𒌈𒁮𒀝 dum-dam ak "to make noise"
-dumdam za [MAKE NOISE] 𒌈𒁮𒍝 dum-dam za "to make noise"
-dumu [CHILD] 𒌉;𒂅𒈬 dumu; du5-mu "child, son, daughter" Akk. māru
-dumudaba [LABORER] 𒌉𒁕𒁀 dumu-da-ba "an agricultural worker"
-dumudaba [WORKER] 𒌉𒆪𒁀 dumu-dab5-ba "a type of worker"
-dumugugur [WORKER] 𒌉𒄞𒄥 dumu-gu4-gur "a type of worker"
-dumuĝir [CITIZEN] 𒌉𒂠 dumu-ĝir15 "citizen" Akk. ?
-dumuKA [RELATION] 𒌉𒅗 dumu-KA "a kinship term" Akk. ?
-dumumunus [DAUGHTER] 𒌉𒊩 dumu-munus "daughter" Akk. mārtu
-dumuni [PLANT] 𒌑𒌉𒉌 u2dumu-ni "a plant"
-dumunita [SON] 𒌉𒍑 dumu-nita "son" Akk. māru
-dumusaĝ [FIRST-BORN] 𒌉𒊕 dumu-saĝ "first-born"
-dumusaĝĝa [OFFICIAL] 𒌉𒋃 dumu-saĝĝa "an official"
-dumutab [TWIN] 𒌉𒋰 dumu-tab "twin"
-dun [DIG] 𒂄 dun "to dig" Akk. herû
-dun [HUMBLE] 𒍘𒈾 dun5-na "humble" Akk. wašru
-dun [PROFIT] 𒂄 dun "profit"
-dun [ROAM] 𒍘 dun5 "to roam around; to rock, churn" Akk. dâlu; mâşu
-dun [WARP] 𒂄;𒂀 dun; DUB2 "to lay (the warp)" Akk. dêpu; kamādu; šatû
-dun [WEAPON] 𒂈 dun4 "a thrusting weapon" Akk. dēpu
-DUNGIŠA [BIRD] 𒂅𒄀𒊷𒄷 DUN3.GI.ŠA6mušen "a bird"
-dungu [CLOUD] 𒅎𒋛𒀀 dungu "cloud" Akk. erpetu; upû
-DUNGUNU [OBJECT] 𒌓𒊕𒁇𒂅 zabar|DUN3@g| "a bronze item"
-dunnu [FORTRESS] 𒁺𒌦𒉡𒌝 du-un-nu-um "fortress" Akk. dunnu
-dupsik [BASKET] 𒂵𒂅 ga.TUN "basket";𒄑𒂵𒂅 ga.TUN "basket";𒄀𒂵𒂅 ga.TUN "basket";𒉽𒈿𒉺 dupsik; ĝešdupsik; gidupsik; zub-sig3 "a basket (for carrying earth and bricks)" Akk. tupšikku
-dur [AX] 𒊿 dur10 "ax" Akk. pāštu
-dur [BALK] 𒄙 dur "balk?"
-dur [BIRD] 𒄙𒄷;𒂉𒄷 durmušen; dur2mušen "a bird"
-dur [BOARD] 𒄑𒂉 ĝešdur2 "wooden ledger board; board" Akk. kiskirru
-dur [BOND] 𒄙;𒄀𒄙 dur; gidur "binding, knot, bond, tie; umbilical cord; rope" Akk. abunnatu; markasu; ţurru
-dur [BREAK WIND] 𒂉 dur2 "break wind"
-dur [BUTTOCKS] 𒂉 dur2 "defile, cleft; buttocks, rump" Akk. pūqu; šuburru
-dur [DONKEY] 𒀲𒀴;𒂄;𒀲𒀴𒃡 dur3; dur9; dur3ur3 "young male donkey" Akk. mūru
-dur [FART] 𒂉 dur2 "to fart" Akk. şarātu
-dur [SIT] 𒂉 dur2 "imperfect singular stem of tuš[to sit (down)]" Akk. ašābu
-dur [TOTALITY] 𒄙 dur "totality" Akk. kullatu
-dur ĝar [SIT] 𒂉𒃻 dur2 ĝar "to sit" Akk. (w)ašābu
-DUR.DUR [BIRD] 𒂉𒂉𒄷 |DUR2.DUR2|mušen "a bird"
-durah [GOAT] 𒁱(𒁱);𒁰 DARA3 durahx(DARA4); durah "wild goat, mountain goat" Akk. turāhu
-durallu [AX] 𒊿𒀠𒈜 LUB lupo welpe wolf dur10-al-lu5 "an ax"
-durBAD [BIRD] 𒂉𒂦𒄷 dur2-BAD3mušen "a bird"
-durdar [BIRD] 𒄙𒁯𒄷 dur-darmušen "a bird"
-durgag [AX] 𒊿𒆕 dur10-gag "an ax"
-durĝar [CHAIR] 𒄑𒂉𒃻;𒂉𒃻;𒂉𒃻U+1234F ĝešdur2-ĝar; dur2-gar; dur2-garurudu "chair" Akk. kussû
-duri [FOREVER] 𒁺𒌷 du-ri2 "forever" Akk. dūru
-duri [MALE] 𒉢 duri "male; (to be) virile" Akk. zikaru
-durme [CHAIN] 𒊕𒂡 durme "chain" Akk. šeršerru
-durmina [BRECCIA] 𒎎𒄙𒈪𒈾;𒎎𒂉𒈪𒈾 na4dur-mi-na; na4dur2-mi-na "breccia, mottled stone" Akk. turminû
-durminabanda [STONE] 𒎎𒄙𒈪𒌉𒁕 na4dur-ĝi6-ban3-da "a stone"
-durminabanda [STONE] 𒎎𒄙𒈪𒌉𒁕 na4dur-ĝi6-ban3-da "a stone"
-duršul [BIRD] 𒂉𒂄𒄷;𒄙𒂄𒄷 dur2-šulmušen; dur-šulmušen "a bird"
-durtaba [AX] 𒊿𒋰𒁀 dur10-tab-ba "an ax"
-duru [WET] 𒀀;𒀀𒊒 duru5; duru5ru "(to be) soft; (to be) wet, irrigated, damp, fresh" Akk. labāku; raţbu
-durul [STONE] 𒎎𒄙 na4dur-ul3 "stone"
-durum [BIRD] 𒄙𒊒𒌝𒄷 dur-ru-ummušen "a bird" Akk. durummu
-durun [SIT] 𒆪𒆪𒆪𒆪;𒂉;𒂉𒊒𒌦 durunx(|KU.KU|); durun; dur2-ru-un "plural stem of tuš[to sit (down)]" Akk. ašābu
-duruna [OVEN] 𒅎?;𒅎𒋾𒉡𒌨;𒆪𒆪𒆪𒆪 imduruna2; imti-nu-ur; durunax(|KU.KU|) "oven, tannour" Akk. tinûru
-dus [BATHROOM] 𒄭𒍑 du10-us2 "bathroom" Akk. narmaku
-dus [PATH] 𒄭𒍑;𒁺𒍑 du10-us2; du-us2 "path" Akk. kibsu
-dusa [FRIEND] 𒄭𒍑𒊓;𒄭𒊓;𒁺𒍑𒊓;𒌅𒍑𒊓 du10-us2-sa; du10-sa; du-us2-sa; du2-us2-sa "friend, companion" Akk. ru'u
-dusu [EQUID] 𒀲𒅆𒂠;𒀲𒅆𒁳𒀲𒅆𒁳 dusu2; dusux(|ANŠE.IGI.DIB|) "donkey" Akk. agālu
-dušia [STONE] 𒎎𒂃𒅆𒀀 na4du8-ši-a "a stone, turquoise?, quartz?; turquoise green" Akk. dušû
+>>>  da mušen  
+ da  [ BIRD ]  𒁕𒄷  da mušen  "a bird" 
+>>>  da  
+ da  [ CVVE ]  𒁕  da  "(compound verb verbal element)" 
+>>>  da  
+ da  [ LINE ]  𒁕  da  "line, edge, side" 
+>>>  ĝeš da  
+ da  [ SIDE BOARD ]  𒄑𒁕  ĝeš da  "side board (of a chariot)" Akk.  marhaşu 
+>>>  da9  
+ da  [ STIR ]  𒌤  da9  "to stir into a liquid" Akk.  marāsu 
+>>>  ĝeš da  
+ da  [ WRITING BOARD ]  𒄑𒁕  ĝeš da  "writing board" Akk.  lē'û 
+>>>  dab5 ;  dab ;  dab5 -dab5 ;  dab x (|LAGAB×GUD|)  
+ dab  [ SEIZE ]  𒆪;𒁳;𒆪𒆪;|LAGAB×GUD|(𒇆)  dab5 ;  dab ;  dab5 -dab5 ;  dab x (|LAGAB×GUD|)  "to seize, take, hold; to bind; to envelop, overwhelm; to choose (by extispicy); to accept; to take charge of" Akk.  sahāpu ;  tamāhu; kamû ;  şabātu 
+>>>  kuš da-ba  
+ daba  [ STRAP ]  𒋢𒁕𒁀  kuš da-ba  "strap" 
+>>>  daban  
+ daban  [ HARNESS ]  𒋰𒋰𒑖  daban  "a part of a harness" Akk.  šardappu 
+>>>  da-ba-ri-ri ;  lu2 da-ba-ri-ri  
+ dabariri  [ LIAR ]  𒁕𒁀𒊑𒊑;𒇽𒁕𒁀𒊑𒊑  da-ba-ri-ri ;  lu2 da-ba-ri-ri  "liar?; trickster?" 
+>>>  kuš dabašin  
+ dabašin  [ OBJECT ]  𒋢KU₇  kuš dabašin  "a leather object" Akk.  dabašinnu 
+>>>  da-ba-tum  
+ dabatum  [ TEXTILE ]  𒁕𒁀𒌈  da-ba-tum  "a textile" Akk.  tapatu 
+>>>  dug da-bil2 -tum  
+ dabiltum  [ POT ]  𒂁𒁕𒉋𒌈  dug da-bil2 -tum  "a pot" Akk.  tabiltu 
+>>>  dabin  
+ dabin  [ SEMOLINA ]  𒍥𒊺  dabin  "semolina, barley grits" Akk.  tappinnu 
+>>>  da-da ;  da3 -da3 da  
+ dada  [ HOSTILE ]  𒁕𒁕;𒆕𒆕𒁕  da-da ;  da3 -da3 da  "(to be) hostile; to be difficult" Akk.  wašţum 
+>>>  dadag ;  dag2  
+ dadag  [ BRIGHT ]  𒌓𒌓;𒌓  dadag ;  dag2  "(to be) bright; to clean" Akk.  ebbu ;  ellu ;  namru 
+>>>  da-da-mul  
+ dadamul  [ ANIMAL ]  𒁕𒁕𒀯  da-da-mul  "an animal" 
+>>>  da-da-ra  
+ dadara  [ TIED ]  𒁕𒁕𒊏  da-da-ra  "(to be) tied, cramped up" Akk.  ebēţu 
+>>>  dag  
+ dag  [ DEMOLISH ]  𒁖  dag  "to demolish; to scratch; overthrow, military repulse" Akk.  naqāru ;  sukuptu 
+>>>  dag  
+ dag  [ DWELLING ]  𒁖  dag  "dwelling" Akk.  šubtu 
+>>>  da  
+ dag  [ SIDE ]  𒁕  da  "side; vicinity" Akk.  idu 
+>>>  da-gal-tum-ma  
+ dagaltum  [ POUCH ]  𒁕𒃲𒌈𒈠  da-gal-tum-ma  "pouch" 
+>>>  da-gan  
+ dagan  [ TOTALITY ]  𒁕𒃶  da-gan  "totality; assembly; band" Akk.  kullatu ;  puhru ;  riksu 
+>>>  dag-dug  
+ dagdug  [ POTSTANDS ]  𒁖𒂁  dag-dug  "potstands" Akk.  ? 
+>>>  da-gan2  
+ daggan  [ CHAMBER ]  𒁕𒃷  da-gan2  "(sleeping) chamber?" 
+>>>  daggan ;  da-gan2  
+ daggan  [ DOORWAY? ]  𒆠𒍇;𒁕𒃷  daggan ;  da-gan2  "doorway or door part" Akk.  dakkannu 
+>>>  na4 da-gaz  
+ daggaz  [ BLOCK ]  𒎎𒁕𒄤  na4 da-gaz  "a stone block" 
+>>>  dag-gi4  
+ daggi  [ QUARTER ]  𒁖𒄄  dag-gi4  "city quarter" 
+>>>  |DAG.KISIM5 ×AB2 |  
+ DAGKISIMAB  [ COWSHED ]  𒁖𒆨·𒀖  |DAG.KISIM5 ×AB2 |  "cowshed" 
+>>>  dag-si  
+ dagsi  [ HOOK ]  𒁖𒋛  dag-si  "saddle hook" 
+>>>  dag-si-ru-um  
+ dagsirum  [ REPAIR? ]  𒁖𒋛𒊒𒌝  dag-si-ru-um  "repair?" 
+>>>  da-gum  
+ dagum  [ UNMNG ]  𒁕𒄣  da-gum  "?" 
+>>>  daĝal ;  dam-gal ;  di-am-ga-al ;  da-ma-al  
+ daĝal  [ WIDE ]  𒂼;𒁮𒃲;𒁲𒄠𒂵𒀠;𒁕𒈠𒀠  daĝal ;  dam-gal ;  di-am-ga-al ;  da-ma-al  "(to be) wide; width, breadth" Akk.  rupšu 
+>>>  daĝal tag  
+ daĝal tag  [ SPREAD ]  𒂼𒋳  daĝal tag  "to spread wide; to give lavishly" Akk.  ? 
+>>>  ĝeš da-ha-ša  
+ dahaša  [ CASK ]  𒄑𒁕𒄩𒊭  ĝeš da-ha-ša  "wooden cask" 
+>>>  da-KA ku6  
+ daKA  [ FISH ]  𒁕𒅗𒄩  da-KA ku6  "a fish" 
+>>>  da-ki-ru-um  
+ dakirum  [ UNMNG ]  𒁕𒆠𒊒𒌝  da-ki-ru-um  "?" Akk.  ? 
+>>>  dal ;  dal x (HU)  
+ dal  [ FLY ]  𒊑;𒄷(𒄷)  dal ;  dal x (HU)  "to fly" Akk.  naprušu 
+>>>  dal  
+ dal  [ LINE ]  𒊑  dal  "dividing line, transverse line" Akk.  perku 
+>>>  dug dal  
+ dal  [ VESSEL ]  𒂁𒊑  dug dal  "a measuring vessel?" Akk.  nassapu 
+>>>  ĝeš dala2 ;  dalla2 ;  kuš dala2  
+ dala  [ THORN ]  𒄑𒅆𒆕;𒅆𒉌;𒋢𒅆𒆕  ĝeš dala2 ;  dalla2 ;  kuš dala2  "thorn, pin, needle; a lance" Akk.  dalû ;  şillû; gubru 
+>>>  dal-ba-na  
+ dalbana  [ SPACE ]  𒊑𒁀𒈾  dal-ba-na  "intermediate space; property held in common" Akk.  birītu 
+>>>  dal-ha-mun ;  dalhamun ;  dalhamun6 ;  dalhamun7 ;  dalhamun5  
+ dalhamun  [ STORM ]  𒊑𒄩𒁵;𒅎𒋖;𒅐;𒉃;𒀰  dal-ha-mun ;  dalhamun ;  dalhamun6 ;  dalhamun7 ;  dalhamun5  "dust storm; disaster" Akk.  ašamšûtu ;  hābu 
+>>>  dalla  
+ dalla  [ BRIGHT ]  𒈦𒄘𒃼  dalla  "(to be ) bright; (to be) impetuous, fierce" Akk.  ellu 
+>>>  dalla  
+ dalla  [ RING ]  𒈦𒄘𒃼  dalla  "ring; crown" Akk.  kamkammatu 
+>>>  dalla e2  
+ dalla e  [ APPEAR ]  𒈦𒄘𒃼𒂍  dalla e2  "to appear, shine" Akk.  šūpû 
+>>>  ĝeš da-lu  
+ dalu  [ BAG ]  𒄑𒁕𒇻  ĝeš da-lu  "bag, stomach" Akk.  tākaltu 
+>>>  kuš da-lu-uš2 ;  kuš da-lu  
+ dalu  [ OBJECT ]  𒋢𒁕𒇻𒍗;𒋢𒁕𒇻  kuš da-lu-uš2 ;  kuš da-lu  "a leather object" Akk.  anuššu 
+>>>  dam  
+ dam  [ SPOUSE ]  𒁮  dam  "spouse" Akk.  aššatu ;  mutu 
+>>>  dam-ban3 -da  
+ dambanda  [ WIFE ]  𒁮𒌉𒁕  dam-ban3 -da  "wife" 
+>>>  dam-eĝir  
+ dameĝir  [ WIFE ]  𒁮𒂕  dam-eĝir  "junior wife" 
+>>>  ĝeš dam ;  ĝeš da-an-ga ;  ĝeš dam-ga ;  kuš dam-ga  
+ damga  [ ~PLOW ]  𒄑𒁮;𒄑𒁕𒀭𒂵;𒄑𒁮𒂵;𒋢𒁮𒂵  ĝeš dam ;  ĝeš da-an-ga ;  ĝeš dam-ga ;  kuš dam-ga  "a part of a plow" Akk.  puqdu 
+>>>  dam-gar3  
+ damgar  [ MERCHANT ]  𒁮𒃼  dam-gar3  "merchant, trader" Akk.  tamkāru 
+>>>  dam-gar3 -gal ;  dam-gar3  
+ damgargal  [ MERCHANT ]  𒁮𒃼𒃲;𒁮𒃼  dam-gar3 -gal ;  dam-gar3  "leading merchant" 
+>>>  dam-ha-ra  
+ damhara  [ BATTLE ]  𒁮𒄩𒊏  dam-ha-ra  "battle" Akk.  tamhāru 
+>>>  dam-kas4  
+ damkas  [ OFFICIAL ]  𒁮𒁽  dam-kas4  "an official" 
+>>>  dam-kaš4  
+ damkaš  [ PROFESSION ]  𒁮𒁽  dam-kaš4  "a profession" 
+>>>  dam-šah  
+ damšah  [ ANIMAL ]  𒁮𒋚  dam-šah  "crocodile?, hippopotamus?" Akk.  dabû 
+>>>  dam-še-lum ;  ĝeš hašhur dam-šil-lum  
+ damšelum  [ PLANT ]  𒁮𒊺𒈝;𒄑𒈢𒁮𒋻𒈝  dam-še-lum ;  ĝeš hašhur dam-šil-lum  "a plant" Akk.  damšillu 
+>>>  dan6 ;  dan3 ;  dan4 ;  dan2  
+ dan  [ PURE ]  𒍕;𒃩;𒃋;𒃉  dan6 ;  dan3 ;  dan4 ;  dan2  "(to be) pure, clear; to clean" Akk.  zakû 
+>>>  da-na ;  danna ;  dana2  
+ dana  [ UNIT ]  𒁕𒈾;𒆜𒁍;𒆜  da-na ;  danna ;  dana2  "a unit of length, double-hour (distance), double-mile" Akk.  bêru 
+>>>  DA.NAGAR  
+ DANAGAR  [ CONTAINER ]  𒁕𒉄  DA.NAGAR  "a container" 
+>>>  daparu  
+ daparu  [ DEFEAT ]  𒇽𒈨𒂗  daparu  "defeat, annihilation; (to be) resistant, obstinate" Akk.  kamāru ;  karašû ;  šapşu 
+>>>  da-pu2  
+ dapu  [ WELL ]  𒁕𒇥  da-pu2  "well installation" 
+>>>  dar mušen  
+ dar  [ BIRD ]  𒁯𒄷  dar mušen  "a bird, black francolin" Akk.  ittidû ;  tarru 
+>>>  dar  
+ dar  [ DRIP? ]  𒁯  dar  "to drip?" 
+>>>  dar  
+ dar  [ SPLIT ]  𒁯  dar  "to break up, crush, grind; to split, split up; to cut open" Akk.  pênu ;  pêşu ;  salātu ;  šalāqu ;  šatāqu 
+>>>  dar-NI  
+ dar.NI  [ BIRD ]  𒁯𒉌  dar-NI  "a bird" 
+>>>  tug2 dara4 ;  dara2 ;  tug2 dara2  
+ dara  [ BELT ]  𒌆𒁱;𒅁;𒌆𒅁  tug2 dara4 ;  dara2 ;  tug2 dara2  "belt, sash, girdle; string" Akk.  izhu ;  nēbettu 
+>>>  dar-ra ku6  
+ dara  [ FISH ]  𒁯𒊏𒄩  dar-ra ku6  "a fish" 
+>>>  dara4  
+ dara  [ RED ]  𒁱  dara4  "(to be) red; (to be) brown; blood" Akk.  dāmu 
+>>>  dara5  
+ dara  [ UNMNG ]  𒄒  dara5  "?" Akk.  parriku 
+>>>  dara3 -maš  
+ daramaš  [ RAM ]  𒁰𒈦  dara3 -maš  "ram" Akk.  ālu 
+>>>  dara3 -nita ku6  
+ daranita  [ FISH ]  𒁰𒍑𒄩  dara3 -nita ku6  "a fish" 
+>>>  da-ra-an-šub  
+ daranšub  [ NEGLIGENT ]  𒁕𒊏𒀭𒊒  da-ra-an-šub  "negligent" Akk.  egû, baţlu 
+>>>  da-ra-an-šub  
+ daranšub  [ ~WORKER ]  𒁕𒊏𒀭𒊒  da-ra-an-šub  "a designation of workers" 
+>>>  dar-gi-zi mušen  
+ dargizi  [ BIRD ]  𒁯𒄀𒍥𒄷  dar-gi-zi mušen  "a bird" Akk.  durummu 
+>>>  da-ri2 ;  da-ri ;  du-ri  
+ dari  [ ETERNAL ]  𒁕𒌷;𒁕𒊑;𒁺𒊑  da-ri2 ;  da-ri ;  du-ri  "(to be)eternal" Akk.  dārû 
+>>>  da-ri  
+ dari  [ SUPPORT ]  𒁕𒊑  da-ri  "to support" 
+>>>  dar-tar  
+ dartar  [ TIED ]  𒁯𒋻  dar-tar  "(to be) tied" 
+>>>  dar-zi-zi mušen ;  dar-si12 -si12 mušen  
+ darzizi  [ BIRD ]  𒁯𒍥𒍥𒄷;𒁯𒅊𒅊𒄷  dar-zi-zi mušen ;  dar-si12 -si12 mušen  "a bird" 
+>>>  de6 ;  ga ;  de3 ;  ir ;  de2  
+ de  [ BRING ]  𒁺;𒂵;𒉈;𒅕;𒌤  de6 ;  ga ;  de3 ;  ir ;  de2  "to bring, carry" Akk.  babālu 
+>>>  de2  
+ de  [ POUR ]  𒌤  de2  "to pour; to winnow" Akk.  šapāku ;  šaqû 
+>>>  de2  
+ de  [ SHAPE ]  𒌤  de2  "to shape, create" Akk.  patāqu 
+>>>  deg x (RI)  
+ deg  [ COLLECT ]  𒊑(𒊑)  deg x (RI)  "to take; to gather up, glean; to tear out; to collect, pick up" Akk.  ahāzu ;  laqātu ;  leqû ;  nasāhu 
+>>>  lu2 deg5 -deg5 -ga ;  deg5 -deg5 -ga  
+ degdega  [ WORKER ]  𒇽¿¿𒂵;¿¿𒂵  lu2 deg5 -deg5 -ga ;  deg5 -deg5 -ga  "a category of worker" 
+>>>  de-hi ;  dehi  
+ dehi  [ SUPPORT ]  𒌤𒄭;𒁾  de-hi ;  dehi  "support, stanchion; tax" Akk.  imdu 
+>>>  de3 -ša-na  
+ dešana  [ IN-LAW ]  𒉈𒊭𒈾  de3 -ša-na  "mother-in-law" 
+>>>  di  
+ di  [ GO ]  𒁲  di  "go" 
+>>>  di5  
+ di  [ HAVE A BOWEL DISORDER ]  𒊑  di5  "to have a bowel disorder" Akk.  nâţu 
+>>>  di5  
+ di  [ SHINE ]  𒊑  di5  "to shine" Akk.  nabāţu 
+>>>  di  
+ di  [ SPEAK ]  𒁲  di  "non-finite imperfect stem of dug[to speak]" Akk.  atwû ;  dabābu ;  qabû 
+>>>  di ĝar  
+ di ĝar  [ SUE ]  𒁲𒃻  di ĝar  "to sue, make a legal claim" 
+>>>  di kud  
+ di kud  [ JUDGE ]  𒁲𒋻  di kud  "to judge" Akk.  dīnu dânu 
+>>>  dib  
+ dib  [ BOARD ]  𒁳  dib  "board" Akk.  dibbu 
+>>>  dib  
+ dib  [ BURN ]  𒁳  dib  "to burn; wrath" Akk.  kabābu ;  kimiltu 
+>>>  dib ;  dib2 ;  di-ib  
+ dib  [ PASS ]  𒁳;𒆪;𒁲𒅁  dib ;  dib2 ;  di-ib  "to pass, go along; to go past; to go through; to cross over; to audit; to transfer" Akk.  bâ'u ;  etēqu 
+>>>  ĝeš dib-dib  
+ dibdib  [ WATERCLOCK ]  𒄑𒁳𒁳  ĝeš dib-dib  "waterclock, mathematical term; ?" Akk.  dibdibbu ;  maštaqtu 
+>>>  di-bi-id  
+ dibid  [ CAMEL ]  𒁲𒁉𒀉  di-bi-id  "camel" 
+>>>  di-bi-da  
+ dibida  [ DONKEY ]  𒁲𒁉𒁕  di-bi-da  "donkey" 
+>>>  di-bi-da  
+ dibida  [ SWELL ]  𒁲𒁉𒁕  di-bi-da  "to swell, to have colic" Akk.  emēru 
+>>>  di-bi-ri  
+ dibiri  [ SWINDLER ]  𒁲𒁉𒊑  di-bi-ri  "con artist" 
+>>>  di  
+ did  [ LAWSUIT ]  𒁲  di  "lawsuit, trial; legal decision" Akk.  dīnu 
+>>>  dida ;  dida x (|U2 .SA|)  
+ dida  [ WORT ]  𒁉𒌑𒊓;|U₂.SA|(𒌑𒊓)  dida ;  dida x (|U2 .SA|)  "sweet wort, an ingredient for beer making; beer for transport" Akk.  billatu 
+>>>  dida imĝaĝa ;  kaš dida imĝaĝa  
+ dida'imĝaĝa  [ BEER ]  𒁉𒌑𒊓|AŠ₂.AN|;𒁽𒁉𒌑𒊓|AŠ₂.AN|  dida imĝaĝa ;  kaš dida imĝaĝa  "sweet beer" Akk.  dišiptuhhu 
+>>>  didal x (NE) ;  de3 -dal  
+ didal  [ ASHES ]  𒉈(𒉈);𒉈𒊑  didal x (NE) ;  de3 -dal  "ashes" Akk.  didallu ;  ţikmēnu 
+>>>  di4 -di4 -la2 ;  di4 -di4 -la ;  di4 -di4  
+ didila  [ SMALLER ]  𒌉𒌉𒇲;𒌉𒌉𒆷;𒌉𒌉  di4 -di4 -la2 ;  di4 -di4 -la ;  di4 -di4  "(to be) small(er)" Akk.  daqqu 
+>>>  didli ku6  
+ didli  [ FISH ]  𒐀𒄩  didli ku6  "a fish" 
+>>>  didli  
+ didli  [ SEVERAL ]  𒐀  didli  "several, various" Akk.  mādūtu 
+>>>  dig  
+ dig  [ PARALYZED ]  𒉌  dig  "(to be) paralyzed, to suffer paralysis" Akk.  rimûtu 
+>>>  dig  
+ dig  [ SOFT ]  𒉌  dig  "(to be) soft; to soften" Akk.  labāku ;  narbu 
+>>>  digbir  
+ digbir  [ UNMNG ]  𒆠𒉈𒀭𒈹  digbir  "?" Akk.  amar usandî ;  ašar usandî ;  aşur pindi 
+>>>  diĝir ;  dim3 -me-er ;  dim3 -me8 -er ;  dim3 -mi-ir ;  di-me2 -er  
+ diĝir  [ DEITY ]  𒀭;𒈚𒈨𒅕;𒈚𒉿𒅕;𒈚𒈪𒅕;𒁲𒈪𒅕  diĝir ;  dim3 -me-er ;  dim3 -me8 -er ;  dim3 -mi-ir ;  di-me2 -er  "deity, god, goddess" Akk.  iltu ;  ilu 
+>>>  diĝir-ama  
+ diĝir'ama  [ MOTHER ]  𒀭𒂼 Mama : mother!!  diĝir-ama  "divine mother" 
+>>>  diĝir-dumu  
+ diĝirdumu  [ SON ]  𒀭𒌉  diĝir-dumu  "divine son" 
+>>>  dih3 ;  ĝeš dih3  
+ dih  [ CHAOS ]  𒆨;𒄑𒆨  dih3 ;  ĝeš dih3  "chaos, turmoil" Akk.  sahmaštu 
+>>>  ĝeš dih3 ;  dih3 ;  ĝeš tehi  
+ dih  [ WEED ]  𒄑𒆨;𒆨;𒄑𒁾  ĝeš dih3 ;  dih3 ;  ĝeš tehi  "a weed with thorns" Akk.  baltu 
+>>>  dih  
+ dihi  [ ILLNESS ]  𒆨  dih  "an illness" Akk.  la'ību 
+>>>  di-kud  
+ dikud  [ JUDGE ]  𒁲𒋻  di-kud  "judge" 
+>>>  dili ku6  
+ dili  [ FISH ]  𒀸𒄩  dili ku6  "a fish" 
+>>>  dili ;  di-il5  
+ dili  [ SINGLE ]  𒀸;𒁲𒂖  dili ;  di-il5  "(to be) single, unique, sole; (to be) alone" Akk.  dēlu ;  ēdu 
+>>>  dilib ;  dilib3 ;  dilib2 ;  dilib4 ;  dilib5 ;  dilib6  
+ dilib  [ HAIR ]  𒋃;𒊠;𒆂;𒊞;𒊦;𒊟  dilib ;  dilib3 ;  dilib2 ;  dilib4 ;  dilib5 ;  dilib6  "hair" Akk.  uruhhu 
+>>>  dili-bad  
+ dilibad  [ SHINING ]  𒀸𒁁  dili-bad  "shining" Akk.  nebû 
+>>>  di-li-bi-pi-la ;  di-li-ib-pi  
+ dilibipila  [ BIRD-CRY ]  𒁲𒇷𒁉𒉿𒆷;𒁲𒇷𒅁𒉿  di-li-bi-pi-la ;  di-li-ib-pi  "a bird call" 
+>>>  dilim3  
+ dilim  [ OVEN ]  𒇌  dilim3  "oven" Akk.  tinūru 
+>>>  dilim2 ;  dilim ;  zabar dilim2  
+ dilim  [ SPOON ]  𒇺;𒇺;𒌓𒊕𒁇𒇺  dilim2 ;  dilim ;  zabar dilim2  "spoon; balance pan" Akk.  itqūru 
+>>>  ĝeš dilim2 -banda3 da  
+ dilimbanda  [ BOWL ]  𒄑𒇺𒌉𒁕  ĝeš dilim2 -banda3 da  "a bowl" Akk.  tannu 
+>>>  ĝeš dilim2 -gal  
+ dilimgal  [ DISH ]  𒄑𒇺𒃲  ĝeš dilim2 -gal  "dish, shallow bowl" Akk.  mākaltu 
+>>>  dili-us2  
+ dilius  [ COMPANION? ]  𒀸𒍑  dili-us2  "companion?" 
+>>>  dilmun  
+ dilmun  [ IMPORTANT ]  𒉌𒌇  dilmun  "(to be) made manifest; (to be) heavy; (to be) important; ritually unclean, impure person; instruction" Akk.  kabtu ;  musukku ;  têrtu ;  šûpû 
+>>>  dilur x (|MA2 .KAK|) ;  dilur  
+ dilur  [ POLE ]  |MA₂.KAK|(𒈣𒆕);𒈣𒈮  dilur x (|MA2 .KAK|) ;  dilur  "mast" Akk.  akû 
+>>>  dim4  
+ dim  [ CHECK ]  𒉽𒉽  dim4  "to check; to approach" Akk.  sanāqu 
+>>>  dim3  
+ dim  [ CORPSE ]  𒈚  dim3  "corpse" 
+>>>  dim2  
+ dim  [ CREATE ]  𒁶  dim2  "to create, make, manufacture; to replace?; to bring forth?" Akk.  banû 
+>>>  dim ku6  
+ dim  [ FISH ]  𒁴𒄩  dim ku6  "a fish" 
+>>>  dim3  
+ dim  [ HELPLESS ]  𒈚  dim3  "to be helpless" 
+>>>  dim  
+ dim  [ PLANT ]  𒁴  dim  "plant" 
+>>>  dim ;  dim3 ;  ĝeš dim  
+ dim  [ POST ]  𒁴;𒈚;𒄑𒁴  dim ;  dim3 ;  ĝeš dim  "post, pillar, pole; binding, knot, bond" Akk.  mahrašu ;  makūtu ;  riksu ;  timmu 
+>>>  dim12 ;  dim6  
+ dim  [ UNMNG ]  𒋃;𒌤  dim12 ;  dim6  "?" Akk.  ? 
+>>>  DIM4  
+ DIM  [ OFFICIAL ]  𒉽𒉽  DIM4  "an official" 
+>>>  dim3 ;  dim3 -ma  
+ dima  [ OBJECT ]  𒈚;𒈚𒈠  dim3 ;  dim3 -ma  "small object, figurine" 
+>>>  ĝeš dim3 -dim3  
+ dimdim  [ INSTRUMENT ]  𒄑𒈚𒈚  ĝeš dim3 -dim3  "a musical instrument" 
+>>>  dim-dim  
+ dimdim  [ TOWER ]  𒁴𒁴  dim-dim  "(fortified) tower" 
+>>>  dim-gal ;  di-im-gu-ul  
+ dimgal  [ POLE ]  𒁴𒃲;𒁲𒅎𒄖𒌌  dim-gal ;  di-im-gu-ul  "a pole" Akk.  mahrašu ;  markasu ;  ushamu 
+>>>  dim3 -gi4  
+ dimgi  [ PLANT ]  𒈚𒄄  dim3 -gi4  "a plant" 
+>>>  dim-gi sar  
+ dimgi  [ VEGETABLE ]  𒁴𒄀𒊬  dim-gi sar  "a vegetable" Akk.  akkulakku ;  şippatu 
+>>>  ĝeš dim3 -lu2 -ma2 -gur8 -ra  
+ dimlumagurak  [ INSTRUMENT ]  𒄑𒈚𒇽𒈣𒋽𒊏  ĝeš dim3 -lu2 -ma2 -gur8 -ra  "type of instrument" 
+>>>  dim2 -ma ;  dimma  
+ dimma  [ THOUGHT ]  𒁶𒈠;𒁆𒈠  dim2 -ma ;  dimma  "thought, planning; instruction" Akk.  ţēmu 
+>>>  dim x (BALAĜ)-ma  
+ dimma  [ ~SHEEP ]  BALAG.MA(𒁆)𒈠  dim x (BALAĜ)-ma  "a designation of sheep" Akk.  takmīsu 
+>>>  ĝeš dim3 -mar-šu  
+ dimmaršu  [ INSTRUMENT ]  𒄑𒈚𒈥𒋗  ĝeš dim3 -mar-šu  "an instrument" 
+>>>  d dim3 -me  
+ dimme  [ DEMON ]  𒀭𒈚𒈨  d dim3 -me  "demon" Akk.  lamaštu 
+>>>  d dim3 -a ;  d dim3 -me-a  
+ dimmea  [ DEMON ]  𒀭𒈚𒀀;𒀭𒈚𒈨𒀀  d dim3 -a ;  d dim3 -me-a  "demon" Akk.  labāşu 
+>>>  dimna  
+ dimna  [ DAIRY ]  𒌋𒂵  dimna  "a milk product" Akk.  itirtu 
+>>>  dim2 -sa  
+ dimsa  [ UNMNG ]  𒁶𒊓  dim2 -sa  "?" 
+>>>  dim3 -šah  
+ dimšah  [ BEAR? ]  𒈚𒋚  dim3 -šah  "bear?" Akk.  margû 
+>>>  dim3 -šah2  
+ dimšah  [ HIPPOPOTAMUS ]  𒈚𒂄  dim3 -šah2  "hippopotamus" 
+>>>  ĝeš dim-ši-lum ;  ĝeš dim3  
+ dimšilum  [ WOOD ]  𒄑𒁴𒅆𒈝;𒄑𒈚  ĝeš dim-ši-lum ;  ĝeš dim3  "a type of wood" Akk.  damšillu 
+>>>  dimuš  
+ dimuš  [ SHELTER ]  𒌑𒄑𒈪  dimuš  "reed shelter, nest; reed stalk" Akk.  kumāşu ;  kušāru 
+>>>  DIN  
+ DIN  [ UNMNG ]  𒁷  DIN  "?" Akk.  ? 
+>>>  ĝeš di-ne-tum  
+ dinetum  [ OBJECT ]  𒄑𒁲𒉈𒌈  ĝeš di-ne-tum  "a wooden object" 
+>>>  dinig ;  dinig3 ;  di-ni-ig  
+ dinig  [ KILN ]  |KI.NE|;|LU₂×LAGAB|;𒁲𒉌𒅅  dinig ;  dinig3 ;  di-ni-ig  "smith, metalworker; kiln, furnace; air vent" Akk.  kūru ;  nappašu ;  nappāhu 
+>>>  dinig2  
+ dinig  [ RESISTANT ]  |LU₂×ME+EN|  dinig2  "(to be) resistant, obstinate" Akk.  šapşu 
+>>>  di-ni-ig  
+ dinig  [ SALT ]  𒁲𒉌𒅅  di-ni-ig  "salt; potash" Akk.  itrānu ;  ţabtu 
+>>>  di-ir-ga  
+ dirga  [ BOND ]  𒁲𒅕𒂵  di-ir-ga  "bond" Akk.  riksu 
+>>>  di-ri-da ;  ti-ri-da ;  te-ri-ta  
+ dirida  [ INSTRUCTION ]  𒁲𒊑𒁕;𒋾𒊑𒁕;𒋼𒊑𒋫  di-ri-da ;  ti-ri-da ;  te-ri-ta  "(divine) instruction, order" Akk.  têrtu 
+>>>  diri ;  RI  
+ dirig  [ EXCEED ]  𒋛𒀀;𒊑  diri ;  RI  "(to be) very great, supreme, excellent; more than; (to be) powerful, competent; (to be) big, huge; (to be) abundant; on, over, above; against; radiance; to project, stick up, build high; (to be) surplus" Akk.  atru ;  eli ;  rabû; kapāšu ;  zaqāru ;  šarūru ;  šūturu; lē'û 
+>>>  dirig  
+ dirig  [ EXCESS ]  𒋛𒀀  dirig  "excess" 
+>>>  dirig  
+ dirig  [ FALL ]  𒋛𒀀  dirig  "to become loose, fall out; to disintegrate; to disappear; to fall down, collapse" Akk.  qâpu ;  šahāhu 
+>>>  dirig  
+ dirig  [ FLOAT ]  𒋛𒀀  dirig  "to drift (clouds); to float, glide (along/down); to go; to soak, steep, dissolve in liquid" Akk.  alāku ;  mahāhu ;  mahāru ;  neqelpû 
+>>>  diri  
+ dirig  [ GORGE ]  𒋛𒀀  diri  "gorge" 
+>>>  gi diri  
+ dirig  [ RAFT ]  𒄀𒋛𒀀  gi diri  "reed raft" Akk.  amu ;  hāmu 
+>>>  dirig  
+ dirig  [ TEAR ]  𒋛𒀀  dirig  "to tear out" Akk.  nasāhu 
+>>>  diš ;  de-eš-šu2 ;  di-id ;  di-t-  
+ diš  [ ONE ]  𒑰;𒌤𒌍𒋙;𒁲𒀉;𒁲𒋫  diš ;  de-eš-šu2 ;  di-id ;  di-t-  "one" Akk.  ištēn 
+>>>  di-til-la  
+ ditila  [ CASE ]  𒁲𒌀𒆷  di-til-la  "completed court case" Akk.  dīnu gamru ;  ditillû 
+>>>  du3  
+ du  [ ALL ]  𒆕  du3  "all" Akk.  kalāma 
+>>>  du3  
+ du  [ BUILD ]  𒆕  du3  "to build, make; to do, perform" Akk.  banû ;  epēšu 
+>>>  du6 ku6  
+ du  [ FISH ]  𒇯𒄩  du6 ku6  "a fish" 
+>>>  du  
+ du  [ GO ]  𒁺  du  "imperfect singular stem of ĝen[to go]" Akk.  alāku 
+>>>  du8  
+ du  [ HEAP ]  𒂃  du8  "to heap up, pile up" Akk.  kamāru 
+>>>  du3  
+ du  [ HOLD ]  𒆕  du3  "to hold, keep in custody" 
+>>>  du9 -du9  
+ du  [ LAMENT ]  𒍘𒍘  du9 -du9  "lament" 
+>>>  du3  
+ du  [ PLANT ]  𒆕  du3  "to plant; to fix upright, erect; to impregnate; to drive in, fix; a designation of grain" Akk.  retû ;  zaqāpu 
+>>>  du6  
+ du  [ PLATFORM ]  𒇯  du6  "throne platform for a deity" Akk.  di'u 
+>>>  du12 -du12 ;  du12  
+ du  [ PLAY ]  𒌇𒌇;𒌇  du12 -du12 ;  du12  "to play (a musical instrument)" Akk.  lapātu ;  zamāru 
+>>>  du7  
+ du  [ PUSH ]  𒌌  du7  "to push, thrust, gore; to make encounter (math.)" Akk.  nakāpu 
+>>>  du8  
+ du  [ SPREAD ]  𒂃  du8  "to bake; to spread out mud to make bricks; to caulk" Akk.  epû ;  labānu ;  pehû 
+>>>  du7  
+ du  [ SQUARE ]  𒌌  du7  "to square" 
+>>>  du7  
+ du  [ SUITABLE ]  𒌌  du7  "(to be) fitting, suitable" Akk.  asāmu ;  naţû 
+>>>  du7 -du7  
+ du  [ WHIRL ]  𒌌𒌌  du7 -du7  "to whirl" Akk.  sarû 
+>>>  DU3 -ŠU  
+ DU.ŠU  [ TOOL ]  𒆕𒋗  DU3 -ŠU  "a tool" 
+>>>  ĝeš du3 -a  
+ dua  [ INSTRUMENT ]  𒄑𒆕𒀀  ĝeš du3 -a  "instrument" 
+>>>  dab6 ;  dub  
+ dub  [ GO AROUND ]  𒍏;𒁾  dab6 ;  dub  "to go around, encircle, turn; to search; to tarry" Akk.  lawû ;  sahāru 
+>>>  dub  
+ dub  [ HEAP ]  𒁾  dub  "to strew; to heap up, pile, pour; to whirl up (a duststorm)" Akk.  sarāqu ;  šapāku 
+>>>  dub3 ;  ze2 -eb  
+ dub  [ KNEE ]  𒄭;𒍢𒅁  dub3 ;  ze2 -eb  "knee" 
+>>>  dub  
+ dub  [ TABLET ]  𒁾  dub  "tablet" Akk.  ţuppu 
+>>>  dub2 ;  dub  
+ dub  [ TREMBLE ]  𒂀;𒁾  dub2 ;  dub  "to tremble, make tremble; to push away, down; to smash, abolish" Akk.  napāşu 
+>>>  DUB  
+ DUB  [ POLE-PIN ]  𒁾  DUB  "pole-pin" 
+>>>  dub3  bad  
+ dub bad  [ GO SWIFTLY ]  𒄭𒁁  dub3  bad  "to spread the knees, to go swiftly" Akk.  pīt puridim 
+>>>  dub bala  
+ dub bala  [ GO OVER AN ACCOUNT ]  𒁾𒁄  dub bala  "to go over an account" Akk.  ? 
+>>>  dub3  dub2  
+ dub dub  [ REST ]  𒄭𒂀  dub3  dub2  "to rest" Akk.  ? 
+>>>  dub3  gurum  
+ dub gurum  [ SIT DOWN ]  𒄭𒃵  dub3  gurum  "to sit down, to take a rest" Akk.  nâhu 
+>>>  dub3  ĝal2  
+ dub ĝal  [ FIGHT ]  𒄭𒅅  dub3  ĝal2  "to fight" Akk.  ? 
+>>>  dub3  ĝar  
+ dub ĝar  [ SIT DOWN ]  𒄭𒃻  dub3  ĝar  "to sit down" Akk.  ? 
+>>>  dub3  nir  
+ dub nir  [ EJACULATE ]  𒄭𒉪  dub3  nir  "to ejaculate" Akk.  rakābu 
+>>>  dub3  zil  
+ dub zil  [ FLEE ]  𒄭𒉣  dub3  zil  "to flee" Akk.  ? 
+>>>  DUB.KAK  
+ DUB.KAK  [ SPIKE? ]  𒁾𒆕  DUB.KAK  "spike?" 
+>>>  dubad  
+ dubad  [ LAND ]  𒆠𒆗  dubad  "a type of fallow land" Akk.  apītu 
+>>>  dubal ;  dubal2 ;  dubal4 ;  dubal6 ;  dubal7  
+ dubal  [ CATERPILLAR ]  𒀥;𒀦;𒈆;𒈈;𒈐  dubal ;  dubal2 ;  dubal4 ;  dubal6 ;  dubal7  "caterpillar" Akk.  nappilu 
+>>>  dub-ba-an ;  gi dub-ba-an  
+ dubban  [ FENCE ]  𒁾𒁀𒀭;𒄀𒁾𒁀𒀭  dub-ba-an ;  gi dub-ba-an  "fence" 
+>>>  na4 dub-ba-an  
+ dubban  [ STONE ]  𒎎𒁾𒁀𒀭  na4 dub-ba-an  "a type of stone" 
+>>>  dub-dab ;  dub-dab2 ;  dub-dab4 ;  dub-dab5 ;  dub-da-ab  
+ dubdab  [ NOISE ]  𒁾𒁳;𒁾𒋰;𒁾𒁾;𒁾𒆪;𒁾𒁕𒀊  dub-dab ;  dub-dab2 ;  dub-dab4 ;  dub-dab5 ;  dub-da-ab  "noise" 
+>>>  dub-dab za ;  dub-dab2  za ;  dub-dab4  za ;  dub-dab5  za ;  dub-da-ab za  
+ dubdab za  [ MAKE NOISE ]  𒁾𒁳𒍝;𒁾𒋰𒍝;𒁾𒁾𒍝;𒁾𒆪𒍝;𒁾𒁕𒀊𒍝  dub-dab za ;  dub-dab2  za ;  dub-dab4  za ;  dub-dab5  za ;  dub-da-ab za  "to make noise" 
+>>>  dub-dim4  
+ dubdim  [ UNMNG ]  𒁾𒉽𒉽  dub-dim4  "?" 
+>>>  ĝeš ŠID-du3 ;  ĝeš DUB ;  DUB-du3 ;  ĝeš ŠID-du10  
+ DUBdu  [ VEHICLE ]  𒄑𒋃𒆕;𒄑𒁾;𒁾𒆕;𒄑𒋃𒄭  ĝeš ŠID-du3 ;  ĝeš DUB ;  DUB-du3 ;  ĝeš ŠID-du10  "a part of a vehicle" 
+>>>  dub-dub  
+ dubdub  [ ~FLOUR ]  𒁾𒁾  dub-dub  "flour designation" 
+>>>  dub2 -dub2 -bu mušen  
+ dubdubu  [ BIRD ]  𒂀𒂀𒁍𒄷  dub2 -dub2 -bu mušen  "a bird; a bat" Akk.  akkannu ;  suttinnu ;  šagaşu 
+>>>  dub3 -ĝal2  
+ dubĝal  [ RUNNER ]  𒄭𒅅  dub3 -ĝal2  "runner" 
+>>>  dub-ĝal2  
+ dubĝal  [ SCRIBE ]  𒁾𒅅  dub-ĝal2  "a scribe or scribe's assistant" 
+>>>  dub-la2 mušen  
+ dubla  [ BIRD ]  𒁾𒇲𒄷  dub-la2 mušen  "a bird" 
+>>>  dub-la2  
+ dubla  [ TOWER ]  𒁾𒇲  dub-la2  "gate tower" Akk.  išdu ;  tublu 
+>>>  ĝeš dub-ra-an  
+ dubran  [ JUNIPER ]  𒄑𒁾𒊏𒀭  ĝeš dub-ra-an  "juniper" Akk.  daprānu 
+>>>  dub3 -sa-dar-a  
+ dubsadara  [ LAME ]  𒄭𒊓𒁯𒀀  dub3 -sa-dar-a  "lame person" 
+>>>  dub-saĝ  
+ dubsaĝ  [ BEFORE ]  𒁾𒊕  dub-saĝ  "first; before" Akk.  mahrû ;  qudmu 
+>>>  dub-sar ku6  
+ dubsar  [ FISH ]  𒁾𒊬𒄩  dub-sar ku6  "a fish" 
+>>>  dub-sar  
+ dubsar  [ SCRIBE ]  𒁾𒊬  dub-sar  "scribe" Akk.  ţupšarru 
+>>>  dub-sar-gal ;  dub-sar  
+ dubsargal  [ SCRIBE ]  𒁾𒊬𒃲;𒁾𒊬  dub-sar-gal ;  dub-sar  "senior scribe" 
+>>>  dub-sar-mah  
+ dubsarmah  [ OFFICIAL ]  𒁾𒊬𒈤  dub-sar-mah  "an official" 
+>>>  dub-sar-tur  
+ dubsartur  [ SCRIBE ]  𒁾𒊬𒌉  dub-sar-tur  "junior scribe" 
+>>>  dub-sar-zag-ga  
+ dubsarzaga  [ REGISTRY OFFICIAL ]  𒁾𒊬𒍠𒂵  dub-sar-zag-ga  "registry official" Akk.  zazzakku 
+>>>  dub-šen  
+ dubšen  [ CHEST ]  𒁾𒊿  dub-šen  "treasure chest" Akk.  tupšinnu 
+>>>  dub-šen-dilim2  
+ dubšendilim  [ CONTAINER ]  𒁾𒊿𒇺  dub-šen-dilim2  "a container" 
+>>>  DUB.TI mušen  
+ DUBTI  [ BIRD ]  𒁾𒋾𒄷  DUB.TI mušen  "a bird" 
+>>>  dub3 -tuku  
+ dubtuku  [ RUNNER ]  𒄭𒌇  dub3 -tuku  "runner" Akk.  ? 
+>>>  du-bu-ul  
+ dubul  [ DRAW ]  𒁺𒁍𒌌  du-bu-ul  "to draw (water or wine)" Akk.  habû 
+>>>  du-bu-ul  
+ dubul  [ PARALYZE? ]  𒁺𒁍𒌌  du-bu-ul  "to paralyse?" Akk.  hamû 
+>>>  dubul  
+ dubul  [ SPROUT ]  𒋗𒁍  dubul  "to sprout, grow" Akk.  elēpu 
+>>>  du-bu-la  
+ dubula  [ SOUNDBOX ]  𒁺𒁍𒆷  du-bu-la  "soundbox" 
+>>>  du-bu-ul-da-ba-al  
+ dubuldabal  [ SOUND ]  𒁺𒁍𒌌𒁕𒁀𒀠  du-bu-ul-da-ba-al  "a sound (onomatopoeic)" 
+>>>  du-bu-ul-da-ba-al za  
+ dubuldabal za  [ SOUND ]  𒁺𒁍𒌌𒁕𒁀𒀠𒍝  du-bu-ul-da-ba-al za  "to make noise" 
+>>>  dubur ;  dubur2  
+ dubur  [ FOUNDATION ]  𒄶;𒄶  dubur ;  dubur2  "base" Akk.  išdu 
+>>>  dub-us2  
+ dubus  [ SECOND ]  𒁾𒍑  dub-us2  "second, second-in-rank" 
+>>>  du14 ;  du17  
+ dud  [ COMBAT ]  𒈌  𒇽 •don ≈ 𒆕𒉈 DU3:;𒉈  du14 ;  du17  "combat, strife, discord, quarrel" Akk.  şāltu 
+>>>  du6  
+ dud  [ MOUND ]  𒇯  du6  "(ruin) mound" Akk.  tīlu 
+>>>  du14  ĝar  
+ dud ĝar  [ START A FIGHT ]  𒈌  𒇽 •don ≈ 𒆕𒉈 DU3:𒃻  du14  ĝar  "to start a fight" Akk.  şaltu šakānu 
+>>>  du14  mu2  
+ dud mu  [ START A QUARREL ]  𒈌  𒇽 •don ≈ 𒆕𒉈 DU3:𒊬  du14  mu2  "to start a quarrel" Akk.  şâlu 
+>>>  ĝeš du-da  
+ duda  [ KETTLE ]  𒄑𒁺𒁕  ĝeš du-da  "kettle" Akk.  dūdu 
+>>>  dudu x (|PA.UZU|)  
+ dudu  [ BEATING ]  |PA.UZU|(𒉺𒍜)  dudu x (|PA.UZU|)  "thrashing, beating" Akk.  niţûtu 
+>>>  na-DU-DU ;  DU-DU-na  
+ DUDUna  [ ANIMAL ]  𒈾𒁺𒁺;𒁺𒁺𒈾  na-DU-DU ;  DU-DU-na  "an animal" 
+>>>  dug3 mušen ;  du mušen  
+ dug  [ BIRD ]  𒄭𒄷;𒁺𒄷  dug3 mušen ;  du mušen  "a bird" 
+>>>  dug3 ;  ze2 -eb ;  du-uq  
+ dug  [ GOOD ]  𒄭;𒍢𒅁;𒁺𒊌  dug3 ;  ze2 -eb ;  du-uq  "(to be) good; (to be) sweet; goodness, good (thing)" Akk.  ţābu 
+>>>  dug ;  dug x (BI)  
+ dug  [ POT ]  𒂁;𒁉(𒁉)  dug ;  dug x (BI)  "(clay) pot; a unit of liquid capacity" Akk.  karpatu 
+>>>  dug4  
+ dug  [ SPEAK ]  𒅗  dug4  "to speak, talk, say; to order; to do, perform; to negotiate" Akk.  atwû ;  dabābu ;  epēšu ;  qabû 
+>>>  dug4 -ga  
+ duga  [ AFFLICTION ]  𒅗𒂵  dug4 -ga  "type of affliction" 
+>>>  dug4 -ga  
+ duga  [ COMMAND ]  𒅗𒂵  dug4 -ga  "command" Akk.  qibītu 
+>>>  dug3 -a-ak  
+ duga'ak  [ SHRIVELED ]  𒄭𒀀𒀝  dug3 -a-ak  "(to be) shriveled" 
+>>>  dug3 -ga-ĝu10  
+ dugaĝu  [ DEAR ]  𒄭𒂵𒈬  dug3 -ga-ĝu10  "one dear to me" 
+>>>  dug3 -dub  
+ dugdub  [ LAME ]  𒄭𒁾  dug3 -dub  "lame" Akk.  şubbutu 
+>>>  dug3 -dug3 -ur-hi  
+ dugdugurhi  [ DEAD ]  𒄭𒄭𒌨𒄭  dug3 -dug3 -ur-hi  "(to be) dead" 
+>>>  kuš dug3 -gan ;  dug3 -gan ;  kuš du10  
+ duggan  [ BAG ]  𒋢𒄭𒃶;𒄭𒃶;𒋢𒄭  kuš dug3 -gan ;  dug3 -gan ;  kuš du10  "leather bag" Akk.  tukkannu 
+>>>  kuš dug3 -gan-tug2  
+ duggantug  [ BAG ]  𒋢𒄭𒃶𒌆  kuš dug3 -gan-tug2  "a leather bag" 
+>>>  dug3 -ĝal2  
+ dugĝal  [ WELL-DISPOSED? ]  𒄭𒅅  dug3 -ĝal2  "well-disposed?" 
+>>>  dug3 -la2  
+ dugla  [ LAME ]  𒄭𒇲  dug3 -la2  "lame" Akk.  tubbuku 
+>>>  dug3 -nir  
+ dugnir  [ MATE ]  𒄭𒉪  dug3 -nir  "mate" Akk.  rakābu, rehu=tu 
+>>>  dugud  
+ dugud  [ HEAVY ]  𒂂  dugud  "(to be) heavy; (to be) important" Akk.  kabtu 
+>>>  duh ;  dah-hu  
+ duh  [ BRAN ]  𒂃;𒈭𒄷  duh ;  dah-hu  "bran" Akk.  tuhhu 
+>>>  duh ;  ze2 -eb  
+ duh  [ LOOSEN ]  𒂃;𒍢𒅁  duh ;  ze2 -eb  "to loosen, release; to open" Akk.  paţāru 
+>>>  kuš du10 -uk-si-um ;  kuš du-uk-si-um ;  kuš du8 -uk-ši-um ;  kuš du2 -uk-si-um  
+ duksium  [ SHIELD ]  𒋢𒄭𒊌𒋛𒌝;𒋢𒁺𒊌𒋛𒌝;𒋢𒂃𒊌𒅆𒌝;𒋢𒌅𒊌𒋛𒌝  kuš du10 -uk-si-um ;  kuš du-uk-si-um ;  kuš du8 -uk-ši-um ;  kuš du2 -uk-si-um  "a shield" Akk.  tukšu 
+>>>  du6 -kug  
+ dukug  [ LOCUS ]  𒇯𒆬  du6 -kug  "a cultic and cosmic place" Akk.  ? 
+>>>  dul ;  dul9 ;  dul5 ;  dul x (DUN3 )  
+ dul  [ COVER ]  𒌋𒌆;𒌪;𒌆;DUN₃(𒂅)  dul ;  dul9 ;  dul5 ;  dul x (DUN3 )  "to cover" Akk.  katāmu 
+>>>  du6 -ul  
+ dul  [ GATHER ]  𒇯𒌌  du6 -ul  "to gather" Akk.  pahāru 
+>>>  dul2  
+ dul  [ LOWER ]  𒇥  dul2  "to lower; (to be) deep" 
+>>>  dul4  
+ dul  [ TEXTILE ]  𒂈  dul4  "a textile" 
+>>>  du5 -la2  
+ dula  [ DEPTH ]  𒂅𒇲  du5 -la2  "depth; part of a door (lower pivot?)" Akk.  šuplu ;  mušpalu 
+>>>  du-lum ;  du2 -lum  
+ dulum  [ TOIL ]  𒁺𒈝;𒌅𒈝  du-lum ;  du2 -lum  "misery; toil" 
+>>>  dum-dam  
+ dumdam  [ CLAMOR ]  𒌈𒁮  dum-dam  "clamor" Akk.  nazāmu ;  ramāmu 
+>>>  dum-dam  
+ dumdam  [ SOUND ]  𒌈𒁮  dum-dam  "to make noise" 
+>>>  dum-dam ak  
+ dumdam ak  [ MAKE NOISE ]  𒌈𒁮𒀝  dum-dam ak  "to make noise" 
+>>>  dum-dam za  
+ dumdam za  [ MAKE NOISE ]  𒌈𒁮𒍝  dum-dam za  "to make noise" 
+>>>  dumu ;  du5 -mu  
+ dumu  [ CHILD ]  𒌉;𒂅𒈬  dumu ;  du5 -mu  "child, son, daughter" Akk.  māru 
+>>>  dumu-da-ba  
+ dumudaba  [ LABORER ]  𒌉𒁕𒁀  dumu-da-ba  "an agricultural worker" 
+>>>  dumu-dab5 -ba  
+ dumudaba  [ WORKER ]  𒌉𒆪𒁀  dumu-dab5 -ba  "a type of worker" 
+>>>  dumu-gu4 -gur  
+ dumugugur  [ WORKER ]  𒌉𒄞𒄥  dumu-gu4 -gur  "a type of worker" 
+>>>  dumu-ĝir15  
+ dumuĝir  [ CITIZEN ]  𒌉𒂠  dumu-ĝir15  "citizen" Akk.  ? 
+>>>  dumu-KA  
+ dumuKA  [ RELATION ]  𒌉𒅗  dumu-KA  "a kinship term" Akk.  ? 
+>>>  dumu-munus  
+ dumumunus  [ DAUGHTER ]  𒌉𒊩  dumu-munus  "daughter" Akk.  mārtu 
+>>>  u2 dumu-ni  
+ dumuni  [ PLANT ]  𒌑𒌉𒉌  u2 dumu-ni  "a plant" 
+>>>  dumu-nita  
+ dumunita  [ SON ]  𒌉𒍑  dumu-nita  "son" Akk.  māru 
+>>>  dumu-saĝ  
+ dumusaĝ  [ FIRST-BORN ]  𒌉𒊕  dumu-saĝ  "first-born" 
+>>>  dumu-saĝĝa  
+ dumusaĝĝa  [ OFFICIAL ]  𒌉𒋃  dumu-saĝĝa  "an official" 
+>>>  dumu-tab  
+ dumutab  [ TWIN ]  𒌉𒋰  dumu-tab  "twin" 
+>>>  dun  
+ dun  [ DIG ]  𒂄  dun  "to dig" Akk.  herû 
+>>>  dun5 -na  
+ dun  [ HUMBLE ]  𒍘𒈾  dun5 -na  "humble" Akk.  wašru 
+>>>  dun  
+ dun  [ PROFIT ]  𒂄  dun  "profit" 
+>>>  dun5  
+ dun  [ ROAM ]  𒍘  dun5  "to roam around; to rock, churn" Akk.  dâlu ;  mâşu 
+>>>  dun ;  DUB2  
+ dun  [ WARP ]  𒂄;𒂀  dun ;  DUB2  "to lay (the warp)" Akk.  dêpu ;  kamādu ;  šatû 
+>>>  dun4  
+ dun  [ WEAPON ]  𒂈  dun4  "a thrusting weapon" Akk.  dēpu 
+>>>  DUN3 .GI.ŠA6 mušen  
+ DUNGIŠA  [ BIRD ]  𒂅𒄀𒊷𒄷  DUN3 .GI.ŠA6 mušen  "a bird" 
+>>>  dungu  
+ dungu  [ CLOUD ]  𒅎𒋛𒀀  dungu  "cloud" Akk.  erpetu ;  upû 
+>>>  zabar |DUN3 @g|  
+ DUNGUNU  [ OBJECT ]  𒌓𒊕𒁇𒂅  zabar |DUN3 @g|  "a bronze item" 
+>>>  du-un-nu-um  
+ dunnu  [ FORTRESS ]  𒁺𒌦𒉡𒌝  du-un-nu-um  "fortress" Akk.  dunnu 
+>>>  dupsik ;  ĝeš dupsik ;  gi dupsik ;  zub-sig3  
+ dupsik  [ BASKET ]  𒂵𒂅 ga.TUN "basket";𒄑𒂵𒂅 ga.TUN "basket";𒄀𒂵𒂅 ga.TUN "basket";𒉽𒈿𒉺  dupsik ;  ĝeš dupsik ;  gi dupsik ;  zub-sig3  "a basket (for carrying earth and bricks)" Akk.  tupšikku 
+>>>  dur10  
+ dur  [ AX ]  𒊿  dur10  "ax" Akk.  pāštu 
+>>>  dur  
+ dur  [ BALK ]  𒄙  dur  "balk?" 
+>>>  dur mušen ;  dur2 mušen  
+ dur  [ BIRD ]  𒄙𒄷;𒂉𒄷  dur mušen ;  dur2 mušen  "a bird" 
+>>>  ĝeš dur2  
+ dur  [ BOARD ]  𒄑𒂉  ĝeš dur2  "wooden ledger board; board" Akk.  kiskirru 
+>>>  dur ;  gi dur  
+ dur  [ BOND ]  𒄙;𒄀𒄙  dur ;  gi dur  "binding, knot, bond, tie; umbilical cord; rope" Akk.  abunnatu ;  markasu ;  ţurru 
+>>>  dur2  
+ dur  [ BREAK WIND ]  𒂉  dur2  "break wind" 
+>>>  dur2  
+ dur  [ BUTTOCKS ]  𒂉  dur2  "defile, cleft; buttocks, rump" Akk.  pūqu ;  šuburru 
+>>>  dur3 ;  dur9 ;  dur3 ur3  
+ dur  [ DONKEY ]  𒀲𒀴;𒂄;𒀲𒀴𒃡  dur3 ;  dur9 ;  dur3 ur3  "young male donkey" Akk.  mūru 
+>>>  dur2  
+ dur  [ FART ]  𒂉  dur2  "to fart" Akk.  şarātu 
+>>>  dur2  
+ dur  [ SIT ]  𒂉  dur2  "imperfect singular stem of tuš[to sit (down)]" Akk.  ašābu 
+>>>  dur  
+ dur  [ TOTALITY ]  𒄙  dur  "totality" Akk.  kullatu 
+>>>  dur2  ĝar  
+ dur ĝar  [ SIT ]  𒂉𒃻  dur2  ĝar  "to sit" Akk.  (w)ašābu 
+>>>  |DUR2 .DUR2 | mušen  
+ DUR.DUR  [ BIRD ]  𒂉𒂉𒄷  |DUR2 .DUR2 | mušen  "a bird" 
+>>>  durah x (DARA4 ) ;  durah  
+ durah  [ GOAT ]  DARA₄(𒁱);𒁰 DARA3  durah x (DARA4 ) ;  durah  "wild goat, mountain goat" Akk.  turāhu 
+>>>  dur10 -al-lu5  
+ durallu  [ AX ]  𒊿𒀠𒈜 LUB lupo welpe wolf  dur10 -al-lu5  "an ax" 
+>>>  dur2 -BAD3 mušen  
+ durBAD  [ BIRD ]  𒂉𒂦𒄷  dur2 -BAD3 mušen  "a bird" 
+>>>  dur-dar mušen  
+ durdar  [ BIRD ]  𒄙𒁯𒄷  dur-dar mušen  "a bird" 
+>>>  dur10 -gag  
+ durgag  [ AX ]  𒊿𒆕  dur10 -gag  "an ax" 
+>>>  ĝeš dur2 -ĝar ;  dur2 -gar ;  dur2 -gar urudu  
+ durĝar  [ CHAIR ]  𒄑𒂉𒃻;𒂉𒃻;𒂉𒃻U+1234F  ĝeš dur2 -ĝar ;  dur2 -gar ;  dur2 -gar urudu  "chair" Akk.  kussû 
+>>>  du-ri2  
+ duri  [ FOREVER ]  𒁺𒌷  du-ri2  "forever" Akk.  dūru 
+>>>  duri  
+ duri  [ MALE ]  𒉢  duri  "male; (to be) virile" Akk.  zikaru 
+>>>  durme  
+ durme  [ CHAIN ]  𒊕𒂡  durme  "chain" Akk.  šeršerru 
+>>>  na4 dur-mi-na ;  na4 dur2 -mi-na  
+ durmina  [ BRECCIA ]  𒎎𒄙𒈪𒈾;𒎎𒂉𒈪𒈾  na4 dur-mi-na ;  na4 dur2 -mi-na  "breccia, mottled stone" Akk.  turminû 
+>>>  na4 dur-ĝi6 -ban3 -da  
+ durminabanda  [ STONE ]  𒎎𒄙𒈪𒌉𒁕  na4 dur-ĝi6 -ban3 -da  "a stone" 
+>>>  na4 dur-ĝi6 -ban3 -da  
+ durminabanda  [ STONE ]  𒎎𒄙𒈪𒌉𒁕  na4 dur-ĝi6 -ban3 -da  "a stone" 
+>>>  dur2 -šul mušen ;  dur-šul mušen  
+ duršul  [ BIRD ]  𒂉𒂄𒄷;𒄙𒂄𒄷  dur2 -šul mušen ;  dur-šul mušen  "a bird" 
+>>>  dur10 -tab-ba  
+ durtaba  [ AX ]  𒊿𒋰𒁀  dur10 -tab-ba  "an ax" 
+>>>  duru5 ;  duru5 ru  
+ duru  [ WET ]  𒀀;𒀀𒊒  duru5 ;  duru5 ru  "(to be) soft; (to be) wet, irrigated, damp, fresh" Akk.  labāku ;  raţbu 
+>>>  na4 dur-ul3  
+ durul  [ STONE ]  𒎎𒄙𒄒  na4 dur-ul3  "stone" 
+>>>  dur-ru-um mušen  
+ durum  [ BIRD ]  𒄙𒊒𒌝𒄷  dur-ru-um mušen  "a bird" Akk.  durummu 
+>>>  durun x (|KU.KU|) ;  durun ;  dur2 -ru-un  
+ durun  [ SIT ]  |KU.KU|(𒆪𒆪);𒂉;𒂉𒊒𒌦  durun x (|KU.KU|) ;  durun ;  dur2 -ru-un  "plural stem of tuš[to sit (down)]" Akk.  ašābu 
+>>>  im duruna2 ;  im ti-nu-ur ;  duruna x (|KU.KU|)  
+ duruna  [ OVEN ]  𒅎|LAGAB×IM|;𒅎𒋾𒉡𒌨;|KU.KU|(𒆪𒆪)  im duruna2 ;  im ti-nu-ur ;  duruna x (|KU.KU|)  "oven, tannour" Akk.  tinûru 
+>>>  du10 -us2  
+ dus  [ BATHROOM ]  𒄭𒍑  du10 -us2  "bathroom" Akk.  narmaku 
+>>>  du10 -us2 ;  du-us2  
+ dus  [ PATH ]  𒄭𒍑;𒁺𒍑  du10 -us2 ;  du-us2  "path" Akk.  kibsu 
+>>>  du10 -us2 -sa ;  du10 -sa ;  du-us2 -sa ;  du2 -us2 -sa  
+ dusa  [ FRIEND ]  𒄭𒍑𒊓;𒄭𒊓;𒁺𒍑𒊓;𒌅𒍑𒊓  du10 -us2 -sa ;  du10 -sa ;  du-us2 -sa ;  du2 -us2 -sa  "friend, companion" Akk.  ru'u 
+>>>  dusu2 ;  dusu x (|ANŠE.IGI.DIB|)  
+ dusu  [ EQUID ]  𒀲𒅆𒂠;|ANŠE.IGI.DIB|(𒀲𒅆𒁳)  dusu2 ;  dusu x (|ANŠE.IGI.DIB|)  "donkey" Akk.  agālu 
+>>>  na4 du8 -ši-a  
+ dušia  [ STONE ]  𒎎𒂃𒅆𒀀  na4 du8 -ši-a  "a stone, turquoise?, quartz?; turquoise green" Akk.  dušû 

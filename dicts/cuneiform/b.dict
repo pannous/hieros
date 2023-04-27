@@ -1,241 +1,480 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
-ba [ALLOT] 𒁀 ba "to divide into shares, share, halve; to allot" Akk. qiāšu; zâzu
-ba [ANIMAL] 𒁀 ba "a marine creature?"
-ba [GARMENT] 𒌆𒈨 tug2ba13 "a garment" Akk. nalbašu
-ba [HALF] 𒌍;𒈦 ba3; ba7 "half; thirty" Akk. bāmtu; mišlu; šalāšā
-ba [TOOL] 𒄑𒁀 ĝešba "a cutting tool" Akk. suppīnu
-ba [VESSEL] 𒂁𒁀 dugba "type of vessel"
-baba [PORRIDGE] 𒍥𒁀𒁀 zid2ba-ba "porridge"
-babaya [OLD MAN] 𒁀𒁀𒀀 ba-ba-ya10 "old man" Akk. paršumu
-babbar [WHITE] 𒌓𒌓;𒌓 babbar2; babbar "(to be) white" Akk. peşû
-babbardili [STONE] 𒎎𒍝𒂆𒌓𒀸 na4nir2babbar-dili "a stone"
-babbareš [STONE] 𒎎𒍝𒂆𒌓𒀼 na4nir2babbar-eš16 "a stone"
-babbarhi [PLANT] 𒌓𒄭 babbar-hi "a plant" Akk. parparhû
-babbarmin [STONE] 𒎎𒍝𒂆𒌓𒐀 na4nir2babbar-min5 "a stone"
-bad [GROUND] 𒆠𒆗 bad4 "hard ground" Akk. apītu; dannatu
-bad [LEG] 𒄑𒁁 ĝešbad "leg or foot of a piece of furniture" Akk. kablu
-bad [OPEN] 𒁁;𒁀;𒁉 bad; ba; be2 "(to be) remote; to open, undo; to thresh grain with a threshing sledge" Akk. be'ēšû; nesû; petû
-bad [WALL] 𒂦 bad3 "wall, fortification" Akk. dūru
-badara [DAGGER] 𒁀𒁕𒊏;𒁀𒁯 ba-da-ra; ba-dar "dagger, weapon" Akk. pattaru
-badbad [DEFEAT] 𒅆𒅆𒅆𒅆 bad5-bad5 "defeat in battle" Akk. dabdû
-badsi [PARAPET] 𒂦𒋛 bad3-si "parapet" Akk. setu
-badšulhi [PALISADE?] 𒂦𒂄𒄭 bad3-šul-hi "palisade?"
-bahar [FISH] 𒁃𒄩 baharku6 "a fish"
-bahar [POTTER] 𒁃;𒁇𒂔;𒁃;𒌋𒂔;¿≈𒁃;¿≈𒁃 bahar2; bahar3; bahar; bahar4; LAK742; LAK747 "potter" Akk. pahāru
-BAHAR [POT] 𒁃 BAHAR2 "a pot"
-bahar-gal [POTTER] 𒁃𒃲𒃲𒁇𒂔 bahar-gal(|GAL.BAR.EDIN|) "chief potter"
-bakirum [STRAP] 𒌋𒊬 bakirum "a carrying strap" Akk. hišum ša nukaribbi
-bal [DIG] 𒁀𒀠;𒁄;𒀡;𒀦;𒄫𒂖 ba-al; bal; bal3; bal4; pe-el "to dig, excavate; to unload (a boat)" Akk. herû
-bal [RECOVER] 𒁀𒀠 ba-al "to recover (goods, property)"
-bal [STONE] 𒎎𒁄 na4bal "type of stone"
-bala [TURN] 𒁄;𒉋 bal; bil2 "to rotate, turn over, cross; to pour out, libate, make a libation; reign, rotation, turn, term of office; to revolt; to hoist, draw (water); to transfer (boats over weirs etc. blocking a stream); to carry; to boil (meat in water); to change, transgress (the terms of an agreement); conversion (math.)" Akk. elû; nabalkutu; nakāru; naqû; palû; tabāku
-bala [WASTAGE] 𒁄 bala "wastage (in processing grain)"
-balaĝ [INSTRUMENT] 𒁆;𒄑𒁆 balaĝ; ĝešbalaĝ "a large drum or harp" Akk. balangu
-balaĝdi [INSTRUMENT] 𒁆𒁲 balaĝ-di "a musical instrument" Akk. timbutu
-balaĝil [MUSICIAN] 𒁆𒅍 balaĝ-il2 "musician"
-balak [SPINDLE] 𒄑𒁄 ĝešbalak "spindle" Akk. pilaqqu
-balare [OTHER SIDE] 𒁄𒀀𒊑 bal-a-re "other side"
-balbale [SUBSCRIPT] 𒁄𒁄𒂊 bal-bal-e "a literary subscript"
-balgi [TURTLE] 𒁀𒄀;𒁀𒀠𒄄;𒁀𒀠𒅥;𒁀𒀠𒄀;𒁄𒄀 ba-gi; ba-al-gi4; ba-al-gu7; ba-al-gi; bal-gi "turtle" Akk. raqqu
-balla [HEADDRESS] 𒃻 𒊕𒂵𒂅 𒂡𒂷;𒃻𒊕𒂵𒂅𒂡𒊩 balla; balla2 "a headdress or wig" Akk. upur sinništi; upur zikari
-ban [UNIT] 𒁀𒀭;𒑑;𒌉;𒁀𒀭𒀸;𒂁𒌉 ba-an; ban2; ban3; ba-an-AŠ; dugban3 "unit of capacity" Akk. sūtu
-bana [~PALM] 𒄑𒁀𒈾 ĝešba-na "part of a date palm"
-BANAM [COMMODITY] 𒁀𒉆 BA.NAM "a commodity"
-banda [CHILD] 𒇽𒌉𒁕 lu2banda3da "child"
-banda [JUNIOR] 𒌉𒁕 banda3da "(to be) junior; small; (to be) wild, fierce" Akk. ekdu; şehru
-banda [QUOTIENT] 𒌉 banda3 "quotient" Akk. bandû
-banda [SAGACITY] 𒌉 banda3 "sagacity" Akk. tašimtu
-banda [STANCHION] 𒌉𒁕;𒋞𒅂;𒅂 ban3-da; banda5; banda4 "stanchion, support" Akk. takšīru
-bandudu [BASKET] 𒁀𒀭𒂅;𒄀𒁀𒀭𒂃𒂃 ba-an-du5; giba-an-du8-du8 "seeding basket of a plow" Akk. banduddû
-bandul [MAT] 𒄀𒁀𒀭𒌋𒌆 giba-an-dul "a reed mat" Akk. zibnu
-baneš [CONTAINER] 𒀾 baneš "a container"
-bangaš [THIRTY-SIX] 𒁀𒀭𒂵𒀾;𒁀𒂵𒃻 ba-an-ga-aš2; ba-ga-ša2 "thirty-six"
-bangi [RESPONSE] 𒁀𒀭𒄄 ba-an-gi4 "response, answer"
-bangi [TAPER] 𒁀𒀭𒄄 ba-an-gi4 "taper, bevel, slant, incline"
-banHU [ANIMAL] 𒑑𒄷;𒁀𒀭𒄷𒈾;𒑑𒁯𒁯𒉡 ban2-HU; ba-an-HU-na; ban2-gun3-gun3-nu "an animal" Akk. hurbabilu
-banmin [VESSEL] 𒂁 dugbanmin "a vessel of two seah capacity"
-banšur [TABLE] 𒍎;𒄑𒍎;¿≈𒍎≈𒆓;𒄑¿≈𒍎≈𒆓;𒆓;𒄑𒆓;𒍂𒍂 banšur; ĝešbanšur; banšur2; ĝešbanšur2; banšur3; ĝešbanšur3; banšurx(|URU×IGI|) "table" Akk. paššūru
-banšurzaggula [TABLE] 𒄑𒍎𒍠𒄖𒆷;𒄑𒍎𒍠𒄘𒇲 ĝešbanšur-zag-gu-la; ĝešbanšur-zag-gu2-la2 "a cultic table" Akk. paššūr sakkî
-banšurzagĝara [TABLE] 𒄑𒍎𒍠𒃻𒊏 ĝešbanšur-zag-ĝar-ra "a cultic table" Akk. paššūr aširti
-bantum [BIRD] 𒁀𒀭𒉐𒄷;𒁀𒀭𒁺𒄷 ba-an-tum3mušen; ba-an-tum2mušen "a bird"
-bappir [~BEER] 𒁋;𒋆;𒋋 bappir3; bappir2; bappir "an ingredient in beer-making" Akk. bappiru
-bar [BURN] 𒉈 bar7 "to burn; to fire (pottery)" Akk. napāhu
-bar [CVVE] 𒁇 bar "(compound verb verbal element)"
-bar [FISH] 𒁇𒄩 barku6 "a fish"
-bar [OUTSIDE] 𒁇;𒁀𒊏;𒁄;𒁓 bar; ba-ra; bala; bur "outside, (other) side; behind; outer form, outer; fleece; outsider, strange; back, shoulder; liver; because of; to set aside; to cut open, slit, split" Akk. būdum; kabattu; kawûm; ahû; warkatu; qalāpu; salātu; šalāqu
-bar [PLOW] 𒄑𒁇 ĝešbar "a type of plow" Akk. mayāru
-bar huĝ [APPEASE] 𒁇𒂠 bar huĝ "to appease" Akk. ?
-bar sag [PLEASE] 𒁇𒊷 bar sag9 "to please" Akk. ?
-bar šed [COOL] 𒁇𒈹𒁲 bar šed10 "to cool down" Akk. ?
-bar tab [ANGRY] 𒁇𒋰;𒁇𒄉 bar tab; bar tab2 "to be angry; to feel feverish" Akk. şurrupu
-bara [FISH] 𒁈𒄩 bara2ku6 "a fish"
-bara [MIX?] 𒁈 bara2 "to mix?"
-bara [~COLOR] 𒇙 bara6 "a color term"
-barag [DAIS] 𒁈;𒃖;𒇙;𒇋;𒇣 barag; bara10; bara6; bara7; bara8 "ruler, king; dais, seat" Akk. parakku; šarru; šubtu
-barag [SACK] 𒁈;𒁇;𒁈𒊏;𒇗;𒁔 barag; bar; bar2-ra; bara9; bur2 "sack; a part of an animal's body" Akk. bašamu
-barag [SPREAD] 𒁁;𒁀𒊏𒄀;𒁀𒊏𒂵;𒁀𒁖;𒆦𒊏 BAD; ba-ra-ge; ba-ra-ga; babarag2; KISAL-ra "to spread out" Akk. uşşû; šuparruru
-baragsiga [SHRINE] 𒁈𒋛𒂵 barag-sig9-ga "type of shrine"
-barah [FIGHTING] 𒁀𒊏𒄴 ba-ra-ah "fighting" Akk. puhpuhhu
-barakara [UNMNG] 𒁀𒊏𒋼𒀀𒊏 ba-ra-kar-ra "(meaning unknown)"
-baranše [GOAD] 𒋢𒁇𒀲 kušbar-anše "goad" Akk. makkaru
-baraš [FLY] 𒀊𒊏𒀸;𒁀𒊏𒀸;𒁇𒊏𒀸;𒌈𒊏𒀸 ab-ra-aš; ba-ra-aš; bar-ra-aš; ib2-ra-aš "to fly"
-barbar [PLANT] 𒁇𒁇𒊬 bar-barsar "a plant"
-barbar [REED] 𒄀𒁇𒁇 gibar-bar "a type of reed"
-barbar [SHUTTLE] 𒄑𒁇𒁇 ĝešbar-bar "shuttle" Akk. ukû
-barda [CROSSBAR] 𒁇𒁕;𒁇𒆕 bar-da; bar-da3 "crossbar" Akk. mušelû
-bardili [PLOW] 𒁇𒀸 bar-dili "a plow" Akk. mayyaru
-bardul [GARMENT] 𒁇𒌆;𒁇𒋠𒌆 bar-dul5; bar-SIK2tug2 "a garment" Akk. şubātu
-bareda [STRAP] 𒋢𒁇𒇯𒁺𒉈;𒋢𒁇𒇯𒁺𒁕𒁇𒇯𒁺𒁕;𒋢𒁇𒇯𒁺𒁕 kušbar-ed3-de3; kušbar-ed3-da-bar-ed3-da; kušbar-ed3-da "a type of strap"
-barĝal [~SHEEP] 𒁇𒅅 bar-ĝal2 "a designation of sheep: with fleece" Akk. bargallu
-barhuda [TOOL] 𒁇𒄷𒁕 bar-hu-da "a tool; a reed cutter" Akk. par hudû
-barhuš [FISH] 𒁇𒄭𒄊𒄩 bar-hušku6 "a fish"
-bariga [UNIT] 𒁀𒌷𒂵 ba-ri2-ga "a unit of capacity; a measuring container" Akk. parsiktu
-barim [GARMENT] 𒌆𒁀𒁽𒈠 tug2ba-rim4-ma "a garment"
-barim [LAND] 𒁇𒁽;𒁇𒁽 bar-rim4; barim "dry land" Akk. nābalu
-bariratum [PLANT] 𒁀𒊑𒊏𒌈 ba-ri-ra-tum "a plant" Akk. barīrātu
-barla [BASIN?] 𒁇𒇲 bar-la2 "basin?"
-barNUN [DIAGONAL] 𒁇𒉣 bar-NUN "diagonal (math.)" Akk. siliptum
-barsal [SHEEP] 𒁇𒊩 bar-sal "a sheep" Akk. barsallu
-barsal [~SHEEP] 𒁇𒊩 bar-sal "a designation of sheep"
-barsig [GARMENT] 𒌆𒁇𒋛;𒁇𒋛;𒌆𒁇𒋝;𒁇𒋠𒌆 tug2bar-sig9; bar-sig9; tug2bar-sig; bar-sig2tug2 "a garment"
-barsigsig [GARMENT] 𒌆𒁇𒋛𒋝 tug2bar-si-sig "a garment"
-barsud [NOTATION] 𒁇𒋤 bar-sud "a musical notation" Akk. ?
-barsud [POT] 𒂁𒁇𒋤 dugbar-sud "a pot"
-barsuga [~SHEEP] 𒁇𒋢𒂵;𒁇𒋤𒀀 bar-su-ga; bar-sug4-a "a designation of sheep: without fleece; plucked fleece" Akk. ?
-baršeĝ [FOG] 𒁇𒀀𒀭 bar-šeĝ3 "fog"
-baršu [UNMNG] 𒁇𒋗 bar-šu "?" Akk. ?
-baršuĝal [OFFICIAL] 𒁇𒋗𒅅 bar-šu-ĝal2 "an official" Akk. muwassû
-baršuĝal [PROPERTY] 𒁇𒋗𒅅 bar-šu-ĝal2 "property"
-baršuĝal [~COW] 𒁇𒋗𒅅 bar-šu-ĝal2 "designation of cows"
-barUD [~DATES] 𒁇𒌓 bar-UD "a designation of dates"
-barudu [FLEECE] 𒁇𒇻 bar-udu "sheep's fleece"
-barus [GOAD] 𒁇𒍑U+1234F;𒁇𒍑 bar-us2urudu; bar-us2 "goad"
-barutum [OBJECT] 𒁀𒊒𒌈 ba-ru-tum "a quiver or other leather item" Akk. parūtu?
-basi [SQUARE] 𒁀𒁲;𒁀𒋛 ba-si8; ba-si "square (math.)"
-baš [UNMNG] 𒁀𒀾 ba-aš2 "(unknown meaning)"
-batabduhhum [GARMENT] 𒌆𒁀𒋰𒂃𒄷𒌝 tug2ba-tab-duh-hu-um "a garment"
-batium [CONTAINER] 𒁀𒋾𒌝 ba-ti-um "a container"
-baza [DWARF] 𒁀𒍝;𒁀𒀭𒍝 ba-za; ba-an-za "dwarf; cripple, lame" Akk. kurû
-baza [FISH] 𒁀𒍝𒄩 ba-zaku6 "a fish"
-bazbaz [BIRD] 𒊺𒄷𒌉𒄷𒄷;𒁀𒁀𒊍𒄷;𒁀𒁀𒍝𒄷;𒄷𒁀𒁀𒍝;𒁀𒁀𒊍𒊻𒊺𒄷𒄷;𒁀𒁀𒍝𒊻𒊺𒄷𒄷 bibadmušen; ba-ba-azmušen; ba-ba-zamušen; mušenba-ba-za; ba-ba-az bazbazx(|ŠE.HU|)mušen; ba-ba-za bazbazx(|ŠE.HU|)mušen "a bird" Akk. paspasu
-bazihum [TEXTILE] 𒌆𒁀𒍥𒄷𒌝 tug2ba-zi-hu-um "a textile"
-bazu [KNIFE] 𒁀𒅗;𒄑𒁀𒅗 ba-zu2; ĝešba-zu2? "a toothed knife" Akk. suppīn şurri
-be [DIMINISH] 𒁀;𒉿 be4; be6 "to deduct, remove; to diminish, reduce; to withdraw, receive (as an allotment)" Akk. našāru
-bed [DEFECATE] 𒆪 bed3 "to defecate; excrement" Akk. teşû; zû
-bibra [VESSEL]  bibra "a bird; a stone vessel" Akk. bibrû
-bil [BURN] 𒉋;𒄑𒉋;𒉈 bil2; bil3; bil "to burn" Akk. qalû
-bil [SOUR] 𒉋 bil2 "(to be)sour" Akk. emşu
-bilam [ANIMAL] 𒉈𒇴 bi2-lam "an animal"
-bilam [ELEPHANT] 𒉈𒇴 bi2-lam "elephant" Akk. pīru
-bilga [FRUIT] 𒉋𒂵 bil2-ga "fresh fruit; male ancestor" Akk. inbu
-billum [MANDRAKE] 𒄑𒉋𒈝 ĝešbil2-lum "mandrake" Akk. pilû
-biltab [UNMNG] 𒉋𒋰 bil2-tab "?" Akk. ?
-biluda [RITUALS] 𒉺𒀭;𒑙𒈜 LUB lupo welpe wolf𒁕;𒁉𒇻𒄭;𒉿𒌷𒁕 biluda; bi3-lu5-da; bi-lu-da10; pi-lu8-da "rituals, rites" Akk. parşu; pilludû
-bilulu [GRASS] 𒁉𒇻𒇻 bi-lu-lu "reed grass"
-bilum [EGG?] 𒉈¿𒍪𒍪𒊬 bi2-lumx(|ZU&ZU.SAR|) "egg?"
-binitum [BEAM] 𒄑𒉈𒉌𒌈 ĝešbi2-ni-tum "a beam for houses and boats" Akk. binītu
-binum [TAMARISK] 𒁉𒉡𒌝 bi-nu-um "tamarisk" Akk. bīnu
-bir [CVVE] 𒊳 bir9 "(compound verb verbal element)"
-bir [LOCUST] 𒉆;𒉅;𒄷𒊺𒂟 ḪŪ.ŠE.sig₅/sag₁₀ Heuschrecke bir5; buru5; bur5 "locust" Akk. erbu
-bir [SCATTER] 𒌓;𒁉𒁉𒊑;𒊳 bir; bi-bi-re; bir9 "to scatter, disperse" Akk. sapāhu
-bir [SHRED] 𒊮;𒊶;𒊳 bir7; bir6; bir9 "to shred" Akk. šarāţu
-birGAMla'e [TREE] 𒄑𒌓𒃵𒆷𒂊 ĝešbir-GAM-la-e "a tree"
-birgun [CHEESE] 𒌓𒁯 bir-gun3 "a cheese" Akk. pinnāru
-birig [CONTRACT] 𒁉𒊑𒅅;𒌓 bi-ri-ig; bir2 "to sneer at, lift (nose, lip), contract oneself, roll up" Akk. ganāşu; kalāşu
-birtu [FORT] 𒁉𒅕𒌆 bi-ir-tu "fort" Akk. birtu
-birun [THRESHING-FLOOR?] 𒌓𒂬 bir-un4 "threshing-floor?"
-bisaĝ [BASKET] 𒂷;𒄀𒂷;𒋄;𒋃 bisaĝ; gibisaĝ; bisaĝ3; bisaĝ2 "basket" Akk. pisannu
-bisaĝ [FISH] 𒂷𒄩 pisaĝku6 "a fish"
-bisaĝdubak [ARCHIVIST] 𒂷𒁾𒁀;𒊮𒁾𒁀 bisaĝ-dub-ba; ša3-dub-ba "archivist" Akk. šandabakku
-bisaĝnindaĝar [BASKET] 𒂷𒃻𒃻 bisaĝ-ninda-ĝar "bread basket"
-bisaĝšukama [CONTAINER] 𒄀𒂷𒋗𒄰𒈠 gibisaĝ-šu-kam-ma "a container"
-bitum [~ADMINISTRATION] 𒉈𒌈;𒂍𒌈 bi2-tum; bit-tum "an administrative term"
-biz [TRICKLE] 𒁉𒄑;𒁉 bi-iz; biz "to trickle, drip" Akk. başāşu
-biz [UNMNG] 𒄐 biz2 "?" Akk. ?
-biza [PUPPET] 𒁉𒍝 bi-za "puppet, doll" Akk. passu
-bizaza [FROG] 𒉈𒍝𒍝;𒉋𒍝;𒁉𒍝𒍝 bi2-za-za; bil2-za; bi-za-za "frog; ~ figurine" Akk. muşa'irānu
-bizazagubalaĝdikargirzana [BIRD] 𒁉𒍝𒍝𒅗𒁆𒁲𒋼𒀀𒁽𒍝𒈾𒄷;𒉈𒍝𒍝𒅗𒁆𒁲𒋼𒀀𒁽𒍝𒈾𒄷;𒉈𒍝𒍝𒅗𒁆𒂷𒋼𒀀𒁽𒍝𒈾𒄷 bi-za-za-gu3-balaĝ-di-kar-gir5-za-namušen; bi2-za-za-gu3-balaĝ-di-kar-gir5-za-namušen; bi2-za-za-gu3-balaĝ-ĝa2-kar-gir5-za-namušen "a bird" Akk. kur tibni
-bizazagubalaĝdikargirzana [FISH] 𒉈𒍝𒁆𒁽𒄩 bi2-za-balaĝ-gir5ku6 "a fish"
-bu [FLIT] 𒁍;𒆜;𒉿 bu; bu2; wu "to flit, chase about" Akk. našarbuţu
-bu [PERFECT] 𒁍;𒆜 bu; bu2 "perfect" Akk. gitmalu
-bu [SECRET] 𒁍𒌑𒁍𒌑 bu-u2bu-u2 "secret"
-bubu'I [PALM] 𒁍𒁍𒐊 bu-bu-I "wild date palm" Akk. alamittu
-bubu'I [RATION] 𒁍𒁍𒐊 bu-bu-I "food ration" Akk. ipru
-budbad [SOUND] 𒁍𒌓𒁀𒀜 bu-ud-ba-ad "a sound (onomatopoeic)"
-budbad za [MAKE NOISE] 𒁍𒌓𒁀𒀜𒍝 bu-ud-ba-ad za "to make noise"
-budnu [TEREBINTH] 𒁍𒌓𒉡 bu-ud-nu "terebinth or pistachio"
-budug [MOLD] 𒁍𒁺𒊌 bu-du-ug "to mold bricks" Akk. patāqu
-BU'I [FACE] 𒁍𒐊 BU-I "to face" Akk. mahāru
-bul [BLOW] 𒅮;𒇧;𒅮;𒇡 bul4; bul; bun; bul5 "to blow; to winnow; to sift; to inflate" Akk. edēpu; našāpu; nesû
-bul [FISH] 𒇡𒄩 bul5ku6 "a fish"
-bul [SHAKE] 𒇧;𒉌𒇡𒇡 bul; i3-bul5-bul5 "to shake"
-bulbal [SOUND] 𒁄𒁄 bul3-bal "a sound (onomatopoeic)"
-bulbal za [MAKE NOISE] 𒁄𒁄𒍝 bul3-bal za "to make noise"
-bulbul [REED] 𒄀𒇡𒇡 gibul5-bul5 "a reed"
-bulug [NEEDLE] 𒁑;U+1234F𒁑;𒈬𒇻𒊌;𒁍𒇻𒊌 bulug; urudbulug; mu-lu-ug; bu-lu-ug "needle; stake; boundary; seal pin" Akk. pulukku
-bulug [PLANT] 𒌑𒁑 u2bulug "a plant"
-bulug [SEW] 𒁑 bulug "to sew"
-buluggur [SCYTHE?] U+1234F𒁑𒆥 urudbulug-gur10 "scythe?"
-bulugKINgur [LANCET] 𒁑𒆥𒆸 bulug-KIN-gur4 "lancet" Akk. marşadu
-buluĝ [GROW] 𒉽𒉽;𒁆;𒁍𒇻𒊌;𒁑 buluĝ3; buluĝ5; bu-lu-ug; buluĝ "to grow up, rear, make grow; novice; foster child" Akk. rabû; tarbûtu
-buluh [FEAR] 𒁍𒈛;𒁍𒇻𒌔;𒁍𒇻𒆵;𒄬 bu-luh; bu-lu-uh2; bu-lu-uh3; buluh "to fear, tremble, be afraid" Akk. galātu
-buluh [TREE] 𒄬;𒋆𒄬;𒁀𒇻𒈝 buluh; šem buluh; ba-lu-hum "an aromatic tree or its resin" Akk. balahhu
-buluh [VOMIT] 𒁍𒇻𒆵;𒁍𒇻𒌔;𒄬;𒁍𒈛 bu-lu-uh3; bu-lu-uh2; buluh; bu-luh "to vomit; to burp" Akk. arû; gešû
-bun [BELLOWS] 𒄀𒅮;𒄀𒅮 gibun2; gibun "bellows" Akk. nappāhu
-bun [BLADDER] 𒍜𒅮;𒍜𒅮 uzubun; uzubun2 "bladder" Akk. ellabbuhhu
-bunga [CHILD] 𒍑𒂵 bunga "child, suckling" Akk. lagu; lakû; šerru
-buniĝ [TROUGH] 𒄑𒆹;𒄀?𒀀𒆹;𒆹;𒄀𒆹;𒄑𒇅;𒄑𒇉;𒇒 ĝešbuniĝ; gibuniĝx(|A.LAGAB×A|); buniĝ; gibuniĝ; ĝešbuniĝ2; ĝešbuniĝ3; kunin "a trough, bowl or bucket" Akk. kuninu; pattû
-bur [AUTHORITATIVE] 𒁔𒁔 bur2-bur2 "authoritative"
-bur [BOWL] 𒁓;𒎎𒁓 bur; na4bur "(food) offering, sacrifice; meal(-time); (stone) bowl; a priest" Akk. abru; naptanu; nīqu; pūru
-bur [CLOTHING] 𒌆𒁔 tug2bur2 "an item of clothing"
-bur [CONTAINER?] 𒁔 bur2 "a container?"
-bur [CROTCH] 𒄬 bur8 "crotch"
-bur [CUT] 𒆃𒆃 burx(|KA×ŠU|) "to cut"
-bur [GARMENT] 𒌆𒁓;𒌆𒁔 tug2bur; tug2bur2 "a garment"
-bur [GLOW] 𒁔;𒆪 bur2; bu7 "light; to glow, shine" Akk. napāhu; nūru
-bur [GRASS] 𒌑𒁔 u2bur2 "a grass" Akk. umşatu
-bur [LOCUS] 𒆠𒂗𒆕 bur11 "a cultic location" Akk. manzâz êni
-bur [PRIEST] 𒁓𒌫 burur2 "priest"
-bur [SPREAD] 𒁔;𒁓 bur2; bur "to release, free; to reveal; to spread out, cover" Akk. pašāru; šuparruru
-bur [TEAR] 𒁍;𒆪 bur12; bu7 "to tear out" Akk. nasāhu
-bur [TREE] 𒄑𒁓 ĝešbur "a tree" Akk. duhutu
-bur [UNIT] 𒁓;𒌋 bur; bur3 "a unit of area; a unit of volume" Akk. būru
-burbalaĝ [MUSICIAN] 𒁔𒁆;𒇽𒁔𒁆 bur2-balaĝ; lu2-bur2-balaĝ "musician; an animal"
-burbundi [VESSEL] 𒁓𒅮𒁲;𒁓𒉽𒉽𒁲;𒁓𒅮 bur-bun2-di; bur-bu10-di; bur-bun2 "a vessel"
-burburbabbar [NOISE] 𒁔𒁔𒌓 bur2-bur2-babbar "a noise"
-burburbabbar za [MAKE NOISE?] 𒁔𒁔𒌓𒍝 bur2-bur2-babbar za "to make noise?"
-burgi [COMMODITY] 𒁓𒄀 bur-gi "a commodity"
-burgia [OFFERING] 𒁓𒄄𒀀;𒁓𒊏𒄄𒀀 bur-gi4-a; bur-ra-gi4-a "an offering" Akk. burgû
-burgul [STONE-CUTTER] 𒁓𒄢 bur-gul "stone-cutter" Akk. purkullu
-burrah [~ARCHITECTURE] 𒁔𒊏𒄴 bur2-ra-ah "an architectural term"
-bursaĝ [BUILDING] 𒁓𒊕 bur-saĝ "a building" Akk. ?
-bursaĝ [SERVANT] 𒁓𒊕 bur-saĝ "a servant" Akk. buršanu
-buršuma [DOWAGER] 𒁓𒋗𒈠;𒁓𒋧𒈠;𒁓𒋗;𒁓𒋗𒌝 bur-šu-ma; bur-šum2-ma; bur-šu; bur-šu-um "dowager, matriarch, matron; an official; senior; old" Akk. puršumu; šībtu
-buru [BIRD] 𒉢𒁓𒄷;𒄖𒌫𒄷;𒉢𒅕𒄷;𒇡𒄷;𒆤𒄷𒄷 buru4mušen; gu-ur2mušen; buru15mušen; buru16mušen; buru6mušen "crow; a bird of prey or a vulture" Akk. erēbu[rook]
-buru [DISEASE] 𒄬 buru8 "a disease" Akk. ašû
-buru [FISH] 𒉅𒄩 buru5ku6 "a fish"
-buru [HARVEST] 𒂙;𒄦;𒆳 buru14; gur7; gur16 "harvest, summer" Akk. ebûru
-buru [SPARROW] 𒉅𒄷 buru5mušen "bird(s), small birds, sparrow; flock of birds" Akk. işşūru
-bur'u [UNIT] 𒐬𒌋·𒆜;𒐬𒄶 bur'ux(|U×KASKAL|); bur'ux(|HI×U|) "a unit of area"
-buru.BAD.BAD.ba [BIRD] 𒉅𒁁𒁁𒁀𒄷 buru5-|BAD.BAD|-bamušen "a bird"
-buru'ad [BIRD] 𒉅𒄉𒄷 buru5-ad2mušen "a bird"
-buru'az [BIRD] 𒉅𒊍𒄷;𒉅𒊻𒄷 buru5-azmušen; buru5-uzmušen "a bird" Akk. ?
-burud [PERFORATE] U+1234F?(𒌋) burudx(U) "breach, hole; depression, low-lying area, depth; to perforate; (to be) deep" Akk. palāšu; šapālu; pilšu; šupālu; šuplu
-burudugud [FLOCK] 𒉢𒁓𒂂 buru4-dugud "flock of crows"
-buru'edinak [BIRD] 𒉅𒂔𒈾𒄷 buru5-edin-namušen "a bird"
-burugi [BIRD] 𒉢𒁓𒄀𒄷 buru4-gimušen "a bird"
-burugir [BIRD] 𒉅𒄫𒄷 buru5-girmušen "a bird"
-burugizi [BIRD] 𒉅𒄀𒍥𒄷 buru5-gi-zimušen "a bird"
-buruhabrudak [BIRD] 𒉅𒆢𒁕𒄷 buru5-habrud-damušen "a bird"
-buruhur [BIRD] 𒉢𒁓𒄯𒄷 buru4-hurmušen "a bird"
-burukarkid [BIRD] 𒉅𒋼𒀀𒆤𒄷 buru5-kar-kidmušen "a bird"
-burukišig [BIRD] 𒉅𒄉𒄷 buru5-kišig2mušen "a bird"
-burunita [BIRD] 𒉅𒍑𒄷 buru5-nitamušen "a bird"
-burusigsig [BIRD] 𒉅𒅊𒅊𒄷 buru5-sig7-sig7mušen "a bird"
-burutir [BIRD] 𒉅𒌁𒄷 buru5-tirmušen "a bird"
-buruzuluma [BIRD] 𒉅𒅗𒈝𒈠𒄷 buru5-zu2-lum-mamušen "a bird"
-burzi [BOWL] 𒁓𒍥 bur-zi "a bowl" Akk. pursû
-BU'UDbar [IMPURE MALE] 𒁍𒌓𒁇 BU-UD-bar "impure male" Akk. amēlu haršu
-buzhili [STONE] 𒁍𒊻𒄭𒇷 bu-uz-hi-li "a stone"
-buzin [PLANT] 𒁍𒍢𒅔 bu-zi2-in "a plant" Akk. buşinnu
+>>>  ba  
+ ba  [ ALLOT ]  𒁀  ba  "to divide into shares, share, halve; to allot" Akk.  qiāšu ;  zâzu 
+>>>  ba  
+ ba  [ ANIMAL ]  𒁀  ba  "a marine creature?" 
+>>>  tug2 ba13  
+ ba  [ GARMENT ]  𒌆𒈨  tug2 ba13  "a garment" Akk.  nalbašu 
+>>>  ba3 ;  ba7  
+ ba  [ HALF ]  𒌍;𒈦  ba3 ;  ba7  "half; thirty" Akk.  bāmtu ;  mišlu ;  šalāšā 
+>>>  ĝeš ba  
+ ba  [ TOOL ]  𒄑𒁀  ĝeš ba  "a cutting tool" Akk.  suppīnu 
+>>>  dug ba  
+ ba  [ VESSEL ]  𒂁𒁀  dug ba  "type of vessel" 
+>>>  zid2 ba-ba  
+ baba  [ PORRIDGE ]  𒍥𒁀𒁀  zid2 ba-ba  "porridge" 
+>>>  ba-ba-ya10  
+ babaya  [ OLD MAN ]  𒁀𒁀𒀀  ba-ba-ya10  "old man" Akk.  paršumu 
+>>>  babbar2 ;  babbar  
+ babbar  [ WHITE ]  𒌓𒌓;𒌓  babbar2 ;  babbar  "(to be) white" Akk.  peşû 
+>>>  na4 nir2 babbar-dili  
+ babbardili  [ STONE ]  𒎎𒍝𒂆𒌓𒀸  na4 nir2 babbar-dili  "a stone" 
+>>>  na4 nir2 babbar-eš16  
+ babbareš  [ STONE ]  𒎎𒍝𒂆𒌓𒀼  na4 nir2 babbar-eš16  "a stone" 
+>>>  babbar-hi  
+ babbarhi  [ PLANT ]  𒌓𒄭  babbar-hi  "a plant" Akk.  parparhû 
+>>>  na4 nir2 babbar-min5  
+ babbarmin  [ STONE ]  𒎎𒍝𒂆𒌓𒐀  na4 nir2 babbar-min5  "a stone" 
+>>>  bad4  
+ bad  [ GROUND ]  𒆠𒆗  bad4  "hard ground" Akk.  apītu ;  dannatu 
+>>>  ĝeš bad  
+ bad  [ LEG ]  𒄑𒁁  ĝeš bad  "leg or foot of a piece of furniture" Akk.  kablu 
+>>>  bad ;  ba ;  be2  
+ bad  [ OPEN ]  𒁁;𒁀;𒁉  bad ;  ba ;  be2  "(to be) remote; to open, undo; to thresh grain with a threshing sledge" Akk.  be'ēšû ;  nesû ;  petû 
+>>>  bad3  
+ bad  [ WALL ]  𒂦  bad3  "wall, fortification" Akk.  dūru 
+>>>  ba-da-ra ;  ba-dar  
+ badara  [ DAGGER ]  𒁀𒁕𒊏;𒁀𒁯  ba-da-ra ;  ba-dar  "dagger, weapon" Akk.  pattaru 
+>>>  bad5 -bad5  
+ badbad  [ DEFEAT ]  𒅆𒅆𒅆𒅆  bad5 -bad5  "defeat in battle" Akk.  dabdû 
+>>>  bad3 -si  
+ badsi  [ PARAPET ]  𒂦𒋛  bad3 -si  "parapet" Akk.  setu 
+>>>  bad3 -šul-hi  
+ badšulhi  [ PALISADE? ]  𒂦𒂄𒄭  bad3 -šul-hi  "palisade?" 
+>>>  bahar ku6  
+ bahar  [ FISH ]  𒁃𒄩  bahar ku6  "a fish" 
+>>>  bahar2 ;  bahar3 ;  bahar ;  bahar4 ;  LAK742 ;  LAK747  
+ bahar  [ POTTER ]  𒁃;𒁇𒂔;𒁃;𒌋𒂔;¿;¿  bahar2 ;  bahar3 ;  bahar ;  bahar4 ;  LAK742 ;  LAK747  "potter" Akk.  pahāru 
+>>>  BAHAR2  
+ BAHAR  [ POT ]  𒁃  BAHAR2  "a pot" 
+>>>  bahargal x (|GAL.BAR.EDIN|)  
+ bahargal  [ POTTER ]  |GAL.BAR.EDIN|(𒃲𒁇𒂔)  bahargal x (|GAL.BAR.EDIN|)  "chief potter" 
+>>>  bakirum  
+ bakirum  [ STRAP ]  𒌋𒊬  bakirum  "a carrying strap" Akk.  hišum ša nukaribbi 
+>>>  ba-al ;  bal ;  bal3 ;  bal4 ;  pe-el  
+ bal  [ DIG ]  𒁀𒀠;𒁄;𒀡;𒀦;𒄫𒂖  ba-al ;  bal ;  bal3 ;  bal4 ;  pe-el  "to dig, excavate; to unload (a boat)" Akk.  herû 
+>>>  ba-al  
+ bal  [ RECOVER ]  𒁀𒀠  ba-al  "to recover (goods, property)" 
+>>>  na4 bal  
+ bal  [ STONE ]  𒎎𒁄  na4 bal  "type of stone" 
+>>>  bal ;  bil2  
+ bala  [ TURN ]  𒁄;𒉋  bal ;  bil2  "to rotate, turn over, cross; to pour out, libate, make a libation; reign, rotation, turn, term of office; to revolt; to hoist, draw (water); to transfer (boats over weirs etc. blocking a stream); to carry; to boil (meat in water); to change, transgress (the terms of an agreement); conversion (math.)" Akk.  elû ;  nabalkutu ;  nakāru ;  naqû ;  palû ;  tabāku 
+>>>  bala  
+ bala  [ WASTAGE ]  𒁄  bala  "wastage (in processing grain)" 
+>>>  balaĝ ;  ĝeš balaĝ  
+ balaĝ  [ INSTRUMENT ]  𒁆;𒄑𒁆  balaĝ ;  ĝeš balaĝ  "a large drum or harp" Akk.  balangu 
+>>>  balaĝ-di  
+ balaĝdi  [ INSTRUMENT ]  𒁆𒁲  balaĝ-di  "a musical instrument" Akk.  timbutu 
+>>>  balaĝ-il2  
+ balaĝil  [ MUSICIAN ]  𒁆𒅍  balaĝ-il2  "musician" 
+>>>  ĝeš balak  
+ balak  [ SPINDLE ]  𒄑𒁄  ĝeš balak  "spindle" Akk.  pilaqqu 
+>>>  bal-a-re  
+ balare  [ OTHER SIDE ]  𒁄𒀀𒊑  bal-a-re  "other side" 
+>>>  bal-bal-e  
+ balbale  [ SUBSCRIPT ]  𒁄𒁄𒂊  bal-bal-e  "a literary subscript" 
+>>>  ba-gi ;  ba-al-gi4 ;  ba-al-gu7 ;  ba-al-gi ;  bal-gi  
+ balgi  [ TURTLE ]  𒁀𒄀;𒁀𒀠𒄄;𒁀𒀠𒅥;𒁀𒀠𒄀;𒁄𒄀  ba-gi ;  ba-al-gi4 ;  ba-al-gu7 ;  ba-al-gi ;  bal-gi  "turtle" Akk.  raqqu 
+>>>  balla ;  balla2  
+ balla  [ HEADDRESS ]  𒃻 𒊕𒂵𒂅 𒂡𒂷;𒃻𒊕𒂵𒂅𒂡𒊩  balla ;  balla2  "a headdress or wig" Akk.  upur sinništi ;  upur zikari 
+>>>  ba-an ;  ban2 ;  ban3 ;  ba-an-AŠ ;  dug ban3  
+ ban  [ UNIT ]  𒁀𒀭;𒑑;𒌉;𒁀𒀭𒀸;𒂁𒌉  ba-an ;  ban2 ;  ban3 ;  ba-an-AŠ ;  dug ban3  "unit of capacity" Akk.  sūtu 
+>>>  ĝeš ba-na  
+ bana  [ ~PALM ]  𒄑𒁀𒈾  ĝeš ba-na  "part of a date palm" 
+>>>  BA.NAM  
+ BANAM  [ COMMODITY ]  𒁀𒉆  BA.NAM  "a commodity" 
+>>>  lu2 banda3 da  
+ banda  [ CHILD ]  𒇽𒌉𒁕  lu2 banda3 da  "child" 
+>>>  banda3 da  
+ banda  [ JUNIOR ]  𒌉𒁕  banda3 da  "(to be) junior; small; (to be) wild, fierce" Akk.  ekdu ;  şehru 
+>>>  banda3  
+ banda  [ QUOTIENT ]  𒌉  banda3  "quotient" Akk.  bandû 
+>>>  banda3  
+ banda  [ SAGACITY ]  𒌉  banda3  "sagacity" Akk.  tašimtu 
+>>>  ban3 -da ;  banda5 ;  banda4  
+ banda  [ STANCHION ]  𒌉𒁕;𒋞𒅂;𒅂  ban3 -da ;  banda5 ;  banda4  "stanchion, support" Akk.  takšīru 
+>>>  ba-an-du5 ;  gi ba-an-du8 -du8  
+ bandudu  [ BASKET ]  𒁀𒀭𒂅;𒄀𒁀𒀭𒂃𒂃  ba-an-du5 ;  gi ba-an-du8 -du8  "seeding basket of a plow" Akk.  banduddû 
+>>>  gi ba-an-dul  
+ bandul  [ MAT ]  𒄀𒁀𒀭𒌋𒌆  gi ba-an-dul  "a reed mat" Akk.  zibnu 
+>>>  baneš  
+ baneš  [ CONTAINER ]  𒀾  baneš  "a container" 
+>>>  ba-an-ga-aš2 ;  ba-ga-ša2  
+ bangaš  [ THIRTY-SIX ]  𒁀𒀭𒂵𒀾;𒁀𒂵𒃻  ba-an-ga-aš2 ;  ba-ga-ša2  "thirty-six" 
+>>>  ba-an-gi4  
+ bangi  [ RESPONSE ]  𒁀𒀭𒄄  ba-an-gi4  "response, answer" 
+>>>  ba-an-gi4  
+ bangi  [ TAPER ]  𒁀𒀭𒄄  ba-an-gi4  "taper, bevel, slant, incline" 
+>>>  ban2 -HU ;  ba-an-HU-na ;  ban2 -gun3 -gun3 -nu  
+ banHU  [ ANIMAL ]  𒑑𒄷;𒁀𒀭𒄷𒈾;𒑑𒁯𒁯𒉡  ban2 -HU ;  ba-an-HU-na ;  ban2 -gun3 -gun3 -nu  "an animal" Akk.  hurbabilu 
+>>>  dug banmin  
+ banmin  [ VESSEL ]  𒂁U+1222B  dug banmin  "a vessel of two seah capacity" 
+>>>  banšur ;  ĝeš banšur ;  banšur2 ;  ĝeš banšur2 ;  banšur3 ;  ĝeš banšur3 ;  banšur x (|URU×IGI|)  
+ banšur  [ TABLE ]  𒍎;𒄑𒍎;¿≈𒍎≈𒆓;𒄑¿≈𒍎≈𒆓;𒆓;𒄑𒆓;|URU×IGI|(𒍂)  banšur ;  ĝeš banšur ;  banšur2 ;  ĝeš banšur2 ;  banšur3 ;  ĝeš banšur3 ;  banšur x (|URU×IGI|)  "table" Akk.  paššūru 
+>>>  ĝeš banšur-zag-gu-la ;  ĝeš banšur-zag-gu2 -la2  
+ banšurzaggula  [ TABLE ]  𒄑𒍎𒍠𒄖𒆷;𒄑𒍎𒍠𒄘𒇲  ĝeš banšur-zag-gu-la ;  ĝeš banšur-zag-gu2 -la2  "a cultic table" Akk.  paššūr sakkî 
+>>>  ĝeš banšur-zag-ĝar-ra  
+ banšurzagĝara  [ TABLE ]  𒄑𒍎𒍠𒃻𒊏  ĝeš banšur-zag-ĝar-ra  "a cultic table" Akk.  paššūr aširti 
+>>>  ba-an-tum3 mušen ;  ba-an-tum2 mušen  
+ bantum  [ BIRD ]  𒁀𒀭𒉐𒄷;𒁀𒀭𒁺𒄷  ba-an-tum3 mušen ;  ba-an-tum2 mušen  "a bird" 
+>>>  bappir3 ;  bappir2 ;  bappir  
+ bappir  [ ~BEER ]  𒁋;𒋆;𒋋  bappir3 ;  bappir2 ;  bappir  "an ingredient in beer-making" Akk.  bappiru 
+>>>  bar7  
+ bar  [ BURN ]  𒉈  bar7  "to burn; to fire (pottery)" Akk.  napāhu 
+>>>  bar  
+ bar  [ CVVE ]  𒁇  bar  "(compound verb verbal element)" 
+>>>  bar ku6  
+ bar  [ FISH ]  𒁇𒄩  bar ku6  "a fish" 
+>>>  bar ;  ba-ra ;  bala ;  bur  
+ bar  [ OUTSIDE ]  𒁇;𒁀𒊏;𒁄;𒁓  bar ;  ba-ra ;  bala ;  bur  "outside, (other) side; behind; outer form, outer; fleece; outsider, strange; back, shoulder; liver; because of; to set aside; to cut open, slit, split" Akk.  būdum; kabattu ;  kawûm; ahû; warkatu ;  qalāpu ;  salātu ;  šalāqu 
+>>>  ĝeš bar  
+ bar  [ PLOW ]  𒄑𒁇  ĝeš bar  "a type of plow" Akk.  mayāru 
+>>>  bar huĝ  
+ bar huĝ  [ APPEASE ]  𒁇𒂠  bar huĝ  "to appease" Akk.  ? 
+>>>  bar sag9  
+ bar sag  [ PLEASE ]  𒁇𒊷  bar sag9  "to please" Akk.  ? 
+>>>  bar šed10  
+ bar šed  [ COOL ]  𒁇𒈹𒁲  bar šed10  "to cool down" Akk.  ? 
+>>>  bar tab ;  bar tab2  
+ bar tab  [ ANGRY ]  𒁇𒋰;𒁇𒄉  bar tab ;  bar tab2  "to be angry; to feel feverish" Akk.  şurrupu 
+>>>  bara2 ku6  
+ bara  [ FISH ]  𒁈𒄩  bara2 ku6  "a fish" 
+>>>  bara2  
+ bara  [ MIX? ]  𒁈  bara2  "to mix?" 
+>>>  bara6  
+ bara  [ ~COLOR ]  𒇙  bara6  "a color term" 
+>>>  barag ;  bara10 ;  bara6 ;  bara7 ;  bara8  
+ barag  [ DAIS ]  𒁈;𒃖;𒇙;𒇋;𒇣  barag ;  bara10 ;  bara6 ;  bara7 ;  bara8  "ruler, king; dais, seat" Akk.  parakku ;  šarru ;  šubtu 
+>>>  barag ;  bar ;  bar2 -ra ;  bara9 ;  bur2  
+ barag  [ SACK ]  𒁈;𒁇;𒁈𒊏;𒇗;𒁔  barag ;  bar ;  bar2 -ra ;  bara9 ;  bur2  "sack; a part of an animal's body" Akk.  bašamu 
+>>>  BAD ;  ba-ra-ge ;  ba-ra-ga ;  ba barag2 ;  KISAL ra  
+ barag  [ SPREAD ]  𒁁;𒁀𒊏𒄀;𒁀𒊏𒂵;𒁀𒁖;𒆦𒊏  BAD ;  ba-ra-ge ;  ba-ra-ga ;  ba barag2 ;  KISAL ra  "to spread out" Akk.  uşşû ;  šuparruru 
+>>>  barag-sig9 -ga  
+ baragsiga  [ SHRINE ]  𒁈𒋛𒂵  barag-sig9 -ga  "type of shrine" 
+>>>  ba-ra-ah  
+ barah  [ FIGHTING ]  𒁀𒊏𒄴  ba-ra-ah  "fighting" Akk.  puhpuhhu 
+>>>  ba-ra-kar-ra  
+ barakara  [ UNMNG ]  𒁀𒊏𒋼𒀀𒊏  ba-ra-kar-ra  "(meaning unknown)" 
+>>>  kuš bar-anše  
+ baranše  [ GOAD ]  𒋢𒁇𒀲  kuš bar-anše  "goad" Akk.  makkaru 
+>>>  ab-ra-aš ;  ba-ra-aš ;  bar-ra-aš ;  ib2 -ra-aš  
+ baraš  [ FLY ]  𒀊𒊏𒀸;𒁀𒊏𒀸;𒁇𒊏𒀸;𒌈𒊏𒀸  ab-ra-aš ;  ba-ra-aš ;  bar-ra-aš ;  ib2 -ra-aš  "to fly" 
+>>>  bar-bar sar  
+ barbar  [ PLANT ]  𒁇𒁇𒊬  bar-bar sar  "a plant" 
+>>>  gi bar-bar  
+ barbar  [ REED ]  𒄀𒁇𒁇  gi bar-bar  "a type of reed" 
+>>>  ĝeš bar-bar  
+ barbar  [ SHUTTLE ]  𒄑𒁇𒁇  ĝeš bar-bar  "shuttle" Akk.  ukû 
+>>>  bar-da ;  bar-da3  
+ barda  [ CROSSBAR ]  𒁇𒁕;𒁇𒆕  bar-da ;  bar-da3  "crossbar" Akk.  mušelû 
+>>>  bar-dili  
+ bardili  [ PLOW ]  𒁇𒀸  bar-dili  "a plow" Akk.  mayyaru 
+>>>  bar-dul5 ;  bar-SIK2 tug2  
+ bardul  [ GARMENT ]  𒁇𒌆;𒁇𒋠𒌆  bar-dul5 ;  bar-SIK2 tug2  "a garment" Akk.  şubātu 
+>>>  kuš bar-ed3 -de3 ;  kuš bar-ed3 -da-bar-ed3 -da ;  kuš bar-ed3 -da  
+ bareda  [ STRAP ]  𒋢𒁇𒇯𒁺𒉈;𒋢𒁇𒇯𒁺𒁕𒁇𒇯𒁺𒁕;𒋢𒁇𒇯𒁺𒁕  kuš bar-ed3 -de3 ;  kuš bar-ed3 -da-bar-ed3 -da ;  kuš bar-ed3 -da  "a type of strap" 
+>>>  bar-ĝal2  
+ barĝal  [ ~SHEEP ]  𒁇𒅅  bar-ĝal2  "a designation of sheep: with fleece" Akk.  bargallu 
+>>>  bar-hu-da  
+ barhuda  [ TOOL ]  𒁇𒄷𒁕  bar-hu-da  "a tool; a reed cutter" Akk.  par hudû 
+>>>  bar-huš ku6  
+ barhuš  [ FISH ]  𒁇𒄭𒄊𒄩  bar-huš ku6  "a fish" 
+>>>  ba-ri2 -ga  
+ bariga  [ UNIT ]  𒁀𒌷𒂵  ba-ri2 -ga  "a unit of capacity; a measuring container" Akk.  parsiktu 
+>>>  tug2 ba-rim4 -ma  
+ barim  [ GARMENT ]  𒌆𒁀𒁽𒈠  tug2 ba-rim4 -ma  "a garment" 
+>>>  bar-rim4 ;  barim  
+ barim  [ LAND ]  𒁇𒁽;𒁇𒁽  bar-rim4 ;  barim  "dry land" Akk.  nābalu 
+>>>  ba-ri-ra-tum  
+ bariratum  [ PLANT ]  𒁀𒊑𒊏𒌈  ba-ri-ra-tum  "a plant" Akk.  barīrātu 
+>>>  bar-la2  
+ barla  [ BASIN? ]  𒁇𒇲  bar-la2  "basin?" 
+>>>  bar-NUN  
+ barNUN  [ DIAGONAL ]  𒁇𒉣  bar-NUN  "diagonal (math.)" Akk.  siliptum 
+>>>  bar-sal  
+ barsal  [ SHEEP ]  𒁇𒊩  bar-sal  "a sheep" Akk.  barsallu 
+>>>  bar-sal  
+ barsal  [ ~SHEEP ]  𒁇𒊩  bar-sal  "a designation of sheep" 
+>>>  tug2 bar-sig9 ;  bar-sig9 ;  tug2 bar-sig ;  bar-sig2 tug2  
+ barsig  [ GARMENT ]  𒌆𒁇𒋛;𒁇𒋛;𒌆𒁇𒋝;𒁇𒋠𒌆  tug2 bar-sig9 ;  bar-sig9 ;  tug2 bar-sig ;  bar-sig2 tug2  "a garment" 
+>>>  tug2 bar-si-sig  
+ barsigsig  [ GARMENT ]  𒌆𒁇𒋛𒋝  tug2 bar-si-sig  "a garment" 
+>>>  bar-sud  
+ barsud  [ NOTATION ]  𒁇𒋤  bar-sud  "a musical notation" Akk.  ? 
+>>>  dug bar-sud  
+ barsud  [ POT ]  𒂁𒁇𒋤  dug bar-sud  "a pot" 
+>>>  bar-su-ga ;  bar-sug4 -a  
+ barsuga  [ ~SHEEP ]  𒁇𒋢𒂵;𒁇𒋤𒀀  bar-su-ga ;  bar-sug4 -a  "a designation of sheep: without fleece; plucked fleece" Akk.  ? 
+>>>  bar-šeĝ3  
+ baršeĝ  [ FOG ]  𒁇𒀀𒀭  bar-šeĝ3  "fog" 
+>>>  bar-šu  
+ baršu  [ UNMNG ]  𒁇𒋗  bar-šu  "?" Akk.  ? 
+>>>  bar-šu-ĝal2  
+ baršuĝal  [ OFFICIAL ]  𒁇𒋗𒅅  bar-šu-ĝal2  "an official" Akk.  muwassû 
+>>>  bar-šu-ĝal2  
+ baršuĝal  [ PROPERTY ]  𒁇𒋗𒅅  bar-šu-ĝal2  "property" 
+>>>  bar-šu-ĝal2  
+ baršuĝal  [ ~COW ]  𒁇𒋗𒅅  bar-šu-ĝal2  "designation of cows" 
+>>>  bar-UD  
+ barUD  [ ~DATES ]  𒁇𒌓  bar-UD  "a designation of dates" 
+>>>  bar-udu  
+ barudu  [ FLEECE ]  𒁇𒇻  bar-udu  "sheep's fleece" 
+>>>  bar-us2 urudu ;  bar-us2  
+ barus  [ GOAD ]  𒁇𒍑U+1234F;𒁇𒍑  bar-us2 urudu ;  bar-us2  "goad" 
+>>>  ba-ru-tum  
+ barutum  [ OBJECT ]  𒁀𒊒𒌈  ba-ru-tum  "a quiver or other leather item" Akk.  parūtu? 
+>>>  ba-si8 ;  ba-si  
+ basi  [ SQUARE ]  𒁀𒁲;𒁀𒋛  ba-si8 ;  ba-si  "square (math.)" 
+>>>  ba-aš2  
+ baš  [ UNMNG ]  𒁀𒀾  ba-aš2  "(unknown meaning)" 
+>>>  tug2 ba-tab-duh-hu-um  
+ batabduhhum  [ GARMENT ]  𒌆𒁀𒋰𒂃𒄷𒌝  tug2 ba-tab-duh-hu-um  "a garment" 
+>>>  ba-ti-um  
+ batium  [ CONTAINER ]  𒁀𒋾𒌝  ba-ti-um  "a container" 
+>>>  ba-za ;  ba-an-za  
+ baza  [ DWARF ]  𒁀𒍝;𒁀𒀭𒍝  ba-za ;  ba-an-za  "dwarf; cripple, lame" Akk.  kurû 
+>>>  ba-za ku6  
+ baza  [ FISH ]  𒁀𒍝𒄩  ba-za ku6  "a fish" 
+>>>  bibad mušen ;  ba-ba-az mušen ;  ba-ba-za mušen ;  mušen ba-ba-za ;  ba-ba-az bazbaz x (|ŠE.HU|) mušen ;  ba-ba-za bazbaz x (|ŠE.HU|) mušen  
+ bazbaz  [ BIRD ]  𒊺𒄷𒌉𒄷𒄷;𒁀𒁀𒊍𒄷;𒁀𒁀𒍝𒄷;𒄷𒁀𒁀𒍝;𒁀𒁀𒊍𒊺𒄷𒄷·(𒊺𒄷)𒄷;𒁀𒁀𒍝𒊺𒄷𒄷·(𒊺𒄷)𒄷  bibad mušen ;  ba-ba-az mušen ;  ba-ba-za mušen ;  mušen ba-ba-za ;  ba-ba-az bazbaz x (|ŠE.HU|) mušen ;  ba-ba-za bazbaz x (|ŠE.HU|) mušen  "a bird" Akk.  paspasu 
+>>>  tug2 ba-zi-hu-um  
+ bazihum  [ TEXTILE ]  𒌆𒁀𒍥𒄷𒌝  tug2 ba-zi-hu-um  "a textile" 
+>>>  ba-zu2 ;  ĝeš ba-zu2 ?  
+ bazu  [ KNIFE ]  𒁀𒅗;𒄑𒁀𒅗  ba-zu2 ;  ĝeš ba-zu2 ?  "a toothed knife" Akk.  suppīn şurri 
+>>>  be4 ;  be6  
+ be  [ DIMINISH ]  𒁀;𒉿  be4 ;  be6  "to deduct, remove; to diminish, reduce; to withdraw, receive (as an allotment)" Akk.  našāru 
+>>>  bed3  
+ bed  [ DEFECATE ]  𒆪  bed3  "to defecate; excrement" Akk.  teşû ;  zû 
+>>>  bibra  
+ bibra  [ VESSEL ]  𒄾  bibra  "a bird; a stone vessel" Akk.  bibrû 
+>>>  bil2 ;  bil3 ;  bil  
+ bil  [ BURN ]  𒉋;𒄑𒉋;𒉈  bil2 ;  bil3 ;  bil  "to burn" Akk.  qalû 
+>>>  bil2  
+ bil  [ SOUR ]  𒉋  bil2  "(to be)sour" Akk.  emşu 
+>>>  bi2 -lam  
+ bilam  [ ANIMAL ]  𒉈𒇴  bi2 -lam  "an animal" 
+>>>  bi2 -lam  
+ bilam  [ ELEPHANT ]  𒉈𒇴  bi2 -lam  "elephant" Akk.  pīru 
+>>>  bil2 -ga  
+ bilga  [ FRUIT ]  𒉋𒂵  bil2 -ga  "fresh fruit; male ancestor" Akk.  inbu 
+>>>  ĝeš bil2 -lum  
+ billum  [ MANDRAKE ]  𒄑𒉋𒈝  ĝeš bil2 -lum  "mandrake" Akk.  pilû 
+>>>  bil2 -tab  
+ biltab  [ UNMNG ]  𒉋𒋰  bil2 -tab  "?" Akk.  ? 
+>>>  biluda ;  bi3 -lu5 -da ;  bi-lu-da10 ;  pi-lu8 -da  
+ biluda  [ RITUALS ]  𒉺𒀭;𒑙𒈜 LUB lupo welpe wolf𒁕;𒁉𒇻𒄭;𒉿𒌷𒁕  biluda ;  bi3 -lu5 -da ;  bi-lu-da10 ;  pi-lu8 -da  "rituals, rites" Akk.  parşu ;  pilludû 
+>>>  bi-lu-lu  
+ bilulu  [ GRASS ]  𒁉𒇻𒇻  bi-lu-lu  "reed grass" 
+>>>  bi2 -lum x (|ZU&ZU.SAR|)  
+ bilum  [ EGG? ]  𒉈𒈝·(𒍪𒍪𒊬)  bi2 -lum x (|ZU&ZU.SAR|)  "egg?" 
+>>>  ĝeš bi2 -ni-tum  
+ binitum  [ BEAM ]  𒄑𒉈𒉌𒌈  ĝeš bi2 -ni-tum  "a beam for houses and boats" Akk.  binītu 
+>>>  bi-nu-um  
+ binum  [ TAMARISK ]  𒁉𒉡𒌝  bi-nu-um  "tamarisk" Akk.  bīnu 
+>>>  bir9  
+ bir  [ CVVE ]  𒊳  bir9  "(compound verb verbal element)" 
+>>>  bir5 ;  buru5 ;  bur5  
+ bir  [ LOCUST ]  𒉆;𒉅;𒄷𒊺𒂟 ḪŪ.ŠE.sig₅/sag₁₀ Heuschrecke  bir5 ;  buru5 ;  bur5  "locust" Akk.  erbu 
+>>>  bir ;  bi-bi-re ;  bir9  
+ bir  [ SCATTER ]  𒄵;𒁉𒁉𒊑;𒊳  bir ;  bi-bi-re ;  bir9  "to scatter, disperse" Akk.  sapāhu 
+>>>  bir7 ;  bir6 ;  bir9  
+ bir  [ SHRED ]  𒊮;𒊶;𒊳  bir7 ;  bir6 ;  bir9  "to shred" Akk.  šarāţu 
+>>>  ĝeš bir-GAM-la-e  
+ birGAMla'e  [ TREE ]  𒄑𒄵𒃵𒆷𒂊  ĝeš bir-GAM-la-e  "a tree" 
+>>>  bir-gun3  
+ birgun  [ CHEESE ]  𒄵𒁯  bir-gun3  "a cheese" Akk.  pinnāru 
+>>>  bi-ri-ig ;  bir2  
+ birig  [ CONTRACT ]  𒁉𒊑𒅅;𒌓  bi-ri-ig ;  bir2  "to sneer at, lift (nose, lip), contract oneself, roll up" Akk.  ganāşu ;  kalāşu 
+>>>  bi-ir-tu  
+ birtu  [ FORT ]  𒁉𒅕𒌅  bi-ir-tu  "fort" Akk.  birtu 
+>>>  bir-un4  
+ birun  [ THRESHING-FLOOR? ]  𒄵𒂬  bir-un4  "threshing-floor?" 
+>>>  bisaĝ ;  gi bisaĝ ;  bisaĝ3 ;  bisaĝ2  
+ bisaĝ  [ BASKET ]  𒂷;𒄀𒂷;𒋄;𒋃  bisaĝ ;  gi bisaĝ ;  bisaĝ3 ;  bisaĝ2  "basket" Akk.  pisannu 
+>>>  pisaĝ ku6  
+ bisaĝ  [ FISH ]  𒂷𒄩  pisaĝ ku6  "a fish" 
+>>>  bisaĝ-dub-ba ;  ša3 -dub-ba  
+ bisaĝdubak  [ ARCHIVIST ]  𒂷𒁾𒁀;𒊮𒁾𒁀  bisaĝ-dub-ba ;  ša3 -dub-ba  "archivist" Akk.  šandabakku 
+>>>  bisaĝ-ninda-ĝar  
+ bisaĝnindaĝar  [ BASKET ]  𒂷𒃻𒃻  bisaĝ-ninda-ĝar  "bread basket" 
+>>>  gi bisaĝ-šu-kam-ma  
+ bisaĝšukama  [ CONTAINER ]  𒄀𒂷𒋗𒄰𒈠  gi bisaĝ-šu-kam-ma  "a container" 
+>>>  bi2 -tum ;  bit-tum  
+ bitum  [ ~ADMINISTRATION ]  𒉈𒌈;𒂍𒌈  bi2 -tum ;  bit-tum  "an administrative term" 
+>>>  bi-iz ;  biz  
+ biz  [ TRICKLE ]  𒁉𒄑;𒁉  bi-iz ;  biz  "to trickle, drip" Akk.  başāşu 
+>>>  biz2  
+ biz  [ UNMNG ]  𒄐  biz2  "?" Akk.  ? 
+>>>  bi-za  
+ biza  [ PUPPET ]  𒁉𒍝  bi-za  "puppet, doll" Akk.  passu 
+>>>  bi2 -za-za ;  bil2 -za ;  bi-za-za  
+ bizaza  [ FROG ]  𒉈𒍝𒍝;𒉋𒍝;𒁉𒍝𒍝  bi2 -za-za ;  bil2 -za ;  bi-za-za  "frog; ~ figurine" Akk.  muşa'irānu 
+>>>  bi-za-za-gu3 -balaĝ-di-kar-gir5 -za-na mušen ;  bi2 -za-za-gu3 -balaĝ-di-kar-gir5 -za-na mušen ;  bi2 -za-za-gu3 -balaĝ-ĝa2 -kar-gir5 -za-na mušen  
+ bizazagubalaĝdikargirzana  [ BIRD ]  𒁉𒍝𒍝𒅗𒁆𒁲𒋼𒀀𒁽𒍝𒈾𒄷;𒉈𒍝𒍝𒅗𒁆𒁲𒋼𒀀𒁽𒍝𒈾𒄷;𒉈𒍝𒍝𒅗𒁆𒂷𒋼𒀀𒁽𒍝𒈾𒄷  bi-za-za-gu3 -balaĝ-di-kar-gir5 -za-na mušen ;  bi2 -za-za-gu3 -balaĝ-di-kar-gir5 -za-na mušen ;  bi2 -za-za-gu3 -balaĝ-ĝa2 -kar-gir5 -za-na mušen  "a bird" Akk.  kur tibni 
+>>>  bi2 -za-balaĝ-gir5 ku6  
+ bizazagubalaĝdikargirzana  [ FISH ]  𒉈𒍝𒁆𒁽𒄩  bi2 -za-balaĝ-gir5 ku6  "a fish" 
+>>>  bu ;  bu2 ;  wu  
+ bu  [ FLIT ]  𒁍;𒆜;𒉿  bu ;  bu2 ;  wu  "to flit, chase about" Akk.  našarbuţu 
+>>>  bu ;  bu2  
+ bu  [ PERFECT ]  𒁍;𒆜  bu ;  bu2  "perfect" Akk.  gitmalu 
+>>>  bu-u2 bu-u2  
+ bu  [ SECRET ]  𒁍𒌑𒁍𒌑  bu-u2 bu-u2  "secret" 
+>>>  bu-bu-I  
+ bubu'I  [ PALM ]  𒁍𒁍𒐊  bu-bu-I  "wild date palm" Akk.  alamittu 
+>>>  bu-bu-I  
+ bubu'I  [ RATION ]  𒁍𒁍𒐊  bu-bu-I  "food ration" Akk.  ipru 
+>>>  bu-ud-ba-ad  
+ budbad  [ SOUND ]  𒁍𒌓𒁀𒀜  bu-ud-ba-ad  "a sound (onomatopoeic)" 
+>>>  bu-ud-ba-ad za  
+ budbad za  [ MAKE NOISE ]  𒁍𒌓𒁀𒀜𒍝  bu-ud-ba-ad za  "to make noise" 
+>>>  bu-ud-nu  
+ budnu  [ TEREBINTH ]  𒁍𒌓𒉡  bu-ud-nu  "terebinth or pistachio" 
+>>>  bu-du-ug  
+ budug  [ MOLD ]  𒁍𒁺𒊌  bu-du-ug  "to mold bricks" Akk.  patāqu 
+>>>  BU-I  
+ BU'I  [ FACE ]  𒁍𒐊  BU-I  "to face" Akk.  mahāru 
+>>>  bul4 ;  bul ;  bun ;  bul5  
+ bul  [ BLOW ]  𒅮;𒇧;𒅮;𒇡  bul4 ;  bul ;  bun ;  bul5  "to blow; to winnow; to sift; to inflate" Akk.  edēpu ;  našāpu ;  nesû 
+>>>  bul5 ku6  
+ bul  [ FISH ]  𒇡𒄩  bul5 ku6  "a fish" 
+>>>  bul ;  i3 -bul5 -bul5  
+ bul  [ SHAKE ]  𒇧;𒉌𒇡𒇡  bul ;  i3 -bul5 -bul5  "to shake" 
+>>>  bul3 -bal  
+ bulbal  [ SOUND ]  𒁄𒁄  bul3 -bal  "a sound (onomatopoeic)" 
+>>>  bul3 -bal za  
+ bulbal za  [ MAKE NOISE ]  𒁄𒁄𒍝  bul3 -bal za  "to make noise" 
+>>>  gi bul5 -bul5  
+ bulbul  [ REED ]  𒄀𒇡𒇡  gi bul5 -bul5  "a reed" 
+>>>  bulug ;  urud bulug ;  mu-lu-ug ;  bu-lu-ug  
+ bulug  [ NEEDLE ]  𒁑;U+1234F𒁑;𒈬𒇻𒊌;𒁍𒇻𒊌  bulug ;  urud bulug ;  mu-lu-ug ;  bu-lu-ug  "needle; stake; boundary; seal pin" Akk.  pulukku 
+>>>  u2 bulug  
+ bulug  [ PLANT ]  𒌑𒁑  u2 bulug  "a plant" 
+>>>  bulug  
+ bulug  [ SEW ]  𒁑  bulug  "to sew" 
+>>>  urud bulug-gur10  
+ buluggur  [ SCYTHE? ]  U+1234F𒁑𒆥  urud bulug-gur10  "scythe?" 
+>>>  bulug-KIN-gur4  
+ bulugKINgur  [ LANCET ]  𒁑𒆥𒆸  bulug-KIN-gur4  "lancet" Akk.  marşadu 
+>>>  buluĝ3 ;  buluĝ5 ;  bu-lu-ug ;  buluĝ  
+ buluĝ  [ GROW ]  𒉽𒉽;𒁆;𒁍𒇻𒊌;𒁑  buluĝ3 ;  buluĝ5 ;  bu-lu-ug ;  buluĝ  "to grow up, rear, make grow; novice; foster child" Akk.  rabû ;  tarbûtu 
+>>>  bu-luh ;  bu-lu-uh2 ;  bu-lu-uh3 ;  buluh  
+ buluh  [ FEAR ]  𒁍𒈛;𒁍𒇻𒌔;𒁍𒇻𒆵;𒄬  bu-luh ;  bu-lu-uh2 ;  bu-lu-uh3 ;  buluh  "to fear, tremble, be afraid" Akk.  galātu 
+>>>  buluh ;  šem buluh ;  ba-lu-hum  
+ buluh  [ TREE ]  𒄬;𒋆𒄬;𒁀𒇻𒈝  buluh ;  šem buluh ;  ba-lu-hum  "an aromatic tree or its resin" Akk.  balahhu 
+>>>  bu-lu-uh3 ;  bu-lu-uh2 ;  buluh ;  bu-luh  
+ buluh  [ VOMIT ]  𒁍𒇻𒆵;𒁍𒇻𒌔;𒄬;𒁍𒈛  bu-lu-uh3 ;  bu-lu-uh2 ;  buluh ;  bu-luh  "to vomit; to burp" Akk.  arû ;  gešû 
+>>>  gi bun2 ;  gi bun  
+ bun  [ BELLOWS ]  𒄀𒅮;𒄀𒅮  gi bun2 ;  gi bun  "bellows" Akk.  nappāhu 
+>>>  uzu bun ;  uzu bun2  
+ bun  [ BLADDER ]  𒍜𒅮;𒍜𒅮  uzu bun ;  uzu bun2  "bladder" Akk.  ellabbuhhu 
+>>>  bunga  
+ bunga  [ CHILD ]  𒍑𒂵  bunga  "child, suckling" Akk.  lagu ;  lakû ;  šerru 
+>>>  ĝeš buniĝ ;  gi buniĝ x (|A.LAGAB×A|) ;  buniĝ ;  gi buniĝ ;  ĝeš buniĝ2 ;  ĝeš buniĝ3 ;  kunin  
+ buniĝ  [ TROUGH ]  𒄑𒆹;𒄀𒆹·(𒀀𒆹);𒆹;𒄀𒆹;𒄑𒇅;𒄑𒇉;𒇒  ĝeš buniĝ ;  gi buniĝ x (|A.LAGAB×A|) ;  buniĝ ;  gi buniĝ ;  ĝeš buniĝ2 ;  ĝeš buniĝ3 ;  kunin  "a trough, bowl or bucket" Akk.  kuninu ;  pattû 
+>>>  bur2 -bur2  
+ bur  [ AUTHORITATIVE ]  𒁔𒁔  bur2 -bur2  "authoritative" 
+>>>  bur ;  na4 bur  
+ bur  [ BOWL ]  𒁓;𒎎𒁓  bur ;  na4 bur  "(food) offering, sacrifice; meal(-time); (stone) bowl; a priest" Akk.  abru ;  naptanu ;  nīqu ;  pūru 
+>>>  tug2 bur2  
+ bur  [ CLOTHING ]  𒌆𒁔  tug2 bur2  "an item of clothing" 
+>>>  bur2  
+ bur  [ CONTAINER? ]  𒁔  bur2  "a container?" 
+>>>  bur8  
+ bur  [ CROTCH ]  𒄬  bur8  "crotch" 
+>>>  bur x (|KA×ŠU|)  
+ bur  [ CUT ]  |KA×ŠU|(𒆃)  bur x (|KA×ŠU|)  "to cut" 
+>>>  tug2 bur ;  tug2 bur2  
+ bur  [ GARMENT ]  𒌆𒁓;𒌆𒁔  tug2 bur ;  tug2 bur2  "a garment" 
+>>>  bur2 ;  bu7  
+ bur  [ GLOW ]  𒁔;𒆪  bur2 ;  bu7  "light; to glow, shine" Akk.  napāhu ;  nūru 
+>>>  u2 bur2  
+ bur  [ GRASS ]  𒌑𒁔  u2 bur2  "a grass" Akk.  umşatu 
+>>>  bur11  
+ bur  [ LOCUS ]  𒆠𒂗𒆕  bur11  "a cultic location" Akk.  manzâz êni 
+>>>  bur ur2  
+ bur  [ PRIEST ]  𒁓𒌫  bur ur2  "priest" 
+>>>  bur2 ;  bur  
+ bur  [ SPREAD ]  𒁔;𒁓  bur2 ;  bur  "to release, free; to reveal; to spread out, cover" Akk.  pašāru ;  šuparruru 
+>>>  bur12 ;  bu7  
+ bur  [ TEAR ]  𒁍;𒆪  bur12 ;  bu7  "to tear out" Akk.  nasāhu 
+>>>  ĝeš bur  
+ bur  [ TREE ]  𒄑𒁓  ĝeš bur  "a tree" Akk.  duhutu 
+>>>  bur ;  bur3  
+ bur  [ UNIT ]  𒁓;𒌋  bur ;  bur3  "a unit of area; a unit of volume" Akk.  būru 
+>>>  bur2 -balaĝ ;  lu2 -bur2 -balaĝ  
+ burbalaĝ  [ MUSICIAN ]  𒁔𒁆;𒇽𒁔𒁆  bur2 -balaĝ ;  lu2 -bur2 -balaĝ  "musician; an animal" 
+>>>  bur-bun2 -di ;  bur-bu10 -di ;  bur-bun2  
+ burbundi  [ VESSEL ]  𒁓𒅮𒁲;𒁓𒉽𒉽𒁲;𒁓𒅮  bur-bun2 -di ;  bur-bu10 -di ;  bur-bun2  "a vessel" 
+>>>  bur2 -bur2 -babbar  
+ burburbabbar  [ NOISE ]  𒁔𒁔𒌓  bur2 -bur2 -babbar  "a noise" 
+>>>  bur2 -bur2 -babbar za  
+ burburbabbar za  [ MAKE NOISE? ]  𒁔𒁔𒌓𒍝  bur2 -bur2 -babbar za  "to make noise?" 
+>>>  bur-gi  
+ burgi  [ COMMODITY ]  𒁓𒄀  bur-gi  "a commodity" 
+>>>  bur-gi4 -a ;  bur-ra-gi4 -a  
+ burgia  [ OFFERING ]  𒁓𒄄𒀀;𒁓𒊏𒄄𒀀  bur-gi4 -a ;  bur-ra-gi4 -a  "an offering" Akk.  burgû 
+>>>  bur-gul  
+ burgul  [ STONE-CUTTER ]  𒁓𒄢  bur-gul  "stone-cutter" Akk.  purkullu 
+>>>  bur2 -ra-ah  
+ burrah  [ ~ARCHITECTURE ]  𒁔𒊏𒄴  bur2 -ra-ah  "an architectural term" 
+>>>  bur-saĝ  
+ bursaĝ  [ BUILDING ]  𒁓𒊕  bur-saĝ  "a building" Akk.  ? 
+>>>  bur-saĝ  
+ bursaĝ  [ SERVANT ]  𒁓𒊕  bur-saĝ  "a servant" Akk.  buršanu 
+>>>  bur-šu-ma ;  bur-šum2 -ma ;  bur-šu ;  bur-šu-um  
+ buršuma  [ DOWAGER ]  𒁓𒋗𒈠;𒁓𒋧𒈠;𒁓𒋗;𒁓𒋗𒌝  bur-šu-ma ;  bur-šum2 -ma ;  bur-šu ;  bur-šu-um  "dowager, matriarch, matron; an official; senior; old" Akk.  puršumu ;  šībtu 
+>>>  buru4 mušen ;  gu-ur2 mušen ;  buru15 mušen ;  buru16 mušen ;  buru6 mušen  
+ buru  [ BIRD ]  𒉢𒁓𒄷;𒄖𒌫𒄷;𒉢𒅕𒄷;𒇡𒄷;𒆤𒄷𒄷  buru4 mušen ;  gu-ur2 mušen ;  buru15 mušen ;  buru16 mušen ;  buru6 mušen  "crow; a bird of prey or a vulture" Akk.  erēbu[rook] 
+>>>  buru8  
+ buru  [ DISEASE ]  𒄬  buru8  "a disease" Akk.  ašû 
+>>>  buru5 ku6  
+ buru  [ FISH ]  𒉅𒄩  buru5 ku6  "a fish" 
+>>>  buru14 ;  gur7 ;  gur16  
+ buru  [ HARVEST ]  𒂙;𒄦;𒆳  buru14 ;  gur7 ;  gur16  "harvest, summer" Akk.  ebûru 
+>>>  buru5 mušen  
+ buru  [ SPARROW ]  𒉅𒄷  buru5 mušen  "bird(s), small birds, sparrow; flock of birds" Akk.  işşūru 
+>>>  bur'u x (|U×KASKAL|) ;  bur'u x (|HI×U|)  
+ bur'u  [ UNIT ]  U×KASKAL(𒌋·𒆜);U×KASKAL(𒄶)  bur'u x (|U×KASKAL|) ;  bur'u x (|HI×U|)  "a unit of area" 
+>>>  buru5 -|BAD.BAD|-ba mušen  
+ buru.BAD.BAD.ba  [ BIRD ]  𒉅𒁁𒁁𒁀𒄷  buru5 -|BAD.BAD|-ba mušen  "a bird" 
+>>>  buru5 -ad2 mušen  
+ buru'ad  [ BIRD ]  𒉅𒄉𒄷  buru5 -ad2 mušen  "a bird" 
+>>>  buru5 -az mušen ;  buru5 -uz mušen  
+ buru'az  [ BIRD ]  𒉅𒊍𒄷;𒉅𒊻𒄷  buru5 -az mušen ;  buru5 -uz mušen  "a bird" Akk.  ? 
+>>>  burud x (U)  
+ burud  [ PERFORATE ]  U+1234F?(𒌋)  burud x (U)  "breach, hole; depression, low-lying area, depth; to perforate; (to be) deep" Akk.  palāšu; šapālu ;  pilšu; šupālu ;  šuplu 
+>>>  buru4 -dugud  
+ burudugud  [ FLOCK ]  𒉢𒁓𒂂  buru4 -dugud  "flock of crows" 
+>>>  buru5 -edin-na mušen  
+ buru'edinak  [ BIRD ]  𒉅𒂔𒈾𒄷  buru5 -edin-na mušen  "a bird" 
+>>>  buru4 -gi mušen  
+ burugi  [ BIRD ]  𒉢𒁓𒄀𒄷  buru4 -gi mušen  "a bird" 
+>>>  buru5 -gir mušen  
+ burugir  [ BIRD ]  𒉅𒄫𒄷  buru5 -gir mušen  "a bird" 
+>>>  buru5 -gi-zi mušen  
+ burugizi  [ BIRD ]  𒉅𒄀𒍥𒄷  buru5 -gi-zi mušen  "a bird" 
+>>>  buru5 -habrud-da mušen  
+ buruhabrudak  [ BIRD ]  𒉅𒆢𒁕𒄷  buru5 -habrud-da mušen  "a bird" 
+>>>  buru4 -hur mušen  
+ buruhur  [ BIRD ]  𒉢𒁓𒄯𒄷  buru4 -hur mušen  "a bird" 
+>>>  buru5 -kar-kid mušen  
+ burukarkid  [ BIRD ]  𒉅𒋼𒀀𒆤𒄷  buru5 -kar-kid mušen  "a bird" 
+>>>  buru5 -kišig2 mušen  
+ burukišig  [ BIRD ]  𒉅𒄉𒄷  buru5 -kišig2 mušen  "a bird" 
+>>>  buru5 -nita mušen  
+ burunita  [ BIRD ]  𒉅𒍑𒄷  buru5 -nita mušen  "a bird" 
+>>>  buru5 -sig7 -sig7 mušen  
+ burusigsig  [ BIRD ]  𒉅𒅊𒅊𒄷  buru5 -sig7 -sig7 mušen  "a bird" 
+>>>  buru5 -tir mušen  
+ burutir  [ BIRD ]  𒉅𒌁𒄷  buru5 -tir mušen  "a bird" 
+>>>  buru5 -zu2 -lum-ma mušen  
+ buruzuluma  [ BIRD ]  𒉅𒅗𒈝𒈠𒄷  buru5 -zu2 -lum-ma mušen  "a bird" 
+>>>  bur-zi  
+ burzi  [ BOWL ]  𒁓𒍥  bur-zi  "a bowl" Akk.  pursû 
+>>>  BU-UD-bar  
+ BU'UDbar  [ IMPURE MALE ]  𒁍𒌓𒁇  BU-UD-bar  "impure male" Akk.  amēlu haršu 
+>>>  bu-uz-hi-li  
+ buzhili  [ STONE ]  𒁍𒊻𒄭𒇷  bu-uz-hi-li  "a stone" 
+>>>  bu-zi2 -in  
+ buzin  [ PLANT ]  𒁍𒍢𒅔  bu-zi2 -in  "a plant" Akk.  buşinnu 

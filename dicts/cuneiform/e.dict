@@ -1,318 +1,634 @@
 npm install -g jsdom canvas jsdom-global
 Missing require: request
-e [BARLEY?] ¿ e "barley?"
-e [CHAFF] 𒌓𒁺 e3 "chaff" Akk. hāmū
-e [HOUSE] 𒂍;𒂷;𒀀 e2; ĝa2; e4 "house; temple; (temple) household; station (of the moon)?; room; house-lot; estate" Akk. bītu
-e [INTERJECTION] ¿ e "a vocative interjection"
-e [LEATHER] ¿;¿ e; e6 "strip or piece of leather; leather bearing" Akk. ya'u
-e [LEAVE] 𒌓𒁺;𒐊;¿ e3; i; e "to leave, to go out; to thread, hang on a string; to remove, take away; to bring out; to enter; to bring in; to raise, rear (a child); to sow; to rave; to winnow; to measure (grain) roughly (with a stick); to rent" Akk. aşû; erēbu; mahû; rubbû; zarû; šakāku
-e [PRINCELY?] ¿;𒎏 e; e5 "princely?"
-e [SPEAK] ¿;𒈾𒁉𒀀;𒁉;𒉈;𒁕𒈨;𒈾𒁉;𒅗 e; na-be2-a; be2; ne; da-me; na-be2; e7 "perfect plural and imperfect stem of dug[to speak]" Akk. atwû; dabābu; qabû
-e [TRUST] 𒅗 e7 "trust" Akk. tukultu
-e [TUBE] 𒄑𒇯𒁺 ĝeše11 "tube, socket" Akk. uppu
-e [WATCH] 𒌓𒁺 e3 "watch"
-ea [~BITUMEN] 𒌓𒁺𒀀;𒂍𒀀 e3-a; e2-a "a qualification of bitumen"
-e'addak [PATRIMONY] 𒂍𒀜𒁕 e2-ad-da "patrimony" Akk. bīt abīšu
-e'ankar [ARMORY] 𒂍𒂗𒃸 e2-en-kar2 "armory, weapon-room"
-e'ara [MILL] 𒂍𒀀𒊏;𒂍𒄯;𒂍𒄯𒄯 e2-a-ra; e2-ara3; e2-ara5 "mill" Akk. ?
-eb [OVAL] 𒅁 eb "oval"
-eban [PAIR] 𒂍𒁀𒀭;𒂍𒁀;¿𒁀𒀭;¿𒉺𒈾;𒂍𒉺𒈾 e2-ba-an; e2-ba; e-ba-an; e-pa-na; e2-pa-na "pair" Akk. tāpalu
-ebara [OUTHOUSE] 𒂍𒁇𒊏 e2-bar-ra "outhouse"
-ebgal [OVAL] 𒅁𒃲 eb-gal "temple oval" Akk. ?
-ebih [ROPE] 𒂠𒈤 ebih2 "heavy rope" Akk. ebīhu
-ebir [VESSEL-STAND] 𒄑𒁉;𒂁;𒄑𒀀;𒄑𒂵 ĝešepir2; ebir; ĝešebir3; ĝešebir4 "(vessel-)stand; a large vessel" Akk. kannu
-eblak [BEER] 𒁉𒀀𒋻𒀀𒀭 kašebla "a beer" Akk. iblakku
-ebmuhaldim [~KITCHEN] 𒅁𒈬 eb-muhaldim "food preparation area (lit. "oval of the cooks")"
-eburgul [WORKSHOP] 𒂍𒁓𒄢 e2-bur-gul "stone-cutter's workshop"
-ed [ASCEND] 𒇯𒁺;𒌓·𒌋𒌋𒌋𒁺 ed3; |UD×U+U+U.DU| "to go up or down; to demolish; to scratch; to rage, be rabid" Akk. arādu; elû; naqāru; šegû
-ed [PIERCE] 𒇯𒁺 e11 "pierce"
-ed [STRENGTHEN] 𒇯𒁺 e11 "strengthen"
-eda [BOARD] 𒄑𒂍𒁕 ĝeše2-da "board"
-eda [CONTAINER] 𒂍𒁕 e2-da "a container"
-edadi [FLOUR] 𒍥𒂍𒁕𒁲 zid2e2-da-di "a type of flour" Akk. edadû
-edadi [~POSITION] 𒉆𒂍𒁕𒁲 nam-e2-da-di "a prebendary position"
-edakua [SOUP] 𒃑;𒆺 edakua; edakua2 "fish bone; fish soup" Akk. sihil nunu
-edam [TAVERN?] 𒂍𒁮 e2-dam "tavern?"
-eden [BACK] 𒂔 eden "back, upper side" Akk. şēru
-eden [BIRD] 𒂔𒄷;𒁕𒄷 edenmušen; damušen "a bird"
-eden [PLAIN] 𒂔 eden "plain, steppe, open country" Akk. edinu
-eden.X [BIRD] 𒂔?𒄷 eden-xmušen "a bird"
-edenlil [DESERT] 𒂔𒆤 eden-lil2 "haunted desert"
-eDI [NEST?] 𒂍𒁲 e2-DI "nest?"
-eduba [STOREHOUSE] 𒂍𒁾;𒂍𒁾𒁀 e2-dub; e2-dub-ba "storehouse, magazine"
-edubba'a [SCRIBAL SCHOOL] 𒂍𒁾𒁀𒀀;𒂍𒁾𒁀 e2-dub-ba-a; e2-dub-ba "scribal school" Akk. bīt ţuppi
-edul [UNMNG] 𒂍𒂈 e2-dul4 "?" Akk. ?
-edula [ESTATE] 𒂍𒇯𒆷 e2-du6-la "foreclosed estate" Akk. edullû
-eduru [HEIR] 𒀁 eduru "heir" Akk. aplu
-eduru [VILLAGE] 𒂍𒀀;¿𒂉 e2-duru5; e-dur2 "village" Akk. kapru
-e'EŠ [PRISON] 𒂍𒂠 e2-EŠ2 "prison"
-eg [LEVEE] 𒂊;𒂽 eg2; iku2 "levee" Akk. īku
-egal [PALACE] 𒂍𒃲 e2-gal "palace; temple" Akk. ekallu
-egal [PRISON] 𒂍𒃲 e2-gal "prison"
-egar [FORM] 𒂍𒋞 e2-gar8 "form, shape" Akk. lānu
-egar [WALL] 𒂍𒋞;𒁀𒅈;𒁁𒄱 e2-gar8; ba-ar; ba9-ar2 "wall" Akk. igāru
-egara [STORE] 𒃌 egara "a building for storing dates" Akk. bīt kumurrê
-egia [BRIDE] 𒂍𒄄𒀀 e2-gi4-a "bride" Akk. kallatu
-egir [BAKERY] 𒂍𒌋𒀜 e2-gir4 "bakery"
-egir [PRINCESS] 𒂠;𒊩𒂠;𒆠𒊕 egir2; egir3; egi3 "princess" Akk. rubātu
-egizaga [STONE] 𒎎¿𒄀𒍠𒂵 na4e-gi-zag-ga "type of stone"
-egizid [PRIESTESS] 𒊩𒂠𒍥;𒊩𒂠𒍥;𒅆𒍥 egi-zid; egi2-zid; igi-zid "a priestess" Akk. igişītu
-egud [OX-BARN] 𒂍𒄞 e2-gud "ox-barn"
-egudgaz [ABATTOIR] 𒂍𒄞𒄤 e2-gud-gaz "abattoir, slaughter-house"
-egu'ensag [STONE] 𒎎¿𒄘𒂗𒊷 na4e-gu2-en-sag9 "a stone"
-egula [PRISON] 𒂍𒄖𒆷 e2-gu-la "prison"
-egun [STOREROOM] 𒂍𒄘 e2-gun2 "storeroom"
-eĝeškiĝti [WORKSHOP] 𒂍𒄑𒆥𒋾 e2-ĝeš-kiĝ2-ti "craft workshop" Akk. bīt kiškattî
-eĝešpu [WRESTLING HOUSE] 𒂍𒄑𒇥 e2-ĝešpu2 "wrestling house"
-eĝir [BACK] 𒂕;𒈝(𒈝);𒌈;𒈱(𒈱) eĝir; eĝir5(LUM); egir4; eĝir6(MURGU2) "back, rear; after; estate, inheritence" Akk. arkatu
-eh [INSECT] 𒄴 eh "insect(s), bug(s); moth; head-louse; to have lice" Akk. kalmatu; sāsu; uplu; uppulu
-ehehhe [CRIPPLE] 𒆪𒆪;𒆪𒆪𒆪 eh3; ehehhe "cripple, dwarf" Akk. pessû
-e'igara [DAIRY] 𒂍𒉌𒂶 e2-i3-gara2 "dairy"
-e'irda [PIGSTY] 𒂍𒅕𒁕 e2-ir-da "pigsty"
-ekas [ROAD-HOUSE] 𒂍𒁽;𒂍𒆜;𒂍𒁽𒈨;𒂍𒁽𒂠;𒂍𒁽𒋫 e2-kas4; e2-kas; e2-kas4-me; e2-kas4-še3; e2-kas4-ta "road-house"
-ekaskalak [WAYSTATION] 𒂍𒆜 e2-kaskal "waystation"
-ekema [MALLET] 𒄑¿𒆤𒈠;𒄑¿𒀝𒈠 ĝeše-kid-ma; ĝeše-kid3-ma "mallet" Akk. mekkû
-EKIDma [OBJECT] 𒄑¿𒆤𒈠 ĝešE.KID-ma "a wooden object used in a game"
-ekinkin [MILL] 𒂍𒄯;𒂍𒄯𒄯 e2-kinkin; e2-kinkin2 "mill"
-ekišibak [STOREROOM] 𒂍𒁾𒁀;𒂍𒈩𒁀 e2-kišib3-ba; e2-kišib-ba "storeroom for sealed commodities"
-EKU [FOOD] ¿𒆪 E.KU "type of food"
-ekur [INSTITUTION] 𒂍𒆭 e2-kur9 "an institution"
-ekur [PRISON] 𒂍𒆳 e2-kur "prison" Akk. şibittu
-ekurun [LIQUOR-ROOM] 𒂍𒁷 e2-kurun2 "liquor-room, wine cellar"
-ela [CANOPY] 𒂍𒇲 e2-la2 "canopy"
-elammakum [STONE] 𒎎¿𒇴𒈠𒄣 na4e-lam-ma-kum "a stone"
-elammakum [TREE] 𒄑¿𒇴𒈠𒄣 ĝeše-lam-ma-kum "a tree" Akk. ellammakku
-elel [SONG] ¿𒇷𒂖 e-le-el "a work song"
-eleli [STONE] 𒎎¿𒇷𒇷 na4e-le-li "a stone" Akk. alallum
-eli [BIRD] ¿𒇷𒄷 e-limušen "a bird" Akk. kuzbānu
-eli [SHEEP] 𒌓𒁺𒇷 e3-li "a description of ewes or lambs"
-elil [SONG] ¿𒆤 e-lil2 "a song" Akk. elilu
-elilla [SONG] ¿𒆤𒇲 e-lil2-la2 "a work song" Akk. mekû
-elilum [SONG] ¿𒇷𒈝 e-li-lum "a song" Akk. zamāru
-ellag [BALL] 𒄑𒆸 ĝešellag "ball" Akk. pukku
-ellaĝ [BEAD] 𒄵;𒎎𒄵;𒍝𒄵 ellaĝ2; na4ellaĝ2; zaellaĝ2 "bead" Akk. ?
-ellaĝ [GRASS?] 𒌑𒄵 u2ellaĝ2 "a type of grass?"
-ellaĝ [KIDNEY] 𒄵;𒄶(𒄶) ellaĝ2; ellaĝx(|HI×U|) "kidney" Akk. kalītu
-ellaĝ [UNMNG] 𒌑𒄵 u2ellaĝ2 "(meaning unknown)"
-ellaĝdu [TRAP] 𒄑𒄵𒁺 ĝešellaĝ2-du "a trap"
-ellamkuš [BLADDER] 𒇌;𒇖;𒇈;𒆹 ellamkuš; ellamkuš2; ellamkuš3; ellamkuš4 "animal bladder" Akk. ellabbuhhu
-ELLES316 [~WOOL] ¿ ELLES316 "a designation of wools"
-ellulillum [SONG] ¿𒂖𒇻𒆤𒈝 e-el-lu-lil2-lum "type of song" Akk. alālima
-ellum [SONG] ¿𒂖𒇻;¿𒂖𒈝 e-el-lu; e-el-lum "a work song" Akk. alālu
-elulam [SONG] ¿𒇻𒇴 e-lu-lam "a song"
-elungak [BREWERY] 𒂍𒋋;𒂍𒋋;𒂍𒁋(𒁋) e2-lunga3; e2-lunga; e2-lungax(|BIxGAR|) "brewery"
-ema [CABIN] 𒄑𒂍𒈣 ĝeše2-ma2 "boat cabin" Akk. hinnu
-emarru [QUIVER] 𒈥𒋽;𒂍𒈥𒋽;𒀀𒈠𒊒;𒀀𒈣𒊒 mar-ru10; e2-mar-ru10; a-ma-ru; a-ma2-ru "quiver" Akk. išpatu
-eme [DONKEY] 𒊩𒀲;𒀲𒊩;𒊩𒄸;𒊩𒀠;𒊩𒂗(𒊩𒂗) eme3; eme6; eme5; eme7; emex(|SAL.EN|) "female donkey" Akk. atānu
-eme [NURSE] 𒌝𒈨 eme2 "wet nurse" Akk. mušēniqtu
-eme [TONGUE] 𒅴 eme "tongue; language" Akk. lišānu
-eme [~PLOW] 𒄑𒅴 ĝešeme "a part of a plow; point (of a battering ram)" Akk. emû
-eme bala [TRANSLATE] 𒅴𒁄 eme bala "to translate" Akk. ?
-eme sig gu [LIE] 𒅴𒋝𒅥 eme sig gu7 "to speak falsely" Akk. karşī akālu
-eme'apinak [PLOWSHARE] 𒅴𒀳𒈾 eme-apin-na "plowshare"
-emebala [TRANSLATOR] 𒅴𒁄 eme-bala "translator"
-emeda [NURSEMAID] 𒌝𒈨;𒌝𒈨𒁕;𒌞;𒌼𒈨𒁕 emeda; emedada; emeda3; |URU×GA|.ME.DA "nursemaid" Akk. tārītu
-emedu [SLAVE] 𒂼 Mama : mother!!𒀀𒌆 ama-a-tu "house-born slave"
-emedub [UNIT] 𒃆;𒃧 emedub; emedub2 "a measurement of capacity; a vessel" Akk. sûtu; širmu
-emeEŠUŠ [LEAF] 𒄑𒅴𒂠𒍑;𒄑𒅴𒂠𒍑𒅴𒂠𒍑 ĝešeme-EŠ2.UŠ; ĝešeme-EŠ2.UŠ-eme-EŠ2.UŠ "scaly leaf"
-emegagu [NURSE] 𒌝𒈨𒂵𒅥 eme2-ga-gu7 "wet nurse" Akk. mušēniqtu
-emegala [NURSE] 𒌝𒈨𒂵𒇲;𒌼𒈨𒂵𒇲 eme2-ga-la2; |URU×GA|.ME-ga-la2 "wet nurse" Akk. mušēniqtu
-emeĝar [MAGIC] 𒅶(?(𒈨𒃻)) emeĝarx(|KAx(ME.GAR)|) "magic"
-emeĝarĝar [WITCHCRAFT] (𒅗·(𒈨𒃻𒃻𒊏)) emeĝarĝarx(|KA×(ME.GAR.GAR.RA)|) "witchcraft"
-emeĝir [SUMERIAN] 𒅴𒄀;𒅴𒂠 eme-gi; eme-ĝir15 "the Sumerian language" Akk. šumeritum; šumerû
-emengi [THIRST] 𒄀 emengi "burning thirst" Akk. šurpītu
-emerah [JUG] 𒌓𒊩𒄸(𒌓𒊩𒄸);𒊩𒄸 emerahx(|UD.SAL.HUB2|); emerah "jug, can" Akk. kûtu
-emesig [PLANK] 𒄑𒅴𒋝 ĝešeme-sig "plank"
-emesiggugu [DENOUNCER] 𒅴𒋝𒅥𒅥;𒇽𒈨𒋝;𒇽𒅴𒋝𒅥𒅥 eme-sig-gu7-gu7; lu2me-sig; lu2eme-sig-gu7-gu7 "denouncer" Akk. ākil karşi
-emeš [PRIEST] 𒊩𒇬(𒊩𒇬) emeš(|SAL+LAGAR|) "priest"
-emeš [SUMMER] 𒂍𒈨𒌍;𒉊 e2-me-eš; emeš2 "summer" Akk. ummu
-emeŠID [LIZARD] 𒅴𒋃 eme-ŠID "lizard" Akk. şurārû
-emešurug [FROND] 𒄑𒅴𒋗𒊒𒊌𒄑𒅴𒋗𒊒𒊌;𒄑𒅴𒋗𒊒𒊌;𒄑𒅴𒋗𒊒𒊌𒅴𒋗𒊒𒊌 ĝešeme-šu-ru-ug-ĝešeme-šu-ru-ug; ĝešeme-šu-ru-ug; ĝešeme-šu-ru-ug-eme-šu-ru-ug "dried palm-frond"
-eme'urgirak [PLANT] 𒌑𒅴𒌨𒂠𒊏 u2eme-ur-gir15-ra "a plant"
-emezagabarbar [DRIVELING] 𒅴𒍠𒂵𒁇𒁇 eme-zag-ga-bar-bar "driveling"
-emezi [PRIEST] 𒊩𒇬(𒊩𒇬) emezi(|SAL+LAGAR|) "priest"
-emi [HOUSEHOLD] 𒂍𒊩 e2-mi2 "queen's household"
-emittum [UNMNG] ¿𒈪𒀉𒌈 e-mi-it-tum "?" Akk. ?
-emuhaldim [KITCHEN] 𒂍𒈬 e2-muhaldim "kitchen"
-en [CVNE] 𒇷 en3 "(compound verb nominal element)"
-en [INCANTATION] 𒋙𒀭 en2 "incantation, spell" Akk. šiptu
-en [LORD] 𒂗;𒅇𒈬𒌦;𒌣 en; u3-mu-un; umun "lord; master; ruler" Akk. bēlu
-en [PRIEST] 𒂗 en "a priest" Akk. entu; enu
-en tar [ASK] 𒇷𒋻;𒀸𒋻 en3 tar; aš tar "to ask" Akk. šâlu
-enam [WHAT] 𒂗𒉆 en-nam "what" Akk. minû
-enamarad [PRISON] 𒂍𒉆𒀵 e2-nam-arad2 "prison"
-enamed [FISH] 𒂍𒉆𒌓𒁺𒄩 e2-nam-ed2ku6 "a fish"
-enameše [HOW LONG?] 𒂗𒈾𒈨𒂠 en-na-me-še3 "how long?" Akk. adi mati
-enaqa [UNMNG] 𒉌𒌓𒅎 enaqa "?" Akk. ennakku
-ENASA [STRONGHOLD?] 𒂍𒈾𒊓 E2.NA.SA "stronghold?"
-enbar [REED] 𒄀𒇷𒁇;𒇷𒁇 gien3-bar; en3-bar "a reed" Akk. ţubû
-enbiše [UP TILL NOW] 𒇷𒁉𒂠 en3-bi-še3 "up till now"
-endib [COOK] 𒂗𒈨𒈬 endib "cook" Akk. nuhatimmu
-endu [SONG] 𒇷𒁺;𒂗𒁺 en3-du; en-du "a song"
-enduana [SONG] 𒇷𒁺𒀭𒈾 en3-du-an-na "song"
-endudugdug [CHANTER?] 𒇷𒁺𒅗𒅗 en3-du-dug4-dug4 "chanter?"
-enduĝarĝar [COMPOSER] 𒇷𒁺𒃻𒃻 en3-du-ĝar-ĝar "composer"
-endur [NAVEL?] 𒄑𒇷𒄙;𒄀𒇷𒄙;𒌑𒇷𒄙 ĝešen3-dur; gien3-dur; u2en3-dur "navel, belly button?" Akk. abunnatu
-ene [CVNE] ¿𒉈 e-ne "(compound verb nominal element)"
-ene [PLEASURE?] 𒀀𒉈;¿𒉈 a-ne; e-ne "pleasure?"
-ene dug [PLAY] ¿𒉈𒅗 e-ne dug4 "to play"
-enedi [GAME] ¿𒉈𒁲 e-ne-di "game, play" Akk. mēlultu
-engar [FARMER] 𒀳;𒈬𒌦𒃼;𒈬𒌦𒂵𒅈 engar; mu-un-gar3; mu-un-ga-ar "farmer; an official" Akk. ikkaru
-engar [FISH] 𒀳𒄩 engarku6 "a fish"
-engartur [PROFESSION] 𒀳𒌉 engar-tur "a profession"
-engen [STONE] 𒎎𒂗𒄀𒂗 na4en-ge-en "type of stone"
-enginkal [BIRD] 𒂗𒁶𒆗𒄷;𒂗𒋼𒀀𒄷 en-gin7-kalmušen; en-karmušen "a bird"
-engiz [COOK] 𒂗𒈨𒄀 engiz "temple cook" Akk. engişu; engû; nuhatimmu
-engur [WATERS] 𒇉;𒅎𒄖𒊏 engur; im-gu-ra "(cosmic) underground waters" Akk. apsû; engurru
-eniĝak [STOREHOUSE] 𒂍𒃻 e2-niĝ2 "storehouse"
-eniĝGA [DEPOT] 𒂍𒃻𒂵 e2-niĝ2-GA "depot"
-eniĝguĝaĝa [PROPERTY] 𒂍𒃻𒄘𒂷𒂷 e2-niĝ2-gu2-ĝa2-ĝa2 "property"
-eniĝkisig [CHAPEL] 𒂍𒃻𒆠𒋧 e2-niĝ2-ki-sig10 "funerary chapel"
-enindakisig [CHAPEL] 𒂍𒃻𒆠𒋧 e2-ninda-ki-sig10 "funerary chapel"
-enkud [TAX-COLLECTOR] 𒂗𒆬;𒂗𒆭;𒍠𒄩;𒈬𒌦𒋻;𒍠𒄩 en-ku3; en-ku4; enkud; mu-un-kud; en7-ku6 "tax-collector" Akk. mākisu
-enkum [TREASURER] 𒂗𒉽𒅊𒉣𒈨𒂬 enkum "temple treasurer" Akk. enkummu
-enmur [RESIN] 𒂗𒄯 en-mur "a resin" Akk. ?
-enna [UNTIL] 𒂗𒈾;𒀭𒈠;𒂗;𒍠 en-na; an-ma; en; en7 "until, up to" Akk. adi
-ennak [UNMNG] 𒎎𒂗 enna "?" Akk. ennakku
-ennam [OFFICIAL] 𒂗𒉆 en-nam "an official" Akk. bēl pihāti
-ennamešeam [AS FAR AS] 𒂗𒈾𒈨𒂠𒀀𒀭 en-na-me-še3-am3 "as far as"
-ennigi [PRIEST] 𒂗 𒉭𒁶  "a priest" Akk. ennigû ennigi2 "a priest" Akk. ennigû
-ennuĝ [IMPRISONMENT] 𒂗𒉡𒂷;𒂗𒉣(𒉣);𒂗𒉡𒌦;𒂗𒉡𒂦;𒂗𒌦𒂷 en-nu-ĝa2; en-nuĝx(NUN); en-nu-uĝ3; en-nu-uĝ5; en-uĝ3-ĝa2 "watch, guard; watch (as a division of night time); imprisonment; prison" Akk. maşşartum
-ennuĝ ak [GUARD] 𒂗𒉡𒌦𒀝 en-nu-uĝ3 ak "to guard, to watch" Akk. naşāru
-ennuĝ du [GUARD] 𒂗𒉡𒌦𒆕 en-nu-uĝ3 du3 "to guard, to watch" Akk. naşāru
-ennun [PRIEST] 𒂗𒉣 en-nun "a type of priest"
-ensi [INTERPRETER] 𒉺𒋼𒋛;𒂚;𒈦𒂗𒇷 ensi; ensi3; |MAŠ+EN|.LI "dream interpreter" Akk. ensû; šā'ilu
-ensik [FARMER] 𒉺𒋼𒋛 ensi2 "a farmer" Akk. iššakku
-ensik [RULER] 𒉺𒋼𒋛;𒅇𒈬𒌦𒋛;𒉺𒋼𒋛𒃻(𒉺𒋼𒋛𒃻);𒉺𒋼𒋛𒃻(𒃻𒉺𒋼𒋛) ensi2; u3-mu-un-si; ensix(|PA.TE.SI.GAR|); ensix(|GAR.PA.TE.SI|) "a ruler, governor; a quality designation" Akk. iššakku
-ensikgal [GOVERNOR] 𒉺𒋼𒋛𒃲;𒉺𒋼𒋛𒃻(𒉺𒋼𒋛𒃻)𒃲 ensi2-gal; ensix(|PA.TE.SI.GAR|)-gal "chief governor"
-enše [UP TILL NOW] 𒇷𒂠 en3-še3 "up till now" Akk. adi matīma
-enše'am [UP TILL NOW] 𒇷𒂠𒀀𒀭 en3-še3-am3 "up till now" Akk. adi matīma
-enten [WINTER] 𒂗𒋼𒂗;𒂗𒋼𒈾;𒉉 en-te-en; en-te-na; enten "winter" Akk. kuşşû
-ENTI [BIRD] 𒂗𒋾𒄷 EN.TImušen "a bird"
-entukumše [AS LONG AS] 𒇷𒈜𒁆𒋗𒃻𒌉𒇲𒂠 en3-tukum-še3 "as long as" Akk. adi surri
-enTUM [UNMNG] 𒂗𒌈 en-TUM "?"
-enun [ROOM] 𒂍𒉣 e2-nun "innermost room" Akk. kummu
-enzid [ANIMAL] 𒂗𒍥 en-zid "lead animal" Akk. ašarēdu
-enzid [PRIEST] 𒂗𒍥 en-zid "a priest"
-epana [QUIVER] 𒄑𒂍𒉼 ĝeše2-pan "quiver"
-epapah [CELLA] 𒂍𒉺𒈜 e2pa-pah "cella, shrine" Akk. papāhu
-epig [VESSEL] 𒋝 epig "a drinking vessel" Akk. mašqû
-er [TEARS] 𒀀𒅆;𒐊𒊏 er2; i-ra "weeping, mourning; tears; to weep" Akk. bikītu; dimtu
-er gul [RESTRAIN CRYING] 𒀀𒅆𒄢 er2 gul "to restrain crying" Akk. ?
-er pad [WEEP] 𒀀𒅆𒅆𒊒 er2 pad3 "to weep" Akk. bakû
-er šeš [WEEP] 𒀀𒅆𒂞 er2 šeš4 "to weep" Akk. bakû
-era [LEADER] 𒃞 era3 "leader (of the assembly)" Akk. mu'erru
-era [UNMNG] 𒀴𒊏 er3-ra "?"
-eranum [TREE] ¿𒊏𒈝 e-ra-num2 "a tree"
-ere [GO] 𒊑;𒅕;¿𒊏;𒁺𒁺(𒁺𒁺);𒁺;𒁻;𒅕𒊑;𒐊𒊑 re; er; e-ra; erx(|DU.DU|); re6; re7; er-re; i-ri "perfect plural stem of ĝen[to go]" Akk. alāku
-ere [THROTTLE] 𒈁 er13 "to press, throttle" Akk. hanāqum
-erebum [REFUGEE] ¿𒊑𒁍𒌝 e-re-bu-um "refugee"
-eren [CEDAR] 𒄑𒂞;𒂞;𒋆𒂞;𒋆𒄑𒂞;𒄑𒄷𒌷𒅔;𒄑¿𒊑𒉈;𒄷𒌷𒅔𒄷 ĝešeren; eren; šimeren; šimĝešeren; ĝešhu-ri2-in; ĝeše-re-ne; hu-ri2-inmušen "cedar" Akk. erēnu
-eren [FISH] 𒂟𒄩 eren2ku6 "a fish"
-eren [UNMNG] 𒌯 eren8 "?" Akk. ?
-EREN.X [ANIMAL] 𒂟· |EREN2.X| "an animal"
-erengursi [BIRD] 𒊺𒆥(𒊺𒊺𒆥)𒋛𒄷;𒀭𒄈𒄷;·𒈾𒅗𒋛𒄷 eren?-gurx(|ŠE.ŠE.KIN|)-simušen; AN-gir2mušen; X-na-kir4-simušen "a bird"
-ereš [CULTIVATOR] 𒀳 earth worker ereš4 "cultivator" Akk. errēšum
-ereš [LADY] 𒎏 ereš "lady, queen; a quality designation" Akk. bēltu; šarratum
-ereš [WISE] 𒃲𒀭𒍪 ereš5 "wise" Akk. mūdû
-erešdiĝir [PRIESTESS] 𒎏𒀭 ereš-diĝir "a priestess" Akk. ēntu
-eria [WASTELAND] 𒂍𒊑𒀀;𒂍𒊑 e2-ri-a; e2-ri "wasteland" Akk. harbu
-erib [IN-LAW] ¿𒊑𒅁;¿𒆗;𒀿 e-ri-ib; e-rib; erib "father-in-law; sister-in-law" Akk. emum; mārti emi
-erib [LEATHERWORKER] 𒀿 erib "leatherworker" Akk. aškāpu
-eribura [DROPPINGS] 𒉫 eribura "bird droppings"
-erida [SWEEPER] 𒉺𒊷 erida2 "courtyard sweeper" Akk. kisalluhhu
-eridu [GUIDANCE] 𒉣 eridu "guidance" Akk. irītu
-erim [STOREROOM] 𒌿;𒍍;𒃫;𒀕 erim3; erim6; erim4; erim5 "storeroom, treasury" Akk. išittu
-erimhuš [BATTLE] 𒂟𒄭𒄊 erim-huš "battle" Akk. anantu
-erin [PEOPLE] 𒂟;𒌷𒈾;𒌯 erin2; eri-na; erin9 "people; troops" Akk. şābu
-erin [YOKE] 𒂟;𒄑𒂟 erin2; ĝešerin2 "to yoke; yoke; plow team" Akk. şamādu; şimittu
-ERINPIRIG [ANIMAL] 𒂟𒊊 ERIN2.PIRIG "type of animal"
-erinsaĝ [YOKE] 𒂟𒊕 erin2-saĝ "front part of a yoke"
-erišti [WISE] 𒃲𒍪(𒃲𒍪) erištix(|GAL.ZU|) "wise" Akk. eršu
-ersua [LAMENT] 𒀀𒅆𒋤𒀀 er2-su3-a "a lament"
-eršaneša [SONG] 𒀀𒅆𒊮𒉈𒁺 er2-ša3-ne-ša4 "a type of song"
-eršemak [SONG] 𒀀𒅆𒀚;𒀀𒅆𒀚𒈠 er2-šem3; er2-šem3-ma "a type of song" Akk. eršemmakku
-erubatum [FESTIVAL] ¿𒊒𒁀𒌈;𒌓𒁺𒊒𒁀𒌈 e-ru-ba-tum; e3-ru-ba-tum "a festival"
-esad [TRAP] 𒄑𒌍𒀜 ĝešes2-ad "trap" Akk. nahbalu
-esaĝ [HEIR] 𒀀𒊕;𒃥;𒆬𒀭 a-sag; esaĝ; asag "heir" Akk. aplu
-esaĝ [STORE] 𒂍𒊕;𒃥 e2-saĝ; esaĝ2 "grain-store" Akk. qarītu
-esaĝtur [GRANARY] 𒃦 esaĝtur "a granary" Akk. esru
-esi [DIORITE] 𒎎𒆗 na4esi "diorite, dolerite" Akk. ušû
-esi [TREE] 𒄑𒆗 ĝešesi "a tree" Akk. ušû
-esig [BIRD] ¿𒋝𒄷;¿𒄀𒄷;𒋝𒄷;𒌑𒋝𒄷;𒅊𒄷 e-sigmušen; e-sig17mušen; sigmušen; u2-sigmušen; sig7mušen "a bird"
-esimma.DAR [FISH] 𒂍𒉆𒈠𒁯𒄩 e2-sim-ma-DARku6 "a fish"
-esir [BITUMEN] 𒇒 ≈;𒀀𒇒;𒇒 ≈(𒇉) esir2; esir; esir2(|LAGABxHAL|) "bitumen, pitch" Akk. iţţû; kupru
-esir [FISH] ¿(¿)𒄩;𒆓𒆓𒄩;¿ esirx(LAK173)ku6; esir3ku6; LAK173 "a fish" Akk. šēnu
-esir [SHOE] 𒋢¿𒁍;¿𒁍;𒋢𒆓𒆓;𒋢?;𒋢?;¿ kuše-sir2; e-sir2; kušesir3; kušesir4; kušesir5; LAK173 "sandal(s), shoe(s)" Akk. šēnu
-esir [STREET] ¿𒁍;¿𒋓 e-sir2; e-sir "street" Akk. sūqu
-esirhia [BITUMEN] 𒇓 esirhia "bitumen, pitch" Akk. kupru
-essadu [FIN] 𒀊𒄩𒍠𒃮𒄷;𒍠𒄩 essadu; essad "fin or flipper" Akk. ishu
-esuhur [~TEMPLE] 𒂍𒋦 e2-suhur "a part of a temple" Akk. šahurru
-esulumak [BOX] 𒄑𒂍𒋢𒈝;𒄑𒂍𒋢𒈝𒈠 ĝeše2-su-lum; ĝeše2-su-lum-ma "a box" Akk. laharuhšu
-esumur [ROOM] 𒂍𒊨 e2-sumur "lying-in-state room?"
-eš [COLD] 𒉉 eš13 "(to be) cold" Akk. kuşşû
-eš [FLOUR] 𒂠 eš2 "a flour" Akk. qēmu; upumtu
-eš [ROPE] 𒂠 eš2 "rope, thong, string" Akk. eblu
-eš [SHRINE] 𒀊 eš3 "shrine; an establishment" Akk. bītu; eššu
-eš [TENT] 𒋢𒀊 kušeš3 "tent, pavilion"
-eš [THREE] 𒐈;𒌍𒀀𒁉;𒀀;𒀀𒀭𒈬𒍑 eš5; eš-a-bi; eš10; am3-mu-uš "three; triplets" Akk. takšû; šalāš
-eš [TREE] 𒄑𒇴(𒇴);𒄑𒇴 ĝešešx(LAM); ĝešeš22 "a tree; a terebinth; almond (tree)" Akk. lammu; lupānu; šiqdu; šiqittu
-eš [WATER] 𒀀 eš10 "water" Akk. mû
-eš rah [MEASURE] 𒂠𒊏 eš2 rah2 "to measure" Akk. ?
-eša [FLOUR] 𒀀𒌁 eša "a fine flour" Akk. saskû
-ešabdu [PROFESSION] 𒀊𒀀𒀊𒁺;𒀊𒁲𒀊𒁺 eš3-a-ab-du; eš3-sa2-ab-du "a profession"
-ešag [CHAMBER] 𒂍𒊮 e2-šag4 "inner chamber; bedroom" Akk. uršu
-ešbar [DECISION] 𒌍𒁇;𒐈𒁇 eš-bar; eš5-bar "decision" Akk. purussûm
-ešbar kiĝ [DECIDE] 𒌍𒁇𒆥 eš-bar kiĝ2 "to make a decision"
-ešda [ONE] 𒀊𒁕 eš3-da "one" Akk. ištēn
-ešda [VESSEL] 𒂠𒁕;𒂁𒌍𒁕 eš2-da; dugeš-da "a metal cultic vessel"
-ešdam [DISCUSSION] 𒂠𒁮 eš2-dam "discussion" Akk. šitūltu
-ešdam [TAVERN] 𒂠𒁮;𒂍𒂠𒁮;𒂍¿ eš2-dam; e2-eš2-dam; e2ešdam "tavern" Akk. aštammu
-ešdea [LOAN] 𒌍𒌤𒀀 eš-de2-a "a loan" Akk. hubutt(at)u
-eše [AREA UNIT] 𒅂;𒂠 eše3; eše2 "a unit of area; a unit of volume" Akk. eblu
-eše [LENGTH UNIT] 𒂠;𒅂 eše2; eše3 "a unit of length" Akk. aslu
-ešedak [LAVATORY] 𒂍𒆪 e2-šed6 "lavatory" Akk. bīt šitti
-ešela [BOUND] 𒈀𒇲 ešela "(to be) bound" Akk. hanāqu; kalû; kamû
-ešemen [ROPE] 𒆠𒂊𒉈𒁲;𒆠𒂊𒉈𒁲𒀭𒈹;¿𒊿;𒂠𒄾 eš…;𒁉 ešemen; ešemen2; e-šen; ešemen3; ešemen5 "game, play; skipping rope" Akk. keppû; mēlultu
-ešeš [FESTIVAL] 𒀊𒀊 eš3-eš3 "festival"
-ešgal [UNDERWORLD] 𒀍 ešgal "earth, land; underworld" Akk. erşetu
-ešgana [LINE] 𒂠𒃷 eš2-gana2 "measuring line"
-ešgar [ASSIGNMENT] 𒂠𒃼;𒌍𒃼;𒐈𒃼 eš2-gar3; eš-gar3; eš5-gar3 "work assignment" Akk. iškaru
-ešgiNI [LOCUS] 𒀊𒈪𒉌 eš3-gi6-NI "a cultic place"
-ešgiri [STAFF] 𒄑𒂙;𒄑𒄑𒂙 ešgiri2; ĝešešgiri2 "staff"
-ešgur [RING] 𒌍𒄥;𒌍𒄥𒌓𒊕𒁇 eš-gur; eš-gurzabar "ring"
-eškiĝ [UNMNG] 𒌍𒆥 eš-kiĝ2 "?"
-eškiri [ROPE] 𒂠𒅗;𒌋𒂙;𒄑𒄑𒂙 eš2-kiri3; eškiri; ĝešeškiri2 "nose rope, tether" Akk. şerretu
-eškurum [WAX] 𒌍𒆪𒊒𒌝 eš-ku-ru-um "wax" Akk. iškuru
-ešla [BAND] 𒂠𒇲 eš2-la2 "bond; band, belt" Akk. markasu; nēbehu
-ešla [BUCKET] 𒄑𒂠𒇲 ĝešeš2-la2 "a bucket" Akk. makdû
-ešla [TOOL] 𒄑𒂠𒇲 ĝešeš2-la2 "a stick?; a tool" Akk. mekkû
-ešla [TRAP] 𒄑𒂠𒇲 ĝešeš2-la2 "a trap" Akk. kamaru
-ešlug [OFFSPRING] 𒈊 ešlug "offspring" Akk. atmu
-ešsadu [TRAP] 𒌍𒊓𒁺 eš-sa-du "trap" Akk. nahbalum
-eššeb [LANDSCAPE] 𒆠𒅁 eššeb "a deeply incised landscape" Akk. huddudu
-eššuak [ROPE] 𒂠𒋗𒀝 eš2-šu-ak "a type of rope"
-eštaba [GARMENT] 𒐈𒋰𒁀 eš5-tab-ba "a garment"
-eštalu [SINGER] 𒀊𒋫𒇽;𒀸𒋫𒇽 eš3-ta-lu2; aš-ta-lu2 "a type of singer" Akk. aštalû
-EŠtenuGIRgunu [SURCHARGE] 𒂠?𒄈 |EŠ2@t.GIR2@g| "a dairy surcharge"
-eštub [CARP] 𒄞𒄩;𒄩𒄞 eštubku6; ku6eštub "carp" Akk. arsuppu
-eštum [CHAFF?] 𒀊𒌈 eš3-tum "chaff?" Akk. iltu?
-ešusiga [~ARCHITECTURE] 𒂍𒋗𒅆𒂵 e2-šu-si3-ga "a temple room or building"
-etutum [DARKNESS] 𒂿(𒂿) etutumx(|GA2×BAD|) "darkness" Akk. eţûtu
-e'uburak [ANIMAL PEN] 𒂍𒁛𒊏;𒂍𒁍𒊏 e2-ubur-ra; e2-bu-ra "animal pen"
-e'ud [WEEK] 𒂍𒌓 e2-ud "week, ides?"
-e'udsakar [NEW MOON HOUSE] 𒂍𒌓𒊬 e2-ud-sakar "new moon house"
-e'udu [SHEEPHOUSE] 𒂍𒇻 e2-udu "sheephouse"
-e'urra [PRISON] 𒂍𒄯𒊏 e2-ur5-ra "prison"
-e'urre [GRAVE] 𒂍𒆠𒋧𒂵 eurre "grave" Akk. qubūru
-e'urruKU [SONG] ¿𒀳𒊒𒆪 e-ur11-ru-KU "a song" Akk. zamāru
-EUŠGIDDA [STOREHOUSE] 𒂍𒍑𒁍𒁕 E2-UŠ-GID2-DA "storehouse"
-e'uzga [BUILDING] 𒂍𒊻𒂵 e2-uz-ga "a building"
-ezem [FESTIVAL] 𒂡;𒐊𒍣𒉘 ezem; i-ze-eĝ3 "festival" Akk. isinnu
-EZEN.HAR [MILLER] 𒂡𒄯 EZEN-HAR "miller" Akk. sāmidu
-ezi [BIRD] 𒐊𒍥𒄷;¿𒍥𒄷 i-zimušen; e-zimušen "a bird"
-ezi [PRIEST] 𒊩𒇬(𒊩𒇬) ezix(|SAL.LAGAR|) "en-priest of Ea" Akk. ēnu ša Ea
-ezim [STONE] 𒎎𒊺𒊺𒉪 na4dezim2 "type of stone"
-ezina [GRAIN]  šeezina2 "grain, cereals" Akk. ašnan
-ezizu [VEGETABLE] ¿𒍥𒍪𒊬 e-zi-zusar "a vegetable" Akk. ezizzu
-ezurah [ROOM] 𒂍𒅗𒊏𒄴 e2-zu2-ra-ah "lying-in-state room?"
+>>>  e  
+ e  [ BARLEY? ]  𒂊  e  "barley?" 
+>>>  e3  
+ e  [ CHAFF ]  𒌓𒁺  e3  "chaff" Akk.  hāmū 
+>>>  e2 ;  ĝa2 ;  e4  
+ e  [ HOUSE ]  𒂍;𒂷;𒀀  e2 ;  ĝa2 ;  e4  "house; temple; (temple) household; station (of the moon)?; room; house-lot; estate" Akk.  bītu 
+>>>  e  
+ e  [ INTERJECTION ]  𒂊  e  "a vocative interjection" 
+>>>  e ;  e6  
+ e  [ LEATHER ]  𒂊;¿  e ;  e6  "strip or piece of leather; leather bearing" Akk.  ya'u 
+>>>  e3 ;  i ;  e  
+ e  [ LEAVE ]  𒌓𒁺;𒐊;𒂊  e3 ;  i ;  e  "to leave, to go out; to thread, hang on a string; to remove, take away; to bring out; to enter; to bring in; to raise, rear (a child); to sow; to rave; to winnow; to measure (grain) roughly (with a stick); to rent" Akk.  aşû ;  erēbu ;  mahû ;  rubbû ;  zarû ;  šakāku 
+>>>  e ;  e5  
+ e  [ PRINCELY? ]  𒂊;𒎏  e ;  e5  "princely?" 
+>>>  e ;  na-be2 -a ;  be2 ;  ne ;  da-me ;  na-be2 ;  e7  
+ e  [ SPEAK ]  𒂊;𒈾𒁉𒀀;𒁉;𒉈;𒁕𒈨;𒈾𒁉;𒅗  e ;  na-be2 -a ;  be2 ;  ne ;  da-me ;  na-be2 ;  e7  "perfect plural and imperfect stem of dug[to speak]" Akk.  atwû ;  dabābu ;  qabû 
+>>>  e7  
+ e  [ TRUST ]  𒅗  e7  "trust" Akk.  tukultu 
+>>>  ĝeš e11  
+ e  [ TUBE ]  𒄑𒇯𒁺  ĝeš e11  "tube, socket" Akk.  uppu 
+>>>  e3  
+ e  [ WATCH ]  𒌓𒁺  e3  "watch" 
+>>>  e3 -a ;  e2 -a  
+ ea  [ ~BITUMEN ]  𒌓𒁺𒀀;𒂍𒀀  e3 -a ;  e2 -a  "a qualification of bitumen" 
+>>>  e2 -ad-da  
+ e'addak  [ PATRIMONY ]  𒂍𒀜𒁕  e2 -ad-da  "patrimony" Akk.  bīt abīšu 
+>>>  e2 -en-kar2  
+ e'ankar  [ ARMORY ]  𒂍𒂗𒃸  e2 -en-kar2  "armory, weapon-room" 
+>>>  e2 -a-ra ;  e2 -ara3 ;  e2 -ara5  
+ e'ara  [ MILL ]  𒂍𒀀𒊏;𒂍𒄯;𒂍𒄯𒄯  e2 -a-ra ;  e2 -ara3 ;  e2 -ara5  "mill" Akk.  ? 
+>>>  eb  
+ eb  [ OVAL ]  𒅁  eb  "oval" 
+>>>  e2 -ba-an ;  e2 -ba ;  e-ba-an ;  e-pa-na ;  e2 -pa-na  
+ eban  [ PAIR ]  𒂍𒁀𒀭;𒂍𒁀;𒂊𒁀𒀭;𒂊𒉺𒈾;𒂍𒉺𒈾  e2 -ba-an ;  e2 -ba ;  e-ba-an ;  e-pa-na ;  e2 -pa-na  "pair" Akk.  tāpalu 
+>>>  e2 -bar-ra  
+ ebara  [ OUTHOUSE ]  𒂍𒁇𒊏  e2 -bar-ra  "outhouse" 
+>>>  eb-gal  
+ ebgal  [ OVAL ]  𒅁𒃲  eb-gal  "temple oval" Akk.  ? 
+>>>  ebih2  
+ ebih  [ ROPE ]  𒂠𒈤  ebih2  "heavy rope" Akk.  ebīhu 
+>>>  ĝeš epir2 ;  ebir ;  ĝeš ebir3 ;  ĝeš ebir4  
+ ebir  [ VESSEL-STAND ]  𒄑𒁉;𒂁;𒄑𒀀;𒄑𒂵  ĝeš epir2 ;  ebir ;  ĝeš ebir3 ;  ĝeš ebir4  "(vessel-)stand; a large vessel" Akk.  kannu 
+>>>  kaš ebla  
+ eblak  [ BEER ]  𒁽𒀀𒋻𒀀𒀭  kaš ebla  "a beer" Akk.  iblakku 
+>>>  eb-muhaldim  
+ ebmuhaldim  [ ~KITCHEN ]  𒅁𒈬  eb-muhaldim  "food preparation area (lit. "oval of the cooks")" 
+>>>  e2 -bur-gul  
+ eburgul  [ WORKSHOP ]  𒂍𒁓𒄢  e2 -bur-gul  "stone-cutter's workshop" 
+>>>  ed3 ;  |UD×U+U+U.DU|  
+ ed  [ ASCEND ]  𒇯𒁺;𒌓·𒌋𒌋𒌋𒁺  ed3 ;  |UD×U+U+U.DU|  "to go up or down; to demolish; to scratch; to rage, be rabid" Akk.  arādu ;  elû ;  naqāru ;  šegû 
+>>>  e11  
+ ed  [ PIERCE ]  𒇯𒁺  e11  "pierce" 
+>>>  e11  
+ ed  [ STRENGTHEN ]  𒇯𒁺  e11  "strengthen" 
+>>>  ĝeš e2 -da  
+ eda  [ BOARD ]  𒄑𒂍𒁕  ĝeš e2 -da  "board" 
+>>>  e2 -da  
+ eda  [ CONTAINER ]  𒂍𒁕  e2 -da  "a container" 
+>>>  zid2 e2 -da-di  
+ edadi  [ FLOUR ]  𒍥𒂍𒁕𒁲  zid2 e2 -da-di  "a type of flour" Akk.  edadû 
+>>>  nam-e2 -da-di  
+ edadi  [ ~POSITION ]  𒉆𒂍𒁕𒁲  nam-e2 -da-di  "a prebendary position" 
+>>>  edakua ;  edakua2  
+ edakua  [ SOUP ]  𒃑;𒆺  edakua ;  edakua2  "fish bone; fish soup" Akk.  sihil nunu 
+>>>  e2 -dam  
+ edam  [ TAVERN? ]  𒂍𒁮  e2 -dam  "tavern?" 
+>>>  eden  
+ eden  [ BACK ]  𒂔  eden  "back, upper side" Akk.  şēru 
+>>>  eden mušen ;  da mušen  
+ eden  [ BIRD ]  𒂔𒄷;𒁕𒄷  eden mušen ;  da mušen  "a bird" 
+>>>  eden  
+ eden  [ PLAIN ]  𒂔  eden  "plain, steppe, open country" Akk.  edinu 
+>>>  eden-x mušen  
+ eden.X  [ BIRD ]  𒂔·𒄷  eden-x mušen  "a bird" 
+>>>  eden-lil2  
+ edenlil  [ DESERT ]  𒂔𒆤  eden-lil2  "haunted desert" 
+>>>  e2 -DI  
+ eDI  [ NEST? ]  𒂍𒁲  e2 -DI  "nest?" 
+>>>  e2 -dub ;  e2 -dub-ba  
+ eduba  [ STOREHOUSE ]  𒂍𒁾;𒂍𒁾𒁀  e2 -dub ;  e2 -dub-ba  "storehouse, magazine" 
+>>>  e2 -dub-ba-a ;  e2 -dub-ba  
+ edubba'a  [ SCRIBAL SCHOOL ]  𒂍𒁾𒁀𒀀;𒂍𒁾𒁀  e2 -dub-ba-a ;  e2 -dub-ba  "scribal school" Akk.  bīt ţuppi 
+>>>  e2 -dul4  
+ edul  [ UNMNG ]  𒂍𒂈  e2 -dul4  "?" Akk.  ? 
+>>>  e2 -du6 -la  
+ edula  [ ESTATE ]  𒂍𒇯𒆷  e2 -du6 -la  "foreclosed estate" Akk.  edullû 
+>>>  eduru  
+ eduru  [ HEIR ]  𒀁  eduru  "heir" Akk.  aplu 
+>>>  e2 -duru5 ;  e-dur2  
+ eduru  [ VILLAGE ]  𒂍𒀀;𒂊𒂉  e2 -duru5 ;  e-dur2  "village" Akk.  kapru 
+>>>  e2 -EŠ2  
+ e'EŠ  [ PRISON ]  𒂍𒂠  e2 -EŠ2  "prison" 
+>>>  eg2 ;  iku2  
+ eg  [ LEVEE ]  𒂊;𒂽  eg2 ;  iku2  "levee" Akk.  īku 
+>>>  e2 -gal  
+ egal  [ PALACE ]  𒂍𒃲  e2 -gal  "palace; temple" Akk.  ekallu 
+>>>  e2 -gal  
+ egal  [ PRISON ]  𒂍𒃲  e2 -gal  "prison" 
+>>>  e2 -gar8  
+ egar  [ FORM ]  𒂍𒋞  e2 -gar8  "form, shape" Akk.  lānu 
+>>>  e2 -gar8 ;  ba-ar ;  ba9 -ar2  
+ egar  [ WALL ]  𒂍𒋞;𒁀𒅈;𒁁𒄱  e2 -gar8 ;  ba-ar ;  ba9 -ar2  "wall" Akk.  igāru 
+>>>  egara  
+ egara  [ STORE ]  𒃌  egara  "a building for storing dates" Akk.  bīt kumurrê 
+>>>  e2 -gi4 -a  
+ egia  [ BRIDE ]  𒂍𒄄𒀀  e2 -gi4 -a  "bride" Akk.  kallatu 
+>>>  e2 -gir4  
+ egir  [ BAKERY ]  𒂍𒌋𒀜  e2 -gir4  "bakery" 
+>>>  egir2 ;  egir3 ;  egi3  
+ egir  [ PRINCESS ]  𒂠;𒊩𒂠;𒆠𒊕  egir2 ;  egir3 ;  egi3  "princess" Akk.  rubātu 
+>>>  na4 e-gi-zag-ga  
+ egizaga  [ STONE ]  𒎎𒂊𒄀𒍠𒂵  na4 e-gi-zag-ga  "type of stone" 
+>>>  egi-zid ;  egi2 -zid ;  igi-zid  
+ egizid  [ PRIESTESS ]  𒊩𒂠𒍥;𒊩𒂠𒍥;𒅆𒍥  egi-zid ;  egi2 -zid ;  igi-zid  "a priestess" Akk.  igişītu 
+>>>  e2 -gud  
+ egud  [ OX-BARN ]  𒂍𒄞  e2 -gud  "ox-barn" 
+>>>  e2 -gud-gaz  
+ egudgaz  [ ABATTOIR ]  𒂍𒄞𒄤  e2 -gud-gaz  "abattoir, slaughter-house" 
+>>>  na4 e-gu2 -en-sag9  
+ egu'ensag  [ STONE ]  𒎎𒂊𒄘𒂗𒊷  na4 e-gu2 -en-sag9  "a stone" 
+>>>  e2 -gu-la  
+ egula  [ PRISON ]  𒂍𒄖𒆷  e2 -gu-la  "prison" 
+>>>  e2 -gun2  
+ egun  [ STOREROOM ]  𒂍𒄘  e2 -gun2  "storeroom" 
+>>>  e2 -ĝeš-kiĝ2 -ti  
+ eĝeškiĝti  [ WORKSHOP ]  𒂍𒄑𒆥𒋾  e2 -ĝeš-kiĝ2 -ti  "craft workshop" Akk.  bīt kiškattî 
+>>>  e2 -ĝešpu2  
+ eĝešpu  [ WRESTLING HOUSE ]  𒂍𒄑𒇥  e2 -ĝešpu2  "wrestling house" 
+>>>  eĝir ;  eĝir5 (LUM) ;  egir4 ;  eĝir6 (MURGU2 )  
+ eĝir  [ BACK ]  𒂕;𒈝(𒈝);𒌈;𒈱(𒈱)  eĝir ;  eĝir5 (LUM) ;  egir4 ;  eĝir6 (MURGU2 )  "back, rear; after; estate, inheritence" Akk.  arkatu 
+>>>  eh  
+ eh  [ INSECT ]  𒄴  eh  "insect(s), bug(s); moth; head-louse; to have lice" Akk.  kalmatu ;  sāsu ;  uplu ;  uppulu 
+>>>  eh3 ;  ehehhe  
+ ehehhe  [ CRIPPLE ]  𒆪𒆪;𒆪𒆪𒆪  eh3 ;  ehehhe  "cripple, dwarf" Akk.  pessû 
+>>>  e2 -i3 -gara2  
+ e'igara  [ DAIRY ]  𒂍𒉌𒂶  e2 -i3 -gara2  "dairy" 
+>>>  e2 -ir-da  
+ e'irda  [ PIGSTY ]  𒂍𒅕𒁕  e2 -ir-da  "pigsty" 
+>>>  e2 -kas4 ;  e2 -kas ;  e2 -kas4 -me ;  e2 -kas4 -še3 ;  e2 -kas4 -ta  
+ ekas  [ ROAD-HOUSE ]  𒂍𒁽;𒂍𒆜;𒂍𒁽𒈨;𒂍𒁽𒂠;𒂍𒁽𒋫  e2 -kas4 ;  e2 -kas ;  e2 -kas4 -me ;  e2 -kas4 -še3 ;  e2 -kas4 -ta  "road-house" 
+>>>  e2 -kaskal  
+ ekaskalak  [ WAYSTATION ]  𒂍𒆜  e2 -kaskal  "waystation" 
+>>>  ĝeš e-kid-ma ;  ĝeš e-kid3 -ma  
+ ekema  [ MALLET ]  𒄑𒂊𒆤𒈠;𒄑𒂊𒀝𒈠  ĝeš e-kid-ma ;  ĝeš e-kid3 -ma  "mallet" Akk.  mekkû 
+>>>  ĝeš E.KID-ma  
+ EKIDma  [ OBJECT ]  𒄑𒂊𒆤𒈠  ĝeš E.KID-ma  "a wooden object used in a game" 
+>>>  e2 -kinkin ;  e2 -kinkin2  
+ ekinkin  [ MILL ]  𒂍𒄯;𒂍𒄯𒄯  e2 -kinkin ;  e2 -kinkin2  "mill" 
+>>>  e2 -kišib3 -ba ;  e2 -kišib-ba  
+ ekišibak  [ STOREROOM ]  𒂍𒁾𒁀;𒂍𒈩𒁀  e2 -kišib3 -ba ;  e2 -kišib-ba  "storeroom for sealed commodities" 
+>>>  E.KU  
+ EKU  [ FOOD ]  𒂊𒆪  E.KU  "type of food" 
+>>>  e2 -kur9  
+ ekur  [ INSTITUTION ]  𒂍𒆭  e2 -kur9  "an institution" 
+>>>  e2 -kur  
+ ekur  [ PRISON ]  𒂍𒆳  e2 -kur  "prison" Akk.  şibittu 
+>>>  e2 -kurun2  
+ ekurun  [ LIQUOR-ROOM ]  𒂍𒁷  e2 -kurun2  "liquor-room, wine cellar" 
+>>>  e2 -la2  
+ ela  [ CANOPY ]  𒂍𒇲  e2 -la2  "canopy" 
+>>>  na4 e-lam-ma-kum  
+ elammakum  [ STONE ]  𒎎𒂊𒇴𒈠𒄣  na4 e-lam-ma-kum  "a stone" 
+>>>  ĝeš e-lam-ma-kum  
+ elammakum  [ TREE ]  𒄑𒂊𒇴𒈠𒄣  ĝeš e-lam-ma-kum  "a tree" Akk.  ellammakku 
+>>>  e-le-el  
+ elel  [ SONG ]  𒂊𒇷𒂖  e-le-el  "a work song" 
+>>>  na4 e-le-li  
+ eleli  [ STONE ]  𒎎𒂊𒇷𒇷  na4 e-le-li  "a stone" Akk.  alallum 
+>>>  e-li mušen  
+ eli  [ BIRD ]  𒂊𒇷𒄷  e-li mušen  "a bird" Akk.  kuzbānu 
+>>>  e3 -li  
+ eli  [ SHEEP ]  𒌓𒁺𒇷  e3 -li  "a description of ewes or lambs" 
+>>>  e-lil2  
+ elil  [ SONG ]  𒂊𒆤  e-lil2  "a song" Akk.  elilu 
+>>>  e-lil2 -la2  
+ elilla  [ SONG ]  𒂊𒆤𒇲  e-lil2 -la2  "a work song" Akk.  mekû 
+>>>  e-li-lum  
+ elilum  [ SONG ]  𒂊𒇷𒈝  e-li-lum  "a song" Akk.  zamāru 
+>>>  ĝeš ellag  
+ ellag  [ BALL ]  𒄑𒆸  ĝeš ellag  "ball" Akk.  pukku 
+>>>  ellaĝ2 ;  na4 ellaĝ2 ;  za ellaĝ2  
+ ellaĝ  [ BEAD ]  𒄵;𒎎𒄵;𒍝𒄵  ellaĝ2 ;  na4 ellaĝ2 ;  za ellaĝ2  "bead" Akk.  ? 
+>>>  u2 ellaĝ2  
+ ellaĝ  [ GRASS? ]  𒌑𒄵  u2 ellaĝ2  "a type of grass?" 
+>>>  ellaĝ2 ;  ellaĝ x (|HI×U|)  
+ ellaĝ  [ KIDNEY ]  𒄵;𒄶(𒄶)  ellaĝ2 ;  ellaĝ x (|HI×U|)  "kidney" Akk.  kalītu 
+>>>  u2 ellaĝ2  
+ ellaĝ  [ UNMNG ]  𒌑𒄵  u2 ellaĝ2  "(meaning unknown)" 
+>>>  ĝeš ellaĝ2 -du  
+ ellaĝdu  [ TRAP ]  𒄑𒄵𒁺  ĝeš ellaĝ2 -du  "a trap" 
+>>>  ellamkuš ;  ellamkuš2 ;  ellamkuš3 ;  ellamkuš4  
+ ellamkuš  [ BLADDER ]  𒇌;𒇖;𒇈;𒆹  ellamkuš ;  ellamkuš2 ;  ellamkuš3 ;  ellamkuš4  "animal bladder" Akk.  ellabbuhhu 
+>>>  ELLES316  
+ ELLES316  [ ~WOOL ]  ¿  ELLES316  "a designation of wools" 
+>>>  e-el-lu-lil2 -lum  
+ ellulillum  [ SONG ]  𒂊𒂖𒇻𒆤𒈝  e-el-lu-lil2 -lum  "type of song" Akk.  alālima 
+>>>  e-el-lu ;  e-el-lum  
+ ellum  [ SONG ]  𒂊𒂖𒇻;𒂊𒂖𒈝  e-el-lu ;  e-el-lum  "a work song" Akk.  alālu 
+>>>  e-lu-lam  
+ elulam  [ SONG ]  𒂊𒇻𒇴  e-lu-lam  "a song" 
+>>>  e2 -lunga3 ;  e2 -lunga ;  e2 -lunga x (|BIxGAR|)  
+ elungak  [ BREWERY ]  𒂍𒋋;𒂍𒋋;𒂍|BI×GAR|(𒁋)  e2 -lunga3 ;  e2 -lunga ;  e2 -lunga x (|BIxGAR|)  "brewery" 
+>>>  ĝeš e2 -ma2  
+ ema  [ CABIN ]  𒄑𒂍𒈣  ĝeš e2 -ma2  "boat cabin" Akk.  hinnu 
+>>>  mar-ru10 ;  e2 -mar-ru10 ;  a-ma-ru ;  a-ma2 -ru  
+ emarru  [ QUIVER ]  𒈥𒋽;𒂍𒈥𒋽;𒀀𒈠𒊒;𒀀𒈣𒊒  mar-ru10 ;  e2 -mar-ru10 ;  a-ma-ru ;  a-ma2 -ru  "quiver" Akk.  išpatu 
+>>>  eme3 ;  eme6 ;  eme5 ;  eme7 ;  eme x (|SAL.EN|)  
+ eme  [ DONKEY ]  𒊩𒀲;𒀲𒊩;𒊩𒄸;𒊩𒀠;|SAL.EN|(𒊩𒂗)  eme3 ;  eme6 ;  eme5 ;  eme7 ;  eme x (|SAL.EN|)  "female donkey" Akk.  atānu 
+>>>  eme2  
+ eme  [ NURSE ]  𒌝𒈨  eme2  "wet nurse" Akk.  mušēniqtu 
+>>>  eme  
+ eme  [ TONGUE ]  𒅴  eme  "tongue; language" Akk.  lišānu 
+>>>  ĝeš eme  
+ eme  [ ~PLOW ]  𒄑𒅴  ĝeš eme  "a part of a plow; point (of a battering ram)" Akk.  emû 
+>>>  eme bala  
+ eme bala  [ TRANSLATE ]  𒅴𒁄  eme bala  "to translate" Akk.  ? 
+>>>  eme sig gu7  
+ eme sig gu  [ LIE ]  𒅴𒋝𒅥  eme sig gu7  "to speak falsely" Akk.  karşī akālu 
+>>>  eme-apin-na  
+ eme'apinak  [ PLOWSHARE ]  𒅴𒀳𒈾  eme-apin-na  "plowshare" 
+>>>  eme-bala  
+ emebala  [ TRANSLATOR ]  𒅴𒁄  eme-bala  "translator" 
+>>>  emeda ;  emeda da ;  emeda3 ;  |URU×GA|.ME.DA  
+ emeda  [ NURSEMAID ]  𒌝𒈨;𒌝𒈨𒁕;𒌞;𒌼𒈨𒁕  emeda ;  emeda da ;  emeda3 ;  |URU×GA|.ME.DA  "nursemaid" Akk.  tārītu 
+>>>  ama-a-tu  
+ emedu  [ SLAVE ]  𒂼 Mama : mother!!𒀀𒌅  ama-a-tu  "house-born slave" 
+>>>  emedub ;  emedub2  
+ emedub  [ UNIT ]  𒃆;𒃧  emedub ;  emedub2  "a measurement of capacity; a vessel" Akk.  sûtu ;  širmu 
+>>>  ĝeš eme-EŠ2 .UŠ ;  ĝeš eme-EŠ2 .UŠ-eme-EŠ2 .UŠ  
+ emeEŠUŠ  [ LEAF ]  𒄑𒅴𒂠𒍑;𒄑𒅴𒂠𒍑𒅴𒂠𒍑  ĝeš eme-EŠ2 .UŠ ;  ĝeš eme-EŠ2 .UŠ-eme-EŠ2 .UŠ  "scaly leaf" 
+>>>  eme2 -ga-gu7  
+ emegagu  [ NURSE ]  𒌝𒈨𒂵𒅥  eme2 -ga-gu7  "wet nurse" Akk.  mušēniqtu 
+>>>  eme2 -ga-la2 ;  |URU×GA|.ME-ga-la2  
+ emegala  [ NURSE ]  𒌝𒈨𒂵𒇲;𒌼𒈨𒂵𒇲  eme2 -ga-la2 ;  |URU×GA|.ME-ga-la2  "wet nurse" Akk.  mušēniqtu 
+>>>  emeĝar x (|KA x (ME.GAR)|)  
+ emeĝar  [ MAGIC ]  KA×(𒅗·(𒈨𒃻))  emeĝar x (|KA x (ME.GAR)|)  "magic" 
+>>>  emeĝarĝar x (|KA×(ME.GAR.GAR.RA)|)  
+ emeĝarĝar  [ WITCHCRAFT ]  KA×(𒅗·(𒈨𒃻𒃻𒊏))  emeĝarĝar x (|KA×(ME.GAR.GAR.RA)|)  "witchcraft" 
+>>>  eme-gi ;  eme-ĝir15  
+ emeĝir  [ SUMERIAN ]  𒅴𒄀;𒅴𒂠  eme-gi ;  eme-ĝir15  "the Sumerian language" Akk.  šumeritum ;  šumerû 
+>>>  emengi  
+ emengi  [ THIRST ]  |KA×ME+GI|  emengi  "burning thirst" Akk.  šurpītu 
+>>>  emerah x (|UD.SAL.HUB2 |) ;  emerah  
+ emerah  [ JUG ]  |UD.SAL.HUB₂|(𒌓𒊩𒄸);𒊩𒄸  emerah x (|UD.SAL.HUB2 |) ;  emerah  "jug, can" Akk.  kûtu 
+>>>  ĝeš eme-sig  
+ emesig  [ PLANK ]  𒄑𒅴𒋝  ĝeš eme-sig  "plank" 
+>>>  eme-sig-gu7 -gu7 ;  lu2 me-sig ;  lu2 eme-sig-gu7 -gu7  
+ emesiggugu  [ DENOUNCER ]  𒅴𒋝𒅥𒅥;𒇽𒈨𒋝;𒇽𒅴𒋝𒅥𒅥  eme-sig-gu7 -gu7 ;  lu2 me-sig ;  lu2 eme-sig-gu7 -gu7  "denouncer" Akk.  ākil karşi 
+>>>  emeš(|SAL+LAGAR|)  
+ emeš  [ PRIEST ]  𒊩𒇬(𒊩𒇬)  emeš(|SAL+LAGAR|)  "priest" 
+>>>  e2 -me-eš ;  emeš2  
+ emeš  [ SUMMER ]  𒂍𒈨𒌍;𒉊  e2 -me-eš ;  emeš2  "summer" Akk.  ummu 
+>>>  eme-ŠID  
+ emeŠID  [ LIZARD ]  𒅴𒋃  eme-ŠID  "lizard" Akk.  şurārû 
+>>>  ĝeš eme-šu-ru-ug- ĝeš eme-šu-ru-ug ;  ĝeš eme-šu-ru-ug ;  ĝeš eme-šu-ru-ug-eme-šu-ru-ug  
+ emešurug  [ FROND ]  𒄑𒅴𒋗𒊒𒊌𒄑𒅴𒋗𒊒𒊌;𒄑𒅴𒋗𒊒𒊌;𒄑𒅴𒋗𒊒𒊌𒅴𒋗𒊒𒊌  ĝeš eme-šu-ru-ug- ĝeš eme-šu-ru-ug ;  ĝeš eme-šu-ru-ug ;  ĝeš eme-šu-ru-ug-eme-šu-ru-ug  "dried palm-frond" 
+>>>  u2 eme-ur-gir15 -ra  
+ eme'urgirak  [ PLANT ]  𒌑𒅴𒌨𒂠𒊏  u2 eme-ur-gir15 -ra  "a plant" 
+>>>  eme-zag-ga-bar-bar  
+ emezagabarbar  [ DRIVELING ]  𒅴𒍠𒂵𒁇𒁇  eme-zag-ga-bar-bar  "driveling" 
+>>>  emezi(|SAL+LAGAR|)  
+ emezi  [ PRIEST ]  𒊩𒇬(𒊩𒇬)  emezi(|SAL+LAGAR|)  "priest" 
+>>>  e2 -mi2  
+ emi  [ HOUSEHOLD ]  𒂍𒊩  e2 -mi2  "queen's household" 
+>>>  e-mi-it-tum  
+ emittum  [ UNMNG ]  𒂊𒈪𒀉𒌈  e-mi-it-tum  "?" Akk.  ? 
+>>>  e2 -muhaldim  
+ emuhaldim  [ KITCHEN ]  𒂍𒈬  e2 -muhaldim  "kitchen" 
+>>>  en3  
+ en  [ CVNE ]  𒇷  en3  "(compound verb nominal element)" 
+>>>  en2  
+ en  [ INCANTATION ]  𒋙𒀭  en2  "incantation, spell" Akk.  šiptu 
+>>>  en ;  u3 -mu-un ;  umun  
+ en  [ LORD ]  𒂗;𒅇𒈬𒌦;𒌣  en ;  u3 -mu-un ;  umun  "lord; master; ruler" Akk.  bēlu 
+>>>  en  
+ en  [ PRIEST ]  𒂗  en  "a priest" Akk.  entu ;  enu 
+>>>  en3  tar ;  aš tar  
+ en tar  [ ASK ]  𒇷𒋻;𒀸𒋻  en3  tar ;  aš tar  "to ask" Akk.  šâlu 
+>>>  en-nam  
+ enam  [ WHAT ]  𒂗𒉆  en-nam  "what" Akk.  minû 
+>>>  e2 -nam-arad2  
+ enamarad  [ PRISON ]  𒂍𒉆𒀵  e2 -nam-arad2  "prison" 
+>>>  e2 -nam-ed2 ku6  
+ enamed  [ FISH ]  𒂍𒉆𒌓𒁺𒄩  e2 -nam-ed2 ku6  "a fish" 
+>>>  en-na-me-še3  
+ enameše  [ HOW LONG? ]  𒂗𒈾𒈨𒂠  en-na-me-še3  "how long?" Akk.  adi mati 
+>>>  enaqa  
+ enaqa  [ UNMNG ]  𒉌𒌓𒅎  enaqa  "?" Akk.  ennakku 
+>>>  E2 .NA.SA  
+ ENASA  [ STRONGHOLD? ]  𒂍𒈾𒊓  E2 .NA.SA  "stronghold?" 
+>>>  gi en3 -bar ;  en3 -bar  
+ enbar  [ REED ]  𒄀𒇷𒁇;𒇷𒁇  gi en3 -bar ;  en3 -bar  "a reed" Akk.  ţubû 
+>>>  en3 -bi-še3  
+ enbiše  [ UP TILL NOW ]  𒇷𒁉𒂠  en3 -bi-še3  "up till now" 
+>>>  endib  
+ endib  [ COOK ]  𒂗𒈨𒈬  endib  "cook" Akk.  nuhatimmu 
+>>>  en3 -du ;  en-du  
+ endu  [ SONG ]  𒇷𒁺;𒂗𒁺  en3 -du ;  en-du  "a song" 
+>>>  en3 -du-an-na  
+ enduana  [ SONG ]  𒇷𒁺𒀭𒈾  en3 -du-an-na  "song" 
+>>>  en3 -du-dug4 -dug4  
+ endudugdug  [ CHANTER? ]  𒇷𒁺𒅗𒅗  en3 -du-dug4 -dug4  "chanter?" 
+>>>  en3 -du-ĝar-ĝar  
+ enduĝarĝar  [ COMPOSER ]  𒇷𒁺𒃻𒃻  en3 -du-ĝar-ĝar  "composer" 
+>>>  ĝeš en3 -dur ;  gi en3 -dur ;  u2 en3 -dur  
+ endur  [ NAVEL? ]  𒄑𒇷𒄙;𒄀𒇷𒄙;𒌑𒇷𒄙  ĝeš en3 -dur ;  gi en3 -dur ;  u2 en3 -dur  "navel, belly button?" Akk.  abunnatu 
+>>>  e-ne  
+ ene  [ CVNE ]  𒂊𒉈  e-ne  "(compound verb nominal element)" 
+>>>  a-ne ;  e-ne  
+ ene  [ PLEASURE? ]  𒀀𒉈;𒂊𒉈  a-ne ;  e-ne  "pleasure?" 
+>>>  e-ne dug4  
+ ene dug  [ PLAY ]  𒂊𒉈𒅗  e-ne dug4  "to play" 
+>>>  e-ne-di  
+ enedi  [ GAME ]  𒂊𒉈𒁲  e-ne-di  "game, play" Akk.  mēlultu 
+>>>  engar ;  mu-un-gar3 ;  mu-un-ga-ar  
+ engar  [ FARMER ]  𒀳;𒈬𒌦𒃼;𒈬𒌦𒂵𒅈  engar ;  mu-un-gar3 ;  mu-un-ga-ar  "farmer; an official" Akk.  ikkaru 
+>>>  engar ku6  
+ engar  [ FISH ]  𒀳𒄩  engar ku6  "a fish" 
+>>>  engar-tur  
+ engartur  [ PROFESSION ]  𒀳𒌉  engar-tur  "a profession" 
+>>>  na4 en-ge-en  
+ engen  [ STONE ]  𒎎𒂗𒄀𒂗  na4 en-ge-en  "type of stone" 
+>>>  en-gin7 -kal mušen ;  en-kar mušen  
+ enginkal  [ BIRD ]  𒂗𒁶𒆗𒄷;𒂗𒋼𒀀𒄷  en-gin7 -kal mušen ;  en-kar mušen  "a bird" 
+>>>  engiz  
+ engiz  [ COOK ]  𒂗𒈨𒄀  engiz  "temple cook" Akk.  engişu ;  engû ;  nuhatimmu 
+>>>  engur ;  im-gu-ra  
+ engur  [ WATERS ]  𒇉;𒅎𒄖𒊏  engur ;  im-gu-ra  "(cosmic) underground waters" Akk.  apsû ;  engurru 
+>>>  e2 -niĝ2  
+ eniĝak  [ STOREHOUSE ]  𒂍𒃻  e2 -niĝ2  "storehouse" 
+>>>  e2 -niĝ2 -GA  
+ eniĝGA  [ DEPOT ]  𒂍𒃻𒂵  e2 -niĝ2 -GA  "depot" 
+>>>  e2 -niĝ2 -gu2 -ĝa2 -ĝa2  
+ eniĝguĝaĝa  [ PROPERTY ]  𒂍𒃻𒄘𒂷𒂷  e2 -niĝ2 -gu2 -ĝa2 -ĝa2  "property" 
+>>>  e2 -niĝ2 -ki-sig10  
+ eniĝkisig  [ CHAPEL ]  𒂍𒃻𒆠𒋧  e2 -niĝ2 -ki-sig10  "funerary chapel" 
+>>>  e2 -ninda-ki-sig10  
+ enindakisig  [ CHAPEL ]  𒂍𒃻𒆠𒋧  e2 -ninda-ki-sig10  "funerary chapel" 
+>>>  en-ku3 ;  en-ku4 ;  enkud ;  mu-un-kud ;  en7 -ku6  
+ enkud  [ TAX-COLLECTOR ]  𒂗𒆬;𒂗𒆭;𒍠𒄩;𒈬𒌦𒋻;𒍠𒄩  en-ku3 ;  en-ku4 ;  enkud ;  mu-un-kud ;  en7 -ku6  "tax-collector" Akk.  mākisu 
+>>>  enkum  
+ enkum  [ TREASURER ]  𒂗𒉽𒅊𒉣𒈨𒂬  enkum  "temple treasurer" Akk.  enkummu 
+>>>  en-mur  
+ enmur  [ RESIN ]  𒂗𒄯  en-mur  "a resin" Akk.  ? 
+>>>  en-na ;  an-ma ;  en ;  en7  
+ enna  [ UNTIL ]  𒂗𒈾;𒀭𒈠;𒂗;𒍠  en-na ;  an-ma ;  en ;  en7  "until, up to" Akk.  adi 
+>>>  enna  
+ ennak  [ UNMNG ]  𒎎𒂗  enna  "?" Akk.  ennakku 
+>>>  en-nam  
+ ennam  [ OFFICIAL ]  𒂗𒉆  en-nam  "an official" Akk.  bēl pihāti 
+>>>  en-na-me-še3 -am3  
+ ennamešeam  [ AS FAR AS ]  𒂗𒈾𒈨𒂠𒀀𒀭  en-na-me-še3 -am3  "as far as" 
+>>>  ennigi2  
+ ennigi  [ PRIEST ]  𒂗 𒉭𒁶  "a priest" Akk. ennigû EN.NUNUZ.DIM₂|  ennigi2  "a priest" Akk.  ennigû 
+>>>  en-nu-ĝa2 ;  en-nuĝ x (NUN) ;  en-nu-uĝ3 ;  en-nu-uĝ5 ;  en-uĝ3 -ĝa2  
+ ennuĝ  [ IMPRISONMENT ]  𒂗𒉡𒂷;𒂗NUN(𒉣);𒂗𒉡𒌦;𒂗𒉡𒂦;𒂗𒌦𒂷  en-nu-ĝa2 ;  en-nuĝ x (NUN) ;  en-nu-uĝ3 ;  en-nu-uĝ5 ;  en-uĝ3 -ĝa2  "watch, guard; watch (as a division of night time); imprisonment; prison" Akk.  maşşartum 
+>>>  en-nu-uĝ3  ak  
+ ennuĝ ak  [ GUARD ]  𒂗𒉡𒌦𒀝  en-nu-uĝ3  ak  "to guard, to watch" Akk.  naşāru 
+>>>  en-nu-uĝ3  du3  
+ ennuĝ du  [ GUARD ]  𒂗𒉡𒌦𒆕  en-nu-uĝ3  du3  "to guard, to watch" Akk.  naşāru 
+>>>  en-nun  
+ ennun  [ PRIEST ]  𒂗𒉣  en-nun  "a type of priest" 
+>>>  ensi ;  ensi3 ;  |MAŠ+EN|.LI  
+ ensi  [ INTERPRETER ]  𒉺𒋼𒋛;𒂚;𒈦𒂗𒇷  ensi ;  ensi3 ;  |MAŠ+EN|.LI  "dream interpreter" Akk.  ensû ;  šā'ilu 
+>>>  ensi2  
+ ensik  [ FARMER ]  𒉺𒋼𒋛  ensi2  "a farmer" Akk.  iššakku 
+>>>  ensi2 ;  u3 -mu-un-si ;  ensi x (|PA.TE.SI.GAR|) ;  ensi x (|GAR.PA.TE.SI|)  
+ ensik  [ RULER ]  𒉺𒋼𒋛;𒅇𒈬𒌦𒋛;|PA.TE.SI.GAR|(𒉺𒋼𒋛𒃻);|PA.TE.SI.GAR|(𒃻𒉺𒋼𒋛)  ensi2 ;  u3 -mu-un-si ;  ensi x (|PA.TE.SI.GAR|) ;  ensi x (|GAR.PA.TE.SI|)  "a ruler, governor; a quality designation" Akk.  iššakku 
+>>>  ensi2 -gal ;  ensi x (|PA.TE.SI.GAR|)-gal  
+ ensikgal  [ GOVERNOR ]  𒉺𒋼𒋛𒃲;|PA.TE.SI.GAR|(𒉺𒋼𒋛𒃻)𒃲  ensi2 -gal ;  ensi x (|PA.TE.SI.GAR|)-gal  "chief governor" 
+>>>  en3 -še3  
+ enše  [ UP TILL NOW ]  𒇷𒂠  en3 -še3  "up till now" Akk.  adi matīma 
+>>>  en3 -še3 -am3  
+ enše'am  [ UP TILL NOW ]  𒇷𒂠𒀀𒀭  en3 -še3 -am3  "up till now" Akk.  adi matīma 
+>>>  en-te-en ;  en-te-na ;  enten  
+ enten  [ WINTER ]  𒂗𒋼𒂗;𒂗𒋼𒈾;𒉉  en-te-en ;  en-te-na ;  enten  "winter" Akk.  kuşşû 
+>>>  EN.TI mušen  
+ ENTI  [ BIRD ]  𒂗𒋾𒄷  EN.TI mušen  "a bird" 
+>>>  en3 -tukum-še3  
+ entukumše  [ AS LONG AS ]  𒇷𒈜𒁆𒋗𒃻𒌉𒇲𒂠  en3 -tukum-še3  "as long as" Akk.  adi surri 
+>>>  en-TUM  
+ enTUM  [ UNMNG ]  𒂗𒌈  en-TUM  "?" 
+>>>  e2 -nun  
+ enun  [ ROOM ]  𒂍𒉣  e2 -nun  "innermost room" Akk.  kummu 
+>>>  en-zid  
+ enzid  [ ANIMAL ]  𒂗𒍥  en-zid  "lead animal" Akk.  ašarēdu 
+>>>  en-zid  
+ enzid  [ PRIEST ]  𒂗𒍥  en-zid  "a priest" 
+>>>  ĝeš e2 -pan  
+ epana  [ QUIVER ]  𒄑𒂍𒉼  ĝeš e2 -pan  "quiver" 
+>>>  e2 pa-pah  
+ epapah  [ CELLA ]  𒂍𒉺𒈜  e2 pa-pah  "cella, shrine" Akk.  papāhu 
+>>>  epig  
+ epig  [ VESSEL ]  𒋝  epig  "a drinking vessel" Akk.  mašqû 
+>>>  er2 ;  i-ra  
+ er  [ TEARS ]  𒀀𒅆;𒐊𒊏  er2 ;  i-ra  "weeping, mourning; tears; to weep" Akk.  bikītu; dimtu 
+>>>  er2  gul  
+ er gul  [ RESTRAIN CRYING ]  𒀀𒅆𒄢  er2  gul  "to restrain crying" Akk.  ? 
+>>>  er2  pad3  
+ er pad  [ WEEP ]  𒀀𒅆𒅆𒊒  er2  pad3  "to weep" Akk.  bakû 
+>>>  er2  šeš4  
+ er šeš  [ WEEP ]  𒀀𒅆𒂞  er2  šeš4  "to weep" Akk.  bakû 
+>>>  era3  
+ era  [ LEADER ]  𒃞  era3  "leader (of the assembly)" Akk.  mu'erru 
+>>>  er3 -ra  
+ era  [ UNMNG ]  𒀴𒊏  er3 -ra  "?" 
+>>>  e-ra-num2  
+ eranum  [ TREE ]  𒂊𒊏𒈝  e-ra-num2  "a tree" 
+>>>  re ;  er ;  e-ra ;  er x (|DU.DU|) ;  re6 ;  re7 ;  er-re ;  i-ri  
+ ere  [ GO ]  𒊑;𒅕;𒂊𒊏;|DU.DU|(𒁺𒁺);𒁺;𒁻;𒅕𒊑;𒐊𒊑  re ;  er ;  e-ra ;  er x (|DU.DU|) ;  re6 ;  re7 ;  er-re ;  i-ri  "perfect plural stem of ĝen[to go]" Akk.  alāku 
+>>>  er13  
+ ere  [ THROTTLE ]  𒈁  er13  "to press, throttle" Akk.  hanāqum 
+>>>  e-re-bu-um  
+ erebum  [ REFUGEE ]  𒂊𒊑𒁍𒌝  e-re-bu-um  "refugee" 
+>>>  ĝeš eren ;  eren ;  šim eren ;  šim ĝeš eren ;  ĝeš hu-ri2 -in ;  ĝeš e-re-ne ;  hu-ri2 -in mušen  
+ eren  [ CEDAR ]  𒄑𒂞;𒂞;𒋆𒂞;𒋆𒄑𒂞;𒄑𒄷𒌷𒅔;𒄑𒂊𒊑𒉈;𒄷𒌷𒅔𒄷  ĝeš eren ;  eren ;  šim eren ;  šim ĝeš eren ;  ĝeš hu-ri2 -in ;  ĝeš e-re-ne ;  hu-ri2 -in mušen  "cedar" Akk.  erēnu 
+>>>  eren2 ku6  
+ eren  [ FISH ]  𒂟𒄩  eren2 ku6  "a fish" 
+>>>  eren8  
+ eren  [ UNMNG ]  𒌯  eren8  "?" Akk.  ? 
+>>>  |EREN2 .X|  
+ EREN.X  [ ANIMAL ]  𒂟·  |EREN2 .X|  "an animal" 
+>>>  eren?-gur x (|ŠE.ŠE.KIN|)-si mušen ;  AN-gir2 mušen ;  X-na-kir4 -si mušen  
+ erengursi  [ BIRD ]  |ŠE.KIN|(𒊺𒊺𒆥)𒋛𒄷;𒀭𒄈𒄷;𒈾𒅗𒋛𒄷  eren?-gur x (|ŠE.ŠE.KIN|)-si mušen ;  AN-gir2 mušen ;  X-na-kir4 -si mušen  "a bird" 
+>>>  ereš4  
+ ereš  [ CULTIVATOR ]  𒀳 earth worker  ereš4  "cultivator" Akk.  errēšum 
+>>>  ereš  
+ ereš  [ LADY ]  𒎏  ereš  "lady, queen; a quality designation" Akk.  bēltu ;  šarratum 
+>>>  ereš5  
+ ereš  [ WISE ]  𒃲𒀭𒍪  ereš5  "wise" Akk.  mūdû 
+>>>  ereš-diĝir  
+ erešdiĝir  [ PRIESTESS ]  𒎏𒀭  ereš-diĝir  "a priestess" Akk.  ēntu 
+>>>  e2 -ri-a ;  e2 -ri  
+ eria  [ WASTELAND ]  𒂍𒊑𒀀;𒂍𒊑  e2 -ri-a ;  e2 -ri  "wasteland" Akk.  harbu 
+>>>  e-ri-ib ;  e-rib ;  erib  
+ erib  [ IN-LAW ]  𒂊𒊑𒅁;𒂊𒆗;𒀿  e-ri-ib ;  e-rib ;  erib  "father-in-law; sister-in-law" Akk.  emum ;  mārti emi 
+>>>  erib  
+ erib  [ LEATHERWORKER ]  𒀿  erib  "leatherworker" Akk.  aškāpu 
+>>>  eribura  
+ eribura  [ DROPPINGS ]  𒉫  eribura  "bird droppings" 
+>>>  erida2  
+ erida  [ SWEEPER ]  𒉺𒊷  erida2  "courtyard sweeper" Akk.  kisalluhhu 
+>>>  eridu  
+ eridu  [ GUIDANCE ]  𒉣  eridu  "guidance" Akk.  irītu 
+>>>  erim3 ;  erim6 ;  erim4 ;  erim5  
+ erim  [ STOREROOM ]  𒌿;𒍍;𒃫;𒀕  erim3 ;  erim6 ;  erim4 ;  erim5  "storeroom, treasury" Akk.  išittu 
+>>>  erim-huš  
+ erimhuš  [ BATTLE ]  𒂟𒄭𒄊  erim-huš  "battle" Akk.  anantu 
+>>>  erin2 ;  eri-na ;  erin9  
+ erin  [ PEOPLE ]  𒂟;𒌷𒈾;𒌯  erin2 ;  eri-na ;  erin9  "people; troops" Akk.  şābu 
+>>>  erin2 ;  ĝeš erin2  
+ erin  [ YOKE ]  𒂟;𒄑𒂟  erin2 ;  ĝeš erin2  "to yoke; yoke; plow team" Akk.  şamādu ;  şimittu 
+>>>  ERIN2 .PIRIG  
+ ERINPIRIG  [ ANIMAL ]  𒂟𒊊  ERIN2 .PIRIG  "type of animal" 
+>>>  erin2 -saĝ  
+ erinsaĝ  [ YOKE ]  𒂟𒊕  erin2 -saĝ  "front part of a yoke" 
+>>>  erišti x (|GAL.ZU|)  
+ erišti  [ WISE ]  |GAL.ZU|(𒃲𒍪)  erišti x (|GAL.ZU|)  "wise" Akk.  eršu 
+>>>  er2 -su3 -a  
+ ersua  [ LAMENT ]  𒀀𒅆𒋤𒀀  er2 -su3 -a  "a lament" 
+>>>  er2 -ša3 -ne-ša4  
+ eršaneša  [ SONG ]  𒀀𒅆𒊮𒉈𒁺  er2 -ša3 -ne-ša4  "a type of song" 
+>>>  er2 -šem3 ;  er2 -šem3 -ma  
+ eršemak  [ SONG ]  𒀀𒅆𒀚;𒀀𒅆𒀚𒈠  er2 -šem3 ;  er2 -šem3 -ma  "a type of song" Akk.  eršemmakku 
+>>>  e-ru-ba-tum ;  e3 -ru-ba-tum  
+ erubatum  [ FESTIVAL ]  𒂊𒊒𒁀𒌈;𒌓𒁺𒊒𒁀𒌈  e-ru-ba-tum ;  e3 -ru-ba-tum  "a festival" 
+>>>  ĝeš es2 -ad  
+ esad  [ TRAP ]  𒄑𒌍𒀜  ĝeš es2 -ad  "trap" Akk.  nahbalu 
+>>>  a-sag ;  esaĝ ;  asag  
+ esaĝ  [ HEIR ]  𒀀𒊕;𒃥;𒆬𒀭  a-sag ;  esaĝ ;  asag  "heir" Akk.  aplu 
+>>>  e2 -saĝ ;  esaĝ2  
+ esaĝ  [ STORE ]  𒂍𒊕;𒃥  e2 -saĝ ;  esaĝ2  "grain-store" Akk.  qarītu 
+>>>  esaĝtur  
+ esaĝtur  [ GRANARY ]  𒃦  esaĝtur  "a granary" Akk.  esru 
+>>>  na4 esi  
+ esi  [ DIORITE ]  𒎎𒆗  na4 esi  "diorite, dolerite" Akk.  ušû 
+>>>  ĝeš esi  
+ esi  [ TREE ]  𒄑𒆗  ĝeš esi  "a tree" Akk.  ušû 
+>>>  e-sig mušen ;  e-sig17 mušen ;  sig mušen ;  u2 -sig mušen ;  sig7 mušen  
+ esig  [ BIRD ]  𒂊𒋝𒄷;𒂊𒄀𒄷;𒋝𒄷;𒌑𒋝𒄷;𒅊𒄷  e-sig mušen ;  e-sig17 mušen ;  sig mušen ;  u2 -sig mušen ;  sig7 mušen  "a bird" 
+>>>  e2 -sim-ma-DAR ku6  
+ esimma.DAR  [ FISH ]  𒂍𒉆𒈠𒁯𒄩  e2 -sim-ma-DAR ku6  "a fish" 
+>>>  esir2 ;  esir ;  esir2 (|LAGABxHAL|)  
+ esir  [ BITUMEN ]  𒇒 ≈;𒀀𒇒;𒇒 ≈(𒇉)  esir2 ;  esir ;  esir2 (|LAGABxHAL|)  "bitumen, pitch" Akk.  iţţû ;  kupru 
+>>>  esir x (LAK173) ku6 ;  esir3 ku6 ;  LAK173  
+ esir  [ FISH ]  𒀀𒇒·(¿)𒄩;𒆓𒆓𒄩;¿  esir x (LAK173) ku6 ;  esir3 ku6 ;  LAK173  "a fish" Akk.  šēnu 
+>>>  kuš e-sir2 ;  e-sir2 ;  kuš esir3 ;  kuš esir4 ;  kuš esir5 ;  LAK173  
+ esir  [ SHOE ]  𒋢𒂊𒁍;𒂊𒁍;𒋢𒆓𒆓;𒋢𒍤	ZI%ZI|GI%GI|;𒋢|GI4%GI4|;¿  kuš e-sir2 ;  e-sir2 ;  kuš esir3 ;  kuš esir4 ;  kuš esir5 ;  LAK173  "sandal(s), shoe(s)" Akk.  šēnu 
+>>>  e-sir2 ;  e-sir  
+ esir  [ STREET ]  𒂊𒁍;𒂊𒋓  e-sir2 ;  e-sir  "street" Akk.  sūqu 
+>>>  esirhia  
+ esirhia  [ BITUMEN ]  𒇓  esirhia  "bitumen, pitch" Akk.  kupru 
+>>>  essadu ;  essad  
+ essadu  [ FIN ]  𒀊𒄩𒍠𒃮𒄷;𒍠𒄩  essadu ;  essad  "fin or flipper" Akk.  ishu 
+>>>  e2 -suhur  
+ esuhur  [ ~TEMPLE ]  𒂍𒋦  e2 -suhur  "a part of a temple" Akk.  šahurru 
+>>>  ĝeš e2 -su-lum ;  ĝeš e2 -su-lum-ma  
+ esulumak  [ BOX ]  𒄑𒂍𒋢𒈝;𒄑𒂍𒋢𒈝𒈠  ĝeš e2 -su-lum ;  ĝeš e2 -su-lum-ma  "a box" Akk.  laharuhšu 
+>>>  e2 -sumur  
+ esumur  [ ROOM ]  𒂍𒊨  e2 -sumur  "lying-in-state room?" 
+>>>  eš13  
+ eš  [ COLD ]  𒉉  eš13  "(to be) cold" Akk.  kuşşû 
+>>>  eš2  
+ eš  [ FLOUR ]  𒂠  eš2  "a flour" Akk.  qēmu ;  upumtu 
+>>>  eš2  
+ eš  [ ROPE ]  𒂠  eš2  "rope, thong, string" Akk.  eblu 
+>>>  eš3  
+ eš  [ SHRINE ]  𒀊  eš3  "shrine; an establishment" Akk.  bītu ;  eššu 
+>>>  kuš eš3  
+ eš  [ TENT ]  𒋢𒀊  kuš eš3  "tent, pavilion" 
+>>>  eš5 ;  eš-a-bi ;  eš10 ;  am3 -mu-uš  
+ eš  [ THREE ]  𒐈;𒌍𒀀𒁉;𒀀;𒀀𒀭𒈬𒍑  eš5 ;  eš-a-bi ;  eš10 ;  am3 -mu-uš  "three; triplets" Akk.  takšû ;  šalāš 
+>>>  ĝeš eš x (LAM) ;  ĝeš eš22  
+ eš  [ TREE ]  𒄑GIŠ.LAM(𒇴);𒄑𒇴  ĝeš eš x (LAM) ;  ĝeš eš22  "a tree; a terebinth; almond (tree)" Akk.  lammu ;  lupānu ;  šiqdu ;  šiqittu 
+>>>  eš10  
+ eš  [ WATER ]  𒀀  eš10  "water" Akk.  mû 
+>>>  eš2  rah2  
+ eš rah  [ MEASURE ]  𒂠𒊏  eš2  rah2  "to measure" Akk.  ? 
+>>>  eša  
+ eša  [ FLOUR ]  𒀀𒌁  eša  "a fine flour" Akk.  saskû 
+>>>  eš3 -a-ab-du ;  eš3 -sa2 -ab-du  
+ ešabdu  [ PROFESSION ]  𒀊𒀀𒀊𒁺;𒀊𒁲𒀊𒁺  eš3 -a-ab-du ;  eš3 -sa2 -ab-du  "a profession" 
+>>>  e2 -šag4  
+ ešag  [ CHAMBER ]  𒂍𒊮  e2 -šag4  "inner chamber; bedroom" Akk.  uršu 
+>>>  eš-bar ;  eš5 -bar  
+ ešbar  [ DECISION ]  𒌍𒁇;𒐈𒁇  eš-bar ;  eš5 -bar  "decision" Akk.  purussûm 
+>>>  eš-bar kiĝ2  
+ ešbar kiĝ  [ DECIDE ]  𒌍𒁇𒆥  eš-bar kiĝ2  "to make a decision" 
+>>>  eš3 -da  
+ ešda  [ ONE ]  𒀊𒁕  eš3 -da  "one" Akk.  ištēn 
+>>>  eš2 -da ;  dug eš-da  
+ ešda  [ VESSEL ]  𒂠𒁕;𒂁𒌍𒁕  eš2 -da ;  dug eš-da  "a metal cultic vessel" 
+>>>  eš2 -dam  
+ ešdam  [ DISCUSSION ]  𒂠𒁮  eš2 -dam  "discussion" Akk.  šitūltu 
+>>>  eš2 -dam ;  e2 -eš2 -dam ;  e2 ešdam  
+ ešdam  [ TAVERN ]  𒂠𒁮;𒂍𒂠𒁮;𒂍¿  eš2 -dam ;  e2 -eš2 -dam ;  e2 ešdam  "tavern" Akk.  aštammu 
+>>>  eš-de2 -a  
+ ešdea  [ LOAN ]  𒌍𒌤𒀀  eš-de2 -a  "a loan" Akk.  hubutt(at)u 
+>>>  eše3 ;  eše2  
+ eše  [ AREA UNIT ]  𒅂;𒂠  eše3 ;  eše2  "a unit of area; a unit of volume" Akk.  eblu 
+>>>  eše2 ;  eše3  
+ eše  [ LENGTH UNIT ]  𒂠;𒅂  eše2 ;  eše3  "a unit of length" Akk.  aslu 
+>>>  e2 -šed6  
+ ešedak  [ LAVATORY ]  𒂍𒆪  e2 -šed6  "lavatory" Akk.  bīt šitti 
+>>>  ešela  
+ ešela  [ BOUND ]  𒈀𒇲  ešela  "(to be) bound" Akk.  hanāqu ;  kalû ;  kamû 
+>>>  ešemen ;  ešemen2 ;  e-šen ;  ešemen3 ;  ešemen5  
+ ešemen  [ ROPE ]  𒆠𒂊𒉈𒁲;𒆠𒂊𒉈𒁲𒀭𒈹;𒂊𒊿;𒂠𒄾 eš…;𒁉  ešemen ;  ešemen2 ;  e-šen ;  ešemen3 ;  ešemen5  "game, play; skipping rope" Akk.  keppû ;  mēlultu 
+>>>  eš3 -eš3  
+ ešeš  [ FESTIVAL ]  𒀊𒀊  eš3 -eš3  "festival" 
+>>>  ešgal  
+ ešgal  [ UNDERWORLD ]  𒀍  ešgal  "earth, land; underworld" Akk.  erşetu 
+>>>  eš2 -gana2  
+ ešgana  [ LINE ]  𒂠𒃷  eš2 -gana2  "measuring line" 
+>>>  eš2 -gar3 ;  eš-gar3 ;  eš5 -gar3  
+ ešgar  [ ASSIGNMENT ]  𒂠𒃼;𒌍𒃼;𒐈𒃼  eš2 -gar3 ;  eš-gar3 ;  eš5 -gar3  "work assignment" Akk.  iškaru 
+>>>  eš3 -gi6 -NI  
+ ešgiNI  [ LOCUS ]  𒀊𒈪𒉌  eš3 -gi6 -NI  "a cultic place" 
+>>>  ešgiri2 ;  ĝeš ešgiri2  
+ ešgiri  [ STAFF ]  𒄑𒂙;𒄑𒄑𒂙  ešgiri2 ;  ĝeš ešgiri2  "staff" 
+>>>  eš-gur ;  eš-gur zabar  
+ ešgur  [ RING ]  𒌍𒄥;𒌍𒄥𒌓𒊕𒁇  eš-gur ;  eš-gur zabar  "ring" 
+>>>  eš-kiĝ2  
+ eškiĝ  [ UNMNG ]  𒌍𒆥  eš-kiĝ2  "?" 
+>>>  eš2 -kiri3 ;  eškiri ;  ĝeš eškiri2  
+ eškiri  [ ROPE ]  𒂠𒅗;𒌋𒂙;𒄑𒄑𒂙  eš2 -kiri3 ;  eškiri ;  ĝeš eškiri2  "nose rope, tether" Akk.  şerretu 
+>>>  eš-ku-ru-um  
+ eškurum  [ WAX ]  𒌍𒆪𒊒𒌝  eš-ku-ru-um  "wax" Akk.  iškuru 
+>>>  eš2 -la2  
+ ešla  [ BAND ]  𒂠𒇲  eš2 -la2  "bond; band, belt" Akk.  markasu ;  nēbehu 
+>>>  ĝeš eš2 -la2  
+ ešla  [ BUCKET ]  𒄑𒂠𒇲  ĝeš eš2 -la2  "a bucket" Akk.  makdû 
+>>>  ĝeš eš2 -la2  
+ ešla  [ TOOL ]  𒄑𒂠𒇲  ĝeš eš2 -la2  "a stick?; a tool" Akk.  mekkû 
+>>>  ĝeš eš2 -la2  
+ ešla  [ TRAP ]  𒄑𒂠𒇲  ĝeš eš2 -la2  "a trap" Akk.  kamaru 
+>>>  ešlug  
+ ešlug  [ OFFSPRING ]  𒈊  ešlug  "offspring" Akk.  atmu 
+>>>  eš-sa-du  
+ ešsadu  [ TRAP ]  𒌍𒊓𒁺  eš-sa-du  "trap" Akk.  nahbalum 
+>>>  eššeb  
+ eššeb  [ LANDSCAPE ]  𒆠𒅁  eššeb  "a deeply incised landscape" Akk.  huddudu 
+>>>  eš2 -šu-ak  
+ eššuak  [ ROPE ]  𒂠𒋗𒀝  eš2 -šu-ak  "a type of rope" 
+>>>  eš5 -tab-ba  
+ eštaba  [ GARMENT ]  𒐈𒋰𒁀  eš5 -tab-ba  "a garment" 
+>>>  eš3 -ta-lu2 ;  aš-ta-lu2  
+ eštalu  [ SINGER ]  𒀊𒋫𒇽;𒀸𒋫𒇽  eš3 -ta-lu2 ;  aš-ta-lu2  "a type of singer" Akk.  aštalû 
+>>>  |EŠ2 @t.GIR2 @g|  
+ EŠtenuGIRgunu  [ SURCHARGE ]  𒂠?𒄈  |EŠ2 @t.GIR2 @g|  "a dairy surcharge" 
+>>>  eštub ku6 ;  ku6 eštub  
+ eštub  [ CARP ]  𒄞𒄩;𒄩𒄞  eštub ku6 ;  ku6 eštub  "carp" Akk.  arsuppu 
+>>>  eš3 -tum  
+ eštum  [ CHAFF? ]  𒀊𒌈  eš3 -tum  "chaff?" Akk.  iltu? 
+>>>  e2 -šu-si3 -ga  
+ ešusiga  [ ~ARCHITECTURE ]  𒂍𒋗𒅆𒂵  e2 -šu-si3 -ga  "a temple room or building" 
+>>>  etutum x (|GA2 ×BAD|)  
+ etutum  [ DARKNESS ]  |GA₂×BAD|(𒂿)  etutum x (|GA2 ×BAD|)  "darkness" Akk.  eţûtu 
+>>>  e2 -ubur-ra ;  e2 -bu-ra  
+ e'uburak  [ ANIMAL PEN ]  𒂍𒁛𒊏;𒂍𒁍𒊏  e2 -ubur-ra ;  e2 -bu-ra  "animal pen" 
+>>>  e2 -ud  
+ e'ud  [ WEEK ]  𒂍𒌓  e2 -ud  "week, ides?" 
+>>>  e2 -ud-sakar  
+ e'udsakar  [ NEW MOON HOUSE ]  𒂍𒌓𒊬  e2 -ud-sakar  "new moon house" 
+>>>  e2 -udu  
+ e'udu  [ SHEEPHOUSE ]  𒂍𒇻  e2 -udu  "sheephouse" 
+>>>  e2 -ur5 -ra  
+ e'urra  [ PRISON ]  𒂍𒄯𒊏  e2 -ur5 -ra  "prison" 
+>>>  eurre  
+ e'urre  [ GRAVE ]  𒂍𒆠𒋧𒂵  eurre  "grave" Akk.  qubūru 
+>>>  e-ur11 -ru-KU  
+ e'urruKU  [ SONG ]  𒂊𒀳𒊒𒆪  e-ur11 -ru-KU  "a song" Akk.  zamāru 
+>>>  E2 -UŠ-GID2 -DA  
+ EUŠGIDDA  [ STOREHOUSE ]  𒂍𒍑𒁍𒁕  E2 -UŠ-GID2 -DA  "storehouse" 
+>>>  e2 -uz-ga  
+ e'uzga  [ BUILDING ]  𒂍𒊻𒂵  e2 -uz-ga  "a building" 
+>>>  ezem ;  i-ze-eĝ3  
+ ezem  [ FESTIVAL ]  𒂡;𒐊𒍣𒉘  ezem ;  i-ze-eĝ3  "festival" Akk.  isinnu 
+>>>  EZEN-HAR  
+ EZEN.HAR  [ MILLER ]  𒂡𒄯  EZEN-HAR  "miller" Akk.  sāmidu 
+>>>  i-zi mušen ;  e-zi mušen  
+ ezi  [ BIRD ]  𒐊𒍥𒄷;𒂊𒍥𒄷  i-zi mušen ;  e-zi mušen  "a bird" 
+>>>  ezi x (|SAL.LAGAR|)  
+ ezi  [ PRIEST ]  |SAL.LAGAR|(𒊩𒇬)  ezi x (|SAL.LAGAR|)  "en-priest of Ea" Akk.  ēnu ša Ea 
+>>>  na4 d ezim2  
+ ezim  [ STONE ]  𒎎𒀭𒊺𒌁  na4 d ezim2  "type of stone" 
+>>>  še ezina2  
+ ezina  [ GRAIN ]  𒊺𒊺𒌁  še ezina2  "grain, cereals" Akk.  ašnan 
+>>>  e-zi-zu sar  
+ ezizu  [ VEGETABLE ]  𒂊𒍥𒍪𒊬  e-zi-zu sar  "a vegetable" Akk.  ezizzu 
+>>>  e2 -zu2 -ra-ah  
+ ezurah  [ ROOM ]  𒂍𒅗𒊏𒄴  e2 -zu2 -ra-ah  "lying-in-state room?" 
