@@ -1,0 +1,1196 @@
+npm install -g jsdom canvas jsdom-global
+Missing require: request
+>>>  na  
+ na  [ CVNE ]  𒈾  na  "(compound verb nominal element)" 
+>>>  na  
+ na  [ MAN ]  𒈾  na  "man" Akk.  amēlu 
+>>>  na4 na  
+ na  [ PESTLE ]  𒎎𒈾  na4 na  "pestle; a stone" Akk.  na'u 
+>>>  na4 ;  na ;  na4 na  
+ na  [ STONE ]  𒎎;𒈾;𒎎𒈾  na4 ;  na ;  na4 na  "stone; stone weight" Akk.  abnu 
+>>>  na deg x (RI) ;  ša di ;  ša di-di ;  ša di-di5 ;  ša di5  
+ na deg  [ CLEAR ]  𒈾𒊑(𒊑);𒊭𒁲;𒊭𒁲𒁲;𒊭𒁲𒊑;𒊭𒊑  na deg x (RI) ;  ša di ;  ša di-di ;  ša di-di5 ;  ša di5  "to make clear, explain; to consecrate, purify; to separate; to clear out, cut out" Akk.  ašāru ;  elēlu ;  hasāsu 
+>>>  nab  
+ nab  [ MUSICIAN ]  |AN&AN|  nab  "a musician" Akk.  nāru 
+>>>  na-ba-šu-hu-um  
+ nabašuhum  [ WOOL ]  𒈾𒁀𒋗𒄷𒌝  na-ba-šu-hu-um  "a type of wool" 
+>>>  kuš na-ah-ba-tum ;  kuš na-ab-ha-tum  
+ nabhatum  [ CONTAINER ]  𒋢𒈾𒄴𒁀𒌈;𒋢𒈾𒀊𒄩𒌈  kuš na-ah-ba-tum ;  kuš na-ab-ha-tum  "a case for precious objects" Akk.  nahbatu 
+>>>  na-bi2 -hu-um  
+ nabihum  [ ORNAMENT ]  𒈾𒉈𒄷𒌝  na-bi2 -hu-um  "an ornament" Akk.  nabihu 
+>>>  na-ab-ri2 -um  
+ nabrium  [ OFFERING ]  𒈾𒀊𒌷𒌝  na-ab-ri2 -um  "an offering; a festival" Akk.  nabriu 
+>>>  na-deg x (RI) ;  na-|DU&DU|  
+ nadeg  [ ADVICE ]  𒈾𒊑(𒊑);𒈾𒁺𒁺  na-deg x (RI) ;  na-|DU&DU|  "advice" 
+>>>  na-de3 ;  na-deg x (RI)  
+ nadeg  [ INCENSE ]  𒈾𒉈;𒈾𒊑(𒊑)  na-de3 ;  na-deg x (RI)  "incense" Akk.  qutrēnu 
+>>>  na4 -1(diš)-šu  
+ nadiššu  [ HAMMER-STONE? ]  𒎎𒁹(𒑰)𒋗  na4 -1(diš)-šu  "hammer-stone?" 
+>>>  kuš na-a-du-um  
+ nadum  [ WATERSKIN ]  𒋢𒈾𒀀𒁺𒌝  kuš na-a-du-um  "a waterskin" Akk.  nādu 
+>>>  na-gada  
+ nagada  [ HERDSMAN ]  𒈾𒃰  na-gada  "herdsman" Akk.  naqidu 
+>>>  nagar  
+ nagar  [ CARPENTER ]  𒉄  nagar  "carpenter" Akk.  nagarum 
+>>>  nagar sar  
+ nagar  [ PLANT ]  𒉄𒊬  nagar sar  "a plant" 
+>>>  nagar-x mušen  
+ nagar.X  [ BIRD ]  𒉄·𒄷  nagar-x mušen  "a bird" 
+>>>  nagar-gal ;  nagargal x (|GAL.NAGAR|)  
+ nagargal  [ CARPENTER ]  𒉄𒃲;|GAL.NAGAR|(𒃲𒉄)  nagar-gal ;  nagargal x (|GAL.NAGAR|)  "head carpenter" 
+>>>  nag-bu  
+ nagbu  [ WATER ]  𒅘𒁍  nag-bu  "waters; sources" 
+>>>  naĝ  
+ naĝ  [ DRINK ]  𒅘  naĝ  "to drink" Akk.  šatû 
+>>>  ĝeš naĝa3 ;  naĝa3 ĝa2 ;  ĝeš naĝa4  
+ naĝa  [ MORTAR ]  𒄑𒄤;𒄤𒂷;𒄑𒄣  ĝeš naĝa3 ;  naĝa3 ĝa2 ;  ĝeš naĝa4  "mortar" Akk.  esittu 
+>>>  naĝa ;  na-ma  
+ naĝa  [ POTASH ]  𒉀;𒈾𒈠  naĝa ;  na-ma  "potash, soap" Akk.  uhūlu 
+>>>  naĝa dub2  
+ naĝa dub  [ RUB ]  𒉀𒂀  naĝa dub2  "to rub with soap" 
+>>>  naĝa su-ub ;  naĝa sub6 ?  
+ naĝa sub  [ RUB WITH SOAP ]  𒉀𒋢𒌒;𒉀𒋳  naĝa su-ub ;  naĝa sub6 ?  "to rub with soap" Akk.  ? 
+>>>  na-ĝa2 -ah  
+ naĝah  [ BARBARIAN ]  𒈾𒂷𒄴  na-ĝa2 -ah  "barbarian" Akk.  nuwā'u 
+>>>  naĝa-si-e3   ;  naĝa-si  
+ naĝasi'e  [ PLANT ]  𒉀𒋛𒌓𒁺;𒉀𒋛  naĝa-si-e3   ;  naĝa-si  "a plant" Akk.  uhūlu 
+>>>  ĝeš naĝa3 -si3 -gaz ;  ĝeš naĝa3 -zi3 -gaz  
+ naĝasikaz  [ PESTLE ]  𒄑𒄤𒅆𒄤;𒄑𒄤𒍥𒄤  ĝeš naĝa3 -si3 -gaz ;  ĝeš naĝa3 -zi3 -gaz  "pestle" Akk.  madakku 
+>>>  naĝ-kud  
+ naĝkud  [ RESERVOIR ]  𒅘𒋻  naĝ-kud  "a reservoir for flood control" Akk.  butuqtu 
+>>>  na-kab-tum ;  na-ga-ab-tum ;  na-kab2 -tum  
+ nakabtum  [ STOCKYARD? ]  𒈾𒆏𒌈;𒈾𒂵𒀊𒌈;𒈾𒅘𒌈  na-kab-tum ;  na-ga-ab-tum ;  na-kab2 -tum  "a place for fattening livestock?" 
+>>>  na-kam-tum  
+ nakamtum  [ STOREHOUSE ]  𒈾𒄰𒌈  na-kam-tum  "storehouse" Akk.  nakkamtu 
+>>>  na-lu-a  
+ nalua  [ GRAVEL? ]  𒈾𒇻𒀀  na-lu-a  "gravel?" 
+>>>  nam ;  na-aĝ2  
+ nam  [ FATE ]  𒉆;𒈾𒉘  nam ;  na-aĝ2  "determined order; will, testament; fate, destiny" Akk.  šīmtu 
+>>>  nam2  
+ nam  [ LORD ]  𒉇  nam2  "lord" 
+>>>  nam2  
+ nam  [ THOUGHT ]  𒉇  nam2  "(fore)thought, plan(ning); understanding; instruction" Akk.  ţēmu 
+>>>  NAM ku6  
+ NAM  [ FISH ]  𒉆𒄩  NAM ku6  "a fish" 
+>>>  nam kud  
+ nam kud  [ CURSE ]  𒉆𒋻  nam kud  "to curse" Akk.  arāru ;  nazāru 
+>>>  nam tar  
+ nam tar  [ DECREE FATE ]  𒉆𒋻  nam tar  "to decree fate" Akk.  šīmta šâmu 
+>>>  nam-a-a  
+ nama'a  [ UNMNG ]  𒉆𒀀𒀀  nam-a-a  "?" 
+>>>  nam-ab-ba  
+ namabba  [ AGE ]  𒉆𒀊𒁀  nam-ab-ba  "old age" Akk.  abbūtu ;  šībūtu ;  puršumu 
+>>>  nam-ad-KID  
+ namadKID  [ BASKET-WEAVING ]  𒉆𒀜𒆤  nam-ad-KID  "the craft of the basket-weaver" 
+>>>  nam-aga-us2 ;  nam-aga3 -us2  
+ namaga'us  [ STATUS ]  𒉆𒂇𒍑;𒉆𒂆𒍑  nam-aga-us2 ;  nam-aga3 -us2  "status as soldier" 
+>>>  nam-a2 -ĝal2  
+ namaĝal  [ STRENGTH ]  𒉆𒀉𒅅  nam-a2 -ĝal2  "strength" 
+>>>  nam-apin-la2  
+ namapinla  [ ~TILLER ]  𒉆𒀳𒇲  nam-apin-la2  "position as tiller" 
+>>>  nam-arad ;  nam-arad2  
+ namarad  [ SLAVERY ]  𒉆𒀴;𒉆𒀵  nam-arad ;  nam-arad2  "slavery" 
+>>>  na-ma-ru-um  
+ namarum  [ GARMENT ]  𒈾𒈠𒊒𒌝  na-ma-ru-um  "a garment" 
+>>>  na-ma-ru-um  
+ namarum  [ MIRROR ]  𒈾𒈠𒊒𒌝  na-ma-ru-um  "mirror" Akk.  nāmaru 
+>>>  nam-ašgab  
+ namašgab  [ LEATHERWORKING ]  𒉆𒀿  nam-ašgab  "the craft of the leather-worker" 
+>>>  nam-azlag  
+ namazlag  [ CRAFT ]  𒉆𒌆𒌓  nam-azlag  "the craft of the fuller" 
+>>>  nam-a-zu  
+ namazu  [ CRAFT ]  𒉆𒀀𒍪  nam-a-zu  "the craft of the physicians" 
+>>>  nam-banda3 da  
+ nambanda  [ YOUTH ]  𒉆𒌉𒁕  nam-banda3 da  "youth" 
+>>>  nam-barag  
+ nambarag  [ ROYALTY ]  𒉆𒁈  nam-barag  "royalty" Akk.  šarrūtu 
+>>>  nam-buluĝ3  
+ nambuluĝ  [ UPBRINGING ]  𒉆𒉽𒉽  nam-buluĝ3  "upbringing of an adopted child" Akk.  tarbītu 
+>>>  nam-bur2 -a  
+ nambura  [ PAYMENT ]  𒉆𒁔𒀀  nam-bur2 -a  "payment" Akk.  nipiltu 
+>>>  nam-bur-šu-ma  
+ namburšuma  [ ~OFFICIAL ]  𒉆𒁓𒋗𒈠  nam-bur-šu-ma  "position as buršuma-official" 
+>>>  nam-dam  
+ namdam  [ MARRIAGE ]  𒉆𒁮  nam-dam  "marriage" 
+>>>  nam-dam-gar3  
+ namdamgar  [ COMMERCE ]  𒉆𒁮𒃼  nam-dam-gar3  "commerce" 
+>>>  NAM-dar mušen  
+ NAMdar  [ BIRD ]  𒉆𒁯𒄷  NAM-dar mušen  "a bird?" 
+>>>  nam2 -di  
+ namdi  [ OFFICIAL ]  𒉇𒁲  nam2 -di  "an official" 
+>>>  nam-di4 -di4 -la2  
+ namdidila  [ SMALLNESS ]  𒉆𒌉𒌉𒇲  nam-di4 -di4 -la2  "smallness" 
+>>>  nam-diĝir  
+ namdiĝir  [ DIVINITY ]  𒉆𒀭  nam-diĝir  "divinity" 
+>>>  nam-dub  
+ namdub  [ WRITING ]  𒉆𒁾  nam-dub  "writing" 
+>>>  nam-dub3 -sa  
+ namdubsa  [ COMPANIONSHIP ]  𒉆𒄭𒊓  nam-dub3 -sa  "companionship, friendship" 
+>>>  nam-dub-sar  
+ namdubsar  [ THE SCRIBAL ARTS ]  𒉆𒁾𒊬  nam-dub-sar  "the scribal arts" Akk.  ţupšarrūtu 
+>>>  nam-dumu  
+ namdumu  [ STATUS ]  𒉆𒌉  nam-dumu  "status as son" 
+>>>  nam-dumu-ĝir15  
+ namdumuĝir  [ STATUS ]  𒉆𒌉𒂠  nam-dumu-ĝir15  "citizen status" 
+>>>  nam-dumu-munus  
+ namdumumunus  [ STATUS ]  𒉆𒌉𒊩  nam-dumu-munus  "status as daughter" 
+>>>  nam-dumu-nun-na  
+ namdumununa  [ ~PRINCE ]  𒉆𒌉𒉣𒈾  nam-dumu-nun-na  "the status of being son of the prince" 
+>>>  nam-dumu-zi  
+ namdumuzi  [ CHILD-DELIVERING? ]  𒉆𒌉𒍥  nam-dumu-zi  "child-delivering" 
+>>>  nam-dun  
+ namdun  [ DIGGING ]  𒉆𒂄  nam-dun  "digging" 
+>>>  na-me  
+ name  [ SOMEBODY ]  𒈾𒈨  na-me  "somebody" Akk.  mamma 
+>>>  nam-egir3  
+ namegir  [ LADYSHIP ]  𒉆𒊩𒂠  nam-egir3  "ladyship" 
+>>>  nam-egir3 -zid  
+ namegirzid  [ PRIESTHOOD ]  𒉆𒊩𒂠𒍥  nam-egir3 -zid  "the office of egirzid-priest" 
+>>>  nam-eme-di  
+ namemedi  [ BLUNTNESS ]  𒉆𒅴𒁲  nam-eme-di  "bluntness" 
+>>>  nam-eme-sig  
+ namemesig  [ FALSE SPEECH ]  𒉆𒅴𒋝  nam-eme-sig  "false speech" Akk.  ? 
+>>>  nam-en  
+ namen  [ PRIESTHOOD ]  𒉆𒂗  nam-en  "the office of en-priest; kingship" Akk.  enūtu; bēlūtu 
+>>>  nam-engar  
+ namengar  [ FARMING ]  𒉆𒀳  nam-engar  "farming" 
+>>>  nam2 -engar  
+ namengar  [ OFFICIAL ]  𒉇𒀳  nam2 -engar  "an official" 
+>>>  nam- d en-lil2  
+ namenlil  [ SOVEREIGNTY ]  𒉆𒀭𒂗𒆤  nam- d en-lil2  "cosmic sovereignty" 
+>>>  nam- d en-lil2 -banda3 da  
+ namenlilbanda  [ STATUS ]  𒉆𒀭𒂗𒆤𒌉𒁕  nam- d en-lil2 -banda3 da  "a cosmic status" 
+>>>  nam-en-nu-uĝ3  
+ namennuĝ  [ SAFE-KEEPING ]  𒉆𒂗𒉡𒌦  nam-en-nu-uĝ3  "safe-keeping" 
+>>>  nam-ensi2  
+ namensik  [ OFFICE OF RULER ]  𒉆𒉺𒋼𒋛  nam-ensi2  "office of ruler" 
+>>>  nam-ereš-a  
+ namereš  [ LADYSHIP ]  𒉆𒎏𒀀  nam-ereš-a  "ladyship" 
+>>>  nam-ereš-diĝir  
+ namerešdiĝir  [ PRIESTHOOD ]  𒉆𒎏𒀭  nam-ereš-diĝir  "office of the erešdiĝir-priestess" Akk.  ? 
+>>>  nam-erim3  
+ namerim  [ STORAGE ]  𒉆𒌿  nam-erim3  "storage" 
+>>>  nam-erin2  
+ namerin  [ FIELD-WORKING ]  𒉆𒂟  nam-erin2  "field-working" 
+>>>  nam-ga-eš8  
+ namga'eš  [ TRADE ]  𒉆𒂵𒆜  nam-ga-eš8  "sea trade" 
+>>>  nam-ga-kur9 -ra  
+ namgakura  [ ENTRANCE ]  𒉆𒂵𒆭𒊏  nam-ga-kur9 -ra  "entrance" 
+>>>  nam-gal  
+ namgal  [ GREATNESS ]  𒉆𒃲  nam-gal  "greatness" 
+>>>  nam-gala  
+ namgala  [ ~LITURGY ]  𒉆𒍑𒆪  nam-gala  "the art of lamentation singing" Akk.  kalûtu 
+>>>  nam-galam  
+ namgalam  [ SKILLFULLNESS ]  𒉆𒃴  nam-galam  "skillfullness" 
+>>>  nam-gal-an-zu  
+ namgalanzu  [ WISDOM ]  𒉆𒃲𒀭𒍪  nam-gal-an-zu  "wisdom" 
+>>>  nam-gašam  
+ namgašam  [ CRAFTSMANSHIP ]  𒉆𒉣𒈨𒋳  nam-gašam  "craftsmanship" 
+>>>  nam-geme2  
+ namgeme  [ ~WORKER ]  𒉆𒊩𒆳  nam-geme2  "status as slave woman" 
+>>>  nam-gilim-ma  
+ namgilima  [ DESTRUCTION ]  𒉆𒄃𒈠  nam-gilim-ma  "destruction" 
+>>>  nam-gi4 -me-eš3 ;  nam-gi4 -me-a-aš ;  nam-gi4 -me-aš  
+ namgimeš  [ COLLEAGUE ]  𒉆𒄄𒈨𒀊;𒉆𒄄𒈨𒀀𒀸;𒉆𒄄𒈨𒀸  nam-gi4 -me-eš3 ;  nam-gi4 -me-a-aš ;  nam-gi4 -me-aš  "status of colleague" 
+>>>  nam-gir5  
+ namgir  [ STRANGER ]  𒉆𒁽  nam-gir5  "status as stranger" 
+>>>  nam-gu7  
+ namgu  [ EATING ]  𒉆𒅥  nam-gu7  "eating" 
+>>>  nam-gu2  
+ namgu  [ OPPRESSION ]  𒉆𒄘  nam-gu2  "oppression" 
+>>>  nam-gudug  
+ namgudug  [ PRIESTHOOD ]  𒉆𒄴𒈨  nam-gudug  "office of gudug-priest" 
+>>>  nam-gu2 -ga ;  nam-gu2 -ka ;  nam-gu2 -|KA×X|  
+ namgukak  [ SUBMISSION ]  𒉆𒄘𒂵;𒉆𒄘𒅗;𒉆𒄘𒅗·HU  nam-gu2 -ga ;  nam-gu2 -ka ;  nam-gu2 -|KA×X|  "submission" 
+>>>  nam-gu-la  
+ namgula  [ GREATNESS ]  𒉆𒄖𒆷  nam-gu-la  "greatness" 
+>>>  nam-gu5 -li  
+ namguli  [ FRIENDSHIP ]  𒉆𒆪𒇷  nam-gu5 -li  "friendship" 
+>>>  nam-gur4  
+ namgur  [ THICKNESS ]  𒉆𒆸  nam-gur4  "thickness" Akk.  narbû 
+>>>  nam-gu3 -rah2  
+ namgurah  [ SHOUTING ]  𒉆𒅗𒊏  nam-gu3 -rah2  "shouting" 
+>>>  nam-gu-za-la2  
+ namguzala  [ THRONE-BEARER ]  𒉆𒄖𒍝𒇲  nam-gu-za-la2  "office of throne-bearer" 
+>>>  nam-ĝa2 -nun  
+ namĝanun  [ STORAGE ]  𒉆𒂷𒉣  nam-ĝa2 -nun  "storage" 
+>>>  nam-ĝarza2  
+ namĝarza  [ OFFICE ]  𒉆𒉺𒈗  nam-ĝarza2  "office" 
+>>>  nam-ĝeš2  
+ namĝeš  [ GROUP OF60 ]  𒉆𒄑  nam-ĝeš2  "group of60" 
+>>>  nam-ĝitlam x (|SAL.UŠ.DAM|)  
+ namĝitlam  [ MARRIAGE ]  𒉆ĝitlam·(𒊩𒍑𒁮)  nam-ĝitlam x (|SAL.UŠ.DAM|)  "marriage status, status as husband" 
+>>>  nam-ĝuruš  
+ namĝuruš  [ MANLINESS ]  𒉆𒆗  nam-ĝuruš  "manliness" 
+>>>  nam-he2 ;  nam-he  
+ namhe  [ ABUNDANCE ]  𒉆𒃶;𒉆𒄭  nam-he2 ;  nam-he  "abundance" 
+>>>  nam-he2 -ĝal2  
+ namheĝal  [ ABUNDANCE ]  𒉆𒃶𒅅  nam-he2 -ĝal2  "abundance" 
+>>>  nam-hi-li  
+ namhili  [ CHARM ]  𒉆𒄭𒇷  nam-hi-li  "charm" 
+>>>  nam-hub2 -dar  
+ namhubdar  [ RUNNING ]  𒉆𒄸𒁯  nam-hub2 -dar  "running" 
+>>>  nam-ia  
+ namia  [ GROUP OF5 ]  𒉆𒐊  nam-ia  "group of5" 
+>>>  nam-ibila  
+ namibila  [ HEIR ]  𒉆𒌉 𒍑  nam-ibila  "the status of heir" 
+>>>  nam-i3 -du8  
+ namidu  [ STATUS ]  𒉆𒉌𒂃  nam-i3 -du8  "status as doorkeeper" 
+>>>  nam-igi-ĝal2  
+ namigiĝal  [ INSIGHT ]  𒉆𒅆𒅅  nam-igi-ĝal2  "insight" 
+>>>  nam2 -iri  
+ namiri  [ OFFICIAL ]  𒉇𒌷  nam2 -iri  "an official" 
+>>>  nam-išib  
+ namišib  [ PRIESTHOOD ]  𒉆𒈨  nam-išib  "office of išib-priest" 
+>>>  nam-kar-kid  
+ namkarkid  [ PROSTITUTION ]  𒉆𒋼𒀀𒆤  nam-kar-kid  "prostitution" 
+>>>  nam-kiri3 -šu-du3 -a  
+ namkirišudua  [ HOMAGE ]  𒉆𒅗𒋗𒆕𒀀  nam-kiri3 -šu-du3 -a  "homage" 
+>>>  nam-kisal-luh  
+ namkisalluh  [ ~SWEEPER ]  𒉆𒆦𒈛  nam-kisal-luh  "position as courtyard sweeper" 
+>>>  nam-ki-sikil  
+ namkisikil  [ WOMAN ]  𒉆𒆠𒂖  nam-ki-sikil  "status as a young woman" 
+>>>  nam-kud-kud-ra2  
+ namkudkudra  [ LAMENESS ]  𒉆𒋻𒋻𒁺  nam-kud-kud-ra2  "lameness" 
+>>>  nam-kug-sig17  
+ namkugsig  [ GOLD ]  𒉆𒆬𒄀  nam-kug-sig17  "status of gold" 
+>>>  nam-kug-zu  
+ namkugzu  [ WISDOM ]  𒉆𒆬𒍪  nam-kug-zu  "wisdom" 
+>>>  nam-ku3 -ĝal2 ;  nam-ku5 -ĝal2  
+ namkuĝal  [ IRRIGATION CONTROL ]  𒉆𒆬𒅅;𒉆𒋻𒅅  nam-ku3 -ĝal2 ;  nam-ku5 -ĝal2  "irrigation control" 
+>>>  nam-lagar  
+ namlagar  [ PRIESTHOOD ]  𒉆𒇬  nam-lagar  "office of lagar-Priest" 
+>>>  nam-lu2  
+ namlu  [ PERSON ]  𒉆𒇽  nam-lu2  "status as a person" 
+>>>  nam-lu2 -bappir  
+ namlubappir  [ ~BREWER ]  𒉆𒇽𒋋  nam-lu2 -bappir  "position as brewer" 
+>>>  nam-lugal  
+ namlugal  [ KINGSHIP ]  𒉆𒈗  nam-lugal  "kingship" 
+>>>  nam-lu2 -inim-ma  
+ namlu'inimak  [ WITNESS ]  𒉆𒇽𒅗𒈠  nam-lu2 -inim-ma  "status of witness" 
+>>>  nam-lukur  
+ namlukur  [ CONCUBINAGE ]  𒉆|SAL.ME|  nam-lukur  "concubinage" 
+>>>  nam-lukur  
+ namlukur  [ PRIESTHOOD ]  𒉆|SAL.ME|  nam-lukur  "office of lukur-priestess" 
+>>>  nam-lu2 -kurun-na  
+ namlukurunak  [ BREWER ]  𒉆𒇽𒁷𒈾  nam-lu2 -kurun-na  "craft of the brewer" 
+>>>  nam-lul  
+ namlul  [ TREACHERY ]  𒉆𒈜  nam-lul  "treachery" 
+>>>  nam-lu2 -lu7  
+ namlulu  [ HUMANITY ]  𒉆𒇽𒍇  nam-lu2 -lu7  "humanity" Akk.  awilūtu 
+>>>  nam-lu2 -mah  
+ namlumah  [ PRIESTHOOD ]  𒉆𒇽𒈤  nam-lu2 -mah  "office of lumah" 
+>>>  nam-lu2 -niĝ2 -dab-ba  
+ namlunindaba  [ FUNCTION ]  𒉆𒇽𒃻𒁳𒁀  nam-lu2 -niĝ2 -dab-ba  "a cultic function" 
+>>>  nam-lu2 -tur  
+ namlutur  [ CHILD ]  𒉆𒇽𒌉  nam-lu2 -tur  "the status of child" 
+>>>  nam-mah  
+ nammah  [ GREATNESS ]  𒉆𒈤  nam-mah  "greatness" Akk.  narbû 
+>>>  nam-ma3 -la  
+ nammala  [ FRIENDLINESS ]  𒉆𒂷𒆷  nam-ma3 -la  "friendliness" 
+>>>  nam-maškim  
+ nammaškim  [ OFFICE ]  𒉆|PA.DU@s|  nam-maškim  "office of maškim" 
+>>>  nam-maš-maš  
+ nammašmaš  [ SORCERY ]  𒉆𒈦𒈦  nam-maš-maš  "sorcery" 
+>>>  nam-men  
+ nammen  [ LORDSHIP ]  𒉆𒃞  nam-men  "lordship" 
+>>>  nam-munus  
+ nammunus  [ FEMININITY ]  𒉆𒊩  nam-munus  "femininity" 
+>>>  nam-nagar  
+ namnagar  [ CARPENTRY ]  𒉆𒉄  nam-nagar  "carpentry" 
+>>>  nam-nar  
+ namnar  [ MUSICIANSHIP ]  𒉆𒈜  nam-nar  "musicianship" 
+>>>  nam-NE.RU  
+ namNERU  [ OATH ]  𒉆𒉈𒊒  nam-NE.RU  "oath" Akk.  māmītu 
+>>>  nam-NE.RU kud  
+ namNERU kud  [ SWEAR ]  𒉆𒉈𒊒𒋻  nam-NE.RU kud  "to swear" Akk.  tamû 
+>>>  nam-niĝir  
+ namniĝir  [ HERALD ]  𒉆DUN₃@g@g  nam-niĝir  "office of herald" 
+>>>  nam-niĝ2 -NE.RU  
+ namniĝNERU  [ WICKEDNESS ]  𒉆𒃻𒉈𒊒  nam-niĝ2 -NE.RU  "wickedness" 
+>>>  nam-niĝ2 -si-sa2  
+ namniĝsisa  [ RIGHTEOUSNESS ]  𒉆𒃻𒋛𒁲  nam-niĝ2 -si-sa2  "righteousness" 
+>>>  nam-nin ;  na-aĝ2 -ga-ša-an ;  nam-ga-ša-an  
+ namnin  [ LADYSHIP ]  𒉆𒎏;𒈾𒉘𒂵𒊭𒀭;𒉆𒂵𒊭𒀭  nam-nin ;  na-aĝ2 -ga-ša-an ;  nam-ga-ša-an  "ladyship" 
+>>>  nam-ninnu  
+ namninnu  [ GROUP OF50 ]  𒉆𒐐  nam-ninnu  "group of50" 
+>>>  nam-nir  
+ namnir  [ SUPREMACY ]  𒉆𒉪  nam-nir  "supremacy" 
+>>>  nam-nir-ĝal2  
+ namnirĝal  [ AUTHORITY ]  𒉆𒉪𒅅  nam-nir-ĝal2  "authority" 
+>>>  nam-NIR.PA  
+ namNIRPA  [ MARRIAGE ]  𒉆𒉪𒉺  nam-NIR.PA  "marriage" 
+>>>  nam-nita  
+ namnita  [ MANHOOD ]  𒉆𒍑  nam-nita  "manhood" 
+>>>  nam-nu-banda3  
+ namnubanda  [ SUPERVISORSHIP ]  𒉆𒉡𒌉  nam-nu-banda3  "supervisorship, position as supervisor" 
+>>>  nam-nu-u8 -gig  
+ namnugig  [ PRIESTHOOD ]  𒉆𒉡𒇇𒍼  nam-nu-u8 -gig  "office of the nugig" Akk.  ? 
+>>>  nam-nun  
+ namnun  [ MAGNIFICENCE ]  𒉆𒉣  nam-nun  "magnificence" 
+>>>  ĝeš nam-nu-tar-re  
+ namnutare  [ ~IRRIGATION ]  𒄑𒉆𒉡𒋻𒊑  ĝeš nam-nu-tar-re  "an irrigation device" 
+>>>  nam-ra2  
+ namra  [ BEHAVIOUR ]  𒉆𒁺  nam-ra2  "behaviour" 
+>>>  nam-ra ;  nam-ra-aš  
+ namra  [ BOOTY ]  𒉆𒊏;𒉆𒊏𒀸  nam-ra ;  nam-ra-aš  "booty" 
+>>>  nam-ra-ak ;  nam-ra-aš-ak ;  ne-ra-ak ;  ne-ra-aš-ak  
+ namra'ak  [ BOOTY ]  𒉆𒊏𒀝;𒉆𒊏𒀸𒀝;𒉈𒊏𒀝;𒉈𒊏𒀸𒀝  nam-ra-ak ;  nam-ra-aš-ak ;  ne-ra-ak ;  ne-ra-aš-ak  "booty" 
+>>>  nam-sag9  
+ namsag  [ PLEASURE ]  𒉆𒊷  nam-sag9  "pleasure" 
+>>>  nam-saĝ  
+ namsaĝ  [ PRIVILEGE ]  𒉆𒊕  nam-saĝ  "privilege" 
+>>>  nam-saĝ-DUN3  
+ namsaĝDUN  [ RECORDER ]  𒉆𒊕𒂅  nam-saĝ-DUN3  "office of land recorder" 
+>>>  nam-sikil  
+ namsikil  [ PURITY ]  𒉆𒂖  nam-sikil  "purity" 
+>>>  nam-silig  
+ namsilig  [ FORCE ]  𒉆𒍂  nam-silig  "force" 
+>>>  nam-simug  
+ namsimug  [ SMITH ]  𒉆𒌣  nam-simug  "the craft of the smith" 
+>>>  nam-sipad  
+ namsipad  [ SHEPHERDSHIP ]  𒉆𒉺𒇻  nam-sipad  "shepherdship" 
+>>>  nam-si-sa2  
+ namsisa  [ RIGHTEOUSNESS ]  𒉆𒋛𒁲  nam-si-sa2  "righteousness" 
+>>>  nam-sukkal  
+ namsukkal  [ OFFICE ]  𒉆𒈛  nam-sukkal  "office of sukkal" 
+>>>  nam-sukkal-mah  
+ namsukkalmah  [ OFFICE ]  𒉆𒈛𒈤  nam-sukkal-mah  "office of sukkalmah" 
+>>>  nam-sumun  
+ namsumun  [ OLD ]  𒉆𒄢  nam-sumun  "old age" 
+>>>  nam-sun7 -na  
+ namsuna  [ ARROGANCE ]  𒉆𒆗𒈾  nam-sun7 -na  "arrogance" 
+>>>  nam-sun5 -na  
+ namsuna  [ HUMILITY ]  𒉆𒁔𒈾  nam-sun5 -na  "humility" 
+>>>  nam-šabra  
+ namšabra  [ ADMINISTRATION ]  𒉆𒉺𒀠  nam-šabra  "office of household administration" 
+>>>  nam-šakan6  
+ namšakkanak  [ GOVERNORSHIP ]  𒉆GIR₃.ARAD  nam-šakan6  "governorship" 
+>>>  nam-ša3 -tam  
+ namšatam  [ ADMINISTRATION ]  𒉆𒊮𒌓  nam-ša3 -tam  "administration" 
+>>>  nam-še-er-ka-an  
+ namšerkan  [ EMBELLISHMENT ]  𒉆𒊺𒅕𒅗𒀭  nam-še-er-ka-an  "embellishment" 
+>>>  nam-šeš  
+ namšeš  [ BROTHERHOOD ]  𒉆𒋀  nam-šeš  "brotherhood" 
+>>>  nam2 -šeš2  
+ namšeš  [ OFFICIAL ]  𒉇𒋁  nam2 -šeš2  "an official" 
+>>>  nam-šeš-gal  
+ namšešgal  [ STATUS ]  𒉆𒋀𒃲  nam-šeš-gal  "status of elder brother; a scribal status" 
+>>>  nam-šidim  
+ namšidim  [ BUILDING ]  𒉆DIM₂  nam-šidim  "the craft of the builder" 
+>>>  nam-šita ;  nam-šita2  
+ namšita  [ PRAYER ]  𒉆𒋖;𒉆|ŠITA₂|  nam-šita ;  nam-šita2  "prayer; entreaty" Akk.  kāribu 
+>>>  nam-šita4  
+ namšita  [ PRIEST ]  𒉆𒌋𒆤  nam-šita4  "a priest" 
+>>>  nam2 - ĝeš šita  
+ namšita  [ RULER ]  𒉇𒄑𒋖  nam2 - ĝeš šita  "ruler" 
+>>>  nam-šita4  
+ namšita  [ WEAPONRY ]  𒉆𒌋𒆤  nam-šita4  "weaponry" 
+>>>  nam-šub  
+ namšub  [ INCANTATION ]  𒉆𒊒  nam-šub  "incantation" Akk.  šiptu 
+>>>  nam-šu-ku6  
+ namšukud  [ FISHING ]  𒉆𒋗𒄩  nam-šu-ku6  "fishing" 
+>>>  nam-šul  
+ namšul  [ MANHOOD ]  𒉆𒂄  nam-šul  "manhood" 
+>>>  nam-tab  
+ namtab  [ PARTNERSHIP ]  𒉆𒋰  nam-tab  "partnership" 
+>>>  nam- lu2 tab-ba  
+ namtaba  [ COMPANIONSHIP ]  𒉆𒇽𒋰𒁀  nam- lu2 tab-ba  "companionship" 
+>>>  nam-tag ;  nam-tag-ga ;  nam-tag2 ;  nam-tag2 -ga  
+ namtaga  [ SIN ]  𒉆𒋳;𒉆𒋳𒂵;𒉆DAG;𒉆DAG𒂵  nam-tag ;  nam-tag-ga ;  nam-tag2 ;  nam-tag2 -ga  "sin" 
+>>>  nam-tag-tag  
+ namtagtag  [ DAMNATION ]  𒉆𒋳𒋳  nam-tag-tag  "damnation" 
+>>>  nam-tar  
+ namtar  [ FATE ]  𒉆𒋻  nam-tar  "sickness; fate, destiny; a  demon" Akk.  murşu ;  namtaru ;  šīmtu 
+>>>  nam-te  
+ namte  [ FEAR ]  𒉆𒋼  nam-te  "fear" 
+>>>  nam-tibira  
+ namtibira  [ SCULPTURE ]  𒉆𒅪  nam-tibira  "sculpture" Akk.  ? 
+>>>  nam-til3 ;  nam-ti-il  
+ namtil  [ LIFE ]  𒉆𒋾;𒉆𒋾𒅋  nam-til3 ;  nam-ti-il  "life" 
+>>>  nam2 -tuku  
+ namtuku  [ OFFICIAL ]  𒉇𒌇  nam2 -tuku  "an official" 
+>>>  nam-u  
+ namu  [ GROUP OF10 ]  𒉆𒌋  nam-u  "group of10" 
+>>>  nam-UG  
+ namUG  [ UNMNG ]  𒉆𒊌  nam-UG  "?" 
+>>>  nam-ugula  
+ namugula  [ ~OVERSEER ]  𒉆𒉺  nam-ugula  "status of overseer" 
+>>>  nam-ugula-e2  
+ namugula'ek  [ ~OVERSEER ]  𒉆𒉺𒂍  nam-ugula-e2  "status of estate-overseer" 
+>>>  nam-ukur3  
+ namukur  [ POVERTY ]  𒉆𒇳𒁺  nam-ukur3  "poverty" 
+>>>  nam-um-ma  
+ namumma  [ AGEDNESS ]  𒉆𒌝𒈠  nam-um-ma  "status as old woman" 
+>>>  nam2 -umuš  
+ namumuš  [ OFFICIAL ]  𒉇TUG₂  nam2 -umuš  "an official" 
+>>>  nam-ur-saĝ  
+ namursaĝ  [ HEROISM ]  𒉆𒌨𒊕  nam-ur-saĝ  "heroism" 
+>>>  nam-uru17 ru  
+ namurun  [ EXALTEDNESS ]  𒉆𒍇𒊒  nam-uru17 ru  "exaltedness" 
+>>>  nam-urunx(EN)-na  
+ namuruna  [ ~HERD ]  𒉆EN(𒂗)𒈾  nam-urunx(EN)-na  "a designation of a herd" 
+>>>  nam-usar  
+ namusar  [ NEIGHBORLINESS ]  𒉆|LAL₂.SAR|  nam-usar  "neighborliness" 
+>>>  nam-uš2  
+ namuš  [ DEATH ]  𒉆𒍗  nam-uš2  "death; epidemic" Akk.  mūtānu ;  mūtu 
+>>>  nam-ušbar  
+ namušbar  [ IN-LAW STATUS ]  𒉆|UR₂×NUN|  nam-ušbar  "status of father-in-law" 
+>>>  nam-u2 -zug4  
+ namuzug  [ POLLUTEDNESS ]  𒉆𒌑|KA×LI|  nam-u2 -zug4  "pollutedness" 
+>>>  nam-zag-dib  
+ namzagdib  [ EXCELLENCE ]  𒉆𒍠𒁳  nam-zag-dib  "excellence" 
+>>>  urud nam-za-qum  
+ namzaqum  [ KEY ]  U+1234F𒉆𒍝𒄣  urud nam-za-qum  "key" Akk.  namzaqu 
+>>>  nam-zil-zil  
+ namzilzil  [ PLEASANTNESS ]  𒉆𒉣𒉣  nam-zil-zil  "pleasantness" 
+>>>  nam-zu  
+ namzu  [ WISDOM ]  𒉆𒍪  nam-zu  "wisdom" 
+>>>  nam-zu2 -keš2  
+ namzukešed  [ RENTAL ]  𒉆𒅗𒆟  nam-zu2 -keš2  "rental" 
+>>>  na-nam  
+ nanam  [ CONSENT ]  𒈾𒉆  na-nam  "consent, assent; to consent" Akk.  annu 
+>>>  na-ap-ta2 -num2 ;  na-ap-ta2 -nu-um ;  na-ap-ta-num ;  na-ap-ta-nu-um ;  na-ap-ta-num2 ;  na-ap-ta2 -num  
+ naptanum  [ MEAL ]  𒈾𒀊DA𒈝;𒈾𒀊DA𒉡𒌝;𒈾𒀊𒋫𒉏;𒈾𒀊𒋫𒉡𒌝;𒈾𒀊𒋫𒈝;𒈾𒀊DA𒉏  na-ap-ta2 -num2 ;  na-ap-ta2 -nu-um ;  na-ap-ta-num ;  na-ap-ta-nu-um ;  na-ap-ta-num2 ;  na-ap-ta2 -num  "meal, banquet" 
+>>>  nar  
+ nar  [ MUSICIAN ]  𒈜  nar  "musician; singer" Akk.  nāru 
+>>>  nar-gal  
+ nargal  [ MUSICIAN ]  𒈜𒃲  nar-gal  "musician" 
+>>>  na-ri  
+ nari  [ CANAL? ]  𒈾𒊑  na-ri  "canal?" 
+>>>  na-ru2 -a ;  na-ru  
+ narua  [ STELE ]  𒈾KAK𒀀;𒈾𒊒  na-ru2 -a ;  na-ru  "stele" Akk.  narû 
+>>>  na-aš2 -ba-ru-um ;  na-aš2 -ba-rum ;  tug2 na-aš2 -pa2 -ru-um  
+ našparum  [ GARMENT ]  𒈾𒀾𒁀𒊒𒌝;𒈾𒀾𒁀𒀸;𒌆𒈾𒀾𒁀𒊒𒌝  na-aš2 -ba-ru-um ;  na-aš2 -ba-rum ;  tug2 na-aš2 -pa2 -ru-um  "a garment" Akk.  našparu 
+>>>  na4 -šu-gul-gul  
+ našugulgul  [ MILLSTONE ]  𒎎𒋗𒄢𒄢  na4 -šu-gul-gul  "lower millstone" 
+>>>  ne  
+ ne  [ BRAZIER ]  𒉈  ne  "brazier" Akk.  kinūnu 
+>>>  ne  
+ ne  [ CVNE ]  𒉈  ne  "(compound verb nominal element)" 
+>>>  ne3  
+ ne  [ STRENGTH ]  𒊊  ne3  "strength; force" Akk.  emūqu 
+>>>  NE mušen  
+ NE  [ BIRD ]  𒉈𒄷  NE mušen  "type of bird" 
+>>>  NE  
+ NE  [ ~SILVER ]  𒉈  NE  "designation of silver" 
+>>>  ĝeš NE  
+ NE  [ ~TREE ]  𒄑𒉈  ĝeš NE  "a designation of trees" 
+>>>  ne su-ub ;  še su-ub  
+ ne sub  [ KISS ]  𒉈𒋢𒌒;𒊺𒋢𒌒  ne su-ub ;  še su-ub  "to kiss" Akk.  našāqu 
+>>>  NE-a-ša3 -ga  
+ NE.ašaga  [ BOIL ]  𒉈𒀀𒊮𒂵  NE-a-ša3 -ga  "a boil" 
+>>>  NE-DU-DU  
+ NEDUDU  [ CRUCIBLE ]  𒉈𒁺𒁺  NE-DU-DU  "crucible" Akk.  muttalliku 
+>>>  še NE.GI.BAR ;  NE.GI.BAR  
+ NEGIBAR  [ GRAIN? ]  𒊺𒉈𒄀𒁇;𒉈𒄀𒁇  še NE.GI.BAR ;  NE.GI.BAR  "a grain?" 
+>>>  ne-gi-pu-um  
+ negipum  [ TOOL ]  𒉈𒄀𒁍𒌝  ne-gi-pu-um  "a tool or container" Akk.  nēkepu 
+>>>  NE-gu7  
+ NEgu  [ WASTAGE ]  𒉈𒅥  NE-gu7  "wastage" Akk.  ? 
+>>>  ne3 -ĝal2 ;  ne-ĝal2  
+ neĝal  [ MIGHTY ]  𒊊𒅅;𒉈𒅅  ne3 -ĝal2 ;  ne-ĝal2  "mighty" 
+>>>  ne-ha  
+ neha  [ CALM ]  𒉈𒄩  ne-ha  "calm, peace" Akk.  nēhtu 
+>>>  ĝeš NE-ha-an  
+ NEhan  [ TREE ]  𒄑𒉈𒄩𒀭  ĝeš NE-ha-an  "type of tree" 
+>>>  nemur x (|PIRIG.TUR|) ;  ĝeš nemur x (|PIRIG.TUR|)  
+ nemur  [ LEOPARD ]  |PIRIG.TUR|(𒊊𒌉);𒄑|PIRIG.TUR|(𒊊𒌉)  nemur x (|PIRIG.TUR|) ;  ĝeš nemur x (|PIRIG.TUR|)  "leopard" Akk.  nimru 
+>>>  ne ;  ne-en ;  ne-e  
+ nen  [ THIS ]  𒉈;𒉈𒂗;𒉈𒂊  ne ;  ne-en ;  ne-e  "this" 
+>>>  ne-nam  
+ nenam  [ SO ]  𒉈𒉆  ne-nam  "so; thus" Akk.  kīam 
+>>>  nenkum  
+ nenkum  [ OFFICIAL ]  |SAL.TUG₂.PAP.IGI@g.NUN.ME.EZEN×KASKAL|  nenkum  "a temple official" Akk.  ninkummu 
+>>>  NE.RU  
+ NERU  [ ENEMY ]  𒉈𒊒  NE.RU  "enemy; (to be) wicked, villainous" Akk.  ayyābu ;  raggu 
+>>>  NE.RU-du  
+ NERUdu  [ HOSTILE ]  𒉈𒊒𒁺  NE.RU-du  "hostile" 
+>>>  NE.RU-ĝal2  
+ NERUĝal  [ WICKED ]  𒉈𒊒𒅅  NE.RU-ĝal2  "wicked" 
+>>>  nesaĝ2 ;  ne-saĝ ;  nesaĝ ;  niĝ2 -saĝ  
+ nesaĝ  [ OFFERING ]  𒋃;𒉈𒊕;𒋃;𒃻𒊕  nesaĝ2 ;  ne-saĝ ;  nesaĝ ;  niĝ2 -saĝ  "first-fruit offering; a storage place" Akk.  nisakku ;  nisannu 
+>>>  NE.ŠE3  
+ NEŠE  [ ~BODY ]  𒉈𒂠  NE.ŠE3  "a part of the body" 
+>>>  ni2 mušen  
+ ni  [ BIRD ]  𒉎𒄷  ni2 mušen  "a bird" 
+>>>  ni2 ;  e ;  ne4  
+ ni  [ FEAR ]  𒉎;𒂊;|ŠU₂.NE|  ni2 ;  e ;  ne4  "fear, aura" Akk.  puluhtu 
+>>>  ni2  
+ ni  [ SELF ]  𒉎  ni2  "self" Akk.  ramānu 
+>>>  NI  
+ NI  [ ~NET ]  𒉌  NI  "a designation of nets" 
+>>>  ni2  buluĝ5  
+ ni buluĝ  [ BOAST ]  𒉎𒁆  ni2  buluĝ5  "to boast" Akk.  ? 
+>>>  ni2  dub2  
+ ni dub  [ RELAX ]  𒉎𒂀  ni2  dub2  "to relax" Akk.  napāšu ;  pašāhu 
+>>>  ni2  gal gur3  
+ ni gal gur  [ AWESOME ]  𒉎𒃲𒅍  ni2  gal gur3  "to be clad in awesome luminosity" Akk.  namrirrī našû 
+>>>  ni2  gid2  
+ ni gid  [ STRETCH ]  𒉎𒁍  ni2  gid2  "to stretch oneself?" Akk.  ? 
+>>>  ni2  gur3  
+ ni gur  [ AWESOME ]  𒉎𒅍  ni2  gur3  "to be clad in awesome luminosity" Akk.  ? 
+>>>  ni2  gur4  
+ ni gur  [ PROUD ]  𒉎𒆸  ni2  gur4  "to feel proud" Akk.  ? 
+>>>  ni2  huš gur3  
+ ni huš gur  [ AWESOME ]  𒉎𒄭𒄊𒅍  ni2  huš gur3  "to be clad in awesome luminosity" Akk.  rašubbatu našû 
+>>>  ni2  il2  
+ ni il  [ RISE ]  𒉎𒅍  ni2  il2  "to rise high" Akk.  šaqû 
+>>>  ni2  kar2 -kar2  
+ ni karkar  [ CIRCLE ]  𒉎𒃸𒃸  ni2  kar2 -kar2  "to circle around" Akk.  ? 
+>>>  ni2  RI  
+ ni RI  [ FRIGHTEN ]  𒉎𒊑  ni2  RI  "to inspire fear" Akk.  puluhta ramû 
+>>>  ni2  sig10  
+ ni sig  [ PLOT ]  𒉎𒋧  ni2  sig10  "to plot" Akk.  şummuru 
+>>>  ni2  teĝ3  
+ ni teĝ  [ FEAR ]  𒉎𒋼  ni2  teĝ3  "to fear, to become afraid" Akk.  palāhu ;  šahātu 
+>>>  ni2  te-en  
+ ni ten  [ COOL ]  𒉎𒋼𒂗  ni2  te-en  "to cool off" Akk.  ? 
+>>>  ni2  ur4  
+ ni ur  [ SCARED ]  𒉎𒌴  ni2  ur4  "to be scared" Akk.  arāru 
+>>>  NI-a sar  
+ NIa  [ PLANT ]  𒉌𒀀𒊬  NI-a sar  "a plant" 
+>>>  ni2 mušen  
+ nidib  [ BIRD ]  𒉎𒄷  ni2 mušen  "a bird" 
+>>>  nig  
+ nig  [ BITCH ]  𒊩𒌨  nig  "female dog; lioness" Akk.  kalbatu ;  nēštu 
+>>>  ĝeš nig ;  kuš nig  
+ nig  [ PLOW ]  𒄑𒊩𒌨;𒋢𒊩𒌨  ĝeš nig ;  kuš nig  "a part of a plow" Akk.  kalbatu ;  kurussu ša epinni 
+>>>  niga ;  niĝ2 -gu7 -a  
+ niga  [ FATTENED ]  𒊺;𒃻𒅥𒀀  niga ;  niĝ2 -gu7 -a  "(to be) fattened" Akk.  marû 
+>>>  ni2 -gal  
+ nigal  [ RADIANCE ]  𒉎𒃲  ni2 -gal  "awe-inspiring radiance" Akk.  namrīru ;  namurratu 
+>>>  ni-gi4 -ib2  
+ nigib  [ RESIN ]  𒉌𒄄𒌈  ni-gi4 -ib2  "a resin, perhaps spurge" Akk.  nikiptu 
+>>>  ni-gi4 -tum  
+ nigitum  [ RESIN ]  𒉌𒄄𒌈  ni-gi4 -tum  "a resin" Akk.  ? 
+>>>  nigru  
+ nigru  [ CHARMER ]  |KA×AD+KU₃|  nigru  "snake charmer" Akk.  mušlahhu 
+>>>  ni2 -gu7 -gu7 ku6  
+ nigugu  [ FISH ]  𒉎𒅥𒅥𒄩  ni2 -gu7 -gu7 ku6  "a fish" 
+>>>  niĝ2 ;  aĝ2  
+ niĝ  [ THING ]  𒃻;𒉘  niĝ2 ;  aĝ2  "thing, possesion; something" Akk.  bušu ;  mimma 
+>>>  niĝ2 -a2 -ĝar  
+ niĝaĝar  [ DECEPTION ]  𒃻𒀉𒃻  niĝ2 -a2 -ĝar  "deception" 
+>>>  niĝ2 -ak ;  niĝ2 -ak-ak  
+ niĝak  [ MAGIC ]  𒃻𒀝;𒃻𒀝𒀝  niĝ2 -ak ;  niĝ2 -ak-ak  "magic" Akk.  kišpu 
+>>>  ni2 -ĝal2  
+ niĝal  [ AWE-INSPIRING ]  𒉎𒅅  ni2 -ĝal2  "awe-inspiring" 
+>>>  niĝ2 -al-di  
+ niĝaldi  [ REQUEST ]  𒃻𒀠𒁲  niĝ2 -al-di  "request" Akk.  erištu 
+>>>  u2 niĝ2 -ama-ni  
+ niĝamani  [ PLANT ]  𒌑𒃻𒂼 Mama : mother!!𒉌  u2 niĝ2 -ama-ni  "a plant" 
+>>>  niĝar ;  niĝar ĝar  
+ niĝar  [ CELLA ]  |U.UD.KID|;|U.UD.KID|𒃻  niĝar ;  niĝar ĝar  "cella, shrine" Akk.  kummu 
+>>>  niĝ2 -ar3 -ra  
+ niĝara  [ GROATS ]  𒃻𒄯𒊏  niĝ2 -ar3 -ra  "groats" Akk.  mundu 
+>>>  niĝ2 -a2 -tak4 -a  
+ niĝataka  [ OINTMENT ]  𒃻𒀉𒋺𒀀  niĝ2 -a2 -tak4 -a  "ointment" Akk.  tēqītu 
+>>>  niĝ2 -a2 -zig3  
+ niĝazig  [ VIOLENCE ]  𒃻𒀉𒍣  niĝ2 -a2 -zig3  "malevolent; violent action" Akk.  şenu 
+>>>  niĝ2 -ba  
+ niĝba  [ GIFT ]  𒃻𒁀  niĝ2 -ba  "gift" Akk.  qīštu 
+>>>  niĝ2 -bal-bal  
+ niĝbalbal  [ CROSSING ]  𒃻𒁄𒁄  niĝ2 -bal-bal  "crossing" 
+>>>  niĝ2 -banda3 da  
+ niĝbanda  [ UNIT ]  𒃻𒌉𒁕  niĝ2 -banda3 da  "a unit of measurement" 
+>>>  niĝ2 -barag2  
+ niĝbarag  [ QUILT ]  𒃻𒁖  niĝ2 -barag2  "quilt" 
+>>>  ĝeš niĝ2 -bar-sur  
+ niĝbarsur  [ TOOL ]  𒄑𒃻𒁇𒁍  ≈ 𒄮 SUR3  ĝeš niĝ2 -bar-sur  "a fuller's tool" Akk.  mazūru 
+>>>  niĝ2 -bi-lal3  
+ niĝbilal  [ SCABIES ]  𒃻𒁉𒋭  niĝ2 -bi-lal3  "scabies" 
+>>>  niĝ2 -bun2 -na ;  še-en-bun2 -na  
+ niĝbuna  [ TURTLE ]  𒃻𒅮𒈾;𒊺𒂗𒅮𒈾  niĝ2 -bun2 -na ;  še-en-bun2 -na  "turtle" Akk.  šeleppû 
+>>>  u2 niĝ2 -buru3 -buru3 -de3  
+ niĝburuburude  [ PLANT ]  𒌑𒃻UU𒉈  u2 niĝ2 -buru3 -buru3 -de3  "type of plant" 
+>>>  niĝ2 -dab5  
+ niĝdab  [ REQUISITIONS ]  𒃻𒆪  niĝ2 -dab5  "requisitioned items" 
+>>>  dug niĝ2 -daĝal  
+ niĝdaĝal  [ POT ]  𒂁𒃻𒂼  dug niĝ2 -daĝal  "a pot" Akk.  rību 
+>>>  niĝ2 -daĝal-la ;  niĝ2 -daĝal ;  niĝ2 -dam-gal  
+ niĝdaĝala  [ VASTNESS ]  𒃻𒂼𒆷;𒃻𒂼;𒃻𒁮𒃲  niĝ2 -daĝal-la ;  niĝ2 -daĝal ;  niĝ2 -dam-gal  "vastness" 
+>>>  tug2 nig2 -dara2  
+ niĝdara  [ RAG ]  𒌆𒃻𒅁  tug2 nig2 -dara2  "rag, sanitary towel" Akk.  ulāpu 
+>>>  niĝ2 -de2 -a  
+ niĝdea  [ GIFT ]  𒃻𒌤𒀀  niĝ2 -de2 -a  "marriage gift" Akk.  biblu 
+>>>  urud niĝ2 -de2 -a  
+ niĝdea  [ MOULD ]  U+1234F𒃻𒌤𒀀  urud niĝ2 -de2 -a  "mould" Akk.  pitqu 
+>>>  niĝ2 -DI  
+ niĝDI  [ BEHAVIOR? ]  𒃻𒁲  niĝ2 -DI  "behavior?" 
+>>>  niĝ2 -dim2  
+ niĝdim  [ OBJECT ]  𒃻𒁶  niĝ2 -dim2  "object" 
+>>>  urud niĝ2 -dim2 -dim2  
+ niĝdimdim  [ FORM ]  U+1234F𒃻𒁶𒁶  urud niĝ2 -dim2 -dim2  "manufactured object; physical form, shape" Akk.  ni(g)dimdimmû 
+>>>  niĝ2 -dim2 -dim2 -ma  
+ niĝdimdima  [ MAGIC ]  𒃻𒁶𒁶𒈠  niĝ2 -dim2 -dim2 -ma  "magical procedures" Akk.  upšašû 
+>>>  urud niĝ2 -dim2 -gul  
+ niĝdimgul  [ BOLT ]  U+1234F𒃻𒁶𒄢  urud niĝ2 -dim2 -gul  "bolt" 
+>>>  niĝ2 -dim2 -gul  
+ niĝdimgul  [ RECKLESSNESS ]  𒃻𒁶𒄢  niĝ2 -dim2 -gul  "recklessness" Akk.  rešû 
+>>>  niĝ2 -dirig  
+ niĝdirig  [ EXTRA ]  𒃻𒋛𒀀  niĝ2 -dirig  "extra, additional things; a type of offering" Akk.  ? 
+>>>  niĝ2 -du7  
+ niĝdu  [ APPROPRIATE THING ]  𒃻𒌌  niĝ2 -du7  "that which is appropriate" 
+>>>  niĝ2 -du3  
+ niĝdu  [ STRING ]  𒃻𒆕  niĝ2 -du3  "string (of fruit)" 
+>>>  niĝ2 -DU  
+ niĝDU  [ DELIVERY ]  𒃻𒁺  niĝ2 -DU  "delivery" 
+>>>  tug2 niĝ2 -du8 -ĜIŠ-ga  
+ niĝdu.GIŠ.ga  [ GARMENT ]  𒌆𒃻𒂃𒄑𒂵  tug2 niĝ2 -du8 -ĜIŠ-ga  "a garment" 
+>>>  niĝ2 -dug3  
+ niĝdug  [ GOOD THING ]  𒃻𒄭  niĝ2 -dug3  "that which is good, well-being; sweet" 
+>>>  niĝ2 -dug4 -ga  
+ niĝduga  [ SPEECH ]  𒃻𒅗𒂵  niĝ2 -dug4 -ga  "speech" 
+>>>  niĝ2 -dug4 -dug4  
+ niĝdugdug  [ SPEECH ]  𒃻𒅗𒅗  niĝ2 -dug4 -dug4  "speech" 
+>>>  niĝ2 -dun  
+ niĝdun  [ PROSTRATION ]  𒃻𒂄  niĝ2 -dun  "prostration" 
+>>>  niĝ2 -dur2 -buru3  
+ niĝdurburu  [ VAT ]  𒃻𒂉U  niĝ2 -dur2 -buru3  "fermenting vat" 
+>>>  niĝ2 -en-na  
+ niĝena  [ PROPERTY ]  𒃻𒂗𒈾  niĝ2 -en-na  "a type of (landed) property" Akk.  ? 
+>>>  niĝ2 - e LAK173  
+ niĝesir  [ SANDAL ]  𒃻𒂊¿  niĝ2 - e LAK173  "sandal" 
+>>>  gi niĝ2 -esir2 -ra  
+ niĝ'esir  [ WASH-BASIN ]  𒄀𒃻𒇒 ≈𒊏  gi niĝ2 -esir2 -ra  "wash-basin" Akk.  namsû 
+>>>  niĝ2 -GA ;  mu-un-gur11 ;  mu-un-gar3  
+ niĝGA  [ PROPERTY ]  𒃻𒂵;𒈬𒌦𒂵;𒈬𒌦𒃼  niĝ2 -GA ;  mu-un-gur11 ;  mu-un-gar3  "property" Akk.  makkuru 
+>>>  niĝ2 -galam  
+ niĝgalam  [ SKILL ]  𒃻𒃴  niĝ2 -galam  "skill" Akk.  nikiltu 
+>>>  niĝ2 -gal-gal  
+ niĝgalgal  [ GREATNESS ]  𒃻𒃲𒃲  niĝ2 -gal-gal  "greatness" Akk.  narbû 
+>>>  niĝ2 -gal4 -la  
+ niĝgalla  [ JEWELLERY ]  𒃻𒊩𒆷  niĝ2 -gal4 -la  "jewellery (for or in the form of female genitals)" 
+>>>  niĝ2 -GA-mu-du-um mušen  
+ niĝGAmudum  [ BIRD ]  𒃻𒂵𒈬𒁺𒌝𒄷  niĝ2 -GA-mu-du-um mušen  "a bird" 
+>>>  urud niĝ2 -gid2 -da  
+ niĝgida  [ ROD? ]  U+1234F𒃻𒁍𒁕  urud niĝ2 -gid2 -da  "rod?" Akk.  urāku 
+>>>  niĝ2 -gig  
+ niĝgig  [ BAD THING ]  𒃻𒍼  niĝ2 -gig  "that which is bad, forbidden; evil" Akk.  ikkibu ;  lemnūtu 
+>>>  niĝ2 -gig-sahar-ra  
+ niĝgigsahara  [ LEPROSY ]  𒃻𒍼𒅖𒊏  niĝ2 -gig-sahar-ra  "leprosy" 
+>>>  niĝ2 -gilim ;  niĝ2 -gilim2  
+ niĝgilim  [ RODENT ]  𒃻𒄃;𒃻𒉾  niĝ2 -gilim ;  niĝ2 -gilim2  "vermin; a rodent" Akk.  iškarissu 
+>>>  gi niĝ2 -gilim-ma  
+ niĝgilima  [ ROPE ]  𒄀𒃻𒄃𒈠  gi niĝ2 -gilim-ma  "rope" 
+>>>  niĝ2 -gilim-gilim-ma  
+ niĝgilimgilima  [ RODENT ]  𒃻𒄃𒄃𒈠  niĝ2 -gilim-gilim-ma  "rodent" 
+>>>  niĝ2 -gi-na ;  niĝ2 -gen6 -na  
+ niĝgina  [ TRUTH ]  𒃻𒄀𒈾;𒃻𒄀𒈾  niĝ2 -gi-na ;  niĝ2 -gen6 -na  "truth" Akk.  kīttu 
+>>>  niĝ2 -gu7  
+ niĝgu  [ FOOD ]  𒃻𒅥  niĝ2 -gu7  "food" 
+>>>  niĝ2 -gu7 -a  
+ niĝgua  [ EDIBLE ]  𒃻𒅥𒀀  niĝ2 -gu7 -a  "something which is edible" 
+>>>  ĝeš niĝ2 -gul ;  ĝeš niĝ2 -gul-gul  
+ niĝgul  [ HATCHET ]  𒄑𒃻𒄢;𒄑𒃻𒄢𒄢  ĝeš niĝ2 -gul ;  ĝeš niĝ2 -gul-gul  "hatchet" Akk.  akkullu 
+>>>  niĝ2 -gul ;  niĝ2 -gul-gul  
+ niĝgul  [ VESSEL ]  𒃻𒄢;𒃻𒄢𒄢  niĝ2 -gul ;  niĝ2 -gul-gul  "a vessel" Akk.  nisiptu 
+>>>  niĝ2 -gu-la  
+ niĝgula  [ GREATNESS ]  𒃻𒄖𒆷  niĝ2 -gu-la  "greatness; majesty" Akk.  rabâtu 
+>>>  niĝ2 -gu-la  
+ niĝgula  [ ~ACCOUNTING ]  𒃻𒄖𒆷  niĝ2 -gu-la  "an accounting term" Akk.  niggulû 
+>>>  niĝ2 -gu2 -na  
+ niĝguna  [ TRIBUTE ]  𒃻𒄘𒈾  niĝ2 -gu2 -na  "tribute, rent, tax" Akk.  biltu 
+>>>  niĝ2 -gu2 -na  
+ niĝguna  [ UTENSILS ]  𒃻𒄘𒈾  niĝ2 -gu2 -na  "utensils" Akk.  unūtu 
+>>>  niĝ2 -gur7 ;  niĝ2 -kar  
+ niĝgur  [ BANDAGE ]  𒃻𒄦;𒃻𒋼𒀀  niĝ2 -gur7 ;  niĝ2 -kar  "bandage" Akk.  naštiptu 
+>>>  niĝ2 -gu-sur ;  GAR.GU.NUN ;  gu-sur ;  |GAR.GU.SUR.NUN| ;  |GU.SUR.NUN|  
+ niĝgusur  [ PROFESSION ]  𒃻𒄖𒁍  ≈ 𒄮 SUR3;𒃻𒄖𒉣;𒄖𒁍  ≈ 𒄮 SUR3;𒃻𒄖𒁍  ≈ 𒄮 SUR3𒉣;𒄖𒁍  ≈ 𒄮 SUR3𒉣  niĝ2 -gu-sur ;  GAR.GU.NUN ;  gu-sur ;  |GAR.GU.SUR.NUN| ;  |GU.SUR.NUN|  "a profession" 
+>>>  lu2 -niĝ2 -gu2 -DU  
+ niĝgutum  [ TRIBUTE BRINGING ]  𒇽𒃻𒄘𒁺  lu2 -niĝ2 -gu2 -DU  "tribute bringing" 
+>>>  niĝ2 -gal2 -la  
+ niĝĝala  [ POSSESSIONS ]  𒃻𒅅𒆷  niĝ2 -gal2 -la  "possessions" Akk.  maršītu 
+>>>  niĝ2 -ĝar  
+ niĝĝar  [ ADDITION ]  𒃻𒃻  niĝ2 -ĝar  "addition; piling up" Akk.  kumurrû 
+>>>  niĝ2 -ĝešnimbar  
+ niĝĝešnimbar  [ MATERIAL ]  𒃻𒄑𒁇  niĝ2 -ĝešnimbar  "weaving material" 
+>>>  niĝ2 -ĝeštug ;  ĝeštug  
+ niĝĝeštug  [ EARRING ]  𒃻𒄑𒌇;𒄑𒌇  niĝ2 -ĝeštug ;  ĝeštug  "earrings" 
+>>>  ĝeš niĝ2 -ĝeštug  
+ niĝĝeštug  [ ~PLOW ]  𒄑𒃻𒄑𒌇  ĝeš niĝ2 -ĝeštug  "a designation of plows" Akk.  uzuntu 
+>>>  niĝ2 -ĝir2  
+ niĝĝir  [ LIGHTNING ]  𒃻𒄈  niĝ2 -ĝir2  "lightning bolt" 
+>>>  niĝ2 -ĝiri3  
+ niĝĝiri  [ FEE ]  𒃻𒄊  niĝ2 -ĝiri3  "go-between's fee" 
+>>>  niĝ2 -ĝiskim-til3  
+ niĝĝiskimtil  [ TRUST ]  𒃻|IGI.DUB|𒋾  niĝ2 -ĝiskim-til3  "trust" 
+>>>  niĝ2 -hab2 -ba  
+ niĝhaba  [ MALODEROUS ]  𒃻𒇥𒁀  niĝ2 -hab2 -ba  "maloderous, fetid; redolent" 
+>>>  niĝ2 -ha-lam-ma  
+ niĝhalama  [ DESTRUCTION ]  𒃻𒄩𒇴𒈠  niĝ2 -ha-lam-ma  "destruction" Akk.  šahluqtu 
+>>>  niĝ2 -heš5 (|LU2 ×KAR2 |)-še3  
+ niĝheše  [ OPPRESSION ]  𒃻𒈂(𒇽·𒃸)𒂠  niĝ2 -heš5 (|LU2 ×KAR2 |)-še3  "oppression" 
+>>>  niĝ2 -hi-li  
+ niĝhili  [ VOLUPTUOUS ]  𒃻𒄭𒇷  niĝ2 -hi-li  "voluptuous" 
+>>>  niĝ2 -hul2 ;  niĝ2 -hul2 -hul2  
+ niĝhul  [ JOY ]  𒃻𒄾;𒃻𒄾𒄾  niĝ2 -hul2 ;  niĝ2 -hul2 -hul2  "joy" Akk.  hidiātu 
+>>>  niĝ2 -hul  
+ niĝhulu  [ EVIL ]  𒃻𒅆𒌨  niĝ2 -hul  "evil" Akk.  lemuttu 
+>>>  niĝ2 -hulu-ĝal2  
+ niĝhuluĝal  [ EVIL ]  𒃻𒅆𒌨𒅅  niĝ2 -hulu-ĝal2  "evil" 
+>>>  niĝ2 -huš-a  
+ niĝhuša  [ PITFALL ]  𒃻𒄭𒄊𒀀  niĝ2 -huš-a  "pitfall, trap" Akk.  šuttatu 
+>>>  niĝin5 ;  niĝin x (|LAL2 .SAR|) ;  niĝin9  
+ niĝin  [ DISTRICT ]  |LAL₂.LAGAB|;LAL₂.SAR(𒇳𒊬);|LAL.SAR|  niĝin5 ;  niĝin x (|LAL2 .SAR|) ;  niĝin9  "irrigation district" Akk.  nagû 
+>>>  niĝin2 ;  niĝin  
+ niĝin  [ ENCIRCLE ]  𒆸;𒆸  niĝin2 ;  niĝin  "to prowl, roam; to enclose, confine; to encircle; to search; to turn; to return; to go around; to tarry" Akk.  esēru; lawû ;  sahāru ;  târu; târu; sahāru ;  şâdu 
+>>>  niĝin3  
+ niĝin  [ FETUS ]  |U.UD.KID|  niĝin3  "fetus" Akk.  kūbu 
+>>>  niĝin2 ;  niĝin  
+ niĝin  [ TOTAL ]  𒆸;𒆸  niĝin2 ;  niĝin  "total, sum; (the) whole, entirety" Akk.  napharu 
+>>>  nigin  
+ niĝin  [ WATER ]  𒇔  nigin  "water" 
+>>>  niĝin3 -ĝar  
+ niĝinĝar  [ BUILDING ]  |U.UD.KID|𒃻  niĝin3 -ĝar  "a building" 
+>>>  niĝin3 -ĝar ;  niĝin3 -ĝar-ra  
+ niĝinĝar  [ STILLBIRTH ]  |U.UD.KID|𒃻;|U.UD.KID|𒃻𒊏  niĝin3 -ĝar ;  niĝin3 -ĝar-ra  "stillborn baby" 
+>>>  niĝ2 -inim-si3 -ke  
+ niĝinimsige  [ WISH? ]  𒃻𒅗𒅆𒆠  niĝ2 -inim-si3 -ke  "wish?" 
+>>>  niĝin x (|LAL2 .SAR|)-niĝin x (|LAL2 .SAR|) mušen  
+ niĝinniĝin  [ BIRD ]  LAL₂.SAR(𒇳𒊬)LAL₂.SAR(𒇳𒊬)𒄷  niĝin x (|LAL2 .SAR|)-niĝin x (|LAL2 .SAR|) mušen  "a bird" 
+>>>  niĝir ;  li-bi-ir  
+ niĝir  [ HERALD ]  DUN₃@g@g;𒇷𒁉𒅕  niĝir ;  li-bi-ir  "herald" Akk.  nagiru 
+>>>  niĝirgal x (|GAL.DUN3 @g@g|)  
+ niĝirgal  [ HERALD ]  |GAL.DUN₃@g@g|(𒃲𒂅?)  niĝirgal x (|GAL.DUN3 @g@g|)  "chief herald" 
+>>>  niĝir-si ;  li-bi-ir-si  
+ niĝirsi  [ FRIEND ]  DUN₃@g@g𒋛;𒇷𒁉𒅕𒋛  niĝir-si ;  li-bi-ir-si  "(bridegroom's) friend" 
+>>>  niĝ2 -izi-la2  
+ niĝizila  [ BURNINGS ]  𒃻𒉈𒇲  niĝ2 -izi-la2  "burnings" Akk.  himţētu 
+>>>  niĝ2 -ka-ak  
+ niĝkak  [ MEAL ]  𒃻𒅗𒀝  niĝ2 -ka-ak  "meal" Akk.  iptennu 
+>>>  niĝ2 -kalag-ga  
+ niĝkalaga  [ STRONG ]  𒃻𒆗𒂵  niĝ2 -kalag-ga  "strong" 
+>>>  niĝ2 -kal-kal  
+ niĝkalkal  [ PRIZED ]  𒃻𒆗𒆗  niĝ2 -kal-kal  "prized, valuable" Akk.  šūquru 
+>>>  niĝ2 -keš2  
+ niĝkešed  [ BAND ]  𒃻𒆟  niĝ2 -keš2  "band" Akk.  riksu 
+>>>  niĝ2 -ki  
+ niĝki  [ CATERPILLAR ]  𒃻𒆠  niĝ2 -ki  "caterpillar" Akk.  mūnu 
+>>>  niĝ2 -ki ku6  
+ niĝki  [ FISH ]  𒃻𒆠𒄩  niĝ2 -ki ku6  "a fish" 
+>>>  niĝ2 -ki  
+ niĝki  [ HERD ]  𒃻𒆠  niĝ2 -ki  "herd of (wild) animals" Akk.  nammaštû 
+>>>  niĝ2 -kiĝ2 -gi4 -a  
+ niĝkiĝgia  [ LIVER ]  𒃻𒆥𒄄𒀀  niĝ2 -kiĝ2 -gi4 -a  "liver" Akk.  takaltum 
+>>>  niĝ2 -ki-luh  
+ niĝkiluh  [ BROOM ]  𒃻𒆠𒈛  niĝ2 -ki-luh  "broom" Akk.  mušēširtu 
+>>>  ĝeš niĝ2 -ki-luh-ha  
+ niĝkiluha  [ STONE ]  𒄑𒃻𒆠𒈛𒄩  ĝeš niĝ2 -ki-luh-ha  "stone or seed of a plant" Akk.  abnu 
+>>>  niĝ2 -ki-šar2  
+ niĝkišar  [ TOTALITY ]  𒃻𒆠𒊹  niĝ2 -ki-šar2  "totality" Akk.  ? 
+>>>  niĝ2-ki-zah  
+ niĝkizah  [ OFFERING ]  𒃻𒆠𒉈  niĝ2-ki-zah  "a type of offering" 
+>>>  niĝ2 -kud  
+ niĝkud  [ DUE ]  𒃻𒋻  niĝ2 -kud  "a share of the yield of a field" Akk.  miksu 
+>>>  niĝ2 -kud  
+ niĝkud  [ WEDGE ]  𒃻𒋻  niĝ2 -kud  "a wedge in a plow" 
+>>>  ĝeš niĝ2 -kud  
+ niĝkud  [ ~PLOWSHARE ]  𒄑𒃻𒋻  ĝeš niĝ2 -kud  "a part of a plowshare" Akk.  kissu 
+>>>  niĝ2 -ku7 -ku7 -da  
+ niĝkukuda  [ SWEET THING ]  𒃻𒆯𒆯𒁕  niĝ2 -ku7 -ku7 -da  "that which is sweet, sweet(ness)" 
+>>>  niĝ2 -kur2  
+ niĝkur  [ HOSTILITY ]  𒃻𒉽  niĝ2 -kur2  "hostility" Akk.  nakāru 
+>>>  niĝ2 -la2  
+ niĝla  [ BANDAGE ]  𒃻𒇲  niĝ2 -la2  "bandage" 
+>>>  tug2 niĝ2 -la2 ;  nig2 -la2  
+ niĝla  [ CLOTHING ]  𒌆𒃻𒇲;𒃻𒇲  tug2 niĝ2 -la2 ;  nig2 -la2  "an item of clothing" Akk.  şimdu 
+>>>  ĝeš nig2 -la2  
+ niĝla  [ TRAP ]  𒄑𒃻𒇲  ĝeš nig2 -la2  "trap" 
+>>>  niĝ2 -la2 -la2  
+ niĝlala  [ TOOL ]  𒃻𒇲𒇲  niĝ2 -la2 -la2  "tool" Akk.  išqarrurtu 
+>>>  tug2 niĝ2 -lam2 ;  nig2 -lam2  
+ niĝlam  [ GARMENT ]  𒌆𒃻𒉈;𒃻𒉈  tug2 niĝ2 -lam2 ;  nig2 -lam2  "a garment; a ceremonial garment" Akk.  lamahuššu 
+>>>  niĝ2 -luh  
+ niĝluh  [ WASH-BASIN ]  𒃻𒈛  niĝ2 -luh  "wash-basin" 
+>>>  niĝ2 -lul  
+ niĝlul  [ FALSEHOOD ]  𒃻𒈜  niĝ2 -lul  "falsehood" Akk.  sartu 
+>>>  niĝ2 -lu2 -ur14 (|GA2 ×MUNUS|) ;  niĝ2 -lu2 -ur14  
+ niĝlu'ur  [ HEAPED ]  𒃻𒇽GA₂×MUNUS(𒂷·𒊩);𒃻𒇽GA₂×MUNUS  niĝ2 -lu2 -ur14 (|GA2 ×MUNUS|) ;  niĝ2 -lu2 -ur14  "heaped" Akk.  nakmu 
+>>>  niĝ2 -mah  
+ niĝmah  [ GREAT ]  𒃻𒈤  niĝ2 -mah  "great" 
+>>>  niĝ2 -mah  
+ niĝmah  [ MAT ]  𒃻𒈤  niĝ2 -mah  "a reed mat" Akk.  zibnu 
+>>>  niĝ2 -me-ĝar  
+ niĝmeĝar  [ JUBILATION ]  𒃻𒈨𒃻  niĝ2 -me-ĝar  "jubilation; prosperity" Akk.  išdihu ;  rišātu 
+>>>  niĝ2 -me-ĝar  
+ niĝmeĝar  [ SILENCE ]  𒃻𒈨𒃻  niĝ2 -me-ĝar  "silence; stupor" Akk.  qūlu 
+>>>  ĝeš niĝ2 -menbulug2 (|BULUG&BULUG|) ;  ĝeš me-bulug2  
+ niĝmenbulug  [ ~LOOM ]  𒄑𒃻BULUG&BULUG(𒁑𒁑);𒄑𒈨|URU×GU|.UŠ  ĝeš niĝ2 -menbulug2 (|BULUG&BULUG|) ;  ĝeš me-bulug2  "a designation of looms" Akk.  pallukku 
+>>>  niĝ2 -mur-gud  
+ niĝmurgu  [ FODDER ]  𒃻𒄯𒄞  niĝ2 -mur-gud  "fodder" 
+>>>  nig2 -mi2 -us2 -sa2 ;  niĝ2 -mussa ;  niĝ2 -mi2 -us2 -sa  
+ niĝmussa  [ GIFT ]  𒃻𒊩𒍑𒁲;𒃻𒊩𒍑𒁲;𒃻𒊩𒍑𒊓  nig2 -mi2 -us2 -sa2 ;  niĝ2 -mussa ;  niĝ2 -mi2 -us2 -sa  "a betrothal gift" Akk.  terhātu 
+>>>  niĝ2 -u2 -zug4 ;  niĝ2 -ussu-zug4 ;  niĝ2 -ussu  
+ niĝmuzug  [ IMPURITY ]  𒃻𒌑|KA×LI|;𒃻𒑄|KA×LI|;𒃻𒑄  niĝ2 -u2 -zug4 ;  niĝ2 -ussu-zug4 ;  niĝ2 -ussu  "impure thing, unclean thing, impurity" 
+>>>  kuš niĝ2 -na4  
+ niĝna  [ BAG ]  𒋢𒃻𒎎  kuš niĝ2 -na4  "money bag" Akk.  kīsu 
+>>>  na ;  niĝ2 -na  
+ niĝna  [ INCENSE ]  𒈾;𒃻𒈾  na ;  niĝ2 -na  "incense (burner)" 
+>>>  niĝ2 -na-deg x (RI)-ga  
+ niĝnadega  [ INCENSE ]  𒃻𒈾𒊑(𒊑)𒂵  niĝ2 -na-deg x (RI)-ga  "incense (burner)" 
+>>>  niĝ2 -nagar sar  
+ niĝnagar  [ PLANT ]  𒃻𒉄𒊬  niĝ2 -nagar sar  "a plant" 
+>>>  niĝ2 -nam  
+ niĝnam  [ ANYTHING ]  𒃻𒉆  niĝ2 -nam  "anything" Akk.  mimma 
+>>>  niĝ2 -na-me ;  aĝ2 -a-ta-me-a  
+ niĝname  [ ANYTHING ]  𒃻𒈾𒈨;𒉘𒀀𒋫𒈨𒀀  niĝ2 -na-me ;  aĝ2 -a-ta-me-a  "anything" Akk.  mimma šumšu 
+>>>  niĝ2 -nam-nun  
+ niĝnamnun  [ PRINCESHIP ]  𒃻𒉆𒉣  niĝ2 -nam-nun  "princeship" Akk.  ? 
+>>>  niĝ2 -NE.RU ;  niĝ2 -NE.EREN  
+ niĝNERU  [ EVIL ]  𒃻𒉈𒊒;𒃻𒉈𒂞  niĝ2 -NE.RU ;  niĝ2 -NE.EREN  "evil" Akk.  raggu 
+>>>  niĝ2 -nu-gu7 -a  
+ niĝnugua  [ INEDIBLE ]  𒃻𒉡𒅥𒀀  niĝ2 -nu-gu7 -a  "something which is inedible" 
+>>>  nu-ĝar-ra ;  niĝ2 -nu-ĝar-ra  
+ niĝnuĝara  [ MALICE ]  𒉡𒃻𒊏;𒃻𒉡𒃻𒊏  nu-ĝar-ra ;  niĝ2 -nu-ĝar-ra  "malice; maliciousness" Akk.  nulliātu 
+>>>  niĝ2 -sag9 -ga  
+ niĝsaga  [ GOODNESS ]  𒃻𒊷𒂵  niĝ2 -sag9 -ga  "goodness, good (thing)" Akk.  dumqu 
+>>>  niĝ2 -saĝ-la2 ku6  
+ niĝsaĝla  [ FISH ]  𒃻𒊕𒇲𒄩  niĝ2 -saĝ-la2 ku6  "a fish" 
+>>>  niĝ2 -sa-ha  
+ niĝsaha  [ FRUIT ]  𒃻𒊓𒄩  niĝ2 -sa-ha  "fruit" Akk.  muthummu 
+>>>  niĝ2 -sakar  
+ niĝsakar  [ TOOL ]  𒃻𒊬  niĝ2 -sakar  "tool" Akk.  išqarrurtu 
+>>>  niĝ2 -sa10 ;  niĝ2 -sa10 -am3  
+ niĝsam  [ PRICE ]  𒃻𒉚;𒃻𒉚𒀀𒀭  niĝ2 -sa10 ;  niĝ2 -sa10 -am3  "price" 
+>>>  niĝ2 -sa-sa  
+ niĝsasa  [ BURNING ]  𒃻𒊓𒊓  niĝ2 -sa-sa  "burning; brazier, oven" Akk.  qalqallu ;  maqlû ;  qalû 
+>>>  niĝ2 -sed  
+ niĝsed  [ COLD ]  𒃻𒈻  niĝ2 -sed  "cold" Akk.  kaşû 
+>>>  niĝ2 -si  
+ niĝsi  [ PROVISIONS ]  𒃻𒋛  niĝ2 -si  "provisions" 
+>>>  niĝ2 -sig3  
+ niĝsig  [ UNMNG ]  𒃻𒉺  niĝ2 -sig3  "?" 
+>>>  niĝ2 -si-ga  
+ niĝsiga  [ MEAL ]  𒃻𒋛𒂵  niĝ2 -si-ga  "meal" Akk.  mākālu 
+>>>  niĝ2 -silaĝ  
+ niĝsilaĝ  [ DOUGH ]  𒃻ŠID  niĝ2 -silaĝ  "dough" 
+>>>  niĝ2 -silim  
+ niĝsilim  [ PROSPERITY ]  𒃻𒁲  niĝ2 -silim  "prosperity" 
+>>>  niĝ2 -si-sa2  
+ niĝsisa  [ JUSTICE ]  𒃻𒋛𒁲  niĝ2 -si-sa2  "justice" Akk.  mīšaru 
+>>>  niĝ2 -siškur2 ;  niĝ2 -siškur  
+ niĝsiškur  [ OFFERING ]  𒃻|AMAR×ŠE.AMAR×ŠE|;𒃻|AMAR×ŠE|  niĝ2 -siškur2 ;  niĝ2 -siškur  "an offering" 
+>>>  niĝ2 -su3 -a ;  niĝ2 -su13 -a  
+ niĝsua  [ OBJECT ]  𒃻𒋤𒀀;𒃻𒁍𒀀  niĝ2 -su3 -a ;  niĝ2 -su13 -a  "a metal object" 
+>>>  niĝ2 -su-ub  
+ niĝsub  [ POLISHED ]  𒃻𒋢𒌒  niĝ2 -su-ub  "polished" 
+>>>  niĝ2 -suh10  
+ niĝsuh  [ JEWEL ]  𒃻MUŠ₃  niĝ2 -suh10  "type of jewel" 
+>>>  niĝ2 -sun5  
+ niĝsun  [ HUMILITY ]  𒃻𒁔  niĝ2 -sun5  "humility" Akk.  ? 
+>>>  niĝ2 -sur  
+ niĝsur  [ BEER ]  𒃻𒁍  ≈ 𒄮 SUR3  niĝ2 -sur  "filtered beer?" 
+>>>  niĝ2 -sur-ra  
+ niĝsura  [ ~TABLET ]  𒃻𒁍  ≈ 𒄮 SUR3𒊏  niĝ2 -sur-ra  "a section of a tablet" Akk.  mišlu 
+>>>  niĝ2 -šab  
+ niĝšab  [ UNMNG ]  𒃻𒊸  niĝ2 -šab  "?" 
+>>>  niĝ2 -šam2 -ma  
+ niĝšama  [ PURCHASE ]  𒃻𒉛𒈠  niĝ2 -šam2 -ma  "purchase" 
+>>>  niĝ2 -ša3 -te  
+ niĝšate  [ COOL ]  𒃻𒊮𒋼  niĝ2 -ša3 -te  "cool; a ritual" Akk.  ? 
+>>>  niĝ2 -ŠID ;  niĝ2 -ŠID-ma  
+ niĝŠID  [ ACCOUNT ]  𒃻𒋃;𒃻𒋃𒈠  niĝ2 -ŠID ;  niĝ2 -ŠID-ma  "account" Akk.  nikkassu 
+>>>  niĝ2 -sir3 -re  
+ niĝšire  [ RESTRAINED ]  𒃻𒂡𒊑  niĝ2 -sir3 -re  "restrained" Akk.  kālû 
+>>>  niĝ2 -šu  
+ niĝšu  [ CHARIOT ]  𒃻𒋗  niĝ2 -šu  "chariot" 
+>>>  niĝ2 -šu  
+ niĝšu  [ GOODS ]  𒃻𒋗  niĝ2 -šu  "goods" Akk.  būšu 
+>>>  niĝ2 -šu-ĝal2  
+ niĝšuĝal  [ GOODS ]  𒃻𒋗𒅅  niĝ2 -šu-ĝal2  "goods" 
+>>>  niĝ2 -šum-ma  
+ niĝšuma  [ MEAT ]  𒃻𒋳𒈠  niĝ2 -šum-ma  "meat" Akk.  ţabhu 
+>>>  niĝ2 -šu-taka4 -a ;  ŠU+TAG4  
+ niĝšutaka'a  [ GIFT ]  𒃻𒋗𒋺𒀀;𒋗𒋺  niĝ2 -šu-taka4 -a ;  ŠU+TAG4  "gift; shipment, consignment" Akk.  šūbultu 
+>>>  niĝ2 -tab  
+ niĝtab  [ FIRE-BOX ]  𒃻𒋰  niĝ2 -tab  "fire-box" 
+>>>  na4 niĝ2 -tag-ga  
+ niĝtag  [ CUT ]  𒎎𒃻𒋳𒂵  na4 niĝ2 -tag-ga  "cut" 
+>>>  dug niĝ2 -ta-hab  
+ niĝtahab  [ VESSEL ]  𒂁𒃻𒋫𒇥  dug niĝ2 -ta-hab  "a vessel" Akk.  gugguru ;  kukkubu 
+>>>  niĝ2 -teĝ3 -ĝe26  
+ niĝteĝe  [ AWE ]  𒃻𒋼𒂷  niĝ2 -teĝ3 -ĝe26  "awe" 
+>>>  niĝ2 -tug2  
+ niĝtug  [ GARMENT ]  𒃻𒌆  niĝ2 -tug2  "garment container" 
+>>>  niĝ2 -tu-hu-um  
+ niĝtuhum  [ FRUIT ]  𒃻𒌅𒄷𒌝  niĝ2 -tu-hu-um  "fruit" Akk.  muthummu 
+>>>  niĝ2 -tuku  
+ niĝtuku  [ RICH ]  𒃻𒌇  niĝ2 -tuku  "rich" Akk.  šarû 
+>>>  niĝ2 -tukum  
+ niĝtukum  [ CONJECTURE ]  𒃻𒈜𒁆𒋗𒃻𒌉𒇲  niĝ2 -tukum  "conjecture" 
+>>>  niĝ2 -tuku-tuku  
+ niĝtukutuku  [ RICH ]  𒃻𒌇𒌇  niĝ2 -tuku-tuku  "very rich" 
+>>>  niĝ2 -ul  
+ niĝul  [ EVERLASTING ]  𒃻𒌌  niĝ2 -ul  "an everlasting thing" 
+>>>  niĝ2 -ul  
+ niĝul  [ JOY ]  𒃻𒌌  niĝ2 -ul  "joy" 
+>>>  niĝ2 -umun  
+ niĝumun  [ KNOWLEDGE ]  𒃻𒌣  niĝ2 -umun  "knowledge" 
+>>>  niĝ2 -umun-a  
+ niĝumuna  [ EXAMPLE ]  𒃻𒌣𒀀  niĝ2 -umun-a  "example" 
+>>>  niĝ2 -U.NU-a  
+ niĝUNUa  [ THREAD ]  𒃻𒌋𒉡𒀀  niĝ2 -U.NU-a  "thread" Akk.  ? 
+>>>  niĝ2 -ur5 -ra  
+ niĝura  [ SURFACE? ]  𒃻𒄯𒊏  niĝ2 -ur5 -ra  "surface?" 
+>>>  niĝ2 -ur2 -limmu2 ;  niĝ-ur2 -limmu4  
+ niĝurlimmu  [ CREATURE ]  𒃻𒌫𒇹;𒃻𒌫𒐽  niĝ2 -ur2 -limmu2 ;  niĝ-ur2 -limmu4  "four legged creature" Akk.  būlu 
+>>>  u2 niĝ2 -u2 -rum  
+ niĝurum  [ PLANT ]  𒌑𒃻𒌑𒀸  u2 niĝ2 -u2 -rum  "a plant" 
+>>>  niĝ2 -u2 -rum  
+ niĝurum  [ PROPERTY ]  𒃻𒌑𒀸  niĝ2 -u2 -rum  "property" 
+>>>  niĝ2 -us2  
+ niĝus  [ SHIN ]  𒃻𒍑  niĝ2 -us2  "shin" Akk.  kimşu 
+>>>  niĝ2 -uš7 -ri-a  
+ niĝušria  [ WITCHCRAFT ]  𒃻|KA×LI|𒊑𒀀  niĝ2 -uš7 -ri-a  "witchcraft" Akk.  ruhû 
+>>>  niĝ2 -zid  
+ niĝzid  [ RIGHTEOUSNESS ]  𒃻𒍥  niĝ2 -zid  "righteousness" Akk.  kittu 
+>>>  niĝ2 -zi-ĝal2  
+ niĝziĝal  [ LIVING CREATURE ]  𒃻𒍥𒅅  niĝ2 -zi-ĝal2  "living creature" Akk.  šiknat napišti 
+>>>  niĝ2 -zu  
+ niĝzu  [ KNOWLEDGE ]  𒃻𒍪  niĝ2 -zu  "knowledge" 
+>>>  ĝeš niĝ2 -zu  
+ niĝzu  [ ~LOOM ]  𒄑𒃻𒍪  ĝeš niĝ2 -zu  "a designation of looms" Akk.  haţţu 
+>>>  niĝ2 -zu2 -gub  
+ niĝzugub  [ MEAL ]  𒃻𒅗𒁺  niĝ2 -zu2 -gub  "meal" 
+>>>  niĝ2 -zuh-a  
+ niĝzuha  [ STOLEN GOODS ]  𒃻𒅗𒀀  niĝ2 -zuh-a  "stolen goods" Akk.  šurqu 
+>>>  ni2 -huš  
+ nihuš  [ APPEARANCE ]  𒉎𒄭𒄊  ni2 -huš  "terrifying appearance" Akk.  rašubbatu 
+>>>  ni2 -kid2  
+ nikid  [ ~FOOD ]  𒉎𒋺  ni2 -kid2  "a designation of foods" Akk.  puttû 
+>>>  ni-ik-tum  
+ niktum  [ PLANT ]  𒉌𒅅𒌈  ni-ik-tum  "a plant used as a dye" Akk.  niqdu 
+>>>  NI-le  
+ NIle  [ WATER ]  𒉌𒇷  NI-le  "a qualification of water" 
+>>>  nim  
+ nim  [ BUZZ ]  𒉏  nim  "to buzz" 
+>>>  nim  
+ nim  [ FLY ]  𒉏  nim  "fly, insect" Akk.  zumbu 
+>>>  nim  
+ nim  [ HIGH ]  𒉏  nim  "(to be) high, elevated; (to be) early; easterner" Akk.  šaqû 
+>>>  u2 nim  
+ nim  [ PLANT ]  𒌑𒉏  u2 nim  "a plant" 
+>>>  nim ĝir2  
+ nim ĝir  [ FLASH ]  𒉏𒄈  nim ĝir2  "to flash like lightning" Akk.  barāqu 
+>>>  nim-AH+ME-da  
+ nimAHMEda  [ UNMNG ]  𒉏𒄴𒈨𒁕  nim-AH+ME-da  "?" 
+>>>  nim-bar-hu-uz  
+ nimbarhuz  [ DISEASE ]  𒉏𒁇𒄷𒊻  nim-bar-hu-uz  "a disease" 
+>>>  nimin  
+ nimin  [ FORTY ]  𒐏  nimin  "forty" Akk.  erbā 
+>>>  nim-sahar-ra  
+ nimsahara  [ FLY ]  𒉏𒅖𒊏  nim-sahar-ra  "a fly" 
+>>>  ne-mur ;  nimur  
+ nimur  [ ASHES ]  𒉈𒄯;|KI.NE|  ne-mur ;  nimur  "alkali, potash; coal; ashes; charcoal" Akk.  idrānu ;  tumru 
+>>>  nin ;  ga-ša-an ;  ga-ša2 -an ;  ka-ša-an  
+ nin  [ LADY ]  𒎏;𒂵𒊭𒀭;𒂵𒃻𒀭;𒅗𒊭𒀭  nin ;  ga-ša-an ;  ga-ša2 -an ;  ka-ša-an  "lady; mistress, owner; lord" Akk.  bēltu ;  bēlu 
+>>>  nin9  
+ nin  [ SISTER ]  𒎐  nin9  "sister" Akk.  ahātu 
+>>>  NI.NAGAR  
+ NINAGAR  [ A PROFESSION ]  𒉌𒉄  NI.NAGAR  "a profession?" 
+>>>  ninda ;  inda  
+ ninda  [ BREAD ]  𒃻;𒆹𒋻  ninda ;  inda  "bread; food" Akk.  akalu 
+>>>  gud ninda2  
+ ninda  [ BULL ]  𒄞𒉒  gud ninda2  "breeding bull; bull calf" Akk.  bīru ;  mīru 
+>>>  ninda2  
+ ninda  [ SEED-FUNNEL ]  𒉒  ninda2  "seed-funnel" Akk.  ittû 
+>>>  dug ninda2  
+ ninda  [ VESSEL ]  𒂁𒉒  dug ninda2  "a measuring vessel" Akk.  namandu ;  parsiktu 
+>>>  ninda2 ku6  
+ ninda2  [ FISH ]  𒉒𒄩  ninda2 ku6  "a fish" 
+>>>  ninda2 -ab-suhur ku6  
+ ninda'absuhur  [ FISH ]  𒉒𒀊𒋦𒄩  ninda2 -ab-suhur ku6  "a fish" 
+>>>  nindaba ;  nindaba x (|PAD.AN.MUŠ2 |) ;  niĝ2 -dab-ba  
+ nindaba  [ OFFERING ]  |PAD.AN.MUŠ₃|;|PAD.AN.MUŠ₂|(𒉻𒀭𒈽);𒃻𒁳𒁀  nindaba ;  nindaba x (|PAD.AN.MUŠ2 |) ;  niĝ2 -dab-ba  "(food) offering" Akk.  nindabû 
+>>>  ninda-ba  
+ nindaba  [ RATION ]  𒃻𒁀  ninda-ba  "ration, bread allotment" 
+>>>  ninda-gug2  
+ nindagug  [ CAKE ]  𒃻𒈖  ninda-gug2  "cake" Akk.  kukku 
+>>>  ninda-ĝir2  
+ nindaĝir  [ BREAD ]  𒃻𒄈  ninda-ĝir2  "a kind of bread" 
+>>>  ninda-i3  
+ ninda'i  [ BREAD ]  𒃻𒉌  ninda-i3  "a bread or pastry" 
+>>>  ninda-i3 -de2 -a  
+ ninda'idea  [ BREAD ]  𒃻𒉌𒌤𒀀  ninda-i3 -de2 -a  "a pastry or a bread" Akk.  pannigu 
+>>>  ninda-izi-|HI×AŠ2 |-ra  
+ ninda'iziHARa  [ BREAD ]  𒃻𒉈𒄯𒊏  ninda-izi-|HI×AŠ2 |-ra  "a bread or pastry" 
+>>>  ninda-kum4 -ma  
+ nindakuma  [ ~BEER ]  𒃻𒌓𒈠  ninda-kum4 -ma  "an ingredient in beer-making" 
+>>>  |NINDA2 ×ME+GAN2 @t|  
+ NINDAMEKAR  [ UNMNG ]  𒉒·𒈨𒃷  |NINDA2 ×ME+GAN2 @t|  "?" Akk.  pahāru ;  redû ša kiškattê 
+>>>  nindan ;  nindan-DU  
+ nindan  [ POLE ]  𒃻;𒃻𒁺  nindan ;  nindan-DU  "pole; a unit of length" Akk.  nindanu 
+>>>  ninda-šu-rah2  
+ nindašurah  [ BREAD ]  𒃻𒋗𒊏  ninda-šu-rah2  "a type of bread" 
+>>>  ninim  
+ ninim  [ ENVY ]  |ŠA₃×NE|  ninim  "envy" 
+>>>  d nin-ka6 ;  d nin-ka5 ;  še-en-ka6  
+ ninka  [ MONGOOSE ]  𒀭𒎏𒄷;𒀭𒎏𒈜;𒊺𒂗𒄷  d nin-ka6 ;  d nin-ka5 ;  še-en-ka6  "mongoose" Akk.  šikkû 
+>>>  d nin-ka6 -maš-maš  
+ ninkamašmaš  [ RODENT ]  𒀭𒎏𒄷𒈦𒈦  d nin-ka6 -maš-maš  "rodent" 
+>>>  d nin-ki-ki mušen ;  d ki-ki mušen  
+ ninkiki  [ BIRD ]  𒀭𒎏𒆠𒆠𒄷;𒀭𒆠𒆠𒄷  d nin-ki-ki mušen ;  d ki-ki mušen  "a bird" 
+>>>  d nin-kilim  
+ ninkilim  [ MONGOOSE ]  𒀭𒎏𒉾  d nin-kilim  "mongoose" Akk.  šikkû 
+>>>  u2 ninni5  
+ ninni  [ REEDS ]  𒌑𒌃  u2 ninni5  "reeds, rushes" Akk.  ašlu 
+>>>  d ni2 -namma-maš mušen  
+ ninninnamaš  [ BIRD ]  𒀭𒉎𒇉𒈦𒄷  d ni2 -namma-maš mušen  "a bird" 
+>>>  d nin-ninna2 mušen -ta ;  d nin-ninna2 mušen ;  d nin-ninna mušen ;  d nin-imma x (|LAGAB×IGI@g|) mušen ;  d nin-niĝin2 mušen  
+ ninninnata  [ BIRD ]  𒀭𒎏𒇧𒄷𒋫;𒀭𒎏𒇧𒄷;𒀭𒎏𒇧𒄷;𒀭𒎏𒅊·(𒇋)𒄷;𒀭𒎏𒆸𒄷  d nin-ninna2 mušen -ta ;  d nin-ninna2 mušen ;  d nin-ninna mušen ;  d nin-imma x (|LAGAB×IGI@g|) mušen ;  d nin-niĝin2 mušen  "a bird of prey, harrier?" Akk.  eššebu 
+>>>  nin-amaš(LAK388) mušen  
+ ninninnatamaš  [ BIRD ]  𒎏𒁦(¿)𒄷  nin-amaš(LAK388) mušen  "a bird" 
+>>>  ninnu  
+ ninnu  [ FIFTY ]  𒐐  ninnu  "fifty" Akk.  hašša 
+>>>  d nin-uš mušen ;  nin-uš mušen  
+ ninuš  [ BIRD ]  𒀭𒎏𒍑𒄷;𒎏𒍑𒄷  d nin-uš mušen ;  nin-uš mušen  "a bird" 
+>>>  nin-uš ku6  
+ ninuš  [ FISH ]  𒎏𒍑𒄩  nin-uš ku6  "a fish" 
+>>>  nir  
+ nir  [ LORDLY ]  𒉪  nir  "lord(ly)" Akk.  etellu 
+>>>  na4 nir7 ;  na4 nir2 ;  na4 nir3 ;  na4 nir4 ;  na4 nir5  
+ nir  [ STONE ]  𒎎𒍝𒂇;𒎎𒍝𒂆;𒎎𒍝𒉏;𒎎ZA.SU;𒎎ZA.IB  na4 nir7 ;  na4 nir2 ;  na4 nir3 ;  na4 nir4 ;  na4 nir5  "a valuable stone" Akk.  hulālu 
+>>>  nir  
+ nir  [ TRUST ]  𒉪  nir  "trust; sign" Akk.  tukultu 
+>>>  nir  
+ nir  [ WINNOW ]  𒉪  nir  "to winnow" Akk.  zakû 
+>>>  nir ĝal2 ;  še-er-ma-al  
+ nir ĝal  [ TRUST ]  𒉪𒅅;𒊺𒅕𒈠𒀠  nir ĝal2 ;  še-er-ma-al  "to trust" Akk.  takālu 
+>>>  nir-gam-ma  
+ nirGAMa  [ ARCH ]  𒉪𒃵𒈠  nir-gam-ma  "arch" Akk.  ? 
+>>>  nir-ĝal2  
+ nirĝal  [ AUTHORITATIVE ]  𒉪𒅅  nir-ĝal2  "authoritative" 
+>>>  na4 nir7 -igi  
+ nirigi  [ STONE ]  𒎎𒍝𒂇𒅆  na4 nir7 -igi  "type of stone" 
+>>>  na4 nir2 -muš-ĝir2  
+ nirmušĝir  [ STONE ]  𒎎𒍝𒂆𒈲𒄈  na4 nir2 -muš-ĝir2  "type of stone" 
+>>>  nir-pad ku6  
+ nirpad  [ FISH ]  𒉪𒉻𒄩  nir-pad ku6  "a fish" 
+>>>  NIR.PAD-eštub ku6  
+ NIRPADeštub  [ FISH ]  𒉪𒉻𒄞𒄩  NIR.PAD-eštub ku6  "a fish" 
+>>>  na4 nir2 -ud-sud  
+ nirudsud  [ STONE ]  𒎎𒍝𒂆𒌓𒋤  na4 nir2 -ud-sud  "a stone" 
+>>>  ĝeš ni3 -sakar ;  ĝeš ni2 -sahar-ra  
+ nisakar  [ AGRICULTURAL TOOL ]  𒄑𒃻𒊬;𒄑𒉎𒅖𒊏  ĝeš ni3 -sakar ;  ĝeš ni2 -sahar-ra  "agricultural tool" Akk.  išqarurtu 
+>>>  nisig  
+ nisig  [ GREENERY ]  𒊬  nisig  "greenery, vegetable(s)" Akk.  arqu 
+>>>  nisiki x (|GIŠ.GAR.UMBIN|)  
+ nisiki  [ COMB ]  |GIŠ.GAR.UMBIN|(𒄑𒃻𒌢)  nisiki x (|GIŠ.GAR.UMBIN|)  "comb" Akk.  mummarītu 
+>>>  ni-is-ku  
+ nisku  [ RETAINER ]  𒉌𒅖𒆪  ni-is-ku  "a type of retainer or dependent person" 
+>>>  ni-is-ku ;  ni-is-kum ;  ni-is-ku-um ;  nisku  
+ nisku  [ ~EQUID ]  𒉌𒅖𒆪;𒉌𒅖𒄣;𒉌𒅖𒆪𒌝;𒊊  ni-is-ku ;  ni-is-kum ;  ni-is-ku-um ;  nisku  "a description of equids" Akk.  nisqu 
+>>>  niš  
+ niš  [ TWENTY ]  |U.U|  niš  "twenty" 
+>>>  nita2 mušen  
+ nita  [ BIRD ]  ARAD.HU𒄷  nita2 mušen  "a bird" 
+>>>  nita2 ;  nita ;  nita x (|ARAD×KUR|)  
+ nita  [ MALE ]  ARAD.HU;𒍑;|ARAD×KUR|(𒀵)  nita2 ;  nita ;  nita x (|ARAD×KUR|)  "male" Akk.  zikaru 
+>>>  ni2 -tuku  
+ nituku  [ PIOUS ]  𒉎𒌇  ni2 -tuku  "pious, attentive" Akk.  na'du 
+>>>  NI.ZAG  
+ NIZAG  [ PAYMENT ]  𒉌𒍠  NI.ZAG  "a type of additional payment" 
+>>>  ni2 -zuh ;  lu2 ni2 -zuh  
+ nizuh  [ THIEF ]  𒉎𒅗;𒇽𒉎𒅗  ni2 -zuh ;  lu2 ni2 -zuh  "thief" Akk.  šarrāqu 
+>>>  nu2 mušen ;  ĝeš nu2 mušen  
+ nu  [ BIRD ]  𒈿𒄷;𒄑𒈿𒄷  nu2 mušen ;  ĝeš nu2 mušen  "a night bird" Akk.  şallalu 
+>>>  nu7  
+ nu  [ CREATOR ]  𒀕  nu7  "creator, begetter" Akk.  bānû 
+>>>  nu  
+ nu  [ FLY ]  𒉡  nu  "(small) fly, mosquito" Akk.  baqqu 
+>>>  nu  
+ nu  [ GENITALIA ]  𒉡  nu  "male genitalia; sperm; offspring" Akk.  lipištu 
+>>>  nu  
+ nu  [ MAN ]  𒉡  nu  "man" Akk.  awīlu 
+>>>  nu  
+ nu  [ NOT ]  𒉡  nu  "(to be) not, no; without, un-" Akk.  lā ;  ula 
+>>>  NU  
+ NU  [ SPIN ]  𒉡  NU  "to spin (thread)" 
+>>>  nu2 -a ;  nu-a  
+ nua  [ ~ANIMAL ]  𒈿𒀀;𒉡𒀀  nu2 -a ;  nu-a  "a designation of ewes or nanny goats" 
+>>>  nu-banda3 ;  nu-banda3 da  
+ nubanda  [ OVERSEER ]  𒉡𒌉;𒉡𒌉𒁕  nu-banda3 ;  nu-banda3 da  "overseer, captain" Akk.  laputtû 
+>>>  nu-bar  
+ nubar  [ PROFESSION ]  𒉡𒁇  nu-bar  "a profession for women" Akk.  kulmašītu 
+>>>  nud ;  nu x (|HU.NA2 |)  
+ nud  [ LIE ]  𒈿;|HU.NA₂|(𒄷𒈿)  nud ;  nu x (|HU.NA2 |)  "to lie down (of people); to lay down; to be ill" Akk.  utulu 
+>>>  nu-DAR  
+ nuDAR  [ PROFESSION ]  𒉡𒁯  nu-DAR  "a profession" 
+>>>  nu-erim2 -la2 mušen  
+ nu'erimla  [ BIRD ]  𒉡𒉈𒊒𒇲𒄷  nu-erim2 -la2 mušen  "a bird" 
+>>>  nu-eš3  
+ nu'ešak  [ PRIEST ]  𒉡𒀊  nu-eš3  "a priest" Akk.  nešakku 
+>>>  nug ;  nug2  
+ nug  [ PLANT ]  |ŠIM×MUG|;|ŠIM×DIN|  nug ;  nug2  "an aromatic plant" Akk.  nukkatu 
+>>>  u2 nu-gi  
+ nugi  [ PLANT ]  𒌑𒉡𒄀  u2 nu-gi  "a thorny plant" Akk.  ša'tu 
+>>>  u2 nu-gig  
+ nugig  [ PLANT ]  𒌑𒉡𒍼  u2 nu-gig  "a plant" 
+>>>  nu-gig ;  nu-u8 -gig ;  mu-gi17 -ib ;  mu-gib3  
+ nugig  [ PRIESTESS ]  𒉡𒍼;𒉡𒇇𒍼;𒈬𒍼𒅁;𒈬GIG  nu-gig ;  nu-u8 -gig ;  mu-gi17 -ib ;  mu-gib3  "a priestess; a divine epithet; a profession for women" Akk.  qadištu 
+>>>  nu-ha-ra sar  
+ nuhara  [ ASAFOETIDA ]  𒉡𒄩𒊏𒊬  nu-ha-ra sar  "asafoetida" 
+>>>  nu-KA  
+ nuKA  [ PROFESSION ]  𒉡𒅗  nu-KA  "a profession" 
+>>>  nu-ka-aš  
+ nukaš  [ DECISION ]  𒉡𒅗𒀸  nu-ka-aš  "decision maker?" 
+>>>  nu-kiri6 ;  nu- ĝeš kiri6 ;  nu- ĝeš ki kiri6 ;  lu2 nu-kiri6  
+ nukirik  [ GARDENER ]  𒉡𒊬;𒉡𒄑𒊬;𒉡𒄑𒆠𒊬;𒇽𒉡𒊬  nu-kiri6 ;  nu- ĝeš kiri6 ;  nu- ĝeš ki kiri6 ;  lu2 nu-kiri6  "gardener, horticulturalist" Akk.  nukaribbu 
+>>>  nu-kuš2 -u3  
+ nukušu  [ WIDOW ]  𒉡𒊨𒅇  nu-kuš2 -u3  "widow" Akk.  almattu 
+>>>  ĝeš nu-kuš2 -u3  
+ nukušu  [ ~DOOR ]  𒄑𒉡𒊨𒅇  ĝeš nu-kuš2 -u3  "a door fitting" Akk.  nukušu 
+>>>  nu-luh-ha sar  
+ nuluha  [ ASAFOETIDA ]  𒉡𒈛𒄩𒊬  nu-luh-ha sar  "asafoetida" 
+>>>  nu-um-ma mušen ;  numma mušen  
+ numma  [ VULTURE ]  𒉡𒌝𒈠𒄷;|ŠIR&ŠIR.BUR&BUR|.HU𒄷  nu-um-ma mušen ;  numma mušen  "vulture" Akk.  zību 
+>>>  u2 numun2 ;  u2 |ZI&ZI| ;  šu-mu ;  u2 |A.ZI&ZI| ;  u2 |ZI&ZI.A| ;  u2 |ZI&ZI.EŠ2 .ŠE| ;  šu-mu-un  
+ numun  [ GRASS ]  𒌑𒍤𒆸;𒌑𒍥𒍥;𒋗𒈬;𒌑𒀀𒍥𒍥;𒌑𒍥𒍥𒀀;𒌑𒍥𒍥𒂠𒊺;𒋗𒈬𒌦  u2 numun2 ;  u2 |ZI&ZI| ;  šu-mu ;  u2 |A.ZI&ZI| ;  u2 |ZI&ZI.A| ;  u2 |ZI&ZI.EŠ2 .ŠE| ;  šu-mu-un  "alfalfa grass" Akk.  elpetu 
+>>>  numun3  
+ numun  [ INSECT ]  𒄴  numun3  "insect(s), bug(s); caterpillar" Akk.  kalmatu ;  nāpû 
+>>>  numun  
+ numun  [ SEED ]  𒆰  numun  "seed" Akk.  zēru 
+>>>  numun i ;  numun e3  
+ numun i  [ UNMNG ]  𒆰𒐊;𒆰𒌓𒁺  numun i ;  numun e3  "?" Akk.  ? 
+>>>  numun e3 ;  numun i-i  
+ numun i'i  [ MULTIPLY ]  𒆰𒌓𒁺;𒆰𒐊𒐊  numun e3 ;  numun i-i  "to multiply" Akk.  ? 
+>>>  numun2 -bur ;  numun2 -bur2  
+ numunbur  [ RUSHES ]  𒍤𒆸𒁓;𒍤𒆸𒁔  numun2 -bur ;  numun2 -bur2  "rushes" 
+>>>  numun2 -hul ;  numun2 -hul-numun2 -hul  
+ numunhul  [ WEED ]  𒍤𒆸𒅆𒌨;𒍤𒆸𒅆𒌨𒍤𒆸𒅆𒌨  numun2 -hul ;  numun2 -hul-numun2 -hul  "weed" 
+>>>  nu-mu-un-kuš ;  nu-mu-kuš ;  nu-mu-un-kuš8  
+ numunkuš  [ WIDOW ]  𒉡𒈬𒌦𒋢;𒉡𒈬𒋢;𒉡𒈬𒌦𒄾  nu-mu-un-kuš ;  nu-mu-kuš ;  nu-mu-un-kuš8  "widow" Akk.  almattu 
+>>>  nun3  
+ nun  [ FIGHT ]  𒁍  nun3  "fight, combat" Akk.  anuntu 
+>>>  nun  
+ nun  [ OBJECT ]  𒉣  nun  "a metal object" Akk.  nunnu 
+>>>  nun  
+ nun  [ PRINCE ]  𒉣  nun  "prince; (as attribute) foremost, best" Akk.  rubû 
+>>>  NUN.BAR-gid2  
+ NUNBARgid  [ FISH ]  𒉣𒁇𒁍  NUN.BAR-gid2  "type of fish" 
+>>>  nundum ;  šu-um-du-um  
+ nundum  [ LIP ]  𒅻;𒋗𒌝𒁺𒌝  nundum ;  šu-um-du-um  "lip; rim" Akk.  šaptu 
+>>>  nunuz ;  na4 nunuz  
+ nunuz  [ EGG ]  𒉭;𒎎𒉭  nunuz ;  na4 nunuz  "ovoid bead; egg" Akk.  erimmatu ;  pelû 
+>>>  |NUNUZ.KISIM5 ×LU3 +PAP+PAP|  
+ NUNUZKISIMLUPAPPAP  [ FOODSTUFF ]  𒉭𒆨·𒈖𒉽𒉽  |NUNUZ.KISIM5 ×LU3 +PAP+PAP|  "a foodstuff" 
+>>>  geme2 |NUNUZ.KISIM5 ×LU3 +PAP+PAP|  
+ NUNUZKISIMLUPAPPAP  [ PROFESSION ]  𒊩𒆳𒉭𒆨·𒈖𒉽𒉽  geme2 |NUNUZ.KISIM5 ×LU3 +PAP+PAP|  "a profession" 
+>>>  na4 nunuz-tab-ba  
+ nunuztaba  [ NECKLACE? ]  𒎎𒉭𒋰𒁀  na4 nunuz-tab-ba  "necklace?" 
+>>>  nunuz-te  
+ nunuzte  [ ~DAIRY ]  𒉭𒋼  nunuz-te  "dairy designation" 
+>>>  nunuzzi ;  nunuzzi x (|EN.NU.NUNUZ.ZI.AN.UD|) ;  nunus x (SAL) nu-nus -zi ;  nunus x (SAL)-zi  
+ nunuzzi  [ PRIESTESS ]  |EN.NUNUZ.ZI.AN.UD|;EN.NU.NUNUZ.ZI.AN.UD(𒂗𒉡𒉭𒍥𒀭𒌓);SAL.NU.NUNUZ.ZI(𒊩)𒉡NUNUZ𒍥;SAL.NU.NUNUZ.ZI(𒊩)𒍥  nunuzzi ;  nunuzzi x (|EN.NU.NUNUZ.ZI.AN.UD|) ;  nunus x (SAL) nu-nus -zi ;  nunus x (SAL)-zi  "a priestess" 
+>>>  ĝeš nu-ur2 -ma ;  geš nu-ur2  
+ nurma  [ POMEGRANATE ]  𒄑𒉡𒌫𒈠;𒄑𒉡𒌫  ĝeš nu-ur2 -ma ;  geš nu-ur2  "pomegranate" Akk.  nurmû 
+>>>  nu-saĝ  
+ nusaĝ  [ PRIEST ]  𒉡𒊕  nu-saĝ  "a priest" 
+>>>  nu-us-hu  
+ nushu  [ CONTAINER ]  𒉡𒊻𒄷  nu-us-hu  "a container" Akk.  nushu 
+>>>  nu-siki  
+ nusiki  [ ORPHAN ]  𒉡𒋠  nu-siki  "orphan" Akk.  ekû 
+>>>  nu-tar ku6 ;  nu-TAR ku6  
+ nutar  [ FISH ]  𒉡𒋻𒄩;𒉡𒋻𒄩  nu-tar ku6 ;  nu-TAR ku6  "a fish" 
