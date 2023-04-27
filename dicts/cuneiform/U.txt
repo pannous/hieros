@@ -1289,7 +1289,7 @@
  
  
  usan 
- usan  [ EVENING ]  wr.  an-usan ;  u2 -sa11 -an ;  usan ;  an-u2 -sa11 -an ;  u2 -si-an ;  usan2 ;  an-usan x (GU2 xKAK) ;  an-usan x (|GU2 ×KAK|)  "evening; (in the) evening" Akk.  šimetan ;  šimītān 
+ usan  [ EVENING ]  wr.  an-usan ;  u2 -sa11 -an ;  usan ;  an-u2 -sa11 -an ;  u2 -si-an ;  usan2 ;  an-usan x (GU2 x KAK) ;  an-usan x (|GU2 × KAK|)  "evening; (in the) evening" Akk.  šimetan ;  šimītān 
  usan  [ WHIP ]  wr.  kuš usan3 ;  ĝeš usan3 ;  kuš u4 -za-an  "whip" Akk.  qinnāzu 
  usan  [ WORKER ]  wr.  geme2 usan3  "a worker" 
  
