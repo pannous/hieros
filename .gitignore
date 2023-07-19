@@ -1,3 +1,5 @@
+*.COMMIT_EDITMSG
+untitled
 old
 docs/
 docs VIA own repo!
@@ -41,3 +43,4 @@ fonts/*.pdf
 .DS_Store
 abc/bbb
 .idea
+
