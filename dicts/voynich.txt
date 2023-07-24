@@ -2,6 +2,48 @@ It's probably Romani written in a Syriac script. The users here claiming it's He
 
 the apparent division of the year into 360 days (rather than 365 days), in groups of 15 and starting with Pisces, are features of the Chinese agricultural calendar (jie qi, 節氣). The main argument against the theory is the fact that no one (including scholars at the Chinese Academy of Sciences in Beijing) has been able to find any clear examples of Asian symbolism or Asian science in the illustrations. Dragon!
 
+East Asian origins are supported by Character Entropy [0], the only halfways plausible alternative being other tonal languages maybe in the Niger-Congo, Malayo-Polynesian, or Tibeto-Burman families. 
+
+Min Dong and Hakka belong to the Sino-Tibetan language family, specifically to the Chinese branch. The study [0] did not include pinyin or wade-gils transliterations of Mandarin, Cantonese or other Chinese dialects, so ancestral forms of these could be good candidates too. The Voynich script originated in the 15th century CE, about a century after the return of Marco Polo and the very successful publication of his Livre des Merveilles du Monde or Devisement du Monde ("Description of the World").
+It is important that the text was composed in a European context though, as evidenced by much of the iconography. 
+
+Statistics rule out substitution cyphers and most other cyphers of any non-tonal language, as well as 'random' babbling since except for character entropy, the script has structural features and statistics very typical of real languages.
+
+Evidence:
+European symbolism with some middle eastern elements
+Tonal language with strong word-start word-end differentiation
+Two dialects, five hands
+Brahmi numerals / numbers
+Chinese calendar ( 360 = 2 * 12 * 15 )
+Numerals coincide with letters, similar to Greek and Sanskrit ancestors.
+
+The representation of numbers using letters of derived Brahmi scripts was often used in various metrical compositions, which are poetic verses with specific rules for rhythm and syllabic count, especially during the classical period of Indian mathematics and astronomy (roughly from the 5th to the 12th century CE).
+
+Just like Roman alpabets don't reveal the underlying language Brahmi are compatible with a wide swath of languages:
+telugu ONE  ౧ (Dravidian:Tamil,Telugu PIE:Pallava,Prakrit, Sanskrit!,Brahmic/Sharada )
+myanmar ONE ၁ (Burma: Sino-Tibetan)
+
+We need to rely on other evidence to establish which language family might have been encoded, specifically the evidence for a tonal language.
+
+
+
+Theory: Some member of the Marco Polo delegation tried to teach some (southern?) Chinese dialect to European scholars.
+
+1 ≈ 'o' ౧ ၁ <> 𓁹 𓂂 eyen ain yin arab 5
+2 ≈ २ ≠ ၃ :
+3 ≈ '9' ≈ ၃ <> ೩ ౩ 
+4 ≈ 'ˢ' 'ᶜ' <> ༤ 𑁕 𑁪 ૪ ੪ ৪ <> ક ka qatre?
+5 ≈ '𓎆' ≈ 𑁖 ≈ ༥ <> 𓏏 ٥ @ ARABIC-INDIC  
+6 ≈ reverse ꠉ บ <> ៦ ๖ ໖ ೬ ၆ <> LO  ល LY ឭ liao LLLA  ഴ LA  ல LA  ల PO PLA  ป LA ལ
+7 ≈ ౭ = ౭ <> ક ≠ 2 !!
+8 <> 0 ? P? pa 𐋨 ba ?
+
+
+[0] Character Entropy in Modern and Historical Texts: Comparison Metrics for an Undeciphered Manuscript
+Luke Lindemann, Claire Bowern
+
+https://arxiv.org/abs/2010.14697 
+
 α β ζγ δ ε ϝφ γζ η ι  θ κ λ μ νξ οω πφ ξ  ϱ ςσ ψ τ υ φ ω χ υ ζ ϊ ϋ ό ύ ώ ϐ
 
 EVA:
@@ -137,14 +179,65 @@ f31 Potaz.liiten.oHeiten.oHeiiten. << sitzen?
 96 Pajos 89 (den) horhos
 97 Pahos den horhos ^^
 98 khor hox Pcokcos P/Krokos? 
+
 98   !!!!!!!!!!!!!!
+!!!!!!! NUMBERS !!!!!!!!!
+until Voynich script has a Unicode block, one has to improvise to represent it in text:
+
+If the arabic numerals next to the singulary signs are accurate and not mistaken later additions,
+we can observe that numerals are represented as ordinary letters of the alphabet, just like in old greek.
+
+Most numbers shown match very well with the large family of Brahmi script :
+Signs in quotes are best approximations and may be replaced with better approximations!
+
+1 o ౧ ၁ <> arab 5
+2 ≈ २ ≠ ၃ :
+3 ≈ '9' ≈ ၃ <> ೩ ౩ 
+4 ≈ 'ˢ' 'ᶜ' ≈ ༤ 𑁕 𑁪 ૪ ੪ ৪ <> ક ka qatre?
+5 ≈ '𓎆' ≈ 𑁖 ≈ ٥ @ ARABIC-INDIC  
+
+# signs (numbers?) after 5 do not repeat or look different in the three series.
+
+6 ≈ reverse I. ꠉ บ <> ៦ ๖ ໖ II. ೬ ၆ ຣ III. ৪
+7 ~ ౭ = ౭ ≈ ક ≠ 2 !! II. III. ø breakof! 
+0 <> 8 = P? pa 𐋨 ba base / pass?
+
+The last 4 'numbers' on page 98 are 3 4 6 3
+The three series look like
+P 1 2 3 4 5 6? 7? 
+P 1 2 3 4 5 6'? 
+P 1 2 3 4 5 X
+"3 4 6? 3"
+3463
+
+Three Jewels (Triple Gem): The Buddha, the Dharma (teachings), and the Sangha (community of monks/nuns).
+Four Noble Truths: The central teachings of Buddhism on the nature of suffering and the path to its cessation.
+Noble Eightfold Path: The path leading to the end of suffering and the attainment of enlightenment.
+
+
+𑁍 LOTUS
+𑁒 ONE
+𑁓 TWO
+𑁔 THREE
+𑁕 FOUR
+𑁖 FIVE
+𑁗 SIX
+𑁘 SEVEN
+𑁙 EIGHT
+𑁚 NINE
+𑁛 TEN
+
+The numbers end after 5 and repeat at what would be 9, so at most 8 digits given
+The repetition only goes to 5 though 
+
+
 			 1 2 3 4 5 6 7 *
       P o r 9 4 ) k 2 P
-     1 o ain 1 (bir=bereshit=first)
-     2~2 r èr 二 liǎng  andro?? (iKi=second sni/sti) ~౨
-     3~9 un/san üç=thres=shlsh 3~dreh~9 ౩vs౨
-     4~4 dört=tetra CI ;) 方 4-Wind风®/FANG网  ౪ BENGALI ৪ <> Tetra=T='8'
-     5~𓏏 ) pan (万 𓂭 bread) wan 丸 ‘round’ 万->完 亡 (fin) 
+     1 o ౧ ၁ ain 1 (bir=bereshit=first)
+     2~2 ၃ ƒ r èr 二 liǎng  andro?? (iKi=second sni/sti) ~౨
+     3~9 ౩ ¦ ၃ un/san üç=thres=shlsh 3~dreh~9 ౩vs౨
+     4~ ˞ ၄?  dört=tetra CI ;) 方 4-Wind风®/FANG网  ౪ BENGALI ৪ <> Tetra=T='8'
+     5~𓏏 𓎆 ) pan (万 𓂭 bread) wan 丸 ‘round’ 万->完 亡 (fin) 
      6 k heKa ~ |6~၆
      7~s sebta 7~2~౭~၇ se'Phe
      Σ O k t ta pan => octave ;) achMen
@@ -188,6 +281,13 @@ myanmar EIGHT	၈
 
 		 1 2 3 4 5 6 7 8 
      P o 2 9 c ) 8 9 c k 9
+
+     1 2 3 4 5 6 7 8 
+     P o r 9 , ) k 2 P
+
+
+
+
 99 Phcor
 101 Hjox8cc9
 105 <53> Katu : Kaktus?
