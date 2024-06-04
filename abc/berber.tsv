@@ -1,112 +1,58 @@
-Libyco-Berber
-3rd century BC to the 3rd century AD
-Reintroduced: Neo-Tifinagh
-  								0 	1 	2 	3 	4 	5 	6 	7 	8 	9 	A 	B 	C 	D 	E 	F
-Tifinagh U+2D3x 	ⴰ 		ⴱ 	ⴲ 	ⴳ 	ⴴ 	ⴵ 	ⴶ 	ⴷ 	ⴸ 	ⴹ 	ⴺ 	ⴻ 	ⴼ 	ⴽ 	ⴾ 	ⴿ
-Tifinagh U+2D4x 	ⵀ 	ⵁ 	ⵂ 		ⵃ 	ⵄ 	ⵅ 	ⵆ 	ⵇ 	ⵈ 	ⵉ	 	ⵊ 		ⵋ 	ⵌ 	ⵍ 		ⵎ 	ⵏ
-Tifinagh U+2D5x 	ⵐ 	ⵑ 		ⵒ 		ⵓ 		ⵔ 	ⵕ 	ⵖ 	ⵗ 	ⵘ 	ⵙ 	ⵚ 	ⵛ 	ⵜ 	ⵝ 	ⵞ 	ⵟ
-Tifinagh U+2D6x 	ⵠ 	ⵡ 	ⵢ 		ⵣ 	ⵤ 	ⵥ 	ⵦ 	ⵧ 								ⵯ
-
-Kabylia, it shows a clear Phoenician influence. It is the best-deciphered variant, due to the discovery of several Numidian bilingual inscriptions in Libyan and Punic (notably at Dougga in Tunisia). 22 letters out of the 24 were deciphered.
-
-a ⴰ
-B ⴱ b ⵒ p ⴲ Beith
-C ⵛ ʃ ⵜ 𓎀
-D ⴷ ⴵ ⴸ=Δ V=ⵠ ⴹ 
-E ⴻ ʒ air ⵦ 	
-F ⴼ ⵋ J
-G ⴴ ⵤ z
-H ⵀ ⵂ Half
-I ⵂ Hi ⵉ=y(Σ silent) vs ⵈ
-J ⵊ ⵋ ⵌ 讲 !	
-K ⴽ ⴿ  
-L ⵍ NIL:
-N ⵏ ⵐ ⵑ ny!
-M ⵎ 
-O ⴰ a ⵓ u
-P ⵒ b
-Q ⴽ ⴿ ⵈ
-R ⵕ ⵔ Ra 𓇳  
-S ⵙ ⵚ Sa Sarah 🌞  
-T ⵜ ⵝ th ⴶ dj
-U ⵡ	w
-V ⵠ ⴸ=Δ 
-W ⵡⵡ
-X ⵅ χ ⴵ ⴳ ⴴ g/dj ⵝ th:tic
-Y ⵢ śypsilon	
-Z ⵤ  [g/ß]
-ⵉ [Σ]i
-
-ⵣ 	z
-ⵥ 	ẓ
-
-ⵤ 		[G]z 	ز 	zain ⵤ1 
-ⵢ 	[Gj]y
-ⵞ 	tʃ 	 ⵛ+ⵜ
-ⵟ 	ṭ ⴹ double
-
-ⵘ Gir!
-
-
-
-Unicode 	Image 	Font 	Transliteration 	Name
-Latin 	Arabic 	IPA
-ⴰ 	a 	ا 	æ 	ya
-ⴱ 	b 	ب 	b 	yab
-ⴲ 	b 	ٻ 	β 	yab fricative
-ⴳ 	g 	گ 	ɡ 	yag
-ⴴ 	g 	ڲ 	ɣ 	yag fricative
-ⴵ 	dj 	ج 	d͡ʒ 	yadj
-ⴶ 	dj 	ج 	d͡ʒ 	yadj
-ⴷ 	d 	د 	d 	yad
-ⴸ 	d 	ذ 	ð 	yad fricative
-ⴹ 	ḍ 	ض 	dˤ 	yaḍ
-ⴺ 	ḍ 	ظ 	ðˤ 	yaḍ fricative
-ⴻ 	e 	ه 	ə 	yey
-ⴼ 	f 	ف 	f 	yaf
-ⴽ 	k 	ک 	k 	yak
-ⴾ 	k 	ک 	k 	Tuareg yak
-ⴿ 	k 	ک 	x 	yak fricative
-ⵀ 	h b 	ھ ب 	h b 	yah = Tuareg yab
-ⵁ 	h 	ھ 	h 	yah
-ⵂ 	h 	ھ 	h 	Tuareg yah
-ⵃ 	ḥ 	ح 	ħ 	yaḥ
-ⵄ 	ʕ (ɛ) 	ع 	ʕ 	yaʕ (yaɛ)
-ⵅ 	kh (x) 	خ 	χ 	yax
-ⵆ 	kh (x) 	خ 	χ 	Tuareg yax
-ⵇ 	q 	ق 	q 	yaq
-ⵈ 	q 	ق 	q 	Tuareg yaq
-ⵉ 	i 	ي 	i 	yi
-ⵊ 	j 	ج 	ʒ 	yaj
-ⵋ 	j 	ج 	ʒ 	Ahaggar yaj
-ⵌ 	j 	ج 	ʒ 	Tuareg yaj
-ⵍ 	l 	ل 	l 	yal  NIL!!!  Nⵍ
-ⵎ 	m 	م 	m 	yam
-ⵏ 	n 	ن 	n 	yan
-ⵐ 	ny 	ني 	nj 	Tuareg yagn
-ⵑ 	ng 	ڭ 	ŋ 	Tuareg yang
-ⵒ 	p 	پ 	p 	yap
-ⵓ 	u : oo ou
-w 	و : woun +++ ۉ 	w 	yuw vyou ! = Tuareg yaw
-ⵔ 	r 	ر 	r 	yar RAd vs ⵙ Sol !! SunRad ↔ Sultan? Ratzinger~Helsaenger? 
-ⵕ 	ṛ 	ڕ 	rˤ 	yaṛ  Qr? <<
-ⵖ 	gh (ɣ) 	غ 	ɣ 	yaɣ
-ⵗ 	gh (ɣ) 	غ 	ɣ 	Tuareg yaɣ
-ⵘ 	gh (ɣ) j 	غ ج 	ɣ
-ʒ 	Aïr yaɣ = Adrar yaj
-ⵙ 	s 	س 	s 	yas ⵙⵔ SahRa SoLar !!!
-ⵚ 	ṣ 	ص 	sˤ 	yaṣ
-ⵛ 	sh (š) 	ش 	ʃ 	yaš  C! toe zeh lasche l'ⵛ
-ⵞ 	ch (tš) 	تش 	t͡ʃ 	yatš
-ⵜ 	t 	ت 	T 	yat
-ⵝ 	th 	ت 	θ̱ 	yat fricative
-ⵟ 	ṭ 	ط 	tˤ 	yaṭ
-ⵠ 	v 	ۋ 	v 		yav  daVi !!! <<
-ⵡ 	w 	ۉ 	w 	yaw yawuU ⵡⵡ
-ⵢ 	y 	ي 	j 	yay ⵢ G J !! f
-ⵤ 		z 	ز 	z 	Tawellemet yaz ⵤ1 zain ! = Harpoon zahn! yaz <<<
-ⵣ 	z 	ز 	z 	yaz
-ⵥ 	ẓ 	ژ 	zˤ 	yaẓ
-ⵦ 	E 	  	ei 	ye (APT)
-ⵧ 	o 	  	o 	yo (APT)
- ⵯ 	+ʷ 	+ ٗ 	ʷ 	Labio-velarization mark = Tamatart ≈ <super> 2D61
+Similar	Berber	Latin 	Arabic 	IPA Transliteration 	Name	Notes	
+o	ⴰ 	a 	ا 	æ 	ya		
+B	ⴱ 	b 	ب 	b 	yab	bi ㅂ bowl 𓊪 𓎼 𓇷 passover	
+𓊖	ⴲ 	b 	ٻ 	β 	yab fricative	"beith orb ""bv"" "	https://www.youtube.com/watch?v=1tTKGmipFFQ
+𓍲	ⴳ 	g 	گ 	ɡ 	yag	Gyros Gewinde	
+𓍱 ɣ γ  	ⴴ 	g 	ڲ 	ɣ 	yag fricative	ᵍʰ gh / ᵍʰj 	https://www.youtube.com/watch?v=MmGjJNGTuIs
+Ϫ Ⲇ	ⴵ 	dj 	ج 	d͡ʒ 	yadj	ʒ ğ	
+T	ⴶ 	dj 	ج 	d͡ʒ 	yadj	𓏏𓏤𓍔𓍘	
+Δ	ⴷ 	d 	د 	d 	yad	 	
+ⵠ  = v	ⴸ 	d 	ذ 	ð 	yad fricative	though	
+ㄷ 	ⴹ 	ḍ 	ض 	dˤ 	yaḍ	et	
+ㅌ	ⴺ 	ḍ 	ظ 	ðˤ 	yaḍ fricative	dzhou (donald)	
+E	ⴻ 	e 	ه 	ə 	yey	ⴰ/ⴰ a/a ä	
+F	ⴼ 	f 	ف 	f 	yaf	Hof (mnemonic)	
+Q	ⴽ 	k 	ک 	k 	yak	ⵇ Q ☑	
+𓍿	ⴾ 	k 	ک 	k 	yak (Tuareg)	𐘿	
+K	ⴿ 	k 	ک 	x 	yak fricative	lache x ch ≈ χ chr ≠ human ich ç	
+𓇷 𔓷	ⵀ 	h b 	ھ ب 	h b 	yah = Tuareg yab	Halb ⴱ B	
+ø	ⵁ 	h 	ھ 	h 	yah	☉ Hel	
+𓎛i	ⵂ 	h 	ھ 	h 	yah (Tuareg)	ⵆ kh	
+h	ⵃ 	ḥ 	ح 	ħ 	yaḥ	hal?	
+ħ	ⵄ 	ʕ (ɛ) 	ع 	ʕ 	yaʕ (yaɛ)	γ ⵖ 	
+X	ⵅ 	kh (x) 	خ 	χ 	yax	"Bach ""chr"" ≈ lache x ch ≠ human ich ç"	
+𐀤	ⵆ 	kh (x) 	خ 	χ 	yax (Tuareg)	4 quatre	
+𐘿	ⵈ 	q 	ق 	q 	yaq (Tuareg)	3 circ  ⴾ 𐘿 k/q	
+Q	ⵇ 	q 	ق 	q 	yaq	ⴽ K	
+	ⵉ 	i 	ي 	i 	yi	𓇋?  ?𐤉	
+I	ⵊ 	j 	ج 	ʒ 	yaj	ⵊan ≈ Jan	
+J	ⵋ 	j 	ج 	ʒ 	yaj (Ahaggar)	J ≈ ⵋ ≈ ⵊ ≈ I	
+井	ⵌ 	j 	ج 	ʒ 	yaj (Tuareg)	JI jǐng 讲 jiang 	
+ll	ⵍ 	l 	ل 	l 	yal  	NIL!  Nⵍ null	
+亡	ⵎ 	m 	م 	m 	yam	忙 mang 𓏠 𒈠 𒄷 𐀀 𒈨 𓅓	
+𜎂	ⵏ 	n 	ن 	n 	yan	𓈖 𐦊𓏤 ≈ 𒿡 ≈ 𐠙 na ≈ 𐦊𓏤𓏤 ni 𐦊𓏤𓏤𓏤𓏤 ne 𒾑 ≈ 𒾫 ≈ 𐠚 ne ⵏ n 𜎂 na	
+𜎂	ⵑ 	ng 	ڭ 	ŋ 	yang (Tuareg)	¬ !	
+𒿡 𐠙	ⵐ 	ny 	ني 	nj 	yagn (Tuareg)	¬ ≠	
+b Б	ⵒ 	p 	پ 	p 	yap		
+oo	ⵓ 	u	  ۉ و	w 	yuw yaw	woun	
+𓇳	ⵔ 	r 	ر 	r 	yar	 RAd vs ⵙ Sol !! SunRad ↔ Sultan? Ratzinger~Helsaenger? 	
+𓇳	ⵕ 	ṛ 	ڕ 	rˤ 	yaṛ  	Qr? 	
+γ	ⵖ 	gh (ɣ) 	غ 	ɣ 	yaɣ		
+𓎛 ⵂ 	ⵗ 	gh (ɣ) 	غ 	ɣ 	Tuareg yaɣ		
+𐀤	ⵘ 	gh (ɣ) j 	غ ج 	ɣ ʒ	yaɣ	𓊖 ʒir ɣir kur	
+☉ 	ⵙ 	s 	س 	s 	yas 	ⵙⵔ SahRa SoLar σ !!!	
+σ	ⵚ 	ṣ 	ص 	sˤ 	yaṣ		
+c 𓍿	ⵛ 	sh (š) 	ش 	ʃ 	yaš  	C! toe zeh lasche l'ⵛ	
+č 𓎀	ⵞ 	ch (tš) 	تش 	t͡ʃ 	yatš		
+T	ⵜ 	t 	ت 	T 	yat	ṭēt 𐤈	
+𐤈	ⵝ 	th 	ت 	θ̱ 	yat fricative	"ṭēt 	"	
+ⵞ ㅌ	ⵟ 	ṭ 	ط 	tˤ 	yaṭ		
+ⴸ = Δ	ⵠ 	v 	ۋ 	v 	yav	ⴸ = Δ ≠ ⵠ = v   daVi dual !!! <<	
+U	ⵡ 	w 	ۉ 	w 	yaw 	double wuU ⵡⵡ	
+𐤉	ⵢ 	y 	ي 	j 	yay 	yodh 𐤉 ⵢ G J !! f	
+𐤆	ⵤ 	z 	ز 	z 	yaz (Tawellemet)	 ⵤ1 zain ! = Harpoon zahn! yaz <<<	
+Ψ	ⵣ 	ᵖz 	ز 	z 	yaz		
+Ƶ	ⵥ 	ẓ 	ژ 	zˤ 	yaẓ		
+e	ⵦ 	E 	  	ei 	ye (APT)		
+oo	ⵧ 	o 	  	o 	yo (APT)	ø ≈ --	
+ʷ 	 ⵯ 	+ʷ 	+ ٗ 	ʷ 		Labio-velarization mark = Tamatart ≈ 2D61	
