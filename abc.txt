@@ -1,5 +1,8 @@
 𓂝𓇋𓄿𓇯𓃀𓍿𓎀𓎟𓎡𓎛𓐍𓂧𓏏𓆓𓇋𓆑𓎼𓌨𓊖𓍱𓋴𓈎𓉔𓅱𓎛𓇋𓏤𓇌𓆳𓆵𓆶𓆴𓆓𓎡𓎟𓂓𓐍𓄓𓏯𓂅𓏲𓂢𓌳𓅓𓅱𓈗𓏠𓈖𓐝𓊗𓇳𓂋𓄿𓍯𓍢𓏲𓉔𓂝𓊪𓐍𓊖𓈎𓏘𓂋𓍱𓍲𓋴𓆓𓈙𓏏𓏌𓅱𓍯𓍢𓏲𓉔𓏴𓏭𓇌𓏮𓆄𓆄𓆓𓊃 𓀁𓀀𓂻𓏛  #𓂜𓏤𓌠𓌟𓃅𓌢𓈇𓏮𓈋𓏪𓏥𓏼𓏨
 
+𓂝 a/arm 𓄿 ä/Ar 𓃀 b/p 𓍿 č 𓎀 tc 𓎡 k 𓎛 ḫr 𓐍 kr 𓂧 𓏏 d/t 𓆓 dj/q 𓇋 f/ᶠa/i/j 𓆑 ƒ 𓎼 g 𓌨 gr 𓍲/𓍱 ɣ/γ 𓋴 s 𓏘 qar 𓈎 tar 𓉔 h 𓅱 µωr 𓏭 𓏮 𓇌 y 𓂓 kar 𓏯𓂅 l? 𓏲/𓍢 wn/wr 𓌳 m/n 𓅓 m 𓅱 wn 𓈗 mar 𓏠 gmen 𓈖 n 𓐝 mer/par  𓇳 ra 𓂋 r 𓍯 rho 𓊪 p 𓋴 s 𓈙 š 𓏏 t 𓊃 z 𓏌 o/urn 
+
+
 DANGER:DIFFERENT-HOMOGLYPHS!! 𓀀≠󳀀
 U+13000 (77824) vs U+F3000
 
