@@ -179,8 +179,8 @@ qaš𒌅 	adze, axe, bow
 𒀀𒄷𒊿𒉡 	a-baḫ-šin-nu
 𒀀𒄷𒊿𒉡 	(edible) stalk
 
-𒀀𒅆𒁍 	magician, sorcerer
-
+𒀀𒅆𒁍  a-si-bu 𓋴 𓃀 𓇼 𓏤 
+𒀀𒅆𒁍 	magician, sorcerer 𓈙𓊪𓋴𓋴𓀻𓏥 
 𒀀𒅆𒁍 	(a (mythical?) bovid), battering ram, exorcist, incantation priest, magician, sorcerer
 
 𒀀𒅆𒆷𒇻 	a-ši-la-lu
@@ -976,6 +976,12 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 
 𒁍𒈛𒋫 𒊏𒈬 	pu-luḫ-ta ra-mu •Flucht machen
 𒁍𒈛𒋫 𒊏𒈬 	to inspire fear •Furcht machen
+
+𒉺𒉌 pa-ni 
+𒉺𒉌 front 
+
+𒄿𒈾 𒉺𒉌 i-na pa-ni
+𒄿𒈾 𒉺𒉌 in front 
 
 𒁍𒉡 	buʳ-nu <> front
 𒁍𒉡 	buᵏ-nu ~ facing
@@ -2575,16 +2581,19 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅅𒊒 	ʰig-ru •higre > hȳr > hire
 𒅅𒊒 	hire, wage  <> ƒƒƒ *kewHs- 𒆪𒊭𒀭 kuššan-, “fee, pay, wages, price”
 
-𒅆𒁍 	ši-bu  <> 𒁍 paleo
+𒅆𒁍 	ši-bu  <> 𒁍 paleo 
 𒅆𒁍 	elder, old (person)
 <<<<> 
-𒅆𒁍 	ši-bu √spec 
+𒅆𒁍 	ši-bu √spec 𓋴 𓃀 𓇼 𓏤 
 𒅆𒁍 witness
+
+𒅆𒁉 ši-bi √spec 𓋴 𓃀 𓇼 𓏤 
+𒅆𒁉 witness
 
 𒅆𒁍𒌅 	ši-bu-tu <> Siechtum
 𒅆𒁍𒌅 	old age
 
-𒅆 𒄵𒊒 	ši-bir-ru •shepherd’s
+𒅆𒄵𒊒 	ši-bir-ru •shepherd’s
 𒅆𒄵𒊒 	shepherd’s staff
 
 𒅆𒃻𒊒 	ši-gar-ru
@@ -6302,8 +6311,9 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒊭𒉿𒌅 	ša-pi-tu
 𒊭𒉿𒌅 	a bird
 
-𒊭𒊏𒄣 	ša-ra-qu
-𒊭𒊏𒄣 	to steal
+𒊭𒊏𒄣 	ša-ra-qu سرق sarag 𒅖𒊑𒅅 iš-ri-iq 
+𒊭𒊏𒄣 	to steal <> Schurke 𓋴 𓂋 𓐍 𓅁 | guilty person | •thief
+<> 𓋴 𓎡 𓈖 𓆊 | be greedy, lust (after) | ?
 
 𒊭𒊏𒄷 	ša-ra-ḫu
 𒊭𒊏𒄷 	make splendid, to take pride in
@@ -8528,7 +8538,11 @@ namrūtu 𒉆𒊒𒋾
 
 𒇷𒊒𒊒𒋙 liᶜ-ru-ru.šú curse him
 
-𒀀𒅆𒁍𒋾 a-ši-bu-ti reside √seat sit
+
+𒀀𒅆𒁍  a-si-bu
+𒀀𒅆𒁍     magician, sorcerer
+
+𒀀𒅆𒁍𒋾 a-ši-bu-ti reside √seat sit 𓈙 𓊪 𓋴 𓋴 𓀻 𓏥 
 āšib 𒀀𒅆𒅁,𒀀𒈨
 āšibat 𒀀𒅆𒁁
 āšibū 𒀀𒅆𒁍
@@ -9255,3 +9269,157 @@ sanuti® senator "prefect"
 𒈬𒊏𒉡 	mu-ra-nu 
 𒄯𒊏𒉡 	ᵟḫar-ra-nu δρόμος drómos द्रम् drámati “to run” <> tramp 
 𒄯𒊏𒉡 	road, way
+
+# Hammurabi
+
+𒉈𒅕𒌓 ne-er-tam <> necro?
+𒉈𒅕𒌓 ne-er-tam muertam
+𒉈𒅕𒌓 murder
+
+𒀉𒁕𒀝 id-da-ak 
+𒀉𒁕𒀝 execute(d), take away, kill
+
+𒌒𒁉𒅕 ub-bi-ir 
+𒌒𒁉𒅕 ubir √accuse абвіна abvina… obviňovat obvinit <> обвини́тел obvinítel
+𒌒𒁉𒅕 ubir √accuse абвіна 비난자 binanja
+𒌒𒁉𒅕 ubir √accuse अभियोक्ता abhiyoktā
+𒌒𒁉𒅕 ubir √accuse 𐍆𐌰𐌹𐍂𐌹𐌽𐍉𐌽 fairinōn
+𒌒𒁉𒅕 ubir √accuse apkaltinti 
+𒌒𒁉𒅕 ubir √accuse באַשולדיקן beschuldigen 𓃀𓐍𓏯𓏏𓈖
+
+
+𒌑𒌒𒁉𒅕𒈠 ú-ub-bi-ir-ma 
+𒌑𒌒𒁉𒅕𒈠 (and) laid charge
+
+𒈬𒌒𒁉𒅕𒋗 mu-ub-bi-ir 
+𒈬𒌒𒁉𒅕𒋗 accuser
+
+𒊌𒋾𒅔 uk-ti-in
+𒊌𒋾𒅔 convict(ed)
+
+𒄿𒀧𒆷𒀝 i-il-la-ak
+𒄿𒀧𒆷𒀝 walk
+
+𒀭𒀀𒇉 ÍD 
+𒀭𒀀𒇉 "The River" Jordan / Don ? see Hammurabi
+
+𒄿𒊭𒀠𒇷𒀀𒄠𒈠 i-ša-al-li-a-am-ma 
+𒄿𒊭𒀠𒇷𒀀𒄠𒈠 dive (into river) <>  𒋧𒈠𒌅 	sum-ma-tu dove
+
+𒅅𒋫𒊭 ? ik-ta-ša- sú 
+𒅅𒋫𒊭𒌅? defeat(ed)
+
+𒅖𒊑𒅅 iš-ri-iq سرق sarag 𒊭𒊏𒄣 šarāqum <> skáka 
+𒅖𒊑𒅅 steal <> Schurke 𓋴 𓂋 𓐍 𓅁 | guilty person |
+<>
+𓋴 𓎡 𓈖 𓆊 | be greedy, lust (after) | ?
+
+𒄿𒋰𒁀𒀠 	i-tab-ba-al
+𒄿𒋰𒁀𒀠 	take away (estate)
+
+𒋗𒌑 su-u
+𒋗𒌑 that e.g. man (he is)
+
+𒋗𒀀𒋾 	su-a-ti
+𒋗𒀀𒋾 	that?
+# 𒋗𒀀𒋾 	salvati (survive river cleansing)
+
+𒈪𒅎𒈠 𒋳𒋗 mi-im-ma šum-šu
+𒈪𒅎𒈠 𒋳𒋗 anything (at all)
+
+𒄿𒈾𒀜𒁲𒅔 i-na-ad-di-in
+𒄿𒈾𒀜𒁲𒅔 give, hand out (*ent-don)
+
+
+𒈦𒂗𒆕 MAŠ.EN.GAG muškēnum  𒂗 ᵏen king 
+𒈦𒂗𒆕 MAŠ.EN.GAG muškēnum  𒈬𒍑𒆠𒉡𒌝 mu-uš-ke-nu-um
+𒈦𒂗𒆕 MAŠ.EN.GAG 𒈦𒆕𒂗 MAŠ.GAG.EN •maššagenᵘᵐ muškēnum  
+𒈦𒂗𒆕 MAŠ.EN.GAG muškēnum מִסְכֵּן miskēn ܡܶܣܟܸܝܢܳܐ (meskēnā مِسْكِين miskīn mesquin  মিসকিন miskin миски́н miskín <> Menschen? Masses
+𒈦𒂗𒆕 poor (person class), commoner √𒆠𒍝𒍝 šukênum, “to prostrate oneself” vs awilum
+
+𒀀𒁺 A.RÁ 𓂋
+𒀀𒁺 AᵇDU upto
+𒀀𒁺 AᵇDU up to (e.g. 𒌍 𒋗 30 fold fee)
+
+𒄿𒊑𒀀𒀊 i-ri-a-ab
+𒄿𒊑𒀀𒀊 give back (robbery)
+
+𒊬𒊏𒀝 šar-ra-aq
+𒊬𒊏𒀝 thief ≈ Schurke "schürer"
+
+𒊬𒊏𒂵𒉡𒌝 šar-ra-qá-nu-um šarrāqānum
+𒊬𒊏𒂵𒉡𒌝 thief
+𓋴 𓂋 𓐍 𓅁 | guilty person | Schurke <> sekur=guilt@Norse ++++ <> schuld
+𓋴 𓂋 𓐍 𓅁 | •thief | 𒊬𒊏𒂵𒉡𒌝 šar-ra-qá-nu-um šarrāqānum
+𓋴 𓂋 𓐍 𓅁 | •thief | سَارِق sāriq سراق sarrāq Schurke  цӏогьор cʼohor ҡараҡ qaraq चोर cor
+𓋴 𓂋 𓐍 𓅁 | •thief | চোৰ sür သူခိုး suhkui: 贼 caak6 贼 zeq Zocker zaglis  dizîker 窃贼 qièzéi
+𓋴 𓂋 𓐍 𓅁 | •thief | saraq > salāj < зълодѣи zŭloděi
+𓋴 𓂋 𓐍 𓅁 | •thief | <> 𒊭𒊏𒄣 	ša-ra-qu سرق sarag 𒅖𒊑𒅅 iš-ri-iq "to steal"
+𓋴 𓂋 𓐍 𓇋 𓇋 𓀁 𓏱 | evil spirit | Schurke / Schreck! / Gry..?
+
+𒄿𒋗 ʰi-šu 
+𒄿𒋗 he has 𓃹
+
+
+𒄫𒁍 KER.bu  𓐍 𓂋 <> 𓍚 𓅱 𓂻 <> 𓈎 𓂋 𓇋 𓂾 𓂻 | draw near <> 𓂋 𓉔 𓅱  
+𒄫𒁍 nearby <> 𒉠 ᶜURUB₄ 𒆭 ᵏerēbu •qarbal corebaˡ 𒆠𒆗 qé-reb ki-rib corba [[core]] into 𓏘 𓂝 𓃀 𓄶 coreba "amid"
+
+𒍝𒅈 sà-ar 𓎼 𓂋 𓍅 𓆭 | liar | 
+𒍝𒅈 liar
+
+𒊑𒅅𒊓𒁴 ri-ik-sa-tim
+𒊑𒅅𒊓𒁴 contracts
+
+𒅕𒁲𒀀𒄠 ir-de-a-am
+𒅕𒁲𒀀𒄠 bring forward (witnesses)
+
+𒀀𒊏𒀭 a-ra-an  
+𒀀𒊏𒀭 a-ra•hel uriḫullu 	conventional penalty 	Hurrian 	
+𒀀𒊏𒀭 a-ra•hel uriḫull-	<> ка́ра kára κύρωση kýrosi korvaus @ Kerker
+𒀀𒊏𒀭 penalty <> 
+𓎪 𓂋 𓇋 𓇋 𓏏 𓅪 | punishment | herit ⇔ heretics αἱρετικός hairetikós, “able to choose, factious”
+𓐍 𓋴 𓆑 𓏏 𓍚 | punishment | > slavic *kazati <> κύρωση kýrosi™
+
+𒀉𒋫𒈾𒀸𒅆 it-ta-na-aš-ši
+𒀉𒋫𒈾𒀸𒅆 bear (e.g. penalty)
+
+𒁲𒉏 di-nim
+𒁲𒉏 deeming, legal case
+
+𒁲𒉆 di-nam
+𒁲𒉆 deeming, legal decision
+
+𒁕𒀀𒀀𒉡𒌝 daʸa-a-nu-um dayyānum
+𒁕𒀀𒀀𒉡𒌝 deen, judge
+
+𒄿𒁲𒅔 i-di-in
+𒄿𒁲𒅔 deem, adjudicated
+
+𒁍𒊒𒍝𒄠 𒅁𒊒𒍑 pu-ru-sà-am ip-ru-ús 
+𒁍𒊒𒍝𒄠 𒅁𒊒𒍑 rendered a verdict p-r-s^2
+
+𒍑𒋼𒍣 uš-te-ṣí  aus…
+𒍑𒋼𒍣 let s.o. escape
+<>
+𒍑𒋼𒍣𒀀𒄠 uš-te-zi-a-am
+𒍑𒋼𒍣𒀀𒄠 produce (hidden slave)
+
+𒄿𒈾𒀜𒁲𒅖𒋳 i-na-ad-di-iš-šum
+𒄿𒈾𒀜𒁲𒅖𒋳 give (him shekel 𒂆 )
+
+𒄑𒍝𒆗 iz-za-kar besagen
+𒄑𒍝𒆗 (give away) name 
+
+𒄿𒊑𒀉𒁲 	i-re-ed-de ward
+𒄿𒊑𒀉𒁲 	conduct s.o. (e.g. to palace 𒂍𒃲)
+
+𒌑𒋫𒅈𒊒 ú-ta-ar-ru
+𒌑𒋫𒅈𒊒 return (s.o.)
+
+𒅅𒋫𒆷 ik-ta-la
+𒅅𒋫𒆷 keep (slave in house)
+
+𒅁𒇻𒍑 ip-lu-uš 
+𒅁𒇻𒍑 'b-lu- вломиться 𓂝 𓊪 𓏲 𓅓 (𓊃𓅱𓆑𓅱)
+𒅁𒇻𒍑 break in (into house 𒁉𒌓 bi-tam / bi-utu) <> betör buzib bàjẹ sílé
+
