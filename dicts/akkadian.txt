@@ -163,12 +163,27 @@ qaš𒌅 	adze, axe, bow
 𒀀𒄩𒍪 	a-ḫa-zu
 𒀀𒄩𒍪 	learn, marry, to take
 
+𒀀𒄯𒊒 	a-ᵍḪAR-RU ≈ Ašur
 𒀀𒄯𒊒 	toponym for Syria and the West, younger child
 
-𒀀𒄯𒊒 	(a cultic performer), Amorite(s), Amurru, junior, ruffian, scoundrel, social inferior, toponym for Syria and the West, younger child
+𒀀𒄯𒊒 	a(mu)-ur₅-ru Amurru
+𒀀𒄯𒊒 	a-mur-ru Amurru
+𒀀𒄯𒊒 	(a cultic performer), Amorite(s), Amurru, junior, ruffian, scoundrel, social inferior, toponym for Syria and the West, younger child 𓌸 𓂋
 
-𒀀𒄯𒊓𒉡 	a-mur-sa-nu
-𒀀𒄯𒊓𒉡 	wild pigeon
+𒀀𒄯𒊓𒉡    a-mur-sa-nu
+𒀀𒄯𒊓𒉡    a-mur-… mirahpati ϭⲣⲟⲟⲙⲡⲉ ϭⲣⲟⲙⲡⲓ crompi
+𒀀𒄯𒊓𒉡    a-mur-…  𓏠 𓈖 𓏌 𓅱 𓅭 𓇡 
+𒀀𒄯𒊓𒉡    wild pigeon ≈ dove
+
+𒀀𒄯𒊓𒉡    a-ur₅-sa-nu
+𒀀𒄯𒊓𒉡    wild pigeon
+<>
+𒌨𒊭𒉡 	ur-ša-nu
+𒌨𒊭𒉡 	wild dove
+<>
+𒌨𒌅 	ur-ṭu
+𒌨𒌅 	a dove
+
 
 𒀀𒄷 	a-ḫu
 𒀀𒄷 	a priest, arm, bank, bathed’, brother, side
@@ -5068,7 +5083,8 @@ _𒆳 	five ⚠️
 
 𒉌𒄿𒊒 niˢ-ᵖi-ru <•••> spiral speiche fahrt @ Rad  𓇻  𓋴𓃀𓄿𓇼𓇳
 
-𒉌𒊒 	ni-ru  𒉌𒄿𒊒 nīru nîr@Kurd نِير nīr נִירָא nīrā 𐎓𐎍 AINᶥRA  nira@Swahili “yoke” <> +++ 𓇻𓇼𓇳
+𒉌𒊒 	ni-ru  𒉌𒄿𒊒 nīru nîr@Kurd نِير nīr נִירָא nīrā 𐎓𐎍 AINᶥRA  nira@Swahili “yoke” 
+𒉌𒊒 	ni-ru  𒉌𒄿𒊒 nīruᵇ 𓅘 𓎛 𓃀 𓏴 𓂡 | harness, yoke| <> 𓇻𓇼𓇳 <> 𒊏𒅗𒁍 רכב rope
 𒉌𒊒 	crossbeam, yoke
 
 𒉌𒋗 	ni-šu
@@ -6267,7 +6283,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒊭𒈦𒆠𒇻 	a type of onion
 
 𒊭𒈦𒌑𒈬 	ša-maš-šam-mu
-𒊭𒈦𒌑𒈬 	sesame
+𒊭𒈦𒌑𒈬 	sesame <> sesame 𒊺𒄑𒉌 še.is.mu₅
 
 𒊭𒈪𒌅 	ša-mi-tu
 𒊭𒈪𒌅 	an alkaline plant
@@ -7791,7 +7807,7 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌑𒈬 	harp, lyre, plant(s)
 
 𒌑𒉡 	šam-nu
-𒌑𒉡 	oil <> sesame !
+𒌑𒉡 	oil <> sesame 𒊺𒄑𒉌 še.is.mu₅ 
 
 𒌑𒊒 	šam-ru <> anger
 𒌑𒊒 	furious
@@ -9275,6 +9291,9 @@ sanuti® senator "prefect"
 𒉈𒅕𒌓 ne-er-tam <> necro?
 𒉈𒅕𒌓 ne-er-tam muertam
 𒉈𒅕𒌓 murder
+≈
+𒉌𒅕𒋾 ne₂-er-ti 
+𒉌𒅕𒋾 murder
 
 𒀉𒁕𒀝 id-da-ak 
 𒀉𒁕𒀝 execute(d), take away, kill
@@ -9423,3 +9442,93 @@ sanuti® senator "prefect"
 𒅁𒇻𒍑 'b-lu- вломиться 𓂝 𓊪 𓏲 𓅓 (𓊃𓅱𓆑𓅱)
 𒅁𒇻𒍑 break in (into house 𒁉𒌓 bi-tam / bi-utu) <> betör buzib bàjẹ sílé
 
+𒁉𒅋𒅆𒅎 pí-il-ši-im
+𒁉𒅋𒅆𒅎 breach (place)
+
+𒄿𒁺𒊌𒆪𒋗𒈠 i-du-uk-ku-šu-ma
+𒄿𒁺𒊌𒆪𒋗𒈠 execute(d)
+
+𒄿𒄩𒀠𒆷𒇻𒋗 i-ʾa4-al-la-lu-šu
+𒄿𒄩𒀠𒆷𒇻𒋗 hang, hung (@ lasso 𓎂 )
+
+𒊍𒁀𒀜 AC-BA-AT
+𒊍𒁀𒀜 captured 
+in
+𒀉𒋫𒊍𒁀𒀜 it-ta-aṣ-ba-at <> תפיסה tfisa <> apanhada
+𒀉𒋫𒊍𒁀𒀜 catch, caught
+
+𒄩𒀊𒁀𒌈 ʳḫa-ab-ba-tum
+𒄩𒀊𒁀𒌈 robber™
+
+𒄩𒀊𒌈 ʳḫa-ab-tum
+𒄩𒀊𒌈 robbed
+
+𒄷𒌒𒌓    𒄴𒁍𒌓𒈠 ʳḫu-ub-tam iḫ-bu-ut-ma  
+𒄷𒌒𒌓    𒄴𒁍𒌓𒈠 Raubtum erbäuten
+𒄷𒌒𒌓    𒄴𒁍𒌓𒈠 commit a robbery 
+
+𒄴𒄩𒀊𒌅 iḫ-ḫa-ab-tu
+𒄴𒄩𒀊𒌅 commit(ted) (robbery)
+
+𒉌𒅆 ni-ši  Menschen <> nieder
+𒉌𒅆 ni-igi Nigger
+𒉌𒅆 oil-te Leute
+𒉌𒅆 people
+
+𒄿𒊭𒂵𒇻 i-ša-qá-lu aus-shekeln
+𒄿𒊭𒂵𒇻 weigh (e.g. mina of silver)
+
+
+𒆷 𒅋𒇷𒅅 la ʷil-li-ik
+𒆷 𒅋𒇷𒅅 ¬ willig
+𒆷 𒅋𒇷𒅅 did not go
+
+𒈬𒈾𒀝𒄀𒅕 mu-na-ag-ge-er denouncer
+
+𒌑𒊏𒀊𒁀 ú-ra-ab-ba √rabi
+𒌑𒊏𒀊𒁀 raise <> erbe?
+
+
+𒅕𒍢𒋾𒋗𒉡 𒅇 𒉺𒁲𒋗𒉡 er-ṣe-ti-šu-nu ù pa-ṭi-šu-nu  in whose region and district
+
+𒅕𒍢𒋾𒋗𒉡 er-ṣe-ti earth
+𒅕𒍢𒋾𒋗𒉡 region
+
+𒉺𒁲𒋗𒉡 paʳṭi-šu-nu partition
+𒉺𒁲𒋗𒉡 district
+
+
+𒉺𒁕𒊑 pa-ṭa-ri pretium! = ransom praemium @ Latin √patria bribe pay փրկագին pʻrkagin 
+𒅁𒋼𒊑 ip-ṭe₄ri فِدْيَة 'phitya फिरौती phirautī збір "ransom fee" ఫీజు prístojba  +++^
+𒄿𒉺𒀜𒁕𒊑 i-pa-aṭ-ṭa-ri (sic?) ransom <> pantubos ἄποινα ápoina 𐌰𐌽𐌳𐌰𐌱𐌰𐌿𐌷𐍄𐍃 
+𒄿𒉺𒀜𒁕𒅈 i-pa-aṭ-ṭa-ar ransom price payment при́стојба
+𒅁𒉺𒀜𒁯 ip-pa-aṭ-ṭár  ransom tarif वेतन Ablass! •ipalat
+𒉺𒁕𒊑 pa-ṭa-ri •pay ransom pacur betale באַצאָלן bezahle- pagar payer фидын
+𒉺𒁕𒊑 pa-ṭa-ri бээр төлээр beer töleer плати́ти platýty plaćatiʳ
+𒉺𒁕𒊑 pa-ṭa-ri پرداختن pardâxtan
+
+𒅁𒌅𒊏𒀸𒋗𒈠 ip-ṭú-ra-aš capture as ransom
+
+𒌅𒌨𒊒 tu-úr-ru capTure (taken as ransom hostage)
+
+𒊏𒈠𒀭𒋗 ra-ma-an-šu he himself?
+
+𒍑𒋫𒀝𒅆𒁕𒀸 uš-ta-ak-ši-da-aš allow to reach
+
+𒋗𒈠 šu-ma he is the one who 𒂠 SUMUNX 𓃹
+
+𒀸𒊭𒋾 aš-ša-ti 𒁮 aššatu 𓎛 𓃀 𓋴 𓇋 𓇋 𓏏 𓋳 | wife | heb? hab-zweite 2
+
+𒌑𒁉𒄴 u-bi-iḫ official
+
+𒄿𒋼 i-te •Jude ⲑⲉϣⲉ 𓉲 𓏜 
+𒄿𒋼 neighbor 
+
+𒄿𒈾𒀜𒁲𒅔 i-na-ad-di-in entreichen
+𒄿𒈾𒀜𒁲𒅔 give, pay √don
+
+𒌑𒋫𒅈 ú-ta-ar 
+𒌑𒋫𒅈 return
+
+𒅁𒊺𒁴 ep-še-tim up-set™
+𒅁𒊺𒁴 prepare
