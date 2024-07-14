@@ -2599,10 +2599,12 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅆𒁍 	ši-bu  <> 𒁍 paleo 
 𒅆𒁍 	elder, old (person)
 <<<<> 
-𒅆𒁍 	ši-bu √spec 𓋴 𓃀 𓇼 𓏤 
+𒅆𒁍 	ši-bu √spec 𓋴 𓃀 𓇼 𓏤 <> sophie
 𒅆𒁍 witness
 
-𒅆𒁉 ši-bi √spec 𓋴 𓃀 𓇼 𓏤 
+𒅆𒁉 ši-bi √spec 
+𒅆𒁉 ši-bi 𓋴 𓃀 𓇼 𓏤  savant све́дка свиде́… شَاهِد šāhid <> সাখী śakhi Zeuge 
+𒅆𒁉 ši-bi ≈ ǧi-bi 𓋴 𓃀 𓇼 𓏤 गवाह gavāh
 𒅆𒁉 witness
 
 𒅆𒁍𒌅 	ši-bu-tu <> Siechtum
@@ -9527,8 +9529,191 @@ in
 𒄿𒈾𒀜𒁲𒅔 i-na-ad-di-in entreichen
 𒄿𒈾𒀜𒁲𒅔 give, pay √don
 
+𒅔𒈾𒀜𒉡 i-na-ad-nu
+𒅔𒈾𒀜𒉡 give(n) (𒋳 šum zu ihm, to him)
+
+𒅔𒈾𒀜𒉡𒋳 i-na-ad-nu-šum "in a donation"
+
 𒌑𒋫𒅈 ú-ta-ar 
 𒌑𒋫𒅈 return
 
 𒅁𒊺𒁴 ep-še-tim up-set™
 𒅁𒊺𒁴 prepare
+
+𒄿𒅔𒉌 i-in-ni ≈ änder
+𒄿𒅔𒉌 iᶴin-ni שינה / שִׁנָּה shiná ≈ change
+𒄿𒅔𒉌 alter, change
+
+𒅕𒉘𒋳 er-re-šum √earth
+𒅕𒉘𒋳 tenant farmer
+
+𒋼𒀀 te-a Deich
+𒋼𒀀 te.mû dam 
+𒋼𒀀 #kar kār 𓏘
+𒋼𒀀 embankment
+
+𒐊𒇷𒐊 iᵇli-i 
+𒐊𒇷𒐊 able?
+
+𒀀𒋰𒉺 a-tap-pa
+𒀀𒋰𒉺 off-take
+
+𒅁𒋼𒈠 	ip-te-ma
+𒅁𒋼𒈠 	open, release(d)
+
+𒐊𒋼 ᵞi-teⁿ  γείτων geítōn ᵞvicìn voisin
+𒐊𒋼 neighbor  Jude? <> adjacent 
+
+𒐊𒊭𒃲 	i-ša-qal ausbezahl ex-equal?
+𒐊𒊭𒃲 	pay out
+
+𒅅𒆠𒅖 ik-ki-is "axe"
+𒅅𒆠𒅖 cut down (tree)
+
+𒄑𒊬 giš.KIRI6 
+𒄑𒊬 kirîm ≈ 𒆠𒊒 	ki-ru court orchard <> غَرَسَ ḡarasa "to grow/plant"
+𒄑𒊬 garden ≈ orchard
+
+𒉡𒄑𒊬 NU.giš.KIRI6
+𒉡𒄑𒊬 nukaribbum …
+𒉡𒄑𒊬 nóng 农 
+𒉡𒄑𒊬 gardener
+
+𒍝𒂵𒁉𒅎 za-qá-pí-im zaqāpim
+𒍝𒂵𒁉𒅎 za-qá-pí-im садя sadja sadzić פֿאַרזעצן verzetschen
+𒍝𒂵𒁉𒅎 za-qá-pí-im زَرَعَ zaraʕa посаждам posaždam φυτεύω phuteúō
+𒍝𒂵𒁉𒅎 to plant
+<>
+𒄑𒆪𒌒 iz-qú-up izqup
+𒄑𒆪𒌒 plant
+
+𒌑𒊏𒀊𒁀 urabba 
+𒌑𒊏𒀊𒁀 urabba erbaue urbar-machen √grow
+𒌑𒊏𒀊𒁀 tend (plants)
+
+𒄩𒆷 ḪA.LA half #zītta side 
+𒄩𒆷 share (of s.o.)
+
+𒊒𒆪𒁉𒅎 ru-ku-bi-im rukkubim √𓆤
+𒊒𒆪𒁉𒅎 pollination
+
+𒐊𒇷𒄀 i-le-qé
+𒐊𒇷𒄀 receive •ˢelect?
+
+𒋫𒁀𒀠 ta-ba-al
+𒋫𒁀𒀠 take
+
+𒅗𒈝 tête-l Dattel
+𒅗𒈝 tê-mar תָּמָר tamár
+𒅗𒈝 zu-lumᵖ
+𒅗𒈝 #suluppī 𓇜 𓇠 
+𒅗𒈝 #suluppī 𓃀 𓈖 𓇋 𓇜 𓈒 𓏥  <> Schlappe zapata
+𒅗𒈝 date
+
+𒅎𒈠𒃼 im-ma-gàrᵉᵉ
+𒅎𒈠𒃼 agree
+
+𒈧𒍪 mas-zu mas:more amass 
+𒈧𒍪 interest
+
+𒁾𒁉 DUB-pí duplicate
+𒁾𒁉 document
+
+𒅁𒁀𒀸𒋗𒌑 ib-ba-aš-šu-ú up-erwachsen
+𒅁𒁀𒀸𒋗𒌑 grow
+
+𒅕𒊭𒄠 ir-ša-am 
+𒅕𒊭𒄠 set with grain (𒊺 šeʾam) <> earth / hirse?
+
+
+𒂵𒋾  qá-ti 𔐨
+𒂵𒋾  possession
+
+𒌑𒉺𒊍 	ú-pa-as
+𒌑𒉺𒊍 	oppose, object
+
+𒐊𒈠𒄩𒅈 	i-ma-ḫa-ar
+𒐊𒈠𒄩𒅈 	accept
+
+𒈪𒅎𒈠 mi-im-ma 𓏇
+𒈪𒅎𒈠 any •likeness 
+
+𒌅𒌨𒊑𒅎 tu-ur-ri-im
+𒌅𒌨𒊑𒅎 (re)turn
+
+šamallûm agent
+
+ḫarrānim journey
+
+ippal pay, compensate
+
+𒂵𒂵𒀜 qá-qá-ad
+𒂵𒂵𒀜 principal (of silver) √add
+
+𒌋𒃶 šaman₂ "a vessel" <> 𓏠 𓈖 𓅷 𓄿 𓏊 𓏏 | pottery vessel | <> 𓍱 𓎱 <> 𓏠 𓈖 𓇋 𓏴 𓏌 | jar
+
+
+𒌋𒃶𒇲 šaman₂lá šamallûm
+𒌋𒃶𒇲 salesman, agent
+𒌋𒃶  𒇲 -ler -er person suffix   𒀳 apin "plow" => 𒀳𒇲 •apınler @ Turk!  
+
+
+𒉌𒅆 ni-ši https://en.wiktionary.org/wiki/n%C4%AB%C5%A1um
+𒉌𒅖 ni-iš nīš 𓋹 𓈖 𓐍
+𒉌𒅖 life
+𒉌𒅖 lifting https://oracc.museum.upenn.edu//rinap/rinap5/Q003709 vi 13
+
+𒉌𒅖  𒐊𒅆 𒐊𒍝𒋼𒀀𒈠
+ni-iš i-lim i-za-kar-ma
+swear by the life of god
+
+𒀸  𒉌𒅖   𒅆𒅀 𒋙   
+ina ni-iš IGI.II-šú
+in a nisch Ayge su 
+at the glance of his eyes
+
+𒁉𒊭𒄠 bi-ša-am "Beisammen"
+𒁉𒊭𒄠 property
+
+𒈪𒅎𒈠 mi-im-ma any •likeness 𓏇
+
+𒉺𒊭𒊑𒅎 pa-ša-ri-im pašārim √peso payer
+𒉺𒊭𒊑𒅎 pay, sell
+
+𒅗𒉌𒅅 ka-ni-ik 𓃹
+𒅗𒉌𒅅 sealed document
+
+𒆷 𒅗𒉌𒆠𒅎 la ka-ni-ki-im
+𒆷 𒅗𒉌𒆠𒅎 lā kanīkim 
+𒆷 𒅗𒉌𒆠𒅎 without receipt
+
+𒋗𒌑 šu-u
+𒋗𒌑 he himself, self, this, said …
+
+𒈠𒄯 ma-har 𓅓 𓄂 𓏏 𓏤 | in front of, before | 𒈤 𒌨 maḫu 𓌳 𓄿 𓇋 𓃬 maru
+𒈠𒄯 front (in-a)
+
+𒌑𒅗𒀭𒈠 ú-ka-an-ma
+𒌑𒅗𒀭𒈠 convict
+
+𒀀𒁺 adi(A.RÁ)
+𒀀𒁺 upto 𓂋
+
+𒀉𒋫𒆠𒅕 it-ta-ki-ir ittakir 
+𒀉𒋫𒆠𒅕 attack, dispute (a claim)
+
+𒐊𒅆 ʰᵃi-lim > Allah
+𒐊𒅆 ʰᵃi-lim < Golem 
+𒐊𒅆 God
+
+𒅋𒄀𒈠 il-qé-ma
+𒅋𒄀𒈠 √ilqē
+𒅋𒄀𒈠 take
+
+𒇷𒄀𒅎 le-qé-em
+𒇷𒄀𒅎 leqêm алуу ljau≈levo@Latin लेना lenā lent
+𒇷𒄀𒅎 take <> leech לָקַח lakákh loot leih алыр alır 𐰞
+
+
+𒈠𒆷 ma-la mal "however much" <> many NL  
+

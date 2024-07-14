@@ -2628,9 +2628,11 @@ vi 26 my sorrowful plight Ištar heard {and said to me}
 
 vi 27 𒆷 𒋫𒁄𒈛 𒅅𒁀𒀀 𒌑𒊬𒄭𒍝𒀭𒉌 𒊮𒁍  
 vi 27 la ta-pal-làḫ iq-ba-a ú-šar-ḫi-ṣa-an-ni lìb-bu  
-“Fear not!” She gave me confidence, (saying): “Because of your entreaties, which you directed towards me, 
-vi 28 𒀀𒈾 𒉌𒅖 𒋗𒅀𒅗 𒊭 𒌨𒃻𒀀  
+“Fear not!” She gave me confidence, (saying): 
+
+vi 28 𒀀𒈾  𒉌𒅖  𒋗𒅀𒅗 𒊭 𒌨𒃻𒀀  
 vi 28 a-na ni-iš ŠU.II-ka ša taš-šá-a  
+“Because of your entreaties, which you directed towards me, 
 
 vi 29 𒅆𒅀𒅗 𒅎𒆷𒀀 𒁲𒅎𒌅 𒅈𒋫𒅆 𒊑𒂊𒈬  
 vi 29 IGI.II-ka im-la-a di-im-tu ar-ta-ši re-e-mu  
