@@ -1,5 +1,8 @@
 ### EXTRA those with NUMBER (…2 etc) need to go to BOTTOM of file!!
 # udug2    ŠITA₂
+SHE 	𒊺
+ŠE 	𒊺
+SHAR 	𒊬
 GUN 	𒄘 
 ALAN  	𒀩
 zalam  	𒀩 	column
@@ -544,6 +547,7 @@ DAḪ	𒈭
 DAL	𒊑
 DALLA	𒈦𒄘𒃼	*
 DAM	𒁮
+DAN 	𒃉
 DAN2 	𒃉 	≈ DGEN 𒂷
 DAN3	𒃩
 DAN4	𒃋
@@ -1241,7 +1245,8 @@ SIM	𒉆
 SIMX	𒍼
 SIMUG	𒌣
 SIN2	𒉆
-SIPAD	𒉺𒇻	*
+SIPA 	𒉺𒇻 
+SIPAD	𒉺𒁳	* 	≈ shepard
 SIR2	𒁍
 SIRARA	𒀏
 SIRARA2	𒌓𒈣𒀏𒋓	*
@@ -1960,16 +1965,14 @@ LAK747 	¿≈𒁃?
 
 pe2 	𒉿
 
-balak 	𒁄 	פֶּלֶך pélekh Akk. pilaqqu "spindle" ++
-bala  	𒁄 	bal <> Ball Ballen "spindle" Akk. pilaqqu < веретено <> 방추 
+balak 	𒁄 	פֶּלֶך pélekh pilaqqu "spindle" 
+bala  	𒁄 	bal <> Ballen "spindle" < веретено <> 방추 
 sar2 	𒃻
-balla 	𒃻 𒊕𒂵𒂅 𒂡𒂷 	  "wig" šar sag.ga.TUN šir₃.ga2 #zikari ; upur sinništi; upur zikari
-balla2 	𒃻𒊕𒂵𒂅𒂡𒊩 		 	"wig" šar sag.ga.TUN šir₃.ga2 #zikari ; upur sinništi; upur zikari
 
 BANDA3	𒌉
 BAN3.da	𒌉𒁕 	=
-BANDA4 	𒅂   	  Bund puntal puntello bāng "support, stanchion": pole, post
-BANDA5 	𒋞𒅂 	Bund puntal puntello bāng "support, stanchion": pole, post
+BANDA4 	𒅂   	  
+BANDA5 	𒋞𒅂 	
 
 baneš 	𒀾 	 baño? (a container)
 
@@ -3645,6 +3648,7 @@ rid 	𒂇
 kirê 	𒄑𒊬
 kirêm 	𒄑𒊬
 kirâm 	𒄑𒊬
+kirûm 	𒄑𒊬
 kirâ 	𒄑𒊬
 eḳli 	𒀀𒊮
 eḳla 	𒀀𒊮
@@ -3674,6 +3678,8 @@ bâ’irim 	𒋗𒄩
 šeʾam 	𒊺 
 šeʾum 	𒊺 
 10  	𒌋
+20  	𒌋𒌋
+30  	𒌋𒌋𒌋
 uz2 	𒊺𒄷
 ebūrim 	𒂙
 BURU14 	𒂙
@@ -3684,3 +3690,25 @@ GÀR 	𒃼
 Ì 	𒉌
 bar4 	𒌓 	#bir2 really!
 pî 	𒅗 	#semitic pu
+pī 	𒅗 	#semitic pu
+šar 	𒊬
+pi2 	𒁉
+pí 	𒁉
+GA2×EN 	𒃉
+BÙRiku 	𒌋𒂷 	#??
+būrim 	𒌋𒂷𒂊
+Aʾ 	𒄴
+60  	𒐕
+qal 	𒃲
+QÁ	𒂵  	#todo already there as QA2 fix .js!
+SÀ 	𒐼  	#todo already there as SA3 fix .js!
+SÍN	𒉆
+ZÚ	𒅗
+EQ 	𒅅 	#ek?
+suluppī 	 _	#ZÚ.LUM
+ḳi 	𒆠
+ḳu 	𒆪	
+lá	𒇲
+ŠÍG 𒋠
+SÍ	𒍣
+# RÁ	𒁺
