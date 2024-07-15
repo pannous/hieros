@@ -9558,9 +9558,6 @@ in
 𒀀𒋰𒉺 a-tap-pa
 𒀀𒋰𒉺 off-take
 
-𒅁𒋼𒈠 	ip-te-ma
-𒅁𒋼𒈠 	open, release(d)
-
 𒐊𒋼 ᵞi-teⁿ  γείτων geítōn ᵞvicìn voisin
 𒐊𒋼 neighbor  Jude? <> adjacent 
 
@@ -9688,7 +9685,10 @@ at the glance of his eyes
 𒆷 𒅗𒉌𒆠𒅎 without receipt
 
 𒋗𒌑 šu-u
-𒋗𒌑 he himself, self, this, said …
+𒋗𒌑 self, this, said …, he himself
+
+𒅆𒐊 ši-i
+𒅆𒐊 she, he, that (one)
 
 𒈠𒄯 ma-har 𓅓 𓄂 𓏏 𓏤 | in front of, before | 𒈤 𒌨 maḫu 𓌳 𓄿 𓇋 𓃬 maru
 𒈠𒄯 front (in-a)
@@ -9716,4 +9716,34 @@ at the glance of his eyes
 
 
 𒈠𒆷 ma-la mal "however much" <> many NL  
+
+𒐊𒆠𒅁𒈠 i-ḳi-ip-ma iqīpma
+𒐊𒆠𒅁𒈠 entrust (silver)
+
+𒊩𒁷𒈾 MÍ.KURUN.NA
+𒊩𒁷𒈾 innkeeper (female)
+
+𒂍𒊭 É-ša establishment
+𒂍𒍪 É-sú estate
+
+𒂍 𒄑𒁷𒈾 bît GEŠ.TIN.NA 
+𒂍 𒄑𒁷𒈾 Gast Haus
+
+
+𒅁𒋼𒈠 	ip-te-ma
+𒅁𒋼𒈠 	open, release(d)
+
+𒅁𒋼𒋼 ip-te-te
+𒅁𒋼𒋼 open (ed)
+
+𒋛𒄀𒀀 MAL.GE.A gagîm  communal house
+
+𒉿𒀸𒁀𒀜 wa-aš-ba-at √habit @ beith
+𒉿𒀸𒁀𒀜 live, living in
+
+𒐊𒋼𒊒𒌒 i-te-ru-ub
+𒐊𒋼𒊒𒌒 enter(ed) 𒋼
+
+𒐊𒃲𒇻𒌑𒅆 i-ḳal-lu-u2-ši iqallûši 
+𒐊𒃲𒇻𒌑𒅆 burn (a woman) <> έγκαυ călŏr “heat” <> Ikarus 
 
