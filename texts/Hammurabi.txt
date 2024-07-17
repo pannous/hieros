@@ -1,12 +1,18 @@
+Codex Hammurabi - Jurisprudence
+
 https://ehammurabi.org/#laws
 
 Bergmann (1953) : cuneiform
 Abulhab 2017 : transliteration
 Richardson (2004): translation
 
+Most beautiful document in which the unicode fonts match the preserved forms closely,
+the grammar is mostly clear and the vocabulary is sufficiently repetative.
+
 §1.
-𒋳𒈠 𒀀𒉿𒈝 𒀀𒉿𒇴 𒌑𒌒𒁉𒅕𒈠 𒉈𒅕𒌓 𒂊𒇷𒋗 𒀉𒁲𒈠 𒆷 𒊌𒋾𒅔𒋗 𒈬𒌒𒁉𒅕𒋗 𒀉𒁕𒀝
+𒋳𒈠 𒀀𒉿𒈝 𒀀𒉿𒇴 𒌑𒌒𒁉𒅕𒈠 𒉈𒅕𒌓 𒂊𒇷𒋗 𒀉𒁲𒈠 𒆷 𒊌𒋾𒅔 𒋗 𒈬𒌒𒁉𒅕 𒋗 𒀉𒁕𒀝
 šum-ma a-wi-lum a-wi-lam ú-ub-bi-ir-ma ne-er-tam e-li.šu id-di-ma la uk-ti-in.šu mu-ub-bi-ir.šu id-da-ak
+šumma awīlum awīlam ubbir-ma nērtam elīšu iddī-ma lā uktīššu, mubbiršu iddâk.
 If a man accused a man and laid (a charge of) murder against him but has not convicted him, his accuser will be executed.
 
 𒋳𒈠 𒀀𒉿𒈝 𒆠𒅖𒁉 𒂊𒇷 𒀀𒉿𒅆 𒀉𒁲𒈠 𒆷 𒊌𒋾𒅔𒋗 𒊭 𒂊𒇷𒋗 𒆠𒅖𒁍 𒈾𒁺𒌑 𒀀𒈾 𒀭𒀀𒇉 𒄿𒅋𒆷𒀝 𒀭𒀀𒇉 𒄿𒊭𒀠𒇷𒀀𒄠𒈠 𒋳𒈠 𒀭𒀀𒇉 𒅅𒋫𒊭𒍪 𒈬𒌒𒁉𒅕𒋗 𒂍𒍪 𒄿𒋰𒁀𒀠 
