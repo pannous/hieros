@@ -201,13 +201,16 @@ qaš𒌅 	adze, axe, bow
 𒀀𒅆𒆷𒇻 	a-ši-la-lu
 𒀀𒅆𒆷𒇻 	decorative fancy work (as a gift)
 
+𒀀𒅗 AʳZU Arzt
+𒀀𒅗 physician
+
 𒀀𒅗𒇻 	a-ka-lu √ocel
 𒀀𒅗𒇻 	bread, food, loaf, to eat
 
 𒀀𒆗𒉺𒉡 	a-lap-pa-nu ≠ jalapeno ;)
 𒀀𒆗𒉺𒉡 	(a sweet beer), sweet pomegranate
 
-𒀀 𒆠 𒌅 	a-ki-tu √cult
+𒀀𒆠𒌅 	a-ki-tu √cult
 𒀀𒆠𒌅 	a cultic festival
 
 𒀀𒆠𒇻 	a-ki-lu √kur
@@ -1494,7 +1497,7 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒂊𒉿𒊒 	earth, soil | •perde > bugta půda aarde אֶרֶץ érets джер cer ground 
 
 𒂊𒉿𒋗 	e-pe-šu ≈ 𒐊𒁍𒍑 i-pu-uš opus 
-𒂊𒉿𒋗 	build, make, to do, set up (household)
+𒂊𒉿𒋗 	build, make, to do, treat, set up (household)
 
 𒂊𒊏𒉡 	e-ra-nu
 𒂊𒊏𒉡 	(a tree)
@@ -9300,6 +9303,8 @@ sanuti® senator "prefect"
 𒉌𒅕𒋾 ne₂-er-ti 
 𒉌𒅕𒋾 murder
 
+𒐊𒁺𒊌𒆪 i-du-uk-ku
+𒐊𒁺𒊌𒆪 take away, kill, execute <> education
 𒀉𒁕𒀝 id-da-ak 
 𒀉𒁕𒀝 execute(d), take away, kill
 
@@ -9355,8 +9360,10 @@ sanuti® senator "prefect"
 𒈦𒂗𒆕 MAŠ.EN.GAG muškēnum  𒂗 ᵏen king 
 𒈦𒂗𒆕 MAŠ.EN.GAG muškēnum  𒈬𒍑𒆠𒉡𒌝 mu-uš-ke-nu-um
 𒈦𒂗𒆕 MAŠ.EN.GAG 𒈦𒆕𒂗 MAŠ.GAG.EN •maššagenᵘᵐ muškēnum  
-𒈦𒂗𒆕 MAŠ.EN.GAG muškēnum מִסְכֵּן miskēn ܡܶܣܟܸܝܢܳܐ (meskēnā مِسْكِين miskīn mesquin  মিসকিন miskin миски́н miskín <> Menschen? Masses
-𒈦𒂗𒆕 poor (person class), commoner √𒆠𒍝𒍝 šukênum, “to prostrate oneself” vs awilum
+𒈦𒂗𒆕 MAŠ.EN.GAG Massen Menschen 𓄟
+𒈦𒂗𒆕 muškēnum √𒆠𒍝𒍝 šukênum, “to prostrate oneself” vs awilum
+𒈦𒂗𒆕 muškēnum מִסְכֵּן miskēn ܡܶܣܟܸܝܢܳܐ meskēnā مِسْكِين miskīn mesquin মিসকিন miskin миски́н 
+𒈦𒂗𒆕 poor (person class), commoner, working man
 
 𒀀𒁺 A.RÁ 𓂋
 𒀀𒁺 AᵇDU upto
@@ -10001,6 +10008,7 @@ ippal pay, compensate
 𒅅𒋫𒁉 iq-ta-bi
 𒅅𒋫𒁉 quoth <> gebot <> 𒋳𒁉𒄿 taq-bi-i 
 
+
 𒍑𒋫𒊭𒈾𒈠 uš-ta-ša-na-ma … twice …
 <>
 𒊭𒉡 	ša-nu
@@ -10062,7 +10070,7 @@ ippal pay, compensate
 𒐊𒁀𒀸𒅆 enough (to eat)
 
 𒅈𒉆  ar-nam Ehrlosigkeit?
-𒅈𒉆  guilt
+𒅈𒉆  guilt, blame, offense, crime!
 
 𒉿𒅈𒆠 wa-ar-ki
 𒉿𒅈𒆠 follow(ing)
@@ -10169,6 +10177,9 @@ ippal pay, compensate
 𒐊𒈠𒀭𒉡 remain, include s.o. √manner
 
 
+𒅖𒋫𒅗𒀭 iš-ta-ka-an stecken!?
+𒅖𒋫𒅗𒀭 inflict (wound) •set-fast :
+=>
 𒉺𒉆 𒅖𒋫𒅗𒀭 pa-nam iš-ta-ka-an
 𒉺𒉆 𒅖𒋫𒅗𒀭 decide
 ≈
@@ -10548,14 +10559,17 @@ his eyeˢ will be pulled out
 𒂵𒀜 qá-at •guard
 𒂵𒀜 hand, care
 
-𒅎𒋫𒄩𒊍 im-ta-ḫa-aṣ 𓌃 𓏱 imtaḫaṣ
-𒅎𒋫𒄩𒊍 <> 𒉺 maḫāṣu  mëshoj 
-𒅎𒋫𒄩𒊍 strike, struck
-
+𒅎𒋫𒄩𒊍 im-ta-ḫa-aṣ imtaḫaṣ 𓅓 𓂝 𓆓 𓂧 𓐦 𓂡 •madδaḫaṣu ? 𓌃 𓏱 
+𒅎𒋫𒄩𒊍 strike, struck <> em.touch? 𓆼 𓄿 𓂝 𓂡 
+<>
+𒈠𒄩𒍣 ma-ḫa-ṣí maḫaṣī 𒉺 maḫāṣu 𐎎𐎃𐎕 mḫṣ 󳲌 𓐦 𓅱 Medjedu ☑ mëshoj 𓐓 𓌇 ?
+𒈠𒄩𒍣 strike
 
 𒌑𒄩𒀊𒉺𒁺 ú-ḫa-ap-pa-du beraubt
 𒌑𒄩𒀊𒉺𒁺 blind (eyesight)
 ≈
+𒄴𒋰𒁕 úḫ-tap-da 
+𒄴𒋰𒀉 úḫ-tap-id 
 𒄴𒋰𒁉𒀉 úḫ-tap-pí-id stab?
 𒄴𒋰𒁉𒀉 blind (eyesight)
 <>
@@ -10590,5 +10604,99 @@ mišil    šīmīšu išaqqal (PUN) 𓏇
 he'll weigh out half his value (𒉛 sam₂ "sum")
 
 𒇷𒂊𒀉 le-e-et lēt ≈ לֶחִי lekhi לְחִי 
-𒇷𒂊𒀉 leⁿe-et ланита lanita  <<<
-𒇷𒂊𒀉 cheek
+𒇷𒂊𒀉 leⁿe-et ланита lanita  <<< see UN
+𒇷𒂊𒀉 cheek <> lenient leniency lēnis (“soft”)
+
+
+𒌑𒅗𒌦 ᵛú-zu-un ву́ха vúxaⁿ 𐌰𐌿𐍃𐍉 ᵛausō οὖς ᵛoûs < گوش guš Goschen ☑ PIE!
+𒌑𒅗𒌦 ᵛú-zu-un  𒉿 ᵛuznu אוזן / אֹזֶן ᵛózen  veshᵒⁿ  
+𒌑𒅗𒌦 ʷú-zu-un ودن widn Leviten lesen <> ունկն unkn ականջ akanǰ •vucunj
+𒌑𒅗𒌦 úʳzu-un ear(s)en aurisᵒⁿ 𐌰𐌿𐍃𐍉 
+𒌑𒅗𒌦 ear(s) dual
+
+𒊑𒅖𒁀𒁴 ri-is-ba-tim risbātim <> ⲣⲉϥϣϭⲛⲏⲛ ⲉⲣⲣⲉϥⲙⲓϣⲓ riita ריב 
+𒊑𒅖𒁀𒁴 risbātim Raspeltum ≈ Reiberei.tum
+𒊑𒅖𒁀𒁴 quarrel <> Распутин Rasputin
+
+𒍣𒅎𒈠𒄠 sí-im-ma-am 𓇶 𓄻 !
+𒍣𒅎𒈠𒄠 wound 𓋴 𓆓 𓍬 𓏥 <> 𓋴 𓈎 𓂋 𓌪 scar
+
+𒇷𒅁𒁉 𒊭 𒍑 𒋫𒁲 𒅆 li-ib-bi.ša ᵐuš-ta-di.ši Leib misdracht…
+𒇷𒅁𒁉 𒊭 𒍑𒋫𒁲 𒅆 caused her to have a miscarriage
+
+𒇷𒅁𒁉 li-ib-bi Leib
+𒇷𒅁𒁉 foetus [sic] •body •LiebesFrucht?
+
+𒄈𒉌 GÍR.NI 
+𒄈𒉌 GÍR.ZAL karzil
+𒄈𒉌 lancet (𒌓𒊕𒁇 bronze ZABAR)
+
+𒍑𒋫𒇷𒅎 uš-ta-li-im 
+𒍑𒋫𒇷𒅎 repaired (broken bone)
+
+𒌒𒋫𒀠𒇷𒀉 ʰub-ta-al-li-iṭ ʰubtalliṭ •hubtsail הִצִּיל hitsíl hoitaa 
+𒌒𒋫𒀠𒇷𒀉 ʰubtalliṭ •huplet 𐎔𐎍𐎉 plṭ ≈ helped <> salva
+𒌒𒋫𒀠𒇷𒀉 helped, healed, saved (a man)
+
+
+𒈥𒅕𒄠 mar-ṣa-am 
+𒈥𒅕𒄠 sore (tendon)
+
+
+
+𒈾𒀉𒋾 na-ID-ti [sic] halánték tinning 
+𒈾𒆏𒋾 na-kap-ti an@cepter საფეთქელი sapetkeli صَدْغ ṣadḡ cênîk कन्चट kancaṭ 
+𒈾𒆏𒋾 na-kap-ti कनपट्टी kanᵊpaṭṭī 𓎼 𓌳 𓄿 𓄹  permuted
+𒈾𒆏𒋾 temple
+
+𒐊𒊑𒀊 i-ri-ab'
+𒐊𒊑𒀊 repay
+
+𒆏𒌓 kab-tam 
+𒆏𒌓 capital™, serious (crime, wound)
+
+𒋗𒐊 ŠUᵛI
+𒋗𒐊 shaver, barber
+
+𒐊𒄩𒀠𒆷𒇻 i-ḫa-al-la-lu олла olla 
+𒐊𒄩𒀠𒆷𒇻 iḫallalū <> 𒇲 𒇳 lal عَلِقَ ʕaliqa عِلِق ʕilig < জুলা zula κρεμάννυμαι NL länk-
+𒐊𒄩𒀠𒆷𒇻 𐌷𐌰𐌷𐌰𐌽 hung 
+
+PUN ZONE??
+𒊌𒁕𒀠𒇷𒅁 ug-da-al-li-ib
+𒊌𒁕𒀠𒇷𒅁 shave
+≈
+𒌑𒃲𒇷𒁍 ú-gal-li-bu ≠ gelobe swear 
+𒌑𒃲𒇷𒁍 ú-gal-li-bu ≈ גילח 'giléakh >  حَلَقَ ḥalaqa "shave" <> הִתְגַלֵּחַ hitgaleach
+𒌑𒃲𒇷𒁍 ú-gal-li-bu < ҡырыу qırıw ξυρέω carve
+𒌑𒃲𒇷𒁍 ú-gal-li-bu @ 𒋗𒐊 gallābum "barber"
+𒌑𒃲𒇷𒁍 shave 
+
+
+𒀊𒁍𒋾 ab-bu-tiᵒⁿ 𓃀 𓁸 𓀁  fashion? 
+𒀊𒁍𒋾 abbuti ≈ 𒀊𒌅 	ap-tu aptu <> 𓉔 𓄿 𓅱 𓀜 corvee 𓉔 𓄿 𓀋  
+𒀊𒁍𒋾 abbuti ≈ नापित nāpitá 𓈖 𓈙 𓏏 𓁸 
+𒀊𒁍𒋾 abbuti ≈ aput <> 𓄋 𓊪 𓏏 | top knot (of hair) | 
+𒀊𒁍𒋾 hair style <> 
+
+𒐊𒁕𒊍 ᵛi-da-aṣ "wit s.o." ἀπαφίσκω beswīcan  
+𒐊𒁕𒊍 deceive
+<>
+𒐊𒁺𒌑 ᵛi-du-ú video
+𒐊𒁺𒌑 wit, see
+<>
+𒐊𒈾 𒐊𒁺𒌑 i-na ᵛi-du-ú
+𒐊𒈾 𒐊𒁺𒌑 wittingly
+
+𒐊𒌓𒈠 i-tam-ma <> testament?  ant / yemin etmek ??
+𒐊𒌓𒈠 i'tam-ma ≈ тангараг
+𒐊𒌓𒈠 iʳtam-ma ≈ երդում erdum 
+𒐊𒌓𒈠 ᶜi-tam-ma ≈ قَسَم qasam क़सम qasam কসম kośom keusch sumpa' سَون٘ہہ sauṉh 
+𒐊𒌓𒈠 ᵠi-tam-ma ≈ betim <> beten? <> 
+𒐊𒌓𒈠 ᵠiʳtam-ma ≈ přísahaᵐ
+𒐊𒌓𒈠 ᵃi-tam-ma aidam 𐌰𐌹𐌸𐍃 Eid (ver)eiden +++
+𒐊𒌓𒈠 swear, take an oath 
+
+𒊺𒂊𒅎 še-e-em zu-ihm 𓃹 šêm <> she'lui <> geziehm
+𒊺𒂊𒅎 (be) his, (belongs to) him
+
