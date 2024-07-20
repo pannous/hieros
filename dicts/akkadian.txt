@@ -160,8 +160,8 @@ qaš𒌅 	adze, axe, bow
 𒀀𒄩𒌅 	a-ḫa-tu <> achim
 𒀀𒄩𒌅 	sister
 
-𒀀𒄩𒍪 	a-ḫa-zu ≈ 𒐊𒄴𒄩𒊍 iḫḫaz
-𒀀𒄩𒍪 	learn, marry, to take
+𒀀𒄩𒍪 	a-ḫa-zu ≈ 𒐊𒄴𒄩𒊍 iḫḫaz ≈ 𒐊𒄷𒊻 iḫuz
+𒀀𒄩𒍪 	learn, marry, to take  "I haz wife;)"
 
 𒀀𒄯𒊒 	a-ᵍḪAR-RU ≈ Ašur
 𒀀𒄯𒊒 	toponym for Syria and the West, younger child
@@ -298,6 +298,7 @@ qaš𒌅 	adze, axe, bow
 𒀀𒉣𒌅 	a-nun-tu •fend
 𒀀𒉣𒌅 	combat, fight
 
+𒐊𒅁𒉺𒇻 i-ip-pa-lu pay
 𒀀𒉺𒇻 	a-pa-lu …pay…
 𒀀𒉺𒇻 	amswer, to pay 
 
@@ -1492,8 +1493,8 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒂊𒉿𒊒 	ᵍe-pe-ru | geperde <> geberde gebirge
 𒂊𒉿𒊒 	earth, soil | •perde > bugta půda aarde אֶרֶץ érets джер cer ground 
 
-𒂊𒉿𒋗 	e-pe-šu opus
-𒂊𒉿𒋗 	build, make, to do
+𒂊𒉿𒋗 	e-pe-šu ≈ 𒐊𒁍𒍑 i-pu-uš opus 
+𒂊𒉿𒋗 	build, make, to do, set up (household)
 
 𒂊𒊏𒉡 	e-ra-nu
 𒂊𒊏𒉡 	(a tree)
@@ -1886,7 +1887,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄑𒄀𒉡 	giš-gi-nu
 𒄑𒄀𒉡 	clamp
 
-𒄑𒄣 	is-qu
+𒄑𒄣 	is-qu <> 𒐊𒍝𒊍 i-za-az share
 𒄑𒄣 	lot, share
 
 𒄑𒄣𒄣 	is-qu-qu
@@ -4650,7 +4651,7 @@ _𒆳 	five ⚠️
 𒈬𒋫𒉡 	epidemic
 
 𒈬𒌅 	mu-tu
-𒈬𒌅 	death, husband
+𒈬𒌅 	death, husband ≈ 𒈬𒋾 𒈬𒁴 𒈬𒊷
 
 𒈮𒆪 	puk-ku
 𒈮𒆪 	a wooden ring or ball?, poor quality, waste wool
@@ -7504,8 +7505,7 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 
 𒌉𒁀𒇻 	tur-ba-lu terra.bare
 𒌉𒁀𒇻 	bare ground
-
-
+<>
 𒌉𒁍𒌅 	tur-bu تراب turāb “dust”
 𒌉𒁍𒌅 	tur-bu-tuˢ <> disturb
 𒌉𒁍𒌅 	tur-bu-ˢtu <> tornado d'bust sturm
@@ -9404,7 +9404,7 @@ sanuti® senator "prefect"
 𓐍 𓋴 𓆑 𓏏 𓍚 | punishment | > slavic *kazati <> κύρωση kýrosi™
 
 𒀉𒋫𒈾𒀸𒅆 it-ta-na-aš-ši
-𒀉𒋫𒈾𒀸𒅆 bear (e.g. penalty)
+𒀉𒋫𒈾𒀸𒅆 support, bear (e.g. penalty)
 
 𒁲𒉏 di-nim
 𒁲𒉏 deeming, legal case
@@ -9498,8 +9498,13 @@ in
 
 𒈬𒈾𒀝𒄀𒅕 mu-na-ag-ge-er denouncer
 
-𒌑𒊏𒀊𒁀 ú-ra-ab-ba √rabi
-𒌑𒊏𒀊𒁀 raise <> erbe?
+𒈬𒊏𒁉𒋾 mu-ra-bi.ti (she)
+𒈬𒊏𒁉 mu-ra-bi √rabi
+𒈬𒊏𒁉 raise
+≈
+𒌑𒊏𒀊𒁀 ú-ra-ab-ba √rabi  رَفَعَ rafaʕa
+𒌑𒊏𒀊𒁀 urabba ἀείρω / αἴρω βαστάζω aírō bastázō افراشتن
+𒌑𒊏𒀊𒁀 raise <> erbe? erigō ériger բարձրացնել barjracʻnel הרים 
 
 
 𒅕𒍢𒋾𒋗𒉡 𒅇 𒉺𒁲𒋗𒉡 er-ṣe-ti-šu-nu ù pa-ṭi-šu-nu  in whose region and district
@@ -9628,6 +9633,7 @@ in
 𒊒𒆪𒁉𒅎 ru-ku-bi-im rukkubim √𓆤
 𒊒𒆪𒁉𒅎 pollination
 
+𒐊𒇷𒆪𒌑 i-le-ku-u ≈
 𒐊𒇷𒄀 i-le-qé
 𒐊𒇷𒄀 receive •ˢelect?
 
@@ -9716,7 +9722,7 @@ at the glance of his eyes
 𒋗𒌑 self, this, said …, he himself
 
 𒅆𒐊 ši-i
-𒅆𒐊 she, he, that (one)
+𒅆𒐊 she, said, he, that (one)
 
 𒈠𒄯 ma-har 𓅓 𓄂 𓏏 𓏤 | in front of, before | 𒈤 𒌨 maḫu 𓌳 𓄿 𓇋 𓃬 maru
 𒈠𒄯 front (in-a)
@@ -9811,7 +9817,10 @@ at the glance of his eyes
 𒐊𒋼𒊒𒌒 i-te-ru-ub
 𒐊𒋼𒊒𒌒 enter(ed) 𒋼
 
-𒐊𒃲𒇻𒌑𒅆 i-ḳal-lu-u2-ši iqallûši 
+𒐊𒃲𒇻𒌑 i-qal-lu-ú
+𒐊𒃲𒇻𒌑 burn
+≈
+𒐊𒃲𒇻𒌑𒅆 i-ḳal-lu-u2 ši iqallûši 
 𒐊𒃲𒇻𒌑𒅆 burn (a woman) <> έγκαυ călŏr “heat” <> Ikarus 
 
 𒁉𒅖 bi-iš
@@ -9888,6 +9897,11 @@ there is no cause for complaint in such circumstances.
 𒌌𒁺𒋳 ul-du-šum huldig-ihm
 𒌌𒁺𒋳 bore him (children)
 
+𒐊𒅁𒉺𒇻 i-ip-pa-lu 'payer…
+𒐊𒅁𒉺𒇻 pay
+𒀀𒉺𒇻 	a-pa-lu 'payer…
+𒀀𒉺𒇻 	to pay 
+
 𒉺𒊭𒊑𒅎 pa-ša-ri-im pašārim √peso payer
 𒉺𒊭𒊑𒅎 pay, sell
 
@@ -9941,11 +9955,17 @@ ippal pay, compensate
 𒈠𒅕𒊒𒁴 safekeeping ≈ Umsorgen
 
 𒌑𒅗𒀭𒉡𒋗𒈠 ukannūšū-ma
-𒌑𒅗𒀭𒉡 ú-ka-an-nu
+𒌑𒅗𒀭𒉡 ú-ka-an-nu ukannū
 𒌑𒅗𒀭𒉡 CONvict(ed)
 
 𒅖𒆪𒌦 iš-ku-un
 𒅖𒆪𒌦 CONclude
+
+𒆪𒉡𒄰 ku-nu-kam
+𒆪𒉡𒄰 CONtract, sealed document
+
+𒅖𒌉 iš-ṭur
+𒅖𒌉 inscribe, write out (contract, testament, …)
 
 𒍑𒋰𒅆 uš-tab-ši uštabši 
 𒍑𒋰𒅆 establish, produce
@@ -10044,17 +10064,33 @@ ippal pay, compensate
 𒅈𒉆  ar-nam Ehrlosigkeit?
 𒅈𒉆  guilt
 
-𒉿𒅈𒅗 wa-ar-ka 
-𒉿𒅈𒅗 later, circumstances
 𒉿𒅈𒆠 wa-ar-ki
 𒉿𒅈𒆠 follow(ing)
+<>
+𒉿𒅈𒅗 wa-ar-ka wārka ≈ 𓆱 ʷacħa achter
+𒉿𒅈𒅗 LATER, AFTER, circumstances <> 𓉔 𓄿 𓅱 𓏛 𓏥 
+𒉿𒅈𒅗𒉡𒌝 wa-ar-ka-nu-um wark•annum
+𒉿𒅈𒅗𒉡𒌝 later years
+<>
+𒉿𒅈𒅗𒍝 wa-ar-ka-sà wa-ar-ka-za
+𒉿𒅈𒅗𒍝 inheritance (Nachlass), affairs
+<>
+𒉿𒅈𒆠𒅎 wa-ar-ki-im
+𒉿𒅈𒆠𒅎 later (adjective) (e.g. husband)
+𒉿𒅈𒆪𒌈 wa-ar-ku-tum
+𒉿𒅈𒆪𒌈 later (adjective) (e.g. children)
+
+𒈤𒊒𒌈 maḫ-ru-tum maḫrûtum  𓏅 𓈖 𓏏 𓅱 𓏜 
+𒈤𒊒𒌈 earlier
+
+𓈖 𓉔 𓊪 𓇳 | early morning | ⲛϣⲟⲣⲡ ⲛϣⲱⲣⲡ early <> 𓋴 𓈖 𓉔 𓊪 𓇳 | rise early |
 
 𒈬𒈾𒀊𒁴 mu-na-ab-tim munnabtim
 𒈬𒈾𒀊𒁴 man abstine עבריין
 𒈬𒈾𒀊𒁴 fugitive (of wife and town)
 
 𒀸𒋳 as-šum
-𒀸𒋳 as-since, because
+𒀸𒋳 as-since, because, assume, begin
 
 𒐊𒄑𒍥𒅁 i-iz-zi-ib izzib īzzīb
 𒐊𒄑𒍥𒅁 divorce √sieb;) <> διαζύγιο diazýgio orzvodъ 
@@ -10080,9 +10116,11 @@ ippal pay, compensate
 𒐊𒍣𒅕𒈠 ᵐi-ze-er-ma μισέ 𓄟 𓋴 𓂧 𓀁  ⲙⲁⲥⲧⲉ
 𒐊𒍣𒅕𒈠 detest(ed) <> 
 
+
+𒈬𒁴 mutim •martim > mari @ marriage
+𒈬𒁴 husband
 𒈬𒋾 muti
 𒈬𒋾 husband
-≈
 𒈬𒊷 musa6
 𒈬𒊷 husband 
 𒈬𒍝 musà 
@@ -10092,6 +10130,10 @@ ippal pay, compensate
 
 𒋫𒄴𒄩𒍝𒀭𒉌  taḫḫazannī
 𒋫𒄴𒄩𒍝𒀭𒉌 (you) have (me)
+
+𒍢𒄴𒊏𒄠 ṣe-eḫ-ra-am ṣeḫram ṣeḫra 𒍑𒂵 #šerru छोरी chorī "child, suckling"  
+𒍢𒄴𒊏𒄠 ṣe-eḫ-ra-am ṣeḫram ṣeḫra 𓄡 𓇋 𓇋 𓂋 𓀔   
+𒍢𒄴𒊏𒄠 baby, youngster <> 𒌉 TUR •țär צָעִיר tsa'ir ṣaɣir ṣeḫrum "small"
 
 𒊺𒊑𒅅𒋫 še-ri-ik-ta šeriktaša ≈ 𒋓𒆪 	šer-ku dowry
 𒊺𒊑𒅅𒋫 (her) dowry
@@ -10103,3 +10145,450 @@ ippal pay, compensate
 𒈾𒊍𒊏𒀜 na-aṣ-ra-at naṣrat ≈ na oprezu
 𒈾𒊍𒊏𒀜 vigilant
 
+𒄭𒋾𒌓 ḫi-ṭi-tam ḫiṭītam 𓍑 𓄿 𓇋 𓇋 𓏏 𓅪  𓏥 | wrongdoing | √heat 𓊄 𓏏 𓅪
+𒄭𒋾𒌓 fault <> 𓇋 𓊃 𓆑 𓏏 𓅪
+
+𒐊𒈾 𒀜𒁺𒌑 𒅆 i-na-ad-du-ú-ši inadosi(she) hineingestossen
+𒐊𒈾 𒀜𒁺𒌑 𒅆 (she will be) cast into 
+
+
+𒌑𒊬𒅆𒋗 ú-šar-ši.šu
+𒌑𒊬𒅆𒋗 (she) help him acquire (children)
+
+𒊩𒋗𒄄𒁴 mí.šu-gi4-tim šugītum
+𒊩𒋗𒄄𒁴 mistress, junior wife
+
+𒍑𒋫𒌓𒄭𒅕 uš-ta-tam-ḫi-ir
+𒍑𒋫𒌓𒄭𒅕 "compare" << girl-fight
+
+𒅅𒋫𒀸𒁮 ik-ta-áš-dam 
+𒅅𒋫𒀸𒁮 reach(ed) (home)
+
+
+𒐊𒈠𒀭𒉡 i-ma-an-nu imannū
+𒐊𒈠𒀭𒉡 remain, include s.o. √manner
+
+
+𒉺𒉆 𒅖𒋫𒅗𒀭 pa-nam iš-ta-ka-an
+𒉺𒉆 𒅖𒋫𒅗𒀭 decide
+≈
+𒉺𒉌 𒋗 𒅖𒋫𒅗𒀭 pa-ni šu iš-ta-ka-an
+𒉺𒉌 𒋗 𒅖𒋫𒅗𒀭 he decided (to marry) ?
+:
+𒅖𒋫𒅗𒀭 iš-ta-ka-an 
+𒅖𒋫𒅗𒀭 decide ^
+<>
+𒅖𒊭𒀝𒅗𒀭 iš-ša-ak-ka-an
+𒅖𒊭𒀝𒅗𒀭 establish (freedom), put on an account
+≈
+𒐊𒊭𒀝𒅗𒀭 i-ša-ak-ka-an
+𒐊𒊭𒀝𒅗𒀭 make out (contracts), give (hairstyle)
+<?>
+𒐊𒊭𒀝𒅗𒉡 i-ša-ak-ka-nu (𒐊𒈾 𒂵𒅆 𒅆𒅎)
+𒐊𒊭𒀝𒅗𒉡 impaled (gepfählt)
+<>
+𒄿𒊭𒀝𒅗 i-ša-ak-ka-ak 𒆕
+𒄿𒊭𒀝𒅗 harrow <> Isaak Zack
+<>
+𒍝𒋡𒁍 	za-qa-pu
+𒍝𒋡𒁍 	impale, plant, to fix upright
+
+
+
+𒌑𒊬𒅆 ú-šar.ši (she)
+𒌑𒊬 ú-šar შობვა shobva 𓆣 schöpfer
+𒌑𒊬 ú-šar 
+𒌑𒊬 usher, bear (children)
+
+𒌌𒁺 ul-du √hold √lad
+𒌌𒁺 bear (children)
+
+𒌑𒇷𒍮 ú-li.súm (she him) ≠ ἐλέησον eléēson
+𒌑𒇷 ú-li
+𒌑𒇷 bear (children)
+
+𒌑𒇷𒀉 ú-li-id belebt ≈ ללדת laledet 
+𒌑𒇷𒀉 bear (children) <> Leid √lad !
+
+𒁀𒀠𒋫𒀜 ba-al-ṭa-at
+𒁀𒀠𒋫𒀜 belebt(ta)
+𒁀𒀠𒋫𒀜 (she) lives
+
+𒆜𒌌𒋾 bu₂ul-ṭì belebt (gespult)
+𒆜𒌌𒋾 life
+
+𒀉𒋫𒆷𒀜 it-ta-la-ad ≈ dhalid تلد talid "to let"
+𒀉𒋫𒆷𒀜 bear (children)
+
+𒀉𒋫𒀠𒆪 it-ta-al-ku
+𒀉𒋫𒀠𒆪 pass on (die)
+
+𒀉𒋫𒈾𒀸𒅆 
+𒀉𒋫𒈾𒀸𒅆
+
+𒐊𒁍 i-pu √opus
+𒐊𒁍 he put, he made
+
+𒅎𒋫𒃼 im-ta-gàr imtagar √maat?  𒅎 ᵡIMᶥ Himmel ☑
+𒅎𒋫𒃼 ʰim-ta-ǧàr համաձայնել hamajaynel <>  hozzájárul הִסְכִּים hiskím
+𒅎𒋫𒃼 ˢim-ta-ǧàr samtykkeʳ samtyckaʳ 𐍃𐌰𐌼𐌰𐌵𐌹𐍃𐍃 συνευδοκέω suneudokéō +++
+𒅎𒋫𒃼 consent(ed)
+
+𒌑𒊭𒇴 ú-ša-lam salam
+𒌑𒊭𒇴 out-sell, repay (dowry) <> 𒁲 ☮ 𒊩 SAL
+
+
+𒋆 šim
+𒅆𒅎 ši-im
+𒅆𒅎 sie-ihm 
+𒅆𒅎 him to she, he to her (suffix or free)
+
+
+𒐊𒊏𒄠𒈬 i-ra-am-mu irammu  𓌸 𓂋 reverse
+𒐊𒊏𒄠𒈬 (be)loved
+
+
+𒈠 maˢ moreover "and" comma, then after ≠ 
+𒆷𒈠 la¬ma lama
+𒆷𒈠 before
+
+
+𒆠𒆷𒆷 𒋗𒉡 ki-la-la šu-nu 
+𒆠𒆷𒆷 𒋗𒉡 kila šunu
+𒆠𒆷𒆷 𒋗𒉡 𓎟 𓋴 𓈖 𓏥 
+𒆠𒆷𒆷 𒋗𒉡 all two, the two of them, both of them [[pronouns]]
+
+𒅁𒁀𒀊𒇻 ib-ba-ab-lu obolus < 𓉐
+𒅁𒁀𒀊𒇻 bring, brought
+
+𒄷𒆜𒌌𒈝 ḫu-bu2-ul-lum obolus @ habilitat
+𒄷𒆜𒌌𒈝 debt
+<>
+𒁁𒂖 𒄷𒆜𒌌𒇷 be-el.ḫu-bu2-ul-li
+𒁁𒂖 𒄷𒆜𒌌𒇷 creditor
+
+𒌑𒊺𒄑𒍪𒌑 ú-še-eṣ-ṣú-ú
+𒌑𒊺𒄑𒍪𒌑 made to leave (self?)
+
+𒅕𒁀𒋾 ṣa-ba-ti 𓋴 𓃀 𓏘 𓎁 •sysapati 𓈙 𓊃 𓊪 𓊏 +++
+𒅕𒁀𒋾 seize (debt) <> 𓎔 𓂡 
+<>
+𒄑𒅕𒀊𒌅 iṣ-ṣa-ab-tu 
+𒄑𒅕𒀊𒌅 captured, caught <> intercept
+
+𒀉𒋫𒊍𒁀𒀜 it-ta-aṣ-ba-at ≈ ertapt
+𒀉𒋫𒊍𒁀𒀜 caught ^^
+
+𒀉𒋫𒋾𒅋 it-ta-ti-il (𒐊𒈾 𒍪𒉌 𒊭)
+𒀉𒋫𒋾𒅋 had intercourse (with her)
+
+𒅋𒋫𒈠𒀜 il-ta-ma-ad intimate
+𒅋𒋫𒈠𒀜 "know" s.o.
+
+𒅋𒈠𒍣𒈠 il-ma-sí.ma 
+𒅋𒈠𒍣  il-ma-sí 
+𒅋𒈠𒍣 "know" (her)
+
+𒂍𒄄𒀀 É.GI₄A ≈ girl 
+𒂍𒄄𒀀 bride
+
+𒅔𒈾𒊍𒍝𒄴 in-na-az-za-aḫ entzieh ≠ einzieh
+𒅔𒈾𒊍𒍝𒄴 disinherit(ed)
+
+𒂊𒈪 e-miʳ emir Oma
+𒂊𒈪 father-in-law, father-in-law’s estate
+
+𒐊𒋰𒁀𒀠 i-tab-ba-al …behalte
+𒐊𒋰𒁀𒀠 keep
+
+𒐊𒁉𒅕 i-bi-ir ibir 
+𒐊𒁉𒅕 peer, colleague  √pair 2
+
+𒐊𒁉𒅕 ibir <> virkaveli virkatoveri 
+𒐊𒁉𒅕 confrère (𒐊 cinq)
+𒐊𒁉𒅕 colleague
+
+𒊌𒋻𒊑 uk-tar-ri
+𒊌𒋻𒊑 uk'tari клевета́ klevetá® kashfa
+𒊌𒋻𒊑 slander
+
+𒊭𒈠 ša-ma
+𒊭𒈠 (belongs to) them (e.g. 𒌉𒎌)
+
+𒐊𒊏𒀝𒄖𒌝 i-ra-ag-gu-um 
+𒐊𒊏𒀝𒄖𒌝 lay claim
+
+𒐊𒄯𒊏𒊍 iḫarraṣ
+𒐊𒄯𒊏 iᵠḫar-ra ἀφαιρέω aphairéō ( ἀπο- apo- “away” + αἱρέω hairéō “take” )
+𒐊𒄯𒊏 subtract
+<
+𒄯𒊏 harra #harāru αἱρέω hairéō
+𒄯𒊏 "grab" ☑
+<>
+𒂍𒄯𒊏	 e₂ur₅-ra	e'urra εἱρκτή heirktḗ
+𒂍𒄯𒊏	 prison 
+
+𒀀𒈾 𒅆𒅎𒁴 𒀉𒋫𒀠𒆪 ana šīmtim ittalku
+𒀀𒈾 𒅆𒅎𒁴 𒀉𒋫𒀠𒆪 "go to (his) fate" 𓊗 = die 
+
+𒐊𒉡𒈠 ᵛi-nu.ma inūmaˡ wenn mal …
+𒐊𒉡𒈠 when, in the time of
+
+𒐊𒍝𒊍 i-za-az
+𒐊𒍝𒊍 share(verb)
+≈
+𒐊𒅗𒊻𒅗 i-zu-uz-zu izuzzū
+𒐊𒅗𒊻𒅗 share(verb), shares(noun) ?
+
+𒆠𒅖𒋾 qí-iš-ti qīšti
+𒆠𒅖𒋾 take (shares) <> hand
+
+𒐊𒅔 𒋗 𒈤𒊒 i-in šu maḫ-ru
+𒐊𒅔 𒋗 𒈤𒊒 please(d) him
+
+𒃻𒂵 NÍG.GA
+𒃻𒂵 šá.ga Sache
+𒃻𒂵 property
+
+𒈠𒊭𒇻 	ma-ša-lu misil 𓏇 equal  
+𒈪𒀉𒄩𒊑𒅖 mi-it-ḫa-ri-iš 𓏇 equally
+
+𒈾𒊓𒄭𒅎 na-sa-ḫi-im 𓂜 enterbe
+𒈾𒊓𒄭𒅎 насле́дства lišítʹ naslédstva
+𒈾𒊓𒄭𒅎 disinherit, disown
+
+𒀀𒈾𒍝𒄴 a-na-sà-aḫ 𓂜 enterbe, enteigne
+𒀀𒈾𒍝𒄴 a-na-zà-aḫ 𓂜 entzieh
+𒀀𒈾𒍝𒄴 𐌹𐌽𐍅𐌹𐌳𐌰𐌽 inwidan infitior
+𒀀𒈾𒍝𒄴 disinherit, disown
+≈
+𒐊𒈾𒍝𒄴 i-na-sà-aḫ
+𒐊𒈾𒍝𒄴 i-na-zà-aḫ entzieh
+𒐊𒈾𒍝𒄴 disinherit
+≈
+𒅔𒈾𒊍𒍝𒄴 in-na-az-za-aḫ entzieh ≠ einzieh
+𒅔𒈾𒊍𒍝𒄴 disinherit(ed)
+
+𒀭𒁺𒊏𒅈 an-du-ra-ar andurār 
+𒀭𒁺𒊏𒅈 @andro @Andorra! አርነት ʾärnät
+𒀭𒁺𒊏𒅈 ILI-du-ra-ar ἐλευθ ε ρία ᵟeleuthería ⲉⲗⲉⲩⲑⲉⲣⲓⲁ 
+𒀭𒁺𒊏𒅈 ᵈILI-du-ra-ar τοὐλεύθερον touleútheron
+𒀭𒁺𒊏𒅈 freedom
+
+𒄭𒅕𒁴 ḫi-ir-tim 
+𒄭𒅕𒁴 wife
+𒄭𒅕𒁴 Hirtin Gattin Kurdin ?
+
+𒉡𒁺𒈾𒄠 nu-du-na-am
+𒉡𒁺𒈾𒄠 wedding gift √en-dona™
+
+𒁾𒁉𒅎 DUB-pí-im √tablet
+𒁾𒁉𒅎 •DUᵇku-imen™
+𒁾𒁉𒅎 document
+
+𒐊𒁖𒊏𒋢 i-par-ra-su
+𒐊𒁖𒊏𒋢 biryar dan  / päättää
+𒐊𒁖𒊏𒋢 αποφασίζω apofasízo βούλομαι
+𒐊𒁖𒊏𒋢 iᵐpar-ra-su √über-rate 'berate באַשליסן
+𒐊𒁖𒊏𒋢 реша́вам rešávam реша́ть rešátʹ
+𒐊𒁖𒊏𒋢 decide
+
+𒐊𒄑𒍥𒅁 i-iz-zi-ib 
+𒐊𒄑𒍥𒅁 leave (gift)
+
+𒊻𒍥 uz-zi auszieh
+𒊻𒍥 leave (house)
+≈
+𒉿𒍣𒅎 wa-ṣi-im ausziehen
+𒉿𒍣𒅎 leave (house)
+
+
+𒉡𒈬𒋢 NU.MU.SU  <> 𒊩 MUNUS mjane אַלְמָנָה  𐎀𐎍 𐎎𐎐𐎚 ảlmnt ʾal manatu أَرْمَلة
+𒉡𒈬𒋢 NU.MU.SU  မုဆိုးမ mṵsʰóma̰
+𒉡𒈬𒋢 NU.MU.SU  ନିସଙ୍ଗ ଧାଡ଼ି nisaṅga dhāṛi  មេម៉ាយ mei maay
+𒉡𒈬𒋢 widow
+
+𒍢𒄴𒄭𒊒 ṣe-eḫ-ḫe-ru 
+𒍢𒄴𒄭𒊒 very young
+
+𒁀𒈝 ba-lum bare… barring …
+𒁀𒈝 balum بلا bala بِلَا bilā vailla ≈ 𒌑𒌌 ᵛul
+𒁀𒈝 without…, but with… без bez  
+
+𒐊𒁀𒀝𒂵𒊒 i-ba-aq-qá-ru
+𒐊𒁀𒀝𒂵𒊒 sue (s.o.)
+≈
+𒐊𒉺𒀝𒆠𒁺 i-pa-aq-qí-du 𓇋 𓊪 𓏛  
+𒐊𒉺𒀝𒆠𒁺 assign (estate)
+≈
+𒅁𒁀𒀝𒃼 ib-ba-aq-qar 𓇋 𓊪 𓏛 !
+𒅁𒁀𒀝𒃼 claim back, (re-)claimed
+≈
+𒅁𒁀𒃼 ib-ba-qar 𓄖 
+𒅁𒁀𒃼 contest
+
+𒊩 𒍥𒅅𒊒𒌝 MUNUS zi-ik-ruᵗum @ Zikkurat secure-room;)
+𒊩 𒍥𒅅𒊒𒌝 temple-woman (devotee?)
+
+𒅖𒊒𒆪 iš-ru-ḳu
+𒅖𒊒𒆪 present(ed) (with dowry)
+
+𒅖𒌅𒊒 iš-tu-ru scripture
+𒅖𒌅𒊒 write, written
+<>
+𒅆𒋛𒀀 ši-ṭir •šcriṭir inscribed √ scrit
+𒊭𒋫𒊒 	šaʳ-ṭa-ru scriter "write"
+
+𒂊𒈬𒊌 e-mu-uḳ √Maß measure
+𒂊𒈬𒊌 size
+
+𒍥𒀉𒋾 zi-it-ti "side"
+𒍥𒀉𒋾 share
+
+𒇷𒅁𒁀 𒊭 𒌑𒁕𒀊𒁍
+𒌑𒁕𒀊𒁍 u2-ṭa-ab-bu √top
+𒌑𒁕𒀊𒁍 comfort (her heart)
+
+𒂊𒈠 𒂊𒇷 𒊭 𒁕𒁍 ᶜe.ma e-li.ša ṭa-bu
+𒂊𒈠 𒂊𒇷 𒊭 𒁕𒁍 wherever it is pleasing to her
+
+𒊩𒍥𒅅𒊒𒌝 mínna ZI.IK.RU.UM sekretim ≈ 𒊺𒊑𒅅𒌓 še-ri-ik-tam
+𒊩𒍥𒅅𒊒𒌝 secretary, "sekretum"
+
+𒅖𒊒𒊌 iš-ru-uk ≈ طَرَحَ ṭaraḥa ≈ •zayrk ≈ zeug, zeig
+𒅖𒊒𒊌 iš-ru-uk ≈ 𓌞 𓋴 𓂻 ?
+𒅖𒊒𒊌 present(ed) (a dowry)
+
+𒐊𒅅𒅗𒀠 i-ik-ka-al
+𒐊𒅅𒅗𒀠 use (property)
+
+𒈨𒂊𒋗 me-e.šu µbeʳ
+𒈨𒂊𒋗 (his) birth
+
+ 
+𒋻𒁉𒌈 tar-bi-tum √rabu raise √bit 𓅭
+𒋻𒁉𒌈 "offspring" 𒌉 TUR ≈ 𓉐
+<>
+𒀀𒈾 𒋻𒁉𒁴 𒅋𒄀 a-na tar-bi-tim il-qé
+𒀀𒈾 𒋻𒁉𒁴 𒅋𒄀 take as offspring, adopt
+
+𒀀𒈾 𒈠𒊒𒁴 𒅋𒄀 a-na ma-ru-tim il-qé >> 𓅸 𓄟 אימץ
+𒀀𒈾 𒈠𒊒𒁴 𒅋𒄀 take as child, adopt
+
+𒌫𒋫𒀊𒁉 úr-ta-ab-biⁿ اِرْتَفْعَ irtafʕaⁿ 𓏏 𓃹 𓈖 √top 𓍿 𓊃 𓍞 𓏜 | 𓍿 𓊃 𓍞 𓊫 𓂡 | 𓊣  
+𒌫𒋫𒀊𒁉 raise    𓆑 𓄿 𓀋 𓂡 | 𓋴 𓂋 𓂧 𓏜 | ˢerect 
+
+𒌉𒍑 dumu.uš √domus IBILA ablûti
+𒌉𒍑 heir
+
+
+𒐊𒄭𒀀𒀜 ˢi-ḫi-a-aṭ suchet 𓎛 𓎛 𓏮 𓂻 
+𒐊𒄭𒀀𒀜 search, look for
+
+𒍑𒋫𒄭 uš-ta-ḫi 𓋴 𓇼 𓂡 <> दिशति diśati
+𒍑𒋫𒄭 𓋴 teach 𓌙 𓏜  ≈ stachel (an)stachern? steigen zeigen ?<<<<
+
+𒅆𒁉𒅕 𒂵𒋾 ši-pí-ir qáⁿti "super hand" 
+𒅆𒁉𒅕 𒂵𒋾 šipír qáti 𓋴 𓃀 𓇼 𓏤 𓆰 𓈖 𓏏 𓎨 𓏛 𓏥 Sapir Kenntnis !!! +++
+𒅆𒁉𒅕 𒂵𒋾 craft 𓎨 𓏏 𓏛 𓏥 
+
+𒅎𒋫𒉡 im-ta-nu im/mit-in… ⲉϧⲟⲩⲛ সাঙোৰ xaṅür
+𒅎𒋫𒉡 include (miteinbeziehen)
+
+𒅕𒋫𒅆 ir-ta-ši ≈ 𓐢 𓂋 𓏛 <> 𓂝 𓈎 𓄿 𓏏 𓂭 𓂭  <<
+𒅕𒋫𒅆 irtaši <> רכש rakhásh
+𒅕𒋫𒅆 ᵛirtaši vertausche eintausche
+𒅕𒋫𒅆 acquire(d) <> purchase?
+
+𒈾𒊓𒄭𒅎 na-sa-ḫi-im 𓂜 𓏎 𓋴 𓎛 𓁷 𓂋 𓐡 𓈐 
+𒈾𒊓𒄭𒅎 remove (child) 𓂜 𓋴 𓍿 𓊃 𓍞 
+
+𒊑𒆪 ri-qú reich?
+𒊑𒆪 "empty-handed" ƒ?
+
+𒌉 𒄊𒅆𒂵 DUMU GÌR.SÌ.GA gerseqqêm
+𒌉 𒄊𒅆𒂵 domestic’s son
+
+𒌉 𒊩𒍥𒅅𒊒𒌝 DUMU mí.ZI.IK.RU.UM sekretim 
+
+𒐊𒈾𒀝𒆠𒋢 i-na-ak-ki-su ent¬cut EinSchnitt
+𒐊𒈾𒀝𒆠𒋢 inakisuʳ اِنْكَسَرَ inkásar <> Kaiser Schnitt
+𒐊𒈾𒀝𒆠𒋢 cut-off
+
+
+𒌑𒌌 𒀀𒁉 𒀜𒋫 𒌑𒌌 𒌝𒈪 𒀜𒋾
+“ul abī atta; ul ummī atti”
+“you are not my father ; you are not my mother”  PUN
+
+𒀜 ᶠad / ᶠád / ᶠát father #abu 
+
+𒀜𒋫 at-ta as-toi est-toi
+𒀜𒋫 you (are)
+𒀜𒋾 at-ti as-tu est-tu
+𒀜𒋾 you (are) (feminine) <> fait faire
+
+𒐊𒅔 𒋗 𒐊𒈾𒍝𒄷
+iᵞin šu i-na-sà-ḫu
+eyen su en¬zieh
+his eyeˢ will be pulled out
+
+𒐊𒍢𒅕 ʰi-zé-er hasser hassen <> ketzer hetzen
+𒐊𒍢𒅕 ʰi-zé-er ≈ enhadir 
+𒐊𒍢𒅕 itzér > ատել atel
+𒐊𒍢𒅕 hate
+
+𒌑𒉿𒀉𒁲 ú-we-ed-di
+𒌑𒉿𒀉𒁲 recognize(?) (family) <> wedding
+
+𒈬𒊺𒉌𒅅𒁴 mu-še-ni-iq-tim 𐎎𐎌𐎐𐎖𐎚 mšnqt Nichte +++
+𒈬𒊺𒉌𒅅𒁴 mu-še-ni-iq-tim 𓄟 𓋴 𓈖 𓌰 𓅓 𓁕 "nurse" 𓈖 𓌰 𓅓 𓁕 奶妈 nǎimā !!! +++
+𒈬𒊺𒉌𒅅𒁴 mušēniqtim 𓏠 𓈖 𓂝 𓁕 "nurse" 𒊩 nūtrix !!! +++
+𒈬𒊺𒉌𒅅𒁴 wet-nurse 𓐍 𓈖 𓌰 𓅓 𓏏 𓁕  кърма́чка kǎrmáčka ծծմայր !!! +++
+
+𒂵𒀜 qá-at •guard
+𒂵𒀜 hand, care
+
+𒅎𒋫𒄩𒊍 im-ta-ḫa-aṣ 𓌃 𓏱 imtaḫaṣ
+𒅎𒋫𒄩𒊍 <> 𒉺 maḫāṣu  mëshoj 
+𒅎𒋫𒄩𒊍 strike, struck
+
+
+𒌑𒄩𒀊𒉺𒁺 ú-ḫa-ap-pa-du beraubt
+𒌑𒄩𒀊𒉺𒁺 blind (eyesight)
+≈
+𒄴𒋰𒁉𒀉 úḫ-tap-pí-id stab?
+𒄴𒋰𒁉𒀉 blind (eyesight)
+<>
+𒅖𒋼𒁉𒅕 iš-te-bé-er
+𒅖𒋼𒁉𒅕 stab, break (bone)
+≈
+𒐊𒊺𒅁𒁉𒊒 i-šeᵗeb-bé-ru   ( 𒊺 seed )
+𒐊𒊺𒅁𒁉𒊒 stab, break (bone)
+≈
+𒐊𒊺𒅁𒁉𒊒 i-še-eb-bé-ruᵗ
+𒐊𒊺𒅁𒁉𒊒 separate, break (bone)
+
+§ 196 "eye for an eye"
+𒋳𒈠 𒀀𒉿𒈝   𒐊𒅔 𒌉  𒀀𒉿𒅆    𒄴𒋰𒁉𒀉      𒐊𒅔 𒋗 𒌑𒄩𒀊𒉺𒁺
+šum-ma a-wiʳlum iʸin DUMU a-wiʳlim úḫˢtap-pí-id   iʸin šu úʳḫa-ap-pa-du
+If a man has blinded the eye of a Son of Man, his eye will be blinded.
+
+§ 200 "tooth for a tooth"
+𒋳𒈠 𒀀𒉿𒈝 𒅆𒅔𒉌 𒀀𒉿𒅆 𒈨𒄴𒊑 𒋗 𒀉𒋫𒁲 𒅆𒅔𒈾 𒋗 𒐊𒈾𒀜𒁺𒌑
+šum-ma a-wi-lum ši-in-ni a-wi-lim me-eḫ-ri šu it-ta-di ši-in-na šu i-na-ad-du-ú
+šumma awīlum šinni awīlim meḫrīšu ittadi, šinnašu inaddû.
+If a man has knocked out the tooth of a man of his own rank, his tooth will be knocked out.
+
+𒀀𒉿𒅆 𒈨𒄴𒊑 𒋗 a-wi-lim me-eḫ-ri šu 
+𒀀𒉿𒅆 𒈨𒄴𒊑 𒋗 man of his own rank
+
+𒈨𒄴𒊑 me-eḫ-ri meḫrī მწკრივი mc̣ḳrivi مرتبه mertebe
+𒈨𒄴𒊑 rank
+
+𒈪𒅆𒀧 𒉛 𒋗 𒐊𒊭𒃲
+mišil    šīmīšu išaqqal (PUN) 𓏇 
+he'll weigh out half his value (𒉛 sam₂ "sum")
+
+𒇷𒂊𒀉 le-e-et lēt ≈ לֶחִי lekhi לְחִי 
+𒇷𒂊𒀉 leⁿe-et ланита lanita  <<<
+𒇷𒂊𒀉 cheek
