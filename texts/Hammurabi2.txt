@@ -21,7 +21,7 @@ If a man has purchased a field, orchard, or house of a rēdûm, bāʾerum or ten
 𒂇𒍑 𒋗𒄩 𒅇 𒈾𒅆 𒁉𒌦 𒄿𒈾 𒀀𒊮 𒄑𒊬 𒅇 𒂍 𒊭 𒀧𒆠𒋗 𒀀𒈾 𒀸𒊭𒋾𒋗 𒅇 𒌉𒊩𒋗 
 𒌑𒌌 𒄿𒊭𒁁𒁕𒅈 𒅇 𒀀𒈾 𒄿𒀧𒋾𒋗 𒌑𒌌 𒄿𒈾𒀜𒁲𒅔
 
-AGA.ÚS ŠU.ḪA ù na.ši biltim i-na eḳlim kirêm ù E2 ša il-ki šu a-na aš-ša-ti šu ù mârti šu u2-ul i-ša-bad-da-ar ù a-na i-il-ti šu u2-ul i-na-ad-di-in
+AGA.ÚS ŠU.ḪA ù na.ši biltim i-na eḳlim kirêm ù E2 ša il-ki šu a-na aš-ša-ti šu ù DUMUti šu u2-ul i-ša-bad-da-ar ù a-na i-il-ti šu u2-ul i-na-ad-di-in
 
 rēdûm bāʾirum ù nāši biltim ina eqlim kirîm ù bītim ša ilkišu ana aššatišu ù mārtišu ul išaṭṭar ù ana eʾiltišu ul inaddin
 
@@ -34,7 +34,7 @@ A soldier, trapper or official tenant shall not donate to his wife or to his dau
 𒅇 𒀀𒈾 𒂊𒄭𒉈𒋾𒋗 𒄿𒈾𒀜𒁲𒅔
 
 i-na eḳlim kirêm u E2 ša i-ša-am-mu.ma i-ra-aš-šu-u2
-a-na aš-ša-ti šu ù mârti šu i-ša-ad-dar 
+a-na aš-ša-ti šu ù DUMUti šu i-ša-ad-dar 
 ù a-na e-ḫi-bil-ti šu i-na-ad-di-in
 
 ina eqlim, kirîm ù bītim ša išammuma iraššû ana aššatišu ù mārtišu išaṭṭar 
@@ -730,7 +730,7 @@ moreover he will forfeit whatever amount he had given.
 𒀀𒈾 𒉌𒁍𒁴 𒅖𒋾𒀀𒀜 𒑚 𒈠𒈾 𒆬𒌓 𒐊𒊭𒃲
 
 šum-ma a-wi-lum e-li a-wi-lim ŠE ù KUG.BIR₂ la i-šu.ma ni-pu.sú it-te-pé 
-a-na ni-pu-tim iš-ti-a-at 1/3 MA.NA KUG.BIR₂ i-ša-qal
+a-na ni-pu-tim iš-ti-a-at ⅓ MA.NA KUG.BIR₂ i-ša-qal
 
 šumma awīlum eli awīlim âm ù kaspam lā īšū-ma; nipûssu ittepe, 
 ana nipûtim ištiat šalšat manā kaspam išaqqal.
@@ -761,7 +761,7 @@ If a man was owed grain or silver by a man and distrained a pledge of his and th
 𒋳𒈠 𒀴 𒀀𒉿𒅆 𒑚 𒈠𒈾 𒆬𒌓 𒐊𒊭𒃲 
 𒅇 𒐊𒈾 𒈪𒅎𒈠 𒋳 𒋗 𒈠𒆷 𒀉𒁲𒉡 𒐊𒋼𒂖𒇷
 
-šum-ma ni-pu-tum i-na É ne-pí.ša i-na ma-ḫa-ṣí-im ù-lu i-na uš-šu.ši-im im-tu-ut be-el ni-pu-tim DAM.GÀR šu ú-ka-an.ma šum-ma DUMU a-wi-lim DUMU šu i-du-uk-ku šum-ma ÌR a-wi-lim 1/3 MA.NA KUG.BIR₂ i-ša-qal ù i-na mi-im.ma šum šu ma-la id-di-nu i-te-el-li
+šum-ma ni-pu-tum i-na É ne-pí.ša i-na ma-ḫa-ṣí-im ù-lu i-na uš-šu.ši-im im-tu-ut be-el ni-pu-tim DAM.GÀR šu ú-ka-an.ma šum-ma DUMU a-wi-lim DUMU šu i-du-uk-ku šum-ma ÌR a-wi-lim ⅓ MA.NA KUG.BIR₂ i-ša-qal ù i-na mi-im.ma šum šu ma-la id-di-nu i-te-el-li
 
 šumma nipûtum ina bīt nēpīša ina maḫāṣim ū lū ina uššušim imtūt, bēl nipûtim tamkāršu ukām.ma šumma mār awīlim māršu idukkū, šumma warad awīlim šalušti manā kaspam išaqqal; ù ina mimma šumšu mala iddinu ītelli.
 
@@ -1057,7 +1057,7 @@ she will dive into the River for her husband. (^Hexenprobe)
 𒋳𒈠 𒊩 𒅆𒐊 𒉺𒃼𒊭 𒆷 𒄑𒋩? 𒈠 𒀀𒈾 𒂍 𒊭𒉌𒅎 𒐊𒋼𒊒𒌒
 𒊩 𒋗𒀀𒋾 𒌑𒅗𒀭𒉡 𒅆𒈠 𒀀𒈾 𒈨𒂊 𒐊𒈾𒀜𒁺𒌑𒅆
 
-[a] šum-ma a-wi-lum iš-ša-li-il.ma i-na É šu ša a-ka-lim [i]-ba-aš.ši [aš]-ša.sú [É.sú i]-ṣa-[ab-ba-a]t [ù pa-gàr-š]a [i-na¬aṣ-ṣa-a]r [a-na É ša-ni-i]m [ú-ul i-ir-r]u-ub 
+[a] šum-ma a-wi-lum iš-ša-li-il.ma i-na É šu ša a-ka-lim [i]-ba-aš.ši [aš]-ša.sú [É.sú i]-ṣa-[ab-ba-a]t [ù pa-gàr-š]a [i-na-aṣ-ṣa-a]r [a-na É ša-ni-i]m [ú-ul i-ir-r]u-ub 
 [b] š[um-m]a MUNUS ši-i [pa]-gàr.ša la iṣ-ṣur ma  a-na É ša-ni-im i-te-ru-ub
 MUNUS šu-a-ti ú-ka-an-nu ši.ma a-na me-e i-na-ad-du-ú-ši
 
@@ -1558,7 +1558,7 @@ they will both be burned.
 𒐊𒈾 𒅗𒌦 𒊏𒁉𒋾 𒋗 𒊭 𒌉𒎌 𒉿𒀠𒁕𒀜 𒀉𒋫𒊍𒁀𒀜 𒀀𒉿𒈝 𒋗𒌑 𒐊𒈾 𒂍 𒀀𒁀 𒅔𒈾𒊍𒍝𒄴
 
 šum-ma a-wi-lum wa-ar-ki a-bi šu 
-i-na zu-un ra-bi-ti šu ša mârê wa-al-da-at it-ta-aṣ-ba-at 
+i-na zu-un ra-bi-ti šu ša DUMUê wa-al-da-at it-ta-aṣ-ba-at 
 a-wi-lum šu-u2 i-na bît a-ba in-na-az-za-aḫ
 
 šumma awīlum warki abišu 
@@ -1763,17 +1763,16 @@ but they will share the property of the father’s estate equally𓏇.
 § 168
 𒋳𒈠 𒀀𒉿𒈝 𒀀𒈾 𒌉 𒋗 𒈾𒊓𒄭𒅎 𒉺𒉆 𒅖𒋫𒅗𒀭 
 𒀀𒈾 𒁕𒀀𒀀𒉌 𒌉𒐊 𒀀𒈾𒍝𒄴 𒅅𒋫𒁉 
-𒁕𒀀𒀀𒉡 𒉿𒅈𒅗 𒍪 𒐊𒌓𒊏𒋢 𒈠 𒋳𒈠
-𒌉 𒅈𒉆 𒆏𒌓 𒊭 𒐊𒈾 𒀊𒇻𒁴 𒈾𒊓𒄭𒅎 𒆷 𒌒𒇴 
+𒁕𒀀𒀀𒉡 𒉿𒅈𒅗 𒍪 𒐊𒌓𒊏𒋢 
+𒈠 𒋳𒈠 𒌉 𒅈𒉆 𒆏𒌓 𒊭 𒐊𒈾 𒀊𒇻𒁴 𒈾𒊓𒄭𒅎 𒆷 𒌒𒇴
 𒀀𒁍𒌝 𒌉 𒋗 𒐊𒈾 𒀊𒇻𒁴 𒌑𒌌 𒐊𒈾𒍝𒄴
 
 šum-ma a-wi-lum a-na DUMU šu na-sa-ḫi-im pa-nam iš-ta-ka-an 
 a-na da-a-a-ni DUMU-i a-na-sà-aḫ iq-ta-bi 
-da-a-a-nu wa-ar-ka.sú i-pár-ra-su.ma 
-šum-ma DUMU ar-nam kab-tam ša i-na ap-lu-tim na-sa-ḫi-im la ub-lam 
+da-a-a-nu wa-ar-ka.sú i-pár-ra-su
+ma šum-ma DUMU ar-nam kab-tam ša i-na ap-lu-tim na-sa-ḫi-im la ub-lam
 a-bu-um DUMU šu i-na ap-lu-tim ú-ul i-na¬sà-aḫ
 
-šumma awīlum ana mārīšu nasāhim pānam ištakan, ana dayyānī “mārī anassaḫ” iqtabi, dayyānū warkassu iparrasū.ma šumma mārum arnam kabtam ša ina aplūtim nasāḫim lā ublam, abum mār(ā)šu ina aplūtim ul inassaḫ.
 
 If a man has decided to disinherit his son, 
 has said to the judges, “I will disinherit my son,” 
@@ -1781,6 +1780,7 @@ the judges will investigate his circumstances
 and if the son has not committed (brought) a crime serious enough for disinheriting, 
 the father will not disinherit his son.
 
+šumma awīlum ana mārīšu nasāhim pānam ištakan, ana dayyānī “mārī anassaḫ” iqtabi, dayyānū warkassu iparrasū.ma šumma mārum arnam kabtam ša ina aplūtim nasāḫim lā ublam, abum mār(ā)šu ina aplūtim ul inassaḫ.
 
 § 169
 𒋳𒈠 𒅈𒉆 𒆏𒌓 𒊭 𒐊𒈾 𒀊𒇻𒁴 𒈾𒊓𒄭𒅎 𒀀𒈾 𒀀𒁉 𒋗 𒀉𒁀𒇴
@@ -1789,10 +1789,11 @@ the father will not disinherit his son.
 
 šum-ma ar-nam kab-tam ša i-na ab-lu-tim na-sa-ḫi-im a-na a-bi šu 
 it-ba-lam a-na iš-ti-iš šu pa-ni šu ub-ba-lu 
-šum-ma ar-nam kab-tam a-di ši-ni šu it-ba-lam a-bu-um mâri šu i-na ab-lu-tim i-na¬za-aḫ
+šum-ma ar-nam kab-tam a-di ši-ni šu it-ba-lam a-bu-um DUMUi šu i-na ab-lu-tim i-na¬za-aḫ
 
 šumma arnam kabtam ša ina aplūtim nasāḫim ana abišu itbalam ana ištiššu panīšu ubbalū. šumma arnam kabtam adi šinīšu itbalam abum mārašu ina aplūtim inassaḫ.
 
+// If he has committed a serious offence (enough) to be disinherited against his father  
 If he has committed an offence against his father serious enough to be disinherited, 
 on the first occasion they will turn a blind eye. 
 If he has committed an offence for a second time the father shall disinherit his son.
@@ -1870,12 +1871,12 @@ u šumma abum ina bulṭīšu ana mārī ša amtum uldūšum “mārūya” lā 
 šum-ma mu-za nu-du-un-na-am la id-di-iš.ši-im 
 še-ri-iḳ-ta.ša u-ša-la-mu.ši-im
 ma i-na ŠA.GA bît mu-ti.ša ṣi-it-tam ki.ma DUMU-gá (ap-lu ablim) iš-te-en i-li-ḳi 
-šum-ma mârê ša aš.šum i-na E2 šu-zi-im u-za-aḫ-ḫa-mu.ši 
+šum-ma DUMUê ša aš.šum i-na E2 šu-zi-im u-za-aḫ-ḫa-mu.ši 
 da-a-a-nu wa-ar-ka-za i-par-ra-su
-ma mârê ar-nam i-im-mi-du 
+ma DUMUê ar-nam i-im-mi-du 
 MUNUS ši-i i-na bît mu-ti.ša u2-ul uz-zi 
 šum-ma MUNUS ši-i a-na wa-ṣi-im pa-ni.ša iš-ta-ka-an 
-nu-du-un-na-am ša mu-za id-di-nu.ši-im a-na mârê.ša i-iz-zi-ib 
+nu-du-un-na-am ša mu-za id-di-nu.ši-im a-na DUMUê.ša i-iz-zi-ib 
 še-ri-iḳ-tam ša bît a-bi.ša i-li-ḳi
 ma mu-ut li-ib-bi.ša i-iḫ-ḫa-az-zi
 
@@ -2333,7 +2334,7 @@ he will not give him any of the field, orchard, or house.
 šum-ma DUMU GÌR.SÌ.GA ù-lu DUMU sekretim (mí.ZI.IK.RU.UM) 
 a-na a-bi-im mu-ra-bi šu ù um-mi-im mu-ra-bi-ti šu
 ú-ul a-bi at-ta ú-ul um-mi at-ti iq-ta-bi 
-EME šu i-na¬ak-ki-su
+EME šu i-na-ak-ki-su
 
 
 If a domestic’s son or a sekretum’s son 
@@ -2378,7 +2379,7 @@ If an attendant’s son or a sekretum’s son, having recognized his family and 
 ma DUMU šu-ú i-n[a] qá-at mu-še-ni-iq-tim im-tu-ut
 mu-še-ni-iq-tum ba-lum a-bi šu ù um-mi šu DUMU ša-ni-a-am.ma ir-ta-ka-ás 
 ú-ka-an-nu-ši, ma aš.šum ba-lum a-bi-[š]u ù um-mi-š[u] DUMU ša-ni-a-am ir-ku-[s]u 
-tulâ(UBUR).ša i-na¬ak-ki-su
+tulâ(UBUR).ša i-na-ak-ki-su
 
 If a man gave his child to a wet-nurse 
 and that child has died in the care of the wetnurse, 
@@ -2394,7 +2395,7 @@ ma mārum šū in[a] qāt mušēniqtim imtūt mušēniqtum balum abīšu ù umm�
 § 195
 𒋳𒈠 𒌉 𒀀𒁀 𒋗 𒅎𒋫𒄩𒊍 𒈩𒇲 𒋗 𒐊𒈾𒀝𒆠𒋢
 
-šum-ma DUMU a-ba šu im-ta-ḫa-aṣ ritta (KIŠIB.LÁ) šu i-na¬ak-ki-su
+šum-ma DUMU a-ba šu im-ta-ḫa-aṣ ritta (KIŠIB.LÁ) šu i-na-ak-ki-su
 
 šumma mārum abāšu imtaḫaṣ rittašu inakkisū.
 
@@ -2478,7 +2479,7 @@ If a man has struck the cheek of a man who is of higher rank than he, he will be
 
 § 203
 
-šum-ma mâr a-wi-lim li-e-it mâr a-wi-lim ša ki.ma šu-a-ti im-ta-ḫa-as 𒁹 ma-na kaspim i-ša-kal
+šum-ma DUMU a-wi-lim li-e-it DUMU a-wi-lim ša ki.ma šu-a-ti im-ta-ḫa-as 𒁹 ma-na kaspim i-ša-kal
 
 šumma mār awīlim lēt mār awīlim ša kīma šuāti imtaḫaṣ 1 mana kaspam išaqqal.
 
@@ -2496,8 +2497,9 @@ If a muškēnum has struck the cheek of a muškēnum, he will pay out 10 shekels
 
 
 § 205
+𒋳𒈠 𒀴 𒀀𒉿𒅆 𒇷𒂊𒀉 𒌉 𒀀𒉿𒅆 𒅎𒋫𒄩𒊍  𒌑𒅗𒌦 𒋗 𒐊𒈾𒀝𒆠𒋢
 
-šum-ma ÌR a-wi-lim le-e-et DUMU a-wi-lim im-ta-ḫa-aṣ ú-zu-un šu i-na¬ak-ki-su
+šum-ma ÌR a-wi-lim le-e-et DUMU a-wi-lim im-ta-ḫa-aṣ ᵛú-zu-un šu i-na-ak-ki-su
 
 šumma warad awīlim lēt mār awīlim imtaḫaṣ uzuššu inakkisū.
 
@@ -2505,26 +2507,46 @@ If a man’s slave has struck the cheek/side of a member of the awīlum class, h
 
 
 § 206
+𒋳𒈠 𒀀𒉿𒈝 𒀀𒉿𒇴 𒐊𒈾 𒊑𒅖𒁀𒁴 𒅎𒋫𒄩𒊍
+𒈠 𒍣𒅎𒈠𒄠 𒅖𒋫𒅗𒀭 𒋗 
+𒀀𒉿𒈝 𒋗𒌑 𒐊𒈾 𒐊𒁺𒌑 𒆷 𒄠𒄩𒍪 𒐊𒌓
+𒈠 𒅇 𒀀𒅗 𒐊𒅁𒉺𒀠
 
-šum-ma a-wi-lum a-wi-lam i-na ri-is-ba-tim im-ta-ḫa-aṣ.ma sí-im-ma-am iš-ta-ka-an šu a-wi-lum šu-ú i-na i-du-ú la am-ḫa-ṣú i-tam.ma ù A.ZU i-ip-pa-al
+šum-ma a-wi-lum a-wi-lam i-na ri-is-ba-tim im-ta-ḫa-aṣ
+ma sí-im-ma-am iš-ta-ka-an šu 
+a-wi-lum šu-ú i-na i-du-ú la am-ḫa-ṣú i-tam ??
+ma ù A.ZU i-ip-pa-al
+
+If a man has struck a man during a quarrel 
+and inflicted a wound on him, 
+said man will swear “I did not knowingly strike”; ??
+he will also pay the physician.
 
 šumma awīlum awīlam ina risbātim imtaḫaṣ.ma simmam ištakaššu, awīlum šū “ina īdû lā amḫaṣu” itamma; ù asâm ippal.
 
-If a man has struck a man during a quarrel and inflicted a wound on him, said man will swear “I did not knowingly strike”; he will also pay the physician.
-
-
 § 207
+𒋳𒈠 𒐊𒈾 𒈠𒄩𒍣 𒋗 𒅎𒌅𒌓 
+𒐊𒌓𒈠
+𒈠 𒋳𒈠 𒌉 𒀀𒉿𒅆 
+𒈦 𒈠𒈾 𒆬𒌓 𒐊𒊭𒃲
 
-šum-ma i-na ma-ḫa-ṣí šu im-tu-ut i-tam-ma.ma šum-ma DUMU a-wi-lim 1/2 MA.NA KUG.BIR₂ i-ša-qal
+šum-ma i-na ma-ḫa-ṣí šu im-tu-ut 
+i-tam-ma
+ma šum-ma DUMU a-wi-lim 
+½ MA.NA KUG.BIR₂ i-ša-qal
 
 šumma ina maḫāṣīšu imtūt, itammā.ma šumma mār awīlim, mišil manā kaspam išaqqal.
 
-If in striking him he has killed him, he will take an oath, and if (it was) a member of the awīlum class, he will weigh out one-half mina of silver.
+If in striking him he has killed him, 
+he will take an oath, 
+and if (it was) a member of the awīlum class,
+he will weigh out one-half mina of silver.
 
 
 § 208
+𒋳𒈠 𒌉 𒈦𒂗𒆕 𒑚 𒈠𒈾 𒆬𒌓 𒐊𒊭𒃲
 
-šum-ma DUMU MAŠ.EN.GAG 1/3 MA.NA KUG.BIR₂ i-ša-qal
+šum-ma DUMU MAŠ.EN.GAG ⅓ MA.NA KUG.BIR₂ i-ša-qal
 
 šumma mār muškēnim, šalšat manā kaspam išaqqal.
 
@@ -2532,15 +2554,23 @@ if a member of the muškēnum class, he will weigh out one-third mina of silver.
 
 
 § 209
+𒋳𒈠 𒀀𒉿𒈝 𒌉𒊩 𒀀𒉿𒅆 𒅎𒄩𒊍
+𒈠 𒊭 𒇷𒅁𒁉 𒊭 𒍑𒋫𒁲 𒅆 
+𒌋 𒂅 𒆬𒌓 𒀀𒈾 𒊭 𒇷𒅁𒁉 𒊭 𒐊𒊭𒃲
 
-šum-ma a-wi-lum DUMU.MUNUS a-wi-lim im-ḫa-aṣ.ma ša li-ib-bi.ša uš-ta-di.ši 10 GÍN KUG.BIR₂ a-na ša li-ib-bi.ša i-ša-qal
+šum-ma a-wi-lum DUMU.MUNUS a-wi-lim im-ḫa-aṣ
+ma ša li-ib-bi.ša uš-ta-di.ši 
+10 GÍN KUG.BIR₂ a-na ša li-ib-bi.ša i-ša-qal
+
+If a man struck a man’s daughter 
+and has caused her to have a miscarriage, 
+he will weigh out ten shekels of silver for her foetus [sic].
 
 šumma awīlum mārat awīlim imḫaṣ.ma ša libbīša uštaddīši, ešret šiqil kaspam ana ša libbīša išaqqal.
 
-If a man struck a man’s daughter and has caused her to have a miscarriage, he will weigh out ten shekels of silver for her foetus [sic].
-
-
-§ 210
+§ 210 :(
+𒋳𒈠 𒊩 𒅆𒐊 𒅎𒌅𒌓 
+𒌉𒊩 𒍪 𒐊𒁺𒊌𒆪
 
 šum-ma MUNUS ši-i im-tu-ut DUMU.MUNUS.sú i-du-uk-ku
 
@@ -2550,6 +2580,7 @@ If that woman has died, his daughter will be executed.
 
 
 § 211
+𒋳𒈠 𒌉𒊩 𒈦𒂗𒆕 𒐊𒈾 𒈠𒄩𒍣𒅎 𒊭 𒇷𒅁𒁉 𒊭 𒍑𒋫𒀜𒁲 𒅆 𒐊 𒂅 𒆬𒌓 𒐊𒊭𒃲
 
 šum-ma DUMU.MUNUS MAŠ.EN.GAG i-na ma-ḫa-ṣí-im ša li-ib-bi.ša uš-ta-ad-di.ši 5 GÍN KUG.BIR₂ i-ša-qal
 
@@ -2559,6 +2590,7 @@ If he has caused the daughter of a commoner to have a miscarriage through striki
 
 
 § 212
+𒋳𒈠 𒊩 𒅆 𒅎𒌅𒌓 𒈦 𒈠𒈾 𒆬𒌓 𒐊𒊭𒆗
 
 šum-ma MUNUS ši im-tu-ut ½ ma-na kaspim i-ša-ḳal
 
@@ -2568,6 +2600,9 @@ If that woman has died, he shall pay half a mana of silver.
 
 
 § 213
+𒋳𒈠 𒊩𒆳 𒀀𒉿𒅆 𒅎𒄩𒊍
+𒈠 𒊭 𒇷𒅁𒁉 𒊭 𒍑𒋫𒀜𒁲 𒅆 
+𒁹𒁹 𒂅 𒆬𒌓 𒐊𒊭𒆗
 
 šum-ma amat a-wi-lim im-ḫa-aṣ.ma ša li-ib-bi.ša uš-ta-ad-di.ši II šiḳil kaspim i-ša-ḳal
 
@@ -2577,24 +2612,39 @@ If he has struck a man's slave-girl and made her lose her unborn child, he shall
 
 
 § 214
+𒋳𒈠 𒊩𒆳 𒅆𒐊 𒅎𒌅𒌓 𒑚 𒈠𒈾 𒆬𒌓 𒐊𒊭𒆗
 
 šum-ma amtum ši-i im-tu-ut ⅓ ma-na kaspim i-ša-ḳal
 
-šumma amtum šî imtūt, 1/3 mana kaspam išaqqal.
+šumma amtum šî imtūt, ⅓ mana kaspam išaqqal.
 
 If that slave-girl has died, he shall pay a third of a mana of silver.
 
 
 § 215
+𒋳𒈠 𒀀𒅗 𒀀𒉿𒇴 𒍣𒅎𒈠𒄠 𒆏𒌓 𒐊𒈾 𒄈𒉌 𒌓𒊕𒁇 𒐊𒁍𒍑 
+𒈠 𒀀𒉿𒇴 𒌒𒋫𒀠𒇷𒀉 
+𒅇𒇻 𒈾𒆏𒋾 𒀀𒉿𒅆 𒐊𒈾 𒄈𒉌 𒌓𒊕𒁇 𒅁𒋼
+𒈠 𒐊𒅔 𒀀𒉿𒅆 𒌒𒋫𒀠𒇷𒀉 
+𒌋 𒂅 𒆬𒌓 𒐊𒇷𒄀
 
-šum-ma A.ZU a-wi-lam sí-im-ma-am kab-tam i-na karzil(GÍR.NI) siparrim(ZABAR) i-pu-uš.ma a-wi-lam ub-ta-al-li-iṭ ù-lu na-kap-ti a-wi-lim i-na karzil(GÍR.NI) siparrim(ZABAR) ip-te.ma i-in a-wi-lim ub-ta-al-li-iṭ 10 GÍN KUG.BIR₂ i-le-qé
+šum-ma A.ZU a-wi-lam sí-im-ma-am kab-tam i-na GÍR.NI ZABAR i-pu-uš.ma a-wi-lam ub-ta-al-li-iṭ 
+ù-lu na-kap-ti a-wi-lim i-na GÍR.NI ZABAR ᵒip-te
+ma iʸin a-wi-lim ub-ta-al-li-iṭ 
+10 GÍN KUG.BIR₂ i-le-qé
+
+If a physician treated a man for a serious wound with a bronze lancet, 
+and has saved the man, 
+or else opened a man’s temple with a bronze lancet, 
+and has saved the man’s eye, 
+he will receive ten shekels of silver.
 
 šumma asûm awīlam simmam kabtam ina karzil siparrim īpuš.ma awīlam ubtalliṭ ū lū nakkapti awīlim ina karzil siparrim iptē.ma īn awīlim ubtalliṭ, eš(e)ret šiqil kaspam ileqqe.
 
-If a physician treated a man for a serious wound with a bronze lancet, and has saved the man, or else opened a man’s temple with a bronze lancet, and has saved the man’s eye, he will receive ten shekels of silver.
 
 
 § 216
+𒋳𒈠 𒌉 𒈦𒂗𒆕 𒐊 𒂅 𒆬𒌓 𒐊𒇷𒄀
 
 šum-ma DUMU MAŠ.EN.GAG 5 GÍN KUG.BIR₂ i-le-qé
 
@@ -2604,6 +2654,7 @@ If (it is) a member of the muškēnum class, he will receive five shekels of sil
 
 
 § 217
+𒋳𒈠 𒀴 𒀀𒉿𒅆 𒁁𒂖 𒀴 𒀀𒈾 𒀀𒅗 𒈫 𒂅 𒆬𒌓 𒐊𒈾𒀜𒁲𒅔
 
 šum-ma ÌR a-wi-lim be-el ÌR a-na A.ZU 2 GÍN KUG.BIR₂ i-na-ad-di-in
 
@@ -2613,44 +2664,79 @@ If (it is) a man’s slave, the slave’s owner will give the physician two shek
 
 
 § 218
+𒋳𒈠 𒀀𒅗 𒀀𒉿𒇴 𒍣𒅎𒈠𒄠 𒆏𒌓 𒐊𒈾 𒄈𒉌 𒌓𒊕𒁇 𒐊𒁍𒍑
+𒈠 𒀀𒉿𒇴 𒍑𒋫𒈪𒀉 
+𒅇𒇻 𒈾𒆏(𒀉)𒋾 𒀀𒉿𒅆 𒐊𒈾 𒄈𒉌 𒌓𒊕𒁇 𒅁𒋼
+𒈠 𒐊𒅔 𒀀𒉿𒅆 𒄴𒋰𒁉𒀉 
+𒈩 𒋗 𒐊𒈾𒆠𒋢
 
-šum-ma A.ZU a-wi-lam sí-im-ma-am kab-tam i-na karzil(GÍR.NI) siparrim(ZABAR) i-pu-uš.ma a-wi-lam uš-ta-mi-it ù-lu na-kap!(ID)-ti a-wi-lim i-na karzil(GÍR.NI) siparrim(ZABAR) ip-te.ma i-in a-wi-lim úḫ-tap-pí-id ritta(KIŠIB) šu i-na¬ki-su
+šum-ma A.ZU a-wi-lam sí-im-ma-am kab-tam i-na GÍR.NI ZABAR i-pu-uš
+ma a-wi-lam uš-ta-mi-it 
+ù-lu na-kap!(ID)-ti a-wi-lim i-na GÍR.NI ZABAR ip-te
+ma i-in a-wi-lim úḫ-tap-pí-id
+ritta(KIŠIB) šu i-na-ki-su
+
+If a physician treated a serious wound with a bronze lancet 
+and has killed the man, 
+or has opened a man’s temple with a bronze lancet 
+and blinded the man, 
+his hand will be cut off.
 
 šumma asûm simmam kabtam ina karzil siparrim īpuš.ma awīlam uštamīt ū lū nakkapti awīlim ina karzil siparrim iptē.ma īn awīlim uḫtappid rittašu inakkisū.
 
-If a physician treated a serious wound with a bronze lancet and has killed the man, or has opened a man’s temple with a bronze lancet and blinded the man, his hand will be cut off.
 
 
 § 219
+𒋳𒈠 𒀀𒅗 𒍣𒈠𒄠 𒆏𒌓 𒀴 𒈦𒂗𒆕 𒐊𒈾 𒄈𒉌 𒌓𒊕𒁇 𒐊𒁍𒍑 
+𒈠 𒍑𒋫𒈪𒀉 𒀴 𒆠𒈠 𒀴 𒐊𒊑𒀊
 
-šum-ma A.ZU sí-ma-am kab-tam ÌR MAŠ.EN.GAG i-na karzil(GÍR.NI) siparrim(ZABAR) i-pu-uš.ma uš-ta-mi-it ÌR ki.ma ÌR i-ri-ab
+šum-ma A.ZU sí-ma-am kab-tam ÌR MAŠ.EN.GAG i-na GÍR.NI ZABAR i-pu-uš
+ma uš-ta-mi-it 
+ÌR ki.ma ÌR i-ri-ab
+
+If a physician treated a slave or a commoner for a serious wound with a bronze lancet 
+and killed (him), 
+he will repay slave for slave.
 
 šumma asûm simmam kabtam wardam muškēnam ina karzil siparrim īpuš.ma uštamīt, wardam kīma wardim irīab.
 
-If a physician treated a slave or a commoner for a serious wound with a bronze lancet and has killed (him), he will repay slave for slave.
 
 
 § 220
+𒋳𒈠 𒈾𒆏𒋫 𒋗 𒐊𒈾 𒄈𒉌 𒌓𒊕𒁇 𒅁𒋼
+𒈠 𒐊𒅔 𒋗 𒄴𒋰𒀉(𒁕) 
+𒆬𒌓 𒈪𒅆𒅋 𒉛 𒋗 𒐊𒊭𒃲
 
-šum-ma na-kap-ta šu i-na karzil(GÍR.NI) siparrim (ZABAR) ip-te.ma i-in šu úḫ-tap--id!(DA) KUG.BIR₂ mi-ši-il ŠÁM šu i-ša-qal
+šum-ma na-kap-ta šu i-na GÍR.NI ZABAR ip-te
+ma i-in šu úḫ-tap--id!(DA) 
+KUG.BIR₂ mi-ši-il ŠÁM šu i-ša-qal
+
+If he opened his temple with a bronze lancet 
+and has blinded him, 
+he will pay out half his value. (?)
 
 šumma nakkaptašu ina karzil siparrim iptē.ma īššu uḫtappid, kaspam mišil šīmīšu išaqqal.
 
-If he opened his temple with a bronze lancet and has blinded him, he will pay out half his value.
-
-
 § 221
+𒋳𒈠 𒀀𒅗 𒄊𒉻𒁺 𒀀𒉿𒅆 𒊺𒁉𒅕𒌓 𒍑𒋫𒇷𒅎
+𒅇𒇻 𒊺𒅕?𒉆 𒈥𒅕𒄠 𒌒𒋫𒀠𒇷𒀉
+𒁁𒂖 𒍣𒅎𒈪𒅎 𒀀𒈾 𒀀𒅗 𒐊 𒂅 𒆬𒌓 𒐊𒈾𒀜𒁲𒅔
 
-šum-ma A.ZU GÌR.PAD.DU a-wi-lim še-bé-er-tam uš-ta-li-im ù-lu še-er-ʾa4-nam mar-ṣa-am ub-ta-al-li-iṭ be-el si20(ṢI)-im-mi-im a-na A.ZU 5 GÍN KUG.BIR₂ i-na-ad-di-in
+šum-ma A.ZU GÌR.PAD.DU a-wi-lim še-bé-er-tam uš-ta-li-im 
+ù-lu še-er-ʾa4-nam mar-ṣa-am ʰub-ta-al-li-iṭ 
+be-el si20(ṢI)-im-mi-im a-na A.ZU 5 GÍN KUG.BIR₂ i-na-ad-di-in
 
 šumma asûm eṣemti awīlim šebertam uštallim ū lū šerʾānam marṣam ubtalliṭ, bēl simmim ana asîm ḫamšat šiqil kaspam inaddin.
 
-If a physician has repaired a man’s broken bone or has healed a sore tendon, the patient (lit., “owner of the wound”) will give the physician five shekels of silver.
+If a physician has repaired a man’s broken bone 
+or has healed a sore tendon, 
+the patient (lit., “owner of the wound”) will give the physician five shekels of silver.
 
 
 § 222
+𒋳𒈠 𒌉 𒈦𒂗𒆕 𒁹𒁹𒁹 𒂅 𒆬𒌓 𒐊𒈾𒀜𒁲𒅔
 
-šum-ma mâr MAŠ.EN.KAK III šiḳil kaspim i-na-ad-di-in
+šum-ma DUMU MAŠ.EN.KAK III šiḳil kaspim i-na-ad-di-in
 
 šumma mār muškēnim, 3 šiqil kaspam inaddin.
 
@@ -2658,8 +2744,9 @@ If it was a working man's son he shall pay three shekels of silver.
 
 
 § 223
+𒋳𒈠 𒀴 𒀀𒉿𒅆 𒁁𒂖 𒀴 𒀀𒈾 𒀀𒅗 𒁹𒁹 𒂅 𒆬𒌓 𒐊𒈾𒀜𒁲𒅔
 
-šum-ma warad a-wi-lim be-el wardim a-na A.ZU II šiḳil kaspim i-na-ad-di-in
+šum-ma IR3 a-wi-lim be-el IR3 a-na A.ZU II šiḳil kaspim i-na-ad-di-in
 
 šumma warad awīlim, bēl wardim ana asîm 2 šiqil kaspam inaddin.
 
@@ -2667,15 +2754,26 @@ If it was a man's slave, the slave's owner shall pay the doctor two shekels of s
 
 
 § 224
+𒋳𒈠 𒀀𒅗 𒄞 𒅇𒇻 𒀲 
+𒇻 𒄞 𒅇𒇻 𒀲 𒀋𒅎𒈠𒄠 𒆏𒌓 𒐊𒁍𒍑
+𒈠 𒌒𒋫𒀠𒇷𒀉 𒁁𒂖 𒄞 𒅇𒇻 𒀲 𒅆𒐋𒅅 𒆬𒌓 𒀀𒈾 𒀀𒅗 𒀉 𒋗 𒐊𒈾𒀜𒁲𒅔
 
-šum-ma A.ZU GUD ù-lu ANŠE lu GUD ù-lu ANŠE si20-im-ma-am kab-tam i-pu-uš.ma ub-ta-al-li-iṭ be-el GUD ù-lu ANŠE IGI.6.GÁL KUG.BIR₂ a-na A.ZU Á šu i-na-ad-di-in
+šum-ma A.ZU GUD ù-lu ANŠE 
+lu GUD ù-lu ANŠE si20?-im-ma-am kab-tam i-pu-uš
+ma ub-ta-al-li-iṭ 
+be-el GUD ù-lu ANŠE IGI.6.GÁL KUG.BIR₂ a-na A.ZU Á šu i-na-ad-di-in
 
 šumma asi alpim ū lū imērim lū alpam ū lū imēram simmam kabtam īpuš.ma ubtalliṭ, bēl alpim ū lū imērim šuduš/šeššat kaspam ana asîm idīšu inaddin.
 
-If an ox or donkey physician treated either an ox or a donkey for a serious wound and has healed (it), the owner of the ox or donkey will give the physician one-sixth (shekel of) silver as his wages.
+If an ox or donkey physician 
+treated either an ox or a donkey for a serious wound 
+and has healed (it), 
+the owner of the ox or donkey will give the physician one-sixth (shekel) silver as his wages.
 
 
 § 225
+𒋳𒈠 𒄞 𒅇𒇻 𒀲 𒍣𒅎𒈠𒄠 𒆏𒌓 𒐊𒁍𒍑
+𒈠 𒍑𒋫𒈪𒀉 𒅆𒐘(𒐊)𒅅 𒉛 𒋗 𒀀𒈾 𒁁𒂖 𒄞 𒅇𒇻 𒀲 𒐊𒈾𒀜𒁲𒅔
 
 šum-ma GUD ù-lu ANŠE sí-im-ma-am kab-tam i-pu-uš.ma uš-ta-mi-it IGI.4(? 5?).GÁL ŠÁM šu a-na be-el GUD ù-lu ANŠE i-na-ad-di-in
 
@@ -2684,22 +2782,39 @@ If an ox or donkey physician treated either an ox or a donkey for a serious woun
 If he treated either an ox or a donkey for a serious wound and has killed (it), he will give the owner of the ox or donkey one-fourth? (-fifth?) of its value.
 
 
-§ 226
+§ 226 G--
+𒋳𒈠 𒋗𒐊 𒁀𒈝 𒁁𒂖 𒀴 𒀊𒁍𒋾 𒀴 𒆷 𒊺𒂊𒅎 𒌑𒃲𒇷𒅁 𒈩𒇲 𒋗𒐊 𒋗𒀀𒋾 𒐊𒈾𒀝𒆠𒋢
 
-šum-ma gallābum(ŠU.I) ba-lum be-el ÌR ab-bu-ti ÌR la še-e-em ú-gal-li-ib ritti(KIŠIB.LÁ) gallābim(ŠU.I) šu-a-ti i-na¬ak-ki-su
+šum-ma ŠU.I ba-lum be-el ÌR ab-bu-ti ÌR la še-e-em ú-gal-li-ib ritti(KIŠIB.LÁ) gallābim(ŠU.I) šu-a-ti i-na-ak-ki-su
 
 šumma gallābum balum bēl wardim abbutti wardim lā šêm ugallib, ritti gallābim šuāti inakkisū.
 
 If a barber shaved the hair of a slave that was not his without the slave-owner’s permission, that barber’s hand will be cut off.
 
 
-§ 227
+§ 227 PUNS?
+𒋳𒈠 𒀀𒉿𒈝 𒋗𒐊 𒐊𒁕𒊍
+𒈠 𒀊𒁍𒋾 𒀴 𒆷 𒊺𒂊𒅎 𒊌𒁕𒀠𒇷𒅁
+𒀀𒉿𒇴 𒋗𒀀𒋾 𒐊𒁺𒊌𒆪𒋗
+𒈠 𒐊𒈾 𒆍 𒋗 𒐊𒄩𒀠𒆷𒇻 𒋗 
+𒋗𒐊 𒐊𒈾 𒐊𒁺𒌑 𒆷 𒌑𒃲𒇷𒁍 𒐊𒌓𒈠 
+𒈠 𒌑𒋫𒀸𒊬
 
-šum-ma a-wi-lum gallābam(ŠU.I) i-da-aṣ.ma ab-bu-ti ÌR la še-e-em ug-da-al-li-ib a-wi-lam šu-a-ti i-du-uk-ku-šu.ma i-na KÁ šu i-ḫa-al-la-lu šu gallābum(ŠU.I) i-na i-du-ú la ú-gal-li-bu i-tam-ma.ma ú-ta-aš-šar
+šum-ma a-wi-lum ŠU.I ᵛi-da-aṣ
+ma ab-bu-ti ÌR la še-e-em ug-da-al-li-ib
+a-wi-lam šu-a-ti i-du-uk-ku-šu
+ma i-na KÁᵗ šu i-ḫa-al-la-lu šu (𒋗𒐊 pun!)
+ŠU.I i-na ᵛi-du-ú la ú-gal-li-bu i-tam-ma 
+ma ú-ta-aš-šar
 
 šumma awīlum gallābam idâṣ.ma abbutti wardim lā šêm ugdallib, awīlam šuāti idukkūšū.ma ina bābīšu iḫallalūšu; gallābum “ina īdû lā ugallibu” itammā.ma ūtaššar.
 
-If a man deceived a barber and he has shaved the hair-style of a slave that is not his, that man will be killed and hung on his gate; the barber will swear “I did not knowingly shave” and be released.
+If a man deceived a barber 
+and he has shaved the hair-style of a slave that is not his, 
+that man will be killed •abducted
+and hung on his gate; 
+the barber will swear “I did not knowingly shave” 
+and be released.
 
 
 § 228
@@ -2722,7 +2837,7 @@ If a house builder built a house for a man but did not secure/fortify his work s
 
 § 230
 
-šum-ma mâr be-el E2 uš-ta-mi-it mâr bânîm šu-a-ti i-du-uk-ku
+šum-ma DUMU be-el E2 uš-ta-mi-it DUMU bânîm šu-a-ti i-du-uk-ku
 
 šumma mār bēl bītim uštamīt, mār itinnim šuāti idukkū.
 
@@ -2823,7 +2938,7 @@ If the boat of an upstream skipper struck and has sunk the boat of a downstream 
 
 šum-ma a-wi-lum alpam a-na ni-bu-tim it-te-bi ⅓ ma-na kaspim i-ša-ḳal
 
-šumma awīlum alpam ana nipûtim ittepe 1/3 mana kaspam išaqqal.
+šumma awīlum alpam ana nipûtim ittepe ⅓ mana kaspam išaqqal.
 
 If a man has taken an ox as security, he shall pay a third of a mana of silver.
 
@@ -2904,7 +3019,7 @@ If an ox, while walking along the street, gored a man and has killed him, such a
 
 § 251
 
-šum-ma GUD a-wi-lim na-ak-ka-p[í-ma] ki.ma na-ak-ka-pu-ú ba-ab-ta šu ú-še-di-šum-ma qar-ni šu la ú-šar-ri-im GUD la ú-sa-an-ni-iq.ma GUD šu-ú DUMU a-wi-lim i[k-k]i-ip.ma u[š-ta]-mi-it 1/2 [MA].NA KUG.BIR₂ i-[na]-ad-di-in
+šum-ma GUD a-wi-lim na-ak-ka-p[í-ma] ki.ma na-ak-ka-pu-ú ba-ab-ta šu ú-še-di-šum-ma qar-ni šu la ú-šar-ri-im GUD la ú-sa-an-ni-iq.ma GUD šu-ú DUMU a-wi-lim i[k-k]i-ip.ma u[š-ta]-mi-it ½ [MA].NA KUG.BIR₂ i-[na]-ad-di-in
 
 šumma alap awīlim nakkāp[ī-ma] kīma nakkāpû bābtašu ušēdīšumma qarnīšu lā ušarrim alpam lā usanniq.ma alpum šū mār awīlim i[kk]ip.ma u[šta]mīt mišil [ma]nā kaspam i[n]addin.
 
@@ -2915,14 +3030,14 @@ If a man’s ox was prone to goring and his neighborhood had made known to him t
 
 |šum-ma| warad a-wi-lim ⅓ ma-na kaspim i-na-ad-di-in
 
-šumma warad awīlim, 1/3 mana kaspam inaddin.
+šumma warad awīlim, ⅓ mana kaspam inaddin.
 
 If it was a man's slave he shall give a third of a mana of silver.
 
 
 § 253
 
-šum-ma a-wi-lum a-wi-lam a-na pa-ni A.ŠÀ šu ú-zu-uz-zi-im i-gur.ma aldâm(AL.DÙ.A-am) [i]-qí-ip šu [ÁB].GUD.ḪI.A ip-qí-súm [a-na] A.ŠÀ e-re.ši-im ú-ra-ak-ki.sú [šu]m.ma a-wi-lum šu-ú ŠE.NUMUN ù-lu ukullâm(ŠÀ.GAL) iš-ri-iq.ma i-na qá-ti šu it-ta-aṣ-ba-at ritta (KIŠIB.LÂ) šu i-na¬ak-ki-su
+šum-ma a-wi-lum a-wi-lam a-na pa-ni A.ŠÀ šu ú-zu-uz-zi-im i-gur.ma aldâm(AL.DÙ.A-am) [i]-qí-ip šu [ÁB].GUD.ḪI.A ip-qí-súm [a-na] A.ŠÀ e-re.ši-im ú-ra-ak-ki.sú [šu]m.ma a-wi-lum šu-ú ŠE.NUMUN ù-lu ukullâm(ŠÀ.GAL) iš-ri-iq.ma i-na qá-ti šu it-ta-aṣ-ba-at ritta (KIŠIB.LÂ) šu i-na-ak-ki-su
 
 šumma awīlum awīlam ana pānī eqlīšu uzuzzim īgur.ma aldâm [i]qīpšu [l]iātim ipqissum [ana] eqlim erēšim urakkissu, [šu]mma awīlum šū zēram ū lū ukullâm išriq.ma ina qātīšu ittaṣbat, rittašu inakkisū.
 
@@ -3111,7 +3226,7 @@ If a man hired a hireling, from the beginning of the year until the fifth month 
 
 § 274
 
-šum-ma a-wi-lum mâr ummânim i-ig-ga-ar ID amêlu . . . . . V ŠE kaspim ID amêluGAB.A V ŠE kaspim [ID] amêluKAD [VŠE] kaspim [ID] amêluGUL . . . . [ŠE] kaspim [ID] amêluGA(?) . . . [ŠE] kaspim ID . . . . tu(?) . . . [ŠE] kaspim [ID] . . . nangarim IV ŠE kaspim ID SA IV ŠE kaspim ID AT.KIT . . . ŠE kaspim ID amêlubânîm . . . [ŠE] kaspim i-na [ûmi] Ikam [i-na-ad-di]-in
+šum-ma a-wi-lum DUMU ummânim i-ig-ga-ar ID amêlu . . . . . V ŠE kaspim ID amêluGAB.A V ŠE kaspim [ID] amêluKAD [VŠE] kaspim [ID] amêluGUL . . . . [ŠE] kaspim [ID] amêluGA(?) . . . [ŠE] kaspim ID . . . . tu(?) . . . [ŠE] kaspim [ID] . . . nangarim IV ŠE kaspim ID SA IV ŠE kaspim ID AT.KIT . . . ŠE kaspim ID amêlubânîm . . . [ŠE] kaspim i-na [ûmi] Ikam [i-na-ad-di]-in
 
 [badly broken] šumma awīlum mār ummānim iggar,
 idī [ ] ... 5 uṭṭet kaspam
@@ -3177,7 +3292,7 @@ If a man bought a male (or) female slave and while he has not (yet) completed on
 
 § 279
 
-šum-ma a-wi-lum ÌR GEME2 iša-am.ma ba-aq-ri ir-ta.ši na-di-na¬an šu ba-aq-ri i-ip-pa-al.
+šum-ma a-wi-lum ÌR GEME2 iša-am.ma ba-aq-ri ir-ta.ši na-di-na-an šu ba-aq-ri i-ip-pa-al.
 
 šumma awīlum wardam amtam išām.ma baqrī irtaši nādināššu baqrī ippal.
 
@@ -3197,7 +3312,7 @@ If a man has bought a man’s male or female slave in a foreign country, (and) w
 
 § 281
 
-šum-ma mârê ma-tim ša-ni-tim ša-a-a-ma-nu.ma i-na ma-ḫar i-lim kaspam iš-ḳu-lu i-ga-ab-bi.ma be-el wardim ù-lu amtim kaspam iš-ḳu-lu a-na dam-gar3 i-na-ad-di-in.ma lu wara-zu lu ama-zu i-pa-aḳ
+šum-ma DUMUê ma-tim ša-ni-tim ša-a-a-ma-nu.ma i-na ma-ḫar i-lim kaspam iš-ḳu-lu i-ga-ab-bi.ma be-el wardim ù-lu amtim kaspam iš-ḳu-lu a-na dam-gar3 i-na-ad-di-in.ma lu wara-zu lu ama-zu i-pa-aḳ
 
 šumma mārū mātim šanītim, šāyyimānumma(!) ina maḫar ilim kasap išqulu iqabbīma, bēl wardim ù-lu amtim kasap išqulu ana tamkārim inaddinma, lu warassu lu amassu ipaṭṭar
 
@@ -3206,7 +3321,7 @@ If they are citizens of a different land the purchaser shall state the amount of
 
 § 282
 
-šum-ma ÌR a-na be-lí šu ú-ul be-lí at-ta iq-ta-bi ki.ma ÌR.sú ú-ka-an-šu.ma be-el šu ú-zu-un šu i-na¬ak-ki-is
+šum-ma ÌR a-na be-lí šu ú-ul be-lí at-ta iq-ta-bi ki.ma ÌR.sú ú-ka-an-šu.ma be-el šu ú-zu-un šu i-na-ak-ki-is
 
 šumma wardum ana bēlīšu “ul ēbēlī atta” iqtabi, kīma warassu ukāššū.ma bēlšu uzuššu inakkis.
 
