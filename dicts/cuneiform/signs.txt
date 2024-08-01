@@ -1,3 +1,5 @@
+# DEPRECATED see and use cuneiform.list  
+# BUT it contains unmapped signs like 𒌎 …!!!
 KAL la6  flooding #nīlu "wetness, moisture; flooding of field" . la [HANG] la [HANG]  wr. la2 ; la ; lal2 "to supervise, check; to weigh, weigh , pay; to hang, balance, suspend, be suspended; to show, display; to bind; binding, team; to press, throttle; to winnow ; to carry" #alālu ; hanāqu ; hiāţu ; kamû ; kasû; şimittu ; kullumu ; šaqālu ; šuqalulu ; zarû 
 LAL la2 
 LA la 

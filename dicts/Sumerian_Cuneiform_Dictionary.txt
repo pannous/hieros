@@ -1979,9 +1979,7 @@ du11, DUG4 [3878x] = TALK, speak, say; to order; to do, perform
 <<<<<
 
 s: 
-dug4-ga-ĝu10 = coition [𒅗 dug4 / KA = perform + 𒂵 ga suckling, carry + 𒈬 ĝu10 
-
-(MU) phallus, dear, name, son, year] 
+dug4-ga-ĝu10 = coition [𒅗 dug4 / KA = perform + 𒂵 ga suckling, carry + 𒈬 ĝu10 (MU) phallus, dear, name, son, year]
 dug4-ga-ni = coition 
 
 zu2-kešda = compiler, organizer [𒅗 zu2 cutting edge + 𒆟 kešda bind, organize] 
@@ -6539,9 +6537,7 @@ revenge)
 𒂵 GA 
 
 carry + 𒈬 
-MU phallus, 
-dear, name, 
-son, year + 
+MU phallus, dear, name, son, year +
 𒉌 NI in 
 the end +  
 
@@ -7842,9 +7838,7 @@ river;
 phallus, 
 
 dear, 
-name, 
-
-son, year 
+name, son, year
 .. 
 
 Line 13 
@@ -7908,9 +7902,7 @@ MU
 phallus, 
 
 dear, 
-name, 
-
-son, year 
+name, son, year
 .. 
  
 1 |  2  |  3  |  4  |  5  |  6  |   7  |   8  |  9  |  10  |  11  11b  |  12 |  13 | 14    

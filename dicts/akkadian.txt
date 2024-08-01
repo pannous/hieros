@@ -160,7 +160,7 @@ qaš𒌅 	adze, axe, bow
 𒀀𒄩𒌅 	a-ḫa-tu <> achim
 𒀀𒄩𒌅 	sister
 
-𒀀𒄩𒍪 	a-ḫa-zu ≈ 𒐊𒄴𒄩𒊍 iḫḫaz ≈ 𒐊𒄷𒊻 iḫuz
+𒀀𒄩𒍪 	a-ḫa-zu ≈ 𒄿𒄴𒄩𒊍 iḫḫaz ≈ 𒄿𒄷𒊻 iḫuz
 𒀀𒄩𒍪 	learn, marry, to take  "I haz wife;)"
 
 𒀀𒄯𒊒 	a-ᵍḪAR-RU ≈ Ašur
@@ -301,7 +301,8 @@ qaš𒌅 	adze, axe, bow
 𒀀𒉣𒌅 	a-nun-tu •fend
 𒀀𒉣𒌅 	combat, fight
 
-𒐊𒅁𒉺𒇻 i-ip-pa-lu pay
+𒄿𒅁𒉺𒀠 i-ip-pa-al pay 
+𒄿𒅁𒉺𒇻 i-ip-pa-lu pay
 𒀀𒉺𒇻 	a-pa-lu …pay…
 𒀀𒉺𒇻 	amswer, to pay 
 
@@ -1496,11 +1497,14 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒂊𒉿𒊒 	ᵍe-pe-ru | geperde <> geberde gebirge
 𒂊𒉿𒊒 	earth, soil | •perde > bugta půda aarde אֶרֶץ érets джер cer ground 
 
-𒂊𒉿𒋗 	e-pe-šu ≈ 𒐊𒁍𒍑 i-pu-uš opus 
+𒂊𒉿𒋗 	e-pe-šu ≈ 𒄿𒁍𒍑 i-pu-uš opus 
 𒂊𒉿𒋗 	build, make, to do, treat, set up (household)
 
 𒂊𒊏𒉡 	e-ra-nu
 𒂊𒊏𒉡 	(a tree)
+
+𒂊𒊑 eᵏre
+𒂊𒊑 cultivate (A.ŠÀ acre)
 
 𒂊𒊑𒁍 	e-re-pu arriba
 𒂊𒊑𒁍 	to cloud over, to enter
@@ -1890,7 +1894,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄑𒄀𒉡 	giš-gi-nu
 𒄑𒄀𒉡 	clamp
 
-𒄑𒄣 	is-qu <> 𒐊𒍝𒊍 i-za-az share
+𒄑𒄣 	is-qu <> 𒄿𒍝𒊍 i-za-az share
 𒄑𒄣 	lot, share
 
 𒄑𒄣𒄣 	is-qu-qu
@@ -2482,6 +2486,11 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄿𒆗𒉡 	ˢi-tan-nu <<
 𒄿𒆗𒉡 	interstice, mesh
 
+
+𒀀𒊮 A-ŠA aša ≈ 𒃷 AŠA₅, AŠAG, GAN₂, GANA₂, IKU:
+𒀀𒊮 A•CAʳ acre Acker √coeur/core
+𒀀𒊮 field
+≈
 𒄿𒆪 	i-kuʳ Acker acre 
 𒄿𒆪 	field, a measure of area, ditch, dyke
 
@@ -2662,9 +2671,6 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅆𒈪𒆗 	ši-mi-tan
 𒅆𒈪𒆗 	(in the) evening
 
-𒅆𒈬 	ši-mu <> maǐ 买 卖
-𒅆𒈬 	purchase (price) 
-
 𒅆𒈾𒌅 	ši-na-tu
 𒅆𒈾𒌅 	urine
 
@@ -2766,20 +2772,20 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅈𒌋𒌋𒉡 	apricot tree
 
 
-𒅋𒁖𒆪 	ˢᵖil-dak-ku   shpel derek   سپیدار sepidârᵏ 
-𒅋𒁖𒆪 	 (a type of) poplar / Espe 𓇋 𓈙 𓂧 𓆭 / 𓋴 𓈙 𓊪 𓇶 | white | سپید sapêd ≠ dark
+𒀧𒁖𒆪 	ˢᵖil-dak-ku   shpel derek   سپیدار sepidârᵏ 
+𒀧𒁖𒆪 	 (a type of) poplar / Espe 𓇋 𓈙 𓂧 𓆭 / 𓋴 𓈙 𓊪 𓇶 | white | سپید sapêd ≠ dark
 
-𒅋𒆷𒌅 	ˢᵛil-la-tu σίελος síelos
-𒅋𒆷𒌅 	saliva
+𒀧𒆷𒌅 	ˢᵛil-la-tu σίελος síelos
+𒀧𒆷𒌅 	saliva
 
-𒅋𒇻𒆪 	ˢᵖil-lu-ku
-𒅋𒇻𒆪 	a precious stone
+𒀧𒇻𒆪 	ˢᵖil-lu-ku
+𒀧𒇻𒆪 	a precious stone
 
-𒅋𒇻𒊒 	ᶠil-lu-ru
-𒅋𒇻𒊒 	a flower
+𒀧𒇻𒊒 	ᶠil-lu-ru
+𒀧𒇻𒊒 	a flower
 
-𒅋𒌅 	ᶠil-tu
-𒅋𒌅 	goddess <> Polter Geist <> PO'TA…
+𒀧𒌅 	ᶠil-tu
+𒀧𒌅 	goddess <> Polter Geist <> PO'TA…
 
 𒅎𒁀𒊒 	im-ba-ru  𒅎𒂂 imbāru •imborn  ambon *ambun@Malay +++
 𒅎𒁀𒊒 	im-ba-ru µboira parruma breu boreās βορέᾱς boreāⁿ borrina •forgh fog +++
@@ -3284,7 +3290,7 @@ _𒆗𒇻 	fat-tailed sheep
 𒆜𒋛𒁖𒆪 | miller |	 𒆜 כַּרְסֹ karso cross of windmill 𓐩
 𒆜𒋛𒁖𒆪 | miller |	miller
 <?>
-𒅋𒁖𒆪 	ˢᵖil-dak-ku   shpel derek   سپیدار sepidârᵏ Espe 𓇋 𓈙 𓂧 𓆭 "poplar"
+𒀧𒁖𒆪 	ˢᵖil-dak-ku   shpel derek   سپیدار sepidârᵏ Espe 𓇋 𓈙 𓂧 𓆭 "poplar"
 
 𒆟𒋗 	ḫir-šu
 𒆟𒋗 	a furrow or ditch?
@@ -3308,6 +3314,8 @@ _𒆗𒇻 	fat-tailed sheep
 𒆠𒅆𒁍 	ki-lim-bu clump  +++?
 𒆠𒅆𒁍 	reed bundle
 
+
+𒅖𒌅 IŠ-TU just from ≠
 𒆠𒅖𒌅 	ki-mil-tu <> tumult
 𒆠𒅖𒌅 	ki-mil-tu <> 𒋼𒀀𒁲𒈪𒅀𒊍 kardimiyaz
 𒆠𒅖𒌅 	ki-iš-tu <> ቁሻ qušā™ qeyz غُصّة ḡuṣṣa ગુસ્સો gusso
@@ -3686,6 +3694,9 @@ _𒆪𒊒 	dwarf, short (person)
 
 𒊭𒋡𒇻 	ša-qa-lu shekel™ 𓎡 scale  <>  𓎛 𓆰 𓈖 𓎡 𓅱 𓂠 | scale-pan | ᵡHenkel
 𒊭𒋡𒇻 	pay, to weigh <> s'equal sackerl
+<>
+𒅖𒆪𒇻 iš-ḳu-lu @ shekel™ 𓎡 scale 
+𒅖𒆪𒇻 pay, to weigh … 𒄿𒈾𒀜𒁲𒅔 give
 <>
 𒋗𒆰𒌅 	šu-qul-tu scale™ scaledom scaled “weight”
 𒋗𒆰𒌅 	šu-qul-tu se.kaal™ “weight” scale
@@ -4244,6 +4255,9 @@ _𒆳 	five ⚠️
 𒈠𒆷𒈨 	ma-la me
 𒈠𒆷𒈨 	dropsical
 
+𒈠𒆷 ma-la
+𒈠𒆷 however much
+≈
 𒈠𒆷𒌅 	ma-la-tu
 𒈠𒆷𒌅 	mng. unkn.
 
@@ -5155,6 +5169,7 @@ _𒆳 	five ⚠️
 𒍝𒈾𒉡 	zaʳna-nu | rain | raingen! raining  rigning باران baran rasam reinigen  רעגענען
 𒍝𒈾𒉡 	zaʳna-nu | rain | nañmır مینہ meṅh yagin јаҥмыр ǰaŋmïr наңмыр 
 <>
+𒄭𒀀𒉡 	zun-nu ?
 _𒉡 	zun-nu
 _𒉡 	rain
 
@@ -6081,7 +6096,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒊩𒌨𒆜𒋢 	account(s)
 
 
-𒅋𒁖𒆪   ˢᵖil-dak-ku   shpel derek   
+𒀧𒁖𒆪   ˢᵖil-dak-ku   shpel derek   
 𒊬𒁀𒌅 	sar-ba-tu sarbatu سپیدار sepidâr √white +++
 𒊬𒁀𒌅 	poplar
 
@@ -6101,6 +6116,9 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒊬𒈤𒋗𒋾 	šar meḫ šu-ti
 𒊬𒈤𒋗𒋾 	south wind
 
+𒍝𒅈𒊒𒌈 sà-ar-ru-tum
+𒍝𒅈𒊒𒌈 criminal
+<>
 𒊬𒊏𒄣 	šar-ra-qu sarrāqu < ҡараҡ qaraq qaraqčï चोर cora चोरी corī <> краде́ц kradéc къу q̇u
 𒊬𒊏𒄣 	šar-ra-qu  سراق sarrāq سَارِق sāriq চোৰ sür цӏогьор c̣ohor +++
 𒊬𒊏𒄣 	šar-ra-qu Schurke +++
@@ -6193,8 +6211,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒊭𒄀𒄥𒊒 	ša-gi-gur-ru
 𒊭𒄀𒄥𒊒 	free-will offering
 
-𒊭𒄣 	ša-qumgive to drink
-
+𒊭𒄣 	ša-qum 
 𒊭𒄣 	a spade, butler, elevated, giver to drink’, high, irrigate, to be(come) high, to give to drink
 
 𒊭𒄣𒈠𒌅 	ša-qum-ma-tu
@@ -6297,7 +6314,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒊭𒈪𒌅 	an alkaline plant
 
 𒊭𒈬 	ša-mu
-𒊭𒈬 	heaven, purchase, sky, to buy
+𒊭𒈬 	heaven, sky, purchase, to buy
 
 𒊭𒈾𒉡 	ša-na-nu
 𒊭𒈾𒉡 	rival, to equal
@@ -6335,7 +6352,13 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒊭𒉿𒌅 	ša-pi-tu
 𒊭𒉿𒌅 	a bird
 
-𒊭𒊏𒄣 	ša-ra-qu سرق sarag 𒅖𒊑𒅅 iš-ri-iq 
+𒅖𒋫𒊑𒅅 iš-ta-ri-iḳ entrück
+𒅖𒋫𒊑𒅅 to steal
+≈
+𒅖𒊑𒅅 iš-ri-iq aus-rück entrück
+𒅖𒊑𒅅 to steal
+≈
+𒊭𒊏𒄣 	ša-ra-qu سرق sarag ≈ 
 𒊭𒊏𒄣 	to steal <> Schurke 𓋴 𓂋 𓐍 𓅁 | guilty person | •thief
 <> 𓋴 𓎡 𓈖 𓆊 | be greedy, lust (after) | ?
 
@@ -6364,7 +6387,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒊭𒋗𒊒 	womb
 
 𒊭𒋡𒇻 	ša-qa-lu
-𒊭𒋡𒇻 	pay, to weigh <> s'equal
+𒊭𒋡𒇻 	pay, to weigh <> sell @ shekel Schale s'equal
 
 𒊭𒋢 	ša-su ~ shout
 𒊭𒋢 	call (out), to shout
@@ -8458,8 +8481,6 @@ atulīmānu  (n. pl. ; [SB] ) [Human → Body] both hands
 
 𒅁𒁀𒋗𒌑 ib-ba-šu-ú passau be/sei/pass 𓃹
 
-𒂊𒁍𒊒 e-bu-ru  haburuˢᵗ ( first harvest )
-
 𒋾𒁍𒊻𒋢 ti-bu-us-su aggression:
 𒋾𒁍𒌓 tiᵐbu-ut támadás to'muerto
 𒋾𒁍𒌓 ti-bu-ut to-boot𓃀 tribut 𓎛 𓊪 𓏏 𓂘 ? ≠ επιθετικότητα epithetikótita
@@ -8489,12 +8510,14 @@ atulīmānu  (n. pl. ; [SB] ) [Human → Body] both hands
 𒋡𒁄 qa-bal cabal quarrel
 
 𒀉𒅗𒀀 id-ka-a atakea take-up (attack…)
+𒀉𒅗𒍪 ID-ka-sú
+𒀉𒅗𒍪 conspired
 
-𒆳𒃸𒀭𒂄𒐊𒐋 KUR.kár-ᵈdun-ía-àš Karduniaš (Babylonia) 𒂄 donkeys ≈ Assiats
+𒆳𒃸𒀭𒂄𒄿𒐋 KUR.kár-ᵈdun-ía-àš Karduniaš (Babylonia) 𒂄 donkeys ≈ Assiats
 
 𒌨𒊑𒄩 𒋫𒄩𒍪 ur-ri-ḫa ta-ḫa-zu warriha'tackaz bring-war hasten/attack
 
-𒅋𒌨𒄠𒈠 il-lik-am-ma wailkame walk/come/came
+𒀧𒌨𒄠𒈠 il-lik-am-ma wailkame walk/come/came
 
 𒅅𒋾 iqᶥti quit , come to end
 
@@ -8752,7 +8775,7 @@ revolt and rebellion
 𒈥𒆜 mar-kas Mark $ property
 
 
-𒄿 𒀀𒐊𒁕 ya-i-da wit "know" <> video "see"
+𒄿 𒀀𒄿𒁕 ya-i-da wit "know" <> video "see"
 
 𒌨𒄷 𒉺𒁕𒉡 urᵗhu pa-da-nu "straight road pathing"
 
@@ -8860,7 +8883,7 @@ revolt and rebellion
 𒌌𒌓 ul-tú ultu "from"
 𒌌𒌅 UL-TU ultu "from"
 𒅖𒌅 IŠ-TU just …
-ištu/ultu (of, *ist, since, after, ultima “last”?), 
+ištu/ultu (of, *ist, from, since, after, ultima “last”?), 
     preposition; <IŠTU> (functioning as graphic indicator of the ablative); 
 
 [missing] Ultu ≈ 𒀸𒐺𒐈 ≈ 𒐀𒋰𒐈 ≈ 𒋰𒋰𒐈 ≠  𒆤 𒋢 𒍇 𒌝 𒈩 𒋃 𒍚 𒂅 𒂆 𒄈 𒅍 𒈢𒐈 𒈣𒐈  𒊒 𒊏 𒍢  
@@ -8869,7 +8892,7 @@ ištu/ultu (of, *ist, since, after, ultima “last”?),
 aššu (cause, because of), 
 eli (up, over, lift ↔ alive?), 
 
-𒐊𒆠𒅋𒉺𒀀 i-ˢki-il-pa-a I sailed ship
+𒄿𒆠𒀧𒉺𒀀 i-ˢki-il-pa-a I sailed ship
 
 𒈠𒊒𒊻𒌅 ma-ru-us-tu malus(tum) sick(ness)
 
@@ -8976,9 +8999,16 @@ in midst of the sea I saw maliciousness
 𒀜𒊒𒌓 	ad-ruᵛud drove @ road drive-back
 𒀜𒊒𒊻 ad-ruᵛus drove
 
-𒅅𒁍𒉌 ig-bu(ni) ≈
+𒆏𒋫𒀜 kab-ta-at √Gebot  כָּבוֹד kabod כבוד kavód 
+𒆏𒋫𒀜 honour(ed)  <> כָּבֵד kavéd 𒅗𒁀𒌅 ka-ba-tu “heavy” 
+
+𒆠𒁁𒀉 ki-be-it
+𒆠𒁁𒀉 Gebot, command
+≈
 𒀝𒁀𒀀 ag-ba-a gebat "commanded" <> mighty?
 𒀝𒁀𒀀 ag-ba-a Gebot "command" 
+≈
+𒅅𒁍𒉌 ig-bu(ni) ≈
 
 
 𒂊𒇷 eᵛli oᵛri over #eli @ Semite վրա vra فوق 𐌿𐍆𐌰𐍂 ὑπέρ hyper  အပေါ် pau …위에 wi-e …우에 u-e 
@@ -9003,7 +9033,7 @@ in midst of the sea I saw maliciousness
 
 𒀝 𒋢𒌓 akᵃᵖsuʳud captured
 
-𒆷 𒐊𒋢𒌋 ⁿla ᵛi-su-u unwiss unknown
+𒆷 𒄿𒋢𒌋 ⁿla ᵛi-su-u unwiss unknown
 
 
 𒈨𒊏𒉡 me-ra-nu "bitter" @ marine մռու mṙuⁿ መራራ märara  مُرّ murr mürr amargu amur amuor marcus mõru
@@ -9024,6 +9054,7 @@ in midst of the sea I saw maliciousness
 
 
 𒅗𒐼𒀜 kaᵖsaʳ-ad captured
+𒅗𒍝𒀜 kaᵖsaʳ-ad captured
 𒅗𒆳 kaᵖsad captured (𒅗 Kopf)
 𒀝𒋗𒌓 akᵖšuʳud captured
 𒀝𒋢𒌓 akᵖsuʳud captured  (𒀝 γύψ 𓄿 𓅀 𓅐 αἰγυπιός aigupiós) 
@@ -9074,6 +9105,7 @@ in midst of the sea I saw maliciousness
 𒅎𒉡 im-nu manu 𓂠 𓂟 "hand out"
 
 𒅅𒉡𒐼 ik-nu-sa √knecht submit
+𒅅𒉡𒍝 ik-nu-sa √knecht submit
 
 𒂊𒄫𒊩 e-pis-sal official "opus" =>
 𒂊𒄫𒊩 [[𒅆𒁾]] tuglu "concubine"  𒅆𒁾 𒁇 "an official"  QED
@@ -9084,7 +9116,7 @@ in midst of the sea I saw maliciousness
 
 𒄑𒇻𒌋 iz-lu-u slew schleudern geschleudert
 
-𒐼𒇴𒋫 sa3-lam-ta salvat slavat «slave» follower attendant
+𒍝𒇴𒋫 sa3-lam-ta salvat slavat «slave» follower attendant
 
 𒈾𒊏𒊒𒋾 na-ra-ru-ti Not-Rettung "aid, help"  ⲛⲉⲙ-ϯⲧⲟⲧ⳼ 	 give hand, help, aid to
 𓈖 𓆓 𓐩 𓏌 𓏛 | save, protect | Not-guard  ≠ הֵגֵן hegén hagen hecken @ home حَمَى ḥamā
@@ -9110,8 +9142,8 @@ in midst of the sea I saw maliciousness
 
 𒅗𒀀𒀀𒈠𒉡 ka-ᶠaiʳma-nu confirmed
 
-𒌑𒐼𒀭𒈾 u2-sa3-an-na ∑ repeated  instaurō (𒀭 star) 
-𒌑 𒐼𒀭𒈾 u2-sa3-an-na שנה shaná 𐎌𐎐𐎚 šnt /šanatu/ 𒀭 sun, season
+𒌑𒍝𒀭𒈾 u2-sa3-an-na ∑ repeated  instaurō (𒀭 star) 
+𒌑𒍝𒀭𒈾 u2-sa3-an-na שנה shaná 𐎌𐎐𐎚 šnt /šanatu/ 𒀭 sun, season
 
 𒁍 púˡ in 𒁍𒌓 flight  𒋾𒁍𒌓 {tiʳ}púˡut flight of locust
 
@@ -9128,7 +9160,7 @@ in midst of the sea I saw maliciousness
 
 𒁀𒆷𒁲 ba-la-di platt flatt level
 
-𒅅𒋾𒅋  iq-ti-il geteilt "destroyed"
+𒅅𒋾𒀧  iq-ti-il geteilt "destroyed"
 
 𒈠 𒇻𒌋𒋾 maᵍlu-u-ti megaloty > mighty
 
@@ -9263,7 +9295,8 @@ hamun 	𒉃
 𒍝𒇴	za-lam	zalam	tent	𓇋 𓌳 𓂝 𓅓 𓉐 •jalam  𓄚 𓈖 𓋳 		#kuštāru 
 𒍝𒇴𒃻	za-lam-ĝar	zalamĝar	tent	^		#kuštāru 
 
-𒊏𒈠𒉌 ra-ma-ni reknown
+𒊏𒈠𒉌 ra-ma-ni 
+𒊏𒈠𒉌 reknown, own
 
 𒄑𒍝𒊑 iz-za-ri sehr
 
@@ -9303,10 +9336,11 @@ sanuti® senator "prefect"
 𒉌𒅕𒋾 ne₂-er-ti 
 𒉌𒅕𒋾 murder
 
-𒐊𒁺𒊌𒆪 i-du-uk-ku
-𒐊𒁺𒊌𒆪 take away, kill, execute <> education
+
+𒄿𒁺𒊌𒆪 i-du-uk-ku
+𒄿𒁺𒊌𒆪 abduct, take away, kill, execute <> education
 𒀉𒁕𒀝 id-da-ak 
-𒀉𒁕𒀝 execute(d), take away, kill
+𒀉𒁕𒀝 abduct, execute(d), take away, kill
 
 𒌒𒁉𒅕 ub-bi-ir 
 𒌒𒁉𒅕 ubir √accuse абвіна abvina… obviňovat obvinit <> обвини́тел obvinítel
@@ -9369,9 +9403,6 @@ sanuti® senator "prefect"
 𒀀𒁺 AᵇDU upto
 𒀀𒁺 AᵇDU up to (e.g. 𒌍 𒋗 30 fold fee)
 
-𒄿𒊑𒀀𒀊 i-ri-a-ab
-𒄿𒊑𒀀𒀊 give back (robbery)
-
 𒊬𒊏𒀝 šar-ra-aq
 𒊬𒊏𒀝 thief ≈ Schurke "schürer"
 
@@ -9385,8 +9416,9 @@ sanuti® senator "prefect"
 𓋴 𓂋 𓐍 𓅁 | •thief | <> 𒊭𒊏𒄣 	ša-ra-qu سرق sarag 𒅖𒊑𒅅 iš-ri-iq "to steal"
 𓋴 𓂋 𓐍 𓇋 𓇋 𓀁 𓏱 | evil spirit | Schurke / Schreck! / Gry..?
 
+𒄿𒋗𒈠 ʰi-šu.ma
 𒄿𒋗 ʰi-šu 
-𒄿𒋗 he has 𓃹
+𒄿𒋗 he has 𓃹 he owes / had / owed
 
 
 𒄫𒁍 KER.bu  𓐍 𓂋 <> 𓍚 𓅱 𓂻 <> 𓈎 𓂋 𓇋 𓂾 𓂻 | draw near <> 𓂋 𓉔 𓅱  
@@ -9437,18 +9469,18 @@ sanuti® senator "prefect"
 𒄿𒈾𒀜𒁲𒅖𒋳 i-na-ad-di-iš-šum
 𒄿𒈾𒀜𒁲𒅖𒋳 give (him shekel 𒂆 )
 
-𒐊𒍝𒋼𒀀𒈠 i-za-kar-ma
-𒐊𒍝𒋼𒀀 i-za-kar zeug sagen
-𒐊𒍝𒋼𒀀 take an oath
+𒄿𒍝𒋼𒀀 i-za-kar zeug sagen
+𒄿𒍝𒋼𒀀 take an oath
 
 𓋹 𓈖 𓐍 𓊹 …
-𒉌𒅖  𒐊𒅆 𒐊𒍝𒋼𒀀
+𒉌𒅖  𒄿𒅆 𒄿𒍝𒋼𒀀
 ni-iš i-lim i-za-kar
 swear by the life of god
 
 𒄑𒍝𒆗 iz-za-kar besagen
 𒄑𒍝𒆗 (give away) name 
 
+𒄿𒊑 𒀉𒁲 i-re id-di (idi=give,put)
 𒄿𒊑𒀉𒁲 	i-re-ed-de ward
 𒄿𒊑𒀉𒁲 	conduct s.o. (e.g. to palace 𒂍𒃲)
 
@@ -9458,12 +9490,15 @@ swear by the life of god
 𒅅𒋫𒆷 ik-ta-la
 𒅅𒋫𒆷 keep (slave in house)
 
+𒇷𒅖𒁉𒅕 li-iš-bi-ir l'zerbrech
+𒇷𒅖𒁉𒅕 break (staff)
+
 𒅁𒇻𒍑 ip-lu-uš 
 𒅁𒇻𒍑 'b-lu- вломиться 𓂝 𓊪 𓏲 𓅓 (𓊃𓅱𓆑𓅱)
 𒅁𒇻𒍑 break in (into house 𒁉𒌓 bi-tam / bi-utu) <> betör buzib bàjẹ sílé
 
-𒁉𒅋𒅆𒅎 pí-il-ši-im
-𒁉𒅋𒅆𒅎 breach (place)
+𒁉𒀧𒅆𒅎 pí-il-ši-im
+𒁉𒀧𒅆𒅎 breach (place)
 
 𒄿𒁺𒊌𒆪𒋗𒈠 i-du-uk-ku-šu-ma
 𒄿𒁺𒊌𒆪𒋗𒈠 execute(d)
@@ -9490,8 +9525,10 @@ in
 𒄴𒄩𒀊𒌅 iḫ-ḫa-ab-tu
 𒄴𒄩𒀊𒌅 commit(ted) (robbery)
 
+𒉌𒋗  ni-šu nišu 𓈖 𓆓 𓐩 𓋴 𓅪 𓀀 commoner "Nietsche" √nieder
+𒉌𒋗  ni-šu nišu 𓈖𓏥 nous “humanity, people” 
 𒉌𒅆 ni-ši  Menschen <> nieder
-𒉌𒅆 ni-igi Nigger
+𒉌𒅆 ni-igi Nigger necro mortals
 𒉌𒅆 oil-te Leute
 𒉌𒅆 people
 
@@ -9499,9 +9536,9 @@ in
 𒄿𒊭𒂵𒇻 weigh (e.g. mina of silver)
 
 
-𒆷 𒅋𒇷𒅅 la ʷil-li-ik
-𒆷 𒅋𒇷𒅅 ¬ willig
-𒆷 𒅋𒇷𒅅 did not go
+𒆷 𒀧𒇷𒅅 la ʷil-li-ik
+𒆷 𒀧𒇷𒅅 ¬ willig
+𒆷 𒀧𒇷𒅅 did not go
 
 𒈬𒈾𒀝𒄀𒅕 mu-na-ag-ge-er denouncer
 
@@ -9544,22 +9581,32 @@ in
 
 𒀸𒊭𒋾 aš-ša-ti 𒁮 aššatu 𓎛 𓃀 𓋴 𓇋 𓇋 𓏏 𓋳 | wife | heb? hab-zweite 2
 
-𒌑𒁉𒄴 u-bi-iḫ official
-
+𒁀𒀊𒋫 ba-ab-ta 𓉔 𓉐 ܫܒܒܬܐ šbābtā’ 𒊭𒁀𒁉𒅎 ša bābiᵐ <> sābrys
+𒁀𒀊𒋫 babta 𓉔 𓉐 <> 𐌱𐌹𐍃𐌹𐍄𐌰𐌽𐌳𐍃 bisitands Beisitzender 
+𒁀𒀊𒋫 bābta 𓉔 𓉐 <> প্রতিবেশী protibeśi पड़ोसिन paṛosin voisin PSM
+𒁀𒀊𒋫 neighbor 
+≈
+𒄿𒋼 ᵠiⁿte
 𒄿𒋼 i-te •Jude ⲑⲉϣⲉ 𓉲 𓏜 
 𒄿𒋼 neighbor 
 
-𒐊𒈾𒀜𒁲𒅔 i-na-ad-di-in eingeben
-𒐊𒈾𒀜𒁲𒅔 give, pay
-
-𒄿𒈾𒀜𒁲𒅔 i-na-ad-di-in entreichen 
+𒄿𒈾𒀜𒁲𒅔 i-na-ad-di-in eingeben entreichen 
 𒄿𒈾𒀜𒁲𒅔 give, pay √don
 
 𒅔𒈾𒀜𒉡 i-na-ad-nu
 𒅔𒈾𒀜𒉡 give(n) (𒋳 šum zu ihm, to him)
 
-𒐊𒈾𒀜𒁺𒌑 i-na-ad-du-ú
-𒐊𒈾𒀜𒁺𒌑 "give", throw (into water)
+𒄿𒈾𒀜𒁺𒌑 i-na-ad-du-ú
+𒄿𒈾𒀜𒁺𒌑 "give", throw (into water)
+
+𒌑𒆗𒉌𒅔 ú-dan-ni-in
+𒌑𒆗𒉌𒅔 secure/fortify (give craft 𒅆𒁉𒅕 )
+≈
+𒌑𒆗𒈾𒀭 ú-dan-na-an
+𒌑𒆗𒈾𒀭 reinforce
+≈
+𒆗𒈾𒌓 dan-na-tam
+𒆗𒈾𒌓 reinforced
 
 𒅔𒈾𒀜𒉡𒋳 i-na-ad-nu-šum "in a donation"
 
@@ -9571,10 +9618,10 @@ in
 𒌑𒋫𒅈 return
 
 𒌑𒋫𒀸𒊬 ú-ta-aš-šar
-𒌑𒋫𒀸𒊬 return, release (her)
+𒌑𒋫𒀸𒊬 return, release (her/him)
 
-𒐊𒋫𒅈 i-ta-ar
-𒐊𒋫𒅈 return (she)
+𒄿𒋫𒅈 i-ta-ar
+𒄿𒋫𒅈 return (she)
 
 𒅁𒊺𒁴 ep-še-tim up-set™
 𒅁𒊺𒁴 prepare
@@ -9591,27 +9638,37 @@ in
 𒋼𒀀 #kar kār 𓏘
 𒋼𒀀 embankment
 
-𒐊𒇷𒐊 iᵇli-i 
-𒐊𒇷𒐊 able?
+𒀀𒉺𒇴 a-pa-lam
+𒀀𒉺𒇴 able to meet (obligation)
+≈
+𒄿𒇷𒄿 iᵇli-i <> erfüllen
+𒄿𒇷𒄿 able
+
+𒆷 𒄿𒇷𒄿 la iᵇle-i
+𒆷 𒄿𒇷𒄿 unable
 
 𒀀𒋰𒉺 a-tap-pa
 𒀀𒋰𒉺 off-take
 
-𒐊𒋼 ᵞi-teⁿ  γείτων geítōn ᵞvicìn voisin
-𒐊𒋼 neighbor  Jude? <> adjacent 
+𒄿𒋼 ᵞi-teⁿ  γείτων geítōn ᵞvicìn voisin
+𒄿𒋼 neighbor  Jude? <> adjacent 
 
-𒐊𒋼𒂖𒇷 i-te-el-li ītelli
-𒐊𒋼𒂖𒇷 forfeit
+𒄿𒋼𒂖𒇷 i-te-el-li ītelli
+𒄿𒋼𒂖𒇷 forfeit
 
-𒐊𒋼𒇷𒀀𒉏 i-te-li-a-nim īteliānim
-𒐊𒋼𒇷𒀀𒉏 come up @ italian tell <> getall
+𒄿𒋼𒇷𒀀𒉏 i-te-li-a-nim īteliānim
+𒄿𒋼𒇷𒀀𒉏 come up @ italian tell <> getall
 
-
-𒐊𒊭𒃲 	i-ša-qal √shekel 
-𒐊𒊭𒃲 	weigh out, pay out  <> ausbezahl ex-equal? <> shenk?
+𒄿𒊭𒆗 	i-ša-kal √shekel 
+𒄿𒊭𒆗 	weigh out, pay out
+𒄿𒊭𒃲 	i-ša-qal √shekel 
+𒄿𒊭𒃲 	weigh out, pay out  <> ausbezahl ex-equal? <> shenk?
 
 𒅅𒆠𒅖 ik-ki-is "axe"
 𒅅𒆠𒅖 cut down (tree)
+<>
+𒋗𒄿𒈾𒀝𒆠𒋢 i-na-ak-ki-su
+𒋗𒄿𒈾𒀝𒆠𒋢 cut off (hand)
 
 𒄑𒊬 giš.KIRI6 
 𒄑𒊬 kirîm ≈ 𒆠𒊒 	ki-ru court orchard <> غَرَسَ ḡarasa "to grow/plant"
@@ -9637,12 +9694,12 @@ in
 𒄩𒆷 ḪA.LA half #zītta side 
 𒄩𒆷 share (of s.o.)
 
-𒊒𒆪𒁉𒅎 ru-ku-bi-im rukkubim √𓆤
+𒊒𒆪𒁉𒅎 ru-ku-bi-im rukkubim √𓆤 ≠ പരാഗണം parāgaṇaṁ
 𒊒𒆪𒁉𒅎 pollination
 
-𒐊𒇷𒆪𒌑 i-le-ku-u ≈
-𒐊𒇷𒄀 i-le-qé
-𒐊𒇷𒄀 receive •ˢelect?
+𒄿𒇷𒆪𒌑 i-le-ku-u ≈
+𒄿𒇷𒄀 i-le-qé
+𒄿𒇷𒄀 receive •ˢelect?
 
 𒋫𒁀𒀠 ta-ba-al
 𒋫𒁀𒀠 take
@@ -9670,8 +9727,8 @@ in
 𒅕𒊭𒄠 set with grain (𒊺 šeʾam) <> earth / hirse?
 
 
-𒂵𒋾  qá-ti 𔐨
-𒂵𒋾  possession
+𒂵𒋾  qá-ti 𔐨 
+𒂵𒋾  •hand, possession <> Kenntnis
 
 𒌑𒉺𒊍 	ú-pa-as
 𒌑𒉺𒊍 	oppose, object
@@ -9704,7 +9761,7 @@ in
 𒉌𒅖 life
 𒉌𒅖 lifting https://oracc.museum.upenn.edu//rinap/rinap5/Q003709 vi 13
 
-𒉌𒅖  𒐊𒅆 𒐊𒍝𒋼𒀀𒈠
+𒉌𒅖  𒄿𒅆 𒄿𒍝𒋼𒀀𒈠
 ni-iš i-lim i-za-kar-ma
 swear by the life of god
 
@@ -9728,8 +9785,8 @@ at the glance of his eyes
 𒋗𒌑 šu-u
 𒋗𒌑 self, this, said …, he himself
 
-𒅆𒐊 ši-i
-𒅆𒐊 she, said, he, that (one)
+𒅆𒄿 ši-i
+𒅆𒄿 she, said, he, that (one)
 
 𒈠𒄯 ma-har 𓅓 𓄂 𓏏 𓏤 | in front of, before | 𒈤 𒌨 maḫu 𓌳 𓄿 𓇋 𓃬 maru
 𒈠𒄯 front (in-a)
@@ -9750,6 +9807,9 @@ at the glance of his eyes
 𒀉𒋫𒆠𒅕 it-ta-ki-ir ittakir 
 𒀉𒋫𒆠𒅕 attack, disagree, dispute (a claim)
 
+𒌓𒋫𒀝𒆠𒅕 ut-ta-ak-ki-ir 
+𒌓𒋫𒀝𒆠𒅕 attack, emend (writing)
+
 𒅅𒆠𒊒 ik-ki-ru
 𒅅𒆠𒊒 deny, disagree ≈ ärger?
 
@@ -9757,15 +9817,15 @@ at the glance of his eyes
 𒅕𒄖𒈬 contest ≈ ärger?
 
 
-𒐊𒅆 ʰᵃi-lim > Allah
-𒐊𒅆 ʰᵃi-lim < Golem 
-𒐊𒅆 God
+𒄿𒅆 ʰᵃi-lim > Allah
+𒄿𒅆 ʰᵃi-lim < Golem 
+𒄿𒅆 God
 
 
-𒅋𒄀𒂊𒈠 il-qé-e-ma ilqē-ma
-𒅋𒄀𒈠 il-qé-ma  
-𒅋𒄀 il-qé ilqē
-𒅋𒄀 take, took, receive(d)
+𒀧𒄀𒂊𒈠 il-qé-e-ma ilqē-ma
+𒀧𒄀𒈠 il-qé-ma  
+𒀧𒄀 il-qé ilqē
+𒀧𒄀 take, took, receive(d)
 <>
 𒇷𒄀 𒅎 le-qé-em
 𒇷𒄀𒅎 leqêm алуу ljau≈levo@Latin लेना lenā lent
@@ -9774,8 +9834,8 @@ at the glance of his eyes
 
 𒈠𒆷 ma-la mal "however much" <> many NL  
 
-𒐊𒆠𒅁𒈠 i-ḳi-ip-ma iqīpma √equip
-𒐊𒆠𒅁𒈠 entrust (silver)
+𒄿𒆠𒅁𒈠 i-ḳi-ip-ma iqīpma √equip
+𒄿𒆠𒅁𒈠 entrust (silver)
 
 𒊩𒁷𒈾 MÍ.KURUN.NA
 𒊩𒁷𒈾 innkeeper (female)
@@ -9801,8 +9861,8 @@ at the glance of his eyes
 𒉿𒅆𒅁𒈠 wa-ši-ib-ma
 𒉿𒅆𒅁𒈠 live, living in
 
-𒐊𒅕𒀊𒁀𒀜 i-ṣa-ab-ba-at
-𒐊𒅕𒀊𒁀𒀜 live, seize, take over house
+𒄿𒅕𒀊𒁀𒀜 i-ṣa-ab-ba-at
+𒄿𒅕𒀊𒁀𒀜 live, seize, take over house
 
 𒄑𒅕𒁀𒀜 iṣ-ṣa-ba-at iṣṣabat
 𒄑𒅕𒁀𒀜 seize (woman & house) <> "know" woman?
@@ -9821,14 +9881,14 @@ at the glance of his eyes
 
 
 
-𒐊𒋼𒊒𒌒 i-te-ru-ub
-𒐊𒋼𒊒𒌒 enter(ed) 𒋼
+𒄿𒋼𒊒𒌒 i-te-ru-ub
+𒄿𒋼𒊒𒌒 enter(ed) 𒋼
 
-𒐊𒃲𒇻𒌑 i-qal-lu-ú
-𒐊𒃲𒇻𒌑 burn
+𒄿𒃲𒇻𒌑 i-qal-lu-ú
+𒄿𒃲𒇻𒌑 burn
 ≈
-𒐊𒃲𒇻𒌑𒅆 i-ḳal-lu-u2 ši iqallûši 
-𒐊𒃲𒇻𒌑𒅆 burn (a woman) <> έγκαυ călŏr “heat” <> Ikarus 
+𒄿𒃲𒇻𒌑𒅆 i-ḳal-lu-u2 ši iqallûši 
+𒄿𒃲𒇻𒌑𒅆 burn (a woman) <> έγκαυ călŏr “heat” <> Ikarus 
 
 𒁉𒅖 bi-iš
 𒁉𒅖 possession (pieces)
@@ -9837,12 +9897,17 @@ at the glance of his eyes
 𒉌𒁍 pledge
 𒉌𒁍𒍪 ni-pu-sú
 𒉌𒁍𒍪 pledge @ nepotism?
+𒉌𒁍𒌈 ni-pu-tum
+𒉌𒁍𒌈 pledge @ nephew? (can die of beating!)
 𒉌𒁍𒁴 ni-pu-tim
 𒉌𒁍𒁴 pledge (Pfand)
 
 𒂍 𒉈𒁉𒊭 É ne-pí-ša 
-𒂍 𒉈𒁉𒊭 Pfandhaus
+𒂍 𒉈𒁉𒊭 Pfandhaus, nephew's parent house
+𒂍 𒉈𒁉𒊭 her/his distrainer’s house
 
+𒀉𒋼𒁉 it-te-bi
+𒀉𒋼𒁉 take (security)
 
 𒀉𒋼𒁉 it-te-pé ittepe
 𒀉𒋼𒁉 distrain(ed) (a pledge)
@@ -9853,14 +9918,19 @@ at the glance of his eyes
 𒊒𒄖𒌝𒈠𒄠 ru-gu-um-ma-am
 𒊒𒄖𒌝𒈠𒄠 claim (of case 𒁲𒉡𒌝)
 :
-𒋗𒌑 𒊒𒄖𒌝𒈠𒄠 𒌑𒌌 𒐊𒋗
+𒋗𒌑 𒊒𒄖𒌝𒈠𒄠 𒌑𒌌 𒄿𒋗
 šu-u2 ru-gu-um-ma-am u2-ul i-šu
 there is no cause for complaint in such circumstances.
 
 
-𒐊𒈾 𒅆𒈠𒋾𒊭 𒅎𒌅𒌓 i-na ši-ma-ti-ša im-tu-ut
-𒐊𒈾 𒅆𒈠𒋾𒊭 𒅎𒌅𒌓 𓈖 𓋴𓅓𓏱𓇓 𓅓𓏱𓏏
-𒐊𒈾 𒅆𒈠𒋾𒊭 𒅎𒌅𒌓 die(s) of natural cause
+𒅆𒈠𒋾 ši-ma-ti 𓊗 •simpati 𓊃 𓊪 𓊗
+𒅆𒈠𒋾 destiny
+
+𒄿𒈾 𒅆𒈠𒋾𒊭 𒅎𒌅𒌓 i-na ši-ma-ti-ša im-tu-ut
+𒄿𒈾 𒅆𒈠𒋾𒊭 𒅎𒌅𒌓 𓈖 𓋴𓅓𓏱𓇓 𓅓𓏱𓏏
+𒄿𒈾 𒅆𒈠𒋾𒊭 𒅎𒌅𒌓 die(s) of natural cause
+
+𒅎𒄩𒍪
 
 𒈠𒄩𒀀𒍮 ma-ḫa-a-ṣu
 𒈠𒄩𒍮 maḫāṣum murksen מָחַץ māḥaṣ 
@@ -9872,22 +9942,30 @@ there is no cause for complaint in such circumstances.
 𒈠𒊭𒁺 	ma-ša-du  𐎎𐎃𐎕 mḫṣ ⇔ mace 
 𒈠𒊭𒁺 	to beat, strike (with disease)  
 
-𒍑𒋗𒅆𒅎 uš-šu-ši-im uššušim
+𒍑𒋗𒅆𒅎 uš-šu-ši-im uššušim (ab)use, (ab)using
 𒍑𒋗𒅆𒅎 abuse (sévice), mistreatment
 
-𒂊𒄭𒅋𒌈 e-ḪI-il-tum
-𒂊𒄭𒅋𒌈 financial difficulty
+𒂊𒄭𒀧𒌈 e-ḪI-il-tum οικονομική δυσκολία oikonomikí dyskolía
+𒂊𒄭𒀧𒌈 eⁿḪI-il-tum Unheiltum
+𒂊𒄭𒀧𒌈 financial difficulty (ill.dom)
+
+<>  𓇓𓏤𓇇𓄿𓅓𓏏𓆗 sḥamwt ≈ صعوبة مالية su'ubat maliyya صُعُوبَة ṣuʕūba مشکل muśkil
 
 𒄑𒁀 𒍪𒈠 iṣ-ba sú-ma iṣba sūma 
 𒄑𒁀𒍪𒈠 iṣ-ba-sú-ma iṣbassū-ma 
 𒄑𒁀𒍪𒈠 seized (him, a man)
 
 𒅗𒅆𒅆 ka-ši-ši Kassierer
-𒅗𒅆𒅆 debt-exactor
-
+𒅗𒅆𒅆 debt-exactor <> 𒅅𒆠𒅖 ik-ki-is "axe" cut down 
+<>
 𒆠𒅖𒊭𒁴 ki-iš-ša-tim Kassierertum
 𒆠𒅖𒊭𒁴 debt servitude
-
+=
+𒆠𒅖𒊭𒀀𒁴 ki-iš-ša-a-tim
+𒆠𒅖𒊭𒀀𒁴 debt servitude
+1/
+𒅖𒊭𒀝𒅗𒀭 iš-ša-ak-ka-an
+𒅖𒊭𒀝𒅗𒀭 establish (freedom) ≠ freisagen / forsaken
 
 𒆬𒌓 𒀉𒋫𒁷 KUG.BIR₂ it-ta-din
 𒆬𒌓 𒀉𒋫𒁷 "give(n) [for] silver" = sell, sold
@@ -9904,25 +9982,35 @@ there is no cause for complaint in such circumstances.
 𒌌𒁺𒋳 ul-du-šum huldig-ihm
 𒌌𒁺𒋳 bore him (children)
 
-𒐊𒅁𒉺𒇻 i-ip-pa-lu 'payer…
-𒐊𒅁𒉺𒇻 pay
+𒄿𒉺𒀝 i-pa-aḳ (sic?)
+𒄿𒉺𒀝 pay √pagar
+<>
+𒄿𒅁𒉺𒇻 i-ip-pa-lu 'payer…
+𒄿𒅁𒉺𒇻 pay
 𒀀𒉺𒇻 	a-pa-lu 'payer…
 𒀀𒉺𒇻 	to pay 
 
 𒉺𒊭𒊑𒅎 pa-ša-ri-im pašārim √peso payer
 𒉺𒊭𒊑𒅎 pay, sell
 
-𒐊𒉺𒁯 iᵇ-pa-ṭár
-𒐊𒉺𒁯 ʳi-pa-ṭár
-𒐊𒉺𒁯 re-pay, redeem
+𒄿𒉺𒁯 iᵇ-pa-ṭár
+𒄿𒉺𒁯 ʳi-pa-ṭár
+𒄿𒉺𒁯 re-pay, redeem, repatriarch?
 
 ippal pay, compensate
 
-𒅖𒁍𒊌𒈠 iš-pu-uk-ma 'speicher[mach] 
-𒅖𒁍𒊌 iš-pu-uk 'speicher
+
+𒂵𒊑𒁴 qá-ri-tim guarding guard.dom #qarītu
+𒂵𒊑𒁴 storeroom <> garage килер Keller cella κεύθω keúthō कोष्ठागार koṣṭhāgāra 𒅖 kuš₇
+<>
+𒅖𒁍𒊌 iš-pu-uk (ge)speicher
 𒅖𒁍𒊌 store
 ≈
-𒈾𒀸𒉺𒆪𒁴 na-aš-pa-ku Einspeicher(ung)
+𒅖𒊭𒀊𒆪 iš-ša-ap-ku
+𒅖𒊭𒀊𒆪 store(d)
+≈
+𒈾𒀸𒉺𒆪𒁴 na-aš-pa-ku-tim
+𒈾𒀸𒉺𒆪𒁴 na-ašpaku Einspeicher(ung)(tum/tion) ensilado ensilaje 
 𒈾𒀸𒉺𒆪𒁴 silage
 ≈
 𒌋𒌋𒉺𒆪 	naš-pa-ku niche…pack
@@ -9936,24 +10024,30 @@ ippal pay, compensate
 <>
 𒊭𒉡 	ša-nu
 𒊭𒉡 	do for a second time, to do twice, become different (change)
+≈
+𒊭𒉌 𒌓 ša-ni-tam  
+𒊭𒉌𒌓 second, another™  
+≈
+𒊭𒉌𒁴 ša-ni-tim
+𒊭𒉌𒁴 second, sonder, ˢander/ˢother, different
 
 𒌑𒁀𒅈𒈠 	ú-ba-ar-ma verbürgen (verbürg-machen)
 𒌑𒁀𒅈 𒈠  	certify
 
-𒄿𒊏𒀸𒋗𒌑 ᵠi-ra-aš-šu-u2
-𒄿𒊏𒀸𒋗𒌑 (pre)possess(es)
+𒄿𒊏𒀸 𒋗𒌑 ᵠi-ra-aš šu-u2
+𒄿𒊏𒀸 𒋗𒌑 he (pre)possess(es)
 
 𒌑𒊺𒍣 ú-še-ṣi ušēṣī-ma 
 𒌑𒊺𒍣 issue, rent(ed)
 
 𒄿𒊭𒀜𒁯 i-ša-ad-dar išaṭṭar
-𒄿𒊭𒀜𒁯 issue, donate
+𒄿𒊭𒀜𒁯 issue, donate  <> i-ša-am-mu purchase
 
-𒐊𒋗𒈠 i-šu-ma īšū-ma
-𒐊𒋗𒈠 issue(d), owe(d)
+𒄿𒋗𒈠 i-šu-ma īšū-ma
+𒄿𒋗𒈠 issue(d), owe(d)
 
-𒐊𒋗 i-šu
-𒐊𒋗 has, have (issue, owing)
+𒄿𒋗 i-šu
+𒄿𒋗 has, have (issue, owing)
 
 𒀀𒄴 𒋗 a-aḫ šu (ach aber sei…)
 𒀀𒄴 𒋗 but he …
@@ -9977,8 +10071,28 @@ ippal pay, compensate
 𒍑𒋰𒅆 uš-tab-ši uštabši 
 𒍑𒋰𒅆 establish, produce
 
+𒌑𒋼𒀉𒁲 ᵛú-te ᵛid-di (idi=give,put) vs √video oivaltaa пости́чь postíčʹ
+𒌑𒋼𒀉𒁲 ú-te-ed-di  tuntea таныу tanıw таануу taanuu™ شناختن šenâxtan
+𒌑𒋼𒀉𒁲 recognize(d) 𓋷 𓀁 <> witness <> узнава́ть uznavátʹ < prepoznávati
+≈ <!>
+𒌑𒉿𒀉𒁲 ú-we-ed-di <> witness wieder-erkennen
+𒌑𒉿𒀉𒁲 ú-we-id-di √video
+𒌑𒉿𒀉𒁲 recognize(?) (family) <> wedding <> впізнава́ти vpiznaváty 
+
+𒅆𒅁𒊏𒄠 𒄿𒅁𒁉𒌍 ši-ip-ra-am i-ip-pé-eš
+𒅆𒅁𒊏𒄠 𒄿𒅁𒁉𒌍 work (field)
+𒅆𒅁𒊑𒅎 𒆷 𒂊𒁉𒅆𒅎 ši-ip-ri-im la e-pé.ši-im
+𒅆𒅁𒊑𒅎 𒆷 𒂊𒁉𒅆𒅎 not work (field)
 𒅆𒅁𒊑𒅎 ši-ip-ri-im
 𒅆𒅁𒊑𒅎 ?
+
+
+𒅖𒋾𒀀𒀜 𒄿𒈠𒀜𒁕𒀜 iš-ti-a-at i-ma-ad-da-ad
+𒅖𒋾𒀀𒀜 𒄿𒈠𒀜𒁕𒀜 calculate
+𒅖𒋾𒀀𒀜 𒑚 𒈠𒈾 𒆬𒌓 𒄿𒊭𒃲 iš-ti-a-at ⅓ MA.NA KUG.BIR₂ i-ša-qal
+𒅖𒋾𒀀𒀜 𒑚 𒈠𒈾 𒆬𒌓 𒄿𒊭𒃲 weigh out (one-third mina of silver)
+𒅖𒋾𒀀𒀜 iš-ti-mû-at 
+𒅖𒋾𒀀𒀜 •estimate
 
 𒋼𒅁𒋾𒁴 te-ep-ti-tim تَهْذِيب tahḏīb
 𒋼𒅁𒋾𒁴 cultivation
@@ -10008,6 +10122,8 @@ ippal pay, compensate
 𒅅𒋫𒁉 iq-ta-bi
 𒅅𒋫𒁉 quoth <> gebot <> 𒋳𒁉𒄿 taq-bi-i 
 
+𒄿𒂵𒀊𒁉 i-ga-ab-bi give (price, word)
+𒄿𒂵𒀊𒁉 state (amount)
 
 𒍑𒋫𒊭𒈾𒈠 uš-ta-ša-na-ma … twice …
 <>
@@ -10017,32 +10133,32 @@ ippal pay, compensate
 𒌑𒁀𒉆 ú-ba-nam
 𒌑𒁀𒉆 finger??
 
-𒐊𒄷𒊻𒈠 i-ḫu-uz-ma īḫuz-ma
-𒐊𒄷𒊻 i-ḫu-uz a'house
-𒐊𒄷𒊻 marry
+𒄿𒄷𒊻𒈠 i-ḫu-uz-ma īḫuz-ma
+𒄿𒄷𒊻 i-ḫu-uz a'house
+𒄿𒄷𒊻 marry
 ≈
-𒀀𒄩𒍪 	a-ḫa-zu ≈ 𒐊𒄴𒄩𒊍 iḫḫaz
+𒀀𒄩𒍪 	a-ḫa-zu ≈ 𒄿𒄴𒄩𒊍 iḫḫaz
 𒀀𒄩𒍪 	marry, to take (as wife)
 
 𒌑𒁀𒆷𒀜 ú-ba-la-aṭ uballaṭ oblet ablass
 𒌑𒁀𒆷𒀜 spare
 
 
-𒐊𒈾 𒐊𒌅𒅆 𒀉𒋫𒊍𒁁 i-na i-tu-lim it-ta-aṣ-bat
-𒐊𒈾 𒐊𒌅𒅆 𒀉𒋫𒊍𒁁 caught in the act
+𒄿𒈾 𒄿𒌅𒅆 𒀉𒋫𒊍𒁁 i-na i-tu-lim it-ta-aṣ-bat
+𒄿𒈾 𒄿𒌅𒅆 𒀉𒋫𒊍𒁁 caught in the act
 
-𒐊𒈾 𒌑𒌅𒅆 𒆷 𒄑𒅕𒁉𒀉 i-na ú-tu-lim la iṣ-ṣa-bi-it 
-𒐊𒈾 𒌑𒌅𒅆 𒆷 𒄑𒅕𒁉𒀉 not caught in the act
+𒄿𒈾 𒌑𒌅𒅆 𒆷 𒄑𒅕𒁉𒀉 i-na ú-tu-lim la iṣ-ṣa-bi-it 
+𒄿𒈾 𒌑𒌅𒅆 𒆷 𒄑𒅕𒁉𒀉 not caught in the act
 
-𒈬𒐼 𒌑𒌒𒁉𒅕𒅆 mu-sà ú-ub-bi-ir-ši
-𒈬𒐼 𒌑𒌒𒁉𒅕𒅆 mussa ubbiršī
-𒈬𒐼 𒌑𒌒𒁉𒅕𒅆 accused
+𒈬𒍝𒌑𒌒𒁉𒅕𒅆 mu-sà ú-ub-bi-ir-ši
+𒈬𒍝 𒌑𒌒𒁉𒅕𒅆 mussa ubbiršī
+𒈬𒍝 𒌑𒌒𒁉𒅕𒅆 accused
 
-𒐊𒅗𒍪 i-ka-sú
-𒐊𒅗𒍪 bound 𓍿 𓋴 • 𓇦 , 𓇋 𓋴 𓏏 𓈖 𓏲 𓂡 | strap up, bind | 
+𒄿𒅗𒍪 i-ka-sú
+𒄿𒅗𒍪 bound 𓍿 𓋴 • 𓇦 , 𓇋 𓋴 𓏏 𓈖 𓏲 𓂡 | strap up, bind | 
 
-𒐊𒈠𒄩𒅈 i-ma-ḫa-ar
-𒐊𒈠𒄩𒅈 accept, face (it) √𓄂 𒈠𒄯 ma-har
+𒄿𒈠𒄩𒅈 i-ma-ḫa-ar
+𒄿𒈠𒄩𒅈 accept, face (it) √𓄂 𒈠𒄯 ma-har
 <>
 𒈠𒄩𒊒 	ma-ḫa-ru 
 𒈠𒄩𒊒 	confront, oppose, receive, to face
@@ -10050,11 +10166,22 @@ ippal pay, compensate
 𒈠𒄩𒋢 	ma-ḫa-su
 𒈠𒄩𒋢 	to beat
 
-𒐊𒋼𒊒𒌒 iⁿte-ru-ub
-𒐊𒋼𒊒𒌒 enter
+𒄿𒋼 ᶜIⁿte שָׁכֵן shakhén™
+𒄿𒋼 ᶜIⁿte con… contra ⲑⲉϣⲉ 𓉲 𓏜 <> ܫܒܒܬܐ šbābtā’ 𒁀𒀊𒋫 ba-ab-ta 𓉔 𓉐
+𒄿𒋼 ᵠiⁿteʳ inter
+𒄿𒋼 ᵛi-te(ᶜIⁿ) vitsin > vīcīnus > voisin 
+𒄿𒋼 i-te Yidde Jude 
+𒄿𒋼 neighbor 
+<>
+𒄿𒋼𒊒𒌒 iⁿte-ru-ub
+𒄿𒋼𒊒𒌒 enter
 ≈ 
-𒐊𒅕𒊒𒌒 i-ir-ru-ub īrub ≈ 𒆭 erēbu arriba arrive
-𒐊𒅕𒊒𒌒 enter ≈ 𒐊𒋼𒊒𒌒 iⁿte-ru-ub
+𒄿𒅕𒊒𒌒 i-ir-ru-ub īrub ≈ 𒆭 erēbu arriba arrive
+𒄿𒅕𒊒𒌒 enter ≈ 𒄿𒋼𒊒𒌒 iⁿte-ru-ub
+<?>
+𒄿𒋼𒂖𒇷 i-te-el-li ent¬teil-
+𒄿𒋼𒂖𒇷 forfeit (Einbuße, Pfand, Strafe, 	aufgeben, verlieren) 
+
 
 𒉺𒃼𒊭 pa-gàr-ša <> paragon
 𒉺𒃼𒊭 protect (chastity)
@@ -10062,12 +10189,12 @@ ippal pay, compensate
 𒄑𒋩 iṣ-ṣur
 𒄑𒋩 assure (protection) ?
 
-𒅖𒊭𒇷𒅋 iš-ša-li-il-ma √salam
-𒅖𒊭𒇷𒅋 iš-ša-li-il √sell
-𒅖𒊭𒇷𒅋 taken captive, carried off (as booty)
+𒅖𒊭𒇷𒀧 iš-ša-li-il-ma √salam
+𒅖𒊭𒇷𒀧 iš-ša-li-il √sell
+𒅖𒊭𒇷𒀧 taken captive, carried off (as booty)
 
-𒐊𒁀𒀸𒅆 i-ba-aš-ši
-𒐊𒁀𒀸𒅆 enough (to eat)
+𒄿𒁀𒀸𒅆 i-ba-aš-ši
+𒄿𒁀𒀸𒅆 enough (to eat)
 
 𒅈𒉆  ar-nam Ehrlosigkeit?
 𒅈𒉆  guilt, blame, offense, crime!
@@ -10100,8 +10227,8 @@ ippal pay, compensate
 𒀸𒋳 as-šum
 𒀸𒋳 as-since, because, assume, begin
 
-𒐊𒄑𒍥𒅁 i-iz-zi-ib izzib īzzīb
-𒐊𒄑𒍥𒅁 divorce √sieb;) <> διαζύγιο diazýgio orzvodъ 
+𒄿𒄑𒍥𒅁 i-iz-zi-ib izzib īzzīb
+𒄿𒄑𒍥𒅁 divorce √sieb;) <> διαζύγιο diazýgio orzvodъ 
 ≈
 𒌑𒅗𒌒𒁉𒅎 u-zu-ub-bi-im
 𒌑𒅗𒌒𒁉𒅎 divorce
@@ -10118,11 +10245,11 @@ ippal pay, compensate
 𒌁𒄩𒌈 tir-ḫa-tum terḫatum
 𒌁𒄩𒌈 bride-price
 
-𒅆𒐊 ši-i
-𒅆𒐊 she, said, self , aforesaid
+𒅆𒄿 ši-i
+𒅆𒄿 she, said, self , aforesaid
 
-𒐊𒍣𒅕𒈠 ᵐi-ze-er-ma μισέ 𓄟 𓋴 𓂧 𓀁  ⲙⲁⲥⲧⲉ
-𒐊𒍣𒅕𒈠 detest(ed) <> 
+𒄿𒍣𒅕𒈠 ᵐi-ze-er-ma μισέ 𓄟 𓋴 𓂧 𓀁  ⲙⲁⲥⲧⲉ
+𒄿𒍣𒅕𒈠 detest(ed) <> 
 
 
 𒈬𒁴 mutim •martim > mari @ marriage
@@ -10133,7 +10260,6 @@ ippal pay, compensate
 𒈬𒊷 husband 
 𒈬𒍝 musà 
 𒈬𒍝 husband
-𒈬𒐼 ?
 
 
 𒋫𒄴𒄩𒍝𒀭𒉌  taḫḫazannī
@@ -10156,8 +10282,8 @@ ippal pay, compensate
 𒄭𒋾𒌓 ḫi-ṭi-tam ḫiṭītam 𓍑 𓄿 𓇋 𓇋 𓏏 𓅪  𓏥 | wrongdoing | √heat 𓊄 𓏏 𓅪
 𒄭𒋾𒌓 fault <> 𓇋 𓊃 𓆑 𓏏 𓅪
 
-𒐊𒈾 𒀜𒁺𒌑 𒅆 i-na-ad-du-ú-ši inadosi(she) hineingestossen
-𒐊𒈾 𒀜𒁺𒌑 𒅆 (she will be) cast into 
+𒄿𒈾 𒀜𒁺𒌑 𒅆 i-na-ad-du-ú-ši inadosi(she) hineingestossen
+𒄿𒈾 𒀜𒁺𒌑 𒅆 (she will be) cast into 
 
 
 𒌑𒊬𒅆𒋗 ú-šar-ši.šu
@@ -10173,8 +10299,8 @@ ippal pay, compensate
 𒅅𒋫𒀸𒁮 reach(ed) (home)
 
 
-𒐊𒈠𒀭𒉡 i-ma-an-nu imannū
-𒐊𒈠𒀭𒉡 remain, include s.o. √manner
+𒄿𒈠𒀭𒉡 i-ma-an-nu imannū
+𒄿𒈠𒀭𒉡 remain, include s.o. √manner
 
 
 𒅖𒋫𒅗𒀭 iš-ta-ka-an stecken!?
@@ -10192,11 +10318,11 @@ ippal pay, compensate
 𒅖𒊭𒀝𒅗𒀭 iš-ša-ak-ka-an
 𒅖𒊭𒀝𒅗𒀭 establish (freedom), put on an account
 ≈
-𒐊𒊭𒀝𒅗𒀭 i-ša-ak-ka-an
-𒐊𒊭𒀝𒅗𒀭 make out (contracts), give (hairstyle)
+𒄿𒊭𒀝𒅗𒀭 i-ša-ak-ka-an
+𒄿𒊭𒀝𒅗𒀭 make out (contracts), give (hairstyle)
 <?>
-𒐊𒊭𒀝𒅗𒉡 i-ša-ak-ka-nu (𒐊𒈾 𒂵𒅆 𒅆𒅎)
-𒐊𒊭𒀝𒅗𒉡 impaled (gepfählt)
+𒄿𒊭𒀝𒅗𒉡 i-ša-ak-ka-nu (𒄿𒈾 𒂵𒅆 𒅆𒅎)
+𒄿𒊭𒀝𒅗𒉡 impaled (gepfählt)
 <>
 𒄿𒊭𒀝𒅗 i-ša-ak-ka-ak 𒆕
 𒄿𒊭𒀝𒅗 harrow <> Isaak Zack
@@ -10237,8 +10363,8 @@ ippal pay, compensate
 𒀉𒋫𒈾𒀸𒅆 
 𒀉𒋫𒈾𒀸𒅆
 
-𒐊𒁍 i-pu √opus
-𒐊𒁍 he put, he made
+𒄿𒁍 i-pu √opus
+𒄿𒁍 he put, he made
 
 𒅎𒋫𒃼 im-ta-gàr imtagar √maat?  𒅎 ᵡIMᶥ Himmel ☑
 𒅎𒋫𒃼 ʰim-ta-ǧàr համաձայնել hamajaynel <>  hozzájárul הִסְכִּים hiskím
@@ -10255,8 +10381,8 @@ ippal pay, compensate
 𒅆𒅎 him to she, he to her (suffix or free)
 
 
-𒐊𒊏𒄠𒈬 i-ra-am-mu irammu  𓌸 𓂋 reverse
-𒐊𒊏𒄠𒈬 (be)loved
+𒄿𒊏𒄠𒈬 i-ra-am-mu irammu  𓌸 𓂋 reverse
+𒄿𒊏𒄠𒈬 (be)loved
 
 
 𒈠 maˢ moreover "and" comma, then after ≠ 
@@ -10286,19 +10412,36 @@ ippal pay, compensate
 <>
 𒄑𒅕𒀊𒌅 iṣ-ṣa-ab-tu 
 𒄑𒅕𒀊𒌅 captured, caught <> intercept
+<>
+𒅕𒀊𒌅 ṣa-ab-tu  <> se'pitää se'pegar segurar 𒁳 (DAB)
+𒅕𒀊𒌅 ṣabtu > sedeo 𓈙𓊪𓋴𓋴𓀻𓏥 possideo besitz
+𒅕𒀊𒌅 hold (property) <> possess <> sit
 
-𒀉𒋫𒊍𒁀𒀜 it-ta-aṣ-ba-at ≈ ertapt
-𒀉𒋫𒊍𒁀𒀜 caught ^^
+𒀉𒋫𒀠𒆪 it-ta-al-ku ittalku
+𒀉𒋫 𒀠𒆪 ʷitta leg
+𒀉𒋫𒀠𒆪 walk (with, wider)
 
-𒀉𒋫𒋾𒅋 it-ta-ti-il (𒐊𒈾 𒍪𒉌 𒊭)
-𒀉𒋫𒋾𒅋 had intercourse (with her)
+𒀉𒋫𒊍𒁀𒀜 it-ta-aṣ-ba-at ≈ ittaṣbat ≈ ertaṣbat ≈ ertapt
+𒀉𒋫 𒊍𒁀𒀜 	ʷitta erspäht ( √ spect espy scry)
+𒀉𒋫 𒊍𒁀𒀜 	ʷitta захва́т zaxvát <<
+𒀉𒋫 𒊍𒁀𒀜 	ʷitta sambut !
+𒀉𒋫𒊍𒁀𒀜 caught, catch (with) ^^
 
-𒅋𒋫𒈠𒀜 il-ta-ma-ad intimate
-𒅋𒋫𒈠𒀜 "know" s.o.
+𒀉𒋫𒋾𒀧 it-ta-ti-il (𒄿𒈾 𒍪𒉌 𒊭)
+𒀉𒋫𒋾𒀧 ʷit-ta ti-il [Bett] teilen
+𒀉𒋫𒋾𒀧 had intercourse (with her)
 
-𒅋𒈠𒍣𒈠 il-ma-sí.ma 
-𒅋𒈠𒍣  il-ma-sí 
-𒅋𒈠𒍣 "know" (her)
+𒀉𒋫 𒆠𒅖 it-ta ki-is through-cuts
+𒀉𒋫𒆠𒅖 ittakis
+𒀉 𒋫𒆠𒅖 cut (through?)
+
+
+𒀧𒋫𒈠𒀜 il-ta-ma-ad intimate
+𒀧𒋫𒈠𒀜 "know" s.o.
+
+𒀧𒈠𒍣𒈠 il-ma-sí.ma 
+𒀧𒈠𒍣  il-ma-sí 
+𒀧𒈠𒍣 "know" (her)
 
 𒂍𒄄𒀀 É.GI₄A ≈ girl 
 𒂍𒄄𒀀 bride
@@ -10309,15 +10452,15 @@ ippal pay, compensate
 𒂊𒈪 e-miʳ emir Oma
 𒂊𒈪 father-in-law, father-in-law’s estate
 
-𒐊𒋰𒁀𒀠 i-tab-ba-al …behalte
-𒐊𒋰𒁀𒀠 keep
+𒄿𒋰𒁀𒀠 i-tab-ba-al …behalte
+𒄿𒋰𒁀𒀠 keep
 
-𒐊𒁉𒅕 i-bi-ir ibir 
-𒐊𒁉𒅕 peer, colleague  √pair 2
+𒄿𒁉𒅕 i-bi-ir ibir 
+𒄿𒁉𒅕 peer, colleague  √pair 2
 
-𒐊𒁉𒅕 ibir <> virkaveli virkatoveri 
-𒐊𒁉𒅕 confrère (𒐊 cinq)
-𒐊𒁉𒅕 colleague
+𒄿𒁉𒅕 ibir <> virkaveli virkatoveri 
+𒄿𒁉𒅕 confrère (𒄿 cinq)
+𒄿𒁉𒅕 colleague
 
 𒊌𒋻𒊑 uk-tar-ri
 𒊌𒋻𒊑 uk'tari клевета́ klevetá® kashfa
@@ -10326,12 +10469,12 @@ ippal pay, compensate
 𒊭𒈠 ša-ma
 𒊭𒈠 (belongs to) them (e.g. 𒌉𒎌)
 
-𒐊𒊏𒀝𒄖𒌝 i-ra-ag-gu-um 
-𒐊𒊏𒀝𒄖𒌝 lay claim
+𒄿𒊏𒀝𒄖𒌝 i-ra-ag-gu-um 
+𒄿𒊏𒀝𒄖𒌝 lay claim
 
-𒐊𒄯𒊏𒊍 iḫarraṣ
-𒐊𒄯𒊏 iᵠḫar-ra ἀφαιρέω aphairéō ( ἀπο- apo- “away” + αἱρέω hairéō “take” )
-𒐊𒄯𒊏 subtract
+𒄿𒄯𒊏𒊍 iḫarraṣ
+𒄿𒄯𒊏 iᵠḫar-ra ἀφαιρέω aphairéō ( ἀπο- apo- “away” + αἱρέω hairéō “take” )
+𒄿𒄯𒊏 subtract
 <
 𒄯𒊏 harra #harāru αἱρέω hairéō
 𒄯𒊏 "grab" ☑
@@ -10342,20 +10485,20 @@ ippal pay, compensate
 𒀀𒈾 𒅆𒅎𒁴 𒀉𒋫𒀠𒆪 ana šīmtim ittalku
 𒀀𒈾 𒅆𒅎𒁴 𒀉𒋫𒀠𒆪 "go to (his) fate" 𓊗 = die 
 
-𒐊𒉡𒈠 ᵛi-nu.ma inūmaˡ wenn mal …
-𒐊𒉡𒈠 when, in the time of
+𒄿𒉡𒈠 ᵛi-nu.ma inūmaˡ wenn mal …
+𒄿𒉡𒈠 when, in the time of
 
-𒐊𒍝𒊍 i-za-az
-𒐊𒍝𒊍 share(verb)
+𒄿𒍝𒊍 i-za-az
+𒄿𒍝𒊍 share(verb)
 ≈
-𒐊𒅗𒊻𒅗 i-zu-uz-zu izuzzū
-𒐊𒅗𒊻𒅗 share(verb), shares(noun) ?
+𒄿𒅗𒊻𒅗 i-zu-uz-zu izuzzū
+𒄿𒅗𒊻𒅗 share(verb), shares(noun) ?
 
 𒆠𒅖𒋾 qí-iš-ti qīšti
-𒆠𒅖𒋾 take (shares) <> hand
+𒆠𒅖𒋾 fee, take (shares) <> hand
 
-𒐊𒅔 𒋗 𒈤𒊒 i-in šu maḫ-ru
-𒐊𒅔 𒋗 𒈤𒊒 please(d) him
+𒄿𒅔 𒋗 𒈤𒊒 i-in šu maḫ-ru
+𒄿𒅔 𒋗 𒈤𒊒 please(d) him
 
 𒃻𒂵 NÍG.GA
 𒃻𒂵 šá.ga Sache
@@ -10373,16 +10516,16 @@ ippal pay, compensate
 𒀀𒈾𒍝𒄴 𐌹𐌽𐍅𐌹𐌳𐌰𐌽 inwidan infitior
 𒀀𒈾𒍝𒄴 disinherit, disown
 ≈
-𒐊𒈾𒍝𒄴 i-na-sà-aḫ
-𒐊𒈾𒍝𒄴 i-na-zà-aḫ entzieh
-𒐊𒈾𒍝𒄴 disinherit
+𒄿𒈾𒍝𒄴 i-na-sà-aḫ
+𒄿𒈾𒍝𒄴 i-na-zà-aḫ entzieh
+𒄿𒈾𒍝𒄴 disinherit
 ≈
 𒅔𒈾𒊍𒍝𒄴 in-na-az-za-aḫ entzieh ≠ einzieh
 𒅔𒈾𒊍𒍝𒄴 disinherit(ed)
 
-𒀭𒁺𒊏𒅈 an-du-ra-ar andurār 
-𒀭𒁺𒊏𒅈 @andro @Andorra! አርነት ʾärnät
-𒀭𒁺𒊏𒅈 ILI-du-ra-ar ἐλευθ ε ρία ᵟeleuthería ⲉⲗⲉⲩⲑⲉⲣⲓⲁ 
+𒀭𒁺𒊏𒅈 an-du-ra-ar andurār √endure?
+𒀭𒁺𒊏𒅈 andurār @andro @Andorra! አርነት ʾärnät
+𒀭𒁺𒊏𒅈 ILI-du-ra-ar ἐλευθερία ᵟeleuthería ⲉⲗⲉⲩⲑⲉⲣⲓⲁ 
 𒀭𒁺𒊏𒅈 ᵈILI-du-ra-ar τοὐλεύθερον touleútheron
 𒀭𒁺𒊏𒅈 freedom
 
@@ -10397,15 +10540,15 @@ ippal pay, compensate
 𒁾𒁉𒅎 •DUᵇku-imen™
 𒁾𒁉𒅎 document
 
-𒐊𒁖𒊏𒋢 i-par-ra-su
-𒐊𒁖𒊏𒋢 biryar dan  / päättää
-𒐊𒁖𒊏𒋢 αποφασίζω apofasízo βούλομαι
-𒐊𒁖𒊏𒋢 iᵐpar-ra-su √über-rate 'berate באַשליסן
-𒐊𒁖𒊏𒋢 реша́вам rešávam реша́ть rešátʹ
-𒐊𒁖𒊏𒋢 decide
+𒄿𒁖𒊏𒋢 i-par-ra-su
+𒄿𒁖𒊏𒋢 biryar dan  / päättää
+𒄿𒁖𒊏𒋢 αποφασίζω apofasízo βούλομαι
+𒄿𒁖𒊏𒋢 iᵐpar-ra-su √über-rate 'berate באַשליסן
+𒄿𒁖𒊏𒋢 реша́вам rešávam реша́ть rešátʹ
+𒄿𒁖𒊏𒋢 decide
 
-𒐊𒄑𒍥𒅁 i-iz-zi-ib 
-𒐊𒄑𒍥𒅁 leave (gift)
+𒄿𒄑𒍥𒅁 i-iz-zi-ib 
+𒄿𒄑𒍥𒅁 leave (gift)
 
 𒊻𒍥 uz-zi auszieh
 𒊻𒍥 leave (house)
@@ -10426,11 +10569,11 @@ ippal pay, compensate
 𒁀𒈝 balum بلا bala بِلَا bilā vailla ≈ 𒌑𒌌 ᵛul
 𒁀𒈝 without…, but with… без bez  
 
-𒐊𒁀𒀝𒂵𒊒 i-ba-aq-qá-ru
-𒐊𒁀𒀝𒂵𒊒 sue (s.o.)
+𒄿𒁀𒀝𒂵𒊒 i-ba-aq-qá-ru
+𒄿𒁀𒀝𒂵𒊒 sue (s.o.)
 ≈
-𒐊𒉺𒀝𒆠𒁺 i-pa-aq-qí-du 𓇋 𓊪 𓏛  
-𒐊𒉺𒀝𒆠𒁺 assign (estate)
+𒄿𒉺𒀝𒆠𒁺 i-pa-aq-qí-du 𓇋 𓊪 𓏛  
+𒄿𒉺𒀝𒆠𒁺 assign (estate)
 ≈
 𒅁𒁀𒀝𒃼 ib-ba-aq-qar 𓇋 𓊪 𓏛 !
 𒅁𒁀𒀝𒃼 claim back, (re-)claimed
@@ -10449,6 +10592,12 @@ ippal pay, compensate
 <>
 𒅆𒋛𒀀 ši-ṭir •šcriṭir inscribed √ scrit
 𒊭𒋫𒊒 	šaʳ-ṭa-ru scriter "write"
+≈
+𒊭𒀜𒊏𒄠 ša-aṭ-ra-am
+𒊭𒀜𒊏𒄠 message, inscription 𒋗𒈪 šu-mi name (on stone)
+<>
+𒌑𒅗𒊏𒋾 u-zu-ra-ti √scrit
+𒌑𒅗𒊏𒋾 writings
 
 𒂊𒈬𒊌 e-mu-uḳ √Maß measure
 𒂊𒈬𒊌 size
@@ -10470,8 +10619,8 @@ ippal pay, compensate
 𒅖𒊒𒊌 iš-ru-uk ≈ 𓌞 𓋴 𓂻 ?
 𒅖𒊒𒊌 present(ed) (a dowry)
 
-𒐊𒅅𒅗𒀠 i-ik-ka-al
-𒐊𒅅𒅗𒀠 use (property)
+𒄿𒅅𒅗𒀠 i-ik-ka-al
+𒄿𒅅𒅗𒀠 use (property)
 
 𒈨𒂊𒋗 me-e.šu µbeʳ
 𒈨𒂊𒋗 (his) birth
@@ -10480,11 +10629,11 @@ ippal pay, compensate
 𒋻𒁉𒌈 tar-bi-tum √rabu raise √bit 𓅭
 𒋻𒁉𒌈 "offspring" 𒌉 TUR ≈ 𓉐
 <>
-𒀀𒈾 𒋻𒁉𒁴 𒅋𒄀 a-na tar-bi-tim il-qé
-𒀀𒈾 𒋻𒁉𒁴 𒅋𒄀 take as offspring, adopt
+𒀀𒈾 𒋻𒁉𒁴 𒀧𒄀 a-na tar-bi-tim il-qé
+𒀀𒈾 𒋻𒁉𒁴 𒀧𒄀 take as offspring, adopt
 
-𒀀𒈾 𒈠𒊒𒁴 𒅋𒄀 a-na ma-ru-tim il-qé >> 𓅸 𓄟 אימץ
-𒀀𒈾 𒈠𒊒𒁴 𒅋𒄀 take as child, adopt
+𒀀𒈾 𒈠𒊒𒁴 𒀧𒄀 a-na ma-ru-tim il-qé >> 𓅸 𓄟 אימץ
+𒀀𒈾 𒈠𒊒𒁴 𒀧𒄀 take as child, adopt
 
 𒌫𒋫𒀊𒁉 úr-ta-ab-biⁿ اِرْتَفْعَ irtafʕaⁿ 𓏏 𓃹 𓈖 √top 𓍿 𓊃 𓍞 𓏜 | 𓍿 𓊃 𓍞 𓊫 𓂡 | 𓊣  
 𒌫𒋫𒀊𒁉 raise    𓆑 𓄿 𓀋 𓂡 | 𓋴 𓂋 𓂧 𓏜 | ˢerect 
@@ -10493,8 +10642,8 @@ ippal pay, compensate
 𒌉𒍑 heir
 
 
-𒐊𒄭𒀀𒀜 ˢi-ḫi-a-aṭ suchet 𓎛 𓎛 𓏮 𓂻 
-𒐊𒄭𒀀𒀜 search, look for
+𒄿𒄭𒀀𒀜 ˢi-ḫi-a-aṭ suchet 𓎛 𓎛 𓏮 𓂻 
+𒄿𒄭𒀀𒀜 search, look for
 
 𒍑𒋫𒄭 uš-ta-ḫi 𓋴 𓇼 𓂡 <> दिशति diśati
 𒍑𒋫𒄭 𓋴 teach 𓌙 𓏜  ≈ stachel (an)stachern? steigen zeigen ?<<<<
@@ -10522,10 +10671,16 @@ ippal pay, compensate
 
 𒌉 𒊩𒍥𒅅𒊒𒌝 DUMU mí.ZI.IK.RU.UM sekretim 
 
-𒐊𒈾𒀝𒆠𒋢 i-na-ak-ki-su ent¬cut EinSchnitt
-𒐊𒈾𒀝𒆠𒋢 inakisuʳ اِنْكَسَرَ inkásar <> Kaiser Schnitt
-𒐊𒈾𒀝𒆠𒋢 cut-off
-
+𒄿𒈾𒀝 𒆠𒅖 i-na-ak ki-is
+𒄿𒈾𒀝𒆠𒅖 i-na-ak-ki-is
+≈
+𒄿𒈾 𒀝𒆠𒋢 i-na ak-ki-su ent¬cuts EinSchnitt
+𒄿𒈾𒀝𒆠𒋢 inakisuʳ اِنْكَسَرَ inkásar <> Kaiser Schnitt
+𒄿𒈾𒀝𒆠𒋢 cut-off
+<>
+𒀉𒋫 𒆠𒅖 it-ta ki-is through-cuts
+𒀉𒋫𒆠𒅖 ittakis
+𒀉𒋫𒆠𒅖 cut (through?)
 
 𒌑𒌌 𒀀𒁉 𒀜𒋫 𒌑𒌌 𒌝𒈪 𒀜𒋾
 “ul abī atta; ul ummī atti”
@@ -10538,18 +10693,16 @@ ippal pay, compensate
 𒀜𒋾 at-ti as-tu est-tu
 𒀜𒋾 you (are) (feminine) <> fait faire
 
-𒐊𒅔 𒋗 𒐊𒈾𒍝𒄷
+𒄿𒅔 𒋗 𒄿𒈾𒍝𒄷
 iᵞin šu i-na-sà-ḫu
 eyen su en¬zieh
 his eyeˢ will be pulled out
 
-𒐊𒍢𒅕 ʰi-zé-er hasser hassen <> ketzer hetzen
-𒐊𒍢𒅕 ʰi-zé-er ≈ enhadir 
-𒐊𒍢𒅕 itzér > ատել atel
-𒐊𒍢𒅕 hate
+𒄿𒍢𒅕 ʰi-zé-er hasser hassen <> ketzer hetzen
+𒄿𒍢𒅕 ʰi-zé-er ≈ enhadir 
+𒄿𒍢𒅕 itzér > ատել atel
+𒄿𒍢𒅕 hate
 
-𒌑𒉿𒀉𒁲 ú-we-ed-di
-𒌑𒉿𒀉𒁲 recognize(?) (family) <> wedding
 
 𒈬𒊺𒉌𒅅𒁴 mu-še-ni-iq-tim 𐎎𐎌𐎐𐎖𐎚 mšnqt Nichte +++
 𒈬𒊺𒉌𒅅𒁴 mu-še-ni-iq-tim 𓄟 𓋴 𓈖 𓌰 𓅓 𓁕 "nurse" 𓈖 𓌰 𓅓 𓁕 奶妈 nǎimā !!! +++
@@ -10562,8 +10715,14 @@ his eyeˢ will be pulled out
 𒅎𒋫𒄩𒊍 im-ta-ḫa-aṣ imtaḫaṣ 𓅓 𓂝 𓆓 𓂧 𓐦 𓂡 •madδaḫaṣu ? 𓌃 𓏱 
 𒅎𒋫𒄩𒊍 strike, struck <> em.touch? 𓆼 𓄿 𓂝 𓂡 
 <>
+𒅎𒄩𒍪 im-ḫa-sú imḫassū √ mace
+𒅎𒄩𒍪 strike
+≈
 𒈠𒄩𒍣 ma-ḫa-ṣí maḫaṣī 𒉺 maḫāṣu 𐎎𐎃𐎕 mḫṣ 󳲌 𓐦 𓅱 Medjedu ☑ mëshoj 𓐓 𓌇 ?
 𒈠𒄩𒍣 strike
+≈
+𒈠𒄩𒍣𒅎 ma-ḫa-ṣí-im maḫāṣim √ mace 𒈮 𓍊 𓍛 𓍐 𓌂 𓌃 𓏱
+𒈠𒄩𒍣𒅎 hit
 
 𒌑𒄩𒀊𒉺𒁺 ú-ḫa-ap-pa-du beraubt
 𒌑𒄩𒀊𒉺𒁺 blind (eyesight)
@@ -10576,22 +10735,32 @@ his eyeˢ will be pulled out
 𒅖𒋼𒁉𒅕 iš-te-bé-er
 𒅖𒋼𒁉𒅕 stab, break (bone)
 ≈
-𒐊𒊺𒅁𒁉𒊒 i-šeᵗeb-bé-ru   ( 𒊺 seed )
-𒐊𒊺𒅁𒁉𒊒 stab, break (bone)
+𒄿𒊺𒅁𒁉𒊒 i-šeᵗeb-bé-ru   ( 𒊺 seed )
+𒄿𒊺𒅁𒁉𒊒 stab, break (bone)
 ≈
-𒐊𒊺𒅁𒁉𒊒 i-še-eb-bé-ruᵗ
-𒐊𒊺𒅁𒁉𒊒 separate, break (bone)
+𒄿𒊺𒅁𒁉𒊒 i-še-eb-bé-ruᵗ
+𒄿𒊺𒅁𒁉𒊒 separate, break (bone)
 
 § 196 "eye for an eye"
-𒋳𒈠 𒀀𒉿𒈝   𒐊𒅔 𒌉  𒀀𒉿𒅆    𒄴𒋰𒁉𒀉      𒐊𒅔 𒋗 𒌑𒄩𒀊𒉺𒁺
+𒋳𒈠 𒀀𒉿𒈝   𒄿𒅔 𒌉  𒀀𒉿𒅆    𒄴𒋰𒁉𒀉      𒄿𒅔 𒋗 𒌑𒄩𒀊𒉺𒁺
 šum-ma a-wiʳlum iʸin DUMU a-wiʳlim úḫˢtap-pí-id   iʸin šu úʳḫa-ap-pa-du
 If a man has blinded the eye of a Son of Man, his eye will be blinded.
 
 § 200 "tooth for a tooth"
-𒋳𒈠 𒀀𒉿𒈝 𒅆𒅔𒉌 𒀀𒉿𒅆 𒈨𒄴𒊑 𒋗 𒀉𒋫𒁲 𒅆𒅔𒈾 𒋗 𒐊𒈾𒀜𒁺𒌑
+𒋳𒈠  𒀀𒉿𒈝  𒅆𒅔𒉌  𒀀𒉿𒅆    𒈨𒄴𒊑    𒋗 𒀉𒋫𒁲   𒅆𒅔𒈾 𒋗 𒄿𒈾𒀜𒁺𒌑
 šum-ma a-wi-lum ši-in-ni a-wi-lim me-eḫ-ri šu it-ta-di ši-in-na šu i-na-ad-du-ú
 šumma awīlum šinni awīlim meḫrīšu ittadi, šinnašu inaddû.
 If a man has knocked out the tooth of a man of his own rank, his tooth will be knocked out.
+
+𒀉𒋫𒁲 it-ta-di
+𒀉𒋫𒁲 knock out, abandon <> give away
+<>
+𒀉𒋫𒁲𒅔 it-ta-di-in
+𒀉𒋫𒁲𒅔 ʷit-ta diᶴin
+𒀉𒋫𒁲𒅔 give (as, with, away)
+<>
+𒄿𒈾𒀜𒁺𒌑 i-na-ad-du-ú
+𒄿𒈾𒀜𒁺𒌑 knock out
 
 𒀀𒉿𒅆 𒈨𒄴𒊑 𒋗 a-wi-lim me-eḫ-ri šu 
 𒀀𒉿𒅆 𒈨𒄴𒊑 𒋗 man of his own rank
@@ -10599,7 +10768,7 @@ If a man has knocked out the tooth of a man of his own rank, his tooth will be k
 𒈨𒄴𒊑 me-eḫ-ri meḫrī მწკრივი mc̣ḳrivi مرتبه mertebe
 𒈨𒄴𒊑 rank
 
-𒈪𒅆𒀧 𒉛 𒋗 𒐊𒊭𒃲
+𒈪𒅆𒀧 𒉛 𒋗 𒄿𒊭𒃲
 mišil    šīmīšu išaqqal (PUN) 𓏇 
 he'll weigh out half his value (𒉛 sam₂ "sum")
 
@@ -10649,18 +10818,18 @@ he'll weigh out half his value (𒉛 sam₂ "sum")
 𒈾𒆏𒋾 na-kap-ti कनपट्टी kanᵊpaṭṭī 𓎼 𓌳 𓄿 𓄹  permuted
 𒈾𒆏𒋾 temple
 
-𒐊𒊑𒀊 i-ri-ab'
-𒐊𒊑𒀊 repay
+𒄿𒊑𒀊 i-ri-ab'
+𒄿𒊑𒀊 repay
 
 𒆏𒌓 kab-tam 
 𒆏𒌓 capital™, serious (crime, wound)
 
-𒋗𒐊 ŠUᵛI
-𒋗𒐊 shaver, barber
+𒋗𒄿 ŠUᵛI
+𒋗𒄿 shaver, barber
 
-𒐊𒄩𒀠𒆷𒇻 i-ḫa-al-la-lu олла olla 
-𒐊𒄩𒀠𒆷𒇻 iḫallalū <> 𒇲 𒇳 lal عَلِقَ ʕaliqa عِلِق ʕilig < জুলা zula κρεμάννυμαι NL länk-
-𒐊𒄩𒀠𒆷𒇻 𐌷𐌰𐌷𐌰𐌽 hung 
+𒄿𒄩𒀠𒆷𒇻 i-ḫa-al-la-lu олла olla 
+𒄿𒄩𒀠𒆷𒇻 iḫallalū <> 𒇲 𒇳 lal عَلِقَ ʕaliqa عِلِق ʕilig < জুলা zula κρεμάννυμαι NL länk-
+𒄿𒄩𒀠𒆷𒇻 𐌷𐌰𐌷𐌰𐌽 hung 
 
 PUN ZONE??
 𒊌𒁕𒀠𒇷𒅁 ug-da-al-li-ib
@@ -10669,7 +10838,7 @@ PUN ZONE??
 𒌑𒃲𒇷𒁍 ú-gal-li-bu ≠ gelobe swear 
 𒌑𒃲𒇷𒁍 ú-gal-li-bu ≈ גילח 'giléakh >  حَلَقَ ḥalaqa "shave" <> הִתְגַלֵּחַ hitgaleach
 𒌑𒃲𒇷𒁍 ú-gal-li-bu < ҡырыу qırıw ξυρέω carve
-𒌑𒃲𒇷𒁍 ú-gal-li-bu @ 𒋗𒐊 gallābum "barber"
+𒌑𒃲𒇷𒁍 ú-gal-li-bu @ 𒋗𒄿 gallābum "barber"
 𒌑𒃲𒇷𒁍 shave 
 
 
@@ -10679,24 +10848,677 @@ PUN ZONE??
 𒀊𒁍𒋾 abbuti ≈ aput <> 𓄋 𓊪 𓏏 | top knot (of hair) | 
 𒀊𒁍𒋾 hair style <> 
 
-𒐊𒁕𒊍 ᵛi-da-aṣ "wit s.o." ἀπαφίσκω beswīcan  
-𒐊𒁕𒊍 deceive
+𒄿𒁕𒊍 ᵛi-da-aṣ "wit s.o." ἀπαφίσκω beswīcan  
+𒄿𒁕𒊍 deceive
 <>
-𒐊𒁺𒌑 ᵛi-du-ú video
-𒐊𒁺𒌑 wit, see
+𒄿𒁺𒌑 ᵛi-du-ú video
+𒄿𒁺𒌑 wit, see
 <>
-𒐊𒈾 𒐊𒁺𒌑 i-na ᵛi-du-ú
-𒐊𒈾 𒐊𒁺𒌑 wittingly
+𒄿𒈾 𒄿𒁺𒌑 i-na ᵛi-du-ú
+𒄿𒈾 𒄿𒁺𒌑 wittingly
 
-𒐊𒌓𒈠 i-tam-ma <> testament?  ant / yemin etmek ??
-𒐊𒌓𒈠 i'tam-ma ≈ тангараг
-𒐊𒌓𒈠 iʳtam-ma ≈ երդում erdum 
-𒐊𒌓𒈠 ᶜi-tam-ma ≈ قَسَم qasam क़सम qasam কসম kośom keusch sumpa' سَون٘ہہ sauṉh 
-𒐊𒌓𒈠 ᵠi-tam-ma ≈ betim <> beten? <> 
-𒐊𒌓𒈠 ᵠiʳtam-ma ≈ přísahaᵐ
-𒐊𒌓𒈠 ᵃi-tam-ma aidam 𐌰𐌹𐌸𐍃 Eid (ver)eiden +++
-𒐊𒌓𒈠 swear, take an oath 
+𒍑𒋫𒈪𒀉  uš-ta-mi-it 
+𒍑𒋫 𒈪𒀉 cause to die  √muert 𓏱
+
+
+𒄿𒌓𒈠 i-tam-ma <> testament?  ant / yemin etmek ??
+𒄿𒌓𒈠 i'tam-ma ≈ тангараг ὄμνυμι 't'ómnumi
+𒄿𒌓𒈠 iʳtam-ma ≈ երդում erdum 
+𒄿𒌓𒈠 ᶜi-tam-ma ≈ قَسَم qasam क़सम qasam কসম kośom keusch sumpa' سَون٘ہہ sauṉh 
+𒄿𒌓𒈠 ᵠi-tam-ma ≈ betim <> beten? <> 
+𒄿𒌓𒈠 ᵠiʳtam-ma ≈ přísahaᵐ
+𒄿𒌓𒈠 ᵃi-tam-ma aidam 𐌰𐌹𐌸𐍃 Eid (ver)eiden 𓇋 𓁹 𓏏 𓀸 +++
+𒄿𒌓𒈠 swear, take an oath  
 
 𒊺𒂊𒅎 še-e-em zu-ihm 𓃹 šêm <> she'lui <> geziehm
 𒊺𒂊𒅎 (be) his, (belongs to) him
+
+𒌑𒊭𒀝𒇷𒀧 ú-ša-ak-li-il
+𒌑𒊭𒀝𒇷𒀧 finish, complete
+
+𒅆𒁉𒅕 ši-pí-ir Schaffen 𓆣 𓎨 𓍍 igi-pí-ir equipe <> Hand, Kenntnis
+𒅆𒁉𒅕 specialization, craft, work, profession
+
+𒍑𒋼𒄑𒁉 uš-te-eṣ-bi ausführ-
+𒍑𒋼𒄑𒁉 do (work, craft)
+<>
+𒌑𒋺𒆠𒀧 u2-tak-ki-il
+𒌑𒋺𒆠𒀧 do (work)
+
+𒅎𒇻𒌓 im-LU-ut •tilt •tumble [sic]
+𒅎𒆪𒌓 im-qú-ut ¬ 𓐪 𓂧 𓀨 = 𓊊 
+𒅎𒆪𒌓 collapse (house)
+=
+𒅎𒆪𒌅 im-qú-tu ¬ 𓐪 𓂧 𓀨 = 𓊊 
+𒅎𒆪𒌅 collapse <> طوقه لامق tokalamak
+<>
+𒅅𒌅𒌒 iq-tu-up ¬ 𓐪 𓂧 𓀨 = 𓊊 
+𒅅𒌅𒌒 topple, buckled (wall)  <> •qutpo κουμπώνω koumpóno закопчавам zakopčavam
+
+𒄿𒈾𒃼 iʳna-ḳar arranxar 
+𒄿𒈾𒃼 arrange, repair
+<>
+𒄿𒅁𒁉𒌍 iʳib-bi-eš
+𒄿𒅁𒁉𒌍 rebuild
+𒄿𒅁𒁉𒌍 iʳib-bi-eš
+𒄿𒅁𒁉𒌍 rebuild
+
+𒄿𒊑𒀊 iʳri-ab
+𒄿𒊑𒀊 repay, make recompense
+𒄿𒊑𒀊 iʳri-ab
+𒄿𒊑𒀊 repay, make recompense
+≈
+𒄿𒊑𒀀𒀊 i-ri-a-ab
+𒄿𒊑𒀀𒀊 repay, make a repayment, give back (robbery) <> go back, enter, arrive 𓂻 𓂽
+
+
+𒅁𒄭 ip-ḫi @ opus @ elippi (𒄑𒈣 boat) étouper!
+𒅁𒄭 caulk < calfater καλαφατίζω kalafatízo ∊ 𒅁𒄭
+
+𒄑𒍝𒁖 iz-zaʳpar <> crepa تَسَرُّب tasarrub تَسَرَّبَ tasarraba  chorrear 
+𒄑𒍝𒁖 iz-za-par sabber  
+𒄑𒍝𒁖 suffer leak (boat) 
+
+𒄭𒁲𒌓 𒅕𒋫 𒅆 ḫi-di-tam ir-ta ši 
+𒄭𒁲𒌓 𒅕𒋫 𒅆 shows a defect ??
+
+𒄑𒈣 giš.MÁ
+𒄑𒈣 boat
+
+
+𒈣𒁺𒁺 MÁ.LAḪ5 malāḫum مَلَّاح mallāḥ < мара́к marák marinarius marinellus 
+𒈣𒁺𒁺 marine, sailor
+≈
+𒈣𒁶𒁶 MA₂-GIM ≈ mai gina jirgi ≈ madugu na jirgi ≈ ameyza ughar ≈ mvuvi …
+𒈣𒁶𒁶 MA₂-GIM-GIM •MA₂RA-GIM > malāḫim malāḫum ملاح mallāḥ মাল্লা malla amellal galama
+𒈣𒁶𒁶 boat-builder, boatman
+
+𒄿𒄥 i-gur ≈ alugar
+𒄿𒄥 ᶜi-gur <> شَغَّلَ šaḡḡala
+𒄿𒄥 i-gur <> 借りる かりる kariru 租借 zūjiè <> κιάζω in νοικιάζω engager
+𒄿𒄥 i-gur > أَجَّرَ ʔajjara > 
+𒄿 𒄥 recruit, hire
+≈
+𒄿𒄖𒊒 i-gu-ru™
+𒄿𒄖𒊒 recruit, hire
+
+𒍑𒋼𒇷𒀀𒀸 uš-te-li-a-aš aufstelle-
+𒍑𒋼𒇷𒀀𒀸 bring up (refloat boat)
+
+
+𒌑𒋼𒅁𒁉 kūš-ṭe4-eb-bi <> غَطَسَ ḡaṭasa @ coast
+𒌑𒋼𒅁𒁉 ú-ṭe4-eb-bi uṭebbī <> upota утону́ть utonútʹ 沉 teing zink sink
+𒌑𒋼𒅁𒁉 topple; sink, sank, sunk (boat, naut)
+
+
+𒍣𒊑𒅎 ṣi-ri-im
+𒍣𒊑𒅎 sierra "open country"
+
+𒈨𒄖𒁴 me-gu-tim
+𒈨𒄖𒁴 negligence
+
+𒆷𒁉𒀀𒀭 la-bi-a-an
+𒆷𒁉𒀀𒀭 la •biank <> وتر العنق watar al-'unuq <> la shingo leher
+𒆷𒁉𒀀𒀭 neck tendon
+
+𒅅𒆠𒅁 ik-ki-ip <> 𓂧 𓃀 𓄏 | horn | 𓄋 𓊪 𓏲
+𒅅𒆠𒅁 ik-kiʳip kerb- carve ≠ кров krov krev crúor ☑
+𒅅𒆠𒅁 gore (with horn s) cornear coger ≠ ἔαρ éar
+<>
+𒈾𒀝𒅗𒁉 na-ak-ka-pí
+𒈾𒀝𒅗𒁉 prone to gore
+
+𒌑𒊬𒊑𒅎 ú-šar-ri-im ušarrim ≈ scheren
+𒌑𒊬𒊑𒅎 trim (horn, hair?) <> recortar
+
+
+𓄂 in 
+𒉺𒉌  𒀀𒊮 𒋗 𒌑𒅗𒊻𒍥𒅎
+pa-ni A.ŠÀ šu ú-zu-uz-zi-im 
+oversee his field 
+
+𒀠𒆕𒀀𒄠 AL.DÙ.A-am aldâm
+𒀠𒆕𒀀𒄠 store of barley 
+
+𒄿𒆠𒅁 i-qí-ip 
+𒄿𒆠𒅁 equip, entrust
+<!>
+𒅁𒆠 ip-qí 
+𒅁𒆠 procure, provide ≈ παρέχω parékhō <> opskrbiti obezbediti
+
+𒌑𒊏𒀝𒆠 ú-ra-ak-ki
+𒌑𒊏𒀝𒆠 contract (s.o.)
+
+𒊮𒃲 ŠÀ.GAL •sugar !
+𒊮𒃲 fodder #ukullâm
+
+
+𒈾𒅆 na.ši Mensch مُسْتَأجِر maizter Mieter مست  مستاجر mosta'jer
+𒈾𒅆 na.ši najemca <> nająć
+𒈾𒅆 tenant 
+
+𒄴𒄭𒅁𒁉 iḫ-ḫe-ep-pé 
+𒄴𒄭𒅁𒁉 chop, break (tablet, document, contract)
+
+𒄿𒈠𒀜𒁕𒀜 i-ma-ad-da-ad √meter 𒉘 #madādu "to meter, to measure"  
+𒄿𒈠𒀜𒁕𒀜 measure out
+
+𒁉𒄩 pí-ḫa ≈ pay
+𒁉𒄩 obligation
+
+𒅎𒋫𒈾𒀸𒊭𒊒 im-ta-na-aš-ša-ru
+𒅎𒋫𒈾𒀸𒊭𒊒 be dragged back and forth (!?)
+
+𒊮𒄞 ŠÀ.GUD sığırt in sığırtmaç
+𒊮𒄞 cowman •cowguard •seecattle --
+
+
+𒄑𒀳 ĝeš.APIN Gespann 
+𒄑𒀳 plough
+
+𒄑𒀳 𒌇𒆥 TUK.KIN տափան tapʻan 
+𒄑𒀳 𒌇𒆥 harrow 𒌋 Egge 
+
+𒄑𒃶𒌨 GIŠ.GAN.UR 
+𒄑𒃶𒌨 scuffle hoe "Schuffel" for weeding
+
+𒊑𒅎 re-em "to room" 𐎗𐎓𐎊 rʿy
+𒊑𒅎 tend (in a tent)
+<>
+𒈾𒃰 #rêʾum #rēʾûm
+𒈾𒃰 NA.GADA 𒈾 Mensch man 𒉌𒋗 nišu-goat-guard کرد kərd
+𒈾𒃰 NA.GADA <> ⲙⲁⲛⲉⲥⲟⲟⲩ 𓏠 𓋳 მეცხვარე mecxvare qoničin
+𒈾𒃰 shepherd 𒉺𒇻 SIPA <> negro ?
+
+𒀖𒄞𒄭𒀀 LID.GUD.ZUN !! #liātim
+𒀖𒄞𒄭𒀀 ÁB.GUD.ḪI.A alpu-govedo говедо !
+𒀖𒄞𒄭𒀀 ÁB.GUD.ḪI.A cow-herd a'beuf-gâv گاو 
+𒀖𒄞𒄭𒀀 ÁB.GUD.ḪIʳA abelgorriak গৰু goru
+𒀖𒄞𒄭𒀀 ÁB.GUD.ḪIʳA буцӏцӏир buccʼir בקר بَقَر baqar
+𒀖𒄞𒄭𒀀 ÁB.GUD.ḪIᵐA بْهايم bhæym
+𒀖𒄞𒄭𒀀 cattle
+
+𒇇𒇻𒄭𒀀 U8.UDU.ḪI.A Herde עֵדֶר 'edér отар otar Häad hjörð झुंड jhuṇḍ < череда́ čeredá
+𒇇𒇻𒄭𒀀 ʰU₈UDU հոտ hot < قطيع ʔaṭīʕ < قَطِيع qaṭīʕ kudde көтү kötü ≈ cattle
+𒇇𒇻𒄭𒀀 flocks herd
+
+𒌑𒌒𒁀𒄠 u2-ub-ba-am
+𒌑𒌒𒁀𒄠 absolve
+
+𒇷𒁉𒀉 li-bi-it
+𒇷𒁉𒀉 act (of god)
+
+𒍑𒋰𒅆 uš-tab-ši establish
+𒍑𒋰𒅆 cause (to happen)
+≈
+𒀉𒋰𒅆 it-tab.ši establish? tapahtua@Finnish
+𒀉𒋰𒅆 has been, happen, occurred  
+
+𒈪𒆠𒀉𒋾 mi-ki-it-ti
+𒈪𒆠𒀉𒋾 damage?
+
+𒄿𒈤𒄯 i-maḫ-ḫar
+𒄿𒈤𒄯 "face", accept   √𓄂 𒈠𒄯 ma-har 𒈠𒄩𒊒 	ma-ḫa-ru
+
+𒁉𒍝𒌓 pí-sà-tam
+𒁉𒍝𒌓 lameness? (in a stable)
+
+𒑏	one BAN2
+𒑐	two BAN2
+𒑑	three BAN2
+𒑒	four BAN2
+𒑓	four BAN2 variant form
+𒑔	five BAN2
+𒑕	five BAN2 variant form
+
+𒁲𒀀𒅆𒅎 di-a.ši-im diāšim ≈
+𒁲𒀀𒅆𒅎 threshing
+
+𒀉𒋗 Á-šu 𓃹 est
+𒀉𒋗 it is
+
+
+𒄑𒈥𒁍𒁕 giš.MAR.GÍD.DA •cart
+𒄑𒈥𒁍𒁕 giš.MAR.GÍ/BU.DA 𓅓 𓂝 𓃭 𓏤 𓎡 𓄿 𓃀 𓏲 𓍘 𓇋 𓆱 𓌝  (𓃀 ≈ 𒁍 bu) 
+𒄑𒈥𒁍𒁕 giš.MAR.GÍ/BU.DA 𐎎𐎗𐎋𐎁𐎚 mrkbt 
+𒄑𒈥𒁍𒁕 wagon
+<> 
+𒈬𒌫𒋼𒁲 mu-úr-te-di 𓅓 𓂝 𓃭 𓏤 𓍘 𓇋 𓆱 𓌝 ? <>  járművezető ?
+𒈬𒌫𒋼𒁲 driver <> موټروان moṭarwān √motor permuted ? 𓈖 𓍇 𓏌 𓅱 𓁹  / 𓏏 𓉔 𓅓 𓂾 𓂻 
+
+𒊑𒌍 re-eš rise rēš šattim
+𒊑𒌍 beginning (of year)
+
+𒋫𒀝𒋾𒁕 ta-aq-ti-da taggara (tide)
+𒋫𒀝𒋾𒀉 ta-aq'ti'it τέλος του έτους 
+𒋫𒀝𒋾𒀉 ta-aq'ti'it télos tou étous !!
+𒋫𒀝𒋾𒀉 end (of year)
+
+𒅆𒅆𒅎 𒌚𒅎 še₂₀ši-im ITI-im 6ᵗʰ month
+
+𒇽𒂠𒂷 lú ḪUN.GÁ (lú agram)
+𒇽𒂠𒂷 lú EŠ.GÁ أجير ajir
+𒇽𒂠𒂷 lú ᵐEŠ.GÁ masa aiki , ma'aikaci
+𒇽𒂠𒂷 lú ŠE.GÁ™  𓇓𓏤𓍿𓅱𓏏𓈉
+𒇽𒂠𒂷 lú ŠE.GÁʳ שכיר sakhir shaqaale
+𒇽𒂠𒂷 hireling
+
+سېتىۋالماق sëtiwalmaq
+
+𒅖𒋫𒄠 iš-ta-am stemm, ersteigern
+𒅖𒋫𒄠 buy, bought, purchase(d)
+≈
+𒄿𒊭𒄠𒈬 i-ša-am-mu.ma
+𒄿𒊭𒄠𒈬 purchase <> 𒄿𒊭𒀜𒁯 i-ša-ad-dar donate
+𒄿𒊭𒄠 i-ša-am sūmō @ Latin √sum ∑ +++
+𒄿𒊭𒄠 i-ša-am er-säumen besäumen besorgen ≠ versäumen 
+𒄿𒊭𒄠 išām гами (gami)
+𒄿𒊭𒄠 išām ⵙⵖ sɣ 买 mǎi
+𒄿𒊭𒄠 buy, bought  
+≈
+𒅆𒈬 	ši-mu <> ∑ maǐ 买 卖
+𒅆𒈬 	purchase (price) 
+≈
+𒊭𒈬 	ša-mu
+𒊭𒈬 	šamu sūmō @ Latin √sum ∑ +++
+𒊭𒈬 	purchase, to buy (heaven, sky)
+<>
+𒊭𒀀𒀀 𒈠𒉡 ša-a-a ma-nu  ⵙⵖ sɣ man 
+𒊭𒀀𒀀 𒈠𒉡 ša-a-a ma-nu  ซื้อ sʉ́ʉ man 
+𒊭𒀀𒀀 𒈠𒉡 ša-a-a ma-nu شرى šara man   sivoq man 
+𒊭𒀀𒀀𒈠𒉡𒌝 ša-a-a-ma-nu-um šayyāmānum ὠνέομαι ˢōnéomai
+𒊭𒀀𒀀𒈠𒉡𒌝 ša-a-a-ma-nu-um  사는 사람 saneun saram
+𒊭𒀀𒀀𒈠𒉡𒌝 buyer
+
+
+
+𒈾𒁲𒈾𒉌 ᵛna-di-na-ni 
+𒈾𒁲𒈾𒉌 vendor, seller "giver"
+
+
+𒁉𒂗𒉌 bé-en-ni ?
+𒁉𒂗𒉌 epilepsy
+
+𒅎𒋫𒆪𒌓 im-ta-qú-ut em->taketh
+𒅎𒋫𒆪𒌓 befall(en)
+
+𒁀𒀝𒊑 ba-aq-ri <> bakshish
+𒁀𒀝𒊑 legal claims
+
+𒅕𒋫 𒅆 ir-ta (she)
+𒅕𒋫 incurred 
+
+𒉡𒆪𒌫𒁴 nu-ku-úr-tim <> 𓂜 nega/negro-
+𒉡𒆪𒌫𒁴 foreign (country 𒈠𒀜)
+
+𒂇𒍑 AGA.ÚS "rēdûm" relinquo rid ṣâbê #taklāpu
+𒂇𒍑 AGA.ÚS #ṣâbê سپاه sepāh صبابة sababah צבא tzva 𓌆 𓂝 𓏤 #za @ adze? sherpa 
+𒂇𒍑 AGA.ÚS arkiya @Hittite
+𒂇𒍑 axe-bearer, (foot)soldier
+
+
+𒋗𒄩 ᵠŠU.ḪA
+𒋗𒄩 fisher, trapper <> 𓎛 𓎱 𓃀 𓅭 𓏥 𓆛 𓏥 | catch (of fish and fowl) |
+
+𒌑𒁉𒄴 u-bi-iḫ 
+𒌑𒁉𒄴 taken in exchange?
+
+𒁉 𒌦 BI.UG̃₃ biltim
+𒁉𒌦 official
+<>
+𒀧𒆠 il-ki
+𒀧𒆠 official property
+<>
+𒀧𒄣 il-kum
+𒀧𒄣 tenant
+<>
+𒄿𒇷𒅅 𒄿𒀧𒆷𒀝 i-li-ik … i-il-la-ak
+𒄿𒇷𒅅 𒄿𒀧𒆷𒀝 ilik … illak  
+𒄿𒇷𒅅 𒄿𒀧𒆷𒀝 shall perform the duties (for field… ) "walk the walk"
+
+𒄿𒇷𒅅𒋗 𒄿𒅋𒆷𒀝 i-li-ik.šu i-il-la-ak 
+𒄿𒇷𒅅𒋗 𒄿𒅋𒆷𒀝 "walk his walk" i.e. perform his ilkum-service
+
+𒄿𒇷𒅅 𒀀𒁉𒋗 𒀀𒆷𒄭𒁁 𒆷 𒄿𒇷𒄿
+ʷi-li-ik a-bi.šu ʷa-la-kam la ʷi-le-i
+cannot perform his father’s ilkum-service
+<>
+𒀧𒄀 il-qé leech, select
+𒀧𒄀 receive, take
+
+𒈠𒈾𒄩𒋾 ma-na-ḫa-ti
+𒈠𒈾𒄩𒋾 expenses
+≈
+𒈠𒈾𒄩𒀜 ma-na-ḫa-at 
+𒈠𒈾𒄩𒀜 maintenance amounts
+
+𒂊𒁍𒊒 e-bu-ru •haburuˢᵗ 
+𒂊𒁍𒊒 harvest, first harvest 𓎛 𓇳 𓎱 𓃀
+≈
+𒂙 ≈ 𒂘 = 𒂗·𒃷 ≈ 𒂗·𒃸 ≈ 𓎲 ≈ 𓎟·𒊮 in harvest
+𒂙(𒂘) ebūrim (BURU14)
+𒂙(𒂘) enkar 𒂗·𒃷 ≈ 𒂗·𒃸 EN×GAN2(tenu)
+𒂙(𒂘) šibir₂ shepherd's scepter 𓋾
+𒂙(𒂘) harvest time 
+
+
+𒍣𒁀𒍪 ṣi-ba.sú √super/silver
+𒍣𒁀𒍪 (its) interest
+
+𒉌𒅁𒆷𒁴 ni-ip-la-tim niplātim
+𒉌𒅁𒆷𒁴 compensation <> pay(ment) 𒄿𒅁𒉺𒀠 i-ip-pa-al™
+
+𒌑𒊭𒆠𒇻 ú-ša-ki-lu 𓃹𓆑𓂋 𓏛𓍯𓄿𓇋𓀜
+𒌑𒊭𒆠𒇻 allow to use
+≈
+𒍑𒋫𒆠𒀧 uš-ta-ki-il
+𒍑𒋫𒆠𒀧 allow to use?
+
+𒄿𒈾𒍝𒀝 i-na-sà-aq entscheid
+𒄿𒈾𒍝𒀝 choose
+
+𒁉𒆷𒀜 bi-la-at √built
+𒁉𒆷𒀜 bill, rent
+≈?
+𒁉𒀧𒌓 bi-il-tam
+𒁉𒀧𒌓 produce (n.)
+
+𒄿𒅁𒁍𒌑𒌝 i-ib-bu-ú-um
+𒄿𒅁𒁍𒌑𒌝 deficit
+
+𒌝𒋫𒁲 um-ta-di ¬much менш mancul mazāk minus mjenš moins 
+𒌝𒋫𒁲 um-ta-di کمتر kamtar
+𒌝 𒋫𒁲 less !
+
+𒋫𒇷𒀉𒌓 ta-li-id-tam
+𒋫𒇷𒀉𒌓 young animals <<
+
+𒆠𒇴 KI.LAM "Kilo(price)"
+𒆠𒇴 price
+
+𒁲𒅁𒁴 di-ib-tim
+𒁲𒅁𒁴 trust (ina … : on …)
+
+𒌑𒊓𒅗𒉌 U2.SA.KA.NI
+𒌑𒊓𒅗𒉌 keg?
+
+𒅆𒁍𒌌𒁴 ši-bu-ul-tim
+𒅆𒁍𒌌𒁴 consignment
+
+𓊘 𓉐 hombár 𓅓 𓂝 𓌨 𓂋 𓉐 ամբար ambar хамба́р hambár hambar chamber "granary"
+𒈾𒀸𒉺𒆠𒅎 ma-aš-paʳkiʳ 𓅓 𓂝 𓉐 𓌨 𓂋 
+𒈾𒀸𒉺𒆠𒅎 ma-aš-paʳkiʳ <> مَخْزَن الْحُبُوب maḵzan 𓂋 𓉐 al-ḥubūb √bab
+𒈾𒀸𒉺𒆠𒅎 na-ašᵗpa-kiʳim 𓍲 𓏌 𓏏 𓊘 / 𓊘 𓏏 𓉐 nathport?  anbar 
+𒈾𒀸𒉺𒆠𒅎 granary <> nest pack?
+&
+𒈠𒀸𒅗𒉏 ma-aš mallar mlátit •thresh <> მარცვალი marcvali grain 
+𒈠𒀸𒅗𒉏 ma-aš ka-nim ___ . 𓈎 𓈖 𓏲 𓉐 ϭⲛⲱⲟⲩ !
+𒈠𒀸𒅗𒉏 maškanim <> amadṛas um/ma.threshing  mlátit 
+𒈠𒀸𒅗𒉏 threshing-floor  𓆱 𓐍 𓏏 𓅂 𓇤 𓏤 
+
+𓈎 𓄿 𓇋 𓇋 𓈒 𓏥 | grains | drithë@Albanian  𓈎 TAR ⋍ QAR 𓏘 <> thresh:
+דש dash دَرَسَ darasa dresche thresh dyrnu ерне́ zjernjé σιτηρά sitirá seed
+
+𒀉𒁍𒁕	Aʳgid₂da agida #ariktu
+𒀉𒁍𒁕	Aᵐgid₂da agida ≈ hañida 𓎛 𓈖 𓇋 𓇋 𓏏 | spear |  
+𒀉𒁍𒁕	Áˢpur.da spear™	𓋴 𓂧 𓄢 
+
+
+𒈬𒈾𒄴𒄭𒅖 mu-na-aḫ-ḫi-iš
+𒈬𒈾𒄴𒄭𒅖 make prosper
+
+𒉿𒀸𒊒𒌝 𒈬𒍑𒋼𒈪𒄣 wa-aš-ru-um mu-uš-te-mi-ḳum 
+𒉿𒀸𒊒𒌝 𒈬𒍑𒋼𒈪𒄣 the humble and clever one
+
+𒅁𒉌𒌑 ib-ni-u ebenen- erbauen
+𒅁𒉌𒌑 create
+
+𒌷𒋀𒀊𒆠 Urim
+
+𒄿𒊭𒊏𒀜 i-ša-ra-at
+𒄿𒊭𒊏𒀜 straight(en)   << 𒊭 šaᵗ / sᵗa [[seat]] 
+
+
+𒈪𒊭𒊑𒅎 mi-ša-ri-im mīšarim 
+𒈪𒊭𒊑𒅎 "proper"  # Maat @ Mose @ mizraim
+
+𒁕𒀀𒀀𒉏  𒊏𒁉𒅎 𒊭 𒊭𒈨𒂊 𒅇 𒅕𒍣𒁴 𒈪𒊭𒊑
+da-a-a-nim ra-bi-im ša šamê u3 irṣitim mi-ša-ri 
+the almighty judge in heaven and earth, 
+
+
+𒅆𒅅 igi-gal2 igigallim
+𒅆𒅅 omniscience
+
+𒊭𒀊𒇷𒅖 ša-ap-li-iš šapliš √sub
+𒊭𒀊𒇷𒅖 under(neath)  ( vs 𒂊𒇷𒅖 eliš )
+
+𒂊𒇷𒅖 eliš
+𒂊𒇷𒅖 above
+
+𒅁𒁍𒌑𒎏𒉌𒈠 ib-bu-u-nin-ni-ma
+𒅁𒁍𒌑𒎏𒉌𒈠 nominated me
+
+𒌓𒇷 DAG₂LI ≈ [[𒄭]] DÙG "knee"
+𒌓𒇷 DAG₂LI ⲕⲉⲗⲓ keli knee Kehle
+𒌓𒇷 UTUᵇLIᵍ тубыҡ tubıq "knee"
+𒌓𒇷 UTU.LEᵍ আঁডু ãḍu হাঁটু hãṭu @ leg :
+𒌓𒇷 UTU.LEᵍ leg лъэгуанджэ lˢɛgʷandžɛ in 
+𒌓𒇷 •RAD.LI rodiella "knee"
+𒌓𒇷 BIR.LI ברכא birkā "knee"
+𒌓𒇷 knee
+
+𒆷𒈠𒍥 la'ma-zi حماية al'ḥimāyaˢ हिमायत himāyatˢ
+𒆷𒈠𒍥 la'ma-zi mühafizə محافظت l'mohâfezat مُحَافَظَة muḥāfaẓa
+𒆷𒈠𒍥 la'ma-zi 𓅓 𓂝 𓎡 𓏏 𓏛 
+𒆷𒈠𒍥 protection 
+
+𒀜𒋰𒁀𒀠 at-tab-ba-al √top √baal √ø
+𒀜𒋰𒁀𒀠 govern 
+<>
+𒍑𒋰𒍣𒅕 uš-tap-ṣi-ir 𓊨 𓁹 ?
+𒍑𒋰𒍣𒅕 guide
+
+𒈨𒈨𒆠 me-me-ḳi mnemno… √mens
+𒈨𒈨𒆠 me-me-ḳi <> חכמה khokhme reverse
+𒈨𒈨𒆠 me-me-ḳi <> حِكْمَة ḥikma™ 𐎈𐎋𐎎𐎚 ḥkmt reverse √mind
+𒈨𒈨𒆠 me-me-ḳi ≠ мѫдрость mǫdrostĭ му́драсць múdrascʹ
+𒈨𒈨𒆠 wisdom <> 𒀯 mul 𓋴 𓃀 𓇼 𓏤
+
+𒊑𒅆 ri-ši riši "rise, raise" !
+
+𒂍𒊕𒅍𒆷 É-SAǦ-ÍL.LA
+𒂍𒊕𒅍𒆷 devine tepe, "temple whose top is lofty"
+
+
+𒋗𒌅𒊒 šuᵖtu-ru
+𒋗𒌅𒊒 superior
+𒋗𒌅𒊒 better <> # 𒌅 podest подобар podobar 𐌱𐌰𐍄𐌹𐌶𐌰 batiza बेहतर behtar بِهتَر behtar بختر bextar βέλτερος bélteros 
+
+𒇷𒅖𒋫𒀾𒋛 li-is-ta-aš2-si lištassi √lese
+𒇷𒅖𒋫𒀾𒋛 read out aloud (message on stone)
+<>
+𒇷𒅖𒈨 li-iš-me
+𒇷𒅖𒈨 listen
+
+
+𒈾𒊒𒄿 na-ru-i narui ≈ 𒎎 𒉌𒌓 ni'ra @ 𓇋 𓈖 𓂋 𓊌 | stone, rock | אֶבֶן éven 
+𒈾𒊒𒄿 na-ru-i narui ≈ 𒀩 ⇔ 𒈿 NA2, NU2
+𒈾𒊒𒄿 stone stela  
+
+𒊭𒀜𒊏𒄠 ša-aṭ-ra-am
+𒊭𒀜𒊏𒄠
+<?> 
+𒋗𒆪𒊏𒁴 šu-ku-ra-tim
+𒋗𒆪𒊏𒁴 ?
+
+
+𒉿𒇷𒁲𒅎 •maw-li-di-im مَوْلِد mawlid مِيلَاد mīlād 𓄟 𓅱 𓏏 •mislad
+𒉿 𒇷𒁲𒅎 wa-li-di-im walidim وِلَادَة wilādaᵐ <> 𒌉 DUMUⁿ +++
+𒉿𒇷𒁲𒅎 birth
+
+𒄿𒁀𒀸𒋗𒌑 i-ba-aš-šu-u ibaššû •emboss 
+𒄿𒁀𒀸𒋗𒌑 give (birth)
+≈
+𒅁𒁀𒀸𒋗𒌑 ib-ba-aš-šu-u ibbaššû •emboss 
+𒅁𒁀𒀸𒋗𒌑 appears
+
+𒅕 𒊑𒀉 ʷir-ri-it writ
+𒅕𒊑𒀉 writing, threatened curses (𒀭 god's)
+𒅕𒊑𒋾 ʷir-ri-ti writ
+𒅕𒊑𒋾 writing, threatened curses (𒅀 my)
+<>
+𒀀𒉿𒀀𒀜 a-wa-a-at a'word
+𒀀𒉿𒀀𒀜 mu-wa-a-at mot
+𒀀𒉿𒀀𒀜 command
+≈
+𒀀𒉿𒀀𒁴 a-wa-a-tim
+𒀀𒉿𒀀𒁴 commands
+
+𒀀𒉿𒀀𒀜 𒈪𒊭𒊑𒅎 awât mīšarim
+𒀀𒉿𒀀𒀜 𒈪𒊭𒊑𒅎 righteous commands 
+
+𒁍𒊒𒍥𒂊 𒌦 𒊭 𒀊𒊒𒋢  
+purussē mātim ša aprusu  
+verdicts for the land which [I have] rendered
+<>
+𒌑𒅗𒊏𒋾 ᵖu-zu-ra-ti 𓊹 𓋺 𓏏 𓏤 ᵖuṣurāti
+𒌑𒅗𒊏𒋾 u-zu-ra-ti 𓋴 𓇑 𓇑 𓈖 𓈖 𓀾 
+𒌑𒅗𒊏𒋾 u-zu-ra-ti 𓋴 𓌬 𓐝 𓀹 𓏏 𓇋 𓏏 𓂇 
+𒌑𒅗𒊏𒋾 graven image
+
+𒅁𒅆𒀉 ip-ši-iṭ upset
+𒅁𒅆𒀉 remove (name from inscription)
+<>
+𒌒𒋫𒊍𒍥𒅖 up-ta-az-zi-is up-toss
+𒌒𒋫𒊍𒍥𒅖 destroy (rules)
+<>
+𒌑𒊭𒊍𒍥𒅅 u-ša-az-zi-iḳ  aus¬cast
+𒌑𒊭𒊍𒍥𒅅 cast aside (rules)
+≈
+𒌑𒊭𒍥𒅅 u-ša-zi-iḳ aus¬ erazeᵍ
+𒌑𒊭𒍥𒅅 remove (image)
+<>
+𒍑𒋼𒉿𒂖 uš-teᵐpi-el aus¬tausch <> cambiare
+𒍑𒋼𒉿𒂖 change (words, rules)
+
+
+𒄿𒄢 i-gul iqūl 𓁹 ыкылас ıkılas ئاگاداری agadarî Acht(ung) игътибар iğtibar
+𒄿𒄢 pay attention
+<!>
+𒀸𒌅𒊒 𒄿𒄢 aš-tu-ru i-gul  ašṭuru iqūl
+𒀸𒌅𒊒 𒄿𒄢 inscribed
+≈
+𒀸𒌅𒊒 𒇷𒄢 aš-tu-ru li-gul 
+𒀸𒌅𒊒 𒇷𒄢 inscribed
+≈
+𒀸𒌅𒊒 𒇷? aš-tu-ru li-ṣur
+𒀸𒌅𒊒 𒇷? inscribed
+
+dīn mātim ša adīnu, purussē mātim ša aprusu
+(the justice for the land which [I have] ordained
+the verdicts for the land which [I have] rendered) 
+
+the social problems I have encountered and the decisions I have taken for the community
+
+𒁲𒅔 𒌦 𒊭 𒀀𒁲𒉡 
+di-in KALAM ša a-di-nu
+dīn mātim ša adīnu
+the justice for the land which [I have] ordained
+
+𒁲𒅔 𒅆𒈾 𒇷𒁲𒅔 
+di-in ši-na li-di-in 
+Let him consider their problems,
+
+𒁲𒅔 𒀀𒁲𒉡 di-in a-di-nu 
+𒁲𒅔 𒀀𒁲𒉡 rules I ordained 
+
+
+𓃀 𓅱 𓎛 𓂋 𓅨 𓅱 𓅪 | evil | 𓃀 𓈖 𓅨 Bane …
+𒊏𒂵𒄠 ra-ga-am raggam ragga רָשָׁע rashá' רע ʰrawᵍ rough ϩⲟⲟⲩ @ rug 
+𒊏𒂵𒄠 ra-ga-am raga.ma רָשָׁע rashá' מרושע merusha rach@Nilotic
+𒊏𒂵𒄠 "evil" 𓎛 𓂋 𓅨 𓅱 𓅪 <> verrucht  
+
+𒋛𒉆 si® شِرِير širīr չար čʻar 邪恶 xié'è
+𒋛𒉆 si-nam ṣēnam syndig
+𒋛 𒉆 sin, wickedness
+
+𒇷𒅗𒄴 li'zu-uh lissuḫ aus-löschen
+𒇷𒅗𒄴 weed out (evil and wickedness)
+
+𒆠𒈾𒁴 ki-na-tim Kenntnis
+𒆠𒈾𒁴 truth
+
+𒅖𒊒𒆪 iš-ru-ku
+𒅖𒊒𒆪 entrust
+
+𒉺𒋼𒋛 paʳte-si patesi 𓄂 𓏏 𓏤 front(man)
+𒉺𒋼𒋛 governor <> 𒂗 ᵇensi₂ /ensik/ 𓆤 Bonze 
+𒉺𒋼𒋛𒃻 / 𒃻𒉺𒋼𒋛 Patesi ≈ [[puzur]] 𓆥 Potentat  ⲡⲁⲅⲁⲣⲭⲟⲥ pagarkhos ⲉⲡⲁⲣⲭⲟⲥ eparkhos
+
+𒈾𒁍𒌑 𒁄 𒅀 na-bu-u palî ᵐia
+𒈾𒁍𒌑 𒁄 𒅀 designated me to rule
+
+𒈬𒊬𒁍𒌑 mu-šar-bu-u
+𒈬𒊬𒁍𒌑 make magnificent
+
+𒊬 šar < super in
+𒊬𒊒𒁴 šar-ru-tim šarrūtim zarentum
+𒊬𒊒𒁴 sovereignty
+<>
+𒈨𒃼𒄑 me-gar3-iz melam <> 𒈨𒉈	me-lim₄ splendour
+𒈨𒃼𒄑 splendid, splendour
+
+𒈾𒁉𒀀𒀜 na-bi-a-at en-appoint
+𒈾𒁉𒀀𒀜 appointed
+
+𒋗𒈠𒄠 šu-ma-am common summon
+𒋗𒈠𒄠 some other function
+
+𒇷𒊒𒌨 li'ru-ur
+𒇷𒊒𒌨 li'ru-ur хараал xaraal קְלָלָה k'lalá ללה klole kirous
+𒇷𒊒𒌨 curse <> raw evil
+
+𒊭𒈾𒀀𒀜 ša-na-a-at suns
+𒊭𒈾𒀀𒀜 years
+
+𒄷𒊭𒄴𒄭𒅎 ḫuⁿǧa-aḫ-ḫi-im
+𒄷𒊭𒄴𒄭𒅎 hungering (years)
+
+𒅅𒇷𒀉 𒆷 𒈾𒉿𒊑𒅎
+ik-li-it la na-wa-ri-im
+no light in the darkness
+
+𒄩𒆷𒀝 ḫa-la-aḳ kill/lack
+𒄩𒆷𒀝 loss (of city), tear up (foundation), torn up
+
+𒇷𒅖𒆪𒌦 li'iš-ku-un lösgen -𐌾𐌰𐌽 𐍆𐍂𐌰𐌻𐌹𐌿𐍃𐌰𐌽
+𒇷𒅖𒆪𒌦 lose
+
+𒈾𒁉𒅖𒋾 na-bi-iš-ti  ≈ 𓂜 ndaloj 
+𒈾𒁉𒅖𒋾 banish
+<>
+𒈾𒀸𒁍𒄴 na-aš-pu-uḫ 𓂜 hinaus¬spuck?
+𒈾𒀸𒁍𒄴 na-aš-pu-uḫ >> naƒphy > نَفْي nafy
+𒈾𒀸𒁍𒄴 naʳ•-pu-uḫ निर्वासन nirvāsan
+𒈾𒀸𒁍𒄴 exile
+
+𒈬𒁲 mu-di mudi √mot 
+𒈬𒁲 muⁿdi √mend mind
+𒈬𒁲 know 𓄣
+
+𒈬𒊭𒊑𒆪 mu-ša-ri-ku µ-streck
+𒈬𒊭𒊑𒆪 lengthen
+
+
+𒇷𒀉𒋫𒅈𒊒 li'it-ta-ar-ru
+𒇷𒀉𒋫𒅈𒊒 turn (into) 𓂋 
+
+𒈪𒅆𒁴 mi-ši-tim √miss-x 𓏇 mist 𒈪   
+𒈪𒅆𒁴 confused
+
+𒀭𒊺𒌁 Ašnan
+𒀭𒊺𒌁 ŠE.TIR ≈ Saturn (agricultural deity) σιτάρι sitári !
+𒀭𒊺𒌁 ŠE.TIR ≈ 𓊨 𓁹 ≈ Osiris ≈ Ceres ≈ Cronus ≈ Kronos ≈ 𒃶 KAN •Korn
+𒀭𒊺𒌁 Grain <> 𒀭𒁕𒃶 Deo DA.GAN Dagan 𐤃𐤂𐤍 דָּגוֹן Dāgōn
 

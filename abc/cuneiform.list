@@ -1,5 +1,9 @@
 ### EXTRA those with NUMBER (…2 etc) need to go to BOTTOM of file!!
 # udug2    ŠITA₂
+ûmi 	𒈪
+U 	𒌑  	# ⚠️ TEMPORARY Hammurabi fix ⚠️
+IL 	𒀧 	# ≠ 𒀠 AL vs IL 𒅋 simplified orthography temporary or just Hammurabi?
+I	𒄿
 SHE 	𒊺
 ŠE 	𒊺
 SHAR 	𒊬
@@ -84,6 +88,7 @@ MIR 	𒂇
 šap 	𒉺𒅁 
 shap 	𒉺𒅁 
 bel 	𒂗 	 ⋍ 𒉺𒋼𒋛𒃻 Patesi ≈ puzur > pa'ria > 𒂗 Baal  
+Bêl 	𒂗 
 pah 	𒈜
 pah2 	𒆦𒋰
 paḥ 	𒆦𒋰
@@ -381,7 +386,7 @@ AM	𒄠
 AM3	𒀀𒀭	*
 AM6	𒀭
 
-AMA	𒂼 Mama : mother!!	𒂷*𒀭 Gaia?
+AMA	𒂼 	Oma≈Mama 𒂷*𒀭 Gaia?
 AMA5	𒃣
 AMAGI	𒈻 ^^ 𒈹 mother!
 AMAGI2	𒀀𒈹𒁲	*	mAma-Gaia?
@@ -547,7 +552,7 @@ DAḪ	𒈭
 DAL	𒊑
 DALLA	𒈦𒄘𒃼	*
 DAM	𒁮
-DAN 	𒃉
+DAN 	𒆗
 DAN2 	𒃉 	≈ DGEN 𒂷
 DAN3	𒃩
 DAN4	𒃋
@@ -864,7 +869,6 @@ HU 	𒌨
 ḪUR	𒄯
 ḪUŠ	𒄭𒄊	*
 ḪUŠ(LAK240)	𒍽
-I	𒄿
 I3	𒉌
 IA	𒅀
 IA3	𒉌
@@ -3687,6 +3691,7 @@ qú 	𒆪  	# 𒇻 sic
 dup 	𒁾
 Adad 	𒅎
 GÀR 	𒃼
+ḳar 	𒃼
 Ì 	𒉌
 bar4 	𒌓 	#bir2 really!
 pî 	𒅗 	#semitic pu
@@ -3718,6 +3723,7 @@ abnim 	𒅔𒌓
 mal 	𒋛 	≈𒈠 ma ≈ 𒂷
 bît 	𒂍
 ḳal	𒆗
+ḲA 	𒋡
 ʾì 	𒄭
 ʾi3 	𒄭
 ṭár 	𒁯
@@ -3759,3 +3765,108 @@ amat  	𒊩𒆳
 šiḳil 	𒂅 		#GÍN
 GÍR 	𒄈	
 SI20 	𒀋 	𒀊·𒉺 ≈ 𒀋 ≈ 𒍢 ZE 𒀊·𒉺 	 AB × PA (missing unicode) 
+šitim 	𒁶
+bânîm 	𒁶
+NET 	𒍑 	# ⁿuš 
+NED 	𒍑 	# ⁿuš 
+NIT 	𒍑 	# ⁿuš 
+NID 	𒍑 	# ⁿuš 
+suluppam 	𒄑𒅗𒈝
+SÍG	𒋠
+má 	𒈣
+ṭe4 	𒋼
+alpam 	𒄞
+šattim 	𒈬
+imêram 	𒌉𒄊
+šēp 	𒄊
+zibba 	𒈦𒆕 	#𒍦𒁀𒌅 	zib-baⁿ-tu Schwanz 	𒍨 ZIB₂ 
+warad 	𒀴
+ÁB 	𒀖 
+LÂ 	𒇲
+ZUN 	𒄭𒀀 	# ≈ ḪI.A plural 𒀖𒄞𒄭𒀀 LID.GUD.ZUN = ÁB.GUD.ḪI.A 
+tarbaṣim 	𒉣𒁀 	#sheepfold
+TUR3 	𒉣𒁀 	≈	𒉣𒇬
+TÙR 	𒉣𒁀 
+lalâm 	𒈧
+GÍD	𒁍
+NIEŠ 	𒑗 	(3 𒐈 ≠ 𒀀 )
+PI3 	𒑗 	(3 𒐈 ≠ 𒀀 )
+ṣumba 	𒄑𒈥𒁍𒁕 	#giš.MAR.GÍD.DA 𓌝
+ûmi 	𒄭
+lú 	𒇽
+ḫun 	𒂠
+še20 	𒅆
+ITU 	𒌗
+aḳ 	𒀝
+b 	⫻ 	# blank missing
+⫻ 	⫻
+mâr 	𒌉
+Šamâs 	𒌓
+tub 	𒁾
+' 	𒄴  	# grrr Aʾ ≠ '
+Ê 	𒂍
+zêr 	𒀫 	# zur≈ 𒈨𒌍 ≈ 𒋾 TI ⇔ 𒅆 ŠI  
+ŠIŠ 	𒋀
+ḳum 	𒄣
+NER 	𒄊 	# 𒆧 KIŠ in 𒂍𒄊𒉡𒃲 Ekishnugal = Egišnugal
+kakka 	𒀯
+ḫaṭṭa 	𒄑𒉺
+ḫaṭṭu 	𒄑𒉺
+ḫaṭṭi 	𒄑𒉺
+ilu 	𒀭	
+ilum 	𒀭	
+ili 	𒉌𒉌 	!	
+ilim 	𒀭	
+irṣitim 	
+išid 	
+kakka 	𒄑𒆪
+kakki 	𒄑𒆪
+kakkim 	𒄑𒆪
+kussām 	
+libit 	
+mâram 	
+mârat 	
+mât 	𒌦
+mâtim 	𒌦
+melam 	𒈨𒃼𒄑 <> 𒈨𒉈	me-lim₄ splendour
+Nanâ 	𒈹
+nârâti 	
+palî 	𒁄  	#PAL
+puhri 	
+rabûti 	
+rêum 	𒉺𒁳 	
+rubûm 	
+rụ 	
+tahazim 	
+û 	
+ummum 	
+ȧ 	
+ṣab 	
+ḳablê 	
+ṣalam 	
+ṣalmi 	
+ḳam 	
+ṭam 	
+šamê 	
+šarrum 	
+šîram 	
+ạt 	
+ṣur 	
+marduk 	𒀫𒌓
+mât 	𒌦
+bītim 	𒂍
+Šamaš 	𒌓
+šamê 	𒊭𒈨𒂊
+irṣitim 	𒅕𒍣𒁴
+ḳam 	𒄰
+SAǦ 	𒊕
+ÍL 	𒅍
+Esagila 	𒂍𒊕𒅍𒆷
+ṣalmi 	𒀩
+ṣur 	𒄢?
+Bêlit 	𒊩𒌆  
+û 	𒌓
+abkal 	𒉣𒈨 	# counsellor
+Ašnan 	𒊺𒌁
+išid 	𒍑 	#uš foundation
+šîram 	𒁖𒆨??  	divination?
