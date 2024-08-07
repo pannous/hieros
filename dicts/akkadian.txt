@@ -1,3 +1,9 @@
+https://en.wiktionary.org/wiki/Category:Akkadian_lemmas
+
+https://en.wiktionary.org/wiki/Category:Akkadian_verbs
+https://en.wiktionary.org/wiki/Category:Akkadian_adverbs
+
+
 /S,I'(/) 	gir-ram-/ḫar-ra-nam gir-ram-/ḫar-ra-nam sa-ba-tu
 /S,I'(/) 	seize the road
 
@@ -566,7 +572,7 @@ qaš𒌅 	adze, axe, bow
 𒀝𒃶𒉡 	ak-kan-nu a'kunga
 𒀝𒃶𒉡 	wild ass
 
-𒀝𒄑 	  ag-giš angrys
+𒀝𒄑 	  ag-giš angrys NG!
 𒀝𒄑 		angrily
 ≈
 𒀝𒄖 	ag-gu angry
@@ -574,6 +580,15 @@ qaš𒌅 	adze, axe, bow
 <>
 𒄑𒍪 	ez-zu
 𒄑𒍪 	angry, furious
+≈
+𒄑𒍥𒅖 iz-zi-iš
+𒄑𒍥𒅖 angrily (thunder)
+<>
+𒇷𒅖𒋛𒈠 li'is-si-ma •lightning
+𒇷𒅖𒋛𒈠 thunder (verb)
+<>
+𒇷𒅖𒍥𒄑 li'iš-zi-iz
+𒇷𒅖𒍥𒄑 stand (victorious over)
 
 𒀝𒆪𒋃𒆪 	ak-ku-lak-ku ;)
 𒀝𒆪𒋃𒆪 	a vegetable •Kohl
@@ -2684,7 +2699,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅆𒍪 	ši-zu
 𒅆𒍪 	one-third cubit
 
-𒅆 𒉡 	lem-nu
+𒅆𒉡 	lem-nu
 𒅆𒉡 	•myg-nu micro vs macro!
 𒅆𒉡   •SIG₇-nu sick, slight
 𒅆𒉡 	bad, light, little, slight
@@ -2915,6 +2930,9 @@ vs
 𒅕𒌅 	ᵇir-ˢtu breast
 𒅕𒌅 	breast, chest
 
+𒅕𒍢𒁴 ir-ṣi-tim 
+𒅕𒍢𒁴 earth™
+≈
 𒅕𒋛𒌅 	er-se-tu earth
 𒅕𒋛𒌅 	ᵇer-s-t earth “first” בראשית <> proto 
 𒅕𒋛𒌅 	earth, land, underworld
@@ -3208,8 +3226,9 @@ vs
 𒆕𒆠𒆪 	kak-ki-ku
 𒆕𒆠𒆪 	recorder
 
-𒆕𒆪 	kak-ku
-𒆕𒆪 	stick, weapon
+
+𒆕𒆪 	kak-ku ≈ 𒄑𒆪 kakka
+𒆕𒆪 	stick, weapon (sword)
 
 𒆕𒆰𒇻 	kak-kul-lu
 𒆕𒆰𒇻 	mash-tubg
@@ -5201,7 +5220,10 @@ ship’s cabin ___ zun ~ 𒋩 ?
 𒉡𒉡 	fish
 
 𒉡𒊒 	nu-ru
-𒉡𒊒 	light, shine
+𒉡𒊒 	light , shine
+
+𒉡𒉿𒊑𒅎 nu-wu-ri-im 
+𒉡𒉿𒊑𒅎 illuminating
 
 𒉡𒋗 	nu-šu
 𒉡𒋗 	a plant, sputum?, vomit
@@ -6823,6 +6845,9 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋛𒊒 	si-ru sûr super
 𒋛𒊒 	supreme, exalted, outstanding, splendid, upperside
 
+𒈬 𒍢𒅕 mu.ṣi-ir
+𒈬𒍢𒅕 (make) exalt
+
 𒋛𒊒 	si-ru ~smear sirup
 𒋛𒊒 	smear, plaster
 
@@ -8257,6 +8282,7 @@ _𒍣𒊑𒌝 	a gold object?
 𒍪𒌅 	zu-tu 
 𒍪𒌅 	a fish
 
+𒍮𒁍 	zum-bu finger-nail ?
 𒍮𒁍 	zum-buˡ [[𓆦]] fly, Brummer  ( [[onomatopoeia]] : summ / zoom ) ++
 
 𒍮𒊏𒉪𒊒𒌅 	zum-ra nur-ru-ṭu
@@ -8589,6 +8615,9 @@ namrūtu 𒉆𒊒𒋾
 𒀀𒅆𒁍  a-si-bu
 𒀀𒅆𒁍     magician, sorcerer
 
+𒅆𒁍𒌓 ši-bu-ut šībūt 𓋴 𓃀 𓇼 𓄿 𓀜 
+𒅆𒁍𒌓 testimony
+<>
 𒀀𒅆𒁍𒋾 a-ši-bu-ti reside √seat sit 𓈙 𓊪 𓋴 𓋴 𓀻 𓏥 
 āšib 𒀀𒅆𒅁,𒀀𒈨
 āšibat 𒀀𒅆𒁁
@@ -9086,7 +9115,11 @@ in midst of the sea I saw maliciousness
 
 𒌑 𒉺𒅁𒄵 u2-sab-bir (ver)zerbreche
 
-𒀀𒊬 ᵖaˡsar place
+𒀀𒊬 a-šar ᵖaˡsar 
+𒀀𒊬 place
+
+𒀀𒊬 𒌓𒄩𒊑𒅎 a-šar tam-ḫa-ri-im 
+𒀀𒊬 𒌓𒄩𒊑𒅎 battlefield @ time-guerring
 
 𒉿𒊕𒋾 piʳsak-ti pro-sagt vorhersage "oracle"
 
@@ -9851,7 +9884,7 @@ at the glance of his eyes
 𒅁𒋼𒈠 	open, release(d)
 
 𒅁𒋼𒋼 ip-te-te
-𒅁𒋼𒋼 open (ed)
+𒅁𒋼𒋼 open (ed) <> 𒋼𒋼 Tauri ≈ Tür / Tor / door 𒄩𒀠𒋼𒋼 doorpost
 
 𒋛𒄀𒀀 MAL.GE.A gagîm  communal house
 
@@ -10605,6 +10638,10 @@ ippal pay, compensate
 𒍥𒀉𒋾 zi-it-ti "side"
 𒍥𒀉𒋾 share
 
+𒇷𒅁𒁀 li-ib-ba LIBBU Leib! 
+𒇷𒅁𒁀 heart, midst
+
+
 𒇷𒅁𒁀 𒊭 𒌑𒁕𒀊𒁍
 𒌑𒁕𒀊𒁍 u2-ṭa-ab-bu √top
 𒌑𒁕𒀊𒁍 comfort (her heart)
@@ -10772,6 +10809,13 @@ If a man has knocked out the tooth of a man of his own rank, his tooth will be k
 mišil    šīmīšu išaqqal (PUN) 𓏇 
 he'll weigh out half his value (𒉛 sam₂ "sum")
 
+𒇷𒅀𒌝 li-ia-um
+𒇷𒅀𒌝 powerful, mighty
+<>
+𒇷𒂊𒀉 li-e-it livit √live
+𒇷𒂊𒀉 liᵛe-it vita
+𒇷𒂊𒀉 health, strength; person
+
 𒇷𒂊𒀉 le-e-et lēt ≈ לֶחִי lekhi לְחִי 
 𒇷𒂊𒀉 leⁿe-et ланита lanita  <<< see UN
 𒇷𒂊𒀉 cheek <> lenient leniency lēnis (“soft”)
@@ -10852,7 +10896,7 @@ PUN ZONE??
 𒄿𒁕𒊍 deceive
 <>
 𒄿𒁺𒌑 ᵛi-du-ú video
-𒄿𒁺𒌑 wit, see
+𒄿𒁺𒌑 wit, see, acknowledge
 <>
 𒄿𒈾 𒄿𒁺𒌑 i-na ᵛi-du-ú
 𒄿𒈾 𒄿𒁺𒌑 wittingly
@@ -11044,6 +11088,9 @@ oversee his field
 
 𒌑𒌒𒁀𒄠 u2-ub-ba-am
 𒌑𒌒𒁀𒄠 absolve
+
+𒇷𒁉𒀉 li-bi-it √beat 
+𒇷𒁉𒀉 stroke, visitation
 
 𒇷𒁉𒀉 li-bi-it
 𒇷𒁉𒀉 act (of god)
@@ -11270,6 +11317,8 @@ cannot perform his father’s ilkum-service
 𒉿𒀸𒊒𒌝 𒈬𒍑𒋼𒈪𒄣 wa-aš-ru-um mu-uš-te-mi-ḳum 
 𒉿𒀸𒊒𒌝 𒈬𒍑𒋼𒈪𒄣 the humble and clever one
 
+𒅁𒉌 ib-ni born
+𒅁𒉌 raise (family)
 𒅁𒉌𒌑 ib-ni-u ebenen- erbauen
 𒅁𒉌𒌑 create
 
@@ -11290,11 +11339,6 @@ the almighty judge in heaven and earth,
 𒅆𒅅 igi-gal2 igigallim
 𒅆𒅅 omniscience
 
-𒊭𒀊𒇷𒅖 ša-ap-li-iš šapliš √sub
-𒊭𒀊𒇷𒅖 under(neath)  ( vs 𒂊𒇷𒅖 eliš )
-
-𒂊𒇷𒅖 eliš
-𒂊𒇷𒅖 above
 
 𒅁𒁍𒌑𒎏𒉌𒈠 ib-bu-u-nin-ni-ma
 𒅁𒁍𒌑𒎏𒉌𒈠 nominated me
@@ -11308,10 +11352,12 @@ the almighty judge in heaven and earth,
 𒌓𒇷 BIR.LI ברכא birkā "knee"
 𒌓𒇷 knee
 
+𒆷𒈠𒍮 la'ma-zum ≈
 𒆷𒈠𒍥 la'ma-zi حماية al'ḥimāyaˢ हिमायत himāyatˢ
-𒆷𒈠𒍥 la'ma-zi mühafizə محافظت l'mohâfezat مُحَافَظَة muḥāfaẓa
-𒆷𒈠𒍥 la'ma-zi 𓅓 𓂝 𓎡 𓏏 𓏛 
-𒆷𒈠𒍥 protection 
+𒆷𒈠𒍥 la'maᶠzi mühafizə محافظت l'mohâfezat مُحَافَظَة muḥāfaẓa
+𒆷𒈠𒍥 la'maˣzi 𓅓 𓂝 𓎡 𓏏 𓏛 
+𒆷𒈠𒍥 protection, protecting deities, lamazzī, LAMASSU 𒀭𒆗
+
 
 𒀜𒋰𒁀𒀠 at-tab-ba-al √top √baal √ø
 𒀜𒋰𒁀𒀠 govern 
@@ -11330,16 +11376,32 @@ the almighty judge in heaven and earth,
 𒂍𒊕𒅍𒆷 É-SAǦ-ÍL.LA
 𒂍𒊕𒅍𒆷 devine tepe, "temple whose top is lofty"
 
+𒋗𒉺𒀀𒀜 šu-pa-a-at super
+𒋗𒉺𒀀𒀜 surpass, outshine
 
 𒋗𒌅𒊒 šuᵖtu-ru
 𒋗𒌅𒊒 superior
 𒋗𒌅𒊒 better <> # 𒌅 podest подобар podobar 𐌱𐌰𐍄𐌹𐌶𐌰 batiza बेहतर behtar بِهتَر behtar بختر bextar βέλτερος bélteros 
+
+
+𒂊𒇷𒅖 eliš
+𒂊𒇷𒅖 above
+
+𒊭𒀊𒇷𒅖 ša-ap-li-iš šapliš √sub
+𒊭𒀊𒇷𒅖 under(neath)  ( vs 𒂊𒇷𒅖 eliš )
 
 𒇷𒅖𒋫𒀾𒋛 li-is-ta-aš2-si lištassi √lese
 𒇷𒅖𒋫𒀾𒋛 read out aloud (message on stone)
 <>
 𒇷𒅖𒈨 li-iš-me
 𒇷𒅖𒈨 listen
+
+𒇷 𒅖𒆪𒌦 li'iš-ku-un lösgen -𐌾𐌰𐌽 𐍆𐍂𐌰𐌻𐌹𐌿𐍃𐌰𐌽
+𒇷𒅖 𒆪𒌦 li'iš ku-un lösgen -𐌾𐌰𐌽 𐍆𐍂𐌰𐌻𐌹𐌿𐍃𐌰𐌽
+𒇷𒅖𒆪𒌦 lose
+
+𒇷𒅖𒁉𒅕 li'iš-bi-ir 
+𒇷𒅖𒁉𒅕 break, shatter (weapon on battlefield)
 
 
 𒈾𒊒𒄿 na-ru-i narui ≈ 𒎎 𒉌𒌓 ni'ra @ 𓇋 𓈖 𓂋 𓊌 | stone, rock | אֶבֶן éven 
@@ -11363,7 +11425,18 @@ the almighty judge in heaven and earth,
 𒅁𒁀𒀸𒋗𒌑 ib-ba-aš-šu-u ibbaššû •emboss 
 𒅁𒁀𒀸𒋗𒌑 appears
 
-𒅕 𒊑𒀉 ʷir-ri-it writ
+
+𒄿𒄀𒅕𒊑𒂊 i-gi.ir-ri-e 𓂋 𓄭 𓀁 
+𒄿𒄀𒅕𒊑 i-gi.ir-ri
+𒄿𒄀𒅕𒊑 petition(s), request(s)
+<<
+𒅕𒊑𒁴 ʷir-ri-tim  𓄭 𓂋 𓏏 𓀁 
+𒅕𒊑𒁴 word(ing)
+≈
+𒅕𒊑𒌓 ʷir-ri-tam
+𒅕𒊑𒌓 writing
+≈
+𒅕𒊑𒀉 ʷir-ri-it writ ≈ word
 𒅕𒊑𒀉 writing, threatened curses (𒀭 god's)
 𒅕𒊑𒋾 ʷir-ri-ti writ
 𒅕𒊑𒋾 writing, threatened curses (𒅀 my)
@@ -11443,11 +11516,11 @@ Let him consider their problems,
 𒋛𒉆 si-nam ṣēnam syndig
 𒋛 𒉆 sin, wickedness
 
-𒇷𒅗𒄴 li'zu-uh lissuḫ aus-löschen
+𒇷𒅗𒄴 li'zu-uh lissuḫ aus-löschen ¬zieh
 𒇷𒅗𒄴 weed out (evil and wickedness)
 
 𒆠𒈾𒁴 ki-na-tim Kenntnis
-𒆠𒈾𒁴 truth
+𒆠𒈾𒁴 truth, justice << Gönnertum <> consiliārī
 
 𒅖𒊒𒆪 iš-ru-ku
 𒅖𒊒𒆪 entrust
@@ -11483,7 +11556,7 @@ Let him consider their problems,
 𒊭𒈾𒀀𒀜 years
 
 𒄷𒊭𒄴𒄭𒅎 ḫuⁿǧa-aḫ-ḫi-im
-𒄷𒊭𒄴𒄭𒅎 hungering (years)
+𒄷𒊭𒄴𒄭𒅎 hungering (months/years), famine
 
 𒅅𒇷𒀉 𒆷 𒈾𒉿𒊑𒅎
 ik-li-it la na-wa-ri-im
@@ -11491,9 +11564,6 @@ no light in the darkness
 
 𒄩𒆷𒀝 ḫa-la-aḳ kill/lack
 𒄩𒆷𒀝 loss (of city), tear up (foundation), torn up
-
-𒇷𒅖𒆪𒌦 li'iš-ku-un lösgen -𐌾𐌰𐌽 𐍆𐍂𐌰𐌻𐌹𐌿𐍃𐌰𐌽
-𒇷𒅖𒆪𒌦 lose
 
 𒈾𒁉𒅖𒋾 na-bi-iš-ti  ≈ 𓂜 ndaloj 
 𒈾𒁉𒅖𒋾 banish
@@ -11505,11 +11575,17 @@ no light in the darkness
 
 𒈬𒁲 mu-di mudi √mot 
 𒈬𒁲 muⁿdi √mend mind
-𒈬𒁲 know 𓄣
+𒈬𒁲 know 𓄣 knowledge wisdom
+
+𒅆𒃲𒅎 igi-gal-im
+𒅆𒃲𒅎 great, deep (wisdom)
 
 𒈬𒊭𒊑𒆪 mu-ša-ri-ku µ-streck
 𒈬𒊭𒊑𒆪 lengthen
 
+𒇷𒋼𒅕 re'te-ir retirar
+𒇷𒋼𒅕 li'te-ir let tear leuter > lev'er > levar
+𒇷𒋼𒅕 remove, turn into (ruin), change <> left lose tirar retirar
 
 𒇷𒀉𒋫𒅈𒊒 li'it-ta-ar-ru
 𒇷𒀉𒋫𒅈𒊒 turn (into) 𓂋 
@@ -11522,3 +11598,295 @@ no light in the darkness
 𒀭𒊺𒌁 ŠE.TIR ≈ 𓊨 𓁹 ≈ Osiris ≈ Ceres ≈ Cronus ≈ Kronos ≈ 𒃶 KAN •Korn
 𒀭𒊺𒌁 Grain <> 𒀭𒁕𒃶 Deo DA.GAN Dagan 𐤃𐤂𐤍 דָּגוֹן Dāgōn
 
+𒊺𒊑𒅗 še-ri-zu šerizu sahra sun
+𒊺𒊑𒅗 brilliance
+
+𒇷 𒁲𒅔
+𒇷𒁲𒅔 li'di-in halten, denken عَدَّ ʕadda
+𒇷𒁲𒅔 consider
+
+𒁍𒊒𒍝 pu-ru-za присъ́да prisǎ́da +++
+𒁍𒊒𒍝 verdict ≈ верди́кт <> pure ве́рны ве́рен ≈ true
+𒁍𒊒𒍝 pu-ru-za <> precise persian pros presch Beschluss 
+𒁍𒊒𒍝 decision
+<>
+𒇷 𒅁𒊒𒍑 √𒁍𒊒𒍝 pu-ru-za decision
+𒇷𒅁𒊒𒍑 li'ip-ru-uš < l'breith раша́ць ᵖrašácʹ prosag
+𒇷𒅁𒊒𒍑 decide 
+
+𒄿𒄬𒇷𒆪 iʳḫal-li-ḳu erhole
+𒄿𒄬𒇷𒆪 recover
+
+𒇷𒈬𒅗𒈠 li'mu-zu-ma
+𒇷𒈬𒅗𒈠 impose (punishment & condemnation)
+
+𒄰𒈠𒀠 kam-ma-al camel;) com-mal ᵏemsal 
+𒄰𒈠𒀠 rival ≠ 𓄟 𓋴 𓂧 𓅂 ≈ 𒃮𒋗𒃻
+
+𒇷𒊭𒀜𒁲𒉈 li'ša ad-di bar₇ne
+𒇷𒊭𒀜𒁲𒉈 li'ša-ad-di-bil
+𒇷𒊭𒀜𒁲𒉈 li'ša-ad-di-ne
+𒇷𒊭𒀜𒁲𒉈 bring face to face  
+
+𒇷𒄬𒇷𒅅 li'ḫal-li-iḳ
+𒇷𒄬𒇷𒅅 kill, destroy (land)
+
+𒁍𒁍𒁴 bu-bu-tim bubūtim @ Babel?
+𒁍𒁍𒁴 bubonic plague, pestilence
+
+
+𒌨 𒊕 ʷursaĝ warrior √war
+𒌨𒊕 ᵍursaĝ √guerre
+≈
+𒃼𒊏𒁺𒌝 gar-ra-du-um garradum qarrādum √guerre <> əsgər 𒄞𒌓 gudari çарçӑ (çarçă)
+𒃼𒊏𒁺𒌝 warrior ≈ guerrier guerreiro Krieger 
+≈
+𒄞𒌓 guʳud ≈ garradum 𒃼𒊏𒁺𒌝 !
+𒄞𒌓 gu-ud gud gudari @ Basque!
+𒄞𒌓 warrior
+
+𒌓𒄩𒊑𒅎 tamᵍḫa-ri-im √ guerre
+𒌓𒄩𒊑𒅎 battlefield
+
+𒀀𒇷𒆪 	a-li-ku
+𒀀𒇷𒆪  ally, companion (𒅀 my)
+
+𒍣𒊒𒌝 ṣi-ru-um 
+𒍣𒊒𒌝 exalted ≈
+𒍢𒅕𒌈 ṣi-ir-tum ṣirtum 
+𒍢𒅕𒌈 noble
+𓋴 𓂋 𓀔 𓀀 | nobleman, magistrate | सरदार sardar signore Syrer™ 
+𓋴 𓂋 𓀔 𓀀 | nobleman, magistrate | граф Graf ≈ Giraffe
+𓋴 𓂋 𓃱    | giraffe  | 𒁍 SÍR √groß high Hohes Tier
+
+𒆰 𒀀𒉿𒇻𒁴 zêr a-wi-lu-tim 
+𒆰 𒀀𒉿𒇻𒁴 zēr awīlūtim
+𒆰 𒀀𒉿𒇻𒁴 family
+
+𒀭𒎏𒋼𒀀𒊏𒀝 ilu.NIN KAR.RAⁿAK Ninkarrak 𓃡 Gula Nikarawa Ninisina Nintinugga
+𒀭𒎏𒋼𒀀𒊏𒀝 Krankheit (goddess of illness, divine physician) 𒀀𒋢 Arzt
+
+𒀉𒉺 a2-pa #asakkam ASAKKU
+𒀉𒉺𒊺 a₂.pa-še
+𒀉𒉺𒊺 a₂.paᵗše πάθηση páthisi pathos
+𒀉𒉺𒊺 disease
+<>
+𒄿𒉺𒀸𒊺𒄷 i-pa-aš-še-ḫu <> vapauttaa успокоявам
+𒄿𒉺𒀸𒊺𒄷 relieve (pain)
+
+𒊺𒁉𒅕 𒌓 še-bi-ir-ud zerberste, zerbreche
+𒊺𒁉𒅕𒌓 broke(n)
+
+𒆷𒄴𒁍𒌝 la¬būm Unwohl √bom <> mal
+𒆷𒄴𒁍𒌝 fever, disease
+
+𒋗𒆸 ≈ #puḫri
+𒋗𒆸 all assembled together <> pan
+
+𒊺𒀉 še-it 
+𒊺𒀉 protectors <> ṣalûl ṢILU ṣillī
+
+𒅈𒄭𒅖 ar-ḫi-iš 𓄭 𓂻 | arrive, reach, come | arriba
+𒅈𒄭𒅖 arise, immediately come
+
+𒇷𒅅𒋗𒁕 li'ik-šu-da
+𒇷𒅅𒋗𒁕 overpower?
+
+𒌓𒋫𒀝𒅗𒊒 ut-ta-bak-ka-rụ
+𒌓𒋫𒀝𒅗𒊒 change (attack fame, word, mouth)
+
+𒆒 napāšum “to breathe” 𒍣 napištum “life” نَفْس nafs “a soul, a life” ነፍስ näfs 
+<>
+𒈾𒁉𒅖𒋫 na-bi-iš-ta 𓂉 נֶפֶשׁ néfesh shoul
+𒈾𒁉𒅖𒋫 spirit
+
+𒄿𒁉𒂖𒇻𒌑 i-bi-el-lu-u über übel blow (out) 
+𒄿𒁉𒂖𒇻𒌑 exhaust(ed) (spirit)
+
+𒀉𒇻𒋾 id-lu-ti idol Leute
+𒀉𒇻𒋾 fellow men
+
+𒇷𒀉𒁮𒈠𒄠 li'id-dam-ma-am leiden
+𒇷𒀉𒁮𒈠𒄠 groan
+
+𒅅𒈪𒇻 ig-mi-lu √mild
+𒅅𒈪𒇻 show favour
+≈
+𒂵𒈪𒀧 ga-mi-il gemild
+𒂵𒈪𒀧 show favour
+
+𒈬𒌓𒁲𒅖 mu-ud-di-iš
+𒈬𒌓𒁲𒅖 make new
+
+𒄦𒄦 karê 𒄦 guru₇ cairn
+𒄦𒄦 granaries
+
+𒈬𒂵𒅈𒊑𒅔 mu.ga-ar-ri-in make grain
+𒈬𒂵𒅈𒊑𒅔 fill up the granaries
+
+𒈬𒄩𒀜𒁲 mu.ḫa-ad-di make glad 
+𒈬𒄩𒀜𒁲 make rejoice
+
+𒈬𒍑𒋫𒀸𒄭𒅕 mu.uš-ta-aš-ḫi-ir √aus-strahl
+𒈬𒍑𒋫𒀸𒄭𒅕 make shine
+
+𒈬𒉺𒄴𒄭𒅕 mu.pa-aḫ-ḫi-ir make packir / part 𓅓 𓉐 𓂋 𓂻  <> съби́рам sǎbíram 𓋴 𓉐 𓂋 𓂻
+𒈬𒉺𒄴𒄭𒅕 gather
+
+𒈬𒊭𒀝𒇷𒀧 mu.ša-ak-li-il
+𒈬𒊭𒀝𒇷𒀧 fulfils (oracle)
+
+𒈬𒊭𒀜𒁲𒀧 mu.ša-ad-di-il make settle
+𒈬𒊭𒀜𒁲𒀧 develop (land)
+
+𒈬𒊬𒅆𒀉 mu.šar-ši-id 
+𒈬𒊬𒅆𒀉 establish (residence)
+
+𒈬𒍑𒋼𒄑𒁉 mu.uš-te-iṣ-bi establish
+𒈬𒍑𒋼𒄑𒁉 organize
+
+𒈬𒍑𒋫𒀝𒆠𒅔 mu-uš-ta-ak-ki-in aus-tragen
+𒈬𒍑𒋫𒀝𒆠𒅔 maintain (ceremonials)
+
+𒈬𒅗𒀭𒉌𒅖 mu-ka-an-ni-iš 
+𒈬𒅗𒀭𒉌𒅖 control
+
+𒈬𒊺𒌍𒆠 mu-še-eš-ki 
+𒈬𒊺𒌍𒆠 provide (water supplies)
+
+𒈬𒈾𒉿𒅕 mu-na-wi-ir √light [[𒉢]] NU ⋍ 𒉡𒊑 نُور nūr
+𒈬𒈾𒉿𒅕 brighten
+
+𒈬𒉈𒄴 mu-ne-iḫ √night მიჩუმება mičumeba
+𒈬𒉈𒄴 quieten
+
+𒈬𒊺𒁉 mu-še-ib-bi √show 𓋴 𓃀 𓇼 ⲥⲁⲃⲟ ⲥⲃⲱ
+𒈬𒊺𒁉 demonstrate (justice)
+
+𒈬𒊺𒅁𒁉 mu-še-ib-bi
+𒈬𒊺𒅁𒁉 silences (objectors)
+
+𒈬𒌓𒈨𒄴 mu.tam-me-iḫ 
+𒈬𒌓𒈨𒄴 grasp hold 
+
+𒈬𒆠𒀧 mu.ki-il √okel march course
+𒈬𒆠𒀧 send (food)
+
+𒈠𒅗𒇷 𒂖𒇻𒁴 ma-ka-li el-lu-tim √okel √alt/elevate
+𒈠𒅗𒇷 𒂖𒇻𒁴 mākalī ellūtim
+𒈠𒅗𒇷 𒂖𒇻𒁴 sacred food 
+
+𒀭𒅗 #ṣalûl ≈ 𒋻𒇻 sil-lu ظِلّ ẓill 𐎑𐎍 ẓl "shade" 
+𒀭𒅗 #ṣalûl ≈ 𒋻𒇻 sil-lu ظِلّ ẓill < 𓏏 𓏤 dell ظِلّ ḍill צֵל tzel "shade" @ Zelt 𓎅 ☑
+𒀭𒅗 #ṣalûl ≈ sol-ūl 𒌑𒌌 "no sun"
+𒀭𒅗 shade 𓆄 𓅱 𓏏 𓇳  𓋺  𓋻  𓋼 <> 𓎅 tent 𓄚 𓈖 𓋳 ?
+
+𒋗𒁀𒀜 šu-ba-at Stube™ √kur√beith
+𒋗𒁀𒀜 residence
+
+𒊓𒀊𒄩𒁴 sa-ap-ḫa-tim
+𒊓𒀊𒄩𒁴 scattered
+
+𒉌𒋛𒅔𒆠 Ì.SI.IN KI 
+𒉌𒋛𒅔𒆠 Isin 𓊖 [city]
+
+𒀀𒀀𒁉 a-a-bi
+𒀀𒀀𒁉 aʸa-bi אוֹיֵב oyév ☑
+𒀀𒀀𒁉 aᵇaᵇbi Babarian
+𒀀𒀀𒁉 aʳa-bi Arab
+𒀀𒀀𒁉 aⁿaᵐbi
+𒀀𒀀𒁉 enemy <>  אָיַב (“to hate, be hostile to”)
+
+𒀀𒊺𒅕 a-še-ir 
+𒀀𒊺𒅕 overseer <> 𓁹 𓊨 Osiris
+≈
+𒀀𒊭𒊑𒀉 a-ša-ri-id
+𒀀𒊭𒊑𒀉 leader <<
+
+𒂵𒁀𒀠 gaʳba-al qabal
+𒂵𒁀𒀠 Kabale, cabal, strife
+
+𒂊𒋼𒂖 e-te-el √tell elevate tall
+𒂊𒋼𒂖 most eminent
+
+𒂖𒇻𒁴 el-lu-tim √elevate
+𒂖𒇻𒁴 magnificent
+
+𒈬𒋰𒁉𒈝 mu-tab-bi-lum √top
+𒈬𒋰𒁉𒈝 clever / get things done ?
+
+𒁕𒀜𒈪 da-ad-mi > domos
+𒁕𒀜𒈪 communities
+
+𒈾𒁉𒄭 na-bi-ḫi √no… √neben
+𒈾𒁉𒄭 objectors
+
+𒌑𒊬𒁁𒌑 u-šar-be-u √sir
+𒌑𒊬𒁁𒌑 exalt
+
+𒍢𒊏𒄠 ṣi-ra-am √sir ☀
+𒍢𒊏𒄠 illustrious
+
+𒋳𒋗 šum-šu
+𒋳𒋗 (its) name!
+
+𒉺𒇷𒄴 pa-li-iḫ 
+𒉺𒇷𒄴 pa-r-iḫ peur fürcht
+𒉺𒇷𒄴 fear
+
+𒅀𒋾 ia-ti  << 𓂞
+𒅀𒋾 demonstrate (justice) 
+
+𒌑𒌌 𒄿𒋫𒅈𒈠 ú-ul i-ta-ar-ma 
+𒌑𒌌 𒄿𒋫𒅈𒈠 no longer √iter
+
+
+𒄿𒈠𒄩𒊒 i-ma-ḫa-ru er-halten <> 𒄩𒋗 	ḫa-šu er-haschen
+𒄿𒈠𒄩𒊒 receive 
+<>
+𒈠𒄩𒊒 	ma-ḫa-ru √𓄂 𒈠𒄯 ma-har
+𒈠𒄩𒊒 	confront, oppose, receive, to face
+
+𒍪𒅗𒆠𒆪 zu-ka-kiⁿ Zucchînû
+𒍪𒅗𒆠𒆪 Zucchini  (!?!)
+
+
+
+
+𒊭𒀠𒈠𒆪   𒋗𒇻𒌝𒅗    𒋗𒌒𒊏𒄠    (𒋗𒈝𒆠 𒋗𒌒𒊑𒅎)
+ša-al-ma-ku šu-lu-um-ka šu-up-ra-am (šu-lum-ki šu-up-ri-im)
+[šalmāku šulumka šupram (f: šulumki šuprīm)]
+I'm well. Write me about your well-being.
+
+𒀭𒈾𒉡𒌝 𒋗𒌌𒈬𒌝 [annānum šulmum] ― an-na-nu-um šu-ul-mu-um ― here (everything) is fine
+
+𒈪𒅎𒈠 𒌑𒌌 𒊭 𒈾𒀀𒁴 𒋗𒌌𒈬𒌝
+mi-im-ma u₂-ul ša na-a-dim šu-ul-mu-um
+[mimma ul ša na'ādim, šulmum]
+there is nothing to worry about, (everything) is well.
+
+𒀀𒈾 𒅀𒅆𒅎 𒋗𒌌𒈬𒌝 [ana yâšim šulmum] ― a-na ia-ši-im šu-ul-mu-um ― I am well.
+𒀀𒈾 𒅗𒅆𒅎 𒇻 𒋗𒌌𒈬𒌝 [ana kâšim lū šulmum] ― a-na ka-ši-im lu šu-ul-mu-um ― May you be well!
+
+𒄩𒈬𒌓𒌈 ḫamuttum 𓃹
+𒄩𒈬𒌓𒌈 haste  
+
+𒄩𒈬𒌓𒌓 (ḫa-mu-ut-tam)
+𒄩𒈬𒋫𒄠 (ḫa-mu-ta-am)
+𒄩𒈬𒌓𒁕𒄠 (ḫa-mu-uṭ-ṭa-am)
+𒄩𒈬𒌓𒋫 (ḫa-mu-ut-ta)
+𒄩𒈬𒌓…     at once, promptly, soon 2. previously
+
+𒂗𒉣 𒃻 𒄀𒉌𒂊 EN.NUN ša₂ gi-ne₂-e
+𒂗𒉣 𒃻 𒄀𒉌𒂊 "Diary"
+
+𒇺𒅆 liš-lim l'salam
+𒇺𒅆 may it be well
+
+𒑰𒄱𒋫𒃻𒋫 ar₂-ta-ša₂-ta Artašata Artaxerxes =
+𒑰𒁕𒊑𒐊𒀀𒈲 da-⸢ri⸣-ia-a-muš Darius
+
+𒀳 ABSIN 𒆠𒀸𒀸 Virgo
+
+𒉏𒁺 NIM GUB east
+𒉏𒁳 NIM DIB east
