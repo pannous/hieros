@@ -1320,7 +1320,7 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒂄 	ŠUL suhlen! ↔ Sau 𒋚 ŠAḪUL 𓃟
 
 𒂄𒇻𒈬 	šul-lu-mu •salam
-𒂄𒇻𒈬 	to pay off in full <> Schuld shild (“debt, fault, guilt”) sċyld kaltė PIE *skel- <> sell sold *selh₁-
+𒂄𒇻𒈬 	to pay off in full <> Schuld shild (“debt, fault, guilt”) sċyld kaltė PIE √skel- <> sell sold *selh₁-
 
 𒂄 𒇻 	šul-lu
 𒂄𒇻 	(big) wart, pockmark?
@@ -2297,7 +2297,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄯𒁀𒁉𒇻 	chamaeleon?
 
 
-𒄯𒁀𒋗 	ḫur-baʳ-šu | hoar frost |  +++ PIE *prews
+𒄯𒁀𒋗 	ḫur-baʳ-šu | hoar frost |  +++ PIE √prews
 𒄯𒁀𒋗 	ḫur-ba-šu | hoar frost | ҡырау qïrawᵘˢ
 𒄯𒁀𒋗 	ḫur-ba-šu | hoar frost | kuura(bus) <>  barrug reverse
 𒄯𒁀𒋗 	ḫur-ba-šu | hoar frost | ϫⲁϥ / ⲱϫⲉⲃ ⲱϫⲉϥ ⲟϫⲉⲃ 	<<
@@ -2833,7 +2833,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅎𒈨𒊒 	im-me-ru sheep
 𒇻 ᵡimmeru χίμαιρα khímaira “female goat ” from χίμαρος khímaros goat 
 𒇻 ᵡimmeru “sheep”
-𒇻 •morthu PIE *moysós “sheep, skin of sheep”  मेष meṣá میش miš “Mähs”
+𒇻 •morthu PIE √moysós “sheep, skin of sheep”  मेष meṣá میش miš “Mähs”
 <>
 𒅎𒈨𒊑 𒊭 𒁲 	im-me-ri ša-di
 𒅎𒈨𒊑 𒊭𒁲 	mountain, wild sheep
@@ -3695,7 +3695,7 @@ _𒆪𒊒 	dwarf, short (person)
 𒁓𒆰𒇻 	lapidary, seal-cutter  •Keiler Käuler
 <>
 𒆰𒇻 	kul-lu 
-𒆰𒇻 	to hold < herd < drive PIE *kel-   कलयति kalayati κέλλω kéllō Tocharian B käl- <> cattle
+𒆰𒇻 	to hold < herd < drive PIE √kel-   कलयति kalayati κέλλω kéllō Tocharian B käl- <> cattle
 <>
 𒆰𒇷𒍪 	kul-li-zu
 𒆰𒇷𒍪 	ox-driver
@@ -4615,12 +4615,12 @@ _𒆳 	five ⚠️
 𒈬 	m, mu
 𒈬 	(cultic, cosmic) order, pond, puddle, rules, water
 
-𒈬𒁺 	mu-du му́дар múdar “wise” PIE *mondʰh₁ros √mind(full) +++
+𒈬𒁺 	mu-du му́дар múdar “wise” PIE √mondʰh₁ros √mind(full) +++
 𒈬𒁺 	mu-du मेधा medhā 𐬨𐬀𐬰𐬛𐬁 mazdā
 𒈬𒁺 	mu-du <> magi <> mega much maha…
 𒈬𒁺 knowing, wise <> mondaine 
 <>
-𒈬𒁺 	mu-du му́дар múdar “wise” PIE *mondʰ
+𒈬𒁺 	mu-du му́дар múdar “wise” PIE √mondʰ
 𒈬𒁺 	a garment 𓋳 *mondʰ <> 𓏠 <> modern, mondaine
 
 𒈬𒁺𒇻 	mu-du-lu Mast ®
@@ -5648,7 +5648,7 @@ _𒉿𒁍 	enemy, villainous, wicked
 𒊏𒈠𒆪 	ra-ma-ku remku renku ရေချိုး rehkyui: PSM
 𒊏𒈠𒆪 	ra-ma-ku  𐎗𐎈𐎕 rḥṣ רָחַץ rakháts  [[𐎈]] ᵐḥ
 𒊏𒈠𒆪 	ra-ma-ku kumbah  reverse <> karigo --
-𒊏𒈠𒆪 	ra-ma-ku (re)mencuci mõskma mazgāt mȉti PIE *muH
+𒊏𒈠𒆪 	ra-ma-ku (re)mencuci mõskma mazgāt mȉti PIE √muH
 𒊏𒈠𒆪 	to bathe, wash 
 
 𒊏𒈪𒈬 	ra-mi-mu ~rumbling
@@ -6601,7 +6601,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 
 # RIG
 
-𒋆 𒋢 	rik-su rigging PIE *reyg- “to bind”
+𒋆 𒋢 	rik-su rigging PIE √reyg- “to bind”
 𒋆𒋢 	binding, bond , knot
 
 𒋆𒁍 	rik-bu
@@ -7056,7 +7056,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋢𒊒 | canal |	su-ruⁿᶜ ջրանցք ǰrancʿkʿ
 𒋢𒊒 | canal |	su-ru <> תְּעָלָה te'ala <> Tal 𓈋
 𒋢𒊒 | canal |	su-ru 水路 すいろ suiro (water-road)
-𒋢𒊒 | ditch | su-ru surco PIE *solk-o- (“furrow”) Latin sulcus  +++
+𒋢𒊒 | ditch | su-ru surco PIE √solk-o- (“furrow”) Latin sulcus  +++
 𒋢𒊒 | ditch | su-ru surco@Spain <> source surge
 𒋢𒊒 | ditch | su-ru sèquia 
 𒋢𒊒 | ditch | su-ru rasa revere
@@ -8311,7 +8311,7 @@ https://glosbe.com/akk/en/%F0%92%8A%AD
 
 
 
-# 	Cardinal numeral (masc.) 	Cardinal numeral (fem.) 	Congruence (Gender agreement of the cardinal numeral) 	Ordinal (masc.) 	Ordinal (fem.)
+# Cardinal numeral (masc.) 	Cardinal numeral (fem.) 	Congruence (Gender agreement of the cardinal numeral) 	Ordinal (masc.) 	Ordinal (fem.)
 1 	ištēn 	išteʾat, ištāt 	↔ ersten ais eins
 2 	šinā 	↔ twin!  šin vs MIN 𒋰 '2' 𒈫 
 3 	šalāš šalšum  shamnt 𓐍𓂸𓏏  chnt/khmt/shamn𓏏 Ϣomte@COPT 𓐍𓂸 SCHAM?  š↔twi/three  EŠ 3 𒀼 '3' 𒐁 ≠ 𒌍 30 𒑋 𒐗 ESH : ASH^3 
@@ -8414,7 +8414,7 @@ ana ṣēr mārīšu (up to his son).
 
 
 SEMITIC GRAMMAR!!
-# 	Stem 	Verb 	Description 	Correspondence
+# Stem 	Verb 	Description 	Correspondence
 I.1 	G 	PaRiS 	the simple stem, used for transitive and intransitive verbs 	Arabic stem I (fa‘ala) and Hebrew pa'al
 II.1 	D 	PuRRuS 	gemination of the second radical, indicating the intensive 	Arabic stem II (fa‘‘ala) and Hebrew pi‘el
 III.1 	Š 	šuPRuS 	š-preformative, indicating the causative 	Arabic stem IV (’af‘ala) and Hebrew hiph‘il
@@ -11927,11 +11927,25 @@ there is nothing to worry about, (everything) is well.
 
 𒀀𒇉 𒁄𒇻𒅗? ID₂.pal-lu-ka-[tu₄  Pallukat canal
 
-𒋛𒀀 DIR (ligature)
-𒋛𒀀 cloud(s)
+𒋛𒀀 DIR (ligature)   𒅎𒋛𒀀 #erpeˢtu аԥсҭцəа apstcəa 𒂊𒊑𒁍 e-re-pu 
+𒋛𒀀 cloud(s) 𓎼 𓊪 𓇲 
 
-𒋛𒀀𒀭 DIR.AN 
+𒋛𒀀𒀭 si.bu.an 𓎼 𓊪 𓈗 𓈖 𓈗 | cloudburst | Kübel'n / kippen > gib'en > schiffen
+𒋛𒀀𒀭 si.bu.an سحابة saḥābaⁿ
+𒋛𒀀𒀭 DIR.AN 𒋙𒋙 •ŠIR •CIR < 𓈎 𓂋 𓊡 ქარი kʰɑri クリ kuri coort
 𒋛𒀀𒀭 clouds in the sky
+
+𒋙𒋙		ŠU₂.ŠU₂ 𓋴 𓍿 𓊃 𓅱 𓍞 •scuzu / 𓊃 𓍿 𓊃 𓆱 sṯzw
+𒋙𒋙		•ŠIR₂ 𒋛𒀀 سِحَابَة siḥāba
+𒋙𒋙		ŠU₂.ŠU₂ •ŠUIR 𒋛𒀀 SI.A #DIR 
+𒋙𒋙		ŠU₂*2 skýjaður skyet sgòthach  šg≈g: جڑ juř
+𒋙𒋙		ŠU₂im ≈ غائم ḡāʔim zamračený samdrigin ღრუბლიანი ɣrubliani 
+𒋙𒋙 	very overcast
+
+𒋙 ŠU₂ συννεφής sunnephḗs
+𒋙 ŠU₂ synkkä 阴沉 yīnchén
+𒋙 ŠU₂ coperto covered
+𒋙 overcast, cloudy
 
 𒀭𒉈 AN.BAR₇ •don.por по́лдень póldenʹ
 𒀭𒉈 AN.NE  •ne.an
@@ -11946,11 +11960,6 @@ there is nothing to worry about, (everything) is well.
 𒆥𒋝 	KIN.SIG
 𒆥𒋝 	afternoon
 
-𒋙𒋙		ŠU₂.ŠU₂
-𒋙𒋙 	very overcast
-
-𒋙 ŠU₂
-𒋙 overcast
 
 𒆜𒁍 DANNA
 𒆜𒁍 double-hour
@@ -11986,3 +11995,5 @@ there is nothing to worry about, (everything) is well.
 𒌁𒀭 AN:TIR endaraja इन्द्रेनी indrenī dʰeŋgur danga dynga дъга́ dǎgá :
 𒌁𒀭 AN:TIR << इंद्रधनुष indradhnuṣ इन्द्रधनुष indradhnuṣ धनुष dhanuṣ
 𒌁𒀭 rainbow  קֶשֶׁת בְּעָנָן késhet be'anán <> ہنآن hanàn اِنان inān
+
+𒂍𒉣  agrun  "cella; bedroom; a ritual building;" #agarunnu @ ground  #kummu ≈ Kammer ;  šutukku  
