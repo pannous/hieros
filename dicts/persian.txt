@@ -164,7 +164,7 @@ is not: n'est
 𐏉 66505 𐏉 103C9 AURAMAZDAA-2  Assur-Macha
 𐏊 66506 𐏊 103CA AURAMAZDAAHA  Assura-Macha
 𐏈 66504 𐏈 103C8 AURAMAZDAA  Assur-Macha
-𐏋 66507 𐏋 103CB XSHAAYATHIYA  King <> ?? K𒋡 ! <> 𐏈
+𐏋 66507 𐏋 103CB XSHAAYATHIYA  𐎧𐏁𐎠𐎹𐎰𐎡𐎹 xšāyaθiya King <> ?? K𒋡 ! <> 𐏈 
 𐏌 66508 𐏌 103CC DAHYAAUSH dahyāuš house/country
 𐏍 66509 𐏍 103CD DAHYAAUSH-2 house/country
 𐏎 66510 𐏎 103CE BAGA  BIG Baal? GOD! <> Buddha
@@ -235,6 +235,7 @@ kind (n) gon(ag), san, son, sardag;		Sorte:s'Art:Saat  Kind<>Sohn! Kin=Gon~Gene!
 son fra.zand first-son 𐏑 +++
 , pus(ar)  / bursche
 son-in-law dāmad.
+𐎧𐏁𐎠𐎹𐎰𐎡𐎹 xšāyaθiya •xsaratya shar(tor) sultan
 
 
 𐎬𐎺𐎶	you
