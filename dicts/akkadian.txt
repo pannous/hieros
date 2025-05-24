@@ -1258,7 +1258,7 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒁺 	RE₆ red?-speckled stone, a wooden bucket?,  
 𒁺 	RE₆ birthmark | •error  ἐλαία < 𐀁𐀨𐀷 e-ra-wa QED •eraira խալ xal  եւղ ewł oil! ma.ele mole מוּלָד mulad (siman)  
 𒁺 	RE₆ birthmark | радзі́мка radzímka ira@Maori  ⇔ scar  
-𒁺 	RE₆ birthmark | [[ma]]rek mark > *melw- “dark, dirty” melo… melano…  
+𒁺 	RE₆ birthmark | [[ma]]rek mark > °melw- “dark, dirty” melo… melano…  
 
 𒁺𒀸𒈬 	du-rum-mu
 𒁺𒀸𒈬 	a bird
@@ -1320,7 +1320,7 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒂄 	ŠUL suhlen! ↔ Sau 𒋚 ŠAḪUL 𓃟
 
 𒂄𒇻𒈬 	šul-lu-mu •salam
-𒂄𒇻𒈬 	to pay off in full <> Schuld shild (“debt, fault, guilt”) sċyld kaltė PIE √skel- <> sell sold *selh₁-
+𒂄𒇻𒈬 	to pay off in full <> Schuld shild (“debt, fault, guilt”) sċyld kaltė PIE √skel- <> sell sold °selh₁-
 
 𒂄 𒇻 	šul-lu
 𒂄𒇻 	(big) wart, pockmark?
@@ -1506,7 +1506,7 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 
 𒂊𒉿𒊒 	e-pe-ru  | earth, soil 
 𒂊𒉿𒊒 	ᵗe-pe-ru | тӑпра tăpra тупраҡ tupraq torpaq تُرْبَة turba terra ++ 
-𒂊𒉿𒊒 	ᵍe-pe-ru | Geprust > prst *pьrstъ. /pə́rst/ > אֶרֶץ ᵖérets *pers- “rain, dust”
+𒂊𒉿𒊒 	ᵍe-pe-ru | Geprust > prst °pьrstъ. /pə́rst/ > אֶרֶץ ᵖérets °pers- “rain, dust”
 𒂊𒉿𒊒 	ᵍe-pe-ru | Geproto?  Geperro 𓃡 ?
 𒂊𒉿𒊒 	ᵍe-pe-ru | Gefrunde > ground? •prug > руг rug
 𒂊𒉿𒊒 	ᵍe-pe-ru | geperde <> geberde gebirge
@@ -1701,7 +1701,7 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 
 𒂠 𒍪 	ḫun-zu •ᵖḫun-zu पंगु paṅgu पङ्गु paṅgu <> πaṅg vs लंग laṅg 
 𒂠𒍪 	ḫun-zu •kunz > куц kuc  კოჭლი ḳoč̣li > χωλός khōlós կաղ kał кульга́вы kulʹhávy
-𒂠𒍪 	lame लंग laṅg langsam < column? *h₃lemH-  klemm klamm chromý! krumm хромо́й xromój
+𒂠𒍪 	lame लंग laṅg langsam < column? °h₃lemH-  klemm klamm chromý! krumm хромо́й xromój
 𒂠𒍪 	ḫun-zu  <> Hunds? Kunze Kanzel?
 
 𒂵𒁀𒃲𒇻 	ga-ba-gal-lu •Gepäck(el) 𓊪 pack 𒁀 box > bulk bag 𓎤 
@@ -1729,7 +1729,7 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒄀𒅖𒇻 	gi-mil-lu
 𒄀𒅖𒇻 	favor, requital
 =
-𒂵𒈠𒇻 	ga-ma-lu ge.molba ++ PIE  *moldʰ- “to ask, pray, speak” 
+𒂵𒈠𒇻 	ga-ma-lu ge.molba ++ PIE  °moldʰ- “to ask, pray, speak” 
 𒂵𒈠𒇻 	to do a favor <> •Gemelde  𒈠𒀀𒀠𒁲 (ma-a-al-di /māldi/ melden մաղթեմ małtʿem
 𒂵𒈠𒇻 	to do a favor <> ge- + onst Gunst 恩惠 ēnhuì  +++ ge.amur  <<< 
 <>
@@ -2083,7 +2083,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄩𒁀𒇻 	ḫa-ba-lu cabal (intrigue) קַבָּלָה kabalá ‘receive/accept’ squabble! •s'quabble ~ quarrel ++?
 𒄩𒁀𒇻 	to do wrong, violence to
 
-𒄩𒁀𒋢 	ḫa-ba-su [[ha]]paisua paizõ paisunut *paisudak *paistadak √pust √blowed <> feist fett ++?
+𒄩𒁀𒋢 	ḫa-ba-su [[ha]]paisua paizõ paisunut °paisudak °paistadak √pust √blowed <> feist fett ++?
 𒄩𒁀𒋢 	to be distended
 
 𒄩𒁀𒌅 	ḫa-ba-tu •räubertun  حَرَبَ ḥaraba نَهَبَ nahaba ++?
@@ -2257,12 +2257,12 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄭𒁺𒌅 	joy, rejoicing
 
 𒄭𒀀𒇻 	ḫi-a-lu ≠ rollig
-𒄭𒀀𒇻 	exude, to be in labor  ( ex- *sweyd- sweat )
+𒄭𒀀𒇻 	exude, to be in labor  ( ex- °sweyd- sweat )
 
 𒄭𒀀𒌅 	ḫi-a-ṭu √right critique 
 𒄭𒀀𒌅 	check, to supervise, weigh (out)  <> ? hiātus (“opening”) ?
 
-𒄭𒁍 	ḫe-pu •(e)rupt <> cripple *ger- “to bend, twist”
+𒄭𒁍 	ḫe-pu •(e)rupt <> cripple °ger- “to bend, twist”
 𒄭𒁍 	to break ~~[[reverse]] ≠ •chop 
 
 𒄭𒇷𒁍 	ḫi-li-bu hwillowᵇ
@@ -2622,7 +2622,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅅𒊑𒁍 	ik-ri-bu <> accribic <> attribute 
 
 𒅅𒊒 	ʰig-ru •higre > hȳr > hire
-𒅅𒊒 	hire, wage  <> ƒƒƒ *kewHs- 𒆪𒊭𒀭 kuššan-, “fee, pay, wages, price”
+𒅅𒊒 	hire, wage  <> ƒƒƒ °kewHs- 𒆪𒊭𒀭 kuššan-, “fee, pay, wages, price”
 
 𒅆𒁍 	ši-bu  <> 𒁍 paleo 
 𒅆𒁍 	elder, old (person)
@@ -2802,9 +2802,9 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒀧𒌅 	ᶠil-tu
 𒀧𒌅 	goddess <> Polter Geist <> PO'TA…
 
-𒅎𒁀𒊒 	im-ba-ru  𒅎𒂂 imbāru •imborn  ambon *ambun@Malay +++
+𒅎𒁀𒊒 	im-ba-ru  𒅎𒂂 imbāru •imborn  ambon °ambun@Malay +++
 𒅎𒁀𒊒 	im-ba-ru µboira parruma breu boreās βορέᾱς boreāⁿ borrina •forgh fog +++
-𒅎𒁀𒊒 	im-ba-ru •µbaruⁿ nubrina nebulo nebula Nebel *nébʰos *néba *nábʰas νεφέλη nephélē “cloud, mist” ‘falling’
+𒅎𒁀𒊒 	im-ba-ru •µbaruⁿ nubrina nebulo nebula Nebel °nébʰos °néba °nábʰas νεφέλη nephélē “cloud, mist” ‘falling’
 𒅎𒁀𒊒 	im-ba-ru > імгла́ imhlá імга́ imhá
 𒅎𒁀𒊒 	ᵡim-ba-ru  𓋴 𓇋 𓅓 𓇲 “smoke, fog”
 𒅎𒁀𒊒 	ᵡim-ba-ru  ⲭⲣⲉⲙⲧⲥ 	 smoke, mist, rust
@@ -2842,7 +2842,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅎𒅆𒌨𒇻 	destructive wind
 𒅎𒅆𒌨𒇻 	ᵡim-ḫul-lu χεῖμα kheîma winter / frost, cold / storm, tempest / calamity, distress, suffering
 vs
-𒅎𒈬 	im-mu  PIE  ἦμαρ êmar “day” *h₂eh₃mr̥ “heat” charm
+𒅎𒈬 	im-mu  PIE  ἦμαρ êmar “day” °h₂eh₃mr̥ “heat” charm
 𒅎𒈬 	daytime, heat (of day)
 
 𒅎𒈠𒅘𒆪 	im-ma-nak-ku
@@ -3483,7 +3483,7 @@ _𒆠𒌅 	flax
 𒆥𒊑𒌅 	banquet, feast
 
 𒆥𒋢 	qe-suᵐ קַיִץ qáyiṣ “summer; heat” +++
-𒆥𒋢 	qe-taᵐ ܩܲܝܛܵܐ qayṭa קיטא  <>  *ḳayč̣- “hot; summer” قَيْظ qayẓ קֵיטָא qēṭā <> 𓐍 𓏏 𓊮 | fire | ቃጥሎ ḳaṭlo +++
+𒆥𒋢 	qe-taᵐ ܩܲܝܛܵܐ qayṭa קיטא  <>  °ḳayč̣- “hot; summer” قَيْظ qayẓ קֵיטָא qēṭā <> 𓐍 𓏏 𓊮 | fire | ቃጥሎ ḳaṭlo +++
 𒆥𒋢 	qsuᵐ гъэмафэ ġămāfă
 𒆥𒋢 	summer
 
@@ -3623,7 +3623,7 @@ _𒆪𒊒 	mak-ku-ru Micker √micro +++
 _𒆪𒊒 	dwarf, short (person)
 
 𒆪𒊒 	mak-ku-ru کوره kure քուրա kʿura քուրայ kʿuray  горн gorn cairn > kiln caldera +++ <> cure garen cook kohó horno 
-𒆪𒊒 	kiln, furnace, property <> kar.min κάμινος káminos kemence Kamin chimney <> *kamy stone(s)
+𒆪𒊒 	kiln, furnace, property <> kar.min κάμινος káminos kemence Kamin chimney <> °kamy stone(s)
 <>
 𒆪𒊒 	mak-ku-ru
 𒆪𒊒 	property (<> core goods?)
@@ -4621,7 +4621,7 @@ _𒆳 	five ⚠️
 𒈬𒁺 knowing, wise <> mondaine 
 <>
 𒈬𒁺 	mu-du му́дар múdar “wise” PIE √mondʰ
-𒈬𒁺 	a garment 𓋳 *mondʰ <> 𓏠 <> modern, mondaine
+𒈬𒁺 	a garment 𓋳 °mondʰ <> 𓏠 <> modern, mondaine
 
 𒈬𒁺𒇻 	mu-du-lu Mast ®
 𒈬𒁺𒇻 	a pole? <> ma.tall?
@@ -5047,7 +5047,7 @@ _𒆳 	five ⚠️
 𒉈𒇻𒁺 	pil-lu-du <<
 𒉈𒇻𒁺 	cult(ic rites) <> priest?
 
-𒉈𒈨𒁺 	ne-me-du •ana-mītor > nītor *kneygʷʰ knick
+𒉈𒈨𒁺 	ne-me-du •ana-mītor > nītor °kneygʷʰ knick
 𒉈𒈨𒁺 	ne-me-du •anamītor <> armatur
 𒉈𒈨𒁺 	ne-me-du مَالَ •ana-mālad
 𒉈𒈨𒁺 	ne-me-du <> навеждам naveždam наклоня́ться naklonjátʹsja <> incline
@@ -5562,7 +5562,7 @@ _𒉿𒁍 	enemy, villainous, wicked
 𒊍𒁺𒁉𒌅 	as'qub-bi-tu | a gibb™ gibbus 곱사 gopsa gibber gibbᵒⁿ gibb.nam 𒉆 > גַּבְנוּן gavnún “hump” OK?
 𒊍𒁺𒁉𒌅 	as'qub-bi-tu | gibb™ <> грпка grpka gȑba कूबड़ kūbaṛ < καμπούρα kampoúra
 𒊍𒁺𒁉𒌅 	as'qub-bi-tu | gibb™ <> कूबड़ kūbaṛ бүкір bükir Buckel  reverse
-𒊍𒁺𒁉𒌅 	as'qub-bi-tu | qimpt > *kumb- “curved” hump(ed)
+𒊍𒁺𒁉𒌅 	as'qub-bi-tu | qimpt > °kumb- “curved” hump(ed)
 𒊍𒁺𒁉𒌅 	hump
 <>
 𒊍𒁺𒁍 	as-kup-pu
@@ -5640,7 +5640,7 @@ _𒉿𒁍 	enemy, villainous, wicked
 𒊏𒅗𒁍 	ra-ka-bu rigga = rig horse
 𒊏𒅗𒁍 	mount, to ride ~ reçe 
 <>
-𒊏𒅗𒋢 	ra-ka-su Germanic *rik- “to bind” PIE  *rign-, *reyg- “to bind” +++
+𒊏𒅗𒋢 	ra-ka-su Germanic °rik- “to bind” PIE  °rign-, °reyg- “to bind” +++
 𒊏𒅗𒋢 	to bind
 
 𒊏𒈠𒆪 	ᶝra-ma-ku çimmək +++
@@ -5699,7 +5699,7 @@ _𒉿𒁍 	enemy, villainous, wicked
 𒊏𒋡𒄣 	fine, to be(come) thin
 <>
 𒊑𒀀𒄣 	ri-a-qu रिच् ric रिक्त rikta 𐬌𐬭𐬌𐬑𐬙𐬀 irixta ++++
-𒊑𒀀𒄣 	to be empty <> rekt;) wrecked  𐍅𐍂𐌹𐌺𐌰𐌽 <> *leykʷ- “to leave” 𓆑 𓎡 𓁸 𓅪  empty
+𒊑𒀀𒄣 	to be empty <> rekt;) wrecked  𐍅𐍂𐌹𐌺𐌰𐌽 <> °leykʷ- “to leave” 𓆑 𓎡 𓁸 𓅪  empty
 
 𒊏𒋫𒈬 	ra-ta-mu (be)raten
 𒊏𒋫𒈬 	to whisper?
@@ -6852,7 +6852,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋛𒊒 	smear, plaster
 
 𒋛𒊒 	si-ru serpent #šerah 
-𒋛𒊒 	snake <> nerah ~ nirah < *neh1-tr-ah2 natter
+𒋛𒊒 	snake <> nerah ~ nirah < °neh1-tr-ah2 natter
 
 𒋛𒊭𒈨𒌋𒅕𒋛𒋾 	si-ḫip ša-me u er-se-ti
 𒋛𒊭𒈨𒌋𒅕𒋛𒋾 	the extent of heaven and earth
@@ -7020,7 +7020,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋢𒈠𒋢 	su-ma-su sea-marsu
 𒋢𒈠𒋢 	a sea-fish
 
-𒋢 𒈬 	su-mu сма́га smáha *smaga@Slavic <> soif 
+𒋢 𒈬 	su-mu сма́га smáha °smaga@Slavic <> soif 
 𒋢𒈬 	su-mu < צָמָא tsamá ጥም ṭəm צימאון tsimaon
 𒋢𒈬 	su-mu szomj szomjúság 
 𒋢𒈬 	su-mu तृष्णा tŕṣṇā
@@ -7044,7 +7044,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋀𒋢𒊒 	šas-su-ru
 𒋀𒋢𒊒 	womb
 <>
-𒋢𒊒 	su-ru *sȏrmъ *śarmas со́рам sóram srom "shame, vulva" +++
+𒋢𒊒 	su-ru °sȏrmъ °śarmas со́рам sóram srom "shame, vulva" +++
 𒋢𒊒 	su-ru сарпай sarpai "vulva"
 𒋢𒊒 	su-ru > حِرّ ḥirr "vulva"
 𒋢𒊒 	su-ru > •šurma Scham 씹 שפּיל shpil Spalt separate
@@ -7062,7 +7062,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋢𒊒 | ditch | su-ru rasa revere
 𒋢𒊒 	canal, ditch 
 
-𒋢𒊒 	su-ru | send | cuir@Irish courier *(s)ker- “to turn, throw” <> zerren
+𒋢𒊒 	su-ru | send | cuir@Irish courier °(s)ker- “to turn, throw” <> zerren
 𒋢𒊒 	su-ru | send | > שלח shalákh "send" słać se'lỉk 𐎍𐎛𐎋 causative se'lu-  слати slati στέλλω stéllō  
 𒋢𒊒 	su-ru | send | ~ܫܕܪ šaddar send сун sun gửi со so zie 送 sòng שיקן shikn siųsti
 𒋢𒊒 	su-ru | send | < spedir 
@@ -7294,7 +7294,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋰𒁀𒉡 	tab-ba-nu
 𒋰𒁀𒉡 	mng. unkn.
 
-𒋰𒁍 	tap-puʳ това́риш továryš *tovarъ  товар √top=good(s) ++ > 
+𒋰𒁍 	tap-puʳ това́риш továryš °tovarъ  товар √top=good(s) ++ > 
 𒋰𒁍 	tap-puʳ <> > супу́тник supútnyk
 𒋰𒁍 	tap-puʳ <> 𐎈𐎁𐎗 ᵗḥbr  חָבֵר ᵗḥāḇēr
 𒋰𒁍 	tap-puʳ <> double dost
@@ -7315,7 +7315,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋰𒌅 	ṭab-tu > tote mātaitai
 𒋰𒌅 	salt
 
-𒋳𒅆𒊒 	tak-ši-ru <> torsāre deisigh® < trwsio trussen “to load up” trousser *torsāre < torqueō 
+𒋳𒅆𒊒 	tak-ši-ru <> torsāre deisigh® < trwsio trussen “to load up” trousser °torsāre < torqueō 
 𒋳𒅆𒊒 	repair
 
 𒋳𒅆𒌅 	tak-ši-tu  дохо́д doxód +++
@@ -7600,7 +7600,7 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌋𒁍 	u-buˡ | cloud | о́блак óblak bulud болот bolot влага blaga <>
 𒌋𒁍 	u-buˡ | cloud | воло́га vológa Wolke
 𒌋𒁍 	u-puʳ | cloud | <> peret 𓉐 𓂋 𓏏 𓇳 <> pĕlĕt
-𒌋𒁍 	u-puˡ | cloud | pilv *pilwe@Uralic بولوت polawa'ti пӗлӗт pĕlĕt <> ulap
+𒌋𒁍 	u-puˡ | cloud | pilv °pilwe@Uralic بولوت polawa'ti пӗлӗт pĕlĕt <> ulap
 𒌋𒁍 	u-puʳ | cloud | <> Petrus 𒅎𒋛𒀀 erpetu <> 𓊪 𓏏 𓇯 𓀭  बादर bādar  बादल bādal वार्दल vārdala
 𒌋𒁍 	u-puʳ | cloud | اور evr < pour
 𒌋𒁍 	u-buˡ | cloud | ღრუბელი ɣrubeli  𒌋~ɣru ?
@@ -7928,8 +7928,8 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 
 
 𒌓𒉣𒇻 	par-zil-lu | iron | 𐤁𐤓𐤆𐤋 brzl /barzel/ “iron” פַּרְזְלָא ܦܪܙܠܐ parzəlā 𐎁𐎗 𐎏 𐎍 brḏl <> bronzeˡ 
-𒌓𒉣𒇻 	par-zil-lu | iron | {fer}želězo желе́зен ~ χαλκός > khalkós Proto-Sino-Tibetan *qhleks “(cast) iron”  +++
-𒌓𒉣𒇻 	par-zil-lu | iron | {fer} ferro < *ferzoᵐ > firon ƒ 𐤁𐤓𐤆𐤋 barzel <> brutzel burn 
+𒌓𒉣𒇻 	par-zil-lu | iron | {fer}želězo желе́зен ~ χαλκός > khalkós Proto-Sino-Tibetan °qhleks “(cast) iron”  +++
+𒌓𒉣𒇻 	par-zil-lu | iron | {fer} ferro < °ferzoᵐ > firon ƒ 𐤁𐤓𐤆𐤋 barzel <> brutzel burn 
 𒌓𒉣𒇻  	par-zil-lu | iron |   {𓇳}dzèlzs geležìs σιδήρεος sιdḗreos (ι~l!) <> solder 𓇳 shields <> ḫapalki, “iron”
 𒌓𒉣𒇻 	par-zil-lu | iron | <> •prīsarną > īsarną eisern iron 𓇳 sarną
 𒌓𒉣𒇻 	par-zil-lu | iron | <>  parzelle “a small piece or part” unlikely
@@ -8094,7 +8094,7 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒍑𒈬 	uš-muⁿ
 𒍑𒈬 	a functionary
 
-𒍑𒉺𒊒 	uš-pa-ru <> usurper bar па́лица *palica < βακτηρία baktēría > bot <> beat <<< ++?
+𒍑𒉺𒊒 	uš-pa-ru <> usurper bar па́лица °palica < βακτηρία baktēría > bot <> beat <<< ++?
 𒍑𒉺𒊒 	a ruler’s staff
 
 
@@ -8122,7 +8122,7 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒍝𒆪 	zaʳku Czech: čirý 𓎡 𓆑 𓂡  clear (of sky) > צָלוּל tzalul
 𒍝𒆪 	zaʳku Czech: čirý <> clear Finnish: kirkas 
 𒍝𒆪 	clear, pure, to be(come) clear
-*ščirъ, from Proto-Indo-European *(s)kei̯ro-. Cognate with dialectal Russian щи́рый (ščíryj), Belarusian шчыры (ščyry), Ukrainian щи́рий (ščýryj), Polish szczery, Slovak číry 
+*ščirъ, from Proto-Indo-European °(s)kei̯ro-. Cognate with dialectal Russian щи́рый (ščíryj), Belarusian шчыры (ščyry), Ukrainian щи́рий (ščýryj), Polish szczery, Slovak číry 
 
 𒍝𒆷𒄣 	zaʳla-qu
 𒍝𒆷𒄣 	a shiny stone <> scharlak shellack
@@ -8184,7 +8184,7 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒍣𒁉𒌅 	a kind of spice seed?
 
 
-𒍣𒁍 	zi-bu > сип sip sȕp sup “vulture” Slavic *sǫpъ <>
+𒍣𒁍 	zi-bu > сип sip sȕp sup “vulture” Slavic °sǫpъ <>
 𒍣𒁍 	zi-bu γύψ gúps αἰγυπιός aigupiós “vulture” @ Egypt +++ !!!
 𒍣𒁍 	zi-but gypt > गिद्ध giddh “vulture”
 𒍣𒁍 	zbi-bu სვავი svavi “vulture” +++
@@ -8393,7 +8393,7 @@ ana (an, too, for, after, approximately),
 adi (to, da:zu), 
 aššu (cause, because of), 
 eli (up, over, lift ↔ elivate alive?), 
-ištu/ultu (of, *ist, since, ultima “last”?), 
+ištu/ultu (of, °ist, since, ultima “last”?), 
 mala (in accordance with < malike?), 
 itti (*vitt: with, and also ↔ like?). 
 -im ~ mi,mit,im,am,und
@@ -8430,12 +8430,12 @@ The Akkadian vocabulary is mostly of Semitic origin.
 Although classified as 'East Semitic', many elements of its basic vocabulary find no parallels in related Semitic languages!!!
 
 For example: 
-māru 'son' (Semitic *bn),  ↔ maria mama
-qātu 'hand' (Semitic *yd), ↔ khand Kante khapta!
-šēpu 'foot' (Semitic *rgl), ↔ stepod s'phoot <<
-qabû 'say' (Semitic *qwl),  ↔ qiz @ Goth
-izuzzu 'stand' (Semitic *qwm),  ↔ ztanza
-ana 'to, for' (Semitic *li). ↔ AN !
+māru 'son' (Semitic °bn),  ↔ maria mama
+qātu 'hand' (Semitic °yd), ↔ khand Kante khapta!
+šēpu 'foot' (Semitic °rgl), ↔ stepod s'phoot <<
+qabû 'say' (Semitic °qwl),  ↔ qiz @ Goth
+izuzzu 'stand' (Semitic °qwm),  ↔ ztanza
+ana 'to, for' (Semitic °li). ↔ AN !
 
 Due to extensive contact with Sumerian and Aramaic, the Akkadian vocabulary contains many loan words from these languages.
 
@@ -8912,7 +8912,7 @@ revolt and rebellion
 𒌌𒌓 ul-tú ultu "from"
 𒌌𒌅 UL-TU ultu "from"
 𒅖𒌅 IŠ-TU just …
-ištu/ultu (of, *ist, from, since, after, ultima “last”?), 
+ištu/ultu (of, °ist, from, since, after, ultima “last”?), 
     preposition; <IŠTU> (functioning as graphic indicator of the ablative); 
 
 [missing] Ultu ≈ 𒀸𒐺𒐈 ≈ 𒐀𒋰𒐈 ≈ 𒋰𒋰𒐈 ≠  𒆤 𒋢 𒍇 𒌝 𒈩 𒋃 𒍚 𒂅 𒂆 𒄈 𒅍 𒈢𒐈 𒈣𒐈  𒊒 𒊏 𒍢  
@@ -9231,7 +9231,7 @@ in midst of the sea I saw maliciousness
 𒊻 𒋼𒁀𒍣𒊏 us-te-es-se-ra steer
 𒊻𒋼𒁀𒍣𒊏 us-teʳes-se-ra ˢdirect
 
-𒅖 ᴴIŠ •haiš 𐌷𐌰𐌿𐍃 hörs "hear" erheischen <> *aiskōn “to ask” <>  áš-al-ma 𒀸𒀠𒈠
+𒅖 ᴴIŠ •haiš 𐌷𐌰𐌿𐍃 hörs "hear" erheischen <> °aiskōn “to ask” <>  áš-al-ma 𒀸𒀠𒈠
 
 𒊍𒁍𒌦 as-pu-un sweepin' swept
 
@@ -9473,7 +9473,7 @@ sanuti® senator "prefect"
 𒀀𒊏𒀭 a-ra•hel uriḫull-	<> ка́ра kára κύρωση kýrosi korvaus @ Kerker
 𒀀𒊏𒀭 penalty <> 
 𓎪 𓂋 𓇋 𓇋 𓏏 𓅪 | punishment | herit ⇔ heretics αἱρετικός hairetikós, “able to choose, factious”
-𓐍 𓋴 𓆑 𓏏 𓍚 | punishment | > slavic *kazati <> κύρωση kýrosi™
+𓐍 𓋴 𓆑 𓏏 𓍚 | punishment | > slavic °kazati <> κύρωση kýrosi™
 
 𒀉𒋫𒈾𒀸𒅆 it-ta-na-aš-ši
 𒀉𒋫𒈾𒀸𒅆 support, bear (e.g. penalty)
