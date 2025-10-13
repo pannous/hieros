@@ -1,0 +1,38 @@
+-e ---
+---
+# Afroasiatic
+
+https://en.wikipedia.org/wiki/Afroasiatic_languages  
+
+Neolithic languages family with estimates ranging from 10000BC to 18kya. Since the Neolithic spread only in the last 10k years, this might be a bit on the high end. But ancient elements might have split earlier than updates of later populations. [Good Linguistics](Good Linguistics.html)  
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Interrelations_between_branches_of_Afro-Asiatic.svg/600px-Interrelations_between_branches_of_Afro-Asiatic.svg.png)  
+
+https://en.wikipedia.org/wiki/Prehistoric_North_Africa#Neolithic
+
+The oldest evidence of burial customs in the Horn of Africa comes from cemeteries in Somalia dating back to the 4th millennium BC.
+
+8.600 BC - 3000 BCE dotted wavy line pottery widespread!
+
+With the abrupt arrival of monsoon rains at 8500 B.C.E., the hyper-arid sahara desert was replaced by savannah-like environments and swiftly inhabited by prehistoric settlers!
+
+![](https://2.bp.blogspot.com/-KdbQttxCUbg/Uy83s_80ssI/AAAAAAAAHRs/iwrrGQmCAKQ/s1600/Climate-controlledoccupationintheEasternSaharaduringthemain.jpg)
+During the early Holocene humid optimum, the southern Sahara and the Nile valley apparently were too moist and hazardous for appreciable human occupation. After 7000 B.C.E., human settlement became well established all over the Eastern Sahara, fostering the development of cattle pastoralism. (D) Retreating monsoonal rains caused the onset of desiccation of the Egyptian Sahara at 5300 B.C.E. Prehistoric populations were forced to the Nile valley or ecological refuges and forced to exodus into the Sudanese Sahara where rainfall and surface water were still sufficient. The return of full desert conditions all over Egypt at about 3500 B.C.E. coincided with the initial stages of pharaonic civilization in the Nile valley.
+
+
+Haplogroups of Green Sahara Settlers
+	1.	Y-DNA Haplogroups:
+	•	E1b1b1 (E-M35): Predominantly associated with prehistoric North African populations. Subclades such as E-M78 and E-M81 are particularly relevant.
+	•	A-M13 and B-M60: Found in remnants of hunter-gatherer populations, indicating continuity with earlier African groups.
+	•	R1b-V88: Likely introduced from Eurasian populations, possibly via back-migration from the Near East. Strongly associated with pastoralist groups and reflects interaction with the broader Afro-Asiatic language expansion.
+	2.	mtDNA Haplogroups:
+	•	H1 and H3: Linked to populations moving westward across North Africa.
+	•	U6 and M1: Show connections to both African and Eurasian populations, suggesting gene flow between regions.
+
+Relationship to Natufian Cultures
+	1.	Shared Haplogroups:
+	•	Genetic studies identify E1b1b1b1 (E-Z830) as a key shared haplogroup between early North African populations and Natufians. This lineage indicates bidirectional gene flow during the Late Pleistocene and Early Holocene. https://en.wikipedia.org/wiki/Haplogroup_E-Z827 Berber
+
+• pastoralism rather than agriculture.
+
+Similar microlithic tool technologies, such as the use of geometric microliths, further support cultural exchanges or shared ancestry.	

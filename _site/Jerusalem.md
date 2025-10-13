@@ -1,0 +1,64 @@
+-e ---
+---
+"Hierosolyma" in Latin  
+"Rušalim/Urusalim" on ancient Egyptian tablets (19th/1330BC) probably meaning "City of Shalem" Ūrsālim (أْوْرْسَـالِـم)  
+
+Hiero = Old/holy/temple < [Kur](𓊖)/Uru  
+Salem = Salomon/peace/[secure](https://en.wikipedia.org/wiki/%C5%A0-L-M)/healthy/whole/well/Shalim:  
+Salim: god of dusk vs Shahar: god of the dawn.  
+
+⚸ Venus ⋍ Salim "Evening Star" Shahar the "Morning Star" ♀  Venus < Bonus:  
+
+S-L-M "whole, safe, intact, unharmed, to go free, without blemish"  
+
+Given names derived from the same root include Solomon (Süleyman), Absalom, Selim, Salem, Salim, Salma, Salmah,  Salman, Selimah, Shelimah, Salome, etc. ⇔ Islām (wholeness of/with God)  
+
+The ending -ayim indicates the dual in Hebrew, thus leading to the suggestion that the name refers to the two hills on which the city sits.  
+In Genesis Rabbah 56:10, the name is interpreted as a combination of yir'eh, "He will see [to it]," and Shalem, the city of King Melchizedek (based on Genesis 14:18). A similar theory is offered by Philo in his discussion of the term "God's city." (Adonai-jireh : gods site/sight)  
+
+Mount Zion (Hebrew: הר צִיּוֹן Har Tsiyyon) was originally the name of the hill where the Jebusite fortress stood, but the name was later applied to the Temple Mount just to the north of the fortress (also known as Mount Moriah).  
+
+The City of David (Hebrew [ɠ]Ir David עיר דוד)  
+"Holy City" עיר הקודש "Jr Ha-Kodesh" ⇨  اَلْـقُـدْس al-Quds, Kudüs new/noon/neun?  
+"City of the Great King" kiryat melekh rav (קרית מלך רב)  
+"Kang Diz Huxt" کَـنْـگ دِژ هُـوْخْـت "holy palace"  
+إِيْـلْـيَـاء Iliya Elyson Aelia Capitolina  
+
+During its long history, Jerusalem has been attacked 52 times, captured and recaptured 44 times, besieged 23 times, and destroyed twice.  
+
+* 7000 BC Motza near Jerusalem one of the [biggest city of its time](https://www.abc.net.au/news/2019-07-17/prehistoric-city-offers-glimpse-of-ancient-living-near-jerusalem/11315532)  
+* Archaeological evidence suggests that the first settlement was established near Gihon Spring between 4500–3500 BCE.  
+* by the 17th century BCE, the Canaanites had built massive walls (4 and 5 ton boulders, 26 feet high) on the eastern side of Jerusalem to protect their ancient water system.  
+* By c. 1550–1400 BCE, Jerusalem had become a vassal to Egypt after the Egyptian New Kingdom under Ahmose I and Thutmose I had reunited Egypt and expanded into the Levant.  
+* In 1178 BCE the Battle of Djahy (Djahy being the Egyptian name for Canaan) between Ramesses III and the Sea Peoples marked the beginning of this decline. The gradual loss of a central power gave rise to independent kingdoms in the region. According to the Bible, Jerusalem at this time was known as Jebus and its independent Canaanite inhabitants at this time were known as Jebusites.  
+* According to the Bible, the Israelite history of the city began in c. 1000 BCE, with King David's sack of Jerusalem,  
+
+**[Motza](https://www.haaretz.com/archaeology/.premium.MAGAZINE-9-000-year-old-neolithic-city-discovered-by-jerusalem-1.7531494)**, A vast pre-pottery B city that may have had as many as 1,500 to 3,000 inhabitants in its heyday 9,000 years ago was part of a sprawling Neolithic network of barter. Fresh findings in the mega site at Motza, the Jerusalem foothills, include an obsidian blade that came from Anatolia; a simple but beautiful, thin-walled bowl made of serpentine stone, originating in northern Syria; and large alabaster beads made in ancient Egypt.  
+
+A pierced pendant bead found on another female body was made of mother of pearl, which came from the Red Sea – the southernmost part. The villagers did have a type of glue: viscous bitumen, which also came from far away, specifically the Dead Sea area.  
+
+How the exotic items reached this inland Neolithic city is anybody's guess. We do not know if or how people sailed 9,000 years ago.  
+
+In Catalhöyük, Turkey, archaeologists are confident that the residents of another 9,000-year-old town entered and exited their extremely crowded houses through the roof, with the help of ladders, because the houses are so dense that there's no other option. Here that cannot be said.  
+
+Streets going back 9,000 years were cut between the houses, which were made of mud-brick that has long since disintegrated, but the construction foundations made of large stone bricks can still be seen. The structure of the town smacks of order, which in turn suggests **city planning**  
+
+They were growing wheat, barley, legumes such as lentils, broad beans (ful) and chick peas, using stone sickles for the harvest. The town also featured domestic cows and pigs(domesticated in China and/or Levante) and goats (domesticated in central Persia and or Judea).  
+
+They ground meat for the toothless:  
+The oldest person found so far was apparently 62 years of age  
+
+Nothing with the hallmarks or ritual or worship was found – and that said, the archaeologists did find “very simple” anthropomorphic and zoomorphic figurines: two small figurines of faces, which could have been prototypes of “plastered skulls,” which many suspect signal ancestor worship.  
+
+Like other Neolithic people, the inhabitants of prehistoric Motza buried their dead, or at least some of their dead, under the floor of the home. Some of the bodies were found to be missing their skulls, begging the thought that maybe they were dissociated from the body and plastered.  
+
+Peoples elsewhere in Turkey and Asia had developed fired pottery thousands of years earlier, but that at least didn’t make it across the Mediterranean!  
+
+Making plaster was a protracted, expensive and onerous process. The archaeologists even found strange stone circles with pink plaster inside, that would turn reddish in wet weather, Vardi adds. Again that may argue for ritual purposes.  
+![](https://www.haaretz.com/polopoly_fs/1.7531571.1563286550!/image/2155955861.jpg_gen/derivatives/fullscreen_1104xAuto/2155955861.jpg)  
+
+ some of the flint arrowheads found at the site were too flimsy to have killed anything bigger than a rat. Or a fur-less neighbor. But use-wear analysis indicates that the locals would apply **poison to the arrow tip**, and didn’t need to do more than scratch the hide of their prey.  
+
+City subsided after just 300 or 400 years . Maybe they couldn’t sustain their large settlement any more: pulses in particular require frequent crop rotation. “Trash was everywhere,” Khalaily says, “on the floors of the homes and in the streets.” That’s just begging for flies and bacteria, fungal infection etc. people of prehistoric Catalhöyük were ridden with parasites (=> rise of Medicine).  
+
+Despite modern sanitation and knowledge, even today at least a fifth of the world’s population has worms!  

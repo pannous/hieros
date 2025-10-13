@@ -1,0 +1,4 @@
+-e ---
+---
+In a linguistic family we often find cognate _**reattachment**_:  
+Karre and car are derived from the same PIE word. However on it's way to its modern meaning (automobile) the German Karre went into a cul-de-sac and was stuck to the restricted meaning of cart. Only in the late 20th century, when (agricultural) carts fell largely out of use, was Karre reattached to mean the same as English car. The usage is still vulgar, but it can be predicted, that a more formal usage will follow.  

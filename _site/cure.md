@@ -1,0 +1,8 @@
+-e ---
+---
+care  
+
+cure garen cook  
+
+𒆪𒊒 	mak-ku-ru کوره kure քուրա kʿura քուրայ kʿuray  горн gorn cairn > kiln caldera +++ ⇔ kohó horno  
+𒆪𒊒 	kiln, furnace, property ⇔ kar.min κάμινος káminos kemence Kamin chimney ⇔ *kamy stone(s)  

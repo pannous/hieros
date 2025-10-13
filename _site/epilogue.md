@@ -1,0 +1,1010 @@
+-e ---
+---
+Epilogue
+
+The ending of Hammurabi's code
+
+Summary
+
+After validating the authority of his rule and general fairness, Hammurabi invokes deities like Marduk, Adad, Ishtar, Enlil, and others to ask them to curse, stop, or overpower anyone who tries to alter the contents of the artifact (the basalt stele). The Epilogue's poetic and self-praising nature is indicative of language used by prior Mesopotamian rulers, and the Ancient Near East in general.
+
+Law Code of Hammurabi
+
+Deities
+Adad, Anunnaki, Enlil, Ishtar, Marduk
+
+𒁲𒈾𒀀𒀜 𒈪𒊭𒊑𒅎 
+𒊭 𒄩𒄠𒈬𒊏𒁉 𒊬𒊒𒌝 𒇷𒌑𒌝 
+𒌑𒆠𒅔𒉡𒈠 𒈠𒌓 𒌑𒊓𒄠 𒆠𒉆 𒌑 𒊑𒁮 𒁮𒄀𒄠 𒌑𒊭𒊍𒁉𒌅
+
+Di-na-a-at mi-ša-ri-im ša Ḫa-am-mu-ra-bi šar-ru-um li'u-um 
+u-ki-in-nu-ma ma-tam u-sa-am bki-nam u3 ri-dam bdam-ge-am u-ša-az-bi-tu
+
+dīnāt mīšarim, ša Ḫammurabi šarrum lēʾûm ukinnuma mātam ussam kīnam u3 rīdam damqam ušaṣbitu.
+
+Proper laws established by Hammurabi, the able king, 
+who made the land adopt solid principles and good conduct.
+
+
+Epilogue 2 / 32
+
+𒄩𒄠𒈬𒊏𒁉 𒊬𒊒𒌝 𒄀𒀉𒈠𒈝 
+𒀀𒈾𒆪 𒀀𒈾 𒊕𒍼 
+𒊭 𒀭𒂗 𒅖𒊒𒄰 
+𒊑𒌑𒍥𒈾 𒀭𒀫𒌓 𒄿𒁷𒉆 𒌑𒌌 𒂊𒄖 
+𒀀𒄭 𒌑𒌌 𒀜𒁲
+
+
+Ḫa-am-mu-ra-bi šar-ru-um gi-it-bma-lum 
+a-na-ku a-na SAG.GIG 
+ša ilu.Bêl biš-ru-kam ri-u-zi-na ilu.Marduk i-din-nam
+u-ul e-gu 
+a-ḫi u-ul ad-di 
+
+Ḫammurabi šarrum gitmālum 
+anāku ana ṣalmāt qaqqadim,
+ša Ellil išrukam, 
+rē'ûssina Marduk iddinam 
+ul ēgu, 
+aḫi ul addī.
+
+I am Hammurabi, the efficient king. 
+I have … with the mass of mankind, 
+which Enlil has entrusted to me 
+and which Marduk has made my flock
+I have not been careless 
+I have not been lazy.
+
+
+Epilogue 3 / 32
+
+𒀸𒊑 𒋗𒌌𒈪𒅎 𒌍𒋼𒄿 𒅆𒈾 𒋆
+𒁍𒍑𒆠 𒉿𒀸𒌅𒁴 𒌑𒉿𒀉𒋾
+𒌑𒋛𒄠 𒌑𒊺𒍥𒅆𒈾 𒅆𒅎
+
+aš-ri šu-ul-mi-im eš-te-i-ši-na-šim 
+pu-uš-ki bwa-[aš]-tu-tim u-[pi]-it-ti 
+[u]-si-am u-še-zi ši-na.ši-im
+
+ašrī šulmim ešte'īšināšim 
+pušqī wašṭūtim upetti 
+nūram ušēṣišināšim.
+
+I have searched for peaceful places for them. 
+I have solved impossible difficulties. 
+I have made the light shine for them.
+
+
+Epilogue 4 / 32
+
+𒄿𒈾 𒄑𒆪 𒉏 𒊭 𒀭𒍝𒈠𒈠 𒅇 𒀭𒈹 𒌑𒊭𒀜𒇷𒈬𒉏 
+𒄿𒈾 𒅆𒅅 𒊭 𒀭𒂗𒆠 𒁉𒅆𒈠𒄠 𒄿𒈾 𒇷𒌑 𒊭 𒀭𒀫𒌓 𒀉𒁲𒉆
+𒈾𒀝𒊑 𒂊𒇷𒅖 𒅇 𒊭𒀊𒇷𒅖 𒊍𒅗𒄴
+
+i-na kakkim bda-an-nim ša ilu.ZA.MA(L).MA(L) u3 ilu.Nanâ u-ša-at-li-mu-nim 
+i-na igi-gal2 ša ilu.EN.KI bi-ši-ma-am 
+i-na li'u-tim ša ilu.Marduk bid-di-nam 
+na-ak-ri e-li-iš u3 ša-ap-li-iš baz-zu-uḫ
+
+ina kakkim dannim ša Zababa u3 Ištar ušatlimūnim ina igigallim ša Ea išīmam ina lē'ûtim ša Marduk iddinam nakrī eliš u3 šapliš assuḫ.
+
+With the fierce weapon that Zababa and Ishtar have presented to me, 
+with the omniscience that Ea has assigned to me, 
+with the capability that Marduk has granted to me, 
+I have rooted out enemies that are above and those below.
+
+
+Epilogue 5 / 32
+
+𒂵𒀊𒆷𒁴 𒁍𒁉𒂖𒇷 
+𒅆𒅕 𒈠𒁴 𒌑𒋾𒅁 
+𒉌𒅆 𒁕𒀜𒈪 𒀀𒁍𒌨𒊑 𒌑𒊬𒁁𒄑 
+𒈬𒃲𒇷𒌓 𒌑𒌌 𒌑𒊬𒅆𒅆𒈾𒋾
+
+ga-ab-la-tim bu-bi-el-li 
+ši-ir ma-tim u-ti-ib 
+ni-ši da-ad-mi a-bu-ur-ri u-šar-be-iṣ 
+mu-gal-li-tam u-ul u-šar-ši ši-na-ti
+
+I have made conflicts cease. 
+I have improved the wellbeing of the nation. 
+I have made the people lie down in well-watered pastures. 
+I have let no one disturb their prosperity.
+
+qablātim ubelli, šīr mātim uṭīb nišī dadmī aburrī ušarbiṣ, mugallitam ul ušaršīšināti.
+
+
+Epilogue 6 / 32
+
+𒀭 𒃲𒃲 𒅁𒁍𒌑𒎏𒉌𒈠 
+𒀀𒈾𒆪𒈠 𒉺𒁳 𒈬𒊭𒀠𒇷𒈬𒌝 
+𒊭 𒄑𒉺 𒋗 𒄿𒊭𒊏𒀜
+
+ilâni gal-gal ib-bu-u-nin-ni-ma 
+a-na-ku-ma rê'um mu-ša-al-bli-mu-um 
+ša IZ-PA šu i-ša-ra-at
+
+It is the great gods that have nominated me 
+so that I am the shepherd who brings peace, 
+with a staff that is straight.
+
+ilū rabûtum ibbûninnima 
+anākuma rē'ûm mušallimum,
+ša ḫaṭṭašu išarat.
+
+
+Epilogue 7 / 32
+
+𒍢𒇷 𒁕𒁍𒌝 𒀀𒈾 𒌷 𒅀 𒋫𒊑𒄑 
+𒄿𒈾 𒌓𒇷 𒅀 𒉌𒅆 𒌦 𒋗𒈨𒅕𒅎 𒅇 𒀝𒅗𒁲𒅎 𒌑𒆠𒀧 
+𒄿𒈾 𒆷𒈠𒍥 𒅀 𒄴𒄭𒊭 
+𒄿𒈾 𒋗𒌌𒈪𒅎 𒀜𒋰𒁀𒀠 𒅆𒈾𒋾 
+𒄿𒈾 𒈨𒈨𒆠 𒅀 𒍑𒋰𒍢𒅕 𒅆𒈾𒋾
+
+ṣi-li ṭa-bu-um a-na ali ᵐia ta-ri-iṣ 
+i-na ut-li ᵐia ni-ši mât bŠu-me-er-im u3 Ak-ka-di-im u-ki-il 
+i-na la-ma-zi ᵐia aḫ-ḫi-ša 
+i-na šu-ul-mi-im at-tab-ba-al ši-na-ti 
+i-na me-me-ḳi ᵐia uš-tap-ṣi-ir ši-na-ti
+
+My protective shadow has been spread over my city, 
+I have set the people of the land of Sumer and Akkad securely on my knees. 
+They have come to prosper under my protection; 
+I have [always] governed them in peace, 
+I have [always] guided them by my wisdom.
+
+ṣillī ṭābum ana āliya tariṣ ina utliya nišī māt Šumerim u3 Akkadîm ukīl ina lamassiya iḫḫiša ina šulmim attabbalšināti ina nēmeqiya uštapziršināti.
+
+
+Epilogue 8 / 32
+
+𒆗𒉡𒌝 𒂗𒊭𒄠 𒀀𒈾 𒆷 𒄩𒁀𒅆 𒉡𒌇 𒉡𒈬𒋢 𒋗𒋼𒋗𒊑𒅎 
+
+𒄿𒈾 𒆍𒀭𒊏𒆠 𒌷 𒊭 𒀭 𒅇 𒀭𒂗 𒊑𒅆 𒋗 
+𒌑𒌌𒇻𒌑 𒄿𒈾 𒂍𒊕𒅍𒆷 
+𒂍 𒊭 𒆠𒈠 𒊭𒈨𒂊 𒅇 𒅕𒍣𒁴 ? 𒋗
+𒆠𒈾 𒁲𒅔 𒈠𒁴 𒀀𒈾 𒁲𒀀𒉏 𒁍𒊒𒍥𒂊 𒈠𒁴 𒀀𒈾 𒉺𒊏𒋛𒅎 𒄩𒀊𒅆 𒋗𒋼𒋗𒊑𒅎 𒀀𒉿𒋾 𒅀 𒋗𒆪𒊏𒁴 𒄿𒈾 𒈾𒊒 𒅀 𒀸𒌉𒈠 𒄿𒈾 𒈠𒄯 ? 𒅀 𒊬 𒈪𒊭𒊑𒅎 𒌑𒆠𒅔
+
+dan-nu-um en-ša-am a-na la ḫa-ba-lim 
+NU.TUK NU.MU.SU šu-te-šu-ri-im 
+… ?
+i-na KA.DINGIR.RA.KI 
+URU ša ilu. u3 ilu.Bêl ri-ši šu 
+u-ul-lu-u 
+i-na É-SAǦ-ÍL.LA 
+bītim ša ki-ma ša-me-e u3 ir-ṣi-tim išda šu 
+ki-na di-in ma-tim 
+a-na di-a-nim pu-ru-zi-e ma-tim 
+a-na pa-ra-si-im ḫa-ab-lim šu-te-šu-ri-im a-wa-ti ᵐia šu-ku-ra-tim 
+i-na na-ru ᵐia aš-ṭur-ma 
+i-na ma-ḫar ṣalmi ᵐia šar mi-ša-ri-im u-ki-in
+
+So that the mighty might not exploit the weak, 
+and so that the orphan and the widow may be treated properly, 
+[?…
+I have written these very special words of mine on this stone; 
+I have set them together with the image of me, 
+the king of justice, 
+…?]
+in Babylon, 
+the city whose pinnacles Annu and Enlil have raised up, 
+in Esagila, the temple with foundations as firm as heaven and earth, 
+so that disputes may be settled in the land, 
+so that decisions may be made in the land, 
+so that the oppressed may be treated properly.
+
+dannum enšam ana la ḫabālim, ekūtam almattam šutēšurim ina Bābilim ālim ša Anum u3 Ellil rēšīšu ullû ina Esagil bītim ša kīma šamê u3 erṣetim išdāšu kinā dīn mātim ana diānim purussê mātim ana parāsim ḫablim šutēšurim* awâtiya šūqurātim ina narîya ašṭurma ina maḫar ṣalmiya šar mīšarim ukīn.
+
+Epilogue 9 / 32
+
+𒈗 𒊭 𒅔 𒊬𒌷 𒋗𒌅𒊒 
+𒀀𒈾𒆪 𒀀𒉿𒌅𒌑𒀀 𒈾𒀸𒂵 
+𒇷𒌑𒋾 𒊭𒉌𒉆 𒌑𒌌 𒄿𒈾(=𒊭)
+
+LUGAL ša in šar+URU šu-tu-ru 
+a-na-ku a-wa-tu-u-a na-aš-ga 
+li-u-ti ša-ni-nam u-ul i-na(=ša)
+
+I am the king who is better than (the assembly of) other kings. 
+What I say is special; 
+what I do is never outdone.
+
+šarrum ša in šarrī šūturu anāku awâtūa nasqā lē'ûtī šāninam ul išû
+
+Epilogue 10 / 32
+
+𒄿𒈾 𒆠𒁁𒀉 𒀭𒌓 
+𒁕𒀀𒀀𒉏 𒊏𒁉𒅎 𒊭 𒊭𒈨𒂊 𒅇 𒅕𒍣𒁴 𒈪𒊭𒊑
+𒄿𒈾 𒌦 𒇷𒅖𒋼𒁉 𒄿𒈾 𒀀𒉿𒀜  𒀭𒀫𒌓 𒁁𒉌 𒅀 𒌑𒅗𒊏𒌅𒌑𒀀
+𒈬𒊭𒍥𒄰 𒀀 𒅕𒅆𒀀 𒄿𒈾 𒂍𒊕𒅍𒆷 𒊭 𒀀𒊏𒄠𒈬 𒋗𒈪 𒄿𒈾 𒁕𒈪𒅅𒁴 𒀀𒈾 𒁕𒅈 𒇷𒄑𒍝𒆠𒅕
+
+i-na ki-be-it ilu.Šamaš 
+da-a-a-nim ra-bi-im ša šamê u3 irṣitim mi-ša-ri 
+i-na KALAM li'iš-te-bi 
+i-na a-wa-at ilu.Marduk be-li2 ᵐia 
+u-zu-ra-tu-u-a mu-ša-zi-ḳam a ir-ši-a 
+i-na Esagila ša a-ra-am-mu 
+šu-mi i-na da-mi-iḳ-tim a-na da-ar li'iz-za-ki-ir
+
+By the command of Shamash, 
+the almighty judge in heaven and earth, 
+let my justice shine over the land! 
+By the word of Marduk, my lord, 
+let no one bent on taking my engraved image ever remove it! 
+in Esagila, the place I love!
+May my name be uttered as a blessing for evermore, 
+
+ina qibīt Šamaš dayyānim rabîm ša šamê u3 erṣetim mīšarī ina mātim* lištēpi ina awat Marduk bēliya uṣurātūa mušassikam ay iršia ina Esagil ša arammu šumī ina damiqtim ana dār lizzakir.
+
+Epilogue 11 / 32
+
+𒀀𒉿𒈝 𒄩𒀊𒈝 𒊭 𒀀𒉿𒌓 𒄿𒊏𒀸𒋗𒌑 
+𒀀𒈾 𒈠𒄩𒅈 𒀩 𒅀 𒈗 𒈪𒊭𒊑𒅎 𒇷𒀧𒅅
+𒈠 𒈾𒊒𒄿 𒊭𒀜𒊏𒄠 𒇷𒅖𒋫𒀾𒋛
+𒈠 𒀀𒉿𒋾 𒅀 𒋗𒆪𒊏𒁴 𒇷𒅖𒈨
+𒈠 𒈾𒊒𒄿𒀀𒉿𒌓𒇷𒆗𒅆𒋗𒁲𒅔𒋗?𒈬𒌨𒇷𒅁𒁀𒋗𒇷𒈾𒀊𒁉𒅖𒈠
+
+a-wi-lum ḫa-ab-lum ša a-wa-tam i-ra-aš-šu-u 
+a-na ma-ḫa-ar ALAN ia šar3 mi-ša-ri-im li'il-ik
+ma na-ru-i ša-aṭ-ra-am li'is-ta-aš2-si
+ma a-wa-ti ᵐia šu-ku-ra-tim li'iš-me
+ma na-ru-i a-wa-tam 
+li-kal-lim šu di-in šu li'mu-ur
+li-ib-ba šu li'na-ab-bi-iš-ma
+
+Let any man oppressed, anyone who has a complaint, 
+come before this statue of the king of justice 
+and let him have the message on the stone read aloud, 
+and let him listen to the treasured words I have written, 
+and may my stela resolve his complaint, 
+and may he understand his problem, 
+and may he be content in his heart.
+
+awīlum hablum, ša awatam iraššû ana maḫar ṣalmīya šar mīšarim lillikma, narî šaṭram lištassima awātiya šūqurātim lišmēma, narî awatam likallimšu dīnšu līmur, libbašu linappišma.
+
+
+
+Epilogue 12 / 32
+
+𒄩𒄠𒈬𒊏𒁉 𒈪 𒁁𒈝 
+𒊭 𒆠𒈠 𒀀𒁉𒅎 𒉿𒇷𒁲𒅎 𒀀𒈾 𒉌𒅆 𒄿𒁀𒀸𒋗𒌑 
+𒀀𒈾 𒀀𒉿𒀜 𒀭𒀫𒌓 𒁁𒇷𒋗 𒍑𒋫𒀝𒋾𒂍
+𒈠 𒅕𒉌𒋾 𒀭𒀫𒌓 𒂊𒇷𒅖 𒅇 𒊭𒀊𒇷𒅖 𒅅𒋗𒌓 𒇷𒅁𒁉 𒀭𒀫𒌓 𒁁𒇷𒋗 𒌑𒋾𒅁 𒅇 𒅆𒊏𒄠 𒁕𒁀𒄠 
+𒀀𒈾 𒉌𒅆 𒀀𒈾 𒁕𒅈 𒁉𒅆𒅎 𒅇 𒈠𒌓 𒍑𒋼𒊺𒅕 𒁕𒉌𒌓 𒇷𒅅𒁉
+𒈠 𒄿𒈾 𒈠𒄯 𒀭𒀫𒌓 𒁁 𒅀 𒀭𒇡𒉺𒉌𒌈 𒁁𒂖𒋾 𒅀
+𒄿𒈾 𒇷𒅁𒁉 𒋗 𒂵𒄠𒁽 𒇷𒅅𒊒𒁀𒄠
+
+Ḫa-am-mu-ra-bi mi be-lum …
+ša ki-ma a-bi-im wa-li-di-im a-na ni-ši i-ba-aš-šu-u 
+a-na a-wa-at ilu.Marduk be-li šu uš-ta-ak-ti-bit
+ma ir-ni-ti ilu.Marduk e-li-iš u3 ša-ap-li-iš 
+ik-šu-ud li'ib-bi ilu.Marduk be-li šu 
+u-ti-ib u3 ši-ra-am ṭa-ba-am a-na ni-ši a-na da-ar bi-ši-im 
+u3 ma-tam uš-te-še-ir da-ni-tam li'iḳ-bi
+ma i-na ma-ḫar ilu.Marduk be-li2 ᵐia ilu.Zar-pa-ni-tum be-el-ti ᵐia 
+i-na li'ib-bi šu ga-am-rim li'ik-ru-ba-am
+
+And let him say these words: 
+'I am the lord Hammurabi, 
+who like a father gave his people their birth, 
+who has been obedient to the command of his lord Marduk 
+and who both above and below has achieved success for Marduk, 
+who has brought pleasure to Marduk his lord, 
+by ensuring health and prosperity for his people for evermore, 
+and by maintaining justice in the land.' 
+in the presence of my lord Marduk and of my lady Zarpanitu,
+let him bless me with all his heart, 
+
+'Ḫammurabimi bēlum ša kīma abim wālidim ana niši ibaššû
+ana awat Marduk bēlišu uštaktit
+ma irnitti Marduk eliš u3 šapliš ikšud libbi Marduk bēlišu uṭib 
+u3 šīram ṭābam ana nišī ana dār išim u3 mātam uštēšer' annitam liqbīma 
+ina maḫar Marduk bēliya Zarpānītum bēltiya 
+ina libbišu gamrim likrubam.
+
+
+Epilogue 13 / 32
+
+𒊺𒁺𒌝 𒆷𒈠𒍮 𒀭 𒂊𒊑𒁍𒌓 𒂍𒊕𒅍𒆷
+𒋞 𒂍𒊕𒅍𒆷
+𒄿𒄀𒅕𒊑𒂊 𒄭𒊭𒄠 𒄿𒈾 𒈠𒄯  𒀭𒀫𒌓 𒁁𒇷 𒅀 𒀭𒇡𒉺𒉌𒌈 𒁁𒂖𒋾 𒅀 𒇷𒁮𒈪𒆪
+
+še-du-um la-ma-zum ilâni e-ri-bu-ut Esagila 
+libit Esagila 
+i-gi-ir-ri-e ûmi-ša-am i-na ma-ḫar ilu.Marduk be-li2 ᵐia ilu. Zar-pa-ni-tum be-el-ti ᵐia li'dam-mi-ku
+
+May the Guardian and the Protector, the deities who go into Esagila, 
+and the brickwork of Esagila, 
+on the daily petitions made in the presence of my lord Marduk and my lady Zarpanitu look kindly.
+
+šēdum, lamassum, ilū ēribūt Esagil, libitti esagil, igirrê ūmišam ina mahar Marduk bēliya Zarpānītum bēltiya lidammiqū
+
+
+Epilogue 14 / 32
+
+𒀀𒈾 𒉿𒅈𒆠 𒀀𒀜𒌓 𒈪 𒀀𒈾 𒈠𒋾𒈠 𒈗 𒊭 𒄿𒈾 𒌦 𒅁𒁀𒀸𒋗𒌑 
+𒀀𒉿𒀀𒀜 𒈪𒊭𒊑𒅎 𒊭 𒄿𒈾 𒈾𒊒 𒅀 𒀸𒌅𒊒 𒇷? 
+𒁲𒅔 𒈠𒁴 𒊭 𒀀𒁲𒉡 
+𒁍𒊒𒍥𒂊 𒌦 𒊭 𒀊𒊒𒋢 
+𒀀 𒌑𒈾𒀝𒆠𒅕 
+𒌑𒅗𒊏𒋾 𒅀 𒀀 𒌑𒊭𒍥𒅅
+
+a-na wa-ar-ki a-ṣa/at-UT ûmi a-na ma-ti-ma LUGAL ša i-na KALAM ib-ba-aš-šu-u a-wa-a-at mi-ša-ri-im ša i-na na-ru ᵐia aš-tu-ru li'ṣur 
+di-in ma-tim ša a-di-nu 
+pu-ru-zi-e KALAM ša ap-ru-su 
+a¬ u-na-ak-ki-ir 
+u-zu-ra-ti ᵐia a¬ u-ša-zi-iḳ
+
+May any king who appears in this land at any time at all in the future 
+heed the righteous commands that I have inscribed on this stone. 
+[May no one change] the justice for the land which [I have] ordained 
+and the verdicts for the land which [I have] rendered
+… may no one change 
+May no one remove my graven image.
+
+ana warkiāt ūmī ana mātima šarrum ša ina mātim ibbaššû 
+awât mīšarim ša ina narîya ašṭuru 
+liṣṣur dīn mātim ša adīnu, 
+purussē mātim ša aprusu, 
+ay unakkir, 
+uṣurātiya ay ušassik.
+
+
+Epilogue 15 / 32
+
+𒋳𒈠 𒀀𒉿𒈝 𒋗𒌑 𒋫𒅆𒅎𒌓 
+𒄿𒋗𒈠 𒈠𒅗 𒋗𒋼𒋗𒊏𒄠 𒄿𒇷𒄿 
+𒀀𒈾 𒀀𒉿𒀀𒁴 𒊭 𒄿𒈾 𒈾𒊒 𒅀 𒀸𒌅𒊒 𒇷𒄢
+𒈠 𒆠𒅁𒊓𒄠 𒊑𒁮 
+𒁲𒅔 𒌦 𒊭 𒀀𒁲𒉡 
+𒁍𒊒𒍥𒂊 𒌦 𒊭 𒀊𒊒𒋢 𒈾𒊒𒌝 𒋗𒌑 𒇷𒆗𒅆 𒋗𒈠
+
+šum-ma a-wi-lum šu-u ta-ši-im-tam 
+i-šu-ma ma-zu šu-te-šu-ra-am i-li-i 
+a-na a-wa-a-tim ša i-na na-ru ᵐia aš2-tu-ru li'gul
+ma ki-ib-sa-am ri-dam 
+di-in KALAM ša a-di-nu
+pu-ru-zi-e KALAM ša ap-ru-su 
+na-ru-um šu-u li'kal-lim-šu-ma
+
+If he is man of intelligence, 
+who is able to direct his land aright, 
+let him adhere to the commands I have written on this stela, 
+and let this stela explain to him 
+the customs and traditions, 
+the social problems I have encountered 
+and the decisions I have taken for the community.
+(the justice for the land which [I have] ordained
+the verdicts for the land which [I have] rendered)
+
+šumma awīlum šû tašīmtam 
+išūma māssu šutēšuram ile'i, 
+ana awātim ša* ina narîya ašṭuru liqūlma, 
+kibsam rīdam 
+dīn mātim ša adīnu, 
+purussē mātim ša aprusu, 
+narûm šû likallimšuma
+
+
+Epilogue 16 / 32
+
+𒅕𒀠𒈠𒀜 𒂵𒂵𒁲 𒋗 𒇷 𒅖𒋼𒊺𒅕 
+𒁲𒅔 𒅆𒈾 𒇷 𒁲𒅔 
+𒁍𒊒𒍝 𒅆𒈾 𒇷 𒅁𒊒𒍑 
+𒄿𒈾 𒈠𒋾𒋗 𒊏𒂵𒄠 𒅇 𒋛𒉆 𒇷𒅗𒄴 
+𒅆𒅕 𒉌𒅆 𒋗 𒇷 𒋾𒅁
+
+ṣa-al-ma-at ga-ga-di šu li'iš-te-še-ir 
+di-in ši-na li'di-in 
+pu-ru-za ši-na li'ip-ru-uš 
+i-na ma-ti šu ra-ga-am u3 si-nam li'zu-uh
+ši-ir ni-ši šu li'ṭi-ib
+
+ṣalmāt qaqqadišu lištēšer, 
+dīnšina lidīn, 
+purussāšina liprus, 
+ina mātišu raggam u3 ṣēnam lissuḫ,
+šīr nišīšu liṭib.
+
+So then may he direct the mass of humanity aright, 
+Let him consider their problems, 
+let him take decisions for them. 
+Let him weed out evil and wickedness from his land, 
+let him improve the condition of his people.
+
+
+Epilogue 17 / 32
+
+𒄩𒄠𒈬𒊏𒁉 𒊬 𒈪𒊭𒊑𒅎 
+𒊭 𒀭𒌓 𒆠𒈾𒁴 𒅖𒊒𒆪 𒋳
+𒀀𒈾𒆪 𒀀𒉿𒌅𒌑𒀀 𒈾𒀸𒂵 𒅁𒊺𒌅𒌑𒀀 𒊭𒉌𒉆 𒌑𒌌 𒄿𒊭𒀀 𒂊𒆷 𒀀𒈾 𒆷𒄩 𒍥𒅎𒊑𒂵 𒀀𒈾 𒅎𒆠𒅎 𒀀𒈾 𒋫𒈾𒁕𒁴 𒋗𒅕𒀀
+
+Ḫa-am-mu-ra-bi šar mi-ša-ri-im 
+ša ilu.Šamaš ki-na-tim iš-ru-ku-šum 
+a-na-ku a-wa-tu-u-a na-aš-ga ip-še-tu-u-a 
+ša-ni-nam u-ul i-ša-a e-la 
+a-na la-ḫa ZI.IM.RI.GA a-na im-ki-im 
+a-na ta-na-da-btim šu-ṣa-a
+
+Ḫammurabi šar mīšarim, 
+ša Šamaš kīnātim išrukušum, 
+anāku awâtūa nasqā epšētūa 
+šāninam ul išâ ela
+ana la ḫassim rēqa ana emqim 
+ana tanādātim šūṣâ.
+
+I am Hammurabi the king of righteousness, 
+to whom Shamash has entrusted the truth. 
+My words are special. 
+My deeds cannot be surpassed. 
+It is only to the senseless they are meaningless; 
+To the wise they are a cause for praise.
+
+
+Epilogue 18 / 32
+
+𒋳𒈠 𒀀𒉿𒈝 𒋗𒌑 𒀀𒈾 𒀀𒉿𒋾 𒅀 
+𒊭 𒄿𒈾 𒈾𒊒 𒅀 𒀸𒌅𒊒 𒄿𒄢
+𒈠 𒁲𒉌 𒆷 𒌑𒊭𒊍𒍥𒅅
+𒀀𒉿𒋾 𒅀 𒆷 𒍑𒋼𒉿𒂖 
+𒌑𒅗𒊏𒋾 𒅀 𒆷 𒌑𒈾𒆠𒅕 
+𒀀𒉿𒈝 𒋗𒌑 𒆠𒈠 𒅀𒋾 𒊬 𒈪𒊭𒊑𒅎 𒀭𒌓 
+𒄑𒉺 𒋗 𒇷𒅕𒊑𒅅 𒉌𒅆 𒋗 𒄿𒈾 𒈪𒊭𒊑𒅎 𒇷𒊑
+
+šum-ma a-wi-lum šu-u a-na a-wa-ti ᵐia 
+ša i-na na-ru ᵐia aš-tu-ru i-gul
+ma di-ni la u-ša-az-zi-iḳ 
+a-wa-ti ᵐia la uš-te-pi-el 
+u-zu-ra-ti ᵐia la u-na-ki-ir 
+a-wi-lum šu-u ki-ma ia-ti šar mi-ša-ri-im ilu.Šamaš 
+ḫaṭṭi šu li'ir-ri-ik 
+ni-ši šu i-na mi-ša-ri-im li'ri
+
+If that man [has paid attention] to my commandments 
+that I have inscribed on this stone [has paid attention]
+and has not cast aside my rules, 
+if he has not changed my commandments 
+or emended what I have written, 
+[that man] … ?
+Shamash the rule of the king of righteousness
+will surely make that man's rule last 
+for as long as he has made mine last, 
+He shall feed his flock in pastures of righteousness.
+
+šumma awīlum šû ana awâtiya ša ina narîya ašṭuru iqūlma dīnī la ušassik, awâtiya la uštepēl, uṣurātiya la unakkir, awīlum šû kīma īâti šar mīšarim Šamaš ḫaṭṭašu lirrik nišīšu ina mīšarim lirē.
+
+Epilogue 19a / 32
+
+𒋳 𒈠 𒀀𒉿𒈝 𒌑 𒀀𒉿𒋾 𒅀 𒊭 𒄿𒈾 𒈾𒊒 𒅀 𒊍𒌅𒊒 𒆷 𒄿𒄢
+𒈠 𒅕𒊑𒋾 𒅀 𒄿𒈨𒌍
+𒈠 𒅕𒊑𒀉 𒀭 𒆷 𒄿𒄙
+𒈠 𒁲𒅔 𒀀𒁲𒉡 𒌒𒋫𒊍𒍥𒅖
+𒀀𒉿𒋾 𒅀 𒍑𒋼𒉿𒂖
+𒌑𒅗𒊏𒋾 𒅀 𒌓𒋫𒀝𒆠𒅕 
+
+šum-ma a-wi-lum šu-u a-wa-ti ᵐia 
+ša i-na na-ru ᵐia as-tu-ru la i-gul
+ma ʷir-ri-ti ᵐia i-me-eš
+ma ʷir-ri-it ili la i-dur
+ma di-in a-di-nu up-ta-az-zi-is 
+a-wa-ti ᵐia uš-te-pi-el 
+u-zu-ra-ti ᵐia ut-ta-ak-ki-ir 
+
+If that man … has not paid attention 
+to the commandments that I have inscribed on this stone
+and if he has forgotten my threatened curses 
+and has shown no fear for the curses threatened by god, 
+and if he has destroyed the rules I ordained 
+and changed my commandments 
+and emended what I have written, 
+
+Epilogue 19b / 32
+
+𒋗𒈪 𒊭𒀜𒊏𒄠 𒅁𒅆𒀉
+𒈠 𒋳 𒋗 𒅖𒋫𒁯 
+𒀸𒋧 𒅕𒊑𒁴 𒅆𒈾𒋾 𒊭𒉌𒀀𒄠𒈠 𒍑𒋫𒄭𒄑
+𒀀𒉿𒈝 𒋗𒌑 𒇻 𒈗 𒇻 𒂗 𒇻 𒉺𒋼𒋛 
+𒅇𒇻 𒀀𒉿𒇻𒌈 𒊭 𒋗𒈠𒄠 𒈾𒁉𒀀𒀜 
+𒀭 𒊏𒁍𒌝 𒀀𒁍 𒉌𒉌 
+𒈾𒁍𒌑 𒁄 𒅀 
+𒈨𒃼𒄑 𒊬𒊒𒁴 𒇷 𒋼𒅕 𒋗
+𒄑𒉺 𒋗 𒇷𒅖𒁉𒅕
+𒅆𒈠𒋾 𒋗 𒇷𒊒𒌨
+
+šu-mi ša-aṭ-ra-am ip-ši-iṭ
+ma šum šu iš-ta-dar 
+aš-sum ʷir-ri-tim 
+ši-na-ti ša-ni-a-am-ma uš-ta-ḫi-iz 
+a-wi-lum šu-u lu šarrum lu bêlum lu pa-te-si
+u3 lu a-wi-lu-tum ša šu-ma-am na-bi-a-at 
+AN ra-bu-um a-bu ili 
+na-bu-u palî ᵐia 
+melam šar-ru-tim li'te-ir šu 
+ḫaṭṭi šu li'iš-bi-ir 
+ši-ma-ti šu li'ru-ur
+
+[and] if he has removed my name from the inscription 
+and inscribed his own 
+[or] because of these writings (threatened curses), 
+has forced someone else to do it;
+whether that man is a king or a lord or a governor 
+or a person appointed to some other function, 
+almighty Anu, the father of the gods, 
+[the one who] designated me to rule, 
+will surely remove from him the splendour of sovereignty, 
+and he will smash his staff 
+and curse his destiny.
+
+šumma awīlum šû ana awâtiya ša ina narîya ašṭuru la iqūlma errētiya imēšma, errēt ilī la īdurma, dīn adīnu uptassis, awâtiya uštepēl, uṣurātiya uttakkir šumī šaṭram ipšiṭma, šumšu ištaṭar aššum errētim(!) šināti šaniamma uštāḫiz awīlum šû lu šarrum lu bēlum lu iššiakkum u3 lu awīlūtum ša šumam nabiat Anum rabûm abu ilī nābû palêya, melemmī šarrūtim liṭeršu, ḫaṭṭašu lišbir, šīmātišu līrur.
+
+
+
+Epilogue 20a / 32 
+
+𒀭𒂗 𒁁𒈝 𒈬𒅆𒅎 𒅆𒈠𒁴 
+𒊭 𒆠𒁁𒅗 𒆷 𒌑𒋫𒅗𒊒 
+𒈬𒊬𒁍𒌑 𒊬𒊒𒋾 𒅀 
+𒋼𒅆 𒆷 𒋗𒌒𒁉𒅎 
+𒂵𒅗 𒊏𒄴 𒄩𒆷𒆠 𒋗 
+𒄿𒈾 𒋗𒌒𒋾 𒋗 𒇷𒊭𒀊𒁉𒄩𒀸 𒋳
+𒁄 𒋫𒉈𒄭𒅎
+𒈪 𒄿𒅗𒁴 
+
+ilu.Bêl be-lum mu-ši-im ši-ma-tim 
+ša ki-be-zu la u-ta-ka-ru 
+mu-šar-bu-u šar-ru-ti ᵐia 
+te-ši la šu-ub-bi-im ga-zu ra-aḫ ḫa-la-ḳi šu 
+i-na šu-ub-ti šu li'ša-ab-bi-ḫa-aš-šum 
+palî ta-ne-ḫi-im 
+ûmi i-zu-tim 
+
+O Enlil, the lord who decides destinies, 
+whose commands cannot be altered, 
+who makes my sovereignty magnificent, 
+bring into his home turmoil which cannot be suppressed, ??
+upheaval which will bring him to an end, ??
+make his destiny a reign of depression, ??
+not enough days, ??
+
+Epilogue 20b / 32
+
+𒊭𒈾𒀀𒀜 𒄷𒊭𒄴𒄭𒅎 
+𒅅𒇷𒀉 𒆷 𒈾𒉿𒊑𒅎 
+𒈬𒌓 𒉌𒋾𒀧 𒁉𒉏 
+𒀀𒈾 𒅆𒅎𒁴 𒇷𒅆𒅎 𒋳 
+𒄩𒆷𒀝 𒌷 𒋗
+𒈾𒀸𒁍𒄴 𒉌𒅆 𒋗 
+𒊬𒊒𒅗 𒋗𒁉𒇴 𒋳 𒋗 𒅇 𒍥𒅗 𒋗 
+𒄿𒈾 𒈠𒁴 𒆷 𒋗𒌒𒊭𒀀𒄠 
+𒄿𒈾 𒅗 𒋗 𒆏𒁴 𒇷𒅅𒁉
+
+
+ša-na-a-at ḫu-ša-aḫ-ḫi-im 
+ik-li-it la na-wa-ri-im 
+mu-ut ni-ṭi-il bi-nim 
+a-na ši-im-tim li'ši-im šum 
+ḫa-la-aḳ ᵛali šu
+na-aš-pu-uḫ ni-ši šu 
+šar-ru-zu šu-bi-lam šum šu u3 zi-kir šu 
+i-na ma-tim la šu-ub-ša-a-am 
+i-na pī šu kab-tim li'iḳ-bi
+
+years of hunger, 
+no light in the darkness, 
+death in the flash of an eye; 
+command with your grave tones …
+the loss of his city, 
+the exile of his people, 
+the overthrow of his kingdom, 
+the extinction of his name 
+and reputation from the land.
+
+Ellil bēlum mušīm šīmātim ša qibīssu la uttakkaru mušarbû šarrūtiya, tēšî la šubbîm, gabaraḫ ḫalāqišu, ina šubtišu lišappiḫaššum palê tānēḫim ūmī īṣūtim, šanāt ḫušaḫḫim iklet la nawārim, mūt niṭil īnim ana šīmtim lišīmšum ḫalāq ālišu, naspuḫ nišīšu šarrūssu šupēlam šumšu u3 zikiršu ina mātim la šubšâm ina pīšu kabtim liqbi
+
+
+Epilogue 21 / 32
+
+𒀭𒊩𒌆 𒌑𒂼 𒊏𒁁𒌈 
+𒊭 𒆠𒁁𒍝 𒄿𒈾 𒂊𒆳 𒆏𒋫𒀜 
+𒊩𒌆 𒈬𒁮𒈪𒂵𒀜 𒄿𒄀𒅕𒊑 𒅀
+𒀀𒊬 𒅆𒅁𒁲𒅎 𒅇 𒁍𒊒𒍥𒅎 
+𒄿𒈾 𒈠𒄯 𒀭𒂗 
+𒀀𒉿𒅗 𒇷𒇷𒈪𒅔 
+𒋗𒌌𒁍𒌓 𒈠𒋾 𒋗 
+𒄩𒆷𒀝 𒉌𒅆 𒋗 
+𒋫𒁀𒀝 𒈾𒆠𒀀𒋾 𒋗 𒆠𒈠 𒈨𒂊 
+𒄿𒈾 𒅗 𒀭𒂗 𒊬𒊑𒅎 𒇷𒊭𒀸𒆠𒅔
+
+ilu.Bêlit ummum ra-be-tum 
+ʷša ki-be-za i-na E.KUR kab-ta-at 
+bêltum mu-dam-mi-ga-at i-gi-ir-ri ᵐia 
+a-šar ši-ip-di-im u3 pu-ru-zi-im 
+i-na ma-ḫar ilu.Bêl 
+a-wa-zu li'li-mi-in 
+šu-ul-pu-ut ma-ti šu 
+ḫa-la-aḳ ni-ši šu 
+ta-ba-ak na-piš-ti šu ki-ma me-e
+i-na pî ilu.Bêl šar-ri-im li'ša-aš-ki-in
+
+[O] Ninlil, almighty mother, 
+whose voice is honoured in Ekur, 
+the lady who ensures acceptability for my requests, 
+make his words stink 
+in the presence of Enlil 
+where judgment is to be decided;  ??
+his land be plagued, 
+his people be lost, 
+his life ebb away like a stream
+make king Enlil decree 
+
+Ninlil ummum rabītum, ša gibīssa ina Ekur kabtat, bēltum mudammiqat igirrēya ašar šipṭim u3 purussêm, ina maḫar Ellil awassu lilemmin šulput mātišu, ḫalāq nišīšu, tabāk napištišu kīma mê ina pī Ellil šarrim lišaškin.
+
+Epilogue 22 / 32
+
+𒀭𒂗𒆠 𒉣 𒊏𒁉𒌝 
+𒊭 𒅆𒈠𒌅 𒋗 𒄿𒈾 𒈤𒊏 𒄿𒆷𒅗 
+𒉣𒈨 𒉌𒉌 
+𒈬𒁲 𒈪𒅎𒈠 𒋳 𒋗
+𒈬𒊭𒊑𒆪 𒌓𒌝 𒁀𒆷𒋾 𒅀 
+𒊻𒉆 𒅇 𒉈𒈨𒂵𒄠 𒇷𒋼𒅕 𒋗𒈠 
+𒄿𒈾 𒈪𒅆𒁴 𒇷 𒀉𒋫𒅈𒊒 𒋗 
+𒀀𒇉 𒀀𒇉 𒋗 𒄿𒈾 𒈾𒀝𒁉𒅎 𒇷𒅖𒆠𒅕 
+𒄿𒈾 𒅕𒅆𒋾 𒋗 𒀭𒊺𒌁 𒈾𒁉𒅖𒋾 
+𒉌𒅆 𒀀 𒌑𒊭𒀊𒅆
+
+ilu.EN.KI NUN ra-bi-um 
+ša ši-ma-tu šu i-na maḫ-ra i-la-ka 
+abkal ili 
+mu-di mi-im-ma šum šu 
+mu-ša-ri-ku û-um ba-la-ṭi ᵐia 
+uz-nam u3 ne-me-ga-am li'te-ir šu-ma 
+i-na mi-ši-tim li'it-ta-ar-ru šu 
+ÍD-ÍD (nârâti) šu i-na na-ak-bi-im li'is-ki-ir 
+i-na ir-ši-ti šu ilu.Ašnan na-bi-iš-ti 
+ni-ši a u-ša-ab.ši
+
+O Ea, almighty prince, 
+whose opinions gain precedence, 
+the counsellor of the gods, 
+who knows about everything, 
+who lengthens the days of my life, 
+take from him wisdom and understanding  ??
+and turn him into someone confused; 
+stop up the springs of his rivers, 
+from his grounds banish the Grain 
+to feed the people.
+
+Ea rubûm rabium ša šīmātušu ina maḫra illakā apkal ilī mudē mimma šumšu mušāriku ūm balāṭiya uznam u3 nēmeqam līṭeršuma ina mīšītim littarrušu nārātišu ina nagbim liskir ina erṣetišu ašnān napišti nišī ay uš ši.
+
+Epilogue 23 / 32
+
+𒀭𒌓 𒁕𒀀𒀀𒉡𒌝 𒊏𒁉𒌝 𒊭 𒊭𒈨𒂊 𒌑 𒅕𒍢𒁴 𒈬𒍑𒋼𒊺𒅕 
+𒊭𒀝𒈾𒀜 𒈾𒁉𒅖𒁴 
+𒁁𒈝 𒌅𒆰𒋾 
+𒊬𒊒𒅗 𒇷𒅖𒆠𒅁 
+𒁲𒅔 𒋗 𒀀 𒄿𒁲𒅔 𒌑𒊒𒄴 𒋗 𒇷𒅆 
+𒍑 𒌝𒈠𒉌 𒋗 𒇷𒅖𒄭𒂖𒍥 
+𒄿𒈾 𒁉𒊑 𒋗 𒁖𒆨?? 𒅆𒉆 𒊭 𒈾𒊓𒄴 
+𒍑 𒊬𒊒𒋾 𒋗 𒅇 𒄩𒆷𒀝 
+𒈠𒋾 𒋗 𒇷𒅖𒆪𒌦 𒋳 
+𒀀𒉿𒌈 𒈠𒊒𒍑𒌈 𒊭 𒀭𒌓 𒅈𒄭𒅖 𒇷𒅅𒋗𒅗
+?𒅖 𒄿𒈾 𒁀𒀠𒌅𒁴 𒇷𒄑𒅗𒄴 𒋗 𒊭𒀊𒇷𒅖 𒄿𒈾 𒅕𒍣𒁴 ? 𒋗 𒈨𒂊 𒇷𒊭𒊍𒈪
+
+ilu.Šamaš da-a-a-nu-um ra-bi-um ša ša-me-e u3 ir-ṣi-tim mu-uš-te-še-ir ša-ak-na-at na-bi-iš-tim 
+be-lum tu-kul-ti 
+šar-ru-zu li'is-ki-ip 
+di-in šu a i-di-in u-ru-uḫ šu li-ši 
+išid um-ma-ni šu li'iš-ḫi-[el]-zi 
+i-na bi-ri šu šîram lim-nam ša na-sa-aḫ
+išid šar-ru-ti šu u3 ḫa-la-aḳ 
+ma-ti šu li'iš-ku-un šum 
+a-wa-tum ma-ru-uš-tum ša ilu.Šamaš ar-ḫi-iš li'ik-šu-zu 
+eli-iš 
+i-na ba-al-tu-tim li'iz-zu-uḫ šu ša-ap-li-iš 
+i-na ir-ṣi-tim ekimmê šu me-e li'ša-az-mi
+
+
+O Shamash, almighty judge of heaven and earth 
+who directs the lives of all living creatures, 
+the lord in whom I trust, 
+overthrow his kingdom, 
+do not judge his cause, 
+confuse him on his path, 
+cause the foundations of his military power to crumble, 
+when he seeks divination send an inauspicious portent, 
+[so that the] foundations of his kingdom will be torn up 
+and he will lose his land; 
+let the bitter words of Shamash quickly overpower him; 
+cut him off from those who live above, 
+in the land below make his shadow thirst for water.
+
+Šamaš dayyānum rabium ša šamê u3 erṣetim muštēšer šaknat napištim bēlum tukultī šarrūssu liskip, dīnšu ay idīn uruḫšu līši, išdī ummānišu lišḫelṣi ina bīrišu šīram lemnam ša nasāḫ išdī šarrūtišu u3 ḫalāq mātišu liškunšum awatum maruštum ša Šamaš arḫīš likšussu eliš ina balṭūtim lissuḫšu šapliš ina erṣetim eṭemmašu mê lišaṣmi.
+
+Epilogue 24 / 32
+
+𒀭𒊿 𒁁𒂖 𒊭𒈨𒂊 𒀭 𒁀𒉌𒄿 
+𒊭 𒊺𒊑𒅗 𒄿𒈾 𒀭 𒋗𒉺𒀀𒀜 
+𒂇 𒄑𒄖𒍝 𒊭 𒊬𒊒𒁴 𒇷𒋼𒅕 𒋗
+𒅈𒉆 𒆏𒌓 𒊺𒊑𒅗 𒊏𒁉𒌓 
+𒊭 𒄿𒈾 𒅗𒌝𒊑 𒋗 𒆷 𒄿𒄬𒇷𒆪 𒇷𒈬𒅗𒈠 
+𒈪 𒌗 𒌚 𒊭𒈾𒀀𒀜 𒁄 𒋗 
+𒄿𒈾 𒋫𒉈𒄭𒅎 𒌑 𒁲𒅎𒈠𒁴 𒇷𒊭𒀝𒋾 
+𒄰𒈠𒀠 𒊬𒊒𒁴 𒇷𒊭𒀜𒁲𒉈 𒋗 
+𒁀𒆷? 𒊭 𒀉𒋾 𒈬𒁴 𒅆𒋫𒀭𒉡 𒀀𒈾 𒅆𒅎𒁴 𒇷𒅆𒅎𒋳
+
+ilu.Šin be-el ša-me-e ilu.m ba-ni-i 
+ša še-ri-zu i-na ili šu-pa-a-at 
+AGA kussām ša šar-ru-tim li'te-ir šu 
+ar-nam kab-tam še-ri-zu ra-bi-tam 
+ša i-na zu-um-ri šu la i-ḫal-li-ḳu li'mu-zu-ma 
+ûmi arḫi arḫi ša-na-a-at pal šu 
+i-na ta-ne-ḫi-im u3 di-im-ma-tim li'ša-aḳ-ti 
+kam-ma-al šar-ru-tim li'ša-ad-di-bil šu 
+ba-la-ṭam ša it-ti mu-tim ši-ta-an-nu a-na ši-im-tim li'ši-im-šum
+ 
+O Sin, lord of heaven, creator god, 
+whose brilliance outshines [all other] gods, 
+remove his kingly crown and throne ; 
+[impose on him] a harsh punishment and severe condemnation 
+from which his body will not recover; 
+bring each day, each month, each year of his rule 
+to a close with weeping and wailing; ??
+bring him face to face with a rival of his kingdom, 
+make his destiny a life that vies all the time with death.
+
+Sîn bēl šamê ilu.m bānî ša têressu(!) ina ilī šūpât agâm kussiam ša šarrūtim liṭeršu arnam kabtam šēressu rabītam ša ina zumrišu la iḫalliqu limussuma ūmī warḫī šanāt palēšu ina tānēḫim u3 dimmatim lišaqti kammāl šarrūtim lišaṭṭilšu balāṭam ša itti mūtim šitannu ana šimtim lišīmšum.
+
+Epilogue 25 / 32
+
+𒀭𒅎 𒁁𒂖 𒃶𒅅 
+𒄖𒃲 𒊭𒈨𒂊 𒌑 𒅕𒍣𒁴
+𒊑𒅗𒌑𒀀 𒅗𒉌 𒄿𒈾 𒊭𒈨𒂊 𒈪𒇴
+𒄿𒈾 𒈾𒀝𒁉𒅎 𒇷𒋼𒅕 𒋗 𒈠𒅗 
+𒄿𒈾 𒄷𒊭𒄴𒄭𒅎 𒌑 𒁍𒁍𒁴 𒇷𒄬𒇷𒅅
+𒂊𒇷 𒌷 𒋗 𒄑𒍥𒅖 𒇷𒅖𒋛𒈠 
+𒈠𒅗 𒀀𒈾 𒌀 𒁀𒁍𒁉𒅎 𒇷𒋼𒅕
+
+ilu.Adad be-el he₂ĝal₂ 
+gu-gal ša-me-e u3 ir-ṣi-tim 
+ri-zu-u-a zu-ni i-na ša-me-e mi-lam 
+i-na na-ak-bi-im li'te-ir šu 
+ma-zu i-na ḫuⁿša-aḫ-ḫi-im u3 bu-bu-tim li'ḫal-li-iḳ
+e-li ali šu iz-zi-iš li'is-si-ma
+ma-zu a-na til ba-bu-bi-im li'te-ir
+
+Adad bēl ḫegallim gugal šamê u3 urṣetim, rēṣūa zunnī ina šamê mīlam ina nagbim liṭeršu māssu ina ḫušaḫḫim u3 bubūtim liḫalliq eli ālišu ezziš lissīma māssu ana til abūbim litēr.
+
+O Adad, lord of plenty, 
+who looks after the water channels in heaven and earth, 
+my helper, 
+deprive him of showers from heaven  <<
+and spring water from the ground;  <<
+destroy his land by famine and pestilence; 
+thunder angrily over his city; 
+turn his land into the ruin left after the flood. <<<
+
+
+Epilogue 26 / 32
+
+𒀭𒍝𒈠𒈠 𒃼𒊏𒁺𒌝 𒊏𒁉𒌝 
+𒈥𒊑𒌍𒌅𒌝 𒊭 𒂊𒆳 
+𒀀𒇷𒆪 𒅎𒉌 𒅀 
+𒀀𒊬 𒌓𒄩𒊑𒅎 𒄑𒆪 𒋗 𒇷𒅖𒁉𒅕 
+𒌓𒈠𒄠 𒀀𒈾 𒈬𒅆𒅎 𒇷𒋼𒅕 𒋳𒈠 
+𒈾𒆠𒅕 𒋗 𒂊𒇷 𒋗 𒇷𒅖𒍥𒄑
+
+ilu.ZA.MA(L).MA(L) gar3-ra-du-um ra-bi-um 
+mar+ri-eš-tu-um ša E.KUR 
+a-li-ku im-ni ᵐia 
+a-šar tam-ḫa-ri-im kakka šu li'iš-bi-ir 
+û-ma-am a-na mu-ši-im li'te-ir šum-ma 
+na-ki-ir šu e-li šu li'iš-zi-iz
+
+Zababa qarrādum rabium mārum rēštûm ša Ekur āliku imniya ašar tamḫārim kakkašu lišbir ūmam ana mūšim litēršumma nakiršu elišu lišziz.
+
+Oh Zababa, almighty warrior 
+the first son born in Ekur, 
+the companion at my right hand 
+shatter his weapon on the battlefield; 
+turn his day into night ; (PUN <> 𒆥𒋝 (liliātu )
+let his enemy stand victorious over him.
+
+
+Epilogue 27 / 32
+
+𒀭𒈹 𒁁𒇷𒀉 𒀝(𒀞) 𒌑 𒋢𒆹? 
+𒉺𒋾𒀀𒀜 𒄑𒆪 𒅀 
+𒆷𒈠𒍥 𒁕𒈪𒅅𒌈 
+𒊏𒄿𒈠𒀜 𒁄 𒅀 
+𒄿𒈾 𒇷𒅁𒁉𒊭 𒀝𒄀𒅎 
+𒄿𒈾 𒊻𒍝𒋾𒊭 𒊏𒁁𒀀𒁴 
+𒊬𒊒𒅗 𒇷𒊒𒌨 
+
+ilu.Nanâ be-li-it taḫazim u3 ḳablê 
+pa-ti-a-at kakki ᵐia 
+la-ma-zi da-mi-iḳ-tum 
+ra-i-ma-ạt pal ᵐia 
+i-na li'ib-bi-ša ag-gi-im 
+i-na uz-za-ti-ša ra-be-a-tim 
+šar-ru-zu li'ru-ur 
+
+O Ishtar, lady of war and conflict, 
+the one who draws out my weapons, 
+my gracious Protecting Spirit, 
+who loves me to rule, 
+with unsurpassable anger 
+and rage in your heart 
+curse his kingship 
+
+Epilogue 27b / 32
+𒁮𒂵𒋾 𒋗 𒀀𒈾 𒇷𒅎𒉈𒁴 𒇷𒋼𒅕
+𒇷𒋼𒅕 𒀀𒊬 ? 𒁍 ? 𒄑𒆪 𒋗 𒇷𒅖𒁉𒅕 𒄿𒅆𒌓 𒍝𒄴𒈠𒀸𒌓 𒇷𒅖𒆪𒌦 𒋳
+𒃼𒊏𒁲 𒋗 𒇷𒊭𒄠𒆠𒀉 𒁕𒈪 𒋗𒉡 𒅕𒍣𒌓 𒇷𒅖𒆠 𒄖𒊒𒌦 𒊭𒀠𒈠𒀜
+𒌝𒈠𒈾𒋾 𒋗 𒄿𒈾 𒍣𒊑𒅎 𒇷𒀉𒋫𒀜𒁲
+? 𒋗 … 𒄠 𒀀𒄿 𒌑𒊬𒅆 𒋗𒀀𒋾 𒀀𒈾 𒂵𒀜 ?𒀝𒊑 𒋗 𒇷𒈠𒀠𒇷 𒋗𒈠 𒀀𒈾 𒈠𒀜 𒉡𒆪𒁓𒋾 𒋗 𒅗𒈪𒅖 𒇷𒊒𒋗
+
+dam-ga-ti šu a-na li'im-ne-tim li'te-ir li'te-ir a-šar taḫazim bu ḳablê kakka šu li'iš-bi-ir i-ši-tam za-aḫ-ma-aš-tam li'iš-ku-un-šum ḳar-ra-di šu li'ša-am-ki-it da-mi-šu-nu ir-ṣi-tam li'iš-ki gu-ru-un ša-al-ma-at um-ma-na-ti šu i-na ṣi-ri-im li'it-ta-ad-di ṣab šu . . . . . am a-i u-šar-ši šu-a-ti a-na ga-at bna-ak-ri šu li'ma-al-li-šu-ma a-na ma-at nu-ku-bur-ti šu ka-mi-iš li'ru-šu
+
+turn his blessings into troubles; 
+shatter his weapons wherever he struggles and fights; 
+ensure that he has revolts and insurrections; 
+bring down his heroes, 
+let the earth drink their blood; 
+keep on piling up his soldiers 
+on to the heap of corpses in the desert, 
+and show them no mercy;
+hand over that man himself 
+into the hand of his enemy; 
+they will take him off bound into a hostile land.
+
+Ištar bēlet tāḫazim u3 qablim, pātiat kakkiya lamassī damiqtum, rā'imat palêya ina libbiša aggim, ina uzzātiša rabiātim šarrūssu līrur damqātišu ana lemnētim litēr ašar tāḫazim u3 qablim kakkašu lišbir išītam saḫmaštam liškunšum qarrādīšu lišamqit damīšunu erṣetam lišqi gurun šalmāt ummānātišu ina ṣērim littaddi ummānšuma(!) rēmam ay ušarši šuāti ana qāt nakrīšu limallīšuma ana māt nukurtišu kamîš līrûšu.
+
+Epilogue 28 / 32
+
+ 𒀭𒄊𒌷𒃲 𒆗𒉡𒌝 𒄿𒈾 𒉌𒉌 
+ 𒂵𒁀𒀠 𒆷 𒈠𒄩𒅈 
+ 𒈬𒊭𒀝𒅆𒁺 𒅕𒉌𒋾 𒅀 
+ 𒄿𒈾 𒅗𒋗𒅆 𒋗 𒊏𒁉𒅎 
+ 𒆠𒈠 𒄿𒊭𒁴 𒄑𒍥𒁴 
+ 𒊭 𒀀𒁉𒅎 𒉌𒅆 𒋗 𒇷𒅅𒈨
+ 𒅔 𒄑𒆪 𒋗 𒆗𒉏 𒇷𒊭𒋾 𒋗𒈠
+ 𒁉𒉌𒀀𒋾 𒋗 
+ 𒆠𒈠 𒍝𒇴 𒁲𒁲𒅎 𒇷𒄴𒁍𒍑
+
+bNER.URU.GAL dan-nu-um i-na ili 
+ga-ba-al la ma-ḫa-ar 
+mu-ša-ak-ši-du ir-ni-ti ᵐia 
+i-na ka-šu-ši šu ra-bi-im 
+ki-ma i-ša-tim iz-zi-tim 
+ša a-bi-im ni-ši šu li'ik-me 
+in kakki šu dan-nim li'ša-ti šu-ma 
+bi-ni-a-ti šu 
+ki-ma za-lam di-di-im li'iḫ-pu-uš
+
+O Nergal, fighter for the gods, 
+unrivalled in the battle, 
+who sees me through to victory, 
+you shall burn up his people 
+with a massive holocaust, 
+like flames blazing through the reeds; 
+you shall beat him with a violent weapon, 
+you shall crush his limbs 
+like those of a clay doll.
+
+"May Nergal, the strong one among the gods, 
+irresistible onslaught, 
+who causes my victories, 
+burn his people with his mighty weapon 
+like a raging marsh fire. 
+May he have him beaten with his powerful weapon 
+and break his limbs 
+like those of clay figurine."
+
+Nergal dannum ina ilī qabal la maḫār* mušakšidu irnittiya ina kašūšišu rabîm kīma išātim ezzetim ša appim nišīšu liqmi in kakkišu dannim lišaṭṭišuma biniātišu kīma ṣalam ṭiddim liḫbuš
+
+Epilogue 29 / 32
+
+𒀭𒎏𒌅 𒎏 𒍢𒅕𒌈 𒊭 𒈠𒋫𒁴
+𒂼 𒁀𒉌𒋾 𒌉𒍑  𒇷𒋼𒅕 𒋗𒈠 
+𒋗𒈠𒄠 𒀀 𒌑𒊬 𒅆 𒋗 
+𒄿𒈾 𒅗𒁉𒀉 𒉌𒅆 𒋗 
+𒆰 𒀀𒉿𒇻𒁴 𒀀 𒅁𒉌
+
+ilu.NIN.TU bêltum ṣi-ir-tum ša ma-ta-tim 
+ummum ba-ni-ti 
+mâram li'te-ir šu-ma 
+šu-ma-am a¬ u-šar ši šu 
+i-na kir-bi-it ni-ši šu 
+zêr a-wi-lu-tim a¬ ib-ni
+
+Nintu bēltum ṣirtum ša mātātim ummum bānītī aplam līṭeršuma šumam ay ušaršīšu ina qerbīt nišīšu zēr awīlūtim ay ibni.
+
+O Nintu, noble lady of the nations, 
+the mother who has created me, 
+let him have no heir, 
+deprive him of posterity,  ?
+amidst his people 
+let him not raise a family.
+
+
+Epilogue 30 / 32
+
+𒀭𒎏𒋼𒀀𒊏𒀝 𒌉𒊩 𒀭𒉏 
+𒂵𒁉𒀀𒀜 𒌈𒆠 𒅀 𒄿𒈾 𒂍𒆳 
+𒄯𒅕𒄠 𒆏𒌓 
+𒀉𒉺 𒇷𒅎𒉆 
+𒍥𒅎𒈠𒄠 𒈥𒅕𒄠 
+𒊭 𒆷 𒄿𒉺𒀸𒊺𒄷 
+𒀀𒋢 𒆠𒊑𒅁 𒋗 𒆷 𒄿𒇴𒈠𒁺 𒄿𒈾 𒍥𒅎𒁲 𒆷 𒌑𒈾𒄴𒄷 𒋗 𒆠𒈠 𒉌𒅆𒅅 𒈬𒁴 𒆷 𒅔𒈾𒍝𒄷 𒄿𒈾 𒁉𒉌𒀀𒋾 𒋗 𒇷𒊭𒍣𒀀𒀸 𒋳𒈠 
+𒀀𒁲 𒈾𒁉𒅖𒋫 𒋗 𒄿𒁉𒂖𒇻𒌑 
+𒀀𒈾 𒀉𒇻𒋾 𒋗 𒇷𒀉𒁮𒈠𒄠
+
+ilu.NIN.KAR.RAⁿAK mârat AN.NIM 
+ga-bi-a-at dum-ki ᵐia i-na Ê.KUR 
+mur-ṣa-am kab-tam a2-paᵗ li'im-nam
+zi-im-ma-am mar-ṣa-am
+ša la i-pa-aš-še-ḫu 
+ȧ-su ki-ri-ib šu la i-lam-ma-du 
+i-na zi-im-di la u-na-aḫ-ḫu šu 
+ki-ma ni-ši-iḳ mu-tim la in-na-za-ḫu 
+i-na bi-ni-a-ti šu li'ša-ṣi-a-aš šum-ma 
+a-diˡ na-bi-iš-ta šu i-bi-el-lu-u 
+a-na id-lu-ti šu li'id-dam-ma-am
+
+
+Ninkarrak, daughter of Anu, 
+interceding for my blessings in Ekur, 
+summon up a terrible illness in his body, 
+with demonic pain, and fever, and weeping sores, 
+one which no physician (amidst him) understands (learned), 
+one which cannot be relieved, 
+one which, like the sting of death, cannot be removed 
+one which cannot be soothed by bandaging, 
+until his spirit is exhausted,
+may he groan among his fellow men
+
+Ninkarrak mārat Anim qābiat dumqiya ina Ekur murṣam kabtam, asakkam lemnam, simmam marṣam, ša la ipaššeḫū ašum qerebšu la ilammadu ina ṣimdi la unaḫḫušu kīma nišik mūtim la innassaḫu ina biniātišu lišāṣiaššumma adi napištašu ibellû ana eṭlūtišu liddammam.
+
+Epilogue 31 / 32
+𒀭 𒃲𒃲 𒊭 𒊭𒈨𒂊 𒅇 𒅕𒍣𒁴 
+𒀭𒀀𒉣𒈾 𒄿𒈾 𒋗𒆸? 𒋗𒉡 
+𒊺𒀉 𒁉𒁴 
+𒋞 𒂍𒌓𒊏 
+𒋗𒀀𒋾 𒆰 𒋗 𒈠𒅗 𒂟 𒋗 𒉌𒅆 𒋗 𒅇 𒌝𒈠𒀭 𒋗 
+𒅕𒊑𒌓 𒈠𒊒𒍑𒌓 𒇷𒊒𒊒
+
+AN gal-gal ša ša-me-e u3 ir-ṣi-tim 
+ilu.A.NUN.NA i-na puḫri šu-nu 
+še-it bi-tim 
+libit E2-babbar-ra 
+šu-a-ti zêr šu ma-zu, ṣab šu ni-ši šu u3 ʰum-ma-an šu
+ʷir-ri-tam ma-ru-uš-tam li-ru-ru
+
+
+O almighty gods of heaven and earth, 
+all you Anunnaku assembled together, 
+protectors of the shrine, 
+brickwork of E-babbar, 
+[curse him], his family and his land and his army and his people and his workmen
+with an appaling curse [curse him].
+
+ilū rabûtum ša šamê u3 erṣetim Anunnakū ina napḫarišunu šēd bītim, libitti Ebabbara šuāti zērašu māssu ṣābašu nišīšu u3 ummānšu errētam maruštam līrurū.
+
+Epilogue 32 / 32
+
+𒅕𒊑𒁴 𒁕𒉌𒀀𒁴 𒀭𒂗 
+𒄿𒈾 𒅗 𒋗 𒊭 𒆷 𒌓𒋫𒀝𒅗𒊒 
+𒇷𒊒𒌨 𒋗𒈠 
+𒅈𒄭𒅖 𒇷𒅅𒋗𒁕 𒋗
+
+ʷir-ri-tim da-ni-a-tim ilu.Bêl 
+i-na pîᵐ šu ša la ut-ta-bak-ka-rụ 
+li'ru-ur šu-ma 
+ar-ḫi-iš li'ik-šu-da šu
+
+errētim anniātim(!) Ellil, ina pīšu ša la uttakkaru līruršuma arḫiš likšudašu.
+
+The … word of Enlil, 
+whose fame can never be changed, 
+may curse him, 
+arise (immediately come) and overpower him.

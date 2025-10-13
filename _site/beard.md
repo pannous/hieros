@@ -1,0 +1,18 @@
+-e ---
+---
+# beard
+
+𒅾	sum₄ ፂም ṣ́im ጢም ṭim timir < ⵜⴰⵎⴰⵔⵜ tamart > ⲙⲟⲣⲧ mort мочӏор муцӏур muc̣ur мешолга mešolga मासुरी māsurī permuted
+
+𒅾	sum₄ 𒊨 sumur	𒅗 sumurₓ angry, furious
+
+𓐍 𓃀 𓊃 𓅱 𓏏 𓁸 | beard | 𓐍ˢBart 𓃀𓊃𓅱𓏏 c̣veri™ chopsar წვერი ḳaǯuχ <  წვერი  кӀаджух   <~~+
+𓐍 𓃀 𓊃 𓅱 𓏏 𓁸 | beard | 𓐍 เครา krao gar Kraus/Grau-Bart µ𓐍 муцӏур muc̣ur < 𓃀𓊃𓅱 mbuzur
+𓐍 𓃀 𓊃 𓅱 𓏏 𓁸 | beard | vs זָקָן zakán γένι géni γενειάδα schneider 
+
+𓐍 𓃀 𓊃 𓏏 𓄢 | tail | חצץ châptsats ⇔ cut חצות middle 
+
+𒅾 #ziqnu זָקָן zakán Zickenbart Ziegenbart жакӏьа žakʲʼa ذَقْن ḏaqn
+
+![](https://i.natgeofe.com/n/b9bbefed-24b8-4a07-8d3f-533066069a53/ur-opener.jpg?w=1200) 
+	

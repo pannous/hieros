@@ -1,0 +1,5 @@
+-e ---
+---
+
+
+𒋢 ṢU shoe 𒋢𒄸 su-hub₂ 𒄸𒄸 HUB₂HUB₂ 𒋢𒀯 kuš suhub₂ 𒋢𒋗𒁹 kuš suhub #šuhuppatu "shoes, boots"

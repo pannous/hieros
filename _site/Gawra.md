@@ -1,0 +1,5 @@
+-e ---
+---
+The [Ubaid](Ubaid.html) period is a misnomer, because the early phase of the Ubaid truly started in northern mesopotamia, with Tepe Gawra and Tell Brak as two main centers. [Susa](Susa.html) and Tepe Sialk were important expansions (with co-evolution) into Iran, but most important was the far east outpost of [Merhgarh](Merhgarh.html).  
+
+![](https://github.com/pannous/images/blob/7a46f55fcdf50439dba0c4e91d12e7b9185b5ae1/IMG_2668.jpg)  

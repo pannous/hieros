@@ -1,0 +1,11 @@
+-e ---
+---
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | 𓏇 𓊃 𓏏 𓄹 #mjzt > 𐌼𐌹𐌻𐍄𐌾𐌰  
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | ма̄йт mājt, mit, mitə, мус mus, Uralic *mëksa ƒ Hungarian máj, Finnish maksa, Estonian maks +++  
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | milza Albanian: mëlçi “liver” ⇔ *𐌼𐌹𐌻𐍄𐌾𐌰 *miltiją milt Milz ++?   ᒥᐢᑯᐣ miskon  
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | ⵜⴰⵙⴰ (ma)tasa(mu)   seat of the emotions  
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | 肝 きぃむ ksïmu (reverse) 肝 きも kimo අක්මාව akmāwa  
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | mast-darm / mast-bein !?  
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | ≠  𐎋𐎁𐎄 kbd ከብዲ käbdi كَبِد kabid كِبْد kibd kezeb ყვიჟე q̇viže  
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | ≠ пе́чань pjéčanʹ (ambi: 𓉽 mast/post) печі́нка pečínka  ≠  
+𓅓 𓊃 𓏏 𓄹 𓈓 | liver | ≠ fecuat  bağır пӗвер pĕver hēpar(tit) буур buur beer le'ber Leber lever liver  

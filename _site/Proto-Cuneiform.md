@@ -1,0 +1,84 @@
+-e ---
+---
+https://www.unicode.org/roadmaps/smp/
+https://www.unicode.org/L2/L2022/22239-proto-cuneiform.pdf
+
+≈𜒬 AK 𒀝 abstract!
+𜎡 AMA (𜓃+𒀭) vs 𜎡 dara door
+𜒎 AMA
+𜒌 AMAR •amaru 𒊒
+𒌍 AMᵦ 𜎎 𜑟 𜑣 <> 𜒶 
+≈ 𓍁 APIN 𒀳 with distinct 𓌹
+𜑼 •ba ≈ 𜑼𒀸 ba bow @ Proto-Cuneiform
+𜒫 BAD @Proto-Cuneiform > [𒂦](𒂦.html) bàd baut  𜒫≈𜒩+𒀭 ?
+𜒩 ≈ 𒂡 Ezen
+𓏊 𔕿 + 𜐠 bahar2c Becher ≈ 𜎳 𜎴 𜎷
+𜓴 ≈ bala balls
+𜑢 ≈ ban ≈ 𓃀 Bein 
+𒉼 ≈ ban > 𓈖 •vn weapon < PAN
+𒉼 ≈ bir ≈ 𜐥 𜐧 
+𜎰+𜏳 ≈ BAPPIR ☑
+𓊅≈𒁈 ≈ BARA2b
+𜑇 ≈ bir ≈ basket?
+𒁍 bu @ Proto-Cuneiform! ~ phyton (wavy 𒀸~ 𒁍~) ≈ 
+𒁍 bu tenu ≈ 𜎹 𓎘 𓌉 bu ?
+𜑼 𜑺 ≈ bur 🌗  <> pir,piel:year?
+𜑼 ≈ 🌓 du6 ≈ 𜐌 di ≈ 𜒧
+𜒧 𓏏 d δ z 𜐎 zi 𔕠 zi₂ 𜐍 !
+𔑁 𔑂 da 𓂧 𓂞
+𒁖   DAG 
+𓅭 ≈ dar 🦆 duck
+𓅭 ≈ dilmun 🦆 duck
+𔑳𔑴 ≈ dara 🦌 [deer](deer.html) da'roe reh [𒁰](𒁰.html) DARA3 ⇔ [𒁯](𒁯.html) DAR3 ⇔ 𒁱 DARA4 [𓃴](𓃴.html) dorks, dorkás doe-eyed  
+𜎡 dara door, tube?
+𜏼≈𒌇 ≈ DI ≈ 𒌇 DU
+𜐌𜐍≈𒌇 ≈ DI tenu ≈ 𜐍 zi
+𜒶 din tenu
+𓂾 ≈ du 
+𜑦 ≈ dub
+𓎹  ≈ dug ~ jug 𒂁
+𜐃 ≈ dug ~ jug 𒂁
+𒂂 DUGUD
+𒂉 dur2 ≈ 𓇳 ≠ 𒆪  [𒌆](𒌆.html) TÚG Tuch textile  
+𜑈 ≈ E2 ≈ 𒂍 E
+𜑊 ≈ E tenu ≈ 𒂊 E !!
+𒄨 GA2 @ Proto-Cuneiform
+𒄨+𜒧/𜑺 Galga
+D ≈ 𜒧 tenu: Gar
+󴂭 󴂬 𓎟 ≈ Ga2  <> 𓈐
+𜐻 𜐼 𜐽 𜐾 𜐿 𜑀 ≈ Ga'ar
+𓌻 ≈ Gada-A
+𜐌 ≈  Gada-B
+𜑧 ≈ 𜒪 ≈ Gazi
+𓊌 ≈𓈙 GIŠ GISH ≈𒄑!?
+𜑆 𜑇 ≈ GIŠ tenu
+𓊌+𜒶 = GEŠTIN Gestein stone! 𒃾	 𒃿	GEŠTIN×KUR
+𓊌+𜒶 = GIŠ+din = GEŠTIN 
+
+𜒿 ≈ Gestu
+𜓒 tenu ≈ Geštu-C3 <> 𜓐 𜓑 
+𓇓 ≈ gi > 𒄀 Gerste ( with 3 branches )
+𓇓x𓇓 ≈ gil
+[𒈪](𒈪.html) gi
+[𒍼](𒍼.html) gig 
+𓃾 gir3a vs taur!
+𓆜 gir carp 
+𔑂 Gub3a •carp grab <> 𓂧 𓂝 𔑁
+𜐺 gug2 𜐺 gu 国 국 guk !
+𜏔 ≈ gukal 
+𒇻 ≈ gukal guk+lu
+𓅬 ≈ gun3 Gans
+𔑟 ≈ 𓂾𓃀 crossed "IL" legs  PC663 
+𔑟𒁍 púʳ  ILDUM-a ^^
+𜑊 ≈ 669 IM-b / in-b
+𜐍 gunu ≈ IR a,b,d
+𜎒 ≈ 𒌑 ≈ IŠ ISH‐A
+𒅖 ≈ IŠ ISH
+ISH (iš) [15x] = mountain; summer | 
+kuš7 (šuš3) [1587x] = high official, bureaucrat, civil servant 
+
+𓈐 ≈ RAD ≈ 𒈝 !
+sila
+
+
+𒀕 unug <> 𒂗 EN in [Proto-Cuneiform](Proto-Cuneiform.html)

@@ -1,0 +1,41 @@
+-e ---
+---
+rn
+
+𓍯 𓄿 𓀜 | far | ᶠⲟⲩⲉⲓ <> 𓆷 𓄿 𓂝 𓏛 𓅱 𓏜
+
+𓍯 𓄿 𓀜 | far, long ago, go! | roa' rachowq@SEM ++ / roga ➙ go! / gero ➙ hiero
+𓍯 𓄿 𓂻 | fall (into a condition) | var > fall < para,burry …
+𓍯 𓄿 𓈐 | fall (into a condition) | vra ~ fall ~ far:
+𓍯 𓄿 𓈐 | vra! | far (from), long ago, for a long time past, go | rachiyq / rachowq @HEB ++ 'roady' / ruku rikhqa rahuqo distance, far / reach'ing / rad ready / raqa@Assyr escape vs throw ⇔ Rache ⇔ Schreck!?
+𓈐 | far (from), long ago, for a long time past, go | 
+
+𓈐 | far (from) | weit weg : wòːk-à
+
+𒊑𒁶 ri-kim requiem "passage" <> far reach
+𒁶𒊑 gim-ri gimri 𓇥𓂋 gemære "extend"
+
+𒊑 RI remote 𓍯 𓄿 𓈐 far 
+
+𓎛 𓁷 𓂋 𓈐 հեռավոր heṙavor "distant" يىراق yiraq מרוחק [me](ma)rukhaq reach
+
+
+ⲟⲩⲉⲓ , ⲟⲩⲏⲟⲩ (q)	 	be distant,far reaching
+ ⲉ- 	 be far from
+ ⲛ- 	 far from
+ ⲉⲃⲟⲗ ϩⲁ- 	 be far from
+ ⲉⲃⲟⲗ ϧⲉⲛ 	 be far from
+ ⲉⲃⲟⲗ 	 be far off
+ 	 m. distance
+
+
+𓃀 𓉔 𓂻 | flee | flhouirn flüchten فَرَّ farra 
+
+𓆷 𓄿 𓂝 𓏛 𓅱 𓏜 | as far as |
+
+[safari](safari.html)
+ⲥⲓⲃⲓⲣ 	 (ar); nn. safar, the 2nd month of thearabic calender   ⲡⲥⲓⲃⲓⲣ ↔ ⲡⲁⲱⲡⲓ[r]    february! FEBER phaophEr sibir?
+
+
+𓊪 𓆓 𓌒 𓁷 𓏤 | unwrinkled, far-sighted, prescient | 
+𓅠 𓅓 𓎛 𓁹 𓍯 𓄿 𓈐 | far-sighted, perspicaceous | 

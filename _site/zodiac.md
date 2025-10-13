@@ -1,0 +1,482 @@
+# 𒀯 zodiac
+
+Constellations of [Star](Star.html)s on Path of the Moon 𒀭𒀭 Anu !
+
+𒀭𒆗 an.kal #lammař Lama, Lamma, or Lamassu "Protective parent-stars, Zodiac"
+
+𒀭𒀯 AN.MUL animal in zodiac 𒋼𒋼 Tauri ( 𒋼 TE ≈ 𓃾 𓄀 )  
+
+[Dendera_zodiac](https://en.wikipedia.org/wiki/Dendera_zodiac)  
+[dendera ceiling](https://josemariabarrera.com/dendera/)  
+![Dendera_zodiac](https://i.etsystatic.com/21959470/r/il/2ec8a7/2174897836/il_1588xN.2174897836_5cfy.jpg)
+![Dendera_zodiac BW](https://i.pinimg.com/originals/b9/24/53/b92453c6c7eb044dd2e57e435cbc977c.jpg)  
+![Constellation Map](https://skymaps.com/store/posters/Constellation-Night-Sky-Star-Map-Wall-Decal-large.jpg)
+
+36 figures representing the 36 asterisms used to track both the  
+36 forty-minute "hours" that divided the Egyptian night, as well as the  
+36 ten-day "weeks" (decans)  
+
+𓏏 𓂋 𓇋 𓆶 𓇳 tropoi / horoi (periods of three months) according to Manetho ⇔ tropic zodiac  
+
+Only in Dendera  
+Greco-Roman iconographic forms as their familiar counterparts  
+
+
+There is no clear connection between early [alphabet](alphabet.html)s such as [Halaham](Halaham.html) and
+3 * 9 = 27 [Zodiac](Zodiac.html)s as in https://en.wikipedia.org/wiki/Nakshatra  
+
+
+Egyptian |  Dendera | Western | Astrological Signs  
+---------|---------|---------|-----
+Osiris 	| Ram & 2 shepherds! | Aries | 󳔏󳔞󳒁󳌨󳙶 & Triangulum
+Amun-Ra | Bull |	Taurus | + Orion 󳉙 
+Seth 	| Twins | Gemini | including gallus rooster 󳙝
+Bastet | Crab |	Cancer  | crib 𓐍 𓊪 𓈙 𓄗
+Anubis | Lion |	Leo | on Hydra (water snake / sledge)
+Thoth | Plow-man 󳄿·󳙑/󳙝 | Virgo | Lady with __ + Anubis? + Raven 
+Geb 	| Scales 󳊜𓍝 | Libra | (Lion 2) 󳢐 𒂟 ṢÂB ≈ Geb
+Mut 	| Scorpion | Scorpio  
+Hapi | Archer!	| Sagittarius  
+Horus |	Capricorn! | Capricorn  
+Sekhmet |	Aquarius | Aquarius  
+Isis 	| 2 Fish 𓊪 𒇥 | Pisces | 𓊪 Pegasus Pond / Field & Andromeda
+
+⇨ 2 Fisher 󳋶󳔏 @ Aries ( Eridanus / Whale )  
+
+Starting 1 o'clock, clockwise  
+
+Many Egyptian Gods in inner ring  
+Some Egyptian Gods in between, especially around Aquarius / Pisces and Leo  
+Many Egyptian Gods in outer ring  
+
+Confusion between 2*Taurus and Lamb & Aries ?  
+
+Plejaden im Sternbild Stier fehlen?  
+
+Ursa Minor depicted as a [jackal](jackal.html) 𓃢 
+Ursa Major is 𓄗 crib 𓐍 𓊪 𓈙 𓄗 @ crab! 󳆬
+Crab / Cancer above lions head instead of right to it : confusion / shift
+Draco correct 𒊊 Urs confusion / shift ?
+Cassiopeia / Perseus / Andromeda 󳈍 / Camelopardalis / Cepheus ≈ 𓃻 Monkey ???
+Auriga 󳉾 󳔌 󳑧 󳒯 𓋛
+
+
+Aquarius is represented as the flood god Hapy  
+𓐑 𓊪 𓇋 𓇋 𓀭 Hapy (one of the four sons of Horus)  
+𓎛 𓊪 𓐑 𓇋𓇋 Hapy Hrupi < Therapy  
+𓎛 𓂝 𓊪 𓏮 𓈘 | Nile |  
+𓎛 𓂝 𓊪 𓏮 𓈘 𓈗 𓀭 | (divinity) Hapy (Nile god)|
+
+similarities of unfamiliar iconology with the three surviving tablets of a Seleucid zodiac and both relating to kudurru ('boundary stone')  
+"a complete copy of the Mesopotamian zodiac"  
+
+Greek ≈ Babylonian zodiac tradition  
+Aries 	♈ 	𒀯𒇽𒂠𒂷 mul.lu₂-hun-ga₂ "hireling" 𒂠𒂷 ŠE₃ga₂ Ziege 𒇻 LU Sheep  
+Taurus 	♉ 	𒀯𒄞𒀭𒈾 mul.gu4-an-na  "Bull of Heaven"  
+Gemini 	♊ 	𒀯𒈧𒋰𒁀𒃲𒃲  mul.maš₂-tab-ba.Gal²(minᶥ) "Great Twins"  🐓 gallus  
+Cancer 	♋ 	𒀯𒀀𒇻 mul.a-lu  "Crab" 𒀀𒇻 bu₄ra ≈ portán 𒀀𒇻 bu₄ra 𑜆𑜥 pū ปู הrapu 𓃵  
+Leo 	 	♌ 	𒀯𒌨𒄖𒆷 mul.ur-gu-la "Great Lion" 𓃬 Regulus! 
+Virgo 	♍ 	𒀯𒀳 mul.absin 𒀳 ᶠURU "Furrow" @ Virgo ≈ vereǧo ≈ 𒀳 ᵛerešu₄ 𓍁𓌹𓌞  
+Libra 	♎ 	𒀯𒍥𒁀𒀭𒈾 mul.zi-ba.an.na 𒂟 ṢÂB ṣāb 𒀸𒂟 sig₅ scales Ζυγόν Zugón 𓍝  ZubenelGenubi 
+Scorpius 	♏ 𒀯𒄈𒋰 ˢĝir₂bi #Zuqaqīpu •Zuqarpīu 𓋴 𓂋 𓈎 𓏏 𓆫   "empty"  
+Sagittarius ♐		𒀯𒉺𒉈𒂵 mul.pa.bil.ga "Anchestor" Pabilsag Anzu-bird 𓅃𓋹𓈖𓐍  
+Capricorn 	♑ 	𒀯𒋦𒈧𒄩 mul.suhur-maš₂-ku₆ "mystical Goat-fish" 𓆛𓃶 Algedi 
+Aquarius 		♒ 	𒀯𒄖𒆷 mul.gu-la "Great One" 𒄖 ᴬGUʳᵃ Aquarius ᴬGUˡᵃ Eagle  
+Pisces 			♓ 	𒀯𒉆𒄷𒈤  mul.sim-mušen.MAḪᴬ "Great Swallowˢ" Dove Tails  
+
+Each zodiac constellation corresponded to one [month](month.html) 𒀯𒀳 ᶠURU being the first 𒌚𒁈 ( now 6th!)
+
+# Three Paths
+Constellations in Sumer were collections of 3 stars 𒀯 in three bands
+See Dendera inner & outer circle 
+Three paths of the gods 
+• 𒀭𒂍𒀀 Ea (south)
+• 𒀭𒀭 Anu (±17° around the equator) 
+• 𒀭𒂗𒆤 Enlil (northern cap, all declinations >17°)
+
+
+Noteable differentiations:  
+♈ hired shepherds ≈ 1/𓃙 •Zigeuner ⇔  𒂠 𓃝 Khmun Amun 󳔏󳔞󳒁󳌨󳙶 in Dendera
+♍ Virgin ≈ 1/Furrow   chaste ≈ 1/𓌹  
+♓ ≈ 𓆛𓆜 ≈ 1/𓅨𓅩  
+
+# Variants
+𒀯𒈦𒈫 maš₂min ≈ ᵐᵃĝemin GeMini
+𒀯𒈦𒌋𒌋 attested as 𒀭𒈫𒀀𒁉 "Twin Gods" 
+𒀯𒈦𒋰 Gemini Tab≈Doubles Tabin≈Twinˢ
+𒀯𒈦𒈫 maš₂minorᶥˢ Max & Moritz lore
+
+𒀯𒈦𒋰𒁀𒌉𒌉 mul.MAŠ.TAB.BA.TUR.TUR "Little Twins" 
+𒀭𒈹𒋭 MÙŠ.LÀL Alammuš (sweet 𓄟) δ Geminorum  and
+𒀭𒊩𒌆𒂯 Ningublaga ζ Geminorum. 𒂯 EZEN×LA laban •lab-son
+
+𒀯𒀠𒈜 AL-LUL Crab "Cutter, Digger"
+
+𒀯𒀳 APIN ÀBSIN 𒀯𒀊𒉆 AB.SÍN
+
+𒀯𒆪𒌨𒆪 ku-ur-ku Aquarius ᴬGU-RA ≈ 𒀯𒄖𒆷 gu-la #ṣinundu #rammanu "Great One"
+
+𒀸 𒂟 sig₅ Ζυγόν Zugón 𓍝 "Libra" 𒂟 ζυγαριά zygariá scales  #RIN₂ erin9  
+
+𒀯𒆲𒎌 KUN.MEŠ "The Tails" (of Swallow / Pisces )
+𒀯𒍦𒈨 ZIB.ME zibbātu or zibbāt sinūnūtu -''-
+
+# Outside the big 12
+(extra cosmic equator)
+
+![Babylonian Celestial Globe](https://upload.wikimedia.org/wikipedia/commons/d/d1/Babylonian_Celestial_Map.png)
+
+𒀯𒀸𒂽 AŠ-IKU "The Field" Square of Pegasus
+
+𒀯𒈥𒁍𒁕𒀭𒈾 MAR.GÍD.DA.AN.NA Wagon of heaven (Kleiner Wagen)
+𒀯𒈥𒁍𒁕𒀭𒈾 MAR.SÍR.DA 𓃗 𓌝 carta-himmin ≈ kursa minor 𒀭 mAN Polar Bear
+𒀯𒈥𒁍𒁕𒀭𒈾 MARᵏBÚ.DA 𓅓 𓂝 𓃭 𓏤 𓃀 𓏲 𓍘 𓇋 𓆱 𓌝 𐎎𐎗𐎋𐎁𐎚 mrkbt /markabtu/ 𓉐
+
+
+𒉺𒇻  𓋴 𓃀 𓇼 Shepherds:
+-------------------------------------------------------
+Osiris 	| Ram & 2 shepherds! | Aries | 󳔏󳔞󳒁󳌨󳙶 & Triangulum
+Amun-Ra | Bull |	Taurus | + Orion 󳉙 
+Seth 	| Twins | Gemini | including gallus rooster 󳙝
+
+𒀯𒋗𒉺 ŠU-PA 󳡸 on Dendera above Scales
+
+𒈦𒈦𒃻𒉺𒇻  			MAŠ.MAŠ-ša₂-SIPA   					γ Geminorum
+
+𒀯 𒉺𒇻 𒍣 𒀭𒈾 ≈ 𒉺𒁳-𒀭	 rêu-AN ≈ Orion "Sky Shepherd"
+𒀯 𒉺𒇻 𒍣 𒀭𒈾 	SIPA.ZI.AN.NA "The Loyal Shepherd of Heaven"
+𒀯 𒉺𒇻 𒍣 𒀭𒈾 	SIPA.ZI.AN.NA šitaddaru or šidallu 	
+
+♈ hired shepherds ≈ 1/𓃙 •Zigeuner ⇔  𒂠 𓃝 Khmun Amun 󳔏󳔞󳒁󳌨󳙶 in Dendera
+
+𒀭𒂗𒈨𒊹𒊏 En.me.šar.ra Enmešarra, the last of Enlil's primeval ancestors ≈
+𒀯𒋗𒄀 ŠU.GI - "The Old One" 	Perseus Pêre-Zeusi ≈ ŠU.ĞI
+𒌓𒋗𒈬     par-šu-muⁿ "old (person)" 
+𒁍 púʳ पुराण purāṇa ⇔ 𐀞𐀨𐀍 pa-ra-jo paleos "old"
+
+
+Perseus & Crook:
+𒀯𒉽𒈿 GAM3 / ZUBI gamlu 𓌜 "The Scimitar" or "The Crook" ≈ Auriga charioteer
+
+𒀯𒀀𒉡𒉌𒌈 A.NU.NI.TUM Andromeda <<
+
+𒀯𒇻𒅆 LU.LIM "The Stag" 
+
+
+Sirius at bow and arrow:
+
+𒀯𒉼 tir₅ bow &
+𒀯𒋾 TIʳ  arrow  at Sirius / Rooster :
+𒀯𒋾 TIʳ & 𒀯𒉼 tir₅ ≈ 𓅂 tywʳ ≈ Sirius ≈ 𓅃𓇅 ᵗHorus
+
+
+# Notes
+Lamma "zodiac" vs
+Lamma "She-Goat" 𒇻 LUᵐ Lamm Λ
+
+𒀭𒌉𒍣 Tamuz Dumuzu 󳍱 King Star under lion  
+
+󳇔 Archeress on Dendera ≈ bow and arrow with 
+Canis (Major/Minor) as Cow on Boat 󳧀 shifted left vs Taurus!
+
+Hydra = WasserSchlange = "The Snake" ≠ Serpeus (shifted far left)
+Below Lion & Hydra invisible to us:
+NinMah  𒀭𒊩𒈤
+Numushda 𒀭𒉡𒈲𒁕 󳋑 ≠
+Zababab ≈ 󳋑 󳋙 Schlangenträger Ophiuchus 
+Zababab ≠ الزبن “Al-Zubān” “claws” 1.	Acubens (α Cancri) 
+Raʾs al-Ḥawwāʾ Rasalhague “رأس الحواء” 
+
+Zababab 𒀭𒍝𒂷𒂷 za-ba4-ba4 tutelary of Kish, War <> Ninurta
+Zababab ≈ 󳈜 above Scorpio / Sagittarius 
+Zababab = Sabik Copa Cup "Crater" & Cuervo "crow" in Spanish 
+
+Bootes and Hercules ≈ 󳈜 󳉸 ??
+
+Baboon equals "sitting & standing gods of Ekur" 𒀯𒀭…𒂍𒆳 ? 
+
+Camelopardalis / Lynx ≈ Panther / Fox 𓄚 ?
+
+The Great Twins (Maštabba) had 
+Little Twin as Star (Castor & Pollox)
+𒀭𒈗𒄊𒊏 Lugal-irra and 
+𒀭𒈩𒇴𒋫𒌓𒁺𒀀 Meslamta-ea , a pair of netherworld gods
+Little Twin as Zodiac 𒀯𒈦𒌋𒌋 𒀯𒈦𒋰?
+GeMini 2
+
+Rigel ≈ Regel "Right-Leg" of Orion
+
+Fish under Goat-Fish modern Dolphin above!
+
+Dog < Draco / Cepheus / Camelopardalis 𓄚
+The Dog ≈ canes venatici ≠ canis minor/major:
+The Dog (top left of Scales) 󳈌 󳈍 󳈎 + 𓄚 ! ≠ 
+Mad Dog (below Scorpio) ≠ 
+Canis Major (left of Gemini) & 
+Canis Minor (below Gemini) ≈ 󳧀·󴑕 Cow on Boat 
+
+Auriga 󳉾 Charioteer "Crook of Perseus" ≠
+Plow ≠ Furrow ≠ Harrow !?!  𒀯𒄑𒀳 ≠ 𒀯𒀳 ??? 
+Plow ( 𒉼 Cassiopeia! 𓍁 𒆥 ) ≠ Furrow (Virgo 󴟑 𒀳 ) ≠ Harrow 𒃡𒌋 !?! 
+𒀯𒀳 APIN ≠ 𒀯𒀊𒉆 AB.SÍN ≠ 𒀯𒋀𒉆𒉡 ?? <> 𒀯𒊺 ŠER’U Šala
+Triangulum as Plow might be mistake by Gössmann
+Plow at 𒀯𒀸𒂽 Field with 𒀯𒂄 Pig & "deleter"
+Pegasus = pig:sus 𒀯𒂄? / pig-horse 𒀯𒍽 ?  (above panther 𒀯_? ) 
+alPheratz سرة الفرس surrat al-faras "navel of the mare/horse"
+
+Harrow far south
+
+Horus (on white pole) 𓅃𓇅 𓅃𓇕 󳲁 󳲡 󳱼 󳱩 󳲀 Sirius at bow and arrow 𓅃𓋹  𓅃𓉻  𓅃𓌕
+near
+Rooster = dove / hare ?
+
+Lacerta = ?
+
+Eagle = Aquila AND Swan !
+𒀭𒂊𒊒 ERÛ Eagle
+
+𒋼𒋼 TE.TEʳ η Tauri	𓃾 𓄀 Taurus  
+
+𒀳 ᶠURU "The Seed-Furrow" ⇔ Virginis Παρθένος Parthénos π.ⲑⲟⲩⲙⲉ thoume  
+𒀳 ᶠereš4 ≈ vereǧ "Virgo"  𒋼𒐀  𒄮𒐀  
+𒀳 ABSIN3 𒆠𒀸𒀸  𒀯𒀳 absinnu "Virgo" #šer'u Cassiopeia  
+
+𒄑𒅆𒌉𒌉	ĝeš ligima 𒍨𒁍 ziqpu "culmination" @ fifth list first tablet 
+ synchronize water clocks with constellations passing through the meridian.
+"hour stars" listed in Hipparchus' commentary
+
+# 12000 BC
+Vega, the brightest star in summer replaced Deneb in Swan (old Eagle) as polar star! This might have had quite an impact on the perception of the world! Eagle hovering in the center
+Vega wāqi' (Arabic: واقع) "falling" or "landing" via 
+an-nasr al-wāqi' (Arabic: النّسر الْواقع), "the falling eagle"
+Vega wāqi' <> wackel winkel wing @ Eagle Wankelstern
+
+Deneb ذنب الدجاجة Dhanab al-Dajājah "tail of the hen/swan"
+
+
+𓋴 𓄝 𓏏 𓌕 sagitta "arrow" => Sagittarius ♐		𒊕 Sag.Toxótēs Τοξότης :
+𒀯𒉺𒉈𒂵 mul.pa.bil.ga "Anchestor" ♐ Pabilsag Anzu-bird 𓅃𓋹𓈖𓐍
+𒀯𒉺𒉈𒂵 PA.NE Pemanah @ Malay "Sagittarius"
+𒀯𒉺𒉈𒂵 PA…GA Bogenschütze Boogskutter بُرْج اَلْقَوْس burj al-qaws	
+𒀯𒉺𒉋𒊕 pabilSaĝ Sagittarius "Overseer" <> 𒂗 Ninurta patesi 𒉺𒋼𒋛𒃻
+≠ 𒀭 𒉽 𒈛 Papsukkal - staff, walking bird
+
+Sagittarius
+1.	Kaus Australis (ε Sagittarii) قوس qaws “bow” + أسترالي austrālī “southern”
+2.	Kaus Media (δ Sagittarii) قوس qaws “bow” + Media “middle”
+3.	Kaus Borealis (λ Sagittarii) قوس qaws “bow” + Borealis “northern”
+4.	Nash (γ Sagittarii) نصل naṣl “arrowhead”
+5.	Alnasl (μ Sagittarii) نصل naṣl “arrowhead”
+6.	Ascella (ζ Sagittarii) ascella “armpit”
+7.	Nunki (σ Sagittarii) Ancient Babylonian origin, meaning unclear
+8.	Arkab Prior (β¹ Sagittarii) عقب ʿaqrab “heel/tendon” + Prior “earlier”
+9.	Arkab Posterior (β² Sagittarii) عقب ʿaqrab “heel/tendon” + Posterior “later”
+10.	Rukbat (α Sagittarii) ركبة rukbah “knee”
+
+
+Capricorn
+1.	Deneb Algedi (δ Capricorni) ذنب الجدي dhanab al-jady “tail of the goat”
+2.	Nashira (γ Capricorni) ناشرة nāshira “Bearer of good news”
+3.	Algedi (α Capricorni) الجدي al-jady “Goat”
+4.	Dabih (β Capricorni) الذابح al-dhābiḥ “Slaughterer”
+5.	Alshat (ν Capricorni) الشاة al-shāṭ “Sheep”
+6.	Baten Algiedi (ω Capricorni) بطن الجدي baṭn al-jady “belly of the goat”
+
+Aquarius
+1.	Sadalsuud (β Aquarii) سعد السعود saʿd al-suʿūd "lucky star of lucks”
+2.	Sadalmelik (α Aquarii) سعد الملك saʿd al-malik “lucky star of the king”
+3.	Sadachbia (γ Aquarii) سعد الأخبية saʿd al-akhbiyah “luck of the tents”
+4.	Albali (ε Aquarii) البالع al-bāliʿ “Swallower”
+5.	Ancha (θ Aquarii) أنشا anshāʾ “Hip”
+6.	Skat (δ Aquarii) الساق al-sāq “Leg” "shank"
+
+Pisces
+1.	Alrescha (α Piscium) الرشآء al-rišāʾ “Cord” (or “Rope”) <> raš
+2.	Fum al Samakah (β Piscium) فم السمكة fam al-samakah “Mouth of the fish”
+3.	Torcularis Septentrionalis (ο Piscium) Latin “northern press” 
+4.	Kullat Nunu (η Piscium) Sumerian “kullat nunu” “cord of the fish” !
+𒋼𒆳𒃻𒄙𒉡𒉡 	 	MUL₂-KUR-ša₂-DUR-nu-nu	η Piscium  𒆳𒄙 KUR-DUR Kordel
+
+Aries
+1.	Hamal (α Arietis) الحمل al-ḥamal “Lamb”
+2.	Sheratan (β Arietis) الشرطان al-sharaṭān “Two signs” (or “Pair”)
+3.	Mesarthim (γ Arietis) المثرتم al-muthurthim “Marked for cutting”/“Fattened”
+4.	Botein (δ Arietis) بطن al-baṭn “Belly”
+
+Taurus
+1.	Aldebaran (α Tauri) الدبران al-dabarān “Follower”
+2.	Elnath (β Tauri) النطح al-nāṭiḥ “Butting” (or “One who butts”)
+3.	Hyadum I (γ Tauri) الأول al-awwal “First” (referring to the Hyades cluster)
+4.	Hyadum II (δ Tauri) الثاني al-thānī “Second” (referring to the Hyades cluster)
+5.	Prima Hyadum (γ Tauri) Latin “first of the Hyades”
+6.	Secunda Hyadum (δ Tauri) Latin “second of the Hyades”
+7.  Alcyone (η Tauri 𒋼𒋼)  brightest star in the Pleiades 𒀯𒀯
+8.	Pleione (28 Tauri) Greek mythology “mother of the Pleiades”
+
+Gemini
+1.	Castor (α Geminorum) Greek mythology “one of the Dioscuri twins”
+2.	Pollux (β Geminorum) Greek mythology “one of the Dioscuri twins”
+3.	Alhena (γ Geminorum) الهنعة al-hanʿah “Brand” (or “Mark”)
+4.	Wasat (δ Geminorum) الوسط al-wasaṭ “Middle”
+5.	Mebsuta (ε Geminorum) المبسوطة al-mabsūṭah “Outstretched [paw]”
+6.	Tejat Posterior (μ Geminorum) Arabic: مؤخرة الساق muʾakhkhirat al-sāq “Back foot”
+7.	Tejat Prior (η Geminorum) Arabic: مقدمة الساق muqaddimat al-sāq “Front foot”
+8.	Propus (ι Geminorum) Greek πρόπους própous “forward foot”
+9.	Mekbuda (ζ Geminorum) المكبودة al-makbūda “Contracted [paw]”
+
+Cancer
+1.	Acubens (α Cancri) الزبن “Al-Zubān” “claws” cub~crab?
+2.	Altarf (β Cancri) الطرف “Al-Ṭarf” “end” or “edge”
+3.	Asellus Australis (δ Cancri) Latin “southern donkey colt” ƒ PSM
+4.	Asellus Borealis (γ Cancri) Latin “northern donkey colt”
+5.	Tegmine (ζ Cancri) Latin tegmen “shell”
+6.	Meleph (ε Cancri)  “ملح” (Malḥ) “salt”  debated.
+
+
+Leo
+𒈗 α Leonis ≈ Regulus ≈ Lugalus @ 𒌨𒄖𒆷 UR.GU.LA “little king”
+1.	Regulus (α Leonis) Latin “little king/prince”
+2.	Denebola (β Leonis) ذنب الأسد “Dhanab al-Asad” “tail of the lion”
+3.	Algieba (γ Leonis) الجبهة “Al-Jabha” “forehead” (now lion’s mane)
+4.	Zosma (δ Leonis) ζῶσμα “Zōsma” “girdle/loincloth”
+5.	Chort (θ Leonis) الخرط “Al-Kharāt” “small rib”
+6.	Algenubi (ε Leonis) الجنوبي “Al-Janūbiyy” “southern one”
+7.	Subra (ο Leonis) السرّة “As-Surrah” “navel”
+𒊕𒌨𒀀  SAG-UR.A ε Leonis "Lion's Head" 
+
+
+Virgo
+1.	Spica (α Virginis) Latin “ear of grain”
+2.	Vindemiatrix (ε Virginis) Latin “grape-gatherer”
+3.	Porrima (γ Virginis) Latin “goddess of prophecy”
+4.	Zavijava (β Virginis) زاوية العواء “Al-Zāwiyah” “Angle”
+5.	Auva (δ Virginis) العواء “Al-ʿAwwāʾ” “Howling [one]”
+6.	Heze (ζ Virginis) Unclear
+7.	Syrma (ι Virginis) Greek σύρμα “train of a garment”
+
+
+Libra @ Scorpio !
+1.	Zubenelgenubi (α Librae) الزبن الجنوبي “Al-Zuban al-Janūbiyy” “southern claw”
+2.	Zubeneschamali (β Librae) الزبن الشمالي “Al-Zuban ash-Shamāli” “northern claw”
+3.	Zubenelhakrabi (γ Librae) الزبن العقرب “Al-Zuban al-ʿAqrab” “scorpion’s claw”
+4.	Brachium (σ Librae) Latin “brachium” “arm” or “claw”
+
+
+Scorpio 𓆫 𒀯𒄈𒋰 Zuqaqīpu •Zuqarpīu Scorpio 𓋴 𓂋 𓈎 𓏏 𓆫 •sarıḳərbit
+1.	Antares (α Scorpii) Ἀντάρης “Anti-Ares” “rival of Mars” 1/Aries ♈
+2.	Shaula (λ Scorpii) الشولاء “Al-Shaulāʾ” “Raised [tail]”
+3.	Sargas (θ Scorpii) maybe 𓋴 𓂋 𓈎 𓏏 𓆫 or Sumerian form
+4.	Dschubba (δ Scorpii) الجبهة “Al-Jabha” “Forehead”
+5.	Acrab (β¹ Scorpii) العقرب “Al-ʿAqrab” “Scorpion”
+6.	Alniyat (σ Scorpii) النياط “Al-Niyāṭ” “Arteries”
+7.	Graffias (ξ Scorpii) Latin “Graffias” القرافس “Al-Qarfās” “Claws” Greif
+8.	Lesath (υ Scorpii) لسع “Lasʿah” “sting, lashing”
+
+
+
+
+### Other Zodiacs
+
+The stars in Perseus are often named based on their positions within the constellation or their association with the mythological figure of Perseus and his defeat of the Gorgon Medusa. The mix of Arabic and Latin origins highlights the cross-cultural exchange in the history of astronomy.
+
+The constellation Pegasus is known for its prominent stars, many of which have names rooted in ancient languages, primarily Greek and Latin. Here are the main stars in Pegasus along with their etymologies:
+
+𓄚 Andromeda
+1.	Alpheratz (α Andromedae: “سُرَّةُ الْفَرَس” (surrat al-faras) “Navel of the horse.” @ Pegasus 
+2.	Mirach (β Andromedae: “المئزر” (al-mi’zar) “Girdle” or “belt.” 
+3.	Almach (γ Andromedae: “العِناق” (al-‘anāq) “Caracal” (a type of wild cat). ??
+4.	Adhil (ξ Andromedae: “الذيل” (al-dhayl) “Train” or “tail” 
+
+Pegasus
+Markab (α Pegasi "Markab" "المرقب" (al-Mirqab) "saddle" or "something to ride on" mare cab אֻכָּף \ אוכף ukaf cover ኮር kor
+Scheat (β Pegasi "Scheat" "الساق" (as-Sāq) "shin" •shank or "leg"
+Algenib (γ Pegasi "Algenib" "الجنب" (al-Janb) "side" see wing!!! djgana !
+Enif (ε Pegasi "Enif" "الأنف" (al-Anf) "nose" of Pegasus
+Homam (ζ Pegasi "سعد الهمايم" (Sa‘d al-Humām) "Lucky Star of the Hero" 
+Matar (η Pegasi "Matar" "المطر" (al-Maṭar) "rain" ?
+Biham (θ Pegasi "Biham" "سعد البهائم" (Sa‘d al-Bihām) "Lucky Star of the Young Beasts"
+Sadalbari (μ Pegasi "Sadalbari" "سعد البرع" Sa‘d al-Birā‘ "luck of the innocents" <> صَدَّام Ṣaddām
+Alpherg (η Piscium, part of Pegasus Though technically belonging to the constellation Pisces, Alpherg is often associated with Pegasus due to its location. "الفرغ" (al-Fargh) "emptying (of the water jar)"
+𒋼𒆳𒃻𒄙𒉡𒉡 	 	MUL₂-KUR-ša₂-DUR-nu-nu	η Piscium
+
+## Swan
+1.	Deneb (α Cygni) ذنب dhanab “tail” (of the swan)
+2.	Albireo (β Cygni) Beak of the bird (corrupted from Arabic المنقار al-minqār “Beak”)
+3.	Sadr (γ Cygni) صدر ṣadr “chest” (of the swan)
+4.	Gienah (ε Cygni) الجناح al-janāḥ “Wing” (of the swan)
+5.	Fawaris (δ Cygni) الفوارس al-fawāris “Riders” (possibly referring to the stars as riders on the swan)
+
+## Eagle
+1.	Altair (α Aquilae) النسر الطائر al-naṣr al-ṭāʾir “Flying eagle”
+2.	Alshain (β Aquilae) الشاهين al-shāhīn “Falcon”
+3.	Tarazed (γ Aquilae) الشاهين tarāzi(d) “Balance” (or “Scales”)
+4.	Deneb el Okab (δ Aquilae) ذنب العقاب dhanab al-ʿuqāb “tail of the eagle”
+5.	Al Thalimain (ι Aquilae) الثالمين al-thālmain “Two ostriches”
+
+## Draco
+1.	Thuban (α Draconis) الثعبان al-thuʿbān “Serpent”
+2.	Rastaban (β Draconis) رأس الثعبان raʾs al-thuʿbān “head of the serpent”
+3.	Eltanin (γ Draconis) التنين al-tinnīn “Dragon”
+4.	Grumium (ξ Draconis) Latin “Snout” (or “jaw”)
+5.	Etamin (η Draconis) التنين al-tinnīn “Dragon” (alternative spelling of Eltanin)
+6.	Aldib (ι Draconis) الذنب al-dhībb “Wolf” (or “Hyena”)
+
+## Cassiopeia
+Cassiopeia <> 󳗫 󳗬 󳗭 󳗮 󳗯 󳗰 󳗱 󳙫 󳙬 󳙽 
+Cassiopeia was a whole lady:
+“Κασσι” (Kassi): "?"
+“ὠπεια” (ōpeia): “ὄψ” (ops) “face” or “appearance.”
+Schedar (α Cassiopeiae): “şadr”  “breast” 
+Ruchbah (δ Cassiopeiae): “rukbah”  “knee” 
+Segin (ε Cassiopeiae): "?"
+Caph (β Cassiopeiae): From the Arabic “kaf”  “palm”  <>
+
+## Cepheus
+Cepheus wife Cassiopeia, son Andromeda
+󳊚 󳈍 Cephei ≈ Schäfer @ Dendera ( ≠ 󳈎 󳈌 )
+1.	Alderamin (α Cephei: “الذراع اليمين” (al-dhirā‘ al-yamīn) “Right arm.”  Cepheus depicted as a king with his arm outstretched.
+2.	Alfirk (β Cephei: “الفَرْق” (al-firq) “Flock” or “Herd.” see 𓄚
+3.	Errai (γ Cephei: “Alrai” or “Er Rai” “الرأي” (al-ra‘ī) “Shepherd ”
+
+
+# Auriga "Fuhrmann"
+𓄚 Aurigae once was she-goat: < Camelopardalis vs Aries on other side of Taurus
+1.	Capella (α Aurigae: “Capella” is Latin for “little she-goat.” This star represents the goat Amalthea who nursed the infant Zeus in Greek mythology. Capella is one of the brightest stars in the night sky.
+4.	Elnath (γ Aurigae, also known as β Tauri: “Elnath” “النطح” (al-natḥ) “Butting” "nudge" referring to a goat’s horn. Elnath is also part of the Taurus constellation, representing the tip of one of the bull’s horns. 
+5.	Haedus I and II (η Aurigae and ζ Aurigae: The names “Haedus” (meaning “kids” in Latin) refer to the mythological kids or young goats. These stars are often depicted as being carried by the charioteer, reinforcing the theme of goats in the constellation.
+
+2.	Menkalinan (β Aurigae: “منكب ذي العنان” (mankib dhī al-‘inān) “Shoulder of the charioteer.” 
+3.	Mahasim (θ Aurigae: “Mahasim” “المعصم” (al-ma‘şim) “Wrist” 
+
+Mirfak (α Persei "Mirfak" (الفرس) "elbow"  𓈎 𓂝 𓎛 𓂢   √arc 𓄿 𓎡 𓂝 | be bent (of elbow) |
+
+Algol (β Persei "Algol" (رأس الغول) "head of the ghoul" or "demon's head" Algol represents the head of Medusa, held by Perseus in mythology.
+
+Atik (ζ Persei "Atik" (العتيق) "shoulder" or "old one" It refers to the position on the body of Perseus.
+ Altik 
+Menkhib (κ Persei "Menkhib" (منكب) "shoulder" marking the shoulder of Perseus.
+?
+Miram (η Persei "Miram" (مجرم) "wrist" indicating its position in the constellation.
+
+Gorgonea Secunda (π Persei  "second Gorgon" 
+
+Adid Australis (ο Persei "Adid Australis" (الدابرة) "southern one" 
+
+
+
+## Ursa Minor / Kleiner Wagen
+Pherkad γ UMi:  "فركاد" (Farqad) "die Kälber" Ferse see Phecda
+Polaris α UMi: "stella polaris" "Polarstern" 
+Kochab β UMi:  al-Kawkab "Star"
+Yildun δ UMi: Vom türkischen "Yıldız" "Stern" 
+Il Don = AN
+
+## Ursa Major / Großer Wagen
+Dubhe α UMa:  "ظهر الدب الأكبر" (Ẓahr ad-Dubb al-Akbar) "Rücken des großen Bären" 
+Merak β UMa: "المراق" (al-Maraq) "Lenden des Bären" 
+Phecda γ UMa:   "فخذ الدب الأكبر" (Fakhidh ad-Dubb al-Akbar), "Oberschenkel des großen Bären" 
+Alioth ε UMa:  "ذيل الجدي" (Dhayl al-Jady) "Schwanz des Ziegenbocks" 
+Mizar ζ UMa:  "المئزر" (al-Mīzar) "Gürtel" oder "Schurz" 
+Megrez δ UMa:  "المغرز" (al-Maghriz) "Wurzel" oder "Basis" (vom Schwanz) 
+Alkaid η UMa:  "قاعدة  " Al Qā‘idat Base
+

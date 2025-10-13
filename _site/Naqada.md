@@ -1,0 +1,39 @@
+-e ---
+---
+Relatively shortly after the full [neolithic](neolithic.html) reached Egypt (as late as 6000BC), Copper kings reached Egypt around 4000 BC.  
+
+The copper kings reached Egypt in the Maadi culture of Lower Egypt with strong connections to the southern Levant, The Badarian culture of middle Egypt (⋍4200BC!) and Naqada of Upper Egypt with strong connections to Mesopotamia and Iran, while the Fayum A culture was considerably less agricultural and was still Neolithic in nature  
+
+
+
+
+New innovations appeared in Amratian settlements as precursors to later cultural periods. For example, the mud-brick buildings for which the Gerzean period is known were first seen in Amratian times  
+
+Importing copper from the Sinai and exporting Gold and obsidian (still in high demand) from Nubia.  
+
+The Gerzean culture (Naqada II) 3500 to 3200 BC brought the introduced technologies, especially mud brick construction to full bloom and diverted from Eurasian roots by developing distinctly local elements.  
+
+the first copper weaponry appears here.[50] Silver, gold, lapis, and faience were used ornamentally,[57] and the grinding palettes used for eye-paint since the Badarian period began to be adorned with relief carvings.[50]  
+
+Although the Gerzean Culture is now clearly identified as being the continuation of the Amratian period, significant amounts of Mesopotamian influences worked their way into Egypt during the Gerzean which were interpreted in previous years as evidence of a Mesopotamian ruling class, the so-called Dynastic Race, coming to power over Upper Egypt.  
+
+In the early 20th century, Egyptologist Sir William Matthew Flinders Petrie deduced that skeletal remains found at pre-dynastic sites at Naqada (Upper Egypt) indicated the presence of two different races, with the Dynastic Race, also referred to as the "Followers of Horus",[1] differentiated physically by a noticeably larger skeletal structure and cranial capacity.[2] Petrie concluded that the physical differences of the remains in conjunction with the previously unknown burial styles, uncharacteristic tomb architecture, and abundance of foreign artifacts, implied this race must have been an invading ruling elite that was responsible for the seemingly sudden rise of Egyptian civilization. Based on plentiful cultural evidence, Petrie determined that the invader race had come from Mesopotamia, and imposed themselves on the native Badarian culture to become their rulers. Petrie adduced new architectural styles—the distinctly Mesopotamian "niched-facade" architecture—pottery styles, cylinder seals and a few artworks, as well as numerous Predynastic rock and tomb paintings depicting Mesopotamian style boats, symbols, and figures.  
+
+This came to be called the "dynastic race theory"[3][4] The theory further argued that the Mesopotamians then conquered both Upper and Lower Egypt and founded the First Dynasty. Predynastic and First Dynasty burial sites similar to Naqada were also found at Abydos, Sakkara, and Hieraconpolis.[1]  
+
+Versions of the Dynastic race model were adopted by scholars as L. A. Waddell,[5] and Walter Bryan Emery, a former Chair of Egyptology at University College London.  
+
+A version of the theory has been revived by some modern scholars, most notably David Rohl,[15] and Michael Rice,[16] who have advanced reasons in support of a Mesopotamian origin of Dynastic Egypt in books such as Rohl's Legend-The Genesis of Civilisation and Rice's Egypt's Making.  
+
+According to Rohl, "There is little evidence of kingship and its rituals very much before the beginning of the 1st Dynasty; no signs of the gradual development of metal working, art, monumental architecture and writing—the defining criteria of early civilisation. Much of what we know about the pharaohs and their complex culture seems to come into existence in a flash of inspiration."[17] Rohl believes the catalyst for this sudden development was the influx of a Mesopotamian "foreign elite" who made their way to Egypt by sailing around the coastline of the Arabian Peninsula into the Red Sea ultimately dragging their boats across the desert to the Nile. Rohl notes numerous pre-dynastic rock carvings found in several locations from Wadi Abbad to Abydos which is suggested depict large Mesopotamian style boats with crews of up to 75, some of which appear being pulled across land.[18] Rohl believes the most dramatic evidence to support this theory is the sudden introduction of distinctly Mesopotamian "niched-facade", also known as "palace facade", architecture found in several early Dynastic sites, most notably the large 1st Dynasty mastabas at Saqqara. A depiction of a building using this kind of architecture is also an integral part of the serekh, the early Egyptian seal of kingship, and is found before the 1st Dynasty as well in the Naqada III, or "Dynasty 0" period. He says, "It is highly improbable that such specialized building techniques were independently invented in two widely separated regions at the same historical period without cultural transmission.[19]  
+
+In addition to the evidence available to Petrie et al., proponents also point out similarities in the names of divinities and places in the religious beliefs of the two cultures, and in depictions of regalia. For example the primeval mound of the Egyptian first creation was called the Island of Nun, and was surrounded by the Waters of Nun, while the Sumerian name for the great temple in their original city of Eridu was Nun.ki—the 'Mighty Place'—and it was built on an island in the reed swamps. Several scholars have also noted that the name Osiris is a Greek pronunciation, and that the god would have been called Asar in Egyptian, while the Sumerian god of the Eridu area was also called Asar (the Babylonian Marduk.).[20] The Uruk period of Ancient Mesopotamia (4100–2900 BC calibrated) predates the Naqada II period of Ancient Egypt (3500-3200 BC) and indeed there is evidence of colonies of this Uruk civilization over a wide area—from the Taurus Mountains in Turkey, to the Mediterranean Sea in the west, and as far east as Central Iran.[21]  
+
+
+
+Naqada III later replaced the earlier Maadi culture of upper Egypt which came from the Levante.  
+
+A few hundred years later much of the Egyptian elite interbred with locals, so that the result looks this:  
+![](https://upload.wikimedia.org/wikipedia/commons/4/4d/Races2.jpg)  
+
+According to [Herodotus](Herodotus.html) there was one woman and one native in the succession of pharaohs. In reality both numbers were significantly higher.  
