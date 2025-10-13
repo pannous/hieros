@@ -1,0 +1,1813 @@
+#=IVTFF Eva- 1.5
+# Version 1b of 2017/09/24
+#
+# page 1
+# text only
+# Currier's Language A, hand 1
+# There is a key-like sequence in the right margin apparently added after
+# the main text was written. Unclear in Petersen copies, but seems to be
+# the roman alphabet. It starts at the end of the second line and it
+# is not well aligned with the rest of the lines: a,b,c,d,e,f,g,h,
+# i,{j is missing}k,{l,m,n are not readable},o,p,q,r
+# There is non-Voynich text at bottom of folio: the signature
+# of Jacobus de Tepenecz
+# At the end of the paragraphs there are further words (right justified)
+# as if they were the name of the author in a quotation.
+# The space between the paragraph and these "signatures" is marked with a
+# {space} comment.
+# Next to the end of the 1st. line there is a thick non-Voynich symbol
+# resembling an underlined 29 and marked {doodle}
+# The 2nd and 3rd paragraphs start with thick non-Voynich symbols. These
+# are also marked {doodle}
+
+#
+# page 2
+# herbal
+# Currier's language A, hand 1
+# Plant ID: uva lupi, aterpa belladonn[a], solatrum d[iv|w]ale, solanum nigrum=morella
+#           Ref: Fuchs p.398, Fischer p.17
+# Same plant as f102r1[3,2] (Petersen, Stolfi)
+# Two paragraphs of text, plant cutting through middle
+#
+# page 3
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Cyanus segelis coeruleus (Kornblume), centaurea (cf. Holm)
+# Two paragraphs, top one cut in many places. 1 label near plant leaf
+#
+# page 4
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Collocasia, Egyptian lotus, Nymphoides Peltata (R. Zandbergen)
+# Just 8 lines, all cut by plant
+#
+# page 5
+# herbal
+# Currier's language A, hand 1
+# Plant ID: crassulatea (Cretan Dittany)
+# 20 normal lines of text
+#
+# page 6
+# Currier's language A, hand 1
+# herbal
+# Two paragraphs of text, left of plant picture
+# Same root as f100v [1,1] (Petersen
+#
+# page 7
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Hypericum; Centaurium Erythaea (O'Neill)
+# Two paragraphs of text, flower cuts through top one
+#
+# page 8
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Convulvula Ipomea? (climbing plant)
+# Two paragraphs, top one split by plant
+#
+# page 9
+# herbal
+# Currier's language A, hand 1
+# Plant ID: [Herba] Paris, Indian Cucumber?
+# Two paragraphs
+#
+# page 10
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Paretaria Urtica (O'Neill)
+# Only one paragraph of text
+#
+# page 11
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Asclepiades, but with wrong leaves (of Pediculum)
+# One paragraph with 14 lines, plant cutting through
+#
+# page 12
+# herbal
+# Currier's language A, hand 1
+# Plant ID: blackgum tree?, arctium? Bidens(sp?)kyptis (O'Neill),
+#           (castor oil busk, ricinus?)
+# 21 lines in apparently two paragraphs
+#
+# page 13
+# herbal
+# Currier's language A, hand 1
+# Pland ID: Nymphaea alba
+# 10 lines in two paragraphs, both cut by plant
+#
+# page 14
+# herbal
+# Currier's language A, hand 1
+# Plant ID: polygonum persicaria, potentilla silvestris, oculus christi
+# 9 lines, two paragraphs, plant intrudes in bottom paragraph
+#
+# page 15
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Praenanthes (O'Neill), Atriplex hastata (spinach?)(Voynich)
+#           Hedera Helix (RZ)
+# last word(s) in each paragraph flushed to the right (signatures?)
+#
+# page 16
+# herbal
+# Currier's language A, hand 1
+# gathering mark 1: 13mg (Primus)
+# end of quire I
+# Plant ID: Silene
+#
+# page 17
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Chelidonium Majus, Sallkraut (sp?)
+# last 3 words in last paragraph indented (signatures?)
+#
+# page 18
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Herba Trinitatis, Freyschamkraut(sp?) (O'Neill)
+#           Viola Tricoloris, Jacca sive Flos Trinitatis
+#           RZ: Viola allright but all upside down
+#
+# page 19
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Scabiosa
+#
+# page 20
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Hellebore? orientalis
+#
+# page 21
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Silene Aca[ul|nt]is (O'N)
+#
+# page 22
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Leonotus or Leonarus
+# G. Turner's pineapple
+# Folio 12 is missing. Its stub is still visible.
+#
+# page 23
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Tussilago petronitas, colto foot (all sp?)
+#
+# page 24
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Crassulatea Fetthenne(sp?)
+#
+# page 25
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Pfeilkraut - scorpion, Sagittaria
+#
+# page 26
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Osmodei (fern root)
+#
+# page 27
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Saw/Some thistle?
+#
+# page 28
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Herba Paris (liliacesus), Herba Mortis
+#           Leaves = Aconitum / Paris Quadrifolia (O'Neill)
+#
+# page 29
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Canabis, Hemp, Ampfer(?)
+#
+# page 30
+# herbal
+# Currier's language A, hand 1
+# gathering  mark 2: 29
+#
+# page 31
+# herbal
+# Currier's language A, hand 1
+# has extraneous writing on top of page
+# mull*av alhor lucz hev vellome o ***....
+#
+# page 32
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Tamus communis, Polygonum dumetorum(sp?), Smilax,
+#           trachaia leaves (Dioscorides fol/25r)
+#
+# page 33
+# herbal
+# Currier's language A, hand 1
+#
+# page 34
+# herbal
+# Currier's language A, hand 1
+# Same plant as f102r2[3,1] ? (FSG, Stolfi)
+#
+# page 35
+# herbal
+# Currier's language A, hand 1
+# Same plant as f102v1[2,2] ? (Stolfi)
+#
+# page 36
+# herbal
+# Currier's language A, hand 1
+#
+# page 37
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Moss Polytrichum (O'Neill), cranberry
+#
+# page 38
+# herbal
+# Currier's language A, hand 1
+#
+# page 39
+# herbal
+# Currier's language A, hand 1
+#
+# page 40
+# herbal
+# Currier's language A, hand 1
+#
+# page 41
+# herbal
+# Currier's language A, hand 1
+#
+# page 42
+# herbal
+# Currier's language A, hand 1
+#
+# page 43
+# herbal
+# Currier's language A, hand 1
+# Same plant as f102r2[3,1] (FSG, GL)
+#
+# page 44
+# herbal
+# Currier's language A, hand 1
+#
+# page 45
+# herbal
+# Currier's language A, hand 1
+#
+# page 46
+# herbal
+# Currier's language A, hand 1
+# gathering mark 3
+# Plant ID: (hard to read)
+#
+# page 47
+# herbal
+# Currier's language A, hand 1
+# Plant ID: too many to list here but mostly nettle- or mint-like
+#
+# page 48
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Leontopodium Edelweiss + unreadable
+#
+# page 49
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Flower like artemisium absinth / wermuth but leaves are not
+#           gnaphalium?
+#
+# page 50
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Verbena foenica
+#
+# page 51
+# herbal
+# Currier's language A, hand 1
+# Plant ID: (small one:) Asarium Europeum (Haselwurz)
+#
+# page 52
+# herbal
+# Currier's language A, hand 1
+#
+# page 53
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Arum or Arisarum (Haselwurtz)
+#
+# page 54
+# herbal
+# Currier's language A, hand 1
+#
+# page 55
+# herbal
+# Currier's language A, hand 1
+#
+# page 56
+# herbal
+# Currier's language A, hand 1
+#
+# page 57
+# herbal
+# Currier's language A, hand 1
+# Plant ID: (Holm) Dentaria(?) leaf only. Schippenwurtz?
+#           Menanthes trifolia
+#
+# page 58
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Boragine
+#
+# page 59
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Hyrcio[unreadable] Arabum
+#
+# page 60
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Heracleum cervofilum
+#
+# page 61
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Mentastrum/Ros*(illegible)muentz (O'Neill),
+#           brunella vulgaris
+#
+# page 62
+# herbal
+# Currier's language A, hand 1
+# gathering mark 4
+# Plant ID: Campanula Ranunculus (Holm), Archangelica, Glockenblume,
+#           Halskraut, Convolvulus erectus?
+# Same plant as f102r2[1,2] ? (FSG, Stolfi)
+#
+# page 63
+# Currier's language B, hand 2
+# herbal
+#
+# page 64
+# Currier's language B, hand 2
+# herbal
+# Publ: NYT 6May75, Krauss 30(top)?, Kahn plate, B@R p90 ; 'Sunflowers'
+# Plant ID: Scabiosa
+#
+# page 65
+# Currier's language B, hand 2
+# herbal
+# Publ: Krauss 30(top), B@R p91; "Sunflowers''
+# Plant ID: smaller scabiosa
+# After this line the texts left and right of the rightmost plant are not well
+# aligned vertically. Their number is the same, but the ones on the right align
+# well with lines on the left one below the expected.
+#
+# page 66
+# Currier's language B, hand 2
+# herbal
+# Plant ID: libanotus umbilifera
+#
+# page 67
+# Currier's language A, hand 1
+# herbal
+# Plant ID: orchid root?
+#
+# page 68
+# Currier's language A, hand 1
+# herbal
+# Plant ID: uva quercia (vitis), oak/quercus, gall apple?
+#           grape vine?, oak tree (RZ)
+#
+# page 69
+# Currier's language A, hand 1
+# herbal
+# Plant ID: Geranium (SDC = [RZ])
+#
+# page 70
+# Currier's language A, hand 1
+# herbal
+# Plant ID: Indian hemp
+#
+# page 71
+# Currier's language A, hand 1
+# herbal
+# The page seems to have been torn and stiched
+# Plant ID: Baldrian, Valerian, dwarf ceder(?), (+illegible)
+#
+# page 72
+# Currier's language A, hand 1
+# herbal
+# Same plant as f102r1[3,1] ? (Stolfi)
+#
+# page 73
+# Currier's language A, hand 1
+# herbal
+#
+# page 74
+# Currier's language A, hand 1
+# herbal
+# Plant ID: Cickorium?, Lactuca
+#
+# page 75
+# Currier's language B, hand 2
+# herbal
+# Plant ID: crocus? (RZ)
+# Same plant as f95r2 ? (Stolfi)
+#
+# page 76
+# Currier's language B, hand 2
+# herbal
+# Plant ID: Primulaceon(?) (ag arthritis)
+#
+# page 77
+# Currier's language B, hand 2
+# herbal
+# Plant ID: Primulaceon
+#
+# page 78
+# Currier's language B, hand 2
+# herbal
+# gathering mark 5
+# Plant ID: Thistle, Gerneolem(?) Artichoke, Helianthus Tuberosus
+#
+# page 79
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Thistle
+# Transcription quality seriously reduced on this page
+#
+# page 80
+# herbal
+# Currier's language B, hand 2
+# Plant ID: <unreadable>, Fern, Maidenhair fern??? Tansy?
+#           Plain carrot or variety (RZ)
+#
+# page 81
+# herbal
+# Currier's language A, hand 1
+# Has two plants.
+# Plant ID: Tropical Arum sagittarium visicating,
+#           crelpius(sp?) ranunculus, arum sagittarii
+#
+# page 82
+# herbal
+# Currier's language A, hand 1
+# Plant ID: ranunculacea helleboria(?) (Mrs Voynich)
+#
+# page 83
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Antennaria Gnaphalium
+#
+# page 84
+# herbal
+# Currier's language B, hand 2
+# Two plants. Polygonum biatorta (sp?). Lunaria (RCAZ)?
+#
+# page 85
+# herbal
+# Curriers language A, hand 1
+# Plant ID: Veratrum (sp?)
+#
+# page 86
+# herbal
+# Curriers language A, hand 1
+#
+# page 87
+# herbal
+# Curriers language A, hand 1
+#
+# page 88
+# herbal
+# Curriers language A, hand 1
+# Plant ID: Sentellaria, Veronica? carnedris(sp), Ehrenpreis?,
+#           beatrum phula inal(sp)
+#
+# page 89
+# herbal
+# Curriers language B, hand 2
+# Plant (root) ID: Asclepias, (+unreadable)
+#
+# page 90
+# herbal
+# Curriers language B, hand 2
+# Plant ID: Boragine, Anchusa (has red mark along top of roots)
+#
+# page 91
+# herbal
+# Curriers language A, hand 1
+# Plant ID: Indian cucumber?
+#
+# page 92
+# herbal
+# Curriers language A, hand 1
+# Plant ID: Toronicum Pardalianchus (Holm) [Gemswurtz]
+# Same plant as f102r2[1,1] (Petersen)
+#
+# page 93
+# herbal
+# Curriers language B, hand 2
+# Same plant as f89v2[3,4] ? (Stolfi)
+#
+# page 94
+# herbal
+# Curriers language B, hand 2
+# gathering mark 6
+# Same plant as f89v[1,4] ? (Stolfi)
+#
+# herbal
+# page 95
+# Curriers language A, hand 1
+# Brumbaugh p4, Harper's 'potato'
+# Plant ID: Tamus communis (Holm), Scamonia
+#
+# page 96
+# herbal
+# Currier's language A,  hand 1
+# has a 'key-like' sequence
+# Plant ID: Lunaria. Cyclamen (Holm)
+# In the left margin there is a vertical sequence 1 2 3 4 5 aligned with
+# the 1st paragraph, starting from line 2.
+#
+# page 97
+# herbal
+# Currier's language B,  hand 2
+# Plant ID: Artichoke, (species of sunflower?)
+#
+# page 98
+# herbal
+# Currier's language B,  hand 2
+# Plant ID: Umbellifera? (O'Neill), (coxcomb?)
+#
+# page 99
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Mandrake (Manley)
+#
+# page 100
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Cow's tongue, Licopsis, Sedum Majus (Hauswurtz)
+#
+# page 101
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: (unreadable)
+#
+# page 102
+# herbal
+# Currier's language A,  hand 1
+#
+# page 103
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Elecampane
+#
+# page 104
+# herbal
+# Currier's language A,  hand 1
+#
+# page 105
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Thistle, leaves of boneset
+#
+# page 106
+# herbal
+# Currier's language A,  hand 1
+# not found in FSG item 1609
+#
+# page 107
+# herbal
+# Currier's language B,  hand 2
+#
+# page 108
+# herbal
+# Currier's language B,  hand 2
+# Plant ID: Elephant's ear?
+# Next line badly legible in Petersen
+#
+# page 109
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Boragine echium, Dianthus flower (convolvulus?)
+# Kraus p45, Zimansky; 'fern'
+#
+# page 110
+# herbal
+# Currier's language A,  hand 1
+# gathering mark 7
+#
+# page 111
+# herbal
+# Currier's language B,  hand 2
+#
+# page 112
+# cosmological
+# Currier's language B,  hand 2 (???)
+# has `key-like' sequences
+# has extraneous writing ==> Saturn symbol in lower right corner
+# General description of page:
+# Four bands of circular text, locus indications
+# C.1 to C.4 (outer to inner). Contains various sequences
+# of characters. Outside outer ring one word (S1) possibly
+# meaning 'start here'. Inside innermost ring 8 labels,
+# numbered cf. Petersen.
+#
+# page 113
+# text only
+# Currier's language A
+# has one star near each paragraph
+# I suspect a key-like sequence in the last paragraph
+# Six-pointed star at start of this paragraph
+# Seven-pointed star at start of this paragraph
+# Eight-pointed star at start of this paragraph
+# Most lines in para seem to have extra first char
+#
+# page 114
+# text only
+# Currier's language A
+# General description of page:
+# Plain text in four(?) paragraphs
+# Six-pointed star with tail at start of this paragraph
+# The last three words of above line seem to have been scribbled in afterwards
+# Above line seems to have been scribbled in afterwards
+# folios 59-64 are missing
+#
+# page 115
+# herbal
+# Plant with only two or three words next to it,
+# treated as a label.
+#
+# page 116
+# herbal
+# appears as Plate II in Newbold facing p44.
+# It features a plant with many roots, branches and flowers; the main stem
+# separates the lines of text into two columns, which are well-registered
+# across the stem.
+# Transcribed 7 Dec 91 by Gillogly, 9 dec 91 by Reeds, 13 Dec 91 Gillogly
+#
+# page 117
+# text only
+# Currier's language B
+# has 'key-like' sequence
+# has non-Voynich writing
+# Brumbaugh Yale Lib Gaz p352
+# Roe, 3 Sept 93
+# Normal text in paragraphs with, to the left, single characters
+# (not exactly one per line) and left of that occasional single words.
+# The text layout of Mike Roe is not used here.
+# Text near the 'dead body' is label, and all other characters
+# and words 'scattered'.
+# R In the bottom left hand corner, there is a picture of a woman lying down
+# R (dead?). To the left of the woman are two circles and a cylinder. Above
+# R her are four words in Voynich text. To the far left are four words in
+# R a different hand and a different alphabet. To me they look like:
+# R     v
+# R Den  mv<illegible>
+# R    der
+# R In the bottom right hand corner there is a symbol that looks like a number 2
+# R on its side.
+# Loci: S1 to S15 for the full words at the extreme left,
+#       S16 to S49 for the individual characters
+# Now individual characters in next column
+# Now normal text in paragraphs
+# text above female figure
+#
+# page 118
+# herbal
+# Currier's language B
+# gathering mark 8
+# Plant ID: Primula?
+# Has extraneous writing
+# Petersen had some problems with this page, and FSG also on locus 7
+#
+# page 119, 120
+# astronomical
+# "moon @ circles"
+# Has gathering mark 9
+# Has 'a' in upper right corner
+# Newbold plate III, Brumbaugh p66, both of whom call it f67r
+# There is a noticeable gap in the word-rings at 11:45
+# Rings numbered C1 to C3, outer to inner
+# Radii of the circle, clockwise, starting from the North
+#
+# page 121, 124
+# astronomical
+# General description of page:
+# Circular diagram with 12 sectors and 12 moon or planet faces.
+# One outer circle in red ink, with 12 pieces of scattered writing in red ink.
+# Middle circle is divided in 12 radial sections with short paragraphs.
+# Sector nrs are cf. Petersen, first = from 09:00 to 10:00 and further clockwise.
+# Inner circle with  8 words around an 8-point star with clouds (?)
+# From one of the star point there is a radiating dotted line that runs up
+# to the lower part of the middle section.
+# Each of the middle sections starts with text, in 7 cases with one "heading",
+# which is transcribed as a combination of blocked and scattered loci.
+# More inside are 12 labels near moon faces and inside that 8 more words (S loci).
+# At NW of the circle there seems to be a line that marks the start of text (?)
+# Has 'b' in upper right corner
+# Outside ring:
+# Blocked and scattered text in sectors
+# Labels near moon or planet faces
+# Words inside moon or planet faces
+# Now text in normal paragraphs, at bottom
+#
+# page 122
+# cosmological
+# Roe, 6th September 1993
+# Machine-translated from transcription in Bennett notation dated April 1990
+# This is plate XX in Newbold, and plate IV in Manly31. Newbold's folio number
+# scheme has this as 67r.
+# This is the folio Newbold claimed showed an annular eclipse. See also John
+# Manley's 1931 article in Speculum: "Furthermore, I invite the reader to
+# examine carefully Plate IV and say whether it bears any resemblance whatever
+# to an annular eclipse."
+# General description of page:
+# There is a large circle centered on the page. Outside this circle, in the
+# NE, SE, SW and NW corners, are four smaller circles. In the center of the
+# large circle is a square, within which is inscribed another circle, within
+# which is a star.
+# From the square, lines radiate out in the N, S, E and W directions. Lines
+# come in towards the square from the perimeter of the large circle in the NE,
+# NW, SE and SW direction. Each of these eight lines are terminated with a
+# branching broccoli-like structure.
+# The small circles in the corners contain between one and four human faces,
+# joined by lines.
+# There is a "sentence'' of Voynich text above, below, to the left and the
+# right of the large circle. The bottom left small circle contains a "word''
+# of Voynich text.
+# Labels in upper left and right circles
+# Above large circle
+# To the right of large circle
+# Below large circle
+# To the left of large circle
+# Radiating texts, clock direction indicated.
+# Text alternates between outside in and inside out
+# Scattered texts, near square
+# Labels in lower left and right circles
+#
+# page 123
+# astronomical
+# General description of page:
+# Large outer circle, divided into 12 sectors, here identified as
+# 'scattered' loci. There may have been more than 12 but any
+# additional ones are outside the visible part of this page.
+# Inside are 17 lines of text radiating outward from the central
+# Sun face, which is smiling. There are  39 stars, 3 of which are blue, the
+# rest being  yellow.
+# 1st label starts at 10 o'clock
+# Scattered loci, really on circle:
+# Radiating from central Sun, going clockwise. Petersen loci in curly brackets.
+#
+# page 125
+# astronomical
+# Has star names
+# Has 'a' in upper left corner
+# Krauss plate 31(top)
+# Blocked text near top Sun/Moon
+# Labeled stars. Numbers one less than Petersen's
+#
+# page 126
+# astronomical
+# General description of page:
+# A large circle filled with stars, with each with a label
+# At the top, within the large circle, is a smaller circle with a moon in
+# the middle and a ring of Voynich text around the circumference.
+# At the bottom, within the large circle, is a smaller circle with a sun in
+# the middle and a ring of Voynich text around the circumference.
+# Has 'b' in upper left corner.
+# Circular text around moon, starting at 09:00
+# Labeled stars. Numbers one less than Petersen's
+# Bottom ring of text, start at 05:00 (larger gap but not much)
+#
+# page 127
+# astronomical
+# General description of page:
+# Moon face in centre, 8 segments around it, four containing
+# labeled stars, one of which probably the Pleiades.
+# Has 'c' in upper left corner.
+# Locus C1 is one ring of text around the diagram.
+# Starting point not clear: use ThP's just after 09:00.
+# Radiating lines enumerated cf. ThP, starting at 10:30
+# Labels of stars enumerated cf. ThP.
+# Small ring of text around central moon face
+#
+# page 128
+# cosmological
+# The 'Spiral Nebula'
+# Way p140
+# Newbold XIII, XXI, XXII, who calls it f.68r
+# Outer Circle, starting at the marker just before 09:00
+# Spiralling lines, transcribed as radiating. Clock position indicated is that
+# of point at outer circle. 4 are long (up to central circe) and 4 are short
+# Inner circle, starting at 08:00
+# Inside circle. Top left as S1, top right as S2, bottom as 3-line block
+#
+# page 129
+# astronomical
+# Brumbaugh p41, called f.68r by him.
+# Circumference starting at 10:30 cf. ThP
+# Radiating text, clockwise, starting at 00:30
+#
+# page 130
+# astronomical
+# General description of page:
+# Two rings of text, counted outside inwards.
+# Petersen's guesses for starting points followed here.
+# Plus radial short texts, enumerated cf. ThP.
+# Radiating texts, starting point cf. ThP
+#
+# page 131
+# cosmological
+# 'organ pipes' radiating out from a small circle with a star in the middle.
+# One normal paragraph:
+# Large circle divided into 16 segments, using S loci. Start at 09:00 cf ThP.
+# Radiating lines on 'organ pipes'. Numbering cf ThP with indication
+# of clock position, but start presumably at 02:00. It is not clear
+# whether the intended direction is clockwise or counterclokwise.
+# Here is a segment that looks like one of these start indicators.
+# Small circle, using small gap as start point
+# In the centre...ThP's numbering
+#
+# page 132
+# cosmological
+# Three bands of circular text, locus indications
+# C1 to C3 (outer to inner). Text assumed to start
+# in each case after wide gap near 11:00 hours.
+# 28 words along radiating segments, locus indications
+# R1 to R28, first one near 09:30 cf. ThP
+#
+# page 133
+# cosmological
+# Two bands of circular text, locus indications C1 and C2 (outer
+# to inner). ThP's starting points are questionable in this case.
+# Radial texts, then one more circular, and more radial words.
+# Petersen saw some Voynich text outside the diagram
+# which is treated as 'scattered'.
+# Has 'a' in upper left corner.
+# Next radial texts were also numbered 1-6 by ThP
+#
+# page 134
+# cosmological
+# Face in centre, with 8 lozenges around it. Four large
+# circles of text (C1 to C4 outer to inner) and one small
+# around face. A paragraph of text is written in the upper
+# right part of the page (transcribed first).
+# Has 'b' in upper left corner.
+#
+# page 135
+# Pisces
+# General description of page:
+# Three concentric rings of text. In the centre are two fish (the astrological
+# symbol for Pisces), two stars, a ``word'' of Voynich text and the word Mars
+# in the Roman alphabet. Mars is French for March, Pisces is February 20th to
+# March 20th.
+# Between the inner ring and the middle ring are ten female(?) figures, each
+# beside a barrel and holding a star. Between the middle and the outer ring
+# are 19 (NOT 20) female figures, each standing in a barrel and holding a star
+# Each of the figures in the 29 figures is labelled with a "word" or phrase
+# of Voynich text.
+# Circular text, locus indications C1 to C3 (outer to inner)
+# Nymph labels, outer ring:
+# Nymph labels. Clock position is that of nymph (approx). Numbering
+# cf. ThP. Inner ring:
+# Central star:
+#
+# page 136
+# Aries (dark)
+# Gathering mark 10
+# Two concentric circles of text. In the centre is the astrological
+# symbol for Aries (dark) eating a plant, word "Abril" in the Roman
+# alphabet. Abril is Spanish for April, Aries is March 20th to April 20th.
+# Nymph labels, outer ring:
+# Nymph labels. It is assumed that the text to the right of the nymph belongs
+# with it but on this page (especially inner circle) it is not entirely clear.
+# Clock position is that of nymph (approx). Numbering cf. ThP.
+# Inner ring:
+#
+# page 137
+# Aries (light)
+# Three rings of circular text, locus indications C1 to C3 (outer
+# to inner) and fifteen labled nymphs. Two outer rings have clear
+# start markers.
+# Nymph labels, outer ring
+# Nymph labels, inner ring
+#
+# page 138
+# Taurus (light)
+# General description of page:
+# Three concentric rings of text, locus indications C1 to C3 (outer
+# to inner). In the centre is a Taurus feeding from a manger. Below
+# the bull is the word ``May'' in the Roman alphabet. Between the
+# inner ring of text and the middle ring are five
+# human figures, each in a barrel, holding a star, and labelled with a word
+# of Voynich text. One is naked, four are clothed. Between the middle ring
+# and the outer ring are 10 human figures, each in a barrel, holding a star,
+# and labeled with a word of Voynich text. Two are naked, eight are clothed.
+# Newbold calls this folio 79 and he reads the date of the comet 1273.
+# The photograph in Newbold is cropped, so part of ring C1 isn't visible.
+# There is a gap at 10:00 which could be the start instead of ThP's choice
+# Nymph labels, outer ring:
+# Nymph labels, inner ring:
+#
+# page 139
+# Taurus (dark)
+# Three rings of circular text, locus indications C1 to C3 (outer
+# to inner) and fifteen labled nymphs. Inner ring has nymphs in
+# barrels, outer ring has standing nymphs, without barrels.
+# Nymph labels, outer ring
+# Nymph labels, inner ring
+#
+# page 140
+# Gemini
+# Three rings of circular text, locus indications C1 to C3 (outer
+# to inner) and thirty labled nymphs. Inside inner ring the
+# emblem of Gemini: two persons holding each other's hands.
+# Inside two rings: full circles with labeled nymphs. Five more
+# of them are found on top of the outer ring.
+# Three nymphs (outer complete ring) are standing on top of
+# barrels similar to those of the previous pages.
+# Top row of nymphs
+# Nymph labels, second ring:
+# There is a nymph without a name here. Consequently, the
+# label numbers are now one less than Petersen's nymph numbers
+# Nymph labels, inner ring:
+#
+# page 141
+# Cancer
+# Four circular bands, locus indications C1 to C4 (outer
+# to inner). Three rings of labelled nymphs, 30 in total
+# counting inner to outer (cf. Petersen). Clock position
+# for labels is that of nymph.
+# Part of the start of C1 could be missing
+# Outer band of labels
+# Middle band of labels
+# Inner band of labels
+#
+# page 142
+# Leo
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). Two rings of labelled nymphs, 30 in total
+# counting inner to outer (cf. Petersen). Clock position
+# for labels is that of nymph.
+# Outer band of labels
+# Inner band of labels
+#
+# page 143
+# Virgo
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). Two rings of labelled nymphs, 30 in total
+# counting inner to outer (cf. Petersen). Clock position
+# for labels is that of nymph.
+# Outer band of labels
+# Inner band of labels
+#
+# page 144
+# Libra
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). C2 start point suggested by ThP ignored and vertical
+# stripe used instead.
+# Two rings of labelled nymphs, 30 in total
+# counting inner to outer (cf. Petersen). Clock position
+# for labels is that of nymph.
+# Has gathering mark 11.
+# Outer band of labels
+# Inner band of labels
+#
+# page 145
+# Scorpius
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). Two full rings of labelled nymphs and one short
+# third section, 30 in total counting inner to outer (cf.
+# Petersen). Clock position for labels is that of nymph.
+# Top four nymphs with labels
+# Outer full circle of labels
+# Inner full circle of labels
+#
+# page 146
+# Sagittarius
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). Two full rings of labelled nymphs and one short
+# third section, 30 in total counting inner to outer (cf.
+# Petersen). Clock position for labels is that of nymph.
+# Note: Layout same as for Scorpius.
+# Top four nymphs with labels
+# Outer full circle of labels
+# Inner full circle of labels
+# folio 74 missing
+#
+# page 147
+# biological
+# Currier's language B, hand 2
+# 2 lakes and 14 nymphs
+# Text inside loop near top of page transcribed as block
+#
+# page 148
+# biological
+# Currier's language B, hand 2
+# Oesophagus @ dissected stomach (GL) or water stream @ lake.
+# last character in first 5 lines aligned vertically reading slors
+# Text near nymphs treated as two-word labels.
+# That means 20 labels
+# Continue normal loci. Petersen counted the above as 11a and 12 so he's 1 out now
+# Alignment of all following lines is very uncertain
+#
+# page 149
+# text only
+# reversed in Brumbaugh p114
+# Currier's language B, hand 2
+# has 'key-like' sequence, here transcribed as 'scattered',
+# at approximately the right place reading: sdqsolkrs
+#
+# page 150
+# biological
+# Currier's language B, hand 2
+#
+# page 151
+# biological
+# Large blood vessels (GL)
+# Currier's language B, hand 2
+# Labels 1-10 cf. Petersen but put in order of page
+#
+#
+# page 152
+# biological
+# Currier's  language B, hand 2
+# Kahn p865, Kraus XXIX
+# ladies in tubes
+# Uterus @ ovaries (top)? Intestines (right)? (GL)
+# First label numbers equal to Petersen's minus 7 because he counts
+# the nymphs first
+#
+#
+# page 153
+# biological
+# Newbold plate V, Kraus XXIX, Kraus Autobiog p220
+# Currier's language B, hand 2
+# Two "ponds" with ladies and tube sections carrying something (GL)
+# Petersen's ID numbers in comments whenever this may be helpful
+#
+#
+# page 154
+# biological
+# Currier's language B, hand 2
+# 9 ladies in an odd-shaped bathtub
+# B@R p88
+#
+# page 155
+# biological
+# Currier's  language B, hand 2
+# 7 ladies in various pipe systems
+# B@R p88
+#
+# page 156
+# biological
+# Guy p212, Bennett p188 (he calls it f 80), Poundstone p193, Zimansky;
+# Mermaid or lady being eaten or coming out of a fish.
+# Lady with parasol holding a cross.
+# One lady holding a ring
+# Currier's language B, hand 2
+#
+# page 157
+# biological
+# Guy p213 (who calls it f80v), Bennett p189
+# Currier's language B, hand  2
+# queens on top
+# Stream of blue liquid
+#
+# page 158
+# biological
+# Currier's language B, hand 2
+# Strange object in one nymph's hand (same in f82r)
+#
+# page 159
+# biological
+# Brumbaugh p9, Harper's; "hot tubs''
+# Currier's  language  B, hand 2
+# Right margin of text is irregular; missing picture?
+#
+# page 160
+# biological
+# Currier's language B, hand 2
+# 16 ladies in an odd-shaped bathtub
+#
+# page 161
+# biological
+# Currier's language B, hand 2
+# Strange object in one nynmph's hand, same as in f80v
+# Label nrs on this page same as Petersen
+#
+# page 162
+# biological
+# Brumbaugh p104; B's allegorical reproduction
+# Currier's language B, hand 2
+#
+# page 163
+# biological
+# Currier's  language B, hand 2
+#  Writing below tubes
+#
+# page 164
+# biological
+# Currier's  language B, hand 2
+#
+# page 165
+# biological
+# Newbold VI, Zimansky; Public baths
+# Currier's language B, hand 2
+# For nymph labels: Petersen ID in curly brackets
+#
+#
+# page 166
+# biological
+# Currier's language B,  hand 2
+# gathering mark 13
+# Two small blocks
+#
+# page 167
+# text only
+# Currier's language B, hand 3
+# folio mark 85
+# Note from RCAZ: this page is in a mess. I can't believe that
+# it was written line by line.
+#
+# page 171
+# cosmological
+# Currier's language B, hand 3
+# sun @ circle divided in 4, 4 human figures.
+# 'Four seasons'. Outer and inner circle of text and four
+# blocks. Lines in blocks are loci .B1 to .B22 and
+# comments are included to show the compass directions.
+# Here ThP used 16a instead of 17 so the rest is out of sync
+#
+# Part of 6-page 9-circle         85v2 86r4 86r6     1 4 7
+# composite. Page and circle      85v1 86r3 86r5     2 5 8
+# numbers as indicated to the                        3 6 9
+# right.
+# Petersen loci as {circle:locus} e.g. {1:9} inside circle 1.
+# This is the upper left page with parts of circles 1 and 2.
+# The following are block left of circle, left margin unreadable
+#
+#
+#
+# Start of circle 3
+# Text around Brumbaugh's clock
+#
+# page 168
+# cosmological
+# Currier's language B, hand 3
+# moon, 5 frothy rings, 4 torsos hiding in bubble bath
+# Transcription of circles (C1 to C4 outside inwards).
+# Text partly interrupted by creases.
+#
+# page 169
+# text only
+# Currier's language B, hand 3
+#
+# page 172
+# text only
+# Currier's language B, hand 3
+# folio mark 86
+#
+# page 173,174
+# cosmological
+# Currier's language  B, hand  3
+# Normal paragraph in centre.
+# Additionally, four blocks counted clockwise (N, S, E, W)
+# Has a circle divided in 3 and some extraneous writing
+# Newbold plate VII, calls it f86v
+# SciAm
+# Brumbaugh p54, calls it f85r
+# "coition''
+# gathering mark  14
+#
+# page 175
+# herbal
+# Currier's language A, hand 4
+#
+# page 180
+# herbal
+# Currier's language A, hand 4
+# Petersen has omitted the right-hand part of paragraph 2
+#
+# page 181
+# pharmaceutical
+# Washington Post, 5 Aug 62 (Sunday)
+# Currier's  language A, hand 4
+# 3 rows of labelled roots, with paragraphs under each...
+# top row of plants
+# middle row of plants
+# bottom row of plants
+#
+# page 182
+# pharmaceutical
+# Currier's language A, hand 4
+# L This is another recipes page. Three rows of recipes with two paras between them
+#
+# page 183
+# pharmaceutical
+# Currier's  language A
+#
+# page 184
+# pharmaceutical
+# Currier's language A
+# this is a page-and-a-half (one fold over which the text continues).
+# It has 4 rows of small, complete plants and 3 paras
+# the following para may or may not be split.
+#
+# page 185
+# pharmaceutical
+# Currier's language A
+# This is a page-and-a-half (one fold over which the text continues).
+# It has 3 rows of small, complete plants and 3 paras of text
+# Petersen loci of next labels in curly brackets
+#
+# page 186
+# pharmaceutical
+# Currier's language A
+# two rows of plants, at top and bottom of page. 2 paras in between
+#
+# page 187
+# herbal
+# Currier's language A
+#
+# page 188
+# herbal
+# Currier's language A
+#
+# page 189
+# herbal
+# Currier's language A
+# Plant ID: Xerantrium? Leaves of Osmuda regalis
+# Same plant as f100r[1,3] ? (Stolfi)
+#
+# page 190
+# herbal
+# Currier's language A
+# Same plant as f100r[1,3] ? (Stolfi)
+# gathering  mark 15
+# folios  91-92 missing
+#
+# page 191
+# herbal
+# Brumbaugh p80; O'Neill's "American Sunflower"
+# Currier's language A, hand 4
+#
+# page 192
+# herbal
+# Currier's language A, hand 4
+#
+# page 193
+# herbal
+# Currier's language B, hand 5
+# Plant ID: Botriculum (Lunaria? Mondform?}
+#
+# page 194
+# herbal
+# Currier's language B, hand 5
+#
+# page 195
+# herbal
+# Currier's language B, hand 5
+#
+# page 196
+# herbal
+# Currier's language B, hand 5
+#
+# page 197
+# herbal
+# Currier's language B, hand 5
+# Plant ID: Banberry? Actaea Waxberry
+#
+# page 198
+# herbal
+# Currier's language B, hand 5
+# Plant ID: Wermut, Artemisium Absynthum
+#
+# page 199
+# herbal
+# Currier's language A, hand 4
+# Plant ID: dipsaxus, calendula (O'Neill)
+#
+# page 200
+# herbal
+# Currier's language A, hand 4
+# gathering mark 17
+# Plant ID:  Smilax tracheia, or Chenopodium
+# Same plant as f99r[4,1] ? (GL)
+# folios 97-98 missing
+#
+# page 201
+# pharmaceutical
+# Kraus plate XXXI labeled jars
+# Currier's language A, hand 4?
+# Top row of labels. Petersen ID in curly brackets.
+# Second row of labels. Petersen ID in curly brackets.
+# Third row of labels. Petersen ID in curly brackets.
+# Fourth set of labels. Petersen ID in curly brackets.
+#
+# page 202
+# phamaceutical
+# B@R p88; faces "capsicum"
+# Currier's language A, hand 4?
+# Top row of labels. Petersen ID in curly brackets.
+# Second row of labels. Petersen ID in curly brackets.
+# Third row of labels. Petersen ID in curly brackets.
+#
+# page 203
+# pharmaceutical
+# B@R p88, Brum Spec. p547, Brum p96, Way p138, B's ``pepper''
+# Currier's language A, hand 4?
+# two rows of plants, with (mostly) one word captions
+# 4 line text paragraph
+# one row of plants with one word captions in staggered order
+# 6 line text paragraph
+# First row of labels, Petersen nr. in curly brackets
+# Next row of plants, Petersen locus in curly brackets
+#
+# page 204
+# pharmaceutical
+# Brumbaugh p86; "medicinal herbs''
+# Currier's language A, hand 4?
+# First rows of labels, Petersen nr. in curly brackets
+# Second rows of labels
+# Third rows of labels
+#
+# page 205
+# pharmaceutical
+# 101r1 and 101r2 form a single "logical" page. The text loci are all collected
+# on this page, and there are no labels so page f101r2 is empty
+# Currier's language A, hand 4?
+# <f101r2>       {$I=P $Q=S $P=F}
+# All text on this page in normal paragraphs covered by f101r1
+#
+# page 206
+# pharmaceutical
+# Currier's language A, hand 4?
+# Forms one logical page with f101v1, as can be seen from the
+# subdivision into paragraphs, and the last line which is
+# centered. All normal text loci are transcribed on this page.
+# The creases are badly damaged and all lines are interrupted.
+# Only the labels on f101v1 are transcribed as belonging to that page.
+# Labeled f100v in Brumbaugh.
+# Two rows of labels above normal text
+#
+#
+# page 208
+# pharmaceutical
+# Currier's language A
+#
+# page 209
+# pharmaceutical
+# Currier's language A
+# Bottom jar has three words above each other
+#
+# page 210
+# pharmaceutical
+# Currier's language A
+# Top rows of labels. Petersen ID in curly brackets.
+# Second row of labels. Petersen ID in curly brackets.
+#
+# page 211
+# pharmaceutical
+# Currier's language A
+# gathering number 19
+# Look at folio 19r from Petersen photocopy
+# Top rows of labels. Petersen ID in curly brackets.
+# Second row of labels. Petersen ID in curly brackets.
+#
+# page 212
+# text only / stars
+# Currier's language B, hand X
+# gathering mark 20
+# some unreadable characters corrected by Jim Reeds
+# Dark star, 7 points
+# Light star, 8 points
+# Light star, 8 points
+# Dark star, 6 points
+# Light star, 8 points
+# Dark star, 8 points
+# Light star, 7 points
+# Light star, 7 points
+# Dark star, 7 points
+# Light star, 7 points
+# Light star, 8 points
+# Dark star, 7 points
+# Light star, 7 points
+# Darkish star, 7 points
+# Light star, 8 points
+# Light star, 7 points
+# Dark star, 7 points
+# Light star, 8 points
+# Light star, 8 points, tail up?
+#
+# page 213
+# text only / stars
+# Currier's language B, hand X
+# some unreadable characters corrected by Jim Reeds
+# Light star, dotted, 7 points
+# Lightish star, 7 points
+# Light star, dotted, 7 points
+# Light star, 7 points
+# Light star, dotted, 7 points
+# Light star, 7 points
+# Light star, dotted, 7 points
+# Light star, 6 points
+# Light star, dotted, 6 points
+# Light star, 8 points
+# Light star, dotted, 8 points
+# Light star, 8 points
+# Light star, dotted, 7 points
+# Light star, 8 points
+#
+# page 214
+# text only / stars
+# Currier's language B, hand X
+# some unreadable characters corrected by Jim Reeds
+# Dark star, 7 points, tail
+# Light star, 7 points, tail
+# Darkish star, 8 points, tail?
+# Lightish star, 7 points, tail
+# Light star, 7 points, tail
+# Darkish star, 8 points, tail
+# Light star, 8 points, tail
+# Darkish star, 7 points, tail
+# Light star, 9 points, tail
+# Light star, dotted, [9|8] points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+#
+# page 215
+# text only / stars
+# Currier's language B, hand X
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7? points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+#
+# page 216
+# text only / stars
+# Currier's language B, hand Y
+# Light star, dotted, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+#
+# page 217
+# text only / stars
+# Currier's language B, hand Y
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+#
+# page 218
+# text only / stars
+# Currier's language B, hand X
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail + small light companion with 6/6 points
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 9/8 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+#
+# page 219
+# text only  / stars
+# Currier's language B, hand X
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 9 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8? points, tail
+#
+# page 220
+# text only / stars
+# Currier's language B
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7/8 points, tail
+# Light star, dotted, 8 points, tail?
+#
+# page 221
+# text only / stars
+# Currier's language B
+# Light star, dotted, 6 points, tail, small dots
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail?
+# Light star, dotted, 8 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 9 points, tail
+# Light star, dotted, 8 points, tail?
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+#
+# page 222
+# text only / stars
+# Currier's language B
+# Light star, 7 points, tail
+# Light star, 7 points, tail
+# Dark star, 7 points, tail
+# Light star, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted?, 7 points, tail
+# Dark star, 7 points, tail
+# Light star, 7 points, tail
+# Light star, 7 points, tail
+# Dark star, 7 points, tail
+# Light star, 7 points, tail
+# Dark star, 7 points, tail
+# Light star, 7 points, tail
+# Light star, 7 points, tail
+# Light star, 7 points, tail
+# Dark star, 7 points, tail
+#
+# page 223
+# text only/ stars
+# Currier's language B
+# Light star, dotted, 7 points, long tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, dotted?, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# folios  109-110 missing
+#
+# page 224
+# text only / stars
+# Currier's language B
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 9 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+#
+# page 225
+# text only / stars
+# Currier's language B
+# Light star, dotted, 8 points, tail
+# Light star, 7 points
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points
+# Light star, 8 points
+# Light star, dotted, 7 points
+# Light star, 7 points
+# Light star, dotted, 7 points, tail
+# Light star, 8 points
+# Light star, dotted, 7 points
+# Light star, 7 points, tail?
+# Light star, dotted, 7 points
+# Light star, 7 points
+# Light star, 8 points, dotted, tail
+# Light star, 8 points
+# Light star, dotted, 7 points
+# Light star, 7 points
+# Light star, dotted, 8 points
+#
+# page 226
+# text only / stars
+# Currier's language B
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8/7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+#
+# page 227
+# text only / stars
+# Currier's language B
+# First ten lines are indented by about one cm, probably because in this area
+# the vellum was wet when it was written onto
+# Light star, dotted?, 7 points, tail
+# Light star, 7 points, tail??
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail?
+# Light star, dotted, 8 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 6 points, tail
+# Light star, dotted, 7 points, tail??
+#
+# page 228
+# text only / stars
+# Currier's language B
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 7? points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+#
+# page 229
+# text only / stars
+# Currier's language B
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+#
+# page 230
+# text only / stars
+# Currier's language B
+# Light star, dotted, 7 points, tail
+# Light star, 6/7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 7/8 points, tail
+# Light star, dotted, 8? points, tail
+#
+# page 231
+# text only / stars
+# Currier's language B
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7/8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail
+# Light star, dotted, 8 points, tail
+#
+# page 232
+# text only / stars
+# Currier's language B
+# Light star, dotted, 7 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7/8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, dotted, 9 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+#
+# page 233
+# text only / stars
+# Currier's language B
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 9 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 7 points, tail
+# Light star, 7 points, tail(?)
+# Light star, dotted, 8 points, tail
+# Light star, 8 points, tail
+# Light star, dotted, 8 points, tail
+#
+# page 234
+# Currier's language B
+# text only / stars
+# Light star, 7 points
+# Light star, dotted, 7 points
+# Light star, 7 points
+# Light star, dotted, 6/7 points
+# Light star, 7? points
+# Light star, dotted, 7 points
+# Light star, 8 points
+# Light star, dotted, 7 points
+# Light star, 8 points
+# Light star, dotted, 7 points
+#
+# page 235
+# has "key-like" sequence
+# has extraneous writing mixed with voynich script
+# eva in < >, approximately:
+#              p*clabc* nomon nucor*v
+#              + nuchicon oladab<yd> + multo<d> + tc + c<h>vc + porta<d> + n +
+#              fix + marix + mocix + vix + ahra + maria +
+# end of file

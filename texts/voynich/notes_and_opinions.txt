@@ -1,0 +1,19 @@
+# http://sceti.library.upenn.edu/sceti/ljs/PageLevel/index.cfm?ManID=ljs419&Page=5
+# Tormentilla Potentilla erecta
+
+# incantations or prayers rhymes lyrics
+
+# In the Voynich manuscript I count 290 occurrences. In Hamilton's text I cannot find any occurrence of triple reduplication, while in the Voynich manuscript there are about 10. I believe this evidence suggests that the phenomenon is accidental in Hilton and systematic in the Voynich manuscript.
+
+# Voynich Manuscript’s curious text presents so many different kinds of non-language-like behaviours all at the same time that trying to read it as if it were a simple language (even a polyglot mash-up “simple language”) is never, ever going to work.
+
+# – 1) Low entropy (highly predictable, babble-like text)
+# – 2) Highly structured letter placement rules (e.g. highly stylized word beginnings and endings)
+# – 3) Two or more significant language variants
+# – 4) A surprisingly high (dictionary size) : (corpus size) ratio.
+# – 5) A generative dictionary (i.e. covering many more permutations than normal languages do)
+# – 6) Only sporadic word adjacency pattern matches
+# – 7) Neal keys (both vertical and horizontal)
+# – 8) Where are common words like “the” and “and”?
+# – 9) Where are the number shapes, number clusters, or number patterns?
+# – (etc)
