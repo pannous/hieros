@@ -701,7 +701,7 @@
 946	督	du1	DUCE	supervise	dū:督:⿱叔目 shū mù							
 2838	嘟	du1	duut	toot/honk	dū:嘟:⿰口都 koǔ doū							
 627	独	du2	√dur? 独 ¬2¬	alone/independent/single/sole/only	dú:独:⿰犭虫 zhì chóng							
-947	毒	du2	down/death	poison/narcotics	dú:毒:⿱龶母 ? mǔ							
+947	毒	du2	dose/toxin/down/die 	poison/narcotics	dú:毒:⿱龶母 ? mǔ							
 3373	渎	du2	DO!	ditch/trouble (some one to do)	dú:渎:⿰氵卖 shui maì							
 3915	犊	du2		calf/sacrificial victim	dú:犊:⿰牜卖 niú maì							
 4235	牍	du2		documents	dú:牍:⿰片卖 piān maì							
@@ -794,14 +794,14 @@
 2622	藩	fan1			藩:藩:⿱艹潘 cǎo pān							
 3437	幡	fan1	FAHNE	banner	fān:幡:⿰巾番 jīn fān							
 1452	番	fan1/pan1	~foreign™	(measure word for acts)/deeds/foreign/(surname)/place name	fān:番:⿱釆田 biàn tián							
-1013	凡	fan2	PAN	ordinary/every/all/whatever/worldly	fán:凡:⿵几丶 jī diàn zhǔ 							
+1013	凡	fan2	PAN	all/ordinary/every/whatever/worldly	fán:凡:⿵几丶 jī diàn zhǔ 							
+1296	繁	fan2	PAN!	many/in great numbers/complicated	fán:繁:⿱敏糸 mǐn mì							
 1253	烦	fan2		feel vexed/to bother	fán:烦:⿰火页 huǒ yè							
-1296	繁	fan2	PAN!	complicated/many/in great numbers	fán:繁:⿱敏糸 mǐn mì							
 3282	樊	fan2	FENCE	(surname)/cage/fence	fán:樊:⿱棥大 ? dà							
 3646	蕃	fan2/fan1	fan out	flourishing/to reproduce	fán:蕃:⿱艹番 cǎo fān							
-237	反	fan3	FANTI FAUX	wrong side out or up/anti-	fǎn:反:⿸𠂆又  ? yoù 							
+237	反	fan3	wend FANTI FAUX	wrong side out or up/anti-	fǎn:反:⿸𠂆又  ? yoù 							
 1430	返	fan3	wend	to return (to)	fǎn:返:⿺辶反 chuò fǎn							
-705	范	fan4	fancy 氾	pattern/model/example/(surname)	fàn:范:⿱艹氾 cǎo ?							
+705	范	fan4	fancy 犯fàn氾	pattern/model/example/(surname)	fàn:范:⿱艹氾 cǎo ?							
 767	犯	fan4	FEND	to violate/to offend	fàn:犯:⿰犭㔾 zhì jié							
 935	饭	fan4	~food™	food/cuisine/cooked rice/meal	fàn:饭:⿰饣反 shí fǎn	pfan-cake:)						
 1327	泛	fan4	PAN!	broad/vast/float/pan-/float/general/vague	fàn:泛:⿰氵乏 shui fá							
@@ -1452,7 +1452,7 @@
 3855	缰	jiang1			jiāng:缰:⿰纟畺 mì jiāng							
 132	将	jiang1/jiang4	丬夕 GOING	'(will/shall/''future tense'')/ready/prepared/to get/to use/a general'	jiāng:将:⿰丬夕寸𪧷 qiáng ?							
 2626	浆	jiang1/jiang4		broth/serum/to starch/starch paste	jiāng:浆:⿰⿱丬夕水  qiáng xī shuǐ							
-555	讲	jiang3	YU 语  jiang 讲 <<	to talk/speech/to speak/to tell/to explain	jiǎng:讲:⿰讠井 yán jǐng							
+555	讲	jiang3	💬 YU 语  jiang 讲 <<	to talk/speech/to speak/to tell/to explain	jiǎng:讲:⿰讠井 yán jǐng	<> yan						
 1172	蒋	jiang3		(surname)	jiǎng:蒋:⿱艹将 cǎo jiāng							
 1233	奖	jiang3	√COIN	prize/award/encouragement	jiǎng:奖:⿱⿰丬夕大  qiáng xī dà							
 2939	桨	jiang3		oar/paddle	jiǎng:桨:⿱⿰丬夕木  qiáng xī mù							
@@ -1612,7 +1612,7 @@
 2878	沮	ju3		destroy/to stop	jǔ:沮:⿰氵且 shui qiě							
 3498	咀	ju3	ju~chew! +	chew	jǔ:咀:⿰口且 koǔ qiě							
 391	具	ju4	USE/UTIL	tool/device/utensil/equipment/instrument	jù:具:⿳目一八 mù yī bā							
-707	句	ju4	YU 语 	(a measure word/for sentences or lines of verse)/sentence	jù:句:⿹勹口 bāo koǔ							
+707	句	ju4	💬 YU 语 	(a measure word/for sentences or lines of verse)/sentence	jù:句:⿹勹口 bāo koǔ							
 909	剧	ju4	JOUR JEU JOY	drama/play/show/severe	jù:剧:⿰居刂 jū dāo							
 913	巨	ju4	HUGE 巨 gjuant	very large/huge/tremendous/gigantic	jù:巨:⿷<big>匚</big>コ ? ? meaning meaning ? fāng ? ? ? meaning meaning ? ?							
 1202	距	ju4	JUR DUR : far	at a distance of/distance/to be apart	jù:距:⿰𧾷巨 zú jù							
@@ -2428,14 +2428,14 @@
 3669	癖	pi3	ha.pi ho.bi	habit/hobby	pǐ:癖:⿸疒辟 nè bì							
 4093	痞	pi3		swelling of the liver	pǐ:痞:⿸疒否 nè foǔ							
 2295	屁	pi4	~ phind	fart/to break wind/to fart	pì:屁:⿸尸比 shī bǐ							
-2441	譬	pi4	-- 	give an example	pì:譬:⿱辟言 bì yán							
+2441	譬	pi4	bì.spiel 	give an example	pì:譬:⿱辟言 bì yán							
 2827	僻	pi4		low/rustic/secluded	pì:僻:⿰亻辟 rén bì							
 3911	媲	pi4	PAIR ++ B2	to match/to pair	pì:媲:⿰女𣬉 nu:3 ?							
 1008	篇	pian1	PLANE 票 pan 片 π	sheet/piece of writing/(a measure word)/chapter/article	piān:篇:⿱𥫗扁 zhú biǎn							
 1204	偏	pian1	PLANE 票 片	one-sided/to lean/to slant/prejudiced/inclined to one side	piān:偏:⿰亻扁 rén biǎn							
 3234	翩	pian1	plane!	fly fast	piān:翩:⿰扁羽 biǎn yǔ							
 455	片	pian1/pian4	PLANE 票 PAN 片 plank 板  bank 畔	disc/sheet/a slice/piece/flake/thin/slice								
-1503	骗	pian4	PLANE 票 playin;) 片	to cheat/to swindle/to deceive/to fool	piàn:骗:⿰马扁 mǎ biǎn							
+1503	骗	pian4	to pawn s.o./PLANE 便 票 playin;) 片	to cheat/to swindle/to deceive/to fool	piàn:骗:⿰马扁 mǎ biǎn							
 1527	飘	piao1	Float @ PLANE 票 片	to float	piaō:飘:⿰票风 piaò fēng							
 1568	漂	piao1/piao3/piao4	PLANE 票 → bleach/float @ pan 片	to float/to drift/to bleach/elegant/polished	piāo:漂:⿰氵票 shui piaò							
 3463	嫖	piao2	piaotch	visit a prostitute	piáo:嫖:⿰女票 nu:3 piaò							
@@ -2535,10 +2535,10 @@
 599	千	qian1	千 TH~TT~Q thousand 1000 kilo 	thousand/a swing	qiān:千:⿱丿十 piě shí							
 1254	签	qian1	SIGN	'sign one''s name/a note/a stick/sign one''s name'	qiān:签:⿱竹|⺮佥 zhú zhú qiān							
 1630	迁	qian1	GOIN	to move/to shift	qiān:迁:⿺辶千 chuò qiān							
-1679	牵	qian1	GOIN	lead along	qiān:牵:⿳大冖牛 dà mì niú							
+1679	牵	qian1	GOIN🤝 	lead along	qiān:牵:⿳大冖牛 dà mì niú							
 2345	谦	qian1	Kein/klein coin	modest	qiān:谦:⿰讠兼 yán jiān							
 2641	铅	qian1	ZINN	lead (metal)	qiān:铅:⿰钅㕣 jīn ?							
-93	前	qian2	X1 Q1	先xiān/before/in front/ago/former/previous/earlier/front	qián:前:⿱䒑刖 cǎo yuèt							
+93	前	qian2	X1➩Q1 syn	先xiān/before/in front/ago/former/previous/earlier/front	qián:前:⿱䒑刖 cǎo yuèt							
 603	钱	qian2	COIN	(surname)/coin/money	qián:钱:⿰钅戋 jīn jiān							
 1112	潜	qian2	≠shine – 	hidden/latent/secret/to hide/to conceal/secret/hidden/to submerge	qián:潜:⿰氵替 shui tì							
 2832	虔	qian2		devout (andächtig)	qián:虔:⿸虍文 hū wén							
@@ -2547,18 +2547,18 @@
 4259	荨	qian2			qián:荨:⿱艹寻 cǎo xún							
 1780	遣	qian3	send	dispatch	qiǎn:遣:⿺辶⿱𠀐㠯 chuò  ? ?							
 2527	谴	qian3		punishment/scold	qiǎn:谴:⿰讠遣 yán qiǎn							
-1948	欠	qian4	欠 <<	deficient/owe/to lack/yawn								
+1948	欠	qian4	1.gähn 2.$	yawn/deficient/owe/to lack/								
 2149	歉	qian4		apologize/deficient/to regret	qiàn:歉:⿰兼欠 jiān qiàn							
 2583	倩	qian4		niece/plagiarize/winsome	qiàn:倩:⿰亻青 rén qīng							
 2831	嵌	qian4		deep valley/inlay	嵌:嵌:⿱山𣢟 shān ?							
 3097	茜	qian4		Rubia cordiolia	qiàn:茜:⿱艹西 cǎo xī							
 3420	堑	qian4	TOWN	moat around a city	qiàn:堑:⿱斩土 zhǎn tǔ							
-2106	纤	qian4/xian1	< xiao/klein	'boatman''s tow-rope/fine/delicate/minute'	qiàn:纤:⿰纟千 mì qiān							
+2106	纤	qian4/xian1	< xiao/klein	/delicate/fine/minute/boatman`s tow-rope	qiàn:纤:⿰纟千 mì qiān		
 874	枪	qiang1	gun	gun/firearm/rifle/spear/rifle/spear	qiāng:枪:⿰木仓 mù cāng							
-1914	腔	qiang1	~tune	cavity of body/tune	qiāng:腔:⿰肉|⺼空 roù ròu kōng							
-3509	羌	qiang1	羌 1. xuen 2. TIAN 3. strong	educated/name of a tribe/strong	qiāng:羌:⿸⺶羊乚 yáng yǐ							
+3509	羌	qiang1	羌 1. xuen 2. TIAN 3. strong 	educated/name of a tribe/strong	qiāng:羌:⿸⺶羊乚 yáng yǐ							
+1914	腔	qiang1	song	tune/cavity of body	qiāng:腔:⿰肉|⺼空 roù ròu kōng							
 3953	锵	qiang1	kling klang ++	tinkling of small bells	qiāng:锵:⿰钅将 jīn jiāng							
-1412	抢	qiang1/qiang3	ZANK 争仗战  a’gainst 	fight over/against wind/to rush/to scramble/to grab/to rob/to snatch	qiāng:抢:⿰扌仓 shǒu cāng							
+1412	抢	qiang1/qiang3	ZANK/gegen/’gainst 争仗战  	fight over/against wind/to rush/to scramble/to grab/to rob/to snatch	qiāng:抢:⿰扌仓 shǒu cāng							
 3330	跄	qiang1/qiang4	GOING	walk rapidly/stagger/sway from side to side	qiāng:跄:⿰𧾷仓 zú cāng							
 3418	呛	qiang1/qiang4	pun.qiang	Pungent|against wind/choke	qiāng:呛:⿰口仓 koǔ cāng	!?						
 292	强	qiang2	strength	strength/force/power/powerful/better	qiáng:强:⿰弓虽 gōng suī							
@@ -3049,28 +3049,28 @@
 10	他	ta1	TA/THE/SU	he/him	tā:他:⿰亻也 rén yě							
 91	她	ta1	THA	she	tā:她:⿰女也 nu:3 yě							
 107	它	ta1	ITA	it	tā:它:⿱宀匕 mián bī							
-2465	塌	ta1	tumble	collapse	tā:塌:⿰土𦐇 tǔ ?							
 1030	塔	ta3	TOWER	pagoda/tower	tǎ:塔:⿰土荅 tǔ dá							
-4080	鳎	ta3			tǎ:鳎:⿰鱼𦐇 yú ?							
-1753	踏	ta4	腿 tui3: : leg !?	step on	tà:踏:⿰足沓 zú tà							
-3033	榻	ta4		couch	tà:榻:⿰木𦐇 mù ?							
-3678	蹋	ta4	s’ta 腿 tui3	step on	tà:蹋:⿰足𦐇 zú ?							
-3806	沓	ta4	tota!	(surname)/again and again/many	tà:沓:⿱水日 shuǐ rì							
+2465	塌	ta1	tumble	collapse	tā:塌:⿰土𦐇 tǔ 日羽ta							
+4080	鳎	ta3	单 dan SeeZunge! 	dover sole	tǎⁿ:鳎:⿰鱼𦐇 yú ta?							
+3033	榻	ta4	divan	couch	tà:榻:⿰木𦐇 mù ta?							
+3678	蹋	ta4	腿 tui3 tapern s’ta 	step on	tàᵖ:蹋:⿰足𦐇 zú ta?							
+1753	踏	ta4	腿 tui3 tapern 	step on	tàᵖ:踏:⿰足沓 zú tà							
+3806	沓	ta4	tota	(surname)/again and again/many	tà:沓:⿱水日 shuǐ rì							
 3497	嗒	ta4/da1	dai… ~die	to despair	tà:嗒:⿰口荅 koǔ dá							
-2238	拓	ta4/tuo4	√tall	make rubbing/expand/support on palm/to develop/to open up	tuò:拓:扌石 shǒu Shí							
-1984	胎	tai1		fetus/litter	tāi:胎:⿰月台 yuè taí							
-3106	苔	tai1/tai2	@taingue	coating (of tongue)/moss	tái:苔:⿱艹台 cǎo taí							
+2238	拓	ta4/tuo4	√tall	develop/make rubbing/expand/support on palm/to open up	tuò:拓:扌石 shǒu Shí							
+1984	胎	tai1		fetus/litter!	tāi:胎:⿰月台 yuè taí							
+3106	苔	tai1/tai2	@tongue	coating (of tongue)/moss	tái:苔:⿱艹台 cǎo taí							
 388	台	tai2	台 𓏏𓊪 TABLE|THAI|THY	sTAGE|STEIG|station/stand:surname/you OC!/platform/Taiwan/typhoon/desk/platform/terrace/support/desk	yí:台:⿱厶口 sī koǔ	𓍿𓎀𓎡!						
-1386	抬	tai2	TAI:TOP	to lift/to raise/(of two or more persons) to carry	tái:抬:⿰扌台 shǒu taí							
-240	太	tai4	TAI TALL	highest/greatest/too (much)/very/extremely	tài:太:⿵大丶 dà diàn zhǔ 							
+1386	抬	tai2	TAI:TOP:TAKE(up)	to lift/to raise/(of TWO or more persons) to carry	tái:抬:⿰扌台 shǒu taí							
+240	太	tai4	TAI TALL	too (much)/highest/greatest/very/extremely	tài:太:⿵大丶 dà diàn zhǔ 							
 528	态	tai4	take’'	attitude	taì:态:⿱太心 taì xīn							
 1318	泰	tai4	TAI:PING 	safe/peaceful/most/Thai(land)/grand	tài:泰:⿱𡗗氺 ? shuǐ							
 2969	汰	tai4	too die	to discard/to eliminate/too	tài:汰:⿰氵太 shui taì							
 4310	钛	tai4	Ti	titanium	taì:钛:⿰钅太 jīn taì							
 1874	贪	tan1	<> sugar?	greedy	tān:贪:⿱今贝 jīn beì BEÌ							
-2062	滩	tan1	< 	beach/shoal	tān:滩:⿰氵难 shui nán							
-2154	摊	tan1		'spread out/vendor''s stand'	tān:摊:⿰扌难 shǒu nán							
-2823	瘫	tan1		paralyzed	tān:瘫:⿸疒难 nè nán							
+2062	滩	tan1	sTrand 	beach/shoal	tān:滩:⿰氵难 shui nán							
+2154	摊	tan1	stand	vendor`s stand/spread	tān:摊:⿰扌难 shǒu nán							
+2823	瘫	tan1	stand/DOWN	paralyzed	tān:瘫:⿸疒难 nè nán							
 3515	坍	tan1	DOWN	collapse	tān:坍:⿰土丹 tǔ dān							
 474	谈	tan2	TALKen 谈	to speak/to talk/to converse/to chat/to discuss/(surname)	tán:谈:⿰讠炎 yán yán							
 1806	坛	tan2	¬town	altar	tán:坛:⿰土云 tǔ yún							
@@ -3081,20 +3081,20 @@
 4272	昙	tan2		dark clouds	tán:昙:⿱日云 rì yún |旦 dàn 厶 sī tán 坛							
 1017	坦	tan3	DOWN旦	flat/open-hearted/level/smooth	tǎn:坦:⿰土旦 tǔ dàn							
 2711	毯	tan3	Daun’dẽcke	blanket/rug	tǎn:毯:⿺毛炎 maó yán							
-3566	袒	tan3	ten* tend tensio	to bare	tǎn:袒:⿰衤旦 yī dàn							
+3566	袒	tan3	stand	to bare	tǎn:袒:⿰衤旦 yī dàn							
 4164	忐	tan3	tense 忐 忑	nervous	tǎn:忐:⿱上心 SHANG4 xīn							
 917	探	tan4	… to <> 腿 tuǐ.an @ tao	to explore/to search out/to scout/to visit	tàn:探:⿰扌罙 shǒu mí							
 1299	叹	tan4		to sigh	tàn:叹							
 2369	炭	tan4	1 ton ≠TIN!  丹 ?	carbon/charcoal	tàn:炭:⿱山灰 shān huī							
 2740	碳	tan4	≠tin	carbon	tàn:碳:⿰石炭 Shí tàn							
-1618	汤	tang1	汤	(surname)/soup	tāng:汤:⿰氵𠃓 shui ?							
+1618	汤	tang1	汤™	(surname)/soup	tāng:汤:⿰氵𠃓 shui ?							
 973	唐	tang2	™	Tang dynasty (618-907)	táng:唐:⿸广⿱肀口 guǎng yù koǔ							
-980	堂	tang2	TONG 𓍿 同    餐厅 cāntīng	(main) hall/large room	táng:堂:⿱尚土 shàng tǔ							
+980	堂	tang2	TONG 𓍿 同  餐厅 cānTīng	(main) hall/large room	táng:堂:⿱尚土 shàng tǔ							
 1746	糖	tang2	tián 甜 舌 tongue甘 gān 	sugar/sweets/candy	táng:糖:⿰米唐 mǐ táng							
 2436	塘	tang2	Teich	pond	táng:塘:⿰土唐 tǔ táng							
 2489	棠	tang2	甜 tian2  糖 tang2	cherry-apple	táng:棠:⿱龸呆 ? daī							
 2865	膛	tang2		chest (of body)/hollow space/throat	táng:膛:⿰月堂 yuè táng							
-4057	搪	tang2		keep out	táng:搪:⿰扌唐 shǒu táng							
+4057	搪	tang2	停ting障zhang站:stop 	keep out	táng:搪:⿰扌唐 shǒu táng							
 4267	螳	tang2		praying mantis	táng:螳:⿰虫堂 chóng táng							
 1608	躺	tang3	tangled down	to recline/to lie down	tǎng:躺:⿰身尚 shēn shàng	尚 ≈ 堂 táng ≈ 党 dǎng  尚 ≈ 同 tóng  						
 2118	倘	tang3	denn wenn	if	tǎng:倘:⿰亻尚 rén shàng							
@@ -3186,26 +3186,26 @@
 484	突	tu1	dash	to dash/to move forward quickly	突:突:⿱穴犬 xué quǎn							
 2521	秃	tu1	taub	bald/blunt	tū:秃:⿱禾几 hé jī							
 2857	凸	tu1	tower  凸 凹 tū aō	(adj) convex; stick out	tū:凸: 							
-476	图	tu2	TUSCH  条tiao 途tú 道tao	diagram/to plan/picture/drawing/chart	tú:图:⿴囗冬 wéi dōng							
+476	图	tu2	TUSCH 涂 条tiao 	diagram/to plan/picture/drawing/chart	tú:图:⿴囗冬 wéi dōng		途tú 道tao					
+1735	涂	tu2	tusch daub +	to smear/daub/(surname)/to smear/daub/to apply (paint)/to spread	tú:涂:⿰氵余 shui yú							
 1060	徒	tu2	TEACH	apprentice/disciple	tú:徒:⿰彳走 chì zoǔ							
 1085	途	tu2	TO tiao 朩 tao 道 dao 图 	way/route/road	tú:途:⿺辶余 chuò yú	yu jie						
-1735	涂	tu2	tusch daub +	to smear/daub/(surname)/to smear/daub/to apply (paint)/to spread	tú:涂:⿰氵余 shui yú							
 2171	屠	tu2	Tuer : kill ~	slaughter/slaughter man	tú:屠:⿸尸者 shī zhě							
 3930	荼	tu2		Sonchus oleraceus	tú:荼:⿱艹余 cǎo yú							
-515	土	tu3	土 DUST TERR	earth/dust	tǔ:土:⿱十一 shí yī							
+515 	土	tu3	 土 DUST TERR	earth/dust	tǔ:土:⿱十一 shí yī							
 1653	吐	tu3/tu4	ptu!	to spit/vomit	tǔ:吐:⿰口土 koǔ tǔ							
 2364	兔	tu4	<> mao	rabbit	tù:兔:⿷免丶 miǎn diàn zhǔ 							
-3850	湍	tuan1	steam	to rush (of water)	tuān:湍:⿰氵耑 shui zhuān							
-405	团	tuan2	TURN <> TONG	round/circular/regiment/group/society/dumpling	qiú}:}:=:=:=:Definition:s:=:=:=:{{zh-hanzi}}#:团:⿴囗才 wéi caí							
+3850	湍	tuan1	steam 	to rush (of water)	tuān:湍:⿰氵耑 shui zhuān							
+405 	团	tuan2	TURN <> TONG	round/circular/regiment/group/society/dumpling	qiú 团:⿴囗才 wéi caí							
 505	推	tui1	Toss / throw	push/refuse (responsibility)/shove	tuī:推:⿰扌隹 shǒu zhuī							
 2996	颓	tui2	tuicadent	become bald/decadent	tuí:颓:⿰秃页 tū yè							
 1351	腿	tui3	thigh	leg	tuǐ:腿:⿰肉|⺼退 roù ròu tuì	(Schenkel)						
 723	退	tui4	down	to decline/to move back/to withdraw/retreat/	tuì:退:⿺辶艮 chuò gēn							
 3624	蜕	tui4	/	exuviae of insects or reptiles	tuì:蜕:⿰虫兑 chóng duì							
-1797	吞	tun1	¬don: : rein-tun :)	to swallow/to take	tūn:吞:⿱天口 tiān koǔ							
+1797	吞	tun1	¬don:taking rein-tuen天 :)	to swallow/to take	tūn:吞:⿱天口 tiān koǔ							
 3199	臀	tun2	buttun	butt/buttocks	tún:臀:⿱殿肉|月 diàn roù yuè							
 3307	豚	tun2		suckling pig	tún:豚:⿰月豕 yuè shǐ							
-4332	饨	tun2		Chinese ravioli	tún:饨:⿰饣屯 shí dùnb							
+4332	饨	tun2	🥫tin🜩 	 Chinese ravioli	tún:饨:⿰饣屯 shí dùnb							
 2864	屯	tun2/zhun1	stazhun/sting	to station (soldiers)/to store up/difficult/stingy								
 3339	褪	tun4/tui4	tuìk off	fade/take off (clothes)	tùn:褪:⿰衤退 yī tuì							
 799	托	tuo1	trust 𓂧 	'to hold in one''s hand/to entrust/to support in one''s palm/entrust'	tuō:托:⿰扌乇 shǒu tuō							
@@ -3483,7 +3483,7 @@
 551	效	xiao4	SHINE? Show schein	imitate/effect/efficacy/imitate	xiào:效:⿰交攵 jiaō pū							
 2116	孝	xiao4	Shop <> jiao	filial	xiào:孝:⿱耂子 lǎo zǐ							
 2301	啸	xiao4	ciao bella ;)	to hiss/to whistle	xiaò:啸:⿰口肃 koǔ sù							
-2019	肖	xiao4/xiao1	so similar	similar/resembling/to resemble/to be like	xiào:肖:⿱⺌月 xiǎo yuè							
+2019	肖	xiao4/xiao1	so similar像 	similar/resembling/to resemble/to be like	xiào:肖:⿱⺌月 xiǎo yuè							
 86	些	xie1	SOME	SOME/few/several/(a measure word)	xiē:些:⿱此二 cǐ èr							
 1828	歇	xie1	~…	to rest	xiē:歇:⿰曷欠 hé qiàn							
 3846	楔	xie1		to wedge/wedge	xiē:楔:⿰木契 mù qì							
@@ -3509,8 +3509,8 @@
 3495	亵	xie4	¬tie	licentious (lys:zügellos)	xiè:亵:⿻衣执 yī zhí							
 4333	榭	xie4		pavilion	xiè:榭:⿰木射 mù shè							
 90	心	xin1	心 > THINK, SENSEn	®/heart/mind/mens	😻 Minkat ♡♥ mencheart							
-161	新	xin1	XIN 新 亲斤 qīn jīn SHINE 	meso- (chem.)/new/newly	xīn:新:⿰亲斤 qīn jīn	親 ~ 心 ≠ 辛  今?						
-1463	辛	xin1	辛 <> shui(p)	8th heavenly stem/tired	xīn:辛:⿱立十 lì shí							
+161	新	xin1	XIN 新 亲斤 qīn jīn SHINE 	meso- (chem.)/new/newly	xīn:新:⿰亲斤 qīn jīn	≈辛 xīn! 親 ~ 心  今?						
+1463	辛	xin1	辛 <> shui(p)	8th heavenly stem/tired	xīn:辛:⿱立十 lì shí	新xīn≈辛xīn≈亲qin						
 1523	欣	xin1	XIN <3  Joyin’	happy	xīn:欣:⿰斤欠 jīn qiàn							
 2167	薪	xin1	coin	fuel/salary	xīn:薪:⿱艹新 cǎo xīn							
 2539	芯	xin1	herxin	lamp pith/core	xīn:芯:⿱艹心 cǎo xīn							
@@ -3631,12 +3631,12 @@
 2769	衙	ya2	yamen	(surname)/office/yamen	yá:衙:⿲彳吾亍 chì wú háng							
 3346	伢	ya2	YOUNG 伢	child (collequial)	yá:伢:⿰亻牙 rén yá							
 1139	雅	ya3	yeah;)	elegant	yǎ:雅:⿰牙隹 yá zhuī							
-420	亚	ya4	亚 as’YA	Asia/Asian/second/next to/inferior	yà:亚:⿱一业 yī yè							
+420	亚	ya4	亚 as’YA	Asia/Asian/second/next to/inferior	yà:亚:⿱一业 yī yè		yán:严					
 2162	讶	ya4	ya!	astounded	yà:讶:⿰讠牙 yán yá							
 2877	娅	ya4		address term between sons-in-law	yà:娅:⿰女亚 nu:3 yà							
 3269	轧	ya4/zha2	Zha-malm  Y1	crush/in the first place	yà:轧:⿰车乚 chē yǐ							
 2247	崖	yai2/ya2	yaw:cliff	precipice	崖:崖:⿱山厓 shān ?							
-967	烟	yan1	-- 因 yīn	cigarette/tobacco/smoke	yān:烟:⿰火因 huǒ yīn							
+967	烟	yan1	☁⛈🌒💬🌑阴/因 yīn 	smoke/cigarette/tobacco	yān:烟:⿰火因 huǒ yīn							
 2526	焉	yan1	Y?  <> ici	where/how	yān:焉: 							
 2580	淹	yan1	YU	drown/submerge	yān:淹:⿰氵奄 shui yān							
 3520	嫣	yan1	√yana™	captivating	yān:嫣:⿰女焉 nu:3 yān							
@@ -3645,12 +3645,12 @@
 4247	胭	yan1		rouge	yān:胭:⿰⺼因 ròu yīn							
 3462	奄	yan1/yan3	--	castrate/to delay/suddenly/to embrace	yǎn:奄:⿱大电 dà diàn							
 1705	燕	yan1/yan4	-IAN -TIAN town	(surname)/place name/swallow (a type of bird)	yān:燕:⿳廿⿴北口灬 niàn beǐ koǔ huǒ							
-2031	咽	yan1/yan4/ye4		narrow pass/throat/to swallow/to choke (in crying)	yān:咽:⿰口因 koǔ yīn							
-4059	湮	yan1/yin1	🌒	obscured/submerged/obscured/submerged	湮:湮:⿰氵垔 shui ?							
-2365	殷	yan1/yin1/yin3	DYN dynasty dan!	dark red/(surname)/dynasty/flourishing/roll of thunder	yīn:殷:⿰㐆殳 ? shū							
-355	言	yan2	言 yan yue lang sing?	to speak/to say/talk/word	yán:言:⿳丶三口 diàn zhǔ sān koǔ							
+2031	咽	yan1/yan4/ye4	💬	 throat/to swallow/to choke (in crying)/narrow pass	yān:咽:⿰口因 koǔ yīn							
+4059	湮	yan1/yin1	☁⛈🌒	obscured/submerged/obscured/submerged	湮:湮:⿰氵垔 shui ?							
+2365	殷	yan1/yin1/yin3	🌒:🔴 DYN dynasty dan!	dark red/(surname)/dynasty/flourishing/roll of thunder	yīn:殷:⿰㐆殳 ? shū							
+355	言	yan2	💬≈⛈! 言 yan yue lang sing?	to speak/to say/talk/word	yán:言:⿳丶三口 diàn zhǔ sān koǔ							
 447	研	yan2	YU 语	study/research/grind fine/	yán:研:⿰石开 Shí kaī							
-545	严	yan2	严 ??? ≠ 产 chǎn: : gene	(air or water) tight/stern/serious/strict/severe	yán:严:⿳一⿰⿰丶丨⿰丨丿厂 yī  diàn zhǔ shù gǔn  shù gǔn piě chǎng							
+545	严	yan2	yàⁿ 亚 严 ≠ 产 chǎn:gene 	stern/serious/strict/severe/(air or water) tight	yán:严:⿳一⿰⿰丶丨⿰丨丿厂 yī  diàn zhǔ shù gǔn  shù gǔn piě chǎng							
 1103	延	yan2	Y+an…	to prolong/to extend/to delay	yán:延:⿺廴⿱丿止 yǐn piě zhǐ							
 1324	炎	yan2	炎 ᵗyán, tan, dan, 炏 tongue 	flame/inflammation/-itis	yán:炎:⿱火火 huǒ huǒ	see tan, dan						
 1423	岩	yan2	右 yòu > àn 岸 	cliff/rock/cliff	yán:岩:⿱山石 shān Shí	yòu(han) 右 < 山石 shānShí schanze						
@@ -3663,7 +3663,7 @@
 1182	沿	yan2/yan4	YU-r	along/riverside (with -r)	yán:沿:⿰氵⿱𠘧口 shui ? koǔ							
 281	眼	yan3	EYEN	eye	yǎn:眼:⿰目艮 mù gēn							
 715	演	yan3	Y+ GENE	to develop/to evolve/to practice/to perform/to play/to act	yǎn:演:⿰氵寅 shui yín							
-1514	掩	yan3	🌒  Janu!	cover up/to surprise	yǎn:掩:⿰扌奄 shǒu yān							
+1514	掩	yan3	🌒🌑 yīn 阴   Janu!	cover up/to surprise	yǎn:掩:⿰扌奄 shǒu yān							
 2437	衍	yan3	Y+  gene	to spread out/to develop/to overflow/to amplify	yán:衍:⿻行氵 háng shui							
 3559	俨	yan3	shine:YING/YAN	majestic/dignified	yǎn:俨:⿰亻严 rén yán							
 4171	偃	yan3		(surname)/to lie supine/to stop/to fall down	yǎn:偃:⿰亻匽 rén ?							
@@ -3917,7 +3917,7 @@
 1865	羽	yu3	𓇌  𓇋𓇋 𓆄𓆄	feather	yǔ:羽:⿰习习 xí xí							
 2636	屿	yu3	Iyul @ YU	islet	yǔ:屿:⿰山与 shān yú							
 2889	禹	yu3		name of an emperor								
-493	语	yu3/yu4	YU 语	dialect/language/speech/tell to	yǔ:语:⿰讠吾 yán wú							
+493	语	yu3/yu4	💬 YU 语	dialect/language/speech/tell to	yǔ:语:⿰讠吾 yán wú							
 609	育	yu4	@young	nourish/to rear	yù:育:⿱𠫓月 ? yuè							
 647	预	yu4	GO	to advance/in advance/beforehand/to prepare	yù:预:⿰予页 yú yè							
 847	域	yu4	野	field/region/area/domain (taxonomy)	yù:域:⿰土或 tǔ huò							
@@ -4217,7 +4217,7 @@
 4268	胄	zhou4		helmet/descendants	zhòu:胄:⿱由月 yoú yuè							
 4329	纣	zhou4		name of an emperor/saddle crupper	zhoù:纣:⿰纟寸 mì cùn							
 1021	诸	zhu1	TOUTS	(surname)/all/many/various	zhū:诸:⿰讠者 yán zhě							
-1120	朱	zhu1	zhuRed 朱蛛虫🕷🕸 kirshu 术  果 guǒrd 瓜 gourd guārd	(surname)/vermilion/vermilion	zhū:朱:⿰丿未 piě weì							
+1120	朱	zhu1	矢 shǐ 术 shu 🔴 kirshu 果 guǒrd 瓜 🕷🕸 	(surname)/vermilion/vermilion	zhū:朱:⿰丿未 piě weì							
 1286	珠	zhu1	𓋩𓋝𓍶𓍲𓈖𓏌	bead/pearl	zhū:珠:⿰𤣩朱 yù zhū							
 1762	猪	zhu1	SAU! 	hog/pig/swine	zhū:猪:⿰犭者 zhì zhě							
 2482	株	zhu1	chunk trunk	(a measure word/use with plants)/trunk of tree	zhū:株:⿰木朱 mù zhū							
@@ -4293,18 +4293,18 @@
 1646	紫	zi3	zi:r:red! <<	purple	zǐ:紫:⿱此糸 cǐ mì							
 2236	姊	zi3	ziz:i:Sissi~jiejie !	older sister	zǐ:姊:⿰女𠂔 nu:3 ?							
 3567	籽	zi3	Ziid seed	seeds	zǐ:籽:⿰米子 mǐ zǐ							
-3750	梓	zi3	™	Catalpa kaempferi	zǐ:梓:⿰木辛 mù xīn							
+3750	梓	zi3	™	Catalpa ovata/kaempferi	zǐ:梓:⿰木辛 mù xīn							
 37	子	zi3/zi	Z1 1Z son	11 p.m.-1 a.m./1st earthly branch/child/midnight/son/child/seed/egg/small thing/(noun suff.)	zǐ:子:⿻了一 le yī							
 43	自	zi4	ZU Z1 1Z seit zeit	AS1/1SELF/oneself/since/from (aus|as|zi|zu)								
 393	字	zi4	SIGN	letter/symbol/character/word	zì:字:⿱宀子 mián zǐ							
 3773	渍	zi4	soak	saturate/soak	zì:渍:⿰氵责 shui zé							
 3968	恣	zi4		throw off restraint	zì:恣:⿱次心 cì xīn							
-727	宗	zong1	SCHOOL KIN ~--	school/sect/purpose/model/ancestor/family	zōng:宗:⿱宀示 mián shì							
-1425	综	zong1	ZON ZAM ∑	to sum up	zōng:综:⿰纟宗 mì zōng							
-1532	踪	zong1	zao/zeh:foot	footprint/trace/tracks	zōng:踪:⿰𧾷宗 zú zōng							
-2774	棕	zong1		palm	zōng:棕:⿰木宗 mù zōng							
-4327	鬃	zong1		'bristles/horse''s mane'	zōng:鬃:⿱髟宗 biāo zōng							
-1236	纵	zong1/zong4	1. Senk 2. Seien… 3. Send sōng 松	vertical/even if/release	zōng:纵:⿰纟从 mì cōng							
+727	宗	zong1	 ∑SCHOOL𓊃KIN	school/sect/purpose/model/ancestor/family	zōng:宗:⿱宀示 mián shì		show					
+1425	综	zong1	∑!	to sum up	zōng:综:⿰纟宗 mì zōng							
+1532	踪	zong1	Zehen	footprint/trace/tracks	zōng:踪:⿰𧾷宗 zú zōng							
+2774	棕	zong1	🟤🌴 	brown/palm	zōng:棕:⿰木宗 mù zōng							
+4327	鬃	zong1	彡shān𓁸 	bristles/horse’s mane	zōng:鬃:⿱髟宗 biāo zōng							
+1236	纵	zong1/zong4	1. Senk 2. Seien… 3. Send sōng 松	vertical/even if/release	zōng:纵:⿰纟从 mì cōng		susuan≈selbstwenn					
 228	总	zong3	SYN,∑	gather/total/sum/semper:always/assemble/overall/head/chief/general/in every case	zǒng:总:⿳丷口心 bā koǔ xīn							
 3139	邹	zou1		(surname)/name of district in Shandong	zoū:邹:⿰刍邑|⻏ chú yì yì							
 207	走	zou3	GO/ZIEH	to walk/to go/to move	zǒu:走:⿱土龰 tǔ zhǐ							
