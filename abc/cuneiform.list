@@ -1,5 +1,14 @@
 ### EXTRA those with NUMBER (…2 etc) need to go to BOTTOM of file!!
+# normalizations: todo remove redundant entries
+# sh => š 
+#	Ḫ => H !
+#	ḫ => h !
+#	c => š
+#	j => ĝ
+#	ng => ĝ
+#	g̃ => ĝ
 # udug2    ŠITA₂
+U1 	𒌋
 biṭ 	𒀉  # ≈𒉌𒁹𒑊 ??
 pit 	𒂍
 ûmi 	𒈪
@@ -4072,3 +4081,42 @@ GÀN 	𒃷
 ngiš 	𒄑
 ngeš 	𒄑
 ég 	𒂊
+ni10 	
+mucen 	𒄷
+naj 	𒅘 	NAĜ	 nag̃
+nibru 	𒂗𒆤
+nibruki 	𒂗𒆤𒆠
+nij2 	𒃻 	nig̃₂ NIĜ2
+nig̃₂ 	𒃻
+niĝin6 	𒇔 	≈
+ob 	𒌒
+sa4 	𒄷𒈾 
+saj 	𒊕 	sag̃
+sirara3 	𒌓𒈣𒀏𒋓  	SIRARA2
+sizkur2 	 𒀬𒀬
+sukux 	𒈹? 	sukuš?
+tec2 	
+tej3 	 𒋼 	 (teg̃₃)
+teg̃₃ 	𒋼
+tuc 	𒌇 	TUG	?
+ummaki 	?
+uj3 	 𒌦 	#ug̃₃
+ug̃₃ 	𒌦
+ušur 	𒃡	 
+urim 	𒌷𒋀𒀊𒆠  
+urim2 	𒋀𒀕 
+gar₈ 	𒋞
+ĝar8 	𒋞
+g̃ar8 	𒈝 
+keše2 	𒆟 	
+da13 	𒋺 
+nanibgal 	𒀭𒉀
+nisaba2 	𒉀
+lama 	𒇴𒈠	?
+ištaran 	𒀭𒈹𒀭 
+enmen2 	𒂗𒈨 	 ?EŠEMEN2	𒆠𒂊𒉈𒁲𒀭𒈹
+NinNI2	𒎏𒉎
+peš11 	𒊴? 	using PEŠ13	
+šaggina 𒄊𒀴 		𒀲
+# SIG14	? 	using SIG4	𒋞 SIG7	𒅊 SIG9	𒋛 SIG10	𒋧 SIG17	𒄀
+tiĝ4 	𒋾 	tig̃₄ tij4

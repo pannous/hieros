@@ -142,6 +142,55 @@ PREFIXes
 ϫⲓⲛ- SYN- CON- !!!
 ⲣⲉϥ- ⲣⲉⲙ- Röman- ⲣⲉϥ : Racker person re-... ϥ who? qui? --
 
+ⲥⲟⲙⲥ 	 	look, behold
+ ⲉ- 	 look at, consider
+ ⲉϫⲉⲛ- 	 look upon, at
+ ⲛⲥⲁ- 	 look after, at
+ ϧⲁϫⲉⲛ- 	 look toward
+ ⲉⲃⲟⲗ 	 look forth, expect
+ ⲉⲃⲟⲗ ϧⲉⲛ- 	 lookforth from
+ ⲉⲡⲉⲥⲏⲧ 	 look down
+ ⲉⲡϣⲱⲓ 	 look up
+ ⲉϧⲟⲩⲛ 	 look in, into
+ ⲉϧⲣⲏⲓ 	 look down
+ ⲉϩⲣⲏⲓ 	 look up
+
+ⲓ , ⲛⲏⲟⲩ (q)	 	come, go, beabout to
+ ⲉ-	 come to
+ ⲉⲧⲟⲟⲧ⳼ 	 come into the handsof
+ ⲉϩⲣⲉⲛ-	 come against, meet
+ ⲉϫⲉⲛ- 	 come upon, arrive at,be applicable
+ ⲛ-	 come to (of persons)
+ ⲛⲥⲁ- 	 come after, fetch
+ ⲛⲁϩⲣⲉⲛ-	 come before, intothe presence of
+ ⲟⲩⲃⲉ 	 come against
+ ϣⲁ-	 come to, approach
+ ϧⲁⲧⲉⲛ- 	 come up to, nearto
+ ϩⲁ-	 come to, approach
+ ϩⲓϫⲉⲛ- 	 come up to; comeupon
+ ⲉⲃⲟⲗ 	 come forth, go forthbe displayed
+ ⲉⲃⲟⲗ ⲉ-	 come forth to(places, things)
+ ⲉⲃⲟⲗ ϧⲉⲛ- 	 come forthfrom
+ ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ-	 comethrough, come forth from, quit
+ ⲉⲑⲏ 	 come forward, progress
+ ⲉⲡⲉⲥⲏⲧ	 come down
+ ⲉⲡϣⲱⲓ	 come up, go up
+ ⲉϧⲣⲏⲓ	 come down, descend
+ ⲉϧⲟⲩⲛ	 come in, enter
+ ⲉϩⲣⲏⲓ 	 come upi
+ ⲉϫⲉⲛ-	 come upon, comeup upon, reach
+ ϩⲓⲫⲁϩⲟⲩ 	 come after, goback ⲫⲁϩⲟⲩ~back <> buttock
+
+ⲑⲱⲟⲩϯ , ⲑⲟⲩⲉⲧ	 , youwt= , you/t (q):	be gathered, collected; vtgather. collect
+ ⲉ-	 tto gather to, for
+ ⲉϫⲉⲛ- 	 gather upon
+ ⲛⲉⲙ-	 forgather with
+ ϧⲉⲛ- 	 gather in
+ ϩⲁ-	 gather to
+ ϩⲓ- 	 gather at
+ ⲉϧⲟⲩⲛ	 gather in, collect together
+
+
 Suffixes 
 -ⲓ 	-ine feminine marker (eg ⲁⲃⲟⲕⲓ)
 -ⲓ   -en plural marker
@@ -473,7 +522,7 @@ agiacmoc :🇬🇷 mconsecrationsanctification, holiness
 ⲙⲁⲛⲓ ⲛ- 	 herd of
 ⲙⲁⲛⲓ , ⲙⲁⲛ- 	 pl. man/ou , meneu , &
 ϣⲍ ⲁϣ pl.	 m. herdsman, pastor(ii) be made fast, come to land,come into port (of ship)
-ⲙⲟⲛⲓ ⲉϧⲟⲩⲛ- 	 come in toshore, lie in port; bring into shoreor port
+ⲙⲟⲛⲓ ⲉϧⲟⲩⲛ- 	 come in to shore, lie in port; bring into shore or port
 ϫⲓⲛⲁⲙⲟⲛⲓ 	 m. arrest, restrain 
 
 ⲙⲁ ⲙⲙⲟⲛⲓ 	 m. harbor ↔ mar <<<
@@ -1959,15 +2008,15 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲟⲩⲉⲙⲉⲣⲱϯ	 feed on milk
 ⲉⲣϣⲏⲧ ↔ ⲁⲣϣⲏⲧ 	 to multiply
 ⲉⲣϣⲓϣ 	 	m. chick-pea
-ⲉⲣϣⲓϣⲓ 	 	vt & vi. (rare) to havepower, authority
+ⲉⲣϣⲓϣⲓ 	 	vt & vi. (rare) to have power, authority
 ϧⲁⲉⲣϣⲓϣⲓ	 under authority
 ϭⲓⲉⲣϣⲓϣⲓ 	 receive authority
 ϯⲉⲣϣⲓϣⲓ	 give authority
 ⲉⲣϣⲣⲱⲓⲥ ↔ ⲣⲱⲓⲥ 	 to keep vigil
 ⲉⲣϣⲱⲛ 	 	m. cloak, covering
 ⲉⲣϥ	 ↔ wrf 
-ⲉⲣϧⲟⲧ ↔ ⲣⲱqⲧ 	 wound
-ⲉⲣϧⲱⲧ ↔ ⲣⲱqⲧ 	 wounds
+ⲉⲣϧⲟⲧ ↔ ⲣⲱqⲧ 	 wound  <> ক্ষত ʳkhot վերք verkʻ ахәра axʷra جرح gurḥ  جُرْح jurḥ injury чов cut
+ⲉⲣϧⲱⲧ ↔ ⲣⲱqⲧ 	 wounds <> керявкс keŕavks carve
 ⲉⲣϫ 	 	mf. small bird, chicken
 ⲉⲣϫⲱ	 f. larger bird, chicken
 ⲉⲣϫⲱ ↔ ⲉⲣϫ 	 chicken
@@ -2051,8 +2100,8 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲉϥ	 ↔ wfi 
 ⲉϥⲣⲁⲥⲟⲩ 	 	m. a plant -- abrotonum,artemisia
 ⲉϥϫⲓ ↔ ⲃⲓϫⲓ 	 wrinkle
-ⲉϧⲣⲏⲓ ↔ ϧⲣⲏⲓ 	 downward
-ⲉϧⲟⲩⲛ ↔ ϧⲟⲩⲛ 	 inward
+ⲉϧⲣⲏⲓ ↔ ϧⲣⲏⲓ 	 downward <> herunter @ ground
+ⲉϧⲟⲩⲛ ↔ ϧⲟⲩⲛ 	 inward <> herein
 ⲉϩⲃⲏⲟⲩⲓ ↔ ϩⲱⲃ 	 matters
 ⲉϩⲃⲱⲥ ↔ ϩⲱⲃⲥ 	 garments
 ⲉϩⲉ , pl. ⲉϩⲉⲩ , ⲉϩⲱⲟⲩ , ⲉϩⲉⲟⲩ 	 	fox, cow
@@ -2067,7 +2116,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲉϩⲛⲉ- , ⲉϩⲛⲁ⳼ 	 	n. will, desire
 ⲉϩⲟⲟⲩ 	 	m. day
 ⲙⲡⲓⲉϩⲟⲟⲩ	 on, in the day, by day
-ϧⲁϫⲉⲛ ⲡⲓⲉϩⲟⲟⲩ 	 before now
+ϧⲁϫⲉⲛ ⲡⲓⲉϩⲟⲟⲩ 	 before now <> gegen 
 ϧⲉⲛ ⲡⲓⲉϩⲟⲟⲩ	 in day
 ⲉⲣⲡⲓⲉϩⲟⲟⲩ 	 spend day
 ⲫⲟⲟⲩ	 the day, today
@@ -2188,7 +2237,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲉϫⲉⲛ-	 rejoice at
 ⲑⲉⲙ	 ↔ ywm 
 ⲑⲉⲙⲁ 	 🇬🇷 m. that which is placed or laiddown, hence ⲯnecklace`
-ⲑⲉⲙⲙⲟ ↔ ⲧϧⲙⲟ 	 to warm
+ⲑⲉⲙⲙⲟ ↔ ⲧϧⲙⲟ 	 to warm  thermo!
 ⲑⲉⲙⲥ	 ↔ ywmc 
 ⲑⲉⲛⲓ ↔ ⲑⲏⲛⲓ 	 to grow
 ⲑⲉⲟ ↔ ⲑⲉⲟⲥ 	 god
@@ -2229,9 +2278,9 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲑⲉϣⲉⲩ ↔ ⲑⲱϣ 	 neighbors
 ⲑⲉϣⲏ ↔ ⲑⲱϣ 	 neighbor
 ⲑⲉϧ	 ↔ ywq 
-ⲑⲉϧ ↔ ⲑⲱq 	 to mix
+ⲑⲉϧ ↔ ⲑⲱq 	 to mix   𐎎𐎒𐎋 msk @theke!
 ⲑⲉϧⲑⲱq⳼ ↔ ⲑⲟqⲧⲉϧ 	 to confuse
-ⲑⲉϧⲑⲱq ↔ ⲑⲟqⲧⲉϧ 	 to confuse
+ⲑⲉϧⲑⲱq ↔ ⲑⲟqⲧⲉϧ 	 to confuse  <> összezavar запу́тать zapútatʹ
 ⲑⲏ ↔ ⲫⲏ 	 that one
 ⲑⲏⲃⲓ ↔ ⲧⲁⲓⲃⲓ 	 coffin
 ⲑⲏⲙ (q)ⲭ ⲧⲏⲙ (q)	 	vb qual. to besharp
@@ -2259,10 +2308,10 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲑⲓⲛⲟⲡⲟⲣⲟⲛ 	 🇬🇷 m. autumn
 ⲑⲓⲟⲩⲏⲟⲩⲧ ⳼ ⲟⲩⲱ 	 to cease
 ⲑⲓϥⲓ 	 	m. swelling, tumor
-ⲑⲓϧⲓ , ⲑⲁϧⲓ (q)	 	become, bedrunk
+ⲑⲓϧⲓ , ⲑⲁϧⲓ (q)	 	become, be drunk
  ⲛ-	 be drunk with
 ⲣⲉϥⲑⲓϧⲓ	 m. drunkard
-ϫⲓⲛϣⲧⲉⲙⲑⲓϧⲓ 	 m. state of not beingdrunken
+ϫⲓⲛϣⲧⲉⲙⲑⲓϧⲓ 	 m. state of not being drunken
 ⲑⲗⲏ 	 	drip, let drop
 ⲑⲗⲏⲗⲓ ⳼ ⲑⲗⲏ 	 to drip
 ⲑⲗⲓⲯⲓ ⲥ	 🇬🇷 f. pressure, crushing,oppression, affliction
@@ -2306,7 +2355,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲑⲟⲧⲥ (q) ↔ ⲑⲟⲩⲭ 	 to be pierced
 ⲑⲟϣ ↔ ⲑⲱϣ 	 border
 ⲑⲟϥⲧⲉϥ 	 	let fall (drop by drop,rain), drizzleyoqteq , yeqywq= , yeqywq (q):	mix, confuse
-ⲙⲉⲧⲑⲟqⲧⲉϧ	 f. intercourse, society
+ⲙⲉⲧⲑⲟqⲧⲉϧ	 f. intercourse, society ≈ ⲑⲟqⲧⲉϧ?
 ⲑⲟϩ 	 	become bad
 ⲑⲟϩ ↔ ⲑⲱq 	 to mix
 ⲑⲟϩ ↔ ⲧⲟϩ 	 chaff
@@ -2349,7 +2398,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲑⲩⲥⲓⲁ 	 🇬🇷 f. burnt-offering, sacrifice
 ⲑⲩⲥⲓⲁⲥⲧⲏⲣⲓⲟⲛ 	 🇬🇷 m. altar
 ⲑⲟⲩⲱ⳼ 	 	n. bosom
-ϧⲁⲑⲟⲩⲉⲛ-ⲭ ϧⲁⲑⲟⲩⲱ⳼	 prep. be-side, at, with
+ϧⲁⲑⲟⲩⲉⲛ- ϧⲁⲑⲟⲩⲱ⳼	 prep. be-side, at, with
 ϩⲓⲑⲟⲩⲱ⳼ 	 prep. beside, next
 ⲑⲟⲩⲱⲧ , ϥ. ⲑⲟⲩⲟϯ 	 	m. idol, pillar,shrine
 ⲑⲟⲩⲱⲧ⳼ ↔ ⲑⲱⲟⲩϯ 	 to gather
@@ -2361,7 +2410,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲑⲱⲕⲭ ⲑⲟⲕ	 	m. mast of ship
  ⲑⲱⲕ , ⲧⲟϫⲓ 	 	(a) kindle(fire), stoke, heat (oven)
  ⲉϫⲱ⳼	 kindle fire at, above
- ϧⲁ- 	 kindle belowstoke, heat
+ ϧⲁ- 	 kindle below stoke, heat
 ⲙⲁ ⲛⲑⲱⲕ	 m. stoke-hole (ofbath)
 ⲣⲉϥⲑⲱⲕ 	 m. stocker(b) vt. and bake
 ⲙⲁ ⲛⲑⲱⲕ	 m. bakery
@@ -2411,7 +2460,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ϧⲉⲛ- 	 gather in
  ϩⲁ-	 gather to
  ϩⲓ- 	 gather at
- ⲉϧⲟⲩⲛ	 gather in, collecttogether
+ ⲉϧⲟⲩⲛ	 gather in, collect together
 ⲙⲁ ⲛⲑⲱⲟⲩϯ	 m. place of meeting
 ϫⲓⲛⲑⲱⲟⲩϯ 	 m. assemblage
 ⲑⲱⲟⲩⲧⲥ	 f. collection, assembly
@@ -2982,7 +3031,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲕⲟⲥⲙⲏⲥⲓⲥ 	 f. ordering, arrangement, noukouji
 ⲟⲩⲕⲟⲩϫⲓ 	 adv. somewhat, rather
 ⲛⲕⲉⲕⲟⲩϫⲓⲭ ⲕⲉⲕⲟⲩϫⲓ	 adv. yet a little
-ϧⲁ- , ϧⲁⲧϩⲏ ⲛⲟⲩⲕⲟⲩϫⲓ 	 adv. aadornment, dignity
+ϧⲁ- , ϧⲁⲧϩⲏ ⲛⲟⲩⲕⲟⲩϫⲓ 	 adv. a adornment, dignity
 ⲕⲟⲧ⳼ ↔ ⲕⲱⲧ 	 to build
 ⲕⲟⲧ⳼ ↔ ⲕⲱϯ 	 to turn
 ⲕⲟⲧ ↔ ⲕⲱϯ 	 turn
@@ -3333,7 +3382,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲟⲓ ⲛⲗⲱⲟⲩ	 be fringed
 ⲗⲱϣϫ , ⲗⲉϣϫ- 	 	be trouble-some, oppressive; tr. to molest, oppress
 ⲗⲱϥ , ⲗⲟϥ (q)	 	be insipid
-ⲗⲱϧⲉⲙ , ⲗⲁϧⲉⲙ (q)	 	beboiling, boiled
+ⲗⲱϧⲉⲙ , ⲗⲁϧⲉⲙ (q)	 	be boiling, boiled
 ⲗⲱϫ , ⲗⲉϫ- , ⲗⲟϫ⳼ 	 	stick,cleave to; lick
 ⲗⲱϫⲓ , ⲗⲟϫ⳼ 	 	cease; recoverfrom sickness
 ⲗⲱϫϩ , ⲗⲉϫϩ- , ⲗⲟϫϩ⳼ 	 	vt. tocrush; lick
@@ -3495,7 +3544,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ϣⲁⲛⲙⲁϧⲧ 	 pl. dysentery
 ϣⲁⲛⲑⲙⲁϧⲧ 	 m. compassionate person
 ⲙⲉⲧϣⲁⲛⲑⲙⲁϧⲧ 	 m. compassion
-ⲙⲁϧⲟⲩⲗ 	 	m. chisel, pick, anvil
+ⲙⲁϧⲟⲩⲗ 	 	Meißel! m. chisel, pick, anvil
 ⲙⲁϩ⳼ ↔  ⲙⲟϩ 	 to fill
  ⲙⲁϩⲓ 	 	m. ell, cubit (forearm)
  ⲙⲁϩⲓ 	 	m. flax
@@ -3852,7 +3901,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  	 m. perseverance, continuance
 ϫⲓⲛⲙⲟⲩⲛ 	 m. perseverance
  ⲉⲃⲟⲗ 	 remain, continue; mperseverance, continuance
-ϧⲉⲛ ⲟⲩⲙⲟⲩⲛ ⲉⲃⲟⲗ 	 adv. con-tinually
+ϧⲉⲛ ⲟⲩⲙⲟⲩⲛ ⲉⲃⲟⲗ 	 adv. continually
 ⲙⲟⲩⲛⲓ ↔ ⲙⲟⲩⲛ 	 to remain
  ⲙⲟⲩⲛⲕ , ⲙⲟⲛⲕ , ⲙⲉⲛⲕ	 , mounk= ,
 (q) ⲙⲟⲛⲕ , ⲡ.ⲥ. ⲙⲁⲛⲕ- 	 (174b)vt., to make, form; qual. to be made,formed, worked
@@ -3867,7 +3916,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲉϧⲟⲩⲛ 	 perish
 ⲁⲑ- , ⲁⲧⲙⲟⲩⲛⲕ 	 adj. unceasing,imperishable
 ⲙⲟⲩⲣ , ⲙⲉⲣ	 , mor= , (q) m/r , p.c. mer
-ⲙⲟⲣ- 	 	bind, gird, tieoblige (by oath), adjure; qual. bound, girt
+ⲙⲟⲣ- 	 	moore! bind, gird, tieoblige (by oath), adjure; qual. bound, girt
  	 m. band, girth, strap, bundle
  ⲉϧⲟⲩⲛ 	 bind, join to; mobligation, fast
  ⲛⲉⲙ- 	 bind with, be atenmity with
@@ -3928,7 +3977,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ϫⲓⲛⲙⲟⲩϫⲧ 	 f. mixture, intercource
 ⲙⲟⲩϫq ↔ ⲙⲟϫq 	 girdle
 ⲙⲟⲩϯ 	 	speak, call; vt. call,pronounce
- ⲉϫⲉⲛ- , ⲉϧⲣⲏⲓ ⲉϫⲉⲛ- 	 tocall upon, cry to
+ ⲉϫⲉⲛ- , ⲉϧⲣⲏⲓ ⲉϫⲉⲛ- 	 to call upon, cry to
  ⲟⲩⲃⲉ- 	 call upon, cry to
  ϧⲁϫⲉⲛ- 	 call ahead,forward
  ϩⲁ- 	 call to
@@ -4204,7 +4253,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲛⲁϩⲏⲧ ↔ ⲛⲁⲓ 	 compassionate
 ⲛⲁϩⲙ⳼ ↔ ⲛⲟϩⲉⲙ 	 to save
 ⲛⲁϩⲣⲁ⳼ ↔ ϩⲟ , ϩⲣⲁϥ 	 in the presence of
-ⲛⲁϩⲣⲉⲛ ↔ ϩⲟ , ϩⲣⲁϥ 	 in the presence ofnahϯ , (q) enhot 	trust,believe; believe; qual. trustworthy,faithful
+ⲛⲁϩⲣⲉⲛ ↔ ϩⲟ , ϩⲣⲁϥ 	 in the presence of nahϯ , (q) enhot 	trust,believe; believe; qual. trustworthy,faithful
  ⲉ- 	 believe, trust in; qualtrustworthy for, (fit to be) entrustedwith
  ϧⲉⲛ 	 trust in
  	 m. trust, faith
@@ -4267,10 +4316,10 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲓⲣⲓ ⲛⲟⲩⲛⲉϩⲡⲓ 	 make mourning
 ϭⲓ ⲛⲉϩⲡⲓ 	 take mourning,mourn
 ⲣⲉϥⲛⲉϩⲡⲓ 	 m. mourner
-ⲛⲉϩⲥⲓ 	 	vi.to awake, arise; vtwaken, raise up
+ⲛⲉϩⲥⲓ 	 	vi.to awake, arise; vt waken, raise up 𓈖 𓉔 𓋴 𓍞 𓁻 | wake | 𓈖 𓉔 𓊃 𓂡 | wake |
  ⲉϫⲉⲛ- 	 rise against
  ϧⲉⲛ- 	 arise from, inebol
-ϧⲉⲛ- 	 awake,arise from
+ ϧⲉⲛ- 	 awake,arise from
  ⲉⲡϣⲱⲓ 	rise up, awake
  ⲉϩⲣⲏⲓ 	 rise up, awake
 ϫⲓⲛⲛⲉϩⲥⲓ 	 m. awakening, arising
@@ -4325,7 +4374,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲛⲓϥⲓ 	 	blow, breathe; tr. blow
  ⲉ- 	 blow upon
  ⲉϧⲟⲩⲛ ⲉ- 	 blow into
- ⲉϧⲣⲏⲓ ⲉ- 	 blow downupon
+ ⲉϧⲣⲏⲓ ⲉ- 	 blow down upon
  ϩⲓϫⲉⲛ- 	 blow upon
  ⲛⲥⲁ- 	 blow after, upon
  ⲉⲃⲟⲗ 	 breathe
@@ -4338,7 +4387,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲛⲕⲟⲧ , ⲉⲛⲕⲟⲧ 	 	sleep,lie down,lie
  ⲉ- 	 sleep, lie down
  ⲉϫⲉⲛ	 , ehr/i ejen
-ϩⲓ- 	 lie upon
+	ϩⲓ- 	 lie upon
  ϧⲉⲛ- 	 lie in, on
  ⲛ- 	 lie in
  ⲛⲉⲙ- 	 lie with
@@ -4399,12 +4448,12 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ϩⲁ- 	 come to, reach
 ϩⲓϫⲉⲛ- 	 come upon, over
 ⲉⲃⲟⲗ 	 come forth
-ⲉⲃⲟⲗ ⲉ- 	 come forth to,against, sue
- ⲉⲃⲟⲗ ⲛ-(ⲙⲙⲟ⳼) 	 comeforth from
- ⲉⲃⲟⲗ ⲥⲁ- 	 come forthfrom beside, from
- ⲉⲃⲟⲗ ϧⲁϫⲉⲛ- 	 comeforth from
- ⲉⲃⲟⲗ ϧⲉⲛ- 	 come forthfrom
-ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ- 	 comeforth through, from
+ⲉⲃⲟⲗ ⲉ- 	 come forth to, against, sue
+ ⲉⲃⲟⲗ ⲛ-(ⲙⲙⲟ⳼) 	 come forth from
+ ⲉⲃⲟⲗ ⲥⲁ- 	 come forth from beside, from
+ ⲉⲃⲟⲗ ϧⲁϫⲉⲛ- 	 come forth from
+ ⲉⲃⲟⲗ ϧⲉⲛ- 	 come forth from
+ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ- 	 come forth through, from
  ⲉⲡⲉⲥⲏⲧ 	 come down
  ⲉⲡϣⲱⲓ 	 come up
  ⲉϧⲟⲩⲛ 	 come in, enter
@@ -4435,11 +4484,11 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  	 n. relaxation
 ϫⲓⲛⲛⲉϥⲧ ⲣⲱ⳼ 	 smiling
 ⲛⲟⲩϣⲡ , ⲛⲉϣⲡ	 , nosp= , (q) nosp , p.c
-ⲛⲁϣⲡ- 	 	blow (of wind)agitate, frighten, overawe; vi. befrightened
+ⲛⲁϣⲡ- 	 	blow (of wind) agitate, frighten, overawe; vi. befrightened
 ⲛⲁϣⲡ ⲉⲃⲟⲗ ϩⲁ- 	 scare from,off
-ⲛⲁϣⲡ ϧⲁ- 	 be scared awayfrom
+ⲛⲁϣⲡ ϧⲁ- 	 be scared away from
 ⲛⲁϣⲡ ϧⲉⲛ- 	 awake from
-ⲛⲁϣⲡ ⲉⲃⲟⲗ ϧⲉⲛ- 	 be scaredfrom
+ⲛⲁϣⲡ ⲉⲃⲟⲗ ϧⲉⲛ- 	 be scared from
 ⲛⲁϣⲡ ϧⲁϫⲉⲛ- 	 be scared by, at
 ⲛⲁϣⲡ ⲉⲃⲟⲗ 	 be scared away; tr scare away
 ⲛⲁϣⲡ ⲉⲫⲁϩⲟⲩ 	 be scared back; m. fight
@@ -4674,8 +4723,8 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲟϥⲧ⳼ ↔ ⲱϥⲧ 	 to nail
 ⲟϥⲧ (q) ↔ ⲱϥⲧ 	 to be nailed
 ⲟqⲧ (q) ↔ ⲱqⲧ 	 to be dripped
- ⲟϩⲓ , ⲓⲟϩⲓ 	 	m. yard (of house),fold (for cattle, sheep); pasture; flock,herd
- ⲟϩⲓ , (q) ⲟϩⲓ 	 	stand, stay,wait
+ⲟϩⲓ , ⲓⲟϩⲓ 	 	m. yard (of house),fold (for cattle, sheep); pasture; flock,herd
+ⲟϩⲓ , (q) ⲟϩⲓ 	 	stay, stand, wait  (stay via ⲟ=𐤏=ס=σ)
  ⲉ- 	 abide by, wait for
  ⲛⲉⲙ- 	 stay with
  ⲛ- 	 wait for, attend to; as,for
@@ -4684,14 +4733,14 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ϩⲓϫⲉⲛ- 	 stay upon
  ⲥⲁⲃⲟⲗ 	 stay outside
  ⲉⲫⲁϩⲟⲩ 	 stay behind
- ⲉϧⲟⲩⲛ ⲉϩⲣⲉⲛ- 	 standagainst
+ ⲉϧⲟⲩⲛ ⲉϩⲣⲉⲛ- 	 stand against
  ⲉⲣⲁⲧ⳼ 	 stand on foot,stand
  ⲉ- 	 stand before, against,attend on
  ⲉϫⲉⲛ- 	 stand upon,against
  ⲛⲉⲙ- 	 stand with
  ⲛⲁϩⲣⲉⲛ- 	 sdtandbeside
  ⲟⲩⲃⲉ- 	 stand against
- ϧⲁⲧⲉⲛ- 	 stand at,before
+ ϧⲁⲧⲉⲛ- 	 stand at, before
  ϩⲓϫⲉⲛ- 	 stand upon, at,
 ⲃⲉϣⲓⲇⲉⲑⲙⲁ ⲛⲟϩⲓ ⲉⲣⲁⲧ⳼ 	 m. pace ofstanding
 ϫⲓⲛⲟϩⲓ ⲉⲣⲁⲧ⳼ 	 m. standing
@@ -4758,7 +4807,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲡⲁⲣⲟⲯⲓⲥ 	 🇬🇷 f. fresh tasted (of misery)disk on which such meals are served
 ⲡⲁⲣⲣⲏⲥⲓⲁ 	 🇬🇷 f. outspokenness, frank-ness, freedom of speech,
 ⲉⲣⲡⲁⲣⲣⲏⲥⲓⲁⲱⲉⲥⲑⲉ 	 be frankdeclare
-ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ 	 adv. frankly; out-sponkenlyparver ↔ vorper -
+ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ 	 adv. frankly; out-sponkenly parver ↔ vorper -
 ⲡⲁⲣϩⲟⲓⲙⲓⲁ ↔ ⲡⲁⲣⲟⲓⲙⲓⲁ 	 proverb
 ⲡⲁⲧⲉⲣ ↔ ⲡⲁⲧⲏⲣ 	 father
 ⲡⲁⲧⲉⲣⲉⲥ ↔ ⲡⲁⲧⲏⲣ 	 father
@@ -4941,13 +4990,13 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲣⲁⲟⲩⲏ , ⲣⲁⲃⲏ 	 	f. quarter of a town,neighborhood
 ⲙⲉⲧⲣⲉⲙⲣⲁⲟⲩⲏ 	 f. neighborhood
 ⲣⲁⲟⲩⲏⲟⲩⲧ (q) ↔ ⲣⲁⲟⲩⲱ 	 to be caught
-ⲣⲁⲟⲩⲱ , ⲣⲁⲟⲩⲏⲟⲩⲧ (q)ⲭ 	b/out (q):	vi to happen, fall, be subject, becaught
+ⲣⲁⲟⲩⲱ , ⲣⲁⲟⲩⲏⲟⲩⲧ (q)ⲭ 	b/out (q):	vi to happen, fall, be subject, becaught  rush@Reuse
  ⲉ- 	 fall upon, into; be liablefor, chargeable with
  ϧⲉⲛ- 	 fall into, suffer
  ϧⲁ-ⲭ ϧⲁⲧⲉⲛ- 	 happen(to be) withr
  	 m. presence, event
-ⲣⲁⲥⲟⲩⲓ 	 	f. dream
-ⲉⲣⲣⲁⲥⲟⲩⲓ 	 have, dream a dream
+ⲣⲁⲥⲟⲩⲓ 	 	f. dream  𓂋 𓋴 𓏲 𓏏 𓁹 𓏥 | dream |
+ⲉⲣⲣⲁⲥⲟⲩⲓ 	 have, dream a dream <> eros?
 ⲣⲁⲥϯ 	 	m. morrow
 ϣⲁ ⲣⲁⲥϯ 	 till tomorrow
 ϧⲉⲛ ⲣⲁⲥϯ 	 on morrow
@@ -4969,7 +5018,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲛⲉⲙ- 	 rejoice withrejoice at, deride
  	 m. gladness, joy
 ⲣⲁϣ⳼ ↔ ⲣⲱϣⲓ 	 to suffice
-ⲣⲁϧ⳼ ↔ ⲣⲱϧⲓ 	 to cleanse
+ⲣⲁϧ⳼ ↔ ⲣⲱϧⲓ 	 to cleanse  <> rinse, reinige-  [[𓇳]] ray > ⲣⲁⲥϯ morrow  
 ⲣⲁϧⲓ (q) ↔ ⲣⲱϧⲓ 	 to be cleansed
 ⲣⲁϧⲓ ↔ ⲣⲱϧⲓ 	 bleacher
 ⲣⲁϧⲧ ↔ ⲣⲱϧⲓ 	 cleaner
@@ -5117,7 +5166,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲛⲁⲩ ⲛⲣⲱⲓⲥ 	 f. time of watch, vigilia
 ϣⲣⲱⲓⲥ 	 watch, guard
 ⲉⲣϣⲣⲱⲓⲥ 	 keep vigil
-ⲣⲱⲕϩ , ⲣⲉⲕϩ- , ⲣⲟⲕϩ⳼ , ⲣⲟⲕϩ (q)	 (293a)burn
+ⲣⲱⲕϩ , ⲣⲉⲕϩ- , ⲣⲟⲕϩ⳼ , ⲣⲟⲕϩ (q)	 (293a)burn  räucher- ++
  ⲉ- 	 burn toward, after
  ⲛⲧⲉⲛ- 	 burn by, through
  ϧⲉⲛ 	 burn with, by
@@ -5176,7 +5225,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  	 m. sufficiency, enough, plenty
 ⲉⲣⲫⲣⲱϣⲓ 	 be, do enough
 ϧⲉⲛ ⲟⲩⲣⲱϣⲓ 	 adv. moderately
-ⲣⲱϧⲓ , ⲣⲁϧ⳼ , ⲣⲁϧⲓ (q)	 	vi. tobecome, be clean; cleanse, wash
+ⲣⲱϧⲓ , ⲣⲁϧ⳼ , ⲣⲁϧⲓ (q)	 	be(come) clean; cleanse, wash
  	 n. cleansing
 ⲣⲁϧⲓ 	 m. bleacher, fuller
 ⲣⲁϧⲧ 	 mf. cleaner, fuller
@@ -5188,8 +5237,8 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 ⲣⲉϥⲣⲱqⲧ 	 m. epileptic
 ϫⲓⲛⲣⲱqⲧ 	 m. casting down
  	 m. stroke, blow, epilepsy
-ⲉⲣϧⲟⲧ , pl. ⲉⲣϧⲱϯ & ϣⲍ ⲁϣ pl.	 mblow, wound
-ⲉⲣⲉⲣϧⲟⲧ 	 be, becomewound
+ⲉⲣϧⲟⲧ , pl. ⲉⲣϧⲱϯ & ϣⲍ ⲁϣ pl.	 m blow, wound
+ⲉⲣⲉⲣϧⲟⲧ 	 be, become wound
 ϯ ⲉⲣϧⲟⲧ 	 give wound
 ϭⲓ ⲉⲣϧⲟⲧ 	 receive blow, besmitten
 ⲣⲱϫⲡ , ⲣⲉϫⲡ- , ⲣⲟϫⲡ⳼ , ⲣⲟϫⲡ (q)	 (312b)be thrown down, sink down; vt
@@ -5335,9 +5384,9 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
 
 ⲥⲁϧ ↔ ⲥϧⲁⲓ 	 teacher <<<
 
-ⲥⲁϧ⳼ ↔ ⲥⲱϧⲓ 	 to weave
+ⲥⲁϧ⳼ ↔ ⲥⲱϧⲓ 	 to weave  𓋴 𓐍 𓏏 𓌦
 
-ⲥⲁϧⲉⲙ (q) ↔ ⲥⲱϧⲉⲙ 	 sunken~ⲥⲁϧⲉⲙ +++++ <<<<<
+ⲥⲁϧⲉⲙ (q) ↔ ⲥⲱϧⲉⲙ 	 sunken ~ ⲥⲁϧⲉⲙ +++++ <<<<<
 ⲥⲁϧⲙ⳼ ↔ ⲥⲱϧⲉⲙ 	 to sink =>
 ⲥⲁϧⲉⲙ (q)	 	be faint, undone, disheartened
  ⲥⲁϧⲁ- 	 faint on the account of
@@ -6060,7 +6109,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲛⲥⲁ- 	 draw, follow after
  ϧⲁ- 	 flow, draw before,beneath, submit to
  ϩⲓⲑⲏ ⲛ- 	 lead on, gobefore,
- ϧⲁϫⲉⲛ- 	 lead on, gobefore
+ ϧⲁϫⲉⲛ- 	 lead on, go before
  ϩⲓϫⲉⲛ 	 draw, flow upon
  ⲉⲃⲟⲗ 	 be drawn, comeforth; draw forth
  	 m. going forth, death
