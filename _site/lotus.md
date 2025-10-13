@@ -1,0 +1,63 @@
+-e ---
+---
+# 🪷 lotus
+
+𑁍 LOTUS [Brahmi](Brahmi.html) sign 𐩕 🧘 
+
+𓆼 lotus plant  
+
+𓊃 𓈙 𓈖 𓆰 Susanna™ ⋍ thousand 1000  
+𓊃 𓈙 𓈖 𓆰 Susanna™ = lotus @ Susa (emblem)  
+
+𓊃 𓈙 𓈖 𓆸 | lotus | Susan™ Seshen Zesch'n ⇔ Tuschen! zeichnen!? /  
+𓊃 𓈙 𓈙 𓈖 𓆸 | lotus |  Silily Laila Lilie / ciCylon / Sicily  
+
+
+𓈖 𓅘 𓃀 𓏏 | lotus-bud sceptre | نیلوفر آبی nilufar-e âbi™
+𓈖 𓎛 𓃀 𓏏 | lotus bud sceptre | نَيْلُوفَر naylūfar genus Nelumbo Nymphaea — see water lily
+𓈖 𓎛 𓃀 𓏏 | lotus bud sceptre | <> 𓅘𓎛 𓃀𓏏[𓆹](𓆹.html) bud
+
+𓆹 bud 𓆺 Blüte 𓆸 phyto [𓆰](𓆰.html) Blatt plant  
+
+𓃀 𓏏 𓆹 पद्म padma "lotus"
+
+
+𓂝 𓃀 𓏏 𓉽 | staff of office |
+
+𓇕 𓇚 𓇊 𓇈
+
+M8 𓆷 pool with lotus flowers
+M9 𓆸 lotus flower
+M10 𓆹 lotus bud with straight stem
+M12 𓆼 lotus plant
+
+𓎛𓃀𓏏𓆰 [herb](herb.html)s [reanalysis](reanalysis.html) :  
+
+𓈖 𓎛 𓃀 𓏏  lotus bud sceptre  
+[𓅘](𓅘.html)𓎛 𓃀𓏏𓆰  lotus bud  
+𓅘𓎛 𓃀𓏏[𓆹](𓆹.html) lotus bud  
+𓅘𓎛 𓃀𓏏[𓆸](𓆸.html) lotus bud  
+𓋴𓐟𓄿 𓊪𓏏𓆰 | lotus-leaf | susaba-blatt (𓊪𓏏𓆰 पद्म padma পদুম podum бадма badma (lotus)  
+𓋴𓐟𓄿 𓊪𓏏𓆰 | lotus-leaf | сэбирдэх sebirdex >  li'safu  
+𓋴𓐟𓄿 𓊪𓏏𓆰 | lotus-leaf | ҫулҫӑ śulś̬ă- 𓊪𓏏𓆰  
+
+Definative reanalysis between  
+* bud bouton botão *bottōnem (button,pimple) бөрө börö  
+* botany, plant, phyth, βοτάνη (botánē, “herb, pasture”  
+* Blatt पत्ता pattā पत्ती pattī (Blatt,phyth) πέταλον pétalon φύλλον phúllon foliage (bio?)  
+* Flower  
+* 𓃀𓏏𓆸, 𓃀𓏏𓆹, 𓊪𓏏𓆰 पद्म padma পদুম podum бадма badma (lotus) !  
+
+𓎼 𓄿 𓃀 𓏏 | leaf | [Ge](Ge.html)Blätt ⇔  
+𓇥 𓂋 𓆓 𓄔 | leaf | برگ (fa) (barg) पत्र patra पर्ण parṇá (Blatt,foliage) ?  
+𓇥 𓂋 𓆓 𓄔 | leaf | horti(culture) hoja Ḫard(Laub)  葉 はー hā / 葉 ふぁー fā folio foil ⵉⴼⴻⵔ ifer[k]:  
+𓇥 𓂋 𓆓 𓄔 | leaf | BlattWerk werqa وَرَقَة waraqa 𓇥𓂋𓆓 အရွက် a.rwak ravina япраҡ yapraq برگ barg Blatt  
+𓂝 𓂋 𓇋 𓇋 𓏏 𓆱 | leaf (of double door) | Arret oryt:  
+𓄔 𓏤 | leaf | 'ear' ++ / Ähre, Ohr  
+𓄔 𓏤 | ear |  
+
+𓊃 𓈙 𓈖 𓏴 𓀜 | © weave | spinnen?  
+𓊃 𓈙 𓈖 𓏴 𓍢 𓏥 | ropes, cordage | 'sehrschön' ⇔ Lotus  
+
+𓆼 λωτός = 30+70+300+6xx … changing this to 1000 according to the 28 stanca 'theory' requires Χ Ψ hackery  
+so the only big coincidence of this 'theory' is not even a match?  

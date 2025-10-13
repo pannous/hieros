@@ -1,0 +1,70 @@
+-e ---
+---
+Most important culture linking [Vinca](Vinca), [Varna](Varna), [Uruk](Uruk), [Susa](Susa) and even the [Oxus](Oxus) civilization.  
+In between the caucasian hunter gatherers CHG - EHG cline and the CHG - AF (Anatolian farmer) cline. Much mixing after 6500 BC early Volga **ceramic** (northern EHG beyond the steppe/forest border stay pure).  
+CHG or rather [Hassuna](Hassuna.html) / [Halaf](Halaf.html) / [Iran](Iran.html)ian **Farmers and Breeders** crossed the Caucasus around 6000 BC, forming the [Shulaveri-Shomu_culture](https://en.wikipedia.org/wiki/Shulaveri-Shomu_culture#Background).  
+
+“Sioni” has become synonymous for the Chalcolithic period in the Transcaucasus and has come to represent a chronological indicator within the region. The caucasus was a mosaic of very different traditions: Godedzor represented pastoralist transhumance herding sheep and cattle, while neighboring lake Urmia and Lailatepe had [Ubaid](Ubaid.html) architecture and tools. Only the technique of chaff tempered pottery is shared.  
+
+Radical **cultural** wave [Volga](Volga.html) 4850 BC (Samara II) - 4500 BC adopting copper from Sredni Stog / Caucasus / Balkans with increases [CHG](CHG.html) but not [EEF](EEF.html) ancestry :  **Khvalynsk** biggest grave of the millennium, most **copper**, cattle sheep goats horses. very similar genetically (Q1a2 R1a1 R1b1a2 richest family, 77% male centered solidarity) to previous and later [Yamnaya](Yamnaya.html) (however not identical; exact origin not yet found: probably around sea of Azov)  
+
+At the end of the fifth millennium, the old iranian tradition of pastoralist goat/sheep herders gained new momentum and abruptly took over many old agricultural settlements. 40% bovine bones, many show signs of labor: invention of the ox [sledge](sledge.html)/cart? {Chataigner:Godedzor...} Although archaeologically evasive, these mobile groups certainly played a significant role in the vastly expanding trade networks and in the [secondary product revolution](secondary product revolution.html), themselves being producers of milk, cheese, hides, wool and textiles. Unlike the northern iranian groups, the caucasian nomads (in Godedzor) show no traces of metallurgy production till the bronze age and very few traces of consumption (the latter probably because of the high value of imported copper tools). They traded for  caucasian wine, beer and cereals, as evidenced by handles on their jars. By 4000BC these trading networks already reached very far: The range of such connections is shown by the discovery of red Spondylus shell beads in Turkmenistan, coming from the shores of the mediterranean or the persian gulf, in graves dated to the transitional Chalcolithic of the Qazvin plains (early fourth millennium Bc), in northern-central iran (fazeli). Terracotta model wheels, in this period, demonstrate the spreading of wagons drawn by camels, wild equids, or oxen  
+
+
+the first identified presence of Caucasian genomic ancestry in steppe populations is through the Khvalynsk burials (2, 47) and that of steppe ancestry in the Caucasus is through Armenian Copper Age individuals (42). These admixture processes likely gave rise to the ancestry that later became typical of the  
+370 Yamnaya pastoralists (7), whose IE language may have evolved under the influence of a Caucasian language, possibly from the Maykop culture (50, 55). This scenario is consistent with both the “Copper Age steppe” (4) and the “Caucasian” models for the origin of the Proto- Anatolian language (56). This signal is not driven by Neolithic Iranian ancestry. results support a widespread CHG-related gene flow, not only into Central Anatolia but also into the areas surrounding the Black Sea and Crete. The latter are not believed to have been influenced by steppe-related migrations and may thus correspond to a shared archaeological horizon of trade and innovation in metallurgy (66). Central Anatolian gene pools, including those sampled from settlements thought to have been inhabited by Hittite speakers, were not impacted by steppe populations during the Early and Middle Bronze Age. The intense cultural interactions between populations in the Caucasus and Anatolia observed during the late 5th millennium BCE seem to come to an end in the first half of the 4th millennium BCE with the village-based egalitarian Kura-Araxes’ society.  
+
+While [iranian](susa) and [caucasian](caucasian.html) copper kings where closely related, the [yamnaya](yamnaya.html) where a notably different people, but culturally strongly influenced by [varna](varna.html)/[maykop](maykop.html) elites:  
+![](https://indo-european.eu/wp-content/uploads/2018/08/PCA-r1b-l51.png?x37279)  
+
+Extremely expansionist: four female(!?) related individuals 4000 km apart ([Afanasievo](Afanasievo.html)) ! (5 generations)  
+On the other hand individuals in nearby kurgans were not closely related.  
+Yamnaya surprisingly homogeneous compared to previous genetically wide Volga cline  
+
+Todo: how related is the Kura Araxas culture which [spread into the levante](https://en.wikipedia.org/wiki/Khirbet_Kerak)  
+
+At Arslantepe, Turkey, around 3000 BCE, there was widespread burning and destruction, after which Kura-Araxes pottery appeared in the area. Like their predecessors, they were quite late to Metallurgy:  
+In the earliest phase of the Kura–Araxes culture, metal was scarce. In comparison, the preceding Leilatepe culture's metalwork tradition was far more sophisticated.[21]  
+
+Before the [Kura-Araxes](https://en.wikipedia.org/wiki/Kura%E2%80%93Araxes_culture) period, horse bones were not found in Transcaucasia. Later, beginning about 3300 BCE, they became widespread, with signs of domestication. The archaeological investigation of Armenia shows clear traces of Indo-European presence at least from the end of the III millennium B.c. if not earlier [1](https://docplayer.net/108120425-The-mushki-problem-reconsidered.html)  
+
+See [main](Home) article  
+
+https://en.wikipedia.org/wiki/Maykop_culture  
+
+According to genetic studies on ancient DNA published in 2018, the Maikop population came from the south, probably from western Georgia and Abkhazia, and was descended from the Eneolithic farmers who first colonized the north side of the Caucasus. Maykop is therefore the "ideal archaeological candidate for the founders of the Northwest Caucasian language family".  
+
+However it seems to be genetically not very [PIE](PIE)?  
+
+Majkop verfügen sowohl über eine «paläolithische» Haplogruppe (U8) als auch über «neolithische» Haplogruppen: V (Недолужко u. a. 2014), T2, N1. Bei einem Objekt aus einem Grab bei der Staniza Novosvobodnaja fanden wir auch die Haplogruppe М52. Die gewonnenen Daten sprechen für eine (auf dem Niveau der mitochondrialen DNA) mögliche genetische Gemeinschaft der archäologischen Kulturen von Majkop und Novosvobodnaja.  
+
+
+As you can see these folks have ONLY 2.5% of R1b and up to 75.5% of G & J!  
+
+The presence of Indian-specific mtDNA haplogroup M52 is surprising.  
+
+https://eurogenes.blogspot.com/2018/11/big-deal-of-2018-yamnaya-not-related-to.html  
+
+ON the other hand:  
+https://www.eupedia.com/europe/Haplogroup_R1b_Y-DNA.shtml  
+the Caucasus was a hotspot for G2,J2,T1 and R1  
+
+The Steppe Maykop are one remarkable example of "two people one system": They were genetically closer to horse eating Botai (also breeders?) and Yamnaya, but most distinct from their cultural neighbors in the Caucasus Maykop, except for some admixture outliers (elite? strategic marriages? theft of women? ...)  
+
+One can postulate that Botai were close to proto [turk](turk.html)/mongolian languages and the PIE branches received complex consonant clusters from Kartvelian languages.  
+
+Todo: analyze Svobodnoe Stedni-Stog contact zone  
+
+What did the Maykop poses that the (Eridu)Sumerians wanted so badly? Metals (copper, silver, gold, lead, arsenic bronzes) and precious stones, the caucasus mountains were rich in both. Finished products were imported back. We need to look at the corresponding professions: Explorers, miners, supervisor and above all smiths who were buried with their equipment and had a special role (todo: spiritual why?). The exchange with Mesopotamian traders occurred on the shores of the black sea, archeology suggests. The Zagros black sea route seams secondary, but there was a rare tin mine around Ray (Tehran). The northern tradition of hill graves quickly swell to enormous sizes given the vast buildup of riches and power.  
+
+ Tin bronzes where first exploited in the taurus mountains though, making Syria and Turkey a constant hotspot throughout history. The Kura-Araxas cultures come back into lime light. They attacked northern euphrates cities around 3100BC leading to the collapse of the late Uruk trade network and the demise of Maykop.  
+
+### Burial
+>>10m high, 100m diameter kurgans  
+Head oriented towards **south west**: the rising sun  
+
+Burial chamber divided in 3 quarters: two northern chambers for women, one southern chamber for the king (inverted T shape, see [cosmos](cosmos.html) model of the world). All deeply stained with red ocre, king with hollow silver tubes 1m long (staffs/poles), axes, adzes, many pots and two chisels. Golden and silver bulls attached to poles. 86 golden lions 19 golden bulls on tunic, Mesopotamian symbols of power. 60 breads of turquoise 1272 beads of carnelian 122 golden beads. Diadem of 5 [rosette](rosette.html)s with 5 petals each. Turquoise from Kurasan near Afghanistan, Lapis from close to the Indus valley! Back 4000 BC! Late Maykop contains much bronzer and oldest sword, cast **axes of all kinds**. One human molar sheathed in gold.  
+
+New genetic data limits the speed of spread of the Yamnaya deep into Asia:  
+The  observation  that the IE steppe ancestry arrived in the Late Bronze Age (⋍2300–1200 BCE) is more consistent with archaeological and linguistic chronology (44, 45, 48, 49). Thus, it seems that the Yamnaya- and Afanasievo-related migrations did not have a direct genetic impact in South Asia.  
+Earlier farming population from the [Anau](https://en.wikipedia.org/wiki/Anau_culture)/[Namazga culture](https://en.wikipedia.org/wiki/Namazga-Tepe) or a related source migrated down to Southern India. Then the second wave came during the Late Bronze Age (⋍2300–1200 BCE) through established contacts between pastoral steppe nomads and the Indus Valley, bringing European Neolithic as well as CHG-specific ancestry, and with them Indo-Iranian languages into northern South Asia.  

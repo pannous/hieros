@@ -1,0 +1,89 @@
+-e ---
+---
+
+
+Arabic b has a dangling d sound!  
+
+K-Bd-R K-dB-R  
+
+Arabic DH has a dangling b sound!  
+
+bDHatan ⋍ Satan / Buddhan / Wotan  
+
+bdough ⇔ Brot ?  
+
+Arabic dh has a dangling v sound!  
+
+ذَكِيّ dhakia ⋍ dᵛakia ⋍ ᵈvakia  (wach,intelligent) =  
+زكي zakī (auf Zack sein)  
+
+compare Duo / Two ⇔ Zwei [2](2.html)  
+
+
+𐩪 𐩼 ጸ 𐩮 series shows abstraction
+		Sabaean								
+
+Old South Arabic:		
+A 	𐩱 	alef 	A 	/ʔ/ 	𐤀 	አ 	א 	ﺍ 	ܐ	ל𐩬𐩨  
+B 	𐩨 	beth 	b 	/b/ 	𐤁 	በ 	ב 	ﺏ 	ܒ	π 𓊪 𓉐
+C 	𐩴 	gimel 	g 	/ɡ/ 	𐤂 	ገ 	ג 	ﺝ 	ܓ	Γ>c
+D 	𐩵 	daleth 	d 	/d/ 	𐤃 	ደ 	ד 	ﺩ 	ܕ	Δl D
+EY	𐩠 	he 	h 	/h/ 	𐤄 	ሀ 	ה 	ه 	ܗ	HEY
+F 𓊪	𐩰 	fe 	f 	/f/ 	𐤐 	𐤐 	ፈ 	פ 	ف 	ܦ	𓊪
+G 	𐩴 	gimel 	g 	/ɡ/ 	𐤂 	ገ 	ג 	ﺝ 	ܓ	Γ
+GH	𐩶 	ghayn 	ġ 	/ɣ/ 				غ 		ΓΓ ~ ng
+HI	𐩠 	he 	h 	/h/ 	𐤄 	ሀ 	ה 	ه 	ܗ	HYI
+J 	𐩺 	yodh 	y 	/j/ 	𐤉 	የ 	י 	ﻱ 	ܝ	fj phey
+K 	𐩫 	kaph 	k 	/k/ 	𐤊 	ከ 	כ 	ﻙ 	ܟ	k
+L 	𐩡 	lamedh 	l 	/l/ 	𐤋 	ለ 	ל 	ﻝ 	ܠ	L
+M 	𐩣 	mem 	m 	/m/ 	𐤌 	መ 	מ 	ﻡ 	ܡ	M
+N 	𐩬 	nun 	n 	/n/ 	𐤍 	ነ 	נ 	ﻥ 	ܢ	ל𐩬𓈖
+O 	𐩲 	ayn 	A 	/ʕ/ 	𐤏 	ዐ 	ע 	ﻉ 	ܥ	oy
+P 	𐩨 	beth 	b 	/b/ 	𐤁 	በ 	ב 	ﺏ 	ܒ	π 𓊪 𓉐
+Q 	𐩤 	qoph 	q 	/q/ 	𐤒 	ቀ 	ק 	ﻕ 	ܩ	q
+R 	𐩧 	resh 	r 	/r/ 	𐤓 	ረ 	ר 	ﺭ 	ܪ	𓎫 𓂋
+S 	𐩦 	shin 	s² š 	/ɬ/ 	𐤔 	ሠ 	ש 	ﺵ 	ܫ	∑
+T 	𐩩 	taw 	t 	/t/ 	𐤕 	ተ 	ת 	ﺕ 	ܬ	𓊕 < tcur 𓊖𓏏
+UVW	𐩥 	waw 	w 	/w/ 	𐤅 	ወ 	ו 	ﻭ 	ܘ	
+XS	𐩯 	ˣsamekh 	s³	/s̪/ 	𐤎 		ס 	س 	ܤ	xam X 𐩩:T 
+Y 	𐩺 	yodh 	y 	/j/ 	𐤉 	የ 	י 	ﻱ 	ܝ	phey fy
+Z 	𐩸 	zayn 	z 	/z/ 	𐤆 	ዘ 	ז 	ﺯ 	ܙ	𓋭
+TH	𐩷 	teth 	ṭ 	/tˤ/ 	𐤈 	ጠ 	ט 	ﻁ 	ܛ	𓌢𓌢 𓂎 𒌉 
+DH	𐩳 	dhadhe 	ṡ 	/ɬˤ/ 		ፀ 		ض 		theta
+HD	𐩹 	dhaleth 	ḏ 	/ð/ 				ذ 		
+Sᵗ	𐩪 	sat 	s¹ s 	/s/ 		ሰ 		ﺱ 		𓋴𓊨
+ṱh	𐩼 	theth 	ṱ 	/θˤ/ 				ظ 		ה~th
+ṣh	𐩮 	sadhe 	ṣ 	/sˤ/ 	𐤑 	ጸ 	צ 	ص 	ܨ	  𐩮 also without middle stroke, like ጸ, and edgy like 𐩪
+tw	𐩻 	thaw 	ṯ 	/θ/ 				ﺙ 		2
+kh	𐩭 	kheth 	ḫ 	/x/ 		ኀ 		ﺥ 		
+HYIT	𐩢 	heth 	ḥ 	/ħ/ 	𐤇 	ሐ 	ח 	ﺡ 	ܚ	
+										
+	𐩠 	he 	h 	/h/ 	𐤄 	ሀ 	ה 	ه 	ܗ	
+	𐩡 	lamedh 	l 	/l/ 	𐤋 	ለ 	ל 	ﻝ 	ܠ	
+	𐩢 	heth 	ḥ 	/ħ/ 	𐤇 	ሐ 	ח 	ﺡ 	ܚ	
+	𐩣 	mem 	m 	/m/ 	𐤌 	መ 	מ 	ﻡ 	ܡ	
+	𐩤 	qoph 	q 	/q/ 	𐤒 	ቀ 	ק 	ﻕ 	ܩ	
+	𐩥 	waw 	w 	/w/ 	𐤅 	ወ 	ו 	ﻭ 	ܘ	
+	𐩦 	shin 	s² (ś, š) 	/ɬ/ 	𐤔 	ሠ 	ש 	ﺵ 	ܫ	
+	𐩧 	resh 	r 	/r/ 	𐤓 	ረ 	ר 	ﺭ 	ܪ	
+	𐩨 	beth 	b 	/b/ 	𐤁 	በ 	ב 	ﺏ 	ܒ	
+	𐩩 	taw 	t 	/t/ 	𐤕 	ተ 	ת 	ﺕ 	ܬ	
+	𐩪 	sat 	s¹ (š, s) 	/s/ 		ሰ 		ﺱ 		
+	𐩫 	kaph 	k 	/k/ 	𐤊 	ከ 	כ 	ﻙ 	ܟ	
+	𐩬 	nun 	n 	/n/ 	𐤍 	ነ 	נ 	ﻥ 	ܢ	
+	𐩭 	kheth 	ḫ 	/x/ 		ኀ 		ﺥ 		
+	𐩮 	sadhe 	ṣ 	/sˤ/ 	𐤑 	ጸ 	צ 	ص 	ܨ	
+	𐩯 	samekh 	s³ (s, ś) 	/s̪/ 	𐤎 		ס 	س 	ܤ	
+	𐩰 	fe 	f 	/f/ 	𐤐 	ፈ 	פ 	ف 	ܦ	
+	𐩱 	alef 	A 	/ʔ/ 	𐤀 	አ 	א 	ﺍ 	ܐ	
+	𐩲 	ayn 	A 	/ʕ/ 	𐤏 	ዐ 	ע 	ﻉ 	ܥ	
+	𐩳 	dhadhe 	ṡ 	/ɬˤ/ 		ፀ 		ض 		
+	𐩴 	gimel 	g 	/ɡ/ 	𐤂 	ገ 	ג 	ﺝ 	ܓ	
+	𐩵 	daleth 	d 	/d/ 	𐤃 	ደ 	ד 	ﺩ 	ܕ	
+	𐩶 	ghayn 	ġ 	/ɣ/ 				غ 		
+	𐩷 	teth 	ṭ 	/tˤ/ 	𐤈 	ጠ 	ט 	ﻁ 	ܛ	
+	𐩸 	zayn 	z 	/z/ 	𐤆 	ዘ 	ז 	ﺯ 	ܙ	
+	𐩹 	dhaleth 	ḏ 	/ð/ 				ذ 		
+	𐩺 	yodh 	y 	/j/ 	𐤉 	የ 	י 	ﻱ 	ܝ	
+	𐩻 	thaw 	ṯ 	/θ/ 				ﺙ 		
+	𐩼 	theth 	ṱ 	/θˤ/ 				ظ 		

@@ -1,0 +1,8 @@
+-e ---
+---
+𓂧 𓈎 𓌽 | flour | dough  دَقِيق daqīq ዱቄት duḳet бурдук burduk textli 
+𓂧 𓈎 𓌽 | flour, powder | 
+𓂧 𓈎 𓂷 𓈓 | flour | ዱቄት duḳet ≈ digit 
+𓂧 𓈎 𓂷 𓈓 | flour, powder | 
+
+𓐩 𓏌 𓏥 | flour | <> mill Mehl

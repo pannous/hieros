@@ -1,0 +1,47 @@
+-e ---
+---
+# Archaic inventions
+
+Archaic inventions are those that can already be observed in other animals and are
+predating [paleolithic-inventions](paleolithic-inventions.html) of mankind:
+
+• singing
+• poking-sticks 
+• building:
+• nests
+• beds
+• roofs
+• shelter
+• stick angler hooks
+• decoration
+• scratchers 
+• rock hammer 
+• clubs and anvils
+• sponges
+• cups (leaves) 
+• chisel
+• lever (Hebel)
+• spades… 
+• herbal medicine
+• raft as [boat](boat.html) ?
+• social norms, taboo and tasks 
+• secret stash, storage 
+• territorial borders, markers and mental maps 
+• playing games
+• simulation
+• pointing
+• counting
+• words
+• theft 
+• pretending
+• depots
+• adornments 
+
+
+• Tool Use: Primates, birds (such as crows and some raptors), and even octopuses use objects in their environment as tools for obtaining food, self-defense, and solving problems.
+• Medicinal Use: Certain animals, like chimpanzees and elephants, have been observed consuming specific plants with medicinal properties to treat illness or aid in digestion.
+• Communication: Various species employ complex communication systems. For example, whales and dolphins use sophisticated vocalizations for social interaction and navigation. Birds use songs and calls for mating, territory defense, and signaling danger.
+• Social Structures: Many species exhibit complex social structures and behaviors, such as cooperation, division of labor, and social learning. Wolves, elephants, and primates are notable examples.
+• Mourning and Rituals: Observations suggest that some species show behaviors indicative of mourning or ritualistic activities surrounding death. Elephants, for example, are known to linger around the bodies of deceased herd members, touching and sometimes carrying their bones or tusks.
+
+• Memory and Learning: The ability to remember locations of food sources, navigate vast distances, and learn from experience is seen in species ranging from birds, like pigeons and ravens, to mammals like dolphins and elephants.

@@ -1,0 +1,3 @@
+-e ---
+---
+The [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic) is underrepresented in the archological record, because permanent settlements tend to be close to the sea, which rose by over a hundred meters from 20000 BC to 6000 BC! The term Mesolithic is of very limited use because "the ages blended together like the colors of a rainbow".  

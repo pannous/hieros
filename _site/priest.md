@@ -1,0 +1,91 @@
+-e ---
+---
+[𓍛](https://github.com/pannous/hieros/wiki/%F0%93%8D%9B) ḥm [𓇅](https://github.com/pannous/hieros/wiki/%F0%93%87%85)
+
+[𓎳](𓎳)  
+
+[𓂗](𓂗.html) | soul priest
+
+𓄥 𓄿 | priest (who clothed the god) | Shaman
+𓋴 𓅓 𓀀 | a priest | Shaman
+𓋴 𓐧 | priest | Shaman @ [moon](moon.html)
+
+𓀀 | [MONK](MONK.html) | lector (priest) |  
+𓀀 | MIN | soul priest | <> [Amun](Amun.html) [Amen](Amen.html)
+
+[𓐧](𓐧.html)
+
+𓇼 𓏏 𓏤 | priesthood |  
+𓇼 𓏏 𓏤 𓀀 𓏥 | priesthood, staff
+𓇼 𓇳 𓏏 𓀀 𓏪 | priesthood | 
+𓃹 𓈖 𓏏 𓇼 𓏥 | priesthood | santana
+
+
+𓃂 | serve as priest | to pure => purist
+𓃂 𓈗 | serve as priest |  
+𓃂 𓈗 𓀀 | Wab priest | Pfuscher
+
+𓀆 𓃀 𓅱 𓏏 | priestly service | tri?but
+
+𒍬 #bārûˢ ≈ par.uz 𒍬 priest "diviner" 
+
+𒁓 BURˢᵗ 𒁓𒌫 priest <> 𒎎𒁓
+
+𒋖 ŠITA свята́р svjatár •salvator 𓋴𓐧𓀀 "priest" 
+
+𒊺𒉇 ŠE.TU₉ ≈ 𒋖 ŠITA
+𒊺𒉇 ŠE.TU₉ šušₓ (sic) 
+
+see [𒋖](𒋖.html) prayer
+
+𒌅 TUʳ 𒊺𒉇 ŠE.TU₉ տերտեր terter <> páter "priest"
+
+𒉣𒈨𒅤;𒉣𒈨	abgal₂ #apkallu 	"sage; priest"	𒉣𒈨 gnome < gnost!		
+
+𒂼𒃲	ama-gal	amagal	grandmother; a priestess 	Groß Oma!			
+
+𒀀𒌅	ᵇa-tu Pastor #pašīšu ʷa-tu	ʷatu •ward	a priest or cultic functionary; doorkeeper?
+
+𒀀𒌅 bu-tu <> Bhuddha
+
+𒁓 pūru bural "priest	bural > bowl"
+
+𒁓;𒎎𒁓	bur;na₄ bur	bur	(food) offering, sacrifice; meal(-time); (stone) bowl; a priest	bural > bowl <<<		#abru;naptanu;nīqu; 	bowl
+
+
+
+𒊩𒇬	emeš emezi eziₓ 	en-priest of Ea #ēnu ša Ea
+
+𒈨	me magi magician #ramku
+𒈨	išib spell
+𒈨	išibᵉʳ šiptu 7 scepter "sorcerer" 
+𒈨 šip სუფთა supta sauber šib صفی safi "clean, pure" 
+
+𒈨	išib	išib	sorcerer, magician; incantation priest, exorcist; pure; clear; a purification priest; incantation, spell	"me:magi  sip:spell 𒈨 šip სუფთა supta šib صفی safi ""clean"""		#ellu;išippu;pašīšu;ramku;āšipu; 	priest
+𒅗𒅲𒅅	ka-mu₇-ĝal₂	kamuĝal	incantation priest	@ chamber 𓇗 song? ϫⲉⲣⲉ ϫⲱⲟⲩⲓ ⲯⲁⲗⲙⲟⲥ  psalm		#wāšipu 	incantation
+𒇽𒆀𒆀;𒆀𒆀;𒇽𒅲𒅲;𒅗·𒃷@t𒅗·𒃷@t	lu₂mu₁₃-mu₁₃;mu₁₃-mu₁₃;lu₂mumun;muₓ(|KA×GAN₂ @t|)-muₓ(|KA×GAN₂ @t|)	lumumun	incantation priest 				priest
+𒈦𒈦	maš-maš	mašmaš	sorcerer, incantation priest	magician master		#ašīpu;mašmaš(š)u 	sorcerer
+𒉆𒊩𒂠𒍥	nam-egir₃-zid	ˢʸnamegirzid	the office of egirzid-priest 				priesthood
+𒉆𒂗	nam-en	ˢʸnamen	the office of en-priest; kingship	syn-amun shar-amen		#enūtu; bēlūtu 	priesthood
+𒉆𒇬	nam-lagar	ˢʸnamlagar	office of lagar-Priest 				priesthood
+𒉆𒎏𒀭	nam-ereš-diĝir	ˢʸnamerešdiĝir	office of the erešdiĝir-priestess	@ synagoge		#? 	priesthood
+𒉆𒈨	nam-išib	ˢʸnamišib	office of išib-priest 	@ synagoge			priesthood
+𒉆𒄴𒈨	nam-gudug	ˢʸnamgudug	office of gudug-priest 				priesthood
+𒉆𒊩𒈨	nam-lukur	ˢʸnamlukur	office of lukur-priestess 				priesthood
+𒉆𒇽𒈤	nam-lu₂mah	ˢʸnamlumah	office of lumah 				priesthood
+𒉆𒉡𒇇𒍼	nam-nu-u₈-gig	ˢʸnamnugig	office of the nugig			#? 	priesthood
+𒊕𒁓	saĝ-bur	saĝbur	priest 				priest
+𒊮𒌆𒁀𒈨𒇲	šag₄-tu₉-ba₁₃-la₂	šagtubala	priest 				priest
+𒋆𒈫𒊬𒈤	šim₂mu₂mah	šimmumah	high priest 				priest
+𒊺𒉇	šušₓ(|ŠE+NAM₂ |)	šuš	priest 				priest
+𒌅	tu	tu	priest 				priest
+𒊩𒇬	usuh	usuh	en-priest of Enki			#ēnû 	priest
+
+LAGAR,𒇬,𒇬,𒇬,𒇬,sharman, priest,vs LU=man! 
+
+𒂗,'*Man''kind',Bal / lord / priest 
+
+𓃢 𓅱 𓏏 𓐎 𓏤 𓍘 𓇋 | a priest | ←
+
+𓆑 𓎡 𓏏 𓏮 𓁸 | shorn priest | Fakir
+𓇋 𓇋 𓂡 𓀀 | soul priest |  

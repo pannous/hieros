@@ -1,0 +1,20 @@
+-e ---
+---
+# cousin languages
+
+
+A cousin language shall be defined as a language with provable genetic population mixture resulting in provable linguistic 'regional' features, lexial and grammatical(!), connecting the origin populations with their original languages. This term has an overlap with modern flow theories. Examples would be creoles and sprachbunds, but recent paleogenetic evidence hints at Anatolian, Kartvelian and Indo-European to be possible "cousin language families". 
+This definition is different from «sister languages» which are [related](related.html) in classical linguistic genealogical terms.
+
+Groundbraking new insights of paleogenetic relationships between human populations open the door to re-investigate hypothesis of language affinities in a new light. A (by now famous) example is the proven near total displacement of European Hunter-Gatherers by a wave of Anatolian Neolithic farmers starting about 7000BC and reaching the northern tips of England and Skandinavia only a few millenia ago. This first wave was followed by a second wave of fast moving groups from the Ukrainian Steppe, mobilized with wagons, but according to new research most likely not yet horse riding (which spread in another minor wave 2000BC). 
+
+Ideally the contributing languages may correspond closely with their genetic constituents PIE = 40% EHG 50% CHG and 10% EEF but in practise the contributants may leave unequal imprints on the cousin languages.
+
+In this example, other populations with dominant CHG likely constitute cousin languages to PIE, notably Kartvelian, Anatolian and Iranian Farmers who might further constitute great cousins of Elamite and Dravidian. Some cousin relationships might be accessible to modern proofs (basically just relabeling known regional grammatical(!) features) while others are out of scope for conclusive results.
+
+
+ not , but still somewhat related in modern flow theories (not in classical linguistic  genealogical terms!!) correspond to genetic population mixtures (e.g. PIE = 40% EHG 50% CHG and 10% EEF)
+
+
+In its formal approach partly orthogonal and partly similar to the strict comparative method:
+If clusters of words have overlapping 

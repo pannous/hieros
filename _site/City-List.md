@@ -1,0 +1,112 @@
+-e ---
+---
+𒆠 KI™ 𓊖 city 
+𒆠 KI® [kar](kar.html) 𒆳 [kur](kur.html) court gorod sahar > 
+𒌷 ᴴURU Hort Ort 𓊨 
+𒌷 ᵂURU Wehr > #ʷala #ʷalu Weiler 𒍇 ᵛulu₃ ville ≈ 𒌨 ḪUL <> walls
+𒀕 iri₁₁ ≈ URU
+𒀕 UNUG [nagar](nagar.html) see [𓊖](𓊖.html) [kar](kar.html) [kur](kur.html)
+𒀕 abode 𒀊 AB Bad [Beith](Beith.html)
+𒂦 bad₃ 𓉐 port #Dūr door gate wall 𓊅 𓉧 
+
+also see [Regions](Regions.html) and [God-List](God-List.html)
+
+𒌷𒋗𒃻𒀭 URU.šu-šá-an 	Susaⁿ  𒈹𒂞𒆠 ŠEŠ				
+𒀭𒊭𒀭𒆠 Anšanᴷᴵ  		Anshan 𒀭𒊓𒀭𒆠 Ansanᴷᴵ 𒀭𒍝𒀭 Anzan  Tall-e Malyan
+𒀀𒉿𒀭𒆠 a-wa-anᴷᴵ  		Awan
+
+[Sumerian cities](https://en.wikipedia.org/wiki/Category:Sumerian_cities)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Basse_Mesopotamie_Ur3.png)
+𒉣𒆠 #eridug Erbe		Eridu   #irîtu "erste, earliest, foremost" <> 𒌓𒉣𒆠 Adab!
+𒆧𒆠 	Kiš 			Kish city  #Kiššatu
+𒌔𒆠 	u₄kúsu.KI		Akšak Akshak ∋ Ur-kisala  Upi Opis ? 
+𒌷𒁲𒂊𒊒(𒆠) de-e-ru  	Der 𓈎 ≈ Tell Aqar 𓏘 :
+𒌷𒂦𒀭𒆠 BAD3.AN 		Der 𒂦 #Dūr near al-Badra ! <> 𒌷𒂦𒆠 #Durum <> Tehran
+𒄈𒋢𒆠 ĝir2-su 			Ĝirsu / Girsu 
+𒂦𒁾𒉄𒆠 bad₃tibira 	Bad-tibira  "Wall of the Copper Worker(s)" (Tell al-Madineh)
+𒁁𒋛𒀊𒁀𒆠 BAD.SI.AB.BA Borsippa (𓉐 port) Birs Nimrud
+𒂗𒆤𒆠 EN.LÍL 			Nippur Nibru •Nile-Port 𓉐 
+𒉢𒁓𒆷𒆠  buru₄LA.KI 	LAGAŠ (𓉐 port)
+𒌓𒉣𒆠 UD.abad 			Adab (𓉐 port)
+𒌓𒄒𒉣𒆠 PAR.QIP.abad 	Sippar (𓉐 port) Tell Abu ᴷHabbah ˢHabbah
+𒌓𒀕𒆠 LAH.iri₁₁.SA   	Larsa  Λαραγχων Laranchaᵒⁿ ∋ 𒂍𒌓 🟠
+𒌓𒀕𒆠 LAH.iri₁₁.SA   	Larsa  𓇳 𓇶 Ellasar L'Sahar 𒌓 Sankarah Tell as-Senkereh
+𒌓𒌓𒀝𒆠 LAH-AK  		Larak  (third of five cities to exercise kingship in the antediluvian)
+𒆷𒊏𒀝𒆠 LA-RA-AK  	Larak  = ∋ 𒀭𒉺𒉈𒊕 & 𒃽𒁮 NinIsina 𓋴 𓈖 𓃀 𓏜 "Healing" ≈ Isin :
+𒉌𒋛𒅔𒆠 I3-si-in 		Isin  	Ishan al-Bahriyat
+𒈠 𒌷𒆠 	MA.URU / MA.RI 	Mari		تل حريري Tell ᴹHariri ≠ Marocco
+𒋢𒆳𒊒𒆠 SU.KUR.RU 		Šuruppag •SeCure-𓉐?  "the healing place" Shuruppak
+𒄑𒆵𒆠 	GEME			ᴳUmma   <> 𒆵 ≈ 𒊩 ≈ 𒌑𒂼 ummum "mom" 𒌝𒈨 ummeda "mother"
+𒆠𒀭		KI.AN 			Gyne ≈ GEME ≈ 𒂼 GÁ.AN (site nearby ᴳUmma 𒄑𒆵𒆠)
+𒌱𒆠 ÚR×Ú.KI  			Urum 𒌯  ÚR×ḪA URUM4 𒌬𒆠 ÚR×A.ḪA.KI  𒌫 𒀀𒄩 ÚR.A.ḪA
+𒋀𒀕𒆠 ÙRU.UNUG.KI   	Ur •Nagar "city of cities" "abode of Nanna"𒋀∋ 𒌨𒀭𒇉 𓃭
+𒀕𒆠  	UNUG.KI®  		Urukᶥ Warka "city of cities"
+𒌷𒀕 		URU.UNUG  	Uruk = وركاء Warkāʾ  أوروك Auruk
+𒌷𒀔 		URU.KIˣ 	Uruk = Ὀρχόη Ὠρύγεια Ōrúgeia ≈ Erāq ’yrg al-ʿIrāq Iraq Irak
+𒋼𒀀𒋼𒀀𒆠 kar-kar.KI		Karkar ≈ Kirkuk? "city of cities" ( between Adab and Zabalam ?)
+𒅎𒆠 ᵡIMⁿKI®  			Karkar? Kakra (Tell Ĝidr?) ∋ 𒀭𒅎 Ishkur 𐎅𐎄 Haddad ≈
+𒂗𒄀𒆠 EN.GI.KI®  		Enegir ≈ Sumer! 𒈗𒆠𒂗𒄀𒆠𒌵𒆤 
+𒂗𒄄𒆠 EN.GI4.KI 		Enegir / Enegi  "Lost city"  Noble/native?
+𒂗𒁶𒍼 EN.DIM2.GIG  	Enegi at Sargon and Ur III 
+𒍝𒈽𒀕𒆠 šuba.UNUG.KI	Zabala  Tell Ibzeikh (also Tell el-Buzekh or Tell Ibzaykh)
+𒀸𒁁𒂦𒆠 ?				Dilbat  Tell ed-Duleim or Tell al-Deylam
+𒄖𒂃𒀀𒆠 Gû.du8.a.KI 	Gudua Kûtu كُوثَا Kutha 	𒄘𒂃𒀀𒆠  Gû gu4? NW of Kish
+𒅗𒉌𒇻𒆠 Ka-zal-lu 	Kazallu
+see missing CUNEIFORM ->
+kisurra
+Marad
+Apiak Apak
+Nigin
+
+
+[Akkadian cities](https://en.wikipedia.org/wiki/Category:Akkadian_cities)
+𒀀𒂵𒉈𒆠 akkadê  		Akkad ≈ Baghdad ?
+𒌵𒆠 URIKI  			Akkad אַכַּד ʾAkkaḏ of Nimrod in Sumer (Shinar)
+𒌑𒄯𒊕 / Šamḫurrēšu 	Azupiranu  "city of saffron" Sargon's birthplace
+
+[Kish](Kish.html) civilization
+[Amorite cities](https://en.wikipedia.org/wiki/Category:Amorite_cities)
+𒆍𒀭𒊏𒆠 		Babylon
+𒌈𒆷 ʰeb₂-la  	ᴴEbla إبلا 34 mi from Aleppo Ḥalab <> 𓄁 𓃗 Tell Mardikh
+
+[Assyrian cities](https://en.wikipedia.org/wiki/Category:Ancient_Assyrian_cities)
+𒌷𒉌𒉡𒀀  NI.NU.A 	Nineveh Ninua נִינְוֵה, Nīnəwē نَيْنَوَىٰ Naynawā ܢܝܼܢܘܹܐ, Nīnwē
+𒀭𒊹𒆠 AN.ŠAR.KI  Aššur / Assur 𒀸𒋩 @ Syria
+𒀭𒀀𒇳𒊬𒆠 Aš-šur KI, "City of God Aššur"  ܐܫܘܪ Āšūr  𐎠𐎰𐎢𐎼 Aθur آشور Āšūr  אַשּׁוּר ʾAššūr اشور
+𒅎𒄥𒀭𒂗𒆤𒆠 Imgur-Enlil	 Balawat
+𒂦𒈗𒁺 Dūr Šarru-kīn "Fortress of Sargon" دور شروكين ܕܘܪ ܫܪܘ ܘܟܢ  Khorsabad !
+𒊏𒁉𒋡𒉿𒆠 ra-bi-qa-wi.KI Rapiqu 2nd Millennium BC until early in the 1st Millennium BC. 
+
+Garšana (also Garshana and GARšana) was a city in the ancient Near East which is still unlocated. A proposed reading of the toponym is "Nig2-ša(-an)-naki".[1] It was also referred to as "Uṣar-GARšana" i
+
+
+Irisaĝrig (also Urusagrig, Iri-Saĝrig, Al-Šarrākī
+
+MISSING CUNEIFORM:
+Kalḫu ( biblical Calah ) 𒆗𒄷 ?  	 Nimrud
+Marad 𒑰𒀴𒆠 𒈠𒋥𒆠 𒈥𒀜𒆠?
+Gu.abba 𒄖𒀋  𒄖𒀊𒁀 𒄘𒀋 ?
+Tutub 𒌅𒌅𒌒 ?
+
+Harrâdum
+Kashkar, also known as Kaskar
+Zakhiku (Kemune)
+Eshnunna (Tell Asmar) 𒀭𒎏𒀀𒅗 ?  𒌍𒉡𒈾?
+Kar-Tukulti-Ninurta (modern Tulul ul Aqar (Telul al-Aqr)
+Kelashin (Kurdish: Kelaşin کهلاشن)
+⚠️ Karkemish Carchemish
+Kishsassu or Kishassu (Akkadian: Kiššaššu)
+Lubdu, also written as Lubda or Lubdi, Tall Buldāgh 
+Mardaman (modern Bassetki) was a northern Mesopotamian city that existed  ca.2200 to 1200 BC.
+Šinahuttum, later known as Sanahuitta
+Sareisa or Shareisha (Greek: Σάρεισά) 'Shareisha' or 'Shereshe'; Tiglath I (c. 1100 BC) conquest
+⚠️ Kanesh or Nesha Nessa, Nesa Aniša (Anisha). Kültepe (Turkish: lit. ash-hill)
+Til Barsip  vs Borsippa <>
+Zapparia or Kar Sipar modern Zebari @ Kurdistan
+Nuzi (Hurrian Nuzi/Nuzu; Akkadian Gasur; modern Yorghan Tepe) @ Arrapha (modern Kirkuk)
+⚠️ Nagar        			Tell Brak ⚠️ "Nagar" 3rd BC Nawar "Neustadt" 𓊖
+
+Missing Old Name:
+Tell Leilan 
+Halah (Hebrew: חֲלַח, Ḥălạḥ;
+Gird-î Qalrakh

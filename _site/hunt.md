@@ -1,0 +1,13 @@
+-e ---
+---
+[𓅲](𓅲)  
+
+𓏎 𓇯 𓀭 | (divinity) ᵈOnuris | ᵈHunter / War God 𓏎𓏎𓏎 Honour!  
+𓏎 𓈖 𓁷 𓂋 𓏏 𓈐 𓅆 | ᵈAnhur™ | [Anhur](Anhur.html) Anhorus •Bringert  
+
+𒇽𒄭𒃻𒊏	lu₂dub₃-ĝar-ra	hunter	ludubĝara	(sic)
+𒇽𒄭𒃻𒊏 Jäger (𒇽𒄭 ḫie.ĝara) ≈ 
+𒇽𒄭𒃻𒊏 शिकारी śikārī شکاری šekâri (𒊮 ŠA₃ĝara )
+
+tree 	ծառ 	caṙ 	t͡sɑr	𓅂 ṭīr @ tree ⇔ 𓅂 tʿṙčʿun t͡sɑr(in) : green 	+++	𓅂 ṭīr@tree	𒄑𒄷𒊓	NGIŠ.hu.sa  
+forest 	անտառ 	antaṙ 	ɑnˈtɑr	some tree, many tree, 𒄷𒊓 hun'tar ⇔ hunt	<++	hun'tar	𒄷𒊓	hu-sa  

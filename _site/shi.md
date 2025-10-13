@@ -1,0 +1,34 @@
+-e ---
+---
+ŠI	𒅆
+ŠID	𒋃
+ŠIKA	𒆷
+ŠIM	𒋆
+ŠIN	𒊿
+ŠINX	𒋋
+ŠINIG	𒋒
+ŠIR	𒋓
+ŠITA	𒋖
+ŠITA3	𒋥
+ŠITA4	𒌋𒆤
+𒋖	ŠITA
+𒋓	ŠIR
+𒋔	ŠIR tenû
+𒋕	ŠIR / ŠIR BUR / BUR
+
+𒋃	ŠID
+𒋄	ŠID×A
+𒋅	ŠID×IM
+𒋆	ŠIM
+𒋇	ŠIM×A
+𒋈	ŠIM×BAL
+𒋉	ŠIM×BULUG
+𒋊	ŠIM×DIN
+𒋋	ŠIM×GAR
+𒋌	ŠIM×IGI
+𒋍	ŠIM×IGI gunû
+𒋎	ŠIM×KUŠU2
+𒋏	ŠIM×LUL
+𒋐	ŠIM×MUG
+𒋑	ŠIM×SAL
+𒋒	ŠINIG

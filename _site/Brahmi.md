@@ -1,0 +1,181 @@
+𑁍		LOTUS !  
+
+0	𑁦  
+1	𑁧	𑁒	𑁛		α 	A  
+2	𑁨	𑁓	𑁜		β	Ba  
+3	𑁩	𑁔	𑁝		Γ	Ca  
+4	𑁪	𑁕	𑁞		δζ	D' 𑀓 kaᵗ / yaᵗ  
+5	𑁫	𑁖	𑁟		εj  
+6	𑁬	𑁗	𑁠		ƒε ζ ∑imn  
+7	𑁭	𑁘	𑁡		η	sHavn  
+8	𑁮	𑁙	𑁢		θ	La 𑁙 / Thaural 𑁮  
+9	𑁯	𑁚	𑁣		ι Bhim 𑁯𑁚 !?  
+10	𑁧𑁦 𑁨𑁦 𑁩𑁦			κ deKa sKore  
+100 𑁤  
+1000 𑁥		vs 𓍢 α vs 900=30*30  
+
+
+
+Prakit written in Brahmi script  3rd century BCE to the 8th century CE.  
+
+Brahmi  |k|kh|g|gh|ṅ|c|ch|j|jh|ñ|ṭ|ṭh|ḍ|ḍh|ṇ|t|th|d|dh|n|p|ph|b|bh|m|y|r|l|v|ś|ṣ|s|h|ḷ-  
+--------|-|--|-|--|-|-|--|-|--|-|-|--|-|--|-|-|--|-|--|-|-|--|-|--|-|-|-|-|-|-|-|-|-|-  
+Brahmi-a|𑀓|𑀔 |𑀕|𑀖|𑀗|𑀘 |𑀙 |𑀚|𑀛 |𑀜|𑀝|𑀞|𑀟|𑀠 |𑀡 |𑀢|𑀣|𑀤 |𑀥 |𑀦|𑀧|𑀨 |𑀩|𑀪|𑀫|𑀬|𑀭|𑀮|𑀯|𑀰|𑀱|𑀲|𑀳|𑀴  
+Brahmi-ā|𑀓𑀸|𑀔𑀸 |𑀕𑀸|𑀖𑀸|𑀗𑀸|𑀘𑀸 |𑀙𑀸 |𑀚𑀸|𑀛𑀸 |𑀜𑀸|𑀝𑀸|𑀞𑀸|𑀟𑀸|𑀠𑀸 |𑀡𑀸 |𑀢𑀸|𑀣𑀸|𑀤𑀸 |𑀥𑀸 |𑀦𑀸|𑀧𑀸|𑀨𑀸 |𑀩𑀸|𑀪𑀸|𑀫𑀸|𑀬𑀸|𑀭𑀸|𑀮𑀸|𑀯𑀸|𑀰𑀸|𑀱𑀸|𑀲𑀸|𑀳𑀸|𑀴𑀸  
+Brahmi-i|𑀓𑀺|𑀔𑀺 |𑀕𑀺|𑀖𑀺|𑀗𑀺|𑀘𑀺 |𑀙𑀺 |𑀚𑀺|𑀛𑀺 |𑀜𑀺|𑀝𑀺|𑀞𑀺|𑀟𑀺|𑀠𑀺 |𑀡𑀺 |𑀢𑀺|𑀣𑀺|𑀤𑀺 |𑀥𑀺 |𑀦𑀺|𑀧𑀺|𑀨𑀺 |𑀩𑀺|𑀪𑀺|𑀫𑀺|𑀬𑀺|𑀭𑀺|𑀮𑀺|𑀯𑀺|𑀰𑀺|𑀱𑀺|𑀲𑀺|𑀳𑀺|𑀴𑀺  
+Brahmi-ī|𑀓𑀻|𑀔𑀻 |𑀕𑀻|𑀖𑀻|𑀗𑀻|𑀘𑀻 |𑀙𑀻 |𑀚𑀻|𑀛𑀻 |𑀜𑀻|𑀝𑀻|𑀞𑀻|𑀟𑀻|𑀠𑀻 |𑀡𑀻 |𑀢𑀻|𑀣𑀻|𑀤𑀻 |𑀥𑀻 |𑀦𑀻|𑀧𑀻|𑀨𑀻 |𑀩𑀻|𑀪𑀻|𑀫𑀻|𑀬𑀻|𑀭𑀻|𑀮𑀻|𑀯𑀻|𑀰𑀻|𑀱𑀻|𑀲𑀻|𑀳𑀻|𑀴𑀻  
+Brahmi-u|𑀓𑀼|𑀔𑀼 |𑀕𑀼|𑀖𑀼|𑀗𑀼|𑀘𑀼 |𑀙𑀼 |𑀚𑀼|𑀛𑀼 |𑀜𑀼|𑀝𑀼|𑀞𑀼|𑀟𑀼|𑀠𑀼 |𑀡𑀼 |𑀢𑀼|𑀣𑀼|𑀤𑀼 |𑀥𑀼 |𑀦𑀼|𑀧𑀼|𑀨𑀼 |𑀩𑀼|𑀪𑀼|𑀫𑀼|𑀬𑀼|𑀭𑀼|𑀮𑀼|𑀯𑀼|𑀰𑀼|𑀱𑀼|𑀲𑀼|𑀳𑀼|𑀴𑀼  
+Brahmi-ū|𑀓𑀽|𑀔𑀽 |𑀕𑀽|𑀖𑀽|𑀗𑀽|𑀘𑀽 |𑀙𑀽 |𑀚𑀽|𑀛𑀽 |𑀜𑀽|𑀝𑀽|𑀞𑀽|𑀟𑀽|𑀠𑀽 |𑀡 |𑀢𑀽|𑀣𑀽|𑀤𑀽 |𑀥𑀽 |𑀦𑀽|𑀧𑀽|𑀨𑀽 |𑀩𑀽|𑀪𑀽|𑀫𑀽|𑀬𑀽|𑀭𑀽|𑀮𑀽|𑀯𑀽|𑀰𑀽|𑀱𑀽|𑀲𑀽|𑀳𑀽|𑀴𑀽  
+Brahmi-e|𑀓𑁂|𑀔𑁂 |𑀕𑁂|𑀖𑁂|𑀗𑁂|𑀘𑁂 |𑀙𑁂 |𑀚𑁂|𑀛𑁂 |𑀜𑁂|𑀝𑁂|𑀞𑁂|𑀟𑁂|𑀠𑁂 |𑀡 |𑀢𑁂|𑀣𑁂|𑀤𑁂 |𑀥𑁂 |𑀦𑁂|𑀧𑁂|𑀨𑁂 |𑀩𑁂|𑀪𑁂|𑀫𑁂|𑀬𑁂|𑀭𑁂|𑀮𑁂|𑀯𑁂|𑀰𑁂|𑀱𑁂|𑀲𑁂|𑀳𑁂|𑀴𑁂  
+Brahmi-Ø|𑀓𑁆|𑀔𑁆 |𑀕𑁆|𑀖𑁆|𑀗𑁆|𑀘𑁆 |𑀙𑁆 |𑀚𑁆|𑀛𑁆 |𑀜𑁆|𑀝𑁆|𑀞𑁆|𑀟𑁆|𑀠𑁆 |𑀡𑁆 |𑀢𑁆|𑀣𑁆|𑀤𑁆 |𑀥𑁆 |𑀦𑁆|𑀧𑁆|𑀨𑁆 |𑀩𑁆|𑀪𑁆|𑀫𑁆|𑀬𑁆|𑀭𑁆|𑀮𑁆|𑀯𑁆|𑀰𑁆|𑀱𑁆|𑀲𑁆|𑀳𑁆|𑀴𑁆  
+Brahmi-o|𑀓𑁄|𑀔𑁄 |𑀕𑁄|𑀖𑁄|𑀗𑁄|𑀘𑁄 |𑀙𑁄 |𑀚𑁄|𑀛𑁄|𑀜𑁄|𑀝𑁄|𑀞𑁄|𑀟𑁄|𑀠𑁄 |𑀡 |𑀢𑁄|𑀣𑁄|𑀤𑁄 |𑀥𑁄 |𑀦𑁄|𑀧𑁄|𑀨𑁄 |𑀩𑁄|𑀪𑁄|𑀫𑁄|𑀬𑁄|𑀭𑁄|𑀮𑁄|𑀯𑁄|𑀰𑁄|𑀱𑁄|𑀲𑁄|𑀳𑁄|𑀴𑁄  
+
+
+a|𑀩|EG|phone|note  
+-|-|--|-----|----  
+b|𑀨|𓃀|ph|foot,bein,pod  
+b|𑀧|𓃀|p|pod  
+C|𑀝|𓍿|ṭ|𓎀 𐊢 carian D  
+ɖ|𑀙|𓐍?|ch|𓁷 𐤒 qōp qoph? q  
+ẟ|𑀘|𓎡|c| hieratic ok  
+d|𑀠|𓆓|ḍh|𓂞 𓂧 ?  
+Δ|𑀕|𓎼|ɠ|  
+E|𑀚|𓇋|j| [ε](ε) [jepsilon](silent)  
+F|𑀪|𓉐|bh|Pforte π Pfeiler  
+F|𑀊|𓆑|uu|fuvw  
+G|𑀖|𓐍|g| 𓎼 ⇔ 𑀳:h  𓎛 𓉔 ?  
+𓋴|𑀔|𓋴|kh|Γ s  
+?|𑀳|𓉔|h|? 𑀬:j ?  
+i|𑀯|𓎗|v|viᵈ #wD  
+𓇋|𑀚|𓇋|j|[jeepsilon](silent)  
+j|𑀬|?|y| ⚓ 𓋹 ?  
+K|𑀓|𓊖|K| KUR [𒉽](𒉽.html) 𐀏 KA 𐊨 Q 𑁣 керла 𓐍  
+L|𑀮|𓏯|l|𓃭⇔ h:𑀳 ⇔ ḷ:𑀴  
+ⲙ|𑀫|𓅓|m|م 𐀔 ma 𓅓 𒄷  
+נ|𑀗|𓈖|ṅ|n  
+n|𑀡|𐦊|n|נג 工	 gōng 𐀙 na  
+ñ|𑀜|𓆳|ñ|נג anno ?  year  
+o|𑀯|𓊪|v|voi waw  
+p|𑀩|𓊪|b|bhoi pho  
+π|𑀪|𓉐|bh|port  
+Q|𑀓|𓊖|K| 𐊨 Q [𒉽](𒉽.html) KUR 𐀏 KA 𑁣 керла 𓐍  
+Q|𑀙|𓐍|ch|𐤒 𓁷 qōp qoph? φ  
+r|𑀭𑀸|𓎫|𑀭|rhein 𓂋𓂝𓄿𓈖 ⇔ lam 𐩡  
+∑|𑀰|𓇶|ś|sarah samaš sh sch 𑀰 𐊰 carian S ∑ ש 𓈉 𐀯	si 𐙛 si 𐙙 𐙦 𐘫 chien?  
+θ|𑀞|𓇳|ṭh|sarah 𓇶 > solar disc ☼ ס σ  
+Θ|𑀣|𓇳|th|sarah 𓇶 > solar disc ☼ ס σ  
+𓋴|𑀲|𓋴|s|? 𑀲𑀮 sol 𑀳𑀮𑀬 heli ?  
+t|𑀱|𓋴|ṣ|  
+T|𑀢𑁄|𓏏|t|𑀢 𑀕 Δ D 𓇮  
+v|𑀯|𓎗|v|vi VAᵈ	#wD  
+x|𑀓|𓊖|K|cross 𑀌 [𒉽](𒉽.html) 𐀏 KA 𐊨 Q 𑁣 керла 𓐍  
+y|𑀛|?|jh|jhpsilon ⇔ 𑀬 y 𓎡?  
+z|𑀟|𓊨|ḍ| st 𑀟𑀺 [𓊍](𓊍) stair 𓊃  
+
+Strangely there seams to be a second alphabet  
+
+Reduced alphabet:  
+𑀐	𓂝𓂞𓂢	AI	𑀅	ЯA	𑀏	E  
+𑀨	𓃀	PHA 	𑀧	PA	𑀩	BA  
+𑀝	𓍿𓎀𓂓 	TTA 	𑀗	NGA	𑀘	CA  δa  
+𑀥	𓏏	DHA 	𑀤	DA 	𑀠	dDDHA  
+𑀚	𓇋	JA	ˠε	•eea 	𑀏	Ea  𓂞  
+𑀊	 𓆑	W	𑀪	FA  
+𑀕	𓎼	GA	𑀔	KHA	DG!	Γ Gamma Gabel 𑀕  
+𑀅	𓉔 	hA	𑀳	cHA  
+𑀇	𓏥	I 	𑀈	II  
+𑀬	𓆳	YA	𑀛		JHA  
+𑀅	𓉔𓊖 	'A	𑀓		KA  
+𑀮	L	LA 	 𑀉	U	 𑀊	UU  
+𑀫	 𓅓𓍱 	MAš			 𓍱 𓍲	Meer 𓋳 µocean  
+𑀦	𓈖𓏤  𐦊𓏤 	NA 	𑀡	NNA	 𑀗	NGA 𓈖 eiNz ¬ zaiN  
+𑀩	𓊪	BA 	𑀧	PA	𑀑	O  
+𑀧	𓃀	PA	𑀨	PHA  
+𑀪	𓉐 	BHA	𑀪	FAi π !	𑀑  
+𑀙	𓁷𓐍𓈎?	CHA		Q  
+𑀭	𓎫	rA	𑀌	RRx	𑀶	RRA  
+𑀱	𓋴	SSAb 	𑀲	SA 	𑀔	KHA  
+𑀞	𓊘𓇸𓇷𓇳?	TTHA	𑀣	THA 	𑀑	O Θ θ Theta  σ 𑀞𑀑 = Sol  
+𑀢	𓂞?	TA 		Teil	𑀢	Teil  
+𑀊	𓆑𓂢	UU	𑀉	ˡUˡ	𑀊	Elle  
+𑀯	𓎗	VAᵈ	φ	#wD  
+𑀋	𓏴𓊖	RR		•CHR  
+𑀛	𓆑	YHA  
+𑀟	𓊨𓊃	zDDA 			𑀱	SSA 𑀲  
+𑀰	𓆰𓇐	SHA  
+
+
+𑀃		JIHVAMULIYA 	𑀄		UPADHMANIYA  
+
+𑀆		AA  
+𑀒	 	AU  
+𑀐		AI  
+𑀩		BA  
+𑀧		PA  
+𑀤		DA  
+𑀥		DHA  
+𑀇		I  
+𑀈		II  
+𑀋		R  
+𑀌		RR  
+𑀍		L  
+𑀎		LL  
+𑀏		E  
+𑀑		O  
+𑀓		KA  
+𑀔		KHA  
+𑀕		GA  
+𑀖		GHA  
+𑀗		NGA  
+𑀘		CA  
+𑀙		CHA	Q  
+𑀚		JA  
+𑀛		JHA  
+𑀜		NYA  
+𑀝		TTA  
+𑀞		TTHA  
+𑀟		DDA  
+𑀠		DDHA  
+𑀡		NNA  
+𑀢		TA  
+𑀉		U  
+𑀊		UU  
+𑀣		THA  
+𑀦		NA  
+𑀫		MA  
+𑀨		PHA  
+𑀪		BHA  
+𑀬		YA  
+𑀭		RA  
+𑀮		LA  
+𑀯		VA  
+𑀰		SHA  
+𑀱		SSA  
+𑀲		SA  
+𑀳		HA  
+𑀴		LLA  
+𑀵		LLLA  
+𑀶		RRA  
+𑀷		NNNA  
+𑀸		AA  
+𑀹		AA  
+𑀺		I  
+𑀻		II  
+𑀼		U  
+𑀽		UU  
+𑀾		R  
+𑀿		RR  
+𑁀		L  
+𑁁		LL  
+𑁂		E  
+𑁃		AI  
+𑁄		O  
+𑁅		AU  
+𑁆		VIRAMA  
+𑁇		DANDA  
+𑁈		DOUBLE DANDA  
+𑁉		DOT  
+𑁊		DOUBLE DOT  
+𑁋		LINE  
+𑁌		CRESCENT BAR  
+𑁍		LOTUS !  

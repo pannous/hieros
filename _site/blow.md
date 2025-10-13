@@ -1,0 +1,5 @@
+-e ---
+---
+𒇧 bul "blow" blasen ( 𒌗 Sîn )
+𒇡 bul₅  "blow" blasen (𒋧 	SUM)
+𒅮	bul₄  "blow" blöken? ( KA×IM  𒅗𒅎 )  

@@ -1,0 +1,83 @@
+-e ---
+---
+U40 [𓍟](𓍟.html)
+T13 [𓌘](𓌘.html)   rise    rect    bow-string          richt errichten  
+U39 [𓍞](𓍞.html)   rise    reiß    post of balance  
+
+[𓇳](𓇳.html) rays [𓇶](𓇶.html) ⇔ rise  
+[𓇳](𓇳.html) 日出 rìchū sun-rise  
+
+[𒌓](𒌓.html)
+[𒁺](𒁺.html) RE₆ ri₆ ra₂ rise in 𒌓𒌓𒁺 sunrise (utu-e₃)
+
+𒊑𒅆 ri-ši riši "rise, raise" !
+
+𒅈𒄭𒅖 ar-ḫi-iš
+𒅈𒄭𒅖 arise, immediately come
+
+ⲣⲁⲛⲥⲉ ranse - promote
+
+[𓁼](𓁼.html)  
+
+ر ق ي	r-q-y	رَقِيَ raqiya rec:rise (erect)  
+
+[𒊕](𒊕.html)𒈬 RIŠ "rise" e.g. in Reš 𒊕𒈬  first [season](season.html)  𓉐 𓂋 𓏏 𓇳 [proto](proto.html) ⇔ [ב](π)reshid בראשית  
+
+[make](make.html)[rise](rise.html) macros megalos [ma](ma.html)groß  > mega [gal](gal.html)  
+
+𓂋 𓊃 𓌘 𓁼 | wake | rise / resurrect ⇔  
+𓂋 𓊃 𓌘 𓏲 𓏏 𓁹 𓏥 | awakening, dream | recent rising risen arise երազ eraz +++  
+𓂋 𓋴 𓏲 𓏏 𓁹 𓏥 | dream | resver™ > rêve “rise” ☑  *reexvadō *reexvagus ƒ  
+𓂋 𓋴 𓏲 𓏏 𓁹 𓏥 | dream | •rugyat رُؤْيَا ruʾyā  > رویا rowyâ röya Reue?  
+
+𓇋 𓂝 𓂋 𓈐 | mount up, ascend | > arise  
+
+causative form:  
+
+𒄿𒁺𒈾𒋗 	ˢi-du naʳᶥ-šu  raise the arm ⇔ [rise](rise.html)  
+
+𓋴 𓂋 𓌘 𓋴 𓄛  / sa'rise 𓂋 𓌘 𓋴 𓄛  
+
+𓋴 𓂝 𓂋 𓂻 | cause to ascend, make to rise (in rank) | surge sergeant ⇔ [super](super.html) ?  
+𓋴 𓂋 𓌘 𓋴 𓄛 | awaken, take command of (corps) | surge ⇔ sa'rise 𓂋 𓌘 𓋴  
+𓋴 𓂋 𓂧 𓇟 | erect (monuments) | sorgere² surge  
+
+𓋴 𓈖 𓉔 𓊪 𓇳 | rise early | sun ⇔ stand  
+𓊢 𓂝 𓂻 | stand, stand by, stand erect, raise oneself , stand up, rise up, arise, attend, wait, lifetime |  
+𓏏 𓃹 𓈖 | rise, raise | √tenō ziehen ⇔ otoño ⇔ 𓊢 𓂝 𓂻 stand  
+
+𓈍 𓂝 𓏜 | rise (of sun), appear in glory (of god or king), be shining (of kings) |  
+𓈍 𓂝 𓂋 𓂡 | rage | takeru@taç düh@Hun tuh@Chin 火头 whuǒtóu ⋍rise ^^  𐎼𐎥𐎶 (ragam)  
+
+𓇼 𓄿 𓇳 | rise early | ⇔ [𓇼](𓇼.html) [east](east.html)er  
+
+𓌘 𓁹 | wake | rise  
+
+𓂋 𓂧 𓇟 | grow | rithe rise [reach](reach.html) growth  
+
+# lebanon levānte levitate
+𓅱 𓃀 𓈖 𓏌 𓅱 𓇳 | eastern, the east | levante לְבָנוֹן  ⇔ Lebanon 𓂋𓏠𓈖𓈖𓈉 ⇔ Venus 𓃀 𓈖 𓏌  
+𓅱 𓃀 𓈖 𓇳 | rise, shine, glitter, appear, overflow, be excessive | levānte “raising” (sun) ⇔ levante ^^ +++  
+𓅱 𓃀 𓈖 𓇶 | rise, shine, glitter, appear, overflow, be excessive | mwaban / mæ'an :لمعان le mæ'an ! /  
+𓅱 𓃀 𓈖 𓇶 | glitter, shine | ⇔  photon ALBAN lvhn! λευκαίν / a'λευan! λευκαίν ⇔ levkain leukon luka leuch  
+
+𓅱 𓃀 𓈖 𓇶 ⇔ 𓅱 𓎼 𓃀 𓇶 •exponder ⇔ expand ?  
+
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | огрев ogrev +++ *grěvъ “shining, warmth” => изгрев izgrev “sunrise” ⇔ огрева  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | mugvayn ➙ Morgen PIE  *merkʷ- “to blink, twinkle”  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | amanecer … 𓃀 𓇶  Latin mane “morning”  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | •µ.g.b.® macheo@Swahili Antonym: machweo مَغْرِب maḡrib [west](west.html) vs [east](east.html)  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | •µ.g.b.® ⇔ kauṃ-parki @Tocharian ᎧᎸᎬ kalvgv  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | güne-ob-rise ⇔ solopgang זונאויפֿגאַנג zunoyfgang განთიადი gantiadi გარიჟრაჟი (garižraži)  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | solopgang reverse sol.ob.gang  𓇶 𓃀 𓎼 𓅱  ⇔ شُرُوق šurūq zurück зорък zorǎk 𓂋 𓋴 𓌆 watchful  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | 日出 rìchū זריחה \ זְרִיחָה zrikhá რიჟრაჟი rižraži rays-rise ++  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | सूर्योदय sūryoday sara-ryo-day  dögun dag,gün<<  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | արևածագ arewacag  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | •µ.g.b.®  •gobeti ko'êtî ?  
+𓅱 𓎼 𓃀 𓇶 | rise (of sun) | изгрев izgrev opposite : مَغْرِب maḡrib غُرَاب ḡurāb ⇔ شُرُوق šurūq (aš-šams)  
+
+𒂊𒇻 	e-lu  
+𒂊𒇻 	arise, exalted, high, tall, to be high, to cross over, to go up  
+
+tall طَلَعَ ṭalaʕa يَطْلُعُ yaṭluʕu to go up, ascend, rise
+𓏏 𓋁 𓏮 | The East | طلوع tolu' (Ana)Tolia ανατολή anatolí ( sun rise )

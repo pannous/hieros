@@ -1,0 +1,42 @@
+-e ---
+---
+𔒒 #SPHINX 󳦢 󳦣 󳦤 󳦥 󳦦 󳦧 󳦨 󳦩 󳦪 󳦫 󳦬 󳦭 󳦮 󳦯 󳦰 󳦱 󳦲 󳦳 󳦴
+
+𓅃 𓐝 𓈌 | sphinx
+
+𓊏 𓊪 𓏲 𓏯 šzp.p.vn.𓏯  sphinx  
+𓊏 𓊪 𓏲 𓏯 sp.p.vn.𓏯  Σφίγξ σφίγγω (sphíngō, “to squeeze, to strangle” (whence also sphincter)  
+
+𓊏 𓊪 𓅱 𓏯 | sphinx | sphinkel ⇔ zwinker  
+𓊏 𓊪 𓅱 | sphinx | sphounx ⇔ phounix, statue, δφαίν devine shine 2 zwein(boss/lion):basileon  *cephaleonus  
+𓊏 𓊪 𓋹 | sphinx | sphank šzp-ꜥnḫ living image ⇔ 𓋭 s'face  
+𓊃 𓊏 𓊪 𓋹 | sphinx | zphank ⇔ statue  
+𓋴 𓊪 𓋹 | sphinx | sphank ⇔ statue ⇔ thanx 𓋹 sankh  
+
+𓊏 𓊪 𓇳 | (adj.) white, bright | >shine spho phosphore star photon / vs κονιά whitewash / κοnιά kοnia / λευκ.ός white, bright / lευκic leyk leuko leucht, licht / ⇔ lykos / arg : silver-white ←??> Ebr, Elb, Alb, Alp ? ⇔ asp esp shine  
+
+𓊏 𓊪 𓇶 | dawn, light | ⇔ seven 𓊃𓊏𓊪 7 𓋴𓆑𓎛𓅱 am-pm  
+𓊏 𓊪 𓇶 | (adj.) white, bright | shine ⇔ φαίν sphinx  
+𓊏 𓊪 𓇹 | one seventh of a cubit (measurement) | 1/7 ⋍ 1/sphinx  
+𓊏 𓊪 𓇹 | palm (of hand) | 手 shǒu-palm? stapa-myo@Amazon  
+𓊏 𓊪 𓂧 | palm (of hand) | span / Pfote / cheiro  
+
+𓃀 𓈖 𓏏 𓏮 𓃻 | two baboons (which greet the morning sun) | ⇔ 
+
+𓋭 | model (face of sphinx) | face  
+
+𓈈 | s'fence, spencer,sphinx |  
+𓈈 | (divinity) the desert-god |  
+
+
+
+𒀊𒊓𒋢 	ap-sa-su  
+𒀊𒊓𒋢 	(a myth. animal with the body of a cow), (an exotic bovid), sphinx  
+
+
+𒆠𒈤𒄷 	ki-maḫ-ḫu ⇔ kur [mega](mega.html) kurgan قَبْر qabr grave ܩܰܘܪܳܐ qawro  
+𒆠𒈤𒄷 	ki-maḫ-ḫu ⇔ 𒈤 𓄂 sphinx !  
+𒆠𒈤𒄷 	grave, tomb  
+
+𒆠𒈤	ki-mah kimah #kimahhu Kammer chamber •comba tombe სამარე samare գերեզման gerezman!
+𒆠𒈤 grave; a cultic place; <> 𐎖𐎁𐎗 qbr Kuhle (𒈤 leo) qambra≈grabma
