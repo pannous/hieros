@@ -142,7 +142,7 @@ PREFIXes
 ϫⲓⲛ- SYN- CON- !!!
 ⲣⲉϥ- ⲣⲉⲙ- Röman- ⲣⲉϥ : Racker person re-... ϥ who? qui? --
 
-ⲥⲟⲙⲥ 	 	look, behold
+ⲥⲟⲙⲥ 	 	look, behold  𓌴 𓁹 𓄿 𓄿 <> ϫⲓⲛⲥⲟⲙⲥ ϫⲟⲩϣⲧ <> ⲙⲉⲗⲭ ⲓⲉⲣ- 𓁹
  ⲉ- 	 look at, consider
  ⲉϫⲉⲛ- 	 look upon, at
  ⲛⲥⲁ- 	 look after, at
@@ -218,38 +218,39 @@ DICTIONARY CAMUS
 ⲁⲃⲟⲧ ⲭpl. ⲁⲃⲏⲧ , ϣⲍ ⲁϣ pl.	 	m. month
 ⲁⲃⲓⲧ 	n. monday << ⲃⲓⲧ first<>mono 1?
 
-ⲁⲃⲁⲛ ↔ ⲁⲟⲩⲁⲛ 	 color : paint ++
+ⲁⲃⲁⲛ ↔ ⲁⲟⲩⲁⲛ 	 color : paint ++ <> 𓆓 𓂝 𓌠 𓃀 | coal-black ?
 ⲁⲃⲓ ⲁⲃⲁⲛ ↔ ⲁⲟⲩⲁⲛ 	 Farben++ a variety of colors (ⲁ=al FA)
-ⲁⲃⲓⲛ ↔ ⲁⲟⲩⲁⲛ 	 cargo ~ ⲁⲃⲓⲛ ~ combine
+ⲁⲃⲓⲛ ↔ ⲁⲟⲩⲁⲛ 	 cargo ~ ⲁⲃⲓⲛ ~ combine < •adphon 𓄿 𓏏 𓊪 𓅱 𓍝 @ shâphoina 𓊝
 ⲁⲃⲏⲛ ↔ ⲁⲟⲩⲁⲛ 	 cargo ?
 ⲁⲃⲟⲕ ↔ ⲁⲃⲱⲕ 	 black crow 𓅡𓎡𓅂 ⲃⲱⲕ! +~+
 ⲁⲃⲟⲕⲓ ↔ ⲁⲃⲱⲕ 	 she crow ↔ slave!  -ⲓ = ine (feminine)
 ⲁⲃⲟⲕⲓ ⲁⲛⲇ ϣⲍ ⲁϣ ⲡⲗ	 ; m. crowraven wtf;) <<
 ⲁⲃⲟⲩⲓ ↔ ⲁϥ 	 flesh  ⲃⲟⲩ VlAiSH ++-- vs ⲩⲓ ~ ròu 肉 
-ⲁⲃⲣⲁⲥⲓⲱⲛ 	 🇬🇷 n. the abundance of grass and plants ↔ gras~ⲃⲣⲁⲥ??
-ⲁⲃⲣⲉⲙ 	n. something cooked, baked,ripe ~ auf'warm!
+ⲁⲃⲣⲁⲥⲓⲱⲛ 	 🇬🇷 n. the abundance of grass and plants ↔ gras~ⲃⲣⲁⲥ?? "abRasen abracion"
+ⲁⲃⲣⲉⲙ 	n. something cooked, baked, ripe  ~ auf'warm / bremmen 𓏌 𓊪 𓅱 𓇋 𓇋 / 𓍯 𓄿 𓅓 𓊮 / 
 ⲁⲃⲣⲓⲗⲗⲟⲥ 	 🇬🇷 n. the month `april`
 ⲁⲃⲥⲱⲛ , ⲁⲩⲥⲟⲛ 	m. wild mint 	absint?
-ⲁⲃⲱ 	f. dragnet, netabwk , abok (seldom), f. aboki , pl
+ⲁⲃⲱ 	f. dragnet, net  abwk , abok (seldom), f. aboki , pl <> 𓍵 𓈖 𓏳 / 𓍲 𓈖 𓏌 𓏲 𓍢 / 𓍈 𓋥 
+ⲁⲃⲱ 	f. dragnet <> 𓌥 𓃀 𓅱 𓆱 𓏥 | floats (of net) | ?
 ⲁⲍⲁⲑⲁⲣⲧⲟⲥ ⳼ ⲁⲕⲁⲑⲁⲣⲧⲟⲥ 	 🇬🇷 unclean ἀκάθαρτ.ος
 ⲁⲍⲁⲑⲏ ↔ ⲁⲍⲁⲑⲟⲥ 	 🇬🇷 good (f)
-ⲁⲍⲁⲑⲟⲛ ↔ ⲁⲍⲁⲑⲟⲥ 	 🇬🇷 good ++
+ⲁⲍⲁⲑⲟⲛ ↔ ⲁⲍⲁⲑⲟⲥ 	 🇬🇷 good ++  ⲍ
 ⲁⲍⲁⲑⲟⲥ , -ⲟⲛ , ϥ. -ⲑⲏ 	 🇬🇷 adj. good,righteous, noble a'good<agados<ⲁⲍⲁⲑⲟⲥ 
 ⲁⲍⲁⲗⲙⲁ 	 🇬🇷 unknown 	az-alma<>lemma?
 ⲁⲍⲁⲡⲏ , -ⲏⲥ 	 🇬🇷 f. love, brotherly love,love of god, charity, alms, a love feast
 ⲁⲍⲁⲡⲏⲧⲟⲥ 	 adj. 🇬🇷 beloved
 ⲉⲣⲁⲍⲁⲡⲁⲛ 	 love : 🇬🇷 EROTA'fairn  ⲉⲣ.ⲁⲍⲁⲡⲁⲛ faire.azapan <<
 ⲁⲍⲁⲡⲏⲥ ↔ ⲁⲍⲁⲡⲏ 	 love <ⲍⲁⲡe> schlaf zofe? Sabine?
-ⲁⲍⲁⲡⲏⲧⲟⲥ ↔ ⲁⲍⲁⲡⲏ 	 beloved
-ⲁⲍⲁⲣⲓⲑⲟⲛⲓⲕⲟⲛ 	 🇬🇷 n. a kind of treefungus
+ⲁⲍⲁⲡⲏⲧⲟⲥ ↔ ⲁⲍⲁⲡⲏ 	 beloved  Egyptos 𓌸 𓂋 Mizraim !
+ⲁⲍⲁⲣⲓⲑⲟⲛⲓⲕⲟⲛ 	 🇬🇷 n. a kind of tree fungus
 ⲁⲍⲍⲉⲗⲟⲥ 	 🇬🇷 m. ANGEL, AGENT, messenger,envoy ++
-ⲁⲍⲍⲉⲗⲓⲁ 	 🇬🇷 f. a message, tidings,news, word, speech : angelia
+ⲁⲍⲍⲉⲗⲓⲁ 	 🇬🇷 f. a message, tidings, news, word, speech : angelia
 ⲁⲍⲍⲉⲗⲓⲕⲉⲛⲟⲥ 	 🇬🇷 m. ENGLISH in origin ++ (modern)
 ⲁⲍⲍⲏⲛ 	 🇬🇷 n. pot, vessel
 ⲁⲍⲉ , pl. ⲁⲍⲉⲧⲉ 	 🇬🇷 imperat of a'go=come!, come on!; interj. come now!
 ⲁⲍⲉⲗⲏ 	 🇬🇷 unknown
 ⲁⲍⲉⲗⲓ , ⲁⲕⲉⲗⲓ 	 🇬🇷 f. a herd of oxen,company  oxen~ⲁⲍⲉⲗ!!
-ⲁⲍⲉⲧⲉ ↔ ⲁⲍⲉ 	 come (pl)! a'go 
+ⲁⲍⲉⲧⲉ ↔ ⲁⲍⲉ 	 come (pl)! a'go 𓇍 / 𓉐 𓂋 𓂻 
 ⲁⲍⲓⲟⲛ ↔ ⲁⲍⲓⲟⲥ 	 🇬🇷 holy : Asien!?
 ⲁⲍⲓⲁ ↔ ⲁⲍⲓⲟⲥ 	 🇬🇷 holy : hagia  *hoigly?
 ⲁⲍⲓⲟⲥⲩⲛⲏ , -ⲟⲧⲏⲥ 	 🇬🇷 f. holiness,purity
@@ -296,13 +297,13 @@ agiacmoc :🇬🇷 mconsecrationsanctification, holiness
 ⲁⲑⲗⲟⲫⲟⲣⲟⲥ 	 🇬🇷 m. endurer of struugle
 ⲁⲑⲗⲟⲛ 	 🇬🇷 unknown
 
-ⲁⲑⲣⲉⲩ ↔ ⲁⲧⲣⲉ 	 twin `autre` +++ andere Andree !!!+++++
+ⲁⲑⲣⲉⲩ ↔ ⲁⲧⲣⲉ 	 twin `autre` +++ andere Andree !!++ 𓏮 𓏌 ≠ 𓌢 𓈖 𓏌 𓏲 𓏮 
 
-ⲁⲑⲣⲓⲟⲥ 	 🇬🇷 n. thou al-qaada, the 11thmonth of the arabic lunar calendar ?
+ⲁⲑⲣⲓⲟⲥ 	 🇬🇷 n. thou al-qaada, the 11th month of the arabic lunar calendar ?
 
 ⲁⲑⲱⲣ 	 	n. hatur, the 3rd month of the coptic calendar ↔ Hathor Arthur!
 
-ⲁⲓ⳼ ↔ ⲓⲣⲓ 	 to do  ~faire ++ <<
+ⲁⲓ⳼ ↔ ⲓⲣⲓ 	 to do  1. faire 2. doing ++ <<
 
 ⲁⲓⲁⲓ , ⲟⲓ (q)	 ; 𓉻𓂝𓄿 rise increase, advancein age; (q) great, honored
 
@@ -316,10 +317,11 @@ agiacmoc :🇬🇷 mconsecrationsanctification, holiness
 
 ⲁⲓⲕ 	 	m. consecration of a place
 ⲉⲣⲁⲓⲕ 	 ↔ to consecrate
-ϭⲓⲁⲓⲕ 	 ↔ to consecrate.ait/ma , et/ma demand, assumption, petition
+ϭⲓⲁⲓⲕ 	 ↔ to consecrate 𓋴 𓂦 𓏛 syᵈaik 𓋴 𓊹 𓍿 𓂋 𓈒 sy'aiker 
+ϭⲓⲁⲓⲕ.ait/ma , et/ma demand, assumption, petition  
 ⲁⲓⲟⲩ 	 	n. (w/ er- ) means to go or travel ~ way?
 
-ⲁⲕⲁⲑⲟⲥ ⳼ ⲁⲍⲁⲑⲟⲥ 	 good a'gusto = a'good ++
+ⲁⲕⲁⲑⲟⲥ ⳼ ⲁⲍⲁⲑⲟⲥ 	 good a'gusto = a'good kuth ++
 
 ⲁⲕⲁⲑⲁⲣⲧⲟⲛ ↔ ⲁⲕⲁⲑⲁⲣⲧⲟⲥ 	 unclean
 ⲁⲕⲁⲑⲁⲣⲧⲟⲥ , -ⲟⲛ 	 🇬🇷 adj. unclean,defiled, filthy (in body or mind)
@@ -328,20 +330,20 @@ agiacmoc :🇬🇷 mconsecrationsanctification, holiness
 ⲁⲕⲁⲕⲓⲁ , -ⲁⲥ 	 🇬🇷 adj. innocence,simplicity
 ⲁⲕⲁⲕⲓⲁⲥ ↔  ⲁⲕⲁⲕⲓⲁ 	 acacia ++
 ⲁⲕⲁⲕⲓⲁⲥ ↔  ⲁⲕⲁⲕⲓⲁ 	 innocence ?
-ⲁⲕⲉⲗⲓ ↔ ⲁⲍⲉⲗⲓ 	 herd of oxen ~ ⲁⲕⲉⲗ ++
+ⲁⲕⲉⲗⲓ ↔ ⲁⲍⲉⲗⲓ 	 herd of oxen ~ ⲁⲕⲉⲗ jockel ++
 ⲁⲕⲉⲣⲉⲟⲥ 	 🇬🇷 adj. meek
 ⲁⲕⲉⲣⲟⲥ 	 🇬🇷 adj. ill-timed, unseasonable
-ⲁⲕⲏⲥ 	 	m. girdle, breeches
-ⲁⲕⲓⲁ ⳼ ⲁⲍⲓⲁ 	 holy
+ⲁⲕⲏⲥ 	 	m. girdle, breeches <> 𓋭 axes  ⲙⲟϥϫ ⲙⲟⲩϫϥ 
+ⲁⲕⲓⲁ ⳼ ⲁⲍⲓⲁ 	 holy •hagia 🇬🇷
 ⲁⲕⲓⲗⲓⲁ 	 🇬🇷 f. a type of flies or plants
- ⲁⲕⲓⲛⲟⲥ 	 🇬🇷 f. a worm (?)
- ⲁⲕⲓⲛⲟⲥ 	 🇬🇷 m. basil-thyme
- ⲁⲕⲗⲏ , ⲕⲁⲗⲏ 	 	f. weasel
- ⲁⲕⲗⲏ , ⲕⲁⲗⲏ , ⲁⲕⲗⲓ , ⲁⲗⲕⲏ 	 	f. apottery vessel used for food or liquidstorage
-ⲁⲕⲗⲓ ↔ ⲁⲕⲗⲏ 	 pottery vessel
+ⲁⲕⲓⲛⲟⲥ 	 🇬🇷 f. a worm (?)
+ⲁⲕⲓⲛⲟⲥ 	 🇬🇷 m. basil-thyme
+ⲁⲕⲗⲏ , ⲕⲁⲗⲏ 	 	f. weasel <> Dackel
+ⲁⲕⲗⲏ , ⲕⲁⲗⲏ , ⲁⲕⲗⲓ , ⲁⲗⲕⲏ 	 	f. a pottery vessel used for food or liquid storage 𓈎 𓂋 𓎛 𓏏 𓎸 𓊠 
+ⲁⲕⲗⲓ ↔ ⲁⲕⲗⲏ 	 pottery vessel   a'Kelle 𓎡
 ⲁⲕⲙⲏⲛ 	 🇬🇷 adv. still as yet
 ⲁⲕⲭⲓⲱⲙⲁ ⳼ ⲁⲭⲓⲱⲙⲁ 	 honor : 🇬🇷 ?
-ⲁⲕⲟⲗⲟⲩⲑⲓⲁ 	 🇬🇷 unknown
+ⲁⲕⲟⲗⲟⲩⲑⲓⲁ 	 🇬🇷 unknown  acolyte? (Gefolgsmann/Messgehilfe?)
 ⲁⲕⲟⲛⲏ , -ⲏⲥ 	 🇬🇷 f. whetstone, bone
 ⲁⲕⲟⲛⲏⲥ ↔ ⲁⲕⲟⲛⲏ 	 bone ~ ⲕⲟⲛⲏ ↔ kauen++?
 ⲁⲕⲣⲁⲧⲟⲛ ↔ ⲁⲕⲣⲁⲧⲟⲥ 	 unmixed *ungraded
@@ -349,23 +351,25 @@ agiacmoc :🇬🇷 mconsecrationsanctification, holiness
 ⲁⲕⲣⲓⲃⲱⲥ 	 🇬🇷 adv. precisely
 ⲁⲕⲧⲏⲛ ↔ ⲁⲕⲧⲓⲥ 	 ray ↔ action!
 ⲁⲕⲧⲏⲣ ↔ ⲁⲕⲧⲓⲥ 	 ray ↔ actor ↔ akhen!?
-ⲁⲕⲧⲓⲛ ↔ ⲁⲕⲧⲓⲥ 	 ray
-ⲁⲕⲧⲓⲥ , ⲁⲕⲧⲏⲛ , ⲁⲕⲧⲓⲛ , ⲁⲕⲧⲏ ⲣ	 🇬🇷 mray, sunbeam; brightness, splendor,glory. carrion, filth, destruction
+ⲁⲕⲧⲓⲛ ↔ ⲁⲕⲧⲓⲥ 	 ray ↔ disk
+ⲁⲕⲧⲓⲥ , ⲁⲕⲧⲏⲛ , ⲁⲕⲧⲓⲛ , ⲁⲕⲧⲏ ⲣ	 🇬🇷 m ray, sunbeam; brightness, splendor,glory. carrion, filth, destruction <> Arktis?
 
-ⲁⲗ 	 . pebble; hailstone; testicle; spot,patch on skin, eruption ~ tion Ei! stein~chAIN ⲁⲗ : canon@canaan QED ++++
+ⲁⲗ 	 . pebble; hailstone; testicle; spot,patch on skin, eruption ~ tion Ei! stein~chAIN ⲁⲗ : canon@canaan QED ++++ (??;)
 
 ⲁⲗⲁⲃⲁⲥⲧⲣⲟⲥ , -ⲟⲛ 	 🇬🇷 m. alabaster,white marble; a case box or casket madeof alabaster esp. vessel for perfume
 ⲁⲗ	 ↔ aloli alabactron ↔ alabactroc -alabaster ++
 
-ⲁⲗⲁⲃⲗⲉⲃ ↔ ⲁⲗⲁⲡⲗⲉⲡ 	 to be weary
-ⲁⲗⲁⲡⲗⲉⲡ , ⲁⲗⲁⲃⲗⲉⲃ 	 	beweary, despondent
+ⲁⲗ / ⲁⲗⲁ al- à'la
 
-ⲁⲗⲁⲕ ↔ ϩⲁⲗⲁⲕ 	 ring <<?
+ⲁⲗⲁⲃⲗⲉⲃ ↔ ⲁⲗⲁⲡⲗⲉⲡ 	 to be weary  "à la pleb;)" bleb < bleak 𓃀 𓅡 𓄿 𓎼 𓀉 | weary
+ⲁⲗⲁⲡⲗⲉⲡ , ⲁⲗⲁⲃⲗⲉⲃ 	 	be weary, despondent
+
+ⲁⲗⲁⲕ ↔ ϩⲁⲗⲁⲕ 	 ring <<  छल्ला challāᶜ چلہ callaᶜ суркс ≈ ቀለበት ḳäläbät လက်စွပ် lakcwap балдаҡ baldaq
 
 ⲁⲗⲁⲛⲟⲛ 	 🇬🇷 a type of plant
-ⲁⲗⲁⲥⲱϯ 	 	pl. armies
+ⲁⲗⲁⲥⲱϯ 	 	pl. armies    à la 𓋴 𓄝 𓏏
 
-ⲁⲗⲁⲭⲓⲥⲧⲟⲥ 	 🇬🇷 adj. smallest, leastpoor miserable
+ⲁⲗⲁⲭⲓⲥⲧⲟⲥ 	 🇬🇷 adj. smallest, least / poor, miserable
 ⲁⲗⲉⲕⲧⲟⲣ ↔ ⲁⲗⲉⲕⲧⲣⲩⲱⲛ 	 cock
 ⲁⲗⲉⲕⲧⲣⲩⲟⲛⲟⲥ ↔ ⲁⲗⲉⲕⲧⲣⲩⲱⲛ 	 cock
 ⲁⲗⲉⲕⲧⲣⲩⲱⲛ , 	truonoc , 🇬🇷 nn mf. cock, hen
@@ -3975,7 +3979,7 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  	 n. mixture
 ⲙⲉⲧⲁⲧⲙⲟⲩϫⲧ 	 f. unmixedness
 ϫⲓⲛⲙⲟⲩϫⲧ 	 f. mixture, intercource
-ⲙⲟⲩϫq ↔ ⲙⲟϫq 	 girdle
+ⲙⲟⲩϫϥ ↔ ⲙⲟϫϥ 	 girdle
 ⲙⲟⲩϯ 	 	speak, call; vt. call,pronounce
  ⲉϫⲉⲛ- , ⲉϧⲣⲏⲓ ⲉϫⲉⲛ- 	 to call upon, cry to
  ⲟⲩⲃⲉ- 	 call upon, cry to
@@ -4039,10 +4043,10 @@ sⲉⲃⲇⲟⲙⲁⲥ 	 🇬🇷 f. a period of seven days,week, the number sev
  ⲉⲃⲟⲗ 	 burn, glow
 (4) ⲙⲟϩ 	 	look
  	 m. appearance
-ⲙⲟqϫ ↔ ⲙⲟϫq 	 girdle
+ⲙⲟϥϫ ↔ ⲙⲟϫϥ 	 girdle
 ⲙⲟϫⲧ⳼ ↔ ⲙⲟⲩϫⲧ 	 to mix
 ⲙⲟϫⲧ (q) ↔ ⲙⲟⲩϫⲧ 	 to be mixed
-ⲙⲟϫq , ⲙⲟⲩϫq , ⲙⲟqϫ 	 	m. girdleof a soldier or monk
+ⲙⲟϫϥ , ⲙⲟⲩϫϥ , ⲙⲟϥϫ 	 	m. girdleof a soldier or monk
 ⲙⲟϯ ↔ ⲙⲟⲩⲧ 	 neck
 ⲙⲡ⳼ ↔ ⲙⲡⲉ	 
 ⲙⲡⲁ⳼ ↔ ⲙⲡⲁⲣⲉ	 sent of habitude
