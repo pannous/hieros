@@ -51,3 +51,9 @@ _site
 .err
 *.err
 texts/rinap-json
+scripts/x
+scripts/y
+scripts/z
+x
+y
+z
