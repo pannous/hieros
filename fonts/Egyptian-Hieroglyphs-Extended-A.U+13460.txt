@@ -1,0 +1,8 @@
+13460	 𓑠 	Egyptian Hieroglyph-13460
+
+HAHA, Lastresort ttf shows 𓑠 for ALL Egyptian-Hieroglyphs-Extended-A !
+
+    Egyptian-Hieroglyphs-Extended-A (13460-U+143FF 4000 additional and 'Ptolemaic' signs)
+    The Unicode Standard, Version 16.0 (September 2024)
+
+    NO font yet!?

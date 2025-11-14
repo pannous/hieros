@@ -1,0 +1,4 @@
+glyphs: 4094
+clusters: 4076
+avg cluster size: 1.00
+top 20 cluster sizes: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1]
