@@ -1,0 +1,31 @@
+# EVA → Sound mapping derived from number_abc_mapping.txt
+# Format: EVA_char	sound	number	greek	notes
+# Primary mappings (glyph shape → number → Greek alphabet position → sound)
+o	a	1	α	most common glyph, article/prefix
+a	a	1	α	variant of glyph 1
+l	b	2	β	looks like 4 in contemporary latin
+d	c	3	γ	hard c/k sound
+r	d	4	δ	very common (freq 98)
+v	e	5	ε	looks like 7 in contemporary latin
+x	f	6	ζ	rare (freq 9)
+k	g	7	η	gallows character
+m	h	8	ι	gallows char, ≠ EVA k
+p	i	9	θ	gallows p-variant (freq 5)
+f	i	9	θ	gallows f-variant (freq 8)
+t	l	11	λ	ot ≈ al- prefix
+y	o	15	ω	most frequent (freq 151), ω≈w
+# Bench/modifier characters
+c	ch	16	χ	left bench, often in ch/ckh/cth digraphs
+h	_	16	χ	right bench, silent in digraphs (absorbed into ch)
+# Uncertain — kept as-is or best guess
+s	s	21?	μ?	possibly m-sound, keeping as sibilant
+e	e	-	-	connector/vowel in combinations
+i	i	14?	ξ?	sub-component stroke
+n	n	13?	ν?	sub-component stroke
+j	j	-	-	sub-component
+q	q	20?	-	prefix character (qo→qa)
+g	c	3	γ	suffix form of d (gamma)
+# Rare/special
+b	b	-	-	rare variant
+u	u	-	-	rare
+z	z	-	-	rare
