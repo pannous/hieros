@@ -1,31 +1,29 @@
-# EVA → Sound mapping derived from number_abc_mapping.txt
-# Format: EVA_char	unicode	sound	number	greek	notes
-# Primary mappings (glyph shape → number → Greek alphabet position → sound)
-o	󿐔	a	1	α	most common glyph, article/prefix
-a	󿐐	a	1	α	variant of glyph 1
-l	󿐚	b	2	β	looks like 4 in contemporary latin
-d	󿐉	c	3	γ	hard c/k sound
-r	󿐃	d	4	δ	very common (freq 98)
-v	󿐛	e	5	ε	looks like 7 in contemporary latin
-x	󿐜	f	6	ζ	rare (freq 9)
-k	󿐢	g	7	η	gallows character
-m	󿐄	h	8	ι	gallows char, ≠ EVA k
-p	󿐡	i	9	θ	gallows p-variant (freq 5)
-f	󿐠	i	9	θ	gallows f-variant (freq 8)
-t	󿐣	l	11	λ	ot ≈ al- prefix
-y	󿐗	o	15	ω	most frequent (freq 151), ω≈w
-# Bench/modifier characters
-c	󿐌	ch	16	χ	left bench, often in ch/ckh/cth digraphs
-h	󿐏	_	16	χ	right bench, silent in digraphs (absorbed into ch)
-# Uncertain — kept as-is or best guess
-s	󿐊	s	21?	μ?	possibly m-sound, keeping as sibilant
-e	󿐆	e	-	-	connector/vowel in combinations
-i	󿐀	i	14?	ξ?	sub-component stroke
-n	󿐁	n	13?	ν?	sub-component stroke
-j	󿐂	j	-	-	sub-component
-q	󿐝	q	20?	-	prefix character (qo→qa)
-g	󿐋	c	3	γ	suffix form of d (gamma)
-# Rare/special
-b	󿐈	b	-	-	rare variant
-u	󿐑	u	-	-	rare
-z	󿐞	z	-	-	rare
+				
+number	unicode	greek	sound	EVA	notes
+1	󿐔	α	a	o	most common glyph, article/prefix
+1	󿐐	α	oe	a	variant of glyph 1
+2	󿐚	β	b	l	looks like 4 in contemporary latin
+3	󿐋	γ	dg	g	suffix form of d (gamma)
+3	󿐉	γ	dh	d	
+4	󿐃	δ	d	r	very common (freq 98)
+5	󿐛	ε	e	v	looks like 7 in contemporary latin
+6	󿐜	ζ	f	x	rare (freq 9)
+7	󿐢	η	g	k	gallows character
+8	󿐄	ι	hy	m	gallows char, ≠ EVA k  󿐄 
+9	󿐡	θ	t	p	gallows p-variant (freq 5) th?
+9	󿐠	θ	t	f	gallows f-variant (freq 8) th?
+11	󿐣	λ	l	t	󿐔󿐣 ≈ al- prefix  r?
+12	󿐊	μ	m	s	󿐃? possibly m-sound, keeping as sibilant
+13	󿑪	ν	n	n	absent!
+14?	󿐀	ι	i	i	sub-component stroke 󿑫 
+15?	󿐂/ 󿑮	ξ?	k	j	sub-component 󿑫 
+16?	󿐁	s?	s	n	sub-component stroke 󿑫 
+15	󿐗	ω	ow	y	most frequent (freq 151), ω≈w
+16	󿐅/󿐌	χ	?	c	left bench, often in ch/ckh/cth digraphs
+16	󿐏	χ	?	h	right bench, silent in digraphs (absorbed into ch)
+16/17/18	󿑬/󿑀	?	?	?	
+-	󿐆	-	e	e	connector/vowel in combinations
+20?	󿐝	y	q	q	prefix character (qo→qa)
+-	󿐈	-	b	b	rare variant
+-	󿐑	-	u	u	rare
+-	󿐞	ι	c	z	rare same as k
