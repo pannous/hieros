@@ -1,53 +1,45 @@
 #!/usr/bin/env python3
-"""Convert Voynich EVA text to phonetic reading based on number_abc_mapping.txt
+"""Convert Voynich EVA text to phonetic reading based on eva_sound_mapping.tsv
 
 Mapping: glyph shape → number → Greek alphabet position → sound value
-  1→α:a  2→β:b  3→γ:c  4→δ:d  5→ε:e  6→ζ:f  7→η:g  8→ι:h
-  9→θ:i  11→λ:l  15→ω:o  16→χ:ch
+TSV columns: number  unicode  greek  sound  EVA  notes
 """
+import os
 import re
 import sys
 
-# Single-char EVA → sound (order matters for digraph pre-processing)
-EVA_SOUND = {
-    'o': 'a',   # 1 α
-    'a': 'a',   # 1 α variant
-    'l': 'b',   # 2 β
-    'd': 'c',   # 3 γ
-    'r': 'd',   # 4 δ
-    'v': 'e',   # 5 ε
-    'x': 'f',   # 6 ζ
-    'k': 'g',   # 7 η
-    'm': 'h',   # 8 ι
-    'p': 'i',   # 9 θ (p-form)
-    'f': 'i',   # 9 θ (f-form)
-    't': 'l',   # 11 λ
-    'y': 'o',   # 15 ω
-    'g': 'c',   # 3 γ suffix form
-    's': 's',   # uncertain (maybe μ=m)
-    'e': 'e',   # connector/vowel
-    'i': 'i',   # stroke
-    'n': 'n',   # stroke
-    'j': 'j',   # sub-component
-    'q': 'q',   # prefix
-    'c': 'c',   # 16 χ (left bench)
-    'h': 'h',   # right bench
-    'b': 'b',
-    'u': 'u',
-    'z': 'z',
-}
+def load_mapping(tsv_path='eva_sound_mapping.tsv'):
+    """Load EVA→sound mapping from TSV (columns: number unicode greek sound EVA notes)."""
+    if not os.path.isabs(tsv_path):
+        tsv_path = os.path.join(os.path.dirname(__file__) or '.', tsv_path)
+    eva_sound = {}
+    with open(tsv_path) as f:
+        for line in f:
+            line = line.rstrip('\n')
+            if not line or line.startswith('#'):
+                continue
+            cols = line.split('\t')
+            if len(cols) < 5:
+                continue
+            sound, eva = cols[3].strip(), cols[4].strip()
+            if not eva or not sound or sound == 'sound' or sound == '?':
+                continue
+            eva_sound[eva] = sound
+    return eva_sound
+
+EVA_SOUND = load_mapping()
 
 # Digraph/trigraph replacements applied BEFORE single-char mapping
 # These handle EVA bench+gallows combinations as unit sounds
 DIGRAPHS = [
     # gallows-in-bench: cXh → X with aspiration
-    ('cfh', 'çi'),   # bench + f-gallows → aspirated i
-    ('cph', 'çi'),   # bench + p-gallows → aspirated i
-    ('cth', 'çl'),   # bench + t-gallows → aspirated l
-    ('ckh', 'çg'),   # bench + k-gallows → aspirated g
+    ('cfh', 'çt'),   # bench + f-gallows
+    ('cph', 'çt'),   # bench + p-gallows
+    ('cth', 'çl'),   # bench + t-gallows
+    ('ckh', 'çg'),   # bench + k-gallows
     # bench digraphs
-    ('ch',  'ç'),    # chi → ç (voiceless velar/palatal)
-    ('sh',  'š'),    # shin → š (voiceless sibilant)
+    ('ch',  'ç'),    # chi → ç
+    ('sh',  'š'),    # shin → š
     # common prefix
     ('qo',  'qa'),   # q + o(=a)
 ]
