@@ -1,29 +1,32 @@
-				
 number	unicode	greek	sound	EVA	notes
 1	󿐔	α	a	o	most common glyph, article/prefix
-1	󿐐	α	oe	a	variant of glyph 1
-2	󿐚	β	b	l	looks like 4 in contemporary latin
-3	󿐋	γ	dg	g	suffix form of d (gamma)
-3	󿐉	γ	dh	d	
+1	󿐐	α	α	a	variant of glyph 1  ğr in 󿐔󿐣󿐐󿐚󿐗 alᵞrabu agrab scorpio  󿐔󿐣󿐔󿐚󿐐󿐚 ри́би ríbi 
+2	󿐚	β	b	l	looks like 4 in contemporary latin      󿐔󿐣󿐔󿐚󿐐󿐚  ≈ al'ри́би ríbi (pisces)
+3	󿐋	γ	ʒ	g	suffix form of d (gamma)
+3	󿐉	γ	󿐉	d	ð
 4	󿐃	δ	d	r	very common (freq 98)
 5	󿐛	ε	e	v	looks like 7 in contemporary latin
 6	󿐜	ζ	f	x	rare (freq 9)
-7	󿐢	η	g	k	gallows character
+7	󿐢	η	ğ	k	gallows character
+7	󿐞	η	ğ	z	z≈c≈ğ≈n? rare same as 󿐄 •hi
 8	󿐄	ι	hy	m	gallows char, ≠ EVA k  󿐄 
-9	󿐡	θ	t	p	gallows p-variant (freq 5) th?
-9	󿐠	θ	t	f	gallows f-variant (freq 8) th?
+9	󿐡	θ	tʰ	p	gallows p-variant (freq 5) th?
+9	󿐠	θ	tʲ	f	gallows f-variant (freq 8) th? 󿑒
+10	󿑩	κ	ʲk	?	absent! decima
 11	󿐣	λ	l	t	󿐔󿐣 ≈ al- prefix  r?
 12	󿐊	μ	m	s	󿐃? possibly m-sound, keeping as sibilant
-13	󿑪	ν	n	n	absent!
-14?	󿐀	ι	i	i	sub-component stroke 󿑫 
-15?	󿐂/ 󿑮	ξ?	k	j	sub-component 󿑫 
+13	󿑪	ν	n	n	absent!  ain 󿐀i󿐀
+14...	󿐀	ι	i	i	sub-component stroke 󿑫  ᵒiᵖ
+15?	󿐂	πψξ?	ᵖk	j	sub-component 󿑫 
+15?	󿑮	πψξ?	ᑫp	j	sub-component 󿑫 
 16?	󿐁	s?	s	n	sub-component stroke 󿑫 
-15	󿐗	ω	ow	y	most frequent (freq 151), ω≈w
-16	󿐅/󿐌	χ	?	c	left bench, often in ch/ckh/cth digraphs
-16	󿐏	χ	?	h	right bench, silent in digraphs (absorbed into ch)
-16/17/18	󿑬/󿑀	?	?	?	
--	󿐆	-	e	e	connector/vowel in combinations
-20?	󿐝	y	q	q	prefix character (qo→qa)
--	󿐈	-	b	b	rare variant
--	󿐑	-	u	u	rare
--	󿐞	ι	c	z	rare same as k
+15/16/17	󿐗	ω	vⁿ	y	most frequent (freq 151), ω≈w≈v≈uⁿ
+16	󿐅/󿐌	χ	ć	c	left bench, often in ch/ckh/cth digraphs
+16	󿐏	χ	ħʳ	h	right bench, silent in digraphs (absorbed into ch)
+16	󿐆	-	ᵠ	e	connector/vowel in combinations
+16/17/18	󿑬/󿑀	y	z	q	
+16/17/18	󿐝	y	g	q	prefix character (qo→qa→ge-)
+-	󿐈	δ?	b	b	rare variant
+-	󿐑	δ?	u	u	rare
+	󿐌󿐣󿐏		r	cth	?
+			p	?	
