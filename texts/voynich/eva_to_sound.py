@@ -8,6 +8,17 @@ import os
 import re
 import sys
 
+
+message="Most frequent words by topic (using standard EVA transcription, NOT to be read phonetically): "
+topics="""
+Topic 0: chedy daiin shedy ol aiin chol or ar gokeedy gokedy gokain chey gokeey gokaiin shey al dar chor dal okaiin  
+Topic 1: daiin chol chor thy chy shol sho cthol cthor shor shy cho dy chaiin dain gotchy otchy cheor dor they  
+Topic 2: aiin ar al or okar air otaiin oteos oteey okaiin otar oteody okal cheody chdy otal am dar ykar okey  
+Topic 3: okeol cheol gokeey gokeol okey cheor cheey shey sheol ckhey cheody ol cheo oteey okey gokeody okol gokeedy chey dol  
+Topic 4: gokaiin al gokain gokeedy otaiin ar gokeey lkaiin chey gotaiin oteey lchedy chol chy raiin lkeey gotain chaiin otain  
+Topic 5: okaiin or gokain ol gokar chol gokaiin okar okaiin goal godaiin gokol otain okain okal chdy kaiin olkain gotaiin okol gokeo  
+"""
+
 def load_mapping(tsv_path='eva_sound_mapping.tsv'):
     """Load EVA→sound mapping from TSV (columns: number unicode greek sound EVA notes)."""
     if not os.path.isabs(tsv_path):
@@ -21,7 +32,7 @@ def load_mapping(tsv_path='eva_sound_mapping.tsv'):
             cols = line.split('\t')
             if len(cols) < 5:
                 continue
-            sound, eva = cols[3].strip(), cols[4].strip()
+            unicod, sound, eva = cols[1].strip(),cols[3].strip(), cols[4].strip()
             if not eva or not sound or sound == 'sound' or sound == '?':
                 continue
             eva_sound[eva] = sound
@@ -33,10 +44,10 @@ EVA_SOUND = load_mapping()
 # These handle EVA bench+gallows combinations as unit sounds
 DIGRAPHS = [
     # gallows-in-bench: cXh → X with aspiration
-    ('cfh', 'çt'),   # bench + f-gallows
-    ('cph', 'çt'),   # bench + p-gallows
-    ('cth', 'çl'),   # bench + t-gallows
-    ('ckh', 'çg'),   # bench + k-gallows
+    ('cfh', 'th'),   # bench + f-gallows
+    ('cph', 'tẖ '),   # bench + p-gallows
+    ('cth', 'ɽ'),   # bench + t-gallows 󿐣 'l' hr > l
+    ('ckh', 'ch'),   # bench + k-gallows
     # bench digraphs
     ('ch',  'ç'),    # chi → ç
     ('sh',  'š'),    # shin → š
@@ -75,6 +86,9 @@ def convert_line(line):
     # Words separated by dots, commas are minor breaks
     eva_text = eva_text.replace(',', '.')
     words = eva_text.split('.')
+    return convert_words(prefix,words)
+
+def convert_words(prefix,words):
     converted = ' '.join(convert_eva_word(w) for w in words if w.strip())
     return f"{prefix}\t{converted}"
 
@@ -99,6 +113,8 @@ def main():
     for r in results[:30]:
         print(r)
     print(f"\n--- wrote {len(results)} lines to {outfile} ---")
+
+    print(convert_words(message, topics.split(" ")))
 
 if __name__ == '__main__':
     main()

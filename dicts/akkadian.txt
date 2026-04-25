@@ -5065,8 +5065,8 @@ _𒆳 	five ⚠️
 𒉈𒊏𒊒𒌅 	ne-ra-ru-tu  <>  مَعُونَة maʿūna
 
 
-𒉈𒉿𒄩𒋾 	bel pi-ḫa-ti
-𒉈𒉿𒄩𒋾 	commisioner, governor
+𒉈 𒉿𒄩𒋾 	bel piˡḫa-ti
+𒉈𒉿𒄩𒋾 	polit-commisioner, governor
 
 𒉈𒊒 	ne-ru  nyrhi närhiä nirhata@Uralic ! +++
 𒉈𒊒 	ne-ru < me-ru muer [[𓏱]]  
@@ -9004,8 +9004,9 @@ in midst of the sea I saw maliciousness
 𒀸 𒀭𒄑𒈦 𒀝𒈬 ina 𒀭𒄑 Ignis-pyro akmnis
 
 𒀭𒄑𒈦 #'isati ≈ Ishat, Phoenician fire goddess
-𒀭𒄑𒈦 #ʰisati ≈ Hestia <> hot heat hearth
+𒀭𒄑𒈦 #ʰisati ≈ Hestia <> hot heat hearth Scheidt(er Haufen)
 𒀭𒄑𒈦 #ᵛisati ≈ Vesta
+𒀭𒄑𒈦 an-gis Bár "Fire (god)" Agnis-Fire <> Ignite
 𒀭𒄑𒈦 an-gis-bar "Fire (god)" Ogun < Shango <> Aggayu > ᵠỌya
 𒀭𒄑𒈦 an-gis-bar "Fire (god)" 𓇳 π'RA pyro fire 
 𒀭𒄑𒈦 an-gis-bar 女火  Nay-Angki - goddess of fire
@@ -9070,7 +9071,7 @@ in midst of the sea I saw maliciousness
 
 𒁮 dame vs damn
 𒊩𒅆𒌨𒌓 limᵇutu “bad” evil
-𒊩𒅆𒎕 #damqati damn good
+𒊩𒅆𒎕 #damqati damn good "favours"
 𒅆𒎕𒁕 damqatu damn'good benefits (𒁕 droit:right)
 
 𒌑𒌁𒉌 u2-tir-ni overturn
@@ -9341,7 +9342,7 @@ hamun 	𒉃
 𒋫𒅗𒇻 	| trust | ta-ka-lu  <>
 𒌅𒆰𒌅	| trust | tu-kul-tu tuk!luottaa lootta'dak   𒆥𒀀𒁍 	qi-a-pu | to trust | 
 
-𒄖𒊌 gu-ug կծու kcu "bitter"
+𒄖𒊌 gu-ug 𒍝 𒄢 GUG	 կծու kcu 苦	kǔ "bitter" 
 
 𒀠𒋛𒈠 al si-ma ∑ collect
 
@@ -12002,3 +12003,101 @@ there is nothing to worry about, (everything) is well.
 𒊭𒄠𒂅 šamṭu : acacia 
 𓈙 𓈖 𓆓 𓏏 | Nile acacia tree | ϣⲟⲛϯ šonti 𒊭𒄠𒂅 šamṭu samṭu #snḏt 
 𓈙 𓈖 𓆓 𓏏 | Nile acacia tree | šanṭu سَنْط sanṭ > שטא שִׁטָּה shittah < tasent @ Berber +++
+
+𒊒𒌋𒄣  ru-u-quᵐ  𓍯 𓄿 𓈐  
+𒊒𒌋𒄣  ruᵈu-qu reductus "remote"
+𒊒𒌋𒄣  ru-u-quᵐ "remote" 𒄣 ≈ 𒑙𒑙 ≈ 𓈘 ≈ 𒌫 ≈ 𒑙𒑙𒈫 ≈ 𓈐
+
+𒅖𒇻𒆷 isᵖᵒlu.la spoil(s)
+𒊩 sal sell sold 𒊩𒆷𒊍 sa-la-aṣ "carried off" (spoils)
+
+
+𒄿𒁉𒑑 اِمْتَلَكَ  imtalaka
+
+𓂋 𓈖 renomé 𒉌𒑙𒄑 niᵐbiʳis numbers : names
+
+𒊕𒅗𒅘𒆪 	šak-ka-nak-ku 𓇓 sugernarku <> guvernérka <> губерна́тор gubernátor
+𒊕𒅗𒅘𒆪 	(miltary) governor
+
+𒇽𒄘𒂗𒈾 LÚ:GÚᵛEN.NA governor <> 𒄖𒂗𒅘𒆪 guᵛen-nak-ku governor of Nippur
+
+𒉈𒉿𒄩𒋾 	bel pi-ḫa-ti
+𒉈𒉿𒄩𒋾 	commisioner, governor
+
+𒇧 pul pelt in 𒇻𒇧𒋾 lu.pulti "cloth" < leopard 𓃮 / 󳢯 𓋳
+
+𒌋𒌋𒍝𒊍 man-za-az 
+𒌋𒌋𒍝𒊍 standing (in front of)
+
+𒀾𒋺𒅗𒉡 as2-tak-ka-nu stecken "tag, fix, attach"
+
+𒈠𒄩𒍣 MA.ḪAᵘZI BeHause "city"
+𒈠𒄩𒍣 MA.KU₆ZIⁿ Magazin "city"
+𒈠𒄩𒍣 MA.HA.ZIⁿ Medina "city"
+𒈠𒄩𒍣 MA.KU₆ZI™ Mekka™ Mega "city"
+
+kiri plantations
+nakiri "enemies" see [[enemy]] 𓐍 𓂋 𓅱 𓀒 𓀐 captured:
+𒉈𒊒	NEᵏRU	NERU	enemy nakiri
+𒉈𒊒	NE.RU	NERU	enemy; 
+𒅅𒊑𒈬 ik-riᶠmu ergreifen 𓇉 𓄿 𓈎 𓂝 𓀜 "capture"
+𒅅𒊑𒈬 ikᵃriᶠmu 𓆼 𓄿 𓆑 𓂝 𓂡 | grasp, make captures (in war) | 
+𒅅𒊑𒈬 ik-riᶠmu 𓎡 𓆑 𓂝 𓂡  "capture" <> 𓐍 𓆑 𓏴 𓂡 plunder
+𒅅𒊑 𒈬 ik-riᵛmu գրավում gravum "capture" ζωγρέω  ᎠᏴᎩᏗᎠ 
+𒅅𒊑𒈬 icᵃriᵃmu أَسَرَ  ʔasara "capture"
+𒅅𒊑𒈬 ik-ri-mu erklimmen "capture"
+𒂊 𒁶 e-kim  erklimmen "capture"
+
+𒌑 𒉺𒅁𒁲𒆷  u-sab-di-la "cause to cease" √sub √teil
+
+𒄿𒁖𒂵𒇻 i-dag-ga-lu "honoured" √gal √dagger √good agade
+
+𒀝𒀫 ᶠak-zur fixer fest-zurr "fix(ed)"
+
+𒎙𒁕𒀜𒌅 man-da-at-tu mandate "tribute"
+
+𒄘𒌦	 gun₂ "coin" #bilat billed "taxes"
+
+𒀜𒁷 ad+din "give" <> add
+
+
+𒉡𒁺𒈾𒄠 wedding gift √en-dona™
+𒄀𒄈	giᶠgir	 gift  𒋓𒆪 	šer-ku schenkung 𒆧𒌅 qiš-tu | gift | 𒃰𒊒 	kad-ru greeting gift
+dowry 
+𒉡𒂄𒉡 	marriage gift <> en-dowry
+vs present
+𒋗𒁇𒍣	šu-bar-zi	šubarzi	present, gift
+𒊑𒈬𒌅 	ri-mu-tu remūtare remittance … 𐌼𐌰𐌹𐌸𐌼𐍃 maiþms mathom mūtare (“to change, exchange, barter”) 
+𒊑𒈬𒌅 	ri-mu-tu  𐎎𐎉𐎃 mṭḫ מַתָּנָה mataná 𐌼𐌰𐌹𐌸𐌼𐍃 “gift” 
+
+
+𒆷𒄩𒊍𒅕 la¬ha.as.sa/ir  √hasse ¬see disregard
+
+𒀪 ≈ 𒄭𒀸 ≈ 𒎗𒐀𒁹 ≈ 𒄭𒀭  
+𒅖𒋼𒉌𒀪𒀀 ᵘis-te-ni-ḫa₂a ausdenken "devise"
+𒅖𒋼𒉌𒀪𒀀 ʷis-te-ni-kaz₈a ausdenken "devise" 𒅖 ᵛIS vise wise
+
+𒄑𒆷𒀀 iz-laʷa threw off (slew, aus-schleuder)
+
+𒁺𒌒𒁀𒀀𒋾 du-ub-ba-a-ti top debit put "Benefits"
+
+𒄠𒊒 	ᶿam-ru ~ timber
+𒄠𒊒 	beam, timber
+
+𒄠𒊒 	ᶿamᵉruˡ "rule"  <> mayor
+
+𒐼𒀪𒀠 šá-haᶥalᵖ "hail, pray for help / salvation"  𓃾 <> salam
+
+𒅁𒊒𒊻  ip-ru-us  "cease" <> √hypo 𓉐 𓂋 por-raus   evade
+𒅁𒊒𒊻  ip-ru-us parar pārirā perdre "cease" 
+𒅁𒊒𒊻𒑑 ip-ru-usᵗva/ma преставам prestavam "cease" !
+
+𒆷𒆪𒂊𒉡 laᵗkuˡe-nu little, klein
+
+𒅅𒁍𒌑  ig-bu-u2 expo-  spoke
+𒅅𒁍𒌑  igˢbu-uᵏ spoke
+𒅅𒁍𒌑  igᵉbu-uʳ gebahr spoke
+𒅅 𒁍𒌑  igᵉbu-uᵗ gebot spoke
+
+
+𒋚𒈪𒁺𒉌

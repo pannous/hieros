@@ -1239,7 +1239,7 @@ ALL align with coptic, most with Beja!
 1 'uhn 𓅱𓂝		lun,sun,moon,noon	: wa'	
 1 oan  𓌠				vs 𓌟  2   wahed@Arab
 1 one  𓏤
-1 first  išten@Akkad ersten
+1 first  išten@Akkad istin bar  ersten
 2 toe  𓌟			T19 toe,two,thun  𓌟  
 2 toe  𓃅
 2 ꜩwin 𓌢	    T22 twin, zwein cin@COPT -> cn -> snw/ßwn@EGY! son Sohn çun@Albany zwon kin -> Kind … hunuš Av@Iran
