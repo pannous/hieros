@@ -1,0 +1,337 @@
+https://www.ebl.lmu.de/corpus/L/1/2/SB/I DETAILED 
+https://communio-templorum.github.io/cuneiform-text-corpus/#!/enuma-elish all js
+https://www.worldhistory.org/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/ english
+https://wikisource.org/wiki/En%C3%BBma_Eli%C5%A1/Tablet_1 Transcription 
+
+    𒂊𒉡𒈠 𒂊𒇺 𒆷 𒈾𒁍𒌋 𒊭𒈠𒈬
+    001. e-nu-ma e-liš la na-bu-ú šâ-ma-mu
+When heaven on high had not been named
+    when im highliš nula ne be summoned ∑
+    𒉺‍𒅁𒇺  𒄠𒈠𒌈  𒋗𒈠  𒆷  𒍠𒋥
+    002. šap-liš am-ma-tum šu-ma la zak-rat
+and the ground below was not given a name,
+    𒍪𒀊𒌝 𒈠 𒊕𒌅𒌋 𒍝𒊒 𒋗𒌦
+    003. ZU.AB ma reš-tu-ú za-ru-šu-un
+primordial Apsû, who fathered them,
+    𒈬𒌝𒈬 𒋾𒊩‍𒆳 𒈬𒀠𒇷𒁕𒀜 𒁶𒊑𒋗𒌦
+    004. mu-um-mu ti-amat mu-al-li-da-at gim-ri-šú-un
+ Matrix (the creative force 'Mummu') Tiamat, who gave birth to them all,
+    005. A-MEŠ-šú-nu iš-te-niš i-ḫi-qu-ú-šú-un
+were mingling together their waters:
+    006. gi-pa-ra la ki-is-su-ru su-sa-a la še-'u-ú
+they had not yet bound meadows or lined the reedbeds.
+    007. e-nu-ma DINGIR-DINGIR la šu-pu-u ma-na-ma
+When none of the gods had been brought forth,
+    008. šu-ma la zuk-ku-ru ši-ma-tú la ši-na-ma
+had not been given names and had not decreed destinies,
+    009. ib-ba-nu-ú-ma DINGIR-DINGIR qê-reb-šú-un
+then were the gods created within them.
+    010. {d}laḫ-mu {d}la-ḫa-mu uš-ta-pu-ú šu-mi iz-zak-ru
+Lahmu and Lahamu were brought forth and called by name.
+    011. a-di ir-bu-ú i ši ḫu
+When they had grown big, grown tall,
+    012. an-šâr {d}ki-šâr ib-ba-nu-u e-li-šu-nu at-ru
+Anshar and Kishar were created, greater than them.
+    013. ur-ri-ku U[4]-MEŠ us-si-bu MU-MEŠ
+They lengthened their days, expanded their years.
+    014. {d}a-num a-pil-šu-nu šâ-nin AD-AD-šú
+Anu, their firstborn, rivalled his fathers.
+    015. an-šâr {d}a-num bu-uk-ra-šu ú maš-šil-ma
+Anshar made Anu, his child, like him,
+    016. ú {d}a-num tam-ši-la-šú ú-lid {d}nu-dīm-mud
+and Anu gave birth to his likeness in turn – Nudimmud.
+    017. {d}nu-dīm-mud šâ AD-MEŠ-šú šâ-lit-su-nu šu-ma
+Nudimmud: he was the leader among his fathers,
+    018. pal-ka uz-nu ḫa-sis e-mu-qan pu-un-gul
+vast of mind, perceptive, massive in strength,
+    019. gu-uš-šur ma-'-diš a-na a-lid AD-šú an-šâr
+much mightier than Anshar, who had fathered his father,
+    020. la i-ši ša-ni-na ina DINGIR-meš at-ḫe-e-šú
+he had no rival among the gods his brothers.
+    021. in-nen-du-ma at-ḫu-ú DINGIR-meš-ni
+They joined together, the brothers, the gods,
+    022. e-šu-ú ti-amat-ma na-muš-šu-nu iš-tap-pu
+and confused Tiamat as their clamour kept growing,
+    023. dal-ḫu-nim-ma šâ ti-amat ka-ras-sa
+troubling Tiamat’s belly,
+    024. i-na šu-'a-a-ri šu-'-du-ru qê-reb an-durun-na
+and with their games spreading grief in Andurunna.
+    025. la na-ši-ir ABZU-ri-gim-šú-un
+Apsû did not still their noise,
+    026. ú ti-amat šu-qâm-mu-mat i-na igi-šu-un
+and Tiamat was silent before them:
+    027. im-tar-sa-am-ma ep-še-ta-šu-un e-li-ša
+their doings disturbed her,
+    028. la-ta-bat al-kât-su-nu šu-nu-ti i-ga-mī-la
+their ways were not pleasant, but …
+
+    029. i-nu-šu abzu za-ri DINGIR-DINGIR ra-bī-ú-tim
+Then Apsû, who had fathered the great gods,
+
+    030. is-si-ma {d}mu-um-mu suk-kal-la-šu i-zak-kar-šu
+called Mummu, his minister, and said to him:
+    031. {d}mu-um-mu suk-kal-lu mu-tib-ba ka-bat-ti-ia
+‘Mummu, minister who soothes my mood!
+    032. al-kâm-ma se-ri-iš ti-amat i-ni-il-li-ik
+Come, let us take counsel with Tiamat.’
+    033. il-li-ku-ma qu-ud-mi-iš ta-ma-tum ú-ši-bu
+They went and sat down, facing Tiamat,
+    034. a-ma-a-ti im-tal-li-ku aš-šum DINGIR-DINGIR bu-uk-ri-šu-ma
+to confer about the gods their children.
+    035. ABZU pa-a-šu i-pu-šam-ma
+Apsû worked his words,
+    036. a-na ti-amat el-li-tam-ma i-zak-kar-ši
+saying loudly11 to her, to Tiamat:
+    037. im-tar-sa-am-ma al-kât-su-nu e-li-ia
+‘Their ways disturb me.
+    038. ur-ri-iš la šu-up-šu-ḫa-ku mu-ši-iš la sa-al-la-ku
+By day I have no rest, by night no sleep.
+    039. lu-uš-ḫal-liq-ma al-kât-su-nu lu-sa-ap-pi-iḫ
+I will destroy their ways, disrupt them!
+    040. qu-lu liš-šâ-kin-ma i-ni-is-lal ni-i-ni
+Let silence be settled, so that we may sleep.’
+    041. ti-amat an-ni-ta i-na še-me-e-ša
+When Tiamat heard this,1
+    042. i-zu-uz-ma il-ta-si e-lu ḫar-mī-ša
+she was angry and screamed at her lover.
+    043. is-si-ma mar-si-iš ug-gu-gat e-diš-ši-ša
+She screamed, disturbed, alone in her rage,
+    044. le-mut-ta it-ta-di a-na kar-ši-ša
+for he had cast evil upon her mind.1
+    045. mi-na-a ni-i-nu šâ-ni-ib-nu-ú nu-uš-ḫal-laq-ma
+‘What! Should we destroy what we ourselves created?
+    046. al-kât-su-nu lu-šum-ru-sa-at-ma i ni-iš-du-ud ta-biš
+Disturbing as their ways may be, let us bear them with good grace.’
+    047. i-pul-ma {d}mu-un-mu ABZU i ma-al-lik
+Mummu replied and gave counsel to Apsû,
+    048. suk-kal-lum la ma-gi-ru mi-lik mu-um-mi-šu
+and his Mummu’s counsel was that of a devious minister:
+    049. ḫul-li-qam-ma a-bi al-ka-ta e-ši-ta
+‘Destroy, my father, their confused way,
+    050. ur-ri-iš lu-ú šup-šu-ḫa-at mu-šiš lu-ú sal-la-at
+that by day you may rest, by night you may sleep.’
+    051. iḫ-du-šum-ma ABZU im-me-ru pa-nu-šu
+Apsû was pleased with him, his face lighted up,
+    052. aš-šum lem-nê-e-ti ik-pu-du a-na DINGIR-DINGIR ma-re-e-šu
+because he had plotted evil against the gods his sons.
+    053. {d}mu-um-mu i-te-dir ki-šad-su
+Mummu embraced his neck,
+    054. uš-ba-am-ma bir-ka-a-šu ú-na-âš-šaq ša-a-šu
+sitting on his lap and kissing him.
+    055. mim-mu-ú ik-pu-du pu-uḫ-ru-uš-šun
+What they plotted in their assembly
+    056. a-na DINGIR-DINGIR bu-uk-ri-šu-nu uš-tan-nu-ni
+was repeated to the gods their children:
+    057. iš-mu-nim-ma DINGIR-DINGIR i-dul-lu
+the gods listened and panicked,1
+    058. qu-lu is-ba-tu šâ-qu-um-miš uš-bu
+then turned quiet15 and sat in silence.
+    059. šu-tur uz-na it-pe-šu te-le-ú
+The supremely clever, wise, and skilled
+    060. {d}ê-a ḫa-sis mi-im-ma-ma i-še-'a-a šib-qī-šu-un
+Ea, who perceives all things, found out their scheme:
+    061. ib-šim-šum-ma us-rat ka-li ú-kin-šu
+against it he fashioned a comprehensive plan, fixing it firmly,
+    062. ú-nak-kil-šu šu-tu-ra ta-a-šu el-lum
+and devised his supreme, sacred spell.
+    063. im-nu-šum-ma ina-A-MEŠ ú-šap-ši-iḫ
+He recited it, granting him rest in the water:
+    064. šit-tu ir-te-ḫi-šu sa-lil tu-ub-ba-tiš
+sleep poured over him and he slumbered soundly.
+    065. ú-šâ-as-lil-ma abzu re-ḫi šit-tum
+Apsu he caused to slumber, bewitching the sleep.
+    066. {d}mu-um-mu tam-la-ku da-la-piš ku-ú-ru
+Of Mummu whose manly parts frightfully he severed,
+    067. ip-tur rik-si-šu iš-ta-ḫat a-ga-šu
+He severed his sinews and tore off his crown.
+    068. me-lam-mê-šu it-ba-la šu-ú ú-ta-di-iq
+His splendor he took from him, and he was dishonored.
+    069. ik-mi-šu-ma ABZU i-na-ra-âš-šu
+Then he bound Apsu and slew him.
+    070. {d}mu-um-mu i-ta-sīr UGU-šú ip-tar-ka
+Mummu he tied and his skull he crushed.
+    071. ú-kin-ma UGU-ABZU šu-bat-su
+He fixed upon Apsu his dwelling.
+    072. {d}mu-um-mu it-ta-maḫ ú-kal ser-rit-su
+Mummu he seized and strengthened his bands.
+    073. ul-tu lem-nê-e-šú ik-mu-ú i-sa-a-du
+After he had bound his enemies and had slain them,
+    074. {d}ê-a uš-ziz-zu er-net-ta-šú UGU ga-re-šú
+And he, Ea, had established his victory over his foes,
+    075. qer-bíš ku-um-mi-šú šup-šu-ḫi-iš i-nu-úḫ-ma
+And in his chamber he had become composed as one who is soothed,
+    076. im-bi-šum-ma ABZU ú-ad-du-ú eš-re-e-ti
+He named it Apsu and they determined the holy places.
+    077. âš-ru-uš-šu gi-pa-ra-šú ú-šar-šid-ma
+Therein he caused to be founded his secret chamber.
+    078. {d}e-a u-{d}dam-ki-na ḫi-ra-tuš ina-rab-ba-a-te uš-bu
+Lahmu and Lahamu his wife abode therein in majesty.
+    079. ina-ki-is-si nam-meš at-ma-an GIŠ ḪUR-MEŠ
+In the shrine of fates, the dwelling of concepts,
+    080. le-'u-ú-le-'u-ú-ti ABGAL-DINGIR-MEŠ {d}EN it-tar-ḫe-e-ma
+The wisest of the wise ones, the adviser of the gods, a god, was engendered.
+    081. ina-qê-reb ABZU ib-ba-ni {d}AMARUTU
+In the midst of the nether sea was born Ashur.
+    082. ina-qê-reb KÚ-ABZU ib-ba-ni {d}AMARUTU
+In the midst of the pure nether sea was born Ashur.
+    083. ib-ni-šu-ma {d}ê-a a-ba-šu
+Lahmu his father begat him,
+    084. {d}dam-ki-na ama-šu ḫar-šâ-as šu
+Lahamu his mother was his bearer.
+    085. i-te[9]-niq-ma ser-ret {d}ISHTAR-MEŠ
+He sucked at the breasts of goddesses.
+    086. ta-ri-tu it-tar-ru-šu pul-ḫa-a-ta uš-ma-al-li
+A nurse tended him and filled him with terribleness.
+    087. šam-ḫat nab-nit-su sa-ri-ir ni-ši i-ni-šu
+Enticing was his form, the gaze of his eye was brilliant.
+    088. ut-tu-lat si-ta-šu ga-šêr ul-tu ul-la
+Virile became his growth, he was given to procreation from the beginning.
+    089. i-mur-šu-ma {d}a-num ba-nu-u a-bi-šu
+Lahmu, the begetter, his father beheld him.
+    090. i-riš im-mer lib-ba-šú ḫi-du-ta im-la
+His heart rejoiced and was glad ; he was filled with joy.
+    091. uš-ta-as-bi-šum-ma šu-un-na-at ilu-us-su
+He perfected him and double godhead he added unto him.
+    092. šu-uš-qu ma-'diš UGU-šú-nu a-tar mim-mu-šu
+He was made exceedingly tall and he surpassed them somewhat.
+    093. la-lam-da-ma nu-uk-ku-la mi-na-tu-šu
+Not comprehended were his measurements, and they were skillfully made.
+    094. ḫa-sa-siš la-na-ta-a a-ma-riš pa-âš-qa
+They were not suited to be understood, and were oppressive to behold.
+    095. 4(limmu)-IGI II šú 4(limmu)-GEŠTU II šú
+Four were his eyes, four were his ears.
+    096. šap-ti-šú ina-šu-ta-bu-li {d}giš-bar it-tan-paḫ
+When he moved his lips fire blazed forth.
+    097. ir-ti-bu-ú 4(limmu)-ta-am ḫa-si-sa
+Four ears grew large.
+    098. ú-igi ki-ma šu-a-tu i-bar-ra-a gim-re-e-ti
+And the eyes behold all things, even as that one.
+    099. ul-lu-ma ina-DINGIR-DINGIR šu-tur la-a-an-šu
+He was lifted up among the gods, surpassing all in form.
+    100. meš-re-tu-šu šu-ut-tu-ḫa i-lit-ta šu-tur
+His limbs were made massive, and he was made to excel in height.
+    101. ma-ri-ú-tu ma-ri-ú-tu
+Son of Enki son of Damkina
+    102. ma-ri-{d}UTU-ši {d}UTU-ši šâ-DINGIR-DINGIR
+Son, majesty, majesty of the gods!
+    103. la-bíš mê-lam-mê-ret-DINGIR-MEŠ šâ-qiš et-pur
+He was clothed in splendor of ten gods, powerful was he exceedingly.
+    104. pul-ḫa-a-tu ḫa-šat-si-na e-li-šu kâm-ra
+Five fearsome rays were clustered above him.
+    105. ib-ni-ma šâ-ar er-bet-ta ú-al-lid {d}a-num
+Anu created the four winds and gave them birth,
+    106. qa-tuš-šú ú ma-al-la-a ma-ri lim-mel-li
+He fashioned dust and made the whirlwind carry it;
+    107. ib-šim ep-ra me-ḫa-a ú šâ-az-bal
+He made the flood-wave and stirred up Tiamat,
+    108. ú-šab-ši a-ga-am-ma ú-dal-lâḫ ti-amat
+Tiamat was stirred up, and heaved restlessly day and night.
+    109. dal-ḫat ti-amat-ma ur-ra u-GI[6] i-dul-lu
+The gods, unable to rest, had to suffer.
+    110. DINGIR-DINGIR la-šup-šu-ḫa i-za-ab-bi-lu šâ-re-šâ
+They plotted evil in their hearts, and
+    111. ik-tap-du-ma kar-šu-us-sú-nu le-mut-ta
+They addressed Tiamat their mother, saying,
+    112. a-na ti-amat um-mi-šu-nu šu-nu iz-zak-ru
+Apsu thy husband they have slain.
+    113. e-nu-ma ABZU ḫa-ram-ki i-na-ru-ma
+Bitterly she wept and she sat down as one wailing.
+    114. i-du-uš-šu la-tal-li-ki-ma qa-liš tuš-bi
+He has created the four, fearful winds
+    115. ib-ni-ma šâ-ar er-bet-ti šâ pu-luḫ-ti
+Until we shall have brought about his revenge, verily not shall we sleep.
+    116. šu-ud-lu-ḫu kar-ša-ki-ma ul ni-sal-lal ni-i-nu
+And now although they have slain, Apsu thy husband
+    117. ul-ib-ši lib-bu-uk-ki abzu ḫa-ram-ki
+And Mummu, who has been bound, now alone sittest thou.
+    118. ú {d}mu-um-mu šâ-ik-ka-mu-ú e-diš âš-ba-ti
+Quickly hasten thou.
+    119. ul-lum mu at-ti dul-lu-ḫiš ta-dul-li
+We will bring about their revenge and let us repose.
+    120. ú-ni-i-ni šâ-la-ni-sak-ki-pu ul ta-ra-am-mi-na-ši
+Poured out are our bowels, dazed are our eyes.
+    121. sar-maa'-ni ḫu-um-mu-ra i-na-tu-ni
+We will bring about their revenge and let us repose.
+    122. šu-ut-bi ab-šá-na la-sa-ki-pi i-ni-iṣ-lal ni-i-ni
+set up a battle cry and take vengeance for them.
+    123. šu-zi zi gi-mil-la-šu-nu ter-ri
+unto the whirlwind annihilate.
+    124. ši-ma a-na-za-qí-qu šu-uk-ni
+Tiamat heard the words of the bright god.
+    125. iš-me-ma ti-amat a-ma-tum i-ṣib el-ša
+verily give ye and let us make monsters.
+    126. ša-at-tu-nu tuš-ta-at-di-nu i-ni-pu-uš U[4]-mu
+disturb the gods in the midst of Anduruna,
+    127. ma DINGIR-DINGIR qé-reb-šú
+shall draw nigh against the gods
+    128. lem-né-e-ti taḫ-ḫa-zu an-DINGIR-DINGIR
+They cursed the day and went forth beside Tiamat.
+    129 (109). im-ma-aṣ-ru nim-ma i-du-uš ti-amat te[9]-bi-ú-ni
+They raged, they plotted, without resting day and night
+    130 (110). ez-zu kap-du la-sa-ki-pu mu-ša-ù-im-mu
+They joined battle, they fumed, they raged.
+    131 (111). na-šu-ú tam-ḫa-re na-zar-bu-bu lab-bu
+They assembled forces making hostility.
+    132 (112). ukkin-na šit-ku-nu-ma i-bab-nu-ú ṣu-la-a-ti
+Mother Hubur, the designer of all things,
+    133 (113). um-ma ḫu-bur pa-ti-qat ka-la-mu
+added thereto weapons which are not withstood ; she gave birth to the monsters.
+    134 (114). uš-rad-di kak-ku la-maḫ-ri it-ta-lad MUŠ-MAḪ-MEŠ
+Sharp of tooth, they spare not the fang.
+    135 (115). zaq-tu-ma šin-ni la-pa-du-u at-ta-'-i
+With poison like blood she filled their bodies.
+    136 (116). im-tu ki-ma da-mu zu-mur-šú-nu uš-ma-al-li
+Gruesome monsters she caused to be clothed with terror.
+    137 (117). GAL-UŠUM-MEŠ na-ad-ru-ti pul-ḫa-ta ú-šal-biš-ma
+She caused them to bear dreadfulness, she made them like the gods.
+    138 (118). me-lam-ma uš-taš-šá-a i-li-iš um-taš-šil
+Whosoever beholds them verily they ban him with terror.
+    139 (119). a-mé-er-šú-nu šar-ba-bi-iš il-iḫ-ḫar-mi-im
+Their bodies rear up and none restrain their breast.
+    140 (120). zu-mur-šú-nu liš-taḫ-ḫi-ṭam-ma la-i-né-'u i rat-su-un
+She established the Viper, the Raging-Serpent, and Lahamu,
+    141 (121). uš-zi-iz ba-aš-mu MUŠ-ḪUŠ ú {d}la-ḫa-mu
+The Great-lion, the Gruesome Hound, the Scorpion-man,
+    142 (122). U[4]-gal-la uridim-me-ú gír-tab-lú-u[18]-lu
+The destructive spirits of wrath, the Fish-man and the Fish-ram,
+    143 (123). U[4]-mé da-ab-ru-ti ku[6]-lú-u[18]-lu
+Bearers of weapons that spare not, fearing not the battle.
+    144 (124). na-ši kak-ku la pa-du-ú la a-di-ru ta-ḫa-zi
+Prodigious were her designs, not to be opposed are they.
+    145 (125). gap-ša te-re-tu-šá la maḫ-ra ši-na-ma
+In all eleven were they and thus she brought them into being.
+    146 (126). ap-pu-na-ma iš-tén-eš-ret-GIM šu-a-ti uš-tab-ši
+Among the gods her first born who formed her assembly,
+    147 (127). i-na-DINGIR-DINGIR bu-uk-re-ša šu-ut iš-ku-nu-ši
+She exalted Kingu ; in their midst she magnified him.
+    148 (128). ú-šá-áš-qa {d}kin-gu ina-bi-ri-šu-nu šá-a-šú uš-tab-bi(iš)
+As for those who go before the host, as for those who direct the assembly,
+    149 (129). a-li-kut maḫ-ri pa-an um-ma-ni mu-'-er-ru-tu pu-uḫ-ru
+To undertake the bearing of arms, to advance to the attack,
+    150 (130). na-še-e giš-TUKUL ti-iṣ-bu-tu de-ku-u a-na-an-ta
+As to matters of battle, to be mighty in victory,
+    151 (131). šu-ut tam-ḫa-ru ra-ab-sik-kát-tu-tu
+She entrusted to his hand, and she caused him to sit in sack-cloth, saying,
+    152 (132). ip-qid-ma qa-tuš-šú ú-še-ši-ba-áš-šú ina kar-ri
+I have uttered thy spell ; in the assembly of the gods I have magnified thee.
+    153 (133). ad-di ta-a-ka ina-UKKIN-DINGIR-DINGIR ú-šar-bi-ka
+The dominion of the gods, all of them, I have put into thy hand.
+    154 (134). ma-li-ku-ut DINGIR-MEŠ gim-ra-at-su-nu qa-tuk-ka uš-mal-li
+Verily thou hast been exalted, O my husband, thou alone.
+    155 (135). lu-ú šur-ba-ta-ma ḫa-'-i-ri e-du-ú at-ta
+May thy names be greater than all of the names of the Anunnaki.
+    156 (136). il-ir-tab-bu-ú zik-ru-ka UGU-DÚ-šú-nu {d}a-nu-uk-ki
+She gave him the tablets of fate, she caused them to be fastened upon his breast, saying,
+    157 (137). id-din-šum-ma DUB-NAM-MEŠ i-ra-tuš ú-šat-mi-iḫ
+As for thee, thy command is not annulled ; the issue of thy mouth is sure.
+    158 (138). ka-ta DUG-GA[4]-ka la-in-nen-na-a li-kun ṣi-it-pi-i-ka
+And now Kingu who had been exalted, who had received Anuship,
+    159 (139). in-na-mu {d}kin-gu šu-uš-qu-ú le-qu-ú {d}a-nu-ti
+Among the gods her sons fixed the destinies, saying,
+    160 (140). an-DINGIR-DINGIR DUMU-MEŠ-šu ši ma ta iš-ti-mu
+Open ye your mouths; verily it shall quench the fire-god.
+    161 (141). ep-ša pi-i-ku-nu {d}GIŠ-BAR li-ni-iḫ-ḫa
+He who is strong in conflict may humiliate might.
+    162 (142). im-tuk- kit-mu-ru ma-ag-ša-ru liš-rab-bi-ib
+Tiamat strengthened her handiwork.
+
