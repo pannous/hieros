@@ -3,6 +3,8 @@ https://communio-templorum.github.io/cuneiform-text-corpus/#!/enuma-elish all js
 https://www.worldhistory.org/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/ english
 https://wikisource.org/wiki/En%C3%BBma_Eli%C5%A1/Tablet_1 Transcription 
 
+𒇺
+
     𒂊𒉡𒈠 𒂊𒇺 𒆷 𒈾𒁍𒌋 𒊭𒈠𒈬
     001. e-nu-ma e-liš la na-bu-ú šâ-ma-mu
 When heaven on high had not been named

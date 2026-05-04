@@ -7120,8 +7120,19 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋧𒈠𒌅 	sum-ma-tu  حَمَامَة ˢḥamāma™ 🕊 saeampati <> sympathy ☮ ?
 𒋧𒈠𒌅 	(female) dove, pigeon 𓈗 mar-patgiᵒⁿ merpati 
 
-𒋧𒈬𒊒 	sum-mu-ru
+𒋧𒈬𒊒 	sum-mu-ru ≈ •symire *smeiros > mīrus > admire  и́скам ískam  कामना kāmnā® (sym)mieliä eesmärk
 𒋧𒈬𒊒 	desire, plot, purpose
+𒋧 𒈬𒊒 	sum-mu-ru sumuru "purpose" ≈ záměr <> ẓumirat :
+<>
+𒍮𒌝𒈨𒋥  ẓu-um-mi-rat zumirat "desire"  <> admire tahtma  სურვილი survili
+𒍮𒌝𒈨𒋥  ṣu-um-me-rat sumerat "desire"  <> hasrat  欲する ほっする hossuru
+
+𒌑𒍝𒄠𒈪 verᵇ za-am-mi @ Samash 
+𒌑𒍝𒄠𒈪 dry
+
+𒌋𒌋𒈠𒌅 	niz-ma-tu 望む のぞむ nozomu نیاز nyaz himottaa 目的 mùdì מַטָּרָה matará <> mire mind
+𒌋𒌋𒈠𒌅 	desire, objective <> намера namera   norė́ti
+
 
 𒋩𒁍 	šur-pu <> ҡырау qïraw qırav <> hoar frost כְּפוֹר k'for
 𒋩𒁍 	šur-pu •šérpu 서리 seori шэ́рань šéranʹ <> Scherben?
@@ -7763,9 +7774,6 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌋𒌋𒄣 	nis-qu
 𒌋𒌋𒄣 	best quality, of animals, stones, textiles, trees
 
-𒌋𒌋𒈠𒌅 	niz-ma-tu
-𒌋𒌋𒈠𒌅 	desire, objective
-
 𒌋𒌋𒈬 	mam-mu
 𒌋𒌋𒈬 	frost, ice
 
@@ -8098,6 +8106,7 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒍑𒉺𒊒 	a ruler’s staff
 
 
+𒍑𒋗 | foundation |  uš-šu uššu ussu 𓃀 ᶠussu 𓉔 ʰussu  𒋼
 𒍑𒋗 | foundation |	uš-šu uš•d إِشَادَة ʾišāda <> ίδρυση ídrysi ἵδρυμα n (hídruma
 𒍑𒋗 | foundation |	uš-šu σύσταση sýstasi
 𒍑𒋗 | foundation |	uš-šu un•šu إِنْشاء ʾinšāʾ ?
@@ -8631,6 +8640,11 @@ namrūtu 𒉆𒊒𒋾
 
 𒇺𒊒𒆪 𒋙 liš-ru-ku.šú laisser-que.šú let-him "grant him"
 
+𒈬𒊬𒌑 MU.SARᶥᵛú im-scrúv inscribe
+𒈬𒊬𒂊 MU.SARᶥᵛe im-scrúve inscription
+
+𒅆𒋛𒀀 shi.dir scribed
+
 
 𒈬𒊬𒌑  𒅆𒋛𒀀   𒈬𒅀  
 MU.SAR-ú ši-ṭir  MU-ia  
@@ -8915,7 +8929,11 @@ revolt and rebellion
 ištu/ultu (of, °ist, from, since, after, ultima “last”?), 
     preposition; <IŠTU> (functioning as graphic indicator of the ablative); 
 
-[missing] Ultu ≈ 𒀸𒐺𒐈 ≈ 𒐀𒋰𒐈 ≈ 𒋰𒋰𒐈 ≠  𒆤 𒋢 𒍇 𒌝 𒈩 𒋃 𒍚 𒂅 𒂆 𒄈 𒅍 𒈢𒐈 𒈣𒐈  𒊒 𒊏 𒍢  
+[missing] Ultu ≈ 𒀸𒐺𒐈 ≈ 𒐀𒋰𒐈 ≈ 𒋰𒋰𒐈 ≈ 𒋋? ≠  𒆤 𒋢 𒍇 𒌝 𒈩 𒋃 𒍚 𒂅 𒂆 𒄈 𒅍 𒈢𒐈 𒈣𒐈  𒊒 𒊏 𒍢  
+
+[found] MUS ≈  𒋰𒋰𒐈 = 𒌝 ≈ 𒋫 
+
+
 
 𒅆𒁺	IGI DU	IGIŠTU
 aššu (cause, because of), 
@@ -12088,9 +12106,9 @@ vs present
 
 𒐼𒀪𒀠 šá-haᶥalᵖ "hail, pray for help / salvation"  𓃾 <> salam
 
-𒅁𒊒𒊻  ip-ru-us  "cease" <> √hypo 𓉐 𓂋 por-raus   evade
-𒅁𒊒𒊻  ip-ru-us parar pārirā perdre "cease" 
-𒅁𒊒𒊻𒑑 ip-ru-usᵗva/ma преставам prestavam "cease" !
+𒅁𒊒𒊻  ip-ru-us  "cease" <> √hypero 𓉐 𓂋 por-raus   evade
+𒅁𒊒𒊻  ipᵉru-us parar pārirā perdre "cease" 
+𒅁𒊒𒊻𒑑 ip-ru-usᵗva/ma преставам prestavam "cease" !!! +++
 
 𒆷𒆪𒂊𒉡 laᵗkuˡe-nu little, klein
 
@@ -12100,4 +12118,133 @@ vs present
 𒅅 𒁍𒌑  igᵉbu-uᵗ gebot spoke
 
 
-𒋚𒈪𒁺𒉌
+𒋚𒈪𒁺𒉌 sah-mi-du-ni submit, send √ don
+
+𒋰 TAB ≈ temp in 𒋰 𒇥 TAP-PÚˡ "temple" <> 𒇧 pool
+
+𒍥 ≈ 𒄑 𒌉𒂠𒎎  ĝeš KUN5 (NA4)  (domestic) stone staircase <> כִּנּוּן kinún "foundation" 
+
+𒇷𒄿𒌅 li-iᶜtu luister "glory" <> 💡 力 lì lux Leistung luster Finnic *loistadak* улуулук <> lūstrum
+
+𒈬 𒊬𒌋 ᶥmu-sar-u imscarvt inscription 
+
+𒄿𒊕𒅗𒉡   i-sak-ka-nu ᶥstᵃḫān  स्थान sthān *sijaⁿ* 𓊨 Stätte "place" <> stecken stick
+𒄿 𒊕 𒅗𒉡   iᵐ?ak-ka-nu مكان mekân 𐎎𐎋𐎐𐎚 mknt 
+
+𒐼𒆳𒆳 sa-nat sanat senator "prefect"
+𒂗𒉆 #sanut 𒇽𒉆 #sanat senator 𒊺 ≈ 𒐑 in 𒉆 SIM SÍN šīm [[sym]] [[syn]]  
+𒂗 ˢen senator [[senior]] 𒇽𒋾𒁹𒎗𒎌 sanuti® (𒊺=>𒎗)  lol ƒ 
+
+
+𒀭𒉺𒆪 ≈ 𒀭𒄑𒆪 an.ñis.ku "Nusku"
+
+
+# garaba
+𒃮 𒇻𒑙𒂊  GAB.LU.BI.E Gabel, Giebel, Gipfel, Gebail 🗻 "roof, (mountain) top" <> gravita great 𒆏 GAB₂ 
+𒈭𒁺𒌋𒋾  dah-du-u-ti total daunting "copious" (rain) @ Dach
+𒊏𒀀𒁲 ra-a-di raved "swelling" (rain) @ road
+
+𒃮𒋢𒌑𒋾 gab-su-u-ti "flood" שיטפון \ שִׁטָּפוֹן GeSchütte  तूफान ᶴtūphān 𒃮 fan פון •front wind
+𒌑 𒆳𒁲𒊏 u-sad-di-ra verschütte (pour rain)
+
+𒄿𒆪𒉺 i-ku-pa kopf Kuppel "top" (of ziggurat)
+
+𒁴𒈨𒂗 tim-mi-in  tim-me-en™ •timber zimmer təməl θεμέλῐος «zement» "foundation"
+
+𒀜𒆠 ad+ki (I) put <> gather
+
+𒄙𒉠 durᵃqabal ≈ dura ge'wall 
+
+𒅔𒈾𒄷 in-na-ḫu ἀναρχία anarchy نَخْر naḵr "decay"  𒄷 ḪʳU crow 𓄿𓅃
+𒀭𒄷𒊻 an-hu-us 𓂜𓉔𓅃 house : decay <>  hanehane nedbryting
+
+𒊑𒐼𒀀𒋾 ᶜri-sa-aᵘti cry/shoutᶥⁿ
+
+𒅁𒁀𒌅 ib-ba-tu ab-baut / up-beat
+𒅁𒁀𒌅 destroy
+
+𒉈𒂊 ne-e /nēn/ ≈ 𒉈𒂗 ne-en /nēn/ "this"  𒉈𒂊 •nage 那个 "this" 𓇑  𒀭𒉌 an-ni jene (die) 𒀭𒈾𒋾
+
+
+𒌓𒑰 ud-dis warte, leuter "repair"
+
+𒀀𒋼𒂊𒋙 bu/a-te-e-shu₂ battlements "walls"
+
+𒀯𒋫𒌋𒋾 mul-ta-u-ti multauti Multitude "Glory"
+
+𒊍 𒄣 𒉺 as-qu-pa  to plant (?) # 𒑙𒑙 
+
+
+𒌑𒂷𒇷 ú-mal-li umalli µfill  ausmalen
+
+𒌑𒊕 𒇸 ᵛúʳ-sak-lil վերջացնել verǰacʻnel "finish" <>  վերջանամ verǰanam <>  végez  vergeh- ≠ versagen
+𒌑𒊕 𒇸 ú-sak-lil <> eskapar
+
+𒄿𒉆𒁍𒌑 i-nam-bu-u2 inambū number/name? "proclaim" :
+𒍥𒅗 zi-kir secret name
+
+𒀝𒋡𒀀 aq-qa-a aqqā aqua "pour (water)" echar լցնել  ᎠᏨᎥᏍᎦ  jactar
+
+𒆳𒆗𒈾𒈾 lab-na-na Lebanon / Canaan
+𒆷𒁉𒅔 la-bi-in Building  <> AnBau <> stone
+
+𒌑𒆳𒊑𒍝 u2-sat-ri-za "fix" <> mount
+𒌑𒆳𒊑𒍝 va-svariza свързвам svǎrz.vam "fasten"
+𒌑𒆳𒊑𒍝 va.sat.riza <> vastmaken, fast, fasten, feststellen, fixate, fixer 
+𒌑𒆳𒊑𒍝 vasat.riza <> fast[[rig]] rögzít
+
+𒇷𒅀𒀀𒊑𒐼 li-yaⁿ ᶠa-ri-sa "forest trees"
+
+𒈨𒋤 me-sir4 ≈ messing in 
+
+𒌑𒋥𒋫𒀀 u2-rat-ta-a ≈ herrunter
+𒌑𒋥𒋫𒀀 hang
+
+𒁴𒈨 TIM-MIⁿ tulmin ᵗcolimn "column"
+𒁴𒈨 ˢTIM-Mᵇ स्तंभ stambh "column" <> Stamm stûn  سَتُون satūn ستون sütun ستنه stǝ́na Ständer  столб stolb
+𒁴𒈨 ˢTIM-Me սիւն ᵗsiwn "column"
+
+𒄭𒀉𒋾 ˢhi-it-ti ˢhīti "side"  𒄭 ŠAR₂  ☑
+
+𒀠 𒇻 al-lu alu  עֹל 'ol "heavy burden"
+
+𒆰	kul	kul	heavy;
+𒄑𒀠𒇻 c-al-luᵐ  "heavy"
+𒄋;𒂊𒈝	ᵏalim;ᵏe-lum ᵏalim	heavy <> kabtum m, kabittum f, kabūtum m pl, kabtātum 
+
+𒄑𒀠𒇻 𒌝𒋝𒆪 iz-al-lu mus-sik-ku "Heavy burdens" <> 𓍝  scale 
+𒄑𒀠𒇻 mu.iz/c-al-lu <> muscle
+
+𒌝 um(alu)  حِمْل ḥiml "burden"  짐 jim  muirear
+
+𓍝 ⇔ [[maat]] [[meter]] [[measure]] [[music]]
+
+𒉈𒌓 BIR₉tú burden 
+
+
+গায়ক gaẏok “singer” Gaukler Gaudi
+
+𒊍𒁉𒌅  az-bi-tu aus-packed <> 𓎛 𓊪 𓏏 𓂘	  Pfote
+
+
+𒉿𒋾𒅅 piʳti-ig ≈ production Fertigung "work"
+
+𒌓𒆷 ud'la udula utula "tell, mound" <> 𓈋 dual dvell undulate 
+
+𒊒𒌒𒁍𒊻  ru-up-pu-us rūpūs rupus :  rapid rise rauf <> rapture up-opus
+
+
+𒈜𒈾 lab.na lebanon l'eben "stone"
+𒆦𒋰𒈾 lab.na lebanon l'eben "stone"
+
+
+𒉿𒋢 pi-su face
+
+𒅆𒆍𒋾 si₃kit-ti ≈ sculpture
+
+𓃹 كَانَ kāna *kawan- “to be or exist in a place”
+
+ma + causative + gene
+𒈦𒃷 mas-gan2 masgan  મકાન makān مَکَان makān مَكَان makān מָכוֹן mɔḵōn  መካን mäkan "building" 
+𒈦𒃷 mas-gan2 masgan "building" <> mosque masken : skin tents
+𒈦𒃷 mas-gan2 مَبْنَى mabnā <> ماڑی máří

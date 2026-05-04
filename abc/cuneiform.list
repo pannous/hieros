@@ -8,11 +8,17 @@
 #	ng => ĝ
 #	g̃ => ĝ
 # udug2    ŠITA₂
+# U 	𒌑  	# ⚠️ TEMPORARY Hammurabi fix ⚠️
+SAH 	𒋚 		# ⚠️ TEMPORARY Hammurabi fix ⚠️
+SHA 	𒐼 		# ⚠️ TEMPORARY Hammurabi fix ⚠️
+SA 	𒐼 		# ⚠️ TEMPORARY Hammurabi fix ⚠️ vs 𒂍
+# SHU 	𒋙 		# ⚠️ TEMPORARY 
+SHU 	𒋗 	# todo fix ŠU!!
+qu2 	𒆪
 U1 	𒌋
 biṭ 	𒀉  # ≈𒉌𒁹𒑊 ??
 pit 	𒂍
 ûmi 	𒈪
-U 	𒌑  	# ⚠️ TEMPORARY Hammurabi fix ⚠️
 IL 	𒀧 	# ≠ 𒀠 AL vs IL 𒅋 simplified orthography temporary or just Hammurabi?
 I	𒄿
 KIM 	𒁶
@@ -179,7 +185,7 @@ kit 	𒆍
 qabal 	𒉠  	•qarba coreba
 MUQ 	𒈮 
 lak 	𒋃
-ya 	𒄿𒀀  	(ligature)
+ya 	𒅀 	#𒄿𒀀  	(ligature)
 V 	𒌋
 1  	𒁹
 3 	𒐺
@@ -197,7 +203,6 @@ I2 	𒐊
 IÁ	𒐊
 IA2 	𒐊
 šal 	𒊩
-qu 	𒆪
 Qí	𒆠
 qé 	𒄀  	? KE2
 šah 	𒋚
@@ -215,7 +220,7 @@ Rash 	𒊕
 Ras 	𒊕
 Raš 	𒊕
 SIG5  	𒋟 
-SHU2 	𒋟 
+SHU3 	𒋟 
 šú 	𒋙
 mut 	𒉸
 DUMU 	𒌉
@@ -3735,7 +3740,7 @@ SÍ	𒍣
 # RÁ	𒁺
 šîm 	𒋆 
 abnim 	𒅔𒌓
-mal 	𒋛 	≈𒈠 ma ≈ 𒂷
+mal 	𒂷 	# ? 𒋛 	≈𒈠 ma ≈ 𒂷
 bît 	𒂍
 ḳal	𒆗
 ḲA 	𒋡
@@ -4125,3 +4130,16 @@ SACH 	𒋚
 sašh 	𒋚
 # SIG14	? 	using SIG4	𒋞 SIG7	𒅊 SIG9	𒋛 SIG10	𒋧 SIG17	𒄀
 tiĝ4 	𒋾 	tig̃₄ tij4
+ussu2 	𒀳   	#𒀸𒐺𒁹 ≈ 𒐀𒐺𒁹
+uššu 	𒀳   	#𒀸𒐺𒁹 ≈ 𒐀𒐺𒁹
+gul2 	𒆰
+𒆳𒆳 	nat # nature in senator
+qu2 	𒄣 	# ≈ 𒑙𒑙 ≈ 𒁁·𒀸𒑙  
+lab 	𒆗
+sat 	𒆳
+sir4 	𒋤
+kipar 	𒅗
+TIMES 	×
+MUS 	𒌝 
+lab2 	𒈜
+lup 	𒈜
