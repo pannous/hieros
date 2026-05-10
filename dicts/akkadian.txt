@@ -2014,8 +2014,8 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄖𒋗𒊒 	gu-šu-ru
 𒄖𒋗𒊒 	beam, tree-trunk
 
-𒄖𒍝𒇻 	gu-za-lu 𒄑𒄖𒍝  ᴳᴵˢ GU.ZA kussī chaisseˡ kursəyā כורסיא  कुर्सी kursī
-𒄖𒍝𒇻 	throne-bearer Kanzler
+𒄖 𒍝𒇻 	gu-za-lu 𒄑𒄖𒍝  ᴳᴵˢ GU.ZA kussī kuzzu chaisseˡ kursəyā כורסיא  कुर्सी kursī counsel
+𒄖𒍝𒇻 	throne-bearer Kanzel Kanzler 
 
 𒄗𒄷 	ziḫ-ḫu
 𒄗𒄷 	a mark on the liver
@@ -2075,7 +2075,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄥𒄥𒊒 	esp. coppersmith, metal-worker
 𒄥𒄥𒊒 	•l'gab-qur-ru < LAGAB •cop-qur-ru •qurᵇᶥ-ru  [[doublication]] 
 
-•𒄥𒈨𒌍 <>  мыскер mısker مسگر mesgar مِسگەر  coppersmiths ++?
+•𒄥𒎌 <>  мыскер mısker مسگر mesgar مِسگەر  coppersmiths ++?
 
 𒄥𒊒𒉡 	gur-ru-nu cairn | 𓈎 𓄿 𓇋 𓇋 𓊎 +++
 𒄥𒊒𒉡 	heap, pile
@@ -2654,7 +2654,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅆𒄷 	grown (tall)
 
 𒅆𒅆𒌅 	ši-ši-tu system <>
-𒅆𒅆𒌅 	•myg-ši-tu ma.skin ⇔ kaskin kašiⁿ կաշ [[𒋢]] KUŚ   mas.kɑni კანი skin[ᵐᵉˢ](𒈨𒌍) 𓄟𓂓[[𓄛]]  masken մաշկ  mɑʃka 
+𒅆𒅆𒌅 	•myg-ši-tu ma.skin ⇔ kaskin kašiⁿ կաշ [[𒋢]] KUŚ   mas.kɑni კანი skin[ᵐᵉˢ](𒎌) 𓄟𓂓[[𓄛]]  masken մաշկ  mɑʃka 
 𒅆𒅆𒌅 	film, layer, skin
 
 𒅆𒅗𒊒 	ši-ka-ru ⲥⲕⲟⲣⲕⲉⲣ skorker
@@ -3001,7 +3001,7 @@ vs
 𒅗𒁁𒌅 	ka-bat-tu 𐎋𐎁𐎄 kabidu ከብዲ käbdi כבדא kaḇdā  كَبِد kabid כָּבֵד kavéd 
 𒅗𒁁𒌅 	innards, liver ከብዲ “belly” => body
 
-𒅗𒁍 	ka-bu cap! +++
+𒅗𒁍 	ka-bu cap! crap! +++
 𒅗𒁍 	(animal) dung ~ 𒅗 DUG 
 
 𒅗𒁕𒁺 	ka-da-du
@@ -4561,8 +4561,8 @@ _𒆳 	five ⚠️
 𒈨𒌅 	šip-tu
 𒈨𒌅 	incantation, interest, judgement, old woman, spell
 
-𒈨𒌍𒊑𒌅 	meš-re-tu
-𒈨𒌍𒊑𒌅 	limbs
+𒎌𒊑𒌅 	meš-re-tu
+𒎌𒊑𒌅 	limbs
 
 𒈩𒆷𒉡 	miš-la-nu
 𒈩𒆷𒉡 	a drainage tile, half (shares) of profit
@@ -8332,7 +8332,7 @@ https://glosbe.com/akk/en/%F0%92%8A%AD
 9 	tešē 	tišīt 	tišûm	 ??
 10 	ešer 	ešeret 	ešrum  ?? vs U/TEM 𒌋 ten! ↔ 𒌓 time 
 60 	šūš 	↔ sis:sixty 	↔ Zeus? 	δuis	60  𒐑 DIŠ !
-100 	meʾat, māt 	SUMER: 𒈨 ME ~ mille   𒈨𒌍 mes ~ 𒈦 MAŠ + mas much more
+100 	meʾat, māt 	SUMER: 𒈨 ME ~ mille   𒎌 mes ~ 𒈦 MAŠ + mas much more
 1000 	līm 		↔ mille		↔ LIMMU  (4)  𒐼  4th Order
 
 PRS: 'to decide, distinguish, separate' 
@@ -12241,6 +12241,9 @@ vs present
 𒉿𒋢 pi-su face
 
 𒅆𒆍𒋾 si₃kit-ti ≈ sculpture
+𒅆𒆍𒋫 si-kit-ta ≈ sculpture
+
+𒌍𒆠 esh-kiᵛ inscribed
 
 𓃹 كَانَ kāna *kawan- “to be or exist in a place”
 
@@ -12248,3 +12251,105 @@ ma + causative + gene
 𒈦𒃷 mas-gan2 masgan  મકાન makān مَکَان makān مَكَان makān מָכוֹן mɔḵōn  መካን mäkan "building" 
 𒈦𒃷 mas-gan2 masgan "building" <> mosque masken : skin tents
 𒈦𒃷 mas-gan2 مَبْنَى mabnā <> ماڑی máří
+
+𒀾𒋙 as2-su2 as-soon
+𒀾𒋙 "then ... / now ..." 𓊢  ϫⲉ <> 𓎡 𓄿 𓀁 <> 𓇋 𓐍 𓏛 <> 𓅓 𓂧 𓃹 𓈖 𓂻 | from then on |
+
+𒆳𒋾 sat-ti satti sati
+𒐼𒀜𒋾 sa-at-ti sātti sāti
+𒐼𒀜𒋾 satisfy, please 
+
+𒆠𒁉𒅖 ki-bi-is
+𒆠𒁉𒅖 worship <> bishop priest guerre @ urbis?
+
+𒀭𒌑𒋾 ʰilu-u-ti ʰiluti Heiligtum
+𒀭 𒌑𒋾  divinity
+
+𒂊𒇻𒌋 e-luᵛu
+𒂊𒇻𒌋 libations ♡
+
+𒇷𒄿𒌅 li-i-tu ≈ lītu light
+𒇷𒄿𒌅 glory
+
+𒃶 𒋗𒋾 kan-šuˡti 
+𒃶 𒋗𒋾 submissive  <> insult consult @ sultan
+
+𒌑𒐼𒉺𒀀 u₂sa-paʳaᶥ
+𒌑𒐼𒉺𒀀 _ praise
+
+𒁍𒄴𒊑𒅎 puḫrim assembly
+
+
+𒊒 #sid side in 
+𒅁𒁖𒊒 ip-par-sid hypercede 
+𒅁𒁖𒊒 flee
+<>
+𒀉𒋫𒆗𒊕𒅆𒁺 it-ta-nap-ras-si-du ... proceed
+𒀉𒋫𒆗𒊕𒅆𒁺  flee
+
+𒂊𒑰𒅆 e-dis-si edisiⁿ  адзі́н  adzín  оди́нъ odín *(j)edinъ* *edīˀnas*  *h₁edʰ-one jediný jeden
+𒂊𒑰𒅆 e-dis-si “odyssey”
+𒂊𒑰𒅆 alone  𒑰ᶥᵍ  1ᶥᵍ  独	dú <> 𓈋 dual <> trenn
+
+𒂊𒁺 	ᶜeˡdu > seul™ seldom
+𒂊𒁺 	e-duⁿ оди́н odín "alone"
+𒂊𒁺 	ᵍe-duⁿ jediný "alone, one"
+𒂊𒁺 	eᵏdu एकटी ekṭī "alone"
+𒂊𒁺 	alone, single, sole, to know
+
+
+𒍀	ušu	ušu	alone	unsu einzig		#ēdiššu 
+
+𒋫𒀀𒆷𒄴𒄷𒌦 ta-a-la-ah-hu-un  Teil : dāla- leave + alone = 
+𒋫𒀀𒆷𒄴𒄷𒌦 leave alone
+
+
+𒋚𒈦𒋾 	ᵗsah-mas-ti "tumult"
+𒆠𒅖𒌅 	ᵗki-mil-tu <> tumult <>  𒋼𒀀𒁲𒈪𒅀𒊍 kardimiyaz
+𒅎	tumu	wind 	tumult	
+
+𒌓𒈠𒊑𒌅  tam-ma-ri-tu
+𒋫𒈠𒊑𒌅 Tamaritu Ruler of Elam <>  𓇾 𓌸 𓂋 "Beloved Land"
+
+𒂕 𒀀𒄩𒎌 arku aħamis "after each other"
+
+𒁄𒁺𒊻 bal-du-us belivedᵘˢ
+𒁄𒁺𒊻 alive
+
+𒌑𒉺𒅁𒋢𒌋 u-sab-su-u aus-opus
+𒌑𒉺𒅁𒋢𒌋 make, made (they) G!
+
+𒀠𒋰𒊕𒋢 al-tap-ras-su ulta-press
+𒀠𒋰𒊕𒋢 send  𓉐 𓂋 𓂻
+
+𒄿𒌁𒁀 iⁿtur₂ba 
+𒄿𒌁𒁀 enter
+
+𒆠𒄿 ki-iᵐ comme ...
+𒆠𒄿 ki-iⁿ quan ...
+𒆠𒄿 then ( when came ... )
+
+
+𒌑𒊺𒍣𒁍 u2-she-zi-bu
+𒌑𒊺𒍣𒁍 u₂šeᵛzi-buᵈ
+𒌑𒊺𒍣𒁍 save(d) <> salvat
+
+𒄴𒋫𒁁𒄸 ih-ta-bat-edu ƒ
+𒄴𒋫𒁁𒄸 ih-taʳbat-tu √raubt √beat?
+𒄴𒋫𒁁𒄸 plundered 
+
+𒆠𒄿𒀉𒁍𒌑 ki-i-it-bu-u2
+𒆠𒄿𒀉𒁍𒌑 ki-iᵐ ʷit-bu-u²
+𒆠 𒄿 𒀉𒁍𒌑 come with 𓃀
+
+𒄑𒐼𒉺 is-saʳpaᶥ ϭⲣⲏⲡⲓ  
+𒄑𒐼𒉺 iz-sa-pa
+𒄑𒐼𒉺 ic-sa-paʳ 
+𒄑 𒐼𒉺 scepter sceptre
+
+𒄿 𒊬 𒌅 iᵘsar-tu
+𒄿𒊬𒌅 justice
+
+𒁕𒊏𒀀𒋾 da-ra-a-ti darāti duraty dauert duration
+𒁕𒊏𒀀𒋾 ᵉda-raⁿa-ti eternal eternity 
+𒁕𒊏𒀀𒋾 everlasting 
