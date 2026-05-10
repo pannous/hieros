@@ -2,14 +2,14 @@
 𒚑 A·EN 𒀀
 𒚒 A·SHUBUR 𒀀
 𒚓 A·ZATU672 𒀀
-𒚔 A·ONE N14 𒀀
+𒚔 A·N14 𒀀
 𒚕 A2 𒀉
 𒚖  AB 𒀊
 𒚗 AB·A TENU 𒀊
 𒚘 AB·ASH2 𒀊
 𒚙 AB·SHE 𒀊
 𒚚 AB·ZATU659 𒀊
-𒚛 AB·ONE N04 𒀊
+𒚛 AB·N04 𒀊
 𒚜 AB GUNU 𒀊
 𒚝 AB 𒀊
 𒚞 AB2 𒀖
@@ -101,9 +101,9 @@
 𒜙 DIM 𒁴
 𒜚 DIM 𒁴
 𒜞 DU 𒁺
-𒜟 DU·ONE N58 𒁺
+𒜟 DU·N58 𒁺
 𒜠 DU GUNU 𒁺
-𒜢 DU6·ONE N58 𒇯
+𒜢 DU6·N58 𒇯
 𒜥 DU7 𒌌
 𒜦 DU8 𒂃 ?
 𒜧 DU8 𒂃
@@ -127,7 +127,7 @@
 𒜺 DUG·KU6 𒂁
 𒜻 DUG·NAGA 𒂁
 𒜽 DUG·U2 𒂁
-𒜾 DUG·ONE N57 𒂁
+𒜾 DUG·N57 𒂁
 𒜿 DUG 𒂁
 𒝀 DUG·AB2 𒂁
 𒝁 DUG·ANSHE 𒂁
@@ -170,19 +170,19 @@
 𒝪 DUG·UH3 𒂁
 𒝮 DUG·ZATU781 𒂁
 𒝯 DUG·ZATU789 𒂁
-𒝰 DUG·ONE N57 𒂁
-𒝱 DUG·ONE N57 𒂁
-𒝲 DUG·ONE N58 𒂁
+𒝰 DUG·N57 𒂁
+𒝱 DUG·N57 𒂁
+𒝲 DUG·N58 𒂁
 𒝳 DUG OVER DUG 𒂁
 𒝴 DUG 𒂁
-𒝵 DUG·ONE N57 𒂁
+𒝵 DUG·N57 𒂁
 𒝶 DUG TENU 𒂁
 𒝷 DUG 𒂁
 𒝸 DUGUD  𒂂 
 𒝹 DUR 𒄙
-𒞀 E2·ONE N58 𒂍
+𒞀 E2·N58 𒂍
 𒞁 E2 𒂍
-𒞂 E2·ONE N58 𒂍
+𒞂 E2·N58 𒂍
 𒞃 E2 𒂍
 𒞄 E2 𒂍
 𒞅 E3 𒌓
@@ -212,12 +212,12 @@
 𒞥 EZINU
 𒞦 EZINU
 𒞧 EZINU
-𒞨 EZINU
+𒞨 EZINU <> 𒂡
 𒞩 GA 𒂵
 𒞪 GA 𒂵
 𒞫 GA 𒂵
 𒞬 GA·KASKAL 𒂵
-𒞭 GA·ONE N14 𒂵
+𒞭 GA·N14 𒂵
 𒞮 GA21
 𒞯 GA21·A
 𒞰 GA21·E2
@@ -250,10 +250,10 @@
 𒟕 GA2·KU6 𒂷
 𒟖 GA2·ZATU659 𒂷
 𒟗 GA2 𒂷
-𒟙 GAAR2
+𒟙 GAAR2 𒋼𒀀 GĀR₂  ?
 𒟚 GAAR1
 𒟛 GAAR2
-𒟜 GADA 𒃰
+𒟜 GADA 𒃰 !
 𒟝 GADA GUNU 𒃰
 𒟞 GAL 𒃲
 𒟟 GAL 𒃲
@@ -274,11 +274,11 @@
 𒟯 GAR regardless of context rather than a contextependent reading gar? 𒃻
 𒟴 GARA2 𒂶
 𒟵 GAZI 𒃢
-𒟶 GESHTIN
+𒟶 GESHTIN 𒃾
 𒟷 GESHTIN
-𒟸 GESHTIN
+𒟸 GESHTIN ≈
 𒟹 GESHTU 𒉿 
-𒟻 GESHTU
+𒟻 GESHTU !!!
 𒟼 GESHTU3
 𒟽 GESHTU5
 𒟺 GESHTU TIMES
@@ -290,8 +290,8 @@
 𒠃 GI·NAM2 𒄀
 𒠄 GI·SIG21 𒄀
 𒠅 GI·SHE3 𒄀
-𒠆 GI·ONE N14 𒄀
-𒠇 GI·ONE N58 𒄀
+𒠆 GI·N14 𒄀
+𒠇 GI·N58 𒄀
 𒠈 GI OVER GI 𒄀
 𒠉 GI OVER GI·GISH 𒄀
 𒠊 GI OVER GI OVER GI 𒄀
@@ -309,13 +309,13 @@
 𒠚 GIR3·SHE3 𒄊
 𒠝 GIR3 GUNU 𒄊
 𒠟 GISAL 𒄐
-𒠠 GISH
+𒠠 GISH 𒄑
 𒠡 GISH·DIN PLUS
 𒠢 GISH·DIN PLUS
 𒠣 GISH·DIN PLUS
 𒠤 GISH·SHU2
 𒠥 GISH·SHU2
-𒠧 GISH3 𒄀?
+𒠧 GISH3 𒄀 ?
 𒠨 GISH3 OVER GISH3 12851 𒡑
 𒠩 GISH3
 𒠪 GISHGAL
@@ -350,8 +350,8 @@
   GURUSHDA
 𒡐 HASHHUR
 𒡒 HI
-𒡓 HI·ONE N57
-𒡔 HI·ONE N57
+𒡓 HI·N57
+𒡔 HI·N57
 𒡕 HI GUNU
 𒡖 HI GUNU
 𒡗 HI GUNU
@@ -369,7 +369,7 @@
 𒡤 IN 𒅔
 𒡥 IR 𒅕
 𒡩 ISH 𒅖
-𒡪 ISH
+𒡪 ISH 𒅖 kuš₇ Gischt 
 𒡫 ISH
 𒡬 KA 𒅗
 𒡭 KA·SAR 𒅗
@@ -378,8 +378,8 @@
 𒡱 KAB 𒆏
 𒡲 KAD4 𒆒
 𒡳 KAD4 𒆒
-𒡷 KAL1
-𒡸 KAL2
+𒡷 KAL1 𒆗
+𒡸 KAL2 𒆗
 𒡹 KALAM 𒌦
 𒡺 KALAM 𒌦
 𒡻 KALAM 𒌦
@@ -392,11 +392,11 @@
 𒢂 KAR2 𒃸
 𒢃 KAR2 𒃸
 𒢄 KASKAL 𒆜
-𒢅 KASH
-𒢆 KASH
+𒢅 KASH 𒁉
+𒢆 KASH 𒁉
 𒢇 KASH·SHE
-𒢈 KASH
-𒢉 KASH
+𒢈 KASH 𒁉
+𒢉 KASH 𒁉
 𒢊 KI 𒆠
 𒢋 KI NUTILLU 𒆠
 𒢌 KI NUTILLU TIMES 𒆠
@@ -408,8 +408,8 @@
 𒢕 KIN2 𒄯
 𒢖 KIN2 𒄯
 𒢗 KIN2 𒄯
-𒢛 KISAL1
-𒢜 KISAL2
+𒢛 KISAL1 𒆦 <> 𒆤
+𒢜 KISAL2 
 𒢠 KISIM 𒁬
 𒢡 KISIM 𒁬
 𒢢 KISH
@@ -428,7 +428,7 @@
 𒢰 KUR 𒆳
 𒢱 KUR GUNU 𒆳
 𒢲 KUR GUNU 𒆳
-𒢳 KUSHU2
+𒢳 KUSHU2 𒆵
 𒢴 KUSHU2
 𒢵 KUSHU2
 𒢶 KUSHU2
@@ -452,7 +452,7 @@
 𒣊 LAGAB·UB 𒆸
 𒣋 LAGAB TIMES 𒆸
 𒣌 LAGAB·TWO 𒆸
-𒣍 LAGAB·ONE 𒆸
+𒣍 LAGAB·𒆸
 𒣎 LAGAB 𒆸
 𒣏 LAGAB·HI 𒆸
 𒣐 LAGAB·KUR 𒆸
@@ -480,10 +480,12 @@
 𒣦 MA 𒈠
 𒣧 MA·A 𒈠
 𒣨 MA·MA 𒈠
-𒣩 MA·ONE N58 𒈠
+𒣩 MA·N58 𒈠
 𒣪 MA2 𒈣
 𒣫 MAGUR
 𒣬 MAGUR
+𒣻 MAH 𒀠  𒈤 ƒ
+𒣽 MAH·SAL
 𒣯 MAH TIMES
 𒣰 MAH·KU6
 𒣱 MAH·MASH
@@ -496,8 +498,6 @@
 𒣸 MAH·UR
 𒣹 MAH·UTUA
 𒣺 MAH·ZATU659
-𒣻 MAH
-𒣽 MAH·SAL
 𒣾 MAR 𒈥
 𒣿 MAR GUNU 𒈥
 𒤀 MAR TENU 𒈥
@@ -534,12 +534,13 @@
 𒤤 MUSHEN
 𒤥 ONE N58 BAD
 𒤧 THREE N58 UR31
+N01 ≈ 𒕫 in small 𒖉
 𒤨 NA 𒈾
 𒤩 NA 𒈾
 𒤪 NA 𒈾
-𒤫 NA2 𒈿
+𒤫 NA2 𒈿 
 𒤮 NA2 𒈿
-𒤬 NA21
+𒤬 NA21 ƒ?
 𒤭 NA22
 𒤯 NAB 𒀭
 𒤰 NAGA 𒉀
@@ -551,7 +552,7 @@
 𒤶 NAM 𒉆
 𒤷 NAM 𒉆
 𒤹 NAM2 𒉇
-𒤺 NAM2·ONE N01 𒉇
+𒤺 NAM2·N01 𒉇
 𒤻 NAM2 GUNU 𒉇
 𒤼 NAM2 TENU 𒉇
 𒤽 NANSHE
@@ -571,8 +572,8 @@
 𒥌 NIGIN 𒇔
 𒥍 NIM 𒉏
 𒥐 NIM3
-𒥑 NIMGIR
-𒥒 NINDA 𒃻
+𒥑 NIMGIR 𒂇 
+𒥒 NINDA2 𒉒
 𒥓 NINDA2·AN 𒉒
 𒥔 NINDA2·AN PLUS 1297A 𒥺 𒉒
 𒥕 NINDA2·AN PLUS 𒉒
@@ -591,10 +592,10 @@
 𒥢 NINDA2·U4 𒉒
 𒥣 NINDA2 TIMES 𒉒
 𒥤 NINDA2 TIMES 𒉒
-𒥥 NINDA2·ONE 𒉒
+𒥥 NINDA2·𒉒
 𒥦 NINDA2·TWO 𒉒
-𒥧 NINDA2·ONE 𒉒
-𒥨 NINDA2·ONE 𒉒
+𒥧 NINDA2·𒉒
+𒥨 NINDA2·𒉒
 𒥩 NIR 𒉪
 𒥪 NIR·AN 𒉪
 𒥫 NIR 𒉪
@@ -649,8 +650,8 @@
 𒦟 SAG NUTILLU 𒊕
 𒦠 SAGSHU
 𒦡 SAL 𒊩
-𒦢 SAL·ONE N58 𒊩
-𒦣 SANGA
+𒦢 SAL·N58 𒊩
+𒦣 SANGA 𒊫
 𒦤 SANGA
 𒦥 SANGA
 𒦦 SANGA
@@ -665,13 +666,13 @@
 𒦱 SI·SAL 𒋛
 𒦲 SI·SHE3 𒋛
 𒦳 SI·TUN3 𒋛
-𒦴 SI·ONE N58 𒋛
+𒦴 SI·N58 𒋛
 𒦵 SI4
 𒦶 SI4
 𒦸 SI4
 𒦹 SI4
-𒦺 SIG 𒋝
-𒦻 SIG21
+𒦺 SIG 𒋝 ≈ 𒌓 ≈ 󴢓 > 𒩿
+𒦻 SIG21 𒊹 𒋝 𒋠 𒋧 ? 
 𒦽 SIG23
 𒦾 SIG24
 𒧀 SIG2 OVER SIG2 𒋠
@@ -712,7 +713,7 @@
 𒧧 SILA3 TIMES 𒋡
   SILA3 TIMES
 𒧩 SILA3 TIMES 𒋡
-𒧪 SILA3·ONE 𒋡
+𒧪 SILA3·𒋡
 𒧫 SILA3 𒋡
 𒧬 SILA3·GUG2 𒋡
 𒧭 SILA3·NAGA 𒋡
@@ -724,23 +725,24 @@
 𒧵 SILANITA
 𒧶 SIMUG 𒌣
 𒧷 SU 𒋢
-𒧸 SU·ONE N58 𒋢
+𒧸 SU·N58 𒋢
 𒧹 SU 𒋢
 𒧺 SU 𒋢
 𒧻 SU3 𒋤
 𒧼 SUG 𒆹
 𒧽 SUG5
-𒧾 SUH3
-𒨆 SUKUD.SUKUD
+𒧾 SUH3 𒄗     𒄖 𒠱
+𒨄 SUKUD 𒃴 𒨄 𒨇  𒨅 𒨍 𒨆 𒨈 𒨉 𒨊 󳺪 󳺫 󳺭 󳺮 󳺯 󳺵 󳺾 󳺧
 𒨇 SUKUD GUNU 𒃴
+𒨆 SUKUD.SUKUD 𒃴 
+𒨍 SUMASH 𒋨
 𒨌 SUM 𒋧
-𒨍 SUMASH
 𒨎 SUR 𒋩
 𒨏 SHA 𒐼
-𒨐 SHA·HI GUNU 𒐼
-  SHA·HI GUNU
+𒨐 SHA·HI GUNU 𒐼𒄭
+𒨑 SHA·HI GUNU 𒐼𒄭
 𒨒 SHA GUNU 𒐼
-𒨓 SHA31
+𒨓 SHA31 𒊮 !
 𒨔 SHA32
 𒨕 SHA32 GUNU
 𒨖 SHA3
@@ -748,23 +750,23 @@
 𒨛 SHAH2 𒂄
 𒨜 SHAH2
 𒨝 SHAH2
-𒨞 SHAKIR
+𒨞 SHAKIR 𒍀 ?? <<<
 𒨟 SHAKIR
 𒨠 SHAKIR
-𒨡 SHAM2
+𒨡 SHAM2   Scham! 𒉚  sam₂ 𒉓 𒉛 
 𒨢 SHE 𒊺
 𒨣 SHE OVER SHE 𒊺
 𒨤 SHE TENU 𒊺
 𒨥 SHE 𒊺
+𒨮 SHEN 𒊿
 𒨭 SHEN TENU
-𒨮 SHEN
 𒨯 SHEN·A
-𒨴 SHIDIM
 𒨵 SHIM
 𒨶 SHIM
-𒨷 SHIR
-𒨸 SHIR
-𒨹 SHITA1
+𒨴 SHIDIM
+𒨷 SHIR 𒋓 ≠ 𒂡
+𒨸 SHIR 𒉢
+𒨹 SHITA1 𒋖
 𒨻 SHITA1·SHU
 𒨼 SHITA2
 𒨽 SHITA3
@@ -777,18 +779,18 @@
 𒩄 SHITA GUNU TIMES
 𒩅 SHITA GUNU
 𒩉 SHU GUNU 𒋗
-𒩊 SHU2
+𒩊 SHU2 𒋙
 𒩋 SHU12
-𒩎 SHUR2·ONE N58
-𒩏 SHUR2
-𒩐 SHUR2
+𒩏 SHUR2 Schur 𒊨
+𒩐 SHUR2 
+𒩎 SHUR2·𒁹
 𒩑 TA 𒋫
 𒩒 TA 𒋫
 𒩓 TA 𒋫
 𒩔 TA 𒋫
 𒩕 TA 𒋫
-𒩖 TAG1
-𒩗 TAG1 TENU
+𒩖 TAG1 𒋳  ≠  𒆒 𒡲  𒡳 kam₃  Kamm
+𒩗  TAG1 TENU
 𒩙 TAG3
 𒩚 TAG4 𒋺
 𒩛 TAG 𒋳
@@ -817,21 +819,22 @@
 𒩼 U2 𒌑
 𒩽 U2 𒌑
 𒩾 U2 𒌑
-𒪀 U4·ONE N01 𒌓
+𒪀 U4·N01 𒌓
 𒪂 U4·THREE N01 𒌓
 𒪃 U4·FOUR N01 𒌓
 𒪄 U4·FIVE N01 𒌓
 𒪅 U4·SIX N01 𒌓
 𒪆 U4·EIGHT N01 𒌓
-𒪇 U4·ONE N14 𒌓
-𒪈 U4·ONE N14 𒌓
-𒪉 U4·ONE N14 𒌓
-𒪊 U4·ONE N14 𒌓
-𒪋 U4·ONE N14 𒌓
+𒪇 U4·N14 𒌓
+𒪈 U4·N14 𒌓
+𒪉 U4·N14 𒌓
+𒪊 U4·N14 𒌓
+𒪋 U4·N14 𒌓
   U4·TWO N14
 𒪍 U4·THREE N14 𒌓
 𒪎 U4·THREE N14 𒌓
-𒪏 U4·ONE N57 𒌓
+N57 ≈ 𒀸
+𒪏 U4·N57 𒌓
 𒪐 U4·TWO N57 𒌓
 𒪒 U4·FOUR N57 𒌓
 𒪓 U4·FIVE N57 𒌓
@@ -856,7 +859,7 @@
 𒪫 UH3
 𒪬 UH3 TENU
 𒪭 UH3
-𒪮 UKKIN 𒌺
+𒪮 UKKIN 𒌺 ƒ?  <> 𒊿 𒨮 SHEN Schenke 𒨭 𒨯 <> 𒨵 𒨶 SHIM !
 𒪲 UKKIN·HI 𒌺
 𒪳 UKKIN·NI 𒌺
 𒪴 UKKIN·TWO 𒌺
@@ -873,7 +876,7 @@
 𒫂 UR 𒌨
 𒫃 UR GUNU 𒌨
 𒫄 UR 𒌨
-𒫉 UR31
+𒫉 UR31 𒃡 room
 𒫊 UR32
 𒫍 UR32
 𒫎 UR4 𒌴
@@ -884,31 +887,31 @@
 𒫓 URI 𒌵
 𒫔 URI3 𒌶
 𒫕 URI5
-𒫙 URU1·KI
-𒫚 URU1·NIMGIR
+𒫙 URU1·KI 𒌷
+𒫚 URU1·NIMGIR 𒂇
 𒫛 URU1·U4
 𒫜 URU1·THREE
 𒫝 URU2 𒍍
-𒫞 URU2·ONE 𒍍
+𒫞 URU2·𒍍
 𒫟 URU3 TIMES 𒌶
-𒫠 URU1
-𒫡 URU2 𒍍
+𒫠 URU1 𒌷
+𒫡 URU2 𒌷
 𒫢 URU 𒌷
 𒫣 URUDU 𒍏
-𒫤 URUDU 𒍏
 𒫥 URUDU 𒍏
 𒫦 URUDU GUNU 𒍏
-𒫩 USH
+𒫤 URUDU ?
+𒫩 USH 𒍑  GIŠ₃ 𒠠 ĝish 
 𒫪 USH OVER USH
 𒫫 USH
 𒫬 USH·TAR
 𒫭 USH OVER USH
-𒫮 USHUR31
-𒫯 USHUR32
-𒫰 UTUA 𒁭
+𒫮 USHUR31  𒚐·𒚐 𒀀·𒀀 𒗯 
+𒫯 USHUR32 𒃡 ?
+𒫰 UTUA 𒁭 f 
 𒫱 UTUA TENU 𒁭
 𒫲 UTUA 𒁭
-𒫳 UTUL
+𒫳 UTUL 𒀖𒇻 ƒ
 𒫵 UTUL
 𒫶 UTUL
 𒫷 UZU 𒍜
@@ -921,7 +924,8 @@
 𒬀 ZI 𒍣
 𒬁 ZI 𒍣
 𒬂 ZI 𒍣
-𒬃 ZUBI 𒉽
+𒬃 ZUBI 𒉽 𒈿 ƒ?
+
 𒬄 ZATU620
 𒬅 ZATU621
 𒬇 ZATU621
@@ -941,7 +945,7 @@
 𒬚 ZATU635
 𒬛 ZATU636
 𒬜 ZATU637
-𒬟 ZATU642
+𒬟 ZATU642 𒭻
 𒬠 ZATU643
 𒬡 ZATU644
 𒬢 ZATU644
@@ -954,7 +958,7 @@
 𒬮 ZATU651 GUNU
 𒬯 ZATU659
 𒬰 ZATU659·ONE
-  ZATU659·ONE
+   ZATU659·ONE
 𒬲 ZATU659·ONE
 𒬳 ZATU662
 𒬴 ZATU662·ONE
@@ -987,12 +991,12 @@
 𒭷 ZATU714·HI
 𒭸 ZATU717
 𒭹 ZATU718
-𒭺 ZATU719
-𒭻 ZATU720
+𒭺 ZATU719 𓐦  󴬘 󴬙 󴬚 𓐥
+𒭻 ZATU720 𒬟
 𒭼 ZATU721
 𒭽 ZATU722
 𒭾 ZATU723
-𒭿 ZATU725
+𒭿 ZATU725 𓆼
 𒮀 ZATU726
 𒮁 ZATU726
 𒮂 ZATU726
@@ -1004,7 +1008,7 @@
 𒮋 ZATU735
 𒮌 ZATU736
 𒮍 ZATU736
-𒮎 ZATU737
+𒮎 ZATU737 𓊀 𓉐
 𒮏 ZATU737·AB
 𒮐 ZATU737·BU
 𒮑 ZATU737·BUR
@@ -1022,7 +1026,7 @@
 𒮞 ZATU749
 𒮟 ZATU749
 𒮠 ZATU749
-𒮡 ZATU750
+𒮡 ZATU750 󴬃
 𒮢 ZATU751
 𒮣 ZATU751
 𒮤 ZATU751
@@ -1073,5 +1077,9 @@
 𒯤 ZATU851
 𒯥 ZATU854
 𒯦 ZATU858
-𒯧 ZATU859
+𒯧 ZATU 859
 
+N14 𒕢 𒕹 𒖂
+
+𒕐 𒕑 𒕒 𒕓 𒕔 𒕕 𒕖 𒕗 𒕘 𒕙 𒕚 𒕛 𒕜 𒕝 𒕞 𒕟 𒕠 𒕡 𒕢 𒕣 𒕤 𒕥 𒕦 𒕧 𒕨 𒕩 𒕪 𒕫 𒕬 𒕭 𒕮 𒕯 𒕰 𒕱 𒕲 𒕳 𒕴 𒕵 𒕶 𒕷 𒕸 𒕹 𒕺 𒕻 𒕼 𒕽 𒕾 𒕿 𒖀 𒖁 𒖂 𒖃 𒖄 𒖅 𒖆 𒖇 𒖈 𒖉 𒖊 𒖋 𒖌 𒖍 𒖎 𒖏 𒖐 𒖑 𒖒 𒖓 𒖔 𒖕 𒖖 𒖗 𒖘 𒖙 𒖚 𒖛 𒖜 𒖝 𒖞 𒖟 𒖠 𒖡 𒖢 𒖣 𒖤 𒖥 𒖦 𒖧 𒖨 𒖩 𒖪 𒖫 𒖬 𒖭 𒖮 𒖯 𒖰 𒖱 𒖲 𒖳 𒖴 𒖵 𒖶 𒖷 𒖸 𒖹 𒖺 𒖻 𒖼 𒖽 𒖾 𒖿 𒗀 𒗁 𒗂 𒗃 𒗄 𒗅 𒗆 𒗇 𒗈 𒗉 𒗊 𒗋 𒗌 𒗍 𒗎 𒗏 𒗐 𒗑 𒗒 𒗓 𒗔 𒗕 𒗖 𒗗 𒗘 𒗙 𒗚 𒗛 𒗜 𒗝 𒗞 𒗟 𒗠 𒗡 𒗢 𒗣 𒗤 𒗥 𒗦 𒗧 𒗨 𒗩 𒗪 𒗫 𒗬 𒗭 𒗮 𒗯 𒗰 𒗱 𒗲 𒗳 𒗴 𒗵 𒗶 𒗷 𒗸 𒗹 𒗺 𒗻 𒗼 𒗽 𒗾 𒗿 𒘀 𒘁 𒘂 𒘃 𒘄 𒘅 𒘆 𒘇 𒘈 𒘉 𒘊 𒘋 𒘌 𒘍 𒘎 𒘏 𒘐 𒘑 𒘒 𒘓 𒘔 𒘕 𒘖 𒘗 𒘘 𒘙 𒘚 𒘛 𒘜 𒘝 𒘞 𒘟 𒘠 𒘡 𒘢 𒘣 𒘤 𒘥 𒘦 𒘧 𒘨 𒘩 𒘪 𒘫 𒘬 𒘭 𒘮 𒘯 𒘰 𒘱 𒘲 𒘳 𒘴 𒘵 𒘶 𒘷 𒘸 𒘹 𒘺 𒘻 𒘼 𒘽 𒘾 𒘿 𒙀 𒙁 𒙂 𒙃 𒙄 𒙅 𒙆 𒙇 𒙈 𒙉 𒙊 𒙋 
+𒯨 𒯮 𒯰 𒯱 𒯲 𒯳 𒯴 𒯵 𒯶 𒯷 𒯸 𒯹 𒯺 𒯻 𒯼 𒯽 𒯾 𒯿

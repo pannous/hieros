@@ -1,174 +1,175 @@
- № 	English 		Yoruba 	Igbo 	Mandinka 	Fula 	Jango 	Vai 	Wolof 	PI	Best
-1 	I 	'a''me'	émi, mo 	mụ 	m, n 	mi 	mi 	ŋ 	ma 	me	mi 
-2 	you (singular) 	ø, 𓎡𓈖	ìwọ, ọ (informal); ẹ̀yín (formal) 	gị 	ali, i 	a 	é 	í 	nga 	(an)gyu	gị, nga 
-3 	he 	on	ó, òun 	yá 	a 	o (mo) 	o 	a 	mu 	on, heo	òun, ó
-4 	we 	'a''we'	àwa, a 	ányìnwà (incl.), ányì-nílé (excl.), 	an 	en (incl.), min/men (excl.) 	an 	mú 	nu 	'a''we nous, man!'	àwa, nu 
-5 	you (plural) 	𓎡𓈖	ẹ̀yin 	únù-nílé 	aw 	on 	un 	wó 	ngeen 	ni	
-6 	they 	𓈖	àwọn 	há 	u 	ɓe 	wèn 	anú 	ñu 	eux 𓈖	
-7 	this 	al, a 一	eléyí, èyí 		ñing 	ɗun 	di 	kɛ mɛɛ̃ 	lii 	el, le, den	lii, ɗun 
-8 	that 	一	èyí, èyítí, ohun tí 		woo 	ɗun 	da 	kɛnú 	lele, lale 	le, den	
-9 	here 		ibí, níhàyín 		jang 	ɗoo 	jò 	nínyɛ 	fi 		
-10 	there 		lọhun, nibẹ 		jee 	ton 		núũ 	fa 	na	
-11 	who 		tani, ẹnití 			homo, hommbo (plural: homɓe) 	kòn 	jɔ 	kan 	quan, whom	
-12 	what 	qun?	kíni, kínlá, èwo 			koɗun, honnɗun 	sìn 	mɓe 	lan 	ma? qvn? qwo?	mɓe, kíni, èwo
-13 	where 		ibo, níbo, níbití 			hoto, toye 		mínyá 	ana, fan 		
-14 	when 		ìgbàtí 			mannde, honnde, ndeye 		mínyá banda 	kañ 	quan	kañ 
-15 	how 	wie	bí, báwo 	naka 	ñaadii 	honno, noye 	nò 	káma 	naka 	comme?	káma 
-16 	not 	𓂜 kein	kò, kì 	déedéet 		alaa 	'na''a '	máã 	du, bu, déedéet 	de¬ no…	'na''a '
-17 	all 	𓎟	gbogbo, olúkúlùkú 		bee 	fow, fop, fuu 	pèpè 	kínɛ́ĩ 	lëpp, yëpp 	𓎟 all, kall	olúkúlùkú
-18 	many 	𓉻 𓏠  populous	púpọ̀, pọ̀, ọ̀pọ̀lọpọ̀ 			buy, ɗuɗaal 		kúluŋ ɓa 		popul poly	ọ̀pọ̀lọpọ̀ púpọ̀, 
-19 	some 	quan™	díẹ, kan, àwọn kan 			yoga 		ɓɔ́ɔ 	ay 	1… quan	àwọn kan
-20 	few 	𓂝 𓈖 𓂧 𓅪 	díẹ 			seeɗa 		kpɔ́ fɛlá 	tuuti 		
-21 	other 		òmíràn, míràn 			'go''o '		mandé 	beneen 		
-22 	one 	mono	mení, ọ̀kan 	otu 	kiling 	'go''o, gooto (human) '	oko 	lɔndɔ́ 	benna, benn 	ben, ek …--	oko 
-23 	two 	min	méjì 	abua 	fula 	ɗiɗi, ɗiɗo (humans) 		fɛlá 	ñaar 	ni, di do	ɗiɗo
-24 	three 	metari	mẹta 	atọ 	saba 	tati, tato (humans) 		sakpá 	ñetta, ñett 	ø, third	tati
-25 	four 	𔖻 mi 𔗘 mi māhar	mẹrin 	anọ 	naani 	nayi, nayo (humans) 		náãni 	ñenent, ñeent 	ńila  𐦊𐦊 നാൽ- /n̪aːl-/ @Ural/Dravidian	nayi
-26 	five 	𒈨𓈗	màrún 	ise 	luulu 	jowi, joyi; joyo, jowo (humans) 		sóólú 	juróom 	-- ϯⲩ	
-27 	big 	𓁶 𒄭	nlá, tóbi, gbórin 	ukwu 		mawɗo, maw- 		ɓa 	mag 	mᵇega, mutho	ɓaᵍ, mag, mawɗo
-28 	long 	远 廴	jìnnà, gùn, pẹ́ 			juutugol (=to be long/tall/big) 		tɛ jaŋ 		yong<llong	jaŋ, jìnnà
-29 	wide 	𓋴 𓐍 𓎸 𓏛 	gbòrò, jìnnà 	mbara 		njaju 		já kolo 			
-30 	thick 	𓅱 𓂸 ! 𓏛 	nípọn 			gouma,tekki 		kpɔ́tú 		thick …--	tekki
-31 	heavy 	weighwy	wúwo 	ike 		teddugol (=to be heavy) 		fahanyá 		'wow;) d''ike '	
-32 	small 	𓈙 𓂋 𓂋 𓅪	kéré™, diẹ 	ntakiri 		famar 		leŋ 	ndaw 		
-33 	short 	𓈙 𓂋 𓂋 𓅪	kúrú™ 			raɓɓiɗugol (=to be short),dammuɗo 		kúndú 	gatt 	kúrú.az/de kurz court √cut	kúrú, gatt 
-34 	narrow 	𓎼 𓄿 𓎣 𓅪 	tóró, híhá, há 	kpachiri 		ɓiɗɗi 		lɔ kpátiya 			
-35 	thin 	𓇾 𓅮 𓈎 𓏗 ? 	tínrín, tẹ́rẹ́ (?) 			shauɗo 		kpányá 	sew 	tínrín, short	tínrín, shauɗo 
-36 	woman 	𓈟 𓁐 人	obìnrin 	nwanyị 	musoo 	debbo (plural: rewɓe) 		musú 	jigéen 	nüwana …--	nwanyị 
-37 	man (adult male) 	𓌢 人	ọkùnrin 	nwokè 		gorko (plural: worɓe) 		kpakoo 	góor 	Kerl	góor 
-38 	man (human being) 	男	ènìyàn 	ndì mmadụ 		neɗɗo (plural: yimɓe) 		mɔ kɛ́ndɛ́ 	nit 	𓎛 𓃹 𓈖 𓀔	
-39 	child (a youth) 	𓄟	èwe, ọmọ, ọmọdé 			ɓiɗɗo (plural: ɓiɓɓe) 		ɗléŋ 	xale 	bit, Bube, xale~chile	
-40 	wife 	𓁹 𓈞 𓁐	ìyàwó, aya 		musoo 	ɓeyngu,kore 		musú 	jabar 		
-41 	husband 	𓌢	ọkọ 		kee, kewo 	moodi.gorko 		kaí 	jëkkër 		
-42 	mother 	𓅑 𓅐 Amme	ìyá, abiyamọ 	nne 	naa 	neene.yaaye 		ɓa 	yaay, ndey 	anna, nü	nne 
-43 	father 	𓅷 𓄿 𓇋 𓇋 𓂺 𓀀	bàbá 	nna 	baabaa 	baaba 		fa 	baay 	baba	bàbá 
-44 	animal 	𓂧 𓂋 𓄛  	ᵗẹran 			kullun,mardi marle(plural) 		kɛ́ndɛ́ feŋ 	rab 	mortal Rabe ᵀieran	
-45 	fish 	≈ 𓆑𓆓	ẹja 	azu 	ñewo 	linngii (plural: liƴƴi) 		nyínyɛ́ 	jën 	𓇋 𓆛 𓈖 nauo	ñewo 
-46 	bird 	𓅽	ẹiyẹ, ẹyẹ abìyẹ́ (?) 	nnụnụ, okuko (chicken) 	kunoo 	sondu ( plural: sholli) 		kondé 	picca, picc 	air, niao, chick, birdç	okuko, abìyẹ́, picc 
-47 	dog 	𓃡	ajá 	nkịta 		rawaandu, bareeru,kutiru 		wulú 	xaj 	wolf, Köter	wulú, kutiru 
-48 	louse 	𓆨 ϣⲉⲛ(ⲧ)	ᶴiná 	igwu 	duñoo, karankoo 	tenga (plural: tenɗi) 		nyaá 	teen 	√turn 𓎡 𓏏 𓏏 𓆨 gnat	karankoo
-49 	snake 	𓆑𓆓	ejọ́ 	agwo 	capatoo, saa 	mboddi 		kalá 	jaan, saa 	'Kar, serpento, Ka''python'	kalá, 
-50 	worm 	𓎡 𓄿 𓂓 𓏤 𓆙  √coil	ekòló, kòkòròìdinaràn 	idide 	kaliyaa 	ngilnga (plural: gilɗi) 		tɔɔnɔ́ɔ̃ 	saan 	√turn kokor!	
-51 	tree 	𓋴𓆭	igi 	osisi 	kapalipaloo, yiroo 	lekki 		kɔŋ	garab 	Esche	osisi 
-52 	forest 	𓋴𓆭	igbó, ẹgàn 	ohia 		ladde 		fílá 		fir, firasᵗ	fílá 
-53 	stick (of wood) 	𓌚 ≈ 𓈎 𓌳 𓄿 𓌙 𓅯 𓏜	kùmọ, ọgọ (?) 			sawru 		kɔŋ 			
-54 	fruit 	𓇨 𓏙 𓈎 	éso, ọmọ 			biɓɓe-leɗɗe 		kɔŋ kpɔ́ 		carpo?	kpɔ́ 
-55 	seed 	𓂋	irúgbìn, irúmọ 			aawdi 		kpɔ́ 			
-56 	leaf 	𓄔 𓏤   页 叶	ewé 			ɗerol, haako 		jamɓá 			
-57 	root 	𓍯 𓄿 𓃀 𓆰	gbòngbò, ìpilẹ̀sẹ̀ 			ɗaɗol 		súú 			
-58 	bark (of tree) 		èpo igi 			sheɓɓe 		fóo 			
-59 	flower 	𓊃 𓈙 𓆸 	òdòdó 			piindi 		jamɓá fu 			
-60 	grass 	𓋴 𓇐 𓏮 𓆰 𓁸 	koríko 			fuɗo 		pii 	nax, ñax 		
-61 	rope 	𓍱 𓋴 𓍢	okùn 			boggol 		julú 		Jule?	
-62 	skin (of a person) 	𓂧 𓂋 𓄛  	ᵗara 			gurii,laral 		kpoló 	der 	le der!	laral, der, gurii
-63 	meat (as in flesh) 	𓇋 𓆑 𓄻 𓏥  𓊔 	ẹran jíjẹ 		suboo 	teewu,kusel 		suyɛ́ 	yaapa, yapp 		
-64 	blood 	𓊃 𓂐 𓏥  ƒ 𓆑 𓂐 𓏥 	ẹ̀jẹ 	obara 		ƴiiƴam 		woí 	(ƴ=palatalized glottal stop ʔʲ)		woí 
-65 	bone 	𓈎 𓋴 𓌟	egungun 	ọkpụkpụ 		'k''i''al '		kúú 		khuron	'k''i''al kúú '
-66 	fat (noun) 	𓂝 𓆓 𓎙 𓏌 𓏥 	ọ̀rá 			ɓellere 		ɓɛ bhuutɛɛ 		fatɛɛ fatty @ belly	ɓɛ bhuutɛɛ 
-67 	egg 	𓆇	ẹyin 			boofo,ɓoccoɗe 		kéí 	nen 	'Eien, a''kéí '	ẹyin, kéí  
-68 	horn 	𓍋 𓃀 𓅱 𓄑 	ìwo 			luwal 		ɓúú 		ivory 𓍋 𓃀 𓅱 𓄑	ìwo, ɓúú 
-69 	tail 	𓂧 𓂋 𓄛  	ᵗìrú 			wissho 		fɛ́nyɛ́ 		Wisch, fan	wissho, fɛ́nyɛ́ 
-70 	feather (rather not down) 	𓇋 𓇋	ìyẹ́ ẹyẹ 		tiyo 	wiyengo,leɓol 		kundíi 		𓇋, 𓎛 𓆰 𓈖 𓊃 𓎡 𓏏	ìyẹ́ ẹyẹ 
-71 	hair 	𓎛 𓍲 𓈖 𓏮 𓁸 𓏥	irun 	abubara 		cukulol (plural: sukuundu), gasa 		kundíi 	kawar 	𓎛 / 𓍲 𓈖 𓏮 𓁸 𓏥 	ʰirun / kundíi, kawar
-72 	head 	𓁷	orí 	isi 	kungo 	hoore 		kuŋ 	boopa, bopp 		
-73 	ear 	𓁶 / 𓄂 𓏏 𓏤 ƒ	etí 	nti 	tuloo 	nowru (plural: noppi) 		tólo 	noppa, nopp 	Noppe;)	tólo 
-74 	eye 	𓁹	ojú 	anya 	ñaa 	yitere (plural: gite) 		já kpɔ́ 	bet, bot, bët 	eye ball	ojú, bot 𓃀 𓂋 𓂂 𓂂 ⲃⲁⲗ 
-75 	nose 	𒉆 	imú 	imi 	nungo 	hinere, kinal 		súŋ 	baken, bakkan 	nõgse, beak	nungo, súŋ, nungo 
-76 	mouth 	ƒ	ẹnu 	onu 	daa 	hunnduko 		lá 	gemmiñ 	𓂋, ma.hunnduko 	lá …--
-77 	tooth (rather not molar) 	𓅘 𓈖 𓆓 𓎛 𓏏 𓄑	ehín 	eze 	ñingo 	nyiire (plural: nyiiƴe) 		nyíŋ 	boñ 	'a''Zahn, ebony'	eze ehín boñ \	
-78 	tongue 	𓄓 𓈖 𓋴 𓄻	ahọ́n 	ire 	nengo 	demngal 		nɛɛ̃ 	laameñ, lammiñ 		
-79 	fingernail 	≈	èékánná ìka ọwọ́ (?) 			feɗe ngo 		ɓóló loi kɛnji 			
-80 	foot 	𓋴𓃀𓏘	ẹsẹ̀ 	ukwu 	singo 	koyngal, kosngal 		keŋ 		ᶠẹsẹ̀	  …--
-81 	leg 	𓋴𓃀𓏘	ẹsẹ̀ 		singo 	kos ngal 		keŋ 	tanka, tank 	ᶠẹsẹ̀	  …--
-82 	knee 	𓌳 𓋴 𓂾 𓄹 	orúkún, ekún 	ikpere 	kumbalingo 	howru (plural: koppi),hosɓu ndu 		kúmɓéé 	óom 	kunbee knee jambe	kúmɓéé 
-83 	hand 	𓂝 𓂝	ọwọ 	olu 	buloo 	junngo (plural: juuɗe) 		ɓóló 	loxo 	--	
-84 	wing 	𓇋 𓆃	ìyẹ́ apá 			biyeli, bippoɗi 		kafa 	ngelaw 	𓇋 opta, Gefly	ìyẹ́ apá 
-85 	belly 	𓄡 ≈ 𓌢 𓈖	inú, ikùn 	afo 	konoo 	reedu 		ɓú 	biir 	Bauch / 𓄡 Kinder	biir, ɓú / konoo, ikùn
-86 	guts 		ìfun 			cewɗi (singular: sewngol),ketetti 		nuú 		inner neì 内	nuú 
-87 	neck 		ọrùn, ẹ̀mí 	olu 	kango 	hoƴƴudu.daande 		káŋ 	baat 	Gurgel-	káŋ 
-88 	back 	𓄚 𓈖	ẹ̀hìn 	azu 	kooma 	ɓaawo, caggal 		kɔ́ɔ tɛ 	ganaw 	'behin'''	ẹ̀hìn 
-89 	breast 	𓂑	ọmú, ọyọ̀n 	ara 	sunjoo 	enndu (plural: enɗi); kunndulal = nipple 		susu 		Zize <> suck, sunq	susu 
-90 	heart 	𓄣	ọkàn 	obi 	jusoo, kijoo 	ɓernde 		kpuu 		core, center	kijoo, ọkàn 
-91 	liver 	𓏇 𓇋 𓋴 𓏏 𓄹 𓏤	ẹ́dọ 	imeji 	jusoo, buñoo 	ke nye 		falá 			
-92 	to drink 	𓃀 𓂝 𓃀 𓂝 𓈗	mu 		ming 	yarugol 		mi 	naan 	…-gol go.al 𓅨𓅪	
-93 	to eat 	𓏶 𓅓 𓀁 	jẹ, jẹun ≈  khana खाना  		domo 	nyamugol 		lɔŋ 	lekka, lekk 	nyum;)𓅨𓅪	
-94 	to bite 		gé jẹ, bù jẹ 			soppugol, nngattaka 		kiŋ 	maata, matt 	mbite	matt
-95 	to suck 	𓂑𓂑	mu ọmú, fi ẹnu fà mu 			murugol 		saha 		sahaug 	saha 
-96 	to spit 	𓈎 𓂝 𓂐 	tutọ́ 			kartugol 		tɛ ka 		kotz𓅨𓅪	kartu
-97 	to vomit 	𓃀 𓈙 𓂐 	bì, pọ̀ jade 			tutugol 		fɔnɔ 	woccu 	fɔnɔt vɔmɔit würg	fɔnɔ woccu 
-98 	to blow (as wind) 	𒅎	mí kíkanfẹ́ (?) 			luɗugol 		tuu 			
-99 	to breathe 	𒅎	mí 			foofugol 		fiyá ɓɔ 			fiyá ɓɔ 
-100 	to laugh 	𓂋 𓂋 	rẹrin ≈ rire			jalugol 		jɛ́ɛ kɛ 		rire, geloughe, jaul𓅨𓅪	rẹrin, jalugol  
-101 	to see 	𓁹 ir	rí, fojú rí, ríran 		je 	'yi''ugol '		fɛɛ 	gis 	'voie רָאָה‎ ra''ah'	fojú rí
-102 	to hear 		gbọ, tẹtí sí 	anu 		heɗagol,nangol 		laŋ 	dégg 	hörte𓅨𓅪	heɗa
-103 	to know (a fact) 	men-	mọ̀ 			anndugol 		sɔ 	xam 	sava, kennm𓅨𓅪	sɔ, xam 
-104 	to think 	𓂋 𓐍 𓏜 𓅓 	rò, ronú, wòye 			sikkugol,nyumol 		kuŋndɔ kíi ma 	xalaat 	reckon, thinku, kunde	ronú, sikku, kuŋndɔ
-105 	to smell (sense odor) 		gbórùn 			urgol 		kunyɛ 		𓋴𓈖𓂉𓀁 gunye > sense	kunyɛ 
-106 	to fear 	𓎛 𓁷 𓂋	ᶠẹ̀rù, ìfòyà (?) 		sila 	hulugol 		miĩnyáã 		𓋴 𓂋 𓅾, mind 	hulugol 
-107 	to sleep 	𓋴 𓇥 𓂋 𓁀 snore	sùn, simi 			ɗaanagol 		ki kɛ 	nelaw 	snore, somb…	sùn, simi 
-108 	to live 		wà láyé 			wuurugol,jodugol 		to fiya ɓɔ́ɛ lɔ 		via…	fiya
-109 	to die 		kú, ṣaláìsí 			maayugol 		faha 		muer𓅨𓅪	maayu
-110 	to kill 	𓌪 𓂝 	pa, gbẹ̀mí 			warugol 		faha 		√war𓅨𓅪	waru
-111 	to fight 		ìjà, jagun (?) 			haɓugol 		tílíŋ kɛ 		jagen	jagun
-112 	to hunt (transitive) 	𓂧 𓂋 𓄛  	dẹ, lé, ṣọdẹ 			ngasha 		fɛ kpai 	róbba 	rob-	róbba 
-113 	to hit 		gbá, nà, lù 			piyugol 		tuu 		beat𓅨𓅪	piyu
-114 	to cut 	刻 科 寸 开	gé, ké, ṣá, yún 		kuntu 	hirsugol 		tiyɛ 	dog 	Hirse?	gé, ké
-115 	to split 		là, pín, là wẹ́wẹ́ 			shendugol 		tɛ ka 		schnitt 伤 shang	shendu
-116 	to stab (or stick) 		gún lọ́bẹ, fi ohun mímún gún (?) 			tufgol 		ɓú fuwa			
-117 	to scratch (an itch) 		họ, ya, yún, ya ni nkan 			nyanyugol 		wɔnyɛ			
-118 	to dig 	𓆷 𓂧 𓂡 	walẹ̀, wà nílẹ̀, wáàdí 			ngirgol 		seŋ 	gas 	!!	wà nílẹ̀, wáàdí 
-119 	to swim 	𓈖 𓎟 𓃀 𓈗 	lúwẹ̀, wẹ̀ 			mbuulol 		jí ɓɛla 	feey 		
-120 	to fly 	𓅮	fò, fò-lọ 			peerol 		pii 		fly (@fur)	fò-lọ, peerol 
-121 	to walk 	𓂻 𓂽 𒁺 𒅕 	rìn, fi ẹsẹ̀ rìn 		taamaa 	yahadol 		táháyɛ́ 	dem, dox, doxantu 	run dox@Sumer	rìn
-122 	to come 	𓇍	wá 	bia 	naa 	arugol,wargol 		na 	ñëw 	ba@SEM an…	bia 
-123 	'to lie (as on one''s side) '		dùbúlê, nà gbôôrô (?) 			waalol 		sa 	tedda, taanu 	tired-	tedda
-124 	to sit 		jókó 	no odu 		joɗɗgol 		sii 	toog 	si™	sii 
-125 	to stand 	𓊌 ⇔ 𓊨 𓊍 дур  𓆓 𓏏 𓇾 𓇳 𓏭	dúró, dìde, nàró 	guzoro 		darol 		sɔ téŋ 	taxaw 	dura, steady	dúró, dìde
-126 	to turn (change direction) 	𓈄 𓃀	yípadà 			wa ailitol 		muĩ 		--	
-127 	to fall (as in drop) 		ṣubú, wó (?) 			janoigol,tettoygol 		ɓɛla 		fɛlla 	ɓɛla 
-128 	to give 		fi fún, fi bùn, jìn 			gokkol 		kɔ 	jox 	'go''.far'	kɔ 
-129 	'to hold (in one''s hand) '	𓂧 𓂠	dìmú, gbámú 			jogol 		ɓiya 			
-130 	to squeeze 		fún pọ̀, há láyè 			ɓ iɗɗugol 		ɓoti 		pitch@bottich	
-131 	to rub 		gbo, pa, fi ra, fi pa 			moytugol 		ma máĩ 			
-132 	to wash 		wẹ̀, fọ̀ bọ́ 		kuu 	yiggol 		ko 	raxas 	wẹ̀™	wẹ̀
-133 	to wipe 		nù, nùkúrò 			moytogol 		fiya 	fompa, fomp 	wiᵐpe	fiya, fomp
-134 	to pull 		fà 			poɗol 		saha 		ziehe	saha 
-135 	to push 		tì, tari 			tutaki 		jɔndɔ 		triuwe@Frisian 𐌀𐌓𐌔 trut, trot 𓂡 taka  tun တွန်း @…	tari
-136 	to throw 		sọ, jù, fi sọ̀kò 			perugol 		fili 			peru
-137 	to tie 	𓍿	dì, so, se kókó 			kaɓɓol 		kili 		kill? kab? kordel?	
-138 	to sew 		rán-ṣọkósọ (?) 			'nyo''otol '		lomɓo 	ñaw 	needle, näh	'nyo''otol, ñaw '
-139 	to count 	𓌽	kà, rò, ṣírò 			limgol 		laŋ 	lim 	len™,limit@lima=hand/5 	laŋ, lim 
-140 	to say 	≈	wí, sọ 		fo 	'wi''igol '		fɔ 	wax 	say, wax<quatsch	sọ / wax 
-141 	to sing 	𓇳	kọrin 			gimgol 		lɔŋ ɓɔ 	woy 	choire choiring	kọrin 
-142 	to play 	𓌽	ṣiré 			pijol 		tɔmɓɔ́ kɛ 	fo 	tombola --	ṣiré tɔmɓɔ́
-143 	to float 	fó lójú	lefó, fó lójú omi 			mbeyol 		ɓofoŋ 			ɓofoŋ 
-144 	to flow 	𓈗	ṣàn 			ilul 		jii 		filowl	ilul 
-145 	to freeze 	die	dì 					kpu áísi la 		… ice àla	kpu áísi la 
-146 	to swell 		wú 			ɓuutol 		jiijíi 		𓃀	ɓuutol 
-147 	sun 	𓇳	òrùn 	anwu 		naange 		télee 	naaj 	rayn 𓋞?	òrùn 
-148 	moon 	ƒ	oṣù, òṣùpá 	onwa 	karoo 	lewru 		káwó 	weer 	----	
-149 	star 	𓇳	ìràwọ̀ 	kpakpandu 	loolo 	kodel 		tóóma 		<-- --	
-150 	water 	𒀀𓈗	omi 	mmịrị 	duuroo, jiyo 	ndiyam 		jí 	ndox 	Nautiam, Meere	ndiyam, mmịrị 
-151 	rain 	𓈒	òjò 			ndiyam 		soná 		𓇶 𓇲 𓇳 	soná 
-152 	river 	𓇋 𓏏 𓂋 𓏲 𓈘 𓈇 𓏤	odò 	(mmịrị) oruru 		shaangol 		jí sálé 		wador, Saale	odò, sálé
-153 	lake 	𓇋 𓏏 𓂋 𓏲 𓈘 𓈇 𓏤	adágún 			gassol 		jí sálé (yɔ́ pisoe) 		Saale <> See	sálé
-154 	sea (as in ocean) 	𒀀𓈗	òkun omi-iyọ́ 			weendu 		kɔí 	geej 	sea<coi	kɔí 
-155 	salt 	𓈒	iyọ̀ 	nnu 	koo 	lamɗam 		kpɔndɔ lɔ kɔɔ 	xorom 	𓎛 𓌴  𓈒 𓏥 	xorom 
-156 	stone 	cut	òkúta 	okwuta 	beroo 	hayre 		seŋ 	xeer 	𓊌, stone, chert, cut, petra 𓃀𓈖𓉴	seŋ, xeer, òkúta 
-157 	sand 	𓈙 𓂝 𓏮 𓈒 𓏥 	ᶴyanrìn 			njareendi 		kɛnyɛ́ 	suuf 	sand<candy	kɛnyɛ́ 
-158 	dust 	≈	eruku 			sollare 		bhúndufú 		earth, soil	eruku, sollare 
-159 	earth (as in soil) 	≈	ilẹ̀, erùpẹ̀ 	ala 	bankoo 	lesdi, leydi 		luma 	suuf 	<< 𓂋	erùpẹ̀ 
-160 	cloud 	≈	gùdẹ (?) 			ade, ndula 		lúú 		gloùdẹ	gùdẹ
-161 	fog 	𓎡𓎡𓇰 ≈ 𓋴 𓇋 𓅓 𓇲 	ìkùúkùù, kùrukùru 			shammam,shuddi 		lúú 		Luft, Shamaim@āsmān	
-162 	sky 	𓁹 𓇳	ọ̀run, ojú ọ̀run 	igwe 		dule, dow 		ɓándaha 	asamaan 	𓈋 𐭠𐭮𐭬𐭠𐭭 āsmān/	asamaan, dule
-163 	wind (as in breeze) 	⻜⻜	afẹ́fẹ́, ẹ̀fúfú 	ikuku 		keni, henndu 		fiyá 		fiyáon.de	fiyá 
-164 	snow 		ìrì dídìòjò dídì (?) yìnyín ti ohun jábọ́ lójú ọ̀run (?) 					kímá ɓa múĩ ɓɔ ɓandaha lɔ		kir.ma	
-165 	ice 		yìnyín, omi dídì 	oyi 		malemalleje 		áísi 		ice (loan)	áísi 
-166 	smoke 	⻜	éfí 			shurka 		sisí 		Schorn	shurka 
-167 	fire 	𓊮 ≈ 𓈖 𓆓 𓐩	iná 	oku 		yiite 		tá 		--	
-168 	ash 		eérú 		sewo 	doondi 		bhuwá 		√burn	bhuwá 
-169 	to burn (intransitive) 	säng 𓋴 𓌳 𓄿 𓐍 𓊮	sún, jóná, mú gbóná 			wulol 		ɓinda 		burned	ɓinda 
-170 	road 	𓈖	ọ̀nà 			ɗatal 		kíla 	yoon 	course	kíla 
+ № 	English 	PIE	Yoruba 	Igbo 	Mandinka 	Fula 	Jango 	Vai 	Wolof 	PIE	Best	±
+1 	I 	'a''me'	émi, mo 	mụ 	m, n 	mi 	mi 	ŋ 	ma 	me	mi 	+
+2 	you (singular) 	ø, 𓎡𓈖	ìwọ, ọ (informal); ẹ̀yín (formal) 	gị 	ali, i 	a 	é 	í 	nga 	(an)gyu	gị, nga 	+
+3 	he 	on	ó, òun 	yá 	a 	o (mo) 	o 	a 	mu 	on, heo	òun, ó	+
+4 	we 	'a''we'	àwa, a 	ányìnwà (incl.), ányì-nílé (excl.), 	an 	en (incl.), min/men (excl.) 	an 	mú 	nu 	'a''we nous, man!'	àwa, nu 	+
+5 	you (plural) 	𓎡𓈖	ẹ̀yin 	únù-nílé 	aw 	on 	un 	wó 	ngeen 	ni		+/2
+6 	they 	𓈖	àwọn 	há 	u 	ɓe 	wèn 	anú 	ñu 	eux 𓈖		+/2
+7 	this 	al, a 一	eléyí, èyí 		ñing 	ɗun 	di 	kɛ mɛɛ̃ 	lii 	el, le, den	lii, ɗun 	✓
+8 	that 	一	èyí, èyítí, ohun tí 		woo 	ɗun 	da 	kɛnú 	lele, lale 	le, den		✓
+9 	here 		ibí, níhàyín 		jang 	ɗoo 	jò 	nínyɛ 	fi 			 
+10 	there 		lọhun, nibẹ 		jee 	ton 		núũ 	fa 	na		 
+11 	who 		tani, ẹnití 			homo, hommbo (plural: homɓe) 	kòn 	jɔ 	kan 	quan, whom		 
+12 	what 	qun?	kíni, kínlá, èwo 			koɗun, honnɗun 	sìn 	mɓe 	lan 	ma? qvn? qwo?	mɓe, kíni, èwo	✓
+13 	where 		ibo, níbo, níbití 			hoto, toye 		mínyá 	ana, fan 			 
+14 	when 		ìgbàtí 			mannde, honnde, ndeye 		mínyá banda 	kañ 	quan	kañ 	✓
+15 	how 	wie	bí, báwo 	naka 	ñaadii 	honno, noye 	nò 	káma 	naka 	comme?	káma 	+
+16 	not 	'𓂜 kein na''a '	kò, kì 	déedéet 		alaa 	'na''a '	máã 	du, bu, déedéet 	de¬ no…	'na''a '	✓ ...
+17 	all 	𓎟	gbogbo, olúkúlùkú 		bee 	fow, fop, fuu 	pèpè 	kínɛ́ĩ 	lëpp, yëpp 	𓎟 all, kall	olúkúlùkú	! ...
+18 	many 	𓉻 𓏠  populous	púpọ̀, pọ̀, ọ̀pọ̀lọpọ̀ 			buy, ɗuɗaal 		kúluŋ ɓa 		popul poly	ọ̀pọ̀lọpọ̀ púpọ̀, 	 
+19 	some 	quan™	díẹ, kan, àwọn kan 			yoga 		ɓɔ́ɔ 	ay 	1… quan	àwọn kan	 
+20 	few 	𓂝 𓈖 𓂧 𓅪 	díẹ 			seeɗa 		kpɔ́ fɛlá 	tuuti 			 
+21 	other 		òmíràn, míràn 			'go''o '		mandé 	beneen 			 
+22 	one 	mono	mení, ọ̀kan 	otu 	kiling 	'go''o, gooto (human) '	oko 	lɔndɔ́ 	benna, benn 	ben, ek …--	oko 	✓
+23 	two 	𐦊 min	méjì 	abua 	fula 	ɗiɗi, ɗiɗo (humans) 		fɛlá 	ñaar 	ni, di do	ɗiɗo	✓ ...
+24 	three 	metari	mẹta 	atọ 	saba 	tati, tato (humans) 		sakpá 	ñetta, ñett 	ø, third	tati	✓ ...
+25 	four 	𔖻 mi 𔗘 mi māhar	mẹrin 	anọ 	naani 	nayi, nayo (humans) 		náãni 	ñenent, ñeent 	ńila  𐦊𐦊 നാൽ- /n̪aːl-/ @Ural/Dravidian	nayi	™
+26 	five 	𒈨𓈗	màrún 	ise 	luulu 	jowi, joyi; joyo, jowo (humans) 		sóólú 	juróom 	-- ϯⲩ		--
+27 	big 	𓁶 𒄭	nlá, tóbi, gbórin 	ukwu 		mawɗo, maw- 		ɓa 	mag 	mᵇega, mutho	ɓaᵍ, mag, mawɗo	+
+28 	long 	远 廴	jìnnà, gùn, pẹ́ 			juutugol (=to be long/tall/big) 		tɛ jaŋ 		yong<llong	jaŋ, jìnnà	 
+29 	wide 	𓋴 𓐍 𓎸 𓏛 	gbòrò, jìnnà 	mbara 		njaju 		já kolo 				 
+30 	thick 	𓅱 𓂸 ! 𓏛 	nípọn 			gouma,tekki 		kpɔ́tú 		thick …--	tekki	 
+31 	heavy 	weighwy	wúwo 	ike 		teddugol (=to be heavy) 		fahanyá 		'wow;) d''ike '		 
+32 	small 	𓈙 𓂋 𓂋 𓅪	kéré™, diẹ 	ntakiri 		famar 		leŋ 	ndaw 			 
+33 	short 	𓈙 𓂋 𓂋 𓅪	kúrú™ 			raɓɓiɗugol (=to be short),dammuɗo 		kúndú 	gatt 	kúrú.az/de kurz court √cut	kúrú, gatt 	✓
+34 	narrow 	𓎼 𓄿 𓎣 𓅪 	tóró, híhá, há 	kpachiri 		ɓiɗɗi 		lɔ kpátiya 				✓
+35 	thin 	𓇾 𓅮 𓈎 𓏗 ? 	tínrín, tẹ́rẹ́ (?) 			shauɗo 		kpányá 	sew 	tínrín, short	tínrín, shauɗo 	+
+36 	woman 	𓈟 𓁐 人	obìnrin 	nwanyị 	musoo 	debbo (plural: rewɓe) 		musú 	jigéen 	nüwana …--	nwanyị 	 
+37 	man (adult male) 	𓌢 人	ọkùnrin 	nwokè 		gorko (plural: worɓe) 		kpakoo 	góor 	Kerl	góor 	✓?
+38 	man (human being) 	男	ènìyàn 	ndì mmadụ 		neɗɗo (plural: yimɓe) 		mɔ kɛ́ndɛ́ 	nit 	𓎛 𓃹 𓈖 𓀔		!
+39 	child (a youth) 	𓄟	èwe, ọmọ, ọmọdé 			ɓiɗɗo (plural: ɓiɓɓe) 		ɗléŋ 	xale 	bit, Bube, xale~chile		!
+40 	wife 	𓁹 𓈞 𓁐	ìyàwó, aya 		musoo 	ɓeyngu,kore 		musú 	jabar 	mother	musú 	 
+41 	husband 	𓌢	ọkọ 		kee, kewo 	moodi.gorko 		kaí 	jëkkër 			 
+42 	mother 	𓅑 𓅐 Amme	ìyá, abiyamọ 	nne 	naa 	neene.yaaye 		ɓa 	yaay, ndey 	anna, nü	nne 	✓
+43 	father 	𓅷 𓄿 𓇋 𓇋 𓂺 𓀀	bàbá 	nna 	baabaa 	baaba 		fa 	baay 	baba	bàbá 	+
+44 	animal 	𓂧 𓂋 𓄛  	ᵗẹran 			kullun,mardi marle(plural) 		kɛ́ndɛ́ feŋ 	rab 	mortal Rabe ᵀieran		!?
+45 	fish 	≈ 𓆑𓆓	ẹja 	azu 	ñewo 	linngii (plural: liƴƴi) 		nyínyɛ́ 	jën 	𓇋 𓆛 𓈖 jën nauo	jën, ñewo 	+™!
+46 	bird 	𓅽	ẹiyẹ, ẹyẹ abìyẹ́ (?) 	nnụnụ, okuko (chicken) 	kunoo 	sondu ( plural: sholli) 		kondé 	picca, picc 	air, niao, chick, birdç	okuko, abìyẹ́, picc 	 
+47 	dog 	𓃡	ajá 	nkịta 		rawaandu, bareeru,kutiru 		wulú 	xaj 	wolf, Köter	wulú, kutiru 	!
+48 	louse 	𓆨 ϣⲉⲛ(ⲧ)	ᶴiná 	igwu 	duñoo, karankoo 	tenga (plural: tenɗi) 		nyaá 	teen 	√turn 𓎡 𓏏 𓏏 𓆨 gnat	karankoo	™
+49 	snake 	𓆑𓆓	ejọ́ 	agwo 	capatoo, saa 	mboddi 		kalá 	jaan, saa 	'Kar, serpento, Ka''python'	kalá, 	 
+50 	worm 	𓎡 𓄿 𓂓 𓏤 𓆙  √coil	ekòló, kòkòròìdinaràn 	idide 	kaliyaa 	ngilnga (plural: gilɗi) 		tɔɔnɔ́ɔ̃ 	saan 	√turn kokor!		 
+51 	tree 	𓋴𓆭	igi 	osisi 	kapalipaloo, yiroo 	lekki 		kɔŋ	garab 	𒄑 Esche	osisi 	!
+52 	forest 	𓋴𓆭	igbó, ẹgàn 	ohia 		ladde 		fílá 		fir, firasᵗ	fílá 	 
+53 	stick (of wood) 	𓌚 ≈ 𓈎 𓌳 𓄿 𓌙 𓅯 𓏜	kùmọ, ọgọ (?) 			sawru 		kɔŋ 				 
+54 	fruit 	𓇨 𓏙 𓈎 	éso, ọmọ 			biɓɓe-leɗɗe 		kɔŋ kpɔ́ 		'𓇥𓇨𒄒 kib 𐀏𐀡 ka-po 𐂓 καρπός karpós 𐘾𐘂 KA-PA 𓂧 𓄿 𓃀 •cheirbe
+'	kpɔ́ 	 
+55 	seed 	𓂋	irúgbìn, irúmọ 			aawdi 		kpɔ́ 				 
+56 	leaf 	𓄔 𓏤   页 叶	ewé 			ɗerol, haako 		jamɓá 				 
+57 	root 	𓍯 𓄿 𓃀 𓆰	gbòngbò, ìpilẹ̀sẹ̀ 			ɗaɗol 		súú 				 
+58 	bark (of tree) 		èpo igi 			sheɓɓe 		fóo 				 
+59 	flower 	𓊃 𓈙 𓆸 	òdòdó 			piindi 		jamɓá fu 				 
+60 	grass 	𓋴 𓇐 𓏮 𓆰 𓁸 	koríko 			fuɗo 		pii 	nax, ñax 	koriaks ≈ grass ;)	koríko 	 
+61 	rope 	𓍱 𓋴 𓍢	okùn 			boggol 		julú 		Jule?		 
+62 	skin (of a person) 	𓂧 𓂋 𓄛  	ᵗara 			gurii,laral 		kpoló 	der 	le der!	laral, der, gurii	+!
+63 	meat (as in flesh) 	𓇋 𓆑 𓄻 𓏥  𓊔 	ẹran jíjẹ 		suboo 	teewu,kusel 		suyɛ́ 	yaapa, yapp 	#jf	yapp 	™!
+64 	blood 	𓊃 𓂐 𓏥  ƒ 𓆑 𓂐 𓏥 	ẹ̀jẹ 	obara 		ƴiiƴam 		woí 	(ƴ=palatalized glottal stop ʔʲ)		woí 	 
+65 	bone 	𓈎 𓋴 𓌟	egungun 	ọkpụkpụ 		'k''i''al '		kúú 		khuron	'k''i''al kúú '	 
+66 	fat (noun) 	𓂝 𓆓 𓎙 𓏌 𓏥 	ọ̀rá 			ɓellere 		ɓɛ bhuutɛɛ 		fatɛɛ fatty @ belly	ɓɛ bhuutɛɛ 	 
+67 	egg 	𓆇	ẹyin 			boofo,ɓoccoɗe 		kéí 	nen 	'Eien, a''kéí '	ẹyin, kéí  	 
+68 	horn 	𓍋 𓃀 𓅱 𓄑 	ìwo 			luwal 		ɓúú 		ivory 𓍋 𓃀 𓅱 𓄑	ìwo, ɓúú 	 
+69 	tail 	𓂧 𓂋 𓄛  	ᵗìrú 			wissho 		fɛ́nyɛ́ 		Wisch, fan	wissho, fɛ́nyɛ́ 	 
+70 	feather (rather not down) 	𓇋 𓇋	ìyẹ́ ẹyẹ 		tiyo 	wiyengo,leɓol 		kundíi 		𓇋, 𓎛 𓆰 𓈖 𓊃 𓎡 𓏏	ìyẹ́ ẹyẹ 	 
+71 	hair 	𓎛 𓍲 𓈖 𓏮 𓁸 𓏥	irun 	abubara 		cukulol (plural: sukuundu), gasa 		kundíi 	kawar 	𓎛 / 𓍲 𓈖 𓏮 𓁸 𓏥 	ʰirun / kundíi, kawar	 
+72 	head 	𓁷	orí 	isi 	kungo 	hoore 		kuŋ 	boopa, bopp 		 	 
+73 	ear 	𓁶 / 𓄂 𓏏 𓏤 ƒ	etí 	nti 	tuloo 	nowru (plural: noppi) 		tólo 	noppa, nopp 	Noppe;)	tólo 	 
+74 	eye 	𓁹	ojú 	anya 	ñaa 	yitere (plural: gite) 		já kpɔ́ 	bet, bot, bët 	eye ball	ojú, bot 𓃀 𓂋 𓂂 𓂂 ⲃⲁⲗ 	 
+75 	nose 	𓋴 𓌢 𓈖 𓂉  𒉆 	imú 	imi 	nungo 	hinere, kinal 		súŋ 	baken, bakkan 	nõgse, beak	nungo, súŋ, nungo 	 
+76 	mouth 	ƒ	ẹnu 	onu 	daa 	hunnduko 		lá 	gemmiñ 	𓂋, ma.hunnduko 	lá …--	--
+77 	tooth (rather not molar) 	𓅘 𓈖 𓆓 𓎛 𓏏 𓄑	ehín 	eze 	ñingo 	nyiire (plural: nyiiƴe) 		nyíŋ 	boñ 	'a''Zahn, ebony'	eze ehín boñ \	 
+78 	tongue 	𓄓 𓈖 𓋴 𓄻	ahọ́n 	ire 	nengo 	demngal 		nɛɛ̃ 	laameñ, lammiñ 			 
+79 	fingernail 	≈	èékánná ìka ọwọ́ (?) 			feɗe ngo 		ɓóló loi kɛnji 				 
+80 	foot 	𓋴𓃀𓏘	ẹsẹ̀ 	ukwu 	singo 	koyngal, kosngal 		keŋ 		ᶠẹsẹ̀	  …--	 
+81 	leg 	𓋴𓃀𓏘	ẹsẹ̀ 		singo 	kos ngal 		keŋ 	tanka, tank 	ᶠẹsẹ̀	  …--	 
+82 	knee 	𓌳 𓋴 𓂾 𓄹 	orúkún, ekún 	ikpere 	kumbalingo 	howru (plural: koppi),hosɓu ndu 		kúmɓéé 	óom 	kunbee ekúnee knee jambe	kúmɓéé 	 
+83 	hand 	𓂝 𓂝	ọwọ 	olu 	buloo 	junngo (plural: juuɗe) 		ɓóló 	loxo 	--		 
+84 	wing 	𓇋 𓆃	ìyẹ́ apá 			biyeli, bippoɗi 		kafa 	ngelaw 	𓇋 opta, Gefly	ìyẹ́ apá 	 
+85 	belly 	𓄡 ≈ 𓌢 𓈖	inú, ikùn 	afo 	konoo 	reedu 		ɓú 	biir 	Bauch / 𓄡 Kinder	biir, ɓú / konoo, ikùn	 
+86 	guts 		ìfun 			cewɗi (singular: sewngol),ketetti 		nuú 		inner neì 内	nuú 	 
+87 	neck 		ọrùn, ẹ̀mí 	olu 	kango 	hoƴƴudu.daande 		káŋ 	baat 	Gurgel-	káŋ 	 
+88 	back 	𓄚 𓈖	ẹ̀hìn 	azu 	kooma 	ɓaawo, caggal 		kɔ́ɔ tɛ 	ganaw 	'behin'''	ẹ̀hìn 	 
+89 	breast 	𓂑	ọmú, ọyọ̀n 	ara 	sunjoo 	enndu (plural: enɗi); kunndulal = nipple 		susu 		Zize <> suck, sunq	susu 	 
+90 	heart 	𓄣	ọkàn 	obi 	jusoo, kijoo 	ɓernde 		kpuu 		core, center	kijoo, ọkàn 	 
+91 	liver 	𓏇 𓇋 𓋴 𓏏 𓄹 𓏤	ẹ́dọ 	imeji 	jusoo, buñoo 	ke nye 		falá 				 
+92 	to drink 	𓃀 𓂝 𓃀 𓂝 𓈗	mu 		ming 	yarugol 		mi 	naan 	…-gol go.al 𓅨𓅪		 
+93 	to eat 	𓏶 𓅓 𓀁 	jẹ, jẹun ≈  khana खाना  		domo 	nyamugol 		lɔŋ 	lekka, lekk 	nyum;)𓅨𓅪		 
+94 	to bite 		gé jẹ, bù jẹ 			soppugol, nngattaka 		kiŋ 	maata, matt 	mbite	matt	 
+95 	to suck 	𓂑𓂑	mu ọmú, fi ẹnu fà mu 			murugol 		saha 		sahaug 	saha 	 
+96 	to spit 	𓈎 𓂝 𓂐 	tutọ́ 			kartugol 		tɛ ka 		kotz𓅨𓅪	kartu	 
+97 	to vomit 	𓃀 𓈙 𓂐 	bì, pọ̀ jade 			tutugol 		fɔnɔ 	woccu 	fɔnɔt vɔmɔit würg	fɔnɔ woccu 	 
+98 	to blow (as wind) 	𒅎	mí kíkanfẹ́ (?) 			luɗugol 		tuu 				 
+99 	to breathe 	𒅎	mí 			foofugol 		fiyá ɓɔ 			fiyá ɓɔ 	 
+100 	to laugh 	𓂋 𓂋 	rẹrin ≈ rire			jalugol 		jɛ́ɛ kɛ 		rire, geloughe, jaul𓅨𓅪	rẹrin, jalugol  	 
+101 	to see 	𓁹 ir	rí, fojú rí, ríran 		je 	'yi''ugol '		fɛɛ 	gis 	'voie רָאָה‎ ra''ah'	fojú rí	 
+102 	to hear 		gbọ, tẹtí sí 	anu 		heɗagol,nangol 		laŋ 	dégg 	hörte𓅨𓅪	heɗa	 
+103 	to know (a fact) 	men-	mọ̀ 			anndugol 		sɔ 	xam 	sava, kennm𓅨𓅪	sɔ, xam 	 
+104 	to think 	𓂋 𓐍 𓏜 𓅓 	rò, ronú, wòye 			sikkugol,nyumol 		kuŋndɔ kíi ma 	xalaat 	reckon, thinku, kunde	ronú, sikku, kuŋndɔ	 
+105 	to smell (sense odor) 		gbórùn 			urgol 		kunyɛ 		𓋴𓈖𓂉𓀁 gunye > sense	kunyɛ 	 
+106 	to fear 	𓎛 𓁷 𓂋	ᶠẹ̀rù, ìfòyà (?) 		sila 	hulugol 		miĩnyáã 		𓋴 𓂋 𓅾, mind 	hulugol 	 
+107 	to sleep 	𓋴 𓇥 𓂋 𓁀 snore	sùn, simi 			ɗaanagol 		ki kɛ 	nelaw 	snore, somb…	sùn, simi 	 
+108 	to live 		wà láyé 			wuurugol,jodugol 		to fiya ɓɔ́ɛ lɔ 		via…	fiya	 
+109 	to die 		kú, ṣaláìsí 			maayugol 		faha 		muer𓅨𓅪	maayu	 
+110 	to kill 	𓌪 𓂝 	pa, gbẹ̀mí 			warugol 		faha 		√war𓅨𓅪	waru	 
+111 	to fight 		ìjà, jagun (?) 			haɓugol 		tílíŋ kɛ 		jagen	jagun	 
+112 	to hunt (transitive) 	𓂧 𓂋 𓄛  	dẹ, lé, ṣọdẹ 			ngasha 		fɛ kpai 	róbba 	rob-	róbba 	 
+113 	to hit 		gbá, nà, lù 			piyugol 		tuu 		beat𓅨𓅪	piyu	 
+114 	to cut 	刻 科 寸 开	gé, ké, ṣá, yún 		kuntu 	hirsugol 		tiyɛ 	dog 	Hirse?	gé, ké	 
+115 	to split 		là, pín, là wẹ́wẹ́ 			shendugol 		tɛ ka 		schnitt 伤 shang	shendu	 
+116 	to stab (or stick) 		gún lọ́bẹ, fi ohun mímún gún (?) 			tufgol 		ɓú fuwa				 
+117 	to scratch (an itch) 		họ, ya, yún, ya ni nkan 			nyanyugol 		wɔnyɛ				 
+118 	to dig 	𓆷 𓂧 𓂡 	walẹ̀, wà nílẹ̀, wáàdí 			ngirgol 		seŋ 	gas 	!!	wà nílẹ̀, wáàdí 	 
+119 	to swim 	𓈖 𓎟 𓃀 𓈗 	lúwẹ̀, wẹ̀ 			mbuulol 		jí ɓɛla 	feey 			 
+120 	to fly 	𓅮	fò, fò-lọ 			peerol 		pii 		fly (@fur)	fò-lọ, peerol 	 
+121 	to walk 	𓂻 𓂽 𒁺 𒅕 	rìn, fi ẹsẹ̀ rìn 		taamaa 	yahadol 		táháyɛ́ 	dem, dox, doxantu 	run dox@Sumer	rìn	 
+122 	to come 	𓇍	wá 	bia 	naa 	arugol,wargol 		na 	ñëw 	ba@SEM an…	bia 	 
+123 	'to lie (as on one''s side) '		dùbúlê, nà gbôôrô (?) 			waalol 		sa 	tedda, taanu 	tired-	tedda	 
+124 	to sit 		jókó 	no odu 		joɗɗgol 		sii 	toog 	si™ jockel @ sockel?	sii jókó 	≈
+125 	to stand 	𓊌 ⇔ 𓊨 𓊍 дур  𓆓 𓏏 𓇾 𓇳 𓏭	dúró, dìde, nàró 	guzoro 		darol 		sɔ téŋ 	taxaw 	dura, steady	dúró, dìde	™!
+126 	to turn (change direction) 	𓈄 𓃀	yípadà 			wa ailitol 		muĩ 		𓈄 𓃀	yípadà 	™!
+127 	to fall (as in drop) 		ṣubú, wó (?) 			janoigol,tettoygol 		ɓɛla 		sub fɛlla 	ṣubú ɓɛla 	+?
+128 	to give 		fi fún, fi bùn, jìn 			gokkol 		kɔ 	jox 	'go''.far'	kɔ 	 
+129 	'to hold (in one''s hand) '	𓂧 𓂠	dìmú, gbámú 			jogol 		ɓiya 				 
+130 	to squeeze 		fún pọ̀, há láyè 			ɓ iɗɗugol 		ɓoti 		pitch@bottich		 
+131 	to rub 		gbo, pa, fi ra, fi pa 			moytugol 		ma máĩ 				 
+132 	to wash 		wẹ̀, fọ̀ bọ́ 		kuu 	yiggol 		ko 	raxas 	wẹ̀™	wẹ̀	 
+133 	to wipe 		nù, nùkúrò 			moytogol 		fiya 	fompa, fomp 	wiᵐpe	fiya, fomp	 
+134 	to pull 		fà 			poɗol 		saha 		ziehe	saha 	 
+135 	to push 		tì, tari 			tutaki 		jɔndɔ 		triuwe@Frisian 𐌀𐌓𐌔 trut, trot 𓂡 taka  tun တွန်း @…	tari	 
+136 	to throw 		sọ, jù, fi sọ̀kò 			perugol 		fili 			peru	 
+137 	to tie 	𓍿	dì, so, se kókó 			kaɓɓol 		kili 		kill? kab? kordel?		 
+138 	to sew 		rán-ṣọkósọ (?) 			'nyo''otol '		lomɓo 	ñaw 	needle, näh	'nyo''otol, ñaw '	 
+139 	to count 	𓌽	kà, rò, ṣírò 			limgol 		laŋ 	lim 	len™,limit@lima=hand/5 	laŋ, lim 	 
+140 	to say 	≈	wí, sọ 		fo 	'wi''igol '		fɔ 	wax 	say, wax<quatsch	sọ / wax 	 
+141 	to sing 	𓇳	kọrin 			gimgol 		lɔŋ ɓɔ 	woy 	choire choiring	kọrin 	 
+142 	to play 	𓌽	ṣiré 			pijol 		tɔmɓɔ́ kɛ 	fo 	tombola --	ṣiré tɔmɓɔ́	 
+143 	to float 	fó lójú	lefó, fó lójú omi 			mbeyol 		ɓofoŋ 			ɓofoŋ 	 
+144 	to flow 	𓈗	ṣàn 			ilul 		jii 		filowl	ilul 	 
+145 	to freeze 	die	dì 					kpu áísi la 		… ice àla	kpu áísi la 	 
+146 	to swell 		wú 			ɓuutol 		jiijíi 		𓃀	ɓuutol 	 
+147 	sun 	𓇳	òrùn 	anwu 		naange 		télee 	naaj 	rayn 𓋞?	òrùn 	 
+148 	moon 	ƒ	oṣù, òṣùpá 	onwa 	karoo 	lewru 		káwó 	weer 	----		 
+149 	star 	𓇳	ìràwọ̀ 	kpakpandu 	loolo 	kodel 		tóóma 		<-- --		 
+150 	water 	𒀀𓈗	omi 	mmịrị 	duuroo, jiyo 	ndiyam 		jí 	ndox 	Nautiam, Meere	ndiyam, mmịrị 	 
+151 	rain 	𓈒 雨 yǔ	òjò 			ndiyam 		soná 		𓇶 𓇲 𓇳 	soná 	 
+152 	river 	𓇋 𓏏 𓂋 𓏲 𓈘 𓈇 𓏤	odò 	(mmịrị) oruru 		shaangol 		jí sálé 		wador, Saale	odò, sálé	 
+153 	lake 	𓇋 𓏏 𓂋 𓏲 𓈘 𓈇 𓏤	adágún 			gassol 		jí sálé (yɔ́ pisoe) 		Saale <> See	sálé	 
+154 	sea (as in ocean) 	𒀀𓈗	òkun omi-iyọ́ 			weendu 		kɔí 	geej 	sea<coi	kɔí 	 
+155 	salt 	𓈒	iyọ̀ 	nnu 	koo 	lamɗam 		kpɔndɔ lɔ kɔɔ 	xorom 	𓎛 𓌴  𓈒 𓏥 	xorom 	 
+156 	stone 	cut	òkúta 	okwuta 	beroo 	hayre 		seŋ 	xeer 	𓊌, stone, chert, cut, petra 𓃀𓈖𓉴	seŋ, xeer, òkúta 	 
+157 	sand 	𓈙 𓂝 𓏮 𓈒 𓏥 	ᶴyanrìn 			njareendi 		kɛnyɛ́ 	suuf 	sand<candy	kɛnyɛ́ 	 
+158 	dust 	≈	eruku 			sollare 		bhúndufú 		earth, soil	eruku, sollare 	 
+159 	earth (as in soil) 	≈	ilẹ̀, erùpẹ̀ 	ala 	bankoo 	lesdi, leydi 		luma 	suuf 	<< 𓂋	erùpẹ̀ 	 
+160 	cloud 	≈	gùdẹ (?) 			ade, ndula 		lúú 		gloùdẹ	gùdẹ	 
+161 	fog 	𓎡𓎡𓇰 ≈ 𓋴 𓇋 𓅓 𓇲 	ìkùúkùù, kùrukùru 			shammam,shuddi 		lúú 		Luft, Shamaim@āsmān		 
+162 	sky 	𓁹 𓇳	ọ̀run, ojú ọ̀run 	igwe 		dule, dow 		ɓándaha 	asamaan 	𓈋 𐭠𐭮𐭬𐭠𐭭 āsmān/	asamaan, dule	 
+163 	wind (as in breeze) 	⻜⻜	afẹ́fẹ́, ẹ̀fúfú 	ikuku 		keni, henndu 		fiyá 		fiyáon.de	fiyá 	 
+164 	snow 		ìrì dídìòjò dídì (?) yìnyín ti ohun jábọ́ lójú ọ̀run (?) 					kímá ɓa múĩ ɓɔ ɓandaha lɔ		kir.ma		 
+165 	ice 		yìnyín, omi dídì 	oyi 		malemalleje 		áísi 		ice (loan)	áísi 	 
+166 	smoke 	⻜	éfí 			shurka 		sisí 		Schorn	shurka 	 
+167 	fire 	𓊮 ≈ 𓈖 𓆓 𓐩	iná 	oku 		yiite 		tá 		--		 
+168 	ash 		eérú 		sewo 	doondi 		bhuwá 		√burn	bhuwá 	 
+169 	to burn (intransitive) 	säng 𓋴 𓌳 𓄿 𓐍 𓊮	sún, jóná, mú gbóná 			wulol 		ɓinda 		burned	ɓinda 	 
+170 	road 	𓈖	ọ̀nà 			ɗatal 		kíla 	yoon 	course	kíla 	 
 171 	mountain 	𓂓	òkè gíga 	ugwu 		'yolde 		kɔɔ̃ nyamá 		kur giga®	kɔɔ̃ gíga 
 172 	red 	pọ́n, pupa (?) 	uhie 		boɗeejum 		jahalé 	xonxa, xonq 	purple	pupa
 173 	green 	aláwọ̀ ewé 	akwụkwọ nri 	jambakere 	hakohakoje 		jamɓa kúwa 	werta, weer 	vert 𓅨𓂋	werta, weer 
@@ -176,33 +177,33 @@
 175 	white 	funfun 	ocha 		danejum 		kpɛ́ímá 	weex 	weiß, ocre, le banon	weex, ocha, funfun \	 
 176 	black 	aláwọ̀ dúdú, ṣú 	oji 	fing 	ɓalejum 		fiimá 	ñuul 	ø --	ñuul 
 177 	night 	òru 	abali 	suutoo 	jemma 		lifí 	guddi 	𓎡𓎡𓇰	guddi 
-178 	day (daytime) 	ọjọ́, ọ̀sán 	ehihe, ubochi 	lungo 	nyelauma 		télé lɔ 		au sun, leuchn?'	ọ̀sán
-179 	year 	𓆴	ọdún 	afo 		hita nde 		saŋ 	at, atum 	𒌓, 𓆴, autum time, sun	at, atum, saŋ 
-180 	warm (as in weather) 	'lil''warm ;)'	gbóná diẹ, lílọ́ wọ́rọ́ 	oku 		guldum 		tɔmu 		thermo	tɔmu 
-181 	cold (as in weather) 	𓏁 / 𓈎 𓃀 𓃀 𓏂 𓏏 𓈗 	tutù 	oyi 		jangol 		kímá 	sedda, sedd 	kir.ma	kímá 
-182 	full 	𓎟	kún 			hewal 		lá fálé 		à la fulle	lá fálé 
-183 	new 	𓆴	titun, àkọtun 	ọhụrụ 		kesum 		námá 	bees 	neu.ma	námá 
-184 	old 	betagt	ìdarúgbó, ìdàgbà, gbó, ìhewú 	ochie 		nayewu 		kɔ́ɔ́ 	magget 	muerget	
-185 	good 		rere, suwọ̀n, dára 	nma 		boɗɗum 		ɓɛ́ɛ 	baax, neex 	bon	ɓɛ́ɛ, baax, neex 
-186 	bad 	𒁁 /bař/	burú, burúkú, búburú 	njo 		woɗa 		jáwo 		bane 𓃀 𓇋 𓈖 𓅪	burúkú
-187 	rotten (as, a log) 		dìbàjẹ́, rà 			nyoldum 		toilé 		spoilé	toilé 
-188 	dirty 		léèrí, lẹgbin, àìmọ́, lọ́bùn 	ọjịị 		tuhundi 		nɔ́ɔ̃wã 	tilim, salte 	salty	
-189 	straight 		tàrà, tọ, láìwọ 			forti 		táŋndé 		's''tàrà.de'	tàrà
-190 	round 		òbìrìkìtì (?) 			lelal 		gɛɛlíí 		*gʰel@PIE	gɛɛlíí 
-191 	sharp (as a knife) 		mímú, yára se kan 			shattal 		lá sáha 			
-192 	dull (as a knife) 		kúnú, àìmú, lọ́ra, kújú, yòpe 			welay 		já ɓɛ púu 			
-193 	smooth 		tẹ́jú, tẹ́rẹrẹ, ọ̀bọ̀rọ́ 			ɓotiɗiɗum 		máĩ kpɔelé 			
-194 	wet 	𓇲 𓇶	rin, tutu 			shoftugol 		dɔgbɔlé 	tooy 	rain rinn…	rin
-195 	dry (adjective) 		gbígbẹ, gbẹ, gbẹrẹfu, láìlómi 			'jo''oral '		kpaha 	wow 	wow.de wet	wow 
-196 	right (correct) 		títọ́, tó yẹ, dára 	esi okwu 	tooñaa 	footi 		ɓɛ́ɛna 		true, bono 	dára, ɓɛ́ɛna, footi 
-197 	near 		nítòsí, súnmọ́ra 	nso 	sinna 	'ha''ade '		máĩ 	jege 	syn	sinna 
-198 	far 		jìnà, jijina 	anya 		ɓadaki 		kaŋ kpɔ́ŋ 	sori, sore 	dura	sore
+178 	day (daytime) 	ọjọ́, ọ̀sán 	ehihe, ubochi 	lungo 	nyelauma 		télé lɔ 		au sun, leuchn?'	ọ̀sán					 
+179 	year 	𓆴	ọdún 	afo 		hita nde 		saŋ 	at, atum 	𒌓, 𓆴, autum time, sun	at, atum, saŋ 	 
+180 	warm (as in weather) 	'lil''warm ;)'	gbóná diẹ, lílọ́ wọ́rọ́ 	oku 		guldum 		tɔmu 		thermo	tɔmu 	 
+181 	cold (as in weather) 	𓏁 / 𓈎 𓃀 𓃀 𓏂 𓏏 𓈗 	tutù 	oyi 		jangol 		kímá 	sedda, sedd 	kir.ma	kímá 	 
+182 	full 	𓎟	kún 			hewal 		lá fálé 		à la fulle	lá fálé 	 
+183 	new 	𓆴	titun, àkọtun 	ọhụrụ 		kesum 		námá 	bees 	neu.ma , 𒂊𒁲𒋗 ᵏe-de-šu חָדָשׁ khadásh  àkọtun kesum "new" 	námá 	 
+184 	old 	betagt	ìdarúgbó, ìdàgbà, gbó, ìhewú 	ochie 		nayewu 		kɔ́ɔ́ 	magget 	muerget		 
+185 	good 		rere, suwọ̀n, dára 	nma 		boɗɗum 		ɓɛ́ɛ 	baax, neex 	bon	ɓɛ́ɛ, baax, neex 	 
+186 	bad 	𒁁 /bař/	burú, burúkú, búburú 	njo 		woɗa 		jáwo 		bane 𓃀 𓇋 𓈖 𓅪	burúkú	 
+187 	rotten (as, a log) 	rà	dìbàjẹ́, rà 			nyoldum 		toilé 		spoilé	toilé 	 
+188 	dirty 		léèrí, lẹgbin, àìmọ́, lọ́bùn 	ọjịị 		tuhundi 		nɔ́ɔ̃wã 	tilim, salte 	salty		 
+189 	straight 		tàrà, tọ, láìwọ 			forti 		táŋndé 		's''tàrà.de'	tàrà	 
+190 	round 		òbìrìkìtì (?) 			lelal 		gɛɛlíí 		*gʰel@PIE	gɛɛlíí 	 
+191 	sharp (as a knife) 		mímú, yára se kan 			shattal 		lá sáha 				 
+192 	dull (as a knife) 		kúnú, àìmú, lọ́ra, kújú, yòpe 			welay 		já ɓɛ púu 				 
+193 	smooth 		tẹ́jú, tẹ́rẹrẹ, ọ̀bọ̀rọ́ 			ɓotiɗiɗum 		máĩ kpɔelé 				 
+194 	wet 	𓇲 𓇶	rin, tutu 			shoftugol 		dɔgbɔlé 	tooy 	rain rinn…	rin	 
+195 	dry (adjective) 		gbígbẹ, gbẹ, gbẹrẹfu, láìlómi 			'jo''oral '		kpaha 	wow 	wow.de wet	wow 	 
+196 	right (correct) 		títọ́, tó yẹ, dára 	esi okwu 	tooñaa 	footi 		ɓɛ́ɛna 		true, bono 	dára, ɓɛ́ɛna, footi 	 
+197 	near 		nítòsí, súnmọ́ra 	nso 	sinna 	'ha''ade '		máĩ 	jege 	syn	sinna 	 
+198 	far 		jìnà, jijina 	anya 		ɓadaki 		kaŋ kpɔ́ŋ 	sori, sore 	dura	sore	 
 199 	right (side) 		ọ̀tún 	(aka) nri 	bulubaa 	'yamo 		féŋ lɔ́ŋ ɓolo ma 	ndeyjoor 		
 200 	left (side) 	òsì 	(aka) ekpe 	maraa 	nano 		maã ɓólo ma 	cammooñ 		
 201 	at 	ní, níbí, lí 			i 		la 	ci, si 	al, zu, sei	
 202 	in 	nínú, ní 			nder 		lɔ 	ci biir 	in, àl lɔ 	nínú
-203 	with (accompanying) 	pẹ̀lú, àti, lọ́dọ̀, bá, fi, dání 		fee 	i 		fɛ 	ak 	wi™ veet'	fɛ 
-204 	and 	&	àti, sì 	na 	andung 	ee 		amu 	ak, te 	'and ''n'' auch & et'	andung na ak, àti
-205 	if 	𓇋 𓂋	bí, bí ó bá 			to a 		hĩ 	bu fekkee 	be … if 	bí ó bá 
-206 	because 	𓈖 𓏏 𓂋	nítorí, nítorítí 			gam 		ɓɛ́ímáã 	ndaxte 	comme…, ante…	gam, nítorítí  
-207 	name 	𓂋 𓐍 𓏜 ≈ 𓂋 𓈖	orúkọ 		too 	innde 		tɔ́ɔ́ 	tur, tudd 	𓏏 𓇋 𓏏 𓂅 title 𓍷 𓂇	tudd
+203 	with (accompanying) 	pẹ̀lú, àti, lọ́dọ̀, bá, fi, dání 		fee 	i 		fɛ 	ak 	wi™ veet'	fɛ 					 
+204 	and 	&	àti, sì 	na 	andung 	ee 		amu 	ak, te 	'and ''n'' auch & et'	andung na ak, àti	 
+205 	if 	𓇋 𓂋	bí, bí ó bá 			to a 		hĩ 	bu fekkee 	be … if 	bí ó bá 	 
+206 	because 	𓈖 𓏏 𓂋	nítorí, nítorítí 			gam 		ɓɛ́ímáã 	ndaxte 	comme…, ante…	gam, nítorítí  	 
+207 	name 	𓂋 𓐍 𓏜 ≈ 𓂋 𓈖	orúkọ 		too 	innde 		tɔ́ɔ́ 	tur, tudd 	𓏏 𓇋 𓏏 𓂅 title 𓍷 𓂇	tudd	 
