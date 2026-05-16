@@ -4,6 +4,12 @@ https://en.wiktionary.org/wiki/Category:Akkadian_verbs
 https://en.wiktionary.org/wiki/Category:Akkadian_adverbs
 
 
+𓂋𓂝  𓋴𓅓𓂸𓏏𓄔𓀁𓏤  𓐍𓂋𓊤𓃭𓅱𓀁
+𒇺𒊺𒈬𒌑 𒍣𒅅𒊒𒌑𒀀  
+liš še-mu-ú zi-ik-ru-ú-a  
+let my utterances be heard   
+
+
 /S,I'(/) 	gir-ram-/ḫar-ra-nam gir-ram-/ḫar-ra-nam sa-ba-tu
 /S,I'(/) 	seize the road
 
@@ -8863,7 +8869,15 @@ revolt and rebellion
 
 𒌑𒊕 u-ris earnest(ly) •erect ≈ right
 
-𒄩𒀭𒁹 ha-an-diš glad, joyful, joyfully
+𒄩𒀭𒁹 ha-an-diš glad, joyful, joyfully <> sevindirici > sevinən
+𒄩𒀭𒁹 ha-diš glad, joyful, joyfully
+𒄩𒁹 ʳha-diš радос rados joyful
+𒄩𒁹 haʳdiš हर्षित harṣit joyful
+𒄩𒁹 ˢha-diš  şad سَعِيد saʕīd "joyful" 
+𒄩𒁹 ᵍha-diš  glad
+
+𒅈𒌤𒂊𒑑𒀠𒌨  ʷar-de-e-va-al-lik 
+
 
 𒌋𒊓𒊍𒆠𒈾 u-sa-as-ki-na cause to move (feet 𒊺𒉺 še-pa sepi  )
 
@@ -9125,9 +9139,13 @@ in midst of the sea I saw maliciousness
 𒀀𒂁 ᶠa.duk fetta fatia @Portuguese <>  fissus فُتَات ƒ
 𒀀𒂁 ᶠa.duk fetta Portuguese fita, Dalmatian fiata, Sicilian feḍḍa, Sardinian fitta. 
 𒀀𒂁 slew
-
+≈
 𒄿𒁺𒆪 ᶠi-du-ku fitaᵏ 𓆑𓂧𓏘𓏴 slice
 𒄿𒁺𒆪 slew
+≈
+𒀜𒂁 ad-duk abduct
+𒀜𒂁 "slew"
+
 
 𒁲𒅅𒋫 di-ik-ta 
 
@@ -12327,7 +12345,7 @@ ma + causative + gene
 
 𒆠𒄿 ki-iᵐ comme ...
 𒆠𒄿 ki-iⁿ quan ...
-𒆠𒄿 then ( when came ... )
+𒆠𒄿 then ( when came, there is ... )
 
 
 𒌑𒊺𒍣𒁍 u2-she-zi-bu
@@ -12353,3 +12371,125 @@ ma + causative + gene
 𒁕𒊏𒀀𒋾 da-ra-a-ti darāti duraty dauert duration
 𒁕𒊏𒀀𒋾 ᵉda-raⁿa-ti eternal eternity 
 𒁕𒊏𒀀𒋾 everlasting 
+
+𒆂	giguru₃ ≈ iguri walls
+
+
+𒂦  UG5 ≈ 𒄿𒂵𒊒 	i-ga-ruʷ i'garu guard gare wehr wall 𓇥 𓂋 𓅱 𓅱 𓈒   𒂍𒋞;𒁀𒅈;𒁁𒄱 igur
+𒄿𒂵𒊒 	cin-ga-ruʷ <> conquer Klinker-
+
+
+𒂡𒍝𒀀 hir-za-a hearsay ʰújság
+𒂡𒍝𒀀 ᶴhir-za-a 知らせ shirase
+𒂡𒍝𒀀 ᵛhirᵗza-a वार्ता vārtā warta berita <> veritas
+𒂡𒍝𒀀 ᶠez-za-a ві́сті vísti
+𒂡𒍝𒀀 news <> al'jazira
+
+
+𒀀𒋃𒋾𒅆𒄿 a-lak-ti-si-i >>
+𒀀𒋃𒋾𒅆𒄿 accounts 
+
+
+𒁲𒅅𒌅 di-ik-tu
+𒁲𒅅𒋫 di-ik-ta <> dagger dicker(man) < zikaru  	
+𒁲𒅅𒋫 Fighting men 
+<>
+𒄿𒁺𒆪 ᶠi-du-ku fitaᵏ 𓆑𓂧𓏘𓏴 slice
+𒄿𒁺𒆪 slew
+
+𒀸 𒈜 ina-lib
+𒀸 𒈜 among 𓅓
+
+𒈠𒄩𒊍 ma-ha-as
+𒈠𒄩𒊍 numerous  
+
+𒌤𒂊𒈪 𒅖𒆲 de-e-mi is-kun
+𒌤𒂊𒈪 𒅖𒆲 
+
+𒈠𒆷𒁀𒋢𒌋𒀸 ma-la ba-su-u ina
+𒈠𒆷𒁀𒋢𒌋𒀸  alle beisammen in ..
+𒈠𒆷𒁀𒋢𒌋𒀸 "are all there is in ..."
+
+𒆗𒆗𒋾 dan-dan-ti daunty²
+𒆗𒆗𒋾 Very difficult 
+
+𒀉𒁲𒌅 ᵐid-di-tu mighty (wood)
+𒀉𒁲𒌅 ʷid-di-tu widthy (wood)
+
+𒈠𒋼𒂊𒈠 ma te-e-ma
+𒈠𒋼𒂊𒈠 in the time of
+
+𒅖𒁓𒄠𒑑 is-pur-av-va   
+𒅖𒁓𒄠𒑑  'spur ova  𓋴 𓉐 𓂽 𓂻 
+𒅖𒁓𒄠𒑑 send (pour off)
+
+𒍣𒄿𒁉 zi-i-bi 𓊃 󳽞  (󳽜 󳽝?)
+𒍣𒄿𒁉 bind fast
+
+𒊍 𒅆 as-si 𓃗 aus-zieh 
+𒊍𒅆 carry (off spoils)
+
+𒌨 𒆲 tas-kun truskin
+𒌨𒆲 trust, rely on 
+
+𒅕𒐼𒀀 ir-sa-a
+𒅕𒐼𒀀 inclined 𓁹
+
+𒋻𒌅 suq-tu sunked
+𒋻 𒌅 despair
+
+𒆗𒉡𒋾 ˢdan-nu-ti
+𒆗𒉡𒋾 strengthen <> ständig steady 
+
+𒌨𒄭 ur-hi™ rue
+𒌨𒄭 road
+
+𒅆𒀉𒋾 si-it-ti sidey
+𒅆𒀉𒋾 si-it-ti ceteri
+𒅆𒀉𒋾 siᵐit-ti sämtliche ∑
+𒅆𒀉𒋾 rest (of people)
+
+𒆳𒋾 𒌑𒈠 san-ti sam-ma   ( Ashurbanipal )
+𒆳𒋾 𒌑𒈠 sat-ti sam-ma 
+𒆳𒋾 𒌑𒈠 Every year    ∑🌞 🌞∑
+
+𒌑𒍝𒈾𒀠𒆷𒀀 u₂za-na-al-la-a
+𒌑𒍝𒈾𒀠𒆷𒀀 submit
+
+𒐼𒌅𒊕𒉌𒋢 sa-tu-sak-ni-su
+𒐼𒌅𒊕𒉌𒋢 that thou sacked
+𒐼𒌅𒊕𒉌𒋢 "whom thou hast subdued"
+
+𒈬𒊏𒀭 mu-ra-an
+𒈬𒊏𒀭 muᵍraᵈan ≈ murgu / roadᵒⁿ
+𒈬𒊏𒀭 road : 𒈱 𒋞 MURGU मार्ग mārga 𓅓 𓂝 𓍿 𓇱 road 𓅓 𓍿 𓃒 𒄯𒊏 mur-raᵈ 𒄯𒊏𒉡
+
+𒁉𒋃 bi-rit
+𒁉𒋃 biⁿrit
+𒁉𒋃 biⁿᵈrit
+𒁉𒋃 bound
+
+𒄀𒄑𒍮 giʳiz-żu groß
+𒄀𒄑𒍮 strong
+
+𒉿𒄿 pi-i
+𒉿𒄿 piᶜiⁿ piᶜiᵐ
+𒉿𒄿 face
+
+𒂊𒋼𒇻 ᵍe-te-lu getall
+𒂊𒋼𒇻 ascend
+≈
+𒂊𒋼𒇻 et'eluᵛ 
+𒂊𒋼𒇻 elevate
+
+𒂊𒁉𒊒 e-bi-ru
+𒂊𒁉𒊒 over:cross
+
+𒂊𒄵 e-bir (cross) over  
+𒂊𒇷 eᵛli oᵛri over  عَبْرَ  ʕabra !
+
+
+𒀀 𒆗 ᵠilluᵈ  flood
+𒀀𒆗 ᵐillu #mû;mīlu;meli 𓈗  "flood" <> µfill 𒀯𒇻 mullu  𒌑𒂷𒇷 ú-mal-li malli
+𒀀𒆗 a.kal aqua Quelle
+𒀀𒆗 water; source, spring;

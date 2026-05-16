@@ -14,7 +14,20 @@
 𒚝 AB 𒀊
 𒚞 AB2 𒀖
 𒚟 AB2·TWO N14 𒀖
+𒚠 ABZU 𒍪𒀊
+𒚡 AD-A 𒀜
+𒚢 AD-B 𒀜
+𒚣 AD-C 𒀜
 𒚤 ADAB 𒌓
+𒚥 ADDA 𒇿
+𒚦 AGAR2 𒇋
+𒚧 AK-A 𒀝
+𒚨 AK-B 𒀝
+𒚩 AL 𒀠
+𒚪 ALAN-A 𒀩
+𒚫 ALAN-B 𒀩
+𒚬 ALAN-C 𒀩
+𒚭 ALAN-E 𒀩
 𒚮 ALIM 𒄋
 𒚯 AM 𒄠
 𒚰 AM 𒄠
@@ -26,6 +39,8 @@
 𒚶 AMAR OVER AMAR 𒀫
 𒚷 AN 𒀭
 𒚸 ANSHE
+𒚹 ANSHE-B 𒀲
+𒚺 ANSHE-C 𒀲
 𒚻 ANSHE
 𒚼 ANSHE
 𒚽 APIN 𒀳
@@ -34,8 +49,21 @@
 𒛀 ARARMA2
 𒛁 ASAR
 𒛂 AZ 𒊍
+𒛃 AZU 𒍬
+𒛄 BA 𒁀
 𒛅 BAD 𒁁
+𒛆 BAD OVER BAD 𒁁
+𒛇 BAD3-A 𒂦
+𒛈 BAD3-B1 𒂦
+𒛉 BAD3-B2 𒂦
+𒛊 BAHAR2-A 𒁃
+𒛋 BAHAR2-B 𒁃
 𒛌 BAHAR2 𒁃
+𒛍 BALA-A 𒁄
+𒛎 BALA-B 𒁄
+𒛏 BALAG 𒁆
+𒛐 BAN-A
+𒛑 BAN-B
 𒛒 BANSHUR
 𒛓 BANSHUR TENU
 𒛔 BANSHUR1
@@ -53,19 +81,24 @@
 𒛠 BARA3
 𒛡 BIR 𒄵
 𒛢 BIR 𒄵
+𒛣 BIR-C 𒄵
+𒛤 BIR3-A
 𒛥 BIR3
 𒛦 BIR3
 𒛧 BU 𒁍
 𒛨 BU.DU6
 𒛩 BU.KI
 𒛪 BU·A 𒁍
-𒜒 DARA 45
+𒛫 BU-A OVER BU-A NA2-A 𒁍
+𒛬 BU-A CROSSING BU-A NA2-A NUTILLU
 𒛭 BU 𒁍
 𒛮 BU3 𒄷
 𒛯 BULUG 𒁑
 𒛰 BULUG3 𒉽
 𒛱 BUR 𒁓
 𒛲 BUR 𒁓
+𒛳 BUR-C 𒁓
+𒛴 BUR-D 𒁓
 𒛵 BUR2 𒁔
 𒛶 DA 𒁕
 𒛷 DA 𒁕
@@ -87,12 +120,16 @@
 𒜇 DARA3·KAR2 𒁰
 𒜈 DARA3 TIMES 𒁰
 𒜉 DARA41
+𒜊 DARA4-A2 𒁱
+𒜋 DARA4-A3 𒁱
 𒜌 DARA4 𒁱
 𒜍 DARA4 𒁱
 𒜎 DARA41
 𒜏 DARA42
 𒜐 DARA43
 𒜑 DARA 𒁱
+𒜒 DARA 45
+𒜓 DARA4-D 𒁱
 𒜔 DI 𒁲
 𒜕 DI TENU 𒁲
 𒜖 DIB 𒁳
@@ -100,10 +137,16 @@
 𒜘 DIM  𒁴
 𒜙 DIM 𒁴
 𒜚 DIM 𒁴
+𒜛 DIN 𒁷
+𒜜 DIN TIMES ONE N58 𒁷
+𒜝 DIN TENU
 𒜞 DU 𒁺
 𒜟 DU·N58 𒁺
 𒜠 DU GUNU 𒁺
+𒜡 DU6-A 𒇯
 𒜢 DU6·N58 𒇯
+𒜣 DU6-B 𒇯
+𒜤 DU6-C 𒇯
 𒜥 DU7 𒌌
 𒜦 DU8 𒂃 ?
 𒜧 DU8 𒂃
@@ -118,6 +161,7 @@
 𒜰 DUB 𒁾
 𒜱 DUB 𒁾
 𒜲 DUB 𒁾
+𒜳 DUB-F 𒁾
 𒜴 DUB-H
 𒜵 DUB NUTILLU TIMES 𒁾
 𒜶 DUB NUTILLU TIMES 𒁾
@@ -126,6 +170,7 @@
 𒜹 DUG  𒂁 djug  𒁹𒄞 DUG ≠ 𒌌 U·GUD
 𒜺 DUG·KU6 𒂁
 𒜻 DUG·NAGA 𒂁
+𒜼 DUG-A TIMES U2-A 𒂁
 𒜽 DUG·U2 𒂁
 𒜾 DUG·N57 𒂁
 𒜿 DUG 𒂁
@@ -133,6 +178,9 @@
 𒝁 DUG·ANSHE 𒂁
 𒝂 DUG·ANSHE 𒂁
 𒝃 DUG·BALA 𒂁
+𒝄 DUG-B TIMES BIR3-C 𒂁
+𒝅 DUG-B TIMES DIN 𒂁
+𒝆 DUG-B TIMES DIN REVERSED 𒂁
 𒝇 DUG·GA 𒂁
 𒝈 DUG·GA 𒂁
 𒝉 DUG TIMES 𒂁
@@ -156,6 +204,7 @@
 𒝛 DUG·SIG21 𒂁
 𒝜 DUG·SIG22 𒂁
 𒝝 DUG·SIG7 𒂁
+𒝞 DUG-B TIMES SUHUR 𒂁
 𒝟 DUG·SHAH2 𒂁
 𒝠 DUG·SHE 𒂁
 𒝡 DUG·SHE 𒂁
@@ -168,6 +217,9 @@
 𒝨 DUG·UDU 𒂁
 𒝩 DUG·UH3 𒂁
 𒝪 DUG·UH3 𒂁
+𒝫 DUG-B TIMES ZATU764 𒂁
+𒝬 DUG-B TIMES ZATU779 𒂁
+𒝭 DUG-B TIMES ZATU780 𒂁
 𒝮 DUG·ZATU781 𒂁
 𒝯 DUG·ZATU789 𒂁
 𒝰 DUG·N57 𒂁
@@ -180,6 +232,12 @@
 𒝷 DUG 𒂁
 𒝸 DUGUD  𒂂 
 𒝹 DUR 𒄙
+𒝺 DUR-B 𒄙
+𒝻 DUR2 𒂉
+𒝼 E-A 𒂊
+𒝽 E-B 𒂊
+𒝾 E-C 𒂊
+𒝿 E2-A 𒂍
 𒞀 E2·N58 𒂍
 𒞁 E2 𒂍
 𒞂 E2·N58 𒂍
@@ -190,25 +248,33 @@
 𒞇 EN 𒂗
 𒞈 EN 𒂗
 𒞉 EN TENU 𒂗
+𒞊 EN-C 𒂗
+𒞋 EN GUNU-A
 𒞌 EN GUNU 𒂗
 𒞍 EN2 𒋙
 𒞎 ERIM 𒂟
 𒞏 ERIM1
 𒞐 ERIM2 𒉈
+𒞑 ERIN 𒂞
 𒞒 ESHDA
 𒞓 ESHDA·TAR
 𒞔 ESHGAR
 𒞕 EZEN 𒂡
+𒞖 EZEN-A TIMES EN-B 𒂡
+𒞗 EZEN-A TIMES HI TIMES ONE N57 PLUS AN 𒂡
 𒞘 EZEN·KAB 𒂡
 𒞙 EZEN·KASH 𒂡
+𒞚 EZEN-A TIMES KI 𒂡
 𒞛 EZEN·NIM2 𒂡
 𒞜 EZEN·NIMGIR 𒂡
 𒞝 EZEN·RAD 𒂡
 𒞞 EZEN·SU 𒂡
 𒞟 EZEN·U2 𒂡
+𒞠 EZEN-A TIMES U4 𒂡
 𒞡 EZEN 𓎷 𒂡
 𒞢 EZEN·SHE 𒂡
 𒞣 EZEN·SIX N57 𒂡
+𒞤 EZEN-B TENU
 𒞥 EZINU
 𒞦 EZINU
 𒞧 EZINU
@@ -233,12 +299,22 @@
 𒞺 GA21·KU3
 𒞻 GA21·KU6
 𒞼 GA21·KU6
-  GA21·LAGAB
+𒞽 GA2-A1 TIMES LAGAB-B 𒂷
 𒞾 GA21·MASH
 𒞿 GA21·PAD
+𒟀 GA2-A1 TIMES PAP-A 𒂷
+𒟁 GA2-A1 TIMES SU-A 𒂷
 𒟂 GA21·SUHUR
 𒟃 GA21·SUKUD
 𒟄 GA21·SUMASH
+𒟅 GA2-A1 TIMES SHA 𒂷
+𒟆 GA2-A1 TIMES TI 𒂷
+𒟇 GA2-A1 TIMES U4 𒂷
+𒟈 GA2-A1 TIMES ONE N14 𒂷
+𒟉 GA2-A1 TIMES ONE N57 𒂷
+𒟊 GA2-A2 𒂷
+𒟋 GA2-A2 TIMES GU4 𒂷
+𒟌 GA2-A2 TIMES NI-A 𒂷
 𒟍 GA22·SUHUR
 𒟎 GA22·SHE3
 𒟏 GA22·SHE3
@@ -250,6 +326,7 @@
 𒟕 GA2·KU6 𒂷
 𒟖 GA2·ZATU659 𒂷
 𒟗 GA2 𒂷
+𒟘 GAAR-A1
 𒟙 GAAR2 𒋼𒀀 GĀR₂  ?
 𒟚 GAAR1
 𒟛 GAAR2
@@ -266,22 +343,27 @@
 𒟦 GAN·HI PLUS 𒃶
 𒟧 GAN·KASH 𒃶
 𒟨 GAN·KUR 𒃶
+𒟩 GAN-C TIMES LAGAB-B 𒃶
 𒟪 GAN·SIG7 𒃶
 𒟫 GAN·ZATU777 12813 𒠓 𒃶
+𒟬 GAN-C TIMES FOUR N57 PLUS GAR 𒃶
 𒟭 GAN TIMES 𒃶
-𒠑 GIBIL 𒉋
 𒟮 GAN2 𒃷
 𒟯 GAR regardless of context rather than a contextependent reading gar? 𒃻
+𒟰 GAR GUNU-A
+𒟱 GAR GUNU-B
+𒟲 GAR GUNU-C
+𒟳 GAR3 𒃼
 𒟴 GARA2 𒂶
 𒟵 GAZI 𒃢
 𒟶 GESHTIN 𒃾
 𒟷 GESHTIN
 𒟸 GESHTIN ≈
 𒟹 GESHTU 𒉿 
+𒟺 GESHTU TIMES
 𒟻 GESHTU !!!
 𒟼 GESHTU3
 𒟽 GESHTU5
-𒟺 GESHTU TIMES
 𒟾 GI 𒄀
 𒟿 GI·A 𒄀
 𒠀 GI·GISH TENU 𒄀
@@ -301,13 +383,20 @@
 𒠎 GI4 𒄄
 𒠏 GI4 OVER GI4 𒄄
 𒠐 GI6 𒈪
+𒠑 GIBIL 𒉋
 𒠒 GIR 𒄫
+𒠓 GIR-B 𒄫
 𒠔 GIR 𒄫
 𒠕 GIR2 𒄈
 𒠖 GIR3 𒄊
+𒠗 GIR3-A TIMES SHE-B 𒄊
+𒠘 GIR3-B 𒄊
 𒠙 GIR3 𒄊
 𒠚 GIR3·SHE3 𒄊
+𒠛 GIR3 GUNU-A
+𒠜 GIR3 GUNU-B
 𒠝 GIR3 GUNU 𒄊
+𒠞 GISAL-A 𒄐
 𒠟 GISAL 𒄐
 𒠠 GISH 𒄑
 𒠡 GISH·DIN PLUS
@@ -315,6 +404,7 @@
 𒠣 GISH·DIN PLUS
 𒠤 GISH·SHU2
 𒠥 GISH·SHU2
+𒠦 GISH TENU
 𒠧 GISH3 𒄀 ?
 𒠨 GISH3 OVER GISH3 12851 𒡑
 𒠩 GISH3
@@ -327,6 +417,7 @@
 𒠰 GISHIMMAR3
 𒠱 GU 𒄖
 𒠲 GU2 𒄘
+𒠳 GU4 𒄞
 𒠴 GU4 GUNU 𒄞
 𒠵 GU7 𒅥
 𒠶 GUB3
@@ -336,19 +427,27 @@
 𒠺 GUG2 𒈖
 𒠻 GUG2·SILA3 𒈖
 𒠼 GUG2·TUR 𒈖
+𒠽 GUKKAL-A 𒄾   🐑,🥒,😁
 𒠾 GUKKAL 𒄾
+𒠿 GUKKAL-C 𒄾   🐑,🥒,😁
 𒡀 GUKKAL 𒄾
 𒡁 GUL 𒄢
+𒡂 GUM-A 𒄣
 𒡃 GUM 𒄣
+𒡄 GUM-B NUTILLU
 𒡅 GUN3 𒁯
+𒡆 GUN3-B 𒁯
 𒡇 GUR 𒄥
 𒡈 GURUSH
 𒡉 GURUSH·TWO
 𒡊 GURUSH
 𒡋 GURUSH·TWO
 𒡌 GURUSH·TWO
-  GURUSHDA
+𒡍 GURUSHDA
+𒡎 HAL
+𒡏 HALUB
 𒡐 HASHHUR
+𒡑 HASHHUR TIMES MA 𒈢
 𒡒 HI
 𒡓 HI·N57
 𒡔 HI·N57
@@ -359,6 +458,7 @@
 𒡙 IB 𒅁
 𒡚 IB NUTILLU 𒅁
 𒡛 IB 𒅁
+𒡜 IB-C 𒅁
 𒡝 IDIGNA 𒈦𒄘𒃼
 𒡞 IG 𒅅
 𒡟 IG 𒅅
@@ -368,6 +468,9 @@
 𒡣 IN 𒅔
 𒡤 IN 𒅔
 𒡥 IR 𒅕
+𒡦 IR-B 𒅕
+𒡧 IR-C 𒅕
+𒡨 IR-D 𒅕
 𒡩 ISH 𒅖
 𒡪 ISH 𒅖 kuš₇ Gischt 
 𒡫 ISH
@@ -375,9 +478,13 @@
 𒡭 KA·SAR 𒅗
 𒡮 KA2 𒆍
 𒡯 KA2 𒆍
+𒡰 KA2-D TIMES LAM-B 𒆍
 𒡱 KAB 𒆏
 𒡲 KAD4 𒆒
 𒡳 KAD4 𒆒
+𒡴 KAK-A 𒆕
+𒡵 KAK-B 𒆕
+𒡶 KAL-A 𒆗
 𒡷 KAL1 𒆗
 𒡸 KAL2 𒆗
 𒡹 KALAM 𒌦
@@ -401,6 +508,9 @@
 𒢋 KI NUTILLU 𒆠
 𒢌 KI NUTILLU TIMES 𒆠
 𒢍 KIB  𒄒
+𒢎 KIB GUNU
+𒢏 KID-A 𒆤
+𒢐 KID-B 𒆤
 𒢑 KID 𒆤
 𒢒 KID 𒆤
 𒢓 KID 𒆤
@@ -408,8 +518,14 @@
 𒢕 KIN2 𒄯
 𒢖 KIN2 𒄯
 𒢗 KIN2 𒄯
+𒢘 KIN2-D 𒄯
+𒢙 KIN2-E 𒄯
+𒢚 KISAL-A1 𒆦
 𒢛 KISAL1 𒆦 <> 𒆤
 𒢜 KISAL2 
+𒢝 KISAL-B2 TENU
+𒢞 KISAL-B3 𒆦
+𒢟 KISIM-A 𒁬
 𒢠 KISIM 𒁬
 𒢡 KISIM 𒁬
 𒢢 KISH
@@ -419,6 +535,7 @@
 𒢦 KU1
 𒢧 KU2 𒅥
 𒢨 KU3 𒆬
+𒢩 KU3-C 𒆬
 𒢪 KU6 𒄩
 𒢫 KU6.KU6
 𒢬 KU6 𒄩
@@ -447,6 +564,8 @@
 𒣃 LAGAB·PA 𒆸
 𒣄 LAGAB·SIG7 𒆸
 𒣅 LAGAB·SU 𒆸
+𒣆 LAGAB-A TIMES SHA 𒆸
+𒣇 LAGAB-A TIMES SHITA-A1 𒆸
 𒣈 LAGAB·TI 𒆸
 𒣉 LAGAB·U4 𒆸
 𒣊 LAGAB·UB 𒆸
@@ -484,8 +603,8 @@
 𒣪 MA2 𒈣
 𒣫 MAGUR
 𒣬 MAGUR
-𒣻 MAH 𒀠  𒈤 ƒ
-𒣽 MAH·SAL
+𒣭 MAH-A
+𒣮 MAH-A TIMES AB2
 𒣯 MAH TIMES
 𒣰 MAH·KU6
 𒣱 MAH·MASH
@@ -498,6 +617,9 @@
 𒣸 MAH·UR
 𒣹 MAH·UTUA
 𒣺 MAH·ZATU659
+𒣻 MAH 𒀠  𒈤 ƒ
+𒣼 MAH-B TIMES NA-A
+𒣽 MAH·SAL
 𒣾 MAR 𒈥
 𒣿 MAR GUNU 𒈥
 𒤀 MAR TENU 𒈥
@@ -517,11 +639,16 @@
 𒤎 MIR 𒂇
 𒤏 MIR 𒂇
 𒤐 MU 𒈬
+𒤑 MUD 𒄷𒄭
 𒤒 MUD3 𒉯
 𒤓 MUD3 GUNU 𒉯
 𒤔 MUD3 𒉯
 𒤕 MUD3 𒉯
 𒤖 MUD3 𒉯
+𒤗 MUL 𒀯
+𒤘 MUN-A1 𒁵
+𒤙 MUN-A2 𒁵
+𒤚 MUN-A3 𒁵
 𒤛 MUN4 𒋀
 𒤜 MUN 𒁵
 𒤝 MUNSHUB 𒈰
@@ -533,15 +660,15 @@
 𒤣 MUSH3
 𒤤 MUSHEN
 𒤥 ONE N58 BAD
+𒤦 ONE N58 PLUS BAD FORM B
 𒤧 THREE N58 UR31
-N01 ≈ 𒕫 in small 𒖉
 𒤨 NA 𒈾
 𒤩 NA 𒈾
 𒤪 NA 𒈾
 𒤫 NA2 𒈿 
-𒤮 NA2 𒈿
 𒤬 NA21 ƒ?
 𒤭 NA22
+𒤮 NA2 𒈿
 𒤯 NAB 𒀭
 𒤰 NAGA 𒉀
 𒤱 NAGA·TAK4 𒉀
@@ -551,16 +678,18 @@ N01 ≈ 𒕫 in small 𒖉
 𒤵 NAM 𒉆
 𒤶 NAM 𒉆
 𒤷 NAM 𒉆
+𒤸 NAM-D 𒉆
 𒤹 NAM2 𒉇
 𒤺 NAM2·N01 𒉇
 𒤻 NAM2 GUNU 𒉇
 𒤼 NAM2 TENU 𒉇
 𒤽 NANSHE
+𒤾 NANSHE-B 𒀏
 𒤿 NAR 𒈜
-𒥃 NE 𒉈
 𒥀 NE 𒉈
 𒥁 NE 𒉈
 𒥂 NE 𒉈
+𒥃 NE 𒉈
 𒥄 NESAG2
 𒥅 NESAG2
 𒥆 NI 𒉌
@@ -571,6 +700,8 @@ N01 ≈ 𒕫 in small 𒖉
 𒥋 NI2 𒉎
 𒥌 NIGIN 𒇔
 𒥍 NIM 𒉏
+𒥎 NIM-B1 𒉏
+𒥏 NIM-B2 𒉏
 𒥐 NIM3
 𒥑 NIMGIR 𒂇 
 𒥒 NINDA2 𒉒
@@ -613,6 +744,9 @@ N01 ≈ 𒕫 in small 𒖉
 𒥷 NUN.NAM2
 𒥸 NUN 𒉣
 𒥹 NUN.EN
+𒥺 NUN-C 𒉣
+𒥻 NUN-D 𒉣
+𒥼 NUNUZ-A0 𒉭
 𒥽 NUNUZ1
 𒥾 NUNUZ2
 𒥿 NUNUZ1
@@ -626,10 +760,10 @@ N01 ≈ 𒕫 in small 𒖉
 𒦇 PAP 𒉽
 𒦈 PIRIG 𒊊
 𒦉 PIRIG 𒊊
+𒦊 PIRIG 𒊊
 𒦋 PIRIG 𒊊
 𒦌 PIRIG 𒊊
 𒦍 PIRIG 𒊊
-𒦊 PIRIG 𒊊
 𒦎 PU2 𒇥
 𒦏 RA 𒊏
 𒦐 RAD 𒋥
@@ -655,6 +789,8 @@ N01 ≈ 𒕫 in small 𒖉
 𒦤 SANGA
 𒦥 SANGA
 𒦦 SANGA
+𒦧 SAR-A 𒊬
+𒦨 SAR-A TIMES SHE-A 𒊬
 𒦩 SAR 𒊬
 𒦪 SAR 𒊬
 𒦫 SAR 𒊬
@@ -669,12 +805,15 @@ N01 ≈ 𒕫 in small 𒖉
 𒦴 SI·N58 𒋛
 𒦵 SI4
 𒦶 SI4
+𒦷 SI4-C
 𒦸 SI4
 𒦹 SI4
 𒦺 SIG 𒋝 ≈ 𒌓 ≈ 󴢓 > 𒩿
 𒦻 SIG21 𒊹 𒋝 𒋠 𒋧 ? 
+𒦼 SIG2-A2 𒋠
 𒦽 SIG23
 𒦾 SIG24
+𒦿 SIG2-B 𒋠
 𒧀 SIG2 OVER SIG2 𒋠
 𒧁 SIG21
 𒧂 SIG22
@@ -688,8 +827,11 @@ N01 ≈ 𒕫 in small 𒖉
 𒧊 SILA3 𒋡
 𒧋 SILA3·A 𒋡
 𒧌 SILA3·AMAR 𒋡
+𒧍 SILA3-A TIMES DUG-A 𒋡
 𒧎 SILA3·GA 𒋡
+𒧏 SILA3-A TIMES GARA2-A 𒋡
 𒧐 SILA3 TIMES 𒋡
+𒧑 SILA3-A TIMES GESHTU-C3 𒋡
 𒧒 SILA3 TIMES 𒋡
 𒧓 SILA3·HI 𒋡
 𒧔 SILA3·IB 𒋡
@@ -704,6 +846,7 @@ N01 ≈ 𒕫 in small 𒖉
 𒧝 SILA3·NAGA 𒋡
 𒧞 SILA3·NI 𒋡
 𒧟 SILA3·NUN 𒋡
+𒧠 SILA3-A TIMES SUHUR 𒋡
 𒧡 SILA3·SUM 𒋡
 𒧢 SILA3·SUM 𒋡
 𒧣 SILA3·SHE 𒋡
@@ -711,7 +854,7 @@ N01 ≈ 𒕫 in small 𒖉
 𒧥 SILA3·SHU 𒋡
 𒧦 SILA3·SHU2 𒋡
 𒧧 SILA3 TIMES 𒋡
-  SILA3 TIMES
+𒧨 SILA3-A TIMES ZATU646 𒋡
 𒧩 SILA3 TIMES 𒋡
 𒧪 SILA3·𒋡
 𒧫 SILA3 𒋡
@@ -721,6 +864,8 @@ N01 ≈ 𒕫 in small 𒖉
 𒧯 SILA3·NI 𒋡
 𒧰 SILA3 TIMES 𒋡
 𒧱 SILA4 𒃢
+𒧲 SILA4-B 𒃢
+𒧳 SILA4-C 𒃢
 𒧴 SILA4 𒃢
 𒧵 SILANITA
 𒧶 SIMUG 𒌣
@@ -732,11 +877,21 @@ N01 ≈ 𒕫 in small 𒖉
 𒧼 SUG 𒆹
 𒧽 SUG5
 𒧾 SUH3 𒄗     𒄖 𒠱
+𒧿 SUHUR
+𒨀 SUHUR GUNU
+𒨁 SUHUR NUTILLU
+𒨂 SUHUR TENU
+𒨃 SUKKAL 𒈛
 𒨄 SUKUD 𒃴 𒨄 𒨇  𒨅 𒨍 𒨆 𒨈 𒨉 𒨊 󳺪 󳺫 󳺭 󳺮 󳺯 󳺵 󳺾 󳺧
-𒨇 SUKUD GUNU 𒃴
+𒨅 SUKUD JOINING SUKUD FORM A 𒃴
 𒨆 SUKUD.SUKUD 𒃴 
-𒨍 SUMASH 𒋨
+𒨇 SUKUD GUNU 𒃴
+𒨈 SUKUD GUNU-B
+𒨉 SUKUD GUNU-C
+𒨊 SUKUD GUNU-D
+𒨋 SUM-A 𒋧
 𒨌 SUM 𒋧
+𒨍 SUMASH 𒋨
 𒨎 SUR 𒋩
 𒨏 SHA 𒐼
 𒨐 SHA·HI GUNU 𒐼𒄭
@@ -747,6 +902,9 @@ N01 ≈ 𒕫 in small 𒖉
 𒨕 SHA32 GUNU
 𒨖 SHA3
 𒨗 SHA3
+𒨘 SHA3-D 𒊮
+𒨙 SHAGAN 𒌋𒃶
+𒨚 SHAGINA 𒄊𒀴
 𒨛 SHAH2 𒂄
 𒨜 SHAH2
 𒨝 SHAH2
@@ -758,15 +916,27 @@ N01 ≈ 𒕫 in small 𒖉
 𒨣 SHE OVER SHE 𒊺
 𒨤 SHE TENU 𒊺
 𒨥 SHE 𒊺
-𒨮 SHEN 𒊿
+𒨦 SHE-C 𒊺
+𒨧 SHE3 𒂠
+𒨨 SHE3 TENU
+𒨩 SHEG9 𒊾
+𒨪 SHEN-A 𒊿
+𒨫 SHEN-B 𒊿
+𒨬 SHEN-C 𒊿
 𒨭 SHEN TENU
+𒨮 SHEN 𒊿
 𒨯 SHEN·A
+𒨰 SHENNUR-A 𒄒
+𒨱 SHENNUR-B 𒄒
+𒨲 SHESH-A 𒋀
+𒨳 SHESH-B 𒋀
+𒨴 SHIDIM
 𒨵 SHIM
 𒨶 SHIM
-𒨴 SHIDIM
 𒨷 SHIR 𒋓 ≠ 𒂡
 𒨸 SHIR 𒉢
 𒨹 SHITA1 𒋖
+𒨺 SHITA-A1 TIMES KAK-A 𒋖
 𒨻 SHITA1·SHU
 𒨼 SHITA2
 𒨽 SHITA3
@@ -778,12 +948,17 @@ N01 ≈ 𒕫 in small 𒖉
 𒩃 SHITA GUNU
 𒩄 SHITA GUNU TIMES
 𒩅 SHITA GUNU
+𒩆 SHU 𒋗
+𒩇 SHU TIMES ONE N58 𒋗
+𒩈 SHU OVER SHU 𒋗
 𒩉 SHU GUNU 𒋗
 𒩊 SHU2 𒋙
 𒩋 SHU12
+𒩌 SHUBUR 𒋚
+𒩍 SHUM 𒋳
+𒩎 SHUR2·𒁹
 𒩏 SHUR2 Schur 𒊨
 𒩐 SHUR2 
-𒩎 SHUR2·𒁹
 𒩑 TA 𒋫
 𒩒 TA 𒋫
 𒩓 TA 𒋫
@@ -791,6 +966,7 @@ N01 ≈ 𒕫 in small 𒖉
 𒩕 TA 𒋫
 𒩖 TAG1 𒋳  ≠  𒆒 𒡲  𒡳 kam₃  Kamm
 𒩗  TAG1 TENU
+𒩘 TAG-A2 𒋳
 𒩙 TAG3
 𒩚 TAG4 𒋺
 𒩛 TAG 𒋳
@@ -798,9 +974,11 @@ N01 ≈ 𒕫 in small 𒖉
 𒩝 TAG 𒋳
 𒩞 TAK4 𒋺
 𒩟 TAK4 NUTILLU 𒋺
+𒩠 TAK4-C 𒋺
 𒩡 TAR 𒋻
 𒩢 TE 𒋼
 𒩣 TI 𒋾
+𒩤 TI GUNU
 𒩥 TI REVERSED 𒋾
 𒩦 TI TENU 𒋾
 𒩧 TILLA2 𒀭
@@ -808,9 +986,17 @@ N01 ≈ 𒕫 in small 𒖉
 𒩩 TU 𒌅
 𒩪 TU 𒌅
 𒩫 TUG2 𒌆
+𒩬 TUG2-A GUNU
+𒩭 TUG2-B 𒌆
+𒩮 TUG2-C 𒌆
+𒩯 TUM-A 𒌈
+𒩰 TUM-A GUNU
 𒩱 TUM 𒌈
 𒩲 TUM 𒌈
 𒩳 TUM 𒌈
+𒩴 TUN3-A 𒂅
+𒩵 TUN3-B 𒂅
+𒩶 TUN3-C 𒂅
 𒩷 TUR 𒌉
 𒩸 TUR GUNU 𒌉
 𒩹 TUR3 𒉣
@@ -819,7 +1005,9 @@ N01 ≈ 𒕫 in small 𒖉
 𒩼 U2 𒌑
 𒩽 U2 𒌑
 𒩾 U2 𒌑
+𒩿 U4 𒌓
 𒪀 U4·N01 𒌓
+𒪁 U4 TIMES ONE N01 PLUS ONE N24 𒌓
 𒪂 U4·THREE N01 𒌓
 𒪃 U4·FOUR N01 𒌓
 𒪄 U4·FIVE N01 𒌓
@@ -830,16 +1018,19 @@ N01 ≈ 𒕫 in small 𒖉
 𒪉 U4·N14 𒌓
 𒪊 U4·N14 𒌓
 𒪋 U4·N14 𒌓
-  U4·TWO N14
+𒪌 U4 TIMES TWO N14 PLUS FOUR N01 𒌓
 𒪍 U4·THREE N14 𒌓
 𒪎 U4·THREE N14 𒌓
-N57 ≈ 𒀸
 𒪏 U4·N57 𒌓
 𒪐 U4·TWO N57 𒌓
+𒪑 U4 TIMES THREE N57 𒌓
 𒪒 U4·FOUR N57 𒌓
 𒪓 U4·FIVE N57 𒌓
 𒪔 U4·SIX N57 𒌓
 𒪕 U4·SEVEN N57 𒌓
+𒪖 U4 TIMES EIGHT N57 𒌓
+𒪗 U4 TIMES TEN N57 𒌓
+𒪘 U4 TIMES ONE N58 TENU 𒌓
 𒪙 U4 TENU 𒌓
 𒪚 U8 𒇇
 𒪛 U8·TAR 𒇇
@@ -851,6 +1042,8 @@ N57 ≈ 𒀸
 𒪡 UD5 GUNU 𒍚
 𒪢 UD5 𒍚
 𒪣 UD5 𒍚
+𒪤 UDU-A 𒇻
+𒪥 UDU-A TIMES TAR-A 𒇻
 𒪦 UDU·TAR 𒇻
 𒪧 UDU 𒇻
 𒪨 UDUNITA
@@ -860,6 +1053,9 @@ N57 ≈ 𒀸
 𒪬 UH3 TENU
 𒪭 UH3
 𒪮 UKKIN 𒌺 ƒ?  <> 𒊿 𒨮 SHEN Schenke 𒨭 𒨯 <> 𒨵 𒨶 SHIM !
+𒪯 UKKIN-B 𒌺
+𒪰 UKKIN-B TIMES DIN 𒌺
+𒪱 UKKIN-B TIMES DIN PLUS ONE N01 𒌺
 𒪲 UKKIN·HI 𒌺
 𒪳 UKKIN·NI 𒌺
 𒪴 UKKIN·TWO 𒌺
@@ -869,15 +1065,24 @@ N57 ≈ 𒀸
 𒪸 UMBIN 𒌢
 𒪹 UMBIN1
 𒪺 UMBIN2
+𒪻 UMBIN-C 𒌢
+𒪼 UMUN2 𒌣
 𒪽 UNUG 𒀕
+𒪾 UNUG-A TIMES A TENU 𒀕
 𒪿 UNUG SHESHIG 𒀕
 𒫀 UNUG 𒀕
 𒫁 UNUG 𒀕
 𒫂 UR 𒌨
 𒫃 UR GUNU 𒌨
 𒫄 UR 𒌨
+𒫅 UR-C 𒌨
+𒫆 UR2 𒌫
+𒫇 UR2 TIMES TAR-C 𒌫
+𒫈 UR2 TIMES ONE N57 𒌫
 𒫉 UR31 𒃡 room
 𒫊 UR32
+𒫋 UR3-A3 𒃡
+𒫌 UR3-B1 𒃡
 𒫍 UR32
 𒫎 UR4 𒌴
 𒫏 UR4 𒌴
@@ -887,6 +1092,9 @@ N57 ≈ 𒀸
 𒫓 URI 𒌵
 𒫔 URI3 𒌶
 𒫕 URI5
+𒫖 URU-A1 𒌷
+𒫗 URU-A1 TIMES AMAR 𒌷
+𒫘 URU-A1 TIMES HI GUNU-A 𒌷
 𒫙 URU1·KI 𒌷
 𒫚 URU1·NIMGIR 𒂇
 𒫛 URU1·U4
@@ -898,9 +1106,11 @@ N57 ≈ 𒀸
 𒫡 URU2 𒌷
 𒫢 URU 𒌷
 𒫣 URUDU 𒍏
+𒫤 URUDU ?
 𒫥 URUDU 𒍏
 𒫦 URUDU GUNU 𒍏
-𒫤 URUDU ?
+𒫧 URUDU GUNU-C
+𒫨 URUDU GUNU-D
 𒫩 USH 𒍑  GIŠ₃ 𒠠 ĝish 
 𒫪 USH OVER USH
 𒫫 USH
@@ -912,12 +1122,15 @@ N57 ≈ 𒀸
 𒫱 UTUA TENU 𒁭
 𒫲 UTUA 𒁭
 𒫳 UTUL 𒀖𒇻 ƒ
+𒫴 UTUL-B
 𒫵 UTUL
 𒫶 UTUL
 𒫷 UZU 𒍜
 𒫸 ZA-V
 𒫹 ZAG 𒍠
 𒫺 ZAG 𒍠
+𒫻 ZAG-C 𒍠
+𒫼 ZAR-A 𒇡
 𒫽 ZAR1
 𒫾 ZAR2 𒉌
 𒫿 ZAR 𒇡
@@ -925,9 +1138,9 @@ N57 ≈ 𒀸
 𒬁 ZI 𒍣
 𒬂 ZI 𒍣
 𒬃 ZUBI 𒉽 𒈿 ƒ?
-
 𒬄 ZATU620
 𒬅 ZATU621
+𒬆 ZATU621-B
 𒬇 ZATU621
 𒬈 ZATU621
 𒬉 ZATU622
@@ -936,6 +1149,11 @@ N57 ≈ 𒀸
 𒬌 ZATU624
 𒬍 ZATU625
 𒬎 ZATU626
+𒬏 ZATU626-B
+𒬐 ZATU626-C
+𒬑 ZATU628-A
+𒬒 ZATU628-B
+𒬓 ZATU629
 𒬔 ZATU630
 𒬕 ZATU631
 𒬖 ZATU632
@@ -945,12 +1163,19 @@ N57 ≈ 𒀸
 𒬚 ZATU635
 𒬛 ZATU636
 𒬜 ZATU637
+𒬝 ZATU639
+𒬞 ZATU641
 𒬟 ZATU642 𒭻
 𒬠 ZATU643
 𒬡 ZATU644
 𒬢 ZATU644
 𒬣 ZATU646
 𒬤 ZATU647
+𒬥 ZATU648
+𒬦 ZATU649
+𒬧 ZATU651
+𒬨 ZATU651 TIMES AN
+𒬩 ZATU651 TIMES EN-A
 𒬪 ZATU651·GAR
 𒬫 ZATU651·MA
 𒬬 ZATU651·NUN
@@ -958,16 +1183,34 @@ N57 ≈ 𒀸
 𒬮 ZATU651 GUNU
 𒬯 ZATU659
 𒬰 ZATU659·ONE
-   ZATU659·ONE
+𒬱 ZATU659 TIMES ONE N14
 𒬲 ZATU659·ONE
 𒬳 ZATU662
 𒬴 ZATU662·ONE
 𒬵 ZATU664
+𒬶 ZATU665
+𒬷 ZATU666
+𒬸 ZATU667
+𒬹 ZATU668
+𒬺 ZATU669
+𒬻 ZATU672
+𒬼 ZATU674
+𒬽 ZATU675-A
 𒬾 ZATU675
+𒬿 ZATU675-C
+𒭀 ZATU675-D
 𒭁 ZATU676
+𒭂 ZATU676-B
+𒭃 ZATU677-A
+𒭄 ZATU677-B
+𒭅 ZATU678
+𒭆 ZATU679
+𒭇 ZATU680-A1
 𒭈 ZATU6802
 𒭉 ZATU680
+𒭊 ZATU680-D
 𒭋 ZATU680
+𒭌 ZATU681
 𒭍 ZATU682
 𒭎 ZATU683
 𒭏 ZATU683
@@ -980,12 +1223,34 @@ N57 ≈ 𒀸
 𒭖 ZATU688
 𒭗 ZATU688
 𒭘 ZATU689
+𒭙 ZATU690
 𒭚 ZATU691
 𒭛 ZATU692
 𒭜 ZATU693
+𒭝 ZATU693 TENU
+𒭞 ZATU694-A
+𒭟 ZATU694-B
+𒭠 ZATU694-C
+𒭡 ZATU694-D
+𒭢 ZATU694-D TENU
+𒭣 ZATU695
+𒭤 ZATU696
+𒭥 ZATU697-A
+𒭦 ZATU697-B
 𒭧 ZATU699
+𒭨 ZATU700
+𒭩 ZATU701
+𒭪 ZATU702
+𒭫 ZATU703
+𒭬 ZATU705
+𒭭 ZATU706
+𒭮 ZATU707-A
+𒭯 ZATU707-B
+𒭰 ZATU708
 𒭱 ZATU709
 𒭲 ZATU710
+𒭳 ZATU711
+𒭴 ZATU711 TIMES HI GUNU-A
 𒭵 ZATU713
 𒭶 ZATU714
 𒭷 ZATU714·HI
@@ -1003,7 +1268,10 @@ N57 ≈ 𒀸
 𒮃 ZATU727
 𒮄 ZATU728
 𒮅 ZATU729
+𒮆 ZATU730
+𒮇 ZATU732
 𒮈 ZATU734
+𒮉 ZATU735-A
 𒮊 ZATU735
 𒮋 ZATU735
 𒮌 ZATU736
@@ -1021,6 +1289,7 @@ N57 ≈ 𒀸
 𒮘 ZATU737·SAL
 𒮙 ZATU737·SU
 𒮚 ZATU737·SHE
+𒮛 ZATU737 TIMES SHITA-A1
 𒮜 ZATU737·U4
 𒮝 ZATU737 TIMES
 𒮞 ZATU749
@@ -1038,18 +1307,31 @@ N57 ≈ 𒀸
 𒮪 ZATU756
 𒮫 ZATU757
 𒮬 ZATU758
+𒮭 ZATU759
+𒮮 ZATU759 TIMES KU6-A
+𒮯 ZATU759 TIMES KU6-A JOINING KU6-A
 𒮰 ZATU762
 𒮱 ZATU762 TIMES
+𒮲 ZATU762-B
+𒮳 ZATU762-B TIMES AB-A
 𒮴 ZATU764
 𒮵 ZATU765
 𒮶 ZATU766
+𒮷 ZATU767
+𒮸 ZATU772
+𒮹 ZATU773-A
+𒮺 ZATU773-B
 𒮻 ZATU774
+𒮼 ZATU775
+𒮽 ZATU776
 𒮾 ZATU777
 𒮿 ZATU778
 𒯀 ZATU780
 𒯁 ZATU781
+𒯂 ZATU782
 𒯃 ZATU783
 𒯄 ZATU784
+𒯅 ZATU786
 𒯆 ZATU787
 𒯇 ZATU788
 𒯈 ZATU791
@@ -1059,7 +1341,13 @@ N57 ≈ 𒀸
 𒯌 ZATU798
 𒯍 ZATU799
 𒯎 ZATU800
+𒯏 ZATU801
 𒯐 ZATU802
+𒯑 ZATU802-B
+𒯒 ZATU803
+𒯓 ZATU804
+𒯔 ZATU806
+𒯕 ZATU807
 𒯖 ZATU808
 𒯗 ZATU809
 𒯘 ZATU810
@@ -1078,8 +1366,39 @@ N57 ≈ 𒀸
 𒯥 ZATU854
 𒯦 ZATU858
 𒯧 ZATU 859
+𒯨 𒯮 𒯰 𒯱 𒯲 𒯳 𒯴 𒯵 𒯶 𒯷 𒯸 𒯹 𒯺 𒯻 𒯼 𒯽 𒯾 𒯿
+𒯩 NUM:THREE LAGAB-A
+𒯪 NUM:FOUR LAGAB-A
+𒯫 NUM:SIX LAGAB-A
+𒯬 NUM:ONE N57
+𒯭 NUM:TWO N57
+𒯮 NUM:THREE N57
+𒯯 NUM:FOUR N57
+𒯰 NUM:FIVE N57
+𒯱 NUM:SIX N57
+𒯲 NUM:SEVEN N57
+𒯳 NUM:EIGHT N57
+𒯴 NUM:NINE N57
+𒯵 NUM:TEN N57
+𒯶 NUM:ONE N58
+𒯷 NUM:TWO N58
+𒯸 NUM:THREE N58
+𒯹 NUM:FOUR N58
+𒯺 NUM:FIVE N58
+𒯻 NUM:EIGHT N58
+𒯼 NUM:NINE N58
+𒯽 NUM:TEN N58
+𒯾 NUM:TWELVE N58
+𒯿 NUM:ONE N58 TENU
+  GA21·LAGAB
+  GURUSHDA
+N01 ≈ 𒕫 in small 𒖉
+  SILA3 TIMES
+  U4·TWO N14
+N57 ≈ 𒀸
+𒖾 ≈ 𒁁 in 𒚥
+
+   ZATU659·ONE
 
 N14 𒕢 𒕹 𒖂
-
 𒕐 𒕑 𒕒 𒕓 𒕔 𒕕 𒕖 𒕗 𒕘 𒕙 𒕚 𒕛 𒕜 𒕝 𒕞 𒕟 𒕠 𒕡 𒕢 𒕣 𒕤 𒕥 𒕦 𒕧 𒕨 𒕩 𒕪 𒕫 𒕬 𒕭 𒕮 𒕯 𒕰 𒕱 𒕲 𒕳 𒕴 𒕵 𒕶 𒕷 𒕸 𒕹 𒕺 𒕻 𒕼 𒕽 𒕾 𒕿 𒖀 𒖁 𒖂 𒖃 𒖄 𒖅 𒖆 𒖇 𒖈 𒖉 𒖊 𒖋 𒖌 𒖍 𒖎 𒖏 𒖐 𒖑 𒖒 𒖓 𒖔 𒖕 𒖖 𒖗 𒖘 𒖙 𒖚 𒖛 𒖜 𒖝 𒖞 𒖟 𒖠 𒖡 𒖢 𒖣 𒖤 𒖥 𒖦 𒖧 𒖨 𒖩 𒖪 𒖫 𒖬 𒖭 𒖮 𒖯 𒖰 𒖱 𒖲 𒖳 𒖴 𒖵 𒖶 𒖷 𒖸 𒖹 𒖺 𒖻 𒖼 𒖽 𒖾 𒖿 𒗀 𒗁 𒗂 𒗃 𒗄 𒗅 𒗆 𒗇 𒗈 𒗉 𒗊 𒗋 𒗌 𒗍 𒗎 𒗏 𒗐 𒗑 𒗒 𒗓 𒗔 𒗕 𒗖 𒗗 𒗘 𒗙 𒗚 𒗛 𒗜 𒗝 𒗞 𒗟 𒗠 𒗡 𒗢 𒗣 𒗤 𒗥 𒗦 𒗧 𒗨 𒗩 𒗪 𒗫 𒗬 𒗭 𒗮 𒗯 𒗰 𒗱 𒗲 𒗳 𒗴 𒗵 𒗶 𒗷 𒗸 𒗹 𒗺 𒗻 𒗼 𒗽 𒗾 𒗿 𒘀 𒘁 𒘂 𒘃 𒘄 𒘅 𒘆 𒘇 𒘈 𒘉 𒘊 𒘋 𒘌 𒘍 𒘎 𒘏 𒘐 𒘑 𒘒 𒘓 𒘔 𒘕 𒘖 𒘗 𒘘 𒘙 𒘚 𒘛 𒘜 𒘝 𒘞 𒘟 𒘠 𒘡 𒘢 𒘣 𒘤 𒘥 𒘦 𒘧 𒘨 𒘩 𒘪 𒘫 𒘬 𒘭 𒘮 𒘯 𒘰 𒘱 𒘲 𒘳 𒘴 𒘵 𒘶 𒘷 𒘸 𒘹 𒘺 𒘻 𒘼 𒘽 𒘾 𒘿 𒙀 𒙁 𒙂 𒙃 𒙄 𒙅 𒙆 𒙇 𒙈 𒙉 𒙊 𒙋 
-𒯨 𒯮 𒯰 𒯱 𒯲 𒯳 𒯴 𒯵 𒯶 𒯷 𒯸 𒯹 𒯺 𒯻 𒯼 𒯽 𒯾 𒯿
