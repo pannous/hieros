@@ -132,6 +132,56 @@ def extract_pdf_sign_names(pdf_path: str) -> dict[int, str]:
     return entries
 
 
+# ── Proto-cuneiform backwards reconstruction ─────────────────────────
+
+def load_pc_name_lookup(src: str) -> dict[str, str]:
+    """Build {simple_sign_name: first_proto-cuneiform_char} from the list file.
+
+    Only simple (non-compound) names are indexed so they can serve as
+    component lookups when reconstructing compound signs."""
+    lookup: dict[str, str] = {}
+    with open(src, 'r', encoding='utf-8') as fh:
+        for line in fh:
+            if not line.strip():
+                continue
+            parts = line.split()
+            if len(parts) < 2:
+                continue
+            char, name = parts[0], parts[1]
+            if '·' in name or '.' in name:
+                continue  # skip compound entries
+            lookup.setdefault(name.upper(), char)
+    return lookup
+
+
+def find_pc_backwards(compound_name: str, pc_dict: dict[str, str]) -> str:
+    """Return the proto-cuneiform backwards reconstruction for a compound name.
+
+    For LAGAB·U4  → 'pc_LAGAB·pc_U4'
+    For GAN·KUR·A → 'pc_GAN·pc_KURpc_A'  (container·rest concatenated)
+    Returns '' when no component can be resolved."""
+    sep = '·' if '·' in compound_name else ('.' if '.' in compound_name else None)
+    if not sep:
+        return ''
+    parts = compound_name.split(sep)
+
+    def _lookup_pc(name: str) -> str:
+        for n in (name, _strip_variant(name),
+                  name.replace('SH', 'Š'), _strip_variant(name).replace('SH', 'Š')):
+            found = pc_dict.get(n.upper(), '')
+            if found:
+                return found
+        return ''
+
+    resolved = [_lookup_pc(p.strip()) for p in parts]
+    if not any(resolved):
+        return ''
+    # Format: container·(rest concatenated), matching user convention
+    container = resolved[0] or parts[0]
+    rest = ''.join(r or p for r, p in zip(resolved[1:], parts[1:]))
+    return f'{container}·{rest}'
+
+
 # ── Cuneiform cross-reference lookup ─────────────────────────────────
 
 def load_cuneiform_dict(root: str) -> dict[str, str]:
@@ -237,9 +287,10 @@ def find_cuneiform_xref(pdf_name: str, cun_dict: dict[str, str],
 # ── Build the completed file ─────────────────────────────────────────
 
 def _enhance_compound_line(raw_line: str, cun_dict: dict[str, str],
-                           compound_lookup: dict[tuple[str, str], str]) -> str:
-    """For an existing line whose name contains ·, enrich the cuneiform xref
-    if it is currently missing the modifier character or the ≈ combined sign."""
+                           compound_lookup: dict[tuple[str, str], str],
+                           pc_dict: dict[str, str]) -> str:
+    """Enrich a compound (·) line with the full cuneiform xref and
+    proto-cuneiform backwards reconstruction."""
     if '·' not in raw_line and '.' not in raw_line:
         return raw_line
     parts = raw_line.split()
@@ -249,20 +300,23 @@ def _enhance_compound_line(raw_line: str, cun_dict: dict[str, str],
     sep = '·' if '·' in name else ('.' if '.' in name else None)
     if not sep:
         return raw_line
-    # Recompute the full xref
     new_xref = find_cuneiform_xref(name, cun_dict, compound_lookup)
-    if not new_xref:
+    pc_back  = find_pc_backwards(name, pc_dict)
+    if not new_xref and not pc_back:
         return raw_line
-    # Keep any trailing annotation (comments, etc.) that isn't the old xref
-    # Simple heuristic: drop old xref tokens (single cuneiform chars / ≈ tokens)
-    # and rebuild
-    return f"{sign_char} {name} {new_xref}"
+    line = f"{sign_char} {name}"
+    if new_xref:
+        line += f" {new_xref}"
+    if pc_back:
+        line += f"  {pc_back}"
+    return line
 
 
 def build_completed_copy(src: str, dst: str, present: set[int],
                          pdf_names: dict[int, str],
                          cun_dict: dict[str, str],
                          compound_lookup: dict[tuple[str, str], str] | None = None,
+                         pc_dict: dict[str, str] | None = None,
                          ) -> dict[str, int]:
     """Write *dst* — a copy of *src* with missing codepoints inserted.
 
@@ -270,6 +324,8 @@ def build_completed_copy(src: str, dst: str, present: set[int],
     """
     if compound_lookup is None:
         compound_lookup = {}
+    if pc_dict is None:
+        pc_dict = {}
 
     # Parse existing sign lines
     existing_lines: dict[int, str] = {}
@@ -290,19 +346,22 @@ def build_completed_copy(src: str, dst: str, present: set[int],
     for cp in range(SIGNS_START, SIGNS_END + 1):
         if cp in existing_lines:
             line = existing_lines[cp]
-            enriched = _enhance_compound_line(line, cun_dict, compound_lookup)
+            enriched = _enhance_compound_line(line, cun_dict, compound_lookup, pc_dict)
             if enriched != line:
                 enhanced += 1
             merged_signs[cp] = enriched
         elif cp in pdf_names:
             name = pdf_names[cp]
-            xref = find_cuneiform_xref(name, cun_dict, compound_lookup)
+            xref    = find_cuneiform_xref(name, cun_dict, compound_lookup)
+            pc_back = find_pc_backwards(name, pc_dict)
             line = f"{chr(cp)} {name}"
             if xref:
                 line += f" {xref}"
                 new_with_xref += 1
             else:
                 new_without_xref += 1
+            if pc_back:
+                line += f"  {pc_back}"
             merged_signs[cp] = line
 
     # Split original into pre-body / body / post-body
@@ -418,9 +477,14 @@ def main() -> None:
     compound_lookup = build_unicode_compound_lookup()
     print(f"  {len(compound_lookup)} Unicode compound sign mappings indexed.")
 
+    # ── Build proto-cuneiform component name lookup (backwards recon) ─
+    pc_dict = load_pc_name_lookup(src)
+    print(f"  {len(pc_dict)} proto-cuneiform simple-name mappings loaded.")
+
     # ── Build completed copy ─────────────────────────────────────────
     dst = os.path.join(os.path.dirname(src), "proto-cuneiform-full.list")
-    stats = build_completed_copy(src, dst, present, pdf_names, cun_dict, compound_lookup)
+    stats = build_completed_copy(src, dst, present, pdf_names, cun_dict,
+                                 compound_lookup, pc_dict)
 
     print(f"\nCompleted copy written to:\n  {dst}")
     print(f"  Original entries : {stats['original']}")
