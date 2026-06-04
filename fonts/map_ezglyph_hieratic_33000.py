@@ -45,13 +45,10 @@ def read_unikemet_sign_names(path: Path) -> dict[int, list[str]]:
 
         property_name = parts[1]
         value = parts[2].strip()
-        if property_name not in {"kEH_JSesh", "kEH_UniK", "kEH_HG"}:
+        if property_name != "kEH_UniK":
             continue
 
         candidates = names_by_codepoint.setdefault(codepoint, [])
-        if property_name == "kEH_JSesh" and " " in value:
-            continue
-
         candidates.append(value)
         candidates.append(normalized_sign_code(value))
 
