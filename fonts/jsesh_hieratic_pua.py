@@ -12,7 +12,7 @@ from fontTools.ttLib.tables._c_m_a_p import cmap_format_12
 
 EGYPTIAN_HIEROGLYPHS_START = 0x13000
 EGYPTIAN_HIEROGLYPHS_END = 0x1345F
-PUA_OFFSET = 0xDD000
+PUA_OFFSET = 0xE0000
 
 
 def ensure_format_12_cmap(font: TTFont):
@@ -52,8 +52,8 @@ def add_jsesh_pua_mappings(input_path: Path, output_path: Path) -> int:
 def main() -> int:
     parser = argparse.ArgumentParser(
         description=(
-            "Duplicate Egyptian Hieroglyphs Unicode cmap entries into JSesh's "
-            "Plane 15 private-use range."
+            "Duplicate Egyptian Hieroglyphs Unicode cmap entries into the "
+            "U+F3000 private-use range."
         )
     )
     parser.add_argument("input", type=Path, help="Input TTF/OTF font")
