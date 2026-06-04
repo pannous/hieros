@@ -25,6 +25,19 @@ DEFAULT_FONT_TRAY_PATHS = (
     Path("fonts/Font Tray - EZGlyph.docx"),
     Path("/tmp/ezdocmac/Font Tray - EZGlyph.docx"),
 )
+VISUAL_REJECTED_TRAY_MAPPINGS = {
+    0x13042,  # A57: tray placeholder is not a standing king/offering figure.
+    0x13046,  # A61: tray placeholder is horizontal, not a standing man.
+    0x13049,  # A64: tray alias is standing, not seated with a bowl.
+    0x13058,  # B8: tray placeholder renders as a dash, not a woman.
+    0x130C6,  # D64: tray placeholder renders as a dash.
+    0x130C7,  # D65: tray placeholder does not match the looped sign.
+    0x130C8,  # D66: tray placeholder does not match the slanted sign.
+    0x131A2,  # K8: tray placeholder renders as a dash, not a fish.
+    0x132CD,  # R26: tray placeholder renders as a dash.
+    0x13306,  # S46: tray placeholder renders as a dash.
+    0x13332,  # T36: tray placeholder renders as a dash.
+}
 
 
 def normalized_sign_code(value: str) -> str:
@@ -299,13 +312,6 @@ def map_font(
     }
 
     for codepoint, candidates in sorted(candidates_by_codepoint.items()):
-        tray_glyph = tray_mappings.get(codepoint)
-        if tray_glyph is not None:
-            target = codepoint + TARGET_OFFSET
-            cmap[target] = tray_glyph
-            matched[codepoint] = (target, tray_glyph)
-            continue
-
         for candidate in candidates:
             glyph_name = source_glyphs.get(candidate.upper())
             if glyph_name is None:
@@ -317,6 +323,18 @@ def map_font(
             cmap[target] = glyph_name
             matched[codepoint] = (target, glyph_name)
             break
+
+        if codepoint in matched:
+            continue
+
+        tray_glyph = tray_mappings.get(codepoint)
+        if tray_glyph is not None:
+            if codepoint in VISUAL_REJECTED_TRAY_MAPPINGS:
+                continue
+            target = codepoint + TARGET_OFFSET
+            cmap[target] = tray_glyph
+            matched[codepoint] = (target, tray_glyph)
+            continue
 
     font["cmap"].tables = [make_format_12_cmap(cmap)]
     set_font_names(font)
