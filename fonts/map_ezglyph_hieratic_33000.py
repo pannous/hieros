@@ -17,6 +17,7 @@ from fontTools.ttLib.tables._c_m_a_p import cmap_format_12
 SOURCE_START = 0x13000
 SOURCE_END = 0x1342E
 TARGET_OFFSET = 0x20000
+ORIGINAL_APPEND_START = 0x34000
 FONT_FAMILY = "Egyptian Hieratic 33000"
 FONT_SUBFAMILY = "Regular"
 POSTSCRIPT_NAME = "EgyptianHieratic33000-Regular"
@@ -278,6 +279,31 @@ def make_format_12_cmap(mappings: dict[int, str]):
     return table
 
 
+def read_font_cmap(font: TTFont) -> dict[int, str]:
+    cmap: dict[int, str] = {}
+    for table in font["cmap"].tables:
+        cmap.update(table.cmap)
+    return cmap
+
+
+def add_original_append_mappings(font: TTFont, cmap: dict[int, str]) -> int:
+    original_cmap = read_font_cmap(font)
+    append_codepoint = ORIGINAL_APPEND_START
+
+    for _, glyph_name in sorted(original_cmap.items()):
+        cmap[append_codepoint] = glyph_name
+        append_codepoint += 1
+
+    encoded_glyphs = set(original_cmap.values())
+    for glyph_name in font.getGlyphOrder():
+        if glyph_name == ".notdef" or glyph_name in encoded_glyphs:
+            continue
+        cmap[append_codepoint] = glyph_name
+        append_codepoint += 1
+
+    return append_codepoint - ORIGINAL_APPEND_START
+
+
 def resolve_font_tray_path(value: Path | None) -> Path | None:
     if value is not None:
         if str(value).lower() == "none":
@@ -293,7 +319,7 @@ def resolve_font_tray_path(value: Path | None) -> Path | None:
 
 def map_font(
     input_path: Path, unikemet_path: Path, output_path: Path, tray_path: Path | None
-) -> dict[int, tuple[str, str]]:
+) -> tuple[dict[int, tuple[str, str]], int]:
     font = TTFont(input_path, lazy=False)
     source_glyphs = {glyph_name.upper(): glyph_name for glyph_name in font.getGlyphOrder()}
     candidates_by_codepoint = read_unikemet_sign_names(unikemet_path)
@@ -310,6 +336,7 @@ def map_font(
         0x001D: ".null",
         0x0020: "space",
     }
+    original_append_count = add_original_append_mappings(font, cmap)
 
     for codepoint, candidates in sorted(candidates_by_codepoint.items()):
         for candidate in candidates:
@@ -339,7 +366,7 @@ def map_font(
     font["cmap"].tables = [make_format_12_cmap(cmap)]
     set_font_names(font)
     font.save(output_path)
-    return matched
+    return matched, original_append_count
 
 
 def main() -> int:
@@ -367,12 +394,18 @@ def main() -> int:
     args = parser.parse_args()
 
     tray_path = resolve_font_tray_path(args.font_tray)
-    matched = map_font(args.input, args.unikemet, args.output, tray_path)
+    matched, original_append_count = map_font(
+        args.input, args.unikemet, args.output, tray_path
+    )
     if tray_path is None:
         print("Font Tray DOCX not found; used glyph-name mapping only")
     else:
         print(f"Used Font Tray order: {tray_path}")
     print(f"Mapped {len(matched)} EZGlyph Hieratic glyphs")
+    print(
+        f"Appended {original_append_count} original glyph entries starting at "
+        f"U+{ORIGINAL_APPEND_START:05X}"
+    )
     print(f"Saved to: {args.output}")
     return 0
 
