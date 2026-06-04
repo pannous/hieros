@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import re
 from collections import defaultdict
+from statistics import median
 from pathlib import Path
 from xml.etree import ElementTree as ET
 from zipfile import ZipFile
@@ -18,6 +19,7 @@ SOURCE_START = 0x13000
 SOURCE_END = 0x1342E
 TARGET_OFFSET = 0x20000
 ORIGINAL_APPEND_START = 0x34000
+METRIC_FIX_START = 0x33000
 FONT_FAMILY = "Egyptian Hieratic 33000"
 FONT_SUBFAMILY = "Regular"
 POSTSCRIPT_NAME = "EgyptianHieratic33000-Regular"
@@ -304,6 +306,36 @@ def add_original_append_mappings(font: TTFont, cmap: dict[int, str]) -> int:
     return append_codepoint - ORIGINAL_APPEND_START
 
 
+def fix_zero_width_encoded_glyphs(font: TTFont, cmap: dict[int, str]) -> int:
+    hmtx = font["hmtx"]
+    control_glyphs = {".null", "nonmarkingreturn"}
+    encoded_glyphs = {
+        glyph_name
+        for codepoint, glyph_name in cmap.items()
+        if codepoint >= METRIC_FIX_START and glyph_name not in control_glyphs
+    }
+    positive_widths = [
+        hmtx.metrics[glyph_name][0]
+        for glyph_name in encoded_glyphs
+        if glyph_name in hmtx.metrics and hmtx.metrics[glyph_name][0] > 0
+    ]
+    if not positive_widths:
+        return 0
+
+    replacement_width = int(median(positive_widths))
+    fixed_count = 0
+    for glyph_name in sorted(encoded_glyphs):
+        if glyph_name not in hmtx.metrics:
+            continue
+        advance_width, left_side_bearing = hmtx.metrics[glyph_name]
+        if advance_width != 0:
+            continue
+        hmtx.metrics[glyph_name] = (replacement_width, left_side_bearing)
+        fixed_count += 1
+
+    return fixed_count
+
+
 def resolve_font_tray_path(value: Path | None) -> Path | None:
     if value is not None:
         if str(value).lower() == "none":
@@ -363,10 +395,11 @@ def map_font(
             matched[codepoint] = (target, tray_glyph)
             continue
 
+    zero_width_fix_count = fix_zero_width_encoded_glyphs(font, cmap)
     font["cmap"].tables = [make_format_12_cmap(cmap)]
     set_font_names(font)
     font.save(output_path)
-    return matched, original_append_count
+    return matched, original_append_count, zero_width_fix_count
 
 
 def main() -> int:
@@ -394,7 +427,7 @@ def main() -> int:
     args = parser.parse_args()
 
     tray_path = resolve_font_tray_path(args.font_tray)
-    matched, original_append_count = map_font(
+    matched, original_append_count, zero_width_fix_count = map_font(
         args.input, args.unikemet, args.output, tray_path
     )
     if tray_path is None:
@@ -406,6 +439,7 @@ def main() -> int:
         f"Appended {original_append_count} original glyph entries starting at "
         f"U+{ORIGINAL_APPEND_START:05X}"
     )
+    print(f"Fixed {zero_width_fix_count} zero-width encoded glyph metrics")
     print(f"Saved to: {args.output}")
     return 0
 
