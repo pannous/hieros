@@ -5,7 +5,10 @@ from __future__ import annotations
 
 import argparse
 import re
+from collections import defaultdict
 from pathlib import Path
+from xml.etree import ElementTree as ET
+from zipfile import ZipFile
 
 from fontTools.ttLib import TTFont
 from fontTools.ttLib.tables._c_m_a_p import cmap_format_12
@@ -17,6 +20,11 @@ TARGET_OFFSET = 0x20000
 FONT_FAMILY = "Egyptian Hieratic 33000"
 FONT_SUBFAMILY = "Regular"
 POSTSCRIPT_NAME = "EgyptianHieratic33000-Regular"
+TRAY_SEPARATOR = 0xF861
+DEFAULT_FONT_TRAY_PATHS = (
+    Path("fonts/Font Tray - EZGlyph.docx"),
+    Path("/tmp/ezdocmac/Font Tray - EZGlyph.docx"),
+)
 
 
 def normalized_sign_code(value: str) -> str:
@@ -26,6 +34,15 @@ def normalized_sign_code(value: str) -> str:
 
     prefix, number, suffix = match.groups()
     return f"{prefix}{int(number)}{suffix}".upper()
+
+
+def sign_parts(value: str) -> tuple[str, int, str] | None:
+    match = re.fullmatch(r"([A-Z][a-z]?)(\d+)([A-Za-z]*)", value)
+    if not match:
+        return None
+
+    prefix, number, suffix = match.groups()
+    return prefix.upper(), int(number), suffix.upper()
 
 
 def read_unikemet_sign_names(path: Path) -> dict[int, list[str]]:
@@ -53,6 +70,163 @@ def read_unikemet_sign_names(path: Path) -> dict[int, list[str]]:
         candidates.append(normalized_sign_code(value))
 
     return names_by_codepoint
+
+
+def read_unikemet_primary_names(path: Path) -> tuple[dict[int, str], dict[str, int]]:
+    primary_by_codepoint: dict[int, str] = {}
+    codepoint_by_name: dict[str, int] = {}
+
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.startswith("U+"):
+            continue
+
+        parts = line.split("\t")
+        if len(parts) < 3:
+            continue
+
+        codepoint = int(parts[0].split()[0][2:], 16)
+        if not SOURCE_START <= codepoint <= SOURCE_END:
+            continue
+        if parts[1] != "kEH_UniK":
+            continue
+
+        name = normalized_sign_code(parts[2].strip())
+        primary_by_codepoint[codepoint] = name
+        codepoint_by_name[name] = codepoint
+
+    return primary_by_codepoint, codepoint_by_name
+
+
+def read_docx_tray_chunks(path: Path, font: TTFont) -> list[list[tuple[int, str]]]:
+    cmap = {}
+    for table in font["cmap"].tables:
+        cmap.update(table.cmap)
+
+    namespaces = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
+    with ZipFile(path) as docx:
+        root = ET.fromstring(docx.read("word/document.xml"))
+
+    chunks: list[list[tuple[int, str]]] = []
+    current: list[tuple[int, str]] = []
+
+    for paragraph in root.findall(".//w:p", namespaces):
+        text = "".join(
+            node.text or "" for node in paragraph.findall(".//w:t", namespaces)
+        )
+        codepoints = [ord(char) for char in text if 0xE000 <= ord(char) <= 0xF8FF]
+        if not codepoints:
+            continue
+
+        if all(codepoint == TRAY_SEPARATOR for codepoint in codepoints):
+            if current:
+                chunks.append(current)
+                current = []
+            continue
+
+        for codepoint in codepoints:
+            if codepoint == TRAY_SEPARATOR:
+                continue
+            current.append((codepoint, cmap.get(codepoint, "")))
+
+    if current:
+        chunks.append(current)
+
+    return chunks
+
+
+def infer_tray_mappings(
+    font: TTFont, tray_path: Path, unikemet_path: Path
+) -> dict[int, str]:
+    primary_by_codepoint, codepoint_by_name = read_unikemet_primary_names(unikemet_path)
+    codepoint_by_prefix_number: dict[tuple[str, int], int] = {}
+    for codepoint, name in primary_by_codepoint.items():
+        parts = sign_parts(name)
+        if parts is None:
+            continue
+        prefix, number, suffix = parts
+        if not suffix:
+            codepoint_by_prefix_number[(prefix, number)] = codepoint
+
+    tray_mappings: dict[int, str] = {}
+    filled_from_placeholders: dict[int, str] = {}
+
+    for chunk in read_docx_tray_chunks(tray_path, font):
+        chunk_parts = [sign_parts(normalized_sign_code(name)) for _, name in chunk]
+        prefix_counts: dict[str, int] = defaultdict(int)
+        for parts in chunk_parts:
+            if parts is None:
+                continue
+            prefix, _, _ = parts
+            prefix_counts[prefix] += 1
+
+        if not prefix_counts:
+            continue
+
+        chunk_prefix = max(prefix_counts, key=prefix_counts.get)
+        if prefix_counts[chunk_prefix] < 2:
+            continue
+
+        explicit_positions: list[tuple[int, int]] = []
+        for index, ((_, glyph_name), parts) in enumerate(zip(chunk, chunk_parts)):
+            if parts is None:
+                continue
+            prefix, number, suffix = parts
+            if prefix != chunk_prefix:
+                continue
+
+            codepoint = codepoint_by_name.get(normalized_sign_code(glyph_name))
+            if codepoint is not None:
+                tray_mappings[codepoint] = glyph_name
+
+            if not suffix:
+                explicit_positions.append((index, number))
+
+        explicit_positions.sort()
+        for (left_index, left_number), (right_index, right_number) in zip(
+            explicit_positions, explicit_positions[1:]
+        ):
+            if right_number <= left_number + 1:
+                continue
+
+            missing_numbers = list(range(left_number + 1, right_number))
+            candidate_slots = [
+                index
+                for index in range(left_index + 1, right_index)
+                if chunk_parts[index] is None
+                or (
+                    chunk_parts[index][0] == chunk_prefix
+                    and chunk_parts[index][2]
+                )
+            ]
+
+            for number, slot_index in zip(missing_numbers, candidate_slots):
+                codepoint = codepoint_by_prefix_number.get((chunk_prefix, number))
+                if codepoint is None:
+                    continue
+                glyph_name = chunk[slot_index][1]
+                if glyph_name:
+                    filled_from_placeholders[codepoint] = glyph_name
+
+        first_index, first_number = explicit_positions[0] if explicit_positions else (-1, 0)
+        if first_number > 1:
+            leading_slots = [
+                index
+                for index in range(first_index)
+                if chunk_parts[index] is None
+            ]
+            missing_numbers = list(
+                range(max(1, first_number - len(leading_slots)), first_number)
+            )
+            for number, slot_index in zip(missing_numbers, leading_slots[-len(missing_numbers) :]):
+                codepoint = codepoint_by_prefix_number.get((chunk_prefix, number))
+                if codepoint is None:
+                    continue
+                glyph_name = chunk[slot_index][1]
+                if glyph_name:
+                    filled_from_placeholders[codepoint] = glyph_name
+
+    tray_mappings.update(filled_from_placeholders)
+    return tray_mappings
 
 
 def set_font_names(font: TTFont) -> None:
@@ -91,10 +265,28 @@ def make_format_12_cmap(mappings: dict[int, str]):
     return table
 
 
-def map_font(input_path: Path, unikemet_path: Path, output_path: Path) -> dict[int, tuple[str, str]]:
+def resolve_font_tray_path(value: Path | None) -> Path | None:
+    if value is not None:
+        if str(value).lower() == "none":
+            return None
+        return value
+
+    for path in DEFAULT_FONT_TRAY_PATHS:
+        if path.exists():
+            return path
+
+    return None
+
+
+def map_font(
+    input_path: Path, unikemet_path: Path, output_path: Path, tray_path: Path | None
+) -> dict[int, tuple[str, str]]:
     font = TTFont(input_path, lazy=False)
     source_glyphs = {glyph_name.upper(): glyph_name for glyph_name in font.getGlyphOrder()}
     candidates_by_codepoint = read_unikemet_sign_names(unikemet_path)
+    tray_mappings = (
+        infer_tray_mappings(font, tray_path, unikemet_path) if tray_path is not None else {}
+    )
 
     matched: dict[int, tuple[str, str]] = {}
     cmap: dict[int, str] = {
@@ -107,6 +299,13 @@ def map_font(input_path: Path, unikemet_path: Path, output_path: Path) -> dict[i
     }
 
     for codepoint, candidates in sorted(candidates_by_codepoint.items()):
+        tray_glyph = tray_mappings.get(codepoint)
+        if tray_glyph is not None:
+            target = codepoint + TARGET_OFFSET
+            cmap[target] = tray_glyph
+            matched[codepoint] = (target, tray_glyph)
+            continue
+
         for candidate in candidates:
             glyph_name = source_glyphs.get(candidate.upper())
             if glyph_name is None:
@@ -141,9 +340,20 @@ def main() -> int:
         default=Path("abc/UCD/Unikemet.txt"),
         help="Unicode Unikemet.txt source",
     )
+    parser.add_argument(
+        "--font-tray",
+        type=Path,
+        default=None,
+        help="EZGlyph Font Tray DOCX. Use 'none' to disable tray-order mapping.",
+    )
     args = parser.parse_args()
 
-    matched = map_font(args.input, args.unikemet, args.output)
+    tray_path = resolve_font_tray_path(args.font_tray)
+    matched = map_font(args.input, args.unikemet, args.output, tray_path)
+    if tray_path is None:
+        print("Font Tray DOCX not found; used glyph-name mapping only")
+    else:
+        print(f"Used Font Tray order: {tray_path}")
     print(f"Mapped {len(matched)} EZGlyph Hieratic glyphs")
     print(f"Saved to: {args.output}")
     return 0
