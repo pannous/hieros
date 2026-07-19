@@ -9,10 +9,15 @@
 #	g̃ => ĝ
 # udug2    ŠITA₂
 # U 	𒌑  	# ⚠️ TEMPORARY Hammurabi fix ⚠️
+AS 	𒀾  	# ⚠️ TEMPORARY Hammurabi fix ⚠️
 SAH 	𒋚 		# ⚠️ TEMPORARY Hammurabi fix ⚠️
 SHA 	𒐼 		# ⚠️ TEMPORARY Hammurabi fix ⚠️
 SA 	𒐼 		# ⚠️ TEMPORARY Hammurabi fix ⚠️ vs 𒂍
+KAR 	𒆳
 # SHU 	𒋙 		# ⚠️ TEMPORARY 
+zu	 𒍮 	ẓu
+bab 	𒆍
+QI 	𒆥 	≈ ki 𒆠
 SHU 	𒋗 	# todo fix ŠU!!
 sam 	𒌑
 qu2 	𒆪
@@ -125,7 +130,7 @@ daš 	𒑰
 nis 	𒎙 	𒌋𒌋
 sad 	𒆳 	saddle:mountain
 suv 	𒋳
-va 	𒑑 	𒀼𒁹 	𒀾 ⋍ 𒑓 ≈ 𒑑 	 PA 𐎱 ~ 𐎛 FA 𐎺 𒀀
+va 	𒈠 	𒑑 	𒀼𒁹 	𒀾 ⋍ 𒑓 ≈ 𒑑 	 PA 𐎱 ~ 𐎛 FA 𐎺 𒀀 ma/va confused signs 𒈠 ≠ 𒀼𒁹
 ZUM 	𒍮 
 ẓu	𒍮
 ṣu	𒍮
@@ -260,7 +265,7 @@ YA@ 	𐎹
 ZI2	𒍢
 ZÍ	𒍢
 áš 	𒀸 
-MAN 	𒌋𒌋
+MAN 	𒎙
 šil 	𒋻
 ú 	𒌑
 máš 	𒈧
@@ -961,8 +966,8 @@ KAM2	𒆚
 KAM4	𒆛
 KAN	𒃶
 KAN4	𒆍
-KAR	𒋼𒀀	*
 KAR2	𒃸
+KAR3	𒋼𒀀	*
 KARKARA	𒅎
 KASKAL	𒆜
 KAŠ4	𒁽
@@ -1592,7 +1597,7 @@ ZUḪ	𒅗
 ZULUMḪI	𒋠𒋤	*
 ZUM	𒍮
 ZUR	𒀫
-ZU	𒍪
+ZU3	𒍪
 sú 	𒍪
 # su2 	𒍪
 su2 	𒋙 
@@ -4166,3 +4171,38 @@ zu6 	𒍮 	# ẓu 𒊩𒑑
 kisti 	𒌁 	# 𒄑𒌁 ĝeš.tir Gestrüpp 𒆧𒌅 qiš-tu #qištu #kisti "forest" <> 𓈉
 mit2 	𒁁
 kash 	𒁉
+tahaz 	𒀞
+tahas 	𒀞
+sabtu 	𒋙𒐀𒁹
+esse 	𒉈
+adi 	𒂗
+na3 	𒉡
+lis 	𒇺
+nisi 	𒌦𒎌 
+sap 	𒉺𒅁
+zir3 	𒇋
+ziz5	𒁁
+aḥu 	𒋀 
+aḫu 	𒋀 
+niv 	𒉏
+tig 	𒄘
+mid4 	𒁁
+sedi 	𒆘
+kil 	𒆸
+kis2 	𒆧 
+kiṣ 	𒆧
+lah3 	𒌓 
+tu4 	𒌓
+qur 	𒄥 	≈𒋛 keras
+ẓiru 	𒂔 
+ziru 	𒂔 
+tak2 	𒋳
+libit 	𒋳𒀉
+parzil 	𒀭𒈦
+istin 	𒁹𒂗
+sapru 	𒇽𒂊
+sa8 𒅕
+semir 	𒄯 	semiring
+tan 	𒊩𒌓
+pa3 	𒅆𒊒
+enim 	𒅗

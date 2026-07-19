@@ -1375,6 +1375,9 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 𒂊𒁲𒉡 	ᵍe-di-nu “Eden” < ᵍeʳ-di-nu Garden
 𒂊𒁲𒉡 	alone, desert, steppe
 
+𒂊𒁺 eʳdu erst first
+𒂊𒁺 "One" <> ég™
+
 𒂊𒁺 	ᶜeˡ-du > seul™ seldom
 𒂊𒁺 	alone, single, sole, to know
 
@@ -1405,6 +1408,12 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 
 𒂊𒅆𒌅 	e-ši-tu ??
 𒂊𒅆𒌅 	confusion <> σύγχυση sýnchysi syn.chaos 
+
+𒂍 ≈ 𒄑𒐈 ≈ 𒋰𒐈𒁹  𒋰𒁹𒁹𒁹𒁹
+𒂍𒃲 ≈ 𓉐 𓉻
+𒂍𒃲 ʰe-gal hagial <> heilig
+𒂍𒃲 e-kal holy hall
+𒂍𒃲 palace
 
 𒂊𒆗𒇻 	ʱe-kal-lu  𐎅𐎋𐎍 hkl /hêkal/
 𒂊𒆗𒇻 	palace
@@ -1520,6 +1529,10 @@ _𒁍 	bronze arrowhead, covering, mouth, skipping rope
 
 𒂊𒉿𒋗 	e-pe-šu ≈ 𒄿𒁍𒍑 i-pu-uš opus 
 𒂊𒉿𒋗 	build, make, to do, treat, set up (household)
+
+𒂊𒁍𒋙𒍑 e-bu-su2-us2
+𒂊𒁍𒋙𒍑 e-bu-su₂us₂ opus, emburse, é-pose
+𒂊𒁍𒋙𒍑 give
 
 𒂊𒊏𒉡 	e-ra-nu
 𒂊𒊏𒉡 	(a tree)
@@ -1853,8 +1866,8 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒃶𒋻𒇷 	qan sel-li ( cane = arrow @ Semite!)
 𒃶𒋻𒇷 	a kind of arrow?
 
-𒃶𒌋𒌋𒅗𒊩𒆪 	kan-naš-ka-rak-ku ƒƒƒ
-𒃶𒌋𒌋𒅗𒊩𒆪 	a table
+𒃶𒎙𒅗𒊩𒆪 	kan-naš-ka-rak-ku ƒƒƒ
+𒃶𒎙𒅗𒊩𒆪 	a table
 
 𒃼𒁺 	qar-du
 𒃼𒁺 	heroic (AHw)
@@ -1909,8 +1922,11 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄑𒁍𒊒 	giš-bu-ru
 𒄑𒁍𒊒 	a ritual instrument
 
+𒄑𒁍	ĝiškim	ĝiškim / ĝišbur	sign, omen; trust, aid	ĝiškim ≈ #giskimmu Gespühr?		#giskimmu;ittu;tukultu 
+≈
 𒄑𒁶𒈬 	gis-kim-mu √kommen > omen 
-𒄑𒁶𒈬 	omen, sign ~ sigma ~ s-kim-mu
+𒄑𒁶𒈬 	omen, sign ~ sigma ~ s-kim-mu <> simmu 𒉆 𒋳 šumma σημάδι simádi ᶴomens οιωνός 
+
 
 𒄑𒄀𒉡 	giš-gi-nu
 𒄑𒄀𒉡 	clamp
@@ -1931,9 +1947,12 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄑𒆳𒊒 	a mountain tree (literally)
 
 𒄑 𒆸 𒁍 	is-ḫap-pu •Räuber
+𒄑𒆸𒁍 	is-rim-pu •Räuber
+𒄑𒆸𒁍 	is-kil-pu •Räuber
 𒄑𒆸𒁍 	rogue, ruffian, scoundrel, villain
 
 𒄑𒆸𒉡 	giš-rin-nu <> grain?
+𒄑𒆸𒉡 	giš-kil-nu scaleⁿ
 𒄑𒆸𒉡 	scales
 
 𒄑𒈝𒈬 	giš-ḫum-mu 
@@ -2049,8 +2068,8 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄠𒌅 	ᶿam-tu ~ maid!
 𒄠𒌅 	female slave, maid
 
-𒄠𒌋𒌋𒈬 	am-mam-mu
-𒄠𒌋𒌋𒈬 	(a large beer jar)
+𒄠𒎙𒈬 	am-mam-mu
+𒄠𒎙𒈬 	(a large beer jar)
 
 𒄢𒇻𒁍 	gul-lu-bu
 𒄢𒇻𒁍 	shave, to shear
@@ -2557,8 +2576,8 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒄿𒋛𒀀𒌅 	i-dir-tu দুৰ্দশা durdoxa 
 𒄿𒋛𒀀𒌅 	misery, trouble <> dread? jaded? јад 
 
-𒄿𒋛𒌋𒌋𒉡 	i-si-man-nu
-𒄿𒋛𒌋𒌋𒉡 	ration (of flour and malt)
+𒄿𒋛𒎙𒉡 	i-si-man-nu
+𒄿𒋛𒎙𒉡 	ration (of flour and malt)
 
 𒄿𒋝𒌅 	i-šik-tu
 𒄿𒋝𒌅 	marshland
@@ -2574,9 +2593,6 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 
 𒄿𒌍𒉡 	ˢi-sin-nu  season
 𒄿𒌍𒉡 	festival
-
-𒄿𒍪 	ˢi-zuz-zu  seas@Irish seisuo seisoa seisma seistä @Uralic,Karelian
-𒄿𒍪 	to stand <>  ἵστημι hístēmi hin.stämmen stamm™ уштак uštak stock сылыны sylyny истодан istodan (s)durmak stur
 
 𒅁𒁍 	eb-bu eb-púʳ •a'pure +++
 𒅁𒁍 	pure, bright, clean
@@ -2608,7 +2624,7 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅅𒆠𒁍 	ᴴik-ki-bu
 𒅅𒆠𒁍 	taboo < tambiko reverse ≠ hickup 不
 
-𒅅𒆸𒇻 	ik-kil-lu[µ]
+𒅅𒆸𒇻 	ik-kil-lu[µ] √lamm
 𒅅𒆸𒇻 	clamor, lamentation, uproar
 
 𒅅𒆠𒈬 	ek-ke-mu
@@ -2789,8 +2805,8 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅈𒋾𒆠𒋛 ᵍar-ti ki-si
 𒅈𒋾𒆠𒋛 	footing of branches ???
 
-𒅈 𒌋𒌋𒉡 	ᵍar-man-nu “Geromin>German>Armeni” ჭერამი č̣eramiⁿ 𓄿𓃭𓆲𓇋𓇋𓈖𓄿 ꜣrmꜥynꜣ ἀρμενιακόν armeniakón +++
-𒅈𒌋𒌋𒉡 	apricot tree
+𒅈 𒎙𒉡 	ᵍar-man-nu “Geromin>German>Armeni” ჭერამი č̣eramiⁿ 𓄿𓃭𓆲𓇋𓇋𓈖𓄿 ꜣrmꜥynꜣ ἀρμενιακόν armeniakón +++
+𒅈𒎙𒉡 	apricot tree
 
 
 𒀧𒁖𒆪 	ˢᵖil-dak-ku   shpel derek   سپیدار sepidârᵏ 
@@ -2980,15 +2996,16 @@ vs
 𒅖𒊕𒆪 	ensi
 
 𒅖𒋢 	iš-ḫil-su
-𒅖𒋢 	(pot)sherd
+𒅖𒋢 	iš-ḫirᵈsu
+𒅖𒋢 	(pot)sherd, shards     𒆷	šika	šika	(pot)sherd	skar شکاله šekâle skarᵈ shard		#išhilşu
 
-𒅖𒋫𒉡 	iš-ta-nu
+𒅖𒋫𒉡 	iš-ta-nuʳ ≠ eastend
 𒅖𒋫𒉡 	North
 
 𒅖𒋫𒊒 	iš-ta-ru
-𒅖𒋫𒊒 	goddess
+𒅖𒋫𒊒 	Esther, goddess
 
-𒅖𒋼 	iš-ten
+𒅖𒋼 	iš-ten ersten
 𒅖𒋼 	one
 
 𒅗𒁀𒁍 	ka-ba-bu
@@ -2998,7 +3015,15 @@ vs
 𒅗𒁀𒊒 	solid (of grain), to be(come) thick
 
 𒅗𒁀𒋢 	ka-ba-su
-𒅗𒁀𒋢 	to tread, to tread upon, trample
+𒅗𒁀𒋢 	to tread, to tread upon, trample  𓃀 𓂾
+
+𒄒𒁀𒋢 kib-ba.su <> καταπατέω katapatéō
+𒄒𒁀𒋢 (he) trample(d) 𓃀 𓂾
+
+𒀝𒁍𒊻 ak-bu-us
+𒀝𒁍𒊻 trample  𓃀 𓂾
+
+𒅁𒁀𒌓 ib-ba-tú beat => "destroy" <> fight, defeat  <= pod "trample" 
 
 𒅗𒁀𒌅 	ka-ba-tu •barito
 𒅗𒁀𒌅 	to be(come) heavy
@@ -3349,7 +3374,7 @@ _𒆗𒇻 	fat-tailed sheep
 𒆠𒆳𒌅 	ki-nat-tu <<
 𒆠𒆳𒌅 	employee, menial
 
-𒆠𒆸𒈬 	ki-rim-mu
+𒆠𒆸𒈬 	ki-rim-mu √krumm
 𒆠𒆸𒈬 	(crook of) arm (as protection)
 
 𒆠𒇷𒇻 	ki-li-lu
@@ -3451,9 +3476,10 @@ _𒆠𒌅 	flax
 𒆥𒀀𒁍 	qin-ᵓa-pu | to trust | •qindopu > ნდობა ndoba
 
 𒆥𒀀𒋗 	qi-ᵛa-šu ~ give ++?
+𒆥𒀀𒋗 	qi-bu-šu gebe (es,zu)
 𒆥𒀀𒋗 	present, to give <> offers
 
-𒆥𒆗𒊭𒈨 	qe-reb ša-me <<<
+𒆥𒆗𒊭𒈨 	qe-reb ša-me <<< coreba
 𒆥𒆗𒊭𒈨 	the interior of heaven
 
 𒆥𒇻𒌅 	qi-lu-tu
@@ -4815,6 +4841,11 @@ _𒆳 	five ⚠️
 𒈾𒄫𒌅 	na-piš-tu 𓈖 𓆑 𓏏 𓊡 𓏲 nephish™ "breath"
 𒈾𒄫𒌅 	life, throat
 
+𒆗𒆳 nap-sat
+𒆗𒆳 napᶥsat ≈ napištu napishtu
+𒆗𒆳 life
+
+
 𒈾𒄫𒌅𒀀𒁀𒇻 	na-piš-tu na-piš-tu a-ba-lu
 𒈾𒄫𒌅𒀀𒁀𒇻 	to dry the throat ???
 
@@ -4965,8 +4996,8 @@ _𒆳 	five ⚠️
 𒈾𒌅 	na-ṭu
 𒈾𒌅 	beat, to have a bowel disorder, to hit
 
-𒈾𒌋𒌋𒁺 	na-man-du
-𒈾𒌋𒌋𒁺 	measuring vessel
+𒈾𒎙𒁺 	na-man-du
+𒈾𒎙𒁺 	measuring vessel
 
 𒈾𒌓𒆪 	na-par-ku
 𒈾𒌓𒆪 	stop doing, to cease
@@ -5090,9 +5121,6 @@ _𒆳 	five ⚠️
 𒉈𒋢 	ne-su
 𒉈𒋢 	slide, to be distant, to open, to slip
 
-𒉈𒌅 	bil-tu •belit <<< exception
-𒉈𒌅 	lady, load, rent, talent, tribute, yield
-
 𒉌𒁺𒌅 	ni-du-tu נטישה netishá +++
 𒉌𒁺𒌅 	abandonment, uncultivated state, waste land 𓂜
 
@@ -5115,6 +5143,7 @@ _𒆳 	five ⚠️
 𒉌𒊕𒉡 	ni-san-nu => Nisan month
 𒉌𒊕𒉡 	offering (of first fruits)
 
+𒉌𒆸𒌅 	ni-kil-tu µskill(tum)
 𒉌𒆸𒌅 	niˢ-kil-tu µskill(tum)
 𒉌𒆸𒌅 	skill
 
@@ -5299,6 +5328,12 @@ ship’s cabin ___ zun ~ 𒋩 ?
 𒉺𒅁𒌓𒌅 	sap-par-tu √separate <> 𓂧 𓃀 𓄏 𓄋 
 𒉺𒅁𒌓𒌅 	point, tip (of horn)?
 
+𒉺𒋛 	pa-si pass
+𒉺𒋛 	forgive(r)
+<>
+𒉺𒋛𒋗 	pa-si-šu
+𒉺𒋛𒋗 	‘anointed’ (a priest)
+<>
 𒉺𒅆𒋗 	pa-ši-šu
 𒉺𒅆𒋗 	pa-iri-šu (𓁹 IRI 𒅆 VOIR 𒉿 )
 𒉺𒅆𒋗 	a priest
@@ -7136,8 +7171,8 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒌑𒍝𒄠𒈪 verᵇ za-am-mi @ Samash 
 𒌑𒍝𒄠𒈪 dry
 
-𒌋𒌋𒈠𒌅 	niz-ma-tu 望む のぞむ nozomu نیاز nyaz himottaa 目的 mùdì מַטָּרָה matará <> mire mind
-𒌋𒌋𒈠𒌅 	desire, objective <> намера namera   norė́ti
+𒎙𒈠𒌅 	niz-ma-tu 望む のぞむ nozomu نیاز nyaz himottaa 目的 mùdì מַטָּרָה matará <> mire mind
+𒎙𒈠𒌅 	desire, objective <> намера namera   norė́ti
 
 
 𒋩𒁍 	šur-pu <> ҡырау qïraw qırav <> hoar frost כְּפוֹר k'for
@@ -7291,6 +7326,16 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋫𒊒 	censer, return, to turn
 
 𒋫𒀀𒀀𒅈𒋾 ta-ay-arⁿti return™
+
+𒌑𒌁𒌋 u2-tir-u
+𒌑𒌁𒌋 return
+
+𒌑𒋫𒅈𒊒 ú-ta-ar-ru
+𒌑𒋫𒅈𒊒 return (s.o.)
+
+𒄿𒌁𒊒 ʳi-tir-ruⁿ
+𒄿𒌁𒊒 turn (to place)
+
 
 𒋫𒋆𒌅 	ta-šim-tu
 𒋫𒋆𒌅 	discernment, sagacity
@@ -7628,8 +7673,8 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌋𒁍 	cloud, half iku as surface or capacity measure
 
 
-𒌋𒁓𒌍𒌋𒌋𒋾 	u-pur sin-niš-ti
-𒌋𒁓𒌍𒌋𒌋𒋾 	woman’s headdress
+𒌋𒁓𒌍𒎙𒋾 	u-pur sin-niš-ti
+𒌋𒁓𒌍𒎙𒋾 	woman’s headdress
 
 𒌋𒁓𒍣𒅗𒊑 	u-pur zi-ka-ri
 𒌋𒁓𒍣𒅗𒊑 	man’s headdress
@@ -7771,63 +7816,63 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌋𒌇𒆪 	u-tuk-ku
 𒌋𒌇𒆪 	an evil demon
 
-𒌋𒌋𒁁𒂊𒉌 	man-zaz e-ni
-𒌋𒌋𒁁𒂊𒉌 	a cultic location
+𒎙𒁁𒂊𒉌 	man-zaz e-ni
+𒎙𒁁𒂊𒉌 	a cultic location
 
-𒌋𒌋𒂵𒄖 	man-ga-gu
-𒌋𒌋𒂵𒄖 	date palm fibers
+𒎙𒂵𒄖 	man-ga-gu
+𒎙𒂵𒄖 	date palm fibers
 
-𒌋𒌋𒄣 	nis-qu
-𒌋𒌋𒄣 	best quality, of animals, stones, textiles, trees
+𒎙𒄣 	nis-qu
+𒎙𒄣 	best quality, of animals, stones, textiles, trees
 
-𒌋𒌋𒈬 	mam-mu
-𒌋𒌋𒈬 	frost, ice
+𒎙𒈬 	mam-mu
+𒎙𒈬 	frost, ice
 
-𒌋𒌋𒉌𒌅 	man-zal-tu <> Stellung ?
-𒌋𒌋𒉌𒌅 	position
+𒎙𒉌𒌅 	man-zal-tu <> Stellung ?
+𒎙𒉌𒌅 	position
 
-𒌋𒌋𒉡 	man-nu 𓅓 𓂟 , 𓅓 𓂝 መኑ  mannu “who?” ++++
-𒌋𒌋𒉡 	who?
+𒎙𒉡 	man-nu 𓅓 𓂟 , 𓅓 𓂝 መኑ  mannu “who?” ++++
+𒎙𒉡 	who?
 
-𒌋𒌋𒉺𒆪 	naš-pa-ku niche…pack
-𒌋𒌋𒉺𒆪 	storeroom, storage vessel
+𒎙𒉺𒆪 	naš-pa-ku niche…pack
+𒎙𒉺𒆪 	storeroom, storage vessel
 
 𒉡𒊌𒆪𒈬 nu-uk-ku-muʳ niche-kammer 
 𒉡𒊌𒆪𒈬 "treasure"
 
-𒌋𒌋𒉺𒊒 	naš-pa-ru
-𒌋𒌋𒉺𒊒 	a garment
+𒎙𒉺𒊒 	naš-pa-ru
+𒎙𒉺𒊒 	a garment
 
-𒌋𒌋𒊓𒌅 	nis-sa-tu
-𒌋𒌋𒊓𒌅 	lamentation, wailing
+𒎙𒊓𒌅 	nis-sa-tu
+𒎙𒊓𒌅 	lamentation, wailing
 
-𒌋𒌋𒊬𒆸𒋫𒈬 	niš šar-rim niš šar-rim ta-mu
-𒌋𒌋𒊬𒆸𒋫𒈬 	to swear by the life of the king
+𒎙𒊬𒆸𒋫𒈬 	niš šar-rim niš šar-rim ta-mu
+𒎙𒊬𒆸𒋫𒈬 	to swear by the life of the king
 
-𒌋𒌋𒋗 	naš-šu
-𒌋𒌋𒋗 	carrier
+𒎙𒋗 	naš-šu
+𒎙𒋗 	carrier
 
-𒌋𒌋𒌅 	neš-tu
-𒌋𒌋 𒌅 	luna-tha
-𒌋𒌋𒌅 	lioness
+𒎙𒌅 	neš-tu
+𒎙 𒌅 	luna-tha
+𒎙𒌅 	lioness
 
-𒌋𒌋𒌆𒇻 	u-tul-lu
-𒌋𒌋𒌆𒇻 	wu-tur-ru waiter ward [[guard]]
-𒌋𒌋𒌆𒇻  man-tu-ru 𓏠 𓈖 𓃒 𓀸 ⲙⲁⲛⲉⲥⲱⲟⲩ manager man-of-cows shepherd
-𒌋𒌋𒌆𒇻 	chief herdsman 
+𒎙𒌆𒇻 	u-tul-lu
+𒎙𒌆𒇻 	wu-tur-ru waiter ward [[guard]]
+𒎙𒌆𒇻  man-tu-ru 𓏠 𓈖 𓃒 𓀸 ⲙⲁⲛⲉⲥⲱⲟⲩ manager man-of-cows shepherd
+𒎙𒌆𒇻 	chief herdsman 
 
 
-𒌋𒌋𒈠 	mam-ma “man, someone” +++
-𒌋𒌋𒈠 	somebody, who(so)ever
+𒎙𒈠 	mam-ma “man, someone” +++
+𒎙𒈠 	somebody, who(so)ever
 <>
-𒌋𒌋𒌋𒌋 	mam-man “man, someone” +++
-𒌋𒌋𒌋𒌋 	somebody, who(so)ever
+𒎙𒎙 	mam-man “man, someone” +++
+𒎙𒎙 	somebody, who(so)ever
 
-𒌋𒌋𒍝𒍪 	man-za-zu
-𒌋𒌋𒍝𒍪 	position
+𒎙𒍝𒍪 	man-za-zu
+𒎙𒍝𒍪 	position
 
-𒌋𒌋𒍪 	man-zu
-𒌋𒌋𒍪 	a type of drum
+𒎙𒍪 	man-zu
+𒎙𒍪 	a type of drum
 
 𒌋𒍠𒆷𒇻 	u-zag-la-lu
 𒌋𒍠𒆷𒇻 	mng. unkn.
@@ -7859,8 +7904,8 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌍𒋗 	eš-šu 
 𒌍𒋗 	shrine
 
-𒌍 𒌋𒌋𒌅 	sin-niš-tu gynista <> gymnastin
-𒌍𒌋𒌋𒌅 	woman <> [[𒌋𒌋]] MAN
+𒌍 𒎙𒌅 	sin-niš-tu gynista <> gymnastin
+𒌍𒎙𒌅 	woman <> [[𒎙]] MAN
 
 𒌑𒁀𒇸𒌅 	šam-ba-lil-tu şembelîlk 
 𒌑𒁀𒇸𒌅 	fenugreek
@@ -7888,8 +7933,8 @@ _𒌅 	zit-tu  _~𒆪 sit ?
 𒌑𒌅 	sam-tu Samt “red velvet” 
 𒌑𒌅 	carnelian, redness
 
-𒌑𒌑𒈬 	sam-sam-mu
-𒌑𒌑𒈬 	a bird
+𒌑𒌑𒈬 	sam-sam-mu <> 𒉆 SIM 𒉆 SÍN 𓅨 
+𒌑𒌑𒈬 	a bird 
 
 𒌒𒁍 	ᵗup-pu tube
 𒌒𒁍 	(a type of) drum, a bird, socket etc., tube
@@ -8515,8 +8560,6 @@ Mittani ƒ :  Naharinar 𓈖𒈾𓎛𒈾𓈖   𓈖𓉔𓂋𓈖𓄿𓈘𓈉   !!
 atulīmānu  (n. pl. ; [SB] ) [Human → Body] both hands 
 
 𒆷𒉺𒀭 la-pa-an laufen "flee"(hen) <> planet 𒀭
-𒋢𒌦𒆠  su-un-qí®  ˢhunger (sans-grain)
-𒋢𒌦𒄣 su-un-qu®  ˢhunger (sans-grain)
 
 𒍪𒌦𒉡 zu-un-nu zunnu 𒄑𒉡𒉡 "rain" ≈ Sun ≈ 𓇶:𓇲 •rays rains
 
@@ -8526,7 +8569,8 @@ atulīmānu  (n. pl. ; [SB] ) [Human → Body] both hands
 𒋾𒁍𒌓 tiᵐbu-ut támadás to'muerto
 𒋾𒁍𒌓 ti-bu-ut to-boot𓃀 tribut 𓎛 𓊪 𓏏 𓂘 ? ≠ επιθετικότητα epithetikótita
 𒋾𒁍𒌓 ti-bu-ut <> اِعْتِدَاء iʿtidāʾ  •itbva عُدْوَان ʿudwān 
-𒋾𒁍𒌓 ti-bu-ut •triboot Trabanten "troops" ! => "swarm" √drive
+𒋾𒁍𒌓 tiʳbu-ut •triboot Trabanten "troops" ! => "swarm" √drive
+𒋾𒁍𒌓 beating, strike (of gods)  <> brute:force Tarhunt? 
 
 
 𒁕𒀊𒁀𒆪 da-ab-ba-ku 𓆓𓃀𓂧 δabaku > speak 𓆓𓂧 davk talk [[dice]]
@@ -8640,8 +8684,6 @@ namrūtu 𒉆𒊒𒋾
 āšibūt 𒀀𒅆𒁍𒌓,𒀀𒈨𒌓
 āšibūti 𒀀𒅆𒁍𒋾 
 
-𒅁𒁀𒌓 ib-ba-tú beat => "destroy" <> fight, defeat  <= pod "trample" 
-
 𒆠𒈠  𒅀𒀀𒋾𒈠  ki-ma ia-a-ti-ma "comme juste-moi" just like me
 
 𒇺𒊒𒆪 𒋙 liš-ru-ku.šú laisser-que.šú let-him "grant him"
@@ -8730,9 +8772,6 @@ se-er is-hu-u-wa-i sēr ishuwa-> (zer)scatter
 𒉌𒅁𒊑𒌅 ni-ip-ri-tu no¬bread "famine" faMine!
 
 
-𒄿𒍣𒍪 i-zi-zu stand up
-𒄿𒍪 	ˢi-zuz-zu  “to stand” seas@Irish seisuo seisoa seisma seistä @Uralic,Karelian  
-
 𒀀𒈠𒀀𒋾 a-ma-a-ti matter(s)
 
 𒆕 𒋡𒊒 kak-qa-ruᵒⁿ ground
@@ -8753,7 +8792,12 @@ I will let (you) achieve your heart’s desire.
 𒀀𒅆𒁍𒋾 ʳa-ši-bu-ti reside < sit
 𒀀𒅆𒁍𒋾 a-ši-bu-ti s'habit 
 
-𒌋𒌋𒁕𒀜𒌓  man-da-at-tú 𓂠 𓂞 / 𓂟𓂞 manudatum mandate "payment, tribute"
+
+𒉈𒌅 	bil-tu •belit "billets"
+𒉈𒌅 	1. lady 2. (be)load, ᵇyield, rent, talent, taxes, tribute
+
+𒎙𒁕𒀜𒋾 man-da-at-ti mandates, tribute
+𒎙𒁕𒀜𒌓  man-da-at-tú 𓂠 𓂞 / 𓂟𓂞 manudatum mandate "payment, tribute"
 𒈠𒁕𒀜𒋫  maⁿda-at-tú 𓂠 𓂞 / 𓂟𓂞 manudatum mandate "payment, tribute"
 
 
@@ -8772,6 +8816,9 @@ I will let (you) achieve your heart’s desire.
 𒇽𒀀𒆥 MU-KIN  მაცნე macne manzo masinja messenger
 𒇽𒀀𒆥 MU.LÚ.A-KIN מַלְאָךְ mal'akhᵒⁿ < mercury
 𒇽𒀀𒆥 LÚ AⁿKIN > angel
+
+𒆗 KAL in •angel 𒀭𒆗 an.kalᵐᵃ #lammař Lama, Lamma, Lamassu: protective parent-stars, [[Zodiac]]  
+𒆗 KALᵇ calf in  𒀭𒆗 ᵏalapi "stone bull" <> 𒀭𒆘 "stone lion"
 
 𒀀𒊩𒇲 a-sal-la sell off "carry off"
 𒀀 𒊩 𒇲 a-num-la entnehmen "carry off"
@@ -8832,9 +8879,13 @@ revolt and rebellion
 
 𒁕𒀀𒆠 da-a-ki dagger "duel, fight"
 
-𒅁 𒁄 𒆍 ip-pal-kit •yberget forget
+𒅁𒁄 𒆍 ip-pal-kit •yberget forget
+𒅁𒁄 𒆍 ʳip-pal-kit
+𒅁𒁄 𒆍 revolted ( <> polter polka )
 
-𒌋𒊏 𒊍 𒋛 u-ra-aṣ-ṣi erase eraze "destroy" <> 𒄤 𒄢 𒅆
+𒌑𒊏𒊍𒋛 u-ra-aṣ-ṣi erase eraze "destroy" <> 𒄤 𒄢 𒅆
+𒌑𒊏𒋛 u-ra-ṣi erase eraze "destroy"   
+𒌑𒊏 𒈨 u-ra-sibᵗ eraseᵈ  "destroy" 
 
 𒅆𒅆 abikta abject "overthrow"
 
@@ -8881,9 +8932,13 @@ revolt and rebellion
 
 𒌋𒊓𒊍𒆠𒈾 u-sa-as-ki-na cause to move (feet 𒊺𒉺 še-pa sepi  )
 
+
+𒆲𒉡 	kun-nu •kümmern  
+𒆲𒉡 	cared for, cherished  
+<>
+𒀾 𒆲  as-kun  accomplish
 𒀾𒆲   as2-kun  accomplish
 𒀊𒆪𒉡 is-ku-nu accomplish
-
 
 
 𒄑𒆤𒎌 KID.mes <> 𓊡 sail cloth
@@ -8931,19 +8986,26 @@ revolt and rebellion
 
 𒄠𒄷𒌨 am-hu-ur macher "invoke"
 
+𒅁 ʳIB in revolt 𒅁𒁄(𒆍) ʳIB.BAL™  
+
 𒅁𒁄𒆍 ip-pal-kit   übergeht
 𒅁𒁄𒆍 ip-pal-kit •yberget forget
-𒅁𒁄𒆍 ʳip-pal-kit  revolted
+𒅁𒁄𒆍 ʳip-pal-kit  revolt(ed)
+=
+𒅁𒁄𒆠𒌅 ip-pal-ki-tu revolt 
+𒅁𒁄𒀝𒆠𒋫 ʳip-pal-ak-ki-ta revolt 
 
 𒅆𒅆 abikta abject "overthrow"
 
 𒌌𒌓 ul-tú ultu "from"
-𒌌𒌅 UL-TU ultu "from"
+𒌌𒌅 UL-TU onto "against" in walik ultu Assur
+𒌌𒌅 UL-TU ultu "from, by"
 𒅖𒌅 IŠ-TU just …
 ištu/ultu (of, °ist, from, since, after, ultima “last”?), 
     preposition; <IŠTU> (functioning as graphic indicator of the ablative); 
 
-[missing] Ultu ≈ 𒀸𒐺𒐈 ≈ 𒐀𒋰𒐈 ≈ 𒋰𒋰𒐈 ≈ 𒋋? ≠  𒆤 𒋢 𒍇 𒌝 𒈩 𒋃 𒍚 𒂅 𒂆 𒄈 𒅍 𒈢𒐈 𒈣𒐈  𒊒 𒊏 𒍢  
+[missing] Ta ≈ 𒁕 ta2 𒀸𒐺𒈫 ( with 𒐀 + 𒁁) ≈
+[missing] Ta / Ultu ≈ 𒀸𒐺𒐈 ≈ 𒐀𒋰𒐈 ≈ 𒋰𒋰𒐈 ≈ 𒋋? ≠  𒆤 𒋢 𒍇 𒌝 𒈩 𒋃 𒍚 𒂅 𒂆 𒄈 𒅍 𒈢𒐈 𒈣𒐈  𒊒 𒊏 𒍢  
 
 [found] MUS ≈  𒋰𒋰𒐈 = 𒌝 ≈ 𒋫 
 
@@ -8967,7 +9029,10 @@ in midst of the sea I saw maliciousness
 
 𒀀𒁲 aⁿdi ante before <> idi ≈ 𒀉 𒀳 𒃼
 
-𒁍𒊑 bu-ri φορβή phorbḗ фура́ж furáž forage porthiant 𒁍 𒊑 buᵗri fodder  
+𒁍𒊑 bu-ri™ Brot 
+𒁍𒊑 bu-ri φορβή phorbḗ фура́ж furáž forage porthiant 
+𒁍𒊑 buᵗri fodder  
+𒁍𒊑 food
 
 𒉺𒀭 paʳan pron™ front before … 𒀭 AN < ʳαίν ≈ rayⁿ 𓇳 𓇶 𓁿 
 
@@ -8993,6 +9058,10 @@ in midst of the sea I saw maliciousness
 
 𒃮𒁉 gab-biˡ "all" 𓎟 ≈ 𓎡 cup / Kelle
 
+𒌤𒂊𒈬 de-e-mu
+𒌤𒂊𒈬 deˣe-mu
+𒌤𒂊𒈬 deeming, decree (crime)
+in
 𒌤𒂊𒈬𒊓 de-e-mu-sa the-news (of…) <> deem
 
 𒋗𒁄 šu'pal sous-par "depth"
@@ -9005,7 +9074,8 @@ in midst of the sea I saw maliciousness
 𒉆 𒊑𒊑 nam-ri-ri
 𒉆𒊑𒊑 the-ri-ri  terror
 
-𒄑𒄷𒌒 is-hu-up super[whelm] overwhelm
+𒄑𒄷𒌒 is-hu-up super[whelm] aus-heben aus-hebeln
+𒄑𒄷𒌒 overwhelm
 
 𒄑𒁀𒌅 iz-ba-tu gis-paᵏtu [[ge]]packt
 
@@ -9014,8 +9084,6 @@ in midst of the sea I saw maliciousness
 𒆥 𒂊𒁍 qe-e-pu cop gubernat "governor"
 
 𒈪𒋾𒅅 𒃻𒊑 𒄿𒀀 mi-ti-iq gar-ri ya mittig gir yo "course of my expedition"
-
-𒀊𒊒𒀪 ap-ruᵖha2 ab-rupf reap, tear out
 
 𒄩𒁺 ᵍha-tan Gatten "relatives"
 𒄩𒁺 KU-tan কুটুম kutum "relatives"  কুটুম্ব kuṭumba <> kin
@@ -9031,7 +9099,7 @@ in midst of the sea I saw maliciousness
 𒀖 𒇧 ab-bul ab⭣pull down
 
 
-𒀸 𒀭𒄑𒈦 𒀝𒈬 ina #isati akmu "in the fire I burned"
+𒀸 𒀭𒄑𒈦 𒀝𒈬 ina #isati akmu "in the fire I burned" √charm
 𒀸 𒀭𒄑𒈦 𒀝𒈬 ina an-gis-bar ak-mu
 𒀸 𒀭𒄑𒈦 𒀝𒈬 ina 𒀭𒄑 Ignis-pyro akmnis
 
@@ -9048,6 +9116,7 @@ in midst of the sea I saw maliciousness
 𒀭𒄑𒈦 <> Arshi Tenger <> 天 Tengri 田
 𒀭𒄑𒈦 <> 𒌓 Adyghe ≈ Aed ≈ Eate ≈ Ut Caucasian, Irish, Basque, Siberian goddess of fire / the hearth
 
+𒀭𒄑𒈦 𒀀𒊑  ʰisati ᶠari :  burning fire  ( 𒀀 bu₄ ☑) !
 
 
 𒐼𒋗 ŠA-ŠU Sessel "furniture" اثاث asâs < أَثَاث ʔaṯāṯ ɐθɑːθ أُثُث ʔuṯuṯ <> عفش ʕafšš فَرْش  farš perser असबाब asbāb
@@ -9110,7 +9179,7 @@ in midst of the sea I saw maliciousness
 𒌑𒌁   u2-tir reduce √tear? 
 
 𒂊𒎏𒈾 eᵍnin-na again
-𒂊𒎏𒈾 eg₂-gyn-na again a'xaná ξανά йәнә yänä <> 
+𒂊𒎏𒈾 eg₂gyn-na again a'xaná ξανά йәнә yänä <> 
 𒂊𒎏𒈾 e-nin-na ennalleen@FIN again    <> عاود تاني ʿāwd tāni
 𒂊𒎏𒈾 e-nin-na nano@Tocharian nááná@Navajo נאָכאַמאָל noch einmal … de nouveau
 
@@ -9150,7 +9219,6 @@ in midst of the sea I saw maliciousness
 𒁲𒅅𒋫 di-ik-ta 
 
 
-𒌑 𒉺𒅁𒄵 u2-sab-bir (ver)zerbreche
 
 𒀀𒊬 a-šar ᵖaˡsar 
 𒀀𒊬 place
@@ -9184,7 +9252,12 @@ in midst of the sea I saw maliciousness
 
 𒉺𒅁𒁲𒇻 sab-di-lu sub-teil "broken off"
 
-𒄑𒇻𒌋 iz-lu-u slew schleudern geschleudert
+𒄑𒇻𒌋 iz-lu-u slew schleudern geschleudert <
+𒄑𒇻𒌋 iz-ru-u grew(? fat)
+𒄑𒇻𒌋 threw
+
+𒊑𒁀𒀀𒋾 ᵍri-ba-a-ti > great > gras "fat"
+𒊑𒁀𒀀𒋾 grow fat, greasy? 
 
 𒍝𒇴𒋫 sa3-lam-ta salvat slavat «slave» follower attendant
 
@@ -9201,14 +9274,19 @@ in midst of the sea I saw maliciousness
 𓌳 𓄿 𓇋 𓂋 𓌗 𓅪  𓏥 | need | < naird <> Not
 𓋴 𓇋 𓆛 𓈖 𓏏 𓊛 | canoe | scinaut = canoe ⇔ Sehnot :) ++
 
-𒌀𒄷𒍥 mit-hu-zi  Metzel "make war"
-𒌀𒄷𒍥 mit-hu-zi 𒀞 me₃.tachas 
+𒁁𒄷𒍢 bad-hu-zi₂  battle
+𒁁𒄷𒍢 bit-hu-zi₂  battle, fights
+𒁁 𒄷 𒍢 mit-hu-zi₂  Metzel 
+𒌀𒄷𒍢 mit-hu-zi₂ 𒀞 me₃.tachas 
+𒌀𒄷𒍥 mit-hu-ziˡ 𒀞 me₃.tachas 
+𒌀𒄷𒍥 Metzel, fight, "make war"
 
 𒋗𒌓 šu-par₂ super … über… "about…, concerning"
 
 𒅖𒋫𒆗𒉺𒊏 is-ta-nap-pa-ra™ transport 𓊨…𓉐
 
 𒌑𒈠𒄭𒅕 u2-ma-hi-ir a' mayor "command"
+𒌑𒈠𒄭𒅕 ú-ma-ḫi-ir a'maschier "send" (march army)
 
 𒅗𒀀𒀀𒈠𒉡 ka-ᶠaiʳma-nu confirmed
 
@@ -9247,6 +9325,10 @@ in midst of the sea I saw maliciousness
 𒀜𒁺 𒌑 ad-du u "And… / Now…"
 
 𒀝𒆠𒋢 ak-ki-su caesur ≈ scissor cut(ing)
+
+𒌑𒍣𒍣 u2-se-zi
+𒌑𒍣𒍣 •pro-ce-zi
+𒌑𒍣𒍣  process "bring"
 
 𒌑𒍣𒍝𒄠 u2-se-za-av
 𒌑𒍣𒍝𒄠 •pro-ce-za-av process "brought"
@@ -9553,9 +9635,6 @@ swear by the life of god
 𒄿𒊑 𒀉𒁲 i-re id-di (idi=give,put)
 𒄿𒊑𒀉𒁲 	i-re-ed-de ward
 𒄿𒊑𒀉𒁲 	conduct s.o. (e.g. to palace 𒂍𒃲)
-
-𒌑𒋫𒅈𒊒 ú-ta-ar-ru
-𒌑𒋫𒅈𒊒 return (s.o.)
 
 𒅅𒋫𒆷 ik-ta-la
 𒅅𒋫𒆷 keep (slave in house)
@@ -9881,7 +9960,7 @@ at the glance of his eyes
 𒌓𒋫𒀝𒆠𒅕 attack, emend (writing)
 
 𒅅𒆠𒊒 ik-ki-ru
-𒅅𒆠𒊒 deny, disagree ≈ ärger?
+𒅅𒆠𒊒 revolt, deny, disagree ≈ ärger? <> guerre
 
 𒅕𒄖𒈬 ir-gu-mu
 𒅕𒄖𒈬 contest ≈ ärger?
@@ -10083,8 +10162,8 @@ ippal pay, compensate
 𒈾𒀸𒉺𒆪𒁴 na-ašpaku Einspeicher(ung)(tum/tion) ensilado ensilaje 
 𒈾𒀸𒉺𒆪𒁴 silage
 ≈
-𒌋𒌋𒉺𒆪 	naš-pa-ku niche…pack
-𒌋𒌋𒉺𒆪 	storeroom, storage vessel
+𒎙𒉺𒆪 	naš-pa-ku niche…pack
+𒎙𒉺𒆪 	storeroom, storage vessel
 ≈
 𒊭𒉺𒆪 	ša-pa-ku speicher
 𒊭𒉺𒆪 	to heap up, pour on
@@ -11670,6 +11749,17 @@ no light in the darkness
 
 𒁍𒁍𒁴 bu-bu-tim bubūtim @ Babel?
 𒁍𒁍𒁴 bubonic plague, pestilence
+<>
+𒁍𒁍𒋾 bu-bu-ti ¬Brote badas പട്ടിണി paṭṭiṇi pest
+𒁍𒁍𒋾 famine (euphemism? bu²min )
+
+𒀾𒆲   as2-kun  accomplish
+𒀊𒆪𒉡 is-ku-nu accomplish
+𒅖𒆪𒉡 is-ku-nu ausgehn
+𒅖𒆪𒉡 pass (away life)
+
+𒈾𒄫𒌅 na-pis-tu 𓂊 𓂉 @ Utnapishtim 𒌓 𒍣  <> 𓇳 𓋹 𓈖 𓐍
+𒈾𒄫𒌅 breath, life  <>  𒍣 𒬀 𒬁 𒬂 nurture nature
 
 
 𒌨 𒊕 ʷursaĝ warrior √war
@@ -12062,8 +12152,8 @@ there is nothing to worry about, (everything) is well.
 
 𒇧 pul pelt in 𒇻𒇧𒋾 lu.pulti "cloth" < leopard 𓃮 / 󳢯 𓋳
 
-𒌋𒌋𒍝𒊍 man-za-az 
-𒌋𒌋𒍝𒊍 standing (in front of)
+𒎙𒍝𒊍 man-za-az √sess
+𒎙𒍝𒊍 standing (in front of)
 
 𒀾𒋺𒅗𒉡 as2-tak-ka-nu stecken "tag, fix, attach"
 
@@ -12270,8 +12360,8 @@ ma + causative + gene
 𒈦𒃷 mas-gan2 masgan "building" <> mosque masken : skin tents
 𒈦𒃷 mas-gan2 مَبْنَى mabnā <> ماڑی máří
 
-𒀾𒋙 as2-su2 as-soon
-𒀾𒋙 "then ... / now ..." 𓊢  ϫⲉ <> 𓎡 𓄿 𓀁 <> 𓇋 𓐍 𓏛 <> 𓅓 𓂧 𓃹 𓈖 𓂻 | from then on |
+𒀾𒋙 as2-su2 as-soon as-if
+𒀾𒋙 "as so ... / then ... / now ... / if ..." 𓊢  ϫⲉ <> 𓎡 𓄿 𓀁 <> 𓇋 𓐍 𓏛 <> 𓅓 𓂧 𓃹 𓈖 𓂻 | from then on |
 
 𒆳𒋾 sat-ti satti sati
 𒐼𒀜𒋾 sa-at-ti sātti sāti
@@ -12299,6 +12389,7 @@ ma + causative + gene
 
 
 𒊒 #sid side in 
+𒅁𒌓𒊒 ʰip-par-sid hypercede 
 𒅁𒁖𒊒 ip-par-sid hypercede 
 𒅁𒁖𒊒 flee
 <>
@@ -12497,4 +12588,653 @@ ma + causative + gene
 𒈠𒌀 ma-mit <> 𓌃 mot
 𒈠𒁁 ᵐoath
 
+
+𒋳𒎌  summi omens:
+𒉆 SIM 𒋳 šumma ᶴomen, sign ~ sigma σῆμα sêma σημάδι simádi šīmtum οιωνός 𒄑𒁍 ĝiškim ≈ 𒄑𒁶𒈬  
+
+𒋡𒇺 qa-lis
+𒋡𒇺 ᑫalways
+
+𒌑 𒂟 𒁉𒌅 u2-zab-bi-tu
+𒌑𒂟𒁉𒌅 u2-cab-bi-tuʳ
+𒌑𒂟𒁉𒌅 capture!
+
+𒆠𒀀𒄠 ki-a-am 
+𒆠𒀀𒄠 quam, "even (I)"  (G!)
+
+𒀀𒁖𒆠 a-dak-ki adject
+𒀀𒁖𒆠 hurl, tackle, throw 𓋴 𓐍 𓀒  ğakil
+
+𒐼𒉆𒈠 sa-nam-ma
+𒐼𒉆𒈠 someone else, another one  (ein jemand)
+
+
+𒆠𒄿 ki-iᵐ comme ...
+𒆠𒄿 ki-iⁿ quan ...
+𒆠𒄿 when ... / then ... / came ...
+
+𒍝𒁁 za-bat 
+𒍝𒁁 capture 
+
+𒊻𒂟𒁉𒌅 uz-zab-bi-tuʳ
+𒊻𒂟𒁉𒌅 ac-cap-pi-tuʳ
+𒊻𒂟𒁉𒌅 capture <> accept
+
+
+𒀊𒁍 ab-bu gebahr 𒅅𒁍𒌑  igᵉbu-uʳ Gebot 
+𒀊𒁍 command
+
+𒁕𒆸𒉺𒉌 da-gíl-pa-ni
+𒁕𒆸𒉺𒉌 da-p-pa-ni  ( 𒆸 ≈ 𓊪 𑀩 𒇥 ⌂)
+𒁕𒆸𒉺𒉌 depend (upon)
+
+𒁕𒆸 da-gíl (sic, abbreviation for daᵐgí…lia დამოკიდებულია damoḳidebulia ) 𒁕⌂! 🏠!
+
+𒌑 𒉺𒅁𒄵 u2-sab-bir (ver)zerbreche
+
+𒉺𒅁𒊑𒆪 sap-ri-ku zerbreche
+𒉺𒅁𒊑𒆪 crush
+
+𒀀𒊩𒇲 aᵇsal-lal
+𒀀𒊩𒇲 sell off, carry off ( spoils 𒇽 loot)
+
+𒌑𒍣𒍝𒀾 u2-se-za-as pro.cess 𓊄
+𒌑𒍣𒍝𒀾 send
+
+𒅁𒊑𒋰𒄫𒂊𒀀 ip-ri tap-pe-e-a  (over top?)
+𒅁𒊑𒋰𒄫𒂊𒀀 earth wall 
+
+𒂵𒁺	ga-du	gadu	door jamb? 	gate 𓊀 ≈ 𓉐 port ≈ part!
+𒂵𒁺	gaʳdu	•guard
+𒂵𒁺	ga-duˡ 2. geteil
+𒂵𒁺 part (of seed, family)
+
+𒌑 𒁉𒇻 ᵛúʳ-bi-luⁿ
+𒌑𒁉𒇻 über-bringen, take (capture with s.o.)
+
+𒆠𒆗 ki-rib coreba
+𒆠𒆗 herab, in
+
+𒌌𒍩 ul-ziz
+𒌌𒁁 ul-ziz5
+𒌌𒁁 ul-bad
+𒌌𒁁 put, place, set (up/down)
+≈
+𒄿𒍪 	ˢi-zuz-zu  seas@Irish seisuo seisoa seisma seistä @Uralic,Karelian
+𒄿𒍪 	to stand <>  ἵστημι hístēmi hin.stämmen stamm™ уштак uštak stock сылыны sylyny истодан istodan (s)durmak stur
+
+𒄿𒍣𒍪 i-zi-zu stand up
+
+
+
+𒅖 𒀠 is-alᵏ <> 𓋴 𓄿 𓈎 collect 𓆓 𓂝 𓌙 𓀁 
+𒅖𒀠 seek (?) 𓅱 𓆼 𓂻 <> 𓅠 ? 
+
+𒁶𒋾 kim-ti comty Kinder
+𒁶𒋾 kin, family
+<> 𒄑𒁍𒋾	ĝiškim-ti	ĝiškimti  trust, aid	 #tukultu 
+
+𒅅𒍮 ᵛiq.ẓuʳ <  ᵛic.tuʳ  
+𒅅𒍮 victory
+
+
+𒐼𒀀𒌅 sa.a.tu 
+𒐼𒀀𒌅 th.a.tu 
+𒐼𒀀𒌅 that, those
+
+𒐼𒀀𒋙 sa.a.su
+𒐼𒀀𒋙 (to) him
+
+𒅎𒄯 ⁿim-har (ἄνεμο)
+𒅎𒄯 (an)nehme
+𒅎𒄯 receive
+
+𒅎𒄷𒊒 ⁿim-hu-ru (ἄνεμο)
+𒅎𒄷𒊒 (an)nehmer
+𒅎𒄷𒊒 receive
+
+𒁕𒄩𒀀𒌅 da-ha-a-tu data 𓂞
+𒁕𒄩𒌅 da-ha-tu data
+𒁕𒄩𒌅 da-ku-tu ducto
+𒁕𒄩𒌅 donation, bribe 𓂞
+
+
+𒀀𒄩𒎌 a-ha-mis 
+𒀀𒄩𒎌 aᶜha aᵗhaʳ  𓅂
+𒀀𒄩𒎌 each other
+
+𒋫𒉌𒄭 ta-ni-hi thank <> think 𓂟 𓂞
+𒋫𒉌𒄭 •donation, supplication   (received ☑)
+
+𒅅𒑙 ig-bi
+𒅅𒁉 ig-bi
+𒅅𒁉 explain, speak
+
+𒉺𒅁𒁍𒌋 sap-puʳu
+𒉺𒅁𒁍𒌋 s'pray s'preach sprech supplicate @ supper 
+
+𒋢𒌒𒄫𒂊 su-up-pe-eʳ super sprech
+𒋢𒌒𒄫𒂊 supplication, s'prayer
+<>
+𒍣𒋼𒀀 zi-par zbor Sprache
+𒍣𒋼𒀀 zi-kar secret scrit speaker
+𒍣𒋼𒀀 zi-kar ཚིག tshigᵃ "word"
+𒍣𒋼𒀀 zid-kar სიტყვა siṭq̇va "word" sözcükᵃ Georgian / Turk ( 𒍣 ZID sèid "swell" )
+𒍣𒋼𒀀 zi-karᶥᵐᵃ كَلِمَة kalima call сло́во "word"
+𒍣𒋼𒀀 word(s)  𒆀 #awātum
+
+𒌨𒊑𒄩 ur-ri.haᵈ  ܗܲܕܸܪ hādir "prepare" <> eureka?
+𒌨𒊑𒄩 ᵖur-riᵖhaʳ
+𒌨𒊑𒄩 prepare ( 𒄩 ku ≠  hu 𒄷 PAG parrot bird )
+
+𒀧𒌨𒄠𒈠 ʷil-lik-av-va
+𒀧𒌨𒄠𒑑 walk-away
+
+𒀀𒌨𒉺𒉌 ʷa-lik-paʳ-ni walk-paroni (front)
+𒀀𒌨𒉺𒉌 "leader"   parancsnok
+
+𒋀 𒆷𒆠𒂊𒉡 ahu la-ke-e-nu
+𒋀 𒆷𒆠𒂊𒉡 Achim Lütken / Klein
+𒋀 𒆷𒆠𒂊𒉡 younger brother (La'Kain)
+
+𒅆𒆥 si-kin seekin'
+𒅆𒆥 appoint
+≈
+𒅖𒆲 is-kun ?  aus-kund-?  ausᵉʳkoren? aus-karnieren? करना karnā 𓃡 κύon  
+𒅖𒆲 is-kun ? addīcōⁿ, sciscoⁿ ?
+𒅖𒆲 •haiš-gen 𐌷𐌰𐌿𐍃 𓄔 𒅖𒈨 
+𒅖 𒆲 appoint s.o. (a decree etc) 𓂟 , 𓏙 , 𓅘 𓎛 𓃀 𓏴 𓂡, 𓂋 𓂞, 𓂞 𓅓 𓁷 𓈖 
+
+[[𒂇]] MIR in 
+𒀀𒂇 a-mir emir emissar "messenger" ⇔ Merkur  
+𒀀𒂇𒎌𒐼 a-mir-i.saᵑ "messengers of"
+
+𒌨𒄷 ur-hu™ 𓅂
+𒌨𒄷 road 
+
+𒌨𒄷 𒄑𒁁𒌋𒉏𒑑 ur-huᵗ iz-bat-u-niv-va  ƒ  𓈖 𓏦
+𒌨𒄷 𒄑𒁁𒌋𒉏 𒈠 ur-huᵗ iz-bat-u-nim-ma   road as'pode nehme  𓍯 𓏏 𓈐 𓃀? 𓎁
+𒌨𒄷 𒄑𒁁𒌋𒉏𒈠 they take the road
+
+𒅅𒆠𒋢𒉏𒑑 ik-kiᵗsu niv-va
+𒅅𒆠𒋢𒉏𒑑 (they) cut off
+
+
+𒊻𒋼𒁀𒋓 us-te-es-sir
+𒊻𒋼𒁀𒋓 'steer, direct (a march ...)
+
+𒌑𒁉𒇻 ᵛúʳ-bi-luⁿ  über-bringen, take along (capture with s.o.)
+𒌑 𒉈𒌋𒉌 u2-bil-u-ni
+𒌑𒉈𒌋𒉌 úʳbar₇uᵑni
+𒌑𒉈𒌋𒉌 (über/er)bringe
+
+𒂊𒈬𒆠 eʳmu-qi
+𒂊𒈬𒆠 armies, mighty forces
+
+𒍣𒅕 ziᵖir sûr 𓌨 𓂋 care <> coreba
+𒍣𒅕 zur, zu..., unto (against, on, to, until)
+
+𒆷𒈾𒁖𒅗𒀀 la-na-par-ka-a <> nulla poco
+𒆷𒈾𒁖𒅗𒀀 undiminished
+
+𒌑𒆥𒂔 u2-kin-zir ú-con-zerr
+𒌑𒆥𒂔 (I) fix (upon)
+
+𒁲𒅗𒄿 de-ka-i دەزگا dezga "institution" +++
+𒁲𒅗𒄿 di-ka-i democratic dictions
+𒁲𒅗𒄿 di-ka-i  机关 djīguān
+𒁲𒅗𒄿 di-ka-iᵐ drygaim ίδρυμα idryma  идара idara  اِدارِه
+𒁲𒅗𒄿 Institutions 
+𒆳𒂁𒆠 kar-duk-ki courtic > cultic
+𒆳𒂁𒆠 vad-duk-ki <> iнстыту́цыя instytúcyja
+𒆳𒂁𒆠 ḫsti-duk-ki
+𒆳𒂁𒆠 Institutions 
+
+𒀾𒋺𒅗𒈾 as-tak-ka-na e'stecken
+𒀾𒋺𒅗𒈾 establish, accomplish
+
+𒉌𒅁𒊑𒋾 niᵗ-ip-ri-ti
+𒉌𒅁𒊑𒋾 (Not)entbehrt
+𒉌𒅁𒊑𒋾 (in)privation 
+
+𒄿𒈨𒅗 i-me-zu eliminate  <> metzel  βγάζω µvgázo √met (put)
+𒄿𒈨𒅗 iⁿmi-zu 𐌿𐍃𐌽𐌹𐌼𐌰𐌽 
+𒄿𒈨𒅗 √emit removed
+
+𒊑𒂊𒈬 re-e-mu remorse, Ruhm
+𒊑𒂊𒈬 favor, favour
+
+𒁉𒋾 bi-ti πάσχω páskhō
+𒑙𒋾 bi-ti bad pest
+𒑙𒋾 suffering 
+
+𒉺𒇻𒁲𒊕 sib-di-sakᵗ selbst-sack
+𒉺𒇻𒁲𒊕 chastisement (Züchtigung, Schelte, Strafe)
+
+𒌑𒉌𒄴 u2-ni-ih ruhen
+𒌑𒉌𒄴 úʳni-iḫ ruhen
+𒌑𒉌𒄴 ú-ni-iḫ nächtigen
+𒌑𒉌𒄴 rest @ night
+<>
+𒌑𒉌𒄴𒄷 u2-ni-ih-hu
+𒌑𒉌𒄴𒄷 ú-ni-iḫ-ḫu
+𒌑𒉌𒄴𒄷 satisfy, calm (hearts)
+
+
+𒋺𒆗𒋾 tak-kal-ti textiles
+𒋺𒆗𒋾 thagkol > סגול sagol 🟣 
+𒋺𒆗𒋾 ძოწეული ʒoc̣euli™ 🟣
+𒋺𒆗𒋾 "purples" 🟣 vs turquoise vs 𓏠 जामुनी jāmunī <> 𒆗 күлгін külgın <> ծիրանի cirani 
+
+𒍣𒉡𒌋𒋾 zi-nu-u-ti 𓂜
+𒍣𒉡𒌋𒋾 dishonored?
+
+
+𒌌𒇻𒌋𒋾 ᵠul-lu-u-tiᵐ < ultimately : paleo 
+𒌌𒇻𒌋𒋾 ul-lu-u-ti uluti
+𒌌𒇻𒌋𒋾 old (time)
+
+𒌑𒆥 u-kin
+𒌑𒆥 "settle" < 𒆥 šig sığ seicht @ Turk سنگ sang ⇔ senk  
+
+𒅅𒌁𒌋 ik-tir-u
+𒅅𒌁𒌋 ikᵃtir-u
+𒅅𒌁𒌋 'gather(ed)
+
+𒉺𒊏𒊍 pa-ra-az
+𒉺𒊏𒊍 parts, districts
+
+𒄘𒇷 gùʳri guard қорғау gorag  •veil-li ὠφέλεια ōphéleia
+𒄘𒇷 tig-li დაცვა dacva defense
+𒄘𒇷 proTection  <>  پاڕێزگاری  parrêzgarî προστασία prostasía
+
+𒆠𒂍 ki-bit combat Gebot
+𒆠𒂍 command
+
+𒂖 ≈ 𒋙𒋰𒐈 ≠ 𒊩𒐺𒁹 ≈ [[𒊩𒈠]]
+𒀭𒂖𒆤
+𒀭𒊩𒈠𒆤 Belat •Bealtrice  𒐈/𒐺
+
+𒂊𒁁 e-mid4 mend
+𒂊𒁁 fix
+
+
+𒇽𒐼𒆳𒎌 LU.ŠAʳkar   <> Schergen, Schurken
+𒇽𒐼𒆳𒎌 #sanuti® senator
+𒇽𒐼𒆳𒎌 prefect
+𒂗𒉆 #sanut 𒇽𒉆 #sanat senator 𒊺 ≈ 𒐑 in 𒉆 SIM SÍN šīm [[sym]] [[syn]]  
+𒂗 ˢen senator [[senior]] 𒇽𒋾𒁹𒎗𒎌 sanuti® (𒊺=>𒎗)  lol ƒ 
+
+𒇽𒁁𒁍𒁕𒎌  LU bat-buˡda.mes Bhuddas? “builder” 
+𒇽𒁁𒁍𒁕𒎌 LU bat-buʳda.men √proto fore-head ... fore-man  فرمانروا farmānravā ʳda 𓂞 ortho
+𒇽𒁁𒁍𒁕𒎌  bat-buʳda 𒁈 BÁRA Führer
+𒇽𒁁𒁍𒁕𒎌  bat-buʳda preike(stuhl) 𒉺𒊩𒆠 pa-rak-ki preachers “burdener”
+𒇽𒁁𒁍𒁕𒎌  bat-buʳda <> patriarchs patricians 
+𒇽𒁁𒁍𒁕𒎌  bat-buʳda ≈ праві́цель pravícjelʹ 
+𒇽𒁁𒁍𒁕𒎌  bat-bu-da ≈ батша batşa پادشاه pādišāh падишаһ padişah >> басқарушы basqaruşy penguasa 
+𒇽𒁁𒁍𒁕𒎌  bosses, rulers  <> Baal
+
+𒅴	eme	eme	tongue; language	a'mec мец  mic миц  мицӏцӏи мац mac μετα? mëngä pheme  tɛkrɛma		
+𒅴 #ᵍlišānu 
+
+𒀾𒇻𒊌 as-lu-uk
+𒀾𒇻𒊌 as-ru-uk -> ruck, aus-rupf
+𒀾𒇻𒊌 pull out
+
+𒀊𒊒𒀪 ap-ruᵖha2 ab-rupf reap, tear out
+
+𒅖𒁍𒉡 is-pu-nu expone-  <> 𓋴 𓉐  'sporn "send"
+𒅖𒁍𒉡 throw
+
+𒆠𒄑𒉿 ki-iz-piᵗ Kies-pit  (𒉿 ≈ 𒟺 “bushel, ear” < phyto )
+𒆠𒄑𒉿 pit
+
+𒍜 #seri #ṣeri 𒋰𒎗𒁁 GeBeine "limbs"
+
+𒉡𒊌𒆪𒋢𒌋𒋾 nu-uk-ku-su-u-ti 𓂜 ent-cuts
+𒉡𒊌𒆪𒋢𒌋𒋾 cut off (neck, limbs)
+
+𒆸 kil gíl < gir < [[𒄥]] GUR [[kur]] •[[Korb]] 𒇫 gurun₄ = 𒄧  Kehle 口 okul kill @ kalb 𓃛 𓅱 𓃡 
+
+𒌑𒐼𒆸  u2-sa-kil   s'ocul  aus-kill
+𒌑𒐼𒆸 caused to be eaten (... kalbi: by dogs)
+
+𒍣𒁍 	zi-bu > сип sip sȕp sup “vulture” Slavic *sǫpъ* ⇔  
+𒍣𒁍 	zi-bu γύψ gúps αἰγυπιός aigupiós “vulture” @ Egypt +++ !!!  
+𒍣𒁍 	zi-but gypt > गिद्ध giddh “vulture”  
+𒍣𒁍 	zbi-bu სვავი svavi “vulture” +++  
+𒍣𒁍 	(designation of locust ), vulture  
+
+𒍣𒄿𒁉𒄷 zi-i-bi-hu
+𒍣𒄿𒑙𒄷 zi-i-bi3-hu
+𒍣𒄿𒑙𒄷 ʒi-i-biᵗhu gypti
+𒍣𒄿𒑙𒄷 eagle 𓄿 < 𓅀 αἰγυπιός aigupiós <  γύψ gúps 𓅐  vulture
+
+𒀉𒄷𒎌  id-hu <> haddu 𓄿 𓅂 ἀετός aetós עַיִט áyit ಹದ್ದು  eagle
+𒀉𒄷𒎌  ᵍid-huʳ ગીધ gīdh < gypt
+𒀉𒄷𒎌  ᵛid-huʳ > π.utre > putre buitre > butre ≈ būteō “buzzard”
+𒀉𒄷𒎌 vulture  𓅐
+
+𒀭𒈾𒀀𒋾 an-na-a-tiʳ nature Tier
+𒀭𒈾𒀀𒋾 anᵐna-a-tiʳ nature Tier
+𒀭𒈾𒀀𒋾 animals, things
+
+𒌑𒌑𒆤𒈠 u2-šam-qit-ma
+𒌑𒌑𒆤𒈠 u₂-šam-qit-ma
+𒌑𒌑𒆠𒌅 u2-sam-ki-tu zusam-cut
+𒌑𒌑𒆠𒌅 u₂-šam-ki-tu zusam-cut
+𒌑𒌑𒆠𒌅 destroy 
+
+𒋢𒌦𒄣 su-un-qu®  ˢhunger, drought (sans-grain)
+𒋢𒌦𒆠  su-un-qí®
+𒋢𒌦𒆠 su-un-ki <  σπάνις  suᵐun-qi manque @ 𒌓
+𒋢𒌦𒆠 su-un-qi [[sun]] sonnig sans-  > სიღარიბე siɣaribe ínség
+𒋢𒌦𒆠 singe(ing), drought, dearth, ˢhunger
+
+𒄊𒉻𒁺 ner-pad-du   pedisequa, pedisequus, Bediensteter, Bediener 
+𒄊𒉻𒁺 GÌR-pad-du 𓃀 𓂾   <> 𐀀𐀠𐀦𐀫 a-pi-qo-ro ἀμφίπολος amphípolos
+𒄊𒉻𒁺 attendant(s)  <> 𓃀 𓂾 слу́жбеник slúžbenik helpanto helpero 
+
+𒀜𒋫𒁲 at-ta-di addition
+𒀜𒋫𒁲 add, place (to/in slavery)
+𒀜𒋫𒁲 atˢta-di
+𒀜𒋫𒁲 stand, place
+
+
+𒊓𒈾𒄣𒊭𒅘𒊑 	sa-na-qu ša nak-ri "sneak zu nacken"
+𒊓𒈾𒄣𒊭𒅘𒊑 	advance on someone with hostile intent, to approach
+
+𒅘𒊑 nak-ri necken, neckisch  <> 𓂜 Neger 𓈖𓅘𓎛𓀏 nikiri "yoked enemy" 𓇉 𓈎 𓂡 𓀏 𓏪  
+𒅘𒊑 rebel(ious)
+
+
+𒈾𒅗𒈠𒋾 na-ka-ma-ti <> Neger 𓈖𓅘𓎛𓀏 nikiri "yoked enemy" 𓇉 𓈎 𓂡 𓀏 𓏪  
+𒈾𒅗𒈠𒋾 na-kaʳma-ti @ 𓊖 𒆳 nagar / kar / mat
+𒈾𒅗𒈠𒋾 slavery !
+
+𒅆𒁖 si-parƒ
+𒅆𒌓 si-par √ super
+𒅆𒌓 splendor, Pracht
+
+𒄿𒉺𒇻𒁍𒋾 iᵐ-sib-bu-ti 𓈟𓈞sibt sit @ booty
+𒄿𒉺𒇻𒁍𒋾 seat
+
+𒌒𒁉
+𒌒𒑙 ub-bi3 auf-bau
+𒌒𒑙 build up
+
+𒌌𒇷𒆷 ul-le-la elevate <
+𒌌𒇷𒆷 fill, arise, rise, raise
+
+𒌌𒇷𒂊 ul-le-e “levee”
+𒌌𒇷𒂊 villa, tower
+
+𒇻𒄷𒌋𒋾 lu-hu-u-ti
+𒇻𒄷𒌋𒋾 •lofty
+
+𒋼𒅖𒌋 te-bis-u √top 太宝贵 tàibǎoguì
+𒋼𒅖𒌋 teʳbis-u √teuer dyrbar 
+𒋼𒅖𒌋 precious 
+
+𒈪𒌅𒌅 me-tu-tu 𓅓 Um-Tötung
+𒈪𒌅𒌅 meʳtu-tu muer 𓏱
+𒈪𒌅𒌅 death
+
+𒅁 𒁀𒄷 ib-ba-hu  αξίζω
+𒅁𒁀𒄷 deserve, merit ^^
+
+𒅎𒆪𒌓 ᵡIM-QU-UTU cremate! queima quema(r) κάψιμο  √charm chemo-
+𒅎𒆪𒌓 ᵡIM-KU-bir₂
+𒅎𒆪𒌓 burn
+
+
+𒆧 ≈ 𒌋𒋰·𒌍 ≈ 𒍨 
+𒉌𒆧 ni-kiš нож nož "neck, notch, nose"  <> 𒆦 قەراغ qeraẍ krasts किनारा kinārā Kante  грань Rand 
+𒉌𒆧 edge (of sword)
+
+𒄈𒀭𒈦 gir2-parzil ger-ferosal @ 𒀭𒈦 Damasque
+𒄈𒀭𒈦 (iron,bronze) sword
+
+𒆷𒉺𒀭 la pa-an
+𒆷𒉺𒀭 ᵃla paʳan ¬front
+𒆷𒉺𒀭 (from) before
+
+𒌑𒍣 ú-zi aus-zieh verzieh 𓈝 𓎁 𓊄
+𒌑𒍣 escape
+
+𒀯𒈭𒁺 mul-tah-du Malletäter  𔗄𔖟
+𒀯𒈭𒁺 sinner
+
+𒅎𒉡𒌋 𒋗𒈫 im-nu-u qātu
+𒅎𒉡𒌋 𒋗𒈫 imᵃnu-u qātu
+𒅎𒉡𒌋 𒋗𒈫 ⁿim-nu-u qātu
+𒅎𒉡𒌋 𒋗𒈫 nehme / manu qātu 
+𒅎𒉡𒌋 𒋗𒈫 hold hand !
+
+𒉣 𒇷 zil-li sealed ceiled celle
+𒉣𒇷 covered (chariot)
+
+𒊩 𒋝𒊑𒂊𒋾 MUN sik-re-e-ti secret secretary
+𒊩 𒋝𒊑𒂊𒋾 Minne concubine ♡
+
+
+𒐼 𒋗 sa-su
+𒐼𒂵 sa-ga Sache s'agade sacha <> 7 sacks
+𒐼𒂵 goods
+
+𒋻𒆷𒌅 tar-ra-tu κατάρα katára
+𒋻𒆷𒌅 suq-la-tu קְלָלָה ˢk'lalá la'nat escalate?
+𒋻𒆷𒌅 suq-la-tu ≈ sepata
+𒋻𒆷𒌅 curses 
+
+𒂊 𒍣𒊒 e-ze-ru
+𒂊 𒍣𒊒 ᵏeʳze-ru
+𒂊𒍣𒊒  curse
+
+𒂊𒄷𒅗 e-hu-zu geholt
+𒂊𒄷𒅗 ᵍe-huˡzu geholt
+𒂊𒄷𒅗 taken
+
+𒉺𒌓 pa-lah
+𒉺𒌓 paʳlah 𐭯𐭫𐭮𐭲𐭠𐭫 plstʾl paristār priest  پەرست persit پرستار parastār  भक्त bhakt богомолец pariah? 
+𒉺𒌓 worshipper @ palace 𓉐 𓇳
+
+𒄿𒊺𒌅 ᶜi-se-tu cease, cess (sic)
+𒄿𒊺𒌅 ᶜi-she-tu cease, cess
+𒄿𒊺𒌅 ᶜi-še-tu cease, cess, set-out
+𒄿𒊺𒌅 flee, fled
+
+𒈥𒆠𒌓 mar-ki-tu4 √mercy ☿ 马𓌝
+𒈥𒆠𒌓 refugee 
+
+𒆷𒈾𒁖𒋢𒁲 la.na-par-su-di
+𒆷𒈾𒁖𒋢𒁲 la¬naᵗ parᵗsu.di ¬entfernt
+𒆷𒈾𒁖𒋢𒁲 nulla-partsu'd
+𒆷𒈾𒁖𒋢𒁲 Not Removed 
+
+𒅅𒁍𒁺𒉌 ik-bu-du-ni <> bu-du-ni-ik bedenk-
+𒅅𒁍𒁺𒉌 ik-buʳdu-ni ex-burden aus-brüten επινοώ
+𒅅𒁍𒁺𒉌 plan, devise (bad, evil)
+
+𒄿𒊑𒆷𒇻 ᶜi-tal-la-lu ge.tall גדל
+𒄿𒊑𒆷𒇻 glorify @ Italia   vs vitulus (“calf”) *wet- (“year”)
+
+𒄥𒁲 qur-di
+𒄥𒁲 great might <> 𒁍 SÍR 𓋴𓂋𓏮𓃱  Kraft guerre Kurd
+
+𒊐 ᵍrap generous
+
+𒊑𒍮𒌅 ri-zu-tu
+𒊑𒍮𒋾 ri-zu-ti
+𒊑𒍮𒋾 ri-zu3-ti
+𒊑𒍮𒋾 ri-ẓu-ti
+𒊑𒍮𒋾 riˢcu-ti
+𒊑𒍮𒋾 rescue(d)
+
+𒆷𒅗𒂔 la-ka-zir
+𒆷𒅗𒂔 defection 
+
+𒅈 𒅆 ᵍar-si gracia
+𒅈𒅆 grant
+
+𒄭 ≈ 𓐍 in 
+𒄭𒀉 ḥi-id ḥid ḥīd hid hīd hate <  חֵטְא khet חטא khatá 
+𒄭𒀉 sin
+
+𒄭𒁕𒀀𒋾 hi-da-a-ti hate heat
+𒄭𒁕𒀀𒋾 hi-da-a-ti hidāti hidati hida'ati : ኀጢአት ḫäṭiʾät < خِطْء ḵiṭʔ خَطِيئَة ḵaṭīʔa חֵטְא khet
+𒄭𒁕𒀀𒋾 ˢhi-da-a-ti <> sodom <> •hadartía ≈ hamartía
+𒄭𒁕𒀀𒋾 sin <> sun sühne guna گُناہ ...
+
+𒐼 𒀀𒋙 sa-a-su2
+𒐼𒀀𒋙 saˡaᵇsuᵗ
+𒐼𒀀𒋙 saˡbu₄suᵗ
+𒐼𒀀𒋙 selbst, self
+
+𒐼𒀀𒌅 sa-a-tu
+𒐼𒀀𒌅 saˡaᵇˢtu 
+𒐼𒀀𒌅 saˡbu₄ˢtu 
+𒐼𒀀𒌅 selbst, self  ☑
+
+ 
+𒌑𒄬𒇷𒆪 u2-hal-li-qu < 𓅄  hariq > הָרַס  
+𒌑𒄬𒇷𒆪 ú-ḫalᵇli-qu 𓐍 𓃀 𓅡 𓄿 𓌻 𓅪 
+𒌑𒄬𒇷𒆪 ú-ḫal-li-qu kill
+𒌑𒄬𒇷𒆪 destroy  𓎙 𓂧 𓌻 𓂡 decimate demi <> 𒄢 abātu "beat"
+
+𒂊𒆠𒇻 e-ki-lu kill
+𒂊𒆠𒇻 eat  okul
+
+𒀉 𒁺 ʸid-du ʸiddu ʸidu @ yad < ject!
+𒀉𒁺 yeet, throw
+
+𒅁𒅆𒇻 ib-si-lu up-settle silly ¬silent
+𒅁𒅆𒇻 rage (heart) <> ypsilon?
+
+𒄿𒊑𒄷 ᶜi-ri-huⁿ churn
+𒄿𒊑𒄷 turn (away from s.o.)
+
+
+𒆠𒉡
+𒆥𒉡 qi-nu
+𒆥𒉡 kin
+
+𒅅𒆠𒋢 ik-ki-su
+𒅅𒆠𒋢 ik-kiᵗsu
+𒅅𒆠𒋢 'cuts off
+
+
+𒈜 ≈ 𒀝 ≈ 𒌺 
+
+𒌺 ≈ 𒁇𒌷 BAR×URU  𓉐 #puḫru puḥri #puhru •forum "assembly"
+
+𒈜𒊒 	puḫ-ru
+𒈜𒊒 	assembly
+
+𒁍𒄴𒊑𒅎 puḫrim assembly
+
+𒈬𒊻𒍝 mu-uz-za Masse ≈ Menge Menschen
+𒈬𒊻𒍝 the whole (of people)
+
+𒂔 ẓiru ≈ 𒆹 şēru sierra SUG #elītu
+𒂔 country, steppe, open country
+
+𒇷𒂍𒌅 	li-bit-tu 𒋞 libittu 𓅙 𓃀 𓏏 𓊌 < 𐎍𐎁𐎐𐎚 lbnt  ܠܒܬܐ ləḇettā bata@Malay @ [[Baut]] lebanon/levante?  
+
+𒇷𒂍 li.bit
+𒈜𒀉 lib.it
+𒋳 𒀉 tak.it
+𒋳𒀉 lib.it levit > law
+𒋳𒀉 judgement
+
+𒀉𒁀𒀀 ʷit-ba-a with-va 𓇍
+𒀉𒁀𒀀 come (to aid)
+
+𒌨𒊑𒄩 ᵖur-ri-ha
+𒌨𒊑𒄩 ᵖur-riᵖha
+𒌨𒊑𒄩 prepare (𒌨 pero 𒊑 rib 𒄩 parakeet)
+
+𒌑𒋗𒋫𒀀 u2-qat-ta-a cut out cattle > 
+𒌑𒋗𒋫𒀀 kill, destroy 
+
+𒀸𒄈𒀭𒈦𒄩𒀭𒁲 ina gir2 parzil ha-an-di
+𒀸𒄈𒀭𒈦𒄩𒀭𒁲 ina gir₂ parᵒzil ʳha-an-di : in Ger Bronzel Rande
+𒀸𒄈𒀭𒈦𒄩𒀭𒁲 ina gir₂ parᵒzil ᵏha-an-di : in gear ferosil Kante
+𒀸𒄈𒀭𒈦𒄩𒀭𒁲 By/with the edge of the sword 
+
+𒀀𒊬𒊩 a-sar-rak a'search? aus-reken
+𒀀𒊬𒊩 appoint. 
+
+𒈪𒆍 mi-kit <> ?  cremate, combusti  queimadura chemo charm
+𒈪𒆍 GIG-kit kuk-kit cooked
+𒈪𒆍 burn(ed)
+
+
+
+𒁹𒂗 𒇽𒂊 istin sapru 	√spector
+𒁹𒂗 𒇽𒂊 seer
+
+𒌑𒇥 u2-tul
+𒌑𒇥 ᵇu-tul bett'le
+𒌑𒇥 sleep
+<>
+𒄿𒈾𒊑 i-na-tal night'le
+𒄿𒈾𒊑 dream
+
+𒋤𒌅 	šut-tu
+𒋤𒌅 	sug₄-tu
+𒋤𒌅 	1. sight, dream 2. 'sucked' nipple, teat, udder
+
+𒈠𒀀𒐼 ma-a-sa
+𒈠𒀀𒐼 Of them who (G!)
+
+𒅁𒁍𒋢 𒍣𒂊 𒇻𒌅 ip-pu-su ze-e lu-t-tu
+𒅁𒁍𒋢𒍣𒂊𒇻𒌋𒌅 Battle is prepared (?)
+
+𒀀𒆳 a-mat mãt
+𒀀𒆳 mind, will @ mount
+
+𒁵𒈭𒍣𒂊 mun-tah-ze-e man tocha™   
+𒁵𒈭𒍣𒂊 Fighting Man   𓂚 𓏏 𓅱 𓀎 | warriors | 𒆪 TUŠ τόξε  𒀞 taḥas 𐀵𐀒𐀰𐀲 	 𐀵𐀒𐀰𐀺𐀒	
+
+𒂊𒅆𒅕 ᵇe-si-irᵍ 
+𒂊𒅆𒅕 besiege
+<>
+𒌑𒂟𒂍 ᵇu₂sig₅é besiegt
+𒌑𒂟𒂍 u2-zab-bit
+𒌑𒂟𒁉𒋫 u2-zab-bi-taʳ
+𒌑𒂟𒂍 u₂cab-bitor  𒋰𒁹𒁹𒁹𒁹 !
+𒌑𒂟𒂍 capture(d)
+
+𒆳𒆗𒁺 kal-du Chaldea <> Chaldaeans    originaly ethnonym + plain in the far southeast => whole Sumeria
+𒆳𒆗𒁺 kalˢdu  כשדים Kaśdim ≈ Kassites
+
+𒆳𒀀𒊏𒈬 A-ra-mu Aram
+𒆳𒀀𒊒𒈬 A-ru-mu Aram
+
+𒆳𒌓𒋾 Kar tam-ti Tiamat "Sea Coast"  𒆳 شَاطِئ šāṭiʔ  سَاحِل sāḥil > Sahel   тэнгисийн эрэг tengisiin
+𒆳𒌓𒋾 s'at-tam ≈ שְׂפַת הַיָּם s'fát hayám
+𒆳𒌓𒋾 Kar tamᵘtiʳ > समुद्र samudra  समुद्रतट samudrataṭ
+
+# Sea Coast from Aqaba to 𒆍𒅕𒇷𒈨𒋾
+
+𒀀𒋡𒁀 a-qa-ba
+𒀀𒋡𒁀 Aqaba
+
+𒆍𒅕𒇷𒈨𒋾 BAB.sa-li-mi-ti  Babsalimitu
+𒆍𒅕𒇷𒈨𒋾 GÂR.șa-li-me-ti Jerusalem?  
+
+𒌓𒄒𒉣𒆠 PAR.QIP.abad 	Sippar (𒉣≈𓉐 port) Tell Abu ᴷHabbah ˢHabbah  
+𒌓𒄒𒉣𒆠 PAR.KIB.NUN 	Sippar ( KIB.PAR ≈ 𒉣 ≈ cypress!)
+
+𒅆𒆳 si-mat
+𒅆𒆳 •ƒi-mat
+𒅆𒆳 fame
+
+𒊩𒌓𒉌𒆸𒋾 (pre)tan-ni-kil-ti
+𒊩𒌓𒉌𒆸𒋾 (pre)tan-ni-*-ti
+𒊩𒌓𒉌 𒆸 𒋾 pretending 
+
+𒌑𒆗𒁉𒋢 ᵖu2-lab-bi-su
+𒌑𒆗𒁉𒋢 place (it/them)
 
