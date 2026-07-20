@@ -4454,6 +4454,8 @@ _𒆳 	five ⚠️
 
 
 𓈗 mar 𒈝 NUM 𓈖 nem mun (meander)
+𒈨𒊏𒉡𒊻 me-ra-nu-us מַר mar  𒈥𒊒  mar-ruⁿ •marn 𒋀 mun₄ 𒁵 mun
+𒈨𒊏𒉡𒊻 bitter
 𒈥𒊒  mar-ru  مر murr מַר mar  ܡܪܝܪܐ marrīrā 𒋀 marru 𐎎𐎗 mr /mar/ "bitter"
 𒈥𒊒  mar-ruⁿ •marn 𒋀 mun₄ 𒁵 mun 𓎛𓋴𓏠𓍖𓈒𓏥  “salt, brackish”
 𓎛 𓌳 𓄿 𓏏 𓍖 𓈒 𓏥 | salt | ha.maritim maritit ha.mar™ המַר 𒈥𒊒 𓌳 ~ 𒋀 mun₄ 𒁵 mun
@@ -8940,6 +8942,8 @@ revolt and rebellion
 𒀾𒆲   as2-kun  accomplish
 𒀊𒆪𒉡 is-ku-nu accomplish
 
+𒀾𒆲 as-kun sagen causeᵍ [[s]]gene (defeat/misfortune)
+
 
 𒄑𒆤𒎌 KID.mes <> 𓊡 sail cloth
 𒄑𒆤𒎌 cutter Kutter < chvoter < chipot® ?
@@ -9193,9 +9197,6 @@ in
 𒅗𒈥 ka-mar karma "misfortune"
 
 𒀾 𒆲 as-kun sagen causeᵍ [[s]] gene (defeat/misfortune)
-
-𒇷𒈪𒋾 li-mi-ti limit surrounding (cities round it)
-𒌋𒀸𒋰𒆸𒈨𒄑 eli-mi-is limis boundary
 
 𒌌 ul ≈ eli 𒌋𒀸𒋰𒆸 ≈ 𒌋𒀸𒋰𒁹𒋰𒁹 ≈ 𒌋𒆳𒆸 ≈ 𒌋𒅗 UGU  ≠ 𒇵 ka
 
@@ -12613,13 +12614,6 @@ ma + causative + gene
 𒆠𒄿 ki-iⁿ quan ...
 𒆠𒄿 when ... / then ... / came ...
 
-𒍝𒁁 za-bat 
-𒍝𒁁 capture 
-
-𒊻𒂟𒁉𒌅 uz-zab-bi-tuʳ
-𒊻𒂟𒁉𒌅 ac-cap-pi-tuʳ
-𒊻𒂟𒁉𒌅 capture <> accept
-
 
 𒀊𒁍 ab-bu gebahr 𒅅𒁍𒌑  igᵉbu-uʳ Gebot 
 𒀊𒁍 command
@@ -13206,6 +13200,20 @@ ma + causative + gene
 𒌑𒂟𒂍 u₂cab-bitor  𒋰𒁹𒁹𒁹𒁹 !
 𒌑𒂟𒂍 capture(d)
 
+𒍝𒁁 za-bat 
+𒍝𒁁 capture 
+
+𒊻𒂟𒁉𒌅 uz-zab-bi-tuʳ
+𒊻𒂟𒁉𒌅 ac-cap-pi-tuʳ
+𒊻𒂟𒁉𒌅 capture <> accept
+
+𒀝𒋙𒌓 ak-su-ud
+𒀝𒋙𒌓 akᵃᵖsuʳud
+𒀝𒋢𒌓 ak-su-ud
+𒀝𒋢𒌓 ak-ṣu-ud
+𒀝𒋢𒌓 akᵃᵖsuʳud   𒀝 gyp 𓄿  𒋢 ṣu ≈ zu ≈ ṭu 𓇳 rad ≈ 𒌓 ʳud
+𒀝𒋢𒌓 captured
+
 𒆳𒆗𒁺 kal-du Chaldea <> Chaldaeans    originaly ethnonym + plain in the far southeast => whole Sumeria
 𒆳𒆗𒁺 kalˢdu  כשדים Kaśdim ≈ Kassites
 
@@ -13238,3 +13246,28 @@ ma + causative + gene
 𒌑𒆗𒁉𒋢 ᵖu2-lab-bi-su
 𒌑𒆗𒁉𒋢 place (it/them)
 
+
+𒈾𒄀𒂊 na-ge-e
+𒈾𒄀𒂊 naᵐge-e Gaue, Kreise
+𒈾𒄀𒂊 nome, district
+
+𒉌𒄿𒁀 ni-i-ba  ( Ashurbanipal, page 222 )
+𒉌𒄿𒁀 ni-iᵐba 
+𒉌𒄿𒁀 number(s)
+
+𒆷 𒄿𒋢𒌋 (nu)la ʷi-su-u ¬wisse
+𒆷 𒄿𒋢𒌋 unknown
+
+𒍣𒀪𒊒𒋾 zi-hi-ru-ti
+𒍣𒀪𒊒𒋾 ziᵐhal-ru-ti
+𒍣𒀪𒊒𒋾 smaller  𒌉𒎌 #zihruti
+
+𒈬𒉺𒅁 mu-sabᵗ 𓈞 𓋴 𓀔 < muğat < مَقْعَد maqʕad >  место > *moyth₂* مېشت mēšt, “settled” 𒆳𒆳 mat/sat
+𒈬𒉺𒅁 muⁿsabᵗ mensat
+𒈬𒉺𒅁 mastaba, seat
+
+𒇷𒈪𒋾 li-mi-ti limit 
+𒇷𒈪𒋾 surrounding (cities round it)
+𒌋𒀸𒋰𒆸𒈨𒄑 eli-mi-is limis boundary
+𒌋𒅗𒈪𒅖𒊑 eli-mi-is-ri @ 𓐝 𓐛 𓇥 𓂋 mizraim 
+𒌋𒅗𒈪𒅖𒊑 limes, boundary
