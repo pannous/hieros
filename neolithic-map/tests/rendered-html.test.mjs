@@ -41,4 +41,9 @@ test("production build renders the map", async (context) => {
   assert.match(html, /<title>Neolithic Sites \/ Ancient Architects Map<\/title>/);
   assert.match(html, /aria-label="Interactive Neolithic map"/);
   assert.match(html, /Search sites or videos/);
+  assert.match(
+    html,
+    /Zoom in to reveal city names, then select one to open its Ancient Architects video or inspect the site\./,
+  );
+  assert.match(html, /<summary>Sources<\/summary>/);
 });

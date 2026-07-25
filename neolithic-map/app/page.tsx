@@ -1,6 +1,6 @@
 "use client";
 
-import { PointerEvent, useEffect, useMemo, useRef, useState } from "react";
+import { type KeyboardEvent, type PointerEvent, type WheelEvent, useEffect, useMemo, useRef, useState } from "react";
 
 const SVG_WIDTH = 2421.2596;
 const SVG_HEIGHT = 2480.3192;
@@ -9,8 +9,10 @@ type Video = {
   id: string;
   title: string;
   url: string;
-  durationString?: string;
-  thumbnail?: string;
+  durationString?: string | null;
+  thumbnail?: string | null;
+  channel?: string | null;
+  publishedAt?: string | null;
   matchedSites: string[];
   playlists?: string[];
 };
@@ -32,6 +34,20 @@ function normalize(value: string) {
     .normalize("NFKD")
     .replace(/\p{Diacritic}/gu, "")
     .toLowerCase();
+}
+
+function formatDate(value?: string | null) {
+  return value
+    ? new Intl.DateTimeFormat("en", {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+      }).format(new Date(value))
+    : null;
+}
+
+function toYouTubeQuery(value: string) {
+  return encodeURIComponent(value).replace(/%20/g, "+");
 }
 
 export default function Home() {
@@ -58,9 +74,11 @@ export default function Home() {
         fetch("/data/sites.json"),
         fetch("/data/videos.json"),
       ]);
+
       if (!sitesResponse.ok || !videosResponse.ok) {
         throw new Error("Map data could not be loaded.");
       }
+
       setSites(await sitesResponse.json());
       setVideos(await videosResponse.json());
     }
@@ -88,14 +106,17 @@ export default function Home() {
     ]
       .map(normalize)
       .join(" ");
+
     return haystack.includes(normalizedQuery);
   }
 
   const selectedVideos = selectedSite
-    ? selectedSite.videoIds.map((id) => videosById.get(id)).filter((video): video is Video => Boolean(video))
+    ? selectedSite.videoIds
+        .map((id) => videosById.get(id))
+        .filter((video): video is Video => Boolean(video))
     : [];
   const normalizedQuery = normalize(query.trim());
-  const shouldShowAllLabels = zoom >= 1.65 || normalizedQuery.length > 0;
+  const shouldShowAllLabels = zoom >= 1.35 || normalizedQuery.length > 0 || selectedSiteId !== null;
 
   function zoomBy(delta: number) {
     setZoom((current) => {
@@ -112,10 +133,42 @@ export default function Home() {
     setPan({ x: 0, y: 0 });
   }
 
-  function handlePointerDown(event: PointerEvent<HTMLDivElement>) {
-    if ((event.target as HTMLElement).closest(".site-label, .zoom-button")) {
+  function handleWheel(event: WheelEvent<HTMLDivElement>) {
+    event.preventDefault();
+    const bounds = event.currentTarget.getBoundingClientRect();
+    const pointer = {
+      x: event.clientX - bounds.left,
+      y: event.clientY - bounds.top,
+    };
+
+    const zoomFactor = Math.exp(-event.deltaY * 0.0015);
+    const nextZoom = Math.min(4, Math.max(1, Number((zoom * zoomFactor).toFixed(2))));
+
+    if (nextZoom === zoom) {
       return;
     }
+
+    const focalPoint = {
+      x: (pointer.x - pan.x) / zoom,
+      y: (pointer.y - pan.y) / zoom,
+    };
+
+    setPan(
+      nextZoom === 1
+        ? { x: 0, y: 0 }
+        : {
+            x: pointer.x - focalPoint.x * nextZoom,
+            y: pointer.y - focalPoint.y * nextZoom,
+          },
+    );
+    setZoom(nextZoom);
+  }
+
+  function handlePointerDown(event: PointerEvent<HTMLDivElement>) {
+    if ((event.target as Element).closest(".site-anchor, .zoom-button")) {
+      return;
+    }
+
     pointersRef.current.set(event.pointerId, { x: event.clientX, y: event.clientY });
     if (pointersRef.current.size === 2) {
       const points = [...pointersRef.current.values()];
@@ -132,6 +185,7 @@ export default function Home() {
     } else {
       dragRef.current = { pointerId: event.pointerId, x: event.clientX, y: event.clientY };
     }
+
     event.currentTarget.setPointerCapture(event.pointerId);
   }
 
@@ -139,6 +193,7 @@ export default function Home() {
     if (pointersRef.current.has(event.pointerId)) {
       pointersRef.current.set(event.pointerId, { x: event.clientX, y: event.clientY });
     }
+
     if (pinchRef.current && pointersRef.current.size >= 2) {
       const points = [...pointersRef.current.values()].slice(0, 2);
       const distance = Math.hypot(points[0].x - points[1].x, points[0].y - points[1].y);
@@ -159,6 +214,7 @@ export default function Home() {
     if (!drag || drag.pointerId !== event.pointerId) {
       return;
     }
+
     const dx = event.clientX - drag.x;
     const dy = event.clientY - drag.y;
     dragRef.current = { ...drag, x: event.clientX, y: event.clientY };
@@ -172,6 +228,13 @@ export default function Home() {
     }
     if (dragRef.current?.pointerId === event.pointerId) {
       dragRef.current = null;
+    }
+  }
+
+  function handleSiteKeyDown(event: KeyboardEvent<SVGGElement>, siteId: string) {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      setSelectedSiteId(siteId);
     }
   }
 
@@ -199,6 +262,7 @@ export default function Home() {
 
         <div
           className="map-viewport"
+          onWheel={handleWheel}
           onPointerDown={handlePointerDown}
           onPointerMove={handlePointerMove}
           onPointerUp={handlePointerUp}
@@ -215,6 +279,7 @@ export default function Home() {
               {Math.round(zoom * 100)}%
             </button>
           </div>
+
           <div
             className="map-wrap"
             style={{
@@ -226,71 +291,65 @@ export default function Home() {
               alt="Fertile Crescent Neolithic B circa 7500 BC map"
               draggable={false}
             />
-            <div className="markers" aria-live="polite">
+            <svg
+              className="markers"
+              viewBox={`0 0 ${SVG_WIDTH} ${SVG_HEIGHT}`}
+              preserveAspectRatio="xMidYMid meet"
+              aria-label="Neolithic sites"
+            >
               {sites.map((site) => {
                 const isVisible = siteMatches(site);
                 const firstVideo = site.videoIds
                   .map((id) => videosById.get(id))
                   .find((video): video is Video => Boolean(video));
                 const showLabel = shouldShowAllLabels || selectedSiteId === site.id;
+                const classes = [
+                  "site-anchor",
+                  site.videoIds.length ? "" : "no-video",
+                  site.coordinateQuality === "estimated-region" ? "estimated" : "",
+                  isVisible ? "" : "is-hidden",
+                ]
+                  .filter(Boolean)
+                  .join(" ");
+
                 return (
-                  <div
+                  <g
                     key={site.id}
-                    className={[
-                      "site-anchor",
-                      showLabel ? "show-label" : "",
-                      site.videoIds.length ? "" : "no-video",
-                      site.coordinateQuality === "estimated-region" ? "estimated" : "",
-                      isVisible ? "" : "is-hidden",
-                    ]
-                      .filter(Boolean)
-                      .join(" ")}
-                    style={{
-                      left: `${(site.x / SVG_WIDTH) * 100}%`,
-                      top: `${(site.y / SVG_HEIGHT) * 100}%`,
-                    }}
+                    className={classes}
+                    role="button"
+                    tabIndex={0}
+                    aria-label={`Select ${site.name}`}
+                    aria-current={site.id === selectedSiteId}
+                    onClick={() => setSelectedSiteId(site.id)}
+                    onKeyDown={(event) => handleSiteKeyDown(event, site.id)}
                   >
-                    <span className="map-dot" aria-hidden="true" />
-                    {firstVideo ? (
-                      <a
-                        className="site-label"
-                        aria-current={site.id === selectedSiteId}
-                        href={firstVideo.url}
-                        rel="noopener noreferrer"
-                        target="_blank"
-                        title={`${site.name}: open ${firstVideo.title}`}
-                        onClick={() => setSelectedSiteId(site.id)}
-                      >
-                        {site.name}
-                      </a>
-                    ) : (
-                      <button
-                        type="button"
-                        className="site-label"
-                        aria-current={site.id === selectedSiteId}
-                        title={`${site.name}: no linked video yet`}
-                        onClick={() => setSelectedSiteId(site.id)}
-                      >
-                        {site.name}
-                      </button>
-                    )}
-                    {site.wikipediaUrl ? (
-                      <a
-                        className="wiki-link"
-                        href={site.wikipediaUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        title={`${site.name}: open Wikipedia`}
-                        aria-label={`${site.name}: open Wikipedia`}
-                        onClick={() => setSelectedSiteId(site.id)}
-                      >
-                        <img src="https://en.wikipedia.org/static/favicon/wikipedia.ico" alt="" />
-                      </a>
-                    ) : null}
-                  </div>
+                    <title>
+                      {[
+                        site.name,
+                        Number.isFinite((site as Site & { latitude?: number }).latitude) &&
+                        Number.isFinite((site as Site & { longitude?: number }).longitude)
+                          ? `WGS84: ${(site as Site & { latitude?: number }).latitude}, ${(site as Site & { longitude?: number }).longitude}`
+                          : null,
+                      ]
+                        .filter(Boolean)
+                        .join("\n")}
+                    </title>
+                    <circle className="map-dot" cx={site.x} cy={site.y} r="6" />
+                    <text
+                      className={`site-label${showLabel ? "" : " is-label-hidden"}`}
+                      x={site.x + 12 / zoom}
+                      y={site.y + 9 / zoom}
+                      style={{
+                        fontSize: `${38 / zoom}px`,
+                        strokeWidth: 8 / zoom,
+                      }}
+                    >
+                      {site.name}
+                    </text>
+                  </g>
                 );
               })}
-            </div>
+            </svg>
           </div>
         </div>
       </section>
@@ -305,56 +364,58 @@ export default function Home() {
           ) : selectedSite ? (
             <>
               <h1>{selectedSite.name}</h1>
-              <div className="meta">
-                <span>
-                  SVG position: {selectedSite.x}, {selectedSite.y}
-                </span>
-                <span>Coordinate quality: {selectedSite.coordinateQuality ?? "unknown"}</span>
-                <span>
-                  {selectedVideos.length} linked video{selectedVideos.length === 1 ? "" : "s"}
-                </span>
-              </div>
-              {selectedSite.wikipediaUrl ? (
+              <div className="detail-actions">
                 <a
                   className="detail-wiki-link"
-                  href={selectedSite.wikipediaUrl}
+                  href={`https://duckduckgo.com/?q=${encodeURIComponent(
+                    `${selectedSite.name} archaeological site`,
+                  )}`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src="https://en.wikipedia.org/static/favicon/wikipedia.ico" alt="" />
-                  Wikipedia
+                  Search Web
                 </a>
-              ) : null}
+                <a
+                  className="detail-search-link"
+                  href={`https://www.youtube.com/results?search_query=${toYouTubeQuery(selectedSite.name)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Search YouTube
+                </a>
+              </div>
               {selectedVideos.length ? (
                 <>
-                {selectedVideos.length > 1 ? (
-                  <a
-                    className="primary-video-link"
-                    href={selectedVideos[0].url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Open first video on YouTube
-                  </a>
-                ) : null}
-                <div className="video-list">
-                  {selectedVideos.map((video) => (
+                  {selectedVideos.length > 1 ? (
                     <a
-                      className="video-link"
-                      href={video.url}
-                      key={video.id}
+                      className="primary-video-link"
+                      href={selectedVideos[0].url}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img src={video.thumbnail ?? ""} alt="" />
-                      <span>
-                        <span className="video-title">{video.title}</span>
-                        <span className="video-duration">{video.durationString ?? ""}</span>
-                      </span>
+                      Open first video on YouTube
                     </a>
-                  ))}
-                </div>
+                  ) : null}
+                  <div className="video-list">
+                    {selectedVideos.map((video) => (
+                      <a
+                        className="video-link"
+                        href={video.url}
+                        key={video.id}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <img src={video.thumbnail ?? ""} alt="" />
+                        <span>
+                          <span className="video-title">{video.title}</span>
+                          <span className="video-meta">
+                            {video.durationString ? <span>{video.durationString}</span> : null}
+                            {video.publishedAt ? <span>{formatDate(video.publishedAt)}</span> : null}
+                          </span>
+                        </span>
+                      </a>
+                    ))}
+                  </div>
                 </>
               ) : (
                 <p>No Ancient Architects video is linked to this site yet.</p>
@@ -363,14 +424,14 @@ export default function Home() {
           ) : (
             <>
               <h1>Neolithic Video Map</h1>
-              <p>Zoom in or search to reveal site names, then tap a linked name to open its Ancient Architects video on YouTube.</p>
+              <p>Zoom in to reveal city names, then select one to open its Ancient Architects video or inspect the site.</p>
             </>
           )}
         </div>
-        <div className="source-note">
-          Base map: Wikimedia Commons, CC BY-SA 4.0. Video metadata: Ancient Architects
-          YouTube playlists.
-        </div>
+        <details className="source-note">
+          <summary>Sources</summary>
+          <p>Base map: Wikimedia Commons, CC BY-SA 4.0. Video metadata: Ancient Architects YouTube playlists.</p>
+        </details>
       </aside>
     </main>
   );
