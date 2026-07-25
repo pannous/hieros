@@ -114,12 +114,14 @@ export default function Home() {
           <div className="markers" aria-live="polite">
             {sites.map((site) => {
               const isVisible = siteMatches(site);
+              const firstVideo = site.videoIds
+                .map((id) => videosById.get(id))
+                .find((video): video is Video => Boolean(video));
               return (
-                <button
+                <div
                   key={site.id}
-                  type="button"
                   className={[
-                    "marker",
+                    "site-anchor",
                     site.videoIds.length ? "" : "no-video",
                     site.coordinateQuality === "estimated-region" ? "estimated" : "",
                     isVisible ? "" : "is-hidden",
@@ -130,11 +132,32 @@ export default function Home() {
                     left: `${(site.x / SVG_WIDTH) * 100}%`,
                     top: `${(site.y / SVG_HEIGHT) * 100}%`,
                   }}
-                  aria-label={site.name}
-                  aria-current={site.id === selectedSiteId}
-                  title={`${site.name}${site.videoIds.length ? ` (${site.videoIds.length} videos)` : ""}`}
-                  onClick={() => setSelectedSiteId(site.id)}
-                />
+                >
+                  <span className="map-dot" aria-hidden="true" />
+                  {firstVideo ? (
+                    <a
+                      className="site-label"
+                      aria-current={site.id === selectedSiteId}
+                      href={firstVideo.url}
+                      rel="noopener noreferrer"
+                      target="_blank"
+                      title={`${site.name}: open ${firstVideo.title}`}
+                      onClick={() => setSelectedSiteId(site.id)}
+                    >
+                      {site.name}
+                    </a>
+                  ) : (
+                    <button
+                      type="button"
+                      className="site-label"
+                      aria-current={site.id === selectedSiteId}
+                      title={`${site.name}: no linked video yet`}
+                      onClick={() => setSelectedSiteId(site.id)}
+                    >
+                      {site.name}
+                    </button>
+                  )}
+                </div>
               );
             })}
           </div>
@@ -161,6 +184,17 @@ export default function Home() {
                 </span>
               </div>
               {selectedVideos.length ? (
+                <>
+                {selectedVideos.length > 1 ? (
+                  <a
+                    className="primary-video-link"
+                    href={selectedVideos[0].url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Open first video on YouTube
+                  </a>
+                ) : null}
                 <div className="video-list">
                   {selectedVideos.map((video) => (
                     <a
@@ -179,6 +213,7 @@ export default function Home() {
                     </a>
                   ))}
                 </div>
+                </>
               ) : (
                 <p>No Ancient Architects video is linked to this site yet.</p>
               )}
@@ -186,7 +221,7 @@ export default function Home() {
           ) : (
             <>
               <h1>Neolithic Video Map</h1>
-              <p>Select a site marker to see Ancient Architects videos linked to that place.</p>
+              <p>Tap a linked site name to open its Ancient Architects video on YouTube.</p>
             </>
           )}
         </div>
