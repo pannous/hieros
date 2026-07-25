@@ -24,6 +24,7 @@ type Site = {
   aliases: string[];
   videoIds: string[];
   source: string;
+  wikipediaUrl?: string;
 };
 
 function normalize(value: string) {
@@ -273,6 +274,19 @@ export default function Home() {
                         {site.name}
                       </button>
                     )}
+                    {site.wikipediaUrl ? (
+                      <a
+                        className="wiki-link"
+                        href={site.wikipediaUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title={`${site.name}: open Wikipedia`}
+                        aria-label={`${site.name}: open Wikipedia`}
+                        onClick={() => setSelectedSiteId(site.id)}
+                      >
+                        <img src="https://en.wikipedia.org/static/favicon/wikipedia.ico" alt="" />
+                      </a>
+                    ) : null}
                   </div>
                 );
               })}
@@ -300,6 +314,17 @@ export default function Home() {
                   {selectedVideos.length} linked video{selectedVideos.length === 1 ? "" : "s"}
                 </span>
               </div>
+              {selectedSite.wikipediaUrl ? (
+                <a
+                  className="detail-wiki-link"
+                  href={selectedSite.wikipediaUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="https://en.wikipedia.org/static/favicon/wikipedia.ico" alt="" />
+                  Wikipedia
+                </a>
+              ) : null}
               {selectedVideos.length ? (
                 <>
                 {selectedVideos.length > 1 ? (

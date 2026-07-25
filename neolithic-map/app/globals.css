@@ -180,6 +180,37 @@ body {
   display: block;
 }
 
+.wiki-link {
+  display: none;
+  width: 16px;
+  height: 16px;
+  flex: 0 0 16px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(36, 48, 51, 0.25);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+}
+
+.site-anchor.show-label .wiki-link {
+  display: inline-flex;
+}
+
+.wiki-link img,
+.detail-wiki-link img {
+  width: 13px;
+  height: 13px;
+  display: block;
+}
+
+.wiki-link:hover,
+.wiki-link:focus-visible {
+  border-color: var(--accent);
+  outline: none;
+  box-shadow: 0 0 0 3px var(--hit), 0 1px 4px rgba(0, 0, 0, 0.18);
+}
+
 .site-label:hover,
 .site-label:focus-visible,
 .site-label[aria-current="true"] {
@@ -218,9 +249,30 @@ body {
 .meta {
   display: grid;
   gap: 6px;
-  padding: 10px 0 16px;
+  padding: 10px 0 10px;
   color: var(--muted);
   font-size: 13px;
+}
+
+.detail-wiki-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-bottom: 14px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--ink);
+  padding: 7px 10px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.detail-wiki-link:hover,
+.detail-wiki-link:focus-visible {
+  border-color: var(--accent);
+  outline: none;
 }
 
 .video-list {
