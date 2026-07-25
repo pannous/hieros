@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Neolithic Sites / Ancient Architects Map</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="map-panel" aria-label="Interactive Neolithic map">
+        <div class="map-toolbar">
+          <input id="search" type="search" placeholder="Search sites or videos" autocomplete="off">
+          <label class="toggle">
+            <input id="videoOnly" type="checkbox">
+            <span>With videos</span>
+          </label>
+        </div>
+        <div id="mapWrap" class="map-wrap">
+          <img
+            id="baseMap"
+            src="./assets/fertile-crescent-neolithic-b.svg"
+            alt="Fertile Crescent Neolithic B circa 7500 BC map">
+          <div id="markers" class="markers" aria-live="polite"></div>
+        </div>
+      </section>
+      <aside class="detail-panel" aria-label="Site details">
+        <div id="siteDetails" class="site-details">
+          <h1>Neolithic Video Map</h1>
+          <p>Select a site marker to see Ancient Architects videos linked to that place.</p>
+        </div>
+        <div class="source-note">
+          Base map: Wikimedia Commons, CC BY-SA 4.0. Video metadata: Ancient Architects YouTube playlist.
+        </div>
+      </aside>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>
