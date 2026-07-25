@@ -330,6 +330,28 @@
     "source": "SVG label coordinate"
   },
   {
+    "id": "wadi-hammeh-27",
+    "name": "Wadi Hammeh 27",
+    "x": 785,
+    "y": 1240,
+    "coordinateQuality": "estimated-geographic",
+    "periods": [
+      "Early Natufian"
+    ],
+    "aliases": [
+      "Wadi Hammeh 27",
+      "Wadi Hammeh",
+      "Wadi al-Hammeh",
+      "Wadi el-Hammeh",
+      "Wadi Hemmeh",
+      "Pella"
+    ],
+    "videoIds": [
+      "cN0jcvehcV0"
+    ],
+    "source": "Estimated from reported Wadi Hammeh 27 location near Pella, north-western Jordan, lat 32.45 N, lon 35.62 E"
+  },
+  {
     "id": "jericho",
     "name": "Jericho",
     "x": 628.88,
