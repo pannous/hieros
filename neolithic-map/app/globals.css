@@ -62,14 +62,62 @@ body {
   white-space: nowrap;
 }
 
-.map-wrap {
+.map-viewport {
   position: relative;
   width: 100%;
   max-width: 980px;
+  max-height: calc(100vh - 82px);
   margin: 0 auto;
   border: 1px solid var(--line);
   background: #fdffd5;
-  overflow: auto;
+  overflow: hidden;
+  touch-action: none;
+  cursor: grab;
+}
+
+.map-viewport:active {
+  cursor: grabbing;
+}
+
+.zoom-controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 5;
+  display: flex;
+  gap: 6px;
+}
+
+.zoom-button {
+  min-width: 38px;
+  height: 38px;
+  border: 1px solid rgba(36, 48, 51, 0.28);
+  border-radius: 6px;
+  background: rgba(255, 250, 240, 0.92);
+  color: var(--ink);
+  font: 700 18px/1 ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16);
+  cursor: pointer;
+}
+
+.zoom-button:hover,
+.zoom-button:focus-visible {
+  border-color: var(--accent);
+  outline: none;
+  box-shadow: 0 0 0 3px var(--hit), 0 2px 8px rgba(0, 0, 0, 0.16);
+}
+
+.zoom-reset {
+  min-width: 62px;
+  padding: 0 9px;
+  font-size: 13px;
+}
+
+.map-wrap {
+  position: relative;
+  width: 100%;
+  transform-origin: 0 0;
+  will-change: transform;
 }
 
 .map-wrap img {
@@ -87,8 +135,8 @@ body {
   position: absolute;
   display: flex;
   align-items: center;
-  gap: 3px;
-  transform: translate(-4px, -50%);
+  gap: 4px;
+  transform: translate(-3px, -50%);
   z-index: 1;
 }
 
@@ -97,9 +145,9 @@ body {
 }
 
 .map-dot {
-  width: 5px;
-  height: 5px;
-  flex: 0 0 5px;
+  width: 4px;
+  height: 4px;
+  flex: 0 0 4px;
   border: 1px solid #fff;
   border-radius: 50%;
   background: var(--accent);
@@ -115,6 +163,7 @@ body {
 }
 
 .site-label {
+  display: none;
   max-width: 120px;
   border: 1px solid rgba(36, 48, 51, 0.25);
   border-radius: 4px;
@@ -125,6 +174,10 @@ body {
   text-align: left;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.7);
   cursor: pointer;
+}
+
+.site-anchor.show-label .site-label {
+  display: block;
 }
 
 .site-label:hover,
@@ -237,6 +290,25 @@ body {
 @media (max-width: 860px) {
   .app {
     grid-template-columns: 1fr;
+  }
+
+  .map-panel {
+    padding: 8px;
+  }
+
+  .map-toolbar {
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+  }
+
+  .map-viewport {
+    max-height: 68vh;
+  }
+
+  .site-label {
+    max-width: 96px;
+    padding: 1px 3px;
+    font-size: 9px;
   }
 
   .detail-panel {
