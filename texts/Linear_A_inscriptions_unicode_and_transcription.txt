@@ -1,0 +1,3207 @@
+ARKH 1a
+Unicode: 𐘳𐘢 𐘌 𐘸 𐘇𐘴 𐘇𐘲𐘻𐙈 𐘗 𐘇𐘂[?] 𐘻𐘸𐘞𐘗
+Transcription: ta-pi AB16 ki a-ra a-su-mi-*118 AB24 a-pa-? mi-ki-sa-ne
+
+ARKH 1b
+Unicode: 𐘇 𐘱𐘙 𐘰 𐘅
+Transcription: a ja-re *56 na
+
+ARKH 2
+Unicode: 𐘤𐘀𐘃 𐙂𐘴𐙎 𐘇𐘤𐘀𐘄𐘚 𐙀𐙕𐘈𐘦𐘐𐙈 𐘇𐘲𐘫𐘮 𐘘𐘻
+Transcription: si-da-te ku-ra-*131b a-si-da-to-i *79-A301-se-de-qif-*118 a-su-pu-wa ru-mi
+
+ARKH 3a
+Unicode: 𐘾𐘗 [AB120b]𐙋𐙎𐙩 𐘸𐘯 𐙉𐙩𐙢 𐙂
+Transcription: ka-ne AB120/GRAb-AB122/OLIV-AB131/VINb-A317 ki-nu AB120/GRA-A317-A312 ku
+
+ARKH 3b
+Unicode: [?]𐘱𐘢 𐙉 𐘢𐙦 𐙉[AB302]𐙍
+Transcription: ?-ja-pi AB120/GRA pi-A314 AB120/GRA-AB302/OLE-AB131/VINa
+
+ARKH 4a
+Unicode: [?]𐘝𐘳 𐘳 𐘙 𐘇[?][?]𐘶 𐘦𐘲[?]𐘨𐘃 𐘢𐘠𐘗𐘇[?]
+Transcription: ?-ni-ta ta AB27 a-?-?-ju de-su-?-*47-te pi-ti-ne-a-?
+
+ARKH 4b
+Unicode: [?]𐘙 𐘉 𐘦𐘻 𐘚𐘨 𐘇𐘸𐘁 𐘍𐘤𐙀
+Transcription: ?-re u de-mi i-*47 a-ki-ro za-si-*79
+
+ARKH 5
+Unicode: 𐘇𐘬𐘝𐘳𐘅 𐘇𐘀𐘁 𐙉𐙎 𐘇
+Transcription: a-du-ni-ta-na a-da-ro AB120/GRA-AB131/VINb a
+
+ARKH 6
+Unicode: 𐘀𐘅𐘹 𐙂 [?]𐘭
+Transcription: da-na-tu ku ?-ri
+
+ARKH 7
+Unicode: [?] 𐙜
+Transcription: ? A308
+
+GO 2a
+Unicode: 𐘁[?] 𐘾 [A705] 𐘤𐘃 𐘤𐘁𐘂 [A704] 𐙂𐘈
+Transcription: ro-? ka A705 si-te si-ro-pa A704 ku-se
+
+GO 2b
+Unicode: [?] [A705] 𐘀 𐘙 [?] 𐘈𐘤
+Transcription: ? A705 da re ? se-si
+
+GO Wc 1a
+Unicode: 𐘇𐘞𐘲𐙁𐘚𐘈
+Transcription: a-sa-su-ma-i-se
+
+GO Wc 1b
+Unicode: 𐘖
+Transcription: AB23/BOSm
+
+HT 1
+Unicode: 𐘿𐘽𐘉 𐘸𐘁 𐙀𐘲 𐘆𐘆𐘍𐘥 𐙂𐘰𐘯 𐘇𐘴𐘅𐘙
+Transcription: qe-ra_2-u ki-ro *79-su di-di-za-ke ku-*56-nu a-ra-na-re
+
+HT 2
+Unicode: 𐘇𐘾𐘘 𐜋𐜊𐜎 𐘸𐘙𐘳𐘅 𐜋𐜊
+Transcription: a-ka-ru A610-A609-A613 ki-re-ta-na A610-A609
+
+HT 3
+Unicode: 𐙁𐘆 𐘆𐘅 𐘿𐘽𐘱 [?] 𐘆 𐘕𐘘 𐘘 𐘤𐘹𐘽𐘙 [?] 𐙂𐘰𐘯 𐙁𐘆 𐘀
+Transcription: ma-di di-na qe-ra_2-ja ? AB07 mu-ru ru si-tu-ra_2-re ? ku-*56-nu ma-di da
+
+HT 4
+Unicode: [?]𐙚𐘠𐘾𐘇𐘙 [?]𐘬𐘭𐘃 𐘂𐘙 𐘳𐘢𐘤𐘆
+Transcription: ?-A306-ti-ka-a-re ?-du-ri-te pa-re ta-pi-si-di
+
+HT 5
+Unicode: 𐙛 𐙁𐘤 [?]𐘣𐘬 [?]
+Transcription: A307 ma-si ?-wi-du ?
+
+HT 6a
+Unicode: 𐘾𐘂 𐘀𐘳𐘴 𐘃 𐘝 𐘢𐘳𐘱 𐛑 [A717] 𐙁𐙭 𐘵𐘽𐘆𐘗 𐘾𐘂𐘿 [A707][A704] 𐘀𐘿𐘴 𐘿𐘢𐘳 [A707][A704] 𐘝 [A707]
+Transcription: ka-pa da-ta-ra AB04 AB30/FIC pi-ta-ja A538 A717 ma-A321 o-ra_2-di-ne ka-pa-qe A707-A704 da-qe-ra qe-pi-ta A707-A704 AB30/FIC A707
+
+HT 6b
+Unicode: 𐘮𐘬𐘝𐘻 [A706] 𐘴𐘠𐘈 𐙁𐘭[?]𐘚 𐘬𐘀𐙁 𐘬𐘸 [A704] 𐘞𐙁 𐘰𐘝𐘅 [A707]
+Transcription: wa-du-ni-mi A706 ra-ti-se ma-ri-?-i du-da-ma du-ki A704 sa-ma *56-ni-na A707
+
+HT 7a
+Unicode: 𐘿𐘠 [AB100] 𐘚𐘘𐘱 𐘬𐘱 𐘳𐘅𐘠 𐘀𐘙 𐘃𐘹
+Transcription: qe-ti AB100/VIR i-ru-ja du-ja ta-na-ti da-re te-tu
+
+HT 7b
+Unicode: 𐘐𐘹𐘗 𐘀𐘘𐙵
+Transcription: qif-tu-ne da-ru-A329
+
+HT 8a
+Unicode: 𐘧𐘆 𐜓 𐘰𐘾𐘴𐘠 [A707] 𐘂 [A707] 𐘃𐙕 𐘌𐙠𐘚 [A707][A704] 𐘤𐘸𐘴 [A704] 𐘸𐘙 [?] 𐘳𐘅 [A707]
+Transcription: je-di A618 *56-ka-ra-ti A707 AB03 A707 te-A301 qa-A310-i A707-A704 si-ki-ra A704 ki-re ? ta-na A707
+
+HT 8b
+Unicode: 𐘲𐘜𐙓 𐘰𐙓 𐘌𐙠𐘚 [A704][A705] 𐘾𐘂 [A707] 𐘂𐘱𐘙 [A705] 𐛥 [A707][A707]
+Transcription: su-pu_2-*188 *56-*188 qa-A310-i A704-A705 ka-pa A707 pa-ja-re A705 A565 A707-A707
+
+HT 9a
+Unicode: 𐘞𐘁 𐘃 𐙍 𐘂𐘦 [A707][A704] 𐙚𐘹 𐘆𐘅𐘉 𐘿𐘫 𐙰𐘆𐘴 [A707] 𐘳𐘚𐙌 [A707] 𐘇𐘘 [A704] 𐙂𐘁 [A707][A704]
+Transcription: sa-ro AB04 AB131/VINa pa-de A707-A704 A306-tu di-na-u qe-pu A324-di-ra A707 ta-i-*123 A707 a-ru A704 ku-ro A707-A704
+
+HT 9b
+Unicode: 𐘰 𐘮𐘱𐘢[?] 𐘾𐙙 𐘂𐘦 𐘇𐘤 𐙚𐘹 𐙰𐘆𐘴 𐘿𐘫 𐘳𐘚𐙌 𐘆𐘅𐘉 𐙂𐘁
+Transcription: AB56 wa-ja-pi-? ka-A305 pa-de a-si A306-tu A324-di-ra qe-pu ta-i-*123 di-na-u ku-ro
+
+HT 10a
+Unicode: 𐙂𐘝𐘲 𐘞𐙁 𐘂 𐘀𐘙 [A707] 𐘉𐙱𐘍 [?] 𐙕 𐘉𐙱𐘍 [?] 𐙙𐘘 [A707] 𐘀𐘭𐘀 𐘋𐘍 [?]
+Transcription: ku-ni-su sa-ma AB03 da-re A707 u-A325-za ? A301 u-A325-za ? A305-ru A707 da-ri-da me-za ?
+
+HT 10b
+Unicode: 𐘉𐘠 [?] 𐘀 [?] 𐘙 𐘳𐘭𐘅 [?] 𐙢𐘳 [A707] 𐘾𐘞𐘘 [?] 𐘳𐘅𐘠 [A704]
+Transcription: u-ti ? da ? re ta-ri-na ? A312-ta A707 ka-sa-ru ? ta-na-ti A704
+
+HT 11a
+Unicode: 𐘇𐘘𐘴[?] 𐘾𐘁𐘅 [?][?] 𐙮𐘭 𐙂𐘁 𐘇𐘲𐘱 [AB100]𐘚 𐘷
+Transcription: a-ru-ra-? ka-ro-na ?-? A322-ri ku-ro a-su-ja *100-i AB66
+
+HT 11b
+Unicode: 𐘦𐘯 𐘘𐘽 𐙅 𐘾𐘾𐘾 𐘘𐙀𐘅 𐘾 𐘞𐘿𐘭 𐘾 𐙂𐘁
+Transcription: de-nu ru-ra_2 *86 AB77-AB77-AB77 ru-*79-na AB77 sa-qe-ri AB77 ku-ro
+
+HT 12
+Unicode: 𐘌𐘠𐘀𐘃 𐜉𐙘 𐘿𐘹𐘗 𐚻𐘡𐛢𐙈𐜚𐘝𐚼 [A708] 𐘀𐘚
+Transcription: qa-ti-da-te A608-A304 qe-tu-ne A510-AB38-A559-AB118-A626-AB30/FIC-A511 A708 da-i
+
+HT 13
+Unicode: 𐘾𐘉𐘦𐘳 𐙍 𐘃 𐘙𐘍 [A707] 𐘃𐘹 𐘃𐘸 [A707] 𐙂𐙀𐘝 𐘀𐘤𐙈 𐘚𐘬𐘗𐘤 𐙂𐘁 [A707]
+Transcription: ka-u-de-ta AB131/VINa AB04 re-za A707 te-tu te-ki A707 ku-*79-ni da-si-*118 i-du-ne-si ku-ro A707
+
+HT 14
+Unicode: 𐘫𐙍 𐘇 𐘃 𐙉𐜗𐜉𐙘𐙋 𐘇𐘜𐘅𐘬 𐙉𐜗𐜉𐙘𐙋
+Transcription: pu-*131a AB08 AB04 AB120/GRA-A622-A608-A304-AB122/OLIV a-pu_2-na-du AB120/GRA-A622-A608-A304-AB122/OLIV
+
+HT 15
+Unicode: 𐘉𐘟𐘤 𐙉 𐘬𐙌𐘇 𐛹 𐙓 𐘸𐘁 𐘙
+Transcription: u-*34-si AB120/GRA du-*123-a A586 AB188 ki-ro AB27
+
+HT 16
+Unicode: 𐘾𐙂𐘂 𐘆𐘅𐘉 [A705] 𐘮 [A702] 𐜇 [A704][A705] 𐘞𐘊 𐘼 [A708]
+Transcription: ka-ku-pa di-na-u A705 AB54/TELA A702 A604 A704-A705 sa-po AB74 A708
+
+HT 17
+Unicode: 𐘴[AB164a]𐘠 𐘃 [?] 𐙍 𐘞𐘁 𐘤𐘀𐘙
+Transcription: ra-*164a-ti AB04 ? AB131/VINa sa-ro si-da-re
+
+HT 18
+Unicode: 𐘂𐘈 𐛱𐜓𐙘 𐘞𐘽 𐙉𐘝 [?][?]
+Transcription: pa-se A578-A618-A304 sa-ra_2 AB120/GRA-AB30/FIC ?-?
+
+HT 19
+Unicode: 𐘴[AB164a]𐘠 𐘃 𐙍 𐘞𐘁 [A707] 𐘬𐘋𐘆 [A707]
+Transcription: ra-*164a-ti AB04 AB131/VINa sa-ro A707 du-me-di A707
+
+HT 20
+Unicode: 𐘂𐘁𐘲 𐙂𐙁𐘶 [A704] 𐘿𐙂𐘙 𐘆 [A707] 𐘔 [A705] 𐘞𐘙𐘶 [A705] 𐘮 [A704] [A684] [A707]
+Transcription: pa-ro-su ku-ma-ju A704 qe-ku-re AB07 A707 AB22/CAPm A705 sa-re-ju A705 AB54/TELA A704 A684 A707
+
+HT 21
+Unicode: 𐘢𐘳𐘾𐘈 𐘃 𐙉𐜋𐜎 [A707][A704] 𐙘 [A707][A704] 𐙋 [A704]
+Transcription: pi-ta-ka-se AB04 AB120/GRA-A610-A613 A707-A704 A304 A707-A704 AB122/OLIV A704
+
+HT 22
+Unicode: 𐛸𐜣
+Transcription: A585-A643
+
+HT 23a
+Unicode: 𐘾𐘅 𐙗 [A702] 𐙜 [A706] 𐜍 [A706] 𐜖 [A706] 𐜏 [A706] 𐛚 [A706] 𐙍𐚻𐚹𐘡 𐘐𐘭𐘹𐘌 [A708] 𐘞𐘞𐘋 [A708] 𐛊 𐘺𐘘
+Transcription: ka-na A303 A702 A308 A706 A612 A706 A621 A706 A614 A706 A550 A706 AB131/VINa-A510-A508-AB38 qif-ri-tu-qa A708 sa-sa-me A708 A530 ko-ru
+
+HT 23b
+Unicode: 𐘝𐘴 𐙗 [A702] [AB302] [A702] 𐛚 𐘕 𐘫 𐚹 [?] 𐘡
+Transcription: ni-ra A303 A702 AB302/OLE A702 A550 mu pu A508 ? AB38
+
+HT 24a
+Unicode: 𐙂𐘰𐘭𐘱 [A546][A561] [?] [A707] [A561] [?] 𐘂𐘞𐘭𐘱 [A561] 𐘘 [?] 𐘚𐘺 [A560]
+Transcription: ku-*56-ri-ja A546-A561 ? A707 A561 ? pa-sa-ri-ja A561 ru ? i-ko A560
+
+HT 24b
+Unicode: 𐙈 [A707][A704] 𐛋𐙈 [A707][A704] 𐛒𐙈
+Transcription: AB118 A707-A704 A531-AB118 A707-A704 A539-AB118
+
+HT 25a
+Unicode: 𐘆𐘅𐘉 𐘘𐘝 𐘉𐘙𐘣 𐘆𐘅𐘉 𐘇𐘭𐘝𐘳 𐘹𐘿𐘯 𐙀𐘶𐘜 𐘬𐘘𐘣 𐘚𐘸𐘴 𐘂
+Transcription: di-na-u ru-ni u-re-wi di-na-u a-ri-ni-ta tu-qe-nu *79-ju-pu_2 du-ru-wi i-ki-ra AB03
+
+HT 25b
+Unicode: [?] 𐙂𐘁 𐘣𐘃𐘁 𐘚𐘠 [AB100][AB100] 𐙂𐘁
+Transcription: ? ku-ro wi-te-ro i-ti AB100/VIR-AB100/VIR ku-ro
+
+HT 26a
+Unicode: 𐜮 𐙢𐘃𐘃 𐘳𐘠 𐘻𐘸𐘈𐘅 𐘉𐘯𐘐
+Transcription: A656 A312-te-te ta-ti mi-ki-se-na u-nu-qif
+
+HT 26b
+Unicode: [?] 𐜮[AB100] 𐘂𐘁𐘝 𐘾𐘉𐙀𐘝 𐛖 𐘚𐙜 𐙓𐙅
+Transcription: ? A656-AB100/VIR pa-ro-ni ka-u-*79-ni A545 i-A308 *188-*86
+
+HT 27a
+Unicode: 𐘠𐘝𐘳 𐙛 [AB100]𐙅𐘙 𐘚𐘻𐘞𐘴 𐘿 𐘸𐘀 𐘸𐙠 𐙂𐙙 𐘞𐘴𐘆 [AB100] 𐙂𐘁 𐙗 [A707][A704][A702] 𐘝 [A702] 𐙍
+Transcription: ti-ni-ta A307 AB100/VIR-AB86-AB27 i-mi-sa-ra qe ki-da ki-A310 ku-A305 sa-ra-di AB100/VIR ku-ro A303 A707-A704-A702 AB30/FIC A702 AB131/VINa
+
+HT 27b
+Unicode: 𐘻𐘀 𐛾 𐘞 [A597] 𐘞𐘙 [A590] [?][?] 𐘂𐘈 𐛽 𐘞𐘙 [A597] 𐘞𐘙
+Transcription: mi-da A592 AB31 A597 AB31-AB27 A590 ?-? pa-se A591 AB31-AB27 A597 AB31-AB27
+
+HT 28a
+Unicode: 𐘇𐘤𐘱𐘾 𐘱𐘐 𐛱𐜋𐜓 [A707] 𐜗𐜖 [A7092] 𐘞[AB72] 𐜉𐘝𐙍𐛧𐙍 𐘇𐘘𐘀𐘴 𐙉𐙘𐜉 𐘚𐘳𐘱 𐜉
+Transcription: a-si-ja-ka ja-qif A578-A610-A618 A707 A622-A621 A7092 sa-*72 A608-AB30/FIC-AB131/VINa-A568-AB131/VINa a-ru-da-ra AB120/GRA-A304-A608 i-ta-ja A608
+
+HT 28b
+Unicode: 𐘇𐘤𐘱𐘾 𐘉𐘻𐘅𐘤 𐘞𐘽 𐙉𐜉𐘝𐙍 𐘫𐘽 𐘝 𐘱𐘐 𐙍 𐘆 𐘣𐘆𐘅 𐜉𐙍[?] [A704]
+Transcription: a-si-ja-ka u-mi-na-si sa-ra_2 AB120/GRA-A608-AB30/FIC-AB131/VINa pu-ra_2 AB30/FIC ja-qif AB131/VINa AB07 wi-di-na A608-AB131/VINa-? A704
+
+HT 29
+Unicode: 𐘘𐙁𐘳 [?] 𐘂𐘱𐘙 [?] 𐘆𐘱 [?] 𐘚 𐘞𐙯𐘻 𐚀𐘸𐘳 𐘸𐘳𐘤 𐘇𐘙𐘀 [?] 𐘚 𐘾𐘬 [?] 𐙁𐘗
+Transcription: ru-ma-ta ? pa-ja-re ? di-ja ? i sa-A323-mi A340-ki-ta AB67-AB59-AB41 a-re-da ? i ka-du ? ma-ne
+
+HT 30
+Unicode: 𐘤 𐘞𐘽 𐙗 [A707] 𐘝 [A703] 𐙍 [A707] 𐜐 [A703][A703] 𐚻 [A703] 𐘞𐘴𐘴 [A707] 𐘖 𐘸𐘁 𐙗𐘝 [A703][A703] 𐙍 [A707] 𐘖[?]𐜐 [A703] [?]
+Transcription: AB41 sa-ra_2 A303 A707 AB30/FIC A703 AB131/VINa A707 A615 A703-A703 A510 A703 sa-ra-ra A707 AB23/BOSm ki-ro A303-AB30/FIC A703-A703 AB131/VINa A707 AB23/BOSm-?-A615 A703 ?
+
+HT 31
+Unicode: [?]𐘠𐘞 𐘫𐘺 [A410][A402] 𐘌𐘰 [A415] 𐘲𐘫 [A416] 𐘾𐘁𐘰 𐘞𐘱𐙁 𐘸𐘦𐙁𐙯𐘅 [A402][A402] 𐘲𐘰𐘴 [A402] 𐘂𐘳𐘿
+Transcription: ?-ti-sa pu-ko A410VAS-A402VAS qa-*56 A415VAS su-pu A416VAS ka-ro-*56 sa-ja-ma ki-de-ma-A323-na A402VAS-A402VAS su-*56-ra A402VAS pa-ta-qe
+
+HT 32
+Unicode: 𐙛 𐘞𐘽 𐙜 [A707] 𐜍 [A707][A708] 𐚻 [A708] 𐚹𐛚 𐘲𐘙 𐘆𐜍𐘙𐘆
+Transcription: A307 sa-ra_2 A308 A707 A612 A707-A708 A510 A708 A508-A550 su-re AB07-A612-AB27-AB07
+
+HT 33
+Unicode: [?] 𐘞𐘽 𐜫𐚺 [A704] 𐚹 [A7092][A7094] 𐛆 [A704][A7092] 𐛜 [A703] 𐙙𐜦𐛐
+Transcription: ? sa-ra_2 A653-A509 A704 A508 A7092-A7094 A526 A704-A7092 A552 A703 A305-A646-A537
+
+HT 34
+Unicode: 𐘀𐘶𐘃 𐘤𐛀 𐘞𐘽 𐛜 [A702] 𐘡 𐙉𐛅 [A706][A708] 𐚻 [A701] 𐚹 [A704] 𐛚𐛂𐘰 [?] 𐘸𐘁 [?] 𐛆 [A708] 𐘫 [A705]
+Transcription: da-ju-te si-A516 sa-ra_2 A552 A702 AB38 AB120/GRA-A525 A706-A708 A510 A701 A508 A704 A550-A521-AB56 ? ki-ro ? A526 A708 AB50 A705
+
+HT 35
+Unicode: 𐘠𐘠𐙂 𐙲 𐘚𐙂𐘳 𐙗𐛚 [A702] 𐜏 [A702] 𐙜 [A702] 𐜐[?]𐘡𐚻 [A708] 𐙍 [A703]
+Transcription: ti-ti-ku A326 i-ku-ta A303-A550 A702 A614 A702 A308 A702 A615-?-AB38-A510 A708 AB131/VINa A703
+
+HT 36
+Unicode: 𐘧𐘆 𐜠𐛱 𐙉 [?][?] [A707] 𐘬𐙀𐘮 [A707] [?]
+Transcription: je-di A638-A578 AB120 ?-? A707 du-*79-wa A707 ?
+
+HT 37
+Unicode: 𐛛 𐘾𐘸 𐘲 𐘙𐘲[?] [?] 𐘸𐙠𐘙 𐘸𐘁 𐘾𐘸 𐘇𐘅 [?]𐘿 [?]
+Transcription: A551 ka-ki AB58 re-su-? ? ki-A310-re ki-ro ka-ki a-na ?-qe ?
+
+HT 38
+Unicode: [A403] 𐘀𐘁𐘂 𐙄𐘏𐛞𐙈𐛎𐛏
+Transcription: A403VAS da-ro-pa AB85/SUS-AB21/OVIS-A554-AB118-A535-A536
+
+HT 39
+Unicode: 𐘳𐘚𐙌 𐙂𐘙𐘶 𐙂 𐘞𐙁𐘠 𐙂𐘙 𐙂𐘁 𐜯𐛤𐛍
+Transcription: ta-i-*123 ku-re-ju ku sa-ma-ti ku-re ku-ro A657-A564-A534
+
+HT 40
+Unicode: 𐘯𐘬𐙷 𐘃 𐙉 𐘸𐘀𐘳 𐙉 𐙂𐘁 𐙂
+Transcription: nu-du-A331 AB04 AB120/GRA ki-da-ta AB120/GRA ku-ro ku
+
+HT 41a
+Unicode: 𐘿𐘹 𐙙 𐙘 𐘙 𐙘 𐘻𐘀𐘝 𐘂𐘱 [A703][A703]
+Transcription: qe-tu A305 A304 AB27 A304 mi-da-ni pa-ja A703-A703
+
+HT 41b
+Unicode: [?]
+Transcription: ?
+
+HT 42+59
+Unicode: 𐘳 𐛉𐘃 𐜓𐜋 𐘞𐘁 𐜓𐜋 𐙂 [AB302]𐜗 𐘲𐘬 𐘙𐘹 𐜓 [A707][A704] 𐜋
+Transcription: ta A529-AB04 A618-A610 sa-ro A618-A610 ku AB302/OLE-A622 su-du re-tu A618 A707-A704 A610
+
+HT 43
+Unicode: 𐙁𐘤𐘬 𐘂𐚂𐘚 [A517]
+Transcription: ma-si-du pa-A342-i A517
+
+HT 44a
+Unicode: 𐘚𐘌𐙈 [?] 𐘚 𐙉𐜒𐜋𐜑𐙋𐘝𐙍
+Transcription: i-qa-*118 ? AB28 AB120/GRA-A617-A610-A616-AB122/OLIV-AB30/FIC-AB131/VINa
+
+HT 44b
+Unicode: 𐘱 𐘃 𐛵𐘝
+Transcription: ja AB04 A582-AB30/FIC
+
+HT 45a
+Unicode: [A7092] 𐘂 𐙅 𐙙𐙪𐙙
+Transcription: A7092 pa AB86 A305-A318-A305
+
+HT 45b
+Unicode: [A703][A703] 𐚺 [A7092] 𐙂 [A704] 𐙪 𐙙𐚺 [A7092] 𐘁[?]𐘇 [A702] 𐙂 [A704] 𐙂 [A704] [?]
+Transcription: A703-A703 A509 A7092 ku A704 A318 A305-A509 A7092 ro-?-a A702 AB81 A704 AB81 A704 ?
+
+HT 46a
+Unicode: 𐘕𐘘 [?] 𐙂𐘁 [A707]
+Transcription: mu-ru ? ku-ro A707
+
+HT 46b
+Unicode: [A707] [?]
+Transcription: A707 ?
+
+HT 47a
+Unicode: 𐘾 𐛗 𐙂𐘰𐘅𐘹 𐘬 𐘉 𐘢 𐘸𐘀𐘁 [?] 𐘻𐘯𐘻
+Transcription: ka A547 ku-*56-na-tu du u pi ki-da-ro ? mi-nu-mi
+
+HT 47b
+Unicode: 𐘴𐘅𐘙
+Transcription: ra-na-re
+
+HT 49a
+Unicode: [?]𐘽𐘬 𐘳𐘅𐘠 [?] 𐘭 𐘲𐘸 [?] 𐘠𐘬𐘝 [?][?] 𐘤𐘴 𐘇𐘘 [?]𐙢 𐙂𐘰𐘯 𐘹𐘲𐘜 𐘸[?]𐘹𐘸
+Transcription: ?-ra_2-du ta-na-ti ? ri su-ki ? ti-du-ni ?-? si-ra a-ru ?-A312 ku-*56-nu tu-su-pu_2 AB67-?-AB69-AB67
+
+HT 49b
+Unicode: 𐙂 𐘚 𐘳 [?] 𐘾 [?] [?]
+Transcription: ku i ta ? ka ? ?
+
+HT 50a
+Unicode: [?] 𐙉 [A704] 𐜓 [A704] 𐜗 [A707] 𐜎 [A707] 𐙘 [A707] 𐙋𐛺 [A704][A705]
+Transcription: ? AB120/GRA A704 A618 A704 A622 A707 A613 A707 A304 A707 AB122/OLIV-A587 A704-A705
+
+HT 50b
+Unicode: [?] 𐜓 [?] 𐜉
+Transcription: ? A618 ? A608
+
+HT 51a
+Unicode: 𐘝 𐘃 [?][?] 𐘠𐘝 [?]𐘙
+Transcription: AB30/FIC AB04 ?-? ti-ni ?-re
+
+HT 51b
+Unicode: 𐙂𐘋𐘳 𐙀𐘬 [A707][A705] 𐘤
+Transcription: ku-me-ta *79-du A707-A705 si
+
+HT 52a
+Unicode: 𐘞𐙁 𐘃 [?] 𐘆𐘾𐘹
+Transcription: sa-ma AB04 ? di-ka-tu
+
+HT 52b
+Unicode: 𐘗 𐙉
+Transcription: ne AB120/GRA
+
+HT 53a
+Unicode: [?] 𐘞𐘗 [?] [?] [AB302] 𐘴
+Transcription: ? sa-ne ? ? AB302/OLE ra
+
+HT 53b
+Unicode: [?] 𐙂𐘙
+Transcription: ? ku-re
+
+HT 54a
+Unicode: [?][?] 𐙂𐘻𐘅𐘿 𐘸 𐘻𐘽
+Transcription: ?-? ku-mi-na-qe ki mi-ra_2
+
+HT 54b
+Unicode: 𐘸
+Transcription: ki
+
+HT 55a
+Unicode: 𐘸𐘁 𐙁𐘙 𐙕 𐘤𐘘 𐘗 𐘹 [?]
+Transcription: ki-ro ma-re A301 si-ru ne tu ?
+
+HT 55b
+Unicode: 𐘃 𐘿 𐘭𐘱 𐘚
+Transcription: te qe ri-ja i
+
+HT 56a
+Unicode: 𐙓 𐘞 [A707] 𐘉
+Transcription: AB188 sa A707 u
+
+HT 56b
+Unicode: 𐜓
+Transcription: A618
+
+HT 57a
+Unicode: 𐘀 [?] 𐘿𐘴 𐘇 [A705]
+Transcription: da ? qe-ra a A705
+
+HT 57b
+Unicode: 𐙙
+Transcription: A305
+
+HT 58
+Unicode: 𐘿𐘠𐘴𐘬 [?]𐜋𐜗𐜎𐙋 𐘉
+Transcription: qe-ti-ra-du ?-A610-A622-A613-AB122/OLIV u
+
+HT 60
+Unicode: 𐜏 [A708] 𐛙 [A708] 𐙍 [A708] [?]𐚹𐚻 [A7092]
+Transcription: A614 A708 A549 A708 AB131/VINa A708 ?-A508-A510 A7092
+
+HT 61
+Unicode: 𐘻𐘠 𐛲
+Transcription: mi-ti A579
+
+HT 62+73
+Unicode: [?]𐘞𐘴 𐘃 𐙍 [?]𐘅 𐙉 [A704] 𐘾𐙂 [AB28b]𐘠[?] 𐘆 [A704] 𐘾 [AB100][?] 𐘺 𐘯 𐙂 𐘂𐘚𐘸 𐘞𐘁𐘿
+Transcription: ?-sa-ra AB04 AB131/VINa ?-na AB120/GRA A704 ka-ku ib-ti-? AB07 A704 AB77 *100-? ko nu ku pa-i-ki sa-ro-qe
+
+HT 63
+Unicode: 𐙙𐘃 𐘾𐘠 𐘲𐘜 𐙀
+Transcription: A305-AB04 ka-ti su-pu_2 *79
+
+HT 64
+Unicode: 𐙂𐙀𐘅 𐘅 𐘘𐙁 𐘓
+Transcription: ku-*79-na na ru-ma AB22/CAPf
+
+HT 65
+Unicode: 𐜤 [A708]
+Transcription: A644 A708
+
+HT 66
+Unicode: 𐙀 [AB100] 𐘆 𐘳 𐘳𐘻 𐘙
+Transcription: AB79 AB100/VIR di ta ta-mi re
+
+HT 68
+Unicode: 𐘶 [AB100]
+Transcription: ju AB100/VIR
+
+HT 69
+Unicode: 𐘆 𐙁𐘆 𐘆
+Transcription: AB07 ma-di AB07
+
+HT 70
+Unicode: 𐘝 𐘃 𐘌𐙈𐘞 [A704] 𐘚 [?]
+Transcription: AB30/FIC AB04 qa-*118-sa A704 AB28 ?
+
+HT 72
+Unicode: 𐘤[AB100][?] [?][?]
+Transcription: si-*100-? ?-?
+
+HT 74
+Unicode: 𐙂𐘁 [?]
+Transcription: ku-ro ?
+
+HT 75
+Unicode: 𐘾𐘘
+Transcription: ka-ru
+
+HT 78
+Unicode: 𐘕𐙢
+Transcription: mu-A312
+
+HT 79+83
+Unicode: 𐘚 𐙙 𐘾 𐘀𐘰 𐘹𐘂𐘭 𐘹[?] 𐙂𐘝 𐙀
+Transcription: i A305 ka da-*56 tu-pa-ri tu-? ku-ni *79
+
+HT 80
+Unicode: 𐘶𐘴
+Transcription: ju-ra
+
+HT 81
+Unicode: 𐘇𐘈 𐛚 [A706] 𐘭𐘲𐙁 [A7094] 𐘸
+Transcription: a-se A550 A706 ri-su-ma A7094 ki
+
+HT 82
+Unicode: 𐛮 [A708] [?] 𐜫 [A704]
+Transcription: A575 A708 ? A653 A704
+
+HT 84
+Unicode: 𐘐𐘱𐘬 [?] 𐘯𐘠 [AB100]
+Transcription: qif-ja-du ? nu-ti AB100/VIR
+
+HT 85a
+Unicode: 𐘇𐘬 𐜠[AB100] 𐘀𐘭𐘀 𐘰𐘝 𐘉𐙱𐘍 𐘀𐘤𐙈 𐙂𐙀𐘝 𐘃𐘥 𐘀𐘙 𐙂𐘁
+Transcription: a-du A638-AB100 da-ri-da *56-ni u-A325-za da-si-*118 ku-*79-ni te-ke da-re ku-ro
+
+HT 85b
+Unicode: 𐘸𐘸𐘴𐘱 𐘸𐘙𐘷 𐘿𐘾 𐘂 𐘃𐘹[?] 𐘾 𐘆𐘈𐘮 𐘆 𐘋𐘍 𐘙𐘆𐘈 𐘮𐘬𐘝𐘻 𐙁𐘆 𐘌𐙠𐘚
+Transcription: ki-ki-ra-ja ki-re-ta_2 qe-ka AB03 te-tu-? AB77 AB07-AB09-AB54 AB07 me-za re-di-se wa-du-ni-mi ma-di qa-A310-i
+
+HT 86a
+Unicode: 𐘇𐘾𐘘 𐙂𐘝𐘲 𐛷 𐘞𐘘 𐘆𐘦𐘘 𐘌𐘽𐘮 𐘇𐘬 𐘀𐘋 𐛳 𐘻𐘯𐘃 𐘞
+Transcription: a-ka-ru ku-ni-su A584 sa-ru di-de-ru qa-ra_2-wa a-du da-me A580 mi-nu-te AB31
+
+HT 86b
+Unicode: 𐘇𐘾𐘘 𐙂𐘝𐘲 𐛷 𐘞𐘘 [?] 𐘆𐘦 [?][?]
+Transcription: a-ka-ru ku-ni-su A584 sa-ru ? di-de ?-?
+
+HT 87
+Unicode: 𐘐𐘹𐘗 𐙁𐘾𐘭𐘃 𐘢𐘳𐘥𐘤 𐘱𐘙𐘻 𐘆𐘸𐘈 𐘿𐘲𐘫 𐙂𐘘𐙂 𐘇𐘴[?]𐘇𐘹
+Transcription: qif-tu-ne ma-ka-ri-te pi-ta-ke-si ja-re-mi di-ki-se qe-su-pu ku-ru-ku a-ra-?-a-tu
+
+HT 88
+Unicode: 𐘇𐘬 𐛧 𐘙 [?] 𐘍 𐘞 𐘸𐘸𐘅 𐘸𐘁 𐙂𐘰𐘰 𐘾𐘶 𐙂𐘰𐘯 𐘂𐘱𐘙 𐘞𐙁𐘁 𐘀𐘳𐘙 𐙂𐘁
+Transcription: a-du A568 re ? za AB31 ki-ki-na ki-ro ku-*56-*56 ka-ju ku-*56-nu pa-ja-re sa-ma-ro da-ta-re ku-ro
+
+HT 89
+Unicode: 𐘇𐘞𐘽 𐙛 𐙙𐛕 𐙁𐘚𐘻 𐛩 𐘳𐘴 𐙂𐘁 𐙗 [A707][A704] 𐘝 [A704] 𐙍
+Transcription: a-sa-ra_2 A307 A305-A542 ma-i-mi A570 ta-ra ku-ro A303 A707-A704 AB30/FIC A704 *131a
+
+HT 90
+Unicode: 𐘚𐙂𐘭𐘅 𐘞𐘽 𐙉𐘝𐜉 𐘤𐘘𐙁𐘭𐘷 𐙉𐘝𐜗𐙘 [?]
+Transcription: i-ku-ri-na sa-ra_2 AB120/GRA-AB30/FIC-A608 si-ru-ma-ri-ta_2 AB120/GRA-AB30/FIC-A622-A304 ?
+
+HT 91
+Unicode: 𐘚𐘾 𐙲 𐙉 [A711] 𐙘 [A701] 𐜓 [A701] 𐜋 [A701] 𐜗 [A701] 𐙋 [A701] 𐘝 [A701] 𐙍 [A701] 𐘡 𐘃𐘭 𐜗 [A701] 𐘡
+Transcription: i-ka A326 AB120/GRA A711 A304 A701 A618 A701 A610 A701 A622 A701 AB122/OLIV A701 AB30/FIC A701 AB131/VINa A701 AB38 te-ri A622 A701 AB38
+
+HT 92
+Unicode: 𐘃 𐘇𐘬 𐙉 𐙉 𐙘
+Transcription: AB04 a-du AB120/GRA AB120 A304
+
+HT 93a
+Unicode: 𐘰𐘝𐘅 𐛰𐚿 𐘆𐘭𐘅 𐚴 [A707] 𐘸𐘆𐘝 [A707][A706] 𐘇𐘈 [A517] [A707][A704] 𐘞𐘽 𐘌𐘌𐘘 [A517] [AB100]𐘚 𐘦𐘶𐙂 [A707] 𐘵𐘠[?] 𐘀𐘭𐘀 [A406]𐚃 𐘰𐘝𐘅 𐘂𐘈𐘱 [AB100] [A705] [?]𐘾
+Transcription: *56-ni-na A577-A515 di-ri-na A502 A707 ki-di-ni A707-A706 a-se A517 A707-A704 sa-ra_2 qa-qa-ru A517 *100-i de-ju-ku A707 o-ti-? da-ri-da A406VAS-A343 *56-ni-na pa-se-ja AB100/VIR A705 ?-ka
+
+HT 93b
+Unicode: [A706] 𐘸𐘁
+Transcription: A706 ki-ro
+
+HT 94a
+Unicode: 𐘾𐘂 [AB100]𐙅𐛃𐛪𐘳 𐙂𐘁 𐘞𐘽 𐙗𐘝 [A706] 𐙪𐙚 𐙗 [A703][A703] 𐘝 [A703][A703] [?] [A707] 𐘝 [A703]
+Transcription: ka-pa AB100/VIR-AB86-A523-A571-AB59 ku-ro sa-ra_2 A303-AB30/FIC A706 A318-A306 A303 A703-A703 AB30/FIC A703-A703 ? A707 AB30/FIC A703
+
+HT 94b
+Unicode: 𐘸𐘁 𐘹𐙁 𐘂𐘳𐘗 𐘦𐘆 𐘥𐘸𐘘 𐘞𐘘 𐙂𐘁 𐙅 𐘴[?]𐘦𐘋𐘃 𐘐𐘹
+Transcription: ki-ro tu-ma pa-ta-ne de-di ke-ki-ru sa-ru ku-ro AB86 ra-?-de-me-te qif-tu
+
+HT 95a
+Unicode: 𐘀𐘬𐙁𐘳 𐙉 𐘀𐘋 𐘻𐘯𐘃 𐘞𐘘 𐙂𐘝[?] 𐘆𐘦𐘘𐘿𐘽𐘉 [?][?][?][?][?]
+Transcription: da-du-ma-ta AB120/GRA da-me mi-nu-te sa-ru ku-ni-? di-de-ru-qe-ra_2-u ?-?-?-?-?
+
+HT 95b
+Unicode: 𐘇𐘬 𐘞𐘘 [?] 𐘀𐘍 𐘻𐘯𐘃 𐙂𐘝𐘲 𐘆𐘦𐘘 𐘿𐘽𐘉
+Transcription: a-du sa-ru ? da-za mi-nu-te ku-ni-su di-de-ru qe-ra_2-u
+
+HT 96a
+Unicode: 𐘚𐘠𐘠𐙂𐘝 𐘇𐘂𐘴𐘗 𐘇𐙌𐘃 𐘤𐘻𐘳 𐙉 𐘘𐘞 𐙯 𐙩 𐘢𐘳𐘴 [?] 𐙯 𐚄 [?] 𐙂𐙁𐘁 𐘃 𐘝𐘝
+Transcription: i-ti-ti-ku-ni a-pa-ra-ne a-*123-te si-mi-ta AB120/GRA ru-sa A323 A317 pi-ta-ra ? A323 A344 ? ku-ma-ro AB04 AB30/FIC-AB30/FIC
+
+HT 96b
+Unicode: 𐘇𐘂𐘴𐘗 𐘌𐙈𐘴𐘙 𐛀 𐙉 [A707][A704] 𐜋𐘞 [A708] [?] [N800] [A707] [?]
+Transcription: a-pa-ra-ne qa-*118-ra-re A516 AB120/GRA A707-A704 A610-AB31 A708 ? N800 A707 ?
+
+HT 97a
+Unicode: 𐘾𐘘 𐜠 𐛧𐙳 𐘾𐘯𐘠 𐘂𐘚𐘄 𐘆 𐘅𐘠𐙁𐘆 𐘶𐘸𐙀 𐘳𐘠 𐘦[?] 𐘇 [?]
+Transcription: ka-ru A638 A568-A327 ka-nu-ti pa-i-to AB07 na-ti-ma-di AB65-AB67-AB79 ta-ti de-? a ?
+
+HT 97b
+Unicode: 𐘞𐘽
+Transcription: sa-ra_2
+
+HT 98a
+Unicode: [?] [?]𐘦 𐘹 𐘳𐘅𐘠 [A707][A704] 𐘆𐘙𐘆𐘅 [A707] 𐘃𐙕 [A707][A704] 𐘁𐘥 [A707] 𐘾𐘭𐙠𐘚 [A704]
+Transcription: ? ?-de tu ta-na-ti A707-A704 di-re-di-na A707 te-A301 A707-A704 ro-ke A707 ka-ri-A310-i A704
+
+HT 98b
+Unicode: 𐙓𐙍 [A707][A704] 𐘀𐘘𐘗𐘃 [A708]
+Transcription: AB188-AB131/VINa A707-A704 da-ru-ne-te A708
+
+HT 99a
+Unicode: 𐘇𐘬 𐘞𐘽 𐙗𐘝𐙍 [A706] 𐛱
+Transcription: a-du sa-ra_2 A303-AB30/FIC-AB131/VINa A706 A578
+
+HT 99b
+Unicode: 𐛉𐘝 𐘀𐘤𐙈 𐙀𐘬 𐘘𐙁𐘳
+Transcription: A529-AB30/FIC da-si-*118 *79-du ru-ma-ta
+
+HT 100
+Unicode: 𐛧𐜝𐛃𐘸𐙙𐛩 𐙂𐘁 𐘞𐘽 𐙗 [A704] 𐘝 [A703][A703] 𐙍 [A707] 𐜋 [A706] 𐜗𐜍 [A707][A704]
+Transcription: A568-A629-A523-AB67-A305-A570 ku-ro sa-ra_2 A303 A704 AB30/FIC A703-A703 AB131/VINa A707 A610 A706 A622-A612 A707-A704
+
+HT 101
+Unicode: 𐙀𐘓𐘆 𐛱𐜋𐜗𐜓 𐘞𐘽 𐙉[AB302] 𐜋[N800] 𐚸 𐙂 𐘰 𐜋𐙘𐜓𐜗𐙋 [A704] 𐛺
+Transcription: *79-*22f-di A578-A610-A622-A618 sa-ra_2 AB120/GRA-AB302/OLE A610-N800 A506 ku *56 A610-A304-A618-A622-AB122/OLIV A704 A587
+
+HT 102
+Unicode: 𐘾𐘂 𐘞𐘽 𐙉 𐘰𐘝 𐛭 [A705] [AB100]𐛭 [N800] 𐘆𐘭𐘅 𐙁𐙀 𐘣 𐘚𐘾 𐙂𐘁
+Transcription: ka-pa sa-ra_2 AB120/GRA *56-ni A574 A705 AB100/VIR-A574 N800 di-ri-na ma-*79 AB40 i-ka ku-ro
+
+HT 103
+Unicode: 𐘉𐘷 𐘝 𐘰𐘀𐙂𐘈𐘗 [A707] 𐙓 𐘀𐙂𐘅 𐘀𐙂𐘈𐘗 𐘸𐘴 [A707]
+Transcription: u-ta_2 AB30/FIC *56-da-ku-se-ne A707 AB188 da-ku-na da-ku-se-ne ki-ra A707
+
+HT 104
+Unicode: 𐘳𐘂 𐚷 𐘀𐙂𐘈𐘗𐘠 [A707] 𐘚𐘬𐘠 [A707] 𐘂𐘀𐘲𐘠 𐙂𐘁
+Transcription: ta-pa A505 da-ku-se-ne-ti A707 i-du-ti A707 pa-da-su-ti ku-ro
+
+HT 107
+Unicode: [?][?]𐘃𐙸
+Transcription: ?-?-AB04-A332
+
+HT 108
+Unicode: 𐘸𐘙𐘳𐘅 [AB100]𐛶 𐘆𐘅𐘁 𐘬𐘲𐘝 [?]𐘽𐘠𐘶
+Transcription: ki-re-ta-na AB100/VIR-A583 di-na-ro du-su-ni ?-ra_2-ti-ju
+
+HT 109
+Unicode: 𐘙 [?] 𐘳 𐙂𐘁 𐘇𐘴𐘶
+Transcription: re ? ta ku-ro a-ra-ju
+
+HT 110a
+Unicode: 𐘤𐘬𐘟𐙂𐘻 𐜚 𐙂𐘂 𐙂𐘁 𐘝 [?]
+Transcription: si-du-*34-ku-mi A626 ku-pa ku-ro AB30/FIC ?
+
+HT 110b
+Unicode: 𐙉 [?] 𐘁 𐜧[?]𐙁 [A707] 𐘝 [A707] [?]𐘝𐙕 [A707][A704]
+Transcription: AB120/GRA ? ro A648-?-AB80 A707 AB30/FIC A707 ?-AB30/FIC-A301 A707-A704
+
+HT 112a
+Unicode: 𐘐 [?] 𐘹𐘂
+Transcription: AB21/OVISf ? tu-pa
+
+HT 112b
+Unicode: 𐙗 [?]
+Transcription: A303 ?
+
+HT 113
+Unicode: 𐘴𐘭𐘦 𐘣𐘞 𐘵 [A707] [?][?][?]
+Transcription: ra-ri-de wi-sa AB61 A707 ?-?-?
+
+HT 113 ter
+Unicode: 𐘻[?]
+Transcription: mi-?
+
+HT 114a
+Unicode: 𐘸𐘭𐘷 𐘞𐘽 𐙉[AB302]𐘝𐙍𐘖
+Transcription: ki-ri-ta_2 sa-ra_2 AB120/GRA-AB302/OLE-AB30/FIC-AB131/VINa-AB23/BOSm
+
+HT 114b
+Unicode: [A522]
+Transcription: A522
+
+HT 115a
+Unicode: 𐘨𐘯𐘴𐘰 𐘚 𐛯 𐘭𐘳𐙁𐘯𐘣 𐙕𐘉𐘴 𐘅𐘐𐘗𐘻𐘅 𐘈𐙂𐘹 [A707] 𐘂𐘴𐘗 𐘇𐘈𐘱[A718] 𐘾𐘊𐘘 𐘭𐘲𐙁 [?] 𐘲 [A703] [?]
+Transcription: *47-nu-ra-*56 AB28 A576 ri-ta-ma-nu-wi A301-AB10-AB60 na-qif-ne-mi-na se-ku-tu A707 pa-ra-ne a-se-ja-A718 ka-po-ru AB53-AB58-AB80 ? AB58 A703 ?
+
+HT 115b
+Unicode: 𐘘 𐘂𐘴𐘗 [A707] 𐘠 [?] 𐘯𐘱 𐘯𐘣 𐙉 [A707] 𐘬𐘰𐘅 𐙂 [?] 𐘘𐙁 𐘚 [A707] 𐙚𐘹𐘱 𐘇𐘚[?][?] 𐜞 𐙂𐘳
+Transcription: ru pa-ra-ne A707 ti ? nu-ja nu-wi AB120/GRA A707 du-*56-na ku ? ru-ma AB28 A707 A306-tu-ja a-i-?-? A634 ku-ta
+
+HT 116a
+Unicode: 𐘉𐘳𐘁 𐘃 𐙂𐘂𐘱 𐙉 𐘫𐘽 𐙉𐜉𐛉𐙉𐜓𐜗𐙋 𐘢𐘟𐘃 𐙉𐜓𐜗𐛺 𐘤𐘸𐘗 𐙉𐙘 𐘌𐘯𐙁 𐙉𐙘
+Transcription: u-ta-ro AB04 ku-pa-ja AB120/GRA pu-ra_2 AB120/GRA-A608-A529-AB120/GRA-A618-A622-AB122/OLIV pi-*34-te AB120/GRA-A618-A622-A587 si-ki-ne AB120/GRA-A304 qa-nu-ma AB120/GRA-A304
+
+HT 116b
+Unicode: 𐙂𐘁 𐙉𐙘[AB302]
+Transcription: ku-ro AB120/GRA-A304-AB302/OLE
+
+HT 117a
+Unicode: 𐙁𐘾𐘭𐘃 𐘸𐘁 𐘉𐘻𐘅𐘤 𐘉𐘲 𐘻𐘹 𐙂𐘴𐘕 𐙁𐘘 𐙂𐘰𐘯 𐘹𐘶𐙁 𐘉𐘆𐘻 𐘻𐘘𐘳𐘴𐘙 𐘃𐘰𐘙 𐘅𐘀𐘙 𐙂𐘁 𐘞𐘳 𐙂𐙂𐘀𐘴 𐘺𐘞𐘚𐘠 𐘀𐘻𐘯 𐘀𐘗𐙂𐘠 𐘸𐘀𐘁
+Transcription: ma-ka-ri-te ki-ro u-mi-na-si u-su mi-tu ku-ra-mu ma-ru ku-*56-nu tu-ju-ma u-di-mi mi-ru-ta-ra-re te-*56-re na-da-re ku-ro sa-ta ku-ku-da-ra ko-sa-i-ti da-mi-nu da-ne-ku-ti ki-da-ro
+
+HT 117b
+Unicode: 𐘐𐘹𐘗 𐙂𐘙𐘶 𐘆𐘸𐘈
+Transcription: qif-tu-ne ku-re-ju di-ki-se
+
+HT 118
+Unicode: 𐙄 𐛀 𐙁𐘆 𐘸 𐘌𐘌𐘘 𐘸 𐘇𐘭𐘲 𐘸 𐘭𐘘𐙁 𐙂𐘁 𐘸
+Transcription: AB85/SUS A516 ma-di AB67 qa-qa-ru AB67 a-ri-su AB67 ri-ru-ma ku-ro AB67
+
+HT 119
+Unicode: 𐙳[AB100] 𐘭𐘻𐘤 𐘺𐘱 𐙂𐘰𐘅𐘹 𐘠 𐘱𐚅 𐙚𐘹 𐙳𐘶 𐙂𐘁
+Transcription: A327-AB100/VIR ri-mi-si ko-ja ku-*56-na-tu AB37 ja-A345 A306-tu A327-ju ku-ro
+
+HT 120
+Unicode: 𐘀𐘿𐘴 𐘀𐘋 𐛷𐛭 [A707][A701] 𐘀𐘉𐘪 [A517] 𐘸𐘙𐘳𐘅 𐛳𐛭 𐘂𐘚𐘄 [A703]
+Transcription: da-qe-ra da-me A584-A574 A707-A701 da-u-*49 A517 ki-re-ta-na A580-A574 pa-i-to A703
+
+HT 121
+Unicode: 𐘸𐘭𐘷 𐜘 𐘞𐘽 𐙉[AB302]𐘝𐙍𐘖
+Transcription: ki-ri-ta_2 A623 sa-ra_2 AB120/GRA-AB302/OLE-AB30/FIC-AB131/VINa-AB23/BOSm
+
+HT 122a
+Unicode: 𐘴𐘭 𐘉𐘦𐘍 𐘀𐘤𐙈 𐘂 𐘆 𐘃𐘸 𐘌𐙠𐘚 𐘱𐘻𐘀𐘙 𐘤𐘀𐘙 𐙰𐘆𐘴 𐘂𐘦 𐙂𐘰𐘯 𐘂𐘭𐘗 𐙚𐘹 𐘬 𐙂𐘰𐘯 𐘀𐘭𐘀 𐙂𐘁 𐙂𐘀
+Transcription: ra-ri u-de-za da-si-*118 pa di te-ki qa-A310-i ja-mi-da-re si-da-re A324-di-ra pa-de ku-*56-nu pa-ri-ne A306-tu du ku-*56-nu da-ri-da ku-ro ku-da
+
+HT 122b
+Unicode: 𐘧𐘆 𐚆 [AB100] 𐙚𐘸𐘷 [?] 𐘇𐘴𐘶𐘉𐘦𐘍 𐘌𐘌𐘘 𐘆 𐘀𐘙 𐙂𐘁 𐘊𐘄𐙂𐘁
+Transcription: je-di A346 AB100/VIR A306-ki-ta_2 ? a-ra-ju-u-de-za qa-qa-ru AB07 da-re ku-ro po-to-ku-ro
+
+HT 123a
+Unicode: 𐘸𐘳𐘚 𐙋 𐙜 [A704] 𐘸 𐘱 𐘁 [A711] 𐘫𐙍 𐙋 [A707] 𐙜 [A704] 𐘸 𐘸 𐘁 [A711] 𐘞𐘘 𐙋 [?] 𐙜 [A701] 𐘸𐘁 [A707][A704] 𐘀𐘸 𐙋𐙜 [?] [A704] 𐘸 [?] 𐘁 [A707][A704] 𐙂𐘁 𐙋 [A707] 𐙜 𐙂𐘁 [A706] 𐘸𐘁
+Transcription: ki-ta-i AB122/OLIV A308 A704 ki AB57 ro A711 pu-*131a AB122/OLIV A707 A308 A704 ki AB67 ro A711 sa-ru AB122/OLIV ? A308 A701 ki-ro A707-A704 da-ki AB122/OLIV-A308 ? A704 ki ? ro A707-A704 ku-ro AB122/OLIV A707 A308 ku-ro A706 ki-ro
+
+HT 123b
+Unicode: 𐙓𐙜𐙢 [A707][A704] 𐘠𐘀𐘳 [?] 𐘢𐘞 𐙓 𐙓 𐘬 𐘹𐘁𐘆𐘀 [A707][A7092] 𐘾𐘅 𐘤𐘬 [A701] 𐘬𐙁𐘚𐘅 [A704][A705] 𐙂𐘁 𐘸𐘁
+Transcription: AB188-A308-A312 A707-A704 ti-da-ta ? pi-sa AB188 *188 du tu-ro-di-da A707-A7092 ka-na si-du A701 du-ma-i-na A704-A705 ku-ro ki-ro
+
+HT 126a
+Unicode: 𐘀𐘅𐘤 𐙪 𐘇𐘅[?] 𐘉 [A707] 𐘤𐘆𐘱 𐘉𐘪 𐘢
+Transcription: da-na-si A318 a-na-? u A707 si-di-ja u-*49 pi
+
+HT 126b
+Unicode: 𐙙𐙆𐘐[?]𐙆𐘹
+Transcription: A305-AB87-AB21/OVISf-?-AB87-AB69
+
+HT 127a
+Unicode: 𐘬𐘗𐘻 𐜝𐘀𐘨𐙂
+Transcription: du-ne-mi A629-da-*47-ku
+
+HT 127b
+Unicode: 𐘗 𐙂𐘁 𐙛𐙂𐛫𐛖𐙕 [?] 𐙂𐘁
+Transcription: ne ku-ro A307-AB81-A572-A545-A301 ? ku-ro
+
+HT 128a
+Unicode: 𐙲 𐘂𐘴 𐘹𐘘𐘰𐘈𐘋 𐙉 𐘮𐘹𐙁𐘙 𐛲 𐘻𐘳 𐛭 [A707] 𐛲 𐘆 𐛲 𐙁𐘭
+Transcription: A326 pa-ra tu-ru-*56-se-me AB120/GRA wa-tu-ma-re A579 mi-ta A574 A707 A579 di A579 ma-ri
+
+HT 128b
+Unicode: 𐛲 [AB100]𐙵 𐛲 𐘘[?] 𐛲
+Transcription: A579 *100-A329 A579 ru-? A579
+
+HT 129
+Unicode: 𐘹𐘘𐘷 𐙉 [A707][A702] 𐙘𐘝 𐘹𐘐𐘭𐘅 𐙉 [A707] 𐜉𐜓
+Transcription: tu-ru-ta_2 AB120/GRA A707-A702 A304-AB30/FIC tu-qif-ri-na AB120/GRA A707 A608-A618
+
+HT 130
+Unicode: 𐘤 𐘞𐘽 𐙗 𐘽 𐘁 𐘤𐙗𐙍
+Transcription: AB41 sa-ra_2 A303 ra_2 ro AB41-A303-AB131/VINa
+
+HT 131a
+Unicode: 𐘝 [?] 𐘚𐘌𐙈 𐙉[AB302] [A707] 𐙘 [A707][A704]
+Transcription: AB30/FIC ? i-qa-*118 AB120/GRA-AB302/OLE A707 A304 A707-A704
+
+HT 131b
+Unicode: [?] 𐘝𐙋𐛼 𐘊𐘄𐙂𐘁 [A707]
+Transcription: ? AB30/FIC-AB122/OLIV-A589 po-to-ku-ro A707
+
+HT 132
+Unicode: 𐘇𐘈 𐙫 𐘌𐘙𐘄 𐘐 𐘰 𐙙
+Transcription: a-se A319 qa-re-to AB21/OVISf AB56 A305
+
+HT 133
+Unicode: 𐘇𐘬 𐘃 𐛬
+Transcription: a-du AB04 A573
+
+HT 135a
+Unicode: 𐘗𐘻𐘅 𐘻𐘹 𐘻𐘾 𐘅𐘐𐘗 𐘻
+Transcription: ne-mi-na mi-tu mi-ka na-qif-ne mi
+
+HT 135b
+Unicode: [?]𐘟𐘳𐘗
+Transcription: ?-*34-ta-ne
+
+HT 136a
+Unicode: [?][?] 𐘐
+Transcription: ?-? AB21/OVISf
+
+HT 136b
+Unicode: -
+Transcription: -
+
+HT 137
+Unicode: [?] [?] 𐘷 𐙉𐜗[AB302]
+Transcription: ? ? ta_2 AB120/GRA-A622-AB302/OLE
+
+HT 139
+Unicode: [?]𐘫𐙁𐙂 𐙉[AB302] [A707] 𐘾𐘽
+Transcription: ?-pu-ma-ku AB120/GRA-AB302/OLE A707 ka-ra_2
+
+HT 140
+Unicode: 𐘉𐘟𐘤 𐙅𐘤𐘝 𐘧𐘆 [?] 𐜓 [A707] 𐘉𐘟𐘤 [?]𐙈𐘾 𐘾𐙁 [?] 𐘾𐘾𐜋𐘾𐜋𐘾𐜋 𐘾𐘂 [A707] 𐜋 [A707]
+Transcription: u-*34-si *86-si-ni je-di ? A618 A707 u-*34-si ?-*118-ka ka-ma ? AB77-AB77-A610-AB77-A610-AB77-A610 ka-pa A707 A610 A707
+
+HT 141
+Unicode: [?]𐘇𐘭 𐘘𐘆
+Transcription: ?-a-ri ru-di
+
+HT 142
+Unicode: [?]
+Transcription: ?
+
+HT 144
+Unicode: [?] 𐘵 [?]
+Transcription: ? o ?
+
+HT 146
+Unicode: 𐘿 𐘭𐙙 𐙁 𐘭𐘾𐘳
+Transcription: qe ri-A305 AB80 ri-ka-ta
+
+HT 147
+Unicode: 𐘴 [A706][A707] 𐘝
+Transcription: ra A706-A707 AB30/FIC
+
+HT 154
+Unicode: 𐛀 𐘠 𐘸
+Transcription: A516 ti ki
+
+HT 154A
+Unicode: 𐘹𐘋𐘂𐘱 [?] 𐙋 [?] 𐙉𐙂𐘳
+Transcription: tu-me-pa-ja ? AB122/OLIV ? AB120/GRA-AB81-AB59
+
+HT 154B
+Unicode: 𐙉
+Transcription: AB120/GRA
+
+HT 154C
+Unicode: 𐘅𐘻 [A707] [?]
+Transcription: na-mi A707 ?
+
+HT 154E
+Unicode: [?][?] 𐘝 [A704]
+Transcription: ?-? AB30/FIC A704
+
+HT 154G
+Unicode: [?] [A707]
+Transcription: ? A707
+
+HT 154Ja
+Unicode: 𐘯𐘙
+Transcription: nu-re
+
+HT 154Jb
+Unicode: [?]
+Transcription: ?
+
+HT 154K
+Unicode: [?] [?]
+Transcription: ? ?
+
+HT 154L
+Unicode: -
+Transcription: -
+
+HT 154M
+Unicode: [?] [?]
+Transcription: ? ?
+
+HT 154N
+Unicode: 𐘤 𐘤
+Transcription: si si
+
+HT Wa 1001
+Unicode: 𐘀𐘾
+Transcription: da-ka
+
+HT Wa 1002
+Unicode: 𐘀𐘾
+Transcription: da-ka
+
+HT Wa 1003
+Unicode: 𐘀𐘾
+Transcription: da-ka
+
+HT Wa 1004
+Unicode: 𐘀𐘾
+Transcription: da-ka
+
+HT Wa 1005
+Unicode: 𐘀𐘾
+Transcription: da-ka
+
+HT Wa 1006
+Unicode: 𐘚𐘽
+Transcription: i-ra_2
+
+HT Wa 1007
+Unicode: 𐘚𐘽
+Transcription: i-ra_2
+
+HT Wa 1008
+Unicode: 𐘚𐘽
+Transcription: i-ra_2
+
+HT Wa 1009
+Unicode: 𐘚𐘽
+Transcription: i-ra_2
+
+HT Wa 1010
+Unicode: 𐘚𐘽
+Transcription: i-ra_2
+
+HT Wa 1011
+Unicode: 𐘚𐘽
+Transcription: i-ra_2
+
+HT Wa 1012
+Unicode: 𐘚𐘽
+Transcription: i-ra_2
+
+HT Wa 1013
+Unicode: 𐘚𐘽
+Transcription: i-ra_2
+
+HT Wa 1014
+Unicode: 𐘤𐘾
+Transcription: si-ka
+
+HT Wa 1015
+Unicode: 𐘤𐘾
+Transcription: si-ka
+
+HT Wa 1016
+Unicode: 𐘤𐘾
+Transcription: si-ka
+
+HT Wa 1017
+Unicode: 𐘤𐘾
+Transcription: si-ka
+
+HT Wa 1018
+Unicode: 𐘤𐘾
+Transcription: si-ka
+
+HT Wa 1019α
+Unicode: 𐘂𐘳𐘗
+Transcription: pa-ta-ne
+
+HT Wa 1019γ
+Unicode: 𐘤𐘹
+Transcription: si-tu
+
+HT Wa 1020α
+Unicode: 𐜝 𐙂𐘂
+Transcription: A629 ku-pa
+
+HT Wa 1020β
+Unicode: [A704]
+Transcription: A704
+
+HT Wa 1020γ
+Unicode: 𐘧𐘳𐘅
+Transcription: je-ta-na
+
+HT Wa 1021α
+Unicode: 𐙓𐘬
+Transcription: *188-du
+
+HT Wa 1021β
+Unicode: [A707][A704]
+Transcription: A707-A704
+
+HT Wa 1021γ
+Unicode: 𐛉𐛔
+Transcription: A529-A541
+
+HT Wa 1022
+Unicode: 𐛁
+Transcription: A520
+
+HT Wa 1024
+Unicode: [A704]
+Transcription: A704
+
+HT Wa 1025α
+Unicode: [A707]
+Transcription: A707
+
+HT Wa 1025γ
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1028α
+Unicode: 𐘤
+Transcription: si
+
+HT Wa 1028γ
+Unicode: 𐘾
+Transcription: ka
+
+HT Wa 1029α
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1029γ
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1031
+Unicode: 𐘀
+Transcription: AB01
+
+HT Wa 1032
+Unicode: 𐘀
+Transcription: AB01
+
+HT Wa 1128
+Unicode: 𐘃
+Transcription: AB04
+
+HT Wa 1147
+Unicode: 𐘇
+Transcription: AB08
+
+HT Wa 1148
+Unicode: 𐘇
+Transcription: AB08
+
+HT Wa 1150
+Unicode: 𐘚
+Transcription: AB28
+
+HT Wa 1170
+Unicode: 𐘚
+Transcription: AB28
+
+HT Wa 1172
+Unicode: -
+Transcription: -
+
+HT Wa 1176
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1199
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1205
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1206
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1236
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1242
+Unicode: 𐘤
+Transcription: si
+
+HT Wa 1244
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1252
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1255
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1256
+Unicode: 𐘤
+Transcription: AB41
+
+HT Wa 1268
+Unicode: 𐘳
+Transcription: AB59
+
+HT Wa 1278
+Unicode: 𐘳
+Transcription: AB59
+
+HT Wa 1279
+Unicode: 𐘵
+Transcription: AB61
+
+HT Wa 1280
+Unicode: 𐘵
+Transcription: AB61
+
+HT Wa 1281
+Unicode: 𐘵
+Transcription: AB61
+
+HT Wa 1282
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1283
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1287
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1292
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1293
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1294
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1295
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1298
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1303
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1305
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1307
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1308
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1317
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1319
+Unicode: 𐘼
+Transcription: AB74
+
+HT Wa 1323
+Unicode: 𐘾
+Transcription: AB77
+
+HT Wa 1324
+Unicode: 𐘾
+Transcription: AB77
+
+HT Wa 1451
+Unicode: 𐘾
+Transcription: AB77
+
+HT Wa 1471
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1472
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1473
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1474
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1481
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1490
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1508
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1512
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1518
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1530
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1531
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1533
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1538
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1544
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1547
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1550
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1559
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1561
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1562
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1579
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1584
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1587
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1590
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1592
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1598
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1600
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1603
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1608
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1610
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1612
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1613
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1614
+Unicode: 𐙂
+Transcription: AB81
+
+HT Wa 1623
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1624
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1625
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1631
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1639
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1654
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1658
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1659
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1669
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1710
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1720
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1723
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1725
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1734
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1747
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1751
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1753
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1754
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1758
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1764
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1766
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1793
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1805
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1809
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1813
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1816
+Unicode: 𐙕
+Transcription: A301
+
+HT Wa 1849
+Unicode: 𐚙
+Transcription: A365
+
+HT Wa 1850
+Unicode: 𐚚
+Transcription: A366
+
+HT Wa 1851
+Unicode: 𐚛
+Transcription: A367
+
+HT Wa 1852
+Unicode: 𐚜
+Transcription: A368
+
+HT Wa 1853
+Unicode: 𐚝
+Transcription: A369
+
+HT Wa 1854
+Unicode: 𐚞
+Transcription: A370
+
+HT Wa <1021bis>
+Unicode: [A631]
+Transcription: A631
+
+HT Wc 3001
+Unicode: 𐘂𐘈𐘱
+Transcription: pa-se-ja
+
+HT Wc 3001-latus
+Unicode: [A707]
+Transcription: A707
+
+HT Wc 3002
+Unicode: 𐘂𐘈𐘱
+Transcription: pa-se-ja
+
+HT Wc 3003
+Unicode: 𐘾𐘙𐘁
+Transcription: ka-re-ro
+
+HT Wc 3004a
+Unicode: 𐙀𐘝𐘾
+Transcription: *79-ni-ka
+
+HT Wc 3004b
+Unicode: 𐘈
+Transcription: AB09
+
+HT Wc 3005a
+Unicode: 𐘳𐘝𐘾
+Transcription: ta-ni-ka
+
+HT Wc 3005b
+Unicode: 𐘈
+Transcription: AB09
+
+HT Wc 3006a
+Unicode: 𐘮𐘵𐘻
+Transcription: wa-o-mi
+
+HT Wc 3006b
+Unicode: 𐘴𐙦𐘴
+Transcription: ra-A314-ra
+
+HT Wc 3007
+Unicode: 𐘮𐘆𐘝
+Transcription: wa-di-ni
+
+HT Wc 3008a
+Unicode: 𐘮𐘆𐘝
+Transcription: wa-di-ni
+
+HT Wc 3008b
+Unicode: 𐘘𐘱𐘳𐘆
+Transcription: ru-ja-ta-di
+
+HT Wc 3009a
+Unicode: 𐙹𐘆𐘲𐘾
+Transcription: A333-di-su-ka
+
+HT Wc 3009b
+Unicode: 𐙓
+Transcription: AB188
+
+HT Wc 3010
+Unicode: 𐙹𐘆𐘅𐘲𐘾
+Transcription: A333-di-na-su-ka
+
+HT Wc 3011
+Unicode: 𐙀𐘆𐘴
+Transcription: *79-di-ra
+
+HT Wc 3012a
+Unicode: 𐙀𐘆𐘴
+Transcription: *79-di-ra
+
+HT Wc 3012b
+Unicode: 𐘙𐘁
+Transcription: re-ro
+
+HT Wc 3013
+Unicode: 𐙓
+Transcription: AB188
+
+HT Wc 3014a
+Unicode: 𐙂𐘻𐘅
+Transcription: ku-mi-na
+
+HT Wc 3014b
+Unicode: 𐘿 𐘒
+Transcription: qe AB22/CAP
+
+HT Wc 3015a
+Unicode: 𐘾𐙂𐘂
+Transcription: ka-ku-pa
+
+HT Wc 3015b
+Unicode: 𐙗
+Transcription: A303
+
+HT Wc 3016a
+Unicode: 𐘾𐙂𐘂
+Transcription: ka-ku-pa
+
+HT Wc 3016b
+Unicode: 𐜝𐜙
+Transcription: A629-A624
+
+HT Wc 3017a
+Unicode: 𐘌𐙂𐘙𐘅𐙚
+Transcription: qa-ku-re-na-A306
+
+HT Wc 3017b
+Unicode: [A625]
+Transcription: A625
+
+HT Wc 3019
+Unicode: 𐘮
+Transcription: AB54/TELA
+
+HT Wc 3019-latus
+Unicode: [A704]
+Transcription: A704
+
+HT Wc 3020a
+Unicode: 𐙓𐘬
+Transcription: *188-du
+
+HT Wc 3020b
+Unicode: [A630]
+Transcription: A630
+
+HT Wc 3022
+Unicode: [AB100]
+Transcription: AB100/VIR
+
+HT Zb 158a
+Unicode: [?]𐘹𐘈𐘲𐘸
+Transcription: ?-tu-se-su-ki
+
+HT Zb 158b
+Unicode: 𐘲𐘸𐘭𐘃𐘚𐘱
+Transcription: su-ki-ri-te-i-ja
+
+HT Zb 159
+Unicode: 𐘇𐘅𐘯𐘤𐘱𐘈
+Transcription: a-na-nu-si-ja-se
+
+HT Zb 160
+Unicode: 𐘂𐘳𐘀 𐘬𐘜𐘙
+Transcription: pa-ta-da du-pu_2-re
+
+HT Zb 161
+Unicode: 𐘤𐘫
+Transcription: si-pu
+
+HT Zd 155
+Unicode: 𐘇𐘶 𐘅𐙁𐙁𐘠𐘠𐙫
+Transcription: a-ju na-ma-ma-ti-ti-A319
+
+HT Zd 156
+Unicode: 𐘗𐘗 [A707] 𐙫 [A704] 𐙫 [A704][A705] 𐘳𐘱 [A708]
+Transcription: AB24-AB24 A707 A319 A704 A319 A704-A705 ta-ja A708
+
+HT Zd 157
+Unicode: 𐘣𐘱𐘲 𐙁𐘠𐘠𐙫
+Transcription: wi-ja-su ma-ti-ti-A319
+
+HS Zg 1
+Unicode: 𐘇𐙁
+Transcription: a-ma
+
+KE 1
+Unicode: 𐘾𐘞 [?]
+Transcription: ka-sa ?
+
+KE 6a
+Unicode: -
+Transcription: -
+
+KE 6b
+Unicode: -
+Transcription: -
+
+KE Zb 4
+Unicode: 𐘱𐘤𐘡
+Transcription: ja-si-e
+
+KE Zb 5
+Unicode: 𐜀
+Transcription: A595
+
+`KE Wc 2a
+Unicode: [A703]
+Transcription: A703
+
+`KE Wc 2b
+Unicode: [A702][A702]
+Transcription: A702-A702
+
+KH 1
+Unicode: 𐘧 𐛵𐘝
+Transcription: je A582-AB30/FIC
+
+KH 2
+Unicode: 𐘹[?] [?] 𐙗 [A704] [A636]
+Transcription: tu-? ? A303 A704 A636
+
+KH 3
+Unicode: 𐘯
+Transcription: nu
+
+KH 4
+Unicode: 𐘇𐘬𐘙 𐙚𐙗 [?]
+Transcription: a-du-re A306-A303 ?
+
+KH 5
+Unicode: 𐘇𐘀𐘸𐘤𐘾 𐘇𐘴𐘉𐘀 𐘣𐘞𐘞𐘗 𐜚𐜂 𐘣𐘅𐘬 𐙕𐘅 𐙂𐘂𐙀 𐙗𐘝
+Transcription: a-da-ki-si-ka a-ra-u-da wi-sa-sa-ne A626-A598 wi-na-du A301-na ku-pa-*79 A303-AB30/FIC
+
+KH 6
+Unicode: 𐜙 𐘆𐘤 𐘃𐘯𐘙 𐘸𐘞𐘗 𐜙𐚇𐙗 𐘭𐘳𐘧 𐜙𐘔𐜙𐘕𐘂 𐘙 𐙺𐜙 𐘢𐘞 𐜙 𐙄𐘙𐘃 𐙚𐙗
+Transcription: A624 di-si te-nu-re ki-sa-ne A624-A347-A303 ri-ta-je A624-AB22/CAPm-A624-AB23/BOS-AB03 re A334-A624 pi-sa A624 au-re-te A306-A303
+
+KH 7a
+Unicode: [?] [A641]𐜙 𐘚 𐜚 𐘡𐘅𐘤 𐛪𐜙 𐘚𐘱𐘂𐘋 𐘳𐘳 𐘌𐘠𐘸 𐛪𐜙 𐘈𐙙 𐙂[?]𐘺𐘡 𐛪𐜙
+Transcription: ? A641-A624 i A626 e-na-si A571-A624 i-ja-pa-me ta-ta qa-ti-ki A571-A624 se-A305 ku-?-ko-e A571-A624
+
+KH 7b
+Unicode: 𐘉𐘳𐘚𐘈 𐜙 𐘂𐘅𐘹 𐜙𐜝𐘤𐜛
+Transcription: u-ta-i-se A624 pa-na-tu A624-A629-AB41-A627
+
+KH 8
+Unicode: 𐘙[?] [?]𐘳 𐜙𐘝 [?] 𐙉𐙘 𐘝 𐙗[A567]𐘝𐙢𐚻
+Transcription: re-? ?-ta A624-AB30/FIC ? AB120/GRA-A304 AB30/FIC A303-A567-AB30/FIC-A312-A510
+
+KH 9
+Unicode: 𐘇𐘤𐘲𐘊𐘇 𐛨𐘝𐘻 𐘚𐘤 𐜙𐙗𐙍𐙗𐛌𐙘
+Transcription: a-si-su-po-a A569-AB30/FIC-AB73 i-si A624-A303-AB131/VINa-A303-A532-A304
+
+KH 10
+Unicode: [?] 𐙉 𐘚𐘂𐘞𐘱 𐘌𐙈 𐘇𐘸𐘢𐘡𐘃 𐙉
+Transcription: ? AB120/GRA i-pa-sa-ja qa-*118 a-ki-pi-e-te AB120/GRA
+
+KH 11
+Unicode: 𐘇𐘬[?]𐘍 𐙗𐘲𐜚𐙍𐙚𐙗[A647] [?] 𐘇𐘄𐚉𐘄𐘚 [?] 𐜚𐘝𐙍 [?] 𐘇𐘳𐚊 𐙕𐙚[A533] [?]
+Transcription: a-du-?-za A303-AB58-A626-AB131/VINa-A306-A303-A647 ? a-to-A349-to-i ? A626-AB30/FIC-AB131/VINa ? a-ta-A350 A301-A306-A533 ?
+
+KH 12
+Unicode: 𐙗𐙜𐛚𐙻𐛀𐜫𐜩 𐜩
+Transcription: A303-A308-A550-A335-A516-A653-A651 A651
+
+KH 13
+Unicode: 𐘇𐘈𐘙𐘍 [A632] [?]𐘀𐘚
+Transcription: a-se-re-za A632 ?-da-i
+
+KH 14
+Unicode: 𐘴 𐘇𐙁𐘱 𐜚𐙗𐙼𐙗𐘝𐛨 𐙗
+Transcription: ra a-ma-ja A626-A303-A336-A303-AB30/FIC-A569 A303
+
+KH 15
+Unicode: 𐙗𐘝𐘝
+Transcription: A303-AB30/FIC-AB30/FIC
+
+KH 16
+Unicode: 𐙗 𐘉𐘳𐘚𐘤 𐜙 𐘳[?]
+Transcription: A303 u-ta-i-si A624 ta-?
+
+KH 17
+Unicode: 𐘝𐘝 𐘇
+Transcription: AB30/FIC-AB30/FIC a
+
+KH 18
+Unicode: 𐜨 𐘚𐙂𐘢 [AB131c]𐙂𐘤𐚵[AB131c]𐚶
+Transcription: A649 i-ku-pi AB131/VINc-AB81-AB41-A503-AB131/VINc-A504
+
+KH 19
+Unicode: [A635][?]𐜐
+Transcription: A635-?-A615
+
+KH 20
+Unicode: 𐘇𐘤𐘸𐘴 𐜚 𐘬𐘙𐘍 𐜚𐘝
+Transcription: a-si-ki-ra A626 du-re-za A626-AB30/FIC
+
+KH 21
+Unicode: 𐙗𐘝 𐙚𐘿𐘬
+Transcription: A303-AB30/FIC A306-qe-du
+
+KH 22
+Unicode: [?]𐘍 𐘲𐜚𐘤𐙗
+Transcription: ?-za AB58-A626-AB41-A303
+
+KH 23
+Unicode: 𐘇𐘬 𐙗[?]
+Transcription: a-du A303-?
+
+KH 24
+Unicode: [?]𐘲 [?]
+Transcription: ?-su ?
+
+KH 25
+Unicode: [AB100][AB100]
+Transcription: AB100/VIR-AB100/VIR
+
+KH 26
+Unicode: [AB100]𐘝[?][?]
+Transcription: AB100/VIR-AB30/FIC-?-?
+
+KH 27
+Unicode: 𐘝𐛭 𐙗
+Transcription: AB30/FIC-A574 A303
+
+KH 28
+Unicode: 𐘈 𐛵
+Transcription: se A582
+
+KH 29
+Unicode: [?]𐘴 𐘷[?] 𐙂𐘂 𐙗
+Transcription: ?-ra ta_2-? ku-pa A303
+
+KH 30
+Unicode: 𐘝
+Transcription: AB30/FIC
+
+KH 31
+Unicode: 𐜨𐜪
+Transcription: A649-A652
+
+KH 32
+Unicode: 𐘚𐙷
+Transcription: i-A331
+
+KH 33
+Unicode: 𐜙 [?]𐘇
+Transcription: A624 ?-a
+
+KH 34
+Unicode: 𐜚𐘝
+Transcription: A626-AB30/FIC
+
+KH 35
+Unicode: [?] 𐙗
+Transcription: ? A303
+
+KH 36
+Unicode: 𐘾 𐛚 𐘅
+Transcription: ka A550 na
+
+KH 37
+Unicode: 𐜜 𐘣 𐜜
+Transcription: A628 wi A628
+
+KH 38
+Unicode: 𐜙
+Transcription: A624
+
+KH 39
+Unicode: 𐘇𐘳[?] 𐜐
+Transcription: a-ta-? A615
+
+KH 40
+Unicode: 𐘤𐘅[?]
+Transcription: si-na-?
+
+KH 41
+Unicode: 𐘾𐘳𐘙
+Transcription: ka-ta-re
+
+KH 42
+Unicode: 𐜟
+Transcription: A637
+
+KH 43
+Unicode: [A562]𐛇
+Transcription: A562-A527
+
+KH 44
+Unicode: [N800] 𐙻
+Transcription: N800 A335
+
+KH 45
+Unicode: 𐘇
+Transcription: a
+
+KH 46
+Unicode: 𐙍
+Transcription: AB131/VINa
+
+KH 47
+Unicode: 𐘌𐘗 𐘤 𐘴 𐙚
+Transcription: qa-ne si ra A306
+
+KH 49
+Unicode: [?]𐘘 𐙂
+Transcription: ?-ru ku
+
+KH 50
+Unicode: [?]𐘳 𐘧 𐘿
+Transcription: ?-ta je qe
+
+KH 51
+Unicode: 𐘤𐘚𐘤 𐘹
+Transcription: si-i-si tu
+
+KH 52
+Unicode: 𐘳𐘉
+Transcription: ta-u
+
+KH 53
+Unicode: 𐘇𐘋𐙌 𐘗
+Transcription: a-me-*123 ne
+
+KH 54
+Unicode: 𐜚𐙉
+Transcription: A626-AB120/GRA
+
+KH 55
+Unicode: 𐜐𐘝
+Transcription: A615-AB30/FIC
+
+KH 56
+Unicode: -
+Transcription: -
+
+KH 57
+Unicode: 𐘹 𐘎 𐙗 [?]
+Transcription: tu zo A303 ?
+
+KH 58
+Unicode: 𐙗𐘝𐜚 𐘇 𐜚𐙗 𐘇𐙕
+Transcription: A303-AB30/FIC-A626 a A626-A303 a-A301
+
+KH 59
+Unicode: 𐘚 𐘆𐘅
+Transcription: i di-na
+
+KH 60
+Unicode: 𐘴𐘸𐘳𐘅𐘤 [AB131][A543]𐛚 [?]
+Transcription: ra-ki-ta-na-si AB131/VIN-A543-A550 ?
+
+KH 61
+Unicode: [?] [AB131c] 𐙁 [?] 𐜐𐙗[AB130]
+Transcription: ? AB131/VINc ma ? A615-A303-AB130
+
+KH 62
+Unicode: 𐙁
+Transcription: ma
+
+KH 63
+Unicode: 𐘲 𐜩
+Transcription: su A651
+
+KH 64
+Unicode: 𐘳[?] [?]
+Transcription: ta-? ?
+
+KH 65
+Unicode: 𐘝
+Transcription: ni
+
+KH 66
+Unicode: -
+Transcription: -
+
+KH 67
+Unicode: [?]
+Transcription: ?
+
+KH 68
+Unicode: 𐜨 [?][?]
+Transcription: A649 ?-?
+
+KH 69
+Unicode: [?]
+Transcription: ?
+
+KH 70
+Unicode: [?][?]
+Transcription: ?-?
+
+KH 72
+Unicode: [?]
+Transcription: ?
+
+KH 73
+Unicode: [?][?]𐘇 𐘝𐜝 𐘇[?]
+Transcription: ?-?-a AB30/FIC-A629 a-?
+
+KH 74
+Unicode: [?]𐘤 𐘱𐘀𐘲 𐘤 [A605]
+Transcription: ?-si ja-da-su si A605
+
+KH 75
+Unicode: [A707] 𐙗 [A708][A7092] 𐘝 [A702]
+Transcription: A707 A303 A708-A7092 AB30/FIC A702
+
+KH 76
+Unicode: 𐘤 𐙗 [A704][A7096]
+Transcription: si A303 A704-A7096
+
+KH 77
+Unicode: 𐜚 [A710] [?]
+Transcription: A626 A710 ?
+
+KH 78
+Unicode: -
+Transcription: -
+
+KH 79
+Unicode: [?]𐘂𐘀
+Transcription: ?-pa-da
+
+KH 79+89
+Unicode: 𐘻𐘅 𐘂𐘳 𐘇𐘴 [?]𐘂𐘀𐘝
+Transcription: mi-na pa-ta a-ra ?-pa-da-ni
+
+KH 80
+Unicode: [?] [A703] [AB302]
+Transcription: ? A703 AB302/OLE
+
+KH 81
+Unicode: [?] 𐛛 [?]
+Transcription: ? A551 ?
+
+KH 82
+Unicode: 𐜏 [A7092] 𐙧𐙻
+Transcription: A614 A7092 A315-A335
+
+KH 83
+Unicode: 𐘇𐘆𐘗 [A650]𐜩
+Transcription: a-di-ne A650-A651
+
+KH 84
+Unicode: 𐙗 [A707] 𐙕𐙚𐜩 [?]
+Transcription: A303 A707 A301-A306-A651 ?
+
+KH 85
+Unicode: 𐜐 [A707] 𐙜𐜩 [A708] [AB131c][A633] [A703] [AB302]
+Transcription: A615 A707 A308-A651 A708 AB131/VINc-A633 A703 AB302/OLE
+
+KH 86
+Unicode: 𐘙𐘍 𐙗𐙗 [A701][A702][A702] 𐘢𐘯 𐙗 [A707][A704] [?]
+Transcription: re-za A303-A303 A701-A702-A702 pi-nu A303 A707-A704 ?
+
+KH 88
+Unicode: 𐘌𐘯𐙁 𐘐𐙈 𐘝 𐘫𐘦
+Transcription: qa-nu-ma qif-*118 AB30/FIC pu-de
+
+KH 90
+Unicode: [?]𐘱[?] 𐙁𐘳𐘭𐘳
+Transcription: ?-ja-? ma-ta-ri-ta
+
+KH 91
+Unicode: 𐙉𐙍𐙨 [A707][A7092] 𐙀 [A701] 𐘹 [A708] 𐘝𐜩 [A708] 𐜪
+Transcription: AB120/GRA-AB131/VINa-A316 A707-A7092 *79 A701 AB69 A708 AB30/FIC-A651 A708 A652
+
+KH 92
+Unicode: 𐘇𐘀𐘐𐘭 𐙂𐘝𐘃 𐘅𐘸 𐘇[?]
+Transcription: a-da-qif-ri ku-ni-te na-ki a-?
+
+KH 93a
+Unicode: -
+Transcription: -
+
+KH 93b
+Unicode: -
+Transcription: -
+
+KH 94
+Unicode: [?] [?] 𐘍
+Transcription: ? ? za
+
+KH 95
+Unicode: 𐘈 [?]
+Transcription: se ?
+
+KH 96
+Unicode: [A709][A702][A702]
+Transcription: A709-A702-A702
+
+KH 97
+Unicode: [?] [A7092] 𐙚 [A707] 𐘖
+Transcription: ? A7092 A306 A707 AB23/BOSm
+
+KH 97a
+Unicode: 𐘙 𐘇𐘱 𐘅
+Transcription: re a-ja na
+
+KH 97b
+Unicode: 𐘈 𐘚 [?]
+Transcription: se i ?
+
+KH 99
+Unicode: 𐘂𐘭𐘦 [?] 𐘇𐘤𐙈 𐙂𐘾[?]
+Transcription: pa-ri-de ? a-si-*118 ku-ka-?
+
+KH 100
+Unicode: 𐚌𐙚 𐘁 [?] 𐙍 𐘦 [A704]
+Transcription: A352-A306 ro ? AB131/VINa de A704
+
+KH 101
+Unicode: [?] 𐙗 [A707][A704]
+Transcription: ? A303 A707-A704
+
+KH 102
+Unicode: 𐘇𐘻
+Transcription: a-mi
+
+KH 103
+Unicode: [?]𐛘𐜐𐙗𐙍[?]
+Transcription: ?-A548-A615-A303-AB131/VINa-?
+
+KH 104
+Unicode: [?] 𐘈 𐙉 [A707] 𐘂𐘨 𐘀𐘙 𐙉 [?]
+Transcription: ? se AB120/GRA A707 pa-*47 da-re AB120/GRA ?
+
+KH 105
+Unicode: [?]𐘸𐘠
+Transcription: ?-ki-ti
+
+KH Wa 1001α
+Unicode: 𐜡
+Transcription: A640
+
+KH Wa 1001γ
+Unicode: 𐚳
+Transcription: A501
+
+KH Wa 1002α
+Unicode: 𐜡
+Transcription: A640
+
+KH Wa 1002γ
+Unicode: 𐚳
+Transcription: A501
+
+KH Wa 1003
+Unicode: 𐙃 [A707] [?]
+Transcription: AB82 A707 ?
+
+KH Wa 1004
+Unicode: 𐙃 [A707]
+Transcription: AB82 A707
+
+KH Wa 1005
+Unicode: 𐘼
+Transcription: AB74
+
+KH Wa 1006
+Unicode: 𐘼
+Transcription: AB74
+
+KH Wa 1007
+Unicode: 𐘼
+Transcription: AB74
+
+KH Wa 1008
+Unicode: 𐘼
+Transcription: AB74
+
+KH Wa 1009
+Unicode: 𐘼
+Transcription: AB74
+
+KH Wa 1010
+Unicode: 𐘼
+Transcription: AB74
+
+KH Wa 1011
+Unicode: 𐙕
+Transcription: A301
+
+KH Wa 1012
+Unicode: 𐙕
+Transcription: A301
+
+KH Wa 1013α
+Unicode: 𐙅
+Transcription: *86
+
+KH Wa 1013γ
+Unicode: 𐘁
+Transcription: ro
+
+KH Wa 1014α
+Unicode: 𐙅
+Transcription: *86
+
+KH Wa 1014γ
+Unicode: 𐘁
+Transcription: ro
+
+KH Wa 1015α
+Unicode: 𐙅
+Transcription: *86
+
+KH Wa 1015γ
+Unicode: 𐘁
+Transcription: ro
+
+KH Wa 1016α
+Unicode: 𐙅
+Transcription: *86
+
+KH Wa 1016γ
+Unicode: 𐘁
+Transcription: ro
+
+KH Wa 1017
+Unicode: 𐙕
+Transcription: A301
+
+KH Wa 1018
+Unicode: 𐚟
+Transcription: A371
+
+KH Wa 1019
+Unicode: [A704]
+Transcription: A704
+
+KH Wa 1020
+Unicode: [?]
+Transcription: ?
+
+KH Wc 2001
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2002
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2004
+Unicode: [AB100]
+Transcription: AB100/VIR
+
+KH Wc 2005
+Unicode: 𐘾𐘅𐘝𐘠
+Transcription: ka-na-ni-ti
+
+KH Wc 2006
+Unicode: [A417]
+Transcription: A417VAS
+
+KH Wc 2007
+Unicode: [A417]
+Transcription: A417VAS
+
+KH Wc 2008
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2009
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2010
+Unicode: [A411]
+Transcription: A411VAS
+
+KH Wc 2011
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2012
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2013
+Unicode: [A411c]
+Transcription: A411VASc
+
+KH Wc 2014
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2015
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2016
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2017
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2018
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2019
+Unicode: [A411a]
+Transcription: A411VASa
+
+KH Wc 2020
+Unicode: [A409]
+Transcription: A409VAS
+
+KH Wc 2021
+Unicode: [A409]
+Transcription: A409VAS
+
+KH Wc 2022
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2023
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2024
+Unicode: [A411b]
+Transcription: A411VASb
+
+KH Wc 2025
+Unicode: [A409]
+Transcription: A409VAS
+
+KH Wc 2026
+Unicode: 𐙮
+Transcription: A322
+
+KH Wc 2027
+Unicode: 𐙮
+Transcription: A322
+
+KH Wc 2028
+Unicode: 𐙔
+Transcription: AB191
+
+KH Wc 2029
+Unicode: 𐛧
+Transcription: A568
+
+KH Wc 2030
+Unicode: 𐛧
+Transcription: A568
+
+KH Wc 2031
+Unicode: 𐛧
+Transcription: A568
+
+KH Wc 2032
+Unicode: 𐛧
+Transcription: A568
+
+KH Wc 2033
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2034
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2035
+Unicode: 𐘵
+Transcription: o
+
+KH Wc 2036
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2037
+Unicode: [AB164d]
+Transcription: AB164d
+
+KH Wc 2038
+Unicode: [AB164d]
+Transcription: AB164d
+
+KH Wc 2039
+Unicode: [AB164d]
+Transcription: AB164d
+
+KH Wc 2040
+Unicode: [AB164b]
+Transcription: AB164b
+
+KH Wc 2041
+Unicode: [AB164c]
+Transcription: AB164c
+
+KH Wc 2042
+Unicode: [AB164a]
+Transcription: AB164a
+
+KH Wc 2043
+Unicode: [AB164a]
+Transcription: AB164a
+
+KH Wc 2044
+Unicode: [AB164a]
+Transcription: AB164a
+
+KH Wc 2045
+Unicode: [AB164d]
+Transcription: AB164d
+
+KH Wc 2046
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2047
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2048
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2049
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2050
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2051
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2052
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2053
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2054
+Unicode: [A605]
+Transcription: A605
+
+KH Wc 2055
+Unicode: [A605]
+Transcription: A605
+
+KH Wc 2056
+Unicode: 𐜥
+Transcription: A645
+
+KH Wc 2057
+Unicode: 𐜥
+Transcription: A645
+
+KH Wc 2058
+Unicode: 𐛦
+Transcription: A566
+
+KH Wc 2059
+Unicode: 𐛦
+Transcription: A566
+
+KH Wc 2060
+Unicode: 𐛦
+Transcription: A566
+
+KH Wc 2061
+Unicode: 𐛦
+Transcription: A566
+
+KH Wc 2062
+Unicode: 𐘏
+Transcription: AB21/OVIS
+
+KH Wc 2064
+Unicode: 𐛝
+Transcription: A553
+
+KH Wc 2065
+Unicode: [A607]
+Transcription: A607
+
+KH Wc 2066
+Unicode: 𐛀
+Transcription: A516
+
+KH Wc 2067
+Unicode: 𐙾 [?]
+Transcription: A338 ?
+
+KH Wc 2068
+Unicode: 𐙾
+Transcription: A338
+
+KH Wc 2069
+Unicode: 𐘖
+Transcription: AB23/BOSm
+
+KH Wc 2070a
+Unicode: 𐛀
+Transcription: A516
+
+KH Wc 2070b
+Unicode: [?]
+Transcription: ?
+
+KH Wc 2084
+Unicode: [A408]
+Transcription: A408VAS
+
+KH Wc 2097
+Unicode: [?]
+Transcription: ?
+
+KH Wc 2098
+Unicode: 𐙮
+Transcription: A322
+
+KH Wc 2099
+Unicode: 𐛝
+Transcription: A553
+
+KH Wc 2100
+Unicode: [AB100]𐚌𐘱
+Transcription: *100-A352-ja
+
+KH Wc 2101
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2102
+Unicode: 𐘏
+Transcription: AB21/OVIS
+
+KH Wc 2103
+Unicode: [A408]
+Transcription: A408VAS
+
+KH Wc 2104
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2105
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2106
+Unicode: 𐛧
+Transcription: A568
+
+KH Wc 2109
+Unicode: [?]
+Transcription: ?
+
+KH Wc 2110
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2111
+Unicode: [AB164d]
+Transcription: AB164d
+
+KH Wc 2113
+Unicode: 𐜈
+Transcription: A606
+
+KH Wc 2114
+Unicode: [A408]
+Transcription: A408VAS
+
+KH Wc 2115
+Unicode: 𐘵
+Transcription: AB61
+
+KH Wc 2117a
+Unicode: [AB100]
+Transcription: AB100/VIR
+
+KH Wc 2117b
+Unicode: 𐛦
+Transcription: A566
+
+KH Wc 2118
+Unicode: 𐘵
+Transcription: AB61
+
+KN 1a
+Unicode: 𐘱𐙂𐘠 𐘡
+Transcription: ja-ku-ti AB38
+
+KN 1b
+Unicode: 𐘱𐘬𐘴𐘠 𐘡
+Transcription: ja-du-ra-ti AB38
+
+KN 2
+Unicode: 𐘘𐘅 𐙈[A519]
+Transcription: ru-na AB118-A519
+
+KN 22a
+Unicode: 𐘲𐘶𐘳 𐘾𐘧[?]
+Transcription: su-ju-ta ka-je-?
+
+KN 22b
+Unicode: 𐘊𐘆𐘰
+Transcription: po-di-*56
+
+KN 22c
+Unicode: 𐙁𐘲𐘻[?]𐘅[?]
+Transcription: ma-su-mi-?-na-?
+
+KN 28a
+Unicode: 𐘐𐙠[?]𐙉
+Transcription: AB21/OVISf-A310-?-AB120/GRA
+
+KN 28b
+Unicode: [?]𐘃 [A7093] [?] 𐛓 [A7093]
+Transcription: ?-te A7093 ? A540 A7093
+
+KN 32a
+Unicode: 𐘇𐘂[?] 𐘇𐘾𐘳[?]
+Transcription: a-pa-? a-ka-ta-?
+
+KN 32b
+Unicode: [?]𐘃 [?]𐘞𐘫 𐘂 [?]𐘱𐘲 [?]
+Transcription: ?-te ?-sa-pu pa ?-ja-su ?
+
+KN 49
+Unicode: [?] [A7096]
+Transcription: ? A7096
+
+KN 54
+Unicode: [?] [AB131c] [A708]
+Transcription: ? AB131/VINc A708
+
+KN Wb 33a
+Unicode: 𐘌𐘸
+Transcription: qa-ki
+
+KN Wb 33b
+Unicode: 𐘯𐘈[?]
+Transcription: nu-se-?
+
+KN Wc 3
+Unicode: 𐘾𐘚𐘾
+Transcription: ka-i-ka
+
+KN Wc 26a
+Unicode: 𐘘𐘱
+Transcription: ru-ja
+
+KN Wc 26b
+Unicode: 𐘝𐘢
+Transcription: ni-pi
+
+KN Wc 29
+Unicode: 𐘔
+Transcription: AB22/CAPm
+
+KN Wc 30
+Unicode: 𐘱𐘴
+Transcription: ja-ra
+
+KN Wc <24a>
+Unicode: [?][?] [A708]
+Transcription: ?-? A708
+
+KN Wc <24b>
+Unicode: [?]
+Transcription: ?
+
+KN Wc <25>
+Unicode: 𐘾
+Transcription: AB77
+
+KN Za 10a
+Unicode: 𐘳𐘯𐘕𐘠 𐘱𐘞𐘞𐘴𐙁
+Transcription: ta-nu-mu-ti ja-sa-sa-ra-ma
+
+KN Za 10b
+Unicode: 𐘅 𐘀𐘮[?]𐘬𐘮𐘄 𐘚𐘱
+Transcription: na da-wa-?-du-wa-to i-ja
+
+KN Za 17
+Unicode: [?]𐘱𐘿
+Transcription: ?-ja-qe
+
+KN Za 18
+Unicode: [?][?]𐘱 [?][?][?]𐘱 𐘱𐘮[?] [?]
+Transcription: ?-?-ja ?-?-?-ja ja-wa-? ?
+
+KN Zb 4
+Unicode: [?]𐘶 𐘱𐘤 𐘤
+Transcription: ?-ju ja-si si
+
+KN Zb 5
+Unicode: 𐘇𐘹𐘭𐘤𐘠
+Transcription: a-tu-ri-si-ti
+
+KN Zb 20
+Unicode: 𐘅𐘇𐘰
+Transcription: na-a-*56
+
+KN Zb 34
+Unicode: 𐛻
+Transcription: A588
+
+KN Zb 35
+Unicode: 𐘱 𐘆 𐘣 [AB302]𐘝
+Transcription: ja di wi AB302/OLE-AB30/FIC
+
+KN Zb 40
+Unicode: 𐘇𐘂𐘸 𐘉𐘅𐘇
+Transcription: a-pa-ki u-na-a
+
+KN Zc 6
+Unicode: 𐘟𐘠𐘭 𐘇𐘆𐘀𐘸𐘠𐘂𐙂 𐘝𐘱𐘯 𐘶𐙂𐘅𐘂𐙂𐘯𐘉[?]𐘚𐙀
+Transcription: *34-ti-ri a-di-da-ki-ti-pa-ku ni-ja-nu ju-ku-na-pa-ku-nu-u-?-i-*79
+
+KN Zc 7
+Unicode: 𐘇𐘾𐘯𐘼𐘠 𐘬𐘴𐘙 𐘇𐙀𐘴 𐘱𐘞𐘴𐘇𐘅𐘗𐘣𐘢[?]
+Transcription: a-ka-nu-ze-ti du-ra-re a-*79-ra ja-sa-ra-a-na-ne-wi-pi-?
+
+KN Ze 16
+Unicode: 𐘇𐘢
+Transcription: a-pi
+
+KN Zf 13
+Unicode: 𐘇𐘙𐘗𐘤𐘆𐙕𐘢𐘥𐘂𐘱𐘳𐘭𐘈𐘃𐘭𐘕𐘇𐘱𐙂
+Transcription: a-re-ne-si-di-A301-pi-ke-pa-ja-ta-ri-se-te-ri-mu-a-ja-ku
+
+KN Zg <21>
+Unicode: 𐛈
+Transcription: A528
+
+KY Zg 1
+Unicode: 𐛴
+Transcription: A581
+
+MA 1a
+Unicode: 𐘚𐘬𐘣 𐘨 𐘿𐘦𐘻𐘯
+Transcription: i-du-wi AB47 qe-de-mi-nu
+
+MA 1b
+Unicode: 𐘇𐙁 𐘨 𐘿𐘦𐘻𐘯
+Transcription: a-ma AB47 qe-de-mi-nu
+
+MA 1c
+Unicode: 𐘠
+Transcription: ti
+
+MA 2a
+Unicode: 𐘬𐘴
+Transcription: du-ra
+
+MA 2b
+Unicode: [?]𐘙𐘠 𐘠 𐘱𐙂 𐘠
+Transcription: ?-re-ti ti ja-ku ti
+
+MA 2c
+Unicode: 𐘉𐘅𐘅 𐘱𐙁𐘉𐘠
+Transcription: u-na-na ja-ma-u-ti
+
+MA 4a
+Unicode: 𐘳𐜅𐜆𐜄𐜃
+Transcription: AB59-A602-A603-A601-A600
+
+MA 4b
+Unicode: 𐘇[?]𐘱 𐙒
+Transcription: a-?-ja AB180
+
+MA 6a
+Unicode: 𐙒𐜅
+Transcription: AB180-A602
+
+MA 6b
+Unicode: 𐙒
+Transcription: AB180
+
+MA 6c
+Unicode: 𐜅[A599][A599]
+Transcription: A602-A599-A599
+
+MA 6d
+Unicode: 𐙒
+Transcription: AB180
+
+MA 9
+Unicode: -
+Transcription: -
+
+MA 10a
+Unicode: 𐘘 𐜲𐜰𐜱
+Transcription: ru A660-A658-A659
+
+MA 10b
+Unicode: 𐘬𐘢𐘃𐘮 𐜭𐜰[?]𐜬𐛄 [A713]
+Transcription: du-pi-te-wa A655-A658-?-A654-A524 A713
+
+MA 10c
+Unicode: 𐜰𐜱[?]
+Transcription: A658-A659-?
+
+MA 10d
+Unicode: 𐜴𐜳
+Transcription: A662-A661
+
+MA Wc 7
+Unicode: 𐙒
+Transcription: AB180
+
+MA Wc <5a>
+Unicode: 𐘇𐘞𐘀𐘾
+Transcription: a-sa-da-ka
+
+MA Wc <5b>
+Unicode: 𐛴
+Transcription: A581
+
+MI 2
+Unicode: 𐘫 𐘬𐘾 𐜪 𐘾
+Transcription: pu du-ka A652 ka
+
+MY Zf 2
+Unicode: [AB43]
+Transcription: *43
+
+PK 1a
+Unicode: 𐘇[?]𐘗𐘠 𐘾𐘌 𐘇𐘬𐘍 𐘷𐘳𐘙 𐘷𐘠𐘃 𐘵𐘾𐘻𐘍𐘚𐘅 𐘵𐘃𐘱 𐘴𐘅𐘹𐘲 𐘝𐘻 𐘹𐘲 𐙁𐘠𐘍𐘚𐘃 𐙁𐘃𐘠 𐙁𐘾𐘚𐘳 [?]
+Transcription: a-?-ne-ti ka-qa a-du-za ta_2-ta-re ta_2-ti-te o-ka-mi-za-i-na o-te-ja ra-na-tu-su ni-mi tu-su ma-ti-za-i-te ma-te-ti ma-ka-i-ta ?
+
+PK 1b
+Unicode: 𐘤
+Transcription: si
+
+PA 1
+Unicode: 𐘇𐙂𐘶𐘂𐙈
+Transcription: a-ku-ju-pa-*118
+
+PE 1
+Unicode: 𐘉𐘾𐘙 𐘇𐘈𐘤𐘅 𐙂𐘂𐘭 [AB100]𐛭 𐘡𐘾 [AB100]𐛭
+Transcription: u-ka-re a-se-si-na ku-pa-ri AB100/VIR-A574 e-ka AB100/VIR-A574
+
+PE 2
+Unicode: [?] [A702] 𐘘𐘢[?] [A702] 𐘞𐙙𐘻 [A705] 𐘇𐙱𐘍 [A704] 𐘇𐘭𐘂 [A704] 𐘌𐘌𐘀 [A707] 𐘄𐘋 [A702] 𐘄𐘪 [?] 𐘙
+Transcription: ? A702 ru-pi-? A702 sa-A305-mi A705 a-A325-za A704 a-ri-pa A704 qa-qa-da A707 to-me A702 to-*49 ? re
+
+PE 6
+Unicode: 𐘚𐘅[?]𐘃 𐘳𐘅𐙁𐘧
+Transcription: i-na-?-te ta-na-ma-je
+
+PH 1a
+Unicode: 𐘆𐘴𐘆𐘅 𐙨 [A706] 𐘱 𐙨𐙗
+Transcription: di-ra-di-na A316 A706 ja A316-A303
+
+PH 1b
+Unicode: [?]𐘅 𐘂𐘝
+Transcription: ?-na AB03-AB30/FIC
+
+PH 2
+Unicode: 𐘇𐘈𐘹𐘐 𐘴𐘵𐘆𐘸 𐘢𐘘𐘡𐘶 𐘈𐘞𐘰
+Transcription: a-se-tu-qif ra-o-di-ki pi-ru-e-ju se-sa-*56
+
+PH 3a
+Unicode: 𐛠𐘳 [?] 𐛡𐛣[A558] 𐘂𐘴 [?][?]
+Transcription: A556-AB59 ? A557-A563-A558 pa-ra ?-?
+
+PH 3b
+Unicode: [?] 𐛘𐘤 𐘄 𐘤
+Transcription: ? A548-AB41 to si
+
+PH 6
+Unicode: 𐘚𐘅𐘮 𐘇𐘭 𐘚𐙀𐘭𐘝𐘳 𐘇𐘭 𐘚𐘀𐘰𐘚𐘞𐘭
+Transcription: i-na-wa a-ri i-*79-ri-ni-ta a-ri i-da-*56-i-sa-ri
+
+PH 7a
+Unicode: 𐘆𐘂𐘱 𐘉𐘆𐘭𐘸 𐘱𐘘𐙁𐘗 𐘱𐘤𐘀𐘴
+Transcription: di-pa-ja u-di-ri-ki ja-ru-ma-ne ja-si-da-ra
+
+PH 7b
+Unicode: 𐘳 𐘀𐘴 [AB131]
+Transcription: ta da-ra AB131/VIN
+
+PH 8a
+Unicode: [A417][AB100]𐙘[A418]
+Transcription: A417VAS-AB100/VIR-A304-A418VAS
+
+PH 8b
+Unicode: 𐙨𐜢
+Transcription: A316-A642
+
+PH 9a
+Unicode: 𐙩𐘿𐚍
+Transcription: A317-qe-A353
+
+PH 9b
+Unicode: [A412]𐙍
+Transcription: A412VAS-AB131/VINa
+
+PH 10
+Unicode: 𐚏𐘡𐚎 𐙒
+Transcription: A355-e-A354 AB180
+
+PH 12a
+Unicode: [?]𐙒𐙿[AB100]
+Transcription: ?-*180-A339-*100
+
+PH 12b
+Unicode: [?]
+Transcription: ?
+
+PH 12c
+Unicode: 𐘃
+Transcription: AB04
+
+PH 13a
+Unicode: 𐙴 𐙒
+Transcription: A328 AB180
+
+PH 13b
+Unicode: 𐚐
+Transcription: A356
+
+PH 13c
+Unicode: 𐘃𐙀
+Transcription: te-*79
+
+PH 14a
+Unicode: 𐘱𐙘 𐘝
+Transcription: ja-A304 AB30/FIC
+
+PH 14b
+Unicode: 𐘇𐘻
+Transcription: a-mi
+
+PH 15a
+Unicode: 𐙁𐘃𐘙 𐙿
+Transcription: ma-te-re A339
+
+PH 15b
+Unicode: [?]𐚑 𐙒
+Transcription: ?-A357 AB180
+
+PH 16a
+Unicode: 𐙬𐘅[?] [?]𐚒𐘝[?]
+Transcription: A320-na-? ?-A358-ni-?
+
+PH 16b
+Unicode: [?]𐘱𐘞 [?]𐙬[?]
+Transcription: ?-ja-sa ?-A320-?
+
+PH 17a
+Unicode: 𐚓
+Transcription: A359
+
+PH 17b
+Unicode: 𐚔
+Transcription: A360
+
+PH 18a
+Unicode: [?]𐘣𐘱
+Transcription: ?-wi-ja
+
+PH 18b
+Unicode: [?]
+Transcription: ?
+
+PH 19
+Unicode: 𐘢𐘵
+Transcription: pi-o
+
+PH 22a
+Unicode: -
+Transcription: -
+
+PH 22b
+Unicode: [?]
+Transcription: ?
+
+PH 24
+Unicode: 𐘁𐘡
+Transcription: ro-e
+
+PH 25
+Unicode: 𐙍 [?]
+Transcription: AB131/VINa ?
+
+PH 26
+Unicode: [?]𐙦
+Transcription: ?-A314
+
+PH 27
+Unicode: 𐘃[?] 𐘇
+Transcription: te-? a
+
+PH 28a
+Unicode: 𐘇𐘰[?] 𐘱𐘸𐘰[?] 𐘇𐘭𐘱
+Transcription: a-*56-? ja-ki-*56-? a-ri-ja
+
+PH 28b
+Unicode: 𐙘 [?]
+Transcription: A304 ?
+
+PH 29a
+Unicode: [?]
+Transcription: ?
+
+PH 29b
+Unicode: [?]
+Transcription: ?
+
+PH 30
+Unicode: [?]𐘠𐘭 𐙁𐘙𐘭𐘻𐘦
+Transcription: ?-ti-ri ma-re-ri-mi-de
+
+PH 31a
+Unicode: [?]𐘇[?] 𐘘 𐚾 𐙁𐘆 𐘑𐘐𐘗 𐙂𐘰𐘯 [A1000] 𐘂𐘳𐘀 𐙂𐘁 𐚾𐘑𐘐
+Transcription: ?-a-? ru A513 ma-di AB21/OVISm-AB21/OVISf-AB24 ku-*56-nu A1000/SUS+SI+RE pa-ta-da ku-ro A513-AB21/OVISm-AB21/OVISf
+
+PH 31b
+Unicode: 𐘓𐘐 𐘬𐘭 𐘔 𐘹[?] 𐘗 𐘔𐘓 𐘃𐘭 𐘑 𐘭𐘘𐙁𐘠 𐘑[A1001] [?] 𐘇𐘻𐘀𐘵 𐘑
+Transcription: AB22/CAPf-AB21/OVISf du-ri AB22/CAPm tu-? ne AB22/CAPm-AB22/CAPf te-ri AB21/OVISm ri-ru-ma-ti AB21/OVISm-A1001/SUS+SI ? a-mi-da-o AB21/OVISm
+
+PH 54
+Unicode: 𐘚𐘞𐘭𐘥 𐘬𐘠[?]
+Transcription: i-sa-ri-ke du-ti-?
+
+PH Wa 32
+Unicode: 𐘲𐘸𐘴𐘳
+Transcription: su-ki-ra-ta
+
+PH Wb 33a
+Unicode: [?]
+Transcription: ?
+
+PH Wb 33b
+Unicode: [?]
+Transcription: ?
+
+PH Wb 34
+Unicode: [?]
+Transcription: ?
+
+PH Wb 35
+Unicode: [?]
+Transcription: ?
+
+PH Wb 36
+Unicode: 𐘃
+Transcription: AB04
+
+PH Wc 37a
+Unicode: 𐘾𐙦𐘤
+Transcription: ka-A314-si
+
+PH Wc 37b
+Unicode: 𐙬
+Transcription: A320
+
+PH Wc 38
+Unicode: 𐙦𐘳𐙁
+Transcription: A314-ta-ma
+
+PH Wc 39a
+Unicode: 𐘱𐘆
+Transcription: ja-di
+
+PH Wc 39b
+Unicode: 𐘁
+Transcription: AB02
+
+PH Wc 40a
+Unicode: 𐙬𐙬𐙁
+Transcription: A320-A320-ma
+
+PH Wc 40b
+Unicode: 𐘁
+Transcription: AB02
+
+PH Wc 41
+Unicode: 𐙍 [A707]
+Transcription: AB131/VINa A707
+
+PH Wc 42
+Unicode: 𐙍
+Transcription: AB131/VINa
+
+PH Wc 43
+Unicode: 𐙍
+Transcription: AB131/VINa
+
+PH Wc 44
+Unicode: 𐘐
+Transcription: AB21/OVISf
+
+PH Wc 45
+Unicode: [?][?][?]
+Transcription: ?-?-?
+
+PH Wc 46
+Unicode: 𐙴 [A704]
+Transcription: A328 A704
+
+PH Wc <47>
+Unicode: 𐙴
+Transcription: A328
+
+PS Za 2
+Unicode: 𐘳𐘅𐘚𐙕𐘠 [?] 𐘱𐘠 𐘱𐘞𐘞𐘴𐘋 𐘙𐘚𐘥
+Transcription: ta-na-i-A301-ti ? ja-ti ja-sa-sa-ra-me re-i-ke
+
+PYR 1
+Unicode: 𐘠𐙁𐘘𐘣𐘃 [A639]𐙍
+Transcription: ti-ma-ru-wi-te A639-AB131/VINa
+
+PYR 2
+Unicode: 𐙘 [A707]
+Transcription: A304 A707
+
+SY Za 4
+Unicode: 𐘇𐘳𐘚𐙕𐘮𐘱 𐘱𐘚𐘩𐘍 𐘰𐘝𐘣
+Transcription: a-ta-i-A301-wa-ja ja-i-nwa-za *56-ni-wi
+
+THE 7a
+Unicode: [?]𐘐
+Transcription: ?-AB21/OVISf
+
+THE 7b
+Unicode: [?]
+Transcription: ?
+
+THE 8
+Unicode: 𐘁 𐛢[A534c]
+Transcription: ro A559-A534c
+
+THE 9
+Unicode: 𐘃𐘕𐘞𐘈
+Transcription: te-mu-sa-se
+
+THE 10
+Unicode: 𐘸
+Transcription: ki
+
+THE 11
+Unicode: 𐜏 [?]
+Transcription: A614 ?
+
+THE 12
+Unicode: 𐘓
+Transcription: AB22/CAPf
+
+TY 2
+Unicode: 𐙞[?]𐘟𐘫𐘢 𐙝[?] 𐙞[?]𐘸𐘫 𐙝[?]𐘀𐘫 [?] 𐘂𐘀𐘘 𐙝𐘶𐘸 𐙝𐘭𐘶 𐙝[?] [AB100] 𐙟𐘭𐘀[?]𐘶 𐙟𐘭𐘾𐘘 𐙞𐘭[?]𐘮𐘶 𐙞𐘭𐘶[?] 𐙞
+Transcription: A309b-?-*34-pu-pi A309a-? A309b-?-ki-pu A309a-?-da-pu ? pa-da-ru A309a-ju-ki A309a-ri-ju A309a-? AB100/VIR A309c-ri-da-?-ju A309c-ri-ka-ru A309b-ri-?-wa-ju A309b-ri-ju-? A309b
+
+TY 3a
+Unicode: 𐘍𐙭 𐜓 [A704] 𐜋 [A514] 𐜌 [A707] 𐜗𐜋 [A707] 𐘇𐘬[?][?] 𐜓𐜔 [A703] 𐜕𐜌 [A707] 𐙋 𐘇𐘀 𐜋𐜗 𐘺𐘇𐘬𐘮 [AB302] [A703] 𐘇𐙂𐘹𐚕 𐘸𐜖
+Transcription: za-A321 A618 A704 A610 A514 A611 A707 A622-A610 A707 a-du-?-? A618-A619 A703 A620-A611 A707 AB122/OLIV a-da A610-A622 ko-a-du-wa AB302/OLE A703 a-ku-tu-A361 AB67-A621
+
+TY 3b
+Unicode: 𐘸𐘭𐘤 𐜗[?] 𐘢𐙂𐙀 𐜓𐜗𐙉𐜍 𐘂𐘻
+Transcription: ki-ri-si A622-? pi-ku-*79 A618-A622-AB120/GRA-A612 pa-mi
+
+ZA 1a
+Unicode: 𐛀 𐘸𐘙𐘍 𐘝𐘍
+Transcription: A516 ki-re-za AB30/FIC-AB17
+
+ZA 1b
+Unicode: 𐘡𐘻[?] 𐘁 𐙉
+Transcription: e-mi-? ro AB120/GRA
+
+ZA 4a
+Unicode: 𐘡 𐘢[?]𐘈 𐘱𐘄𐘱 𐘇𐘠𐘘 𐘱𐘂 𐘹𐘋𐘈 𐘿𐘤𐙀𐘡 [AB28b]𐘯𐙁𐘙 𐘤𐘢𐘸 𐘡𐙃 𐘾𐘆
+Transcription: AB38 pi-?-se ja-to-ja a-ti-ru ja-pa tu-me-se qe-si-*79-e ib-nu-ma-re si-pi-ki e-*82 ka-di
+
+ZA 4b
+Unicode: [AB131]
+Transcription: AB131/VIN
+
+ZA 5a
+Unicode: 𐘐𐙈 [A593] 𐘸𐘝𐙁 𐘵𐘳𐘝𐘍𐘈 𐘞𐘻𐘀𐘡
+Transcription: qif-*118 A593 ki-ni-ma o-ta-ni-za-se sa-mi-da-e
+
+ZA 5b
+Unicode: [AB28b]𐘯𐙁𐘙 𐘤𐘢𐘸 𐙁𐘾𐘚𐘳
+Transcription: ib-nu-ma-re si-pi-ki ma-ka-i-ta
+
+ZA 6a
+Unicode: 𐙙𐘮𐘅 𐙑 𐘟𐘶𐘃𐘻 𐘚𐘈 𐙋𐙋 𐘚 𐘜𐘽 𐛭𐙋𐙘 𐘚𐘈
+Transcription: A305-wa-na AB171 *34-ju-te-mi i-se AB122/OLIV-AB122/OLIV i pu_2-ra_2 A574-AB122/OLIV-A304 i-se
+
+ZA 6b
+Unicode: 𐘚𐙂𐘶𐘠[AB28b] 𐛭𐛿𐜁 𐙢𐘷 𐛭 𐘂𐘍 𐘚𐙁
+Transcription: i-ku-ju-ti-ib A574-A594-A596 A312-ta_2 A574 pa-za i-ma
+
+ZA 7a
+Unicode: 𐘉𐘶 𐘇𐘴𐘹 𐘇𐘙𐘹𐘻
+Transcription: u-ju a-ra-tu a-re-tu-mi
+
+ZA 7b
+Unicode: 𐘇𐙁
+Transcription: a-ma
+
+ZA 8
+Unicode: 𐘸𐘴 𐘇𐘳𐘙 𐘝 𐙂𐘹𐘺𐘙 𐘇𐘭𐘝𐘳 𐘳𐘚𐘯𐙁𐘂 𐙁𐘾𐘚𐘈 𐘀𐘚𐘢𐘳 𐘾𐘚𐘁
+Transcription: ki-ra a-ta-re AB30/FIC ku-tu-ko-re a-ri-ni-ta ta-i-nu-ma-pa ma-ka-i-se da-i-pi-ta ka-i-ro
+
+ZA 9
+Unicode: [?]𐘯𐘠 𐘍[?] [?]𐘴 𐚽 [?] 𐘁𐘤𐘴 𐚽 𐘇𐘳𐘅[?] 𐚽 [?]𐙁𐘶 𐘐 𐘣𐘴𐘙𐘻𐘃 𐘐
+Transcription: ?-nu-ti za-? ?-ra A512 ? ro-si-ra A512 a-ta-na-? A512 ?-ma-ju AB21/OVISf wi-ra-re-mi-te AB21/OVISf
+
+ZA 10a
+Unicode: 𐘳𐘅𐘃 𐘂 𐘇𐙂𐘻𐘅 𐘇𐘳𐘅𐘃 𐘇𐘻𐘀𐘉 𐘇𐘬𐙂𐘻𐘅 𐘀𐘚𐘢𐘳 𐘬𐘙𐘍𐘈
+Transcription: ta-na-te AB03 a-ku-mi-na a-ta-na-te a-mi-da-u a-du-ku-mi-na da-i-pi-ta du-re-za-se
+
+ZA 10b
+Unicode: 𐘮𐚖 𐘬𐘙𐘍𐘈 𐙎 𐘉𐘪 𐙁𐘍 𐙁𐘸𐘦𐘃 𐘞𐙁 𐘇𐘦 𐘇𐘻𐘳 𐘽𐘁𐘙 𐘂𐘱𐘙 𐘾𐙂𐘗𐘃 𐘳𐘬
+Transcription: wa-A362 du-re-za-se AB131/VINb u-*49 ma-za ma-ki-de-te sa-ma a-de a-mi-ta ra_2-ro-re pa-ja-re ka-ku-ne-te AB59-AB51
+
+ZA 11a
+Unicode: 𐘆𐘆𐘺𐘴𐘋𐘷 𐛀𐛭 𐘴𐙁𐘤 𐘡𐙂𐘘 𐘶 𐙍𐛟 𐙂𐘂 𐛭 𐘢𐙠𐘇 𐙋
+Transcription: di-di-ko-ra-me-ta_2 A516-A574 ra-ma-si e-ku-ru AB65 AB131/VINa-A555 ku-pa A574 pi-A310-a AB122/OLIV
+
+ZA 11b
+Unicode: 𐘡𐘄𐘭 𐛀 𐘞𐙕𐘭 𐛭[A518] 𐘚𐘦 𐘴 𐙂𐘂 𐛭
+Transcription: e-to-ri A516 sa-A301-ri A574-A518 i-de AB60 ku-pa A574
+
+ZA 12a
+Unicode: 𐘂𐘠𐘘
+Transcription: AB03-AB37-AB26
+
+ZA 12b
+Unicode: 𐘹𐘂𐘠𐘘
+Transcription: AB69-AB03-AB37-AB26
+
+ZA 13
+Unicode: [?]𐘲𐘂
+Transcription: ?-su-pa
+
+ZA 14
+Unicode: 𐘋𐘸𐘆 𐘐𐙈 𐘫𐘝𐘾𐚗 𐘌𐘠𐘶 𐙂𐘢 𐘹𐘻𐘠𐘍𐘈 𐘂𐘯𐘿 𐘱𐘣
+Transcription: me-ki-di qif-*118 pu-ni-ka-A363 qa-ti-ju ku-pi tu-mi-ti-za-se pa-nu-qe ja-wi
+
+ZA 15a
+Unicode: 𐘨𐙂𐘅 𐘞𐙍 𐘿𐘤𐙀𐘡 𐘚𐘠𐘝𐘞 [A507] 𐘻𐘍𐘈 [AB28b]𐘯𐙁𐘙 𐘤[?]𐘸 𐘱𐘞𐘕 𐘻𐘀𐘡 𐚘𐘥𐙁𐘈
+Transcription: *47-ku-na AB31-AB131/VINa qe-si-*79-e i-ti-ni-sa A507 mi-za-se ib-nu-ma-re si-?-ki ja-sa-mu mi-da-e A364-ke-ma-se
+
+ZA 15b
+Unicode: 𐘾𐘆 𐙍 𐙂𐘁 𐙍𐛿
+Transcription: ka-di AB131/VINa ku-ro AB131/VINa-A594
+
+ZA 16
+Unicode: [?]𐘤 𐘂𐘲 [?] [?]
+Transcription: ?-si AB03-AB58 ? ?
+
+ZA 18a
+Unicode: 𐘀𐘙𐙂 𐙂𐙭 𐛭𐛭𐜓𐙋
+Transcription: da-re-ku ku-A321 A574-A574-A618-AB122/OLIV
+
+ZA 18b
+Unicode: -
+Transcription: -
+
+ZA 19
+Unicode: 𐘴𐘃[?]
+Transcription: ra-te-?
+
+ZA 20
+Unicode: [?] 𐘬𐘙𐘍𐘈 𐘻[?][?] 𐘤𐘃𐘹 𐘤𐘹 𐘃𐙌 𐘘𐙁𐘳𐘈 𐙂𐘴
+Transcription: ? du-re-za-se mi-?-? si-te-tu si-tu te-*123 ru-ma-ta-se ku-ra
+
+ZA 21a
+Unicode: [?]𐘋 𐘢𐘕 𐙁 𐘃 𐘳𐘥 𐘂 𐘳𐙁𐘢 𐘇 𐙈𐘻
+Transcription: ?-me pi-mu ma te ta-ke pa ta-ma-pi a *118-mi
+
+ZA 21b
+Unicode: 𐘚𐘀 𐘸 𐘞𐘭 [?] [?] 𐘋
+Transcription: i-da ki sa-ri ? ? me
+
+ZA 22
+Unicode: 𐘐𐘑 𐘴 𐘐 𐘬𐘶 𐘐
+Transcription: AB21/OVISf-AB21/OVISm ra AB21/OVISf du-ju AB21/OVISf
+
+ZA 23
+Unicode: 𐘃𐘃 𐘻𐘙
+Transcription: te-te mi-re
+
+ZA 24a
+Unicode: 𐘚𐘀 𐛭
+Transcription: i-da A574
+
+ZA 24b
+Unicode: 𐘳
+Transcription: ta
+
+ZA 25
+Unicode: [?]
+Transcription: ?
+
+ZA 26a
+Unicode: 𐘤𐘃 𐘆𐘆 𐘐 𐘱𐘸 [?]
+Transcription: si-te di-di AB21/OVISf ja-ki ?
+
+ZA 26b
+Unicode: 𐘐
+Transcription: AB21/OVISf
+
+ZA 27
+Unicode: 𐘆𐘸 𐘵𐘻
+Transcription: di-ki o-mi
+
+ZA 28
+Unicode: 𐛭
+Transcription: A574
+
+ZA 29
+Unicode: 𐙁 𐘃
+Transcription: ma te
+
+ZA 30
+Unicode: -
+Transcription: -
+
+ZA 31
+Unicode: 𐘬
+Transcription: du
+
+ZA 32
+Unicode: 𐘱
+Transcription: ja
+
+ZA 33
+Unicode: -
+Transcription: -
+
+ZA Wc 2
+Unicode: 𐘇𐘠𐘾 𐘇𐘬𐘺𐘻 [?]
+Transcription: a-ti-ka a-du-ko-mi ?
