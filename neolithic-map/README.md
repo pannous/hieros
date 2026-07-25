@@ -16,6 +16,17 @@ Then open:
 http://localhost:8765/neolithic-map/
 ```
 
+## Publish
+
+To test, build, and publish the site to Cloudflare:
+
+```sh
+npm run deploy
+```
+
+Wrangler will prompt you to sign in the first time. The script stops before
+publishing if the build or rendered-page test fails.
+
 ## Current Data
 
 - Base map: Wikimedia Commons `Fertile crescent Neolithic B circa 7500 BC.svg`, CC BY-SA 4.0.
