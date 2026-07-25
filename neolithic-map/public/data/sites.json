@@ -1,0 +1,722 @@
+[
+  {
+    "id": "hacilar",
+    "name": "Hacilar",
+    "x": 262.0,
+    "y": 731.46,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Hacilar",
+      "Hacılar"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "parekklishia",
+    "name": "Parekklishia",
+    "x": 301.6,
+    "y": 926.71,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Parekklishia"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "shillourokambos",
+    "name": "Shillourokambos",
+    "x": 207.85,
+    "y": 967.34,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Shillourokambos"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "jerf-el-ahmar",
+    "name": "Jerf el Ahmar",
+    "x": 737.54,
+    "y": 778.27,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Jerf el Ahmar",
+      "Jerf el-Ahmar"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "nevali-cori",
+    "name": "Nevali Cori",
+    "x": 881.29,
+    "y": 690.77,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Nevali Cori",
+      "Nevali Çori",
+      "Nevali Çori"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "tell-mureybit",
+    "name": "Tell Mureybit",
+    "x": 948.47,
+    "y": 834.52,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Mureybet",
+      "Mureybit",
+      "Tell Mureybit"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "abu-hureyra",
+    "name": "Abu Hureyra",
+    "x": 1137.54,
+    "y": 914.21,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Abu Hureyra"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "eynan",
+    "name": "Eynan",
+    "x": 893.33,
+    "y": 1211.13,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Eynan",
+      "Ain Mallaha",
+      "Ein Mallaha"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "ain-ghazal",
+    "name": "Ain Ghazal",
+    "x": 882.85,
+    "y": 1307.96,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Ain Ghazal",
+      "Ayn Ghazal",
+      "'Ain Ghazal"
+    ],
+    "videoIds": [
+      "FscXHo7jXBI"
+    ],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "ali-kosh",
+    "name": "Ali Kosh",
+    "x": 1890.66,
+    "y": 1231.4,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Ali Kosh"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "ganj-dareh",
+    "name": "Ganj Dareh",
+    "x": 1748.48,
+    "y": 1106.4,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Ganj Dareh"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "zeribar",
+    "name": "Zeribar",
+    "x": 1775.04,
+    "y": 950.15,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Zeribar",
+      "Zaribar"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "jarmo",
+    "name": "Jarmo",
+    "x": 1753.16,
+    "y": 859.52,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Jarmo"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "shanidar",
+    "name": "Shanidar",
+    "x": 1520.67,
+    "y": 667.41,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Shanidar"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "gobekli-tepe",
+    "name": "Göbekli Tepe",
+    "x": 1173.47,
+    "y": 776.71,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Göbekli Tepe",
+      "Gobekli Tepe",
+      "Göbekli Tepe"
+    ],
+    "videoIds": [
+      "c6f4gsILSHw",
+      "l_4LGEwwrok",
+      "V-St_WBE3Dc",
+      "u18oIGB_VNE",
+      "9UVnAPqrI1c",
+      "NtiLtjbox9Y",
+      "ITEMLOag4bA",
+      "7oxvFyBGHUs",
+      "0v5aW0tBUT4",
+      "GY45oT1NwQQ",
+      "sML3ZGQvQ0o",
+      "XywPhTMC2ps",
+      "NbQbaLpotW0",
+      "X3QZ3pwRJ0k",
+      "5V3LU7jK1vs",
+      "B5qtwide-I8",
+      "SnSnMoI4NhM",
+      "HJpEEypdPpk",
+      "NFC464-GAqw",
+      "brLNmc6i92k",
+      "whyQFTXAYlQ",
+      "2ASpqF2QxhU",
+      "XsWcq19bEo4",
+      "IFJzydLc9V4",
+      "glA-GM-dB7A",
+      "3xzOWV9AfBg",
+      "ZzairzQcBsw",
+      "DwwwxYUU9JQ",
+      "SLjib4wyExo",
+      "2HymX4SyywY",
+      "quXvoFuf8bs",
+      "sYcc-dJC9hY",
+      "GMs1Z7__elE",
+      "y1YmL9P6Jx0",
+      "loaf9-9MUX8",
+      "1QRoyYzDGRM",
+      "ef21-U1gldo",
+      "tyX_LQHcyK8",
+      "WArwvgp62b4",
+      "WoqMj8VvBpo",
+      "ChzlHvoQJDE",
+      "BpyOeZ9hbl8",
+      "ZNrMucrAGjk",
+      "I61oo5O4L-U",
+      "krRFafM9WKs",
+      "aoGg3VPdVLA",
+      "VsEBU0OT8ww",
+      "jJrZjIJZd6M",
+      "OsRt2vYQ3Is",
+      "7PBSjhCt7Hw",
+      "SzICrlk58iA"
+    ],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "hallan-cemi",
+    "name": "Hallan Cemi",
+    "x": 1123.23,
+    "y": 625.42,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Hallan Cemi",
+      "Hallan Çemi",
+      "Hallan Çemi"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "cayonu",
+    "name": "Cayönu",
+    "x": 1321.15,
+    "y": 680.95,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Cayönu"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "bir-kiseiba",
+    "name": "Bir Kiseiba",
+    "x": 31.57,
+    "y": 2137.15,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Bir Kiseiba"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "elkab",
+    "name": "Elkab",
+    "x": 573.51,
+    "y": 2060.25,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Elkab"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "nabta-playa",
+    "name": "Nabta Playa",
+    "x": 138.32,
+    "y": 2289.21,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Nabta Playa",
+      "Nabta"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "jericho",
+    "name": "Jericho",
+    "x": 628.88,
+    "y": 1301.91,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Jericho"
+    ],
+    "videoIds": [
+      "PZfiDxu2Gso"
+    ],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "tell-aswad",
+    "name": "Tell Aswad",
+    "x": 977.46,
+    "y": 1132.32,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Tell Aswad"
+    ],
+    "videoIds": [
+      "taoczmLPC6U"
+    ],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "as-kl-hoyuk",
+    "name": "Aşıklı Höyük",
+    "x": 753.71,
+    "y": 582.84,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Aşıklı Höyük",
+      "Asikli Hoyuk",
+      "Aşıklı"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "catalhoyuk",
+    "name": "Çatalhöyük",
+    "x": 481.75,
+    "y": 647.82,
+    "coordinateQuality": "svg-label",
+    "periods": [],
+    "aliases": [
+      "Çatalhöyük",
+      "Catalhoyuk",
+      "Catalhöyük"
+    ],
+    "videoIds": [],
+    "source": "SVG label coordinate"
+  },
+  {
+    "id": "karahan-tepe",
+    "name": "Karahan Tepe",
+    "x": 1210,
+    "y": 790,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Karahan Tepe",
+      "Karahantepe"
+    ],
+    "videoIds": [
+      "xMx8kO3WVcE",
+      "Uc1oixyqKx0",
+      "QVPJQJcXmMM",
+      "sINoSihbpS0",
+      "sML3ZGQvQ0o",
+      "X3QZ3pwRJ0k",
+      "zqLquTKdTtg",
+      "tcyIVsmJ_Tw",
+      "oxNJcw6WbjI",
+      "GCVQO1SAcXI",
+      "_Op-zsXiGhA",
+      "xgMLyK8lMuc",
+      "glA-GM-dB7A",
+      "3xzOWV9AfBg",
+      "DwwwxYUU9JQ",
+      "5rUUr14iOGA",
+      "Ng_VBy3QC8U",
+      "GMs1Z7__elE",
+      "OoRG3qhdqmQ",
+      "tyX_LQHcyK8",
+      "zNbHCVo6wI8"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "sefer-tepe",
+    "name": "Sefer Tepe",
+    "x": 1245,
+    "y": 765,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Sefer Tepe"
+    ],
+    "videoIds": [
+      "e7eqbOSFrb8",
+      "4s02rFW-Kxk",
+      "wsFqIfKzuRY",
+      "BpyOeZ9hbl8"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "cakmaktepe",
+    "name": "Çakmaktepe",
+    "x": 1190,
+    "y": 720,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Çakmaktepe",
+      "Cakmaktepe"
+    ],
+    "videoIds": [
+      "RDpEPpjb4-U",
+      "SzICrlk58iA"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "gurcu-tepe",
+    "name": "Gürcü Tepe",
+    "x": 1168,
+    "y": 805,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Gürcü Tepe",
+      "Gurcu Tepe",
+      "Gürcütepe"
+    ],
+    "videoIds": [
+      "b3TsokhRobc"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "harbetsuvan-tepesi",
+    "name": "Harbetsuvan Tepesi",
+    "x": 1230,
+    "y": 735,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Harbetsuvan Tepesi",
+      "Harbetsuvan"
+    ],
+    "videoIds": [
+      "zqLquTKdTtg",
+      "WoqMj8VvBpo"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "boncuklu-tarla",
+    "name": "Boncuklu Tarla",
+    "x": 1445,
+    "y": 735,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Boncuklu Tarla"
+    ],
+    "videoIds": [],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "kurt-tepesi",
+    "name": "Kurt Tepesi",
+    "x": 1220,
+    "y": 835,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Kurt Tepesi"
+    ],
+    "videoIds": [
+      "Pr55TAzSp_Y"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "kahin-tepe",
+    "name": "Kahin Tepe",
+    "x": 1195,
+    "y": 845,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Kahin Tepe"
+    ],
+    "videoIds": [],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "tell-qaramel",
+    "name": "Tell Qaramel",
+    "x": 875,
+    "y": 790,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Tell Qaramel"
+    ],
+    "videoIds": [
+      "OedMUeelOGY"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "ohalo-ii",
+    "name": "Ohalo II",
+    "x": 720,
+    "y": 1185,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Ohalo II"
+    ],
+    "videoIds": [
+      "8kIYN9qLSTM"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "wf16",
+    "name": "WF16",
+    "x": 820,
+    "y": 1450,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "WF16"
+    ],
+    "videoIds": [
+      "iuIHOOLuT_U"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "hilazon-tachtit",
+    "name": "Hilazon Tachtit",
+    "x": 760,
+    "y": 1225,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Hilazon Tachtit"
+    ],
+    "videoIds": [],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "sayburc",
+    "name": "Sayburç",
+    "x": 1175,
+    "y": 830,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Sayburç",
+      "Sayburc"
+    ],
+    "videoIds": [
+      "jtIGyY4nzTA",
+      "ZSGFeS3sCss"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "mendiktepe",
+    "name": "Mendiktepe",
+    "x": 1265,
+    "y": 745,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Mendiktepe"
+    ],
+    "videoIds": [
+      "3xzOWV9AfBg"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "cemka-hoyuk",
+    "name": "Çemka Höyük",
+    "x": 1395,
+    "y": 765,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Çemka Höyük",
+      "Cemka Hoyuk"
+    ],
+    "videoIds": [
+      "8nvVqd6vIMo"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "tasl-tepe",
+    "name": "Taşlı Tepe",
+    "x": 1275,
+    "y": 815,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Taşlı Tepe",
+      "Tasli Tepe"
+    ],
+    "videoIds": [
+      "8TkI3eF3BAI"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "s-rcal-tepe",
+    "name": "Sırçalıtepe",
+    "x": 1300,
+    "y": 780,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Sırçalıtepe",
+      "Sircali Tepe",
+      "SircaliTepe"
+    ],
+    "videoIds": [
+      "aN1vFCxuhkU"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "gre-f-lla-hoyuk",
+    "name": "Gre Fılla Höyük",
+    "x": 1375,
+    "y": 790,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Gre Fılla Höyük",
+      "Gre Filla Hoyuk"
+    ],
+    "videoIds": [
+      "Yp86ppKFKbM"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "direkli-cave",
+    "name": "Direkli Cave",
+    "x": 980,
+    "y": 705,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "Direkli Cave"
+    ],
+    "videoIds": [
+      "hKZA4Cu3Zhc"
+    ],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  },
+  {
+    "id": "en-esur",
+    "name": "En Esur",
+    "x": 710,
+    "y": 1280,
+    "coordinateQuality": "estimated-region",
+    "periods": [],
+    "aliases": [
+      "En Esur",
+      "Ancient New York"
+    ],
+    "videoIds": [],
+    "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
+  }
+]
