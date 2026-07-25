@@ -129,15 +129,14 @@ body {
 .markers {
   position: absolute;
   inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
 }
 
 .site-anchor {
-  position: absolute;
-  display: flex;
-  align-items: center;
-  gap: 4px;
-  transform: translate(-3px, -50%);
-  z-index: 1;
+  color: var(--ink);
+  cursor: pointer;
 }
 
 .site-anchor.is-hidden {
@@ -145,80 +144,36 @@ body {
 }
 
 .map-dot {
-  width: 4px;
-  height: 4px;
-  flex: 0 0 4px;
-  border: 1px solid #fff;
-  border-radius: 50%;
-  background: var(--accent);
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.45);
+  fill: var(--accent);
+  stroke: none;
 }
 
 .site-anchor.no-video .map-dot {
-  background: var(--accent-2);
+  fill: var(--accent-2);
 }
 
 .site-anchor.estimated .map-dot {
-  border-style: dashed;
+  opacity: 0.72;
 }
 
 .site-label {
+  fill: currentColor;
+  stroke: #fffaf0f5;
+  stroke-width: 7px;
+  paint-order: stroke fill;
+  letter-spacing: -0.3px;
+  font: 600 38px/1 ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.site-label.is-label-hidden {
   display: none;
-  max-width: 120px;
-  border: 1px solid rgba(36, 48, 51, 0.25);
-  border-radius: 4px;
-  background: rgba(255, 250, 240, 0.82);
-  color: var(--ink);
-  padding: 1px 4px;
-  font: 600 11px/1.15 ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  text-align: left;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.7);
-  cursor: pointer;
 }
 
-.site-anchor.show-label .site-label {
-  display: block;
-}
-
-.wiki-link {
-  display: none;
-  width: 16px;
-  height: 16px;
-  flex: 0 0 16px;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid rgba(36, 48, 51, 0.25);
-  border-radius: 50%;
-  background: rgba(255, 255, 255, 0.9);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
-}
-
-.site-anchor.show-label .wiki-link {
-  display: inline-flex;
-}
-
-.wiki-link img,
-.detail-wiki-link img {
-  width: 13px;
-  height: 13px;
-  display: block;
-}
-
-.wiki-link:hover,
-.wiki-link:focus-visible {
-  border-color: var(--accent);
+.site-anchor:hover,
+.site-anchor:focus-visible,
+.site-anchor[aria-current="true"] {
+  color: var(--accent);
   outline: none;
-  box-shadow: 0 0 0 3px var(--hit), 0 1px 4px rgba(0, 0, 0, 0.18);
-}
-
-.site-label:hover,
-.site-label:focus-visible,
-.site-label[aria-current="true"] {
-  border-color: var(--accent);
-  background: #fff;
-  outline: none;
-  box-shadow: 0 0 0 3px var(--hit);
-  z-index: 2;
 }
 
 .site-anchor.no-video .site-label {
@@ -246,10 +201,21 @@ body {
   line-height: 1.45;
 }
 
+.detail-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.detail-actions .detail-wiki-link {
+  margin-bottom: 0;
+}
+
 .meta {
   display: grid;
   gap: 6px;
-  padding: 10px 0 10px;
+  padding: 10px 0;
   color: var(--muted);
   font-size: 13px;
 }
@@ -267,6 +233,25 @@ body {
   text-decoration: none;
   font-size: 13px;
   font-weight: 700;
+}
+
+.detail-search-link {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #c73a34;
+  border-radius: 6px;
+  background: #fff;
+  color: #b4231d;
+  padding: 7px 10px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.detail-search-link:hover,
+.detail-search-link:focus-visible {
+  border-color: #8f1712;
+  outline: none;
 }
 
 .detail-wiki-link:hover,
@@ -296,14 +281,14 @@ body {
 .video-link {
   display: grid;
   grid-template-columns: 84px minmax(0, 1fr);
-  gap: 10px;
   align-items: center;
-  color: inherit;
-  text-decoration: none;
+  gap: 10px;
   border: 1px solid var(--line);
-  background: #fff;
   border-radius: 7px;
+  background: #fff;
+  color: inherit;
   padding: 8px;
+  text-decoration: none;
 }
 
 .video-link:hover {
@@ -323,23 +308,51 @@ body {
   line-height: 1.25;
 }
 
-.video-duration {
-  display: block;
+.video-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 9px;
   margin-top: 4px;
   color: var(--muted);
   font-size: 12px;
 }
 
+.coordinate-note {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+
 .source-note {
   margin-top: 20px;
-  padding-top: 14px;
+  padding-top: 10px;
   border-top: 1px solid var(--line);
   color: var(--muted);
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.4;
 }
 
-@media (max-width: 860px) {
+.source-note summary {
+  width: fit-content;
+  cursor: pointer;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+  font-size: 10px;
+}
+
+@supports (color: color-mix(in lab, red, red)) {
+  .source-note summary {
+    color: color-mix(in srgb, var(--muted) 72%, transparent);
+  }
+}
+
+.source-note p {
+  max-width: 34rem;
+  margin: 8px 0 0;
+}
+
+@media (width <= 860px) {
   .app {
     grid-template-columns: 1fr;
   }
@@ -358,9 +371,7 @@ body {
   }
 
   .site-label {
-    max-width: 96px;
-    padding: 1px 3px;
-    font-size: 9px;
+    font-size: 36px;
   }
 
   .detail-panel {
