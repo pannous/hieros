@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { PointerEvent, useEffect, useMemo, useRef, useState } from "react";
 
 const SVG_WIDTH = 2421.2596;
 const SVG_HEIGHT = 2480.3192;
@@ -40,6 +40,16 @@ export default function Home() {
   const [query, setQuery] = useState("");
   const [videoOnly, setVideoOnly] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [zoom, setZoom] = useState(1);
+  const [pan, setPan] = useState({ x: 0, y: 0 });
+  const dragRef = useRef<{ pointerId: number; x: number; y: number } | null>(null);
+  const pointersRef = useRef(new Map<number, { x: number; y: number }>());
+  const pinchRef = useRef<{
+    distance: number;
+    center: { x: number; y: number };
+    zoom: number;
+    pan: { x: number; y: number };
+  } | null>(null);
 
   useEffect(() => {
     async function loadData() {
@@ -83,6 +93,86 @@ export default function Home() {
   const selectedVideos = selectedSite
     ? selectedSite.videoIds.map((id) => videosById.get(id)).filter((video): video is Video => Boolean(video))
     : [];
+  const normalizedQuery = normalize(query.trim());
+  const shouldShowAllLabels = zoom >= 1.65 || normalizedQuery.length > 0;
+
+  function zoomBy(delta: number) {
+    setZoom((current) => {
+      const next = Math.min(4, Math.max(1, Number((current + delta).toFixed(2))));
+      if (next === 1) {
+        setPan({ x: 0, y: 0 });
+      }
+      return next;
+    });
+  }
+
+  function resetView() {
+    setZoom(1);
+    setPan({ x: 0, y: 0 });
+  }
+
+  function handlePointerDown(event: PointerEvent<HTMLDivElement>) {
+    if ((event.target as HTMLElement).closest(".site-label, .zoom-button")) {
+      return;
+    }
+    pointersRef.current.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    if (pointersRef.current.size === 2) {
+      const points = [...pointersRef.current.values()];
+      pinchRef.current = {
+        distance: Math.hypot(points[0].x - points[1].x, points[0].y - points[1].y),
+        center: {
+          x: (points[0].x + points[1].x) / 2,
+          y: (points[0].y + points[1].y) / 2,
+        },
+        zoom,
+        pan,
+      };
+      dragRef.current = null;
+    } else {
+      dragRef.current = { pointerId: event.pointerId, x: event.clientX, y: event.clientY };
+    }
+    event.currentTarget.setPointerCapture(event.pointerId);
+  }
+
+  function handlePointerMove(event: PointerEvent<HTMLDivElement>) {
+    if (pointersRef.current.has(event.pointerId)) {
+      pointersRef.current.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    }
+    if (pinchRef.current && pointersRef.current.size >= 2) {
+      const points = [...pointersRef.current.values()].slice(0, 2);
+      const distance = Math.hypot(points[0].x - points[1].x, points[0].y - points[1].y);
+      const center = {
+        x: (points[0].x + points[1].x) / 2,
+        y: (points[0].y + points[1].y) / 2,
+      };
+      const nextZoom = Math.min(4, Math.max(1, pinchRef.current.zoom * (distance / pinchRef.current.distance)));
+      setZoom(Number(nextZoom.toFixed(2)));
+      setPan({
+        x: pinchRef.current.pan.x + center.x - pinchRef.current.center.x,
+        y: pinchRef.current.pan.y + center.y - pinchRef.current.center.y,
+      });
+      return;
+    }
+
+    const drag = dragRef.current;
+    if (!drag || drag.pointerId !== event.pointerId) {
+      return;
+    }
+    const dx = event.clientX - drag.x;
+    const dy = event.clientY - drag.y;
+    dragRef.current = { ...drag, x: event.clientX, y: event.clientY };
+    setPan((current) => ({ x: current.x + dx, y: current.y + dy }));
+  }
+
+  function handlePointerUp(event: PointerEvent<HTMLDivElement>) {
+    pointersRef.current.delete(event.pointerId);
+    if (pointersRef.current.size < 2) {
+      pinchRef.current = null;
+    }
+    if (dragRef.current?.pointerId === event.pointerId) {
+      dragRef.current = null;
+    }
+  }
 
   return (
     <main className="app">
@@ -106,60 +196,87 @@ export default function Home() {
           </label>
         </div>
 
-        <div className="map-wrap">
-          <img
-            src="/assets/fertile-crescent-neolithic-b.svg"
-            alt="Fertile Crescent Neolithic B circa 7500 BC map"
-          />
-          <div className="markers" aria-live="polite">
-            {sites.map((site) => {
-              const isVisible = siteMatches(site);
-              const firstVideo = site.videoIds
-                .map((id) => videosById.get(id))
-                .find((video): video is Video => Boolean(video));
-              return (
-                <div
-                  key={site.id}
-                  className={[
-                    "site-anchor",
-                    site.videoIds.length ? "" : "no-video",
-                    site.coordinateQuality === "estimated-region" ? "estimated" : "",
-                    isVisible ? "" : "is-hidden",
-                  ]
-                    .filter(Boolean)
-                    .join(" ")}
-                  style={{
-                    left: `${(site.x / SVG_WIDTH) * 100}%`,
-                    top: `${(site.y / SVG_HEIGHT) * 100}%`,
-                  }}
-                >
-                  <span className="map-dot" aria-hidden="true" />
-                  {firstVideo ? (
-                    <a
-                      className="site-label"
-                      aria-current={site.id === selectedSiteId}
-                      href={firstVideo.url}
-                      rel="noopener noreferrer"
-                      target="_blank"
-                      title={`${site.name}: open ${firstVideo.title}`}
-                      onClick={() => setSelectedSiteId(site.id)}
-                    >
-                      {site.name}
-                    </a>
-                  ) : (
-                    <button
-                      type="button"
-                      className="site-label"
-                      aria-current={site.id === selectedSiteId}
-                      title={`${site.name}: no linked video yet`}
-                      onClick={() => setSelectedSiteId(site.id)}
-                    >
-                      {site.name}
-                    </button>
-                  )}
-                </div>
-              );
-            })}
+        <div
+          className="map-viewport"
+          onPointerDown={handlePointerDown}
+          onPointerMove={handlePointerMove}
+          onPointerUp={handlePointerUp}
+          onPointerCancel={handlePointerUp}
+        >
+          <div className="zoom-controls" aria-label="Map zoom controls">
+            <button className="zoom-button" type="button" onClick={() => zoomBy(0.35)} aria-label="Zoom in">
+              +
+            </button>
+            <button className="zoom-button" type="button" onClick={() => zoomBy(-0.35)} aria-label="Zoom out">
+              -
+            </button>
+            <button className="zoom-button zoom-reset" type="button" onClick={resetView}>
+              {Math.round(zoom * 100)}%
+            </button>
+          </div>
+          <div
+            className="map-wrap"
+            style={{
+              transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoom})`,
+            }}
+          >
+            <img
+              src="/assets/fertile-crescent-neolithic-b.svg"
+              alt="Fertile Crescent Neolithic B circa 7500 BC map"
+              draggable={false}
+            />
+            <div className="markers" aria-live="polite">
+              {sites.map((site) => {
+                const isVisible = siteMatches(site);
+                const firstVideo = site.videoIds
+                  .map((id) => videosById.get(id))
+                  .find((video): video is Video => Boolean(video));
+                const showLabel = shouldShowAllLabels || selectedSiteId === site.id;
+                return (
+                  <div
+                    key={site.id}
+                    className={[
+                      "site-anchor",
+                      showLabel ? "show-label" : "",
+                      site.videoIds.length ? "" : "no-video",
+                      site.coordinateQuality === "estimated-region" ? "estimated" : "",
+                      isVisible ? "" : "is-hidden",
+                    ]
+                      .filter(Boolean)
+                      .join(" ")}
+                    style={{
+                      left: `${(site.x / SVG_WIDTH) * 100}%`,
+                      top: `${(site.y / SVG_HEIGHT) * 100}%`,
+                    }}
+                  >
+                    <span className="map-dot" aria-hidden="true" />
+                    {firstVideo ? (
+                      <a
+                        className="site-label"
+                        aria-current={site.id === selectedSiteId}
+                        href={firstVideo.url}
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        title={`${site.name}: open ${firstVideo.title}`}
+                        onClick={() => setSelectedSiteId(site.id)}
+                      >
+                        {site.name}
+                      </a>
+                    ) : (
+                      <button
+                        type="button"
+                        className="site-label"
+                        aria-current={site.id === selectedSiteId}
+                        title={`${site.name}: no linked video yet`}
+                        onClick={() => setSelectedSiteId(site.id)}
+                      >
+                        {site.name}
+                      </button>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
           </div>
         </div>
       </section>
@@ -221,7 +338,7 @@ export default function Home() {
           ) : (
             <>
               <h1>Neolithic Video Map</h1>
-              <p>Tap a linked site name to open its Ancient Architects video on YouTube.</p>
+              <p>Zoom in or search to reveal site names, then tap a linked name to open its Ancient Architects video on YouTube.</p>
             </>
           )}
         </div>
