@@ -108,7 +108,9 @@
       "Ain Mallaha",
       "Ein Mallaha"
     ],
-    "videoIds": [],
+    "videoIds": [
+      "iXojv93lXz0"
+    ],
     "source": "SVG label coordinate"
   },
   {
@@ -526,7 +528,9 @@
     "aliases": [
       "Boncuklu Tarla"
     ],
-    "videoIds": [],
+    "videoIds": [
+      "WArwvgp62b4"
+    ],
     "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
   },
   {
@@ -583,7 +587,8 @@
       "Ohalo II"
     ],
     "videoIds": [
-      "8kIYN9qLSTM"
+      "8kIYN9qLSTM",
+      "iXojv93lXz0"
     ],
     "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
   },
@@ -612,7 +617,9 @@
     "aliases": [
       "Hilazon Tachtit"
     ],
-    "videoIds": [],
+    "videoIds": [
+      "_10bsSCFZ80"
+    ],
     "source": "Approximate SVG placement from video/site region; replace with NERD/Wikidata coordinate projection."
   },
   {
