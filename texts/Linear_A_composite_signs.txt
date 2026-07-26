@@ -1,0 +1,180 @@
+Linear A composite signs (GORILA A501-A664)
+==============================================
+
+The first field is a single Unicode character where one exists.
+For catalogue signs omitted from Unicode, it is a sequence of the
+encoded components in N3755 order; this is not a claim about final
+ligature positioning or rendering.
+
+Sources:
+- Unicode NamesList 17.0: abc/UCD/NamesList.txt
+- Preliminary Linear A proposal N3755:
+  https://www.unicode.org/L2/L2010/10004-n3755-lineara.pdf
+
+FORMAT
+glyph_or_sequence<TAB>LA_number<TAB>components_if_decomposed
+
+𐚳	LA501
+𐚴	LA502
+𐚵	LA503
+𐚶	LA504
+𐚷	LA505
+𐚸	LA506
+𐘋𐙍	LA507	AB013+AB131A
+𐚹	LA508
+𐚺	LA509
+𐚻	LA510
+𐚼	LA511
+𐚽	LA512
+𐚾	LA513
+𐘗𐘸	LA514	AB024+AB067
+𐚿	LA515
+𐛀	LA516
+𐘚𐙉𐘂	LA517	AB028+AB120+AB003
+𐘚𐙋	LA518	AB028+AB122
+𐘚𐙕	LA519	AB028+A301
+𐛁	LA520
+𐛂	LA521
+𐘞𐙍	LA522	AB031+AB131A
+𐛃	LA523
+𐛄	LA524
+𐛅	LA525
+𐛆	LA526
+𐛇	LA527
+𐛈	LA528
+𐛉	LA529
+𐛊	LA530
+𐛋	LA531
+𐛌	LA532
+𐘤𐙗	LA533	AB041+A303
+𐛍	LA534
+𐛎	LA535
+𐛏	LA536
+𐛐	LA537
+𐛑	LA538
+𐛒	LA539
+𐛓	LA540
+𐛔	LA541
+𐛕	LA542
+𐘷𐙗	LA543	AB066+A303
+𐘸	LA544	AB067
+𐛖	LA545
+𐘸𐙁𐘘	LA546	AB067+AB080+AB026
+𐛗	LA547
+𐛘	LA548
+𐛙	LA549
+𐛚	LA550
+𐛛	LA551
+𐛜	LA552
+𐛝	LA553
+𐛞	LA554
+𐛟	LA555
+𐛠	LA556
+𐛡	LA557
+𐙁𐘘	LA558	AB080+AB026
+𐛢	LA559
+𐙁𐘘	LA560	AB080+AB026
+𐙁𐘘𐘋	LA561	AB080+AB026+AB013
+𐙁𐘘𐘋	LA562	AB080+AB026+AB013
+𐛣	LA563
+𐛤	LA564
+𐛥	LA565
+𐛦	LA566
+𐙇	LA567	A100-102
+𐛧	LA568
+𐛨	LA569
+𐛩	LA570
+𐛪	LA571
+𐛫	LA572
+𐛬	LA573
+𐛭	LA574
+𐛮	LA575
+𐛯	LA576
+𐛰	LA577
+𐛱	LA578
+𐛲	LA579
+𐛳	LA580
+𐛴	LA581
+𐛵	LA582
+𐛶	LA583
+𐛷	LA584
+𐛸	LA585
+𐛹	LA586
+𐛺	LA587
+𐛻	LA588
+𐛼	LA589
+𐙍𐘤	LA590	AB131A+AB041
+𐛽	LA591
+𐛾	LA592
+𐙍𐘲	LA593	AB131A+AB058
+𐛿	LA594
+𐜀	LA595
+𐜁	LA596
+𐙍𐙉	LA597	AB131A+AB120
+𐜂	LA598
+𐙒	LA599	AB180
+𐜃	LA600
+𐜄	LA601
+𐜅	LA602
+𐜆	LA603
+𐜇	LA604
+𐙕𐘽	LA605	A301+AB076
+𐜈	LA606
+𐙕𐚋	LA607	A301+A351
+𐜉	LA608
+𐜊	LA609
+𐜋	LA610
+𐜌	LA611
+𐜍	LA612
+𐜎	LA613
+𐜏	LA614
+𐜐	LA615
+𐜑	LA616
+𐜒	LA617
+𐜓	LA618
+𐜔	LA619
+𐜕	LA620
+𐜖	LA621
+𐜗	LA622
+𐜘	LA623
+𐜙	LA624
+𐙗𐝂𐙘𐘂	LA625	A303+A703+A304+AB003
+𐜚	LA626
+𐜛	LA627
+𐜜	LA628
+𐜝	LA629
+𐙘𐘂𐙗𐝂	LA630	A304+AB003+A303+A703
+𐙘𐘂𐙨𐝂	LA631	A304+AB003+A316+A703
+𐙘𐙗	LA632	A304+A303
+𐙘𐙗	LA633	A304+A303
+𐜞	LA634
+𐙚𐙇𐙛	LA635	A306+A100-102+A307
+𐙚𐙗𐝃	LA636	A306+A303+A704
+𐜟	LA637
+𐜠	LA638
+𐙨𐘁𐙍	LA639	A316+AB002+AB131A
+𐜡	LA640
+𐙩𐘸𐙺	LA641	A317+AB067+A334
+𐜢	LA642
+𐜣	LA643
+𐜤	LA644
+𐜥	LA645
+𐜦	LA646
+𐚈𐙗	LA647	A348+A303
+𐜧	LA648
+𐜨	LA649
+𐚡𐘇	LA650	A401-VAS+AB008
+𐜩	LA651
+𐜪	LA652
+𐜫	LA653
+𐜬	LA654
+𐜭	LA655
+𐜮	LA656
+𐜯	LA657
+𐜰	LA658
+𐜱	LA659
+𐜲	LA660
+𐜳	LA661
+𐜴	LA662
+𐜵	LA663
+𐜶	LA664
