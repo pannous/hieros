@@ -126,7 +126,7 @@ def main() -> None:
         "  https://www.unicode.org/L2/L2010/10004-n3755-lineara.pdf",
         "",
         "FORMAT",
-        "glyph_or_sequence<TAB>LA_number<TAB>components<TAB>conventional_description<TAB>type",
+        "glyph_or_sequence<TAB>LA_number<TAB>components<TAB>conventional_description<TAB>component_signs<TAB>type",
         "",
     ]
 
@@ -142,7 +142,10 @@ def main() -> None:
             kind = "alias" if len(components) == 1 else "decomposed ligature"
         formal = "+".join(components)
         description = "+".join(VALUES.get(component, f"*{component[1:]}") for component in components)
-        lines.append(f"{glyphs}\tLA{number:03d}\t{formal}\t{description}\t{kind}")
+        component_signs = "".join(signs[component] for component in components)
+        lines.append(
+            f"{glyphs}\tLA{number:03d}\t{formal}\t{description}\t{component_signs}\t{kind}"
+        )
 
     OUTPUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
