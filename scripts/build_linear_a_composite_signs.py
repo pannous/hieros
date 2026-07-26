@@ -52,28 +52,73 @@ MISSING = {
     650: ("A401-VAS", "AB008"),
 }
 
+# Conservative conventional labels used in Linear A transliterations. An
+# unlisted component remains in catalogue notation rather than receiving a
+# speculative phonetic or semantic value.
+VALUES = {
+    "AB001": "DA", "AB002": "RO", "AB003": "PA", "AB004": "TE",
+    "AB007": "DI", "AB008": "A", "AB009": "SE", "AB010": "U",
+    "AB013": "ME", "AB016": "QA", "AB021": "OVIS",
+    "AB021F": "OVISf", "AB022M": "CAPm", "AB023": "MU",
+    "AB024": "NE", "AB026": "RU", "AB027": "RE", "AB028": "I",
+    "AB031": "SA", "AB037": "TI", "AB038": "E", "AB039": "PI",
+    "AB040": "WI", "AB041": "SI", "AB050": "PU", "AB051": "DU",
+    "AB053": "RI", "AB054": "WA", "AB056": "PA3", "AB057": "JA",
+    "AB058": "SU", "AB059": "TA", "AB060": "RA", "AB065": "JU",
+    "AB066": "TA2", "AB067": "KI", "AB069": "TU", "AB073": "MI",
+    "AB074": "ZE", "AB076": "RA2", "AB077": "KA", "AB078": "QE",
+    "AB080": "MA", "AB081": "KU", "AB120": "GRA",
+    "AB122": "OLIV", "AB131A": "VINa", "AB131B": "VINb",
+    "A100-102": "VIR", "A302": "OLE", "A702": "1/3",
+    "A703": "1/5", "A704": "1/4", "A705": "1/8",
+    "A706": "fraction-H?", "A708": "1/16", "A709": "fraction-L",
+    "A709-2": "fraction-L2", "A709-3": "fraction-L3",
+    "A713": "OMEGA",
+}
 
-def unicode_signs() -> dict[str, str]:
+
+def unicode_data() -> tuple[dict[str, str], dict[str, tuple[str, ...]], set[str]]:
     signs: dict[str, str] = {}
+    codepoints: dict[str, str] = {}
+    annotations: dict[str, str] = {}
+    current_identifier: str | None = None
     entry = re.compile(r"^([0-9A-F]+)\tLINEAR A SIGN (\S+)(?: .*)?$")
     for line in NAMES_LIST.read_text(encoding="utf-8").splitlines():
         match = entry.match(line)
         if match:
             codepoint, identifier = match.groups()
             signs[identifier] = chr(int(codepoint, 16))
-    return signs
+            codepoints[codepoint] = identifier
+            current_identifier = identifier
+        elif current_identifier and (line.startswith("\t*") or line.startswith("\tx")):
+            annotations[current_identifier] = line
+
+    components: dict[str, tuple[str, ...]] = {}
+    aliases: set[str] = set()
+    for identifier, annotation in annotations.items():
+        numbered = re.fullmatch(r"A(\d+)", identifier)
+        if not numbered or not 501 <= int(numbered.group(1)) <= 664:
+            continue
+        references = re.findall(r"\b([0-9A-F]{5})\b", annotation)
+        resolved = tuple(codepoints[reference] for reference in references)
+        if resolved:
+            components[identifier] = resolved
+        if annotation.startswith("\tx"):
+            aliases.add(identifier)
+    return signs, components, aliases
 
 
 def main() -> None:
-    signs = unicode_signs()
+    signs, unicode_components, aliases = unicode_data()
     lines = [
         "Linear A composite signs (GORILA A501-A664)",
         "==============================================",
         "",
-        "The first field is a single Unicode character where one exists.",
-        "For catalogue signs omitted from Unicode, it is a sequence of the",
-        "encoded components in N3755 order; this is not a claim about final",
-        "ligature positioning or rendering.",
+        "The first field is a single Unicode character where one exists. For",
+        "catalogue signs omitted from Unicode, it is a sequence of the encoded",
+        "components in N3755 order; this is not a claim about final ligature",
+        "positioning or rendering. Every genuine composite has its components",
+        "listed. Entries marked alias are alternate forms, not ligatures.",
         "",
         "Sources:",
         "- Unicode NamesList 17.0: abc/UCD/NamesList.txt",
@@ -81,18 +126,23 @@ def main() -> None:
         "  https://www.unicode.org/L2/L2010/10004-n3755-lineara.pdf",
         "",
         "FORMAT",
-        "glyph_or_sequence<TAB>LA_number<TAB>components_if_decomposed",
+        "glyph_or_sequence<TAB>LA_number<TAB>components<TAB>conventional_description<TAB>type",
         "",
     ]
 
     for number in range(501, 665):
         identifier = f"A{number}"
         if identifier in signs:
-            lines.append(f"{signs[identifier]}\tLA{number:03d}")
-            continue
-        components = MISSING[number]
-        glyphs = "".join(signs[component] for component in components)
-        lines.append(f"{glyphs}\tLA{number:03d}\t" + "+".join(components))
+            glyphs = signs[identifier]
+            components = unicode_components.get(identifier, ())
+            kind = "alias" if identifier in aliases else "ligature"
+        else:
+            components = MISSING[number]
+            glyphs = "".join(signs[component] for component in components)
+            kind = "alias" if len(components) == 1 else "decomposed ligature"
+        formal = "+".join(components)
+        description = "+".join(VALUES.get(component, f"*{component[1:]}") for component in components)
+        lines.append(f"{glyphs}\tLA{number:03d}\t{formal}\t{description}\t{kind}")
 
     OUTPUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
