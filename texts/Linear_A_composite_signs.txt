@@ -13,169 +13,169 @@ Sources:
   https://www.unicode.org/L2/L2010/10004-n3755-lineara.pdf
 
 FORMAT
-glyph_or_sequence<TAB>LA_number<TAB>components<TAB>conventional_description<TAB>type
+glyph_or_sequence<TAB>LA_number<TAB>components<TAB>conventional_description<TAB>component_signs<TAB>type
 
-𐚳	LA501	AB001+AB002	DA+RO	ligature
-𐚴	LA502	AB001+AB027+AB009	DA+RE+SE	ligature
-𐚵	LA503	AB001+A301	DA+*301	ligature
-𐚶	LA504	AB002+AB002	RO+RO	ligature
-𐚷	LA505	AB004+AB002	TE+RO	ligature
-𐚸	LA506	AB007+AB078	DI+QE	ligature
-𐘋𐙍	LA507	AB013+AB131A	ME+VINa	decomposed ligature
-𐚹	LA508	AB016+AB027	QA+RE	ligature
-𐚺	LA509	AB016+AB027+AB050	QA+RE+PU	ligature
-𐚻	LA510	AB016+AB050	QA+PU	ligature
-𐚼	LA511	AB016+AB050+AB027	QA+PU+RE	ligature
-𐚽	LA512	AB021+AB041	OVIS+SI	ligature
-𐚾	LA513	AB022M+AB081	CAPm+KU	ligature
-𐘗𐘸	LA514	AB024+AB067	NE+KI	decomposed ligature
-𐚿	LA515	AB027+AB009	RE+SE	ligature
-𐛀	LA516	AB028	I	alias
-𐘚𐙉𐘂	LA517	AB028+AB120+AB003	I+GRA+PA	decomposed ligature
-𐘚𐙋	LA518	AB028+AB122	I+OLIV	decomposed ligature
-𐘚𐙕	LA519	AB028+A301	I+*301	decomposed ligature
-𐛁	LA520	AB028+A301	I+*301	ligature
-𐛂	LA521	AB031+AB023+AB081	SA+MU+KU	ligature
-𐘞𐙍	LA522	AB031+AB131A	SA+VINa	decomposed ligature
-𐛃	LA523	AB037+AB008	TI+A	ligature
-𐛄	LA524	AB037+A412-VAS	TI+*412-VAS	ligature
-𐛅	LA525	AB038	E	alias
-𐛆	LA526	AB038+AB077	E+KA	ligature
-𐛇	LA527	AB040+AB074	WI+ZE	ligature
-𐛈	LA528	AB041+AB007	SI+DI	ligature
-𐛉	LA529	AB041+AB009	SI+SE	ligature
-𐛊	LA530	AB041+AB013	SI+ME	ligature
-𐛋	LA531	AB041+AB013+AB067	SI+ME+KI	ligature
-𐛌	LA532	AB041+AB066	SI+TA2	ligature
-𐘤𐙗	LA533	AB041+A303	SI+*303	decomposed ligature
-𐛍	LA534	AB051	DU	alias
-𐛎	LA535	AB054+AB081	WA+KU	ligature
-𐛏	LA536	AB054+A312	WA+*312	ligature
-𐛐	LA537	AB056+AB078	PA3+QE	ligature
-𐛑	LA538	AB057+AB026	JA+RU	ligature
-𐛒	LA539	AB057+AB077	JA+KA	ligature
-𐛓	LA540	AB058+AB073	SU+MI	ligature
-𐛔	LA541	AB060+AB077	RA+KA	ligature
-𐛕	LA542	AB065+A317+AB078	JU+*317+QE	ligature
-𐘷𐙗	LA543	AB066+A303	TA2+*303	decomposed ligature
-𐘸	LA544	AB067	KI	alias
-𐛖	LA545	AB067+AB023	KI+MU	ligature
-𐘸𐙁𐘘	LA546	AB067+AB080+AB026	KI+MA+RU	decomposed ligature
-𐛗	LA547	AB069+AB002	TU+RO	ligature
-𐛘	LA548	AB073+AB057	MI+JA	ligature
-𐛙	LA549	A548	*548	alias
-𐛚	LA550	AB073+AB057+AB026	MI+JA+RU	ligature
-𐛛	LA551	AB073+AB057+AB028	MI+JA+I	ligature
-𐛜	LA552	AB073+AB057+AB077	MI+JA+KA	ligature
-𐛝	LA553	AB073+A301	MI+*301	ligature
-𐛞	LA554	AB077+AB008	KA+A	ligature
-𐛟	LA555	AB078+AB120+AB003	QE+GRA+PA	ligature
-𐛠	LA556	AB080	MA	alias
-𐛡	LA557	AB080+AB008	MA+A	ligature
-𐙁𐘘	LA558	AB080+AB026	MA+RU	decomposed ligature
-𐛢	LA559	AB080+AB026	MA+RU	ligature
-𐙁𐘘	LA560	AB080+AB026	MA+RU	decomposed ligature
-𐙁𐘘𐘋	LA561	AB080+AB026+AB013	MA+RU+ME	decomposed ligature
-𐙁𐘘𐘋	LA562	AB080+AB026+AB013	MA+RU+ME	decomposed ligature
-𐛣	LA563	AB080+AB080	MA+MA	ligature
-𐛤	LA564	AB081	KU	alias
-𐛥	LA565	AB086+AB188	*B086+*B188	ligature
-𐛦	LA566	AB086+AB188	*B086+*B188	ligature
-𐙇	LA567	A100-102	VIR	alias
-𐛧	LA568	A100-102+AB077	VIR+KA	ligature
-𐛨	LA569	A100-102+A307	VIR+*307	ligature
-𐛩	LA570	A100-102+A313A	VIR+*313A	ligature
-𐛪	LA571	A100-102+A313B	VIR+*313B	ligature
-𐛫	LA572	A100-102+A313C	VIR+*313C	ligature
-𐛬	LA573	AB120+AB001	GRA+DA	ligature
-𐛭	LA574	AB120+AB003	GRA+PA	ligature
-𐛮	LA575	AB120+AB021F	GRA+OVISf	ligature
-𐛯	LA576	AB120+AB022M	GRA+CAPm	ligature
-𐛰	LA577	AB120+AB055	GRA+*B055	ligature
-𐛱	LA578	AB120+AB078	GRA+QE	ligature
-𐛲	LA579	AB120+AB081	GRA+KU	ligature
-𐛳	LA580	AB120+A702	GRA+1/3	ligature
-𐛴	LA581	AB120+A704	GRA+1/4	ligature
-𐛵	LA582	AB120+A705	GRA+1/8	ligature
-𐛶	LA583	AB120+A706	GRA+fraction-H?	ligature
-𐛷	LA584	AB120+A708+A709-2	GRA+1/16+fraction-L2	ligature
-𐛸	LA585	AB120+A709-2	GRA+fraction-L2	ligature
-𐛹	LA586	AB120+A709-3+A709-3	GRA+fraction-L3+fraction-L3	ligature
-𐛺	LA587	AB122+AB069	OLIV+TU	ligature
-𐛻	LA588	AB131A+AB004	VINa+TE	ligature
-𐛼	LA589	AB131A+AB031	VINa+SA	ligature
-𐙍𐘤	LA590	AB131A+AB041	VINa+SI	decomposed ligature
-𐛽	LA591	AB131A+AB054	VINa+WA	ligature
-𐛾	LA592	AB131A+AB054	VINa+WA	ligature
-𐙍𐘲	LA593	AB131A+AB058	VINa+SU	decomposed ligature
-𐛿	LA594	AB131A+AB060	VINa+RA	ligature
-𐜀	LA595	AB131A+AB060	VINa+RA	ligature
-𐜁	LA596	AB131A+AB077	VINa+KA	ligature
-𐙍𐙉	LA597	AB131A+AB120	VINa+GRA	decomposed ligature
-𐜂	LA598	AB131A+AB040	VINa+WI	ligature
-𐙒	LA599	AB180	*B180	alias
-𐜃	LA600	A804+A702	*804+1/3	ligature
-𐜄	LA601	A804+A709	*804+fraction-L	ligature
-𐜅	LA602	AB180+A702	*B180+1/3	ligature
-𐜆	LA603	AB180+A709	*B180+fraction-L	ligature
-𐜇	LA604	AB188+AB081	*B188+KU	ligature
-𐙕𐘽	LA605	A301+AB076	*301+RA2	decomposed ligature
-𐜈	LA606	A301+A311	*301+*311	ligature
-𐙕𐚋	LA607	A301+A351	*301+*351	decomposed ligature
-𐜉	LA608	A302+AB007	OLE+DI	ligature
-𐜊	LA609	A302+AB008	OLE+A	ligature
-𐜋	LA610	A302+AB010	OLE+U	ligature
-𐜌	LA611	A302+AB021F	OLE+OVISf	ligature
-𐜍	LA612	A302+AB024	OLE+NE	ligature
-𐜎	LA613	A302+AB038	OLE+E	ligature
-𐜏	LA614	A302+AB053	OLE+RI	ligature
-𐜐	LA615	A302+AB059	OLE+TA	ligature
-𐜑	LA616	A302+AB060	OLE+RA	ligature
-𐜒	LA617	A302+AB067	OLE+KI	ligature
-𐜓	LA618	A302+AB067	OLE+KI	ligature
-𐜔	LA619	A302+AB067+AB010	OLE+KI+U	ligature
-𐜕	LA620	A302+AB067+AB013	OLE+KI+ME	ligature
-𐜖	LA621	A302+AB069	OLE+TU	ligature
-𐜗	LA622	A302+AB073	OLE+MI	ligature
-𐜘	LA623	A302+AB078+AB007	OLE+QE+DI	ligature
-𐜙	LA624	A303+A703	*303+1/5	ligature
-𐙗𐝂𐙘𐘂	LA625	A303+A703+A304+AB003	*303+1/5+*304+PA	decomposed ligature
-𐜚	LA626	A303+A704	*303+1/4	ligature
-𐜛	LA627	A303+A708	*303+1/16	ligature
-𐜜	LA628	A304	*304	alias
-𐜝	LA629	A304+AB003	*304+PA	ligature
-𐙘𐘂𐙗𐝂	LA630	A304+AB003+A303+A703	*304+PA+*303+1/5	decomposed ligature
-𐙘𐘂𐙨𐝂	LA631	A304+AB003+A316+A703	*304+PA+*316+1/5	decomposed ligature
-𐙘𐙗	LA632	A304+A303	*304+*303	decomposed ligature
-𐙘𐙗	LA633	A304+A303	*304+*303	decomposed ligature
-𐜞	LA634	A306+AB073	*306+MI	ligature
-𐙚𐙇𐙛	LA635	A306+A100-102+A307	*306+VIR+*307	decomposed ligature
-𐙚𐙗𐝃	LA636	A306+A303+A704	*306+*303+1/4	decomposed ligature
-𐜟	LA637	A307+A301	*307+*301	ligature
-𐜠	LA638	A307+A307	*307+*307	ligature
-𐙨𐘁𐙍	LA639	A316+AB002+AB131A	*316+RO+VINa	decomposed ligature
-𐜡	LA640	A316+AB067	*316+KI	ligature
-𐙩𐘸𐙺	LA641	A317+AB067+A334	*317+KI+*334	decomposed ligature
-𐜢	LA642	A318	*318	alias
-𐜣	LA643	A330+AB001	*330+DA	ligature
-𐜤	LA644	A330+AB031	*330+SA	ligature
-𐜥	LA645	A337+AB188	*337+*B188	ligature
-𐜦	LA646	A341+AB039	*341+PI	ligature
-𐚈𐙗	LA647	A348+A303	*348+*303	decomposed ligature
-𐜧	LA648	A400-VAS+AB053	*400-VAS+RI	ligature
-𐜨	LA649	A401-VAS	*401-VAS	alias
-𐚡𐘇	LA650	A401-VAS+AB008	*401-VAS+A	decomposed ligature
-𐜩	LA651	A401-VAS+AB026	*401-VAS+RU	ligature
-𐜪	LA652	A401-VAS+AB060	*401-VAS+RA	ligature
-𐜫	LA653	A401-VAS+A304	*401-VAS+*304	ligature
-𐜬	LA654	A404-VAS+AB008	*404-VAS+A	ligature
-𐜭	LA655	A405-VAS+A713	*405-VAS+OMEGA	ligature
-𐜮	LA656	A406-VAS+AB044	*406-VAS+*B044	ligature
-𐜯	LA657	A407-VAS+AB008	*407-VAS+A	ligature
-𐜰	LA658	A412-VAS+A704	*412-VAS+1/4	ligature
-𐜱	LA659	A412-VAS+A705	*412-VAS+1/8	ligature
-𐜲	LA660	A413-VAS+AB058	*413-VAS+SU	ligature
-𐜳	LA661	A414-VAS	*414-VAS	alias
-𐜴	LA662	A414-VAS+A705	*414-VAS+1/8	ligature
-𐜵	LA663	A417-VAS+A709-2	*417-VAS+fraction-L2	ligature
-𐜶	LA664	A418-VAS+A709-2	*418-VAS+fraction-L2	ligature
+𐚳	LA501	AB001+AB002	DA+RO	𐘀𐘁	ligature
+𐚴	LA502	AB001+AB027+AB009	DA+RE+SE	𐘀𐘙𐘈	ligature
+𐚵	LA503	AB001+A301	DA+*301	𐘀𐙕	ligature
+𐚶	LA504	AB002+AB002	RO+RO	𐘁𐘁	ligature
+𐚷	LA505	AB004+AB002	TE+RO	𐘃𐘁	ligature
+𐚸	LA506	AB007+AB078	DI+QE	𐘆𐘿	ligature
+𐘋𐙍	LA507	AB013+AB131A	ME+VINa	𐘋𐙍	decomposed ligature
+𐚹	LA508	AB016+AB027	QA+RE	𐘌𐘙	ligature
+𐚺	LA509	AB016+AB027+AB050	QA+RE+PU	𐘌𐘙𐘫	ligature
+𐚻	LA510	AB016+AB050	QA+PU	𐘌𐘫	ligature
+𐚼	LA511	AB016+AB050+AB027	QA+PU+RE	𐘌𐘫𐘙	ligature
+𐚽	LA512	AB021+AB041	OVIS+SI	𐘏𐘤	ligature
+𐚾	LA513	AB022M+AB081	CAPm+KU	𐘔𐙂	ligature
+𐘗𐘸	LA514	AB024+AB067	NE+KI	𐘗𐘸	decomposed ligature
+𐚿	LA515	AB027+AB009	RE+SE	𐘙𐘈	ligature
+𐛀	LA516	AB028	I	𐘚	alias
+𐘚𐙉𐘂	LA517	AB028+AB120+AB003	I+GRA+PA	𐘚𐙉𐘂	decomposed ligature
+𐘚𐙋	LA518	AB028+AB122	I+OLIV	𐘚𐙋	decomposed ligature
+𐘚𐙕	LA519	AB028+A301	I+*301	𐘚𐙕	decomposed ligature
+𐛁	LA520	AB028+A301	I+*301	𐘚𐙕	ligature
+𐛂	LA521	AB031+AB023+AB081	SA+MU+KU	𐘞𐘕𐙂	ligature
+𐘞𐙍	LA522	AB031+AB131A	SA+VINa	𐘞𐙍	decomposed ligature
+𐛃	LA523	AB037+AB008	TI+A	𐘠𐘇	ligature
+𐛄	LA524	AB037+A412-VAS	TI+*412-VAS	𐘠𐚬	ligature
+𐛅	LA525	AB038	E	𐘡	alias
+𐛆	LA526	AB038+AB077	E+KA	𐘡𐘾	ligature
+𐛇	LA527	AB040+AB074	WI+ZE	𐘣𐘼	ligature
+𐛈	LA528	AB041+AB007	SI+DI	𐘤𐘆	ligature
+𐛉	LA529	AB041+AB009	SI+SE	𐘤𐘈	ligature
+𐛊	LA530	AB041+AB013	SI+ME	𐘤𐘋	ligature
+𐛋	LA531	AB041+AB013+AB067	SI+ME+KI	𐘤𐘋𐘸	ligature
+𐛌	LA532	AB041+AB066	SI+TA2	𐘤𐘷	ligature
+𐘤𐙗	LA533	AB041+A303	SI+*303	𐘤𐙗	decomposed ligature
+𐛍	LA534	AB051	DU	𐘬	alias
+𐛎	LA535	AB054+AB081	WA+KU	𐘮𐙂	ligature
+𐛏	LA536	AB054+A312	WA+*312	𐘮𐙢	ligature
+𐛐	LA537	AB056+AB078	PA3+QE	𐘰𐘿	ligature
+𐛑	LA538	AB057+AB026	JA+RU	𐘱𐘘	ligature
+𐛒	LA539	AB057+AB077	JA+KA	𐘱𐘾	ligature
+𐛓	LA540	AB058+AB073	SU+MI	𐘲𐘻	ligature
+𐛔	LA541	AB060+AB077	RA+KA	𐘴𐘾	ligature
+𐛕	LA542	AB065+A317+AB078	JU+*317+QE	𐘶𐙩𐘿	ligature
+𐘷𐙗	LA543	AB066+A303	TA2+*303	𐘷𐙗	decomposed ligature
+𐘸	LA544	AB067	KI	𐘸	alias
+𐛖	LA545	AB067+AB023	KI+MU	𐘸𐘕	ligature
+𐘸𐙁𐘘	LA546	AB067+AB080+AB026	KI+MA+RU	𐘸𐙁𐘘	decomposed ligature
+𐛗	LA547	AB069+AB002	TU+RO	𐘹𐘁	ligature
+𐛘	LA548	AB073+AB057	MI+JA	𐘻𐘱	ligature
+𐛙	LA549	A548	*548	𐛘	alias
+𐛚	LA550	AB073+AB057+AB026	MI+JA+RU	𐘻𐘱𐘘	ligature
+𐛛	LA551	AB073+AB057+AB028	MI+JA+I	𐘻𐘱𐘚	ligature
+𐛜	LA552	AB073+AB057+AB077	MI+JA+KA	𐘻𐘱𐘾	ligature
+𐛝	LA553	AB073+A301	MI+*301	𐘻𐙕	ligature
+𐛞	LA554	AB077+AB008	KA+A	𐘾𐘇	ligature
+𐛟	LA555	AB078+AB120+AB003	QE+GRA+PA	𐘿𐙉𐘂	ligature
+𐛠	LA556	AB080	MA	𐙁	alias
+𐛡	LA557	AB080+AB008	MA+A	𐙁𐘇	ligature
+𐙁𐘘	LA558	AB080+AB026	MA+RU	𐙁𐘘	decomposed ligature
+𐛢	LA559	AB080+AB026	MA+RU	𐙁𐘘	ligature
+𐙁𐘘	LA560	AB080+AB026	MA+RU	𐙁𐘘	decomposed ligature
+𐙁𐘘𐘋	LA561	AB080+AB026+AB013	MA+RU+ME	𐙁𐘘𐘋	decomposed ligature
+𐙁𐘘𐘋	LA562	AB080+AB026+AB013	MA+RU+ME	𐙁𐘘𐘋	decomposed ligature
+𐛣	LA563	AB080+AB080	MA+MA	𐙁𐙁	ligature
+𐛤	LA564	AB081	KU	𐙂	alias
+𐛥	LA565	AB086+AB188	*B086+*B188	𐙅𐙓	ligature
+𐛦	LA566	AB086+AB188	*B086+*B188	𐙅𐙓	ligature
+𐙇	LA567	A100-102	VIR	𐙇	alias
+𐛧	LA568	A100-102+AB077	VIR+KA	𐙇𐘾	ligature
+𐛨	LA569	A100-102+A307	VIR+*307	𐙇𐙛	ligature
+𐛩	LA570	A100-102+A313A	VIR+*313A	𐙇𐙣	ligature
+𐛪	LA571	A100-102+A313B	VIR+*313B	𐙇𐙤	ligature
+𐛫	LA572	A100-102+A313C	VIR+*313C	𐙇𐙥	ligature
+𐛬	LA573	AB120+AB001	GRA+DA	𐙉𐘀	ligature
+𐛭	LA574	AB120+AB003	GRA+PA	𐙉𐘂	ligature
+𐛮	LA575	AB120+AB021F	GRA+OVISf	𐙉𐘐	ligature
+𐛯	LA576	AB120+AB022M	GRA+CAPm	𐙉𐘔	ligature
+𐛰	LA577	AB120+AB055	GRA+*B055	𐙉𐘯	ligature
+𐛱	LA578	AB120+AB078	GRA+QE	𐙉𐘿	ligature
+𐛲	LA579	AB120+AB081	GRA+KU	𐙉𐙂	ligature
+𐛳	LA580	AB120+A702	GRA+1/3	𐙉𐝁	ligature
+𐛴	LA581	AB120+A704	GRA+1/4	𐙉𐝃	ligature
+𐛵	LA582	AB120+A705	GRA+1/8	𐙉𐝄	ligature
+𐛶	LA583	AB120+A706	GRA+fraction-H?	𐙉𐝅	ligature
+𐛷	LA584	AB120+A708+A709-2	GRA+1/16+fraction-L2	𐙉𐝇𐝉	ligature
+𐛸	LA585	AB120+A709-2	GRA+fraction-L2	𐙉𐝉	ligature
+𐛹	LA586	AB120+A709-3+A709-3	GRA+fraction-L3+fraction-L3	𐙉𐝊𐝊	ligature
+𐛺	LA587	AB122+AB069	OLIV+TU	𐙋𐘹	ligature
+𐛻	LA588	AB131A+AB004	VINa+TE	𐙍𐘃	ligature
+𐛼	LA589	AB131A+AB031	VINa+SA	𐙍𐘞	ligature
+𐙍𐘤	LA590	AB131A+AB041	VINa+SI	𐙍𐘤	decomposed ligature
+𐛽	LA591	AB131A+AB054	VINa+WA	𐙍𐘮	ligature
+𐛾	LA592	AB131A+AB054	VINa+WA	𐙍𐘮	ligature
+𐙍𐘲	LA593	AB131A+AB058	VINa+SU	𐙍𐘲	decomposed ligature
+𐛿	LA594	AB131A+AB060	VINa+RA	𐙍𐘴	ligature
+𐜀	LA595	AB131A+AB060	VINa+RA	𐙍𐘴	ligature
+𐜁	LA596	AB131A+AB077	VINa+KA	𐙍𐘾	ligature
+𐙍𐙉	LA597	AB131A+AB120	VINa+GRA	𐙍𐙉	decomposed ligature
+𐜂	LA598	AB131A+AB040	VINa+WI	𐙍𐘣	ligature
+𐙒	LA599	AB180	*B180	𐙒	alias
+𐜃	LA600	A804+A702	*804+1/3	𐝤𐝁	ligature
+𐜄	LA601	A804+A709	*804+fraction-L	𐝤𐝈	ligature
+𐜅	LA602	AB180+A702	*B180+1/3	𐙒𐝁	ligature
+𐜆	LA603	AB180+A709	*B180+fraction-L	𐙒𐝈	ligature
+𐜇	LA604	AB188+AB081	*B188+KU	𐙓𐙂	ligature
+𐙕𐘽	LA605	A301+AB076	*301+RA2	𐙕𐘽	decomposed ligature
+𐜈	LA606	A301+A311	*301+*311	𐙕𐙡	ligature
+𐙕𐚋	LA607	A301+A351	*301+*351	𐙕𐚋	decomposed ligature
+𐜉	LA608	A302+AB007	OLE+DI	𐙖𐘆	ligature
+𐜊	LA609	A302+AB008	OLE+A	𐙖𐘇	ligature
+𐜋	LA610	A302+AB010	OLE+U	𐙖𐘉	ligature
+𐜌	LA611	A302+AB021F	OLE+OVISf	𐙖𐘐	ligature
+𐜍	LA612	A302+AB024	OLE+NE	𐙖𐘗	ligature
+𐜎	LA613	A302+AB038	OLE+E	𐙖𐘡	ligature
+𐜏	LA614	A302+AB053	OLE+RI	𐙖𐘭	ligature
+𐜐	LA615	A302+AB059	OLE+TA	𐙖𐘳	ligature
+𐜑	LA616	A302+AB060	OLE+RA	𐙖𐘴	ligature
+𐜒	LA617	A302+AB067	OLE+KI	𐙖𐘸	ligature
+𐜓	LA618	A302+AB067	OLE+KI	𐙖𐘸	ligature
+𐜔	LA619	A302+AB067+AB010	OLE+KI+U	𐙖𐘸𐘉	ligature
+𐜕	LA620	A302+AB067+AB013	OLE+KI+ME	𐙖𐘸𐘋	ligature
+𐜖	LA621	A302+AB069	OLE+TU	𐙖𐘹	ligature
+𐜗	LA622	A302+AB073	OLE+MI	𐙖𐘻	ligature
+𐜘	LA623	A302+AB078+AB007	OLE+QE+DI	𐙖𐘿𐘆	ligature
+𐜙	LA624	A303+A703	*303+1/5	𐙗𐝂	ligature
+𐙗𐝂𐙘𐘂	LA625	A303+A703+A304+AB003	*303+1/5+*304+PA	𐙗𐝂𐙘𐘂	decomposed ligature
+𐜚	LA626	A303+A704	*303+1/4	𐙗𐝃	ligature
+𐜛	LA627	A303+A708	*303+1/16	𐙗𐝇	ligature
+𐜜	LA628	A304	*304	𐙘	alias
+𐜝	LA629	A304+AB003	*304+PA	𐙘𐘂	ligature
+𐙘𐘂𐙗𐝂	LA630	A304+AB003+A303+A703	*304+PA+*303+1/5	𐙘𐘂𐙗𐝂	decomposed ligature
+𐙘𐘂𐙨𐝂	LA631	A304+AB003+A316+A703	*304+PA+*316+1/5	𐙘𐘂𐙨𐝂	decomposed ligature
+𐙘𐙗	LA632	A304+A303	*304+*303	𐙘𐙗	decomposed ligature
+𐙘𐙗	LA633	A304+A303	*304+*303	𐙘𐙗	decomposed ligature
+𐜞	LA634	A306+AB073	*306+MI	𐙚𐘻	ligature
+𐙚𐙇𐙛	LA635	A306+A100-102+A307	*306+VIR+*307	𐙚𐙇𐙛	decomposed ligature
+𐙚𐙗𐝃	LA636	A306+A303+A704	*306+*303+1/4	𐙚𐙗𐝃	decomposed ligature
+𐜟	LA637	A307+A301	*307+*301	𐙛𐙕	ligature
+𐜠	LA638	A307+A307	*307+*307	𐙛𐙛	ligature
+𐙨𐘁𐙍	LA639	A316+AB002+AB131A	*316+RO+VINa	𐙨𐘁𐙍	decomposed ligature
+𐜡	LA640	A316+AB067	*316+KI	𐙨𐘸	ligature
+𐙩𐘸𐙺	LA641	A317+AB067+A334	*317+KI+*334	𐙩𐘸𐙺	decomposed ligature
+𐜢	LA642	A318	*318	𐙪	alias
+𐜣	LA643	A330+AB001	*330+DA	𐙶𐘀	ligature
+𐜤	LA644	A330+AB031	*330+SA	𐙶𐘞	ligature
+𐜥	LA645	A337+AB188	*337+*B188	𐙽𐙓	ligature
+𐜦	LA646	A341+AB039	*341+PI	𐚁𐘢	ligature
+𐚈𐙗	LA647	A348+A303	*348+*303	𐚈𐙗	decomposed ligature
+𐜧	LA648	A400-VAS+AB053	*400-VAS+RI	𐚠𐘭	ligature
+𐜨	LA649	A401-VAS	*401-VAS	𐚡	alias
+𐚡𐘇	LA650	A401-VAS+AB008	*401-VAS+A	𐚡𐘇	decomposed ligature
+𐜩	LA651	A401-VAS+AB026	*401-VAS+RU	𐚡𐘘	ligature
+𐜪	LA652	A401-VAS+AB060	*401-VAS+RA	𐚡𐘴	ligature
+𐜫	LA653	A401-VAS+A304	*401-VAS+*304	𐚡𐙘	ligature
+𐜬	LA654	A404-VAS+AB008	*404-VAS+A	𐚤𐘇	ligature
+𐜭	LA655	A405-VAS+A713	*405-VAS+OMEGA	𐚥𐝐	ligature
+𐜮	LA656	A406-VAS+AB044	*406-VAS+*B044	𐚦𐘥	ligature
+𐜯	LA657	A407-VAS+AB008	*407-VAS+A	𐚧𐘇	ligature
+𐜰	LA658	A412-VAS+A704	*412-VAS+1/4	𐚬𐝃	ligature
+𐜱	LA659	A412-VAS+A705	*412-VAS+1/8	𐚬𐝄	ligature
+𐜲	LA660	A413-VAS+AB058	*413-VAS+SU	𐚭𐘲	ligature
+𐜳	LA661	A414-VAS	*414-VAS	𐚮	alias
+𐜴	LA662	A414-VAS+A705	*414-VAS+1/8	𐚮𐝄	ligature
+𐜵	LA663	A417-VAS+A709-2	*417-VAS+fraction-L2	𐚱𐝉	ligature
+𐜶	LA664	A418-VAS+A709-2	*418-VAS+fraction-L2	𐚲𐝉	ligature
