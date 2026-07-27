@@ -1,0 +1,176 @@
+DPh — Trilingual Gold/Silver Foundation Inscription of Darius I
+================================================================
+
+IDENTIFICATION
+Siglum: DPh (Kent/Schmitt) = "Darius, Persepolis, inscription h".
+Text identical to DHa (ex-DH) from Hamadan.
+Four foundation documents of the Apadana at Persepolis: two gold tablets
+(DPhG) and two silver (DPhS), found in situ by F. Krefter in 1933 in the
+NE and SE corner deposits, plus one gold + one silver pair from Hamadan.
+Now in Tehran (four in the Ministry of Education, two in the royal palace).
+Trilingual: Old Persian (10 ll.) / Elamite (7 ll.) / Akkadian (8 ll.),
+with minor line-break variation between copies but identical wording.
+
+SOURCES (cross-checked)
+- Herzfeld, Altpersische Inschriften (Berlin 1938), 18f. no. 6, pl. VI
+  -- editio princeps; all three languages line-by-line + synoptic text
+  + German translation.
+- Schmitt, Die altpersischen Inschriften der Achaimeniden (2009), 119f.
+  -- modern critical edition of Old Persian: phonemic sign-level
+  transliteration, normalized transcription, German translation.
+  Cites Kent 1953, 109a/136b-137a; Vallat 1977, 147f.; Trümpelmann 1988,
+  pl. 36-37; Schweiger 1998, I 12f., II 29-31; Schmitt 2000a, 63f. and
+  pl. 32-33; Kuhrt 2007, 476f.
+- English renderings cross-checked against avesta.org and livius.org
+  (both Kent-derived).
+- No independent modern re-edition of the Elamite/Akkadian versions
+  (e.g. Grillot-Susini/Herrenschmidt for Elamite; von Voigtlander/Steve
+  for Akkadian) was accessible; those two versions rest on Herzfeld 1938
+  alone, checked internally against its own synoptic apparatus and
+  against the parallel Old Persian.
+
+NOTE ON CUNEIFORM RECONSTRUCTION
+The Old Persian cuneiform below is a MECHANICAL RECONSTRUCTION: each
+Unicode Old Persian sign (block U+103A0-103D5, verified against the
+Unicode 17.0 code chart) was chosen by applying Kent's documented Old
+Persian orthographic rules (dedicated Ci/Cu signs used where they exist;
+plain vowel sign appended to mark long a/i/u; bare Ca-sign used for
+coda/cluster consonants; XS-ideogram 𐏋 for xšayathiya) to the published
+transliteration. It has NOT been checked against the tablets' photographs
+(Schmitt 2000a pl. 32-33) and should be verified there before being cited
+as a facsimile.
+For the Akkadian and Elamite versions, the source transliterations available
+here do not preserve the logogram-vs-syllabic distinction needed to know
+which signs the scribes actually used (e.g. whether "sarru rabu" was written
+with Sumerograms LUGAL GAL or spelled out) -- reconstructing Unicode
+cuneiform for these two would risk inventing sign choices, so it is
+deliberately omitted. See Herzfeld 1938 pl. VI for the original sign forms.
+
+
+================================================================
+OLD PERSIAN
+================================================================
+
+Transliteration (Herzfeld 1938 / Kent, sign-by-sign, 10 ll., "." = word
+divider):
+1  daryvus . xs . vzrk . xs . xsynam . xs
+2  . dhyuvnam . vistasphya . pu\xe7a
+3  . hxamnisiy . θatiy . daryvu
+4  s . xs . im . xsçrm . ty . adm . dary
+5  amiy . hca . skibis . tyiy . pr
+6  . sugdm . amt . yata . a . kusa .
+7  hca . hiduv . amt . yata . a . sp
+8  rda . tymiy . aurmzda . frabr
+9  . hy . mθist . bganam . mam . au
+10 rmzda . patuv . utamiy . viθm
+
+Normalized transcription (Schmitt 2009):
+§1  Darayava.us, xsayathiya vazrka, xsayathiya xsayathiyanam,
+    xsayathiya dahyunam, Vistaspahya puça, Haxamanisiya.
+§2  thati Darayava.us xsayathiya: ima xsaçam
+    taya adam darayami, haca Sakaibis tayai para Sugdam
+    amata yata a Kusa, haca Hindau amata yata a Sparda,
+    tayamai Auramazda frabara, haya mathista baganam;
+    mam Auramazda patu utamai vitham.
+
+Literal English translation:
+"Darius, the great king, king of kings, king of countries, son of
+Hystaspes, an Achaemenid. Darius the king says: This is the empire
+which I hold, from the Sacae who are beyond Sogdiana as far as Kush,
+from Sind as far as Sardis (Lydia) -- that which Ahuramazda, the
+greatest of the gods, bestowed on me. May Ahuramazda protect me and my
+house."
+
+Unicode cuneiform (reconstructed -- see caveat above), by tablet line,
+word divider 𐏐:
+
+L1  𐎭𐎠𐎼𐎹𐎺𐎢𐏁 𐏐 𐏋 𐏐 𐎺𐏀𐎼𐎣 𐏐 𐏋 𐏐 𐏋𐎹𐎴𐎠𐎶 𐏐 𐏋
+L2  𐎭𐏃𐎹𐎢𐎺𐎴𐎶 𐏐 𐎻𐏁𐎫𐎠𐎿𐎱𐏃𐎹𐎠 𐏐 𐎱𐎢𐏂
+L3  𐏃𐎧𐎠𐎶𐎴𐎡𐏁𐎡𐎹 𐏐 𐎰𐎠𐎫𐎡𐎹 𐏐 𐎭𐎠𐎼𐎹𐎺𐎢𐏁
+L4  𐏋 𐏐 𐎡𐎶 𐏐 𐎧𐏁𐏂𐎶 𐏐 𐎫𐎹 𐏐 𐎠𐎭𐎶 𐏐 𐎭𐎠𐎼𐎹𐎠𐎷𐎹
+L5  𐏃𐎨𐎠 𐏐 𐎿𐎣𐎡𐎲𐎡𐏁 𐏐 𐎫𐎹𐎡𐎹 𐏐 𐎱𐎼
+L6  𐎿𐎢𐎥𐎭𐎶 𐏐 𐎠𐎶𐎫 𐏐 𐎹𐎠𐎫𐎠 𐏐 𐎠 𐏐 𐎤𐎢𐏁𐎠
+L7  𐏃𐎨𐎠 𐏐 𐏃𐎡𐎭𐎢𐎺 𐏐 𐎠𐎶𐎫 𐏐 𐎹𐎠𐎫𐎠 𐏐 𐎠 𐏐 𐎿𐎱𐎼𐎭𐎠
+L8  𐎫𐎹𐎶𐎡𐎹 𐏐 𐎠𐎢𐎼𐎶𐏀𐎭𐎠 𐏐 𐎳𐎼𐎠𐎲𐎼
+L9  𐏃𐎹 𐏐 𐎶𐎰𐎡𐏁𐎫 𐏐 𐎲𐎥𐎴𐎠𐎶 𐏐 𐎶𐎠𐎶 𐏐 𐎠𐎢𐎼𐎶𐏀𐎭𐎠
+L10 𐎱𐎠𐎬𐎺 𐏐 𐎢𐎫𐎠𐎶𐎡𐎹 𐏐 𐎻𐎰𐎶
+
+
+================================================================
+AKKADIAN (Babylonian)
+================================================================
+
+Transliteration (Herzfeld 1938, 8 ll.):
+1  Da-a-ri-ia-wus sarru rabu-u sar sarrani sar matate apal
+2  Us-ta-as-pa A-ha-ma-nis-si-' Da-a-ri-'ia-
+3  wus sarru i-gab-bi: sarrutu agata sa anaku kul-
+4  laka ultu gimirri sa nibirtum Suguddu
+5  adi Kusu ultu Induwa adi
+6  Sapardu sa Ahuramazda iddinu
+7  sa rabu alla ilani Ahuramazda
+8  anaku lissuranni itti ilani u ana bitija.
+
+Literal English translation:
+"Darius, great king, king of kings, king of lands, son of Hystaspes, an
+Achaemenid. Darius the king says: This kingship which I hold, from all
+that is beyond Sogdiana as far as Kush, from India as far as Sardis --
+which Ahuramazda, who (is) greatest among the gods, gave (me); may he
+protect me together with the gods and for my house."
+
+Cuneiform: not reconstructed here -- see caveat above (logogram vs.
+syllabic spelling of the royal titulary cannot be determined from the
+available transliteration). See Herzfeld 1938 pl. VI.
+
+
+================================================================
+ELAMITE
+================================================================
+
+Transliteration (Herzfeld 1938, 7 ll.):
+1  Da-ri-ia-wa-u-is sunki-r sunkik sunki-p-na sunkik da-
+2  ri-ia-u-is-pe-na Wi-is-ta-as-pa-na sa-ak-ri Ha-ka-man-ni-is-si-
+3  ia Da-ri-ia-wa-u-is sunkik na-an-ri sunki-um-me ap-po u-
+4  mar-ri-ra Sa-ak-ka-pe ik-ki-mar Ak-ka-pe Su-uk-ta mi-in-tur
+5  ma Kus u-sa-ia Hi-in-du-is-mar Kus Us-par-ta ap-po
+6  Uramasda u tu-un-is-ta ak-ka ir-sa-ra na-ap-pan-na
+7  u Uramasda un ni-is-ke-is-ne ku-ut-ta ul-hi id-mi
+
+Literal English translation:
+"Darius, king, king of kings, king of the lands (peoples), (he is)
+king; Darius, son of Hystaspes, an Achaemenid. Darius the king says:
+This land which I hold -- from the Saka, who are beyond Sogdiana, to
+Kush; from Sind (that is) beyond, to Kush (and) Sparda (Lydia) -- that
+which Auramazda, the greatest among the gods, gave (to me). And may
+Auramazda, together with the gods, protect this house(hold) for me."
+
+Cuneiform: not reconstructed here -- see caveat above. See Herzfeld
+1938 pl. VI.
+
+
+================================================================
+SYNOPTIC ALIGNMENT TABLE
+================================================================
+
+# | Old Persian | Akkadian | Elamite | English
+--|---|---|---|---
+§1a | Darayava.us xsayathiya vazrka | Dariiawus sarru rabu-u | Dariyawaus sunki-r sunkik | Darius, great king
+§1b | xsayathiya xsayathiyanam | sar sarrani | sunki-p-na sunkik | king of kings
+§1c | xsayathiya dahyunam | sar matate | (na-an-ri) sunki-um-me | king of countries
+§1d | Vistaspahya puça | apal Ustaspa | Wistaspana sakri | son of Hystaspes
+§1e | Haxamanisiya | Ahamanissi' | Hakamannissiya | an Achaemenid
+§2a | thati Darayava.us xsayathiya | Dariiawus sarru igabbi | Dariyawaus sunkik nanri | Darius the king says
+§2b | ima xsaçam taya adam darayami | sarrutu agata sa anaku kullaka | sunkiumme appo umarrira | this is the empire/kingship which I hold
+§2c | haca Sakaibis tayai para Sugdam amata | ultu gimirri sa nibirtum Suguddu | Sakkape ikkimar Akkape Sukta mintur | from the Sacae / all that is beyond Sogdiana
+§2d | yata a Kusa | adi Kusu | ma Kus usaia | as far as Kush
+§2e | haca Hindau amata | ultu Induwa | Hinduismar Kus | from Sind
+§2f | yata a Sparda | adi Sapardu | Usparta appo | as far as Sardis (Lydia)
+§2g | tayamai Auramazda frabara | sa Ahuramazda iddinu | Uramasda utunista | which Ahuramazda bestowed on me
+§2h | haya mathista baganam | sa rabu alla ilani | akka irsara nappanna | the greatest of the gods
+§2i | mam Auramazda patu | Ahuramazda anaku lissuranni | Uramasda un niskesne kutta | may Ahuramazda protect me
+§2j | utamai vitham | itti ilani u ana bitija | ulhi idmi | (together with the gods,) and my house
+
+Note: the Akkadian version alone explicitly adds "together with the
+gods" (itti ilani) to the protection formula (§2i-j) -- noted already
+by Herzfeld -- while Old Persian and Elamite phrase the final clause
+more tersely. Genuine textual variant across the three versions, not a
+translation error.
