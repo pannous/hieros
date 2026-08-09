@@ -2657,6 +2657,9 @@ _𒃶𒉡 	(vessel-)stand, a cripple •¬can
 𒅆𒁉 ši-bi ≈ ǧi-bi 𓋴 𓃀 𓇼 𓏤 गवाह gavāh
 𒅆𒁉 witness
 
+𒅆𒁉𒈪 ši-bi-mi
+𒅆𒁉𒈪 witnesses מם
+
 𒅆𒁍𒌅 	ši-bu-tu <> Siechtum
 𒅆𒁍𒌅 	old age
 
@@ -6423,7 +6426,7 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒅖𒊑𒅅 iš-ri-iq aus-rück entrück
 𒅖𒊑𒅅 to steal
 ≈
-𒊭𒊏𒄣 	ša-ra-qu سرق sarag ≈ 
+𒊭𒊏𒄣 	ša-ra-qu سرق sarag ≈  سَرَقَ  saraqa
 𒊭𒊏𒄣 	to steal <> Schurke 𓋴 𓂋 𓐍 𓅁 | guilty person | •thief
 <> 𓋴 𓎡 𓈖 𓆊 | be greedy, lust (after) | ?
 
@@ -7327,12 +7330,15 @@ maʿuṯṯa => Motte => moth <> 𐌼𐌰𐌻𐍉 <> ϩⲟⲗⲓ
 𒋫𒊒 	ta-ruⁿ turn
 𒋫𒊒 	censer, return, to turn
 
+𒄿𒋼𒉌 i-te-ni 
+𒄿𒋼𒉌 turn (a decision)
+
 𒋫𒀀𒀀𒅈𒋾 ta-ay-arⁿti return™
 
 𒌑𒌁𒌋 u2-tir-u
 𒌑𒌁𒌋 return
 
-𒌑𒋫𒅈𒊒 ú-ta-ar-ru
+𒌑𒋫𒅈𒊒 ú-ta-ar-ruⁿ
 𒌑𒋫𒅈𒊒 return (s.o.)
 
 𒄿𒌁𒊒 ʳi-tir-ruⁿ
@@ -8676,7 +8682,7 @@ namrūtu 𒉆𒊒𒋾
 𒀀𒅆𒁍  a-si-bu
 𒀀𒅆𒁍     magician, sorcerer
 
-𒅆𒁍𒌓 ši-bu-ut šībūt 𓋴 𓃀 𓇼 𓄿 𓀜 
+𒅆𒁍𒌓 ši-bu-ut šībūt 𓋴 𓃀 𓇼 𓄿 𓀜 • 𓂸 𓏏 𓏏
 𒅆𒁍𒌓 testimony
 <>
 𒀀𒅆𒁍𒋾 a-ši-bu-ti reside √seat sit 𓈙 𓊪 𓋴 𓋴 𓀻 𓏥 
@@ -9495,19 +9501,18 @@ sanuti® senator "prefect"
 𒀉𒁕𒀝 id-da-ak 
 𒀉𒁕𒀝 abduct, execute(d), take away, kill
 
-𒌒𒁉𒅕 ub-bi-ir 
-𒌒𒁉𒅕 ubir √accuse абвіна abvina… obviňovat obvinit <> обвини́тел obvinítel
-𒌒𒁉𒅕 ubir √accuse абвіна 비난자 binanja
-𒌒𒁉𒅕 ubir √accuse अभियोक्ता abhiyoktā
-𒌒𒁉𒅕 ubir √accuse 𐍆𐌰𐌹𐍂𐌹𐌽𐍉𐌽 fairinōn
-𒌒𒁉𒅕 ubir √accuse apkaltinti 
-𒌒𒁉𒅕 ubir √accuse באַשולדיקן beschuldigen 𓃀𓐍𓏯𓏏𓈖
-
-
-𒌑𒌒𒁉𒅕𒈠 ú-ub-bi-ir-ma 
+𒌒𒁉𒅕 ub-bi-ir √over...
+𒌒𒁉𒅕 ubir accuse абвіна abvina… obviňovat obvinit <> обвини́тел obvinítel
+𒌒𒁉𒅕 ubir accuse абвіна 비난자 binanja
+𒌒𒁉𒅕 ubir accuse अभियोक्ता abhiyoktā
+𒌒𒁉𒅕 ubir accuse 𐍆𐌰𐌹𐍂𐌹𐌽𐍉𐌽 fairinōn
+𒌒𒁉𒅕 ubir accuse apkaltinti 
+𒌒𒁉𒅕 ubir accuse באַשולדיקן beschuldigen 𓃀𓐍𓏯𓏏𓈖
+≈
+𒌑𒌒𒁉𒅕𒈠 ú-ub-bi-ir-ma over-ir
 𒌑𒌒𒁉𒅕𒈠 (and) laid charge
-
-𒈬𒌒𒁉𒅕𒋗 mu-ub-bi-ir 
+<>
+𒈬𒌒𒁉𒅕𒋗 mu-ub-bi-ir mobber
 𒈬𒌒𒁉𒅕𒋗 accuser
 
 𒄿𒀧𒆷𒀝 i-il-la-ak
@@ -9519,8 +9524,8 @@ sanuti® senator "prefect"
 𒄿𒊭𒀠𒇷𒀀𒄠𒈠 i-ša-al-li-a-am-ma 
 𒄿𒊭𒀠𒇷𒀀𒄠𒈠 dive (into river) <>  𒋧𒈠𒌅 	sum-ma-tu dove
 
-𒅅𒋫𒊭 ? ik-ta-ša- sú 
-𒅅𒋫𒊭𒌅? defeat(ed)
+𒅅𒋫𒊭 ik-ta-ša 
+𒅅𒋫𒊭 defeat(ed)
 
 𒅖𒊑𒅅 iš-ri-iq سرق sarag 𒊭𒊏𒄣 šarāqum <> skáka 
 𒅖𒊑𒅅 steal <> Schurke 𓋴 𓂋 𓐍 𓅁 | guilty person |
@@ -9537,9 +9542,13 @@ sanuti® senator "prefect"
 𒋗𒀀𒋾 	that?
 # 𒋗𒀀𒋾 	salvati (survive river cleansing)
 
+𒌑𒋼𒅁𒁉𒁀𒀸 ú-te-eb-bi-ba-aš out-wash
+𒌑𒋼𒅁𒁉𒁀𒀸 cleared (by river)
+
 𒈪𒅎𒈠 𒋳𒋗 mi-im-ma šum-šu
 𒈪𒅎𒈠 𒋳𒋗 anything (at all)
 
+𒄿𒈾 𒀜𒁲𒅔 i-na ad-di-in
 𒄿𒈾𒀜𒁲𒅔 i-na-ad-di-in
 𒄿𒈾𒀜𒁲𒅔 give, hand out (*ent-don)
 
@@ -9588,12 +9597,13 @@ sanuti® senator "prefect"
 𒅕𒁲𒀀𒄠 ir-de-a-am
 𒅕𒁲𒀀𒄠 bring forward (witnesses)
 
-𒀀𒊏𒀭 a-ra-an  
+𒀀𒊏𒀭 a-ra-an 
 𒀀𒊏𒀭 a-ra•hel uriḫullu 	conventional penalty 	Hurrian 	
-𒀀𒊏𒀭 a-ra•hel uriḫull-	<> ка́ра kára κύρωση kýrosi korvaus @ Kerker
-𒀀𒊏𒀭 penalty <> 
+𒀀𒊏𒀭 bu₄a-ra-an
+𒀀𒊏𒀭 •burden, penalty <> 
 𓎪 𓂋 𓇋 𓇋 𓏏 𓅪 | punishment | herit ⇔ heretics αἱρετικός hairetikós, “able to choose, factious”
 𓐍 𓋴 𓆑 𓏏 𓍚 | punishment | > slavic °kazati <> κύρωση kýrosi™
+
 
 𒀉𒋫𒈾𒀸𒅆 it-ta-na-aš-ši
 𒀉𒋫𒈾𒀸𒅆 support, bear (e.g. penalty)
@@ -9630,15 +9640,26 @@ sanuti® senator "prefect"
 ni-iš i-lim i-za-kar
 swear by the life of god
 
-𒄑𒍝𒆗 iz-za-kar besagen
+𒄿𒍝𒆗𒈠 i-za-kar-ma aussage...
+𒄿𒍝𒆗𒈠 swear
+
+𒄑𒍝𒆗 iz-za-kar aussage/besagen
 𒄑𒍝𒆗 (give away) name 
 
+𒀉𒁺𒌑 id-du-ú 𓂞
+𒀉𒁺𒌑 id-du-ú
+𒀉𒁲𒈠 id-di-ma deem
+𒀉𒁲𒈠 laid a charge 
+
 𒄿𒊑 𒀉𒁲 i-re id-di (idi=give,put)
-𒄿𒊑𒀉𒁲 	i-re-ed-de ward
+𒄿𒊑𒀉𒁲 	i-re-ed-de ward 𓂾
 𒄿𒊑𒀉𒁲 	conduct s.o. (e.g. to palace 𒂍𒃲)
 
 𒅅𒋫𒆷 ik-ta-la
 𒅅𒋫𒆷 keep (slave in house)
+
+𒉌𒅖 ni-iš ni-kuš₇ "life"  𓋹 𓈖 𓐍  ≈ 𒉎 ᵒNIᵍ ⲱⲛϧ  𓋹 𓈖 𓐍 ankh "existence" 
+
 
 𒇷𒅖𒁉𒅕 li-iš-bi-ir l'zerbrech
 𒇷𒅖𒁉𒅕 break (staff)
@@ -9659,7 +9680,7 @@ swear by the life of god
 𒊍𒁀𒀜 AC-BA-AT
 𒊍𒁀𒀜 captured 
 in
-𒀉𒋫𒊍𒁀𒀜 it-ta-aṣ-ba-at <> תפיסה tfisa <> apanhada
+𒀉𒋫𒊍𒁀𒀜 it-ta-aṣ-ba-at 𓂘 <> תפיסה tfisa <> apanhada
 𒀉𒋫𒊍𒁀𒀜 catch, caught
 
 𒄩𒀊𒁀𒌈 ʳḫa-ab-ba-tum
@@ -9719,15 +9740,20 @@ in
 𒉺𒁕𒊑 pa-ṭa-ri бээр төлээр beer töleer плати́ти platýty plaćatiʳ
 𒉺𒁕𒊑 pa-ṭa-ri پرداختن pardâxtan
 
-𒅁𒌅𒊏𒀸𒋗𒈠 ip-ṭú-ra-aš capture as ransom
 
 𒌅𒌨𒊒 tu-úr-ru capTure (taken as ransom hostage)
+<>
+𒅁𒌅𒊏𒀸 ᶜip-ṭú-ra-aš
+𒅁𒌅𒊏𒀸 captured, ransomed
+
+𒍑𒋫𒀝𒅆𒁕𒀸 uš-ta-ak-ši-da-aš aus-taxidas 
+𒍑𒋫𒀝𒅆𒁕𒀸 allow to reach
 
 𒊏𒈠𒀭𒋗 ra-ma-an-šu he himself?
 
-𒍑𒋫𒀝𒅆𒁕𒀸 uš-ta-ak-ši-da-aš allow to reach
+𒆷 𒄿𒁀𒀸𒅆 la i-ba-aš-ši There is not enough 
 
-𒋗𒈠 šu-ma he is the one who 𒂠 SUMUNX 𓃹
+𒋗 𒈠 šu-ma he is the one who 𒂠 SUMUNX 𓃹
 
 𒀸𒊭𒋾 aš-ša-ti 𒁮 aššatu 𓎛 𓃀 𓋴 𓇋 𓇋 𓏏 𓋳 | wife | heb? hab-zweite 2
 
@@ -9740,6 +9766,7 @@ in
 𒄿𒋼 i-te •Jude ⲑⲉϣⲉ 𓉲 𓏜 
 𒄿𒋼 neighbor 
 
+𒄿𒈾𒀜𒁲𒅖   i-na-ad-di-iš
 𒄿𒈾𒀜𒁲𒅔 i-na-ad-di-in eingeben entreichen 
 𒄿𒈾𒀜𒁲𒅔 give, pay √don
 
@@ -9767,11 +9794,14 @@ in
 𒌑𒋫𒅈 ú-ta-ar 
 𒌑𒋫𒅈 return
 
-𒌑𒋫𒀸𒊬 ú-ta-aš-šar
+𒌑𒋫𒀸𒊬 ú-ta-aš-šar out-lasse®
 𒌑𒋫𒀸𒊬 return, release (her/him)
 
 𒄿𒋫𒅈 i-ta-ar
 𒄿𒋫𒅈 return (she)
+
+𒀉𒌅𒊏𒄠 it-tu-ra-am 
+𒀉𒌅𒊏𒄠 return (he)
 
 𒅁𒊺𒁴 ep-še-tim up-set™
 𒅁𒊺𒁴 prepare
@@ -9942,7 +9972,7 @@ at the glance of his eyes
 𒈠𒄯 front (in-a)
 
 
-𒊌𒋾𒅔 uk-ti-in
+𒊌𒋾𒅔 uk-ti-in √action
 𒊌𒋾𒅔 convict(ed)
 ≈
 𒌑𒅗𒀭 ú-kaᵈan <> أَدَانَ ʔadāna @ don ἐξελέγχω
@@ -10117,6 +10147,9 @@ there is no cause for complaint in such circumstances.
 𒅖𒊭𒀝𒅗𒀭 iš-ša-ak-ka-an
 𒅖𒊭𒀝𒅗𒀭 establish (freedom) ≠ freisagen / forsaken
 
+𒄿𒍝𒆗𒈠 i-za-kar-ma aussage...
+𒄿𒍝𒆗𒈠 swear
+
 𒆬𒌓 𒀉𒋫𒁷 KUG.BIR₂ it-ta-din
 𒆬𒌓 𒀉𒋫𒁷 "give(n) [for] silver" = sell, sold
 
@@ -10181,8 +10214,8 @@ ippal pay, compensate
 𒊭𒉌𒁴 ša-ni-tim
 𒊭𒉌𒁴 second, sonder, ˢander/ˢother, different
 
-𒌑𒁀𒅈𒈠 	ú-ba-ar-ma verbürgen (verbürg-machen)
-𒌑𒁀𒅈 𒈠  	certify
+𒌑𒁀𒅈𒈠 	ú-ba-ar-ma aufbahren, verbürgenᵐ (-machen)
+𒌑𒁀𒅈 𒈠  	establish, certify
 
 𒄿𒊏𒀸 𒋗𒌑 ᵠi-ra-aš šu-u2
 𒄿𒊏𒀸 𒋗𒌑 he (pre)possess(es)
@@ -11064,6 +11097,7 @@ PUN ZONE??
 𒄿𒅁𒁉𒌍 iʳib-bi-eš
 𒄿𒅁𒁉𒌍 rebuild
 
+𒄿𒊑𒀀𒀊𒁍 i-ri-a-ab-bu
 𒄿𒊑𒀊 iʳri-ab
 𒄿𒊑𒀊 repay, make recompense
 𒄿𒊑𒀊 iʳri-ab
@@ -13271,3 +13305,91 @@ ma + causative + gene
 𒌋𒀸𒋰𒆸𒈨𒄑 eli-mi-is limis boundary
 𒌋𒅗𒈪𒅖𒊑 eli-mi-is-ri @ 𓐝 𓐛 𓇥 𓂋 mizraim 
 𒌋𒅗𒈪𒅖𒊑 limes, boundary
+
+𒆠𒅖𒁍 ki-iš-pu kišpuᵐ
+𒆠𒅖𒁉 ki-iš-pí kišpíᵐ כְּשָׁפִים kshafím "witchcraft"
+
+𒅖𒇷𒀀𒄠 iš-li-a-am 
+𒅖𒇷𒀀𒄠 slide, dive <> إِسْلَام (ʔislām, “submission, surrender”), verbal noun of أَسْلَمَ (ʔaslama).
+
+𒌑𒍣𒀀𒄠 ú-ṣí-a-am úṣíam 
+𒌑𒍣𒀀𒄠 usher, come forth (with testimony)
+
+𒉿𒅈𒅗𒉡𒌝𒈠 wa-ar-ka-nu-um-ma work of numbers
+𒉿𒅈𒅗𒉡𒌝𒈠 Judical Decision 
+
+𒍝𒀊𒌅 ṣa-ab-tu
+𒍝𒀊𒌅 seized √seat possess
+
+𒀀𒊭𒄠 a-ša-am
+𒀀𒊭𒄠 I purchased (it) 
+
+𒈬𒁺 mu-du
+𒈬𒁲 mu-de mind muᵛidû wit 𓁹 𓁺
+𒈬𒁲 recognize
+
+𒇻𒌒𒇴 lu-ub-lam 
+𒇻𒌒𒇴 produce (witness)
+<>
+𒀉𒁀𒇴 it-ba-lam out-bring 𓃀𓂾 √wabālum ("to bring, carry, transport")
+𒀉𒁀𒇴 produce (witness)
+
+𒅆𒈬𒌝 ši-mu-um √sūmō @ Latin susmō sumtu sūmptum sub-emō
+𒅆𒈬𒌝 a purchase
+𒄿𒊭𒈬 ᶜIᵐ-ša-mu consume compra coemō ⵙⵖ sɣ შეძენა šeʒena
+𒄿𒊭𒈬 i-ša-mu sūmō @ Latin < гами gami 
+𒄿𒊭𒈬 purchase, buy
+<>
+𒊭𒀀𒀀𒈠𒉡𒌝 ša-a-a-ma-nu-um <> sub-emōⁿ ⵙⵖ sɣ-man
+𒊭𒀀𒀀𒈠𒉡𒌝 The buyer
+
+𒈾 𒁲𒈾𒉡𒌝  ᵛna-di-na-nu-um 𓂞 
+𒈾𒁲𒈾𒉡𒌝  vendor, the seller 
+
+𒈾𒁲𒅔 𒀉𒁲𒉡𒋳
+na-di-in    id-di-nu.šum √don
+seller sold it to him,
+
+𒀀𒉿𒀀𒋾 a-wa-a-ti a'word
+𒀀𒉿𒀀𒋾 statements
+
+𒄿𒅎𒈠𒊒𒈠 i-im-ma-ru-ma
+𒄿𒅎𒈠𒊒𒈠 examine
+
+𒄿𒂵𒀊𒁍𒈠 i-qá-ab-bu-ma
+𒄿𒂵𒀊𒁍𒈠 declare
+
+𒄿𒇷𒆠 i-le-qé con√let
+𒄿𒇷𒆠 receive
+
+𒍝𒅈 sà-ar  خَرَّاص xarrâs 𓎼 𓂋 𓍅 𓆭 •ğarâs
+𒍝𒅈 sàᶜar שקרן / שַׁקְרָן shakrán  𓍅 𓎼 𓂋 𓆭
+𒍝𒅈 liar <> luhárka  làžov® враль s'vralʹ врун s'vrun
+
+𒌅𒍑𒊭𒄠𒈠 tu-uš-ša-am-ma  Tuscheln
+𒌅𒍑𒊭𒄠𒈠 slander
+
+𒄿𒄩𒀠𒆷𒇻 i-ʾa4-al-la-lu "hang" 𒇲 la₂ 𒇳 lal₂ <> lóg локоми lokomi लटकना laṭaknā  عَلِقَ  ʕaliqa
+
+𒇲 la₂ 𒇳 lal₂ олла olla ওলমা üloma эленеү iliniw "hang" @ Leine
+𒇲s'la₂ 𒇳 s'lal₂ sallanmaq, asılmaq  জুলা  zula @ Seil "hang"
+
+𒋗𒄩 ŠU.ḪAˢ  заһсч zağsç 𓇐 ≈ 𓇏 ≈ 𒃷 ašagᵃᵗ 𓇏 𓏏 𓈇 sḫt 𓆷 𓈇 šꜣt  'scott' ˢⲕⲁⲧⲉ côte 𓐍 𓆼 𓋴 𓏏 𓈉 
+𒋗𒄩 ŠU.ḪA™ صَيَّاد ṣayyād דייג / דַּיָּג dayág 𓅭
+𒋗𒄩 µŠU.ḪAʳ ماسیگر masîgir ماہی گِیر māhī gīr مَچھیرا macherā моҳигир mohigir ਮਛੇਰਾ macherā
+𒋗𒄩 πŠU.ḪAʳ pišuḫaʳ  ψαρού BÂ’IRAM bāʾerum
+𒋗𒄩 fisher(man)
+
+𒄯𒊏𒀭 ḫar-ra-an heran(gehen)
+𒄯𒊏𒀭ᵍḫar-ra-an gieren
+𒄯𒊏𒀭 going / campaign
+
+𒌓𒁕𒀊𒁉𒅕 ud-da-ap-pí-ir-ma out-appear 𓉐 𓂋 𓂻 
+𒌓𒁕𒀊𒁉𒅕 gone away
+
+𒊭𒀜𒌓  𒅖𒋾𒀀𒀜𒈠 ša-at-tam iš-ti-a-at-ma  Zeitime erstem
+𒊭𒀜𒌓  𒅖𒋾𒀀𒀜𒈠 first time, single year
+
+𒉌𒅅𒅅  in-ga₂-ga₂
+𒉌𒅅𒅅  listen (to 𒅗 words)
+

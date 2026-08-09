@@ -560,7 +560,7 @@ for (x in map) {
     if(!map['b'+x])
         map['b'+x] = map[x]
     if(!map['m'+x])
-        map['m'+x] = '𒑰' + map[x]
+        map['m'+x] = '𒁹' + map[x]
     if(!map['d'+x])
         map['d'+x] = '𒀭' + map[x]
     if(!map[x+'ki'])
