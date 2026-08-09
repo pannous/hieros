@@ -1,754 +1,754 @@
-rank	count	documents	word	most_common_signs	sign_spellings
-1	46	44	te	𐘃	𐘃:46
-2	41	31	si	𐘤	𐘤:41
-3	37	33	a	𐘇	𐘇:37
-4	37	34	ku-ro	𐙂𐘁	𐙂𐘁:31
-5	36	35	i	𐘚	𐘚:35
-6	33	24	ku	𐙂	𐙂:32
-7	31	24	ka	𐘾	𐘾:31
-8	30	25	ki	𐘸	𐘸:28
-9	30	28	ta	𐘳	𐘳:29
-10	27	25	re	𐘙	𐘙:25
-11	26	26	na	𐘅	𐘅:26
-12	25	23	ma	𐙁	𐙁:24
-13	23	23	pa	𐘂	𐘂:23
-14	22	18	di	𐘆	𐘆:22
-15	20	19	mi	𐘻	𐘻:20
-16	20	17	ti	𐘠	𐘠:19
-17	19	18	ja	𐘱	𐘱:18
-18	19	18	ru	𐘘	𐘘:19
-19	19	18	•ne	𐘗	𐘗:19
-20	18	18	sa-ra_2	𐘞𐘽	𐘞𐘽:14
-21	16	12	ki-ro	𐘸𐘁	𐘸𐘁:8
-22	16	16	u	𐘉	𐘉:15
-23	15	15	su	𐘲	𐘲:14
-24	14	13	ra	𐘴	𐘴:13
-25	14	14	se	𐘈	𐘈:13
-26	13	10	•qa	𐘌	𐘌:13
-27	12	12	qe	𐘿	𐘿:12
-28	11	11	a-du	𐘇𐘬	𐘇𐘬:9
-29	11	10	pi	𐘢	𐘢:11
-30	11	11	ro	𐘁	𐘁:11
-31	10	10	•zu	𐙀	𐙀:9
-32	9	9	du	𐘬	𐘬:9
-33	9	9	nu	𐘯	𐘯:9
-34	8	8	za	𐘍	𐘍:7
-35	7	7	da-re	𐘀𐘙	𐘀𐘙:7
-36	7	6	ku-•nü-nu	𐙂𐘰𐘯	𐙂𐘰𐘯:7
-37	7	7	ra_2	𐘽	𐘽:7
-38	7	7	ri	𐘭	𐘭:6
-39	7	6	•dwo	𐙈	𐙈:7
-40	6	6	i-da	𐘚𐘀	𐘚𐘀:6
-41	6	6	ka-pa	𐘾𐘂	𐘾𐘂:5
-42	6	6	ma-di	𐙁𐘆	𐙁𐘆:6
-43	6	6	me	𐘋	𐘋:5
-44	6	6	sa-ru	𐘞𐘘	𐘞𐘘:5
-45	6	6	ta_2	𐘷	𐘷:6
-46	6	6	•nü	𐘰	𐘰:5
-47	5	5	a-ra	𐘇𐘴	𐘇𐘴:4
-48	5	5	a-se	𐘇𐘈	𐘇𐘈:4
-49	5	5	de	𐘦	𐘦:5
-50	5	4	di-na-u	𐘆𐘅𐘉	𐘆𐘅𐘉:5
-51	5	5	ja-sa	𐘱𐘞	𐘱𐘞:5
-52	5	5	ko	𐘺	𐘺:5
-53	5	5	na-si	𐘅𐘤	𐘅𐘤:5
-54	5	5	pu	𐘫	𐘫:4
-55	5	5	wi	𐘣	𐘣:5
-56	4	4	a-pa	𐘇𐘂	𐘇𐘂:4
-57	4	3	a-ri	𐘇𐘭	𐘇𐘭:4
-58	4	4	da-me	𐘀𐘋	𐘀𐘋:4
-59	4	4	da-ri-da	𐘀𐘭𐘀	𐘀𐘭𐘀:4
-60	4	4	i-pi-na-ma	𐘚𐘢𐘅𐙁	𐘚𐘢𐘅𐙁:4
-61	4	4	ja-sa-sa-ra-me	𐘱𐘞𐘞𐘴𐘋	𐘱𐘞𐘞𐘴𐘋:4
-62	4	4	je-di	𐘧𐘆	𐘧𐘆:4
-63	4	4	ku-pa	𐙂𐘂	𐙂𐘂:4
-64	4	4	mu	𐘕	𐘕:4
-65	4	4	pa-ja-re	𐘂𐘱𐘙	𐘂𐘱𐘙:4
-66	4	4	qif-•dwo	𐘐𐙈	𐘐𐙈:4
-67	4	4	sa-ma	𐘞𐙁	𐘞𐙁:3
-68	4	4	sa-ro	𐘞𐘁	𐘞𐘁:4
-69	4	4	si-ru-te	𐘤𐘘𐘃	𐘤𐘘𐘃:4
-70	4	4	ta-na-ti	𐘳𐘅𐘠	𐘳𐘅𐘠:4
-71	4	4	u-na-ka-na-si	𐘉𐘅𐘾𐘅𐘤	𐘉𐘅𐘾𐘅𐘤:4
-72	3	3	a-ka-ru	𐘇𐘾𐘘	𐘇𐘾𐘘:3
-73	3	3	a-ma	𐘇𐙁	𐘇𐙁:3
-74	3	3	a-si	𐘇𐘤	𐘇𐘤:3
-75	3	3	a-ta	𐘇𐘳	𐘇𐘳:3
-76	3	3	da-i	𐘀𐘚	𐘀𐘚:3
-77	3	3	da-ku	𐘀𐙂	𐘀𐙂:3
-78	3	3	da-qe-ra	𐘀𐘿𐘴	𐘀𐘿𐘴:3
-79	3	3	da-si-•dwo	𐘀𐘤𐙈	𐘀𐘤𐙈:3
-80	3	3	di-de-ru	𐘆𐘦𐘘	𐘆𐘦𐘘:3
-81	3	3	di-di	𐘆𐘆	𐘆𐘆:3
-82	3	3	di-na	𐘆𐘅	𐘆𐘅:3
-83	3	2	i-se	𐘚𐘈	𐘚𐘈:3
-84	3	3	ja-sa-sa	𐘱𐘞𐘞	𐘱𐘞𐘞:3
-85	3	3	ja-si	𐘱𐘤	𐘱𐘤:3
-86	3	3	je	𐘧	𐘧:3
-87	3	3	ka-ku-pa	𐘾𐙂𐘂	𐘾𐙂𐘂:3
-88	3	3	ke	𐘥	𐘥:3
-89	3	3	ki-re-ta-na	𐘸𐘙𐘳𐘅	𐘸𐘙𐘳𐘅:3
-90	3	3	ku-ni	𐙂𐘝	𐙂𐘝:3
-91	3	3	ku-ni-su	𐙂𐘝𐘲	𐙂𐘝𐘲:3
-92	3	2	l	𐝈	𐝈:3
-93	3	3	mi-nu-te	𐘻𐘯𐘃	𐘻𐘯𐘃:3
-94	3	3	pa-de	𐘂𐘦	𐘂𐘦:3
-95	3	3	pa-se-ja	𐘂𐘈𐘱	𐘂𐘈𐘱:3
-96	3	3	pa-ta-ne	𐘂𐘳𐘗	𐘂𐘳𐘗:3
-97	3	3	qif-tu-ne	𐘐𐘹𐘗	𐘐𐘹𐘗:3
-98	3	3	ra-me	𐘴𐘋	𐘴𐘋:3
-99	3	3	re-za	𐘙𐘍	𐘙𐘍:3
-100	3	3	si-ru	𐘤𐘘	𐘤𐘘:3
-101	3	3	te-ri	𐘃𐘭	𐘃𐘭:2
-102	3	3	te-tu	𐘃𐘹	𐘃𐘹:3
-103	3	3	to	𐘄	𐘄:3
-104	3	2	•nü-ni-na	𐘰𐘝𐘅	𐘰𐘝𐘅:2
-105	2	2	a-ja	𐘇𐘱	𐘇𐘱:2
-106	2	2	a-mi	𐘇𐘻	𐘇𐘻:2
-107	2	2	a-re	𐘇𐘙	𐘇𐘙:2
-108	2	2	a-ru	𐘇𐘘	𐘇𐘘:2
-109	2	2	a-si-ja-ka	𐘇𐘤𐘱𐘾	𐘇𐘤𐘱𐘾:2
-110	2	2	a-ta-na	𐘇𐘳𐘅	𐘇𐘳𐘅:2
-111	2	2	au-si-re	𐙄𐘤𐘙	𐙄𐘤𐘙:2
-112	2	2	di-ki-se	𐘆𐘸𐘈	𐘆𐘸𐘈:2
-113	2	2	du-re-za	𐘬𐘙𐘍	𐘬𐘙𐘍:2
-114	2	2	du-re-za-se	𐘬𐘙𐘍𐘈	𐘬𐘙𐘍𐘈:2
-115	2	2	i-da-ma-te	𐘚𐘀𐙁𐘃	𐘚𐘀𐙁𐘃:2
-116	2	2	i-ja	𐘚𐘱	𐘚𐘱:2
-117	2	2	i-ka	𐘚𐘾	𐘚𐘾:1
-118	2	2	i-na	𐘚𐘅	𐘚𐘅:2
-119	2	2	i-pi-na-mi-na	𐘚𐘢𐘅𐘻𐘅	𐘚𐘢𐘅𐘻𐘅:2
-120	2	2	i-si	𐘚𐘤	𐘚𐘤:2
-121	2	2	ja-ja	𐘱𐘱	𐘱𐘱:2
-122	2	2	ja-qif	𐘱𐘐	𐘱𐘐:2
-123	2	2	ja-sa-sa-ra	𐘱𐘞𐘞𐘴	𐘱𐘞𐘞𐘴:2
-124	2	2	ka-di	𐘾𐘆	𐘾𐘆:2
-125	2	1	ka-ki	𐘾𐘸	𐘾𐘸:2
-126	2	2	ka-na		
-127	2	2	ka-ru	𐘾𐘘	𐘾𐘘:2
-128	2	2	ki-da-ro	𐘸𐘀𐘁	𐘸𐘀𐘁:2
-129	2	2	ki-ri-ta_2	𐘸𐘭𐘷	𐘸𐘭𐘷:2
-130	2	2	ku-mi-na-qe	𐙂𐘻𐘅𐘿	𐙂𐘻𐘅𐘿:2
-131	2	2	ku-ra	𐙂𐘴	𐙂𐘴:2
-132	2	2	ku-re	𐙂𐘙	𐙂𐘙:1
-133	2	2	ku-re-ju	𐙂𐘙𐘶	𐙂𐘙𐘶:1
-134	2	2	ku-•zu-ni	𐙂𐙀𐘝	𐙂𐙀𐘝:2
-135	2	2	ma-ju	𐙁𐘶	𐙁𐘶:2
-136	2	2	ma-re	𐙁𐘙	𐙁𐘙:2
-137	2	2	ma-ru	𐙁𐘘	𐙁𐘘:2
-138	2	1	ma-ru-me	𐙁𐘘𐘋	𐙁𐘘𐘋:2
-139	2	2	ma-si	𐙁𐘤	𐙁𐘤:2
-140	2	2	me-za	𐘋𐘍	𐘋𐘍:2
-141	2	2	mi-da	𐘻𐘀	𐘻𐘀:2
-142	2	2	mi-na	𐘻𐘅	𐘻𐘅:2
-143	2	2	mi-tu	𐘻𐘹	𐘻𐘹:2
-144	2	2	mu-ru	𐘕𐘘	𐘕𐘘:2
-145	2	2	ne-mi-na	𐘗𐘻𐘅	𐘗𐘻𐘅:2
-146	2	2	ne-ti	𐘗𐘠	𐘗𐘠:2
-147	2	2	ni-ta	𐘝𐘳	𐘝𐘳:2
-148	2	2	nu-ro	𐘯𐘁	𐘯𐘁:2
-149	2	2	nu-te	𐘯𐘃	𐘯𐘃:2
-150	2	2	nu-ti	𐘯𐘠	𐘯𐘠:2
-151	2	2	nu-wi	𐘯𐘣	𐘯𐘣:2
-152	2	2	pa-i-to	𐘂𐘚𐘄	𐘂𐘚𐘄:2
-153	2	2	pa-ra	𐘂𐘴	𐘂𐘴:2
-154	2	2	pa-ra-ne	𐘂𐘴𐘗	𐘂𐘴𐘗:2
-155	2	2	pa-se	𐘂𐘈	𐘂𐘈:2
-156	2	2	pi-sa	𐘢𐘞	𐘢𐘞:1
-157	2	2	po-to-ku-ro	𐘊𐘄𐙂𐘁	𐘊𐘄𐙂𐘁:2
-158	2	2	pu-ra_2	𐘫𐘽	𐘫𐘽:2
-159	2	2	qa-nu-ma	𐘌𐘯𐙁	𐘌𐘯𐙁:2
-160	2	2	qa-•dwo	𐘌𐙈	𐘌𐙈:2
-161	2	2	qe-de-mi-nu	𐘿𐘦𐘻𐘯	𐘿𐘦𐘻𐘯:2
-162	2	2	qe-ka	𐘿𐘾	𐘿𐘾:2
-163	2	2	qe-pu	𐘿𐘫	𐘿𐘫:2
-164	2	2	qe-si-•zu-e	𐘿𐘤𐙀𐘡	𐘿𐘤𐙀𐘡:2
-165	2	2	re-ti	𐘙𐘠	𐘙𐘠:2
-166	2	2	ru-di	𐘘𐘆	𐘘𐘆:2
-167	2	2	ru-ma	𐘘𐙁	𐘘𐙁:2
-168	2	2	ru-ma-ta	𐘘𐙁𐘳	𐘘𐙁𐘳:2
-169	2	2	sa-ra	𐘞𐘴	𐘞𐘴:2
-170	2	2	sa-sa-ra-me	𐘞𐘞𐘴𐘋	𐘞𐘞𐘴𐘋:2
-171	2	2	si-cyp	𐘤𐙗	𐘤𐙗:1
-172	2	2	si-da-re	𐘤𐘀𐘙	𐘤𐘀𐘙:2
-173	2	2	si-ka	𐘤𐘾	𐘤𐘾:2
-174	2	2	si-pi-ki	𐘤𐘢𐘸	𐘤𐘢𐘸:2
-175	2	2	si-te	𐘤𐘃	𐘤𐘃:2
-176	2	2	si-tu	𐘤𐘹	𐘤𐘹:2
-177	2	2	ta-na	𐘳𐘅	𐘳𐘅:2
-178	2	2	ta-ni-ka	𐘳𐘝𐘾	𐘳𐘝𐘾:2
-179	2	2	ta-ti	𐘳𐘠	𐘳𐘠:2
-180	2	2	te-ki	𐘃𐘸	𐘃𐘸:2
-181	2	2	ti-na	𐘠𐘅	𐘠𐘅:2
-182	2	2	ti-ti-ku	𐘠𐘠𐙂	𐘠𐘠𐙂:2
-183	2	1	twe	𐙆	𐙆:2
-184	2	2	u-na-ka	𐘉𐘅𐘾	𐘉𐘅𐘾:2
-185	2	2	wa-di-ni	𐘮𐘆𐘝	𐘮𐘆𐘝:2
-186	2	2	zo	𐘎	𐘎:2
-187	2	2	•nü-ni	𐘰𐘝	𐘰𐘝:2
-188	2	2	•zu-di-ra	𐙀𐘆𐘴	𐙀𐘆𐘴:2
-189	2	2	•zu-du	𐙀𐘬	𐙀𐘬:2
-190	1	1	a-da	𐘇𐘀	𐘇𐘀:1
-191	1	1	a-da-ki-si-ka		
-192	1	1	a-da-qif-ri	𐘇𐘀𐘐𐘭	𐘇𐘀𐘐𐘭:1
-193	1	1	a-da-ra	𐘇𐘀𐘴	𐘇𐘀𐘴:1
-194	1	1	a-da-ro	𐘇𐘀𐘁	𐘇𐘀𐘁:1
-195	1	1	a-de	𐘇𐘦	𐘇𐘦:1
-196	1	1	a-di-da-ki-ti-pa-ku	𐘇𐘆𐘀𐘸𐘠𐘂𐙂	𐘇𐘆𐘀𐘸𐘠𐘂𐙂:1
-197	1	1	a-di-ki-te	𐘇𐘆𐘸𐘃	𐘇𐘆𐘸𐘃:1
-198	1	1	a-di-ki-te-te	𐘇𐘆𐘸𐘃𐘃	𐘇𐘆𐘸𐘃𐘃:1
-199	1	1	a-di-ne	𐘇𐘆𐘗	𐘇𐘆𐘗:1
-200	1	1	a-du-ni-ta-na	𐘇𐘬𐘝𐘳𐘅	𐘇𐘬𐘝𐘳𐘅:1
-201	1	1	a-du-re	𐘇𐘬𐘙	𐘇𐘬𐘙:1
-202	1	1	a-du-za	𐘇𐘬𐘍	𐘇𐘬𐘍:1
-203	1	1	a-i	𐘇𐘚	𐘇𐘚:1
-204	1	1	a-je	𐘇𐘧	𐘇𐘧:1
-205	1	1	a-je-sa	𐘇𐘧𐘞	𐘇𐘧𐘞:1
-206	1	1	a-ju	𐘇𐘶	𐘇𐘶:1
-207	1	1	a-ka-nu-za-ti	𐘇𐘾𐘯𐘍𐘠	𐘇𐘾𐘯𐘍𐘠:1
-208	1	1	a-ka-ta	𐘇𐘾𐘳	𐘇𐘾𐘳:1
-209	1	1	a-ki-ro	𐘇𐘸𐘁	𐘇𐘸𐘁:1
-210	1	1	a-ko-a-ne	𐘇𐘺𐘇𐘗	𐘇𐘺𐘇𐘗:1
-211	1	1	a-ku-ju-pa-•dwo	𐘇𐙂𐘶𐘂𐙈	𐘇𐙂𐘶𐘂𐙈:1
-212	1	1	a-ma-ja	𐘇𐙁𐘱	𐘇𐙁𐘱:1
-213	1	1	a-ma-ra-ne	𐘇𐙁𐘴𐘗	𐘇𐙁𐘴𐘗:1
-214	1	1	a-ma-wa-si	𐘇𐙁𐘮𐘤	𐘇𐙁𐘮𐘤:1
-215	1	1	a-mi-da-o	𐘇𐘻𐘀𐘵	𐘇𐘻𐘀𐘵:1
-216	1	1	a-mi-da-u	𐘇𐘻𐘀𐘉	𐘇𐘻𐘀𐘉:1
-217	1	1	a-na	𐘇𐘅	𐘇𐘅:1
-218	1	1	a-na-nu-si-ja-se	𐘇𐘅𐘯𐘤𐘱𐘈	𐘇𐘅𐘯𐘤𐘱𐘈:1
-219	1	1	a-ne	𐘇𐘗	𐘇𐘗:1
-220	1	1	a-nu	𐘇𐘯	𐘇𐘯:1
-221	1	1	a-pa-ki	𐘇𐘂𐘸	𐘇𐘂𐘸:1
-222	1	1	a-pa-ra-ne	𐘇𐘂𐘴𐘗	𐘇𐘂𐘴𐘗:1
-223	1	1	a-pi	𐘇𐘢	𐘇𐘢:1
-224	1	1	a-pu_2-na-du	𐘇𐘜𐘅𐘬	𐘇𐘜𐘅𐘬:1
-225	1	1	a-ra-ju	𐘇𐘴𐘶	𐘇𐘴𐘶:1
-226	1	1	a-ra-ju-u-de-za	𐘇𐘴𐘶𐘉𐘦𐘍	𐘇𐘴𐘶𐘉𐘦𐘍:1
-227	1	1	a-ra-na-re	𐘇𐘴𐘅𐘙	𐘇𐘴𐘅𐘙:1
-228	1	1	a-ra-tu-me	𐘇𐘴𐘹𐘋	𐘇𐘴𐘹𐘋:1
-229	1	1	a-re-da-i	𐘇𐘙𐘀𐘚	𐘇𐘙𐘀𐘚:1
-230	1	1	a-re-pi-re-na	𐘇𐘙𐘢𐘙𐘅	𐘇𐘙𐘢𐘙𐘅:1
-231	1	1	a-re-sa-na	𐘇𐘙𐘞𐘅	𐘇𐘙𐘞𐘅:1
-232	1	1	a-ri-ja	𐘇𐘭𐘱	𐘇𐘭𐘱:1
-233	1	1	a-ri-ni-ta	𐘇𐘭𐘝𐘳	𐘇𐘭𐘝𐘳:1
-234	1	1	a-ri-pa	𐘇𐘭𐘂	𐘇𐘭𐘂:1
-235	1	1	a-ri-su	𐘇𐘭𐘲	𐘇𐘭𐘲:1
-236	1	1	a-ro-te	𐘇𐘁𐘃	𐘇𐘁𐘃:1
-237	1	1	a-ru-da-ra	𐘇𐘘𐘀𐘴	𐘇𐘘𐘀𐘴:1
-238	1	1	a-ru-ra	𐘇𐘘𐘴	𐘇𐘘𐘴:1
-239	1	1	a-sa-da-ka	𐘇𐘞𐘀𐘾	𐘇𐘞𐘀𐘾:1
-240	1	1	a-sa-mu-ne	𐘇𐘞𐘕𐘗	𐘇𐘞𐘕𐘗:1
-241	1	1	a-sa-ra_2	𐘇𐘞𐘽	𐘇𐘞𐘽:1
-242	1	1	a-sa-sa-ra	𐘇𐘞𐘞𐘴	𐘇𐘞𐘞𐘴:1
-243	1	1	a-sa-sa-ra-me	𐘇𐘞𐘞𐘴𐘋	𐘇𐘞𐘞𐘴𐘋:1
-244	1	1	a-se-ja	𐘇𐘈𐘱	𐘇𐘈𐘱:1
-245	1	1	a-se-re-za	𐘇𐘈𐘙𐘍	𐘇𐘈𐘙𐘍:1
-246	1	1	a-se-tu-qif	𐘇𐘈𐘹𐘐	𐘇𐘈𐘹𐘐:1
-247	1	1	a-si-ki-ra	𐘇𐘤𐘸𐘴	𐘇𐘤𐘸𐘴:1
-248	1	1	a-si-su-po-a	𐘇𐘤𐘲𐘊𐘇	𐘇𐘤𐘲𐘊𐘇:1
-249	1	1	a-si-•dwo	𐘇𐘤𐙈	𐘇𐘤𐙈:1
-250	1	1	a-su-mi-•dwo	𐘇𐘲𐘻𐙈	𐘇𐘲𐘻𐙈:1
-251	1	1	a-su-pu-wa	𐘇𐘲𐘫𐘮	𐘇𐘲𐘫𐘮:1
-252	1	1	a-ta-de	𐘇𐘳𐘦	𐘇𐘳𐘦:1
-253	1	1	a-ta-na-je	𐘇𐘳𐘅𐘧	𐘇𐘳𐘅𐘧:1
-254	1	1	a-ta-re	𐘇𐘳𐘙	𐘇𐘳𐘙:1
-255	1	1	a-ti-ka	𐘇𐘠𐘾	𐘇𐘠𐘾:1
-256	1	1	a-ti-ru	𐘇𐘠𐘘	𐘇𐘠𐘘:1
-257	1	1	a-tu	𐘇𐘹	𐘇𐘹:1
-258	1	1	a-tu-ri-si-ti	𐘇𐘹𐘭𐘤𐘠	𐘇𐘹𐘭𐘤𐘠:1
-259	1	1	a-wa-pi	𐘇𐘮𐘢	𐘇𐘮𐘢:1
-260	1	1	a-•zu-ra	𐘇𐙀𐘴	𐘇𐙀𐘴:1
-261	1	1	au-re-te	𐙄𐘙𐘃	𐙄𐘙𐘃:1
-262	1	1	da-da	𐘀𐘀	𐘀𐘀:1
-263	1	1	da-du-ma-ta	𐘀𐘬𐙁𐘳	𐘀𐘬𐙁𐘳:1
-264	1	1	da-du-mi-ne	𐘀𐘬𐘻𐘗	𐘀𐘬𐘻𐘗:1
-265	1	1	da-i-pi-ta	𐘀𐘚𐘢𐘳	𐘀𐘚𐘢𐘳:1
-266	1	1	da-ju-te		
-267	1	1	da-ka	𐘀𐘾	𐘀𐘾:1
-268	1	1	da-ki		
-269	1	1	da-ku-na	𐘀𐙂𐘅	𐘀𐙂𐘅:1
-270	1	1	da-ma-te	𐘀𐙁𐘃	𐘀𐙁𐘃:1
-271	1	1	da-mi-nu	𐘀𐘻𐘯	𐘀𐘻𐘯:1
-272	1	1	da-na-si	𐘀𐘅𐘤	𐘀𐘅𐘤:1
-273	1	1	da-na-tu	𐘀𐘅𐘹	𐘀𐘅𐘹:1
-274	1	1	da-ra	𐘀𐘴	𐘀𐘴:1
-275	1	1	da-re-ku	𐘀𐘙𐙂	𐘀𐘙𐙂:1
-276	1	1	da-ro-pa	𐘀𐘁𐘂	𐘀𐘁𐘂:1
-277	1	1	da-ru-ne-te	𐘀𐘘𐘗𐘃	𐘀𐘘𐘗𐘃:1
-278	1	1	da-se-ra-te	𐘀𐘈𐘴𐘃	𐘀𐘈𐘴𐘃:1
-279	1	1	da-ta-ra	𐘀𐘳𐘴	𐘀𐘳𐘴:1
-280	1	1	da-ta-re	𐘀𐘳𐘙	𐘀𐘳𐘙:1
-281	1	1	da-tu		
-282	1	1	da-wa	𐘀𐘮	𐘀𐘮:1
-283	1	1	da-•dwo	𐘀𐙈	𐘀𐙈:1
-284	1	1	da-•nü	𐘀𐘰	𐘀𐘰:1
-285	1	1	de-di	𐘦𐘆	𐘦𐘆:1
-286	1	1	de-ju-ku	𐘦𐘶𐙂	𐘦𐘶𐙂:1
-287	1	1	de-ki-ti	𐘦𐘸𐘠	𐘦𐘸𐘠:1
-288	1	1	de-me-te	𐘦𐘋𐘃	𐘦𐘋𐘃:1
-289	1	1	de-mi	𐘦𐘻	𐘦𐘻:1
-290	1	1	de-nu	𐘦𐘯	𐘦𐘯:1
-291	1	1	de-su	𐘦𐘲	𐘦𐘲:1
-292	1	1	di-de	𐘆𐘦	𐘆𐘦:1
-293	1	1	di-di-ka-se	𐘆𐘆𐘾𐘈	𐘆𐘆𐘾𐘈:1
-294	1	1	di-ja-i	𐘆𐘱𐘚	𐘆𐘱𐘚:1
-295	1	1	di-ka-ki	𐘆𐘾𐘸	𐘆𐘾𐘸:1
-296	1	1	di-ki	𐘆𐘸	𐘆𐘸:1
-297	1	1	di-na-ro	𐘆𐘅𐘁	𐘆𐘅𐘁:1
-298	1	1	di-pa-ja	𐘆𐘂𐘱	𐘆𐘂𐘱:1
-299	1	1	di-ra-di-na		
-300	1	1	di-ri-na	𐘆𐘭𐘅	𐘆𐘭𐘅:1
-301	1	1	di-si	𐘆𐘤	𐘆𐘤:1
-302	1	1	double		
-303	1	1	du-da-ma		
-304	1	1	du-ja	𐘬𐘱	𐘬𐘱:1
-305	1	1	du-ju	𐘬𐘶	𐘬𐘶:1
-306	1	1	du-ka	𐘬𐘾	𐘬𐘾:1
-307	1	1	du-ma-i-na		
-308	1	1	du-me-di	𐘬𐘋𐘆	𐘬𐘋𐘆:1
-309	1	1	du-ne-mi	𐘬𐘗𐘻	𐘬𐘗𐘻:1
-310	1	1	du-pi-te-wa	𐘬𐘢𐘃𐘮	𐘬𐘢𐘃𐘮:1
-311	1	1	du-ra	𐘬𐘴	𐘬𐘴:1
-312	1	1	du-ra-re	𐘬𐘴𐘙	𐘬𐘴𐘙:1
-313	1	1	du-ri	𐘬𐘭	𐘬𐘭:1
-314	1	1	du-ri-te	𐘬𐘭𐘃	𐘬𐘭𐘃:1
-315	1	1	du-ru-wi	𐘬𐘘𐘣	𐘬𐘘𐘣:1
-316	1	1	du-su-ni	𐘬𐘲𐘝	𐘬𐘲𐘝:1
-317	1	1	du-wa-to	𐘬𐘮𐘄	𐘬𐘮𐘄:1
-318	1	1	du-•nü-na	𐘬𐘰𐘅	𐘬𐘰𐘅:1
-319	1	1	du-•zu-wa	𐘬𐙀𐘮	𐘬𐙀𐘮:1
-320	1	1	e-ka	𐘡𐘾	𐘡𐘾:1
-321	1	1	e-ku-ru	𐘡𐙂𐘘	𐘡𐙂𐘘:1
-322	1	1	e-mi	𐘡𐘻	𐘡𐘻:1
-323	1	1	e-na-si	𐘡𐘅𐘤	𐘡𐘅𐘤:1
-324	1	1	e-to-ri	𐘡𐘄𐘭	𐘡𐘄𐘭:1
-325	1	1	gra-ti-e	𐙉𐘠𐘡	𐙉𐘠𐘡:1
-326	1	1	i-da-da	𐘚𐘀𐘀	𐘚𐘀𐘀:1
-327	1	1	i-da-mi	𐘚𐘀𐘻	𐘚𐘀𐘻:1
-328	1	1	i-da-•nü-i-sa-ri	𐘚𐘀𐘰𐘚𐘞𐘭	𐘚𐘀𐘰𐘚𐘞𐘭:1
-329	1	1	i-de	𐘚𐘦	𐘚𐘦:1
-330	1	1	i-di	𐘚𐘆	𐘚𐘆:1
-331	1	1	i-ja-pa	𐘚𐘱𐘂	𐘚𐘱𐘂:1
-332	1	1	i-ja-pa-me	𐘚𐘱𐘂𐘋	𐘚𐘱𐘂𐘋:1
-333	1	1	i-ja-re-di-ja	𐘚𐘱𐘙𐘆𐘱	𐘚𐘱𐘙𐘆𐘱:1
-334	1	1	i-ja-te	𐘚𐘱𐘃	𐘚𐘱𐘃:1
-335	1	1	i-ki	𐘚𐘸	𐘚𐘸:1
-336	1	1	i-ki-ra	𐘚𐘸𐘴	𐘚𐘸𐘴:1
-337	1	1	i-ki-ru-qe	𐘚𐘸𐘘𐘿	𐘚𐘸𐘘𐘿:1
-338	1	1	i-ku-pi	𐘚𐙂𐘢	𐘚𐙂𐘢:1
-339	1	1	i-ku-ri-na	𐘚𐙂𐘭𐘅	𐘚𐙂𐘭𐘅:1
-340	1	1	i-ku-ta	𐘚𐙂𐘳	𐘚𐙂𐘳:1
-341	1	1	i-ma	𐘚𐙁	𐘚𐙁:1
-342	1	1	i-mi-sa-ra	𐘚𐘻𐘞𐘴	𐘚𐘻𐘞𐘴:1
-343	1	1	i-na-i-da	𐘚𐘅𐘚𐘀	𐘚𐘅𐘚𐘀:1
-344	1	1	i-na-ja-pa-qa	𐘚𐘅𐘱𐘂𐘌	𐘚𐘅𐘱𐘂𐘌:1
-345	1	1	i-na-ja-re-ta	𐘚𐘅𐘱𐘙𐘳	𐘚𐘅𐘱𐘙𐘳:1
-346	1	1	i-na-ta-i-zu-di-si-ka	𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾	𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾:1
-347	1	1	i-na-wa	𐘚𐘅𐘮	𐘚𐘅𐘮:1
-348	1	1	i-oliv	𐘚𐙋	𐘚𐙋:1
-349	1	1	i-pa-sa-ja	𐘚𐘂𐘞𐘱	𐘚𐘂𐘞𐘱:1
-350	1	1	i-pi	𐘚𐘢	𐘚𐘢:1
-351	1	1	i-qa-•dwo	𐘚𐘌𐙈	𐘚𐘌𐙈:1
-352	1	1	i-ra_2	𐘚𐘽	𐘚𐘽:1
-353	1	1	i-ru-ja	𐘚𐘘𐘱	𐘚𐘘𐘱:1
-354	1	1	i-sa-ri-ke	𐘚𐘞𐘭𐘥	𐘚𐘞𐘭𐘥:1
-355	1	1	i-ta-ja	𐘚𐘳𐘱	𐘚𐘳𐘱:1
-356	1	1	i-ti	𐘚𐘠	𐘚𐘠:1
-357	1	1	i-ti-ni-sa	𐘚𐘠𐘝𐘞	𐘚𐘠𐘝𐘞:1
-358	1	1	i-ti-ti-ku-ni	𐘚𐘠𐘠𐙂𐘝	𐘚𐘠𐘠𐙂𐘝:1
-359	1	1	i-•zu-ri-ni-ta	𐘚𐙀𐘭𐘝𐘳	𐘚𐙀𐘭𐘝𐘳:1
-360	1	1	ja-da-su	𐘱𐘀𐘲	𐘱𐘀𐘲:1
-361	1	1	ja-di	𐘱𐘆	𐘱𐘆:1
-362	1	1	ja-di-ki-tu	𐘱𐘆𐘸𐘹	𐘱𐘆𐘸𐘹:1
-363	1	1	ja-du-ra-ti	𐘱𐘬𐘴𐘠	𐘱𐘬𐘴𐘠:1
-364	1	1	ja-i-nwa-za	𐘱𐘚𐘩𐘍	𐘱𐘚𐘩𐘍:1
-365	1	1	ja-ki	𐘱𐘸	𐘱𐘸:1
-366	1	1	ja-ki-si-ki-nu	𐘱𐘸𐘤𐘸𐘯	𐘱𐘸𐘤𐘸𐘯:1
-367	1	1	ja-ku	𐘱𐙂	𐘱𐙂:1
-368	1	1	ja-ku-ti	𐘱𐙂𐘠	𐘱𐙂𐘠:1
-369	1	1	ja-ma-u-ti	𐘱𐙁𐘉𐘠	𐘱𐙁𐘉𐘠:1
-370	1	1	ja-mi-da-re	𐘱𐘻𐘀𐘙	𐘱𐘻𐘀𐘙:1
-371	1	1	ja-pa-qa	𐘱𐘂𐘌	𐘱𐘂𐘌:1
-372	1	1	ja-pa-ra-ja-se	𐘱𐘂𐘴𐘱𐘈	𐘱𐘂𐘴𐘱𐘈:1
-373	1	1	ja-pi	𐘱𐘢	𐘱𐘢:1
-374	1	1	ja-qe	𐘱𐘿	𐘱𐘿:1
-375	1	1	ja-ra	𐘱𐘴	𐘱𐘴:1
-376	1	1	ja-re	𐘱𐘙	𐘱𐘙:1
-377	1	1	ja-re-mi	𐘱𐘙𐘻	𐘱𐘙𐘻:1
-378	1	1	ja-ru-ma-ne	𐘱𐘘𐙁𐘗	𐘱𐘘𐙁𐘗:1
-379	1	1	ja-sa-ja	𐘱𐘞𐘱	𐘱𐘞𐘱:1
-380	1	1	ja-sa-mu	𐘱𐘞𐘕	𐘱𐘞𐘕:1
-381	1	1	ja-sa-ra-a-na-ne	𐘱𐘞𐘴𐘇𐘅𐘗	𐘱𐘞𐘴𐘇𐘅𐘗:1
-382	1	1	ja-sa-sa-ra-ma	𐘱𐘞𐘞𐘴𐙁	𐘱𐘞𐘞𐘴𐙁:1
-383	1	1	ja-si-da-ra	𐘱𐘤𐘀𐘴	𐘱𐘤𐘀𐘴:1
-384	1	1	ja-si-e	𐘱𐘤𐘡	𐘱𐘤𐘡:1
-385	1	1	ja-su	𐘱𐘲	𐘱𐘲:1
-386	1	1	ja-su-ma-tu-oliv	𐘱𐘲𐙁𐘹𐙋	𐘱𐘲𐙁𐘹𐙋:1
-387	1	1	ja-ti	𐘱𐘠	𐘱𐘠:1
-388	1	1	ja-ti-tu-ku	𐘱𐘠𐘹𐙂	𐘱𐘠𐘹𐙂:1
-389	1	1	ja-to-ja	𐘱𐘄𐘱	𐘱𐘄𐘱:1
-390	1	1	ja-u-pa-ma-i-da	𐘱𐘉𐘂𐙁𐘚𐘀	𐘱𐘉𐘂𐙁𐘚𐘀:1
-391	1	1	ja-wa	𐘱𐘮	𐘱𐘮:1
-392	1	1	ja-wa-pi	𐘱𐘮𐘢	𐘱𐘮𐘢:1
-393	1	1	ja-wi	𐘱𐘣	𐘱𐘣:1
-394	1	1	je-ta-na	𐘧𐘳𐘅	𐘧𐘳𐘅:1
-395	1	1	ju-ra	𐘶𐘴	𐘶𐘴:1
-396	1	1	ka-du-ma-ne	𐘾𐘬𐙁𐘗	𐘾𐘬𐙁𐘗:1
-397	1	1	ka-i-ka	𐘾𐘚𐘾	𐘾𐘚𐘾:1
-398	1	1	ka-i-ro	𐘾𐘚𐘁	𐘾𐘚𐘁:1
-399	1	1	ka-je	𐘾𐘧	𐘾𐘧:1
-400	1	1	ka-ju	𐘾𐘶	𐘾𐘶:1
-401	1	1	ka-ku	𐘾𐙂	𐘾𐙂:1
-402	1	1	ka-ku-ne-te	𐘾𐙂𐘗𐘃	𐘾𐙂𐘗𐘃:1
-403	1	1	ka-na-ni-ti	𐘾𐘅𐘝𐘠	𐘾𐘅𐘝𐘠:1
-404	1	1	ka-ne	𐘾𐘗	𐘾𐘗:1
-405	1	1	ka-ni-ja-mi	𐘾𐘝𐘱𐘻	𐘾𐘝𐘱𐘻:1
-406	1	1	ka-nu-ti	𐘾𐘯𐘠	𐘾𐘯𐘠:1
-407	1	1	ka-po-ru	𐘾𐘊𐘘	𐘾𐘊𐘘:1
-408	1	1	ka-qa	𐘾𐘌	𐘾𐘌:1
-409	1	1	ka-ra_2	𐘾𐘽	𐘾𐘽:1
-410	1	1	ka-re-ro	𐘾𐘙𐘁	𐘾𐘙𐘁:1
-411	1	1	ka-ro-na	𐘾𐘁𐘅	𐘾𐘁𐘅:1
-412	1	1	ka-sa	𐘾𐘞	𐘾𐘞:1
-413	1	1	ka-sa-ru	𐘾𐘞𐘘	𐘾𐘞𐘘:1
-414	1	1	ka-si	𐘾𐘤	𐘾𐘤:1
-415	1	1	ka-si-a-te	𐘾𐘤𐘇𐘃	𐘾𐘤𐘇𐘃:1
-416	1	1	ka-ta-re	𐘾𐘳𐘙	𐘾𐘳𐘙:1
-417	1	1	ka-ti	𐘾𐘠	𐘾𐘠:1
-418	1	1	ka-u-de-ta	𐘾𐘉𐘦𐘳	𐘾𐘉𐘦𐘳:1
-419	1	1	ke-ju-mi	𐘥𐘶𐘻	𐘥𐘶𐘻:1
-420	1	1	ke-ki-ru	𐘥𐘸𐘘	𐘥𐘸𐘘:1
-421	1	1	ke-si-te	𐘥𐘤𐘃	𐘥𐘤𐘃:1
-422	1	1	ki-da	𐘸𐘀	𐘸𐘀:1
-423	1	1	ki-da-ta	𐘸𐘀𐘳	𐘸𐘀𐘳:1
-424	1	1	ki-ki-na	𐘸𐘸𐘅	𐘸𐘸𐘅:1
-425	1	1	ki-ki-ra-ja	𐘸𐘸𐘴𐘱	𐘸𐘸𐘴𐘱:1
-426	1	1	ki-ma-ru	𐘸𐙁𐘘	𐘸𐙁𐘘:1
-427	1	1	ki-nu	𐘸𐘯	𐘸𐘯:1
-428	1	1	ki-ra	𐘸𐘴	𐘸𐘴:1
-429	1	1	ki-re	𐘸𐘙	𐘸𐘙:1
-430	1	1	ki-re-ta_2	𐘸𐘙𐘷	𐘸𐘙𐘷:1
-431	1	1	ki-re-za	𐘸𐘙𐘍	𐘸𐘙𐘍:1
-432	1	1	ki-ri-si	𐘸𐘭𐘤	𐘸𐘭𐘤:1
-433	1	1	ki-ru	𐘸𐘘	𐘸𐘘:1
-434	1	1	ki-sa-ne	𐘸𐘞𐘗	𐘸𐘞𐘗:1
-435	1	1	ki-ta	𐘸𐘳	𐘸𐘳:1
-436	1	1	ki-ta-i		
-437	1	1	ki-ta-ni-te	𐘸𐘳𐘝𐘃	𐘸𐘳𐘝𐘃:1
-438	1	1	ko-a-du-wa	𐘺𐘇𐘬𐘮	𐘺𐘇𐘬𐘮:1
-439	1	1	ko-e	𐘺𐘡	𐘺𐘡:1
-440	1	1	ko-ja	𐘺𐘱	𐘺𐘱:1
-441	1	1	ko-mu	𐘺𐘕	𐘺𐘕:1
-442	1	1	ko-ru		
-443	1	1	ku-da	𐙂𐘀	𐙂𐘀:1
-444	1	1	ku-ka	𐙂𐘾	𐙂𐘾:1
-445	1	1	ku-ku-da-ra	𐙂𐙂𐘀𐘴	𐙂𐙂𐘀𐘴:1
-446	1	1	ku-ma-ro	𐙂𐙁𐘁	𐙂𐙁𐘁:1
-447	1	1	ku-me-ta	𐙂𐘋𐘳	𐙂𐘋𐘳:1
-448	1	1	ku-mi-na	𐙂𐘻𐘅	𐙂𐘻𐘅:1
-449	1	1	ku-ni-te	𐙂𐘝𐘃	𐙂𐘝𐘃:1
-450	1	1	ku-pa-ja	𐙂𐘂𐘱	𐙂𐘂𐘱:1
-451	1	1	ku-pa-ri	𐙂𐘂𐘭	𐙂𐘂𐘭:1
-452	1	1	ku-pa-•zu		
-453	1	1	ku-pi	𐙂𐘢	𐙂𐘢:1
-454	1	1	ku-ru-ku	𐙂𐘘𐙂	𐙂𐘘𐙂:1
-455	1	1	ku-ru-ma	𐙂𐘘𐙁	𐙂𐘘𐙁:1
-456	1	1	ku-ta	𐙂𐘳	𐙂𐘳:1
-457	1	1	ku-tu-ko-re	𐙂𐘹𐘺𐘙	𐙂𐘹𐘺𐘙:1
-458	1	1	ku-•nü-na-tu	𐙂𐘰𐘅𐘹	𐙂𐘰𐘅𐘹:1
-459	1	1	ku-•nü-ri-ja	𐙂𐘰𐘭𐘱	𐙂𐘰𐘭𐘱:1
-460	1	1	ku-•nü-•nü	𐙂𐘰𐘰	𐙂𐘰𐘰:1
-461	1	1	ku-•zu-na	𐙂𐙀𐘅	𐙂𐙀𐘅:1
-462	1	1	ma-i	𐙁𐘚	𐙁𐘚:1
-463	1	1	ma-i-mi	𐙁𐘚𐘻	𐙁𐘚𐘻:1
-464	1	1	ma-ka-i-se	𐙁𐘾𐘚𐘈	𐙁𐘾𐘚𐘈:1
-465	1	1	ma-ka-i-ta	𐙁𐘾𐘚𐘳	𐙁𐘾𐘚𐘳:1
-466	1	1	ma-ka-ri-te	𐙁𐘾𐘭𐘃	𐙁𐘾𐘭𐘃:1
-467	1	1	ma-re-ri-mi-de	𐙁𐘙𐘭𐘻𐘦	𐙁𐘙𐘭𐘻𐘦:1
-468	1	1	ma-ri	𐙁𐘭	𐙁𐘭:1
-469	1	1	ma-ru-a	𐙁𐘘𐘇	𐙁𐘘𐘇:1
-470	1	1	ma-si-du	𐙁𐘤𐘬	𐙁𐘤𐘬:1
-471	1	1	ma-su-mi	𐙁𐘲𐘻	𐙁𐘲𐘻:1
-472	1	1	ma-ta-ri-ta	𐙁𐘳𐘭𐘳	𐙁𐘳𐘭𐘳:1
-473	1	1	ma-te-re	𐙁𐘃𐘙	𐙁𐘃𐘙:1
-474	1	1	ma-te-ti	𐙁𐘃𐘠	𐙁𐘃𐘠:1
-475	1	1	ma-ti-za-i-te	𐙁𐘠𐘍𐘚𐘃	𐙁𐘠𐘍𐘚𐘃:1
-476	1	1	ma-za	𐙁𐘍	𐙁𐘍:1
-477	1	1	me-ki-di	𐘋𐘸𐘆	𐘋𐘸𐘆:1
-478	1	1	me-mi-ja-ru	𐘋𐘻𐘱𐘘	𐘋𐘻𐘱𐘘:1
-479	1	1	me-vin	𐘋𐙍	𐘋𐙍:1
-480	1	1	mi-da-ni		
-481	1	1	mi-da-ra	𐘻𐘀𐘴	𐘻𐘀𐘴:1
-482	1	1	mi-ja	𐘻𐘱	𐘻𐘱:1
-483	1	1	mi-ka	𐘻𐘾	𐘻𐘾:1
-484	1	1	mi-ki-sa-ne	𐘻𐘸𐘞𐘗	𐘻𐘸𐘞𐘗:1
-485	1	1	mi-ne	𐘻𐘗	𐘻𐘗:1
-486	1	1	mi-nu-mi	𐘻𐘯𐘻	𐘻𐘯𐘻:1
-487	1	1	mi-re	𐘻𐘙	𐘻𐘙:1
-488	1	1	mi-ta	𐘻𐘳	𐘻𐘳:1
-489	1	1	mi-ti	𐘻𐘠	𐘻𐘠:1
-490	1	1	mi-za-se	𐘻𐘍𐘈	𐘻𐘍𐘈:1
-491	1	1	mina		
-492	1	1	na-a-•nü	𐘅𐘇𐘰	𐘅𐘇𐘰:1
-493	1	1	na-da-re	𐘅𐘀𐘙	𐘅𐘀𐘙:1
-494	1	1	na-ki	𐘅𐘸	𐘅𐘸:1
-495	1	1	na-qif-ne	𐘅𐘐𐘗	𐘅𐘐𐘗:1
-496	1	1	na-ti	𐘅𐘠	𐘅𐘠:1
-497	1	1	ne-mi	𐘗𐘻	𐘗𐘻:1
-498	1	1	ni-ja-nu	𐘝𐘱𐘯	𐘝𐘱𐘯:1
-499	1	1	ni-mi	𐘝𐘻	𐘝𐘻:1
-500	1	1	ni-nu-ni	𐘝𐘯𐘝	𐘝𐘯𐘝:1
-501	1	1	ni-pi	𐘝𐘢	𐘝𐘢:1
-502	1	1	ni-ra	𐘝𐘴	𐘝𐘴:1
-503	1	1	nu-ri-ja	𐘯𐘭𐘱	𐘯𐘭𐘱:1
-504	1	1	nu-se	𐘯𐘈	𐘯𐘈:1
-505	1	1	o-da	𐘵𐘀	𐘵𐘀:1
-506	1	1	o-mi	𐘵𐘻	𐘵𐘻:1
-507	1	1	o-ra_2-di-ne	𐘵𐘽𐘆𐘗	𐘵𐘽𐘆𐘗:1
-508	1	1	o-su-qa-re	𐘵𐘲𐘌𐘙	𐘵𐘲𐘌𐘙:1
-509	1	1	o-te-ja	𐘵𐘃𐘱	𐘵𐘃𐘱:1
-510	1	1	o-ti	𐘵𐘠	𐘵𐘠:1
-511	1	1	ole-ja	𐙖𐘱	𐙖𐘱:1
-512	1	1	ole-ta	𐙖𐘳	𐙖𐘳:1
-513	1	1	pa-da-ni	𐘂𐘀𐘝	𐘂𐘀𐘝:1
-514	1	1	pa-i-ki	𐘂𐘚𐘸	𐘂𐘚𐘸:1
-515	1	1	pa-ja		
-516	1	1	pa-nu-qe	𐘂𐘯𐘿	𐘂𐘯𐘿:1
-517	1	1	pa-re	𐘂𐘙	𐘂𐘙:1
-518	1	1	pa-ri-de	𐘂𐘭𐘦	𐘂𐘭𐘦:1
-519	1	1	pa-ro-su	𐘂𐘁𐘲	𐘂𐘁𐘲:1
-520	1	1	pa-sa-ri-ja	𐘂𐘞𐘭𐘱	𐘂𐘞𐘭𐘱:1
-521	1	1	pa-ta	𐘂𐘳	𐘂𐘳:1
-522	1	1	pa-ta-da	𐘂𐘳𐘀	𐘂𐘳𐘀:1
-523	1	1	pa-za	𐘂𐘍	𐘂𐘍:1
-524	1	1	pi-ku-•zu	𐘢𐙂𐙀	𐘢𐙂𐙀:1
-525	1	1	pi-mi-na-te	𐘢𐘻𐘅𐘃	𐘢𐘻𐘅𐘃:1
-526	1	1	pi-mu	𐘢𐘕	𐘢𐘕:1
-527	1	1	pi-nu	𐘢𐘯	𐘢𐘯:1
-528	1	1	pi-o	𐘢𐘵	𐘢𐘵:1
-529	1	1	pi-ru-e-ju	𐘢𐘘𐘡𐘶	𐘢𐘘𐘡𐘶:1
-530	1	1	pi-ta-ja	𐘢𐘳𐘱	𐘢𐘳𐘱:1
-531	1	1	pi-ta-ka-se	𐘢𐘳𐘾𐘈	𐘢𐘳𐘾𐘈:1
-532	1	1	pi-ta-ke-si	𐘢𐘳𐘥𐘤	𐘢𐘳𐘥𐘤:1
-533	1	1	pi-ta-ra	𐘢𐘳𐘴	𐘢𐘳𐘴:1
-534	1	1	pi-te-ri	𐘢𐘃𐘭	𐘢𐘃𐘭:1
-535	1	1	po-di-•nü	𐘊𐘆𐘰	𐘊𐘆𐘰:1
-536	1	1	po-sa	𐘊𐘞	𐘊𐘞:1
-537	1	1	pu-de	𐘫𐘦	𐘫𐘦:1
-538	1	1	pu-ko	𐘫𐘺	𐘫𐘺:1
-539	1	1	pu-ma-ku	𐘫𐙁𐙂	𐘫𐙁𐙂:1
-540	1	1	pu-ra	𐘫𐘴	𐘫𐘴:1
-541	1	1	pu_2-ra_2	𐘜𐘽	𐘜𐘽:1
-542	1	1	qa-ki	𐘌𐘸	𐘌𐘸:1
-543	1	1	qa-ki-se-nu-ti	𐘌𐘸𐘈𐘯𐘠	𐘌𐘸𐘈𐘯𐘠:1
-544	1	1	qa-ki-ti	𐘌𐘸𐘠	𐘌𐘸𐘠:1
-545	1	1	qa-ku-re	𐘌𐙂𐘙	𐘌𐙂𐘙:1
-546	1	1	qa-ne	𐘌𐘗	𐘌𐘗:1
-547	1	1	qa-qa-da	𐘌𐘌𐘀	𐘌𐘌𐘀:1
-548	1	1	qa-ra_2-wa	𐘌𐘽𐘮	𐘌𐘽𐘮:1
-549	1	1	qa-ru	𐘌𐘘	𐘌𐘘:1
-550	1	1	qa-sa	𐘌𐘞	𐘌𐘞:1
-551	1	1	qa-sa-ra-ku	𐘌𐘞𐘴𐙂	𐘌𐘞𐘴𐙂:1
-552	1	1	qa-ti-da-te	𐘌𐘠𐘀𐘃	𐘌𐘠𐘀𐘃:1
-553	1	1	qa-ti-ju	𐘌𐘠𐘶	𐘌𐘠𐘶:1
-554	1	1	qa-ti-ki	𐘌𐘠𐘸	𐘌𐘠𐘸:1
-555	1	1	qa-•dwo-sa	𐘌𐙈𐘞	𐘌𐙈𐘞:1
-556	1	1	qe-pi-ta	𐘿𐘢𐘳	𐘿𐘢𐘳:1
-557	1	1	qe-ra_2-ja	𐘿𐘽𐘱	𐘿𐘽𐘱:1
-558	1	1	qe-ra_2-u	𐘿𐘽𐘉	𐘿𐘽𐘉:1
-559	1	1	qe-si-te	𐘿𐘤𐘃	𐘿𐘤𐘃:1
-560	1	1	qe-su-pu	𐘿𐘲𐘫	𐘿𐘲𐘫:1
-561	1	1	qe-ti	𐘿𐘠	𐘿𐘠:1
-562	1	1	qe-ti-ra-du	𐘿𐘠𐘴𐘬	𐘿𐘠𐘴𐘬:1
-563	1	1	qe-tu		
-564	1	1	qe-tu-ne	𐘿𐘹𐘗	𐘿𐘹𐘗:1
-565	1	1	qif-ja-du	𐘐𐘱𐘬	𐘐𐘱𐘬:1
-566	1	1	qif-ri-tu-qa		
-567	1	1	qif-tu	𐘐𐘹	𐘐𐘹:1
-568	1	1	ra-ki-ni-se	𐘴𐘸𐘝𐘈	𐘴𐘸𐘝𐘈:1
-569	1	1	ra-ki-ta-na-si	𐘴𐘸𐘳𐘅𐘤	𐘴𐘸𐘳𐘅𐘤:1
-570	1	1	ra-ma-si	𐘴𐙁𐘤	𐘴𐙁𐘤:1
-571	1	1	ra-na-re	𐘴𐘅𐘙	𐘴𐘅𐘙:1
-572	1	1	ra-na-tu-su	𐘴𐘅𐘹𐘲	𐘴𐘅𐘹𐘲:1
-573	1	1	ra-o-di-ki	𐘴𐘵𐘆𐘸	𐘴𐘵𐘆𐘸:1
-574	1	1	ra-ri	𐘴𐘭	𐘴𐘭:1
-575	1	1	ra-ri-de	𐘴𐘭𐘦	𐘴𐘭𐘦:1
-576	1	1	ra-te	𐘴𐘃	𐘴𐘃:1
-577	1	1	ra_2-ro-re	𐘽𐘁𐘙	𐘽𐘁𐘙:1
-578	1	1	re-a-ja	𐘙𐘇𐘱	𐘙𐘇𐘱:1
-579	1	1	re-di-se	𐘙𐘆𐘈	𐘙𐘆𐘈:1
-580	1	1	re-i-ke	𐘙𐘚𐘥	𐘙𐘚𐘥:1
-581	1	1	re-ja	𐘙𐘱	𐘙𐘱:1
-582	1	1	re-ro	𐘙𐘁	𐘙𐘁:1
-583	1	1	re-sa	𐘙𐘞	𐘙𐘞:1
-584	1	1	re-su	𐘙𐘲	𐘙𐘲:1
-585	1	1	ri-da-u	𐘭𐘀𐘉	𐘭𐘀𐘉:1
-586	1	1	ri-ja	𐘭𐘱	𐘭𐘱:1
-587	1	1	ri-ka-ta	𐘭𐘾𐘳	𐘭𐘾𐘳:1
-588	1	1	ri-mi-si	𐘭𐘻𐘤	𐘭𐘻𐘤:1
-589	1	1	ri-ru-ma	𐘭𐘘𐙁	𐘭𐘘𐙁:1
-590	1	1	ri-ru-ma-ti	𐘭𐘘𐙁𐘠	𐘭𐘘𐙁𐘠:1
-591	1	1	ri-ta-je	𐘭𐘳𐘧	𐘭𐘳𐘧:1
-592	1	1	ro-e	𐘁𐘡	𐘁𐘡:1
-593	1	1	ro-ke	𐘁𐘥	𐘁𐘥:1
-594	1	1	ro-ni	𐘁𐘝	𐘁𐘝:1
-595	1	1	ro-qa	𐘁𐘌	𐘁𐘌:1
-596	1	1	ru-i-ko	𐘘𐘚𐘺	𐘘𐘚𐘺:1
-597	1	1	ru-ja	𐘘𐘱	𐘘𐘱:1
-598	1	1	ru-ja-ta-di	𐘘𐘱𐘳𐘆	𐘘𐘱𐘳𐘆:1
-599	1	1	ru-ma-ta-se	𐘘𐙁𐘳𐘈	𐘘𐙁𐘳𐘈:1
-600	1	1	ru-mi	𐘘𐘻	𐘘𐘻:1
-601	1	1	ru-na	𐘘𐘅	𐘘𐘅:1
-602	1	1	ru-ni	𐘘𐘝	𐘘𐘝:1
-603	1	1	ru-ra_2	𐘘𐘽	𐘘𐘽:1
-604	1	1	ru-sa	𐘘𐘞	𐘘𐘞:1
-605	1	1	ru-•zu-na	𐘘𐙀𐘅	𐘘𐙀𐘅:1
-606	1	1	sa-di	𐘞𐘆	𐘞𐘆:1
-607	1	1	sa-ja-ma	𐘞𐘱𐙁	𐘞𐘱𐙁:1
-608	1	1	sa-ma-ti		
-609	1	1	sa-mi-da-e	𐘞𐘻𐘀𐘡	𐘞𐘻𐘀𐘡:1
-610	1	1	sa-ne	𐘞𐘗	𐘞𐘗:1
-611	1	1	sa-po	𐘞𐘊	𐘞𐘊:1
-612	1	1	sa-pu	𐘞𐘫	𐘞𐘫:1
-613	1	1	sa-qe-ri	𐘞𐘿𐘭	𐘞𐘿𐘭:1
-614	1	1	sa-ra-di	𐘞𐘴𐘆	𐘞𐘴𐘆:1
-615	1	1	sa-ra-me	𐘞𐘴𐘋	𐘞𐘴𐘋:1
-616	1	1	sa-ra-ra	𐘞𐘴𐘴	𐘞𐘴𐘴:1
-617	1	1	sa-re-ju	𐘞𐘙𐘶	𐘞𐘙𐘶:1
-618	1	1	sa-ri	𐘞𐘭	𐘞𐘭:1
-619	1	1	sa-ro-qe	𐘞𐘁𐘿	𐘞𐘁𐘿:1
-620	1	1	sa-ta	𐘞𐘳	𐘞𐘳:1
-621	1	1	se-i	𐘈𐘚	𐘈𐘚:1
-622	1	1	se-je	𐘈𐝕	𐘈𐝕:1
-623	1	1	se-ka-na-si	𐘈𐘾𐘅𐘤	𐘈𐘾𐘅𐘤:1
-624	1	1	se-ku-tu	𐘈𐙂𐘹	𐘈𐙂𐘹:1
-625	1	1	se-sa-•nü	𐘈𐘞𐘰	𐘈𐘞𐘰:1
-626	1	1	se-si	𐘈𐘤	𐘈𐘤:1
-627	1	1	se-si-ta	𐘈𐘤𐘳	𐘈𐘤𐘳:1
-628	1	1	se-to-i-ja	𐘈𐘄𐘚𐘱	𐘈𐘄𐘚𐘱:1
-629	1	1	se-wa-au-de	𐘈𐘮𐙄𐘦	𐘈𐘮𐙄𐘦:1
-630	1	1	si-da-ro	𐘤𐘀𐘁	𐘤𐘀𐘁:1
-631	1	1	si-da-te	𐘤𐘀𐘃	𐘤𐘀𐘃:1
-632	1	1	si-di-ja	𐘤𐘆𐘱	𐘤𐘆𐘱:1
-633	1	1	si-du		
-634	1	1	si-i-si	𐘤𐘚𐘤	𐘤𐘚𐘤:1
-635	1	1	si-ki-ra	𐘤𐘸𐘴	𐘤𐘸𐘴:1
-636	1	1	si-ma	𐘤𐙁	𐘤𐙁:1
-637	1	1	si-na	𐘤𐘅	𐘤𐘅:1
-638	1	1	si-ni	𐘤𐘝	𐘤𐘝:1
-639	1	1	si-pu	𐘤𐘫	𐘤𐘫:1
-640	1	1	si-ra	𐘤𐘴	𐘤𐘴:1
-641	1	1	si-te-tu	𐘤𐘃𐘹	𐘤𐘃𐘹:1
-642	1	1	si-tu-ra_2-re	𐘤𐘹𐘽𐘙	𐘤𐘹𐘽𐘙:1
-643	1	1	su-du	𐘲𐘬	𐘲𐘬:1
-644	1	1	su-ju-ta	𐘲𐘶𐘳	𐘲𐘶𐘳:1
-645	1	1	su-ki	𐘲𐘸	𐘲𐘸:1
-646	1	1	su-ki-ri-ta	𐘲𐘸𐘭𐘳	𐘲𐘸𐘭𐘳:1
-647	1	1	su-ki-ri-te-i-ja	𐘲𐘸𐘭𐘃𐘚𐘱	𐘲𐘸𐘭𐘃𐘚𐘱:1
-648	1	1	su-pa	𐘲𐘂	𐘲𐘂:1
-649	1	1	su-pu_2	𐘲𐘜	𐘲𐘜:1
-650	1	1	su-re	𐘲𐘙	𐘲𐘙:1
-651	1	1	ta-ja	𐘳𐘱	𐘳𐘱:1
-652	1	1	ta-ke	𐘳𐘥	𐘳𐘥:1
-653	1	1	ta-ma-pi	𐘳𐙁𐘢	𐘳𐙁𐘢:1
-654	1	1	ta-mi	𐘳𐘻	𐘳𐘻:1
-655	1	1	ta-na-ma-je	𐘳𐘅𐙁𐘧	𐘳𐘅𐙁𐘧:1
-656	1	1	ta-na-ra-te-u-ti-nu	𐘳𐘅𐘴𐘃𐘉𐘠𐘯	𐘳𐘅𐘴𐘃𐘉𐘠𐘯:1
-657	1	1	ta-na-te	𐘳𐘅𐘃	𐘳𐘅𐘃:1
-658	1	1	ta-ne	𐘳𐘗	𐘳𐘗:1
-659	1	1	ta-nu-mu-ti	𐘳𐘯𐘕𐘠	𐘳𐘯𐘕𐘠:1
-660	1	1	ta-nu-ni-ki-na	𐘳𐘯𐘝𐘸𐘅	𐘳𐘯𐘝𐘸𐘅:1
-661	1	1	ta-pa	𐘳𐘂	𐘳𐘂:1
-662	1	1	ta-pi	𐘳𐘢	𐘳𐘢:1
-663	1	1	ta-pi-si-di	𐘳𐘢𐘤𐘆	𐘳𐘢𐘤𐘆:1
-664	1	1	ta-ra	𐘳𐘴	𐘳𐘴:1
-665	1	1	ta-sa-za	𐘳𐘞𐘍	𐘳𐘞𐘍:1
-666	1	1	ta-ta	𐘳𐘳	𐘳𐘳:1
-667	1	1	ta-te-i-ke-za-re	𐘳𐘃𐘚𐘥𐘍𐘙	𐘳𐘃𐘚𐘥𐘍𐘙:1
-668	1	1	ta-u	𐘳𐘉	𐘳𐘉:1
-669	1	1	ta_2-ta-re	𐘷𐘳𐘙	𐘷𐘳𐘙:1
-670	1	1	ta_2-ti-te	𐘷𐘠𐘃	𐘷𐘠𐘃:1
-671	1	1	te-ja	𐘃𐘱	𐘃𐘱:1
-672	1	1	te-ja-re	𐘃𐘱𐘙	𐘃𐘱𐘙:1
-673	1	1	te-ke	𐘃𐘥	𐘃𐘥:1
-674	1	1	te-me-da-i	𐘃𐘋𐘀𐘚	𐘃𐘋𐘀𐘚:1
-675	1	1	te-ni	𐘃𐘝	𐘃𐘝:1
-676	1	1	te-nu-re	𐘃𐘯𐘙	𐘃𐘯𐘙:1
-677	1	1	te-su-de-se-ke-i	𐘃𐘲𐘦𐘈𐘥𐘚	𐘃𐘲𐘦𐘈𐘥𐘚:1
-678	1	1	te-te	𐘃𐘃	𐘃𐘃:1
-679	1	1	ti-da-ta		
-680	1	1	ti-di-te-qa-ti	𐘠𐘆𐘃𐘌𐘠	𐘠𐘆𐘃𐘌𐘠:1
-681	1	1	ti-du-ni	𐘠𐘬𐘝	𐘠𐘬𐘝:1
-682	1	1	ti-ma	𐘠𐙁	𐘠𐙁:1
-683	1	1	ti-ma-ru-wi-te	𐘠𐙁𐘘𐘣𐘃	𐘠𐙁𐘘𐘣𐘃:1
-684	1	1	ti-ni	𐘠𐘝	𐘠𐘝:1
-685	1	1	ti-ni-ta	𐘠𐘝𐘳	𐘠𐘝𐘳:1
-686	1	1	ti-nu-ja	𐘠𐘯𐘱	𐘠𐘯𐘱:1
-687	1	1	ti-sa	𐘠𐘞	𐘠𐘞:1
-688	1	1	ti-ti-ma	𐘠𐘠𐙁	𐘠𐘠𐙁:1
-689	1	1	to-me	𐘄𐘋	𐘄𐘋:1
-690	1	1	to-sa	𐘄𐘞	𐘄𐘞:1
-691	1	1	tu-ma	𐘹𐙁	𐘹𐙁:1
-692	1	1	tu-me	𐘹𐘋	𐘹𐘋:1
-693	1	1	tu-me-i	𐘹𐘋𐘚	𐘹𐘋𐘚:1
-694	1	1	tu-me-pa-ja	𐘹𐘋𐘂𐘱	𐘹𐘋𐘂𐘱:1
-695	1	1	tu-me-se	𐘹𐘋𐘈	𐘹𐘋𐘈:1
-696	1	1	tu-mi-ti-za-se	𐘹𐘻𐘠𐘍𐘈	𐘹𐘻𐘠𐘍𐘈:1
-697	1	1	tu-nu	𐘹𐘯	𐘹𐘯:1
-698	1	1	tu-pa	𐘹𐘂	𐘹𐘂:1
-699	1	1	tu-pa-di-da		
-700	1	1	tu-pa-ri	𐘹𐘂𐘭	𐘹𐘂𐘭:1
-701	1	1	tu-pi-ta	𐘹𐘢𐘳	𐘹𐘢𐘳:1
-702	1	1	tu-qe-nu	𐘹𐘿𐘯	𐘹𐘿𐘯:1
-703	1	1	tu-qif-ri-na	𐘹𐘐𐘭𐘅	𐘹𐘐𐘭𐘅:1
-704	1	1	tu-ru-nu-se-me	𐘹𐘘𐘯𐘈𐘋	𐘹𐘘𐘯𐘈𐘋:1
-705	1	1	tu-ru-sa	𐘹𐘘𐘞	𐘹𐘘𐘞:1
-706	1	1	tu-se-su-ki	𐘹𐘈𐘲𐘸	𐘹𐘈𐘲𐘸:1
-707	1	1	tu-su-pu_2	𐘹𐘲𐘜	𐘹𐘲𐘜:1
-708	1	1	u-de-za	𐘉𐘦𐘍	𐘉𐘦𐘍:1
-709	1	1	u-di-mi	𐘉𐘆𐘻	𐘉𐘆𐘻:1
-710	1	1	u-di-ri-ki	𐘉𐘆𐘭𐘸	𐘉𐘆𐘭𐘸:1
-711	1	1	u-ju	𐘉𐘶	𐘉𐘶:1
-712	1	1	u-ka-re	𐘉𐘾𐘙	𐘉𐘾𐘙:1
-713	1	1	u-ki	𐘉𐘸	𐘉𐘸:1
-714	1	1	u-na-a	𐘉𐘅𐘇	𐘉𐘅𐘇:1
-715	1	1	u-na-ka-na	𐘉𐘅𐘾𐘅	𐘉𐘅𐘾𐘅:1
-716	1	1	u-na-ka-na-si-ole	𐘉𐘅𐘾𐘅𐘤𐙖	𐘉𐘅𐘾𐘅𐘤𐙖:1
-717	1	1	u-na-na	𐘉𐘅𐘅	𐘉𐘅𐘅:1
-718	1	1	u-na-ru-ka-na-ti	𐘉𐘅𐘘𐘾𐘅𐘠	𐘉𐘅𐘘𐘾𐘅𐘠:1
-719	1	1	u-qe-ti	𐘉𐘿𐘠	𐘉𐘿𐘠:1
-720	1	1	u-re-wi	𐘉𐘙𐘣	𐘉𐘙𐘣:1
-721	1	1	u-su	𐘉𐘲	𐘉𐘲:1
-722	1	1	u-ta-i-se	𐘉𐘳𐘚𐘈	𐘉𐘳𐘚𐘈:1
-723	1	1	u-ta-i-si	𐘉𐘳𐘚𐘤	𐘉𐘳𐘚𐘤:1
-724	1	1	u-ta-ro	𐘉𐘳𐘁	𐘉𐘳𐘁:1
-725	1	1	u-ta_2	𐘉𐘷	𐘉𐘷:1
-726	1	1	u-te	𐘉𐘃	𐘉𐘃:1
-727	1	1	u-ti	𐘉𐘠	𐘉𐘠:1
-728	1	1	u-ti-nu	𐘉𐘠𐘯	𐘉𐘠𐘯:1
-729	1	1	vin-mi	𐙍𐘻	𐙍𐘻:1
-730	1	1	vin-su	𐙍𐘲	𐙍𐘲:1
-731	1	1	vin-vin	𐙍𐙍	𐙍𐙍:1
-732	1	1	wa-du-ni-mi		
-733	1	1	wa-ja-pi	𐘮𐘱𐘢	𐘮𐘱𐘢:1
-734	1	1	wa-o-mi	𐘮𐘵𐘻	𐘮𐘵𐘻:1
-735	1	1	wa-te	𐘮𐘃	𐘮𐘃:1
-736	1	1	wa-tu-ma-re	𐘮𐘹𐙁𐘙	𐘮𐘹𐙁𐘙:1
-737	1	1	wi-di-na	𐘣𐘆𐘅	𐘣𐘆𐘅:1
-738	1	1	wi-du	𐘣𐘬	𐘣𐘬:1
-739	1	1	wi-ja	𐘣𐘱	𐘣𐘱:1
-740	1	1	wi-na-du		
-741	1	1	wi-pi	𐘣𐘢	𐘣𐘢:1
-742	1	1	wi-sa	𐘣𐘞	𐘣𐘞:1
-743	1	1	wi-sa-sa-ne		
-744	1	1	wi-te-ja-mu	𐘣𐘃𐘱𐘕	𐘣𐘃𐘱𐘕:1
-745	1	1	wi-te-ro	𐘣𐘃𐘁	𐘣𐘃𐘁:1
-746	1	1	za-si-•zu	𐘍𐘤𐙀	𐘍𐘤𐙀:1
-747	1	1	zu-ri-ni-ma	𐙀𐘭𐘝𐙁	𐙀𐘭𐘝𐙁:1
-748	1	1	•dwo-mi	𐙈𐘻	𐙈𐘻:1
-749	1	1	•dwo-mi-na	𐙈𐘻𐘅	𐙈𐘻𐘅:1
-750	1	1	•nü-da-ku-se-ne	𐘰𐘀𐙂𐘈𐘗	𐘰𐘀𐙂𐘈𐘗:1
-751	1	1	•nü-ni-wi	𐘰𐘝𐘣	𐘰𐘝𐘣:1
-752	1	1	•zu-ju-pu_2	𐙀𐘶𐘜	𐙀𐘶𐘜:1
-753	1	1	•zu-su	𐙀𐘲	𐙀𐘲:1
+count	word	most_common_signs
+46	te	𐘃
+41	si	𐘤
+37	a	𐘇
+37	ku-ro	𐙂𐘁
+36	i	𐘚
+33	ku	𐙂
+31	ka	𐘾
+30	ki	𐘸
+30	ta	𐘳
+27	re	𐘙
+26	na	𐘅
+25	ma	𐙁
+23	pa	𐘂
+22	di	𐘆
+20	mi	𐘻
+20	ti	𐘠
+19	ja	𐘱
+19	ru	𐘘
+19	•ne	𐘗
+18	sa-ra₂	𐘞𐘽
+16	ki-ro	𐘸𐘁
+16	u	𐘉
+15	su	𐘲
+14	ra	𐘴
+14	se	𐘈
+13	•qa	𐘌
+12	qe	𐘿
+11	a-du	𐘇𐘬
+11	pi	𐘢
+11	ro	𐘁
+10	•zu	𐙀
+9	du	𐘬
+9	nu	𐘯
+8	za	𐘍
+7	da-re	𐘀𐘙
+7	ku-•nü-nu	𐙂𐘰𐘯
+7	ra₂	𐘽
+7	ri	𐘭
+7	•dwo	𐙈
+6	i-da	𐘚𐘀
+6	ka-pa	𐘾𐘂
+6	ma-di	𐙁𐘆
+6	me	𐘋
+6	sa-ru	𐘞𐘘
+6	ta₂	𐘷
+6	•nü	𐘰
+5	a-ra	𐘇𐘴
+5	a-se	𐘇𐘈
+5	de	𐘦
+5	di-na-u	𐘆𐘅𐘉
+5	ja-sa	𐘱𐘞
+5	ko	𐘺
+5	na-si	𐘅𐘤
+5	pu	𐘫
+5	wi	𐘣
+4	a-pa	𐘇𐘂
+4	a-ri	𐘇𐘭
+4	da-me	𐘀𐘋
+4	da-ri-da	𐘀𐘭𐘀
+4	i-pi-na-ma	𐘚𐘢𐘅𐙁
+4	ja-sa-sa-ra-me	𐘱𐘞𐘞𐘴𐘋
+4	je-di	𐘧𐘆
+4	ku-pa	𐙂𐘂
+4	mu	𐘕
+4	pa-ja-re	𐘂𐘱𐘙
+4	qif-•dwo	𐘐𐙈
+4	sa-ma	𐘞𐙁
+4	sa-ro	𐘞𐘁
+4	si-ru-te	𐘤𐘘𐘃
+4	ta-na-ti	𐘳𐘅𐘠
+4	u-na-ka-na-si	𐘉𐘅𐘾𐘅𐘤
+3	a-ka-ru	𐘇𐘾𐘘
+3	a-ma	𐘇𐙁
+3	a-si	𐘇𐘤
+3	a-ta	𐘇𐘳
+3	da-i	𐘀𐘚
+3	da-ku	𐘀𐙂
+3	da-qe-ra	𐘀𐘿𐘴
+3	da-si-•dwo	𐘀𐘤𐙈
+3	di-de-ru	𐘆𐘦𐘘
+3	di-di	𐘆𐘆
+3	di-na	𐘆𐘅
+3	i-se	𐘚𐘈
+3	ja-sa-sa	𐘱𐘞𐘞
+3	ja-si	𐘱𐘤
+3	je	𐘧
+3	ka-ku-pa	𐘾𐙂𐘂
+3	ke	𐘥
+3	ki-re-ta-na	𐘸𐘙𐘳𐘅
+3	ku-ni	𐙂𐘝
+3	ku-ni-su	𐙂𐘝𐘲
+3	l	𐝈
+3	mi-nu-te	𐘻𐘯𐘃
+3	pa-de	𐘂𐘦
+3	pa-se-ja	𐘂𐘈𐘱
+3	pa-ta-ne	𐘂𐘳𐘗
+3	qif-tu-ne	𐘐𐘹𐘗
+3	ra-me	𐘴𐘋
+3	re-za	𐘙𐘍
+3	si-ru	𐘤𐘘
+3	te-ri	𐘃𐘭
+3	te-tu	𐘃𐘹
+3	to	𐘄
+3	•nü-ni-na	𐘰𐘝𐘅
+2	a-ja	𐘇𐘱
+2	a-mi	𐘇𐘻
+2	a-re	𐘇𐘙
+2	a-ru	𐘇𐘘
+2	a-si-ja-ka	𐘇𐘤𐘱𐘾
+2	a-ta-na	𐘇𐘳𐘅
+2	au-si-re	𐙄𐘤𐘙
+2	di-ki-se	𐘆𐘸𐘈
+2	du-re-za	𐘬𐘙𐘍
+2	du-re-za-se	𐘬𐘙𐘍𐘈
+2	i-da-ma-te	𐘚𐘀𐙁𐘃
+2	i-ja	𐘚𐘱
+2	i-ka	𐘚𐘾
+2	i-na	𐘚𐘅
+2	i-pi-na-mi-na	𐘚𐘢𐘅𐘻𐘅
+2	i-si	𐘚𐘤
+2	ja-ja	𐘱𐘱
+2	ja-qif	𐘱𐘐
+2	ja-sa-sa-ra	𐘱𐘞𐘞𐘴
+2	ka-di	𐘾𐘆
+2	ka-ki	𐘾𐘸
+2	ka-na	
+2	ka-ru	𐘾𐘘
+2	ki-da-ro	𐘸𐘀𐘁
+2	ki-ri-ta₂	𐘸𐘭𐘷
+2	ku-mi-na-qe	𐙂𐘻𐘅𐘿
+2	ku-ra	𐙂𐘴
+2	ku-re	𐙂𐘙
+2	ku-re-ju	𐙂𐘙𐘶
+2	ku-•zu-ni	𐙂𐙀𐘝
+2	ma-ju	𐙁𐘶
+2	ma-re	𐙁𐘙
+2	ma-ru	𐙁𐘘
+2	ma-ru-me	𐙁𐘘𐘋
+2	ma-si	𐙁𐘤
+2	me-za	𐘋𐘍
+2	mi-da	𐘻𐘀
+2	mi-na	𐘻𐘅
+2	mi-tu	𐘻𐘹
+2	mu-ru	𐘕𐘘
+2	ne-mi-na	𐘗𐘻𐘅
+2	ne-ti	𐘗𐘠
+2	ni-ta	𐘝𐘳
+2	nu-ro	𐘯𐘁
+2	nu-te	𐘯𐘃
+2	nu-ti	𐘯𐘠
+2	nu-wi	𐘯𐘣
+2	pa-i-to	𐘂𐘚𐘄
+2	pa-ra	𐘂𐘴
+2	pa-ra-ne	𐘂𐘴𐘗
+2	pa-se	𐘂𐘈
+2	pi-sa	𐘢𐘞
+2	po-to-ku-ro	𐘊𐘄𐙂𐘁
+2	pu-ra₂	𐘫𐘽
+2	qa-nu-ma	𐘌𐘯𐙁
+2	qa-•dwo	𐘌𐙈
+2	qe-de-mi-nu	𐘿𐘦𐘻𐘯
+2	qe-ka	𐘿𐘾
+2	qe-pu	𐘿𐘫
+2	qe-si-•zu-e	𐘿𐘤𐙀𐘡
+2	re-ti	𐘙𐘠
+2	ru-di	𐘘𐘆
+2	ru-ma	𐘘𐙁
+2	ru-ma-ta	𐘘𐙁𐘳
+2	sa-ra	𐘞𐘴
+2	sa-sa-ra-me	𐘞𐘞𐘴𐘋
+2	si-cyp	𐘤𐙗
+2	si-da-re	𐘤𐘀𐘙
+2	si-ka	𐘤𐘾
+2	si-pi-ki	𐘤𐘢𐘸
+2	si-te	𐘤𐘃
+2	si-tu	𐘤𐘹
+2	ta-na	𐘳𐘅
+2	ta-ni-ka	𐘳𐘝𐘾
+2	ta-ti	𐘳𐘠
+2	te-ki	𐘃𐘸
+2	ti-na	𐘠𐘅
+2	ti-ti-ku	𐘠𐘠𐙂
+2	twe	𐙆
+2	u-na-ka	𐘉𐘅𐘾
+2	wa-di-ni	𐘮𐘆𐘝
+2	zo	𐘎
+2	•nü-ni	𐘰𐘝
+2	•zu-di-ra	𐙀𐘆𐘴
+2	•zu-du	𐙀𐘬
+1	a-da	𐘇𐘀
+1	a-da-ki-si-ka	
+1	a-da-qif-ri	𐘇𐘀𐘐𐘭
+1	a-da-ra	𐘇𐘀𐘴
+1	a-da-ro	𐘇𐘀𐘁
+1	a-de	𐘇𐘦
+1	a-di-da-ki-ti-pa-ku	𐘇𐘆𐘀𐘸𐘠𐘂𐙂
+1	a-di-ki-te	𐘇𐘆𐘸𐘃
+1	a-di-ki-te-te	𐘇𐘆𐘸𐘃𐘃
+1	a-di-ne	𐘇𐘆𐘗
+1	a-du-ni-ta-na	𐘇𐘬𐘝𐘳𐘅
+1	a-du-re	𐘇𐘬𐘙
+1	a-du-za	𐘇𐘬𐘍
+1	a-i	𐘇𐘚
+1	a-je	𐘇𐘧
+1	a-je-sa	𐘇𐘧𐘞
+1	a-ju	𐘇𐘶
+1	a-ka-nu-za-ti	𐘇𐘾𐘯𐘍𐘠
+1	a-ka-ta	𐘇𐘾𐘳
+1	a-ki-ro	𐘇𐘸𐘁
+1	a-ko-a-ne	𐘇𐘺𐘇𐘗
+1	a-ku-ju-pa-•dwo	𐘇𐙂𐘶𐘂𐙈
+1	a-ma-ja	𐘇𐙁𐘱
+1	a-ma-ra-ne	𐘇𐙁𐘴𐘗
+1	a-ma-wa-si	𐘇𐙁𐘮𐘤
+1	a-mi-da-o	𐘇𐘻𐘀𐘵
+1	a-mi-da-u	𐘇𐘻𐘀𐘉
+1	a-na	𐘇𐘅
+1	a-na-nu-si-ja-se	𐘇𐘅𐘯𐘤𐘱𐘈
+1	a-ne	𐘇𐘗
+1	a-nu	𐘇𐘯
+1	a-pa-ki	𐘇𐘂𐘸
+1	a-pa-ra-ne	𐘇𐘂𐘴𐘗
+1	a-pi	𐘇𐘢
+1	a-pu₂-na-du	𐘇𐘜𐘅𐘬
+1	a-ra-ju	𐘇𐘴𐘶
+1	a-ra-ju-u-de-za	𐘇𐘴𐘶𐘉𐘦𐘍
+1	a-ra-na-re	𐘇𐘴𐘅𐘙
+1	a-ra-tu-me	𐘇𐘴𐘹𐘋
+1	a-re-da-i	𐘇𐘙𐘀𐘚
+1	a-re-pi-re-na	𐘇𐘙𐘢𐘙𐘅
+1	a-re-sa-na	𐘇𐘙𐘞𐘅
+1	a-ri-ja	𐘇𐘭𐘱
+1	a-ri-ni-ta	𐘇𐘭𐘝𐘳
+1	a-ri-pa	𐘇𐘭𐘂
+1	a-ri-su	𐘇𐘭𐘲
+1	a-ro-te	𐘇𐘁𐘃
+1	a-ru-da-ra	𐘇𐘘𐘀𐘴
+1	a-ru-ra	𐘇𐘘𐘴
+1	a-sa-da-ka	𐘇𐘞𐘀𐘾
+1	a-sa-mu-ne	𐘇𐘞𐘕𐘗
+1	a-sa-ra₂	𐘇𐘞𐘽
+1	a-sa-sa-ra	𐘇𐘞𐘞𐘴
+1	a-sa-sa-ra-me	𐘇𐘞𐘞𐘴𐘋
+1	a-se-ja	𐘇𐘈𐘱
+1	a-se-re-za	𐘇𐘈𐘙𐘍
+1	a-se-tu-qif	𐘇𐘈𐘹𐘐
+1	a-si-ki-ra	𐘇𐘤𐘸𐘴
+1	a-si-su-po-a	𐘇𐘤𐘲𐘊𐘇
+1	a-si-•dwo	𐘇𐘤𐙈
+1	a-su-mi-•dwo	𐘇𐘲𐘻𐙈
+1	a-su-pu-wa	𐘇𐘲𐘫𐘮
+1	a-ta-de	𐘇𐘳𐘦
+1	a-ta-na-je	𐘇𐘳𐘅𐘧
+1	a-ta-re	𐘇𐘳𐘙
+1	a-ti-ka	𐘇𐘠𐘾
+1	a-ti-ru	𐘇𐘠𐘘
+1	a-tu	𐘇𐘹
+1	a-tu-ri-si-ti	𐘇𐘹𐘭𐘤𐘠
+1	a-wa-pi	𐘇𐘮𐘢
+1	a-•zu-ra	𐘇𐙀𐘴
+1	au-re-te	𐙄𐘙𐘃
+1	da-da	𐘀𐘀
+1	da-du-ma-ta	𐘀𐘬𐙁𐘳
+1	da-du-mi-ne	𐘀𐘬𐘻𐘗
+1	da-i-pi-ta	𐘀𐘚𐘢𐘳
+1	da-ju-te	
+1	da-ka	𐘀𐘾
+1	da-ki	
+1	da-ku-na	𐘀𐙂𐘅
+1	da-ma-te	𐘀𐙁𐘃
+1	da-mi-nu	𐘀𐘻𐘯
+1	da-na-si	𐘀𐘅𐘤
+1	da-na-tu	𐘀𐘅𐘹
+1	da-ra	𐘀𐘴
+1	da-re-ku	𐘀𐘙𐙂
+1	da-ro-pa	𐘀𐘁𐘂
+1	da-ru-ne-te	𐘀𐘘𐘗𐘃
+1	da-se-ra-te	𐘀𐘈𐘴𐘃
+1	da-ta-ra	𐘀𐘳𐘴
+1	da-ta-re	𐘀𐘳𐘙
+1	da-tu	
+1	da-wa	𐘀𐘮
+1	da-•dwo	𐘀𐙈
+1	da-•nü	𐘀𐘰
+1	de-di	𐘦𐘆
+1	de-ju-ku	𐘦𐘶𐙂
+1	de-ki-ti	𐘦𐘸𐘠
+1	de-me-te	𐘦𐘋𐘃
+1	de-mi	𐘦𐘻
+1	de-nu	𐘦𐘯
+1	de-su	𐘦𐘲
+1	di-de	𐘆𐘦
+1	di-di-ka-se	𐘆𐘆𐘾𐘈
+1	di-ja-i	𐘆𐘱𐘚
+1	di-ka-ki	𐘆𐘾𐘸
+1	di-ki	𐘆𐘸
+1	di-na-ro	𐘆𐘅𐘁
+1	di-pa-ja	𐘆𐘂𐘱
+1	di-ra-di-na	
+1	di-ri-na	𐘆𐘭𐘅
+1	di-si	𐘆𐘤
+1	double	
+1	du-da-ma	
+1	du-ja	𐘬𐘱
+1	du-ju	𐘬𐘶
+1	du-ka	𐘬𐘾
+1	du-ma-i-na	
+1	du-me-di	𐘬𐘋𐘆
+1	du-ne-mi	𐘬𐘗𐘻
+1	du-pi-te-wa	𐘬𐘢𐘃𐘮
+1	du-ra	𐘬𐘴
+1	du-ra-re	𐘬𐘴𐘙
+1	du-ri	𐘬𐘭
+1	du-ri-te	𐘬𐘭𐘃
+1	du-ru-wi	𐘬𐘘𐘣
+1	du-su-ni	𐘬𐘲𐘝
+1	du-wa-to	𐘬𐘮𐘄
+1	du-•nü-na	𐘬𐘰𐘅
+1	du-•zu-wa	𐘬𐙀𐘮
+1	e-ka	𐘡𐘾
+1	e-ku-ru	𐘡𐙂𐘘
+1	e-mi	𐘡𐘻
+1	e-na-si	𐘡𐘅𐘤
+1	e-to-ri	𐘡𐘄𐘭
+1	gra-ti-e	𐙉𐘠𐘡
+1	i-da-da	𐘚𐘀𐘀
+1	i-da-mi	𐘚𐘀𐘻
+1	i-da-•nü-i-sa-ri	𐘚𐘀𐘰𐘚𐘞𐘭
+1	i-de	𐘚𐘦
+1	i-di	𐘚𐘆
+1	i-ja-pa	𐘚𐘱𐘂
+1	i-ja-pa-me	𐘚𐘱𐘂𐘋
+1	i-ja-re-di-ja	𐘚𐘱𐘙𐘆𐘱
+1	i-ja-te	𐘚𐘱𐘃
+1	i-ki	𐘚𐘸
+1	i-ki-ra	𐘚𐘸𐘴
+1	i-ki-ru-qe	𐘚𐘸𐘘𐘿
+1	i-ku-pi	𐘚𐙂𐘢
+1	i-ku-ri-na	𐘚𐙂𐘭𐘅
+1	i-ku-ta	𐘚𐙂𐘳
+1	i-ma	𐘚𐙁
+1	i-mi-sa-ra	𐘚𐘻𐘞𐘴
+1	i-na-i-da	𐘚𐘅𐘚𐘀
+1	i-na-ja-pa-qa	𐘚𐘅𐘱𐘂𐘌
+1	i-na-ja-re-ta	𐘚𐘅𐘱𐘙𐘳
+1	i-na-ta-i-zu-di-si-ka	𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾
+1	i-na-wa	𐘚𐘅𐘮
+1	i-oliv	𐘚𐙋
+1	i-pa-sa-ja	𐘚𐘂𐘞𐘱
+1	i-pi	𐘚𐘢
+1	i-qa-•dwo	𐘚𐘌𐙈
+1	i-ra₂	𐘚𐘽
+1	i-ru-ja	𐘚𐘘𐘱
+1	i-sa-ri-ke	𐘚𐘞𐘭𐘥
+1	i-ta-ja	𐘚𐘳𐘱
+1	i-ti	𐘚𐘠
+1	i-ti-ni-sa	𐘚𐘠𐘝𐘞
+1	i-ti-ti-ku-ni	𐘚𐘠𐘠𐙂𐘝
+1	i-•zu-ri-ni-ta	𐘚𐙀𐘭𐘝𐘳
+1	ja-da-su	𐘱𐘀𐘲
+1	ja-di	𐘱𐘆
+1	ja-di-ki-tu	𐘱𐘆𐘸𐘹
+1	ja-du-ra-ti	𐘱𐘬𐘴𐘠
+1	ja-i-nwa-za	𐘱𐘚𐘩𐘍
+1	ja-ki	𐘱𐘸
+1	ja-ki-si-ki-nu	𐘱𐘸𐘤𐘸𐘯
+1	ja-ku	𐘱𐙂
+1	ja-ku-ti	𐘱𐙂𐘠
+1	ja-ma-u-ti	𐘱𐙁𐘉𐘠
+1	ja-mi-da-re	𐘱𐘻𐘀𐘙
+1	ja-pa-qa	𐘱𐘂𐘌
+1	ja-pa-ra-ja-se	𐘱𐘂𐘴𐘱𐘈
+1	ja-pi	𐘱𐘢
+1	ja-qe	𐘱𐘿
+1	ja-ra	𐘱𐘴
+1	ja-re	𐘱𐘙
+1	ja-re-mi	𐘱𐘙𐘻
+1	ja-ru-ma-ne	𐘱𐘘𐙁𐘗
+1	ja-sa-ja	𐘱𐘞𐘱
+1	ja-sa-mu	𐘱𐘞𐘕
+1	ja-sa-ra-a-na-ne	𐘱𐘞𐘴𐘇𐘅𐘗
+1	ja-sa-sa-ra-ma	𐘱𐘞𐘞𐘴𐙁
+1	ja-si-da-ra	𐘱𐘤𐘀𐘴
+1	ja-si-e	𐘱𐘤𐘡
+1	ja-su	𐘱𐘲
+1	ja-su-ma-tu-oliv	𐘱𐘲𐙁𐘹𐙋
+1	ja-ti	𐘱𐘠
+1	ja-ti-tu-ku	𐘱𐘠𐘹𐙂
+1	ja-to-ja	𐘱𐘄𐘱
+1	ja-u-pa-ma-i-da	𐘱𐘉𐘂𐙁𐘚𐘀
+1	ja-wa	𐘱𐘮
+1	ja-wa-pi	𐘱𐘮𐘢
+1	ja-wi	𐘱𐘣
+1	je-ta-na	𐘧𐘳𐘅
+1	ju-ra	𐘶𐘴
+1	ka-du-ma-ne	𐘾𐘬𐙁𐘗
+1	ka-i-ka	𐘾𐘚𐘾
+1	ka-i-ro	𐘾𐘚𐘁
+1	ka-je	𐘾𐘧
+1	ka-ju	𐘾𐘶
+1	ka-ku	𐘾𐙂
+1	ka-ku-ne-te	𐘾𐙂𐘗𐘃
+1	ka-na-ni-ti	𐘾𐘅𐘝𐘠
+1	ka-ne	𐘾𐘗
+1	ka-ni-ja-mi	𐘾𐘝𐘱𐘻
+1	ka-nu-ti	𐘾𐘯𐘠
+1	ka-po-ru	𐘾𐘊𐘘
+1	ka-qa	𐘾𐘌
+1	ka-ra₂	𐘾𐘽
+1	ka-re-ro	𐘾𐘙𐘁
+1	ka-ro-na	𐘾𐘁𐘅
+1	ka-sa	𐘾𐘞
+1	ka-sa-ru	𐘾𐘞𐘘
+1	ka-si	𐘾𐘤
+1	ka-si-a-te	𐘾𐘤𐘇𐘃
+1	ka-ta-re	𐘾𐘳𐘙
+1	ka-ti	𐘾𐘠
+1	ka-u-de-ta	𐘾𐘉𐘦𐘳
+1	ke-ju-mi	𐘥𐘶𐘻
+1	ke-ki-ru	𐘥𐘸𐘘
+1	ke-si-te	𐘥𐘤𐘃
+1	ki-da	𐘸𐘀
+1	ki-da-ta	𐘸𐘀𐘳
+1	ki-ki-na	𐘸𐘸𐘅
+1	ki-ki-ra-ja	𐘸𐘸𐘴𐘱
+1	ki-ma-ru	𐘸𐙁𐘘
+1	ki-nu	𐘸𐘯
+1	ki-ra	𐘸𐘴
+1	ki-re	𐘸𐘙
+1	ki-re-ta₂	𐘸𐘙𐘷
+1	ki-re-za	𐘸𐘙𐘍
+1	ki-ri-si	𐘸𐘭𐘤
+1	ki-ru	𐘸𐘘
+1	ki-sa-ne	𐘸𐘞𐘗
+1	ki-ta	𐘸𐘳
+1	ki-ta-i	
+1	ki-ta-ni-te	𐘸𐘳𐘝𐘃
+1	ko-a-du-wa	𐘺𐘇𐘬𐘮
+1	ko-e	𐘺𐘡
+1	ko-ja	𐘺𐘱
+1	ko-mu	𐘺𐘕
+1	ko-ru	
+1	ku-da	𐙂𐘀
+1	ku-ka	𐙂𐘾
+1	ku-ku-da-ra	𐙂𐙂𐘀𐘴
+1	ku-ma-ro	𐙂𐙁𐘁
+1	ku-me-ta	𐙂𐘋𐘳
+1	ku-mi-na	𐙂𐘻𐘅
+1	ku-ni-te	𐙂𐘝𐘃
+1	ku-pa-ja	𐙂𐘂𐘱
+1	ku-pa-ri	𐙂𐘂𐘭
+1	ku-pa-•zu	
+1	ku-pi	𐙂𐘢
+1	ku-ru-ku	𐙂𐘘𐙂
+1	ku-ru-ma	𐙂𐘘𐙁
+1	ku-ta	𐙂𐘳
+1	ku-tu-ko-re	𐙂𐘹𐘺𐘙
+1	ku-•nü-na-tu	𐙂𐘰𐘅𐘹
+1	ku-•nü-ri-ja	𐙂𐘰𐘭𐘱
+1	ku-•nü-•nü	𐙂𐘰𐘰
+1	ku-•zu-na	𐙂𐙀𐘅
+1	ma-i	𐙁𐘚
+1	ma-i-mi	𐙁𐘚𐘻
+1	ma-ka-i-se	𐙁𐘾𐘚𐘈
+1	ma-ka-i-ta	𐙁𐘾𐘚𐘳
+1	ma-ka-ri-te	𐙁𐘾𐘭𐘃
+1	ma-re-ri-mi-de	𐙁𐘙𐘭𐘻𐘦
+1	ma-ri	𐙁𐘭
+1	ma-ru-a	𐙁𐘘𐘇
+1	ma-si-du	𐙁𐘤𐘬
+1	ma-su-mi	𐙁𐘲𐘻
+1	ma-ta-ri-ta	𐙁𐘳𐘭𐘳
+1	ma-te-re	𐙁𐘃𐘙
+1	ma-te-ti	𐙁𐘃𐘠
+1	ma-ti-za-i-te	𐙁𐘠𐘍𐘚𐘃
+1	ma-za	𐙁𐘍
+1	me-ki-di	𐘋𐘸𐘆
+1	me-mi-ja-ru	𐘋𐘻𐘱𐘘
+1	me-vin	𐘋𐙍
+1	mi-da-ni	
+1	mi-da-ra	𐘻𐘀𐘴
+1	mi-ja	𐘻𐘱
+1	mi-ka	𐘻𐘾
+1	mi-ki-sa-ne	𐘻𐘸𐘞𐘗
+1	mi-ne	𐘻𐘗
+1	mi-nu-mi	𐘻𐘯𐘻
+1	mi-re	𐘻𐘙
+1	mi-ta	𐘻𐘳
+1	mi-ti	𐘻𐘠
+1	mi-za-se	𐘻𐘍𐘈
+1	mina	
+1	na-a-•nü	𐘅𐘇𐘰
+1	na-da-re	𐘅𐘀𐘙
+1	na-ki	𐘅𐘸
+1	na-qif-ne	𐘅𐘐𐘗
+1	na-ti	𐘅𐘠
+1	ne-mi	𐘗𐘻
+1	ni-ja-nu	𐘝𐘱𐘯
+1	ni-mi	𐘝𐘻
+1	ni-nu-ni	𐘝𐘯𐘝
+1	ni-pi	𐘝𐘢
+1	ni-ra	𐘝𐘴
+1	nu-ri-ja	𐘯𐘭𐘱
+1	nu-se	𐘯𐘈
+1	o-da	𐘵𐘀
+1	o-mi	𐘵𐘻
+1	o-ra₂-di-ne	𐘵𐘽𐘆𐘗
+1	o-su-qa-re	𐘵𐘲𐘌𐘙
+1	o-te-ja	𐘵𐘃𐘱
+1	o-ti	𐘵𐘠
+1	ole-ja	𐙖𐘱
+1	ole-ta	𐙖𐘳
+1	pa-da-ni	𐘂𐘀𐘝
+1	pa-i-ki	𐘂𐘚𐘸
+1	pa-ja	
+1	pa-nu-qe	𐘂𐘯𐘿
+1	pa-re	𐘂𐘙
+1	pa-ri-de	𐘂𐘭𐘦
+1	pa-ro-su	𐘂𐘁𐘲
+1	pa-sa-ri-ja	𐘂𐘞𐘭𐘱
+1	pa-ta	𐘂𐘳
+1	pa-ta-da	𐘂𐘳𐘀
+1	pa-za	𐘂𐘍
+1	pi-ku-•zu	𐘢𐙂𐙀
+1	pi-mi-na-te	𐘢𐘻𐘅𐘃
+1	pi-mu	𐘢𐘕
+1	pi-nu	𐘢𐘯
+1	pi-o	𐘢𐘵
+1	pi-ru-e-ju	𐘢𐘘𐘡𐘶
+1	pi-ta-ja	𐘢𐘳𐘱
+1	pi-ta-ka-se	𐘢𐘳𐘾𐘈
+1	pi-ta-ke-si	𐘢𐘳𐘥𐘤
+1	pi-ta-ra	𐘢𐘳𐘴
+1	pi-te-ri	𐘢𐘃𐘭
+1	po-di-•nü	𐘊𐘆𐘰
+1	po-sa	𐘊𐘞
+1	pu-de	𐘫𐘦
+1	pu-ko	𐘫𐘺
+1	pu-ma-ku	𐘫𐙁𐙂
+1	pu-ra	𐘫𐘴
+1	pu₂-ra₂	𐘜𐘽
+1	qa-ki	𐘌𐘸
+1	qa-ki-se-nu-ti	𐘌𐘸𐘈𐘯𐘠
+1	qa-ki-ti	𐘌𐘸𐘠
+1	qa-ku-re	𐘌𐙂𐘙
+1	qa-ne	𐘌𐘗
+1	qa-qa-da	𐘌𐘌𐘀
+1	qa-ra₂-wa	𐘌𐘽𐘮
+1	qa-ru	𐘌𐘘
+1	qa-sa	𐘌𐘞
+1	qa-sa-ra-ku	𐘌𐘞𐘴𐙂
+1	qa-ti-da-te	𐘌𐘠𐘀𐘃
+1	qa-ti-ju	𐘌𐘠𐘶
+1	qa-ti-ki	𐘌𐘠𐘸
+1	qa-•dwo-sa	𐘌𐙈𐘞
+1	qe-pi-ta	𐘿𐘢𐘳
+1	qe-ra₂-ja	𐘿𐘽𐘱
+1	qe-ra₂-u	𐘿𐘽𐘉
+1	qe-si-te	𐘿𐘤𐘃
+1	qe-su-pu	𐘿𐘲𐘫
+1	qe-ti	𐘿𐘠
+1	qe-ti-ra-du	𐘿𐘠𐘴𐘬
+1	qe-tu	
+1	qe-tu-ne	𐘿𐘹𐘗
+1	qif-ja-du	𐘐𐘱𐘬
+1	qif-ri-tu-qa	
+1	qif-tu	𐘐𐘹
+1	ra-ki-ni-se	𐘴𐘸𐘝𐘈
+1	ra-ki-ta-na-si	𐘴𐘸𐘳𐘅𐘤
+1	ra-ma-si	𐘴𐙁𐘤
+1	ra-na-re	𐘴𐘅𐘙
+1	ra-na-tu-su	𐘴𐘅𐘹𐘲
+1	ra-o-di-ki	𐘴𐘵𐘆𐘸
+1	ra-ri	𐘴𐘭
+1	ra-ri-de	𐘴𐘭𐘦
+1	ra-te	𐘴𐘃
+1	ra₂-ro-re	𐘽𐘁𐘙
+1	re-a-ja	𐘙𐘇𐘱
+1	re-di-se	𐘙𐘆𐘈
+1	re-i-ke	𐘙𐘚𐘥
+1	re-ja	𐘙𐘱
+1	re-ro	𐘙𐘁
+1	re-sa	𐘙𐘞
+1	re-su	𐘙𐘲
+1	ri-da-u	𐘭𐘀𐘉
+1	ri-ja	𐘭𐘱
+1	ri-ka-ta	𐘭𐘾𐘳
+1	ri-mi-si	𐘭𐘻𐘤
+1	ri-ru-ma	𐘭𐘘𐙁
+1	ri-ru-ma-ti	𐘭𐘘𐙁𐘠
+1	ri-ta-je	𐘭𐘳𐘧
+1	ro-e	𐘁𐘡
+1	ro-ke	𐘁𐘥
+1	ro-ni	𐘁𐘝
+1	ro-qa	𐘁𐘌
+1	ru-i-ko	𐘘𐘚𐘺
+1	ru-ja	𐘘𐘱
+1	ru-ja-ta-di	𐘘𐘱𐘳𐘆
+1	ru-ma-ta-se	𐘘𐙁𐘳𐘈
+1	ru-mi	𐘘𐘻
+1	ru-na	𐘘𐘅
+1	ru-ni	𐘘𐘝
+1	ru-ra₂	𐘘𐘽
+1	ru-sa	𐘘𐘞
+1	ru-•zu-na	𐘘𐙀𐘅
+1	sa-di	𐘞𐘆
+1	sa-ja-ma	𐘞𐘱𐙁
+1	sa-ma-ti	
+1	sa-mi-da-e	𐘞𐘻𐘀𐘡
+1	sa-ne	𐘞𐘗
+1	sa-po	𐘞𐘊
+1	sa-pu	𐘞𐘫
+1	sa-qe-ri	𐘞𐘿𐘭
+1	sa-ra-di	𐘞𐘴𐘆
+1	sa-ra-me	𐘞𐘴𐘋
+1	sa-ra-ra	𐘞𐘴𐘴
+1	sa-re-ju	𐘞𐘙𐘶
+1	sa-ri	𐘞𐘭
+1	sa-ro-qe	𐘞𐘁𐘿
+1	sa-ta	𐘞𐘳
+1	se-i	𐘈𐘚
+1	se-je	𐘈𐝕
+1	se-ka-na-si	𐘈𐘾𐘅𐘤
+1	se-ku-tu	𐘈𐙂𐘹
+1	se-sa-•nü	𐘈𐘞𐘰
+1	se-si	𐘈𐘤
+1	se-si-ta	𐘈𐘤𐘳
+1	se-to-i-ja	𐘈𐘄𐘚𐘱
+1	se-wa-au-de	𐘈𐘮𐙄𐘦
+1	si-da-ro	𐘤𐘀𐘁
+1	si-da-te	𐘤𐘀𐘃
+1	si-di-ja	𐘤𐘆𐘱
+1	si-du	
+1	si-i-si	𐘤𐘚𐘤
+1	si-ki-ra	𐘤𐘸𐘴
+1	si-ma	𐘤𐙁
+1	si-na	𐘤𐘅
+1	si-ni	𐘤𐘝
+1	si-pu	𐘤𐘫
+1	si-ra	𐘤𐘴
+1	si-te-tu	𐘤𐘃𐘹
+1	si-tu-ra₂-re	𐘤𐘹𐘽𐘙
+1	su-du	𐘲𐘬
+1	su-ju-ta	𐘲𐘶𐘳
+1	su-ki	𐘲𐘸
+1	su-ki-ri-ta	𐘲𐘸𐘭𐘳
+1	su-ki-ri-te-i-ja	𐘲𐘸𐘭𐘃𐘚𐘱
+1	su-pa	𐘲𐘂
+1	su-pu₂	𐘲𐘜
+1	su-re	𐘲𐘙
+1	ta-ja	𐘳𐘱
+1	ta-ke	𐘳𐘥
+1	ta-ma-pi	𐘳𐙁𐘢
+1	ta-mi	𐘳𐘻
+1	ta-na-ma-je	𐘳𐘅𐙁𐘧
+1	ta-na-ra-te-u-ti-nu	𐘳𐘅𐘴𐘃𐘉𐘠𐘯
+1	ta-na-te	𐘳𐘅𐘃
+1	ta-ne	𐘳𐘗
+1	ta-nu-mu-ti	𐘳𐘯𐘕𐘠
+1	ta-nu-ni-ki-na	𐘳𐘯𐘝𐘸𐘅
+1	ta-pa	𐘳𐘂
+1	ta-pi	𐘳𐘢
+1	ta-pi-si-di	𐘳𐘢𐘤𐘆
+1	ta-ra	𐘳𐘴
+1	ta-sa-za	𐘳𐘞𐘍
+1	ta-ta	𐘳𐘳
+1	ta-te-i-ke-za-re	𐘳𐘃𐘚𐘥𐘍𐘙
+1	ta-u	𐘳𐘉
+1	ta₂-ta-re	𐘷𐘳𐘙
+1	ta₂-ti-te	𐘷𐘠𐘃
+1	te-ja	𐘃𐘱
+1	te-ja-re	𐘃𐘱𐘙
+1	te-ke	𐘃𐘥
+1	te-me-da-i	𐘃𐘋𐘀𐘚
+1	te-ni	𐘃𐘝
+1	te-nu-re	𐘃𐘯𐘙
+1	te-su-de-se-ke-i	𐘃𐘲𐘦𐘈𐘥𐘚
+1	te-te	𐘃𐘃
+1	ti-da-ta	
+1	ti-di-te-qa-ti	𐘠𐘆𐘃𐘌𐘠
+1	ti-du-ni	𐘠𐘬𐘝
+1	ti-ma	𐘠𐙁
+1	ti-ma-ru-wi-te	𐘠𐙁𐘘𐘣𐘃
+1	ti-ni	𐘠𐘝
+1	ti-ni-ta	𐘠𐘝𐘳
+1	ti-nu-ja	𐘠𐘯𐘱
+1	ti-sa	𐘠𐘞
+1	ti-ti-ma	𐘠𐘠𐙁
+1	to-me	𐘄𐘋
+1	to-sa	𐘄𐘞
+1	tu-ma	𐘹𐙁
+1	tu-me	𐘹𐘋
+1	tu-me-i	𐘹𐘋𐘚
+1	tu-me-pa-ja	𐘹𐘋𐘂𐘱
+1	tu-me-se	𐘹𐘋𐘈
+1	tu-mi-ti-za-se	𐘹𐘻𐘠𐘍𐘈
+1	tu-nu	𐘹𐘯
+1	tu-pa	𐘹𐘂
+1	tu-pa-di-da	
+1	tu-pa-ri	𐘹𐘂𐘭
+1	tu-pi-ta	𐘹𐘢𐘳
+1	tu-qe-nu	𐘹𐘿𐘯
+1	tu-qif-ri-na	𐘹𐘐𐘭𐘅
+1	tu-ru-nu-se-me	𐘹𐘘𐘯𐘈𐘋
+1	tu-ru-sa	𐘹𐘘𐘞
+1	tu-se-su-ki	𐘹𐘈𐘲𐘸
+1	tu-su-pu₂	𐘹𐘲𐘜
+1	u-de-za	𐘉𐘦𐘍
+1	u-di-mi	𐘉𐘆𐘻
+1	u-di-ri-ki	𐘉𐘆𐘭𐘸
+1	u-ju	𐘉𐘶
+1	u-ka-re	𐘉𐘾𐘙
+1	u-ki	𐘉𐘸
+1	u-na-a	𐘉𐘅𐘇
+1	u-na-ka-na	𐘉𐘅𐘾𐘅
+1	u-na-ka-na-si-ole	𐘉𐘅𐘾𐘅𐘤𐙖
+1	u-na-na	𐘉𐘅𐘅
+1	u-na-ru-ka-na-ti	𐘉𐘅𐘘𐘾𐘅𐘠
+1	u-qe-ti	𐘉𐘿𐘠
+1	u-re-wi	𐘉𐘙𐘣
+1	u-su	𐘉𐘲
+1	u-ta-i-se	𐘉𐘳𐘚𐘈
+1	u-ta-i-si	𐘉𐘳𐘚𐘤
+1	u-ta-ro	𐘉𐘳𐘁
+1	u-ta₂	𐘉𐘷
+1	u-te	𐘉𐘃
+1	u-ti	𐘉𐘠
+1	u-ti-nu	𐘉𐘠𐘯
+1	vin-mi	𐙍𐘻
+1	vin-su	𐙍𐘲
+1	vin-vin	𐙍𐙍
+1	wa-du-ni-mi	
+1	wa-ja-pi	𐘮𐘱𐘢
+1	wa-o-mi	𐘮𐘵𐘻
+1	wa-te	𐘮𐘃
+1	wa-tu-ma-re	𐘮𐘹𐙁𐘙
+1	wi-di-na	𐘣𐘆𐘅
+1	wi-du	𐘣𐘬
+1	wi-ja	𐘣𐘱
+1	wi-na-du	
+1	wi-pi	𐘣𐘢
+1	wi-sa	𐘣𐘞
+1	wi-sa-sa-ne	
+1	wi-te-ja-mu	𐘣𐘃𐘱𐘕
+1	wi-te-ro	𐘣𐘃𐘁
+1	za-si-•zu	𐘍𐘤𐙀
+1	zu-ri-ni-ma	𐙀𐘭𐘝𐙁
+1	•dwo-mi	𐙈𐘻
+1	•dwo-mi-na	𐙈𐘻𐘅
+1	•nü-da-ku-se-ne	𐘰𐘀𐙂𐘈𐘗
+1	•nü-ni-wi	𐘰𐘝𐘣
+1	•zu-ju-pu₂	𐙀𐘶𐘜
+1	•zu-su	𐙀𐘲
