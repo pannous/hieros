@@ -77,7 +77,10 @@ def convert_token(token: str, code2char: dict[str, str], unresolved: set[str]) -
         unresolved.add(code)
         rendered = f"[{code}]"
 
-    return f"{count}{rendered}" if count else rendered
+    # Proto-Elamite numerals are additive tallies: N(count) means the sign
+    # is impressed `count` times, so roll that out as repeated glyphs
+    # instead of a decimal digit prefix.
+    return rendered * int(count) if count else rendered
 
 
 def convert_atf(atf_text: str, code2char: dict[str, str]) -> tuple[str, set[str]]:
