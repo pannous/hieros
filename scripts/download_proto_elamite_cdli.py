@@ -42,8 +42,15 @@ SEGMENT_RE = re.compile(r"^([0-9]*)\(?([MN][0-9A-Za-z@~]*?)\)?$")
 # Confirmed CDLI data-entry typos (wrong sign-class letter): the source ATF
 # has no catalogued M-sign matching these, but the equivalent N-sign is
 # well attested and fits a numeral-tally context.
+#
+# The M370+X entries were resolved by hand: M370's only catalogued
+# ligature partners are M046/M072/M386/M388, and the unclear ("X")
+# component in these specific occurrences was identified as M046.
 CODE_ALIASES = {
     "M39B": "N39B",
+    "M370+X+M370": "M370+M046+M370",
+    "M370+x+M370": "M370+M046+M370",
+    "M370~b+X": "M370~b+M046",
 }
 
 
@@ -160,6 +167,36 @@ def convert_atf(atf_text: str, code2char: dict[str, str]) -> tuple[str, set[str]
     return TOKEN_RE.sub(repl, atf_text), unresolved
 
 
+# Lines that are pure ATF bookkeeping (language tag, object type, boilerplate
+# "nothing here" notes) rather than text content - drop them for a reading
+# copy. The raw ATF file keeps all of this; only the Unicode rendering trims
+# it.
+BOILERPLATE_LINE_RE = re.compile(
+    r"^(?:#atf: lang qpc|@tablet|\$ blank space|\$ \(no linguistic content\)) *\n",
+    re.M,
+)
+# A trailing space (unlike the bare "$ seal N" form) marks a standalone
+# placeholder with no follow-up identification, e.g. "# seal 1 = PES0985"
+# on the next line - those bare ones are kept.
+SEAL_MARKER_RE = re.compile(r"^\$ seal [0-9]+(?: \?)? \n", re.M)
+
+
+def clean_for_display(text: str) -> str:
+    """Trim ATF bookkeeping and tidy translation comments for reading."""
+    text = BOILERPLATE_LINE_RE.sub("", text)
+    text = SEAL_MARKER_RE.sub("", text)
+    # '[...]' is CDLI's own broken-text ellipsis; render it as one.
+    text = text.replace("[...]", "…")
+    # '#tr.en: ...' translation comments: drop the ATF tag itself and
+    # shorten the stock "N belonging to X" phrasing to "N of X".
+    text = text.replace("tr.en:", "")
+    text = text.replace("belonging to", "of")
+    # The case-separator comma (and stray commas elsewhere) don't carry
+    # information once cases are just space-joined on one line.
+    text = text.replace(",", "")
+    return text
+
+
 def fetch_atf() -> str:
     req = urllib.request.Request(SEARCH_URL, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=120) as resp:
@@ -187,6 +224,7 @@ def main() -> None:
     print(f"loaded {len(code2char):,} sign codes from {TSV_PATH}")
 
     unicode_text, unresolved = convert_atf(atf_text, code2char)
+    unicode_text = clean_for_display(unicode_text)
     UNICODE_PATH.write_text(unicode_text, encoding="utf-8")
     print(f"wrote {UNICODE_PATH}")
 
