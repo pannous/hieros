@@ -56,6 +56,22 @@ def clean_code(code: str) -> str:
     return TRAILING_MARKS_RE.sub("", code)
 
 
+VARIANT_SUFFIX_RE = re.compile(r"(~[A-Za-z0-9]+|@[A-Za-z0-9]+)$")
+
+
+def resolve(code: str, code2char: dict[str, str]) -> str | None:
+    """Look up a sign code, falling back to its base sign if the exact
+    graphic variant (trailing ~x / @x) isn't separately catalogued."""
+    while code:
+        if code in code2char:
+            return code2char[code]
+        stripped = VARIANT_SUFFIX_RE.sub("", code)
+        if stripped == code:
+            return None
+        code = stripped
+    return None
+
+
 def convert_token(token: str, code2char: dict[str, str], unresolved: set[str]) -> str:
     """Convert one CDLI sign token (e.g. '3(N01)', 'M157#', '|M002+M379|') to Unicode."""
     m = re.match(r"\|?([0-9]*)\(?([MN][0-9A-Za-z@~+#?!*]*?)\)?\|?$", token)
@@ -64,16 +80,15 @@ def convert_token(token: str, code2char: dict[str, str], unresolved: set[str]) -
     count, code = m.groups()
     code = clean_code(code)
 
-    if "+" in code:
-        parts = [code2char.get(p) for p in code.split("+")]
+    rendered = resolve(code, code2char)
+    if rendered is None and "+" in code:
+        # No catalogued ligature for this exact combination (e.g. a variant
+        # suffix on one component) - fall back to concatenating the
+        # individually resolved components.
+        parts = [resolve(p, code2char) for p in code.split("+")]
         if all(parts):
             rendered = "".join(parts)
-        else:
-            unresolved.add(code)
-            rendered = f"[{code}]"
-    elif code in code2char:
-        rendered = code2char[code]
-    else:
+    if rendered is None:
         unresolved.add(code)
         rendered = f"[{code}]"
 
