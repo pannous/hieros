@@ -25,12 +25,16 @@ import collections
 from pe_signs import base_number, code_to_char_map, glyph_for, load_char_to_code, ROOT
 from analyze_subheader_syllabary import extract_all_line_code_sequences, CATEGORY_SIGNS
 
-# CATEGORY_SIGNS (Dahl, published) plus the two additional glosses this
-# thread pinned down from docs/proto-elamite.md (tentative, personal notes).
-ROLE_SIGNS = CATEGORY_SIGNS | {"M124", "M057"}
+# CATEGORY_SIGNS (Dahl, published) plus glosses this thread pinned down
+# from docs/proto-elamite.md (tentative, personal notes) or from positional
+# behavior matching the known classifiers (M056: overwhelmingly terminal or
+# immediately-pre-M288, same distribution as M288/M346/M376 themselves -
+# reads as a "seed-measure" sub-classifier stacked on M288, not a name).
+ROLE_SIGNS = CATEGORY_SIGNS | {"M124", "M057", "M056"}
 ROLE_GLOSS = {
     "M124": "person",
     "M057": "water buffalo",
+    "M056": "seed-measure (plow/field-area) classifier",
     "M388": "kur/worker",
     "M218": "container/of",
     "M346": "livestock classifier",
@@ -55,6 +59,26 @@ def split_role_residual(prefix: list[str]) -> tuple[list[str], list[str]]:
     for c in prefix:
         (role if base_number(c) in ROLE_SIGNS else residual).append(c)
     return role, residual
+
+
+def classifier_likeness(marker: str, rows) -> tuple[int, float]:
+    """What fraction of a sign's occurrences (anywhere in case-1 content)
+    are either terminal (line-final) or immediately before one of the three
+    known closing classifiers? This is the signature that flagged M056 as
+    a hidden sub-classifier rather than name content (~90%) - a standing
+    diagnostic so we don't repeat that mistake silently on other signs."""
+    freq = 0
+    boundary_like = 0
+    for _, codes in rows:
+        for i, c in enumerate(codes):
+            if base_number(c) != marker:
+                continue
+            freq += 1
+            if i == len(codes) - 1:
+                boundary_like += 1
+            elif i + 1 < len(codes) and base_number(codes[i + 1]) in set(CLASSIFIERS):
+                boundary_like += 1
+    return freq, (boundary_like / freq if freq else 0.0)
 
 
 def main() -> None:
@@ -100,19 +124,26 @@ def main() -> None:
     print()
     print(f"distinct residual exact signs: {len(all_residual_freq)}, distinct residual base signs: {len(all_residual_base_freq)}")
     print()
-    print("=== residual signs, grouped by base, top 30 ===")
-    for base, n in all_residual_base_freq.most_common(30):
+    print("=== residual signs, grouped by base, top 30, with classifier-likeness ===")
+    print("(share of ALL this sign's occurrences that are terminal or immediately")
+    print(" pre-classifier - >70% flags a likely hidden sub-classifier like M056 was)")
+    top30 = all_residual_base_freq.most_common(30)
+    likeness = {base: classifier_likeness(base, rows) for base, _ in top30}
+    for base, n in top30:
         variants = all_residual_base_variants[base]
         variant_str = ", ".join(f"{glyph_for(c, code2char)} {c}×{v}" for c, v in variants.most_common())
-        print(f"{n:3d}  {glyph_for(base, code2char):3s} {base:8s} [{variant_str}]")
+        total_freq, frac = likeness[base]
+        flag = " <- SUSPECT" if frac >= 0.7 else (" <- watch" if frac >= 0.4 else "")
+        print(f"{n:3d}  {glyph_for(base, code2char):3s} {base:8s} boundary-like {100*frac:3.0f}% (of {total_freq}){flag}  [{variant_str}]")
 
     out_tsv = ROOT / "texts" / "proto-elamite" / "kind-residual-signs-grouped.tsv"
     with out_tsv.open("w", encoding="utf-8") as f:
-        f.write("rank\tcount\tglyph\tbase\tvariants\n")
+        f.write("rank\tcount\tglyph\tbase\tboundary_like_pct\tvariants\n")
         for rank, (base, n) in enumerate(all_residual_base_freq.most_common(), 1):
             variants = all_residual_base_variants[base]
             variant_str = ", ".join(f"{glyph_for(c, code2char)} {c}×{v}" for c, v in variants.most_common())
-            f.write(f"{rank}\t{n}\t{glyph_for(base, code2char)}\t{base}\t{variant_str}\n")
+            _, frac = classifier_likeness(base, rows)
+            f.write(f"{rank}\t{n}\t{glyph_for(base, code2char)}\t{base}\t{100*frac:.0f}\t{variant_str}\n")
     print()
     print(f"wrote {out_tsv}")
 
