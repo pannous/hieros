@@ -9,12 +9,17 @@ run before the numeral tally: plausibly a name string. E.g.
     # header
     2. 𛾤 𜌓 𜉉 𜀕 𛿺 𜄱  𛴓 𛴆𛴆𛴆𛴆𛴆𛴆 𛴀𛴀𛴀𛴀
 
-𜄱 (M288) is the single most frequent sign in the whole corpus (Dahl, CDLB
-2002:1) and shows up fused as a suffix in many ligatures (M157+M288,
-M175+M288, M218+M288, M305+M288, ...) - it behaves like a measure/capacity
-classifier that introduces the numeral tally rather than being part of the
-name. So: cut the line at the first pure-numeral token OR the first bare
-M288, and keep only what comes before it.
+A hard case boundary (the first pure-numeral run) ends the scan entirely -
+past that point we're in the quantity case, not the name. But several of
+the signs that dominate this line are themselves known category markers
+rather than name material: Dahl (CDLB 2002:1, Table 2 + section 6) lists
+the corpus's highest-frequency non-numerical signs and states that "except
+for M157 and M346, all of the most frequent signs ... are signs of either
+grain products, containers or persons." Those act as logographic
+classifiers, not syllabic content - similar in function to M288 - but
+unlike M288 they don't reliably sit at the end right before the number, so
+instead of cutting the scan short we just skip them wherever they occur
+and keep scanning for the surrounding name signs.
 """
 from __future__ import annotations
 
@@ -35,7 +40,26 @@ from pe_signs import (
 SYLLABARY_TSV = ROOT / "texts" / "proto-elamite" / "subheader-syllabary.tsv"
 SYLLABARY_GROUPED_TSV = ROOT / "texts" / "proto-elamite" / "subheader-syllabary-grouped.tsv"
 
-M288_CODE = "M288"
+# Dahl's corpus-wide high-frequency signs (CDLB 2002:1, Table 2): "M305
+# (107) M387 (206) M218 (453) M388 (528) M288 (709) M36 (128) M9 (213) M32
+# (132) M297 (222) M66 (139) M157 (247) M1 (152) M346 (253) M263 (164) M54
+# (266) M376 (172) M96 (194) M371 (290)". Per section 6, all but M157 and
+# M346 are identified as signs for "grain products, containers or persons"
+# - i.e. logographic/classifier use, not syllabic content. We exclude the
+# full table (including the two unexplained-but-still-anomalously-frequent
+# M157/M346) rather than cherry-pick, since the whole set is Dahl's own
+# evidence-backed list, not signs we picked for being frequent in our data.
+CATEGORY_SIGNS = {
+    "M305", "M387", "M218", "M388", "M288", "M036", "M009", "M032", "M297",
+    "M066", "M157", "M001", "M346", "M263", "M054", "M376", "M096", "M371",
+}
+
+
+def is_category_tainted(code: str) -> bool:
+    """True if the sign itself, or any '+'-part of a ligature it's fused
+    into (e.g. M218+M288, both of which are category signs on their own),
+    is one of Dahl's category signs."""
+    return any(base_number(part) in CATEGORY_SIGNS for part in code.split("+"))
 
 
 def extract_subheader_tokens(char2code: dict[str, str]) -> list[str]:
@@ -52,8 +76,10 @@ def extract_subheader_tokens(char2code: dict[str, str]) -> list[str]:
             result = classify(tok, char2code)
             if result is not None:
                 kind, code = result
-                if kind == "numeral" or code == M288_CODE:
-                    break  # cut here: rest of the line is the quantity/classifier
+                if kind == "numeral":
+                    break  # hard case boundary: rest of the line is the quantity
+                if is_category_tainted(code):
+                    continue  # skip the classifier, keep scanning for name signs
             tokens.append(tok)
     return tokens
 
