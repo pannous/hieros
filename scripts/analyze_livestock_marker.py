@@ -25,6 +25,8 @@ from analyze_subheader_syllabary import extract_all_line_code_sequences
 
 MARKER = "M346"
 OUT_TSV = ROOT / "texts" / "proto-elamite" / "livestock-kind-candidates.tsv"
+SIGNS_TSV = ROOT / "texts" / "proto-elamite" / "livestock-kind-signs.tsv"
+SIGNS_GROUPED_TSV = ROOT / "texts" / "proto-elamite" / "livestock-kind-signs-grouped.tsv"
 
 
 def extract_kind_candidates(rows: list[tuple[str, list[str]]]) -> list[tuple[str, list[str]]]:
@@ -62,11 +64,49 @@ def main() -> None:
     print(f"of which recur (n>=2): {recurring}")
     print()
 
-    sign_freq = collections.Counter()
+    # Exact-sign and base-grouped frequency, same shape as the header /
+    # subheader syllabary tables - variants folded together so we can spot
+    # whether e.g. M124~a and M124~b are really "the same sign" splitting
+    # the count, before drawing conclusions from raw sign frequency.
+    exact_freq = collections.Counter()
+    base_freq = collections.Counter()
+    base_variants = collections.defaultdict(collections.Counter)
     for _, prefix in candidates:
         for c in prefix:
-            sign_freq[base_number(c)] += 1
-    print(f"distinct base signs used across all kind-strings: {len(sign_freq)}")
+            exact_freq[c] += 1
+            base = base_number(c)
+            base_freq[base] += 1
+            base_variants[base][c] += 1
+
+    print(f"distinct exact signs: {len(exact_freq)}, distinct base signs: {len(base_freq)}")
+    print()
+
+    print("=== exact signs, top 30 ===")
+    for code, n in exact_freq.most_common(30):
+        print(f"{n:3d}  {glyph_for(code, code2char)} {code}")
+    print()
+
+    print("=== grouped by base sign (variants folded together), top 30 ===")
+    for base, n in base_freq.most_common(30):
+        variants = base_variants[base]
+        variant_str = ", ".join(f"{glyph_for(c, code2char)} {c}×{v}" for c, v in variants.most_common())
+        print(f"{n:3d}  {glyph_for(base, code2char):3s} {base:8s} [{variant_str}]")
+
+    with SIGNS_TSV.open("w", encoding="utf-8") as f:
+        f.write("rank\tcount\tglyph\tcode\tbase\n")
+        for rank, (code, n) in enumerate(exact_freq.most_common(), 1):
+            f.write(f"{rank}\t{n}\t{glyph_for(code, code2char)}\t{code}\t{base_number(code)}\n")
+
+    with SIGNS_GROUPED_TSV.open("w", encoding="utf-8") as f:
+        f.write("rank\tcount\tglyph\tbase\tvariants\n")
+        for rank, (base, n) in enumerate(base_freq.most_common(), 1):
+            variants = base_variants[base]
+            variant_str = ", ".join(f"{glyph_for(c, code2char)} {c}×{v}" for c, v in variants.most_common())
+            f.write(f"{rank}\t{n}\t{glyph_for(base, code2char)}\t{base}\t{variant_str}\n")
+
+    print()
+    print(f"wrote {SIGNS_TSV}")
+    print(f"wrote {SIGNS_GROUPED_TSV}")
     print()
 
     print("=== whole kind-strings that recur (n>=2), i.e. real candidate 'sheep kinds' ===")
@@ -77,11 +117,6 @@ def main() -> None:
         codes_str = " ".join(prefix)
         ex = ", ".join(examples[tuple(prefix)])
         print(f"{n:3d}  {glyphs}   ({codes_str})   e.g. {ex}")
-
-    print()
-    print("=== most frequent individual signs inside kind-strings (top 20) ===")
-    for code, n in sign_freq.most_common(20):
-        print(f"{n:3d}  {glyph_for(code, code2char)} {code}")
 
     with OUT_TSV.open("w", encoding="utf-8") as f:
         f.write("count\tglyphs\tcodes\texample_records\n")
