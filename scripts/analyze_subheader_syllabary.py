@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
-"""Build a candidate 'syllabary' from Proto-Elamite header lines.
+"""Build a candidate 'syllabary' from Proto-Elamite SUBheader lines.
 
-Header lines are ATF cases explicitly annotated "# header" (or "# (header)")
-by CDLI editors - conventionally the line naming the responsible party or
-heading commodity for an administrative entry, as opposed to the numbered
-tally lines beneath it.
+The line right after "# header" (the header line itself is usually just one
+or two signs - a responsible party marker) tends to carry the longest sign
+run before the numeral tally: plausibly a name string. E.g.
 
-This pulls every sign that occurs in such a header line, drops pure numeral
-tallies and numeral-bearing "complex capacity sign" ligatures (M-sign fused
-with an N-count, e.g. M036+1(N30D) - Dahl's CCS, see CDLJ 2005:3), and
-reports frequency plus a similarity grouping by base M-number (i.e. folding
-~a/~b/~c graphic variants of the same catalogued sign together).
+    1. 𛽔
+    # header
+    2. 𛾤 𜌓 𜉉 𜀕 𛿺 𜄱  𛴓 𛴆𛴆𛴆𛴆𛴆𛴆 𛴀𛴀𛴀𛴀
+
+𜄱 (M288) is the single most frequent sign in the whole corpus (Dahl, CDLB
+2002:1) and shows up fused as a suffix in many ligatures (M157+M288,
+M175+M288, M218+M288, M305+M288, ...) - it behaves like a measure/capacity
+classifier that introduces the numeral tally rather than being part of the
+name. So: cut the line at the first pure-numeral token OR the first bare
+M288, and keep only what comes before it.
 """
 from __future__ import annotations
 
@@ -28,34 +32,41 @@ from pe_signs import (
     read_lines,
 )
 
-SYLLABARY_TSV = ROOT / "texts" / "proto-elamite" / "header-syllabary.tsv"
-SYLLABARY_GROUPED_TSV = ROOT / "texts" / "proto-elamite" / "header-syllabary-grouped.tsv"
+SYLLABARY_TSV = ROOT / "texts" / "proto-elamite" / "subheader-syllabary.tsv"
+SYLLABARY_GROUPED_TSV = ROOT / "texts" / "proto-elamite" / "subheader-syllabary-grouped.tsv"
+
+M288_CODE = "M288"
 
 
-def extract_header_tokens() -> list[str]:
+def extract_subheader_tokens(char2code: dict[str, str]) -> list[str]:
     lines = read_lines()
     tokens: list[str] = []
     for i, line in enumerate(lines):
+        prev = lines[i - 1].strip() if i > 0 else ""
+        if not HEADER_MARK_RE.match(prev):
+            continue
         m = LINE_RE.match(line)
         if not m:
             continue
-        content = m.group(2)
-        nxt = lines[i + 1].strip() if i + 1 < len(lines) else ""
-        if not HEADER_MARK_RE.match(nxt):
-            continue
-        tokens.extend(content.split())
+        for tok in m.group(2).split():
+            result = classify(tok, char2code)
+            if result is not None:
+                kind, code = result
+                if kind == "numeral" or code == M288_CODE:
+                    break  # cut here: rest of the line is the quantity/classifier
+            tokens.append(tok)
     return tokens
 
 
 def main() -> None:
     char2code = load_char_to_code()
     code2char = code_to_char_map(char2code)
-    tokens = extract_header_tokens()
+    tokens = extract_subheader_tokens(char2code)
 
     kind_counts = collections.Counter()
-    sign_freq = collections.Counter()   # exact code -> count
-    base_freq = collections.Counter()   # base M-number -> count
-    base_variants = collections.defaultdict(collections.Counter)  # base -> {code: count}
+    sign_freq = collections.Counter()
+    base_freq = collections.Counter()
+    base_variants = collections.defaultdict(collections.Counter)
 
     for tok in tokens:
         result = classify(tok, char2code)
@@ -71,7 +82,7 @@ def main() -> None:
         base_freq[base] += 1
         base_variants[base][code] += 1
 
-    print(f"header lines processed, tokens: {len(tokens)}")
+    print(f"subheader lines processed, tokens kept before cut: {len(tokens)}")
     print("token kinds:", dict(kind_counts))
     print(f"distinct sign codes in syllabary: {len(sign_freq)}")
     print(f"distinct base (variant-grouped) signs: {len(base_freq)}")
