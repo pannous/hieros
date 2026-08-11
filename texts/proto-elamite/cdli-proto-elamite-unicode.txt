@@ -214,7 +214,7 @@ $ broken
 @column 1 
 1. …  𛴓𛴓𛴓𛴓 𛴆 𛴀 𛴄 
 2. 𛼰  𛴆𛴆𛴆 𛴀𛴀𛴀 
-3. [M153+X]  
+3. 𛽇  
 # seal 1 = PES0182 
 
 
@@ -328,6 +328,8 @@ $ blank
 @reverse 
 1.a. 𜌗  𛴀𛴀𛴀𛴀𛴀 
 1.b. 𛷲 [𜄱]  [𛴓𛴓 𛴚] 𛴆𛴆𛴆𛴆𛴆𛴆𛴆𛴆𛴆 𛴀𛴀𛴀𛴀𛴀 𛴖𛴖𛴖 
+# ∑ = 3𛴖+11𛴀+18𛴆+ 6𛴚 = 3𛴖+5𛴀+9𛴆+ 1𛴚 + 2𛴓 
+# 𛴀1 𛴆6 𛴚60 𛴓 180  Capacity C ☑
 # seal impression 
 @top 
 1. 𛴓 
@@ -454,7 +456,7 @@ $ blank
 # header 
 2. 𛺹  𛴆𛴆𛴆𛴆 
 3. 𛷪 𜄱  … 
-4. [M153+X]  
+4. 𛽇  
 # seal 1 = PES334 
 @reverse 
 $ seal 1
@@ -480,6 +482,7 @@ $ seal 1
 # (subscript) 
 @reverse 
 1. 𜄱  [𛴚] 
+# 𛴆* 10 = 𛴚 here?
 @seal 1 
 # = PES0198 
 
@@ -502,7 +505,7 @@ $ blank
 # header 
 2. 𛺹 𜌁 𛷪 𜌓  𛴀𛴀𛴀 
 3. 𜄱  𛴀 𛴖𛴖 𛴊 
-4. 𜌓 𛵓 x x [M153+X]  
+4. 𜌓 𛵓 x x 𛽇  
 # (subscript) 
 @reverse 
 $ blank 
@@ -528,23 +531,24 @@ $ blank
 # header 
 2. 𛾤 𜁸 𜄱  𛴆𛴆𛴆𛴆 
 3. 𛻬  𛴆𛴆𛴆 
-4. 𛿿#  𛴀𛴀𛴀𛴀𛴀 
+4. 𛿿#  𛴀𛴀𛴀𛴀𛴀  # assume 𛴆
 5. 𛽭  𛴆 𛴀𛴀𛴀 
 6. 𛾑  𛴆 𛴀𛴀𛴀 
-7. [M075~b]  𛴆𛴆𛴆 𛴀𛴀 
+7. 𛸴  𛴆𛴆𛴆 𛴀𛴀 
 8. 𜉈 𜄱  [𛴆𛴆𛴆𛴆𛴆] 𛴀𛴀𛴀𛴀𛴀 
 @reverse 
 @column 1 
 1. 𜄱  𛴚 𛴆𛴆𛴆𛴆 𛴀 
 2. 𜉈 𜄱  𛴆𛴆𛴆𛴆𛴆 𛴀𛴀𛴀𛴀𛴀 
-
+# 13*𛴀 =>  ∑ 𛴀 + 12=𛴆  13 *𛴆 => 14𛴆 = 4𛴆+ 𛴚   𛴚= 10𛴆
+# 𛴀 1 𛴆12 𛴚 120
 
 &P008036 = MDP 06 239 
 @obverse 
 1. 𛽤  
 # header 
 2. 𜁽 𜇶 𜄱  𛴆 
-3. [M153+X]  
+3. 𛽇  
 # (subscript) 
 # seal 1 = PESxxxx 
 @reverse 
@@ -1247,10 +1251,12 @@ $ n lines broken
 4'. … 𜄧  𛴀𛴀 
 5'. 𜋺 𜋏 𜊩  𛴀𛴀 𛴄 
 6'. 𜀈 𜅩 𛿺  𛴀 
+# herders guards tenders feeders of cattle?
+
 $ n lines broken 
 7'. x 𜅵#? 𜊩  𛴀𛴀𛴀 
 8'. 𜂈 𜊩  𛴄 
-9'. 𜋒  𛴀 
+9'. 𜋒  𛴀   # in context: 'bull' ?
 $ n lines broken 
 10'. … 𜀞 𛶃 𜀄  𛴀𛴀𛴀𛴀 
 11'. 𜋾 x? …  … 
@@ -1363,6 +1369,7 @@ $ broken
 $ beginning broken 
 1'. …  … 𛴀 𛴊 
 2'. x 𛹥 𜀄 𜁻 …  … 
+# 𒁍 person see below
 $ n lines broken 
 3'. … 𜄱  𛴖𛴖 𛴊 
 4'. x 𜀼 𛵂  𛴀 … 
@@ -1407,7 +1414,7 @@ $ n lines broken
 @reverse 
 @column 1 
 1. …  … 𛴓𛴓𛴓𛴓 𛴀𛴀 
-
+# cattle!
 
 &P008079 = MDP 06 287 
 @obverse 
@@ -1472,6 +1479,8 @@ $ n lines broken
 $ rest broken 
 @column 2 
 $ broken 
+# distinct professions? phonetic?
+
 
 
 &P008082 = MDP 06 290 
@@ -1576,6 +1585,7 @@ $ broken
 1. …  … 𛴆𛴆𛴆𛴆𛴆𛴆 𛴀𛴀𛴀𛴀 … 𛴀𛴀𛴀 
 @top 
 1. 𛴓 
+# <<<<<<<<<< Interesting assembly of people! (groups of 10, 3, 50 )
 
 
 &P008086 = MDP 06 294 
@@ -1869,6 +1879,7 @@ $ broken ?
 &P008105 = MDP 6 316 + MDP 26S 0336 + MDP 06 324 + MDP 06 322 + MDP 26S 0335 
 @obverse 
 $ beginning broken 
+# whole family / town / household + cattle?? all professions? many subtotals 𜄱  repeated (random) receiver kinds?
 1'. 𛿯 𜁟  
 2'. 𛻃 𜊩 𛵓 𜊩 𛵂  𛴀 
 3'. 𜊛 𛻃 𜊽  𛴀𛴀 
@@ -2170,7 +2181,7 @@ $ n lines broken
 13. …  … 
 14. …  … 𛴆𛴆𛴆 
 15. 𛼌 𜌓 𛼢 𛵅 𜃁 𛿺 𜈽  𛴆 𛴀𛴀𛴀𛴀 
-
+# <<<<<<<<<<< Interesting!
 
 &P008109 = MDP 06 320 
 @obverse 
@@ -2445,7 +2456,7 @@ $ broken ?
 &P008125 = MDP 06 343 
 @obverse 
 $ beginning broken 
-1'. 𛵅 𛻸 𛻃 𜃅 …  … 
+1'. 𛵅 𛻸 𛻃 𜃅 …  …  <<<  𒋀 ?
 $ n lines broken 
 2'. …  … 𛴀 
 3'. 𜊜#?  𛴀 
@@ -2495,7 +2506,7 @@ $ rest broken
 $ beginning broken 
 1'. 𜄱  𛴀 
 $ n lines broken 
-2'. x [M153+X] …  … 
+2'. x 𛽇 …  … 
 $ rest broken 
 @reverse 
 $ broken ? 
@@ -2776,7 +2787,7 @@ $ rest broken
 2. 𜉨 𛶡 𛶌 𛴽 𜈽  𛴀𛴀𛴀𛴀 
 3. 𛶪 𜌗  𛴀 
 4. 𜈽  … 
-5. [M153+X]  … 
+5. 𛽇  … 
 @reverse 
 $ blank 
 # seal 1 = PESxxxx 
@@ -13295,7 +13306,7 @@ $ (scribal design 1 = SD004)
 # header 
 2. 𜌓 𜃂 …  … 
 3. 𜄱  𛴆𛴆𛴆 
-4. [M153+X] 
+4. 𛽇 
 # (subscript) 
 @reverse 
 # sic? 
@@ -18196,7 +18207,7 @@ $ broken ?
 # header 
 2. 𜌁 𜌁 𛷪 𜌓  𛴀𛴀𛴀𛴀𛴀𛴀 
 3. 𜄱  𛴀𛴀𛴀 
-4. 𜌓 𛼚 𜊩 [M153+X] 
+4. 𜌓 𛼚 𜊩 𛽇 
 # (subscript) 
 # seal 1 = PES0334 
 @reverse 
