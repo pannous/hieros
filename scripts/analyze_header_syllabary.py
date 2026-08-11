@@ -97,7 +97,7 @@ def main() -> None:
         f.write("rank\tcount\tglyph\tbase\tvariants\n")
         for rank, (base, n) in enumerate(base_freq.most_common(), 1):
             variants = base_variants[base]
-            variant_str = ", ".join(f"{c}×{v}" for c, v in variants.most_common())
+            variant_str = ", ".join(f"{glyph_for(c, code2char)} {c}×{v}" for c, v in variants.most_common())
             f.write(f"{rank}\t{n}\t{glyph_for(base, code2char)}\t{base}\t{variant_str}\n")
 
     print()
