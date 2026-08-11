@@ -139,6 +139,63 @@ def write_annotated_lines(char2code: dict[str, str]) -> None:
     print(f"wrote {ANNOTATED_LINES_TXT} ({len(rows)} lines)")
 
 
+NGRAM_TSV = ROOT / "texts" / "proto-elamite" / "case1-5grams.tsv"
+NGRAM_LEN = 5
+
+
+def extract_all_line_code_sequences(char2code: dict[str, str]) -> list[tuple[str, list[str]]]:
+    """Per numbered line ANYWHERE in the corpus (not just subheaders):
+    (record id, ordered code list), numerals dropped but category signs
+    kept in place. Subheader lines alone are too few (660) to show any
+    5-gram repeating twice; the leading "case 1" sign-string on every
+    line of every text (~660 subheaders is a small fraction of the
+    corpus) is the actual pool recurring sequences are drawn from."""
+    lines = read_lines()
+    record_id = "?"
+    rows: list[tuple[str, list[str]]] = []
+    for line in lines:
+        m_rec = RECORD_ID_RE.match(line)
+        if m_rec:
+            record_id = m_rec.group(1)
+            continue
+        m = LINE_RE.match(line)
+        if not m:
+            continue
+        codes = []
+        for tok in m.group(2).split():
+            result = classify(tok, char2code)
+            if result is None or result[0] == "numeral":
+                continue
+            codes.append(result[1])
+        rows.append((record_id, codes))
+    return rows
+
+
+def write_ngrams(char2code: dict[str, str], code2char: dict[str, str]) -> None:
+    rows = extract_all_line_code_sequences(char2code)
+    ngram_counts = collections.Counter()
+    ngram_examples = collections.defaultdict(list)
+    for record_id, codes in rows:
+        for i in range(len(codes) - NGRAM_LEN + 1):
+            gram = tuple(codes[i:i + NGRAM_LEN])
+            ngram_counts[gram] += 1
+            if len(ngram_examples[gram]) < 3:
+                ngram_examples[gram].append(record_id)
+
+    recurring = [(gram, n) for gram, n in ngram_counts.items() if n >= 2]
+    recurring.sort(key=lambda gn: gn[1], reverse=True)
+
+    with NGRAM_TSV.open("w", encoding="utf-8") as f:
+        f.write("count\tglyphs\tcodes\texample_records\n")
+        for gram, n in recurring:
+            glyphs = " ".join(glyph_for(c, code2char) for c in gram)
+            codes_str = " ".join(gram)
+            examples = ", ".join(ngram_examples[gram])
+            f.write(f"{n}\t{glyphs}\t{codes_str}\t{examples}\n")
+
+    print(f"wrote {NGRAM_TSV} ({len(recurring)} recurring {NGRAM_LEN}-grams, count>=2)")
+
+
 def main() -> None:
     char2code = load_char_to_code()
     code2char = code_to_char_map(char2code)
@@ -190,12 +247,13 @@ def main() -> None:
         f.write("rank\tcount\tglyph\tbase\tvariants\n")
         for rank, (base, n) in enumerate(base_freq.most_common(), 1):
             variants = base_variants[base]
-            variant_str = ", ".join(f"{c}×{v}" for c, v in variants.most_common())
+            variant_str = ", ".join(f"{glyph_for(c, code2char)} {c}×{v}" for c, v in variants.most_common())
             f.write(f"{rank}\t{n}\t{glyph_for(base, code2char)}\t{base}\t{variant_str}\n")
 
     print()
     print(f"wrote {SYLLABARY_TSV}")
     print(f"wrote {SYLLABARY_GROUPED_TSV}")
+    write_ngrams(char2code, code2char)
 
 
 if __name__ == "__main__":
