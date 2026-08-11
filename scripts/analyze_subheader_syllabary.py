@@ -24,6 +24,7 @@ and keep scanning for the surrounding name signs.
 from __future__ import annotations
 
 import collections
+import re
 
 from pe_signs import (
     HEADER_MARK_RE,
@@ -39,6 +40,8 @@ from pe_signs import (
 
 SYLLABARY_TSV = ROOT / "texts" / "proto-elamite" / "subheader-syllabary.tsv"
 SYLLABARY_GROUPED_TSV = ROOT / "texts" / "proto-elamite" / "subheader-syllabary-grouped.tsv"
+ANNOTATED_LINES_TXT = ROOT / "texts" / "proto-elamite" / "subheader-lines-annotated.txt"
+RECORD_ID_RE = re.compile(r"^&(P\d+)")
 
 # Dahl's corpus-wide high-frequency signs (CDLB 2002:1, Table 2): "M305
 # (107) M387 (206) M218 (453) M388 (528) M288 (709) M36 (128) M9 (213) M32
@@ -84,9 +87,62 @@ def extract_subheader_tokens(char2code: dict[str, str]) -> list[str]:
     return tokens
 
 
+def annotate_token(tok: str, char2code: dict[str, str]) -> str:
+    """Render a token as-is, but tag numerals and category signs with
+    their code so nothing is silently dropped from the raw dump."""
+    result = classify(tok, char2code)
+    if result is None:
+        return tok
+    kind, code = result
+    if kind == "numeral":
+        return f"⟨{tok}:{code}⟩"
+    if kind == "sign" and is_category_tainted(code):
+        return f"‹{tok}:{code}›"
+    return tok
+
+
+def extract_annotated_subheader_lines(char2code: dict[str, str]) -> list[tuple[str, str, str]]:
+    """One row per subheader line: (record id, header content, annotated
+    subheader content) - nothing cut, category/numeral tokens tagged."""
+    lines = read_lines()
+    record_id = "?"
+    rows: list[tuple[str, str, str]] = []
+    for i, line in enumerate(lines):
+        m_rec = RECORD_ID_RE.match(line)
+        if m_rec:
+            record_id = m_rec.group(1)
+            continue
+        prev = lines[i - 1].strip() if i > 0 else ""
+        if not HEADER_MARK_RE.match(prev):
+            continue
+        header_m = LINE_RE.match(lines[i - 2]) if i >= 2 else None
+        header_content = header_m.group(2) if header_m else ""
+        m = LINE_RE.match(line)
+        if not m:
+            continue
+        annotated = " ".join(annotate_token(tok, char2code) for tok in m.group(2).split())
+        rows.append((record_id, header_content, annotated))
+    return rows
+
+
+def write_annotated_lines(char2code: dict[str, str]) -> None:
+    rows = extract_annotated_subheader_lines(char2code)
+    with ANNOTATED_LINES_TXT.open("w", encoding="utf-8") as f:
+        f.write(
+            "# Raw subheader lines (line right after \"# header\"), nothing cut.\n"
+            "# ⟨glyph:CODE⟩ = numeral tally, ‹glyph:CODE› = Dahl's known category\n"
+            "# sign (CDLI 2002:1 Table 2) - both excluded from the syllabary\n"
+            "# frequency tables but shown here in place so sequences stay intact.\n\n"
+        )
+        for record_id, header, annotated in rows:
+            f.write(f"{record_id}\theader={header}\t{annotated}\n")
+    print(f"wrote {ANNOTATED_LINES_TXT} ({len(rows)} lines)")
+
+
 def main() -> None:
     char2code = load_char_to_code()
     code2char = code_to_char_map(char2code)
+    write_annotated_lines(char2code)
     tokens = extract_subheader_tokens(char2code)
 
     kind_counts = collections.Counter()
