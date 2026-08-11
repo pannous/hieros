@@ -30,11 +30,16 @@ from analyze_subheader_syllabary import extract_all_line_code_sequences, CATEGOR
 # behavior matching the known classifiers (M056: overwhelmingly terminal or
 # immediately-pre-M288, same distribution as M288/M346/M376 themselves -
 # reads as a "seed-measure" sub-classifier stacked on M288, not a name).
-ROLE_SIGNS = CATEGORY_SIGNS | {"M124", "M057", "M056"}
+# M370 "child" (gender-neutral) confirmed both by its ligature family
+# (M370+M046/M072/M386/M388+M370, M370~b+{M046,M072,M388}) and by its
+# corpus-wide position: 58% first-sign, 25% sole sign, only 12% genuinely
+# medial - a head/determinative sign like M124, not name content.
+ROLE_SIGNS = CATEGORY_SIGNS | {"M124", "M057", "M056", "M370"}
 ROLE_GLOSS = {
     "M124": "person",
     "M057": "water buffalo",
     "M056": "seed-measure (plow/field-area) classifier",
+    "M370": "child",
     "M388": "kur/worker",
     "M218": "container/of",
     "M346": "livestock classifier",
