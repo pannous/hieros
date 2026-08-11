@@ -1,0 +1,5 @@
+count	direction	glyphs	codes	example_records
+5	kur->person			P008146, P008621, P009292
+1	kur->person	𛺈𜋸	M106~2+M288 M386	P008351
+1	person->kur			P008894
+1	person->kur	𜇪	M318~a	P368478
