@@ -31,10 +31,41 @@ def code_to_char_map(char2code: dict[str, str]) -> dict[str, str]:
     return {code: char for char, code in char2code.items()}
 
 
+ALLOGRAPH_PATH = ROOT / "abc" / "proto-elamite-allographs.tsv"
+
+
+def load_allograph_clusters() -> dict[str, str]:
+    """Manually curated cross-number allograph clusters (exact code ->
+    cluster name). The ~x/@x numbering assumes variants cluster within one
+    M-number, but real graphic similarity can cut across numbers (e.g.
+    M005~a + M006 + M007~a forming one shape family while other M005/M007
+    variants belong elsewhere). Codes listed in the tsv override
+    base_number(); unlisted codes keep their default grouping."""
+    clusters: dict[str, str] = {}
+    if not ALLOGRAPH_PATH.exists():
+        return clusters
+    with ALLOGRAPH_PATH.open(encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            name, _, codes = line.partition("\t")
+            for code in codes.split():
+                clusters[code] = name
+    return clusters
+
+
+ALLOGRAPH_CLUSTERS = load_allograph_clusters()
+
+
 def base_number(code: str) -> str:
-    """Strip graphic-variant suffixes and ligature partners down to the
-    primary M/N catalogue number, e.g. 'M264~a' -> 'M264', 'M001+M379~c' ->
-    'M001+M379' (kept whole - a ligature is its own sign, not a variant)."""
+    """Group a code for frequency counting: a manually curated allograph
+    cluster if the exact code is listed in abc/proto-elamite-allographs.tsv,
+    else strip graphic-variant suffixes down to the primary M/N catalogue
+    number, e.g. 'M264~a' -> 'M264', 'M001+M379~c' -> 'M001+M379' (kept
+    whole - a ligature is its own sign, not a variant)."""
+    if code in ALLOGRAPH_CLUSTERS:
+        return ALLOGRAPH_CLUSTERS[code]
     return re.sub(r"[~@][A-Za-z0-9]+", "", code)
 
 

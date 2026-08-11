@@ -1,0 +1,8 @@
+# Cross-number allograph clusters for Proto-Elamite signs.
+# Each data line: cluster_name<TAB>code1 code2 code3 ...
+# Codes listed here are counted together as one sign in frequency analyses,
+# OVERRIDING the default base-number (~x/@x-stripping) grouping - and codes
+# NOT listed stay with their own base number, so a cluster can pull in
+# specific variants while excluding their siblings.
+# Manually curated by visual comparison (Dahl 2006 sign list drawings).
+M006-cluster	M005~a M006 M006@g~1 M006@g~2 M007~a M007~b
