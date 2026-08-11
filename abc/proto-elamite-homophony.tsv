@@ -1,105 +1,105 @@
-# Tentative homophony table extracted from the syllabary grid
-# (LE-lookalike column dropped; PE signs only; base numbers, variants folded)
-# reading	signs
-ki	𜁑M244
-ka	𜍏M471
-ko	𛵷M029
-ku	𛽑M155
-ke	𜉍M351
-k?	𛹨M099 𜄮M286 𛸔M064 𛸕M064  <- HOMOPHONES
-li	𜌽M449
-la	𛵅M004
-lo	𜇩M318 𜆛M304  <- HOMOPHONES
-lu	𜆄M301
-le	𜇵M319
-l?	𜁚M246 𜁙M246  <- HOMOPHONES
-mi	𛻭M134
-ma	𜁲M249
-mo	𛸇M059
-mu	𛻧M134
-me	𛵏M006-cluster 𛵋M006-cluster  <- HOMOPHONES
-m?	𜁆M243 𜁃M243 𜁎M243 𜁚M246  <- HOMOPHONES
-ni	𛿩M214 𛶺M041  <- HOMOPHONES
-na	𛴾M002
-no	𛵉M006-cluster
-nu	𜈓M325
-ne	𛸩M073
-n?	𜀻M242 𜀮M230 𜌺M447  <- HOMOPHONES
-pi	𜄍M278
-pa	𛸐M062 𜌺M447  <- HOMOPHONES
-po	𜉇M347
-pu	𜄱M288
-pe	𛷇M046
-p?	𛹧M099 𜄭M286 𜄮M286 𛷯M054 𛵄M003  <- HOMOPHONES
-ri	𜂉M251
-ra	𜀗M223
-ro	𜊯M372
-ru	𜁵M249
-re	𜅸M297
-r?	𜆓M302 𜅵M296+M296 𜆻M308 𜅹M297+M296 𜆝M304+M304  <- HOMOPHONES
-si	𛽹M175
-sa	𛽆M153
-so	𛸃M058
-su	𜀌M220
-se	𛺌M109
-s?	𜉌M349
-ti	𜀑M221
-ta	𜀌M220
-to	𜀞M226
-tu	𜀎M220
-te	𛷂M044
-t?	𛵀M002
-vi	𛸗M066
-va	𛿺M218
-vo	𛷺M057
-vu	𜊩M371
-ve	𛹜M096
-v?	𛴺M001 𛴽M001  <- HOMOPHONES
-wi	𛷰M054
-wa	𛷎M048
-wo	𛽤M157
-wu	𛽤M157
-we	𜁳M249
-w?	𜊩M371 𜋾M387  <- HOMOPHONES
-zi	𛵮M024
-za	𜁺M250
-zo	𛵓M009
-zu	𛽑M155
-ze	𛻛M131 𛸛M066  <- HOMOPHONES
-z?	𛺄M106
-ši	𛶅M032
-ša	𛸄M058
-šo	𜀞M226
-šu	𜀓M222
-še	𛶃M032
-š?	𛷉M046 𛷇M046 𛿹M217  <- HOMOPHONES
-ḫi	𜉌M349
-ḫa	𜃁M263
-ḫo	𜀖M223
-ḫu	𛿺M218
-ḫe	𜋒M381
-ḫ?	𛿹M217 𛺺M122 𛹧M099 𜄭M286 𛹾M105 𛹑M087  <- HOMOPHONES
-
-# signs with MULTIPLE readings (uncertain/conflicting cells):
-# 𛴾 M002: na, t?
-# [M006-cluster] M006-cluster: me, no
-# 𛶃 M032: še, ši
-# 𛷇 M046: pe, š?
-# 𛷪 M054: p?, wi
-# 𛸃 M058: so, ša
-# 𛸗 M066: vi, ze
-# 𛹧 M099: k?, p?, ḫ?
-# 𛻦 M134: mi, mu
-# 𛽑 M155: ku, zu
-# 𛽔 M157: wo, wu
-# 𛿯 M217: š?, ḫ?
-# 𛿺 M218: va, ḫu
-# 𜀌 M220: su, ta, tu
-# 𜀕 M223: ra, ḫo
-# [M226] M226: to, šo
-# 𜁒 M246: l?, m?
-# 𜁱 M249: ma, ru, we
-# 𜄭 M286: k?, p?, ḫ?
-# 𜉌 M349: s?, ḫi
-# 𜊩 M371: vu, w?
-# 𜌸 M447: n?, pa
+# Tentative homophony table - ALL catalogued variants expanded per base sign.
+# Deliberately over-inclusive (small graphic details may change the sound,
+# cf. Linear Elamite); prune rows/variants by hand later.
+# reading	base	variants (glyph+code, every catalogued form)
+ki	M244	𜁑M244
+ka	M471	𜍎M471 𜍏M471~b
+ko	M029	𛵷M029 𛵸M029~a 𛵹M029~b 𛵺M029~c 𛵻M029~d 𛵼M029~e 𛵽M029~k 𛵾M029~l
+ku	M155	𛽑M155 𛽒M155~f
+ke	M351	𜉍M351 𜉒M351~c 𜉓M351~d 𜉔M351~m
+k?	M099	𛹧M099 𛹨M099~a 𛹩M099~b
+k?	M286	𜄭M286 𜄮M286~a 𜄯M286~b
+k?	M064	𛸔M064 𛸕M064~a 𛸖M064~d
+li	M449	𜌽M449
+la	M004	𛵅M004 𛵆M004~x
+lo	M318	𜇩M318 𜇪M318~a 𜇫M318~a1 𜇬M318~a2 𜇭M318~a3 𜇮M318~c 𜇯M318~e 𜇰M318~g 𜇱M318~h 𜇲M318~n
+lo	M304	𜆛M304 𜆟M304~a 𜆠M304~b
+lu	M301	𜆄M301 𜆅M301~a 𜆆M301~aa 𜆇M301~b 𜆈M301~e 𜆉M301~ea 𜆊M301~eb 𜆋M301~g
+le	M319	𜇳M319 𜇴M319~a 𜇵M319~c
+l?	M246	𜁒M246 𜁓M246~a 𜁔M246~b 𜁕M246~c 𜁖M246~ca 𜁗M246~e 𜁘M246~f 𜁙M246~g 𜁚M246~h 𜁛M246~m 𜁜M246~o 𜁝M246~s
+mi	M134	𛻦M134 𛻧M134~a 𛻨M134~b 𛻩M134~ba 𛻪M134~c 𛻫M134~d 𛻬M134~e 𛻭M134~f 𛻮M134~g
+ma	M249	𜁱M249 𜁲M249~c 𜁳M249~f 𜁴M249~g 𜁵M249~h 𜁶M249~m 𜁷M249~n 𜁸M249~n1 𜁹M249~p
+mo	M059	𛸅M059 𛸇M059~a 𛸈M059~b 𛸉M059~d 𛸊M059~f 𛸋M059~f1 𛸌M059~g
+mu	M134	𛻦M134 𛻧M134~a 𛻨M134~b 𛻩M134~ba 𛻪M134~c 𛻫M134~d 𛻬M134~e 𛻭M134~f 𛻮M134~g
+me	M006-cluster	𛵈M005~a 𛵉M006 𛵋M006@g~1 𛵌M006@g~2 𛵏M007~a 𛵐M007~b
+m?	M243	𜁃M243 𜁄M243~aa 𜁅M243~ac 𜁆M243~b 𜁇M243~c 𜁈M243~e 𜁉M243~ee 𜁊M243~ef 𜁋M243~f 𜁌M243~g 𜁍M243~h 𜁎M243~i 𜁏M243~j 𜁐M243~n
+m?	M246	𜁒M246 𜁓M246~a 𜁔M246~b 𜁕M246~c 𜁖M246~ca 𜁗M246~e 𜁘M246~f 𜁙M246~g 𜁚M246~h 𜁛M246~m 𜁜M246~o 𜁝M246~s
+ni	M214	𛿧M214~a 𛿨M214~b 𛿩M214~c 𛿪M214~d 𛿫M214~e 𛿬M214~h 𛿭M214~i
+ni	M041	𛶹M041 𛶺M041~c 𛶻M041~d 𛶼M041~e 𛶽M041~f 𛶾M041~g 𛶿M041~j
+na	M002	𛴾M002 𛵀M002~b
+no	M006-cluster	𛵈M005~a 𛵉M006 𛵋M006@g~1 𛵌M006@g~2 𛵏M007~a 𛵐M007~b
+nu	M325	𜈒M325 𜈓M325~a 𜈔M325~d 𜈕M325~e 𜈖M325~g 𜈗M325~h
+ne	M073	𛸩M073~a 𛸪M073~b 𛸫M073~b1 𛸬M073~c 𛸭M073~d
+n?	M242	𜀺M242 𜀻M242~ab 𜀼M242~b 𜀽M242~d 𜀾M242~da 𜀿M242~e 𜁀M242~f 𜁁M242~k 𜁂M242~n
+n?	M230	𜀮M230 𜀯M230~a
+n?	M447	𜌸M447 𜌹M447~b 𜌺M447~c 𜌻M447~d
+pi	M278	𜄉M278 𜄋M278~ab 𜄌M278~b 𜄍M278~c 𜄎M278~d 𜄏M278~da 𜄐M278~e 𜄑M278~f 𜄒M278~g 𜄓M278~h 𜄔M278~j
+pa	M062	𛸐M062 𛸑M062~b
+pa	M447	𜌸M447 𜌹M447~b 𜌺M447~c 𜌻M447~d
+po	M347	𜉇M347
+pu	M288	𜄱M288 𜄵M288~a 𜄶M288~b 𜄷M288~c 𜄸M288~d 𜄹M288~e 𜄺M288~f 𜄻M288~g 𜄼M288~h 𜄽M288~i
+pe	M046	𛷇M046 𛷈M046~1 𛷉M046~a
+p?	M099	𛹧M099 𛹨M099~a 𛹩M099~b
+p?	M286	𜄭M286 𜄮M286~a 𜄯M286~b
+p?	M054	𛷪M054 𛷮M054~b 𛷯M054~c 𛷰M054~i
+p?	M003	𛵁M003 𛵂M003~b 𛵄M003~c
+ri	M251	𜂁M251 𜂂M251~c 𜂃M251~c2 𜂄M251~c3 𜂅M251~e 𜂆M251~g 𜂇M251~h 𜂈M251~i 𜂉M251~m
+ra	M223	𜀕M223 𜀖M223~a 𜀗M223~b 𜀘M223~c 𜀙M223~d
+ro	M372	𜊯M372 𜊰M372~a 𜊱M372~m
+ru	M249	𜁱M249 𜁲M249~c 𜁳M249~f 𜁴M249~g 𜁵M249~h 𜁶M249~m 𜁷M249~n 𜁸M249~n1 𜁹M249~p
+re	M297	𜅸M297 𜅺M297~a 𜅻M297~b 𜅽M297~bc 𜅾M297~c1 𜅿M297~c2 𜆀M297~d
+r?	M302	𜆌M302 𜆍M302~a 𜆎M302~b 𜆏M302~ba 𜆐M302~c 𜆑M302~ca 𜆒M302~e 𜆓M302~f 𜆔M302~i 𜆕M302~j 𜆖M302~k 𜆗M302~o 𜆘M302~p 𜆙M302~s 𜆚M302~t
+r?	M296+M296	𜅵M296+M296
+r?	M308	𜆻M308~e 𜆼M308~f
+r?	M297+M296	𜅹M297+M296
+r?	M304+M304	𜆝M304+M304
+si	M175	𛽹M175 𛾌M175~b
+sa	M153	𛽆M153
+so	M058	𛸃M058 𛸄M058~b
+su	M220	𜀌M220 𜀍M220~m 𜀎M220~n
+se	M109	𛺌M109
+s?	M349	𜉌M349
+ti	M221	𜀏M221 𜀐M221~c 𜀑M221~e 𜀒M221~f
+ta	M220	𜀌M220 𜀍M220~m 𜀎M220~n
+to	M226	𜀞M226~c 𜀟M226~ca 𜀠M226~e
+tu	M220	𜀌M220 𜀍M220~m 𜀎M220~n
+te	M044	𛷂M044 𛷃M044~a 𛷄M044~b 𛷅M044~m
+t?	M002	𛴾M002 𛵀M002~b
+vi	M066	𛸗M066 𛸘M066~a 𛸙M066~a1 𛸚M066~a2 𛸛M066~g 𛸜M066~h
+va	M218	𛿺M218 𛿻M218~1 𜀄M218~b 𜀅M218~c 𜀇M218~g
+vo	M057	𛷶M057 𛷸M057~a 𛷹M057~a1 𛷺M057~a2 𛷻M057~a4 𛷼M057~b 𛷽M057~b1 𛷾M057~d 𛷿M057~e 𛸀M057~f 𛸁M057~i 𛸂M057~n
+vu	M371	𜊩M371 𜊪M371~a 𜊫M371~b 𜊬M371~c 𜊭M371~d 𜊮M371~e
+ve	M096	𛹜M096 𛹝M096~1 𛹞M096~2 𛹟M096~3 𛹢M096~c 𛹣M096~d
+v?	M001	𛴺M001 𛴽M001~b
+wi	M054	𛷪M054 𛷮M054~b 𛷯M054~c 𛷰M054~i
+wa	M048	𛷋M048~c 𛷌M048~d 𛷍M048~e 𛷎M048~g 𛷏M048~i 𛷐M048~k
+wo	M157	𛽔M157 𛽤M157~a
+wu	M157	𛽔M157 𛽤M157~a
+we	M249	𜁱M249 𜁲M249~c 𜁳M249~f 𜁴M249~g 𜁵M249~h 𜁶M249~m 𜁷M249~n 𜁸M249~n1 𜁹M249~p
+w?	M371	𜊩M371 𜊪M371~a 𜊫M371~b 𜊬M371~c 𜊭M371~d 𜊮M371~e
+w?	M387	𜋾M387 𜋿M387~a 𜌀M387~b 𜌁M387~c 𜌂M387~ca 𜌄M387~ee 𜌅M387~ee1 𜌆M387~ef 𜌇M387~ef1 𜌈M387~eg 𜌉M387~eh 𜌊M387~fa 𜌋M387~h 𜌌M387~ha 𜌍M387~hb 𜌎M387~i 𜌏M387~j 𜌐M387~l 𜌑M387~l1 𜌒M387~o
+zi	M024	𛵮M024 𛵯M024~1 𛵰M024~a
+za	M250	𜁺M250~a 𜁻M250~ba 𜁼M250~m 𜁽M250~n 𜁾M250~na 𜁿M250~p 𜂀M250~r
+zo	M009	𛵓M009 𛵔M009~a 𛵕M009~c 𛵗M009~e 𛵘M009~f 𛵙M009~g 𛵚M009~h 𛵛M009~i
+zu	M155	𛽑M155 𛽒M155~f
+ze	M131	𛻛M131 𛻝M131~a 𛻞M131~d 𛻟M131~e 𛻠M131~f 𛻡M131~g 𛻢M131~h 𛻣M131~ia 𛻤M131~k 𛻥M131~k1
+ze	M066	𛸗M066 𛸘M066~a 𛸙M066~a1 𛸚M066~a2 𛸛M066~g 𛸜M066~h
+z?	M106	𛺄M106 𛺅M106~1 𛺉M106~a 𛺊M106~b
+ši	M032	𛶃M032 𛶄M032~a 𛶅M032~b 𛶆M032~d 𛶇M032~e
+ša	M058	𛸃M058 𛸄M058~b
+šo	M226	𜀞M226~c 𜀟M226~ca 𜀠M226~e
+šu	M222	𜀓M222 𜀔M222~e
+še	M032	𛶃M032 𛶄M032~a 𛶅M032~b 𛶆M032~d 𛶇M032~e
+š?	M046	𛷇M046 𛷈M046~1 𛷉M046~a
+š?	M217	𛿯M217 𛿲M217~a 𛿳M217~e 𛿴M217~ea 𛿵M217~f 𛿶M217~h 𛿷M217~j 𛿸M217~m 𛿹M217~n
+ḫi	M349	𜉌M349
+ḫa	M263	𜃁M263 𜃂M263~1 𜃃M263~a 𜃄M263~a1 𜃅M263~b 𜃆M263~b1 𜃇M263~e 𜃈M263~f 𜃉M263~g 𜃊M263~h
+ḫo	M223	𜀕M223 𜀖M223~a 𜀗M223~b 𜀘M223~c 𜀙M223~d
+ḫu	M218	𛿺M218 𛿻M218~1 𜀄M218~b 𜀅M218~c 𜀇M218~g
+ḫe	M381	𜋒M381 𜋓M381~e
+ḫ?	M217	𛿯M217 𛿲M217~a 𛿳M217~e 𛿴M217~ea 𛿵M217~f 𛿶M217~h 𛿷M217~j 𛿸M217~m 𛿹M217~n
+ḫ?	M122	𛺹M122 𛺺M122~1 𛺻M122~2 𛺼M122~3 𛺽M122~4 𛺾M122~5 𛺿M122~6
+ḫ?	M099	𛹧M099 𛹨M099~a 𛹩M099~b
+ḫ?	M286	𜄭M286 𜄮M286~a 𜄯M286~b
+ḫ?	M105	𛹾M105 𛹿M105~a 𛺀M105~ab 𛺁M105~b 𛺂M105~e 𛺃M105~g
+ḫ?	M087	𛹑M087 𛹒M087~b
