@@ -69,6 +69,40 @@ def base_number(code: str) -> str:
     return re.sub(r"[~@][A-Za-z0-9]+", "", code)
 
 
+READINGS_PATH = ROOT / "abc" / "proto-elamite-readings.tsv"
+
+
+def load_readings() -> dict[str, tuple[str, str]]:
+    """Tentative phonetic readings: code -> (syllable, meaning). The
+    reading layer is independent of graphic allography - several distinct
+    signs can share one syllable (homophony, like Sumerian KUR), each
+    keeping its own logographic meaning. A base-number code covers all its
+    ~x/@x variants (resolve via reading_for)."""
+    readings: dict[str, tuple[str, str]] = {}
+    if not READINGS_PATH.exists():
+        return readings
+    with READINGS_PATH.open(encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            parts = line.split("\t")
+            if len(parts) >= 2:
+                readings[parts[0]] = (parts[1], parts[2] if len(parts) > 2 else "")
+    return readings
+
+
+READINGS = load_readings()
+
+
+def reading_for(code: str) -> tuple[str, str] | None:
+    """(syllable, meaning) for a code, trying the exact code first, then
+    its base number."""
+    if code in READINGS:
+        return READINGS[code]
+    return READINGS.get(base_number(code))
+
+
 def is_numeral_code(code: str) -> bool:
     return code.startswith("N")
 

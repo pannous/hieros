@@ -1,0 +1,14 @@
+# Proto-Elamite tentative phonetic readings: sign code (base or exact) -> syllable value.
+# This is the READING layer, separate from graphic allography
+# (proto-elamite-allographs.tsv): several distinct signs can share one
+# syllable value (homophony, like Sumerian KUR mountain/land/slave), and
+# each sign keeps its own logographic meaning in the `meaning` column.
+# Format: code<TAB>reading<TAB>meaning
+# Codes given as a base number (M380) cover all its ~x/@x variants.
+M380	kur	?
+M381	kur	mountain
+M382	kur	?
+M383	kur	?
+M384	kur	?
+M385	kur	?
+M388	kur	male / slave / dependent worker
