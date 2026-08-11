@@ -1,0 +1,105 @@
+# Tentative homophony table extracted from the syllabary grid
+# (LE-lookalike column dropped; PE signs only; base numbers, variants folded)
+# reading	signs
+ki	𜁑M244
+ka	𜍏M471
+ko	𛵷M029
+ku	𛽑M155
+ke	𜉍M351
+k?	𛹨M099 𜄮M286 𛸔M064 𛸕M064  <- HOMOPHONES
+li	𜌽M449
+la	𛵅M004
+lo	𜇩M318 𜆛M304  <- HOMOPHONES
+lu	𜆄M301
+le	𜇵M319
+l?	𜁚M246 𜁙M246  <- HOMOPHONES
+mi	𛻭M134
+ma	𜁲M249
+mo	𛸇M059
+mu	𛻧M134
+me	𛵏M006-cluster 𛵋M006-cluster  <- HOMOPHONES
+m?	𜁆M243 𜁃M243 𜁎M243 𜁚M246  <- HOMOPHONES
+ni	𛿩M214 𛶺M041  <- HOMOPHONES
+na	𛴾M002
+no	𛵉M006-cluster
+nu	𜈓M325
+ne	𛸩M073
+n?	𜀻M242 𜀮M230 𜌺M447  <- HOMOPHONES
+pi	𜄍M278
+pa	𛸐M062 𜌺M447  <- HOMOPHONES
+po	𜉇M347
+pu	𜄱M288
+pe	𛷇M046
+p?	𛹧M099 𜄭M286 𜄮M286 𛷯M054 𛵄M003  <- HOMOPHONES
+ri	𜂉M251
+ra	𜀗M223
+ro	𜊯M372
+ru	𜁵M249
+re	𜅸M297
+r?	𜆓M302 𜅵M296+M296 𜆻M308 𜅹M297+M296 𜆝M304+M304  <- HOMOPHONES
+si	𛽹M175
+sa	𛽆M153
+so	𛸃M058
+su	𜀌M220
+se	𛺌M109
+s?	𜉌M349
+ti	𜀑M221
+ta	𜀌M220
+to	𜀞M226
+tu	𜀎M220
+te	𛷂M044
+t?	𛵀M002
+vi	𛸗M066
+va	𛿺M218
+vo	𛷺M057
+vu	𜊩M371
+ve	𛹜M096
+v?	𛴺M001 𛴽M001  <- HOMOPHONES
+wi	𛷰M054
+wa	𛷎M048
+wo	𛽤M157
+wu	𛽤M157
+we	𜁳M249
+w?	𜊩M371 𜋾M387  <- HOMOPHONES
+zi	𛵮M024
+za	𜁺M250
+zo	𛵓M009
+zu	𛽑M155
+ze	𛻛M131 𛸛M066  <- HOMOPHONES
+z?	𛺄M106
+ši	𛶅M032
+ša	𛸄M058
+šo	𜀞M226
+šu	𜀓M222
+še	𛶃M032
+š?	𛷉M046 𛷇M046 𛿹M217  <- HOMOPHONES
+ḫi	𜉌M349
+ḫa	𜃁M263
+ḫo	𜀖M223
+ḫu	𛿺M218
+ḫe	𜋒M381
+ḫ?	𛿹M217 𛺺M122 𛹧M099 𜄭M286 𛹾M105 𛹑M087  <- HOMOPHONES
+
+# signs with MULTIPLE readings (uncertain/conflicting cells):
+# 𛴾 M002: na, t?
+# [M006-cluster] M006-cluster: me, no
+# 𛶃 M032: še, ši
+# 𛷇 M046: pe, š?
+# 𛷪 M054: p?, wi
+# 𛸃 M058: so, ša
+# 𛸗 M066: vi, ze
+# 𛹧 M099: k?, p?, ḫ?
+# 𛻦 M134: mi, mu
+# 𛽑 M155: ku, zu
+# 𛽔 M157: wo, wu
+# 𛿯 M217: š?, ḫ?
+# 𛿺 M218: va, ḫu
+# 𜀌 M220: su, ta, tu
+# 𜀕 M223: ra, ḫo
+# [M226] M226: to, šo
+# 𜁒 M246: l?, m?
+# 𜁱 M249: ma, ru, we
+# 𜄭 M286: k?, p?, ḫ?
+# 𜉌 M349: s?, ḫi
+# 𜊩 M371: vu, w?
+# 𜌸 M447: n?, pa
