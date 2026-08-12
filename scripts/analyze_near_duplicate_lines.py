@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-""""Vertical orders": pairs of case-1 sequences (same length) that are
+""""Near-identical whole-line pairs (NOT the row-group/table-column pattern -
+ see analyze_row_groups.py for that): pairs of case-1 sequences (same length) that are
 near-identical, differing at only 1-2 positions - e.g.
 
     M309~a M362+M059    M269    M310~1 M009 M206~g M081
@@ -20,7 +21,7 @@ from analyze_subheader_syllabary import extract_all_line_code_sequences
 
 MIN_LEN = 4       # shorter sequences produce too many coincidental near-matches
 MAX_DIFF = 2       # keep pairs differing at 1 or 2 positions
-OUT_TSV = ROOT / "texts" / "proto-elamite" / "vertical-orders.tsv"
+OUT_TSV = ROOT / "texts" / "proto-elamite" / "near-duplicate-lines.tsv"
 
 
 def main() -> None:
