@@ -31,6 +31,7 @@ GROUPED_TSV = ROOT / "texts" / "proto-elamite" / "reverse-summary-signs-grouped.
 
 RECORD_ID_RE = re.compile(r"^&(P\d+)")
 SECTION_RE = re.compile(r"^@(\S+)")
+SUBLETTER_RE = re.compile(r"^[a-z]\.$")
 
 
 def extract_reverse_leading_signs(char2code: dict[str, str]) -> list[tuple[str, str]]:
@@ -60,7 +61,13 @@ def extract_reverse_leading_signs(char2code: dict[str, str]) -> list[tuple[str, 
         m = LINE_RE.match(line)
         if not m:
             continue
-        for tok in m.group(2).split():
+        tokens = m.group(2).split()
+        # "1.a. <content>" splits LINE_RE's line-number group at the first
+        # '.', leaving a bare "a." sub-item letter as tokens[0] - drop it,
+        # it's not sign content.
+        if tokens and SUBLETTER_RE.match(tokens[0]):
+            tokens = tokens[1:]
+        for tok in tokens:
             result = classify(tok, char2code)
             if result is None:
                 break  # leading token unresolved/noise - skip this line

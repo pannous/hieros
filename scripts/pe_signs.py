@@ -147,12 +147,34 @@ def classify(token: str, char2code: dict[str, str]) -> tuple[str, str] | None:
     return ("sign", combined)
 
 
+def _any_variant_glyph(base: str, code2char: dict[str, str]) -> str | None:
+    """First catalogued variant's glyph for a base with no bare entry of
+    its own (e.g. 'M149' only exists as M149~a/~a2/~c/...) - imprecise
+    (picks whichever variant happens to come first in the tsv) but better
+    than a bracket placeholder for display purposes."""
+    prefix = base + "~"
+    prefix_at = base + "@"
+    for c, ch in code2char.items():
+        if c.startswith(prefix) or c.startswith(prefix_at):
+            return ch
+    return None
+
+
 def glyph_for(code: str, code2char: dict[str, str]) -> str:
     """Render a code's glyph, falling back to concatenating each '+'-part's
-    own glyph for synthesized compounds with no single catalogued codepoint."""
+    own glyph for synthesized compounds with no single catalogued codepoint,
+    and to any catalogued variant's glyph for a base with no bare entry."""
     if code in code2char:
         return code2char[code]
-    return "".join(code2char.get(part, f"[{part}]") for part in code.split("+"))
+    if "+" not in code:
+        variant = _any_variant_glyph(code, code2char)
+        if variant:
+            return variant
+        return f"[{code}]"
+    parts = []
+    for part in code.split("+"):
+        parts.append(code2char.get(part) or _any_variant_glyph(part, code2char) or f"[{part}]")
+    return "".join(parts)
 
 
 LINE_RE = re.compile(r"^(\d+[A-Za-z']*)\.\s*(.*?)\s*$")
