@@ -98,11 +98,36 @@ def slotmates_from(next_map: dict, prev_map: dict) -> dict:
     return mates
 
 
-def write_chains(path, chains: list[list[str]], mates: dict, code2char: dict, base_variants: dict, label: str) -> None:
-    """Each chain cell shows every ATTESTED graphic variant of the base
-    (e.g. M269 -> M269/M269~1/M269~3/M269~a2, not just one representative
-    glyph), joined with any cross-base twin/slotmates on top of that -
-    two distinct kinds of "/" alternation, both real, both worth keeping."""
+def step_transitions(chain: list[str], mates: dict, docs: dict) -> list[collections.Counter]:
+    """Real exact-code-to-exact-code adjacency counts for each step of the
+    chain, i.e. the verified pairs actually observed adjacent - NOT the
+    cross-product of "all variants of position i" x "all variants of
+    position i+1". Clusters (a node plus its twin/slotmates) are pooled per
+    position, since a slotmate is a substitutable alternative AT that slot,
+    not a different slot."""
+    positions = [set([node] + mates.get(node, [])) for node in chain]
+    pairs = [collections.Counter() for _ in range(len(chain) - 1)]
+    for seq in docs.values():
+        for i in range(len(seq) - 1):
+            ba, ea = seq[i]
+            bb, eb = seq[i + 1]
+            for step in range(len(chain) - 1):
+                if ba in positions[step] and bb in positions[step + 1]:
+                    pairs[step][(ea, eb)] += 1
+    return pairs
+
+
+def write_chains(path, chains: list[list[str]], mates: dict, code2char: dict, base_variants: dict, docs: dict, label: str) -> None:
+    """Two views per chain, kept together so the representative summary and
+    the raw evidence behind it are never separated:
+    - a `summary` row: every ATTESTED graphic variant of each position's
+      cluster (base + twin/slotmates), the compact "what belongs here" view
+    - `step` rows: the REAL exact-to-exact adjacency counts underlying each
+      arrow of that summary - which specific variant pairs were actually
+      seen next to each other, and how often. A summary cell can list several
+      variants while the step rows show most of them barely attested (thin
+      evidence) or one pair carrying nearly all of the count (near-fixed) -
+      that unevenness is exactly what the flattened cross-product view hides."""
     def cell_codes(node: str) -> list[str]:
         bases = [node] + mates.get(node, [])
         codes = []
@@ -122,14 +147,20 @@ def write_chains(path, chains: list[list[str]], mates: dict, code2char: dict, ba
     print(f"{len(chains)} {label} chains of length >= 3")
     print()
     with path.open("w", encoding="utf-8") as f:
-        f.write("chain_length\tcodes\tglyphs\n")
-        for chain in chains:
+        f.write("chain_id\trow_type\tstep\tcount\tchain_length\tcodes\tglyphs\tfrom_code\tfrom_glyph\tto_code\tto_glyph\n")
+        for chain_id, chain in enumerate(chains, 1):
             cell_lists = [cell_codes(n) for n in chain]
             cells = ["/".join(glyph_for(c, code2char) for c in cl) for cl in cell_lists]
             line = " ".join(cells)
             print(line)
             codes_line = " ".join("/".join(cl) for cl in cell_lists)
-            f.write(f"{len(chain)}\t{codes_line}\t{line}\n")
+            f.write(f"{chain_id}\tsummary\t\t\t{len(chain)}\t{codes_line}\t{line}\t\t\t\t\n")
+
+            for step, pair_counts in enumerate(step_transitions(chain, mates, docs), 1):
+                for (ea, eb), n in pair_counts.most_common():
+                    fg, tg = glyph_for(ea, code2char), glyph_for(eb, code2char)
+                    print(f"   step{step} x{n}  {fg}{ea} -> {tg}{eb}")
+                    f.write(f"{chain_id}\tstep\t{step}\t{n}\t\t\t\t{ea}\t{fg}\t{eb}\t{tg}\n")
     print()
     print(f"wrote {path}")
 
@@ -160,13 +191,13 @@ def main() -> None:
     print("=== HIGH CONFIDENCE: reciprocally-validated chains ===")
     high_mates = slotmates_from(reciprocal_next, reciprocal_prev)
     high_chains = build_chains(reciprocal_next)
-    write_chains(OUT_TSV, high_chains, high_mates, code2char, base_variants, "reciprocally-validated")
+    write_chains(OUT_TSV, high_chains, high_mates, code2char, base_variants, docs, "reciprocally-validated")
 
     print()
     print("=== LOW CONFIDENCE: one-directional greedy chains (exploratory only) ===")
     loose_mates = slotmates_from(primary_next, primary_prev)
     loose_chains = build_chains(primary_next)
-    write_chains(LOOSE_TSV, loose_chains, loose_mates, code2char, base_variants, "one-directional (unvalidated)")
+    write_chains(LOOSE_TSV, loose_chains, loose_mates, code2char, base_variants, docs, "one-directional (unvalidated)")
 
     # --- Global ordering: pools ALL freq>=MIN_FREQ edges, not just top-1
     # per node, so it's a different (complementary) signal from either
