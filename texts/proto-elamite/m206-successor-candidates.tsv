@@ -1,0 +1,15 @@
+angle	candidate	evidence
+1_slotmate	-	default MIN_FREQ=2: pred=('M009', 21) succ=('M102', 21) twins=None
+1_slotmate	-	relaxed MIN_FREQ=1 (diagnostic only): pred=('M009', 21) succ=('M102', 21) twins=None
+2_component	-	no compound in abc/proto-elamite.tsv lists M206 as a component
+3_positional_neighbor	M036	pos_dist=0.721 partner_overlap=10 jaccard=0.172 median_baseline=0.225
+3_positional_neighbor	M243	pos_dist=4.544 partner_overlap=11 jaccard=0.244 median_baseline=0.225
+3_positional_neighbor	M260	pos_dist=6.575 partner_overlap=9 jaccard=0.225 median_baseline=0.225
+3_positional_neighbor	M362	pos_dist=7.211 partner_overlap=7 jaccard=0.206 median_baseline=0.225
+3_positional_neighbor	M010	pos_dist=8.025 partner_overlap=12 jaccard=0.250 median_baseline=0.225
+3_positional_neighbor	M367	pos_dist=8.133 partner_overlap=15 jaccard=0.278 median_baseline=0.225
+3_positional_neighbor	M376	pos_dist=9.362 partner_overlap=13 jaccard=0.183 median_baseline=0.225
+3_positional_neighbor	M373	pos_dist=9.466 partner_overlap=10 jaccard=0.189 median_baseline=0.225
+3_positional_neighbor	M346	pos_dist=10.859 partner_overlap=22 jaccard=0.328 median_baseline=0.225
+3_positional_neighbor	M002	pos_dist=12.129 partner_overlap=8 jaccard=0.195 median_baseline=0.225
+4_row_group_swap	-	0 substitutions observed at column(s) ['e'] across all near-identical row-group pairs
