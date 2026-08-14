@@ -37,6 +37,7 @@ MIN_FREQ = 2
 OUT_TSV = ROOT / "texts" / "proto-elamite" / "glyph-chains.tsv"
 LOOSE_TSV = ROOT / "texts" / "proto-elamite" / "glyph-chains-loose.tsv"
 GLOBAL_TSV = ROOT / "texts" / "proto-elamite" / "glyph-chains-global-order.tsv"
+INSTANCES_TSV = ROOT / "texts" / "proto-elamite" / "glyph-chain-instances.tsv"
 
 
 def build_successor_counts(docs: dict[str, list[tuple[str, str]]]) -> collections.Counter:
@@ -165,6 +166,57 @@ def write_chains(path, chains: list[list[str]], mates: dict, code2char: dict, ba
     print(f"wrote {path}")
 
 
+def chain_instances(chain: list[str], docs: dict, min_run: int = 2) -> list[tuple[str, list[tuple[int, str, str]]]]:
+    """Real per-tablet occurrences of the chain: maximal runs where the
+    document's own line order matches consecutive chain positions (base at
+    doc-line i is chain[k], base at doc-line i+1 is chain[k+1], ...). Most
+    tablets only attest a PARTIAL run - that's expected and reported as such,
+    not padded to the full chain length."""
+    chain_pos = {base: i for i, base in enumerate(chain)}
+    instances = []
+    for rid, seq in docs.items():
+        i, n = 0, len(seq)
+        while i < n:
+            base, exact = seq[i]
+            pos = chain_pos.get(base)
+            if pos is None:
+                i += 1
+                continue
+            run = [(pos, exact, base)]
+            j = i + 1
+            while j < n:
+                b2, e2 = seq[j]
+                pos2 = chain_pos.get(b2)
+                if pos2 == run[-1][0] + 1:
+                    run.append((pos2, e2, b2))
+                    j += 1
+                else:
+                    break
+            if len(run) >= min_run:
+                instances.append((rid, run))
+            i = j if len(run) >= min_run else i + 1
+    return instances
+
+
+def write_chain_instances(path, chains: list[list[str]], code2char: dict, docs: dict) -> None:
+    print()
+    print("=== per-tablet occurrences of each HIGH CONFIDENCE chain (partial runs included) ===")
+    with path.open("w", encoding="utf-8") as f:
+        f.write("chain_id\trecord\tstart_step\tend_step\trun_length\tcodes\tglyphs\n")
+        for chain_id, chain in enumerate(chains, 1):
+            instances = chain_instances(chain, docs)
+            instances.sort(key=lambda inst: (-len(inst[1]), inst[0]))
+            print(f"chain {chain_id}: {len(instances)} tablet occurrences (run length >= 2)")
+            for rid, run in instances:
+                codes = "/".join(exact for _, exact, _ in run)
+                glyphs = " ".join(glyph_for(exact, code2char) for _, exact, _ in run)
+                start, end = run[0][0] + 1, run[-1][0] + 1
+                print(f"   {rid}  step{start}-{end}  {glyphs}   ({codes})")
+                f.write(f"{chain_id}\t{rid}\t{start}\t{end}\t{len(run)}\t{codes}\t{glyphs}\n")
+    print()
+    print(f"wrote {path}")
+
+
 def main() -> None:
     char2code = load_char_to_code()
     code2char = code_to_char_map(char2code)
@@ -192,6 +244,7 @@ def main() -> None:
     high_mates = slotmates_from(reciprocal_next, reciprocal_prev)
     high_chains = build_chains(reciprocal_next)
     write_chains(OUT_TSV, high_chains, high_mates, code2char, base_variants, docs, "reciprocally-validated")
+    write_chain_instances(INSTANCES_TSV, high_chains, code2char, docs)
 
     print()
     print("=== LOW CONFIDENCE: one-directional greedy chains (exploratory only) ===")
