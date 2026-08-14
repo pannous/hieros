@@ -127,6 +127,35 @@ def main() -> None:
     print()
     print(f"wrote {OUT_TSV}")
 
+    # --- Global ordering, independent of the greedy local chains above ---
+    # The chains only ever follow each node's single BEST successor, so two
+    # signs that are locally "independent" (neither is the other's top
+    # choice) can still carry a real global precedence signal once ALL
+    # freq>=MIN_FREQ edges are pooled, not just the top-1 per node. Score
+    # each node by net flow (total outgoing edge weight minus total
+    # incoming): a node that mostly PRECEDES things nets positive and
+    # ranks early; a node mostly FOLLOWED-INTO (like M288) nets very
+    # negative and ranks late - giving one proposed total order across
+    # every sign that clears the frequency bar, not just chain fragments.
+    qualifying_edges = [(a, b, n) for (a, b), n in succ_counts.items() if n >= MIN_FREQ]
+    net_flow = collections.Counter()
+    for a, b, n in qualifying_edges:
+        net_flow[a] += n
+        net_flow[b] -= n
+
+    order = sorted(net_flow, key=lambda node: -net_flow[node])
+    print()
+    print(f"=== global order by net flow (all {len(qualifying_edges)} edges freq>={MIN_FREQ} pooled) ===")
+    print("(positive = net 'precedes', negative = net 'is preceded by' - M288 anchors the tail as expected)")
+    GLOBAL_TSV = ROOT / "texts" / "proto-elamite" / "glyph-chains-global-order.tsv"
+    with GLOBAL_TSV.open("w", encoding="utf-8") as f:
+        f.write("rank\tnet_flow\tbase\tglyph\n")
+        for rank, node in enumerate(order, 1):
+            if rank <= 20 or rank > len(order) - 20:
+                print(f"{rank:4d}  net={net_flow[node]:+4d}  {glyph_for(node, code2char)} {node}")
+            f.write(f"{rank}\t{net_flow[node]}\t{node}\t{glyph_for(node, code2char)}\n")
+    print(f"wrote {GLOBAL_TSV}")
+
 
 if __name__ == "__main__":
     main()
