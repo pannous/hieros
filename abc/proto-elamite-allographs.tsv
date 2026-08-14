@@ -6,3 +6,12 @@
 # specific variants while excluding their siblings.
 # Manually curated by visual comparison (Dahl 2006 sign list drawings).
 M006	M005~a M006 M006@g~1 M006@g~2 M007~a M007~b
+# M362+X: the row-group's own template names this position as a generic
+# "M362 + content sign" placeholder, not a specific grapheme - each attested
+# complex grapheme below is otherwise its own distinct base number, so
+# without this cluster none of them individually reaches the frequency
+# needed to register as M269's head. Bare M362/M362~a/M362~b/M362~gc (no
+# "+X") are NOT included - they keep their own base_number("M362") grouping,
+# since it's not established every one of them fills the same head-of-row
+# role as the complex "M362+X" forms.
+M362+X	M362+M005 M362+M024~c M362+M026~h M362+M041~e M362+M059 M362+M059~d M362+M099~b M362+M123~b M362+M158 M362+M207~n M362+M244 M362+M247~g M362+M312~a M362+M317# M362+M365 M362+M367 M362+M383~c M362+M384~a

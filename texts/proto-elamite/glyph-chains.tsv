@@ -1,5 +1,5 @@
 chain_id	row_type	step	count	chain_length	codes	glyphs	from_code	from_glyph	to_code	to_glyph
-1	summary			7	M269~b/M269~a/M269/M269~a1/M269~1/M269~c/M269~2/M269~a2/M269~3 M106~a/M106/M106~b M009/M009~a/M009~g M206~g/M206~d/M206~fa/M206~b/M206~f M102~e/M102~d/M102~a/M102~da M309~a/M309~d/M309 M362+M059~d/M362+M059	𜃳/𜃯/𜃪/𜃰/𜃫/𜃴/𜃬/𜃱/𜃭 𛺉/𛺄/𛺊 𛵓/𛵔/𛵙 𛿃/𛾿/𛿂/𛾾/𛿁 𛹱/𛹮/𛹬/𛹰 𜆾/𜇁/𜆽 𜉴/𜉳				
+1	summary			7	M269~b/M269~a/M269/M269~a1/M269~1/M269~c/M269~2/M269~a2/M269~3 M106~a/M106/M106~b M009/M009~a/M009~g M206~g/M206~d/M206~fa/M206~b/M206~f M102~e/M102~d/M102~a/M102~da M309~a/M309~d/M309 M362+M059~d/M362+M384~a/M362+M059/M362+M099~b/M362+M244/M362+M383~c/M362+M026~h	𜃳/𜃯/𜃪/𜃰/𜃫/𜃴/𜃬/𜃱/𜃭 𛺉/𛺄/𛺊 𛵓/𛵔/𛵙 𛿃/𛾿/𛿂/𛾾/𛿁 𛹱/𛹮/𛹬/𛹰 𜆾/𜇁/𜆽 𜉴/𜊀/𜉳/𜉵/𜉹/𜉿/𜉱				
 1	step	1	2				M269	𜃪	M106~a	𛺉
 1	step	1	2				M269	𜃪	M106	𛺄
 1	step	1	2				M269~c	𜃴	M106~a	𛺉
@@ -20,8 +20,13 @@ chain_id	row_type	step	count	chain_length	codes	glyphs	from_code	from_glyph	to_c
 1	step	4	1				M206~g	𛿃	M102~d	𛹮
 1	step	5	19				M102~e	𛹱	M309~a	𜆾
 1	step	5	1				M102~d	𛹮	M309~a	𜆾
+1	step	6	2				M309~a	𜆾	M362+M244	𜉹
 1	step	6	2				M309~a	𜆾	M362+M059~d	𜉴
+1	step	6	1				M309~a	𜆾	M362+M384~a	𜊀
 1	step	6	1				M309~a	𜆾	M362+M059	𜉳
+1	step	6	1				M309~a	𜆾	M362+M383~c	𜉿
+1	step	6	1				M309~a	𜆾	M362+M123~b	𜉶
+1	step	6	1				M309~a	𜆾	M362+M099~b	𜉵
 2	summary			3	M285~c M386~a/M386~d/M386 M219/M219~s	𜄧 𜋺/𜋻/𜋸 𜀈/𜀋				
 2	step	1	1				M285~c	𜄧	M386~a	𜋺
 2	step	1	1				M285~k	𜄪	M386~a	𜋺
