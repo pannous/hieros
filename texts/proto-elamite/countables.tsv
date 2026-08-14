@@ -27,7 +27,7 @@ rank	count	glyph	code	base
 26	37	𛵞	M010~2	M010
 27	36	𜂧	M260	M260
 28	35	𜇟	M317	M317
-29	33	𛵉	M006	M006-cluster
+29	33	𛵉	M006	M006
 30	32	𛴾	M002	M002
 31	31	𛷳	M056~f	M056
 32	30	𛷇	M046	M046
@@ -157,7 +157,7 @@ rank	count	glyph	code	base
 156	5	𜂩	M260~1+N24	M260+N24
 157	5	𛶥	M038~b1	M038
 158	5	𛹧	M099	M099
-159	5	𛵈	M005~a	M006-cluster
+159	5	𛵈	M005~a	M006
 160	5	𛷂	M044	M044
 161	5	𛾢	M195	M195
 162	5	𛸻	M075~m	M075
@@ -367,7 +367,7 @@ rank	count	glyph	code	base
 366	2	𜀢	M228	M228
 367	2	𜀙	M223~d	M223
 368	2	𜀇	M218~g	M218
-369	2	𛵋	M006@g~1	M006-cluster
+369	2	𛵋	M006@g~1	M006
 370	2	𜀦	M228~b	M228
 371	2	𜇯	M318~e	M318
 372	2	𜈸	M343~h	M343
@@ -607,7 +607,7 @@ rank	count	glyph	code	base
 606	1	𛿏	M207~h	M207
 607	1	𜌷	M446	M446
 608	1	𛿮	M215	M215
-609	1	𛵐	M007~b	M006-cluster
+609	1	𛵐	M007~b	M006
 610	1	𜌸	M447	M447
 611	1	𜌼	M448	M448
 612	1	𛼵	M149~d	M149
@@ -747,7 +747,7 @@ rank	count	glyph	code	base
 746	1	𛸦	M071~d	M071
 747	1	𛸥	M071~a	M071
 748	1	𜋔	M382	M382
-749	1	𛵌	M006@g~2	M006-cluster
+749	1	𛵌	M006@g~2	M006
 750	1	𛼾	M151~d	M151
 751	1	𜄾	M289	M289
 752	1	𛹖	M091~a	M091
