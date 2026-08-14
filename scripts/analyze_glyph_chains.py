@@ -98,16 +98,37 @@ def slotmates_from(next_map: dict, prev_map: dict) -> dict:
     return mates
 
 
-def write_chains(path, chains: list[list[str]], mates: dict, code2char: dict, label: str) -> None:
+def write_chains(path, chains: list[list[str]], mates: dict, code2char: dict, base_variants: dict, label: str) -> None:
+    """Each chain cell shows every ATTESTED graphic variant of the base
+    (e.g. M269 -> M269/M269~1/M269~3/M269~a2, not just one representative
+    glyph), joined with any cross-base twin/slotmates on top of that -
+    two distinct kinds of "/" alternation, both real, both worth keeping."""
+    def cell_codes(node: str) -> list[str]:
+        bases = [node] + mates.get(node, [])
+        codes = []
+        for b in bases:
+            variants = base_variants.get(b)
+            if not variants:
+                codes.append(b)
+                continue
+            # drop true one-off spellings (likely rare/typo forms per the
+            # boundary-likeness convention used elsewhere) - keep every
+            # variant attested at least twice, so a cell reflects real
+            # recurring graphic variation, not the full long tail
+            kept = [c for c, n in variants.most_common() if n >= MIN_FREQ]
+            codes.extend(kept or [variants.most_common(1)[0][0]])
+        return codes
+
     print(f"{len(chains)} {label} chains of length >= 3")
     print()
     with path.open("w", encoding="utf-8") as f:
         f.write("chain_length\tcodes\tglyphs\n")
         for chain in chains:
-            cells = ["/".join(glyph_for(g, code2char) for g in [n] + mates.get(n, [])) for n in chain]
+            cell_lists = [cell_codes(n) for n in chain]
+            cells = ["/".join(glyph_for(c, code2char) for c in cl) for cl in cell_lists]
             line = " ".join(cells)
             print(line)
-            codes_line = " ".join("/".join([n] + mates.get(n, [])) for n in chain)
+            codes_line = " ".join("/".join(cl) for cl in cell_lists)
             f.write(f"{len(chain)}\t{codes_line}\t{line}\n")
     print()
     print(f"wrote {path}")
@@ -119,6 +140,11 @@ def main() -> None:
     rows = extract_all_line_code_sequences(char2code)
     docs = per_document_leading_signs(rows)
     succ_counts = build_successor_counts(docs)
+
+    base_variants = collections.defaultdict(collections.Counter)
+    for seq in docs.values():
+        for base, exact in seq:
+            base_variants[base][exact] += 1
 
     primary_next, primary_prev = primary_edges(succ_counts)
 
@@ -134,13 +160,13 @@ def main() -> None:
     print("=== HIGH CONFIDENCE: reciprocally-validated chains ===")
     high_mates = slotmates_from(reciprocal_next, reciprocal_prev)
     high_chains = build_chains(reciprocal_next)
-    write_chains(OUT_TSV, high_chains, high_mates, code2char, "reciprocally-validated")
+    write_chains(OUT_TSV, high_chains, high_mates, code2char, base_variants, "reciprocally-validated")
 
     print()
     print("=== LOW CONFIDENCE: one-directional greedy chains (exploratory only) ===")
     loose_mates = slotmates_from(primary_next, primary_prev)
     loose_chains = build_chains(primary_next)
-    write_chains(LOOSE_TSV, loose_chains, loose_mates, code2char, "one-directional (unvalidated)")
+    write_chains(LOOSE_TSV, loose_chains, loose_mates, code2char, base_variants, "one-directional (unvalidated)")
 
     # --- Global ordering: pools ALL freq>=MIN_FREQ edges, not just top-1
     # per node, so it's a different (complementary) signal from either
