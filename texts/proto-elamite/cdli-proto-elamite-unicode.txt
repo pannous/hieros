@@ -1585,7 +1585,7 @@ $ broken
 1. …  … 𛴆𛴆𛴆𛴆𛴆𛴆 𛴀𛴀𛴀𛴀 … 𛴀𛴀𛴀 
 @top 
 1. 𛴓 
-# <<<<<<<<<< Interesting assembly of people! (groups of 10, 3, 50 )
+# <<<<<<<<<< Interesting assembly of people (with livestock?)! (groups of 10, 3, 50 )
 
 
 &P008086 = MDP 06 294 
@@ -4691,6 +4691,7 @@ $ rest broken
 
 &P008277 = MDP 17 079 
 @obverse 
+# !! simple profession? hierarchy
 1. …  
 2. …  𛴀 
 3. 𜊲  𛴀 
@@ -5135,7 +5136,7 @@ $ n lines broken
 &P008294 = MDP 17 096 + 325 + 380 
 @obverse 
 1. 𜉯# 𛿊  𛴀𛴀𛴀 
-# of x 3 nanny goats 
+# 𛿊 of 3 nanny goats 
 1.a. 𜊊  𛴀𛴀 
 # 2 billy goats 
 1.b. 𜈽  𛴀𛴀𛴀𛴀 
@@ -5145,7 +5146,7 @@ $ n lines broken
 1.f. 𜈿  𛴀 
 # 1 female lamb 
 2. 𜉴 𜇈  𛴀𛴀𛴀𛴀𛴀𛴀 
-# of x 6 nanny goats 
+#  𜇈  of 6 nanny goats 
 2.a. 𜊊  𛴀𛴀𛴀𛴀 
 # 4 billy goats 
 2.b. 𜈽  𛴀 
@@ -21170,6 +21171,7 @@ $ blank
 2. 𛷪 𛻃  𛴉 𛴆𛴆 𛴀𛴀𛴀𛴀𛴀 
 
 
+# Person Profession list?
 &P009382 = MDP 31 043 
 @obverse 
 1. 𜌓  
