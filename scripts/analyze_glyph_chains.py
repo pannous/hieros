@@ -113,12 +113,11 @@ def main() -> None:
         for node in chain:
             mates = node_to_slotmates.get(node, [])
             group = [node] + mates
-            glyphs = "/".join(f"{glyph_for(g, code2char)}" for g in group)
-            codes = "/".join(group)
-            cells.append(f"{glyphs}({codes})")
-        line = "  ".join(cells)
+            cells.append("/".join(glyph_for(g, code2char) for g in group))
+        line = " ".join(cells)
         print(line)
-        lines_out.append((len(chain), " ".join("/".join([n] + node_to_slotmates.get(n, [])) for n in chain), line))
+        codes_line = " ".join("/".join([n] + node_to_slotmates.get(n, [])) for n in chain)
+        lines_out.append((len(chain), codes_line, line))
 
     with OUT_TSV.open("w", encoding="utf-8") as f:
         f.write("chain_length\tcodes\tglyphs\n")
