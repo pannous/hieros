@@ -15,12 +15,18 @@
   @font-face { font-family: "CF_7"; src: url("file:///Users/me/Documents/uruk_egypt.nosync/fonts/SantakkuM.ttf"); }
   @font-face { font-family: "CF_9"; src: url("file:///Users/me/Documents/uruk_egypt.nosync/fonts/UllikummiB.ttf"); }
   @font-face { font-family: "CF_10"; src: url("file:///Users/me/Documents/uruk_egypt.nosync/fonts/UllikummiC.ttf"); }
-  body { background: #111; color: #eee; font-family: sans-serif; }
+  :root {
+    --bg: #fafafa; --fg: #111; --border: #ddd; --muted: #777; --faint: #999;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #111; --fg: #eee; --border: #333; --muted: #888; --faint: #555; }
+  }
+  body { background: var(--bg); color: var(--fg); font-family: sans-serif; }
   table { border-collapse: collapse; }
-  td, th { padding: 4px 10px; border-bottom: 1px solid #333; vertical-align: middle; text-align: left; }
-  th { color: #888; font-weight: normal; position: sticky; top: 0; background: #111; }
-  .cov { font-size: 11px; color: #555; }
-  .cp { color: #555; font-size: 11px; font-family: monospace; }
+  td, th { padding: 4px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; text-align: left; }
+  th { color: var(--muted); font-weight: normal; position: sticky; top: 0; background: var(--bg); }
+  .cov { font-size: 11px; color: var(--faint); }
+  .cp { color: var(--faint); font-size: 11px; font-family: monospace; }
 .f0 { font: 32px "CF_0"; }
 .f1 { font: 32px "CF_5"; }
 .f2 { font: 32px "CF_2"; }
@@ -32,7 +38,7 @@
 .f8 { font: 32px "CF_7"; }
 .f9 { font: 32px "CF_9"; }
 .f10 { font: 32px "CF_10"; }
-  .reading { color: #aaa; font-size: 14px; white-space: nowrap; }
+  .reading { color: var(--muted); font-size: 14px; white-space: nowrap; }
 </style>
 </head>
 <body>
