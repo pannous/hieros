@@ -12,6 +12,8 @@ Then you can head over to the [ARTICLE](https://pannous.github.io/hieros/Home),
 
 You can search the Egytian **dictionary** using the [hieroglyph keyboard](https://hieros.pannous.com/).
 
+[Cuneiform signs across 11 fonts](https://files.pannous.com/cuneiform/)
+
 Related project: https://github.com/pannous/swadesh
 <!-- 
 **The Cauchy-Schwarz Inequality**
