@@ -14,7 +14,12 @@ SAH 	𒋚 		# ⚠️ TEMPORARY Hammurabi fix ⚠️
 SHA 	𒐼 		# ⚠️ TEMPORARY Hammurabi fix ⚠️
 # SA 	𒐼 		# ⚠️ TEMPORARY Hammurabi fix ⚠️ vs 𒂍
 KAR 	𒆳
-# SHU 	𒋙 		# ⚠️ TEMPORARY 
+# SHU 	𒋙 		# ⚠️ TEMPORARY Assyrian fix
+sar 	𒈗
+piš 	𒄫
+ḳin 	𒆥
+qú 	𒆪
+qu 	𒆪
 zu	 𒍮 	ẓu
 bab 	𒆍
 QI 	𒆥 	≈ ki 𒆠
@@ -4213,6 +4218,40 @@ na₈ 	𒅘
 na8 	𒅘
 rabu 	𒃲
 SUNKI 	𒈗
+sarru 	𒈗
 xi 	𒄭  #ḪI in darius
 pè 	𒉌
 tù 	𒁺 # sure?
+dannu 	𒆗
+babili 	𒆍𒀭𒊏
+Assur 	𒐀𒐼
+Ashur 	𒐀𒐼
+Aššur 	𒐀𒐼
+Ašur 	𒐀𒐼
+assur 	𒐀𒐼
+# Firsteps-in-Assyrian king titulary, session continuation
+kissati 	𒊹 	# kiššatu "totality/world", ŠAR2 sign (same as SAR2 line above)
+kiššati 	𒊹
+IP 	𒅁 	# = IB 𒅁, p/b allophone
+NAK 	𒅘 	# = NAG 𒅘, k/g allophone
+resh 	𒊕 	# rēšu "head", = SAG 𒊕
+rēš 	𒊕
+nirari 	𒉌𒊏𒊑 	# ni-ra-ri
+sulmanuasaridu 	𒂄𒈠𒉡𒀀𒊭𒊑𒁺 	# šul-ma-nu-a-ša-ri-du, Shalmaneser
+iddina 	𒀉𒁲𒈾 	# id-di-na
+sumeri 	𒋗𒈨𒊑 	# šu-me-ri
+šumēri 	𒋗𒈨𒊑
+akkadi 	𒀝𒅗𒁲 	# ak-ka-di
+akkadī 	𒀝𒅗𒁲
+meli 	𒈨𒇷 	# me-li
+liplipi 	𒇷𒅁𒇷𒉿 	# li-ip-li-pi
+nabu 	𒈾𒁍 	# na-bu
+nabū 	𒈾𒁍
+rubu 	𒊒𒁍 	# ru-bu
+rubū 	𒊒𒁍
+usur 	𒌋𒋩 	# u-ṣur, ṣur reuses SUR 𒋩 (s/š/ṣ homophone)
+uṣur 	𒌋𒋩
+sakkanakku 	𒊕𒅗𒅘𒆪 	# šak-ka-nak-ku
+šakkanakku 	𒊕𒅗𒅘𒆪
+nusku 	𒉡𒍑𒆪 	# nu-uš-ku
+Nusku 	𒉡𒍑𒆪
