@@ -1030,6 +1030,7 @@ KUŠU2	𒆵
 KUŠU4	𒊨
 KUŠUM4	𒌋𒊊	*
 LA	𒆷
+la	𒆷	# lowercase alias, Akkadian phonetic la/lā (same LA sign)
 LA2	𒇲
 LAG	𒋃
 LAGAB	𒆸
@@ -4401,6 +4402,7 @@ utir 	𒌋𒌁 	# u-tir, "he/I brought back" (târu), reuses U 𒌋 + TIR 𒌁
 # Menahem/tribute-of-princes section, session continuation
 parzillu 	𒀭𒁇 	# AN.BAR logogram for "iron", reuses ilu 𒀭 + BAR 𒁇
 kaspu 	𒆬𒌓 	# KU3.BABBAR logogram for "silver", reuses KU3 𒆬 + BABBAR 𒌓
+kaspi 	𒆬𒌓 	# genitive of kaspu, same KU3.BABBAR logogram
 anaku 	𒀭𒈾 	# "lead", reuses existing NAGGA 𒀭𒈾 entry (same sign, Akkadian reading)
 imeru 	𒀲 	# ANŠE, beast-of-burden determinative/logogram
 alpe 	𒄞 	# GU4 "ox/oxen", reuses GU4 𒄞
