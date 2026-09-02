@@ -60,3 +60,5 @@ dicts/cuneiform/oracc
 .claude/worktrees
 probes/egy_dict_sources/
 !probes/egy_dict_sources/SOURCES.md
+
+bak/
