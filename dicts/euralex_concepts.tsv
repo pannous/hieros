@@ -1,0 +1,1018 @@
+northeuralex-0.9-concept-data.tsv
+number	position_in_ranking	ranking_value	id_nelex	gloss_en	gloss_ru	annotation_en	annotation_en	annotation_ru	concepticon	concepticon_id	concepticon_proposed	comments
+1	44	-2,539237	Auge::N	eye	глаз	[[Anatomie]]	[[anatomy]]	[[анатомия]]	EYE	1248	EYE	
+2	34	-2,649194	Ohr::N	ear	ухо	[[Anatomie]]	[[anatomy]]	[[анатомия]]	EAR	1247	EAR	
+3	149	-1,995463	Nase::N	nose	нос	[[Anatomie]]	[[anatomy]]	[[анатомия]]	NOSE	1221	NOSE	
+4	25	-2,762589	Mund::N	mouth	рот	[[Anatomie]]	[[anatomy]]	[[анатомия]]	MOUTH	674	MOUTH	
+5	31	-2,670705	Zahn::N	tooth	зуб	[BSP:menschlicher Schneidezahn]	[EX:human incisor]	[НАПР:человека]	TOOTH	1380	TOOTH	
+6	66	-2,387728	Zunge::N	tongue	язык	[[Anatomie]]	[[anatomy]]	[орган в полости рта]	TONGUE	1205	TONGUE	
+7	430	-1,243607	Lippe::N	lip	губа	[[Anatomie]]	[[anatomy]]	[[анатомия]]	LIP	478	LIP	
+8	897	0,10952	Wange::N	cheek	щека	[[Anatomie]]	[[anatomy]]	[[анатомия]]	CHEEK	1730	CHEEK	
+9	644	-0,75467	Gesicht::N	face	лицо	[des Menschen]	[of a human]	[человека]	FACE	1560	FACE	
+10	452	-1,186739	Stirn::N	forehead	лоб	[des Menschen]	[of a human]	[человека]	FOREHEAD	123	FOREHEAD	
+11	121	-2,128777	Haar::N	hair	волос	[Kopfhaar des Menschen]	[of human head]	[на голове человека]	HAIR	1040	HAIR	
+12	988	1,003531	Schnurrbart::N	moustache	усы	[eines Mannes]	[of a man]	[мужчины]	MOUSTACHE	1165	MOUSTACHE	
+13	358	-1,416858	Bart::N	beard	борода	[allgemein]	[generic]	[волосяной покров нижней части лица]	BEARD	678	BEARD	
+14	405	-1,31055	Kinn::N	chin	подбородок	[[Anatomie]]	[[anatomy]]	[[анатомия]]	CHIN	1510	CHIN	
+15	690	-0,647343	Kiefer[Anatomie]::N	jaw	челюсть	[[Anatomie]]	[[anatomy]]	[[анатомия]]	JAW	798	JAW	
+16	361	-1,412143	Kehle::N	throat	горло	[Hals von innen]	[from inside]	[НАПР:полоскать горло]	THROAT	1346	THROAT	
+17	267	-1,638234	Hals::N	neck	шея	[Hals von außen, rundum]	[from outside]	[НАПР:бусы на шее]	NECK	1333	NECK	
+18	804	-0,344891	Genick::N	nape	затылок	[hinter Teil des Halses]	[back side of neck]	[задняя часть головы]	NAPE_(OF_NECK)	1347	NAPE_(OF_NECK)	
+19	23	-2,81461	Kopf::N	head	голова	[BSP:des Menschen]	[EX:of a human]	[НАПР:человека]	HEAD	1256	HEAD	
+20	431	-1,243134	Rücken::N	back	спина	[des Menschen]	[of a human]	[человека]	BACK	1291	BACK	
+21	378	-1,37446	Bauch::N	belly	живот	[des Menschen]	[of a human]	[человека]	BELLY	1251	BELLY	
+22	346	-1,439977	Nabel::N	navel	пупок	[[Anatomie]]	[[anatomy]]	[[анатомия]]	NAVEL	1838	NAVEL	
+23	740	-0,516307	Busen::N	bosom	грудь	[weibliche Brust]	[female breast]	[женская грудь]	BREAST	1402	BREAST	
+24	296	-1,556723	Brust::N	breast	грудь	[BSP:eines Mannes]	[EX:of a man]	[НАПР:мужчины]	CHEST	1592	CHEST	
+25	533	-0,987579	Schulter::N	shoulder	плечо	[[Anatomie]]	[[anatomy]]	[[анатомия]]	SHOULDER	1482	SHOULDER	
+26	46	-2,514312	Arm::N	arm	рука	[des Menschen]	[of a human]	[от пальцев до плеча]	ARM	1673	ARM	
+27	770	-0,443831	Ellenbogen::N	elbow	локоть	[des Menschen]	[of a human]	[человека]	ELBOW	981	ELBOW	
+28	41	-2,555057	Hand::N	hand	кисть	[des Menschen]	[of a human]	[руки]	HAND	1277	HAND	
+29	678	-0,672581	Handfläche::N	palm	ладонь	[[Anatomie]]	[[anatomy]]	[[анатомия]]	PALM_OF_HAND	1183	PALM_OF_HAND	
+30	191	-1,839551	Finger::N	finger	палец	[des Menschen]	[of a human]	[на руке человека]	FINGER	1303	FINGER	
+31	317	-1,500767	Fingernagel::N	fingernail	ноготь на руке	[[Anatomie]]	[[anatomy]]	[человека]	FINGERNAIL	1258	FINGERNAIL	
+32	98	-2,240028	Nagel[Anatomie]::N	nail	ноготь	[[Anatomie]]	[[anatomy]]	[на руке или на ноге]	FINGERNAIL_OR_TOENAIL	1896	FINGERNAIL_OR_TOENAIL	
+33	894	0,074736	Zeh::N	toe	палец ноги	[des Menschen]	[of a human]	[человека]	TOE	1389	TOE	
+34	73	-2,341286	Fuß::N	foot	ступня	[des Menschen]	[of a human]	[человека]	FOOT	1301	FOOT	
+35	443	-1,212251	Ferse::N	heel	пятка	[[Anatomie]]	[[anatomy]]	[[анатомия]]	HEEL	980	HEEL	
+36	271	-1,62634	Knie::N	knee	колено	[[Anatomie]]	[[anatomy]]	[[анатомия]]	KNEE	1371	KNEE	
+37	616	-0,829976	Oberschenkel::N	thigh	бедро	[[Anatomie]]	[[anatomy]]	[верхняя часть ноги до колена]	THIGH	800	THIGH	
+38	57	-2,457644	Bein::N	leg	нога	[des Menschen]	[of a human]	[нога не включая ступню]	LEG	1297	LEG	
+39	252	-1,67423	Körper::N	body	тело	[eines Lebewesens]	[of a living organism]	[живого существа]	BODY	1480	BODY	
+40	417	-1,271135	Haut::N	skin	кожа	[des Menschen]	[of a human]	[человека]	SKIN	763	SKIN	
+41	35	-2,63808	Blut::N	blood	кровь	[Flüssigkeit]	[fluid]	[жидкая]	BLOOD	946	BLOOD	
+42	297	-1,55507	Ader::N	vein	вена	[[Anatomie]]	[[anatomy]]	[[анатомия]]	VEIN	1924	VEIN	
+43	639	-0,764254	Sehne::N	sinew	сухожилие	[[Anatomie]]	[[anatomy]]	[[анатомия]]	TENDON	1137	TENDON	
+44	59	-2,445369	Knochen::N	bone	кость	[[Anatomie]]	[[anatomy]]	[[анатомия]]	BONE	1394	BONE	
+45	265	-1,639365	Gehirn::N	brain	мозг	[[Anatomie]]	[[anatomy]]	[[анатомия]]	BRAIN	1583	BRAIN	
+46	306	-1,544068	Herz::N	heart	сердце	[[Anatomie]]	[[anatomy]]	[[анатомия]]	HEART	1223	HEART	
+47	554	-0,949448	Magen::N	stomach	желудок	[[Anatomie]]	[[anatomy]]	[[анатомия]]	STOMACH	819	STOMACH	
+48	368	-1,394606	Leber::N	liver	печень	[[Anatomie]]	[[anatomy]]	[[анатомия]]	LIVER	1224	LIVER	
+49	744	-0,506891	Atem::N	breath	дыхание	[Atmung]	[breathing]	[процесс]	BREATH	870	BREATH	
+50	327	-1,486053	Hunger::N	hunger	голод	[Zustand]	[condition]	[состояние]	HUNGER	1864	HUNGER	
+51	409	-1,291737	Träne::N	tear	слеза	[Tropfen der Flüssigkeit]	[drop of fluid]	[капля]	TEAR_(OF_EYE)	1651	TEAR_(OF_EYE)	
+52	197	-1,822334	Geschmack::N	flavour	вкус	[von etwas]	[of something]	[чего-либо]	TASTE	2190	TASTE	
+53	239	-1,702637	Geruch::N	odour	запах	[von etwas]	[of something]	[чего-либо]	<NA>	0	FLAVOR	
+54	78	-2,32481	Schlaf::N	sleep	сон	[Zustand]	[condition]	[состояние]	<NA>	0	SLEEP_(STATE)	POS
+55	123	-2,116322	Traum::N	dream	сновидение	[im Schlaf]	[while sleeping]	[то, что снится]	DREAM	2374	DREAM	
+56	92	-2,260565	Himmel::N	sky	небо	[sichtbar]	[visible]	[НАПР:звёзды на небе/солнце на небе]	SKY	1732	SKY	
+57	153	-1,984994	Sonne::N	sun	солнце	[Himmelskörper]	[celestial body]	[НАПР:солнце на небе]	SUN	1343	SUN	
+58	104	-2,213239	Mond::N	moon	луна	[Himmelskörper]	[celestial body]	[НАПР:луна на небе]	MOON	1313	MOON	
+59	316	-1,503503	Stern::N	star	звезда	[am Nachthimmel]	[in the night sky]	[на ночном небе]	STAR	1430	STAR	
+60	234	-1,723365	Luft::N	air	воздух	[wo Vögel fliegen]	[where birds fly]	[НАПР:птицы летают по воздуху]	AIR	27	AIR	
+61	69	-2,37676	Wind::N	wind	ветер	[draußen]	[outside]	[на улице]	WIND	960	WIND	
+62	213	-1,772595	Welle::N	wave	волна	[auf Wasser]	[on water]	[на воде]	WAVE	978	WAVE	
+63	19	-2,92383	Wasser::N	water	вода	[kaltes Wasser]	[cold water]	[холодная вода]	WATER	948	WATER	
+64	55	-2,46243	Stein::N	stone	камень	[Substanz]	[substance]	[вещество]	ROCK	668	ROCK	
+65	470	-1,143149	Boden::N	ground	земля 	[Erdboden]	[soil, earth]	[земля, пол; НАПР:падать на землю]	GROUND	2159	GROUND	
+66	164	-1,945461	Erde::N	earth	земля, почва	[Substanz]	[substance]	[вещество; НАПР:комок земли]	EARTH_(SOIL)	1228	EARTH_(SOIL)	
+67	292	-1,575208	Staub::N	dust	пыль	[Ablagerung]	[settled]	[НАПР:вытереть пыль]	DUST	2	DUST	
+68	82	-2,306577	Rauch::N	smoke	дым	[von einem Feuer]	[from a fire]	[от огня]	SMOKE_(EXHAUST)	778	SMOKE_(EXHAUST)	
+69	827	-0,254543	Funke::N	spark	искра	[von einem Feuer]	[from a fire]	[от огня]	SPARK	518	SPARK	
+70	129	-2,09136	Feuer::N	fire	огонь	[Flammen]	[flames]	[пламя]	FIRE	221	FIRE	
+71	192	-1,838404	Licht::N	light	свет	[natürlich]	[from a natural source]	[природный]	LIGHT_(RADIATION)	630	LIGHT_(RADIATION)	
+72	481	-1,122783	Schatten::N	shadow	тень	[schattiger Ort]	[shady place]	[тенистое место]	SHADE	1388	SHADE	
+73	488	-1,113199	Wetter::N	weather	погода	[]	[]	[]	WEATHER	952	WEATHER	
+74	672	-0,696679	Nebel::N	fog	туман	[]	[]	[]	FOG	249	FOG	
+75	205	-1,790594	Wolke::N	cloud	облако	[hell]	[bright]	[свётлое]	CLOUD	1489	CLOUD	
+76	255	-1,66627	Regen::N	rain	дождь	[fallend]	[falling]	[НАПР:дождь идёт]	RAIN_(PRECIPITATION)	658	RAIN_(PRECIPITATION)	
+77	37	-2,607532	Schnee::N	snow	снег	[liegend]	[on the ground]	[на земле]	SNOW	784	SNOW	
+78	32	-2,666068	Eis::N	ice	лёд	[natürliche Substanz]	[natural substance]	[природный НАПР:на реке, озере]	ICE	617	ICE	
+79	420	-1,269482	Frost::N	frost	мороз	[Temperatur unter Gefrierpunkt]	[temperature below freezing point]	[сильный холод]	FROST	2034	FROST	
+80	484	-1,117138	Kälte::N	chill	холод	[niedrige Temperatur]	[low temperature]	[низкая температура воздуха]	<NA>	0	CHILL	POS
+81	730	-0,541652	Hitze::N	heat	жара	[hohe Temperatur]	[high temperature]	[высокая температура воздуха]	HEAT	612	HEAT	
+82	656	-0,724082	Raureif::N	hoarfrost	иней	[]	[]	[]	<NA>	0	HOARFROST	
+83	1007	1,697472	Regenbogen::N	rainbow	радуга	[]	[]	[]	RAINBOW	1733	RAINBOW	
+84	625	-0,801241	Donner::N	thunder	гром	[bei Gewitter]	[during a thunderstorm]	[во время грозы]	THUNDER	1150	THUNDER	
+85	753	-0,489439	Strömung::N	current	течение	[eines Flusses]	[of a river]	[реки]	<NA>	0	CURRENT	
+86	458	-1,170306	Tropfen::N	drop	капля	[BSP:Wasser]	[EX:water]	[НАПР:воды]	<NA>	0	DROP_(OF_LIQUID)	not DROP (CLASSIFIER)
+87	109	-2,188698	Schaum::N	foam	пена	[auf Flüssigkeit]	[on liquid]	[на поверхности жидкости]	FOAM	1768	FOAM	
+88	715	-0,577517	Schmutz::N	dirt	грязь	[auf Gegenständen]	[on objects]	[на предметах]	DIRT	25	DIRT	
+89	61	-2,428149	See::N	lake	озеро	[Binnensee]	[]	[]	LAKE	624	LAKE	
+90	749	-0,493922	Sumpf::N	swamp	топь	[Feuchtgebiet]	[area of impassable wet land]	[вязкое труднопроходимое место]	SWAMP	1145	SWAMP	
+91	976	0,782546	Moor::N	moor	болото	[Torfmoor]	[wasteland covered by heath]	[торфяное болото]	<NA>	0	MOOR	
+92	575	-0,908312	Wiese::N	meadow	луг	[Land mit Grasbewuchs]	[land covered with grass]	[поросший травой]	<NA>	0	MEADOW	
+93	284	-1,595172	Wald::N	forest	лес	[]	[]	[]	FOREST	420	FOREST	
+94	756	-0,481831	Hügel::N	hill	холм	[möglicherweise bewaldet]	[possibly wooded]	[горка]	HILL	614	HILL	
+95	763	-0,466956	Anhöhe::N	elevation	возвышенность	[höher gelegenes Gelände]	[of the ground]	[более высокое, возвышающееся над окрестностью место]	<NA>	0	ELEVATION	not distinct from HILL
+96	81	-2,309868	Berg::N	mountain	гора	[unbewaldet]	[woodless]	[не поросшая лесом]	MOUNTAIN	639	MOUNTAIN	
+97	822	-0,270502	Gipfel::N	summit	вершина	[eines Berges]	[of a mountain]	[горы]	SUMMIT	1614	SUMMIT	
+98	798	-0,359802	Höhle::N	cave	пещера	[in einem Berg]	[in a mountain]	[в горе]	CAVE	1155	CAVE	
+99	960	0,573616	Abhang::N	slope	склон	[eines Berges]	[of a mountain]	[горы]	PRECIPICE	618	PRECIPICE	
+100	867	-0,088111	Quelle::N	source	источник	[eines Flusses]	[of a river]	[реки]	SPRING_(OF_WATER)	849	SPRING_(OF_WATER)	
+101	754	-0,484698	Bach::N	brook	ручей	[kleiner Fluss]	[small river]	[маленькая река]	<NA>	0	BROOK	not distinct from RIVER
+102	227	-1,739801	Fluss::N	river	река	[größerer Fluss]	[larger river]	[большая река]	RIVER	666	RIVER	
+103	372	-1,38519	Ufer::N	shore	берег	[eines Sees]	[of a lake]	[НАПР:озeра]	SHORE	113	SHORE	
+104	591	-0,870349	Küste::N	coast	побережье	[Meeresküste]	[seashore]	[берег моря]	COAST	1525	COAST	
+105	788	-0,393131	Festland::N	land	суша	[]	[as opposed to sea]	[как противоположность морю]	MAINLAND	166	MAINLAND	
+106	106	-2,19988	Meer::N	sea	море	[]	[]	[]	SEA	1474	SEA	
+107	667	-0,703174	Bucht::N	cove, bay	бухта	[kleine Bucht]	[small coastal inlet]	[небольшой залив в море]	BAY	663	BAY	
+108	259	-1,652876	Insel::N	island	остров	[]	[]	[]	ISLAND	622	ISLAND	
+109	850	-0,173582	Blume::N	flower	цветок	[]	[]	[]	FLOWER	239	FLOWER	
+110	277	-1,617369	Gras::N	grass	трава	[Bodenbewuchs]	[ground cover]	[зелёный покров земли НАПР:лежать на траве]	GRASS	606	GRASS	
+111	194	-1,828621	Wurzel::N	root	корень	[einer Pflanze]	[of a plant]	[растения]	ROOT	670	ROOT	
+112	48	-2,502903	Baum::N	tree	дерево	[Pflanze]	[plant]	[растение]	TREE	906	TREE	
+113	791	-0,387953	Stamm::N	trunk	ствол	[eines Baumes]	[of a tree]	[дерева]	TREE_TRUNK	344	TREE_TRUNK	
+114	224	-1,74791	Rinde::N	bark	кора	[eines Baumes]	[of a tree]	[дерева]	BARK	1204	BARK	
+115	257	-1,663897	Ast::N	limb	сук	[eines Baumes]	[of a tree]	[дерева]	BRANCH	826	BRANCH	
+116	612	-0,840117	Zweig::N	twig	ветвь	[eines Baumes]	[of a tree]	[дерева]	<NA>	0	TWIG	not distinct from BRANCH
+117	120	-2,129714	Blatt::N	leaf	лист	[einer Pflanze]	[of a plant]	[растения]	LEAF	628	LEAF	
+118	319	-1,494508	Birke::N	birch	берёза	[]	[]	[]	BIRCH	1855	BIRCH	
+119	514	-1,036112	Kiefer[Baum]::N	pine	сосна	[]	[pine tree]	[]	PINE	1740	PINE	
+120	385	-1,349515	Weide[Baum]::N	willow	ива	[]	[]	[]	WILLOW	818	WILLOW	
+121	583	-0,887277	Tanne::N	fir	ель	[]	[]	[]	FIR	1915	FIR	
+122	84	-2,302967	Horn::N	horn	рог	[eines Tieres]	[of an animal]	[животного]	HORN_(ANATOMY)	1393	HORN_(ANATOMY)	
+123	244	-1,693887	Feder::N	feather	перо	[eines Vogels]	[of a bird]	[птицы]	FEATHER	1201	FEATHER	
+124	386	-1,348395	Fell::N	fur	шкура	[eines Tieres]	[of an animal]	[животного]	FUR	580	FUR	
+125	152	-1,987192	Flügel::N	wing	крыло	[eines Vogels]	[of a bird]	[птицы]	WING	1257	WING	
+126	618	-0,823658	Klaue::N	claw	коготь	[BSP:eines Vogel]	[EX:of a bird]	[НАПР:птицы]	CLAW	72	CLAW	
+127	563	-0,938216	Kralle::N	paw	лапа	[BSP:einer Katze]	[EX:of a cat]	[НАПР:кошки]	<NA>	0	PAW	
+128	335	-1,468923	Schwanz::N	tail	хвост	[BSP:eines Hundes]	[EX:of a dog]	[НАПР:собаки]	TAIL	1220	TAIL	
+129	207	-1,783631	Ei::N	egg	яйцо	[BSP:eines Vogel]	[EX:of a bird]	[НАПР:птицы]	EGG	744	EGG	
+130	86	-2,299024	Nest::N	nest	гнездо	[BSP:eines Vogel]	[EX:of a bird]	[НАПР:птицы]	NEST	539	NEST	
+131	971	0,692566	Bau::N	lair	нора	[BSP:eines Fuchses]	[EX:of a fox]	[НАПР:лисы]	<NA>	0	LAIR	
+132	584	-0,885719	Tier::N	animal	животное	[]	[]	[]	ANIMAL	619	ANIMAL	
+133	446	-1,201006	Herde::N	flock	стадо	[BSP:Schafherde]	[EX:of sheep]	[НАПР:овец]	<NA>	0	FLOCK_(OF_SHEEP)	
+134	72	-2,365435	Kuh::N	cow	корова	[]	[]	[]	COW	1007	COW	
+135	210	-1,777871	Bulle::N	bull	бык	[männliches Rind]	[male bovine]	[самец коровы]	BULL	1008	BULL	
+136	107	-2,19378	Pferd::N	horse	лошадь	[]	[]	[]	HORSE	615	HORSE	
+137	548	-0,964581	Schaf::N	sheep	овца	[]	[]	[]	SHEEP	1331	SHEEP	
+138	892	0,060645	Schwein::N	pig	свинья	[]	[]	[]	PIG	1337	PIG	
+139	63	-2,411981	Hund::N	dog	собака	[]	[]	[]	DOG	2009	DOG	
+140	510	-1,051708	Katze::N	cat	кошка	[]	[]	[]	CAT	1208	CAT	
+141	245	-1,690992	Bär::N	bear	медведь	[]	[]	[]	BEAR	1820	BEAR	
+142	710	-0,598819	Eichhörnchen::N	squirrel	белка	[]	[]	[]	SQUIRREL	1628	SQUIRREL	
+143	600	-0,858561	Elch::N	elk	лось	[]	[]	[]	ELK	1772	ELK	
+144	641	-0,758215	Fuchs::N	fox	лиса	[]	[]	[]	FOX	1312	FOX	
+145	301	-1,548627	Hase::N	hare	заяц	[]	[]	[]	HARE	1190	HARE	
+146	258	-1,6587	Maus::N	mouse	мышь	[]	[]	[]	MOUSE	1491	MOUSE	
+147	223	-1,749471	Wolf::N	wolf	волк	[]	[]	[]	WOLF	522	WOLF	
+148	272	-1,624271	Vogel::N	bird	птица	[]	[]	[]	BIRD	937	BIRD	
+149	411	-1,283932	Schwarm::N	swarm	стая	[BSP:Vogelschwarm]	[EX:of birds]	[НАПР:птиц]	<NA>	0	SWARM	
+150	594	-0,867001	Huhn::N	chicken	курица	[]	[]	[]	CHICKEN	1318	CHICKEN	
+151	795	-0,382618	Hahn::N	cock	петух	[männliches Huhn]	[male chicken]	[самец курицы]	ROOSTER	1511	ROOSTER	
+152	144	-2,02007	Gans::N	goose	гусь	[]	[]	[]	GOOSE	1187	GOOSE	
+153	627	-0,795774	Adler::N	eagle	орёл	[]	[]	[]	EAGLE	1905	EAGLE	
+154	582	-0,889301	Ente::N	duck	утка	[]	[]	[]	DUCK	1360	DUCK	
+155	602	-0,85064	Eule::N	owl	сова	[]	[]	[]	OWL	735	OWL	
+156	334	-1,46941	Kranich::N	crane	журавль	[]	[]	[]	CRANE	1830	CRANE	
+157	300	-1,550809	Krähe::N	crow	ворона	[]	[]	[]	CROW	913	CROW	
+158	448	-1,199481	Kuckuck::N	cuckoo	кукушка	[]	[]	[]	<NA>	0	CUCKOO	
+159	418	-1,270563	Schwan::N	swan	лебедь	[]	[]	[]	<NA>	0	SWAN	
+160	77	-2,327773	Fisch::N	fish	рыба	[]	[]	[]	FISH	227	FISH	
+161	698	-0,631216	Barsch::N	perch	окунь	[]	[]	[]	<NA>	0	PERCH_(FISH)	
+162	854	-0,142238	Hecht::N	pike	щука	[]	[]	[]	<NA>	0	PIKE_(FISH)	
+163	573	-0,913457	Schlange[Tier]::N	snake	змея	[]	[]	[]	SNAKE	730	SNAKE	
+164	466	-1,151688	Wurm::N	worm	червяк	[]	[]	[]	WORM	1219	WORM	
+165	824	-0,266669	Spinne::N	spider	паук	[]	[]	[]	SPIDER	843	SPIDER	
+166	876	-0,029387	Ameise::N	ant	муравей	[]	[]	[]	ANT	587	ANT	
+167	42	-2,553808	Laus::N	louse	вошь	[]	[]	[]	LOUSE	1392	LOUSE	
+168	712	-0,588323	Mücke::N	gnat	комар	[]	[]	[]	MOSQUITO	1509	MOSQUITO	
+169	332	-1,475455	Fliege::N	fly	муха	[Insekt]	[insect]	[насекомое]	FLY_(INSECT)	1504	FLY_(INSECT)	
+170	978	0,796064	Schmetterling::N	butterfly	бабочка	[]	[]	[]	BUTTERFLY	1791	BUTTERFLY	
+171	445	-1,201713	Beere::N	berry	ягода	[generische Bezeichnung]	[generic term]	[общee название]	BERRY	904	BERRY	
+172	703	-0,621588	Apfel::N	apple	яблоко	[]	[]	[]	APPLE	1320	APPLE	
+173	920	0,248615	Pilz::N	mushroom	гриб	[generische Bezeichnung]	[generic term]	[общee название]	MUSHROOM	641	MUSHROOM	
+174	882	0,008141	Zwiebel::N	onion	луковица	[essbar]	[edible]	[репчатый лук]	ONION	2366	ONION	
+175	356	-1,422511	Saat::N	seed	семена	[Saatgut]	[fertilized grain]	[для посева]	SEED	714	SEED	
+176	201	-1,804008	Korn::N	grain	зерно	[Einzelkorn]	[single grain]	[одно]	<NA>	0	GRAIN_(SINGLE)	not GRAIN
+177	161	-1,954437	Heu::N	hay	сено	[]	[]	[]	HAY	342	HAY	
+178	545	-0,969049	Schale::N	peel, husk	кожура́, шелуха	[BSP:eines Apfels]	[EX:of an apple]	[НАПР:яблока]	SKIN_(OF_FRUIT)	2373	SKIN_(OF_FRUIT)	
+179	204	-1,791714	Grube::N	pit	яма	[Loch im Boden]	[hole in the ground]	[углубление в земле]	PIT_(POTHOLE)	2539	PIT_(POTHOLE)	
+180	782	-0,411876	Falle::N	trap	ловушка	[BSP:Mausefalle]	[EX:mouse trap]	[НАПР:мышело́вка]	TRAP_(PITFALL)	1075	TRAP_(PITFALL)	
+181	636	-0,775389	Schlinge::N	noose	петля	[BSP:Schlaufe an Schnur]	[EX:on a rope]	[НАПР:на верёвке]	NOOSE	2604	NOOSE	
+182	268	-1,635586	Spur::N	track	след	[BSP:eines Tieres]	[EX:of an animal]	[НАПР:животного]	<NA>	0	TRACK_(OF_ANIMAL)	
+183	156	-1,974016	Asche::N	ash	зола	[Überbleibsel eines Feuers]	[solid remains of a fire]	[пепел]	ASH	646	ASH	
+184	781	-0,412997	Dreck::N	filth	грязь	[Verschmutzung]	[that which soils or defiles]	[то, что пачкает]	<NA>	0	FILTH	not distinct from DIRT
+185	131	-2,088841	Eisen::N	iron	железо	[Metall]	[metal]	[металл]	IRON	621	IRON	
+186	146	-2,01276	Gold::N	gold	золото	[Metall]	[metal]	[металл]	GOLD	1369	GOLD	
+187	333	-1,469798	Silber::N	silver	серебро	[Metall]	[metal]	[металл]	SILVER	759	SILVER	
+188	281	-1,60517	Kohle::N	coal	уголь	[brennbare Substanz]	[combustible substance]	[горючее вещество]	CHARCOAL	1188	CHARCOAL	
+189	720	-0,56915	Glas::N	glass	стекло	[Material]	[transparent substance]	[прозрачный материал]	GLASS	604	GLASS	
+190	351	-1,43087	Lehm::N	clay	глина	[formbares Material]	[ductile material]	[пластичный материал]	CLAY	1399	CLAY	
+191	218	-1,765285	Sand::N	sand	песок	[Material]	[material]	[материал]	SAND	671	SAND	
+192	537	-0,978572	Mensch::N	human	человек	[]	[human being]	[]	PERSON	683	PERSON	
+193	231	-1,733574	Mann::N	man	мужчина	[erwachsener männlicher Mensch]	[adult male human]	[]	MAN	1554	MAN	
+194	344	-1,448225	Frau::N	woman	женщина	[erwachsener weiblicher Mensch]	[]	[]	WOMAN	962	WOMAN	
+195	451	-1,186794	Kind::N	child	ребёнок	[BSP:10 Jahre alt]	[EX:10 years old]	[НАПР:десятилетний]	CHILD_(YOUNG_HUMAN)	1304	CHILD_(YOUNG_HUMAN)	
+196	906	0,153323	Junge::N	boy	мальчик	[männliches Kind]	[male child]	[ребёнок мужского пола]	BOY	1366	BOY	
+197	689	-0,647849	Mädchen::N	girl	девочка	[weibliches Kind]	[female child]	[ребёнок женского пола]	GIRL	1646	GIRL	
+198	810	-0,329355	Familie::N	family	семья	[Gruppe nah verwandter Menschen, zusammenlebend]	[group of close relatives living together]	[группа близких родственников, живущих вместе]	FAMILY	194	FAMILY	
+199	705	-0,615528	Großvater::N	grandfather	дедушка	[BSP:Vater des Vaters]	[EX:father's father]	[НАПР:отец отца]	GRANDFATHER	1383	GRANDFATHER	
+200	623	-0,805714	Großmutter::N	grandmother	бабушка	[BSP:Mutter des Vaters]	[EX:father's mother]	[НАПР:мать отца]	GRANDMOTHER	1496	GRANDMOTHER	
+201	945	0,457187	Eltern::N	parents	родители	[]	[]	[]	PARENTS	505	PARENTS	
+202	238	-1,706487	Vater::N	father	отец	[]	[]	[]	FATHER	1217	FATHER	
+203	188	-1,85385	Mutter::N	mother	мать	[]	[]	[]	MOTHER	1216	MOTHER	
+204	20	-2,902475	Sohn::N	son	сын	[]	[]	[]	SON	1620	SON	
+205	135	-2,05425	Tochter::N	daughter	дочь	[]	[]	[]	DAUGHTER	1357	DAUGHTER	
+206	242	-1,694023	Bruder::N	brother	брат	[BSP:älterer Bruder]	[EX:elder brother]	[НАПР:старший брат]	BROTHER	1262	BROTHER	
+207	185	-1,868282	Schwester::N	sister	сестра	[BSP:ältere Schwester]	[EX:elder sister]	[НАПР:старшая сестра]	SISTER	1263	SISTER	
+208	486	-1,115147	Onkel::N	uncle	дядя	[BSP:Bruder des Vaters]	[EX:father's brother]	[НАПР:брат отца]	UNCLE	1327	UNCLE	
+209	454	-1,183077	Tante::N	aunt	тётя	[BSP:Schwester des Vaters]	[EX:father's sister]	[НАПР:сестра отца]	AUNT	1272	AUNT	
+210	278	-1,61715	Ehemann::N	husband	муж	[Gatte]	[male spouse]	[супруг]	HUSBAND	1200	HUSBAND	
+211	587	-0,879881	Ehefrau::N	wife	жена	[Gattin]	[female spouse]	[супруга]	WIFE	1199	WIFE	
+212	521	-1,023362	Freude::N	joy	радость	[Gefühl]	[emotion]	[чувство]	JOY	2524	JOY	
+213	489	-1,108177	Gelächter::N	laughter	смех	[]	[]	[]	<NA>	0	LAUGHTER	
+214	657	-0,723141	Glück::N	happiness	счастье	[Glückseligkeit]	[]	[чувство довольства]	<NA>	0	HAPPINESS	POS
+215	831	-0,251489	Kummer::N	grief	горе	[Trauer, Traurigkeit]	[sorrow, sadness]	[сильная печаль]	GRIEF	1668	GRIEF	
+216	731	-0,539648	Wunsch::N	wish	желание	[Sehnsucht]	[longing]	[стремление к осуществлению чего-нибудь]	<NA>	0	LONGING	not distinct from DESIRE
+217	629	-0,791798	Lust::N	desire	влечение	[Streben nach Besitz]	[to have something]	[стремление к обладанию]	DESIRE	2117	DESIRE	
+218	119	-2,130855	Geist::N	spirit	дух	[Lebensgeist, innere Kraft]	[inner energy of a being]	[внутренняя сила или сущность]	SPIRIT	53	SPIRIT	
+219	534	-0,984797	Gedanke::N	thought	мысль	[]	[]	[]	<NA>	0	THOUGHT	POS
+220	669	-0,699963	Gedächtnis::N	memory	память	[Erinnerungsvermögen]	[human ability to record information]	[способность запоминать информацию]	MEMORY	1018	MEMORY	
+221	211	-1,776541	Verstand::N	mind	ум	[Denkfähigkeit]	[ability for rational thought]	[способность мыслить]	MIND	1562	MIND	
+222	531	-0,993309	Sinn::N	meaning	смысл	[Bedeutungsgehalt]	[denotation]	[суть, содержание]	<NA>	0	MEANING	
+223	518	-1,027483	Grund::N	reason	причина	[Begründung]	[motive, rationale]	[основание, повод]	<NA>	0	REASON	
+224	722	-0,564448	Wahrheit::N	truth	правда	[]	[]	[]	TRUTH	1638	TRUTH	
+225	932	0,36389	Gespräch::N	talk	беседа	[]	[conversation]	[]	<NA>	0	CONVERSATION	POS
+226	953	0,498739	Märchen::N	fairy tale	сказка	[]	[]	[]	<NA>	0	FAIRY_TALE	not distinct from STORY
+227	803	-0,345495	Erzählung::N	story	рассказ	[mündlich]	[oral narration]	[устный]	STORY	2060	STORY	
+228	848	-0,183801	Nachricht::N	message	сообщение	[]	[]	[]	<NA>	0	MESSAGE	
+229	547	-0,967276	Neuigkeit::N	news	новость	[]	[]	[]	<NA>	0	NEWS	
+230	40	-2,559035	Name::N	name	имя	[eines Menschen]	[of a person]	[человека]	NAME	1405	NAME	
+231	975	0,768077	Rätsel::N	puzzle	загадка	[Aufgabe zum Erraten]	[riddle]	[НАПР:загадать загадку]	<NA>	0	SPEECH_(ADDRESS)	
+232	913	0,186429	Rede::N	speech	речь	[Ansprache]	[long oral message]	[устное выступление]	SPEECH	1115	SPEECH	
+233	90	-2,283234	Sprache::N	language	язык	[]	[]	[средство общения]	LANGUAGE	1307	LANGUAGE	
+234	124	-2,112892	Stimme::N	voice	голос	[von Stimmbändern erzeugte Geräusch]	[sounds uttered by vocal cords]	[звуки горловых связок]	VOICE	1363	VOICE	
+235	154	-1,981753	Wort::N	word	слово	[sprachliche Einheit]	[unit of language]	[единица языка]	WORD	1599	WORD	
+236	402	-1,318301	Zeichen::N	sign	знак	[Gegenstand mit Informationsgehalt]	[object bearing a message]	[символ]	<NA>	0	SIGN	
+237	752	-0,490531	Ruf::N	call	зов	[Aufruf]	[appeal]	[призыв]	<NA>	0	CALL_(APPEAL)	POS
+238	877	-0,019077	Lärm::N	noise	шум	[unangenehm lauter Schall]	[unwanted loud sounds]	[гул, разные звуки]	NOISE	1182	NOISE	
+239	230	-1,73465	Laut::N	sound	звук	[Geräusch]	[sensation perceived by the ear]	[то, что воспринимается слухом]	SOUND_OR_NOISE	1811	SOUND_OR_NOISE	
+240	925	0,3209	Ton::N	tone	тон	[Klang einer bestimmten Tonhöhe]	[sound of a specific pitch]	[музыкальный звук, звук определённой высоты]	<NA>	0	TONE_(MUSIC)	
+241	360	-1,415189	Lied::N	song	песня	[]	[]	[]	SONG	1096	SONG	
+242	631	-0,789142	Ruhe::N	calm	покой	[Abwesenheit von Lärm und Störungen]	[absence of noise and disturbances]	[отсутствие шума и помех]	QUIET	1314	QUIET	POS
+243	611	-0,840498	Leute::N	people	люди	[]	[many persons]	[]	<NA>	0	PEOPLE_(SEVERAL)	distinct from PERSON
+244	401	-1,318646	Volk::N	nation	народ	[Menschen einer Ethnie]	[community of people with a common culture]	[совокупность людей общей культуры]	PEOPLE	789	PEOPLE	
+245	193	-1,838146	Arbeit::N	work	работа	[Tätigkeit]	[employment]	[занятие, труд]	WORK_(LABOUR)	984	WORK_(LABOUR)	
+246	426	-1,249378	Gast::N	guest	гость	[]	[]	[]	GUEST	1782	GUEST	
+247	780	-0,41435	Geschenk::N	gift	подарок	[]	[]	[]	<NA>	0	GIFT	POS (DONATE)
+248	339	-1,457994	Spiel::N	game	игра	[spielerische Betätigung]	[playful activity]	[занятие для развлечения, отдыха]	GAME	2467	GAME	
+249	979	0,840639	Gesellschaft::N	company	общество	[Begleitung]	[companionship]	[компания]	<NA>	0	COMPANIONSHIP	
+250	482	-1,120418	Hilfe::N	help	помощь	[]	[]	[]	HELP	1897	HELP	POS
+251	254	-1,673862	Freund::N	friend	друг	[sehr nahestehender Mensch]	[person whose company one enjoys]	[связанный хорошими отношениями НАПР:друг детства]	FRIEND	1325	FRIEND	
+252	908	0,156385	Kamerad::N	companion	приятель	[mit dem man Zeit verbringt]	[with whom one spends time]	[близкий знакомый]	<NA>	0	COMPANION	not distinct from FRIEND
+253	295	-1,56408	Angelegenheit::N	matter	дело	[Sache, Fall]	[affair]	[НАПР:важное дело]	<NA>	0	MATTER_(AFFAIR)	maybe AFFAIR
+254	599	-0,859318	Anzahl::N	count	количество	[zählbarer Dinge]	[quantity counted]	[множество, число НАПР:количество/число гостей]	<NA>	0	COUNT_(NUMBER)	not NUMBER
+255	298	-1,552476	Art::N	sort	вид	[Sorte]	[type]	[разновидность]	KIND_(THING)	844	KIND_(THING)	
+256	362	-1,405774	Stück::N	piece	кусок	[abtrennbarer Teil eines Ganzen]	[separable part of a larger whole]	[отделённая часть чего-л. НАПР:кусок мяса]	PIECE	594	PIECE	
+257	175	-1,907965	Teil::N	part	часть	[Teilmenge eines Ganzen]	[fraction of a whole]	[доля некоего целого НАПР:часть урожая]	PART	779	PART	
+258	220	-1,752555	Hälfte::N	half	половина	[einer Menge]	[of a quantity]	[количества]	HALF	816	HALF	
+259	691	-0,64573	Kreis::N	circle	круг	[geometrische Figur]	[geometric figure]	[геометрическая фигура]	CIRCLE	1467	CIRCLE	
+260	491	-1,105002	Kreuz::N	cross	крест	[geometrische Figur]	[geometric figure]	[геометрическая фигура]	CROSS	1367	CROSS	
+261	735	-0,527575	Linie::N	line	линия	[geometrische Figur]	[geometric figure]	[геометрическая фигура]	LINE	1048	LINE	
+262	681	-0,665361	Strich::N	stroke	черта	[mit einem Schreibgerät gezogen]	[drawn with a writing implement]	[нарисованная]	<NA>	0	STROKE_(OF_PEN)	
+263	717	-0,574337	Abstand::N	gap	промежуток	[zwischen Gegenständen]	[between objects]	[между предметами]	<NA>	0	GAP	
+264	787	-0,394296	Entfernung::N	distance	расстояние	[zwischen zwei Punkten]	[between two points]	[между точками]	<NA>	0	DISTANCE	
+265	936	0,400573	Gegend::N	area	местность	[Gebiet, Bereich]	[extent of surface, region]	[окрестности]	<NA>	0	AREA	
+266	800	-0,349206	Platz::N	space	место	[verfügbarer Raum, BSP:in einem Schrank]	[available space between things, EX:in a closet]	[между предметами, НАПР:в шкафу]	<NA>	0	SPACE_(FREE)	
+267	110	-2,185601	Ort::N	place	место	[definierte Stelle]	[location, position]	[пространство, пункт, где что-либо происходит, находится НАПР:место встречи, тёплое место, место в горах]	PLACE_(POSITION)	723	PLACE_(POSITION)	
+268	112	-2,169715	Seite::N	side	сторона	[eines Gegenstandes]	[of an object]	[бок]	<NA>	0	SIDE_(OF_OBJECT)	not SIDE
+269	142	-2,028071	Mitte::N	middle	середина	[mittlerer Teil von etwas]	[central part of something]	[центральная часть чего-либо]	MIDDLE	1093	MIDDLE	
+270	707	-0,614553	Gegenstand::N	item	предмет	[physisches Objekt]	[physical object]	[отдельный материальный объект]	<NA>	0	ITEM_(TOUCHABLE)	distinct from THING
+271	147	-2,011143	Sache::N	thing	вещь	[unterscheidbare Einheit]	[distinct entity]	[явление действительности, обстоятельство, событие, случай НАПР:произошла странная вещь]	THING	738	THING	
+272	138	-2,039181	Rand::N	fringe	край	[peripherer Teil]	[peripheral part]	[внешняя часть объекта НАПР: край крыши]	<NA>	0	FRINGE	not distinct from EDGE
+273	435	-1,230462	Kante::N	edge	ребро	[scharfer Rand]	[sharp terminating border]	[пересечение двух граней НАПР:ребро монеты] 	EDGE	863	EDGE	
+274	662	-0,706265	Ecke::N	corner	угол	[hevorstehend, eines Gegenstandes]	[external angle]	[выступающий, на предмете НАПР:угол стола]	<NA>	0	CORNER_(OUTSIDE)	
+275	449	-1,199028	Spitze::N	tip	кончик	[eines spitzen Gegenstandes]	[of a pointy object]	[острый конец предмета НАПР:кончик ножа]	<NA>	0	TIP_(OF_OBJECT)	
+276	151	-1,987531	Ende::N	end	конец	[eines langen Gegenstands]	[of a long object]	[длинного предмета НАПР:верёвки]	END_(OF_SPACE)	742	END_(OF_SPACE)	
+277	225	-1,743991	Loch::N	hole	дыра	[in einem Gegenstand]	[in an object]	[отверстие в предмете]	HOLE	1667	HOLE	
+278	617	-0,825451	Winkel::N	angle	угол	[BSP: eines Zimmers]	[internal, EX:of a room]	[в углублении, НАПР:комнаты]	CORNER	192	CORNER	
+279	645	-0,754024	Muster::N	pattern	узор	[sich wiederholende Struktur]	[regular repeated elements]	[повторяющийся рисунок]	<NA>	0	PATTERN	
+280	766	-0,461526	Größe::N	size	размер	[eines Gegenstandes]	[dimensions of an object]	[величина объекта]	<NA>	0	SIZE_(OF_OBJECT)	not SIZE (OF PERSON)
+281	463	-1,155302	Länge::N	length	длина	[]	[]	[]	LENGTH	2537	LENGTH	
+282	472	-1,141811	Höhe::N	height	высота	[]	[]	[]	<NA>	0	HEIGHT	
+283	638	-0,769679	Gewicht::N	weight	вес	[gewogene Masse]	[mass as measured]	[тяжесть]	WEIGHT	2466	WEIGHT	
+284	821	-0,272776	Menge::N	amount	количество	[messbare Menge eines Materials]	[measurable quantity of a material]	[величина, объём какого-то материала НАПР:количество воды]	<NA>	0	AMOUNT	
+285	453	-1,185272	Haufen::N	heap	куча	[]	[]	[]	<NA>	0	HEAP	
+286	404	-1,313998	Reihe::N	row	ряд	[geradlinig angeordnete Objekte]	[line of objects]	[объектов расположенных в линию]	<NA>	0	ROW_(OF_OBJECTS)	
+287	307	-1,541926	Boot::N	boat	лодка	[]	[]	[]	BOAT	1844	BOAT	
+288	166	-1,93072	Ruder::N	oar	весло	[Riemen]	[rowing implement]	[]	PADDLE	234	PADDLE	
+289	676	-0,677544	Schlitten::N	sleigh	сани	[Fahrzeug auf Kufen]	[]	[повозка на полозьях]	SLEDGE	368	SLEDGE	
+290	779	-0,414428	Ski::N	ski	лыжа	[]	[]	[]	<NA>	0	SKI	
+291	974	0,720956	Lagerfeuer::N	campfire	костёр	[]	[]	[]	<NA>	0	CAMPFIRE	
+292	765	-0,461976	Last::N	load	тяжесть	[auf Fahrzeug]	[on a vehicle]	[груз на повозке]	LOAD	1679	LOAD	
+293	509	-1,053809	Gang::N	walk	ходьба	[Zurücklegen eines Weges]	[trip made by walking]	[процесс ходьбы]	<NA>	0	WALK_(TRIP)	
+294	172	-1,9143	Schritt::N	step	шаг	[Einzelschritt]	[single pace]	[одно движение ногой при ходьбе	<NA>	0	STEP	
+295	661	-0,7156	Norden::N	north	север	[]	[]	[]	NORTH	1598	NORTH	
+296	719	-0,570792	Süden::N	south	юг	[]	[]	[]	SOUTH	1595	SOUTH	
+297	819	-0,273499	Westen::N	west	запад	[]	[]	[]	WEST	1817	WEST	
+298	870	-0,077762	Osten::N	east	восток	[]	[]	[]	EAST	1877	EAST	
+299	183	-1,882374	Holz::N	wood	древесина	[Material]	[material]	[материал]	WOOD	1803	WOOD	
+300	273	-1,623448	Brett::N	board	доска	[längliches flaches Stück Holz]	[long, wide and thin piece of wood]	[плоский длинный кусок дерева]	BOARD	1227	BOARD	
+301	861	-0,100631	Platte::N	slab	плита	[flacher Gegenstand aus festem Material]	[flat piece of solid material]	[плоский кусок твёрдого материала]	<NA>	0	SLAB	
+302	842	-0,214183	Stütze::N	support, rest	опора, подпорка	[etwas, das Halt gibt]	[something which keeps upright]	[удерживающая в устойчивом положении]	<NA>	0	SUPPORT_(OF_OBJECT)	
+303	574	-0,909048	Stange::N	pole	жердь	[länglicher dünner Gegenstand aus Holz]	[long and slender piece of wood]	[длинный тонкий шест из  дерева]	<NA>	0	POLE	
+304	396	-1,324879	Stock::N	stick	палка	[rundes Holzstück als Werkzeug]	[piece of wood used as a tool]	[ветка без сучьев или предмет такой формы]	STICK	1295	STICK	
+305	620	-0,807761	Stab::N	staff	шест	[langer gerader Stock]	[long straight stick]	[длинная палка]	<NA>	0	STAFF	
+306	721	-0,567171	Rohr::N	pipe	труба	[zylinderförmiger hohler Gegenstand]	[hollow conduit, tube]	[длинный полый предмет цилиндрической формы]	<NA>	0	TUBE	not PIPE
+307	111	-2,182746	Haus::N	house	дом	[Gebäude]	[building]	[здание]	HOUSE	1252	HOUSE	
+308	355	-1,423574	Heim::N	home	дом	[eigene Heimstatt]	[one’s own dwelling place]	[жилище, родной дом]	HOME	2406	HOME	
+309	928	0,351695	Ofen::N	stove	печь	[zum Heizen]	[heater]	[для отапливания]	STOVE	859	STOVE	
+310	695	-0,639618	Fußboden::N	floor	пол	[begehbare Fläche in einem Raum]	[supporting surface of a room]	[нижнее покрытие, настил в помещении]	FLOOR	1632	FLOOR	
+311	725	-0,550909	Tisch::N	table	стол	[]	[]	[]	TABLE	1775	TABLE	
+312	674	-0,684402	Stuhl::N	chair	стул	[]	[]	[]	CHAIR	1476	CHAIR	
+313	541	-0,973293	Wiege::N	cradle	колыбель	[]	[]	[]	<NA>	0	CRADLE	
+314	726	-0,550388	Bett::N	bed	кровать	[]	[]	[]	BED	1663	BED	
+315	847	-0,190732	Regal::N	shelf	полка	[]	[]	[]	SHELF	745	SHELF	
+316	997	1,281704	Kiste::N	box	ящик	[]	[]	[]	BOX	1465	BOX	
+317	768	-0,458886	Fenster::N	window	окно	[]	[]	[]	WINDOW	1375	WINDOW	
+318	134	-2,055442	Tür::N	door	дверь	[]	[]	[]	DOOR	1567	DOOR	
+319	610	-0,840889	Tor::N	gate	ворота	[]	[]	[]	<NA>	0	GATE	
+320	837	-0,231989	Zaun::N	fence	забор	[]	[]	[]	FENCE	1690	FENCE	
+321	677	-0,67351	Dach::N	roof	крыша	[]	[]	[]	ROOF	769	ROOF	
+322	888	0,044087	Leiter::N	ladder	лестница, стремянка	[Steigleiter]	[]	[]	LADDER	1464	LADDER	
+323	849	-0,177011	Besen::N	broom	метла	[]	[]	[]	BROOM	245	BROOM	
+324	348	-1,435558	Spaten::N	spade	лопата	[]	[]	[]	SPADE	1176	SPADE	
+325	321	-1,49241	Schaufel::N	shovel	совок	[]	[]	[]	SHOVEL	1901	SHOVEL	
+326	907	155	Gabel::N	fork	вилка	[]	[for eating]	[]	FORK	1302	FORK	
+327	551	-0,955535	Löffel::N	spoon	ложка	[]	[]	[]	SPOON	1378	SPOON	
+328	246	-1,688976	Messer::N	knife	нож	[]	[]	[]	KNIFE	1352	KNIFE	
+329	834	-0,237881	Nagel::N	nail	гвоздь	[spitzer Metallstift zum Fixieren]	[spike-shaped metal fastener]	[]	NAIL_(TOOL)	502	NAIL_(TOOL)	
+330	450	-1,195024	Netz::N	net	сеть	[geknüpftes maschiges Gebilde]	[mesh of string]	[приспособление из переплетёных нитей/верёвок]	<NA>	0	NET	hypernym of FISHNET
+331	566	-0,932141	Haken::N	hook	крюк	[]	[]	[]	HOOK	1071	HOOK	
+332	353	-1,425378	Griff::N	handle	рукоятка, ручка	[zu greifender Teil eines Gegenstandes]	[part of an object which is held]	[часть предмета, за которую держат]	HANDLE	1254	HANDLE	
+333	659	-0,720932	Schloss::N	lock	замок	[]	[]	[]	LOCK	1596	LOCK	
+334	633	-0,784574	Bild::N	picture	картина	[]	[]	[]	PICTURE	2401	PICTURE	
+335	775	-0,432159	Figur::N	figure	фигура, изваяние	[BSP:Götterbild]	[EX:representing a god]	[НАПР:изображение божества]	IDOL	1945	IDOL	
+336	776	-0,425814	Puppe::N	doll	кукла	[]	[]	[]	DOLL	1659	DOLL	
+337	887	0,040142	Beutel::N	pouch	мешок	[]	[]	[мешочек]	<NA>	0	POUCH	
+338	713	-0,585133	Bündel::N	bundle	связка	[zusammengebundene Gegenstände]	[group of objects tied together]	[несколько связанных объектов, НАПР:вязанка дров]	<NA>	0	BUNDLE	
+339	871	-0,065504	Tasche::N	bag	сумка	[tragbares Behältnis]	[container for carrying]	[для ношения предметов]	BAG	2468	BAG	
+340	914	0,187895	Eimer::N	bucket	ведро	[]	[]	[]	BUCKET	2052	BUCKET	
+341	434	-1,231795	Deckel::N	cover, lid	крышка	[]	[of a container]	[верхняя закрывающая часть]	LID_(COVER,_CAP)	2319	LID_(COVER,_CAP)	
+342	934	0,387807	Geschirr::N	dishes	посуда	[Kochgeschirr]	[dishware, crockery]	[кухонная утварь]	<NA>	0	DISHWARE	
+343	637	-0,772639	Sack::N	sack	мешок	[]	[]	[НАПР:для муки]	<NA>	0	SACK	
+344	930	0,359295	Tasse::N	cup	чашка	[]	[]	[]	CUP	476	CUP	
+345	919	0,239835	Topf::N	pot	кастрюля	[Kochtopf]	[vessel for cooking]	[]	POT	1462	POT	
+346	363	-1,405024	Kessel::N	kettle	котёл	[]	[]	[]	KETTLE	854	KETTLE	
+347	559	-0,945695	Essen::N	meal	еда	[Nahrungsaufnahme]	[process of food intake]	[приём пищи]	MEAL	1526	MEAL	
+348	564	-0,938161	Nahrung::N	food	пища	[]	[]	[]	FOOD	256	FOOD	
+349	890	0,048027	Speise::N	dish	блюдо	[]	[]	[]	<NA>	0	DISH_(FOOD)	
+350	141	-2,028815	Fleisch::N	meat	мясо	[Nahrungsmittel]	[]	[]	MEAT	634	MEAT	
+351	845	-0,200722	Getreide::N	corn	злак	[]	[cereal plant grown for its grain]	[]	GRAIN	605	GRAIN	
+352	330	-1,476774	Brei::N	mush	каша	[]	[]	[]	<NA>	0	MUSH	maybe GRUEL
+353	128	-2,095693	Brot::N	bread	хлеб	[]	[]	[пищевой продукт]	BREAD	1368	BREAD	
+354	714	-0,583365	Scheibe::N	slice	ломоть	[BSP:Brot]	[EX:of bread]	[кусок отрезанный ножом, ломтик НАПР:кусок хлеба]	<NA>	0	SLICE	
+355	116	-2,137866	Fett::N	fat	жир	[]	[]	[]	FAT_(ORGANIC_SUBSTANCE)	323	FAT_(ORGANIC_SUBSTANCE)	
+356	113	-2,159152	Butter::N	butter	масло	[]	[]	[сли́вочное]	BUTTER	1245	BUTTER	
+357	184	-1,874151	Öl::N	oil	масло	[Speiseöl]	[liquid vegetable fat]	[расти́тельное]	OIL (ORGANIC SUBSTANCE)	1484	OIL (ORGANIC SUBSTANCE)	
+358	49	-2,487949	Salz::N	salt	соль	[]	[]	[]	SALT	1274	SALT	
+359	671	-0,697114	Suppe::N	soup	суп	[]	[]	[]	SOUP	1547	SOUP	
+360	264	-1,640209	Honig::N	honey	мёд	[]	[]	[]	HONEY	942	HONEY	
+361	122	-2,121959	Milch::N	milk	молоко	[]	[]	[]	MILK	635	MILK	
+362	872	-0,063144	Tee::N	tea	чай	[Getränk]	[drink]	[напиток]	TEA	1373	TEA	
+363	568	-0,925137	Leder::N	leather	кожа	[]	[]	[обработанная шкура]	LEATHER	629	LEATHER	
+364	53	-2,466778	Wolle::N	wool	шерсть	[]	[]	[]	WOOL	964	WOOL	
+365	634	-0,782998	Stoff::N	cloth	ткань	[Gewebe]	[woven fabric]	[тканая материя]	CLOTH	1616	CLOTH	
+366	91	-2,268194	Nadel::N	needle	игла	[Nähnadel]	[for sewing]	[]	NEEDLE_(FOR_SEWING)	1382	NEEDLE_(FOR_SEWING)	
+367	395	-1,325565	Faden::N	thread	нитка	[]	[]	[]	THREAD	1161	THREAD	
+368	381	-1,36789	Knopf::N	button	пуговица	[an Kleidung]	[fastener on clothes]	[]	BUTTON	757	BUTTON	
+369	247	-1,688553	Knoten::N	knot	узел	[aus Schnur]	[looping of string]	[на верёвке, для завязания]	KNOT	760	KNOT	
+370	540	-0,974458	Farbe::N	paint	краска	[Mittel zum Einfärben]	[substance for colouring]	[вещество для придания цвета]	PAINT_(PIGMENTS)	647	PAINT_(PIGMENTS)	
+371	651	-0,736563	Kleidung::N	clothes	одежда	[]	[]	[]	CLOTHES	1895	CLOTHES	
+372	767	-0,460393	Hemd::N	shirt	рубашка	[]	[]	[]	SHIRT	1622	SHIRT	
+373	747	-0,499163	Kragen::N	collar	воротник	[BSP:Mantelkragen]	[EX:on a coat]	[]	COLLAR	2012	COLLAR	
+374	263	-1,640808	Ärmel::N	sleeve	рукав	[]	[]	[]	<NA>	0	SLEEVE	
+375	958	0,539885	Hose::N	trousers	брюки	[]	[]	[]	TROUSERS	809	TROUSERS	
+376	436	-1,226355	Gürtel::N	belt	пояс	[[Kleidung]]	[[clothing]]	[[одежда]]	BELT	772	BELT	
+377	605	-0,845329	Mütze::N	cap	шапка	[]	[head covering]	[]	CAP	1288	CAP	
+378	947	0,459801	Schuh::N	shoe	ботинок	[]	[]	[]	SHOE	1381	SHOE	
+379	891	0,054714	Stiefel::N	boot	сапог	[]	[heavy shoe covering part of the leg]	[]	BOOT	585	BOOT	
+380	561	-0,941265	Ring::N	ring	кольцо	[Schmuck]	[jewellery]	[украшение]	RING	1374	RING	
+381	1000	1374	Band::N	ribbon	лента	[Gewebestreifen]	[strip of cloth]	[узкая полоса ткани]	<NA>	0	RIBBON	
+382	578	-0,900443	Kamm::N	comb	расчёска	[zum Kämmen der Haare]	[implement for grooming]	[для расчёсывания волос]	COMB	1475	COMB	
+383	944	0,453631	Spiegel::N	mirror	зеркало	[]	[]	[]	MIRROR	1171	MIRROR	
+384	347	-1,439976	Riemen::N	strap	ремень	[BSP:Lederstreifen]	[EX:strip of leather]	[[Техника]] [НАПР:полоса из кожи или другого материала]	<NA>	0	STRAP	
+385	325	-1,487524	Schnur::N	string	верёвка	[aus Fäden geflochten]	[made from twisted threads]	[свитая из волокон или прядей]	STRING	362	STRING	
+386	1008	1,846601	Leine::N	leash	поводок	[BSP:Hundeleine]	[EX:dog leash]	[НАПР:для собаки]	<NA>	0	LEASH	
+387	956	0,526321	Decke::N	blanket	одеяло	[Bettdecke]	[for sleeping]	[постельная принадлежность]	BLANKET	806	BLANKET	
+388	896	0,093189	Kissen::N	pillow	подушка	[Kopfkissen]	[for sleeping]	[постельная принадлежность]	PILLOW	1044	PILLOW	
+389	937	0,409388	Tuch::N	scarf	платок	[Schultertuch]	[light, worn around the shoulders]	[шаль, повязывается на голову или надевается на плечи]	<NA>	0	SCARF	
+390	1003	1,435237	Handtuch::N	towel	полотенце	[zum Trockenreiben]	[sed for wiping]	[для вытирания]	TOWEL	1021	TOWEL	
+391	412	-1,2835	Kraft::N	force	сила	[die man ausübt]	[which is applied to produce an effect]	[способность совершать работу НАПР:сила рук]	<NA>	0	FORCE	not STRENGTH
+392	665	-0,703872	Stärke::N	strength	крепость	[Starksein]	[being strong]	[мощь, свойство быть сильным]	STRENGTH	202	STRENGTH	
+393	843	-0,209874	Gesundheit::N	health	здоровье	[]	[]	[]	HEALTHY	1364	HEALTHY	POS
+394	746	-0,501922	Krankheit::N	illness	болезнь	[]	[]	[]	DISEASE	1986	DISEASE	
+395	304	-1,545065	Schmerz::N	pain	боль	[]	[]	[ощущение]	PAIN	1783	PAIN	
+396	240	-1,701738	Wunde::N	wound	рана	[]	[]	[]	WOUND	1109	WOUND	
+397	923	0,307225	Fieber::N	fever	лихорадка	[]	[]	[]	FEVER	1534	FEVER	
+398	648	-0,743546	Arznei::N	medicine	лекарство	[]	[drug]	[]	MEDICINE	1372	MEDICINE	
+399	88	-2,287016	Brücke::N	bridge	мост	[]	[]	[]	BRIDGE	1011	BRIDGE	
+400	427	-1,247663	Brunnen::N	well	колодец	[zur Gewinnung von Wasser]	[source of water]	[для добывания воды]	WELL	954	WELL	
+401	940	0,430483	Weide::N	pasture	пастбище	[Viehweide]	[]	[]	PASTURE	649	PASTURE	
+402	683	-0,657681	Pfad::N	path	тропа	[schmaler Weg für Fußgänger]	[trail used by pedestrians]	[дорожка, тропинка, узкая дорога для пешеходов]	PATH	2252	PATH	
+403	89	-2,285233	Weg::N	way	путь	[Verbindung zwischen Orten]	[connection between places]	[маршрут, линия в пространстве, где что-либо передвигается НАПР:водный путь]	<NA>	0	WAY	
+404	632	-0,786574	Straße::N	road	дорога	[befestigter Weg für Fahrzeuge]	[way for travelling by vehicle]	[путь для транспорта]	ROAD	667	ROAD	
+405	581	-0,88999	Dorf::N	village	деревня	[]	[]	[]	VILLAGE	930	VILLAGE	
+406	682	-0,660412	Stadt::N	town	город	[]	[]	[]	TOWN	1391	TOWN	
+407	473	-1,140557	Brief::N	letter	письмо	[]	[written message]	[]	LETTER	1612	LETTER	
+408	343	-1,448905	Buch::N	book	книга	[]	[]	[]	BOOK	963	BOOK	
+409	593	-0,867623	Buchstabe::N	character	буква	[Schriftzeichen]	[written symbol, letter]	[знак алфавита]	CHARACTER	1024	CHARACTER	
+410	985	0,974267	Zeitung::N	newspaper	газета	[]	[]	[]	NEWSPAPER	1298	NEWSPAPER	
+411	433	-1,236931	Leben::N	life	жизнь	[Zustand des Lebendigseins]	[state of being alive]	[существование, состояние организма]	LIFE	210	LIFE	
+412	127	-2,104011	Tod::N	death	смерть	[]	[]	[]	DEATH	910	DEATH	
+413	270	-1,628461	Grab::N	grave	могила	[]	[]	[]	GRAVE	1773	GRAVE	
+414	970	0,665346	Kirche::N	church	церковь	[]	[]	[]	CHURCH	1349	CHURCH	
+415	406	-1,308912	Sünde::N	sin	грех	[]	[]	[]	<NA>	0	SIN	
+416	65	-2,393946	Gott::N	god	бог	[]	[]	[]	GOD	1944	GOD	
+417	933	0,376705	Arbeiter::N	worker	рабочий	[]	[]	[]	<NA>	0	WORKER	
+418	688	-0,647896	Chef::N	boss	начальник	[Vorgesetzter]	[supervisor]	[руководитель]	<NA>	0	BOSS	not MASTER (opp. slave)
+419	996	1,278351	Meister::N	master	мастер	[eines Handwerks]	[expert tradesman]	[ремесленник, человек, занимающийся ремеслом НАПР:сапожный мастер]	<NA>	0	MASTER_(TRADE)	not MASTER (opp. slave)
+420	918	0,233509	Arzt::N	doctor	врач	[]	[physician]	[]	PHYSICIAN	597	PHYSICIAN	
+421	969	0,66446	Lehrer::N	teacher	учитель	[]	[]	[]	TEACHER	1038	TEACHER	
+422	743	-0,507048	Geld::N	money	деньги	[]	[]	[]	MONEY	1350	MONEY	
+423	986	0,977976	Geschäft::N	business	бизнес	[kaufmännische Tätigkeit]	[commercial activity]	[дело, коммерческая деятельность НАПР:у него своё дело/свой бизнес]	<NA>	0	BUSINESS	
+424	968	0,65059	Laden::N	shop	магазин	[]	[]	[]	SHOP	746	SHOP	
+425	177	-1,896939	Preis::N	price	цена	[]	[]	[]	PRICE	657	PRICE	
+426	519	-1,02595	Ware::N	ware	товар	[]	[]	[]	<NA>	0	WARE	
+427	624	-0,802094	Nutzen::N	benefit	выгода	[Vorteil]	[advantage]	[польза]	<NA>	0	BENEFIT	
+428	835	-0,237121	Reichtum::N	wealth	богатство	[]	[]	[]	<NA>	0	WEALTH	
+429	421	-1,264558	Welt::N	world	мир	[Universum]	[universe]	[вселенная, свет]	WORLD	965	WORLD	
+430	199	-1,816727	Land::N	country	страна	[abgegrenztes Gebiet]	[set region of land]	[территория]	COUNTRY	1300	COUNTRY	
+431	946	0,458129	Staat::N	state	государство	[souveräne politische Einheit]	[sovereign polity]	[политическая организация]	<NA>	0	STATE_(POLITICS)	
+432	580	-0,895261	König::N	king	король	[]	[]	[]	KING	1508	KING	
+433	855	-0,141066	Macht::N	power	власть	[Fähigkeit zur Beeinflussung]	[ability to control]	[возможность влияния]	POWER	2526	POWER	
+434	851	-0,161495	Grenze::N	border	граница	[zwischen Staaten]	[between states]	[между государствами]	BORDER	2546	BORDER	
+435	367	-1,395135	Krieg::N	war	война	[]	[]	[]	WAR	935	WAR	
+436	777	-0,420012	Feind::N	enemy	враг	[feindliche Person]	[hostile person]	[человек в состоянии вражды]	ENEMY	1358	ENEMY	
+437	793	-0,387143	Gewalt::N	violence	насилие	[Gewalttätigkeit]	[use of force]	[применение физической силы]	<NA>	0	VIOLENCE	
+438	652	-0,735217	Kampf::N	fight	борьба	[gewalttätige Auseinandersetzung]	[physical confrontation]	[рукопашная схватка]	FIGHT	1423	FIGHT	POS
+439	132	-2,082615	Bogen[Waffe]::N	bow	лук	[Waffe]	[weapon]	[оружие]	BOW	994	BOW	
+440	182	-1,882389	Pfeil::N	arrow	стрела	[Geschoss von Bogen]	[projectile shot from a bow]	[для стрельбы из лука]	ARROW	977	ARROW	
+441	866	-0,09154	Gewehr::N	gun	ружьё	[Schusswaffe]	[firearm]	[стрелковое оружие]	GUN	1566	GUN	
+442	640	-0,763253	Fehler::N	mistake	ошибка	[falsche Handlung oder Entscheidung]	[wrong action or decision]	[неправильное действие, поступок]	MISTAKE	1293	MISTAKE	
+443	464	-1,153829	Lüge::N	lie	ложь	[]	[]	[]	UNTRUTH	475	UNTRUTH	
+444	525	-1,016686	Schaden::N	damage	вред	[Beschädigung]	[material harm, detriment]	[ущерб]	<NA>	0	DAMAGE_(HARM)	POS
+445	903	0,141108	Unglück::N	misfortune	беда	[unerwünschter Zustand]	[undesirable condition]	[неприятное обстоятельство]	BAD LUCK	56	BAD LUCK	
+446	374	-1,379038	Schuld::N	fault	вина	[Verantwortung für Fehlverhalten]	[blame, responsibility]	[ответственность за проступок, преступление]	FAULT	134	FAULT	
+447	96	-2,251605	Alter::N	age	возраст	[Lebensalter]	[number of years since birth]	[прожитые года]	AGE	1789	AGE	
+448	389	-1,342522	Schluss::N	end	конец	[zeitliches Ende]	[conclusion]	[прекращение]	END_(OF_TIME)	743	END_(OF_TIME)	
+449	130	-2,089801	Zeit::N	time	время	[stetiger Lauf der Dinge]	[constant passing of events]	[]	TIME	892	TIME	
+450	12	-3,008012	Tag::N	day	день	[]	[]	[]	DAY_(NOT_NIGHT)	1225	DAY_(NOT_NIGHT)	
+451	595	-0,865795	Morgen::N	morning	утро	[]	[]	[]	MORNING	1339	MORNING	
+452	910	0,171239	Mittag::N	noon	полдень	[]	[]	[середина дня]	MIDDAY	12	MIDDAY	
+453	526	-1,00811	Abend::N	evening	вечер	[]	[]	[]	EVENING	1629	EVENING	
+454	33	-2,662841	Nacht::N	night	ночь	[]	[]	[]	NIGHT	1233	NIGHT	
+455	693	-0,644704	Woche::N	week	неделя	[]	[]	[]	WEEK	1469	WEEK	
+456	45	-2,521643	Monat::N	month	месяц	[]	[]	[период времени]	MONTH	1370	MONTH	
+457	103	-2,216553	Jahr::N	year	год	[]	[]	[]	YEAR	1226	YEAR	
+458	459	-1,169241	Frühling::N	spring	весна	[]	[]	[]	SPRINGTIME	1537	SPRINGTIME	
+459	159	-1,962519	Sommer::N	summer	лето	[]	[]	[]	SUMMER	1342	SUMMER	
+460	569	-0,922933	Herbst::N	autumn	осень	[]	[]	[]	AUTUMN	1276	AUTUMN	
+461	165	-1,94497	Winter::N	winter	зима	[]	[]	[]	WINTER	1471	WINTER	
+462	1015	3,00345	Januar::N	January	январь	[]	[]	[]	JANUARY	2036	JANUARY	
+463	1012	2,443331	Februar::N	February	февраль	[]	[]	[]	FEBRUARY	2037	FEBRUARY	
+464	1004	1,536624	März::N	March	март	[]	[]	[]	<NA>	0	MARCH	
+465	1010	2,144712	April::N	April	апрель	[]	[]	[]	<NA>	0	APRIL	
+466	981	0,907243	Mai::N	May	май	[]	[]	[]	<NA>	0	MAY	
+467	993	1,122515	Juni::N	June	июнь	[]	[]	[]	<NA>	0	JUNE	
+468	994	1,134741	Juli::N	July	июль	[]	[]	[]	<NA>	0	JULY	
+469	1005	1,626423	August::N	August	август	[]	[]	[]	<NA>	0	AUGUST	
+470	1011	2,14475	September::N	September	сентябрь	[]	[]	[]	<NA>	0	SEPTEMBER	
+471	1016	3,699396	Oktober::N	October	октябрь	[]	[]	[]	<NA>	0	OCTOBER	
+472	1014	2,678637	November::N	November	ноябрь	[]	[]	[]	<NA>	0	NOVEMBER	
+473	1013	2,671866	Dezember::N	December	декабрь	[]	[]	[]	<NA>	0	DECEMBER	
+474	957	0,528059	Montag::N	Monday	понедельник	[]	[]	[]	MONDAY	1697	MONDAY	
+475	912	0,180334	Dienstag::N	Tuesday	вторник	[]	[]	[]	TUESDAY	1695	TUESDAY	
+476	938	0,41205	Mittwoch::N	Wednesday	среда	[]	[]	[третий день недели]	WEDNESDAY	1694	WEDNESDAY	
+477	1006	1,666817	Donnerstag::N	Thursday	четверг	[]	[]	[]	THURSDAY	1693	THURSDAY	
+478	959	0,568516	Freitag::N	Friday	пятница	[]	[]	[]	FRIDAY	1692	FRIDAY	
+479	884	0,01489	Samstag::N	Saturday	суббота	[]	[]	[]	SATURDAY	1700	SATURDAY	
+480	921	0,301541	Sonntag::N	Sunday	воскресенье	[]	[]	[]	SUNDAY	1699	SUNDAY	
+481	237	-1,710606	groß::A	big	большой	[BSP:Stein]	[EX:rock]	[НАПР:о камне]	BIG	1202	BIG	
+482	697	-0,633289	klein::A	little	маленький	[BSP:Stein]	[EX:rock]	[НАПР:о камне]	SMALL	1246	SMALL	
+483	74	-2,339598	lang::A	long	длинный	[Gegenstand]	[object]	[о предмете]	LONG	1203	LONG	
+484	444	-1,206292	kurz::A	short	короткий	[Gegenstand]	[object]	[о предмете]	SHORT	1645	SHORT	
+485	158	-1,963005	breit::A	wide	широкий	[BSP:Fluss, Brücke]	[EX:river, bridge]	[BSP:о реке, о мосте]	WIDE	1243	WIDE	
+486	660	-0,716542	schmal::A	narrow	узкий	[BSP:Fluss, Brücke]	[EX:river, bridge]	[BSP:о реке, о мосте]	NARROW	1267	NARROW	
+487	137	-2,044974	dicht::A	dense	густой	[BSP:Haar, Wald]	[EX:hair, forest]	[НАПР:о волосах, о лесе]	<NA>	0	DENSE	
+488	302	-1,547568	dick[Gegenstand]::A	thick	толстый	[flacher Gegenstand]	[flat object]	[о плоском предмете]	THICK	1244	THICK	
+489	516	-1,032602	dünn::A	thin	тонкий	[flacher Gegenstand]	[flat object]	[о плоском предмете]	THIN (OF SHAPE OF OBJECT)	2249	THIN (OF SHAPE OF OBJECT)	
+490	465	-1,152855	fein::A	delicate, fine	тонкий, хрупкий	[BSP:Garn, Netz]	[EX:yarn, web]	[НАПР:о нити, о сети]	FINE_OR_THIN	2157	FINE_OR_THIN	
+491	476	-1,1358	fest::A	firm, solid	крепкий, прочный	[BSP:Holz, Wand]	[EX:wood, wall]	[НАПР:о дереве, о стене]	<NA>	0	SOLID	
+492	498	-1,093967	flach::A	flat	плоский	[Gegenstand]	[object]	[о предмете]	FLAT	1633	FLAT	
+493	311	-1,524969	glatt::A	smooth	гладкий	[Oberfläche]	[surface]	[о поверхности]	SMOOTH	1234	SMOOTH	
+494	126	-2,108913	hart::A	hard	твёрдый	[BSP:Schale]	[BSP:shell]	[НАПР:о скорлупе]	HARD	1884	HARD	
+495	217	-1,767294	weich::A	soft	мягкий	[BSP:Kissen]	[EX:cushion]	[НАПР:о подушке]	SOFT	1856	SOFT	
+496	529	-0,999491	rund::A	round	круглый	[kreisförmig]	[circular]	[по форме близкий к кругу]	ROUND	1395	ROUND	
+497	858	-0,12104	spitz::A	pointed	остроконечный	[BSP:Nadel]	[EX:needle]	[НАПР:об игле]	POINTED	372	POINTED	
+498	485	-1,115744	scharf::A	sharp	острый	[BSP:Messer]	[EX:knife]	[НАПР:о ноже]	SHARP	1396	SHARP	
+499	560	-0,944584	stumpf::A	blunt	тупой	[BSP:Messer]	[EX:knife]	[НАПР:о ноже]	BLUNT	379	BLUNT	
+500	666	-0,703185	schwer::A	heavy	тяжёлый	[an Gewicht]	[of weight]	[о весе]	HEAVY	1210	HEAVY	
+501	823	-0,267897	schön::A	beautiful	красивый	[BSP:Blume]	[EX:flower]	[НАПР:о цветке]	BEAUTIFUL	1427	BEAUTIFUL	
+502	274	-1,622817	heiß::A	hot	жаркий	[BSP:Feuer]	[EX:fire]	[НАПР:об огне]	HOT	1286	HOT	
+503	212	-1,77477	warm::A	warm	тёплый	[]	[]	[]	WARM	1232	WARM	
+504	312	-1,521552	kalt::A	cold	холодный	[]	[]	[]	COLD	1287	COLD	
+505	499	-1,081048	kühl::A	cool	прохладный	[]	[]	[]	<NA>	0	COOL	
+506	243	-1,693916	frisch::A	fresh	свежий	[BSP:Luft]	[EX:air]	[НАПР:о воздухе]	FRESH	243	FRESH	
+507	497	-1,094711	feucht::A	damp	влажный	[]	[]	[]	<NA>	0	DAMP	
+508	478	-1,130349	nass::A	wet	мокрый	[]	[]	[]	WET	1726	WET	
+509	262	-1,641529	trocken::A	dry	сухой	[]	[]	[]	DRY	1398	DRY	
+510	95	-2,255925	voll::A	full	полный, наполненный	[Gefäß]	[container]	[о сосуде]	FULL	1429	FULL	
+511	393	-1,330087	leer::A	empty	пустой	[Gefäß]	[container]	[о сосуде]	EMPTY	1624	EMPTY	
+512	415	-1,281553	offen::A	open	открытый	[BSP:Tür]	[EX:door]	[НАПР:о двери]	<NA>	0	OPEN_(OF_DOOR)	POS
+513	732	-0,536018	geschlossen::A	closed	закрытый	[BSP:Tür]	[EX:door]	[НАПР:о двери]	CLOSED	589	CLOSED	
+514	708	-0,602671	sauber::A	clean	чистый	[]	[]	[]	CLEAN	704	CLEAN	
+515	846	-0,191876	schmutzig::A	dirty	грязный	[]	[]	[]	DIRTY	1230	DIRTY	
+516	133	-2,079933	roh::A	raw	сырой	[ungekocht]	[uncooked]	[не варёный]	RAW	1959	RAW	
+517	532	-0,989145	reif::A	ripe	зрелый	[BSP:Obst]	[EX:fruit]	[НАПР:o плоде]	RIPE	178	RIPE	
+518	711	-0,595373	lecker::A	delicious	вкусный	[schmackhaft]	[tasty]	[лакомый]	TASTY	1813	TASTY	
+519	256	-1,665099	süß::A	sweet	сладкий	[Geschmack]	[taste]	[о вкусе]	SWEET	717	SWEET	
+520	447	-1,20064	bitter::A	bitter	горький	[Geschmack]	[taste]	[о вкусе]	BITTER	887	BITTER	
+521	400	-1,321929	sauer::A	sour	кислый	[BSP:Zitrone]	[EX:lemon]	[НАПР:лимон]	SOUR	1906	SOUR	
+522	310	-1,533087	hell::A	bright	светлый	[voller Licht]	[full of light]	[хорошо освещённый]	BRIGHT	679	BRIGHT	
+523	359	-1,415552	dunkel::A	dark	тёмный	[ohne Licht]	[devoid of light]	[лишённый света]	DARK	706	DARK	
+524	303	-1,545769	schwarz::A	black	чёрный	[]	[]	[]	BLACK	163	BLACK	
+525	99	-2,237421	weiß::A	white	белый	[]	[]	[]	WHITE	1335	WHITE	
+526	502	-1,076709	rot::A	red	красный	[]	[]	[]	RED	156	RED	
+527	390	-1,340442	gelb::A	yellow	жёлтый	[]	[]	[]	YELLOW	1424	YELLOW	
+528	313	-1,518587	blau::A	blue	синий, голубой	[]	[]	[]	BLUE	837	BLUE	
+529	377	-1,375302	grün::A	green	зелёный	[]	[]	[]	GREEN	1425	GREEN	
+530	493	-1,096892	grau::A	grey	серый	[]	[]	[]	GREY	153	GREY	
+531	931	0,361821	bunt::A	colourful	пёстрый	[vielfarbig]	[multicolored]	[разноцветный]	<NA>	0	COLORFUL	
+532	739	-0,519286	billig::A	cheap	дешёвый	[]	[]	[]	CHEAP	1887	CHEAP	
+533	370	-1,388822	teuer::A	expensive	дорогой	[Ware]	[goods]	[о товаре]	EXPENSIVE	1426	EXPENSIVE	
+534	778	-0,416036	wertvoll::A	precious	ценный	[]	[]	[драгоценный]	<NA>	0	PRECIOUS	
+535	236	-1,712181	blind::A	blind	слепой	[]	[]	[]	BLIND	1653	BLIND	
+536	413	-1,283279	taub::A	deaf	глухой	[]	[]	[]	DEAF	996	DEAF	
+537	797	-0,364709	kräftig::A	powerful	могучий	[kraftvoll]	[forceful]	[мощный]	<NA>	0	POWERFUL	distinct from STRONG
+538	442	-1,214765	stark::A	strong 	сильный	[robust]	[tough]	[плотный]	STRONG	785	STRONG	
+539	603	-0,848236	schwach::A	weak	слабый	[kraftlos]	[feeble]	[немощный]	WEAK	1601	WEAK	
+540	291	-1,577568	fett::A	fat	жирный, толстый	[dick]	[person]	[тучный]	FAT_(OBESE)	1279	FAT_(OBESE)	
+541	883	0,009313	schlank::A	slim	стройный	[]	[]	[]	THIN_(SLIM)	1400	THIN_(SLIM)	
+542	949	0,475628	hübsch::A	pretty	красивый, прелестный	[]	[]	[]	GOOD-LOOKING	2410	GOOD-LOOKING	
+543	280	-1,608551	böse::A	evil	злой	[bösartig]	[malevolent]	[несущий в себе зло]	EVIL	45	EVIL	
+544	527	-1,007908	dumm::A	stupid	глупый	[Mensch]	[person]	[о человеке]	STUPID	1518	STUPID	
+545	601	-0,855687	faul::A	lazy	ленивый	[träge]	[]	[]	LAZY	1564	LAZY	
+546	995	1,269314	fleißig::A	diligent	прилежный	[]	[]	[]	DILIGENT	2077	DILIGENT	
+547	905	0,149168	geizig::A	stingy	жадный, скупой	[]	[]	[]	STINGY	1774	STINGY	
+548	772	-0,437563	klug::A	clever	умный	[intelligent]	[intelligent]	[интеллигентный]	CLEVER	1310	CLEVER	
+549	980	0,873849	geschickt::A	skilful	искусный	[]	[]	[]	DEXTEROUS	1824	DEXTEROUS	
+550	550	-0,95786	lieb::A	dear	милый	[]	[beloved]	[]	DEAR	2470	DEAR	
+551	857	-0,121116	lustig::A	merry	весёлый	[vergnügt]	[]	[]	MERRY	1976	MERRY	
+552	984	0,938776	sanft::A	gentle	нежный	[]	[tender]	[кроткий]	GENTLE	1954	GENTLE	
+553	549	-0,961747	hungrig::A	hungry	голодный	[]	[]	[]	BE_HUNGRY	1533	BE_HUNGRY	
+554	900	0,120675	krank::A	sick, ill	больной	[]	[]	[нездоровый]	SICK	1847	SICK	
+555	757	-0,481553	nackt::A	naked	голый	[]	[]	[]	NAKED	590	NAKED	
+556	909	0,159371	traurig::A	sad	грустный	[Gefühl]	[emotion]	[чувство]	SAD	699	SAD	
+557	331	-1,476372	lebendig::A	living	живой	[lebend]	[]	[]	<NA>	0	LIVING	POS
+558	75	-2,338535	gut::A	good	хороший	[BSP:Werkzeug]	[EX:tool]	[НАПР:об орудии]	GOOD	1035	GOOD	
+559	826	-0,25627	schlecht::A	bad	плохой	[BSP:Werkzeug]	[EX:tool]	[НАПР:об орудии]	BAD	1292	BAD	
+560	241	-1,694064	richtig::A	correct	правильный	[]	[]	[]	CORRECT_(RIGHT)	1725	CORRECT_(RIGHT)	
+561	571	-0,919733	schlimm::A	nasty, dire	страшный, отвратительный	[]	[]	[]	SEVERE	419	SEVERE	
+562	915	0,188099	wahr::A	true	настоящий	[wahrheitsgemäß]	[truthful]	[истинный]	TRUE	1657	TRUE	
+563	163	-1,946849	alt::A	old	старый	[BSP:Haus]	[EX:house]	[НАПР:о доме]	OLD_(USED)	2113	OLD_(USED)	
+564	24	-2,793982	neu::A	new	новый	[]	[]	[]	NEW	1231	NEW	
+565	898	0,112372	ehemalig::A	former	бывший	[]	[erstwhile]	[]	<NA>	0	FORMER	
+566	206	-1,785645	alt[Lebewesen]::A	aged, old	пожилой, старый	[]	[person]	[о человеке]	OLD_(AGED)	2112	OLD_(AGED)	
+567	216	-1,768918	jung::A	young	молодой	[]	[]	[]	YOUNG	1207	YOUNG	
+568	668	-0,701194	arm::A	poor	бедный	[bedürftig]	[needy]	[]	POOR	1674	POOR	
+569	423	-1,258927	reich::A	rich	богатый	[]	[]	[]	RICH	712	RICH	
+570	614	-0,839116	bekannt::A	familiar	знакомый	[]	[]	[]	<NA>	0	FAMILIAR	
+571	838	-0,228537	berühmt::A	famous	знаменитый	[]	[]	[]	FAME	865	FAME	POS
+572	543	-0,970106	fremd::A	foreign	чужой	[]	[]	[]	FOREIGN	109	FOREIGN	
+573	841	-0,225048	verschieden::A	different	разный	[]	[]	[]	DIFFERENT	2504	DIFFERENT	
+574	394	-1,32745	nah::A	near	близкий	[]	[]	[]	NEAR	1942	NEAR	
+575	398	-1,32413	fern::A	far	далёкий	[]	[]	[]	FAR	1406	FAR	
+576	741	-0,512278	linker::A	left	левый	[]	[]	[]	LEFT	244	LEFT	
+577	253	-1,674117	rechter::A	right	правый	[BSP:rechtes Bein]	[EX:right leg]	[НАПР:правая нога]	RIGHT	1019	RIGHT	
+578	143	-2,025878	anderer::A	other	другой	[]	[]	[]	OTHER	197	OTHER	
+579	687	-0,649889	erster::A	first	первый	[]	[]	[]	FIRST	728	FIRST	
+580	539	-0,97696	zweiter::A	second	второй	[]	[]	[]	SECOND	1384	SECOND	
+581	840	-0,226455	dritter::A	third	третий	[]	[]	[]	THIRD	1859	THIRD	
+582	808	-0,33506	letzter::A	last	последний	[in einer Reihe]	[in a row]	[]	LAST_(FINAL)	1529	LAST_(FINAL)	
+583	342	-1,450599	allein::ADV	alone	один	[]	[]	[]	ALONE	1964	ALONE	
+584	1002	1,423114	auf einmal::ADV	at once	сразу	[]	[in one go]	[]	<NA>	0	ALL_AT_ONCE	
+585	718	-0,571647	zusammen::ADV	together	вместе	[]	[]	[]	TOGETHER	2482	TOGETHER	
+586	562	-0,940105	lange::ADV	long	долго	[]	[]	[]	FOR_A_LONG_TIME	418	FOR_A_LONG_TIME	
+587	972	0,693543	plötzlich::ADV	suddenly	вдруг	[]	[]	[]	<NA>	0	SUDDENLY	
+588	992	1,118757	sofort::ADV	instantly	тотчас	[]	[]	[]	<NA>	0	INSTANTLY	
+589	774	-0,433797	später::ADV	later	позже	[]	[]	[]	<NA>	0	LATER	
+590	208	-1,780635	jetzt::ADV	now	теперь	[]	[]	[]	NOW	1376	NOW	
+591	357	-1,417854	heute::ADV	today	сегодня	[]	[]	[]	TODAY	1283	TODAY	
+592	422	-1,260065	morgen::ADV	tomorrow	завтра	[]	[]	[]	TOMORROW	1329	TOMORROW	
+593	973	0,71743	bald::ADV	soon	скоро	[]	[]	[]	SOON	703	SOON	
+594	85	-2,302163	dann::ADV	then	потом	[]	[]	[]	<NA>	0	THEN	
+595	455	-1,183068	gestern::ADV	yesterday	вчера	[]	[]	[]	YESTERDAY	1174	YESTERDAY	
+596	783	-0,411366	einst::ADV	once	однажды	[in der Vergangenheit]	[once upon a time]	[]	<NA>	0	ONCE_(IN_THE_PAST)	
+597	670	-0,698181	damals::ADV	at that time	тогда	[]	[]	[]	<NA>	0	AT_THAT_TIME	
+598	686	-0,652577	danach::ADV	afterwards	затем	[]	[]	[]	AFTERWARDS	2093	AFTERWARDS	
+599	596	-0,864902	vorher::ADV	before	раньше	[]	[]	[]	BEFORE	1882	BEFORE	
+600	506	-1,061869	zuerst::ADV	at first	сперва	[]	[]	[]	<NA>	0	AT_FIRST	
+601	432	-1,241231	einmal::ADV	once	один раз	[]	[]	[]	ONE_TIME	374	ONE_TIME	
+602	999	1,362579	manchmal::ADV	sometimes	иногда	[]	[]	[]	SOMETIMES	1544	SOMETIMES	
+603	786	-0,397972	oft::ADV	often	часто	[]	[]	[]	OFTEN	1852	OFTEN	
+604	608	-0,84242	immer::ADV	always	всегда	[]	[]	[]	ALWAYS	1676	ALWAYS	
+605	983	0,935693	niemals::ADV	never	никогда	[]	[]	[]	NEVER	1656	NEVER	
+606	17	-2,945985	hier::ADV	here	здесь	[]	[]	[]	HERE	136	HERE	
+607	195	-1,825499	hierhin::ADV	hither	сюда	[]	[]	[]	<NA>	0	HITHER	
+608	619	-0,812382	von hier::ADV	hence	отсюда	[]	[]	[]	<NA>	0	HENCE	
+609	15	-2,964168	dort::ADV	there	там	[]	[]	[]	THERE	1937	THERE	
+610	320	-1,493899	dorthin::ADV	thither	туда	[]	[]	[]	<NA>	0	THITHER	
+611	941	0,437048	geradeaus::ADV	ahead	прямо	[]	[]	[]	<NA>	0	AHEAD	
+612	487	-1,113207	vorwärts::ADV	forward	вперёд	[]	[]	[]	<NA>	0	FORWARD	
+613	806	-0,341419	rückwärts::ADV	backward	назад	[]	[]	[]	<NA>	0	BACKWARD	
+614	503	-1,074261	zurück::ADV	back	обратно	[]	[]	[]	<NA>	0	BACK_(DIRECTION)	
+615	170	-1,923445	unten::ADV	below	внизу	[]	[]	[]	DOWN_OR_BELOW	2094	DOWN_OR_BELOW	
+616	479	-1,129119	hinab::ADV	down	вниз	[]	[]	[]	DOWN	1326	DOWN	
+617	100	-2,236479	oben::ADV	above	наверху	[]	[]	[]	ABOVE	1741	ABOVE	
+618	186	-1,864943	hinauf::ADV	up	вверх	[]	[]	[]	UP	1591	UP	
+619	943	0,439972	überall::ADV	everywhere	везде	[]	[]	[]	<NA>	0	EVERYWHERE	
+620	6	-3,262623	nicht::ADV	not	не	[]	[]	[]	NOT	1240	NOT	
+621	702	-0,622977	ein wenig::ADV	a little	немного	[]	[]	[]	<NA>	0	A_LITTLE	
+622	927	0,331049	kaum::ADV	hardly	едва	[]	[]	[]	<NA>	0	HARDLY	
+623	963	0,605154	sehr::ADV	very	очень	[]	[]	[]	VERY	1311	VERY	
+624	56	-2,460515	so::ADV	so	так	[]	[]	[]	<NA>	0	SO_(IN_THIS_WAY)	
+625	260	-1,650059	noch::ADV	still	ещё	[]	[]	[]	<NA>	0	STILL	
+626	734	-0,533027	nur::ADV	only	только	[BSP:nur eine Kuh]	[EX:only one cow]	[НАПР:только одна корова]	ONLY	1580	ONLY	
+627	202	-1,797019	schon::ADV	already	уже	[]	[]	[]	ALREADY	2576	ALREADY	
+628	495	-1,096058	wieder::ADV	again	опять	[]	[]	[]	AGAIN	204	AGAIN	
+629	839	-0,228218	vergebens::ADV	in vain	напрасно	[]	[]	[]	IN_VAIN	1765	IN_VAIN	
+630	349	-1,433895	vor::PRP	in front of	перед	[]	[]	[]	IN_FRONT_OF	1883	IN_FRONT_OF	
+631	250	-1,684184	hinter::PRP	behind	позади	[]	[]	[]	BEHIND	1686	BEHIND	
+632	29	-2,697238	unter::PRP	under	под	[]	[]	[]	BELOW_OR_UNDER	1485	BELOW_OR_UNDER	
+633	538	-0,977856	durch::PRP	through	сквозь, через	[BSP:Fenster,Loch]	[EX:a window, a hole]	[НАПР:окно,дыру]	THROUGH	97	THROUGH	
+634	727	-0,547088	neben::PRP	next to	возле	[]	[]	[]	<NA>	0	NEXT_TO	
+635	461	-1,162949	zwischen::PRP	between	между	[]	[]	[]	BETWEEN	689	BETWEEN	
+636	679	-0,668694	wegen::PRP	because of	из-за	[]	[]	[]	<NA>	0	BECAUSE_OF	
+637	26	-2,739471	dies::PRN	this	это	[]	[]	[]	THIS	1214	THIS	
+638	3	-3,471809	das::PRN	that	то	[]	[]	[]	THAT	78	THAT	
+639	287	-1,590837	alles::PRN	everything	всё	[]	[]	[]	ALL	98	ALL	
+640	5	-3,345092	ich::PRN	I	я	[]	[]	[]	I	1209	I	
+641	4	-3,349547	du::PRN	thou	ты	[]	[]	[]	THOU	1215	THOU	
+642	8	-3,216746	er::PRN	he	он	[]	[]	[]	HE_OR_SHE_OR_IT	262	HE_OR_SHE_OR_IT	
+643	10	-3,038912	wir::PRN	we	мы	[]	[]	[]	WE	1212	WE	
+644	67	-2,38367	ihr::PRN	you	вы	[]	[plural]	[]	YOU	1213	YOU	
+645	28	-2,701759	sie::PRN	they	они	[Plural]	[]	[]	THEY	817	THEY	
+646	18	-2,927861	was::FPRN	what	что	[]	[]	[]	WHAT	1236	WHAT	
+647	13	-3,005855	wer::FPRN	who	кто	[]	[]	[]	WHO	1235	WHO	
+648	14	-2,986457	wo::FADV	where	где	[]	[]	[]	WHERE	1237	WHERE	
+649	248	-1,688391	wohin::FADV	where to	куда	[]	[]	[]	<NA>	0	WHITHER	
+650	189	-1,851297	wie::FADV	how	как	[]	[]	[]	HOW	1239	HOW	
+651	392	-1,334378	warum::FADV	why	почему	[]	[]	[]	WHY	1270	WHY	
+652	663	-0,704942	wieviel::FNUM	how much	сколько	[]	[]	[]	HOW_MUCH	531	HOW_MUCH	
+653	1	-3,605677	eins::NUM	one	один	[]	[]	[]	ONE	1493	ONE	
+654	7	-3,252278	zwei::NUM	two	два	[]	[]	[]	TWO	1498	TWO	
+655	30	-2,683703	drei::NUM	three	три	[]	[]	[]	THREE	492	THREE	
+656	173	-1,909905	vier::NUM	four	четыре	[]	[]	[]	FOUR	1500	FOUR	
+657	68	-2,379235	fünf::NUM	five	пять	[]	[]	[]	FIVE	493	FIVE	
+658	38	-2,59346	sechs::NUM	six	шесть	[]	[]	[]	SIX	1703	SIX	
+659	178	-1,88665	sieben::NUM	seven	семь	[]	[]	[]	SEVEN	1704	SEVEN	
+660	155	-1,979585	acht::NUM	eight	восемь	[]	[]	[]	EIGHT	1705	EIGHT	
+661	229	-1,736154	neun::NUM	nine	девять	[]	[]	[]	NINE	1483	NINE	
+662	9	-3,174243	zehn::NUM	ten	десять	[]	[]	[]	TEN	1515	TEN	
+663	813	-0,308841	elf::NUM	eleven	одиннадцать	[]	[]	[]	ELEVEN	1706	ELEVEN	
+664	853	-0,145298	zwölf::NUM	twelve	двенадцать	[]	[]	[]	TWELVE	1707	TWELVE	
+665	203	-1,792548	zwanzig::NUM	twenty	двадцать	[]	[]	[]	TWENTY	1710	TWENTY	
+666	469	-1,147388	dreißig::NUM	thirty	тридцать	[]	[]	[]	THIRTY	1715	THIRTY	
+667	654	-0,728583	vierzig::NUM	forty	сорок	[]	[]	[]	FORTY	1716	FORTY	
+668	865	-0,091974	fünfzig::NUM	fifty	пятьдесят	[]	[]	[]	FIFTY	1717	FIFTY	
+669	500	-1,078735	sechzig::NUM	sixty	шестьдесят	[]	[]	[]	SIXTY	1718	SIXTY	
+670	939	0,428518	siebzig::NUM	seventy	семьдесят	[]	[]	[]	SEVENTY	1721	SEVENTY	
+671	799	-0,355653	achtzig::NUM	eighty	восемьдесят	[]	[]	[]	EIGHTY	1722	EIGHTY	
+672	926	0,324318	neunzig::NUM	ninety	девяносто	[]	[]	[]	NINETY	1724	NINETY	
+673	39	-2,559096	hundert::NUM	a hundred	сто	[]	[]	[]	HUNDRED	1634	HUNDRED	
+674	425	-1,250922	tausend::NUM	a thousand	тысяча	[]	[]	[]	THOUSAND	1843	THOUSAND	
+675	21	-2,820901	und::CNJ	and	и	[]	[]	[]	AND	1577	AND	
+676	190	-1,850491	oder::CNJ	or	или	[]	[]	[]	OR	1014	OR	
+677	162	-1,949524	stehen::V	stand	стоять	[Mensch]	[of a person]	[о человеке]	STAND	1442	STAND	
+678	125	-2,109513	sitzen::V	sit	сидеть	[Mensch]	[of a person]	[о человеке]	SIT	1416	SIT	
+679	490	-1,106772	liegen::V	lie	лежать	[Mensch]	[of a person]	[о человеке]	LIE_(REST)	1411	LIE_(REST)	
+680	457	-1,178046	hängen::V	hang	висеть	[BSP:``der Mantel hängt'']	[EX:``the coat is hanging'']	[НАПР:о пальтo]	<NA>	0	HANG	intransitive
+681	54	-2,465655	werden::V	become	стать	[zu etwas]	[turn into]	[превратиться, НАПР:стать отцом]	BECOME	1990	BECOME	
+682	511	-1,050125	passieren::V	happen	случиться	[geschehen]	[occur]	[произойти]	HAPPEN	248	HAPPEN	
+683	365	-1,396821	beginnen::V	begin	начаться	[anfangen zu bestehen]	[start existing]	[начать существовать]	<NA>	0	START	intransitive
+684	269	-1,634073	enden::V	end	кончиться	[aufhören zu bestehen]	[stop existing]	[перестать существовать]	CEASE	1928	CEASE	
+685	597	-0,863613	wechseln::V	change	меняться	[zu etwas anderem werden]	[become something different]	[стать чем-то другим, НАПР:о погоде]	<NA>	0	CHANGE_(BECOME_DIFFERENT)	
+686	553	-0,950231	aufgehen[Sonne]::V	rise	взойти	[]	[of the sun]	[о солнце]	RISE_(MOVE_UPWARDS)	568	RISE_(MOVE_UPWARDS)	
+687	462	-1,162021	untergehen[Sonne]::V	set	зайти	[]	[of the sun]	[о солнце]	SET_(HEAVENLY_BODIES)	160	SET_(HEAVENLY_BODIES)	
+688	383	-1,362861	scheinen[Sonne]::V	shine	светить	[]	[of the sun]	[о солнце]	SHINE	708	SHINE	
+689	524	-1,016719	donnern::V	thunder	греметь	[Donner]	[BSP:``it thundered'']	[о громе]	THUNDER_(VERB)	2378	THUNDER_(VERB)	
+690	318	-1,498975	wehen::V	blow	дуть	[Wind]	[of wind]	[о ветре]	BLOW_(OF_WIND)	175	BLOW_(OF_WIND)	
+691	380	-1,37064	strömen::V	stream	литься	[ununterbrochen fließen]	[to flow in a continuous manner]	[течь непрерывной струёй]	<NA>	0	FLOW_(OF_RIVER)	
+692	171	-1,918084	fließen::V	flow	течь	[BSP:Fluss]	[EX:a river]	[НАПР:о реке]	FLOW	2003	FLOW	
+693	761	-0,473695	sich drehen::V	revolve	вращаться	[BSP:Rad]	[EX:of a wheel]	[НАПР:о колесе]	<NA>	0	REVOLVE	
+694	805	-0,344178	schwanken::V	sway	качаться	[sich vor- und zurückbewegen]	[move backward and forward]	[двигаться взад и вперед]	SWAY	573	SWAY	
+695	794	-0,383429	schwingen::V	swing	колебаться	[sich hin- und herbewegen]	[repeatedly move from side to side]	[ритмично, из стороны в сторону, НАПР:о маятнике]	<NA>	0	SWING_(MOVEMENT)	
+696	47	-2,509665	fallen::V	fall	падать	[sich schnell abwärts bewegen]	[swiftly move downwards]	[быстро перемещаться вниз]	FALL	1280	FALL	
+697	62	-2,421121	brennen::V	burn	гореть	[BSP:Holz]	[BSP:of wood]	[НАПР:о дровах]	BURNING	1428	BURNING	
+698	692	-0,644994	rauchen::V	smoke	дымить	[Qualm ausstoßen]	[give off smoke]	[производить дым]	<NA>	0	SMOKE_(EMIT_SMOKE)	
+699	592	-0,868005	regnen::V	rain	идти	[BSP:``es regnet'']	[BSP:``it is raining'']	[о дожде; дождить]	RAIN_(RAINING)	1253	RAIN_(RAINING)	
+700	399	-1,323758	gefrieren::V	freeze	замёрзнуть	[durch Kälte erstarren]	[to become solid due to low temperature]	[застыть от холода]	FREEZE	1431	FREEZE	
+701	222	-1,750117	tauen::V	thaw	таять	[BSP:Schnee]	[EX:of snow]	[НАПР:о снеге]	<NA>	0	THAW	
+702	180	-1,883325	schmelzen::V	melt	плавиться	[BSP:Eis]	[EX:of ice]	[НАПР:о льде]	MELT	2334	MELT	
+703	167	-1,92829	trocknen::V	dry	сохнуть	[BSP:von Kleidung]	[EX:of clothes]	[НАПР:об одежде]	DRY_UP	1786	DRY_UP	
+704	407	-1,308831	sieden::V	boil	кипеть	[Wasser]	[of water]	[о воде]	BOIL_(OF_LIQUID)	792	BOIL_(OF_LIQUID)	
+705	179	-1,884846	faulen::V	rot	гнить	[BSP:Fleisch]	[EX:of meat]	[портиться, НАПР:об овощах, фруктах, еде]	SPOIL_(BECOME_SPOILED)	569	SPOIL_(BECOME_SPOILED)	
+706	288	-1,588351	verfaulen::V	decay	сгнить	[BSP:Holz]	[EX:of wood]	[НАПР:о дереве]	<NA>	0	DECAY	
+707	701	-0,623679	reißen::V	snap	рваться	[BSP:Faden]	[EX:of a thread]	[НАПР:о нитке]	<NA>	0	SNAP_(INTO_BITS)	
+708	336	-1,461068	versinken::V	sink	тонуть	[BSP:Stein im Wasser]	[EX:stone in water]	[НАПР:камень в воду]	<NA>	0	SINK_(IN_WATER)	
+709	830	-0,252688	vergehen::V	pass	проходи́ть	[Zeit]	[of time]	[о времени]	PASS	1951	PASS	
+710	699	-0,627745	erscheinen::V	appear	появиться	[BSP:Licht, Geist]	[EX:light, ghost]	[НАПР:о свете, о призраке]	<NA>	0	APPEAR	
+711	586	-0,881335	verschwinden::V	disappear	исчезнуть	[BSP:Licht, Geist]	[EX:light, ghost]	[НАПР:о свете, о призраке]	DISAPPEAR	485	DISAPPEAR	
+712	706	-0,614616	sinken::V	drop, descend	спадать	[BSP:Wasserspiegel]	[EX:water level]	[понижаться, НАПР:об уровне воды]	<NA>	0	DROP_(MOVEMENT)	
+713	878	-0,012607	abnehmen::V	decrease	уменьшиться	[weniger werden]	[of quantity]	[стать меньше]	<NA>	0	DECREASE	
+714	874	-0,037772	zunehmen::V	increase	увеличиться	[mehr werden]	[of quantity]	[в количестве]	INCREASE	1041	INCREASE	
+715	429	-1,244373	steigen::V	rise	подниматься	[BSP:Wasserspiegel]	[EX:water level]	[НАПР:об уровне воды]	<NA>	0	RISE_(MOVEMENT)	
+716	50	-2,486656	wachsen::V	grow	расти	[BSP:Pflanze]	[EX:of a plant]	[НАПР:о растении]	GROW	479	GROW	
+717	815	-0,288668	glänzen::V	shine	блестеть	[BSP:Metall, glänzende Oberfläche]	[EX:of metal, shiny surface]	[НАПР:о металле, поверхности]	<NA>	0	SHINE_(OF_METAL)	
+718	1009	1,892674	funkeln::V	sparkle, twinkle	сверкать	[BSP:Stern, kleines Licht]	[EX:of star, little light]	[НАПР:о звезде, об огоньке]	<NA>	0	TWINKLE	
+719	1001	1,406422	lärmen::V	be noisy	шуметь	[BSP:Kinder]	[EX:children]	[НАПР:о детях]	<NA>	0	BE_NOISY	
+720	825	-0,265415	läuten::V	chime	звонить	[BSP:Glocke]	[EX:of bell]	[НАПР:о колоколе]	<NA>	0	CHIME	
+721	875	-0,034984	klingeln::V	ring	звонить	[BSP:Türklingel, Telefon]	[EX:doorbell, phone]	[НАПР:о дверном звонке, телефоне]	<NA>	0	RING_(SIGNAL)	
+722	989	1,018415	klirren::V	tinkle	звякать	[BSP:Glas]	[EX:glass]	[НАПР:о стакане, монетах]	<NA>	0	TINKLE	
+723	895	0,090194	brausen::V	roar	бушевать	[BSP:Sturm, Meer]	[EX:storm, sea]	[НАПР:о буре, море]	<NA>	0	ROAR_(OF_SEA)	
+724	784	-0,407995	rauschen::V	rustle	шелестеть	[BSP:Blätter im Wind]	[EX:of leaves in breeze]	[НАПР:о листьях при ветре]	<NA>	0	RUSTLE_(OF_LEAVES)	
+725	950	0,478018	klingen::V	sound	звучать	[BSP:Musikinstrument]	[EX:of instrument]	[НАПР:об инструменте]	<NA>	0	SOUND_(OF_INSTRUMENT)	
+726	379	-1,372562	bellen::V	bark	лаять	[Hund]	[of dog]	[о собаке]	BARKING	1206	BARKING	
+727	118	-2,131521	heulen::V	howl	выть	[BSP:Wolf]	[EX:of wolf]	[о волке]	HOWL	526	HOWL	
+728	115	-2,154939	blasen::V	blow	дунуть	[mit dem Mund]	[using the mouth]	[ртом]	BLOW_(WITH_MOUTH)	176	BLOW_(WITH_MOUTH)	
+729	885	0,022718	pfeifen::V	whistle	свистеть	[mit dem Mund]	[using the mouth]	[ртом]	WHISTLE	1025	WHISTLE	
+730	675	-0,683098	schreien::V	shout	кричать	[Mensch]	[of human]	[о человеке]	SHOUT	715	SHOUT	
+731	341	-1,453449	stöhnen::V	groan	стонать	[BSP:vor Schmerz]	[EX:in pain]	[НАПР:от сильной боли]	GROAN	716	GROAN	
+732	555	-0,948732	zittern::V	tremble	дрожать	[BSP:vor Angst]	[EX:with fear]	[НАПР:от страха]	<NA>	0	TREMBLE	
+733	60	-2,444067	leben::V	live	жить	[lebendig sein]	[be alive]	[быть живым]	BE_ALIVE	1422	BE_ALIVE	
+734	279	-1,615461	geboren werden::V	be born	родиться	[Mensch]	[of human]	[о человеке]	BE_BORN	1090	BE_BORN	
+735	630	-0,791366	atmen::V	breathe	дышать	[Mensch]	[of human]	[о человеке]	BREATHE	1407	BREATHE	
+736	22	-2,816412	trinken::V	drink	пить	[Mensch]	[of human]	[о человеке]	DRINK	1401	DRINK	
+737	83	-2,305338	essen::V	eat	кушать, есть	[Mensch]	[of human]	[о человеке]	EAT	1336	EAT	
+738	642	-0,75728	schlucken::V	swallow	глотать	[hinunterschlucken, BSP:Essen]	[EX:food]	[проглоти́ть, НАПР:пищу]	SWALLOW	897	SWALLOW	
+739	716	-0,576751	müde werden::V	get tired	устать	[]	[]	[]	GET_TIRED	1996	GET_TIRED	
+740	728	-0,545952	einschlafen::V	fall asleep	заснуть	[]	[]	[]	FALL_ASLEEP	1106	FALL_ASLEEP	
+741	71	-2,365508	schlafen::V	sleep	спать	[]	[]	[]	SLEEP	1585	SLEEP	
+742	709	-0,598964	aufwachen::V	wake up	проснуться	[]	[]	[]	WAKE_UP	1602	WAKE_UP	
+743	326	-1,486819	aufstehen::V	get up	встать	[vom Bett]	[rise from one's bed]	[с постели]	<NA>	0	ARISE_(FROM_SLEEP)	not distinct from STAND UP
+744	889	0,045065	sich erholen::V	relax	отдыхать	[entspannen]	[recreate]	[]	REST	168	REST	
+745	982	0,917206	krank werden::V	fall ill	заболеть	[]	[]	[захворать]	BECOME_SICK	2327	BECOME_SICK	
+746	935	0,390157	krank sein::V	be ill	болеть	[]	[]	[страдать болезнью, хворать]	<NA>	0	BE_ILL	
+747	397	-1,324395	schmerzen::V	ache	болеть	[BSP:Kopf]	[EX:of head]	[причинять боль, НАПР:о голове]	ACHE	1815	ACHE	
+748	314	-1,510005	husten::V	cough	кашлять	[]	[]	[]	COUGH	879	COUGH	
+749	954	0,499454	genesen::V	recover	поправиться	[von Krankheit]	[from an illness]	[выздороветь]	RECOVER	1978	RECOVER	
+750	36	-2,637937	sterben::V	die	умереть	[Mensch]	[of human]	[о человеке]	DIE	1494	DIE	
+751	375	-1,378932	umkommen::V	perish	погибнуть	[eines gewaltsamen Todes sterben]	[die violently]	[умереть насильственной смертью]	<NA>	0	PERISH_(OF_HUMAN)	
+752	542	-0,970792	sich bewegen::V	move	двигаться	[den Ort wechseln]	[change place]	[перемещаться]	<NA>	0	MOVE_(OF_PERSON)	MOVE = move sth.
+753	792	-0,387168	sich rühren::V	budge	шевельнуться	[ein bisschen, BSP:zucken]	[change posture]	[слегка двигаться, НАПР:в траве что-то шевелится]	<NA>	0	BUDGE	
+754	653	-0,730024	sich erheben::V	stand up	встать	[BSP:von einem Stuhl]	[EX:from a chair]	[НАПР:со стула]	STAND_UP	570	STAND_UP	
+755	97	-2,246447	sich setzen::V	sit down	сесть	[eine sitzende Haltung einnehmen]	[assume a sitting position]	[принять сидячее положение]	SIT_DOWN	1649	SIT_DOWN	
+756	492	-1,098125	hinfallen::V	tumble	упасть	[stürzen]	[fall end over end]	[свалиться, о человеке]	<NA>	0	TUMBLE	
+757	226	-1,741692	laufen::V	walk	ходить	[zu Fuß gehen]	[move on the feet]	[пешком]	WALK	1443	WALK	
+758	655	-0,724882	schreiten::V	step	шагать	[Schritte machen]	[move the foot in walking]	[идти шагом]	STEP_(VERB)	2065	STEP_(VERB)	
+759	990	1,053496	spazierengehen::V	take a walk	гулять	[spazieren]	[]	[совершать прогулку]	<NA>	0	TAKE_A_WALK	
+760	879	-0,000859	eilen::V	rush	спешить	[hasten, sich möglichst schnell bewegen]	[move in haste]	[двигаться по возможности быстро]	<NA>	0	MOVE_IN_HASTE	HURRY too general
+761	951	0,495496	sich beeilen::V	hurry	торопиться	[sich abhetzen, in Eile sein]	[do things quickly]	[действовать по возможности быстро]	<NA>	0	HURRY_UP	HURRY too general
+762	965	0,613273	sausen::V	dash	мчаться	[dahineilen, BSP:Fahrzeug]	[EX:of a vehicle]	[очень быстро перемещаться, НАПР:о машине]	<NA>	0	DASH_(OF_VEHICLE)	
+763	373	-1,382523	rennen::V	run	бегать	[Mensch]	[of human]	[о человеке]	RUN	1519	RUN	
+764	517	-1,029859	springen::V	jump	прыгать	[Mensch]	[of human]	[о человеке]	JUMP	1829	JUMP	
+765	694	-0,64111	klettern::V	climb	лазать	[Mensch]	[of human]	[карабкаться, о человеке]	CLIMB	1102	CLIMB	
+766	977	0,786987	schaukeln::V	seesaw	качаться, раскачиваться	[wippen, auf Schaukel]	[use a seesaw]	[НАПР:на качелях]	<NA>	0	SEESAW_(ACTION)	
+767	441	-1,215912	kriechen::V	creep	ползать	[Mensch]	[of human]	[о человеке]	CRAWL	96	CRAWL	
+768	108	-2,189305	schwimmen::V	swim	плавать	[Mensch]	[of human]	[о человеке]	SWIM	1439	SWIM	
+769	952	0,49785	tauchen::V	dive	нырять	[Mensch]	[of human]	[о человеке]	DIVE	119	DIVE	
+770	494	-1,096761	rudern::V	row	грести	[ein Boot mittels Riemen bewegen]	[propel a boat using oars]	[передвигать лодку вёслами]	ROW	1849	ROW	
+771	290	-1,58203	fahren::V	drive	ехать	[sich mit einem Fahrzeug fortbewegen]	[travel by a vehicle]	[на транспортном средстве]	DRIVE	808	DRIVE	
+772	87	-2,298994	fliegen::V	fly	летать	[BSP:Vogel]	[EX:of bird]	[НАПР:о птице]	FLY_(MOVE_THROUGH_AIR)	1441	FLY_(MOVE_THROUGH_AIR)	
+773	27	-2,736382	gehen::V	go	идти	[sich im Raum fortbewegen]	[move through space]	[передвигаться в пространстве]	GO	695	GO	
+774	483	-1,118829	weggehen::V	go away	уйти	[einen Ort verlassen]	[leave a place]	[удалиться откуда-либо]	LEAVE	1752	LEAVE	
+775	881	0,005342	abfahren::V	depart	отправиться	[sich auf einen Weg begeben]	[set out on a journey]	[начать путь]	<NA>	0	DEPART	
+776	552	-0,953666	anhalten::V	stop	остановиться	[stehenbleiben]	[cease moving]	[прекратить двигаться]	<NA>	0	STOP_(OF_MOVEMENT)	
+777	387	-1,343379	hineingehen::V	go in	входить	[einen Ort betreten]	[go into an enclosed space]	[вступать в помещение]	<NA>	0	GO_INSIDE	
+778	232	-1,728532	eintreten::V	enter	войти	[betreten, BSP:Gebäude, Raum]	[EX:a building, a room]	[НАПР:в здание, в комнату]	ENTER	749	ENTER	
+779	16	-2,955592	kommen::V	come	прийти	[sich hierher begeben]	[move here]	[двигаться сюда]	COME	1446	COME	
+780	579	-0,895781	ankommen::V	arrive	прибыть	[sein Ziel erreichen]	[reach one's destination]	[достигнуть пункта назначения]	ARRIVE	1387	ARRIVE	
+781	904	0,14352	zurückkommen::V	come back	возвратиться	[wieder an den Ausgangspunkt kommen]	[return to a place]	[вернуться на то же место]	COME_BACK	581	COME_BACK	
+782	70	-2,372659	bleiben::V	stay	остаться	[an einem Ort]	[remain in a place]	[в прежнем месте]	REMAIN	987	REMAIN	
+783	305	-1,544536	warten::V	wait	ожидать	[untätig sein, bis etwas passiert]	[delay action until something happens]	[проводить время, ожидая какого-то события НАПР:ждать грозы]	WAIT_(FOR)	1590	WAIT_(FOR)	
+784	460	-1,163951	erwarten::V	await	ждать	[auf jemanden warten]	[wait for someone]	[кого-либо]	<NA>	0	AWAIT	
+785	477	-1,13323	suchen::V	look for	искать	[versuchen zu finden]	[seek, attempt to find]	[пытаться найти]	LOOK_FOR	1468	LOOK_FOR	
+786	105	-2,209385	finden::V	find	найти	[etwas Gesuchtes]	[locate something searched for]	[в результате поисков]	FIND	719	FIND	
+787	880	0,004959	versuchen::V	try	пытаться	[etwas zu tun]	[attempt]	[]	TRY	1812	TRY	
+788	613	-0,839309	vorbereiten::V	prepare	подготовить	[bereitmachen]	[make ready, set up]	[НАПР:материал для работы]	<NA>	0	PREPARE	
+789	471	-1,142732	lieben::V	love	любить	[innige Zuneigung empfinden für]	[have a strong affection for]	[быть преданным кому-либо]	LOVE	923	LOVE	
+790	922	0,307044	mögen::V	like	любить	[gern haben]	[favor, be in favor of]	[испытывать чувство симпатии к кому-либо, чему-либо]	LIKE	1117	LIKE	
+791	174	-1,908193	lachen::V	laugh	смеяться	[]	[]	[]	LAUGH	1355	LAUGH	
+792	964	0,607087	rühren::V	move	растрогать	[innerlich, emotional]	[arouse the feelings of]	[вызвать чувствa, приятно взволновать]	<NA>	0	MOVE_EMOTIONALLY	
+793	169	-1,926978	weinen::V	weep, cry	плакать	[Tränen vergießen]	[shed tears]	[проливать слёзы]	CRY	1839	CRY	
+794	902	0,133374	schimpfen::V	grumble	ругаться	[seinen Ärger kundtun]	[complain in a surly manner]	[браниться]	<NA>	0	GRUMBLE	
+795	869	-0,082379	sich ärgern::V	be annoyed	сердиться	[verärgert sein]	[be irritated]	[испытывать раздражение]	<NA>	0	BE_ANNOYED	
+796	354	-1,424223	sich fürchten::V	be afraid	бояться, опасаться	[Angst haben]	[be frightened]	[испытывать боязнь]	<NA>	0	BE_AFRAID	intransitive
+797	507	-1,059431	fürchten::V	be afraid of	бояться, страшиться	[sich fürchten vor]	[fear]	[чего-либо]	FEAR_(BE_AFRAID)	1419	FEAR_(BE_AFRAID)	
+798	572	-0,919575	fliehen::V	flee	убегать	[weglaufen, sich retten]	[run away]	[удаляться бегом, спасаться бегством]	FLEE	956	FLEE	
+799	785	-0,400336	flüchten::V	escape	убежать, сбежать	[entkommen, BSP:aus Gefangenschaft]	[get away, BSP:from captivity]	[совершить побег]	ESCAPE	1615	ESCAPE	
+800	43	-2,543003	sehen::V	see	видеть	[mit den Augen wahrnehmen]	[perceive with the eyes]	[воспринимать зрением]	SEE	1409	SEE	
+801	832	-0,243208	anschauen::V	look at	посмотреть	[den Blick richten auf]	[turn the eyes toward]	[направить взгляд на]	LOOK	1819	LOOK	
+802	802	-0,34821	ansehen::V	watch	смотреть	[BSP:Film]	[view for a period of time, EX:movie]	[быть зрителем чего-либо, НАПР:фильма]	WATCH	1650	WATCH	
+803	58	-2,454137	hören::V	hear	слышать	[mit den Ohren wahrnehmen]	[perceive with the ears]	[воспринимать звуки чего-либо]	HEAR	1408	HEAR	
+804	467	-1,147701	zuhören::V	listen	слушать	[auf Gesprochenes achten]	[pay attention to speech]	[обращать внимание на речь]	LISTEN	1608	LISTEN	
+805	911	0,172342	probieren::V	taste	пробовать	[eine Kostprobe nehmen von, abschmecken]	[sample the flavor of]	[кушанье для оценки]	TASTE_(SOMETHING)	21	TASTE_(SOMETHING)	
+806	733	-0,534779	riechen::V	smell	нюхать	[den Geruch wahrnehmen von]	[sense the smell of]	[воспринимать запах чего-либо]	SMELL_(PERCEIVE)	1586	SMELL_(PERCEIVE)	
+807	414	-1,281685	fühlen::V	feel	чувствовать	[spüren]	[sense]	[ощущать]	FEEL_(TACTUALLY)	2559	FEEL_(TACTUALLY)	
+808	664	-0,704274	scheinen::V	seem	казаться	[den Anschein haben]	[appear, be perceived as]	[производить впечатление]	SEEM	1521	SEEM	
+809	696	-0,638833	zu sehen sein::V	show	виднеться	[sichtbar sein]	[be visible]	[быть видным]	VISIBLE	1868	VISIBLE	
+810	556	-0,947446	vernehmen::V	hear	услышать, узнать	[erfahren, zu hören bekommen]	[receive information about]	[получить информацию о]	<NA>	0	HEAR_(INFORMATION)	
+811	917	0,226774	frieren::V	be cold	холодно	[Kälte verspüren]	[feel the sensation of coldness]	[об ощущении холода, НАПР:``мне холодно'']	SHIVER	52	SHIVER	
+812	570	-0,920458	tun::V	do	делать	[BSP:``was tust du?'']	[EX:``what are you doing?'']	[НАПР:``что ты делаешь?'']	DO	813	DO	
+813	187	-1,861166	können::V	can	мочь	[in der Lage sein zu]	[be able to]	[быть в состоянии]	BE_ABLE	972	BE_ABLE	
+814	181	-1,882813	wollen::V	want	хотеть	[wünschen]	[desire]	[иметь желание]	WANT	1784	WANT	
+815	480	-1,126721	anfangen::V	start	начать	[BSP:einen Streit]	[initiate, EX:a quarrel]	[НАПР:спор]	BEGIN	1806	BEGIN	
+816	382	-1,364409	beenden::V	finish	закончить	[zu Ende bringen, abschließen]	[EX:a piece of work]	[НАПР:работу]	FINISH	1766	FINISH	
+817	403	-1,31743	aufhören::V	stop	перестать	[die aktuelle Tätigkeit sein lassen]	[stop the current activity]	[прекратить действие]	<NA>	0	STOP_(OF_ACTIVITY)	
+818	863	-0,094677	gelingen::V	succeed	удаться	[glücken, Erfolg haben, gut ausfallen]	[be successful]	[хорошо завершиться]	SUCCEED	1112	SUCCEED	
+819	817	-0,277539	geraten::V	turn out	оказаться	[ausfallen, sich herausstellen als]	[result, end up]	[получаться]	RESULT_IN	1723	RESULT_IN	
+820	117	-2,13593	öffnen::V	open	открыть	[BSP:ein Fenster]	[EX:a window]	[НАПР:окно]	OPEN	1156	OPEN	
+821	338	-1,459273	schließen::V	close	закрыть	[BSP:ein Fenster]	[EX:a window]	[НАПР:окно]	SHUT	1046	SHUT	
+822	51	-2,480914	stellen::V	put	поставить	[aufrecht hinstellen, BSP:ein Glas]	[in upright position, EX:a glass]	[поместить вертикально, НАПР:стакан]	PUT	998	PUT	
+823	160	-1,955292	setzen::V	place	посадить	[in eine sitzende Position bringen]	[cause someone to sit]	[сделать так, чтобы кто-либо сел]	<NA>	0	CAUSE_TO_SIT	
+824	80	-2,311545	legen::V	lay	класть	[BSP:Geld auf einen Tisch]	[EX:money onto a table]	[НАПР:деньги на стол]	LAY_(VERB)	2071	LAY_(VERB)	
+825	496	-1,09588	berühren::V	touch	трогать	[in körperlichen Kontakt kommen mit]	[make physical contact with]	[прикасаться]	TOUCH	1892	TOUCH	
+826	565	-0,936099	verbinden::V	connect	связать	[verknüpfen, BSP:mit Schnüren]	[join, EX:using strings]	[скрепить вместе, НАПР:верёвками]	<NA>	0	CONNECT	not distinct from TIE
+827	176	-1,89734	bedecken::V	cover	покрыть	[BSP:ein Boot mit einer Plane]	[EX:a boat using a canvas]	[НАПР:лодку плёнкой]	COVER	761	COVER	
+828	440	-1,218026	aufhängen::V	hang up	повесить	[BSP:ein Bild]	[EX:a picture]	[НАПР:картину]	HANG_UP	357	HANG_UP	
+829	512	-1,045345	anzünden::V	light	зажечь	[BSP:eine Kerze]	[EX:a candle]	[НАПР:свечу]	LIGHT_(IGNITE)	737	LIGHT_(IGNITE)	
+830	384	-1,356896	aufheben::V	pick up	поднять	[vom Fußboden]	[from the floor]	[взять с пола]	PICK_UP	371	PICK_UP	
+831	530	-0,993607	zurücklassen::V	leave	оставить	[BSP:einen Mantel zu Hause]	[EX:a coat at home]	[НАПР:пальто дома]	<NA>	0	LEAVE_(SOMETHING)	
+832	215	-1,770692	verlieren::V	lose	потерять	[BSP:einen Schlüssel]	[EX:a key]	[НАПР:ключ]	<NA>	0	LOSE_(SOMETHING)	
+833	759	-0,479748	fallen lassen::V	drop	уронить	[aus den Händen]	[let fall from one's hands]	[выпустить из рук]	<NA>	0	DROP_(SOMETHING)	
+834	294	-1,568211	machen::V	make	сделать	[anfertigen, hervorrufen]	[create, bring about]	[совершить, изготовить]	MAKE	734	MAKE	
+835	828	-0,254193	herstellen::V	produce	изготовить	[produzieren]	[manufacture]	[произвести]	<NA>	0	PRODUCE	
+836	844	-0,209776	bauen::V	build	строить	[BSP:ein Haus]	[EX:a house]	[НАПР:дом]	BUILD	1840	BUILD	
+837	729	-0,543419	reparieren::V	repair, mend	чинить	[BSP:ein Auto]	[EX:a car]	[НАПР:машину]	REPAIR	2243	REPAIR	
+838	801	-0,348424	verbessern::V	improve	улучшить	[besser machen]	[make better]	[сделать лучше]	<NA>	0	IMPROVE_(SOMETHING)	
+839	456	-1,179458	ändern::V	alter	изменить	[anders machen]	[make different]	[сделать иным]	CHANGE	1264	CHANGE	
+840	157	-1,966593	graben::V	dig	копать, рыть	[in Erde]	[in earth]	[землю]	DIG	1418	DIG	
+841	523	-1,018683	beugen::V	bow	согнуть	[BSP:den Arm]	[EX:the arm]	[НАПР:руку]	BEND	2004	BEND	
+842	286	-1,592001	biegen::V	bend	погнуть	[BSP:ein Rohr]	[EX:a pipe]	[НАПР:трубу]	BEND_(SOMETHING)	2224	BEND_(SOMETHING)	
+843	604	-0,84799	drehen::V	spin	вертеть	[BSP:einen Spieß]	[EX:a skewer]	[НАПР:вертел]	TURN_(SOMETHING)	1445	TURN_(SOMETHING)	
+844	647	-0,744863	wenden::V	turn over	перевернуть	[BSP:Pfannkuchen, Fleischstücke]	[EX:pancakes, pieces of meat]	[положить на другую сторону, НАПР:блины, куски мяса]	<NA>	0	FLIP	
+845	967	0,62789	umdrehen::V	turn, turn around	повернуть, поворачивать	[BSP:die Hand]	[EX:palm]	[НАПР:ладонь]	<NA>	0	TURN_AROUND_(SOMETHING)	
+846	221	-1,750496	heben::V	raise	поднимать	[BSP:die Hand]	[EX:one's hand]	[переместить в верхнее положение, НАПР:руку, голову]	RAISE	1317	RAISE	
+847	504	-1,073664	hochheben::V	lift	поднять	[BSP:eine Kiste]	[EX:a box]	[что-то тяжёлое, НАПР:ящик]	LIFT	501	LIFT	
+848	860	-0,113547	ergreifen::V	seize	схватить	[in die Hand nehmen, BSP:ein Messer]	[grab, EX:a knife]	[хватать, НАПР:нож]	GRASP	2021	GRASP	
+849	93	-2,260106	halten::V	hold	держать	[in Händen]	[in one's hands]	[в руках]	HOLD	1448	HOLD	
+850	364	-1,403148	drücken::V	press	нажимать	[Druck erzeugen auf]	[exert weight or force against]	[надавливать]	PRESS	1913	PRESS	
+851	868	-0,087342	schieben::V	push	толкать	[BSP:eine Kiste]	[shove, EX:a box]	[НАПР:ящик]	PUSH	1452	PUSH	
+852	807	-0,340778	kratzen::V	scrape	скрести	[BSP:mit Messer auf Teller]	[EX:a plate using a knife]	[НАПР:ножом по тарелке]	SCRAPE	1767	SCRAPE	
+853	148	-2,002041	lecken::V	lick	лизать	[BSP:eine Wunde]	[EX:a wound]	[НАПР:рану]	LICK	319	LICK	
+854	266	-1,639337	beißen::V	bite	кусать, укусить	[BSP:ein Kind, von einem Hund]	[EX:a child, of a dog]	[НАПР:собака укусила ребёнка]	BITE	1403	BITE	
+855	522	-1,019245	abreißen::V	tear off	оторвать	[BSP:Arm einer Puppe]	[EX:a doll's arm]	[НАПР:руку у куклы]	TEAR_(SHRED)	1735	TEAR_(SHRED)	
+856	760	-0,478726	abschneiden::V	cut off	отрезать	[BSP:ein Stück Kuchen]	[EX:a piece of cake]	[НАПР:кусок пирога]	<NA>	0	CUT_OFF	
+857	52	-2,472992	binden::V	tie	связать	[BSP:mit einem Seil]	[EX:using a rope]	[НАПР:верёвкой]	TIE	1917	TIE	
+858	649	-0,738414	stecken::V	stick	воткнуть	[hineinstecken, BSP:Zweig in Loch]	[EX:a twig into a hole]	[НАПР:палку в землю]	<NA>	0	STICK_(SOMETHING)	
+859	209	-1,778073	brechen::V	break	сломать	[BSP:einen Knochen]	[EX:a bone]	[НАПР:кость]	BREAK_(DESTROY_OR_GET_DESTROYED)	680	BREAK_(DESTROY_OR_GET_DESTROYED)	
+860	790	-0,392148	klopfen::V	knock	стучать	[BSP:an eine Wand]	[EX:on a wall]	[НАПР:по стене]	KNOCK	2396	KNOCK	
+861	322	-1,490448	hauen::V	hit	ударить	[BSP:auf einen Tisch]	[on purpose, EX:a table]	[EX:по столу]	HIT	1433	HIT	
+862	609	-0,841727	kleben::V	glue	клеить, приклеить	[BSP:ein Plakat an eine Wand]	[EX:a poster to a wall]	[НАПР:афишу к стене]	<NA>	0	GLUE_(SOMETHING)	
+863	366	-1,396142	reiben::V	rub	тереть	[reiben an, BSP:das Glas mit einem Tuch]	[EX:glass with a rag]	[НАПР:мехом о камень]	RUB	1449	RUB	
+864	329	-1,477395	streichen::V	spread	намазать	[aufstreichen, BSP:Fett auf Oberfläche]	[EX:fat on a surface]	[НАПР:жир на поверхность]	<NA>	0	SPREAD_(SOMETHING)	
+865	626	-0,79971	schleifen::V	sharpen	точить	[BSP:ein Messer]	[EX:a knife]	[НАПР:нож]	SHARPEN (SOMETHING)	251	SHARPEN (SOMETHING)	
+866	293	-1,570564	schneiden::V	cut	резать	[BSP:Papier]	[EX:paper]	[НАПР:бумагу]	CUT	1432	CUT	
+867	929	0,35263	rütteln::V	jog	шатать	[BSP:an einer Tür]	[EX:on a door]	[НАПР:дверь]	<NA>	0	JOG	
+868	474	-1,139991	schütteln::V	shake	трясти	[BSP:eine Flasche]	[EX:a bottle]	[НАПР:бутылку]	SHAKE	1909	SHAKE	
+869	520	-1,025247	schwenken::V	swing	махать	[BSP:eine Fahne, ein Tuch]	[EX:a flag, cloth]	[НАПР:знаменем, платком]	<NA>	0	SWING_(SOMETHING)	
+870	283	-1,600002	schütten::V	pour	налить	[BSP:Wasser in ein Glas]	[EX:water into a glass]	[НАПР:воду в стакан]	POUR	1487	POUR	
+871	200	-1,81008	füllen::V	fill	наполнить	[BSP:ein Glas mit Wasser]	[EX:a glass with water]	[НАПР:стакан водой]	FILL	2006	FILL	
+872	505	-1,07274	einwickeln::V	wrap	завернуть	[BSP:einen Fisch mit Papier]	[EX:a fish in paper]	[НАПР:рыбу в бумагу]	WRAP	1113	WRAP	
+873	371	-1,385959	tragen::V	carry	нести	[BSP:eine Kiste]	[EX:a box]	[НАПР:ящик]	CARRY	700	CARRY	
+874	736	-0,525092	schleppen::V	drag	тащить	[BSP:Baumstamm]	[EX:the trunk of a tree]	[НАПР:ствол дерева]	DRAG	2030	DRAG	
+875	219	-1,760575	ziehen::V	pull	тянуть	[BSP:an einer Schnur]	[EX:a rope]	[НАПР:верёвку]	PULL	1455	PULL	
+876	635	-0,781575	aufbewahren::V	keep	хранить	[BSP:Lebensmittel Geld]	[EX:food, money]	[НАПР:продукты, деньги]	KEEP	1477	KEEP	
+877	723	-0,554351	werfen::V	throw	бросать	[BSP:einen Ball]	[EX:a ball]	[НАПР:мяч]	THROW	1456	THROW	
+878	285	-1,592343	fangen::V	catch	ловить	[auffangen, BSP:Ball]	[EX:a ball]	[НАПР:мяч]	CATCH	702	CATCH	
+879	873	-0,045431	packen::V	grab	схватить	[BSP:jemandes Arm]	[EX:someone's arm]	[НАПР:за руку]	<NA>	0	GRAB_(SOMETHING)	
+880	410	-1,288558	verstecken::V	hide	спрятать	[]	[]	[]	HIDE_(CONCEAL)	602	HIDE_(CONCEAL)	
+881	150	-1,994771	teilen::V	divide	разделить	[zerteilen]	[split into parts]	[разъединить]	DIVIDE	1119	DIVIDE	
+882	337	-1,459681	schicken::V	send	посылать	[BSP: einen Brief]	[EX:a letter]	[НАПР:письмо]	SEND	1127	SEND	
+883	145	-2,0139	bringen::V	bring	принести	[]	[]	[]	BRING	692	BRING	
+884	750	-0,491771	hinzufügen::V	add	добавить	[]	[]	[]	<NA>	0	ADD	
+885	102	-2,221503	bekommen::V	get	достать	[beschaffen, sich verschaffen]	[obtain, EX:an important item]	[]	GET	694	GET	
+886	251	-1,676509	erhalten::V	receive	получить	[empfangen]	[be given]	[]	<NA>	0	RECEIVE	
+887	11	-3,037664	nehmen::V	take	взять	[]	[]	[]	TAKE	1749	TAKE	
+888	233	-1,726605	wählen::V	choose	выбрать	[die Wahl haben zwischen]	[]	[]	CHOOSE	1750	CHOOSE	
+889	437	-1,225686	auswählen::V	select	отобрать	[sich entscheiden zwischen, aussuchen]	[]	[]	<NA>	0	SELECT	
+890	769	-0,452355	bewahren::V	preserve	сохранить	[aufrechterhalten, unverändert lassen]	[]	[]	PRESERVE	1997	PRESERVE	
+891	948	0,467861	behindern::V	hinder	препятствовать	[]	[]	[НАПР:движению]	HINDER	554	HINDER	
+892	886	0,02841	verderben::V	spoil	испортить	[BSP:Laune]	[EX:the mood]	[НАПР:настроение]	SPOIL_(SOMEBODY_OR_SOMETHING)	92	SPOIL_(SOMEBODY_OR_SOMETHING)	
+893	859	-0,117062	beschädigen::V	damage	повредить	[BSP:Haus, Fahrzeug]	[EX:a house, a vehicle]	[НАПР:дом, машину]	DAMAGE	1116	DAMAGE	
+894	535	-0,982461	zerbrechen::V	break	разбить	[BSP:einen Teller]	[EX:a plate]	[НАПР:тарелку]	BREAK_(CLEAVE)	2558	BREAK_(CLEAVE)	
+895	513	-1,045133	zerreißen::V	tear	разорвать	[BSP:Lappen]	[EX:a cloth]	[НАПР:тряпку]	<NA>	0	SHRED	TEAR_(SHRED) is described as “tear apart from” (see abreißen::V), and not as “shred”
+896	818	-0,275699	zerstören::V	destroy	разрушить	[BSP:Dorf]	[EX:a village]	[НАПР:село]	DESTROY	681	DESTROY	
+897	289	-1,583587	verbrennen::V	burn	сжечь	[BSP:Papier, Holz]	[EX:paper, wood]	[НАПР:бумагу, дрова]	BURN_(SOMETHING)	141	BURN_(SOMETHING)	
+898	2	-3,482883	geben::V	give	дать	[allgemein, BSP:Gegenstand]	[]	[]	GIVE	1447	GIVE	
+899	309	-1,539581	reichen::V	hand	передать	[hinüberreichen, BSP:dsa Salz bei Tisch]	[BSP:salt at table]	[НАПР:соль за столом]	<NA>	0	PASS_(SOMETHING)	
+900	745	-0,504299	schenken::V	give	дарить	[BSP:ein Buch]	[as a present, EX:a book]	[НАПР:книгу]	DONATE	196	DONATE	
+901	811	-0,321625	versprechen::V	promise	обещать	[]	[]	[]	PROMISE	1675	PROMISE	
+902	588	-0,875626	wünschen::V	wish	желaть	[jm etwas, BSP:Glück]	[ЕX:luck]	[НАПР:счастья]	<NA>	0	WISH_(SOMEONE_SOMETHING)	
+903	261	-1,642721	loben::V	praise	хвалить	[]	[]	[]	PRAISE	1687	PRAISE	
+904	724	-0,551244	küssen::V	kiss	целовать	[]	[]	[]	KISS	578	KISS	
+905	615	-0,833801	wiegen::V	rock	качать	[ein Kind in den Schlaf]	[a child]	[ребёнка]	<NA>	0	ROCK_(A_CHILD)	
+906	308	-1,541124	zudecken::V	cover	накрыть	[BSP:ein Kind mit einer Decke]	[EX:a child with a blanket]	[НАПР:ребёнка одеялом]	<NA>	0	COVER_(A_CHILD)	
+907	388	-1,342837	wecken::V	wake	разбудить	[]	[]	[]	<NA>	0	WAKE	
+908	340	-1,454715	zeigen::V	show	показать	[]	[]	[]	SHOW	1039	SHOW	
+909	508	-1,057343	führen::V	guide	вести	[BSP:ans Ziel]	[EX:to one's destination]	[НАПР:к цели]	<NA>	0	GUIDE_(TO_DESTINATION)	not distinct from LEAD (GUIDE)
+910	369	-1,391239	lehren::V	teach	учить	[beibringen, BSP:Schwimmen, Nähen]	[EX:to swim, to sew]	[НАПР:плавать, шитью]	TEACH	709	TEACH	
+911	704	-0,61729	unterrichten::V	instruct	преподавать, обучать	[BSP:Kinder]	[EX:children]	[НАПР:детям]	<NA>	0	INSTRUCT	
+912	764	-0,465493	aufziehen::V	bring up	растить	[großziehen, BSP:ein Kind]	[raise, ЕX:a child]	[НАПР:ребёнка]	RAISE_(A_CHILD)	2134	RAISE_(A_CHILD)	
+913	796	-0,371896	leiten::V	lead	руководить	[anführen]	[]	[]	LEAD_(GUIDE)	43	LEAD_(GUIDE)	
+914	924	0,308072	antreiben::V	urge	подгонять	[zur Eile treiben]	[]	[торопить]	<NA>	0	URGE_(SOMEONE)	
+915	814	-0,308394	lassen::V	let	заставить	[]	[]	[кого-либо сделать что-то]	<NA>	0	CAUSE_SOMEONE_TO	
+916	557	-0,947427	einladen::V	invite	пригласить	[nach Hause]	[to one's place]	[домой]	INVITE	1611	INVITE	
+917	816	-0,281565	vereinigen::V	unite	объединить	[]	[]	[]	JOIN	1743	JOIN	
+918	962	0,599967	besuchen::V	visit	повидать, посетить	[BSP:einen Freund]	[EX:a friend]	[НАПР:друга]	VISIT	1377	VISIT	
+919	758	-0,481395	treffen::V	meet	встретить	[jemanden]	[someone]	[кого-то]	<NA>	0	ENCOUNTER	not MEET
+920	833	-0,238883	sich versammeln::V	assemble	собраться	[von einer Gruppe]	[of a group]	[о группе]	MEET	1831	MEET	
+921	439	-1,220828	spielen::V	play	играть	[BSP:von Kindern]	[EX:of children]	[НАПР:о детях]	PLAY	1413	PLAY	
+922	275	-1,620117	singen::V	sing	петь	[]	[]	[]	SING	1261	SING	
+923	685	-0,652985	tanzen::V	dance	плясать, танцевать	[]	[]	[]	DANCE	1879	DANCE	
+924	893	0,06391	sich trennen::V	separate	разойтись	[verschiedener Wege gehen]	[part ways]	[]	<NA>	0	PART_WAYS	
+925	376	-1,375487	verlassen::V	leave	покинуть	[jemanden]	[someone]	[кого-то]	<NA>	0	LEAVE_(SOMEONE)	
+926	658	-0,721409	retten::V	rescue	спасти	[jemanden]	[someone]	[кого-то]	RESCUE	2008	RESCUE	
+927	737	-0,523238	bewachen::V	guard	охранять	[BSP:Gebäude]	[EX:a building]	[НАПР:здание]	<NA>	0	GUARD_(SOMEONE)	POS
+928	748	-0,494972	schützen::V	protect	уберегать	[Person]	[a person]	[человека]	<NA>	0	PROTECT	
+929	700	-0,623868	verteidigen::V	defend	защитить	[BSP:Stadt, Staat]	[EX:city, state]	[НАПР:город, государство]	DEFEND	1330	DEFEND	
+930	546	-0,967805	sich schlagen::V	brawl	драться	[sich prügeln]	[]	[]	<NA>	0	BRAWL	
+931	350	-1,43346	schießen::V	shoot	стрелять	[BSP:mit einem Gewehr]	[EX:with a gun]	[НАПР:из ружья]	SHOOT	1172	SHOOT	
+932	515	-1,03437	siegen::V	win	победить	[]	[]	[]	WIN	866	WIN	
+933	955	0,505035	ärgern::V	annoy	сердить	[]	[]	[]	<NA>	0	ANNOY	
+934	558	-0,946352	schlagen::V	beat	ударить	[jemanden]	[someone]	[кого-то]	BEAT	1665	BEAT	
+935	856	-0,124994	treten::V	kick	пнуть	[jemanden, einen Hund]	[someone, a dog]	[кого-то, собаку]	KICK	1135	KICK	
+936	606	-0,845148	stechen::V	sting	уколоть	[BSP:mit einer Nadel]	[EX:with a needle]	[НАПР:иглой]	STING	571	STING	
+937	684	-0,656466	stoßen::V	shove	толкнуть	[jemanden]	[someone]	[кого-то]	<NA>	0	SHOVE_(SOMEONE)	
+938	228	-1,73904	stehlen::V	steal	украсть	[]	[]	[]	STEAL	713	STEAL	
+939	901	0,13309	stören::V	disturb	помешать	[]	[]	[]	<NA>	0	DISTURB_(SOMEONE)	
+940	966	0,625794	belästigen::V	bother	беспокоить, потревожить	[]	[]	[]	<NA>	0	BOTHER	
+941	598	-0,861851	verbergen::V	conceal	скрыть	[BSP:eine Tatsache]	[EX:a fact]	[НАПР:факт]	<NA>	0	CONCEAL	
+942	862	-0,096565	täuschen::V	deceive	обмануть	[in die Irre führen]	[]	[ввести в заблуждение]	<NA>	0	DECEIVE	
+943	961	0,579686	betrügen::V	cheat	смошенничать	[BSP:jemanden um Geld]	[EX:someone of money]	[]	BETRAY	1902	BETRAY	
+944	76	-2,328426	töten::V	kill	убить	[]	[]	[]	KILL	1417	KILL	
+945	324	-1,487722	wohnen::V	dwell	проживать, жить	[]	[]	[]	DWELL_(LIVE,_RESIDE)	363	DWELL_(LIVE,_RESIDE)	
+946	650	-0,737503	arbeiten::V	work	работать	[]	[]	[]	WORK_(ACTIVITY)	1086	WORK_(ACTIVITY)	
+947	428	-1,244594	sammeln::V	gather	собрать	[BSP:Pilze, Beeren]	[EX:mushrooms, berries]	[НАПР:грибы, ягоды]	GATHER	7	GATHER	
+948	544	-0,969326	pflücken::V	pick	рвать	[BSP:einen Apfel]	[EX:an apple]	[НАПР:яблоко с дерева]	PICK	2148	PICK	
+949	673	-0,696218	jagen::V	hunt	охотиться	[auf die Jagd gehen]	[]	[]	HUNT	1435	HUNT	
+950	916	0,188242	fischen::V	fish	рыбачить	[]	[catch fish]	[ловить рыбу]	<NA>	0	CATCH_FISH	
+951	416	-1,273761	fassen::V	catch	поймать	[erbeuten, fangen]	[an animal]	[животное на охоте]	<NA>	0	CATCH_(AN_ANIMAL)	
+952	590	-0,872541	hüten::V	herd	пасти	[Vieh]	[cattle]	[скот]	<NA>	0	HERD_(CATTLE)	
+953	282	-1,604607	treiben::V	drive	гнать	[Vieh]	[cattle]	[скот]	<NA>	0	DRIVE_(CATTLE)	
+954	276	-1,618999	anbinden::V	tie up	привязать	[ein Tier]	[an animal]	[животное]	<NA>	0	TIE_UP	
+955	528	-1,006449	füttern::V	feed	кормить	[ein Tier]	[an animal]	[животное]	FEED	739	FEED	
+956	249	-1,686193	melken::V	milk	доить	[eine Kuh]	[a cow]	[корову]	DRAW_MILK	93	DRAW_MILK	
+957	621	-0,806171	hacken::V	chop	рубить	[BSP:Kohl]	[EX:kale]	[НАПР:капусту]	CHOP	155	CHOP	
+958	323	-1,487874	gießen::V	water	полить	[BSP:Blumen]	[EX:flowers]	[НАПР:цветы]	<NA>	0	WATER_(A_PLANT)	
+959	589	-0,872859	reifen::V	ripen	созреть	[von einer Pflanze, einer Frucht]	[of a plant, of a fruit]	[о растении, о плоде]	RIPEN	179	RIPEN	
+960	585	-0,8835	zubereiten::V	cook	приготовить	[BSP:eine Speise]	[EX:a meal]	[НАПР:блюдо]	COOK_(SOMETHING)	1100	COOK_(SOMETHING)	
+961	136	-2,047943	kochen::V	boil	варить	[BSP:Gemüse]	[EX:vegetables]	[НАПР:овощи]	BOIL_(SOMETHING)	2492	BOIL_(SOMETHING)	
+962	475	-1,138628	backen::V	bake	печь	[BSP:Brot, einen Kuchen]	[EX:bread, a cake]	[НАПР:хлеб, пирог]	BAKE	183	BAKE	
+963	536	-0,980833	braten::V	fry	жарить	[BSP:Fleisch]	[EX:meat]	[НАПР:мясо]	FRY	991	FRY	
+964	567	-0,929943	umrühren::V	stir	помешать, перемешать	[BSP:Suppe]	[EX:soup]	[НАПР:суп]	<NA>	0	STIR_(SOMETHING)	
+965	419	-1,270283	stricken::V	knit	вязать	[BSP:eine Jacke]	[EX:a jacket]	[НАПР:кофту]	<NA>	0	KNIT	
+966	94	-2,257639	nähen::V	sew	шить	[]	[]	[]	SEW	1457	SEW	
+967	820	-0,27341	färben::V	dye	покрасить	[BSP:Haare]	[EX:hair]	[НАПР:волосы]	DYE	157	DYE	
+968	836	-0,23444	reinigen::V	clean	очистить, почистить	[BSP:mit einer Bürste]	[EX:using a brush]	[НАПР:щёткой]	CLEAN_(SOMETHING)	2235	CLEAN_(SOMETHING)	
+969	101	-2,230289	waschen::V	wash	стирать	[BSP:Wäsche]	[EX:clothes]	[НАПР:бельё]	WASH	1453	WASH	
+970	622	-0,805718	abwischen::V	wipe	вытереть	[]	[]	[]	WIPE	1454	WIPE	
+971	628	-0,793587	spülen::V	rinse	полоскать	[BSP:Wäsche, Geschirr]	[EX:clothes, dishes]	[НАПР:бельё, посуду]	<NA>	0	RINSE	
+972	408	-1,306639	fegen::V	sweep	подметать	[BSP:Zimmer]	[EX:a room]	[НАПР:комнату]	SWEEP	230	SWEEP	not SWEEP
+973	773	-0,434864	kehren::V	sweep	мести	[BSP:Laub]	[EX:leaves]	[НАПР:листья, двор]	<NA>	0	SWEEP_(SOMETHING)	
+974	576	-0,90615	baden::V	bath	купаться	[BSp:in einem Fluss]	[EX:in a river]	[НАПР:в реке]	BATHE	138	BATHE	
+975	424	-1,251453	sich waschen::V	wash	мыться	[]	[]	[]	<NA>	0	WASH_(ONESELF)	
+976	755	-0,48271	ausziehen::V	take off	снять	[BSP:den Mantel]	[EX:one's coat]	[НАПР:пальто]	<NA>	0	TAKE_OFF	
+977	607	-0,844519	anziehen::V	put on	надеть	[BSP:den Mantel]	[EX:one's coat]	[НАПР:пальто]	PUT_ON	158	PUT_ON	
+978	742	-0,509286	sich anziehen::V	get dressed	одеться	[]	[]	[]	DRESS_UP	814	DRESS_UP	
+979	646	-0,751208	kämmen::V	comb	причесать	[]	[]	[кого-то, НАПР:дочь]	COMB_(VERB)	2070	COMB_(VERB)	
+980	809	-0,330631	schmücken::V	decorate	украсить	[BSP:ein Haus]	[EX:a house]	[НАПР:дом]	DECORATE	1739	DECORATE	
+981	114	-2,158457	sagen::V	say	сказать	[]	[]	[]	SAY	1458	SAY	
+982	345	-1,445579	sprechen::V	speak	говорить	[]	[]	[]	SPEAK	1623	SPEAK	
+983	812	-0,320568	reden::V	talk	разговаривать	[]	[]	[]	<NA>	0	TALK_(TO_SOMEONE)	
+984	987	0,992396	sich unterhalten::V	chat	беседовать	[]	[]	[]	<NA>	0	CHAT_(ACTIVITY)	
+985	643	-0,756512	fragen::V	ask	спросить	[]	[]	[]	ASK_(INQUIRE)	1309	ASK_(INQUIRE)	
+986	214	-1,771588	bitten::V	request	просить	[]	[]	[]	ASK_(REQUEST)	1828	ASK_(REQUEST)	
+987	829	-0,253267	erzählen::V	tell	рассказать	[]	[]	[]	TELL	1711	TELL	
+988	762	-0,470104	mitteilen::V	convey	сообщить	[]	[]	[]	<NA>	0	CONVEY_(A_MESSAGE)	
+989	991	1,056512	nennen::V	name	назвать	[benennen]	[give a name to]	[давать имя]	CALL_BY_NAME	180	CALL_BY_NAME	
+990	468	-1,147637	rufen::V	call	звать, позвать	[herbeirufen]	[someone to come]	[кого-то]	CALL	1084	CALL	
+991	998	1,320687	prahlen::V	brag	хвастаться	[]	[]	[]	BOAST	101	BOAST	
+992	942	0,437371	übersetzen::V	translate	перевести	[BSP:Text]	[EX:text]	[НАПР:текст]	<NA>	0	TRANSLATE	
+993	577	-0,905234	denken::V	think	думать	[]	[]	[]	THINK_(REFLECT)	2271	THINK_(REFLECT)	
+994	196	-1,825419	glauben::V	believe	верить	[]	[]	[]	BELIEVE	1890	BELIEVE	
+995	852	-0,149321	bemerken::V	notice	заметить	[merken, sich bewusst werden]	[]	[]	<NA>	0	NOTICE	
+996	328	-1,483136	erkennen::V	recognize	узна́ть	[wiedererkennen]	[]	[]	<NA>	0	RECOGNIZE	
+997	771	-0,442509	begreifen::V	grasp	пости́чь, поня́ть	[verstandesmäßig]	[understand, become aware of the meaning of]	[усвоить смысл чего-либо]	UNDERSTAND	1536	UNDERSTAND	
+998	438	-1,223614	verstehen::V	understand	услышать	[akustisch, BSP:einen Zuruf]	[acoustically, EX:a call]	[НАПР:оклик]	<NA>	0	UNDERSTAND_(ACOUSTICALLY)	
+999	391	-1,337368	lernen::V	learn	учиться	[BSP:zu nähen]	[EX:to sew]	[НАПР:шитью]	LEARN	504	LEARN	
+1000	64	-2,394674	wissen::V	know	знать	[Kenntnis haben von]	[be aware of]	[быть осведомленным о]	KNOW_(SOMETHING)	1410	KNOW_(SOMETHING)	
+1001	864	-0,092023	sich erinnern an::V	remember	вспомнить	[aus dem Gedächtnis zurückholen]	[recall from one's memory]	[вернуться мыслью к]	REMEMBER	707	REMEMBER	
+1002	501	-1,077742	vergessen::V	forget	забыть	[die Erinnerung verlieren an]	[lose remembrance of]	[утратить воспоминание о]	FORGET	1523	FORGET	
+1003	315	-1,509279	messen::V	measure	мерить	[BSP:die Höhe bestimmen von]	[EX:ascertain the height of]	[НАПР:определять величину чего-либо]	MEASURE	1506	MEASURE	
+1004	299	-1,551128	zählen::V	count	считать	[die Anzahl bestimmen von]	[determine the number of]	[перечислять по порядку]	COUNT	1420	COUNT	
+1005	680	-0,667109	rechnen::V	calculate	считать	[mit Zahlen]	[reckon]	[вычислять]	<NA>	0	CALCULATE	
+1006	79	-2,32331	lesen::V	read	читать	[BSP:Buch]	[EX:a book]	[НАПР:книгу]	READ	724	READ	
+1007	789	-0,392526	malen::V	paint	рисовать	[BSP:Bild]	[EX:a picture]	[НАПР:картину]	PAINTING	2001	PAINTING	
+1008	738	-0,521588	zeichnen::V	draw	рисовать	[BSP:Linie]	[EX:a line]	[НАПР:линию]	<NA>	0	DRAW_(WITH_PEN)	
+1009	168	-1,927829	schreiben::V	write	писать	[BSP:Brief]	[EX:a letter]	[НАПР:письмо]	WRITE	1672	WRITE	
+1010	352	-1,427095	besitzen::V	own	иметь	[als Eigentum haben]	[possess]	[в своей собственности]	OWN	684	OWN	
+1011	139	-2,032848	kaufen::V	buy	купить	[BSP:Ware]	[EX:goods]	[НАПР:товар]	BUY	1869	BUY	
+1012	140	-2,029052	verkaufen::V	sell	продать	[BSP:Ware]	[EX:goods]	[НАПР:товар]	SELL	1571	SELL	
+1013	198	-1,822012	bezahlen::V	pay for	заплатить	[BSP:Ware]	[EX:goods]	[НАПР:за товар]	<NA>	0	PAY_FOR	
+1014	235	-1,715766	zahlen::V	pay	платить	[BSP:im Restaurant]	[EX:in a restaurant]	[НАПР:в ресторане]	PAY	718	PAY	
+1015	899	0,118183	beherrschen::V	rule	владеть	[BSP:Land]	[EX:country]	[НАПР:страной]	RULE	1846	RULE	
+1016	751	-0,491453	ertragen::V	endure	вытерпеть	[BSP:Schmerz]	[EX:pain]	[выдержать, НАПР:боль]	ENDURE	833	ENDURE	
