@@ -6,11 +6,12 @@ Usage: python3 scripts/egy_find_missing.py [--limit N]
 """
 import os
 import sys
+import unicodedata
 from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from egy_dict_common import (PROJECT_ROOT, Transcriber, glyph_key, gloss_keys,
-                             load_kaikki, load_my_dictionary)
+from egy_dict_common import (PROJECT_ROOT, REFERENCE_LOADERS, Transcriber, glyph_key,
+                             gloss_keys, load_my_dictionary)
 
 OUTPUT_MD = os.path.join(PROJECT_ROOT, 'probes', 'egyptian_missing_entries.md')
 OUTPUT_TSV = os.path.join(PROJECT_ROOT, 'probes', 'egyptian_missing_entries.tsv')
@@ -18,14 +19,23 @@ MAX_GLOSSES_PER_ENTRY = 4
 MAX_GLOSS_LENGTH = 160
 MIN_PREFIX_OVERLAP = 2
 MAX_SIMILAR_SHOWN = 2
+SECTIONS = [
+    ('missing_attested', 'Missing entries with an attested hieroglyphic writing',
+     'Neither the glyph sequence nor the meaning is in my dictionary, and the source supplied the writing.'),
+    ('missing_reconstructed', 'Missing entries whose writing had to be reconstructed',
+     'The source gave only a transliteration, so the hieroglyphs were spelled out uniliterally. Verify before use.'),
+    ('new_writing', 'Alternative writings for meanings already in the dictionary',
+     'The meaning is present but under a different glyph sequence.'),
+    ('no_english_gloss', 'Unknown glyph sequences whose source gloss is not English',
+     'Glyph sequence absent from my dictionary; the gloss could not be compared because it is not in English.'),
+]
 GLYPH_SPACING = ' '
 
 
 def load_reference_records():
     """All reference dictionaries, each as {source, translit, mdc, pos, glosses}."""
-    loaders = [('wiktionary', load_kaikki)]
     records = []
-    for name, loader in loaders:
+    for name, loader in REFERENCE_LOADERS:
         loaded = loader()
         print(f'  {name}: {len(loaded)} records', file=sys.stderr)
         records.extend(loaded)
@@ -58,9 +68,19 @@ def spaced(glyphs):
     return GLYPH_SPACING.join(glyphs)
 
 
+def has_latin_gloss(record):
+    """True when at least one gloss is written in the Latin script only."""
+    for gloss in record['glosses']:
+        letters = [c for c in gloss if c.isalpha()]
+        if letters and all('LATIN' in unicodedata.name(c, '') for c in letters):
+            return True
+    return False
+
+
 def classify(records, by_glyphs, by_gloss, transcriber):
-    """Splits reference records into fully missing, new-writing-only, and already-covered."""
-    missing, new_writing, covered, untranscribable = [], [], [], []
+    """Buckets reference records by how confidently they are missing from my dictionary."""
+    buckets = {name: [] for name, _, _ in SECTIONS}
+    covered, untranscribable = [], []
     for record in records:
         glyphs, resolved = transcriber.transcribe(record['mdc'])
         if not glyphs:
@@ -78,16 +98,41 @@ def classify(records, by_glyphs, by_gloss, transcriber):
         record['similar'] = [] if known_glyphs else similar_existing(key, by_glyphs)
         if known_glyphs:
             covered.append(record)
+        elif not has_latin_gloss(record):
+            buckets['no_english_gloss'].append(record)
         elif matched_glosses:
-            new_writing.append(record)
+            buckets['new_writing'].append(record)
+        elif record.get('from_transliteration'):
+            buckets['missing_reconstructed'].append(record)
         else:
-            missing.append(record)
-    return missing, new_writing, covered, untranscribable
+            buckets['missing_attested'].append(record)
+    return buckets, covered, untranscribable
+
+
+def merge_by_writing(records):
+    """One proposal per glyph sequence, pooling the glosses and the sources that attest it."""
+    merged = {}
+    for record in sorted(records, key=lambda r: r['source']):
+        pooled = merged.get(record['glyphs'])
+        if pooled is None:
+            merged[record['glyphs']] = dict(record, sources=[record['source']],
+                                            translits=[record['translit']] if record['translit'] else [])
+            continue
+        for gloss in record['glosses']:
+            if gloss not in pooled['glosses']:
+                pooled['glosses'].append(gloss)
+        if record['source'] not in pooled['sources']:
+            pooled['sources'].append(record['source'])
+        if record['translit'] and record['translit'] not in pooled['translits']:
+            pooled['translits'].append(record['translit'])
+        pooled['resolved'] = pooled['resolved'] or record['resolved']
+    return sorted(merged.values(), key=lambda r: (-len(r['sources']), r['translits'][:1], r['glyphs']))
 
 
 def format_row(record):
     glosses = '; '.join(g[:MAX_GLOSS_LENGTH].rstrip() for g in record['glosses'][:MAX_GLOSSES_PER_ENTRY])
-    note = f"{record['translit']} ({record['pos']}) [{record['source']}]"
+    note = '{} ({}) [{}]'.format(', '.join(record.get('translits') or [record['translit']]),
+                                 record['pos'], ', '.join(record.get('sources') or [record['source']]))
     if not record.get('resolved'):
         note += ' ~approx'
     if record.get('from_transliteration'):
@@ -97,11 +142,11 @@ def format_row(record):
     return spaced(record['glyphs']), glosses, note
 
 
-def write_outputs(missing, new_writing, covered, untranscribable, my_count, skipped):
+def write_outputs(buckets, covered, untranscribable, my_count, skipped):
     with open(OUTPUT_TSV, 'w', encoding='utf-8') as tsv:
         tsv.write('status\tglyphs\tmeaning\tnote\tsimilar_in_my_dictionary\n')
-        for status, group in (('missing', missing), ('new_writing', new_writing)):
-            for record in group:
+        for status, _, _ in SECTIONS:
+            for record in merge_by_writing(buckets[status]):
                 glyphs, meaning, note = format_row(record)
                 tsv.write('\t'.join((status, glyphs, meaning, note.split(' | mine: ')[0],
                                      ' ; '.join(record.get('similar', [])))) + '\n')
@@ -109,18 +154,22 @@ def write_outputs(missing, new_writing, covered, untranscribable, my_count, skip
     with open(OUTPUT_MD, 'w', encoding='utf-8') as md:
         md.write('# Proposed additions to my_egyptian_dictionary.csv\n\n')
         md.write(f'- my dictionary: **{my_count}** parsed entries ({skipped} unparseable lines skipped)\n')
-        md.write(f'- reference entries checked: **{len(missing) + len(new_writing) + len(covered) + len(untranscribable)}**\n')
+        total = sum(len(g) for g in buckets.values()) + len(covered) + len(untranscribable)
+        md.write(f'- reference entries checked: **{total}**\n')
         md.write(f'- already covered (same glyph sequence present): **{len(covered)}**\n')
-        md.write(f'- **missing** (neither glyph sequence nor meaning present): **{len(missing)}**\n')
-        md.write(f'- new writing of a meaning I already have: **{len(new_writing)}**\n')
+        for name, title, _ in SECTIONS:
+            md.write(f'- {title.lower()}: **{len(merge_by_writing(buckets[name]))}** distinct writings '
+                     f'({len(buckets[name])} source records)\n')
         md.write(f'- could not be transcribed to Unicode: **{len(untranscribable)}**\n\n')
         md.write('Notes marked `~approx` contain at least one Manuel-de-Codage token that could not be '
                  'resolved; `~spelled-out` means the hieroglyphs were reconstructed uniliterally from the '
                  'transliteration because the source gave no writing. Review both before pasting.\n\n')
-        for title, group in (('Missing entries', missing),
-                             ('Alternative writings for meanings already in the dictionary', new_writing)):
-            md.write(f'\n## {title} ({len(group)})\n\n | glyph | meaning | note | \n | ----- | ------- | ---- | \n')
-            for record in sorted(group, key=lambda r: (not r['resolved'], r['translit'])):
+        for name, title, explanation in SECTIONS:
+            group = merge_by_writing(buckets[name])
+            md.write(f'\n## {title} ({len(group)} distinct writings)\n\n{explanation}\n'
+                     'Rows are ordered by how many independent sources attest the writing.\n\n')
+            md.write(' | glyph | meaning | note | \n | ----- | ------- | ---- | \n')
+            for record in group:
                 md.write(' | {} | {} | {} | \n'.format(*format_row(record)))
 
 
@@ -133,10 +182,11 @@ def main():
     print('loading reference dictionaries…', file=sys.stderr)
     records = load_reference_records()
     transcriber = Transcriber()
-    missing, new_writing, covered, untranscribable = classify(records, by_glyphs, by_gloss, transcriber)
-    write_outputs(missing, new_writing, covered, untranscribable, len(entries), skipped)
-    print(f'missing={len(missing)} new_writing={len(new_writing)} covered={len(covered)} '
-          f'untranscribable={len(untranscribable)}', file=sys.stderr)
+    buckets, covered, untranscribable = classify(records, by_glyphs, by_gloss, transcriber)
+    write_outputs(buckets, covered, untranscribable, len(entries), skipped)
+    for name, _, _ in SECTIONS:
+        print(f'  {name}={len(buckets[name])}', file=sys.stderr)
+    print(f'  covered={len(covered)} untranscribable={len(untranscribable)}', file=sys.stderr)
     print(f'wrote {OUTPUT_MD} and {OUTPUT_TSV}', file=sys.stderr)
 
 
