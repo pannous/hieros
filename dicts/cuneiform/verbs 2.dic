@@ -1,0 +1,2 @@
+npm install -g jsdom canvas jsdom-global
+Missing require: request

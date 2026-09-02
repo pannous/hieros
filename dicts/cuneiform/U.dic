@@ -1,0 +1,534 @@
+npm install -g jsdom canvas jsdom-global
+Missing require: request
+ u  [ ABUSE ]  𒌋  u  "abuse" Akk.  pištu 
+ u  [ ADMIRATION ]  𒅆𒂍  u6  "admiration" 
+ u  [ AND ]  𒅇  u3  "and; but; also" Akk.  u 
+ u  [ BED ]  𒌑  u2  "bed" Akk.  eršu 
+ u  [ BELLOW ]  𒌓  u4  "to bray, bellow, bawl; voice, cry, noise" Akk.  nagāgu ;  rigmu 
+ u  [ CVNE ]  𒌑  u2  "(compound verb nominal element)" 
+ u  [ DEFEAT ]  𒇇;𒌑  u8 ;  u2  "defeat" Akk.  tuqumtu 
+ u  [ EARTH ]  𒌋  u  "earth" Akk.  qaqqaru 
+ u  [ EMERY ]  𒎎𒌑  na4 u2  "emery" 
+ u  [ EWE ]  𒇇;𒇇𒊩;𒁱  u8 ;  u8 munus ;  u10  "sheep, ewe" Akk.  immertu ;  lahru 
+ u  [ FINGER ]  𒌋  u  "finger; toe" Akk.  ubānu 
+ u  [ GIFT ]  𒌋  u  "gift" Akk.  qīštu 
+ u  [ GOOSE ]  𒄷𒋛𒄷;𒄷  u5 mušen ;  u11  "wild goose" 
+ u  [ GRAIN ]  𒊺  u20  "grain" Akk.  û 
+ u  [ HOLE ]  𒌋  u  "hole" Akk.  šīlu 
+ u  [ HORN ]  𒌑  u2  "horn" Akk.  qarnu 
+ u  [ LAND ]  𒄷𒋛;𒅇  u5 ;  u3  "a type of land" 
+ u  [ LOAD ]  𒌑  u2  "load" Akk.  biltu 
+ u  [ PEACE ]  𒌑  u2  "peace" Akk.  ţubtu 
+ u  [ PILE ]  𒄷𒋛  u5  "earth pile" Akk.  šipku 
+ u  [ PITFALL ]  𒌑  u2  "pitfall" Akk.  šuttatu 
+ u  [ PLANKING ]  𒄑𒅇  ĝeš u3  "planking" 
+ u  [ PLANT ]  𒅆𒂍𒊬  u6 sar  "a plant" 
+ u  [ PLANTS ]  𒌑  u2  "bread, loaf; food; grass, herb; pasture; plant(s)" Akk.  akalu ;  rîtu ;  šammu 
+ u  [ PURSLANE ]  𒌓  u4  "purslane" Akk.  puhpuhu 
+ u  [ RIDE ]  𒄷𒋛  u5  "to ride; attatchment to a plow; upper pivot of a door; ship's cabin; to gain control" Akk.  hinnu ;  kašāšu ;  rakābu ;  rikbu ;  šagammu 
+ u  [ SHEPHERD ]  𒄷𒋛  u5  "shepherd" Akk.  rē'û 
+ u  [ SLEEP ]  𒅇  u3  "sleep" Akk.  šittu 
+ u  [ TEN ]  𒂦;𒌋  u9 ;  u  "ten" 
+ u  [ TOTALITY ]  𒌋;𒄷𒋛  u ;  u5  "totality, world" Akk.  kiššatu 
+ u  [ UNMNG ]  𒍇;𒄷𒋛;𒁱;𒇇  u18 ;  u5 ;  u10 ;  u8  "" 
+ u  [ UNMNG ]  𒄷𒋛  u5  "?" Akk.  tabbānu 
+ U  [ STONE ]  𒎎𒌋  na4 U  "type of stone" 
+ U  [ TREE ]  𒄑𒅇  ĝeš U3  "a tree" 
+ u dug  [ ADMIRE ]  𒅆𒂍𒅗  u6  dug4  "to admire; to regard, observe" Akk.  amāru ;  barû 
+ u hub  [ DEAF ]  𒌑𒄸;𒌑𒄸  u2  hub ;  u2  hub2  "to be deaf; to be difficult, obstinate" Akk.  sukkuku 
+ u ku  [ SLEEP ]  𒅇𒆪;𒅇𒆭  u3  ku ;  u3  ku4  "to sleep" Akk.  şalālu 
+ u susu  [ DINE ]  𒌑𒋤𒋤  u2  su3 -su3  "to dine" Akk.  patānu 
+ u susu  [ UNMNG ]  𒌑𒋤𒋤  u2  su3 -su3  "" Akk.  šadāhu 
+ u.DU  [ BIRD ]  𒌑𒁺𒄷  u2 -DU mušen  "a bird" 
+ ua  [ OH ]  𒄷𒋛𒀀;𒇇;𒅇  u5 -a ;  u8 ;  u3  "(a soothing expression); oh" 
+ ua  [ OWL ]  𒄷𒋛𒄷;𒅇𒀀𒄷;𒇇𒀀𒄷  u5 mušen ;  u3 -a mušen ;  u8 -a mušen  "a bird" Akk.  hū'a 
+ ua  [ PROVISIONER ]  𒌑𒀀;𒌋·(𒉺)𒀀  u2 -a ;  u x (PA)-a  "provisioner" Akk.  zāninu 
+ uadi  [ COMPOSITION ]  𒅇𒀀𒁲  u3 -a-di  "type of composition" 
+ uali  [ MOURNER ]  𒅇𒀀𒇷  u3 -a-li  "mourner" Akk.  lallāru 
+ uaši  [ WEED ]  𒌑𒀀𒅆  u2 -a-ši  "a weed" 
+ uAŠKU  [ STAIRCASE ]  𒄑𒅇𒀸𒆪  ĝeš u3 -AŠ.KU  "staircase" Akk.  simmiltu 
+ uaz  [ BIRD ]  𒄷𒋛𒊍𒄷;𒌓𒊍𒄷;𒄷𒋛𒀜𒄷  u5 -az mušen ;  u4 -az mušen ;  u5 -ad mušen  "a bird" 
+ ub  [ CAVITY ]  𒇥  ub4  "cavity" Akk.  huppu 
+ ub  [ CORNER ]  𒌒;𒅁;𒅁𒁉  ub ;  ib ;  ib-bi  "corner, recess" Akk.  tubqu 
+ ub  [ DRUM ]  𒀖·𒊮;𒀖·𒈨𒂗  ub3 ;  ub6  "a drum" Akk.  uppu 
+ ub  [ ENUNCIATE ]  𒌒  ub  "to enunciate" Akk.  têlu 
+ uba  [ UNMNG ]  𒅇𒁀  u3 -ba  "" 
+ ubar  [ FOREIGNER ]  𒌋𒁇  u-bar  "resident alien" Akk.  ubāru 
+ ubara  [ PROTECTION ]  𒂬  ubara  "divine protection" Akk.  kidinnu 
+ ubazu  [ ANIMAL ]  𒅇𒁀𒍪  u3 -ba-zu  "type of animal" 
+ ubi  [ BIRD ]  𒄷𒋛𒉈𒄷;𒌒𒉈𒄷;𒄷𒋛𒄷𒉈  u5 -bi2 mušen ;  ub-bi2 mušen ;  u5 mušen -bi2  "a bird" Akk.  uppû ;  šāt kapru 
+ ubi  [ FISH ]  𒃴𒄩  ubi ku6  "a type of carp" 
+ ubi  [ FISH ]  𒃴;𒋦  ubi ;  ubi2  "a fish" Akk.  abūtu 
+ ubi'abak  [ FISH ]  𒃴𒀊𒁀𒄩  ubi-ab-ba ku6  "a fish" 
+ ubi'abak  [ FISH ]  𒀊𒃴·(𒊺𒋦)𒄩  AB-ubi x (|ŠE+SUHUR|) ku6  "a fish" 
+ ubigal  [ FISH ]  𒃴𒃲𒄩  ubi-gal ku6  "type of fish" 
+ ubila  [ CHARCOAL ]  𒄑𒌑𒉋𒆷;𒄑𒌑𒉋;𒌑𒉈;𒌑𒉋;¿;¿;𒄑𒌑𒄑𒉋𒆷;𒄑𒌑𒄑𒉋  ĝeš u2 -bil2 -la ;  ĝeš u2 -bil2 ;  u2 -bil ;  u2 -bil2 ;  ubila ;  ubila2 ;  ĝeš u2 -bil3 -la ;  ĝeš u2 -bil3  "charcoal" Akk.  upillû 
+ ubila  [ PROFESSION ]  𒌑𒉈  u2 -bil  "charcoal burner" Akk.  upillû 
+ ubina  [ UNMNG ]  𒅇𒁉𒈾  u3 -bi-na  "" 
+ ubisig  [ FISH ]  𒃴𒋧𒄩  ubi-sig10 ku6  "type of fish" 
+ ubisumaš  [ FISH ]  𒃴𒋨𒄩  ubi-sumaš ku6  "a fish" 
+ ubizagubalaĝdikargirzana  [ BIRD ]  𒍣𒍣𒀀𒇷𒄷  |ZI&ZI.A|-li mušen  "a bird" 
+ ublia  [ STREET ]  𒌒𒇷𒀀  ub-li-a  "street" Akk.  sulû 
+ ublilla  [ SHRINE ]  𒌒𒆤𒇲  ub-lil2 -la2  "outdoor shrine" 
+ ubpad  [ UNMNG ]  𒌒𒉻;𒌑𒉻  ub-pad ;  u2 -pad  "" 
+ ubri  [ LANCE ]  𒅆𒆕;𒅆𒁴  ubri ;  ubri2  "lance, spear" Akk.  šukurru 
+ ubšu'unkinak  [ COURT ]  𒌒𒋗𒅗𒈾  ub-šu-unkin-na  "the court of the assembly" 
+ ubu  [ ~OX ]  𒌑𒀀  u2 -bu4  "a designation of oxen" 
+ ububul  [ ECSTATIC ]  𒅇𒁍𒁍𒌌  u3 -bu-bu-ul  "an ecstatic" Akk.  zabbu 
+ ububul  [ LIGHTNING ]  𒅇𒁍𒁍𒌌;𒅇𒁍𒁍  u3 -bu-bu-ul ;  u3 -bu-bu  "lightning flash; flame" Akk.  nablu 
+ ububul  [ PUSTULE ]  𒅇𒁍𒁍𒌌;𒌋𒁍𒁍𒌌;𒌓𒁍𒁍𒌌  u3 -bu-bu-ul ;  u-bu-bu-ul ;  u4 -bu-bu-ul  "a boil, pustule" Akk.  bubu'tu 
+ UBULUG  [ BIRD ]  𒄷𒋛𒉽𒉽𒄷  |HU.SI|.|PAP.PAP| mušen  "a type of bird" 
+ ubur  [ BREAST ]  𒁛;𒁥;𒅇𒁓;𒌑𒁉𒌨  ubur ;  ubur2 ;  u3 -bur ;  u2 -bi-ur  "breast" Akk.  tulû 
+ uburri  [ BIRD ]  𒁛𒊑𒄷;𒁡𒊒𒄷  ubur-ri mušen ;  ubur3 -ru mušen  "a bird" 
+ ubuš  [ UNMNG ]  𒌑𒁍𒍑  u2 -bu-uš  "?" Akk.  ? 
+ ubzal  [ REEDS ]  𒄀𒌒𒉌  gi ub-zal  "young reeds" Akk.  qan tubuqti 
+ ud  [ BIRD ]  𒌓𒄷  ud mušen  "a bird" 
+ ud  [ IF ]  𒌓  ud  "if" Akk.  šumma 
+ ud  [ STORM ]  𒌓  ud  "storm; storm demon" Akk.  ūmu 
+ ud  [ SUN ]  𒌓  ud  "day; heat; a fever; summer; sun" Akk.  immu ;  ummedu ;  umšu ;  šamšu ;  ūmu 
+ ud  [ WHEN ]  𒌓  ud  "when" Akk.  enūma 
+ ud šuš  [ DARKEN ]  𒌓𒋙  ud šu2  "to become dark" Akk.  erēpu ša ūmi 
+ ud zal  [ PASS ]  𒌓𒉌  ud zal  "to pass (said of time); to dawn; to do something at daybreak" Akk.  ? 
+ UD.PA  [ FISH ]  𒌓𒉺𒄩  UD-PA ku6  "a fish" 
+ ud.UR  [ BIRD ]  𒌓𒌨𒄷  ud-UR mušen  "a bird" 
+ udar  [ BIRD ]  𒍖𒁯  uz-dar  "a bird" 
+ udbita  [ FORMER ]  𒌓𒁉𒋫  ud-bi-ta  "former (lit. from those days)" 
+ udda  [ STAND ]  𒌓𒁕  ud-da  "a stand" Akk.  manzaltu 
+ uddammaria  [ YESTERDAY ]  𒌓𒁮𒈠𒊑𒀀  ud-dam-ma-ri-a  "yesterday" 
+ uddatuš  [ JESTER ]  𒌓𒁕𒂉  ud-da-tuš  "jester" 
+ UDGIŠGIŠNUN  [ PLANT ]  𒄑𒈢𒌓𒄒𒉣  ĝeš hašhur UD.GIŠ%GIŠ.NUN  "a plant" Akk.  sippirû 
+ udĝal  [ ILLUMINATING ]  𒌓𒅅  ud-ĝal2  "illuminating" 
+ udĝeš  [ BIRD ]  𒄷𒋛𒄑𒄷;𒌓𒄑  u5 -ĝeš mušen ;  ud-ĝeš  "a bird" Akk.  kilīlu 
+ udĝidadari  [ LATER ]  𒌓𒈪𒁕𒁕𒊑  ud-gi6 -da-da-ri  "later" 
+ udi  [ ADMIRATION ]  𒅆𒂍𒁲  u6 -di  "admiration, (astonished) gaze" Akk.  tabrītu 
+ udi  [ DAZED ]  𒅇𒁲  u3 -di  "(to be) dazed; sleep" Akk.  kâru ;  šittu 
+ udidu  [ RUSHES ]  𒄑𒌑𒁲𒁺  ĝeš u2 -di-du  "rushes" Akk.  udittu 
+ udili  [ TEN ]  𒌑𒁲𒇷;𒌑𒁺𒇷  u2 -di-li ;  u2 -du-li  "ten" 
+ udiliya  [ FIFTEEN ]  𒌑𒁲𒇷𒐊  u2 -di-li-ia  "fifteen" 
+ udkurnuria  [ YESTERDAY ]  𒌓𒆪𒉡𒊑𒀀  ud-ku-nu-ri-a  "yesterday" 
+ udmeda  [ EVER ]  𒌓𒈨𒁕  ud-me-da  "ever, always" Akk.  matīma 
+ udmud  [ DARKNESS ]  𒌓𒄷𒄭  ud-mud  "darkness" 
+ udnamekam  [ EVER ]  𒌓𒈾𒈨𒅗;𒌓𒈾𒈨𒄰  ud-na-me-ka ;  ud-na-me-kam  "in the future, ever" Akk.  ana matīma 
+ udnua  [ MOON ]  𒌓𒈿𒀀  ud-nu2 -a  "the astronomical New Moon or Dark Moon" Akk.  bubbulu 
+ udra  [ DARKENED ]  𒁉𒌑𒊓  udra  "(to be) darkened" Akk.  udduru 
+ udra  [ EXCESS ]  𒁉𒌑𒊓  udra  "excess, profit" Akk.  utrû 
+ udrieš  [ YESTERDAY ]  𒌓𒊑𒂠  ud-ri-eš  "yesterday" 
+ udsaĝ  [ BAND ]  𒍚𒊕  ud5 -saĝ  "band" Akk.  markasu ;  riksu 
+ udsaĝ  [ LEADER ]  𒍚𒊕  ud5 -saĝ  "leader" Akk.  ašarēdu 
+ UDSAR  [ PLANT ]  𒌑𒌓𒊬  u2 UD sar  "a plant" Akk.  ? 
+ UDša  [ BIRD ]  𒌓𒁺𒄷;𒌓𒊭𒄷;𒌓𒊺𒄷  UD-ša4 mušen ;  UD-ša mušen ;  UD-še mušen  "a bird" 
+ udšua  [ HUNGRY ]  𒌓𒋙𒀀  u4 -šu2 -a  "(to be) hungry" 
+ udšuš  [ DAILY ]  𒌓𒋙𒍑;𒌓𒋙𒍑  u4 -šu2 -uš ;  ud-šu2 -uš  "daily" Akk.  ūmišamma 
+ udšuš  [ ~HEAD ]  𒌓𒋙𒍑  ud-šu2 -uš  "a part of the head" 
+ udtab  [ FISH ]  𒌓𒋰𒄩;𒌓𒁕𒁀𒄩  ud-tab ku6 ;  ud-da-ba ku6  "a fish" 
+ udtena  [ EVENING ]  𒌓𒋼𒈾;𒌓𒋼𒂗;𒌓𒋼𒂗𒈾  u4 -te-na ;  u4 -te-en ;  u4 -te-en-na  "evening" 
+ udu  [ SHEEP ]  𒇻;𒂊𒍢  udu ;  e-ze2  "sheep" Akk.  immeru 
+ udu-til  [ WILD SHEEP ]  𒇻𒌀  udu-til  "wild sheep" Akk.  bibbu 
+ udub  [ COAL ]  𒅇𒁆;𒇛  u3 -dub2 ;  udub  "coal" Akk.  pēmtum 
+ ududu  [ REED-BUNDLE ]  𒄑𒌑𒆕𒆕  ĝeš u2 -du3 -du3  "reed bundle" Akk.  īlu 
+ udu'emeĝir  [ SHEEP ]  𒇻𒅴𒄀  udu-eme-gi  "a breed of sheep" 
+ udug  [ DEMON ]  𒀭𒌜;𒌑𒅗;𒌜  d udug ;  u2 -dug4 ;  udug  "a demon (of desert, mountain, sea, tomb); ~ figurine" Akk.  utukku 
+ udug  [ WEAPON ]  |ŠITA₂|;𒅇𒅗;𒌑𒌅𒊌  udug2 ;  u3 -dug4 ;  u2 -tu-ug  "stick; a weapon" Akk.  kakku 
+ udugal  [ SHEEP ]  𒇻𒃲  udu-gal  "adult male sheep capable of reproduction" Akk.  immeru rabû 
+ udu'i  [ SHEEP ]  𒇻𒉌  udu-i3  "fat sheep" 
+ uduKUr  [ PROFESSION ]  𒇻𒆪  udu-KU  "a profession" 
+ udukurak  [ SHEEP ]  𒇻𒆳𒊏  udu-kur-ra  "a breed of sheep" Akk.  immeri šadî 
+ udul  [ HERDSMAN ]  𒁦;𒌑𒇥;𒌑𒁺𒇻;𒁟;𒉺𒁦;𒀖𒇻;𒁟;𒁭;𒉺𒁣;𒅇𒂈  udul3 ;  u2 -tul2 ;  u2 -du-lu ;  udul ;  udul4 ;  udul10 ;  udul5 ;  udul6 ;  udul9 ;  u3 -dul4  "chief herdsman" Akk.  utullu 
+ uDULDINka  [ PLANT ]  𒌑𒌋𒌆𒁷𒅗  u2 -DUL.DIN-ka  "type of plant" 
+ udun  [ KILN ]  𒌋𒈬  udun  "kiln" Akk.  utūnu 
+ udunita  [ RAM ]  𒇻𒀴  udu-nita2  "ram" 
+ udunmah  [ OVEN ]  𒌋𒈬𒈤  udun-mah  "oven, brick-kiln" Akk.  udunmāhu 
+ udurduruna  [ HAY ]  𒌑𒂉𒂉𒈾  u2 -dur2 -durun-na  "hay" 
+ udu'utuwa  [ RAM ]  𒇻𒁦  udu-utuwa2  "ram" Akk.  puhālu 
+ udzalla  [ THIRD ]  𒌓𒉌𒆷  ud-zal-la  "third watch of night" 
+ u'en  [ RELEASE ]  𒅇𒂗;𒅇𒇷  u3 -en ;  u3 -en3  "to release" Akk.  pašāru 
+ ug  [ DIE ]  𒅗;𒂦;𒊌·(𒁁𒁁)  ug7 ;  ug5 ;  ug x (|BAD.BAD|)  "plural and imperfect singular stem of uš[to die]" Akk.  mâtu 
+ ug  [ EXALTED ]  𒊌·(𒂡)  ug x (EZEN)  "(to be) exalted" 
+ ug  [ FURIOUS ]  𒊌;𒊊  ug ;  ug2  "(to be) furious; anger" Akk.  aggu ;  uggu 
+ ug  [ LAMENTATION ]  𒊊  ug2  "lamentation" Akk.  nissatu 
+ ug  [ LIGHT ]  𒊌;𒊊  ug ;  ug2  "light" Akk.  nūru 
+ ug  [ LION ]  𒊌;𒊌·(𒊍)  ug ;  ug x (|PIRIG×ZA|)  "lion; a mythical lion; a large cat" Akk.  mindinu ;  nešu; ūmu 
+ ug  [ PLANT ]  𒊌  ug  "a plant" 
+ ug  [ TINY ]  𒊊  ug2  "tiny, very small" Akk.  daqqiqi 
+ uga  [ FISH ]  𒌑𒂵𒄩;𒌑𒂵𒊺𒉀𒄩;𒌑𒊺𒉀𒂵𒄩;𒂵  GA𒄩;𒄩𒌑𒂵;𒌑𒂵𒂵  GA·(𒉀)𒄩;𒊺𒉀𒄩;𒂵  GA·(𒉀)𒌑𒂵𒄩  u2 -ga ku6 ;  u2 -ga |ŠE.NAGA| ku6 ;  u2 |ŠE.NAGA| ga ku6 ;  uga ku6 ;  ku6 u2 -ga ;  u2 -ga uga x (NAGA) ku6 ;  |ŠE.NAGA| ku6 ;  uga x (NAGA) u2 -ga ku6  "a fish" 
+ uga  [ MILK ]  𒇇𒂵  u8 -ga  "milk ewe" 
+ uga  [ RAVEN ]  𒂵  GA𒄷;𒌑𒂵𒄷;𒂵  GA·(𒌑𒉀)𒄷  uga mušen ;  u2 -ga mušen ;  uga x (|U2 .NAGA|) mušen  "raven" Akk.  āribu 
+ uga.LAK777  [ BIRD ]  𒂵  GA(𒌑𒉀)¿𒄷  uga(|U2 .NAĜA|)-LAK777 mušen  "a bird" 
+ ugahur  [ BIRD ]  𒂵  GA(𒌑𒉀)𒄯𒄷  uga(|U2 .NAĜA|)-hur mušen  "a bird" 
+ ugal  [ UNMNG ]  𒆋  ugal  "?" Akk.  ? 
+ uggun  [ STONE ]  𒎎𒊌𒁯  na4 ug-gun3  "type of stone" 
+ ugnim  [ ARMY ]  𒆠𒋢𒇻𒂠𒃻  ugnim  "army, troops" Akk.  ummānu 
+ ugra  [ REED-BUNDLE ]  𒆸·𒌑𒀸  ugra  "bundle of reeds" Akk.  budduru 
+ ugtur  [ BIRD ]  𒊌𒉣𒇬𒄷  ug-tur3 mušen  "a bird" 
+ ugu  [ BEAR ]  𒌋𒅗;𒆪  ugu ;  ugu4  "to give birth (to)" Akk.  alādu 
+ ugu  [ CVNE ]  𒌑𒄖  u2 -gu  "(compound verb nominal element)" 
+ ugu  [ FOOD ]  𒌑𒅥  u2 -gu7  "food" Akk.  mākālu 
+ ugu  [ PASTURE ]  𒌑𒅥  u2 -gu7  "pasture" Akk.  merītu 
+ ugu  [ SKULL ]  𒀀𒅗;𒌋𒅗;𒀀𒊕;𒌋𒅗·(𒌋𒊕);𒌋𒅗·(𒀀𒌋𒅗);𒌋𒅗·(𒊨)  ugu2 ;  ugu ;  ugu3 ;  ugu x (|U.SAG|) ;  ugu x (|A.U.KA|) ;  ugu x (SAG@n@g)  "skull, pate; first section of a balanced account, capital; on, over, above; against; more than; top" Akk.  eli ;  muhhu ;  qaqqadu 
+ ugu  [ WATERING PLACE ]  𒀀𒅗  ugu2  "watering place; irrigation; irrigated land" Akk.  mašqītu ;  mikru 
+ ugu de  [ DISAPPEAR ]  𒌑𒄖𒌤;𒌑𒅗𒌤;𒌋𒅗𒌤  u2 -gu de2 ;  u2 -gu3  de2 ;  ugu de2  "to disappear" Akk.  halāqu 
+ ugubi  [ MONKEY ]  𒌋𒅗𒆪𒁉;𒌋𒅗𒌋𒆪𒁉  ugu ugu4 -bi ;  ugu u-gu5 -bi  "monkey" Akk.  uqūpu 
+ ugudil  [ FISH ]  𒉒·𒌑𒀸  ugudil  "a fish" Akk.  singurru 
+ ugudili  [ SCALP ]  𒌋𒅗𒇺  ugu-dili2  "upper part of the skull or scalp" 
+ ugudu  [ BIRD ]  𒌋𒅗𒆕𒄷  ugu-du3 mušen  "a bird" Akk.  nahīru 
+ ugudu  [ TUFT ]  𒌋𒅗𒆕  ugu-du3  "tuft of hair" Akk.  abbuttu 
+ ugul  [ CVNE ]  𒅇𒄢  u3 -gul  "(compound verb nominal element)" 
+ ugul ĝar  [ PRAY ]  𒅇𒄢𒃻  u3 -gul ĝar  "to pray" Akk.  utnēnu 
+ ugula  [ OVERSEER ]  𒉺  ugula  "instructor; overseer, foreman" Akk.  aklu ;  šāpiru 
+ ugula'ek  [ OVERSEER ]  𒉺𒂍  ugula-e2  "estate-overseer" 
+ ugun  [ BIRD ]  𒄷𒋛𒁯𒄷;𒅇𒁯𒄷  u5 -gun3 mušen ;  u3 -gun3 mušen  "a bird" Akk.  tarru 
+ ugunu  [ DECORATION ]  𒅇𒁯;𒃽;𒃽;𒅇𒁯;𒌋𒅗𒉡  u3 -gun3 ;  ugunu ;  ugunu2 ;  u3 -gun ;  ugu-nu  "decorative inlay; ointment" Akk.  ihzētu ;  tēqītu 
+ ugunu  [ LADY ]  𒃽  ugunu2  "lady; mistress, proprietress (of)" Akk.  bēltu 
+ ugur  [ POT ]  𒅊  ugur2  "a pot" 
+ ugur  [ SWORD ]  𒅊  ugur  "sword" Akk.  namşāru 
+ ugurbal  [ JAR ]  𒂁𒌋𒄥𒁄  dug u-gur-bal  "type of jar" 
+ uĝ  [ PEOPLE ]  𒌦  uĝ3  "people" Akk.  nišu 
+ uĝdaga  [ NEIGHBOR ]  𒌦𒁕𒂵  uĝ3 -da-ga  "neighbor" 
+ uĝeš  [ PLANT ]  𒌑𒄑  u2 -ĝeš  "type of plant" 
+ uĝĝaĝa  [ PORTER ]  𒌦ĝaĝ·(𒅍);𒌦𒅍𒅍  uĝ3 -ĝaĝ x (IL2 ) ;  uĝ3 -ĝa6 -ĝa6  "porter" 
+ uĝiri  [ UNMNG ]  𒌑𒄊  u2 -ĝiri3  "unmng" 
+ uh  [ FORGOTTEN ]  𒅎𒋙  uh6  "(to be) forgotten" Akk.  mašû 
+ uh  [ TRACHEA ]  𒍜𒅜  uzu uh4  "trachea, uvula" Akk.  ma'latu 
+ uh  [ TURTLE ]  𒄴  uh  "turtle" Akk.  šeleppû 
+ uh  [ UNMNG ]  𒄴;𒆵  uh ;  uh3  "" 
+ uh  [ WEATHERVANE ]  𒄑𒌔  ĝeš uh2  "weathervane" Akk.  işşur šārī 
+ uh  [ ~PASTE ]  𒄴;𒌓  uh ;  ah3  "to make paste" 
+ uha  [ TOOL ]  𒅇𒀪  u3 -ha2  "a tool" 
+ uhašhurak  [ PLANT ]  𒌑𒄑𒈢  u2 - ĝeš hašhur  "a plant" Akk.  hašhurakku 
+ uhin  [ DATE ]  𒌓𒄭𒅔;𒅇𒄷𒅔;𒌑𒄭𒅔  u4 -hi-in ;  u3 -hu-in ;  u2 -hi-in  "fresh date" Akk.  uhinnu 
+ uhpu  [ FOAM ]  𒌔𒇥  uh2 -pu2  "foam" 
+ uhpu  [ WATER ]  𒌔𒇥  uh2 -pu2  "standing water" Akk.  lâ'irānu 
+ uhrum  [ STREAM ]  𒄴𒊒𒌝  uh-ru-um  "stream, wadi" Akk.  nahallu 
+ UHUL  [ SHEEP ]  𒇇𒄾  |U8 +HUL2 |  "a type of sheep, fat-tailed ewe" 
+ uhur  [ BIRD ]  𒄷𒋛𒄯𒄷  u5 -hur mušen  "a bird" 
+ u'il  [ CARRIER ]  𒌑𒅍  u2 -il2  "carrier" 
+ ukiri  [ GARDEN ]  𒌑𒄑𒊬  u2 - ĝeš kiri6  "garden produce" 
+ uktin  [ PHYSIOGNOMY ]  𒅊𒀩  uktin  "physiognomy, (facial) features" Akk.  bunnannu 
+ uKU  [ TEAR? ]  𒌑𒆪  u2 -KU  "tear?" 
+ ukuk  [ BURN ]  𒌑𒆪𒊌  u2 -ku-uk  "to burn" 
+ ukuku  [ BIRD ]  𒅇𒆪𒆪𒄷  u3 -ku-ku mušen  "a bird" Akk.  şallallu 
+ ukukuba'uš  [ BIRD ]  𒅇𒆪𒆪𒁀𒍗𒄷  u3 -ku-ku-ba-uš2 mušen  "a bird" Akk.  ittīl imūt 
+ ukul  [ WEED ]  𒌑𒆰  u2 -kul  "type of weed" 
+ ukum  [ STORM ]  𒅖  ukum  "dust storm" Akk.  turbutu 
+ ukur  [ BUTCHER ]  𒃲𒋚  ukur2  "butcher" Akk.  tābihu 
+ ukur  [ POOR ]  𒇳𒁺  ukur3  "(to be) poor; pauper" Akk.  lapnu 
+ ukurrim  [ PRIEST ]  𒂗𒈨𒀭𒈹  ukurrim  "a priest of Inanna" Akk.  ēnû 
+ ukurum  [ BRICK ]  𒅇𒆪𒊒𒌝  u3 -ku-ru-um  "a type of brick" Akk.  ukurru 
+ ukuš  [ CUCUMBER ]  𒄾  ukuš2  "cucumber" Akk.  qiššû 
+ ukuštikil  [ COLOCYNTH ]  𒄾𒋾𒆠𒀧  ukuš2 -ti-ki-il  "colocynth" 
+ ul  [ ANYTHING ]  𒄉  ul4  "anything, something" Akk.  mimma 
+ ul  [ BRIGHT ]  𒄉;𒌓  ul4 ;  ul6  "to become bright, shine" Akk.  namru ;  nabāţu 
+ ul  [ DISTANT ]  𒌌;𒌌𒉌;𒌌𒇷  ul ;  ul-li2 ;  ul-li  "(to be) distant (in time); distant time" Akk.  şiātu 
+ ul  [ FIRMAMENT ]  𒄉;𒂬  ul4 ;  ul5  "vault of heaven, firmament" Akk.  šupuk šamê 
+ ul  [ FRUIT ]  𒌌  ul  "fruit; bud" Akk.  inbu 
+ ul  [ GREATLY ]  𒄉  ul4  "greatly" Akk.  magal 
+ ul  [ GRIND ]  𒄉  ul4  "to grind" Akk.  qemû 
+ ul  [ HASTEN ]  𒄉  ul4  "to hasten, (be) quick; (to be) early" Akk.  arāhu ;  hamāţu ;  harāpu 
+ ul  [ NEGATIVE ]  𒌌  ul  "negative answer, refusal" Akk.  ullu 
+ ul  [ PRONOUN ]  𒌌𒆷;𒌌  ul-la ;  ul  "a demonstrative pronoun" Akk.  annû ;  ullû 
+ ul  [ SWELL ]  𒌌  ul  "to swell, (to be) distended; to love; attractiveness; pleasure; rejoicing" Akk.  habāşu ;  menû ;  ulşu 
+ ul  [ TERROR ]  𒄉  ul4  "terror" Akk.  pirittu 
+ ul  [ UNIT ]  𒌌  ul  "a unit of capacity" 
+ ul  [ UNMNG ]  𒄉;𒉡;𒄒;𒃷  ul4 ;  ul2 ;  ulul ;  ulul2  "; " Akk.  qerbetu 
+ UL  [ UNIT ]  𒌌  UL  "a unit of measurement" 
+ ul šar  [ REJOICE ]  𒌌𒊹  ul šar2  "to rejoice" Akk.  riāšu 
+ ula  [ ANYTHING ]  𒅇𒆷  u3 -la  "anything" 
+ ula  [ BATTLE ]  GA2×U  ula2  "battle" Akk.  qablu 
+ ula  [ FEEBLE ]  𒌑𒇲  u2 -la2  "(to be) feeble" Akk.  muqqu 
+ ulal  [ OVEN ]  𒁁  ulal  "oven" Akk.  tinūru 
+ ulal  [ PLANT ]  𒌑𒋭  u2 -lal3  "a plant" Akk.  ? 
+ ula'ulla  [ QUICK! ]  𒌑𒆷𒄉𒆷  u2 -la-ul4 -la  ""quick!"" 
+ ULBAD  [ BIRD ]  𒌋𒄞𒁁𒄷  |U.GUD|.BAD mušen  "type of bird" 
+ ULGAR  [ ACCUMULATION ]  𒌌𒃻  UL.GAR  "accumulation (math.)" 
+ ulhe  [ FIRMAMENT ]  𒄉𒃶  ul4 -he2  "firmament, vault of the sky" Akk.  šupuk šamê 
+ uli  [ LAMENTATION ]  𒅇𒇷𒇷;𒅇𒇷  u3 -li-li ;  u3 -li  "lamentation" Akk.  lallarātu 
+ uli'a  [ PLANT ]  𒌑𒇷𒀀𒊬  u2 -li-a sar  "a plant" Akk.  dišu 
+ ulil  [ UNMNG ]  𒍻  ulil  "?" Akk.  ulillu 
+ ulilla  [ LAMENT ]  𒅇𒆤𒇲  u3 -lil2 -la2  "a lament" 
+ ulin  [ TWINE ]  𒌑𒇷𒅔  u2 -li-in  "colored twine" Akk.  barumtu 
+ ullu  [ UNMNG ]  𒌌  ullu  "?" Akk.  pasāqu 
+ ULMA  [ ~MOUND ]  𒌋𒄞𒈠  |U.GUD|.MA  "designation of mound" 
+ ulmaše  [ PRIEST ]  𒇽𒌌𒈧𒌓𒁺  lu2 ul-maš2 -e3  "a priest" 
+ ulu  [ UNMNG ]  𒍇;𒅇𒇻  ulu3 ;  u3 -lu  "" 
+ ulu  [ WIND ]  𒍇𒇻;𒅎𒍇𒇻;𒅎𒍇;𒍇𒇻;𒅎𒄴𒈨𒌋  ulu3 lu ;  tumu ulu3 lu ;  tumu ulu3 ;  u18 -lu ;  tumu ulu2  "south wind; south; a demon" Akk.  alû ;  mehê šūti; šūtu ;  mehû 
+ uludig  [ BIRD-CRY ]  𒍇𒁲𒅅  ulu3 -di-ig  "a bird-cry" 
+ uludin  [ FORM ]  𒅊𒀩;𒅊𒀩  uludin2 ;  uludin  "sign, mark; form" Akk.  ittu ;  nabnītu 
+ uluh  [ SAPLING ]  𒅇𒈛;𒌑𒈛  u3 -luh ;  u2 -luh  "sapling; offshoot; scepter" Akk.  uluhhu 
+ ulul  [ CULTIVATION ]  𒃷  ulul2  "cultivation" 
+ ulullumtum  [ PLANT ]  𒌑𒇻𒌌𒈝𒌈  u2 -lu-ul-lum-tum  "a plant" 
+ ululumama  [ LAMENT ]  𒌑𒇻𒇻𒈠𒈠;𒅇𒇻𒇻𒈠𒈠  u2 -lu-lu-ma-ma ;  u3 -lu-lu-ma-ma  "a lament" 
+ ulum  [ EXCLAMATION ]  𒌑𒈝  u2 -lum  "type of exclamation" 
+ ulum  [ FRUITFUL ]  𒌑𒈝  u2 -lum  "fruitful" Akk.  unnubu 
+ ulumaš  [ WIND ]  𒅎𒃷𒄴𒈨𒌋;𒅎𒄴𒈨𒌋𒃷  ulumaš ;  ulumaš2  "south wind" Akk.  šār meh šūti 
+ ulušin  [ BEER ]  𒀾𒀭;𒀾𒀭;𒌌𒅇𒋗𒅔;𒁉𒀾𒀭𒈾  ulušin3 ;  ulušin ;  ul-u3 -šu-in ;  ulušin2  "date-sweetened emmer-beer" Akk.  ulušinnu 
+ um  [ BIRD ]  𒌝𒄷;𒌝𒈠𒄷  um mušen ;  um-ma mušen  "a bird" Akk.  ummu 
+ um  [ ROPE ]  𒌝  um  "reed rope" Akk.  ummu 
+ uma  [ TRIUMPH ]  𒅇𒈠;𒌑𒈠  u3 -ma ;  u2 -ma  "triumph, victory" Akk.  ernittu 
+ uma gub  [ ATTAIN VICTORY ]  𒅇𒈠𒁺  u3 -ma gub  "to attain victory" Akk.  ? 
+ umah  [ BLOW ]  𒇦  umah  "blow" Akk.  mihşu 
+ umah  [ MARSHES ]  𒇦  umah  "marshes" Akk.  agammu 
+ umamu  [ BEASTS ]  𒌑𒈠𒄠;𒌑𒈠𒈬  u2 -ma-am ;  u2 -ma-mu  "beasts" Akk.  umāmu 
+ uman  [ INSECT ]  𒄴  uman  "insect(s), bug(s)" Akk.  kalmatu 
+ umbara  [ AID ]  𒂬  umbara  "aid, help; gift, present" Akk.  nērarūtu ;  rīmūtu 
+ umbin  [ BASE ]  𒄑𒌢  ĝeš umbin  "base of a table" Akk.  şupur paššūri 
+ umbin  [ CUTTING ]  𒌢  umbin  "type of cutting implement" 
+ umbin  [ NAIL ]  𒌢  umbin  "(finger/toe-)nail; claw; hoof; finger, toe" Akk.  ubānu ;  şupru 
+ umbin  [ WHEEL ]  𒌢  umbin  "wheel" Akk.  magarru 
+ umbin  [ ~BOAT ]  𒄑𒌢  ĝeš umbin  "a part of a boat" 
+ umbin kiĝ  [ SHEAR ]  𒌢𒆥  umbin kiĝ2  "to shear" Akk.  ? 
+ umbin la  [ SCRATCH ]  𒌢𒇲  umbin la2  "to scratch" Akk.  ? 
+ umbin TAR  [ SHAVE ]  𒄑𒌢𒋻  ĝeš umbin TAR  "to shave" Akk.  gullubu 
+ umbinĝiri  [ CLAW ]  𒌢𒄊  umbin-ĝiri3  "claw" 
+ umbinsi  [ NAIL ]  𒌢𒋛  umbin-si  "finger nail" 
+ umbinšeba  [ NAIL ]  𒌢𒊺𒁀  umbin-še-ba  "nail" Akk.  şupru 
+ umbisaĝ  [ SCRIBE ]  𒋃;𒋄;𒋰𒋰𒉌𒉌𒁹𒁹  umbisaĝ ;  umbisaĝ2 ;  ubišaga  "scribe; scholar" Akk.  tupšarru 
+ umgidu  [ BIRD ]  𒌝𒄀𒌌𒄷  um-gi-du7 mušen  "a bird" Akk.  durummu 
+ umhur  [ BIRD ]  𒌝𒄯𒄷  um-hur mušen  "a bird" 
+ umia  [ PEOPLE ]  𒌑𒈪𒀀  u2 -mi-a  "people" Akk.  nišū 
+ umma  [ OLD WOMAN ]  𒌝𒈠  um-ma  "old woman" Akk.  šībtu 
+ ummana  [ ARMY ]  𒌝𒈠𒈾  um-ma-na  "army" 
+ ummia  [ EXPERT ]  𒌝𒈪𒀀;𒌝𒈨𒀀  um-mi-a ;  um-me-a  "expert, master craftsman" Akk.  ummānu 
+ ummud  [ WATERSKIN ]  𒋢𒀀𒂔𒇲;𒀀𒂔𒇲;𒀀𒂔𒇲·(𒀀𒌋𒂔𒇲)  kuš ummud ;  ummud ;  ummud x (|A.U.EDIN.LAL|)  "waterskin" Akk.  nādu 
+ umnur  [ BIRD ]  𒌝𒉡𒄯𒄷  um-nu-ur5 mušen  "a bird" 
+ umu  [ STORAGE ]  𒅇𒊬𒌑𒅿;𒌋𒊬  u3 -mu2 u2 -mu11 ;  u-mu2  "a place for storing fish" 
+ umul  [ CREATURE ]  𒌓𒈬𒌌  u4 -mu-ul  "sickly creature" 
+ umun  [ BLOOD ]  𒅇𒁵;𒅇𒈬𒌦;𒌣  u3 -mun ;  u3 -mu-un ;  umun  "blood" Akk.  dāmu 
+ umun  [ BODY ]  𒌣  umun2  "life-giving force; main body, bulk" Akk.  mummu ;  ummatu 
+ umun  [ KNOWLEDGE ]  𒌣  umun2  "knowledge; workshop" Akk.  mummu ;  ummatu ;  ummuqu 
+ umun  [ PIT ]  𒌋𒈬;𒆹;𒇩;𒇥𒀀;𒆸·𒄭·𒉣  umun10 ;  umun11 ;  umun12 ;  umun5 ;  umun6  "a pit; pond, puddle" Akk.  habbu ;  hammu 
+ umuš  [ EXALTED ]  𒌑𒈲  u2 -muš  "exalted" Akk.  şīru 
+ umuš  [ PLANNING ]  𒌆  umuš  "(fore)thought, plan(ning); understanding; instruction; consideration, sagacity" Akk.  ţēmu 
+ un  [ HIGH ]  𒂦  un3  "to arise; sky; (to be) high" Akk.  elû ;  šamû ;  šaqû 
+ un  [ UNMNG ]  𒌦·(𒂡·x)  un x (|EZEN×X|)  "" 
+ una  [ WILD ]  𒅇𒈾  u3 -na  "wild, proud; a wild animal" Akk.  kadrum ;  kattilu 
+ unadug  [ LETTER ]  𒅇𒈾𒀀𒅗;𒅇𒈾𒅗;𒅇𒉈𒅗;𒅇𒉈𒂊𒅗  u3 -na-a-dug4 ;  u3 -na-dug4 ;  u3 -ne-dug4 ;  u3 -ne-e-dug4  "letter" Akk.  unnedduku ;  umunnedukku 
+ UNgal  [ RULER ]  𒌦𒃲  UN-gal  "ruler" Akk.  šarru ;  šarratu 
+ UNIL  [ MENIAL ]  𒌦𒅍;𒌑𒅍;𒅇𒅍  UN.IL2 ;  u2 -il2 ;  u3 -il2  "a menial" Akk.  kinattu 
+ unin  [ PLANT ]  𒌑𒎐  u2 -nin9  "a plant" 
+ unir  [ ZIGGURAT ]  𒅆𒂍𒉪  u6 -nir  "ziggurat" 
+ unitum  [ STONE ]  𒎎𒌑𒉌𒌈  na4 u2 -ni-tum  "a stone" Akk.  unītu 
+ unkin  [ ASSEMBLY ]  𒅗;¿  unkin ;  LAK649  "assembly" Akk.  puhru 
+ UNTAR  [ WORKER ]  𒌦𒋻  UN.TAR  "a worker" 
+ UNTAR  [ ~MILITARY ]  𒌦𒋻  UN.TAR  "a military term" 
+ unu  [ ADORNMENT ]  𒋼𒀕  unu2  "adornment, jewelry" Akk.  šukuttu 
+ unu  [ CHEEK ]  𒋼𒀕  unu2  "upper cheek" Akk.  usukku 
+ unu  [ DWELLING ]  𒋼𒀊;𒋼𒀕;𒋼𒀕  unu6 ;  unu2 ;  unu  "banquet; dining hall; the most sacred part of a temple; seat, throne; dwelling, domicile, abode; temple" Akk.  mākalû ;  mūšabu ;  usukku ;  šubtu 
+ unu  [ FISH ]  𒋼𒀕𒄩  unu ku6  "a fish" 
+ unu  [ GIRL ]  𒋼𒀕  unu2  "girl, young woman" Akk.  ardatu 
+ unu  [ MEAL ]  𒋼𒀕;𒋼𒀊  unu2 ;  unu6  "meal, food; meal(-time); table" Akk.  mākālu ;  naptanu ;  paššūru 
+ unu  [ STICK ]  𒄀?;𒍑  unu10 ;  unu8  "(wooden) stick" Akk.  udugu 
+ unud  [ COWHERD ]  𒀖𒆪;𒈬𒆪;𒁐;𒆒  unud ;  mu-nu10 ;  unu12 ;  unu9  "cattle herder" 
+ unugal  [ TOMB ]  𒋼𒀕𒃲  unu-gal  "tomb" 
+ unugi  [ RITES ]  𒀐  unugi  "office; rites, (cultic) ordinance" Akk.  parşu 
+ unuglu  [ BIRD ]  𒀕𒇽𒄷  unug-lu2 mušen  "a bird" 
+ UNUGSAR  [ GARDEN? ]  𒀕𒊬  |AB@g|.SAR  "garden?" 
+ unuĝarra  [ IMPROPRIETY? ]  𒅇𒉡𒃻𒊏  u3 -nu-ĝar-ra  "impropriety?" 
+ unula  [ JEWELRY ]  𒋼𒀕𒇲  unu2 -la2  "jewelry" Akk.  šukuttu 
+ unum  [ TREE ]  𒄑𒌓𒉡𒌝  ĝeš u4 -nu-um  "a tree" 
+ unumun  [ SAFFRON ]  𒌑𒆰𒊬  u2 -numun sar  "saffron" Akk.  azupīru 
+ unuRIbanda  [ LOCUS ]  𒋼𒀕𒊑𒌉𒁕  unu2 -RI-banda3 da  "sacred area" 
+ upap  [ BIRD ]  𒍖𒉽  uz-pap  "a bird" 
+ upila  [ DEAF ]  𒌑𒄊;𒌑𒉋𒇲  u2 -pil7 ;  u2 -pil2 -la2  "deaf" Akk.  sukkuku 
+ upu  [ UNIT ]  upu·(𒀹)  upu x (|AŠ@z|)  "a unit of surface measurement" Akk.  ubû 
+ ur  [ ABUNDANT ]  GA2×NUN / NUN  ur3  "(to be) abundant" Akk.  kapāšu 
+ ur  [ ANOINT ]  𒄯  ur5  "to rub in, anoint" Akk.  kadādu 
+ ur  [ BAKE ]  𒄯;GA2×NUN / NUN  ur5 ;  ur3  "to bake" 
+ ur  [ BASE ]  𒌫;𒄑𒌫  ur2 ;  ĝeš ur2  "base, legs of a table" 
+ ur  [ COLLECT ]  𒄯  ur5  "to confine, imprison" Akk.  pâdu 
+ ur  [ CONVULSED ]  𒌴  ur4  "to be convulsed" Akk.  arāru 
+ ur  [ DOG ]  𒌨;𒄑𒌨  ur ;  ĝeš ur  "dog; ~ figurine; ~ toy; lion" Akk.  kalbu ;  labbu 
+ ur  [ DRAG ]  GA2×NUN / NUN  ur3  "to go along; to wipe clean; to beat, sweep away; to drag; to raise a boat" Akk.  bâ'u ;  kapāru ;  šabāţu 
+ ur  [ FISH ]  𒌴𒄩;𒌨𒄩  ur4 ku6 ;  ur ku6  "a fish" 
+ ur  [ HARNESS ]  GA2×NUN / NUN  ur3  "harness; yoked team" Akk.  naşmadu 
+ ur  [ HE ]  𒄯;𒌨  ur5 ;  ur  "he; that, this same; maid, female slave; one; corresponding (to one another); like (one another)" Akk.  amtu ;  ištēn ;  mithāru ;  šû 
+ ur  [ KEEL? ]  𒌫  ur2  "keel?" 
+ ur  [ LIVER ]  𒄯  ur5  "liver; main body, bulk" Akk.  kabattu ;  ummatu 
+ ur  [ MAN ]  𒌨  ur  "man" Akk.  amēlu 
+ ur  [ PLUCK ]  𒌴;𒄯  ur4 ;  ur5  "to pluck; to gather, collect; to harvest" Akk.  baqāmu ;  eşēdu ;  hamāmu ;  kapātu 
+ ur  [ ROAM ]  𒌴;𒌨𒊒𒌨  ur4 ;  ur-ru-ur  "to roam around" Akk.  parāru 
+ ur  [ ROOF ]  GA2×NUN / NUN  ur3  "roof" Akk.  ūru 
+ ur  [ ROOT ]  𒌫;𒄯  ur2 ;  ur5  "root, base; limbs; loin, lap" Akk.  išdu ;  mešrêtu ;  sūnu ;  utlu 
+ ur  [ SERVANT ]  𒌨  ur  "servant" 
+ ur  [ SHUT ]  GA2×NUN / NUN  ur3  "to shut; protection" Akk.  edēlu ;  kidinnu 
+ ur  [ SMELL ]  𒄯  ur5  "to smell" Akk.  eşēnu 
+ ur  [ TRIM ]  𒌆𒌫  tug2 ur2  "a cloth trimming" Akk.  sūnu 
+ ur  [ UNMNG ]  GA2×SAL  ur14  "" 
+ ur sag  [ AMELIORATE ]  𒄯𒊷  ur5  sag9  "to ameliorate the mood" Akk.  ? 
+ ur tab  [ SUFFER ]  𒄯𒋰  ur5  tab  "to suffer" Akk.  ? 
+ ur ug  [ DESPAIR ]  𒄯𒅗  ur5  ug7  "to despair" Akk.  ? 
+ ura  [ DEJECTION? ]  𒄯𒊏  ur5 -ra  "dejection?" 
+ urab  [ BIRD ]  GA2×NUN / NUN𒀖𒄷  ur3 -ab2 mušen  "a bird" 
+ URANA  [ TREE ]  𒌫·𒀀𒈾  |UR2 ×A+NA|  "a tree" 
+ uranna  [ PLANT ]  𒌑𒌑𒊏𒀭𒈾  u2 u2 -ra-an-na  "a plant" Akk.  urantu 
+ urar  [ SOUND ]  𒄯𒄯  ur5 -ar3  "a sound (onomatopoeic)" 
+ urar za  [ MAKE NOISE ]  𒄯𒄯𒍝  ur5 -ar3  za  "to make noise" 
+ uraš  [ EARTH ]  𒅁  uraš  "earth; crooked furrow" Akk.  erşetu ;  ligittu 
+ uraš  [ SECRET ]  𒅁  uraš  "secret" Akk.  pirištu 
+ urbad  [ BEDROOM ]  𒌫𒉻  ur2 -pad  "bedroom" Akk.  urpatu 
+ urbad  [ ROOFTOP ]  GA2×NUN / NUN𒂦  ur3 -bad3  "rooftop" 
+ urbara  [ FISH ]  𒌨𒁇𒊏𒄩;𒄩𒌨𒁇𒊏;𒌨𒁇𒄩  ur-bar-ra ku6 ;  ku6 ur-bar-ra ;  ur-bar ku6  "a fish" 
+ urbara  [ WOLF ]  𒌨𒁇𒊏  ur-bar-ra  "wolf" Akk.  barbaru 
+ urbigu  [ COMBATIVE ]  𒌩  urbigu  "(to be) combative" Akk.  šitnunu 
+ urbiku  [ BIRD ]  𒌨𒁉𒆭𒄷;𒌨𒁉𒅥𒄷  ur-bi-ku4 mušen ;  ur-bi-gu7 mušen  "a bird" Akk.  z-ibu 
+ urbitum  [ STONE ]  𒎎𒌨𒉈𒌈  na4 ur-bi2 -tum  "a stone" Akk.  urbītu 
+ urdib  [ CUB ]  𒌨𒁳  ur-dib  "cub" Akk.  gerru 
+ urgilim  [ COMBATIVE ]  𒉪  urgilim  "(to be) combative" Akk.  šitnunu 
+ urgir  [ DOG ]  𒌨𒂠  ur-gir15  "(domestic) dog" Akk.  kalbu 
+ urgula  [ INSTRUMENT ]  𒌨𒄖𒆷  ur-gu-la  "an instrument" 
+ urgula  [ LION ]  𒌨𒄖𒆷  ur-gu-la  "lion" 
+ uri  [ FISH ]  𒄑𒋀𒄩  ĝeš uri3 ku6  "a fish" 
+ uri  [ ILLNESS ]  𒅂  uri4  "an illness of the joints, arthritis?; an illness" Akk.  maškadu ;  šannadu 
+ uri  [ VESSEL ]  𒌵  uri  "a vessel" 
+ uridim  [ DOG ]  𒌨𒅂  ur-idim  "mad dog, rabid dog" Akk.  uridimmu ;  kalbu šegû 
+ urig  [ CORNER ]  𒌓𒊑𒅅  u4 -ri-ig  "corner" Akk.  tubqu 
+ urig  [ HEADBAND ]  𒌓𒊑𒅅  u4 -ri-ig  "headband" Akk.  tuqnu 
+ urin  [ BLOOD ]  𒌶;𒅇𒌷𒅔  urin ;  u3 -ri2 -in  "blood" Akk.  damu 
+ urin  [ GUARD ]  𒌶  urin  "to guard" Akk.  naşāru 
+ urin  [ PURE ]  𒌶;𒌑𒊑𒅔  urin ;  u2 -ri-in  "(to be) pure" Akk.  zakû 
+ urin  [ STANDARD ]  𒌶;𒄑𒌶  urin ;  ĝeš urin  "standard" Akk.  urinnu 
+ urinak  [ SANCTUARY ]  𒋀𒈾  uri3 -na  "a sanctuary" Akk.  urnakku 
+ urki  [ DOG ]  𒌨𒆠  ur-ki  "dog" Akk.  kalbu 
+ urmah  [ LION ]  𒌨𒈤  ur-mah  "lion" Akk.  nēšu ;  urmahhu 
+ urNENE  [ PLANT ]  𒌫𒉈𒉈𒊬  ur2 -NE-NE sar  "a plant" 
+ urnig  [ LIONESS ]  𒌨𒊩𒌨  ur-nig  "lioness" Akk.  nēštu 
+ urnim  [ LION ]  𒌨𒉏  ur-nim  "lion" Akk.  girru 
+ urnum  [ CEDAR ]  𒄑𒌨𒉡𒌝  ĝeš ur-nu-um  "a cedar" Akk.  urnu 
+ urpada  [ UNMNG ]  𒌨𒉻𒁕  ur-pad-da  "?" Akk.  ? 
+ urra  [ LOAN ]  𒄯𒊏;𒄯  ur5 -ra ;  ur5  "interest-bearing loan; debt; requital, favour" Akk.  gimillu ;  hubullu 
+ urri  [ ~SHEEP ]  𒌫𒊑𒀀  ur2 -ri-a  "a designation of sheep" 
+ urrub  [ VESSEL ]  𒂁  urrub  "a vessel" Akk.  urrumbu 
+ ursaĝ  [ HERO ]  𒌨𒊕  ur-saĝ  "hero" Akk.  qarrādu 
+ ursaĝsim  [ SPARROW ]  𒌑𒁐𒁕;𒌑ursaĝsim·(𒋻)  u2 |BU%BU|.DA ;  u2 ursaĝsim x (TAR)  "sparrow" Akk.  şibāru 
+ ursub  [ VESSEL ]  𒂁𒆗;𒂁;𒂁𒂁  dug ursub2 ;  ursub ;  dug ursub  "a vessel" Akk.  urşuppu 
+ uršub  [ TIGER ]  𒌨𒄊  ur-šub5  "tiger" 
+ uršubkuda  [ WILD ANIMAL ]  𒌨𒄊𒋻𒁕  ur-šub5 -kud-da  "wild animal" Akk.  dumāmu ;  written ur-šur4 -gud in YBŠ11118 
+ urta  [ BARLEY ]  𒅁  urta  "ear of barley" Akk.  antu 
+ urtur  [ PUPPY ]  𒌨𒌉  ur-tur  "puppy" 
+ uru  [ FISH ]  𒉒·𒌑𒀸𒄩𒄩;𒌫·𒌑𒀸𒄩𒄩  uru6 ku6 ;  uru7 ku6  "a fish" Akk.  āru 
+ uru  [ FLOOD ]  𒍍;𒌸;𒋽  uru2 ;  uru18 ;  uru5  "flood, deluge" Akk.  abūbu 
+ uru  [ LITTER ]  𒌆  uru12  "bedding place; litter; lair, dwelling; dung" Akk.  mūšabu ;  rubşu 
+ uru  [ SEAT ]  𒋽  uru5  "seat, dwelling" Akk.  šubtu 
+ uru  [ SOW ]  𒀳;𒌾𒊒;𒄿𒊒  uru4 ;  uru11 ru ;  i-ru  "to sow; to cultivate" Akk.  erēšu 
+ uru  [ SUBSCRIPT ]  𒌷𒂗;𒍇𒊒  uru uru16 ;  u18 -ru  "a literary subscript" 
+ uru  [ SUPPORT ]  𒋞𒅂  uru9  "support; imposition; repair" Akk.  imdu ;  takšīru 
+ uru  [ VICINITY ]  𒋞𒅂  uru9  "immediate vicinity, adjacent (place)" Akk.  ţēhu 
+ uru  [ UNMNG ]  𒊘  uru10  "" 
+ urud  [ COPPER ]  𒍏;𒍏𒈫  urud ;  urud2  "copper" Akk.  erû 
+ uruh  [ PRIEST ]  𒆵𒈹;𒆵𒀭𒈹;𒋖𒀭𒈹;𒀭𒈹𒆵  UH3 .MUŠ3 ;  UH3 .AN.MUŠ3 ;  ŠITA.AN.MUŠ3 ;  AN.MUŠ3 .KUŠU2  "a priest who performs funerary rites" 
+ urum  [ MALE ]  𒊘  urum3  "male" Akk.  zikaru 
+ urum  [ PROPERTY ]  𒌑𒀸  u2 -rum  "property" 
+ urun  [ CLEVER ]  urun·(𒂗)  urun x (EN)  "(to be) clever" Akk.  naklu 
+ urun  [ EXALTED ]  urun·(𒂗);𒍇𒊒;𒌷;𒋀𒀊  urun x (EN) ;  u18 -ru ;  uru ;  uru15  "(to be) exalted; (to be) strong" Akk.  dannu ;  šapsu ;  şīru 
+ urun  [ PACIFICATION ]  urun·(𒂗);𒍇𒊒  urun x (EN) ;  u18 -ru  "pacification (of waves)" Akk.  tanīhu ša agî 
+ urur  [ FUNCTIONARY ]  𒌨𒌨  ur-ur  "cultic person; jackal; caterpillar" Akk.  ākilu 
+ urur  [ PLANT ]  𒌨𒌨𒊬  ur-ur sar  "a plant" 
+ ururu  [ LAMENT ]  𒅇𒊒𒊒  u3 -ru-ru  "a lament" Akk.  yarūru 
+ urutamga  [ UNMNG ]  𒌾  urutamga  "" 
+ urutu  [ STONE ]  𒎎𒌑𒊒𒌈;𒎎𒌑𒊒𒌅  na4 u2 -ru-tum ;  na4 u2 -ru-tu  "a stone" Akk.  uruttu 
+ urzababitum  [ INSTRUMENT ]  𒌨𒍝𒁀𒉈𒌈  ur-za-ba-bi2 -tum  "a musical instrument" 
+ urzinum  [ UNMNG ]  𒄑𒌨𒍣𒈝;𒄑𒌫𒍣𒉏  ĝeš ur-zi-num2 ;  ĝeš ur2 -zi-num  "" 
+ us  [ FOLLOW ]  𒍑  us2  "(to be) of a lesser quality; to drag; to stretch; to accompany, follow; a qualification of grain; to thresh (grain) by treading; to coagulate?" Akk.  diāšu ;  redû ;  šadādu 
+ us  [ LEAN ]  𒍑  us2  "to lean on, impose; to check" Akk.  emēdu ;  sanāqu 
+ us  [ SHEEP ]  𒇆𒄞  us5  "sheep" Akk.  lahru 
+ us  [ SIDE ]  𒍑  us2  "side, edge; path" Akk.  šiddu 
+ usaDU  [ BORDER ]  𒍑𒀀𒁺;𒍑𒊓𒁺  us2 -a-DU ;  us2 -sa-DU  "border" 
+ usag  [ BUNDLE ]  𒌑𒆥  u2 -sag11  "reed bundle for barrages" Akk.  šūru 
+ usag  [ SLEEP ]  𒅇𒁲;𒅇𒊑;𒅇𒊓𒂵  u3 -sa2 ;  u3 -di5 ;  u3 -sa-ga  "sleep" Akk.  šittu 
+ usag  [ UNMNG ]  usag·(𒉭𒀖·𒆷)  usag x (|NUNUZ.AB2 ×LA|)  "?" Akk.  ? 
+ usaga  [ PLANT ]  𒌑𒆥  u2 -saga11  "plant bundle" 
+ usaĝ  [ EARLY ]  𒌑𒊕  u2 -saĝ  "early crop" 
+ usakar  [ MOON ]  𒌓𒊬  u4 -sakar  "crescent moon; moon; crescent-shaped object; semi-circular line; half wheel" Akk.  uskāru ;  warhu 
+ usal  [ MEADOW ]  𒌑𒊩;𒇇𒊩;𒊩𒆸·(𒄞𒄞)?;𒆸·(𒄞𒄞)𒁲𒌓  u2 -sal ;  u8 -sal ;  SAL.|LAGAB×(GUD+GUD)|.DI? ;  |LAGAB×(GUD+GUD)|.DI.UD.SAL?  "meadow, pasture" Akk.  aburriš ;  ušallu 
+ usala nud  [ LIE DOWN ]  𒌑𒊩𒆷𒈿  u2 -sal-la nud  "to lie down peacefully" Akk.  aburriš rabāşu 
+ usan  [ EVENING ]  𒀭𒄝;𒌑𒋜𒀭;𒄝;𒀭𒌑𒋜𒀭;𒌑𒋛𒀭;𒄝;𒀭𒄝·(𒄙);𒀭𒄝·(𒄘·𒆕)  an-usan ;  u2 -sa11 -an ;  usan ;  an-u2 -sa11 -an ;  u2 -si-an ;  usan2 ;  an-usan x (GU2 x KAK) ;  an-usan x (|GU2 × KAK|)  "evening; (in the) evening" Akk.  šimetan ;  šimītān 
+ usan  [ WHIP ]  𒋢𒉮;𒄑𒉮;𒋢𒌓𒍝𒀭  kuš usan3 ;  ĝeš usan3 ;  kuš u4 -za-an  "whip" Akk.  qinnāzu 
+ usan  [ WORKER ]  𒊩𒆳𒉮  geme2 usan3  "a worker" 
+ usandu  [ WISE ]  𒄷𒆕;𒄷𒆕·(𒉭𒀖·𒀿)  usandu ;  usandu x (|NUNUZ.AB2 ×AŠGAB|)  "wise, clever" Akk.  emqu 
+ usansuru  [ UNMNG ]  usansuru·(𒉭𒀖·𒀿)  usansuru x (|NUNUZ.AB2 ×AŠGAB|)  "?" 
+ usar  [ NEIGHBOR ]  𒇳𒊬;𒄷𒋛𒋗𒌫;𒅇𒋗𒊒;𒅇𒋗𒌫  usar ;  u5 -šu-ur2 ;  u3 -šu-ru ;  u3 -šu-ur2  "(female) neighbor; secondary wife" Akk.  ši'ītu 
+ usar ak  [ SHARPEN ]  𒅇𒊬𒀝;𒅇𒊓𒅈𒀝;𒌓𒊬𒀝  u3 -sar ak ;  u3 -sa-ar ak ;  u4 -sar ak  "to sharpen" 
+ usarra  [ PLANT ]  𒌑𒊬𒊏  u2 -sar-ra  "type of plant" 
+ usi  [ STOREROOM ]  GA2×ŠE  usi  "storeroom" Akk.  qarītu 
+ usil  [ UNMNG ]  𒂳  usil  "" 
+ usim  [ BIRD ]  𒄷𒋛𒉆𒄷  u5 -sim mušen  "a bird" Akk.  qaqû 
+ usium  [ STONE ]  𒎎𒌑𒋛𒌝  na4 u2 -si-um  "type of stone" 
+ ussaĝ  [ BOND ]  𒍑𒊕  us2 -saĝ  "(cosmic) bond" 
+ ussu  [ EIGHT ]  𒑄  ussu  "eight" Akk.  šamānet 
+ usu  [ STRENGTH ]  𒀉𒆗  usu  "strength; force" Akk.  emûqu 
+ usud  [ STAFF ]  GA2×AN𒆕𒀀  usud  "shepherd's staff; scepter" Akk.  šibirru 
+ usuh  [ PRIEST ]  𒊩𒇬  usuh  "en-priest of Enki" Akk.  ēnû 
+ usuh  [ TREE ]  𒄑𒅇𒆪;𒄑𒌑𒆪  ĝeš u3 -suh5 ;  ĝeš u2 -suh5  "a tree" Akk.  ašūhu 
+ usur  [ SUSPEND ]  𒇲𒆸;𒇲  usur4 ;  sur5  "to suspend" Akk.  šuqallulu 
+ usutuku  [ STRONG ]  𒀉𒆗𒌇  usu-tuku  "strong" 
+ uš  [ BLOCK ]  𒍗  uš2  "to shut off, block up" Akk.  sekēru 
+ uš  [ BLOOD ]  𒍗  uš2  "blood, gore" Akk.  dāmu 
+ uš  [ DIE ]  𒍗  uš2  "to die; to be dead; to kill; death" Akk.  dāmu ;  mâtu ;  mūtu ;  uššu 
+ uš  [ FISH ]  𒍑𒄩  uš ku6  "a fish" 
+ uš  [ FOUNDATION ]  𒍑  uš  "foundation" Akk.  uššu 
+ uš  [ MEMBRANE ]  GA2×SAL;𒉦;𒉥  uš3 ;  uš5 ;  uš6  "membrane; womb; afterbirth" Akk.  ipu ;  silītu ;  silītu 
+ uš  [ POISON ]  𒅜  uš11  "poison" Akk.  imtu 
+ uš  [ REED ]  𒍗  uš2  "dead reed" 
+ uš  [ SPITTLE ]  𒅲;𒀸  uš7 ;  aš  "spittle" Akk.  rutû 
+ uš  [ VESSEL ]  𒋛𒀀  uš15  "a copper vessel" Akk.  uššu 
+ uš  [ UNIT ]  𒍑  uš  "a unit of length" 
+ uš gu  [ SPARE ]  𒍑𒅥;𒍗𒅥  uš gu7 ;  uš2  gu7  "to spare; to release" Akk.  padû 
+ ušbar  [ GARMENT ]  𒌆𒍑𒁇  tug2 uš-bar  "a kind of garment" 
+ ušbar  [ IN-LAW ]  𒍬;𒌫·𒌑𒀸;𒍬  ušbar ;  ušbar3 ;  ušbar2  "father-in-law; mother-in-law" Akk.  emu ;  emītu 
+ ušbar  [ STAFF ]  𒌋𒂘@t  ušbar5  "ruler's staff" Akk.  ušparu 
+ ušbar  [ WEAVER ]  𒍑𒁇  uš-bar  "weaver" Akk.  išparu 
+ ušeg  [ PLANT ]  𒌑𒊾·(𒄫)  u2 -šeg x (|HA@g|)  "a plant" Akk.  ašāgu 
+ ušela  [ SINGER ]  𒅇𒂠𒇲  u3 -še3 -la2  "female lament singer" Akk.  zammertu 
+ ušera  [ REED-BUNDLE ]  𒆸·𒌑𒀸  ušera  "bundle of reeds" Akk.  budduru 
+ ušga  [ YOUTH ]  𒍑𒂵  uš-ga  "attendant; youth" Akk.  gerseqqû ;  uškû 
+ ušim  [ GREENERY ]  𒌑𒋆  u2 -šim  "greenery" 
+ UŠLAGABU  [ OBJECT ]  𒍏𒍑𒇥  urudu UŠ.|LAGAB×U|  "a copper object" 
+ ušmeda  [ MEAT ]  𒍑𒈨𒁕  uš-me-da  "a type of meat" Akk.  ušmedû 
+ uštuh  [ LANDSCAPE ]  𒆠𒅁  uštuh  "a type of landscape" Akk.  huddudu 
+ ušu  [ ALONE ]  𒍀  ušu  "alone" Akk.  ēdiššu 
+ ušu  [ THIRTY ]  𒌍  ušu3  "thirty" 
+ ušub  [ BRICK-MOLD ]  𒄑𒅇𒊒;𒄑𒊒  ĝeš u3 -šub ;  ĝeš šub  "brick-mold; a geometric figure" Akk.  nalbanu 
+ ušub  [ PART OF REED ]  𒄀𒅇𒊒  gi u3 -šub  "part of reed" 
+ ušub  [ ~REED ]  𒋛𒀀  ušub  "a part of a reed" Akk.  adattu 
+ ušum  [ SNAKE ]  𒍀  ušum  "first and foremost; noble; snake" Akk.  ašaredu ;  bašmu ;  gitmālu 
+ ušumgal  [ DRAGON ]  𒃲𒁔;𒅇𒋗𒃲  ušumgal ;  u3 -šu-gal  "great dragon, snake" Akk.  ušumgallu 
+ ušumunda  [ PLANT ]  𒌑𒇰𒊬  u2 -šumunda  "a plant" 
+ ušuš  [ LAND ]  GA2×NUN  ušuš  "a type of land" Akk.  miţru 
+ ušzaga  [ DRIVELING ]  𒅜𒍠𒂵  uš11 -zag-ga  "driveling" 
+ utag  [ MAUL? ]  𒌑𒋳  u2 -tag  "maul?" 
+ utah  [ HEAVEN ]  𒌋𒂵  utah  "heaven" Akk.  šamû 
+ utte  [ LAND ]  𒆠𒆠  utte  "lower land" Akk.  mâtu šaplîtu 
+ uttu  [ COUNT ]  𒋃  uttu2  "count, number" Akk.  minûtu 
+ uttu  [ LOG ]  𒋸·(𒋳·𒆪);𒋸  uttu x (|TAG×KU|) ;  uttu  "a log, beam of a weaving utensil" Akk.  uddu 
+ uttuku  [ ABACUS ]  𒃻𒋃  uttuku  "abacus" Akk.  mahişātu ;  uttuku 
+ utu  [ ~CEREAL ]  ¿;𒌋𒂵;𒀾  LAK384 ;  utu2 ;  utu5  "a cereal concoction" Akk.  diktu 
+ utud  [ BEAR ]  𒌅;𒅇𒌅;𒌅𒌓  tud ;  u3 -tu ;  tu-ud  "to give birth (to), bear a child" Akk.  alādu 
+ utu'e  [ SUNRISE ]  𒌓𒌓𒁺  utu-e3  "sunrise" Akk.  şīt šamši 
+ utuhum  [ BREAD ]  𒅇𒂃𒄷𒌝;𒌓𒂃𒄷𒌝;𒅇𒂃𒌝  u3 -tuh-hu-um ;  u4 -tuh-hu-um ;  u3 -tuh-um  "a bread" 
+ utul  [ TUREEN ]  𒄰;𒌑𒁺;𒌑𒁕;𒂁𒄰;𒄑𒄰  utul2 ;  u2 -du ;  u2 -da ;  dug utul2 ;  ĝeš utul2  "tureen, large bowl" Akk.  diqāru 
+ utulla  [ STONE ]  𒌓𒇥𒇲  u4 -tul2 -la2  "a precious stone" Akk.  illuku 
+ utum  [ BIRD ]  𒍖𒌅  uz-tum12  "a bird" 
+ utuplu  [ SHAWL ]  𒌑𒁾𒇻  u2 -tup-lu  "a shawl" Akk.  utuplu 
+ utušuš  [ SUNSET ]  𒌓𒋙𒍑;𒌓𒋙  utu-šu2 -uš ;  utu-šuš2  "sunset; the West" Akk.  ereb šamši 
+ utuwa  [ FISH ]  𒁭(¿)𒄩  utuwa(LAK777) ku6  "a fish" 
+ utuwa  [ STUD ]  𒁭;𒁦  utuwa ;  utuwa2  "stud" Akk.  puhālu 
+ u'u  [ STONE ]  𒎎𒌑𒌑  na4 u2 -u2  "a stone" Akk.  šamnu 
+ u'u  [ UNMNG ]  𒅇𒇇;𒅇𒇇𒀀;𒅇𒇇𒄿  u3 -u8 ;  u3 -u8 -a ;  u3 -u8 -i  "" 
+ u'ug  [ DEAF ]  𒌑𒊌  u2 -ug  "deaf; (to be) difficult, obstinate" 
+ u'ul  [ CONSENT ]  𒌓𒌌  u4 -ul  "consent" Akk.  annu 
+ uURUua  [ PLANT ]  𒌑𒌷𒅇𒀀  u2 -URU-u3 -a  "type of plant" 
+ u'uz  [ BIRD ]  𒌦𒄷  un mušen  "a bird" 
+ uz  [ DUCK ]  𒍖;𒍖𒄷  uz ;  uz mušen  "wild duck" Akk.  ūsu 
+ uzaglal  [ UNIT ]  𒀹  uzaglal  "a unit of area" Akk.  uzaglalû 
+ uzahal  [ DISAPPEARANCE ]  𒌓𒍝𒄬;𒌓𒍝𒄩𒀠  u4 -za-hal ;  u4 -za-ha-al  "disappearance" Akk.  halāqu 
+ uzga  [ PRIEST ]  𒍖𒂵;𒆈;𒌑𒅝𒄀;𒍚𒂵;𒆈;𒌑𒅗;𒌑𒊕;𒌑𒆳𒉌𒌇𒆠;𒆈·;𒌑𒅲  uz-ga ;  uzug5 ;  u2 -si18 -gi ;  uz3 -ga ;  uzug ;  uzug2 ;  uzug3 ;  uzug4 ;  uzug x ;  u2 -zug4  "a type of priest" 
+ uzga  [ TREASURE ]  𒍖𒂵;𒍖𒂵𒂠;𒆈·(𒅗);𒍖𒂵𒋫;𒆈;𒍚𒂵;𒍖𒂵𒉈;𒍖𒂵;𒍖𒂵𒉈;𒆈·(𒀭𒍠);usag·(𒌋𒊭);𒊓usag·(𒌋𒊭);𒊓usag·(𒌋𒊭)𒆠  uz-ga ;  uz-ga-še3 ;  uzug x (KA) ;  uz-ga-ta ;  uzug ;  uz3 -ga ;  us-ga-ne ;  us-ga ;  uz-ga-ne ;  uzug x (|AN.ZAG|) ;  usag x (|U.ŠA|) ;  sa usag x (|U.ŠA|) ;  sa usag x (|U.ŠA|) ki  "cella, shrine; goods, treasure; treasury" Akk.  sagû ;  sukku 
+ uzgi  [ BIRD ]  𒍖𒄄𒄷  uz-gi4 mušen  "a bird" 
+ UZTUR  [ DUCK ]  𒍖𒌉  UZ.TUR  "type of duck" 
+ uzu  [ DIVINER ]  𒍬  uzu2  "diviner" Akk.  bārû 
+ uzu  [ FLESH ]  𒍜;𒍜(¿)  uzu ;  uzu(LAK350)  "flesh; body; entrails; omen" Akk.  šīru 
+ uzubal  [ ~SOUP ]  𒍜𒁄  uzu-bal  "a designation of soups" 
+ uzud  [ GOAT ]  𒍚  uzud  "(female) goat" Akk.  enzu 
+ uzudga  [ GOAT ]  𒍚𒂵  uzud-ga  "milk goat" 
+ uzudirig  [ MUSHROOM ]  𒍜𒋛𒀀  uzu-dirig  "mushroom" 
+ uzuga  [ ENTRAIL ]  𒍜𒂵  uzu-ga  "entrail omen" 
+ uzuge  [ CHAIN ]  𒌑𒍪𒍻  u2 -zu-ge  "chain" 

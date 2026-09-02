@@ -1,0 +1,412 @@
+npm install -g jsdom canvas jsdom-global
+Missing require: request
+>>>  TAxŠE ku6  
+ TA×ŠE  [ FISH ]  TA.ŠE.HA𒄩  TAxŠE ku6  "a fish" 
+>>>  ta-am3  
+ ta'am  [ EACH ]  𒋫𒀀𒀭  ta-am3  "each" 
+>>>  tab  
+ tab  [ BEGIN ]  𒋰  tab  "to begin" Akk.  šurrû 
+>>>  tab ;  tab2  
+ tab  [ BURN ]  𒋰;𒄉  tab ;  tab2  "to burn, fire; to dye (red); to brand, mark" Akk.  hamāţu ;  šamātu ;  şarāpu 
+>>>  tab ;  tab4  
+ tab  [ COMPANION ]  𒋰;|U.U|  tab ;  tab4  "companion, partner" 
+>>>  tab ;  tab4  
+ tab  [ DOUBLE ]  𒋰;|U.U|  tab ;  tab4  "to double; to repeat; companion, partner" Akk.  eşēpu ;  tappû 
+>>>  tab  
+ tab  [ FLATTEN ]  𒋰  tab  "to flatten" Akk.  sapānu 
+>>>  tab  
+ tab  [ GRASP ]  𒋰  tab  "to grasp" Akk.  tamāhu 
+>>>  tab  
+ tab  [ ILLNESS ]  𒋰  tab  "illness, disease" Akk.  murşu 
+>>>  lu2 tab-ba  
+ taba  [ COMPANION ]  𒇽𒋰𒁀  lu2 tab-ba  "companion" Akk.  tappû 
+>>>  na4 TA-ba  
+ TAba  [ STONE ]  𒎎𒋫𒁀  na4 TA-ba  "a stone" 
+>>>  tab-ba sar  
+ tabba  [ VEGETABLE? ]  𒋰𒁀𒊬  tab-ba sar  "a vegetable?" Akk.  agabu 
+>>>  TAB.ME  
+ TABME  [ SAW ]  𒋰𒈨  TAB.ME  "a saw" 
+>>>  tab-us2  
+ tabus  [ COMPANION ]  𒋰𒍑  tab-us2  "companion" 
+>>>  tag  
+ tag  [ TOUCH ]  𒋳  tag  "to touch, take hold of; to bind; to attack" Akk.  lapātu ;  rakāsu 
+>>>  tah  
+ tah  [ ADD ]  𒈭  tah  "to add, increase" Akk.  aşābu 
+>>>  ta-hab2 ;  ta-ta-hab2 ;  ta-hab  
+ tahab  [ SOAK? ]  𒋫𒇥;𒋫𒋫𒇥;𒋫𒇥  ta-hab2 ;  ta-ta-hab2 ;  ta-hab  "to ooze, drip?; to soak, saturate?" 
+>>>  dah-hu-um  
+ tahhum  [ REPLACEMENT ]  𒈭𒄷𒌝  dah-hu-um  "replacement" Akk.  tahhum 
+>>>  tak4 ;  da  
+ tak  [ UNMNG ]  𒋺;𒁕  tak4 ;  da  "" 
+>>>  |TAK4 .ALAN|  
+ TAK.ALAN  [ CRAFTSMAN ]  𒋺𒀩  |TAK4 .ALAN|  "craftsman" 
+>>>  tak4  
+ taka  [ ABANDON ]  𒋺  tak4  "to set aside, leave behind; to save, keep back, hold back" Akk.  ezēbu ;  uhhuru ;  šêtu 
+>>>  taka4 ;  taka x (BALAG)  
+ taka  [ CVVE ]  𒋺;𒁆(𒁆)  taka4 ;  taka x (BALAG)  "(compound verb verbal element)" 
+>>>  taka4  la2  
+ taka la  [ OPEN ]  𒋺𒇲  taka4  la2  "to open" 
+>>>  tal2  
+ tal  [ BROAD ]  𒉿  tal2  "(to be) broad, expand" Akk.  rapāšu 
+>>>  tal3 ;  ti-il ;  tal ;  tal4 ;  tal5 ;  ta-il ;  til  
+ tal  [ CLAMOR ]  𒀸;𒋾𒅋;𒊑;𒁹;|KAD₅.KAD₅|;𒋫𒅋;𒌀  tal3 ;  ti-il ;  tal ;  tal4 ;  tal5 ;  ta-il ;  til  "cry, clamour; battle cry" Akk.  ikkillu ;  tanūqātu ;  šīsu 
+>>>  ta-li2 -um  
+ talium  [ VEGETABLE ]  𒋫𒉌𒌝  ta-li2 -um  "a vegetable" 
+>>>  tam ;  tan2  
+ tam  [ CLEAN ]  𒌓;|GA₂×ME+EN|  tam ;  tan2  "(to be) bright; (to be) pure; to purify; (to be) clean" Akk.  ebbu ;  elēlu ;  zakû 
+>>>  dam ;  tam  
+ tam  [ TRUST ]  𒁮;𒌓  dam ;  tam  "to trust; to believe" Akk.  qīapu 
+>>>  tar ;  tar ar  
+ tar  [ CUT ]  𒋻;𒋻𒅈  tar ;  tar ar  "to cut down; to untie, loosen; to cut; to scatter, disperse; to decide" Akk.  harāşu ;  parāsu ;  paţāru ;  sapāhu 
+>>>  tar ku6  
+ tar  [ FISH ]  𒋻𒄩  tar ku6  "a kind of fish" 
+>>>  TAR mušen  
+ TAR  [ BIRD ]  𒋻𒄷  TAR mušen  "a bird" Akk.  şibāru 
+>>>  TAR  
+ TAR  [ DISEASE ]  𒋻  TAR  "a disease" Akk.  kettu 
+>>>  targul ;  targul x (|MA2 .KAK|)  
+ targul  [ POLE ]  |MA₂.MUG|;|MA₂.KAK|(𒈣𒆕)  targul ;  targul x (|MA2 .KAK|)  "a wooden tool used in weaving; mooring pole; mooring rope; mast" Akk.  tarkullu 
+>>>  tar2 -KAK  
+ tarKAK  [ POLE ]  𒁯𒆕  tar2 -KAK  "mooring pole" 
+>>>  tar-luh  
+ tarluh  [ PROFESSION ]  𒋻𒈛  tar-luh  "a profession" 
+>>>  ĝeš taškarin ;  taškarin  
+ taškarin  [ BOXWOOD ]  𒄑GIŠ.TUG₂;GIŠ.TUG₂  ĝeš taškarin ;  taškarin  "box tree, boxwood" Akk.  taskarinnu 
+>>>  ĝeš taskarin  
+ taškarin  [ KING ]  𒄑GIŠ.TUG₂  ĝeš taskarin  "king" 
+>>>  ĝeš taskarin  
+ taškarin  [ LUXURIANT ]  𒄑GIŠ.TUG₂  ĝeš taskarin  "luxuriant" 
+>>>  ĝeš taskarin  
+ taškarin  [ PURE ]  𒄑GIŠ.TUG₂  ĝeš taskarin  "pure" 
+>>>  ĝeš taskarin  
+ taškarin  [ TALL ]  𒄑GIŠ.TUG₂  ĝeš taskarin  "tall" 
+>>>  taš-liš ;  UR.GAM  
+ tašliš  [ UNMNG ]  𒌨𒇺;𒌨𒃵  taš-liš ;  UR.GAM  "" 
+>>>  ĝeš te ;  ĝeš ti  
+ te  [ BOAT ]  𒄑𒋼;𒄑𒋾  ĝeš te ;  ĝeš ti  "a part of a boat, cart or chariot" Akk.  dapānu 
+>>>  te  
+ te  [ CHEEK ]  𒋼  te  "cheek" Akk.  lētu 
+>>>  te  
+ te  [ MEMBRANE ]  𒋼  te  "membrane" Akk.  šišītu 
+>>>  te  
+ te  [ PIERCE ]  𒋼  te  "to pierce" Akk.  sahālu 
+>>>  teĝ3 ;  teĝ4  
+ teĝ  [ APPROACH ]  𒋼;𒋾  teĝ3 ;  teĝ4  "(to be) near to; to approach" Akk.  ţehû 
+>>>  tehi2 ;  tehi  
+ tehi  [ APPROACH ]  𒌝;𒁾  tehi2 ;  tehi  "to approach" Akk.  ţehû 
+>>>  dih2  
+ tehi  [ DISEASE ]  𒌝  dih2  "disease" 
+>>>  teme ;  teme2  
+ teme  [ PLANT ]  𒉀;NAGA@180  teme ;  teme2  "a plant" Akk.  šāmitu 
+>>>  temen  
+ temen  [ FOUNDATION ]  𒋼  temen  "foundation" Akk.  temennu 
+>>>  te-na ;  te-en  
+ ten  [ COOL ]  𒋼𒈾;𒋼𒂗  te-na ;  te-en  "to be cool, become cool" 
+>>>  te-en ;  ten  
+ ten  [ EXTINGUISH ]  𒋼𒂗;𒋼  te-en ;  ten  "to extinguish" Akk.  belû 
+>>>  ten3  
+ ten  [ UNMNG ]  DUN₃@g@g  ten3  "" 
+>>>  te-er-zum  
+ terzum  [ PRESENTATION ]  𒋼𒅕𒍮  te-er-zum  "presentation" 
+>>>  teš2  
+ teš  [ PRIDE ]  UR  teš2  "pride" Akk.  bāštu 
+>>>  teš2  
+ teš  [ UNITY ]  UR  teš2  "unity" 
+>>>  te-eš  
+ teš  [ VOICE ]  𒋼𒌍  te-eš  "voice" Akk.  rigmu 
+>>>  tešbi  
+ tešbi  [ UNMNG ]  U₂  tešbi  "" 
+>>>  tešlug  
+ tešlug  [ HATCHLING ]  |LU₂×LAGAB|  tešlug  "hatchling" Akk.  atmu 
+>>>  teš2 -tuku  
+ teštuku  [ PROUD ]  UR𒌇  teš2 -tuku  "proud" 
+>>>  te-te  
+ tete  [ DISEASE ]  𒋼𒋼  te-te  "a disease" Akk.  suhumu 
+>>>  ti  
+ ti  [ ARROW ]  𒋾  ti  "arrow" 
+>>>  ti8 mušen  
+ ti  [ BIRD ]  A₂.HU𒄷  ti8 mušen  "a bird of prey" Akk.  erû 
+>>>  ti ku6  
+ ti  [ FISH ]  𒋾𒄩  ti ku6  "a fish" 
+>>>  uzu ti  
+ ti  [ RIB ]  𒍜𒋾  uzu ti  "rib" Akk.  şilu 
+>>>  ĝeš ti  
+ ti  [ UNMNG ]  𒄑𒋾  ĝeš ti  "unmng" 
+>>>  ti bala  
+ ti bala  [ TURN SIDEWAYS ]  𒋾𒁄  ti bala  "to turn sideways" Akk.  ? 
+>>>  ti rah2  
+ ti rah  [ SHOOT ]  𒋾𒊏  ti rah2  "to shoot an arrow" Akk.  ? 
+>>>  ĝeš ti-a-ru-um  
+ ti'arum  [ TREE ]  𒄑𒋾𒀀𒊒𒌝  ĝeš ti-a-ru-um  "a tree" 
+>>>  ĝeš ti-bal ;  urudu ti-bal  
+ tibala  [ SIGN ]  𒄑𒋾𒁄;U+1234F𒋾𒁄  ĝeš ti-bal ;  urudu ti-bal  "sign" Akk.  şaddu 
+>>>  tibir ;  tibir2 ;  tibir4 ;  tibir3  
+ tibir  [ HAND ]  𒋳;𒋷;|TAG×TUG₂|;|TAG×UD|  tibir ;  tibir2 ;  tibir4 ;  tibir3  "hand; fist" Akk.  qātu ;  rittu ;  upnu 
+>>>  tibir5  
+ tibir  [ UNMNG ]  |TAG×GUD|  tibir5  "" 
+>>>  tibira  
+ tibira  [ SCULPTOR ]  𒅪  tibira  "sculptor" Akk.  qurqurru 
+>>>  tibnu  
+ tibnu  [ UNMNG ]  𒋿  tibnu  "" 
+>>>  ti-di-il  
+ tidil  [ CRAMPED ]  𒋾𒁲𒅋  ti-di-il  "(to be) cramped" 
+>>>  tigi  
+ tigi  [ INSTRUMENT ]  𒈜𒁆  tigi  "drum or other musical instrument; type of song" Akk.  tigû 
+>>>  ti-gi4 -lu mušen ;  ti-lu ;  ti-gid2 -lu2 mušen ;  ti-gid2 mušen -lu2 -a ;  tigidla ;  tigidla3 ;  tigidla x (|ŠA3 .MIN.TAR|) ;  ti-id-lu ;  da-gi4 -lum x (|ZU&ZU.SAR|)  
+ tigidlu  [ BIRD ]  𒋾𒄄𒇻𒄷;𒋾𒇻;𒋾𒁍𒇽𒄷;𒋾𒁍𒄷𒇽𒀀;|ŠA₃.TAR|;|ŠA₃.MIN.DI|;|ŠA₃.MIN.TAR|(𒊮𒈫𒋻);𒋾𒀉𒇻;𒁕𒄄𒈝·(𒍪𒍪𒊬)  ti-gi4 -lu mušen ;  ti-lu ;  ti-gid2 -lu2 mušen ;  ti-gid2 mušen -lu2 -a ;  tigidla ;  tigidla3 ;  tigidla x (|ŠA3 .MIN.TAR|) ;  ti-id-lu ;  da-gi4 -lum x (|ZU&ZU.SAR|)  "a bird" Akk.  tigi(l)lû 
+>>>  tigidla ;  tigidla x (|ŠA3 .MIN.DI|) ;  tigidla x (|ŠA3 .MIN.TAR|) ;  ĝeš DI.TAR  
+ tigidlu  [ INSTRUMENT ]  |ŠA₃.TAR|;|ŠA₃.MIN.TAR|(𒊮𒈫𒁲);|ŠA₃.MIN.TAR|(𒊮𒈫𒋻);𒄑𒁲𒋻  tigidla ;  tigidla x (|ŠA3 .MIN.DI|) ;  tigidla x (|ŠA3 .MIN.TAR|) ;  ĝeš DI.TAR  "a musical instrument" 
+>>>  dug ti-gul  
+ tigul  [ POT ]  𒂁𒋾𒄢  dug ti-gul  "a pot" Akk.  karpatu 
+>>>  ti-ki-il  
+ tikil  [ POINTED ]  𒋾𒆠𒅋  ti-ki-il  "(to be) pointed" 
+>>>  ti-ku-ti-ku-ma-e  
+ tikutikumae  [ BIRD-CRY ]  𒋾𒆪𒋾𒆪𒈠𒂊  ti-ku-ti-ku-ma-e  "bird-cry" 
+>>>  til ;  til3  
+ til  [ COMPLETE ]  𒌀;𒋾  til ;  til3  "(to be) complete(d); (to be) old, long-lasting; to end" Akk.  gamāru ;  labāru ;  qatû 
+>>>  til3  
+ til  [ LIVE ]  𒋾  til3  "to live; to sit (down); to dwell" Akk.  ašābu ;  balāţu 
+>>>  til  
+ til  [ POLE ]  𒌀  til  "a pole, part of a wooden object" 
+>>>  tilhar  
+ tilhar  [ CLOUD ]  |GA₂×BAD|  tilhar  "cloud" Akk.  upû 
+>>>  dug ti-lim ;  dug ti-li-ma  
+ tilima  [ CUP ]  𒂁𒋾𒅆;𒂁𒋾𒇷𒈠  dug ti-lim ;  dug ti-li-ma  "a cup" Akk.  tilimatu 
+>>>  ti-lim-da  
+ tilimda  [ VESSEL ]  𒋾𒅆𒁕  ti-lim-da  "a water vessel" Akk.  tilimdû 
+>>>  tilla2 ;  tilla3 ;  tilla ;  tilla4 ;  tilla5 ;  tilla x (|AN&AN|)  
+ tilla  [ STREET ]  |AN.AŠ.AN|;|AN.DIŠ.AN|;|AN.AŠ.AN|;|AN.AŠ.A.AN|;|AN.AŠ@z.AN|;|AN&AN|(𒀭𒀭)  tilla2 ;  tilla3 ;  tilla ;  tilla4 ;  tilla5 ;  tilla x (|AN&AN|)  "street" Akk.  sūqu 
+>>>  til-lu-ug  
+ tillug  [ ELEPHANT ]  𒌀𒇻𒊌  til-lu-ug  "elephant" Akk.  pīru 
+>>>  tir ;  ĝeš tir  
+ tir  [ BOW ]  𒌁;𒄑𒌁  tir ;  ĝeš tir  "bow" 
+>>>  tir ;  ĝeš tir  
+ tir  [ FOREST ]  𒌁;𒄑𒌁  tir ;  ĝeš tir  "mud; forest, wood" Akk.  luhummû ;  qištu 
+>>>  lu2 tir ;  tir  
+ tir  [ FORESTER ]  𒇽𒌁;𒌁  lu2 tir ;  tir  "forester" 
+>>>  u2 tir  
+ tir  [ PLANT ]  𒌑𒌁  u2 tir  "a plant" 
+>>>  tir5 ;  tir4  
+ tir  [ UNMNG ]  𒉼;|SI.A|  tir5 ;  tir4  "" 
+>>>  tir-an-na  
+ tirana  [ RAINBOW ]  𒌁𒀭𒈾  tir-an-na  "rainbow" 
+>>>  ti-ri2 -da  
+ tirida  [ BIRD-CRY ]  𒋾𒌷𒁕  ti-ri2 -da  "a bird-cry" 
+>>>  ti-ri2 -da mušen ;  tir-dug3 mušen ;  tir-du mušen  
+ tirida  [ BIRD ]  𒋾𒌷𒁕𒄷;𒌁𒄭𒄷;𒌁𒁺𒄷  ti-ri2 -da mušen ;  tir-dug3 mušen ;  tir-du mušen  "a bird" 
+>>>  ti-ri2 -ga ;  ti-ri2 -da  
+ tirida  [ RUNAWAY ]  𒋾𒌷𒂵;𒋾𒌷𒁕  ti-ri2 -ga ;  ti-ri2 -da  "runaway" 
+>>>  ti-ri2 -da-nu  
+ tiridanu  [ EVIL ]  𒋾𒌷𒁕𒉡  ti-ri2 -da-nu  "(to be) evil" 
+>>>  tirigi  
+ tirigi  [ UNMNG ]  |SAG.AN|  tirigi  "" 
+>>>  tiru ;  TE.GAL?  
+ tiru  [ COURTIER ]  𒃲𒋼;𒋼  tiru ;  TE.GAL?  "courtier" Akk.  māri ekallim 
+>>>  ti-sa2  
+ tisa  [ UNMNG ]  𒋾𒁲  ti-sa2  "?" Akk.  ? 
+>>>  ti-sah4  
+ tisah  [ FIGHT ]  𒋾|GU%GU|  ti-sah4  "fight" Akk.  ašgagu 
+>>>  dug ti-šub  
+ tišub  [ POT ]  𒂁𒋾𒊒  dug ti-šub  "a pot" Akk.  karpatu 
+>>>  titab2 ;  titab  
+ titab  [ ~BEER ]  |LU₃.PAP.PAP|;|LU₃.PAP.PAP|  titab2 ;  titab  "an ingredient in beer-making" Akk.  titāpū 
+>>>  TI.UM  
+ TIUM  [ UNMNG ]  𒋾𒌝  TI.UM  "?" 
+>>>  ti8 -uz mušen ;  ti8 -uš2 mušen ;  da-uz  
+ ti'uz  [ BIRD ]  A₂.HU𒊻𒄷;A₂.HU𒍗𒄷;𒁕𒊻  ti8 -uz mušen ;  ti8 -uš2 mušen ;  da-uz  "a bird" Akk.  nadru 
+>>>  tu14  
+ tu  [ BEAT ]  𒋃  tu14  "to beat; to weave" Akk.  mahāşu ;  ţurru 
+>>>  tu5 ;  tu17 ;  tu15  
+ tu  [ CVVE ]  𒋗𒉀;𒀀𒋗𒉀;𒅎  tu5 ;  tu17 ;  tu15  "(compound verb verbal element)" 
+>>>  tu ku6  
+ tu  [ FISH ]  𒌅𒄩  tu ku6  "a fish" 
+>>>  tu6  
+ tu  [ INCANTATION ]  GAR.  tu6  "incantation, spell" Akk.  šiptu 
+>>>  tu x (|KA×UD|)  
+ tu  [ LEADER ]  |KA×UD|(𒆉)  tu x (|KA×UD|)  "leader" Akk.  babalu 
+>>>  tu  
+ tu  [ PRIEST ]  𒌅  tu  "priest" 
+>>>  tu7  
+ tu  [ SOUP ]  |HI×BAD|  tu7  "soup, broth" Akk.  ummaru 
+>>>  TU  
+ TU  [ PRIEST ]  𒌅  TU  "type of priest" 
+>>>  TU  
+ TU  [ SHEEP ]  𒌅  TU  "sheep" 
+>>>  tu11 ;  tu10  
+ tub  [ SMITE ]  𒄸;|HUB₂×UD|  tu11 ;  tu10  "to heap up; to strike down" Akk.  hatû ;  kamāru 
+>>>  tuba3  
+ tuba  [ UNMNG ]  𒋃  tuba3  "?" Akk.  pirsānu 
+>>>  TU9 .BA  
+ TUBA  [ UNMNG ]  TUG₂.BA𒁀  TU9 .BA  "?" 
+>>>  tuba x (TUG2 )-la2 -a  
+ tubala  [ HARNESS ]  TUG₂.LAL.A(𒌆)𒇲𒀀  tuba x (TUG2 )-la2 -a  "harness (for climbing)" 
+>>>  tug2 tu-ba-tum  
+ tubatum  [ GARMENT ]  𒌆𒌅𒁀𒌈  tug2 tu-ba-tum  "a garment" 
+>>>  tug2 tu-ba-tum-KU-za  
+ tubatum.KU.za  [ GARMENT ]  𒌆𒌅𒁀𒌈𒆪𒍝  tug2 tu-ba-tum-KU-za  "a garment" 
+>>>  tu-bu-ul  
+ tubul  [ CVVE ]  𒌅𒁍𒌌  tu-bu-ul  "(compound verb verbal element)" 
+>>>  tud2  
+ tud  [ BEAT ]  𒉺𒍜  tud2  "to hit, beat" Akk.  naţû 
+>>>  tu-di-da ;  urud tu3 -di3 -da ;  tu-di-tum zabar ;  urud tu3 -di-da ;  urud tu-di3 -da  
+ tuditum  [ TOGGLE PIN ]  𒌅𒁲𒁕;U+1234F𒍏𒋾𒁕;𒌅𒁲𒌈𒌓𒊕𒁇;U+1234F𒍏𒁲𒁕;U+1234F𒌅𒋾𒁕  tu-di-da ;  urud tu3 -di3 -da ;  tu-di-tum zabar ;  urud tu3 -di-da ;  urud tu-di3 -da  "toggle pin" Akk.  tudittu 
+>>>  tu6 -dug4 -ga  
+ tuduga  [ INCANTATION FORMULA ]  GAR.𒅗𒂵  tu6 -dug4 -ga  "incantation formula" 
+>>>  tu6 -dug4  
+ tuduga  [ INCANTATION ]  GAR.𒅗  tu6 -dug4  "incantation" Akk.  šiptu, tuduqqu 
+>>>  tu-dur  
+ tudur  [ JEWELRY? ]  𒌅𒄙  tu-dur  "jewelry?" 
+>>>  tug x (LAK483)  
+ tug  [ PLOW? ]  LAK483(¿)  tug x (LAK483)  "a kind of plow?" 
+>>>  tug2  
+ tug  [ TEXTILE ]  𒌆  tug2  "textile, garment" Akk.  şubātu 
+>>>  tug x (LAK483) sig9  
+ tug sig  [ PLOW? ]  LAK483(¿)𒋛  tug x (LAK483) sig9  "to plow, to apply a certain type of plow" 
+>>>  tug2  sig9  
+ tug sig  [ STRIP ]  𒌆𒋛  tug2  sig9  "to strip" Akk.  šahāţu 
+>>>  tug2  tag  
+ tug tag  [ PLOW? ]  𒌆𒋳  tug2  tag  "to plow, to apply a certain type of plow?" Akk.  mahāşu ša [...] 
+>>>  tug2  ur3  
+ tug ur  [ ABANDON ]  𒌆𒃡  tug2  ur3  "to abandon (a claim)" 
+>>>  tug2 -du8  
+ tugdu  [ FELTER ]  𒌆𒂃  tug2 -du8  "felter" 
+>>>  tug2 -du8 -a  
+ tugdua  [ FELT ]  𒌆𒂃𒀀  tug2 -du8 -a  "felt" 
+>>>  tug2 -gilim-ma  
+ tuggilima  [ PROFESSION ]  𒌆𒄃𒈠  tug2 -gilim-ma  "a profession" 
+>>>  tug2 -gum-ma  
+ tuggumma  [ GARMENT ]  𒌆𒄣𒈠  tug2 -gum-ma  "type of garment" 
+>>>  tug2 -gun4 ;  tug2 -gun5  
+ tuggun  [ GARMENT ]  𒌆𒀕;𒌆𒈝  tug2 -gun4 ;  tug2 -gun5  "a garment" 
+>>>  tug2 -gur10 ;  tug2 -gur x (|ŠE.KIN|) ;  ĝeš tug2 -gur10 ;  tug2 -gur ;  ĝeš tug2 -gur8 ;  tukur x (|LAGAB×U|)  
+ tuggur  [ PLOW ]  𒌆𒆥;𒌆|ŠE.KIN|(𒊺𒆥);𒄑𒌆𒆥;𒌆𒄥;𒄑𒌆𒋽;|LAGAB×U|(𒇥)  tug2 -gur10 ;  tug2 -gur x (|ŠE.KIN|) ;  ĝeš tug2 -gur10 ;  tug2 -gur ;  ĝeš tug2 -gur8 ;  tukur x (|LAGAB×U|)  "a plow; to plow, to apply a tuggur-plow" 
+>>>  tug2 -guz-za ;  tug2 -gu-za  
+ tugguza  [ TEXTILE ]  𒌆𒈝𒍝;𒌆𒄖𒍝  tug2 -guz-za ;  tug2 -gu-za  "a textile" Akk.  haşbu 
+>>>  tug2 -ku-ru-um  
+ tugkurum  [ ~MOURNING ]  𒌆𒆪𒊒𒌝  tug2 -ku-ru-um  "mourning garment?" 
+>>>  tug2 -mu-dur7 -ra ;  tug2 -mudra6  
+ tugmudura  [ MOURNING GARMENT ]  𒌆𒈬𒁍𒊏;𒌆|MU.BU|  tug2 -mu-dur7 -ra ;  tug2 -mudra6  "mourning garment" Akk.  şubat arišti 
+>>>  tug2 -saga11 ;  ĝeš tug2 -sig18 ;  ĝeš tug2 -sa-ga ;  šu-saga11 ;  ĝeš tug2 -sig x (|ŠE.KIN|) ;  tug x (LAK483)-sig9  
+ tugsaga  [ PLOW ]  𒌆𒆥;𒄑𒌆𒆥;𒄑𒌆𒊓𒂵;𒋗𒆥;𒄑𒌆SAR(𒊺𒆥);LAK483(¿)𒋛  tug2 -saga11 ;  ĝeš tug2 -sig18 ;  ĝeš tug2 -sa-ga ;  šu-saga11 ;  ĝeš tug2 -sig x (|ŠE.KIN|) ;  tug x (LAK483)-sig9  "a plow" 
+>>>  TUG2 .ŠA3 .HA  
+ TUGŠAHA  [ GARMENT ]  𒌆𒊮𒄩  TUG2 .ŠA3 .HA  "a garment" 
+>>>  tug2 -šu-kar2 -ak  
+ tugšukarak  [ PROFESSION ]  𒌆𒋗𒃸𒀝  tug2 -šu-kar2 -ak  "a profession" 
+>>>  tug2 -šukur-ra  
+ tugšukura  [ PROFESSION ]  𒌆𒆕𒊏  tug2 -šukur-ra  "a profession" 
+>>>  tug2 -šukur-ur3 -ra  
+ tugšukurura  [ PROFESSION ]  𒌆𒆕𒃡𒊏  tug2 -šukur-ur3 -ra  "a profession" 
+>>>  ĝeš tug2 -tug2  
+ tugtug  [ ~LOOM ]  𒄑𒌆𒌆  ĝeš tug2 -tug2  "a designation of looms" Akk.  mukānu 
+>>>  ĝeš tu-gul  
+ tugul  [ BOAT ]  𒄑𒌅𒄢  ĝeš tu-gul  "a part of a boat?" 
+>>>  tu-gul-la mušen  
+ tugulla  [ BIRD ]  𒌅𒄢𒆷𒄷  tu-gul-la mušen  "a bird" Akk.  urţû 
+>>>  tu-gur4 mušen ;  tu-gur8 mušen ;  tu-gur5 mušen ;  tum12 -gur mušen ;  tu-gan2 mušen ;  tu-gan mušen  
+ tugur  [ DOVE ]  𒌅𒆸𒄷;𒌅𒋽𒄷;𒌅𒍀𒄷;𒌅𒄥𒄷;𒌅𒃷𒄷;𒌅𒃶𒄷  tu-gur4 mušen ;  tu-gur8 mušen ;  tu-gur5 mušen ;  tum12 -gur mušen ;  tu-gan2 mušen ;  tu-gan mušen  "dove" Akk.  sukannīnu 
+>>>  tugure  
+ tugure  [ UNMNG ]  |KA×GAN₂@t|  tugure  "" 
+>>>  tug2 -X  
+ tugX  [ GARMENT ]  𒌆·  tug2 -X  "a garment" 
+>>>  tuhul  
+ tuhul  [ HIP ]  |NAGAR.ZA@t|  tuhul  "hip bone" Akk.  giššu 
+>>>  tuhul-kud  
+ tuhulkud  [ CRIPPLE ]  |NAGAR.ZA@t|𒋻  tuhul-kud  "cripple" 
+>>>  tuk x (|IM.KAD3 |)  
+ tuk  [ BREAK ]  |IM.KAD₃|(𒅎𒆑)  tuk x (|IM.KAD3 |)  "to break off, pinch off; to cut, fell; to demolish; to scratch; to soften, dissolve" Akk.  karāşu ;  nakāsu ;  naqāru ;  narābu 
+>>>  tuku  
+ tuku  [ ACQUIRE ]  𒌇  tuku  "to acquire, get; to marry" Akk.  rašû 
+>>>  tuku5  
+ tuku  [ BEAT ]  𒋳  tuku5  "to beat, strike of cloth; to weave" Akk.  mahāşu 
+>>>  tuku4 ;  tu-ku  
+ tuku  [ ROCK ]  𒇧;𒌅𒆪  tuku4 ;  tu-ku  "to rock, shift" Akk.  nâšu 
+>>>  ĝeš tukul ;  tukul  
+ tukul  [ WEAPON ]  𒄑𒆪;𒆪  ĝeš tukul ;  tukul  "stick; weapon" Akk.  kakku 
+>>>  ĝeš tukul-šu-nir  
+ tukulšunir  [ EMBLEM ]  𒄑𒆪𒋗𒉪  ĝeš tukul-šu-nir  "a divine emblem" Akk.  maşrahtu ;  maşrahu 
+>>>  tukum  
+ tukum  [ IF ]  𒈜𒁆𒋗𒃻𒌉𒇲  tukum  "soon, perhaps; if" Akk.  surri ;  šumma 
+>>>  tukumbi  
+ tukumbi  [ IF ]  |ŠU.GAR.TUR.LAL.BI|  tukumbi  "if" Akk.  šumma 
+>>>  tukur2 ;  tukur ;  tukur3  
+ tukur  [ CHEW ]  𒆁;𒆸;𒆈  tukur2 ;  tukur ;  tukur3  "to chew, gnaw; to shear, pluck wool" Akk.  gaşaşu ;  kasāsu ;  sepû siki 
+>>>  tukur2 ;  tukur  
+ tukur  [ IMPORTANT ]  𒆁;𒆸  tukur2 ;  tukur  "important" Akk.  kabtu 
+>>>  tul2 ;  |LAGAB×TIL|  
+ tul  [ FOUNTAIN ]  |LAGAB×U|;𒆸·𒌀  tul2 ;  |LAGAB×TIL|  "public fountain; fish pond, pit; ditch, channel; excavation, trench" Akk.  būrtu ;  hirītu ;  kalakku 
+>>>  tul2 -saĝ  
+ tulsaĝ  [ EXCAVATION ]  |LAGAB×U|𒊕  tul2 -saĝ  "excavation" 
+>>>  tu-lu ;  tu-ul  
+ tulu  [ SLACKEN ]  𒌅𒇻;𒌅𒌌  tu-lu ;  tu-ul  "to slacken" Akk.  ramû 
+>>>  geš gul-bu ;  ĝeš tu-lu-bu-um ;  ĝeš dili-bu-um ;  gul-bu ;  ĝeš dal-bu-um  
+ tulubum  [ TREE ]  𒄑𒄢𒁍;𒄑𒌅𒇻𒁍𒌝;𒄑𒀸𒁍𒌝;𒄢𒁍;𒄑𒊑𒁍𒌝  geš gul-bu ;  ĝeš tu-lu-bu-um ;  ĝeš dili-bu-um ;  gul-bu ;  ĝeš dal-bu-um  "Oriental plane tree" Akk.  dulbu 
+>>>  tum3 ;  tum2  
+ tum  [ BRING ]  𒉐;𒁺  tum3 ;  tum2  "imperfect singular stem of de[to bring]" 
+>>>  tum  
+ tum  [ CROSS-BEAM ]  𒌈  tum  "cross-beam" Akk.  hurdatu 
+>>>  tum12 mušen  
+ tum  [ DOVE ]  𒌅𒄷  tum12 mušen  "wild dove" Akk.  summatu 
+>>>  tum12 mušen ku6  
+ tum  [ FISH ]  𒌅𒄷𒄩  tum12 mušen ku6  "a fish" 
+>>>  tum2  
+ tum  [ SUITABLE ]  𒁺  tum2  "to be suitable" 
+>>>  tum2 ;  tum4  
+ tum  [ UNMNG ]  𒁺;𒉏  tum2 ;  tum4  "" 
+>>>  na4 TUM  
+ TUM  [ STONE? ]  𒎎𒌈  na4 TUM  "a stone?" 
+>>>  TU9 .ME  
+ TUME  [ UNMNG ]  TUG₂.BA𒈨  TU9 .ME  "?" 
+>>>  tum12 -gur4 mušen ;  tum12 -gur8 mušen ;  tum12 mušen -gur8 ;  tum12 -kur2 mušen ;  tum12 -kur mušen  
+ tumgur  [ BIRD ]  𒌅𒆸𒄷;𒌅𒋽𒄷;𒌅𒄷𒋽;𒌅𒉽𒄷;𒌅𒆳𒄷  tum12 -gur4 mušen ;  tum12 -gur8 mušen ;  tum12 mušen -gur8 ;  tum12 -kur2 mušen ;  tum12 -kur mušen  "a domesticated dove" Akk.  sukannīnu 
+>>>  tum12 -i-bi2 mušen  
+ tumibi  [ BIRD ]  𒌅𒐊𒉈𒄷  tum12 -i-bi2 mušen  "a bird" 
+>>>  tum12 -šu-gur4  
+ tumšugur  [ RING? ]  𒌅𒋗𒆸  tum12 -šu-gur4  "dove-shaped ring?" 
+>>>  peš2 tum2 -tum2 -me ;  tum2 -tum2 -me  
+ tumtume  [ RODENT ]  𒉾𒁺𒁺𒈨;𒁺𒁺𒈨  peš2 tum2 -tum2 -me ;  tum2 -tum2 -me  "a rodent" Akk.  asqūdu 
+>>>  tumu  
+ tumu  [ WIND ]  𒅎  tumu  "wind" 
+>>>  tumu-dal  
+ tumudal  [ WIND ]  𒅎𒊑  tumu-dal  "storm wind" 
+>>>  urud tun3 ;  tun3  
+ tun  [ AX ]  U+1234F𒂅;𒂅  urud tun3 ;  tun3  "ax, adze" Akk.  pāšu 
+>>>  ĝeš tun3 ;  tun3  
+ tun  [ CONTAINER ]  𒄑𒂅;𒂅  ĝeš tun3 ;  tun3  "bag; stomach; a container" Akk.  tākaltu 
+>>>  tun3  
+ tun  [ LIP ]  𒂅  tun3  "lip; chin" Akk.  šaptu ;  suqtu 
+>>>  tungal ;  tungal2  
+ tungal  [ INSTRUMENT ]  |EN.ZU|;|EN.KI|  tungal ;  tungal2  "a stringed instrument" Akk.  tungallu 
+>>>  tun3 -la2  
+ tunla  [ VESSEL ]  𒂅𒇲  tun3 -la2  "a vessel" 
+>>>  tun3 -pad  
+ tunpad  [ PIECE ]  𒂅𒉻  tun3 -pad  "piece" 
+>>>  tur  
+ tur  [ CHILD ]  𒌉  tur  "(young) child" Akk.  šerru 
+>>>  tur5  
+ tur  [ ILL ]  𒌅  tur5  "illness, disease; (to be) ill" Akk.  marāşu ;  murşu 
+>>>  tur ;  tu  
+ tur  [ SMALL ]  𒌉;𒌅  tur ;  tu  "(to be) small; to reduce, diminish; to subtract; (to be) young" Akk.  şehērum 
+>>>  tur3 ;  e2 tur3  
+ tur  [ STALL ]  𒉣𒇬;𒂍𒉣𒇬  tur3 ;  e2 tur3  "animal stall" Akk.  tarbaşu 
+>>>  turan  
+ turan  [ UNMNG ]  |GU₂×KAK.GIŠ%GIŠ|  turan  "" 
+>>>  tur-mah-ba  
+ turmahba  [ RATION ]  𒌉𒈤𒁀  tur-mah-ba  "a kind of ration" 
+>>>  tur-ti ku6  
+ turti  [ FISH ]  𒌉𒋾𒄩  tur-ti ku6  "a fish" 
+>>>  TUR.UZ.ZA  
+ TURUZZA  [ DUCK? ]  𒌉𒊻𒍝  TUR.UZ.ZA  "type of duck?" 
+>>>  tuš  
+ tuš  [ SIT ]  𒆪  tuš  "to sit (down); to dwell" Akk.  ašābu 
+>>>  tuše  
+ tuše  [ UNMNG ]  𒀀𒁺  tuše  "" 
+>>>  tu-šum2 -dilmun  
+ tušumdilmun  [ UNMNG ]  𒌅𒋧𒉌𒌇  tu-šum2 -dilmun  "unmng" 
+>>>  tu-šum2 -ĝešnimbar  
+ tušumĝešnimbar  [ UNMNG ]  𒌅𒋧𒄑𒁇  tu-šum2 -ĝešnimbar  "unmng" 
+>>>  tu-šum2 -sikil  
+ tušumsikil  [ UNMNG ]  𒌅𒋧𒂖  tu-šum2 -sikil  "unmng" 
+>>>  tu-tu  
+ tutu  [ CVVE ]  𒌅𒌅  tu-tu  "(compound verb verbal element)" 
+>>>  tu-tu-ba sar  
+ tutuba  [ ~VEGETABLE ]  𒌅𒌅𒁀𒊬  tu-tu-ba sar  "a designation of vegetables" 

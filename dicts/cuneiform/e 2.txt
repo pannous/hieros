@@ -1,0 +1,825 @@
+ePSD Sumerian Citation Form Index
+
+E
+
+e
+e [BARLEY?] wr. e "barley?"
+e [CHAFF] wr. e3 "chaff" Akk. hāmū
+e [HOUSE] wr. e2; ĝa2; e4 "house; temple; (temple) household; station (of the moon)?; room; house-lot; estate" Akk. bītu
+e [INTERJECTION] wr. e "a vocative interjection"
+e [LEATHER] wr. e; e6 "strip or piece of leather; leather bearing" Akk. ya'u
+e [LEAVE] wr. e3; i; e "to leave, to go out; to thread, hang on a string; to remove, take away; to bring out; to enter; to bring in; to raise, rear (a child); to sow; to rave; to winnow; to measure (grain) roughly (with a stick); to rent" Akk. aşû; erēbu; mahû; rubbû; zarû; šakāku
+e [PRINCELY?] wr. e; e5 "princely?"
+e [SPEAK] wr. e; na-be2-a; be2; ne; da-me; na-be2; e7 "perfect plural and imperfect stem of dug[to speak]" Akk. atwû; dabābu; qabû
+e [TRUST] wr. e7 "trust" Akk. tukultu
+e [TUBE] wr. ĝeše11 "tube, socket" Akk. uppu
+e [WATCH] wr. e3 "watch"
+
+ea
+ea [~BITUMEN] wr. e3-a; e2-a "a qualification of bitumen"
+
+e'addak
+e'addak [PATRIMONY] wr. e2-ad-da "patrimony" Akk. bīt abīšu
+
+e'ankar
+e'ankar [ARMORY] wr. e2-en-kar2 "armory, weapon-room"
+
+e'ara
+e'ara [MILL] wr. e2-a-ra; e2-ara3; e2-ara5 "mill" Akk. ?
+
+eb
+eb [OVAL] wr. eb "oval"
+
+eban
+eban [PAIR] wr. e2-ba-an; e2-ba; e-ba-an; e-pa-na; e2-pa-na "pair" Akk. tāpalu
+
+ebara
+ebara [OUTHOUSE] wr. e2-bar-ra "outhouse"
+
+ebgal
+ebgal [OVAL] wr. eb-gal "temple oval" Akk. ?
+
+ebih
+ebih [ROPE] wr. ebih2 "heavy rope" Akk. ebīhu
+
+ebir
+ebir [VESSEL-STAND] wr. ĝešepir2; ebir; ĝešebir3; ĝešebir4 "(vessel-)stand; a large vessel" Akk. kannu
+
+eblak
+eblak [BEER] wr. kašebla "a beer" Akk. iblakku
+
+ebmuhaldim
+ebmuhaldim [~KITCHEN] wr. eb-muhaldim "food preparation area (lit. "oval of the cooks")"
+
+eburgul
+eburgul [WORKSHOP] wr. e2-bur-gul "stone-cutter's workshop"
+
+ed
+ed [ASCEND] wr. ed3; |UD×U+U+U.DU| "to go up or down; to demolish; to scratch; to rage, be rabid" Akk. arādu; elû; naqāru; šegû
+ed [PIERCE] wr. e11 "pierce"
+ed [STRENGTHEN] wr. e11 "strengthen"
+
+eda
+eda [BOARD] wr. ĝeše2-da "board"
+eda [CONTAINER] wr. e2-da "a container"
+
+edadi
+edadi [FLOUR] wr. zid2e2-da-di "a type of flour" Akk. edadû
+edadi [~POSITION] wr. nam-e2-da-di "a prebendary position"
+
+edakua
+edakua [SOUP] wr. edakua; edakua2 "fish bone; fish soup" Akk. sihil nunu
+
+edam
+edam [TAVERN?] wr. e2-dam "tavern?"
+
+eden
+eden [BACK] wr. eden "back, upper side" Akk. şēru
+eden [BIRD] wr. edenmušen; damušen "a bird"
+eden [PLAIN] wr. eden "plain, steppe, open country" Akk. edinu
+
+eden.X
+eden.X [BIRD] wr. eden-xmušen "a bird"
+
+edenlil
+edenlil [DESERT] wr. eden-lil2 "haunted desert"
+
+eDI
+eDI [NEST?] wr. e2-DI "nest?"
+
+eduba
+eduba [STOREHOUSE] wr. e2-dub; e2-dub-ba "storehouse, magazine"
+
+edubba'a
+edubba'a [SCRIBAL SCHOOL] wr. e2-dub-ba-a; e2-dub-ba "scribal school" Akk. bīt ţuppi
+
+edul
+edul [UNMNG] wr. e2-dul4 "?" Akk. ?
+
+edula
+edula [ESTATE] wr. e2-du6-la "foreclosed estate" Akk. edullû
+
+eduru
+eduru [HEIR] wr. eduru "heir" Akk. aplu
+eduru [VILLAGE] wr. e2-duru5; e-dur2 "village" Akk. kapru
+
+e'EŠ
+e'EŠ [PRISON] wr. e2-EŠ2 "prison"
+
+eg
+eg [LEVEE] wr. eg2; iku2 "levee" Akk. īku
+
+egal
+egal [PALACE] wr. e2-gal "palace; temple" Akk. ekallu
+egal [PRISON] wr. e2-gal "prison"
+
+egar
+egar [FORM] wr. e2-gar8 "form, shape" Akk. lānu
+egar [WALL] wr. e2-gar8; ba-ar; ba9-ar2 "wall" Akk. igāru
+
+egara
+egara [STORE] wr. egara "a building for storing dates" Akk. bīt kumurrê
+
+egia
+egia [BRIDE] wr. e2-gi4-a "bride" Akk. kallatu
+
+egir
+egir [BAKERY] wr. e2-gir4 "bakery"
+egir [PRINCESS] wr. egir2; egir3; egi3 "princess" Akk. rubātu
+
+egizaga
+egizaga [STONE] wr. na4e-gi-zag-ga "type of stone"
+
+egizid
+egizid [PRIESTESS] wr. egi-zid; egi2-zid; igi-zid "a priestess" Akk. igişītu
+
+egud
+egud [OX-BARN] wr. e2-gud "ox-barn"
+
+egudgaz
+egudgaz [ABATTOIR] wr. e2-gud-gaz "abattoir, slaughter-house"
+
+egu'ensag
+egu'ensag [STONE] wr. na4e-gu2-en-sag9 "a stone"
+
+egula
+egula [PRISON] wr. e2-gu-la "prison"
+
+egun
+egun [STOREROOM] wr. e2-gun2 "storeroom"
+
+eĝeškiĝti
+eĝeškiĝti [WORKSHOP] wr. e2-ĝeš-kiĝ2-ti "craft workshop" Akk. bīt kiškattî
+
+eĝešpu
+eĝešpu [WRESTLING HOUSE] wr. e2-ĝešpu2 "wrestling house"
+
+eĝir
+eĝir [BACK] wr. eĝir; eĝir5(LUM); egir4; eĝir6(MURGU2) "back, rear; after; estate, inheritence" Akk. arkatu
+
+eh
+eh [INSECT] wr. eh "insect(s), bug(s); moth; head-louse; to have lice" Akk. kalmatu; sāsu; uplu; uppulu
+
+ehehhe
+ehehhe [CRIPPLE] wr. eh3; ehehhe "cripple, dwarf" Akk. pessû
+
+e'igara
+e'igara [DAIRY] wr. e2-i3-gara2 "dairy"
+
+e'irda
+e'irda [PIGSTY] wr. e2-ir-da "pigsty"
+
+ekas
+ekas [ROAD-HOUSE] wr. e2-kas4; e2-kas; e2-kas4-me; e2-kas4-še3; e2-kas4-ta "road-house"
+
+ekaskalak
+ekaskalak [WAYSTATION] wr. e2-kaskal "waystation"
+
+ekema
+ekema [MALLET] wr. ĝeše-kid-ma; ĝeše-kid3-ma "mallet" Akk. mekkû
+
+EKIDma
+EKIDma [OBJECT] wr. ĝešE.KID-ma "a wooden object used in a game"
+
+ekinkin
+ekinkin [MILL] wr. e2-kinkin; e2-kinkin2 "mill"
+
+ekišibak
+ekišibak [STOREROOM] wr. e2-kišib3-ba; e2-kišib-ba "storeroom for sealed commodities"
+
+EKU
+EKU [FOOD] wr. E.KU "type of food"
+
+ekur
+ekur [INSTITUTION] wr. e2-kur9 "an institution"
+ekur [PRISON] wr. e2-kur "prison" Akk. şibittu
+
+ekurun
+ekurun [LIQUOR-ROOM] wr. e2-kurun2 "liquor-room, wine cellar"
+
+ela
+ela [CANOPY] wr. e2-la2 "canopy"
+
+elammakum
+elammakum [STONE] wr. na4e-lam-ma-kum "a stone"
+elammakum [TREE] wr. ĝeše-lam-ma-kum "a tree" Akk. ellammakku
+
+elel
+elel [SONG] wr. e-le-el "a work song"
+
+eleli
+eleli [STONE] wr. na4e-le-li "a stone" Akk. alallum
+
+eli
+eli [BIRD] wr. e-limušen "a bird" Akk. kuzbānu
+eli [SHEEP] wr. e3-li "a description of ewes or lambs"
+
+elil
+elil [SONG] wr. e-lil2 "a song" Akk. elilu
+
+elilla
+elilla [SONG] wr. e-lil2-la2 "a work song" Akk. mekû
+
+elilum
+elilum [SONG] wr. e-li-lum "a song" Akk. zamāru
+
+ellag
+ellag [BALL] wr. ĝešellag "ball" Akk. pukku
+
+ellaĝ
+ellaĝ [BEAD] wr. ellaĝ2; na4ellaĝ2; zaellaĝ2 "bead" Akk. ?
+ellaĝ [GRASS?] wr. u2ellaĝ2 "a type of grass?"
+ellaĝ [KIDNEY] wr. ellaĝ2; ellaĝx(|HI×U|) "kidney" Akk. kalītu
+ellaĝ [UNMNG] wr. u2ellaĝ2 "(meaning unknown)"
+
+ellaĝdu
+ellaĝdu [TRAP] wr. ĝešellaĝ2-du "a trap"
+
+ellamkuš
+ellamkuš [BLADDER] wr. ellamkuš; ellamkuš2; ellamkuš3; ellamkuš4 "animal bladder" Akk. ellabbuhhu
+
+ELLES316
+ELLES316 [~WOOL] wr. ELLES316 "a designation of wools"
+
+ellulillum
+ellulillum [SONG] wr. e-el-lu-lil2-lum "type of song" Akk. alālima
+
+ellum
+ellum [SONG] wr. e-el-lu; e-el-lum "a work song" Akk. alālu
+
+elulam
+elulam [SONG] wr. e-lu-lam "a song"
+
+elungak
+elungak [BREWERY] wr. e2-lunga3; e2-lunga; e2-lungax(|BIxGAR|) "brewery"
+
+ema
+ema [CABIN] wr. ĝeše2-ma2 "boat cabin" Akk. hinnu
+
+emarru
+emarru [QUIVER] wr. mar-ru10; e2-mar-ru10; a-ma-ru; a-ma2-ru "quiver" Akk. išpatu
+
+eme
+eme [DONKEY] wr. eme3; eme6; eme5; eme7; emex(|SAL.EN|) "female donkey" Akk. atānu
+eme [NURSE] wr. eme2 "wet nurse" Akk. mušēniqtu
+eme [TONGUE] wr. eme "tongue; language" Akk. lišānu
+eme [~PLOW] wr. ĝešeme "a part of a plow; point (of a battering ram)" Akk. emû
+
+eme bala
+eme bala [TRANSLATE] wr. eme bala "to translate" Akk. ?
+
+eme sig gu
+eme sig gu [LIE] wr. eme sig gu7 "to speak falsely" Akk. karşī akālu
+
+eme'apinak
+eme'apinak [PLOWSHARE] wr. eme-apin-na "plowshare"
+
+emebala
+emebala [TRANSLATOR] wr. eme-bala "translator"
+
+emeda
+emeda [NURSEMAID] wr. emeda; emedada; emeda3; |URU×GA|.ME.DA "nursemaid" Akk. tārītu
+
+emedu
+emedu [SLAVE] wr. ama-a-tu "house-born slave"
+
+emedub
+emedub [UNIT] wr. emedub; emedub2 "a measurement of capacity; a vessel" Akk. sûtu; širmu
+
+emeEŠUŠ
+emeEŠUŠ [LEAF] wr. ĝešeme-EŠ2.UŠ; ĝešeme-EŠ2.UŠ-eme-EŠ2.UŠ "scaly leaf"
+
+emegagu
+emegagu [NURSE] wr. eme2-ga-gu7 "wet nurse" Akk. mušēniqtu
+
+emegala
+emegala [NURSE] wr. eme2-ga-la2; |URU×GA|.ME-ga-la2 "wet nurse" Akk. mušēniqtu
+
+emeĝar
+emeĝar [MAGIC] wr. emeĝarx(|KAx(ME.GAR)|) "magic"
+
+emeĝarĝar
+emeĝarĝar [WITCHCRAFT] wr. emeĝarĝarx(|KA×(ME.GAR.GAR.RA)|) "witchcraft"
+
+emeĝir
+emeĝir [SUMERIAN] wr. eme-gi; eme-ĝir15 "the Sumerian language" Akk. šumeritum; šumerû
+
+emengi
+emengi [THIRST] wr. emengi "burning thirst" Akk. šurpītu
+
+emerah
+emerah [JUG] wr. emerahx(|UD.SAL.HUB2|); emerah "jug, can" Akk. kûtu
+
+emesig
+emesig [PLANK] wr. ĝešeme-sig "plank"
+
+emesiggugu
+emesiggugu [DENOUNCER] wr. eme-sig-gu7-gu7; lu2me-sig; lu2eme-sig-gu7-gu7 "denouncer" Akk. ākil karşi
+
+emeš
+emeš [PRIEST] wr. emeš(|SAL+LAGAR|) "priest"
+emeš [SUMMER] wr. e2-me-eš; emeš2 "summer" Akk. ummu
+
+emeŠID
+emeŠID [LIZARD] wr. eme-ŠID "lizard" Akk. şurārû
+
+emešurug
+emešurug [FROND] wr. ĝešeme-šu-ru-ug-ĝešeme-šu-ru-ug; ĝešeme-šu-ru-ug; ĝešeme-šu-ru-ug-eme-šu-ru-ug "dried palm-frond"
+
+eme'urgirak
+eme'urgirak [PLANT] wr. u2eme-ur-gir15-ra "a plant"
+
+emezagabarbar
+emezagabarbar [DRIVELING] wr. eme-zag-ga-bar-bar "driveling"
+
+emezi
+emezi [PRIEST] wr. emezi(|SAL+LAGAR|) "priest"
+
+emi
+emi [HOUSEHOLD] wr. e2-mi2 "queen's household"
+
+emittum
+emittum [UNMNG] wr. e-mi-it-tum "?" Akk. ?
+
+emuhaldim
+emuhaldim [KITCHEN] wr. e2-muhaldim "kitchen"
+
+en
+en [CVNE] wr. en3 "(compound verb nominal element)"
+en [INCANTATION] wr. en2 "incantation, spell" Akk. šiptu
+en [LORD] wr. en; u3-mu-un; umun "lord; master; ruler" Akk. bēlu
+en [PRIEST] wr. en "a priest" Akk. entu; enu
+
+en tar
+en tar [ASK] wr. en3 tar; aš tar "to ask" Akk. šâlu
+
+enam
+enam [WHAT] wr. en-nam "what" Akk. minû
+
+enamarad
+enamarad [PRISON] wr. e2-nam-arad2 "prison"
+
+enamed
+enamed [FISH] wr. e2-nam-ed2ku6 "a fish"
+
+enameše
+enameše [HOW LONG?] wr. en-na-me-še3 "how long?" Akk. adi mati
+
+enaqa
+enaqa [UNMNG] wr. enaqa "?" Akk. ennakku
+
+ENASA
+ENASA [STRONGHOLD?] wr. E2.NA.SA "stronghold?"
+
+enbar
+enbar [REED] wr. gien3-bar; en3-bar "a reed" Akk. ţubû
+
+enbiše
+enbiše [UP TILL NOW] wr. en3-bi-še3 "up till now"
+
+endib
+endib [COOK] wr. endib "cook" Akk. nuhatimmu
+
+endu
+endu [SONG] wr. en3-du; en-du "a song"
+
+enduana
+enduana [SONG] wr. en3-du-an-na "song"
+
+endudugdug
+endudugdug [CHANTER?] wr. en3-du-dug4-dug4 "chanter?"
+
+enduĝarĝar
+enduĝarĝar [COMPOSER] wr. en3-du-ĝar-ĝar "composer"
+
+endur
+endur [NAVEL?] wr. ĝešen3-dur; gien3-dur; u2en3-dur "navel, belly button?" Akk. abunnatu
+
+ene
+ene [CVNE] wr. e-ne "(compound verb nominal element)"
+ene [PLEASURE?] wr. a-ne; e-ne "pleasure?"
+
+ene dug
+ene dug [PLAY] wr. e-ne dug4 "to play"
+
+enedi
+enedi [GAME] wr. e-ne-di "game, play" Akk. mēlultu
+
+engar
+engar [FARMER] wr. engar; mu-un-gar3; mu-un-ga-ar "farmer; an official" Akk. ikkaru
+engar [FISH] wr. engarku6 "a fish"
+
+engartur
+engartur [PROFESSION] wr. engar-tur "a profession"
+
+engen
+engen [STONE] wr. na4en-ge-en "type of stone"
+
+enginkal
+enginkal [BIRD] wr. en-gin7-kalmušen; en-karmušen "a bird"
+
+engiz
+engiz [COOK] wr. engiz "temple cook" Akk. engişu; engû; nuhatimmu
+
+engur
+engur [WATERS] wr. engur; im-gu-ra "(cosmic) underground waters" Akk. apsû; engurru
+
+eniĝak
+eniĝak [STOREHOUSE] wr. e2-niĝ2 "storehouse"
+
+eniĝGA
+eniĝGA [DEPOT] wr. e2-niĝ2-GA "depot"
+
+eniĝguĝaĝa
+eniĝguĝaĝa [PROPERTY] wr. e2-niĝ2-gu2-ĝa2-ĝa2 "property"
+
+eniĝkisig
+eniĝkisig [CHAPEL] wr. e2-niĝ2-ki-sig10 "funerary chapel"
+
+enindakisig
+enindakisig [CHAPEL] wr. e2-ninda-ki-sig10 "funerary chapel"
+
+enkud
+enkud [TAX-COLLECTOR] wr. en-ku3; en-ku4; enkud; mu-un-kud; en7-ku6 "tax-collector" Akk. mākisu
+
+enkum
+enkum [TREASURER] wr. enkum "temple treasurer" Akk. enkummu
+
+enmur
+enmur [RESIN] wr. en-mur "a resin" Akk. ?
+
+enna
+enna [UNTIL] wr. en-na; an-ma; en; en7 "until, up to" Akk. adi
+
+ennak
+ennak [UNMNG] wr. enna "?" Akk. ennakku
+
+ennam
+ennam [OFFICIAL] wr. en-nam "an official" Akk. bēl pihāti
+
+ennamešeam
+ennamešeam [AS FAR AS] wr. en-na-me-še3-am3 "as far as"
+
+ennigi
+ennigi [PRIEST] wr. ennigi2 "a priest" Akk. ennigû
+
+ennuĝ
+ennuĝ [IMPRISONMENT] wr. en-nu-ĝa2; en-nuĝx(NUN); en-nu-uĝ3; en-nu-uĝ5; en-uĝ3-ĝa2 "watch, guard; watch (as a division of night time); imprisonment; prison" Akk. maşşartum
+
+ennuĝ ak
+ennuĝ ak [GUARD] wr. en-nu-uĝ3 ak "to guard, to watch" Akk. naşāru
+
+ennuĝ du
+ennuĝ du [GUARD] wr. en-nu-uĝ3 du3 "to guard, to watch" Akk. naşāru
+
+ennun
+ennun [PRIEST] wr. en-nun "a type of priest"
+
+ensi
+ensi [INTERPRETER] wr. ensi; ensi3; |MAŠ+EN|.LI "dream interpreter" Akk. ensû; šā'ilu
+
+ensik
+ensik [FARMER] wr. ensi2 "a farmer" Akk. iššakku
+ensik [RULER] wr. ensi2; u3-mu-un-si; ensix(|PA.TE.SI.GAR|); ensix(|GAR.PA.TE.SI|) "a ruler, governor; a quality designation" Akk. iššakku
+
+ensikgal
+ensikgal [GOVERNOR] wr. ensi2-gal; ensix(|PA.TE.SI.GAR|)-gal "chief governor"
+
+enše
+enše [UP TILL NOW] wr. en3-še3 "up till now" Akk. adi matīma
+
+enše'am
+enše'am [UP TILL NOW] wr. en3-še3-am3 "up till now" Akk. adi matīma
+
+enten
+enten [WINTER] wr. en-te-en; en-te-na; enten "winter" Akk. kuşşû
+
+ENTI
+ENTI [BIRD] wr. EN.TImušen "a bird"
+
+entukumše
+entukumše [AS LONG AS] wr. en3-tukum-še3 "as long as" Akk. adi surri
+
+enTUM
+enTUM [UNMNG] wr. en-TUM "?"
+
+enun
+enun [ROOM] wr. e2-nun "innermost room" Akk. kummu
+
+enzid
+enzid [ANIMAL] wr. en-zid "lead animal" Akk. ašarēdu
+enzid [PRIEST] wr. en-zid "a priest"
+
+epana
+epana [QUIVER] wr. ĝeše2-pan "quiver"
+
+epapah
+epapah [CELLA] wr. e2pa-pah "cella, shrine" Akk. papāhu
+
+epig
+epig [VESSEL] wr. epig "a drinking vessel" Akk. mašqû
+
+er
+er [TEARS] wr. er2; i-ra "weeping, mourning; tears; to weep" Akk. bikītu; dimtu
+
+er gul
+er gul [RESTRAIN CRYING] wr. er2 gul "to restrain crying" Akk. ?
+
+er pad
+er pad [WEEP] wr. er2 pad3 "to weep" Akk. bakû
+
+er šeš
+er šeš [WEEP] wr. er2 šeš4 "to weep" Akk. bakû
+
+era
+era [LEADER] wr. era3 "leader (of the assembly)" Akk. mu'erru
+era [UNMNG] wr. er3-ra "?"
+
+eranum
+eranum [TREE] wr. e-ra-num2 "a tree"
+
+ere
+ere [GO] wr. re; er; e-ra; erx(|DU.DU|); re6; re7; er-re; i-ri "perfect plural stem of ĝen[to go]" Akk. alāku
+ere [THROTTLE] wr. er13 "to press, throttle" Akk. hanāqum
+
+erebum
+erebum [REFUGEE] wr. e-re-bu-um "refugee"
+
+eren
+eren [CEDAR] wr. ĝešeren; eren; šimeren; šimĝešeren; ĝešhu-ri2-in; ĝeše-re-ne; hu-ri2-inmušen "cedar" Akk. erēnu
+eren [FISH] wr. eren2ku6 "a fish"
+eren [UNMNG] wr. eren8 "?" Akk. ?
+
+EREN.X
+EREN.X [ANIMAL] wr. |EREN2.X| "an animal"
+
+erengursi
+erengursi [BIRD] wr. eren?-gurx(|ŠE.ŠE.KIN|)-simušen; AN-gir2mušen; X-na-kir4-simušen "a bird"
+
+ereš
+ereš [CULTIVATOR] wr. ereš4 "cultivator" Akk. errēšum
+ereš [LADY] wr. ereš "lady, queen; a quality designation" Akk. bēltu; šarratum
+ereš [WISE] wr. ereš5 "wise" Akk. mūdû
+
+erešdiĝir
+erešdiĝir [PRIESTESS] wr. ereš-diĝir "a priestess" Akk. ēntu
+
+eria
+eria [WASTELAND] wr. e2-ri-a; e2-ri "wasteland" Akk. harbu
+
+erib
+erib [IN-LAW] wr. e-ri-ib; e-rib; erib "father-in-law; sister-in-law" Akk. emum; mārti emi
+erib [LEATHERWORKER] wr. erib "leatherworker" Akk. aškāpu
+
+eribura
+eribura [DROPPINGS] wr. eribura "bird droppings"
+
+erida
+erida [SWEEPER] wr. erida2 "courtyard sweeper" Akk. kisalluhhu
+
+eridu
+eridu [GUIDANCE] wr. eridu "guidance" Akk. irītu
+
+erim
+erim [STOREROOM] wr. erim3; erim6; erim4; erim5 "storeroom, treasury" Akk. išittu
+
+erimhuš
+erimhuš [BATTLE] wr. erim-huš "battle" Akk. anantu
+
+erin
+erin [PEOPLE] wr. erin2; eri-na; erin9 "people; troops" Akk. şābu
+erin [YOKE] wr. erin2; ĝešerin2 "to yoke; yoke; plow team" Akk. şamādu; şimittu
+
+ERINPIRIG
+ERINPIRIG [ANIMAL] wr. ERIN2.PIRIG "type of animal"
+
+erinsaĝ
+erinsaĝ [YOKE] wr. erin2-saĝ "front part of a yoke"
+
+erišti
+erišti [WISE] wr. erištix(|GAL.ZU|) "wise" Akk. eršu
+
+ersua
+ersua [LAMENT] wr. er2-su3-a "a lament"
+
+eršaneša
+eršaneša [SONG] wr. er2-ša3-ne-ša4 "a type of song"
+
+eršemak
+eršemak [SONG] wr. er2-šem3; er2-šem3-ma "a type of song" Akk. eršemmakku
+
+erubatum
+erubatum [FESTIVAL] wr. e-ru-ba-tum; e3-ru-ba-tum "a festival"
+
+esad
+esad [TRAP] wr. ĝešes2-ad "trap" Akk. nahbalu
+
+esaĝ
+esaĝ [HEIR] wr. a-sag; esaĝ; asag "heir" Akk. aplu
+esaĝ [STORE] wr. e2-saĝ; esaĝ2 "grain-store" Akk. qarītu
+
+esaĝtur
+esaĝtur [GRANARY] wr. esaĝtur "a granary" Akk. esru
+
+esi
+esi [DIORITE] wr. na4esi "diorite, dolerite" Akk. ušû
+esi [TREE] wr. ĝešesi "a tree" Akk. ušû
+
+esig
+esig [BIRD] wr. e-sigmušen; e-sig17mušen; sigmušen; u2-sigmušen; sig7mušen "a bird"
+
+esimma.DAR
+esimma.DAR [FISH] wr. e2-sim-ma-DARku6 "a fish"
+
+esir
+esir [BITUMEN] wr. esir2; esir; esir2(|LAGABxHAL|) "bitumen, pitch" Akk. iţţû; kupru
+esir [FISH] wr. esirx(LAK173)ku6; esir3ku6; LAK173 "a fish" Akk. šēnu
+esir [SHOE] wr. kuše-sir2; e-sir2; kušesir3; kušesir4; kušesir5; LAK173 "sandal(s), shoe(s)" Akk. šēnu
+esir [STREET] wr. e-sir2; e-sir "street" Akk. sūqu
+
+esirhia
+esirhia [BITUMEN] wr. esirhia "bitumen, pitch" Akk. kupru
+
+essadu
+essadu [FIN] wr. essadu; essad "fin or flipper" Akk. ishu
+
+esuhur
+esuhur [~TEMPLE] wr. e2-suhur "a part of a temple" Akk. šahurru
+
+esulumak
+esulumak [BOX] wr. ĝeše2-su-lum; ĝeše2-su-lum-ma "a box" Akk. laharuhšu
+
+esumur
+esumur [ROOM] wr. e2-sumur "lying-in-state room?"
+
+eš
+eš [COLD] wr. eš13 "(to be) cold" Akk. kuşşû
+eš [FLOUR] wr. eš2 "a flour" Akk. qēmu; upumtu
+eš [ROPE] wr. eš2 "rope, thong, string" Akk. eblu
+eš [SHRINE] wr. eš3 "shrine; an establishment" Akk. bītu; eššu
+eš [TENT] wr. kušeš3 "tent, pavilion"
+eš [THREE] wr. eš5; eš-a-bi; eš10; am3-mu-uš "three; triplets" Akk. takšû; šalāš
+eš [TREE] wr. ĝešešx(LAM); ĝešeš22 "a tree; a terebinth; almond (tree)" Akk. lammu; lupānu; šiqdu; šiqittu
+eš [WATER] wr. eš10 "water" Akk. mû
+
+eš rah
+eš rah [MEASURE] wr. eš2 rah2 "to measure" Akk. ?
+
+eša
+eša [FLOUR] wr. eša "a fine flour" Akk. saskû
+
+ešabdu
+ešabdu [PROFESSION] wr. eš3-a-ab-du; eš3-sa2-ab-du "a profession"
+
+ešag
+ešag [CHAMBER] wr. e2-šag4 "inner chamber; bedroom" Akk. uršu
+
+ešbar
+ešbar [DECISION] wr. eš-bar; eš5-bar "decision" Akk. purussûm
+
+ešbar kiĝ
+ešbar kiĝ [DECIDE] wr. eš-bar kiĝ2 "to make a decision"
+
+ešda
+ešda [ONE] wr. eš3-da "one" Akk. ištēn
+ešda [VESSEL] wr. eš2-da; dugeš-da "a metal cultic vessel"
+
+ešdam
+ešdam [DISCUSSION] wr. eš2-dam "discussion" Akk. šitūltu
+ešdam [TAVERN] wr. eš2-dam; e2-eš2-dam; e2ešdam "tavern" Akk. aštammu
+
+ešdea
+ešdea [LOAN] wr. eš-de2-a "a loan" Akk. hubutt(at)u
+
+eše
+eše [AREA UNIT] wr. eše3; eše2 "a unit of area; a unit of volume" Akk. eblu
+eše [LENGTH UNIT] wr. eše2; eše3 "a unit of length" Akk. aslu
+
+ešedak
+ešedak [LAVATORY] wr. e2-šed6 "lavatory" Akk. bīt šitti
+
+ešela
+ešela [BOUND] wr. ešela "(to be) bound" Akk. hanāqu; kalû; kamû
+
+ešemen
+ešemen [ROPE] wr. ešemen; ešemen2; e-šen; ešemen3; ešemen5 "game, play; skipping rope" Akk. keppû; mēlultu
+
+ešeš
+ešeš [FESTIVAL] wr. eš3-eš3 "festival"
+
+ešgal
+ešgal [UNDERWORLD] wr. ešgal "earth, land; underworld" Akk. erşetu
+
+ešgana
+ešgana [LINE] wr. eš2-gana2 "measuring line"
+
+ešgar
+ešgar [ASSIGNMENT] wr. eš2-gar3; eš-gar3; eš5-gar3 "work assignment" Akk. iškaru
+
+ešgiNI
+ešgiNI [LOCUS] wr. eš3-gi6-NI "a cultic place"
+
+ešgiri
+ešgiri [STAFF] wr. ešgiri2; ĝešešgiri2 "staff"
+
+ešgur
+ešgur [RING] wr. eš-gur; eš-gurzabar "ring"
+
+eškiĝ
+eškiĝ [UNMNG] wr. eš-kiĝ2 "?"
+
+eškiri
+eškiri [ROPE] wr. eš2-kiri3; eškiri; ĝešeškiri2 "nose rope, tether" Akk. şerretu
+
+eškurum
+eškurum [WAX] wr. eš-ku-ru-um "wax" Akk. iškuru
+
+ešla
+ešla [BAND] wr. eš2-la2 "bond; band, belt" Akk. markasu; nēbehu
+ešla [BUCKET] wr. ĝešeš2-la2 "a bucket" Akk. makdû
+ešla [TOOL] wr. ĝešeš2-la2 "a stick?; a tool" Akk. mekkû
+ešla [TRAP] wr. ĝešeš2-la2 "a trap" Akk. kamaru
+
+ešlug
+ešlug [OFFSPRING] wr. ešlug "offspring" Akk. atmu
+
+ešsadu
+ešsadu [TRAP] wr. eš-sa-du "trap" Akk. nahbalum
+
+eššeb
+eššeb [LANDSCAPE] wr. eššeb "a deeply incised landscape" Akk. huddudu
+
+eššuak
+eššuak [ROPE] wr. eš2-šu-ak "a type of rope"
+
+eštaba
+eštaba [GARMENT] wr. eš5-tab-ba "a garment"
+
+eštalu
+eštalu [SINGER] wr. eš3-ta-lu2; aš-ta-lu2 "a type of singer" Akk. aštalû
+
+EŠtenuGIRgunu
+EŠtenuGIRgunu [SURCHARGE] wr. |EŠ2@t.GIR2@g| "a dairy surcharge"
+
+eštub
+eštub [CARP] wr. eštubku6; ku6eštub "carp" Akk. arsuppu
+
+eštum
+eštum [CHAFF?] wr. eš3-tum "chaff?" Akk. iltu?
+
+ešusiga
+ešusiga [~ARCHITECTURE] wr. e2-šu-si3-ga "a temple room or building"
+
+etutum
+etutum [DARKNESS] wr. etutumx(|GA2×BAD|) "darkness" Akk. eţûtu
+
+e'uburak
+e'uburak [ANIMAL PEN] wr. e2-ubur-ra; e2-bu-ra "animal pen"
+
+e'ud
+e'ud [WEEK] wr. e2-ud "week, ides?"
+
+e'udsakar
+e'udsakar [NEW MOON HOUSE] wr. e2-ud-sakar "new moon house"
+
+e'udu
+e'udu [SHEEPHOUSE] wr. e2-udu "sheephouse"
+
+e'urra
+e'urra [PRISON] wr. e2-ur5-ra "prison"
+
+e'urre
+e'urre [GRAVE] wr. eurre "grave" Akk. qubūru
+
+e'urruKU
+e'urruKU [SONG] wr. e-ur11-ru-KU "a song" Akk. zamāru
+
+EUŠGIDDA
+EUŠGIDDA [STOREHOUSE] wr. E2-UŠ-GID2-DA "storehouse"
+
+e'uzga
+e'uzga [BUILDING] wr. e2-uz-ga "a building"
+
+ezem
+ezem [FESTIVAL] wr. ezem; i-ze-eĝ3 "festival" Akk. isinnu
+
+EZEN.HAR
+EZEN.HAR [MILLER] wr. EZEN-HAR "miller" Akk. sāmidu
+
+ezi
+ezi [BIRD] wr. i-zimušen; e-zimušen "a bird"
+ezi [PRIEST] wr. ezix(|SAL.LAGAR|) "en-priest of Ea" Akk. ēnu ša Ea
+
+ezim
+ezim [STONE] wr. na4dezim2 "type of stone"
+
+ezina
+ezina [GRAIN] wr. šeezina2 "grain, cereals" Akk. ašnan
+
+ezizu
+ezizu [VEGETABLE] wr. e-zi-zusar "a vegetable" Akk. ezizzu
+
+ezurah
+ezurah [ROOM] wr. e2-zu2-ra-ah "lying-in-state room?"
+
+ePSD icon ePSD contacts: Steve Tinney and Philip Jones.
