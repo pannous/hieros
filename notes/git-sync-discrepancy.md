@@ -1,5 +1,26 @@
 # The "out of sync" GitHub chip — resolved
 
+## The number itself: the chip accumulates instead of replacing
+Two consecutive readings, with the arithmetic checked against git:
+
+    reading 1:  +202,135  -0
+    reading 2:  +317,666  -4,113
+
+    git diff --shortstat 22a52b0c   ->  115,531 insertions(+), 4,113 deletions(-)
+
+    202,135 + 115,531 = 317,666   exact
+          0 +   4,113 =   4,113   exact
+
+So reading 2 is reading 1 *plus* the current working-tree diff against the
+session base commit — the chip sums successive snapshots rather than showing
+the latest one. That is a Claude Code display bug, not a git state problem.
+No single git comparison in this repo produces 317,666: every commit in the
+last 30 was tested as a base, as were the docs submodule diff (17,466/4,361)
+and the untracked-file line count (5,110,845). Only the sum matches.
+
+The deletions being 0 on the first reading is the tell: a fresh counter
+starting from a moment when nothing had been deleted yet.
+
 ## What it actually was
 Two unrelated causes, neither a real divergence from origin:
 
