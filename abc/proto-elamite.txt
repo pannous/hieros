@@ -1,0 +1,4172 @@
+
+# Sign
+1 1N1
+2 1N1@b
+3 1N1@c
+4 1N2
+5 1N8a
+6 1N8b
+7 1N14
+8 1N14@b
+9 1N14@c
+10 1N23
+11 1N24
+12 1N24@b
+13 1N24@c
+14 1N30c
+15 1N30c@b
+16 1N30c@c
+CDLI Image
+Font Glyph
+𒶤
+𒶢
+𒶜
+𒷇
+𒶣
+𒷆
+𒷉
+𒷐
+𒷊
+𒷏
+𒶵
+𒷀
+𒶻
+𒶼
+𒶸
+𒷄
+Glyph Issue
+  2
+defective
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+17 1N30d
+18 1N30d@b
+19 1N30d@c
+20 1N34
+21 1N34@b
+22 1N39a
+23 1N39b
+24 1N39b@b
+25 1N39b@c
+26 1N39c
+27 1N45
+28 1N45@b
+29 1N46
+30 1N48
+31 1N51
+32 1N51@b
+33 1N51@c
+CDLI Image
+Font Glyph
+Glyph Issue
+ 3
+𒷓
+𒶨
+𒶱
+𒷋
+𒶺
+𒷅
+𒶡
+𒶛
+𒶦
+𒶝
+𒶿
+𒶹
+𒶰
+𒷃
+𒶪
+𒷈
+𒷒
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+34 1N51g
+35 1N54
+36 1N54@b
+37 1N54g
+38 2N1
+39 2N1@b
+40 2N14
+41 2N30c
+42 2N30c@b
+43 3N1
+44 3N1@b
+45 3N1@c
+46 3N14
+47 4N1
+48 4N14
+49 5N1
+50 5N14
+CDLI Image
+Font Glyph
+Glyph Issue
+ 4
+𒶞
+𒷔
+𒶥
+𒶭
+𒶷
+𒷌
+𒶴
+𒶩
+𒷑
+𒶶
+𒶲
+𒶧
+𒶳
+𒷍
+𒶟
+𒷎
+𒶠
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+51 6N1
+52 6N14
+53 7N1
+54 7N14
+55 8N1
+56 8N14
+57 9N1
+58 9N14
+59 M1
+60 M1‐b
+61 M1 + M379‐c
+62 M1 + M379‐d
+63 M2
+64 M2‐b
+65 M2 + M379
+66 M3
+67 M3‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 5
+𒶬
+𒷂
+𒶫
+𒷁
+𒶾
+𒶯
+𒶽
+𒶮
+𒢀
+𒩃
+𒯇
+𒫥
+𒠶
+𒢪
+𒵞
+𒠠
+𒩾
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+68 M3‐b
+69 M3‐c
+70 M4
+71 M4‐x
+72 M5
+73 M5‐a
+74 M6
+75 M6@g
+CDLI Image
+Font Glyph
+Glyph Issue
+ 76 M6@g‐1
+77 M6@g‐2
+78 M6‐b
+79 M6‐b@g
+80 M7‐a
+81 M7‐b
+82 M7‐c
+83 M7‐d
+84 M9
++ M379‐c
+𒡎
+𒪬
+𒣦
+𒶂
+𒢺
+𒥡
+𒤘
+𒥄
+𒸷
+𒸿
+𒡽
+𒪊
+𒨊
+𒦩
+𒥗
+𒩠
+𒳅
+6
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+85 M9‐a
+86 M9‐c
+87 M9‐d
+88 M9‐e
+89 M9‐f
+90 M9‐g
+91 M9‐h
+92 M9‐i
+93 M10
+CDLI Image
+Font Glyph
+Glyph Issue
+ 94 M10‐1
+95 M10‐2
+96 M10‐3
+97 M10‐4
+98 M10‐5
+99 M10‐6
+100 M10‐7
+101 M11
++
+M346 + M9‐d
+𒱋
+𒮍
+𒡝
+𒫐
+𒬬
+𒭹
+𒪽
+𒩬
+𒣥
+𒸯
+𒸩
+𒸫
+𒸸
+𒸺
+𒹂
+𒸾
+𒢼
+7
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+102 M12
+103 M13
+104 M14‐a
+105 M14‐b
+106 M15
+107 M16
+108 M17
+109 M18
+110 M21
+111 M24
+112 M24‐1
+113 M24‐a
+114 M25
+115 M25‐a
+116 M26‐a
+117 M26‐b
+118 M26‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ 8
+𒤖
+𒤺
+𒬡
+𒮁
+𒡿
+𒠸
+𒠞
+𒴑
+𒳉
+𒴌
+𒷖
+𒢮
+𒴰
+𒪀
+𒥒
+𒣻
+𒡑
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+119 M26‐h
+120 M29
+121 M29‐a
+122 M29‐b
+123 M29‐c
+124 M29‐d
+125 M29‐e
+126 M29‐k
+127 M29‐l
+128 M29‐l
+129 M30‐a
+130 M30‐c
+131 M30‐g
+132 M32
+133 M32‐a
+134 M32‐b
+135 M32‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ + 1N8a
+9
+𒶗
+𒢃
+𒫲
+𒭖
+𒭎
+𒰥
+𒰜
+𒧥
+𒪑
+𒰐
+𒫔
+𒭲
+𒮘
+𒶀
+𒮀
+𒬢
+𒯫
+defective
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+136 M32‐e
+137 M33
+138 M33‐a
+139 M33‐c
+140 M34
+141 M34‐a
+CDLI Image
+Font Glyph
+Glyph Issue
+ 142 M35
+143 M36
+144 M36
+145 M36
+146 M36
+147 M36
+148 M36
+149 M36
+150 M36
+151 M36
+152 M36
++ 1N14
++ 1N24
++ 1N24 + M343‐h
++ 1N30c
++ 1N30c + 1N39c
++ 1N30d
++ 1N30d‐1
++ 1N30d + M343‐h
++ 1N39b
+𒮊
+𒵤
+𒲉
+𒳏
+𒳞
+𒰫
+𒳋
+𒱳
+𒦿
+𒡼
+𒳕
+𒴟
+𒥟
+𒫸
+𒹣
+𒭅
+𒦊
+10
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+153 M36 + 1N39b + M343‐h
+154 M36 + 1N39c
+155 M36‐a
+156 M36 + M10
+157 M36 + M35
+158 M36 + M343‐e
+159 M36 + M343‐h
+160 M37
+161 M37‐a
+162 M38‐a
+163 M38‐a1
+164 M38‐a2
+165 M38‐b
+166 M38‐b1
+167 M38‐b2
+168 M38‐c
+169 M38‐e
+CDLI Image
+Font Glyph
+Glyph Issue
+ 11
+𒩎
+𒪇
+𒮡
+𒤠
+𒲏
+𒶐
+𒠃
+𒲗
+𒵙
+𒥰
+𒹓
+𒹈
+𒧍
+𒷪
+𒷷
+𒧱
+𒪡
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+170 M38‐e1
+171 M38‐f
+172 M38‐h
+173 M38‐i
+174 M39
+175 M39 + 1N30d
+176 M39‐a
+177 M39‐b
+178 M39‐c
+179 M39‐c1
+180 M39‐c + 1N30d
+181 M39‐ca + 1N30d
+182 M39‐d
+183 M39‐e
+184 M39‐f
+185 M39‐g
+186 M41
+CDLI Image
+Font Glyph
+Glyph Issue
+ 12
+𒸃
+𒩊
+𒫢
+𒬆
+𒢾
+𒲶
+𒡤
+𒠑
+𒡄
+𒸧
+𒢏
+𒮳
+𒢵
+𒣬
+𒥀
+𒤐
+𒫤
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+187 M41‐c
+188 M41‐d
+189 M41‐e
+190 M41‐f
+191 M41‐g
+192 M41‐j
+193 M43
+194 M43‐a
+195 M44
+196 M44‐a
+197 M44‐b
+198 M44‐m
+199 M45‐b
+200 M46
+201 M46‐1
+202 M46‐a
+203 M47
+CDLI Image
+Font Glyph
+Glyph Issue
+ 13
+𒠾
+𒢹
+𒣧
+𒤽
+𒤕
+𒲜
+𒭤
+𒠵
+𒰌
+𒪠
+𒩂
+𒫺
+𒥏
+𒯒
+𒸁
+𒨠
+𒮨
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+204 M48‐c
+205 M48‐d
+206 M48‐e
+207 M48‐g
+208 M48‐i
+209 M48‐k
+210 M49‐b
+211 M49‐c
+212 M49‐c1
+213 M49‐d
+214 M49‐da
+215 M49‐e
+216 M49‐m
+217 M49‐n
+218 M50‐f
+219 M50‐k
+220 M50‐k1
+CDLI Image
+Font Glyph
+Glyph Issue
+ 14
+𒭢
+𒰋
+𒰵
+𒮫
+𒦑
+𒧎
+𒱬
+𒲡
+𒷥
+𒴅
+𒧀
+𒴼
+𒢲
+𒤒
+𒵨
+𒠴
+𒸉
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+221 M50‐k2
+222 M50‐k3
+223 M50‐k4
+224 M50‐m
+225 M50‐n
+226 M50‐p
+227 M50‐q
+228 M51‐a
+229 M51‐b
+230 M51‐c
+231 M52‐a
+232 M52‐b
+233 M53‐a
+234 M53‐b
+235 M54
+236 M54‐b
+237 M54‐c
+CDLI Image
+Font Glyph
+Glyph Issue
+ 15
+𒷾
+𒸈
+𒸓
+𒣛
+𒤲
+𒵺
+𒵪
+𒬠
+𒮃
+𒬨
+𒱮
+𒳂
+𒬯
+𒫕
+𒬅
+𒵛
+𒶌
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+238 M54‐i
+239 M54 + M365 + M54‐i
+240 M54 + M384‐i + M54‐i
+241 M54 + M393‐f + M54‐i
+242 M56
+243 M56‐e
+244 M56‐f
+245 M56‐g
+246 M56‐n
+247 M57
+248 M57‐a
+249 M57‐a1
+250 M57‐a2
+251 M57‐a4
+252 M57‐b
+253 M57‐b1
+254 M57‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ 16
+𒣰
+𒣗
+𒱭
+𒪉
+𒭃
+𒱙
+𒲯
+𒳳
+𒢙
+𒭣
+𒯉
+𒹐
+𒹄
+𒹗
+𒰯
+𒷧
+𒭛
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+255 M57‐e
+256 M57‐f
+257 M57‐i
+258 M57 + M291
+259 M57‐n
+260 M58
+261 M58‐b
+262 M59
+263 M59‐a
+264 M59‐b
+265 M59‐d
+266 M59‐f
+267 M59‐f1
+268 M59‐g
+269 M59 + M38‐a
+270 M61
+271 M61‐a
+CDLI Image
+Font Glyph
+Glyph Issue
+ 17
+𒭋
+𒫨
+𒨬
+𒫇
+𒦌
+𒪢
+𒡊
+𒪄
+𒦉
+𒧨
+𒪘
+𒨷
+𒸭
+𒨹
+𒲦
+𒦏
+𒢬
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+272 M61‐b
+273 M62
+274 M62‐b
+275 M63
+276 M63‐a
+277 M64
+278 M64‐a
+279 M64‐d
+280 M66
+281 M66‐a
+282 M66‐a1
+283 M66‐a2
+284 M66‐g
+285 M66‐h
+286 M68‐a
+287 M68‐b
+288 M68‐c
+CDLI Image
+Font Glyph
+Glyph Issue
+ 18
+𒤍
+𒧮
+𒪛
+𒧐
+𒥐
+𒪧
+𒦫
+𒫁
+𒨡
+𒦽
+𒷣
+𒡁
+𒩰
+𒬰
+𒯻
+𒮝
+𒯝
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+289 M69‐a
+290 M69‐ab
+291 M69‐ad
+292 M69‐b
+293 M69‐g
+294 M71‐a
+295 M71‐d
+296 M72
+297 M72‐a
+298 M73‐a
+299 M73‐b
+300 M73‐b1
+301 M73‐c
+302 M73‐d
+303 M74‐a
+304 M74‐b
+305 M74‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ 19
+𒴎
+𒫯
+𒮴
+𒵧
+𒱶
+𒰪
+𒫹
+𒨢
+𒵚
+𒮠
+𒰇
+𒷮
+𒰻
+𒬺
+𒳁
+𒱯
+𒴊
+defective defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+306 M74‐f
+307 M74‐g
+308 M75‐a
+309 M75‐ab
+310 M75‐e
+311 M75‐ff
+312 M75‐g
+313 M75‐ga
+314 M75‐h
+315 M75‐k
+316 M75‐m
+317 M75‐o
+318 M75‐o1
+319 M75‐o2
+320 M75‐r
+321 M75‐s
+322 M76‐a
+CDLI Image
+Font Glyph
+Glyph Issue
+ 20
+𒶅
+𒵢
+𒫒
+𒰁
+𒱅
+𒴈
+𒮕
+𒵡
+𒥢
+𒦻
+𒩲
+𒩗
+𒸐
+𒸇
+𒱃
+𒯺
+𒲋
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+323 M76‐c
+324 M76‐d
+325 M76‐e
+326 M77
+327 M80‐a
+328 M80‐b
+329 M80‐c
+330 M80‐ca
+331 M80‐d
+332 M80‐f
+333 M81
+334 M81‐1
+335 M84
+336 M85
+337 M86
+338 M87
+339 M87‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 21
+𒳎
+𒵻
+𒵩
+𒧓
+𒥬
+𒧌
+𒧳
+𒢟
+𒩽
+𒩏
+𒬹
+𒷵
+𒮢
+𒯗
+𒰹
+𒰅
+𒢷
+defective defective
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+340 M88
+341 M89
+342 M90
+343 M91‐a
+344 M92
+345 M93
+346 M93‐a
+347 M94‐e
+348 M94‐i
+349 M96
+350 M96‐1
+351 M96‐2
+352 M96‐3
+353 M96‐c
+354 M96‐d
+355 M96 + M29
+356 M96 + M139
+CDLI Image
+Font Glyph
+Glyph Issue
+ 22
+𒧋
+𒧵
+𒮤
+𒬀
+𒰽
+𒰂
+𒬷
+𒳧
+𒣪
+𒫟
+𒹖
+𒹌
+𒹊
+𒴗
+𒲑
+𒪞
+𒡔
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+357 M97‐f
+358 M97‐h
+359 M98
+360 M99
+361 M99‐a
+362 M99‐b
+363 M101
+364 M101‐b
+365 M102‐a
+366 M102‐c
+367 M102‐d
+368 M102‐d1
+369 M102‐da
+370 M102‐e
+371 M102‐e2
+372 M102‐k
+373 M102‐k1
+CDLI Image
+Font Glyph
+Glyph Issue
+ 23
+𒫅
+𒩡
+𒩍
+𒨟
+𒦡
+𒨃
+𒦘
+𒧸
+𒠀
+𒢚
+𒤄
+𒸥
+𒨈
+𒥓
+𒢒
+𒲮
+𒸴
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+374 M102‐k2
+375 M102‐l
+376 M102‐m
+377 M103
+378 M103‐1
+379 M103‐2
+380 M103‐3
+381 M103‐d
+382 M104
+383 M105
+384 M105‐a
+385 M105‐ab
+386 M105‐b
+387 M105‐e
+388 M105‐g
+389 M106
+390 M106‐1
+CDLI Image
+Font Glyph
+Glyph Issue
+ 24
+𒸬
+𒶖
+𒵎
+𒧉
+𒸡
+𒸕
+𒸙
+𒨪
+𒪵
+𒩴
+𒩧
+𒣼
+𒨍
+𒦪
+𒦭
+𒨜
+𒷢
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+391 M106‐a
+392 M106‐b
+393 M106 + M96‐c
+394 M106 + M288
+395 M106 + M288‐1
+396 M107‐a
+397 M109
+398 M110
+399 M110‐a
+400 M110‐b
+401 M110‐c
+402 M111
+403 M111‐a
+404 M111‐b
+405 M111‐c
+406 M111‐d
+407 M111‐e
+CDLI Image
+Font Glyph
+Glyph Issue
+ 25
+𒤻
+𒣩
+𒣺
+𒥁
+𒷛
+𒩕
+𒫘
+𒪲
+𒸪
+𒸰
+𒭞
+𒩷
+𒲱
+𒱔
+𒲫
+𒳶
+𒵈
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+408 M111‐f
+409 M111‐j1
+410 M111‐j2
+411 M111‐m
+412 M111‐n
+413 M111‐o
+414 M111‐o1
+415 M111‐g
+416 M111‐h
+417 M111‐i
+418 M111‐l
+419 M111‐p
+420 M112
+421 M112‐1
+422 M112‐a
+423 M112‐aa
+424 M112‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 26
+𒶙
+𒷽
+𒷲
+𒢠
+𒤅
+𒥎
+𒸳
+𒵍
+𒡕
+𒢜
+𒣽
+𒵐
+𒨛
+𒹁
+𒭨
+𒲣
+𒬉
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+425 M112‐c
+426 M112‐d
+427 M112‐e
+428 M112‐e1
+429 M112‐f
+430 M112‐i
+431 M112‐n
+432 M112‐o
+433 M112‐p
+434 M112‐q
+435 M112‐r
+436 M114
+437 M115
+438 M115‐a
+439 M115‐b
+440 M117
+441 M120
+CDLI Image
+Font Glyph
+Glyph Issue
+ 27
+𒫠
+𒯖
+𒮣
+𒸟
+𒰆
+𒧊
+𒪫
+𒩿
+𒰷
+𒰈
+𒮦
+𒥪
+𒦗
+𒴵
+𒶃
+𒧇
+𒬐
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+442 M122
+443 M122‐1
+444 M122‐2
+445 M122‐3
+446 M122‐4
+447 M122‐5
+448 M122~6
+449 M123‐b
+450 M123‐ca
+451 M123‐d
+452 M124
+453 M124‐a
+454 M124‐b
+455 M124‐c
+456 M125
+457 M125‐a
+458 M125‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 28
+𒬶
+𒷠
+𒷗
+𒷙
+𒷫
+𒷯
+𒹀
+𒩨
+𒲩
+𒦬
+𒯽
+𒡒
+𒠂
+𒡐
+𒱁
+𒥶
+𒧖
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+459 M126
+460 M127 + M127
+461 M128
+462 M128‐1
+463 M128‐ca
+464 M128‐d
+465 M128‐da
+466 M128‐da1
+467 M128‐db
+468 M128‐dc
+469 M128‐dd
+470 M128‐de
+471 M128‐e
+472 M128‐ef
+473 M129
+474 M129‐b
+475 M130‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 29
+𒯛
+𒨉
+𒥧
+𒹍
+𒠰
+𒳨
+𒨵
+𒹢
+𒪔
+𒪗
+𒧛
+𒧩
+𒲾
+𒪐
+𒦚
+𒯏
+𒮈
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+476 M131
+477 M131‐a
+478 M131‐d
+479 M131‐e
+480 M131‐f
+481 M131‐g
+482 M131‐h
+483 M131‐ia
+484 M131‐k
+485 M131‐k1
+486 M131 + M388
+487 M134
+488 M134‐a
+489 M134‐b
+490 M134‐ba
+491 M134‐c
+492 M134‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ 30
+𒱀
+𒴔
+𒳐
+𒳙
+𒲎
+𒱺
+𒣇
+𒬌
+𒤣
+𒸔
+𒱵
+𒬏
+𒬊
+𒭧
+𒠔
+𒬼
+𒰼
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+493 M134‐e
+494 M134‐f
+495 M134‐g
+496 M135
+497 M136
+498 M136‐a
+499 M136‐b
+500 M136‐c
+501 M136‐d
+502 M136‐e
+503 M136‐f
+504 M136‐g
+505 M136‐h
+506 M136‐i
+507 M136‐j
+508 M136‐k
+509 M136‐l
+CDLI Image
+Font Glyph
+Glyph Issue
+ 31
+𒰃
+𒮥
+𒯔
+𒫝
+𒬳
+𒭉
+𒫩
+𒫽
+𒮯
+𒯌
+𒰮
+𒰒
+𒧕
+𒧭
+𒦋
+𒥸
+𒩄
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+510 M136‐m
+511 M136 + M71‐a
+512 M136 + M353
+513 M136 + M365
+514 M136 + M387
+515 M136 + Mxxx
+516 M136‐n
+517 M136‐o
+518 M136‐p
+519 M136‐q
+520 M136‐r
+521 M136‐s
+522 M136‐t
+523 M136‐u
+524 M136‐w
+525 M139
+526 M139‐a1
+CDLI Image
+Font Glyph
+Glyph Issue
+ 32
+𒨫
+𒡇
+𒧘
+𒫪
+𒦁
+𒲊
+𒪍
+𒪝
+𒰕
+𒰩
+𒯆
+𒮲
+𒬁
+𒫦
+𒭠
+𒩺
+𒦧
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+527 M139‐a2
+528 M140‐a
+529 M141
+530 M141‐a
+531 M141‐b
+532 M142
+533 M143
+534 M143‐a
+535 M143‐d
+536 M144
+537 M144‐a
+538 M145
+539 M145‐a
+540 M145‐b
+541 M145‐bb
+542 M145‐c
+543 M145‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ 33
+𒸑
+𒩥
+𒳀
+𒣈
+𒤟
+𒱪
+𒲢
+𒤼
+𒠽
+𒴇
+𒦖
+𒴹
+𒢍
+𒡆
+𒡧
+𒠎
+𒣯
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+544 M145‐e
+545 M145‐f
+546 M145‐n
+547 M146
+548 M146‐0
+549 M146‐1
+550 M146‐2
+551 M146‐3
+552 M146‐4
+553 M146‐d
+554 M146‐e
+555 M146‐f
+556 M147
+557 M147‐a
+558 M147‐b
+559 M147‐d
+560 M147‐e
+CDLI Image
+Font Glyph
+Glyph Issue
+ 34
+𒢭
+𒤎
+𒶋
+𒶉
+𒸣
+𒸠
+𒸗
+𒸚
+𒸂
+𒨭
+𒩅
+𒪜
+𒵜
+𒠁
+𒡖
+𒤃
+𒥑
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+561 M149‐a
+562 M149‐a1
+563 M149‐a2
+564 M149‐a3
+565 M149‐c
+566 M149‐d
+567 M149‐g
+568 M149‐h
+569 M150
+570 M150‐a
+571 M151
+572 M151‐a
+573 M151‐b
+574 M151‐c
+575 M151‐d
+576 M151‐e
+577 M151‐f
+CDLI Image
+Font Glyph
+Glyph Issue
+ 35
+𒳽
+𒹑
+𒹅
+𒹏
+𒶒
+𒲹
+𒱞
+𒢧
+𒴃
+𒴳
+𒴺
+𒱄
+𒯢
+𒮗
+𒬔
+𒫓
+𒬲
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+578 M152
+579 M152‐d
+580 M152‐e
+581 M152‐f
+582 M152‐g
+CDLI Image
+Font Glyph
+Glyph Issue
+ 583 M153
+584 M153
+585 M153
+586 M153
+587 M153
+588 M153
+589 M153
+590 M153
+591 M153
++ M6‐a
++ M29
++ M106
++ M106‐a
++ M205‐c
++ M320 + M153
++ M342
++ M377‐e + M153
+𒶈
+𒱻
+𒲌
+𒳚
+𒳍
+𒵠
+𒱥
+𒧴
+𒢫
+𒵏
+𒵟
+𒨀
+𒮆
+𒤿
+𒱖
+𒳸
+𒲿
+defective defective
+defective
+592 M154‐b
+593 M154‐s
+594 M155
+36
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+595 M155‐f
+596 M156
+597 M157
+598 M157‐a
+599 M157‐a
+600 M157‐a
+601 M157‐a
+602 M157‐a
+603 M157‐a
+604 M157‐a
+605 M157‐a
+606 M157‐a
+CDLI Image
+Font Glyph
+Glyph Issue
+ 607 M157 + M29
+608 M157 + M57
+609 M157 + M59
+610 M157 + M80‐c
+611 M157 + M111‐f
++ M66
++ M80‐c
++ M131
++ M131‐a
++ M131‐d
++ M342
++ M348
++ M367
+𒯎
+𒱫
+𒲠
+𒭩
+𒲙
+𒭼
+𒡢
+𒢳
+𒡣
+𒩫
+𒮎
+𒬝
+𒫵
+𒠯
+𒴚
+𒠊
+𒮪
+37
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+612 M157
+613 M157
+614 M157
+615 M157
+616 M157
+617 M157
+618 M157
+619 M157
+620 M157
+621 M157
+622 M158
+CDLI Image
+Font Glyph
+Glyph Issue
+ 623 M158‐b
+624 M158‐c
+625 M158‐d
+626 M158‐e
+627 M158‐h
+628 M159
++ M111‐i
++ M131
++ M131‐d
++ M136
++ M153
++ M288
++ M340
++ M348
++ M377‐e + M377‐e
++ M381
+𒥮
+𒣶
+𒬑
+𒠉
+𒨔
+𒳤
+𒧅
+𒭭
+𒬻
+𒦠
+𒣭
+𒥂
+𒤑
+𒢋
+𒡦
+𒴽
+𒢴
+defective
+38
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+629 M165
+630 M167‐a
+631 M167‐a + M131‐k
+632 M172
+633 M173
+634 M175
+635 M175‐b
+636 M175 + M38‐a
+637 M175 + M131
+638 M175 + M131‐d
+639 M175 + M136
+640 M175 + M136‐n
+641 M175 + M153
+642 M175 + M157
+643 M175 + M175
+644 M175 + M203‐a
+645 M175 + M286
+CDLI Image
+Font Glyph
+Glyph Issue
+ 39
+𒢯
+𒤞
+𒱘
+𒤏
+𒥃
+𒢉
+𒮇
+𒬪
+𒡭
+𒠏
+𒤳
+𒮙
+𒧬
+𒨮
+𒰖
+𒳄
+𒡂
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+646 M175
+647 M175
+648 M175
+649 M175
+650 M175
+651 M175
+652 M175
+653 M175
+654 M176
+CDLI Image
+Font Glyph
+Glyph Issue
+ 655 M176‐b
+656 M177
+657 M177‐a
+658 M180
+659 M180‐a
+660 M180‐b
+661 M180‐c
+662 M184‐b
++ M288
++ M325‐d
++ M376
++ M377 + M377
++ M380
++ M381
++ M387‐c
++ M388
+𒴆
+𒱾
+𒰸
+𒬸
+𒪥
+𒪁
+𒯁
+𒰎
+𒠿
+𒴲
+𒠓
+𒯣
+𒲤
+𒪈
+𒨧
+𒩆
+𒧽
+defective
+40
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+663 M184‐e
+664 M188‐e
+665 M188‐f
+666 M188‐g
+667 M193
+668 M193‐a
+669 M193‐aa
+670 M193‐ca
+671 M193‐e
+672 M193‐f
+673 M193‐g
+674 M193‐m
+675 M195
+676 M195‐a
+677 M195‐b
+678 M195‐c
+679 M195‐c1
+CDLI Image
+Font Glyph
+Glyph Issue
+ 41
+𒩯
+𒬞
+𒭻
+𒬩
+𒴁
+𒮱
+𒩦
+𒱑
+𒭡
+𒫾
+𒫧
+𒧙
+𒱦
+𒫃
+𒬤
+𒮅
+𒹇
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+680 M195‐m
+CDLI Image
+Font Glyph
+Glyph Issue
+ 681 M195
+682 M195
+683 M195
+684 M195
+685 M197
+686 M200
++ M38
++ M38‐a
++ M57
++ M57‐a4
+𒩤
+𒧻
+𒩼
+𒴻
+𒩵
+𒳪
+𒠬
+𒸛
+𒦓
+𒠫
+𒴐
+𒢥
+𒠄
+𒢗
+𒤌
+𒥈
+𒦳
+687 M200‐1
+688 M200‐a
+689 M201
+690 M201 + M377
+691 M201 + M377 + M377
+692 M203‐a
+693 M203‐c
+694 M203‐d
+695 M203‐e
+696 M204‐g
+defective defective
+42
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+697 M205
+698 M205‐a
+699 M205‐b
+700 M205‐c
+701 M205‐d
+702 M205‐g
+703 M206‐b
+704 M206‐d
+705 M206‐d1
+706 M206‐f
+707 M206‐fa
+708 M206‐g
+709 M206‐g1
+710 M206‐g2
+711 M206‐i
+712 M206‐j
+713 M207
+CDLI Image
+Font Glyph
+Glyph Issue
+ 43
+𒤯
+𒣍
+𒤬
+𒤮
+𒡰
+𒠦
+𒪭
+𒧺
+𒸵
+𒥥
+𒦞
+𒦝
+𒸋
+𒸀
+𒮛
+𒰀
+𒣊
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+714 M207‐a
+715 M207‐b
+716 M207‐c
+717 M207‐d
+718 M207‐e
+719 M207‐f
+720 M207‐h
+721 M207‐m
+722 M207‐ma
+723 M207‐n
+724 M208
+725 M209‐a
+726 M209‐b
+727 M209‐c
+728 M209‐d
+729 M209‐d1
+730 M210
+CDLI Image
+Font Glyph
+Glyph Issue
+ 44
+𒤴
+𒣣
+𒢿
+𒠺
+𒠚
+𒡨
+𒶁
+𒲕
+𒯊
+𒳟
+𒱽
+𒳦
+𒲝
+𒱰
+𒴴
+𒷘
+𒤦
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+731 M210‐a
+732 M210‐b
+733 M210‐ba
+734 M210‐c
+735 M210‐d
+736 M210‐e
+737 M210‐f
+738 M210‐g
+739 M210‐h
+740 M210‐m
+741 M210‐ma
+742 M213
+743 M213‐b
+744 M214‐a
+745 M214‐b
+746 M214‐c
+747 M214‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ 45
+𒲺
+𒱝
+𒰰
+𒲧
+𒳺
+𒵂
+𒶔
+𒵓
+𒡘
+𒢨
+𒧶
+𒣋
+𒬄
+𒴱
+𒵿
+𒵥
+𒳠
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+748 M214‐e
+749 M214‐h
+750 M214‐i
+751 M215
+752 M217
+753 M217‐a
+754 M217‐e
+755 M217‐ea
+756 M217‐f
+757 M217‐h
+758 M217‐j
+759 M217‐m
+760 M217 + M124
+761 M217 + M388
+762 M217‐n
+763 M218
+764 M218‐1
+CDLI Image
+Font Glyph
+Glyph Issue
+ 46
+𒳇
+𒣞
+𒣁
+𒠨
+𒡶
+𒮏
+𒭷
+𒡫
+𒬛
+𒨕
+𒪺
+𒦯
+𒩝
+𒱤
+𒥜
+𒵱
+𒷸
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+765 M218‐1
+766 M218‐b
+767 M218‐c
+768 M218‐d
+769 M218‐g
+CDLI Image
+Font Glyph
+Glyph Issue
+ 770 M218
+771 M218
+772 M218
+773 M218
+774 M218
+775 M218
+776 M218
+777 M219
++ M99
++ M101
++ M218
++ M288
++ M288‐f
++ M320
++ M388
+778 M219‐1
+779 M219‐f
+780 M219‐s
+781 M220
++ M288
++ M288
+𒷨
+𒠡
+𒠲
+𒣨
+𒤢
+𒪸
+𒧑
+𒳾
+𒦮
+𒬖
+𒫴
+𒠢
+𒵰
+𒸒
+𒩟
+𒩣
+𒲄
+47
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+782 M220‐m
+783 M220‐n
+784 M221
+785 M221‐c
+786 M221‐e
+787 M221‐f
+788 M222
+789 M222‐e
+790 M223
+791 M223‐a
+792 M223‐b
+793 M223‐c
+794 M223‐d
+795 M224
+796 M224‐a
+797 M224‐b
+798 M224‐c
+CDLI Image
+Font Glyph
+Glyph Issue
+ 48
+𒬒
+𒭪
+𒲆
+𒤛
+𒡪
+𒠗
+𒳖
+𒨆
+𒳒
+𒤧
+𒣓
+𒣔
+𒠤
+𒵳
+𒥻
+𒧝
+𒧦
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+799 M226‐c
+800 M226‐ca
+CDLI Image
+Font Glyph
+Glyph Issue
+ 801 M226‐e
+802 M227
+803 M228
+804 M228‐b
+805 M228‐b
+806 M228‐b
+807 M228‐d
+808 M228‐g
++
++
+M101
+M320
+𒥭
+𒫿
+𒨤
+𒴦
+𒠮
+𒯓
+𒤇
+𒴸
+𒬋
+𒭦
+𒣆
+𒤝
+𒭔
+𒭳
+𒥴
+𒲼
+𒵷
+809 M228‐ga
+810 M228‐gb
+defective
+811 M228 + M101
+812 M228 + M288
+813 M228 + M320
+814 M229‐e
+815 M230
+49
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+816 M230‐a
+817 M240
+818 M240‐a
+819 M240‐b
+820 M240‐c
+821 M240‐d
+822 M240‐d1
+823 M240‐e
+824 M241
+825 M241‐a
+826 M241‐b
+827 M242
+828 M242‐ab
+829 M242‐b
+830 M242‐d
+831 M242‐da
+832 M242‐e
+CDLI Image
+Font Glyph
+Glyph Issue
+ 50
+𒴜
+𒭏
+𒣎
+𒤪
+𒤭
+𒡯
+𒷶
+𒡹
+𒭕
+𒩪
+𒨗
+𒫱
+𒬿
+𒣡
+𒠹
+𒢽
+𒠙
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+833 M242‐f
+834 M242‐k
+835 M242‐n
+836 M243
+837 M243‐aa
+838 M243‐ac
+839 M243‐b
+840 M243‐c
+841 M243‐e
+842 M243‐ee
+843 M243‐ef
+844 M243‐f
+845 M243‐g
+846 M243‐h
+847 M243‐i
+848 M243‐j
+849 M243‐n
+CDLI Image
+Font Glyph
+Glyph Issue
+ 51
+𒡩
+𒴮
+𒳜
+𒫮
+𒢓
+𒠌
+𒪰
+𒩹
+𒧄
+𒱌
+𒯧
+𒥣
+𒦜
+𒯟
+𒮜
+𒯾
+𒬍
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+850 M244
+851 M246
+852 M246‐a
+853 M246‐b
+854 M246‐c
+855 M246‐ca
+856 M246‐e
+857 M246‐f
+858 M246‐g
+859 M246‐h
+860 M246‐m
+861 M246‐o
+862 M246‐s
+863 M247
+864 M247‐a
+865 M247‐b
+866 M247‐c
+CDLI Image
+Font Glyph
+Glyph Issue
+ 52
+𒯃
+𒰝
+𒠅
+𒡜
+𒢖
+𒣐
+𒥆
+𒣲
+𒢩
+𒱠
+𒵖
+𒵆
+𒤆
+𒰤
+𒧚
+𒥼
+𒦇
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+867 M247‐d
+868 M247‐e
+869 M247‐f
+870 M247‐g
+871 M247‐m
+872 M247‐n
+873 M248
+874 M248‐a
+875 M248‐b
+876 M248‐c
+877 M248‐ca
+878 M248‐d
+879 M248‐e
+880 M248‐f
+881 M248‐g
+882 M249
+883 M249‐c
+CDLI Image
+Font Glyph
+Glyph Issue
+ 53
+𒨶
+𒨼
+𒪕
+𒪓
+𒮷
+𒰚
+𒧧
+𒳷
+𒵋
+𒶘
+𒡲
+𒲰
+𒳱
+𒲬
+𒱗
+𒧜
+𒯍
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+884 M249‐f
+885 M249‐g
+886 M249‐h
+887 M249‐m
+888 M249‐n
+889 M249‐n1
+890 M249‐p
+891 M250‐a
+892 M250‐ba
+893 M250‐m
+894 M250‐n
+895 M250‐na
+896 M250‐p
+897 M250‐r
+898 M251
+899 M251‐c
+900 M251‐c2
+CDLI Image
+Font Glyph
+Glyph Issue
+ 54
+𒭜
+𒭆
+𒪋
+𒥵
+𒧗
+𒸨
+𒭄
+𒱂
+𒩭
+𒦙
+𒧼
+𒨌
+𒭯
+𒫗
+𒮹
+𒵦
+𒹘
+defective defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+901 M251‐c3
+902 M251‐e
+903 M251‐g
+904 M251‐h
+905 M251‐i
+906 M251‐m
+907 M252
+908 M252‐a
+909 M252‐h
+910 M252‐i
+911 M252‐l
+912 M252‐q
+913 M252‐qa
+914 M252‐r
+915 M252‐t
+916 M253
+917 M254
+CDLI Image
+Font Glyph
+Glyph Issue
+ 55
+𒹛
+𒳈
+𒲔
+𒣟
+𒣃
+𒢁
+𒰙
+𒮒
+𒨓
+𒩚
+𒨇
+𒬟
+𒢈
+𒭽
+𒱈
+𒰦
+𒭐
+defective
+defective defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+918 M254‐a
+919 M254‐b
+920 M254‐c
+921 M254‐d
+922 M254‐e
+923 M254‐f
+924 M254‐g
+925 M254‐h
+926 M255
+927 M255‐b
+928 M256‐b
+929 M256‐c
+930 M256‐d
+931 M257‐d
+932 M259
+933 M259‐1
+934 M259‐2
+CDLI Image
+Font Glyph
+Glyph Issue
+ 56
+𒫰
+𒭍
+𒭒
+𒰛
+𒰣
+𒯄
+𒮶
+𒥹
+𒭑
+𒱟
+𒬂
+𒫣
+𒯐
+𒶊
+𒨺
+𒷚
+𒷤
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+935 M259‐3
+936 M260
+937 M260‐1
+938 M260 + 1N14
+939 M260 + 1N24
+940 M260 + 1N30c
+CDLI Image
+Font Glyph
+Glyph Issue
+ 941 M260‐1
+942 M260‐1
+943 M260‐2
+944 M260‐3
+945 M260‐a
+946 M260‐a
+947 M260‐b
++ 1N24
++ M313‐a
++ 1N24
++ M237
+𒷝
+𒧤
+𒷴
+𒧷
+𒡗
+𒬽
+𒹃
+𒹜
+𒷰
+𒷳
+𒡚
+𒰉
+𒠆
+𒮓
+𒯩
+𒥺
+𒸜
+948 M260 + M266‐a
+949 M260 + M312
+950 M261‐a
+951 M261‐a1
+57
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+952 M261‐b
+953 M261‐b1
+954 M261‐c
+955 M261‐d
+956 M261‐d1
+957 M262
+958 M262‐1
+959 M262‐a
+960 M262‐b
+961 M262‐ba
+962 M263
+963 M263‐1
+964 M263‐a
+965 M263‐a1
+966 M263‐b
+967 M263‐b1
+968 M263‐e
+CDLI Image
+Font Glyph
+Glyph Issue
+ 58
+𒸌
+𒸲
+𒸍
+𒪒
+𒹎
+𒥾
+𒷱
+𒡃
+𒢌
+𒡓
+𒦂
+𒸤
+𒧯
+𒸎
+𒦕
+𒸻
+𒨦
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+969 M263‐f
+970 M263‐g
+971 M263‐h
+972 M264‐a
+973 M264‐a1
+974 M264‐a + 1N24
+975 M264‐b
+976 M264‐c
+977 M264‐d
+978 M264‐d1
+979 M264‐n
+980 M265
+981 M265‐1
+982 M265‐2
+983 M265‐e
+984 M265‐f
+985 M265‐f1
+CDLI Image
+Font Glyph
+Glyph Issue
+ 59
+𒪂
+𒪤
+𒭥
+𒣠
+𒸱
+𒵑
+𒤶
+𒤙
+𒢄
+𒷼
+𒲓
+𒨿
+𒸏
+𒸅
+𒥨
+𒧁
+𒸝
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+986 M265‐f2
+987 M265‐f3
+988 M265‐i
+989 M265‐k
+990 M265‐l
+991 M266‐a
+992 M266‐b
+993 M266‐f
+994 M267‐f
+995 M267‐g
+996 M267‐h
+997 M267‐ha
+998 M267‐hb
+999 M268‐b
+1000 M268‐c
+1001 M268‐d
+1002 M268‐m
+CDLI Image
+Font Glyph
+Glyph Issue
+ 60
+𒸦
+𒸞
+𒯼
+𒯜
+𒫚
+𒤩
+𒣑
+𒡸
+𒦦
+𒥛
+𒮑
+𒮸
+𒰘
+𒱹
+𒲍
+𒴓
+𒣉
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1003 M269
+1004 M269‐1
+1005 M269‐2
+1006 M269‐3
+1007 M269‐4
+1008 M269‐a
+1009 M269‐a1
+1010 M269‐a2
+1011 M269‐a3
+1012 M269‐b
+1013 M269‐c
+1014 M269‐j1
+1015 M269‐j2
+1016 M270
+1017 M270‐c
+1018 M270‐d
+1019 M270‐e
+CDLI Image
+Font Glyph
+Glyph Issue
+ 61
+𒭗
+𒮋
+𒯱
+𒱐
+𒬣
+𒫈
+𒠣
+𒡮
+𒡺
+𒬧
+𒮄
+𒸢
+𒸘
+𒨴
+𒭁
+𒰶
+𒰊
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1020 M270‐m
+1021 M270‐n
+1022 M271‐ca
+1023 M271‐g
+1024 M271‐m
+1025 M272
+1026 M276‐a
+1027 M276‐d
+1028 M276‐f
+1029 M277
+1030 M277‐e
+1031 M277‐g
+1032 M277‐h
+1033 M277‐ha
+1034 M278
+1035 M278‐ab
+1036 M278‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 62
+𒪣
+𒩉
+𒯮
+𒶇
+𒣫
+𒪚
+𒯡
+𒭮
+𒫜
+𒦆
+𒱴
+𒳝
+𒤵
+𒭀
+𒮾
+𒭿
+𒨁
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1037 M278‐c
+1038 M278‐d
+1039 M278‐da
+1040 M278‐e
+1041 M278‐f
+1042 M278‐g
+1043 M278‐h
+1044 M278‐j
+1045 M278 + M124
+1046 M280‐g
+1047 M281‐a
+1048 M281‐c
+1049 M281‐d
+1050 M281‐e
+1051 M281‐f
+1052 M281‐g
+1053 M282
+CDLI Image
+Font Glyph
+Glyph Issue
+ 63
+𒦺
+𒪷
+𒣿
+𒩱
+𒨙
+𒩘
+𒬕
+𒬱
+𒫂
+𒠋
+𒪏
+𒩀
+𒦀
+𒦃
+𒧢
+𒧟
+𒭟
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1054 M283
+1055 M283‐a
+1056 M283‐j
+1057 M284
+1058 M284‐e
+1059 M284‐k
+1060 M284‐m
+1061 M285
+1062 M285‐b
+1063 M285‐ba
+1064 M285‐c
+1065 M285‐ca
+1066 M285‐d
+1067 M285‐k
+1068 M285‐m
+1069 M285‐s
+1070 M286
+CDLI Image
+Font Glyph
+Glyph Issue
+ 64
+𒭇
+𒩌
+𒰏
+𒰬
+𒢻
+𒲚
+𒴭
+𒰔
+𒧹
+𒧠
+𒧈
+𒨰
+𒪶
+𒭱
+𒰾
+𒪯
+𒮮
+defective
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1071 M286‐a
+1072 M286‐b
+1073 M287‐c
+1074 M288
+1075 M288 + 1N1
+1076 M288 + 1N39b
+1077 M288‐a
+1078 M288‐b
+1079 M288‐c
+1080 M288‐d
+1081 M288‐e
+1082 M288‐f
+1083 M288‐g
+1084 M288‐h
+1085 M288‐i
+1086 M288 + M376
+1087 M289
+CDLI Image
+Font Glyph
+Glyph Issue
+ 65
+𒠪
+𒡱
+𒦥
+𒦎
+𒩒
+𒣅
+𒴕
+𒵫
+𒵹
+𒳌
+𒳛
+𒲐
+𒱸
+𒣄
+𒣜
+𒰲
+𒥷
+defective
+defective defective
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1088 M289‐a
+1089 M289‐b
+1090 M289‐d
+1091 M290
+1092 M290‐a
+1093 M290‐c
+1094 M290‐d
+1095 M290‐h
+1096 M291
+1097 M291‐a
+1098 M291‐f
+1099 M292
+1100 M292‐a
+1101 M292‐c
+1102 M292‐d
+1103 M292‐e
+1104 M292‐f
+CDLI Image
+Font Glyph
+Glyph Issue
+ 66
+𒯰
+𒮌
+𒫄
+𒰭
+𒰱
+𒮬
+𒬇
+𒪨
+𒰓
+𒴶
+𒱨
+𒮰
+𒮺
+𒰠
+𒭌
+𒭙
+𒫷
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1105 M292‐h
+1106 M292‐i
+1107 M293
+1108 M293‐a
+1109 M293‐b
+1110 M293‐c
+1111 M293‐d
+1112 M294‐a
+1113 M295
+1114 M295‐a
+1115 M295‐b
+1116 M295‐c
+1117 M295‐ca
+1118 M295‐cb
+1119 M295‐d
+1120 M295‐da
+1121 M295‐e
+CDLI Image
+Font Glyph
+Glyph Issue
+ 67
+𒨱
+𒨾
+𒯋
+𒵗
+𒴀
+𒴿
+𒱚
+𒫍
+𒫼
+𒳑
+𒱿
+𒲇
+𒧔
+𒴙
+𒴞
+𒤸
+𒴡
+defective
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1122 M295‐ee
+1123 M295‐ef
+1124 M295‐f
+1125 M295‐h
+1126 M295‐i
+1127 M295‐k
+1128 M295‐k1
+1129 M295‐ka
+1130 M295‐l
+1131 M295‐la
+1132 M295‐o
+1133 M295‐p
+1134 M295‐q
+1135 M295‐s
+1136 M295‐u
+1137 M295‐w
+1138 M295‐wa
+CDLI Image
+Font Glyph
+Glyph Issue
+ 68
+𒤹
+𒣤
+𒵲
+𒡴
+𒡵
+𒠩
+𒹡
+𒳥
+𒣙
+𒰄
+𒤰
+𒵮
+𒵴
+𒥳
+𒲃
+𒳗
+𒨨
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1139 M295‐y
+1140 M295‐z
+1141 M296
+1142 M296‐c
+1143 M296‐d
+1144 M296 + M296
+1145 M297
+1146 M297‐a
+1147 M297‐b
+1148 M297‐bc
+1149 M297‐b + M388
+1150 M297‐c1
+1151 M297‐c2
+1152 M297‐d
+1153 M297 + M296
+1154 M298
+1155 M298‐a
+CDLI Image
+Font Glyph
+Glyph Issue
+ 69
+𒤨
+𒣏
+𒭚
+𒫖
+𒯘
+𒯸
+𒭊
+𒲘
+𒳢
+𒥩
+𒴬
+𒷿
+𒸊
+𒵾
+𒯵
+𒪌
+𒪹
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1156 M299
+1157 M301
+1158 M301‐a
+1159 M301‐aa
+1160 M301‐b
+1161 M301‐e
+1162 M301‐ea
+1163 M301‐eb
+1164 M301‐g
+1165 M302
+1166 M302‐a
+1167 M302‐b
+1168 M302‐ba
+1169 M302‐c
+1170 M302‐ca
+1171 M302‐e
+1172 M302‐f
+CDLI Image
+Font Glyph
+Glyph Issue
+ 70
+𒪟
+𒦷
+𒣵
+𒴄
+𒥅
+𒡙
+𒪴
+𒩓
+𒡋
+𒥝
+𒨥
+𒪃
+𒱇
+𒪦
+𒫌
+𒧰
+𒦔
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1173 M302‐i
+1174 M302‐j
+1175 M302‐k
+1176 M302‐o
+1177 M302‐p
+1178 M302‐s
+1179 M302‐t
+1180 M304
+1181 M304‐a
+1182 M304‐b
+1183 M304 + M41‐g
+1184 M304 + M304
+1185 M304 + M342
+1186 M305
+1187 M305‐b
+1188 M305‐c
+1189 M305‐f
+CDLI Image
+Font Glyph
+Glyph Issue
+ 71
+𒯑
+𒰳
+𒰍
+𒬃
+𒥲
+𒧒
+𒪪
+𒨑
+𒥦
+𒧂
+𒦾
+𒴾
+𒦹
+𒩜
+𒠘
+𒠻
+𒤷
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1190 M305‐g
+1191 M305‐h
+1192 M305‐i
+1193 M305 + M9
+1194 M305 + M29‐a
+1195 M305 + M38‐a
+1196 M305 + M41‐e
+1197 M305 + M75‐a
+1198 M305 + M111‐c
+1199 M305 + M136
+1200 M305 + M153
+1201 M305 + M157
+1202 M305 + M180
+1203 M305 + M209‐a
+1204 M305 + M214‐a
+1205 M305 + M288
+1206 M305 + M320
+CDLI Image
+Font Glyph
+Glyph Issue
+ 72
+𒤜
+𒳆
+𒳡
+𒧪
+𒦐
+𒫫
+𒴩
+𒥘
+𒡅
+𒢝
+𒫀
+𒥖
+𒥚
+𒡻
+𒣘
+𒱲
+𒢎
+defective
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1207 M305 + M324‐c
+1208 M305 + M332~d
+1209 M305 + M342
+1210 M305 + M365
+1211 M305 + M387‐c
+1212 M308‐e
+1213 M308‐f
+1214 M309
+1215 M309‐a
+1216 M309‐a1
+1217 M309‐b
+1218 M309‐d
+1219 M310
+1220 M310‐1
+1221 M311
+1222 M311‐b
+1223 M311‐g
+CDLI Image
+Font Glyph
+Glyph Issue
+ 73
+𒮼
+𒰑
+𒦼
+𒯹
+𒱏
+𒫉
+𒬦
+𒭾
+𒴪
+𒸹
+𒵼
+𒳘
+𒨎
+𒹆
+𒩞
+𒮩
+𒭂
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1224 M312
+1225 M312‐a
+1226 M312‐c
+1227 M312‐f
+1228 M313‐a
+1229 M313‐b
+1230 M313‐b1
+1231 M313‐f
+1232 M314
+1233 M314‐c
+1234 M314‐e
+1235 M314‐f
+1236 M314‐g
+1237 M315
+1238 M315‐a
+1239 M316
+1240 M316‐1
+CDLI Image
+Font Glyph
+Glyph Issue
+ 74
+𒪿
+𒶑
+𒳹
+𒲴
+𒯂
+𒰧
+𒷺
+𒫭
+𒨄
+𒲁
+𒴛
+𒵬
+𒵶
+𒦴
+𒬘
+𒥞
+𒹙
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1241 M316‐2
+1242 M316‐3
+1243 M316‐4
+1244 M316‐a
+1245 M316‐e
+1246 M316‐k
+1247 M316‐l
+1248 M317
+1249 M317‐1
+1250 M317‐a
+1251 M317‐b
+1252 M317‐b2
+1253 M317‐d
+1254 M317‐e
+1255 M317‐g
+1256 M317‐m
+1257 M317 + M265‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 75
+𒹝
+𒹟
+𒹒
+𒹉
+𒹠
+𒷟
+𒷻
+𒦢
+𒸽
+𒬵
+𒫛
+𒸄
+𒮚
+𒯞
+𒯿
+𒨞
+𒧾
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1258 M318
+1259 M318‐a
+1260 M318‐a1
+1261 M318‐a2
+1262 M318‐a3
+1263 M318‐c
+1264 M318‐e
+1265 M318‐g
+1266 M318‐h
+1267 M318‐n
+1268 M319
+1269 M319‐a
+1270 M319‐c
+1271 M320
+1272 M320‐b
+1273 M320‐c
+1274 M320‐f
+CDLI Image
+Font Glyph
+Glyph Issue
+ 76
+𒯤
+𒢸
+𒷕
+𒷜
+𒷦
+𒤾
+𒢇
+𒠖
+𒴋
+𒱱
+𒮔
+𒩳
+𒩖
+𒬭
+𒨅
+𒦲
+𒨖
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1275 M320‐m
+1276 M320‐n
+1277 M321
+1278 M321‐b
+1279 M321‐c
+1280 M321‐d
+1281 M321‐f
+1282 M321‐fa
+1283 M321‐h
+1284 M321‐ha
+1285 M321‐hb
+1286 M321‐j
+1287 M323
+1288 M323‐1
+1289 M323‐a
+1290 M323‐c
+1291 M323‐g
+CDLI Image
+Font Glyph
+Glyph Issue
+ 77
+𒱉
+𒯨
+𒭶
+𒠭
+𒠥
+𒣕
+𒤫
+𒴫
+𒳔
+𒤤
+𒣌
+𒲂
+𒫏
+𒷩
+𒠛
+𒢆
+𒣀
+defective
+defective
+defective defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1292 M323‐i
+1293 M324
+1294 M324‐a
+1295 M324‐c
+1296 M324‐d
+1297 M324‐e
+1298 M324‐f
+1299 M325
+1300 M325‐a
+1301 M325‐d
+1302 M325‐e
+1303 M325‐g
+1304 M325‐h
+1305 M326‐a
+1306 M327
+1307 M327‐ag
+1308 M327‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ 78
+𒲖
+𒯦
+𒪅
+𒩋
+𒥱
+𒦒
+𒧲
+𒮐
+𒢶
+𒡥
+𒢊
+𒠐
+𒴂
+𒨻
+𒱍
+𒶍
+𒡍
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1309 M327
+1310 M327
+1311 M327
+1312 M327
+1313 M327
+1314 M327
+1315 M327
+1316 M327
+1317 M327
+CDLI Image
+Font Glyph
+Glyph Issue
+ 1318 M327‐n
+1319 M327‐p
+1320 M328‐b
+1321 M328‐c
+1322 M329
+1323 M330‐d
+1324 M332‐a
+1325 M332‐c
++ M44
++ M57
++ M59
++ M74‐a
++ M320
++ M342
++ M348
++ M365
++ M367
+𒠇
+𒣱
+𒱣
+𒭓
+𒣂
+𒩇
+𒰴
+𒬈
+𒬾
+𒳮
+𒢐
+𒭝
+𒭈
+𒦰
+𒴏
+𒲅
+𒳓
+79
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1326 M332‐d   𒵵
+1327 M332‐e   𒵯
+1328 M332‐f   𒴘
+1329 M332‐g   𒴤
+1330 M340   𒱜
+1331 M341‐q   𒩔
+1332 M342   𒳭
+1333 M342‐1   𒷭
+1334 M343   𒲻
+1335 M343‐d   𒩛
+1336 M343‐e   𒨒
+1337 M343‐h   𒭴
+1338 M343‐h   𒣢
+1339 M343‐h   𒠜
+1340 M344   𒶕
+1341 M344‐d   𒢘
+1342 M346   𒳻
+CDLI Image
+Font Glyph
+Glyph Issue
+ + M353
++ M354
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+80
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1343 M346‐1
+1344 M346‐a
+1345 M346‐a1
+1346 M346‐a2
+1347 M346‐a3
+1348 M346‐a4
+1349 M346‐b
+1350 M346‐c
+1351 M346‐d
+1352 M347
+1353 M348
+1354 M348‐b
+1355 M348 +M4
+1356 M348 + M346
+1357 M349
+1358 M351
+1359 M351 + 1N14
+CDLI Image
+Font Glyph
+Glyph Issue
+ 81
+𒷞
+𒤔
+𒹋
+𒹕
+𒹔
+𒹞
+𒢰
+𒣮
+𒠒
+𒵁
+𒡌
+𒱧
+𒩢
+𒰺
+𒠈
+𒵔
+𒯈
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1360 M351 + 3N1
+1361 M351‐c
+1362 M351‐d
+1363 M351‐m
+1364 M351 + M342
+1365 M351 + M380‐b
+1366 M352‐a
+1367 M352‐b
+1368 M352‐c
+1369 M352‐e
+1370 M352‐h
+1371 M352‐n
+1372 M352‐n2
+1373 M352‐o
+1374 M352‐r
+1375 M352‐s
+1376 M353
+CDLI Image
+Font Glyph
+Glyph Issue
+ 82
+𒵃
+𒲀
+𒴣
+𒣖
+𒨩
+𒨳
+𒬴
+𒫞
+𒬎
+𒯠
+𒧃
+𒩸
+𒸖
+𒪱
+𒯚
+𒮞
+𒵇
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1377 M354
+1378 M356
+1379 M356‐b
+1380 M357
+1381 M358
+1382 M358‐a
+1383 M358‐b
+1384 M358‐f
+1385 M359
+1386 M360‐b
+1387 M361‐a
+1388 M361‐b
+1389 M361‐c
+1390 M361‐d
+1391 M362
+1392 M362‐a
+1393 M362‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 83
+𒱢
+𒳯
+𒰨
+𒲵
+𒤋
+𒦍
+𒧫
+𒨯
+𒥉
+𒤓
+𒪆
+𒨣
+𒩈
+𒥯
+𒡡
+𒥇
+𒣳
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1394 M362‐gc
+1395 M362 + M5
+1396 M362 + M24‐c
+1397 M362 + M26‐h
+1398 M362 + M41‐e
+1399 M362 + M59
+1400 M362 + M59‐d
+1401 M362 + M99‐b
+1402 M362 + M123‐b
+1403 M362 + M158
+1404 M362 + M207‐n
+1405 M362 + M244
+1406 M362 + M247‐g
+1407 M362 + M312‐a
+1408 M362 + M317#
+1409 M362 + M365
+1410 M362 + M367
+CDLI Image
+Font Glyph
+Glyph Issue
+ 84
+𒯪
+𒳿
+𒲈
+𒠷
+𒳰
+𒯲
+𒬗
+𒯕
+𒫡
+𒴥
+𒣾
+𒩑
+𒫑
+𒠼
+𒰞
+𒵽
+𒴒
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1411 M362 + M383‐c
+1412 M362 + M384‐a
+1413 M363‐b
+1414 M365
+1415 M365‐a
+1416 M365‐c
+1417 M365‐d
+1418 M365‐g
+1419 M367
+1420 M367‐a
+1421 M367‐a1
+1422 M367‐a2
+1423 M367‐b
+1424 M367‐c
+1425 M367‐d
+1426 M367‐e
+1427 M367‐f
+CDLI Image
+Font Glyph
+Glyph Issue
+ 85
+𒯷
+𒳩
+𒪖
+𒥍
+𒦨
+𒦱
+𒪼
+𒩙
+𒢣
+𒧆
+𒷹
+𒷬
+𒥤
+𒦛
+𒨝
+𒩐
+𒪮
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1428 M367‐g
+1429 M367‐i
+1430 M368‐a
+1431 M368‐b
+1432 M368‐c
+1433 M369
+1434 M369‐a
+1435 M369‐b
+1436 M370
+1437 M370‐b
+1438 M370‐b
+1439 M370‐b
+1440 M370‐b
+1441 M370‐c
+1442 M370‐d
+CDLI Image
+Font Glyph
+Glyph Issue
+ 1443 M370‐da
+1444 M370‐k
++ M46
++ M72
++ M388
+𒩻
+𒭬
+𒴉
+𒵣
+𒶄
+𒲨
+𒯶
+𒮖
+𒤉
+𒯅
+𒴠
+𒣒
+𒧿
+𒮵
+𒫳
+𒥫
+𒨸
+86
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1445 M370‐m
+1446 M370 +M46+M370
+1447 M370 +M72+M370
+1448 M370 + M386 + M370
+1449 M370 + M388 + M370
+1450 M371
+1451 M371‐a
+1452 M371‐b
+1453 M371‐c
+1454 M371‐d
+1455 M371‐e
+1456 M372
+1457 M372‐a
+1458 M372‐m
+1459 M373
+1460 M373‐a
+1461 M374‐a
+CDLI Image
+Font Glyph
+Glyph Issue
+ 87
+𒦈
+𒰗
+𒮿
+𒡏
+𒲛
+𒥊
+𒵅
+𒶓
+𒵒
+𒳬
+𒲸
+𒣹
+𒮧
+𒧏
+𒢢
+𒵝
+𒫙
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1462 M374‐c
+1463 M375
+1464 M375‐a
+1465 M375‐b
+1466 M375‐d
+1467 M375‐e
+1468 M375‐i
+1469 M375‐n
+1470 M376
+1471 M376‐a
+1472 M376‐b
+1473 M377
+1474 M377‐e
+1475 M377‐e
+1476 M377‐e
+1477 M377‐g
+CDLI Image
+Font Glyph
+Glyph Issue
+ 1478 M377 + M320 + M377
++ M320 + M377‐e
++ M377‐e
+𒭫
+𒠍
+𒳊
+𒱷
+𒴍
+𒴯
+𒢂
+𒤚
+𒡞
+𒭵
+𒬜
+𒢑
+𒵭
+𒰡
+𒠱
+𒴧
+𒠝
+defective defective defective defective defective defective
+88
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1479 M377 + M377
+1480 M377 + M377‐g + M377
+1481 M377 + M383 + M377
+1482 M378
+1483 M379
+1484 M379‐c
+1485 M379‐d
+1486 M379‐e
+1487 M379‐g
+1488 M380
+1489 M380‐b
+1490 M380‐c
+1491 M381
+1492 M381‐e
+1493 M382
+1494 M382‐a
+1495 M382‐b
+CDLI Image
+Font Glyph
+Glyph Issue
+ 89
+𒦟
+𒣴
+𒲞
+𒶏
+𒵘
+𒤡
+𒡾
+𒡬
+𒠳
+𒲲
+𒠕
+𒡀
+𒳲
+𒪩
+𒲪
+𒡉
+𒢕
+defective defective defective
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1496 M382‐c
+1497 M382‐d
+1498 M382‐e
+1499 M382‐f
+1500 M382‐g
+1501 M383
+1502 M383‐a
+1503 M383‐b
+1504 M383‐c
+1505 M383‐d
+1506 M383‐e
+1507 M383‐e1
+1508 M383‐h
+1509 M383‐j
+1510 M383‐k
+1511 M383‐m
+1512 M383‐n
+CDLI Image
+Font Glyph
+Glyph Issue
+ 90
+𒡟
+𒥋
+𒤊
+𒢡
+𒣸
+𒱕
+𒧡
+𒦅
+𒥽
+𒨽
+𒨲
+𒸆
+𒭘
+𒫬
+𒫶
+𒯀
+𒰟
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1513 M384
+1514 M384‐a
+1515 M384‐ab
+1516 M384‐b
+1517 M384‐c
+1518 M384‐d
+1519 M384‐d1
+1520 M384‐d2
+1521 M384‐e
+1522 M384‐f
+1523 M384‐h
+1524 M384‐i
+1525 M385
+1526 M385‐a
+1527 M385‐c
+1528 M385‐f
+1529 M386
+CDLI Image
+Font Glyph
+Glyph Issue
+ 91
+𒵉
+𒣚
+𒢱
+𒤱
+𒤥
+𒡷
+𒸼
+𒸶
+𒡳
+𒠧
+𒴢
+𒴝
+𒳵
+𒪾
+𒨏
+𒦵
+𒵌
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1530 M386‐a
+1531 M386‐d
+1532 M386‐da
+1533 M386 + M111‐j
+1534 M386‐q
+1535 M387
+1536 M387‐a
+1537 M387‐b
+1538 M387‐c
+1539 M387‐ca
+1540 M387‐ca + M340 + M387‐ca
+1541 M387‐ee
+1542 M387‐ee1
+1543 M387‐ef
+1544 M387‐ef1
+1545 M387‐eg
+1546 M387‐eh
+CDLI Image
+Font Glyph
+Glyph Issue
+ 92
+𒤗
+𒠟
+𒮭
+𒫻
+𒢅
+𒶚
+𒨚
+𒩶
+𒪳
+𒦶
+𒧞
+𒥌
+𒷡
+𒣷
+𒹚
+𒢤
+𒱛
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1547 M387‐fa
+1548 M387‐h
+1549 M387‐ha
+1550 M387‐hb
+1551 M387‐i
+1552 M387‐j
+1553 M387‐l
+1554 M387‐l1
+1555 M387‐o
+1556 M388
+1557 M388‐c
+1558 M390
+1559 M390 + 1N14
+1560 M391
+1561 M393‐a
+1562 M393‐b
+1563 M393‐e
+CDLI Image
+Font Glyph
+Glyph Issue
+ 93
+𒵕
+𒮟
+𒤀
+𒥔
+𒯙
+𒰿
+𒭰
+𒸮
+𒬓
+𒢛
+𒲟
+𒵊
+𒣝
+𒳴
+𒱩
+𒲽
+𒶆
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1564 M393‐f
+1565 M393‐fa
+1566 M401
+1567 M402
+1568 M410
+1569 M411
+1570 M412
+1571 M417‐d
+1572 M417‐e
+1573 M417‐f
+1574 M417‐g
+1575 M417‐h
+1576 M418‐a
+1577 M418‐b
+1578 M418‐c
+1579 M419
+1580 M419‐a
+CDLI Image
+Font Glyph
+Glyph Issue
+ 94
+𒴷
+𒯥
+𒢦
+𒤈
+𒡠
+𒢔
+𒡈
+𒥕
+𒤂
+𒢞
+𒤁
+𒲭
+𒰢
+𒮽
+𒮻
+𒲳
+𒵀
+defective defective defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1581 M419‐b
+1582 M420
+1583 M421
+1584 M424
+1585 M431
+1586 M432
+1587 M433
+1588 M438
+1589 M441
+1590 M444
+1591 M445
+1592 M446
+1593 M447
+1594 M447‐b
+1595 M447‐c
+1596 M447‐d
+1597 M448
+CDLI Image
+Font Glyph
+Glyph Issue
+ 95
+𒶎
+𒳼
+𒵄
+𒳫
+𒲷
+𒱡
+𒲥
+𒡛
+𒱎
+𒬚
+𒫎
+𒬮
+𒭸
+𒴨
+𒴖
+𒲒
+𒪻
+defective
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1598 M449
+1599 M450
+1600 M452
+1601 M453
+1602 M454
+1603 M455
+1604 M458
+1605 M461
+1606 M461‐b
+1607 M461‐q
+1608 M462
+1609 M465
+1610 M466
+1611 M467
+1612 M468
+1613 M469
+1614 M470
+CDLI Image
+Font Glyph
+Glyph Issue
+ 96
+𒩮
+𒬙
+𒬫
+𒭺
+𒯳
+𒱊
+𒥙
+𒩩
+𒵸
+𒱼
+𒨐
+𒦤
+𒨂
+𒦸
+𒯴
+𒱆
+𒥠
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1615 M471
+1616 M471‐b
+1617 M479
+1618 M480
+1619 M482
+1620 M483
+1621 M483‐b
+1622 M483‐c
+1623 M486
+1624 M489
+1625 M490
+1626 M491
+1627 M492
+1628 M495
+1629 M496
+1630 M497
+1631 M500
+CDLI Image
+Font Glyph
+Glyph Issue
+ 97
+𒦣
+𒨘
+𒫋
+𒮉
+𒱓
+𒯭
+𒳃
+𒳣
+𒫆
+𒨋
+𒮂
+𒬥
+𒫊
+𒯬
+𒱒
+𒯯
+𒪙
+
+Proto-Elamite: Comparison of Sign Images and Glyphs
+Anshuman Pandey
+ # Sign
+1632 M501
+1633 M503
+1634 M504
+1635 M505
+1636 M506
+CDLI Image
+Font Glyph
+Glyph Issue
+ 𒪎 𒩁 𒥿 𒦄 𒧣

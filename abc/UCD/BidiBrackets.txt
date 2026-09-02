@@ -1,0 +1,193 @@
+# BidiBrackets-16.0.0.txt
+# Date: 2024-02-02
+# © 2024 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+# For terms of use and license, see https://www.unicode.org/terms_of_use.html
+#
+# Unicode Character Database
+# For documentation, see https://www.unicode.org/reports/tr44/
+#
+# Bidi_Paired_Bracket and Bidi_Paired_Bracket_Type Properties
+#
+# This file is a normative contributory data file in the Unicode
+# Character Database.
+#
+# Bidi_Paired_Bracket is a normative property
+# which establishes a mapping between characters that are treated as
+# bracket pairs by the Unicode Bidirectional Algorithm.
+#
+# Bidi_Paired_Bracket_Type is a normative property
+# which classifies characters into opening and closing paired brackets
+# for the purposes of the Unicode Bidirectional Algorithm.
+#
+# This file lists the set of code points with Bidi_Paired_Bracket_Type
+# property values Open and Close. The set is derived from the character
+# properties General_Category (gc), Bidi_Class (bc), Bidi_Mirrored (Bidi_M),
+# and Bidi_Mirroring_Glyph (bmg), as follows: two characters, A and B,
+# form a bracket pair if A has gc=Ps and B has gc=Pe, both have bc=ON and
+# Bidi_M=Y, and bmg of A is B. Bidi_Paired_Bracket (bpb) maps A to B and
+# vice versa, and their Bidi_Paired_Bracket_Type (bpt) property values are
+# Open (o) and Close (c), respectively.
+#
+# The brackets with ticks U+298D LEFT SQUARE BRACKET WITH TICK IN TOP CORNER
+# through U+2990 RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER are paired the
+# same way their glyphs form mirror pairs, according to their bmg property
+# values. They are not paired on the basis of a diagonal or antidiagonal
+# matching of the corner ticks inferred from code point order.
+#
+# For legacy reasons, the characters U+FD3E ORNATE LEFT PARENTHESIS and
+# U+FD3F ORNATE RIGHT PARENTHESIS do not mirror in bidirectional display
+# and therefore do not form a bracket pair.
+#
+# The Unicode property value stability policy guarantees that characters
+# which have bpt=o or bpt=c also have bc=ON and Bidi_M=Y. As a result, an
+# implementation can optimize the lookup of the Bidi_Paired_Bracket_Type
+# property values Open and Close by restricting the processing to characters
+# with bc=ON.
+#
+# The format of the file is three fields separated by a semicolon.
+# Field 0: Unicode code point value, represented as a hexadecimal value
+# Field 1: Bidi_Paired_Bracket property value, a code point value or <none>
+# Field 2: Bidi_Paired_Bracket_Type property value, one of the following:
+#   o Open
+#   c Close
+#   n None
+# The names of the characters in field 0 are given in comments at the end
+# of each line.
+#
+# For information on bidirectional paired brackets, see UAX #9: Unicode
+# Bidirectional Algorithm, at https://www.unicode.org/reports/tr9/
+#
+# This file was originally created by Andrew Glass and Laurentiu Iancu
+# for Unicode 6.3.
+
+(	); o # LEFT PARENTHESIS
+)	(; c # RIGHT PARENTHESIS
+[	]; o # LEFT SQUARE BRACKET
+]	[; c # RIGHT SQUARE BRACKET
+{	}; o # LEFT CURLY BRACKET
+}	{; c # RIGHT CURLY BRACKET
+༺	༻; o # TIBETAN MARK GUG RTAGS GYON
+༻	༺; c # TIBETAN MARK GUG RTAGS GYAS
+༼	༽; o # TIBETAN MARK ANG KHANG GYON
+༽	༼; c # TIBETAN MARK ANG KHANG GYAS
+᚛	᚜; o # OGHAM FEATHER MARK
+᚜	᚛; c # OGHAM REVERSED FEATHER MARK
+⁅	⁆; o # LEFT SQUARE BRACKET WITH QUILL
+⁆	⁅; c # RIGHT SQUARE BRACKET WITH QUILL
+⁽	⁾; o # SUPERSCRIPT LEFT PARENTHESIS
+⁾	⁽; c # SUPERSCRIPT RIGHT PARENTHESIS
+₍	₎; o # SUBSCRIPT LEFT PARENTHESIS
+₎	₍; c # SUBSCRIPT RIGHT PARENTHESIS
+⌈	⌉; o # LEFT CEILING
+⌉	⌈; c # RIGHT CEILING
+⌊	⌋; o # LEFT FLOOR
+⌋	⌊; c # RIGHT FLOOR
+〈	〉; o # LEFT-POINTING ANGLE BRACKET
+〉	〈; c # RIGHT-POINTING ANGLE BRACKET
+❨	❩; o # MEDIUM LEFT PARENTHESIS ORNAMENT
+❩	❨; c # MEDIUM RIGHT PARENTHESIS ORNAMENT
+❪	❫; o # MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT
+❫	❪; c # MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT
+❬	❭; o # MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT
+❭	❬; c # MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT
+❮	❯; o # HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT
+❯	❮; c # HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT
+❰	❱; o # HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT
+❱	❰; c # HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT
+❲	❳; o # LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT
+❳	❲; c # LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT
+❴	❵; o # MEDIUM LEFT CURLY BRACKET ORNAMENT
+❵	❴; c # MEDIUM RIGHT CURLY BRACKET ORNAMENT
+⟅	⟆; o # LEFT S-SHAPED BAG DELIMITER
+⟆	⟅; c # RIGHT S-SHAPED BAG DELIMITER
+⟦	⟧; o # MATHEMATICAL LEFT WHITE SQUARE BRACKET
+⟧	⟦; c # MATHEMATICAL RIGHT WHITE SQUARE BRACKET
+⟨	⟩; o # MATHEMATICAL LEFT ANGLE BRACKET
+⟩	⟨; c # MATHEMATICAL RIGHT ANGLE BRACKET
+⟪	⟫; o # MATHEMATICAL LEFT DOUBLE ANGLE BRACKET
+⟫	⟪; c # MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET
+⟬	⟭; o # MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET
+⟭	⟬; c # MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
+⟮	⟯; o # MATHEMATICAL LEFT FLATTENED PARENTHESIS
+⟯	⟮; c # MATHEMATICAL RIGHT FLATTENED PARENTHESIS
+⦃	⦄; o # LEFT WHITE CURLY BRACKET
+⦄	⦃; c # RIGHT WHITE CURLY BRACKET
+⦅	⦆; o # LEFT WHITE PARENTHESIS
+⦆	⦅; c # RIGHT WHITE PARENTHESIS
+⦇	⦈; o # Z NOTATION LEFT IMAGE BRACKET
+⦈	⦇; c # Z NOTATION RIGHT IMAGE BRACKET
+⦉	⦊; o # Z NOTATION LEFT BINDING BRACKET
+⦊	⦉; c # Z NOTATION RIGHT BINDING BRACKET
+⦋	⦌; o # LEFT SQUARE BRACKET WITH UNDERBAR
+⦌	⦋; c # RIGHT SQUARE BRACKET WITH UNDERBAR
+⦍	⦐; o # LEFT SQUARE BRACKET WITH TICK IN TOP CORNER
+⦎	⦏; c # RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER
+⦏	⦎; o # LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER
+⦐	⦍; c # RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER
+⦑	⦒; o # LEFT ANGLE BRACKET WITH DOT
+⦒	⦑; c # RIGHT ANGLE BRACKET WITH DOT
+⦓	⦔; o # LEFT ARC LESS-THAN BRACKET
+⦔	⦓; c # RIGHT ARC GREATER-THAN BRACKET
+⦕	⦖; o # DOUBLE LEFT ARC GREATER-THAN BRACKET
+⦖	⦕; c # DOUBLE RIGHT ARC LESS-THAN BRACKET
+⦗	⦘; o # LEFT BLACK TORTOISE SHELL BRACKET
+⦘	⦗; c # RIGHT BLACK TORTOISE SHELL BRACKET
+⧘	⧙; o # LEFT WIGGLY FENCE
+⧙	⧘; c # RIGHT WIGGLY FENCE
+⧚	⧛; o # LEFT DOUBLE WIGGLY FENCE
+⧛	⧚; c # RIGHT DOUBLE WIGGLY FENCE
+⧼	⧽; o # LEFT-POINTING CURVED ANGLE BRACKET
+⧽	⧼; c # RIGHT-POINTING CURVED ANGLE BRACKET
+⸢	⸣; o # TOP LEFT HALF BRACKET
+⸣	⸢; c # TOP RIGHT HALF BRACKET
+⸤	⸥; o # BOTTOM LEFT HALF BRACKET
+⸥	⸤; c # BOTTOM RIGHT HALF BRACKET
+⸦	⸧; o # LEFT SIDEWAYS U BRACKET
+⸧	⸦; c # RIGHT SIDEWAYS U BRACKET
+⸨	⸩; o # LEFT DOUBLE PARENTHESIS
+⸩	⸨; c # RIGHT DOUBLE PARENTHESIS
+⹕	⹖; o # LEFT SQUARE BRACKET WITH STROKE
+⹖	⹕; c # RIGHT SQUARE BRACKET WITH STROKE
+⹗	⹘; o # LEFT SQUARE BRACKET WITH DOUBLE STROKE
+⹘	⹗; c # RIGHT SQUARE BRACKET WITH DOUBLE STROKE
+⹙	⹚; o # TOP HALF LEFT PARENTHESIS
+⹚	⹙; c # TOP HALF RIGHT PARENTHESIS
+⹛	⹜; o # BOTTOM HALF LEFT PARENTHESIS
+⹜	⹛; c # BOTTOM HALF RIGHT PARENTHESIS
+〈	〉; o # LEFT ANGLE BRACKET
+〉	〈; c # RIGHT ANGLE BRACKET
+《	》; o # LEFT DOUBLE ANGLE BRACKET
+》	《; c # RIGHT DOUBLE ANGLE BRACKET
+「	」; o # LEFT CORNER BRACKET
+」	「; c # RIGHT CORNER BRACKET
+『	』; o # LEFT WHITE CORNER BRACKET
+』	『; c # RIGHT WHITE CORNER BRACKET
+【	】; o # LEFT BLACK LENTICULAR BRACKET
+】	【; c # RIGHT BLACK LENTICULAR BRACKET
+〔	〕; o # LEFT TORTOISE SHELL BRACKET
+〕	〔; c # RIGHT TORTOISE SHELL BRACKET
+〖	〗; o # LEFT WHITE LENTICULAR BRACKET
+〗	〖; c # RIGHT WHITE LENTICULAR BRACKET
+〘	〙; o # LEFT WHITE TORTOISE SHELL BRACKET
+〙	〘; c # RIGHT WHITE TORTOISE SHELL BRACKET
+〚	〛; o # LEFT WHITE SQUARE BRACKET
+〛	〚; c # RIGHT WHITE SQUARE BRACKET
+﹙	﹚; o # SMALL LEFT PARENTHESIS
+﹚	﹙; c # SMALL RIGHT PARENTHESIS
+﹛	﹜; o # SMALL LEFT CURLY BRACKET
+﹜	﹛; c # SMALL RIGHT CURLY BRACKET
+﹝	﹞; o # SMALL LEFT TORTOISE SHELL BRACKET
+﹞	﹝; c # SMALL RIGHT TORTOISE SHELL BRACKET
+（	）; o # FULLWIDTH LEFT PARENTHESIS
+）	（; c # FULLWIDTH RIGHT PARENTHESIS
+［	］; o # FULLWIDTH LEFT SQUARE BRACKET
+］	［; c # FULLWIDTH RIGHT SQUARE BRACKET
+｛	｝; o # FULLWIDTH LEFT CURLY BRACKET
+｝	｛; c # FULLWIDTH RIGHT CURLY BRACKET
+｟	｠; o # FULLWIDTH LEFT WHITE PARENTHESIS
+｠	｟; c # FULLWIDTH RIGHT WHITE PARENTHESIS
+｢	｣; o # HALFWIDTH LEFT CORNER BRACKET
+｣	｢; c # HALFWIDTH RIGHT CORNER BRACKET
+
+# EOF
