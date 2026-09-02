@@ -1,0 +1,108 @@
+name	glotto_code	iso_code	family	subfamily	latitude	longitude
+Finnish	finn1318	fin	Uralic	Finnic	61	24.45
+North Karelian	kare1335	krl	Uralic	Finnic	65.1691	30.8655
+Olonets Karelian	livv1243	olo	Uralic	Finnic	61	33
+Veps	veps1250	vep	Uralic	Finnic	60.3353	34.7865
+Estonian	esto1258	ekk	Uralic	Finnic	59.25	24.75
+Livonian	livv1244	liv	Uralic	Finnic	57.566	22.0262
+Southern Sami	sout2674	sma	Uralic	Saami	64.25	12.6
+Lule Sami	lule1254	smj	Uralic	Saami	67.2759	17.8057
+Northern Sami	nort2671	sme	Uralic	Saami	68.725	22.1113
+Inari Sami	inar1241	smn	Uralic	Saami	69.4229	27.8658
+Skolt Sami	skol1241	sms	Uralic	Saami	68.8326	29.7204
+Kildin Sami	kild1236	sjd	Uralic	Saami	68.2158	35.8348
+Hill Mari	west2392	mrj	Uralic	Mari	56.33	46.33
+Meadow Mari	east2328	mhr	Uralic	Mari	57	49.5
+Moksha	moks1248	mdf	Uralic	Mordvin	54.1855	42.6728
+Erzya	erzy1239	myv	Uralic	Mordvin	53	45.5
+Udmurt	udmu1245	udm	Uralic	Permian	56.12921	52.63548
+Komi-Permyak	komi1269	koi	Uralic	Permian	59.6602	54.7959
+Komi-Zyrian	komi1268	kpv	Uralic	Permian	64.0527	54.946
+Hungarian	hung1274	hun	Uralic	Hungarian	46.9068585714	19.6555271429
+Northern Khanty	khan1273	kca	Uralic	Khantyic	62.4308	66.1218
+Northern Mansi	mans1258	mns	Uralic	Mansic	64.4118	61.344
+Northern Selkup	selk1253	sel	Uralic	Samoyedic	59.9409	82.3004
+Tundra Nenets	nene1249	yrk	Uralic	Samoyedic	66.1775	71.0234
+Forest Enets	fore1265	enf	Uralic	Samoyedic	69.9829	88.2121
+Nganasan	ngan1291	nio	Uralic	Samoyedic	73.1354	86.2106
+Bengali	beng1280	ben	Indo-European	Indo-Aryan	24	90
+Hindi	hind1269	hin	Indo-European	Indo-Aryan	27.2	78
+Northern Pashto	nort2646	pbu	Indo-European	Iranian	32.1	67.2
+Western Farsi	west2369	pes	Indo-European	Iranian	28.6593	55.1586
+Northern Kurdish	nort2641	kmr	Indo-European	Iranian	37	43
+Ossetian	osse1243	oss	Indo-European	Iranian	43.18	44.23
+Armenian	nucl1235	hye	Indo-European	Armenic	40	45
+Modern Greek	mode1248	ell	Indo-European	Graeco-Phrygian	38	23.75
+Standard Albanian	alba1267	sqi	Indo-European	Albanian	41.33	19.85
+Bulgarian	bulg1262	bul	Indo-European	Balto-Slavic	42.7	23.8
+Croatian	croa1245	hrv	Indo-European	Balto-Slavic	45.2006	16.826
+Slovene	slov1268	slv	Indo-European	Balto-Slavic	46.2543	14.7766
+Slovak	slov1269	slk	Indo-European	Balto-Slavic	48.545705	18.78479
+Czech	czec1258	ces	Indo-European	Balto-Slavic	49.873398	15.10437
+Polish	poli1260	pol	Indo-European	Balto-Slavic	51.8439	18.6255
+Ukrainian	ukra1253	ukr	Indo-European	Balto-Slavic	50.25	28.65
+Belarusian	bela1254	bel	Indo-European	Balto-Slavic	53.2307	25.6038
+Russian	russ1263	rus	Indo-European	Balto-Slavic	57.6	39.8
+Lithuanian	lith1251	lit	Indo-European	Balto-Slavic	55.1429	23.9601
+Latvian	latv1249	lav	Indo-European	Balto-Slavic	56.826108	24.309118
+Icelandic	icel1247	isl	Indo-European	Germanic	63.4837	-19.0212
+Norwegian (Bokmål)	norw1258	nor	Indo-European	Germanic	59.92	10.71
+Swedish	swed1254	swe	Indo-European	Germanic	59.800634	17.389526
+Danish	dani1285	dan	Indo-European	Germanic	55.6	12.5
+German	stan1295	deu	Indo-European	Germanic	52.27	10.5
+Dutch	dutc1256	nld	Indo-European	Germanic	52	5
+English	stan1293	eng	Indo-European	Germanic	53	-1
+Irish	iris1253	gle	Indo-European	Celtic	53.2186	-7.61509
+Welsh	wels1247	cym	Indo-European	Celtic	52	-4
+Breton	bret1244	bre	Indo-European	Celtic	48.2452	-3.78934
+Latin	lati1261	lat	Indo-European	Italic	41.9026	12.4502
+French	stan1290	fra	Indo-European	Italic	48	2
+Catalan	stan1289	cat	Indo-European	Italic	41.453	1.569
+Spanish	stan1288	spa	Indo-European	Italic	42.25	-3.7
+Portuguese	port1283	por	Indo-European	Italic	39.91	-8.1
+Italian	ital1282	ita	Indo-European	Italic	43.0464	12.6489
+Romanian	roma1327	ron	Indo-European	Italic	46.3913	24.2256
+Turkish	nucl1301	tur	Turkic	West Oghuz	39.8667	32.8667
+North Azerbaijani	nort2697	azj	Turkic	West Oghuz	40.4	49.6
+Northern Uzbek	nort2690	uzn	Turkic	Uzbek	39.65	67
+Kazakh	kaza1248	kaz	Turkic	Kipchak	49.8	73.15
+Bashkir	bash1264	bak	Turkic	Kipchak	53.5967	56.5594
+Tatar	tata1255	tat	Turkic	Kipchak	55	50
+Sakha	yaku1245	sah	Turkic	North Siberian Turkic	62	130
+Chuvash	chuv1255	chv	Turkic	Bolgar	55.487	47.163
+Khalkha Mongolian	halh1238	khk	Mongolic	Eastern Mongolic	48.324	106.289
+Buryat	buri1258	bua	Mongolic	Eastern Mongolic	51.83	107.6
+Kalmyk	kalm1243	xal	Mongolic	Eastern Mongolic	46.566667	45.316667
+Evenki	even1259	evn	Tungusic	Northern Tungusic	65.75	105.3
+Manchu	manc1252	mnc	Tungusic	Manchu-Jurchen	47.3122	126.557
+Nanai	nana1257	gld	Tungusic	Central Tungusic	48.4343	134.797
+Ket	kett1243	ket	Yeniseian	Northern Yeniseian	63.7551	87.5466
+Northern Yukaghir	nort2745	ykg	Yukaghir	Northern Yukaghir	69	155
+Southern Yukaghir	sout2750	yux	Yukaghir	Kolymic	65.75	150.83
+Itelmen	itel1242	itl	Chukotko-Kamchatkan	Itelmen	56.7798	156.906
+Chukchi	chuk1273	ckt	Chukotko-Kamchatkan	Chukotian	68.6436	170.045
+Nivkh	gily1242	niv	Nivkh	Nivkh	52.59	140.681
+Hokkaido Ainu	ainu1240	ain	Ainu	Hokkaido-Kuril Ainu	43.633654	142.46167
+Korean	kore1280	kor	Koreanic	Korean	37.5	128
+Japanese	nucl1643	jpn	Japonic	Japanesic	35	135
+Aleut	aleu1260	ale	Eskimo-Aleut	Aleut	52.1228	-174.29
+Central Siberian Yupik	cent2128	ess	Eskimo-Aleut	Eskimo	63.4308	-170.272
+Kalaallisut	kala1399	kal	Eskimo-Aleut	Eskimo	69.3761	-52.864
+Kannada	nucl1305	kan	Dravidian	South Dravidian	13.5878	76.1198
+Malayalam	mala1464	mal	Dravidian	South Dravidian	9.59208	76.7651
+Tamil	tami1289	tam	Dravidian	South Dravidian	10.520219	78.825989
+Telugu	telu1262	tel	Dravidian	South Dravidian	16.4529	78.7024
+Burushaski	buru1296	bsk	Burushaski	Burushaski	36.2161	74.8236
+Georgian	nucl1302	kat	Kartvelian	Georgian-Zan	41.850397	43.78613
+Basque	basq1248	eus	Basque	Basque	43.2787	-1.31622
+Abkhaz	abkh1244	abk	Abkhaz-Adyge	Abkhaz-Abaza	43.056218	41.159115
+Adyghe	adyg1241	ady	Abkhaz-Adyge	Circassian	44.65	40
+Avar	avar1256	ava	Nakh-Daghestanian	Daghestanian	41.7047	46.558
+Tsez	dido1241	ddo	Nakh-Daghestanian	Daghestanian	42.2646	45.8096
+Lak	lakk1252	lbe	Nakh-Daghestanian	Daghestanian	42.1328	47.0809
+Lezgian	lezg1247	lez	Nakh-Daghestanian	Daghestanian	41.5157	47.8951
+Dargwa	darg1241	dar	Nakh-Daghestanian	Daghestanian	42.4257	47.4388
+Chechen	chec1245	che	Nakh-Daghestanian	Nakh	43.5	45.5
+Standard Arabic	stan1318	arb	Afro-Asiatic	Semitic	27.9625	43.8525
+Modern Hebrew	hebr1245	heb	Afro-Asiatic	Semitic	31.1056	35.0179
+Mandarin Chinese	mand1415	cmn	Sino-Tibetan	Sinitic	40.0209	116.228
