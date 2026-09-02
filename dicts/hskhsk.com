@@ -1,0 +1,1 @@
+/opt/other/hskhsk.com

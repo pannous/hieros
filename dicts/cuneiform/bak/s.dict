@@ -1,0 +1,974 @@
+npm install -g jsdom canvas jsdom-global
+Missing require: request
+>>>  sa2  
+ sa  [ ADVICE ]  𒁲  sa2  "advice, counsel; resolution, intelligence" Akk.  milku 
+>>>  sa ;  gi sa  
+ sa  [ BUNDLE ]  𒊓;𒄀𒊓  sa ;  gi sa  "reed-bundle" Akk.  kiššu 
+>>>  sa  
+ sa  [ ENTRY ]  𒊓  sa  "lexical entry" 
+>>>  sa2 ;  sa x (ZAG) ;  se3  
+ sa  [ EQUAL ]  𒁲;𒍠(𒍠);𒋧  sa2 ;  sa x (ZAG) ;  se3  "to equal, compare, compete, be equal to, rival" Akk.  kašādu ;  mašālu ;  šanānu 
+>>>  sa9  
+ sa  [ HALF ]  𒈦  sa9  "half; middle, center; to reach the middle" Akk.  mišlu 
+>>>  sa  
+ sa  [ JEWELRY ]  𒊓  sa  "jewelry" Akk.  šukuttu 
+>>>  sa-sa  
+ sa  [ MOVE ]  𒊓𒊓  sa-sa  "to move about" 
+>>>  sa  
+ sa  [ NET ]  𒊓  sa  "net" Akk.  šētu 
+>>>  sa10  
+ sa  [ PAY FOR ]  𒉚  sa10  "to pay for, buy; to be paid for, sell" Akk.  šâmu 
+>>>  sa  
+ sa  [ ROAST ]  𒊓  sa  "to roast; to parch" Akk.  qalû 
+>>>  sa  
+ sa  [ SINEW ]  𒊓  sa  "gut; sinew, tendon; string (of a bow, musical instrument); catgut string" Akk.  dāmu ;  erru ;  matnu ;  pitnu 
+>>>  sa-sa  
+ sa  [ STING ]  𒊓𒊓  sa-sa  "to sting" 
+>>>  sa2  dug4  
+ sa dug  [ ARRIVE ]  𒁲𒅗  sa2  dug4  "to arrive; to cause to arrive (regularly)" Akk.  kašādu 
+>>>  sa gi4  
+ sa gi  [ PREPARE ]  𒊓𒄄  sa gi4  "to prepare" Akk.  šutērusû 
+>>>  sa la2  
+ sa la  [ BIND ]  𒊓𒇲  sa la2  "to tie up" Akk.  ? 
+>>>  sa la2  
+ sa la  [ STRETCH A NET ]  𒊓𒇲  sa la2  "to stretch a net out" Akk.  ? 
+>>>  sa la2  
+ sa la  [ SWEEP ]  𒊓𒇲  sa la2  "to sweep" Akk.  ? 
+>>>  sa2  sig10  
+ sa sig  [ PLOT ]  𒁲𒋧  sa2  sig10  "to plot" Akk.  ? 
+>>>  sa7 -a  
+ sa'a  [ PROFESSION ]  IGI@g𒀀  sa7 -a  "a profession" 
+>>>  kuš sa-AB  
+ saAB  [ NET ]  𒋢𒊓𒀊  kuš sa-AB  "a net" 
+>>>  ĝeš sa-ad  
+ sa'ad  [ TRAP? ]  𒄑𒊓𒀜  ĝeš sa-ad  "a trap?" Akk.  nassapu 
+>>>  sa-ad-gal  
+ sa'adgal  [ DISEASE ]  𒊓𒀜𒃲  sa-ad-gal  "a disease" 
+>>>  sa-ad-nim  
+ sa'adnim  [ DISEASE ]  𒊓𒀜𒉏  sa-ad-nim  "a disease" 
+>>>  dug sab ;  sa2 -ab  
+ sab  [ JAR ]  𒂁𒉺𒅁;𒁲𒀊  dug sab ;  sa2 -ab  "an oil jar" Akk.  šappu 
+>>>  sabad2 ;  sabad3 ;  sad2  
+ sabad  [ BATTLE ]  |GA₂×BAD|;|GA₂×IGI@g|;|GA₂×U|  sabad2 ;  sabad3 ;  sad2  "battle" Akk.  qablu 
+>>>  sa-par4 ;  sa-par3 ;  sa-bar  
+ sabar  [ NET ]  𒊓𒉌 𒄑;𒊓𒁖;𒊓𒁇  sa-par4 ;  sa-par3 ;  sa-bar  "a net" Akk.  sapāru 
+>>>  sa-bar-sud  
+ sabarsud  [ NOTATION ]  𒊓𒁇𒋤  sa-bar-sud  "composition division notation" 
+>>>  sa3 -bi2 -tum  
+ sabitum  [ BARKEEPER ]  𒐼𒉈𒌈  sa3 -bi2 -tum  "female brewer, barkeeper" Akk.  sābitu 
+>>>  ĝeš sa-bi2 -tum ;  sa-bi2 -tum  
+ sabitum  [ INSTRUMENT ]  𒄑𒊓𒉈𒌈;𒊓𒉈𒌈  ĝeš sa-bi2 -tum ;  sa-bi2 -tum  "a musical instrument" 
+>>>  sa5 -bu8  
+ sabu  [ GAIN ]  |SI.A|𒁔  sa5 -bu8  "gain" 
+>>>  sad2 ;  sad3  
+ sad  [ UNMNG ]  |GA₂×U|;|GA₂×BAD|  sad2 ;  sad3  "" 
+>>>  sa-dah  
+ sadah  [ ILLNESS ]  𒊓𒈭  sa-dah  "illness" Akk.  šalattinu 
+>>>  sa-du3  
+ sadu  [ COMPANION ]  𒊓𒆕  sa-du3  "companion" Akk.  tappû 
+>>>  sa-du3  
+ sadu  [ FLASK ]  𒊓𒆕  sa-du3  "a flask" Akk.  šikinnu 
+>>>  sa-du3  
+ sadu  [ NET ]  𒊓𒆕  sa-du3  "a net" Akk.  šēšû 
+>>>  sa-du3 -a  
+ sadua  [ NET ]  𒊓𒆕𒀀  sa-du3 -a  "net" Akk.  šaharru 
+>>>  sa2 -dug4 ;  sa2 -di  
+ sadug  [ OFFERINGS ]  𒁲𒅗;𒁲𒁲  sa2 -dug4 ;  sa2 -di  "regular temple offerings; a unit of liquid capacity" Akk.  sattukku 
+>>>  sa-dur2  
+ sadur  [ BOTTOM ]  𒊓𒂉  sa-dur2  "bottom" Akk.  šuburru 
+>>>  ĝeš sa-eš ;  sa-eš ;  ĝeš sa-eš5  
+ sa'eš  [ INSTRUMENT ]  𒄑𒊓𒌍;𒊓𒌍;𒄑𒊓𒐈  ĝeš sa-eš ;  sa-eš ;  ĝeš sa-eš5  "a type of musical instrument" 
+>>>  sag3 ;  sag2  
+ sag  [ BEAT ]  𒉺;|PA.GAN|  sag3 ;  sag2  "to strike, beat; weave" Akk.  mahāşu 
+>>>  sag8 ;  sag9 ;  sag10 ;  šeg10 ;  sag12  
+ sag  [ GOOD ]  𒆗;𒊷;𒅆;𒆂;𒅊  sag8 ;  sag9 ;  sag10 ;  šeg10 ;  sag12  "(to be) good, sweet, beautiful; goodness, good (thing)" Akk.  banû ;  damāqu ;  dumqu ;  ţābu 
+>>>  sag10 ;  sag8  
+ sag  [ RARE ]  𒅆;𒆗  sag10 ;  sag8  "(to be) high quality; (to be) rare, precious" Akk.  aqru ;  aqāru 
+>>>  sag2 ;  sag3 ;  sag7  
+ sag  [ SCATTER ]  |PA.GAN|;𒉺;𒃶  sag2 ;  sag3 ;  sag7  "to throw (down); to scatter, disperse; to kill, to beat" Akk.  dâku ;  nasāku ;  nêru ;  sapāhu 
+>>>  sag rig7  
+ sag rig  [ BESTOW ]  𒊕𒉺𒄸𒁺  sag rig7  "to bestow" Akk.  šarāku 
+>>>  |SAG×TAG4 |  
+ SAG.TAG  [ TEAR OUT ]  𒊕·𒋺  |SAG×TAG4 |  "tear out" Akk.  šarāţu 
+>>>  sa-ga ;  saga11 ;  sig11  
+ saga  [ PRESS? ]  𒊓𒂵;𒆥;|PA.GAN|  sa-ga ;  saga11 ;  sig11  "to press?" 
+>>>  saga11 ;  saga x (|ŠE.KIN|) ;  saga11 ga ;  saga x (|ŠE.KIN.KIN|) ;  saga x (|ŠE.ŠE.KIN|)  
+ saga  [ REAP ]  𒆥;|ŠE.KIN|(𒊺𒆥);𒆥𒂵;|ŠE.KIN|(𒊺𒆥𒆥);|ŠE.KIN|(𒊺𒊺𒆥)  saga11 ;  saga x (|ŠE.KIN|) ;  saga11 ga ;  saga x (|ŠE.KIN.KIN|) ;  saga x (|ŠE.ŠE.KIN|)  "to reap" 
+>>>  tug2 sa-ga  
+ saga  [ SKIRT ]  𒌆𒊓𒂵  tug2 sa-ga  "skirt, kilt" Akk.  sāgu 
+>>>  sa-gal  
+ sagal  [ BODY-PART ]  𒊓𒃲  sa-gal  "body-part" Akk.  sagallu 
+>>>  sa-gaz ;  sag-gaz  
+ sagaz  [ ROBBER ]  𒊓𒄤;𒊕𒄤  sa-gaz ;  sag-gaz  "robber; murderer; robbery" Akk.  habbātu ;  šaggāšu 
+>>>  sagdul  
+ sagdul  [ UNMNG ]  |U.SAG|  sagdul  "" 
+>>>  |SAG@g|.|SAG@g| mušen  
+ SAGGUNUSAGGUNU  [ BIRD ]  𒊨𒊨𒄷  |SAG@g|.|SAG@g| mušen  "a bird" 
+>>>  sa-gi  
+ sagi  [ BUNDLE ]  𒊓𒄀  sa-gi  "reed bundle" 
+>>>  sa-gid2 -da  
+ sagida  [ NOTATION ]  𒊓𒁍𒁕  sa-gid2 -da  "a musical instrument; a musical notation" Akk.  sagiddû 
+>>>  sa-gir11 ;  sa-gir11 (KEŠ2 )-ra  
+ sagir  [ STRAW NET ]  𒊓𒆟;𒊓𒆟(𒆟)𒊏  sa-gir11 ;  sa-gir11 (KEŠ2 )-ra  "straw net" Akk.  sakrikku 
+>>>  |SAG×KAK.GABA|  
+ SAGKAKDU  [ CUPBEARER ]  𒊚𒃮  |SAG×KAK.GABA|  "a cupbearer" 
+>>>  sagkurini  
+ sagkurini  [ UNMNG ]  A₂  sagkurini  "" 
+>>>  sagkurun  
+ sagkurun  [ UNMNG ]  |DIN.KASKAL.U@g.DIŠ|  sagkurun  "" 
+>>>  saĝ5 ;  saĝ ;  zag  
+ saĝ  [ CVVE ]  𒉠;𒊕;𒍠  saĝ5 ;  saĝ ;  zag  "(compound verb verbal element)" 
+>>>  saĝ  
+ saĝ  [ FRONT ]  𒊕  saĝ  "front side (math.)" 
+>>>  saĝ  
+ saĝ  [ HEAD ]  𒊕  saĝ  "head; person; capital" Akk.  qaqqadu ;  rēšu 
+>>>  saĝ4  
+ saĝ  [ KING ]  𒈗  saĝ4  "king" Akk.  šarru 
+>>>  saĝ bala  
+ saĝ bala  [ SHAKE ]  𒊕𒁄  saĝ bala  "to shake the head" Akk.  a-da-ru? 
+>>>  saĝ du ;  saĝ du11 ;  saĝ du3  
+ saĝ du  [ BEGET ]  𒊕𒁺;𒊕𒅗;𒊕𒆕  saĝ du ;  saĝ du11 ;  saĝ du3  "to beget" Akk.  banû 
+>>>  saĝ dub2  
+ saĝ dub  [ SMASH ]  𒊕𒂀  saĝ dub2  "to smash (heads)" Akk.  nekelmû ;  şummuru ? 
+>>>  saĝ e3  
+ saĝ e  [ TAKE PRECEDENCE ]  𒊕𒌓𒁺  saĝ e3  "to take precedence" 
+>>>  saĝ gi4  
+ saĝ gi  [ BLOCK ]  𒊕𒄄  saĝ gi4  "to block" Akk.  hašû? ;  mahāru 
+>>>  saĝ gid2  
+ saĝ gid  [ ANGRY ]  𒊕𒁍  saĝ gid2  "to be(come) angry" Akk.  nekelmû 
+>>>  saĝ ĝal2 ;  saĝ ĝa2 -ĝa2  
+ saĝ ĝal  [ ADVANCE ]  𒊕𒅅;𒊕𒂷𒂷  saĝ ĝal2 ;  saĝ ĝa2 -ĝa2  "to advance against, to oppose, to attack" Akk.  (w)âru 
+>>>  saĝ ĝal2  
+ saĝ ĝal  [ MEASURED ]  𒊕𒅅  saĝ ĝal2  "(to be) measured out as a heaped amount; to measure out a heaped amount" 
+>>>  saĝ ĝeš ra  
+ saĝ ĝeš ra  [ KILL ]  𒊕𒄑𒊏  saĝ ĝeš ra  "to kill" Akk.  nêru 
+>>>  saĝ il2  
+ saĝ il  [ RAISE ]  𒊕𒅍  saĝ il2  "'to raise the head'" Akk.  rēšam našû ;  šaqû ša rēši 
+>>>  saĝ kal  
+ saĝ kal  [ APPRECIATE ]  𒊕𒆗  saĝ kal  "to appreciate" Akk.  ? 
+>>>  saĝ keš2  
+ saĝ kešed  [ TAKE CARE ]  𒊕𒆟  saĝ keš2  "to take care, attend carefully (to something)" 
+>>>  saĝ mu2 -mu2  
+ saĝ mu  [ SHINE ]  𒊕𒊬𒊬  saĝ mu2 -mu2  "to shine" Akk.  nabāţu 
+>>>  saĝ sag3  
+ saĝ sag  [ TREMBLE ]  𒊕𒉺  saĝ sag3  "to tremble" Akk.  nakāpu 
+>>>  saĝ sal  
+ saĝ sal  [ UNMNG ]  𒊕𒊩  saĝ sal  "?" Akk.  ? 
+>>>  saĝ sig10  
+ saĝ sig  [ ENTRUST ]  𒊕𒋧  saĝ sig10  "to take care of; to entrust" Akk.  paqādu 
+>>>  saĝ šu du3  
+ saĝ šu du  [ BIND? ]  𒊕𒋗𒆕  saĝ šu du3  "to bind the head and hands?" 
+>>>  saĝ šum2  
+ saĝ šum  [ OPPOSE ]  𒊕𒋧  saĝ šum2  "to go against" Akk.  hiāšu 
+>>>  saĝ tal2  
+ saĝ tal  [ UNMNG ]  𒊕𒉿  saĝ tal2  "?" Akk.  ? 
+>>>  saĝ tum2  
+ saĝ tum  [ REDUCE ]  𒊕𒁺  saĝ tum2  "to reduce" Akk.  qalālu 
+>>>  saĝ us2  
+ saĝ us  [ RAISE ]  𒊕𒍑  saĝ us2  "'to raise the head'" Akk.  šaqû ša rēši 
+>>>  saĝ zig3  
+ saĝ zig  [ RAISE ]  𒊕𒍣  saĝ zig3  "'to raise the head'" Akk.  šaqû ša rēši 
+>>>  saĝa2 ;  saĝa4 ;  saĝa3 ;  saĝa5 ;  saĝa6 ;  saĝa x (|GA.UZ3 |) ;  saĝa x (|GA.UZ3 .HI|) ;  saĝa x (|GA.UZ.IGI@g|) ;  saĝa x (|LAGAB×LAK175|)  
+ saĝa  [ PRIEST ]  SANGA₂;|IL₂.DUB₂|;|IL₂.MA₂.IGI@g|;|GA.UZ₃.IGI@g|;|GA.MA₂.IGI@g|;|GA.UZ₃|(𒂵𒍚);|GA.UZ₃|(𒂵𒍚𒄭);|GA.UZ₃|(𒂵𒊻𒅊);|GA.UZ₃|(𒆸·lak175)  saĝa2 ;  saĝa4 ;  saĝa3 ;  saĝa5 ;  saĝa6 ;  saĝa x (|GA.UZ3 |) ;  saĝa x (|GA.UZ3 .HI|) ;  saĝa x (|GA.UZ.IGI@g|) ;  saĝa x (|LAGAB×LAK175|)  "a priest" Akk.  mullilu 
+>>>  saĝ-apin  
+ saĝapin  [ PLOWMAN ]  𒊕𒀳  saĝ-apin  "plowman" Akk.  ? 
+>>>  sa2 -ĝar  
+ saĝar  [ COUNSELOR ]  𒁲𒃻  sa2 -ĝar  "counselor" Akk.  māliku 
+>>>  sa-ĝar-ra  
+ saĝara  [ NOTATION ]  𒊓𒃻𒊏  sa-ĝar-ra  "a musical notation" 
+>>>  saĝ-AŠ  
+ saĝAŠ  [ OFFICIAL ]  𒊕𒀸  saĝ-AŠ  "an official" 
+>>>  saĝ-ba ;  saĝ-ba-a  
+ saĝba  [ OATH ]  𒊕𒁀;𒊕𒁀𒀀  saĝ-ba ;  saĝ-ba-a  "oath" Akk.  māmītu 
+>>>  saĝ-bur  
+ saĝbur  [ PRIEST ]  𒊕𒁓  saĝ-bur  "priest" 
+>>>  saĝ-dil  
+ saĝdili  [ LONE ]  𒊕𒀸  saĝ-dil  "lone, single; batchelor; noble" Akk.  gitmalu ;  ēdēnû 
+>>>  ĝeš saĝ-du ;  sag-du  
+ saĝdu  [ BEAM ]  𒄑𒊕𒁺;𒊕𒁺  ĝeš saĝ-du ;  sag-du  "(wooden) beam" 
+>>>  saĝ-du ;  saĝdu  
+ saĝdu  [ HEAD ]  𒊕𒁺;NA  saĝ-du ;  saĝdu  "head" Akk.  qaqqadu 
+>>>  na4 saĝ-du  
+ saĝdu  [ STONE ]  𒎎𒊕𒁺  na4 saĝ-du  "a stone" 
+>>>  saĝ-DU  
+ saĝDU  [ SMITTEN PERSON ]  𒊕𒁺  saĝ-DU  "smitten person" 
+>>>  saĝ-dub  
+ saĝdub  [ LABORER ]  𒊕𒁾  saĝ-dub  "high-quality laborer" 
+>>>  saĝdudu x (|LAGAB×ŠITA@t|)  
+ saĝDUDU  [ DEFEAT ]  |LAGAB×ŠITA@t|(𒆸·šita@t)  saĝdudu x (|LAGAB×ŠITA@t|)  "to defeat in battle" Akk.  mahāşu ša dabdê 
+>>>  saĝ-DUN3  
+ saĝDUN  [ RECORDER ]  𒊕𒂅  saĝ-DUN3  "land recorder" Akk.  šassukku 
+>>>  saĝ-DUN3 -mah  
+ saĝDUNmah  [ RECORDER ]  𒊕𒂅𒈤  saĝ-DUN3 -mah  "chief recorder" 
+>>>  ĝeš saĝ-dur2  
+ saĝdur  [ SEAT ]  𒄑𒊕𒂉  ĝeš saĝ-dur2  "seat" 
+>>>  saĝ-en3 -tar  
+ saĝentar  [ SUPERVISOR ]  𒊕𒇷𒋻  saĝ-en3 -tar  "supervisor" Akk.  pāqidu 
+>>>  sag-EZEN  
+ saĝEZEN  [ HEED ]  𒊕𒂡  sag-EZEN  "heed, attention" Akk.  na'ādu 
+>>>  saĝ-gi  
+ saĝgi  [ UNMNG ]  𒊕𒄀  saĝ-gi  "?" Akk.  ? 
+>>>  saĝ-gig  
+ saĝgig  [ HEADACHE ]  𒊕𒍼  saĝ-gig  "headache" 
+>>>  saĝ-gig2 -ga  
+ saĝgiga  [ HUMANKIND ]  𒊕𒈪𒂵  saĝ-gig2 -ga  "humankind" Akk.  şalmat qaqqadi 
+>>>  na4 saĝ-gir11 -mud  
+ saĝgirmud  [ STONE ]  𒎎𒊕𒆟𒄷𒄭  na4 saĝ-gir11 -mud  "type of stone" 
+>>>  saĝ-gi4 -ur3 -ra mušen ;  saĝ-gi4 mušen ;  saĝ-ki-ur3 -ra mušen ;  saĝ-ki mušen  
+ saĝgi'ura  [ BIRD ]  𒊕𒄄𒃡𒊏𒄷;𒊕𒄄𒄷;𒊕𒆠𒃡𒊏𒄷;𒊕𒆠𒄷  saĝ-gi4 -ur3 -ra mušen ;  saĝ-gi4 mušen ;  saĝ-ki-ur3 -ra mušen ;  saĝ-ki mušen  "a bird" Akk.  işşūr ša kubši 
+>>>  saĝ-ku3 -ĝal2 ;  saĝ-gu2 -ĝal2  
+ saĝguĝal  [ PROUD ]  𒊕𒆬𒅅;𒊕𒄘𒅅  saĝ-ku3 -ĝal2 ;  saĝ-gu2 -ĝal2  "proud" 
+>>>  sag-kul ;  saĝ-gul  
+ saĝgul  [ LIGHTNING ]  𒊕𒆰;𒊕𒄢  sag-kul ;  saĝ-gul  "globe-lightning" Akk.  sankullu 
+>>>  saĝ-GURUŠ  
+ saĝGURUŠ  [ ANIMAL ]  𒊕𒄨  saĝ-GURUŠ  "an animal" 
+>>>  saĝĝa ;  |GAR.ŠID| ;  |ŠID.GAR|  
+ saĝĝa  [ OFFICIAL ]  𒋃;𒃻𒋃;𒋃𒃻  saĝĝa ;  |GAR.ŠID| ;  |ŠID.GAR|  "an official, the chief administrator of a temple household" Akk.  šangû 
+>>>  saĝ-ĝal2  
+ saĝĝal  [ SAFE ]  𒊕𒅅  saĝ-ĝal2  "safe" 
+>>>  saĝĝa-mah  
+ saĝĝamah  [ OFFICIAL ]  𒋃𒈤  saĝĝa-mah  "an official, the senior chief administrator of a temple household" 
+>>>  saĝĝar2 ;  saĝĝar ;  na4 saĝ-ĝar  
+ saĝĝar  [ MILLSTONE ]  𒅗;𒅗;𒎎𒊕𒃻  saĝĝar2 ;  saĝĝar ;  na4 saĝ-ĝar  "upper millstone" 
+>>>  na4 saĝ-ĝar  
+ saĝĝar  [ STONE ]  𒎎𒊕𒃻  na4 saĝ-ĝar  "a type of stone" 
+>>>  saĝĝa-simug  
+ saĝĝasimug  [ SMITH ]  𒋃𒌣  saĝĝa-simug  "chief smith" 
+>>>  saĝ-im  
+ saĝimla  [ CRAFTSMAN ]  𒊕𒅎  saĝ-im  "craftsman" Akk.  ummiānu 
+>>>  saĝ-izi  
+ saĝizi  [ TORCH ]  𒊕𒉈  saĝ-izi  "torch" 
+>>>  saĝ-KAK-bad-bad  
+ saĝKAKbadbad  [ HOLE ]  𒊕𒆕𒁁𒁁  saĝ-KAK-bad-bad  "hole; window" 
+>>>  saĝ-kal  
+ saĝkal  [ FOREMOST ]  𒊕𒆗  saĝ-kal  "foremost" 
+>>>  saĝ-kal  
+ saĝkal  [ STONE ]  𒊕𒆗  saĝ-kal  "a stone" 
+>>>  sag-keš2 ku6  
+ saĝkešed  [ FISH ]  𒊕𒆟𒄩  sag-keš2 ku6  "a fish" 
+>>>  saĝ-keš2 ;  kuš saĝ-keš2  
+ saĝkešed  [ STRAP ]  𒊕𒆟;𒋢𒊕𒆟  saĝ-keš2 ;  kuš saĝ-keš2  "a strap; loop, string" Akk.  ? 
+>>>  saĝ-ki  
+ saĝki  [ FOREHEAD ]  𒊕𒆠  saĝ-ki  "forehead, brow; front" Akk.  pûtu 
+>>>  saĝ-ki  
+ saĝki  [ RITES ]  𒊕𒆠  saĝ-ki  "rites" Akk.  sakkû 
+>>>  saĝ-ki gid2  
+ saĝki gid  [ ANGRY ]  𒊕𒆠𒁍  saĝ-ki gid2  "to be(come) angry" Akk.  nekelmû 
+>>>  saĝ-ki zalag bar  
+ saĝki zalag bar  [ FAVOR ]  𒊕𒆠𒂟𒁇  saĝ-ki zalag bar  "to look favorably" 
+>>>  saĝ-ki-gud  
+ saĝkigudak  [ TRAPEZIUM ]  𒊕𒆠𒄞  saĝ-ki-gud  "a geometric shape; trapezium (math.)" Akk.  pūt alpi 
+>>>  gi saĝ-kud  
+ saĝkud  [ REED PIPE ]  𒄀𒊕𒋻  gi saĝ-kud  "reed pipe" Akk.  sakkuttu 
+>>>  saĝ-gu4 -ĝal2 ;  saĝ-ku3 -ĝal2 ;  saĝ-gu2 -ĝal2  
+ saĝkuĝal  [ PROUD ]  𒊕𒄞𒅅;𒊕𒆬𒅅;𒊕𒄘𒅅  saĝ-gu4 -ĝal2 ;  saĝ-ku3 -ĝal2 ;  saĝ-gu2 -ĝal2  "proud" 
+>>>  ĝeš saĝ-kul ;  ĝeš sag-gul  
+ saĝkul  [ BOLT ]  𒄑𒊕𒆰;𒄑𒊕𒄢  ĝeš saĝ-kul ;  ĝeš sag-gul  "bolt" Akk.  sikkūru 
+>>>  saĝ-kur  
+ saĝkur  [ FISH ]  𒊕𒆳  saĝ-kur  "a fish" 
+>>>  saĝ-lul  
+ saĝlul  [ FALSEHOOD ]  𒊕𒈜  saĝ-lul  "falsehood" Akk.  sartu 
+>>>  saĝmaš ;  sagmaš  
+ saĝmaš  [ FOREMOST ]  |BAD.KASKAL|;|BAD.KASKAL|  saĝmaš ;  sagmaš  "first and foremost, pre-eminent" Akk.  ašarēdu 
+>>>  saĝ-men  
+ saĝmen  [ CROWN ]  𒊕𒃞  saĝ-men  "a crown" 
+>>>  saĝmin  
+ saĝmin  [ TWIN ]  |MAŠ.U.U|  saĝmin  "twin" Akk.  tū'amu 
+>>>  saĝ-mud-ĝal2  
+ saĝmudĝal  [ ADVOCATE? ]  𒊕𒄷𒄭𒅅  saĝ-mud-ĝal2  "advocate?" 
+>>>  saĝ-munus  
+ saĝmunus  [ WOMAN ]  𒊕𒊩  saĝ-munus  "woman" 
+>>>  saĝ-niĝ2 -GA-ra  
+ saĝniĝGAra  [ ASSETS ]  𒊕𒃻𒂵𒊏  saĝ-niĝ2 -GA-ra  "available assets" 
+>>>  saĝ-niĝin  
+ saĝniĝin  [ DISEASE ]  𒊕𒆸  saĝ-niĝin  "a disease" 
+>>>  saĝ-nim-nim  
+ saĝnim  [ DISEASE ]  𒊕𒉏𒉏  saĝ-nim-nim  "a disease" 
+>>>  saĝ-nita ;  saĝ-nita2  
+ saĝnita  [ MAN ]  𒊕𒍑;𒊕ARAD.HU  saĝ-nita ;  saĝ-nita2  "man" 
+>>>  saĝ-PA  
+ saĝPA  [ POUCH ]  𒊕𒉺  saĝ-PA  "a pouch" Akk.  nēpeštu 
+>>>  saĝ-pap  
+ saĝpap  [ ~FISH ]  𒊕𒉽  saĝ-pap  "a designation of fish" 
+>>>  saĝ-si-bad-bad  
+ saĝsibadbad  [ DRILL ]  𒊕𒋛𒁁𒁁  saĝ-si-bad-bad  "a drill" 
+>>>  saĝ-sum  
+ saĝsum  [ COMMODITY ]  𒊕𒋧  saĝ-sum  "a commodity" 
+>>>  tug2 saĝšu  
+ saĝšu  [ TURBAN ]  𒌆𒌋𒊕  tug2 saĝšu  "turban; cover of a pot" Akk.  kubšu 
+>>>  saĝ-tab ;  sag-tab-ba  
+ saĝtab  [ PROTECTION ]  𒊕𒋰;𒊕𒋰𒁀  saĝ-tab ;  sag-tab-ba  "helper, ally; protection" Akk.  rēşu ;  şulūlu 
+>>>  sag-tag  
+ saĝtab  [ UNMNG ]  𒊕𒋳  sag-tag  "?" Akk.  ? 
+>>>  saĝ-KAK ;  saĝtak ;  santak3 ;  saĝtak4 ;  santak2  
+ saĝtak  [ TRIANGLE ]  𒊕𒆕;𒀸;AŠ@z;𒁹;AŠ@k  saĝ-KAK ;  saĝtak ;  santak3 ;  saĝtak4 ;  santak2  "triangle (math.); wedge" Akk.  santakku 
+>>>  saĝ-ti-rin2  
+ saĝtirin  [ FUNCTIONARY ]  𒊕𒋾ERIN₂  saĝ-ti-rin2  "functionary" Akk.  assinnum 
+>>>  saĝ-tuku  
+ saĝtuku  [ SPLENDID ]  𒊕𒌇  saĝ-tuku  "proud; splendid; foremost" Akk.  ašarēdu ;  šarhu 
+>>>  saĝ-ur-saĝ  
+ saĝursaĝ  [ PERFORMER ]  𒊕𒌨𒊕  saĝ-ur-saĝ  "a cultic performer" 
+>>>  saguš  
+ saĝus  [ CONSTANT ]  A₂  saguš  "(to be) constant, regular; an attendant" Akk.  kayyānu ;  mukīl rēši 
+>>>  sah  
+ sah  [ MAT ]  𒆤  sah  "a mat" Akk.  suhhu 
+>>>  sah4  
+ sah  [ PLAYFUL ]  |GU%GU|  sah4  "playful" 
+>>>  sahar  
+ sahar  [ DUST ]  𒅖  sahar  "earth, soil; dust" Akk.  eperu 
+>>>  sahar  
+ sahar  [ FROST ]  𒅖  sahar  "frost; terror" Akk.  hurbāšu 
+>>>  sahar2  
+ sahar  [ POROUS? ]  𒊬  sahar2  "(to be) porous?" Akk.  šaharru 
+>>>  dug sahar ;  dug sahar2  
+ sahar  [ VESSEL ]  𒂁𒅖;𒂁𒊬  dug sahar ;  dug sahar2  "a vessel" Akk.  šaharru 
+>>>  sahar-dub-ba  
+ saharduba  [ RUBBISH ]  𒅖𒁾𒁀  sahar-dub-ba  "rubbish heap" 
+>>>  sahar-gi4  
+ sahargi  [ DUST-GUARD ]  𒅖𒄄  sahar-gi4  "dust-guard" Akk.  sahargû 
+>>>  sahar-ĝar  
+ saharĝar  [ SILT ]  𒅖𒃻  sahar-ĝar  "silt" 
+>>>  sahar-HUB2  
+ saharHUB  [ DUST-HEAP ]  𒅖𒄸  sahar-HUB2  "dust-heap" 
+>>>  sahar-šub-ba  
+ saharšuba  [ DISEASE ]  𒅖𒊒𒁀  sahar-šub-ba  "a disease" 
+>>>  sa-hi-in  
+ sahin  [ PEG ]  𒊓𒄭𒅔  sa-hi-in  "peg" Akk.  sikkatu 
+>>>  sa-hi-in  
+ sahin  [ YEAST ]  𒊓𒄭𒅔  sa-hi-in  "yeast" 
+>>>  sa-hi-in-du3 ;  sa-hi-in ;  šem sah7 -hi-in  
+ sahindu  [ YEAST ]  𒊓𒄭𒅔𒆕;𒊓𒄭𒅔;𒋆𒋆𒄭𒅔  sa-hi-in-du3 ;  sa-hi-in ;  šem sah7 -hi-in  "yeast" Akk.  sahindu ;  sikkatu 
+>>>  sa-hir  
+ sahir  [ INCENSE? ]  𒊓𒂡  sa-hir  "incense?" Akk.  lubbunu 
+>>>  sa-hir  
+ sahir  [ NET ]  𒊓𒂡  sa-hir  "a net" Akk.  sahirru 
+>>>  sa-hur  
+ sahur  [ PROFESSION ]  𒊓𒄯  sa-hur  "a profession" 
+>>>  sa-keš2 -keš2 -sa  
+ sakešedkešsa  [ BUG-RIDDEN ]  𒊓𒆟𒆟𒊓  sa-keš2 -keš2 -sa  "bug-ridden, lousy" 
+>>>  sa-KU  
+ saKU  [ ARM ]  𒊓𒆪  sa-KU  "arm" 
+>>>  sal3  
+ sal  [ POLE ]  𒉌  sal3  "a pole" Akk.  mudulu 
+>>>  sal  
+ sal  [ THIN ]  𒊩  sal  "(to be) thin, fine; to spread" Akk.  raqāqu 
+>>>  sal2  
+ sal  [ UNMNG ]  𒁲  sal2  "" 
+>>>  sal4  
+ sal  [ WINNOW? ]  𒋡  sal4  "to winnow?" 
+>>>  SAL-SAL ku6  
+ SAL.SAL  [ FISH ]  𒊩𒊩𒄩  SAL-SAL ku6  "a fish" 
+>>>  sa-la2 ;  za-la2  
+ sala  [ GOAT ]  𒊓𒇲;𒍝𒇲  sa-la2 ;  za-la2  "bug-ridden, lousy" 
+>>>  ĝeš sal-la ;  sal-la  
+ sala  [ ~PLOW ]  𒄑𒊩𒆷;𒊩𒆷  ĝeš sal-la ;  sal-la  "a designation of plows" Akk.  musirru 
+>>>  sa-al-hub2  
+ salhub  [ NET ]  𒊓𒀠𒄸  sa-al-hub2  "a net" 
+>>>  SA.LI  
+ SALI  [ INSTRUMENT ]  𒊓𒇷  SA.LI  "a musical instrument; a geometric shape" Akk.  pagû 
+>>>  sa-al-kad4  
+ salkad  [ NET ]  𒊓𒀠𒆒  sa-al-kad4  "a net" 
+>>>  SAL.LAGAR.BAD  
+ SALLAGARBAD  [ PRIESTESS ]  𒊩𒇬𒁁  SAL.LAGAR.BAD  "type of priestess" 
+>>>  SAL.LAGAR.ME  
+ SALLAGARME  [ PRIESTESS ]  𒊩𒇬𒈨  SAL.LAGAR.ME  "type of priestess" 
+>>>  SAL.LUL.BALAG  
+ SALLULBALAG  [ PROFESSION ]  𒊩𒈜𒁆  SAL.LUL.BALAG  "a profession" 
+>>>  SAL.SAL mušen  
+ SALSAL  [ BIRD ]  𒊩𒊩𒄷  SAL.SAL mušen  "a bird" 
+>>>  SAL.SAL ku6  
+ SALSAL  [ FISH ]  𒊩𒊩𒄩  SAL.SAL ku6  "type of fish" 
+>>>  SAL.ŠAH  
+ SALŠAH  [ SOW ]  𒊩𒋚  SAL.ŠAH  "sow" 
+>>>  salugub  
+ salugub  [ UNMNG ]  𒀸  salugub  "" 
+>>>  SAL.UŠ  
+ SALUŠ  [ SHEATH ]  𒊩𒍑  SAL.UŠ  "sheath (of a dagger)" 
+>>>  SAL-zi mušen  
+ SALzi  [ BIRD ]  𒊩𒍥𒄷  SAL-zi mušen  "a bird" 
+>>>  sam2  
+ sam  [ PRICE ]  |NINDA₂×ŠE|  sam2  "purchase price" Akk.  šīmu 
+>>>  samag3 ;  samag2 ;  samag4 ;  samag6 ;  samag  
+ samag  [ BIRTHMARK ]  |UM×U|;|UM×ŠA₃|;|UM×U.LAGAB|;𒅊;|UM×U|  samag3 ;  samag2 ;  samag4 ;  samag6 ;  samag  "wart; mole, birthmark" Akk.  umşatu ;  šullu 
+>>>  samag4 ;  samag6  
+ samag  [ UNMNG ]  |UM×U.LAGAB|;𒅊  samag4 ;  samag6  "" 
+>>>  saman  
+ saman  [ ROPE ]  |EŠ₂.SUD.NUN.EŠ₂.TU|  saman  "tethering rope" Akk.  šummanu 
+>>>  saman x (|A.PA.BI.SI.A.GA|)  
+ saman  [ VESSEL ]  |A.PA.BI.SI.A.GA|(𒀀𒉺𒁉𒋛𒀀𒂵)  saman x (|A.PA.BI.SI.A.GA|)  "flask; a vessel" Akk.  rakību ;  šikkatu 
+>>>  sa-ma-na2  
+ samana  [ MOLD ]  𒊓𒈠𒈿  sa-ma-na2  "mold, leaf rust" 
+>>>  ĝeš sa-ma-na2  
+ samana  [ TREE ]  𒄑𒊓𒈠𒈿  ĝeš sa-ma-na2  "a tree" Akk.  samānu 
+>>>  ĝeš sa-ma-zum  
+ samazum  [ TREE ]  𒄑𒊓𒈠𒍮  ĝeš sa-ma-zum  "a tree" 
+>>>  sa-am-sa-tum  
+ samsatum  [ EMBLEM ]  𒊓𒄠𒊓𒌈  sa-am-sa-tum  "a solar emblem" 
+>>>  sa-NI  
+ saNI  [ NET ]  𒊓𒉌  sa-NI  "a net" 
+>>>  sa-nim-ma-ra  
+ sanimmara  [ BACK ]  𒊓𒉏𒈠𒊏  sa-nim-ma-ra  "back" Akk.  şēru 
+>>>  santana  
+ santanak  [ GARDENER ]  |GAL.NI|  santana  "gardener" Akk.  sandanaku 
+>>>  sa-numun x (|(ZI&ZI).A|) ;  sa-numun x (|ZI&ZI.A|)  
+ sanumun  [ CONTAINER ]  𒊓𒆰·((𒍥𒍥)𒀀);𒊓𒆰·(𒍥𒍥𒀀)  sa-numun x (|(ZI&ZI).A|) ;  sa-numun x (|ZI&ZI.A|)  "container for fish" 
+>>>  sar  
+ sar  [ GARDEN ]  𒊬  sar  "garden; a unit of area; a unit of volume" Akk.  mūšaru 
+>>>  sar  
+ sar  [ RUN ]  𒊬  sar  "to run, hasten" Akk.  hamāţu ;  lasāmu 
+>>>  sar  
+ sar  [ SHAVE ]  𒊬  sar  "to shave" 
+>>>  sar  
+ sar  [ SMOKE ]  𒊬  sar  "to smoke" 
+>>>  sar ;  sar ar  
+ sar  [ WRITE ]  𒊬;𒊬𒅈  sar ;  sar ar  "to write" Akk.  šaţāru 
+>>>  SAR  
+ SAR  [ NAUSEATED? ]  𒊬  SAR  "to be nauseated?" 
+>>>  sar-da  
+ sarda  [ INSULTING ]  𒊬𒁕  sar-da  "insulting" 
+>>>  sa12 -rig7  
+ sarig  [ GIFT ]  𒊕𒉺𒄸𒁺  sa12 -rig7  "gift" Akk.  nudunnû 
+>>>  sas  
+ sas  [ GRASS ]  𒋀  sas  "grass, turf" Akk.  sassatu 
+>>>  sa-šu2 -uš  
+ sašuš  [ NET ]  𒊓𒋙𒍑  sa-šu2 -uš  "type of net" 
+>>>  sa-šuš-gal ;  sa-šu2 -uš-gal ;  sa-šuš2 -gal  
+ sašušgal  [ NET ]  𒊓𒋙𒃲;𒊓𒋙𒍑𒃲;𒊓𒋙𒃲  sa-šuš-gal ;  sa-šu2 -uš-gal ;  sa-šuš2 -gal  "a net" 
+>>>  tumu sa12 -ti-um ;  sa-ti-um ;  tumu sa12 -tu-um ;  tumu sa12 -tum3 ;  tumu sa-ti-um  
+ satium  [ WIND ]  𒅎𒊕𒋾𒌝;𒊓𒋾𒌝;𒅎𒊕𒌅𒌝;𒅎𒊕𒉐;𒅎𒊓𒋾𒌝  tumu sa12 -ti-um ;  sa-ti-um ;  tumu sa12 -tu-um ;  tumu sa12 -tum3 ;  tumu sa-ti-um  "east wind; east; easterner" 
+>>>  sa-tu  
+ satu  [ MOUNTAIN ]  𒊓𒌅  sa-tu  "mountain" 
+>>>  sa-tur-la2  
+ saturla  [ NET ]  𒊓𒌉𒇲  sa-tur-la2  "type of net" 
+>>>  kuš sa-ur3  
+ sa'ur  [ NET ]  𒋢𒊓𒃡  kuš sa-ur3  "a net" Akk.  šēšû 
+>>>  sa-zid2  
+ sazid  [ CROP ]  𒊓𒍥  sa-zid2  "a crop" 
+>>>  se12 ;  še ;  ze2  
+ se  [ DWELL ]  𒅊;𒊺;𒍢  se12 ;  še ;  ze2  "plural stem of lug[to dwell]" 
+>>>  se12 ;  ze2 ;  še  
+ se  [ LIVE ]  𒅊;𒍢;𒊺  se12 ;  ze2 ;  še  "plural stem of til[to live]" 
+>>>  se11 ;  se28  
+ se  [ UNMNG ]  𒋟;𒅆  se11 ;  se28  "" 
+>>>  sed4 ;  sed ;  sed6 ;  še12 ;  še18 ;  še11 ;  še15 ;  še5 ;  šed5  
+ sed  [ COLD ]  𒁇;𒈻;MUŠ₃;|A.MUŠ₃|;|A.MUŠ₃.DI|;𒈜;|ŠE.NUN&NUN|;|ZA.MUŠ₃.DI|;KAD₄  sed4 ;  sed ;  sed6 ;  še12 ;  še18 ;  še11 ;  še15 ;  še5 ;  šed5  "(to be) cold; to cool; winter" Akk.  kāşû ;  kuşu ;  kuşşu 
+>>>  sed-sed-dam  
+ sedsedam  [ MORNING ]  𒈻𒈻𒁮  sed-sed-dam  "early morning" Akk.  kaşâtam 
+>>>  se2 -ek-rum  
+ sekrum  [ WOMAN ]  𒍣IG𒀸  se2 -ek-rum  "a class of women" Akk.  sekretu 
+>>>  ses mušen  
+ ses  [ BIRD ]  ŠEŠ.HU𒄷  ses mušen  "a bird" Akk.  marratu 
+>>>  ses  
+ ses  [ BITTER ]  ŠEŠ.HU  ses  "(to be) bitter, brackish" Akk.  marru 
+>>>  si  
+ si  [ CVNE ]  𒋛  si  "(compound verb nominal element)" 
+>>>  si3  
+ si  [ DRUNK ]  𒅆  si3  "(to be) drunk" Akk.  šakāru 
+>>>  si  
+ si  [ FILL ]  𒋛  si  "to draw water; to brew beer; to fill, load up" Akk.  mullû ;  sabû ;  sâbu 
+>>>  si  
+ si  [ HORN ]  𒋛  si  "horn; finger; fret" Akk.  qarnu ;  ubānu 
+>>>  si  
+ si  [ REMEMBER ]  𒋛  si  "to remember" Akk.  hasāsu 
+>>>  si14  
+ si  [ SPIDER? ]  𒂁  si14  "spider?, snail?" Akk.  lummû 
+>>>  si23 ;  si5  
+ si  [ UNMNG ]  𒄢;|IGI.EŠ₂|  si23 ;  si5  "" 
+>>>  si ak  
+ si ak  [ TUNE ]  𒋛𒀝  si ak  "to adjust the strings on a lute, to tune" 
+>>>  si e3  
+ si e  [ SPROUT ]  𒋛𒌓𒁺  si e3  "to sprout roots (malted barley)" 
+>>>  si gu3  rah2  
+ si gu rah  [ BLOW THE HORN ]  𒋛𒅗𒊏  si gu3  rah2  "to blow the horn" Akk.  ? 
+>>>  si mu2  
+ si mu  [ SPROUT ]  𒋛𒊬  si mu2  "to sprout roots (malted barley)" 
+>>>  si sa2 ;  si si-sa2  
+ si sa  [ STRAIGHTEN ]  𒋛𒁲;𒋛𒋛𒁲  si sa2 ;  si si-sa2  "to make straight; to make vertical" Akk.  ešēru ;  šutēšuru 
+>>>  si-am  
+ siam  [ HORNS ]  𒋛𒄠  si-am  "wild bull's horns" 
+>>>  sibsib  
+ sibsib  [ SORCERESS ]  |KA×ME+ME|  sibsib  "sorceress" Akk.  kaššaptu 
+>>>  sib2 -ta  
+ sibta  [ SHARE ]  |PA.LU|𒋫  sib2 -ta  "additional share" Akk.  elâtu 
+>>>  si-dug4 ;  sidug ;  sidug2  
+ sidug  [ CAVITY ]  𒋛𒅗;|LAGAB×DAR|;|LAGAB×GA|  si-dug4 ;  sidug ;  sidug2  "cavity, hollow; depth; stream, wadi, gorge; (hunter's) pitfall; pit" Akk.  haštu ;  huballu ;  huppu ;  mušpalu ;  nahallu ;  šuttatu 
+>>>  si-EZEN  
+ si'EZEN  [ FRET ]  𒋛𒂡  si-EZEN  "fret; a musical instrument" 
+>>>  sig3  
+ sig  [ BURN ]  𒉺  sig3  "to burn (of digestion)" Akk.  şarāpu 
+>>>  sig10  
+ sig  [ CAST ]  𒋧  sig10  "to cast; to fashion" Akk.  šapāku 
+>>>  si-ig  
+ sig  [ CLEAR ]  𒋛𒅅  si-ig  "to be clear" 
+>>>  sig10  
+ sig  [ EQUAL ]  𒋧  sig10  "to equal" Akk.  mašālu 
+>>>  sig10  
+ sig  [ FLATTEN ]  𒋧  sig10  "to flatten, lay flat; to disrespect" Akk.  dâşu ;  sapānu 
+>>>  sig9 ;  sig10 ;  si-ig  
+ sig  [ PLACE ]  𒋛;𒋧;𒋛𒅅  sig9 ;  sig10 ;  si-ig  "to place" Akk.  šakānu 
+>>>  sig7 ;  sig8  
+ sig  [ PLUCK ]  𒅊;|GAD.TAK₄.GIŠ|  sig7 ;  sig8  "to pluck hair or wool; (to be) trimmed, pruned" Akk.  sepû ša šarti ;  urrû 
+>>>  si-ig ;  šeg5  
+ sig  [ SILENT ]  𒋛𒅅;𒍋  si-ig ;  šeg5  "(deathly) hush; (to be) silent" Akk.  šaqummatu 
+>>>  sa2 ;  sig9  
+ sig  [ TIE ]  𒁲;𒋛  sa2 ;  sig9  "to tie (shoes)" Akk.  šênu 
+>>>  sig  
+ sig  [ WEAK ]  𒋝  sig  "(to be) weak; (to be) low; (to be) thin; (to be) narrow" Akk.  enšu ;  qatnu 
+>>>  sig7  
+ sig  [ WORKER ]  𒅊  sig7  "a class of worker" 
+>>>  SIG7  
+ SIG  [ ~COW ]  𒅊  SIG7  "a designation of cows" 
+>>>  SIG7 -a-bal  
+ SIG7 .abala  [ DEFECT ]  𒅊𒀀𒁄  SIG7 -a-bal  "a defect" 
+>>>  SIG7 -a  
+ SIGa  [ PROFESSION? ]  𒅊𒀀  SIG7 -a  "a type of profession?" 
+>>>  si-gal  
+ sigal  [ BREAD ]  𒋛𒃲  si-gal  "a type of bread" 
+>>>  sig-ba  
+ sigba  [ BODY ]  𒋝𒁀  sig-ba  "lower body" 
+>>>  sig4 -ba  
+ sigba  [ TOOL ]  𒋞𒁀  sig4 -ba  "a brickmaker's tool" 
+>>>  sig2 -bar  
+ sigbar  [ PRIEST ]  𒋠𒁇  sig2 -bar  "a priest" Akk.  luhšû ;  sigbarû 
+>>>  gi si-ig-da  
+ sigda  [ BASKET ]  𒄀𒋛𒅅𒁕  gi si-ig-da  "a basket" 
+>>>  SIG7 .EN  
+ SIGEN  [ GODDESS? ]  𒅊𒂗  SIG7 .EN  "a type of goddess?" 
+>>>  sig7 -ĝeš  
+ sigĝeš  [ PROFESSION ]  𒅊𒄑  sig7 -ĝeš  "a profession" 
+>>>  SIG7 .HI  
+ SIGHI  [ GODDESS? ]  𒅊𒄭  SIG7 .HI  "a birth goddess?" 
+>>>  sig7 -igi  
+ sigigi  [ EYEBROW ]  𒅊𒅆  sig7 -igi  "eyebrow, arch; carved eyebrow (for statues)" 
+>>>  si-gigir  
+ sigigir  [ CHARIOT ]  𒋛𒇀  si-gigir  "chariot harness?" 
+>>>  sig2 -šab  
+ sigšab  [ HAIR ]  𒋠𒊸  sig2 -šab  "combed-out hair, carded wool" Akk.  mušāţu 
+>>>  si-gug2  
+ sigug  [ CAKE ]  𒋛𒈖  si-gug2  "crescent-shaped cake" 
+>>>  ĝeš si-ĝar ;  si-ĝar  
+ siĝar  [ BOLT ]  𒄑𒋛𒃻;𒋛𒃻  ĝeš si-ĝar ;  si-ĝar  "bolt, clamp" Akk.  šigarru 
+>>>  si-il-la2  
+ si'illa  [ INSPECTION ]  𒋛𒅋𒇲  si-il-la2  "inspection" Akk.  piqittu 
+>>>  siki  
+ siki  [ HAIR ]  𒋠  siki  "wool, fleece; hair; (animal's) pelt" Akk.  šārtu ;  šīpātu 
+>>>  siki2 ;  sig15 ?  
+ siki  [ ~BREAD ]  𒌓;𒆗  siki2 ;  sig15 ?  "a designation of bread" Akk.  sīku 
+>>>  siki-ba  
+ sikiba  [ RATION ]  𒋠𒁀  siki-ba  "wool ration" 
+>>>  u2 sikil  
+ sikil  [ PLANT ]  𒌑𒂖  u2 sikil  "a medicinal plant" Akk.  sikillu 
+>>>  sikil  
+ sikil  [ PURE ]  𒂖  sikil  "(to be) pure" Akk.  ebbu ;  ellu 
+>>>  na4 sikil  
+ sikil  [ STONE ]  𒎎𒂖  na4 sikil  "a stone" Akk.  sikillu 
+>>>  sikil-du3 -a  
+ sikildua  [ INSULTING ]  𒂖𒆕𒀀  sikil-du3 -a  "insulting" 
+>>>  sikin ;  šikin2  
+ sikin  [ CONTAINER ]  |SIK₂.LAM|;𒂁  sikin ;  šikin2  "a container for oils" Akk.  šikinnu 
+>>>  SIKI.NUMUN2  
+ SIKINUMUN  [ GARMENT ]  𒋠𒍤𒆸  SIKI.NUMUN2  "type of garment" 
+>>>  siki-pa  
+ sikipa  [ HEAD-HAIR ]  𒋠𒉺  siki-pa  "head hair" 
+>>>  siki-ur2  
+ siki'ur  [ HAIR ]  𒋠𒌫  siki-ur2  "pubic hair" 
+>>>  si-il ;  zil ;  sil x (|EZEN×LAL2 |) ;  sil5  
+ sil  [ SPLIT ]  𒋛𒅋;𒉣;|EZEN×LAL₂|(𒂡·𒇳);|EZEN×KASKAL|  si-il ;  zil ;  sil x (|EZEN×LAL2 |) ;  sil5  "(to be) remote; to split apart; to split, slit" Akk.  nesû ;  šalātu 
+>>>  sila  
+ sila  [ BAIT ]  𒋻  sila  "bait" Akk.  sulû 
+>>>  sila3  
+ sila  [ CUT ]  𒋡  sila3  "cut (of meat)" 
+>>>  sila3  
+ sila  [ FRAGMENT ]  𒋡  sila3  "fragment" Akk.  hupû 
+>>>  sila  
+ sila  [ HEEL ]  𒋻  sila  "heel" Akk.  eqbu 
+>>>  sila4  
+ sila  [ LAMB ]  𒃢  sila4  "lamb" Akk.  puhādu 
+>>>  sila ;  sila3  
+ sila  [ STREET ]  𒋻;𒋡  sila ;  sila3  "street" Akk.  sūqu 
+>>>  sila3  
+ sila  [ UNIT ]  𒋡  sila3  "a unit of capacity; a vessel" Akk.  mīšertu ;  qû 
+>>>  SILA3 -MIN3 ku6  
+ SILA.MIN  [ FISH ]  𒋡𒌋𒌋𒄩  SILA3 -MIN3 ku6  "a fish" 
+>>>  sila-daĝal  
+ siladaĝal  [ SQUARE ]  𒋻𒂼  sila-daĝal  "(public) square" Akk.  rebītu 
+>>>  sila4 -ga  
+ silaga  [ LAMB ]  𒃢𒂵  sila4 -ga  "suckling lamb" 
+>>>  silaĝ  
+ silaĝ  [ FUNNEL ]  ŠID  silaĝ  "a seed funnel" Akk.  nuttû 
+>>>  silaĝ  
+ silaĝ  [ KNEAD ]  ŠID  silaĝ  "to knead" 
+>>>  silaĝ  
+ silaĝ  [ ~BODY ]  ŠID  silaĝ  "a body part" Akk.  lašû 
+>>>  sila3 -ĝar-ra  
+ silaĝarra  [ BOWL ]  𒋡𒃻𒊏  sila3 -ĝar-ra  "bowl for afterbirth" 
+>>>  silal x (|EZEN×KU3 |)  
+ silal  [ UNMNG ]  |EZEN×KU₃|(𒂮)  silal x (|EZEN×KU3 |)  "" 
+>>>  sila4 -nim  
+ silanim  [ LAMB ]  𒃢𒉏  sila4 -nim  "spring lamb" Akk.  hurāpu 
+>>>  sila3 -zubud ku6  
+ silazubud  [ FISH ]  𒋡𒄪𒄩  sila3 -zubud ku6  "a fish" 
+>>>  ĝeš silig ;  ĝeš silig5  
+ silig  [ AX ]  𒄑𒍂;𒄑GIŠ.|URU×URUDA|  ĝeš silig ;  ĝeš silig5  "an ax" 
+>>>  ĝeš silig  
+ silig  [ BED ]  𒄑𒍂  ĝeš silig  "bed" Akk.  mayyaltu 
+>>>  silig  
+ silig  [ CEASE ]  𒍂  silig  "to cease" 
+>>>  silig2 ;  silig4  
+ silig  [ HAND ]  |TAG×UD|;|TAG×GUD|  silig2 ;  silig4  "hand; (cupped) hand" Akk.  lupnu ;  qātu ;  rittu 
+>>>  šilig ;  šilig6  
+ silig  [ MIGHTY ]  |URU×IGI|;𒅗  šilig ;  šilig6  "(to be) mighty, majestic" Akk.  šagapūru 
+>>>  silig3  
+ silig  [ UNMNG ]  |TAG×TUG₂|  silig3  "" 
+>>>  silim  
+ silim  [ HEALTHY ]  𒁲  silim  "(to be) healthy; completeness; well-being" Akk.  šalāmu ;  šulmu 
+>>>  silim2  
+ silim  [ VESSEL ]  𒆗  silim2  "a vessel" Akk.  hupšašû 
+>>>  sim x  
+ sim  [ CARBUNCLE ]  𒉆·  sim x  "carbuncle, skin sore" Akk.  simmu 
+>>>  sim ;  si-im  
+ sim  [ SIEVE ]  𒉆;𒋛𒅎  sim ;  si-im  "to sieve, filter" Akk.  napû ;  šahālu 
+>>>  si-im ;  sim  
+ sim  [ SMELL ]  𒋛𒅎;𒉆  si-im ;  sim  "to smell, sniff" 
+>>>  sim mušen ;  še-en mušen ;  še-na mušen  
+ sim  [ SWALLOW ]  𒉆𒄷;𒊺𒂗𒄷;𒊺𒈾𒄷  sim mušen ;  še-en mušen ;  še-na mušen  "swallow" Akk.  sinuntu 
+>>>  si-im-da ;  urud si-im-da  
+ simda  [ BRAND ]  𒋛𒅎𒁕;U+1234F𒋛𒅎𒁕  si-im-da ;  urud si-im-da  "brand, branding mark" 
+>>>  simed  
+ simed  [ UNMNG ]  𒀸  simed  "" 
+>>>  sim-gid2 mušen  
+ simgid  [ SWALLOW ]  𒉆𒁍𒄷  sim-gid2 mušen  "a swallow" 
+>>>  sim-ma ku6  
+ simma  [ FISH ]  𒉆𒈠𒄩  sim-ma ku6  "a fish" 
+>>>  simug  
+ simug  [ SMITH ]  𒌣  simug  "smith, metalworker" Akk.  nappāhu 
+>>>  simug-gal ;  simuggal x (|GAL.UMUM|) ;  simug  
+ simuggal  [ SMITH ]  𒌣𒃲;|GAL.UMUM|(𒃲𒌣);𒌣  simug-gal ;  simuggal x (|GAL.UMUM|) ;  simug  "head smith" 
+>>>  si-mul  
+ simul  [ STAG ]  𒋛𒀯  si-mul  "stag, deer" Akk.  ayyalu 
+>>>  si-muš3 ;  si-muš2  
+ simuš  [ BRILLIANCE ]  𒋛𒈹;𒋛𒈽  si-muš3 ;  si-muš2  "brilliance, radiance" Akk.  šarūru 
+>>>  sipad mušen  
+ sipad  [ BIRD ]  𒉺𒇻𒄷  sipad mušen  "a bird" 
+>>>  sipad ;  su8 -ba ;  lu2 sipad ;  šuba  
+ sipad  [ SHEPHERD ]  𒉺𒇻;𒁻𒁀;𒇽𒉺𒇻;𒍝𒈽  sipad ;  su8 -ba ;  lu2 sipad ;  šuba  "shepherd; herder" Akk.  rē'û 
+>>>  sipad-tur  
+ sipadtur  [ SHEPHERD ]  𒉺𒇻𒌉  sipad-tur  "junior shepherd" 
+>>>  si-par4  
+ sipar  [ IMPLEMENT ]  𒋛𒉌 𒄑  si-par4  "type of implement" 
+>>>  sir3 ;  sir2  
+ sir  [ BIND ]  𒂡;𒁍  sir3 ;  sir2  "to bind" Akk.  rakāsu 
+>>>  sir2  
+ sir  [ CHECK ]  𒁍  sir2  "to check; to approach" Akk.  sanāqu 
+>>>  sir2  
+ sir  [ DENSE ]  𒁍  sir2  "(to be) dense" Akk.  šapû 
+>>>  sir5  
+ sir  [ POINTED ]  𒉡  sir5  "(to be) pointed" Akk.  eddu 
+>>>  siraš3  
+ siraš  [ BEER ]  |ŠIM×GAR|  siraš3  "a beer" Akk.  sīrašû 
+>>>  si-sa2  
+ sisa  [ FAIR ]  𒋛𒁲  si-sa2  "fair, true (of gur[unit])" 
+>>>  tumu si-sa2  
+ sisa  [ WIND ]  𒅎𒋛𒁲  tumu si-sa2  "north wind" 
+>>>  anše si2 -si2 ;  si2 -si2 ;  sisi x (|ANŠE.KUR|) ;  sisi  
+ sisi  [ HORSE ]  𒀲𒍣𒍣;𒍣𒍣;|ANŠE.KUR|(𒀲𒆳);|ANŠE.KUR.RA|  anše si2 -si2 ;  si2 -si2 ;  sisi x (|ANŠE.KUR|) ;  sisi  "horse" 
+>>>  sig-sig ;  tumu si-si-ig ;  si-si-ga ;  sig3 -sig3  
+ sisig  [ BREEZE ]  𒋝𒋝;𒅎𒋛𒋛𒅅;𒋛𒋛𒂵;𒉺𒉺  sig-sig ;  tumu si-si-ig ;  si-si-ga ;  sig3 -sig3  "ghost?; storm; breeze, wind" Akk.  mehû ;  zīqīqu? ;  šāru 
+>>>  si12 -si12 ;  sissi x (GI)  
+ sissi  [ GREEN ]  𒅊𒅊;𒄀(𒄀)  si12 -si12 ;  sissi x (GI)  "(to be) green-yellow, pale" Akk.  arqu ;  arāqu 
+>>>  siškur2 ;  siškur  
+ siškur  [ PRAYER ]  |AMAR×ŠE.AMAR×ŠE|;|AMAR×ŠE|  siškur2 ;  siškur  "prayer; blessing; offering, sacrifice, rites; to pour (a libation), sacrifice; to intercede" Akk.  karābu ;  naqû ;  nīqu 
+>>>  si-i3 -tum  
+ situm  [ BALANCE ]  𒋛𒉌𒌈  si-i3 -tum  "balance (of a settled account)" Akk.  šittum 
+>>>  si-un3 -na  
+ si'una  [ ZENITH ]  𒋛𒂦𒈾  si-un3 -na  "zenith" 
+>>>  su7 mušen  
+ su  [ BIRD ]  𒇭𒄷  su7 mušen  "a bird" 
+>>>  su  
+ su  [ CVVE ]  𒋢  su  "(compound verb verbal element)" 
+>>>  su11 ;  su6  
+ su  [ FIBERS ]  𒅗;𒅾  su11 ;  su6  "date-palm fibers" Akk.  sû 
+>>>  su  
+ su  [ FLESH ]  𒋢  su  "flesh; body; entrails (omen); body" Akk.  zumru ;  šīru 
+>>>  su4 ;  sa5 ;  šu4  
+ su  [ RED ]  𒋜;|SI.A|;𒌋  su4 ;  sa5 ;  šu4  "(to be) red, brown" Akk.  pelû ;  sāmu 
+>>>  su ;  su3  
+ su  [ SINK ]  𒋢;𒋤  su ;  su3  "to submerge; to sink" Akk.  ţebû 
+>>>  su3 ;  su13  
+ su  [ SPRINKLE ]  𒋤;𒁍  su3 ;  su13  "to sprinkle, strew; to adorn, decorate" Akk.  elēhu ;  zarāqu 
+>>>  su9  
+ su  [ UNMNG ]  |SI@g.A|  su9  "" 
+>>>  SU ku6  
+ SU  [ FISH ]  𒋢𒄩  SU ku6  "a fish" 
+>>>  su sag3  
+ su sag  [ TREMBLE ]  𒋢𒉺  su sag3  "to tremble" Akk.  zumra nurruţu 
+>>>  su zig3  
+ su zig  [ FEAR ]  𒋢𒍣  su zig3  "to fear, to have goose bumps" Akk.  šahātu 
+>>>  sa-a ;  su-a  
+ sua  [ CAT ]  𒊓𒀀;𒋢𒀀  sa-a ;  su-a  "wild cat" Akk.  šurānu 
+>>>  su-a-ri  
+ suari  [ CAT ]  𒋢𒀀𒊑  su-a-ri  "wild cat" 
+>>>  sub6  
+ sub  [ COAT ]  𒋳  sub6  "to complete, perfect; to coat" Akk.  šuklulu 
+>>>  sub2  
+ sub  [ GO ]  |DU&DU|  sub2  "imperfect plural stem of ĝen[to go]" Akk.  alāku 
+>>>  su-ub ;  sub ;  sub6  
+ sub  [ RUB ]  𒋢𒌒;𒅢;𒋳  su-ub ;  sub ;  sub6  "to suck; to rub" Akk.  naşābu 
+>>>  sub5  
+ sub  [ SEDGE ]  𒈰  sub5  "rush, sedge" Akk.  šuppatu 
+>>>  sub x (KAL)  
+ sub  [ UNMNG ]  𒆗(𒆗)  sub x (KAL)  "?" Akk.  ? 
+>>>  su-bar  
+ subar  [ BODY ]  𒋢𒁇  su-bar  "body" 
+>>>  ĝeš subur  
+ subur  [ CHARIOT ]  𒄑GIŠ.ŠUBUR  ĝeš subur  "chariot" Akk.  narkabtu 
+>>>  su-bur2  
+ subur  [ QUICKSAND ]  𒋢𒁔  su-bur2  "quicksand" 
+>>>  subur  
+ subur  [ SLAVE ]  GIŠ.ŠUBUR  subur  "slave, servant" Akk.  ardu 
+>>>  subur ;  subur2  
+ subur  [ UNMNG ]  GIŠ.ŠUBUR;𒈛  subur ;  subur2  "" 
+>>>  NU11 mušen  
+ sud  [ BIRD ]  𒉢𒄷  NU11 mušen  "a bird" 
+>>>  sud ;  su3 -ud  
+ sud  [ DISTANT ]  𒋤;𒋤𒌓  sud ;  su3 -ud  "(to be) distant; (to be) remote, long-lasting; (to be) profound" Akk.  nesû ;  rêqu 
+>>>  su-ud  
+ sud  [ PLANT ]  𒋢𒌓  su-ud  "plant" Akk.  hahinnu 
+>>>  sud5  
+ sud  [ PURIFY ]  |EZEN×KASKAL|  sud5  "to purify" Akk.  ullulu 
+>>>  sud2 ;  sud3  
+ sud  [ UNMNG ]  𒋥;|SU.KUR.RU|  sud2 ;  sud3  "" 
+>>>  SUD  
+ SUD  [ ~LAND ]  𒋤  SUD  "a qualification of land" 
+>>>  sud-ra2 -aĝ2 ;  sud-aĝ2 ;  su3 -ud-aĝ2  
+ sudaĝ  [ METAL ]  𒋤𒁺𒉘;𒋤𒉘;𒋤𒌓𒉘  sud-ra2 -aĝ2 ;  sud-aĝ2 ;  su3 -ud-aĝ2  "a precious metal; (to be) shiny (a divine epithet)" Akk.  elmēšu 
+>>>  sud3 -da mušen  
+ sudda  [ BIRD ]  |SU.KUR.RU|𒁕𒄷  sud3 -da mušen  "a bird" 
+>>>  su3 -ud-ĝal2  
+ sudĝal  [ LONG-LASTING ]  𒋤𒌓𒅅  su3 -ud-ĝal2  "long-lasting, extended" 
+>>>  sud-ĝal2  
+ sudĝal  [ LONG ]  𒋤𒅅  sud-ĝal2  "long" 
+>>>  su-din mušen ;  šu4 -din mušen ;  su-te-en  
+ sudin  [ BAT ]  𒋢𒁷𒄷;𒌋𒁷𒄷;𒋢𒋼𒂗  su-din mušen ;  šu4 -din mušen ;  su-te-en  "bat" Akk.  suttinnu 
+>>>  su-din  
+ sudin  [ CHARIOT ]  𒋢𒁷  su-din  "a part of a chariot" Akk.  šuttinnu 
+>>>  u2 su-din  
+ sudin  [ PLANT ]  𒌑𒋢𒁷  u2 su-din  "a plant" 
+>>>  sud2 -sud2  
+ sudsud  [ GRIND ]  𒋥𒋥  sud2 -sud2  "to grind" 
+>>>  sug  
+ sug  [ BACK ]  𒆹  sug  "steppe, open country; back, upperside, upper part" Akk.  elītu ;  şēru 
+>>>  sug4  
+ sug  [ EMPTY ]  𒋤  sug4  "(to be) empty; (to be) naked; to cut clear, strip" Akk.  erû; urrû ;  riāqu 
+>>>  sug  
+ sug  [ MARSH ]  𒆹  sug  "reed-bed, marsh" Akk.  appāru ;  şuşû 
+>>>  sug6  
+ sug  [ REPLACE ]  𒋢  sug6  "to repay a loan; to replace" Akk.  apālu ;  riābu 
+>>>  sug  
+ sug  [ SHRINE ]  𒆹  sug  "shrine, chapel" Akk.  sukku 
+>>>  sug2  
+ sug  [ STAND ]  |DU&DU|  sug2  "plural stem of gub[to stand]" Akk.  uzuzzu 
+>>>  sug ;  sug7  
+ sug  [ UNMNG ]  𒆹;GAR.  sug ;  sug7  "; " 
+>>>  su-ug  
+ sug  [ UNMNG ]  𒋢𒊌  su-ug  "?" Akk.  ? 
+>>>  sug4 ;  sug x (|SUD.PA.EL|) ;  sug x (|PA.SUD.EL|)  
+ sug  [ ~GRAIN ]  𒋤;|SUD.PA.EL|(𒋤𒉺𒂖);|SUD.PA.EL|(𒉺𒋤𒂖)  sug4 ;  sug x (|SUD.PA.EL|) ;  sug x (|PA.SUD.EL|)  "a ripe stalk of grain or part of a stalk of grain" 
+>>>  sug gu7  
+ sug gu  [ DEVASTATED ]  𒆹𒅥  sug gu7  "to be devastated" Akk.  ? 
+>>>  su-GAN ;  su3 -GAN  
+ suGAN  [ ~METALLURGY ]  𒋢𒃶;𒋤𒃶  su-GAN ;  su3 -GAN  "a material used in metallurgy" 
+>>>  ĝeš sugin  
+ sugin  [ ROT ]  𒄑GIŠ.BAD  ĝeš sugin  "rot; decayed matter" Akk.  sumkīnu ;  nutāpu 
+>>>  su-gu7  
+ sugu  [ NEED ]  𒋢𒅥  su-gu7  "need, shortage, famine" Akk.  hušahhu 
+>>>  su-gu7  
+ sugu  [ REDNESS ]  𒋢𒅥  su-gu7  "redness, reddening" Akk.  rišûtu 
+>>>  sug-zag  
+ sugzag  [ CVNE ]  𒆹𒍠  sug-zag  "(compound verb nominal element)" 
+>>>  sug-zag gu7  
+ sugzag gu  [ DESTROY ]  𒆹𒍠𒅥  sug-zag gu7  "to destroy completely" Akk.  ? 
+>>>  suh3  
+ suh  [ CONFUSE ]  𒄗  suh3  "to confuse; confusion" Akk.  ešītu 
+>>>  suh10 ;  suh  
+ suh  [ CROWN ]  MUŠ₃;𒄗  suh10 ;  suh  "crown" 
+>>>  suh5  
+ suh  [ DEFECATE ]  𒆪  suh5  "to defecate; to have diarrhea" Akk.  ezû ;  našāhu 
+>>>  suh5 ;  suh  
+ suh  [ EXTRACT ]  𒆪;𒄗  suh5 ;  suh  "to tear out; to extract; to choose" Akk.  nasāhu 
+>>>  suh7  
+ suh  [ INTERIOR ]  𒈬  suh7  "interior" Akk.  tāhu 
+>>>  suh-am3 -bi ;  suh-am3  
+ suham  [ CRY ]  𒄗𒀀𒀭𒁉;𒄗𒀀𒀭  suh-am3 -bi ;  suh-am3  "cry" 
+>>>  suh-gir11 ;  suh10 -gir11  
+ suhgir  [ DIADEM ]  𒄗𒆟;MUŠ₃𒆟  suh-gir11 ;  suh10 -gir11  "diadem" 
+>>>  suhirim  
+ suhirim  [ HEAP ]  |LAGAR×ŠE+SUM|  suhirim  "heap of grain" Akk.  tarammu 
+>>>  suh3 -sah4  
+ suhsah  [ SOUND ]  𒄗|GU%GU|  suh3 -sah4  "a sound (onomatopoeic)" 
+>>>  suh3 -sah4  za  
+ suhsah za  [ MAKE NOISE ]  𒄗|GU%GU|𒍝  suh3 -sah4  za  "to make noise" 
+>>>  ĝeš suhub4 ;  ĝeš suhub3 ;  suhub5  
+ suhub  [ BOLT ]  𒄑𒋗𒁲𒌍;𒄑𒋗𒁹;𒋗𒂵  ĝeš suhub4 ;  ĝeš suhub3 ;  suhub5  "door bolt, bar" Akk.  mēdelu ;  napraku 
+>>>  kuš suhub2 ;  HUB2 -HUB2 ;  kuš suhub ;  su-hub2  
+ suhub  [ BOOTS ]  𒋢|ANx3|;𒄸𒄸;𒋢𒋗𒁹;𒋢𒄸  kuš suhub2 ;  HUB2 -HUB2 ;  kuš suhub ;  su-hub2  "boots, shoes" Akk.  šuhuppatu 
+>>>  suhub  
+ suhub  [ TREAD ]  𒋗𒁹  suhub  "to tread; rim of a wheel" Akk.  kabāsu ;  šuhuppu 
+>>>  suhub2 ;  suhub  
+ suhub  [ ~OXEN ]  |ANx3|;𒋗𒁹  suhub2 ;  suhub  "a description of oxen" 
+>>>  suhul  
+ suhul  [ UNMNG ]  |ŠU₂.ANx3|  suhul  "" 
+>>>  suhur ku6 ;  ku6 suhur  
+ suhur  [ CARP ]  𒋦𒄩;𒄩𒋦  suhur ku6 ;  ku6 suhur  "carp" Akk.  purādu 
+>>>  suhur  
+ suhur  [ INSERT ]  𒋦  suhur  "to insert" 
+>>>  suhur  
+ suhur  [ SCRATCH ]  𒋦  suhur  "to scratch; to incise" Akk.  ekēku ;  naqāru 
+>>>  ĝeš suhur  
+ suhur  [ TOOL ]  𒄑𒋦  ĝeš suhur  "a tool" Akk.  mekkû 
+>>>  suhur  
+ suhur  [ TRIM ]  𒋦  suhur  "to trim or comb the hair" Akk.  šamāţu ;  qamāmu ;  kezēru 
+>>>  suhur  
+ suhur  [ TUFT ]  𒋦  suhur  "tuft, plume; crown (of a tree)" Akk.  qimmatu 
+>>>  suhur-gal ku6  
+ suhurgal  [ CARP ]  𒋦𒃲𒄩  suhur-gal ku6  "type of carp" 
+>>>  suhur-la2  
+ suhurla  [ HAIRSTYLE ]  𒋦𒇲  suhur-la2  "hairstyle; a functionary; prostitute" Akk.  kezertu 
+>>>  suhur-maš2 ku6 ;  suhur-maš ku6  
+ suhurmaš  [ FISH ]  𒋦𒈧𒄩;𒋦𒈦𒄩  suhur-maš2 ku6 ;  suhur-maš ku6  "a mythical fish" Akk.  bitrû ;  suhurmāšu 
+>>>  suhur-sum4 -la2 ku6  
+ suhursumla  [ FISH ]  𒋦|KA×SA|𒇲𒄩  suhur-sum4 -la2 ku6  "a fish" Akk.  ziqnānu 
+>>>  TUN3 .KU6 .SUHUR ;  ku6 suhur-tun3 ;  suhur-tun3 -bar ku6  
+ suhurtunbar  [ FISH ]  𒂅𒄩𒋦;𒄩𒋦𒂅;𒋦𒂅𒁇𒄩  TUN3 .KU6 .SUHUR ;  ku6 suhur-tun3 ;  suhur-tun3 -bar ku6  "a fish" Akk.  sapsapānu 
+>>>  suhur-tur ku6  
+ suhurtur  [ CARP ]  𒋦𒌉𒄩  suhur-tur ku6  "type of carp" 
+>>>  suhuš  
+ suhuš  [ FOUNDATION ]  𒁼  suhuš  "foundation" Akk.  išdu 
+>>>  suhuš x (TUR) ;  suhuš2  
+ suhuš  [ OFFSHOOT ]  𒌉(𒌉);|NINDA₂×UŠ|  suhuš x (TUR) ;  suhuš2  "date palm offshoot" 
+>>>  sukkal  
+ sukkal  [ SECRETARY ]  𒈛  sukkal  "secretary, civil servant" Akk.  sukkallu 
+>>>  sukkalgal x (|GAL.LUH|)  
+ sukkalgal  [ OFFICIAL ]  |GAL.LUH|(𒃲𒈛)  sukkalgal x (|GAL.LUH|)  "an official" 
+>>>  sukal-mah  
+ sukkalmah  [ OFFICIAL ]  LUH𒈤  sukal-mah  "an official" Akk.  sukkalmahu 
+>>>  suku5  
+ suku  [ POLE ]  𒅆  suku5  "pole" Akk.  šukû 
+>>>  sukud  
+ sukud  [ HEADDRESS ]  𒃴  sukud  "a crown or headdress" 
+>>>  sukud  
+ sukud  [ HEIGHT ]  𒃴  sukud  "height, altitude" Akk.  mēlû 
+>>>  sukuš  
+ sukuš  [ UNMNG ]  MUŠ₃  sukuš  "" 
+>>>  su-ul  
+ sul  [ COVER ]  𒋢𒌌  su-ul  "to cover" Akk.  katāmu 
+>>>  su-ul-su-ul  
+ sul  [ CRIPPLED ]  𒋢𒌌𒋢𒌌  su-ul-su-ul  "to be crippled" 
+>>>  su-la2 ;  sul2  
+ sul  [ MEAT ]  𒋢𒇲;𒉌  su-la2 ;  sul2  "salted, pickled meat" Akk.  muddulu 
+>>>  sul  
+ sul  [ SLITHER ]  𒉌  sul  "to slither" 
+>>>  sul  
+ sul  [ SPOIL ]  𒉌  sul  "to spoil" 
+>>>  su3 -la  
+ sula  [ ~LAND ]  𒋤𒆷  su3 -la  "a qualification of land" 
+>>>  sulgar  
+ sulgar  [ UNMNG ]  |ŠU₂.ANx3|  sulgar  "" 
+>>>  su-lim ;  su-li2 -im  
+ sulim  [ RADIANCE ]  𒋢𒅆;𒋢𒉌𒅎  su-lim ;  su-li2 -im  "awesome radiance" Akk.  šalummatu ;  rašubbatu 
+>>>  sullat2  
+ sullat  [ UNMNG ]  𒉺  sullat2  "" 
+>>>  u2 sullim sar ;  sullim  
+ sullim  [ SPICE ]  𒌑|EN×GAN₂@t|𒊬;|EN×GAN₂@t|  u2 sullim sar ;  sullim  "a spice" Akk.  šambaliltu 
+>>>  sullim  
+ sullim  [ TIP ]  |EN×GAN₂@t|  sullim  "rubbish tip" Akk.  baliltu 
+>>>  u2 sullim-šu-gub-ba sar  
+ sullimšuguba  [ SPICE ]  𒌑|EN×GAN₂@t|𒋗𒁺𒁀𒊬  u2 sullim-šu-gub-ba sar  "spice" 
+>>>  suluhu ;  suluhu3  
+ suluhu  [ FLEECE ]  |SIK₂.SUD|;|ZI&ZI.LAGAB|  suluhu ;  suluhu3  "a long haired sheep; a ceremonial garment; fleece" Akk.  itqu ;  kitītu ;  lamahuššû ;  raqqatu ;  sulumhû 
+>>>  su-lum ;  su11 -lum  
+ sulum  [ CONTEMPT ]  𒋢𒈝;𒅗𒈝  su-lum ;  su11 -lum  "contempt" 
+>>>  su-lum mar ;  su11 -lum mar ;  sulummar  
+ sulum mar  [ SLANDER ]  𒋢𒈝𒈥;𒅗𒈝𒈥;|KI.SAG.DU|  su-lum mar ;  su11 -lum mar ;  sulummar  "to slander, treat with contempt; slander" Akk.  ţupullû 
+>>>  ĝeš su-lum-mar ;  ĝeš su11 -lum-mar  
+ sulummar  [ ROPE ]  𒄑𒋢𒈝𒈥;𒄑𒅗𒈝𒈥  ĝeš su-lum-mar ;  ĝeš su11 -lum-mar  "tethering rope" 
+>>>  sum4  
+ sum  [ BEARD ]  |KA×SA|  sum4  "beard; carved beard (for statues)" Akk.  ziqnu 
+>>>  sum5  
+ sum  [ POOR ]  |AŠ@k&AŠ@k&AŠ@k&AŠ@k|  sum5  "(to be) poor; pauper" Akk.  lapnu 
+>>>  sumaš ku6  
+ sumaš  [ FISH ]  𒋨𒄩  sumaš ku6  "an oceanic fish" Akk.  sumāsu 
+>>>  sumaš-SUD ku6  
+ sumašSUD  [ FISH ]  𒋨𒋤𒄩  sumaš-SUD ku6  "a fish" 
+>>>  sum-ki  
+ sumki  [ WOOD ]  𒋧𒆠  sum-ki  "wood shaving?" 
+>>>  su-mu-ug ;  su2 -mu-ug  
+ sumug  [ DARKNESS ]  𒋢𒈬𒊌;𒋙𒈬𒊌  su-mu-ug ;  su2 -mu-ug  "darkness; calamity, fear" Akk.  idirtu 
+>>>  sumun2 ;  u3 -sumun2  
+ sumun  [ COW ]  𒄢;𒅇𒄢  sumun2 ;  u3 -sumun2  "wild cow" Akk.  rīmtu 
+>>>  sumun  
+ sumun  [ OLD ]  𒄢  sumun  "(to be) old; old wood, rot, decayed matter" Akk.  labāru ;  nutāpu ;  sumkīnu 
+>>>  sumun2 ;  u3 -sun2  
+ sumun  [ VESSEL ]  𒄢;𒅇𒄢  sumun2 ;  u3 -sun2  "soaking vessel; beer mash" Akk.  narţabu 
+>>>  sumunda  
+ sumunda  [ UNMNG ]  |LAGAR@g&LAGAR@g.ŠE|  sumunda  "" 
+>>>  u2 šumunda sar ;  u2 sumun-dar ;  u2 -man-du  
+ sumundar  [ BEETROOT ]  𒌑𒇰𒊬𒊬;𒌑𒄢𒁯;𒌑𒌋𒌋𒁺  u2 šumunda sar ;  u2 sumun-dar ;  u2 -man-du  "beetroot" Akk.  šumuttu 
+>>>  ĝeš sumun-gi4  
+ sumungi  [ TOOL ]  𒄑𒄢𒄄  ĝeš sumun-gi4  "type of tool" 
+>>>  sumur ;  sumur x (KA)  
+ sumur  [ ANGRY ]  𒊨;𒅗(𒅗)  sumur ;  sumur x (KA)  "(to be) angry, furious" Akk.  ezzu ;  šamru 
+>>>  sumur ;  sumur2 ;  sumur3  
+ sumur  [ ROOF ]  𒊨;𒋦;𒈰  sumur ;  sumur2 ;  sumur3  "roof" Akk.  şululu 
+>>>  sun5  
+ sun  [ ENTER ]  𒁔  sun5  "plural stem of kur[to enter]" 
+>>>  sun7 ;  sun5  
+ sun  [ HAUGHTY ]  𒆗;𒁔  sun7 ;  sun5  "to be haughty" 
+>>>  sun5  
+ sun  [ HUMBLE ]  𒁔  sun5  "(to be) humble" 
+>>>  gi sun(BAD)  
+ sun  [ REED SHOOT ]  𒄀𒄢(𒁁)  gi sun(BAD)  "reed shoot" Akk.  habasillatu 
+>>>  sur  
+ sur  [ BREAD ]  𒁍  ≈ 𒄮 SUR3  sur  "a bread" 
+>>>  sur4  
+ sur  [ CUT ]  |ŠA₃×A|  sur4  "to cut cloth" Akk.  nakāsu 
+>>>  sur3 ;  sur6 ;  sur7  
+ sur  [ DITCH ]  𒄮;|KI.GAL|;|KI.KAK|  sur3 ;  sur6 ;  sur7  "canal, ditch; foundation pit of a building" Akk.  berûtu ;  sūru 
+>>>  sur  
+ sur  [ FORM ]  𒁍  ≈ 𒄮 SUR3  sur  "to form" Akk.  bašāmu 
+>>>  sur2  
+ sur  [ FURIOUS ]  𒊨  sur2  "(to be) furious, angry" Akk.  ezzu 
+>>>  sur ;  sur3  
+ sur  [ HALF ]  𒁍  ≈ 𒄮 SUR3;𒄮  sur ;  sur3  "half" Akk.  šinnû ;  mišlu 
+>>>  sur5 ;  sur x (ERIN2 )  
+ sur  [ HARNESS ]  𒇲;ERIN₂(𒂟)  sur5 ;  sur x (ERIN2 )  "to harness, tie up; to suspend, be suspended; harness team (of draft animals or workers); member of a team, team-worker" Akk.  šuqallulu 
+>>>  su7  
+ sur  [ LOCUS ]  𒇭  su7  "threshing floor; abandonment" Akk.  maškanu ;  nidûtu 
+>>>  ĝeš sur9  
+ sur  [ PLECTRUM? ]  𒄑𒋪  ĝeš sur9  "plectrum?; a musical instrument?" Akk.  zannaru 
+>>>  sur ;  sur8  
+ sur  [ PRESS ]  𒁍  ≈ 𒄮 SUR3;|LAGAB×SUM|  sur ;  sur8  "to press, squeeze; to flash; to drip; to rain; to milk" Akk.  natāku ;  zanānu ;  şahātu ;  şarāru 
+>>>  sur  
+ sur  [ SMILE ]  𒁍  ≈ 𒄮 SUR3  sur  "to smile" 
+>>>  sur  
+ sur  [ SPIN ]  𒁍  ≈ 𒄮 SUR3  sur  "to spin; to twist; to slither" Akk.  ţawû ;  šalālu 
+>>>  sur3 ;  sur8  
+ sur  [ UNMNG ]  𒄮;|LAGAB×SUM|  sur3 ;  sur8  "" 
+>>>  sur4  
+ sur  [ UNMNG ]  |ŠA₃×A|  sur4  "?; ?" Akk.  malātu ;  šihittu 
+>>>  sur2 -du3 mušen  
+ surdu  [ FALCON ]  𒊨𒆕𒄷  sur2 -du3 mušen  "falcon" Akk.  surdû 
+>>>  surru  
+ surru  [ PRIEST ]  SUR₉  surru  "a priest" Akk.  surrû 
+>>>  susbu ;  susbu2  
+ susbu  [ PRIEST ]  𒈽;𒈽  susbu ;  susbu2  "a priest" Akk.  ramku 
+>>>  su-si-ig  
+ susig  [ FLAYER ]  𒋢𒋛𒅅  su-si-ig  "animal flayer" Akk.  šusikkum 
+>>>  gi su7 -su7  
+ susu  [ REED ]  𒄀𒇭𒇭  gi su7 -su7  "a reed" 
+>>>  suš2 ;  suš  
+ suš  [ GREASE ]  𒉌;𒉌  suš2 ;  suš  "grease" Akk.  šēmu 
+>>>  suš x (IŠ)  
+ suš  [ UNMNG ]  𒅖(𒅖)  suš x (IŠ)  "" 
+>>>  su-zi  
+ suzi  [ RADIANCE ]  𒋢𒍥  su-zi  "awesome radiance" Akk.  šalummatu 

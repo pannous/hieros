@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Wiktionary, the free dictionary</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )enwiktionarymwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"49a749c5-c11c-4630-b75e-032d81bef77d","wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wiktionary:Main_Page","wgTitle":"Main Page","wgCurRevisionId":84117568,"wgRevisionId":84117568,"wgArticleId":3644019,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wiktionary"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wiktionary:Main_Page","wgRelevantArticleId":3644019,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgNoticeProject":"wiktionary","wgCiteReferencePreviewsActive":true,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgDiscussionToolsFeaturesEnabled":{"replytool":true,"newtopictool":true,"sourcemodetoolbar":true,"topicsubscription":false,"autotopicsub":false,"visualenhancements":false,"visualenhancements_reply":false,"visualenhancements_pageframe":false},"wgDiscussionToolsFallbackEditMode":"source","wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q5296","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+RLSTATE={"ext.gadget.Palette":"ready","ext.gadget.Site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.inputBox.styles":"ready","ext.tmh.player.styles":"ready","ext.discussionTools.init.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.tmh.player","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.LegacyScripts","ext.gadget.LanguagesAndScripts","ext.gadget.PagePreviews","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.gadget.UnsupportedTitles","ext.gadget.WiktGadgetPrefs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.discussionTools.init","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.client.vector-2022","ext.checkUser.clientHints"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.discussionTools.init.styles%7Cext.inputBox.styles%7Cext.tmh.player.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.Palette%2CSite&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.44.0-wmf.21">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:site_name" content="Wiktionary">
+<meta property="og:title" content="Wiktionary, the free dictionary">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//en.m.wiktionary.org/wiki/Wiktionary:Main_Page">
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Word of the day" href="/w/api.php?action=featuredfeed&amp;feed=wotd&amp;feedformat=atom">
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Foreign Word of the Day" href="/w/api.php?action=featuredfeed&amp;feed=fwotd&amp;feedformat=atom">
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png">
+<link rel="icon" href="/static/favicon/wiktionary/en.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wiktionary (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wiktionary.org/wiki/Wiktionary:Main_Page">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="ext-discussiontools-replytool-enabled ext-discussiontools-newtopictool-enabled ext-discussiontools-sourcemodetoolbar-enabled skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wiktionary_Main_Page page-Main_Page rootpage-Wiktionary_Main_Page skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-text" class="mw-list-item"><a href="/wiki/Wiktionary:Main_Page"><span>Main Page</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-requestedarticles" class="mw-list-item"><a href="/wiki/Wiktionary:Requested_entries"><span>Requested entries</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x"><span>Random entry</span></a></li><li id="n-help" class="mw-list-item"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out"><span>Help</span></a></li><li id="n-Glossary" class="mw-list-item"><a href="/wiki/Appendix:Glossary"><span>Glossary</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wiktionary:Contact_us"><span>Contact us</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wiktionary:Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiktionary.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wiktionary" src="/static/images/mobile/copyright/wiktionary-wordmark-en.svg" style="width: 6.6875em; height: 1.1875em;">
+		<img class="mw-logo-tagline" alt="The Free Dictionary" src="/static/images/mobile/copyright/wiktionary-tagline-en.svg" width="110" height="15" style="width: 6.875em; height: 0.9375em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wiktionary [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wiktionary" aria-label="Search Wiktionary" autocapitalize="none" title="Search Wiktionary [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wiktionary.org&amp;uselang=en" class=""><span>Donations</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wiktionary%3AMain+Page" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Wiktionary%3AMain+Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="More options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wiktionary.org&amp;uselang=en"><span>Donations</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wiktionary%3AMain+Page" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wiktionary%3AMain+Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar vector-page-titlebar-blank">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" style="display: none"><span class="mw-page-title-namespace">Wiktionary</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Main Page</span></h1>
+						<div class="mw-indicators">
+		</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-project" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Wiktionary:Main_Page" title="View the project page [c]" accesskey="c"><span>Main Page</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Wiktionary_talk:Main_Page" rel="discussion" title="Discussion about the content page [t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Wiktionary:Main_Page"><span>Read</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Wiktionary:Main_Page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Wiktionary:Main_Page&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Wiktionary:Main_Page"><span>Read</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Wiktionary:Main_Page&amp;action=edit"><span>View source</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Wiktionary:Main_Page&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Wiktionary:Main_Page" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Wiktionary:Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Wiktionary:Main_Page&amp;oldid=84117568" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Wiktionary:Main_Page&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2FWiktionary%3AMain_Page"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2FWiktionary%3AMain_Page"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wiktionary%3AMain+Page"><span>Create a book</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Wiktionary%3AMain_Page&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Wiktionary:Main_Page&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-foundation mw-list-item"><a href="https://foundation.wikimedia.org/wiki/Home" hreflang="en"><span>Wikimedia Foundation</span></a></li><li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en"><span>MediaWiki</span></a></li><li class="wb-otherproject-link wb-otherproject-meta mw-list-item"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en"><span>Meta-Wiki</span></a></li><li class="wb-otherproject-link wb-otherproject-outreach mw-list-item"><a href="https://outreach.wikimedia.org/wiki/Main_Page" hreflang="en"><span>Wikimedia Outreach</span></a></li><li class="wb-otherproject-link wb-otherproject-sources mw-list-item"><a href="https://wikisource.org/wiki/Main_Page" hreflang="en"><span>Multilingual Wikisource</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en"><span>Wikispecies</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item"><a href="https://en.wikibooks.org/wiki/Main_Page" hreflang="en"><span>Wikibooks</span></a></li><li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en"><span>Wikidata</span></a></li><li class="wb-otherproject-link wb-otherproject-wikifunctions mw-list-item"><a href="https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page" hreflang="en"><span>Wikifunctions</span></a></li><li class="wb-otherproject-link wb-otherproject-wikimania badge-Q70894304 mw-list-item" title=""><a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en"><span>Wikimania</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://en.wikinews.org/wiki/Main_Page" hreflang="en"><span>Wikinews</span></a></li><li class="wb-otherproject-link wb-otherproject-wikipedia mw-list-item"><a href="https://en.wikipedia.org/wiki/Main_Page" hreflang="en"><span>Wikipedia</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/Main_Page" hreflang="en"><span>Wikiquote</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://en.wikisource.org/wiki/Main_Page" hreflang="en"><span>Wikisource</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiversity mw-list-item"><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page" hreflang="en"><span>Wikiversity</span></a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item"><a href="https://en.wikivoyage.org/wiki/Main_Page" hreflang="en"><span>Wikivoyage</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Link to connected data repository item [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+					
+						<div id="siteSub" class="noprint">From Wiktionary, the free dictionary</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r82552745">.mw-parser-output .main-page-body-text{background:var(--background-color-base,transparent)}.mw-parser-output .main-page-top-header{background:var(--wikt-palette-lightindigo,#e9e9ff);border:var(--wikt-palette-indigo,#aaaaee)}.mw-parser-output .main-page-behind-the-scenes{background:var(--wikt-palette-lighterblue,#ebf4ff);border:var(--wikt-palette-dulllightblue,#aabbdd)}.mw-parser-output .main-page-list-of-wiktionaries{background:var(--wikt-palette-lightergrey,#eeeeee);border:var(--wikt-palette-grey,#9e9e9e)}</style><style data-mw-deduplicate="TemplateStyles:r84118811">@media screen and (max-width:720px){.mw-parser-output td,.mw-parser-output tr,.mw-parser-output tbody,.mw-parser-output table{display:block!important;width:100%!important;height:auto!important;box-sizing:border-box}}body:not(.is-authenticated) .mw-parser-output .main-page-top-header{margin-top:12px!important}</style>
+<table id="main_page_mp-mp" style="width:100%;margin-top:5px;">
+<tbody><tr>
+<td colspan="2">
+<table class="main-page-top-header" style="width: 100%; border-width: 3px; border-style: solid; padding: 5px; margin-top: 0; margin-bottom: 0">
+<tbody><tr>
+<td style="text-align:center;"><span style="font-size:200%;border:none;line-height:120%">Wiktionary,</span> <span style="font-size:200%;border:none;white-space: nowrap">the <a href="/wiki/free" title="free">free</a> dictionary</span>
+<p><b><a href="/wiki/Special:Statistics" title="Special:Statistics">8,374,475</a></b> entries with English definitions <span style="white-space: nowrap;"> from over <b><a href="/wiki/Wiktionary:Statistics" title="Wiktionary:Statistics">4,400</a></b> languages</span></p>
+</td>
+<td style="text-align: center">
+<p><b>Browse:</b> <a href="/wiki/Category:All_languages" title="Category:All languages">All languages</a> • <a href="/wiki/Category:All_topics" title="Category:All topics">List of topics</a> • <a href="/wiki/Special:Random" title="Special:Random">Random word</a> • <a href="/wiki/Special:NewPages" title="Special:NewPages">New entries</a> 
+</p><p><a href="/wiki/Wiktionary:Index_to_appendices" title="Wiktionary:Index to appendices">Appendices</a> • <a href="/wiki/Category:Abbreviations_by_language" title="Category:Abbreviations by language">Abbreviations</a> • <a href="/wiki/Category:Thesaurus_entries_by_language" title="Category:Thesaurus entries by language">Thesaurus</a> • <a href="/wiki/Category:Rhymes_by_language" title="Category:Rhymes by language">Rhymes</a> • <a href="/wiki/Wiktionary:Frequency_lists" title="Wiktionary:Frequency lists">Frequency lists</a> • <a href="/wiki/Category:Phrasebooks_by_language" title="Category:Phrasebooks by language">Phrasebooks</a>
+</p>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center; padding-top:10px;">
+<form name="bodySearch0.177401925835" id="bodySearch0.177401925835" class="bodySearch mw-inputbox-form-inline" action="/wiki/Special:Search"><div class="bodySearchWrap" style=""><div class="cdx-text-input"><input name="search" class="mw-searchInput cdx-text-input__input" size="50" id="bodySearchInput0.177401925835" dir="ltr" placeholder="" /></div>&#160;<input type="submit" name="go" value="Look up" class="cdx-button" /></div></form>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td style="vertical-align:top;padding-top:15px;width:50%">
+<div>&#160;</div>
+<div class="main-page-body-text" style="padding:10px; clear: both;">
+<a href="/wiki/Wiktionary:Welcome,_newcomers" title="Wiktionary:Welcome, newcomers">Welcome</a> to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.</div>
+<div class="main-page-body-text" style="padding:10px;">
+Wiktionary has grown beyond a standard dictionary and now includes a <a href="/wiki/Wiktionary:Thesaurus" title="Wiktionary:Thesaurus">thesaurus</a>, a rhyme guide, phrase books, language statistics and extensive appendices.  We aim to include not only the definition of a word, but also enough information to really understand it. Thus <a href="/wiki/etymology" title="etymology">etymologies</a>, pronunciations, sample quotations, synonyms, antonyms and translations are included.</div>
+<div class="main-page-body-text" style="padding:10px;">
+Wiktionary is a <a href="/wiki/wiki" title="wiki">wiki</a>, which means that you can edit it, and all the content is dual-licensed under both the <a href="/wiki/Wiktionary:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wiktionary:Text of Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 International License</a> and the <a href="/wiki/Wiktionary:GNU_Free_Documentation_License" title="Wiktionary:GNU Free Documentation License">GNU Free Documentation License</a>. Before you contribute, you may wish to read through some of <a href="/wiki/Help:Contents" title="Help:Contents">our help pages</a>, and bear in mind that we do things quite differently from other wikis. In particular, we have strict <a href="/wiki/Wiktionary:Entry_layout" title="Wiktionary:Entry layout">layout conventions</a> and <a href="/wiki/Wiktionary:Criteria_for_inclusion" title="Wiktionary:Criteria for inclusion">inclusion criteria</a>. Learn how to <a href="/wiki/Help:Starting_a_new_page" title="Help:Starting a new page">start a page</a>, how to <a href="/wiki/Help:How_to_edit_a_page" title="Help:How to edit a page">edit entries</a>, experiment in the <a href="/wiki/Wiktionary:Sandbox" title="Wiktionary:Sandbox">sandbox</a> and visit our <a href="/wiki/Wiktionary:Community_Portal" title="Wiktionary:Community Portal">Community Portal</a> to see how you can participate in the development of Wiktionary.</div>
+</td>
+<td style="vertical-align: top; padding:20px 1px 10px 10px; width:50%">
+<style data-mw-deduplicate="TemplateStyles:r82552755">.mw-parser-output .wotd-container{background:var(--wikt-palette-lighterblue,#ebf4ff);border:3px solid var(--wikt-palette-dulllightblue,#aabbdd)}.mw-parser-output .wotd-header{border-bottom:1px solid var(--wikt-palette-grey,#9e9e9e)}</style><div id="mf-wotd" title="word of the day">
+<p><span style="position:relative;left:-10px;top:-10px;"><span typeof="mw:File"><a href="/wiki/megadeath#English" title="megadeath"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Writing_star.svg/120px-Writing_star.svg.png" decoding="async" width="62" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Writing_star.svg/250px-Writing_star.svg.png 2x" data-file-width="580" data-file-height="470" /></a></span></span>
+</p>
+<table class="wotd-container" style="border-spacing:0; width:100%; padding:10px; margin-top:-47px;">
+
+<tbody><tr>
+<td colspan="2"><div style="float:right;" class="plainlinks"><small class="editlink"><a class="external text" href="https://en.wiktionary.org/w/index.php?title=Wiktionary:Word_of_the_day/2025/March_24&amp;action=edit">edit</a></small><small class="editlink">&#160;· <a class="external text" href="https://en.wiktionary.org/w/index.php?title=Wiktionary:Main_Page&amp;action=purge">refresh</a>&#160;· <a href="/wiki/Wiktionary:Word_of_the_day/2025/March_24" title="Wiktionary:Word of the day/2025/March 24">view</a></small></div><div class="wotd-header" style="font-size:150%; padding-left:40px; line-height:22px">Word of the day<span style="font-size:small;"><br />for <span id="WOTD-rss-date">March 24</span></span></div>
+</td></tr>
+<tr>
+<td><b><a href="/wiki/megadeath#English" title="megadeath"><span id="WOTD-rss-title">megadeath</span></a></b> <i>n</i>
+</td></tr>
+
+<tr>
+<td colspan="2" style="vertical-align:top;"><div style="float:right"><span class="mw-default-size" typeof="mw:File"><span><audio id="mwe_player_0" controls="" preload="none" data-mw-tmh="" class="mw-file-element" width="220" style="width:220px;" data-durationhint="2" data-mwtitle="LL-Q1860_(eng)-Vealhurl-megadeath.wav" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/LL-Q1860_%28eng%29-Vealhurl-megadeath.wav/LL-Q1860_%28eng%29-Vealhurl-megadeath.wav.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-transcodekey="ogg" data-width="0" data-height="0" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/LL-Q1860_%28eng%29-Vealhurl-megadeath.wav/LL-Q1860_%28eng%29-Vealhurl-megadeath.wav.mp3" type="audio/mpeg" data-transcodekey="mp3" data-width="0" data-height="0" /><source src="//upload.wikimedia.org/wikipedia/commons/2/2a/LL-Q1860_%28eng%29-Vealhurl-megadeath.wav" type="audio/wav" data-width="0" data-height="0" /></audio></span></span></div><div id="WOTD-rss-description">
+<ol><li>One <a href="/wiki/million" title="million">million</a> <a href="/wiki/death" title="death">deaths</a>, especially as an <a href="/wiki/unit_of_measure" title="unit of measure">unit of measure</a> for <a href="/wiki/estimate#Verb" title="estimate">estimating</a> deaths due to <a href="/wiki/nuclear_warfare" title="nuclear warfare">nuclear warfare</a>.</li>
+<li><span class="usage-label-sense"><span class="ib-brac label-brac">(</span><span class="ib-content label-content"><a href="/wiki/Appendix:Glossary#loosely" title="Appendix:Glossary">loosely</a></span><span class="ib-brac label-brac">)</span></span> The deaths of a very <a href="/wiki/large#Adjective" title="large">large</a> <a href="/wiki/number#Noun" title="number">number</a> of <a href="/wiki/person#Noun" title="person">people</a>; a <a href="/wiki/massacre#Noun" title="massacre">massacre</a>, a <a href="/wiki/slaughter#Noun" title="slaughter">slaughter</a>.</li></ol>
+<p><span typeof="mw:File"><a href="/wiki/File:PointingHand.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PointingHand.svg/20px-PointingHand.svg.png" decoding="async" width="20" height="8" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PointingHand.svg/30px-PointingHand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PointingHand.svg/40px-PointingHand.svg.png 2x" data-file-width="595" data-file-height="244" /></a></span> <span style="font-size:80%;">Today is the <a rel="nofollow" class="external text" href="https://www.un.org/en/observances/right-to-truth-day">International Day for the Right to the Truth Concerning Gross Human Rights Violations and for the Dignity of Victims</a>, or Right to Truth Day, which is recognized by the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> to honour the memory of victims of gross and systematic <a href="/wiki/human_rights" title="human rights">human rights</a> <a href="/wiki/violation" title="violation">violations</a>, and to promote the right to <a href="/wiki/truth#Noun" title="truth">truth</a> and <a href="/wiki/justice" title="justice">justice</a>. It also commemorates people who protect human rights, and in particular <a href="https://en.wikipedia.org/wiki/%C3%93scar_Romero" class="extiw" title="w:Óscar Romero">Óscar Romero</a>, the archbishop of <a href="/wiki/San_Salvador" title="San Salvador">San Salvador</a> who spoke out against human rights violations in <a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a> and was murdered on this day 45 years ago in 1980.</span>
+</p>
+</div>
+</td></tr>
+<tr>
+<td colspan="2" style="font-size:80%; text-align:center; vertical-align:top;"><a href="/wiki/Wiktionary:Word_of_the_day/2025/March_23" title="Wiktionary:Word of the day/2025/March 23">← yesterday</a> | <a href="/wiki/Wiktionary:Word_of_the_day" title="Wiktionary:Word of the day">About Word of the Day</a> • <a href="/wiki/Wiktionary:Word_of_the_day/Nominations" title="Wiktionary:Word of the day/Nominations">Nominate a word</a> • <span class="plainlinks" title="Wiktionary:Feedback"><a class="external text" href="https://en.wiktionary.org/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=new&amp;preload=Wiktionary:Feedback%2Fpreload&amp;editintro=Wiktionary:Feedback%2Fintro&amp;preloadtitle=Word%20of%20the%20day%3A%20%5B%5Bmegadeath%5D%5D">Leave feedback</a></span> | <a href="/w/index.php?title=Wiktionary:Word_of_the_day/2025/March_25&amp;action=edit&amp;redlink=1" class="new" title="Wiktionary:Word of the day/2025/March 25 (page does not exist)">tomorrow&#160;→</a>
+</td></tr></tbody></table></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r82552755" /><div id="mf-fwotd" title="foreign word of the day">
+<p><span style="position:relative;left:-5.5px;top:8.5px"><span class="skin-invert-image" typeof="mw:File"><a href="/wiki/%DA%86%D9%8F%D9%86%D9%91%DB%8C" title="چُنّی"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wikinews_commentary.svg/55px-Wikinews_commentary.svg.png" decoding="async" width="55" height="55" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wikinews_commentary.svg/83px-Wikinews_commentary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wikinews_commentary.svg/110px-Wikinews_commentary.svg.png 2x" data-file-width="290" data-file-height="290" /></a></span></span>
+</p>
+<table class="wotd-container" style="width:100%; padding:10px; margin-top:-36px;">
+
+<tbody><tr>
+<td colspan="2"><div style="position:relative;"><div class="wotd-header" style="font-size:150%; padding-left:40px;">Foreign word of the day<span style="font-size:0.875rem;"> &#160;in <span id="FWOTD-rss-language"><a href="/wiki/Punjabi" title="Punjabi">Punjabi</a></span></span></div></div>
+</td></tr>
+<tr>
+<td style="vertical-align:top;"><span class="headword-line"><strong class="Arab pa-Arab headword" lang="pa"><a href="/wiki/%DA%86%D9%86%DB%8C#Punjabi" title="چنی">چُنّی</a></strong> <a href="/wiki/Wiktionary:Punjabi_transliteration" title="Wiktionary:Punjabi transliteration">•</a> (<span lang="pa-Latn" class="headword-tr manual-tr tr Latn" dir="ltr">cunnī</span>)</span> <i>noun</i>
+<div id="FWOTD-rss-description" style="font-size:100%;">
+<ol><li><a href="/wiki/scarf" title="scarf">scarf</a>, <a href="/wiki/dupatta" title="dupatta">dupatta</a></li></ol>
+</div>
+</td>
+<td colspan="2" style="vertical-align:top;"><div style="float:right;"></div>
+</td></tr>
+<tr>
+<td colspan="2" style="vertical-align:top; font-size:80%; text-align:center;"><a href="/wiki/Wiktionary:Foreign_Word_of_the_Day" title="Wiktionary:Foreign Word of the Day">About Foreign Word of the Day</a> • <a href="/wiki/Wiktionary:Foreign_Word_of_the_Day#Archive" title="Wiktionary:Foreign Word of the Day">Archive</a> • <a href="/wiki/Wiktionary:Foreign_Word_of_the_Day/Nominations" title="Wiktionary:Foreign Word of the Day/Nominations">Nominate a word</a> • <span class="plainlinks" title="Wiktionary:Feedback"><a class="external text" href="https://en.wiktionary.org/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=new&amp;preload=Wiktionary:Feedback%2Fpreload&amp;editintro=Wiktionary:Feedback%2Fintro&amp;preloadtitle=Foreign%20word%20of%20the%20day%3A%20%5B%5B%DA%86%D9%8F%D9%86%D9%91%DB%8C%5D%5D">Leave feedback</a></span><div style="float:right; margin-left:15px;"></div>
+</td></tr></tbody></table>
+</div>
+<p><span style="position:relative;left:-10px;top:10px"><span typeof="mw:File"><a href="/wiki/Wiktionary:Community_Portal" title="Wiktionary:Community Portal"><img src="//upload.wikimedia.org/wiktionary/en/thumb/8/89/Notepad_icon.png/60px-Notepad_icon.png" decoding="async" width="57" height="47" class="mw-file-element" srcset="//upload.wikimedia.org/wiktionary/en/8/89/Notepad_icon.png 1.5x" data-file-width="71" data-file-height="59" /></a></span></span>
+</p>
+<table class="main-page-behind-the-scenes" style="margin-top:23px; border-width: 3px; border-style: solid; width:100%; padding:10px; margin-top:-30px; border-spacing: 0;">
+<tbody><tr>
+<td><span style="font-size:150%;margin-left:40px;">Behind the scenes</span>
+<hr />
+</td></tr>
+<tr>
+<td>
+<p><b><a href="/wiki/Wiktionary:Community_Portal" title="Wiktionary:Community Portal">Community portal</a></b>
+</p>
+<dl><dd><dl><dd>A page containing everything you wanted to know about Wiktionary.</dd></dl></dd></dl>
+<p><b><a href="/wiki/Wiktionary:Discussion_rooms" title="Wiktionary:Discussion rooms">Discussion rooms</a></b>
+</p>
+<dl><dd><dl><dd>A collection of pages for the discussion of Wiktionary and the words it contains.</dd></dl></dd></dl>
+</td></tr>
+<tr>
+<td style="text-align:center;font-size:90%"><a href="/wiki/Wiktionary:Things_to_do" class="mw-redirect" title="Wiktionary:Things to do">Things to do</a> • <a href="/wiki/Help:Contents" title="Help:Contents">Help</a> • <a href="/wiki/Wiktionary:Policy" class="mw-redirect" title="Wiktionary:Policy">Guidelines</a>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="2">
+
+</td></tr>
+<tr>
+<td colspan="2" style="padding-top: 10px">
+<div class="main-page-list-of-wiktionaries" style="border-width: 3px; border-style: solid; padding:5px;margin-left:10px"><span style="float:left;margin-top:-16px;margin-left:-16px;"><span typeof="mw:File"><a href="//www.wiktionary.org"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Books-aj.svg_aj_ashton_01e.svg/64px-Books-aj.svg_aj_ashton_01e.svg.png" decoding="async" width="64" height="57" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Books-aj.svg_aj_ashton_01e.svg/96px-Books-aj.svg_aj_ashton_01e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Books-aj.svg_aj_ashton_01e.svg/128px-Books-aj.svg_aj_ashton_01e.svg.png 2x" data-file-width="309" data-file-height="274" /></a></span></span>
+<div class="mw-heading mw-heading3"><h3 id="Wiktionaries_in_other_languages" data-mw-thread-id="h-Wiktionaries_in_other_languages"><span data-mw-comment-start="" id="h-Wiktionaries_in_other_languages"></span>Wiktionaries in other languages<span data-mw-comment-end="h-Wiktionaries_in_other_languages"></span></h3></div>
+<p>This is the <a href="/wiki/English" title="English">English</a>-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word <i class="Latn mention" lang="fr"><a href="/wiki/dictionnaire#French" title="dictionnaire">dictionnaire</a></i>. To find a French definition of that word, visit the equivalent page <a href="https://fr.wiktionary.org/wiki/dictionnaire" class="extiw" title="fr:dictionnaire">in the French Wiktionary</a>. <br /><br />
+<strong style="font-size:larger; font-weight:normal;">1,000,000+ entries: </strong>
+<a href="https://zh.wiktionary.org/wiki/" class="extiw" title="zh:"><span class="Hani" lang="cmn">中文</span> (Chinese)</a> • 
+<a href="https://fr.wiktionary.org/wiki/" class="extiw" title="fr:"><span class="Latn" lang="fr">Français</span> (French)</a> • 
+<a href="https://de.wiktionary.org/wiki/" class="extiw" title="de:"><span class="Latn" lang="de">Deutsch</span> (German)</a> • 
+<a href="https://el.wiktionary.org/wiki/" class="extiw" title="el:"><span class="Grek" lang="el">Ελληνικά</span> (Greek)</a> • 
+<a href="https://ku.wiktionary.org/wiki/" class="extiw" title="ku:"><span class="Latn" lang="kmr">Kurdî</span> / <span class="Arab ku-Arab" lang="ckb">كوردی</span> (Kurdish)</a> • 
+<a href="https://mg.wiktionary.org/wiki/" class="extiw" title="mg:"><span class="Latn" lang="mg">Malagasy</span></a> • 
+<a href="https://ru.wiktionary.org/wiki/" class="extiw" title="ru:"><span class="Cyrl" lang="ru">Русский</span> (Russian)</a>
+</p>
+<hr style="margin-top:0;color: #EEE4CE" />
+<p><strong style="font-size:larger; font-weight:normal;">100,000+: </strong>
+<a href="https://hy.wiktionary.org/wiki/" class="extiw" title="hy:"><span class="Armn" lang="hy">Հայերեն</span> (Armenian)</a> • 
+<a href="https://bn.wiktionary.org/wiki/" class="extiw" title="bn:"><span class="Beng" lang="bn">বাংলা</span> (Bengali)</a> • 
+<a href="https://my.wiktionary.org/wiki/" class="extiw" title="my:"><span class="Mymr" lang="my">မြန်မာဘာသာ</span> (Burmese)</a> • 
+<a href="https://ca.wiktionary.org/wiki/" class="extiw" title="ca:"><span class="Latn" lang="ca">Català</span> (Catalan)</a> • 
+<a href="https://cs.wiktionary.org/wiki/" class="extiw" title="cs:"><span class="Latn" lang="cs">Čeština</span> (Czech)</a> • 
+<a href="https://nl.wiktionary.org/wiki/" class="extiw" title="nl:"><span class="Latn" lang="nl">Nederlands</span> (Dutch)</a> • 
+<a href="https://eo.wiktionary.org/wiki/" class="extiw" title="eo:"><span class="Latn" lang="eo">Esperanto</span></a> • 
+<a href="https://et.wiktionary.org/wiki/" class="extiw" title="et:"><span class="Latn" lang="et">Eesti</span> (Estonian)</a> • 
+<a href="https://fi.wiktionary.org/wiki/" class="extiw" title="fi:"><span class="Latn" lang="fi">Suomi</span> (Finnish)</a> • 
+<a href="https://hi.wiktionary.org/wiki/" class="extiw" title="hi:"><span class="Deva" lang="hi">हिन्दी</span> (Hindi)</a> • 
+<a href="https://hu.wiktionary.org/wiki/" class="extiw" title="hu:"><span class="Latn" lang="hu">Magyar</span> (Hungarian)</a> • 
+<a href="https://io.wiktionary.org/wiki/" class="extiw" title="io:"><span class="Latn" lang="io">Ido</span></a> • 
+<a href="https://id.wiktionary.org/wiki/" class="extiw" title="id:"><span class="Latn" lang="id">Bahasa Indonesia</span> (Indonesian)</a> • 
+<a href="https://it.wiktionary.org/wiki/" class="extiw" title="it:"><span class="Latn" lang="it">Italiano</span> (Italian)</a> • 
+<a href="https://ja.wiktionary.org/wiki/" class="extiw" title="ja:"><span class="Jpan" lang="ja">日本語</span> (Japanese)</a> • 
+<a href="https://kn.wiktionary.org/wiki/" class="extiw" title="kn:"><span class="Knda" lang="kn">ಕನ್ನಡ</span> (Kannada)</a> • 
+<a href="https://ko.wiktionary.org/wiki/" class="extiw" title="ko:"><span class="Kore" lang="ko">한국어</span> (Korean)</a> • 
+<a href="https://li.wiktionary.org/wiki/" class="extiw" title="li:"><span class="Latn" lang="li">Limburgs</span> (Limburgish)</a> • 
+<a href="https://lt.wiktionary.org/wiki/" class="extiw" title="lt:"><span class="Latn" lang="lt">Lietuvių</span> (Lithuanian)</a> • 
+<a href="https://ml.wiktionary.org/wiki/" class="extiw" title="ml:"><span class="Mlym" lang="ml">മലയാളം</span> (Malayalam)</a> • 
+<a href="https://no.wiktionary.org/wiki/" class="extiw" title="no:"><span class="Latn" lang="nb">Norsk Bokmål</span> (Norwegian)</a> • 
+<a href="https://or.wiktionary.org/wiki/" class="extiw" title="or:"><span class="Orya" lang="or">ଓଡ଼ିଆ</span> (Odia)</a> • 
+<a href="https://fa.wiktionary.org/wiki/" class="extiw" title="fa:"><span class="Arab fa-Arab" lang="fa">فارسى</span> (Persian)</a> • 
+<a href="https://pl.wiktionary.org/wiki/" class="extiw" title="pl:"><span class="Latn" lang="pl">Polski</span> (Polish)</a> • 
+<a href="https://pt.wiktionary.org/wiki/" class="extiw" title="pt:"><span class="Latn" lang="pt">Português</span> (Portuguese)</a> • 
+<a href="https://ro.wiktionary.org/wiki/" class="extiw" title="ro:"><span class="Latn" lang="ro">Română</span> (Romanian)</a> • 
+<a href="https://skr.wiktionary.org/wiki/" class="extiw" title="skr:"><span class="Arab pa-Arab" lang="skr">سرائیکی</span> (Saraiki)</a> • 
+<a href="https://sr.wiktionary.org/wiki/" class="extiw" title="sr:"><span class="Cyrl" lang="sh">Српски</span> (Serbian)</a> • 
+<a href="https://sh.wiktionary.org/wiki/" class="extiw" title="sh:"><span class="Latn" lang="sh">Srpskohrvatski</span> (Serbo-Croatian)</a> • 
+<a href="https://es.wiktionary.org/wiki/" class="extiw" title="es:"><span class="Latn" lang="es">Español</span> (Spanish)</a> • 
+<a href="https://sv.wiktionary.org/wiki/" class="extiw" title="sv:"><span class="Latn" lang="sv">Svenska</span> (Swedish)</a> • 
+<a href="https://ta.wiktionary.org/wiki/" class="extiw" title="ta:"><span class="Taml" lang="ta">தமிழ்</span> (Tamil)</a> • 
+<a href="https://te.wiktionary.org/wiki/" class="extiw" title="te:"><span class="Telu" lang="te">తెలుగు</span> (Telugu)</a> • 
+<a href="https://th.wiktionary.org/wiki/" class="extiw" title="th:"><span class="Thai" lang="th">ไทย</span> (Thai)</a> • 
+<a href="https://tr.wiktionary.org/wiki/" class="extiw" title="tr:"><span class="Latn" lang="tr">Türkçe</span> (Turkish)</a> • 
+<a href="https://uz.wiktionary.org/wiki/" class="extiw" title="uz:"><span class="Latn" lang="uz">Oʻzbekcha</span> / <span class="Cyrl" lang="uz">Ўзбекча</span> (Uzbek)</a> • 
+<a href="https://vi.wiktionary.org/wiki/" class="extiw" title="vi:"><span class="Latn" lang="vi">Tiếng Việt</span> (Vietnamese)</a>
+</p>
+<hr style="margin-top:0;color: #EEE4CE" />
+<p><strong style="font-size:larger; font-weight:normal;">10,000+: </strong>
+<a href="https://af.wiktionary.org/wiki/" class="extiw" title="af:"><span class="Latn" lang="af">Afrikaans</span></a> • 
+<a href="https://sq.wiktionary.org/wiki/" class="extiw" title="sq:"><span class="Latn" lang="sq">Shqip</span> (Albanian)</a> • 
+<a href="https://ar.wiktionary.org/wiki/" class="extiw" title="ar:"><span class="Arab" lang="ar">العربية</span> (Arabic)</a> • 
+<a href="https://ast.wiktionary.org/wiki/" class="extiw" title="ast:"><span class="Latn" lang="ast">Asturianu</span> (Asturian)</a> • 
+<a href="https://az.wiktionary.org/wiki/" class="extiw" title="az:"><span class="Latn" lang="az">Azərbaycan</span> (Azeri)</a> • 
+<a href="https://eu.wiktionary.org/wiki/" class="extiw" title="eu:"><span class="Latn" lang="eu">Euskara</span> (Basque)</a> • 
+<a href="https://bs.wiktionary.org/wiki/" class="extiw" title="bs:"><span class="Latn" lang="sh">Bosanski</span> (Bosnian)</a> • 
+<a href="https://br.wiktionary.org/wiki/" class="extiw" title="br:"><span class="Latn" lang="br">Brezhoneg</span> (Breton)</a> • 
+<a href="https://bg.wiktionary.org/wiki/" class="extiw" title="bg:"><span class="Cyrl" lang="bg">Български</span> (Bulgarian)</a> • 
+<a href="https://hr.wiktionary.org/wiki/" class="extiw" title="hr:"><span class="Latn" lang="sh">Hrvatski</span> (Croatian)</a> • 
+<a href="https://da.wiktionary.org/wiki/" class="extiw" title="da:"><span class="Latn" lang="da">Dansk</span> (Danish)</a> • 
+<a href="https://fj.wiktionary.org/wiki/" class="extiw" title="fj:"><span class="Latn" lang="fj">Na Vosa Vakaviti</span> (Fijian)</a> • 
+<a href="https://gl.wiktionary.org/wiki/" class="extiw" title="gl:"><span class="Latn" lang="gl">Galego</span> (Galician)</a> • 
+<a href="https://ka.wiktionary.org/wiki/" class="extiw" title="ka:"><span class="Geor" lang="ka">ქართული</span> (Georgian)</a> • 
+<a href="https://gor.wiktionary.org/wiki/" class="extiw" title="gor:"><span class="Latn" lang="gor">Bahasa Hulontalo</span> (Gorontalo)</a> • 
+<a href="https://he.wiktionary.org/wiki/" class="extiw" title="he:"><span class="Hebr" lang="he">עברית</span> (Hebrew)</a> • 
+<a href="https://is.wiktionary.org/wiki/" class="extiw" title="is:"><span class="Latn" lang="is">Íslenska</span> (Icelandic)</a> • 
+<a href="https://jv.wiktionary.org/wiki/" class="extiw" title="jv:"><span class="Latn" lang="jv">Basa Jawa</span> (Javanese)</a> • 
+<a href="https://kbd.wiktionary.org/wiki/" class="extiw" title="kbd:"><span class="Cyrl" lang="kbd">адыгэбзэ</span> (Kabardian)</a> • 
+<a href="https://kk.wiktionary.org/wiki/" class="extiw" title="kk:"><span class="Cyrl" lang="kk">қазақша</span> (Kazakh)</a> • 
+<a href="https://ky.wiktionary.org/wiki/" class="extiw" title="ky:"><span class="Cyrl" lang="ky">Кыргызча</span> (Kyrgyz)</a> • 
+<a href="https://lo.wiktionary.org/wiki/" class="extiw" title="lo:"><span class="Laoo" lang="lo">ລາວ</span> (Lao)</a> • 
+<a href="https://la.wiktionary.org/wiki/" class="extiw" title="la:"><span class="Latn" lang="la">Latina</span> (Latin)</a> • 
+<a href="https://lv.wiktionary.org/wiki/" class="extiw" title="lv:"><span class="Latn" lang="lv">Latviešu</span> (Latvian)</a> • 
+<a href="https://lmo.wiktionary.org/wiki/" class="extiw" title="lmo:"><span class="Latn" lang="la">Lombard</span></a> • 
+<a href="https://nds.wiktionary.org/wiki/" class="extiw" title="nds:"><span class="Latn" lang="nds">Plattdüütsch</span> (Low Saxon)</a> • 
+<a href="https://lb.wiktionary.org/wiki/" class="extiw" title="lb:"><span class="Latn" lang="lb">Lëtzebuergesch</span> (Luxembourgish)</a> • 
+<a href="https://ms.wiktionary.org/wiki/" class="extiw" title="ms:"><span class="Latn" lang="ms">Bahasa Melayu</span> (Malay)</a> • 
+<a href="https://zh-min-nan.wiktionary.org/wiki/" class="extiw" title="zh-min-nan:"><span class="Latn" lang="nan">Bân-lâm-gú</span> (Min Nan)</a> • 
+<a href="https://min.wiktionary.org/wiki/" class="extiw" title="min:"><span class="Latn" lang="min">Minangkabau</span></a> • 
+<a href="https://mnw.wiktionary.org/wiki/" class="extiw" title="mnw:"><span class="Mymr" lang="mnw">ဘာသာမန်</span> (Mon)</a> • 
+<a href="https://nn.wiktionary.org/wiki/" class="extiw" title="nn:"><span class="Latn" lang="nn">Nynorsk</span> (Norwegian)</a> • 
+<a href="https://oc.wiktionary.org/wiki/" class="extiw" title="oc:"><span class="Latn" lang="oc">Occitan</span></a> • 
+<a href="https://om.wiktionary.org/wiki/" class="extiw" title="om:"><span class="Latn" lang="om">Oromoo</span> (Oromo)</a> • 
+<a href="https://ps.wiktionary.org/wiki/" class="extiw" title="ps:"><span class="Arab ps-Arab" lang="ps">پښتو</span> (Pashto)</a> • 
+<a href="https://pa.wiktionary.org/wiki/" class="extiw" title="pa:"><span class="Guru" lang="pa">ਪੰਜਾਬੀ</span> (Punjabi)</a> • 
+<a href="https://sg.wiktionary.org/wiki/" class="extiw" title="sg:"><span class="Latn" lang="sg">Sängö</span></a> • 
+<a href="https://shn.wiktionary.org/wiki/" class="extiw" title="shn:"><span class="Mymr" lang="shn">လိၵ်ႈတႆ</span> (Shan)</a> • 
+<a href="https://scn.wiktionary.org/wiki/" class="extiw" title="scn:"><span class="Latn" lang="scn">Sicilianu</span> (Sicilian)</a> • 
+<a href="https://simple.wiktionary.org/wiki/" class="extiw" title="simple:">Simple English</a> • 
+<a href="https://sk.wiktionary.org/wiki/" class="extiw" title="sk:"><span class="Latn" lang="sk">Slovenčina</span> (Slovak)</a> • 
+<a href="https://sl.wiktionary.org/wiki/" class="extiw" title="sl:"><span class="Latn" lang="sl">Slovenščina</span> (Slovene)</a> • 
+<a href="https://sw.wiktionary.org/wiki/" class="extiw" title="sw:"><span class="Latn" lang="sw">Kiswahili</span> (Swahili)</a> • 
+<a href="https://tl.wiktionary.org/wiki/" class="extiw" title="tl:"><span class="Latn" lang="tl">Tagalog</span></a> • 
+<a href="https://tg.wiktionary.org/wiki/" class="extiw" title="tg:"><span class="Cyrl" lang="tg">Тоҷикӣ</span> (Tajik)</a> • 
+<a href="https://uk.wiktionary.org/wiki/" class="extiw" title="uk:"><span class="Cyrl" lang="uk">Українська</span> (Ukrainian)</a> • 
+<a href="https://ur.wiktionary.org/wiki/" class="extiw" title="ur:"><span class="Arab ur-Arab" lang="ur">اردو</span> (Urdu)</a> • 
+<a href="https://vo.wiktionary.org/wiki/" class="extiw" title="vo:"><span class="Latn" lang="vo">Volapük</span></a> • 
+<a href="https://wa.wiktionary.org/wiki/" class="extiw" title="wa:"><span class="Latn" lang="wa">Walon</span> (Walloon)</a> • 
+<a href="https://cy.wiktionary.org/wiki/" class="extiw" title="cy:"><span class="Latn" lang="cy">Cymraeg</span> (Welsh)</a> • 
+<a href="https://fy.wiktionary.org/wiki/" class="extiw" title="fy:"><span class="Latn" lang="fy">Frysk</span> (West Frisian)</a>
+</p>
+<hr style="margin-top:0" />
+<p><strong style="font-weight:normal;">1,000+: </strong>
+<a href="https://an.wiktionary.org/wiki/" class="extiw" title="an:"><span class="Latn" lang="an">Aragonés</span> (Aragonese)</a> • 
+<a href="https://roa-rup.wiktionary.org/wiki/" class="extiw" title="roa-rup:"><span class="Latn" lang="rup">Armãneashce</span> (Aromanian)</a> • 
+<a href="https://bjn.wiktionary.org/wiki/" class="extiw" title="bjn:"><span class="Latn" lang="bjn">Banjar</span></a> • 
+<a href="https://btm.wiktionary.org/wiki/" class="extiw" title="btm:"><span class="Latn" lang="btm">Batak Mandailing</span></a> • 
+<a href="https://be.wiktionary.org/wiki/" class="extiw" title="be:"><span class="Cyrl" lang="be">Беларуская</span> (Belarusian)</a> • 
+<a href="https://bcl.wiktionary.org/wiki/" class="extiw" title="bcl:"><span class="Latn" lang="bcl">Bikol</span></a> • 
+<a href="https://yue.wiktionary.org/wiki/" class="extiw" title="zh-yue:"><span class="Hant" lang="yue">粵語</span> (Cantonese)</a> • 
+<a href="https://ckb.wiktionary.org/wiki/" class="extiw" title="ckb:"><span class="Arab ku-Arab" lang="ckb">کوردی</span> (Central Kurdish)</a> • 
+<a href="https://co.wiktionary.org/wiki/" class="extiw" title="co:"><span class="Latn" lang="co">Corsu</span> (Corsican)</a> • 
+<a href="https://fo.wiktionary.org/wiki/" class="extiw" title="fo:"><span class="Latn" lang="fo">Føroyskt</span> (Faroese)</a> • 
+<a href="https://hif.wiktionary.org/wiki/" class="extiw" title="hif:"><span class="Latn" lang="hif">Fiji Hindi</span></a> • 
+<a href="https://gom.wiktionary.org/wiki/" class="extiw" title="gom:"><span class="Deva" lang="kok">गोंयची कोंकणी</span> / <span class="Latn" lang="kok">Gõychi Konknni</span> (Goan Konkani)</a> • 
+<a href="https://kl.wiktionary.org/wiki/" class="extiw" title="kl:"><span class="Latn" lang="kl">Kalaallisut</span> (Greenlandic)</a> • 
+<a href="https://gn.wiktionary.org/wiki/" class="extiw" title="gn:"><span class="Latn" lang="gn">Avañe'ẽ</span> (Guaraní)</a> • 
+<a href="https://guw.wiktionary.org/wiki/" class="extiw" title="guw:"><span class="Latn" lang="guw">gungbe</span> (Gun)</a> • 
+<a href="https://ha.wiktionary.org/wiki/" class="extiw" title="ha:"><span class="Latn" lang="ha">Hausa</span> / <span class="Arab" lang="ha">هَوُسَ</span> (Hausa)</a> • 
+<a href="https://ia.wiktionary.org/wiki/" class="extiw" title="ia:"><span class="Latn" lang="ia">Interlingua</span></a> • 
+<a href="https://ie.wiktionary.org/wiki/" class="extiw" title="ie:"><span class="Latn" lang="ie">Interlingue</span></a> • 
+<a href="https://ga.wiktionary.org/wiki/" class="extiw" title="ga:"><span class="Latn" lang="ga">Gaeilge</span> (Irish)</a> • 
+<a href="https://ks.wiktionary.org/wiki/" class="extiw" title="ks:"><span class="Arab ks-Arab" lang="ks">كٲشُر</span> (Kashmiri)</a> • 
+<a href="https://csb.wiktionary.org/wiki/" class="extiw" title="csb:"><span class="Latn" lang="csb">Kaszëbsczi</span> (Kashubian)</a> • 
+<a href="https://km.wiktionary.org/wiki/" class="extiw" title="km:"><span class="Khmr" lang="km">ភាសាខ្មែរ</span> (Khmer)</a> • 
+<a href="https://jbo.wiktionary.org/wiki/" class="extiw" title="jbo:"><span class="Latn" lang="jbo">la .lojban.</span> (Lojban)</a> • 
+<a href="https://mk.wiktionary.org/wiki/" class="extiw" title="mk:"><span class="Cyrl" lang="mk">Македонски</span> (Macedonian)</a> • 
+<a href="https://mt.wiktionary.org/wiki/" class="extiw" title="mt:"><span class="Latn" lang="mt">Malti</span> (Maltese)</a> • 
+<a href="https://mni.wiktionary.org/wiki/" class="extiw" title="mni:"><span class="Mtei" lang="mni">ꯃꯤꯇꯩ ꯂꯣꯟ</span> (Manipuri)</a> • 
+<a href="https://mi.wiktionary.org/wiki/" class="extiw" title="mi:"><span class="Latn" lang="mi">Māori</span></a> • 
+<a href="https://mr.wiktionary.org/wiki/" class="extiw" title="mr:"><span class="Deva" lang="mr">मराठी</span> (Marathi)</a> • 
+<a href="https://mn.wiktionary.org/wiki/" class="extiw" title="mn:"><span class="Cyrl" lang="mn">Монгол</span> (Mongolian)</a> • 
+<a href="https://nah.wiktionary.org/wiki/" class="extiw" title="nah:"><span class="Latn" lang="nah">Nahuatl</span></a> • 
+<a href="https://nia.wiktionary.org/wiki/" class="extiw" title="nia:"><span class="Latn" lang="nia">Li Niha</span> (Nias)</a> • 
+<a href="https://ang.wiktionary.org/wiki/" class="extiw" title="ang:"><span class="Latn" lang="ang">Ænglisc</span> (Old English)</a> • 
+<a href="https://blk.wiktionary.org/wiki/" class="extiw" title="blk:"><span class="Mymr" lang="blk">ပအိုဝ်ႏဘာႏသာႏ</span> (Pa'O)</a> • 
+<a href="https://sm.wiktionary.org/wiki/" class="extiw" title="sm:"><span class="Latn" lang="sm">Gagana Samoa</span> (Samoan)</a> • 
+<a href="https://sa.wiktionary.org/wiki/" class="extiw" title="sa:"><span class="Deva" lang="sa">संस्कृतम्</span> (Sanskrit)</a> • 
+<a href="https://gd.wiktionary.org/wiki/" class="extiw" title="gd:"><span class="Latn" lang="gd">Gàidhlig</span> (Scottish Gaelic)</a> • 
+<a href="https://shy.wiktionary.org/wiki/" class="extiw" title="shy:"><span class="Latn" lang="shy">Tacawit</span> (Shawiya)</a> • 
+<a href="https://sd.wiktionary.org/wiki/" class="extiw" title="sd:"><span class="Arab sd-Arab" lang="sd">سنڌي</span> (Sindhi)</a> • 
+<a href="https://si.wiktionary.org/wiki/" class="extiw" title="si:"><span class="Sinh" lang="si">සිංහල</span> (Sinhalese)</a> • 
+<a href="https://so.wiktionary.org/wiki/" class="extiw" title="so:"><span class="Latn" lang="so">Soomaaliga</span> (Somali)</a> • 
+<a href="https://st.wiktionary.org/wiki/" class="extiw" title="st:"><span class="Latn" lang="st">seSotho</span> (Southern Sotho)</a> • 
+<a href="https://su.wiktionary.org/wiki/" class="extiw" title="su:"><span class="Latn" lang="su">Basa Sunda</span> (Sundanese)</a> • 
+<a href="https://tt.wiktionary.org/wiki/" class="extiw" title="tt:"><span class="Latn" lang="tt">Tatarça</span> / <span class="Cyrl" lang="tt">Татарча</span> (Tatar)</a> • 
+<a href="https://tk.wiktionary.org/wiki/" class="extiw" title="tk:"><span class="Arab" lang="tk">تركمن</span> / <span class="Cyrl" lang="tk">Туркмен</span> (Turkmen)</a> • 
+<a href="https://hsb.wiktionary.org/wiki/" class="extiw" title="hsb:"><span class="Latn" lang="hsb">Hornjoserbsce</span> (Upper Sorbian)</a> • 
+<a href="https://ug.wiktionary.org/wiki/" class="extiw" title="ug:"><span class="Latn" lang="ug">Uyghurche</span> / <span class="Arab ug-Arab" lang="ug">ئۇيغۇرچە</span> (Uyghur)</a> • 
+<a href="https://vec.wiktionary.org/wiki/" class="extiw" title="vec:"><span class="Latn" lang="vec">vèneto</span> (Venetian)</a> • 
+<a href="https://pnb.wiktionary.org/wiki/" class="extiw" title="pnb:"><span class="Arab pa-Arab" lang="pa">پنجابی</span> (Western Punjabi)</a> • 
+<a href="https://wo.wiktionary.org/wiki/" class="extiw" title="wo:"><span class="Latn" lang="wo">Wollof</span> (Wolof)</a> • 
+<a href="https://diq.wiktionary.org/wiki/" class="extiw" title="diq:"><span class="Latn" lang="zza">Zazaki</span></a> • 
+<a href="https://zu.wiktionary.org/wiki/" class="extiw" title="zu:"><span class="Latn" lang="zu">isiZulu</span> (Zulu)</a>
+</p>
+<hr style="margin-top:0" />
+<p><span style="font-size:smaller;"><strong style="font-weight:normal;">100+: </strong>
+<a href="https://am.wiktionary.org/wiki/" class="extiw" title="am:"><span class="Ethi" lang="am">አማርኛ</span> (Amharic)</a> • 
+<a href="https://ay.wiktionary.org/wiki/" class="extiw" title="ay:"><span class="Latn" lang="ay">Aymara</span></a> • 
+<a href="https://chr.wiktionary.org/wiki/" class="extiw" title="chr:"><span class="Cher" lang="chr">ᏣᎳᎩ</span> (Cherokee)</a> • 
+<a href="https://kw.wiktionary.org/wiki/" class="extiw" title="kw:"><span class="Latn" lang="kw">Kernewek, Karnuack</span> (Cornish)</a> • 
+<a href="https://dv.wiktionary.org/wiki/" class="extiw" title="dv:"><span class="Thaa" lang="dv">ދިވެހިބަސް</span> (Divehi)</a> • 
+<a href="https://gu.wiktionary.org/wiki/" class="extiw" title="gu:"><span class="Gujr" lang="gu">ગુજરાતી</span> (Gujarati)</a> • 
+<a href="https://ig.wiktionary.org/wiki/" class="extiw" title="ig:"><span class="Latn" lang="ig">Ìgbo</span> (Igbo)</a> • 
+<a href="https://iu.wiktionary.org/wiki/" class="extiw" title="iu:"><span class="Cans" lang="iu">ᐃᓄᒃᑎᑐᑦ</span> (Inuktitut)</a> • 
+<a href="https://kaa.wiktionary.org/wiki/" class="extiw" title="kaa:"><span class="Latn" lang="kaa">Qaraqalpaqsha</span> (Kara-Kalpak)</a> • 
+<a href="https://rw.wiktionary.org/wiki/" class="extiw" title="rw:"><span class="Latn" lang="rw">Ikinyarwanda</span> (Kinyarwanda)</a> • 
+<a href="https://ln.wiktionary.org/wiki/" class="extiw" title="ln:"><span class="Latn" lang="ln">Lingala</span></a> • 
+<a href="https://gv.wiktionary.org/wiki/" class="extiw" title="gv:"><span class="Latn" lang="gv">Gaelg</span> (Manx)</a> • 
+<a href="https://na.wiktionary.org/wiki/" class="extiw" title="na:"><span class="Latn" lang="na">Dorerin Naoero</span> (Nauru)</a> • 
+<a href="https://ne.wiktionary.org/wiki/" class="extiw" title="ne:"><span class="Deva" lang="ne">नेपाली</span> (Nepali)</a> • 
+<a href="https://qu.wiktionary.org/wiki/" class="extiw" title="qu:"><span class="Latn" lang="qu">Runa Simi</span> (Quechua)</a> • 
+<a href="https://tn.wiktionary.org/wiki/" class="extiw" title="tn:"><span class="Latn" lang="tn">Setswana</span></a> • 
+<a href="https://ss.wiktionary.org/wiki/" class="extiw" title="ss:"><span class="Latn" lang="ss">SiSwati</span> (Swati)</a> • 
+<a href="https://ti.wiktionary.org/wiki/" class="extiw" title="ti:"><span class="Ethi" lang="ti">ትግርኛ</span> (Tigrinya)</a> • 
+<a href="https://tpi.wiktionary.org/wiki/" class="extiw" title="tpi:"><span class="Latn" lang="tpi">Tok Pisin</span></a> • 
+<a href="https://ts.wiktionary.org/wiki/" class="extiw" title="ts:"><span class="Latn" lang="ts">Xitsonga</span> (Tsonga)</a> • 
+<a href="https://kcg.wiktionary.org/wiki/" class="extiw" title="kcg:"><span class="Latn" lang="kcg">Tyap</span></a> • 
+<a href="https://yi.wiktionary.org/wiki/" class="extiw" title="yi:"><span class="Hebr" lang="yi">ייִדיש</span> (Yiddish)</a>
+</span>
+</p>
+<hr style="margin-top:0;color:" />
+<div style="text-align:center;"><i><a href="https://meta.wikimedia.org/wiki/Wiktionary#List_of_Wiktionaries" class="extiw" title="meta:Wiktionary">Meta list</a></i> + <a class="external text" href="https://www.wiktionary.org/">All Wiktionaries</a></div>
+</div>
+</td></tr>
+<tr>
+<td colspan="2" class="main-page-body-text" style="padding:6px;margin-top:10px;">
+<div class="mw-heading mw-heading3"><h3 id="Other_Wikimedia_projects" data-mw-thread-id="h-Other_Wikimedia_projects"><span data-mw-comment-start="" id="h-Other_Wikimedia_projects"></span>Other Wikimedia projects<span data-mw-comment-end="h-Other_Wikimedia_projects"></span></h3></div>
+<p>Wiktionary is run by the <a href="https://foundation.wikimedia.org/wiki/" class="extiw" title="foundation:">Wikimedia Foundation</a>, a non-profit foundation headquartered in San Francisco, California, USA. Wikimedia operates several other <a href="/wiki/multilingual" title="multilingual">multilingual</a> and <a href="https://en.wikipedia.org/wiki/Wikipedia:Copyrights" class="extiw" title="w:Wikipedia:Copyrights">open-content</a> sister wiki projects:
+</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(18em, 1fr));">
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://en.wikipedia.org/wiki/Main_Page" title="w:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/35px-Wikipedia-logo.png" decoding="async" width="35" height="35" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/53px-Wikipedia-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/70px-Wikipedia-logo.png 2x" data-file-width="200" data-file-height="200" /></a></span></div>
+<p><a href="https://en.wikipedia.org/wiki/Main_Page" class="extiw" title="w:Main Page"><b>Wikipedia</b></a><br />The free encyclopedia
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://en.wikibooks.org/wiki/Main_Page" title="wikibooks:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wikibooks-logo.png/40px-Wikibooks-logo.png" decoding="async" width="35" height="35" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wikibooks-logo.png/60px-Wikibooks-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wikibooks-logo.png/120px-Wikibooks-logo.png 2x" data-file-width="135" data-file-height="135" /></a></span></div>
+<p><a href="https://en.wikibooks.org/wiki/Main_Page" class="extiw" title="wikibooks:Main Page"><b>Wikibooks</b></a><br />Free textbooks and manuals
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:10px"><span typeof="mw:File"><a href="https://en.wikinews.org/wiki/Main_Page" title="n:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/40px-Wikinews-logo.png" decoding="async" width="35" height="18" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/60px-Wikinews-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/120px-Wikinews-logo.png 2x" data-file-width="800" data-file-height="415" /></a></span></div>
+<p><a href="https://en.wikinews.org/wiki/Main_Page" class="extiw" title="wikinews:Main Page"><b>Wikinews</b></a><br />Free-content news
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://en.wikisource.org/wiki/Main_Page" title="wikisource:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/35px-Wikisource-logo.png" decoding="async" width="35" height="37" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/53px-Wikisource-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/70px-Wikisource-logo.png 2x" data-file-width="409" data-file-height="431" /></a></span></div>
+<p><a href="https://en.wikisource.org/wiki/Main_Page" class="extiw" title="wikisource:Main Page"><b>Wikisource</b></a><br />The free library
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://species.wikimedia.org/wiki/Main_Page" title="wikispecies:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wikispecies-logo.png/35px-Wikispecies-logo.png" decoding="async" width="35" height="41" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wikispecies-logo.png/53px-Wikispecies-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wikispecies-logo.png/70px-Wikispecies-logo.png 2x" data-file-width="913" data-file-height="1070" /></a></span></div>
+<p><a href="https://species.wikimedia.org/wiki/Main_Page" class="extiw" title="wikispecies:Main Page"><b>Wikispecies</b></a><br />Directory of species
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://en.wikiquote.org/wiki/Main_Page" title="wikiquote:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wikiquote-logo.png/40px-Wikiquote-logo.png" decoding="async" width="35" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wikiquote-logo.png/60px-Wikiquote-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wikiquote-logo.png/70px-Wikiquote-logo.png 2x" data-file-width="95" data-file-height="109" /></a></span></div>
+<p><a href="https://en.wikiquote.org/wiki/Main_Page" class="extiw" title="wikiquote:Main Page"><b>Wikiquote</b></a><br />Collection of quotations
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Main_Page" title="commons:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Commons-logo.png/35px-Commons-logo.png" decoding="async" width="35" height="47" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Commons-logo.png/53px-Commons-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Commons-logo.png/70px-Commons-logo.png 2x" data-file-width="114" data-file-height="153" /></a></span></div>
+<p><a href="https://commons.wikimedia.org/wiki/Main_Page" class="extiw" title="commons:Main Page"><b>Commons</b></a><br />Shared media repository
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://meta.wikimedia.org/wiki/Main_Page" title="meta:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png" decoding="async" width="35" height="35" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/60px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/120px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></span></div>
+<p><a href="https://meta.wikimedia.org/wiki/Main_Page" class="extiw" title="meta:Main Page"><b>Meta-Wiki</b></a><br />Wikimedia project coordination
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page" title="v:Wikiversity:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/35px-Wikiversity_logo_2017.svg.png" decoding="async" width="35" height="29" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/53px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/70px-Wikiversity_logo_2017.svg.png 2x" data-file-width="626" data-file-height="512" /></a></span></div>
+<p><b><a href="https://en.wikiversity.org/wiki/" class="extiw" title="v:">Wikiversity</a></b><br />Free learning resources
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://en.wikivoyage.org/wiki/Wikivoyage:Main_Page" title="voy:Wikivoyage:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="35" height="35" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></span></div>
+<p><b><a href="https://en.wikivoyage.org/wiki/" class="extiw" title="voy:">Wikivoyage</a></b><br />Travel information
+</p>
+</div>
+<div style="padding-right: 1em">
+<div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px"><span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="wikidata:Wikidata:Main Page"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/35px-Wikidata-logo.svg.png" decoding="async" width="35" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/53px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/70px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span></div>
+<p><b><a href="https://www.wikidata.org/wiki/" class="extiw" title="wikidata:">Wikidata</a></b><br />The free knowledge base
+</p>
+</div></div>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐75687f9f4b‐qm8dh
+Cached time: 20250324055612
+Cache expiry: 3600
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, no‐toc]
+DiscussionTools time usage: 0.030 seconds
+CPU time usage: 0.993 seconds
+Real time usage: 1.240 seconds
+Preprocessor visited node count: 2286/1000000
+Post‐expand include size: 38683/2097152 bytes
+Template argument size: 2256/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2131/5000000 bytes
+Lua time usage: 0.717/10.000 seconds
+Lua memory usage: 20898413/104857600 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1056.820      1 -total
+ 56.84%  600.664    174 Template:lang
+ 20.41%  215.740      1 Template:FWOTD_main
+ 19.73%  208.507      1 Wiktionary:Foreign_Word_of_the_Day/2025/March_24
+ 19.38%  204.814      1 Template:FWOTD
+ 18.58%  196.381      1 Wiktionary:Word_of_the_day/2025/March_24
+ 17.96%  189.790      1 Template:WOTD
+ 17.34%  183.298      1 Template:head
+ 15.57%  164.532      1 Template:lb
+  1.45%   15.353      1 Template:m
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:3644019:|#|:idhash:canonical and timestamp 20250324055612 and revision id 84117568. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=Wiktionary:Main_Page&amp;oldid=84117568">https://en.wiktionary.org/w/index.php?title=Wiktionary:Main_Page&amp;oldid=84117568</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Wiktionary" title="Category:Wiktionary">Wiktionary</a></li></ul></div></div>
+						
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 176 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-176" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">176 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-kbd mw-list-item"><a href="https://kbd.wiktionary.org/wiki/" title="Kabardian" lang="kbd" hreflang="kbd" data-title="" data-language-autonym="Адыгэбзэ" data-language-local-name="Kabardian" class="interlanguage-link-target"><span>Адыгэбзэ</span></a></li><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wiktionary.org/wiki/" title="Afrikaans" lang="af" hreflang="af" data-title="" data-language-autonym="Afrikaans" data-language-local-name="Afrikaans" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wiktionary.org/wiki/%E1%8B%8B%E1%8A%93_%E1%8C%88%E1%8C%BD" title="ዋና ገጽ – Amharic" lang="am" hreflang="am" data-title="ዋና ገጽ" data-language-autonym="አማርኛ" data-language-local-name="Amharic" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-ang mw-list-item"><a href="https://ang.wiktionary.org/wiki/H%C4%93afodtramet" title="Hēafodtramet – Old English" lang="ang" hreflang="ang" data-title="Hēafodtramet" data-language-autonym="Ænglisc" data-language-local-name="Old English" class="interlanguage-link-target"><span>Ænglisc</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wiktionary.org/wiki/" title="Arabic" lang="ar" hreflang="ar" data-title="" data-language-autonym="العربية" data-language-local-name="Arabic" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wiktionary.org/wiki/Portalada" title="Portalada – Aragonese" lang="an" hreflang="an" data-title="Portalada" data-language-autonym="Aragonés" data-language-local-name="Aragonese" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-roa-rup mw-list-item"><a href="https://roa-rup.wiktionary.org/wiki/Prota_fr%C3%A3ndz%C3%A3" title="Prota frãndzã – Aromanian" lang="rup" hreflang="rup" data-title="Prota frãndzã" data-language-autonym="Armãneashti" data-language-local-name="Aromanian" class="interlanguage-link-target"><span>Armãneashti</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wiktionary.org/wiki/%E0%A6%AC%E0%A7%87%E0%A6%9F%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%A4" title="বেটুপাত – Assamese" lang="as" hreflang="as" data-title="বেটুপাত" data-language-autonym="অসমীয়া" data-language-local-name="Assamese" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wiktionary.org/wiki/" title="Asturian" lang="ast" hreflang="ast" data-title="" data-language-autonym="Asturianu" data-language-local-name="Asturian" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-gn mw-list-item"><a href="https://gn.wiktionary.org/wiki/Ape" title="Ape – Guarani" lang="gn" hreflang="gn" data-title="Ape" data-language-autonym="Avañe&#039;ẽ" data-language-local-name="Guarani" class="interlanguage-link-target"><span>Avañe&#039;ẽ</span></a></li><li class="interlanguage-link interwiki-ay mw-list-item"><a href="https://ay.wiktionary.org/wiki/Portada" title="Portada – Aymara" lang="ay" hreflang="ay" data-title="Portada" data-language-autonym="Aymar aru" data-language-local-name="Aymara" class="interlanguage-link-target"><span>Aymar aru</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wiktionary.org/wiki/" title="Azerbaijani" lang="az" hreflang="az" data-title="" data-language-autonym="Azərbaycanca" data-language-local-name="Azerbaijani" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wiktionary.org/wiki/" title="Bangla" lang="bn" hreflang="bn" data-title="" data-language-autonym="বাংলা" data-language-local-name="Bangla" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bjn mw-list-item"><a href="https://bjn.wiktionary.org/wiki/Laman_Tatambaian" title="Laman Tatambaian – Banjar" lang="bjn" hreflang="bjn" data-title="Laman Tatambaian" data-language-autonym="Banjar" data-language-local-name="Banjar" class="interlanguage-link-target"><span>Banjar</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wiktionary.org/wiki/" title="Minnan" lang="nan" hreflang="nan" data-title="" data-language-autonym="閩南語 / Bân-lâm-gú" data-language-local-name="Minnan" class="interlanguage-link-target"><span>閩南語 / Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wiktionary.org/wiki/%D0%93%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D0%B0" title="Галоўная старонка – Belarusian" lang="be" hreflang="be" data-title="Галоўная старонка" data-language-autonym="Беларуская" data-language-local-name="Belarusian" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wiktionary.org/wiki/Panginot_na_Pahina" title="Panginot na Pahina – Central Bikol" lang="bcl" hreflang="bcl" data-title="Panginot na Pahina" data-language-autonym="Bikol Central" data-language-local-name="Central Bikol" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wiktionary.org/wiki/" title="Bulgarian" lang="bg" hreflang="bg" data-title="" data-language-autonym="Български" data-language-local-name="Bulgarian" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wiktionary.org/wiki/" title="Bosnian" lang="bs" hreflang="bs" data-title="" data-language-autonym="Bosanski" data-language-local-name="Bosnian" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wiktionary.org/wiki/" title="Breton" lang="br" hreflang="br" data-title="" data-language-autonym="Brezhoneg" data-language-local-name="Breton" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wiktionary.org/wiki/" title="Catalan" lang="ca" hreflang="ca" data-title="" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wiktionary.org/wiki/" title="Czech" lang="cs" hreflang="cs" data-title="" data-language-autonym="Čeština" data-language-local-name="Czech" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-sn mw-list-item"><a href="https://sn.wiktionary.org/wiki/Peji_Rekutanga" title="Peji Rekutanga – Shona" lang="sn" hreflang="sn" data-title="Peji Rekutanga" data-language-autonym="ChiShona" data-language-local-name="Shona" class="interlanguage-link-target"><span>ChiShona</span></a></li><li class="interlanguage-link interwiki-co mw-list-item"><a href="https://co.wiktionary.org/wiki/Pagina_maestra" title="Pagina maestra – Corsican" lang="co" hreflang="co" data-title="Pagina maestra" data-language-autonym="Corsu" data-language-local-name="Corsican" class="interlanguage-link-target"><span>Corsu</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wiktionary.org/wiki/" title="Welsh" lang="cy" hreflang="cy" data-title="" data-language-autonym="Cymraeg" data-language-local-name="Welsh" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wiktionary.org/wiki/" title="Danish" lang="da" hreflang="da" data-title="" data-language-autonym="Dansk" data-language-local-name="Danish" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wiktionary.org/wiki/" title="German" lang="de" hreflang="de" data-title="" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-dv mw-list-item"><a href="https://dv.wiktionary.org/wiki/%DE%89%DE%A6%DE%87%DE%A8_%DE%9E%DE%A6%DE%8A%DE%B0%DE%99%DE%A7" title="މައި ޞަފްޙާ – Divehi" lang="dv" hreflang="dv" data-title="މައި ޞަފްޙާ" data-language-autonym="ދިވެހިބަސް" data-language-local-name="Divehi" class="interlanguage-link-target"><span>ދިވެހިބަސް</span></a></li><li class="interlanguage-link interwiki-mh mw-list-item"><a href="https://mh.wiktionary.org/wiki/Main_Page" title="Main Page – Marshallese" lang="mh" hreflang="mh" data-title="Main Page" data-language-autonym="Ebon" data-language-local-name="Marshallese" class="interlanguage-link-target"><span>Ebon</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wiktionary.org/wiki/" title="Estonian" lang="et" hreflang="et" data-title="" data-language-autonym="Eesti" data-language-local-name="Estonian" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wiktionary.org/wiki/" title="Greek" lang="el" hreflang="el" data-title="" data-language-autonym="Ελληνικά" data-language-local-name="Greek" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wiktionary.org/wiki/" title="Spanish" lang="es" hreflang="es" data-title="" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wiktionary.org/wiki/" title="Esperanto" lang="eo" hreflang="eo" data-title="" data-language-autonym="Esperanto" data-language-local-name="Esperanto" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wiktionary.org/wiki/" title="Basque" lang="eu" hreflang="eu" data-title="" data-language-autonym="Euskara" data-language-local-name="Basque" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wiktionary.org/wiki/" title="Persian" lang="fa" hreflang="fa" data-title="" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-hif mw-list-item"><a href="https://hif.wiktionary.org/wiki/Pahila_Panna" title="Pahila Panna – Fiji Hindi" lang="hif" hreflang="hif" data-title="Pahila Panna" data-language-autonym="Fiji Hindi" data-language-local-name="Fiji Hindi" class="interlanguage-link-target"><span>Fiji Hindi</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wiktionary.org/wiki/Wiktionary:Fors%C3%AD%C3%B0a" title="Wiktionary:Forsíða – Faroese" lang="fo" hreflang="fo" data-title="Wiktionary:Forsíða" data-language-autonym="Føroyskt" data-language-local-name="Faroese" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wiktionary.org/wiki/" title="French" lang="fr" hreflang="fr" data-title="" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wiktionary.org/wiki/" title="Western Frisian" lang="fy" hreflang="fy" data-title="" data-language-autonym="Frysk" data-language-local-name="Western Frisian" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wiktionary.org/wiki/Pr%C3%ADomhleathanach" title="Príomhleathanach – Irish" lang="ga" hreflang="ga" data-title="Príomhleathanach" data-language-autonym="Gaeilge" data-language-local-name="Irish" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gv mw-list-item"><a href="https://gv.wiktionary.org/wiki/Ard-ghuillag" title="Ard-ghuillag – Manx" lang="gv" hreflang="gv" data-title="Ard-ghuillag" data-language-autonym="Gaelg" data-language-local-name="Manx" class="interlanguage-link-target"><span>Gaelg</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wiktionary.org/wiki/Pr%C3%AComh-Dhuilleag" title="Prìomh-Dhuilleag – Scottish Gaelic" lang="gd" hreflang="gd" data-title="Prìomh-Dhuilleag" data-language-autonym="Gàidhlig" data-language-local-name="Scottish Gaelic" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wiktionary.org/wiki/" title="Galician" lang="gl" hreflang="gl" data-title="" data-language-autonym="Galego" data-language-local-name="Galician" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wiktionary.org/wiki/%E0%AA%AE%E0%AB%81%E0%AA%96%E0%AA%AA%E0%AB%83%E0%AA%B7%E0%AB%8D%E0%AA%A0" title="મુખપૃષ્ઠ – Gujarati" lang="gu" hreflang="gu" data-title="મુખપૃષ્ઠ" data-language-autonym="ગુજરાતી" data-language-local-name="Gujarati" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-gom mw-list-item"><a href="https://gom.wiktionary.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%B0%E0%A5%80:%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%87%E0%A4%B2_%E0%A4%AA%E0%A4%BE%E0%A4%A8" title="विक्शनरी:मुखेल पान – Goan Konkani" lang="gom" hreflang="gom" data-title="विक्शनरी:मुखेल पान" data-language-autonym="गोंयची कोंकणी / Gõychi Konknni" data-language-local-name="Goan Konkani" class="interlanguage-link-target"><span>गोंयची कोंकणी / Gõychi Konknni</span></a></li><li class="interlanguage-link interwiki-guw mw-list-item"><a href="https://guw.wiktionary.org/wiki/Wikiwez%E1%BA%B9hom%E1%BA%B9:Weda_Tangan" title="Wikiwezẹhomẹ:Weda Tangan – Gun" lang="guw" hreflang="guw" data-title="Wikiwezẹhomẹ:Weda Tangan" data-language-autonym="Gungbe" data-language-local-name="Gun" class="interlanguage-link-target"><span>Gungbe</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wiktionary.org/wiki/" title="Korean" lang="ko" hreflang="ko" data-title="" data-language-autonym="한국어" data-language-local-name="Korean" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ha mw-list-item"><a href="https://ha.wiktionary.org/wiki/Babban_shafi" title="Babban shafi – Hausa" lang="ha" hreflang="ha" data-title="Babban shafi" data-language-autonym="Hausa" data-language-local-name="Hausa" class="interlanguage-link-target"><span>Hausa</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wiktionary.org/wiki/" title="Armenian" lang="hy" hreflang="hy" data-title="" data-language-autonym="Հայերեն" data-language-local-name="Armenian" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wiktionary.org/wiki/" title="Hindi" lang="hi" hreflang="hi" data-title="" data-language-autonym="हिन्दी" data-language-local-name="Hindi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hsb mw-list-item"><a href="https://hsb.wiktionary.org/wiki/H%C5%82owna_strona" title="Hłowna strona – Upper Sorbian" lang="hsb" hreflang="hsb" data-title="Hłowna strona" data-language-autonym="Hornjoserbsce" data-language-local-name="Upper Sorbian" class="interlanguage-link-target"><span>Hornjoserbsce</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wiktionary.org/wiki/" title="Croatian" lang="hr" hreflang="hr" data-title="" data-language-autonym="Hrvatski" data-language-local-name="Croatian" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-gor mw-list-item"><a href="https://gor.wiktionary.org/wiki/" title="Gorontalo" lang="gor" hreflang="gor" data-title="" data-language-autonym="Bahasa Hulontalo" data-language-local-name="Gorontalo" class="interlanguage-link-target"><span>Bahasa Hulontalo</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wiktionary.org/wiki/" title="Ido" lang="io" hreflang="io" data-title="" data-language-autonym="Ido" data-language-local-name="Ido" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-ig mw-list-item"><a href="https://ig.wiktionary.org/wiki/Ihu_mb%E1%BB%A5" title="Ihu mbụ – Igbo" lang="ig" hreflang="ig" data-title="Ihu mbụ" data-language-autonym="Igbo" data-language-local-name="Igbo" class="interlanguage-link-target"><span>Igbo</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wiktionary.org/wiki/" title="Indonesian" lang="id" hreflang="id" data-title="" data-language-autonym="Bahasa Indonesia" data-language-local-name="Indonesian" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wiktionary.org/wiki/Pagina_principal" title="Pagina principal – Interlingua" lang="ia" hreflang="ia" data-title="Pagina principal" data-language-autonym="Interlingua" data-language-local-name="Interlingua" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-ie mw-list-item"><a href="https://ie.wiktionary.org/wiki/P%C3%A1gine_principal" title="Págine principal – Interlingue" lang="ie" hreflang="ie" data-title="Págine principal" data-language-autonym="Interlingue" data-language-local-name="Interlingue" class="interlanguage-link-target"><span>Interlingue</span></a></li><li class="interlanguage-link interwiki-iu mw-list-item"><a href="https://iu.wiktionary.org/wiki/%E1%90%8A%E1%92%A5%E1%96%85" title="ᐊᒥᖅ – Inuktitut" lang="iu" hreflang="iu" data-title="ᐊᒥᖅ" data-language-autonym="ᐃᓄᒃᑎᑐᑦ / inuktitut" data-language-local-name="Inuktitut" class="interlanguage-link-target"><span>ᐃᓄᒃᑎᑐᑦ / inuktitut</span></a></li><li class="interlanguage-link interwiki-ik mw-list-item"><a href="https://ik.wiktionary.org/wiki/Makpi%C4%A1aaq_Kanna" title="Makpiġaaq Kanna – Inupiaq" lang="ik" hreflang="ik" data-title="Makpiġaaq Kanna" data-language-autonym="Iñupiatun" data-language-local-name="Inupiaq" class="interlanguage-link-target"><span>Iñupiatun</span></a></li><li class="interlanguage-link interwiki-zu mw-list-item"><a href="https://zu.wiktionary.org/wiki/Ikhasi_Elikhulu" title="Ikhasi Elikhulu – Zulu" lang="zu" hreflang="zu" data-title="Ikhasi Elikhulu" data-language-autonym="IsiZulu" data-language-local-name="Zulu" class="interlanguage-link-target"><span>IsiZulu</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wiktionary.org/wiki/" title="Icelandic" lang="is" hreflang="is" data-title="" data-language-autonym="Íslenska" data-language-local-name="Icelandic" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wiktionary.org/wiki/" title="Italian" lang="it" hreflang="it" data-title="" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wiktionary.org/wiki/" title="Hebrew" lang="he" hreflang="he" data-title="" data-language-autonym="עברית" data-language-local-name="Hebrew" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wiktionary.org/wiki/" title="Javanese" lang="jv" hreflang="jv" data-title="" data-language-autonym="Jawa" data-language-local-name="Javanese" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-kl mw-list-item"><a href="https://kl.wiktionary.org/wiki/Saqqaa" title="Saqqaa – Kalaallisut" lang="kl" hreflang="kl" data-title="Saqqaa" data-language-autonym="Kalaallisut" data-language-local-name="Kalaallisut" class="interlanguage-link-target"><span>Kalaallisut</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wiktionary.org/wiki/" title="Kannada" lang="kn" hreflang="kn" data-title="" data-language-autonym="ಕನ್ನಡ" data-language-local-name="Kannada" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wiktionary.org/wiki/" title="Georgian" lang="ka" hreflang="ka" data-title="" data-language-autonym="ქართული" data-language-local-name="Georgian" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ks mw-list-item"><a href="https://ks.wiktionary.org/wiki/%D8%A7%D9%8E%DB%81%D9%8E%D9%85_%D8%B5%D9%8E%D9%81%DB%81%D9%95" title="اَہَم صَفہٕ – Kashmiri" lang="ks" hreflang="ks" data-title="اَہَم صَفہٕ" data-language-autonym="कॉशुर / کٲشُر" data-language-local-name="Kashmiri" class="interlanguage-link-target"><span>कॉशुर / کٲشُر</span></a></li><li class="interlanguage-link interwiki-csb mw-list-item"><a href="https://csb.wiktionary.org/wiki/Prz%C3%A9dn%C3%B4_starna" title="Przédnô starna – Kashubian" lang="csb" hreflang="csb" data-title="Przédnô starna" data-language-autonym="Kaszëbsczi" data-language-local-name="Kashubian" class="interlanguage-link-target"><span>Kaszëbsczi</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wiktionary.org/wiki/" title="Kazakh" lang="kk" hreflang="kk" data-title="" data-language-autonym="Қазақша" data-language-local-name="Kazakh" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kw mw-list-item"><a href="https://kw.wiktionary.org/wiki/Folen_dre" title="Folen dre – Cornish" lang="kw" hreflang="kw" data-title="Folen dre" data-language-autonym="Kernowek" data-language-local-name="Cornish" class="interlanguage-link-target"><span>Kernowek</span></a></li><li class="interlanguage-link interwiki-rw mw-list-item"><a href="https://rw.wiktionary.org/wiki/Main_Page" title="Main Page – Kinyarwanda" lang="rw" hreflang="rw" data-title="Main Page" data-language-autonym="Ikinyarwanda" data-language-local-name="Kinyarwanda" class="interlanguage-link-target"><span>Ikinyarwanda</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wiktionary.org/wiki/" title="Swahili" lang="sw" hreflang="sw" data-title="" data-language-autonym="Kiswahili" data-language-local-name="Swahili" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wiktionary.org/wiki/" title="Kurdish" lang="ku" hreflang="ku" data-title="" data-language-autonym="Kurdî" data-language-local-name="Kurdish" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wiktionary.org/wiki/" title="Kyrgyz" lang="ky" hreflang="ky" data-title="" data-language-autonym="Кыргызча" data-language-local-name="Kyrgyz" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-lo mw-list-item"><a href="https://lo.wiktionary.org/wiki/" title="Lao" lang="lo" hreflang="lo" data-title="" data-language-autonym="ລາວ" data-language-local-name="Lao" class="interlanguage-link-target"><span>ລາວ</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wiktionary.org/wiki/" title="Latin" lang="la" hreflang="la" data-title="" data-language-autonym="Latina" data-language-local-name="Latin" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wiktionary.org/wiki/" title="Latvian" lang="lv" hreflang="lv" data-title="" data-language-autonym="Latviešu" data-language-local-name="Latvian" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wiktionary.org/wiki/" title="Luxembourgish" lang="lb" hreflang="lb" data-title="" data-language-autonym="Lëtzebuergesch" data-language-local-name="Luxembourgish" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wiktionary.org/wiki/" title="Lithuanian" lang="lt" hreflang="lt" data-title="" data-language-autonym="Lietuvių" data-language-local-name="Lithuanian" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-nia mw-list-item"><a href="https://nia.wiktionary.org/wiki/Wiktionary:Olayama" title="Wiktionary:Olayama – Nias" lang="nia" hreflang="nia" data-title="Wiktionary:Olayama" data-language-autonym="Li Niha" data-language-local-name="Nias" class="interlanguage-link-target"><span>Li Niha</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wiktionary.org/wiki/" title="Limburgish" lang="li" hreflang="li" data-title="" data-language-autonym="Limburgs" data-language-local-name="Limburgish" class="interlanguage-link-target"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-ln mw-list-item"><a href="https://ln.wiktionary.org/wiki/Lok%C3%A1s%C3%A1_ya_libos%C3%B3" title="Lokásá ya libosó – Lingala" lang="ln" hreflang="ln" data-title="Lokásá ya libosó" data-language-autonym="Lingála" data-language-local-name="Lingala" class="interlanguage-link-target"><span>Lingála</span></a></li><li class="interlanguage-link interwiki-jbo mw-list-item"><a href="https://jbo.wiktionary.org/wiki/ralju_ckupau" title="ralju ckupau – Lojban" lang="jbo" hreflang="jbo" data-title="ralju ckupau" data-language-autonym="La .lojban." data-language-local-name="Lojban" class="interlanguage-link-target"><span>La .lojban.</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wiktionary.org/wiki/" title="Lombard" lang="lmo" hreflang="lmo" data-title="" data-language-autonym="Lombard" data-language-local-name="Lombard" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wiktionary.org/wiki/" title="Hungarian" lang="hu" hreflang="hu" data-title="" data-language-autonym="Magyar" data-language-local-name="Hungarian" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mad mw-list-item"><a href="https://mad.wiktionary.org/wiki/Wikikamus:Tan%C3%A8yan" title="Wikikamus:Tanèyan – Madurese" lang="mad" hreflang="mad" data-title="Wikikamus:Tanèyan" data-language-autonym="Madhurâ" data-language-local-name="Madurese" class="interlanguage-link-target"><span>Madhurâ</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wiktionary.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Главна страница – Macedonian" lang="mk" hreflang="mk" data-title="Главна страница" data-language-autonym="Македонски" data-language-local-name="Macedonian" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wiktionary.org/wiki/" title="Malagasy" lang="mg" hreflang="mg" data-title="" data-language-autonym="Malagasy" data-language-local-name="Malagasy" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wiktionary.org/wiki/" title="Malayalam" lang="ml" hreflang="ml" data-title="" data-language-autonym="മലയാളം" data-language-local-name="Malayalam" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mt mw-list-item"><a href="https://mt.wiktionary.org/wiki/Il-Pa%C4%A1na_prin%C4%8Bipali" title="Il-Paġna prinċipali – Maltese" lang="mt" hreflang="mt" data-title="Il-Paġna prinċipali" data-language-autonym="Malti" data-language-local-name="Maltese" class="interlanguage-link-target"><span>Malti</span></a></li><li class="interlanguage-link interwiki-mi mw-list-item"><a href="https://mi.wiktionary.org/wiki/Hau_K%C4%81inga" title="Hau Kāinga – Māori" lang="mi" hreflang="mi" data-title="Hau Kāinga" data-language-autonym="Māori" data-language-local-name="Māori" class="interlanguage-link-target"><span>Māori</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wiktionary.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0" title="मुखपृष्ठ – Marathi" lang="mr" hreflang="mr" data-title="मुखपृष्ठ" data-language-autonym="मराठी" data-language-local-name="Marathi" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-mnw mw-list-item"><a href="https://mnw.wiktionary.org/wiki/" title="Mon" lang="mnw" hreflang="mnw" data-title="" data-language-autonym="ဘာသာမန်" data-language-local-name="Mon" class="interlanguage-link-target"><span>ဘာသာမန်</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wiktionary.org/wiki/" title="Malay" lang="ms" hreflang="ms" data-title="" data-language-autonym="Bahasa Melayu" data-language-local-name="Malay" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-mni mw-list-item"><a href="https://mni.wiktionary.org/wiki/%EA%AF%83%EA%AF%94%EA%AF%A8%EA%AF%91%EA%AF%A3%EA%AF%8F%EA%AF%95_%EA%AF%82%EA%AF%83%EA%AF%A5%EA%AF%8F" title="ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ – Manipuri" lang="mni" hreflang="mni" data-title="ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ" data-language-autonym="ꯃꯤꯇꯩ ꯂꯣꯟ" data-language-local-name="Manipuri" class="interlanguage-link-target"><span>ꯃꯤꯇꯩ ꯂꯣꯟ</span></a></li><li class="interlanguage-link interwiki-min mw-list-item"><a href="https://min.wiktionary.org/wiki/" title="Minangkabau" lang="min" hreflang="min" data-title="" data-language-autonym="Minangkabau" data-language-local-name="Minangkabau" class="interlanguage-link-target"><span>Minangkabau</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wiktionary.org/wiki/%D0%9D%D2%AF%D2%AF%D1%80_%D1%85%D1%83%D1%83%D0%B4%D0%B0%D1%81" title="Нүүр хуудас – Mongolian" lang="mn" hreflang="mn" data-title="Нүүр хуудас" data-language-autonym="Монгол" data-language-local-name="Mongolian" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wiktionary.org/wiki/" title="Burmese" lang="my" hreflang="my" data-title="" data-language-autonym="မြန်မာဘာသာ" data-language-local-name="Burmese" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nah mw-list-item"><a href="https://nah.wiktionary.org/wiki/Pewalistli" title="Pewalistli – Nahuatl" lang="nah" hreflang="nah" data-title="Pewalistli" data-language-autonym="Nāhuatl" data-language-local-name="Nahuatl" class="interlanguage-link-target"><span>Nāhuatl</span></a></li><li class="interlanguage-link interwiki-na mw-list-item"><a href="https://na.wiktionary.org/wiki/Bwiema_peij" title="Bwiema peij – Nauru" lang="na" hreflang="na" data-title="Bwiema peij" data-language-autonym="Dorerin Naoero" data-language-local-name="Nauru" class="interlanguage-link-target"><span>Dorerin Naoero</span></a></li><li class="interlanguage-link interwiki-fj mw-list-item"><a href="https://fj.wiktionary.org/wiki/" title="Fijian" lang="fj" hreflang="fj" data-title="" data-language-autonym="Na Vosa Vakaviti" data-language-local-name="Fijian" class="interlanguage-link-target"><span>Na Vosa Vakaviti</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wiktionary.org/wiki/" title="Dutch" lang="nl" hreflang="nl" data-title="" data-language-autonym="Nederlands" data-language-local-name="Dutch" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wiktionary.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%A8%E0%A4%B0%E0%A5%80:%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0" title="विक्सनरी:मुख्य पृष्ठ – Nepali" lang="ne" hreflang="ne" data-title="विक्सनरी:मुख्य पृष्ठ" data-language-autonym="नेपाली" data-language-local-name="Nepali" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wiktionary.org/wiki/" title="Japanese" lang="ja" hreflang="ja" data-title="" data-language-autonym="日本語" data-language-local-name="Japanese" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wiktionary.org/wiki/" title="Norwegian" lang="no" hreflang="no" data-title="" data-language-autonym="Norsk" data-language-local-name="Norwegian" class="interlanguage-link-target"><span>Norsk</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wiktionary.org/wiki/" title="Norwegian Nynorsk" lang="nn" hreflang="nn" data-title="" data-language-autonym="Norsk nynorsk" data-language-local-name="Norwegian Nynorsk" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wiktionary.org/wiki/" title="Occitan" lang="oc" hreflang="oc" data-title="" data-language-autonym="Occitan" data-language-local-name="Occitan" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wiktionary.org/wiki/" title="Odia" lang="or" hreflang="or" data-title="" data-language-autonym="ଓଡ଼ିଆ" data-language-local-name="Odia" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-om mw-list-item"><a href="https://om.wiktionary.org/wiki/" title="Oromo" lang="om" hreflang="om" data-title="" data-language-autonym="Oromoo" data-language-local-name="Oromo" class="interlanguage-link-target"><span>Oromoo</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wiktionary.org/wiki/" title="Uzbek" lang="uz" hreflang="uz" data-title="" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="Uzbek" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wiktionary.org/wiki/" title="Punjabi" lang="pa" hreflang="pa" data-title="" data-language-autonym="ਪੰਜਾਬੀ" data-language-local-name="Punjabi" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wiktionary.org/wiki/%D9%85%DA%A9%DA%BE_%D8%B5%D9%81%D8%AD%DB%81" title="مکھ صفحہ – Western Punjabi" lang="pnb" hreflang="pnb" data-title="مکھ صفحہ" data-language-autonym="پنجابی" data-language-local-name="Western Punjabi" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-blk mw-list-item"><a href="https://blk.wiktionary.org/wiki/%E1%80%9D%E1%80%AD%E1%80%85%E1%80%BA%E1%80%9E%E1%80%AD%E1%80%89%E1%80%BA%E1%80%94%E1%80%9B%E1%80%AE:%E1%80%A1%E1%80%93%E1%80%AD%E1%80%80%E1%80%9C%E1%80%AD%E1%80%90%E1%80%BA%E1%80%99%E1%80%B2%E1%80%B7%E1%80%84%E1%80%AB" title="ဝိစ်သိဉ်နရီ:အဓိကလိတ်မဲ့ငါ – Pa&#039;O" lang="blk" hreflang="blk" data-title="ဝိစ်သိဉ်နရီ:အဓိကလိတ်မဲ့ငါ" data-language-autonym="ပအိုဝ်ႏဘာႏသာႏ" data-language-local-name="Pa&#039;O" class="interlanguage-link-target"><span>ပအိုဝ်ႏဘာႏသာႏ</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wiktionary.org/wiki/" title="Pashto" lang="ps" hreflang="ps" data-title="" data-language-autonym="پښتو" data-language-local-name="Pashto" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-km mw-list-item"><a href="https://km.wiktionary.org/wiki/%E1%9E%91%E1%9F%86%E1%9E%96%E1%9F%90%E1%9E%9A%E1%9E%8A%E1%9E%BE%E1%9E%98" title="ទំព័រដើម – Khmer" lang="km" hreflang="km" data-title="ទំព័រដើម" data-language-autonym="ភាសាខ្មែរ" data-language-local-name="Khmer" class="interlanguage-link-target"><span>ភាសាខ្មែរ</span></a></li><li class="interlanguage-link interwiki-tpi mw-list-item"><a href="https://tpi.wiktionary.org/wiki/Fran_Pes" title="Fran Pes – Tok Pisin" lang="tpi" hreflang="tpi" data-title="Fran Pes" data-language-autonym="Tok Pisin" data-language-local-name="Tok Pisin" class="interlanguage-link-target"><span>Tok Pisin</span></a></li><li class="interlanguage-link interwiki-nds mw-list-item"><a href="https://nds.wiktionary.org/wiki/" title="Low German" lang="nds" hreflang="nds" data-title="" data-language-autonym="Plattdüütsch" data-language-local-name="Low German" class="interlanguage-link-target"><span>Plattdüütsch</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wiktionary.org/wiki/" title="Polish" lang="pl" hreflang="pl" data-title="" data-language-autonym="Polski" data-language-local-name="Polish" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wiktionary.org/wiki/" title="Portuguese" lang="pt" hreflang="pt" data-title="" data-language-autonym="Português" data-language-local-name="Portuguese" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-kaa mw-list-item"><a href="https://kaa.wiktionary.org/wiki/Wikis%C3%B3zlik:Bas_bet" title="Wikisózlik:Bas bet – Kara-Kalpak" lang="kaa" hreflang="kaa" data-title="Wikisózlik:Bas bet" data-language-autonym="Qaraqalpaqsha" data-language-local-name="Kara-Kalpak" class="interlanguage-link-target"><span>Qaraqalpaqsha</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wiktionary.org/wiki/" title="Romanian" lang="ro" hreflang="ro" data-title="" data-language-autonym="Română" data-language-local-name="Romanian" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wiktionary.org/wiki/Qhapaq_p%27anqa" title="Qhapaq p&#039;anqa – Quechua" lang="qu" hreflang="qu" data-title="Qhapaq p&#039;anqa" data-language-autonym="Runa Simi" data-language-local-name="Quechua" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wiktionary.org/wiki/" title="Russian" lang="ru" hreflang="ru" data-title="" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sm mw-list-item"><a href="https://sm.wiktionary.org/wiki/Itulau_Muamua" title="Itulau Muamua – Samoan" lang="sm" hreflang="sm" data-title="Itulau Muamua" data-language-autonym="Gagana Samoa" data-language-local-name="Samoan" class="interlanguage-link-target"><span>Gagana Samoa</span></a></li><li class="interlanguage-link interwiki-sa mw-list-item"><a href="https://sa.wiktionary.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D" title="मुख्यपृष्ठम् – Sanskrit" lang="sa" hreflang="sa" data-title="मुख्यपृष्ठम्" data-language-autonym="संस्कृतम्" data-language-local-name="Sanskrit" class="interlanguage-link-target"><span>संस्कृतम्</span></a></li><li class="interlanguage-link interwiki-sg mw-list-item"><a href="https://sg.wiktionary.org/wiki/" title="Sango" lang="sg" hreflang="sg" data-title="" data-language-autonym="Sängö" data-language-local-name="Sango" class="interlanguage-link-target"><span>Sängö</span></a></li><li class="interlanguage-link interwiki-sat mw-list-item"><a href="https://sat.wiktionary.org/wiki/%E1%B1%A3%E1%B1%A4%E1%B1%A0%E1%B1%A4_%E1%B1%9F%E1%B1%B9%E1%B1%B2%E1%B1%9F%E1%B1%B9_%E1%B1%A2%E1%B1%A9%E1%B1%A8%E1%B1%9F%E1%B1%B9%E1%B1%AD:%E1%B1%A2%E1%B1%A9%E1%B1%AC%E1%B1%A9%E1%B1%9B_%E1%B1%A5%E1%B1%9F%E1%B1%A6%E1%B1%B4%E1%B1%9F" title="ᱣᱤᱠᱤ ᱟᱹᱲᱟᱹ ᱢᱩᱨᱟᱹᱭ:ᱢᱩᱬᱩᱛ ᱥᱟᱦᱴᱟ – Santali" lang="sat" hreflang="sat" data-title="ᱣᱤᱠᱤ ᱟᱹᱲᱟᱹ ᱢᱩᱨᱟᱹᱭ:ᱢᱩᱬᱩᱛ ᱥᱟᱦᱴᱟ" data-language-autonym="ᱥᱟᱱᱛᱟᱲᱤ" data-language-local-name="Santali" class="interlanguage-link-target"><span>ᱥᱟᱱᱛᱟᱲᱤ</span></a></li><li class="interlanguage-link interwiki-skr mw-list-item"><a href="https://skr.wiktionary.org/wiki/" title="Saraiki" lang="skr" hreflang="skr" data-title="" data-language-autonym="سرائیکی" data-language-local-name="Saraiki" class="interlanguage-link-target"><span>سرائیکی</span></a></li><li class="interlanguage-link interwiki-st mw-list-item"><a href="https://st.wiktionary.org/wiki/Main_Page" title="Main Page – Southern Sotho" lang="st" hreflang="st" data-title="Main Page" data-language-autonym="Sesotho" data-language-local-name="Southern Sotho" class="interlanguage-link-target"><span>Sesotho</span></a></li><li class="interlanguage-link interwiki-tn mw-list-item"><a href="https://tn.wiktionary.org/wiki/Tsebe_ya_konokono" title="Tsebe ya konokono – Tswana" lang="tn" hreflang="tn" data-title="Tsebe ya konokono" data-language-autonym="Setswana" data-language-local-name="Tswana" class="interlanguage-link-target"><span>Setswana</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wiktionary.org/wiki/" title="Albanian" lang="sq" hreflang="sq" data-title="" data-language-autonym="Shqip" data-language-local-name="Albanian" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wiktionary.org/wiki/" title="Sicilian" lang="scn" hreflang="scn" data-title="" data-language-autonym="Sicilianu" data-language-local-name="Sicilian" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wiktionary.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%8A%E0%B7%82%E0%B6%B1%E0%B6%BB%E0%B7%92:%E0%B6%B8%E0%B7%94%E0%B6%BD%E0%B7%8A_%E0%B6%B4%E0%B7%92%E0%B6%A7%E0%B7%94%E0%B7%80" title="වික්ෂනරි:මුල් පිටුව – Sinhala" lang="si" hreflang="si" data-title="වික්ෂනරි:මුල් පිටුව" data-language-autonym="සිංහල" data-language-local-name="Sinhala" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wiktionary.org/wiki/" title="Simple English" lang="en-simple" hreflang="en-simple" data-title="" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wiktionary.org/wiki/%D9%85%D9%8F%DA%A9_%D8%B5%D9%81%D8%AD%D9%88" title="مُک صفحو – Sindhi" lang="sd" hreflang="sd" data-title="مُک صفحو" data-language-autonym="سنڌي" data-language-local-name="Sindhi" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-ss mw-list-item"><a href="https://ss.wiktionary.org/wiki/Likhasi_Lelikhulu" title="Likhasi Lelikhulu – Swati" lang="ss" hreflang="ss" data-title="Likhasi Lelikhulu" data-language-autonym="SiSwati" data-language-local-name="Swati" class="interlanguage-link-target"><span>SiSwati</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wiktionary.org/wiki/" title="Slovak" lang="sk" hreflang="sk" data-title="" data-language-autonym="Slovenčina" data-language-local-name="Slovak" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wiktionary.org/wiki/" title="Slovenian" lang="sl" hreflang="sl" data-title="" data-language-autonym="Slovenščina" data-language-local-name="Slovenian" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wiktionary.org/wiki/Bogga_Hore" title="Bogga Hore – Somali" lang="so" hreflang="so" data-title="Bogga Hore" data-language-autonym="Soomaaliga" data-language-local-name="Somali" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wiktionary.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%81%DB%95%D8%B1%DA%BE%DB%95%D9%86%DA%AF:%D8%AF%DB%95%D8%B3%D8%AA%D9%BE%DB%8E%DA%A9" title="ویکیفەرھەنگ:دەستپێک – Central Kurdish" lang="ckb" hreflang="ckb" data-title="ویکیفەرھەنگ:دەستپێک" data-language-autonym="کوردی" data-language-local-name="Central Kurdish" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wiktionary.org/wiki/" title="Serbian" lang="sr" hreflang="sr" data-title="" data-language-autonym="Српски / srpski" data-language-local-name="Serbian" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wiktionary.org/wiki/" title="Serbo-Croatian" lang="sh" hreflang="sh" data-title="" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="Serbo-Croatian" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wiktionary.org/wiki/Tepas" title="Tepas – Sundanese" lang="su" hreflang="su" data-title="Tepas" data-language-autonym="Sunda" data-language-local-name="Sundanese" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wiktionary.org/wiki/" title="Finnish" lang="fi" hreflang="fi" data-title="" data-language-autonym="Suomi" data-language-local-name="Finnish" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wiktionary.org/wiki/" title="Swedish" lang="sv" hreflang="sv" data-title="" data-language-autonym="Svenska" data-language-local-name="Swedish" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-shy mw-list-item"><a href="https://shy.wiktionary.org/wiki/Asebtar_amenzu" title="Asebtar amenzu – Shawiya" lang="shy" hreflang="shy" data-title="Asebtar amenzu" data-language-autonym="Tacawit" data-language-local-name="Shawiya" class="interlanguage-link-target"><span>Tacawit</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wiktionary.org/wiki/" title="Tagalog" lang="tl" hreflang="tl" data-title="" data-language-autonym="Tagalog" data-language-local-name="Tagalog" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wiktionary.org/wiki/" title="Tamil" lang="ta" hreflang="ta" data-title="" data-language-autonym="தமிழ்" data-language-local-name="Tamil" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wiktionary.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Баш бит – Tatar" lang="tt" hreflang="tt" data-title="Баш бит" data-language-autonym="Татарча / tatarça" data-language-local-name="Tatar" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-shn mw-list-item"><a href="https://shn.wiktionary.org/wiki/" title="Shan" lang="shn" hreflang="shn" data-title="" data-language-autonym="တႆး" data-language-local-name="Shan" class="interlanguage-link-target"><span>တႆး</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wiktionary.org/wiki/" title="Telugu" lang="te" hreflang="te" data-title="" data-language-autonym="తెలుగు" data-language-local-name="Telugu" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wiktionary.org/wiki/" title="Thai" lang="th" hreflang="th" data-title="" data-language-autonym="ไทย" data-language-local-name="Thai" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-ti mw-list-item"><a href="https://ti.wiktionary.org/wiki/%E1%88%98%E1%89%A0%E1%8C%88%E1%88%B2_%E1%8C%88%E1%8C%BD" title="መበገሲ ገጽ – Tigrinya" lang="ti" hreflang="ti" data-title="መበገሲ ገጽ" data-language-autonym="ትግርኛ" data-language-local-name="Tigrinya" class="interlanguage-link-target"><span>ትግርኛ</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wiktionary.org/wiki/" title="Tajik" lang="tg" hreflang="tg" data-title="" data-language-autonym="Тоҷикӣ" data-language-local-name="Tajik" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-chr mw-list-item"><a href="https://chr.wiktionary.org/wiki/Wiktionary:%E1%8E%A4%E1%8E%B5%E1%8E%AE%E1%8E%B5%E1%8F%8D%E1%8F%97" title="Wiktionary:ᎤᎵᎮᎵᏍᏗ – Cherokee" lang="chr" hreflang="chr" data-title="Wiktionary:ᎤᎵᎮᎵᏍᏗ" data-language-autonym="ᏣᎳᎩ" data-language-local-name="Cherokee" class="interlanguage-link-target"><span>ᏣᎳᎩ</span></a></li><li class="interlanguage-link interwiki-tcy mw-list-item"><a href="https://tcy.wiktionary.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F" title="ಮುಖ್ಯ ಪುಟ – Tulu" lang="tcy" hreflang="tcy" data-title="ಮುಖ್ಯ ಪುಟ" data-language-autonym="ತುಳು" data-language-local-name="Tulu" class="interlanguage-link-target"><span>ತುಳು</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wiktionary.org/wiki/" title="Turkish" lang="tr" hreflang="tr" data-title="" data-language-autonym="Türkçe" data-language-local-name="Turkish" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tk mw-list-item"><a href="https://tk.wiktionary.org/wiki/Ba%C5%9F_Sahypa" title="Baş Sahypa – Turkmen" lang="tk" hreflang="tk" data-title="Baş Sahypa" data-language-autonym="Türkmençe" data-language-local-name="Turkmen" class="interlanguage-link-target"><span>Türkmençe</span></a></li><li class="interlanguage-link interwiki-kcg mw-list-item"><a href="https://kcg.wiktionary.org/wiki/A%CC%B1tsak_wat_wu" title="A̱tsak wat wu – Tyap" lang="kcg" hreflang="kcg" data-title="A̱tsak wat wu" data-language-autonym="Tyap" data-language-local-name="Tyap" class="interlanguage-link-target"><span>Tyap</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wiktionary.org/wiki/" title="Ukrainian" lang="uk" hreflang="uk" data-title="" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wiktionary.org/wiki/" title="Urdu" lang="ur" hreflang="ur" data-title="" data-language-autonym="اردو" data-language-local-name="Urdu" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-ug mw-list-item"><a href="https://ug.wiktionary.org/wiki/%D8%A8%D8%A7%D8%B4_%D8%A8%DB%95%D8%AA" title="باش بەت – Uyghur" lang="ug" hreflang="ug" data-title="باش بەت" data-language-autonym="ئۇيغۇرچە / Uyghurche" data-language-local-name="Uyghur" class="interlanguage-link-target"><span>ئۇيغۇرچە / Uyghurche</span></a></li><li class="interlanguage-link interwiki-za mw-list-item"><a href="https://za.wiktionary.org/wiki/Yiebdaeuz" title="Yiebdaeuz – Zhuang" lang="za" hreflang="za" data-title="Yiebdaeuz" data-language-autonym="Vahcuengh" data-language-local-name="Zhuang" class="interlanguage-link-target"><span>Vahcuengh</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wiktionary.org/wiki/Wikisionario:Prinsipio" title="Wikisionario:Prinsipio – Venetian" lang="vec" hreflang="vec" data-title="Wikisionario:Prinsipio" data-language-autonym="Vèneto" data-language-local-name="Venetian" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wiktionary.org/wiki/" title="Vietnamese" lang="vi" hreflang="vi" data-title="" data-language-autonym="Tiếng Việt" data-language-local-name="Vietnamese" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-vo mw-list-item"><a href="https://vo.wiktionary.org/wiki/" title="Volapük" lang="vo" hreflang="vo" data-title="" data-language-autonym="Volapük" data-language-local-name="Volapük" class="interlanguage-link-target"><span>Volapük</span></a></li><li class="interlanguage-link interwiki-wa mw-list-item"><a href="https://wa.wiktionary.org/wiki/" title="Walloon" lang="wa" hreflang="wa" data-title="" data-language-autonym="Walon" data-language-local-name="Walloon" class="interlanguage-link-target"><span>Walon</span></a></li><li class="interlanguage-link interwiki-wo mw-list-item"><a href="https://wo.wiktionary.org/wiki/X%C3%ABtu_Nj%C3%ABlb%C3%A9en" title="Xëtu Njëlbéen – Wolof" lang="wo" hreflang="wo" data-title="Xëtu Njëlbéen" data-language-autonym="Wolof" data-language-local-name="Wolof" class="interlanguage-link-target"><span>Wolof</span></a></li><li class="interlanguage-link interwiki-ts mw-list-item"><a href="https://ts.wiktionary.org/wiki/Tlukankulu" title="Tlukankulu – Tsonga" lang="ts" hreflang="ts" data-title="Tlukankulu" data-language-autonym="Xitsonga" data-language-local-name="Tsonga" class="interlanguage-link-target"><span>Xitsonga</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wiktionary.org/wiki/%D7%94%D7%95%D7%99%D7%A4%D7%98_%D7%96%D7%99%D7%99%D7%98" title="הויפט זייט – Yiddish" lang="yi" hreflang="yi" data-title="הויפט זייט" data-language-autonym="ייִדיש" data-language-local-name="Yiddish" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-yue mw-list-item"><a href="https://yue.wiktionary.org/wiki/%E7%B6%AD%E5%9F%BA%E8%BE%AD%E5%85%B8:%E9%A0%AD%E7%89%88" title="維基辭典:頭版 – Cantonese" lang="yue" hreflang="yue" data-title="維基辭典:頭版" data-language-autonym="粵語" data-language-local-name="Cantonese" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-diq mw-list-item"><a href="https://diq.wiktionary.org/wiki/Pela_Seri" title="Pela Seri – Dimli" lang="diq" hreflang="diq" data-title="Pela Seri" data-language-autonym="Zazaki" data-language-local-name="Dimli" class="interlanguage-link-target"><span>Zazaki</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wiktionary.org/wiki/" title="Chinese" lang="zh" hreflang="zh" data-title="" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-btm mw-list-item"><a href="https://btm.wiktionary.org/wiki/Wikikamus:Alaman_Utamo" title="Wikikamus:Alaman Utamo – Batak Mandailing" lang="btm" hreflang="btm" data-title="Wikikamus:Alaman Utamo" data-language-autonym="Batak Mandailing" data-language-local-name="Batak Mandailing" class="interlanguage-link-target"><span>Batak Mandailing</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296#sitelinks-wiktionary" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 4 March 2025, at 08:54.</li>
+	<li id="footer-info-copyright">Definitions and other text are available under the <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply. By using this site, you agree to the <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wiktionary:About">About Wiktionary</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wiktionary:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wiktionary.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=Wiktionary:Main_Page&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input"
+									
+									type="search" name="search" placeholder="Search Wiktionary">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-namespace">Wiktionary</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Main Page</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>176 languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-75687f9f4b-9cb9n","wgBackendResponseTime":123,"wgDiscussionToolsPageThreads":[{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Wiktionaries_in_other_languages","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Other_Wikimedia_projects","replies":[]}],"wgPageParseReport":{"discussiontools":{"limitreport-timeusage":"0.030"},"limitreport":{"cputime":"0.993","walltime":"1.240","ppvisitednodes":{"value":2286,"limit":1000000},"postexpandincludesize":{"value":38683,"limit":2097152},"templateargumentsize":{"value":2256,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2131,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1056.820      1 -total"," 56.84%  600.664    174 Template:lang"," 20.41%  215.740      1 Template:FWOTD_main"," 19.73%  208.507      1 Wiktionary:Foreign_Word_of_the_Day/2025/March_24"," 19.38%  204.814      1 Template:FWOTD"," 18.58%  196.381      1 Wiktionary:Word_of_the_day/2025/March_24"," 17.96%  189.790      1 Template:WOTD"," 17.34%  183.298      1 Template:head"," 15.57%  164.532      1 Template:lb","  1.45%   15.353      1 Template:m"]},"scribunto":{"limitreport-timeusage":{"value":"0.717","limit":"10.000"},"limitreport-memusage":{"value":20898413,"limit":104857600}},"cachereport":{"origin":"mw-web.eqiad.main-75687f9f4b-qm8dh","timestamp":"20250324055612","ttl":3600,"transientcontent":true}}});});</script>
+</body>
+</html>

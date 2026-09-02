@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Help:Contents - Wiktionary, the free dictionary</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwiktionarymwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"bbd792a5-0d82-4591-bece-3256956466a7","wgCanonicalNamespace":"Help","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":12,"wgPageName":"Help:Contents","wgTitle":"Contents","wgCurRevisionId":68992613,"wgRevisionId":68992613,"wgArticleId":2189611,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wiktionary pages with shortcuts","Requests for cleanup","Help","Indexes"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Help:Contents","wgRelevantArticleId":2189611,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgNoticeProject":"wiktionary","wgCiteReferencePreviewsActive":true,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgEditSubmitButtonLabelPublish":true,"wgDiscussionToolsFeaturesEnabled":{"replytool":true,"newtopictool":true,"sourcemodetoolbar":true,"topicsubscription":false,"autotopicsub":false,"visualenhancements":false,"visualenhancements_reply":false,"visualenhancements_pageframe":false},"wgDiscussionToolsFallbackEditMode":"source","wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q914807","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+RLSTATE={"ext.gadget.Palette":"ready","ext.gadget.Site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.inputBox.styles":"ready","mediawiki.special":"ready","ext.discussionTools.init.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.LegacyScripts","ext.gadget.LanguagesAndScripts","ext.gadget.PagePreviews","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.gadget.UnsupportedTitles","ext.gadget.WiktGadgetPrefs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.discussionTools.init","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.client.vector-2022","ext.checkUser.clientHints"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.discussionTools.init.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.Palette%2CSite&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.44.0-wmf.21">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:site_name" content="Wiktionary">
+<meta property="og:title" content="Help:Contents - Wiktionary, the free dictionary">
+<meta property="og:type" content="website">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//en.m.wiktionary.org/wiki/Help:Contents">
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png">
+<link rel="icon" href="/static/favicon/wiktionary/en.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wiktionary (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wiktionary.org/wiki/Help:Contents">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="ext-discussiontools-replytool-enabled ext-discussiontools-newtopictool-enabled ext-discussiontools-sourcemodetoolbar-enabled skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-12 ns-subject page-Help_Contents rootpage-Help_Contents skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-text" class="mw-list-item"><a href="/wiki/Wiktionary:Main_Page"><span>Main Page</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-requestedarticles" class="mw-list-item"><a href="/wiki/Wiktionary:Requested_entries"><span>Requested entries</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x"><span>Random entry</span></a></li><li id="n-help" class="mw-list-item"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out"><span>Help</span></a></li><li id="n-Glossary" class="mw-list-item"><a href="/wiki/Appendix:Glossary"><span>Glossary</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wiktionary:Contact_us"><span>Contact us</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wiktionary:Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiktionary.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wiktionary" src="/static/images/mobile/copyright/wiktionary-wordmark-en.svg" style="width: 6.6875em; height: 1.1875em;">
+		<img class="mw-logo-tagline" alt="The Free Dictionary" src="/static/images/mobile/copyright/wiktionary-tagline-en.svg" width="110" height="15" style="width: 6.875em; height: 0.9375em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wiktionary [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wiktionary" aria-label="Search Wiktionary" autocapitalize="none" title="Search Wiktionary [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wiktionary.org&amp;uselang=en" class=""><span>Donations</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Help%3AContents" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Help%3AContents" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="More options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wiktionary.org&amp;uselang=en"><span>Donations</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Help%3AContents" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Help%3AContents" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Beginning</div>
+			</a>
+		</li>
+		<li id="toc-Basic_help"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Basic_help">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Basic help</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Basic_help-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Basic help subsection</span>
+			</button>
+		
+		<ul id="toc-Basic_help-sublist" class="vector-toc-list">
+			<li id="toc-Introduction"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Introduction">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span>Introduction</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Introduction-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Editing"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Editing">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.2</span>
+					<span>Editing</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Editing-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Intermediate_help"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Intermediate_help">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Intermediate help</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Intermediate_help-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Intermediate help subsection</span>
+			</button>
+		
+		<ul id="toc-Intermediate_help-sublist" class="vector-toc-list">
+			<li id="toc-Wiktionary"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Wiktionary">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>Wiktionary</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Wiktionary-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Wikis_in_general"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Wikis_in_general">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>Wikis in general</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Wikis_in_general-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-All_help_pages"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#All_help_pages">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>All help pages</span>
+			</div>
+		</a>
+		
+		<ul id="toc-All_help_pages-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table of Contents" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">Help</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Contents</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 47 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-47" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">47 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wiktionary.org/wiki/Wiktionary:Hulp" title="Wiktionary:Hulp – Afrikaans" lang="af" hreflang="af" data-title="Wiktionary:Hulp" data-language-autonym="Afrikaans" data-language-local-name="Afrikaans" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wiktionary.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="مساعدة:محتويات – Arabic" lang="ar" hreflang="ar" data-title="مساعدة:محتويات" data-language-autonym="العربية" data-language-local-name="Arabic" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wiktionary.org/wiki/Wikcionariu:Ayuda" title="Wikcionariu:Ayuda – Asturian" lang="ast" hreflang="ast" data-title="Wikcionariu:Ayuda" data-language-autonym="Asturianu" data-language-local-name="Asturian" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wiktionary.org/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat" title="Kömək:Mündəricat – Azerbaijani" lang="az" hreflang="az" data-title="Kömək:Mündəricat" data-language-autonym="Azərbaycanca" data-language-local-name="Azerbaijani" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wiktionary.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF:%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%BF" title="সাহায্য:সূচি – Bangla" lang="bn" hreflang="bn" data-title="সাহায্য:সূচি" data-language-autonym="বাংলা" data-language-local-name="Bangla" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wiktionary.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D0%BB%D0%BE%D1%9E%D0%BD%D1%96%D0%BA:%D0%94%D0%B0%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0" title="Вікіслоўнік:Даведка – Belarusian" lang="be" hreflang="be" data-title="Вікіслоўнік:Даведка" data-language-autonym="Беларуская" data-language-local-name="Belarusian" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wiktionary.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA:%D0%9F%D1%8A%D1%80%D0%B2%D0%B8_%D1%81%D1%82%D1%8A%D0%BF%D0%BA%D0%B8" title="Уикиречник:Първи стъпки – Bulgarian" lang="bg" hreflang="bg" data-title="Уикиречник:Първи стъпки" data-language-autonym="Български" data-language-local-name="Bulgarian" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wiktionary.org/wiki/Viccionari:Ajuda" title="Viccionari:Ajuda – Catalan" lang="ca" hreflang="ca" data-title="Viccionari:Ajuda" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wiktionary.org/wiki/N%C3%A1pov%C4%9Bda:Obsah" title="Nápověda:Obsah – Czech" lang="cs" hreflang="cs" data-title="Nápověda:Obsah" data-language-autonym="Čeština" data-language-local-name="Czech" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wiktionary.org/wiki/Cymorth:Prif_dudalen" title="Cymorth:Prif dudalen – Welsh" lang="cy" hreflang="cy" data-title="Cymorth:Prif dudalen" data-language-autonym="Cymraeg" data-language-local-name="Welsh" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wiktionary.org/wiki/Wiktionary:Hilfe" title="Wiktionary:Hilfe – German" lang="de" hreflang="de" data-title="Wiktionary:Hilfe" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wiktionary.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CE%BB%CE%B5%CE%BE%CE%B9%CE%BA%CF%8C:%CE%92%CE%BF%CE%AE%CE%B8%CE%B5%CE%B9%CE%B1" title="Βικιλεξικό:Βοήθεια – Greek" lang="el" hreflang="el" data-title="Βικιλεξικό:Βοήθεια" data-language-autonym="Ελληνικά" data-language-local-name="Greek" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wiktionary.org/wiki/Wikcionario:Ayuda" title="Wikcionario:Ayuda – Spanish" lang="es" hreflang="es" data-title="Wikcionario:Ayuda" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wiktionary.org/wiki/Helpo:Superrigardo" title="Helpo:Superrigardo – Esperanto" lang="eo" hreflang="eo" data-title="Helpo:Superrigardo" data-language-autonym="Esperanto" data-language-local-name="Esperanto" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wiktionary.org/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D8%AF%D8%B1%D9%88%D9%86%E2%80%8C%D9%85%D8%A7%DB%8C%D9%87" title="راهنما:درون‌مایه – Persian" lang="fa" hreflang="fa" data-title="راهنما:درون‌مایه" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wiktionary.org/wiki/Aide:Sommaire" title="Aide:Sommaire – French" lang="fr" hreflang="fr" data-title="Aide:Sommaire" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wiktionary.org/wiki/%EC%9C%84%ED%82%A4%EB%82%B1%EB%A7%90%EC%82%AC%EC%A0%84:%EB%8F%84%EC%9B%80%EB%A7%90" title="위키낱말사전:도움말 – Korean" lang="ko" hreflang="ko" data-title="위키낱말사전:도움말" data-language-autonym="한국어" data-language-local-name="Korean" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wiktionary.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A8%E0%A4%B0%E0%A5%80:%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE" title="विक्षनरी:सहायता – Hindi" lang="hi" hreflang="hi" data-title="विक्षनरी:सहायता" data-language-autonym="हिन्दी" data-language-local-name="Hindi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wiktionary.org/wiki/Bantuan:Isi" title="Bantuan:Isi – Indonesian" lang="id" hreflang="id" data-title="Bantuan:Isi" data-language-autonym="Bahasa Indonesia" data-language-local-name="Indonesian" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wiktionary.org/wiki/Aiuto:Aiuto" title="Aiuto:Aiuto – Italian" lang="it" hreflang="it" data-title="Aiuto:Aiuto" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wiktionary.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99" title="עזרה:תפריט ראשי – Hebrew" lang="he" hreflang="he" data-title="עזרה:תפריט ראשי" data-language-autonym="עברית" data-language-local-name="Hebrew" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-nia mw-list-item"><a href="https://nia.wiktionary.org/wiki/Fanolo:Fanolo" title="Fanolo:Fanolo – Nias" lang="nia" hreflang="nia" data-title="Fanolo:Fanolo" data-language-autonym="Li Niha" data-language-local-name="Nias" class="interlanguage-link-target"><span>Li Niha</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wiktionary.org/wiki/Seg%C3%ADts%C3%A9g:Tartalom" title="Segítség:Tartalom – Hungarian" lang="hu" hreflang="hu" data-title="Segítség:Tartalom" data-language-autonym="Magyar" data-language-local-name="Hungarian" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mad mw-list-item"><a href="https://mad.wiktionary.org/wiki/Bh%C3%A2ntowan:%C3%88ss%C3%A8" title="Bhântowan:Èssè – Madurese" lang="mad" hreflang="mad" data-title="Bhântowan:Èssè" data-language-autonym="Madhurâ" data-language-local-name="Madurese" class="interlanguage-link-target"><span>Madhurâ</span></a></li><li class="interlanguage-link interwiki-mi mw-list-item"><a href="https://mi.wiktionary.org/wiki/Help:Contents" title="Help:Contents – Māori" lang="mi" hreflang="mi" data-title="Help:Contents" data-language-autonym="Māori" data-language-local-name="Māori" class="interlanguage-link-target"><span>Māori</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wiktionary.org/wiki/Bantuan:Kandungan" title="Bantuan:Kandungan – Malay" lang="ms" hreflang="ms" data-title="Bantuan:Kandungan" data-language-autonym="Bahasa Melayu" data-language-local-name="Malay" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wiktionary.org/wiki/%E1%80%A1%E1%80%80%E1%80%B0%E1%80%A1%E1%80%8A%E1%80%AE:%E1%80%99%E1%80%AC%E1%80%90%E1%80%AD%E1%80%80%E1%80%AC" title="အကူအညီ:မာတိကာ – Burmese" lang="my" hreflang="my" data-title="အကူအညီ:မာတိကာ" data-language-autonym="မြန်မာဘာသာ" data-language-local-name="Burmese" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wiktionary.org/wiki/WikiWoordenboek:Hulp" title="WikiWoordenboek:Hulp – Dutch" lang="nl" hreflang="nl" data-title="WikiWoordenboek:Hulp" data-language-autonym="Nederlands" data-language-local-name="Dutch" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wiktionary.org/wiki/%E3%83%98%E3%83%AB%E3%83%97:%E7%9B%AE%E6%AC%A1" title="ヘルプ:目次 – Japanese" lang="ja" hreflang="ja" data-title="ヘルプ:目次" data-language-autonym="日本語" data-language-local-name="Japanese" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wiktionary.org/wiki/Wiktionary:Hjelp" title="Wiktionary:Hjelp – Norwegian" lang="no" hreflang="no" data-title="Wiktionary:Hjelp" data-language-autonym="Norsk" data-language-local-name="Norwegian" class="interlanguage-link-target"><span>Norsk</span></a></li><li class="interlanguage-link interwiki-blk mw-list-item"><a href="https://blk.wiktionary.org/wiki/%E1%80%85%E1%80%BD%E1%80%B2%E1%80%B8%E1%80%80%E1%80%99%E1%80%BA%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF:%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%BA%EA%A9%BB%E1%80%91%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%AE%E1%80%B8%E1%80%90%E1%80%AC%E1%82%8F" title="စွဲးကမ်းကို:ဟော်ꩻထွားရီးတာႏ – Pa&#039;O" lang="blk" hreflang="blk" data-title="စွဲးကမ်းကို:ဟော်ꩻထွားရီးတာႏ" data-language-autonym="ပအိုဝ်ႏဘာႏသာႏ" data-language-local-name="Pa&#039;O" class="interlanguage-link-target"><span>ပအိုဝ်ႏဘာႏသာႏ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Pomoc" title="Wikisłownik:Pomoc – Polish" lang="pl" hreflang="pl" data-title="Wikisłownik:Pomoc" data-language-autonym="Polski" data-language-local-name="Polish" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wiktionary.org/wiki/Ajuda:%C3%8Dndice" title="Ajuda:Índice – Portuguese" lang="pt" hreflang="pt" data-title="Ajuda:Índice" data-language-autonym="Português" data-language-local-name="Portuguese" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wiktionary.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Викисловарь:Справка – Russian" lang="ru" hreflang="ru" data-title="Викисловарь:Справка" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wiktionary.org/wiki/%E0%B6%8B%E0%B6%AF%E0%B7%80%E0%B7%94:%E0%B6%B4%E0%B6%A7%E0%B7%94%E0%B6%B1" title="උදවු:පටුන – Sinhala" lang="si" hreflang="si" data-title="උදවු:පටුන" data-language-autonym="සිංහල" data-language-local-name="Sinhala" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wiktionary.org/wiki/Help:Contents" title="Help:Contents – Simple English" lang="en-simple" hreflang="en-simple" data-title="Help:Contents" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wiktionary.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%9B:%D0%A1%D0%B0%D0%B4%D1%80%D0%B6%D0%B0%D1%98" title="Помоћ:Садржај – Serbian" lang="sr" hreflang="sr" data-title="Помоћ:Садржај" data-language-autonym="Српски / srpski" data-language-local-name="Serbian" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wiktionary.org/wiki/Pitulung:Eusi" title="Pitulung:Eusi – Sundanese" lang="su" hreflang="su" data-title="Pitulung:Eusi" data-language-autonym="Sunda" data-language-local-name="Sundanese" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wiktionary.org/wiki/Hj%C3%A4lp:Index" title="Hjälp:Index – Swedish" lang="sv" hreflang="sv" data-title="Hjälp:Index" data-language-autonym="Svenska" data-language-local-name="Swedish" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wiktionary.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99" title="วิธีใช้:วิธีการใช้งาน – Thai" lang="th" hreflang="th" data-title="วิธีใช้:วิธีการใช้งาน" data-language-autonym="ไทย" data-language-local-name="Thai" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tcy mw-list-item"><a href="https://tcy.wiktionary.org/wiki/%E0%B2%B8%E0%B2%95%E0%B2%BE%E0%B2%AF%E0%B3%8A:%E0%B2%B5%E0%B2%BF%E0%B2%B8%E0%B2%AF%E0%B3%8A%E0%B2%B2%E0%B3%81" title="ಸಕಾಯೊ:ವಿಸಯೊಲು – Tulu" lang="tcy" hreflang="tcy" data-title="ಸಕಾಯೊ:ವಿಸಯೊಲು" data-language-autonym="ತುಳು" data-language-local-name="Tulu" class="interlanguage-link-target"><span>ತುಳು</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wiktionary.org/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler" title="Yardım:İçindekiler – Turkish" lang="tr" hreflang="tr" data-title="Yardım:İçindekiler" data-language-autonym="Türkçe" data-language-local-name="Turkish" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wiktionary.org/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0" title="Довідка:Довідка – Ukrainian" lang="uk" hreflang="uk" data-title="Довідка:Довідка" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ug mw-list-item"><a href="https://ug.wiktionary.org/wiki/%D9%8A%D8%A7%D8%B1%D8%AF%DB%95%D9%85:%D9%85%DB%95%D8%B2%D9%85%DB%87%D9%86%D9%84%D8%A7%D8%B1" title="ياردەم:مەزمۇنلار – Uyghur" lang="ug" hreflang="ug" data-title="ياردەم:مەزمۇنلار" data-language-autonym="ئۇيغۇرچە / Uyghurche" data-language-local-name="Uyghur" class="interlanguage-link-target"><span>ئۇيغۇرچە / Uyghurche</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wiktionary.org/wiki/Juto:Juto" title="Juto:Juto – Venetian" lang="vec" hreflang="vec" data-title="Juto:Juto" data-language-autonym="Vèneto" data-language-local-name="Venetian" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wiktionary.org/wiki/Tr%E1%BB%A3_gi%C3%BAp:M%E1%BB%A5c_l%E1%BB%A5c" title="Trợ giúp:Mục lục – Vietnamese" lang="vi" hreflang="vi" data-title="Trợ giúp:Mục lục" data-language-autonym="Tiếng Việt" data-language-local-name="Vietnamese" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wiktionary.org/wiki/Wiktionary:%E5%B8%AE%E5%8A%A9" title="Wiktionary:帮助 – Chinese" lang="zh" hreflang="zh" data-title="Wiktionary:帮助" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q914807#sitelinks-wiktionary" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-help" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Help:Contents" title="View the help page [c]" accesskey="c"><span>Help page</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Help_talk:Contents" rel="discussion" title="Discussion about the content page [t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Help:Contents"><span>Read</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Help:Contents&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Help:Contents&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Help:Contents"><span>Read</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Help:Contents&amp;action=edit"><span>View source</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Help:Contents&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Help:Contents" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Help:Contents" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Help:Contents&amp;oldid=68992613" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Help:Contents&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2FHelp%3AContents"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2FHelp%3AContents"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Help%3AContents"><span>Create a book</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Help%3AContents&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Help:Contents&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Help:Contents" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item"><a href="https://www.mediawiki.org/wiki/Help:Contents" hreflang="en"><span>MediaWiki</span></a></li><li class="wb-otherproject-link wb-otherproject-meta mw-list-item"><a href="https://meta.wikimedia.org/wiki/Help:Contents" hreflang="en"><span>Meta-Wiki</span></a></li><li class="wb-otherproject-link wb-otherproject-sources mw-list-item"><a href="https://wikisource.org/wiki/Wikisource:Help" hreflang="en"><span>Multilingual Wikisource</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Help:Contents" hreflang="en"><span>Wikispecies</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item"><a href="https://en.wikibooks.org/wiki/Help:Contents" hreflang="en"><span>Wikibooks</span></a></li><li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item"><a href="https://www.wikidata.org/wiki/Help:Contents" hreflang="en"><span>Wikidata</span></a></li><li class="wb-otherproject-link wb-otherproject-wikifunctions mw-list-item"><a href="https://www.wikifunctions.org/wiki/Help:Contents" hreflang="en"><span>Wikifunctions</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://en.wikinews.org/wiki/Help:Contents" hreflang="en"><span>Wikinews</span></a></li><li class="wb-otherproject-link wb-otherproject-wikipedia mw-list-item"><a href="https://en.wikipedia.org/wiki/Help:Contents" hreflang="en"><span>Wikipedia</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/Help:Contents" hreflang="en"><span>Wikiquote</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://en.wikisource.org/wiki/Help:Contents" hreflang="en"><span>Wikisource</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiversity mw-list-item"><a href="https://en.wikiversity.org/wiki/Help:Contents" hreflang="en"><span>Wikiversity</span></a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item"><a href="https://en.wikivoyage.org/wiki/Wikivoyage:Help" hreflang="en"><span>Wikivoyage</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q914807" title="Link to connected data repository item [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wiktionary, the free dictionary</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><table style="width:100%; margin-bottom:5px; border: 1px solid #006400; background:var(--wikt-palette-palegreen,#e2f6e2); text-align:center;">
+
+<tbody><tr>
+<td style="width:20%; text-align:left; font-size:0.9em;">←<a href="/wiki/Wiktionary:I" class="mw-redirect" title="Wiktionary:I">Index</a>
+</td>
+<td style="width:60%;"><b>Help contents</b>
+</td>
+<td style="width:20%; text-align:right;font-size:0.9em;">
+</td></tr></tbody></table>
+<table style="width:100%; border-bottom:1px solid var(--wikt-palette-grey,#9e9e9e); background:var(--wikt-palette-lavender,#f8f8ff);">
+
+<tbody><tr>
+<td><div class="noprint plainlinks shortcut-box"><a href="/wiki/Wiktionary:Shortcut" class="mw-redirect" title="Wiktionary:Shortcut">Shortcut</a>:<br /><code><a class="external text" href="https://en.wiktionary.org/w/index.php?title=Wiktionary:H&amp;redirect=no">WT:H</a></code></div>There is a <a href="/wiki/Help:Index" title="Help:Index">help index</a> which lists many help pages.
+<div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox mw-inputbox-form-inline" action="/wiki/Special:Search"><div class="cdx-text-input"><input class="mw-searchInput searchboxInput cdx-text-input__input" name="search" placeholder="" size="20" dir="ltr" /></div>  <span class="cdx-checkbox cdx-checkbox--inline"><input type="checkbox" name="ns12" value="1" id="mw-inputbox-ns12-0.089195105378" class="cdx-checkbox__input" checked="" /><span class="cdx-checkbox__icon"></span><label class="cdx-checkbox__label" for="mw-inputbox-ns12-0.089195105378">Help</label></span>  <span class="cdx-checkbox cdx-checkbox--inline"><input type="checkbox" name="ns4" value="1" id="mw-inputbox-ns4-0.089195105378" class="cdx-checkbox__input" /><span class="cdx-checkbox__icon"></span><label class="cdx-checkbox__label" for="mw-inputbox-ns4-0.089195105378">Wiktionary</label></span>  <span class="cdx-checkbox cdx-checkbox--inline"><input type="checkbox" name="ns10" value="1" id="mw-inputbox-ns10-0.089195105378" class="cdx-checkbox__input" /><span class="cdx-checkbox__icon"></span><label class="cdx-checkbox__label" for="mw-inputbox-ns10-0.089195105378">Template</label></span>  <span class="cdx-checkbox cdx-checkbox--inline"><input type="checkbox" name="ns14" value="1" id="mw-inputbox-ns14-0.089195105378" class="cdx-checkbox__input" /><span class="cdx-checkbox__icon"></span><label class="cdx-checkbox__label" for="mw-inputbox-ns14-0.089195105378">Category</label></span>  <input type="submit" name="fulltext" value="Search help pages" class="cdx-button" /></form></div>
+</td></tr></tbody></table><p><br clear="all" />
+</p><meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2 ext-discussiontools-init-section"><h2 id="Basic_help" data-mw-thread-id="h-Basic_help"><span data-mw-comment-start="" id="h-Basic_help"></span>Basic help<span data-mw-comment-end="h-Basic_help"></span></h2><!--__DTELLIPSISBUTTON__{"threadItem":{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Basic_help","replies":["h-Introduction-Basic_help","h-Editing-Basic_help"]}}--></div>
+<div class="mw-heading mw-heading3"><h3 id="Introduction" data-mw-thread-id="h-Introduction-Basic_help"><span data-mw-comment-start="" id="h-Introduction-Basic_help"></span>Introduction<span data-mw-comment-end="h-Introduction-Basic_help"></span></h3></div>
+<table class="wikitable" style="width:100%;">
+<tbody><tr>
+<th style="width:15em;">Link</th>
+<th>Description
+</th></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Welcome,_newcomers" title="Wiktionary:Welcome, newcomers">Introduction to this project</a>
+</td>
+<td>Brief explanation of the project, and links to introductory help pages.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:FAQ" title="Help:FAQ">Frequently asked questions</a>
+</td>
+<td>Frequently asked questions that are not covered by these help pages.
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Information_desk" title="Wiktionary:Information desk">Information Desk</a>
+</td>
+<td>A place where newcomers can ask questions about words and about Wiktionary, ask for help, or post miscellaneous ideas that don’t fit in any of the other rooms.
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading3"><h3 id="Editing" data-mw-thread-id="h-Editing-Basic_help"><span data-mw-comment-start="" id="h-Editing-Basic_help"></span>Editing<span data-mw-comment-end="h-Editing-Basic_help"></span></h3></div>
+<table class="wikitable" style="width:100%;">
+<tbody><tr>
+<th style="width:15em;">Link</th>
+<th>Description
+</th></tr>
+<tr>
+<td><a href="/wiki/Help:How_to_edit_a_page" title="Help:How to edit a page">Edit a page</a>
+</td>
+<td>Basic introduction to editing.
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Sandbox" title="Wiktionary:Sandbox">The Sandbox</a>
+</td>
+<td>Place to muck around with wiki-syntax and to make test edits.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Starting_a_new_page" title="Help:Starting a new page">Starting a new page</a>
+</td>
+<td>Help on writing your first page.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Writing_definitions" title="Help:Writing definitions">Writing definitions</a>
+</td>
+<td>How to write a dictionary definition.
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Criteria_for_inclusion" title="Wiktionary:Criteria for inclusion">Criteria for inclusion</a>
+</td>
+<td>Describes the standard criteria for adding new words.
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Entry_layout" title="Wiktionary:Entry layout">Entry layout</a>
+</td>
+<td>Describes the standard layout for Wiktionary definition pages (see the <a href="/wiki/Wiktionary:Entry_layout#A_very_simple_example" title="Wiktionary:Entry layout">simple example</a>).
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Internal_links" title="Help:Internal links">Internal links</a>
+</td>
+<td>Where in a page to put a link to another entry.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Talk_pages" title="Help:Talk pages">Talk pages</a>
+</td>
+<td>Talk page instructions and guidelines.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Emailing_users" title="Help:Emailing users">Emailing users</a>
+</td>
+<td>How to use the email tool.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Disputing_a_definition" title="Help:Disputing a definition">Disputing a definition</a>
+</td>
+<td>The procedures for having a definition or entry removed or significantly altered.
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2 ext-discussiontools-init-section"><h2 id="Intermediate_help" data-mw-thread-id="h-Intermediate_help"><span data-mw-comment-start="" id="h-Intermediate_help"></span>Intermediate help<span data-mw-comment-end="h-Intermediate_help"></span></h2><!--__DTELLIPSISBUTTON__{"threadItem":{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Intermediate_help","replies":["h-Wiktionary-Intermediate_help","h-Wikis_in_general-Intermediate_help"]}}--></div>
+<div class="mw-heading mw-heading3"><h3 id="Wiktionary" data-mw-thread-id="h-Wiktionary-Intermediate_help"><span data-mw-comment-start="" id="h-Wiktionary-Intermediate_help"></span>Wiktionary<span data-mw-comment-end="h-Wiktionary-Intermediate_help"></span></h3></div>
+<table class="wikitable" style="width:100%;">
+<tbody><tr>
+<th style="width:15em;">Link</th>
+<th>Description
+</th></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Pronunciation" title="Wiktionary:Pronunciation">Pronunciation</a>
+</td>
+<td>Links related to pronunciation notation and audio files.
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Cleanup_and_deletion_process" class="mw-redirect" title="Wiktionary:Cleanup and deletion process">Cleanup and deletion process</a>
+</td>
+<td>Requesting cleanup or deletion.
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Templates#Inflection-table_templates" title="Wiktionary:Templates">Inflection-table templates</a>
+</td>
+<td>Using templates to indicate <a href="/wiki/inflection" title="inflection">inflection</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Reconstructed_terms" title="Wiktionary:Reconstructed terms">Reconstructed terms</a>
+</td>
+<td>Dealing with reconstructed terms such as <a href="/wiki/Indo-European" title="Indo-European">Indo-European</a> <a href="/wiki/root" title="root">roots</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Interacting_with_other_users" title="Help:Interacting with other users">Interacting with other users</a>
+</td>
+<td>Dealing with communications issues, should they arise.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Creating_a_template" title="Help:Creating a template">Creating a template</a>
+</td>
+<td>Creating a template.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Language_inflection_bot" title="Help:Language inflection bot">Language inflection bot</a>
+</td>
+<td>Running a language inflection bot using a Python framework.
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading3"><h3 id="Wikis_in_general" data-mw-thread-id="h-Wikis_in_general-Intermediate_help"><span data-mw-comment-start="" id="h-Wikis_in_general-Intermediate_help"></span>Wikis in general<span data-mw-comment-end="h-Wikis_in_general-Intermediate_help"></span></h3></div>
+<table class="wikitable" style="width:100%;">
+<tbody><tr>
+<th style="width:15em;">Link</th>
+<th>Description
+</th></tr>
+<tr>
+<td><a href="/wiki/Help:How_to_edit_a_page" title="Help:How to edit a page">Editing</a>
+</td>
+<td>Detailed help on editing pages.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Namespace" class="mw-redirect" title="Help:Namespace">Namespaces</a>
+</td>
+<td>Organisation by page title prefix.
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiktionary:Templates" title="Wiktionary:Templates">Templates</a>
+</td>
+<td>Predefined content inserted using code snippets.
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Showing_the_contents_of_one_page_within_another_page" title="Help:Showing the contents of one page within another page">Showing the contents of one page within another page</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Help:Transwiki" title="Help:Transwiki">Transwiki</a>
+</td>
+<td>Moving content from one wiki to another.
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2 ext-discussiontools-init-section"><h2 id="All_help_pages" data-mw-thread-id="h-All_help_pages"><span data-mw-comment-start="" id="h-All_help_pages"></span>All help pages<span data-mw-comment-end="h-All_help_pages"></span></h2><!--__DTELLIPSISBUTTON__{"threadItem":{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-All_help_pages","replies":[]}}--></div>
+<div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li class="allpagesredirect"><a href="/wiki/Help:A_quick_guide_to_templates" class="mw-redirect" title="Help:A quick guide to templates">Help:A quick guide to templates</a></li>
+<li><a href="/wiki/Help:Adding_and_removing_languages" title="Help:Adding and removing languages">Help:Adding and removing languages</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Advanced_Wiktionary_skills" class="mw-redirect" title="Help:Advanced Wiktionary skills">Help:Advanced Wiktionary skills</a></li>
+<li><a href="/wiki/Help:Appendices" title="Help:Appendices">Help:Appendices</a></li>
+<li><a href="/wiki/Help:Appendices/Index" title="Help:Appendices/Index">Help:Appendices/Index</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Appendix" class="mw-redirect" title="Help:Appendix">Help:Appendix</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Audio" class="mw-redirect" title="Help:Audio">Help:Audio</a></li>
+<li><a href="/wiki/Help:Audio_pronunciations" title="Help:Audio pronunciations">Help:Audio pronunciations</a></li>
+<li><a href="/wiki/Help:Blocking" title="Help:Blocking">Help:Blocking</a></li>
+<li><a href="/wiki/Help:Bots" title="Help:Bots">Help:Bots</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:CAT" class="mw-redirect" title="Help:CAT">Help:CAT</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Categories" class="mw-redirect" title="Help:Categories">Help:Categories</a></li>
+<li><a href="/wiki/Help:Category" title="Help:Category">Help:Category</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Citations,_Quotations,_References" class="mw-redirect" title="Help:Citations, Quotations, References">Help:Citations, Quotations, References</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Citations,_quotations,_references" class="mw-redirect" title="Help:Citations, quotations, references">Help:Citations, quotations, references</a></li>
+<li><a href="/wiki/Help:Citations_and_references" title="Help:Citations and references">Help:Citations and references</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Conjugation_bot" class="mw-redirect" title="Help:Conjugation bot">Help:Conjugation bot</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Content" class="mw-redirect" title="Help:Content">Help:Content</a></li>
+<li><a href="/wiki/Help:Contents" title="Help:Contents">Help:Contents</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Context_labels" class="mw-redirect" title="Help:Context labels">Help:Context labels</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Context_tags" class="mw-redirect" title="Help:Context tags">Help:Context tags</a></li>
+<li><a href="/wiki/Help:Creating_a_template" title="Help:Creating a template">Help:Creating a template</a></li>
+<li><a href="/wiki/Help:Creating_a_vote" title="Help:Creating a vote">Help:Creating a vote</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Creating_templates" class="mw-redirect" title="Help:Creating templates">Help:Creating templates</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Customizing_your_monobook" class="mw-redirect" title="Help:Customizing your monobook">Help:Customizing your monobook</a></li>
+<li><a href="/wiki/Help:Customizing_your_skin" title="Help:Customizing your skin">Help:Customizing your skin</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Declensions_in_Icelandic" class="mw-redirect" title="Help:Declensions in Icelandic">Help:Declensions in Icelandic</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Del" class="mw-redirect" title="Help:Del">Help:Del</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Delete" class="mw-redirect" title="Help:Delete">Help:Delete</a></li>
+<li><a href="/wiki/Help:Dispute_resolution" title="Help:Dispute resolution">Help:Dispute resolution</a></li>
+<li><a href="/wiki/Help:Dispute_resolution/update" title="Help:Dispute resolution/update">Help:Dispute resolution/update</a></li>
+<li><a href="/wiki/Help:Disputing_a_definition" title="Help:Disputing a definition">Help:Disputing a definition</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Documentation" class="mw-redirect" title="Help:Documentation">Help:Documentation</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Documenting_templates" class="mw-redirect" title="Help:Documenting templates">Help:Documenting templates</a></li>
+<li><a href="/wiki/Help:Documenting_templates_and_modules" title="Help:Documenting templates and modules">Help:Documenting templates and modules</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:ELE" class="mw-redirect" title="Help:ELE">Help:ELE</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Edit_conflict" class="mw-redirect" title="Help:Edit conflict">Help:Edit conflict</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Edit_summaries" class="mw-redirect" title="Help:Edit summaries">Help:Edit summaries</a></li>
+<li><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Help:Edit summary</a></li>
+<li><a href="/wiki/Help:Edit_toolbar" title="Help:Edit toolbar">Help:Edit toolbar</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Editing" class="mw-redirect" title="Help:Editing">Help:Editing</a></li>
+<li><a href="/wiki/Help:Emailing_users" title="Help:Emailing users">Help:Emailing users</a></li>
+<li><a href="/wiki/Help:Error_console" title="Help:Error console">Help:Error console</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Etymology" class="mw-redirect" title="Help:Etymology">Help:Etymology</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Example_sentences" class="mw-redirect" title="Help:Example sentences">Help:Example sentences</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Extended_image_syntax" class="mw-redirect" title="Help:Extended image syntax">Help:Extended image syntax</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:External_links" class="mw-redirect" title="Help:External links">Help:External links</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:External_links/sandbox" class="mw-redirect" title="Help:External links/sandbox">Help:External links/sandbox</a></li>
+<li><a href="/wiki/Help:FAQ" title="Help:FAQ">Help:FAQ</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Fonts" class="mw-redirect" title="Help:Fonts">Help:Fonts</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Footnote" class="mw-redirect" title="Help:Footnote">Help:Footnote</a></li>
+<li><a href="/wiki/Help:Footnotes" title="Help:Footnotes">Help:Footnotes</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Footnoting" class="mw-redirect" title="Help:Footnoting">Help:Footnoting</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Formula" class="mw-redirect" title="Help:Formula">Help:Formula</a></li>
+<li><a href="/wiki/Help:Further_reading" title="Help:Further reading">Help:Further reading</a></li>
+<li><a href="/wiki/Help:Further_reading/sandbox" title="Help:Further reading/sandbox">Help:Further reading/sandbox</a></li>
+<li><a href="/wiki/Help:Gadget-HotCat" title="Help:Gadget-HotCat">Help:Gadget-HotCat</a></li>
+<li><a href="/wiki/Help:Glosses" title="Help:Glosses">Help:Glosses</a></li>
+<li><a href="/wiki/Help:How_to_create_basic_entries_on_other_Wiktionaries" title="Help:How to create basic entries on other Wiktionaries">Help:How to create basic entries on other Wiktionaries</a></li>
+<li><a href="/wiki/Help:How_to_edit_a_page" title="Help:How to edit a page">Help:How to edit a page</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Icelandic_adjectival_declensions" class="mw-redirect" title="Help:Icelandic adjectival declensions">Help:Icelandic adjectival declensions</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Icelandic_declension" class="mw-redirect" title="Help:Icelandic declension">Help:Icelandic declension</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Icelandic_declensions" class="mw-redirect" title="Help:Icelandic declensions">Help:Icelandic declensions</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Image" class="mw-redirect" title="Help:Image">Help:Image</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Images" class="mw-redirect" title="Help:Images">Help:Images</a></li>
+<li><a href="/wiki/Help:Index" title="Help:Index">Help:Index</a></li>
+<li><a href="/wiki/Help:Index/Languages" title="Help:Index/Languages">Help:Index/Languages</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Interacting_with_humans" class="mw-redirect" title="Help:Interacting with humans">Help:Interacting with humans</a></li>
+<li><a href="/wiki/Help:Interacting_with_other_users" title="Help:Interacting with other users">Help:Interacting with other users</a></li>
+<li><a href="/wiki/Help:Internal_links" title="Help:Internal links">Help:Internal links</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Interwiki" class="mw-redirect" title="Help:Interwiki">Help:Interwiki</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Interwiki_link" class="mw-redirect" title="Help:Interwiki link">Help:Interwiki link</a></li>
+<li><a href="/wiki/Help:Interwiki_linking" title="Help:Interwiki linking">Help:Interwiki linking</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Interwikis" class="mw-redirect" title="Help:Interwikis">Help:Interwikis</a></li>
+<li><a href="/wiki/Help:Language_inflection_bot" title="Help:Language inflection bot">Help:Language inflection bot</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Language_section" class="mw-redirect" title="Help:Language section">Help:Language section</a></li>
+<li><a href="/wiki/Help:Language_sections" title="Help:Language sections">Help:Language sections</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Logging_in" class="mw-redirect" title="Help:Logging in">Help:Logging in</a></li>
+<li><a href="/wiki/Help:Magic_words" title="Help:Magic words">Help:Magic words</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Malayalam" class="mw-redirect" title="Help:Malayalam">Help:Malayalam</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Media" class="mw-redirect" title="Help:Media">Help:Media</a></li>
+<li><a href="/wiki/Help:Minor_edit" title="Help:Minor edit">Help:Minor edit</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Misspellings" class="mw-redirect" title="Help:Misspellings">Help:Misspellings</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Mon_consonants" class="mw-redirect" title="Help:Mon consonants">Help:Mon consonants</a></li>
+<li><a href="/wiki/Help:Mon_orthography_and_pronunciation" title="Help:Mon orthography and pronunciation">Help:Mon orthography and pronunciation</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Moving_a_page" class="mw-redirect" title="Help:Moving a page">Help:Moving a page</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Multimedia" class="mw-redirect" title="Help:Multimedia">Help:Multimedia</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Namespace" class="mw-redirect" title="Help:Namespace">Help:Namespace</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Namespaces" class="mw-redirect" title="Help:Namespaces">Help:Namespaces</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Naming_a_template" class="mw-redirect" title="Help:Naming a template">Help:Naming a template</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Naming_templates" class="mw-redirect" title="Help:Naming templates">Help:Naming templates</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Nominating_an_article_for_cleanup_or_deletion" class="mw-redirect" title="Help:Nominating an article for cleanup or deletion">Help:Nominating an article for cleanup or deletion</a></li>
+<li><a href="/wiki/Help:Page_history" title="Help:Page history">Help:Page history</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Patrol" class="mw-redirect" title="Help:Patrol">Help:Patrol</a></li>
+<li><a href="/wiki/Help:Patrolled_edits" title="Help:Patrolled edits">Help:Patrolled edits</a></li>
+<li><a href="/wiki/Help:Pings" title="Help:Pings">Help:Pings</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Quotations" class="mw-redirect" title="Help:Quotations">Help:Quotations</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:RFV" class="mw-redirect" title="Help:RFV">Help:RFV</a></li>
+<li><a href="/wiki/Help:Range_blocks" title="Help:Range blocks">Help:Range blocks</a></li>
+<li><a href="/wiki/Help:Redirect" title="Help:Redirect">Help:Redirect</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Redirection" class="mw-redirect" title="Help:Redirection">Help:Redirection</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Redirects" class="mw-redirect" title="Help:Redirects">Help:Redirects</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:References" class="mw-redirect" title="Help:References">Help:References</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Renaming_(moving)_a_page" class="mw-redirect" title="Help:Renaming (moving) a page">Help:Renaming (moving) a page</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Requests_for_verification" class="mw-redirect" title="Help:Requests for verification">Help:Requests for verification</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Reversion" class="mw-redirect" title="Help:Reversion">Help:Reversion</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Revert" class="mw-redirect" title="Help:Revert">Help:Revert</a></li>
+<li><a href="/wiki/Help:Reverting" title="Help:Reverting">Help:Reverting</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Reverting_a_page_to_an_earlier_version" class="mw-redirect" title="Help:Reverting a page to an earlier version">Help:Reverting a page to an earlier version</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Reverting_and_undoing" class="mw-redirect" title="Help:Reverting and undoing">Help:Reverting and undoing</a></li>
+<li><a href="/wiki/Help:Searching" title="Help:Searching">Help:Searching</a></li>
+<li><a href="/wiki/Help:Show_preview" title="Help:Show preview">Help:Show preview</a></li>
+<li><a href="/wiki/Help:Showing_the_contents_of_one_page_within_another_page" title="Help:Showing the contents of one page within another page">Help:Showing the contents of one page within another page</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">Help:Signing your posts</a></li>
+<li><a href="/wiki/Help:Special_page" title="Help:Special page">Help:Special page</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Special_pages" class="mw-redirect" title="Help:Special pages">Help:Special pages</a></li>
+<li><a href="/wiki/Help:Starting_a_new_page" title="Help:Starting a new page">Help:Starting a new page</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Starting_a_new_page/Meta_version" class="mw-redirect" title="Help:Starting a new page/Meta version">Help:Starting a new page/Meta version</a></li>
+<li><a href="/wiki/Help:Sysop_tools" title="Help:Sysop tools">Help:Sysop tools</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Talk_page" class="mw-redirect" title="Help:Talk page">Help:Talk page</a></li>
+<li><a href="/wiki/Help:Talk_pages" title="Help:Talk pages">Help:Talk pages</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Template" class="mw-redirect" title="Help:Template">Help:Template</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Templates" class="mw-redirect" title="Help:Templates">Help:Templates</a></li>
+<li><a href="/wiki/Help:Tips_and_tricks" title="Help:Tips and tricks">Help:Tips and tricks</a></li>
+<li><a href="/wiki/Help:Tips_and_tricks/Bookmarklets" title="Help:Tips and tricks/Bookmarklets">Help:Tips and tricks/Bookmarklets</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Translation_gloss" class="mw-redirect" title="Help:Translation gloss">Help:Translation gloss</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Translations" class="mw-redirect" title="Help:Translations">Help:Translations</a></li>
+<li><a href="/wiki/Help:Transwiki" title="Help:Transwiki">Help:Transwiki</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Tutorial" class="mw-redirect" title="Help:Tutorial">Help:Tutorial</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Undo" class="mw-redirect" title="Help:Undo">Help:Undo</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Undoing" class="mw-redirect" title="Help:Undoing">Help:Undoing</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Unicode" class="mw-redirect" title="Help:Unicode">Help:Unicode</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:User_and_user_talk_pages" class="mw-redirect" title="Help:User and user talk pages">Help:User and user talk pages</a></li>
+<li><a href="/wiki/Help:User_contributions" title="Help:User contributions">Help:User contributions</a></li>
+<li><a href="/wiki/Help:User_style" title="Help:User style">Help:User style</a></li>
+<li><a href="/wiki/Help:Welcoming" title="Help:Welcoming">Help:Welcoming</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:When_do_pings_get_sent%3F" class="mw-redirect" title="Help:When do pings get sent?">Help:When do pings get sent?</a></li>
+<li><a href="/wiki/Help:Wikitext_quick_reference" title="Help:Wikitext quick reference">Help:Wikitext quick reference</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Writing_a_template" class="mw-redirect" title="Help:Writing a template">Help:Writing a template</a></li>
+<li><a href="/wiki/Help:Writing_definitions" title="Help:Writing definitions">Help:Writing definitions</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:Writing_templates" class="mw-redirect" title="Help:Writing templates">Help:Writing templates</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:contents" class="mw-redirect" title="Help:contents">Help:contents</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:help" class="mw-redirect" title="Help:help">Help:help</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:ifexist" class="mw-redirect" title="Help:ifexist">Help:ifexist</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:rfd" class="mw-redirect" title="Help:rfd">Help:rfd</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:switch" class="mw-redirect" title="Help:switch">Help:switch</a></li>
+<li class="allpagesredirect"><a href="/wiki/Help:titleparts" class="mw-redirect" title="Help:titleparts">Help:titleparts</a></li>
+</ul></div>
+<div class="mw-heading mw-heading2 ext-discussiontools-init-section"><h2 id="See_also" data-mw-thread-id="h-See_also"><span data-mw-comment-start="" id="h-See_also"></span>See also<span data-mw-comment-end="h-See_also"></span></h2><!--__DTELLIPSISBUTTON__{"threadItem":{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-See_also","replies":[]}}--></div>
+<ul><li><a href="/wiki/Wiktionary:Community_portal" class="mw-redirect" title="Wiktionary:Community portal">Community portal</a></li>
+<li><a href="/wiki/Wiktionary:Utilities" title="Wiktionary:Utilities">Wiktionary:Utilities</a></li>
+<li>Discussion pages:
+<ul><li><a href="/wiki/Wiktionary:Information_desk" title="Wiktionary:Information desk">Basic questions</a></li>
+<li><a href="/wiki/Wiktionary:Beer_parlour" title="Wiktionary:Beer parlour">Policy questions</a></li>
+<li><a href="/wiki/Wiktionary:Tea_room" title="Wiktionary:Tea room">Specific words</a></li>
+<li><a href="/wiki/Wiktionary:Grease_pit" title="Wiktionary:Grease pit">Technical</a></li></ul></li>
+<li><a href="/wiki/glossary" title="glossary">Glossaries</a> of terms used in:
+<ul><li>Wiktionary entries <a href="/wiki/Appendix:Glossary" title="Appendix:Glossary">Appendix:Glossary</a></li>
+<li>Wiktionary elsewhere <a href="/wiki/Wiktionary:Glossary" title="Wiktionary:Glossary">Wiktionary:Glossary</a></li></ul></li></ul>
+<ul><li><a href="https://en.wikipedia.org/wiki/Wikipedia:Help" class="extiw" title="w:Wikipedia:Help">Wikipedia's help pages</a> (more detailed)
+<ul><li><a href="https://en.wikipedia.org/wiki/Help:Multilingual_support" class="extiw" title="w:Help:Multilingual support">Fonts to download</a></li></ul></li>
+<li><a href="https://meta.wikimedia.org/wiki/Help:Help" class="extiw" title="m:Help:Help">Meta Help</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐75687f9f4b‐7hvk8
+Cached time: 20250324073533
+Cache expiry: 682
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+DiscussionTools time usage: 0.019 seconds
+CPU time usage: 0.187 seconds
+Real time usage: 0.258 seconds
+Preprocessor visited node count: 109/1000000
+Post‐expand include size: 1833/2097152 bytes
+Template argument size: 143/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 20212/5000000 bytes
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 6168563/104857600 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  207.893      1 -total
+ 92.04%  191.338      1 Template:process_header
+ 90.41%  187.947      1 Template:shortcut
+  6.49%   13.487      1 Special:AllPages/Help:
+  1.13%    2.359      4 Wiktionary:Index/table
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:2189611:|#|:idhash:canonical and timestamp 20250324073533 and revision id 68992613. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=Help:Contents&amp;oldid=68992613">https://en.wiktionary.org/w/index.php?title=Help:Contents&amp;oldid=68992613</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Help" title="Category:Help">Help</a></li><li><a href="/wiki/Category:Indexes" title="Category:Indexes">Indexes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wiktionary_pages_with_shortcuts" title="Category:Wiktionary pages with shortcuts">Wiktionary pages with shortcuts</a></li><li><a href="/wiki/Category:Requests_for_cleanup" title="Category:Requests for cleanup">Requests for cleanup</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 31 August 2022, at 11:37.</li>
+	<li id="footer-info-copyright">Definitions and other text are available under the <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply. By using this site, you agree to the <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wiktionary:About">About Wiktionary</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wiktionary:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wiktionary.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=Help:Contents&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input"
+									
+									type="search" name="search" placeholder="Search Wiktionary">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Contents" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-namespace">Help</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Contents</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>47 languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-75687f9f4b-7hvk8","wgBackendResponseTime":426,"wgDiscussionToolsPageThreads":[{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Basic_help","replies":[{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Introduction-Basic_help","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Editing-Basic_help","replies":[]}]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Intermediate_help","replies":[{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Wiktionary-Intermediate_help","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Wikis_in_general-Intermediate_help","replies":[]}]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-All_help_pages","replies":[]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-See_also","replies":[]}],"wgPageParseReport":{"discussiontools":{"limitreport-timeusage":"0.019"},"limitreport":{"cputime":"0.187","walltime":"0.258","ppvisitednodes":{"value":109,"limit":1000000},"postexpandincludesize":{"value":1833,"limit":2097152},"templateargumentsize":{"value":143,"limit":2097152},"expansiondepth":{"value":6,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":20212,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  207.893      1 -total"," 92.04%  191.338      1 Template:process_header"," 90.41%  187.947      1 Template:shortcut","  6.49%   13.487      1 Special:AllPages/Help:","  1.13%    2.359      4 Wiktionary:Index/table"]},"scribunto":{"limitreport-timeusage":{"value":"0.116","limit":"10.000"},"limitreport-memusage":{"value":6168563,"limit":104857600}},"cachereport":{"origin":"mw-web.eqiad.main-75687f9f4b-7hvk8","timestamp":"20250324073533","ttl":682,"transientcontent":true}}});});</script>
+</body>
+</html>

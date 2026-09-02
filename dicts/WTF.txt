@@ -1,0 +1,16 @@
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- deu-eng.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- eng-ara.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- eng-ces.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- eng-chn.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- eng-deu.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- eng-hrv.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- english.freq.all.csv
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- english.freq.csv
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- gaelic.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- hrv-eng.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- jpn-deu.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- jpn-eng.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- korean.tsv
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- tur-eng.dic
+ git checkout 56497e654821a718ef2ee5fff0e2c19ccaee916c -- turkish.csv
+
