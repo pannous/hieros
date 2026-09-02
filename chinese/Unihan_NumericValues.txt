@@ -1,0 +1,167 @@
+# Unihan_NumericValues.txt
+# Date: 2024-07-31 00:00:00 GMT [KL]
+# Unicode Version 16.0.0
+#
+# Unicode Character Database
+# © 2024 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+# For terms of use and license, see https://www.unicode.org/terms_of_use.html
+#
+# For documentation, see https://www.unicode.org/reports/tr38/
+#
+# This file contains data on the following fields from the Unihan database:
+#	kAccountingNumeric
+#	kOtherNumeric
+#	kPrimaryNumeric
+#	kVietnameseNumeric
+#	kZhuangNumeric
+#
+U+3405 㐅	kOtherNumeric	5
+U+3431 㐱	kVietnameseNumeric	9
+U+3483 㒃	kOtherNumeric	2
+U+3576 㕶	kZhuangNumeric	5
+U+382A 㠪	kOtherNumeric	5
+U+3B4D 㭍	kOtherNumeric	7
+U+4E00 一	kPrimaryNumeric	1
+U+4E03 七	kPrimaryNumeric	7
+U+4E07 万	kPrimaryNumeric	10000
+U+4E09 三	kPrimaryNumeric	3
+U+4E24 两	kOtherNumeric	2
+U+4E59 乙	kZhuangNumeric	1
+U+4E5D 九	kPrimaryNumeric	9
+U+4E86 了	kZhuangNumeric	1
+U+4E8C 二	kPrimaryNumeric	2
+U+4E94 五	kPrimaryNumeric	5
+U+4E96 亖	kOtherNumeric	4
+U+4EAC 京	kPrimaryNumeric	10000000000000000
+U+4EBF 亿	kPrimaryNumeric	100000000
+U+4EC0 什	kOtherNumeric	10
+U+4EDF 仟	kAccountingNumeric	1000
+U+4EE8 仨	kOtherNumeric	3
+U+4F0D 伍	kAccountingNumeric	5
+U+4F70 佰	kAccountingNumeric	100
+U+4FC9 俉	kZhuangNumeric	5
+U+4FE9 俩	kOtherNumeric	2
+U+5006 倆	kOtherNumeric	2
+U+5104 億	kPrimaryNumeric	100000000
+U+5146 兆	kPrimaryNumeric	1000000 1000000000000
+U+5169 兩	kOtherNumeric	2
+U+516B 八	kPrimaryNumeric	8
+U+516D 六	kPrimaryNumeric	6
+U+5341 十	kPrimaryNumeric	10
+U+5343 千	kPrimaryNumeric	1000
+U+5344 卄	kOtherNumeric	20
+U+5345 卅	kOtherNumeric	30
+U+534C 卌	kOtherNumeric	40
+U+53C1 叁	kAccountingNumeric	3
+U+53C2 参	kAccountingNumeric	3
+U+53C3 參	kAccountingNumeric	3
+U+53C4 叄	kOtherNumeric	3
+U+53CC 双	kZhuangNumeric	2
+U+53F0 台	kVietnameseNumeric	2
+U+540A 吊	kZhuangNumeric	1
+U+5549 啉	kVietnameseNumeric	100
+U+56DB 四	kPrimaryNumeric	4
+U+58F1 壱	kAccountingNumeric	1
+U+58F9 壹	kAccountingNumeric	1
+U+5954 奔	kVietnameseNumeric	4
+U+5C1E 尞	kZhuangNumeric	1
+U+5E7A 幺	kOtherNumeric	1
+U+5EFE 廾	kOtherNumeric	9
+U+5EFF 廿	kOtherNumeric	20
+U+5F0C 弌	kAccountingNumeric	1
+U+5F0D 弍	kAccountingNumeric	2
+U+5F0E 弎	kAccountingNumeric	3
+U+5F10 弐	kAccountingNumeric	2
+U+5F66 彦	kVietnameseNumeric	1000
+U+62D0 拐	kOtherNumeric	7
+U+62FE 拾	kAccountingNumeric	10
+U+634C 捌	kAccountingNumeric	8
+U+672C 本	kVietnameseNumeric	4
+U+677E 松	kZhuangNumeric	2
+U+6797 林	kVietnameseNumeric	100
+U+67D2 柒	kAccountingNumeric	7
+U+6C92 沒	kVietnameseNumeric	1
+U+6CA1 没	kVietnameseNumeric	1
+U+6D1E 洞	kOtherNumeric	0
+U+6F06 漆	kAccountingNumeric	7
+U+7396 玖	kAccountingNumeric	9
+U+767E 百	kPrimaryNumeric	100
+U+7695 皕	kOtherNumeric	200
+U+79ED 秭	kPrimaryNumeric	1000000000 1000000000000
+U+7A7A 空	kVietnameseNumeric	0
+U+7F62 罢	kVietnameseNumeric	7
+U+7F77 罷	kVietnameseNumeric	7
+U+8086 肆	kAccountingNumeric	4
+U+80FD 能	kZhuangNumeric	1
+U+842C 萬	kPrimaryNumeric	10000
+U+8511 蔑	kVietnameseNumeric	1
+U+8CAE 貮	kAccountingNumeric	2
+U+8CB3 貳	kAccountingNumeric	2
+U+8D30 贰	kAccountingNumeric	2
+U+8FC8 迈	kVietnameseNumeric	10
+U+9081 邁	kVietnameseNumeric	10
+U+920E 鈎	kOtherNumeric	9
+U+94A9 钩	kOtherNumeric	9
+U+9621 阡	kAccountingNumeric	1000
+U+9646 陆	kAccountingNumeric	6
+U+964C 陌	kAccountingNumeric	100
+U+9678 陸	kAccountingNumeric	6
+U+96F6 零	kPrimaryNumeric	0
+U+20001 𠀁	kOtherNumeric	7
+U+20027 𠀧	kVietnameseNumeric	3
+U+20064 𠁤	kOtherNumeric	4
+U+200E2 𠃢	kOtherNumeric	4
+U+200E9 𠃩	kVietnameseNumeric	9
+U+20121 𠄡	kOtherNumeric	5
+U+20129 𠄩	kVietnameseNumeric	2
+U+20136 𠄶	kVietnameseNumeric	5
+U+2013B 𠄻	kVietnameseNumeric	5
+U+2013C 𠄼	kVietnameseNumeric	5
+U+2052D 𠔭	kVietnameseNumeric	8
+U+20929 𠤩	kVietnameseNumeric	7
+U+2092A 𠤪	kOtherNumeric	1
+U+20983 𠦃	kOtherNumeric	30
+U+2098C 𠦌	kOtherNumeric	40
+U+2099C 𠦜	kOtherNumeric	40
+U+209A9 𠦩	kVietnameseNumeric	10
+U+209B3 𠦳	kVietnameseNumeric	1000
+U+20AEA 𠫪	kOtherNumeric	6
+U+20AFD 𠫽	kOtherNumeric	3
+U+20B19 𠬙	kOtherNumeric	3
+U+20B20 𠬠	kVietnameseNumeric	1
+U+20BA9 𠮩	kZhuangNumeric	1
+U+20CA2 𠲢	kZhuangNumeric	1
+U+22390 𢎐	kOtherNumeric	2
+U+22482 𢒂	kVietnameseNumeric	9
+U+22998 𢦘	kOtherNumeric	3
+U+23B1B 𣬛	kOtherNumeric	3
+U+24F93 𤾓	kVietnameseNumeric	100
+U+2626D 𦉭	kOtherNumeric	4
+U+26271 𦉱	kVietnameseNumeric	7
+U+2629A 𦊚	kVietnameseNumeric	4
+U+264B9 𦒹	kVietnameseNumeric	6
+U+2846E 𨑮	kVietnameseNumeric	10
+U+28492 𨒒	kVietnameseNumeric	10
+U+28DC8 𨷈	kVietnameseNumeric	10000
+U+2B52C 𫔬	kVietnameseNumeric	10000
+U+2B866 𫡦	kVietnameseNumeric	9
+U+2B875 𫡵	kVietnameseNumeric	5
+U+2B92F 𫤯	kVietnameseNumeric	8
+U+2B9C7 𫧇	kZhuangNumeric	1
+U+2C0BD 𬂽	kVietnameseNumeric	5
+U+2C0F4 𬃴	kVietnameseNumeric	100
+U+2C65E 𬙞	kVietnameseNumeric	7
+U+2CB99 𬮙	kVietnameseNumeric	10000
+U+2CEB4 𬺴	kZhuangNumeric	1
+U+3000C 𰀌	kZhuangNumeric	1
+U+30FD8 𰿘	kVietnameseNumeric	10000
+U+31357 𱍗	kVietnameseNumeric	1
+U+31394 𱎔	kVietnameseNumeric	2
+U+31396 𱎖	kVietnameseNumeric	5
+U+31455 𱑕	kVietnameseNumeric	10
+U+3197A 𱥺	kVietnameseNumeric	1
+U+31FA3 𱾣	kVietnameseNumeric	10000
+U+32226 𲈦	kVietnameseNumeric	10000
+
+# EOF
