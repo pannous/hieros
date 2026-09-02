@@ -4929,11 +4929,9 @@ duru 	𒁁 	# BAD sign, standard logogram for dūru "wall/fortification" (Nebuch
 durani 	𒁁𒎌 	# BAD+MEŠ, dūrāni "walls" pl.
 dūrāni 	𒁁𒎌
 sin 	𒂗𒍪 	# EN.ZU ligature, moon-god Sin, cf. Narām-Sin's ilu Sin already used 𒀭𒂗𒍪 elsewhere
-Sin 	𒂗𒍪
-ningal 	𒎏𒃲 	# NIN.GAL, moon-god's consort Ningal, reuses NIN+GAL
-Ningal 	𒎏𒃲
-ila 	𒅋𒀀 	# il-a phonetic complement, uses standard IL 𒅋 (NOT the line-37 Hammurabi-override IL entry which is wrong here)
+Ningal 	𒎏𒃲 		# NIN.GAL, moon-god's consort Ningal, reuses NIN+GAL
+ila 	𒅋𒀀 	
 anaku_correct 	𒀀𒈾𒆪 	# a-na-ku "I am" spelled syllabically (A+NA+KU); the existing `anaku` key is WRONG (reuses NAGGA "lead"), do not use it
 adari 	𒀀𒁕𒊑 	# a-da-ri, month name Adaru, composed from A+DA+RI
 satti 	𒊭𒀜𒋾 	# ša-at-ti "year", composed from ŠA+AT+TI
-de 	𒌤 	# confirmed from A-ga-de.KI in the book's own printed example (Sargon, king of Agade), session 1
+de2 	𒌤 	# confirmed from A-ga-de.KI in the book's own printed example (Sargon, king of Agade), session 1

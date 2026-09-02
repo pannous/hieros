@@ -1,0 +1,281 @@
+# SpecialCasing-16.0.0.txt
+# Date: 2024-05-10, 22:49:00 GMT
+# © 2024 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+# For terms of use and license, see https://www.unicode.org/terms_of_use.html
+#
+# Unicode Character Database
+#   For documentation, see https://www.unicode.org/reports/tr44/
+#
+# Special Casing
+#
+# This file is a supplement to the UnicodeData.txt file. The data in this file, combined with
+# the simple case mappings in UnicodeData.txt, defines the full case mappings
+# Lowercase_Mapping (lc), Titlecase_Mapping (tc), and Uppercase_Mapping (uc).
+# For compatibility, the UnicodeData.txt file only contains simple case mappings
+# for characters where they are one-to-one (and independent of context and language).
+#
+# For historical reasons, this file also provides additional information about the casing
+# of Unicode characters for selected situations when casing is dependent on context or locale.
+#
+# Note that the preferred mechanism for defining tailored casing operations is
+# the Unicode Common Locale Data Repository (CLDR). For more information, see the
+# discussion of case mappings and case algorithms in the Unicode Standard.
+#
+# All code points not listed in this file that do not have simple case mappings
+# in UnicodeData.txt map to themselves.
+# ================================================================================
+# Format
+# ================================================================================
+# The entries in this file are in the following machine-readable format:
+#
+# <code>; <lower>; <title>; <upper>; (<condition_list>;)? # <comment>
+#
+# <code>, <lower>, <title>, and <upper> provide the respective full case mappings
+# of <code>, expressed as character values in hex. If there is more than one character,
+# they are separated by spaces. Other than as used to separate elements, spaces are
+# to be ignored.
+#
+# The <condition_list> is optional. Where present, it consists of one or more language IDs
+# or casing contexts, separated by spaces. In these conditions:
+# - A condition list overrides the normal behavior if all of the listed conditions are true.
+# - The casing context is always the context of the characters in the original string,
+#   NOT in the resulting string.
+# - Case distinctions in the condition list are not significant.
+# - Conditions preceded by "Not_" represent the negation of the condition.
+# The condition list is not represented in the UCD as a formal property.
+#
+# A language ID is defined by BCP 47, with '-' and '_' treated equivalently.
+#
+# A casing context for a character is defined by Section 3.13 Default Case Algorithms
+# of The Unicode Standard.
+#
+# Parsers of this file must be prepared to deal with future additions to this format:
+#  * Additional contexts
+#  * Additional fields
+# ================================================================================
+
+# ================================================================================
+# Unconditional mappings
+# ================================================================================
+
+# The German es-zed is special--the normal mapping is to SS.
+# Note: the titlecase should never occur in practice. It is equal to titlecase(uppercase(<es-zed>))
+
+ß	ß; 0053 0073; 0053 0053; # LATIN SMALL LETTER SHARP S
+
+# Preserve canonical equivalence for I with dot. Turkic is handled below.
+
+İ	i 0307; 0130; 0130; # LATIN CAPITAL LETTER I WITH DOT ABOVE
+
+# Ligatures
+
+ﬀ	ﬀ; 0046 0066; 0046 0046; # LATIN SMALL LIGATURE FF
+ﬁ	ﬁ; 0046 0069; 0046 0049; # LATIN SMALL LIGATURE FI
+ﬂ	ﬂ; 0046 006C; 0046 004C; # LATIN SMALL LIGATURE FL
+ﬃ	ﬃ; 0046 0066 0069; 0046 0046 0049; # LATIN SMALL LIGATURE FFI
+ﬄ	ﬄ; 0046 0066 006C; 0046 0046 004C; # LATIN SMALL LIGATURE FFL
+ﬅ	ﬅ; 0053 0074; 0053 0054; # LATIN SMALL LIGATURE LONG S T
+ﬆ	ﬆ; 0053 0074; 0053 0054; # LATIN SMALL LIGATURE ST
+
+և	և; 0535 0582; 0535 0552; # ARMENIAN SMALL LIGATURE ECH YIWN
+ﬓ	ﬓ; 0544 0576; 0544 0546; # ARMENIAN SMALL LIGATURE MEN NOW
+ﬔ	ﬔ; 0544 0565; 0544 0535; # ARMENIAN SMALL LIGATURE MEN ECH
+ﬕ	ﬕ; 0544 056B; 0544 053B; # ARMENIAN SMALL LIGATURE MEN INI
+ﬖ	ﬖ; 054E 0576; 054E 0546; # ARMENIAN SMALL LIGATURE VEW NOW
+ﬗ	ﬗ; 0544 056D; 0544 053D; # ARMENIAN SMALL LIGATURE MEN XEH
+
+# No corresponding uppercase precomposed character
+
+ŉ	ŉ; 02BC 004E; 02BC 004E; # LATIN SMALL LETTER N PRECEDED BY APOSTROPHE
+ΐ	ΐ; 0399 0308 0301; 0399 0308 0301; # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
+ΰ	ΰ; 03A5 0308 0301; 03A5 0308 0301; # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
+ǰ	ǰ; 004A 030C; 004A 030C; # LATIN SMALL LETTER J WITH CARON
+ẖ	ẖ; 0048 0331; 0048 0331; # LATIN SMALL LETTER H WITH LINE BELOW
+ẗ	ẗ; 0054 0308; 0054 0308; # LATIN SMALL LETTER T WITH DIAERESIS
+ẘ	ẘ; 0057 030A; 0057 030A; # LATIN SMALL LETTER W WITH RING ABOVE
+ẙ	ẙ; 0059 030A; 0059 030A; # LATIN SMALL LETTER Y WITH RING ABOVE
+ẚ	ẚ; 0041 02BE; 0041 02BE; # LATIN SMALL LETTER A WITH RIGHT HALF RING
+ὐ	ὐ; 03A5 0313; 03A5 0313; # GREEK SMALL LETTER UPSILON WITH PSILI
+ὒ	ὒ; 03A5 0313 0300; 03A5 0313 0300; # GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA
+ὔ	ὔ; 03A5 0313 0301; 03A5 0313 0301; # GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
+ὖ	ὖ; 03A5 0313 0342; 03A5 0313 0342; # GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI
+ᾶ	ᾶ; 0391 0342; 0391 0342; # GREEK SMALL LETTER ALPHA WITH PERISPOMENI
+ῆ	ῆ; 0397 0342; 0397 0342; # GREEK SMALL LETTER ETA WITH PERISPOMENI
+ῒ	ῒ; 0399 0308 0300; 0399 0308 0300; # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA
+ΐ	ΐ; 0399 0308 0301; 0399 0308 0301; # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA
+ῖ	ῖ; 0399 0342; 0399 0342; # GREEK SMALL LETTER IOTA WITH PERISPOMENI
+ῗ	ῗ; 0399 0308 0342; 0399 0308 0342; # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
+ῢ	ῢ; 03A5 0308 0300; 03A5 0308 0300; # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
+ΰ	ΰ; 03A5 0308 0301; 03A5 0308 0301; # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND OXIA
+ῤ	ῤ; 03A1 0313; 03A1 0313; # GREEK SMALL LETTER RHO WITH PSILI
+ῦ	ῦ; 03A5 0342; 03A5 0342; # GREEK SMALL LETTER UPSILON WITH PERISPOMENI
+ῧ	ῧ; 03A5 0308 0342; 03A5 0308 0342; # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
+ῶ	ῶ; 03A9 0342; 03A9 0342; # GREEK SMALL LETTER OMEGA WITH PERISPOMENI
+
+# IMPORTANT-when iota-subscript (0345) is uppercased or titlecased,
+#  the result will be incorrect unless the iota-subscript is moved to the end
+#  of any sequence of combining marks. Otherwise, the accents will go on the capital iota.
+#  This process can be achieved by first transforming the text to NFC before casing.
+#  E.g. <alpha><iota_subscript><acute> is uppercased to <ALPHA><acute><IOTA>
+
+# The following cases are already in the UnicodeData.txt file, so are only commented here.
+
+# 0345; 0345; 0399; 0399; # COMBINING GREEK YPOGEGRAMMENI
+
+# All letters with YPOGEGRAMMENI (iota-subscript) or PROSGEGRAMMENI (iota adscript)
+# have special uppercases.
+# Note: characters with PROSGEGRAMMENI are actually titlecase, not uppercase!
+
+ᾀ	ᾀ; 1F88; 1F08 0399; # GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI
+ᾁ	ᾁ; 1F89; 1F09 0399; # GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI
+ᾂ	ᾂ; 1F8A; 1F0A 0399; # GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+ᾃ	ᾃ; 1F8B; 1F0B 0399; # GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+ᾄ	ᾄ; 1F8C; 1F0C 0399; # GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+ᾅ	ᾅ; 1F8D; 1F0D 0399; # GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+ᾆ	ᾆ; 1F8E; 1F0E 0399; # GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+ᾇ	ᾇ; 1F8F; 1F0F 0399; # GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+ᾈ	ᾀ; 1F88; 1F08 0399; # GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI
+ᾉ	ᾁ; 1F89; 1F09 0399; # GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI
+ᾊ	ᾂ; 1F8A; 1F0A 0399; # GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+ᾋ	ᾃ; 1F8B; 1F0B 0399; # GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+ᾌ	ᾄ; 1F8C; 1F0C 0399; # GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+ᾍ	ᾅ; 1F8D; 1F0D 0399; # GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+ᾎ	ᾆ; 1F8E; 1F0E 0399; # GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+ᾏ	ᾇ; 1F8F; 1F0F 0399; # GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+ᾐ	ᾐ; 1F98; 1F28 0399; # GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI
+ᾑ	ᾑ; 1F99; 1F29 0399; # GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI
+ᾒ	ᾒ; 1F9A; 1F2A 0399; # GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+ᾓ	ᾓ; 1F9B; 1F2B 0399; # GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+ᾔ	ᾔ; 1F9C; 1F2C 0399; # GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+ᾕ	ᾕ; 1F9D; 1F2D 0399; # GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+ᾖ	ᾖ; 1F9E; 1F2E 0399; # GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+ᾗ	ᾗ; 1F9F; 1F2F 0399; # GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+ᾘ	ᾐ; 1F98; 1F28 0399; # GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI
+ᾙ	ᾑ; 1F99; 1F29 0399; # GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI
+ᾚ	ᾒ; 1F9A; 1F2A 0399; # GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+ᾛ	ᾓ; 1F9B; 1F2B 0399; # GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+ᾜ	ᾔ; 1F9C; 1F2C 0399; # GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+ᾝ	ᾕ; 1F9D; 1F2D 0399; # GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+ᾞ	ᾖ; 1F9E; 1F2E 0399; # GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+ᾟ	ᾗ; 1F9F; 1F2F 0399; # GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+ᾠ	ᾠ; 1FA8; 1F68 0399; # GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI
+ᾡ	ᾡ; 1FA9; 1F69 0399; # GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI
+ᾢ	ᾢ; 1FAA; 1F6A 0399; # GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+ᾣ	ᾣ; 1FAB; 1F6B 0399; # GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+ᾤ	ᾤ; 1FAC; 1F6C 0399; # GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+ᾥ	ᾥ; 1FAD; 1F6D 0399; # GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+ᾦ	ᾦ; 1FAE; 1F6E 0399; # GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+ᾧ	ᾧ; 1FAF; 1F6F 0399; # GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+ᾨ	ᾠ; 1FA8; 1F68 0399; # GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI
+ᾩ	ᾡ; 1FA9; 1F69 0399; # GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI
+ᾪ	ᾢ; 1FAA; 1F6A 0399; # GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+ᾫ	ᾣ; 1FAB; 1F6B 0399; # GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+ᾬ	ᾤ; 1FAC; 1F6C 0399; # GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+ᾭ	ᾥ; 1FAD; 1F6D 0399; # GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+ᾮ	ᾦ; 1FAE; 1F6E 0399; # GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+ᾯ	ᾧ; 1FAF; 1F6F 0399; # GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+ᾳ	ᾳ; 1FBC; 0391 0399; # GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI
+ᾼ	ᾳ; 1FBC; 0391 0399; # GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI
+ῃ	ῃ; 1FCC; 0397 0399; # GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI
+ῌ	ῃ; 1FCC; 0397 0399; # GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI
+ῳ	ῳ; 1FFC; 03A9 0399; # GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI
+ῼ	ῳ; 1FFC; 03A9 0399; # GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI
+
+# Some characters with YPOGEGRAMMENI also have no corresponding titlecases
+
+ᾲ	ᾲ; 1FBA 0345; 1FBA 0399; # GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI
+ᾴ	ᾴ; 0386 0345; 0386 0399; # GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI
+ῂ	ῂ; 1FCA 0345; 1FCA 0399; # GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI
+ῄ	ῄ; 0389 0345; 0389 0399; # GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI
+ῲ	ῲ; 1FFA 0345; 1FFA 0399; # GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI
+ῴ	ῴ; 038F 0345; 038F 0399; # GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI
+
+ᾷ	ᾷ; 0391 0342 0345; 0391 0342 0399; # GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI
+ῇ	ῇ; 0397 0342 0345; 0397 0342 0399; # GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI
+ῷ	ῷ; 03A9 0342 0345; 03A9 0342 0399; # GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI
+
+# ================================================================================
+# Conditional Mappings
+# The remainder of this file provides conditional casing data used to produce
+# full case mappings.
+# ================================================================================
+# Language-Insensitive Mappings
+# These are characters whose full case mappings do not depend on language, but do
+# depend on context (which characters come before or after). For more information
+# see the header of this file and the Unicode Standard.
+# ================================================================================
+
+# Special case for final form of sigma
+
+Σ	ς; 03A3; 03A3; Final_Sigma; # GREEK CAPITAL LETTER SIGMA
+
+# Note: the following cases for non-final are already in the UnicodeData.txt file.
+
+# 03A3; 03C3; 03A3; 03A3; # GREEK CAPITAL LETTER SIGMA
+# 03C3; 03C3; 03A3; 03A3; # GREEK SMALL LETTER SIGMA
+# 03C2; 03C2; 03A3; 03A3; # GREEK SMALL LETTER FINAL SIGMA
+
+# Note: the following cases are not included, since they would case-fold in lowercasing
+
+# 03C3; 03C2; 03A3; 03A3; Final_Sigma; # GREEK SMALL LETTER SIGMA
+# 03C2; 03C3; 03A3; 03A3; Not_Final_Sigma; # GREEK SMALL LETTER FINAL SIGMA
+
+# ================================================================================
+# Language-Sensitive Mappings
+# These are characters whose full case mappings depend on language and perhaps also
+# context (which characters come before or after). For more information
+# see the header of this file and the Unicode Standard.
+# ================================================================================
+
+# Lithuanian
+
+# Lithuanian retains the dot in a lowercase i when followed by accents.
+
+# Remove DOT ABOVE after "i" with upper or titlecase
+
+̇	̇; ; ; lt After_Soft_Dotted; # COMBINING DOT ABOVE
+
+# Introduce an explicit dot above when lowercasing capital I's and J's
+# whenever there are more accents above.
+# (of the accents used in Lithuanian: grave, acute, tilde above, and ogonek)
+
+I	i 0307; 0049; 0049; lt More_Above; # LATIN CAPITAL LETTER I
+J	j 0307; 004A; 004A; lt More_Above; # LATIN CAPITAL LETTER J
+Į	į 0307; 012E; 012E; lt More_Above; # LATIN CAPITAL LETTER I WITH OGONEK
+Ì	i 0307 0300; 00CC; 00CC; lt; # LATIN CAPITAL LETTER I WITH GRAVE
+Í	i 0307 0301; 00CD; 00CD; lt; # LATIN CAPITAL LETTER I WITH ACUTE
+Ĩ	i 0307 0303; 0128; 0128; lt; # LATIN CAPITAL LETTER I WITH TILDE
+
+# ================================================================================
+
+# Turkish and Azeri
+
+# I and i-dotless; I-dot and i are case pairs in Turkish and Azeri
+# The following rules handle those cases.
+
+İ	i; 0130; 0130; tr; # LATIN CAPITAL LETTER I WITH DOT ABOVE
+İ	i; 0130; 0130; az; # LATIN CAPITAL LETTER I WITH DOT ABOVE
+
+# When lowercasing, remove dot_above in the sequence I + dot_above, which will turn into i.
+# This matches the behavior of the canonically equivalent I-dot_above
+
+̇	0307; ; 0307; 0307; tr After_I; # COMBINING DOT ABOVE
+̇	0307; ; 0307; 0307; az After_I; # COMBINING DOT ABOVE
+
+# When lowercasing, unless an I is before a dot_above, it turns into a dotless i.
+
+I	ı; 0049; 0049; tr Not_Before_Dot; # LATIN CAPITAL LETTER I
+I	ı; 0049; 0049; az Not_Before_Dot; # LATIN CAPITAL LETTER I
+
+# When uppercasing, i turns into a dotted capital I
+
+i	i; 0130; 0130; tr; # LATIN SMALL LETTER I
+i	i; 0130; 0130; az; # LATIN SMALL LETTER I
+
+# Note: the following case is already in the UnicodeData.txt file.
+
+# 0131; 0131; 0049; 0049; tr; # LATIN SMALL LETTER DOTLESS I
+
+# EOF
+

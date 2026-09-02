@@ -1,0 +1,1335 @@
+cat Brahmi.scripts.list| while read x; do u $x >> Brahmi.ALL.abc; done
+
+𑀀	CANDRABINDU
+𑀁	ANUSVARA
+𑀂	VISARGA
+𑀃	JIHVAMULIYA
+𑀄	UPADHMANIYA
+𑀅	A
+𑀆	AA
+𑀇	I
+𑀈	II
+𑀉	U
+𑀊	UU
+𑀋	!R
+𑀌	!RR
+𑀍	!L
+𑀎	!LL
+𑀏	E
+𑀐	AI
+𑀑	O
+𑀒	AU
+𑀓	KA
+𑀔	KHA
+𑀕	GA
+𑀖	GHA
+𑀗	NGA
+𑀘	CA
+𑀙	CHA
+𑀚	JA
+𑀛	JHA
+𑀜	NYA
+𑀝	TTA
+𑀞	TTHA
+𑀟	DDA
+𑀠	DDHA
+𑀡	NNA
+𑀢	TA
+𑀣	THA
+𑀤	DA
+𑀥	DHA
+𑀦	NA
+𑀧	PA
+𑀨	PHA
+𑀩	BA
+𑀪	BHA
+𑀫	MA
+𑀬	YA
+𑀭	RA
+𑀮	LA
+𑀯	VA
+𑀰	SHA
+𑀱	SSA
+𑀲	SA
+𑀳	HA
+𑀴	LLA
+	AA
+𑀹	BHATTIPROLU AA
+𑀺	I
+𑀻	II
+𑀼	U
+𑀽	UU
+𑀾	!R
+𑀿	!RR
+𑁀	!L
+𑁁	!LL
+𑁂	E
+𑁃	AI
+𑁄	O
+𑁅	AU
+𑁆	𑁇	𑁈	DANDA
+𑁉	DOT
+𑁊	DOUBLE DOT
+𑁋	LINE
+𑁌	CRESCENT BAR
+𑁍	LOTUS
+𑁒	ONE
+𑁓	TWO
+𑁔	THREE
+𑁕	FOUR
+𑁖	FIVE
+𑁗	SIX
+𑁘	SEVEN
+𑁙	EIGHT
+𑁚	NINE
+𑁛	TEN
+𑁜	TWENTY
+𑁝	THIRTY
+𑁞	FORTY
+𑁟	FIFTY
+𑁠	SIXTY
+𑁡	SEVENTY
+𑁢	EIGHTY
+𑁣	NINETY
+𑁤	ONE HUNDRED
+𑁥	ONE THOUSAND
+𑁦	ZERO
+𑁧	ONE
+𑁨	TWO
+𑁩	THREE
+𑁪	FOUR
+𑁫	FIVE
+𑁬	SIX
+𑁭	SEVEN
+𑁮	EIGHT
+𑁯	NINE
+𑁿	JOINER
+
+brahmi  |k|kh|g|gh|ṅ|c|ch|j|jh|ñ|ṭ|ṭh|ḍ|ḍh|ṇ|t|th|d|dh|n|p|ph|b|bh|m|y|r|l|v|ś|ṣ|s|h|ḷ-
+brahmi-a|𑀓|𑀔 |𑀕|𑀖|𑀗|𑀘 |𑀙 |𑀚|𑀛 |𑀜|𑀝|𑀞|𑀟|𑀠 |𑀡 |𑀢|𑀣|𑀤 |𑀥 |𑀦|𑀧|𑀨 |𑀩|𑀪|𑀫|𑀬|𑀭|𑀮|𑀯|𑀰|𑀱|𑀲|𑀳|𑀴
+brahmi-ā|𑀓𑀸|𑀔𑀸 |𑀕𑀸|𑀖𑀸|𑀗𑀸|𑀘𑀸 |𑀙𑀸 |𑀚𑀸|𑀛𑀸 |𑀜𑀸|𑀝𑀸|𑀞𑀸|𑀟𑀸|𑀠𑀸 |𑀡𑀸 |𑀢𑀸|𑀣𑀸|𑀤𑀸 |𑀥𑀸 |𑀦𑀸|𑀧𑀸|𑀨𑀸 |𑀩𑀸|𑀪𑀸|𑀫𑀸|𑀬𑀸|𑀭𑀸|𑀮𑀸|𑀯𑀸|𑀰𑀸|𑀱𑀸|𑀲𑀸|𑀳𑀸|𑀴𑀸
+brahmi-i|𑀓𑀺|𑀔𑀺 |𑀕𑀺|𑀖𑀺|𑀗𑀺|𑀘𑀺 |𑀙𑀺 |𑀚𑀺|𑀛𑀺 |𑀜𑀺|𑀝𑀺|𑀞𑀺|𑀟𑀺|𑀠𑀺 |𑀡𑀺 |𑀢𑀺|𑀣𑀺|𑀤𑀺 |𑀥𑀺 |𑀦𑀺|𑀧𑀺|𑀨𑀺 |𑀩𑀺|𑀪𑀺|𑀫𑀺|𑀬𑀺|𑀭𑀺|𑀮𑀺|𑀯𑀺|𑀰𑀺|𑀱𑀺|𑀲𑀺|𑀳𑀺|𑀴𑀺
+brahmi-ī|𑀓𑀻|𑀔𑀻 |𑀕𑀻|𑀖𑀻|𑀗𑀻|𑀘𑀻 |𑀙𑀻 |𑀚𑀻|𑀛𑀻 |𑀜𑀻|𑀝𑀻|𑀞𑀻|𑀟𑀻|𑀠𑀻 |𑀡𑀻 |𑀢𑀻|𑀣𑀻|𑀤𑀻 |𑀥𑀻 |𑀦𑀻|𑀧𑀻|𑀨𑀻 |𑀩𑀻|𑀪𑀻|𑀫𑀻|𑀬𑀻|𑀭𑀻|𑀮𑀻|𑀯𑀻|𑀰𑀻|𑀱𑀻|𑀲𑀻|𑀳𑀻|𑀴𑀻
+brahmi-u|𑀓𑀼|𑀔𑀼 |𑀕𑀼|𑀖𑀼|𑀗𑀼|𑀘𑀼 |𑀙𑀼 |𑀚𑀼|𑀛𑀼 |𑀜𑀼|𑀝𑀼|𑀞𑀼|𑀟𑀼|𑀠𑀼 |𑀡𑀼 |𑀢𑀼|𑀣𑀼|𑀤𑀼 |𑀥𑀼 |𑀦𑀼|𑀧𑀼|𑀨𑀼 |𑀩𑀼|𑀪𑀼|𑀫𑀼|𑀬𑀼|𑀭𑀼|𑀮𑀼|𑀯𑀼|𑀰𑀼|𑀱𑀼|𑀲𑀼|𑀳𑀼|𑀴𑀼
+brahmi-ū|𑀓𑀽|𑀔𑀽 |𑀕𑀽|𑀖𑀽|𑀗𑀽|𑀘𑀽 |𑀙𑀽 |𑀚𑀽|𑀛𑀽 |𑀜𑀽|𑀝𑀽|𑀞𑀽|𑀟𑀽|𑀠𑀽 |𑀡 |𑀢𑀽|𑀣𑀽|𑀤𑀽 |𑀥𑀽 |𑀦𑀽|𑀧𑀽|𑀨𑀽 |𑀩𑀽|𑀪𑀽|𑀫𑀽|𑀬𑀽|𑀭𑀽|𑀮𑀽|𑀯𑀽|𑀰𑀽|𑀱𑀽|𑀲𑀽|𑀳𑀽|𑀴𑀽
+brahmi-e|𑀓𑁂|𑀔𑁂 |𑀕𑁂|𑀖𑁂|𑀗𑁂|𑀘𑁂 |𑀙𑁂 |𑀚𑁂|𑀛𑁂 |𑀜𑁂|𑀝𑁂|𑀞𑁂|𑀟𑁂|𑀠𑁂 |𑀡 |𑀢𑁂|𑀣𑁂|𑀤𑁂 |𑀥𑁂 |𑀦𑁂|𑀧𑁂|𑀨𑁂 |𑀩𑁂|𑀪𑁂|𑀫𑁂|𑀬𑁂|𑀭𑁂|𑀮𑁂|𑀯𑁂|𑀰𑁂|𑀱𑁂|𑀲𑁂|𑀳𑁂|𑀴𑁂
+brahmi-ø|𑀓𑁆|𑀔𑁆 |𑀕𑁆|𑀖𑁆|𑀗𑁆|𑀘𑁆 |𑀙𑁆 |𑀚𑁆|𑀛𑁆 |𑀜𑁆|𑀝𑁆|𑀞𑁆|𑀟𑁆|𑀠𑁆 |𑀡𑁆 |𑀢𑁆|𑀣𑁆|𑀤𑁆 |𑀥𑁆 |𑀦𑁆|𑀧𑁆|𑀨𑁆 |𑀩𑁆|𑀪𑁆|𑀫𑁆|𑀬𑁆|𑀭𑁆|𑀮𑁆|𑀯𑁆|𑀰𑁆|𑀱𑁆|𑀲𑁆|𑀳𑁆|𑀴𑁆
+brahmi-o|𑀓𑁄|𑀔𑁄 |𑀕𑁄|𑀖𑁄|𑀗𑁄|𑀘𑁄 |𑀙𑁄 |𑀚𑁄|𑀛𑁄|𑀜𑁄|𑀝𑁄|𑀞𑁄|𑀟𑁄|𑀠𑁄 |𑀡 |𑀢𑁄|𑀣𑁄|𑀤𑁄 |𑀥𑁄 |𑀦𑁄|𑀧𑁄|𑀨𑁄 |𑀩𑁄|𑀪𑁄|𑀫𑁄|𑀬𑁄|𑀭𑁄|𑀮𑁄|𑀯𑁄|𑀰𑁄|𑀱𑁄|𑀲𑁄|𑀳𑁄|𑀴𑁄
+0x0900-0x097F	2304-2431	Devanagari
+Devanagari
+CANDRABINDU	ँ
+ANUSVARA	ं
+VISARGA	ः
+A	अ
+AA	आ
+I	इ
+II	ई
+U	उ
+UU	ऊ
+!R	ऋ
+!L	ऌ
+CANDRA E	ऍ
+SHORT E	ऎ
+E	ए
+AI	ऐ
+CANDRA O	ऑ
+SHORT O	ऒ
+O	ओ
+AU	औ
+KA	क
+KHA	ख
+GA	ग
+GHA	घ
+NGA	ङ
+CA	च
+CHA	छ
+JA	ज
+JHA	झ
+NYA	ञ
+TTA	ट
+TTHA	ठ
+DDA	ड
+DDHA	ढ
+NNA	ण
+TA	त
+THA	थ
+DA	द
+DHA	ध
+NA	न
+NNNA	ऩ
+PA	प
+PHA	फ
+BA	ब
+BHA	भ
+MA	म
+YA	य
+RA	र
+RRA	ऱ
+LA	ल
+LLA	ळ
+LLLA	ऴ
+VA	व
+SHA	श
+SSA	ष
+SA	स
+HA	ह
+NUKTA	़
+AVAGRAHA	ऽ
+AA	ा
+I	ि
+II	ी
+U	ु
+UU	ू
+!R	ृ
+!RR	ॄ
+CANDRA E	ॅ
+SHORT E	ॆ
+E	े
+AI	ै
+CANDRA O	ॉ
+SHORT O	ॊ
+O	ो
+AU	ौ
+VIRAMA	्
+ॐ
+UDATTA	॑
+ANUDATTA	॒
+ACCENT	॓
+ACCENT	॔
+QA	क़
+KHHA	ख़
+GHHA	ग़
+ZA	ज़
+DDDHA	ड़
+RHA	ढ़
+FA	फ़
+YYA	य़
+!RR	ॠ
+!LL	ॡ
+!L	ॢ
+!LL	ॣ
+।
+DANDA	॥
+ZERO	०
+ONE	१
+TWO	२
+THREE	३
+FOUR	४
+FIVE	५
+SIX	६
+SEVEN	७
+EIGHT	८
+NINE	९
+॰
+
+CANDRABINDU	ঁ
+ANUSVARA	ং
+VISARGA	ঃ
+A	অ
+AA	আ
+I	ই
+II	ঈ
+U	উ
+UU	ঊ
+!R	ঋ
+!L	ঌ
+E	এ
+AI	ঐ
+O	ও
+AU	ঔ
+KA	ক
+KHA	খ
+GA	গ
+GHA	ঘ
+NGA	ঙ
+CA	চ
+CHA	ছ
+JA	জ
+JHA	ঝ
+NYA	ঞ
+TTA	ট
+TTHA	ঠ
+DDA	ড
+DDHA	ঢ
+NNA	ণ
+TA	ত
+THA	থ
+DA	দ
+DHA	ধ
+NA	ন
+PA	প
+PHA	ফ
+BA	ব
+BHA	ভ
+MA	ম
+YA	য
+RA	র
+LA	ল
+SHA	শ
+SSA	ষ
+SA	স
+HA	হ
+NUKTA	়
+AA	া
+I	ি
+II	ী
+U	ু
+UU	ূ
+!R	ৃ
+!RR	ৄ
+E	ে
+AI	ৈ
+O	ো
+AU	ৌ
+VIRAMA	্
+LENGTH MARK	ৗ
+RRA	ড়
+RHA	ঢ়
+YYA	য়
+!RR	ৠ
+!LL	ৡ
+!L	ৢ
+!LL	ৣ
+ZERO	০
+ONE	১
+TWO	২
+THREE	৩
+FOUR	৪
+FIVE	৫
+SIX	৬
+SEVEN	৭
+EIGHT	৮
+NINE	৯
+RA WITH MIDDLE DIAGONAL	ৰ
+RA WITH LOWER DIAGONAL	ৱ
+MARK	৲
+৳
+NUMERATOR ONE	৴
+NUMERATOR TWO	৵
+NUMERATOR THREE	৶
+NUMERATOR FOUR	৷
+NUMERATOR ONE LESS THAN THE DENOMINATOR	৸
+DENOMINATOR SIXTEEN	৹
+৺
+
+BINDI	ਂ
+A	ਅ
+AA	ਆ
+I	ਇ
+II	ਈ
+U	ਉ
+UU	ਊ
+EE	ਏ
+AI	ਐ
+OO	ਓ
+AU	ਔ
+KA	ਕ
+KHA	ਖ
+GA	ਗ
+GHA	ਘ
+NGA	ਙ
+CA	ਚ
+CHA	ਛ
+JA	ਜ
+JHA	ਝ
+NYA	ਞ
+TTA	ਟ
+TTHA	ਠ
+DDA	ਡ
+DDHA	ਢ
+NNA	ਣ
+TA	ਤ
+THA	ਥ
+DA	ਦ
+DHA	ਧ
+NA	ਨ
+PA	ਪ
+PHA	ਫ
+BA	ਬ
+BHA	ਭ
+MA	ਮ
+YA	ਯ
+RA	ਰ
+LA	ਲ
+LLA	ਲ਼
+VA	ਵ
+SHA	ਸ਼
+SA	ਸ
+HA	ਹ
+NUKTA	਼
+AA	ਾ
+I	ਿ
+II	ੀ
+U	ੁ
+UU	ੂ
+EE	ੇ
+AI	ੈ
+OO	ੋ
+AU	ੌ
+VIRAMA	੍
+KHHA	ਖ਼
+GHHA	ਗ਼
+ZA	ਜ਼
+RRA	ੜ
+FA	ਫ਼
+ZERO	੦
+ONE	੧
+TWO	੨
+THREE	੩
+FOUR	੪
+FIVE	੫
+SIX	੬
+SEVEN	੭
+EIGHT	੮
+NINE	੯
+
+ੲ
+ੳ
+ONKAR	ੴ
+
+CANDRABINDU	ઁ
+ANUSVARA	ં
+VISARGA	ઃ
+A	અ
+AA	આ
+I	ઇ
+II	ઈ
+U	ઉ
+UU	ઊ
+!R	ઋ
+CANDRA E	ઍ
+E	એ
+AI	ઐ
+CANDRA O	ઑ
+O	ઓ
+AU	ઔ
+KA	ક
+KHA	ખ
+GA	ગ
+GHA	ઘ
+NGA	ઙ
+CA	ચ
+CHA	છ
+JA	જ
+JHA	ઝ
+NYA	ઞ
+TTA	ટ
+TTHA	ઠ
+DDA	ડ
+DDHA	ઢ
+NNA	ણ
+TA	ત
+THA	થ
+DA	દ
+DHA	ધ
+NA	ન
+PA	પ
+PHA	ફ
+BA	બ
+BHA	ભ
+MA	મ
+YA	ય
+RA	ર
+LA	લ
+LLA	ળ
+VA	વ
+SHA	શ
+SSA	ષ
+SA	સ
+HA	હ
+NUKTA	઼
+AVAGRAHA	ઽ
+AA	ા
+I	િ
+II	ી
+U	ુ
+UU	ૂ
+!R	ૃ
+!RR	ૄ
+CANDRA E	ૅ
+E	ે
+AI	ૈ
+CANDRA O	ૉ
+O	ો
+AU	ૌ
+VIRAMA	્
+ૐ
+!RR	ૠ
+ZERO	૦
+ONE	૧
+TWO	૨
+THREE	૩
+FOUR	૪
+FIVE	૫
+SIX	૬
+SEVEN	૭
+EIGHT	૮
+NINE	૯
+Aries 	♈ 	U+2648 	&#9800; 	Aries (zodiac constellation)
+Taurus 	♉ 	U+2649 	&#9801; 	Taurus (zodiac constellation)
+Gemini 	♊ 	U+264A 	&#9802; 	Gemini (zodiac constellation)
+Cancer 	♋ 	U+264B 	&#9803; 	Cancer (zodiac constellation)
+Leo 	♌ 	U+264C 	&#9804; 	Leo (zodiac constellation)
+Virgo 	♍ 	U+264D 	&#9805; 	Virgo (zodiac constellation)
+Libra 	♎ 	U+264E 	&#9806; 	Libra (zodiac constellation)
+Scorpius 	♏ 	U+264F 	&#9807; 	Scorpius (zodiac constellation), minim
+Sagittarius 	♐ 	U+2650 	&#9808; 	Sagittarius (zodiac constellation)
+Capricorn 	♑ 	U+2651 	&#9809; 	Capricornus (zodiac constellation)
+Aquarius 	♒ 	U+2652 	&#9810; 	Aquarius (zodiac constellation)
+Pisces 	♓ 	U+2653 	&#9811; 	Pisces (zodiac constellation)
+
+    🇰🇭 Cambodia
+ANUSVARA	ஂ
+VISARGA	ஃ
+A	அ
+AA	ஆ
+I	இ
+II	ஈ
+U	உ
+UU	ஊ
+E	எ
+EE	ஏ
+AI	ஐ
+O	ஒ
+OO	ஓ
+AU	ஔ
+KA	க
+NGA	ங
+CA	ச
+JA	ஜ
+NYA	ஞ
+TTA	ட
+NNA	ண
+TA	த
+NA	ந
+NNNA	ன
+PA	ப
+MA	ம
+YA	ய
+RA	ர
+RRA	ற
+LA	ல
+LLA	ள
+LLLA	ழ
+VA	வ
+SSA	ஷ
+SA	ஸ
+HA	ஹ
+AA	ா
+I	ி
+II	ீ
+U	ு
+UU	ூ
+E	ெ
+EE	ே
+AI	ை
+O	ொ
+OO	ோ
+AU	ௌ
+VIRAMA	்
+LENGTH MARK	ௗ
+ONE	௧
+TWO	௨
+THREE	௩
+FOUR	௪
+FIVE	௫
+SIX	௬
+SEVEN	௭
+EIGHT	௮
+NINE	௯
+TEN	௰
+ONE HUNDRED	௱
+ONE THOUSAND	௲
+
+0x0C00-0x0C7F	3072-3199	Telugu
+Telugu
+CANDRABINDU	ఁ
+ANUSVARA	ం
+VISARGA	ః
+A	అ
+AA	ఆ
+I	ఇ
+II	ఈ
+U	ఉ
+UU	ఊ
+!R	ఋ
+!L	ఌ
+E	ఎ
+EE	ఏ
+AI	ఐ
+O	ఒ
+OO	ఓ
+AU	ఔ
+KA	క
+KHA	ఖ
+GA	గ
+GHA	ఘ
+NGA	ఙ
+CA	చ
+CHA	ఛ
+JA	జ
+JHA	ఝ
+NYA	ఞ
+TTA	ట
+TTHA	ఠ
+DDA	డ
+DDHA	ఢ
+NNA	ణ
+TA	త
+THA	థ
+DA	ద
+DHA	ధ
+NA	న
+PA	ప
+PHA	ఫ
+BA	బ
+BHA	భ
+MA	మ
+YA	య
+RA	ర
+RRA	ఱ
+LA	ల
+LLA	ళ
+VA	వ
+SHA	శ
+SSA	ష
+SA	స
+HA	హ
+AA	ా
+I	ి
+II	ీ
+U	ు
+UU	ూ
+!R	ృ
+!RR	ౄ
+E	ె
+EE	ే
+AI	ై
+O	ొ
+OO	ో
+AU	ౌ
+VIRAMA	్
+MARK	ౕ
+LENGTH MARK	ౖ
+!RR	ౠ
+!LL	ౡ
+ZERO	౦
+ONE	౧
+TWO	౨
+THREE	౩
+FOUR	౪
+FIVE	౫
+SIX	౬
+SEVEN	౭
+EIGHT	౮
+NINE	౯
+0x0C80-0x0CFF	3200-3327	Kannada
+Kannada
+ANUSVARA	ಂ
+VISARGA	ಃ
+A	ಅ
+AA	ಆ
+I	ಇ
+II	ಈ
+U	ಉ
+UU	ಊ
+!R	ಋ
+!L	ಌ
+E	ಎ
+EE	ಏ
+AI	ಐ
+O	ಒ
+OO	ಓ
+AU	ಔ
+KA	ಕ
+KHA	ಖ
+GA	ಗ
+GHA	ಘ
+NGA	ಙ
+CA	ಚ
+CHA	ಛ
+JA	ಜ
+JHA	ಝ
+NYA	ಞ
+TTA	ಟ
+TTHA	ಠ
+DDA	ಡ
+DDHA	ಢ
+NNA	ಣ
+TA	ತ
+THA	ಥ
+DA	ದ
+DHA	ಧ
+NA	ನ
+PA	ಪ
+PHA	ಫ
+BA	ಬ
+BHA	ಭ
+MA	ಮ
+YA	ಯ
+RA	ರ
+RRA	ಱ
+LA	ಲ
+LLA	ಳ
+VA	ವ
+SHA	ಶ
+SSA	ಷ
+SA	ಸ
+HA	ಹ
+AA	ಾ
+I	ಿ
+II	ೀ
+U	ು
+UU	ೂ
+!R	ೃ
+!RR	ೄ
+E	ೆ
+EE	ೇ
+AI	ೈ
+O	ೊ
+OO	ೋ
+AU	ೌ
+VIRAMA	್
+MARK	ೕ
+LENGTH MARK	ೖ
+FA	ೞ
+!RR	ೠ
+!LL	ೡ
+ZERO	೦
+ONE	೧
+TWO	೨
+THREE	೩
+FOUR	೪
+FIVE	೫
+SIX	೬
+SEVEN	೭
+EIGHT	೮
+NINE	೯
+
+0x0D00-0x0D7F	3328-3455	Malayalam
+Malayalam
+ANUSVARA	ം
+VISARGA	ഃ
+A	അ
+AA	ആ
+I	ഇ
+II	ഈ
+U	ഉ
+UU	ഊ
+!R	ഋ
+!L	ഌ
+E	എ
+EE	ഏ
+AI	ഐ
+O	ഒ
+OO	ഓ
+AU	ഔ
+KA	ക
+KHA	ഖ
+GA	ഗ
+GHA	ഘ
+NGA	ങ
+CA	ച
+CHA	ഛ
+JA	ജ
+JHA	ഝ
+NYA	ഞ
+TTA	ട
+TTHA	ഠ
+DDA	ഡ
+DDHA	ഢ
+NNA	ണ
+TA	ത
+THA	ഥ
+DA	ദ
+DHA	ധ
+NA	ന
+PA	പ
+PHA	ഫ
+BA	ബ
+BHA	ഭ
+MA	മ
+YA	യ
+RA	ര
+RRA	റ
+LA	ല
+LLA	ള
+LLLA	ഴ
+VA	വ
+SHA	ശ
+SSA	ഷ
+SA	സ
+HA	ഹ
+AA	ാ
+I	ി
+II	ീ
+U	ു
+UU	ൂ
+!R	ൃ
+E	െ
+EE	േ
+AI	ൈ
+O	ൊ
+OO	ോ
+AU	ൌ
+VIRAMA	്
+LENGTH MARK	ൗ
+!RR	ൠ
+!LL	ൡ
+ZERO	൦
+ONE	൧
+TWO	൨
+THREE	൩
+FOUR	൪
+FIVE	൫
+SIX	൬
+SEVEN	൭
+EIGHT	൮
+NINE	൯
+
+
+0x0D80-0x0DFF	3456-3583	Sinhala
+Sinhala
+ANUSVARAYA	ං
+VISARGAYA	ඃ
+AYANNA	අ
+AAYANNA	ආ
+AEYANNA	ඇ
+AEEYANNA	ඈ
+IYANNA	ඉ
+IIYANNA	ඊ
+UYANNA	උ
+UUYANNA	ඌ
+IRUYANNA	ඍ
+IRUUYANNA	ඎ
+ILUYANNA	ඏ
+ILUUYANNA	ඐ
+EYANNA	එ
+EEYANNA	ඒ
+AIYANNA	ඓ
+OYANNA	ඔ
+OOYANNA	ඕ
+AUYANNA	ඖ
+ALPAPRAANA KAYANNA	ක
+MAHAAPRAANA KAYANNA	ඛ
+ALPAPRAANA GAYANNA	ග
+MAHAAPRAANA GAYANNA	ඝ
+KANTAJA NAASIKYAYA	ඞ
+SANYAKA GAYANNA	ඟ
+ALPAPRAANA CAYANNA	ච
+MAHAAPRAANA CAYANNA	ඡ
+ALPAPRAANA JAYANNA	ජ
+MAHAAPRAANA JAYANNA	ඣ
+TAALUJA NAASIKYAYA	ඤ
+TAALUJA SANYOOGA NAAKSIKYAYA	ඥ
+SANYAKA JAYANNA	ඦ
+ALPAPRAANA TTAYANNA	ට
+MAHAAPRAANA TTAYANNA	ඨ
+ALPAPRAANA DDAYANNA	ඩ
+MAHAAPRAANA DDAYANNA	ඪ
+MUURDHAJA NAYANNA	ණ
+SANYAKA DDAYANNA	ඬ
+ALPAPRAANA TAYANNA	ත
+MAHAAPRAANA TAYANNA	ථ
+ALPAPRAANA DAYANNA	ද
+MAHAAPRAANA DAYANNA	ධ
+DANTAJA NAYANNA	න
+SANYAKA DAYANNA	ඳ
+ALPAPRAANA PAYANNA	ප
+MAHAAPRAANA PAYANNA	ඵ
+ALPAPRAANA BAYANNA	බ
+MAHAAPRAANA BAYANNA	භ
+MAYANNA	ම
+AMBA BAYANNA	ඹ
+YAYANNA	ය
+RAYANNA	ර
+DANTAJA LAYANNA	ල
+VAYANNA	ව
+TAALUJA SAYANNA	ශ
+MUURDHAJA SAYANNA	ෂ
+DANTAJA SAYANNA	ස
+HAYANNA	හ
+MUURDHAJA LAYANNA	ළ
+FAYANNA	ෆ
+AL-LAKUNA	්
+AELA-PILLA	ා
+KETTI AEDA-PILLA	ැ
+DIGA AEDA-PILLA	ෑ
+KETTI IS-PILLA	ි
+DIGA IS-PILLA	ී
+KETTI PAA-PILLA	ු
+DIGA PAA-PILLA	ූ
+GAETTA-PILLA	ෘ
+KOMBUVA	ෙ
+DIGA KOMBUVA	ේ
+KOMBU DEKA	ෛ
+KOMBUVA HAA AELA-PILLA	ො
+KOMBUVA HAA DIGA AELA-PILLA	ෝ
+KOMBUVA HAA GAYANUKITTA	ෞ
+GAYANUKITTA	ෟ
+DIGA GAETTA-PILLA	ෲ
+DIGA GAYANUKITTA	ෳ
+KUNDDALIYA	෴
+
+0x0F00-0x0FFF	3840-4095	Tibetan
+Tibetan
+OM	ༀ
+GTER YIG MGO TRUNCATED A	༁
+GTER YIG MGO -UM RNAM BCAD MA	༂
+GTER YIG MGO -UM GTER TSHEG MA	༃
+INITIAL YIG MGO MDUN MA	༄
+CLOSING YIG MGO SGAB MA	༅
+CARET YIG MGO PHUR SHAD MA	༆
+YIG MGO TSHEG SHAD MA	༇
+SBRUL SHAD	༈
+BSKUR YIG MGO	༉
+BKA- SHOG YIG MGO	༊
+INTERSYLLABIC TSHEG	་
+DELIMITER TSHEG BSTAR	༌
+SHAD	།
+NYIS SHAD	༎
+TSHEG SHAD	༏
+NYIS TSHEG SHAD	༐
+RIN CHEN SPUNGS SHAD	༑
+RGYA GRAM SHAD	༒
+CARET -DZUD RTAGS ME LONG CAN	༓
+GTER TSHEG	༔
+CHAD RTAGS	༕
+LHAG RTAGS	༖
+SGRA GCAN -CHAR RTAGS	༗
+-KHYUD PA	༘
+SDONG TSHUGS	༙
+RDEL DKAR GCIG	༚
+RDEL DKAR GNYIS	༛
+RDEL DKAR GSUM	༜
+RDEL NAG GCIG	༝
+RDEL NAG GNYIS	༞
+RDEL DKAR RDEL NAG	༟
+ZERO	༠
+ONE	༡
+TWO	༢
+THREE	༣
+FOUR	༤
+FIVE	༥
+SIX	༦
+SEVEN	༧
+EIGHT	༨
+NINE	༩
+HALF ONE	༪
+HALF TWO	༫
+HALF THREE	༬
+HALF FOUR	༭
+HALF FIVE	༮
+HALF SIX	༯
+HALF SEVEN	༰
+HALF EIGHT	༱
+HALF NINE	༲
+HALF ZERO	༳
+BSDUS RTAGS	༴
+NGAS BZUNG NYI ZLA	༵
+CARET -DZUD RTAGS BZHI MIG CAN	༶
+NGAS BZUNG SGOR RTAGS	༷
+CHE MGO	༸
+TSA -PHRU	༹
+GUG RTAGS GYON	༺
+GUG RTAGS GYAS	༻
+ANG KHANG GYON	༼
+ANG KHANG GYAS	༽
+YAR TSHES	༾
+MAR TSHES	༿
+KA	ཀ
+KHA	ཁ
+GA	ག
+GHA	གྷ
+NGA	ང
+CA	ཅ
+CHA	ཆ
+JA	ཇ
+NYA	ཉ
+TTA	ཊ
+TTHA	ཋ
+DDA	ཌ
+DDHA	ཌྷ
+NNA	ཎ
+TA	ཏ
+THA	ཐ
+DA	ད
+DHA	དྷ
+NA	ན
+PA	པ
+PHA	ཕ
+BA	བ
+BHA	བྷ
+MA	མ
+TSA	ཙ
+TSHA	ཚ
+DZA	ཛ
+DZHA	ཛྷ
+WA	ཝ
+ZHA	ཞ
+ZA	ཟ
+-A	འ
+YA	ཡ
+RA	ར
+LA	ལ
+SHA	ཤ
+SSA	ཥ
+SA	ས
+HA	ཧ
+A	ཨ
+KSSA	ཀྵ
+FIXED-FORM RA	ཪ
+AA	ཱ
+I	ི
+II	ཱི
+U	ུ
+UU	ཱུ
+!R	ྲྀ
+!RR	ཷ
+!L	ླྀ
+!LL	ཹ
+E	ེ
+EE	ཻ
+O	ོ
+OO	ཽ
+RJES SU NGA RO	ཾ
+RNAM BCAD	ཿ
+REVERSED I	ྀ
+REVERSED II	ཱྀ
+NYI ZLA NAA DA	ྂ
+SNA LDAN	ྃ
+HALANTA	྄
+PALUTA	྅
+LCI RTAGS	྆
+YANG RTAGS	྇
+LCE TSA CAN	ྈ
+MCHU CAN	ྉ
+GRU CAN RGYINGS	ྊ
+GRU MED RGYINGS	ྋ
+KA	ྐ
+KHA	ྑ
+GA	ྒ
+GHA	ྒྷ
+NGA	ྔ
+CA	ྕ
+CHA	ྖ
+JA	ྗ
+NYA	ྙ
+TTA	ྚ
+TTHA	ྛ
+DDA	ྜ
+DDHA	ྜྷ
+NNA	ྞ
+TA	ྟ
+THA	ྠ
+DA	ྡ
+DHA	ྡྷ
+NA	ྣ
+PA	ྤ
+PHA	ྥ
+BA	ྦ
+BHA	ྦྷ
+MA	ྨ
+TSA	ྩ
+TSHA	ྪ
+DZA	ྫ
+DZHA	ྫྷ
+WA	ྭ
+ZHA	ྮ
+ZA	ྯ
+-A	ྰ
+YA	ྱ
+RA	ྲ
+LA	ླ
+SHA	ྴ
+SSA	ྵ
+SA	ྶ
+HA	ྷ
+A	ྸ
+KSSA	ྐྵ
+FIXED-FORM WA	ྺ
+FIXED-FORM YA	ྻ
+FIXED-FORM RA	ྼ
+RU KHA	྾
+RU KHA BZHI MIG CAN	྿
+HEAVY BEAT	࿀
+LIGHT BEAT	࿁
+CANG TE-U	࿂
+SBUB -CHAL	࿃
+DRIL BU	࿄
+RDO RJE	࿅
+PADMA GDAN	࿆
+RDO RJE RGYA GRAM	࿇
+PHUR PA	࿈
+NOR BU	࿉
+NOR BU NYIS -KHYIL	࿊
+NOR BU GSUM -KHYIL	࿋
+NOR BU BZHI -KHYIL	࿌
+RDEL NAG GSUM	࿏
+
+
+0x1780-0x17FF	6016-6143	Khmer
+Khmer
+KA	ក
+KHA	ខ
+KO	គ
+KHO	ឃ
+NGO	ង
+CA	ច
+CHA	ឆ
+CO	ជ
+CHO	ឈ
+NYO	ញ
+DA	ដ
+TTHA	ឋ
+DO	ឌ
+TTHO	ឍ
+NNO	ណ
+TA	ត
+THA	ថ
+TO	ទ
+THO	ធ
+NO	ន
+BA	ប
+PHA	ផ
+PO	ព
+PHO	ភ
+MO	ម
+YO	យ
+RO	រ
+LO	ល
+VO	វ
+SHA	ឝ
+SSO	ឞ
+SA	ស
+HA	ហ
+LA	ឡ
+QA	អ
+QAQ	ឣ
+QAA	ឤ
+QI	ឥ
+QII	ឦ
+QU	ឧ
+QUK	ឨ
+QUU	ឩ
+QUUV	ឪ
+RY	ឫ
+RYY	ឬ
+LY	ឭ
+LYY	ឮ
+QE	ឯ
+QAI	ឰ
+QOO TYPE ONE	ឱ
+QOO TYPE TWO	ឲ
+QAU	ឳ
+AQ	឴
+AA	឵
+AA	ា
+I	ិ
+II	ី
+Y	ឹ
+YY	ឺ
+U	ុ
+UU	ូ
+UA	ួ
+OE	ើ
+YA	ឿ
+IE	ៀ
+E	េ
+AE	ែ
+AI	ៃ
+OO	ោ
+AU	ៅ
+NIKAHIT	ំ
+REAHMUK	ះ
+YUUKALEAPINTU	ៈ
+MUUSIKATOAN	៉
+TRIISAP	៊
+BANTOC	់
+ROBAT	៌
+TOANDAKHIAT	៍
+KAKABAT	៎
+AHSDA	៏
+SAMYOK SANNYA	័
+VIRIAM	៑
+COENG	្
+BATHAMASAT	៓
+KHAN	។
+BARIYOOSAN	៕
+CAMNUC PII KUUH	៖
+LEK TOO	ៗ
+BEYYAL	៘
+PHNAEK MUAN	៙
+KOOMUUT	៚
+SYMBOL RIEL	៛
+AVAKRAHASANYA	ៜ
+ZERO	០
+ONE	១
+TWO	២
+THREE	៣
+FOUR	៤
+FIVE	៥
+SIX	៦
+SEVEN	៧
+EIGHT	៨
+NINE	៩
+
+0x0E00-0x0E7F	3584-3711	Thai
+Thai
+KO KAI	ก
+KHO KHAI	ข
+KHO KHUAT	ฃ
+KHO KHWAI	ค
+KHO KHON	ฅ
+KHO RAKHANG	ฆ
+NGO NGU	ง
+CHO CHAN	จ
+CHO CHING	ฉ
+CHO CHANG	ช
+SO SO	ซ
+CHO CHOE	ฌ
+YO YING	ญ
+DO CHADA	ฎ
+TO PATAK	ฏ
+THO THAN	ฐ
+THO NANGMONTHO	ฑ
+THO PHUTHAO	ฒ
+NO NEN	ณ
+DO DEK	ด
+TO TAO	ต
+THO THUNG	ถ
+THO THAHAN	ท
+THO THONG	ธ
+NO NU	น
+BO BAIMAI	บ
+PO PLA	ป
+PHO PHUNG	ผ
+FO FA	ฝ
+PHO PHAN	พ
+FO FAN	ฟ
+PHO SAMPHAO	ภ
+MO MA	ม
+YO YAK	ย
+RO RUA	ร
+RU	ฤ
+LO LING	ล
+LU	ฦ
+WO WAEN	ว
+SO SALA	ศ
+SO RUSI	ษ
+SO SUA	ส
+HO HIP	ห
+LO CHULA	ฬ
+O ANG	อ
+HO NOKHUK	ฮ
+PAIYANNOI	ฯ
+SARA A	ะ
+MAI HAN-AKAT	ั
+SARA AA	า
+SARA AM	ำ
+SARA I	ิ
+SARA II	ี
+SARA UE	ึ
+SARA UEE	ื
+SARA U	ุ
+SARA UU	ู
+PHINTHU	ฺ
+SYMBOL BAHT	฿
+SARA E	เ
+SARA AE	แ
+SARA O	โ
+SARA AI MAIMUAN	ใ
+SARA AI MAIMALAI	ไ
+LAKKHANGYAO	ๅ
+MAIYAMOK	ๆ
+MAITAIKHU	็
+MAI EK	่
+MAI THO	้
+MAI TRI	๊
+MAI CHATTAWA	๋
+THANTHAKHAT	์
+NIKHAHIT	ํ
+YAMAKKAN	๎
+FONGMAN	๏
+ZERO	๐
+ONE	๑
+TWO	๒
+THREE	๓
+FOUR	๔
+FIVE	๕
+SIX	๖
+SEVEN	๗
+EIGHT	๘
+NINE	๙
+ANGKHANKHU	๚
+KHOMUT	๛
+
+    🇹🇭 Thailand
+0x0E80-0x0EFF	3712-3839	Lao
+Lao
+KO	ກ
+KHO SUNG	ຂ
+KHO TAM	ຄ
+NGO	ງ
+CO	ຈ
+SO TAM	ຊ
+NYO	ຍ
+DO	ດ
+TO	ຕ
+THO SUNG	ຖ
+THO TAM	ທ
+NO	ນ
+BO	ບ
+PO	ປ
+PHO SUNG	ຜ
+FO TAM	ຝ
+PHO TAM	ພ
+FO SUNG	ຟ
+MO	ມ
+YO	ຢ
+LO LING	ຣ
+LO LOOT	ລ
+WO	ວ
+SO SUNG	ສ
+HO SUNG	ຫ
+O	ອ
+HO TAM	ຮ
+ຯ
+A	ະ
+MAI KAN	ັ
+AA	າ
+AM	ຳ
+I	ິ
+II	ີ
+Y	ຶ
+YY	ື
+U	ຸ
+UU	ູ
+MAI KON	ົ
+LO	ຼ
+NYO	ຽ
+E	ເ
+EI	ແ
+O	ໂ
+AY	ໃ
+AI	ໄ
+LA	ໆ
+MAI EK	່
+MAI THO	້
+MAI TI	໊
+MAI CATAWA	໋
+MARK	໌
+
+ZERO	໐
+ONE	໑
+TWO	໒
+THREE	໓
+FOUR	໔
+FIVE	໕
+SIX	໖
+SEVEN	໗
+EIGHT	໘
+NINE	໙
+NO	ໜ
+MO	ໝ
+    🇱🇦 Laos
