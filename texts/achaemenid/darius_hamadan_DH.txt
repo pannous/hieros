@@ -1,0 +1,175 @@
+DH / DHa — Darius I, gold & silver foundation tablets, Hamadan (Ecbatana)
+==========================================================================
+Museum: National Museum of Iran, Tehran. Old siglum DH (Kent 1953);
+current siglum DHa (Schmitt 2009, "DHa ex-DH"). Two duplicate deposits,
+gold (DHaG) and silver (DHas), text identical to DPh (Persepolis
+Apadana foundation tablets) apart from Old Persian line-division
+(DH/DHa = 8 OP lines, DPh = 10 OP lines; Elamite 7 lines and Akkadian
+8 lines are identical in both). Physical tablets were cut into pieces
+in antiquity/modern looting (gold: ~20 fragments, silver: 8, 7 survive)
+and reassembled before study (Unvala, Jame Jamshed, 30 Sept 1926).
+
+Sources
+-------
+- Kent, R.G., Old Persian: Grammar, Texts, Lexicon (1953), pp.111b-112a, 148.
+- Schmitt, R., Die altpersischen Inschriften der Achaimeniden (2009), pp.11, 98-99.
+- Vallat, F., Corpus des inscriptions royales en elamite achemenide (1977), pp.24, 146-148.
+  (Vallat's edition is of DPh; text stated identical to DH by Vallat/Schmitt/de.wikipedia.)
+- Schmidt, E.F., Persepolis I (OIP 68, 1953), pp.69-70 (English paraphrase only,
+  notes Babylonian variant "with the (other) gods").
+- CII (Corpus Inscriptionum Iranicarum) publication list, SOAS 2025: confirms
+  vol. II (Babylonian) and vol. III-IV (Elamite/Egyptian) fascicles for the
+  Persepolis/Hamadan foundation texts were NEVER published.
+Akkadian/Babylonian transliteration: NOT FOUND in any accessible published
+source (see above) — not included below. Do not treat its absence here as
+an oversight; it appears not to exist in citable form outside possibly
+Sidney Smith, JRAS 1926, 433-6, and Weissbach, ZfA 37 (1927), 291-4
+(pre-JSTOR, not retrieved).
+
+Elamite Unicode cuneiform below was generated using this project's own
+scripts/cuneiformize.js + abc/cuneiform.list sign table (per user
+instruction), not independently re-verified sign-by-sign against a
+photographic plate — see caveat under section 2.
+
+
+1. OLD PERSIAN (Kent 1953 p.148 / Schmitt 2009 pp.98-99), 8 lines
+------------------------------------------------------------------
+Transliteration:
+1  Dārayavaʰuš xs. : vazrka : xs. : xšāyaθiya 
+2  nām : xšāyaθiya : dahyūnām : Vištāspahyā : puça : Haxāmanišiya :
+3  θātiy : Dārayavauš : xšāyaθiya : ima : xšaçam : tya : ada
+4  m : dārayāmiy : hacā : Sakaibiš : tyaiy : pa
+5  rā : Sugdam : amata : yātā : ā : Kūšā : hacā : Hidu
+6  auv : amata : yātā : ā : Spardā : tyamaiy : Aurama
+7  zdā : frābara : hya : maθišta : bagānām : m
+8  ām : Auramazdā : pātuv : utāmaiy : viθam
+
+𐏋 𐏐 𐏋  king of kings
+𐏋 xs. xš. xšāyaθiya 𓇓 𓏏 <> 𐎧𐏁𐏂𐎶 xšaçam zardom
+𐎺𐏀𐎼𐎣 vazrka 𓋹 vigor वाज vā́ja, “strength, vigor, energy” <> woke awake
+𐎱𐎢𐏂 puça 𓅭𓇳 puer ≈ 𐩨' brˢ 'son'
+𐎰𐎠𐎫𐎡𐎹 θātiy said declare(d) 𓆓 𓂧 dice
+𐎡𐎶𐎠 imā 𓃹 𐎡𐎹𐎶 iyám इयम् this (is) 𐬍𐬨 īm
+𐎭𐎠𐎼𐎹𐎠𐎷𐎡𐎹 𓂞 𐎭𐎠𐎼𐎹𐎫𐎡𐎹
+𐏃𐎡𐎭𐎢 Hĩdu Hindu Sind
+𐏃𐏂𐎠 hacā hence from
+𐎿𐎱𐎼𐎭𐎠 Spardā “Sparta” Sardis (Lydia) 
+
+Unicode cuneiform (Old Persian script, U+103A0 block):
+1  𐎭𐎠𐎼𐎹𐎺𐎢 𐏁 𐏐 𐏋 𐏐 𐎺𐏀𐎼𐎣 𐏐 𐏋 𐏐 𐏋 
+1  𐎭𐎠𐎼𐎹𐎺𐎢𐏁 𐏐 𐏋𐏐𐎺𐏀𐎼𐎣𐏐𐏋? 𐎴𐎠𐎶 𐏐 𐏋 (gold)
+1  Dārayavaʰuš : xs. : vazrka : xs. : xšāyaθiya ( nām : xš )
+2  𐏐𐎭𐏃𐎹  gold / real reading ...
+2  𐎴𐎠𐎶 𐏋 𐎭𐏃𐎹𐎢𐎴𐎠𐎶 𐎻𐏁𐎫𐎠𐎿𐎱𐏃𐎹𐎠 𐎱𐎢𐏂 𐏃𐎧𐎠𐎶𐎴𐎡𐏁𐎡𐎹
+2  nām : xš : dahyūnām : Vištāspahyā : puça : Haxāmanišiya :
+3  𐎰𐎠𐎫𐎡𐎹 𐎭𐎠𐎼𐎹𐎺𐎢𐏁 𐏋 𐎡𐎶𐎠 𐎧𐏁𐏂𐎶 𐎫𐎹 𐎠𐎭
+3  θātiy          : Dārayavauš :         xš. : ima :      xšaçam : tya : ada
+4  𐎶 𐏐 𐎭𐎠𐎼𐎹𐎠𐎷𐎡𐎹 𐏃𐏂𐎠 𐎿𐎣𐎡𐎲𐎡𐏁 𐎫𐎹𐎡𐎹 𐎱𐎠
+4  mᵉⁿ : dārayāmiy : hacā : Sakaibiš : tyaiy : pa
+5  𐎼𐎠 𐎿𐎢𐎥𐎭𐎶 𐎠𐎶𐎫 𐎹𐎠𐎫𐎠 𐎠 𐎤𐎢𐏁𐎠 𐏃𐏂𐎠 𐏃𐎡𐎭𐎢
+5  rā : Sugdam : amata : yātā : ā : Kūšā : hacā : Hidu
+6  𐎠𐎢𐎺 𐎠𐎶𐎫 𐎹𐎠𐎫𐎠 𐎠 𐎿𐎱𐎼𐎭𐎠 𐎫𐎹𐎶𐎡𐎹 𐎠𐎢𐎼𐎶
+6  auv : amata : yātā : ā : Spardā : tyamaiy : Aurama
+7  𐏀𐎭𐎠 𐎳𐎼𐎠𐎲𐎼 𐏃𐎹 𐎶𐏂𐎡𐏁𐎫 𐎲𐎥𐎠𐎴𐎠𐎶 𐎶
+7  zdā : frābara : hya : maθišta : bagānām : m
+8  𐎠𐎶 𐎠𐎢𐎼𐎶𐏀𐎭𐎠 𐎱𐎠𐎫𐎢𐎺 𐎢𐎫𐎠𐎶𐎡𐎹 𐎻𐎰𐎶
+8  ām : Auramazdā : pātuv : utāmaiy : viθam
+
+1-2. Darius, great king, king of kings, king of countries, 
+2    son of ᵛHystaspes, an ᴴAchaemenid.
+3-4. Says Darius the king: This is the kingdom which I hold, 
+4-5 from the Scythians who are beyond Sogdiana, thence to Kush (Nubia); from
+5-6     Sind (India), thence to Sardis (Lydia) — which Ahuramazda,
+6-7     greatest of the gods, bestowed on me. 
+8     Me may Ahuramazda protect, and my house.
+
+
+2. ELAMITE (Vallat 1977, pp.146-148 — edition of DPh; text identical to DH), 7 lines
+--------------------------------------------------------------------------------------
+Transliteration:
+1. ni/m da-ri-ia-ma-u-is m SUNKI ir-sa-ra m SUNKI m SUNKI-ip-na m SUNKI m da-
+2. u-is-pè-na m mi-is-ta-as-pa sa-ak-ri ra na-ka-man-nu-is-si-ia m da-ri-ia-ma-u-is
+3. m SUNKI na-an-ri m SUNKI-um-me ap-pa m u
+4. mar-xi-ra m sa-ak-ka-pè ik-ki-mar ra ak-ka-pe AS su-ig-da mi-ut-tù-
+5. ma ku-is AS ku-sa-a-ia AS hi-in-du-is mar ku-is AS is-par-da ap-pa
+6. d u-ra-mas-da m u tu-nu-is-ta ak-ka ir-sa-ra d na-ap-pan-na
+7. m u d u-ra-mas-da un nu-is-ki-is-ni ku-ut-ta AS ul-hi.MES-mi
+
+Unicode cuneiform (generated with scripts/cuneiformize.js against this
+project's abc/cuneiform.list sign table, sign-by-sign, then independently
+cross-checked against the Unicode cuneiform sign-name table; corrections
+below applied where the two disagreed):
+1   𒁹 𒁕𒊑𒅀𒈠𒌋𒅖 𒁹 𒈗 𒅕𒊓𒊏 𒁹𒈗 𒁹𒈗𒅁𒈾 𒁹𒈗 𒁹𒁕
+2  𒌋𒅖𒁉𒈾 𒁹𒈪𒅖𒋫𒀾𒉺𒊓𒀝𒊑𒊏𒈾𒅗𒎙𒉡𒅖𒅆𒅀 𒁹𒁕𒊑𒅀𒈠𒌋𒅖
+3   𒁹𒈗𒈾𒀭𒊑 𒁹𒈗𒌝𒈨𒀊𒉺 𒁹𒌋
+4  𒈥𒄭𒊏 𒁹𒊓𒀝𒅗𒉌𒅅𒆠𒈥𒊏𒀝𒅗𒄫𒀸𒋢𒅅𒁕𒈪𒌓𒌅
+5  𒈠𒆪𒅖𒀸𒆪𒊓𒀀𒅀𒀸𒄭𒅔𒁺𒅖𒈥𒆪𒅖𒀸𒅖𒁇𒁕𒀊𒉺
+6  𒀭𒌋𒊏𒈦𒁕 𒁹𒌋𒌅𒉡𒅖𒋫𒀝𒅗𒅕𒊓𒊏𒀭𒈾𒀊𒉼𒈾
+7   𒁹𒌋𒀭𒌋𒊏𒈦𒁕𒌧𒉡𒅖𒆠𒅖𒉌𒆪𒌓𒋫𒀸𒌌𒄭𒎌 𒈪
+
+  pè (accented, u-is-pè-na and sa-ak-ka-pè) -> fed as "ni" -> 𒉌 (NI,
+        the standard sign for the bé/pè4 homophone 𒁉?? — distinct from the
+        unaccented "pe" in ak-ka-pe, which keeps the tool's PE sign 𒄫)
+
+Remaining open item: "tù" (in mi-ut-tù, line 4) has no confirmed
+distinct Unicode sign found in either pass — plain TU (𒌅, used above)
+is a placeholder, not a verified reading of this specific homophone
+(often indexed TU4 in Borger's MesZL). Needs a direct MesZL/CDLI
+sign-list lookup before treating as settled.
+
+Sign choices beyond the above are only as reliable as abc/cuneiform.list
+and the Unicode sign-name table; not checked against Vallat's
+photographic plates sign-by-sign. Treat as a working restoration, not a
+certified critical edition.
+
+Translation (from Vallat's French, p.147-148):
+1-3. (I am) Darius, the great king, king of kings, king of the lands,
+     son of Hystaspes, the Achaemenid.
+3-7. Darius the king says: "This is the kingship which I hold, from
+     the Scythians who are beyond Sogdiana as far as Ethiopia (Kush),
+     from India as far as Sardis, which Ahuramazda gave to me, (he)
+     who is the greatest of the gods. May Ahuramazda protect me and
+     my palace."
+
+
+3. BABYLONIAN / AKKADIAN — not published, not included (see Sources above).
+Only known datum (Schmidt 1953, p.70 fn.2): Babylonian version inserts
+"with the (other) gods" after "the greatest of the gods" — a genuine
+textual variant absent from OP and Elamite.
+
+
+4. ALIGNMENT TABLE (by sense-unit; OP=8 lines / Elamite=7 lines do not
+   correspond 1:1 in line-breaks, so aligned by content, not by line number)
+------------------------------------------------------------------------------
+A. Old Persian : Dārayavauš xšāyaθiya vazrka, xšāyaθiya xšāyaθiyānām,
+                  xšāyaθiya dahyūnām, Vištāspahyā puça, Haxāmanišiya
+   Elamite     : Darius, king, great, king of kings, king of the lands,
+                  son of Hystaspes, the Achaemenid
+   Akkadian    : (not published)
+   English     : Darius, great king, king of kings, king of countries,
+                  son of Hystaspes, an Achaemenid.
+
+B. Old Persian : θātiy Dārayavauš xšāyaθiya: ima xšaçam tya adam dārayāmiy
+   Elamite     : Darius the king says: this is the kingship which I hold
+   Akkadian    : (not published)
+   English     : Says Darius the king: this is the kingdom which I hold
+
+C. Old Persian : hacā Sakaibiš tyaiy parā Sugdam amata, yātā ā Kūšā
+   Elamite     : from the Scythians who are beyond Sogdiana, as far as Kush
+   Akkadian    : (not published)
+   English     : from the Scythians beyond Sogdiana, to Kush (Nubia)
+
+D. Old Persian : hacā Hiduauv amata, yātā ā Spardā
+   Elamite     : from India, as far as Sardis
+   Akkadian    : (not published)
+   English     : from India (Sind), to Sardis (Lydia)
+
+E. Old Persian : tyamaiy Auramazdā frābara, hya maθišta bagānām
+   Elamite     : which Ahuramazda gave to me, who is the greatest of the gods
+   Akkadian    : (unpublished; footnoted to add "with the [other] gods")
+   English     : which Ahuramazda, greatest of the gods, bestowed on me
+
+F. Old Persian : mām Auramazdā pātuv utāmaiy viθam
+   Elamite     : may Ahuramazda protect me and my palace
+   Akkadian    : (not published)
+   English     : may Ahuramazda protect me and my house
