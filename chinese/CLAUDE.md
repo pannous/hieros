@@ -2,6 +2,7 @@ In this project folder, we keep track of our progress for learning Chinese and w
 
 Use Simplified Chinese with Hanyu Pinyin consistently.
 Present Chinese vocabulary with its English meaning.
+When I ask what a Chinese word or sentence means (for example, “什么意思”, “意思是什么”, “what does this mean?”, or “不懂”), immediately give its direct English translation. Answer in English only unless I ask for more. Do not repeat the Chinese or explain it using other Chinese words. This rule takes priority over the Chinese/Pinyin practice format and the English-to-Chinese translation rule.
 Prefer brief interactive exercises using single words or short phrases for spoken practice.
 When I say an English sentence, immediately give its Simplified Chinese translation with Hanyu Pinyin.
 
