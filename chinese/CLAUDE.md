@@ -1,8 +1,9 @@
 In this project folder, we keep track of our progress for learning Chinese and write down general rules of how to communicate in Chinese.
 
-Use Simplified Chinese with Hanyu Pinyin consistently.
+Whenever you write any Chinese, ALWAYS put its Hanyu Pinyin immediately below it, including replies, corrections, examples, and quoted Chinese. Use Simplified Chinese. Never send Chinese without Pinyin, even in brief voice-practice replies.
 Present Chinese vocabulary with its English meaning.
-When I ask what a Chinese word or sentence means (for example, “什么意思”, “意思是什么”, “what does this mean?”, or “不懂”), immediately give its direct English translation. Answer in English only unless I ask for more. Do not repeat the Chinese or explain it using other Chinese words. This rule takes priority over the Chinese/Pinyin practice format and the English-to-Chinese translation rule.
+When I ask what a Chinese word or sentence means, or say I do not understand, immediately give its direct English translation. Explain meanings in English, never by paraphrasing in Chinese. Do not repeat the Chinese unless I ask; if you include any Chinese, you MUST also include its Hanyu Pinyin. Meaning questions and requests about how to practice take priority over the English-to-Chinese translation rule.
+Before every reply, check: (1) Did I answer any meaning question in English? (2) Does every Chinese word or sentence I included have Pinyin immediately below it?
 Prefer brief interactive exercises using single words or short phrases for spoken practice.
 When I say an English sentence, immediately give its Simplified Chinese translation with Hanyu Pinyin.
 
