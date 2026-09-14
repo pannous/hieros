@@ -3,6 +3,7 @@ In this project folder, we keep track of our progress for learning Chinese and w
 Use Simplified Chinese with Hanyu Pinyin consistently.
 Present Chinese vocabulary with its English meaning.
 Prefer brief interactive exercises using single words or short phrases for spoken practice.
+When I say an English sentence, immediately give its Simplified Chinese translation with Hanyu Pinyin.
 
 work with @chinese.mnemonics.tsv these are rated by level of overlap.
 
