@@ -1,0 +1,2 @@
+
+- Oracle 子/巳 swap: in Shang 干支 tables the child pictogram (Oracular 󵉠 U+F5260, glyph uni5DF3) fills branch 6 巳, the hair/head sign (󵈒 U+F5212, uni5B50) fills branch 1 子. Evidence is positional (full 60-day cycle tables, e.g. 合集 37986), not semantic. Seal 子 descends graphically from the child pictogram. The snake-like squiggles in the 巳 已 己 series (󵃁 = 䖵, 󵌽 = 氒, 󸍩󸍴󸍒󸍬 unidentified uF33xx) are 虫/它-type signs, not branch 巳.
