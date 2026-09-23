@@ -1,0 +1,103 @@
+% LuaLaTeX. Oracle-bone glyphs come from the Oracular PUA font, seal glyphs from Kaiyuan Small Seal (Unicode 18.0 Seal block).
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2.6cm]{geometry}
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage[hidelinks]{hyperref}
+
+\newcommand{\fontdir}{../../fonts/}
+\directlua{
+  luaotfload.add_fallback("cjk", {"HanaMinA:mode=harf;", "HanaMinB:mode=harf;"})
+}
+\setmainfont{Palatino}[RawFeature={fallback=cjk}]
+% HarfBuzz mode reads the cmap directly; luaotfload's node mode re-derives code points from the uniXXXX glyph names and picks wrong glyphs.
+\newfontfamily\oraclefont{oracle_bone_script_F5000.ttf}[Path=\fontdir, Renderer=HarfBuzz, Scale=1.3]
+\newfontfamily\sealfont{KaiyuanSmallSeal-Regular.ttf}[Path=\fontdir seal-scripts/kaiyuan/fonts/, Renderer=HarfBuzz, Scale=1.2]
+
+\newcommand{\og}[1]{{\oraclefont\char"#1}}
+\newcommand{\sg}[1]{{\sealfont\char"#1}}
+\newcommand{\bigog}[1]{{\oraclefont\fontsize{26}{28}\selectfont\char"#1}}
+\newcommand{\bigsg}[1]{{\sealfont\fontsize{26}{28}\selectfont\char"#1}}
+\newcommand{\pua}[1]{\mbox{\small U+#1}}
+
+\title{Child, Worm, Fetus: The Graph \emph{s\`i} 巳 and the ``Head-on-Legs'' Signs\\in Oracle-Bone Script}
+\author{Cha Si}
+\date{September 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent Unicode 18.0 (September 2026) encodes 11{,}328 Small Seal characters as an independent script, while oracle-bone script remains unencoded. Using the new block's modern-equivalent data together with the glyph labels of a widely circulated oracle-bone font, we align 986 characters attested in both layers. Close reading of the aligned material around \emph{zǐ} 子 and \emph{sì} 巳 suggests three things. First, the ``child'' figure and the ``head-on-legs'' figure that are both transcribed 子 show no graphic continuum between them; they are joined by the later word, not by the drawing. Second, the head-on-legs series patterns graphically with 鬼, 異, 黑, 兄, 克 and 兌 rather than with the child. Third, in both the oracle and the seal layers, 巳 moves without a clear boundary between child, curled worm and fetus, a reading the \emph{Shuowen jiezi} states explicitly. We close with a graded set of criteria for oracle-bone identifications.
+\end{abstract}
+
+\section{Data and method}
+The Seal block of Unicode 18.0 (U+3D000--U+3FC3F) comes with the data file \texttt{SealSources.txt}, whose \texttt{kSEAL\_MCJK} field gives a modern CJK equivalent for each seal character \cite{ucd18}. Oracle-bone forms were taken from the Oracular font in a private-use remapping beginning at U+F5000. There, glyphs are named after the modern character their editor identified (\texttt{uni5B50} = 子); unidentified glyphs carry private-use names. Joining both sources on the modern character yields 986 characters with both an oracle and a seal form. Seal glyphs are rendered with Kaiyuan Small Seal \cite{kaiyuan}, which currently covers 10{,}980 of the 11{,}328 code points.
+
+This alignment inherits one editor's identifications and carries no inscriptional context. It is therefore a map of \emph{claims}, not of evidence, and the discussion below treats it that way.
+
+\section{Two figures under one name: 子 and 巳}
+In the Shang sexagenary tables (e.g.\ \emph{Heji} 37986 \cite{heji}), the first earthly branch 子 is written with a figure with a large head and hair on legs (\og{F5212}). The sixth branch 巳 is written with a child with arms (\og{F5260}), the figure that later became the character 子. These readings are positional, fixed by the sequence of the cycle, and they are the most secure identifications discussed here.
+
+\begin{table}[h]\centering
+\caption{The two figures transcribed 子, with the seal forms of 子 and 巳.}
+\begin{tabular}{ccccc}\toprule
+\bigog{F5260} & \bigog{F5094} & \bigog{F5212} & \bigsg{3FBB0} & \bigsg{3FBDA}\\
+child with arms & 㜽, hair and body & box head on legs & seal 子 & seal 巳\\
+branch 巳 & \emph{guwen} 子 & branch 子 & \pua{3FBB0} & \pua{3FBDA}\\\bottomrule
+\end{tabular}
+\end{table}
+
+The oracle-bone variants that editors group under 子 fall into two sets. The child with arms varies a great deal, but it never changes into the other figure. The head-on-legs set shows a gradual internal sequence: one stroke above the head, then three strokes (山-like), then a tuft (巛-like); the head is sometimes crossed (囟-like). The \emph{Shuowen} records the haired figure as the \emph{guwen} form of 子, ``從巛，象髮也'' (from 巛, depicting hair) \cite{shuowen}. No form in the corpus examined here lies between the two sets. The only link between them is that the later word 子 absorbed both.
+
+\section{The head-on-legs family}
+Graphically, the head-on-legs 子 belongs to a family of figures drawn as an oversized head on legs, with no arms or with raised arms: 黑 \og{F5552}, 異 \og{F53C7}, 鬼 \og{F5539}, and an unidentified sign \og{FDE96} (a crossed head on two legs) that is almost identical to \og{F5212}. The same layout survives in characters built on 儿 (the legs): 兄 \og{F511E}, 克 \og{F5123}, 兌 \og{F5124} (whence 說). The crossed head also invites a second reading. \emph{Shuowen} defines 囟 as the infant's fontanelle, so a large head with visible fontanelle and hair may be how an infant was distinguished from a masked or skull-headed being. The shapes alone cannot decide between these two readings.
+
+\section{巳 between child, worm and fetus}
+The \emph{Shuowen} gives 巳 two explanations that later scholarship usually keeps apart \cite{shuowen}:
+\begin{quote}
+巳：……巳為蛇，象形。\\ (巳 is a snake; the graph depicts it.)\\[4pt]
+包：象人裹妊，巳在中，象子未成形也。\\ (It depicts a person enclosing a pregnancy, with 巳 inside, depicting the child not yet formed.)
+\end{quote} The seal form of 包 (\sg{3EA2E}) is exactly a 巳-curl inside an enclosure.
+
+It is often assumed that the snake-like 巳 is a seal-era development, because the branch 巳 on the bones is the child with arms. The oracle compound 汜 (\og{F5342}), water plus 巳, argues otherwise. There 巳 is drawn as a square head on a curled, armless tail. This form mediates between the child with arms and a series of unidentified oracle signs consisting of a head and a curl, with a square head (\og{F8369}, \og{F8352}) or a round one (\og{F8374}, \og{F836C}).
+
+\begin{table}[h]\centering
+\caption{From child to curl: 巳 in isolation and in the compound 汜, with unidentified head-and-curl signs.}
+\begin{tabular}{cccccc}\toprule
+\bigog{F5260} & \bigog{F5342} & \bigog{F8369} & \bigog{F8352} & \bigog{F8374} & \bigog{F836C}\\
+巳 (branch) & 汜 & ? & ? & ? & ?\\\bottomrule
+\end{tabular}
+\end{table}
+
+We propose that these unidentified signs are the 巳 element in isolation, and that the Shang graph did not distinguish sharply between child, larva and fetus. Classifying humans among creatures, as in the later term 倮蟲 (``naked creature''), is consistent with this. The proposal can be tested: it predicts that these signs occur in the 巳 position of sexagenary expressions or as a phonetic element in 巳-series compounds.
+
+\section{A cautionary case: 學}
+The oracle sign transcribed 學 is 爻 over a building (\og{F521B}). 爻 (\og{F5396}) keeps an almost identical form through all later scripts. The child in 學 appears only in bronze forms. Meanwhile, the oracle 教 (\og{F52C2}) already combines 爻, a child and a hand with a stick. The \emph{Shuowen} files 學 as an abbreviated form of 斆 ``to teach'' under 教 \cite{shuowen}, and Unicode's seal ordering follows it (教 \sg{3D960}, 學 \sg{3D964}). So the oracle compound is at most the ancestor of one component of 學. Calling it 學 compresses three steps of development into one.
+
+\section{Criteria for identifications}
+We suggest grading oracle-bone identifications explicitly (for the general methodological background see \cite{qiu}):
+\begin{enumerate}
+\item \textbf{Positional or contextual}: fixed by sequence or formula, as with the sexagenary branches.
+\item \textbf{Chain}: supported by an unbroken, datable sequence of forms, as with 字 (\og{F5214}, a child under a roof), 兄 and 兌.
+\item \textbf{Lexical}: joined only through a later word, as with the head-on-legs 子 and the oracle ``學''.
+\item \textbf{Resemblance}: resting on likeness to a modern graph alone.
+\end{enumerate}
+Font labels, sign lists and derived alignments, including ours, flatten these grades into one label. They should record the grade next to each identification.
+
+\section*{Data availability}
+The alignment table (986 rows), the generator script and the font metric correction applied to Kaiyuan Small Seal are available from the author. Glyph identifications are those of the Oracular font's editor, unless stated otherwise.
+
+\section*{Use of AI tools}
+The alignment script, data processing and drafting of this note were carried out with the assistance of an AI system (Claude, Anthropic). The author is responsible for the hypotheses and conclusions.
+
+\begin{thebibliography}{9}
+\bibitem{shuowen} Xu Shen 許慎. \emph{Shuowen jiezi} 說文解字 (c.\,100\,CE).
+\bibitem{heji} Guo Moruo 郭沫若 (ed.). \emph{Jiaguwen heji} 甲骨文合集. Beijing: Zhonghua shuju, 1978--1982.
+\bibitem{qiu} Qiu Xigui. \emph{Chinese Writing}, trans.\ G.\,L.\ Mattos and J.\ Norman. Berkeley: Society for the Study of Early China, 2000.
+\bibitem{ucd18} The Unicode Consortium. \emph{The Unicode Standard, Version 18.0.0}, incl.\ \texttt{SealSources.txt}. 2026.
+\bibitem{kaiyuan} F.\ Lin. \emph{Kaiyuan Small Seal} font, SIL OFL 1.1. \url{https://github.com/frankslin/kaiyuan-small-seal-font}.
+\end{thebibliography}
+\end{document}
