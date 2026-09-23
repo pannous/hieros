@@ -1,7 +1,7 @@
 # Chinese practice
 
-Never create or use worktrees under `/Users/me/.codex/worktrees/`. Use
-`/Users/me/Documents/Codex/worktrees/` for Codex-managed worktrees instead.
+Always work directly in the real project directory (the Local checkout). Never
+create, select, hand off to, or use Git worktrees or Codex-managed worktrees.
 
 When the user says “let's learn Chinese” or a similar phrase, go to the
 `chinese/` subfolder and read its `AGENTS.md` and any instructions it references
