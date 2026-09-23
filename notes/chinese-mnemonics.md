@@ -27,3 +27,10 @@ stable within a band, header preserved.
 
 ## Known wart
 霉 méi "mildew" appears twice (★★★★★ and ★★★★½) — inherited from the source note, left as is.
+
+## Freq-table hooks (2026-09-23)
+`dicts/chinese.freq.tsv` column 5 is the user's unfiltered hook brainstorm (includes ★0 ideas).
+- 513 of those hooks rated ★4+ were imported (`probes/freq_hook_candidates.py`). ★3 and below stay out.
+- A 2026-09-19 run (transplorer session) had ignored column 5 and invented hooks; it kept 9. Its rejections were right.
+- Invented hooks for the 630 characters with no hook anywhere: only 19 cleared ★3½ (`probes/hook_proposals.tsv`).
+- `probes/sync_hooks_to_freq.py --write` copies table hooks back into column 5 (skips ones already noted). Rerun after bulk additions.
