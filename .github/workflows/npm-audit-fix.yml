@@ -29,9 +29,7 @@ jobs:
       - name: Fix and test each npm project
         run: |
           has_real_tests() {
-            local test_script
-            test_script=$(npm pkg get scripts.test)
-            [ "$test_script" != "{}" ] && ! grep -q "no test specified" <<< "$test_script"
+            node -e 'const t = require("./package.json").scripts?.test ?? "no test specified"; process.exit(/no test specified/.test(t) ? 1 : 0)'
           }
           fix_project() {
             cd "$1"
