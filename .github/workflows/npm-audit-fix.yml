@@ -23,6 +23,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      # Same npm major as local dev, otherwise lockfile fields (e.g. libc) churn.
+      - run: npm install -g npm@latest
 
       - name: Fix and test each npm project
         run: |
