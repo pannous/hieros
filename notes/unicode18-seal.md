@@ -6,3 +6,4 @@
 - LXGW Seal (github.com/lxgw/LxgwSeal) is alpha: only 105 seal codepoints.
 - Oracle PUA font `fonts/oracle_bone_script_F5000.ttf`: glyph names `uniXXXX`/`uXXXXX`/`HXXXXX` name the modern hanzi; `glyphN`/`uF…` are unidentified.
 - `scripts/align_seal_oracle.py` → `docs/oracle_seal.md` (986 hanzi with both forms). Visual check: `probes/render_oracle_seal_rows.py`.
+- Editors (Sublime/CoreText) show boxes for U+3Dxxx: the OS text engine doesn't know Unicode 18 yet, so no font fallback. View via `fonts/oracle_seal.html` (embeds both fonts via @font-face), generated alongside the MD.
