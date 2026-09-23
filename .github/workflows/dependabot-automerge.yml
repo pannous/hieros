@@ -35,7 +35,7 @@ jobs:
         uses: dependabot/fetch-metadata@v2
       # Major bumps may break the API; leave those for a human.
       - if: steps.meta.outputs.update-type != 'version-update:semver-major'
-        run: gh pr merge "$PR_URL" --squash
+        run: gh pr merge "$PR_URL" --merge
         env:
           PR_URL: ${{ github.event.pull_request.html_url }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
