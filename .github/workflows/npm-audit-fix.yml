@@ -1,0 +1,69 @@
+# Reusable: other repos call this via
+#   uses: pannous/hieros/.github/workflows/npm-audit-fix.yml@master
+# For every package-lock.json it runs `npm audit fix` (never --force), runs the
+# project's tests if it has real ones, and pushes the result. A fix whose tests
+# fail is dropped and the run fails loudly so GitHub notifies the owner.
+name: npm audit fix
+
+on:
+  workflow_call:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  audit-fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fix and test each npm project
+        run: |
+          has_real_tests() {
+            local test_script
+            test_script=$(npm pkg get scripts.test)
+            [ "$test_script" != "{}" ] && ! grep -q "no test specified" <<< "$test_script"
+          }
+          fix_project() {
+            cd "$1"
+            npm ci --no-audit --no-fund || npm install --no-audit --no-fund || return 1
+            npm audit fix --no-fund || true
+            git diff --quiet -- . && return 0
+            has_real_tests || return 0
+            npm test
+          }
+          failed=""
+          for lock in $(git ls-files '*package-lock.json' | grep -v node_modules); do
+            dir=$(dirname "$lock")
+            [ -f "$dir/package.json" ] || { echo "::warning::$lock has no package.json, skipped"; continue; }
+            echo "::group::$dir"
+            if ! (fix_project "$dir"); then
+              echo "::error::npm audit fix broke tests in $dir, fix dropped"
+              git checkout -- "$dir"
+              failed="$failed $dir"
+            fi
+            echo "::endgroup::"
+            (cd "$dir" && npm audit --omit=dev --audit-level=high) || echo "::warning::$dir still has high-severity vulnerabilities needing --force or manual upgrades"
+          done
+          echo "FAILED=$failed" >> "$GITHUB_ENV"
+
+      - name: Commit fixes
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "fix: npm audit fix (automated)"
+          git push
+
+      - name: Report broken fixes
+        if: env.FAILED != ''
+        run: |
+          echo "::error::Tests failed after npm audit fix in:$FAILED"
+          exit 1
