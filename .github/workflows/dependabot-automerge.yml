@@ -1,0 +1,41 @@
+name: Test neolithic-map and auto-merge Dependabot
+
+on:
+  pull_request:
+    paths:
+      - "neolithic-map/**"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: neolithic-map
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: neolithic-map/package-lock.json
+      - run: npm ci
+      - run: npm test
+
+  automerge:
+    needs: test
+    if: github.actor == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - id: meta
+        uses: dependabot/fetch-metadata@v2
+      # Major bumps may break the API; leave those for a human.
+      - if: steps.meta.outputs.update-type != 'version-update:semver-major'
+        run: gh pr merge "$PR_URL" --squash
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
