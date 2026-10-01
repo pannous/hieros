@@ -43,4 +43,31 @@ Qǐng xiě hěn róngyì de jùzi.
 Qǐng yòng duǎn jùzi.
 
 请 说 得 很 慢。
-Qǐng shuō de hěn màn.
+Qǐng shuō de hěn màn.树枝
+
+
+
+Here's an excerpt of a perfect dialogue. I'm still working on it, Note how it was adding the pinyin when I didn't know the word: 
+
+If you'd like, we can practice short Chinese sentences about nature.
+
+me: 我喜欢森林
+
+me: 玉米田
+you: 对,玉米田。很棒。
+
+蓝色的天
+蓝色的天很好。更常说 “蓝色的天空”。
+
+很自然。要不要加上白云?
+是啊,我可以看到白云
+
+很好,就说:“我看到白云。”
+
+How do I say complicated in Chinese
+复杂。fùzá
+
+复杂,太复杂
+对。
+
+
