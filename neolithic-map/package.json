@@ -39,7 +39,8 @@
     "wrangler": "4.136.3"
   },
   "overrides": {
-    "esbuild": "^0.25.0"
+    "esbuild": "^0.25.0",
+    "undici": "7.29.1"
   },
   "type": "module"
 }
