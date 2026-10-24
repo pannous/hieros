@@ -7,7 +7,7 @@ Kish tablet 3500 BC
 The development of scripts is closely linked with the "secondary products" revolution: wool, clothing, metals, honey, bread, oil, beer, textiles, garments, rope, mats, carpets, furniture, jewelry, tools, perfume—all of these things and many more needed to be accounted for. The number of types of tokens in use ballooned to 250 by 3300 BCE and over a thousand after 3000 BCE, followed by a reform in which many complicated signs where abandoned.
 
 The earliest attested ordering of signs are [Halaham](Halaham.html) and [Abjad](Abjad.html)s.
-We follow Gardingers and Schneiders view that these likely have deep origins in at least the Middle Kingdom if not early Pharaonic times.
+We follow Gardiner's and Schneider's view that these likely have deep origins in at least the Middle Kingdom if not early Pharaonic times.
 
 Most [alphabets of the world](https://github.com/pannous/hieros/tree/master/abc) are ultimately derived from the Egyptian syllable-extended alphabet and/or the pure [Ugaritic](Ugaritic.html) alphabet of 1400BC. 
 <!-- The brilliance of the Egyptian alphabet is that they uses common Sumerian signs and applied them in a free standing, non [determinant](determinant.html) way.   -->
@@ -19,9 +19,9 @@ We mostly follow the [conventional reading](https://en.wikipedia.org/wiki/Transl
 
 𓂝 𓃀 𓍿 𓏏 𓂧 𓇋 𓇋 𓎼 𓉔 𓇋 𓆳 𓎡 𓐍 𓏯 𓅓 𓈖 𓏲 𓊪 𓏘 𓂋 𓍯 𓋴 𓏏 𓅱 𓅳 𓏴 𓏭 𓊃 + 𓄿 𓎛 𓈙
 
-The following are the most frequent signs of the hieroglyphics ordered by the modern roman alphabet. For the complete sign list see [Gardinger signs](Gardiner-signs). You can search and enter those signs with the online [Dictionary/Keyboard](http://hieros.pannous.com/)  
+The following are the most frequent signs of the hieroglyphics ordered by the modern roman alphabet. For the complete sign list see [Gardiner signs](Gardiner-signs). You can search and enter those signs with the online [Dictionary/Keyboard](http://hieros.pannous.com/)  
 
-|  [letter](abc.txt)  |gard|  [sign](Gardinger-signs) | comment |  
+|  [letter](abc.txt)  |gard|  [sign](Gardiner-signs) | comment |  
 |-----|--|--|-------|  
 A|[𓂝](𓂝)|Arm|á 𒀉 PIE √h₂erm haraṇa (hand)  A&O𓂣דראע𐤂 अस aṃs dharma  etc  
 a|[𓄿](𓄿)|Aar|[Air](Air) al'pha[𓃾](𓃾) earn=ea[gle](gul)  
