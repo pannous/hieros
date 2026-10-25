@@ -29,7 +29,7 @@ Linguistic axioms
 *  words connected with those letters were hyper conserved (changed very little)  
 * words connected with the alphabet formed conserving, re-converging clusters  
 * words connected with those signs underwent [alphabetic-change](alphabetic-change.html)  
-* For many [Gardinger signs](Gardinger-signs) we use some different readings, based on the corpus and rules of [determinant](determinant.html)s  
+* For many [Gardiner signs](Gardiner-signs) we use some different readings, based on the corpus and rules of [determinant](determinant.html)s  
 * The phonetic readings reconstructed are an echo of a more complicated history  
 * By its very nature the pronunciation can always only be a cluster approximation  
 * Any 'precise' vocalisation of Egyptian is complete speculation and bears no authority.  
@@ -37,7 +37,7 @@ Linguistic axioms
 * Large scale comparisons and [cluster analysis](cluster analysis.html) akin to universal [sound-change](sound-change.html) are valid  
 * Connecting individual words outside [Coptic](Coptic.html) remains thus forever tentative  
 * On the other hand tentatively [connecting](relatedness) individual words outside [Coptic](Coptic.html) cannot be dismissed via 'formal arguments' but should be subject to historic plausibility.  
-* Most [Gardinger signs](Gardinger-signs) assumed to be silent receive a pronounciation.  
+* Most [Gardiner signs](Gardiner-signs) assumed to be silent receive a pronounciation.  
 * [Determinants](Determinants) often had a vocalisation which was optional: akin to New York (city).  
 * Puns and the rebus principle lead to wrong etymologies  
 * This kind of wrong etymology is a true etymology in the sense of [influence](relatedness)  
