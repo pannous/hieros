@@ -24,3 +24,11 @@ Variant spellings from the footnotes are merged into the first column: `Aieganz 
 Sigla: a = Wiesbaden Riesencodex, b = Cheltenham/Berlin codex, Denis = MDenis' print of the lost Vienna MS.
 `a?` / `ab?` = editor's "oder X" (uncertain alternative reading). Unmarked first form = edition's main text.
 Layout/correction notes (Son|ziz, Mis:kila, superscript insertions) stay in `note`.
+
+## Connections column (2nd column of GLOSSAE_HILDEGARDIS_modern.tsv)
+Hypothesis: lingua ignota as a real language Hildegard heard. User's own entries (244) + Claude's (766, filled only
+into empty cells). Notation: ≈ similar to the gloss, √ root, <> link to another word, ! confident, ? / ?? / ???
+increasingly speculative, ✗ no visible link. Recurring patterns spotted: -buz/-bu = tree, Luz- eye, Oir- ear,
+Nasc- nose, Kole- neck, Hoil- head, Ornalz- hair, Nilz- step-, -libiz book, -maz knife, Zienz count;
+z replaces Latin c/s/t/d (Zizim circinum, Zinzia cinis, Zimiz temo).
+Sources of Claude's entries: probes/hildegard_pdf/connections_*.tsv.
