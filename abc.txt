@@ -46,8 +46,8 @@ K:	V31	𓂓/𓎡	cup/Korb:cover~kappa ⵛcκ! γ(r) χ !cr->gr->jr Krug que ţju
 K:	Aa1 𓐍 qapha cover<>qadar gray 	kWn𓏲kWr?	 raw-khake	𓍯𓄿𓏲𓏲𓈐𓂻
 L:	Z5 𓏯 L λ<-Y 𓇋𓇋 𓇌 𓃭Leo << D15 𓂅 Locke 𓏲? 𓂢 Elle niL𓈖𓄓𓋴langue لا𓄿Lär  𓌳לlamed=goad(t) ¬ ł/Ր/r?
 L:  N35 𓈖 𓄓𓋴 langue, lanze, lick, lap ﻝ
-M:	G17 𓅓𐦨枭  Musen 𒈪 𓐝𓊗𓐍𓐍𓎡𓎡Galle μa μη 𓀁moiμ𓅱 mwn 𐀖 µ vs ν   Mut:𓂋𓅱𓅐  
-M:	𓐍𓐍𓅓 ⲕⲁⲕⲕⲁⲙⲁⲩ ↔ ⲭⲁⲕⲕⲁⲙⲁⲩ 	 small nightowl   ⲕⲁⲕⲑⲓ cockroach/kakerlake = bad.louse / bed.louse !! ⲕⲁⲕ=bad
+M:	G17 𓅓𐦨枭  Musen 𒈪 𓐝𓊗[[𓐍]]𓎡𓎡Galle μa μη 𓀁moiμ𓅱 mwn 𐀖 µ vs ν   Mut:𓂋𓅱𓅐  
+M:	[[𓐍]]𓅓 ⲕⲁⲕⲕⲁⲙⲁⲩ ↔ ⲭⲁⲕⲕⲁⲙⲁⲩ 	 small nightowl   ⲕⲁⲕⲑⲓ cockroach/kakerlake = bad.louse / bed.louse !! ⲕⲁⲕ=bad
 M:	U1 𓈗𓌳 Marinaus מים 𐀔𐀪𐀚	Mast 𓄱 Mwa.δer Meer.sea/syl 𓈗 mēmn máyim 𐤌 𓀁moiμ𓅱? 𒉡 HNMWU : hnm𓏠 inημwu 𓁹 𒊩 MUNUS woman whomb Ω <> Maur 𓌻 𓍅 𓄠~Mess… 𓅓 
 N:	N35	𓈖𐦊 μν Menes mNwave 𓈖	نهرnahr! nadī nāru nWa' nyλ NiL	NAUtik 𓈖𓏤=fish! ןነ𐤍נ nūn 𒈾 NAr.mer mean.der 牛 niú 鸟 μνoi niǎo 𒈾 NA 那 nà ɲ~ŋ 
 O:	𓍯 phRho > far аркан 
@@ -83,7 +83,7 @@ G17    	𓅓 AMBI pecôk = mingok  𓅓𓅓lost? घूघू ghūghū-AMBY ку
 G17    	𓅓 murg̣a@Hindi! mamu,muko,mocho,mussol,mozorro@Iberia mosa@Brasil maŋkla bum@Pers <> ambi!
 G17    	𓅓	 xeno: mupitsʉ тӑмана tămana huh·umi- ma'sheti
 G17     𓅓=noctua@Lat! นกฮูกnók hûuk 𒈪=𓐍mnoon! 毛	máo=wool 𓅖who™ wū 乌毋母wú 鳥鸟… na? 馬马ma? 
-G17     𓐍𓐍𓅓 кукумау k°k°māw UWHUlr 𓐍 µWŪ Mär 巫 Voodoo μoi NaghOWln 阴 yin gyn  MA? ما=𒀀 Moi!  
+G17     [[𓐍]]𓅓 кукумау k°k°māw UWHUlr 𓐍 µWŪ Mär 巫 Voodoo μoi NaghOWln 阴 yin gyn  MA? ما=𒀀 Moi!  
 G17    	𓅓	BiR (bird) ƥr,pr,vr,ver,for,pre		:G17    𓅓  ὄρνεον air.NIǍOwl 𓄿鸟 -> 𓄿𓅓 [be]greifer™ night noir know gnost owl ghoon ghoul
 G17    	𓅓BR->eMpor 𓐝 =  90% iM! (iN! 10%)	:G17    𓅓	𓄿鸟 ὄρνεον (b/l)air.niǎo
 G37		𓅪𓅫  foul fowl, gull galle colour:kala 𓅓𒈪vo.GEL, gval, ghoul 𒅆 HUL, voll, val, -al, full,viel :G37b𓅫 sparrow
@@ -97,7 +97,7 @@ Aa1  𓐍 Chuar ~ šar 𒊹 schwarz ~𓅨 Schwarm 𒈪 Ghual Galle -> jour:Tag? 
 Aa1  𓐍 KYR vs Kirmes kirsch=rot <> crabs
 Aa1  𓐍 THR throw dark tar δrei ~ three 3 𓐍𓏏= 𐎘𐎍𐎘! Cri ξrei!=χrei *xayn tchrei!=kreis 
 Aa1  𓐍 Na.Ӄyr NeGro  𓐍𓏮  𓐪𓂧𓂂𓏛 𓎡  ¿Qué pasa tu?    ES!!! 𓐍𓅓 Schrei/Greif/Tchirp!
-Aa1  𓐍 Nwi Nuit NaIξ: 𓐍𓅓 𓐍𓐍 neck/gurgel  𓅱𓐍 mooNHa / luNa !!?    
+Aa1  𓐍 Nwi Nuit NaIξ: 𓐍𓅓 [[𓐍]] neck/gurgel  𓅱𓐍 mooNHa / luNa !!?    
 Aa1  𓐍 ballacK:block 𓐍 blue-black-ball = 𓐍𓋴𓃀𓂧𓈒𓏥 kaspian=lapiz! kala.ore=color:kala ghoul.heure 𓐍𓅓mnoon ball=throw
 Aa1  𓐍 prefix 𐌲𐌰- … 𓐍  ek => ex- !? nuacht vs 𓊖
 V28   	𓎛 Hair/Helix < hurl,Curl,dreh,√DRILL 𓎛~𐎍 ! 𓎛𓃀𓋴𓋳 = 𐎍𐎁𐎒 lbš
@@ -128,7 +128,7 @@ O49		URth <> ♁ gaia~geo~gu古gǔ~ge~ki~'earthu ⏚ ⼟ tu <> urban hier Mut
 D->S:	D46	𓂧 Demi-> δemi -> Semi <- 𓂧 cheiral
 D->B:	D46	𓂧	thumBa Hand-Ballen=bhalm,bat,boat,Buto,but,bud  ѤN Leder.Hand.Schuhe Lether.Hand.Balm
 
-NaIx: 𓐍𓅓 neck 𓐍𓐍 ~noir𓈖𓂋𓐍𓅓:black-fear 𓅓𓂝=mwha: what=ma? مَا @AR/CN/AF!!!!!!! how/more/… !??
+NaIx: 𓐍𓅓 neck [[𓐍]] ~noir𓈖𓂋𓐍𓅓:black-fear 𓅓𓂝=mwha: what=ma? مَا @AR/CN/AF!!!!!!! how/more/… !??
 Proto–Afroasiatic, believed by scholars to have been spoken as a single language ~ 10 - 14,000 BC!
 𓆓𓆑 schnacken, schNattern, chatten, sayn
 
@@ -1197,7 +1197,7 @@ Astral Strahl starn 𓇳 SUN.tral 阳陽羊央 羔羊 gāoyáng 𓋹𓃙𓃶𓋩
 
 MA! ma.dzanna : thought vs greek
 .ismos .ISMA .ism .mos .ma	<> Ma'at, Ma.gie, Ma.ral moral law … .me <> Sumer! SEM: ism = thing,
-αἴνιγ.μα <> NaIx: 𓐍𓅓 neck 𓐍𓐍 ~noir𓈖𓂋𓐍𓅓:black-fear 𓅓𓂝=mwha: what=ma? مَا @AR/CN/AF!!!!!!! how/more/… !??
+αἴνιγ.μα <> NaIx: 𓐍𓅓 neck [[𓐍]] ~noir𓈖𓂋𓐍𓅓:black-fear 𓅓𓂝=mwha: what=ma? مَا @AR/CN/AF!!!!!!! how/more/… !??
 µωaδ<>γωaδ𓎔
 
 Qoph, Cobra, Käfer, Copper, Kopf, (ver)Käufter?, Schopf, Haupt, Koban, quib, gypt, keep … ? <<
