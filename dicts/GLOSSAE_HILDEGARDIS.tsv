@@ -1,9 +1,9 @@
 ref	lingua_ignota	latin	german	note
 390,1	Aigonz	deus	goth	
-390,2	Aieganz	angelus	engel	Aleganz b
-390,3	Ziuienz	sanctus	heilich	Zuuenz Denis
-390,4	Liuionz	saluator	heilere	Iuuonz Denis
-390,5	Diuueliz	diabolus	duivel	Diuueltz Denis
+390,2	Aieganz / Aleganz b	angelus	engel	
+390,3	Ziuienz / Zuuenz Denis	sanctus	heilich	
+390,4	Liuionz / Iuuonz Denis	saluator	heilere	
+390,5	Diuueliz / Diuueltz Denis	diabolus	duivel	
 390,6	Ispariz	spiritus	geist	
 390,7	Inimois	homo	meinscho	
 390,8	Iur	uir	man	
@@ -14,7 +14,7 @@ ref	lingua_ignota	latin	german	note
 390,13	Sonziz	apostolus	botho	Son|ziz, darüber apls. a
 390,14	Imschiol	martir	martdelere	
 390,15	Zanziuer	confessor	bihtdere	
-390,16	Vrrzoil	uirgo	mageth	Vrizoil b
+390,16	Vrrzoil / Vrizoil b	uirgo	mageth	
 390,17	Iugiza	uidua	witdewa	
 390,18	Pangizo	penitens	ruwesere	
 390,19	Kulzphazur	attauus	alderano	
@@ -29,12 +29,12 @@ ref	lingua_ignota	latin	german	note
 390,28	Zainz	puer	cnappo	
 390,29	Zimzial	iuuenis	iungelinch	
 390,30	Bischiniz	adolescens	iuneman	
-390,31	Malkuirz	senex	altman	Malkunz b
+390,31	Malkuirz / Malkunz b	senex	altman	
 390,32	Fronix	frater	bruder	
 390,33	Miskila	soror	suestder	Mis:kila a
 390,34	Peuors	patruus	fethdero	
 390,35	Fanschol	auunculus	hoheim	
-390,36	Pieniza	amita	wasa	Pleniza b
+390,36	Pieniza / Pleniza b	amita	wasa	
 390,37	Maizfia	matertera	mům̄a	
 390,38	Funschiol	gener	suager	
 390,39	Liaziz	nurus	snurha	
@@ -90,7 +90,7 @@ ref	lingua_ignota	latin	german	note
 391,39	Pusinzia	catarrus	snuz	
 391,40	Wisanza	gene	hufelun	
 391,41	Maiaz	maxilla	wanga	
-391,42	Scamilin	timpus	dunnewenge	oder Scamiln a
+391,42	Scamilin / Scamiln a?	timpus	dunnewenge	
 391,43	Moniz	os	munt	
 391,44	Talzim	labium	lespho	
 391,45	Osinz	mandibula	bachko	
@@ -104,7 +104,7 @@ ref	lingua_ignota	latin	german	note
 391,55	Kolezia	collum	hals	
 391,56	Ranzgia	lingua	zunga	die gl. vor 391,8 a 458b²
 391,57	Firanz	saliua	speichaldra	
-391,58	Kolecruziz		halsbein	Kolecruriz b
+391,58	Kolecruziz / Kolecruriz b		halsbein	
 391,59	Koletabeiaz	ceruix	halsadra	
 391,60	Maletin	mentum	kinne	
 391,61	Viriscal	barba	bart	
@@ -120,7 +120,7 @@ ref	lingua_ignota	latin	german	note
 392,8	Nilzial		rist	
 392,9	Vrzial	manus	hant	
 392,10	Zirins	digitus	finger	
-392,11	Pixel	pollex	dumo	Pizel b
+392,11	Pixel / Pizel b	pollex	dumo	
 392,12	Conix		cnugel	
 392,13	Salziox	unguis	nagel	
 392,14	Pidago			darüber keine gl. ab
@@ -135,9 +135,9 @@ ref	lingua_ignota	latin	german	note
 392,23	Veriszoil	uenter	buch	
 392,24	Stranguliz	umbilicus	nabelo	
 392,25	Tirziel	renes	lenden	
-392,26	Iuncxoil	femur	huf	Iuncxoril b
+392,26	Iuncxoil / Iuncxoril b	femur	huf	
 392,27	Spirizan	ilia	lankin	
-392,28	Tilzia	uentriculus	vvamba	Lilzia b
+392,28	Tilzia / Lilzia b	uentriculus	vvamba	
 392,29	Schicial	latus	sihda	larus b
 392,30	Kosinzia	costa	ribbe	
 392,31	Rimziol	dorsum	rugge	
@@ -158,15 +158,15 @@ ref	lingua_ignota	latin	german	note
 392,46	Dorniel	culus	hers	
 392,47	Duoliz	nates		
 392,48	Zirzer	anus		
-392,49	Menguiz	stercus	horo	ng aus m corr. a; Meginz b
+392,49	Menguiz / Meginz b	stercus	horo	ng aus m corr. a
 392,50	Creueniz	uirile membrum, ueretrum a		lücke gelassen b; mbrū a
-392,52	Uirlaiz	testiculi		nur Virlaiz ohne gl. b
+392,52	Uirlaiz / Virlaiz b	testiculi		b ohne gl.
 392,53	Lizia	glandula	drůs	
-392,54	Amzglizia		hegedruse a / hegedrůse b	oder Ainzglizia ab
+392,54	Amzglizia / Ainzglizia ab?		hegedruse a / hegedrůse b	
 392,55	Fragizlanz	locus uerecundie mulieris a		lücke gelassen b
 392,56	Croich		dich a / dieho b	
 392,57	Boil	genu	kni	
-392,58	Cliuanz	os	bein	oder Cuuanz a
+392,58	Cliuanz / Cuuanz a?	os	bein	
 392,59	Cruniz	crus	menschenbein a / meinschenbein b	
 392,61	Sciacruniz	tibie	scinkun	
 392,62	Moueniz	sures	wado	l. sure
@@ -174,7 +174,7 @@ ref	lingua_ignota	latin	german	note
 392,64	Tabeializ	uena	adra	
 392,65	Crouiz	talus	enkil	
 392,66	Vrzoia	calcaneus	versna	
-392,67	Funiz	planta pedis	fůzsola	Funix b
+392,67	Funiz / Funix b	planta pedis	fůzsola	
 392,68	Misanz	arcula	ceha	
 392,69	Fuscal	pes	fůz	
 392,70	Ranzil		růf	
@@ -189,7 +189,7 @@ ref	lingua_ignota	latin	german	note
 393,7	Monzil	scabies	rudo	
 393,8	Kelionz	papa	babest	verzierter anfangsbuchstab ab
 393,9	Karinz	cardinalis	cardinal	
-393,10	Peuearzet	patriarcha	erzefatder	Peuearrez b richtiger, s. oben 390,10
+393,10	Peuearzet / Peuearrez b	patriarcha	erzefatder	b richtiger, s. oben 390,10
 393,11	Arrezenpholianz	archiepiscopus	erzebiscofh	
 393,13	Enpholianz	episcopus	biscofh	
 393,14	Scailo	clericus	paffo	
@@ -201,19 +201,19 @@ ref	lingua_ignota	latin	german	note
 393,20	Scurinz	exorcista	beswerere	
 393,21	Niscalnoiz	lector	lesere	
 393,22	Oriezio	ianitor	dorwartdo	
-393,23	Gasinz	cancelarius	cancelere	Casinz b; cancellarius a
+393,23	Gasinz / Casinz b	cancelarius	cancelere	cancellarius a
 393,24	Proueiz	prepositus	probeist	
 393,25	Telzion	decanus	dechan	
-393,26	Kanesilis	cantor	sengere	Kancsilis b
+393,26	Kanesilis / Kancsilis b	cantor	sengere	
 393,27	Luschil	sacrista	kuster	
-393,28	Agiziniz	magister	meister	Agizinix a
-393,29	Agilarchiniz	magister scolarum	schulmester	oder Agilarchimz a
+393,28	Agiziniz / Agizinix a	magister	meister	
+393,29	Agilarchiniz / Agilarchimz a?	magister scolarum	schulmester	
 393,31	Silzimian	scolaris		scolaris zweimal übergeschr. b
 393,32	Iunchkal	discipulus	iungero	
 393,33	Larchizin	scriptor	scribere	
 393,34	Abiol	abbas	abbeth	
 393,35	Spariz	prior		
-393,36	Morizinz	monachus	munich	bl. 59a Morizin b
+393,36	Morizinz / Morizin b	monachus	munich	bl. 59a b
 393,37	Reimonz	monialis	nunna	
 393,38	Phalischer	inclusus	closenere	
 393,39	Orinschiel	heremita	einsidelo	
@@ -242,7 +242,7 @@ ref	lingua_ignota	latin	german	note
 393,62	Kolezin	sabulum	sant	
 393,63	Branzin	calx	calch	
 393,64	Ronzis	perpendiculum	murwaga	
-393,65	Gunzschula	murus	mura	Gunschula a
+393,65	Gunzschula / Gunschula a	murus	mura	
 393,66	Stirpheniz	pauimentum	hesderich	
 394,1	Kolinzia	columpna	sul	bl. 459b¹ a
 394,2	Fuschalioz	bases	simiz	
@@ -260,8 +260,8 @@ ref	lingua_ignota	latin	german	note
 394,14	Blanzio	ciborium		
 394,15	Sancciuia	cripta	cruftda	
 394,16	Zinzrinz	coclea	vvindelstein	
-394,17	Pharisch	conus	cnofh	Phari,sch a; Pharicsh b
-394,18	Tonizina	nola	schella b / scella a	oder Tonizma ab
+394,17	Pharisch / Pharicsh b	conus	cnofh	Phari,sch a
+394,18	Tonizina / Tonizma ab?	nola	schella b / scella a	
 394,19	Clomischol	campana	glochga	
 394,20	Zeia	restis	seil	
 394,21	Diriz		rinch	
@@ -287,7 +287,7 @@ ref	lingua_ignota	latin	german	note
 394,41	Phamkil	cera	was	
 394,42	Dilisch	sepum	unslith	
 394,43	Zizimina	oleum	olei	
-394,44	Phamziolaz	cereus	kerza	Phamphᶻiolaz a
+394,44	Phamziolaz / Phamphziolaz a	cereus	kerza	
 394,45	Kinchzia	candela	lith	
 394,46	Kinchscalis	candelabrum	kerzestal	
 394,47	Liuizanz	lucerna	lithfaz	
@@ -296,7 +296,7 @@ ref	lingua_ignota	latin	german	note
 394,50	Bulizin	pixis	busha	
 394,51	Moleziz	oblata		
 394,52	Amozia	eucharistia	gothdeslichamo	
-394,53	Uaschiro	calix	kelich	Valschiro b
+394,53	Uaschiro / Valschiro b	calix	kelich	
 394,54	Pamsiz	patena		
 394,55	Phirzianz	fistula	rora	Phirz,ⁱanz a
 394,56	Phinziol	urna	eimer	
@@ -315,12 +315,12 @@ ref	lingua_ignota	latin	german	note
 394,72	Amziliz	omelia		
 394,73	Mumizalibiz	matutinalis liber	methdenbuch	
 394,75	Titilaiz	breuiarium		
-395,1	Buenz	antiphona		Bůenz a
+395,1	Buenz / Bůenz a	antiphona		
 395,2	Dunaz	responsorium	respons	
 395,3	Braiz	uersus	uers	
 395,4	Onez	canticum	cantpsal	cantpsal gewis nicht deutsch, eher abgekürzt für cantus psalmi
 395,5	Guzinz	collecta		
-395,6	Mimischonz	capitulum		Mimischanz b
+395,6	Mimischonz / Mimischanz b	capitulum		
 395,7	Scarinz	subucula b	scurliz	bl. 59b Scarinz b, S rot ausgezeichnet
 395,8	Amlizima	superhumerale b	umbral	
 395,9	Tizzia	alba		
@@ -328,14 +328,14 @@ ref	lingua_ignota	latin	german	note
 395,11	Olzimia	mapula	hantifano	
 395,12	Tunchzial	stola		
 395,13	Scolmiz	subtile	subtil	
-395,14	Zimiza	casula	mishachel	Zimza a
+395,14	Zimiza / Zimza a	casula	mishachel	
 395,15	Pazidol	episcopale pallium		palium episcopale b
 395,16	Zinfrozia	scandalia	romschua	
 395,17	Paiox	infula	biscofeshubelin	
 395,18	Kolgira	pastoralis baculus	biscofestab	
 395,20	Minscal	uexillum	phano	bl. 459b² a
 395,21	Tilifzia	tapete	depeth	
-395,22	Squaniel	cortina	umbehanch	oder Squamel a
+395,22	Squaniel / Squamel a?	cortina	umbehanch	
 395,23	Zinkia	ansa	nestela	
 395,24	Korischol		pfellel	
 395,25	Inchscola	manutergium	hantwela	
@@ -358,7 +358,7 @@ ref	lingua_ignota	latin	german	note
 395,43	Zimzitama	exercitus	here	
 395,44	Viliscal	uulgus	uuolc	
 395,45	Dulschiliz	turba	menᵉge	
-395,46	Kanchziol	expeditio	hereuart	Kanchıziol b
+395,46	Kanchziol / Kanchıziol b	expeditio	hereuart	
 395,47	Kanzil	conmilito	heregesello	
 395,48	Zilix	socius	gesello	
 395,49	Durziol	miles	ritdere	
@@ -367,20 +367,20 @@ ref	lingua_ignota	latin	german	note
 395,52	Doziz	exactor	clegere	
 395,53	Clizio	uades	burgo	
 395,54	Fraizola	conuiua	gemazzo	Fraizola] großes F b
-395,55	Milzonziz	pincerna	schenko	Milzonzit a
+395,55	Milzonziz / Milzonzit a	pincerna	schenko	
 395,56	Gospilianz	discoforus	druschezo b / dapifer a	
 395,58	Spaninz	pistor	pister	
 395,59	Buschibol	paneficus	beckere	
-395,60	Lifiziol	cocus	cohc	Lifiziol oder Lisiziol a; Lifziol b
+395,60	Lifiziol / Lisiziol a? / Lifziol b	cocus	cohc	
 395,61	Birscheiz	esca	ezzin	
 395,62	Dirischil	potus	dranc	
 395,63	Scotilzio	cellerarius	kelnere	
 395,64	Schiraizon	camerarius	kamerere	
 395,65	Garginz	hortulanus	gardenere	
-395,66	Larginchziz	artifex	listinechere	Larginchzint a; l. listmechere
+395,66	Larginchziz / Larginchzint a	artifex	listinechere	l. listmechere
 395,67	Sporinzio	rusticus	gebur	diese und die 5 nächsten gll. auf rasur von anderen worten b
 395,68	Anziur	agricola	acherman	
-395,69	Gogglizil	messor	snidere	Glogglizil a
+395,69	Gogglizil / Glogglizil a	messor	snidere	
 396,1	Dilimischol	feniseca	medere	
 396,2	Planzimor	uinitor	wingartman	
 396,3	Bosinz	bubulcus	hossenere	
@@ -412,10 +412,10 @@ ref	lingua_ignota	latin	german	note
 396,29	Baleuinz	ioculator	spotdere	
 396,30	Lizo	saltator	sprengere	
 396,31	Uirueniz	fornicator	hůrere	
-396,32	Maliuzia	meretrix		oder Maluizia a
+396,32	Maliuzia / Maluizia a?	meretrix		
 396,33	Cliuinx	magus	goigelere	
 396,34	Ranschil	loquax	cleffere	
-396,35	Malzispianz	obtrectator	besprechere	Malzipianz b
+396,35	Malzispianz / Malzipianz b	obtrectator	besprechere	
 396,36	Scorinzin	susurro	runechere	= runezere
 396,37	Solchdamiz	adulator	winehaldesere	l. winehuldesere zu einem unbelegten huldisôn? bekannt ist wineholde
 396,38	Fugizlo	cloacarius	lengeuekere	
@@ -431,9 +431,9 @@ ref	lingua_ignota	latin	german	note
 396,48	Fulscaioliz	auceps	fogelere	
 396,49	Beluaiz	uenator	iegere	
 396,50	Kolsinzio		uerewere	
-396,51	Uisiscolinz	translator	antfristere	Uisiscolinz, si aus n corr. a; bl. 60a Vinscolinz b
+396,51	Uisiscolinz / Vinscolinz b	translator	antfristere	si aus n corr. a; bl. 60a b
 396,52	Razinthia	interpres	dutdere	
-396,53	Sparfoliz	explorator	spihere	Sparfoliz, f aus t corr. a; Spartoliz b
+396,53	Sparfoliz / Spartoliz b	explorator	spihere	f aus t corr. a
 396,54	Vrizeltin	speculator	wartdere	
 396,55	Sabonzio	sagittarius	selpscuzzo	sagitarius b
 396,56	Eioliz	dominus	herro	
@@ -441,7 +441,7 @@ ref	lingua_ignota	latin	german	note
 396,58	Subizo	seruus	cneth	
 396,59	Scalmiza	ancilla	dirna	
 396,60	Perzimzio	aduena	zukumelinch	
-396,61	Pazuz	indigena	inbuwelinch	Pazue b
+396,61	Pazuz / Pazue b	indigena	inbuwelinch	
 396,62	Primischol	liber homo	friman	
 396,63	Baischur	proprius	eigen	
 396,64	Scalgonzus	cliens	dienestman	
@@ -449,7 +449,7 @@ ref	lingua_ignota	latin	german	note
 396,67	Scaurin	nox	nath	
 396,68	Dizol	dominica dies	sunnendac	
 396,69	Discula	feria II	mendac	
-396,70	Munizza	feria III	dįestdac	Mimizza b
+396,70	Munizza / Mimizza b	feria III	dįestdac	
 397,1	Aleziz	feria IIII	mitdewocha	
 397,2	Mirzisil	feria V	dunresdac	
 397,3	Haurizpia	feria VI	vriedac	
@@ -465,22 +465,22 @@ ref	lingua_ignota	latin	german	note
 397,13	Mumizanz	matutinum		
 397,14	Ziuariz	ianuarius		die monatnamen auch bei Denis aao.
 397,15	Scantido	februarius		
-397,16	Ornischo	marcius		Omischo Denis
+397,16	Ornischo / Omischo Denis	marcius		
 397,17	Amnizo	aprilis		
-397,18	Ziriszinthio	maius		Tiriszinthio Denis
+397,18	Ziriszinthio / Tiriszinthio Denis	maius		
 397,19	Archindolis	iunius		
 397,20	Zigionz	iulius		
 397,21	Gargischol	augustus		
-397,22	Scandidoz	september		Scandidos Denis
+397,22	Scandidoz / Scandidos Denis	september		
 397,23	Oscilanz	october		
 397,24	Holischa	nouember		
 397,25	Denizimo	december		
-397,26	Ginschiz	prima		Ginschinz b
+397,26	Ginschiz / Ginschinz b	prima		
 397,27	Scoinz	tercia		
 397,28	Anischiz	sexta		
 397,29	Ioinz	nona		
 397,30	Kalizinz	uespera		
-397,31	Nuschanz	completorium		Duschanz b
+397,31	Nuschanz / Duschanz b	completorium		
 397,32	Duneziz	camisia	hemede	Duneziz] D rot ab, davor absatz
 397,33	Obirischa	manica	hermel	
 397,34	Fugeniz	brace	brůch	brache a
@@ -513,32 +513,32 @@ ref	lingua_ignota	latin	german	note
 397,61	Scaun		essa	
 397,62	Cloisch		cluft	
 397,63	Schirzima	foruex		foruez b
-397,64	Guzim		meizel	Girzim b
+397,64	Guzim / Girzim b		meizel	
 397,65	Scanipla		slistein	l. slifstein WGrimm
 397,66	Biminzsta	cos	wezestein	bl. 460a² a
 397,67	Sciria	securis	hachges	
 397,68	Blinchzia	dolabrum	barda	
-397,69	Zichzimil	bipennis b	bihelin	oder Ziehzimil a
+397,69	Zichzimil / Ziehzimil a?	bipennis b	bihelin	
 397,70	Kalziga		hepa	
-397,71	Ranchmaz		snitdesahs	Ranchmanz b
+397,71	Ranchmaz / Ranchmanz b		snitdesahs	
 398,1	Sculiz	subula		
 398,2	Zanziel	stilus		
 398,3	Kanfur	hamus		
 398,4	Brazchia	andena		
-398,5	Zizam	patella	phanna	Zizain b
+398,5	Zizam / Zizain b	patella	phanna	
 398,6	Zisch	sulcatorium		
-398,7	Ziunta	plana	saba	oder Zuinta a
+398,7	Ziunta / Zuinta a?	plana	saba	
 398,8	Zizim	circinum	cirzel	
 398,9	Hogiz	terebrum	negeber	
 398,10	Ziginz	uomer	sare	
 398,11	Zonz	ligo	sech	
 398,12	Milzimzia	craticula		
-398,13	Kazinz	lebes		Karinz b
+398,13	Kazinz / Karinz b	lebes		
 398,14	Nochzido	caccabus	cachgela	
 398,15	Lachzim	fuscinula	crowel	
 398,16	Ochzia	rastrum		
 398,17	Spirlizim	falx		
-398,18	Ziuzia	falcula		oder Zuizia a
+398,18	Ziuzia / Zuizia a?	falcula		
 398,19	Galschiriz	bipennis		
 398,20	Sconz	incus	aneboz	
 398,21	Grogezin	carbo	colo	
@@ -558,9 +558,9 @@ ref	lingua_ignota	latin	german	note
 398,35	Scolmiz	stiua		stina a; lateinisch
 398,36	Ziginz	uomer	sare	absatz und rotes Z in Ziginz ab, diese und die folgende gl. schon 398,10.11 ab
 398,37	Zinz	ligo	sech	
-398,38	Gamzida		egeda	Ganzida a
+398,38	Gamzida / Ganzida a		egeda	
 398,39	Golziol		silo	
-398,40	Harzima	ager	achger	Haizima b
+398,40	Harzima / Haizima b	ager	achger	
 398,41	Lauziminiza	terra	herda	
 398,42	Vmbleziz		egerda	Vmb,leziz a
 398,43	Scaleis		bracha	
@@ -572,11 +572,11 @@ ref	lingua_ignota	latin	german	note
 398,49	Bilischiz	incaustum	dinda	encaustrum b
 398,50	Banziaz	penna	uedera	
 398,51	Arziaz	cals		scheint entstellt aus lat. scalpellum resp. scalpellus; s. auch oben 382,20
-398,52	Schumz	pumex	pumez	Schunz b
-398,53	Strauimiz	linea b	rigelstab	oder Strauuniz a
+398,52	Schumz / Schunz b	pumex	pumez	
+398,53	Strauimiz / Strauuniz a?	linea b	rigelstab	
 398,54	Bulscharz	plumbum	bli	
 398,55	Branischiaz	pergamenum	pirimente	pergamentum b
-398,57	Gruschiaz		presdela	Guschiaz b; presdela = pressel Lexer 2,293?
+398,57	Gruschiaz / Guschiaz b		presdela	presdela = pressel Lexer 2,293?
 398,58	Luschanz	minium		
 398,59	Kilmindiaz	crocus		
 398,60	Schamiz	tabula		
@@ -594,16 +594,16 @@ ref	lingua_ignota	latin	german	note
 399,2	Ploniz		spelt	
 399,3	Buuinz		truha	
 399,4	Alegrinz	scrinium	scrin	
-399,5	Guzimiz	cista	chista	Gizimiz b
+399,5	Guzimiz / Gizimiz b	cista	chista	
 399,6	Guruz	linum b	flahs	
 399,7	Biriz		werch	
 399,8	Ruziminz	colus		
 399,9	Lizchaz	fusus	spilla	
 399,10	Ordeiz		wirden	
-399,11	Vazimanz		garn	Uazinianz a
+399,11	Vazimanz / Uazinianz a		garn	
 399,12	Almiz		hasbel	
 399,13	Vazitelz		garnescrago b / garnescra^go a	
-399,14	Glaniz		clungelin a / clugelin b	Gianiz b
+399,14	Glaniz / Gianiz b		clungelin a / clugelin b	
 399,15	Nulsiz	acus	nalda	
 399,16	Ziriskans		uingerhuth a / uingerhůt b	
 399,17	Diuz	marsuppium		marˢᵘᵖⁱūmarsupiū a
@@ -612,7 +612,7 @@ ref	lingua_ignota	latin	german	note
 399,20	Schagur		roclin	Sc,ʰagur a
 399,21	Schirizim		stucha	bl. 460b¹ a
 399,22	Tenziz		witede	
-399,23	Zamiziz		gerun	Zamiriz b
+399,23	Zamiziz / Zamiriz b		gerun	
 399,24	Nasunz		nethde a / netde b	
 399,25	Glinziz		soum	darüber marsuppium ausgestrichen b, s. 399,17
 399,26	Hoilzirier		houbetlovc	
@@ -620,7 +620,7 @@ ref	lingua_ignota	latin	german	note
 399,28	Rasinz		risa	
 399,29	Hoilbaiz		hoibetdůch a / hoibetdovch b	
 399,30	Ornalzanzia		harsnur	
-399,31	Kanulzial		wil	Kanuzial b
+399,31	Kanulzial / Kanuzial b		wil	
 399,32	Oiralbriun	inaures		Oiralbriū a
 399,33	Naczuon	monile	spengelin	
 399,34	Gragischon	armilla		
@@ -652,10 +652,10 @@ ref	lingua_ignota	latin	german	note
 399,60	Amizdel		bambest	
 399,61	Fronich	frenum	britdel	
 399,62	Zuzian		furbuge	
-399,63	Spuiz	forma b	leist	Spurz b
+399,63	Spuiz / Spurz b	forma b	leist	
 399,64	Brascha	subula		
 399,65	Zineuel		drath	
-399,66	Gurux		bursta	Guraix, dh. Gurax in Gurux corr. a
+399,66	Gurux / Guraix a		bursta	dh. Gurax in Gurux corr. a
 399,67	Lucza		scůba	l. scrůba oder srůba 'schrubbe'
 399,68	Bolis		lo	
 399,69	Murscha		suerca a / swertza b	
@@ -694,17 +694,17 @@ ref	lingua_ignota	latin	german	note
 400,32	Baczanz		malz	
 400,33	Gunguliz		schufa	das wort ist unbekannt. dem zusammenhange nach können treber gemeint sein
 400,34	Uischamil	uinea	wingart	
-400,35	Stogin	uitis		Stogin] Scilanz b, s. 400,26
+400,35	Stogin / Scilanz b	uitis		b wiederholt Scilanz, s. 400,26
 400,36	Ranziaz	palmes		
 400,37	Alischol	uua	drubel	
 400,38	Brisianz		bercorn	
 400,39	Curschul		rappo	
 400,40	Splinz		pfal	
 400,41	Scruiz	sepes		
-400,42	Staniziz		stecco	oder Stamziz a
+400,42	Staniziz / Stamziz a?		stecco	
 400,43	Planizunz	curtis		
 400,44	Comzimaz	domus	hus	
-400,45	Coindanz	camenata		Coindaz b
+400,45	Coindanz / Coindaz b	camenata		
 400,46	Stoinz	stupa	stuba	bl. 460b² a
 400,47	Kalchizinz	cellarium	chelre	
 400,48	Gauschuliz	camera		
@@ -751,7 +751,7 @@ ref	lingua_ignota	latin	german	note
 401,17	Scraphinz		krepfelin	
 401,18	Lamischiz	abies		Lamischiz] L rot ausgezeichnet b
 401,19	Pazimbu		nespelbŏm a / nesbilbŏm b	
-401,20	Schalmindibuz	amigdalus		Schalmindibiz a
+401,20	Schalmindibuz / Schalmindibiz a	amigdalus		
 401,21	Bauschuz	acer		
 401,22	Hamischa	alnus		
 401,23	Laizscia	tilia		Laiᶻscia a
@@ -759,25 +759,25 @@ ref	lingua_ignota	latin	german	note
 401,25	Gramzibuz	castanea		
 401,26	Scoica	carpenus		
 401,27	Bumbirich	corilus		
-401,28	Zaimzabuz		cutinbŏm	Laimzabuz b
+401,28	Zaimzabuz / Laimzabuz b		cutinbŏm	
 401,29	Gruzimbuz	cerasus		
 401,30	Culmendiabuz	cornus		
 401,31	Guskaibuz	esculus		
 401,32	Gigunzibuz	ficus		Gigunzibuz b
 401,33	Bizarmol	fraxinus		
 401,34	Zamzila	fagus		
-401,35	Scoimchia	picea		Schoinchia b
+401,35	Scoimchia / Schoinchia b	picea		
 401,36	Scongilbuz	fusarius		
 401,37	Clamizibuz	laurus		
 401,38	Gonizla		studa	
 401,39	Zaschibuz	lentiscus		
-401,40	Schamihilbuz	iuniperus		Scalmhilbuz a
+401,40	Schamihilbuz / Scalmhilbuz a	iuniperus		
 401,41	Pomziaz	malus		
 401,42	Mizamabuz	morus		
 401,43	Burschiabuz	murica		Bur,ˢchiabuz a
 401,44	Laschiabuz	ornus		
 401,45	Golinzia	platanus		
-401,46	Sparinichibuz	persicus		Sparmichibuz b
+401,46	Sparinichibuz / Sparmichibuz b	persicus		
 401,47	Zirumzibuz	pirus		
 401,48	Burzimibuz	prinus		
 401,49	Gimeldia	pinus		
@@ -793,7 +793,7 @@ ref	lingua_ignota	latin	german	note
 401,59	Scuanibuz	mirtus		
 401,60	Schirobuz		ahornenbŏm a / ahornenbom b	bl. 461a¹ a
 401,61	Orschibuz	quercus		bl. 61b b
-401,62	Muzimibuz	nucus b	nuzbŏm a	Mirzimibuz b
+401,62	Muzimibuz / Mirzimibuz b	nucus b	nuzbŏm a	
 401,63	Gisgiaz	tribulus		
 401,64	Zizanz	dumi		
 401,65	Izziros	uepres		
@@ -817,19 +817,19 @@ ref	lingua_ignota	latin	german	note
 402,13	Ginzia	bibinella		
 402,14	Culgeia		meigelana	Hildegardis Physica 1,159; dass damit der majoran gemeint sei, sage ich nur wegen vFischer-Benzon Altd. gartenflora 207
 402,15	Gurizama	millefolium		
-402,16	Magizuna		sitderuurz a / sitderwurz b	Magizima b
+402,16	Magizuna / Magizima b		sitderuurz a / sitderwurz b	
 402,17	Bruschia	centauria		
 402,18	Kirischia	entiana		Kirischia] is scheint aus u corr. a
 402,19	Fauz	enula a	enela b	
-402,20	Gausia		menewa	Galsia b
+402,20	Gausia / Galsia b		menewa	
 402,21	Bischia	ugera		ugera Hildegardis Physica 1,137; nach Pritzel-Jessen = colchicum auctumnale
 402,22	Saxia		zucker a / zucger b	
-402,23	Scukuriz	celidonia		Scu:kuriz a; Scukurriz b
+402,23	Scukuriz / Scukurriz b	celidonia		Scu:kuriz a
 402,24	Zichio	plantago		
 402,25	Gischiz		grensich	
 402,26	Pluschia	poleia		
 402,27	Pigizia		kuuenela a / kwenela b	
-402,28	Dugrul		binewrz a / binewurz b	Dugrus b
+402,28	Dugrul / Dugrus b		binewrz a / binewurz b	
 402,29	Bouizia	boberella		nicht identisch mit der schon 402,13 genannten bibinella, s. Hildegardis Physica 1,131 und 58. vFischer-Benzon 198. Nd. jb. 17,83,63 Labrusca bouerella
 402,30	Sizia	melda		
 402,31	Cuz	papauer		
@@ -857,7 +857,7 @@ ref	lingua_ignota	latin	german	note
 402,53	Agonzia	aquileia a / acoleia b		
 402,54	Maschin		denmarka a / denimarka b	
 402,55	Framiz		steinuarn b / steivvarn a	
-402,56	Dagezia		douvvrz a / dowurz b	Dagezeia b; Hildegardis Physica 1,53
+402,56	Dagezia / Dagezeia b		douvvrz a / dowurz b	Hildegardis Physica 1,53
 402,57	Grimizia	brionia a	schitwurz b	stichwurtz Hildegardis Physica 1,43
 402,58	Spiriz		sprincwrz a / sprincwurz b	
 402,59	Daschia		wolfesgele a (gena übergeschr.) / wolfegelegena b	Hildegardis Physica 1,156
@@ -886,7 +886,7 @@ ref	lingua_ignota	latin	german	note
 403,17	Philzia		priseloch a / pfriselovch b	prieslauch, prieselauch Hildegardis Physica 1,82
 403,18	Dizia		planza	
 403,19	Pazia		bilsa	
-403,20	Fluischa		bachminza	oder Fliuscha a; Magriz Fluischa b
+403,20	Fluischa / Fliuscha a? / Magriz Fluischa b		bachminza	
 403,21	Iuziz		lŏch a / lovch b	
 403,22	Basin	pepo		
 403,23	Gragiz		rathdich a / radich b	
@@ -903,13 +903,13 @@ ref	lingua_ignota	latin	german	note
 403,34	Cursez	milium		miliū a
 403,35	Pischir	apium		
 403,36	Pransiz	petrosilinum a / petersilia b		
-403,37	Gruizia		haselwrz a / haselwurz b	oder Griuzia ab
+403,37	Gruizia / Griuzia ab?		haselwrz a / haselwurz b	
 403,38	Brumsil		biuerwrz a / biuerwurz b	
 403,39	Graxia	uiola		
 403,40	Galschia	gamandria		
 403,41	Zischia		frideles ŏga b / frideles ocha a	frideles auga Hildegardis Physica 1,134
 403,42	Gliaz	gladiolus		
-403,43	Duniz		distel	oder Diniz ab
+403,43	Duniz / Diniz ab?		distel	
 403,44	Guriz		kartdo a / kardo b	
 403,45	Riaz		ritgras	
 403,46	Scorzia	urtica		
@@ -923,7 +923,7 @@ ref	lingua_ignota	latin	german	note
 403,54	Ruizio	siligo		
 403,55	Glachxa		spelza	
 403,56	Diuxia	ordeum		
-403,57	Zamza	auena		oder Zaniza ab
+403,57	Zamza / Zaniza ab?	auena		
 403,58	Sparzun		dorth	
 403,59	Zingia		uersbotdo	
 403,60	Frazinz		cazenzagel a / cacenzagel b	
@@ -940,7 +940,7 @@ ref	lingua_ignota	latin	german	note
 404,4	Balbunz	bubo		
 404,5	Flauriz	pellicanus		
 404,6	Bozibo	herodius		
-404,7	Balsciz	picus		Balsciz a, s aus c corr., Balschiz b
+404,7	Balsciz / Balschiz b	picus		s aus c corr. a
 404,8	Hauscuz	accipiter		
 404,9	Zirunz	nisus		
 404,10	Moguz	larus		
@@ -948,7 +948,7 @@ ref	lingua_ignota	latin	german	note
 404,12	Warnaz	ardea		
 404,13	Nozia	ulula		
 404,14	Glamzia		hehera	
-404,15	Noizbiz	nocticorax		Noizbir b
+404,15	Noizbiz / Noizbir b	nocticorax		
 404,16	Aschia		stara	
 404,17	Dorinschiz		dorndrewe	
 404,18	Drozima		drosla	
@@ -956,11 +956,11 @@ ref	lingua_ignota	latin	german	note
 404,20	Brauz	turdus		
 404,21	Bachiz		růch b / ruch a	
 404,22	Bauscha		snepfa	
-404,23	Wilischio	upupa		Wilizchio b
+404,23	Wilischio / Wilizchio b	upupa		
 404,24	Gabia		quahtila	
 404,25	Scalia	merula		
 404,26	Duschio	mergus		
-404,27	Wiuia	paris		Wiwia b; l. parix
+404,27	Wiuia / Wiwia b	paris		l. parix
 404,28	Waschiz		roudil	
 404,29	Zanczia	laudula		
 404,30	Noisca		nathdegala a / nahtegala b	
@@ -968,15 +968,15 @@ ref	lingua_ignota	latin	german	note
 404,32	Mosiz	uinco		
 404,33	Ermosiz		disteluinco	
 404,34	Birischa		grasemugga a / grasemugga b	
-404,35	Glisgia	amarellus a / amerellus b		Gusgia b
-404,36	Roischo		cunigelen	Raischo b
+404,35	Glisgia / Gusgia b	amarellus a / amerellus b		
+404,36	Roischo / Raischo b		cunigelen	
 404,37	Viperiz		warcgengel a / warcgengel b	
 404,38	Loginx	gruo		l. grus
 404,39	Ninxia	cornix		
-404,40	Urchio	ciconia		Vrschio b
+404,40	Urchio / Vrschio b	ciconia		
 404,41	Gugurunz	strucio		
 404,42	Bilzinus	psitacus		
-404,43	Zamzit	pauo		Zamziz b
+404,43	Zamzit / Zamziz b	pauo		
 404,44	Ualueria	uespertilio		
 404,45	Alxia	pica		
 404,46	Alechiz		stocharo	
@@ -993,7 +993,7 @@ ref	lingua_ignota	latin	german	note
 404,57	Raiza		rephun	bl. 461b¹ a
 404,58	Prinscho	miluus		
 404,59	Galschia	columba		
-404,60	Ligeschia		holzduba b / hozduba a	Ligelschia b
+404,60	Ligeschia / Ligelschia b		holzduba b / hozduba a	
 404,61	Haischa	turtur		
 404,62	Vizzia	hirundo		
 404,63	Uoxniza	cuculus		

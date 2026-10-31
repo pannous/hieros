@@ -18,3 +18,9 @@ Columns: `ref` (page,line of the edition), `lingua_ignota`, `latin`, `german`, `
 Same table + columns `english`, `deutsch` (modern meaning, my own identification from the Latin/MHG glosses).
 `?` = plausible guess, `??` = highly uncertain (mostly obscure plant/bird/tool names with only an MHG gloss).
 Source mapping files: probes/hildegard_pdf/modern_*.tsv (joined on `ref`).
+
+## Spelling variants in `lingua_ignota`
+Variant spellings from the footnotes are merged into the first column: `Aieganz / Aleganz b`.
+Sigla: a = Wiesbaden Riesencodex, b = Cheltenham/Berlin codex, Denis = MDenis' print of the lost Vienna MS.
+`a?` / `ab?` = editor's "oder X" (uncertain alternative reading). Unmarked first form = edition's main text.
+Layout/correction notes (Son|ziz, Mis:kila, superscript insertions) stay in `note`.
