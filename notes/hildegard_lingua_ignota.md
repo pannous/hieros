@@ -13,3 +13,8 @@ Columns: `ref` (page,line of the edition), `lingua_ignota`, `latin`, `german`, `
 - Many entries carry only a German gloss (written in the gloss slot in both MSS) → `latin` empty.
 - Superscript vowels kept as ŏ ů (o/u with small e/o above).
 - 398,36–37 repeat 398,10–11 (footnote confirms); 404,66–73 glosses in b are shifted by one (see note).
+
+## dicts/GLOSSAE_HILDEGARDIS_modern.tsv
+Same table + columns `english`, `deutsch` (modern meaning, my own identification from the Latin/MHG glosses).
+`?` = plausible guess, `??` = highly uncertain (mostly obscure plant/bird/tool names with only an MHG gloss).
+Source mapping files: probes/hildegard_pdf/modern_*.tsv (joined on `ref`).
